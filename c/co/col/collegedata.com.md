@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the collegedata.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608092346id_/http%3A//www.collegedata.com/cs/content/content_privacy_tmpl.jhtml%3Ftype%3Dinfo) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the collegedata.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207020314id_/http%3A//www.collegedata.com/cs/content/content_privacy_tmpl.jhtml%3Ftype%3Dinfo) for the most accurate reproduction.*
 
 # CollegeData - Privacy Policy
 
@@ -41,7 +41,7 @@ This Privacy Policy only addresses our use and disclosure of information we coll
 
 What security measures does the Site employ?
 
-We maintain physical, electronic, and procedural safeguards that are designed to guard your personally identifiable information, including the information we collect on this Site. Our security procedures are aimed at preventing unauthorized access to such information and are reviewed and audited periodically for compliance with federal standards. To help protect the privacy of data you transmit through use of this Site, all communication of personally identifiable information is transmitted over a Secure Sockets Layer (SSL). Your registration and log in information are always transmitted using SSL, as is information submitted on an Admissions Profile or when using the EFC Calculator. We also recommend users access the Site with a browser that supports 128-bit encryption.
+We maintain physical, electronic, and procedural safeguards that are designed to guard your personally identifiable information, including the information we collect on this Site. Our security procedures are aimed at preventing unauthorized access to such information and are reviewed and audited periodically for compliance with federal standards. To help protect the privacy of data you transmit through use of this Site, all communication of personally identifiable information is transmitted over HTTPS using Transport Layer Security (TLS). Your registration and log in information are always transmitted using TLS, as is information submitted on an Admissions Profile or when using the EFC Calculator. We also recommend users access the Site with a browser that supports 128-bit encryption.
 
 How will I know about changes in the Privacy Policy?
 
