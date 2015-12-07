@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the tiresplus.com privacy policy that was archived on 2015-06-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150608045314id_/http%3A//www.tiresplus.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the tiresplus.com privacy policy that was archived on 2015-12-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151207032838id_/http%3A//www.tiresplus.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class=" js flexbox flexboxlegacy canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths" lang="en" style=""><!--<![endif]--><head>
 <title>Tires Plus Privacy Policy | Tires Plus</title>
@@ -26,6 +26,11 @@
 <script src="//assets.adobedtm.com/1760898470a267e5ef8ab5610a006eb26e369dea/satelliteLib-6fe796739ec35db50e89b49d0dd2a4b72952b64f.js"></script>
 </head>
 <body><div id="tooltip-arrow"></div><div id="tooltip"></div>
+<div style="width:100%;height:auto;background-color:#565656;background-color:#2d2d2d !important;background-image:url('/img/global/bg-pattern-161616.gif');">
+<a href="/tires-plus-coupons/popup.jsp?image=Clearance Event_TP_Dec 1-31&amp;int_cmp=desktop_tiresplus_topbanner" rel="nofollow" "="">
+<img src="/utilities/media.jsp?src=p&amp;w=image&amp;i=tp-top-banner-1512" class="tp_boys_girls">
+</a>
+</div>
 <nav>
 <div class="secondary-nav">
 <div class="util-nav">
@@ -35,7 +40,7 @@
 <li><a href="#"><span>MyTiresPlus Login</span><i
 class="icon-login"></i></a></li>
 -->
-<li id="preferredPhoneNumber" class="last-child"><strong>1–800–847–3775</strong></li>
+<li id="preferredPhoneNumber" class="last-child"><strong>1-800-847-3775</strong></li>
 </ul>
 </div>
 <div class="action-nav">
@@ -43,9 +48,9 @@ class="icon-login"></i></a></li>
 <li class="find-store"><a href="#">FIND A STORE</a>
 <div class="sub-nav">
 <form id="navLocator" name="navLocator" method="get" action="/store-locate/display-map/" data-error-label="#errorNavZip" novalidate="novalidate">
-<p>Enter your zip code below to find a Tires Plus store near you</p>
+<p>Enter your zip code or (City and State) below to find a Tires Plus store near you</p>
 <div id="errorNavZip" class="errorContainer"></div>
-<input type="text" name="navZip" id="navZip" autocomplete="off" placeholder="ZIP CODE" maxlength="5" required="" aria-required="true">
+<input type="text" name="navZip" id="navZip" autocomplete="off" placeholder="ZIP or (City and State)" required="" aria-required="true">
 <button type="submit">
 LOCATE <i class="symbol">+</i>
 </button>
@@ -550,13 +555,189 @@ SERVICE OFFERS
 </form>
 </div>
 </nav>
+<input type="hidden" id="media-qs" name="media-qs" value="">
+<script>
+function URLParser(u){
+    var path="",query="",hash="",params;
+    if(u.indexOf("#") > 0){
+        hash = u.substr(u.indexOf("#") + 1);
+        u = u.substr(0 , u.indexOf("#"));
+    }
+    if(u.indexOf("?") > 0){
+        path = u.substr(0 , u.indexOf("?"));        
+        query = u.substr(u.indexOf("?") + 1);
+        params= query.split('&');
+    }else
+        path = u;
+    return {
+        getHost: function(){
+            var hostexp = /\/\/([\w.-]*)/;
+            var match = hostexp.exec(path);
+            if (match != null && match.length > 1)
+                return match[1];
+            return "";
+        },
+        getPath: function(){
+            var pathexp = /\/\/[\w.-]*(?:\/([^?]*))/;
+            var match = pathexp.exec(path);
+            if (match != null && match.length > 1)
+                return match[1];
+            return "";
+        },
+        getHash: function(){
+            return hash;
+        },
+        getParams: function(){
+            return params
+        },
+        getQuery: function(){
+            return query;
+        },
+        setHash: function(value){
+            if(query.length > 0)
+                query = "?" + query;
+            if(value.length > 0)
+                query = query + "#" + value;
+            return path + query;
+        },
+        setParam: function(name, value){
+            if(!params){
+                params= new Array();
+            }
+            params.push(name + '=' + value);
+            for (var i = 0; i < params.length; i++) {
+                if(query.length > 0)
+                    query += "&";
+                query += params[i];
+            }
+            if(query.length > 0)
+                query = "?" + query;
+            if(hash.length > 0)
+                query = query + "#" + hash;
+            return path + query;
+        },
+        getParam: function(name){
+            if(params){
+                for (var i = 0; i < params.length; i++) {
+                    var pair = params[i].split('=');
+                    if (decodeURIComponent(pair[0]) == name)
+                        return decodeURIComponent(pair[1]);
+                }
+            }
+        },
+        hasParam: function(name){
+            if(params){
+                for (var i = 0; i < params.length; i++) {
+                    var pair = params[i].split('=');
+                    if (decodeURIComponent(pair[0]) == name)
+                        return true;
+                }
+            }
+        },
+        removeParam: function(name){
+            query = "";
+            if(params){
+                var newparams = new Array();
+                for (var i = 0;i < params.length;i++) {
+                    var pair = params[i].split('=');
+                    if (decodeURIComponent(pair[0]) != name)
+                          newparams .push(params[i]);
+                }
+                params = newparams ;
+                for (var i = 0; i < params.length; i++) {
+                    if(query.length > 0)
+                        query += "&";
+                    query += params[i];
+                }
+            }
+            if(query.length > 0)
+                query = "?" + query;
+            if(hash.length > 0)
+                query = query + "#" + hash;
+            return path + query;
+        },
+    }
+}
+function fnCallMediaCampaignScriptOnLoad(){
+	$(document).ready(function($) {
+		/*
+		 * 		Append search engine query string to all anchor link to keep track of the parameters
+		 * 
+		 */
+		var mediacampaignquerystring = $('#media-qs').val();
+		$('a').each(function(){ 
+			if (typeof (mediacampaignquerystring) != undefined && mediacampaignquerystring != null && mediacampaignquerystring != '') {
+				var mcqparams = URLParser(URLParser(this.href).getHost()+URLParser(this.href).getPath()+"?"+mediacampaignquerystring).getParams();
+				var hashval = URLParser(this.href).getHash();
+				if (typeof (mcqparams) != undefined && mcqparams != null && mcqparams.length > 0) {
+					var pkey = mcqparams[0].split('=');
+					if (!URLParser(this.href).hasParam(pkey[0])) {
+						if (hashval != '') {
+							var hr = this.href.substr(0 , this.href.indexOf("#"));
+							$(this).attr('href', hr + ((hr.indexOf('?')!=-1)?'&':'?') + mediacampaignquerystring+"#"+hashval);
+						} else {
+							$(this).attr('href', this.href + ((this.href.indexOf('?')!=-1)?'&':'?') + mediacampaignquerystring);
+						}
+					}
+				}
+			}
+		});
+		
+		/*
+		 * 		Append search engine parameters to all form objects as hidden fields to keep track of the parameters
+		 * 
+		 */
+		$('[id^=media-param-]').each(function() {
+			var mediaParamName = this.id.split('media-param-').pop();
+			var mediaParamValue = this.value;
+			if (typeof (mediaParamValue) != undefined && mediaParamValue != null && mediaParamValue != '') {
+				var $mphidden = $('<input>').attr({
+				    type: 'hidden',
+				    id: mediaParamName,
+				    name: mediaParamName,
+				    value: mediaParamValue
+				});
+				
+				$($mphidden).appendTo($("form"));
+				
+				$("form").each(function() {
+					var formID = $(this).attr("id");
+					var formAction = $(this).attr("action");
+					var formMethod = $(this).attr("method");
+					var formClass = $(this).attr("class");
+					if ("post" == formMethod || "POST" == formMethod) {
+						if (typeof (mediacampaignquerystring) != undefined && mediacampaignquerystring != null && mediacampaignquerystring != '') {
+							var mcqparams1 = URLParser(URLParser(document.location.origin).getHost()+formAction+"?"+mediacampaignquerystring).getParams();
+							if (typeof (mcqparams1) != undefined && mcqparams1 != null && mcqparams1.length > 0) {
+								var pkey1 = mcqparams1[1].split('=');
+								var completeactionurl = URLParser(document.location.origin).getHost()+formAction;
+								var formObj = (typeof (formID) != undefined && formID != null) ? '#'+formID : (typeof (formClass) != undefined && formClass != null) ? '.'+formClass : null;
+								if (typeof (formObj) != undefined && formObj != null) {
+									$(formObj+' input[type="hidden"][name="'+mediaParamName+'"]').remove();	
+									if (!URLParser(completeactionurl).hasParam(pkey1[0])) {
+										$(formObj).attr('action', formAction + ((formAction.indexOf('?')!=-1)?'&':'?') + mediacampaignquerystring);
+									}
+								}
+							}												
+						}
+					} else if (typeof (formID) != undefined && formID != null && 
+							(formID == 'appointmentZipStateForm' || formID == 'appointmentCityStateForm' || 
+							formID == 'form-schedule-appointment' || formID == 'form-schedule-date-time')) {
+						$('#'+formID+' input[type="hidden"][name="'+mediaParamName+'"]').remove();
+					}
+				});
+			}
+		});
+	});
+}
+</script>
 <div class="container">
 <div class="content-container">
 <div class="breadcrumbs">
 <a href="/">Home</a>
 <span>Privacy Policy</span>
 </div>
-<h1>Tires Plus Privacy Policy</h1>
+<h1>Tires Plus Privacy Policy*</h1>
 <hr>
 <p>Tires Plus thanks you for accessing or using this web site (the "Site"). Tires Plus wants to assure you that we respect your privacy. We know that trust is the key to any successful business relationship. The following Privacy Policy describes Tires Plus’s commitment to protecting your personal information.</p>
 <p>Use of this Site constitutes your consent to the collection and use of the information as described below in this Privacy Policy. If Tires Plus changes this Privacy Policy, Tires Plus will update this page of the Site so that you will be aware of any changes to this policy. Tires Plus encourages you to review this Privacy Policy from time to time so you will know if the Privacy Policy has been changed or updated.</p>
@@ -595,6 +776,9 @@ SERVICE OFFERS
 <h4>Updates to This Policy</h4>
 <p>If Tires Plus decides to change or update this Privacy Policy, Tires Plus will post changes and updates on this Site so that you will always be aware of what information Tires Plus collects, uses and distributes. Tires Plus encourages you to review this Privacy Policy from time to time so you will know if the Privacy Policy has been changed or updated. If you have any questions about Tires Plus’s Privacy Policy, please use the "Contact Us" section of this Site.</p>
 <p>
+* References to Tires Plus in this privacy policy includes Firestone Complete Auto Care, Hibdon Tires Plus, Wheel Works and other trade names under which Bridgestone Retail Operations operates.
+</p>
+<p>
 <strong>©2015
 Tires Plus. All rights reserved.
 </strong>
@@ -613,6 +797,7 @@ Tires Plus. All rights reserved.
 <a href="/auto-maintenance-services/tune-up/">Tune-Up Service</a>
 <a href="/shop-for-tires/tire-buying-guide/tire-pressure-monitor-tool/">Check Tire Pressure Tool</a>
 <a href="/auto-maintenance-services/fuel-efficiency-tips/">Max Your Gas</a>
+<a href="http://local.tiresplus.com/" target="_blank">Local TiresPlus</a>
 </div>
 </li>
 <li>
@@ -661,10 +846,10 @@ Tires Plus. All rights reserved.
 <div class="footerlink"><a href="/tires-plus-coupons/tire-deals-and-coupons/">Tires Offers</a>
 <a href="/tires-plus-coupons/auto-service-coupons-and-offers/">Repair Offers</a> <a href="/tires-plus-coupons/auto-service-coupons-and-offers/">Maintenance Offers</a>
 <div class="social">
-<a href="http://www.facebook.com/TiresPlus" target="_blank"><i class="icon-facebook"></i></a>
-<a href="http://twitter.com/tiresplus" target="_blank"><i class="icon-twitter"></i></a>
-<a href="http://www.youtube.com/user/TiresPlus" target="_blank"><i class="icon-youtube"></i></a>
-<a href="https://plus.google.com/+tiresplus/posts" target="_blank"><i class="icon-google"></i></a>
+<a href="http://www.facebook.com/TiresPlus" target="_blank" title="Like us on Facebook"><i class="icon-facebook"></i></a>
+<a href="http://twitter.com/tiresplus" target="_blank" title="Follow us on Twitter"><i class="icon-twitter"></i></a>
+<a href="http://www.youtube.com/user/TiresPlus" target="_blank" title="Visit our You Tube Channel"><i class="icon-youtube"></i></a>
+<a href="https://plus.google.com/+tiresplus/posts" target="_blank" title="Add us on Google+"><i class="icon-google"></i></a>
 </div>
 </div>
 </li>
@@ -698,8 +883,13 @@ Tires Plus. All rights reserved.
 </div>
 </div>
 </nav>
-<div class="legal">
+<div class="legal" style="height:130px;">
 <ul>
+<li style="border-right:none">
+<div>
+<a target="_blank" id="bbblink" class="ruvtbum" href="http://www.bbb.org/chicago/business-reviews/tire-distributors-and-manufacturers/bridgestone-retail-operations-in-bloomingdale-il-16318#bbbseal" title="Bridgestone Retail Operations, LLC, Tire Distributors &amp; Manufacturers, Bloomingdale, IL" style="display: block;position: relative;overflow: hidden; width: 60px; height: 108px; margin: 0px; padding: 0px;"><img style="padding: 0px; border: none;" id="bbblinkimg" src="https://seal-chicago.bbb.org/logo/ruvtbum/bridgestone-retail-operations-16318.png" width="120" height="108" alt="Bridgestone Retail Operations, LLC, Tire Distributors &amp; Manufacturers, Bloomingdale, IL"></a><script type="text/javascript">var bbbprotocol = ( ("https:" == document.location.protocol) ? "https://" : "http://" ); document.write(unescape("%3Cscript src='" + bbbprotocol + 'seal-chicago.bbb.org' + unescape('%2Flogo%2Fbridgestone-retail-operations-16318.js') + "' type='text/javascript'%3E%3C/script%3E"));</script><script src="https://seal-chicago.bbb.org/logo/bridgestone-retail-operations-16318.js" type="text/javascript"></script>
+</div>
+</li>
 <li>© 2015
 Tires Plus Total Car Care All Right Reserved
 </li>
@@ -754,6 +944,10 @@ Tires Plus Total Car Care All Right Reserved
 		        	$(this).parent().hide(); 
 		        	$(this).closest('li').blur();
 		    	});
+			}
+			
+			if (typeof fnCallMediaCampaignScriptOnLoad == 'function') {
+				fnCallMediaCampaignScriptOnLoad();
 			}
 		})
 	</script>
