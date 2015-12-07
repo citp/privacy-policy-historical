@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gov.je privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630004318id_/http%3A//gov.je/Pages/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gov.je privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207123508id_/http%3A//www.gov.je/Pages/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy policy
 
@@ -40,14 +40,16 @@ We use Google Analytics to help us understand how visitors engage with our websi
 
 [Learn how to control the information your browser sends to Google on Google's website](http://www.google.com/policies/privacy/partners/)
 
-## Cookies
-
-Cookies are small files which can be stored on your computer when you visit a website. These files contain information about the web pages you look at so that the next time you visit the site it can be customised to meet your needs. We use cookies during the login process on this website. Google Analytics also uses cookies.
-
 ## IP address
 
 Your computer’s IP address is a number assigned to your computer when you use the internet.​ This is recorded automatically in a log file when you visit our site. This log file does not contain any personal identifiable information about you and will only be used for statistical purposes.
 
+## Cookies
+
+Cookies are small files which can be stored on your computer when you visit a website. These files contain information about the webpages you look at so that the next time you visit the site it can be customised to meet your needs. 
+
+[Cookies policy](https://web.archive.org/Pages/CookiesPolicy.aspx)
+
 ## Changes to this policy
 
-We may, at any time, revise this privacy statement without notice. Please check it regularly. Continued use of the States of Jersey website after a change has been made is your acceptance of the change.
+We may, at any time, revise this privacy statement without notice so you should check it regularly. Continued use of the States of Jersey website after a change has been made is your acceptance of the change.
