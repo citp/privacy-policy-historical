@@ -1,124 +1,100 @@
-> *The following text is extracted and transformed from the linkgrinder.com privacy policy that was archived on 2013-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131013042515id_/http%3A//www.linkgrinder.com//privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linkgrinder.com privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208004042id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
 
-# LinkGrinder - Privacy Policy A searchable, browsable, archive of articles about everything under the sun. Articles, news, information,tutorials, how-to, instruction
+# Legal Agreement
 
-LinkGrinder is committed to safeguarding your privacy online. Please read the following policy to understand how your personal information will be treated as you make full use of our many offerings. This policy may change from time to time so please check back periodically. 
+**GoDaddy Respects Your Privacy**
 
-**This policy will let you know:**
+**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
 
-    1\. What personally identifiable information is collected from you; 
-    2\. What cookies are and how they are used; 
-    3\. How your information is used; 
-    4\. Who is collecting your information; 
-    5\. With whom your information may be shared; 
-    6\. What choices are available to you regarding collection, use, and distribution of your information; 
-    7\. How you can access, update or delete your information; 
-    8\. How LinkGrinder treats your personal financial and health-related information; 
-    9\. The kind of security precautions that are in place to protect the loss, misuse, or alteration of your information; 
-    10\. What else you should know about your online privacy.
+**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
 
-**What personally identifiable information does LinkGrinder collect?**
+**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
 
-LinkGrinder collects information in several ways from different parts of our network of services. 
+**Information Collection and Use**
 
-Some personal information is gathered when you register. During registration, LinkGrinder asks for your name, address and email address. The more information you volunteer (and the more accurate it is), the better we are able to customize your experience. Once you register you are no longer anonymous to LinkGrinder - you are given a LinkGrinder ID and are able to take full advantage of LinkGrinder's many offerings. 
+Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
 
-* * *
+We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
 
-**What are cookies and how does LinkGrinder use them?**
+We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
 
-As part of offering and providing customizable and personalized services, LinkGrinder uses [cookies](http://www.zdwebopedia.com/cookie.htm) to store and sometimes track information about you. A cookie is a small amount of data that is sent to your browser from a web server and stored on your computer's hard drive. All sites on LinkGrinder where you are prompted to log-in or that are customizable require that you accept cookies. 
+We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
 
-Generally, we use cookies to: 
+We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
 
-(1) Remind us of who you are and to access your account information (stored on our computers) in order to deliver to you a better and more personalized service. This cookie is set when you register or "Sign In" and is modified when you "Sign Out" of our services. 
+Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
 
-(2) Estimate our audience size. Each browser accessing LinkGrinder is given a unique cookie which is then used to determine the extent of repeat usage, usage by a registered user versus by an unregistered user, and to help target advertisements based on user interests and behavior. 
+This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
 
-(3) Track your progress and number of entries in some of our services. When a LinkGrinder-hosted promotion uses cookies, the information written to the cookie indicates the player's progress through the promotion, and may be used to track entries, submissions, and any other useful information related to that service. 
+**Security**
 
-(4) Measure certain traffic patterns, which areas of LinkGrinder's network of web sites you have visited, and your visiting patterns in the aggregate. We use this research to understand how our users' habits are similar or different from one another so that we can make each new experience on LinkGrinder a better one. We may use this information to better personalize the content, banners, and promotions that you and other users will see on our sites. 
+This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.  We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it.  No method of transmission over the Internet, or method of electronic storage, is 100% secure, however.  Therefore, we cannot guarantee its absolute security.
 
-Advertising networks that serve ads onto LinkGrinder may also use their own cookies. 
+**Updating Your Information**
 
-* * *
+You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
 
-**How does LinkGrinder use my information?**
+        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
 
-LinkGrinder's primary goal in collecting personal information is to provide you, the user, with a customized experience on our network of sites. By knowing a little about you, LinkGrinder is able to deliver more relevant advertisements and content, and hence better service, to you. 
+       ii.      You may send mail to GoDaddy at the following postal address:   
+               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
 
-In our role of delivering targeted advertisements, LinkGrinder plays the middleman. Advertisers give us an advertisement and tell us the type of audience they want to reach (for example, males over 35 years old). LinkGrinder takes the advertisement and displays it to users meeting that criteria. In this process, the advertiser never has access to individual account information. Only LinkGrinder has access to individuals' accounts. This kind of advertisement targeting is done with banner ads and email advertisements. 
+      iii.      You may call us at: (480) 505-8800
 
-LinkGrinder does research on our users' demographics, interests, and behavior based on the information provided to us upon registration, during a promotion, from our server log files or from surveys. We do this to better understand and serve our users. This research is compiled and analyzed on an aggregated basis. LinkGrinder may share this aggregated data with advertisers or business partners. 
+       iv.      You may fax us at: (480) 505-8844
 
-LinkGrinder WILL send advertisements to you! DO NOT use this service is you do NOT want advertisements. 
+**Sending Emails**
 
-* * *
+We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
 
-**Who is collecting information**
+The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
 
-When you are on a LinkGrinder site and are asked for personal information, you are sharing that information with LinkGrinder alone, unless it is specifically stated otherwise. If data is being collected and/or maintained by any company other than LinkGrinder, you will be notified prior to the time of the data collection or transfer. If you do not want your data to be shared, you can choose not to allow the transfer by not using that particular service. 
+**Compliance with Laws and Law Enforcement**
 
-Promotions that run on LinkGrinder may be sponsored by companies other than LinkGrinder or may be cosponsored by LinkGrinder and another company. Some or all data collected during a promotion may be shared with the sponsor. If data will be shared, you will be notified prior to the time of data collection or transfer. You can decide not to participate in the promotion if you don't want your data to be shared. 
+We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
 
-Please be aware that LinkGrinder advertisers or web sites that have links on our site may collect personally identifiable information about you. The information practices of those web sites linked to LinkGrinder are not covered by this privacy statement. 
+**Third Party Service Providers**
 
-* * *
+We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
 
-**With whom does LinkGrinder share my information?**
+In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel GIF or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
 
-As a general rule, LinkGrinder will not disclose any of your personally identifiable information except when we have your permission or under special circumstances, such as when we believe in good faith that the law requires it or under the circumstances described below. Please see the Terms of Service or Use Agreements for each of our products and services for more detailed information about how your personal information may be shared. The following describes some of the ways that your information may be disclosed. 
+**Supplementation of Information**
 
-_Business Partners & Sponsors_: LinkGrinder may disclose your personal information to business partners or sponsors, but this is specifically described to you prior to data collection or prior to transferring the data. Details of shared use can be found in specific Terms of Service or Use Agreements, and sweepstakes and promotions rules. Some or all data collected during a LinkGrinder promotion may be shared with a sponsor. If personally identifying data about you will be shared, we will tell you before we collect or transfer the data. 
+In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
 
-Many promotions offer opportunities to request additional information from sponsors. By requesting more information, you give LinkGrinder permission to transfer your personal information to the sponsor so they can fulfill your request. In many instances, only your email address will be shared. If more information will be shared with the sponsor, you will be notified prior to the transfer. 
+**Contests/Surveys**
 
-From time to time, you may be offered the opportunity to receive materials or special offers from third parties. If you opt-in to receive information from these third parties, LinkGrinder will (with your permission) share your name and email address with them. 
+From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
 
-_Third Party Data & Data in the Aggregate_: Under confidentiality agreements, LinkGrinder may match user information with third party data. Also, LinkGrinder discloses aggregated user statistics (for example, 45% of our users are female) in order to describe our services to prospective partners, advertisers, and other third parties, and for other lawful purposes. 
+We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
 
-_Other:_ LinkGrinder may also disclose account information in special cases when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be violating LinkGrinder's Terms of Service or may be causing injury to or interference with (either intentionally or unintentionally) LinkGrinder's rights or property, other LinkGrinder users, or anyone else that could be harmed by such activities. LinkGrinder may disclose or access account information when we believe in good faith that the law requires it and for administrative and other purposes that we deem necessary to maintain, service, and improve our products and services. 
+**Tell-A-Friend**
 
-* * *
+If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. GoDaddy will automatically send the friend a one-time email inviting them to visit our Site. GoDaddy stores this information for the sole purpose of sending this one-time email. The friend may contact GoDaddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
 
-**What are my choices regarding collection, use, and distribution of my information?**
+**What Happens to my Personal Information if I Opt Out?**
 
-LinkGrinder may, from time to time, send you email regarding our products and services. In addition, we may occasionally send you direct mail about products and services that we feel may be of interest to you. Only LinkGrinder (or agents working on behalf of LinkGrinder and under confidentiality agreements) will send you these direct mailings and only if you indicated that you do not object to these offers. If you do not want to receive such mailings, THEN DO NOT USE OUR SERVICE. 
+If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information as necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
 
-You also have choices with respect to cookies. By modifying your browser preferences, you have the choice to accept all cookies, to be notified when a cookie is set, or to reject all cookies. If you choose to reject all cookies you will be unable to use those LinkGrinder services that require registration in order to participate. 
+**Transfer of Data Abroad**
 
-* * *
+If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
 
-**What is LinkGrinder's policy on allowing me to update, correct, or delete my personally identifiable information?**
+**Changes in Our Practices**
 
-You may edit your LinkGrinder Account Information at any time by using your LinkGrinder ID and password. If you have forgotten your password, please [click here](https://web.archive.org/ForgotPassword.cfm) to request a new password. 
+We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
 
-Your LinkGrinder account can be deleted or deactivated, but doing so will result in not being able to access any members-only area of the LinkGrinder network. If you saved the confirmation email you received when you first created your LinkGrinder account, you can use the URL provided in that message to delete your account at any time. 
+If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
+
+**Contacting Our Site**
+
+If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
 
 * * *
 
-**How does LinkGrinder protect my personal financial information?**
-
-Keeping your personal financial information private is vitally important to us. LinkGrinder will never rent or sell your personal financial information. 
-
-Knowing that you use certain services or features may help us to offer you better and more relevant content and advertisements. Any user statistics that we may provide to prospective advertisers or partners regarding financial product or service usage on LinkGrinder are provided in the aggregate only and do not include any personally identifiable information about any individual user. 
-
-Please note that there are several places on the LinkGrinder network of Web sites where you can transmit credit card information in order to complete a purchase transaction or for verification purposes. Any time we ask for a credit card number we transmit that credit card number in an encrypted format. We use industry-standard, SSL (secure socket layer) encryption. 
-
-* * *
-
-**What security precautions are in place to protect the loss, misuse, or alteration of my information?**
-
-Your LinkGrinder Account Information password-protected so that you and only you have access to this personal information. You may edit your LinkGrinder Account Information by using your LinkGrinder ID and password. 
-
-We recommend that you do not divulge your password to anyone. LinkGrinder will never ask you for your password in an unsolicited phone call or in an unsolicited email. Also remember to sign out of your LinkGrinder account and close your browser window when you have finished your work. This is to ensure that others cannot access your personal information and correspondence if you share a computer with someone else or are using a computer in a public place like a library or Internet cafe. 
-
-Unfortunately, no data transmission over the Internet can be guaranteed to be 100% secure. As a result, while we strive to protect your personal information, LinkGrinder cannot ensure or warrant the security of any information you transmit to us or from our online products or services, and you do so at your own risk. Once we receive your transmission, we make our best effort to ensure its security on our systems. 
-
-* * *
-
-**What else should I know about my privacy?**
-
-Please keep in mind that whenever you voluntarily disclose personal information online - for example on message boards, through email, or in chat areas - that information can be collected and used by others. In short, if you post personal information online that is accessible to the public, you may receive unsolicited messages from other parties in return. 
-
-Ultimately, you are solely responsible for maintaining the secrecy of your passwords and/or any account information. Please be careful and responsible whenever you're online. 
+GoDaddy   
+ATTN: Web Team   
+14455 North Hayden Rd.   
+Suite 219   
+Scottsdale, AZ, 85260, U.S.A.
