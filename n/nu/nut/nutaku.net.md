@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nutaku.net privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608211213id_/http%3A//www.nutaku.net/age/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nutaku.net privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207123412id_/http%3A//www.nutaku.net/age/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Nutaku.net
 
@@ -6,7 +6,7 @@
 
 1.1 Information Automatically Logged
 
-We use your IP address to help diagnose problems with our server and to administer Nutaku.com (hereinafter known as "the Website"). The Website also uses Google Analytics to track user IDs and demographics for advertising purposes. This does not involve the collection of your personally identifiable information. You may Opt-out at the following URL <https://tools.google.com/dlpage/gaoptout>
+We use your IP address to help diagnose problems with our server and to administer Nutaku.net (hereinafter known as "the Website"). The Website also uses Google Analytics to track user IDs and demographics for advertising purposes. This does not involve the collection of your personally identifiable information. You may Opt-out of all Google Analytics tracking with the following URL To opt out of Google user ID tracking, please click here.
 
 When visitors or members (collectively referred to as "you", "users", "your") come to the Website, we may automatically collect certain information from their computers or mobile devices, such as the type of computer operating system (e.g., Windows XP or Mac OS), the visitor's IP address, the web browser (e.g., Internet Explorer, Safari, Chrome and Firefox), UDID (for certain mobile devices), information about the websites visited before and after visiting the Website, information collected through the use of unique identifiers such as cookies, information regarding the Internet service provider, and other standard server log information ("Computer Information").
 
