@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the asianscreens.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607153959id_/http%3A//www.asianscreens.com/docs/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asianscreens.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207034314id_/http%3A//www.asianscreens.com/docs/privacy.asp) for the most accurate reproduction.*
 
 # AsianScreens - Privacy Policy
 
