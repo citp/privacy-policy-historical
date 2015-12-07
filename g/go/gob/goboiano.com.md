@@ -1,64 +1,70 @@
-> *The following text is extracted and transformed from the goboiano.com privacy policy that was archived on 2013-01-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130101043349id_/http%3A//www.goboiano.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goboiano.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207143802id_/http%3A//goboiano.com/privacy) for the most accurate reproduction.*
 
-# 
+# GoBoiano - The best of the anime community, all in one place
 
-We at GoBoiano are committed to protecting your privacy to insure your safety and secure experience. We understand that the privacy of information is very important and we consider the protection of your personal information a high priority. We will never sell your personal information out to third parties for any reason. As our content and services constantly evolve we may modify this policy from time to time so we encourage that you check GoBoiano’s policies regularly for the latest updates. This privacy policy demonstrates how your information is collected and protected by GoBoiano.
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at [privacy@goboiano.com](mailto:privacy@goboiano.com). 
 
-####  1\. Information We Collect
+At http://goboiano.com/ we consider the privacy of our visitors to be extremely important. This privacy policy document describes in detail the types of personal information is collected and recorded by http://goboiano.com/ and how we use it.
 
-**Providing Information.** In exchange for using our services, we ask that you provide us with certain personal information that can be used to identify you and your account on GoBoiano. Once you have registered to GoBoiano, please be aware that other members and services may have access to your username, comments, or any other information submitted to the site and services. We ask that you protect personal information by setting the correct privacy settings.
+### Log Files
 
-####  2\. How we use your Information
+Like many other Web sites, http://goboiano.com/ makes use of log files. These files merely logs visitors to the site - usually a standard procedure for hosting companies and a part of hosting services's analytics. The information inside the log files includes internet protocol (IP) addresses, browser type, Internet Service Provider (ISP), date/time stamp, referring/exit pages, and possibly the number of clicks. This information is used to analyze trends, administer the site, track user's movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
 
-**Information Submitted.** Information submitted to GoBoiano may be used to operate, maintain, and improve the features and functionality of GoBoiano. We do not use your email address or other personal information to send commercial or marketing messages without your consent. We may use your email address without further consent for non-marketing or administrative purposes (such as notifying you of major GoBoiano changes or for customer service purposes).
+### Cookies and Web Beacons
 
-**Log Files.** Like many other websites, GoBoiano collects and uses the data in log files. Log files record information that the browser sends whenever it points to anonline service or website. These files include, but are not limited to you Internet Protocol Address, Internet Service Provider (Such as DSL, Comcast, AOL, etc), the internet browser you use to visit GoBoiano (Internet Explorer, FireFox, Safari, etc), the time of your visit and the pages you have visited while browsing the site.
+http://goboiano.com/ uses cookies to store information about visitors' preferences, to record user-specific information on which pages the site visitor accesses or visits, and to personalize or customize our web page content based upon visitors' browser type or other information that the visitor sends via their browser.
 
-**Internet Cookies.** We also use cookies as an additional form of collecting information. A cookie is a small data file that we transfer to your computer’s hard disk for record-keeping purposes. We use cookies as a way to enable certain features of the Services, to better understand how you interact with the services and to monitor web traffic routing on the site.You can secure your browser, by changing the options to stop accepting cookies or to prompt you before accepting a cookie from the websites you visit. If you do not accept cookies, however, you may not be able to use all portions of the site or all functionality of the services.
+### DoubleClick DART Cookie
 
-####  3\. Third Party Advertisement
+→ Google, as a third party vendor, uses cookies to serve ads on http://goboiano.com/.
 
-**Advertisers.** Third Party Advertisers on GoBoiano may place or read cookies on your computers browser which permit them to collect information about users who view or interact with their advertisements. This is to help support the site and keep it up and running with new services and features to provide for the community. With the exception of your personal information (Name, Address, Email, and Telephone Number), Advertising Companies will collect information such as your site visits and other sites you visit to help provide advertisements for goods and services that may interest you.
+→ Google's use of the DART cookie enables it to serve ads to our site's visitors based upon their visit to http://goboiano.com/ and other sites on the Internet.
 
-####  4\. GoBoiano and You
+→ Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - <http://www.google.com/privacy_ads.html>
 
-**Your Account.** When you create a GoBoiano Account, some information about your Account and account activity will be provided to other users of GoBoiano. This may include your bio, age, join date, location and last login. Your username will be displayed when you engage in certain activities within the site such as posting in the forum, creating groups, uploading content, posting comments, sending messages and other site activities.
+### Our Advertising Partners
 
-**Sharing Information.** You may also choose to add personal information, which may include your name, gender, profile picture or other details, that will be visible to other users on your GoBoianoProfile page. If you choose to engage in certain activities within GoBoiano, then your activity will be displayed to other users and may be aggregated and shared with your friends or other users via GO! Button. Please be aware that your information can still be shared with other friends even without pushing the GO! Button. To avoid any unwanted information leaking to your friends, please visit your privacy settings and set your privacy accordingly.
+Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include:
 
-####  5\. Sharing Information on GoBoiano
-
-Sharing and Connecting on GoBoiano is one of our key elements to connecting the millions of anime fans around the world. This section explains how our privacy settings work and how your information is shared on GoBoiano. You should always choice your privacy settings accordingly before sharing information on GoBoiano.
-
-**Username and Avatar.** Your username and avatar is your identity while using GoBoiano. Users are able to identify you based on the name you give while using the site as well as the avatar you set. For this reason, if you do not want to use your real name or real picture while using GoBoiano than we suggest you choose a pen name and avatar of something that interest you. If you are still uncomfortable with setting an avatar, you should not use one.
-
-**Contact Information.** Your contact information allows people to contact you within or outside of GoBoiano. We strongly recommend that you do not set your contact information for public if you do not want outside people to gain a hold of it. You also have the option of leaving this and other information sections blank if you prefer not to fill it out.
-
-**Personal Information.** Your personal information allows you to set information such as but not limited to your age, gender, about me and interest. We recommend that you share this information with your friends only and not outside parties (Non-Friends and Non Members).
-
-Please be aware of the following points.
-
-  * Some of the content you share and site activity will be visible on your friend’s personal home pages.
-  * You must understand that your information may be re-shared or copied by other users.
-  * Certain types of communications that you send to other users cannot be removed, such as messages.
-  * When you post information on another user’s profile or comment on another user’s post, that information will be subject to the other user’s privacy settings.
+  * Google
+  * Amazon
 
 
 
-**Modifying or Deleting Information.** On GoBoiano, all users have the option of modifying or deleting their personal information for their account. Please note that any information deleted, may be retained and archived by GoBoiano personal in order to comply with the required law.
+_While each of these advertising partners has their own Privacy Policy for their site, an updated and hyperlinked resource is maintained here: Privacy Policies._
 
-**Blocking.** GoBoiano is a fun and friendly community and we strongly encourage that the users of the site get along well and treat other users kindly, however for people that do not follow these guidelines, we allow you to block and/or report the person. This feature allows you to stop people from interacting with you or seeing your information on GoBoiano.
+_You may consult this listing to find the privacy policy for each of the advertising partners of http://goboiano.com/._
 
-####  6\. Your Safety
+These third-party ad servers or ad networks use technology in their respective advertisements and links that appear on http://goboiano.com/ and which are sent directly to your browser. They automatically receive your IP address when this occurs. Other technologies (such as cookies, JavaScript, or Web Beacons) may also be used by our site's third-party ad networks to measure the effectiveness of their advertising campaigns and/or to personalize the advertising content that you see on the site.
 
-**Security.** GoBoiano keeps the security of your information as a top priority. We employ a variety of security measures designed to safeguard your information from unauthorized access.
+http://goboiano.com/ has no access to or control over these cookies that are used by third-party advertisers.
 
-**Security Risk.** Please be aware that although we allow you to set privacy settings, no security measure is perfect and impenetrable. GoBoiano has no control over the actions of other users whom you share your information. We cannot guarantee that only your friends and authorized people will view your information. We cannot fully ensure that the information you place on GoBoiano will not become available to the public. You can reduce these risks by simply using common sense and placing information that you feel comfortable with on the site. We suggest using strong passwords and antivirus protection software for your computers to keep other people from getting into your account and not sharing your account information with anyone.
+### Third Party Privacy Policies
 
-**Report Abuse.** As previously stated, GoBoiano is a fun and overall friendly community for all people of the world. Despite this, we may receive some users that do not want to obey GoBoiano rules and guidelines. For this reason, we have the report button used to report mischievous users on the site. If a user is abusing another user or not complying with any of the rules in the Guidelines, please report this person and we will deal with their actions accordingly.
+You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. http://goboiano.com/'s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. You may find a comprehensive listing of these privacy policies and their links here: [Privacy Policy Links](http://www.privacypolicyonline.com/privacy-policy-links).
 
-**Site Linking.** Like many other websites, GoBoiano contains links that navigate the user to a different site. If you choose to click on an advertisers ad, you will be navigated to that third parties website. Please be aware that these other websites may place their own cookies or other files on your computer, collect information, or solicit personal information from you. GoBoiano is not affiliated with these third party advertisers and have no control over the functionality and rules of those websites. We strongly recommend you read the privacy policy or guidelines to the other sites you visit.
+If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites. [What Are Cookies?](http://www.privacypolicyonline.com/what-are-cookies)
 
-**Children’s Policy.** GoBoiano is a community for all people from all places. However, we strongly feel the need to protect the youths of today from many harmful people that reside in this world. Due to that reason, GoBoiano does not knowingly collect the information from children under the age of 13. If a parent or guardian becomes aware that their child is providing us with personal information without their consent, they must immediately contact us at privacy@GoBoiano.comand we will immediately delete it from our system. If we become aware that a child under the age of 13 has provided us with personal information, we will immediately delete it from GoBoiano.
+### Children's Information
 
-**Contact Us.** If you have any questions or inquire about GoBoiano and our privacy policy, please contact us at privacy@GoBoiano.com. We will respond to your email as quickly as possible.
+We believe it is important to provide added protection for children online. We encourage parents and guardians to spend time online with their children to observe, participate in and/or monitor and guide their online activity. http://goboiano.com/ does not knowingly collect any personally identifiable information from children under the age of 13. If a parent or guardian believes that http://goboiano.com/ has in its database the personally-identifiable information of a child under the age of 13, please contact us immediately (using the contact in the first paragraph) and we will use our best efforts to promptly remove such information from our records.
+
+  
+
+
+### Online Privacy Policy Only
+
+This privacy policy applies only to our online activities and is valid for visitors to our website and regarding information shared and/or collected there. This policy does not apply to any information collected offline or via channels other than this website.
+
+### Consent
+
+By using our website, you hereby consent to our privacy policy and agree to its terms.
+
+  
+
+
+### Update
+
+This Privacy Policy was last updated on: Wednesday, July 8th, 2015.
+
+_Should we update, amend or make any changes to our privacy policy, those changes will be posted here._
