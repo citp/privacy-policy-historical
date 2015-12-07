@@ -1,41 +1,13 @@
-> *The following text is extracted and transformed from the techviral.com privacy policy that was archived on 2013-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130604104226id_/http%3A//www.techviral.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techviral.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207113345id_/http%3A//techviral.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - TechViral
+# Privacy Policy
 
-If you require any more information or have any questions about our privacy policy, please feel free to [Contact Us](http://www.techviral.com/contact/ "Contact Us")
+## Privacy Policy for **techviral.com** and Android App :-
 
-At www.techviral.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.techviral.com and how it is used.
+If you require any more information or have any questions about our privacy policy, please feel free to contactus by email at **admin@techviral.com**.  
+At **techviral.com  and android app**, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by techviral.com and mobile app and how it is used.
 
-**Log Files**
+We are providing unique quality content about Technology tricks and latest computer tricks for education purpose only. Our Articles and Stories are just for education, motivation, exploration type only. we are not responsible of visitors how they are using our information. we respect our visitors Rights, So we request to each and every personal visiting our site. Don’t misuse any information, By Mistake if our site provide any wrong information then we are don’t guarantied for it before using any information must verify it from out sources and use them at your own risk we are not responsible for any kind of Issue.
 
-  * Like many other Web sites, www.techviral.com makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user?s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
-
-
-
-**Cookies and Web Beacons**
-
-  * www.techviral.com does not use cookies.
-
-
-
-**DoubleClick DART Cookie**
-
-  * Google, as a third party vendor, uses cookies to serve ads on www.techviral.com.
-  * Google’s use of the DART cookie enables it to serve ads to your users based on their visit to www.techviral.com and other sites on the Internet.
-  * Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – http://www.google.com/privacy_ads.html
-
-
-
-**Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include**
-
-  * Google Adsense
-
-
-
-These third-party ad servers or ad networks use technology to the advertisements and links that appear on www.techviral.com send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.
-
-**www.techviral.com has no access to or control over these cookies that are used by third-party advertisers.**
-
-You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. www.techviral.com’s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
-
-If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
+If you have any kind problem or you feel that we are hurting or breaking someone Rights. If you have any problem regarding any topic feel free to report our team. we hopefully take your reviews seriously and try to solve Issue.  
+If you want to suggest anything or want any information related to our site. Please feel free to give your feedback at our email  **admin@techviral.com**  otherwise [**contact us**](https://web.archive.org/contact).
