@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thetruckersreport.com privacy policy that was archived on 2015-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150617185109id_/http%3A//www.thetruckersreport.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thetruckersreport.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207100706id_/http%3A//www.thetruckersreport.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - TruckersReport.com
 
@@ -10,13 +10,13 @@ At www.thetruckersreport.com, the privacy of our visitors is of extreme importan
 
 All automated email from TheTruckersReport.com comes with instructions on how to unsubscribe from our mailing list.  If you wish to unsubscribe but are not able to follow the instructions, please email your unsubscribe request to admin@truckersreport.com and your email address will be manually removed.
 
- **Log Files**  
+**Log Files**  
 Like many other Web sites, www.thetruckersreport.com makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information.
 
- **Cookies and Web Beacons**  
+**Cookies and Web Beacons**  
 www.thetruckersreport.com does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser.
 
- **DoubleClick DART Cookie**
+**DoubleClick DART Cookie**
 
 .:: Google, as a third party vendor, uses cookies to serve ads on www.thetruckersreport.com.
 
