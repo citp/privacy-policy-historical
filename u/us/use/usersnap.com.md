@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usersnap.com privacy policy that was archived on 2015-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150331101056id_/https%3A//usersnap.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usersnap.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207162307id_/https%3A//usersnap.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -37,11 +37,37 @@ Yes (Cookies are small files that a site or its service provider transfers to yo
 
 We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
 
+## Information about the data we collect for our clients
+
+Usersnap processes information under the direction of its clients, and has no direct relationship with the individuals whose personal data it processes. Usersnap helps its clients to provide the necessary information to inform their customers about the nature and purpose of Usersnap and the collected information, if required.
+
+We may collect personally identifiable information such as first and last name, zip code, phone number, e-mail address, professional title, company name, and password from our customers and their clients.
+
+## Your Choice
+
+We collect information for our clients. If you are a customer of one of our clients and would no longer like to be served or contacted by one of our clients using our service, please contact the client that you interact with directly. If you are a client and would like to update your account information please email us at [help@usersnap.com](mailto:help@usersnap.com).
+
+Access to the data which is controlled by our clients should be handled by Usersnap's client as they control the data. If a client wants to remove their data from Usersnap's servers we will respond within 60 days.
+
+## Website data and information our product collects
+
+The Usersnap widget collects the content of the website it is activated on. "Website data" means the state of the website including all user-entered information. This information is being transmitted to Usersnap's servers (including the DOM, CSS and Javascript code of the website's current state). Moreover, information about the environment such as browser version, browser type, operating system, operating system's version number, screen resolution, and other similar data related to the current state of the website is included. Added annotations, remarks or any other information using the Usersnap widget, is also being included and transferred. We are collecting this information on behalf of our clients and we do not have a direct relationship with the individuals whose personal data we process.
+
+## Use of your website data
+
+Website data we collect is primarily used to create a screenshot of your website and to display this information in the Usersnap dashboard. It is also used by Usersnap personnel to answer questions that our clients may have about their account and to develop and improve our products. Certain product packages have the option to suppress storage of the collected information. Please contact [help@usersnap.com](mailto:help@usersnap.com) to learn more.
+
+## Disclosure of the collected website data
+
+We may share your website data with third parties to provide technical support or to provide specific services, such as hosting of your applications. Also, we may enter into agreements with partners such as hosting companies or other services providers. Because we do not control the privacy practices of our Partner Companies, you should read and understand their privacy policies.
+
+If another company acquires our company or our assets, that company will possess the data and information collected by us and will assume the rights and obligations regarding your website data as described in this privacy policy.
+
 ## California Online Privacy Protection Act Compliance
 
-Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
+Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We, therefore, will not distribute your personal information to outside parties without your consent.
 
-As part of the California Online Privacy Protection Act, all users of our site may make any changes to their information at anytime by logging into their control panel and going to the 'Edit Profile' page.
+As part of the California Online Privacy Protection Act, all users of our site may make any changes to their information at any time by logging into their control panel and going to the 'Edit Profile' page.
 
 ## Childrens Online Privacy Protection Act Compliance
 
@@ -65,7 +91,7 @@ In case you want your personal data removed permanently, please contact us: [hel
 
 If we decide to change our privacy policy, we will update the Privacy Policy modification date below.
 
-This policy was last modified on August 27, 2014
+This policy was last modified on July 31, 2015
 
 ## Contacting Us
 
