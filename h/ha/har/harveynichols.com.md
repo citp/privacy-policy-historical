@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the harveynichols.com privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628173632id_/http%3A//www.harveynichols.com/information/policies/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the harveynichols.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207090150id_/http%3A//www.harveynichols.com/information/policies/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -68,7 +68,7 @@ Use different passwords for your different online accounts.
 
 ### Marketing communications
 
-You can sign up to receive marketing communications from Harvey Nichols through the online sign-up form; when you register for an online account, or via the opt-in tick box found during the checkout process. Opt-in boxes will be pre-ticked on your behalf, but you may always choose to un-tick the box. You can also sign up for marketing communications instore; when making a restaurant booking; when entering competitions, or when using online services that require registration, such as Shortlist.
+You can sign up to receive marketing communications from Harvey Nichols through the online sign-up form; when you register for an online account, or via the opt-in tick box found during the checkout process. Opt-in boxes will be pre-ticked on your behalf, but you may always choose to un-tick the box. You can also sign up for marketing communications instore; when making a restaurant booking; when entering competitions, or when using online services that require registration, such as Wishlist.
 
 In signing up, you consent to receive information from us about products, promotions or special offers that we feel may be of interest to you. These may be sent by email, mail, telephone or SMS message, or take place instore. Promotions may also be sent to you based on your shopping history.
 
