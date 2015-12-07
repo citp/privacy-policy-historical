@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gen.xyz privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610061151id_/http%3A//gen.xyz/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gen.xyz privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207065719id_/http%3A//gen.xyz/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | .xyz Domain Names | Join Generation XYZ
 
@@ -19,3 +19,9 @@ We use information gathered about you from our site statistics via log files pro
 We may use both session ID cookies and persistent cookies. A session ID cookie expires when you close your browser. A persistent cookie remains on your hard drive for an extended period of time. You can remove persistent cookies by following directions provided by your internet browser (ex: Mozilla Firefox or Internet Explorer).
 
 We also may use cookies to store your username if you request to remember your username during login. That information will be used to pre-fill the login form at a later time. If you are referred to our website through an ad or a partner, we will store the referral information in the cookies.
+
+In addition to using cookies and related technologies as described above, we also may permit certain third party companies to help us tailor advertising that we think may be of interest to users and to collect and use other data about user activities on our Sites and/or Services (e.g., to allow them to tailor ads on third party services). These companies may deliver ads that might also place cookies and otherwise track user behavior.
+
+We use Google Analytics’ 3rd-party audience data such as age, gender and interests to better understanding the behavior of our customers and work with companies that collect information about your online activities to provide advertising targeted to suit your interests and preferences. For example, you may see certain ads on this website or other websites because we contract with Google and other similar companies to target our ads based on information we or they have collected, including information that was collected through automated means (such as cookies and web beacons). These companies also use automated technologies to collect information when you click on our ads, which helps track and manage the effectiveness of our marketing efforts.
+
+You may opt out of the automated collection of information by third-party ad networks for the purpose of delivering advertisements tailored to your interests, by editing your Google Display Network ads’ preferences at http://www.google.com/ads/preferences/. For further information regarding the privacy practices of our advertisement provider, please visit http://www.google.com/privacypolicy.html
