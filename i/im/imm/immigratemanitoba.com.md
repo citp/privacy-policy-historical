@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the immigratemanitoba.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607022118id_/http%3A//www.gov.mb.ca/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the immigratemanitoba.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207015701id_/http%3A//www.gov.mb.ca/legal/privacy.html) for the most accurate reproduction.*
 
 # Province of Manitoba | Privacy Notification
 
