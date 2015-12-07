@@ -1,0 +1,791 @@
+<!--The following is the downloaded HTML source of the pizzahut.me privacy policy that was archived on 2015-12-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151207143410id_/http%3A//pizzahut.me/policy.php) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html class="no-js" lang="en-US"><!--<![endif]--><head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta charset="UTF-8">
+<title>Pizzahut</title>
+<script id="facebook-jssdk" src="http://connect.facebook.net/en_US/sdk.js#xfbml=1&amp;version=v2.3"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,o){t&&t(e,n,o),o||(o={});for(var a=i(e),s=a.length,c=o[r]||(o[r]={}),f=0;s>f;f++)a[f].apply(c,n);return c}function o(t,e){s[t]=i(t).concat(e)}function i(t){return s[t]||[]}function a(){return n(e)}var s={};return{on:o,emit:e,create:a,listeners:i,_events:s}}var r="nr@context";e.exports=n()},{}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(f){try{r("ierr",[f,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(5),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(f){"stack"in f&&(t(1),t(4),"addEventListener"in window&&t(2),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(3),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:8,2:5,3:9,4:7,5:17,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],4:[function(t){function e(){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var n=t("ee"),r=t("handle"),o=t(2);t("loader").features.stn=!0,t(1),n.on("fn-start",function(t){var e=t[0];e instanceof Event&&(this.bstStart=Date.now())}),n.on("fn-end",function(t,e){var n=t[0];n instanceof Event&&r("bst",[n,e,this.bstStart,Date.now()])}),o.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),o.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),n.on("pushState-start",function(){this.time=Date.now(),this.startPath=location.pathname+location.hash}),n.on("pushState-end",function(){r("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.addEventListener("webkitresourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1),window.performance.addEventListener("resourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1)),document.addEventListener("scroll",e,!1),document.addEventListener("keypress",e,!1),document.addEventListener("click",e,!1)}},{1:6,2:8,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o);if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var a=document;a&&!a.hasOwnProperty("addEventListener");)a=Object.getPrototypeOf(a);a&&n(a);for(var s=XMLHttpRequest.prototype;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=e["nr@wrapped"]?t[1]=e["nr@wrapped"]:e["nr@wrapped"]=t[1]=i(e,"fn-",null,e.name||"anonymous"):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:17,2:18,ee:"QJf3ax"}],6:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window.history,["pushState"],"-")},{1:18,2:17,ee:"QJf3ax"}],7:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:18,2:17,ee:"QJf3ax"}],8:[function(t,e){function n(t,e,n){var r=t[0];"string"==typeof r&&(r=new Function(r)),t[0]=o(r,"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:18,2:17,ee:"QJf3ax"}],9:[function(t,e){function n(){c.inPlace(this,d,"fn-")}function r(t,e){c.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}var i=t("ee").create(),a=t(1),s=t(2),c=s(i),f=s(a),u=window.XMLHttpRequest,d=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=i,window.XMLHttpRequest=function(t){var e=new u(t);try{i.emit("new-xhr",[],e),f.inPlace(e,["addEventListener","removeEventListener"],"-",function(t,e){return e}),e.addEventListener("readystatechange",n,!1)}catch(r){try{i.emit("internal-error",r)}catch(o){}}return e},window.XMLHttpRequest.prototype=u.prototype,c.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),i.on("send-xhr-start",r),i.on("open-xhr-start",r)},{1:5,2:18,ee:"QJf3ax"}],10:[function(t){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,f="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,u=e(f);if(u&&(r.rxSize=u),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(n.cat=d.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r,this.startTime])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(1),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,f=t(2);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var f=e(o);f&&(r.txSize=f)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",e)}catch(r){}}};for(var u=0;c>u;u++)n.addEventListener(s[u],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:11,2:14,3:9,4:5,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],11:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],14:[function(t,e){function n(t){if(!t||"object"!=typeof t&&"function"!=typeof t)return-1;if(t===window)return 0;if(o.call(t,"__nr"))return t.__nr;try{return Object.defineProperty(t,"__nr",{value:r,writable:!0,enumerable:!1}),r}catch(e){return t.__nr=r,r}finally{r+=1}}var r=1,o=Object.prototype.hasOwnProperty;e.exports=n},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&c&&c.body){p.proto="https"===d.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=c.createElement("script");e.src=p.proto+t.agent,c.body.appendChild(e)}}function r(){"complete"===c.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,c=s.document,f="addEventListener",u="attachEvent",d=(""+location).split("?")[0],p=e.exports={offset:i(),origin:d,features:{}};c[f]?(c[f]("DOMContentLoaded",o,!1),s[f]("load",n,!1)):(c[u]("onreadystatechange",r),s[u]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],17:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],18:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper";e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,f,u;try{i=this,n=o(arguments),f=r&&r(n,i)||{}}catch(d){c([d,"",[n,i,a],f])}s(e+"start",[n,i,a],f);try{return u=t.apply(i,n)}catch(p){throw s(e+"err",[n,i,p],f),p}finally{s(e+"end",[n,i,u],f)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,nrWrapper)}function a(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s,t))}function s(e,n,r){try{t.emit(e,n,r)}catch(o){c([o,e,n,r])}}function c(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=a,e.flag=i,e}},{1:17,ee:"QJf3ax"}]},{},["G9z0Bl",3,10,4]);;NREUM.info={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",licenseKey:"79c2db2624",applicationID:"8341970",sa:1,agent:"js-agent.newrelic.com/nr-460.min.js"}</script><link href="http://pizzahut.me/assets/themes/pizzahut/css/bootstrap.css" rel="stylesheet">
+<link href="http://pizzahut.me/assets/themes/pizzahut/css/style_en.css" rel="stylesheet" type="text/css">
+<link rel="stylesheet" href="http://pizzahut.me/assets/themes/pizzahut/style.css" type="text/css" media="screen">
+<link href="http://pizzahut.me/assets/themes/pizzahut/css/animate.min.css" rel="stylesheet" type="text/css">
+<link href="http://pizzahut.me/assets/themes/pizzahut/css/font-awesome.css" rel="stylesheet">
+<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+<!--[if lt IE 9]>
+          <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+          <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+        <![endif]-->
+<link href="http://pizzahut.me/assets/themes/pizzahut/css/jquerysctipttop.css" rel="stylesheet">
+<link href="http://fonts.googleapis.com/css?family=Roboto+Condensed" rel="stylesheet" type="text/css">
+<link href="http://pizzahut.me/assets/themes/pizzahut/css/flags.css" rel="stylesheet">
+<link href="http://pizzahut.me/assets/themes/pizzahut/css/policy.css" rel="stylesheet">
+<script src="//code.jquery.com/jquery-1.11.2.min.js"></script>
+<style type="text/css">
+body {
+	font-family: 'Roboto Condensed', Helvetica, Arial, sans-serif;
+	font-size: 20px;
+	line-height: 1.3;
+	background:
+		url('http://pizzahut.me/assets/themes/pizzahut/images/bg11.jpg')
+		repeat center center fixed;
+}
+
+.wrapper {
+	width: 50%;
+	margin: 20px auto;
+}
+
+.parallax {
+	height: 200px;
+	background-size: cover;
+	background-size: cover;
+}
+
+#img1 {
+	
+}
+#nav {
+  margin-bottom: 41px;
+}
+</style>
+</head>
+<body class="page page-id-4 page-template-default" id="policybody" data-template="base.twig">
+	<div class="container">
+		<section id="content" role="main" class="content-wrapper">
+			<div class="container-fluid">
+				<div class="row">
+					<div class="col-md-12" style="padding-left: 0px; padding-right: 0px;">
+		<script>
+function openpopup(id){
+	document.getElementById('popup_back').style.display = "none";
+	document.getElementById(id).className='show1';
+	document.getElementById('getid').value=id;
+}
+function closepopup(id){
+	document.getElementById(id).className='hide1';
+	document.getElementById('popup_back').style.display = "";
+}
+function close_all(){
+}
+</script>
+<style>
+#email_error, #unm_error, #pass_error {
+	color: red;
+}
+
+#popup_back {
+	height: 100%;
+	width: 100%;
+	position: fixed;
+	display: none;
+	opacity: 0.8;
+	top: 0;
+	left: 0;
+	z-index: 10000;
+	background-color: #999;
+}
+
+.hide1 {
+	height: 0;
+	overflow: hidden;
+	z-index: -999999;
+	opacity: 0;
+	-webkit-transition: all 1s ease-in-out;
+	-moz-transition: all 1s ease-in-out;
+	-o-transition: all 1s ease-in-out;
+	transition: all 1s ease-in-out;
+}
+
+.show1 {
+	min-height: 250px;
+	z-index: 9999999999;
+	opacity: 1;
+	-webkit-transition: all 1s ease-in-out;
+	-moz-transition: all 1s ease-in-out;
+	-o-transition: all 1s ease-in-out;
+	transition: all 1s ease-in-out;
+}
+
+#Email_id {
+	left: 48%;
+	margin: -50px 0 0 -195px;
+	margin-top: 30px;
+	top: 40%;
+	padding: 5px;
+	position: absolute;
+	border-radius: 6px;
+	width: auto;
+	background-color: rgba(0, 0, 0, 0.5);
+}
+
+#edit_video {
+	left: 48%;
+	margin: -117px 0 0 -236px;
+	top: 20%;
+}
+
+.table_popup {
+	font-size: 13px;
+	font-weight: normal;
+}
+
+.close {
+	float: right;
+	margin: -2px 0px 0px 5px;
+	cursor: pointer;
+}
+
+.clos_img {
+	width: 25px;
+	margin-top: -11px;
+	margin-left: -21px;
+	position: absolute;
+}
+
+#upgradePlan p {
+	margin-bottom: 31px;
+	text-align: left;
+}
+
+#popup_submit {
+	margin: 10px auto;
+	text-transform: uppercase;
+	text-align: center;
+	font-size: 20px;
+	color: #fff;
+	background-color: red;
+	border-color: black;
+}
+
+#popup_email_input {
+	width: 100%;
+	border-color: rgba(0, 0, 0, 0.5);
+	background-color: rgba(255, 255, 255, 0.8);
+}
+</style>
+<!-- EMAIL -->
+<!-- client reg popup start -->
+<div id="Email_id" class="hide1">
+	<section>
+		<div id="container_demo">
+			<p>
+				<span class="close" onclick="closepopup('Email_id')" title="Close"><img src="http://pizzahut.me/images/close-icon-red.png" class="clos_img"></span>
+			</p>
+			<div id="wrapper" align="center">
+				<form action="http://pizzahut.me/action_model.php" method="post" name="offer">
+					<table>
+													<tbody><tr>
+								<td><h2 style="color: red; text-align: center;">Signup To Receive Delicious Offers!</h2></td>
+							</tr>
+							<tr>
+								<td>
+									<input id="popup_email_input" type="email" name="email_value" required="" placeholder="Your email">
+									<input id="request_uri" type="hidden" name="request_uri" value="/policy.php">
+								</td>
+							</tr>
+											</tbody></table>
+					<input type="hidden" name="action" value="offer_email"> 
+										<input id="popup_submit" class="btn btn-danger" type="submit" name="submit" value="Signup">
+									</form>
+			</div>
+		</div>
+	</section>
+</div>
+<!-- popup background start -->
+<div class="popup_back" id="popup_back" onclick="closepopup(getid.value)">&nbsp;</div>
+<!-- popup background end -->
+<link href="http://pizzahut.me/assets/themes/pizzahut/css/home.css" rel="stylesheet">
+<link href="http://pizzahut.me/assets/themes/pizzahut/css/header.css" rel="stylesheet">
+<link rel="stylesheet" type="text/css" href="http://pizzahut.me/assets/themes/pizzahut/fonts/fonts.css">
+<header class="header">
+	<script>
+          (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+          (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+          m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+          })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+          ga('create', 'UA-61587405-1', 'auto');
+          ga('send', 'pageview');
+        </script>
+	<script type="text/javascript">
+        $(function () {
+            var total = $('select option').length;
+            var cur;
+            for (var i = 0; i < total; i++)
+            {
+                cur = $('select option:eq(' + i + ')');
+                cur.attr('title', cur.html());
+            }
+        });
+    </script>
+        <div id="site-header" class="navbar-wrapper header">
+		<div class="navbar navbar-inverse navbar-fixed-top header-background mar-bot0">
+			<div class="navbar-header">
+				<a class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse"> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span>
+				</a>
+								<a class="navbar-brand" href="http://pizzahut.me/"><img src="http://pizzahut.me/assets/themes/pizzahut/images/logo.png">
+					<img src="http://pizzahut.me/assets/themes/pizzahut/images/pizzahut.png" class="formobile"></a>
+							</div>
+			<div class="navbar-collapse collapse header-nav topNavContainer" id="nav_nonLocalized">
+				<div class="col-md-5 pull-right offers">
+					<div id="lang_en" class="col-sm-2
+					 lang_en
+					">
+						<div class="toggle-switch">
+							<label> <input id="toggle-lang" type="checkbox" value="en" checked="" onchange="change_language(this.value, 'AE');">
+								<div class="toggle-switch-inner"></div>
+								<div class="toggle-switch-switch">
+									<i class="fa fa-check"></i>
+								</div>
+							</label>
+						</div>
+						<script type="text/javascript">
+							$(document).ready(function() {
+								if($("#toggle-lang").val() == "en"){
+									$("#toggle-lang").prop( "checked", true );
+								} else if ($("#toggle-lang").val() == "ar"){
+									$("#toggle-lang").prop( "checked", false );
+								} else {
+									$("#toggle-lang").prop( "checked", true );
+								}
+							});
+						</script>
+					</div>
+				                <!-- <div class="col-md-5 pull-right offers">
+					<div id="lang_en">
+						<select name="labg_change"
+							onchange="change_language(this.value, '< ?php print $_SESSION ['default_country']; ?>');"
+							style="padding: 2px;">
+							<option value="en"
+								< ?php if ($_SESSION ['default_lang'] == 'en' ) { ?>
+								selected="selected" < ?php } ?>>En</option>
+							<option value="ar"
+								< ?php if ($_SESSION ['default_lang'] == 'ar' ) { ?>
+								selected="selected" < ?php } ?>>Ar</option>
+						</select>
+					</div> -->
+					<a class="btn btn-danger receive" href="#" onclick="openpopup('Email_id');">Receive Delicious Offers</a>
+					<!-- </div> -->
+				</div>
+								<ul class="nav navbar-nav pull-right navigation">
+                                                                <li id="hotline"><a>United Arab Emirates Hotline : 600569999</a></li>
+                                        <li id="delivery"><a>Delivery</a></li>
+                                            <li><a target="_blank" href="http://pizzahut.me/menus/cef019c1d87a19bd3dcbf3d0d80a33ce.pdf">Restaurant
+						Menu</a></li>
+                                        <li><a href="http://pizzahut.me/hut_locator.php">Hut
+						locator</a></li>
+				<li><a href="http://pizzahut.me/our_story.php">our story</a></li>
+				<li><a href="http://pizzahut.me/nutrition.php">Nutrition</a></li>
+				<li><a href="http://pizzahut.me/contact.php">contact us</a></li>
+				<li><div class="form-group" style="padding-top: 20px; display: inline-block;" id="flags">
+						<span class="activecountry AE">&nbsp;
+							<ul class="dropdown" id="countries">
+                                                                            <li onclick="getFlagVal(&quot;AE&quot;)" style="background:url(http://pizzahut.me//countriesFlags/8a1897a7446978518ff6d363e2525558.png) no-repeat;" title="United Arab Emirates"></li>
+                                                                            <li onclick="getFlagVal(&quot;JO&quot;)" style="background:url(http://pizzahut.me//countriesFlags/748321200bb9f168d2a83c87e3a711a7.png) no-repeat;" title="Jordan"></li>
+                                                                            <li onclick="getFlagVal(&quot;OM&quot;)" style="background:url(http://pizzahut.me//countriesFlags/da280d9c41c1a19a0936716c0eab7de3.png) no-repeat;" title="Oman"></li>
+                                                                            <li onclick="getFlagVal(&quot;QA&quot;)" style="background:url(http://pizzahut.me//countriesFlags/2b0caa302d1f3f977566d1abfb736b70.png) no-repeat;" title="Qatar"></li>
+                                                                            <li onclick="getFlagVal(&quot;BH&quot;)" style="background:url(http://pizzahut.me//countriesFlags/40aeecfa64d8efc3ff6c72ca99497427.png) no-repeat;" title="Bahrain"></li>
+                                                                            <li onclick="getFlagVal(&quot;EG&quot;)" style="background:url(http://pizzahut.me//countriesFlags/1e69f23f2cb3b4def6b39530f87b1207.png) no-repeat;" title="Egypt"></li>
+                                                                            <li onclick="getFlagVal(&quot;SA&quot;)" style="background:url(http://pizzahut.me//countriesFlags/6a6d10a48f76784d6ca141e59849e164.png) no-repeat;" title="The Kingdom Of Saudi Arabia"></li>
+                                                                            <li onclick="getFlagVal(&quot;JE&quot;)" style="background:url(http://pizzahut.me//countriesFlags/f1f9faf7238cdb0cd7abcc5b6450a989.jpg) no-repeat;" title="Jeddah"></li>
+                                                                            <li onclick="getFlagVal(&quot;KW&quot;)" style="background:url(http://pizzahut.me//countriesFlags/ecb2ba8ad5a8fa00cbd8752b86a55b9e.png) no-repeat;" title="Kuwait"></li>
+                                    </ul>
+						</span>
+					</div></li>
+				<li><form name="search_form" id="myform" method="POST" action="http://pizzahut.me/search.php" style="float: right">
+						<div class="serch" style="margin: 25px 5px; position: relative;">
+							<input type="text" name="search" onblur="myFunction()" placeholder="Search">
+						</div>
+					</form></li>
+							</ul>
+		</div>
+		<div id="navbar" class="navbar-collapse collapse header-nav category-background navbarhide" style="width: 100%;">
+			<nav id="nav">
+									<ul data-breakpoint="800" class="flexnav">
+	                        	                                            <li><a href="http://pizzahut.me/listing/en/AE/Pizza">Pizza</a>
+								</li>
+	                                            	                                            <li><a href="http://pizzahut.me/listing/en/AE/Starters">Starters</a>
+								</li>
+	                                            	                                            <li><a href="http://pizzahut.me/listing/en/AE/Pastas">Pastas</a>
+								</li>
+	                                            	                                            <li><a href="http://pizzahut.me/listing/en/AE/Salads">Salads</a>
+								</li>
+	                                            	                                            <li><a href="http://pizzahut.me/listing/en/AE/Desserts">Desserts</a>
+								</li>
+	                                            	                                            <li><a href="http://pizzahut.me/listing/en/AE/Deals">Deals</a>
+								</li>
+	                                            	                                            <li><a href="http://pizzahut.me/listing/en/AE/Flatbreads">Flatbreads</a>
+								</li>
+	                                            	                                            <li><a href="http://pizzahut.me/listing/en/AE/For+One">For One</a>
+								</li>
+	                                            </ul>	                    
+                    			</nav>
+		</div>
+	</div>
+	<div class="navbar navbar-inverse navbar-fixed-top header-background mar-bot0 mobilenavbar">
+		<div class="navbar-header">
+							<a class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapsemobile">MENU 
+							   <span class="touch-button"><span class="moreMenu-Arrow" style="margin-top: 3px; margin-left: 5px;"></span></span>
+			</a>
+		</div>
+		<div id="navbar" class="navbar-collapsemobile collapse header-nav" style="width: 100%;">
+			<nav id="nav" style="margin-bottom: 49px;">
+				<ul data-breakpoint="800" class="flexnav">
+                                                            <li><a href="http://pizzahut.me/listing/en/AE/Pizza">Pizza</a>
+					</li>
+                                                                        <li><a href="http://pizzahut.me/listing/en/AE/Starters">Starters</a>
+					</li>
+                                                                        <li><a href="http://pizzahut.me/listing/en/AE/Pastas">Pastas</a>
+					</li>
+                                                                        <li><a href="http://pizzahut.me/listing/en/AE/Salads">Salads</a>
+					</li>
+                                                                        <li><a href="http://pizzahut.me/listing/en/AE/Desserts">Desserts</a>
+					</li>
+                                                                        <li><a href="http://pizzahut.me/listing/en/AE/Deals">Deals</a>
+					</li>
+                                                                        <li><a href="http://pizzahut.me/listing/en/AE/Flatbreads">Flatbreads</a>
+					</li>
+                                                                        <li><a href="http://pizzahut.me/listing/en/AE/For+One">For One</a>
+					</li>
+                                                                        <!-- <li><a onclick="refreshHeader('yes')" href="#" style="color:red;">< ?php echo $rowCatId->name; ?></a></li> -->
+                                                                    <!-- <li><a onclick="refreshHeader('no')" href="#" style="color:red;">< ?php echo $rowCatId->name; ?></a></li> -->
+                                                        </ul>
+			</nav>
+		</div>
+	</div>
+	</div>
+	<!-- /navbar wrapper -->
+</header>
+<script type="text/javascript">
+    function submitform()
+    {
+        document.myform.submit();
+    }
+</script>
+					</div>
+				</div>
+			</div>
+			<div class="container-fluid">
+				<div id="contentWrapper">
+					<section class="policy">
+						<h1>Privacy Policy</h1>
+						<p style="margin-left: 0;">Yum! Restaurant International (MENAPAK)
+							Co SPC including its affiliates, subsidiaries, licensees sponsors
+							and assigns, (collectively "Yum!" or "we") is dedicated to
+							protecting the privacy rights of our online users ("users" or
+							"you"). This Online Privacy Policy ("Privacy Policy") has been
+							crafted to inform you as to the ways we collect, store, use, and
+							manage the information you provide in connection with any Yum!
+							game or application ("Service"). Please note that the scope of
+							this Privacy Policy is limited to only information collected from
+							Yum! through use of the Service.</p>
+						<p style="margin-left: 0;">
+							By using the Service, you are agreeing to the collection and use
+							of your personal information as outlined in this Privacy Policy.<br>
+							We may amend the Privacy Policy from time to time, and we
+							encourage you to consult the Privacy Policy regularly for
+							changes.
+						</p>
+						<h2>Information Collected and Used</h2>
+						<p>Yum!'s primary objective in collecting user information is to
+							provide and enhance the Service and to enable users to easily
+							navigate and enjoy the Service.</p>
+						<p>
+							When you install any of the Yum! games or applications, we may
+							collect and record the information you provide us voluntarily
+							through <a target="_blank" href="http://www.facebook.com" title="www.facebook.com">www.facebook.com</a> ("Facebook") in
+							accordance with the policies and terms of Facebook.
+						</p>
+						<div>
+							<p>
+								The types of personal information collected in accordance with
+								the activities listed above may vary depending on the activity.<br>
+								This "personal information" is defined as information about you
+								that can be used to contact or identify you.
+							</p>
+							<ul>
+								<p>Personal information may include:</p>
+								<li>1. Your name</li>
+								<li>2. Facebook user identification number or email address</li>
+								<li>3. Country and city of residence.</li>
+							</ul>
+							<ul>
+								<p>Additionally, we may acquire information from you through:</p>
+								<li>1. Your access and participation in message boards on the
+									Service</li>
+								<li>2. Your email of a question to our customer support or</li>
+								<li>3. Your purchase of a virtual product of any type.</li>
+							</ul>
+							<p>Please note that because a third party site manages the
+								purchases of virtual goods offered by the Service, we do not
+								have access to your credit card details and billing information.</p>
+						</div>
+						<div>
+							<p>Yum! may also invite you to share personal information about
+								yourself which may include but is not limited to:</p>
+							<ul>
+								<li>1. Your age or date of birth;</li>
+								<li>2. Your gender</li>
+								<li>3. Information about the hardware you may own;</li>
+								<li>4. Your favorite websites, friend information and fan pages
+									(collectively referred to as "personal information").</li>
+							</ul>
+							<p>If personal information is collected for an activity Yum! may
+								combine your non-personal information with your personal
+								information in an attempt to provide you with a better user
+								experience, to improve the quality and value of the Services and
+								to analyze how our Service is used. The Service will also record
+								game play information such as your high scores or game session
+								duration.</p>
+						</div>
+						<div>
+							<p>In addition to information collected as described above, you
+								may choose to share additional information about yourself
+								throughout the Service, such as in games or on message boards.</p>
+							<p>Any action you perform with other players is considered
+								public, and at your sole discretion. You will not have any claim
+								or rights against Yum! in connection with any public action.</p>
+						</div>
+						<p>Finally, any time you access the Service, we may collect
+							aggregate information including but not limited to internet
+							protocol addresses, browser type, browser language, referring /
+							exit pages and URLs, platform type, number of clicks, domain
+							names, landing pages, pages viewed and the order of those pages,
+							the amount of time spent on particular pages, and the date and
+							time of this activity. We use this information to better tailor
+							the Service to your interests, to provide you more efficient
+							customer support, and to overall enhance the Service. In all
+							cases of data access and collection, the information you provide
+							will not be disclosed, rented, leased, loaned, sold, or otherwise
+							voluntarily distributed to unaffiliated third parties and will be
+							used solely for the purpose of providing you with and improving
+							the Service.</p>
+						<h2>Other Disclosure of Your Personal Information</h2>
+						<p>
+							You understand and agree that we may be required to disclose any
+							personal information if required to do so by law or in the good
+							faith belief that such disclosure is reasonably necessary to
+							avoid liability, to comply with legal process, including but not
+							limited to a search warrant, subpoena, statute, or court order,
+							or to protect our rights and property, or that of the public.
+							Note that Yum! is not required to question or contest the
+							validity of any search warrant, subpoena or other similar
+							governmental request that Yum! may receive.<br> Additionally,
+							in the event of a merger, acquisition, reorganization,
+							bankruptcy, or other similar event, customer information may be
+							transferred to Yum! 's successor or assignee, if permitted by and
+							done in accordance with applicable law.
+						</p>
+						<h2>Cookies</h2>
+						<p>
+							A cookie is a small data file that we transfer to your computer's
+							hard disk, generally to quickly identify a user's computer and to
+							"remember" things about the user's visit, such as your
+							preferences or a username and password.<br> The Service sends
+							cookies to your computer when you access or view content of a
+							Yum! game.<br> Information contained in a cookie may be linked
+							to your personal information for purposes such as improving the
+							quality of our service, tailoring recommendations to your
+							interests, and making the Service easier to use. You can disable
+							cookies at any time, although you may not be able to access or
+							use features of the Service.
+						</p>
+						<h2>Links</h2>
+						<p>The Service may contain links to other websites. The fact that
+							the Service links to a website or presents a banner ad or other
+							type of advertisement does not mean that Yum! endorses or
+							authorizes that third party, nor is it a representation of our
+							affiliation with that third party. Yum! is in no way responsible
+							for the privacy policies of these other websites to which you
+							chose to access from the Service. Please be sure to read the
+							privacy policies of those websites when exiting the Service.</p>
+						<h2>Changing or Deleting Your Information</h2>
+						<p>
+							You may review, update, correct or delete any personal
+							information by changing the applicable information in your
+							Facebook profile page.<br> If you completely delete all this
+							information, your account may become deactivated.<br> If you
+							would like us to delete your record in our system, please contact
+							us and we will attempt to accommodate your request if we are not
+							legally obligated to retain the record.
+						</p>
+						<h2>Security</h2>
+						<p>
+							We have put in place reasonable technical and organizational
+							measures designed to secure your personal information from
+							accidental loss and from unauthorized access, use, alteration or
+							disclosure.<br> However, we cannot guarantee that unauthorized
+							third parties will never be able to overcome those measures or
+							use your personal information for improper purposes. Also please
+							note that email and messaging systems are not considered secure,
+							so we discourage you from sending us personal information through
+							these mediums.
+						</p>
+						<h2>Policy Regarding Children</h2>
+						<p>
+							The Service is not geared toward children under the age of 13 and
+							we do not knowingly collect personal information from children
+							under the age of 13.<br> If we learn that a child under 13 has
+							provided us with personal information we will delete such
+							information from our files as quickly as possible.
+						</p>
+						<h2>Contacting Us</h2>
+						<p>
+							If you have any questions about this Privacy Policy, please
+							contact us at <a href="/cdn-cgi/l/email-protection#9bf2f5fdf4dbebf2e1e1faf3eeefb5f6fe"><span class="__cf_email__" data-cfemail="d7beb9b1b897a7beadadb6bfa2a3f9bab2">[email&nbsp;protected]</span>
+								<script cf-hash="f9e31" type="text/javascript">
+/* <![CDATA[ */!function(){try{var t="currentScript"in document?document.currentScript:function(){for(var t=document.getElementsByTagName("script"),e=t.length;e--;)if(t[e].getAttribute("cf-hash"))return t[e]}();if(t&&t.previousSibling){var e,r,n,i,c=t.previousSibling,a=c.getAttribute("data-cfemail");if(a){for(e="",r=parseInt(a.substr(0,2),16),n=2;a.length-n;n+=2)i=parseInt(a.substr(n,2),16)^r,e+=String.fromCharCode(i);e=document.createTextNode(e),c.parentNode.replaceChild(e,c)}}}catch(u){}}();/* ]]> */</script></a>
+						</p>
+						<div>&nbsp;</div>
+					</section>
+				</div>
+			</div>
+		</section>
+		<footer>
+	<div class="SEOFooter" style="position: relative;">
+		<div class="row categoryNavFooter" style="width: 100% !important;">
+						<div class="col-md-1 col-md-offset-1 navColumn mobilehidefooter" style="margin-left: 4%;">
+					<h5>Order</h5>
+					<ul>
+							                                <li>
+	                                    <a href="http://pizzahut.me/listing/en/AE/Pizza">Pizza</a>
+	                                </li>
+	                            	                                <li>
+	                                    <a href="http://pizzahut.me/listing/en/AE/Starters">Starters</a>
+	                                </li>
+	                            	                                <li>
+	                                    <a href="http://pizzahut.me/listing/en/AE/Pastas">Pastas</a>
+	                                </li>
+	                            	                                <li>
+	                                    <a href="http://pizzahut.me/listing/en/AE/Salads">Salads</a>
+	                                </li>
+	                            	                                <li>
+	                                    <a href="http://pizzahut.me/listing/en/AE/Desserts">Desserts</a>
+	                                </li>
+	                            	                                <li>
+	                                    <a href="http://pizzahut.me/listing/en/AE/Deals">Deals</a>
+	                                </li>
+	                            	                                <li>
+	                                    <a href="http://pizzahut.me/listing/en/AE/Flatbreads">Flatbreads</a>
+	                                </li>
+	                            					</ul>
+			</div>
+			<div class="col-md-1 navColumn mobilehidefooter">
+				<h5>...</h5>
+				<ul>
+                	                    <li>
+                    	<a href="http://pizzahut.me/listing/en/AE/For+One">For One</a>
+                    </li>
+        						                    <li>
+                    	<a href="http://pizzahut.me/listing/en/AE/Cold+Drinks">Cold Drinks</a>
+                    </li>
+        						                    <li>
+                    	<a href="http://pizzahut.me/listing/en/AE/P%27Zone">P'Zone</a>
+                    </li>
+        						                    <li>
+                    	<a href="http://pizzahut.me/listing/en/AE/Sandwiches">Sandwiches</a>
+                    </li>
+        						                    <li>
+                    	<a href="http://pizzahut.me/listing/en/AE/Kids+meal">Kids meal</a>
+                    </li>
+        						                </ul>
+			</div>
+			<div class="col-md-1 navColumn mobilehidefooter" style="margin-right: 15px;">
+				<h5>Dine-in</h5>
+				<ul>
+					                        <li><a target="_blank" href="http://pizzahut.me/menus/cef019c1d87a19bd3dcbf3d0d80a33ce.pdf" class="exit_url">Restaurant
+						Menu</a></li>
+                    				</ul>
+			</div>
+			<div class="col-md-1 navColumn mobilehidefooter">
+				<h5>Nutrition</h5>
+				<ul>
+					<li><a href="http://pizzahut.me/nutrition.php" class="exit_url">Nutrition</a></li>
+				</ul>
+			</div>
+			<div class="col-md-1 navColumn mobilehidefooter">
+				<h5>Policies</h5>
+				<ul>
+					<li><a href="http://pizzahut.me/terms.php" class="exit_url">T&amp;Cs</a></li>
+					<li><a href="http://pizzahut.me/policy.php" class="exit_url">Privacy policy</a></li>
+				</ul>
+			</div>
+			<div class="col-md-2 navColumn mobilehidefooter" style="margin-right: -25px;">
+				<h5>Customer Service</h5>
+				<ul>
+					<li><a href="http://pizzahut.me/hut_locator.php">Hut Locator</a></li>
+					<li><a href="http://pizzahut.me/contact.php">Contact Us</a></li>
+				</ul>
+			</div>
+			<div class="col-md-1 navColumn mobilehidefooter" style="margin-right: 40px;">
+				<h5>About Us</h5>
+				<ul>
+					<li><a href="http://pizzahut.me/our_story.php" class="exit_url">Our Story</a></li>
+					<li><a href="https://give.wfp.org/5362/?step=country&amp;lead_source=2015-wfp-pizzahut-deliverhope-mena&amp;form_tag=2015-wfp-pizzahut-deliverhope-mena" class="exit_url">World Food Program</a></li>
+						<li><a href="http://pizzahut.me/becomeafranchisee.php" class="exit_url">Become A Franchisee</a></li>
+				</ul>
+			</div>
+			<div class="col-md-2 navColumn" style="width: 23%;">
+				<h5>Connect with Pizza Hut</h5>
+				<style>
+					.hutLoverSignUp {
+						float: left;
+						padding: 7px 57px 6px 4px;
+						width: 195px;
+						margin: 4px 0px 10px 0px;
+					}
+					
+					.hutLoverSignUp p {
+						color: #fff;
+					}
+					
+					.arrowYellow_Rt {
+						display: none;
+						margin-right: 7px;
+					}
+					
+					#socialmedia1 {
+						margin-left: -15px;
+					}
+					
+					@media ( max-width : 1100px) {
+						#socialmedia1 {
+							margin-left: 0;
+						}
+					}
+				</style>
+				<script type="text/javascript">
+                    $('.dropdown-menu').mouseover(function (e) {
+
+                        $('.dropdown-menu').css('display', 'block');
+                    })
+                    $('.dropdown-menu').mouseleave(function (e) {
+
+                        $('.dropdown-menu').css('display', 'none');
+                    })
+                </script>
+				<div id="socialmedia1" class="col-md-6">
+					<div class="socialBtn" id="socialFB">
+						<div class="ico-facebook social-Icons"></div>
+						<p>
+							<a target="_blank" href="https://www.facebook.com/mypizzahut" class="connect_with_us exit_url">Like us on facebook</a>
+						</p>
+					</div>
+					<div class="socialBtn" id="socialTwitter">
+						<div class="ico-twitter social-Icons"></div>
+						<p>
+							<a target="_blank" href="https://twitter.com/PizzaHut_saudi" class="connect_with_us exit_url">Follow us on Twitter</a>
+						</p>
+					</div>
+				</div>
+				<div class="col-md-6">
+					<div class="socialBtn" id="socialInstagram">
+						<div class="ico-instagram social-Icons"></div>
+						<p>
+							<a target="_blank" href="https://instagram.com/PizzaHut_saudi" class="connect_with_us exit_url">Follow us on Instagram</a>
+						</p>
+					</div>
+					<div class="socialBtn" id="socialYoutube">
+						<div class="ico-youtube social-Icons"></div>
+						<p>
+							<a target="_blank" href="https://www.youtube.com/channel/UCduIBr8YjlrlG842-64EE5w" class="connect_with_us exit_url">Watch us on YouTube</a>
+						</p>
+					</div>
+				</div>
+			</div>
+					</div>
+	</div>
+	<script src="http://pizzahut.me/assets/themes/pizzahut/js/jquery.tweet.js"></script>
+	<script src="http://pizzahut.me/assets/themes/pizzahut/js/jquery.flagstrap.js"></script>
+	<script src="http://pizzahut.me/assets/themes/pizzahut/js/bootstrap.js"></script>
+	<script src="http://apis.google.com/js/platform.js"></script>
+	<script src="http://pizzahut.me/assets/themes/pizzahut/js/wow.min.js"></script>
+	<script>
+                    new WOW().init();
+    </script>
+	<script type="text/javascript">
+        $('#options').flagStrap({
+            countries: {
+                "JO": "",
+                "AE": "",
+                "OM": "",
+                "QA": "",
+                "BH": "",
+                "EG": "",
+                "SA": "",
+                "JE": "",
+                "KW": ""
+            },
+            buttonSize: "btn-sm",
+            buttonType: "btn-default",
+            labelMargin: "10px",
+            scrollable: false,
+            scrollableHeight: "350px"
+        });
+        function getFlagVal(val) {
+            var strurl = window.location.href;
+            var n = strurl.indexOf("/en/");
+            if (n == -1) {
+                window.location = 'http://pizzahut.me/dotranslate.php?country=' + val;
+            } else {
+                window.location = 'http://pizzahut.me/dotranslate.php?country=' + val + '&changeurl=' + document.URL;
+            }
+        }
+        function change_language(lang, val) {
+            var strurl = window.location.href;
+            var n = strurl.indexOf("/en/");
+			var ar = strurl.indexOf("/ar/");
+			var search = strurl.indexOf("search.php");
+			if(lang == "en"){
+				lang="ar";
+			} else if (lang == "ar") {
+				lang="en";
+			} else {
+				lang="en";
+			}
+			if (search != -1) {
+				window.location = 'http://pizzahut.me/dotranslate.php';
+			} else if (n == -1 && ar == -1) {
+                window.location = 'http://pizzahut.me/dotranslate.php?country=' + val + '&lang=' + lang;
+            } else {
+                window.location = 'http://pizzahut.me/dotranslate.php?country=' + val + '&changeurl=' + document.URL + '&lang=' + lang;
+            }
+
+        }
+        function refreshHeader(individualMeal) {
+            window.location = 'http://pizzahut.me/dotranslate.php?individualMeal=' + individualMeal;
+        }
+        $(document).ready(function (e) {
+            topbarfixed();
+            $(window).resize(function () {
+                topbarfixed();
+            })
+        });
+        function topbarfixed() {
+            var width = $(".header").width();
+            $(".header-background").css({'width': width + 'px'});
+        }
+    </script>
+	<div id="fb-root"></div>
+	<script>(function (d, s, id) {
+            var js, fjs = d.getElementsByTagName(s)[0];
+            if (d.getElementById(id))
+                return;
+            js = d.createElement(s);
+            js.id = id;
+            js.src = "http://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.3";
+            fjs.parentNode.insertBefore(js, fjs);
+        }(document, 'script', 'facebook-jssdk'));</script>
+	<div align="center" style="font-size: 14px; color: #d1d1d1;">
+		Copyright © 2015 Pizza Hut, Inc. All rights reserved. The Pizza
+		Hut name, logos, and related marks are trademarks of Pizza Hut, Inc.
+		Powered By <a target="_blank" href="http://bloomay.com/" style="font-size: 14px;">Bloomay</a>
+	</div>
+</footer>
+<div class="revsliderstyles">
+	<style type="text/css"></style>
+</div>
+</div>
+
+<script src="https://js-agent.newrelic.com/nr-460.min.js"></script></body></html>
