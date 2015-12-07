@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the otweak.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607035839id_/http%3A//www.otweak.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the otweak.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207134156id_/http%3A//www.otweak.com/privacypolicy) for the most accurate reproduction.*
 
 # oTweak Software - Privacy Policy
 
