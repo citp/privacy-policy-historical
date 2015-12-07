@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blastam.com privacy policy that was archived on 2015-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150614142145id_/http%3A//www.blastam.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blastam.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207130908id_/http%3A//www.blastam.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -107,13 +107,13 @@ Even though Blast has taken significant steps to ensure that your Personal Infor
 Should you have any questions or concerns regarding this Privacy Policy, please contact us through [General Support](http://projects.blastam.com/public/index.php?path_info=submit) or: 
 
 Blast Analytics & Marketing  
-Attention: Tyler Jackson  
-950 Reserve Drive, #150  
-Roseville, CA 95678  
+Attention: Arille Deakter  
+6020 West Oaks Blvd., Suite 260  
+Rocklin, CA 95765  
 USA
 
 ### Privacy Policy Updates
 
 This Privacy Statement is a living document. As part of the Blast Terms and Conditions, this Privacy Policy is subject to occasional amendment, in accordance with the terms of the Terms and Conditions.
 
-This Policy was last updated on November 13, 2012.
+This Policy was last updated on October 1, 2015.
