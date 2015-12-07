@@ -1,22 +1,20 @@
-> *The following text is extracted and transformed from the niu.edu privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629033710id_/http%3A//doit.niu.edu/doit/policies/privacy_policy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the niu.edu privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207132318id_/http%3A//doit.niu.edu/doit/policies/privacy_policy.shtml) for the most accurate reproduction.*
 
 # Web Site Privacy Policy - NIU - Division of Information Technology
 
-## Northern Illinois University Web Site Privacy Policy
+### Purpose
 
-### General
+The Board of Trustees of Northern Illinois University ("NIU," or "University") respects the privacy of every individual who visits the NIU web site. This privacy policy outlines the information the NIU web site may collect and how that information may be used.
 
-The Board of Trustees of Northern Illinois University ("Northern Illinois University," "NIU," or "University") respects the privacy of every individual who visits the NIU web site. This privacy policy outlines the information the NIU web site may collect and how that information may be used.
+The NIU web site is supported by many University web servers. Some servers or sites hosted by NIU may adopt different privacy notices that go beyond the parameters set forth in this document, as their specific needs require. However, those servers or sites cannot adopt a privacy notice that in any way supercedes federal or state laws or regulations, NIU Board of Trustees Bylaws and Regulations, and/or this Privacy Policy. Any discrepancy between the information presented here and the official Bylaws and Regulations of the Board of Trustees of NIU and the policies and procedures of NIU is not intended to and does not alter or amend the official Bylaws, Regulations, policies or procedures. NIU reserves the right to alter this policy at any time and will post future amended documents at this location.
 
-The NIU web site is supported by many University web servers. Some servers or sites hosted by Northern Illinois University may adopt different privacy notices that go beyond the parameters set forth in this document, as their specific needs require. However, those servers or sites cannot adopt a privacy notice that in any way supercedes federal or state laws or regulations, NIU Board of Trustees Bylaws and Regulations, and/or this Privacy Policy. Any discrepancy between the information presented here and the official Bylaws and Regulations of the Board of Trustees of Northern Illinois University and the policies and procedures of Northern Illinois University is not intended to and does not alter or amend the official Bylaws, Regulations, policies or procedures. NIU reserves the right to alter this policy at any time and will post future amended documents at this location.
-
-### Definitions
+### Scope
 
 The NIU web site is defined as publicly accessible pages hosted under the domain "www.niu.edu," any web address ending ".niu.edu," or any website, within the NIU IP address range, that is maintained by NIU employees or departments or units, acting within their respective scopes of employment.
 
-### Collection and Sharing of Supplied Personal User Information and Data
+#### Collection and Sharing of Supplied Personal User Information and Data
 
-Northern Illinois University uses the University Web for business purposes and is committed to fostering and protecting the privacy of personal information. The NIU web site will not collect personally identifiable information (personal data) about visitors, such as name, address, telephone number, or email address unless the information was provided voluntarily. Visitors should not voluntarily provide personal data if they do not want it to be collected. When collected, personal data may be used in the following ways:
+NIU uses the University Web for business purposes and is committed to fostering and protecting the privacy of personal information. The NIU web site will not collect personally identifiable information (personal data) about visitors, such as name, address, telephone number, or email address unless the information was provided voluntarily. Visitors should not voluntarily provide personal data if they do not want it to be collected. When collected, personal data may be used in the following ways:
 
   1. Fulfill an order or request;
   2. Assist with better understanding the needs of visitors, thereby allowing NIU to improve services;
@@ -32,7 +30,7 @@ Use of the University Web is subject to all applicable state and federal law, as
 
   * Authorized and/or mandated by law,
   * Permitted under University policies,
-  * Authorized by an approved Northern Illinois University contract,
+  * Authorized by an approved NIU contract,
   * Clearly stated at a University Web site that such information will be shared and the user actively indicated informed consent by providing the information, or
   * When consent is otherwise given.
 
@@ -40,7 +38,7 @@ Use of the University Web is subject to all applicable state and federal law, as
 
 The Division of Information Technology has taken several steps to safeguard the integrity of its communications and computing infrastructure, including but not limited to authentication, monitoring, auditing and encryption. Security measures have been integrated into the design, implementation and day-to-day practices of the entire University operating environment as part of its continuing commitment to risk management. However, such activities should not be construed as any warranty against the unauthorized breach/failure of these security measures.
 
-### Information Placed Automatically on Visitors' Computers (Cookies)
+#### Information Placed Automatically on Visitors' Computers (Cookies)
 
 When visitors view the NIU web site, some information may be stored on their computer. This information will be in the form of a "cookie" or similar file. Cookies help web authors tailor web sites to better match user interests and preferences. With most Internet browsers, users can alter user preferences to erase cookies from their hard drive, block cookies, or have it prompt the user to either accept or refuse to store the cookie. Most browser help files have detailed instructions on how to set user preferences for cookies.
 
@@ -53,21 +51,21 @@ In compliance with the Illinois State Agency Web Site Act ("Act"), NIU Web sites
 
 NIU Web sites may, however, use transactional cookies that facilitate business transactions.
 
-### Public Forums, Online Surveys and Other Information Provided by the User
+#### Public Forums, Online Surveys and Other Information Provided by the User
 
 Many units of the University provide chat rooms, forums, message boards, and news groups for their users. Any information that is disclosed in these areas may become public information and a user should therefore exercise caution when deciding to disclose one's personal information in such places. Chat sessions and discussion forums may be logged.
 
 In addition, at any time there are numerous online surveys being conducted on NIU web sites. Persons responsible for conducting online surveys that collect personally-identifiable information should clearly state at the survey site the extent to which any information provided will be shared or protected. Aggregate data from surveys may be shared with external third parties in ways that do not compromise privacy.
 
-### E-Commerce
+#### E-Commerce
 
-Several sites within the NIU web site enable one to pay for products or services online. Please see the NIU Internet [](http:///)[ **Commerce Privacy Statement**](http://www.niu.edu/statements/privacystatement.shtml).
+Several sites within the NIU web site enable one to pay for products or services online. See the  [](http:///)[NIU Internet Commerce Privacy Statement](http://www.niu.edu/statements/privacystatement.shtml).
 
-### Compliance with Relevant Federal and State Information Privacy Laws
+### Enforcement
 
-Northern Illinois University is committed to complying fully with the Children's Online Privacy Protection Act. Accordingly, if a user of the NIU web site is under the age of thirteen, such user is not authorized to provide NIU with personally identifying information, and the University will not use any such information in its database or other data collection activities. Users under the age of thirteen and their parents or guardians are otherwise cautioned that the collection of personal information volunteered by unauthorized children online or by email will be treated the same as information given by an adult until the University becomes aware that the user is under the age of thirteen and such information may be subject to public access.
+NIU is committed to complying fully with the Children's Online Privacy Protection Act. Accordingly, if a user of the NIU web site is under the age of thirteen, such user is not authorized to provide NIU with personally identifying information, and the University will not use any such information in its database or other data collection activities. Users under the age of thirteen and their parents or guardians are otherwise cautioned that the collection of personal information volunteered by unauthorized children online or by email will be treated the same as information given by an adult until the University becomes aware that the user is under the age of thirteen and such information may be subject to public access.
 
-In addition, Northern Illinois University is committed to complying fully with, among all other applicable federal and state laws:
+In addition, NIU is committed to complying fully with, among all other applicable federal and state laws:
 
   1. The Family Educational Rights and Privacy Act ("FERPA"), which generally prohibits the release of student education records without student permission;
   2. The Health Insurance Portability and Accountability Act ("HIPAA"), which generally safeguards the integrity and confidentiality of health information that is transmitted electronically;
@@ -76,34 +74,34 @@ In addition, Northern Illinois University is committed to complying fully with, 
 
 
 
-### Legal Disclaimers
+#### Legal Disclaimers
 
 This information should not be construed in any way as giving business, legal, or other advice, or as a warranty against unauthorized breaches/failures of NIU computing resources, the security of information provided via the NIU web site. Access to the NIU web site is provided subject to the following terms and conditions. Please read these terms carefully as use of the NIU web site constitutes acceptance of all of the following terms and conditions.
 
-### Disclaimer of Liability
+#### Disclaimer of Liability
 
-In no event shall the NIU Board of Trustees and/or Northern Illinois University, its departments/units and employees, be responsible or liable, directly or indirectly, for any damage or loss caused by or in connection with, use of, or reliance on, any information, products, or services available on or through the NIU web site. The NIU Board of Trustees and/or Northern Illinois University, its departments/units and employees, shall not be held liable, and do not assume responsibility, for any improper or incorrect use of the NIU web site. This disclaimer of liability applies to any damages or loss, including but not limited to those caused by any failure of performance, error, omission, interruption, deletion, defect, delay in operation or transmission, computer virus, communication line failure, theft or destruction or unauthorized access to, alteration of, or use of record(s), whether for breach of contract, tortuous behavior, negligence, or under any other cause of action.
+In no event shall the NIU Board of Trustees and/or NIU, its departments/units and employees, be responsible or liable, directly or indirectly, for any damage or loss caused by or in connection with, use of, or reliance on, any information, products, or services available on or through the NIU web site. The NIU Board of Trustees and/or NIU, its departments/units and employees, shall not be held liable, and do not assume responsibility, for any improper or incorrect use of the NIU web site. This disclaimer of liability applies to any damages or loss, including but not limited to those caused by any failure of performance, error, omission, interruption, deletion, defect, delay in operation or transmission, computer virus, communication line failure, theft or destruction or unauthorized access to, alteration of, or use of record(s), whether for breach of contract, tortuous behavior, negligence, or under any other cause of action.
 
 Users of the NIU web site should be aware that periodic changes may be made to the information provided on the NIU web site. Also, users should be cautious about information from the NIU web site that is obtained through sources other than NIU web pages, as electronic data/information can be altered or become out-of-date subsequent to original distribution.
 
-### Disclaimer of Warranties and Accuracy Information/Data
+#### Disclaimer of Warranties and Accuracy Information/Data
 
-Although the information/data found using the NIU web site have been produced and processed from sources believed to be reliable, no warranty, express or implied, is made regarding accuracy, adequacy, completeness, legality, reliability or usefulness of any information. This disclaimer applies to both isolated and aggregate uses of the information. Northern Illinois University provides this information on an "as is" basis. All warranties of any kind, express or implied, including but not limited to the implied warranties of merchantability, fitness for a particular purpose, freedom from contamination by computer viruses and non-infringement of proprietary rights are specifically and generally disclaimed.
+Although the information/data found using the NIU web site have been produced and processed from sources believed to be reliable, no warranty, express or implied, is made regarding accuracy, adequacy, completeness, legality, reliability or usefulness of any information. This disclaimer applies to both isolated and aggregate uses of the information. NIU provides this information on an "as is" basis. All warranties of any kind, express or implied, including but not limited to the implied warranties of merchantability, fitness for a particular purpose, freedom from contamination by computer viruses and non-infringement of proprietary rights are specifically and generally disclaimed.
 
-### Disclaimer for External Links
+#### Disclaimer for External Links
 
-NIU web sites may provide links to Internet websites that are maintained by third parties, over which NIU has no control. NIU does not represent that any particular link will be on-line and functional at any given time. When a user leaves the NIU web site and visits another site, the user is subject to the privacy policy of that new site. It is the responsibility of the user to evaluate the content and usefulness of information obtained from other sites. NIU does not endorse the content, operators, products, or services of such sites, and the NIU Board of Trustees and Northern Illinois University shall not be responsible or liable, directly or indirectly, for any damage or loss caused by or in connection with use of or reliance on any such external content, products, or services available on or through such external sites. This policy applies solely to information collected by the NIU web site.
+NIU web sites may provide links to Internet websites that are maintained by third parties, over which NIU has no control. NIU does not represent that any particular link will be on-line and functional at any given time. When a user leaves the NIU web site and visits another site, the user is subject to the privacy policy of that new site. It is the responsibility of the user to evaluate the content and usefulness of information obtained from other sites. NIU does not endorse the content, operators, products, or services of such sites, and the NIU Board of Trustees and NIU shall not be responsible or liable, directly or indirectly, for any damage or loss caused by or in connection with use of or reliance on any such external content, products, or services available on or through such external sites. This policy applies solely to information collected by the NIU web site.
 
-### Disclaimer on Linking to NIU Web sites
+#### Disclaimer on Linking to NIU Web sites
 
 NIU encourages and permits links to content published on the NIU web site. However, any linking should not (1) implicitly or explicitly suggest that the NIU Board of Trustees or NIU promotes or endorses any third party's causes, ideas, web site content, products or services, or (2) use NIU content for inappropriate commercial purposes. The NIU Board of Trustees reserves the right to withdraw permission for any link.
 
-### Choice of Law
+#### Choice of Law
 
 Construction of the disclaimers above and resolution of disputes thereof are governed by the laws of the State of Illinois. The laws of the State of Illinois, U.S.A., shall apply to all uses of this data/information and the NIU web site. By use of the NIU web site and any data/information contained therein, the user agrees that use shall conform to all applicable laws and regulations as well as relevant University policy, and user shall not violate the rights of any third parties.
 
 ### More Information
 
-For more information, contact [**its@niu.edu**](mailto:its@niu.edu).
+For more information, contact [**doit@niu.edu**](mailto:doit@niu.edu).
 
 Revision date 7/25/2014 (Division title change)
