@@ -1,131 +1,76 @@
-> *The following text is extracted and transformed from the freepostcodelottery.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608012757id_/http%3A//freepostcodelottery.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freepostcodelottery.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207033505id_/http%3A//freepostcodelottery.com/privacy) for the most accurate reproduction.*
 
 # Free Postcode Lottery - Privacy policy
 
 ## Privacy Policy
 
-We are committed to safeguarding the privacy of our website visitors; this policy sets out how we will treat your personal information.
+Latemodern Digital Consultancy Limited (“Latemodern” / “we”) collects information from our clients and potential clients at several different points on [freepostcodelottery.com](http://freepostcodelottery.com/) (the “ **Website** ”) as well as through email, postal and telephone correspondence, face-to-face meetings and through replies to questionnaires.
 
-(1) This privacy policy
+This Privacy Policy along with Latemodern's [Terms and Conditions](http://freepostcodelottery.com/terms) and [Cookie Policy](http://freepostcodelottery.com/cookies) sets out the way Latemodern stores, analyses and uses data relating to you (your personal data) and the reasons for doing that. By continuing to access the Website, by providing information by email, post, phone, in person or through any other medium, you are accepting and consenting to Latemodern’s use of your personal data, as a Data Controller, in the ways set out in these policies.
 
-This privacy policy was made using an SEQ Legal privacy policy template created for http://www.employmentlawcontracts.co.uk.
+### Information Collected
 
-(2) What information do we collect?
+The following personal data relating to you may be collected:
 
-We collect, store and use the following personal information:
+  * **Information you provide**. You may provide information to us through web forms on the Website, by email, or by phone. The information you provide may include your name, address, e-mail address and phone number.
 
-(a) information that you provide to us for the purpose of registering with us (including your postcode and email address);
+We will not intentionally or systematically seek to collect, store, use or otherwise process information about you classed as ‘sensitive personal data’ (for example, information relating to any trade union membership, ethnic origin or medical conditions). We cannot prevent you from disclosing the same to Latemodern, or Latemodern’s agents, as part of your correspondence with us but you should ensure that such information is only provided where it is absolutely necessary.
 
-(b) Your IP address is stored with your personal information for security only. This helps us identify the source in cases where the site is being abused. For example, identifying fraudulent entries.
+  * **Information we collect**. We automatically collect certain information to help analyse the Website and our service, including:
 
-(3) Cookies
+    * Technical information like the Internet Protocol (IP) address used to connect your computer or device to the internet, your browser type and version, time zone setting, operating system and platform; and
+    * Information about your visit including the full Uniform Resource Locators (URL) clickstream to, through and from our site (including date and time); pages you visited or searched for; page response times, length of visits to certain pages, page interaction information (such as scrolling, clicks, and mouse-overs), and methods used to browse away from the page and any phone number used to call our contact numbers. 
 
-A cookie consists of information sent by a web server to a web browser, and stored by the browser. The information is then sent back to the server each time the browser requests a page from the server. This enables the web server to identify and track the web browser. 
 
-We use "persistent" cookies on the website. We will use the persistent cookies to: enable our website to recognise you when you visit. 
 
-Persistent cookies will remain stored on your computer until deleted, or until they reach a specified expiry date.
+### Using Your Information
 
-We use Google Analytics to analyse the use of this website. Google Analytics generates statistical and other information about website use by means of cookies, which are stored on users' computers. The information generated relating to our website is used to create reports about the use of the website. Google will store this information. Google's privacy policy is available at: http://www.google.com/privacypolicy.html.
+Latemodern uses the **information you provide** largely to contact you - by phone, email or by post - in order to seek further information, to update you on any changes to our service, to send you general commercial (non-marketing) communications, to send you any communications that you have specifically requested, and to inform you of any similar or related services that we provide that we consider may be of interest to you. We may keep this information on file to record enquiries that we have received about our service, to help us to assess how effective our various marketing programs are, and to comply with any legal obligations that may be imposed upon us from time to time.
 
-We log users' access of the site for security purposes only.
+Latemodern uses the **information we collect** to ensure our Website and other communications with you are presented in the most effective way, to administer the Website (including troubleshooting it and carrying out testing and analysis), to ensure that our Website and other arrangements for collecting your data and communicating with you are as secure as possible and for marketing purposes.
 
-Our advertisers may also send you cookies.
+### Sharing Your Information
 
-We publish Google Adsense interest-based advertisements on our website. These are tailored by Google to reflect your interests. To determine your interests, Google will track your behaviour across the web using cookies. You can view, delete or add interest categories associated with your browser using Google's Ads Preference Manager, available at: http://www.google.com/ads/preferences/. You can opt-out of the Adsense partner network cookie at: http://www.google.com/privacy_ads.html. However, this opt-out mechanism uses a cookie, and if you clear the cookies from your browser your opt-out will not be maintained. To ensure that an opt-out is maintained in respect of a particular browser, you should use the Google browser plug-in available at: http://www.google.com/ads/preferences/plugin.
+Latemodern might share your information with others, in limited circumstances, including as follows:
 
-Third party vendors, including Google, use cookies to serve ads based on a user's prior visits to your website.
+  * We will share your information amongst Latemodern’s group companies (that means companies that partially own Latemodern or are owned by Latemodern) – as they may help in analysing and progressing your potential instructions.
+  * As mentioned above, we work closely with selected partners who may provide administrative support, who may assist in collecting and storing your information and who may assist Latemodern in contacting you. 
+  * We may share information with analytics and search engine providers that assist us in the improvement and optimisation of our site.
+  * We may need to disclose your information if required by law, if we believe that disclosure is necessary to comply with a current judicial proceeding, or a court order or legal process served on us. In the event Latemodern goes through a business transition, such as a merger, being acquired by another company, or selling a portion of its assets, users’ your information will, in most instances, be part of the assets transferred. 
 
-Google's use of the DoubleClick cookie enables it and its partners to serve ads to your users based on their visit to your sites and/or other sites on the Internet.
 
-Users may opt out of the use of the DoubleClick cookie for interest-based advertising by visiting [Ads Settings](http://www.google.com/ads/preferences/). (Alternatively, you can direct users to opt out of a third-party vendor's use of cookies for interest based advertising by visiting [aboutads.info](http://www.aboutads.info/).)
 
-We publish links to other sites that pay us commission for traffic and/or resulting leads. There is no obligation for our users to click on these links.
+### Storing Your Information
 
-Most browsers allow you to reject all cookies, whilst some browsers allow you to reject just third party cookies. For example, in Internet Explorer you can refuse all cookies by clicking "Tools", "Internet Options", "Privacy", and selecting "Block all cookies" using the sliding selector. Blocking all cookies will, however, have a negative impact upon the usability of many websites, including this one.
+Your information may be transferred to, and stored at, a destination outside the European Economic Area ("EEA"). Latemodern will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy.
 
-(4) Using your personal information
+All information you provide to us is stored on secure server space. 
 
-Personal information submitted to us via this website will be used for the purposes specified in this privacy policy or in relevant parts of the website.
+Unfortunately, the transmission of information (in particular, via the internet) is not completely secure. Although we will do our best to protect your information, we cannot guarantee the security of data transmitted either through the Website or by post, email or phone. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access.
 
-We may use your personal information to:
+### Links
 
-(a) administer the website;
+The Website contains links to other sites. Please be aware that Latemodern is not responsible for the privacy practices of such other sites. 
 
-(b) improve your browsing experience by personalising the website;
+This website uses Pollfish web plugin. Pollfish is an on-line survey platform, through which, anyone may conduct surveys. Pollfish collaborates with Developers of applications for smartphones and website owners in order to have access to users of such applications/websites and address survey questionnaires to them. This website uses and enables Pollfish cookies. When a user connects to this website, Pollfish detects whether the user is eligible for a survey. Data collected by Pollfish will be associated with your answers to the questionnaires whenever Pollfish sents such questionnaires to eligible users. For a full list of data received by Pollfish through this website, please read carefully Pollfish respondent terms located at https://www.pollfish.com/terms/respondent. By using this website you accept this privacy policy document and you hereby give your explicit consent for the placement of a Pollfish cookie in your system and the processing by Pollfish of the aforementioned data. Furthermore, you are informed that you may disable Pollfish operation at any time by using the Pollfish “opt out section” available on Pollfish website or by disabling “third party cookies” from your browser’s settings. We once more invite you to check the Pollfish respondent’s terms of use, if you wish to have more detailed view of the way Pollfish works works. 
 
-(c) enable your use of the services available on the website;
+APPLE, GOOGLE AND AMAZON ARE NOT A SPONSOR NOR ARE INVOLVED IN ANY WAY IN THIS CONTEST/DRAW. NO APPLE PRODUCTS ARE BEING USED AS PRIZES
 
-(d) send you general (non-marketing) commercial communications;
+### Changes to this Policy
 
-(e) send you email notifications which you have specifically requested;
+Latemodern will occasionally update this Privacy Policy to reflect company and customer feedback. Latemodern encourages you to periodically review this Privacy Policy to be informed of any changes to how we deal with your information.
 
-(f) deal with enquiries and complaints made by or about you relating to the website; 
+### Your Rights and Contacting Us
 
-We will not without your express consent provide your personal information to any third parties for the purpose of direct marketing.
+You have the right to ask us not to process your information for marketing purposes and/or to ask that you be removed from our database of site users. You can exercise this right at any time by sending us an email to unsubscribe at [admin@freepostcodelottery.com](mailto:admin@freepostcodelottery.com). 
 
-All our prize payments are handled through our payment services provider, PayPal. You can review the PayPal privacy policy at www.paypal.com. We will share information with PayPal only to the extent necessary for the purposes of processing payments we make to you from our website and dealing with complaints and queries relating to such payments.
+The Data Protection Act 1998 gives you the right to access information held about you. That right of access can be exercised in accordance with the Act. Any access request may be subject to a fee of £10 to meet our costs in providing you with details of the information we hold about you. Any such request or any other questions or comments relating to this Privacy Policy should be addressed to: [admin@freepostcodelottery.com](mailto:admin@freepostcodelottery.com) or the following address:
 
-(5) Disclosures
-
-We may disclose information about you to any of our employees, suppliers or subcontractors insofar as reasonably necessary for the purposes as set out in this privacy policy.
-
-In addition, we may disclose your personal information: 
-
-(a) to the extent that we are required to do so by law;
-
-(b) in connection with any legal proceedings or prospective legal proceedings;
-
-(c) in order to establish, exercise or defend our legal rights (including providing information to others for the purposes of fraud prevention and reducing credit risk);
-
-(d) to the purchaser (or prospective purchaser) of any business or asset which we are (or are contemplating) selling; and
-
-(e) to any person who we reasonably believe may apply to a court or other competent authority for disclosure of that personal information where, in our reasonable opinion, such court or authority would be reasonably likely to order disclosure of that personal information.
-
-Except as provided in this privacy policy, we will not provide your information to third parties.
-
-(6) International data transfers
-
-Information that we collect may be stored and processed in and transferred between any of the countries in which we operate in order to enable us to use the information in accordance with this privacy policy.
-
-Information which you provide may be transferred to countries which do not have data protection laws equivalent to those in force in the European Economic Area. 
-
-You expressly agree to such transfers of personal information.
-
-(7) Security of your personal information
-
-We will take reasonable technical and organisational precautions to prevent the loss, misuse or alteration of your personal information. 
-
-We will store all the personal information you provide on our secure (password- and firewall- protected) servers. 
-
-Of course, data transmission over the internet is inherently insecure, and we cannot guarantee the security of data sent over the internet.
-
-(8) Policy amendments
-
-We may update this privacy policy from time-to-time by posting a new version on our website. You should check this page occasionally to ensure you are happy with any changes. 
-
-We may also notify you of changes to our privacy policy by email.
-
-(9) Your rights
-
-You may instruct us to provide you with any personal information we hold about you. Provision of such information will be subject to the supply of appropriate evidence of your identity (for this purpose, we will usually accept a photocopy of your passport certified by a solicitor or bank plus an original copy of a utility bill showing your current address).
-
-We may withhold such personal information to the extent permitted by law.
-
-You may instruct us not to process your personal information for marketing purposes by email at any time. In practice, you will usually either expressly agree in advance to our use of your personal information for marketing purposes, or we will provide you with an opportunity to opt-out of the use of your personal information for marketing purposes.
-
-(10) Third party websites
-
-The website contains links to other websites. We are not responsible for the privacy policies or practices of third party websites.
-
-(11) Updating information
-
-Please let us know if the personal information which we hold about you needs to be corrected or updated.
-
-(12) Contact
-
-If you have any questions about this privacy policy or our treatment of your personal information, please [contact us](https://web.archive.org/contact).
-
-(13) Data controller
-
-The data controller responsible in respect of the information collected on this website is Latemodern Digital Consultancy Ltd.
+Privacy Compliance  
+Latemodern Digital Consultancy Ltd.  
+HENSTAFF COURT   
+GROESFAEN   
+PONTYCLUN   
+MID GLAMORGAN   
+WALES   
+CF72 8NG 
