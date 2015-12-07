@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the softspecialist.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607071729id_/http%3A//www.softspecialist.com/p/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the softspecialist.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207144850id_/http%3A//www.softspecialist.com/p/privacy-policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -18,7 +18,10 @@ In addition, users can see how ads are being customized to their interests via t
 
 Further references:  
 http://www.doubleclick.com/privacy/faq.aspx  
-http://www.google.com/privacy_ads.html
+http://www.google.com/privacy_ads.html  
+http://www.google.com/intl/en/policies/privacy/partners/  
+http://www.google.com/intl/es/policies/privacy/partners/  
+http://www.google.com/intl/it/policies/privacy/partners/
 
 |   
 ---|---|---  
