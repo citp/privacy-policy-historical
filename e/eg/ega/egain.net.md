@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the egain.net privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608094822id_/http%3A//www.egain.com/privacy-policies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the egain.net privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207051315id_/http%3A//www.egain.com/privacy-policies) for the most accurate reproduction.*
 
 # Data Privacy and Security Policy - eGain
 
@@ -84,9 +84,9 @@ Our Privacy Policy applies to all of the services offered by eGain. Our Privacy 
 
 ### **Compliance with regulatory authorities**
 
-eGain has been awarded TRUSTe’s Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [ **TRUSTe’s program requirements**](http://www.truste.com/privacy-program-requirements/) and [ **TRUSTed Cloud Program Requirements**](http://www.truste.com/privacy-program-requirements/trusted-cloud/index.html) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program covers only information that is collected through the English version of the site www.egain.com. The TRUSTe program covers information that may be collected through our platform services (eGain Service Platform, eGain Customer Forums and eGain Support Portal) and does not cover information collected through our eGain Econet and any of our mobile services. The use of information collected through our service are limited to the purpose of providing the service for which the Client has engaged eGain
+eGain has been awarded TRUSTe’s Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [ **TRUSTe’s program requirements**](http://www.truste.com/privacy-program-requirements/) and [ **TRUSTed Cloud Program Requirements**](http://www.truste.com/privacy-program-requirements/trusted-cloud/index.html) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program covers only information that is collected through the English version of the site www.egain.com. The TRUSTe program covers information that may be collected through our platform services (eGain Service Platform, eGain Customer Forums and eGain Support Portal) and does not cover information collected through our eGain Econet and any of our mobile services. The use of information collected through our service are limited to the purpose of providing the service for which the Client has engaged eGain.
 
-If you have questions or complaints regarding our privacy policy or practices, please contact us atc. If you are not satisfied with our response you can contact [**TRUSTe here**](https://feedback-form.truste.com/watchdog/request).
+If you have questions or complaints regarding our privacy policy or practices, please [contact us](http://www.egain.com/company/contact-us/). If you are not satisfied with our response you can contact [**TRUSTe here**](https://feedback-form.truste.com/watchdog/request).
 
 eGain complies with the U.S.–E.U. Safe Harbor framework and the U.S.–Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries and Switzerland.
 
