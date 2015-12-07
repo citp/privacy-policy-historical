@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the playfin.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607154708id_/http%3A//www.playfin.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the playfin.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207035956id_/http%3A//www.playfin.com/privacypolicy) for the most accurate reproduction.*
 
 # Playfin.com - Thousands of free online games for PC and Mac!
 
