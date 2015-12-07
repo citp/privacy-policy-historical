@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the samaritanministries.org privacy policy that was archived on 2014-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141112111932id_/http%3A//samaritanministries.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the samaritanministries.org privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207101431id_/http%3A//samaritanministries.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Samaritan Ministries International
 
@@ -19,7 +19,9 @@ SMI uses the Secure Socket Layer (SSL) protocol when collecting or transferring 
 SMI’s websites and communications may contain links to other websites. The privacy and data collection practices on linked websites are separate from SMI and do not accompany this privacy statement.
 
 **Changing Your Information and Mailing Preferences**  
-Your information is used to send information to you about Samaritan Ministries or to send items you requested from us. If you would like to change our information about you or your mailing preferences, simply let us know. Contact Member Services: call (877) 764-2426; write Samaritan Ministries, PO Box 3618, Peoria, IL 61612 or email [smchcn@smchcn.net](mailto:smchcn@smchcn.net). We will try to respond promptly to your request.
+Your information is used to send information to you about Samaritan Ministries or to send items you requested from us. If you would like to change our information about you or your mailing preferences, simply let us know. Contact Member Services: call (877) 764-2426;  
+write Samaritan Ministries, PO Box 3618, Peoria, IL 61612 or email   
+[membership@samaritanministries.org](mailto:membership@samaritanministries.org). We will try to respond promptly to your request.
 
 **Changes to this Statement**  
 SMI reserves the right to make changes to this privacy statement at any time and requests that you review this statement periodically for updates.
