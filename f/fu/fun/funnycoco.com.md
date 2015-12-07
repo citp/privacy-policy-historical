@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the funnycoco.com privacy policy that was archived on 2015-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150504094656id_/http%3A//www.funnycoco.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the funnycoco.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207040954id_/http%3A//www.funnycoco.com/privacy) for the most accurate reproduction.*
 
 # Best Fun & Most Creative Community - FUNNYCOCO.COM
 
