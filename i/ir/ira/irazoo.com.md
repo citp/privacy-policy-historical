@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the irazoo.com privacy policy that was archived on 2014-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141019103608id_/http%3A//www.irazoo.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the irazoo.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207133658id_/http%3A//www.irazoo.com/Privacy.aspx) for the most accurate reproduction.*
 
 # earn points, search engines, win free gift cards
 
