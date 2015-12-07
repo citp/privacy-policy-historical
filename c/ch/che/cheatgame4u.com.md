@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cheatgame4u.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607232938id_/http%3A//www.cheatgame4u.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cheatgame4u.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207122930id_/http%3A//www.cheatgame4u.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -30,4 +30,4 @@ If you wish to disable cookies, you may do so through your individual browser op
 
 #### Pencarian Terkait:
 
-http//:www cheatgame4u com/p/download-vidio-youtube html 
+download film jurassic park 4 full movie,download game pes konami 2016 android,download naruto the movies 10,download The last naruto,Dwonload film naruto the last HD,filem fast and farious 7 full movies,full video naruto,the movies naruto 
