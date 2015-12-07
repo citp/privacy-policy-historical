@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flexerasoftware.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607174420id_/http%3A//www.flexerasoftware.com/enterprise/company/terms/tab/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flexerasoftware.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207194902id_/http%3A//www.flexerasoftware.com/enterprise/company/terms/tab/privacy) for the most accurate reproduction.*
 
 # Terms and Conditions | Flexera Software
 
