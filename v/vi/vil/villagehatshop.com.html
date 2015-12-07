@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the villagehatshop.com privacy policy that was archived on 2015-06-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150608224828id_/http%3A//www.villagehatshop.com/content/4/privacy-security.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the villagehatshop.com privacy policy that was archived on 2015-12-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151207024449id_/http%3A//www.villagehatshop.com/content/4/privacy-security.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><!--<![endif]--><head>
 <title>
@@ -12,7 +12,7 @@ Privacy &amp; Security - Village Hat Shop</title>
 <link rel="icon" href="/favicon.ico" type="image/ico">
 <link rel="home" title="Home" href="http://www.villagehatshop.com/">
 <link rel="canonical" href="http://www.villagehatshop.com/content/4/privacy-security.html">
-<script type="text/javascript" async="" src="https://www.googlecommerce.com/trustedstores/gtmp_compiled.js"></script><script type="text/javascript" async="" src="https://static.www.turnto.com/traServer4_1/trajs/SlIRRMu5UP5GBdOsite/tra.js"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript" src="http://www.villagehatshop.com/Public/Scripts/jquery-1.10.2.min.js"></script>
+<script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-5W6WV5"></script><script type="text/javascript" async="" src="https://www.googlecommerce.com/trustedstores/gtmp_compiled.js"></script><script type="text/javascript" async="" src="https://static.www.turnto.com/traServer4_1/trajs/SlIRRMu5UP5GBdOsite/tra.js"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript" src="http://www.villagehatshop.com/Public/Scripts/jquery-1.10.2.min.js"></script>
 <script type="text/javascript" src="http://www.villagehatshop.com/Public/Scripts/jquery-migrate-1.2.1.min.js"></script>
 <script type="text/javascript">
 $j = jQuery;
@@ -20,6 +20,19 @@ jQuery.noConflict();
 </script>
 <script src="http://www.villagehatshop.com/Scripts/Shop.js" type="text/javascript"></script>
 <script src="http://www.villagehatshop.com/Public/Scripts/jquery.lazyload.js" type="text/javascript"></script>
+<script type="text/javascript">
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-219214-1']);
+        _gaq.push(['_setCustomVar', 1, 'Yottaa Control', 'yottaa_test_control']);
+        _gaq.push(['_trackPageview']);
+
+    (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+    
+</script>
 <script type="text/javascript">
 function IncludeJavaScript(jsFile, onLoadCallback) {
     var head = document.getElementsByTagName('head')[0] || document.documentElement;
@@ -46,73 +59,8 @@ $j(document).ready(function() {
 	});
     });
 </script>
-<script type="text/javascript">
-function set_fade_timer(){
-	t = setTimeout("disable_subscribe_pop()", 15000);
-}
-
-function disable_subscribe_pop(){
-	$j("#resp_div_signup").fadeOut("slow");
-	$j("#backgroundDiv").fadeOut("slow");
-	$j("#resp_div_signup").fadeOut("slow");
-	$j("#email_address_24").val("");
-	$j("#resp_div_signup").css("background", "#FFFFFF");
-	if(typeof t != "undefined"){
-		clearTimeout(t);
-	}
-}
-
-function enable_subscribe_pop(){
-	var windowHeight = document.documentElement.clientHeight;
-	var windowWidth = document.documentElement.clientWidth;
-	$j("#resp_div_signup").html($j("#resp_div_process_pop").html());
-	$j("#resp_div_signup").fadeIn("slow");
-	$j("#backgroundDiv").css({"height": windowHeight});
-	$j("#backgroundDiv").css({"width": windowWidth});
-	$j("#backgroundDiv").fadeIn("slow");
-}
-
-function checksubscription(){
-	var email_address = document.getElementById("email_address_24").value;
-	var email_signup = document.getElementById("email_signup_24").value;
-		
-    var re = /^(([^<>()[\]\\.,;:\s@\"]+(\.[^<>()[\]\\.,;:\s@\"]+)*)|(\".+\"))@((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\])|(([a-zA-Z\-0-9]+\.)+[a-zA-Z]{2,}))$/;
-    var emailValid = re.test(email_address);
-	if (window.XMLHttpRequest){
-		xmlhttp_subscribe =new XMLHttpRequest();
-	}
-	else{
-		xmlhttp_subscribe = new ActiveXObject("Microsoft.XMLHTTP");
-	}
-	
-	xmlhttp_subscribe.onreadystatechange=function(){
-		if(xmlhttp_subscribe.readyState==4 && xmlhttp_subscribe.status==200){
-			var resp_div = document.getElementById("resp_div_signup");
-			resp_div.innerHTML = xmlhttp_subscribe.responseText;
-			set_fade_timer();
-		}
-	}
-	
-	xmlhttp_subscribe.open("POST","http://www.villagehatshop.com/Shop/EmailNotification/Confirmation.php",true);
-	xmlhttp_subscribe.setRequestHeader("Content-type","application/x-www-form-urlencoded");
-	xmlhttp_subscribe.send("email_signup="+email_signup+"&address="+email_address);
-    	enable_subscribe_pop();	
-}
-</script>
-<script type="text/javascript">
-      var _gaq = _gaq || [];
-      _gaq.push(['_setAccount', 'UA-219214-1']);
-      _gaq.push(['_trackPageview']);
-
-     (function() {
-        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-        ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
-        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-      })();
-
-</script>
 <link rel="stylesheet" href="http://static.www.turnto.com/css/teasers/tt4_1/inputteasers.css">
-<script>
+<script type="text/javascript">
 function customItemInputTeaserFunc2(clazz, data) {
     var clazzNam = clazz || "TurnToItemInputTeaser";
  
@@ -169,18 +117,19 @@ function customItemInputTeaserFunc2(clazz, data) {
 }
 </script>
 <script type="text/javascript">
-		var turnToConfig = {
-		  siteKey: "SlIRRMu5UP5GBdOsite",
-		  setupType: "dynamicEmbed",
-		  itemInputTeaserFunc:customItemInputTeaserFunc2 
-		};
+	var turnToConfig = {
+	  siteKey: "SlIRRMu5UP5GBdOsite",
+	  setupType: "dynamicEmbed",
+	  itemInputTeaserFunc:customItemInputTeaserFunc2 
+	};
 
-		(function() {
-		   var tt = document.createElement('script'); tt.type = 'text/javascript'; tt.async = true;
-		   tt.src = document.location.protocol + "//static.www.turnto.com/traServer4_1/trajs/" + turnToConfig.siteKey + "/tra.js";
-		   var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(tt, s);
-		})();
-	</script>
+	(function() {
+	   var tt = document.createElement('script'); tt.type = 'text/javascript'; tt.async = true;
+	   tt.src = document.location.protocol + "//static.www.turnto.com/traServer4_1/trajs/" + turnToConfig.siteKey + "/tra.js";
+	   var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(tt, s);
+	})();
+</script>
+<script src="https://d3v27wwd40f0xu.cloudfront.net/js/tracking/sidecar_villagehatshop.js" type="text/javascript"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
 <script type="text/javascript" src="http://www.villagehatshop.com/store_image/site/jcarousel/jcarousel.js"></script>
 <script type="text/javascript" src="/store_image/site/jquery.mmenu.4.2.1.min.js"></script>
@@ -190,8 +139,8 @@ function customItemInputTeaserFunc2(clazz, data) {
 <link rel="stylesheet" type="text/css" href="//villagehatshop.resultspage.com/rac/sli-rac.css"><link href="/Public/Scripts/fancybox/jquery.fancybox-1.3.4.css" rel="stylesheet" type="text/css">
 <script type="text/javascript">
 IncludeJavaScript("/Public/Scripts/fancybox/jquery.fancybox-1.3.4.pack.js",function() {
-	jQuery(document).ready(function() {
-		jQuery(".reviewM").fancybox({
+	$j(document).ready(function() {
+		$j(".reviewM").fancybox({
 			'padding'	: '0',
 			'centerOnScroll'	:'true',
 			'height'			:'600',
@@ -279,8 +228,6 @@ IncludeJavaScript("/Public/Scripts/fancybox/jquery.fancybox-1.3.4.pack.js",funct
 </ul>
 </nav></div> </div>
 <div id="header_banner2" class="">
-<div class="caption"><script async="" src="//www.villagehatshop.com/content/gtm.js"></script></div> </div>
-<div id="header_banner3" class="">
 <div class="caption"></div></div></div><div class="tc_ghost"><div><div>
 <div class="tab-add-ins">
 <ul class="tai tai-6">
@@ -593,6 +540,8 @@ This is a General Hat Sizing Chart: Please read each hat product page for furthe
 </div>
 <script>var coolCats=["6","9","350","352","21","371","376"];</script>
 <style>@media (max-width: 767px) {.respo-clean-up{display:none;}}</style></div> </div>
+<div id="header_banner3" class="">
+<div class="caption"><noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-5W6WV5" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript></div> </div>
 <div id="header_banner4" class="">
 <div class="caption"><script src="//cdn.optimizely.com/js/2571240287.js"></script></div> </div>
 <div id="header_banner5" class="">
@@ -741,6 +690,11 @@ $j('#quick_admin_form').bind( "click", function(){
 		var onc = $j(this).attr('onclick');
 		onc = onc.replace("colorchipclick","colorchipclickmod");
 		$j(this).attr('onclick',onc);
+		//
+		//
+		var omot = $j(this).attr('onmouseout');
+		omot = omot.replace("colorchipout","colorchipoutmod");
+		$j(this).attr('onmouseout',omot)
 	});
 	
 	//
@@ -808,7 +762,12 @@ function colorchipclickmod(id,object,pid) {
 
 
 
-
+function colorchipoutmod(id,object){
+	$j(object).removeClass('colorborder');
+	$j('.chip_set').hover(function(){}, function(){
+		$j(object).parents('td').find('.colorborderselect .cat_prodcolor_inner').trigger('mouseover');
+	});
+}
 
 
 
@@ -924,27 +883,27 @@ $j(document).ready(function(){
 <div class="tab_area">
 <div id="tabs">
 <ul style="width:0px" id="meu" class="clearfix">
-<li id="tab-id-6" class="shop_tab"><a href="http://www.villagehatshop.com/category/6/1/mens-hats.html" class="shop_tab"><span>Men's Hats</span></a><div id="tab_container_6"><ul id="tab_content_6"><li id="tab-id-560"><a href="http://www.villagehatshop.com/category/518/1/men.html"><span>New Arrivals</span></a></li><li id="tab-id-636"><a href="http://www.villagehatshop.com/category/1/1/accessories.html"><span>Accessories</span></a></li><li id="tab-id-48"><a href="http://www.villagehatshop.com/category/48/1/ascot-caps.html"><span>Ascot Caps</span></a></li><li id="tab-id-51" class="daddy"><a href="http://www.villagehatshop.com/category/51/1/baseball-caps.html" class="daddy"><span>Baseball Caps</span></a><div id="tab_container_51"><ul id="tab_content_51"><li id="tab-id-730"><a href="http://www.villagehatshop.com/category/730/1/fitted-baseball-caps.html"><span>Fitted Baseball Caps</span></a></li><li id="tab-id-285"><a href="http://www.villagehatshop.com/category/285/1/mlb-baseball-caps.html"><span>MLB Baseball Caps</span></a></li><li id="tab-id-291"><a href="http://www.villagehatshop.com/category/291/1/nfl-football-caps.html"><span>NFL Football Caps</span></a></li><li id="tab-id-288"><a href="http://www.villagehatshop.com/category/288/1/nba-basketball-caps.html"><span>NBA Basketball Caps</span></a></li><li id="tab-id-273"><a href="http://www.villagehatshop.com/category/273/1/blank-baseball-caps.html"><span>Blank Baseball Caps</span></a></li><li id="tab-id-279"><a href="http://www.villagehatshop.com/category/279/1/snapback-hats.html"><span>Snapback Hats</span></a></li><li id="tab-id-455"><a href="http://www.villagehatshop.com/category/455/1/all-baseball-caps.html"><span>All Baseball Caps</span></a></li><li id="tab-id-413"><a href="http://www.villagehatshop.com/category/413/1/animation-superheroes.html"><span>Animation &amp; Superheroes</span></a></li></ul>
+<li id="tab-id-6" class="shop_tab"><a href="http://www.villagehatshop.com/category/6/1/mens-hats.html" class="shop_tab"><span>Men's Hats</span></a><div id="tab_container_6"><ul id="tab_content_6"><li id="tab-id-636"><a href="http://www.villagehatshop.com/category/1/1/accessories.html"><span>Accessories</span></a></li><li id="tab-id-48"><a href="http://www.villagehatshop.com/category/48/1/ascot-caps.html"><span>Ascot Caps</span></a></li><li id="tab-id-51" class="daddy"><a href="http://www.villagehatshop.com/category/51/1/baseball-caps.html" class="daddy"><span>Baseball Caps</span></a><div id="tab_container_51"><ul id="tab_content_51"><li id="tab-id-730"><a href="http://www.villagehatshop.com/category/730/1/fitted-baseball-caps.html"><span>Fitted Baseball Caps</span></a></li><li id="tab-id-285"><a href="http://www.villagehatshop.com/category/285/1/mlb-baseball-caps.html"><span>MLB Baseball Caps</span></a></li><li id="tab-id-291"><a href="http://www.villagehatshop.com/category/291/1/nfl-football-caps.html"><span>NFL Football Caps</span></a></li><li id="tab-id-288"><a href="http://www.villagehatshop.com/category/288/1/nba-basketball-caps.html"><span>NBA Basketball Caps</span></a></li><li id="tab-id-273"><a href="http://www.villagehatshop.com/category/273/1/blank-baseball-caps.html"><span>Blank Baseball Caps</span></a></li><li id="tab-id-279"><a href="http://www.villagehatshop.com/category/279/1/snapback-hats.html"><span>Snapback Hats</span></a></li><li id="tab-id-455"><a href="http://www.villagehatshop.com/category/455/1/all-baseball-caps.html"><span>All Baseball Caps</span></a></li><li id="tab-id-413"><a href="http://www.villagehatshop.com/category/413/1/animation-superheroes.html"><span>Animation &amp; Superheroes</span></a></li></ul>
 </div>
-</li><li id="tab-id-54"><a href="http://www.villagehatshop.com/category/54/1/beanies.html"><span>Beanies</span></a></li><li id="tab-id-57"><a href="http://www.villagehatshop.com/category/57/1/berets.html"><span>Berets</span></a></li><li id="tab-id-60"><a href="http://www.villagehatshop.com/nav/size1/xxxlarge/size1/xxlarge/0"><span>Big Size Hats</span></a></li><li id="tab-id-63"><a href="http://www.villagehatshop.com/category/63/1/bucket-hats.html"><span>Bucket Hats</span></a></li><li id="tab-id-69"><a href="http://www.villagehatshop.com/category/69/1/derby-bowler-hats.html"><span>Derby &amp; Bowler Hats</span></a></li><li id="tab-id-72" class="daddy"><a href="http://www.villagehatshop.com/category/72/1/fedoras.html" class="daddy"><span>Fedoras</span></a><div id="tab_container_72"><ul id="tab_content_72"><li id="tab-id-303"><a href="http://www.villagehatshop.com/category/303/1/crushable.html"><span>Crushable</span></a></li><li id="tab-id-547"><a href="http://www.villagehatshop.com/category/547/1/fur-felt.html"><span>Fur Felt</span></a></li><li id="tab-id-613"><a href="http://www.villagehatshop.com/category/613/1/fabric.html"><span>Fabric</span></a></li><li id="tab-id-568"><a href="http://www.villagehatshop.com/category/93/1/panama-hats.html"><span>Panamas</span></a></li><li id="tab-id-306"><a href="http://www.villagehatshop.com/category/306/1/stingy-brim-trilby.html"><span>Stingy Brim &amp; Trilby</span></a></li><li id="tab-id-612"><a href="http://www.villagehatshop.com/category/612/1/leather-fedoras.html"><span>Leather Fedoras</span></a></li><li id="tab-id-609"><a href="http://www.villagehatshop.com/category/609/1/straw-fedoras.html"><span>Straw Fedoras</span></a></li><li id="tab-id-458"><a href="http://www.villagehatshop.com/category/458/1/all-fedoras.html"><span>All Fedoras</span></a></li></ul>
+</li><li id="tab-id-744"><a href="http://www.villagehatshop.com/category/54/1/beanies.html"><span>Beanies</span></a></li><li id="tab-id-57"><a href="http://www.villagehatshop.com/category/57/1/berets.html"><span>Berets</span></a></li><li id="tab-id-60"><a href="http://www.villagehatshop.com/nav/size1/xxxlarge/size1/xxlarge/0"><span>Big Size Hats</span></a></li><li id="tab-id-63"><a href="http://www.villagehatshop.com/category/63/1/bucket-hats.html"><span>Bucket Hats</span></a></li><li id="tab-id-69"><a href="http://www.villagehatshop.com/category/69/1/derby-bowler-hats.html"><span>Derby &amp; Bowler Hats</span></a></li><li id="tab-id-72" class="daddy"><a href="http://www.villagehatshop.com/category/72/1/fedoras.html" class="daddy"><span>Fedoras</span></a><div id="tab_container_72"><ul id="tab_content_72"><li id="tab-id-303"><a href="http://www.villagehatshop.com/category/303/1/crushable.html"><span>Crushable</span></a></li><li id="tab-id-547"><a href="http://www.villagehatshop.com/category/547/1/fur-felt.html"><span>Fur Felt</span></a></li><li id="tab-id-613"><a href="http://www.villagehatshop.com/category/613/1/fabric.html"><span>Fabric</span></a></li><li id="tab-id-568"><a href="http://www.villagehatshop.com/category/93/1/panama-hats.html"><span>Panamas</span></a></li><li id="tab-id-306"><a href="http://www.villagehatshop.com/category/306/1/stingy-brim-trilby.html"><span>Stingy Brim &amp; Trilby</span></a></li><li id="tab-id-612"><a href="http://www.villagehatshop.com/category/612/1/leather-fedoras.html"><span>Leather Fedoras</span></a></li><li id="tab-id-609"><a href="http://www.villagehatshop.com/category/609/1/straw-fedoras.html"><span>Straw Fedoras</span></a></li><li id="tab-id-458"><a href="http://www.villagehatshop.com/category/458/1/all-fedoras.html"><span>All Fedoras</span></a></li></ul>
 </div>
-</li><li id="tab-id-75" class="daddy"><a href="http://www.villagehatshop.com/category/75/1/flat-caps.html" class="daddy"><span>Flat Caps</span></a><div id="tab_container_75"><ul id="tab_content_75"><li id="tab-id-315"><a href="http://www.villagehatshop.com/category/315/1/duckbills.html"><span>Duckbills</span></a></li><li id="tab-id-312"><a href="http://www.villagehatshop.com/category/312/1/ivy-caps.html"><span>Ivy Caps</span></a></li><li id="tab-id-309"><a href="http://www.villagehatshop.com/category/309/1/newsboy-caps.html"><span>Newsboy Caps</span></a></li><li id="tab-id-461"><a href="http://www.villagehatshop.com/category/461/1/view-all.html"><span>View All</span></a></li></ul>
+</li><li id="tab-id-75" class="daddy"><a href="http://www.villagehatshop.com/category/75/1/flat-caps.html" class="daddy"><span>Flat Caps</span></a><div id="tab_container_75"><ul id="tab_content_75"><li id="tab-id-315"><a href="http://www.villagehatshop.com/category/315/1/duckbills.html"><span>Duckbills</span></a></li><li id="tab-id-312"><a href="http://www.villagehatshop.com/category/312/1/ivy-caps.html"><span>Ivy Caps</span></a></li><li id="tab-id-309"><a href="http://www.villagehatshop.com/category/309/1/newsboy-caps.html"><span>Newsboy Caps</span></a></li><li id="tab-id-461"><a href="http://www.villagehatshop.com/category/461/1/flat-caps-view-all-.html"><span>Flat Caps (View All)</span></a></li></ul>
 </div>
 </li><li id="tab-id-78"><a href="http://www.villagehatshop.com/category/78/1/greek-fisherman-caps.html"><span>Greek Fisherman Caps</span></a></li><li id="tab-id-530"><a href="http://www.villagehatshop.com/category/530/1/leather-hats.html"><span>Leather Hats</span></a></li><li id="tab-id-81" class="daddy"><a href="http://www.villagehatshop.com/category/81/1/outdoors.html" class="daddy"><span>Outdoors</span></a><div id="tab_container_81"><ul id="tab_content_81"><li id="tab-id-324"><a href="http://www.villagehatshop.com/category/324/1/cold-weather.html"><span>Cold Weather</span></a></li><li id="tab-id-318"><a href="http://www.villagehatshop.com/category/318/1/rain-hats.html"><span>Rain Hats</span></a></li><li id="tab-id-321"><a href="http://www.villagehatshop.com/category/321/1/sun-protection.html"><span>Sun Protection</span></a></li><li id="tab-id-464"><a href="http://www.villagehatshop.com/category/464/1/view-all.html"><span>View All</span></a></li></ul>
 </div>
-</li><li id="tab-id-93"><a href="http://www.villagehatshop.com/category/93/1/panama-hats.html"><span>Panama Hats</span></a></li><li id="tab-id-84"><a href="http://www.villagehatshop.com/category/84/1/pith-helmets.html"><span>Pith Helmets</span></a></li><li id="tab-id-87"><a href="http://www.villagehatshop.com/category/87/1/pork-pie-hats.html"><span>Pork Pie Hats</span></a></li><li id="tab-id-90"><a href="http://www.villagehatshop.com/category/90/1/straw-hats.html"><span>Straw Hats</span></a></li><li id="tab-id-99"><a href="http://www.villagehatshop.com/category/99/1/top-hats.html"><span>Top Hats</span></a></li><li id="tab-id-102"><a href="http://www.villagehatshop.com/category/102/1/trapper-hats.html"><span>Trapper Hats</span></a></li><li id="tab-id-105"><a href="http://www.villagehatshop.com/category/105/1/travel-hats.html"><span>Travel Hats</span></a></li><li id="tab-id-108"><a href="http://www.villagehatshop.com/category/108/1/visors.html"><span>Visors</span></a></li><li id="tab-id-111"><a href="http://www.villagehatshop.com/category/111/1/western-hats.html"><span>Western Hats</span></a></li><li id="tab-id-675"><a href="http://www.villagehatshop.com/nav/onsale/yes/0"><span>Hats On Sale</span></a></li></ul>
+</li><li id="tab-id-93"><a href="http://www.villagehatshop.com/category/93/1/panama-hats.html"><span>Panama Hats</span></a></li><li id="tab-id-84"><a href="http://www.villagehatshop.com/category/84/1/pith-helmets.html"><span>Pith Helmets</span></a></li><li id="tab-id-87"><a href="http://www.villagehatshop.com/category/87/1/pork-pie-hats.html"><span>Pork Pie Hats</span></a></li><li id="tab-id-90"><a href="http://www.villagehatshop.com/category/90/1/straw-hats.html"><span>Straw Hats</span></a></li><li id="tab-id-99"><a href="http://www.villagehatshop.com/category/99/1/top-hats.html"><span>Top Hats</span></a></li><li id="tab-id-102"><a href="http://www.villagehatshop.com/category/102/1/trapper-hats.html"><span>Trapper Hats</span></a></li><li id="tab-id-105"><a href="http://www.villagehatshop.com/category/105/1/travel-hats.html"><span>Travel Hats</span></a></li><li id="tab-id-108"><a href="http://www.villagehatshop.com/category/108/1/visors.html"><span>Visors</span></a></li><li id="tab-id-111"><a href="http://www.villagehatshop.com/category/111/1/western-hats.html"><span>Western Hats</span></a></li><li id="tab-id-675"><a href="http://www.villagehatshop.com/nav/onsale/onsale/0?"><span>Hats On Sale</span></a></li></ul>
 </div>
-</li><li id="tab-id-9" class="shop_tab"><a href="http://www.villagehatshop.com/category/9/1/womens-hats.html" class="shop_tab"><span>Women's Hats</span></a><div id="tab_container_9"><ul id="tab_content_9"><li id="tab-id-545"><a href="http://www.villagehatshop.com/category/521/1/women.html"><span>New Arrivals</span></a></li><li id="tab-id-639"><a href="http://www.villagehatshop.com/category/1/1/accessories.html"><span>Accessories</span></a></li><li id="tab-id-114"><a href="http://www.villagehatshop.com/category/114/1/beanies.html"><span>Beanies</span></a></li><li id="tab-id-117"><a href="http://www.villagehatshop.com/category/117/1/berets.html"><span>Berets</span></a></li><li id="tab-id-123"><a href="http://www.villagehatshop.com/category/123/1/bridal-hats.html"><span>Bridal Hats</span></a></li><li id="tab-id-66"><a href="http://www.villagehatshop.com/category/66/1/cadet-caps.html"><span>Cadet Caps</span></a></li><li id="tab-id-126"><a href="http://www.villagehatshop.com/category/126/1/casual-hats.html"><span>Casual Hats</span></a></li><li id="tab-id-129"><a href="http://www.villagehatshop.com/category/129/1/cloche-flapper-hats.html"><span>Cloche &amp; Flapper Hats</span></a></li><li id="tab-id-132"><a href="http://www.villagehatshop.com/category/132/1/dress-hats.html"><span>Dress Hats</span></a></li><li id="tab-id-135"><a href="http://www.villagehatshop.com/category/135/1/fascinators-headbands.html"><span>Fascinators &amp; Headbands</span></a></li><li id="tab-id-670"><a href="http://www.villagehatshop.com/category/670/1/fedoras.html"><span>Fedoras</span></a></li><li id="tab-id-138"><a href="http://www.villagehatshop.com/category/138/1/flat-caps.html"><span>Flat Caps</span></a></li><li id="tab-id-144" class="daddy"><a href="http://www.villagehatshop.com/category/144/1/outdoors.html" class="daddy"><span>Outdoors</span></a><div id="tab_container_144"><ul id="tab_content_144"><li id="tab-id-330"><a href="http://www.villagehatshop.com/category/330/1/rain-hats.html"><span>Rain Hats</span></a></li><li id="tab-id-333"><a href="http://www.villagehatshop.com/category/333/1/sun-protection.html"><span>Sun Protection</span></a></li><li id="tab-id-336"><a href="http://www.villagehatshop.com/category/336/1/womens-cold-weather-hats.html"><span>Women's Cold Weather Hats</span></a></li><li id="tab-id-470"><a href="http://www.villagehatshop.com/category/470/1/view-all.html"><span>View All</span></a></li></ul>
+</li><li id="tab-id-9" class="shop_tab"><a href="http://www.villagehatshop.com/category/9/1/womens-hats.html" class="shop_tab"><span>Women's Hats</span></a><div id="tab_container_9"><ul id="tab_content_9"><li id="tab-id-639"><a href="http://www.villagehatshop.com/category/1/1/accessories.html"><span>Accessories</span></a></li><li id="tab-id-114"><a href="http://www.villagehatshop.com/category/54/1/beanies.html"><span>Beanies</span></a></li><li id="tab-id-117"><a href="http://www.villagehatshop.com/category/117/1/berets.html"><span>Berets</span></a></li><li id="tab-id-66"><a href="http://www.villagehatshop.com/category/66/1/cadet-caps.html"><span>Cadet Caps</span></a></li><li id="tab-id-126"><a href="http://www.villagehatshop.com/category/126/1/casual-hats.html"><span>Casual Hats</span></a></li><li id="tab-id-129"><a href="http://www.villagehatshop.com/category/129/1/cloche-flapper-hats.html"><span>Cloche &amp; Flapper Hats</span></a></li><li id="tab-id-132"><a href="http://www.villagehatshop.com/category/132/1/dress-hats.html"><span>Dress Hats</span></a></li><li id="tab-id-135"><a href="http://www.villagehatshop.com/category/135/1/fascinators-headbands.html"><span>Fascinators &amp; Headbands</span></a></li><li id="tab-id-670"><a href="http://www.villagehatshop.com/category/670/1/fedoras.html"><span>Fedoras</span></a></li><li id="tab-id-138"><a href="http://www.villagehatshop.com/category/138/1/flat-caps.html"><span>Flat Caps</span></a></li><li id="tab-id-144" class="daddy"><a href="http://www.villagehatshop.com/category/144/1/outdoors.html" class="daddy"><span>Outdoors</span></a><div id="tab_container_144"><ul id="tab_content_144"><li id="tab-id-330"><a href="http://www.villagehatshop.com/category/330/1/rain-hats.html"><span>Rain Hats</span></a></li><li id="tab-id-333"><a href="http://www.villagehatshop.com/category/333/1/sun-protection.html"><span>Sun Protection</span></a></li><li id="tab-id-336"><a href="http://www.villagehatshop.com/category/336/1/womens-cold-weather-hats.html"><span>Women's Cold Weather Hats</span></a></li><li id="tab-id-470"><a href="http://www.villagehatshop.com/category/470/1/view-all.html"><span>View All</span></a></li></ul>
 </div>
-</li><li id="tab-id-141"><a href="http://www.villagehatshop.com/category/141/1/pillbox-hats.html"><span>Pillbox Hats</span></a></li><li id="tab-id-147"><a href="http://www.villagehatshop.com/category/147/1/sequin-hats.html"><span>Sequin Hats</span></a></li><li id="tab-id-150"><a href="http://www.villagehatshop.com/category/150/1/soft-hats.html"><span>Soft Hats</span></a></li><li id="tab-id-153"><a href="http://www.villagehatshop.com/category/153/1/straw-hats.html"><span>Straw Hats</span></a></li><li id="tab-id-156"><a href="http://www.villagehatshop.com/category/156/1/straw-panamas.html"><span>Straw Panamas</span></a></li><li id="tab-id-159"><a href="http://www.villagehatshop.com/category/159/1/sun-hats.html"><span>Sun Hats</span></a></li><li id="tab-id-165"><a href="http://www.villagehatshop.com/category/165/1/visors.html"><span>Visors</span></a></li><li id="tab-id-672"><a href="http://www.villagehatshop.com/nav/onsale/yes/0"><span>Hats On Sale</span></a></li></ul>
+</li><li id="tab-id-141"><a href="http://www.villagehatshop.com/category/141/1/pillbox-hats.html"><span>Pillbox Hats</span></a></li><li id="tab-id-147"><a href="http://www.villagehatshop.com/category/147/1/sequin-hats.html"><span>Sequin Hats</span></a></li><li id="tab-id-150"><a href="http://www.villagehatshop.com/category/150/1/soft-hats.html"><span>Soft Hats</span></a></li><li id="tab-id-153"><a href="http://www.villagehatshop.com/category/153/1/straw-hats.html"><span>Straw Hats</span></a></li><li id="tab-id-156"><a href="http://www.villagehatshop.com/category/156/1/straw-panamas.html"><span>Straw Panamas</span></a></li><li id="tab-id-159"><a href="http://www.villagehatshop.com/category/159/1/sun-hats.html"><span>Sun Hats</span></a></li><li id="tab-id-165"><a href="http://www.villagehatshop.com/category/165/1/visors.html"><span>Visors</span></a></li><li id="tab-id-672"><a href="http://www.villagehatshop.com/nav/onsale/onsale/0?"><span>Hats On Sale</span></a></li></ul>
 </div>
-</li><li id="tab-id-350" class="shop_tab"><a href="http://www.villagehatshop.com/content/317/hats-by-style.html" class="shop_tab"><span>Hats by Style</span></a><div id="tab_container_350"><ul id="tab_content_350"><li id="tab-id-1" class="daddy"><a href="http://www.villagehatshop.com/category/1/1/accessories.html" class="daddy"><span>Accessories</span></a><div id="tab_container_1"><ul id="tab_content_1"><li id="tab-id-642"><a href="http://www.villagehatshop.com/category/642/1/hat-sizers.html"><span>Hat Sizers</span></a></li><li id="tab-id-24"><a href="http://www.villagehatshop.com/category/24/1/bandanas.html"><span>Bandanas</span></a></li><li id="tab-id-27"><a href="http://www.villagehatshop.com/category/27/1/books.html"><span>Books</span></a></li><li id="tab-id-30"><a href="http://www.villagehatshop.com/category/30/1/ear-muffs.html"><span>Ear Muffs</span></a></li><li id="tab-id-33"><a href="http://www.villagehatshop.com/category/33/1/gloves.html"><span>Gloves</span></a></li><li id="tab-id-36" class="daddy"><a href="http://www.villagehatshop.com/category/36/1/hat-care.html" class="daddy"><span>Hat Care</span></a><div id="tab_container_36"><ul id="tab_content_36"><li id="tab-id-243"><a href="http://www.villagehatshop.com/category/243/1/cleaning.html"><span>Cleaning</span></a></li><li id="tab-id-246"><a href="http://www.villagehatshop.com/category/246/1/storage.html"><span>Storage</span></a></li><li id="tab-id-472"><a href="http://www.villagehatshop.com/category/472/1/view-all.html"><span>View All</span></a></li></ul>
+</li><li id="tab-id-350" class="shop_tab"><a href="http://www.villagehatshop.com/content/317/hats-by-style.html" class="shop_tab"><span>Hats by Style</span></a><div id="tab_container_350"><ul id="tab_content_350"><li id="tab-id-1" class="daddy"><a href="http://www.villagehatshop.com/category/1/1/accessories.html" class="daddy"><span>Accessories</span></a><div id="tab_container_1"><ul id="tab_content_1"><li id="tab-id-642"><a href="http://www.villagehatshop.com/category/642/1/hat-sizers.html"><span>Hat Sizers</span></a></li><li id="tab-id-24"><a href="http://www.villagehatshop.com/category/24/1/bandanas.html"><span>Bandanas</span></a></li><li id="tab-id-27"><a href="http://www.villagehatshop.com/category/27/1/books.html"><span>Books</span></a></li><li id="tab-id-30"><a href="http://www.villagehatshop.com/category/30/1/ear-muffs.html"><span>Ear Muffs</span></a></li><li id="tab-id-33"><a href="http://www.villagehatshop.com/category/33/1/gloves.html"><span>Gloves</span></a></li><li id="tab-id-36" class="daddy"><a href="http://www.villagehatshop.com/category/36/1/hat-care.html" class="daddy"><span>Hat Care</span></a><div id="tab_container_36"><ul id="tab_content_36"><li id="tab-id-243"><a href="http://www.villagehatshop.com/category/243/1/cleaning.html"><span>Cleaning</span></a></li><li id="tab-id-249"><a href="http://www.villagehatshop.com/category/249/1/display.html"><span>Display</span></a></li><li id="tab-id-246"><a href="http://www.villagehatshop.com/category/246/1/storage.html"><span>Storage</span></a></li><li id="tab-id-472"><a href="http://www.villagehatshop.com/category/472/1/view-all.html"><span>View All</span></a></li></ul>
 </div>
 </li><li id="tab-id-39" class="daddy"><a href="http://www.villagehatshop.com/category/39/1/hat-trims.html" class="daddy"><span>Hat Trims</span></a><div id="tab_container_39"><ul id="tab_content_39"><li id="tab-id-261"><a href="http://www.villagehatshop.com/category/261/1/feathers.html"><span>Feathers</span></a></li><li id="tab-id-255"><a href="http://www.villagehatshop.com/category/255/1/flowers.html"><span>Flowers</span></a></li><li id="tab-id-252"><a href="http://www.villagehatshop.com/category/252/1/hat-bands.html"><span>Hat Bands</span></a></li><li id="tab-id-258"><a href="http://www.villagehatshop.com/category/258/1/hat-pins.html"><span>Hat Pins</span></a></li><li id="tab-id-475"><a href="http://www.villagehatshop.com/category/475/1/view-all.html"><span>View All</span></a></li></ul>
 </div>
 </li><li id="tab-id-467"><a href="http://www.villagehatshop.com/category/467/1/view-all.html"><span>View All</span></a></li></ul>
 </div>
-</li><li id="tab-id-705"><a href="http://www.villagehatshop.com/category/51/1/baseball-caps.html"><span>Baseball Caps</span></a></li><li id="tab-id-708"><a href="http://www.villagehatshop.com/category/54/1/beanies.html"><span>Beanies</span></a></li><li id="tab-id-700"><a href="http://www.villagehatshop.com/category/57/1/berets.html"><span>Berets</span></a></li><li id="tab-id-443"><a href="http://www.villagehatshop.com/category/69/1/derby-bowler-hats.html"><span>Derby &amp; Bowler Hats</span></a></li><li id="tab-id-428"><a href="http://www.villagehatshop.com/category/72/1/fedoras.html"><span>Fedoras</span></a></li><li id="tab-id-186"><a href="http://www.villagehatshop.com/category/186/1/fez.html"><span>Fez</span></a></li><li id="tab-id-711"><a href="http://www.villagehatshop.com/category/75/1/flat-caps.html"><span>Flat Caps</span></a></li><li id="tab-id-449"><a href="http://www.villagehatshop.com/category/78/1/greek-fisherman-caps.html"><span>Greek Fisherman Caps</span></a></li><li id="tab-id-584"><a href="http://www.villagehatshop.com/category/584/1/hats-made-in-usa.html"><span>Hats Made in USA</span></a></li><li id="tab-id-15" class="daddy"><a href="http://www.villagehatshop.com/category/15/1/kids-hats.html" class="daddy"><span>Kids Hats</span></a><div id="tab_container_15"><ul id="tab_content_15"><li id="tab-id-168"><a href="http://www.villagehatshop.com/category/168/1/boys.html"><span>Boys</span></a></li><li id="tab-id-171"><a href="http://www.villagehatshop.com/category/171/1/girls.html"><span>Girls</span></a></li><li id="tab-id-174"><a href="http://www.villagehatshop.com/category/174/1/baby.html"><span>Baby</span></a></li><li id="tab-id-742"><a href="http://www.villagehatshop.com/category/742/1/view-all.html"><span>View All</span></a></li><li id="tab-id-725"><a href="http://www.villagehatshop.com/category/725/1/kids-fedoras.html"><span>Kids Fedoras</span></a></li><li id="tab-id-727"><a href="http://www.villagehatshop.com/category/727/1/kids-flat-caps.html"><span>Kids Flat Caps</span></a></li><li id="tab-id-740"><a href="http://www.villagehatshop.com/category/740/1/kids-novelty-hats.html"><span>Kids Novelty Hats</span></a></li><li id="tab-id-563"><a href="http://www.villagehatshop.com/category/524/1/kids.html"><span>New Arrivals</span></a></li></ul>
+</li><li id="tab-id-705"><a href="http://www.villagehatshop.com/category/51/1/baseball-caps.html"><span>Baseball Caps</span></a></li><li id="tab-id-708"><a href="http://www.villagehatshop.com/category/54/1/beanies.html"><span>Beanies</span></a></li><li id="tab-id-700"><a href="http://www.villagehatshop.com/category/57/1/berets.html"><span>Berets</span></a></li><li id="tab-id-443"><a href="http://www.villagehatshop.com/category/69/1/derby-bowler-hats.html"><span>Derby &amp; Bowler Hats</span></a></li><li id="tab-id-428"><a href="http://www.villagehatshop.com/category/72/1/fedoras.html"><span>Fedoras</span></a></li><li id="tab-id-186"><a href="http://www.villagehatshop.com/category/186/1/fez.html"><span>Fez</span></a></li><li id="tab-id-711"><a href="http://www.villagehatshop.com/category/75/1/flat-caps.html"><span>Flat Caps</span></a></li><li id="tab-id-449"><a href="http://www.villagehatshop.com/category/78/1/greek-fisherman-caps.html"><span>Greek Fisherman Caps</span></a></li><li id="tab-id-584"><a href="http://www.villagehatshop.com/category/584/1/hats-made-in-usa.html"><span>Hats Made in USA</span></a></li><li id="tab-id-15" class="daddy"><a href="http://www.villagehatshop.com/category/15/1/kids-hats.html" class="daddy"><span>Kids Hats</span></a><div id="tab_container_15"><ul id="tab_content_15"><li id="tab-id-168"><a href="http://www.villagehatshop.com/category/168/1/boys.html"><span>Boys</span></a></li><li id="tab-id-171"><a href="http://www.villagehatshop.com/category/171/1/girls.html"><span>Girls</span></a></li><li id="tab-id-174"><a href="http://www.villagehatshop.com/category/174/1/baby.html"><span>Baby</span></a></li><li id="tab-id-742"><a href="http://www.villagehatshop.com/category/742/1/view-all.html"><span>View All</span></a></li><li id="tab-id-725"><a href="http://www.villagehatshop.com/category/725/1/kids-fedoras.html"><span>Kids Fedoras</span></a></li><li id="tab-id-727"><a href="http://www.villagehatshop.com/category/727/1/kids-flat-caps.html"><span>Kids Flat Caps</span></a></li><li id="tab-id-740"><a href="http://www.villagehatshop.com/category/740/1/kids-novelty-hats.html"><span>Kids Novelty Hats</span></a></li></ul>
 </div>
 </li><li id="tab-id-18" class="daddy"><a href="http://www.villagehatshop.com/category/18/1/novelty-hats.html" class="daddy"><span>Novelty Hats</span></a><div id="tab_container_18"><ul id="tab_content_18"><li id="tab-id-572"><a href="http://www.villagehatshop.com/category/572/1/novelty-hats-view-all.html"><span>Novelty Hats - View All</span></a></li><li id="tab-id-177"><a href="http://www.villagehatshop.com/category/177/1/top-hats.html"><span>Top Hats</span></a></li><li id="tab-id-180"><a href="http://www.villagehatshop.com/category/180/1/mad-hatter.html"><span>Mad Hatter</span></a></li><li id="tab-id-591"><a href="http://www.villagehatshop.com/category/591/1/steampunk-hats-and-accessories.html"><span>Steampunk Hats and Accessories</span></a></li><li id="tab-id-618"><a href="http://www.villagehatshop.com/brands/109/1/doctor-who.html"><span>Doctor Who</span></a></li><li id="tab-id-619"><a href="http://www.villagehatshop.com/brands/187/1/hello-kitty.html"><span>Hello Kitty</span></a></li><li id="tab-id-621"><a href="http://www.villagehatshop.com/brands/172/1/harry-potter.html"><span>Harry Potter</span></a></li><li id="tab-id-624"><a href="http://www.villagehatshop.com/brands/205/1/indiana-jones.html"><span>Indiana Jones</span></a></li><li id="tab-id-627"><a href="http://www.villagehatshop.com/brands/106/1/dr-seuss.html"><span>Dr. Seuss</span></a></li><li id="tab-id-625"><a href="http://www.villagehatshop.com/brands/100/1/domo.html"><span>Domo</span></a></li></ul>
 </div>
@@ -958,14 +917,12 @@ $j(document).ready(function(){
 </div>
 </li><li id="tab-id-371" class="shop_tab"><a href="http://www.villagehatshop.com/#" class="shop_tab"><span>Information &amp; Resources</span></a><div id="tab_container_371"><ul id="tab_content_371"><li id="tab-id-373"><a href="http://www.villagehatshop.com/content/35/hat-care.html"><span>Hat Care Information</span></a></li><li id="tab-id-377"><a href="http://www.villagehatshop.com/content/26/hat-facts.html"><span>Hat Facts</span></a></li><li id="tab-id-380"><a href="http://www.villagehatshop.com/content/32/hat-glossary.html"><span>Hat Glossary</span></a></li><li id="tab-id-386"><a href="http://www.villagehatshop.com/content/323/books-on-hats.html"><span>Books on Hats</span></a></li><li id="tab-id-389"><a href="http://www.villagehatshop.com/content/332/hats-and-childrens-literature.html"><span>Hats and Children's Literature</span></a></li><li id="tab-id-395"><a href="http://www.villagehatshop.com/content/335/hats-in-art.html"><span>Hats in Art</span></a></li><li id="tab-id-398"><a href="http://www.villagehatshop.com/content/338/iconic-hats.html"><span>Iconic Hats</span></a></li><li id="tab-id-392"><a href="http://www.villagehatshop.com/content/50/history-of-hats.html"><span>History of Hats</span></a></li><li id="tab-id-401"><a href="http://www.villagehatshop.com/content/329/making-hats.html"><span>Making Hats</span></a></li><li id="tab-id-606"><a href="http://www.thehatblog.com/"><span>The Hat Blog</span></a></li><li id="tab-id-404"><a href="http://www.villagehatshop.com/content/326/awards-and-recognition-village-hat-shop.html"><span>VHS Awards and Recognition</span></a></li><li id="tab-id-407"><a href="http://www.villagehatshop.com/content/104/videos-short-films.html"><span>Hat Videos</span></a></li><li id="tab-id-410"><a href="http://www.villagehatshop.com/content/23/we-will-not-be-undersold.html"><span>We Will Not Be Undersold!</span></a></li></ul>
 </div>
-</li><li id="tab-id-376" class="shop_tab"><a href="http://www.villagehatshop.com/content/38/how-to-determine-your-hat-size.html" class="shop_tab"><span>Sizing Guide</span></a></li><li id="tab-id-714" class="shop_tab"><a href="http://www.villagehatshop.com/category/714/1/featured-accessories.html" class="shop_tab"><span>Featured Accessories</span></a></li>
+</li><li id="tab-id-376" class="shop_tab"><a href="http://www.villagehatshop.com/content/38/how-to-determine-your-hat-size.html" class="shop_tab"><span>Sizing Guide</span></a></li><li id="tab-id-54" class="shop_tab"><a href="http://www.villagehatshop.com/category/54/1/beanies.html" class="shop_tab"><span>Beanies</span></a></li><li id="tab-id-714" class="shop_tab"><a href="http://www.villagehatshop.com/category/714/1/featured-accessories.html" class="shop_tab"><span>Featured Accessories</span></a></li>
 </ul>
 </div>
 </div>
 <script src="http://www.villagehatshop.com/Public/Scripts/jquery-watermark/jquery.watermark.min.js"></script>
 <div id="adminmenu" style="display:none"></div>
-<style type="text/css">#adminmenu{display:none;background:#DAC6C6;border-bottom:1px solid #666;margin-left:auto;margin-right:auto;width:100%;position:fixed;top:0;left:0;z-index:100099999;}div#meua{float:none;top:0px;background:#DAC6C6;padding:0 0 0 0;margin:1px;width:1020px;margin-left:auto;margin-right:auto;height:21px;list-style:none;font-size:11px;font-family:tahoma,verdana;z-index:1001000;}div#meua p{color:#333;font-size:11px;padding:3px 0 0 0;}div#meua img.spinner{width:13px;height:13px;vertical-align:bottom;padding-right:5px;}</style>
-<style type="text/css" media="print">#adminmenu{display:none!important;}</style>
 <script type="text/javascript">
 $j(document).ready(function () {
    $j('.field_category_image_product_id').onFocus = null;
@@ -975,15 +932,11 @@ $j(document).ready(function () {
 
 });
 
-
-
 if (document.cookie.indexOf('GuestStateAdmin=') != -1) {
 	$j(document.body).css({
-		position: 'relative',
-		'background-position': 'center 2em',
 		'margin-top': '22px'
 	});
-	$j('#adminmenu').append('<div id="meua"><p><img class="spinner" src="http://www.villagehatshop.com/Public/Images/spinner.gif">Loading admin menu...</p></ul>')
+	$j('#adminmenu').append('<div id="meua"><p><img class="spinner" src="http://www.villagehatshop.com/Public/Images/spinner.gif">Loading admin menu...</p></div>')
 	$j('#adminmenu').show();
 	$j.ajax({
 		url: ajaxFormatUrl('_adminmenu'),
@@ -992,27 +945,23 @@ if (document.cookie.indexOf('GuestStateAdmin=') != -1) {
 		complete: function(jqxhr) {
 			if (jqxhr && jqxhr.status == 200) {
 								$j('#adminmenu').css({top:'-1000px'}).html(jqxhr.responseText).css({top:'0'});
-								$j('#adminmenu').css({position:'fixed'});
+								$j('#adminmenu').css({position:'fixed',top:'0'});
 				$j(document).trigger('AdminMenu.ready');
 			} else {
 				$j('#adminmenu').hide();
 			}
 		}
 	});
-
-
-
 }
+
 var customerrefhovering=false;
 
-
 </script>
- 
-<script language="javascript">
+ <script language="javascript">
 QuickCart_checkQuckCart();
 </script>
 <div id="sub">
-<style>.respo-banner-main{padding:8px 0 0;line-height:1;margin-bottom:8px;}.respo-banner-cell{float:left;height:60px;text-align:center;}.mc1{width:50%;font-weight:400;background:#743678;}.mc2{width:50%;font-weight:400;background:url(/content/mc-bg-1.gif) center left no-repeat #ECF1F3;}.mc-spacer{padding:0;}@media (min-width: 768px) {.mc1 .look{color:#fff;font-family:"Oswald",Arial,sans-serif;font-size:3.65em;font-weight:400;line-height:1.10em;}.mc1 .mini{display:none;font-family:Arial,sans-serif;color:#fff;font-size:0.75em;line-height:0.9em;}.mc2 .look{color:#743678;font-family:"Oswald",Arial,sans-serif;font-size:2.65em;font-weight:400;line-height:0.9em;}.mc2 .mini{font-family:Arial,sans-serif;color:#666;font-size:0.75em;line-height:2em;}}@media (min-width: 640px) and (max-width: 767px) {.mc1 .look{color:#fff;font-family:"Oswald",Arial,sans-serif;font-size:2em;font-weight:400;line-height:0.9em;padding:8px 0 0;}.mc1 .mini{font-family:Arial,sans-serif;color:#fff;font-size:0.85em;line-height:1em;padding:8px 0;}.mc2 .mc-spacer{padding-top:8px;}.mc2 .look{color:#743678;font-family:"Oswald",Arial,sans-serif;font-size:2.25em;font-weight:400;line-height:1.25em}.mc2 .mini{font-family:Arial,sans-serif;color:#666;font-size:0.75em;line-height:0.75em;padding-top:.25em;}}@media (min-width: 480px) and (max-width: 639px) {.respo-banner-cell{float:none;width:auto;height:auto;}.mc2{background-image:none;}.mc1 .look{color:#fff;font-family:"Oswald",Arial,sans-serif;font-size:2em;font-weight:400;line-height:1.5em;}.mc1 .mini{font-family:Arial,sans-serif;color:#fff;font-size:0.75em;line-height:0.9em;letter-spacing:1px;padding:0 0 8px 0;}.mc2 .mc-spacer{padding-top:8px;}.mc2 .look{color:#743678;font-family:"Oswald",Arial,sans-serif;font-size:2.25em;font-weight:400;line-height:1.25em}.mc2 .mini{font-family:Arial,sans-serif;color:#666;font-size:0.75em;line-height:0.75em;padding-top:.25em;}}@media (max-width: 479px) {.respo-banner-cell{float:none;width:auto;height:auto;}.mc2{background-image:none;}.mc1 .look{color:#fff;font-family:"Oswald",Arial,sans-serif;font-size:3em;font-weight:400;line-height:1.5em;}.mc1 .mini{font-family:Arial,sans-serif;color:#fff;font-size:0.75em;line-height:0.9em;letter-spacing:1px;padding:0 0 8px 0;}.mc2 .mc-spacer{padding-top:8px;}.mc2 .look{color:#743678;font-family:"Oswald",Arial,sans-serif;font-size:2em;font-weight:400;line-height:1.25em}.mc2 .mini{font-family:Arial,sans-serif;color:#666;font-size:0.75em;line-height:0.75em;padding-top:.25em;}}@media (max-width: 479px) {.respo-banner-main{display:none;}}@media (min-width: 480px) {.respo-mob-shrink1,.respo-mob-shrink2{display:none;}}.respo-mob-shrink1,.respo-mob-shrink2{text-align:center;line-height:2em;margin:.5em 0 0;}.respo-mob-shrink1{font-size:1.1em;background-color:#743678;color:#FFF;padding:.2em 0.1em;}.respo-mob-shrink2{font-size:.805em;background-color:#ECF1F3;color:#000;padding:.2em 0.1em 0;}.B700{font-weight:700;}</style>
+<style>.owl-wrapper-outer{padding-bottom:4px;}#stage{padding:0;}.sli_add_to_cart,.checkout button{font-weight:400;letter-spacing:0.03em;}.psmSectionBlock.psmSectionsize{font-size:1.0em;letter-spacing:.02em;}.btn_addtocart,.btn_addtowishlist{font-size:1.35em;font-weight:400;letter-spacing:.02em;}.respo-banner-main{padding:8px 0 0;line-height:1;margin-bottom:8px;}.respo-banner-cell{float:left;height:60px;text-align:center;}.mc1{width:50%;font-weight:400;background:#743678;}.mc2{width:50%;font-weight:400;background:url(/content/mc-bg-1.gif) center left no-repeat #ECF1F3;}.mc-spacer{padding:0;}@media (min-width: 768px) {.mc1 .look{color:#fff;font-family:"Oswald",Arial,sans-serif;font-size:3.65em;font-weight:400;line-height:1.10em;}.mc1 .mini{display:none;font-family:Arial,sans-serif;color:#fff;font-size:0.75em;line-height:0.9em;}.mc2 .look{color:#743678;font-family:"Oswald",Arial,sans-serif;font-size:2.65em;font-weight:400;line-height:0.9em;}.mc2 .mini{font-family:Arial,sans-serif;color:#666;font-size:0.75em;line-height:2em;}}@media (min-width: 640px) and (max-width: 767px) {.mc1 .look{color:#fff;font-family:"Oswald",Arial,sans-serif;font-size:2em;font-weight:400;line-height:0.9em;padding:8px 0 0;}.mc1 .mini{font-family:Arial,sans-serif;color:#fff;font-size:0.85em;line-height:1em;padding:8px 0;}.mc2 .mc-spacer{padding-top:8px;}.mc2 .look{color:#743678;font-family:"Oswald",Arial,sans-serif;font-size:2.25em;font-weight:400;line-height:1.25em}.mc2 .mini{font-family:Arial,sans-serif;color:#666;font-size:0.75em;line-height:0.75em;padding-top:.25em;}}@media (min-width: 480px) and (max-width: 639px) {.respo-banner-cell{float:none;width:auto;height:auto;}.mc2{background-image:none;}.mc1 .look{color:#fff;font-family:"Oswald",Arial,sans-serif;font-size:2em;font-weight:400;line-height:1.5em;}.mc1 .mini{font-family:Arial,sans-serif;color:#fff;font-size:0.75em;line-height:0.9em;letter-spacing:1px;padding:0 0 8px 0;}.mc2 .mc-spacer{padding-top:8px;}.mc2 .look{color:#743678;font-family:"Oswald",Arial,sans-serif;font-size:2.25em;font-weight:400;line-height:1.25em}.mc2 .mini{font-family:Arial,sans-serif;color:#666;font-size:0.75em;line-height:0.75em;padding-top:.25em;}}@media (max-width: 479px) {.respo-banner-cell{float:none;width:auto;height:auto;}.mc2{background-image:none;}.mc1 .look{color:#fff;font-family:"Oswald",Arial,sans-serif;font-size:3em;font-weight:400;line-height:1.5em;}.mc1 .mini{font-family:Arial,sans-serif;color:#fff;font-size:0.75em;line-height:0.9em;letter-spacing:1px;padding:0 0 8px 0;}.mc2 .mc-spacer{padding-top:8px;}.mc2 .look{color:#743678;font-family:"Oswald",Arial,sans-serif;font-size:2em;font-weight:400;line-height:1.25em}.mc2 .mini{font-family:Arial,sans-serif;color:#666;font-size:0.75em;line-height:0.75em;padding-top:.25em;}}@media (max-width: 479px) {.respo-banner-main{display:none;}}@media (min-width: 480px) {.respo-mob-shrink1,.respo-mob-shrink2{display:none;}}.respo-mob-shrink1,.respo-mob-shrink2{text-align:center;line-height:2em;margin:.5em 0 0;}.respo-mob-shrink1{font-size:1.1em;background-color:#743678;color:#FFF;padding:.2em 0.1em;}.respo-mob-shrink2{font-size:.805em;background-color:#ECF1F3;color:#000;padding:.2em 0.1em 0;}.B700{font-weight:700;}</style>
 <div class="respo-banner-main clearfix">
 <div class="respo-banner-cell mc1">
 <div class="mc-spacer">
@@ -1188,32 +1137,12 @@ jQuery('.content-gallery .thumbnails ul li img').click(function() {
 <div class="nail nail4">
 <h3><span>Popular Searches</span></h3>
 <ul>
-<li>
-<a href="http://www.villagehatshop.com/category/72/1/fedoras.html">
-<span>Fedora</span>
-</a>
-</li>
-<li>
-<a href="http://www.villagehatshop.com/category/309/1/newsboy.html">
-<span>Newsboy Cap</span>
-</a>
-</li>
-<li>
-<a href="http://www.villagehatshop.com/category/93/1/straw-panamas.html">
-<span>Panama Hat</span>
-</a>
-</li>
-<li>
-<a href="http://www.villagehatshop.com/category/321/1/sun-protection.html">
-<span>Sun Protection Hats</span>
-</a>
-</li>
-<li><a href="http://www.villagehatshop.com/category/51/1/baseball-caps.html"><span>Baseball Caps</span></a></li>
-<li>
-<a href="http://www.villagehatshop.com/category/90/1/straw-hats.html">
-<span>Mens Straw Hats</span>
-</a>
-</li>
+<li><a href="http://www.villagehatshop.com/category/72/1/fedoras.html"><span>Fedora Hat</span></a></li>
+<li><a href="http://www.villagehatshop.com/category/6/1/mens-hats.html"><span>Mens Hats</span></a></li>
+<li><a href="http://www.villagehatshop.com/category/87/1/pork-pie-hats.html"><span>Pork Pie Hat</span></a></li>
+<li><a href="http://www.villagehatshop.com/category/9/1/womens-hats.html"><span>Womens Hats</span></a></li>
+<li><a href="http://www.villagehatshop.com/category/69/1/derby-bowler-hats.html"><span>Bowler Hat</span></a></li>
+<li><a href="http://www.villagehatshop.com/category/135/1/fascinators-headbands.html"><span>Fascinators</span></a></li>
 </ul>
 </div>
 </div>
@@ -1282,7 +1211,7 @@ jQuery('.content-gallery .thumbnails ul li img').click(function() {
 </div>
 </td>
 <td class="shrink">
-<input type="image" src="https://villagehatshop.com/store_image/site/spacer.gif" name="go" value=" " alt="go" class="Submit SubmitEMAIL">
+<input type="image" src="https://www.villagehatshop.com/store_image/site/spacer.gif" name="go" value=" " alt="go" class="Submit SubmitEMAIL">
 </td>
 </tr>
 </tbody></table>
@@ -1300,11 +1229,11 @@ jQuery('.content-gallery .thumbnails ul li img').click(function() {
 <p><a href="http://www.villagehatshop.com/">Shop for Hats at VillageHatShop.com</a> | <a href="http://www.villagehatshop.com/content/4/privacy-security.html">Privacy Policy</a> | <a href="http://www.villagehatshop.com/content/757/site-map.html">Site Map</a>
 <br><span class="copy">Copyright © 1999-2015 Village Hat Shop: The #1 Source for Hats Online</span>
 <br><span class="copy">* FREE SHIPPING offer valid for USA Ground service only.
-<br>** All shipping offers exclude wholesale/B2B and special orders.</span></p>
+<br>&nbsp;&nbsp;All shipping offers exclude wholesale/B2B and special orders.</span></p>
 </div>
 <div class="nail nail2">
 <ul class="clearfix">
-<li><a target="_blank" title="Village Hat Shop BBB Business Review" href="http://www.bbb.org/sdoc/business-reviews/hats-retail/village-hat-shop-in-san-diego-ca-1048875/#bbbonlineclick"><img alt="Village Hat Shop BBB Business Review" style="border: 0;" src="//seal-sandiego.bbb.org/seals/black-seal-153-100-village-hat-shop-1048875.png"></a>
+<li><a target="_blank" title="Village Hat Shop BBB Business Review" href="http://www.bbb.org/sdoc/business-reviews/hats-retail/village-hat-shop-in-san-diego-ca-1048875/#bbbonlineclick"><img alt="Village Hat Shop BBB Business Review" style="border: 0;" src="//villagehatshop.com/content/black-seal-153-100-village-hat-shop-1048875.png"></a>
 
 
 </li>
@@ -1355,7 +1284,7 @@ jQuery('.content-gallery .thumbnails ul li img').click(function() {
 <br>
 <br><span class="dim">Copyright © 1999-2015 Village Hat Shop
 <br>* FREE SHIPPING offer valid for USA Ground only.
-<br>** All shipping offers exclude wholesale/B2B and special orders.</span>
+<br>All shipping offers exclude wholesale/B2B and special orders.</span>
 </div>
 </div>
 </div>
@@ -1377,9 +1306,9 @@ $j('.form_Order_cart_order .form_row').css('padding','0');
 <script type="text/javascript">
   var gts = gts || [];
 
-  gts.push([ 'id', '9104']);
+  gts.push([ 'id', '9105']);
   gts.push([ 'google_base_offer_id', '45042']);
-  gts.push([ 'google_base_subaccount_id', '9104']);
+  gts.push([ 'google_base_subaccount_id', '9105']);
   
   (function() {
     var scheme = (("https:" == document.location.protocol) ? "https://" : "http://");
@@ -1417,6 +1346,11 @@ $j(window).load(function() {
 </script>
  
  
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-5W6WV5');</script>
 
 
 </body></html>
