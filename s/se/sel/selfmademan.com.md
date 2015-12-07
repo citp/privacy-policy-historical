@@ -1,24 +1,23 @@
-> *The following text is extracted and transformed from the selfmademan.com privacy policy that was archived on 2015-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150407072228id_/http%3A//selfmademan.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the selfmademan.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207143117id_/http%3A//mikedillard.com/privacy-policy) for the most accurate reproduction.*
 
-# Self Made Man
+# Privacy Policy - Mike Dillard
 
-## home of the
-
-## podcast
+## Privacy Policy
 
 **PRIVACY POLICY**
 
-**Last Revised: February 8, 2014**
+**  
+****Last Revised: February 8, 2014**
 
 Thank you for visiting this web site owned by Mike Dillard Media LLC. We understand the importance that Internet users place on privacy, and this Privacy Policy describes how we use personal information that is collected at this web site.
 
-Please read this Privacy Policy before using this site or submitting any personal information. California residents, please also see the â€œNote To California Residentsâ€ Section for additional rights that apply to you.
+Please read this Privacy Policy before using this site or submitting any personal information. California residents, please also see the “Note To California Residents” Section for additional rights that apply to you.
 
 By using this web site, you accept the privacy practices contained in this Privacy Policy. These privacy practices may change from time to time, but any changes will be posted. You are encouraged to review the Privacy Policy whenever you visit the web site to make sure you understand how any personal information you provide will be used.
 
   1. **Information We Collect**
 
- 
+
   1. **Personally Identifiable Information**
 
 
@@ -33,7 +32,7 @@ By submitting your email address on this web site, you agree to receive email fr
 
 By participating in one of our membership programs, you agree and understand that other members of the program may see the comments, questions, photos, and/or other documents that you post on the membership site, as well as any responses to you that are posted by Mike Dillard Media or other members. If you do not want your personal details revealed to other members of the program, then please do not post any such information through the membership site.
 
-In addition, you agree that by submitting your telephone contact information on this web site and/or registering to receive the product and/or service offered herein, such act constitutes a purchase, an inquiry, and/or an application for the purposes of the Amended Telemarketing Sales Rule (ATSR), 16 CFR â€˜310 et seq. and any applicable state and local â€œdo not callâ€ regulations. We retain the right to contact you via telemarketing in accordance with the ATSR and the applicable state regulations.
+In addition, you agree that by submitting your telephone contact information on this web site and/or registering to receive the product and/or service offered herein, such act constitutes a purchase, an inquiry, and/or an application for the purposes of the Amended Telemarketing Sales Rule (ATSR), 16 CFR ‘310 et seq. and any applicable state and local “do not call” regulations. We retain the right to contact you via telemarketing in accordance with the ATSR and the applicable state regulations.
 
   1. **Non-Personally Identifiable Information**
 
@@ -41,17 +40,17 @@ In addition, you agree that by submitting your telephone contact information on 
 
 We also may collect various types of non-personally identifiable information to help us make your experience more enjoyable, measure site activity to identify future improvements that should be made, and compile aggregate data to help serve site visitors better.
 
-For example, we may use session and persistent â€œcookies,â€ session logs, web beacons, GIF/pixel tags, banner ads, third-party click tracking analytics tools (such as Google Analytics), third party retargeting networks that may display our advertisements to you on other sites that you visit to remind you about us, and third party networks that serve user-requested emails (e.g., for a refer-a-friend email) to collect non-personally identifiable or other aggregated information about site visitors.
+For example, we may use session and persistent “cookies,” session logs, web beacons, GIF/pixel tags, banner ads, third-party click tracking analytics tools (such as Google Analytics), third party retargeting networks that may display our advertisements to you on other sites that you visit to remind you about us, and third party networks that serve user-requested emails (e.g., for a refer-a-friend email) to collect non-personally identifiable or other aggregated information about site visitors.
 
-Cookies are text files that are used by your computerâ€™s web browser to store your preferences, and enable us to enhance your user experience with our web site.
+Cookies are text files that are used by your computer’s web browser to store your preferences, and enable us to enhance your user experience with our web site.
 
-Emails or newsletters that we send electronically may use techniques such as web beacons or pixel tags to gather email metrics and information to improve the readerâ€™s experience, such as the number of emails that are opened, whether they were forwarded or printed, the type of device from which they were opened, and the location (e.g. city, state, and county) associated with the applicable IP address.
+Emails or newsletters that we send electronically may use techniques such as web beacons or pixel tags to gather email metrics and information to improve the reader’s experience, such as the number of emails that are opened, whether they were forwarded or printed, the type of device from which they were opened, and the location (e.g. city, state, and county) associated with the applicable IP address.
 
-If you visit this site with an open ID (such as Facebook), you may also be sharing and integrating data with third-party social media sites, and we may track aggregate data about the number of visits to this site with an open ID, the number of items â€œlikedâ€ on this site, or items on this site that you choose to share with a third-party social media site.
+If you visit this site with an open ID (such as Facebook), you may also be sharing and integrating data with third-party social media sites, and we may track aggregate data about the number of visits to this site with an open ID, the number of items “liked” on this site, or items on this site that you choose to share with a third-party social media site.
 
 Other parties such as advertising partners and analytics companies may also be collecting information about your online activity across various websites over time. The information collected by those third parties may include identifiers that allow those third parties to tailor the ads that they serve to your computer or other device.
 
-Because there is not yet a common understanding of how to interpret web browser-based â€œDo Not Trackâ€ signals other than cookies, we do not currently respond to â€œDo Not Trackâ€ signals that are undefined.
+Because there is not yet a common understanding of how to interpret web browser-based “Do Not Track” signals other than cookies, we do not currently respond to “Do Not Track” signals that are undefined.
 
 Please note that you do have the option to configure most web browsers to NOT accept cookies. However, be aware that disabling cookies may keep you from having access to some functions or services on our web site or the web-hosted software that runs on our web site.
 
@@ -61,11 +60,11 @@ Please note that you do have the option to configure most web browsers to NOT ac
 
 We do not control and are not liable for the actions of any third parties who we may promote. We pride ourselves in working with quality companies, but have no control over the actions of those third parties. While we are not liable for any of the actions of those third parties, you should feel free to give us feedback from time to time on your experiences with any third parties to whom we work with so that we may enhance our future service to all customers.
 
-  3. **Childrenâ€™s Privacy**
+  3. **Children’s Privacy**
 
 
 
-We do not knowingly intend to collect personally identifiable information from children under 18 years of age. If your minor child has provided us with personally identifiable information, you may contact us at the phone number or mailing address listed in Section 7 herein if you want this information deleted from our records. We will then make reasonable efforts to remove your childâ€™s information from the database that stores the information.
+We do not knowingly intend to collect personally identifiable information from children under 18 years of age. If your minor child has provided us with personally identifiable information, you may contact us at the phone number or mailing address listed in Section 7 herein if you want this information deleted from our records. We will then make reasonable efforts to remove your child’s information from the database that stores the information.
 
   4. **IP Addresses**
 
@@ -101,16 +100,18 @@ We strive to provide excellent products, along with equally excellent customer s
 
 If you live in the State of California, under the California Civil Code, you have the right to request that companies who conduct business in California provide you with a list of all third parties to which the company has disclosed Personal Information during the preceding year for direct marketing purposes.
 
-Alternatively, the law provides that if a company has a Privacy Policy that gives either an opt-out (often referred to as â€œunsubscribeâ€) or opt-in choice for use of your Personal Information by third parties (such as advertisers or affiliated companies) for marketing purposes, that the company may instead provide you with information on how to exercise your disclosure choice options.
+Alternatively, the law provides that if a company has a Privacy Policy that gives either an opt-out (often referred to as “unsubscribe”) or opt-in choice for use of your Personal Information by third parties (such as advertisers or affiliated companies) for marketing purposes, that the company may instead provide you with information on how to exercise your disclosure choice options.
 
 This Site qualifies for the alternative option; it has a comprehensive Privacy Policy and provides you with details on how you may either opt-out or opt-in to the use of your Personal Information by third parties for direct marketing purposes. Therefore, we are not required to maintain or disclose a list of the third parties that received your Personal Information for marketing purposes during the preceding year.
 
 If you are a California resident and want to request information about how to exercise your third party disclosure choices, you must send a request to the following address with a preference on how our response to your request should be sent (email or postal mail). Please send an email to the Privacy Administrator at [support@mikedillard.com](mailto:support@mikedillard.com), or you may contact us via regular mail at:
 
-Mike Dillard Media LLC  
-3736 Bee Cave Road, #1-162  
+Mike Dillard Media LLC
+
+3736 Bee Cave Road, #1-162
+
 Westlake Hills, Texas 78746
 
-**All requests sent via regular mail must be labeled "Your California Privacy Rights" on the envelope or post card and clearly stated on the actual request.** For all requests, please include your name, street address, city, state, and zip code. Please include your zip code for our own recordkeeping.
+**All requests sent via regular mail must be labeled “Your California Privacy Rights” on the envelope or post card and clearly stated on the actual request.** For all requests, please include your name, street address, city, state, and zip code. Please include your zip code for our own recordkeeping.
 
 **We do not accept requests via the telephone or by facsimile.** We are not responsible for notices that are not labeled or sent properly, or do not have complete information.
