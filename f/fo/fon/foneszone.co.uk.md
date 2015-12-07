@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the foneszone.co.uk privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608130639id_/http%3A//www.foneszone.co.uk/fz/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foneszone.co.uk privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207151022id_/http%3A//foneszone.co.uk/fz/privacy.php) for the most accurate reproduction.*
 
-# Fones Zone LTD Privacy Policy
+# Privacy Policy
 
 We are committed to safeguarding the privacy of our website visitors; this policy sets out how we will treat your personal information. 
 
-**(1) This privacy policy**
+## (1) This privacy policy
 
 This privacy policy was made using an SEQ Legal [privacy policy](http://www.website-law.co.uk/privacypolicy.html) template created for [http://www.employmentlawcontracts.co.uk](http://www.employmentlawcontracts.co.uk/)
 
-**(2) What information do we collect?**
+## (2) What information do we collect?
 
 We may collect, store and use the following kinds of personal information:
 
@@ -20,11 +20,9 @@ We may collect, store and use the following kinds of personal information:
 
 (d) information that you provide to us for the purpose of subscribing to our website services, email notifications and/or newsletters
 
-**
+## 
 
 (3) Cookies
-
-**
 
 A cookie consists of information sent by a web server to a web browser, and stored by the browser. The information is then sent back to the server each time the browser requests a page from the server. This enables the web server to identify and track the web browser. 
 
@@ -40,7 +38,7 @@ We publish Google Adsense interest-based advertisements on our website. These ar
 
 Most browsers allow you to reject all cookies, whilst some browsers allow you to reject just third party cookies. For example, in Internet Explorer you can refuse all cookies by clicking “Tools”, “Internet Options”, “Privacy”, and selecting “Block all cookies” using the sliding selector. Blocking all cookies will, however, have a negative impact upon the usability of many websites. 
 
-**(4) Using your personal information**
+## (4) Using your personal information
 
 Personal information submitted to us via this website will be used for the purposes specified in this privacy policy or in relevant parts of the website.
 
@@ -68,17 +66,15 @@ Where you submit personal information for publication on our website (customer r
 
 We will not without your express consent provide your personal information to any third parties for the purpose of direct marketing.
 
-**(5) Using your financial information**
+## (5) Using your financial information
 
 All our website financial transactions are handled through our payment services provider, PayPal. You can review the PayPal privacy policy at www.paypal.com. We will share information with PayPal only to the extent necessary for the purposes of processing payments you make via our website and dealing with complaints and queries relating to such payments.
 
 Fones Zone LTD will not store any of your financial information such as credit / debit card numbers.
 
-**
+## 
 
 (6) Disclosures
-
-**
 
 We may disclose information about you to any of our employees, officers, agents, suppliers or subcontractors insofar as reasonably necessary for the purposes as set out in this privacy policy.
 
@@ -94,11 +90,9 @@ In addition, we may disclose your personal information:
 
 Except as provided in this privacy policy, we will not provide your information to third parties.
 
-**
+## 
 
 (7) Security of your personal information
-
-**
 
 We will take reasonable technical and organisational precautions to prevent the loss, misuse or alteration of your personal information. 
 
@@ -108,21 +102,17 @@ Of course, data transmission over the internet is inherently insecure, and we ca
 
 You are responsible for keeping your password and user details confidential. We will not ask you for your password (except when you log in to the website).
 
-**
+## 
 
 (8) Policy amendments
-
-**
 
 We may update this privacy policy from time-to-time by posting a new version on our website. You should check this page occasionally to ensure you are happy with any changes.
 
 We may also notify you of changes to our privacy policy by email.
 
-**
+## 
 
 (9) Your rights
-
-**
 
 You may instruct us to provide you with any personal information we hold about you. Provision of such information will be subject to:
 
@@ -134,18 +124,16 @@ We may withhold such personal information to the extent permitted by law.
 
 You may instruct us not to process your personal information for marketing purposes by email at any time. In practice, you will usually either expressly agree in advance to our use of your personal information for marketing purposes, or we will provide you with an opportunity to opt-out of the use of your personal information for marketing purposes.
 
-**(10) Third party websites**
+## (10) Third party websites
 
 The website contains links to other websites. We are not responsible for the privacy policies or practices of third party websites.
 
-**(11) Updating information**
+## (11) Updating information
 
 Please let us know if the personal information which we hold about you needs to be corrected or updated.
 
-**
+## 
 
 (12) Contact
 
-**
-
-If you have any questions about this privacy policy or our treatment of your personal information, please write to us by email to info (at) foneszone.co.uk or by post to Fones Zone LTD, 23 Elm Terrace, Eltham, London, SE9 5DW
+### If you have any questions about this privacy policy or our treatment of your personal information, please write to us by email to info (at) foneszone.co.uk or by post to Fones Zone LTD, 23 Elm Terrace, Eltham, London, SE9 5DW
