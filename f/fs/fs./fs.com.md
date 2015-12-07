@@ -1,57 +1,82 @@
-> *The following text is extracted and transformed from the fs.com privacy policy that was archived on 2015-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150314230834id_/http%3A//www.infor.com/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fs.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207225410id_/http%3A//www.fs.com/privacy_policy.html) for the most accurate reproduction.*
 
-# Privacy
+# Privacy Policy - Fiberstore
 
-## Company Privacy Policy 
+FiberStore has created this privacy statement in order to demonstrate our **firm commitment to privacy**. At FiberStore we respect your right to privacy and we understand that, as a visitor to FiberStore you prefer to control your own personal information and preferences. For this reason, we may ask you to register or to provide personal information and preferences when you request information, register for an event, purchase a product, or download documents.  
+The information we learn from you helps us personalize and continually improve your shopping experience at FiberStore.   
+To better protect your privacy we provide this notice explaining our online information practices and the way your information is collected and used. 
 
-Infor (the "Company") regards customers privacy as one of its most important values. The Company wants you to know how it protects the information of Company customers who make use of the services and products offered though this website (the "Company Website"). 
+We use IP address to help diagnose problems with our server, administer our Web site, and for aspects of session management, like the operation of the shopping cart. However, IP addresses are never associated with a specific identifier, and are not used to identify you.
 
-## Electronic Service Registration
+Our site uses cookies to keep track of your shopping cart. We use cookies to save your password so you don't have to re-enter it each time you visit our site.
 
-When you register to receive a product or information through the Company Website ("Registered User"), you will be prompted to provide certain information that identifies you ("Personal Information") or allows the Company to contact you. Such registration information may be merged with any information you have already provided to the Company (the "Personal Profile"). If you have not previously registered with the Company, a Personal Profile will be created for you from your electronic registration information. 
+Our site's order form requires users to give us contact information (see "What We Collect" below) and unique username and password. The customer's contact information is used to contact the visitor when necessary. Unique identifiers (such as username and password) are collected to verify the user's identity.
 
-## Customer Profiles
+**What We Collect**
 
-Every Registered User has a unique Personal Profile. Each Personal Profile is assigned a unique personal identification number, that you will receive to help ensure that only you can access your profile. 
+This notice applies to all information collected or submitted on the FiberStore website. On some pages, you can order products, make requests, and register to receive materials. The types of personal information collected at these pages are:
 
-## Privacy 
+Your name
 
-**U.S. - EU and U.S. - Swiss  Safe Harbor Privacy Statement**   
-Infor is committed to handling personal information of employees and customers that Infor receives from the European Union member countries and Switzerland in accordance with the U.S. - E.U. Safe Harbor Framework and the U.S. - Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce.  You can find Infor’s Safe Harbor certification at <http://web.ita.doc.gov/safeharbor/shlist.nsf/webPages/safe+harbor+list>. For more information about the Safe Harbor Principles and the FAQs, please visit the U.S. Department of Commerce’s Website at <http://export.gov/safeharbor/>.
+Contact information including email address, address, postcode, town, city, country
 
-To protect your privacy when you browse and/or make use of the services provided through the Company Website, the Company follows certain basic rules:   
+Payment information including Credit Card Information
 
+Other information relevant to customer surveys and/or offers
 
-  * **Notice.** Generally, personal information is requested when: (i) existing Company customers register to use the customer portal area of the Company Website (the "Customer Portal"); and (ii) visitors to the Company Website request certain information about Company information, products, and/or services. Although the Terms of Use governing (i) and (ii) above may vary, the Company uses your personal Information in all three situations for the same general purposes: 
-    * To make the Company Website easier to use by not having to enter information more than once 
-    * To find services or information quicker 
-    * To create relevant content 
-    * To distribute alerts concerning product upgrades, special offers, updated information, and other new services and products from Company 
-    * To share relevant information with affiliates, or third-parties 
+**Purposes for These Personal Information**
 
-PLEASE NOTE THAT COMPANY CUSTOMERS WHO ARE AUTHORIZED TO USE THE CUSTOMER PORTAL ARE SUBJECT TO AN ADDITIONAL TERMS-OF-USE POLICY THAT GOVERNS THE USE THEREOF. 
+We require this information to understand your needs and provide you with a better service, and in particular for the following reasons:
 
-    * **Consent/Choice.** If you choose not to provide personal information, you can still browse and/or use many areas of the Company Website, but you will not be able to access certain areas that are restricted to specific users. 
+Internal record keeping.
 
-The Company will share personal information to facilitate transactions, or to comply with the valid legal process such as a search warrant, subpoena, or court order. The Company may share statistical, aggregate, non-personally identifiable data with third parties in order to permit third parties to provide non-targeted marketing offers to you. If you do not want the Company to communicate with you about other offers regarding Company products, programs, events, or services by email, postal mail, or telephone, or if you do not want to receive affiliate, partner, or third-party offers, you may contact the Company at [Privacy.Inquiries@infor.com](mailto:Privacy.Inquiries@infor.com). 
+Online payment for your FiberStore service/s.
 
-Please note that the Company does not control the privacy policies or data-sharing practices of the third parties who provide such products or services. Such third parties may have privacy terms that differ from this privacy policy, and they may share personal information different from the way this Company Privacy Policy permits. 
+We may use the information to improve our products and services.
 
-    * **Access.** The Company will provide you with the means to ensure that your personal information is correct and current. You may review and update this information at any time by contacting the Company at [Privacy.Inquiries@infor.com](mailto:Privacy.Inquiries@infor.com). 
-    * **Data Integrity/Security.** The Company collects personal information that is relevant for the purpose for which it is to be used, and the Company will take reasonable precautions to ensure that such data is appropriate for its intended use. Additionally, the Company takes precautions to protect your data from loss, misuse, unauthorized access or disclosure, alteration, or destruction. 
-    * **Enforcement.** If you believe the Company has not adhered to these rules, please notify us by e-mail at [Privacy.Inquiries@infor.com](mailto:Privacy.Inquiries@infor.com), and the Company will do its best to determine and correct the problem promptly. Be certain the words "Privacy Policy" are in the subject line. 
+We may use the information to improve the content of the website.
 
+We may periodically send promotional emails about events, services, special offers or other information which we think you may find interesting using the email address which you have provided.
 
+From time to time, we may also use your information to contact you for market research purposes. We may contact you by email.
 
-## Other Measures
+**Security Measures**
 
-Calls into the Company personnel for technical support and other inquiries may be recorded for quality assurance and training purposes. The Company takes precautions to protect your data from loss, misuse, unauthorized access or disclosure, alteration, or destruction.  
+To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online.  
+This Site incorporates physical, electronic, and administrative procedures to safeguard the confidentiality of your personal information, such as:
 
+Safeguarding all financial transactions done through this Site with Secure Sockets Layer ("SSL") encryption 
 
-[ ](https://myportal.infor.com/protectedinformationincidentreport/)
+Granting only employees who are providing a specific service access to your personal information 
 
-**HIPAA - Protected Information Incident Report**
+Working only with third-party service providers who we believe adequately secure all computer hardware.
 
-Infor employees, contractors, and partners can report certain types of information incidents they observe in their work for Infor.
+While our business is designed with safeguarding your personal information in mind, please remember that 100% security does not presently exist anywhere, online or offline.
 
-[Go to the report/form ](https://myportal.infor.com/protectedinformationincidentreport/)
+**How We Use Log Files and Cookies**
+
+FiberStore remembers you by placing a log file (cookie) that contains only enough information to identify you upon return visits. A "cookie" is a small like of text that is stored with your web browser for record-keeping purposes and helps FiberStore provide better service to you. Your browser has options to accept, reject, or provide you with notice when a cookie is sent.
+
+No information, other than that found in FiberStore cookie, will be accessed by any system of FiberStore. 
+
+FiberStore also utilizes visitor log files (cookies) and hosted tracking with our website. Once a user enters our site, a cookie follows the user's click stream path. Examples of information being collected by these cookies and the hosted tracking include the number of times a user came to our site, and the paths the user took to get there. FiberStore uses the data collected from website visitor cookies and hosted racking in aggregate form only and does not collect any personally identifiable information. Use of this information helps us better understand what users are seeking and learning at our website and helps us identify potential navigation issues.
+
+You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.
+
+**Links to Third Party Websites**
+
+We have included links on this site for your use and reference. We are not responsible for the privacy policies on these websites. You should be aware that the privacy policies of these sites may differ from our own.
+
+**Controlling Your Personal Information**
+
+You may choose to restrict the collection or use of your personal information in the following ways:  
+Whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by FiberStore for direct marketing purposes.  
+If you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at sales@fs.com. We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.
+
+**Changes to This Privacy Statement**
+
+The contents of this statement may be altered at any time, at our discretion.  
+If you have any questions regarding the privacy policy, then you may contact us at Sales@fs.com ,or call us +1-253-277-3058.
+
+Fiberstore Co Limited, Room 1202, 12 Floor Tung Chun Commercial Centre, 438 - 444, Shanghai Street, Hong Kong.  
+Fiberstore (UK) Co Limited, Third Floor 207 Regent Street London W1B 3HH.
