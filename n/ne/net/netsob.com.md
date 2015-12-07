@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the netsob.com privacy policy that was archived on 2015-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150215223512id_/http%3A//help.netsob.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netsob.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207051835id_/http%3A//help.netsob.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Netsob Help Centre
 
