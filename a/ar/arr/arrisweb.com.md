@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the arrisweb.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607210645id_/http%3A//www.arrisweb.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arrisweb.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207114728id_/http%3A//www.arrisweb.com/privacy_policy) for the most accurate reproduction.*
 
-# Privacy Policy | Arrisweb | Social Bookmarking
+# Privacy Policy | Arrisweb - add your content for free - social news bookmarking
 
 Privacy Policy for [www.arrisweb.com](http://www.arrisweb.com/ "www.arrisweb.com")
 
