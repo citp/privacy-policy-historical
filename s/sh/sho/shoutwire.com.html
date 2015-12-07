@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the shoutwire.com privacy policy that was archived on 2015-06-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150601030037id_/http%3A//www.shoutwire.com/privacy-policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the shoutwire.com privacy policy that was archived on 2015-12-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151207042005id_/http%3A//www.shoutwire.com/privacy-policy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html><head>
 	<title>Privacy Policy |</title>
@@ -7,7 +7,7 @@
 	<meta http-equiv="Content-type" content="text/html; charset=utf-8">
 	<meta name="description" content="">
 	<meta name="keywords" content="">
-	<script type="text/javascript" async="" id="gauges-tracker" data-site-id="543715d6eddd5b129a00aac2" src="//secure.gaug.es/track.js"></script><script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+	<script type="text/javascript" async="" defer="" src="//shoutwire.com/analytics/piwik.js"></script><script type="text/javascript" async="" id="gauges-tracker" data-site-id="543715d6eddd5b129a00aac2" src="//secure.gaug.es/track.js"></script><script async="" src="//static.woopra.com/js/t/5.js"></script><script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 <link href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css" rel="stylesheet">
@@ -15,6 +15,20 @@
 <link href="style.css" rel="stylesheet">
 <link href="quote.css" rel="stylesheet">
 <link href="css/chosen.min.css" rel="stylesheet">
+
+<!-- Start of Woopra Code -->
+<script>
+(function(){
+        var t,i,e,n=window,o=document,a=arguments,s="script",r=["config","track","identify","visit","push","call","trackForm","trackClick"],c=function(){var t,i=this;for(i._e=[],t=0;r.length>t;t++)(function(t){i[t]=function(){return i._e.push([t].concat(Array.prototype.slice.call(arguments,0))),i}})(r[t])};for(n._w=n._w||{},t=0;a.length>t;t++)n._w[a[t]]=n[a[t]]=n[a[t]]||new c;i=o.createElement(s),i.async=1,i.src="//static.woopra.com/js/t/5.js",e=o.getElementsByTagName(s)[0],e.parentNode.insertBefore(i,e)
+})("woopra");
+
+woopra.config({
+    domain: 'shoutwire.com'
+});
+woopra.track();
+</script>
+<!-- End of Woopra Code -->
+
 </head>
 <body onload="initialize()">
 
@@ -160,6 +174,13 @@
 <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
 <script type="text/javascript" src="js/chosen.jquery.min.js"></script>
 
+	<script src="//cdnjs.cloudflare.com/ajax/libs/jquery-form-validator/2.1.38/jquery.form-validator.min.js"></script>
+	<script> $.validate({validateOnBlur : false}); </script>
+	<script> $.validate({form : '#default-form',validateOnBlur : false,errorMessagePosition : 'top'}); </script>
+	<script src="assets/javascripts/jquery.autotab.js"></script>
+	<script>$('input[type=text]').autotab();$('.number').autotab('filter', 'number');</script>
+	<script src="assets/javascripts/plugins/validate/jquery.validate.min.js" type="text/javascript"></script>
+
 <script type="text/javascript">
   var _gauges = _gauges || [];
   (function() {
@@ -220,7 +241,31 @@ $(document).ready(function() {
                 }
             });
         });
+
+
+jQuery(function($){
+$(".phone").mask("(999) 999-9999");
+});
+
+jQuery(document).ready( function(){
+   jQuery('#demoForm').fadeIn(10);
+} );
 </script>
+<!-- Piwik -->
+<script type="text/javascript">
+  var _paq = _paq || [];
+  _paq.push(['trackPageView']);
+  _paq.push(['enableLinkTracking']);
+  (function() {
+    var u="//shoutwire.com/analytics/";
+    _paq.push(['setTrackerUrl', u+'piwik.php']);
+    _paq.push(['setSiteId', 1]);
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+    g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
+  })();
+</script>
+<noscript><p><img src="//shoutwire.com/analytics/piwik.php?idsite=1" style="border:0;" alt="" /></p></noscript>
+<!-- End Piwik Code -->
 
 <script src="//static.getclicky.com/js" type="text/javascript"></script>
 <script type="text/javascript">try{ clicky.init(100833373); }catch(e){}</script>
