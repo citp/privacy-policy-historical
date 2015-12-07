@@ -1,43 +1,39 @@
-> *The following text is extracted and transformed from the healthierwayoflife.com privacy policy that was archived on 2008-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081120040758id_/http%3A//www.healthierwayoflife.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthierwayoflife.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207100449id_/http%3A//healthierwayoflife.com/privacy-policy) for the most accurate reproduction.*
 
-# Financial, Business, Career & Life Coaching, Coach Training ~ Lukas Coaching
+# Privacy Policy | Healthier Way Of Life
 
-Privacy Policy Statement  
-This is the web site of Lukas Coaching. 
+HealthierWayOfLife operates HealthierWayOfLife.com and may operate other websites. It is HealthierWayOfLife policy to respect your privacy regarding any information we may collect while operating our websites.
 
-Our postal address is  
-1091 Pemberton Hill Road  
-Suite 101  
-Apex, NC 27502
+### Website Visitors
 
-We can be reached via e-mail at Info@LukasCoaching.com or you can reach us by telephone at 919-342-0801
+Like most website operators, HealthierWayOfLife collects non-personally-identifying information of the sort that web browsers and servers typically make available, such as the browser type, language preference, referring site, and the date and time of each visitor request. HealthierWayOfLife purpose in collecting non-personally identifying information is to better understand how HealthierWayOfLife visitors use its website. From time to time, HealthierWayOfLife may release non-personally-identifying information in the aggregate, e.g., by publishing a report on trends in the usage of its website.
 
-For each visitor to our Web page, our Web server automatically recognizes only the consumer's domain name, but not the e-mail address (where possible).
+HealthierWayOfLife also collects potentially personally-identifying information like Internet Protocol (IP) addresses for logged in users and for users leaving comments on HealthierWayOfLife.com blogs/sites. HealthierWayOfLife only discloses logged in user and commenter IP addresses under the same circumstances that it uses and discloses personally-identifying information as described below, except that commenter IP addresses and email addresses are visible and disclosed to the administrators of the blog/site where the comment was left.
 
-We collect only the domain name, but not the e-mail address of visitors to our Web page, aggregate information on what pages consumers access or visit.
+### Gathering of Personally-Identifying Information
 
-The information we collect is used for internal review and is then discarded. It is only used to improve the content of our Web page.
+Certain visitors to HealthierWayOfLife websites choose to interact with HealthierWayOfLife in ways that require HealthierWayOfLife to gather personally-identifying information. The amount and type of information that HealthierWayOfLife gathers depends on the nature of the interaction. For example, we ask visitors who sign up at [HealthierWayOfLife.com](http://healthierwayoflife.com/) to provide a username and email address. Those who engage in transactions with HealthierWayOfLife are asked to provide additional information, including as necessary the personal and financial information required to process those transactions. In each case, HealthierWayOfLife collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor’s interaction with HealthierWayOfLife. HealthierWayOfLife does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities.
 
-With respect to cookies: _We do not set (or sell) any cookies_ (but if you know a good girl scout, I would be happy to buy some).   
+### Aggregated Statistics
 
+HealthierWayOfLife may collect statistics about the behavior of visitors to its websites. HealthierWayOfLife may display this information publicly or provide it to others. However, HealthierWayOfLife does not disclose personally-identifying information other than as described below.
 
-If you do not want to receive e-mail from us in the future, please let us know by sending us e-mail at the above address.
+### Protection of Certain Personally-Identifying Information
 
-If you supply us with your postal address on-line you may receive periodic mailings from us with information on new products and services or upcoming events. If you do not wish to receive such mailings, please let us know by calling us at the number provided above, e-mailing us at the above address, writing to us at the above address.
+HealthierWayOfLife discloses potentially personally-identifying and personally-identifying information only to those of its employees, contractors and affiliated organizations that (i) need to know that information in order to process it on HealthierWayOfLife behalf or to provide services available at HealthierWayOfLife websites, and (ii) that have agreed not to disclose it to others. Some of those employees, contractors and affiliated organizations may be located outside of your home country; by using HealthierWayOfLife websites, you consent to the transfer of such information to them. HealthierWayOfLife will not rent or sell potentially personally-identifying and personally-identifying information to anyone. Other than to its employees, contractors and affiliated organizations, as described above, HealthierWayOfLife discloses potentially personally-identifying and personally-identifying information only in response to a subpoena, court order or other governmental request, or when HealthierWayOfLife believes in good faith that disclosure is reasonably necessary to protect the property or rights of HealthierWayOfLife, third parties or the public at large. If you are a registered user of an HealthierWayOfLife website and have supplied your email address, HealthierWayOfLife may occasionally send you an email to tell you about new features, solicit your feedback, or just keep you up to date with what’s going on with HealthierWayOfLife and our products. If you send us a request (for example via email or via one of our feedback mechanisms), we reserve the right to publish it in order to help us clarify or respond to your request or to help us support other users. HealthierWayOfLife takes all measures reasonably necessary to protect against the unauthorized access, use, alteration or destruction of potentially personally-identifying and personally-identifying information.
 
-Please provide us with your exact name and address. We will be sure your name is removed from the list we share with other organizations 
+### Cookies
 
-Persons who supply us with their telephone numbers on-line may receive telephone contact from us with information regarding new products and services or upcoming events. If you do not wish to receive such telephone calls, please let us know by sending us e-mail at the above address, calling us at the above telephone number, writing to us at the above address.
+A cookie is a string of information that a website stores on a visitor’s computer, and that the visitor’s browser provides to the website each time the visitor returns. HealthierWayOfLife uses cookies to help HealthierWayOfLife identify and track visitors, their usage of HealthierWayOfLife website, and their website access preferences. HealthierWayOfLife visitors who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before using HealthierWayOfLife websites, with the drawback that certain features of HealthierWayOfLife websites may not function properly without the aid of cookies.
 
-Please provide us with your name and phone number. We will be sure your name is removed from the list we share with other organizations With respect to Ad Servers: We do not partner with or have special relationships with any ad server companies.   
+### Business Transfers
 
+If HealthierWayOfLife, or substantially all of its assets, were acquired, or in the unlikely event that HealthierWayOfLife goes out of business or enters bankruptcy, user information would be one of the assets that is transferred or acquired by a third party. You acknowledge that such transfers may occur, and that any acquirer of HealthierWayOfLife may continue to use your personal information as set forth in this policy.
 
-From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will post the policy changes to our Web site to notify you of these changes and provide you with the ability to opt out of these new uses. If you are concerned about how your information is used, you should check back at our Web site periodically.
+### Ads
 
-Upon request we provide site visitors with access to all information [including proprietary information] that we maintain about them.
+Ads appearing on any of our websites may be delivered to users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This Privacy Policy covers the use of cookies by HealthierWayOfLife and does not cover the use of cookies by any advertisers.
 
-Consumers can access this information by e-mail us at the above address, write to us at the above address, writing to us at the above address.
+### Privacy Policy Changes
 
-Consumers can have this information corrected by sending us e-mail at the above address, calling us at the above telephone number, writing to us at the above address.
-
-If you feel that this site is not following its stated information policy, you may [contact us](https://web.archive.org/contact-us.htm) at the above addresses or phone number.
+Although most changes are likely to be minor, HealthierWayOfLife may change its Privacy Policy from time to time, and in HealthierWayOfLife sole discretion. HealthierWayOfLife encourages visitors to frequently check this page for any changes to its Privacy Policy. If you have a HealthierWayOfLife.com account, you might also receive an alert informing you of these changes. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.
