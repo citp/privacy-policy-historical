@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the azalead.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607222729id_/http%3A//azalead.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the azalead.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207122434id_/http%3A//azalead.com/privacy) for the most accurate reproduction.*
 
-# Privacy - Azalead - Sales Acceleration Software
+# Privacy - Azalead - Account Based Marketing Software
 
 ### Collection of Information
 
@@ -89,11 +89,11 @@ Your information is stored on our servers located in the United States. We treat
 
 ### Anti-Abuse
 
-If you suspect a client of abusing our services, please contact us at abuse@azalead.com. All complaints are investigated, and you will receive a response on the action we will take to resolve the issue.
+If you suspect a client of abusing our services, please contact us at abuseazalead.com. All complaints are investigated, and you will receive a response on the action we will take to resolve the issue.
 
 ### Partners
 
-Azalead has aligned with recognized leaders in the digital and direct marketing industry and hopes to influence how practices are shaped in the future. Please contact us at support@azalead.com to learn more.
+Azalead has aligned with recognized leaders in the digital and direct marketing industry and hopes to influence how practices are shaped in the future. Please contact us at supportazalead.com to learn more.
 
 ### Changes
 
