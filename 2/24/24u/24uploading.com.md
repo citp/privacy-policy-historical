@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the 24uploading.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607194216id_/http%3A//24uploading.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 24uploading.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207101827id_/http%3A//24uploading.com/privacy.html) for the most accurate reproduction.*
 
-# 24Uploading.com - Easy way to share your files
+# 24Uploading.com - Dosya paylaЕџД±mД±nД±n en kolay yolu
 
 * **Personal identification information**
 
@@ -42,7 +42,7 @@ Ads appearing on our site may be delivered to Users by advertising partners, who
 
 * **Your acceptance of these terms**
 
-By using this Site, you signify your acceptance of this policy and [terms of service](https://web.archive.org/web/20150607194216id_/http%3A//24uploading.com/tos.html). If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes. 
+By using this Site, you signify your acceptance of this policy and [terms of service](https://web.archive.org/web/20151207101827id_/http%3A//24uploading.com/tos.html). If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes. 
 
 * **I still have questions, what should I do?**
 
