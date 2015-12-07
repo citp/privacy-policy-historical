@@ -1,6 +1,12 @@
-> *The following text is extracted and transformed from the webanalyticsassociation.org privacy policy that was archived on 2014-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140415063105id_/http%3A//www.digitalanalyticsassociation.org/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webanalyticsassociation.org privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207165439id_/http%3A//www.digitalanalyticsassociation.org/privacypolicy) for the most accurate reproduction.*
 
 # Digital Analytics Association
+
+**Copyright**
+
+Digital Analytics Association (“DAA”) maintains its website as a service to the Internet community. Access to and use of digitalanalyticsassociation.org is subject to the terms and conditions set forth herein and all applicable laws. DAA may revise these terms and conditions from time to time by updating this posting.
+
+This site and all of its contents including, but not limited to, all text and images (“content”) are owned and copyrighted by DAA or others with all rights reserved unless otherwise noted. The content, without the express written permission of DAA or the rightful owner, may not be distributed, downloaded, modified, edited, reused, reproduced, transmitted, performed, displayed or otherwise used by any mechanical or electronic means, except as provided herein. 
 
 **Privacy Policy**
 
@@ -12,7 +18,7 @@ Your privacy is important to the Digital Analytics Inc. (“DAA”) and its onli
 
   **Sites Covered by this Privacy Policy   **
 
-  This Privacy Policy applies to the DAA website (the “site” or the “sites”) located at **[INSERT URL(S)]**.
+  This Privacy Policy applies to the DAA website (the “site” or the “sites”) located at http://www.digitalanalyticsassociation.org/privacypolicy.
 
   **Changes to this Privacy Policy**
 
