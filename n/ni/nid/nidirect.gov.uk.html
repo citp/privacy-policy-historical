@@ -1,12 +1,12 @@
-<!--The following is the downloaded HTML source of the nidirect.gov.uk privacy policy that was archived on 2015-06-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150627050006id_/http%3A//www.nidirect.gov.uk/index/help/privacy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the nidirect.gov.uk privacy policy that was archived on 2015-12-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151207131405id_/http%3A//www.nidirect.gov.uk/index/help/privacy.htm) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html dir="ltr" xml:lang="en" lang="en" xmlns="http://www.w3.org/1999/xhtml"><!--<![endif]--><head>
 <base href="http://www.nidirect.gov.uk/">
 
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
 <script id="twitter-wjs" src="https://platform.twitter.com/widgets.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="v2.0.0.3c/smswitch.js"></script>
-<!--713_2--><!--id:43165-->
+<!--713_1--><!--id:43165-->
 <title>Your privacy | nidirect</title>
 <meta name="section" content="nontheme">
 <meta name="wt.cg_n" content="Help">
@@ -15,6 +15,7 @@
 <meta name="DCS.dcsuri" content="/privacy">
 <meta name="verify-v1" content="EwoWAueJT+ke/4bvBt26H0In2nY6hb/kZoQWRSjfszY=">
 <meta name="y_key" content="2ba7ea072686bc05">
+
 
 <!-- ######### E-GOVERNMENT METADATA START ######### -->
 
@@ -80,7 +81,7 @@
 <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
 <link rel="apple-touch-icon" href="favicon.ico">
 
-<link rel="stylesheet" href="2.0.5.76/nid-site-wide-v2.1.css" type="text/css" media="screen, projection">
+<link rel="stylesheet" href="2.0.5.77/nid-site-wide-v2.1.css" type="text/css" media="screen, projection">
 <link rel="stylesheet" href="v1.0.0.1a/dummy.css" type="text/css" media="screen, projection">
 <link rel="stylesheet" href="v1.0.0.8/print.css" type="text/css" media="print">
 
@@ -110,8 +111,62 @@
 <script type="text/javascript" src="v0001/jquery.cookie.js"></script>
 <script type="text/javascript" src="v1.0.1.5/jquery.ticker.min.js"></script>
 <script type="text/javascript" src="v2.0.8.32.a/nid-global-v2.js"></script>
-<script type="text/javascript" src="v0001/dummy.js"></script>
+<script type="text/javascript" src="jquery.autocomplete.js"></script>
+<script type="text/javascript">
+var autocomplete = {};
 
+autocomplete.init = function (settings) {
+
+    var siteIdParam = $('input#siteId').val();
+
+    $('#bannerqt').autocomplete({
+        serviceUrl: settings.serviceUrl,
+        width: 448,
+        minChars: 3,
+        deferRequestBy: 200,
+        preventBadQueries: false,
+        params: { siteName: settings.siteName },
+        replaceQueryWithSuggestion: false,
+		beforeRender : function(container) {
+		    $(".autocomplete-suggestions").prepend("<p>Press Enter to search or try these suggestions &hellip;</p>");
+		},
+        onSelect: function (suggestion) {
+            return false;
+        },
+        onSearchStart: function (params) {
+            params["titleOnly"] = "false";
+            return;
+        },
+        triggerSelectOnValidInput: false,
+        formatResult: function (suggestion, currentValue) {
+
+            var value = ""
+
+            if (suggestion.data.emphasiseQueryText) {
+                var pattern = '(' + currentValue.replace(this.reEscape, '\\$1') + ')';
+                value = suggestion.value.replace(new RegExp(pattern, 'gi'), '<strong>$1<\/strong>');
+            }
+            else {
+                value = suggestion.value;
+            }
+
+            if (suggestion.data.link == "" || suggestion.data.link == undefined) {
+                return value;
+            }
+            else {
+                if (suggestion.data.isFavourite) {
+                    return '<div id="fav"><a href="' + suggestion.data.link + '">' + value + '<\/a><\/br>' + suggestion.data.shortDescription + '<\/div>';
+                }
+                else {
+                    return '<a href="' + suggestion.data.link + '">' + value + '<\/a>';
+                }
+            }
+        }
+    });
+}
+
+
+</script>
 
 <script type="text/javascript" src="v1.0.0.3/dummy.js"></script>
 
@@ -152,21 +207,28 @@
     	<div id="logo" class="col">
 			<a href="index.htm"><img src="v1-nidirect-white-logo.png" width="173" height="57" alt="n i direct government services"></a>
     	</div>
-        <div id="qsearch" class="col">
+        <div id="qsearch" class="col"><!--yo-->
 			
-			<form action="index/search.lsim" enctype="application/x-www-form-urlencoded" method="get">
-					<input type="hidden" name="sr" value="0">
-		        	<input type="hidden" name="nh" value="10">
-		        	<input type="hidden" name="cs" value="iso-8859-1">
-		        	<input type="hidden" name="sc" value="nidirect-cms">  
-		        	<input type="hidden" name="sm" value="0">
-					<input type="hidden" name="mt" value="1">
-					<input type="hidden" name="ha" value="nidirect-cms">
-					<input type="hidden" name="cat" value="Banner">
+			<form id="searchform" action="http://search.nics.gov.uk/search" enctype="application/x-www-form-urlencoded" method="get">
+					<input type="hidden" name="siteName" value="nidirect">
 					<label for="bannerqt" accesskey="4">Search nidirect</label>
-					<input id="bannerqt" class="qt" name="qt" value="">
+					<input id="bannerqt" class="qt" name="qs" value="">
 					<input class="qs" type="submit" value="Go">
 			</form>
+		<script type="text/javascript">
+		    $(function () {
+	
+		        var settings = { serviceUrl: '/nidirectstg9.8/idoluiexpandquery', siteName: '' };
+	
+		        autocomplete.init(settings);
+	
+		        $('#searchform').submit(function () {
+		            if ($('#bannerqt').val().length == 0) { return false; }
+		        });
+		    });
+	
+	    	</script>
+
 		</div>
 		<div id="alt-channels" class="col clearfix">
 					
@@ -388,6 +450,10 @@
 				<li><a href="index/help/scams-relating-to-nidirect.htm">Scams relating to nidirect</a></li>
 				
 		
+				
+				<li><a href="index/help/social-media-house-rules.htm">Social media 'house rules'</a></li>
+				
+		
 				<li><span title="Page you are currently viewing">Terms and Conditions</span></li>
 				
 		
@@ -411,19 +477,19 @@
 			<ul id="js-news" class="js-hidden"> 
 				<!-- news for theme: null-->
 					<li>
-						<a href="news-jun15-fire-and-summer-safety-advice">Fire and summer safety advice</a>
+						<a href="news-nov15-emergency-payment-scheme-for-flooding">Emergency payment scheme for flooding</a>
 					</li>
 
 					<li>
-						<a href="news-jun15-health-benefits-of-breastfeeding-babies">Health benefits of breastfeeding babies</a>
+						<a href="news-nov15-preparing-for-and-dealing-with-flooding">Preparing for and dealing with flooding</a>
 					</li>
 
 					<li>
-						<a href="news-jun15-child-safety-on-farms-during-summer-months">Child safety on farms during summer months</a>
+						<a href="news-nov15-high-winds-warning-power-and-travel-advice">High winds warning - power and travel advice</a>
 					</li>
 
 					<li>
-						<a href="news-jun15-applications-open-for-animation-academy">Applications open for animation academy</a>
+						<a href="news-dec15-choose-well-and-get-the-right-healthcare">Choose well and get the right healthcare</a>
 					</li>
 
 			</ul>
@@ -531,7 +597,7 @@ placed on this page. </p>
 	<div class="sidepod nav">
 		<h2><a href="index/help.htm">Help</a></h2>
 		<ul>
-<li><a href="index/help/accessibility.htm">Accessibility </a></li><li><a href="index/help/about-nidirect-info.htm">About nidirect</a></li><li><span>Privacy</span></li><li><a href="index/help/cookies.htm">Cookies</a></li><li><a href="index/help/help-with-pdf-files.htm">Help with PDF files </a></li><li><a href="index/help/beta-on-nidirect.htm">Beta on nidirect</a></li><li><a href="index/help/scams-relating-to-nidirect.htm">Scams relating to nidirect</a></li><li><a href="index/help/terms-and-conditions.htm">Terms and Conditions</a></li><li><a href="index/help/alternative-languages.htm">Alternative Languages</a></li>
+<li><a href="index/help/accessibility.htm">Accessibility </a></li><li><a href="index/help/about-nidirect-info.htm">About nidirect</a></li><li><span>Privacy</span></li><li><a href="index/help/cookies.htm">Cookies</a></li><li><a href="index/help/help-with-pdf-files.htm">Help with PDF files </a></li><li><a href="index/help/beta-on-nidirect.htm">Beta on nidirect</a></li><li><a href="index/help/scams-relating-to-nidirect.htm">Scams relating to nidirect</a></li><li><a href="index/help/social-media-house-rules.htm">Social media 'house rules'</a></li><li><a href="index/help/terms-and-conditions.htm">Terms and Conditions</a></li><li><a href="index/help/alternative-languages.htm">Alternative Languages</a></li>
 		</ul>
 	</div>
 
@@ -547,7 +613,7 @@ placed on this page. </p>
 	<ol><li><a href="index/book-your-mot-test.htm">Book your MOT test</a></li>
 <li><a href="index/information-and-services/motoring/mot-and-vehicle-testing/about-the-mot-scheme/how-do-i-book-an-mot-vehicle-test-appointment.htm">How do I book an MOT/Vehicle Test Appointment?</a></li>
 <li><a href="index/getting-vehicle-tax-or-declaring-a-vehicle-off-the-road.htm">Getting vehicle tax or declaring a vehicle off the road</a></li>
-<li><a href="index/information-and-services/pensions-and-retirement-planning/pensions-and-retirement/state-pension/changes-to-the-state-pension/calculating-your-state-pension-age.htm">Calculating your State Pension age</a></li>
+<li><a href="index/calculating-your-state-pension-age.htm">Calculating your State Pension age</a></li>
 <li><a href="index/information-and-services/property-and-housing/rates/how-you-can-pay-your-rate-bill/pay-your-rates-online.htm">Pay your rates online</a></li></ol>
 
 	
@@ -582,19 +648,29 @@ placed on this page. </p>
 		</div>
 		<div id="footer-qsearch" class="col">
 			
-			<form action="index/search.lsim" enctype="application/x-www-form-urlencoded" method="get">
-				<input type="hidden" name="sr" value="0">
-	        	<input type="hidden" name="nh" value="10">
-	        	<input type="hidden" name="cs" value="iso-8859-1">
-	        	<input type="hidden" name="sc" value="">  
-	        	<input type="hidden" name="sm" value="0">
-				<input type="hidden" name="mt" value="1">
-				<input type="hidden" name="ha" value="nidirect-cms">
-				<input type="hidden" name="cat" value="Footer">
-				<label for="footerqt">Search nidirect …</label>
-				<input id="footerqt" class="qt" name="qt" value="">
-				<input class="qs" type="submit" value="Go">
+			
+			
+			<form id="footersearchform" action="http://search.nics.gov.uk/search" enctype="application/x-www-form-urlencoded" method="get">
+					<input type="hidden" name="siteName" value="nidirect">
+					<label for="footerqt">Search nidirect …</label>
+					<input id="footerqt" class="qt" name="qs" value="">
+					<input class="qs" type="submit" value="Go">
 			</form>
+			<script type="text/javascript">
+	
+		    $(function () {
+	
+		        var settings = { serviceUrl: '/nidirectstg9.8/idoluiexpandquery', siteName: '' };
+	
+		        autocomplete.init(settings);
+	
+		        $('#footersearchform').submit(function () {
+		            if ($('#footerqt').val().length == 0) { return false; }
+		        });
+		    });
+	
+	    	</script>
+
 		</div>
 		<div class="clear"></div>
 		<div id="footer-nav" class="container_900">
