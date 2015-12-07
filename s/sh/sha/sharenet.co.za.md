@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sharenet.co.za privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607234554id_/http%3A//www.sharenet.co.za/v3/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sharenet.co.za privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207015506id_/http%3A//www.sharenet.co.za/v3/privacy.php) for the most accurate reproduction.*
 
 # SHARENET - Your Key To Investing
 
@@ -30,7 +30,7 @@ Sharenet uses IP addresses to analyze trends, track visitor's movements, and gat
 
 Sharenet takes every precaution to protect our users' information. We use multiple levels of security starting with SSL on your browser and ending with a trusted database and operating system.
 
-[See our Security Notice](https://web.archive.org/web/20150607234554id_/http%3A//www.sharenet.co.za/v3/security.php). 
+[See our Security Notice](https://web.archive.org/web/20151207015506id_/http%3A//www.sharenet.co.za/v3/security.php). 
 
 **Notification of Changes**
 
