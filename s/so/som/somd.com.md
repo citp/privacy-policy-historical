@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the somd.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609002031id_/http%3A//www.somd.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the somd.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207224206id_/http%3A//somd.com/privacy) for the most accurate reproduction.*
 
 # Our View on Reader Privacy - Official Privacy Statement for somd.com
 
@@ -11,23 +11,19 @@ Virtually Everything, Inc. is the sole owner of the information collected on thi
 
 A cookie is a piece of data that is stored on your hard drive.  While cookies have often received a bad rap, they are actually a harmless mechanism.  They are necessary for the proper operation of many websites. While our site can request a cookie to be created, or request that an existing cookie we created be read, the access to cookie's on your computer is strictly controlled by your web browser.  We can not read cookies that were created by other websites and vice versa.
 
-If you configure your system to reject our cookies, you may still use our site.  However, your use will be limited in some areas.  For example, you will not be able to post in the Community Forums. 
+If you configure your system to reject our cookies, you may still use our site.  However, your use will be limited in some areas.  For example, you will not be able to post in the Community Forums or the classifieds. 
 
-Some of our business partners use cookies on our site (for example, advertisers).  However, we have no access to or control over these cookies.
+Some of our business partners use cookies on our site (for example, Google ads).  However, we have no access to or control over these cookies.
 
   
 **Log Files**
 
-We use IP addresses to analyze trends, administer the site, track user’s movement, and gather broad demographic information for aggregate use.  We also use IP addresses to track down abusers of the site, i.e. people who post abusive messages in the forums or announcements.  In order to prevent habitual abuse, we may forward a complaint to the owner of the network that the abuser is using.  At a minimum, the complaint will include the abusive message(s) in question along with the originating IP address and timestamp.
+We use IP addresses to analyze user trends, administer the site, and gather broad demographic information for aggregate use.  We also use IP addresses to track down abusers of the site, i.e. people who post abusive messages in the forums or announcements.  In order to prevent habitual abuse, we may forward a complaint to the owner of the network that the abuser is using.  At a minimum, the complaint will include the abusive message(s) in question along with the originating IP address and timestamp.
 
   
-**Sharing**
+**Data Sharing**
 
-We will share aggregated demographic information with our partners and advertisers. This is not linked to any personal information that can identify any individual person.
-
-We use a credit card processing company to bill users for services. To our knowledge, these companies do not retain, share, store or use personally identifiable information for any secondary purposes.
-
-We partner with other parties to provide specific services. Each service will provide it's own privacy policy which may or may not differ from ours.
+somd.com does not directly share or sell any collected data with any third party. somd.com does use third-party services on our pages such as PayPal, Google ads, and Google Analytics. These third-party services may collect user data which is controlled via their privacy policy.
 
   
 **Links**
@@ -37,7 +33,7 @@ This web site contains links to other sites. Please be aware that we [Virtually 
   
 **Newsletters**
 
-If a user wishes to [subscribe to one or more of our newsletters](https://web.archive.org/mailmgr/), we may ask for contact information such as name, address and email address.  We use a double opt-in confirmation process to ensure that the only people who receive our mailings are ones who specifically requested it.  Once you subscribe to a newsletter, our system will send an email to the address you used to register.  You must click on the validation link contained in the confirmation email in order to validate your registration.
+If a user wishes to [subscribe to one or more of our newsletters](http://mail.somd.com/), we may ask for contact information such as name, address and email address.  We use a double opt-in confirmation process to ensure that the only people who receive our mailings are ones who specifically requested it.  Once you subscribe to a newsletter, our system will send an email to the address you used to register.  You must click on the validation link contained in the confirmation email in order to validate your registration.
 
 We do not sell, rent, or share our mailing list with any third party organization.  We only send newsletters to people who have requested to be on our mailing list(s).  Any reader can add or remove their name from the respective mailing list at any time by clicking on the unsubscribe link that will be included in each mailing.
 
@@ -49,11 +45,9 @@ If you have removed your address from the mailing list and still continue to rec
 From time-to-time our site requests information from users via surveys or contests.  Participation in these surveys or contests is completely voluntary and the user therefore has a choice whether or not to disclose this information.  Information requested may include contact information (such as name and shipping address), and demographic information (such as zip code, age level).  Contact information will be used to notify the winners and award prizes.  Survey information will be used for purposes of entertainment, or improving the use and satisfaction of this site.
 
   
-**Security**
+**Security**. 
 
-This website takes every precaution to protect our users’ information.  When users submit sensitive information via the website, your information is protected both online and off-line. 
-
-We do everything in our power to protect user-information off-line.  All of our users’ information, is restricted in our offices.  Only employees who need the information to perform a specific job (for example, our billing clerk or a customer service representative) are granted access to personally identifiable information.  Our employees must use password-protected screen-savers when they leave their desk.  When they return, they must re-enter their password to re-gain access to your information.  Furthermore, ALL employees are kept up-to-date on our security and privacy practices.  Every quarter, as well as any time new policies are added, our employees are notified and/or reminded about the importance we place on privacy, and what they can do to ensure our customers’ information is protected.  Finally, the servers that we store personally identifiable information on are kept in a secure environment.
+We exercise best practices to protect the limited user information that we do collect. All of our public servers are located in a secure data center which is operated and managed by a third party company. Access to data is limited to employees in our company who have a need to know.
 
 **How We May Contact You**
 
@@ -70,7 +64,7 @@ Whenever you take certain actions on our system, you may receive an automated em
 
 _Account Service:_
 
-Once you register for any type of account with us-such as forums, classifieds or calendar-we may contact you in regards to your account or to provide information about a new system feature or upgrade.  We will **not** contact you for the sole reason of marketing a third-party service or product.
+Once you register for any type of account with us -- such as forums, classifieds or calendar -- we may contact you in regards to your account or to provide information about a new system feature or upgrade.  We will **not** contact you for the sole reason of marketing a third-party service or product.
 
 _Information Update Request:_
 
@@ -90,11 +84,7 @@ We can not protect your address if you post it in plain text.  If you post your
 
 
 
-**Unsolicited Feedback**
+**Monitoring of User Communications**
 
-Any unsolicited email or [feedback](https://web.archive.org/feedback.htm) that you send us becomes our property.  We may use it in any manner we see fit including publishing it on-line.
-
-  
-**Notification of Changes**
-
-If we decide to change our privacy policy, we will post those changes on our Homepage so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.  If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users by way of an email.  Users will have a choice as to whether or not we use their information in this different manner. We will use information in accordance with the privacy policy under which the information was collected.
+Throughout somd.com we provide users with facilities they can use to contact other users, advertisers, or local organizations, i.e. online contact forms. Our staff randomly monitors these communications in order to prevent spam, scams, and other potential abuse. We will not share the communications with any third party. If you prefer not to have your communications monitored in this manner, please do not use the online contact forms and instead use any other direct means of contact that may be provided, such as a phone number or direct email address.  
+ 
