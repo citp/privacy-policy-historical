@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the armaholic.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608212852id_/http%3A//www.armaholic.com/page.php%3Fid%3D37) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the armaholic.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207232553id_/http%3A//www.armaholic.com/page.php%3Fid%3D37) for the most accurate reproduction.*
 
 # Privacy Policy - Armaholic
 
@@ -24,7 +24,8 @@ Google Adsense
 Intergi entertainment  
 BuySellAds.com Inc.  
 App Nexus  
-Adk2
+Adk2  
+sovrn.com
 
 These third-party ad servers or ad networks use technology to the advertisements and links that appear on [www.armaholic.com](http://www.armaholic.com/) send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see. 
 
