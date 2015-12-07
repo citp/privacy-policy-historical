@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jsdo.it privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611035251id_/http%3A//www.kayac.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jsdo.it privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207141139id_/http%3A//www.kayac.com/en/privacy) for the most accurate reproduction.*
 
 # Privacy policy｜KAYAC Inc.
 
