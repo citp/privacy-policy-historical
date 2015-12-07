@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the accountingweb.co.uk privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608114834id_/http%3A//www.accountingweb.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the accountingweb.co.uk privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207133011id_/http%3A//www.accountingweb.co.uk/privacy) for the most accurate reproduction.*
 
 # Privacy policy | AccountingWEB
 
@@ -170,6 +170,23 @@ We use this service to offer personalisation of content and advertising
 
 
 For more details on Cxense please visit their website **[http://www.cxense.com](http://www.cxense.com/)**
+
+  * **Google DoubleClick for publishers (DFP)**  
+We use this this service to bring advertiser messages to our audience.
+
+
+  * _The service:_
+    * DFP is an advertisement software as a service application run by Google. We use DFP to serve third-party advertisements to our audience. These third-party advertiser can drop cookies on to your browser. As site owners we do not directly control these cookies. You can find more information about the third-party advertising cookies on your browser from our site and others by visiting  **[Network Advertising Initiative](http://www.networkadvertising.org/choices/)**  (NAI). If you are based in the European Union and would like to learn more about how advertisers use these types of cookies or to choose not to receive them, please visit  **[www.youronlinechoices.eu](http://www.youronlinechoices.eu/)**. If you are based in the United States and would like to learn more, please visit  **[www.aboutads.info/choices](http://www.aboutads.info/choices/)**.
+
+
+  * _Related links:_
+    * **[Google Privacy Policy ](http://www.google.com/intl/en/policies/privacy/)**  
+This policy will help you understand what data Google collects, why they collect it and what they do with it
+
+
+  * **[Google Partner Privacy Policy](http://www.google.com/intl/en/policies/privacy/partners/)**  
+This Policy gives you details on how Google uses your data and how you can control what you send to them, when using third party sites such as ours.
+
 
   * **Google Analytics**
 
