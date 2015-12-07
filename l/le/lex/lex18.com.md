@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lex18.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627165418id_/http%3A//www.lex18.com/category/292134/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lex18.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207102134id_/http%3A//www.lex18.com/category/292134/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - LEX18.com | Continuous News and StormTracker Weather
 
