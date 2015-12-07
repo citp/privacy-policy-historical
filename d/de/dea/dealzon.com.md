@@ -1,18 +1,6 @@
-> *The following text is extracted and transformed from the dealzon.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607175410id_/http%3A//www.dealzon.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dealzon.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207091946id_/http%3A//www.dealzon.com/privacy) for the most accurate reproduction.*
 
 # Dealzon Privacy Policy
-
-Get hand-crafted deals delivered to you daily!
-
-We find the deals so you don't have to.
-
-  
-
-
-your email will never be shared or sold
-
-  
-
 
 Loading....
 
