@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the titanium.free.fr privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607033927id_/http%3A//www.titanium.free.fr/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the titanium.free.fr privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207021423id_/http%3A//www.titanium.free.fr/privacy.html) for the most accurate reproduction.*
 
 # Titanium Software - Home
 
@@ -22,8 +22,10 @@ The software provided on this website contains a Software License Agreement whic
 
 This website does not automatically collect any information about visitors.
 
-_**Email**_  
-Many web pages on the Titanium Software website contain a "Contact" button, which activates your email software and invites you to send your comments to a specific mailbox. We may keep some correspondence indefinitely. You may examine any information that we store about you by sending an email request. You may request that any email sent to Titanium Software (which is still in our possession) be deleted. Any disputes over Personal Data Collection issues will be handled by our Controller.  
+_**Email**_
+
+Many webpages on the Titanium Software website contain a "Contact" button, which activates your email software and invites you to send your comments to a specific mailbox. We may keep some correspondence indefinitely. You may examine any information that we store about you by sending an email request. You may request that any email sent to Titanium Software (which is still in our possession) be deleted. Any disputes over Personal Data Collection issues will be handled by our Controller.
+
 If you send personal email to Titanium Software, it is assumed that you wish to receive an email response unless you note otherwise. You will only be contacted regarding the content of your email and not for any other purpose.
 
 _**Advertising and additional data collection**_  
