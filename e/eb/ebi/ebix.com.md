@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ebix.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607162318id_/http%3A//www.ebix.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebix.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207131802id_/http%3A//www.ebix.com/privacy) for the most accurate reproduction.*
 
 # None
 
