@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cmo.com.au privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607130355id_/http%3A//www.cmo.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cmo.com.au privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207015506id_/http%3A//www.cmo.com.au/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - CMO Australia
 
@@ -135,41 +135,3 @@ We are committed to maintaining IDG Australia as the foremost IT industry publis
 For more information about privacy issues in Australia and protecting your privacy, visit [http://www.privacy.gov.au](http://www.privacy.gov.au/).
 
 **LAST UPDATED** : March 3, 2014
-
-[](http://www.cmocouncil.org/) [](http://www.adma.com.au/)
-
-  1. [How Hello bank! turned digital banking into a consumer lifestyle choice](https://web.archive.org/article/576774/how-hello-bank-turned-digital-banking-into-consumer-lifestyle-choice/)
-  2. [Don Peppers: Forgo short-term profit to build customer trust ](https://web.archive.org/article/576539/don-peppers-why-humanity-honesty-vital-customer-engagement/)
-  3. [Blippar: Augmented reality is bringing customer engagement to life](https://web.archive.org/article/576417/blippar-augmented-reality-bringing-customer-engagement-life/)
-  4. [Aussie marketers behind US, UK on data and marketing technology sophistication](https://web.archive.org/article/576745/aussie-marketers-behind-us-eu-data-marketing-technology-sophistication/)
-  5. [Corporate Travel Management's CTMO on digital & marketing](https://web.archive.org/article/576172/how-corporate-travel-market-ctmo-leads-marketing-digital-innovation/)
-
-[Tweets by @CMOAustralia](https://twitter.com/CMOAustralia) [](https://web.archive.org/whitepaper/372491/building-big-data-into-business-delivery/?type=taxonomy&arg=1&location=featured_rhs_highlighted)
-
-### [Building Big Data into business delivery](https://web.archive.org/whitepaper/372491/building-big-data-into-business-delivery/?type=taxonomy&arg=1&location=featured_rhs_highlighted)
-
-This research report, produced by CIO Custom Solutions Group in association with EMC – examines ...
-
-[](https://web.archive.org/whitepaper/372573/activate-analytics-to-optimise-the-digital-customer-experience/?type=taxonomy&arg=1&location=featured_rhs_highlighted)
-
-### [Activate analytics to optimise the digital customer experience](https://web.archive.org/whitepaper/372573/activate-analytics-to-optimise-the-digital-customer-experience/?type=taxonomy&arg=1&location=featured_rhs_highlighted)
-
-Top Performing organisations rate the digital customer experience as a key competitive advantage. A compelling, ...
-
-[](https://web.archive.org/whitepaper/372427/the-rise-of-the-marketer-driving-engagement-experience-and-revenue/?type=taxonomy&arg=1&location=featured_rhs_highlighted)
-
-### [The rise of the marketer: Driving engagement, experience and ...](https://web.archive.org/whitepaper/372427/the-rise-of-the-marketer-driving-engagement-experience-and-revenue/?type=taxonomy&arg=1&location=featured_rhs_highlighted)
-
-Marketers have seen their jobs transformed over the past ten years. The transformation is happening ...
-
-### [Is media agency transparency a global issue or a local one?](https://web.archive.org/blog/art-science/2015/06/02/media-agency-transparency-global-issue-or-local-one/)
-
-The recent controversy around buying irregularities at MediaCom Sydney left many convinced it was a one-off incident, and that we should all get back to business as usual. This is exactly what the media agencies and their holding company owners would have you believe. 
-
-### [Taking issue with ‘Branzac’ advertising](https://web.archive.org/blog/customer-relations/2015/05/27/taking-issue-branzac-advertising/)
-
-Commemoration of the 100th anniversary of the Anzac landing at Gallipoli has not only been a time to ponder a tragedy that affected too many Australian and New Zealander families, it also shone the headlights on the whole marketing profession. 
-
-### [Data privacy, ethics, and the moving goal posts](https://web.archive.org/blog/big-data-delivery/2015/05/13/data-privacy-ethics-and-moving-goal-posts/)
-
-Customers are becoming increasingly concerned with how businesses use their data. This has meant organisations need to take extra steps to allay the concerns their customers have with what data they are collecting, how is it stored, and how is it then used. 
