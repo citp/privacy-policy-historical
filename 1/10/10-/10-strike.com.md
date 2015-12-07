@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 10-strike.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608122557id_/http%3A//www.10-strike.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 10-strike.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207133215id_/http%3A//www.10-strike.com/privacy.shtml) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -25,5 +25,5 @@ All products
 [LANState](https://web.archive.org/lanstate/ "10-Strike LANState")  
 Monitor and Manage Network Hosts on a Visual Map, Create Network Maps 
 
-[SearchMyDiscs](https://web.archive.org/searchmydiscs/ "10-Strike SearchMyDiscs")  
-Catalog CD/DVD Discs and external HDDs, Create the File Database 
+[Network Scanner](https://web.archive.org/network-scanner/ "10-Strike Network Scanner") ( **NEW!** )  
+Free Program for Scanning Networks, Hosts, and TCP Ports 
