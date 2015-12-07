@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the sportpursuit.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609044319id_/http%3A//www.sportpursuit.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sportpursuit.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207131742id_/http%3A//www.sportpursuit.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | SportPursuit.com
 
-1\. At SportPursuit we are dedicated to safeguarding and preserving your privacy when visiting www.sportpursuit.co.uk (“the Website”) or communicating electronically with us.  This Privacy Policy, together with our [Terms & Conditions](https://www.sportpursuit.com/index.php/termsofuse/), explains what happens to any personal data that you provide to us, or that we collect from you when you are on the Website.  We do update this Policy from time to time so please do return and review this Policy regularly.
+1\. At SportPursuit we are dedicated to safeguarding and preserving your privacy when visiting www.sportpursuit.co.uk (“the Website”) or communicating electronically with us.  This Privacy Policy, together with our [Terms & Conditions](http://www.sportpursuit.com/terms-conditions/), explains what happens to any personal data that you provide to us, or that we collect from you when you are on the Website.  We do update this Policy from time to time so please do return and review this Policy regularly.
 
 2\. We will treat all your Personal Information as confidential (although we reserve the right to disclose this information in the circumstances set out below).  We will keep it on a secure server and we will fully comply with all applicable UK Data Protection and consumer legislation from time to time in place.
 
