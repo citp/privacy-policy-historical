@@ -1,18 +1,18 @@
-> *The following text is extracted and transformed from the aucklandairport.co.nz privacy policy that was archived on 2014-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141031160500id_/http%3A//www.aucklandairport.co.nz/Corporate/AboutUs/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aucklandairport.co.nz privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207143025id_/http%3A//www.aucklandairport.co.nz/Corporate/AboutUs/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
-# PrivacyPolicy - website
+# PrivacyPolicy
 
 **
 
 ### Auckland Airport Privacy Policy for Online Services
 
-Auckland Airport Privacy Policy for Online Services  **
+**
 
 Auckland International Airport Limited ("Auckland Airport", "we", "us", "our") is committed to respecting your privacy.  We will always collect, store, use and disclose your personal information in accordance with the Privacy Act 1993. However, we have also put in place the following Privacy Policy to protect your personal information when you submit, or we collect, that information – including via our Online Services.
 
 Our "Online Services" include:
 
-services and information offered on, provided by and/or booked through any of our websites including [www.aucklandairport.co.nz](http://www.aucklandairport.co.nz/) and [www.tripguide.co.nz](http://www.tripguide.co.nz/) ("Websites");
+services and information offered on, provided by and/or booked through any of our websites including [www.aucklandairport.co.nz](https://web.archive.org/) and [www.tripguide.co.nz](http://www.tripguide.co.nz/) ("Websites");
 
   * mobile operating applications including applications for smart phone, tablet and other handheld devices ("Apps");
   * social media pages, including  Facebook, Twitter, Youtube and Instagram; and
@@ -22,7 +22,7 @@ services and information offered on, provided by and/or booked through any of ou
 
 By providing us with personal information, you consent to our collection, storage, use and disclosure of Personal information in accordance with this Privacy Policy.  
 
-This Privacy Policy is subject to and should be read in conjunction with our [Acceptable Use Policy](http://www.aucklandairport.co.nz/Corporate/AboutUs/Acceptable-Use-Policy.aspx) (when using or interacting with any of our Online Services) and any other specific terms and conditions you agree to when using or signing up to other Online Services we offer you from time to time.
+This Privacy Policy is subject to and should be read in conjunction with our [Acceptable Use Policy](https://web.archive.org/Corporate/AboutUs/Acceptable-Use-Policy.aspx) (when using or interacting with any of our Online Services) and any other specific terms and conditions you agree to when using or signing up to other Online Services we offer you from time to time.
 
  In this policy, "personal information" means information about an identifiable individual.     
 
@@ -53,7 +53,7 @@ If you receive email communications from us, we may also use email open and clic
 
 ####       2\. How do we use the personal information?
 
-We may use your personal information to process your transactions, to help us develop, improve, manage, administer and facilitate our services and business operations (including to provide the Online Services contemplated by our Acceptable Use Policy, to help us to develop our Online Services to be more available and user friendly to our customers, to administer your account, for safety and security issues, for our own internal purposes (such as risk management, staff training and billing), to conduct market research, and for any other use associated with such purposes or which you may authorise. 
+We may use your personal information to process your transactions, to help us develop, improve, manage, administer and facilitate our services and business operations (including to provide the Online Services contemplated by our Acceptable Use Policy, to help us to develop our Online Services to be more available and user friendly to our customers, to administer your account, for safety and security issues, for our own internal purposes (such as risk management, staff training and billing), to conduct market research, and for any other use associated with such purposes or which you may authorise.
 
 In addition, we may use your personal information to promote and market our products and services, or the products and services of others. However, we will not do this by email or text (except as part of an email that facilitates, completes or confirms a transaction with you) unless we have your express, inferred or deemed consent to do so. These emails and texts will always include an "unsubscribe" facility (for further details on how to unsubscribe see below).
 
@@ -81,7 +81,7 @@ Please be aware that communications over the internet, such as emails, are not s
 
 ####       5\. What about links to other websites?
 
-Our Online Services may contain links to other websites that are not under our control. These websites may use cookies. It is the responsibility of those third parties to collect appropriate consents from you in order to permit their own cookies (to the extent this is required by law) and to inform you about the cookies they use. You should check the privacy policy on all third party websites to ensure you are comfortable with third party cookies. We have no responsibility for linked websites, and provide them solely for your information and convenience. We specifically disclaim responsibility for their content, privacy practices and terms of use, and we make no endorsements, representations or warranties about their accuracy, content or thoroughness. Your disclosure of personal information to third party websites is at your own risk. 
+Our Online Services may contain links to other websites that are not under our control. These websites may use cookies. It is the responsibility of those third parties to collect appropriate consents from you in order to permit their own cookies (to the extent this is required by law) and to inform you about the cookies they use. You should check the privacy policy on all third party websites to ensure you are comfortable with third party cookies. We have no responsibility for linked websites, and provide them solely for your information and convenience. We specifically disclaim responsibility for their content, privacy practices and terms of use, and we make no endorsements, representations or warranties about their accuracy, content or thoroughness. Your disclosure of personal information to third party websites is at your own risk.
 
 ####       6\. Email, text and telephone communications
 
