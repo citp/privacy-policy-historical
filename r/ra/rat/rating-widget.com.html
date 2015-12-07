@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the rating-widget.com privacy policy that was archived on 2015-06-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150610050921id_/http%3A//rating-widget.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the rating-widget.com privacy policy that was archived on 2015-12-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151207094758id_/http%3A//rating-widget.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8"><script src="https://js-agent.newrelic.com/nr-632.min.js"></script><script type="text/javascript" async="" src="https://mc.yandex.ru/metrika/watch.js"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VwMHWFZaGwIIV1ZWBAk="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),u=c.length,f=i(a,o,r),d=0;u>d;d++)c[d].apply(f,n);return f}function a(t,e){u[t]=s(t).concat(e)}function s(t){return u[t]||[]}function c(){return n(e)}var u={};return{on:a,emit:e,create:c,listeners:s,_events:u}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:20,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(u){try{r("ierr",[u,(new Date).getTime(),!0])}catch(f){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(3),window.onerror=e;try{throw new Error}catch(u){"stack"in u&&(t(4),t(5),"addEventListener"in window&&t(1),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&t(2),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:8,3:3,4:7,5:6,6:21,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:21,2:22,ee:"QJf3ax",gos:"7eSDFh"}],6:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:22,2:21,ee:"QJf3ax"}],7:[function(t,e){function n(t,e,n){t[0]=o(t[0],"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:22,2:21,ee:"QJf3ax"}],8:[function(t,e){function n(){u.inPlace(this,p,"fn-")}function r(t,e){u.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),u=c(a),f=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),f.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(i){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,u.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:5,2:22,ee:"QJf3ax"}],9:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var a=t.responseType,u="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=n(u);if(f&&(r.rxSize=f),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(e.cat=d.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,o("xhr",[e,r,this.startTime])}}}function n(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,u=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=e,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,e){var r=this.metrics,o=t[0],i=this;if(r&&o){var u=n(o);u&&(r.txSize=u)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{a.emit("internal-error",[n])}catch(r){}}};for(var f=0;c>f;f++)e.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:10,3:8,4:5,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],10:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],11:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:20,2:21,handle:"D5DuLP"}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info,e=u.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){s(d,function(e,n){e in t||(t[e]=n)});var n="https"===f.split(":")[0]||t.sslForHttp;p.proto=n?"https://":"http://",a("mark",["onload",i()]);var r=u.createElement("script");r.src=p.proto+t.agent,e.parentNode.insertBefore(r,e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=(t(2),window),u=c.document,f=(""+location).split("?")[0],d={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-632.min.js"},p=e.exports={offset:i(),origin:f,features:{}};u.addEventListener?(u.addEventListener("DOMContentLoaded",o,!1),c.addEventListener("load",n,!1)):(u.attachEvent("onreadystatechange",r),c.attachEvent("onload",n)),a("mark",["firstbyte",i()])},{1:20,2:11,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],20:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],21:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],22:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,u;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){f([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return u=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,u],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,u(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,u="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,u?s+o:o,i,s))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){f([o,e,n,r])}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){f([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function f(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:21,ee:"QJf3ax"}]},{},["G9z0Bl",4,9]);</script>
@@ -15,21 +15,21 @@
 <meta property="og:url" content="http://rating-widget.com/privacy/">
 <link rel="canonical" href="http://rating-widget.com/privacy/">
 <title>Privacy Policy | RatingWidget</title>
-<link rel="stylesheet" type="text/css" href="//css.rating-widget.com/website/common.css?v=266">
-<link rel="stylesheet" type="text/css" href="//css.rating-widget.com/website/common-sass.css?v=266">
+<link rel="stylesheet" type="text/css" href="//css.rating-widget.com/website/common.css?v=268">
+<link rel="stylesheet" type="text/css" href="//css.rating-widget.com/website/common-sass.css?v=268">
 <link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Droid+Sans:400,700|Montserrat:700,400">
-<link rel="stylesheet" type="text/css" href="//css.rating-widget.com/website/pages/privacy.css?v=266">
+<link rel="stylesheet" type="text/css" href="//css.rating-widget.com/website/pages/privacy.css?v=268">
 <script src="//code.jquery.com/jquery-1.8.3.min.js" type="text/javascript"></script>
-<script src="//js.rating-widget.com/init.js?v=266" type="text/javascript"></script>
-<script src="//js.rating-widget.com/action.js?v=266" type="text/javascript"></script>
-<script src="//js.rating-widget.com/rw/page.js?v=266" type="text/javascript"></script>
-<script src="//js.rating-widget.com/rw/user.js?v=266" type="text/javascript"></script>
-<script src="//js.rating-widget.com/rw/prototype.js?v=266" type="text/javascript"></script>
-<script src="//js.rating-widget.com/website/controls/notification.js?v=266" type="text/javascript"></script>
+<script src="//js.rating-widget.com/init.js?v=268" type="text/javascript"></script>
+<script src="//js.rating-widget.com/action.js?v=268" type="text/javascript"></script>
+<script src="//js.rating-widget.com/rw/page.js?v=268" type="text/javascript"></script>
+<script src="//js.rating-widget.com/rw/user.js?v=268" type="text/javascript"></script>
+<script src="//js.rating-widget.com/rw/prototype.js?v=268" type="text/javascript"></script>
+<script src="//js.rating-widget.com/website/controls/notification.js?v=268" type="text/javascript"></script>
 <script src="//connect.facebook.net/en_US/all.js" type="text/javascript"></script>
-<script src="//js.rating-widget.com/website/login.js?v=266" type="text/javascript"></script>
-<script src="//js.rating-widget.com/website/controls/signin-window.js?v=266" type="text/javascript"></script>
-<script src="//js.rating-widget.com/website/controls/contact.js?v=266" type="text/javascript"></script>
+<script src="//js.rating-widget.com/website/login.js?v=268" type="text/javascript"></script>
+<script src="//js.rating-widget.com/website/controls/signin-window.js?v=268" type="text/javascript"></script>
+<script src="//js.rating-widget.com/website/controls/contact.js?v=268" type="text/javascript"></script>
 <script type="text/javascript">
     var _gaq = _gaq || [];
     var pluginUrl = '//www.google-analytics.com/plugins/ga/inpage_linkid.js';
@@ -195,8 +195,7 @@
 <li><p><b>Security:</b> We use reasonable security precautions to protect the security and integrity of your Personal Information in accordance with this policy and applicable law. However, no Internet transmission is completely secure, and we cannot guarantee that security breaches will not occur. Without limitation of the foregoing, we are not responsible for the actions of hackers and other unauthorized third parties that breach our reasonable security procedures.</p></li>
 <li><p><b>Links:</b> The Rating-Widget Service may contain links to other websites. Rating-Widget is not responsible for the privacy practices or the content of those websites. Users should be aware of this when they leave our Service and review the privacy statements of each third party website. This Privacy Policy applies solely to information collected by the Service.</p></li>
 <li><p><b>Amendments:</b> Rating-Widget may modify or amend this policy from time to time. If we make any material changes, as determined by Rating-Widget, in the way in which Personal Information is collected, used or transferred, we will notify you of these changes by modification of this Privacy Policy, which will be available for review by you at the Service. Notwithstanding any modifications we may make, any Personal Information collected by Rating-Widget from you will be treated in accordance with the privacy policy in effect at the time information was collected, unless we obtain your consent otherwise.</p></li>
-<li><p><b>Children:</b> Rating-Widget does not knowingly collect or maintain personally identifiable information from persons under 13 years of age, and no part of the Service is directed at persons under 13. If you are under 13 years of age, then please do not use the Service. If Rating-Widget learns that personally identifiable information of persons less than 13 years of age has been collected without verifiable parental consent, then Rating-Widget will take the appropriate steps to delete this information. To make such a request, please contact us at <a href="mailto: support@rating-widget.com">support@rating-widget.com<script cf-hash="f9e31" type="text/javascript">
-/* <![CDATA[ */!function(){try{var t="currentScript"in document?document.currentScript:function(){for(var t=document.getElementsByTagName("script"),e=t.length;e--;)if(t[e].getAttribute("cf-hash"))return t[e]}();if(t&&t.previousSibling){var e,r,n,i,c=t.previousSibling,a=c.getAttribute("data-cfemail");if(a){for(e="",r=parseInt(a.substr(0,2),16),n=2;a.length-n;n+=2)i=parseInt(a.substr(n,2),16)^r,e+=String.fromCharCode(i);e=document.createTextNode(e),c.parentNode.replaceChild(e,c)}}}catch(u){}}();/* ]]> */</script></a>.</p></li>
+<li><p><b>Children:</b> Rating-Widget does not knowingly collect or maintain personally identifiable information from persons under 13 years of age, and no part of the Service is directed at persons under 13. If you are under 13 years of age, then please do not use the Service. If Rating-Widget learns that personally identifiable information of persons less than 13 years of age has been collected without verifiable parental consent, then Rating-Widget will take the appropriate steps to delete this information. To make such a request, please contact us at <a href="mailto: support@rating-widget.com">support@rating-widget.com</a>.</p></li>
 </ul>
 </li>
 <li>
@@ -253,6 +252,7 @@
 <li><a href="/get/rating/zepo/#editor" title="RatingWidget Zepo.in App">Zepo App</a></li>
 <li><a href="http://www.wix.com/app-market/ratingwidget/overview" target="_blank" title="RatingWidget WiX App">WiX App</a></li>
 <li><a href="/get/rating/jquery/#editor" title="RatingWidget jQuery">jQuery</a></li>
+<li><a href="/get/rating/weebly/#editor" title="RatingWidget for Weebly">Weebly</a></li>
 </ul>
 </li>
 <li>
@@ -294,7 +294,7 @@
 </ul>
 </li>
 </ul>
-<img class="rackspace" src="//img.rating-widget.com/website/layout/rackspace.png" alt="Powered by Rackspace Hosting">
+  
 <div style="clear: both;"> </div>
 </div>
 </footer> <div class="modal dark sticky" style="display: none;">
@@ -388,10 +388,10 @@
 <option value="855">Articles Directories</option>
 <option value="784">Articles Directory</option>
 <option value="748">asdf</option>
-<option value="902">assessorament lingüístic i tecnologia</option>
+<option value="902">assessorament lingÃ¼Ã­stic i tecnologia</option>
 <option value="106">Association</option>
 <option value="700">Astronomy</option>
-<option value="732">Autônomos</option>
+<option value="732">AutÃ´nomos</option>
 <option value="62">Auto</option>
 <option value="753">Aviation Q+A</option>
 <option value="979">awareness</option>
@@ -423,7 +423,7 @@
 <option value="725">carnaval</option>
 <option value="92">Casino</option>
 <option value="242">catamarans</option>
-<option value="103">cửa chống cháy</option>
+<option value="103">cá»­a chá»‘ng chÃ¡y</option>
 <option value="238">Celebrities</option>
 <option value="802">Cerita </option>
 <option value="107">Charity</option>
@@ -460,7 +460,7 @@
 <option value="769">concurso</option>
 <option value="169">Conspiracy</option>
 <option value="125">Consulting</option>
-<option value="788">Consultoría - Desarrollo de Software a medida – Soporte</option>
+<option value="788">ConsultorÃ­a - Desarrollo de Software a medida â€“ Soporte</option>
 <option value="101">consumer electronics</option>
 <option value="964">Cooking</option>
 <option value="155">Cosplay</option>
@@ -491,7 +491,7 @@
 <option value="815">di tate</option>
 <option value="759">Diamante</option>
 <option value="780">diary</option>
-<option value="925">Dilekçe Örnekleri</option>
+<option value="925">DilekÃ§e Ã–rnekleri</option>
 <option value="69">directory</option>
 <option value="70">discount</option>
 <option value="982">diverse</option>
@@ -502,11 +502,11 @@
 <option value="241">dogs</option>
 <option value="661">download</option>
 <option value="185">Downloads</option>
-<option value="932">Доска объявлений</option>
-<option value="775">Женский журнал</option>
-<option value="643">Интернет портал </option>
-<option value="912">Сказки</option>
-<option value="252">Трудове навчання</option>
+<option value="932">Ð”Ð¾ÑÐºÐ° Ð¾Ð±ÑŠÑÐ²Ð»ÐµÐ½Ð¸Ð¹</option>
+<option value="775">Ð–ÐµÐ½ÑÐºÐ¸Ð¹ Ð¶ÑƒÑ€Ð½Ð°Ð»</option>
+<option value="643">Ð˜Ð½Ñ‚ÐµÑ€Ð½ÐµÑ‚ Ð¿Ð¾Ñ€Ñ‚Ð°Ð» </option>
+<option value="912">Ð¡ÐºÐ°Ð·ÐºÐ¸</option>
+<option value="252">Ð¢Ñ€ÑƒÐ´Ð¾Ð²Ðµ Ð½Ð°Ð²Ñ‡Ð°Ð½Ð½Ñ</option>
 <option value="653">E learning</option>
 <option value="662">e-Learning</option>
 <option value="826">Ebook</option>
@@ -527,7 +527,7 @@
 <option value="723">Faith in Politics</option>
 <option value="933">Fansite</option>
 <option value="249">FAQ</option>
-<option value="219">Fejlesztés</option>
+<option value="219">FejlesztÃ©s</option>
 <option value="282">film</option>
 <option value="109">Film - Videogiochi</option>
 <option value="680">film festivals</option>
@@ -599,7 +599,7 @@
 <option value="735">information</option>
 <option value="187">Information Based</option>
 <option value="763">Informations</option>
-<option value="868">Informática</option>
+<option value="868">InformÃ¡tica</option>
 <option value="177">Ingenieros</option>
 <option value="670">inne</option>
 <option value="210">Inspirational</option>
@@ -621,9 +621,9 @@
 <option value="194">Jobs</option>
 <option value="948">jokes</option>
 <option value="264">Ju Jutsu</option>
-<option value="652">Kabaré</option>
-<option value="958">Kişisel</option>
-<option value="991">Kişisel Blog</option>
+<option value="652">KabarÃ©</option>
+<option value="958">KiÅŸisel</option>
+<option value="991">KiÅŸisel Blog</option>
 <option value="198">knowledge</option>
 <option value="119">koleksi</option>
 <option value="972">Komentar anda</option>
@@ -697,7 +697,7 @@
 <option value="959">NLP Coaching</option>
 <option value="745">No profit</option>
 <option value="171">Non-profit</option>
-<option value="924">Notícias</option>
+<option value="924">NotÃ­cias</option>
 <option value="211">obelisk</option>
 <option value="882">ofonoch.sk</option>
 <option value="112">online directory</option>
@@ -741,7 +741,7 @@
 <option value="634">Poetry By John P. Boyle</option>
 <option value="740">Poetry, and Expressions</option>
 <option value="47">Poker</option>
-<option value="710">Política</option>
+<option value="710">PolÃ­tica</option>
 <option value="96">Police</option>
 <option value="36">Politic</option>
 <option value="711">Politica</option>
@@ -848,7 +848,7 @@
 <option value="927">Story</option>
 <option value="915">Strippers</option>
 <option value="200">study</option>
-<option value="685">Subversión</option>
+<option value="685">SubversiÃ³n</option>
 <option value="637">Survival/Preparedness</option>
 <option value="265">sustainability</option>
 <option value="114">Swimming Pool</option>
@@ -857,7 +857,7 @@
 <option value="941">Tango</option>
 <option value="869">Tattoos</option>
 <option value="268">taxi</option>
-<option value="115">tópicos forum</option>
+<option value="115">tÃ³picos forum</option>
 <option value="920">Teachers</option>
 <option value="37">Teaching</option>
 <option value="776">Tech</option>
@@ -892,8 +892,8 @@
 <option value="834">uncatagrogy</option>
 <option value="0">Unknown</option>
 <option value="731">user rating</option>
-<option value="629">Usługi Czyszczenia </option>
-<option value="992">مطالعات فرهنگی</option>
+<option value="629">UsÅ‚ugi Czyszczenia </option>
+<option value="992">Ù…Ø·Ø§Ù„Ø¹Ø§Øª ÙØ±Ù‡Ù†Ú¯ÛŒ</option>
 <option value="919">varios</option>
 <option value="61">Vegyes</option>
 <option value="877">Vendita e assistenza Electtrodomestici FamagliaBlog </option>
@@ -939,16 +939,16 @@
 <option value="90">Yellow Pages</option>
 <option value="842">yiyecek icecek</option>
 <option value="667">YouTube rating</option>
-<option value="94">Zdjęcia</option>
+<option value="94">ZdjÄ™cia</option>
 <option value="962">Zonnebrillen</option>
-<option value="144">şehirler hakkında</option>
-<option value="726">מאמרים</option>
-<option value="235">اسلامی</option>
-<option value="833">بوابة مصر</option>
-<option value="758">تفریح و سرگرمی</option>
-<option value="830">خلاقیت Creativity</option>
-<option value="209">خبر</option>
-<option value="990">سیستم اعلام حریق</option>
+<option value="144">ÅŸehirler hakkÄ±nda</option>
+<option value="726">×ž××ž×¨×™×</option>
+<option value="235">Ø§Ø³Ù„Ø§Ù…ÛŒ</option>
+<option value="833">Ø¨ÙˆØ§Ø¨Ø© Ù…ØµØ±</option>
+<option value="758">ØªÙØ±ÛŒØ­ Ùˆ Ø³Ø±Ú¯Ø±Ù…ÛŒ</option>
+<option value="830">Ø®Ù„Ø§Ù‚ÛŒØª Creativity</option>
+<option value="209">Ø®Ø¨Ø±</option>
+<option value="990">Ø³ÛŒØ³ØªÙ… Ø§Ø¹Ù„Ø§Ù… Ø­Ø±ÛŒÙ‚</option>
 </optgroup>
 </select></label>
 </div>
@@ -960,8 +960,8 @@
 </div>
 <div>
 <button class="google" data-url="https://accounts.google.com/o/oauth2/auth?response_type=code&amp;redirect_uri=http%3A%2F%2Frating-widget.com%2Faction%2Fwebsite%2Fuser%2Fsignin%2Fgoogle.php&amp;client_id=1077095386550.apps.googleusercontent.com&amp;scope=https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email&amp;access_type=offline&amp;approval_prompt=force"></button>
-<button class="linkedin" data-url="https://www.linkedin.com/uas/oauth2/authorization?response_type=code&amp;client_id=gnewa7s38j19&amp;scope=r_basicprofile+r_emailaddress&amp;state=5577c680653253.38929052&amp;redirect_uri=http%3A%2F%2Frating-widget.com%2Faction%2Fwebsite%2Fuser%2Fsignin%2Flinkedin.php"></button>
-<button class="facebook" data-url="https://www.facebook.com/dialog/oauth?client_id=230520603773713&amp;redirect_uri=http%3A%2F%2Frating-widget.com%2Faction%2Fwebsite%2Fuser%2Fsignin%2Ffacebook.php&amp;state=d22ff0b00637fe5d4c698eefe15c7639&amp;scope=email"></button>
+<button class="linkedin" data-url="https://www.linkedin.com/uas/oauth2/authorization?response_type=code&amp;client_id=gnewa7s38j19&amp;scope=r_basicprofile+r_emailaddress&amp;state=566555cf9c3986.39838613&amp;redirect_uri=http%3A%2F%2Frating-widget.com%2Faction%2Fwebsite%2Fuser%2Fsignin%2Flinkedin.php"></button>
+<button class="facebook" data-url="https://www.facebook.com/dialog/oauth?client_id=230520603773713&amp;redirect_uri=http%3A%2F%2Frating-widget.com%2Faction%2Fwebsite%2Fuser%2Fsignin%2Ffacebook.php&amp;state=4edd3a25f45edf152223b58158a93507&amp;scope=email"></button>
 </div>
 </div>
 <div class="section-separator pass-recover-hidden">
@@ -998,8 +998,8 @@ We've sent a message to your email address. Please click the link in the message
 </header>
 <div>
 <fieldset>
-<input name="security" type="hidden" value="s_secure=b1a9d33f783f3fc68952a6f3649738d3&amp;s_ts=1433912960">
-<input name="site_id" type="hidden" value="">
+<input name="security" type="hidden" value="s_secure=2ce563406ffdb65cf9b820ff55c1fb14&amp;s_ts=1449481679">
+<input name="site_id" type="hidden" value="other">
 <input name="user_id" type="hidden" value="">
 <label class="iconed-input name"><i class="name"></i><input type="text" name="name" value="" placeholder="First and Last Name"></label>
 <label class="iconed-input"><i class="email"></i><input type="email" name="email" value="" placeholder="Your Email Address"></label>
@@ -1019,30 +1019,31 @@ We've sent a message to your email address. Please click the link in the message
 <option value="Other">Other</option>
 </select>
 </label>
+<label class="iconed-input site other-site" style=""><i class="site"></i><input type="text" name="domain" value="" placeholder="Your Site Address (E.g http://my.address.com)"></label>
 <label class="iconed-input">
 <i class="platform"></i>
 <select name="platform">
-<option value="">Select Platform</option>
-<option value="WordPress">WordPress</option>
-<option value="Blogger">Blogger</option>
-<option value="Squarespace">Squarespace</option>
-<option value="AddThis">AddThis</option>
-<option value="Tumblr">Tumblr</option>
-<option value="WiX">WiX</option>
-<option value="Shopify">Shopify</option>
-<option value="Zepo">Zepo</option>
-<option value="jQuery">jQuery</option>
-<option value="JavaScript">JavaScript</option>
+<option value="" data-platform-id="">Select Platform</option>
+<option value="WordPress" data-platform-id="wordpress">WordPress</option>
+<option value="Blogger" data-platform-id="blogger">Blogger</option>
+<option value="WiX" data-platform-id="wix">WiX</option>
+<option value="Weebly" data-platform-id="weebly">Weebly</option>
+<option value="Squarespace" data-platform-id="squarespace">Squarespace</option>
+<option value="Shopify" data-platform-id="shopify">Shopify</option>
+<option value="Tumblr" data-platform-id="tumblr">Tumblr</option>
+<option value="AddThis" data-platform-id="addthis">AddThis</option>
+<option value="jQuery" data-platform-id="jquery">jQuery</option>
+<option value="JavaScript" data-platform-id="javascript">JavaScript</option>
+<option value="Zepo" data-platform-id="zepo">Zepo</option>
 <option value="other">Other</option>
 </select>
 </label>
-<label class="iconed-input site"><i class="site"></i><input type="text" name="domain" value="" placeholder="Your Site Address (E.g http://my.address.com)"></label>
 <label id="contact_msg" class="iconed-input">
 <i class="edit"></i>
 <textarea name="message" cols="44" rows="10" placeholder="Your Message, Question or Feedback"></textarea>
 </label>
 <p style="margin-top: 10px;"><b>Note:</b> If you have a question about a specific page on your site, please add a link to the relevant page which has the ratings code already embedded.</p>
-<label class="iconed-input site"><i class="site"></i><input type="text" name="link" value="" placeholder="Relevant Page on Your Site (E.g. http://my.address.com/page-with-ratings/)"></label>
+<label class="iconed-input site relevant-page-url"><i class="site"></i><input type="text" name="link" value="" placeholder="Relevant Page on Your Site (E.g. http://my.address.com/page-with-ratings/)"></label>
 <div id="rw_captcha_container" style="display: none;"></div>
 </fieldset>
 <div class="message-sent">
@@ -1060,7 +1061,8 @@ We've sent a message to your email address. Please click the link in the message
 </footer>
 </section>
 </div></section>
-<a id="contact_tab" class="trigger-contact" title="Contact Us"></a> <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"2d80db403b","applicationID":"1837438","transactionName":"NlAAbEICXUADU0xbVg8aN0pZTENBC0ZZUUBOXAxcVRsdQwpA","queueTime":0,"applicationTime":401,"atts":"GhcDGgoYTk4=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-632.min.js"}</script><script type="text/javascript">
+<a id="contact_tab" class="trigger-contact" title="Contact Us"></a>
+<a id="contact_tab_mobile" href="/contact/" title="Contact Us"></a> <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"2d80db403b","applicationID":"1837438","transactionName":"NlAAbEICXUADU0xbVg8aN0pZTENBC0ZZUUBOXAxcVRsdQwpA","queueTime":0,"applicationTime":26,"atts":"GhcDGgoYTk4=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-632.min.js"}</script><script type="text/javascript">
 /* <![CDATA[ */
 (function(){try{var s,a,i,j,r,c,l=document.getElementsByTagName("a"),t=document.createElement("textarea");for(i=0;l.length-i;i++){try{a=l[i].getAttribute("href");if(a&&a.indexOf("/cdn-cgi/l/email-protection") > -1  && (a.length > 28)){s='';j=27+ 1 + a.indexOf("/cdn-cgi/l/email-protection");if (a.length > j) {r=parseInt(a.substr(j,2),16);for(j+=2;a.length>j&&a.substr(j,1)!='X';j+=2){c=parseInt(a.substr(j,2),16)^r;s+=String.fromCharCode(c);}j+=1;s+=a.substr(j,a.length-j);}t.innerHTML=s.replace(/</g,"&lt;").replace(/>/g,"&gt;");l[i].setAttribute("href","mailto:"+t.value);}}catch(e){}}}catch(e){}})();
 /* ]]> */
