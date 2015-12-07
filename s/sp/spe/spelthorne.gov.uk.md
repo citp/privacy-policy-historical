@@ -1,13 +1,6 @@
-> *The following text is extracted and transformed from the spelthorne.gov.uk privacy policy that was archived on 2014-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140514071307id_/http%3A//www.spelthorne.gov.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spelthorne.gov.uk privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207040248id_/https%3A//www.spelthorne.gov.uk/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Spelthorne Borough Council
-
-You are here:
-
-  1. [Home](http://www.spelthorne.gov.uk/home)
-  2. / Privacy Policy 
-
-
+# Spelthorne Borough Council
 
 ## Cookies 
 
@@ -33,9 +26,3 @@ This information allows Spelthorne Borough Council to evaluate how visitors are 
 We do not use cookies for collecting user information and we will not collect any information about you except that required for system administration of our web server. For example, we may use a cookie for the administration of our survey software, to prevent multiple responses from the same PC/person. A cookie is a simple text file that allows a web site to store information on your computer's hard disk and retrieve it the next time you visit the site. Cookies are not programmes and therefore cannot harm your computer. 
 
 This privacy statement only covers the Spelthorne Borough Council website. This statement does not cover links within this site to other websites. 
-
-  * Print this page 
-  * Published 22 August 2013, 11.22AM
-  * [Top of page](http://www.spelthorne.gov.uk/privacy#top)
-
-
