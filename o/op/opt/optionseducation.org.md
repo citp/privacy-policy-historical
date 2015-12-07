@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the optionseducation.org privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607072331id_/http%3A//optionseducation.org/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the optionseducation.org privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207111657id_/http%3A//www.optionseducation.org/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -44,6 +44,6 @@ Notwithstanding any other provision of this Privacy Policy, OIC reserves the rig
 
 OIC does not knowingly collect or use any personal information from users under 18 years of age. No information should be submitted to this website or mobile application by guests under 18 years of age.
 
-We continue to evaluate our efforts to protect personal information and make every effort to keep your personal information accurate and up to date. If you have any questions or concerns, or if you identify any inaccuracy in your personal information and need to make a change to that information, please contact us at [options@theocc.com](mailto:%20options@theocc.com) or call 1-888-OPTIONS so that we may promptly update our records. Please also feel free to contact OIC if you have any questions, comments, or feedback about this Privacy Policy and information practices, or your use of this site or mobile application.
+We continue to evaluate our efforts to protect personal information and make every effort to keep your personal information accurate and up to date. If you have any questions or concerns, or if you identify any inaccuracy in your personal information and need to make a change to that information, please contact us at [options@theocc.com](mailto:%20options@theocc.com) so that we may promptly update our records. Please also feel free to contact OIC if you have any questions, comments, or feedback about this Privacy Policy and information practices, or your use of this site or mobile application.
 
 OIC reserves the right to modify our privacy principles as business needs require. Any such modifications will be effective when published on this website or mobile application.
