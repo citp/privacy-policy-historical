@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bikeportal.in privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608115912id_/http%3A//bikeportal.in/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bikeportal.in privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207135826id_/http%3A//bikeportal.in/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - BikePortal
 
@@ -17,7 +17,7 @@ We want you to:
   * 
 
 
-What information is, or may be, collected from you?
+## What information is, or may be, collected from you?
 
 We will automatically receive and collect certain anonymous information in standard usage logs through our Web server, including computer-identification information obtained from "cookies," sent to your browser from:
 
@@ -81,7 +81,7 @@ If you use a bulletin board or chat room on this site, you should be aware that 
 
 We are the sole owners of your information collected by us at several different points on our Site.
 
-How is the information used?
+## How is the information used?
 
 We use your email address to send you:
 
@@ -160,7 +160,7 @@ The security of your personal information and email address is important to us. 
 
 If you have any questions about security on our Web site, you can send email us at Feedback
 
-Bikeportal cancellation and refund policy
+## Bikeportal cancellation and refund policy
 
 A. Cancellation Procedure:
 
@@ -182,7 +182,7 @@ B. Refund of Amount:
 
 P.S. The customer cancelling the order will not be eligible to receive any kind of declared offers or deals on Bikeportal.in and/or on partner merchant portals.
 
-What choices are available to you regarding collection, use and distribution of your information?
+## What choices are available to you regarding collection, use and distribution of your information?
 
 Supplying personally identifiable information is entirely voluntary. You are not required to register with us in order to use our sites. However, we offer some services only to visitors who do register.
 
@@ -202,7 +202,7 @@ If we plan to use your personally identifiable information for any commercial pu
 
 You can accept or decline the cookies. All sites that are customizable require that you accept cookies. You also must accept cookies to register as someone for access to some of our services. For information on how to set your browser to alert you to cookies, or to reject cookies, go to http://www.cookiecentral.com/faq/
 
-Cookies
+## Cookies
 
 A cookie is a small text file that is stored on a user's computer for record-keeping purposes. We use cookies on this site. We do link the information we store in cookies to any personally identifiable information you submit while on our site.
 
@@ -228,7 +228,7 @@ Although we will endeavor to safeguard the confidentiality of your personally id
 
 We follow generally accepted industry standards to protect the personal information and email addresses submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information and email address, we cannot guarantee its absolute security.
 
-Policy updates
+## Policy updates
 
 We reserve the right to change or update this policy at any time by placing a prominent notice on our site. Such changes shall be effective immediately upon to this site.
 
