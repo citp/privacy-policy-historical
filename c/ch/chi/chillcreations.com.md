@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chillcreations.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608100416id_/http%3A//www.chillcreations.com/privacy-policy-and-disclaimer) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chillcreations.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207134923id_/http%3A//www.chillcreations.com/privacy-policy-and-disclaimer) for the most accurate reproduction.*
 
 # Privacy Policy & Disclaimer - Chill Creations
 
