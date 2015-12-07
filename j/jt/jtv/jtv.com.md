@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jtv.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609004922id_/http%3A//www.jtv.com/linkpage%3Fcid%3Dhelp-privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jtv.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207143646id_/http%3A//www.jtv.com/linkpage%3Fcid%3Dhelp-privacypolicy) for the most accurate reproduction.*
 
 # Jewelry Television Privacy Policy
 
@@ -86,3 +86,5 @@ JTV® Privacy
 JTV® Legal Department  
 9600 Parkside Drive  
 Knoxville, TN 37922 
+
+Back to Top
