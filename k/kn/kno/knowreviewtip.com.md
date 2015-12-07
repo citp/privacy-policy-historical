@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the knowreviewtip.com privacy policy that was archived on 2015-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150420202949id_/http%3A//www.knowreviewtips.com/privacy-disclaimer) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the knowreviewtip.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207134218id_/http%3A//www.knowreviewtips.com/privacy-disclaimer) for the most accurate reproduction.*
 
-# Know Review Tips | Privacy Policy & Disclaimer
+# Know Review Tip | Privacy Policy & Disclaimer
 
-This Privacy Policy governs the manner in which KnowReviewTips.com collects, uses, maintains and discloses information collected from users (each, a “User”) of the www.knowreviewtips.com website (“Site”). This privacy policy applies to the Site and all products and services offered by Iknowc.
+This Privacy Policy governs the manner in which knowreviewtip.com collects, uses, maintains and discloses information collected from users (each, a “User”) of the www.knowreviewtip.com website (“Site”). This privacy policy applies to the Site and all products and services offered by Iknowc.
 
 Personal identification information
 
@@ -20,11 +20,11 @@ How we use collected information
 
 Know Review Tips may collect and use Users personal information for the following purposes:
 
-\- To improve customer service  
+– To improve customer service  
     Information you provide helps us respond to your customer service requests and support needs more efficiently.  
-\- To personalize user experience  
+– To personalize user experience  
     We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.  
-\- To improve our Site  
+– To improve our Site  
     We may use feedback you provide to improve our products and services.
 
 Sharing your personal information
@@ -54,15 +54,15 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 
 Contacting us
 
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us using [contact form](http://www.knowreviewtips.com/contact-us/).
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us using [contact form](http://www.knowreviewtip.com/contact-us/).
 
 ## Disclaimer
 
 Disclaimer   
-KnowReviewTips is a site that provides gadgets review , products demo , information on technology , diy , geek and much more .  The main motive of Knowreviewtips.com is to deliver the latest information  from tech world to its viewers & to delivery free knowledge . 
+knowreviewtip is a site that provides gadgets review , products demo , information on technology , diy , geek and much more .  The main motive of knowreviewtip.com is to deliver the latest information  from tech world to its viewers & to delivery free knowledge . 
 
-No guarantee – We always try our best to make sure that information on our site is correct but KnowReviewTips.com does not grantee whether the information is accurate or not , so kindly search on other sources for the same query.  
-knowreviewtips.com will never  accept any responsibility for any financial consequences that may arise from the information provided herein .
+No guarantee – We always try our best to make sure that information on our site is correct but knowreviewtip.com does not grantee whether the information is accurate or not , so kindly search on other sources for the same query.  
+knowreviewtip.com will never  accept any responsibility for any financial consequences that may arise from the information provided herein .
 
 Posting Comments   
 Users can post comments inorder to share there views . Please note that always use valid email address & user name while posting comment on site , in case e-mail address found to be  invalid then  comment will be marked as  SPAM . ALSO you agree that you are fully aware of what you are posting as  comment & you  agree that you are  posting  non copyrighted material / comment  . When ever you post comment , your IP address is recorded for the safeguarding. We never sell or share your email address with anyone, we respect your Privacy. 
@@ -70,12 +70,12 @@ Users can post comments inorder to share there views . Please note that always u
 You are  full responsible for the contents of your comment that you are posting and no one rather than  you will be held liable in case of any inquiries or prosecution by any government authorities .
 
 E-MAIL Subscription  
-E-mail subscription on Know Review Tips is powered by Google Feed Burner , therefore knowreviewtips.com must not be responsible for any problem or any losses that might have occurred while using  E-mail subscription . KnowReviewTips.com doesn’t send spam email , but in case you want to unsubscribe then you can just click on the link for unsubscribing  which can be found on the email that users get .  
+E-mail subscription on Know Review Tips is powered by Google Feed Burner , therefore knowreviewtip.com must not be responsible for any problem or any losses that might have occurred while using  E-mail subscription . knowreviewtip.com doesn’t send spam email , but in case you want to unsubscribe then you can just click on the link for unsubscribing  which can be found on the email that users get .  
 NOTE: This Disclaimer is subject to change at anytime without any notification & changes made will be effective immediately .
 
 ### WaterMark on Images
 
-Watermark on images is just a Digital prove that the image is uploaded on or downloaded from KnowReviewTips. Images or any other logo are trademarks of there respected owners.
+Watermark on images is just a Digital prove that the image is uploaded on or downloaded from knowreviewtip. Images or any other logo are trademarks of there respected owners.
 
  _ **THANKS & BEST REGARDS **_  
-[_**www.knowreviewtips.com**_](http://www.knowreviewtips.com/)
+[_**www.knowreviewtip.com**_](http://www.knowreviewtip.com/)
