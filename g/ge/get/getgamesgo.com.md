@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the getgamesgo.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607145439id_/http%3A//www.getgamesgo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getgamesgo.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207040326id_/http%3A//www.getgamesgo.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Get Games - official online digital download retailer
 
