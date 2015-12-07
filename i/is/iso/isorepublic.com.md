@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the isorepublic.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607235358id_/http%3A//isorepublic.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the isorepublic.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207141043id_/http%3A//isorepublic.com/privacy) for the most accurate reproduction.*
 
 # Privacy - ISO Republic
 
@@ -23,10 +23,11 @@ Our Site may use “cookies” to enhance User experience. User’s web browser 
 ISO Republic may collect and use users personal information for the following purposes:
 
 To improve customer service  
-To personalise user experience  
+To personalise user experience, content and advertising  
 To improve our Site  
 To process payments  
 To run a promotion, contest, survey or other site feature  
+To gather traffic analytics data  
 To send periodic emails
 
 We may use the email address to send User information and updates pertaining to their membership. It may also be used to respond to their inquiries, questions, and/or other requests. If User decides to opt-in to our mailing list, they will receive emails that may include website news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email or User may contact us via our Site.
@@ -59,4 +60,4 @@ By using this Site, you signify your acceptance of this policy and terms of serv
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please get in touch via our [contact](http://modexs.com/sharing/iso-republic/html/page.html#) page.
 
-This document was last updated on October 01, 2014
+**This document was last updated on 27th July, 2015**
