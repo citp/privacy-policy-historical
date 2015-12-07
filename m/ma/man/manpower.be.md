@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the manpower.be privacy policy that was archived on 2014-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141124040351id_/http%3A//manpower.be/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the manpower.be privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207231603id_/http%3A//manpower.be/privacy) for the most accurate reproduction.*
 
-# Privacy | Manpower
+# Privacy | Manpower Belgium | Interim, Job, Recruitment, Selection
 
 [](https://web.archive.org/ "Home")
 
