@@ -1,6 +1,13 @@
-> *The following text is extracted and transformed from the deucescracked.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608161724id_/http%3A//www.deucescracked.com/account/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deucescracked.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207101714id_/http%3A//www.deucescracked.com/account/privacy) for the most accurate reproduction.*
 
 # DeucesCracked : Free Poker Videos : Poker Coaching : Win at Poker
+
+Please log in or sign up below! 
+
+###### Click to dismiss
+
+  
+
 
 DeucesCracked, LLC. (“DeucesCracked”) is committed to protecting your privacy. We have prepared this Privacy Policy to describe to you our practices regarding the Personal Data (as defined below) we collect from users of our website, located at www.deucescracked.com, and related services.
 
