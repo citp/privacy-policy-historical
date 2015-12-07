@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chamberlain.edu privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607230612id_/http%3A//www.chamberlain.edu/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chamberlain.edu privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207131125id_/http%3A//www.chamberlain.edu/privacy) for the most accurate reproduction.*
 
 # Privacy
 
@@ -20,8 +20,7 @@ We use the information that we collect to complete a contact or request; to bett
 
 ## 4)    Sharing Information That You Provide With Others.
 
-Generally we do not give or sell your information, including your personally identifiable information, with outside companies except in the following situations:  
-
+Generally we do not give or sell your information, including your personally identifiable information, with outside companies except in the following situations:
 
   * Blogs and Online Communities.  You may choose to submit information as part of a blog or online community offered by Chamberlain.  Any information you choose to post, including personally identifiable information, may be available generally to the public, or to other members of the blog or online community. 
   * Subcontractors.  We may share your information with subcontractors that provide us with services.  These services may include, but may not be limited to, helping to provide services that you request, helping to create or maintain our databases, helping to research and analyze the people who request services or information from us, helping to provide marketing or solicitation materials for our products or services, and/or helping to process payment card information.
@@ -37,7 +36,7 @@ Some web browsers and devices permit you to broadcast a preference that you not 
 
 ## 6)    Behavioral Advertisers.
 
-We may participate in behavioral-based advertising. This means that a third party may use technology, such as a cookie on your browser or a web beacon, to identify you on our website so that they can provide advertising about products and services tailored to your interest. That advertising may appear either on our website, or on other websites. If you would like to opt-out of third-party behavioral advertising that collects information on your use of this website, you can do so by visiting the websites of the Network Advertising Initiative and the Digital Advertising Alliance. 
+We may participate in behavioral-based advertising. This means that a third party may use technology, such as a cookie on your browser or a web beacon, to identify you on our website so that they can provide advertising about products and services tailored to your interest. That advertising may appear either on our website, or on other websites. We do participate in Google Analytics feature Google Display Network Impression Reporting. We and third-party vendors, including Google, use first-party cookies and third-party cookies together to report how our ad impressions, other uses of ad services, and interactions with these ad impressions and ad services are related to visits to our site. If you would like to opt-out of third-party behavioral advertising that collects information on your use of this website, you can do so by visiting the websites of the Network Advertising Initiative and the Digital Advertising Alliance. Visitors can opt-out of Google Analytics for Display Advertising and customize Google Display Network ads using the [Ads Settings](https://www.google.com/settings/u/0/ads/authenticated).
 
 ## 7)    Children (age 17 and under).
 
@@ -67,4 +66,4 @@ info@chamberlain.edu
 
 If Chamberlain is required to provide you with notice of a particular event or incident, we will send you that notice by e-mail, telephone, or mail. 
 
-Last revised on January 6, 2014.
+Last revised on August 12, 2015.
