@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lovevoodoo.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608155954id_/http%3A//www.lovevoodoo.com/Public/LV_privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lovevoodoo.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207091836id_/http%3A//www.lovevoodoo.com/Public/LV_privacy.asp) for the most accurate reproduction.*
 
 # LoveVoodoo.com Privacy Statement
 
@@ -69,11 +69,11 @@ LoveVoodoo.com has security measures in place to protect and prevent the loss, m
 Update/Delete  
 LoveVoodoo.com Members have the following choices to modify or delete their information from our database:
 
-Send an email to our customer service rep. at info@LoveVoodoo.com or call 1 (202) 360-4056;
+Send an email to our customer service rep. at info@LoveVoodoo.com or call 1 (866) 408-1369;
 
 Log in with your password and modify your profile;
 
-Send a snail mail to LoveVoodoo.com at Lifestyle Links INC, P.O. Box 1056, Washington Grove, MD 20880-1056
+Send a snail mail to LoveVoodoo.com at Social Media Marketing, P.O. Box 262, Kenner, LA 70063 
 
 \--------------------------  
 Updated July, 2003
