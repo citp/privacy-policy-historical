@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the vpslink.com privacy policy that was archived on 2015-04-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150408164159id_/http%3A//www2.vpslink.com/legal/legal_privacy.bml) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the vpslink.com privacy policy that was archived on 2015-12-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151207093435id_/http%3A//www2.vpslink.com/legal/legal_privacy.bml) for the most accurate reproduction.-->
 
-<html class="no-js"><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html class="no-js"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
 <title>VPSLink's Privacy Policy</title>
 <link rel="SHORTCUT ICON" href="http://images.vpslink.com/icons/favicons/favicon_vlk.ico">
@@ -12,7 +12,50 @@
 <meta name="rating" content="General">
 <meta name="distribution" content="Global">
 <link rel="stylesheet" href="/xslt/elements/vpslink_csscomponent.css" type="text/css">
-<script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-PPRPX8"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="/generalAppC/scriptcat/87ae207201c55b84c5270851159260e1.1"></script>
+
+
+<script id="fortifi-track" src="//track.vpslink.com/fp/init/fortifi.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-PPRPX8"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script>
+window.V = window.V || {};
+V.cart = V.cart || {
+	items: []
+};
+
+V.grammar = V.grammar || {
+	chatserver: "chatserver.vpslink.com"
+}
+// chat script
+V.chat = {
+  initialize: function () {
+    var _this = this;
+    if (V.grammar.chatserver) {
+      // bind chat links to chat function
+      var chatLinks = document.querySelectorAll('[href="#chat"]');
+			for (var i = 0; i < chatLinks.length; i++) {
+				chatLinks[i].addEventListener('click', function (e) {
+					return _this.popUp('https://' + V.grammar.chatserver, 500, 375);
+				});
+			}
+    }
+  },
+  popUp: function (url, width, height) {
+    var id = new Date();
+
+    width = width || 900;
+    height = height || 800;
+
+    window.open(
+      url,
+      id.toString(),
+      "toolbar=no,scrollbars=yes,location=no,statusbar=no,menubar=no,resizable=no,width=" + width + ",height=" + height
+    );
+  }
+}; // end V.chat
+
+window.addEventListener('load', function() { V.chat.initialize() }, false);
+</script>
+
+
+<script src="/generalAppC/scriptcat/87ae207201c55b84c5270851159260e1.1"></script>
 
 
 
@@ -50,7 +93,11 @@
 
 
 
-<script>dataLayer = [];</script>
+
+<script>dataLayer = [{"userType":"anonymous","pageType":"","userID":"","pageClass":"","step":"","flow":""}];</script>
+
+
+
 
 
 <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push(
@@ -59,6 +106,22 @@
 j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
 })(window,document,'script','dataLayer','GTM-PPRPX8');</script>
+
+
+
+<script type="text/javascript">
+  (function(d,s,i,u) {
+    if (d.getElementById(i)){return;}
+    var n=d.createElement(s),e=d.getElementsByTagName(s)[0];
+    n.id=i;n.src='//'+u+'/fp/init/fortifi.js';
+    e.parentNode.insertBefore(n, e);
+  })(document,"script","fortifi-track","track.vpslink.com");
+</script>
+
+
+
+
+
 
 <div id="hd"><div class="master-container">
 <div id="head-container">
@@ -112,7 +175,6 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 					<li><a href="#children">Children</a></li>
 					<li><a href="#contact">Contact</a></li>
 					<li><a href="#resellers">Resellers</a></li>
-					<li><a href="#trusteCERT">TRUSTe </a></li>				
 				</ul>
 			</div>
 <!-- 
@@ -378,22 +440,8 @@ On February 10, 2014, we updated and reorganized our Privacy Policy to better ex
 						</li>
 					</ul>
 				</li>
-				<li id="trusteCERT">
-					<p>
-						<b>TRUSTe CERTIFICATION. </b> We have been awarded TRUSTe's Privacy Seal signifying that this Privacy Policy and our practices have 
-						been reviewed by TRUSTe for compliance with TRUSTe's <a href="http://www.truste.com/privacy-program-requirements/program-requirements">Program Requirements</a>
-						 and the <a href="http://www.truste.com/privacy-program-requirements/TRUSTed-cloud/">TRUSTed Cloud Program Requirements</a> including transparency, 
-						accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, 
-						is to accelerate online trust among consumers and organizations globally through its leading privacy Trustmark and innovative trust solutions. 
-						If you have questions or complaints regarding our Privacy Policy or practices, please contact us at <a href="mailto:legal@vpslink-inc.com">legal@vpslink-inc.com</a>.  If you are not 
-						satisfied with our response you can contact TRUSTe <a href="https://feedback-form.truste.com/watchdog/request">here</a>.
-					</p>
-					<p>  
-						<u>The TRUSTe program covers our collection, use and disclosure of information we collect through our website, <a href="http://www.vpslink.com">vpslink.com</a>, and our services.</u>
-					</p>
-				</li>
 			</ul>		 
-			<p><br><strong></strong></p><p class="last-updated"><strong>This file was last modified May 22, 2014.</strong></p><strong>
+			<p><br><strong></strong></p><p class="last-updated"><strong>This file was last modified on April 30, 2015.</strong></p><strong>
 </strong><p></p>
 		</block></td></tr></tbody></table></td></tr></tbody></table></td>
 </tr></tbody></table></div></div>
