@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pressroomvip.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627021214id_/http%3A//www.pressroomvip.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pressroomvip.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207153413id_/http%3A//www.pressroomvip.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | PressRoomVIP
 
@@ -28,11 +28,18 @@ We will not share, sell, rent, or trade your Personally Identifiable Information
 
 **We may share your information for our Protection and the Protection of Others**. We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or comply with a judicial proceeding, court order, or legal process served on our Website; enforce or apply this Privacy Policy, our Website Terms of Use or other agreements; or protect the rights, property or safety of the Website, its Users or others.
 
+  
 **4\. Release of Non-Personally Identifiable Information** ****
 
 We may disclose or share Non-Personally Identifiable Information with Partners, Affiliates and Advertisers. For example, we may share aggregated demographic information (which does not include any Personally Identifiable Information) with “Third Party Advertisers” or “Third Party Advertising Companies” and other parties as provided below:
 
-We use Third Party Advertising Companies to serve ads when you visit our Website. These companies may use Non-Personally Identifiable Information about your visits to this and other websites in order to provide, through the use of network tags, advertisements about goods and services that may be of interest to you. Some of these Third Party Advertising Companies may be advertising networks that are members of the Network Advertising Initiative (“NAI”). If you would like more information about any NAI member company, or you would like to opt-out of targeted advertising from any NAI member company, click [HERE](http://www.networkadvertising.org/consumer/opt_out.asp)
+We use Third Party Advertising Companies to serve ads. Advertisers may collect data about your online browsing activity and use it to show you targeted ads (a process known as “behavioral advertising”).
+
+You can prevent these companies from showing you targeted ads by submitting opt-outs. Opting-out will only prevent targeted ads so you may continue to see generic (non-targeted ads) from these companies after you opt-out. 
+
+To opt out you can can visit the the Digital Advertising Alliance’s opt-out page to opt-out by clicking [here](http://www.aboutads.info/choices/).
+
+You may opt in to behaviorally targeted ads anytime by deleting your browser’s cookies.
 
 We also use Third Party Service Providers to track and analyze Non-Personally Identifiable usage and volume statistical information from our Users to administer our Website and constantly improve its quality. We may also publish this information for promotional purposes or as a representative audience for Advertisers. Please note that this is not Personally Identifiable Information, only general summaries of the activities of our Users. Such data is collected on our behalf, and is owned and used by us.
 
