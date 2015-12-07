@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rajah.com privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630150129id_/http%3A//rajah.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rajah.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207143244id_/http%3A//rajah.com/privacy.php) for the most accurate reproduction.*
 
 # WWE News, Rumors, Results, Spoilers @ Rajah.com
 
@@ -65,3 +65,5 @@ The DoubleClick DART cookie is used by Google in the ads served on the websites 
 * Users may opt out of the use of the DART cookie by visiting the advertising opt-out page [here](http://www.networkadvertising.org/managing/opt_out.asp). 
 
 We welcome your questions and comments about our privacy policy. If you would like to drop us a line, please email [privacy@rajah.com](mailto:privacy@rajah.com)
+
+This site uses cookies to deliver its services, to personalize ads and to analyze traffic. Information about your use of this site is shared with its partners. By using this site, you agree to its use of cookies. For details, click [here](http://rajah.com/privacy.php).
