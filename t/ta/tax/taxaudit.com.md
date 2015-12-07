@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the taxaudit.com privacy policy that was archived on 2015-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150407145031id_/http%3A//www.taxaudit.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the taxaudit.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207155458id_/https%3A//www.taxaudit.com/privacy-statement) for the most accurate reproduction.*
 
 # Security and Privacy Guarantee | TaxAudit.com
 
@@ -25,16 +25,16 @@ TaxResources, Inc. has been awarded TRUSTe's Privacy Seal signifying that this p
 > TaxResources, Inc.  
 >  Information Security Officer  
 >  7803 Madison Avenue, Suite A–100  
->  Citrus Heights, CA 95610 USA Telephone: (866) 640–9695 or (916) 904–8176  
->  Fax: (866) 650–9695 or (916) 904–8478  
+>  Citrus Heights, CA 95610 USA Telephone: 877.369.7827  
+>  Fax: 800.838.9114  
 >  Email: [privacy@taxaudit.com](mailto:privacy@taxaudit.com)
 > 
 >   Canada TaxResources, Inc.  
 >  Information Security Officer Suite 708  
 >  1155 West Pender  
 >  Vancouver, BC V6E 2P4  
->  Canada Telephone: (866) 640–9695  
->  Facsimile: (866) 650–9695  
+>  Canada Telephone: 877.369.7827  
+>  Facsimile: 800.838.9114  
 >  Email: [privacy@taxaudit.com](mailto:privacy@taxaudit.com)
 
 If you are not satisfied with our response you can contact [TRUSTe here](https://feedback-form.truste.com/watchdog/request "watchdog.truste.com"). 
