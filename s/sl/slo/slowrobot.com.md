@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the slowrobot.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627175039id_/http%3A//slowrobot.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the slowrobot.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207111732id_/http%3A//slowrobot.com/privacy.php) for the most accurate reproduction.*
 
 # Slow Robot - Privacy policy
 
 **This is the privacy policy for slowrobot.com**
 
-This Privacy Policy governs the manner in which Besser collects, uses, maintains and discloses information collected from users (each, a "User") of the [slowrobot.com](https://web.archive.org/web/20150627175039id_/http%3A//slowrobot.com/slowrobot.com) website ("Site"). This privacy policy applies to the Site and all products and services offered by Besser.
+This Privacy Policy governs the manner in which Besser collects, uses, maintains and discloses information collected from users (each, a "User") of the [slowrobot.com](https://web.archive.org/web/20151207111732id_/http%3A//slowrobot.com/slowrobot.com) website ("Site"). This privacy policy applies to the Site and all products and services offered by Besser.
 
 **Personal identification information**
 
