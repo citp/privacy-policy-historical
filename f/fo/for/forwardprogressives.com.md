@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the forwardprogressives.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609002052id_/http%3A//www.forwardprogressives.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the forwardprogressives.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207224213id_/http%3A//www.forwardprogressives.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Forward Progressives
 
@@ -20,10 +20,10 @@ Our Site may use “cookies” to enhance User experience. User’s web browser 
 
 Forward Progressives LLC may collect and use User’s personal information for the following purposes:
 
-\- _To personalize user experience_  
+– _To personalize user experience_  
 We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.
 
-\- _To improve our Site_  
+– _To improve our Site_  
 We may use feedback you provide to improve our site.
 
 **How we protect your information**
