@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cozi.com privacy policy that was archived on 2015-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150618151744id_/http%3A//cozi.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cozi.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207161943id_/http%3A//www.cozi.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Cozi Simplifies Family Life
 
@@ -38,7 +38,7 @@ Cozi does not have control over the privacy policies of advertisers or other thi
 
 ## **Do you use Cookies?**
 
-_Cookies and other technologies._ We use technologies like cookies and pixel tags to provide, improve, protect and promote our Services. For example, cookies help us with things like remembering your account for your next visit, understanding how you are interacting with our Services, and improving them based on that information. Cookies can also be used to target advertisements to you. To learn more about this practice or to opt-out of this type of advertising, [click here](https://web.archive.org/personalized-ads). Cozi may not recognize the “do not track” signals that some browsers may employ. You can set your browser to not accept cookies, but this may limit your ability to use the Services.
+_Cookies and other technologies._ We use technologies like cookies and pixel tags to provide, improve, protect and promote our Services. For example, cookies help us with things like remembering your account for your next visit, understanding how you are interacting with our Services, and improving them based on that information. Cookies can also be used to target advertisements to you. To learn more about this practice or to opt-out of this type of advertising, [click here](https://web.archive.org/personalized-ads). Cozi may not recognize the "do not track" signals that some browsers may employ. You can set your browser to not accept cookies, but this may limit your ability to use the Services.
 
 Cozi uses Mixpanel for analytical purposes. To opt out of Mixpanel's cookie usage, please visit <https://mixpanel.com/optout/>. Please note that if you get a new computer, install a new browser, erase or otherwise alter your browser's cookie file, you may also clear any opt-out cookies you have.
 
