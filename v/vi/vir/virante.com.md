@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the virante.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607135058id_/http%3A//angular.marketing/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the virante.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207132616id_/http%3A//angular.marketing/privacy-policy) for the most accurate reproduction.*
 
 # Angular Privacy Policy
 
