@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the harmonica.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608041620id_/http%3A//www.harmonica.com/Privacy_Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the harmonica.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207044625id_/http%3A//www.harmonica.com/Privacy_Policy.html) for the most accurate reproduction.*
 
 # Privacy Policy-Harmonica.com - how to play the harmonica
 
