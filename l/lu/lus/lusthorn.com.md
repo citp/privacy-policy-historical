@@ -1,64 +1,100 @@
-> *The following text is extracted and transformed from the lusthorn.com privacy policy that was archived on 2014-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140920212933id_/http%3A//www.instabang.com/main.php%3Fa%3Dcontent.info%26page%3Dprivacy%26id%3Djetwebus%26prg%3D1%26tour%3D1%26ot%3D1%26cmp%3DusMay4%26ad_id%3Dibweb) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lusthorn.com privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208004042id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
 
-# Instabang.com - World's Best Personals
+# Legal Agreement
 
-INSTABANG.COM PRIVACY POLICY   
----  
-|  THIS POLICY WAS LAST UPDATED ON May 9, 2006  |    
----|---  
-| 
+**GoDaddy Respects Your Privacy**
 
-**Instabang Privacy Policy **  
-  
----  
-  
-Instabang, LLC ("we" or " Instabang ") have adopted this privacy policy to protect your personal information and to let you know how we might use it. This privacy policy only applies to activities you perform on the Instabang.com website, transactions for purchasing Instabang subscription services, and activities or communications that occur using the Instabang service (collectively known as the "Service") and does not apply to any other Website or offline point of contact between Instabang.com, Instabang, or any other company, and consumers. This policy was implemented on January 1, 2003 this policy may change from time-to-time, please periodically review this page. Each time you use the Service or provide us with information, by doing so you are accepting the practices described in this privacy policy at that time.   
-  
-**Your IP Address**
+**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
 
-Like most e-commerce Websites, each time use the Service, we automatically collect your IP address and the web page from which you came. In order to administer and optimize the Service for you and to diagnose problems, we use your IP address to help identify you and to gather broad demographic information about you.   
-  
-**Cookies**
+**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
 
-Like most Websites, the Service uses cookies to keep track of your purchases and other activity on the website and enhance your experience. We also use cookies to deliver content specific to your interests, to save your password, and if you choose, to save other personal and financial information so you do not have to reenter it each time you use the Service. Third party advertisers on the Site may also place or read cookies on your browser. If you wish to disable these cookies, the "help" portion of the toolbar on most browsers will tell you how. However, if you set your browser to disable cookies, you may not be able to access certain aspects of the Service.  
-  
-**Information We Collect From You**
+**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
 
-In order to operate the Service and to provide you with information about products or services that may be of interest to you, we may collect "personal information" (i.e. information that could be used to contact you directly without using the service" demographic information" (i.e. information that you submit, or that we collect, that is neither personal information nor financial information; this may include, but is not limited to, zip code, postal code, hometown, gender, username, age/birth date, purchase history information, browsing history information, searching history information, registration history information, and the content of communications between you and other members over the Service), subject to the rest of this paragraph. Demographic information is divided into two categories: 1) "non-public information", which consists of purchase history information and one-on-one communications between you and other users of the Service; and 2) "public information", which consists of all other demographic information. We ask that you do not enter personal information or financial information into your "Profile" (for example, don't use your address or passcode as your username, or include your name or address in your written responses), because if you do then it may be posted publicly on the Service, and the information will then be treated as "demographic information" that is "public information." Please note that nowhere on the Service do we knowingly collect personal information from children under the age of 18, as we require that all users represent to us that they are at least 18 years old.   
-  
-**Information Other Websites Collect From You**
+**Information Collection and Use**
 
-On the Service websites, we may place links to other Websites operated by other parties. Some of these other Websites contain our brand names and trademarks and other intellectual property that we own; others do not. When you click on these links and visit these other Websites, regardless of whether or not they contain our brand names, trademarks and other intellectual property, you need to be aware that we do not control these other Websites or these other Websites' business practices, and that this privacy policy does not apply to these other Websites. Consequently, the operators of these other Websites may collect different kinds of information about you, and may use and disclose that information in different ways than we would if it were collected on the Service. We encourage you to review their privacy policies and remind you that we will not be responsible for their actions.   
-  
-**How We Use Personal Information**
+Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
 
-Instabang is committed to treating your personal information with the highest degree of care. Your email address and personal information is not shared with any third parties and is solely used to send email communication from Instabang. Your personal information will not be resold to any third party. We use your email address and your other personal information to help us efficiently operate the Service, to contact you in connection with your transactions and other activities on the Service (including, but not limited to, confirmation emails or important news that could affect your relationship with Instabang.com), and to forward messages to you from other Instabang.com users. These types of communications are known as "Operational Communications." In some cases, Operational Communications may also contain commercial messages, such as banner ads and special offers.
+We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
 
-We also use personal information to send you newsletters, information, offers and other promotional materials for Instabang.com's or third parties' goods or services. We attempt to send you offers that are of value to you, such as discounts, exclusive offers or special event information. The Service provides you with options to decline to receive communications from Instabang.com (other than those contained in Operational Communications). Some of these options may only be for a certain category of communications; others may be more general. By posting a profile on the Service, you are opting in to receive messages from other Instabang.com members by email or text message. To stop receiving messages from other Instabang.com members, change your account settings on Instabang.com.
+We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
 
-To operate the Service, including processing your transactions and supporting your activities on the Service, we may share your personal information with our agents, representatives, contractors and service providers so they can provide us with support services such as authorization of credit card transactions, email origination, receipt or support services, customer relationship management services, order fulfillment and sweepstakes and promotional fulfillment. We require these entities not to use your information for any other purpose.
+We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
 
-By purchasing, or registering or making reservations for, products or services offered or sponsored by third parties on the Service, or electing to receive communications (such as emails or magazine subscriptions) or electing to participate in contests, sweepstakes or other programs (such as discount or rewards programs), offered or sponsored by third parties on the Service, you consent to our providing your personal information to those third parties. Those third parties may use your personal information in accordance with their own privacy policies. You will need to contact those third parties to instruct them directly regarding your preferences for the use of your personal information by them. Additionally, you agree that we may use and disclose all such information so submitted to such third parties in the same manner in which we are entitled to use and disclose any other information you submit to us.
+We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
 
-In some cases, we may enter into a promotional relationship with another company in which we prominently display their brand name or trademarks on pages of the Service. These pages are known as "Co-Branded Pages" and these companies are known as "Co-Branded Companies." If the page on which you submit information is a Co-Branded Page, or was accessed by clicking on a link on a Co-Branded Page, then we may share your personal information with the associated Co-Branded Company. Co-Branded Companies may use your personal information in accordance with their own privacy policies. You will need to contact Co-Branded Companies to instruct them directly regarding your preferences for the use of your personal information by them. Additionally, you agree that we may use and disclose all such information so submitted to such Co-Branded Companies in the same manner in which we are entitled to use and disclose any other information you submit to us. Some Co-Branded Pages may contain an action tag (also known as a Web Beacon or a 1 pixel .gif file) that a third party, may use to read cookies that it, or its clients, may have placed on your browser at other (non-Instabang.com) web sites before your visit to Instabang.com. This technology is used to measure the effectiveness of advertisements on such other Websites that promote Co-Branded Pages. Further, such other third parties may use the information collected through this technology to learn more about your visits to this Service and other Websites in order to provide advertisements about goods and services of interest to you.
+Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
 
-Any third party with whom we are allowed to share your personal information is authorized to use your personal information in accordance with our contractual arrangements with such third parties and in accordance with their own privacy policies, over which we have no control, and you agree that we are not responsible or liable for any of their actions or omissions. Those who contact you will need to be instructed directly by you regarding your preferences for the use of your personal information by them.
+This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
 
-Please read the information below under the heading "Special Cases in which we Share Personal and Financial Information" to learn more ways in which we may share your personal information.  
-  
-**How We Use Public Information and Other Demographic Information**
+**Security**
 
-We may review all demographic information. We may use public information to enable other users to find your profile, to determine whether they are a match for you and to communicate with you. We may use demographic information to tailor the Service and communications to your interests. We may also share demographic information with advertisers on an anonymous and aggregated basis (i.e., without telling the advertisers your identity). One of the reasons we may do this is to increase the likelihood that our advertisers' goods and services will appeal to Instabang.com's users, so that we may target specific ads at specific demographic groups. Our sharing of demographic information with advertisers is anonymous (i.e., we do not tell advertisers which particular Instabang.com users are members of which demographic groups), subject to the rest of this privacy policy. When you respond to an advertisement, however, we ask you to remember that if that ad that is targeted to a demographic group and you decide to give the advertiser your personal information, then the advertiser may be able to identify you as being a member of that demographic group. Please also be aware that when we disclose your financial information or personal information to a Co-Branded Company, as described above, we may also disclose to that Co-Branded Company your demographic information, other than the content of one-on-one communications between you and other members. Please also be aware that we may disclose your demographic information on a non-anonymous basis as described above in the paragraph titled "Special Cases in which we Share Personal and Financial Information." Also, to read further details about how we may use your public information, see our [Terms of Use](https://web.archive.org/main.php?a=content.info&page=terms&prg=1&id=jetwebus).  
-  
-**Changing our Privacy Policy for Previously Gathered Information**
+This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.  We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it.  No method of transmission over the Internet, or method of electronic storage, is 100% secure, however.  Therefore, we cannot guarantee its absolute security.
 
-If at any point we decide to use particular personally identifiable information in a manner different from that stated at the time it was collected, we will notify users by way of an email or by providing 30 days notice on the Service. Please note that we will continue to have the right to change our privacy policy and practices, and how we use your personally identifiable information, without notice, as described in the first paragraph of this Privacy Policy, provided that such changes shall only apply to information gathered on or after the date of the change.  
-  
-**How You Can Access and Update Your Email Preferences, Personal Information and Public Information**
+**Updating Your Information**
 
-We give you the opportunity to opt-out of certain communications and modify personal information or demographic information you have provided to us, and to hide demographic information from, or make demographic information visible to, the public users of the Service, at anytime by going to the "Account Settings" in your Instabang.com profile of the Service. Please be aware that it may take several hours for the changes you make to take effect on the public areas of the Service. We thank you for your patience. Please note that changing or deleting your information in the "Account Settings" section of the Service, or otherwise opting-out of receipt of email communications from Instabang.com, will only change or delete the data in our database for purposes of future activities on the Service and for managing future communications from Instabang.com. These changes and deletions will not change or delete emails or information that we may have already forwarded to other users or credit card companies or any other third parties, all as provided above in this privacy policy.
+You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
 
-If you have any questions or concerns about this privacy policy, the practices of the Service, or your dealings with the Service, you can contact us at [support@gpnethelp.com](mailto:support@gpnethelp.com) or by calling +1-305-712-6612. You can also send us mail to: Privacy Officer, Instabang, LLC, 705 Washington Ave 2nd Floor, Miami Beach, FL. 33139.  
-  
-   
-  |  
+        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
+
+       ii.      You may send mail to GoDaddy at the following postal address:   
+               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
+
+      iii.      You may call us at: (480) 505-8800
+
+       iv.      You may fax us at: (480) 505-8844
+
+**Sending Emails**
+
+We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
+
+The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
+
+**Compliance with Laws and Law Enforcement**
+
+We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
+
+**Third Party Service Providers**
+
+We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
+
+In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel GIF or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
+
+**Supplementation of Information**
+
+In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
+
+**Contests/Surveys**
+
+From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
+
+We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
+
+**Tell-A-Friend**
+
+If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. GoDaddy will automatically send the friend a one-time email inviting them to visit our Site. GoDaddy stores this information for the sole purpose of sending this one-time email. The friend may contact GoDaddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
+
+**What Happens to my Personal Information if I Opt Out?**
+
+If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information as necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
+
+**Transfer of Data Abroad**
+
+If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
+
+**Changes in Our Practices**
+
+We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+
+If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
+
+**Contacting Our Site**
+
+If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
+
+* * *
+
+GoDaddy   
+ATTN: Web Team   
+14455 North Hayden Rd.   
+Suite 219   
+Scottsdale, AZ, 85260, U.S.A.
