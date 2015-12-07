@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clari.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608095950id_/http%3A//www.clari.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clari.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207151114id_/http%3A//www.clari.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -36,7 +36,7 @@ Clari uses your Information as follows:
   * To operate and maintain the Service (such as, for the purposes of fixing malfunctions, testing our security systems, etc.). 
   * To provide you with the features, functions and benefits of the Service. 
   * To enhance, improve and further develop the Service (such as, creating new features or functions, refining the user experience, increasing Service technical performance, etc.). 
-  * We will use your contact information to provide you with notices relate to your use of the Service. 
+  * We will use your contact information to provide you with notices related to your use of the Service. 
   * We will use your contact information (such as, your email address) to provide you with promotional and marketing emails. You can opt-out of receiving certain types of promotional and marketing emails - but in such case you may not receive the full benefit of the Service. Opting-out can be done by clicking the " **manage email settings** " link at the bottom of every email. 
   * To help personalize the Service experience for you (such as, remembering your information so you will not have to enter it each time you use the Service). 
   * And for the other purposes referenced in the " _Will Clari Share And of the Information it Receives_ " section below (such as, for the purposes of legal compliance). 
@@ -89,7 +89,7 @@ Under California Civil Code Sections 1798.83-1798.84, California residents are e
 
 **_What about third-party services Clari connects to?_**
 
-Clari links to other services, such as Salesforce. Clari does not access any information from these third-party services without your authorization. Except for Microsoft Exchange connectivity, the authentication process for 3rd party services is entirely managed by the third party. Clari never sees or stores your password to these services. In the case of Microsoft Exchange, Clari stores an encrypted version of your password which is never accessible in its original form, even to Clari personnel. 
+Clari links to other services, such as Salesforce. Clari does not access any information from these third-party services without your authorization. Except for Microsoft Exchange connectivity, the authentication process for 3rd party services is entirely managed by the third party. Clari never sees or stores your password to these services. In the case of Microsoft Exchange, Clari stores an encrypted version of your password. 
 
 **_How We Protect Your Information_**
 
@@ -105,4 +105,4 @@ This Privacy Policy was last changed on the date set forth at the top of the pol
 
 **_Contacting Us_**
 
-If you have any questions or concerns regarding our privacy practices, please send us a detailed message to [info@clari.com](mailto:info@clari.com) or: Clari Inc. 100 W. Evelyn Ave, Ste. 210, Mountain View, CA 94041 
+If you have any questions or concerns regarding our privacy practices, please send us a detailed message to [info@clari.com](mailto:info@clari.com) or: Clari Inc., 1154 Sonora Court, Sunnyvale, CA 94086 
