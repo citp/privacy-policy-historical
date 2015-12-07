@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the meetgadget.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607142923id_/http%3A//www.meetgadget.com/static/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the meetgadget.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207024107id_/http%3A//www.meetgadget.com/static/privacy) for the most accurate reproduction.*
 
 # Meet Gadget Privacy
 
