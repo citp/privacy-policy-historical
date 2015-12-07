@@ -1,9 +1,9 @@
-<!--The following is the downloaded HTML source of the bnpparibasopen.org privacy policy that was archived on 2015-06-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150607194307id_/http%3A//www.bnpparibasopen.com/en/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bnpparibasopen.org privacy policy that was archived on 2015-12-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151207114811id_/http%3A//www.bnpparibasopen.com/en/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="" lang="en"><!--<![endif]--><head>
 	<meta charset="utf-8">
-	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"><script src="https://js-agent.newrelic.com/nr-632.min.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info = {"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"a487b485d3","applicationID":"2412481","transactionName":"Y1VRMkMFXkEHUhdcXVofYwdWAR9XCB4TR1tCUVAfHBRfXg9SGg==","queueTime":0,"applicationTime":14,"ttGuid":"17289EE4580C72A8","agent":"js-agent.newrelic.com/nr-632.min.js"}</script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VgYGUFdRGwEEVVNWDwA="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),u=c.length,f=i(a,o,r),d=0;u>d;d++)c[d].apply(f,n);return f}function a(t,e){u[t]=s(t).concat(e)}function s(t){return u[t]||[]}function c(){return n(e)}var u={};return{on:a,emit:e,create:c,listeners:s,_events:u}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:20,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(u){try{r("ierr",[u,(new Date).getTime(),!0])}catch(f){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(3),window.onerror=e;try{throw new Error}catch(u){"stack"in u&&(t(4),t(5),"addEventListener"in window&&t(1),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&t(2),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:8,3:3,4:7,5:6,6:21,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:21,2:22,ee:"QJf3ax",gos:"7eSDFh"}],6:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:22,2:21,ee:"QJf3ax"}],7:[function(t,e){function n(t,e,n){t[0]=o(t[0],"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:22,2:21,ee:"QJf3ax"}],8:[function(t,e){function n(){u.inPlace(this,p,"fn-")}function r(t,e){u.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),u=c(a),f=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),f.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(i){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,u.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:5,2:22,ee:"QJf3ax"}],9:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var a=t.responseType,u="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=n(u);if(f&&(r.rxSize=f),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(e.cat=d.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,o("xhr",[e,r,this.startTime])}}}function n(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,u=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=e,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,e){var r=this.metrics,o=t[0],i=this;if(r&&o){var u=n(o);u&&(r.txSize=u)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{a.emit("internal-error",[n])}catch(r){}}};for(var f=0;c>f;f++)e.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:10,3:8,4:5,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],10:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],11:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:20,2:21,handle:"D5DuLP"}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info,e=u.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){s(d,function(e,n){e in t||(t[e]=n)});var n="https"===f.split(":")[0]||t.sslForHttp;p.proto=n?"https://":"http://",a("mark",["onload",i()]);var r=u.createElement("script");r.src=p.proto+t.agent,e.parentNode.insertBefore(r,e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=(t(2),window),u=c.document,f=(""+location).split("?")[0],d={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-632.min.js"},p=e.exports={offset:i(),origin:f,features:{}};u.addEventListener?(u.addEventListener("DOMContentLoaded",o,!1),c.addEventListener("load",n,!1)):(u.attachEvent("onreadystatechange",r),c.attachEvent("onload",n)),a("mark",["firstbyte",i()])},{1:20,2:11,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],20:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],21:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],22:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,u;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){f([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return u=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,u],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,u(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,u="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,u?s+o:o,i,s))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){f([o,e,n,r])}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){f([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function f(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:21,ee:"QJf3ax"}]},{},["G9z0Bl",4,9]);</script>
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"><script src="https://js-agent.newrelic.com/nr-768.min.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info = {"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"a487b485d3","applicationID":"2412481","transactionName":"Y1VRMkMFXkEHUhdcXVofYwdWAR9XCB4TR1tCUVAfHBRfXg9SGg==","queueTime":0,"applicationTime":55,"ttGuid":"F87C8220E5AB0AAE","agent":"js-agent.newrelic.com/nr-768.min.js"}</script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VgYGUFdRGwEEVVNWDwA="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),f=c.length,u=i(a,o,r),d=0;f>d;d++)c[d].apply(u,n);return u}function a(t,e){f[t]=s(t).concat(e)}function s(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:s,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:20,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(f){try{r("ierr",[f,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(3),window.onerror=e;try{throw new Error}catch(f){"stack"in f&&(t(4),t(5),"addEventListener"in window&&t(1),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&t(2),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:8,3:3,4:7,5:6,6:21,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=t("ee").create(),i=t(1)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t,e){function n(){return s}if(t[1]){var r=t[1];if("function"==typeof r){var s=a(r,"nr@wrapped",function(){return i(r,"fn-",n,r.name||"anonymous")});this.wrapped=t[1]=s,o.emit("initEventContext",[t,e],this.wrapped)}else"function"==typeof r.handleEvent&&i.inPlace(r,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:22,ee:"QJf3ax",gos:"7eSDFh"}],6:[function(t,e){var n=t("ee").create(),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:22,ee:"QJf3ax"}],7:[function(t,e){function n(t,e,n){t[0]=i(t[0],"fn-",null,n)}function r(t,e,n){function r(){return a}this.ctx={};var a={"nr@context":this.ctx};o.emit("initTimerContext",[t,n],a),t[0]=i(t[0],"fn-",r,n)}var o=t("ee").create(),i=t(1)(o);e.exports=o,i.inPlace(window,["setTimeout","setImmediate"],"setTimer-"),i.inPlace(window,["setInterval"],"setInterval-"),i.inPlace(window,["clearTimeout","clearImmediate"],"clearTimeout-"),o.on("setInterval-start",n),o.on("setTimer-start",r)},{1:22,ee:"QJf3ax"}],8:[function(t,e){function n(){f.inPlace(this,p,"fn-",o)}function r(t,e){f.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),f=c(a),u=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),e.hasOwnProperty("addEventListener")&&u.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(i){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,f.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:5,2:22,ee:"QJf3ax"}],9:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var a=t.responseType,f="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,u=n(f);if(u&&(r.rxSize=u),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(e.cat=d.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,o("xhr",[e,r,this.startTime])}}}function n(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,f=t(1),u=window.XMLHttpRequest;t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=e,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,e){var r=this.metrics,o=t[0],i=this;if(r&&o){var f=n(o);f&&(r.txSize=f)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{a.emit("internal-error",[n])}catch(r){}}};for(var u=0;c>u;u++)e.addEventListener(s[u],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof u&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof u&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof u&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:10,3:8,4:5,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],10:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],11:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:20,2:21,handle:"D5DuLP"}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):void(r.q&&(r.q[t]||(r.q[t]=[]),r.q[t].push(e)))}var r=t("ee").create();e.exports=n,n.ee=r,r.q={}},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info,e=f.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){s(d,function(e,n){e in t||(t[e]=n)});var n="https"===u.split(":")[0]||t.sslForHttp;p.proto=n?"https://":"http://",a("mark",["onload",i()]);var r=f.createElement("script");r.src=p.proto+t.agent,e.parentNode.insertBefore(r,e)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=window,f=c.document;t(2);var u=(""+location).split("?")[0],d={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-768.min.js"},p=e.exports={offset:i(),origin:u,features:{}};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),c.addEventListener("load",n,!1)):(f.attachEvent("onreadystatechange",r),c.attachEvent("onload",n)),a("mark",["firstbyte",i()])},{1:20,2:11,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],20:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],21:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],22:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@original",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,f;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){u([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return f=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,f],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=t,f(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){u([o,e,n,r])}}function f(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){u([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function u(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:21,ee:"QJf3ax"}]},{},["G9z0Bl",4,9]);</script>
 
 	<title>
 		Privacy Policy | BNP Paribas Open
@@ -13,7 +13,7 @@
 	
 
     <!-- facebook -->
-   		<meta property="og:image" content="http://www.bnpparibasopen.com/~/media/indian-wells/images/global/img_22082014_095050.ashx?mh=1000&amp;mw=1000">
+   		<meta property="og:image" content="http://www.bnpparibasopen.com/~/media/indian-wells/images/articles/1007_djokovicfeatured.ashx?mh=1000&amp;mw=1000">
 
 	
 	
@@ -56,7 +56,7 @@
 
 	
 	<meta name="viewport" content="width=device-width, maximum-scale=1, user-scalable=1">
-	<link rel="stylesheet" type="text/css" href="/Assets/IndianWells/css/desktop.css?v=635601736097049351">
+	<link rel="stylesheet" type="text/css" href="/Assets/IndianWells/css/desktop.css?v=635836327832396517">
 
 
 	<!-- fonts -->
@@ -70,32 +70,31 @@
 <script type="text/javascript">
     var _gaq = _gaq || [];
 
-    var pluginUrl = '//www.google-analytics.com/plugins/ga/inpage_linkid.js';
-    _gaq.push(['_require', 'inpage_linkid', pluginUrl]);
 
-    _gaq.push(['_setAccount', 'UA-4616629-8']);
-    _gaq.push(['_setDomainName', 'bnpparibasopen.com']);
-    _gaq.push(['_trackPageview']);
+	  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	  	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
-    (function () {
-      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-    })();
-
-    //Start -- secondary analytics
-    (function (i, s, o, g, r, a, m) {
-        i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function() {
-                (i[r].q = i[r].q || []).push(arguments);            }
-    , i[r].l = 1 * new Date(); a = s.createElement(o),
-    m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
-    })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
-
-
-    ga('create', 'UA-55969109-1', 'auto');
+    ga('create', 'UA-4616629-8', 'auto', {'allowLinker': true});
     ga('send', 'pageview');
+    ga('require', 'linker');
+    ga('linker:autoLink', ['bnpparibasopen.com', 'ticketingcentral.com']);
 
-    //end -- secondary analytics
+
+    ////Start -- secondary analytics
+    //(function (i, s, o, g, r, a, m) {
+    //    i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function() {
+    //            (i[r].q = i[r].q || []).push(arguments);            }
+    //, i[r].l = 1 * new Date(); a = s.createElement(o),
+    //m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+    //})(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+
+    //ga('create', 'UA-55969109-1', 'auto');
+    //ga('send', 'pageview');
+
+    ////end -- secondary analytics
 
   </script>
 
@@ -107,27 +106,37 @@
 
 
 
-<header class="header" style="margin-top: 29px;">
+<header class="header">
+	
 	
 
 	
+
+
 
 
 
 <div class="header-main">
 
+	<div class="site-logo"><a class="site-logo__link" href="/en" title="BNP Paribas Open">
+	<img src="/~/media/indian-wells/images/global/bnp-logo.ashx?h=117&amp;la=en&amp;w=117" class="site-logo__image" alt="Indian Wells" width="117" height="117">
+	</a></div>
+
+<div class="event-info">		<strong class="event-info__name">BNP Paribas Open</strong>
+		<span class="event-info__details">Indian Wells, CA–March 7-20, 2016</span>
+</div>
 	<div class="header-main-title">
-		<div class="site-logo"><a href="/en" title="BNP Paribas Open"><img src="/~/media/indian-wells/images/global/bnp-logo.ashx?h=117&amp;la=en&amp;w=117" alt="Indian Wells" width="117" height="117"></a></div>
 
-<div class="site-date-location">Indian Wells, CA <br>March 7-20, 2016</div>	</div>
+
+
+	</div>
 	<div class="header-callout">
-		<h3 class="header-callout-heading">
-			Official Event
-		</h3>
 
-<a rel="nofollow" href="http://www.atpworldtour.com/" target="_blank"><img src="/~/media/indian-wells/images/global/atp.ashx" alt="ATP"></a><a rel="nofollow" href="http://wtatennis.com" target="_blank"><img src="/~/media/indian-wells/images/global/wta_premier_cmyk-copy.ashx" alt=""></a>	</div>
+<a href="http://www.atpworldtour.com/" rel="nofollow" class="header-callout__sponsor" target="_blank"><img src="/~/media/indian-wells/images/sponsors/1000-pos-cmyk-l.ashx?h=70&amp;la=en&amp;w=52" class="header-callout__logo" alt="ATP World Tour" width="52" height="70"></a><a href="http://www.wtatennis.com/" rel="nofollow" class="header-callout__sponsor" target="_blank"><img src="/~/media/indian-wells/images/sponsors/wta_premier_keyline_cmyk---white-premier-tag.ashx?h=70&amp;la=en&amp;w=83" class="header-callout__logo" alt="WTA Premier Event" width="83" height="70"></a>	</div>
 
 	<div class="header-meta">
+
+		<div class="header-sub-weather" id="headerWeather" data-key="484f7372-301e-4334-800b-69c8864fc0ea"></div>
 
 		
 <div class="header-language-selector">
@@ -136,47 +145,161 @@
 
 </div>
 
-		<div class="header-sub-weather" id="headerWeather" data-key="484f7372-301e-4334-800b-69c8864fc0ea"></div>
-
 	</div><!-- .header-meta -->
 
 </div>
 
+
+
 <nav class="site-navigation" id="siteNav">
 
-    <div class="nav-wrapper">
-        <div class="site-logo-compact">
-            <a href="/en">
-                <img src="/~/media/indian-wells/images/global/bnp-logo.ashx?h=117&amp;la=en&amp;w=117" alt="Indian Wells" width="117" height="117">
-            </a>
-        </div><!-- .site-logo-compact -->
+    
 
         <ul class="site-nav-list" id="siteNavList">
-	            <li class="site-nav-item"><a href="/en/visit-us" id="visit-us">Visit Us</a></li>
-	            <li class="site-nav-item"><a href="/en/tickets-and-packages" id="tickets-and-packages">Tickets &amp; Packages</a></li>
-	            <li class="site-nav-item"><a href="/en/media-and-news" id="media-and-news">Media &amp; News</a></li>
-	            <li class="site-nav-item"><a href="/en/schedules/match-schedule" id="schedules">Event Info</a></li>
-	            <li class="site-nav-item"><a href="/en/players/2015-entry-list" id="players">Players</a></li>
-	            <li class="site-nav-item"><a href="/en/get-involved/sponsorship-opportunities" id="get-involved">Get Involved</a></li>
+	            <li class="site-nav-item">
+		            <a href="/en/visit-us" id="visit-us">Visit Us</a>
+
+						<ul class="dropdown">
+								<li class="dropdown-item">
+									<a href="/en/visit-us/the-venue" id="the-venue">The Venue</a>
+								</li>
+								<li class="dropdown-item">
+									<a href="/en/visit-us/the-tournament" id="the-tournament">The Tournament</a>
+								</li>
+								<li class="dropdown-item">
+									<a href="/en/visit-us/indian-wells" id="indian-wells">Indian Wells</a>
+								</li>
+								<li class="dropdown-item">
+									<a href="/en/visit-us/a-z-guide" id="a-z-guide">A-Z Guide</a>
+								</li>
+						</ul>
+		            
+	            </li>
+	            <li class="site-nav-item">
+		            <a href="/en/tickets-and-packages" id="tickets-and-packages">Tickets &amp; Packages</a>
+
+						<ul class="dropdown">
+								<li class="dropdown-item">
+									<a href="/en/tickets-and-packages/daily-tickets" id="daily-tickets">Daily Tickets</a>
+								</li>
+								<li class="dropdown-item">
+									<a href="/en/tickets-and-packages/classic-series" id="classic-series">Series</a>
+								</li>
+								<li class="dropdown-item">
+									<a href="/en/tickets-and-packages/mini-packages" id="mini-packages">Mini Packages</a>
+								</li>
+								<li class="dropdown-item">
+									<a href="/en/tickets-and-packages/hotel-packages" id="hotel-packages">Hotel Packages</a>
+								</li>
+								<li class="dropdown-item">
+									<a href="/en/tickets-and-packages/group-packages" id="group-packages">Group Packages</a>
+								</li>
+								<li class="dropdown-item">
+									<a href="/en/tickets-and-packages/entertainment-package" id="entertainment-package">Entertainment Packages</a>
+								</li>
+								<li class="dropdown-item">
+									<a href="https://www7.ticketingcentral.com/Portal/login.aspx?cust=IndWells&amp;skinTheme=IndWells" target="_blank" id="my-account" class="ga-external-link">My Account<span class="icon-external"></span></a>
+								</li>
+						</ul>
+		            
+	            </li>
+	            <li class="site-nav-item">
+		            <a href="/en/media-and-news" id="media-and-news">Media &amp; News</a>
+
+						<ul class="dropdown">
+								<li class="dropdown-item">
+									<a href="/en/media-and-news/news" id="news">News</a>
+								</li>
+								<li class="dropdown-item">
+									<a href="/en/media-and-news/photos" id="photos">Photos</a>
+								</li>
+								<li class="dropdown-item">
+									<a href="/en/media-and-news/videos" id="videos">Videos</a>
+								</li>
+								<li class="dropdown-item">
+									<a href="/en/media-and-news/social-fan-zone" id="social-fan-zone">Social Fan Zone</a>
+								</li>
+								<li class="dropdown-item">
+									<a href="/en/media-and-news/interview-transcripts" id="interview-transcripts">Interview Transcripts</a>
+								</li>
+								<li class="dropdown-item">
+									<a href="/en/media-and-news/news/2015/02/20/celebrating-40-years" id="celebrating-40-years">Celebrating 40 Years</a>
+								</li>
+						</ul>
+		            
+	            </li>
+	            <li class="site-nav-item">
+		            <a href="/en/schedules/event-calendar" id="schedules">Event Info</a>
+
+						<ul class="dropdown">
+								<li class="dropdown-item">
+									<a href="/en/schedules/event-calendar" id="event-calendar">2016 Event Calendar</a>
+								</li>
+								<li class="dropdown-item">
+									<a href="/~/media/indian-wells/files/2015-collegiate-challenge.ashx" target="_blank" id="collegiate-challenge-2015" class="ga-external-link">Collegiate Challenge<span class="icon-external"></span></a>
+								</li>
+								<li class="dropdown-item">
+									<a href="/en/schedules/senior-cup" id="senior-cup">Senior Cup</a>
+								</li>
+						</ul>
+		            
+	            </li>
+	            <li class="site-nav-item">
+		            <a href="/en/players/2015-entry-list" id="players">Players</a>
+
+						<ul class="dropdown">
+								<li class="dropdown-item">
+									<a href="/en/players/2015-entry-list" id="2015-entry-list">2015 Entry List</a>
+								</li>
+								<li class="dropdown-item">
+									<a href="/en/players/past-champions" id="past-champions">Past Champions</a>
+								</li>
+								<li class="dropdown-item">
+									<a href="/en/players/draws" id="draws">Draws</a>
+								</li>
+						</ul>
+		            
+	            </li>
+	            <li class="site-nav-item">
+		            <a href="/en/get-involved/sponsorship-opportunities" id="get-involved">Get Involved</a>
+
+						<ul class="dropdown">
+								<li class="dropdown-item">
+									<a href="/en/get-involved/sponsorship-opportunities" id="sponsorship-opportunities">Sponsorship Opportunities</a>
+								</li>
+								<li class="dropdown-item">
+									<a href="/en/get-involved/sponsors" id="sponsors">Sponsors</a>
+								</li>
+								<li class="dropdown-item">
+									<a href="/en/get-involved/advertising" id="Advertising">Advertising</a>
+								</li>
+								<li class="dropdown-item">
+									<a href="/en/get-involved/exhibitors" id="exhibitors">Exhibitors</a>
+								</li>
+								<li class="dropdown-item">
+									<a href="/en/get-involved/volunteer" id="volunteer">Volunteers</a>
+								</li>
+								<li class="dropdown-item">
+									<a href="/en/get-involved/ball-kids" id="ball-kids">Ball Kids</a>
+								</li>
+						</ul>
+		            
+	            </li>
         </ul><!-- .site-nav-list -->
-
-        <div class="site-search" id="siteSearch">
-            
-
-<form method="GET" action="/en/search-results">
-        <div class="site-search-display">
-            <input name="q" id="q" class="site-search-input" placeholder="Search" type="text">
-        </div>
-        <button class="icon-search" id="searchBtn" type="submit"></button>
-</form>
-
-        </div><!-- .site-search -->
-
-    </div> <!-- .nav-wrapper -->
-
+	
 </nav><!-- .site-navigation -->
 <!-- END : SITE NAVIGATION -->
 
+<section class="site-search" id="siteSearch">
+	
+<form method="GET" action="/en/search-results" class="site-search-form">
+		<input name="q" id="q" class="site-search-input" placeholder="Search" type="search">
+</form>
+<button class="icon-search" id="searchBtn"></button>
+
+</section><!-- .site-search -->
+
+	
 </header>
 
 
@@ -213,147 +336,146 @@
 </div>
 
 <div class="container main-content">
+
 	
 
 <article class="article">
-	<p style="margin-bottom: 12pt; background-image: initial; background-attachment: initial; background-size: initial; background-origin: initial; background-clip: initial; background-position: initial; background-repeat: initial;">Your privacy on the Internet is of the utmost importance to us. Because we gather certain types of information about the users of bnpparibasopen.com, we feel you should fully understand the terms and conditions surrounding the capture and use of that information. This privacy statement (this "Statement") discloses the privacy practices for bnpparibasopen.com (the "Site"), what information we gather, how we use it and how to correct or change it. This Statement only addresses the activities from our own servers. Other web sites (including but not limited to those third party web sites or services to which the Site links) may have their own privacy policies and practices, which we do not control.</p>
-<p style="margin-bottom: 7.5pt; background-image: initial; background-attachment: initial; background-size: initial; background-origin: initial; background-clip: initial; background-position: initial; background-repeat: initial;"><strong>General Privacy Information</strong></p>
-<p style="margin-bottom: 12pt; background-image: initial; background-attachment: initial; background-size: initial; background-origin: initial; background-clip: initial; background-position: initial; background-repeat: initial;">bnpparibasopen.com contains links to our sponsors, partners, advertisers, vendors, and service providers (collectively, "bnpparibasopen.com partners") through third party web sites and online services that may collect data in connection with sweepstakes, promotions, e-commerce, etc. They each have separate privacy and data collection practices, independent of bnpparibasopen.com, and we have no responsibility or liability for these independent policies or actions and are not responsible or liable for the privacy practices or the content of such web sites or online services. Please keep in mind that whenever you voluntarily and publicly disclose personal information on any web site or online service-- for example on message boards, through e-mail, or in chat areas -- that information can be collected and used by others. In short, if you post personal information online that is accessible to the public, you may receive unsolicited messages from other parties in return. Further, while we strive to protect your personal information, we cannot ensure or warrant the security of any information you transmit to us, and you do so at your own risk. You are solely responsible for maintaining the secrecy of your passwords and/or any account information. Please be careful and responsible whenever you are online. </p>
-<p style="margin-bottom: 7.5pt; background-image: initial; background-attachment: initial; background-size: initial; background-origin: initial; background-clip: initial; background-position: initial; background-repeat: initial;"><strong>Protecting Your Information</strong></p>
-<p style="margin-bottom: 12pt; background-image: initial; background-attachment: initial; background-size: initial; background-origin: initial; background-clip: initial; background-position: initial; background-repeat: initial;">We would like our Site users to feel confident about using the Site to explore the range of information, promotions, services and products we offer, so bnpparibasopen.com is committed to protecting the information we collect. bnpparibasopen.com has implemented a security program to keep information that is stored in our systems protected from unauthorized access.</p>
-<p style="margin-bottom: 12pt; background-image: initial; background-attachment: initial; background-size: initial; background-origin: initial; background-clip: initial; background-position: initial; background-repeat: initial;">Our Site is hosted in a secure environment. The Site servers/systems are configured with data encryption, or scrambling, technologies, and industry-standard firewalls. When you enter personal information during the reservation process, or during a visitor e-mail sign-up, your data is protected by Secure Socket Layer (SSL) technology to ensure safe transmission. </p>
-<p style="margin-bottom: 7.5pt; background-image: initial; background-attachment: initial; background-size: initial; background-origin: initial; background-clip: initial; background-position: initial; background-repeat: initial;"><strong>What Information Is Collected About You? How Do We Use It?</strong></p>
-<p style="margin-bottom: 12pt; background-image: initial; background-attachment: initial; background-size: initial; background-origin: initial; background-clip: initial; background-position: initial; background-repeat: initial;">We take the utmost care to ensure that the personal information we obtain from you is not used in an unacceptable or undisclosed manner. You may wish to submit an information request about our Site, participate in one of our promotions or sweepstakes, subscribe to our e-mail or postal mail lists or purchase offered products and services . In response, we may ask for information such as your name and postal address. In the event you opt to provide us with this information, we will only use it for the purpose specified by you at the bottom of the information gathering form.</p>
-<p style="margin: 0in 0in 7.5pt 22.5pt; background-image: initial; background-attachment: initial; background-size: initial; background-origin: initial; background-clip: initial; background-position: initial; background-repeat: initial;">Information collected on the Site may be used to: </p>
-<ul>
-    <li>Register you as a club member or e-newsletter recipient </li>
-    <li>Purchase offered products and services </li>
-    <li>Enter your e-mail address in our promotions and sweepstakes </li>
-    <li>Send marketing communications and surveys to you </li>
-    <li>Respond to your questions and suggestions </li>
-    <li>Improve the quality of your visit to our Site </li>
-</ul>
-<p style="margin-bottom: 12pt; background-image: initial; background-attachment: initial; background-size: initial; background-origin: initial; background-clip: initial; background-position: initial; background-repeat: initial;">All forms will provide an opt-out button to allow you to choose not to participate in bnpparibasopen.com lists and future online marketing. In deciding whether or not to join such lists, please note that they are only used for bnpparibasopen.com purposes or in joint promotions with a bnpparibasopen.com partner. We do not sell, rent or share any of your personal information with any other party, except as provided in this Statement, including any third-party joint promoters, nor use it for unapproved commercial purposes. You may request to be removed from our lists at any time. All e-mails distributed to our lists will contain easy, online access to unsubscribe.</p>
-<p style="margin-bottom: 7.5pt; background-image: initial; background-attachment: initial; background-size: initial; background-origin: initial; background-clip: initial; background-position: initial; background-repeat: initial;"><strong>Registration</strong></p>
-<p style="margin-bottom: 12pt; background-image: initial; background-attachment: initial; background-size: initial; background-origin: initial; background-clip: initial; background-position: initial; background-repeat: initial;">Anyone who participates in interactive activities (chat, message boards, contests, store and fantasy product purchase, membership program, etc.) on bnpparibasopen.com may be asked to register for a free guest ID and password or to complete subscription registration for a member ID and password. We use customer contact information from this registration form to send the user information about our company and promotional material from some of our bnpparibasopen.com partners. Financial information that is collected is used to bill the user for products and services. Contact information is also used to contact you when necessary for customer service reasons. Unique identifiers, such as ID and passwords, are collected to verify the user's identity and for use as account numbers in our record system. </p>
-<p style="margin-bottom: 7.5pt; background-image: initial; background-attachment: initial; background-size: initial; background-origin: initial; background-clip: initial; background-position: initial; background-repeat: initial;"><strong>Children's Privacy &amp; Parental Consent</strong></p>
-<p style="margin-bottom: 12pt; background-image: initial; background-attachment: initial; background-size: initial; background-origin: initial; background-clip: initial; background-position: initial; background-repeat: initial;">Please be aware that we did not design this Site for, and do not intend for it to be used by, nor should it be used by, anyone under the age of 18. Our Privacy Policy prohibits us from accepting users who are under the age of 18. We specifically request that persons under the age of 18 not use the Site or submit or post information to the Site. Should we inadvertently acquire personal information or other data from users under the age of 18, we will not knowingly provide this data to any third party for any purpose whatsoever, and any subsequent disclosure would be due to the fact the user under the age of 18 used the Site and submitted personal information without solicitation by or permission from us or through bnpparibasopen.com.</p>
-<p style="margin-bottom: 7.5pt; background-image: initial; background-attachment: initial; background-size: initial; background-origin: initial; background-clip: initial; background-position: initial; background-repeat: initial;"><strong>Use of Cookies</strong></p>
-<p style="margin-bottom: 12pt; background-image: initial; background-attachment: initial; background-size: initial; background-origin: initial; background-clip: initial; background-position: initial; background-repeat: initial;">To enable features at the Site, one or more "cookies" may be assigned to your Internet browser. Cookies, among other things, speed navigation through our Site, keep track of information so that you do not have to re-enter it each time you visit our Site, and may provide you with customized content. A cookie is an Internet mechanism composed of a small text file containing a unique identification number that permits a web server to send small pieces of information or text by means of your browser and place them on your computer's hard drive for storage. This text lets the web server know if you have previously visited the web page. Cookies by themselves cannot be used to find out the identity of any user, read data off your hard disk, read cookie files created by other web sites, or pass on computer viruses. <br>
-<br>
-We use cookies to collect and maintain aggregated data (such as the number of visits) to help us see which areas are most popular with our users and improve and update the content on our site. While in the process of browsing our site, you also provide us with information that doesn't reveal your personal identity -- what type of destination you're exploring, for example. We use this aggregated data only as explained in this Statement. We do not connect aggregated data to any name, address, or other identifying information.</p>
-<p style="margin-bottom: 12pt; background-image: initial; background-attachment: initial; background-size: initial; background-origin: initial; background-clip: initial; background-position: initial; background-repeat: initial;">You may occasionally receive cookies from bnpparibasopen.com partners, to the extent they place advertising on the Site or are linked to the Site. These third party cookies may collect information about you when you “click” on their advertising or content or link. This practice is standard in the Internet industry. Because of the way in which the Internet operates, we cannot control collection of this information by these third parties, and these cookies are not subject to this Statement.</p>
-<p style="margin-bottom: 7.5pt; background-image: initial; background-attachment: initial; background-size: initial; background-origin: initial; background-clip: initial; background-position: initial; background-repeat: initial;"><strong>Surveys</strong></p>
-<p style="margin-bottom: 12pt; background-image: initial; background-attachment: initial; background-size: initial; background-origin: initial; background-clip: initial; background-position: initial; background-repeat: initial;">Our online surveys ask users for their e-mail address and demographic information. Demographic and profile data is also collected at our Site. We use this data to tailor our user’s experience at our Site, showing them content and promotional offers that we think they might be interested in, and displaying the content according to their preferences. This information is shared with our bnpparibasopen.com partners only on an aggregated basis. We may use contact data from our surveys to send the user information about our company and promotional material from bnpparibasopen.com or some of our bnpparibasopen.com partners. Users may opt-out of receiving future mailings by clicking on the indicated button.</p>
-<p style="margin-bottom: 7.5pt; background-image: initial; background-attachment: initial; background-size: initial; background-origin: initial; background-clip: initial; background-position: initial; background-repeat: initial;"><strong>Contests</strong></p>
-<p style="margin-bottom: 12pt; background-image: initial; background-attachment: initial; background-size: initial; background-origin: initial; background-clip: initial; background-position: initial; background-repeat: initial;">We run contests on our Site in which we ask users for bnpparibasopen.com ID and password. We use contact data from our contests to send users information about upcoming contests and promotional offers. On occasion we will e-mail users promotional material from some of our bnpparibasopen.com partners The user's contact information is also used to contact the user when necessary for winner notification and prize delivery confirmation. The majority of the contests that we offer are hosted on our Site; however, there may be cases in which a bnpparibasopen.com partner will host the contest and collect user information. &nbsp;In those cases, we urge users to review the privacy statement of the third party web site. Users may opt-out of receiving future mailings by clicking on the indicated button.</p>
-<p style="margin-bottom: 7.5pt; background-image: initial; background-attachment: initial; background-size: initial; background-origin: initial; background-clip: initial; background-position: initial; background-repeat: initial;"><strong>Newsletter</strong></p>
-<p style="margin-bottom: 12pt; background-image: initial; background-attachment: initial; background-size: initial; background-origin: initial; background-clip: initial; background-position: initial; background-repeat: initial;">We offer a number of free newsletters to share content information about our Site with interested users. Users may cancel their free e-mail subscriptions by following the simple instructions at the bottom of each newsletter or e-mail.</p>
-<p style="margin-bottom: 7.5pt; background-image: initial; background-attachment: initial; background-size: initial; background-origin: initial; background-clip: initial; background-position: initial; background-repeat: initial;"><strong>Security</strong></p>
-<p style="margin-bottom: 12pt; background-image: initial; background-attachment: initial; background-size: initial; background-origin: initial; background-clip: initial; background-position: initial; background-repeat: initial;">bnpparibasopen.com utilizes a variety of security measures to maintain the safety of your personal information. All user contact information, including that applicable to online ticket, product, service and other purchases, is contained behind a "firewall" and only accessible by a limited number of employees who have special access rights to production systems. Passwords and credit card numbers are encrypted in bnpparibasopen.com's secure database, which is also located behind a firewall. All sensitive/credit information supplied by users is transmitted via Secure Socket Layer (SSL) technology and then encrypted in bnpparibasopen.com's databases as stated above. If you have forgotten your password, you may click on the indicated button and your password will be mailed to you. </p>
-<p style="margin-bottom: 12pt; background-image: initial; background-attachment: initial; background-size: initial; background-origin: initial; background-clip: initial; background-position: initial; background-repeat: initial;">You should be aware that browser software often "caches" a page as you look at it, meaning that some pages are saved in your computer’s temporary memory. Therefore, you may find that clicking on your "back" button shows you a saved version of a previously viewed page. Caching does not affect the security of your confidential user ID or password. If you use another person’s computer or use a computer in a public place to access the Site, simply quit/exit the browser software before leaving to minimize the possibility of anyone else viewing your confidential information.</p>
-<p style="margin-bottom: 12pt; background-image: initial; background-attachment: initial; background-size: initial; background-origin: initial; background-clip: initial; background-position: initial; background-repeat: initial;"><strong>Third Party Online Reservations</strong></p>
-<p style="margin-bottom: 12pt; background-image: initial; background-attachment: initial; background-size: initial; background-origin: initial; background-clip: initial; background-position: initial; background-repeat: initial;">If you decide to make an online reservation at the Site (for example, for tickets, hotel rooms, and so forth), you may be linked to a reservation interface and a third party booking engine (“Booking Engine”) through which user information will be collected for the transaction.&nbsp; While it may appear to be part of our Site, the Booking Engine is in fact provided by a third party and is governed by its privacy practices.&nbsp; In these instances, we urge users to review the privacy statement of the third party web site. </p>
-<p style="margin-bottom: 7.5pt; background-image: initial; background-attachment: initial; background-size: initial; background-origin: initial; background-clip: initial; background-position: initial; background-repeat: initial;"><strong>Your Consent To This Privacy Policy</strong></p>
-<p style="margin-bottom: 12pt; background-image: initial; background-attachment: initial; background-size: initial; background-origin: initial; background-clip: initial; background-position: initial; background-repeat: initial;">Use of the Site signifies your consent, as well as the consent of the company for whom you use the Site and whose information you submit (if any), to our online Privacy Policy, including the collection and use of information by bnpparibasopen.com, as described in this Statement, and also signifies agreement to the terms of use for the Site. Continued access and use of the Site without acceptance of the terms of this Statement relieves bnpparibasopen.com from legal and/or financial responsibility to the user.</p>
-<p style="margin-bottom: 7.5pt; background-image: initial; background-attachment: initial; background-size: initial; background-origin: initial; background-clip: initial; background-position: initial; background-repeat: initial;"><strong>Contacting the Web Site: </strong></p>
-<p style="margin-bottom: 12pt; background-image: initial; background-attachment: initial; background-size: initial; background-origin: initial; background-clip: initial; background-position: initial; background-repeat: initial;">You may contact us at: <br>
-Desert Champions LLC<br>
+	<p><strong>General Privacy Information</strong></p>
+<p>Your privacy on the Internet is of the utmost importance to us. Because we gather certain types of information about the users of bnpparibasopen.com (the “Website”), we feel you should fully understand the terms and conditions surrounding the capture and use of that information. This Privacy Policy discloses and explains the privacy practices for this Website, what Personal Information and other information is collected from and about you, how the information is used, and with whom we may share such information. By visiting this Website, and/or using the services offered on or through this Website, you agree to the terms of this Privacy Policy as they may be amended from time to time. The services on this Website may change and expand, and this Privacy Policy may change accordingly, so check back occasionally. This Privacy Policy is part of the <a href="http://www.bnpparibasopen.com/terms-and-conditions">Terms and Conditions of Use</a> which govern your use of this Website in general.</p>
+<p>This Privacy Policy does not apply to information that you may provide, or that we may obtain, other than through this Website, such as by phone, through postal mail and through other live and print media. Also, this Privacy Policy only addresses the activities from our own servers. Other websites (including but not limited to those websites that may be linked to this Website) may have their own privacy policies and practices, which we do not control.</p>
+<p>IF YOU ARE UNDER 13 YEARS OF AGE, PLEASE TALK TO YOUR PARENTS OR LEGAL GUARDIAN BEFORE USING THIS WEBSITE OR PROVIDING YOUR NAME OR OTHER INFORMATION TO THE WEBSITE. YOU MUST NOT SUBMIT INFORMATION TO THIS WEBSITE WITHOUT YOUR PARENT OR LEGAL GUARDIAN’S PERMISSION.</p>
+<p>
+<strong>Privacy Policy Purpose</strong></p>
+<p>To make your visits to this Website and use of the services available as purposeful as possible, you may be asked for personal information and certain information may be collected from your computer when you visit us. “Personal information” includes, for example, your name; home and/or business address; email address; telephone number; credit card and other payment information; social security number or employer identification number; demographic information and/or other information that may identify you as an individual or allow online or offline contact with you as an individual.</p>
+<p>We are committed to protecting the information we collect so this Website users can feel confident about using this Website to explore the range of information, promotions, services and products we offer. For this reason, we have implemented a security program that we reasonably believe will keep information that is stored in our systems protected from unauthorized access (see the <strong>Security </strong>section below for more information and security qualifications). This Website is hosted in a secure environment and the servers/systems are configured with data encryption, or scrambling, technologies, and industry-standard firewalls. To protect the security of your credit card information when purchasing tickets or merchandise and/or making hotel, restaurant, or other reservations, we employ the industry-standard Secure Sockets Layer (SSL) technology. we also encrypt your credit card number when we store your order and whenever we transfer that information to participating merchants.&nbsp;</p>
+<p><strong>Right to Opt In and Opt Out</strong></p>
+<p>You may have the right to “opt in” and “opt out” of certain of our uses of your Personal Information. For example, at the time you are requested to provide Personal Information on this Website, you may have the opportunity to elect to, or not to receive correspondence from us. You may opt out of any communication with us by clicking the opt-out link in our communications, or by sending an email to webmaster@bnpparibasopen.com stating that you would like to be removed from a specific list, or all communications. However, please understand that you may still be contacted by us in connection with your client relationship or as follow up from an event, activity, or purchase.</p>
+<p><strong>The Following Information is Collected by Us</strong></p>
+<p><strong>1. User-Provided Information</strong></p>
+<p>
+We collect Personal Information from and about users of this Website, for example, through such users’ activities, transactions, surveys, and completion of online forms on this Website. Such information is collected, for example, when users register or subscribe for accounts or features on this Website, make online purchases, complete surveys, post to or comment on our blog that we may make available on or through this Website, submit a comment or question to us using a “contact us” or similar feature on this Website, send us an email, or in any other way submit Personal Information to us via this Website. You may be able to send information about this Website, products and services to your peers, contacts, friends, and family members through this Website by clicking on a “Tell A Friend” or similar button on this Website or in an email we have sent to you. In some cases (unless you simply forward our email on your own), you may provide the name and email address of your contact to us. That information will be treated in accordance with this Privacy Policy and applicable law.</p>
+<p><strong>2. Website Use Information</strong></p>
+<p>We may use “cookies” to keep, and sometimes track, information about you. Cookies are small data files that are sent to your browser or related software from a web server and stored on your computer’s hard drive. Cookies track where you travel on this Website and what you look at and purchase. They may store your preferences, the information in your shopping cart, and/or your username and/or password. A cookie may enable us to relate your use of this Website to other information about you, including your Personal Information. All of these purposes serve to improve and personalize your experience on this Website. Most web browsers can be set to inform you when a cookie has been sent to you and provide you with the opportunity to refuse that cookie. However, refusing a cookie may, in some cases, preclude you from using, or negatively impact the display or function of, this Website or certain areas or features of this Website.</p>
+<p>We may use clear GIFs (pixel tags) or similar technologies, in this Website and/or in our communications with you to enable us to know whether you have visited a web page or received a message. A clear GIF is typically a one-pixel, transparent image (although it can be a visible image as well), located on a web page or in an email or other type of message, which is retrieved from a remote site on the Internet enabling the verification of an individual’s viewing or receipt of a web page or message. A clear GIF may enable us to relate your viewing or receipt of a web page or message to other information about you, including your Personal Information.</p>
+<p><strong>3. IP Address and Click-through Information</strong></p>
+<p>Our servers collect data about your server’s Internet address automatically when you visit us. This information, known as an Internet Protocol address, or IP Address, is a number that’s automatically assigned to your computer by your Internet service provider whenever you’re on the Internet. When you request pages from this Website, our servers may log your IP Address and sometimes your domain name. Our servers may also record the referring page that linked you to us; the pages you visit on this Website; the website you visit after this Website; the ads you see and/or click on; other information about the type of web browser, computer, platform, related software and settings you are using; any search terms you have entered on this Website or a referral site; and other web usage activity and data logged by our servers. We use this information for internal system administration, to help diagnose problems with our servers, and to administer this Website. Such information may also be used to gather broad demographic information, such as country of origin and Internet Service Provider. We may also link this information with your Personal Information. Any or all of these activities with regard to website usage information may be performed on our behalf by our service providers.</p>
+<p><strong>How We Use Your Personal Information</strong></p>
+<p>We will use your Personal Information, for example, to respond to your requests and to provide you with our product and service offerings. We may also use your Personal Information to maintain our internal record keeping. We may match information collected from you through different means or at different times, including both personal information and website usage information, and use such information along with information obtained from other sources, including third parties. In addition, we may send you notices (for example, in the form of emails, mailings, and the like, such as our e-newsletters), and otherwise correspond with you, about products, services, companies and events, sponsored by us and others, that we think might interest you. You may opt out of receiving such notices from us by following the instructions in the right to <strong>Opt In and Opt Out</strong> section above. We may analyze user behavior as a measure of interest in, and use of, this Website and emails, both on an individual basis and in the aggregate. In general, other than as set forth in this Privacy Policy, we do not share Personal Information with third parties.</p>
+<p><strong>Children's Privacy &amp; Parental Consent</strong></p>
+<p>This Website is a general audience website. We do not knowingly collect information any personal information from children under the age of 13 on this Website. If in the future we collect personally identifiable information from children, we will do so in compliance with the Children’s Online Privacy Protection Act of 1998 (15 U.S.C 6501, et. seq.). Please be aware that we did not design this Website for, and do not intend for it to be used by, nor should it be used by, anyone under the age of 13. We specifically request that persons under the age of 13 not use this Website or submit or post information to this Website. Should we inadvertently acquire Personal Information or other data from users under the age of 13, we will not knowingly provide this data to any third party for any purpose whatsoever, and any subsequent disclosure would be due to the fact the user under the age of 13 used this Website and submitted Personal Information without solicitation by or permission from us or through this Website. Since some of the interactive features and services offered on this Website cannot be accessed without providing Personal Information, we recommend that parents or legal guardians use the Website with your child if he or she is interest in participating in an interactive feature or service of the Website. &nbsp; &nbsp;</p>
+<p>
+</p>
+<p><strong>Service Providers</strong></p>
+<p>We may use third-party partners to help operate this Website and deliver our products and services, and may share your information with our affiliates, service providers and other third parties that provide products or services for or through this Website or for our business (such as website or database hosting companies, address list hosting companies, email service providers, analytics companies, distribution companies, fulfillment companies, and other similar service providers that use such information on our behalf).</p>
+<p><strong>Aggregate Statistics</strong></p>
+<p>We may disclose aggregate statistics regarding user behavior as a measure of interest in, and use of, this Website and emails to third parties in the form of aggregate data, such as overall patterns or demographic reports that do not describe or identify any individual user.</p>
+<p><strong>Legally Compelled Disclosures</strong></p>
+<p>We may disclose user information to government authorities, and to other third parties when compelled to do so by government authorities, at our discretion, or otherwise as required or permitted by law, including but not limited to in response to court orders and subpoenas. We also may disclose user information when we have reason to believe that someone is causing injury to or interference with our rights or property, other users of this Website, or anyone else that could be harmed by such activities.</p>
+<p><strong>Business Transfer</strong></p>
+<p>In the event that Desert Champions LLC (the owner of this Website), or substantially all of its assets, is acquired by one or more third parties as a result of an acquisition, merger, sale, reorganization, consolidation or liquidation, user information may be one of the transferred assets.</p>
+<p><strong>Security</strong></p>
+<p>While we will endeavor to protect the security and integrity of sensitive Personal Information provided to this Website, due to the inherent nature of the Internet as an open global communications vehicle, we cannot guarantee that information, during transmission through the Internet or while stored on our system or otherwise in our care, will be absolutely safe from intrusion by others, such as hackers. If you contact us by email or a “contact us” or similar feature on this Website, you should be aware that your transmission might not be secure. A third party could view information you send by these methods in transit. Do not send sensitive information (such as payment card information, social security numbers, employer identification numbers, passwords, or pin numbers) to us via email or via a “contact us” or similar feature on this Website. We will have no liability for disclosure of your information due to errors or unauthorized acts of third parties during or after transmission. In the unlikely event that we believe that the security of your Personal Information in our possession or control may have been compromised, we may seek to notify you of that development. If a notification is appropriate, we would endeavor to do so as promptly as possible under the circumstances, and, to the extent we have your email address, we may notify you by email. You consent to our use of email as a means of such notification.</p>
+<p><strong>Consent to Processing</strong></p>
+<p>By providing Personal Information to this Website, you understand and consent to the collection, maintenance, processing and transfer of such information in and to the United States and other countries and territories.</p>
+<p><strong>Third-Party “Linked-To” Websites</strong></p>
+<p>When you are on this Website you may have the opportunity to visit, or link to, other websites, blogs, or other electronic media not operated by us. These sites may collect personal information about you. We do not control sites that are operated by these entities and is not responsible for the information practices of the other websites. The privacy policies of any linked websites are the sole responsibility of the other websites.</p>
+<p><strong>Changes to this Privacy Policy</strong></p>
+<p>We reserve the right to change or update this Privacy Policy, or any other of our policies or practices, at any time, and will notify users of this Website by posting such changed or updated Privacy Policy on this page. Any changes or updates will be effective immediately upon posting to this Website. Under certain circumstances, we may also elect to notify you of changes or updates to our Privacy Policy by additional means, such as posting a notice on the front page of this Website or sending you an email.</p>
+<p><strong>California Privacy Rights</strong>&nbsp;</p>
+<p>Pursuant to Section 1798.83 of the California Civil Code, our customers who are California residents have the right to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please contact us in the manner prescribed in the following section titled “Contact Us.”</p>
+<p><strong>Hotels, Hotel Packages and Services</strong></p>
+<p>Transactions relating to the purchase of hotel accommodations, hotel packages (that include both accommodations and tournament access), and services are subject also to the <a href="http://www.bnpparibasopen.com/hotel-package-terms-and-conditions">Terms and Conditions for Hotels, Hotel Packages and Services</a>. &nbsp;</p>
+<p><strong>Contact Us</strong></p>
+<p>If you have any questions or comments regarding our privacy policies and practices, you may contact us at:</p>
+<p>Desert Champions LLC<br>
 78-200 Miles Avenue<br>
 Indian Wells, CA 92210<br>
-<a href="mailto:webmaster@iwtg.net">webmaster@iwtg.net</a><br>
-(760) 200-8407</p>
-<p style="margin-bottom: 12pt; background-image: initial; background-attachment: initial; background-size: initial; background-origin: initial; background-clip: initial; background-position: initial; background-repeat: initial;">© 2014 Desert Champions LLC All Rights Reserved.</p>
-<div><br>
-</div>
+Attention: &nbsp;Webmaster<br>
+(760) 200-8400</p>
+<p><em>Last updated: 15 September 2015</em></p>
+<p>© 2015 Desert Champions LLC. All rights reserved.</p>
 </article>
 
 </div>
+
+
 <!-- START : FOOTER -->
 <footer class="footer" id="footer">
-    <div class="site-wide-ad">
-        
+	
+	<div class="site-wide-ad">
+		
         <script type="text/javascript">
             document.write('<scr' + 'ipt type="text/javascript" src="http://adserver.adtechus.com/addyn/3.0/6644/3291952/0/225/ADTECH;kvad=false;loc=100;target=_blank;key=key1+key2+key3+key4;misc=' + new Date().getTime() + '"></scri' + 'pt>');
-        </script><script type="text/javascript" src="http://adserver.adtechus.com/addyn/3.0/6644/3291952/0/225/ADTECH;kvad=false;loc=100;target=_blank;key=key1+key2+key3+key4;misc=1582540590856"></script>
+        </script><script type="text/javascript" src="http://adserver.adtechus.com/addyn/3.0/6644/3291952/0/225/ADTECH;kvad=false;loc=100;target=_blank;key=key1+key2+key3+key4;misc=1582540579352"></script>
 
-    </div><!-- .site-wide-ad -->
-    
-    
-<ul class="footer-sponsors-list">
-		<li class="sponsor">
-			<a href="http://www.masimo.com/" target="_blank"><img src="/~/media/indian-wells/images/sponsors/masimo-logo_color-overlay.ashx?h=87&amp;la=en&amp;w=110" alt="" width="110" height="87"></a>
-		</li>
-		<li class="sponsor">
-			<a href="http://www.indianwells.com" target="_blank"><img src="/~/media/indian-wells/images/sponsors/footer-indian-wells.ashx?h=87&amp;la=en&amp;w=110" alt="Indian Wells" width="110" height="87"></a>
-		</li>
-		<li class="sponsor">
-			<a href="http://www.emirates.com/" target="_blank"><img src="/~/media/indian-wells/images/sponsors/footer-emirates.ashx?h=87&amp;la=en&amp;w=110" alt="Emirates" width="110" height="87"></a>
-		</li>
-		<li class="sponsor">
-			<a href="http://www.esurance.com/" target="_blank"><img src="/~/media/indian-wells/images/sponsors/footer-esurance.ashx?h=87&amp;la=en&amp;w=110" alt="Esurance" width="110" height="87"></a>
-		</li>
-		<li class="sponsor">
-			<a href="http://www.audiusa.com/" target="_blank"><img src="/~/media/indian-wells/images/sponsors/footer-_4c_l_audi.ashx?h=62&amp;la=en&amp;w=110" alt="" width="110" height="62"></a>
-		</li>
-</ul><ul class="footer-sponsors-list">		<li class="sponsor">
-			<a href="http://www.fila.com/" target="_blank"><img src="/~/media/indian-wells/images/sponsors/footer-fila.ashx?h=87&amp;la=en&amp;w=110" alt="Fila" width="110" height="87"></a>
-		</li>
-		<li class="sponsor">
-			<a href="http://www.xerox.com/" target="_blank"><img src="/~/media/indian-wells/images/sponsors/footer-xerox.ashx?h=87&amp;la=en&amp;w=110" alt="Xerox" width="110" height="87"></a>
-		</li>
-		<li class="sponsor">
-			<a href="http://www.tours4tennis.com/" target="_blank"><img src="/~/media/indian-wells/images/sponsors/footer-steve-furgals.ashx?h=87&amp;la=en&amp;w=110" alt="Steve Furgal's" width="110" height="87"></a>
-		</li>
-		<li class="sponsor">
-			<a href="http://www.michelobultra.com/" target="_blank"><img src="/~/media/indian-wells/images/sponsors/michelob_ultra_logo_primary.ashx?h=87&amp;la=en&amp;w=110" alt="" width="110" height="87"></a>
-		</li>
-		<li class="sponsor">
-			<a href="http://www.pennracquet.com/" target="_blank"><img src="/~/media/indian-wells/images/sponsors/footer-penn.ashx?h=87&amp;la=en&amp;w=110" alt="Penn" width="110" height="87"></a>
-		</li>
-</ul>)
-    
-    
-	<div class="connect-with-us">
-        
-            <h4 class="connect-title">Stay Connected</h4>
-	    <ul class="connect-social">
-                <li class="connect-social-item">
-                    <a href="http://www.facebook.com/bnpparibasopen" class="icon-facebook" target="_blank" rel="nofollow"></a>
-                </li>
-                <li class="connect-social-item">
-                    <a href="http://www.twitter.com/bnpparibasopen" class="icon-twitter" target="_blank" rel="nofollow"></a>
-                </li>
-                <li class="connect-social-item">
-                    <a href="http://www.youtube.com/bnpparibasopen" class="icon-youtube" target="_blank" rel="nofollow"></a>
-                </li>
-                <li class="connect-social-item">
-                    <a href="http://www.instagram.com/bnpparibasopen" class="icon-instagram" target="_blank" rel="nofollow"></a>
-                </li>
-                <li class="connect-social-item">
-                    <a href="https://plus.google.com/+bnpparibasopen/posts" class="icon-google-plus" target="_blank" rel="nofollow"></a>
-                </li>
-                <li class="connect-social-item">
-                    <a href="https://itunes.apple.com/us/app/2015-bnp-paribas-open-official/id814036203?mt=8" class="icon-mobile-app" target="_blank" rel="nofollow"></a>
-                </li>
-	        
-	    </ul>
-	</div>
+	</div><!-- .site-wide-ad -->
 
-    <div class="footer-content">
-        <div class="footer-link-section">
-            
-                <div class="footer-links">
+	
+<div id="footerSponsorsCarousel" class="footer-sponsors-carousel">
+	<ul class="footer-sponsors-list slides">
+			<li class="sponsor">
+				<a href="http://www.fila.com/" target="_blank"><img src="/~/media/indian-wells/images/sponsors/footer-fila.ashx?h=87&amp;la=en&amp;w=110" alt="Fila" width="110" height="87"></a>
+			</li>
+			<li class="sponsor">
+				<a href="http://www.indianwells.com" target="_blank"><img src="/~/media/indian-wells/images/sponsors/footer-indian-wells.ashx?h=87&amp;la=en&amp;w=110" alt="Indian Wells" width="110" height="87"></a>
+			</li>
+			<li class="sponsor">
+				<a href="http://www.masimo.com/" target="_blank"><img src="/~/media/indian-wells/images/sponsors/masimo-logo_color-overlay.ashx?h=87&amp;la=en&amp;w=110" alt="" width="110" height="87"></a>
+			</li>
+			<li class="sponsor">
+				<a href="http://www.emirates.com/us/english/" target="_blank"><img src="/~/media/indian-wells/images/sponsors/footer-emirates_12115.ashx?h=87&amp;la=en&amp;w=110" alt="Emirates" width="110" height="87"></a>
+			</li>
+			<li class="sponsor">
+				<a href="http://www.audiusa.com/" target="_blank"><img src="/~/media/indian-wells/images/sponsors/footer-_4c_l_audi.ashx?h=62&amp;la=en&amp;w=110" alt="" width="110" height="62"></a>
+			</li>
+			<li class="sponsor">
+				<a href="http://www.tours4tennis.com/" target="_blank"><img src="/~/media/indian-wells/images/sponsors/footer-steve-furgals.ashx?h=87&amp;la=en&amp;w=110" alt="Steve Furgal's" width="110" height="87"></a>
+			</li>
+			<li class="sponsor">
+				<a href="http://www.pennracquet.com/" target="_blank"><img src="/~/media/indian-wells/images/sponsors/footer-penn.ashx?h=87&amp;la=en&amp;w=110" alt="Penn" width="110" height="87"></a>
+			</li>
+	</ul>
+</div>
+
+	<div class="footer-content">
+		<div class="footer-link-section">
+
+			    <div class="footer-links">
             <h3 class="footer-links-heading">Media</h3>
         <ul>
                 <li class="footer-links-item">
-                    <a data-ga-category="Footer Link" data-ga-action="Click" href="/en/media/media-contacts" id="media-contacts" class="ga-track-link">Media Guide &amp; Contacts</a>
+                    <a data-ga-category="Footer Link" data-ga-action="Click" href="/en/media/media-contacts" id="contacts" class="ga-track-link">Contacts</a>
                 </li>
                 <li class="footer-links-item">
-                    <a data-ga-category="Footer Link" data-ga-action="Click" href="/~/media/indian-wells/files/media-operations-guide---2015-final-(1).ashx" target="_blank" id="media-guide" class="ga-track-link ga-external-link">Media Guide<span class="icon-external"></span></a>
+                    <a data-ga-category="Footer Link" data-ga-action="Click" href="/en/media/press" id="accreditation" class="ga-track-link">Accreditation</a>
+                </li>
+        </ul>
+    </div><!-- .footer-links -->
+    <div class="footer-links">
+            <h3 class="footer-links-heading">Sponsors</h3>
+        <ul>
+                <li class="footer-links-item">
+                    <a data-ga-category="Footer Link" data-ga-action="Click" href="/get-involved/sponsors" id="event-sponsors" class="ga-track-link">Event Sponsors</a>
                 </li>
                 <li class="footer-links-item">
-                    <a data-ga-category="Footer Link" data-ga-action="Click" href="/en/media/press" id="press" class="ga-track-link">Press</a>
+                    <a data-ga-category="Footer Link" data-ga-action="Click" href="/en/get-involved/sponsorship-opportunities" id="partnerships-opportunities" class="ga-track-link">Partnerships Opportunities</a>
+                </li>
+                <li class="footer-links-item">
+                    <a data-ga-category="Footer Link" data-ga-action="Click" href="/en/get-involved/advertising" id="advertising" class="ga-track-link">Advertising</a>
+                </li>
+                <li class="footer-links-item">
+                    <a data-ga-category="Footer Link" data-ga-action="Click" href="/en/get-involved/exhibitors" id="exhibitors" class="ga-track-link">Exhibitors</a>
+                </li>
+        </ul>
+    </div><!-- .footer-links -->
+    <div class="footer-links">
+            <h3 class="footer-links-heading">Get Involved</h3>
+        <ul>
+                <li class="footer-links-item">
+                    <a data-ga-category="Footer Link" data-ga-action="Click" href="/en/get-involved/volunteer" id="volunteers" class="ga-track-link">Volunteers</a>
+                </li>
+                <li class="footer-links-item">
+                    <a data-ga-category="Footer Link" data-ga-action="Click" href="/en/get-involved/ball-kids" id="ball-kids" class="ga-track-link">Ball Kids</a>
                 </li>
         </ul>
     </div><!-- .footer-links -->
@@ -364,35 +486,52 @@ Indian Wells, CA 92210<br>
                     <a data-ga-category="Footer Link" data-ga-action="Click" href="/en/contact" id="contact-us" class="ga-track-link">Contact Us</a>
                 </li>
                 <li class="footer-links-item">
-                    <a data-ga-category="Footer Link" data-ga-action="Click" href="http://www.zmaildirect.com/app/NDg2MjA2MTotMQ" target="_blank" id="newsletter-signup" class="ga-track-link ga-external-link">Newsletter Signup<span class="icon-external"></span></a>
-                </li>
-        </ul>
-    </div><!-- .footer-links -->
-    <div class="footer-links">
-            <h3 class="footer-links-heading">About Us</h3>
-        <ul>
-                <li class="footer-links-item">
-                    <a data-ga-category="Footer Link" data-ga-action="Click" href="http://www.iwtg.net/About-IWTG" target="_blank" id="indian-wells-tennis-garden" class="ga-track-link ga-external-link">Indian Wells Tennis Garden<span class="icon-external"></span></a>
-                </li>
-                <li class="footer-links-item">
-                    <a data-ga-category="Footer Link" data-ga-action="Click" href="/en/visit-us/the-tournament/history" id="history" class="ga-track-link">History</a>
+                    <a data-ga-category="Footer Link" data-ga-action="Click" href="/en/get-involved/sponsorship-opportunities" id="sponsorships" class="ga-track-link">Sponsorships</a>
                 </li>
         </ul>
     </div><!-- .footer-links -->
 
 
-                <div class="footer-sponsors">
-<a rel="nofollow" href="/en"><img src="/~/media/indian-wells/images/global/bnp-footer.ashx" alt="BNP Paribas Open"></a><a rel="nofollow" href="http://www.iwtg.net" target="_blank"><img src="/~/media/indian-wells/images/global/indian-wells.ashx" alt="Indian Wells Tennis Garden"></a>                </div>
+			
+	<div class="connect-with-us">
+        
+            <h4 class="connect-title">Stay Connected</h4>
+	    <ul class="connect-social">
+                <li class="connect-social-item">
+                    <a href="http://www.twitter.com/bnpparibasopen" class="icon-twitter" target="_blank" rel="nofollow">Twitter</a>
+                </li>
+                <li class="connect-social-item">
+                    <a href="http://www.facebook.com/bnpparibasopen" class="icon-facebook" target="_blank" rel="nofollow">Facebook</a>
+                </li>
+                <li class="connect-social-item">
+                    <a href="https://plus.google.com/+bnpparibasopen/posts" class="icon-google-plus" target="_blank" rel="nofollow">Google+</a>
+                </li>
+                <li class="connect-social-item">
+                    <a href="http://www.youtube.com/bnpparibasopen" class="icon-youtube" target="_blank" rel="nofollow">YouTube</a>
+                </li>
+                <li class="connect-social-item">
+                    <a href="http://www.instagram.com/bnpparibasopen" class="icon-instagram" target="_blank" rel="nofollow">Instagram</a>
+                </li>
+	        
+	    </ul>
+	</div>
 
-            <div class="clearfix"></div>
+				<div class="footer-sponsors">
+<a rel="nofollow" href="http://www.iwtg.net" target="_blank"><img src="/~/media/indian-wells/images/sponsors/iwtg3c.ashx" alt="Indian Wells Tennis Garden"></a>				</div>
 
-        </div>
-        <!-- START : COPYRIGHT -->
+			<div class="clearfix"></div>
+
+		</div>
+
+		
+		
+
+		<!-- START : COPYRIGHT -->
 	<div class="copyright-footer">
 
 		<!-- Site Copyright Links -->
 		<nav class="copyright-links">
-			<span class="copyright-text"><p>Copyright © BNP Paribas Open&nbsp;2014-2015 All Rights Reserved.</p></span>
+			<span class="copyright-text"><p>Copyright © BNP Paribas Open&nbsp;2015 All Rights Reserved.</p></span>
 			<a href="/en/terms-and-conditions">Terms and Conditions</a>
 			<a href="/en/privacy-policy">Privacy Policy</a>
 		</nav><!-- .copyright-links -->
@@ -405,7 +544,7 @@ Indian Wells, CA 92210<br>
 	</div><!-- .copyright-footer -->
 	<!-- END : COPYRIGHT -->
 
-    </div>
+	</div>
 
 	
 	<script type="text/javascript">
@@ -427,14 +566,8 @@ Indian Wells, CA 92210<br>
 <!-- END : FOOTER -->
 
 
-
 <script type="text/javascript" src="/assets/IndianWells/js/vendor/require.min.js"></script>
 <script type="text/javascript" src="/assets/IndianWells/js/desktop.min.js"></script>
-
-
-	<div align="center" style="margin: 0px; position: absolute; top: 0; width: 100%; min-width: 1024px;">
-		<script id="ptn-banner" type="text/javascript" src="http://www.atpworldtour.com/share/PTN-banner.aspx"></script>
-	</div>
 
 	
 
