@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gamedayr.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627204040id_/http%3A//gamedayr.com/privacy-and-terms-of-use) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamedayr.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207042254id_/http%3A//gamedayr.com/privacy-and-terms-of-use) for the most accurate reproduction.*
 
 # Privacy and Terms of Use - Gamedayr
 
