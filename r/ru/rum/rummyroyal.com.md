@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the rummyroyal.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607161247id_/http%3A//www.rummyroyal.com/about_us/security.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rummyroyal.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207232102id_/http%3A//www.rummyroyal.com/about_us/security.html) for the most accurate reproduction.*
 
-# Security and Privacy - RummyRoyal
+# Security and Privacy - About Us - Rummy Royal
 
 **Security**  
 Protecting the privacy and security of our members is our number one priority at RummyRoyal. While providing our members with a fun, exciting and attractive skill-based online gaming environment, it is important to us to ensure this platform is also safe and secure and that our members’ privacy is fully protected at all times. Our security and privacy policies are strictly enforced at all of our sites and those of our partners’. We conduct all our banking and financial affairs in accordance with generally accepted standards of international banking.
