@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the breakingnews.ie privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627040754id_/http%3A//www.breakingnews.ie/info/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the breakingnews.ie privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207034846id_/http%3A//www.breakingnews.ie/info/privacypolicy) for the most accurate reproduction.*
 
 # Confidentiality and Privacy Policy | BreakingNews.ie
 
-For website, mobile access and app
+## For website, mobile access and app
 
-Updated 07/05/2015
+**Updated 07/05/2015**
 
 At BreakingNews.ie we take your privacy and the protection of your information seriously. We have created this policy in line with the Data Protection Commissioner to demonstrate this commitment and to tell you how we handle and use your data.
 
@@ -18,17 +18,13 @@ We may transfer, sell or assign data to another company as a result of a merger,
 
 We endeavour to comply with the guidelines laid out by Ireland's Data Commissioner in the collection, protection and distribution of data we may collect about you on our website. You should be aware of your rights and your right to contact us;
 
-Data Protection Officer, 
-
-BreakingNews.ie, 
-
-Linn Dubh
-
-Assumption Road
-
-Blackpool
-
-Cork. 
+Data Protection Officer,  
+BreakingNews.ie,  
+Linn Dubh,  
+Assumption Road,  
+Blackpool,  
+Cork.  
+T23 RCH6
 
 helpdesk@landmarkdigital.ie
 
@@ -44,7 +40,7 @@ You are not required to provide information directly to us in order to view the 
 
 We offer the option to register online and on our app, we offer this option for various reasons, to allow you to enter competitions more efficiently, comment on an article, share an article or take part in a live blog.
 
-We do require that you register in order to view content on our app but on desktop or mobile this is not a requirement. 
+We do require that you register in order to view content on our app but on desktop or mobile this is not a requirement.
 
 You may opt to register using a form on the website or using a social account such as Facebook or Twitter. At each registration point we advise you of what data that social network is transferring to us and give you the option not to disclose this information. You will always be able to edit your details or delete your account by logging in with your username and password.
 
@@ -58,13 +54,12 @@ With your consent, we may use your mobile number or email address to send you pr
 
 **By registering with us you promise to;**
 
-Open a single account in your own name and be honest about the details you register such as for example your date of birth
+  1. Open a single account in your own name and be honest about the details you register such as for example your date of birth
+  2. You will not choose a username which may be deemed to impersonate another person or brand or defame a person or brand
+  3. You will keep your login details private and secure
+  4. If you think someone has accessed your account without your permission you will let us know
 
-You will not choose a username which may be deemed to impersonate another person or brand or defame a person or brand
 
-You will keep your login details private and secure
-
-If you think someone has accessed your account without your permission you will let us know
 
 **What do we use this information for?**
 
@@ -126,8 +121,7 @@ You can log into your account at any time to edit your details, change your news
 
 **Affiliates or 3rd party organisations**
 
-We may partner with co-branded organisations or other companies to supply services for our users. If you opt to sign up to those companies or purchase from them you should familiarise yourself with their privacy policy and terms and conditions. They may pass information regarding what you have purchased back to us for tracking purposes or so that your account is up to date when you log in.   
-
+We may partner with co-branded organisations or other companies to supply services for our users. If you opt to sign up to those companies or purchase from them you should familiarise yourself with their privacy policy and terms and conditions. They may pass information regarding what you have purchased back to us for tracking purposes or so that your account is up to date when you log in.
 
 Some of these companies may include credit-card and billing processing, ad serving, shipping, email distribution, list processing and analytics or promotions management. We provide these companies only with the information they need to perform their services. These service providers are restricted from using personal information in any way other than to provide services for Landmark Digital, and they may not share, resell or use the data for their own direct marketing purposes.
 
