@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the phplivesupport.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607203117id_/http%3A//www.osicodesinc.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phplivesupport.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207094928id_/http%3A//www.osicodesinc.com/privacy.php) for the most accurate reproduction.*
 
 # OSI Codes Inc. - Privacy Policy
 
@@ -42,7 +42,7 @@ Any of the information we collect from you may be used in one of the following w
 
 Cookies
 
-Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites to recognize your browser and capture and remember certain information
+Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites to recognize your browser and capture and remember certain information
 
 We use cookies to understand and save your preferences for future visits and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
 
@@ -60,10 +60,6 @@ Changes to our Privacy Policy
 
 If changes to our privacy policy is made, we will update the Privacy Policy modification date below. 
 
-Privacy policy last updated on December 22, 2013
+Privacy policy last updated on Aug 6, 2015
 
-Contacting Us
-
-For questions regarding this privacy policy, please contact us at:  
-[info@osicodesinc.com](mailto:info@osicodesinc.com)  
-
+Contact Us
