@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the team-schuman.com privacy policy that was archived on 2015-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150425220841id_/http%3A//www.teamschuman.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the team-schuman.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207030826id_/http%3A//www.teamschuman.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | TeamSchuman
+# Privacy Policy | TeamSchuman Internet Marketing
 
 ## Privacy Policy
 
