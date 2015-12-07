@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the joshreads.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607074710id_/http%3A//joshreads.com%3Fpage_id%3D1459) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the joshreads.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207131207id_/http%3A//joshreads.com%3Fpage_id%3D1459) for the most accurate reproduction.*
 
-# Privacy policy » The Comics Curmudgeon
-
-## [Privacy policy](http://joshreads.com/?page_id=1459)
+# Privacy policy
 
 This is the privacy policy for the Comics Curmudgeon site. I’m going to try to keep it in as plain English as possible. Just a few definitions up front: when I say “the forums site”, I mean the bulletin board application you can access at <http://joshreads.com/forums>; when I say “the main site”, I mean any other page on the site; when I say “I” or “me”, I mean me, which is to say: Josh Fruhlinger, the creator of this blog; and when I say “site writer”, I mean any other individual who writes entries on the main blog as I usually do.
 
