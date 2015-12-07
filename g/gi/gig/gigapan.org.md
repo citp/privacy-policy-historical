@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gigapan.org privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627185630id_/http%3A//gigapan.com/cms/about/usage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gigapan.org privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207100813id_/http%3A//www.gigapan.com/cms/about/usage) for the most accurate reproduction.*
 
 # Usage Guidelines
 
