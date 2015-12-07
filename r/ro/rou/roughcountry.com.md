@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the roughcountry.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607235549id_/http%3A//www.roughcountry.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roughcountry.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207141025id_/http%3A//www.roughcountry.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Rough Country Suspension Systems®
 
