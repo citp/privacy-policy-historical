@@ -1,590 +1,606 @@
-<!--The following is the downloaded HTML source of the swann.com privacy policy that was archived on 2012-06-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120603151927id_/http%3A//www.swann.com/s/company/p/privacypolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the swann.com privacy policy that was archived on 2015-12-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151207182706id_/http%3A//www.swann.com/us/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head><script language="JavaScript"> 
-var theImages = new Array() 
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html prefix="og: http://ogp.me/ns#" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><script src="https://js-agent.newrelic.com/nr-686.min.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"XA4GU1RSGwsBXFBRBwQ="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),f=c.length,u=i(a,o,r),d=0;f>d;d++)c[d].apply(u,n);return u}function a(t,e){f[t]=s(t).concat(e)}function s(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:s,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:23,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(f){try{r("ierr",[f,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(5),window.onerror=e;try{throw new Error}catch(f){"stack"in f&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&t(4),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:10,2:9,3:7,4:11,5:3,6:24,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t){t("loader").features.ins=!0},{loader:"G9z0Bl"}],6:[function(t){function e(){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var n=t("ee"),r=t("handle"),o=t(1),i=t(2);t("loader").features.stn=!0,t(3),n.on("fn-start",function(t){var e=t[0];e instanceof Event&&(this.bstStart=Date.now())}),n.on("fn-end",function(t,e){var n=t[0];n instanceof Event&&r("bst",[n,e,this.bstStart,Date.now()])}),o.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),o.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),i.on("fn-start",function(){this.bstStart=Date.now()}),i.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),n.on("pushState-start",function(){this.time=Date.now(),this.startPath=location.pathname+location.hash}),n.on("pushState-end",function(){r("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.addEventListener("webkitresourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1),window.performance.addEventListener("resourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1)),document.addEventListener("scroll",e,!1),document.addEventListener("keypress",e,!1),document.addEventListener("click",e,!1)}},{1:10,2:9,3:8,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],7:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=t("ee").create(),i=t(1)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:25,ee:"QJf3ax",gos:"7eSDFh"}],8:[function(t,e){var n=t("ee").create(),r=t(1)(n);e.exports=n,r.inPlace(window.history,["pushState"],"-")},{1:25,ee:"QJf3ax"}],9:[function(t,e){var n=t("ee").create(),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:25,ee:"QJf3ax"}],10:[function(t,e){function n(t,e,n){t[0]=o(t[0],"fn-",null,n)}var r=t("ee").create(),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:25,ee:"QJf3ax"}],11:[function(t,e){function n(){f.inPlace(this,p,"fn-")}function r(t,e){f.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),f=c(a),u=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(i){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,f.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:7,2:25,ee:"QJf3ax"}],12:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var a=t.responseType,f="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,u=n(f);if(u&&(r.rxSize=u),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(e.cat=d.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,o("xhr",[e,r,this.startTime])}}}function n(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,f=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=e,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,e){var r=this.metrics,o=t[0],i=this;if(r&&o){var f=n(o);f&&(r.txSize=f)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{a.emit("internal-error",[n])}catch(r){}}};for(var u=0;c>u;u++)e.addEventListener(s[u],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:13,3:11,4:7,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],13:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],14:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:23,2:24,handle:"D5DuLP"}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):void(r.q&&(r.q[t]||(r.q[t]=[]),r.q[t].push(e)))}var r=t("ee").create();e.exports=n,n.ee=r,r.q={}},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info,e=f.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){s(d,function(e,n){e in t||(t[e]=n)});var n="https"===u.split(":")[0]||t.sslForHttp;p.proto=n?"https://":"http://",a("mark",["onload",i()]);var r=f.createElement("script");r.src=p.proto+t.agent,e.parentNode.insertBefore(r,e)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=window,f=c.document;t(2);var u=(""+location).split("?")[0],d={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-686.min.js"},p=e.exports={offset:i(),origin:u,features:{}};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),c.addEventListener("load",n,!1)):(f.attachEvent("onreadystatechange",r),c.attachEvent("onload",n)),a("mark",["firstbyte",i()])},{1:23,2:14,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],23:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],24:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],25:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,f;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){u([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return f=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,f],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,f(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){u([o,e,n,r])}}function f(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){u([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function u(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:24,ee:"QJf3ax"}]},{},["G9z0Bl",4,12,6,5]);</script>
+<title>Privacy Policy</title>
+<meta name="description" content="Swann.com website privacy policy
 
-var j = 0
-var p = theImages.length;
+">
+<meta name="keywords" content="swann, security, alarms, CCTV, home security, business security, alarms, security camera, security cameras, camera">
+<meta name="robots" content="INDEX,FOLLOW">
+<meta name="viewport" content="width=device-width, minimum-scale=1, maximum-scale=1,user-scalable=no">
+<link rel="icon" href="http://www.swann.com/media/favicon/default/circle.png" type="image/x-icon">
+<link rel="shortcut icon" href="http://www.swann.com/media/favicon/default/circle.png" type="image/x-icon">
+<!--[if lt IE 7]>
 
-var preBuffer = new Array()
-for (i = 0; i < p; i++){
-   preBuffer[i] = new Image()
-   preBuffer[i].src = theImages[i]
-}
+<script type="text/javascript">
 
-var whichImage = Math.round(Math.random()*(p-1));
-function showImage(){
-document.write('<img src="'+theImages[whichImage]+'">');
-}
+//<![CDATA[
 
-sfHover = function() {
-	var sfEls = document.getElementById("mainnav").getElementsByTagName("LI");
-	
-	for (var i=0; i<sfEls.length; i++) {
-		sfEls[i].onmouseover=function() {
-			this.className+=" sfhover";
-		}
-		
-		sfEls[i].onmouseout=function() {
-			this.className=this.className.replace(new RegExp(" sfhover\\b"), "");
-		
-		}
-	}
-}
+    var BLANK_URL = 'http://www.swann.com/js/blank.html';
 
-if (window.attachEvent) window.attachEvent("onload", sfHover);
+    var BLANK_IMG = 'http://www.swann.com/js/spacer.gif';
 
-//-->
-
-
-
-
+//]]>
 
 </script>
 
-<script src="http://www.swann.com/tech/chat/jquery.tools.min.js"></script>   
-<link rel="stylesheet" type="text/css" href="http://www.swann.com/tech/chat/techchat.css">	
-	
-
-<!--[if lte IE 6]>
-<script src="suckerfish.js" type="text/javascript" charset="utf-8"></script>
 <![endif]-->
-
-<!--[if IE]>
-<style type="text/css">
-#mainnav a {
-	width:150px;
-}
-</style>
+<link rel="stylesheet" type="text/css" href="http://www.swann.com/skin/frontend/default/mt_optune_boxed/css/styles.css" media="all">
+<link rel="stylesheet" type="text/css" href="http://www.swann.com/skin/frontend/base/default/css/widgets.css" media="all">
+<link rel="stylesheet" type="text/css" href="http://www.swann.com/skin/frontend/default/mt_optune_boxed/css/responsive.css" media="all">
+<link rel="stylesheet" type="text/css" href="http://www.swann.com/skin/frontend/default/default/aw_blog/css/style.css" media="all">
+<link rel="stylesheet" type="text/css" href="http://www.swann.com/skin/frontend/default/mt_optune_boxed/menupro/css/menu-creator-pro.css" media="all">
+<link rel="stylesheet" type="text/css" href="http://www.swann.com/skin/frontend/default/default/css/mageworx/downloads.css" media="all">
+<link rel="stylesheet" type="text/css" href="http://www.swann.com/skin/frontend/default/mt_optune_boxed/css/media/mt.lightbox.css" media="all">
+<link rel="stylesheet" type="text/css" href="http://www.swann.com/skin/frontend/default/mt_optune_boxed/css/media/mt.thumbscroller.css" media="all">
+<link rel="stylesheet" type="text/css" href="http://www.swann.com/skin/frontend/default/mt_optune_boxed/css/media/mt.zoom.css" media="all">
+<link rel="stylesheet" type="text/css" href="http://www.swann.com/skin/frontend/default/mt_optune_boxed/css/smartmenu/css/mt.accordion.css" media="all">
+<link rel="stylesheet" type="text/css" href="http://www.swann.com/skin/frontend/default/mt_optune_boxed/css/smartmenu/css/mt.dropdown.css" media="all">
+<link rel="stylesheet" type="text/css" href="http://www.swann.com/skin/frontend/default/mt_optune_boxed/css/smartmenu/css/mt.tree.css" media="all">
+<link rel="stylesheet" type="text/css" href="http://www.swann.com/skin/frontend/default/mt_optune_boxed/css/drillmenu/css/drillmenu.css" media="all">
+<link rel="stylesheet" type="text/css" href="http://www.swann.com/skin/frontend/default/mt_optune_boxed/css/productslist/productslist.css" media="all">
+<link rel="stylesheet" type="text/css" href="http://www.swann.com/skin/frontend/default/mt_optune_boxed/css/productsscroller/css/productsscroller.css" media="all">
+<link rel="stylesheet" type="text/css" href="http://www.swann.com/skin/frontend/default/mt_optune_boxed/css/logoscroller/css/logoscroller.css" media="all">
+<link rel="stylesheet" type="text/css" href="http://www.swann.com/skin/frontend/default/mt_optune_boxed/css/backtop/css/backtop.css" media="all">
+<link rel="stylesheet" type="text/css" href="http://www.swann.com/skin/frontend/default/mt_optune_boxed/css/socialbutton/css/social.css" media="all">
+<link rel="stylesheet" type="text/css" href="http://www.swann.com/skin/frontend/default/mt_optune_boxed/css/quicklook/css/quicklook.css" media="all">
+<link rel="stylesheet" type="text/css" href="http://www.swann.com/skin/frontend/default/mt_optune_boxed/css/selectbox/css/selectbox.css" media="all">
+<link rel="stylesheet" type="text/css" href="http://www.swann.com/skin/frontend/default/mt_optune_boxed/css/fancybox/jquery.fancybox.css" media="all">
+<link rel="stylesheet" type="text/css" href="http://www.swann.com/skin/frontend/default/mt_optune_boxed/css/bootstrap/css/bootstrap.min.css" media="all">
+<link rel="stylesheet" type="text/css" href="http://www.swann.com/skin/frontend/default/mt_optune_boxed/css/bootstrap/css/bootstrap-responsive.min.css" media="all">
+<link rel="stylesheet" type="text/css" href="http://www.swann.com/skin/frontend/default/mt_optune_boxed/css/styles-responsive.css" media="all">
+<link rel="stylesheet" type="text/css" href="http://www.swann.com/skin/frontend/base/default/css/magestore/bannerslider/popup.css" media="all">
+<link rel="stylesheet" type="text/css" href="http://www.swann.com/skin/frontend/base/default/css/mirasvit/searchautocomplete/amazon.css" media="all">
+<link rel="stylesheet" type="text/css" href="http://www.swann.com/skin/frontend/base/default/css/mirasvit_searchindex.css" media="all">
+<link rel="stylesheet" type="text/css" href="http://www.swann.com/skin/frontend/base/default/css/mirasvit_seo.css" media="all">
+<link rel="stylesheet" type="text/css" href="http://www.swann.com/skin/frontend/base/default/css/starplugins/cloudzoom.css" media="all">
+<link rel="stylesheet" type="text/css" href="http://www.swann.com/skin/frontend/default/mt_optune_boxed/css/print.css" media="print">
+<script type="text/javascript" src="http://www.swann.com/js/prototype/prototype.js" async=""></script>
+<script type="text/javascript" src="http://www.swann.com/js/lib/ccard.js" async=""></script>
+<script type="text/javascript" src="http://www.swann.com/js/prototype/validation.js" async=""></script>
+<script type="text/javascript" src="http://www.swann.com/js/scriptaculous/builder.js" async=""></script>
+<script type="text/javascript" src="http://www.swann.com/js/scriptaculous/effects.js" async=""></script>
+<script type="text/javascript" src="http://www.swann.com/js/scriptaculous/dragdrop.js" async=""></script>
+<script type="text/javascript" src="http://www.swann.com/js/scriptaculous/controls.js" async=""></script>
+<script type="text/javascript" src="http://www.swann.com/js/scriptaculous/slider.js" async=""></script>
+<script type="text/javascript" src="http://www.swann.com/js/varien/js.js" async=""></script>
+<script type="text/javascript" src="http://www.swann.com/js/varien/form.js" async=""></script>
+<script type="text/javascript" src="http://www.swann.com/js/mage/translate.js" async=""></script>
+<script type="text/javascript" src="http://www.swann.com/js/magestore/bannerslider/lightbox.js" async=""></script>
+<script type="text/javascript" src="http://www.swann.com/js/mage/cookies.js"></script>
+<script type="text/javascript" src="http://www.swann.com/js/mageworx/downloads.js"></script>
+<script type="text/javascript" src="http://www.swann.com/js/magenthemes/mt_optune/js/jquery-1.8.2.min.js"></script>
+<script type="text/javascript" src="http://www.swann.com/js/magenthemes/mt_optune/js/bootstrap/bootstrap.min.js"></script>
+<script type="text/javascript" src="http://www.swann.com/js/magenthemes/mt_optune/js/jquery.mtlib.js"></script>
+<script type="text/javascript" src="http://www.swann.com/js/magenthemes/mt_optune/js/jquery.selectbox-0.2.js"></script>
+<script type="text/javascript" src="http://www.swann.com/js/mirasvit/core/jquery.min.js"></script>
+<script type="text/javascript" src="http://www.swann.com/js/mirasvit/core/underscore.js"></script>
+<script type="text/javascript" src="http://www.swann.com/js/mirasvit/core/backbone.js"></script>
+<script type="text/javascript" src="http://www.swann.com/js/mirasvit/code/searchautocomplete/form.js"></script>
+<script type="text/javascript" src="http://www.swann.com/js/mirasvit/code/searchautocomplete/autocomplete.js"></script>
+<script type="text/javascript" src="http://www.swann.com/js/jquery/jquery-1.8.3.min.js"></script>
+<script type="text/javascript" src="http://www.swann.com/js/starplugins/cloudzoom.js"></script>
+<script type="text/javascript" src="http://www.swann.com/skin/frontend/default/mt_optune_boxed/menupro/js/jquery-1.8.2.min.js"></script>
+<script type="text/javascript" src="http://www.swann.com/skin/frontend/default/mt_optune_boxed/menupro/js/responsive_menu.js"></script>
+<link rel="canonical" href="http://www.swann.com/us/privacy-policy">
+<link href="http://www.swann.com/us/news/rss/index/store_id/10/" title="Swann News" rel="alternate" type="application/rss+xml">
+<!--[if lt IE 8]>
+<link rel="stylesheet" type="text/css" href="http://www.swann.com/skin/frontend/default/mt_optune_boxed/css/styles-ie.css" media="all" />
+<link rel="stylesheet" type="text/css" href="http://www.swann.com/skin/frontend/default/mt_optune_boxed/menupro/css/ie7.css" media="all" />
 <![endif]-->
-
-<link rel="shortcut icon" href="/webdev/images/favicon.ico" type="image/x-icon">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<title>Swann - Advanced Security Made Easy</title>
-<meta name="description" content="Swann are leaders in Advanced Security Made Easy. Safeguard your loved ones and property with affordable cameras, monitoring, recording kits, and more.">
-<meta name="keywords" content="swann, cctv, security cameras, home security, DVR, surveillance, security, alarms, wireless surveillance, USB, webcam, platinum, modems, mice, home security systems, surveillance equipment, surveillance cameras, swann communications, spycam, computer parts, firewire">
-<meta name="robots" content="FOLLOW,INDEX">
-<style type="text/css">
-<!--
-
-#mainnav, #mainnav ul {
-	padding: 0;
-	margin: 0;
-	list-style: none;
-	font-family: Arial, Helvetica, sans-serif;
-	font-size:13px;
-	z-index:100;
-}
-
-#mainnav a {
-	display: block;
-	text-align:left;
-	text-decoration:none;
-	border-width:0 0 1px 0;
-	padding:7px 0 7px 10px;
-	width:170px;
-	color:#fff;
-	background:#444444;
-}
-
-#mainnav a:hover {
-	background:#A8CFFF;
-	color:#444444;
-}
-
-#mainnav li {
-	color:#000000;
-	text-align:left;
-	float:left;
-	padding:2px;
-}
-
-#mainnav li ul li {
-	color:#000000;
-	text-align:left;
-	float:left;
-	width:77px;
-	padding:0;
-}
-
-#mainnav li ul {
-	position: absolute;
-	
-	width:151px;
-	left: -999em;
-}
-
-#mainnav li div.topitem {
-	padding:0 0 0 10px;
-	border-width:0;
-	color:#FFFFFF;
-	line-height:13px;
-	font-size:14px;
-	
-}
-
-
-#mainnav li:hover ul, #mainnav li.sfhover ul {
-	left: auto;
-}
-
-*:first-child+html #mainnav {
-height: 1%;
-}
-*:first-child+html #mainnav li {
-height: 1%;
-}
-
-body {
-	margin: 0px;
-	padding: 0px;
-
-}
--->
-</style>
-
-
-
-
-<link href="/style/main.css" rel="stylesheet" type="text/css">
-<link href="radioshack.css" rel="stylesheet" type="text/css">
-
-
-
-<!-- <script src="/Scripts/AC_RunActiveContent.js" type="text/javascript"></script> -->
-</head>
-<body><center>
-
-<table width="100%" border="0" cellspacing="0" cellpadding="0" style="background-image:url(http://www.swann.com/images/template/bg_header.jpg); background-repeat:repeat-x;">
-  <tbody><tr>
-    <td><table width="100%" border="0" cellspacing="0" cellpadding="0">
-      <tbody><tr height="95">
-        <td align="center"><table width="920" border="0" cellspacing="0" cellpadding="0">
-          <tbody><tr>
-            <td align="left"><a href="http://www.swann.com"><img src="http://www.swann.com/images/template/swann.png" width="272" height="73" border="0"></a></td>
-            <td width="460" align="right"><table width="100%" cellpadding="0" cellspacing="0" border="0">
-              <tbody><tr valign="middle">
-                <td height="60" align="right"><table border="0" cellspacing="0" cellpadding="0">
-                  <tbody><tr>
-                  
-                    <td>
-                    <div id="triggers">
-                    <a href="http://www.facebook.com/swanncommunications" target="_new"><img src="http://www.swann.com/images/template/fb.png" alt="Swann on facebook" width="39" height="38" border="0"></a><a href="http://twitter.com/#!/swannsecurity" target="_new"><img src="http://www.swann.com/images/template/tw.png" alt="Swann on Twitter" width="41" height="38" border="0"></a><img src="http://www.swann.com/images/template/support.png" width="42" height="38" border="0" rel="#swann1">
-                    </div></td>
-                                     
-                  </tr>
-              </tbody></table></td>
-                <td width="120" align="right" valign="center"><div align="right" class="bodygrey11">
-                  <div align="right" style="color:#999;">Choose location</div>
-                                </div>
-                  <script type="text/javascript">
-<!--
-
-function setRegion(selectedIndex,loc)
-{
-	var si = document.rejsel.lang.options[selectedIndex];
-	document.location = '/region/' + si.value + loc + si.value;
-}
-
--->
+<!--[if lt IE 7]>
+<script type="text/javascript" src="http://www.swann.com/js/lib/ds-sleight.js"></script>
+<script type="text/javascript" src="http://www.swann.com/skin/frontend/base/default/js/ie6.js"></script>
+<![endif]-->
+<script type="text/javascript">
+//<![CDATA[
+Mage.Cookies.path     = '/';
+Mage.Cookies.domain   = '.www.swann.com';
+//]]>
 </script>
-<form name="rejsel" method="POST" action="/s/company/p/privacypolicy/" style="margin:0;padding:0;">
-<select name="lang" class="body_region" onchange="setRegion(selectedIndex,'/regionentry/');">
-<option label="Australia" value="australia">Australia</option>
-<option label="Canada" value="canada">Canada</option>
-<option label="New Zealand" value="newzealand">New Zealand</option>
-<option label="UK / Europe" value="uk">UK / Europe</option>
-<option label="United States" value="usa" selected="selected">United States</option>
+<script type="text/javascript">
+//<![CDATA[
+optionalZipCountries = ["AF"];
+//]]>
+</script>
+<script type="text/javascript">//<![CDATA[
+        var Translator = new Translate([]);
+        //]]></script>
+<link media="all" href="http://www.swann.com/skin/frontend/default/mt_optune_boxed/css/styles.css" type="text/css" rel="stylesheet">
+<link media="all" href="http://www.swann.com/skin/frontend/default/mt_optune_boxed/css/colorstyle/colorstyle.css" type="text/css" rel="stylesheet">
+<style>body{background-image:none;background-color:#ffffff;color:#000000;font-family:Arial,Helvetica,sans-serif;}#nav a{font-family:pt_sans_captionregular;}a{color:#000000;text-decoration:none;}h1,h2,h3,h4,h5,h6{font-family:;}.header{background-image:none;background-color:#004b97;color:#ffffff;}.mt-top-menu .quick-access{background-color:#bdbec0;}.navbar .btn-navbar{background-color:#bdbec0;}.navbar-inner .block-title{background-color:#bdbec0;}.header a,#nav a{color:#ffffff;text-decoration:none;}#megamenu a{color:#ffffff;text-decoration:none;}#nav li.level0 a{color:#ffffff;}#nav li.over a,#nav a:hover,#nav li.active a{background-color:#bdbec0;}.mt-footer-static-container-bottom .mt-footer-static{background-image:none;background-color:#2c2c2c;}.mt-footer-static ul li a{color:#c5c5c5;}.mt-footer-static-container-bottom .mt-footer-static,.footer-static-title h2{color:#ffffff;}.row-fluid .social{width:250px!important;*width:250px!important;float:right!important;}.header .top-cart{margin:4px 20px 0 261px;}.where_buy .retal ul li{height:75px!important;}.mt-subscribe input.input-text{line-height:19px!important;}.downloads-links-block table tbody tr td img{width:25px!important;}@media only screen and (min-width : 768px) and (max-width :979px) {.col1-layout .product-view .product-shop{width:50%;}}</style>
+<!--[if IE 8]>
 
-</select>
-</form></td>
-                <td width="10" align="right" valign="center"><a href="http://www.swann.com/s/company/"><img src="http://www.swann.com/images/template/25.png" alt="Swann 25 years 1987-2012" width="119" height="73" border="0"></a></td>
-              </tr>
-            </tbody></table></td>
-          </tr>
-        </tbody></table></td>
-      </tr>
-      <tr height="33" valign="middle">
-        <td align="center" style="background-image:url(http://www.swann.com/images/template/bg_menu.jpg); background-repeat:repeat-x;"><table width="940" cellpadding="0" cellspacing="0" border="0">
-          <tbody><tr valign="middle">
-            <td align="left" style="padding-left:18px"><ul id="mainnav">
-	
-    
-    <li><div class="topitem" align="center"> Company</div>
-	<ul><li><a href="/s/company/">Corporate Profile</a></li>
-		<!--<li><a href="/s/company/newsreleases/">News Releases</a></li>
-		 <li><a href="/s/company/mediaresources/">Media Resources</a></li> -->
-		<li><a href="/s/company/customerfeedback">Customer Feedback</a></li>
-        <li><a href="/s/products/newsrelease/">PR Hits/News Release</a></li>
-		<li><a href="/s/company/contactus/">Contact Us</a></li>
-	</ul></li>
-	
-    <li class="blankmenuitem" style="width:12px;">&nbsp;</li>
-	<li><div class="topitem" align="center"> Products</div>
-	<ul><li><a href="/s/products/catalog/">Products - Home</a></li>
-    
-    	<li><a href="/s/products/category/?catid=58">All Security Products</a></li>
-    	<li><a href="/s/products/category/?catid=44">DVRs &amp; Monitoring Kits</a></li>
-        <li><a href="/s/products/category/?catid=42">Pro Series</a></li>
-    	<li><a href="/s/products/category/?catid=65">Advanced Series</a></li>
-        <li><a href="/s/products/category/?catid=45">Advanced Digital Wireless</a></li>
-        <li><a href="/s/products/category/?catid=43">Monitors &amp; Doorphones</a></li>
-        <li><a href="/s/products/category/?catid=78">Home Series</a></li>
-        <li><a href="/s/products/category/?catid=81">Mini Video Series</a></li>
-        <li><a href="/s/products/category/?catid=82">Helicopter Series</a></li>
-        <li><a href="/s/products/category/?catid=43">Monitors &amp; Doorphones</a></li>
-        <li><a href="/s/products/category/?catid=72">Archive</a></li>
+            <link rel="stylesheet" type="text/css" href="http://www.swann.com/skin/frontend/default/mt_optune_boxed/css/ie8.css"/>
 
-        
-		<!--<li><a href="/s/products/solutioncenter/">Solution Center</a></li>
-		<li><a href="/s/products/category/?catid=58">Security Products</a></li>
-		<li><a href="/s/products/category/?catid=57">I.T. Products</a></li>-->
-        
-	</ul></li>
-	
-	
-	
-		<li class="blankmenuitem" style="width:12px;">&nbsp;</li>
-	<li><div class="topitem" align="center"> Support</div>
-	<ul><li><a href="/s/techcenter/p/techcenter/">Support Home</a></li>
-    <li><a href="/s/techcenter/category/?catid=58/">Download Center</a></li>
-    <li><a href="/s/techcenter/livesupport">Live Support Chat</a></li>
-    <li><a href="/s/techcenter/p/informationsheets/">Information Sheets</a></li>
-    <li><a href="/s/techcenter/p/productreturns/">Warranty</a></li>
-		<!-- <li><a href="/s/techcenter/faq/">Download Center</a></li> -->
-        <li><a href="/s/training/p/tips/">Installation Tips</a></li>
-        <li><a href="/s/techcenter/DDNS">DVR DDNS Portal</a></li>
-        
-	    <li><a href="/s/techcenter/p/contact">Contact Support</a></li>
-        
-	</ul></li>
-	
-	<li class="blankmenuitem" style="width:12px;">&nbsp;</li>
-	
-	<li><div class="topitem" align="center"> Multimedia </div>
-	<ul>
-    
-    <li><a href="/s/training/contents/">Multimedia - Home</a></li>
-    <li><a href="/s/training/news/">Case Studies / TV / News Videos</a></li>
-    <li><a href="/s/company/mediaresources/p/catalogs/">Product Catalog</a></li>
-     <li><a href="/s/training/producttours/">Product Tours</a></li>
-	<li><a href="/s/training/johnvideos/">Product Introductions</a></li>
-   <li><a href="/s/training/guyvideos/">Swann Research Lab</a></li>
-      <li><a href="/s/training/interactives/">Video Instruction Guides / Showcase</a></li>
-    <li><a href="/s/training/networkingguide/">Networking Guide for Cameras &amp; DVRs</a></li>
-  <li><a href="/s/training/homevideos/">User Videos</a></li>
-   <li><a href="/s/training/radiohints/">Radio Hints</a></li>
-</ul></li>
-		
-		<li class="blankmenuitem" style="width:12px;">&nbsp;</li>
-	
-	<li><div class="topitem" align="center">Promo</div>
-	<ul>
-     <li><a href="/promo/sabercats/"><b>USA</b><br>Swann &amp; San Jose SaberCats 2012
-</a></li>     
- <li><a href="/promo/ces2012/"><b>USA</b><br>Thanks for visiting Swann <br>at CES 2012</a></li>
- <!-- <li><a href="/promo/ces2011thanku/"><b>USA</b><br>Thank you for visiting us at 2011 INTERNATIONAL CES</a></li>
- <li><a href="/promo/dse062011/"><b>AUS</b><br>Security Deals at Dick Smith</a></li> -->
-  
-  <li><a href="/s/company/showroom/"><b>AUS</b><br>Visit Our Showrooms to find our products!</a></li>
-	<!-- <li><a href="/s/promo/review/"><b>USA</b><br>Write a Review & Receive a Prize!</a></li> -->
-</ul></li>
-    
-    <li class="blankmenuitem" style="width:12px;">&nbsp;</li>
-    <li><div class="topitem" align="center">Contact Us</div>
-	<ul><li><a href="/s/company/contactus/">Contact Us</a></li></ul></li>
+            <style>div{ behavior: url("http://www.swann.com/skin/frontend/default/mt_optune_boxed/js/iepngfix.htc") }</style>
+
+<![endif]-->
+<!--[if IE 9]>
+
+            <link rel="stylesheet" type="text/css" href="http://www.swann.com/skin/frontend/default/mt_optune_boxed/css/ie9.css"/>
+
+            
+
+<![endif]-->
+<script type="text/javascript">
+
+jQuery(document).ready(function(){
 
 
 
-</ul></td>
-            <form action="/s/products/category/" method="post"></form><td width="60" align="left"><input name="searchString" type="text" class="bodytext" size="36">
-		<input type="hidden" name="catid" value="0"></td>
-            <td align="left"><input type="image" style="border:none;" name="sa" value="Go" src="http://www.swann.com/images/template/search.png"></td>
-          </tr>
-        </tbody></table></td>
-      </tr>
-    </tbody></table></td>
-  </tr>
-</tbody></table>
-<table width="100%" border="0" cellpadding="0" cellspacing="0" align="top">
-  <tbody><tr style="background-image:url(http://www.swann.com/images/template/bg.jpg); background-repeat:repeat-x;">
-    	    
-       <td align="center">
-       <table width="920" border="0" cellspacing="0" cellpadding="0">
-   		   <tbody><tr>
-    			<td colspan="3" align="left" bgcolor="#FFFFFF" style="padding:20px 0 0 21px;">
-    			<a name="top"></a><script src="../../../Scripts/AC_RunActiveContent.js" type="text/javascript"></script>
 
-      <table width="875" border="0" cellspacing="0" cellpadding="0">
-        <tbody><tr>
-          <td width="875" valign="top">
-           
-            <table width="875" border="0" cellspacing="0" cellpadding="0">
-             
-              <tbody><tr>
-                <td colspan="2">
-                
-                 <table width="875" border="0" cellspacing="0" cellpadding="0">
-        <tbody><tr>
-          <td width="875" height="80" style="background-image:url(http://www.swannsecurity.com/images/pagetop.jpg); color:#FFFFFF; font-size:15px; padding-right:10px; padding-left:720px; background-repeat:no-repeat; "><a href="/region/usa/entry/us"><font color="#FFFFFF" style="font-weight:bold">HOME</font></a> <br>
-            &gt; About Swann</td>
-        </tr>
-</tbody></table>
-                
-                
-                 <!-- <table width="875" border="0" cellspacing="0" cellpadding="0">
-                    <tr>
-                      <td width="750"><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,19,0" width="750" height="90">
-                        <param name="movie" value="/images/corp_profile_top_banner.swf" />
-                        <param name="quality" value="high" />
-                        <param name="wmode" value="transparent" />
-                        <embed src="/images/corp_profile_top_banner.swf" width="750" height="90" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" wmode="transparent"></embed>
-                      </object></td>
-                      
-					  <td width="125" bgcolor="#e9e9e9" style="padding:5px;" valign="bottom">
-					  <span style="color:#444444; font-size:11.5px;"><a href="/region/usa/entry/us"><b>Home</b></a> <br />
-                     &gt; About Swann</span>
-					  </td>
-					  
-                    </tr>
-                  </table> -->
-                  
-                  
-                  
-                  
-                  
-              </td>
-              </tr>
-              <tr>
-                <td width="200" rowspan="2" align="center" valign="top">
-                           
-<br><br><table cellspacing="0" cellpadding="0" width="200" bgcolor="#e2e2e2">
-                   <tbody>
-                     <tr>
-                       <td><img height="90" src="/images/images_2008/category_image_top.jpg" width="200"></td>
-                     </tr>
-                     <!--security left nav
-              <tr>
-                <td class="leftnavpad" style="padding-top:10px"><font size="+2"><strong></strong></font></td>
-              </tr>-->
-                     <tr align="left">
-                       <td style="padding-top:10px"><table bgcolor="#e2e2e2">
-                           <tbody>
-                             <tr>
-                               <td class="leftnavpad"><img height="14" src="/images/images_2008/arrow_all.gif" width="14"></td>
-                               <td><a class="leftnav" href="/s/company">Corporate Profile</a></td>
-                             </tr>
-                             <!-- <tr>
-            <td class="leftnavpad"><img height="14" 
-                  src="/images/images_2008/arrow_all.gif" width="14" /></td>
-            <td><a class="leftnav" 
-                  href="/s/techcenter/download" title=""></a></td>
-          </tr> 
-                             <tr>
-                               <td class="leftnavpad"><img height="14" 
-                  src="/images/images_2008/arrow_all.gif" width="14" /></td>
-                               <td><a class="leftnav" href="/s/company/newsreleases" >PR News Releases</a></td>
-                             </tr>
-                             <tr>
-                               <td class="leftnavpad"><img height="14" 
-                  src="/images/images_2008/arrow_all.gif" width="14" /></td>
-                               <td><a class="leftnav" href="/s/company/mediaresources">Media Resources</a></td>
-                             </tr>-->
-                             <tr>
-                               <td class="leftnavpad"><img height="14" src="/images/images_2008/arrow_all.gif" width="14"></td>
-                               <td><a class="leftnav" href="/s/company/customerfeedback">Customer Feedback</a></td>
-                             </tr>
-                             <!-- Service Locations 
-		  <tr>
-            <td class="leftnavpad" bgcolor="#e2e2e2"><img height="14" 
-                  src="/images/images_2008/arrow_all.gif" width="14" /></td>
-            <td bgcolor="#e2e2e2"><a class="leftnav" 
-                  href="/s/techcenter/p/servicelocation" title=""></a></td>
-          </tr>
-		 -->
-                             <tr>
-                               <td class="leftnavpad" bgcolor="#e2e2e2"><img height="14" src="/images/images_2008/arrow_all.gif" width="14"></td>
-                               <td bgcolor="#e2e2e2"><a class="leftnav" href="/s/company/contactus">Contact Us</a></td>
-                             </tr>
-                            
-                           </tbody>
-                       </table></td>
-                     </tr>
-                    
-                  <!-- Search   <tr>
-                       <td align="center" bgcolor="#e2e2e2" style="padding-top:20px; padding-left:5px;"><table width="100%" border="0">
-                           <tr>
-                             <td><form method="post" action="/s/products/category/">
-                               <input type="text" name="searchString" />
-                               <input type="hidden" name="catid" value="0"/>
-                               <input name="image" type="image" value="Go" src="/images/images2008/search_bt.gif" align="absmiddle" />
-                             </form></td>
-                           </tr>
-                       </table></td>
-                     </tr> -->
-                     
-                     
-                     <tr>
-                       <td align="center"><br>
-                         <a href="/s/techcenter/category/?catid=58/"><img src="/images/images_2008/side_nav_solution.gif" title="Download Center" width="180" border="0" height="56"></a><br>
-                         <a href="/s/techcenter/p/techcenter/"><img src="/images/images_2008/side_nav_tech.gif" title="Tech Support" width="180" border="0" height="56"></a><br>
-                         <a href="/s/company/customerfeedback/"><img src="/images/images_2008/side_nav_feedback.gif" title="Customer Feedback" width="180" border="0" height="56"></a><br>
-                           <!--  <a href="/s/techcenter/warranty/"><img src="/images/images_2008/side_nav_warranty.gif" alt="Warranty Request Form" width="180" border="0" height="56" /></a><br />  -->
-                         <a href="/s/products/p/selection_guide"><img src="/images/images_2008/side_nav_selection.gif" title="Selection Guide" width="180" border="0" height="56"></a><br>
-                           <!--  <a href="/s/company/subscription"><img src="/images/images_2008/side_nav_subscribe.gif" alt="Subscribe Newsletter" width="180" border="0" height="56" /></a><br /> -->
-                           <br></td>
-                       
-                       
-                     </tr>
-                     <!--it left nav-->
-                   </tbody>
-                 </table>
-                 <p>&nbsp;</p>
 
-                </td>
-                <td valign="top" style="padding:9px 0 0 10px;" width="675" align="left">
-          <a name="abouttop" id="abouttop"></a><table cellspacing="0" cellpadding="5" border="0" width="550" style="margin-left: 20px;"> 
-<tbody> 
-<tr> 
-<td> 
-<p class="heading">Privacy Policy </p> 
-<p class="boldtext"><strong><strong>Swann Communications Ltd - Statement of Privacy</strong></strong></p> 
-<p class="bodytext"><em><em>last updated September 1st, 2006</em></em></p> 
-<p class="bodytext">This Privacy Policy covers the following URL's;</p> 
-<p class="bodytext"><a title="http://www.swann.com/" href="http://www.swann.com/">www.swann.com</a> ; <a title="http://www.swannsecurity.com/" href="http://www.swannsecurity.com/">www.swannsecurity.com</a> ; <a title="http://www.swannsurveillance.com/" href="http://www.swannsurveillance.com/">www.swannsurveillance.com</a> ; <a title="http://www.swannstore.com/" href="http://www.swannstore.com/">www.swannstore.com</a> ; <a title="http://www.swannstore.com.au/" href="http://www.swannstore.com.au/">www.swannstore.com.au</a> ; <a title="" href="http://www.swann.com/">www.swannusa.com</a> </p> 
-<p class="bodytext">At Swann Communications Ltd, we are committed to protecting your privacy and to developing technology that gives you the most powerful and secure online experience. You can travel through most of our site without giving us any information about yourself. But sometimes we do need information to provide services that you request, and this statement of privacy explains data collection and use in those situations. This privacy statement explains data collection and use practices of Swann Communications Ltd; it does not apply to other online or offlineSwann Communications Ltdsites, products or services. Please read the complete Swann Communications Ltd privacy statement. </p> 
-<p class="bodytext"><strong class="boldtext"><strong>Collecting your Personal Information</strong></strong><br>We will ask you when we need information that personally identifies you (personal information) or allows us to contact you. Generally, this information is requested when you are registering before entering a contest, ordering e-mail newsletters, joining a limited-access premium site, signing up for an event, or when purchasing and registering Swann Communications Ltdproducts. Personal information collected by Swann Communications Ltd often is limited to e-mail address, language, country or location, but may include other information when needed to provide a service you requested. </p> 
-<p class="bodytext">For example: If you choose a service or transaction that requires payment, such as making a purchase in the shopping area of the Web site, we will request personal information necessary for billing and/or shipping, such as: name, address, telephone number, and credit card number.</p> 
-<p class="bodytext">When you buy and install a new product, we may ask you to register your purchase electronically. When you do, we keep this registration information on file with any information you've already given us on previous visits to our Web site. This is considered your personal profile.</p> 
-<p class="bodytext"><strong class="boldtext"><strong>Use of your Personal Information</strong></strong><br>We use your personal information for the following purposes:</p> 
-<ul type="disc"> 
-<li class="bodytext">To make the site easier for you to use by not making you enter your personal information more than once. </li> 
-<li class="bodytext">To deliver services that you request or purchase. </li> 
-<li class="bodytext">To help us create and publish content most relevant to you. </li></ul> 
-<p class="bodytext">We occasionally hire other companies to provide limited services on our behalf, including packaging, mailing and delivering purchases, answering customer questions about products or services, sending postal mail and processing event registration. We will only provide those companies the information they need to deliver the service, and they are prohibited from using that information for any other purpose. </p> 
-<p class="bodytext">Swann Communications Ltd may disclose your personal information if required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served onSwann Communications Ltdor the site; (b) protect and defend the rights or property of Swann Communications Ltdand its family of Web sites, or (c) act in urgent circumstances to protect the personal safety of users of Swann Communications Ltd its Web sites, or the public. </p> 
-<p class="bodytext">Your information may be stored and processed in the Australia/United States/United Kingdom or any other country in which Swann Communications Ltd or its affiliates, subsidiaries or agents maintain facilities, and by using this site, you consent to any such transfer of information outside of your country. Swann Communications Ltd abides by the safe harbor framework as set forth by the Canadian Ministry of Commerce regarding the collection, use, and retention of data from the European Union. </p> 
-<p class="bodytext"><strong class="boldtext"><strong>Control of your Personal Information</strong></strong><br>When you register, or otherwise give us personal information, Swann Communications Ltd will not share that information with third parties without your permission, other than for the limited exceptions already listed. It will only be used for the purposes stated above. </p> 
-<p class="bodytext">Registering also allows you to tell us how or whether you want Swann Communications Ltd to communicate with you. </p> 
-<p class="bodytext">Swann Communications Ltd occasionally allows other companies to offer our registered customers information about their products and services, using postal mail only. </p> 
-<p class="bodytext">Swann Communications Ltd may send out periodic e-mails informing you of technical service issues related to a product or service you requested. You will not be able to choose to unsubscribe to these mailings, as they are considered an essential part of the service you have chosen. </p> 
-<p class="bodytext"><strong class="boldtext"><strong>Access to your Personal Information</strong></strong><br>We will provide you with the means to ensure that your personal information is correct and current. You may review and update this information at any time by contacting us at <a href="mailto: info@swann.com">info@swann.com</a>. You can:<br><br>View and edit personal information you have already given us at www.swann.com. <br>Tell us whether you want wwto send you marketing information. <br>Choose whether you want third parties to send you their offers by postal mail. <br>Subscribe, or cancel subscriptions, to newsletters about our services and products. </p> 
-<p class="bodytext"><strong class="boldtext"><strong>Security of your Personal Information</strong></strong><br>Swann Communications Ltd strictly protects the security of your personal information and honors your choices for its intended use. We carefully protect your data from loss, misuse, unauthorized access or disclosure, alteration, or destruction. </p> 
-<p class="bodytext">Your personal information is never shared outside the company without your permission, except under conditions explained above. Inside the company, data is stored in password-controlled servers with limited access. </p> 
-<p class="bodytext">You also have a significant role in protecting your information. No one can see or edit your personal information without knowing your login and password, so do not share these with others. </p> 
-<p class="bodytext"><strong class="boldtext"><strong>Protection of Children's Personal Information</strong></strong><br>The Swann Communications Ltd site/s does not publish content that is targeted to children. </p> 
-<p class="bodytext"><strong class="boldtext"><strong>Use of Cookies</strong></strong><br>To ensure we are publishing content customers need and want, Swann Communications Ltd collects site-visitation statistics using cookies. We only use this information in aggregated form and only use site-visitation statistics for improving our site.<br><br>When someone visits the site, a cookie is placed on the customer's machine (if the customer accepts cookies) or is read if the customer has visited the site previously. </p> 
-<p class="bodytext">If you choose to not have your browser accept cookies from the Swann Communications Ltd Web site, you will be able to view the text on the screens, however you will not experience a personalized visit nor will you be able to subscribe to the service offerings on the site. Your Shopping Cart will also not remember items added but not checked out.</p> 
-<p class="bodytext"><strong class="boldtext"><strong>Changes to this Statement</strong></strong><br>Swann Communications Ltd will occasionally update this privacy statement. When we do, we will also revise the "last updated" date at the top of the privacy statement. For material changes to this Statement, Swann Communications Ltd will notify you by placing prominent notice on the Web site. </p> 
-<p class="bodytext"><strong class="boldtext"><strong>Contact Information</strong></strong><br>Swann Communications Ltd welcomes your comments regarding this Statement of Privacy, please contact us at <a title="mailto:info@swann.com" href="mailto:info@swann.com">info@swann.com</a> </p></td></tr></tbody></table> 
- </td>
-        </tr>
-              <tr>
-                <td valign="top" style="padding:8px 0 8px 0;" align="right"><a href="#abouttop">To Top</a></td>
-              </tr>
-</tbody></table>          
-                </td>
-   		  </tr>
-    	</tbody></table>
-    </td>
-       
-  </tr>
-</tbody></table>
+jQuery('#adj-nav-filter-cat').hide();
 
-<table width="920" border="0" align="center" cellpadding="0" cellspacing="0" style="margin: 0;">
-  
-  
-  <tbody><tr valign="bottom" align="center">
-    <td colspan="3"><br>
-      <font face="Arial, Helvetica, sans-serif" color="#666666" size="1">
-        Copyright © Swann 2012 | <a href="/s/company/p/legal/"><font face="Arial, Helvetica, sans-serif" color="#666666" size="1">Legal</font></a> | <a href="/s/company/p/termsofuse"><font face="Arial, Helvetica, sans-serif" color="#666666" size="1">Terms of Use</font></a> | <a href="/s/company/p/privacypolicy/"><font face="Arial, Helvetica, sans-serif" color="#666666" size="1">Privacy Policy</font></a> | <a href="/s/company/contactus/"><font face="Arial, Helvetica, sans-serif" color="#666666" size="1">Contact Us</font></a> <br>
-        <br><br>
-      </font></td>
-  </tr>
-  <tr>
-  	<td colspan="3" align="center"><a href="https://secure.logmeinrescue.com/Customer/Code.aspx"><img src="http://www.swann.com/images/logmein.gif" width="24" height="24" border="0"></a>
-    </td>
-  </tr>
-</tbody></table>
 
-<p>
-  <script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
-  </script>
-  <script type="text/javascript">
-try {
-_uacct = "UA-8859612-1";
-urchinTracker();
-} catch(err) {}</script>
-  <script language="JavaScript" type="text/javascript">
-  
-  <!-- 
-var TimeSet1 = 200;
-var ImageSetA = 1;
-ANIMA = new array();
-for(i = 1; i<3; i++){
-	ANIMA[i] = new Image();
-	ANIMA[i].src = "images/top/hun"+i+".jpg";
-}
-function anime_2(){
-	document.animation.src = ANIMA [ImageSetA].src;
-	ImageSetA++;
-	if(ImageSetA > 2){
-		ImageSetA = 1;
-	}
-	timerID=setTimeout("anime_2()", TimeSet1);
-}
-function stop(){
-	clearTimeout(timerID);
-}//-->
-<!--
-window.ysm_customData = new Object();
-window.ysm_customData.conversion = "transId=,currency=,amount=";
-var ysm_accountid  = "1VHN6P0HMBEFKF8USC4D1BQLC3C";
-document.write("<SCR" + "IPT language='JavaScript' type='text/javascript' " + "SRC=//" + "srv2.wa.marketingsolutions.yahoo.com" + "/script/ScriptServlet" + "?aid=" + ysm_accountid + "></SCR" + "IPT>");//-->
 
-  </script>
-  <script>
-function SynOpenWin(link)
-{
-   window.open('http://syndicate.sellpoint.net/Syndicate/SynMaster?Tentoe=' + link + '&ParentUrl=' +
-escape(window.location.href),'_blank','width=536,height=525,scrollbars=no,toolbar=no,personalbar=no,statusbar=no,directories=no,location=no,resizable=no,menubar=no,locationbar=no');
-   return false;
+//jQuery('#narrow-by-list').find('dt:lt(2), dd:lt(2)').hide();	
+
+jQuery('#mt-accordion').find('span').removeClass('selected');
+
+
+
+
+
+/*if(jQuery("#mt-accordion li").find('ul').hasClass('level0')){
+
+jQuery('#mt-accordion').find('span').addClass('selected');
+
+}*/
+
+jQuery(".head").click(function(){
+
+if(jQuery( this ).hasClass('selected')){
+
+jQuery( this ).removeClass('selected');
+
+jQuery( this ).next('ul').css( "display", "none" );
+
+}else{
+
+jQuery( this ).addClass('selected');
+
+jQuery( this ).next('ul').css( "display", "block" );
+
 }
 
-  </script>
-
-</p>
-
-<div align="center"></div>
-<div align="center"></div>
 
 
- 
-<div class="simple_overlay" id="swann1">
-<iframe src="http://www.swann.com/tech/chat/lmi_chat.html" frameborder="0" width="100%" height="100%" scrolling="no"></iframe>
-	
-</div>   
-<script> 
-$(document).ready(function() {  
-$("img[rel]").overlay(
-
-	{mask: {
-		color: '#ebecff',
-		loadSpeed: 200,
-		opacity: 0.7},
- 
-	closeOnClick: false
-	}
-	);
+  });
 
 });
-</script> 
+
+</script>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-8859612-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+</head>
+<body class=" cms-page-view cms-privacy-policy">
+<script type="text/javascript">
+    var downloads = new Downloads();
+</script>
+<div class="wrapper">
+<noscript>
+<div class="global-site-notice noscript">
+<div class="notice-inner">
+<p>
+<strong>JavaScript seems to be disabled in your browser.</strong><br/>
+You must have JavaScript enabled in your browser to utilize the functionality of this website. </p>
+</div>
+</div>
+</noscript>
+<div class="page">
+<div class="mt-top-menu">
+<div class="quick-access container">
+<div class="row-fluid show-grid">
+<div class="span4 welcome">
+<p class="welcome-msg">
+</p>
+</div>
+<div class="span4 header_top_menu">
+</div>
+<div class="span4 store_language lang_blk clearfix">
+<div class="form-language lang_right span6">
+<div class="select row-fluid main-region1">
+<label for="select-language" class="span6 extra-add-label">Your Region:</label>
+<select id="select-language" class="top-select-box" title="Your Region" onchange="window.location.href=this.value">
+<option class="" value="http://www.swann.com/us/" selected="selected">United States</option>
+<option class="" value="http://www.swann.com/au/">Australia</option>
+<option class="" value="http://www.swann.com/ca/">Canada</option>
+<option class="" value="http://www.swann.com/uk/">UK / Europe</option>
+</select>
+<script type="text/javascript">
+
+			$mtkb(document).ready(function(){
+
+			
 
 
 
+				$mtkb('.select .sbHolder').addClass('span6'); 	
+
+				$mtkb('.sbOptions li:eq(0) a').addClass('eng'); 
+
+				$mtkb('.sbOptions li:eq(1) a').addClass('frm'); 
+
+				$mtkb('.sbOptions li:eq(2) a').addClass('gre'); 
+
+			});
+
+		</script>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="header-container">
+<div class="container">
+<div class="header">
+<div class=" row-fluid show-grid">
+<div class="span6 clearfix">
+<a href="http://www.swann.com/us/" title="Swann Communications" class=" logo "><strong>Swann Communications</strong><img src="http://www.swann.com/skin/frontend/default/mt_optune_boxed/images/logo.png" alt="Swann Communications"></a>
+</div>
+<div class="span6">
+<div class="top-cart buy_store">
+<span class="cart-icon">
+<a href="http://swannstore.com" target="_blank"><img src="http://www.swann.com/media/wysiwyg/bg-top-cart.png" alt=""></a>
+</span>
+</div>
+<div class="global-logo visible-desktop">
+<img width="100" title="Global" src="http://www.swann.com/skin/frontend/default/mt_optune_boxed/images/global_logo.png" alt="Global">
+</div>
+<div class="clearfix"></div>
+<div class="topsearch"><form class="searchautocomplete UI-SEARCHAUTOCOMPLETE" action="http://www.swann.com/us/catalogsearch/result/" method="get" data-tip="Search entire store here..." data-url="http://www.swann.com/us/searchautocomplete/ajax/get/" data-minchars="3" data-delay="500">
+ 
+<div class="nav">
+<div class="nav-search-in">
+<span class="category-fake UI-CATEGORY-TEXT">All</span>
+<span class="nav-down-arrow"></span>
+<select name="cat" class="category UI-CATEGORY">
+<option value="0">All</option>
+<option value="139">
+DVRs and Kits </option>
+<option value="140">
+Security Cameras </option>
+<option value="141">
+Wireless &amp; IP Cameras </option>
+<option value="142">
+Alarms &amp; Doorbells </option>
+<option value="143">
+Mini Video </option>
+<option value="165">
+Accessories </option>
+</select>
+</div>
+<div class="nav-input UI-NAV-INPUT" style="padding-left:0px !important;"> 
+<input class="input-text UI-SEARCH" type="text" autocomplete="off" value="Search Swann.com..." onfocus="if(value=='Search Swann.com...') value='';" onblur="if(value=='')value='Search Swann.com...';" name="q" maxlength="128">
+</div>
+<div class="searchautocomplete-loader UI-LOADER" style="display:none;"></div>
+</div>
+<div class="nav-submit-button">
+<button type="submit" title="Go" class="button">Go</button>
+</div>
+<div style="display:none" class="searchautocomplete-placeholder UI-PLACEHOLDER"></div>
+</form></div>
+</div>
+<div class="clearfix"></div>
+<div class="mst"><ul class="level0 menu-creator-pro menu-creator-pro-fade menu-creator-pro-rp-stack menu-creator-pro-black"><li class="  dropdown parent  level0 "><a title="Company" href=" http://www.swann.com/us/about-swann"> <span>Company</span></a><span class="icon-angle-down"></span><div class="grid-container3"><div class="grid-column grid-column3"><a title="About Swann" class="nav-header" href="http://www.swann.com/us/about-swann"><span>About Swann</span></a></div><div class="grid-column grid-column3"><a title="News Releases" class="nav-header" href="http://www.swann.com/us/news"><span>News Releases</span></a></div><div class="grid-column grid-column3"><a title="Contact Swann" class="nav-header" href="http://www.swann.com/us/contact-us"><span>Contact Swann</span></a></div></div></li><li class="  dropdown parent  level0 "><a title="Products" href=" http://www.swann.com/us/dvrs-kits"> <span>Products</span></a><span class="icon-angle-down"></span><div class="grid-container3"><div class="grid-column grid-column3"><a title="DVRs &amp; Kits" class="nav-header" href="http://www.swann.com/us/dvrs-kits"><i class=""><img src="http://www.swann.com/media//menupro/Image-1385989736.png"></i><span>DVRs and Kits</span></a></div><div class="grid-column grid-column3"><a title="Security Cameras" class="nav-header" href="http://www.swann.com/us/security-cameras"><i class=""><img src="http://www.swann.com/media//menupro/Image-1385989795.png"></i><span>Security Cameras</span></a></div><div class="grid-column grid-column3"><a title="Wireless &amp; IP Cameras" class="nav-header" href="http://www.swann.com/us/wireless-ip-cameras"><i class=""><img src="http://www.swann.com/media//menupro/Image-1385989641.png"></i><span>Wireless &amp; IP Cameras</span></a></div><div class="grid-column grid-column3"><a title="Alarms &amp; Doorbells" class="nav-header" href="http://www.swann.com/us/alarms-doorbells"><i class=""><img src="http://www.swann.com/media//menupro/Image-1385989930.png"></i><span>Alarms &amp; Doorbells</span></a></div><div class="grid-column grid-column3"><a title="Accessories" class="nav-header" href="http://www.swann.com/us/accessories"><i class=""><img src="http://www.swann.com/media//menupro/Image-1385990151.png"></i><span>Accessories</span></a></div><div class="grid-column grid-column3"><a title="Mini Video" class="nav-header" href="http://www.swann.com/us/mini-video"><i class=""><img src="http://www.swann.com/media//menupro/Image-1385990261.png"></i><span>Mini Video</span></a></div><div class="grid-column grid-column3"><a title="RC Toys" class="nav-header" href="http://www.swann.com/us/xtreem-rc-toys"><i class=""><img src="http://www.swann.com/media//menupro/Image-1386031785.png"></i><span>Xtreem RC Toys</span></a></div></div></li><li class="  dropdown parent  level0 "><a title="Support" href=" http://www.swann.com/us/support-home"> <span>Support</span></a><span class="icon-angle-down"></span><div class="grid-container3"><div class="grid-column grid-column3"><a title="Support Home" class="nav-header" href="http://www.swann.com/us/support-home"><span>Support Home</span></a></div><div class="grid-column grid-column3"><a title="Swann Support Center" class="nav-header" href="http://support.swann.com"><span>Swann Support Center</span></a></div><div class="grid-column grid-column3"><a title="Warranty Registration" class="nav-header" href="http://www.swann.com/us/warranty-registration"><span>Warranty Registration</span></a></div><div class="grid-column grid-column3"><a title="Customer Feedback" class="nav-header" href="http://www.swann.com/us/customer-feedback"><span>Customer Feedback</span></a></div><div class="grid-column grid-column3"><a title="Professional Installation" class="nav-header" href="http://www.swann.com/us/professional-installation-us"><span>Professional Installation</span></a></div><div class="grid-column grid-column3"><a title="Swann DVR DDNS Portal" class="nav-header" href="http://www.swann.com/us/dvr-ddns-portal"><span>Swann DVR DDNS Portal</span></a></div><div class="grid-column grid-column3"><a title="Remote App Download" class="nav-header" href="http://www.swann.com/us/apps"><span>Remote App Download</span></a></div><div class="grid-column grid-column3"><a title="Contact Tech Support" class="nav-header" href="http://www.swann.com/us/contact-tech-support"><span>Contact Tech Support</span></a></div></div></li><li class="  dropdown parent  level0 "><a title="Multimedia" href=" "> <span>Multimedia</span></a><span class="icon-angle-down"></span><div class="grid-container3"><div class="grid-column grid-column3"><a title="Swann Videos" class="nav-header" href="http://www.swann.com/us/swann-videos"><span>Swann Videos</span></a></div><div class="grid-column grid-column3"><a title="Podcasts" class="nav-header" href="http://www.swann.com/us/podcasts"><span>Podcasts</span></a></div><div class="grid-column grid-column3"><a title="Video Instruction Guides" class="nav-header" href="http://www.swann.com/us/video-instruction-guides"><span>Video Instruction Guides</span></a></div></div></li></ul></div><script type="text/javascript">
+var mstMCP = jQuery.noConflict();
+mstMCP(document).ready(function($) {
+	MCP = {
+		activeClass : 'current',
+		addActiveClass : function(selector) {
+			/* Add active class to parent when a child active */
+			var current_url = window.location.href;
+			var link = null;
+			var li_class = null;
+			$(selector + ' li a').each(function() {
+				link = $(this).attr('href');
+				if(link == current_url){
+					$(this).addClass(MCP.activeClass);
+					$(this).parents('li').addClass(MCP.activeClass);
+				}
+			});
+			/*If you just want active class visiable in li level0, and remove in all another level, uncomment below code */
+			/* $(selector + ' li').each(function() {
+				try{
+					li_class = $(this).attr('class');
+					if (li_class != "" && li_class != undefined) {
+						if(li_class.indexOf('level0') == -1) {
+							$(this).removeClass(MCP.activeClass);
+						}
+					}
+					
+				}catch(error){
+					//Do nothing in here
+				}
+			});*/
+		}
+	}
+	MCP.addActiveClass('.mst .mcp-ver3');
+});
+</script>
+</div>
+</div>
+</div>
+</div>
+<style>.BVRRRatingNormalImage .BVImgOrSprite img{max-width:200%!important;}.BVRRReviewDisplayStyle5BodyContent{width:80%;float:left;}.BVRRReviewDisplayStyle5BodyContent .BVRRReviewDisplayStyle5BodyContentPrimary .BVRRReviewText{display:block;}#BVReviewsContainer{display:block!important;}#BVRRLinkContainer{display:block!important;}</style> <div class="main-container col2-left-layout">
+<div class="main container">
+<div class="main-inner">
+<div class="breadcrumbs">
+<ul>
+<li class="home">
+<a href="http://www.swann.com/us/" title="Go to Home Page">Home</a>
+<samp></samp>
+</li>
+<li class="cms_page">
+<strong>Privacy Policy</strong>
+</li>
+</ul>
+</div>
+<div class="row-fluid show-grid">
+<div class="col-left sidebar span3 hidden-phone">
+<div class="block mt-smartmenu">
+<div class="block-title"><strong><span>Navigation</span></strong></div>
+<div class="block-content">
+<ul id="mt-accordion">
+<li class="level0 nav-company title-3-3"> &nbsp; Company</li>
+<li class="level0 nav-company"><a title="About Swann" href="about-swann">About Swann</a></li>
+<li class="level0 nav-company"><a title="News Releases" href="news">News Releases</a></li>
+<li class="level0 nav-company"><a title="contact-us" href="contact-us">Contact Us</a></li>
+</ul>
+<ul id="mt-accordion">
+<li class="level0 nav-company title-3-3"> &nbsp; Tech Support</li>
+<li class="level0 nav-company"><a title="Support Home" href="support-home">Support Home</a></li>
+ 
+<li class="level0 nav-company"><a title="Warranty Registration" href="warranty-registration">Warranty Registration</a></li>
+<li class="level0 nav-company"><a title="Product Returns" href="product-returns">Product Returns</a></li>
+<li class="level0 nav-company"><a title="Customer Feedback" href="customer-feedback">Customer Feedback</a></li>
+<li class="level0 nav-company"><a title="Professional Installation" href="professional-installation-us">Professional Installation</a></li>
+<li class="level0 nav-company"><a title="DVR DDNS Portal" href="dvr-ddns-portal">DVR DDNS Portal</a></li>
+<li class="level0 nav-company"><a title="Swann App Compatibility" href="http://www.swann.com/us/apps">Swann App Compatibility</a></li>
+<li class="level0 nav-company"><a title="Contact Support" href="contact-tech-support">Contact Support</a></li>
+</ul>
+<ul id="mt-accordion">
+<li class="level0 nav-company title-3-3"> &nbsp; Multimedia</li>
+ 
+<li class="level0 nav-company"><a title="Videos" href="videos">Videos</a></li>
+<li class="level0 nav-company"><a title="Video Instruction Guides" href="video-instruction-guides">Video Instruction Guides</a></li>
+<li class="level0 nav-company"><a title="Product Catalog" href="product-catalog">Product Catalog</a></li>
+</ul>
+</div>
+</div> </div>
+<div class="col-main span9">
+<div class="col-main-inner">
+<div class="std"><div class="white_bold_header">Privacy Policy</div>
+<h4>Swann Communications - Statement of Privacy</h4>
+<p>last updated July 8th, 2014</p>
+<p>This Privacy Policy covers the following URL's;</p>
+<p><a href="http://swann.com" target="_blank">www.swann.com </a>; <a href="http://swannsecurity.com" target="_blank">www.swannsecurity.com</a> ; <a href="http://swannsurveillance.com" target="_blank">www.swannsurveillance.com</a> ; <a href="http://swannstore.com" target="_blank">www.swannstore.com</a> ; <a href="http://swannstore.com.au" target="_blank">www.swannstore.com.au</a> ; <a href="http://swannusa.com" target="_blank">www.swannusa.com</a></p>
+<p>At Swann Communications , we are committed to protecting your privacy and to developing technology that gives you the most powerful and secure online experience. You can travel through most of our site without giving us any information about yourself. But sometimes we do need information to provide services that you request, and this statement of privacy explains data collection and use in those situations. This privacy statement explains data collection and use practices of Swann Communications ; it does not apply to other online or offline Swann Communications sites, products or services. Please read the complete Swann Communications privacy statement.</p>
+<h4>Collecting your Personal Information</h4>
+<p>We will ask you when we need information that personally identifies you (personal information) or allows us to contact you. Generally, this information is requested when you are registering before entering a contest, ordering e-mail newsletters, joining a limited-access premium site, signing up for an event, or when purchasing and registering Swann Communications products. Personal information collected by Swann Communications often is limited to e-mail address, language, country or location, but may include other information when needed to provide a service you requested.</p>
+<p>For example: If you choose a service or transaction that requires payment, such as making a purchase in the shopping area of the Web site, we will request personal information necessary for billing and/or shipping, such as: name, address, telephone number, and credit card number.</p>
+<p>When you buy and install a new product, we may ask you to register your purchase electronically. When you do, we keep this registration information on file with any information you've already given us on previous visits to our Web site. This is considered your personal profile.</p>
+<h4>Use of your Personal Information</h4>
+<p>We use your personal information for the following purposes:</p>
+<ul>
+<li>To make the site easier for you to use by not making you enter your personal information more than once.</li>
+<li>To deliver services that you request or purchase.</li>
+<li>To help us create and publish content most relevant to you.</li>
+</ul>
+<p>We occasionally hire other companies to provide limited services on our behalf, including packaging, mailing and delivering purchases, answering customer questions about products or services, sending postal mail and processing event registration. We will only provide those companies the information they need to deliver the service, and they are prohibited from using that information for any other purpose.</p>
+<p>Swann Communications may disclose your personal information if required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served onSwann Communications or the site; (b) protect and defend the rights or property of Swann Communications and its family of Web sites, or (c) act in urgent circumstances to protect the personal safety of users of Swann Communications its Web sites, or the public.</p>
+<p>Your information may be stored and processed in the Australia/United States/United Kingdom or any other country in which Swann Communications or its affiliates, subsidiaries or agents maintain facilities, and by using this site, you consent to any such transfer of information outside of your country. Swann Communications abides by the safe harbor framework as set forth by the Canadian Ministry of Commerce regarding the collection, use, and retention of data from the European Union.</p>
+<h4>Control of your Personal Information</h4>
+<p>When you register, or otherwise give us personal information, Swann Communications will not share that information with third parties without your permission, other than for the limited exceptions already listed. It will only be used for the purposes stated above.</p>
+<p>Registering also allows you to tell us how or whether you want Swann Communications to communicate with you.</p>
+<p>Swann Communications occasionally allows other companies to offer our registered customers information about their products and services, using postal mail only.</p>
+<p>Swann Communications may send out periodic e-mails informing you of technical service issues related to a product or service you requested. You will not be able to choose to unsubscribe to these mailings, as they are considered an essential part of the service you have chosen.</p>
+<h4>Access to your Personal Information</h4>
+<p>We will provide you with the means to ensure that your personal information is correct and current. You may review and update this information at any time by contacting us at <a href="mailto:info@swann.com">info@swann.com</a>. You can:</p>
+<p>View and edit personal information you have already given us at <a href="http://www.swann.com">www.swann.com</a>. Tell us whether you want wwto send you marketing information. Choose whether you want third parties to send you their offers by postal mail. Subscribe, or cancel subscriptions, to newsletters about our services and products.</p>
+<h4>Security of your Personal Information</h4>
+<p>Swann Communications strictly protects the security of your personal information and honors your choices for its intended use. We carefully protect your data from loss, misuse, unauthorized access or disclosure, alteration, or destruction.</p>
+<p>Your personal information is never shared outside the company without your permission, except under conditions explained above. Inside the company, data is stored in password-controlled servers with limited access.</p>
+<p>You also have a significant role in protecting your information. No one can see or edit your personal information without knowing your login and password, so do not share these with others.</p>
+<h4>Protection of Children's Personal Information</h4>
+<p>The Swann Communications site/s does not publish content that is targeted to children.</p>
+<h4>Use of Cookies</h4>
+<p>To ensure we are publishing content customers need and want, Swann Communications collects site-visitation statistics using cookies. We only use this information in aggregated form and only use site-visitation statistics for improving our site.</p>
+<p>When someone visits the site, a cookie is placed on the customer's machine (if the customer accepts cookies) or is read if the customer has visited the site previously.</p>
+<p>If you choose to not have your browser accept cookies from the Swann Communications Web site, you will be able to view the text on the screens, however you will not experience a personalized visit nor will you be able to subscribe to the service offerings on the site. Your Shopping Cart will also not remember items added but not checked out.</p>
+<h4>Changes to this Statement</h4>
+<p>Swann Communications will occasionally update this privacy statement. When we do, we will also revise the "last updated" date at the top of the privacy statement. For material changes to this Statement, Swann Communications will notify you by placing prominent notice on the Web site.</p>
+<h4>Contact Information</h4>
+<p>Swann Communications welcomes your comments regarding this Statement of Privacy, please contact us at <a href="mailto:info@swan.com">info@swann.com</a></p></div> </div>
+</div>
+</div>
+</div>
+ 
+</div>
+</div>
+<div class="mt-footer-static-container">
+<div class="mt-footer-static-container-top">
+<div class="mt-footer-static container">
+<div class="row-fluid show-grid">
+<div class="mt-footer-static-inner">
+<div class="span6 news">
+<div class="block subscribe">
+<form id="newsletter-validate-detail" class="clearfix " method="post" action="newsletter/subscriber/new/">
+<div class="block-content ">
+<div class="row-fluid show-grid  ">
+<div class="form-subscribe-header span4 news_lab">
+<label for="newsletter" class="news_label">Subscribe to Swann News</label>
+</div>
+<div class="input-box span8">
+<div class="mt-subscribe">
+<input type="text" class="input-text required-entry validate-email" title="Newsletter" id="newsletter" name="email" value="Enter Email Address" onblur="if(value=='') value = 'Enter Email Address'" onfocus="if(value=='Enter Email Address') value = ''">
+<button class="button" title="Subscribe" type="submit"><span><span>Subscribe</span></span></button>
+</div>
+</div>
+</div>
+</div>
+</form>
+<script type="text/javascript">
+//&lt;![CDATA[
+var newsletterSubscriberFormDetail = new VarienForm('newsletter-validate-detail');
+//]]&gt;
+</script>
+</div></div>
+<div class="span6 social">
+<div class="mt-social clearfix">
+<div class="mt-social-inner">
+ 
+<ul>
+<li class="first"><a href="https://www.facebook.com/swanncommunications" target="_blank" class="facebook">&nbsp;</a></li>
+<li><a href="https://twitter.com/swannsecurity" target="_blank" class="twitter">&nbsp;</a></li>
+ 
+ 
+<li><a href="http://www.youtube.com/user/swannsecuritytv" target="_blank" class="youtube">&nbsp;</a></li>
+<li><a href="http://instagram.com/swannsecurity" target="_blank" class="instagram">&nbsp;</a></li>
+ 
+</ul>
+</div>
+</div></div>
+</div>
+</div>
+</div>
+</div>
+<div class="mt-footer-static-container-bottom">
+<div class="mt-footer-static container">
+<div class="row-fluid show-grid">
+<div class="span12 footer-links">
+<div class="row-fluid show-grid">
+<div class="home_page_copy">
+Swann is the world’s no.1 brand in DIY surveillance. As a world leader in DIY home security we’re constantly bringing the latest and most advanced technology to market in our security cameras and DVR systems.
+We have a range of DIY home security systems to suit every budget, whether for home or business. Plus if you choose one of our DVR systems you can be secure in the knowledge that you can access your security cameras remotely via computer, tablet or smartphone to view footage, and are backed up by our lifetime 24/7 technical support guarantee.
+</div>
+<div class="span2">
+<div class="about-us offset2">
+<div class="footer-static-title">
+<h2>Company</h2>
+</div>
+<div class="footer-static-content">
+<ul>
+<li><a href="/us/about-swann" title="About Swann">About Swann</a></li>
+<li><a href="/us/news" title="News Releases">News Releases</a></li>
+<li><a href="/us/contact-us" title="contact-us">Contact Us</a></li>
+</ul>
+</div>
+</div>
+</div>
+<div class="span2">
+<div class="shipping offset2">
+<div class="footer-static-title">
+<h2>Products</h2>
+</div>
+<div class="footer-static-content">
+<ul>
+<li><a href="/us/dvr-kits" title="DVRs &amp; Kits">DVRs &amp; Kits</a></li>
+<li><a href="/us/security-cameras" title="Security Cameras">Security Cameras</a></li>
+<li><a href="/us/wireless-ip-cameras" title="Wireless IP Cameras">Wireless IP Cameras</a></li>
+<li><a href="/us/alarms-doorbells" title="Alarms Doorbells">Alarms Doorbells</a></li>
+<li><a href="/us/mini-video" title="Mini Video">Mini Video</a></li>
+<li><a href="/us/xtreem-rc-toys" title="RC Toys">RC Toys</a></li>
+</ul>
+</div>
+</div>
+</div>
+<div class="span2">
+<div class="support offset2">
+<div class="footer-static-title">
+<h2>Tech Support</h2>
+</div>
+<div class="footer-static-content">
+<ul>
+<li><a href="/us/support-home" title="Support Home">Support Home</a></li>
+<li><a href="/us/warranty-registration" title="Warranty Registration">Warranty Registration</a></li>
+<li><a href="/us/product-returns" title="Product Returns">Product Returns</a></li>
+<li><a href="/us/customer-feedback" title="Customer Feedback">Customer Feedback</a></li>
+<li><a href="/us/professional-installation-us" title="Professional Installation">Professional Installation</a></li>
+<li><a href="/us/dvr-ddns-portal" title="DVR DDNS Portal">DVR DDNS Portal</a></li>
+<li><a href="/us/contact-tech-support" title="Contact Support">Contact Support</a></li>
+</ul>
+</div>
+</div>
+</div>
+<div class="span2">
+<div class="our_account offset2">
+<div class="footer-static-title">
+<h2>Multimedia</h2>
+</div>
+<div class="footer-static-content">
+<ul>
+ 
+<li><a href="/us/videos" title="Videos">Videos</a></li>
+<li><a href="/us/video-instruction-guides" title="Video Instruction Guides">Video Instruction Guides</a></li>
+<li><a href="/us/product-catalog" title="Product Catalog">Product Catalog</a></li>
+</ul>
+</div>
+</div>
+</div>
+<div class="span4">
+<div class="block_open_time offset3">
+<div class="footer-static-title">
+<h2>Legal</h2>
+</div>
+<div class="footer-static-content">
+<ul class="date">
+<li><a href="/us/terms-of-use" title="Terms of Use">Terms of Use</a></li>
+<li><a href="/us/privacy-policy" title="Privacy Policy">Privacy Policy</a></li>
+<li><a href="/us/contact-us" title="Contact Us">Contact Us</a></li> 
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<script type="text/javascript">
+
+jQuery( document ).ready(function() {
+
+jQuery( ".cart-icon a" ).hover(function() {
+
+     jQuery(".mtajaxcart").show();
+
+   }
+ );
+});
+
+</script>
+<div class="footer-container">
+<div class="container">
+<div class="footer row-fluid show-grid">
+<address class="span12"><a href="https://secure.logmeinrescue.com/Customer/Code.aspx" target="_blank"><img src="http://www.swann.com/media/wysiwyg/tech/logmein_icon.png" alt="Technician Login Portal"></a>&nbsp; Copyright © 2015 <a title="Swann" href="http://swann.com">Swann</a>. All rights reserved.</address>
+</div>
+</div>
+</div>
+<script type="text/javascript">
+            var lookhomepage = 0;
+    </script>
+</div>
+</div>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"24de7bbaae","applicationID":"8181305","transactionName":"blRRYRZVX0oAWkJQDFceclYQXV5XTlpbSkxJUFRQS0JYXBY=","queueTime":0,"applicationTime":839,"atts":"QhNSF15PTEQ=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-686.min.js"}</script><script type="text/javascript">
+/* <![CDATA[ */
+(function(){try{var s,a,i,j,r,c,l=document.getElementsByTagName("a"),t=document.createElement("textarea");for(i=0;l.length-i;i++){try{a=l[i].getAttribute("href");if(a&&a.indexOf("/cdn-cgi/l/email-protection") > -1  && (a.length > 28)){s='';j=27+ 1 + a.indexOf("/cdn-cgi/l/email-protection");if (a.length > j) {r=parseInt(a.substr(j,2),16);for(j+=2;a.length>j&&a.substr(j,1)!='X';j+=2){c=parseInt(a.substr(j,2),16)^r;s+=String.fromCharCode(c);}j+=1;s+=a.substr(j,a.length-j);}t.innerHTML=s.replace(/</g,"&lt;").replace(/>/g,"&gt;");l[i].setAttribute("href","mailto:"+t.value);}}catch(e){}}}catch(e){}})();
+/* ]]> */
+</script>
 
 
-
-
-</td></tr></tbody></table></center></body></html>
+</body></html>
