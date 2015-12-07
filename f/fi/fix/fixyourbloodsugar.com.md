@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fixyourbloodsugar.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607075357id_/http%3A//www.fixyourbloodsugar.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fixyourbloodsugar.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207143154id_/http%3A//fixyourbloodsugar.com/privacy-policy) for the most accurate reproduction.*
 
 # FixYourBloodSugar.com - Privacy Policy
 
