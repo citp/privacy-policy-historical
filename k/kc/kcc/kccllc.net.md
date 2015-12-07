@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kccllc.net privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608031645id_/http%3A//www.kccllc.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kccllc.net privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207151701id_/http%3A//www.kccllc.com/privacy) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -33,6 +33,11 @@ KCC is committed to ensuring that the personal information it receives is accura
 **Cookies & Session IDs**
 
 “Cookies” are information files which your web browser places on your computer when you visit a website. KCC uses cookies and session IDs to authenticate a User as he or she navigates various parts of KCC's websites. Cookies and session IDs may also be used to automate data entry functions. For example, cookies may be used to enable a User to move through a KCC client website without having to retype the User's password. KCC does not obtain personal information from cookies or session IDs, and does not link any data collected through cookies or session IDs to any personal information.
+
+If you access an online service maintained by KCC we may use a tool called “Google Analytics” which transmits website traffic data to Google servers in the United States.  Google Analytics does not identify individual users or associate your IP address with any other data held by Google.  We use the information we get from Google Analytics to help us understand website traffic and webpage usage.  We do not combine the information collected through the use of Google Analytics with personally identifiable information.  Google’s ability to use and share information collected by Google Analytics is restricted by the [Google Analytics Terms of Use](http://www.google.com/analytics/terms/us.html) and the [Google Privacy Policy](http://www.google.com/policies/privacy/).  You can opt out of Google Analytics if you disable or refuse the cookie, disable JavaScript, or [use the opt-out service provided by Google](https://tools.google.com/dlpage/gaoptout).
+
+  
+We may share the information we collect via cookies and Google Analytics with our related entities within the Computershare Group including entities located outside of the United States who assist us in supplying our services including through data storage solutions, back-up services and IT support. These entities are generally located in Canada, New Zealand, the United Kingdom and Australia. We may also disclose it to others if required to do so by law.
 
 **Links to Third Party Websites**
 
