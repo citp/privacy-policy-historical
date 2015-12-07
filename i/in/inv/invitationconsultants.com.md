@@ -1,18 +1,16 @@
-> *The following text is extracted and transformed from the invitationconsultants.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609095150id_/http%3A//www.invitationconsultants.com/cs-privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the invitationconsultants.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207132757id_/http%3A//www.invitationconsultants.com/cs-privacy.aspx) for the most accurate reproduction.*
 
 # Help Center at InvitationConsultants.com - Security & Privacy
 
-Credit Card Security   |   Privacy Notice   |   Information, Collection & Use   |   Uses of Information  
-Choice / Opt Out / Access   |   Log Files   |   Cookies   |   Links to Other Sites   |   Security  
-Business Transitions   |   Changes to Privacy Statement
+Credit Card Security | Privacy Notice | Information, Collection & Use | Uses of Information   
+Choice / Opt Out / Access | Log Files | Cookies | Links to Other Sites | Security   
+Business Transitions | Changes to Privacy Statement
 
 ## Credit Card Security:
 
-The Payment Card Industry (PCI) Data Security Standard ("PCI Standard") is intended to protect cardholders' credit card account and transaction information. Invitation Consultants, Inc. has been certified "PCI Compliant" by MacAfee®. 
+The Payment Card Industry (PCI) Data Security Standard ("PCI Standard") is intended to protect cardholders' credit card account and transaction information. Invitation Consultants, Inc. has been certified "PCI Compliant" by MacAfee.
 
-Click here to verify :  
-
-[](https://www.mcafeesecure.com/RatingVerify?ref=www.invitationconsultants.com)
+Click here to verify:  [](https://www.mcafeesecure.com/RatingVerify?ref=www.invitationconsultants.com)
 
 ## Privacy:
 
@@ -21,7 +19,7 @@ Click here to verify :  
 
 Invitation Consultants, Inc. is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers www.invitationconsultants.com and www.graduation-announcements-store.com (collectively "the site"). 
 
-Because this web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. If you have questions or concerns regarding this statement, you should first contact Customer Service at customerservice@invitationconsultants.com. If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe - http://www.truste.com/consumers/watchdog_complaint.php TRUSTe will then serve as a liaison with the Web site to resolve your concerns. Thanks for shopping at www.invitationconsultants.com. We've done our best to ensure the security and privacy of your transactions with us. Be confident that your credit card information and other personal data will be regarded with the highest standards of confidentiality, safety, and security. 
+Because this web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. If you have questions or concerns regarding this statement, you should first contact Customer Service at hello@invitationconsultants.com. If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe - http://www.truste.com/consumers/watchdog_complaint.php TRUSTe will then serve as a liaison with the Web site to resolve your concerns. Thanks for shopping at www.invitationconsultants.com. We've done our best to ensure the security and privacy of your transactions with us. Be confident that your credit card information and other personal data will be regarded with the highest standards of confidentiality, safety, and security. 
 
 (back to top)
 
@@ -43,7 +41,7 @@ Credit card numbers and expiration dates are processed immediately and are not s
 
 If you choose to use our referral service to e-mail a friend about our site, we will ask you for your friend's name and email address. We will automatically send your friend a one-time email inviting him or her to visit the site. Invitation Consultants, Inc. stores this information for the sole purpose of sending this one-time email and tracking the success of our referral program. 
 
-Your friend may contact us at [customerservice@invitationconsultants.com](mailto:customerservice@invitationconsultants.com) to request that we remove this information from our database. 
+Your friend may contact us at [hello@invitationconsultants.com](mailto:hello@invitationconsultants.com) to request that we remove this information from our database. 
 
 In the "My Account" Address Book functionality when you enter names and addresses for a third party, we will collect that third party's name and mailing address information, so that we can facilitate the mailing per your request. We will not use this information for any other purpose. 
 
@@ -83,7 +81,7 @@ We do not share, sell, rent or trade personally identifiable information with th
 
 ## Choice / Opt Out / Access:
 
-If you no longer wish to receive our promotional communications, you may opt-out of receiving them by following the instructions included in each communication or by emailing us at customerservice@invitationconsultants.com. 
+If you no longer wish to receive our promotional communications, you may opt-out of receiving them by following the instructions included in each communication or by emailing us at hello@invitationconsultants.com. 
 
 You can also opt-out of promotional communications and update or correct your information by logging into "My Account" on the site and clicking on "Account Settings". 
 
@@ -133,7 +131,7 @@ Authentic Sites, like www.invitationconsultants.com, use Thawte SSL Web Server C
 
 We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security. 
 
-If you have any questions about security on our Web site, you can send an email to us at [customerservice@invitationconsultants.com](mailto:customerservice@invitationconsultants.com). 
+If you have any questions about security on our Web site, you can send an email to us at [hello@invitationconsultants.com](mailto:hello@invitationconsultants.com). 
 
 (back to top)
 
