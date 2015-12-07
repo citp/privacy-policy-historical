@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the discountvouchers.co.uk privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608041713id_/http%3A//www.discountvouchers.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the discountvouchers.co.uk privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207044709id_/http%3A//www.discountvouchers.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
