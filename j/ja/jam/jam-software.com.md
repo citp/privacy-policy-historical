@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jam-software.com privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626083333id_/http%3A//www.jam-software.com/company/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jam-software.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207095128id_/http%3A//www.jam-software.com/company/privacy.shtml) for the most accurate reproduction.*
 
 # JAM Software - Privacy Policy
 
@@ -54,16 +54,28 @@ JAM Software GmbH will only provide third parties with your individual-related d
 
 JAM Software GmbH will delete your individual-related data, if you revoke your allowance for storing your data, if these data are not needed anymore for reaching the goal, that originally was the cause for storing them, or if storing these data is not lawful. 
 
-### Cookies on this Internet site
+### Cookies on this Internet Site
 
-This Internet site uses on several occasions "cookies". Cookies improve the level of service and speed up the delivery of information to our visitors making our site more user-friendly and more secure. Cookies are small text files that will be placed on your computer, created and used by your browser. Most of these cookies are "session cookies". They are used to ensure proper and efficient function of our Internet services, and they will be deleted automatically when you have left our site. Cookies are not harmful to your computer and do not contain viruses or other malware. 
+This Internet site uses "cookies". Cookies improve the level of service and speed up the delivery of information to our visitors making our site more user-friendly and more secure. Cookies are small text files that will be placed on your computer, created and used by your browser. Most of these cookies are "session cookies". They are used to ensure proper and efficient function of our Internet services, and they will be deleted automatically when you have left our site. Cookies are not harmful to your computer and do not contain viruses or other malware. 
+
+### Usage of Retargeting for Interest-based Advertising
+
+This websites uses so-called "retargering tags". A "retargeting tag" is a JavaScript element in the website's source code. If a user accesses a page on this website containing such a tag, a provider of online ads (e.g. Google) places a cookie on the user's computer and connects it to a matching retargeting list. The cookie is required to provide targeted advertising on other pages.
+
+JAM Software GmbH uses Google remarketing tags and thus services of Google Inc. (1600 Amphitheatre Parkway, Mountain View, CA 94043, USA; "Google" in short). Google uses cookies saved on your system.
+
+Google has its own privacy policy. Google self-certifies compliance with the EU-U.S. ‘Safe Harbor’ framework that the U.S. Department of Commerce developed in consultation with the European Commission in order to meet the European ‘adequacy’ standard for privacy protection.
+
+### Control and Deactivate Google Remarketing Tags
+
+To control the ads delivered to you access the [Google Ads Preferences Manager](https://www.google.com/ads/preferences). 
 
 ### Your right of access to personal data and further information
 
 At any time, you have the right to know, which personal data of you are stored, as well as how we obtained them, why we stored them and to whom these data were (lawfully) disclosed. Your confidence in our reliability is a major concern for us. If you have a question that could not be answered by this policy text, or if you want to learn more about a certain subject, please don’t hesitate to ask. Please [contact us](https://web.archive.org/customers/contact.php?language=EN).
 
-### Currency of this privacy policy
+### Currency of this Privacy Policy
 
-This privacy policy is up to date and was last changed on March 11, 2014. It is subject to alterations. Changes will be published at this place and will be effective from the day of publication.
+This privacy policy is up to date and was last changed on July 20, 2015. It is subject to alterations. Changes will be published at this place and will be effective from the day of publication.
 
 ### Data storage: Opt out
