@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the englishteststore.net privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607074722id_/http%3A//englishteststore.net/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D374%26Itemid%3D358) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the englishteststore.net privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207140843id_/http%3A//englishteststore.net/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D374%26Itemid%3D358) for the most accurate reproduction.*
 
 # Privacy policy
 
@@ -54,6 +54,3 @@ We also give users the following options:
 You can review, correct, or change the information collected during registration for any of our sites. The instructions for doing this can be found in our member-services areas. Users may change information at any time and as often as necessary.   
 7\. How will I know if the privacy policy is changed?  
 Any modifications to our privacy practices will be reflected first within this area of our network of Web sites. If there is a material change in our privacy practices, we will indicate on our sites that our privacy practices have changed and provide a link to the new privacy statement.
-
-|  [< Prev](https://web.archive.org/index.php?option=com_content&view=article&id=375:copyright-notice&catid=7:examples&Itemid=359) |    |  [Next >](https://web.archive.org/index.php?option=com_content&view=article&id=373:terms-of-use&catid=7:examples&Itemid=357)  
----|---|---
