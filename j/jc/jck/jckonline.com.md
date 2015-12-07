@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the jckonline.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608115624id_/http%3A//www.jckonline.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jckonline.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207134521id_/http%3A//www.jckonline.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - JCK
+# Privacy Policy | JCK
 
 _The effective date of this policy as posted is May  2010._
 
@@ -42,7 +42,7 @@ This site uses the following Google Analytics features based on Display Advertis
 
 ### Opting Out
 
-RX-US will accept, implement and maintain any customer request to opt out of future communication from JCKonline.com, RX-US, or any third party to whom JCKonline.com provided the customer’s information. If you would like to opt out of communications you receive from JCKonline.com, RX-US, Reed Exhibitions or Reed Elsevier, send an email to [privacymanager@jckonline.com](mailto:privacymanager@jckonline.com) with the subject line “opt out – JCKonline”.
+RX-US will accept, implement and maintain any customer request to opt out of future communication from JCKonline.com, RX-US, or any third party to whom JCKonline.com provided the customer’s information. If you would like to opt out of communications you receive from JCKonline.com, RX-US, Reed Exhibitions or Reed Elsevier, send an email to [privacymanager@jckonline.com](mailto:privacymanager@jckonline.com) with the subject line “opt out – JCKonline”.
 
 To discontinue receipt of communications sent by third parties, send an email to [privacymanager@jckonline.com ](mailto:privacymanager@jckonline.com%20) with the subject line “opt out – third party”
 
@@ -54,13 +54,13 @@ This site utilizes a secure server to protect your financial and professional in
 
 JCKonline.com uses Secure Sockets Layer (SSL) protocol to safeguard customer information during online transactions. SSL encryption is the generally accepted method of transaction security in online ordering.
 
-### Cookies and GIFs
+### Cookies and GIFs
 
 When you visit this site, we may collect the IP address of your computer.  We also use automatic data collection technology to record other information that identifies your computer and tracks your behavior on this site.  Methods of collecting this information may include “cookies” and “clear GIFs” (also knows as “pixel tags” or “beacons”).  A cookie is a bit of data sent by a web site through the browser to the computer of the user visiting the site, and enables the site to return the results the browser expects. The JCKonline.com web site uses temporary, session-specific cookies to ensure visits to its web sites are smooth and customized for the visitor. Such cookies allow us to provide a visitor’s browser with information tailored to the visitor’s preferences and needs. We use permanent or persistent cookies that remain on a visitor’s computer after the visitor leaves the JCKonline.com web site. However, our cookies neither reveal nor contain any identifying or personal data. Cookies also cannot read any information on a visitor’s computer or interact with other cookies on the visitor’s hard drive.
 
 If you do not want your browser to accept cookies, you can turn off the cookie acceptance option in the browser’s settings. However, disabling the cookie support function of the browser will prevent our web site from functioning properly and you may not be able to utilize fully all of the site’s features and information.
 
-A clear GIF is a small graphic image, typically used in connection with cookies, that is placed on a web site or in an email message.  A clear GIF can monitor certain user behavior such as your usage of the site, whether you opened an email message, or whether you clicked on a URL in the email message.  We do not collect Professional or Financial information this way, but if you provided Professional Information to this site, we may associate that information with the behavioral information collected automatically from the clear GIF.
+A clear GIF is a small graphic image, typically used in connection with cookies, that is placed on a web site or in an email message.  A clear GIF can monitor certain user behavior such as your usage of the site, whether you opened an email message, or whether you clicked on a URL in the email message.  We do not collect Professional or Financial information this way, but if you provided Professional Information to this site, we may associate that information with the behavioral information collected automatically from the clear GIF.
 
 ### Policy Changes
 
