@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the faucet.com privacy policy that was archived on 2015-06-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150607234259id_/http%3A//www.faucet.com/index.cfm%3Fpage%3Dhelp%3Asecurity) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the faucet.com privacy policy that was archived on 2015-12-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151207120106id_/http%3A//www.faucet.com/index.cfm%3Fpage%3Dhelp%3Asecurity) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#" lang="en-us" class="not-ready  section_help" id="page_security"><head><script src="https://js-agent.newrelic.com/nr-632.min.js"></script><script type="text/javascript" async="" src="https://www.googlecommerce.com/trustedstores/gtmp_compiled.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VQIOVVFSGwIDVlhXDgM="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),f=c.length,u=i(a,o,r),d=0;f>d;d++)c[d].apply(u,n);return u}function a(t,e){f[t]=s(t).concat(e)}function s(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:s,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:23,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(f){try{r("ierr",[f,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(5),window.onerror=e;try{throw new Error}catch(f){"stack"in f&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&t(4),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:10,2:9,3:7,4:11,5:3,6:24,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t){t("loader").features.ins=!0},{loader:"G9z0Bl"}],6:[function(t){function e(){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var n=t("ee"),r=t("handle"),o=t(1),i=t(2);t("loader").features.stn=!0,t(3),n.on("fn-start",function(t){var e=t[0];e instanceof Event&&(this.bstStart=Date.now())}),n.on("fn-end",function(t,e){var n=t[0];n instanceof Event&&r("bst",[n,e,this.bstStart,Date.now()])}),o.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),o.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),i.on("fn-start",function(){this.bstStart=Date.now()}),i.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),n.on("pushState-start",function(){this.time=Date.now(),this.startPath=location.pathname+location.hash}),n.on("pushState-end",function(){r("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.addEventListener("webkitresourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1),window.performance.addEventListener("resourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1)),document.addEventListener("scroll",e,!1),document.addEventListener("keypress",e,!1),document.addEventListener("click",e,!1)}},{1:10,2:9,3:8,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],7:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:24,2:25,ee:"QJf3ax",gos:"7eSDFh"}],8:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window.history,["pushState"],"-")},{1:25,2:24,ee:"QJf3ax"}],9:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:25,2:24,ee:"QJf3ax"}],10:[function(t,e){function n(t,e,n){t[0]=o(t[0],"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:25,2:24,ee:"QJf3ax"}],11:[function(t,e){function n(){f.inPlace(this,p,"fn-")}function r(t,e){f.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),f=c(a),u=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(i){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,f.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:7,2:25,ee:"QJf3ax"}],12:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var a=t.responseType,f="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,u=n(f);if(u&&(r.rxSize=u),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(e.cat=d.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,o("xhr",[e,r,this.startTime])}}}function n(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,f=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=e,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,e){var r=this.metrics,o=t[0],i=this;if(r&&o){var f=n(o);f&&(r.txSize=f)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{a.emit("internal-error",[n])}catch(r){}}};for(var u=0;c>u;u++)e.addEventListener(s[u],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:13,3:11,4:7,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],13:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],14:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:23,2:24,handle:"D5DuLP"}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info,e=f.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){s(d,function(e,n){e in t||(t[e]=n)});var n="https"===u.split(":")[0]||t.sslForHttp;p.proto=n?"https://":"http://",a("mark",["onload",i()]);var r=f.createElement("script");r.src=p.proto+t.agent,e.parentNode.insertBefore(r,e)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=(t(2),window),f=c.document,u=(""+location).split("?")[0],d={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-632.min.js"},p=e.exports={offset:i(),origin:u,features:{}};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),c.addEventListener("load",n,!1)):(f.attachEvent("onreadystatechange",r),c.attachEvent("onload",n)),a("mark",["firstbyte",i()])},{1:23,2:14,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],23:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],24:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],25:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,f;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){u([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return f=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,f],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,f(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){u([o,e,n,r])}}function f(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){u([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function u(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:24,ee:"QJf3ax"}]},{},["G9z0Bl",4,12,6,5]);</script> 
+<!DOCTYPE html><html prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#" lang="en-us" class="not-ready  section_help" id="page_security"><head><script src="https://js-agent.newrelic.com/nr-768.min.js"></script><script type="text/javascript" async="" defer="" src="https://www.googlecommerce.com/trustedstores/api/js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VQIOVVFSGwIDVlhXDgM="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),f=c.length,u=i(a,o,r),d=0;f>d;d++)c[d].apply(u,n);return u}function a(t,e){f[t]=s(t).concat(e)}function s(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:s,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:24,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(f){try{r("ierr",[f,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(5),window.onerror=e;try{throw new Error}catch(f){"stack"in f&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&t(4),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:11,2:10,3:8,4:12,5:3,6:25,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t){if(window.addEventListener){var e=t("handle"),n=t("ee");t(1),window.addEventListener("click",function(){e("inc",["ck"])},!1),window.addEventListener("hashchange",function(){e("inc",["hc"])},!1),n.on("pushState-start",function(){e("inc",["ps"])})}},{1:9,ee:"QJf3ax",handle:"D5DuLP"}],6:[function(t){t("loader").features.ins=!0},{loader:"G9z0Bl"}],7:[function(t){function e(){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var n=t("ee"),r=t("handle"),o=t(1),i=t(2);t("loader").features.stn=!0,t(3);var a=Event;n.on("fn-start",function(t){var e=t[0];e instanceof a&&(this.bstStart=Date.now())}),n.on("fn-end",function(t,e){var n=t[0];n instanceof a&&r("bst",[n,e,this.bstStart,Date.now()])}),o.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),o.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),i.on("fn-start",function(){this.bstStart=Date.now()}),i.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),n.on("pushState-start",function(){this.time=Date.now(),this.startPath=location.pathname+location.hash}),n.on("pushState-end",function(){r("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.addEventListener("webkitresourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1),window.performance.addEventListener("resourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1)),document.addEventListener("scroll",e,!1),document.addEventListener("keypress",e,!1),document.addEventListener("click",e,!1)}},{1:11,2:10,3:9,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],8:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=t("ee").create(),i=t(1)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t,e){function n(){return s}if(t[1]){var r=t[1];if("function"==typeof r){var s=a(r,"nr@wrapped",function(){return i(r,"fn-",n,r.name||"anonymous")});this.wrapped=t[1]=s,o.emit("initEventContext",[t,e],this.wrapped)}else"function"==typeof r.handleEvent&&i.inPlace(r,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:26,ee:"QJf3ax",gos:"7eSDFh"}],9:[function(t,e){var n=t("ee").create(),r=t(1)(n);e.exports=n,r.inPlace(window.history,["pushState","replaceState"],"-")},{1:26,ee:"QJf3ax"}],10:[function(t,e){var n=t("ee").create(),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:26,ee:"QJf3ax"}],11:[function(t,e){function n(t,e,n){t[0]=i(t[0],"fn-",null,n)}function r(t,e,n){function r(){return a}this.ctx={};var a={"nr@context":this.ctx};o.emit("initTimerContext",[t,n],a),t[0]=i(t[0],"fn-",r,n)}var o=t("ee").create(),i=t(1)(o);e.exports=o,i.inPlace(window,["setTimeout","setImmediate"],"setTimer-"),i.inPlace(window,["setInterval"],"setInterval-"),i.inPlace(window,["clearTimeout","clearImmediate"],"clearTimeout-"),o.on("setInterval-start",n),o.on("setTimer-start",r)},{1:26,ee:"QJf3ax"}],12:[function(t,e){function n(){f.inPlace(this,p,"fn-",o)}function r(t,e){f.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),f=c(a),u=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),e.hasOwnProperty("addEventListener")&&u.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(i){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,f.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:8,2:26,ee:"QJf3ax"}],13:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var a=t.responseType,f="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,u=n(f);if(u&&(r.rxSize=u),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(e.cat=d.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,o("xhr",[e,r,this.startTime])}}}function n(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,f=t(1),u=window.XMLHttpRequest;t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=e,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,e){var r=this.metrics,o=t[0],i=this;if(r&&o){var f=n(o);f&&(r.txSize=f)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{a.emit("internal-error",[n])}catch(r){}}};for(var u=0;c>u;u++)e.addEventListener(s[u],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof u&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof u&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof u&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:14,3:12,4:8,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],14:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],15:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:24,2:25,handle:"D5DuLP"}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):void(r.q&&(r.q[t]||(r.q[t]=[]),r.q[t].push(e)))}var r=t("ee").create();e.exports=n,n.ee=r,r.q={}},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info,e=f.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){s(d,function(e,n){e in t||(t[e]=n)});var n="https"===u.split(":")[0]||t.sslForHttp;p.proto=n?"https://":"http://",a("mark",["onload",i()]);var r=f.createElement("script");r.src=p.proto+t.agent,e.parentNode.insertBefore(r,e)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=window,f=c.document;t(2);var u=(""+location).split("?")[0],d={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-768.min.js"},p=e.exports={offset:i(),origin:u,features:{}};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),c.addEventListener("load",n,!1)):(f.attachEvent("onreadystatechange",r),c.attachEvent("onload",n)),a("mark",["firstbyte",i()])},{1:24,2:15,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],24:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],25:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],26:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@original",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,f;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){u([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return f=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,f],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=t,f(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){u([o,e,n,r])}}function f(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){u([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function u(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:25,ee:"QJf3ax"}]},{},["G9z0Bl",4,13,7,6,5]);</script> 
 
 	
 	
@@ -15,6 +15,12 @@
 		
 			<meta name="verify-v1" content="PiHoY8uGB3BlXYB4Y3Jc4xj0T6DNfa6yHZ4EVtjUSGI=">
 		
+
+		
+		<meta name="SKYPE_TOOLBAR" content="SKYPE_TOOLBAR_PARSER_COMPATIBLE">
+
+		
+		
 					<meta name="robots" content="index, follow">
 				
 
@@ -26,14 +32,14 @@
 		var BCOM = BCOM || {Models: {}, Collection: {}, Views: {}, Utils: {}, Data: {}};
 		</script>
 
-		<link href="/themes/dps/assetnodes/faucet.com/css/storestyle-cb1600.css" rel="stylesheet"> 
+		<link href="/themes/dps/assetnodes/faucet.com/css/storestyle-cb1257.css" rel="stylesheet"> 
 				<!-- Omniture -->
 				<script>
 					/* Specify the Report Suite ID(s) to track here */
-					var s_account="imprvdirectbuildfaucetcom";
+					var s_account="imprvdirectbuildfaucetcom,imprvdirectglobaldev";
 				</script>
 				
-					<script src="/assets/scripts/vendor/s_code-cb1600.js"></script>
+					<script src="/assets/scripts/vendor/s_code-cb1257.js"></script>
 				
 				<!-- End Omniture -->
 			
@@ -45,13 +51,66 @@
 		
 		<noscript><div id="noscriptSpacer">&#160;</div></noscript>
 
-	<link href="/themes/dps/assetnodes/faucet.com/css/storestyle-cb1600.css" rel="stylesheet"><script src="/assets/scripts/dist/jquery-underscore.min-cb1600.js"></script><script src="/assets/scripts/vendor/jquery/jquery-migrate-1.2.1.min-cb1600.js"></script>
+	<link href="/themes/dps/assetnodes/faucet.com/css/storestyle-cb1257.css" rel="stylesheet"><script src="/assets/scripts/dist/jquery-underscore-support.min-cb1257.js"></script><script src="/assets/scripts/vendor/jquery/jquery-migrate-1.2.1.min-cb1257.js"></script>
 					<script>
 						
-							var dataLayer = {"bvHost":"display.ugc.bazaarvoice.com","isLoggedIn":"false","richRelevanceApiKey":"f04558381217062d","emailSignup":"false","environment":"production","storeId":186,"isPro":false,"theme":"dps","cacheBust":"-cb421509026968","firstName":"","page":"help:security","loyalty":{"accountId":"E4F8SFG3hvGVSJz"},"email":"","siteId":84,"features":["SEOPagingRelNextPrev","useNewCheckout","allowSearchRedirect","gbbv2","projectName","SEOPartsPages","showCartMsrpSavings","newPaypal","payPalPayment","amazonPayment","masterPassPayment","blueTarpPayment","rewards","blueTarpECRM","ecrmUpdateCreditCards","kholerSaleTextOverride","dealOfTheDayEmail","outOfStockEmail","priceComparison","enableWhosOnChat","productFavoriteCount","ab_sfdcNameYourPrice"],"richRelevanceClientID":"a3a80318ebeaba6a","storeName":"Faucet.com","breadcrumbs":"","cartQuantity":"0","dateTime":1433720578750,"lastName":"","customer":{"isEnrolledInRewards":false,"isPro":false,"userDBID":"0"},"isLocalUser":"false"} 
+							var dataLayer = {"bvHost":"display.ugc.bazaarvoice.com","isLoggedIn":"false","richRelevanceApiKey":"f04558381217062d","emailSignup":"false","environment":"production","storeId":186,"isPro":"false","theme":"dps","cacheBust":"-cb423423039583","firstName":"","page":"help:security","loyalty":{"accountId":"E4F8SFG3hvGVSJz"},"email":"","siteId":84,"features":["SEOPagingRelNextPrev","useNewCheckout","allowSearchRedirect","projectName","SEOPartsPages","showCartMsrpSavings","newPaypal","payPalPayment","amazonPayment","masterPassPayment","blueTarpPayment","rewards","ecrmUpdateCreditCards","kholerSaleTextOverride","favoritesDescription","dealOfTheDayEmail","outOfStockEmail","priceComparison","enableWhosOnChat","productFavoriteCount","FrequentlyBoughtTogether","enableGoogleUniversalAnalytics","richRelevanceDesktop","newFavoritesView","submitFavoritePhoto","customizedPricing","showContentToolContent","loadSaveCart","manufacturerCallToActionTop","useOmnitureGlobalReportSuite","yahooDotTag","yahooGeminiConversionTag","buildOnlyHomepage","homeAdvisorProductPage","abRichRelevanceService","improvedPmgTool"],"richRelevanceClientID":"a3a80318ebeaba6a","storeName":"Faucet.com","breadcrumbs":"","cartQuantity":"0","dateTime":1449489666104,"lastName":"","customer":{"isEnrolledInRewards":false,"isPro":"false","userDBID":"0"},"isLocalUser":"false"} 
 					</script>
 				
-			<script src="/themes/dps/scripts/vendor/satellite-cb421509026968/ca27c28f57fb1177559c0968278f073d983d887a/satelliteLib-f0a2fa4a46e8bf41a5591bbb919970530a3fcd67.js"></script>
+			<script src="/themes/dps/scripts/vendor/satellite-cb423423039583/ca27c28f57fb1177559c0968278f073d983d887a/satelliteLib-f0a2fa4a46e8bf41a5591bbb919970530a3fcd67.js"></script>
+		
+			<script name="google-analytics-primer" type="text/javascript">
+				var dlUserDBID = (!window.dataLayer.customer || !window.dataLayer.customer.userDBID || window.dataLayer.customer.userDBID === '0')
+						? false : window.dataLayer.customer.userDBID,
+					dlPage = window.dataLayer.page || '',
+					dlOrderNumber = window.dataLayer.orderNumber || 0,
+					dlCartItems = window.dataLayer.cartItems || [],
+					dlCartTotal = window.dataLayer.cartTotal || 0,
+					dlOrderSummary = window.dataLayer.orderSummary || {},
+					dlTotalTax = dlOrderSummary.totalTax || 0,
+					dlShippingCost = dlOrderSummary.shippingCost || 0;
+
+				//include analytics.js
+				(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+					(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+					m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+				})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+				//init ga data
+				if (dlUserDBID) {
+					ga('create', 'UA-6688271-2', 'auto', { 'userId':dlUserDBID });
+				} else {
+					ga('create', 'UA-6688271-2', 'auto');
+				}
+				//remarketing require
+				ga('require', 'displayfeatures');
+				//send pageview
+				ga('send', 'pageview');
+				//page level data
+				if (dlPage === 'checkout:ordercomplete') {
+					//init ecommerce
+					ga('require', 'ecommerce');
+					ga('ecommerce:addTransaction', {
+					  'id': dlOrderNumber,
+					  'affiliation': 'faucet.com',
+					  'revenue': dlCartTotal,
+					  'shipping': dlShippingCost,
+					  'tax': dlTotalTax
+					});
+					//add trasaction items
+					for (var i = 0; i < dlCartItems.length; i++) {
+						ga('ecommerce:addItem', {
+							'id': dlOrderNumber,
+							'name': dlCartItems[i].manufacturer +' '+ dlCartItems[i].productId,
+							'sku': dlCartItems[i].sku,
+							'category': dlCartItems[i].manufacturer,
+							'price': dlCartItems[i].price,
+							'quantity': dlCartItems[i].quantity
+						});
+					}
+					ga('ecommerce:send');	//send ecommerce data
+				}
+			</script>
 		</head>
 
 	
@@ -69,9 +128,12 @@
 		<div class="wrap-inner">
 			<nav id="top-links">
 				<ul class="hnav">
+					<li><a title="Are you a Pro?" href="https://www.faucet.com/index.cfm?page=ecrm:prorewards">Are you a Pro?</a></li>
 					<li><a title="Home" href="/">Home</a></li>
 					<li><a title="My Account" href="https://www.faucet.com/index.cfm?page=ecrm:dashboard">My Account</a>
-						</li>
+						
+					</li>
+					
 					<li><a title="Contact Us" href="http://www.faucet.com/index.cfm?page=help:contactUs">Contact Us</a></li>
 					<li><a title="Order Status" href="https://www.faucet.com/index.cfm?page=ecrm:dashboard">Order Status</a></li>
 					<li><a title="Help" href="http://www.faucet.com/index.cfm?page=help:home">Help</a></li>
@@ -82,9 +144,9 @@
 					<a class="chat-tracking track-in-omniture" data-page-location="header" rel="nofollow popup" href="https://buildchat.whoson.com/newchat/chat.aspx?domain=www.faucet.com" target="_blank">
 						
 				<div class="chat-wrapper large-chat">
-					<div class="chat-icon ion-chatboxes"></div>
+					<i class="chat-icon ion-chatbox"></i>
 					<div class="chat-text">
-						<div class="chat-callout">Expert Live Chat</div>
+						<div class="chat-callout">Live Chat</div>
 						
 							<div class="chat-subText">Chat Now</div>
 						
@@ -121,273 +183,21 @@
 <a href="/bathroom-sink-faucets-and-bathroom-fixtures/c80003" data-category-id="80003" data-category-name="Bathroom" class="track-in-omniture main-nav nodrop">
 Bathroom
 </a>
-<div class="base">
-<h2>Shop Bathroom</h2>
-<div>
-<ul>
-<li>
-<a href="/bathroom-sink-faucets/c80009" data-category-id="80031" data-category-name="Bathroom Sink Faucets" class="track-in-omniture main-nav sub-nav">Bathroom Sink Faucets
-</a>
-</li>
-<li>
-<a href="/bathroom-sink/c80032" data-category-id="80021" data-category-name="Bathroom Sinks" class="track-in-omniture main-nav sub-nav">Bathroom Sinks
-</a>
-</li>
-<li>
-<a href="/bathroom-accessories/c80036" data-category-id="80036" data-category-name="Bathroom Accessories" class="track-in-omniture main-nav sub-nav">Bathroom Accessories
-</a>
-</li>
-<li>
-<a href="/bathroom-lighting/c80056" data-category-id="80035" data-category-name="Bathroom Lighting" class="track-in-omniture main-nav sub-nav">Bathroom Lighting
-</a>
-</li>
-<li>
-<a href="/shower-faucets/c80011" data-category-id="85859" data-category-name="Shower Faucets" class="track-in-omniture main-nav sub-nav">Shower Faucets
-</a>
-</li>
-<li>
-<a href="/shower-system/c80037" data-category-id="85113" data-category-name="Shower Systems" class="track-in-omniture main-nav sub-nav">Shower Systems
-</a>
-</li>
-<li>
-<a href="/tub-and-shower-faucets/c80820" data-category-id="80846" data-category-name="Tub and Shower Faucets" class="track-in-omniture main-nav sub-nav">Tub and Shower Faucets
-</a>
-</li>
-<li>
-<a href="/bathtub-faucets/c80012" data-category-id="85860" data-category-name="Bath Tub Faucets" class="track-in-omniture main-nav sub-nav">Bath Tub Faucets
-</a>
-</li>
-<li>
-<a href="/bathtubs/c80034" data-category-id="80034" data-category-name="Bathtubs" class="track-in-omniture main-nav sub-nav">Bathtubs
-</a>
-</li>
-<li>
-<a href="/showers/c84887" data-category-id="85108" data-category-name="Showers" class="track-in-omniture main-nav sub-nav">Showers
-</a>
-</li>
-<li>
-<a href="/toilets/c80033" data-category-id="85174" data-category-name="Toilets" class="track-in-omniture main-nav sub-nav">Toilets
-</a>
-</li>
-<li>
-<a href="/toilet-seats/c83274" data-category-id="82583" data-category-name="Toilet Seats" class="track-in-omniture main-nav sub-nav">Toilet Seats
-</a>
-</li>
-<li>
-<a href="/bathroom-vanities-and-vanity-sets/c80038" data-category-id="80038" data-category-name="Bathroom Vanities" class="track-in-omniture main-nav sub-nav">Bathroom Vanities
-</a>
-</li>
-<li>
-<a href="/medicine-cabinets/c80044" data-category-id="80044" data-category-name="Medicine Cabinets" class="track-in-omniture main-nav sub-nav">Medicine Cabinets
-</a>
-</li>
-<li>
-<a href="/bathroom-fans/c80047" data-category-id="80047" data-category-name="Exhaust Fans" class="track-in-omniture main-nav sub-nav">Exhaust Fans
-</a>
-</li>
-<li>
-<a href="/bidet-fixtures/c80525" data-category-id="80525" data-category-name="Bidet Fixtures" class="track-in-omniture main-nav sub-nav">Bidet Fixtures
-</a>
-</li>
-<li>
-<a href="/bidet-faucet/c80016" data-category-id="85175" data-category-name="Bidet Faucets" class="track-in-omniture main-nav sub-nav">Bidet Faucets
-</a>
-</li>
-<li>
-<a href="/urinals/c84143" data-category-id="84143" data-category-name="Urinals" class="track-in-omniture main-nav sub-nav">Urinals
-</a>
-</li>
-<li>
-<a href="/water-heater-tankless/c86143" data-category-id="86143" data-category-name="Tankless and Water Heaters" class="track-in-omniture main-nav sub-nav">Tankless and Water Heaters
-</a>
-</li>
-<li>
-<a href="/mirrors/c83286" data-category-id="80045" data-category-name="Mirrors" class="track-in-omniture main-nav sub-nav">Mirrors
-</a>
-</li>
-</ul>
-</div>
-</div>
 </li>
 <li class="top">
 <a href="/kitchen/c80002" data-category-id="80002" data-category-name="Kitchen" class="track-in-omniture main-nav nodrop">
 Kitchen
 </a>
-<div class="base">
-<h2>Shop Kitchen</h2>
-<div>
-<ul>
-<li>
-<a href="/kitchen-faucets/c80010" data-category-id="80023" data-category-name="Kitchen Sink Faucets" class="track-in-omniture main-nav sub-nav">Kitchen Sink Faucets
-</a>
-</li>
-<li>
-<a href="/kitchen-sinks/c80019" data-category-id="80024" data-category-name="Kitchen Sinks" class="track-in-omniture main-nav sub-nav">Kitchen Sinks
-</a>
-</li>
-<li>
-<a href="/bar-and-prep-faucets/c80221" data-category-id="80025" data-category-name="Bar Faucets" class="track-in-omniture main-nav sub-nav">Bar Faucets
-</a>
-</li>
-<li>
-<a href="/kitchen-bar-sinks/c80020" data-category-id="80026" data-category-name="Bar Sinks" class="track-in-omniture main-nav sub-nav">Bar Sinks
-</a>
-</li>
-<li>
-<a href="/pot-fillers/c85826" data-category-id="80825" data-category-name="Pot Fillers" class="track-in-omniture main-nav sub-nav">Pot Fillers
-</a>
-</li>
-<li>
-<a href="/kitchen-accessories/c80822" data-category-id="80822" data-category-name="Kitchen Accessories" class="track-in-omniture main-nav sub-nav">Kitchen Accessories
-</a>
-</li>
-<li>
-<a href="/garbage-disposals/c80027" data-category-id="80027" data-category-name="Garbage Disposals" class="track-in-omniture main-nav sub-nav">Garbage Disposals
-</a>
-</li>
-<li>
-<a href="/water-dispensers/c84140" data-category-id="80028" data-category-name="Water Dispensers" class="track-in-omniture main-nav sub-nav">Water Dispensers
-</a>
-</li>
-<li>
-<a href="/kitchen-lighting/c80030" data-category-id="86199" data-category-name="Kitchen Lighting" class="track-in-omniture main-nav sub-nav">Kitchen Lighting
-</a>
-</li>
-<li>
-<a href="/cabinet-hardware/c80029" data-category-id="80029" data-category-name="Cabinet Hardware" class="track-in-omniture main-nav sub-nav">Cabinet Hardware
-</a>
-</li>
-</ul>
-</div>
-</div>
 </li>
 <li class="top">
 <a href="/faucets/c80001" data-category-id="80001" data-category-name="Faucets" class="track-in-omniture main-nav nodrop">
 Faucets
 </a>
-<div class="base">
-<h2>Shop Faucets</h2>
-<div>
-<ul>
-<li>
-<a href="/bathroom-sink-faucets/c80009" data-category-id="80009" data-category-name="Bathroom Sink Faucets" class="track-in-omniture main-nav sub-nav">Bathroom Sink Faucets
-</a>
-</li>
-<li>
-<a href="/bathroom-sink-and-faucet-sets/c83134" data-category-id="83134" data-category-name="Bathroom Sink and Faucet Sets" class="track-in-omniture main-nav sub-nav">Bathroom Sink and Faucet Sets
-</a>
-</li>
-<li>
-<a href="/kitchen-faucets/c80010" data-category-id="80010" data-category-name="Kitchen Faucets" class="track-in-omniture main-nav sub-nav">Kitchen Faucets
-</a>
-</li>
-<li>
-<a href="/kitchen-sink-and-faucet-sets/c86113" data-category-id="86113" data-category-name="Kitchen Sink and Faucet Sets" class="track-in-omniture main-nav sub-nav">Kitchen Sink and Faucet Sets
-</a>
-</li>
-<li>
-<a href="/shower-faucets/c80011" data-category-id="80011" data-category-name="Shower Faucets" class="track-in-omniture main-nav sub-nav">Shower Faucets
-</a>
-</li>
-<li>
-<a href="/tub-and-shower-faucets/c80820" data-category-id="80820" data-category-name="Tub and Shower Faucets" class="track-in-omniture main-nav sub-nav">Tub and Shower Faucets
-</a>
-</li>
-<li>
-<a href="/bathtub-faucets/c80012" data-category-id="80012" data-category-name="Bath Tub Faucets" class="track-in-omniture main-nav sub-nav">Bath Tub Faucets
-</a>
-</li>
-<li>
-<a href="/clawfoot-tub-faucets/c80013" data-category-id="80013" data-category-name="Clawfoot Bathtub Faucets" class="track-in-omniture main-nav sub-nav">Clawfoot Bathtub Faucets
-</a>
-</li>
-<li>
-<a href="/bar-and-prep-faucets/c80221" data-category-id="80221" data-category-name="Bar Faucets" class="track-in-omniture main-nav sub-nav">Bar Faucets
-</a>
-</li>
-<li>
-<a href="/pot-fillers/c85826" data-category-id="85826" data-category-name="Pot Filler Faucets" class="track-in-omniture main-nav sub-nav">Pot Filler Faucets
-</a>
-</li>
-<li>
-<a href="/laundry-room-faucets-and-laundry-sink-faucets/c80827" data-category-id="80827" data-category-name="Laundry Sink Faucets" class="track-in-omniture main-nav sub-nav">Laundry Sink Faucets
-</a>
-</li>
-<li>
-<a href="/accessory-shower-heads/c83268" data-category-id="85112" data-category-name="Shower Heads" class="track-in-omniture main-nav sub-nav">Shower Heads
-</a>
-</li>
-<li>
-<a href="/shower-systems/c80037" data-category-id="80037" data-category-name="Shower Systems" class="track-in-omniture main-nav sub-nav">Shower Systems
-</a>
-</li>
-<li>
-<a href="/water-dispensers/c84140" data-category-id="84140" data-category-name="Water Dispensers" class="track-in-omniture main-nav sub-nav">Water Dispensers
-</a>
-</li>
-<li>
-<a href="/shower-diverters/c85110" data-category-id="83128" data-category-name="Diverters" class="track-in-omniture main-nav sub-nav">Diverters
-</a>
-</li>
-<li>
-<a href="/basin-taps/c84141" data-category-id="84141" data-category-name="Basin Taps" class="track-in-omniture main-nav sub-nav">Basin Taps
-</a>
-</li>
-<li>
-<a href="/bidet-faucets/c80016" data-category-id="80016" data-category-name="Bidet Faucets" class="track-in-omniture main-nav sub-nav">Bidet Faucets
-</a>
-</li>
-<li>
-<a href="/rough-in-valves/c80017" data-category-id="80017" data-category-name="Rough-In Valves" class="track-in-omniture main-nav sub-nav">Rough-In Valves
-</a>
-</li>
-</ul>
-</div>
-</div>
 </li>
 <li class="top">
 <a href="/kitchen-sinks-and-bathroom-sinks/c80000" data-category-id="80000" data-category-name="Sinks" class="track-in-omniture main-nav nodrop">
 Sinks
 </a>
-<div class="base">
-<h2>Shop Sinks</h2>
-<div>
-<ul>
-<li>
-<a href="/bathroom-sink/c80032" data-category-id="80032" data-category-name="Bathroom Sinks" class="track-in-omniture main-nav sub-nav">Bathroom Sinks
-</a>
-</li>
-<li>
-<a href="/bathroom-sink-and-faucet-sets/c83134" data-category-id="85042" data-category-name="Bathroom Sink and Faucet Combos" class="track-in-omniture main-nav sub-nav">Bathroom Sink and Faucet Combos
-</a>
-</li>
-<li>
-<a href="/vessel-sinks/c80276" data-category-id="80836" data-category-name="Vessel Bathroom Sinks" class="track-in-omniture main-nav sub-nav">Vessel Bathroom Sinks
-</a>
-</li>
-<li>
-<a href="/pedestal-sinks/c80274" data-category-id="84807" data-category-name="Pedestal Bathroom Sinks" class="track-in-omniture main-nav sub-nav">Pedestal Bathroom Sinks
-</a>
-</li>
-<li>
-<a href="/kitchen-sinks/c80019" data-category-id="80019" data-category-name="Kitchen Sinks" class="track-in-omniture main-nav sub-nav">Kitchen Sinks
-</a>
-</li>
-<li>
-<a href="/kitchen-sink-and-faucet-sets/c86113" data-category-id="85041" data-category-name="Kitchen Sink and Faucet Combos" class="track-in-omniture main-nav sub-nav">Kitchen Sink and Faucet Combos
-</a>
-</li>
-<li>
-<a href="/kitchen-bar-sinks/c80020" data-category-id="80020" data-category-name="Bar Sinks" class="track-in-omniture main-nav sub-nav">Bar Sinks
-</a>
-</li>
-<li>
-<a href="/laundry-sinks/c80022" data-category-id="80022" data-category-name="Laundry and Utility Sinks" class="track-in-omniture main-nav sub-nav">Laundry and Utility Sinks
-</a>
-</li>
-</ul>
-</div>
-</div>
 </li>
 <li class="top">
 <a href="/showers/c84887" data-category-id="85108" data-category-name="Showers" class="track-in-omniture main-nav nodrop">
@@ -398,43 +208,43 @@ Showers
 <div>
 <ul>
 <li>
-<a href="/tub-shower-faucet/c80820" data-category-id="85109" data-category-name="Tub and Shower Faucets" class="track-in-omniture main-nav sub-nav">Tub and Shower Faucets
+<a href="/tub-shower-faucet/c80820" data-category-id="85109" data-category-name="Tub and Shower Faucets" data-category-location="additional-list-cat" class="track-in-omniture sub-nav">Tub and Shower Faucets
 </a>
 </li>
 <li>
-<a href="/shower-faucets-only/c80862" data-category-id="85111" data-category-name="Shower Only Faucets" class="track-in-omniture main-nav sub-nav">Shower Only Faucets
+<a href="/shower-faucets-only/c80862" data-category-id="85111" data-category-name="Shower Only Faucets" data-category-location="additional-list-cat" class="track-in-omniture sub-nav">Shower Only Faucets
 </a>
 </li>
 <li>
-<a href="/hand-held-showers/c85146" data-category-id="83270" data-category-name="Hand Showers" class="track-in-omniture main-nav sub-nav">Hand Showers
+<a href="/hand-held-showers/c85146" data-category-id="83270" data-category-name="Hand Showers" data-category-location="additional-list-cat" class="track-in-omniture sub-nav">Hand Showers
 </a>
 </li>
 <li>
-<a href="/rainshower-faucets/c80856" data-category-id="85144" data-category-name="Rainshowers" class="track-in-omniture main-nav sub-nav">Rainshowers
+<a href="/rainshower-faucets/c80856" data-category-id="85144" data-category-name="Rainshowers" data-category-location="additional-list-cat" class="track-in-omniture sub-nav">Rainshowers
 </a>
 </li>
 <li>
-<a href="/shower-bases/c80039" data-category-id="85166" data-category-name="Shower Bases" class="track-in-omniture main-nav sub-nav">Shower Bases
+<a href="/shower-bases/c80039" data-category-id="85166" data-category-name="Shower Bases" data-category-location="additional-list-cat" class="track-in-omniture sub-nav">Shower Bases
 </a>
 </li>
 <li>
-<a href="/shower-doors/c80042" data-category-id="84890" data-category-name="Shower Doors" class="track-in-omniture main-nav sub-nav">Shower Doors
+<a href="/shower-doors/c80042" data-category-id="84890" data-category-name="Shower Doors" data-category-location="additional-list-cat" class="track-in-omniture sub-nav">Shower Doors
 </a>
 </li>
 <li>
-<a href="/shower-enclosures/c85171" data-category-id="84892" data-category-name="Shower Enclosures" class="track-in-omniture main-nav sub-nav">Shower Enclosures
+<a href="/shower-enclosures/c85171" data-category-id="84892" data-category-name="Shower Enclosures" data-category-location="additional-list-cat" class="track-in-omniture sub-nav">Shower Enclosures
 </a>
 </li>
 <li>
-<a href="/tub-spouts/c83278" data-category-id="85151" data-category-name="Tub Spouts" class="track-in-omniture main-nav sub-nav">Tub Spouts
+<a href="/tub-spouts/c83278" data-category-id="85151" data-category-name="Tub Spouts" data-category-location="additional-list-cat" class="track-in-omniture sub-nav">Tub Spouts
 </a>
 </li>
 <li>
-<a href="/body-sprays/c83289" data-category-id="85140" data-category-name="Bodysprays" class="track-in-omniture main-nav sub-nav">Bodysprays
+<a href="/body-sprays/c83289" data-category-id="85140" data-category-name="Bodysprays" data-category-location="additional-list-cat" class="track-in-omniture sub-nav">Bodysprays
 </a>
 </li>
 <li>
-<a href="/accessory-shower-grab-bars/c83275" data-category-id="85149" data-category-name="Grab Bars" class="track-in-omniture main-nav sub-nav">Grab Bars
+<a href="/accessory-shower-grab-bars/c83275" data-category-id="85149" data-category-name="Grab Bars" data-category-location="additional-list-cat" class="track-in-omniture sub-nav">Grab Bars
 </a>
 </li>
 </ul>
@@ -450,31 +260,31 @@ Bathtubs
 <div>
 <ul>
 <li>
-<a href="/soaking-tubs/c80295" data-category-id="80295" data-category-name="Soaking Tubs" class="track-in-omniture main-nav sub-nav">Soaking Tubs
+<a href="/soaking-tubs/c80295" data-category-id="80295" data-category-name="Soaking Tubs" data-category-location="additional-list-cat" class="track-in-omniture sub-nav">Soaking Tubs
 </a>
 </li>
 <li>
-<a href="/clawfoot-tubs/c80292" data-category-id="80292" data-category-name="Clawfoot Tubs" class="track-in-omniture main-nav sub-nav">Clawfoot Tubs
+<a href="/clawfoot-tubs/c80292" data-category-id="80292" data-category-name="Clawfoot Tubs" data-category-location="additional-list-cat" class="track-in-omniture sub-nav">Clawfoot Tubs
 </a>
 </li>
 <li>
-<a href="/whirlpool-tubs/c80293" data-category-id="80293" data-category-name="Whirlpool Tubs" class="track-in-omniture main-nav sub-nav">Whirlpool Tubs
+<a href="/whirlpool-tubs/c80293" data-category-id="80293" data-category-name="Whirlpool Tubs" data-category-location="additional-list-cat" class="track-in-omniture sub-nav">Whirlpool Tubs
 </a>
 </li>
 <li>
-<a href="/air-tubs/c80294" data-category-id="80294" data-category-name="Air Tubs" class="track-in-omniture main-nav sub-nav">Air Tubs
+<a href="/air-tubs/c80294" data-category-id="80294" data-category-name="Air Tubs" data-category-location="additional-list-cat" class="track-in-omniture sub-nav">Air Tubs
 </a>
 </li>
 <li>
-<a href="/drop-in-tubs/c80301" data-category-id="80301" data-category-name="Drop In Tubs" class="track-in-omniture main-nav sub-nav">Drop In Tubs
+<a href="/drop-in-tubs/c80301" data-category-id="80301" data-category-name="Drop In Tubs" data-category-location="additional-list-cat" class="track-in-omniture sub-nav">Drop In Tubs
 </a>
 </li>
 <li>
-<a href="/undermount-tubs/c80303" data-category-id="80303" data-category-name="Undermount Tubs" class="track-in-omniture main-nav sub-nav">Undermount Tubs
+<a href="/undermount-tubs/c80303" data-category-id="80303" data-category-name="Undermount Tubs" data-category-location="additional-list-cat" class="track-in-omniture sub-nav">Undermount Tubs
 </a>
 </li>
 <li>
-<a href="/free-standing-tubs/c80305" data-category-id="80305" data-category-name="Free Standing Tubs" class="track-in-omniture main-nav sub-nav">Free Standing Tubs
+<a href="/free-standing-tubs/c80305" data-category-id="80305" data-category-name="Free Standing Tubs" data-category-location="additional-list-cat" class="track-in-omniture sub-nav">Free Standing Tubs
 </a>
 </li>
 </ul>
@@ -490,43 +300,43 @@ Toilets
 <div>
 <ul>
 <li>
-<a href="/round-toilets/c80289" data-category-id="80289" data-category-name="Round Toilets" class="track-in-omniture main-nav sub-nav">Round Toilets
+<a href="/round-toilets/c80289" data-category-id="80289" data-category-name="Round Toilets" data-category-location="additional-list-cat" class="track-in-omniture sub-nav">Round Toilets
 </a>
 </li>
 <li>
-<a href="/elongateds-toilets/c80288" data-category-id="80288" data-category-name="Elongated Toilets" class="track-in-omniture main-nav sub-nav">Elongated Toilets
+<a href="/elongateds-toilets/c80288" data-category-id="80288" data-category-name="Elongated Toilets" data-category-location="additional-list-cat" class="track-in-omniture sub-nav">Elongated Toilets
 </a>
 </li>
 <li>
-<a href="/one-piece-toilets/c85229" data-category-id="85229" data-category-name="One Piece Toilets" class="track-in-omniture main-nav sub-nav">One Piece Toilets
+<a href="/one-piece-toilets/c85229" data-category-id="85229" data-category-name="One Piece Toilets" data-category-location="additional-list-cat" class="track-in-omniture sub-nav">One Piece Toilets
 </a>
 </li>
 <li>
-<a href="/two-piece-toilets/c85233" data-category-id="85233" data-category-name="Two Piece Toilets" class="track-in-omniture main-nav sub-nav">Two Piece Toilets
+<a href="/two-piece-toilets/c85233" data-category-id="85233" data-category-name="Two Piece Toilets" data-category-location="additional-list-cat" class="track-in-omniture sub-nav">Two Piece Toilets
 </a>
 </li>
 <li>
-<a href="/accessory-toilet-seats/c83274" data-category-id="80280" data-category-name="Toilet Seats" class="track-in-omniture main-nav sub-nav">Toilet Seats
+<a href="/accessory-toilet-seats/c83274" data-category-id="80280" data-category-name="Toilet Seats" data-category-location="additional-list-cat" class="track-in-omniture sub-nav">Toilet Seats
 </a>
 </li>
 <li>
-<a href="/floor-mounted-toilets/c85239" data-category-id="85239" data-category-name="Floor Mounted Toilets" class="track-in-omniture main-nav sub-nav">Floor Mounted Toilets
+<a href="/floor-mounted-toilets/c85239" data-category-id="85239" data-category-name="Floor Mounted Toilets" data-category-location="additional-list-cat" class="track-in-omniture sub-nav">Floor Mounted Toilets
 </a>
 </li>
 <li>
-<a href="/wall-mounted-toilets/c85240" data-category-id="85240" data-category-name="Wall Mounted Toilets" class="track-in-omniture main-nav sub-nav">Wall Mounted Toilets
+<a href="/wall-mounted-toilets/c85240" data-category-id="85240" data-category-name="Wall Mounted Toilets" data-category-location="additional-list-cat" class="track-in-omniture sub-nav">Wall Mounted Toilets
 </a>
 </li>
 <li>
-<a href="/water-saving-toilets/c85238" data-category-id="85238" data-category-name="Water Saving Toilets" class="track-in-omniture main-nav sub-nav">Water Saving Toilets
+<a href="/water-saving-toilets/c85238" data-category-id="85238" data-category-name="Water Saving Toilets" data-category-location="additional-list-cat" class="track-in-omniture sub-nav">Water Saving Toilets
 </a>
 </li>
 <li>
-<a href="/dual-flushing-toilets/c80290" data-category-id="80290" data-category-name="Dual Flush" class="track-in-omniture main-nav sub-nav">Dual Flush
+<a href="/dual-flushing-toilets/c80290" data-category-id="80290" data-category-name="Dual Flush" data-category-location="additional-list-cat" class="track-in-omniture sub-nav">Dual Flush
 </a>
 </li>
 <li>
-<a href="/pressure-assisted-flushing-toilets/c80291" data-category-id="80291" data-category-name="Pressure Assisted" class="track-in-omniture main-nav sub-nav">Pressure Assisted
+<a href="/pressure-assisted-flushing-toilets/c80291" data-category-id="80291" data-category-name="Pressure Assisted" data-category-location="additional-list-cat" class="track-in-omniture sub-nav">Pressure Assisted
 </a>
 </li>
 </ul>
@@ -542,79 +352,67 @@ Accessories
 <div>
 <ul>
 <li>
-<a href="/shower-heads/c83268" data-category-id="83268" data-category-name="Shower Heads" class="track-in-omniture main-nav sub-nav">Shower Heads
+<a href="/hand-showers/c85146" data-category-id="85146" data-category-name="Hand Showers" data-category-location="additional-list-cat" class="track-in-omniture sub-nav">Hand Showers
 </a>
 </li>
 <li>
-<a href="/hand-showers/c85146" data-category-id="85146" data-category-name="Hand Showers" class="track-in-omniture main-nav sub-nav">Hand Showers
+<a href="/towel-bars/c83267" data-category-id="83267" data-category-name="Towel Bars" data-category-location="additional-list-cat" class="track-in-omniture sub-nav">Towel Bars
 </a>
 </li>
 <li>
-<a href="/towel-bars/c83267" data-category-id="83267" data-category-name="Towel Bars" class="track-in-omniture main-nav sub-nav">Towel Bars
+<a href="/robe-hooks/c83276" data-category-id="83276" data-category-name="Robe Hooks" data-category-location="additional-list-cat" class="track-in-omniture sub-nav">Robe Hooks
 </a>
 </li>
 <li>
-<a href="/robe-hooks/c83276" data-category-id="83276" data-category-name="Robe Hooks" class="track-in-omniture main-nav sub-nav">Robe Hooks
+<a href="/toilet-paper-holders/c83269" data-category-id="83269" data-category-name="Toilet Paper Holders" data-category-location="additional-list-cat" class="track-in-omniture sub-nav">Toilet Paper Holders
 </a>
 </li>
 <li>
-<a href="/toilet-paper-holders/c83269" data-category-id="83269" data-category-name="Toilet Paper Holders" class="track-in-omniture main-nav sub-nav">Toilet Paper Holders
+<a href="/accessory-towel-rings/c83277" data-category-id="83277" data-category-name="Towel Rings" data-category-location="additional-list-cat" class="track-in-omniture sub-nav">Towel Rings
 </a>
 </li>
 <li>
-<a href="/accessory-towel-rings/c83277" data-category-id="83277" data-category-name="Towel Rings" class="track-in-omniture main-nav sub-nav">Towel Rings
+<a href="/tank-levers/c83280" data-category-id="83280" data-category-name="Tank Levers" data-category-location="additional-list-cat" class="track-in-omniture sub-nav">Tank Levers
 </a>
 </li>
 <li>
-<a href="/toilet-seats/c83274" data-category-id="83274" data-category-name="Toilet Seats" class="track-in-omniture main-nav sub-nav">Toilet Seats
+<a href="/grab-bars/c83275" data-category-id="83275" data-category-name="Grab Bars" data-category-location="additional-list-cat" class="track-in-omniture sub-nav">Grab Bars
 </a>
 </li>
 <li>
-<a href="/tank-levers/c83280" data-category-id="83280" data-category-name="Tank Levers" class="track-in-omniture main-nav sub-nav">Tank Levers
+<a href="/soap-dispensers/c83285" data-category-id="83285" data-category-name="Soap Dispensers" data-category-location="additional-list-cat" class="track-in-omniture sub-nav">Soap Dispensers
 </a>
 </li>
 <li>
-<a href="/grab-bars/c83275" data-category-id="83275" data-category-name="Grab Bars" class="track-in-omniture main-nav sub-nav">Grab Bars
+<a href="/shower-arms/c83271" data-category-id="83271" data-category-name="Shower Arms" data-category-location="additional-list-cat" class="track-in-omniture sub-nav">Shower Arms
 </a>
 </li>
 <li>
-<a href="/soap-dispensers/c83285" data-category-id="83285" data-category-name="Soap Dispensers" class="track-in-omniture main-nav sub-nav">Soap Dispensers
+<a href="/tub-spouts/c83278" data-category-id="83278" data-category-name="Tub Spouts" data-category-location="additional-list-cat" class="track-in-omniture sub-nav">Tub Spouts
 </a>
 </li>
 <li>
-<a href="/shower-arms/c83271" data-category-id="83271" data-category-name="Shower Arms" class="track-in-omniture main-nav sub-nav">Shower Arms
+<a href="/hand-shower-holders/c84635" data-category-id="84635" data-category-name="Hand Shower Holders" data-category-location="additional-list-cat" class="track-in-omniture sub-nav">Hand Shower Holders
 </a>
 </li>
 <li>
-<a href="/tub-spouts/c83278" data-category-id="83278" data-category-name="Tub Spouts" class="track-in-omniture main-nav sub-nav">Tub Spouts
+<a href="/hand-shower-hoses/c84636" data-category-id="84636" data-category-name="Hand Shower Hoses" data-category-location="additional-list-cat" class="track-in-omniture sub-nav">Hand Shower Hoses
 </a>
 </li>
 <li>
-<a href="/hand-shower-holders/c84635" data-category-id="84635" data-category-name="Hand Shower Holders" class="track-in-omniture main-nav sub-nav">Hand Shower Holders
+<a href="/sink-drain-assemblies/c83283" data-category-id="83283" data-category-name="Sink Drain Assemblies" data-category-location="additional-list-cat" class="track-in-omniture sub-nav">Sink Drain Assemblies
 </a>
 </li>
 <li>
-<a href="/hand-shower-hoses/c84636" data-category-id="84636" data-category-name="Hand Shower Hoses" class="track-in-omniture main-nav sub-nav">Hand Shower Hoses
+<a href="/basin-racks/c83281" data-category-id="83281" data-category-name="Basin Racks" data-category-location="additional-list-cat" class="track-in-omniture sub-nav">Basin Racks
 </a>
 </li>
 <li>
-<a href="/sink-drain-assemblies/c83283" data-category-id="83283" data-category-name="Sink Drain Assemblies" class="track-in-omniture main-nav sub-nav">Sink Drain Assemblies
+<a href="/shower-and-tub-baskets/c83302" data-category-id="83302" data-category-name="Shower and Tub Baskets" data-category-location="additional-list-cat" class="track-in-omniture sub-nav">Shower and Tub Baskets
 </a>
 </li>
 <li>
-<a href="/basin-racks/c83281" data-category-id="83281" data-category-name="Basin Racks" class="track-in-omniture main-nav sub-nav">Basin Racks
-</a>
-</li>
-<li>
-<a href="/mirrors/c83286" data-category-id="83286" data-category-name="Mirrors" class="track-in-omniture main-nav sub-nav">Mirrors
-</a>
-</li>
-<li>
-<a href="/shower-and-tub-baskets/c83302" data-category-id="83302" data-category-name="Shower and Tub Baskets" class="track-in-omniture main-nav sub-nav">Shower and Tub Baskets
-</a>
-</li>
-<li>
-<a href="/shower-curtain-rods/c83272" data-category-id="83272" data-category-name="Shower Curtain Rods" class="track-in-omniture main-nav sub-nav">Shower Curtain Rods
+<a href="/shower-curtain-rods/c83272" data-category-id="83272" data-category-name="Shower Curtain Rods" data-category-location="additional-list-cat" class="track-in-omniture sub-nav">Shower Curtain Rods
 </a>
 </li>
 </ul>
@@ -625,61 +423,6 @@ Accessories
 <a href="/lighting/c80005" data-category-id="80005" data-category-name="Lighting" class="track-in-omniture main-nav nodrop">
 Lighting
 </a>
-<div class="base">
-<h2>Shop Lighting</h2>
-<div>
-<ul>
-<li>
-<a href="/bathroom-lighting/c80056" data-category-id="80056" data-category-name="Bathroom Lighting" class="track-in-omniture main-nav sub-nav">Bathroom Lighting
-</a>
-</li>
-<li>
-<a href="/kitchen-lighting/c80030" data-category-id="80030" data-category-name="Kitchen Lighting" class="track-in-omniture main-nav sub-nav">Kitchen Lighting
-</a>
-</li>
-<li>
-<a href="/ceiling-lighting/c80060" data-category-id="80060" data-category-name="Ceiling Lighting" class="track-in-omniture main-nav sub-nav">Ceiling Lighting
-</a>
-</li>
-<li>
-<a href="/wall-sconces/c86200" data-category-id="86200" data-category-name="Wall Sconces" class="track-in-omniture main-nav sub-nav">Wall Sconces
-</a>
-</li>
-<li>
-<a href="/chandeliers/c80057" data-category-id="80057" data-category-name="Chandeliers" class="track-in-omniture main-nav sub-nav">Chandeliers
-</a>
-</li>
-<li>
-<a href="/pendant-lighting/c80058" data-category-id="80058" data-category-name="Pendant Lighting" class="track-in-omniture main-nav sub-nav">Pendant Lighting
-</a>
-</li>
-<li>
-<a href="/recessed-lighting/c80064" data-category-id="80064" data-category-name="Recessed Lighting" class="track-in-omniture main-nav sub-nav">Recessed Lighting
-</a>
-</li>
-<li>
-<a href="/accent-spot-lights/c86197" data-category-id="86197" data-category-name="Accent and Spot Lights" class="track-in-omniture main-nav sub-nav">Accent and Spot Lights
-</a>
-</li>
-<li>
-<a href="/outdoor-lighting/c80063" data-category-id="80063" data-category-name="Outdoor Lighting" class="track-in-omniture main-nav sub-nav">Outdoor Lighting
-</a>
-</li>
-<li>
-<a href="/lamps/c80062" data-category-id="80062" data-category-name="Lamps" class="track-in-omniture main-nav sub-nav">Lamps
-</a>
-</li>
-<li>
-<a href="/ceiling-fans/c80061" data-category-id="80061" data-category-name="Ceiling Fans" class="track-in-omniture main-nav sub-nav">Ceiling Fans
-</a>
-</li>
-<li>
-<a href="/exhaust-fans-with-light/c80391" data-category-id="85812" data-category-name="Exhaust Fans with Light" class="track-in-omniture main-nav sub-nav">Exhaust Fans with Light
-</a>
-</li>
-</ul>
-</div>
-</div>
 </li>
 <li class="top">
 <a href="/commercial-plumbing/c85907" data-category-id="85907" data-category-name="Commercial Plumbing" class="track-in-omniture main-nav nodrop">
@@ -690,79 +433,79 @@ Commercial Plumbing
 <div>
 <ul>
 <li>
-<a href="/commercial-kitchen-faucets/c85909" data-category-id="85909" data-category-name="Kitchen Faucets" class="track-in-omniture main-nav sub-nav">Kitchen Faucets
+<a href="/commercial-kitchen-faucets/c85909" data-category-id="85909" data-category-name="Kitchen Faucets" data-category-location="additional-list-cat" class="track-in-omniture sub-nav">Kitchen Faucets
 </a>
 </li>
 <li>
-<a href="/food-service-faucets/c85910" data-category-id="85910" data-category-name="Food Service Faucets" class="track-in-omniture main-nav sub-nav">Food Service Faucets
+<a href="/food-service-faucets/c85910" data-category-id="85910" data-category-name="Food Service Faucets" data-category-location="additional-list-cat" class="track-in-omniture sub-nav">Food Service Faucets
 </a>
 </li>
 <li>
-<a href="/commercial-bar-faucets/c85911" data-category-id="85911" data-category-name="Bar Faucets" class="track-in-omniture main-nav sub-nav">Bar Faucets
+<a href="/commercial-bar-faucets/c85911" data-category-id="85911" data-category-name="Bar Faucets" data-category-location="additional-list-cat" class="track-in-omniture sub-nav">Bar Faucets
 </a>
 </li>
 <li>
-<a href="/commercial-bathroom-sink-faucets/c85908" data-category-id="85908" data-category-name="Bathroom Faucets" class="track-in-omniture main-nav sub-nav">Bathroom Faucets
+<a href="/commercial-bathroom-sink-faucets/c85908" data-category-id="85908" data-category-name="Bathroom Faucets" data-category-location="additional-list-cat" class="track-in-omniture sub-nav">Bathroom Faucets
 </a>
 </li>
 <li>
-<a href="/commercial-shower-faucets/c85916" data-category-id="85916" data-category-name="Shower Faucets" class="track-in-omniture main-nav sub-nav">Shower Faucets
+<a href="/commercial-shower-faucets/c85916" data-category-id="85916" data-category-name="Shower Faucets" data-category-location="additional-list-cat" class="track-in-omniture sub-nav">Shower Faucets
 </a>
 </li>
 <li>
-<a href="/flushometer-valves/c84080" data-category-id="85912" data-category-name="Flushometer Valves" class="track-in-omniture main-nav sub-nav">Flushometer Valves
+<a href="/flushometer-valves/c84080" data-category-id="85912" data-category-name="Flushometer Valves" data-category-location="additional-list-cat" class="track-in-omniture sub-nav">Flushometer Valves
 </a>
 </li>
 <li>
-<a href="/commercial-metering-faucets/c85913" data-category-id="85913" data-category-name="Metering Faucets" class="track-in-omniture main-nav sub-nav">Metering Faucets
+<a href="/commercial-metering-faucets/c85913" data-category-id="85913" data-category-name="Metering Faucets" data-category-location="additional-list-cat" class="track-in-omniture sub-nav">Metering Faucets
 </a>
 </li>
 <li>
-<a href="/commercial-hand-dryers/c85919" data-category-id="85919" data-category-name="Hand Dryers" class="track-in-omniture main-nav sub-nav">Hand Dryers
+<a href="/commercial-hand-dryers/c85919" data-category-id="85919" data-category-name="Hand Dryers" data-category-location="additional-list-cat" class="track-in-omniture sub-nav">Hand Dryers
 </a>
 </li>
 <li>
-<a href="/commercial-lavatory-sinks/c85921" data-category-id="85921" data-category-name="Lavatory Sinks" class="track-in-omniture main-nav sub-nav">Lavatory Sinks
+<a href="/commercial-lavatory-sinks/c85921" data-category-id="85921" data-category-name="Lavatory Sinks" data-category-location="additional-list-cat" class="track-in-omniture sub-nav">Lavatory Sinks
 </a>
 </li>
 <li>
-<a href="/commercial-kitchen-sinks/c85923" data-category-id="85923" data-category-name="Kitchen Sinks" class="track-in-omniture main-nav sub-nav">Kitchen Sinks
+<a href="/commercial-kitchen-sinks/c85923" data-category-id="85923" data-category-name="Kitchen Sinks" data-category-location="additional-list-cat" class="track-in-omniture sub-nav">Kitchen Sinks
 </a>
 </li>
 <li>
-<a href="/commercial-utility-faucets/c85914" data-category-id="85914" data-category-name="Utility Faucets" class="track-in-omniture main-nav sub-nav">Utility Faucets
+<a href="/commercial-utility-faucets/c85914" data-category-id="85914" data-category-name="Utility Faucets" data-category-location="additional-list-cat" class="track-in-omniture sub-nav">Utility Faucets
 </a>
 </li>
 <li>
-<a href="/commercial-utility-sinks/c85922" data-category-id="85922" data-category-name="Utility Sinks" class="track-in-omniture main-nav sub-nav">Utility Sinks
+<a href="/commercial-utility-sinks/c85922" data-category-id="85922" data-category-name="Utility Sinks" data-category-location="additional-list-cat" class="track-in-omniture sub-nav">Utility Sinks
 </a>
 </li>
 <li>
-<a href="/commercial-laboratory-faucets/c85915" data-category-id="85915" data-category-name="Laboratory Faucets" class="track-in-omniture main-nav sub-nav">Laboratory Faucets
+<a href="/commercial-laboratory-faucets/c85915" data-category-id="85915" data-category-name="Laboratory Faucets" data-category-location="additional-list-cat" class="track-in-omniture sub-nav">Laboratory Faucets
 </a>
 </li>
 <li>
-<a href="/urinals/c84143" data-category-id="85917" data-category-name="Urinals" class="track-in-omniture main-nav sub-nav">Urinals
+<a href="/urinals/c84143" data-category-id="85917" data-category-name="Urinals" data-category-location="additional-list-cat" class="track-in-omniture sub-nav">Urinals
 </a>
 </li>
 <li>
-<a href="/commercial-toilets/c85918" data-category-id="85918" data-category-name="Toilets" class="track-in-omniture main-nav sub-nav">Toilets
+<a href="/commercial-toilets/c85918" data-category-id="85918" data-category-name="Toilets" data-category-location="additional-list-cat" class="track-in-omniture sub-nav">Toilets
 </a>
 </li>
 <li>
-<a href="/accessory-toilet-seats/c83274" data-category-id="85927" data-category-name="Toilet Seats" class="track-in-omniture main-nav sub-nav">Toilet Seats
+<a href="/accessory-toilet-seats/c83274" data-category-id="85927" data-category-name="Toilet Seats" data-category-location="additional-list-cat" class="track-in-omniture sub-nav">Toilet Seats
 </a>
 </li>
 <li>
-<a href="/bathroom-fans/c80047" data-category-id="85928" data-category-name="Exhaust Fans" class="track-in-omniture main-nav sub-nav">Exhaust Fans
+<a href="/bathroom-fans/c80047" data-category-id="85928" data-category-name="Exhaust Fans" data-category-location="additional-list-cat" class="track-in-omniture sub-nav">Exhaust Fans
 </a>
 </li>
 <li>
-<a href="/drinking-fountains/c84175" data-category-id="85924" data-category-name="Drinking Fountains" class="track-in-omniture main-nav sub-nav">Drinking Fountains
+<a href="/drinking-fountains/c84175" data-category-id="85924" data-category-name="Drinking Fountains" data-category-location="additional-list-cat" class="track-in-omniture sub-nav">Drinking Fountains
 </a>
 </li>
 <li>
-<a href="/commercial-valves/c85989" data-category-id="85989" data-category-name="Valves" class="track-in-omniture main-nav sub-nav">Valves
+<a href="/commercial-valves/c85989" data-category-id="85989" data-category-name="Valves" data-category-location="additional-list-cat" class="track-in-omniture sub-nav">Valves
 </a>
 </li>
 </ul>
@@ -778,55 +521,55 @@ Bathroom Safety Products
 <div>
 <ul>
 <li>
-<a href="/ada-bathroom-sink-faucets/c86003" data-category-id="86003" data-category-name="ADA Bathroom Sink Faucets" class="track-in-omniture main-nav sub-nav">ADA Bathroom Sink Faucets
+<a href="/ada-bathroom-sink-faucets/c86003" data-category-id="86003" data-category-name="ADA Bathroom Sink Faucets" data-category-location="additional-list-cat" class="track-in-omniture sub-nav">ADA Bathroom Sink Faucets
 </a>
 </li>
 <li>
-<a href="/ada-bathroom-sinks/c83048" data-category-id="83048" data-category-name="ADA Bathroom Sinks" class="track-in-omniture main-nav sub-nav">ADA Bathroom Sinks
+<a href="/ada-bathroom-sinks/c83048" data-category-id="83048" data-category-name="ADA Bathroom Sinks" data-category-location="additional-list-cat" class="track-in-omniture sub-nav">ADA Bathroom Sinks
 </a>
 </li>
 <li>
-<a href="/ada-shower-faucets/c86005" data-category-id="86005" data-category-name="ADA Shower Faucets" class="track-in-omniture main-nav sub-nav">ADA Shower Faucets
+<a href="/ada-shower-faucets/c86005" data-category-id="86005" data-category-name="ADA Shower Faucets" data-category-location="additional-list-cat" class="track-in-omniture sub-nav">ADA Shower Faucets
 </a>
 </li>
 <li>
-<a href="/pause-control-hand-showers/c85996" data-category-id="85996" data-category-name="Pause Control Hand Showers" class="track-in-omniture main-nav sub-nav">Pause Control Hand Showers
+<a href="/pause-control-hand-showers/c85996" data-category-id="85996" data-category-name="Pause Control Hand Showers" data-category-location="additional-list-cat" class="track-in-omniture sub-nav">Pause Control Hand Showers
 </a>
 </li>
 <li>
-<a href="/ada-bathtubs/c85997" data-category-id="85997" data-category-name="ADA Bathtubs" class="track-in-omniture main-nav sub-nav">ADA Bathtubs
+<a href="/ada-bathtubs/c85997" data-category-id="85997" data-category-name="ADA Bathtubs" data-category-location="additional-list-cat" class="track-in-omniture sub-nav">ADA Bathtubs
 </a>
 </li>
 <li>
-<a href="/ada-roman-tub-faucets/c86004" data-category-id="86004" data-category-name="ADA Tub Filler Faucets" class="track-in-omniture main-nav sub-nav">ADA Tub Filler Faucets
+<a href="/ada-roman-tub-faucets/c86004" data-category-id="86004" data-category-name="ADA Tub Filler Faucets" data-category-location="additional-list-cat" class="track-in-omniture sub-nav">ADA Tub Filler Faucets
 </a>
 </li>
 <li>
-<a href="/bath-and-shower-seats/c85994" data-category-id="85994" data-category-name="Bath and Shower Seats" class="track-in-omniture main-nav sub-nav">Bath and Shower Seats
+<a href="/bath-and-shower-seats/c85994" data-category-id="85994" data-category-name="Bath and Shower Seats" data-category-location="additional-list-cat" class="track-in-omniture sub-nav">Bath and Shower Seats
 </a>
 </li>
 <li>
-<a href="/tub-and-shower-accessories/c84872" data-category-id="86002" data-category-name="Shower Accessories" class="track-in-omniture main-nav sub-nav">Shower Accessories
+<a href="/tub-and-shower-accessories/c84872" data-category-id="86002" data-category-name="Shower Accessories" data-category-location="additional-list-cat" class="track-in-omniture sub-nav">Shower Accessories
 </a>
 </li>
 <li>
-<a href="/shower-modules-with-grab-bars/c86000" data-category-id="86000" data-category-name="Shower Modules with Grab Bars" class="track-in-omniture main-nav sub-nav">Shower Modules with Grab Bars
+<a href="/shower-modules-with-grab-bars/c86000" data-category-id="86000" data-category-name="Shower Modules with Grab Bars" data-category-location="additional-list-cat" class="track-in-omniture sub-nav">Shower Modules with Grab Bars
 </a>
 </li>
 <li>
-<a href="/ada-compliant-toilets/c80283" data-category-id="80283" data-category-name="ADA Toilets" class="track-in-omniture main-nav sub-nav">ADA Toilets
+<a href="/ada-compliant-toilets/c80283" data-category-id="80283" data-category-name="ADA Toilets" data-category-location="additional-list-cat" class="track-in-omniture sub-nav">ADA Toilets
 </a>
 </li>
 <li>
-<a href="/toilet-safety-seats/c85999" data-category-id="85999" data-category-name="Toilet Safety Seats" class="track-in-omniture main-nav sub-nav">Toilet Safety Seats
+<a href="/toilet-safety-seats/c85999" data-category-id="85999" data-category-name="Toilet Safety Seats" data-category-location="additional-list-cat" class="track-in-omniture sub-nav">Toilet Safety Seats
 </a>
 </li>
 <li>
-<a href="/washlet-toilet-seats/c80281" data-category-id="86001" data-category-name="Toilet Washlet Seats" class="track-in-omniture main-nav sub-nav">Toilet Washlet Seats
+<a href="/washlet-toilet-seats/c80281" data-category-id="86001" data-category-name="Toilet Washlet Seats" data-category-location="additional-list-cat" class="track-in-omniture sub-nav">Toilet Washlet Seats
 </a>
 </li>
 <li>
-<a href="/grab-bars-and-bath-grips/c85993" data-category-id="85993" data-category-name="Grab Bars and Bath Grips" class="track-in-omniture main-nav sub-nav">Grab Bars and Bath Grips
+<a href="/grab-bars-and-bath-grips/c85993" data-category-id="85993" data-category-name="Grab Bars and Bath Grips" data-category-location="additional-list-cat" class="track-in-omniture sub-nav">Grab Bars and Bath Grips
 </a>
 </li>
 </ul>
@@ -847,51 +590,51 @@ Brands
 <div>
 <ul>
 <li>
-<a href="/kohler/c80585" data-category-id="80585" data-category-name="Kohler" class="track-in-omniture main-nav sub-nav">Kohler
+<a href="/kohler/c80585" data-category-id="80585" data-category-name="Kohler" data-category-location="additional-list-cat" class="track-in-omniture sub-nav">Kohler
 </a>
 </li>
 <li>
-<a href="/american-standard/c80552" data-category-id="80552" data-category-name="American Standard" class="track-in-omniture main-nav sub-nav">American Standard
+<a href="/delta-faucets/c80561" data-category-id="80561" data-category-name="Delta" data-category-location="additional-list-cat" class="track-in-omniture sub-nav">Delta
 </a>
 </li>
 <li>
-<a href="/danze/c80560" data-category-id="80560" data-category-name="Danze" class="track-in-omniture main-nav sub-nav">Danze
+<a href="/brizo-kitchen-and-bathroom-faucets/c82173" data-category-id="82173" data-category-name="Brizo" data-category-location="additional-list-cat" class="track-in-omniture sub-nav">Brizo
 </a>
 </li>
 <li>
-<a href="/delta-faucets/c80561" data-category-id="80561" data-category-name="Delta" class="track-in-omniture main-nav sub-nav">Delta
+<a href="/moen/c80591" data-category-id="80591" data-category-name="Moen" data-category-location="additional-list-cat" class="track-in-omniture sub-nav">Moen
 </a>
 </li>
 <li>
-<a href="/elkay/c80568" data-category-id="80568" data-category-name="Elkay" class="track-in-omniture main-nav sub-nav">Elkay
+<a href="/jacuzzi/c80580" data-category-id="80580" data-category-name="Jacuzzi" data-category-location="additional-list-cat" class="track-in-omniture sub-nav">Jacuzzi
 </a>
 </li>
 <li>
-<a href="/grohe/c80574" data-category-id="80574" data-category-name="Grohe" class="track-in-omniture main-nav sub-nav">Grohe
+<a href="/elkay/c80568" data-category-id="80568" data-category-name="Elkay" data-category-location="additional-list-cat" class="track-in-omniture sub-nav">Elkay
 </a>
 </li>
 <li>
-<a href="/hansgrohe/c80575" data-category-id="80575" data-category-name="Hansgrohe" class="track-in-omniture main-nav sub-nav">Hansgrohe
+<a href="/grohe/c80574" data-category-id="80574" data-category-name="GROHE" data-category-location="additional-list-cat" class="track-in-omniture sub-nav">GROHE
 </a>
 </li>
 <li>
-<a href="/jacuzzi/c80580" data-category-id="80580" data-category-name="Jacuzzi" class="track-in-omniture main-nav sub-nav">Jacuzzi
+<a href="/hansgrohe/c80575" data-category-id="80575" data-category-name="Hansgrohe" data-category-location="additional-list-cat" class="track-in-omniture sub-nav">Hansgrohe
 </a>
 </li>
 <li>
-<a href="/kraus/c80587" data-category-id="80587" data-category-name="Kraus" class="track-in-omniture main-nav sub-nav">Kraus
+<a href="/american-standard/c80552" data-category-id="80552" data-category-name="American Standard" data-category-location="additional-list-cat" class="track-in-omniture sub-nav">American Standard
 </a>
 </li>
 <li>
-<a href="/moen/c80591" data-category-id="80591" data-category-name="Moen" class="track-in-omniture main-nav sub-nav">Moen
+<a href="/pfister/c80595" data-category-id="80595" data-category-name="Pfister" data-category-location="additional-list-cat" class="track-in-omniture sub-nav">Pfister
 </a>
 </li>
 <li>
-<a href="/pfister/c80595" data-category-id="80595" data-category-name="Pfister" class="track-in-omniture main-nav sub-nav">Pfister
+<a href="/dreamline/c80565" data-category-id="80565" data-category-name="DreamLine" data-category-location="additional-list-cat" class="track-in-omniture sub-nav">DreamLine
 </a>
 </li>
 <li>
-<a href="/rohl/c80882" data-category-id="80882" data-category-name="Rohl" class="track-in-omniture main-nav sub-nav">Rohl
+<a href="/miseno/c86111" data-category-id="86111" data-category-name="Miseno" data-category-location="additional-list-cat" class="track-in-omniture sub-nav">Miseno
 </a>
 </li>
 <li><a href="http://www.faucet.com/plumbing-manufacturers-and-brands/c80007">View All Brands</a></li>
@@ -908,51 +651,51 @@ Sales and Coupons
 <div>
 <ul>
 <li>
-<a href="/coupons/c80008#coupons" data-category-id="82284" data-category-name="Featured Coupons and Discounts" class="track-in-omniture main-nav sub-nav">Featured Coupons and Discounts
+<a href="/coupons/c80008#coupons" data-category-id="82284" data-category-name="Featured Coupons and Discounts" data-category-location="additional-list-cat" class="track-in-omniture sub-nav">Featured Coupons and Discounts
 </a>
 </li>
 <li>
-<a href="/kohler-sale/c85817" data-category-id="85818" data-category-name="Kohler New Year Sale" class="track-in-omniture main-nav sub-nav">Kohler New Year Sale
+<a href="/kohler-sale/c85817" data-category-id="85818" data-category-name="Kohler New Year Sale" data-category-location="additional-list-cat" class="track-in-omniture sub-nav">Kohler New Year Sale
 </a>
 </li>
 <li>
-<a href="/kraus/c80587" data-category-id="85821" data-category-name="Kraus KRAUSFIVE 5% off coupon" class="track-in-omniture main-nav sub-nav">Kraus KRAUSFIVE 5% off coupon
+<a href="/kraus-summer-savings-event/c86231" data-category-id="85821" data-category-name="Kraus Summer Savings Event" data-category-location="additional-list-cat" class="track-in-omniture sub-nav">Kraus Summer Savings Event
 </a>
 </li>
 <li>
-<a href="/jacuzzi/c80580" data-category-id="85824" data-category-name="Jacuzzi JACUZZIFIVE 5% off Coupon" class="track-in-omniture main-nav sub-nav">Jacuzzi JACUZZIFIVE 5% off Coupon
+<a href="/jacuzzi/c80580" data-category-id="85824" data-category-name="Jacuzzi JACUZZIFIVE 5% off Coupon" data-category-location="additional-list-cat" class="track-in-omniture sub-nav">Jacuzzi JACUZZIFIVE 5% off Coupon
 </a>
 </li>
 <li>
-<a href="/danze/c80560" data-category-id="85827" data-category-name="Danze Save up to 42% Off" class="track-in-omniture main-nav sub-nav">Danze Save up to 42% Off
+<a href="/danze/c80560" data-category-id="85827" data-category-name="Danze Save up to 42% Off" data-category-location="additional-list-cat" class="track-in-omniture sub-nav">Danze Save up to 42% Off
 </a>
 </li>
 <li>
-<a href="/danze-dbm/c83312" data-category-id="85828" data-category-name="Danze CLEARANCE! Quantities Limited" class="track-in-omniture main-nav sub-nav">Danze CLEARANCE! Quantities Limited
+<a href="/danze-dbm/c83312" data-category-id="85828" data-category-name="Danze CLEARANCE! Quantities Limited" data-category-location="additional-list-cat" class="track-in-omniture sub-nav">Danze CLEARANCE! Quantities Limited
 </a>
 </li>
 <li>
-<a href="/index.cfm?f21089=true&amp;all-faucets-on-sale=c85717&amp;categoryid=85717&amp;page=search:browse&amp;F21092=lavatory" data-category-id="85706" data-category-name="Bathroom Faucets on Sale" class="track-in-omniture main-nav sub-nav">Bathroom Faucets on Sale
+<a href="/index.cfm?f21089=true&amp;all-faucets-on-sale=c85717&amp;categoryid=85717&amp;page=search:browse&amp;F21092=lavatory" data-category-id="85706" data-category-name="Bathroom Faucets on Sale" data-category-location="additional-list-cat" class="track-in-omniture sub-nav">Bathroom Faucets on Sale
 </a>
 </li>
 <li>
-<a href="/index.cfm?all-sinks-on-sale=c85720&amp;categoryid=85720&amp;f21089=true&amp;page=search:browse&amp;F21092=lavatory%20sink" data-category-id="85724" data-category-name="Bathroom Sinks on Sale" class="track-in-omniture main-nav sub-nav">Bathroom Sinks on Sale
+<a href="/index.cfm?all-sinks-on-sale=c85720&amp;categoryid=85720&amp;f21089=true&amp;page=search:browse&amp;F21092=lavatory%20sink" data-category-id="85724" data-category-name="Bathroom Sinks on Sale" data-category-location="additional-list-cat" class="track-in-omniture sub-nav">Bathroom Sinks on Sale
 </a>
 </li>
 <li>
-<a href="/index.cfm?f21089=true&amp;all-faucets-on-sale=c85717&amp;categoryid=85717&amp;page=search:browse&amp;F21092=kitchen" data-category-id="85704" data-category-name="Kitchen Faucets on Sale" class="track-in-omniture main-nav sub-nav">Kitchen Faucets on Sale
+<a href="/index.cfm?f21089=true&amp;all-faucets-on-sale=c85717&amp;categoryid=85717&amp;page=search:browse&amp;F21092=kitchen" data-category-id="85704" data-category-name="Kitchen Faucets on Sale" data-category-location="additional-list-cat" class="track-in-omniture sub-nav">Kitchen Faucets on Sale
 </a>
 </li>
 <li>
-<a href="/index.cfm?all-sinks-on-sale=c85720&amp;categoryid=85720&amp;f21089=true&amp;page=search:browse&amp;F21092=kitchen%20sink" data-category-id="85708" data-category-name="Kitchen Sinks on Sale" class="track-in-omniture main-nav sub-nav">Kitchen Sinks on Sale
+<a href="/index.cfm?all-sinks-on-sale=c85720&amp;categoryid=85720&amp;f21089=true&amp;page=search:browse&amp;F21092=kitchen%20sink" data-category-id="85708" data-category-name="Kitchen Sinks on Sale" data-category-location="additional-list-cat" class="track-in-omniture sub-nav">Kitchen Sinks on Sale
 </a>
 </li>
 <li>
-<a href="/index.cfm?whirlpools-and-tubs-on-sale=c85719&amp;page=search:browse&amp;categoryid=85719&amp;F21089=true" data-category-id="85710" data-category-name="Bathtubs on Sale" class="track-in-omniture main-nav sub-nav">Bathtubs on Sale
+<a href="/index.cfm?whirlpools-and-tubs-on-sale=c85719&amp;page=search:browse&amp;categoryid=85719&amp;F21089=true" data-category-id="85710" data-category-name="Bathtubs on Sale" data-category-location="additional-list-cat" class="track-in-omniture sub-nav">Bathtubs on Sale
 </a>
 </li>
 <li>
-<a href="/index.cfm?page=search:browse&amp;bathroom-lighting-on-sale=c85718&amp;categoryid=85718&amp;F21089=true" data-category-id="85712" data-category-name="Bathroom Lights on Sale" class="track-in-omniture main-nav sub-nav">Bathroom Lights on Sale
+<a href="/index.cfm?page=search:browse&amp;bathroom-lighting-on-sale=c85718&amp;categoryid=85718&amp;F21089=true" data-category-id="85712" data-category-name="Bathroom Lights on Sale" data-category-location="additional-list-cat" class="track-in-omniture sub-nav">Bathroom Lights on Sale
 </a>
 </li>
 </ul>
@@ -976,8 +719,8 @@ Sales and Coupons
 							
 							
 								<div class="heart-box heart-box-muted">
-									<div class="favorites-header-wrap button secondary">
-										<a href="/favorites/myfavorites" data-toggle="tooltip" data-placement="top" class="js-favorites-link" title="My Favorites" alt="My Favorites" data-location="header">
+									<div class="favorites-header-wrap button secondary js-favorites-link" data-toggle="tooltip" data-placement="top" title="My Favorites" alt="My Favorites" data-location="header">
+										<a href="#">
 											
 										</a>
 									</div>
@@ -1363,10 +1106,9 @@ mso-hansi-theme-font:minor-latin;}
 <p>Because we value your right to privacy, we do not sell or otherwise share your contact information to unrelated third parties. Faucet.com uses email as one of the primary methods of communicating with our customers. The emails we send may be related to a variety of issues, including:</p>
 <ul>
     <li>A direct response to an inquiry,</li>
-    <li>Communication concerning an order (receipt, shipping confirmation, etc), or</li>
-    <li>Promotional emails you have indicated you wish to receive.</li>
+    <li>Communication concerning an order (receipt, shipping confirmation, etc), or&nbsp;emails on products, services or promotions.</li>
 </ul>
-<p>From time to time, we may notify you of special offers based on your purchasing history with us. If you create a Saved Cart, or have one created by our staff, you may receive follow-up emails related to this Cart. You may unsubscribe at any time by following the simple instructions contained in the emails. Unsubscribing will not apply to any future Saved Carts that are created. If you have signed up to receive our promotional emails and wish to stop your subscription, you'll find easy-to-follow unsubscribe instructions in each promotional email. You may also change your subscription status at any time by:</p>
+<p>From time to time, we may notify you of special offers based on your purchasing history with us. If you create a Saved Cart, or have one created by our staff, you may receive follow-up emails related to this Cart. You may unsubscribe at any time by following the simple instructions contained in the emails. Unsubscribing will not apply to any future Saved Carts that are created. If you receive our promotional emails and wish to unsubscribe, you'll find easy-to-follow unsubscribe instructions in each promotional email. You may also change your status at any time by:</p>
 <ul>
     <li>Logging into your account and editing your "Change Billing Info"</li>
     <li>Sending an email to <a href="mailto:newsletters@faucet.com">newsletters@faucet.com</a></li>
@@ -1378,6 +1120,22 @@ mso-hansi-theme-font:minor-latin;}
 <p>If you choose to visit Faucet.com, your visit and any dispute over privacy is subject to this notice and our Conditions of Use, including limitations on damages, arbitration of disputes, and application of the law of the state of California. If you have any concern about privacy at Faucet.com, please send a thorough description to our Customer Service team and we will try to resolve it. Our business changes constantly. This Notice and the Conditions of Use will change also, and use of information that we gather now is subject to the Privacy Notice in effect at the time of use. Please check our website frequently to see recent changes.</p>
 <h2>Does Faucet.com Participate in the Safe Harbor Program?</h2>
 <p>Faucet.com is a participant in the Safe Harbor program developed by the U.S. Department of Commerce and European Commission. For more information about the Safe Harbor and to view our certification, visit the <a href="http://export.gov/safeharbor/">U.S. Department of Commerce's Safe Harbor Web site</a> or view our <a href="/index.cfm?page=help:safeharborprivacypolicy">Safe Harbor Privacy Policy</a></p>
+<h2>SMS Terms of Use</h2>
+<p>What is Faucet.com SMS?</p>
+<p>Faucet.com provides SMS service to send order information. Order status, shipping status and delivered status. SMS will be sent if a subscriber opts in and has a mobile phone number. Standard messaging rates may apply. Message frequency will vary by user.</p>
+<p>A user may also opt-in to receive a one time message with a link to a specific product details, shopping cart items or mobile applications. MMS service is used to send messages of product photos to and from the user.</p>
+<p>What is the cost for Faucet.com SMS?</p>
+<p>There is no additional charge for Faucet.com SMS services. However, normal text messaging rates or package deductions may apply. Please check with your carrier for details on your plan.</p>
+<p>What carriers are compatible with Faucet.com SMS?</p>
+<p>Compatible carriers include: AT&amp;T, T-Mobile*, Metro PCS, Verizon Wireless, Sprint, Nextel, Boost, Alltel, US Cellular and Cellular One. *T-Mobile is not liable for delayed or undelivered messages.</p>
+<p>Are there any additional charges associated with this service?</p>
+<p>Standard message rates apply to all text messages. Message rates differ from carrier to carrier, please contact your wireless service provider to inquire about the details specific to your plan.</p>
+<p>Is Faucet.com SMS service available to international users?</p>
+<p>Currently this service is only available to domestic service plans within the United States.</p>
+<p>How do I stop receiving SMS messages from Faucet.com?</p>
+<p>To discontinue SMS service from Faucet.com, text "<b>STOP</b>" to 40791</p>
+<p>Who do I contact for help?</p>
+<p>If you need any further assistance please contact us at 1-800-444-5783 or email CS@Faucet.com.</p>
 <h2>Update to Privacy Policy</h2>
 <p>The Privacy Policy was last updated Jan. 1, 2010</p>
 <p><strong>Copyright © 2000-2012 Build.com. All Rights Reserved.</strong></p> 
@@ -1429,11 +1187,11 @@ mso-hansi-theme-font:minor-latin;}
 	<div style="width: 165px; margin: 5px  auto;">
 		
 					<a class="chat-tracking track-in-omniture" data-page-location="helpmenu" rel="nofollow popup" href="https://buildchat.whoson.com/newchat/chat.aspx?domain=www.faucet.com" target="_blank">
-						 
+						
 				<div class="chat-wrapper large-chat">
-					<div class="chat-icon ion-chatboxes"></div>
+					<i class="chat-icon ion-chatbox"></i>
 					<div class="chat-text">
-						<div class="chat-callout">Expert Live Chat</div>
+						<div class="chat-callout">Live Chat</div>
 						
 							<div class="chat-subText">Chat Now</div>
 						
@@ -1444,7 +1202,7 @@ mso-hansi-theme-font:minor-latin;}
 				
 	</div>
 	</div>
- 
+
 				<!-- Omniture General -->
 				<script type="text/javascript">
 					s.trackingServer="stats.faucet.com";
@@ -1453,11 +1211,12 @@ mso-hansi-theme-font:minor-latin;}
 
 					s.pageName="www.faucet.com:help:security";
 					s.channel="www.faucet.com:help:security";
-					s.server="webserver-pr-2.sys.id.build.com";
+					s.server="webserver-pb-8.sys.id.build.com";
 					s.eVar13="Faucet.com";
-					s.eVar57="28b9c9567b0f4a0b95b7af68b10c1780~204.236.235.245~~~~~~false";
+					s.eVar57="60216df7ce3742f6a6583a51c98cc584~204.236.235.245~~~~~~false";
 					s.prop12="www.faucet.com:help:security";
 					s.prop13="http://www.faucet.com/index.cfm?page=help:security";
+					s.prop19="1257";
 					
 				</script>
 
@@ -1479,21 +1238,36 @@ mso-hansi-theme-font:minor-latin;}
 			<!-- BEGIN: Google Trusted Store -->
 			var gts = gts || [];
 
+			gts.push(["badge_position", "USER_DEFINED"]);
 			gts.push([ 'id', '']);
 			gts.push([ 'gtsContainer', 'GTS_CONTAINER']);
 
 			(function() {
-				var scheme = (("https:" == document.location.protocol) ? "https://" : "http://");
-
-				var gtscript = document.createElement('script'); gtscript.type = 'text/javascript'; gtscript.async = true;
-				gtscript.src = scheme + "www.googlecommerce.com/trustedstores/gtmp_compiled.js";
-				 var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(gtscript, s);
+				var gts = document.createElement('script');
+				gts.type = 'text/javascript';
+				gts.async = true;
+				gts.defer = true;
+				gts.src = "https://www.googlecommerce.com/trustedstores/api/js";
+				var s = document.getElementsByTagName('script')[0];
+				s.parentNode.insertBefore(gts, s);
 			})();
 			<!-- END: Google Trusted Store -->
 		
 	</script>
 
 	
+			<script type="text/javascript">
+				window.addEvent('domready',function(){
+					var img = new Image(), scriptIncludes = document.getElementById('scriptsInclude');
+					img.src = 'http://tracking.searchmarketing.com/welcome.asp?SMCID=12014687&x= ' + escape(document.referrer);
+					img.width = 1;
+					img.height = 1;
+					if (scriptIncludes) {
+						scriptIncludes.appendChild(img);
+					}
+				});
+			</script>
+		
 		<script type="text/javascript">if (typeof _satellite !== "undefined") { _satellite.pageBottom(); }</script>
 	
 	
@@ -1503,7 +1277,7 @@ mso-hansi-theme-font:minor-latin;}
 			document.write(s_code);
 		}
 	</script>
-<script src="/assets/scripts/dist/build-vendor-global.min-cb1600.js"></script><script src="/assets/scripts/dist/build-global-cb1600.js"></script><script src="/assets/scripts/view/favorites/build.favorites-cb1600.js"></script><script src="/themes/dps/scripts/general-cb1600.js"></script> 
+<script src="/assets/scripts/dist/build-vendor-global.min-cb1257.js"></script><script src="/assets/scripts/dist/build-global-cb1257.js"></script><script src="/assets/scripts/view/favorites/build.favorites-cb1257.js"></script><script src="/themes/dps/scripts/general-cb1257.js"></script> 
 
 	</div>
 
@@ -1517,7 +1291,7 @@ mso-hansi-theme-font:minor-latin;}
 <input type="hidden" name="regLocationID" value="8">
 <h4>Stay connected - Don't miss out on exclusive email offers!</h4>
 <span id="emailWrap">
-<input required="" id="email" name="email" type="email" placeholder="Enter Email Address" class="newsletterinput">
+<input required="" id="email" name="email" type="email" placeholder="Enter Email Address" class="newsletterinput js-mailcheck-input">
 </span>
 <button id="submitEmail" type="submit" name="Submit" class="button light small">Sign Me Up</button>
 <a href="http://www.faucet.com/index.cfm?page=help:security">Privacy Policy</a>
@@ -1597,7 +1371,7 @@ Live Chat
 </li>
 <li>
 <!-- BEGIN: Bizrate Medal (125x73 pixels) -->
-<script src="//medals.bizrate.com/medals/js/59354_medal.js" type="text/javascript"></script>
+<script async="" defer="" src="//medals.bizrate.com/medals/js/59354_medal.js" type="text/javascript"></script>
 <a class="br-button">
 <img src="//medals.bizrate.com/medals/dynamic/59354_medal.gif" width="125" height="73" border="0" usemap="#59354_medal" alt="See Faucet.com Reviews at Bizrate.com">
 <map name="59354_medal">
@@ -1611,7 +1385,7 @@ Live Chat
 <a href="http://www.nextag.com/Faucet.com~288454zzzreviewsz1zzzzmainz17-htm" target="new"><img src="../themes/dps/images/footer/nextagBadge.gif" width="113" height="50" alt="NextTag Trusted Seller" title="NextTag Trusted Seller"></a>
 </li>
 <li>
-<a href="http://www.build.com/index.cfm?page=help:networkstores" target="_blank" rel="nofollow"><img src="//www.faucet.com/themes/dps/images/footer/networkofstores.jpg" alt="Part of the Build.com Inc Network" width="121" height="73"></a>
+<img src="//www.faucet.com/themes/dps/images/footer/networkofstores.jpg" alt="Part of the Build.com Inc Network" width="121" height="73">
 </li>
 </ul>
 </div>
@@ -1619,6 +1393,7 @@ Live Chat
 <p>Copyright© 2000-2015. Build.com, Inc.  All rights reserved.</p>
 <p>402 Otterson Dr, Chico, CA USA 95928</p>
 </div>
+      
 </div>
 </div>
 
@@ -1632,8 +1407,24 @@ Live Chat
 		</div>
 	</noscript>
 
-	
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"errorBeacon":"bam.nr-data.net","licenseKey":"670bce87e8","agent":"js-agent.newrelic.com\/nr-632.min.js","beacon":"bam.nr-data.net","applicationTime":94,"applicationID":"1329592,3770570","transactionName":"YlcGYkdQWBFTBRZZWlsdDFNZQRkGQhVPQ1BWRxZfQUg=","queueTime":0}</script> <script type="text/template" class="recs-container-template">
+	<div class="modal" id="alert-modal">
+	<div class="modal-dialog">
+		<div class="modal-content">
+			<div class="modal-header">
+				<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">×</span></button>
+				<h4 class="modal-title"></h4>
+			</div>
+			<div class="modal-body">
+				<div class="modal-alert-text">
+				</div>
+			</div>
+			<div class="modal-footer">
+				<button type="button" class="button light" data-dismiss="modal">Close</button>
+			</div>
+		</div>
+	</div>
+</div> 
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"errorBeacon":"bam.nr-data.net","licenseKey":"670bce87e8","agent":"js-agent.newrelic.com\/nr-768.min.js","beacon":"bam.nr-data.net","applicationTime":79,"applicationID":"1329592,3753581","transactionName":"YlcGYkdQWBFTBRZZWlsdDFNZQRkGQhVPQ1BWRxZfQUg=","queueTime":0}</script> <script type="text/template" class="recs-container-template">
 
 	<section>
 		<div class="heading-m lightgrey text-center serif thin"><%= titleText %></div>
@@ -1646,7 +1437,7 @@ Live Chat
 </script>
 <script type="text/template" class="recs-products-template">
 
-		<a class="recs-product-link" href="<%= productLink %>">
+		<a class="recs-product-link" data-recsproduct="<%= productOmnitureTracking %>" href="<%= productLink %>">
 			<div style="background-image: url(<%= productImage %>)" class="recs-product-wrapper">
 				<div class="recs-product-container">
 
