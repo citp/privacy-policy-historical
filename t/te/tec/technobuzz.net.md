@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the technobuzz.net privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630123819id_/http%3A//www.technobuzz.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the technobuzz.net privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207120821id_/http%3A//www.technobuzz.net/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - TechnoBuzz.net
 
 We respect your privacy and we are committed to safeguarding your privacy while online at our site [www.technobuzz.net](http://www.technobuzz.net/) . The following discloses the information gathering and dissemination practices for this Web site.
 
