@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the emaildirect.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607200758id_/http%3A//www.emaildirect.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emaildirect.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207102408id_/http%3A//www.emaildirect.com/privacy) for the most accurate reproduction.*
 
 # EmailDirect.com
 
@@ -12,7 +12,7 @@ Anti-Spam Policies
 EmailDirect, Inc. takes its anti-spam policy very seriously and has a history of acting on it.For more information about EmailDirect, Inc.’s anti-spam policy, please see [Anti-Spam Policy](https://web.archive.org/antispam) or contact [ abuse@emaildirect.com](mailto:abuse@emaildirect.com). 
 
 Compliance   
-This privacy statement discloses the privacy practices for [www.EmailDirect.com](https://web.archive.org/web/20150607200758id_/http%3A//www.emaildirect.com/default.aspx) and or services.Because EmailDirect, Inc. wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices with you to insure you are aware of all intentions and privacy policies provided by EmailDirect, Inc. This website has agreed to notify you of: 
+This privacy statement discloses the privacy practices for [www.EmailDirect.com](https://web.archive.org/web/20151207102408id_/http%3A//www.emaildirect.com/default.aspx) and or services.Because EmailDirect, Inc. wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices with you to insure you are aware of all intentions and privacy policies provided by EmailDirect, Inc. This website has agreed to notify you of: 
 
 >   
 >  1\. What personally identifiable information of yours is collected through the web site   
