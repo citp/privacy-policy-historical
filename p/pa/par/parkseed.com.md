@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the parkseed.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609044423id_/http%3A//parkseed.com/privacy-statement/a/5) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the parkseed.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207131620id_/http%3A//parkseed.com/privacy-statement/a/5) for the most accurate reproduction.*
 
-# Privacy Statement - Park Seed | Park Seed Co.
+# Privacy Statement | Park Seed Co.
 
-[](http://parkseed.com/gateway.aspx?c=bio-dome)
+[](http://parkseed.com/category.aspx?c=bio-dome)
 
 Park Seed asks you to provide certain personally identifiable information in order to use certain "Password Required" features and functions of the website. By providing such information, you consent to our collection and use of it, as described in this Privacy Statement. 
 
@@ -15,11 +15,16 @@ You can always choose not to provide information, to opt-out of receiving commun
   * Use the "Change Preferences" feature after entering your member name and password to receive access to your account page. At this location, you can subscribe or unsubscribe from our e-mail newsletters and you can update any information that you have provided to us. 
   * Click on the "Unsubscribe" link included at the bottom of each of our e-mails and follow the instructions on the web page. 
   * Send an e-mail to our friendly Customer Service representatives at info@parkscs.com. 
-  * Call our Customer Service representatives toll free at 1-800-845-3369. 
+  * Call our Customer Service representatives toll free at 1-800-845-3369 or for local calls use 1-864-330-2003. 
   * Drop us a line. Send mail to the following postal address: Park Seed Company, 1 Parkton Avenue, Greenwood, SC 29647 
 
 
 
 We work hard to protect the security of your information by using Secure Socket Layer (SSL) technology with encryption software. 
 
-If you have questions or comments concerning this Privacy Policy, you may contact us at: Park Seed Company, 1 Parkton Avenue, Greenwood, SC 29647 Phone: (800) 845-3369 Fax: (864) 941-4506 E-mail: info@parkscs.com 
+If you have questions or comments concerning this Privacy Policy, you may contact us at:  
+Park Seed Company, 1 Parkton Avenue, Greenwood, SC 29647  
+Toll Free: 1-800-845-3369  
+Local: 1-864-330-2003  
+Fax: 1-864-941-4506  
+E-mail: info@parkscs.com 
