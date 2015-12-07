@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the asdk12.org privacy policy that was archived on 2015-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150616095331id_/http%3A//asdk12.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asdk12.org privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207092946id_/http%3A//asdk12.org/privacy) for the most accurate reproduction.*
 
 # Privacy & Terms of Use - ASD Online - The website of the Anchorage School District
 
@@ -32,9 +32,9 @@
 
 Individual users of the Anchorage School District's computer networks are responsible for their behavior and communications over these networks. All users must comply with district standards and read the [Internet & Electronic Communications Guidelines](http://www.asdk12.org/forms/uploads/InternetGuidelines.pdf "Internet & Electronic Communications Guidelines").
 
-This website is intended to provide general information only. Although efforts are made to maintain the accuracy of the information on this website, the Anchorage School District does not guarantee the accuracy of the information. Before relying on any policy or regulation contained on this website, please contact ASD personnel to ensure sure you have the most recent version.
+This website is intended to provide general information only. Although efforts are made to maintain the accuracy of the information on this website, the Anchorage School District does not guarantee the accuracy of the information. Before relying on any policy or regulation contained on this website, please contact ASD personnel to ensure you have the most recent version.
 
-This website and the information contained within is provided “as is,” and ASD makes no express or implied representation or warranty regarding the information contained on this website. ASD provides no warranty that this website or information contained within will be error-free or will meet any particular criteria of performance or quality. ASD expressly disclaims all implied warranties, including, without limitation, warranties of merchantability, title, fitness for a particular purpose, non-infringement, compatibility, security, and accuracy. ASD is not responsible for any viruses which may result from your access to this website.
+This website and the information contained within is provided “as is,” and ASD makes no express or implied representation or warranty regarding the information contained in this website. ASD provides no warranty that this website or information contained within will be error-free or will meet any particular criteria of performance or quality. ASD expressly disclaims all implied warranties, including, without limitation, warranties of merchantability, title, fitness for a particular purpose, non-infringement, compatibility, security, and accuracy. ASD is not responsible for any viruses which may result from your access to this website.
 
 #### Links to other sites
 
