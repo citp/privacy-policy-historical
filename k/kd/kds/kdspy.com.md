@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kdspy.com privacy policy that was archived on 2015-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150408080615id_/http%3A//www.kdspy.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kdspy.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207094040id_/http%3A//www.5minutepublishing.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -61,10 +61,9 @@ If you are concerned about the topic covered by this policy, you should read it 
 You may also mail your concerns to us at the following address:
 
 LeadsClick  
-7 Agate Close  
-West Beckton  
+26 York Street  
 London  
-E16 3TU  
+W1U 6PZ  
 United Kingdom
 
 **11\. CALIFORNIA PRIVACY RIGHTS.** ** **
@@ -72,12 +71,11 @@ United Kingdom
 If you are a California resident and our customer, Cal. Civ. Code § 1798.83 permits you to request certain information about our disclosure of personal information to third parties for their direct marketing purposes. To request this information, please send an e-mail to wes@wesleyatkins.com or write us at the following address:
 
 LeadsClick  
-7 Agate Close  
-West Beckton  
+26 York Street  
 London  
-E16 3TU  
+W1U 6PZ  
 United Kingdom
 
 This policy was last updated on 10-30-2010.
 
-Copyright © 2008[Law Office of Michael E. Young PLLC ](http://www.mikeyounglaw.com/), and licensed for use by the owner of this website at WesleyAtkins.com. All Rights Reserved.  No portion of this document may be copied or used by anyone other than the licensee without the express written permission of the copyright owner.
+Copyright © 2008 [Law Office of Michael E. Young PLLC ](http://www.mikeyounglaw.com/), and licensed for use by the owner of this website at WesleyAtkins.com. All Rights Reserved.  No portion of this document may be copied or used by anyone other than the licensee without the express written permission of the copyright owner.
