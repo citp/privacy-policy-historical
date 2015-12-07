@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the golfsmith.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608203542id_/http%3A//www.golfsmith.com/display%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the golfsmith.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207223009id_/http%3A//www.golfsmith.com/display%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
 # Golfsmith.com Privacy Policy
 
