@@ -1,29 +1,18 @@
-> *The following text is extracted and transformed from the sony.com.sg privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611083659id_/http%3A//www.sony.com.sg/section/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sony.com.sg privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207092337id_/http%3A//www.sony.com.sg/section/privacypolicy%3Fcid%3Dgwt%3Afooter%3Alegal%3Aprivacypolicy) for the most accurate reproduction.*
 
 # : Privacy Policy : Sony Singapore
 
 Data Protection Policy
 
-  
-
-
- 
-
 This document (“Data Protection Policy”) is intended to provide information on how Sony Electronics Asia Pacific Pte. Ltd., Sony Electronics (Singapore) Pte. Ltd., Sony International (Singapore) Ltd. and Sony Global Treasury Services Plc. Singapore Branch (collectively “Sony”, “we”, “our” or “us”) collects, uses, discloses, manages and handles personal data which is subject to the Personal Data Protection Act 2012 (No. 26 of 2012) (“the Act”). Please read this Data Protection Policy carefully. By accessing our website, using any services provided by Sony, signing up for any products and services provided by Sony, submitting any information to us, or otherwise showing your agreement thereon, you will be deemed to have agreed and consented to the terms of this Data Protection Policy.
 
- 
-
 Sony reserves the right to amend, alter, change or modify this Data Protection Policy at any time without prior notice. Any amendment, alteration, changes or modification will be posted from time to time on our website. Subject to your rights under any applicable laws, you agree or shall be deemed to agree to be bound by any of such amended, altered, changed or modified Data Protection Policy by continuing to access our website, using any services provided by Sony, signing up for any products and services provided by Sony, submitting information to us, or otherwise showing your agreement thereon.
-
- 
 
 1. Personal Data
 
 1.1. In this Data Protection Policy, “Personal Data” means any data, whether true or false, which can be related to a specific identifiable individual, whether such individual is identifiable from the data itself, or from other information which is available to us.
 
 1.2. Examples of such Personal Data you may provide to us include (depending on the nature of your interaction with us) your name, NRIC, passport or other identification number, telephone number(s), mailing address, email address, network data and any other information relating to any individuals which you have provided us in any forms you may have submitted to us, or via other forms of interaction with you.
-
- 
 
 2. Collection of Personal Data
 
@@ -46,8 +35,6 @@ f. when you submit your Personal Data to us for any other reasons.
 2.3. If you provide us with any Personal Data relating to a third party (e.g. information of your spouse, children, parents, and/or employees), by submitting such Personal Data to us, you represent to us that you have obtained the consent of the third party to provide us with their Personal Data for the purposes as listed below.
 
 2.4. You should ensure that all Personal Data submitted to us is complete, accurate, true and correct. Failure on your part to do so may result in our inability to provide you with the products and services you have requested.
-
- 
 
 3. Purpose of Collection, Use and Disclosure of Your Personal Data
 
@@ -93,8 +80,6 @@ s. any purposes which are reasonably related to the aforesaid.
 
 3.2. In relation to particular products and services or in your interactions with us, we may also have specifically notified you of other purposes for which we collect, use or disclose your Personal Data. If so, we will collect, use and disclose your Personal Data for these additional purposes as well, unless we have specifically notified you otherwise.
 
- 
-
 4. Disclosing and Transferring Personal Data
 
 4.1. Sony will take appropriate and commercially reasonable technical, physical, and administrative measures to protect any Personal Data it possesses or controls from misuse or accidental, unlawful or unauthorised destruction, loss, alteration, disclosure, acquisition or access in accordance with the Act. Subject to the provisions of any applicable law, your Personal Data may be disclosed, for the purposes listed above (where applicable), to the following:
@@ -115,13 +100,9 @@ g. any other party to whom you specifically authorise us to disclose your Perso
 
 4.2. You consent and agree to Sony transferring your Personal Data outside of Singapore for any of the purposes as listed above.
 
- 
-
 5. Cookies
 
 5.1. In order to improve our services to you, we sometimes use automated tracking devices such as a “cookie”. A cookie is a small amount of data that our web server sends to your web browser when you visit certain parts of our website and the use of which is intended to assist our understanding of your interest in our website. We may use the cookies to personalise the content, recommendations, advertisements and communications delivered to you so that they are more relevant to you and your interests. For example, you may see an advertisement for a product that you have recently viewed on our website. Please note that the cookies do not personally identify users although they do identify a user’s browser. You can always choose to disable cookies from being stored on your computer by changing your browser settings. Disabling cookies however, may result in a limited experience of our functionality and services and in some cases may mean that we are unable to provide you with the services, or parts of the services, that you have requested. Some of our business partners whose content is incorporated into or linked to from the website may also use cookies. However, we have no access to or control over these cookies or websites.
-
- 
 
 6. Withdrawal of Consent, Access and Correction of your Personal Data
 
@@ -147,12 +128,6 @@ Sony Global Treasury Services Plc. Singapore Branch
 2 International Business Park, #01-10  
 Tower One, The Strategy, Singapore 609930
 
- 
-
- 
-
 Sony will generally be able to respond to such queries and/or requests within 30 days.
 
 6.2. If you withdraw your consent to any or all use of your Personal Data, depending on the nature of your request, Sony may not be able to continue to provide its products and/or services to you.
-
- 
