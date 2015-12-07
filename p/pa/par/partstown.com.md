@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the partstown.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607030303id_/http%3A//www.partstown.com/is-bin/INTERSHOP.enfinity/WFS/Reedy-PartsTown-Site/en_US/-/USD/ptExtraPage-Start%3FTemplateName%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the partstown.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207132234id_/http%3A//www.partstown.com/is-bin/INTERSHOP.enfinity/WFS/Reedy-PartsTown-Site/en_US/-/USD/ptExtraPage-Start%3FTemplateName%3Dprivacy) for the most accurate reproduction.*
 
 # Restaurant Equipment Parts, Restaurant Parts, Restaurant Supply Parts, Commercial Kitchen Parts
 
 PRIVACY STATEMENT 
 
-This is Parts Town online privacy policy ("Policy"). This Policy applies only to activities Parts Town engages in on its website (the "Site") and does not apply to Parts Town activities that are "offline" or unrelated to the website. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. 
+This is Parts Town online privacy policy ("Policy"). This Policy applies only to activities Parts Town engages in on its website ("the Site") and does not apply to Parts Town activities that are "offline" or unrelated to the website. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. 
 
 Collection of your Personal Information 
 
@@ -24,11 +24,11 @@ Other than stated above, Parts Town does not sell, rent or lease its customer li
 
 Parts Town keeps track of the Web sites and pages our customers visit within the Parts Town website, in order to determine which of our services are the most popular. This data is used to deliver customized content and advertising within Parts Town to customers whose behavior indicates that they are interested in a particular subject area. 
 
-The Parts Town Web site will also disclose your personal information, without notice, if required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on Parts Town or the site; (b) protect and defend the rights or property of Parts Town ; and, (c) act under exigent circumstances to protect the personal safety of users of Parts Town , or the public. 
+The Parts Town Web site will also disclose your personal information, without notice, if required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on Parts Town or the site 
 
 Use of Cookies 
 
-The Parts Town Web site use "cookies" to help you personalize your online experience. A cookie is a text file that is placed on your hard disk by a Web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a web server in the domain that issued the cookie to you. 
+The Parts Town Web site use cookies to help you personalize your online experience. A cookie is a text file that is placed on your hard disk by a Web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a web server in the domain that issued the cookie to you. 
 
 One of the primary purposes of cookies is to provide a convenience feature to save you time. The purpose of a cookie is to tell the Web server that you have returned to a specific page. For example, if you personalize Parts Town pages, or register with Parts Town site or services, a cookie helps Parts Town to recall your specific information on subsequent visits. This simplifies the process of recording your personal information, such as billing addresses, shipping addresses, and so on. When you return to the same Parts Town Web site, the information you previously provided can be retrieved, so you can easily use the Parts Town features that you customized. 
 
