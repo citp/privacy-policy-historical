@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the airnow.gov privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629053412id_/http%3A//www.epa.gov/epafiles/usenotice.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the airnow.gov privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207134933id_/http%3A//www.epa.gov/epafiles/usenotice.htm) for the most accurate reproduction.*
 
 # Privacy and Security Notice | EPA Home | US EPA
 
@@ -23,7 +23,7 @@ This page explains how we will handle information we learn about you from your v
 
 ## Privacy
 
-**Your Rights under the Privacy Act** : The [Privacy Act of 1974](http://www.epa.gov/privacy/) protects the personal information the federal government keeps on you in “systems of records (SOR)” (information an agency controls that can be retrieved by name or some other personal identifier). The Privacy Act regulates how the government can disclose, share, provide access to, and maintain the personal information that it collects. Not all information collected online is covered by the Privacy Act.
+**Your Rights under the Privacy Act** : The [Privacy Act of 1974](https://web.archive.org/privacy) protects the personal information the federal government keeps on you in “systems of records (SOR)” (information an agency controls that can be retrieved by name or some other personal identifier). The Privacy Act regulates how the government can disclose, share, provide access to, and maintain the personal information that it collects. Not all information collected online is covered by the Privacy Act.
 
 The Act’s major provisions require agencies to:
 
@@ -37,7 +37,7 @@ Your viewing of EPA’s website does not result in the collection of any persona
 
 Top of Page
 
-**Children’s Privacy** : Some EPA Web pages provide content to children. It is EPA policy, in compliance with the requirements of the [Children's Online Privacy Protection Act (COPPA)](http://www.ftc.gov/ogc/coppa1.htm), to collect no information online about or from children under the age of 13 except when it is needed to identify a submission or to answer a question. Any such instances where information is collected on Web pages for children will be clearly marked. Unless required by law or EPA obtains parental permission in writing, the information will not be used for other purposes or shared with third parties, nor will personally identifying information be published on the EPA website. When EPA offices identify the work product of a child under thirteen on the EPA public access website, only the first name, age, and home state of the child will be stated (e.g., Mike, age 7, Kentucky) unless the parent makes a hardcopy request to have additional information posted. [More information about EPA's Children's Privacy Policy (PDF)](http://www.epa.gov/irmpoli8/policies/2182p.pdf) (5 pp, 72 K, [About PDF](https://web.archive.org/home/pdf-files)).
+**Children’s Privacy** : Some EPA Web pages provide content to children. It is EPA policy, in compliance with the requirements of the [Children's Online Privacy Protection Act (COPPA)](http://www.ftc.gov/ogc/coppa1.htm), to collect no information online about or from children under the age of 13 except when it is needed to identify a submission or to answer a question. Any such instances where information is collected on Web pages for children will be clearly marked. Unless required by law or EPA obtains parental permission in writing, the information will not be used for other purposes or shared with third parties, nor will personally identifying information be published on the EPA website. When EPA offices identify the work product of a child under thirteen on the EPA public access website, only the first name, age, and home state of the child will be stated (e.g., Mike, age 7, Kentucky) unless the parent makes a hardcopy request to have additional information posted. [More information about EPA's Children's Privacy Policy](https://web.archive.org/irmpoli8/policy-protecting-childrens-privacy-and-copyright-epa-websites).
 
 Top of Page
 
