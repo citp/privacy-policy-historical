@@ -1,99 +1,81 @@
-> *The following text is extracted and transformed from the bucadibeppo.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608034549id_/http%3A//www.bucadibeppo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bucadibeppo.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207041115id_/http%3A//www.bucadibeppo.com/privacy-policy) for the most accurate reproduction.*
 
 # Buca di Beppo's Privacy Policy
 
-Your privacy is very important to BUCA, Inc.,  ("Buca", "we" or "us"), and we are committed to safeguarding your privacy.  In this privacy policy ("Privacy Policy"), the use of "You" or "Visitor(s)" refers to any user of the products or services offered on the Buca website ("Website").  All Website use is subject to this Privacy Policy.  Please read this Privacy Policy to understand the care with which Buca will treat your information.  If you have any questions about our Privacy Policy, please contact Buca at [privacy@bucainc.com](mailto:privacy@bucainc.com). 
+## Free Pasta On Us
 
-Buca has adopted this Privacy Policy in order to inform you of its policies with respect to information collected from the Website.  Your use of the Website constitutes your acceptance of this Privacy Policy and your consent to the practices it describes.  This is a Website-only privacy policy, and does not apply to the handling of your personal data collected by Buca or its affiliates/owner-operators by means other than the Website.
+### Sign up for our eClub to learn more!
 
-By accessing, using, browsing or downloading in any way, without limitation, any material on the Website, you agree to and are bound by this Privacy Policy, which may be amended from time to time.
+Your privacy is very important to BUCA, Inc.,  ("Buca", "we" or "us"), and we are committed to safeguarding your privacy.  In this privacy policy ("Privacy Policy"), the use of "You" or "Visitor(s)" refers to any user of the products or services offered on the Buca website ("Website").  All Website use is subject to this Privacy Policy.  Unless indicated otherwise, this Privacy Policy applies only to personal information collected through the Website, microsites, or mobile sites that expressly adopt, and display or link to, this Privacy Policy.  Please read this Privacy Policy to understand the care with which Buca will treat your information.  If you have any questions about our Privacy Policy, please contact Buca at [privacy@bucainc.com](mailto:privacy@bucainc.com).  Buca has adopted this Privacy Policy in order to inform you of its policies with respect to information collected from the Website.  Your use of the Website constitutes your acceptance of this Privacy Policy and your consent to the practices it describes.  This is a Website-only privacy policy, and does not apply to the handling of your personal data collected by Buca or its affiliates/owner-operators by means other than the Website. By accessing, using, browsing or downloading in any way, without limitation, any material on the Website, you agree to and are bound by this Privacy Policy, which may be amended from time to time.
 
-**Automatic Collection of Information** Certain information about Website visits is automatically recorded by the standard operation of the internet servers on which the Website is hosted.  The information Buca automatically collects may include IP addresses, type of browser being used by you, the number and frequency of visits to the Website, the date and time you access the Website, the length of your stay and the specific pages and links you access while visiting the Website, and demographic information concerning the country of origin of your computer and the language(s) used by it.
+#### Automatic Collection of Information
 
-**Collection of Information by Cookies**
+Certain information about Website visits is automatically recorded by the standard operation of the internet servers on which the Website is hosted.  The information Buca automatically collects may include IP addresses, type of browser being used by you, the number and frequency of visits to the Website, the date and time you access the Website, the length of your stay and the specific pages and links you access while visiting the Website, and demographic information concerning the country of origin of your computer and the language(s) used by it.
 
-The Website uses small files or records that are placed on your computer's hard drive to distinguish you from other Website visitors.  These small files are known as "cookies".  These cookies enable Buca to track how a visitor navigates through the Website and the areas in which they show interest. Information gathered may include date and time of visits, pages viewed, time spent at the site, and the website visited just before and just after a visit to our Website.  The Website may use both "session cookies" and "permanent cookies". 
+#### Collection of Information by Cookies
 
-Most computers are standardly programmed to accept cookies, but you can choose to have your browser warn you every time a cookie is being sent to you or you can turn off cookie placements. If you refuse cookies, there may be parts of the Website that may not function properly.
+The Website uses small files or records that are placed on your computer's hard drive to distinguish you from other Website visitors.  These small files are known as "cookies".  These cookies enable Buca to track how a visitor navigates through the Website and the areas in which they show interest. Information gathered may include date and time of visits, pages viewed, time spent at the site, and the website visited just before and just after a visit to our Website.  The Website may use both "session cookies" and "permanent cookies".  Most computers are standardly programmed to accept cookies, but you can choose to have your browser warn you every time a cookie is being sent to you or you can turn off cookie placements. If you refuse cookies, there may be parts of the Website that may not function properly.
 
-**Information You Voluntarily Submit**
+#### Information You Voluntarily Submit
 
 Buca may collect personal information (which may include first and last name, gender, birth date, physical addresses, e-mail address, home or mobile number, frequency of visits to Buca restaurants and any other information you voluntarily provide) ) when you voluntarily submit this information to Buca or voluntarily register as a user of the Website.  For example, you may choose to provide us with your personal information in order to participate in sweepstakes or contests or participate in a promotion, place online orders, purchase gift certificates, gift cards, or other merchandise, provide content submissions, join our customer loyalty program (if applicable), register for our Buca eClub,  contact Buca, make suggestions, or participate in online interactive activities, surveys or marketing research.
 
-**Use of Personal Information**
+#### Text Messaging
 
-Buca will not sell, rent or otherwise distribute your personal information, except as described in this Privacy Policy.  Buca, or service providers acting on behalf of Buca, may use information collected from the Website for any of the following purposes:
+If you've signed up for mobile text messaging from Buca di Beppo, you consent to receiving recurring text message alerts regarding exclusive offers and promotions. You understand that you do not have to sign up for this program in order to make any purchase, and your consent is not a condition of any purchase. Standard message and data rates may apply. You can opt out of receiving text messages from Buca di Beppo at any time.  To stop receiving our text messages, text STOP to 23776, or follow the opt out instructions included in the text messages you receive. You can also opt out by emailing [privacy@bucainc.com](mailto:privacy@bucainc.com). Include STOP in the subject line and your cell phone number in the body of your email. Text HELP to 23776 for more info, or contact us at [support@bucainc.com](mailto:support@bucainc.com).
 
-1)    send marketing and other communications to our visitors about Buca products or about the products and services of promotional partners that are not owned or affiliated with Buca;
+#### Use of Personal Information
 
-2)    to allow Buca to notify visitors of upcoming offers, events, promotions, or activities on the Website;
+Buca will not sell, rent or otherwise distribute your personal information, except as described in this Privacy Policy.  Buca, or service providers acting on behalf of Buca, may use information collected from the Website for any of the following purposes: 1)    send marketing and other communications to our visitors about Buca products or about the products and services of promotional partners that are not owned or affiliated with Buca; 2)    to allow Buca to notify visitors of upcoming offers, events, promotions, or activities on the Website; 3)    to conduct internal reviews of the Website (e.g. to determine the number of visitors to the Website); 4)    to fulfill prizes, awards and purchases; 5)    to respond to specific requests from Website visitors; 6)    to provide any necessary notices to Website visitors; 7)    to conduct marketing research; 8)    to protect the security or integrity of the Website; 9)    as permitted by, and to comply with, any regulatory or legal requirements; and 10)  for any other purpose to which you consent. We may also share personal information collected on the Website with any affiliate of Buca, its franchisees and any other future affiliates.
 
-3)    to conduct internal reviews of the Website (e.g. to determine the number of visitors to the Website);
+#### Social Networking Services
 
-4)    to fulfill prizes, awards and purchases;
+If you choose to access or make use of third party social networking services (for example, Facebook, Twitter or other services), we may receive personal information about you that you have made available to those services, including the geographic location of your mobile device and information about your contacts on those services. Some social networking services may allow you to transfer content from our Website to your contacts or to retrieve information about your contacts so you can connect with them on our Website. Some social networking services also will facilitate your registration for our Website or personalize or enhance your experience on our Website. Your decision to use a social networking service is completely voluntary. However, you should make sure you are comfortable with the information your third party social networking services may make available to our Website by visiting and reviewing the privacy policies of those third party social networking services' websites and by modifying your privacy settings directly on those websites. Any personal information we receive through third party social networking services may be used as described above.
 
-5)    to respond to specific requests from Website visitors;
+#### Personal Information about Children
 
-6)    to provide any necessary notices to Website visitors;
+Buca's Website is not intended for use by children under 13 years of age.  Accordingly, Buca does not knowingly collect age identifying information or personal information from children under 13 years of age at the Website.  Buca hereby advises all visitors to the Website under 13 years of age not to disclose or provide any personally identifiable information on the Website.  In the event Buca discovers that a child under the age of 13 has provided personally identifiable information on the Buca Website, Buca will not use this information and will delete the child's personally identifiable information from the Buca files to the extent technologically possible to maintain compliance with the Children's Online Privacy Protection Act ("COPPA").  If you have knowledge that a child has provided Buca personal information please contact Buca at[privacy@bucainc.com](mailto:privacy@bucainc.com).
 
-7)    to conduct marketing research;
+#### Personal Information
 
-8)    to protect the security or integrity of the Website;
+Buca strives to maintain precautions, internal controls and procedures to ensure that the personal information you share with Buca is handled in a safe, secure and responsible manner.  Buca employs security measures and safeguards to help protect the confidentiality and integrity of personal information and to reduce the risk of loss, unauthorized access, misuse, disclosure or alteration of the personal information in Buca's control.  Remember that any information or data transmitted electronically using the internet may not be absolutely secure.Buca assumes no liability for the loss of any information that you transmit to us using the internet.
 
-9)    as permitted by, and to comply with, any regulatory or legal requirements; and
-
-10)  for any other purpose to which you consent.
-
-We may also share personal information collected on the Website with any affiliate of Buca, its franchisees and any other future affiliates.
-
-**Social Networking Services** If you choose to access or make use of third party social networking services (for example, Facebook, Twitter or other services), we may receive personal information about you that you have made available to those services, including the geographic location of your mobile device and information about your contacts on those services. Some social networking services may allow you to transfer content from our Website to your contacts or to retrieve information about your contacts so you can connect with them on our Website. Some social networking services also will facilitate your registration for our Website or personalize or enhance your experience on our Website. Your decision to use a social networking service is completely voluntary. However, you should make sure you are comfortable with the information your third party social networking services may make available to our Website by visiting and reviewing the privacy policies of those third party social networking services' websites and by modifying your privacy settings directly on those websites. Any personal information we receive through third party social networking services may be used as described above.
-
-**Personal Information about Children**
-
-Buca's Website is not intended for use by children under 13 years of age.  Accordingly, Buca does not knowingly collect age identifying information or personal information from children under 13 years of age at the Website.  Buca hereby advises all visitors to the Website under 13 years of age not to disclose or provide any personally identifiable information on the Website.  In the event Buca discovers that a child under the age of 13 has provided personally identifiable information on the Buca Website, Buca will not use this information and will delete the child's personally identifiable information from the Buca files to the extent technologically possible to maintain compliance with the Children's Online Privacy Protection Act ("COPPA").  If you have knowledge that a child has provided Buca personal information please contact Buca at [privacy@bucainc.com](mailto:privacy@bucainc.com).
-
-**Security**
-
-**Personal Information**
-
-Buca strives to maintain precautions, internal controls and procedures to ensure that the personal information you share with Buca is handled in a safe, secure and responsible manner.  Buca employs security measures and safeguards to help protect the confidentiality and integrity of personal information and to reduce the risk of loss, unauthorized access, misuse, disclosure or alteration of the personal information in Buca's control.  Remember that any information or data transmitted electronically using the internet may not be absolutely secure.Buca assumes no liability for the loss of any information that you transmit to us using the internet.   
-
-**Credit Card**
+#### Credit Card
 
 Because your credit card security is a high priority, Buca and Buca's third party processing merchants take numerous steps to ensure your payment information is processed confidentially.  Website use is secured during transmission using industry standard e-commerce security technology such as Transport Layer Security (TLS) and its predecessor, Secure Sockets Layer (SSL), encryption technology. Buca uses TLS and SSL technology to prevent such information from being intercepted and read as it is transmitted over the Internet.
 
 Buca understands if you do not feel comfortable sending your credit card information to us over the Internet; therefore, Buca will accept your valid payment when you visit a Buca restaurant location or contact a Buca restaurant location via telephone. If you wish to purchase a gift card please visit the nearest Buca restaurant and indicate that you wish to purchase a gift card.
 
-**Linking To Third Party Websites**
+#### Linking To Third Party Websites
 
 When you click on Website links that may navigate you to a third-party website, you will be subject to that third party's privacy policy.  While Buca supports the protection of privacy on the internet, Buca is not responsible for the actions of any third-party websites.  Buca encourages you to carefully read and review the posted privacy statements of any and every website you visit, whether you are linking from the Website or browsing on your own.
 
-**United States Only**
+#### United States Only
 
 Our Website is intended for use by residents of the United States of America only. If you are located outside of the United States and you are visiting the Website, or if you otherwise  contact Buca, please be advised that any information you provide to us will be transferred to the United States and that by submitting information you explicitly authorize this transfer and the processing of this information within the United States.
 
-**Your California Privacy Rights** Under California Law, California residents have the right to request in writing from businesses with whom they have an established business relationship, (1) a list of the categories of personal information, such as name, address, e-mail address, and the type of services provided to the customer, that a business has disclosed to third parties (including affiliates that are separate legal entities) during the immediately preceding calendar year for the third parties' direct marketing purposes, and (2) the names and addresses of all such third parties. To request the above information, please e-mail us at: ___________________, or write to us at: BUCA, Inc., ATTN: Marketing Department, 4700 Millenia Blvd, Suite #400, Orlando, Florida 32839, with a specific reference to California Disclosure Information.  We will respond to such written requests within 30 days following receipt at the e-mail or mailing address stated above. If we receive your request at a different e-mail or mailing address, we will respond within a reasonable period of time. Please note that we are only required to respond to each customer once per calendar year.
+#### Your California Privacy Rights
 
-**Access to and Managing Your Personal Information**
+Under California Law, California residents have the right to request in writing from businesses with whom they have an established business relationship, (1) a list of the categories of personal information, such as name, address, e-mail address, and the type of services provided to the customer, that a business has disclosed to third parties (including affiliates that are separate legal entities) during the immediately preceding calendar year for the third parties' direct marketing purposes, and (2) the names and addresses of all such third parties. To request the above information, please e-mail us at: [privacy@bucainc.com](mailto:privacy@bucainc.com), or write to us at: BUCA, Inc., ATTN: Privacy Enforcement, 4700 Millenia Blvd, Suite #400, Orlando, Florida 32839, with a specific reference to California Disclosure Information.  We will respond to such written requests within 30 days following receipt at the e-mail or mailing address stated above. If we receive your request at a different e-mail or mailing address, we will respond within a reasonable period of time. Please note that we are only required to respond to each customer once per calendar year.
 
-To inquire about any portion of this Privacy Policy or our privacy practices, your personal information, updating your personal information, or if you want to "opt out" of receiving future marketing communications, please do one of the following:
+#### Access to and Managing Your Personal Information
 
-1)    Send an email with your request and current contact information to [privacy@bucainc.com](mailto:privacy@bucainc.com);  or
+To inquire about any portion of this Privacy Policy or our privacy practices, your personal information, updating your personal information, or if you want to "opt out" of receiving future marketing communications, please do one of the following: 1)    Send an email with your request and current contact information to [privacy@bucainc.com](mailto:privacy@bucainc.com);  or 2)    Send a request in writing with your current contact information to:
 
-2)    Send a request in writing with your current contact information to:
+Buca, Inc. Attn: Privacy Enforcement 4700 Millenia Blvd Suite #400 Orlando, Florida 32839
 
-Buca, Inc.  
-Attn: Privacy Enforcement  
-4700 Millenia Blvd  
-Suite #400  
-Orlando, Florida 32839
+#### Opting Out
 
-**Opting Out**
+**Email:** By providing your email address to Buca during your eClub sign up, you are opting-in to receive marketing emails from Buca di Beppo® and other restaurant concepts under the brand of Earl Enterprises® which include Planet Hollywood®, Planet Dailies® and Earl of Sandwich®. You can opt out of receiving our marketing eClub emails at any time. You may opt out of this list at any time. To stop receiving our marketing emails, email us at privacy@bucainc.com or follow the unsubscribe instructions included at the end of any marketing email you receive from us. Please note, however, that opting out of these emails will not stop operational or transactional emails, such as order confirmation or customer service email responses. If you notify us by email or letter request, be sure to include your full name, address, phone number and email address and indicate the specific nature of your request. If you want to "opt in" or "opt out" from receiving email marketing communications, specify the type of email marketing communication you wish to receive or stop receiving. Buca will take appropriate steps to implement your request. It may take up to ten (10) business days until the change(s) take effect. You may still receive or not receive marketing communications from Buca.
 
-If you send an e-mail or letter request, be sure to include your full name, address, phone number and e-mail address and indicate the specific nature of your request.  If you want to "opt in" or "opt out" from receiving marketing communications, specify the type of marketing communication you wish to receive or stop receiving. Buca will take appropriate steps to implement your request.  It may take up to ten (10) business days until the change(s) take effect. You may still receive or not receive marketing communications from Buca.
+**Text Messaging:** You can opt out of receiving text messages from Buca di Beppo at any time.   To stop receiving our text messages, text STOP to 23776, or follow the opt out instructions included in the text messages you receive . You can also opt out by emailing [privacy@bucainc.com](mailto:privacy@bucainc.com) . Include STOP in the subject line and your cell phone number in the body of your email.
 
-**Privacy Policy Changes  
-**  
-We may modify, update or supplement this Privacy Policy from time to time, so we encourage you to review our Privacy Policy frequently. Privacy Policy changes will apply to the information collected from the date we post the revised Privacy Policy to the Website, as well as to existing information held collected and maintained by us.  If we decide to change this policy in a material way, we will obtain the necessary consents required under applicable privacy laws if we seek to collect, use or disclose personal information for purposes other than those to which consent has been obtained, unless otherwise required or permitted by law.  We will update the date at the top of our Privacy Policy each time we make changes.
+#### Privacy Policy Changes
 
-**Privacy Policy Violations** If at any time you believe Buca has not adhered to the policies and principles set forth in the Privacy Policy, please notify Buca via email at [privacy@bucainc..com](mailto:privacy@bucainc..com) or via mail at:
+We may modify, update or supplement this Privacy Policy from time to time, so we encourage you to review our Privacy Policy frequently. Privacy Policy changes will apply to the information collected from the date we post the revised Privacy Policy to the Website, as well as to existing information held collected and maintained by us.  If we decide to change this policy in a material way, we will obtain the necessary consents required under applicable privacy laws if we seek to collect, use or disclose personal information for purposes other than those to which consent has been obtained, unless otherwise required or permitted by law.
+
+#### Privacy Policy Violations
+
+If at any time you believe Buca has not adhered to the policies and principles set forth in the Privacy Policy, please notify Buca via email at[privacy@bucainc.com](mailto:privacy@bucainc.com) or via mail at:
+
+Buca, Inc. Attn: Privacy Enforcement 4700 Millenia Blvd Suite #400 Orlando, Florida 32839
