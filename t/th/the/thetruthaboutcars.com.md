@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thetruthaboutcars.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627135241id_/http%3A//www.thetruthaboutcars.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thetruthaboutcars.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207155440id_/http%3A//www.thetruthaboutcars.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - The Truth About Cars
 
@@ -76,28 +76,31 @@ If you have questions or suggestions about this privacy statement, or your own p
 
   * [Mark Stevenson](https://web.archive.org/about/)  
 Managing Editor 
+  * [Aaron Cole](https://web.archive.org/about/)  
+News Editor 
   * [Murilee Martin](https://web.archive.org/about/)  
-Editor 
+Junkyard Find Editor 
   * [Sajeev Mehta](https://web.archive.org/about/)  
-Editor 
+Piston Slap Editor 
   * [Ronnie Schreiber](https://web.archive.org/about/)  
 Detroit Editor 
-  * [Tim Cain](https://web.archive.org/about/)  
-Sales Analyst 
-  * Mike Smitka Industry Editor 
-  * [Alex Dykes ](https://web.archive.org/about/)  
+  * [Timothy Cain](https://web.archive.org/about/)  
+Sales Editor 
+  * [Alex L. Dykes](https://web.archive.org/about/)  
 Road Test Editor
 
 
   * #### Contributing Writers
 
   * Jack Baruth, United States 
+  * Bark M., United States 
+  * Chris Tonn, United States 
+  * Doug DeMuro, United States 
+  * Steven Lang, United States 
   * Brendan McAleer, Canada 
-  * Marcelo De Vasconcellos, Brazil 
   * Vojta Dobes, Czech Republic 
   * Matthias Gasnier, Australia 
   * W. Christian 'Mental' Ward, United States 
-  * Cameron Aubernon, United States 
-  * J Emerson, United States
+  * Cameron Aubernon, United States
 
 
