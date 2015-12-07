@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the themesandmods.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607141158id_/http%3A//www.themesandmods.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the themesandmods.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207051227id_/http%3A//www.themesandmods.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy, Terms and Conditions, Themes and Mods
+# Privacy Policy, Terms and Conditions
 
 ## [ Privacy Policy ](http://www.themesandmods.com/privacy-policy/ "Permanent Link to Privacy Policy")
 
