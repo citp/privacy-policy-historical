@@ -1,15 +1,16 @@
-<!--The following is the downloaded HTML source of the taxaudit.com privacy policy that was archived on 2015-04-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150407145031id_/http%3A//www.taxaudit.com/privacy-statement) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the taxaudit.com privacy policy that was archived on 2015-12-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151207155458id_/https%3A//www.taxaudit.com/privacy-statement) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns:fb="http://ogp.me/ns/fb#"><head>
     <meta name="viewport" content="width=1100">
-    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><link rel="shortcut icon" href="/content/images/favicon.ico" type="image/x-icon"><title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=edge"><link rel="shortcut icon" href="/content/images/favicon.ico" type="image/x-icon"><title>
 	
     
 	Security and Privacy Guarantee | TaxAudit.com
 
 
 </title><link rel="stylesheet" type="text/css" media="all" href="/Content/Style/main.css">
+    
 
 
     <!--[if lt IE 9]>
@@ -19,6 +20,10 @@
     <script src="/scripts/js/jquery.cycle.js" type="text/javascript"></script>
     <script src="/scripts/js/jquery.cookie.js" type="text/javascript"></script>
     <script src="/scripts/js/main.js" type="text/javascript"></script>
+    <script src="/Scripts/js/moment.js"></script>
+    <script src="/Scripts/js/moment-timezone.js"></script>
+    <script src="/Scripts/js/moment-timezone-data.js"></script>
+
     
     
     <!--[if lt IE 9]>
@@ -61,7 +66,8 @@
                         if (!confirm("Are you sure you want to close this without sending a message?")) {
                             return false;
                         } else {
-                            jQuery.post('/audit/deletedraft', TR.Message);
+                            TR.Message.IsProcessing = true;
+                            jQuery.post('/audit/deletedraft', TR.Message.data);
                         }
                     }
 
@@ -129,31 +135,34 @@
 
         $(document).ready(function () {
             
+
         });
     </script>
 
     <meta property="og:image" content="http://taxaudit.com/content/Images/Tax-Audit-Help-Facebook.png"></head>
 
-<body class="   ">
+<body class="
+       
+    ">
 
     <div id="container">
         <header id="main-header" class="clear">
             <div class="wrapper">
                 <a href="/" id="logo">
-                    <img data-src="/content/Images/taxaudit-logo-tm.png" id="us-logo" src="/content/Images/taxaudit-logo-tm.png" alt="Tax audit defense firm TaxAudit.com from the experts at Tax Resources, Inc. ">
-                        <span data-alternate-tagline="Audits happen. Be prepared." id="logo-tagline">From the Experts at  TaxResources, Inc.</span>
-                        
-                 </a>
-                        
+                    <img data-src="/content/Images/tax-resources-tax-audit-defense-logo-R.png" id="us-logo" src="/content/Images/tax-resources-tax-audit-defense-logo.png" alt="Tax audit defense firm TaxAudit.com from the experts at Tax Resources, Inc. ">
+                    <span data-alternate-tagline="Audits happen. Be prepared." id="logo-tagline">From the Experts at  TaxResources, Inc.</span>
+
+                </a>
+                
                 <div id="action-links">
                     
-                        <span class="action-link">MEMBERS:</span>
-                        <a href="/reportaudit/begin" data-height="450" data-popup="false" class="highlight action-link">Report an Audit</a>
-                        <a href="/certificates/authenticate" class="action-link">Print Certificate</a>
-                        <a href="/login/login" class="highlight action-link">Secure Login</a>
+                    <span class="action-link">MEMBERS:</span>
+                    <a href="/reportaudit/begin" data-height="450" data-popup="false" class="highlight action-link">Report an Audit</a>
+                    <a href="/certificates/authenticate" class="action-link">Print Certificate</a>
+                    <a href="/login/login" class="highlight action-link">Secure Login</a>
                     
                     <div id="shopping-cart-link-container">
-                       <div id="shopping-cart-link">
+                        <div id="shopping-cart-link">
                             <a class="action-link" href="/shoppingCart/manage">Shopping Cart <span></span></a>
 
                             
@@ -170,7 +179,7 @@
     </div>
 </div>
 
-                       </div>    
+                        </div>
                     </div>
                 </div>
             </div>
@@ -188,7 +197,7 @@
             </div>
         </nav>
         <div id="main-content">
-            
+
             <div class="wrapper clear">
                 <!-- Inner Page Goes Here -->
                 <!--Inner Page Content-->
@@ -326,6 +335,8 @@
 
         </div>
     
+   
+ 
     <div id="primary">
 	    
         
@@ -378,8 +389,8 @@
                             Information Security Officer<br>
                             7803 Madison Avenue, Suite A–100<br>
                             Citrus Heights, CA 95610 USA
-                            Telephone: (866) 640–9695 or (916) 904–8176<br>
-                            Fax: (866) 650–9695 or (916) 904–8478<br>
+                            Telephone: 877.369.7827<br>
+                            Fax: 800.838.9114<br>
                             Email: <a href="mailto:privacy@taxaudit.com">privacy@taxaudit.com</a><br>
         
                             &nbsp;<br> 
@@ -388,8 +399,8 @@
                             Information Security Officer Suite 708<br>
                             1155 West Pender<br>
                             Vancouver, BC V6E 2P4<br>
-                            Canada Telephone: (866) 640–9695<br>
-                            Facsimile: (866) 650–9695<br>
+                            Canada Telephone: 877.369.7827<br>
+                            Facsimile: 800.838.9114<br>
                             Email: <a href="mailto:privacy@taxaudit.com">privacy@taxaudit.com</a><br> 
    		                    </blockquote>
                         <p></p>
@@ -779,19 +790,19 @@ TaxResources, Inc. shall limit the collection of personal information to that wh
         <footer id="main-footer">
             <div class="wrapper">
                 
-                    <div class="social-icon-links">
-                        <a href="https://plus.google.com/108956360560477918363" target="_blank" class="sil-gplus"></a>
-                        <a href="https://www.facebook.com/TaxAudit" target="_blank" class="sil-fb"></a>
-                        <a href="http://www.twitter.com/AuditDefense" target="_blank" class="sil-tw"></a>
-                        <a href="http://www.youtube.com/user/willitflytri" target="_blank" class="sil-yt"></a>
-                        <a href="http://blog.taxaudit.com" target="_blank" class="sil-m"></a>
-                        <a href="/feeds" class="sil-rss"></a>
-                    </div>
+                <div class="social-icon-links">
+                    <a href="https://plus.google.com/108956360560477918363" target="_blank" class="sil-gplus"></a>
+                    <a href="https://www.facebook.com/TaxAudit" target="_blank" class="sil-fb"></a>
+                    <a href="http://www.twitter.com/AuditDefense" target="_blank" class="sil-tw"></a>
+                    <a href="http://www.youtube.com/user/willitflytri" target="_blank" class="sil-yt"></a>
+                    <a href="http://blog.taxaudit.com" target="_blank" class="sil-m"></a>
+                    <a href="/feeds" class="sil-rss"></a>
+                </div>
                 
                 <ul id="main-footer-links">
                     <li><a href="/contact">Contact</a></li>
                     
-                    <li><a href="https://jobs.taxaudit.com" target="_blank">Careers</a></li>
+                    <li><a href="https://careers.taxaudit.com" target="_blank">Careers</a></li>
                     <li><a href="/US-Terms-of-Service">Terms</a></li>
                     <li><a href="/privacy-statement">Privacy</a></li>
                     <li><a href="/languages-supported">Free Translation</a></li>
@@ -804,61 +815,78 @@ TaxResources, Inc. shall limit the collection of personal information to that wh
                 <ul class="company-information">
                     
                     <li>Copyright © 1998-2015 TaxResources, Inc. All Rights Reserved</li>
-                    <li>TaxResources, Inc.</li>
-                    <li>TaxResources, Inc.   7803 Madison Ave   Suite A-100   Citrus Heights, CA 95610</li>
+                    <li>   7803 Madison Ave   Suite A-100   Citrus Heights, CA 95610</li>
                     <li>Phone 800.922.8348</li>
                     <li>Fax 800.838.9114</li>
                 </ul>
                 
-                    <ul class="company-information" style="padding-top: 5px;">
-                        <li>
-                            TaxAudit.com is the exclusive provider of Intuit® Audit Defense
-                        </li>
-                        <li>
-                            <a href="http://intuit.taxaudit.com/">US TurboTax® Audit Defense Site</a>
-                        </li>
-                        <li>
-                            <a href="http://turbotax.taxaudit.com/">Canada TurboTax® Audit Defence Site</a>
-                        </li>
-                    </ul>
+                <ul class="company-information" style="padding-top: 5px;">
+                    <li>TaxAudit.com is the exclusive provider of Intuit® Audit Defense
+                    </li>
+                    <li>
+                        <a href="http://intuit.taxaudit.com/">US TurboTax® Audit Defense Site</a>
+                    </li>
+                    <li>
+                        <a href="http://turbotax.taxaudit.com/">Canada TurboTax® Audit Defence Site</a>
+                    </li>
+                </ul>
                 
                 <ul class="business-logos" id="main-footer-logos">
                     
-                        <li>
-                             <a href="https://www.bbb.org/online/consumer/cks.aspx?id=110022218444" target="_blank"><img src="/content/images/bbb.png" alt="BBB"></a>                                
-                        </li>
+                    <li>
+                        <a href="https://www.bbb.org/online/consumer/cks.aspx?id=110022218444" target="_blank">
+                            <img src="/content/images/bbb.png" alt="BBB"></a>
+                    </li>
                     
-                        <li>
-                            <table width="135" border="0" cellpadding="2" cellspacing="0" title="Click to Verify - This site chose Symantec SSL for secure e-commerce and confidential communications.">
-				<tbody><tr>
-					<td width="135" align="center" valign="top"><script type="text/javascript" src="https://seal.websecurity.norton.com/getseal?host_name=www.taxaudit.com&amp;size=L&amp;use_flash=NO&amp;use_transparent=YES&amp;lang=en"></script><br>
-					<a href="http://www.symantec.com/ssl-certificates" target="_blank" style="color:#000000; text-decoration:none; font:bold 7px verdana,sans-serif; letter-spacing:.5px; text-align:center; margin:0px; padding:0px;">ABOUT SSL CERTIFICATES</a></td>
-				</tr>
-			    </tbody></table>
-                        </li>
+                    <li>
+                        <table width="135" border="0" cellpadding="2" cellspacing="0" title="Click to Verify - This site chose Symantec SSL for secure e-commerce and confidential communications.">
+                            <tbody><tr>
+                                <td width="135" align="center" valign="top">
+                                    <script type="text/javascript" src="https://seal.websecurity.norton.com/getseal?host_name=www.taxaudit.com&amp;size=L&amp;use_flash=NO&amp;use_transparent=YES&amp;lang=en"></script>
+                                    <br>
+                                    <a href="http://www.symantec.com/ssl-certificates" target="_blank" style="color: #000000; text-decoration: none; font: bold 7px verdana,sans-serif; letter-spacing: .5px; text-align: center; margin: 0px; padding: 0px;">ABOUT SSL CERTIFICATES</a></td>
+                            </tr>
+                        </tbody></table>
+                    </li>
                     <li>
                         <div style="text-align: left">
-                            <div id="db6e0564-5908-489d-b4c8-a58e27701dfd"> <script type="text/javascript" src="//privacy-policy.truste.com/privacy-seal/TaxResources,-Inc/asc?rid=db6e0564-5908-489d-b4c8-a58e27701dfd"></script><a href="//privacy.truste.com/privacy-seal/TaxResources,-Inc/validation?rid=f051f82d-e489-48cf-85b9-48921042c34a" title="TRUSTe online privacy certification" target="_blank"><img style="border: none" src="//privacy-policy.truste.com/privacy-seal/TaxResources,-Inc/seal?rid=f051f82d-e489-48cf-85b9-48921042c34a" alt="TRUSTe online privacy certification"></a></div>
+                            <div id="db6e0564-5908-489d-b4c8-a58e27701dfd">
+                                <script type="text/javascript" src="//privacy-policy.truste.com/privacy-seal/TaxResources,-Inc/asc?rid=db6e0564-5908-489d-b4c8-a58e27701dfd"></script>
+                                <a href="//privacy.truste.com/privacy-seal/TaxResources,-Inc/validation?rid=f051f82d-e489-48cf-85b9-48921042c34a" title="TRUSTe online privacy certification" target="_blank">
+                                    <img style="border: none" src="//privacy-policy.truste.com/privacy-seal/TaxResources,-Inc/seal?rid=f051f82d-e489-48cf-85b9-48921042c34a" alt="TRUSTe online privacy certification"></a></div>
                         </div>
                     </li>
                     <li>
-                        <div id="digicertsitesealcode" style="width: 81px; margin: 5px auto 5px 5px;" align="center">	                            
-                            <div id="DigiCertClickID_Vl143RYY" data-language="en_US">
-	             
+                        <div id="digicertsitesealcode" style="width: 81px; margin: 5px auto 5px 5px;" align="center">
+                            <!-- Begin DigiCert site seal HTML and JavaScript -->
+                            <div id="DigiCertClickID_Z4wOnmtq" data-language="en">
+                                        <a href="https://www.digicert.com/ssl-certificate.htm"></a>
                             </div>
                             <script type="text/javascript">
-                                var __dcid = __dcid || []; __dcid.push(["DigiCertClickID_Vl143RYY", "7", "s", "black", "Vl143RYY"]);
-                                (function () {
-                                    var cid = document.createElement("script"); cid.async = true; cid.src = "//seal.digicert.com/seals/cascade/seal.min.js";
-                                    var s = document.getElementsByTagName("script"); var ls = s[(s.length - 1)]; ls.parentNode.insertBefore(cid, ls.nextSibling);
-                                }());
-                            </script><script async="" src="//seal.digicert.com/seals/cascade/seal.min.js"></script>                            
+                                var __dcid = __dcid || []; __dcid.push(["DigiCertClickID_Z4wOnmtq", "10", "m", "black", "Z4wOnmtq"]); (function () { var cid = document.createElement("script"); cid.async = true; cid.src = "//seal.digicert.com/seals/cascade/seal.min.js"; var s = document.getElementsByTagName("script"); var ls = s[(s.length - 1)]; ls.parentNode.insertBefore(cid, ls.nextSibling); }());
+                            </script><script async="" src="//seal.digicert.com/seals/cascade/seal.min.js"></script>
+                            <!-- End DigiCert site seal HTML and JavaScript -->
                         </div>
                     </li>
                 </ul>
             </div>
+            <script type="text/javascript">
+                /* <![CDATA[ */
+                var google_conversion_id = 1068890215;
+                var google_custom_params = window.google_tag_params;
+                var google_remarketing_only = true;
+                /* ]]> */
+            </script>
+            <script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+            </script>
+            <noscript>
+                <div style="display: inline;">
+                    <img height="1" width="1" style="border-style: none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1068890215/?value=0&amp;guid=ON&amp;script=0" />
+                </div>
+            </noscript>
         </footer>
     </div>
+    
 
 
 </body></html>
