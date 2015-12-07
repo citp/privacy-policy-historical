@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amigobulls.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608012203id_/http%3A//amigobulls.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amigobulls.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207032729id_/http%3A//amigobulls.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy, amigobulls.com
 
@@ -43,5 +43,3 @@ We will not send you more than 2 emails per week without your explicit approval 
 CHANGES TO PRIVACY POLICY
 
 Amigobulls reserves the right to change the Privacy Policy & Terms of Use, at any time. You should check the Website frequently to see recent changes. For any queries regarding our Privacy Policy or Terms of Use, contact us at [contact@amigobulls.com](mailto:contact@amigobulls.com)
-
-Feedback
