@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blogbaker.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609092355id_/https%3A//www.sparklit.com/agreements.spark%3Fagreement%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blogbaker.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207091746id_/https%3A//www.sparklit.com/agreements.spark%3Fagreement%3Dprivacy) for the most accurate reproduction.*
 
 # 
 
