@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scaminformer.com privacy policy that was archived on 2013-08-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130808141004id_/http%3A//www.scamexposure.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scaminformer.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207065022id_/http%3A//www.scamexposure.com/privacy-policy.html) for the most accurate reproduction.*
 
 # scam Protection, scam Reports, Email List, Report scam Email, scam News and Information | scamExposure.com
 
