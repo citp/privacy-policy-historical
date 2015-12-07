@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ausbt.com.au privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608093931id_/http%3A//www.ausbt.com.au/etc/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ausbt.com.au privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207125145id_/http%3A//www.ausbt.com.au/etc/privacy) for the most accurate reproduction.*
 
 # Privacy - Australian Business Traveller
 
