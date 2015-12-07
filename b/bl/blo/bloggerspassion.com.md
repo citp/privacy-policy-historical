@@ -1,18 +1,16 @@
-> *The following text is extracted and transformed from the bloggerspassion.com privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611124123id_/http%3A//bloggerspassion.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bloggerspassion.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207133406id_/http%3A//bloggerspassion.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy: BloggersPassion
 
-Last Updated On: 9/07/ 2011 
-
-[](http://bloggerspassion.com/go/Bluehost-Hosting.php "Host Your Wordpress Blog with Bluehost for $3.49/month Only")
+[](http://bloggerspassion.com/go/Bluehost-Hosting.php "Host Your Websites and WordPress Blogs with Bluehost for $3.49/month Only")
 
 At Bloggerspassion.com, we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use visit Bloggerspassion.com, and how we safeguard your information. We never sell your personal information to third parties.
 
-**Log Files**
+ **Log Files**
 
 As with most other websites, we collect and use the data contained in log files. The information in the log files include your IP (internet protocol) address, your ISP (internet service provider, such as AOL or Shaw Cable), the browser you used to visit our site (such as Internet Explorer or Firefox), the time you visited our site and which pages you visited throughout our site.
 
-**Cookies and Web Beacons**
+ **Cookies and Web Beacons**
 
 We do use cookies to store information, such as your personal preferences when you visit our site. This could include only showing you a popup once in your visit, or the ability to login to some of our features, such as forums.
 
