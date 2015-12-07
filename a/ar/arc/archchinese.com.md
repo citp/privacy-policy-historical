@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the archchinese.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608161157id_/http%3A//www.archchinese.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the archchinese.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207104101id_/http%3A//www.archchinese.com/privacy.html) for the most accurate reproduction.*
 
-# Arch Chinese - Free Chinese Character Learning, Free Character Stroke Order Animation and Dictionary, Free Chinese Character Flashcards, Free Chinese character stroke sequence, Free Chinese Character Writing Worksheet,Chinese-English dictionary, Chinese Characters, chinese word stroke order, animated chinese characters strokes , mandarin writing worksheet,Chinese characters pinyin English, chinese radicals learning software,chinese radicals characterlearning software Linux,Chinese radicals character learning software Mac OS X, chinese characters flashcards print, animated chinese characters strokes, mandarin writing worksheet
-
-**\- Privacy Policy**
+# Arch Chinese - Learn to read and write Chinese characters
 
 **1\. Our Goals**  
 Arch Chinese has policies regarding the use of member or visitor information gathered when visiting our web pages. We strive to balance your wishes for privacy with our need to use technology to serve you to the best of our ability. 
@@ -18,3 +16,6 @@ Other than names and email addresses, we do not gather or maintain any other per
 
 **5\. Compliance with Children's Online Privacy Protection Act**  
 As an online learning service, we do not target our offerings toward, and do not knowingly collect any personal information from users under 13 years of old. 
+
+  
+
