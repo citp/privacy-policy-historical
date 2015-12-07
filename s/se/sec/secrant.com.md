@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the secrant.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120055906id_/http%3A//www.secrant.com/news/0/33499413/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the secrant.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207040224id_/http%3A//www.secrant.com/site-matters/privacy-policy/33499413) for the most accurate reproduction.*
 
-# Privacy Policy | SECRant.com
+# Privacy Policy - 5/15/12 | SECRant.com
 
 Your privacy is important to us. To protect your privacy we provide this notice explaining our privacy practices and the ways your information is collected and used. 
 
