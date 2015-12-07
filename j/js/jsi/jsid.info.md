@@ -1,76 +1,100 @@
-> *The following text is extracted and transformed from the jsid.info privacy policy that was archived on 2013-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130515111252id_/http%3A//justplug.it/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jsid.info privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208004042id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
 
-# JustPlugIt | Privacy Policy
+# Legal Agreement
 
-This website (the "Site") and the services/products/software provided herein (the " **Services** "), as defined below, is made available to you by Standart LLC ("Standart"). In this Privacy Policy we explain the type of information we collect through our Site, and Services, and what we do with such information.
+**GoDaddy Respects Your Privacy**
 
-This Privacy Policy is part of our Terms and conditions available at:
+**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
 
-[Terms of service](https://web.archive.org/web/20130515111252id_/http%3A//justplug.it/terms.html)
+**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
 
-If you choose to enter our Site and use our Services you will be bound by the terms of this Privacy Policy and our Terms and Conditions.
+**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
 
-As used in this Privacy Policy, the terms: "the company", "we" and "us" refer to Standart LLC. or any successor or assign of Standart LLC.
+**Information Collection and Use**
 
-  
+Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
 
+We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
 
-## Privacy and use of information
+We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
 
-Standart' personal information practices are governed by this Privacy Policy. Please review it before making any use of our Site and Services. 
+We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
 
-By using the Services you also agree to this privacy statement. You acknowledge that (a) we cannot ensure the security or privacy of information you provide through the Internet and your email messages, and you release us from any and all liability in connection with the use of such information by other parties; (b) we are not responsible for, and cannot control, the use by others of any information which you provide to them and you should use caution in selecting the personal information you provide to others through the service; and (c) we cannot assume any responsibility for the content of messages sent by other users of the service, and you release us from any and all liability in connection with the contents of any communications you may receive from other users. We cannot guarantee, and assume no responsibility for verifying, the accuracy of the information provided by other users of the service.
+We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
 
-You may be asked to provide us, during the registration process and use of the Service, with two types of information; personal information such as name, address, e-mail address and e-mails, and any other personal information, if required.
+Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
 
-When you use the Service and/or log on to the Site, we may collect and receive your browser information, including IP address, "cookies" information [email name IP address cookie].
+This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
 
-We may provide your personal information to third parties since our Service is also supplied by third parties. Please note that these third parties may have a different privacy policy.
+**Security**
 
-As specified above, we may collect certain information about you and your web usage, which may be shared with third parties and used for advertising. NOTE: OUR SOFTWARE AND OTHER SERVICES COLLECT AND STORES INFORMATION CONCERNING YOUR ACTIVITY ON THE WEB, SUCH AS YOUR IP ADDRESS. IN SOME CASES, INFORMATION COLLECTED BY OUR SERVICES MAY BE PERSONALLY IDENTIFIABLE, AND IN SOME CASES INFORMATION (INCLUDING INFORMATION FROM OR ABOUT PAGES OF SOCIAL MEDIA WEBSITES YOU VISIT) MAY BE USED OR SHARED WITH THIRD PARTIES FOR PURPOSES OF DISPLAYING TARGETED ADVERTISEMENTS PROMOTIONAL AND MARKETING MATERIAL TO YOU.
+This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.  We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it.  No method of transmission over the Internet, or method of electronic storage, is 100% secure, however.  Therefore, we cannot guarantee its absolute security.
 
-We may also release your information when we believe that such release is necessary in order to: (a) protect or defend any of our legal rights (including enforcement of agreements that we have interest in) or property, our affiliated companies or their employees, agents and contractors; (b) comply with applicable law, legal process or enforce our site policies. (c) Protect the safety and security of users of our Site and any of our Services or members of the public; or (d) protect against fraud or carry out our risk management procedures.
+**Updating Your Information**
 
-  
+You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
 
+        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
 
-## Unsolicited Submission Policy
+       ii.      You may send mail to GoDaddy at the following postal address:   
+               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
 
-Standart does not accept, by any means of transmission, any unsolicited submissions, in any form whatsoever including, without limitation, any marketing, advertising and/or creative suggestions, scripts, lyrics, jingles, product samples, prototypes, movies and/or games (hereinafter referred to as "Submissions"). If you elect to forward to us any such Submission, then by doing so, you acknowledge that said Submission has not been requested by us and that (1) we are not liable for any use, disclosure, or return to you of your Submission, (2) no confidential relationship is established or is to be implied in any way from our receipt of the Submission and any statement to the contrary with your Submission shall not alter this condition, (3) you understand that you will not be entitled to any compensation from us based upon your Submission, (4) the receipt of your Submission shall not constitute a waiver by us of our rights to contest the validity of any copyright, or other intellectual property rights that you may now or hereafter claim for the Submission, and (5) any previously, concurrently or subsequently submitted materials relating to this Submission shall be considered to have been submitted in accordance with these conditions.
+      iii.      You may call us at: (480) 505-8800
 
-  
+       iv.      You may fax us at: (480) 505-8844
 
+**Sending Emails**
 
-## Modifications
+We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
 
-Standart LLC. reserves the right to modify this Privacy Policy from time to time at its sole discretion. Such modifications shall be in full force and effect immediately upon publication. Notification of changes in this Privacy Policy will be posted on the Service/ Site (as defined in the Terms and Conditions) or sent via electronic mail, as we may determine in our sole discretion. If you do not agree to any modifications, you should terminate your use of the service/software immediately upon the publications of such change. Your continued use of the service/software now, or following the posting of notice of any changes in this Privacy Policy, will constitute a binding acceptance by you of this Privacy Policy, or any subsequent modifications.
+The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
 
-  
+**Compliance with Laws and Law Enforcement**
 
+We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
 
-## Disclosure and communication
+**Third Party Service Providers**
 
-We reserve the right to send electronic mail to you, for the purpose of informing you of changes or additions to the service, or of any service's related products and services. We reserve the right to disclose information about your usage of the service and demographics in forms that do not reveal your personal identity.
+We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
 
-  
+In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel GIF or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
 
+**Supplementation of Information**
 
-## "RSS" Feeds
+In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
 
-RSS feeds may be provided as a quick and easy way for you to distribute information from the web site or from your online account. RSS feeds are accessible through an XML-based URL that can be accessed with an RSS reader of your choice. You consent that the information in the feeds will be transferred to the location in which you enable the RSS feed. Standart will not pass any personally identifiable information in your feed. However, your use of an RSS feed may cause personally identifiable information that is associated with the RSS feed to be associated with you. You acknowledge that your use of an RSS feed and any personally identifiable information associated with it is at your sole discretion and risk.
+**Contests/Surveys**
 
-Use of the service's RSS feeds is for non-commercial, personal use and whether or not you use an RSS feed is entirely at your discretion. You may not modify the RSS feeds. If an RSS feed contains an attribution to the service, you may not remove the attribution. Standart provides no warranty regarding its RSS feeds and reserves the right to terminate or modify the feeds at any time without notice. Standart is not responsible for any loss or damage incurred by you or anyone else due to your use of an RSS feed.
+From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
 
-  
+We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
 
+**Tell-A-Friend**
 
-## Language
+If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. GoDaddy will automatically send the friend a one-time email inviting them to visit our Site. GoDaddy stores this information for the sole purpose of sending this one-time email. The friend may contact GoDaddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
 
-You agree that this Privacy Policy, the Site and the Service and all communications with Standart shall be in the English language.
+**What Happens to my Personal Information if I Opt Out?**
 
-  
+If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information as necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
 
+**Transfer of Data Abroad**
 
-## Entire Agreement
+If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
 
-You agree that this Privacy Policy and the Terms and Conditions constitute the entire agreement between you and Standart with respect to your use of this Site and the Service and supersede all previous agreements, understandings and representations relating thereto.
+**Changes in Our Practices**
+
+We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+
+If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
+
+**Contacting Our Site**
+
+If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
+
+* * *
+
+GoDaddy   
+ATTN: Web Team   
+14455 North Hayden Rd.   
+Suite 219   
+Scottsdale, AZ, 85260, U.S.A.
