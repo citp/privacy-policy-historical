@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the donnamerrilltribe.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608124007id_/http%3A//legal.donnamerrilltribe.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the donnamerrilltribe.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207133225id_/http%3A//legal.donnamerrilltribe.com/privacy) for the most accurate reproduction.*
 
 # Online Legal Pages
 
