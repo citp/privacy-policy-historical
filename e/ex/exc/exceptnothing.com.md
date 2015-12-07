@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the exceptnothing.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608093424id_/http%3A//www.exceptnothing.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the exceptnothing.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207102435id_/http%3A//www.exceptnothing.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
