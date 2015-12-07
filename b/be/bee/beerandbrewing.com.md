@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the beerandbrewing.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607230357id_/http%3A//beerandbrewing.com/cbbinfo/VJRyeCsAACsA1OIh/Privacy%2520Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beerandbrewing.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207130827id_/http%3A//beerandbrewing.com/cbbinfo/VJRyeCsAACsA1OIh/Privacy%2520Policy) for the most accurate reproduction.*
 
-# CB&B Information | Craft Beer & Brewing Magazine
+# Privacy Policy || Craft Beer & Brewing Magazine
 
 ### General Matters
 
