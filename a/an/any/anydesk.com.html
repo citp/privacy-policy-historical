@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the anydesk.com privacy policy that was archived on 2015-06-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150607200231id_/http%3A//anydesk.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the anydesk.com privacy policy that was archived on 2015-12-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151207101941id_/http%3A//anydesk.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en"><head>
 		<title>AnyDesk - Privacy Statement</title>
@@ -39,7 +39,7 @@
 		<script type="text/javascript" src="/_static/scripts/jquery.selectric.min.js"></script>
 		<script type="text/javascript" src="/_static/scripts/jquery.sharre.min.js"></script>
 		<script type="text/javascript" src="/_static/scripts/jquery.slicknav.min.js"></script>
-		<script type="text/javascript" src="/_static/scripts/hyphenator.js"></script>
+		<script type="text/javascript" src="/_static/scripts/hyphenator_loader.js"></script>
 		
 		
 		
@@ -48,17 +48,28 @@
 			(i[r].q=i[r].q||[]).push(arguments);},i[r].l=1*new Date();a=s.createElement(o),
 			m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m);
 			})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
+						
 			ga('create', 'UA-50741004-1', 'auto', {'allowLinker' : true});
 			ga('require', 'linker');
-			ga('linker:autoLink', ['anydesk.de', 'anydesk.fr', 'anydesk.es', 'anydesk.pl', 'anydesk.pt', 'anydesk.se']);
+			ga('linker:autoLink', ['anydesk.de', 'anydesk.es', 'anydesk.fr', 'anydesk.it', 'anydesk.pt', 'anydesk.dk', 'anydesk.se', 'anydesk.pl', 'anydesk.cz', 'anydesk.sk', 'anydesk.gr', 'order.anydesk.com']);
 			ga('set', 'anonymizeIp', true);
+			
+			var tracker;
+			ga(function(t) {tracker = t;});
+			
 			ga('send', 'pageview');
 		</script>
 
 		<script type="text/javascript">
-			var changeLanguage = function() {
+			var changeLanguage = function() {				
 				var href = $( this ).find( "option:selected" ).attr( "value" );
+				
+				if (tracker)
+				{
+					var linker = new window.gaplugins.Linker(tracker);
+					href = linker.decorate(href);
+				}
+				
 				window.location = href;
 			};
 			
@@ -66,6 +77,11 @@
 				 api.simulateClick();
 				 api.openPopup( name );
 			};
+			
+			var onDistroSelect = function() {
+				$( "#download-linux li" ).hide();
+				$( "#download-linux li[data-distro='" + $( "#distro-sel" ).val() + "']" ).show();
+			}
 		
 			$( document ).ready( function() {
 				$( ".lang-select" ).change( changeLanguage );
@@ -74,8 +90,15 @@
 				$( "#footer-share-twitter"  ).sharrre( { share : { twitter    : true }, click : onShareClick.curry( "twitter"    ), enableHover : false } );
 				$( "#footer-share-plusone"  ).sharrre( { share : { googlePlus : true }, click : onShareClick.curry( "googlePlus" ), enableHover : false, urlCurl : "/sharrre.php" } );
 				$( "#menu" ).slicknav( { prependTo : "#menu", label : "" } );
-				Hyphenator.run();
+				$( "#distro-sel" ).change( onDistroSelect );
+				onDistroSelect();
 			} );
+			
+			if (typeof Hyphenator !== 'undefined')
+			{
+				Hyphenator.config({useCSS3hyphenation: true , onerrorhandler : function(){} });
+				Hyphenator.run();
+			}
 		</script>
 		<link rel="stylesheet" href="/_static/style/main.css" type="text/css">
 		<link rel="stylesheet" href="/_static/style/rwdgrid.css" type="text/css">
@@ -292,10 +315,11 @@
 						<li><a href="./technology">Technology</a></li>
 						<li><a href="./references">References</a></li>
 						<li><a href="./order" class="buy">Order</a></li>
+						<li id="myad"><a href="https://my.anydesk.com/">my AnyDesk</a></li>
 					</ul>
 					<ul id="footer-contact">
-						<li><a href="https://my.anydesk.com/">my AnyDesk</a></li>
 						<li><a href="http://support.anydesk.com/">Help &amp; Support</a></li>
+						<li><a href="./jobs">Jobs</a></li>
 						
 						<li><a href="./press">Press</a></li>
 						<li><a href="./contact">Contact</a></li>
