@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alienvalley.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608050900id_/http%3A//alienvalley.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alienvalley.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207135021id_/http%3A//alienvalley.com/privacy.php) for the most accurate reproduction.*
 
 # AlienValley - Privacy Policy
 
