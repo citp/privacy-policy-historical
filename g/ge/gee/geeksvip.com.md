@@ -1,104 +1,90 @@
-> *The following text is extracted and transformed from the geeksvip.com privacy policy that was archived on 2012-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120318163315id_/http%3A//www.vipgeek.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geeksvip.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207153413id_/http%3A//www.pressroomvip.com/privacy-policy) for the most accurate reproduction.*
 
-# VIPGeek 1-800-VIP-GEEK, Computer Repair Chicago IL & Computer Service Chicago Illinois
+# Privacy Policy | PressRoomVIP
 
-  
+This Privacy Policy discloses the privacy practices for the pressroomvip.com website (the “Website”). CPX Interactive Holdings LP, the provider of the Website (referred to as “CPXi” “us” or “we”), is committed to protecting your privacy online. Please read the following to learn what information we collect from you (the “User” or the “End User”) and how we use that information. If you have any questions about our privacy policy, please email us.
 
+**PLEASE READ THIS PRIVACY POLICY CAREFULLY. BY ACCESSING OR USING OUR WEBSITE, YOU ACKNOWLEDGE THAT YOU HAVE READ, UNDERSTAND, AND AGREE TO BE BOUND TO ALL THE TERMS OF THIS PRIVACY POLICY AND OUR WEBSITE TERMS OF USE. IF YOU DO NOT AGREE TO THESE TERMS, EXIT THIS PAGE AND DO NOT ACCESS OR USE THE WEBSITE.**
 
-**Your Privacy is Important**
+**1\. Changes to Privacy Policy** If we decide to change our privacy policy, we will post those changes to this privacy statement, the home page, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of notice on our home page.
 
-_**Last Updated on 11/15/2009**_
+**2\. Types of Information Collected and Uses of Collected Information** We collect two types of information about our Website Users: Personally Identifiable Information and Non-Personally Identifiable Information.
 
-  
-VIPGeek Corporation dba www.vipgeek.com has created this privacy statement in order to demonstrate our firm commitment to internet privacy. The following discloses our information gathering and dissemination practices for the vipgeek.com web site. VIPGeek is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build user’s trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the site [http://www.vipgeek.com/privacy.php](https://web.archive.org/web/20120318163315id_/http%3A//www.vipgeek.com/privacy.php). Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
+**Personally Identifiable Information**. Personally Identifiable Information is information that identifies a specific End User. When you engage in certain activities on the Website, such as creating an account, ordering a product or service from us or our partners, submitting content and/or posting content in discussion forums, entering a contest or sweepstakes sponsored by us or our partners, filling out a survey, posting a review, sending us or our partners feedback, requesting information about our services, or signing up for special offers from third parties through the Website (collectively, “Identification Activities”), we may ask you to provide certain information about yourself. It is optional for you to engage in an Identification Activity. If you elect to engage in an Identification Activity, however, we may ask you to provide us with certain personal information about yourself, such as your first and last name, mailing address (including zip code), email address, telephone number and date of birth. When you order products or services, we may also ask you to provide us with your credit card number, expiration date and authentication codes or related information. Depending on the activity, some of the information we ask you to provide is identified as mandatory and some is identified as voluntary. If you do not provide the mandatory information for a particular activity that requires it, you will not be permitted to engage in that activity.We use Personally Identifiable Information to provide products and services to you, administer sweepstakes and contests, enhance the operation of the Website, improve our marketing and promotional efforts, analyze Website use, improve our product and service offerings, and to tailor your experience with third parties as provided in Item 3 of this Privacy Policy. For example, if you send our customer service an email we may use your comments and feedback to tell others about our services, and may post your comment in our marketing materials or on our Website. Your comments may contain personal information such as your name, we will obtain consent from you to post your name along with your comment prior to posting your comment for public view. In addition, if you use our Website to send information or a product to another person, we may store your personal information. We may also use Personally Identifiable Information to troubleshoot, resolve disputes, accomplish administrative tasks, contact you, enforce our agreements with you, including our Website Terms of Use and this Privacy Policy, comply with applicable law, and cooperate with law enforcement activities.
 
-  
-If you have questions or concerns regarding this statement, you should first contact Kathy Glogowski at kglogowski@vipgeek.com . If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily address, you should contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php> . TRUSTe will then serve as a liaison with us to resolve your concerns.
+**Non-Personally Identifiable Information**. Non-Personally Identifiable Information is information that does not identify a specific End User. This type of information may include things like the Uniform Resource Locator (“URL”) of the website you visited before coming to our Website, the URL of the website you visit after leaving our Website, the type of browser you are using and your Internet Protocol (“IP”) address. We, and/or our authorized Third Party Service Providers and Advertisers, may automatically collect this information when you visit our Website through the use of electronic tools like Cookies and Web beacons or Pixel tags, as described in Items 4 and 8 of this Privacy Policy.
 
-  
-**Environment Variables**
+We use Non-Personally Identifiable Information to troubleshoot, administer the Website, analyze trends, gather demographic information, comply with applicable law, and cooperate with law enforcement activities. We may also share this information with our authorized Third Party Service Providers and Advertisers to measure the overall effectiveness of our online advertising, content, and programming.
 
-  
-We may record your environment variables, such as your IP address, host name, browser type, operating system, etc., to help diagnose problems with our server, and to administer our Web site. This information may be used to help identify you and your shopping cart, track referrals, prevent or report incidents of credit card fraud or for other purposes deemed reasonable and necessary.  
-Registration and Order Forms 
+**3\. Release of Personally Identifiable Information** ****
 
-The VIPGeek Affiliate Program collects information from the new affiliate such as their name, address, number, web site URL & SSN Social Security Number of the affialte or TAX ID Number of the affialtes company. This information is used for purposes of creating a 1099 Tax Form for reporting income earned in excess of $600.00 by VIPGeek Affiliates to the IRS (Internal Revenue Service). 
+We will not share, sell, rent, or trade your Personally Identifiable Information with other parties except as provided below:
 
-**Customer Information Updating**
+**We may share your information with Website Merchants**. From time to time, we provide offers from particular merchants (referred to as “Website Merchants”) who, as part of the offer, request information on customers who purchased the offer in order to aid redemption. In those cases, we share some of your Personally Identifiable Information with Website Merchants. Sharing this Information may allow a Website Merchant to market directly to you should they choose to do so. However, we will only share Personally Identifiable Information with a Website Merchant if you engage in an Identification Activity, and then only to the Website Merchant involved in that Identification Activity. We specifically disclaim any responsibility or liability for the actions of such Website Merchant. While we inform them that they are only permitted to communicate with you for the purposes of the specific promotion, we do not have any responsibility for the actions of the Website Merchant, and the actions of the Website Merchant are not in our control.
 
-If your personally identifiable information changes, or if you no longer desire our service, you may [correct, update, delete or deactivate it] by making the change on our member information page located at <https://www.vipgeek.com/members.php> [or by emailing our Customer Support at webmaster@vipgeek.com ] or by contacting us by telephone or postal mail at the contact information listed below.
+**We may share your information with Authorized Third Party Service Providers**. We provide services and products through third parties. These “Third Party Service Providers” perform functions on our behalf, like sending out and distributing our administrative and promotional emails. We may share your Personally Identifiable Information with such Service Providers to fulfill orders, deliver packages, send postal or email, administer contests or sweepstakes, remove repetitive information on customer lists, analyze data, provide marketing assistance, provide search results and links, process credit card payments, operate the Website, troubleshoot, and provide customer service. We may also collect personal information from individuals and companies (“Affiliates”) with whom we have business relationships and may share your information with Service Providers to accomplish our administrative tasks. For example, when you order a service, we release your credit card information to the card-issuing bank to confirm payment for the service and, if applicable, release your address to the delivery service to deliver the service. Likewise, we may release an Affiliate’s information to our bank to send out a payment. We encourage Website Merchants and Third Party Service Providers to adopt and post privacy policies. However, the use of your Personally Identifiable Information by such parties is governed by the privacy policies of such parties and is not subject to our control.
 
-  
-**Web Cookies**
+**We may share your information in a Business Transfer**. As with any other business, we could merge with, or be acquired by another company. If this occurs, the successor company would acquire the information we maintain, including Personally Identifiable Information. However, Personally Identifiable Information would remain subject to this Privacy Policy.
 
-A cookie is a small text file that is stored on a user’s computer for record-keeping purposes. We use cookies on this site. We do not link the information we store in cookies to any personally identifiable information you submit while on VIPGeeks’ site.
-
-We use session cookies on our site. A session ID cookie expires when you close you browser. We use a session cookie to process your information on our web ordering form for purchasing our services such as Web Hosting, Email Hosting, Domain Purchase and / or Web Design signup.
-
-**Social Security Numbers**
-
-We require your SSN (social security number) to provide us information required for the VIPGeek’s Affiliate Program which allows an individual to make referrals to others about our services an receive a 20% commission. Your SSN will be reported to the IRS for any income earned over $600.00 for the active year of participation. When you enter your social security number on our registration form, we encrypt it using secure socket layer technology (SSL). 
-
-Site registration and/or order forms may require users to give us contact information (like their name and email address), unique identifiers (like their social security number), and financial information (like their account or credit card numbers). We use customer contact information from the registration form to send the user information about our company and to fulfill delivery of ordered products and services. The customer's contact information is also used to contact the visitor when necessary. Financial information that is collected is used to check the users' qualifications for registration and to bill the user for products and services. Unique identifiers (such as social security numbers) are collected to verify the user's identity and for use as account numbers in our record system.
-
-Potentially sensitive information (e.g., credit card numbers) is collected through secure server connections. VIPGeek Corporation believes that e-mail transmission of sensitive information is at least as secure as normal and customary non-internet transactions. Visitors always have the option to provide this information in an alternative format. The security of your personal information is important to us. When you enter sensitive information (such as credit card number and/or social security number) on our registration or order forms, we encrypt that information using secure socket layer technology (SSL).
-
-We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.  
-
-
-If you have any questions about security on our Web site, you can send email us at webmaster@vipgeek.com.
-
-**Third Party Access to Information**
-
-We use a Third Party Merchant Credit Card Company to process your information which is collected on our site for services such as Web Hosting , Email Hosting, or Web Design. We will share you name, address, phone number and credit card information with VIPGeek’s Merchant provider. This is necessary for processing your credit card for above noted services.
-
-Some information may be shared with third-party companies. Only such information as is necessary in order to process payments, and to fulfill product and service delivery requirements will be provided to third-parties. VIPGeek Corporation will comply with any subpoena or summons issued by any federal, state, or local law enforcement or judicial agencies for information. We may voluntarily provide unsolicited information to appropriate authorities if we believe the information is relevant to a criminal investigation. Unless clearly and specifically stated at the point the information is gathered, we will not sell, give away, or otherwise share information about you for any purpose other than the purposes mentioned in this document.
-
-Our web site may contain links to other, non-VIPGeek sites. VIPGeek Corporation is not responsible for the privacy practices or the content of such Web sites.
-
-**Privacy Policy Changes**
+**We may share your information for our Protection and the Protection of Others**. We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or comply with a judicial proceeding, court order, or legal process served on our Website; enforce or apply this Privacy Policy, our Website Terms of Use or other agreements; or protect the rights, property or safety of the Website, its Users or others.
 
   
-If we decide to change our privacy policy, we will post those changes to this privacy statement, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you by means of a notice on our homepage.
+**4\. Release of Non-Personally Identifiable Information** ****
 
-**Public Forums**
+We may disclose or share Non-Personally Identifiable Information with Partners, Affiliates and Advertisers. For example, we may share aggregated demographic information (which does not include any Personally Identifiable Information) with “Third Party Advertisers” or “Third Party Advertising Companies” and other parties as provided below:
 
-We post customer testimonials on our web site which may contain personally identifiable information such as the customer's name. We do obtain the customer's consent prior to posting the testimonial to post their name along with their testimonial.
+We use Third Party Advertising Companies to serve ads. Advertisers may collect data about your online browsing activity and use it to show you targeted ads (a process known as “behavioral advertising”).
 
-Our site may make chat rooms, forums, message boards, and/or news groups available to its users. Please remember that any information that is disclosed in these areas becomes public information. You should exercise caution when deciding to disclose your personal information.
+You can prevent these companies from showing you targeted ads by submitting opt-outs. Opting-out will only prevent targeted ads so you may continue to see generic (non-targeted ads) from these companies after you opt-out. 
 
-**Security**
+To opt out you can can visit the the Digital Advertising Alliance’s opt-out page to opt-out by clicking [here](http://www.aboutads.info/choices/).
 
-Our site has security measures in place to protect the loss, misuse and alteration of the information under our control. These measures include the use of secure servers to collect the information, encrypted databases, storage of the information in non-public areas of the servers, and other measures as deemed reasonable and necessary.
+You may opt in to behaviorally targeted ads anytime by deleting your browser’s cookies.
 
-**Supplementation Information**
+We also use Third Party Service Providers to track and analyze Non-Personally Identifiable usage and volume statistical information from our Users to administer our Website and constantly improve its quality. We may also publish this information for promotional purposes or as a representative audience for Advertisers. Please note that this is not Personally Identifiable Information, only general summaries of the activities of our Users. Such data is collected on our behalf, and is owned and used by us.
 
-Our site may supplement the information that you provide with information that is received from third parties.
+**5\. Updating and Correcting Information** ****
 
-**Choice/Opt-Out**
+We believe that you should have the ability to access and edit the Personally Identifiable Information you provide us. You may change any of your Personally Identifiable Information by logging into your account, sending us an email at contact @ pressroomvip.com or writing to us at 1441 Broadway, 18th Floor, New York, NY 10018. Please indicate your name, address and email address, and what information you would like to update when you contact us.
 
-Our sites give users the following options for removing their information from our database to not receive future communications or to no longer receive our service.  
-You can send email to sales@vipgeek.com.
+We encourage you to promptly update your Personally Identifiable Information if it changes. You may ask to have the information on your account deleted or removed; however, because we keep track of past transactions, you cannot delete information associated with past transactions on the Website. In addition, in may be impossible for us to completely delete all of your information because we periodically backup information.
 
-You can send postal mail to the address which appears at the end of this document.
+If you choose to store credit card information on the site, this is stored on a secure page and you may delete your credit card information at any time by logging into your account.
 
-You can call us at the phone number which appears at the end of this document.
+**6\. User Choices on Collection and Use of Information** ****
 
-Correct/Update Information
+As discussed above, you can always choose not to provide information, although it may be required to engage in a certain activity on the Website.
 
-Our sites give users the following options for changing and modifying information previously provided.
+**7\. Security of Information** ****
 
-E-mail sales@vipgeek.com  
-Send postal mail to the address which appears at the end of this document.
+We take security seriously and take numerous precautions to protect the security of Personally Identifiable Information. You can access your Personally Identifiable Information on our Website through a password and your email address. This password is encrypted. We recommend that you do not share your password with anyone. In addition, your Personally Identifiable Information resides on a secure server that only selected personnel and contractors have access to. We encrypt certain sensitive information (such as credit card information) using Secure Socket Layer (SSL) technology to ensure that your Personally Identifiable Information is safe as it is transmitted to us.
 
-Call us at the phone number which appears at the end of this document.
+Unfortunately, no data transmission over the Internet or any wireless network can be guaranteed to be 100% secure. As a result, while we employ commercially reasonable security measures to protect data and seek to partner with companies which do the same, we cannot guarantee the security of any information transmitted to or from the Website, and are not responsible for the actions of any third parties that may receive any such information.
 
-**Contacting Us**
+**8\. Data Tracking** ****
 
-If you have any questions about this privacy statement, the practices of our sites, or your dealings with any of our web sites, you can contact us at:
+**Cookies**. To facilitate and customize your experience with the Website, we store cookies on your computer. A cookie is a small text file that is stored on a User’s computer for record-keeping purposes which contains information about that User. We use cookies to save you time while using the Website, remind us who you are, and track and target User interests in order to provide a customized experience. Cookies also allow us to collect Non-Personally Identifiable Information from you, like which pages you visited and what links you clicked on. Use of this information helps us to create a more user-friendly experience for all visitors. In addition, we may use Third Party Advertising Companies to display advertisements on our Website. As part of their service, they may place separate cookies on your computer. We have no access to or control over these cookies. This Privacy Policy covers the use of cookies by our Website only and does not cover the use of cookies by any Advertiser. Most browsers automatically accept cookies, but you may be able to modify your browser settings to decline cookies. Please note that if you decline or delete these cookies, some parts of the Website may not work properly.
 
-**VIPGeek LLC  
-4740 N. Cumberland Ave Suite 310  
-Chicago, IL 60656  
-(773) 891-9924**  
+**Other Tracking Devices**. We may use other industry standard technologies like pixel tags and web beacons to track your use of our Website pages and promotions, or we may allow our Third Party Service Providers to use these devices on our behalf. Pixel tags and web beacons are tiny graphic images placed on certain pages on our Website, or in our emails that allow us to determine whether you have performed a specific action. When you access these pages or open or click an email, pixel tags and web beacons generate a Non-Personally Identifiable notice of that action. Pixel tags allow us to measure and improve our understanding of visitor traffic and behavior on our Website, as well as give us a way to measure our promotions and performance. We may also utilize pixel tags and web beacons provided by our Affiliates and/or Marketing Partners for the same purposes.
 
+**9\. Privacy Policies of Third Party Websites** ****
+
+This Privacy Policy only addresses the use and disclosure of information we collect from you on Womensworlddaily.com. Other websites that may be accessible through this Website have their own privacy policies and data collection, use and disclosure practices. If you link to any such website, we urge you review the website’s privacy policy. We are not responsible for the policies or practices of third parties.
+
+**10\. Miscellaneous Privacy Issues** ****
+
+**Children**. Minors under the age of 18 may not use the Website. We do not knowingly collect personal information from anyone under the age of 18, and no part of the Website is designed to attract anyone under the age of 18. We do not sell products for purchase by children. In certain instances, we sell children’s products for purchase by adults.
+
+**Public Areas**. We may provide areas on our Website where you can publicly post information about yourself, can communicate with others such as discussion boards or blogs, or can review products, restaurants, and submit media content. This information may be accessible by other consumers and companies and may appear on other websites or web searches, and therefore this information could be read, collected, and used by others. For example, if you post your email address along with a public restaurant review, you may receive unsolicited messages. We have no control over who reads your postings or what other users may do with the information you voluntarily post, so please use caution when posting any personal information. We do obtain consent from our users to post their name along with their reviews.
+
+**Notice of Privacy Rights to California Residents**. California law requires that we provide you with a summary of your privacy rights under the California Online Privacy Protection Act (the “Act”) and the California Business and Professions Code. As required by the Act, we will provide you with the categories of Personally Identifiable Information that we collect through the Website and the categories of third party persons or entities with whom such Personally Identifiable Information may be shared for direct marketing purposes at your request. California law requires us to inform you, at your request, (1) the categories of Personally Identifiable Information we collect and what third parties we share that information with; (2) the names and addresses of those third parties; and (3) examples of the products marketed by those companies. The Act further requires us to allow you to control who you do not want us to share that information with. To obtain this information, please send a request by email or standard mail to the address found below. When contacting us, please indicate your name, address, email address, and what Personally Identifiable Information you do not want us to share with Affiliated Businesses or Marketing Partners. The request should be sent to the attention of Business Development and labeled “California Customer Choice Notice.” Please allow 30 days for a response. Also, please note that there is no charge for controlling the sharing of your Personally Identifiable Information or requesting this notice.
+
+**11\. Contacting Us** **–** **Corporate Address** ****
+
+PressRoomVip.com
+
+1441 Broadway
+
+18th Floor
+
+New York, NY 10018
