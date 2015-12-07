@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the drscholls.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607144632id_/http%3A//www.bayercare.com/privacy_statement.cfm%3Fmobile%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drscholls.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207034335id_/http%3A//www.bayercare.com/privacy_statement.cfm%3Fmobile%3D1) for the most accurate reproduction.*
 
 # Bayer Consumer Care Products
 
@@ -138,6 +138,6 @@ Bayer Business & Technology Services LLC
 U.S. Data Privacy Officer  
 100 Bayer Road  
 Pittsburgh, PA 15205  
-[E-mail](https://web.archive.org/web/20150607144632id_/http%3A//www.bayercare.com/contactdataprotectionoffice.cfm)
+[E-mail](https://web.archive.org/web/20151207034335id_/http%3A//www.bayercare.com/contactdataprotectionoffice.cfm)
 
 The constant development of the internet requires occasional adjustments to our privacy statement. We retain the right to make changes when necessary. 
