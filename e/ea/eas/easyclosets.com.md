@@ -1,18 +1,8 @@
-> *The following text is extracted and transformed from the easyclosets.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608050723id_/http%3A//www.easyclosets.com/customer-service/policies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the easyclosets.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207144720id_/http%3A//www.easyclosets.com/customer-service/policies) for the most accurate reproduction.*
 
 # EasyClosets Policies | EasyClosets
 
-### Discount Policy
-
-  * 10% off all orders over $1000
-  * 15% off all orders over $5000
-
-
-
-  
-
-
-### Our Warranty
+### Warranty
 
 We stand behind our quality craftsmanship and proudly offer a Limited Lifetime Warranty covering defects in materials and workmanship for all of our organization systems for as long as you live in your home. We will repair or replace any defective part of any damaged in transit without charge. If at any time, you discover any defect in our material or in the workmanship of our product, please contact our dedicated representatives so that they can ensure that these issues are addressed immediately. We are dedicated to ensuring that the purchase of our organization systems is a safe, enjoyable experience. We want you to be so satisfied with our organization systems that you tell a friend about us.
 
@@ -39,7 +29,7 @@ We do our best to keep all products in stock and ready to ship. In the event tha
 
 You may return new, uninstalled items within 30 days of delivery for a full refund. We'll also pay the return shipping costs for the particular part if the return is a result of our error (you received an incorrect, miscut or defective item). Because of the custom nature of each order we sell, if you decide to return your order for any other reason, the return shipping costs are your responsibility.
 
-Any order returned to us because delivery is refused will result in a 20% shipping and restocking fee.
+If your order is returned to us because delivery was refused, then you will be responsible for the shipping cost to have the order shipping back to our manufacturing facility and we will also charge a 20% restocking fee. 
 
 A Return Material Authorization (RMA) must accompany all returns. Please call 1-800-910-0129 to request an RMA be sent to you via email.
 
