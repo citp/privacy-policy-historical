@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thecrimson.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629134051id_/http%3A//www.thecrimson.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thecrimson.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207141138id_/http%3A//www.thecrimson.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | The Harvard Crimson
 
@@ -12,7 +12,7 @@ If you want to subscribe to The Harvard Crimson for your home or place of busine
 
 The Crimson Online also logs IP addresses, or the location of your computer on the Internet, for systems administration and troubleshooting purposes. We may also use IP address logs to track your participation in our readership polls in order to ensure accurate results. General demographical information automatically available about users when they connect to our website may also be gathered for statistical purposes.
 
-The Crimson Online does collect information in aggregate form that we may, from time to time, provide to advertisers and other third parties. If and when this is done, The Crimson Online will not include any identifiable individual information.
+The Crimson Online does collect information in aggregate form that we may, from time to time, provide to advertisers and other third parties. If and when this is done, The Crimson Online will not include any identifiable individual information. The Crimson Online may also provide your information to third parties in response to a court order or lawful subpoena.
 
 While The Crimson Online has taken reasonable steps to limit the uses of information provided by you to those described in this Privacy Statement, we cannot guarantee that the information will remain permanently secure. There is always a possibility that your information could be lost due to technical problems or stolen from our databases. The Crimson Online is not responsible for any such loss or theft. We are committed to maintaining the trust of our users. If you have any questions or concerns about the privacy or security of any information that you have provided, please do not hesitate to contact us.
 
