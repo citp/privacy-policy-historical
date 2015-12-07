@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the psychic-revelation.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609003515id_/http%3A//www.psychic-revelation.com/home/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the psychic-revelation.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207105445id_/http%3A//www.psychic-revelation.com/home/privacy_policy.html) for the most accurate reproduction.*
 
 # Psychic Revelation Privacy Policy
 
@@ -18,4 +18,4 @@ We respect the privacy of our subscribers, customers, contacts, those who answer
 
 6\. To continue this policy beyond the termination of our company. If a majority portion of the assets of our company were to be acquired by another organization, that might include our subscriber and other lists, but only as part of a clear agreement binding that organization to abide by the spirit and letter of our privacy policy. 
 
-If you have any concerns or questions about our privacy policy or information collected on our sites, please [contact](https://web.archive.org/web/20150609003515id_/http%3A//www.psychic-revelation.com/home/contact.html) us and we will reply promptly.
+If you have any concerns or questions about our privacy policy or information collected on our sites, please [contact](https://web.archive.org/web/20151207105445id_/http%3A//www.psychic-revelation.com/home/contact.html) us and we will reply promptly.
