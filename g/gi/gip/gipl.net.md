@@ -1,79 +1,63 @@
-> *The following text is extracted and transformed from the gipl.net privacy policy that was archived on 2014-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141102102011id_/http%3A//www.gspcgroup.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gipl.net privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207223819id_/http%3A//www.gspcgroup.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Welcome to GSPC Ltd
 
-  * [GSPC](https://web.archive.org/web/20141102102011id_/http%3A//www.gspcgroup.com/company_detail.php?CID=1)
-    * Gujarat State Petroleum Corporation (GSPC) is the flagship concern of the GSPC G    [More..](https://web.archive.org/web/20141102102011id_/http%3A//www.gspcgroup.com/company_detail.php?CID=1)
+  * [GSPC](https://web.archive.org/web/20151207223819id_/http%3A//www.gspcgroup.com/company_detail.php?CID=1)
+    * Gujarat State Petroleum Corporation (GSPC) is the flagship concern of the GSPC G    [More..](https://web.archive.org/web/20151207223819id_/http%3A//www.gspcgroup.com/company_detail.php?CID=1)
 
 
 
-  * [GSPL](https://web.archive.org/web/20141102102011id_/http%3A//www.gspcgroup.com/company_detail.php?CID=2)
-    * Gujarat State Petronet Limited (GSPL) was set up to complement the efforts of GS    [More..](https://web.archive.org/web/20141102102011id_/http%3A//www.gspcgroup.com/company_detail.php?CID=2)
+  * [GSPL](https://web.archive.org/web/20151207223819id_/http%3A//www.gspcgroup.com/company_detail.php?CID=2)
+    * Gujarat State Petronet Limited (GSPL) was set up to complement the efforts of GS    [More..](https://web.archive.org/web/20151207223819id_/http%3A//www.gspcgroup.com/company_detail.php?CID=2)
 
 
 
-  * [GSPC GAS](https://web.archive.org/web/20141102102011id_/http%3A//www.gspcgroup.com/company_detail.php?CID=3)
-    * GSPC Gas distributes piped gas sourced through our gas trading operations to 17     [More..](https://web.archive.org/web/20141102102011id_/http%3A//www.gspcgroup.com/company_detail.php?CID=3)
+  * [GGL](https://web.archive.org/web/20151207223819id_/http%3A//www.gspcgroup.com/company_detail.php?CID=3)
+    * Gujarat Gas Limited distributes piped gas sourced through our gas trading operat    [More..](https://web.archive.org/web/20151207223819id_/http%3A//www.gspcgroup.com/company_detail.php?CID=3)
 
 
 
-  * [SGL](https://web.archive.org/web/20141102102011id_/http%3A//www.gspcgroup.com/company_detail.php?CID=4)
-    * Sabarmati Gas is a joint venture with BPCL, set up in 2006, for the development     [More..](https://web.archive.org/web/20141102102011id_/http%3A//www.gspcgroup.com/company_detail.php?CID=4)
+  * [SGL](https://web.archive.org/web/20151207223819id_/http%3A//www.gspcgroup.com/company_detail.php?CID=4)
+    * Sabarmati Gas is a joint venture with BPCL, set up in 2006, for the development     [More..](https://web.archive.org/web/20151207223819id_/http%3A//www.gspcgroup.com/company_detail.php?CID=4)
 
 
 
-  * [GSEG](https://web.archive.org/web/20141102102011id_/http%3A//www.gspcgroup.com/company_detail.php?CID=5)
-    * GSEG was set up in 1998 as a power generation company. GSEG owns and operates a     [More..](https://web.archive.org/web/20141102102011id_/http%3A//www.gspcgroup.com/company_detail.php?CID=5)
+  * [GSEG](https://web.archive.org/web/20151207223819id_/http%3A//www.gspcgroup.com/company_detail.php?CID=5)
+    * GSEG was set up in 1998 as a power generation company. GSEG owns and operates a     [More..](https://web.archive.org/web/20151207223819id_/http%3A//www.gspcgroup.com/company_detail.php?CID=5)
 
 
 
-  * [GPPC](https://web.archive.org/web/20141102102011id_/http%3A//www.gspcgroup.com/company_detail.php?CID=6)
-    * GPPC was set up as a special purpose vehicle in 2006 to develop a gas based comb    [More..](https://web.archive.org/web/20141102102011id_/http%3A//www.gspcgroup.com/company_detail.php?CID=6)
+  * [GPPC](https://web.archive.org/web/20151207223819id_/http%3A//www.gspcgroup.com/company_detail.php?CID=6)
+    * GPPC was set up as a special purpose vehicle in 2006 to develop a gas based comb    [More..](https://web.archive.org/web/20151207223819id_/http%3A//www.gspcgroup.com/company_detail.php?CID=6)
 
 
 
-  * [GIPL](https://web.archive.org/web/20141102102011id_/http%3A//www.gspcgroup.com/company_detail.php?CID=7)
-    * GIPL was established in 2001 to provide information technology solutions. It pro    [More..](https://web.archive.org/web/20141102102011id_/http%3A//www.gspcgroup.com/company_detail.php?CID=7)
+  * [GIPL](https://web.archive.org/web/20151207223819id_/http%3A//www.gspcgroup.com/company_detail.php?CID=7)
+    * GIPL was established in 2001 to provide information technology solutions. It pro    [More..](https://web.archive.org/web/20151207223819id_/http%3A//www.gspcgroup.com/company_detail.php?CID=7)
 
 
 
-  * [GSPC LNG](https://web.archive.org/web/20141102102011id_/http%3A//www.gspcgroup.com/company_detail.php?CID=8)
-    * GSPC LNG was set up in 2007 to develop a LNG terminal at Mundra in Gujarat, whic    [More..](https://web.archive.org/web/20141102102011id_/http%3A//www.gspcgroup.com/company_detail.php?CID=8)
+  * [GSPC LNG](https://web.archive.org/web/20151207223819id_/http%3A//www.gspcgroup.com/company_detail.php?CID=8)
+    * GSPC LNG was set up in 2007 to develop a LNG terminal at Mundra in Gujarat, whic    [More..](https://web.archive.org/web/20151207223819id_/http%3A//www.gspcgroup.com/company_detail.php?CID=8)
 
 
 
-  * [GERMI](https://web.archive.org/web/20141102102011id_/http%3A//www.gspcgroup.com/company_detail.php?CID=9)
-    * GERMI was setup initially to help develop the talent pool for the oil and gas se    [More..](https://web.archive.org/web/20141102102011id_/http%3A//www.gspcgroup.com/company_detail.php?CID=9)
+  * [GERMI](https://web.archive.org/web/20151207223819id_/http%3A//www.gspcgroup.com/company_detail.php?CID=9)
+    * GERMI was setup initially to help develop the talent pool for the oil and gas se    [More..](https://web.archive.org/web/20151207223819id_/http%3A//www.gspcgroup.com/company_detail.php?CID=9)
 
 
 
-  * [GGCL](https://web.archive.org/web/20141102102011id_/http%3A//www.gspcgroup.com/company_detail.php?CID=10)
-    * Incepted in 1980, Gujarat Gas Company Limited (GGCL) has since evolved to become    [More..](https://web.archive.org/web/20141102102011id_/http%3A//www.gspcgroup.com/company_detail.php?CID=10)
+  * [GIGL](https://web.archive.org/web/20151207223819id_/http%3A//www.gspcgroup.com/company_detail.php?CID=11)
+    * GSPL India Gasnet Limited (GIGL) is a Special Purpose Vehicle promoted by GSPL a    [More..](https://web.archive.org/web/20151207223819id_/http%3A//www.gspcgroup.com/company_detail.php?CID=11)
 
 
 
-  * [GIGL](https://web.archive.org/web/20141102102011id_/http%3A//www.gspcgroup.com/company_detail.php?CID=11)
-    * GSPL India Gasnet Limited (GIGL) is a Special Purpose Vehicle promoted by GSPL a    [More..](https://web.archive.org/web/20141102102011id_/http%3A//www.gspcgroup.com/company_detail.php?CID=11)
+  * [GITL](https://web.archive.org/web/20151207223819id_/http%3A//www.gspcgroup.com/company_detail.php?CID=12)
+    * GSPL India Transco Limited (GITL) is a Special Purpose Vehicle promoted by GSPL     [More..](https://web.archive.org/web/20151207223819id_/http%3A//www.gspcgroup.com/company_detail.php?CID=12)
 
 
 
-  * [GITL](https://web.archive.org/web/20141102102011id_/http%3A//www.gspcgroup.com/company_detail.php?CID=12)
-    * GSPL India Transco Limited (GITL) is a Special Purpose Vehicle promoted by GSPL     [More..](https://web.archive.org/web/20141102102011id_/http%3A//www.gspcgroup.com/company_detail.php?CID=12)
-
-
-
-  * [Safety Week](https://web.archive.org/web/20141102102011id_/http%3A//www.gspcgroup.com/content.php?SecType=&CID=&CATID=123)
-  * [Summer camp](https://web.archive.org/web/20141102102011id_/http%3A//www.gspcgroup.com/content.php?SecType=&CID=&CATID=124)
-
-
-
-**From the MD's Desk**
-
-  
-Energy has always been a key and leadi...   
-
-
-[More](https://web.archive.org/web/20141102102011id_/http%3A//www.gspcgroup.com/md_message.php?MdMessageID=1)
+**
 
 The below sets out the practices of The GSPC Group as characterized by Group Companies -GSPC, GSPL, GSEG, GSFMC and GIPL. (The GSPC Group) as of December, 2002 to the information which is gathered and distributed through the following websites : The GSPC Group, GSPC, GSPL, GSEG, GSFMC and GIPL (cumulatively known as "website").
 
@@ -95,3 +79,5 @@ Although your e-mail address is kept on file within our database, we will never 
 **With respect to traffic monitoring** The GSPC Group collects aggregate information on what pages visitors access, and from where visitors originate whether from search engines, referral links, or direct entries. 
 
 **With respect to security** The GSPC Group has appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site. 
+
+**
