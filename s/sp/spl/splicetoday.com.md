@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the splicetoday.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609044633id_/http%3A//www.splicetoday.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the splicetoday.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207133304id_/http%3A//www.splicetoday.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | SPLICETODAY.com
+# Splice Today | www.splicetoday.com
 
 SpliceToday knows that you care about how your personal information is used and shared, and we take your privacy seriously. Please read the following to learn more about our privacy policy. By visiting the SpliceToday website, you are accepting the practices outlined in this Privacy Policy. 
 
@@ -44,7 +44,7 @@ Only employees who need personal information to perform a specific job (for exam
 
 ###  What Information Can I Access? 
 
-You can access your personal information on our website and send an email to [Zach Kaufmann](mailto:%7a%6b%61%75%66%31@%67%6d%61%69%6c.%63%6f%6d)to correct, amend, or delete information that is inaccurate. 
+You can access your personal information on our website and send an email to [Zach Kaufmann](mailto:zkauf1@gmail.com)to correct, amend, or delete information that is inaccurate. 
 
 ###  What Choices Do I Have? 
 
@@ -52,7 +52,7 @@ As stated previously, you can always opt not to disclose information, but then y
 
 You are able to add or update certain information on pages, such as those listed in the "What Personal Information About Users Does SpliceToday Collect?" section above. When you update information, however, we often maintain a copy of the unrevised information in our records. 
 
-You may request deletion of your SpliceToday account by sending an email to [Zach Kaufmann](mailto:%7a%6b%61%75%66%31@%67%6d%61%69%6c.%63%6f%6d). This removes all of your past SpliceToday usage from public view. 
+You may request deletion of your SpliceToday account by sending an email to [Zach Kaufmann](mailto:zkauf1@gmail.com). This removes all of your past SpliceToday usage from public view. 
 
 As explained earlier, the "help" portion of the toolbar on the majority of browsers will direct you on how to prevent your browser from accepting new cookies, how to command the browser to tell you when you receive a new cookie, or how to fully disable cookies. Please note, however, that if your browser does not accept cookies, you will not be able to take advantage of some of our attractive features. 
 
