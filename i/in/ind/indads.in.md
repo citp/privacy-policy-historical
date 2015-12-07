@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indads.in privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609002100id_/http%3A//www.indads.in/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indads.in privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207224112id_/http%3A//www.indads.in/privacy_policy) for the most accurate reproduction.*
 
 # Free classifieds in India - free classified ads
 
