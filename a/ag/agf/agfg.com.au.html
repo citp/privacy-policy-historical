@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the agfg.com.au privacy policy that was archived on 2015-06-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150608011342id_/http%3A//www.agfg.com.au/agfg/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the agfg.com.au privacy policy that was archived on 2015-12-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151207131342id_/http%3A//www.agfg.com.au/agfg/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
 
@@ -10,10 +10,13 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="initial-scale=1, maximum-scale=1">
 <link rel="shortcut icon" type="image/ico" href="http://static.agfg.com.au/favicon.ico">
-<link rel="stylesheet" type="text/css" media="screen" href="/css/base.css?v=0.30" id="Link1">
+<link rel="stylesheet" type="text/css" media="screen" href="/css/base.css?v=0.35" id="Link1">
+<link rel="stylesheet" type="text/css" media="screen" href="/css/responsive.css?v=0.5" id="responsiveStyle">
+    <link rel="stylesheet" type="text/css" media="screen" href="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.16/themes/base/jquery-ui.css">
+<link rel="stylesheet" type="text/css" media="screen" href="http://static.agfg.com.au/css/jquery.qtip.min.css">
     <link href="http://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet" type="text/css">
  <style>
- @media print  {body {width:100%;margin:0;float:none;background:#fff;font-family:"Trebuchet MS",Verdana,sans-serif;font-size:12pt;color:#000;text-align:left;}h1 {font-size:14pt}h2 {font-size:13pt}h3 {font-size:12pt}#header, #infobar, #nav, #menu, #listing-phone {display:none;}.gallery {display:none;}.emailform {display:none;}.review-form {display:none;}.paging {display:none;}.options {display:none;}.crumbs, .results-refine, .facebooklikebox {display:none;}.footer, .footerad, .footerlinks {display:none}#powered {display:none}.ad300250, .ad72890, .ad468x60 {display:none}     }
+ @media print  {body {width:100%;margin:0;float:none;background:#fff;font-family:"Trebuchet MS",Verdana,sans-serif;font-size:12pt;color:#000;text-align:left;}h1 {font-size:14pt}h2 {font-size:13pt}h3 {font-size:12pt}#topnav, #magazine, #infobar, #nav, #menu, #listing-phone {display:none;}.gallery {display:none;}.emailform {display:none;}.review-form {display:none;}.paging {display:none;}.options {display:none;}.crumbs, .results-refine, .facebooklikebox {display:none;}.footer, .footerad, .footerlinks {display:none}#powered {display:none}.ad300250, .ad72890, .ad468x60, .no-print, #ctl00_cphContent_util, #ctl00_cphContent_updFav, .utensils, .listingnews, .listing-specials, .review-list, .listing-gallery, .listing-video, .facebook-link, .review-wrap, #listing-recipes, #listing-phone, .listing-buttons, .listing-facebook, .otherawards, .fullphone, .vote-panel, #showspecials, .whatson, #listing-downloads {display:none} .listing-map{ display: block !important;    width: 478px;height: 350px; } .active{background: #000}}
  </style>
 
 
@@ -29,7 +32,7 @@
 <link rel="stylesheet" type="text/css" href="/css/ie9.css?v=0.3" />
 <![endif]-->
 
-<script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script type="text/javascript">
+<script id="facebook-jssdk" src="//connect.facebook.net/en_GB/all.js#xfbml=1&amp;version=v2.4"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script type="text/javascript">
     //fbhack
     if (window.location.href.indexOf('#header') > 0)
     { window.location.href = window.location.href.replace('#header', '') }
@@ -96,7 +99,8 @@ var userRegionId = "";
 var userStateId = "";
 var userSuburbId = "0";
 var userAreaSuburbs = "";
-var isLoggedIn = "0";
+    var isLoggedIn = "0";
+    var mId = "0";
 </script>
 
 
@@ -114,17 +118,20 @@ var isLoggedIn = "0";
             xfbml: true,  // parse XFBML
             oauth:true
         });
+        FB.Canvas.setSize();
+
     };
 
     // Load the SDK Asynchronously
-    (function (d) {
-        var js, id = 'facebook-jssdk', ref = d.getElementsByTagName('script')[0];
-        if (d.getElementById(id)) { return; }
-        js = d.createElement('script'); js.id = id; js.async = true;
-        js.src = "//connect.facebook.net/en_US/all.js";
-        ref.parentNode.insertBefore(js, ref);
-    } (document));
-    
+ 
+    (function(d, s, id) {
+        var js, fjs = d.getElementsByTagName(s)[0];
+        if (d.getElementById(id)) return;
+        js = d.createElement(s); js.id = id;
+        js.src = "//connect.facebook.net/en_GB/all.js#xfbml=1&version=v2.4";
+        fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));
+
     function facebookLogin() {
         FB.login(function (response) {
             if (response.authResponse) {
@@ -139,12 +146,13 @@ var isLoggedIn = "0";
     });
     }
     </script>
-<form name="aspnetForm" method="post" action="privacy" id="aspnetForm" class="wrap">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJOTcwNjgxNjMwD2QWAmYPZBYEAgMPZBYIAgEPFgIeBFRleHQFxAENCjxkaXYgaWQ9J2Rpdi1ncHQtYWQtMTM2MjY3MDAyNzY1NS0xJyBjbGFzcz0iYWQ3Mjg5MCI+DQo8c2NyaXB0IHR5cGU9J3RleHQvamF2YXNjcmlwdCc+DQpnb29nbGV0YWcuY21kLnB1c2goZnVuY3Rpb24gKCkgeyBnb29nbGV0YWcuZGlzcGxheSgnZGl2LWdwdC1hZC0xMzYyNjcwMDI3NjU1LTEnKTsgfSk7DQo8L3NjcmlwdD4NCjwvZGl2Pg0KZAICDxYCHwAFjQE8dWw+PGxpIGNsYXNzPSJtZW1iZXItbmFtZSI+SGkgR3Vlc3Q8L2xpPjxsaT48YSBocmVmPSIvbWVtYmVycy9sb2dpbiIgY2xhc3M9ImJ1dHRvbiBidXR0b24tcHJpbWFyeSBsb2dpbi10cmlnZ2VyIj5Mb2dpbi9TaWduIHVwPC9hPjwvbGk+PC91bD5kAgQPFgIfAAW4CTxkaXYgaWQ9Im5hdiI+PGEgaHJlZj0iIiBpZD0icHVsbCI+TWVudTwvYT4NCjx1bCBpZD0ibWFpbm5hdiI+DQo8bGkgY2xhc3M9ImxvY2hvbWUiPjxhIGhyZWY9Ii8iIHRpdGxlPSJIb21lIj5Ib21lPC9hPjwvbGk+DQo8bGkgY2xhc3M9Im5hdi10cmF2ZWwiPjxhIGhyZWY9Ii9ndWlkZS9saXN0aW5ncy8iPlRyYXZlbDwvYT48ZGl2IGNsYXNzPSJkcm9wZG93bl82Y29sdW1ucyI+PC9kaXY+PC9saT4NCjxsaSBjbGFzcz0ibmF2LXJlc3RhdXJhbnRzIj48YSBocmVmPSIvZ3VpZGUvcmVzdGF1cmFudHMtZGluaW5nLyI+UmVzdGF1cmFudHM8L2E+PGRpdiBjbGFzcz0iZHJvcGRvd25fNmNvbHVtbnMiPjwvZGl2PjwvbGk+DQo8bGkgY2xhc3M9Im5hdi1hY2NvbW1vZGF0aW9uIj48YSBocmVmPSIvZ3VpZGUvYWNjb21tb2RhdGlvbi8iPkFjY29tbW9kYXRpb248L2E+PGRpdiBjbGFzcz0iZHJvcGRvd25fNmNvbHVtbnMiPjwvZGl2PjwvbGk+DQo8bGkgY2xhc3M9Im5hdi13aW5lcmllcyI+PGEgaHJlZj0iL2d1aWRlL3dpbmUtd2luZXJpZXMvIj53aW5lcmllczwvYT48ZGl2IGNsYXNzPSJkcm9wZG93bl82Y29sdW1ucyI+PC9kaXY+PC9saT4NCjxsaSBjbGFzcz0ibmF2LWJhcnMiPjxhIGhyZWY9Ii9ndWlkZS9iYXJzLWVudGVydGFpbm1lbnQvIj5CYXJzPC9hPjxkaXYgY2xhc3M9ImRyb3Bkb3duXzZjb2x1bW5zIj48L2Rpdj48L2xpPg0KPGxpIGNsYXNzPSJuYXYtYXR0cmFjdGlvbnMtdG91cmlzbSI+PGEgaHJlZj0iL2d1aWRlL2F0dHJhY3Rpb25zLXRvdXJpc20vIj5BdHRyYWN0aW9uczwvYT48L2xpPg0KPGxpIGNsYXNzPSJuYXYtcHJvdmlkb3JlcyI+PGEgaHJlZj0iL2d1aWRlL3Byb3ZpZG9yZXMvIj5Qcm92aWRvcmVzPC9hPjwvbGk+DQo8bGkgY2xhc3M9Im5hdi1mdW5jdGlvbnMiPjxhIGhyZWY9Ii9ndWlkZS9mdW5jdGlvbnMvIj5GdW5jdGlvbnM8L2E+PGRpdiBjbGFzcz0iZHJvcGRvd25fNmNvbHVtbnMiPjwvZGl2PjwvbGk+DQo8bGkgY2xhc3M9Im5hdi13aGF0c29uIj48YSBocmVmPSIvZ3VpZGUvbmV3cy1ldmVudHMvIj5XaGF0J3MgT248L2E+PC9saT4NCjxsaSBjbGFzcz0ibmF2LXJlY2lwZXMiPjxhIGhyZWY9Ii9ndWlkZS9yZWNpcGVzLyI+UmVjaXBlczwvYT48L2xpPg0KPGxpIGNsYXNzPSJuYXYtY2hlZnMiPjxhIGhyZWY9Ii9ndWlkZS9jaGVmLXByb2ZpbGUvIj5DaGVmczwvYT48L2xpPg0KPC91bD4NCjwvZGl2Pg0KZAIHDxYCHwAFxAENCjxkaXYgaWQ9J2Rpdi1ncHQtYWQtMTM2MjY3MDAyNzY1NS0wJyBjbGFzcz0iYWQ3Mjg5MCI+DQo8c2NyaXB0IHR5cGU9J3RleHQvamF2YXNjcmlwdCc+DQpnb29nbGV0YWcuY21kLnB1c2goZnVuY3Rpb24gKCkgeyBnb29nbGV0YWcuZGlzcGxheSgnZGl2LWdwdC1hZC0xMzYyNjcwMDI3NjU1LTAnKTsgfSk7DQo8L3NjcmlwdD4NCjwvZGl2Pg0KZAIFDxYCHwBlZGQovKUWVe1Uq7TLVIxePG+7NLkWw31rMpCEWwCIXSW6dQ==">
+<form name="aspnetForm" method="post" action="./" id="aspnetForm" class="wrap">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJOTcwNjgxNjMwD2QWAmYPZBYEAgMPZBYIAgEPFgIeBFRleHQFxAENCjxkaXYgaWQ9J2Rpdi1ncHQtYWQtMTM2MjY3MDAyNzY1NS0xJyBjbGFzcz0iYWQ3Mjg5MCI+DQo8c2NyaXB0IHR5cGU9J3RleHQvamF2YXNjcmlwdCc+DQpnb29nbGV0YWcuY21kLnB1c2goZnVuY3Rpb24gKCkgeyBnb29nbGV0YWcuZGlzcGxheSgnZGl2LWdwdC1hZC0xMzYyNjcwMDI3NjU1LTEnKTsgfSk7DQo8L3NjcmlwdD4NCjwvZGl2Pg0KZAICDxYCHwAFaDx1bD48bGk+PGEgaHJlZj0iL21lbWJlcnMvbG9naW4iIGNsYXNzPSJidXR0b24gYnV0dG9uLXByaW1hcnkgbG9naW4tdHJpZ2dlciI+TG9naW4vU2lnbiB1cDwvYT48L2xpPjwvdWw+ZAIEDxYCHwAFuAk8ZGl2IGlkPSJuYXYiPjxhIGhyZWY9IiIgaWQ9InB1bGwiPk1lbnU8L2E+DQo8dWwgaWQ9Im1haW5uYXYiPg0KPGxpIGNsYXNzPSJsb2Nob21lIj48YSBocmVmPSIvIiB0aXRsZT0iSG9tZSI+SG9tZTwvYT48L2xpPg0KPGxpIGNsYXNzPSJuYXYtdHJhdmVsIj48YSBocmVmPSIvZ3VpZGUvbGlzdGluZ3MvIj5UcmF2ZWw8L2E+PGRpdiBjbGFzcz0iZHJvcGRvd25fNmNvbHVtbnMiPjwvZGl2PjwvbGk+DQo8bGkgY2xhc3M9Im5hdi1yZXN0YXVyYW50cyI+PGEgaHJlZj0iL2d1aWRlL3Jlc3RhdXJhbnRzLWRpbmluZy8iPlJlc3RhdXJhbnRzPC9hPjxkaXYgY2xhc3M9ImRyb3Bkb3duXzZjb2x1bW5zIj48L2Rpdj48L2xpPg0KPGxpIGNsYXNzPSJuYXYtYWNjb21tb2RhdGlvbiI+PGEgaHJlZj0iL2d1aWRlL2FjY29tbW9kYXRpb24vIj5BY2NvbW1vZGF0aW9uPC9hPjxkaXYgY2xhc3M9ImRyb3Bkb3duXzZjb2x1bW5zIj48L2Rpdj48L2xpPg0KPGxpIGNsYXNzPSJuYXYtd2luZXJpZXMiPjxhIGhyZWY9Ii9ndWlkZS93aW5lLXdpbmVyaWVzLyI+d2luZXJpZXM8L2E+PGRpdiBjbGFzcz0iZHJvcGRvd25fNmNvbHVtbnMiPjwvZGl2PjwvbGk+DQo8bGkgY2xhc3M9Im5hdi1iYXJzIj48YSBocmVmPSIvZ3VpZGUvYmFycy1lbnRlcnRhaW5tZW50LyI+QmFyczwvYT48ZGl2IGNsYXNzPSJkcm9wZG93bl82Y29sdW1ucyI+PC9kaXY+PC9saT4NCjxsaSBjbGFzcz0ibmF2LWF0dHJhY3Rpb25zLXRvdXJpc20iPjxhIGhyZWY9Ii9ndWlkZS9hdHRyYWN0aW9ucy10b3VyaXNtLyI+QXR0cmFjdGlvbnM8L2E+PC9saT4NCjxsaSBjbGFzcz0ibmF2LXByb3ZpZG9yZXMiPjxhIGhyZWY9Ii9ndWlkZS9wcm92aWRvcmVzLyI+UHJvdmlkb3JlczwvYT48L2xpPg0KPGxpIGNsYXNzPSJuYXYtZnVuY3Rpb25zIj48YSBocmVmPSIvZ3VpZGUvZnVuY3Rpb25zLyI+RnVuY3Rpb25zPC9hPjxkaXYgY2xhc3M9ImRyb3Bkb3duXzZjb2x1bW5zIj48L2Rpdj48L2xpPg0KPGxpIGNsYXNzPSJuYXYtd2hhdHNvbiI+PGEgaHJlZj0iL2d1aWRlL25ld3MtZXZlbnRzLyI+V2hhdCdzIE9uPC9hPjwvbGk+DQo8bGkgY2xhc3M9Im5hdi1yZWNpcGVzIj48YSBocmVmPSIvZ3VpZGUvcmVjaXBlcy8iPlJlY2lwZXM8L2E+PC9saT4NCjxsaSBjbGFzcz0ibmF2LWNoZWZzIj48YSBocmVmPSIvZ3VpZGUvY2hlZi1wcm9maWxlLyI+Q2hlZnM8L2E+PC9saT4NCjwvdWw+DQo8L2Rpdj4NCmQCBw8WAh8ABcQBDQo8ZGl2IGlkPSdkaXYtZ3B0LWFkLTEzNjI2NzAwMjc2NTUtMCcgY2xhc3M9ImFkNzI4OTAiPg0KPHNjcmlwdCB0eXBlPSd0ZXh0L2phdmFzY3JpcHQnPg0KZ29vZ2xldGFnLmNtZC5wdXNoKGZ1bmN0aW9uICgpIHsgZ29vZ2xldGFnLmRpc3BsYXkoJ2Rpdi1ncHQtYWQtMTM2MjY3MDAyNzY1NS0wJyk7IH0pOw0KPC9zY3JpcHQ+DQo8L2Rpdj4NCmQCBQ8WAh8AZWRketNFYg7v4nzwNgT/7BApMwoKftQilN1qp9+cseZBwxM=">
 
 
-<script src="/ScriptResource.axd?d=hKwiTmyWdkcI0zAxr_85s2ZmIeXpJvqW0sSEkrqDXG6Zy8Q4gRKpODmRhOAcP1FQiF9jbGUYm7L_6mS92piib-oxlt8tnVD69u_liWOQMf_-_00jqF0EnrZLVs-m5L98KEHj67ZVrCyZW4vGgiz-kmoxaRzbPcbfmY_msmnQ63c1&amp;t=26dfbc01" type="text/javascript"></script>
-<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdABPPe2XLX25prq8JCI65gA7Kqi88Wr3Xzgy7iTRRqh4FLlZ7Q+olzpMDmPoB4eaBi1JVekZAH7n66iWui6apxhYLnoI+oLISQ0zJPk+XOIrRhNnz2gJDnJNBYxiUpFeAF2bcDXp9I9LXeyKLX4s4nmlCkJZDFgSz/uXP2CE7kjEAXJxV0FvvldEZLVyFDcS/7bMzhw1Vqd7YD/L2JDktgcTnN98Zs6FhKvwU99ig9XZ2LoxdIzNRwlY46nY8owm8SuhHQrYF8unk3ij95/g5Ny371o/L9F6OhMB7qOtAJ0kErnks1zc179fJtILsNh6Xd3GWXDnXhIpRZBJuw+gRJ5jDXEwOevKQs+CdW1AYqLHA/ykMR2mBE9doUruWj641yXdujtuFB4IEBaw5J/FOMIJq91gudakPHyO+5bCkGd6C4QjaCjm/g+SBiyPDU/jC6LI=">
+<script src="/ScriptResource.axd?d=V7SocQD0eRtp61AeKJyfGCQEaRaDGZixSJynfrImPCaxof9n7W9kgh0IsiM9HwJ7GIy4g2YP42BNOOV-jKRCOZPcu1-QOR57ktELxiz_zIUKOKFap8F1cuY0BE8FgBWh0&amp;t=23c9c237" type="text/javascript"></script>
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="8FAD0176">
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdABOhoEUmQXhrhZomv0b3Qgmkqi88Wr3Xzgy7iTRRqh4FLlZ7Q+olzpMDmPoB4eaBi1JVekZAH7n66iWui6apxhYLnoI+oLISQ0zJPk+XOIrRhNnz2gJDnJNBYxiUpFeAF2bcDXp9I9LXeyKLX4s4nmlCkJZDFgSz/uXP2CE7kjEAXJxV0FvvldEZLVyFDcS/7bMzhw1Vqd7YD/L2JDktgcTnN98Zs6FhKvwU99ig9XZ2LoxdIzNRwlY46nY8owm8SuhHQrYF8unk3ij95/g5Ny371o/L9F6OhMB7qOtAJ0kErnks1zc179fJtILsNh6Xd3GWXDnXhIpRZBJuw+gRJ5jDXEwOevKQs+CdW1AYqLHA/ykMR2mBE9doUruWj641yXdujtuFB4IEBaw5J/FOMIJqrguZRUBTKuqjUmSY0tbctF3x2ilKcB4TtLSWms4zgaM=">
 
 
 <div id="header">
@@ -185,7 +193,7 @@ googletag.cmd.push(function () { googletag.display('div-gpt-ad-1362670027655-1')
 </div>
 
 <div id="infobar">
-<div id="memberinfo"><ul><li class="member-name">Hi Guest</li><li><a href="/members/login" class="button button-primary login-trigger">Login/Sign up</a></li></ul></div>
+<div id="memberinfo"><ul><li><a href="/members/login" class="button button-primary login-trigger">Login/Sign up</a></li></ul></div>
 <div id="ctl00_pnlSearch" class="whatwhere-search">
 	
 
@@ -193,7 +201,7 @@ googletag.cmd.push(function () { googletag.display('div-gpt-ad-1362670027655-1')
 <p>What</p>
 <input name="ctl00$txtWhat" type="text" id="txtWhat" class="searchfield" value="Establishment Name...">
 <p>Where</p>
-<input name="ctl00$txtWhere" type="text" id="txtWhere" class="searchfield" value="Suburb Name...">
+<input name="ctl00$txtWhere" type="text" id="txtWhere" class="searchfield acwhere" value="Suburb Name...">
 <input type="submit" name="ctl00$btnSearch" value="Search" id="ctl00_btnSearch" class="btnsearchtop button-secondary">
 <div class="clear"></div>
 
@@ -544,22 +552,18 @@ third party without your prior consent. See our <a href="/agfg/privacy/" tabinde
 <div class="clear"></div>
 </div>
 
-
 </div>
 
 <div id="dlgHolder"><iframe style="margin:0px;padding:0px" marginheight="0" marginwidth="0" src="" width="100%" height="500" frameborder="0"></iframe></div>
 </form>
-<link rel="stylesheet" type="text/css" media="screen" href="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.16/themes/base/jquery-ui.css">
-<link rel="stylesheet" type="text/css" media="screen" href="http://static.agfg.com.au/css/jquery.qtip.min.css">
-<link rel="stylesheet" type="text/css" media="screen" href="/css/responsive.css?v=0.4" id="Link2">
+
 <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.1/jquery.min.js"></script>
 <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.9.2/jquery-ui.min.js"></script>
 <script type="text/javascript" src="http://ajax.aspnetcdn.com/ajax/jquery.cycle/2.99/jquery.cycle.all.js"></script>
 <script type="text/javascript" src="http://static.agfg.com.au/js/jquery.qtip.min.js"></script>
-<script type="text/javascript" src="/js/common.js?v=0.20"></script>
+<script type="text/javascript" src="/js/common.js?v=0.25"></script>
 
-
-    <!-- AddThis Smart Layers BEGIN -->
+<!-- AddThis Smart Layers BEGIN -->
 <!-- Go to http://www.addthis.com/get/smart-layers to customize -->
 <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5313c5177ba8bac3"></script>
 <script type="text/javascript">
@@ -572,145 +576,8 @@ third party without your prior consent. See our <a href="/agfg/privacy/" tabinde
             }
         });
     }
-
 </script>
 <!-- AddThis Smart Layers END -->
-
-<script type="text/javascript">
-    //AUTOCOMPLETE SEARCH
-    $(function () {
-
-        $.widget("custom.catcomplete", $.ui.autocomplete, {
-            _renderMenu: function (ul, items) {
-                var self = this,
-				currentCategory = "";
-                $.each(items, function (index, item) {
-                    if (item.category != currentCategory) {
-                        ul.append("<li class='ui-autocomplete-category'>" + item.category + "</li>");
-                        currentCategory = item.category;
-                    }
-                    self._renderItemData(ul, item);
-                });
-            }
-        });
-
-        $('#txtWhere').catcomplete({
-
-            source: function (request, response) {
-
-
-                $.ajax({
-
-                    url: "/handlers/ACWhereSearch.ashx",
-                    dataType: "json",
-                    data: {
-                        q: request.term
-                    },
-                    success: function (data) {
-                        response($.map(data.where, function (item) {
-                            return {
-                                label: item.name,
-                                value: item.id,
-                                category: item.category
-                            }
-                        }));
-                    }
-                });
-            },
-            minLength: 2,
-            select: function (event, ui) {
-                $('#txtWhere').val(ui.item.label);
-                $('#hdnWhere').val(ui.item.value);
-                return false;
-            },
-            open: function () {
-                $(this).removeClass("ui-corner-all").addClass("ui-corner-top");
-            },
-            close: function () {
-                $(this).removeClass("ui-corner-top").addClass("ui-corner-all");
-            },
-            focus: function (event, ui) {
-                this.value = ui.item.label;
-                event.preventDefault(); // Prevent the default focus behavior.
-            }
-        });
-
-
-
-
-
-
-        $('#txtWhat').autocomplete({
-            source: function (request, response) {
-                $.ajax({
-                    url: "/handlers/ACWhatSearch.ashx",
-                    dataType: "json",
-                    data: {
-                        q: request.term
-                    },
-                    success: function (data) {
-                        response($.map(data.what, function (item) {
-                            return {
-                                label: item.name,
-                                value: item.id,
-                                category: item.category
-                            }
-                        }));
-                    }
-                });
-            },
-            minLength: 2,
-            select: function (event, ui) {
-                if (ui.item.value == 0) {//add
-                    location.href = "/agfg/listings/suggest-listing";
-                    return false;
-                } else {
-                    $('#txtWhat').val(ui.item.label);
-                    $('#hdnWhat').val(ui.item.value);
-                    return false;
-                }
-            },
-            open: function () {
-                $(this).removeClass("ui-corner-all").addClass("ui-corner-top");
-            },
-            close: function () {
-                $(this).removeClass("ui-corner-top").addClass("ui-corner-all");
-            },
-            focus: function (event, ui) {
-                if (ui.item.value > 0) {
-
-                    this.value = ui.item.label;
-                }
-                event.preventDefault(); // Prevent the default focus behavior.
-            }
-        }).data("ui-autocomplete")._renderItem = function (ul, item) {
-            if (item.label == "nodata") {
-                return $("<li></li>")
-            } else {
-                var nameofplace = item.label;
-                if (nameofplace.length > 28) {
-                    nameofplace = nameofplace.substring(0, 25) + '...';
-                }
-                return $("<li></li>")
-             .data("item.autocomplete", item)
-             .append("<a class='ac-" + item.category + "'>" + nameofplace + "</a>")
-             .appendTo(ul);
-            }
-        };
-    });
-
-
-   
-
-
-
-
-</script>
-
-
-
-
-
 
 
 
