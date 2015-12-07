@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the postcardprofits.com privacy policy that was archived on 2015-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150622131243id_/http%3A//postcardprofits.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the postcardprofits.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207034309id_/http%3A//postcardprofits.com/privacy) for the most accurate reproduction.*
 
 # Postcard Profits Privacy Policy
 
@@ -71,9 +71,9 @@ If we decide to change our privacy policy, we will update the Privacy Policy mod
 
 If you have any questions regarding this privacy policy please direct them to support@postcardprofits.com or you can write us at...
 
-Postcard Profits  
-334 East Bay St #218  
-Charleston SC 29401
+Venture Education  
+10115 E Bell Rd 107-219  
+Scottsdale AZ 85260
 
   
 
