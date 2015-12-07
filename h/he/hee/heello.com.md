@@ -1,85 +1,100 @@
-> *The following text is extracted and transformed from the heello.com privacy policy that was archived on 2012-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121004021905id_/https%3A//heello.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the heello.com privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208004042id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
 
-# Heello - Share your life
+# Legal Agreement
 
-This Privacy Policy is effective as of July 4, 2011.
+**GoDaddy Respects Your Privacy**
 
-Heello Inc. (“Heello”) knows that you care about how your personal information is used and shared, and we take your privacy seriously. Please read the following to learn more about our privacy policy. By visiting the Heello website located at www.heello.com and any linked pages, features, content, or application services offered from time to time by Heello in connection therewith (the “Site”) and using Heello services (the “Services”), you acknowledge that you accept the practices and policies outlined in this Privacy Policy. 
+**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
 
-This Privacy Policy may be updated from time to time for any reason; each version will apply to information collected while it was in place. We will notify you of any material changes to our Privacy Policy by posting the new Privacy Policy on our Site. You are advised to consult this Privacy Policy regularly for any changes. 
+**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
 
-This policy does not apply to the practices of third parties that Heello does not own or control, including but not limited to third party services you access though Heello, or to individuals that Heello does not employ or manage. 
+**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
 
-## Information Collected Upon Registration 
+**Information Collection and Use**
 
-If you desire to have access to certain restricted sections of the Site, you will be required to become a registered user, and to submit certain personally identifiable information to Heello. This happens in a number of instances, such as when you sign up for the Service, or if you desire to receive marketing materials and information. Personally identifiable information that we may collect in such instances may include your IP address, full user name, password, email address, city, time zone, telephone number, and other information that you decide to provide us with, or that you decide to include in your public profile. 
+Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
 
-## Additional Information 
+We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
 
-Your full user name and your photo, if you decide to upload one, are displayed to people on the Heello Site. Once a member, you may provide additional information in the profile section, including but not limited to your bio, your location, as well as your personal web site, if you have one. Providing additional information beyond what is required at registration is entirely optional. 
+We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
 
-## Log Data 
+We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
 
-When you visit the Site, our servers automatically record information that your browser sends whenever you visit a website ("Log Data" ). This Log Data may include information such as your IP address, browser type or the domain from which you are visiting, the web-pages you visit, the search terms you use, and any advertisements on which you click. For most users accessing the Internet from an Internet service provider the IP address will be different every time you log on. We use Log Data to monitor the use of the Site and of our Service, and for the Site's technical administration. We do not associate your IP address with any other personally identifiable information to identify you personally, except in case of violation of the Terms of Service 
+We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
 
-## Cookies 
+Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
 
-Like many websites, we also use "cookie" technology to collect additional website usage data and to improve the Site and our Service. A cookie is a small data file that we transfer to your computer's hard disk. We do not use cookies to collect personally identifiable information. Heello may use both session cookies and persistent cookies to better understand how you interact with the Site and our Service, to monitor aggregate usage by our users and web traffic routing on the Site, and to improve the Site and our Services. A session cookie enables certain features of the Site and our Service and is deleted from your computer when you disconnect from or leave the Site. A persistent cookie remains after you close your browser and may be used by your browser on subsequent visits to the Site. Persistent cookies can be removed by following your web browser help file directions. Most Internet browsers automatically accept cookies. You can instruct your browser, by editing its options, to stop accepting cookies or to prompt you before accepting a cookie from the websites you visit. 
+This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
 
-We may allow advertisers, third party advertising networks and third-party advertising serving companies to serve advertisements directly to you within Heello's Sites, Services and Software. By serving these advertisements directly to you, these companies can set their own cookies on your computer and trigger their own Web beacons. If you would like to contact the advertisers, third party advertising networks and third-party advertising serving companies with which we have relationships to learn more about their privacy policies and what options (if any) they offer to opt out of their data collection, please visit their web site(s). Some of these companies are participants in the Network Advertising Initiative ("NAI"), a cooperative of online marketing and analytics companies committed to building consumer awareness and establishing responsible business and data management practices and standards. You can learn more about NAI and how you may "opt out" of targeted advertising delivered by NAI member ad networks here 
+**Security**
 
-In addition, to trigger certain cookies, we may pass an encrypted or “hashed” (non-human readable) identifier corresponding to your twitter ID to a Web advertising partner, who may place a cookie on your computer. No personally identifiable information is on, or is connected to, those cookies. If you prefer not to receive interest based content and advertisements, or do not wish to enable other services which make use of Heello data, you can always opt-out by clicking here. After you opt-out, Heello will not enable or serve interest-based content and targeted advertisements or enable the other services. Please note that opting-out does not turn off other advertisements. Also, if you change your computer, change your internet browser (e.g. from Internet Explorer to Firefox), or delete all your cookies, you will need to renew your preferences. 
+This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.  We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it.  No method of transmission over the Internet, or method of electronic storage, is 100% secure, however.  Therefore, we cannot guarantee its absolute security.
 
-## Web Site Tracking, Reporting 
+**Updating Your Information**
 
-Many of our web pages also contain special electronic images (called a "single-pixel gif" or "gifs") that allow us to gather only non-personally identifiable traffic statistics and other aggregate information about visitors to our sites. Heello (through itself or third parties) uses this technology to collect and accumulate anonymous data that helps us understand and analyze the experience of people visiting our web sites and, along with other information you provide, customize your future visits and improve our web sites. Please keep in mind that none of this information is personally identifiable. 
+You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
 
-## Banner Ads 
+        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
 
-The Services may include the use of ad banner partners for the serving and/or targeting of ads, promotions, and other marketing messages. These ads may be provided, in some cases, by a third party ad service provider. The ad service provider may place or utilize their own unique cookie on your browser, and may use non-personally identifiable information about your visit to our sites, such as the number of times you have viewed the ad. Heello is not responsible for the collection of these cookies and is not responsible for the actions of the ad service providers. Heello does not sponsor, endorse or guarantee any products or services advertised by third parties on its site. 
+       ii.      You may send mail to GoDaddy at the following postal address:   
+               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
 
-## Information Sharing and Disclosure 
+      iii.      You may call us at: (480) 505-8800
 
-Information about our users is important to our business. We neither rent nor sell your personal information to anyone. We share your personal information only as described below. 
+       iv.      You may fax us at: (480) 505-8844
 
-## Service Providers 
+**Sending Emails**
 
-We engage certain trusted third parties to perform functions and provide services to us, including, without limitation, hosting and maintenance, customer relationship, database storage and management, and direct marketing campaigns. We will share your personally identifiable information with these third parties, but only to the extent necessary to perform these functions and provide such services, and only pursuant to binding contractual obligations requiring such third parties to maintain the privacy and security of your data. 
+We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
 
-These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other web sites in order to provide advertisements about goods and services of interest to you. 
+The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
 
-## Information You Post 
+**Compliance with Laws and Law Enforcement**
 
-When you post a pic through Heello, information about you, including user profile information, may be visible to other users. If you post personal information online that is accessible to the public, that information becomes publicly available and can be collected and used by others and redistributed through the internet and other media channels. You may receive unsolicited messages from other parties in return. 
+We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
 
-## Business Transfers 
+**Third Party Service Providers**
 
-In some cases, we may choose to buy or sell assets. In these types of transactions, customer information is typically one of the business assets that is transferred. Moreover, if Heello, or substantially all of its assets, were acquired, or in the unlikely event that Heello goes out of business or enters bankruptcy, customer information would be one of the assets that is transferred to or acquired by a third party. You acknowledge that such transfers may occur, and that any acquirer of Heello may continue to use your personal information as set forth in this policy. 
+We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
 
-## Compliance with Laws and Law Enforcement 
+In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel GIF or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
 
-Heello cooperates with government and law enforcement officials or private parties to enforce and comply with the law. We may disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims, legal process (including subpoenas), to protect the property and rights of Heello or a third party, the safety of the public or any person, to prevent or stop any illegal, unethical, or legally actionable activity, or to comply with the law. 
+**Supplementation of Information**
 
-## Non-US Users 
+In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
 
-If you are not a resident of the United States, you understand and agree that Heello stores and processes your information on computers located in the United States, and by providing any data to Heello, you consent to the transfer of such information to the United States. 
+**Contests/Surveys**
 
-## Security Precautions 
+From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
 
-Heello has security measures in place to help protect against the loss, misuse and alteration of the information under our control. Your information may be transferred to and maintained in whole or in part on computer networks which may be located outside of the state, province, country or other governmental jurisdiction in which you reside, and may be stored on equipment or in facilities leased or licensed from third parties. Unfortunately, no data transmission over the Internet or any wireless network can be guaranteed to be 100% secure. As a result, while we strive to protect your personal information and make all commercially reasonable efforts to do so, Heello cannot ensure or warrant the security of any information you transmit to us and you do so at your own risk. However, once we receive your transmission, we make our best effort to ensure its security on our systems. This privacy policy does not apply to any information, including such photographs, that you submit for use in publicly available areas. We ask that you do not submit any personal information, including contact information or financial information, for display in public areas, as other people who use the Services will see it. If you submit such information for display in public areas, Heello cannot prevent it from being used in a manner that violates the law, your personal privacy or your safety. By submitting such information for display in public areas, you assume the risks and sole liability arising as a result of such information being displayed. 
+We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
 
-## Links to Other Websites 
+**Tell-A-Friend**
 
-The fact that we link to a website is not an endorsement, authorization or representation of our affiliation with that third party. We do not exercise control over third party websites. These other websites may place their own cookies or other files on your computer, collect data or solicit personally identifiable information from you. Other sites follow different rules regarding the use or disclosure of the personally identifiable information you submit to them. We encourage you to read the privacy policies or statements of the other websites you visit. 
+If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. GoDaddy will automatically send the friend a one-time email inviting them to visit our Site. GoDaddy stores this information for the sole purpose of sending this one-time email. The friend may contact GoDaddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
 
-## Our Policy Towards Children 
+**What Happens to my Personal Information if I Opt Out?**
 
-The Site is not directed to persons under 13. If a parent or guardian becomes aware that his or her child has provided us with personally identifiable information without their consent, he or she should contact us. We do not knowingly collect personally identifiable information from children under 13. If we become aware that a child under 13 has provided us with personal identifiable Information, we will delete such information from our system. 
+If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information as necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
 
-## Questions or Concerns 
+**Transfer of Data Abroad**
 
-If you have any questions regarding this privacy policy or information that you have submitted to us you can contact us at: 
+If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
 
-Email:
+**Changes in Our Practices**
 
-noah@heelloinc.com 
+We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+
+If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
+
+**Contacting Our Site**
+
+If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
+
+* * *
+
+GoDaddy   
+ATTN: Web Team   
+14455 North Hayden Rd.   
+Suite 219   
+Scottsdale, AZ, 85260, U.S.A.
