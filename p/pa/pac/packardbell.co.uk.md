@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the packardbell.co.uk privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608032720id_/http%3A//www.packardbell.co.uk/pb/en/GB/content/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the packardbell.co.uk privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207092018id_/http%3A//www.packardbell.co.uk/pb/en/GB/content/privacy) for the most accurate reproduction.*
 
 # Privacy
 
