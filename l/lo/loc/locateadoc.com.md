@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the locateadoc.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609101455id_/http%3A//www.locateadoc.com/home/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the locateadoc.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207134229id_/http%3A//www.locateadoc.com/home/privacy) for the most accurate reproduction.*
 
 # Privacy Notice | LocateADoc.com
 
@@ -158,6 +158,6 @@ By using our site, you consent to the collection and use of your information as 
 If your personally identifiable information changes, or if you no longer desire our service, you may deactivate it by contacting our Client Services Specialists through our [feedback form](https://web.archive.org/home/feedback), or by contacting us by telephone or postal mail at the contact information listed below. 
 
 LocateADoc.com  
-1080 Woodcock Road  
-Orlando Fl, 32803  
+2582 Maguire Rd, Ste 277  
+Ocoee, FL 34761  
 
