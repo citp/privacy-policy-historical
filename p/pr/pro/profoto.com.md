@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the profoto.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609232004id_/http%3A//profoto.com/int/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the profoto.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207193617id_/http%3A//profoto.com/int/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -71,6 +71,6 @@ Information you provide may be transferred or accessed by entities around the wo
 
 ## Privacy Questions
 
-If you have any questions or concerns about Profoto’s Privacy Policy or data processing, please email info@profoto.com[.](http://profoto.com/privacy-policy#)
+If you have any questions or concerns about Profoto’s Privacy Policy or data processing, please email info@profoto.com[.](http://www.profoto.com/int/privacy-policy#)
 
 Want to read more about the Swedish legislation on privacy and the Swedish Personal Data Act ( _Personuppgiftslagen_ 2008:204)? Then visit <http://www.datainspektionen.se./in-english/> Profoto may update its Privacy Policy from time to time, without prior notice.
