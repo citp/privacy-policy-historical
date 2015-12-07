@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the groopdealz.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608093936id_/http%3A//www.groopdealz.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the groopdealz.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207020326id_/http%3A//www.groopdealz.com/privacy-policy) for the most accurate reproduction.*
 
 # GroopDealz | Today's Boutique Daily Deal
 
