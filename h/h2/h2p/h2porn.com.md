@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the h2porn.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609002041id_/http%3A//h2porn.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the h2porn.com privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208002030id_/http%3A//h2porn.com/privacy) for the most accurate reproduction.*
 
 # H2Porn - Terms of Service / Privacy Policy
 
