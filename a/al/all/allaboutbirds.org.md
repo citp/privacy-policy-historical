@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the allaboutbirds.org privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610053005id_/http%3A//www.allaboutbirds.org/page.aspx%3Fpid%3D1099) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allaboutbirds.org privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207130732id_/http%3A//www.birds.cornell.edu/Page.aspx%3Fpid%3D1635) for the most accurate reproduction.*
 
-# All About Birds - Privacy Policy
+# Privacy Policy
 
 ### Scope of the Privacy Policy
 
@@ -28,7 +28,7 @@ Advertisements that appear on this website are delivered to you by our internal 
 
 ### Information Use
 
-To support and grow its membership base, the Cornell Lab exchanges its member names and addresses with other nonprofit organizations with missions related to conservation. We do not sell or make any profit from your name and address. The Cornell Lab’s policy is to never exchange or sell any email addresses or phone numbers. You may [send a note to our membership group](http://www.allaboutbirds.org/page.aspx?pid=1783) if you would like your record coded “Do Not Trade” and we will be happy not to include your name and address in our exchanges with other conservation organizations.
+To support and grow its membership base, the Cornell Lab exchanges its member names and addresses with other nonprofit organizations with missions related to conservation. We do not sell or make any profit from your name and address. The Cornell Lab’s policy is to never exchange or sell any email addresses or phone numbers. You may [send a note to our membership group](http://www.birds.cornell.edu/page.aspx?pid=1783) if you would like your record coded “Do Not Trade” and we will be happy not to include your name and address in our exchanges with other conservation organizations.
 
 The Cornell Lab of Ornithology may use your personally identifiable information to deliver the products and services that you request, enhance your experience on our site, and for internal business analysis and other business purposes consistent with this policy.
 
