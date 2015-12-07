@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brookdale.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316014749id_/http%3A//www.brookdale.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brookdale.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207233052id_/https%3A//www.brookdale.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Brookdale Senior Living Solutions
 
@@ -81,7 +81,7 @@ Milwaukee, WI 53214
 _Last Updated: January 2015_
 
 **Terms of Use  
-**[Brookdale Terms of Use](http://www.brookdale.com/terms-use/)
+**[Brookdale Terms of Use](https://www.brookdale.com/terms-use/)
 
 **Equal Opportunity Employment Policy  
 **[English](http://www.brookdaleliving.com/publicfiles/Equal-Opportunity-ENGLISH.pdf) / [Spanish](http://www.brookdaleliving.com/publicfiles/Equal-Opportunity-SPANISH.pdf) / [Hmong](http://www.brookdaleliving.com/publicfiles/Equal-Opportunity-HMONG.pdf)
