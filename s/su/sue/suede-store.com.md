@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the suede-store.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609040005id_/http%3A//suede-store.com/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the suede-store.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207161727id_/http%3A//suede-store.com/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
 
 # SUEDE - Privacy Policy - store
 
