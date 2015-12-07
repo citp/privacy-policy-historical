@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the guidingtech.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608041850id_/http%3A//www.guidingtech.com/terms-of-use/%23Privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guidingtech.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207044916id_/http%3A//www.guidingtech.com/terms-of-use/%23Privacypolicy) for the most accurate reproduction.*
 
 # Terms Of Use - Guiding Tech
 
