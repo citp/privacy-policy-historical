@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the names.co.uk privacy policy that was archived on 2014-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141201003245id_/http%3A//www.names.co.uk/info/terms/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the names.co.uk privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207135546id_/http%3A//www.names.co.uk/info/terms/privacy-policy) for the most accurate reproduction.*
 
 # Namesco Privacy Policy - Privacy Statement | names.co.uk
 
@@ -16,7 +16,7 @@ Please note that we are not responsible for any use of your personal information
 
 When you use this Website you may be asked for personally identifiable information such as your name, address, date of birth, email address and telephone number. You may also be asked for financial information for billing and payment purposes. By giving us such information you agree to our using it in the manner described in this policy.
 
-You may withdraw your consent to our use of your personal information for this purpose at any time by emailing us at support@names.co.uk and we will aim to process this request within 5 days of receipt of your withdrawal of consent.
+If you do not wish to continue to receive such information from Namesco and its Group Companies or third parties, please raise a support ticket via your names.co.uk [Online Control Panel](https://admin.names.co.uk/login.php?uri=%2F). Please set the Department of your support ticket to "Customer Care" and type "opt-out/collection of personal information" in the Brief Description field.
 
 Cookie information, pages you have requested and your IP address may also be recorded by us from your browser as set out in this Privacy Policy.
 
@@ -28,7 +28,7 @@ As part of the services we provide to you, we may host and store the personal da
 
 We may use your information to process your service requests, provide access to secure areas of the Website, to personalise your visit to the Website and to enable us to review, develop and continually improve the services we provide online. We also use this information to prevent or detect fraud or abuses of our Website and to enable third parties to carry out technical, logistical or other functions on our behalf.
 
-If you do not wish to continue to receive such information from Namesco and its Group Companies or third parties, please e-mail support@names.co.uk or alternatively when we send you an e-mail, follow the instructions at the end of the message explaining how you can opt-out of receiving any further information from us.
+If you do not wish to continue to receive such information from Namesco and its Group Companies or third parties, please raise a support ticket via your names.co.uk [Online Control Panel](https://admin.names.co.uk/login.php?uri=%2F). Please set the Department of your support ticket to "Customer Care" and type "opt-out/use of personal information" in the Brief Description field.
 
 ### Disclosure of Personal Information
 
@@ -48,7 +48,7 @@ As part of the services offered to you through this Website, the information you
 
 ### Right to Access Your Personal Information
 
-The Data Protection Act 1998 gives you the right to access information held about you. You can obtain access to your personal information held by us by sending a cheque for £10 (to cover administration costs for collating this information), made payable to "Namesco", to: Data Protection Officer, Acton House, Perdiswell Park, Worcester, Worcs WR3 7GD. If you have any questions about Namesco's Data Protection Policy please write to our Data Protection Officer or e-mail us at support@names.co.uk. We may ask you to give evidence of your identity before providing such access.
+The Data Protection Act 1998 gives you the right to access information held about you. You can obtain access to your personal information held by us by sending a cheque for £10 (to cover administration costs for collating this information), made payable to "Namesco", to: Data Protection Officer, Acton House, Perdiswell Park, Worcester, Worcs WR3 7GD. If you have any questions about Namesco's Data Protection Policy please write to our Data Protection Officer or raise a support ticket via your names.co.uk [Online Control Panel](https://admin.names.co.uk/login.php?uri=%2F). Please set the Department of your support ticket to “Customer Care" and type “Right to access personal information" in the Brief Description field. We may ask you to give evidence of your identity before providing such access.
 
 We always endeavour to make sure that the information we hold about you is accurate and up to date, if you believe that any information we are holding on you is incorrect or incomplete, please write to us or e-mail us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.
 
