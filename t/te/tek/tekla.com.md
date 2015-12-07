@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the tekla.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609043759id_/http%3A//www.tekla.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tekla.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207125029id_/http%3A//www.tekla.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | Tekla
 
 Tekla Corporation and its affiliated companies (referred separately and jointly as ‘Tekla’ and ‘we’) understand that Your privacy is important. To better protect Your privacy we provide this Privacy Policy explaining our online information practices and the choices You can make about the way Your personal information (as defined below) is collected and used. To make this Privacy Policy easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
 
-This Privacy Policy shall be interpreted in connection with the [Tekla Terms of Service](https://web.archive.org/web/20150609043759id_/http%3A//www.tekla.com/terms-and-conditions). This Privacy Policy is an integral part of the Tekla Terms of Service.
+This Privacy Policy shall be interpreted in connection with the [Tekla Terms of Service](https://web.archive.org/web/20151207125029id_/http%3A//www.tekla.com/terms-and-conditions). This Privacy Policy is an integral part of the Tekla Terms of Service.
 
 ## The personal information we collect and how we use it
 
