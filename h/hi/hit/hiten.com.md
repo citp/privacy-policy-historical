@@ -1,21 +1,19 @@
-> *The following text is extracted and transformed from the hiten.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121093846id_/http%3A//hiten.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hiten.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207153834id_/http%3A//hiten.com/privacy) for the most accurate reproduction.*
 
-# Privacy - SaaS Weekly by Hiten Shah
+# Privacy - Hiten's SaaS Weekly
 
-#### _Last updated: October 9th, 2014_
-
-Curated ("us", "we", or "our") operates the [SaaS Weekly by Hiten Shah](http://hiten.com/) website (the "Service").
+Curated Software ("us", "we", or "our") operates the [Hiten's SaaS Weekly](http://hiten.com/) website (the "Service").
 
 This page informs you of our policies regarding the collection, use and disclosure of Personal Information when you use our Service.
 
 We will not use or share your information with anyone except as described in this Privacy Policy.
 
-We use your Personal Information for providing and improving the Service. By using the Service, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, accessible at [Curated](http://curated.co/). 
+We use your Personal Information for providing and improving the Service. By using the Service, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms of Use, accessible at [Hiten's SaaS Weekly](http://hiten.com/terms). 
 
 ## Information Collection And Use
 
 While using our Service, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you. Personally identifiable information may include, but is not limited to, your email address ("Personal Information").  
-We collect this information for the purpose of providing the Service, identifying and communicating with you, responding to your requests/inquiries, and improving our services.
+We collect this information for the purpose of providing the Service, identifying and communicating with you, responding to your requests/enquiries, and improving our services.
 
 ## Log Data
 
@@ -51,7 +49,7 @@ We will disclose your Personal Information where required to do so by law or sub
 
 ## Business Transaction
 
-If Curated is involved in a merger, acquisition or asset sale, your Personal Information may be transferred as a business asset. In such cases, we will provide notice before your Personal Information is transferred and/or becomes subject to a different Privacy Policy.
+If Curated Software is involved in a merger, acquisition or asset sale, your Personal Information may be transferred as a business asset. In such cases, we will provide notice before your Personal Information is transferred and/or becomes subject to a different Privacy Policy.
 
 ## Security
 
