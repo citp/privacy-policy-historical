@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the macblurayplayer.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607220018id_/http%3A//www.macblurayplayer.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the macblurayplayer.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207191223id_/http%3A//www.macblurayplayer.com/privacy-policy.htm) for the most accurate reproduction.*
 
 # Macgo Blu-ray player Privacy Policy
 
@@ -10,7 +10,7 @@ Please take the time to review the terms of this Policy. By using this Site, you
 
 Other than as described in this Policy, we will not give any information about you to others without your express permission.
 
-Information Collection and Use 
+Information Collection and Use
 
 Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally. For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
 
@@ -30,7 +30,7 @@ Security
 
 This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.
 
-Sending Emails 
+Sending Emails
 
 We use emails to communicate with you and to send information that you have requested. We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
 
@@ -46,7 +46,7 @@ We may at times provide information about you to third parties to provide variou
 
 In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel gift or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click here.
 
-Supplementation of Information 
+Supplementation of Information
 
 In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources (e.g., information from our strategic partners, service providers, or the United States Postal Service). We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
 
@@ -78,4 +78,4 @@ Contacting Our Site
 If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at: [webmaster@macblurayplayer.com](mailto:webmaster@macblurayplayer.com)
 
 Macgo INTERNATIONAL LIMITED  
-Copyright © 2011-2013 Macgo INTERNATIONAL LTD. All Rights Reserved.
+Copyright © 2011-2015 Macgo INTERNATIONAL LTD. All Rights Reserved.
