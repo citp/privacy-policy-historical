@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rcg.org privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609043457id_/http%3A//rcg.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rcg.org privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207123403id_/http%3A//rcg.org/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -52,4 +52,4 @@ We ask that any and all content and graphics that reference or relate to The Res
 
 #### User Complaints
 
-User complaints regarding our privacy practices should be sent to [Website Services](https://web.archive.org/web/20150609043457id_/http%3A//rcg.org/contact.html).
+User complaints regarding our privacy practices should be sent to [Website Services](https://web.archive.org/web/20151207123403id_/http%3A//rcg.org/contact.html).
