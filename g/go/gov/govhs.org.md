@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the govhs.org privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607144020id_/http%3A//thevhscollaborative.org/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the govhs.org privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207134846id_/http%3A//thevhscollaborative.org/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement | The Virtual High School
 
