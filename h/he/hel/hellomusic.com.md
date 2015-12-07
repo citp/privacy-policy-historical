@@ -1,80 +1,87 @@
-> *The following text is extracted and transformed from the hellomusic.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608093931id_/http%3A//www.hellomusic.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hellomusic.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207020632id_/http%3A//www.hellomusic.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Hello Music
 
-1\. General
+PRIVACY POLICY
 
-This privacy policy (this "Privacy Policy") is designed to inform you about the type of information that Hello Music ("we," "us,"or "our") may gather or collect from you in connection with your use of this site (this "Site"). It also explains the conditions under which we use and disclose that information, and your rights in relation to that information.
+**What information do we collect?**
 
-The procedures for modifying or changing this Privacy Policy in the future are discussed in Section 5 of this document.
+  * We collect information from you when you register on the site as a member, place an order, enter a contest or sweepstakes, respond to a survey or communication such as e-mail, subscribe to a newsletter, back-in-stock notification. Loyalty or affiliate program, or otherwise participate in another site feature.
+  * When ordering or registering, we may ask you for your name, e-mail address, mailing address, phone number, credit card information or other information. You may, however, visit our site anonymously (as a “guest”).
+  * We also collect information about gift recipients so that we can fulfill the gift purchase. The information we collect about gift recipients is not used for marketing purposes.
+  * Like many websites, we use "cookies" to enhance your experience and gather information about visitors and visits to our websites. Please refer to the "Do we use 'cookies'?" section below for information about cookies and how we use them.
 
-2\. Gathering, Use and Disclosure of Non-Personally-Identifying Information  
-We collect both Non-Personally-Identifying Information and Personally-Identifying Information from you. "Non-Personally “Identifying Information" is information that, without the aid of additional information, cannot be directly associated with a specific person or entity. "Personally “Identifying Information," by contrast, is information such as a name or email address that, without more, can be directly associated with a specific person or entity.
 
-A. Gathering Non-Personally-Identifying Information
 
-(i) Web Browsers  
-Like most site operators, we gather Non-Personally-Identifying Information from you of the sort that web browsers, depending on their settings, may make available. That information includes your Internet Protocol ("IP") address, operating system and browser type, and the locations of the web pages you view right before arriving at, while navigating and immediately after leaving this Site.
+  
+**How do we use your information?**
 
-(ii) Web Cookies  
-A "Web Cookie" is a string of information that a site stores on your computer, and your browser provides to this Site, each time you submit a query to this Site. We may use Web Cookies to track the pages that you visit during each Site session, both to help us improve your experience and to help us understand how this Site is being used.  
-IF YOU DO NOT WISH TO HAVE WEB COOKIES PLACED ON YOUR COMPUTER, YOU SHOULD SET YOUR BROWSER TO REFUSE WEB COOKIES BEFORE ACCESSING THIS SITE, WITH THE UNDERSTANDING THAT CERTAIN FEATURES OF THIS SITE MAY NOT FUNCTION PROPERLY WITHOUT THE AID OF WEB COOKIES. IF YOU REFUSE WEB COOKIES, YOU ASSUME ALL RESPONSIBILITY FOR ANY RESULTING LOSS OF FUNCTIONALITY.
+We may use the information we collect from you when you register, purchase products, enter a contest or promotion, respond to a survey or marketing communication, surf the website, or use certain other site features in the following ways:
 
-(iii) Web Beacons  
-A "Web Beacon" is an object that is embedded in a web page. It is usually invisible to you but allows site operators to check whether you have viewed a particular web page or email communication. We may place Web Beacons on pages of this Site and in emails we send to you. You may not decline Web Beacons. However, they may be rendered ineffective by declining all cookies or modifying your browser setting to notify you each time a cookie is tendered and permit you to accept or decline cookies on an individual basis.
+  * To personalize your site experience and to allow us to deliver the type of content and product offerings in which you are most interested.
+  * To allow us to better service you in responding to your customer service requests.
+  * To quickly process your transactions.
+  * To administer a contest, promotion, survey or other site feature.
+  * If you have opted-in to receive our daily-deal or other e-mail newsletter(s), we may send you periodic e-mails. If you would no longer like to receive promotional e-mail from us, please refer to the "How can you opt-out, remove or modify information you have provided to us?" section below. If you have not opted-in to receive e-mail newsletters, you will not receive these e-mails. Visitors who register or participate in other site features such as marketing programs and 'members-only' content will be given a choice whether they would like to be on our e-mail list and receive e-mail communications from us.
 
-(iv) Third Parties' Use of Web Beacons and Web Cookies  
-This Site may include third-party advertising, links to other sites, and other content from third party businesses. The content posted by these parties will be reasonably identifiable as coming from a third party. These third-party sites, businesses, and advertisers, or advertising companies working on their behalf, sometimes use Web Beacons and Web Cookies to measure the effectiveness of their ads, personalize or optimize advertising content and to track users who link from their respective sites to this Site, but this third party technology does not permit them to access your Personal Information.  
-We do not have access to or control over Web Beacons or Web Cookies that these third parties may use, and the information practices of these advertisers and third-party websites or businesses are not covered by this Privacy Policy but are covered by their respective privacy policies as is described in more detail in Section 5 below.  
-Some third party advertising companies may provide a mechanism to opt-out of their technology. For more information about these partners and links to their privacy policies, please view each third party’s site.
 
-B. Use of Non-Personally-Identifying Information  
-We analyze Non “Personally “Identifying Information” gathered from users of this Site to help us better understand how this Site is being used. By identifying patterns and trends in usage, we are able to better design this Site to improve your experiences, both in terms of content and ease of use. We link information gathered using Non-Personally-Identifying Information to Personally-Identifying Information.
 
-C. Disclosure of Non-Personally-Identifying Information  
-From time to time, we may also release the Non-Personally-Identifying Information gathered from Site users in the aggregate, such as by publishing a report on trends in the usage of this Site.
+  
+**How do we protect visitor information?**
 
-3\. Collection, Use and Disclosure of Personally-Identifying Information  
-Collection, Use and Disclosure of Personally “Identifying Information” As defined above, Personally-Identifying Information is information that can be directly associated with a specific person or entity. We will only collect Personally-Identifying Information that you knowingly submit to us. We will not disclose your Personally-Identifying Information to third parties unless we obtain your permission to do so at the time we collect it, except as set forth below:
+We implement a variety of security measures to maintain the safety of your personal information. Your personal information is contained behind secured networks and is only accessible by a limited number of persons who have special access rights to such systems, and are required to keep the information confidential. When you place orders or access your personal information, we offer the use of a secure server. All sensitive/credit information you supply is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our databases to be only accessed as stated above.  We do not store credit card information within our system for any purposes. For more information on how our payment processor (Paypal) stores/processes/uses such information, please visit [paypal.com](http://paypal.com/).
 
-A. Collecting Personally-Identifying Information from Site Users  
-i. Registration and Other Information Provided to Us  
-When you register with this Site, you may be asked to disclose Personally“Identifying Information.” You may also choose to submit Personally-Identifying Information to us when you send us an email, set up a profile or use any interactive features and services that we may make available from time to time on this Site.
+**Do we use "cookies"?**
 
-ii. Personally-Identifying Information Provided by our Affiliates and Business Partners  
-We may also obtain Personal Information about you from our affiliates and business partners, based on information that has been shared with or made available to them.
+Yes. Cookies are small files that a site or its service provider transfers to your computer's hard drive through your Web browser (if you allow) that enables the site's or service provider's systems to recognize your browser and capture and remember certain information.
 
-B. Use of Personally-Identifying Information  
-We may use the Personally-Identifiable Information that you submit for any purposes related to our business. We may combine Personally-Identifiable Information that you provide to us with Personally-Identifiable Information about you that we obtain from our affiliates and business partners.
+For instance, we use cookies to help us remember and process the items in your shopping cart. They are also used to help us understand your preferences based on previous or current site activity, which enables us to provide you with improved services and special offers. We also use cookies to help us compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
 
-C. Disclosure of Personally-Identifying Information  
-As described in Section 3(A) ("Collecting Personally “Identifying Information from Site Users"), users may, at their option, disclose their own Personally-Identifying Information by any means they choose. We will disclose Personally-Identifying Information in the following circumstances:
+We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business. For example, we use Google Adwords remarketing service to advertise on third party websites (including Google) to previous visitors to our site. This could be in the form of an advertisement on the Google search results page, or a site in the Google Display Network.
 
-i. Surveys  
-From time to time, we may also ask you to participate in surveys for our general business and marketing purposes. Any Personally-Identifying Information provided to us in connection with a survey will be used only in relation to that survey, and will be disclosed to third parties not bound by this Privacy Policy only in non-personally-identifying, aggregated form.
+You can set preferences or opt out of interest-based advertising from Google entirely by [adjusting your Google Ads settings](https://www.google.com/settings/u/0/ads/authenticated). Please be advised that if you turn cookies off, you may not have access to features that are designed to make your site experience more efficient and some of our services may not function properly. If you experience issues using our website, please contact us at  **support@hellomusic.com**.
 
-ii. Contests, Giveaways and other Promotions  
-From time to time, we may offer you the opportunity to participate in contests, giveaways and other promotions. Any information submitted in connection with promotions will be subject to the terms of the promotion, not this Privacy Policy. You will be given the option to consent to the use of your Personally-Identifying Information at the time you sign up for the promotion. You will not be required to participate in any promotion.
+**Do we disclose the information we collect to outside parties?**
 
-iii. Employees, Third-Party Processors, Third-Party Service Providers and Third Party Affiliates  
-We will disclose Personally-Identifying Information to our employees, contractors, affiliates, distributors, dealers, vendors and suppliers who process Personally-Identifying Information on our behalf, participate with us in the provision or operation of this Site, provide you with services or make potential opportunities available to you.
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information unless we provide you with advance notice, except as described below. The term "outside parties" does not include 
 
-iv. By Law, to Protect Rights and to Comply with Our Policies  
-We disclose Personally-Identifying information if: (1) required to do so by law, or in response to a subpoena or court order; (2) we believe in our sole discretion that disclosure is reasonably necessary to protect against fraud, to protect the property or other rights of us or other users, third parties or the public at large; or (3) we believe that you have abused the service by using it to attack other systems or to gain unauthorized access to any other system, to engage in spamming or otherwise to violate applicable laws.
+[www.hellomusic.com](http://www.hellomusic.com/) or its subdomains or related websites. It also does not include website hosting partners, our technology or “app” providers and other parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others' rights, property, or safety.
 
-v. Business Transfers; Bankruptcy  
-We reserve the right to transfer all Personally-Identifying Information in our possession to a successor entity in the event of a merger, acquisition, bankruptcy or other sale of all or a portion of our assets. Other than to the extent ordered by a bankruptcy or other court, the use and disclosure of all transferred Personally-Identifying Information will be subject to this Privacy Policy, or to a new privacy policy if you are given notice of that new privacy policy and you affirmatively opt-in to accept it. Personally-Identifying Information submitted or collected after a transfer, however, may be subject to a new privacy policy adopted by the successor entity.
+However, non-personally identifiable (“aggregate”) visitor information may be provided to other parties for the purpose of assisting us with marketing, advertising, analysis or other uses.
 
-vi. Marketing Communications  
-We may email you about products and services that we believe may be of interest to you. If you wish to opt-out of receiving marketing materials from us, please follow the instructions at the bottom of each email for opting out.
+**How can you opt-out, remove or modify information you have provided to us?**
 
-vii. Email Service  
-You may have the opportunity to use a service to send electronic mail to another user or email list. In such cases, your valid email address and real name will be included with such messages. In order to prevent abuse, you may not opt out of such a display, but you may choose to refrain from using this service to transmit an email message.
+If you wish to opt-out of our promotional emails, [click here](http://hellomusic.us9.list-manage.com/unsubscribe?u=32e5ac29226669cf877918f33&id=dcccaacdea). To remove your email address from our database entirely, please let us know by removing your email address in the "
 
-4\. Collection and Use of Information by Third Parties  
-Third parties are under no obligation to comply with this Privacy Policy with respect to Personally-Identifying Information that you provide directly to those third parties or that those third parties collect for themselves. We do not control the third-party sites that may be accessible through this Site. Thus, this Privacy Policy does not apply to information provided to third-party sites or gathered by the third parties that operate them. Before visiting a third-party site, whether by means of a link on this Site or otherwise, and before providing any Personally-Identifying Information to any third party, you should inform yourself of the privacy policies and practices (if any) of the third party responsible for that site, and should take those steps necessary to your discretion, to protect your privacy.
+[My Account](http://www.hellomusic.com/account.php)" section of our website. (Please note that due to email production schedules you may still receive any emails already in production during the time that you submit any changes to your email preferences).
 
-5\. Privacy Policy Changes  
-Because of changes in technology and the growth and development of our business, or for other business reasons, we may need to modify this Privacy Policy from time to time. We will alert you by email if this policy is revised (if you have given us your email address), and we will post a copy of the new policy with its effective date on this Site. It is therefore important that you register with the site and notify us if you change your email address. If you do not provide us with a current email address, you should regularly review this policy to ensure that you are informed of any changes.
+To delete all of your online account information from our database, sign into the "My Account" section of our site and remove your shipping addresses, billing addresses & payment information. Please note that we may maintain information about an individual sales transaction in order to service that transaction and for record keeping.
 
-_This Privacy Policy is effective as of and was last updated on  October 1, 2012._
+**Third party links**
+
+In an attempt to provide you with increased value, we may include third party links on our site. These linked sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these linked sites (including if a specific link does not work).
+
+**Changes to our policy**
+
+If we decide to change our privacy policy, we will post those changes on this page. Policy changes will apply only to information collected after the date of the change. 
+
+**Questions and feedback**
+
+We welcome your questions, comments, and concerns about privacy. Please send us any and all feedback pertaining to privacy, or any other issue.
+
+**Online Policy Only**
+
+This online privacy policy applies only to information collected through our website and not to information collected offline.
+
+**Terms and Conditions**
+
+Please also visit our 
+
+[Terms Of Use](http://www.hellomusic.com/terms-of-service/) and [Terms Of Sale](http://www.hellomusic.com/terms-of-sale/) sections establishing the use, disclaimers, and limitations of liability governing the use of our website, and for subsequent purchases you may make on the site, respectively.
+
+  
+**Your consent**
+
+By using our site, you consent to our privacy policy.
+
+This policy was last updated on: November 27, 2015.
