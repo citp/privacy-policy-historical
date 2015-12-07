@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the 123signup.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607071722id_/http%3A//www.123signup.com/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 123signup.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207102426id_/http%3A//www.123signup.com/privacy-policy.asp) for the most accurate reproduction.*
 
-# Privacy Policy
+# 123Signup - Privacy Policy
+
+Skip to content
 
 #### Privacy Policy
 
@@ -99,6 +101,6 @@ We may change this privacy policy from time to time. If this privacy policy chan
 
 #### Contacting Us
 
-Questions regarding this privacy policy should be directed to Ann Murphy at San Jose, CA 95131; telephone 408.382.1400; e-mail info@123signup.com.
+Questions regarding this privacy policy should be directed to Ann Murphy at San Jose, CA 95113; telephone 408.382.1400; e-mail info@123signup.com.
 
 LAST UPDATED: March, 2015
