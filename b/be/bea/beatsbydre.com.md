@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the beatsbydre.com privacy policy that was archived on 2015-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150512111908id_/http%3A//www.beatsbydre.com/support/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beatsbydre.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207191023id_/http%3A//www.beatsbydre.com/support/privacy-policy.html) for the most accurate reproduction.*
 
-# Beats by Dr. Dre - Privacy Policy
+# Beats by Dr. Dre | Privacy Policy
 
 Your privacy is important to Beats Electronics, LLC. This Privacy Policy is provided to inform you of our policies and practices regarding how we collect, use, disclose, transfer and store information about you.
 
@@ -120,7 +120,7 @@ The personal information that you provide to us is stored on servers, which are 
 
 All the information you provide may be transferred or accessed by entities around the world as described in this Privacy Policy. 
 
-Beats complies with the U.S.-EU Safe Harbor Framework that was established by the U.S. Department of Commerce in consultation with the European Commission to comply with the European Commission's Directive on Data Protection. Beats also complies with the U.S.-Swiss Safe Harbor Framework that was established by the U.S. Department of Commerce in consultation with the Federal Data Protection and Information Commissioner of Switzerland to comply with the Swiss Federal Act on Data Protection. Beats has certified that it adheres to the Safe Harbor Privacy Principles. To learn more about the Safe Harbor program, and to view Beats’ certification, please visit <http://www.export.gov/safeharbor/>.
+Beats complies with the U.S.-EU Safe Harbor Framework that was established by the U.S. Department of Commerce in consultation with the European Commission to comply with the European Commission's Directive on Data Protection. Beats also complies with the U.S.-Swiss Safe Harbor Framework that was established by the U.S. Department of Commerce in consultation with the Federal Data Protection and Information Commissioner of Switzerland to comply with the Swiss Federal Act on Data Protection. Beats has certified that it adheres to the Safe Harbor Privacy Principles. To learn more about the Safe Harbor program, and to view Beats’ certification, please see the Apple Inc. certification at <http://www.export.gov/safeharbor/>.
 
 * ## NOTIFICATION OF CHANGES
 
