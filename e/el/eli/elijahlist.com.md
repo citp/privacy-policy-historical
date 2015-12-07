@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the elijahlist.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607175422id_/http%3A//www.elijahlist.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elijahlist.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207091845id_/http%3A//www.elijahlist.com/privacy_policy.html) for the most accurate reproduction.*
 
 # The ElijahList - Privacy Policy
 
