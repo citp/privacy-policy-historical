@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the furniturestoreblog.com privacy policy that was archived on 2013-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131215163915id_/http%3A//www.furniturefashion.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the furniturestoreblog.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207101737id_/http%3A//www.furniturefashion.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Furniture Fashion
 
-[](http://www.furniturefashion.com/)
+[](http://www.furniturefashion.com/)[](http://www.furniturefashion.com/)
 
-At FurnitureFashion.com, we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you visit FurnitureFashion.com, and how we safeguard your information. We never sell your personal information to third parties.
+At FurnitureFashion, we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you visit FurnitureFashion.com, and how we safeguard your information. We never sell your personal information to third parties.
 
-**Log Files**
+ **Log Files**
 
 As with most websites, we collect and use data contained in log files. The information in the log files include your IP (internet protocol) address, your ISP (internet service provider, such as AOL or Shaw Cable), the browser you used to visit our site (such as Internet Explorer or Firefox), the time you visited our site and which pages you visited throughout our site.
 
-**Cookies and Web Beacons**
+ **Cookies and Web Beacons**
 
 We do use cookies to store information, such as your personal preferences when you visit our site. This could include help filling terms when using the search feature, or the ability to login to some of our features, such as commenting on articles.
 
@@ -24,10 +24,6 @@ You can choose to disable or selectively turn off our cookies or third-party coo
 
 
 
-We partner with ValueClick to serve ads and/or collect certain information when you visit our website. ValueClick may use cookies or web beacons to collect non-personally identifiable information during your visit to this website in order to help show advertisements on other websites likely to be more interesting to you. To learn more about this “behavioral advertising” practice or to opt-out of this use of your anonymous information, you can visit [http://valueclickmedia.com/member_privacy.shtml](http://www.valueclickmedia.com/legal/privacy/display-member "ValueClick Media privacy policy.")
-
-**Notice Regarding Online Behavioral Advertising.**
+ **Notice Regarding Online Behavioral Advertising.**
 
 We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our Web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit [www.networkadvertising.org](http://www.networkadvertising.org/).
-
-As an example of a privacy policy page, please refer to the Privacy Policy on Glam.com – [http://www.glammedia.com/about_glam/legal/privacy.php](http://www.glammedia.com/about_glam/legal/privacy.php).
