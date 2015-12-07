@@ -1,0 +1,1038 @@
+<!--The following is the downloaded HTML source of the theplaidzebra.com privacy policy that was archived on 2015-12-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151207151618id_/http%3A//www.theplaidzebra.com/privacy-policy) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html lang="en-US" prefix="og: http://ogp.me/ns#" class="no-js"><!--<![endif]--><head>
+
+<!--Marfeel Script -->
+<script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js#xfbml=1&amp;version=v2.5&amp;appId=401888189880035"></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script>window.mrf={host:"b.marfeel.com",dt:3},function(e,t,o,a,i,r,n){function d(){l&&(e.cookie="fromt=yes;path=/;expires="+new Date(Date.now()+18e5).toGMTString(),o.reload())}var l=!/marfeelgarda=no|fromt=yes/i.test(r+";"+i);if((/(ipad.*?OS )(?!1_|2_|3_|4_|X)|mozilla.*android (?!(1|2|3)\.)[0-9](?!.*mobile)|\bSilk\b/i.test(a)&&2&n.dt||/(ip(hone|od).*?OS )(?!1_|2_|3_|4_|X)|mozilla.*android (?!(1|2|3)\.)[0-9].*mobile|bb10/i.test(a)&&1&n.dt||/marfeelgarda=off/i.test(r))&&t===t.top){l&&e.write('<plaintext style="display:none">');var s="script",m=setTimeout(d,1e4),c=e.createElement(s),f=e.getElementsByTagName(s)[0];c.src="//"+n.host+"/statics/marfeel/gardac.js",c.onerror=d,c.onload=function(){clearTimeout(m)},f.parentNode.insertBefore(c,f)}}(document,window,location,navigator.userAgent,document.cookie,location.search,window.mrf);</script>
+
+<!-- END Marfeel Script -->
+
+
+<!-- Start DFP -->
+<script type="text/javascript">
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+  (function() {
+    var gads = document.createElement('script');
+    gads.async = true;
+    gads.type = 'text/javascript';
+    var useSSL = 'https:' == document.location.protocol;
+    gads.src = (useSSL ? 'https:' : 'http:') +
+      '//www.googletagservices.com/tag/js/gpt.js';
+    var node = document.getElementsByTagName('script')[0];
+    node.parentNode.insertBefore(gads, node);
+  })();
+</script>
+
+<script type="text/javascript">
+  googletag.cmd.push(function() {
+    googletag.defineSlot('/43179455/ReduxBigBoxNative2', [300, 250], 'div-gpt-ad-1446134461254-0').addService(googletag.pubads());
+    googletag.defineSlot('/43179455/BIG_BOX_SITE', [300, 250], 'div-gpt-ad-1446134461254-1').addService(googletag.pubads());
+    googletag.defineSlot('/43179455/Big_Leaderboard', [970, 250], 'div-gpt-ad-1446134461254-2').addService(googletag.pubads());
+    googletag.defineSlot('/43179455/LEADERBOARD_SITE', [728, 90], 'div-gpt-ad-1446134461254-3').addService(googletag.pubads());
+    googletag.defineSlot('/43179455/SKYSCRAPER_SITE', [300, 600], 'div-gpt-ad-1446134461254-4').addService(googletag.pubads());
+    googletag.defineSlot('/43179455/320x50_Mobile', [320, 50], 'div-gpt-ad-1447873741188-0').addService(googletag.pubads());
+    googletag.defineSlot('/43179455/320x50_Test', [320, 50], 'div-gpt-ad-1448920530742-0').addService(googletag.pubads());
+    googletag.pubads().enableSingleRequest();
+    googletag.pubads().collapseEmptyDivs();
+    googletag.enableServices();
+  });
+</script>
+
+<!-- END DFP -->
+
+
+
+
+<!-- Start of Indie88 Code -->
+
+
+	<script src="//code.jquery.com/jquery-1.11.2.min.js"></script>
+	<script src="//code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
+	<script language="javascript" type="text/javascript">
+	<!--
+		var Stream = {
+/*			els : {
+	  			link: $('#listen-live'),
+	  			info: $('.now-playing'),
+	  			artist: $('.now-playing .artist'),
+	  			track: $('.now-playing .track'),
+	  			playing: $('.now-playing')
+			},*/
+			init : function() {
+	  			Stream.update();
+			},
+			update : function() {
+	  			var streamon_path = '/indie88.txt';
+	  			$.ajax({
+	    			url: streamon_path,
+	    			success: function(data) {
+	      				var info = JSON.parse(data);
+	      				if (info.artist === "" || info.title === "") {
+	        				$('.now-playing').hide();
+					        Stream.timing(info.end);
+	      				} else {
+	        				if ($('.now-playing').is(':hidden')) {
+	          					$('.now-playing').show();
+	        				}
+				  			$('.now-playing').show();
+	        				$('.now-playing .artist').html(info.artist);
+	        				$('.now-playing .track').html(info.title);
+					        Stream.timing(info.end);
+	      				}
+	    			},
+	    			error: function(error) {
+	      				//console.log(error);
+	    			}
+	  			});
+			},
+			timing: function(end){
+	  			var time = new Date().getTime();
+	  			var timeout = (+end - Math.round(time / 1000) + 10) * 1000;
+				if (timeout <= 0) { timeout = 120000; }
+	  			if (Stream.t) { clearTimeout(Stream.t); }
+	  			Stream.t = setTimeout(function(){
+	    			Stream.update();
+	  			}, timeout);
+			}
+		};
+
+		$(document).ready(function() {
+    		Stream.init();
+		});
+	//-->
+	</script>
+
+
+<!-- End of Indie88 Code -->
+
+
+		<meta charset="utf-8">
+
+		<!-- Google Chrome Frame for IE -->
+		<!--[if IE]><meta http-equiv="X-UA-Compatible" content="IE=edge" /><![endif]-->
+
+        <title>Privacy Policy - The Plaid Zebra</title>
+
+		<!-- mobile meta -->
+                    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        
+		<link rel="shortcut icon" href="http://www.theplaidzebra.com/wp-content/uploads/2014/06/theplaidzebra_favicon.jpg">
+
+		<link rel="pingback" href="http://www.theplaidzebra.com/xmlrpc.php">
+
+		<!-- Holding main menu -->
+		
+		<!-- head functions -->
+		
+<!-- This site is optimized with the Yoast SEO plugin v2.3.4 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta name="description" content="Privacy Policy - This Privacy Policy governs the manner in which The Plaid Zebra collects, uses, maintains and discloses information collected from users (each, a &quot;User&quot;) o">
+<link rel="canonical" href="http://www.theplaidzebra.com/privacy-policy/">
+<link rel="publisher" href="https://plus.google.com/105015084666103789459/about">
+<meta property="og:locale" content="en_US">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Privacy Policy - The Plaid Zebra">
+<meta property="og:description" content="Privacy Policy - This Privacy Policy governs the manner in which The Plaid Zebra collects, uses, maintains and discloses information collected from users (each, a &quot;User&quot;) o">
+<meta property="og:url" content="http://www.theplaidzebra.com/privacy-policy/">
+<meta property="og:site_name" content="The Plaid Zebra">
+<meta property="article:author" content="http://www.facebook.com/theplaidzebra">
+<!-- / Yoast SEO plugin. -->
+
+<link rel="alternate" type="application/rss+xml" title="The Plaid Zebra » Feed" href="http://www.theplaidzebra.com/feed/">
+<link rel="alternate" type="application/rss+xml" title="The Plaid Zebra » Comments Feed" href="http://www.theplaidzebra.com/comments/feed/">
+<link rel="alternate" type="application/rss+xml" title="The Plaid Zebra » Privacy Policy Comments Feed" href="http://www.theplaidzebra.com/privacy-policy/feed/">
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"http:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/www.theplaidzebra.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.3.1"}};
+			!function(a,b,c){function d(a){var c=b.createElement("canvas"),d=c.getContext&&c.getContext("2d");return d&&d.fillText?(d.textBaseline="top",d.font="600 32px Arial","flag"===a?(d.fillText(String.fromCharCode(55356,56812,55356,56807),0,0),c.toDataURL().length>3e3):(d.fillText(String.fromCharCode(55357,56835),0,0),0!==d.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script><script src="http://www.theplaidzebra.com/wp-includes/js/wp-emoji-release.min.js?ver=4.3.1" type="text/javascript"></script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel="stylesheet" id="googlefonts-css" href="http://fonts.googleapis.com/css?family=Arvo:700&amp;subset=latin" type="text/css" media="all">
+<link rel="stylesheet" id="essb-cct-style-css" href="http://www.theplaidzebra.com/wp-content/plugins/easy-social-share-buttons3/lib/modules/click-to-tweet/assets/css/styles.css?ver=3.2.4" type="text/css" media="all">
+<link rel="stylesheet" id="easy-social-share-buttons-nativeskinned-css" href="http://www.theplaidzebra.com/wp-content/plugins/easy-social-share-buttons3/assets/css/essb-native-skinned.min.css?ver=3.2.4" type="text/css" media="all">
+<link rel="stylesheet" id="essb-fontawsome-css" href="http://www.theplaidzebra.com/wp-content/plugins/easy-social-share-buttons3/assets/css/font-awesome.min.css?ver=3.2.4" type="text/css" media="all">
+<link rel="stylesheet" id="easy-social-share-buttons-css" href="http://www.theplaidzebra.com/wp-content/plugins/easy-social-share-buttons3/assets/css/flat-retina/easy-social-share-buttons.min.css?ver=3.2.4" type="text/css" media="all">
+<link rel="stylesheet" id="essb-social-fanscounter-css" href="http://www.theplaidzebra.com/wp-content/plugins/easy-social-share-buttons3/lib/modules/social-fans-counter/assets/css/essb-social-fanscounter.css?ver=3.2.4" type="text/css" media="all">
+<link rel="stylesheet" id="cb-main-stylesheet-css" href="http://www.theplaidzebra.com/wp-content/themes/valenti/library/css/style.css?ver=3.0" type="text/css" media="all">
+<link rel="stylesheet" id="cb-font-stylesheet-css" href="//fonts.googleapis.com/css?family=Oswald%3A400%2C700%2C400italic%7COpen+Sans%3A400%2C700%2C400italic&amp;subset=greek%2Cgreek-ext&amp;ver=3.0" type="text/css" media="all">
+<link rel="stylesheet" id="fontawesome-css" href="http://www.theplaidzebra.com/wp-content/themes/valenti/library/css/fontawesome/css/font-awesome.min.css?ver=4.1.0" type="text/css" media="all">
+<!--[if lt IE 9]>
+<link rel='stylesheet' id='cb-ie-only-css'  href='http://www.theplaidzebra.com/wp-content/themes/valenti/library/css/ie.css?ver=3.0' type='text/css' media='all' />
+<![endif]-->
+<link rel="stylesheet" id="jetpack_css-css" href="http://www.theplaidzebra.com/wp-content/plugins/jetpack/css/jetpack.css?ver=3.8.0" type="text/css" media="all">
+<!-- This site uses the Google Analytics by Yoast plugin v5.4.6 - Universal enabled - https://yoast.com/wordpress/plugins/google-analytics/ -->
+<script type="text/javascript">
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','//www.google-analytics.com/analytics.js','__gaTracker');
+
+	__gaTracker('create', 'UA-53142506-1', 'auto');
+	__gaTracker('set', 'forceSSL', true);
+	__gaTracker('require', 'displayfeatures');
+	__gaTracker('set', 'dimension1', 'user-1');
+	__gaTracker('set', 'dimension2', 'na');
+	__gaTracker('set', 'dimension5', 'focus_keyword_not_set');
+	__gaTracker('send','pageview');
+
+</script>
+<!-- / Google Analytics by Yoast -->
+<script type="text/javascript" src="http://www.theplaidzebra.com/wp-includes/js/jquery/jquery.js?ver=1.11.3"></script>
+<script type="text/javascript" src="http://www.theplaidzebra.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1"></script>
+<script type="text/javascript" src="http://www.theplaidzebra.com/wp-content/plugins/easy-social-share-buttons3/assets/js/easy-social-share-buttons.min.js?ver=3.2.4"></script>
+<script type="text/javascript" src="http://www.theplaidzebra.com/wp-content/themes/valenti/library/js/modernizr.custom.min.js?ver=2.6.2"></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.theplaidzebra.com/xmlrpc.php?rsd">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.theplaidzebra.com/wp-includes/wlwmanifest.xml"> 
+<meta name="generator" content="WordPress 4.3.1">
+<link rel="shortlink" href="http://wp.me/P5efWu-3za">
+
+<!-- This site is using AdRotate v3.11.6 Professional to display their advertisements - https://www.adrotateplugin.com/ -->
+<!-- AdRotate CSS -->
+<style type="text/css" media="screen">
+	.g { margin:0px; padding:0px; overflow:hidden; line-height:1; zoom:1; }
+	.g * { box-sizing:border-box; }
+	.g-col { float:left; min-height:1px; width:8.33%; }
+	.g-col:first-child { margin-left: 0; }
+	.g-col:last-child { margin-right: 0; }
+	.g-row:before, .g-col:after { content:""; display:table; clear:both; }
+	.g-2 { margin:1px 1px 1px 1px; }
+	.g-3 { margin:1px 1px 1px 1px; }
+	.g-4 { margin:1px 1px 1px 1px; }
+	.g-5 { margin:1px 1px 1px 1px; }
+	.g-6 { margin:1px 1px 1px 1px; }
+	.g-7 { margin:1px 1px 1px 1px; }
+	.g-8 { margin:1px 1px 1px 1px; }
+	.g-9 { margin:1px 1px 1px 1px; }
+	.g-10 { margin:1px 1px 1px 1px; }
+	.g-11 { margin:1px 1px 1px 1px; }
+	.g-12 { margin:1px 1px 1px 1px; }
+	.g-13 { margin:1px 1px 1px 1px; }
+	.g-14 { margin:1px 1px 1px 1px; }
+	.g-15 { margin:1px 1px 1px 1px; }
+	.g-16 { margin:1px 1px 1px 1px; }
+	.g-17 { margin:1px 1px 1px 1px; }
+	.g-18 { margin:1px 1px 1px 1px; }
+	.g-19 { margin:1px 1px 1px 1px; }
+	.g-20 { margin:1px 1px 1px 1px; }
+	.g-21 { margin:1px 1px 1px 1px; }
+	.g-22 { margin:1px 1px 1px 1px; }
+	.g-23 { margin:1px 1px 1px 1px; }
+	.g-24 { margin:1px 1px 1px 1px; }
+	.g-25 { margin:1px 1px 1px 1px; }
+	.g-26 { margin:1px 1px 1px 1px; }
+	.g-27 { margin:1px 1px 1px 1px; }
+	.g-28 { margin:1px 1px 1px 1px; }
+	.g-29 { margin:1px 1px 1px 1px; }
+	.g-30 { margin:1px 1px 1px 1px; }
+	.g-31 { margin:1px 1px 1px 1px; }
+	.g-32 { margin:1px 1px 1px 1px; }
+	.g-33 { margin:1px 1px 1px 1px; }
+	.g-34 { margin:1px 1px 1px 1px; }
+	.g-35 { margin:1px 1px 1px 1px; }
+	.g-36 { margin:1px 1px 1px 1px; }
+	.g-37 { margin:1px 1px 1px 1px; }
+	@media only screen and (max-width: 480px) {
+		.g-col, .g-dyn, .g-single { width:100%; margin-left:0; margin-right:0; }
+	}
+</style>
+<!-- /AdRotate CSS -->
+
+<script type="text/javascript">
+window.___gcfg = {lang: 'en'};
+(function() 
+{var po = document.createElement('script');
+po.type = 'text/javascript'; po.async = true;po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0];
+s.parentNode.insertBefore(po, s);
+})();</script><style type="text/css" media="screen">
+	h6{ font-family:"Arvo", arial, sans-serif;}
+</style>
+<!-- fonts delivered by Wordpress Google Fonts, a plugin by Adrian3.com --><style type="text/css">.essb_links_list li.essb_totalcount_item .essb_t_l_big .essb_t_nb:after, .essb_links_list li.essb_totalcount_item .essb_t_r_big .essb_t_nb:after { color: #777777;content: "SHARES";display: block;font-size: 11px;font-weight: normal;text-align: center;text-transform: uppercase;margin-top: -5px; } .essb_links_list li.essb_totalcount_item .essb_t_l_big, .essb_links_list li.essb_totalcount_item .essb_t_r_big { text-align: center; } .essb_displayed_sidebar .essb_links_list li.essb_totalcount_item .essb_t_l_big .essb_t_nb:after, .essb_displayed_sidebar .essb_links_list li.essb_totalcount_item .essb_t_r_big .essb_t_nb:after { margin-top: 0px; } .essb_displayed_sidebar_right .essb_links_list li.essb_totalcount_item .essb_t_l_big .essb_t_nb:after, .essb_displayed_sidebar_right .essb_links_list li.essb_totalcount_item .essb_t_r_big .essb_t_nb:after { margin-top: 0px; } .essb_totalcount_item_before, .essb_totalcount_item_after { display: block !important; } .essb_totalcount_item_before .essb_totalcount, .essb_totalcount_item_after .essb_totalcount { border: 0px !important; } .essb_counter_insidebeforename { margin-right: 5px; font-weight: bold; } .essb_width_columns_1 li { width: 100%; } .essb_width_columns_1 li a { width: 92%; } .essb_width_columns_2 li { width: 49%; } .essb_width_columns_2 li a { width: 86%; } .essb_width_columns_3 li { width: 32%; } .essb_width_columns_3 li a { width: 80%; } .essb_width_columns_4 li { width: 24%; } .essb_width_columns_4 li a { width: 70%; } .essb_width_columns_5 li { width: 19.5%; } .essb_width_columns_5 li a { width: 60%; } .essb_links li.essb_totalcount_item_before, .essb_width_columns_1 li.essb_totalcount_item_after { width: 100%; text-align: left; } .essb_network_align_center a { text-align: center; } .essb_network_align_right .essb_network_name { float: right;}</style>
+<script type="text/javascript">var essb_settings = {"ajax_url":"http:\/\/www.theplaidzebra.com\/wp-admin\/admin-ajax.php","essb3_nonce":"fe620690e9","essb3_plugin_url":"http:\/\/www.theplaidzebra.com\/wp-content\/plugins\/easy-social-share-buttons3","essb3_facebook_total":true,"essb3_admin_ajax":false,"essb3_internal_counter":false,"essb3_stats":true,"essb3_ga":true,"essb3_ga_mode":"simple","essb3_counter_button_min":0,"essb3_counter_total_min":0,"blog_url":"http:\/\/www.theplaidzebra.com\/","ajax_type":"wp","essb3_postfloat_stay":false,"essb3_no_counter_mailprint":false,"essb3_single_ajax":false,"twitter_counter":"api"};</script>
+<link rel="dns-prefetch" href="//widgets.wp.com">
+<link rel="dns-prefetch" href="//s0.wp.com">
+<link rel="dns-prefetch" href="//0.gravatar.com">
+<link rel="dns-prefetch" href="//1.gravatar.com">
+<link rel="dns-prefetch" href="//2.gravatar.com">
+<style type="text/css">img#wpstats{display:none}</style><script>jQuery(document).ready(function($){$.backstretch("http://www.theplaidzebra.com/wp-content/uploads/2014/06/The-Plaid-Zebra-Background_21.jpg",  {fade: 750}); }); </script><style>body, #cb-parallax-featured #cb-parallax-bg { background-color: #ffffff;}.cb-overlay-stars .fa-star, #cb-vote .fa-star, #cb-to-top .fa-long-arrow-up, .cb-review-box .cb-score-box, .bbp-submit-wrapper button, .bbp-submit-wrapper button:visited, .buddypress .cb-cat-header #cb-cat-title a,  .buddypress .cb-cat-header #cb-cat-title a:visited, .woocommerce .star-rating:before, .woocommerce-page .star-rating:before, .woocommerce .star-rating span, .woocommerce-page .star-rating span {
+            color:#eb9812;
+        }#cb-search-modal .cb-header, .cb-join-modal .cb-header, .lwa .cb-header, .cb-review-box .cb-score-box, .bbp-submit-wrapper button, #buddypress button:hover, #buddypress a.button:hover, #buddypress a.button:focus, #buddypress input[type=submit]:hover, #buddypress input[type=button]:hover, #buddypress input[type=reset]:hover, #buddypress ul.button-nav li a:hover, #buddypress ul.button-nav li.current a, #buddypress div.generic-button a:hover, #buddypress .comment-reply-link:hover, #buddypress .activity-list li.load-more:hover, #buddypress #groups-list .generic-button a:hover {
+            border-color: #eb9812;
+        }.cb-sidebar-widget .cb-sidebar-widget-title, .cb-multi-widget .tabbernav .tabberactive, .cb-author-page .cb-author-details .cb-meta .cb-author-page-contact, .cb-about-page .cb-author-line .cb-author-details .cb-meta .cb-author-page-contact, .cb-page-header, .cb-404-header, .cb-cat-header, #cb-footer #cb-widgets .cb-footer-widget-title span, #wp-calendar caption, .cb-tabs ul .current, #bbpress-forums li.bbp-header, #buddypress #members-list .cb-member-list-box .item .item-title, #buddypress div.item-list-tabs ul li.selected, #buddypress div.item-list-tabs ul li.current, #buddypress .item-list-tabs ul li:hover, .woocommerce div.product .woocommerce-tabs ul.tabs li.active {
+            border-bottom-color: #eb9812 ;
+        }#cb-main-menu .current-post-ancestor, #cb-main-menu .current-menu-item, #cb-main-menu .current-menu-ancestor, #cb-main-menu .current-post-parent, #cb-main-menu .current-menu-parent, #cb-main-menu .current_page_item, #cb-main-menu .current-page-ancestor, #cb-main-menu .current-category-ancestor, .cb-review-box .cb-bar .cb-overlay span, #cb-accent-color, .cb-highlight, #buddypress button:hover, #buddypress a.button:hover, #buddypress a.button:focus, #buddypress input[type=submit]:hover, #buddypress input[type=button]:hover, #buddypress input[type=reset]:hover, #buddypress ul.button-nav li a:hover, #buddypress ul.button-nav li.current a, #buddypress div.generic-button a:hover, #buddypress .comment-reply-link:hover, #buddypress .activity-list li.load-more:hover, #buddypress #groups-list .generic-button a:hover {
+            background-color: #eb9812;
+        }</style><style type="text/css">
+                                                 body, #respond { font-family: 'Open Sans', sans-serif; }
+                                                 h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6, #cb-nav-bar #cb-main-menu ul li > a, .cb-breaking-news span, .cb-grid-4 h2 a, .cb-grid-5 h2 a, .cb-grid-6 h2 a, .cb-author-posts-count, .cb-author-title, .cb-author-position, .search  .s, .cb-review-box .cb-bar, .cb-review-box .cb-score-box, .cb-review-box .cb-title, #cb-review-title, .cb-title-subtle, #cb-top-menu a, .tabbernav, .cb-byline, #cb-next-link a, #cb-previous-link a, .cb-review-ext-box .cb-score, .tipper-positioner, .cb-caption, .cb-button, #wp-calendar caption, .forum-titles, .bbp-submit-wrapper button, #bbpress-forums li.bbp-header, #bbpress-forums fieldset.bbp-form .bbp-the-content-wrapper input, #bbpress-forums .bbp-forum-title, #bbpress-forums .bbp-topic-permalink, .widget_display_stats dl dt, .cb-lwa-profile .cb-block, #buddypress #members-list .cb-member-list-box .item .item-title, #buddypress div.item-list-tabs ul li, #buddypress .activity-list li.load-more, #buddypress a.activity-time-since, #buddypress ul#groups-list li div.meta, .widget.buddypress div.item-options, .cb-activity-stream #buddypress .activity-header .time-since, .cb-font-header, .woocommerce table.shop_table th, .woocommerce-page table.shop_table th, .cb-infinite-scroll a, .cb-no-more-posts { font-family:'Oswald', sans-serif; }
+                     </style><script async="" type="text/javascript" src="//plaidzebra.disqus.com/count.js"></script></head><body <!--="" facebook="" like="" button="" --=""><div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.5&appId=401888189880035";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script><style type="text/css">.support {
+    background-color : #FF0000;
+    color: #000000;
+}
+
+
+#adcenter { text-align: center; 
+    margin-left: auto;
+    margin-right: auto;
+}
+
+		.super-header {
+			background: #51bbb6;
+			color: #f8fafa;
+			width: 100%;
+			z-index: 500;
+		}
+	
+		.wrapper {
+			margin: 0 auto;
+			max-width: 1190px;
+			position: relative;
+			width: 100%;
+			display: block;
+		}
+
+		.super-header .now-playing {
+			background: #1d4b49;
+			font: 1.0em museo-slab,Georgia,serif;
+			/*font-weight: bold;*/
+			/*font-weight: 600;*/
+			height: 25px;
+			line-height: 25px;
+			overflow: hidden;
+			padding: 0 .5em;
+			text-overflow: ellipsis;
+			text-transform: uppercase;
+			white-space: nowrap;
+			-webkit-box-sizing: border-box;
+			box-sizing: border-box;
+		}
+
+		.super-header .now-playing .now-playing-info {
+			display: block;
+			width: 100%;
+			animation: info-anim-loop 7s infinite forwards;
+			-webkit-animation: info-anim-loop 7s infinite forwards;
+		}
+
+		.super-header .now-playing .artist {
+			font-style: italic;
+			margin-left: .4em;
+		}
+
+		.super-header .now-playing .artist:after {
+			content: " - ";
+		}
+
+		.super-header .listen-live-wrap {
+			color: #f8fafa;
+			float: right;
+		}
+
+		.super-header .listen-live-wrap a.listen-live {
+			background: url(/icn-stream.gif) 96% 50% no-repeat #51bbb6;
+			color: #f8fafa;
+			float: right;
+			font: 600 1.4em/51px "arvo",serif;
+			font-weight: 700;
+			height: 50px;
+			padding-right: 48px;
+			text-decoration: none;
+			text-transform: uppercase;
+			cursor: pointer;
+			target-name:new;
+            target-new:window;
+		}
+
+		.super-header .site-branding {
+			height: 50px;
+			margin-left: .5em;
+			float: right; /* Added to change button to right */
+			margin-right: 100px; /* Added to change button to right */
+			position: relative; /* Added to change button to right */
+		}		
+
+		.site-title {
+			margin: 0;
+			position: relative;
+			margin-right: 100px;
+		}
+		
+		.site-title h1  {
+			font-family: museo-slab, Georgia, serif;
+			font-size: 2em;
+			clear: both;
+		}
+
+		.site-title h1 a {
+			color: #000;
+			text-decoration: none;
+		}		
+
+		.super-header .site-title a {
+			display: block;
+			height: 50px;
+			width: 100px;
+		}
+
+		.site-title a {
+			background: url(/logo-mobile.png) center center no-repeat;
+		}
+
+		.ir {
+			text-indent: 101%;
+			white-space: nowrap;
+			overflow: hidden;
+		}
+
+		@media (min-width: 40em) {
+			.super-header {
+				background: #333;
+				height: 50px;
+				position: fixed;
+			}
+
+			.super-header .now-playing {
+				background-color: transparent;
+				float: right;
+				height: 50px;
+				left: 150px;
+				line-height: 50px;
+				margin-right: 1em;
+				position: absolute;
+				right: 345px; /* originally 300px */
+			}
+
+			.super-header .listen-live-wrap a.listen-live {
+				height: 50px;
+				padding: 0 50px 0 20px;
+				position: absolute;
+				right: 50px;
+				width: 295px; /* originally 250px */
+				-webkit-box-sizing: border-box;
+				box-sizing: border-box;
+			}			
+
+			.super-header .site-title a {
+				background-size: 96% auto;
+				height: 50px;
+				margin-left: .5em;
+			}
+
+			.site-title a {
+				background: url(/logo.png) center center/100% auto no-repeat;
+			}
+		}
+
+		@media (max-width: 40em) {
+			.super-header .listen-live-wrap a.listen-live {
+				background-color: #d1922a;
+				background-image: url(icn-stream-yellow.gif);
+				/*font: 800 1.1em/50px museo-sans-condensed,sans-serif;*/
+				font: 800 1.1em/50px oswald,sans-serif;
+				padding-left: 3em;
+				cursor: pointer;
+			}
+
+			.super-header .site-branding {
+				float: none!important;
+			}
+
+			.super-header .site-title a {
+				position: relative!important;
+				top: -50px!important;
+				left: 60px!important;
+			}
+
+			.super-header .listen-live-wrap a.listen-live {
+				color: #d1922a!important;
+			}
+		}
+
+		@media (min-width: 50em) {
+			.super-header .now-playing {
+				text-align: right;
+			}
+
+			.super-header .now-playing .now-playing-info {
+				animation: info-anim 7s infinite forwards;
+				-webkit-animation: info-anim 7s infinite forwards;
+			}
+		}
+
+		#cb-outer-container {
+		    padding-top: 40px!important;
+		}
+		
+		#cb-nav-bar.cb-stuck {
+		    top: 50px!important;
+		}
+		
+.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }
+
+.cb-grid-4 > div img, .cb-grid-5 > div img, .cb-grid-6 > div img {
+    display: block;
+}
+}#cb-top-menu .cb-breaking-news ul li a { color:#0a0a0a; }body {color:#0a0a0a; }.header { background-color: #ffffff; }</style><!-- end custom css --><style>#cb-nav-bar #cb-main-menu .main-nav .menu-item-9753:hover,
+                                         #cb-nav-bar #cb-main-menu .main-nav .menu-item-9753:focus,
+                                         #cb-nav-bar #cb-main-menu .main-nav .menu-item-9753 .cb-sub-menu li .cb-grandchild-menu,
+                                         #cb-nav-bar #cb-main-menu .main-nav .menu-item-9753 .cb-sub-menu { background:#eb9812!important; }
+                                         #cb-nav-bar #cb-main-menu .main-nav .menu-item-9753 .cb-mega-menu .cb-sub-menu li a { border-bottom-color:#eb9812!important; }
+#cb-nav-bar #cb-main-menu .main-nav .menu-item-24:hover,
+                                             #cb-nav-bar #cb-main-menu .main-nav .menu-item-24:focus,
+                                             #cb-nav-bar #cb-main-menu .main-nav .menu-item-24 .cb-sub-menu li .cb-grandchild-menu,
+                                             #cb-nav-bar #cb-main-menu .main-nav .menu-item-24 .cb-sub-menu { background:#c4393e!important; }
+                                             #cb-nav-bar #cb-main-menu .main-nav .menu-item-24 .cb-mega-menu .cb-sub-menu li a { border-bottom-color:#c4393e!important; }
+#cb-nav-bar #cb-main-menu .main-nav .menu-item-22:hover,
+                                             #cb-nav-bar #cb-main-menu .main-nav .menu-item-22:focus,
+                                             #cb-nav-bar #cb-main-menu .main-nav .menu-item-22 .cb-sub-menu li .cb-grandchild-menu,
+                                             #cb-nav-bar #cb-main-menu .main-nav .menu-item-22 .cb-sub-menu { background:#62b545!important; }
+                                             #cb-nav-bar #cb-main-menu .main-nav .menu-item-22 .cb-mega-menu .cb-sub-menu li a { border-bottom-color:#62b545!important; }
+#cb-nav-bar #cb-main-menu .main-nav .menu-item-25:hover,
+                                             #cb-nav-bar #cb-main-menu .main-nav .menu-item-25:focus,
+                                             #cb-nav-bar #cb-main-menu .main-nav .menu-item-25 .cb-sub-menu li .cb-grandchild-menu,
+                                             #cb-nav-bar #cb-main-menu .main-nav .menu-item-25 .cb-sub-menu { background:#689fce!important; }
+                                             #cb-nav-bar #cb-main-menu .main-nav .menu-item-25 .cb-mega-menu .cb-sub-menu li a { border-bottom-color:#689fce!important; }
+#cb-nav-bar #cb-main-menu .main-nav .menu-item-26:hover,
+                                             #cb-nav-bar #cb-main-menu .main-nav .menu-item-26:focus,
+                                             #cb-nav-bar #cb-main-menu .main-nav .menu-item-26 .cb-sub-menu li .cb-grandchild-menu,
+                                             #cb-nav-bar #cb-main-menu .main-nav .menu-item-26 .cb-sub-menu { background:#e9cc20!important; }
+                                             #cb-nav-bar #cb-main-menu .main-nav .menu-item-26 .cb-mega-menu .cb-sub-menu li a { border-bottom-color:#e9cc20!important; }
+#cb-nav-bar #cb-main-menu .main-nav .menu-item-27:hover,
+                                             #cb-nav-bar #cb-main-menu .main-nav .menu-item-27:focus,
+                                             #cb-nav-bar #cb-main-menu .main-nav .menu-item-27 .cb-sub-menu li .cb-grandchild-menu,
+                                             #cb-nav-bar #cb-main-menu .main-nav .menu-item-27 .cb-sub-menu { background:#e4406e!important; }
+                                             #cb-nav-bar #cb-main-menu .main-nav .menu-item-27 .cb-mega-menu .cb-sub-menu li a { border-bottom-color:#e4406e!important; }</style>		<!-- end head functions-->
+
+<!-- Begin comScore Tag -->
+<script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: "2", c2: "19283531" });
+  (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script>
+<noscript>
+  <img src="http://b.scorecardresearch.com/p?c1=2&c2=19283531&cv=2.0&cj=1" />
+</noscript>
+<!-- End comScore Tag -->
+
+	
+
+	
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.5&appId=401888189880035";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<!-- END Facebook like button -->
+
+<!-- Start indie88 -->
+
+
+<div class="super-header">
+		<div class="wrapper">
+			<div class="now-playing" style="display: none;">
+				<div class="now-playing-info">
+					<span class="artist"></span>
+					<span class="track"></span>
+				</div>                
+			</div>
+			<div class="listen-live-wrap">
+				<a href="http://indie.streamon.fm/?utm_source=Plaid%20Zebra&amp;utm_medium=website&amp;utm_campaign=Plaid%20Zebra" onclick="window.open(onclick='http://indie.streamon.fm/?utm_source=Plaid%20Zebra&amp;utm_medium=website&amp;utm_campaign=Plaid%20Zebra', 'Stream On Player', 'width=800,height=650'); return false;" id="listen-live" class="listen-live no-ajaxy ext-link" rel="external" title="" data-wpel-target="_blank">Listen To</a>
+		    	<h6 class="site-title"><a class="ir ext-link" href="http://indie.streamon.fm/?utm_source=Plaid%20Zebra&amp;utm_medium=website&amp;utm_campaign=Plaid%20Zebra" "http:="" indie.streamon.fm="" ?utm_source="Plaid%20Zebra&amp;utm_medium=website&amp;utm_campaign=Plaid%20Zebra" ,"="" 'stream="" on="" player',="" 'width="800,height=650');" return="" false;"="" title="Indie88" rel="external" data-wpel-target="_blank">Indie88</a></h6>
+			</div>
+		    <div class="site-branding">
+		    </div>
+	    </div>
+	</div>
+
+
+
+
+
+<!-- End of indie88 code -->
+
+<!-- Facebook LikedBox code -->
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.3&appId=401888189880035";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+<!-- End Facebook LikedBox code -->
+
+
+
+
+
+
+<class="page page-id-13712="" page-template-default"="">
+
+
+        
+
+
+	    <div id="cb-outer-container">
+
+    		<div id="cb-container" class="cb-boxed wrap clearfix">
+
+                <header class="header clearfix wrap" role="banner">
+
+                        <div class="wrap clearfix">
+                                                                            <div id="logo" class="cb-with-large">
+                                                <a href="http://www.theplaidzebra.com">
+                                                    <img src="http://www.theplaidzebra.com/wp-content/uploads/2014/06/ThePlaidZebraLogo.jpg" alt="The Plaid Zebra logo" width="400" height="95" data-retina-src="http://www.theplaidzebra.com/wp-content/uploads/2014/06/ThePlaidZebraLogo@2x.jpg">
+                                                </a>
+                                            </div>
+ <div class="cb-large">                             
+<div class="g g-3"><div class="g-single a-53"><!-- /43179455/LEADERBOARD_SITE -->
+<div id="div-gpt-ad-1446134461254-3" style="height:90px; width:728px;">
+<script type="text/javascript">
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1446134461254-3'); });
+</script>
+</div></div></div>                                
+                             </div>   
+                        </div>
+
+
+    				    <nav id="cb-nav-bar" class="clearfix stickybar cb-dark-menu" role="navigation">
+
+                            <div id="cb-search-modal" class="cb-dark-menu">
+                        <div class="cb-search-box">
+                            <div class="cb-header">
+                                <div class="cb-title">Search</div>
+                                <div class="cb-close">
+                                    <span class="cb-close-modal"><i class="fa fa-times"></i></span>
+                                </div>
+                            </div><form role="search" method="get" class="cb-search" action="http://www.theplaidzebra.com/">
+
+    <input type="text" class="cb-search-field" placeholder="" value="" name="s" title="">
+    <button class="cb-search-submit" type="submit" value=""><i class="fa fa-search"></i></button>
+
+</form></div></div> <div class="wrap clearfix"><div id="cb-main-menu" class="menu-main-menu-container"><ul class="nav main-nav clearfix"><li id="menu-item-9753" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-9753"><a href="http://theplaidzebra.com" rel="external" title="" class="ext-link" data-wpel-target="_blank">Home</a><div class="cb-links-menu"></div></li>
+<li id="menu-item-24" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-24"><a href="http://www.theplaidzebra.com/category/expression-and-culture/">Expression &amp; Culture</a><div class="cb-links-menu"></div></li>
+<li id="menu-item-22" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-22"><a href="http://www.theplaidzebra.com/category/body-vs-mind/">Body Vs Mind</a><div class="cb-links-menu"></div></li>
+<li id="menu-item-25" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-25"><a href="http://www.theplaidzebra.com/category/global-stage/">Global Stage</a><div class="cb-links-menu"></div></li>
+<li id="menu-item-26" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-26"><a href="http://www.theplaidzebra.com/category/innovation/">Innovation</a><div class="cb-links-menu"></div></li>
+<li id="menu-item-27" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-27"><a href="http://www.theplaidzebra.com/category/life-without-borders/">Life without Borders</a><div class="cb-links-menu"></div></li>
+<li class="cb-icons"><ul><li class="cb-icon-search"><a href="#" title="Search" class="cb-tip-bot" data-reveal-id="cb-search-modal"><i class="fa fa-search"></i></a></li></ul></li></ul></div></div>
+    	 				</nav>
+
+    	 				
+                            <!-- Secondary Menu -->
+                            <div id="cb-top-menu" class="clearfix cb-dark-menu cb-hidden">
+                                    <div class="wrap clearfix">
+
+                                        
+                                                    <a href="#" id="cb-small-menu-trigger"><i class="fa fa-bars"></i></a>
+
+                                        <a href="#" title="Search" class="cb-tip-bot cb-small-menu-icons cb-small-menu-search" data-reveal-id="cb-search-modal"><i class="fa fa-search"></i></a>
+                                        <div id="cb-tap-detect"></div>
+
+                                    </div>
+                            </div>
+                            <!-- /Secondary Menu -->
+
+                        
+                        
+                            <!-- Small-Screen Menu -->
+
+                            <section id="cb-small-menu" class="clearfix cb-dark-menu cb-sm-on">
+
+                                <a href="#" id="cb-small-menu-close"><i class="fa fa-times"></i></a>
+
+                                <ul class="cb-small-nav"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-9753"><a href="http://theplaidzebra.com" rel="external" title="" class="ext-link" data-wpel-target="_blank">Home</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-24"><a href="http://www.theplaidzebra.com/category/expression-and-culture/">Expression &amp; Culture</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-22"><a href="http://www.theplaidzebra.com/category/body-vs-mind/">Body Vs Mind</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-25"><a href="http://www.theplaidzebra.com/category/global-stage/">Global Stage</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-26"><a href="http://www.theplaidzebra.com/category/innovation/">Innovation</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-27"><a href="http://www.theplaidzebra.com/category/life-without-borders/">Life without Borders</a></li>
+</ul>
+                            </section>
+
+                            <!-- /Small-Screen Menu -->
+
+                        
+                        
+
+                </header> <!-- end header -->
+
+<!-- /43179455/Big_Leaderboard -->
+<center><div id="div-gpt-ad-1446134461254-2" style="height:250px; width:970px;">
+<script type="text/javascript">
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1446134461254-2'); });
+</script>
+</div>
+</center>        <div id="cb-content" class="wrap clearfix">
+
+	        <div class="cb-cat-header" style="border-bottom-color:#eb9812;">
+
+	                <h1 id="cb-cat-title">Privacy Policy</h1>
+
+	        </div>
+
+	        
+	        
+			<div id="main" class="entry-content clearfix" role="main">
+
+				
+				<article id="post-13712" class="clearfix post-13712 page type-page status-publish hentry" role="article" itemscope="" itemtype="http://schema.org/BlogPosting">
+
+					<section class="entry-content clearfix" itemprop="articleBody">
+						<p>This Privacy Policy governs the manner in which The Plaid Zebra collects, uses, maintains and discloses information collected from users (each, a “User”) of the <a href="http://www.ThePlaidZebra.com" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://www.ThePlaidZebra.com', 'http://www.ThePlaidZebra.com');">http://www.ThePlaidZebra.com</a> website (“Site”).</p>
+<h3>Personal identification information</h3>
+<p>We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, register on the site, place an order, fill out a form, respond to a survey, and in connection with other activities, services, features or resources we make available on our Site.. Users may visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.</p>
+<h3>Non-personal identification information</h3>
+<p>We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information.</p>
+<h3>Web browser cookies</h3>
+<p>Our Site may use “cookies” to enhance User experience. User’s web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.</p>
+<h3>How we use collected information</h3>
+<p>The Plaid Zebra may collect and use Users personal information for the following purposes:</p>
+<ul>
+<li><i>To run and operate our Site</i>
+<p>We may need your information display content on the Site correctly.</p></li>
+<li><i>To improve customer service</i>
+<p>Information you provide helps us respond to your customer service requests and support needs more efficiently.</p></li>
+<li><i>To personalize user experience</i>
+<p>We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.</p></li>
+<li><i>To improve our Site</i>
+<p>We may use feedback you provide to improve our products and services.</p></li>
+<li><i>To run a promotion, contest, survey or other Site feature</i>
+<p>To send Users information they agreed to receive about topics we think will be of interest to them.</p></li>
+<li><i>To send periodic emails</i>
+<p>We may use the email address to send User information and updates pertaining to their order. It may also be used to respond to their inquiries, questions, and/or other requests.</p></li>
+</ul>
+<h3>How we protect your information</h3>
+<p>We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.</p>
+<h3>Sharing your personal information</h3>
+<p>We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above. We may use third party service providers to help us operate our business and the Site or administer activities on our behalf, such as sending out newsletters or surveys. We may share your information with these third parties for those limited purposes provided that you have given us your permission.</p>
+<h3>Electronic newsletters</h3>
+<p>If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. We may use third party service providers to help us operate our business and the Site or administer activities on our behalf, such as sending out newsletters or surveys. We may share your information with these third parties for those limited purposes provided that you have given us your permission.</p>
+<h3>Third party websites</h3>
+<p>Users may find advertising or other content on our Site that link to the sites and services of our partners, suppliers, advertisers, sponsors, licencors and other third parties. We do not control the content or links that appear on these sites and are not responsible for the practices employed by websites linked to or from our Site. In addition, these sites or services, including their content and links, may be constantly changing. These sites and services may have their own privacy policies and customer service policies. Browsing and interaction on any other website, including websites which have a link to our Site, is subject to that website’s own terms and policies.</p>
+<h3>Advertising</h3>
+<p>Ads appearing on our site may be delivered to Users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile non personal identification information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This privacy policy does not cover the use of cookies by any advertisers.</p>
+<h3>Google Adsense</h3>
+<p>Some of the ads may be served by Google. Google’s use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses “non personally identifiable information” and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at <a href="http://www.google.com/privacy_ads.html" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://www.google.com/privacy_ads.html', 'http://www.google.com/privacy_ads.html');" rel="external" title="" class="ext-link" data-wpel-target="_blank">http://www.google.com/privacy_ads.html</a></p>
+<h3>Compliance with children’s online privacy protection act</h3>
+<p>Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our Site from those we actually know are under 13, and no part of our website is structured to attract anyone under 13.</p>
+<h3>Changes to this privacy policy</h3>
+<p>The Plaid Zebra has the discretion to update this privacy policy at any time. When we do, we will post a notification on the main page of our Site. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.</p>
+<h3>Your acceptance of these terms</h3>
+<p>By using this Site, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.</p>
+<h3>Contacting us</h3>
+<p>If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us.</p>
+<p>This document was last updated on August 05, 2015</p>
+			     	</section> <!-- end article section -->
+
+					<footer class="article-footer">
+
+                                                
+					</footer> <!-- end article footer -->
+
+					
+				</article> <!-- end article -->
+
+				
+			</div> <!-- end #main -->
+
+			
+<aside class="cb-sidebar clearfix" role="complementary">
+
+
+<div id="adrotate_widgets-18" class="cb-sidebar-widget widget_adrotate_widgets"><!--mfunc echo adrotate_ad(52, true, 0, 0, 0) --><div class="a-single a-52"><!-- /43179455/SKYSCRAPER_SITE -->
+<div id="div-gpt-ad-1446134461254-4" style="height:600px; width:300px;">
+<script type="text/javascript">
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1446134461254-4'); });
+</script>
+</div></div><!--/mfunc--></div><div id="cb-recent-posts-30" class="cb-sidebar-widget widget-latest-articles"><h3 class="cb-sidebar-widget-title">Recent Articles</h3>
+        <ul class="cb-light cb-big">
+                            
+            <li class="cb-article clearfix">
+                <div class="cb-mask" style="background-color:#689fce;">
+                    <a href="http://www.theplaidzebra.com/a-powerful-photo-series-shows-how-a-young-girl-cares-for-her-family-with-only-her-legs/"><img width="360" height="240" src="http://www.theplaidzebra.com/wp-content/uploads/2015/12/1.Banner-Vietnam-photo-series-1-of-1-360x240.jpg" class="attachment-cb-360-240 wp-post-image" alt="1.Banner-Vietnam photo series (1 of 1)"></a>                </div>
+                <div class="cb-meta">
+                    <h4 class="h2"><a href="http://www.theplaidzebra.com/a-powerful-photo-series-shows-how-a-young-girl-cares-for-her-family-with-only-her-legs/">A powerful photo series shows how a young girl cares for her family with only her legs</a></h4>
+                    <div class="cb-byline"> <div class="cb-date cb-byline-element"><i class="fa fa-clock-o"></i> <time class="updated" datetime="2015-12-06">December 6, 2015</time></div></div>                    <div class="cb-excerpt">BY: KASSANDRA DZIKEWICZ The aftermath of the Vietnam War still burdens many of its people. During the war Agent...</div>               </div>
+            </li>
+                    
+            <li class="cb-article clearfix">
+                <div class="cb-mask" style="background-color:#689fce;">
+                    <a href="http://www.theplaidzebra.com/artist-shows-how-costly-war-really-is-with-these-graphic-illustrations/"><img width="360" height="240" src="http://www.theplaidzebra.com/wp-content/uploads/2015/12/1_how-costly-war-really-is-360x240.jpg" class="attachment-cb-360-240 wp-post-image" alt="1_how costly war really is"></a>                </div>
+                <div class="cb-meta">
+                    <h4 class="h2"><a href="http://www.theplaidzebra.com/artist-shows-how-costly-war-really-is-with-these-graphic-illustrations/">Artist shows how costly war really is with these graphic illustrations</a></h4>
+                    <div class="cb-byline"> <div class="cb-date cb-byline-element"><i class="fa fa-clock-o"></i> <time class="updated" datetime="2015-12-06">December 6, 2015</time></div></div>                    <div class="cb-excerpt">BY: JESSICA BEUKER The effects of war are costly—for the economy, for the environment and for humanity. Yet we...</div>               </div>
+            </li>
+                    
+            <li class="cb-article clearfix">
+                <div class="cb-mask" style="background-color:#c4393e;">
+                    <a href="http://www.theplaidzebra.com/watch-what-happens-when-people-are-told-they-are-beautiful-from-a-stranger/"><img width="360" height="240" src="http://www.theplaidzebra.com/wp-content/uploads/2015/12/1.banner-people-are-told-they-are-beautiful-1-of-1-360x240.jpg" class="attachment-cb-360-240 wp-post-image" alt="1.banner-people are told they are beautiful (1 of 1)"></a>                </div>
+                <div class="cb-meta">
+                    <h4 class="h2"><a href="http://www.theplaidzebra.com/watch-what-happens-when-people-are-told-they-are-beautiful-from-a-stranger/">Watch what happens when people are told they are beautiful from a stranger</a></h4>
+                    <div class="cb-byline"> <div class="cb-date cb-byline-element"><i class="fa fa-clock-o"></i> <time class="updated" datetime="2015-12-06">December 6, 2015</time></div></div>                    <div class="cb-excerpt">BY: JESSICA BEUKER How do you react when a stranger calls you beautiful? Do you kindly and humbly thank them for the...</div>               </div>
+            </li>
+                    
+            <li class="cb-article clearfix">
+                <div class="cb-mask" style="background-color:#c4393e;">
+                    <a href="http://www.theplaidzebra.com/children-with-down-syndrome-transform-into-iconic-art-through-this-incredible-photo-series/"><img width="360" height="240" src="http://www.theplaidzebra.com/wp-content/uploads/2015/12/1.banner-Children-with-down-syndrome-art-series-1-of-1-360x240.jpg" class="attachment-cb-360-240 wp-post-image" alt="1.banner-Children with down syndrome art series (1 of 1)"></a>                </div>
+                <div class="cb-meta">
+                    <h4 class="h2"><a href="http://www.theplaidzebra.com/children-with-down-syndrome-transform-into-iconic-art-through-this-incredible-photo-series/">Children with Down Syndrome transform into iconic art through this incredible photo series</a></h4>
+                    <div class="cb-byline"> <div class="cb-date cb-byline-element"><i class="fa fa-clock-o"></i> <time class="updated" datetime="2015-12-06">December 6, 2015</time></div></div>                    <div class="cb-excerpt">BY: KASSANDRA DZIKEWICZ Often people with disabilities are only seen as their disability. This photo series...</div>               </div>
+            </li>
+                    
+            <li class="cb-article clearfix">
+                <div class="cb-mask" style="background-color:#e9cc20;">
+                    <a href="http://www.theplaidzebra.com/a-cancer-centre-designed-a-hospital-that-brings-control-and-normality-back-to-patients-lives/"><img width="360" height="240" src="http://www.theplaidzebra.com/wp-content/uploads/2015/12/3_Josie-Robertson-Surgery-Center-360x240.jpg" class="attachment-cb-360-240 wp-post-image" alt="3_Josie Robertson Surgery Center"></a>                </div>
+                <div class="cb-meta">
+                    <h4 class="h2"><a href="http://www.theplaidzebra.com/a-cancer-centre-designed-a-hospital-that-brings-control-and-normality-back-to-patients-lives/">A cancer centre designed a hospital that brings control and normality back to patients’ lives</a></h4>
+                    <div class="cb-byline"> <div class="cb-date cb-byline-element"><i class="fa fa-clock-o"></i> <time class="updated" datetime="2015-12-05">December 5, 2015</time></div></div>                    <div class="cb-excerpt">BY: JESSICA BEUKER Hospitals are not places that conjure up feelings of warmth and comfort. No, more often they are...</div>               </div>
+            </li>
+        </ul>
+        </div><div id="text-40" class="cb-sidebar-widget widget_text">			<div class="textwidget"><div id="crtoTextBanner">
+<script type="text/javascript">
+if (window.innerWidth>=768) {
+<!--//<![CDATA[
+   document.MAX_ct0 ='';
+   var m3_u = (location.protocol=='https:'?'https://cas.criteo.com/delivery/ajs.php?':'http://cas.criteo.com/delivery/ajs.php?');
+   var m3_r = Math.floor(Math.random()*99999999999);
+   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+   document.write ("zoneid=303359");document.write("&amp;nodis=1");
+   document.write ('&amp;cb=' + m3_r);
+   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+   document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));
+   document.write ("&amp;loc=" + escape(window.location));
+   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+   if (document.context) document.write ("&context=" + escape(document.context));
+   if ((typeof(document.MAX_ct0) != 'undefined') && (document.MAX_ct0.substring(0,4) == 'http')) {
+       document.write ("&amp;ct0=" + escape(document.MAX_ct0));
+   }
+   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+   document.write ("'></scr"+"ipt>");
+//]]>-->
+}
+</script><script type="text/javascript" src="https://cas.criteo.com/delivery/ajs.php?zoneid=303359&amp;nodis=1&amp;cb=66311113603&amp;exclude=undefined&amp;charset=UTF-8&amp;loc=https%3A//web.archive.org/web/20151207151618id_/http%3A//www.theplaidzebra.com/privacy-policy/"></script>
+</div></div>
+		</div><div id="cb-recent-posts-4" class="cb-sidebar-widget widget-latest-articles"><h3 class="cb-sidebar-widget-title">Featured Articles</h3>
+        <ul class="cb-light cb-small">
+                            
+            <li class="cb-article clearfix">
+                <div class="cb-mask" style="background-color:#d73737;">
+                    <a href="http://www.theplaidzebra.com/iceland-is-throwing-a-massive-party-inside-a-glacier-before-it-melts-forever/"><img width="80" height="60" src="http://www.theplaidzebra.com/wp-content/uploads/2015/12/1_party-inside-a-glacier-Iceland-80x60.jpg" class="attachment-cb-80-60 wp-post-image" alt="1_party inside a glacier Iceland"></a>                </div>
+                <div class="cb-meta">
+                    <h4><a href="http://www.theplaidzebra.com/iceland-is-throwing-a-massive-party-inside-a-glacier-before-it-melts-forever/">Iceland is throwing a massive party inside a glacier before it melts forever</a></h4>
+                    <div class="cb-byline"> <div class="cb-date cb-byline-element"><i class="fa fa-clock-o"></i> <time class="updated" datetime="2015-12-05">December 5, 2015</time></div></div>                                   </div>
+            </li>
+                    
+            <li class="cb-article clearfix">
+                <div class="cb-mask" style="background-color:#c4393e;">
+                    <a href="http://www.theplaidzebra.com/the-spiritual-teachings-of-a-part-time-hotdog-vendor-and-full-time-wizard/"><img width="80" height="60" src="http://www.theplaidzebra.com/wp-content/uploads/2015/12/1_part-time-hotdog-vendor-and-full-time-wizard-80x60.jpg" class="attachment-cb-80-60 wp-post-image" alt="1_part-time hotdog vendor and full-time wizard"></a>                </div>
+                <div class="cb-meta">
+                    <h4><a href="http://www.theplaidzebra.com/the-spiritual-teachings-of-a-part-time-hotdog-vendor-and-full-time-wizard/">The spiritual teachings of a part-time hotdog vendor and full-time wizard</a></h4>
+                    <div class="cb-byline"> <div class="cb-date cb-byline-element"><i class="fa fa-clock-o"></i> <time class="updated" datetime="2015-12-04">December 4, 2015</time></div></div>                                   </div>
+            </li>
+                    
+            <li class="cb-article clearfix">
+                <div class="cb-mask" style="background-color:#d73737;">
+                    <a href="http://www.theplaidzebra.com/this-violent-sport-breeds-and-raises-camels-to-fight-each-other-for-human-entertainment/"><img width="80" height="60" src="http://www.theplaidzebra.com/wp-content/uploads/2015/12/1_camel-fighting-80x60.jpg" class="attachment-cb-80-60 wp-post-image" alt="1_camel fighting"></a>                </div>
+                <div class="cb-meta">
+                    <h4><a href="http://www.theplaidzebra.com/this-violent-sport-breeds-and-raises-camels-to-fight-each-other-for-human-entertainment/">This violent sport breeds and raises camels to fight each other for human entertainment</a></h4>
+                    <div class="cb-byline"> <div class="cb-date cb-byline-element"><i class="fa fa-clock-o"></i> <time class="updated" datetime="2015-12-03">December 3, 2015</time></div></div>                                   </div>
+            </li>
+                    
+            <li class="cb-article clearfix">
+                <div class="cb-mask" style="background-color:#c4393e;">
+                    <a href="http://www.theplaidzebra.com/theres-an-entire-religion-inspired-by-the-dude-from-the-big-lebowski/"><img width="80" height="60" src="http://www.theplaidzebra.com/wp-content/uploads/2015/12/1_religion-inspired-by-Big-Lebowski-80x60.jpg" class="attachment-cb-80-60 wp-post-image" alt="1_religion inspired by Big Lebowski"></a>                </div>
+                <div class="cb-meta">
+                    <h4><a href="http://www.theplaidzebra.com/theres-an-entire-religion-inspired-by-the-dude-from-the-big-lebowski/">There’s an entire religion inspired by The Dude from The Big Lebowski</a></h4>
+                    <div class="cb-byline"> <div class="cb-date cb-byline-element"><i class="fa fa-clock-o"></i> <time class="updated" datetime="2015-12-02">December 2, 2015</time></div></div>                                   </div>
+            </li>
+                    
+            <li class="cb-article clearfix">
+                <div class="cb-mask" style="background-color:#62b545;">
+                    <a href="http://www.theplaidzebra.com/people-are-using-cannabis-oil-as-an-alternative-cancer-treatment-and-its-working/"><img width="80" height="60" src="http://www.theplaidzebra.com/wp-content/uploads/2015/12/4_cannabis-oil-as-an-alternative-cancer-treatment-80x60.jpg" class="attachment-cb-80-60 wp-post-image" alt="4_cannabis oil as an alternative cancer treatment"></a>                </div>
+                <div class="cb-meta">
+                    <h4><a href="http://www.theplaidzebra.com/people-are-using-cannabis-oil-as-an-alternative-cancer-treatment-and-its-working/">People are using cannabis oil as an alternative cancer treatment and it’s working</a></h4>
+                    <div class="cb-byline"> <div class="cb-date cb-byline-element"><i class="fa fa-clock-o"></i> <time class="updated" datetime="2015-12-01">December 1, 2015</time></div></div>                                   </div>
+            </li>
+        </ul>
+        </div><div id="categories-2" class="cb-sidebar-widget widget_categories"><h3 class="cb-sidebar-widget-title">Categories</h3>		<ul>
+	<li class="cat-item cat-item-2384"><a href="http://www.theplaidzebra.com/category/art-as-a-weapon/">Art As A Weapon</a>
+</li>
+	<li class="cat-item cat-item-10"><a href="http://www.theplaidzebra.com/category/body-vs-mind/">Body Vs Mind</a>
+</li>
+	<li class="cat-item cat-item-7"><a href="http://www.theplaidzebra.com/category/expression-and-culture/">Expression &amp; Culture</a>
+</li>
+	<li class="cat-item cat-item-91"><a href="http://www.theplaidzebra.com/category/featured/">Featured</a>
+</li>
+	<li class="cat-item cat-item-8"><a href="http://www.theplaidzebra.com/category/global-stage/">Global Stage</a>
+</li>
+	<li class="cat-item cat-item-12"><a href="http://www.theplaidzebra.com/category/innovation/">Innovation</a>
+</li>
+	<li class="cat-item cat-item-11"><a href="http://www.theplaidzebra.com/category/life-without-borders/">Life without Borders</a>
+</li>
+	<li class="cat-item cat-item-2407"><a href="http://www.theplaidzebra.com/category/the-dunce-cap/">The Dunce Cap</a>
+</li>
+	<li class="cat-item cat-item-1"><a href="http://www.theplaidzebra.com/category/uncategorized/">Uncategorized</a>
+</li>
+	<li class="cat-item cat-item-852"><a href="http://www.theplaidzebra.com/category/video/">Video</a>
+</li>
+		</ul>
+</div><div id="archives-3" class="cb-sidebar-widget widget_archive"><h3 class="cb-sidebar-widget-title">Archives</h3>		<ul>
+	<li><a href="http://www.theplaidzebra.com/2015/12/">December 2015</a></li>
+	<li><a href="http://www.theplaidzebra.com/2015/11/">November 2015</a></li>
+	<li><a href="http://www.theplaidzebra.com/2015/10/">October 2015</a></li>
+	<li><a href="http://www.theplaidzebra.com/2015/09/">September 2015</a></li>
+	<li><a href="http://www.theplaidzebra.com/2015/08/">August 2015</a></li>
+	<li><a href="http://www.theplaidzebra.com/2015/07/">July 2015</a></li>
+	<li><a href="http://www.theplaidzebra.com/2015/06/">June 2015</a></li>
+	<li><a href="http://www.theplaidzebra.com/2015/05/">May 2015</a></li>
+	<li><a href="http://www.theplaidzebra.com/2015/04/">April 2015</a></li>
+	<li><a href="http://www.theplaidzebra.com/2015/03/">March 2015</a></li>
+	<li><a href="http://www.theplaidzebra.com/2015/02/">February 2015</a></li>
+	<li><a href="http://www.theplaidzebra.com/2015/01/">January 2015</a></li>
+	<li><a href="http://www.theplaidzebra.com/2014/12/">December 2014</a></li>
+	<li><a href="http://www.theplaidzebra.com/2014/11/">November 2014</a></li>
+	<li><a href="http://www.theplaidzebra.com/2014/10/">October 2014</a></li>
+	<li><a href="http://www.theplaidzebra.com/2014/09/">September 2014</a></li>
+	<li><a href="http://www.theplaidzebra.com/2014/08/">August 2014</a></li>
+	<li><a href="http://www.theplaidzebra.com/2014/07/">July 2014</a></li>
+	<li><a href="http://www.theplaidzebra.com/2014/06/">June 2014</a></li>
+		</ul>
+</div>
+</aside>
+
+		</div> <!-- end #cb-content -->
+
+     			<footer id="cb-footer" class=" wrap" role="contentinfo">
+
+    				<div id="cb-widgets" class="cb-footer-a wrap clearfix">
+
+                                                    <div class="cb-one cb-column clearfix">
+                                <div id="text-20" class="cb-footer-widget widget_text"><h3 class="cb-footer-widget-title"><span>About</span></h3>			<div class="textwidget"><p><a href="http://www.theplaidzebra.com/about/">
+</a></p><p style="text-align:center"><a href="http://www.theplaidzebra.com/about/">About</a></p>
+<p><a href="http://www.theplaidzebra.com/contact-us/">
+</a></p><p style="text-align:center"><a href="http://www.theplaidzebra.com/contact-us/">Contact Us</a></p>
+<p><a href="http://www.theplaidzebra.com/submit/">
+</a></p><p style="text-align:center"><a href="http://www.theplaidzebra.com/submit/">Write for Us</a></p>
+<p><a href="http://www.theplaidzebra.com/advertise">
+</a></p><p style="text-align:center"><a href="http://www.theplaidzebra.com/advertise">Advertise</a></p>
+<p><a href="http://www.theplaidzebra.com/sitemap_index.xml">
+</a></p><p style="text-align:center"><a href="http://www.theplaidzebra.com/sitemap_index.xml">Sitemap</a></p>
+<p><a href="http://www.theplaidzebra.com/feed/">
+</a></p><p style="text-align:center"><a href="http://www.theplaidzebra.com/feed/">RSS</a></p>
+</div>
+		</div>                            </div>
+                                                                                                    <div class="cb-three cb-column clearfix">
+                                <div id="social-media-icons-4" class="cb-footer-widget cb-social-media-widget clearfix"><h3 class="cb-footer-widget-title"><span>Follow Us! </span></h3><a href="http://www.theplaidzebra.com/feed/" target="_blank" class="cb-social-media-icon cb-rss icon-1"></a><a href="http://www.twitter.com/the_plaidZebra" class="cb-social-media-icon cb-twitter icon-2 ext-link" rel="external" title="" data-wpel-target="_blank"></a><a href="http://www.facebook.com/theplaidzebra" class="cb-social-media-icon cb-facebook icon-3 ext-link" rel="external" title="" data-wpel-target="_blank"></a><a href="https://plus.google.com/105015084666103789459/" class="cb-social-media-icon cb-googleplus icon-4 ext-link" rel="external" title="" data-wpel-target="_blank"></a></div>                            </div>
+                                                
+                    </div>
+
+                    
+                        <div class="cb-footer-lower clearfix">
+
+                            <div class="wrap clearfix">
+
+                                <div class="cb-copyright"><a href="http://www.ThePlaidZebra.com/">The Plaid Zebra - An Unconventional Lifestyle Magazine</a></div>
+
+        						<div class="cb-footer-links clearfix"><ul id="menu-secondary" class="nav cb-footer-nav clearfix"><li id="menu-item-88" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-88"><a href="http://facebook.com/ThePlaidZebra" onclick="__gaTracker('send', 'event', 'outbound-widget', 'http://facebook.com/ThePlaidZebra', 'Facebook');" rel="external" title="" class="ext-link" data-wpel-target="_blank">Facebook</a></li>
+<li id="menu-item-89" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-89"><a href="http://theplaidzebra.com/about" rel="external" title="" class="ext-link" data-wpel-target="_blank">About</a></li>
+<li id="menu-item-1704" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1704"><a href="http://www.theplaidzebra.com/contact-us/">Contact Us</a></li>
+<li id="menu-item-968" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-968"><a href="http://www.theplaidzebra.com/submit/">Submissions</a></li>
+<li id="menu-item-11166" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11166"><a href="http://www.theplaidzebra.com/advertise/">Advertise</a></li>
+<li id="menu-item-13714" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-13712 current_page_item menu-item-13714"><a href="http://www.theplaidzebra.com/privacy-policy/">Privacy Policy</a></li>
+<li id="menu-item-2583" class="support menu-item menu-item-type-post_type menu-item-object-page menu-item-2583"><a href="http://www.theplaidzebra.com/support/">Support</a></li>
+</ul></div>
+           					</div>
+
+        				</div>
+    				
+    			</footer> <!-- end footer -->
+
+    		</div> <!-- end #cb-container -->
+
+		</div> <!-- end #cb-outer-container -->
+
+		        <script type="text/javascript">
+        // <![CDATA[
+        var disqus_shortname = 'plaidzebra';
+        (function () {
+            var nodes = document.getElementsByTagName('span');
+            for (var i = 0, url; i < nodes.length; i++) {
+                if (nodes[i].className.indexOf('dsq-postid') != -1) {
+                    nodes[i].parentNode.setAttribute('data-disqus-identifier', nodes[i].getAttribute('data-dsqidentifier'));
+                    url = nodes[i].parentNode.href.split('#', 1);
+                    if (url.length == 1) { url = url[0]; }
+                    else { url = url[1]; }
+                    nodes[i].parentNode.href = url + '#disqus_thread';
+                }
+            }
+            var s = document.createElement('script'); 
+            s.async = true;
+            s.type = 'text/javascript';
+            s.src = '//' + disqus_shortname + '.disqus.com/count.js';
+            (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
+        }());
+        // ]]>
+        </script>
+        <script type="text/javascript" src="http://www.theplaidzebra.com/wp-content/plugins/wp-external-links/js/wp-external-links.js?ver=1.80"></script>
+<script type="text/javascript" src="http://www.theplaidzebra.com/wp-content/plugins/arscode-ninja-popups/js/jquery.ck.min.js?ver=4.3.1"></script>
+<script type="text/javascript" src="http://www.theplaidzebra.com/wp-content/plugins/arscode-ninja-popups/js/ninjapopups.min.js?ver=4.3.1"></script>
+<script type="text/javascript" src="http://www.theplaidzebra.com/wp-content/plugins/adrotate-pro/library/jquery.adrotate.responsive.js?ver=0.4"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var click_object = {"ajax_url":"http:\/\/www.theplaidzebra.com\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://www.theplaidzebra.com/wp-content/plugins/adrotate-pro/library/jquery.adrotate.clicktracker.js?ver=0.7"></script>
+<script type="text/javascript" src="http://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201550"></script>
+<script type="text/javascript" src="http://www.theplaidzebra.com/wp-includes/js/comment-reply.min.js?ver=4.3.1"></script>
+<script type="text/javascript" src="http://www.theplaidzebra.com/wp-content/themes/valenti/library/js/jquery.flexslider-min.js?ver=4.3.1"></script>
+<script type="text/javascript" src="http://www.theplaidzebra.com/wp-content/themes/valenti/library/js/selectivizr-min.js?ver=4.3.1"></script>
+<script type="text/javascript" src="http://www.theplaidzebra.com/wp-content/themes/valenti/library/js/jquery.fs.boxer.min.js?ver=4.3.1"></script>
+<script type="text/javascript" src="http://www.theplaidzebra.com/wp-content/themes/valenti/library/js/jquery.ext.js?ver=4.3.1"></script>
+<script type="text/javascript" src="http://www.theplaidzebra.com/wp-content/themes/valenti/library/js/cb-scripts.js?ver=3.0"></script>
+<!-- AdRotate JS -->
+<script type="text/javascript">
+</script>
+<!-- /AdRotate JS -->
+
+<script type="text/javascript" src="http://stats.wp.com/e-201550.js" async="" defer=""></script>
+<script type="text/javascript">
+	_stq = window._stq || [];
+	_stq.push([ 'view', {v:'ext',j:'1:3.8.0',blog:'77279558',post:'13712',tz:'-5',srv:'www.theplaidzebra.com'} ]);
+	_stq.push([ 'clickTrackerInit', '77279558', '13712' ]);
+</script>
+<style type="text/css"></style><script type="text/javascript">var essb_handle_stats = function(oService, oPostID, oInstance) { var element = jQuery('.essb_'+oInstance); var instance_postion = jQuery(element).attr("data-essb-position") || ""; var instance_template = jQuery(element).attr("data-essb-template") || ""; var instance_button = jQuery(element).attr("data-essb-button-style") || ""; var instance_counters = jQuery(element).hasClass("essb_counters") ? true : false; var instance_nostats = jQuery(element).hasClass("essb_nostats") ? true : false; if (instance_nostats) { return; } var instance_mobile = false; if( (/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i).test(navigator.userAgent) ) { instance_mobile = true; } if (typeof(essb_settings) != "undefined") { jQuery.post(essb_settings.ajax_url, { 'action': 'essb_stat_log', 'post_id': oPostID, 'service': oService, 'template': instance_template, 'mobile': instance_mobile, 'position': instance_postion, 'button': instance_button, 'counter': instance_counters, 'nonce': essb_settings.essb3_nonce }, function (data) { if (data) { }},'json'); } }; var essb_clicked_lovethis = false; var essb_love_you_message_thanks = "Thank you for loving this."; var essb_love_you_message_loved = "You already love this today."; var essb_lovethis = function(oInstance) { if (essb_clicked_lovethis) { alert(essb_love_you_message_loved); return; } var element = jQuery('.essb_'+oInstance); if (!element.length) { return; } var instance_post_id = jQuery(element).attr("data-essb-postid") || ""; var cookie_set = essb_get_lovecookie("essb_love_"+instance_post_id); if (cookie_set) { alert(essb_love_you_message_loved); return; } if (typeof(essb_settings) != "undefined") { jQuery.post(essb_settings.ajax_url, { 'action': 'essb_love_action', 'post_id': instance_post_id, 'service': 'love', 'nonce': essb_settings.essb3_nonce }, function (data) { if (data) { alert(essb_love_you_message_thanks); }},'json'); } essb_tracking_only('', 'love', oInstance, true); }; var essb_get_lovecookie = function(name) { var value = "; " + document.cookie; var parts = value.split("; " + name + "="); if (parts.length == 2) return parts.pop().split(";").shift(); }; var essb_window = function(oUrl, oService, oInstance) { var element = jQuery('.essb_'+oInstance); var instance_post_id = jQuery(element).attr("data-essb-postid") || ""; var instance_position = jQuery(element).attr("data-essb-position") || ""; var wnd; var w = 800 ; var h = 500; if (oService == "twitter") { w = 500; h= 300; } var left = (screen.width/2)-(w/2); var top = (screen.height/2)-(h/2); if (oService == "twitter") { wnd = window.open( oUrl, "essb_share_window", "height=300,width=500,resizable=1,scrollbars=yes,top="+top+",left="+left ); } else { wnd = window.open( oUrl, "essb_share_window", "height=500,width=800,resizable=1,scrollbars=yes,top="+top+",left="+left ); } if (typeof(essb_settings) != "undefined") { if (essb_settings.essb3_stats) { if (typeof(essb_handle_stats) != "undefined") { essb_handle_stats(oService, instance_post_id, oInstance); } } if (essb_settings.essb3_ga) { essb_ga_tracking(oService, oUrl, instance_position); } } essb_self_postcount(oService, instance_post_id); var pollTimer = window.setInterval(function() { if (wnd.closed !== false) { window.clearInterval(pollTimer); essb_smart_onclose_events(oService, instance_post_id); } }, 200); }; var essb_self_postcount = function(oService, oCountID) { if (typeof(essb_settings) != "undefined") { oCountID = String(oCountID); jQuery.post(essb_settings.ajax_url, { 'action': 'essb_self_postcount', 'post_id': oCountID, 'service': oService, 'nonce': essb_settings.essb3_nonce }, function (data) { if (data) { }},'json'); } }; var essb_smart_onclose_events = function(oService, oPostID) { if (typeof (essbasc_popup_show) == 'function') { essbasc_popup_show(); } if (typeof essb_acs_code == 'function') { essb_acs_code(oService, oPostID); } }; var essb_tracking_only = function(oUrl, oService, oInstance, oAfterShare) { var element = jQuery('.essb_'+oInstance); if (oUrl == "") { oUrl = document.URL; } var instance_post_id = jQuery(element).attr("data-essb-postid") || ""; var instance_position = jQuery(element).attr("data-essb-position") || ""; if (typeof(essb_settings) != "undefined") { if (essb_settings.essb3_stats) { if (typeof(essb_handle_stats) != "undefined") { essb_handle_stats(oService, instance_post_id, oInstance); } } if (essb_settings.essb3_ga) { essb_ga_tracking(oService, oUrl, instance_position); } } essb_self_postcount(oService, instance_post_id); if (oAfterShare) { essb_smart_onclose_events(oService, instance_post_id); } }; var essb_pinterest_picker = function(oInstance) { essb_tracking_only('', 'pinterest', oInstance); var e=document.createElement('script'); e.setAttribute('type','text/javascript'); e.setAttribute('charset','UTF-8'); e.setAttribute('src','//assets.pinterest.com/js/pinmarklet.js?r='+Math.random()*99999999);document.body.appendChild(e); }; var essb_ga_tracking = function(oService, oPosition, oURL) { var essb_ga_type = essb_settings.essb3_ga_mode; if ( 'ga' in window && window.ga !== undefined && typeof window.ga === 'function' ) { if (essb_ga_type == "extended") { ga('send', 'event', 'social', oService + ' ' + oPosition, oURL); } else { ga('send', 'event', 'social', oService, oURL); } } };</script>
+
+
+
+	
+ <!-- The End. what a ride! --></class="page></body></html>
