@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moneyqanda.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607140755id_/http%3A//moneyqanda.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moneyqanda.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207020912id_/http%3A//moneyqanda.com/privacy-policy) for the most accurate reproduction.*
 
 # Money Q&A's Privacy Policy - Money Q&A
 
