@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the connectnigeria.com privacy policy that was archived on 2015-06-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150608002545id_/http%3A//www.connectnigeria.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the connectnigeria.com privacy policy that was archived on 2015-12-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151207142835id_/http%3A//www.connectnigeria.com/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en" class=""><head>
+<!DOCTYPE html><html lang="en"><head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -44,6 +44,9 @@
             <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
             <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
     <![endif]-->
+
+    
+
     <script type="text/javascript">
         
         $(document).ready(function(){
@@ -127,6 +130,22 @@
 			});
 		});
 	</script>
+	<script type="text/javascript">
+		$(document).ready(function() {
+			$(".various-error").fancybox({
+				/*maxWidth	: 600,
+				maxHeight	: 700,
+				*/
+				fitToView	: false,
+				width		: 500,
+				height		: 450,
+				autoSize	: false,
+				closeClick	: false,
+				openEffect	: 'none',
+				closeEffect	: 'none'
+			});
+		});
+	</script>
 	<!-- /* 2015-05-18 Task CON-174 Mark */ -->
 	<script type="text/javascript">
 		$(document).ready(function() {
@@ -146,7 +165,30 @@
 	<!--/*-----------------------END 2015-05-18 Task CON-174 Mark------*/-->
 	
 	<!--/*-------------------------------------------------------------*/-->
-<style type="text/css">.fancybox-margin{margin-right:0px;}</style></head>
+		<link href="/assets/js/ResponsiveImageGallery/elastislide.css" rel="stylesheet">
+    <link href="/assets/js/ResponsiveImageGallery/elastislide_style.css" rel="stylesheet">
+	<script type="text/javascript" src="/assets/js/ResponsiveImageGallery/jquery.tmpl.min.js"></script> 
+	<script type="text/javascript" src="/assets/js/ResponsiveImageGallery/jquery.elastislide.js"></script>
+	<script type="text/javascript" src="/assets/js/ResponsiveImageGallery/gallery.js"></script>
+	
+	<script id="img-wrapper-tmpl" type="text/x-jquery-tmpl">	
+		<div class="rg-image-wrapper">
+			{{if itemsCount > 1}}
+				<div class="rg-image-nav">
+					<a href="#" class="rg-image-nav-prev">Previous Image</a>
+					<a href="#" class="rg-image-nav-next">Next Image</a>
+				</div>
+			{{/if}}
+			<div class="rg-image"></div>
+			<div class="rg-loading"></div>
+			<div class="rg-caption-wrapper">
+				<div class="rg-caption" style="display:none;">
+					<p></p>
+				</div>
+			</div>
+		</div>
+	</script>
+	</head>
 	<body>
 
 		<!--[if lt IE 7]>
@@ -163,9 +205,19 @@
             </div>
           </div>
         </section>-->
+        
+        <section style="background:#e26d0e; position:fixed; top:0; left:0; width:100%; z-index:1000; height:50px;">
+          <div class="container">
+          	<div class="row text-center">
+            	<div class="col-lg-12 hidden-sm hidden-xs" align="center"> <a href="http://connectnigeria.com/bizfair/" target="_blank"><img src="/assets/img/bizfair-2016-banner-topheader.jpg" class="img-responsive"></a></div>
+              <div class="col-lg-12 hidden-lg hidden-md hidden-xs" align="center"> <a href="http://connectnigeria.com/bizfair/" target="_blank"><img src="/assets/img/bizfair-2016-banner-topheader2.jpg" class="img-responsive"></a></div>
+              <div class="col-lg-12 hidden-lg hidden-md hidden-sm" align="center"> <a href="http://connectnigeria.com/bizfair/" target="_blank"><img src="/assets/img/bizfair-2016-banner-topheader3.jpg" class="img-responsive"></a></div>
+            </div>
+          </div>
+        </section>
 
 		
-		<section class="search-holder">
+		<section class="search-holder" style="margin-top:48px;">
 			<div class="container">
 				<div class="row">
 					<div class="row">
@@ -279,10 +331,16 @@
 		</a>
 	  </li>
 	  <li>
-		<a href="/articles/">
+		<a href="/articles/" target="_blank">
 			<i class="fa fa-pencil-square-o fa-1x"></i>
 			
 		  Articles
+		</a>
+	  </li>
+      <li>
+		<a href="http://connectnigeria.com/cntv/" target="_blank">
+			<i class="fa fa-video-camera fa-1x"></i>
+			CNTV
 		</a>
 	  </li>
 	  <!--<li>
@@ -294,7 +352,11 @@
 	  </li>-->
 	</ul>
     </div>
-	</div><!-- top-search --><div class="social-media mb-40 hidden-xs">
+	</div><!-- top-search --><div class="mb-20">
+	<div align="left"><a href="http://www.connectnigeria.com/advertise/"><img src="http://www.connectnigeria.com/assets/img/CN_AdvertiseWithUs_300x200.gif" class="img-responsive"></a></div>
+</div>
+
+<div class="social-media mb-40 hidden-xs">
     <h2>Connect with us</h2>
         <ul>
             <li class="pull-left"> <!-- social button facebook -->
@@ -327,13 +389,27 @@
             </li>
         </ul>
         <iframe class="mt-10" src="//www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.facebook.com%2FConnectNigeria&amp;width=200&amp;layout=standard&amp;action=like&amp;show_faces=true&amp;share=false&amp;height=80&amp;appId=495795903812377" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:200px; height:25px;" allowtransparency="true"></iframe>
-        <div style="padding-top:20px;">
+        <div style="padding:20px 0px;">
         <!-- BEGIN: Constant Contact Email List Form Button<div align="left"><a href="http://visitor.r20.constantcontact.com/d.jsp?llr=7cmoveeab&p=oi&m=1103963304028&sit=vqhhl5rfb&f=feb10f04-7050-45e8-bcf6-40601fd2bb2c" class="button" target="_blank" style="color: #fff; display: inline-block; padding: 8px 20px; text-shadow: none; border-radius: 20px; background-color: #ff8e1f; text-decoration:none;">Newsletter Sign Up</a></div>
         </div><!--Newsletter -->
         
         
         <!-- BEGIN: Constant Contact Email List Form Button --><div align="left"><a href="http://visitor.r20.constantcontact.com/d.jsp?llr=7cmoveeab&amp;p=oi&amp;m=1103963304028&amp;sit=vqhhl5rfb&amp;f=feb10f04-7050-45e8-bcf6-40601fd2bb2c" class="button" target="_blank"><img src="http://www.connectnigeria.com/assets/img/btn-newsletter.jpg" class="img-responsive"></a></div>
         </div><!--Newsletter -->
+        
+        
+        	<div class="row text-center">
+            <!-- Home-Left-Sidebar-160x600 [async] -->
+            <script type="text/javascript">if (!window.AdButler){(function(){var s = document.createElement("script"); s.async = true; s.type = "text/javascript";s.src = 'http://ab166077.adbutler-zilon.com/app.js';var n = document.getElementsByTagName("script")[0]; n.parentNode.insertBefore(s, n);}());}</script>
+            <script type="text/javascript">
+            var AdButler = AdButler || {}; AdButler.ads = AdButler.ads || [];
+            var abkw = window.abkw || '';
+            var plc182849 = window.plc182849 || 0;
+            document.write('<div id="placement_182849_'+plc182849+'"></div>');
+            AdButler.ads.push({handler: function(opt){ AdButler.register(166077, 182849, [160,600], 'placement_182849_'+opt.place, opt); }, opt: { place: plc182849++, keywords: abkw, domain: 'ab166077.adbutler-zilon.com' }});
+            </script><div id="placement_182849_0"></div>
+            </div>
+        <!-- banner ad 160x600 -->
         
         
 </div><!-- social-media -->
@@ -348,19 +424,8 @@
     </div>
 </div>--><!-- social-media -->
 
-<br>
-<!--—banner ad—-->
-<div class="row text-center">
-<!-- Home-Left-Sidebar-160x600 [async] -->
-<script type="text/javascript">if (!window.AdButler){(function(){var s = document.createElement("script"); s.async = true; s.type = "text/javascript";s.src = 'http://ab166077.adbutler-zilon.com/app.js';var n = document.getElementsByTagName("script")[0]; n.parentNode.insertBefore(s, n);}());}</script>
-<script type="text/javascript">
-var AdButler = AdButler || {}; AdButler.ads = AdButler.ads || [];
-var abkw = window.abkw || '';
-var plc182849 = window.plc182849 || 0;
-document.write('<div id="placement_182849_'+plc182849+'"></div>');
-AdButler.ads.push({handler: function(opt){ AdButler.register(166077, 182849, [160,600], 'placement_182849_'+opt.place, opt); }, opt: { place: plc182849++, keywords: abkw, domain: 'ab166077.adbutler-zilon.com' }});
-</script><div id="placement_182849_0"></div>
-</div>            </aside><!-- search-social -->
+
+            </aside><!-- search-social -->
             <div class="col-sm-5 col-md-7 listings-content">
 						
 						<div class="article-details">
@@ -458,7 +523,24 @@ AdButler.ads.push({handler: function(opt){ AdButler.register(166077, 182849, [16
     </div>
 </section><!-- content -->
 
-	<section class="links">
+	<section style="background: #222;">
+			<div class="container">
+			<div class="row col-md-12 text-center hidden-xs" style="background: #222; padding: 20px;">
+                	<!-- CN-Leaderboard-728x90 [async] -->
+					<script type="text/javascript">if (!window.AdButler){(function(){var s = document.createElement("script"); s.async = true; s.type = "text/javascript";s.src = 'http://ab166077.adbutler-zilon.com/app.js';var n = document.getElementsByTagName("script")[0]; n.parentNode.insertBefore(s, n);}());}</script>
+                    <script type="text/javascript">
+                    var AdButler = AdButler || {}; AdButler.ads = AdButler.ads || [];
+                    var abkw = window.abkw || '';
+                    var plc184251 = window.plc184251 || 0;
+                    document.write('<'+'div id="placement_184251_'+plc184251+'"></'+'div>');
+                    AdButler.ads.push({handler: function(opt){ AdButler.register(166077, 184251, [728,90], 'placement_184251_'+opt.place, opt); }, opt: { place: plc184251++, keywords: abkw, domain: 'ab166077.adbutler-zilon.com' }});
+                    </script><div id="placement_184251_0"></div>
+                </div>
+                <!-- home footer advertisement -->
+                </div>
+</section>
+
+<section class="links">
 			<div class="container">
 				<div class="row mt-40">
 					<div class="col-sm-3 col-md-3 list">
@@ -486,7 +568,7 @@ AdButler.ads.push({handler: function(opt){ AdButler.register(166077, 182849, [16
                             <li><a href="http://www.connectnigeria.com/privacy-policy">Privacy Policy</a></li>
 							<!--/* 2015-05-06 Task CON-167 Mark */-->
 							<li><a href="http://www.connectnigeria.com/disclaimer">Disclaimer</a></li>
-                            <li><a href="http://www.connectnigeria.com/terms-and-conditions">Terms and Conditions</a></li> 
+                            <!--<li><a href="http://www.connectnigeria.com/terms-and-conditions">Terms and Conditions</a></li> -->
                             <!--<li><a href="http://www.connectnigeria.com/registration">Sign Up</a></li>
 							/*------------------------------------------------*/-->
 						</ul>	
@@ -505,12 +587,15 @@ AdButler.ads.push({handler: function(opt){ AdButler.register(166077, 182849, [16
 						</ul>	
 					</div><!-- list -->
 					<div class="col-sm-3 col-md-3">
-						<div class="ad-banner-callout">
+                    	<a href="http://www.connectnigeria.com/advertise/">
+                        	<img src="http://www.connectnigeria.com/assets/img/CN_AdvertiseWithUs_300x200.gif" class="img-responsive">
+                        </a>
+						<!--<div class="ad-banner-callout">
 							<div class="callout-info">
 								<p>Advertise on ConnectNigeria</p>
 								<a href="http://www.connectnigeria.com/advertise" class="btn-callout mt-10">View Plans</a>
 							</div>
-						</div><!-- ad-banner-callout -->
+						</div> ad-banner-callout -->
 					</div>
 				</div>
 			</div>
@@ -617,5 +702,7 @@ AdButler.ads.push({handler: function(opt){ AdButler.register(166077, 182849, [16
                       var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
                     })();
                 </script>
+	<!-- new HG server -->
 	
+
 </body></html>
