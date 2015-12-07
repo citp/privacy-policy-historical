@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the homeschoolblogger.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608135258id_/http%3A//mollygreen.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homeschoolblogger.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207102438id_/http%3A//mollygreen.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | Molly Green
-
-## Molly Green Privacy Policy
 
 The Molly Green website and its related web pages (the “Website”) are owned and operated by Molly Green, LLC (the “Company” or “we” or “us”). The Company is committed to protecting the personal privacy of all customers (“Customers”), vendors (“Vendors”), and Website users (collectively, “Users”) in accordance with this policy. For purposes of Molly Green’s Privacy Policy (the “Privacy Policy”), any person accessing or using any part of the Website is a “User.” By using the Website, you agree to the collection, use, and disclosure of your Personal Information (defined below) as described in this Privacy Policy as well as the Website Terms of Use, which are incorporated herein. If you do not agree to the terms of this Privacy Policy, please do not use the Website.
 
