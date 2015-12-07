@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the greenchildmagazine.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607162149id_/http%3A//www.greenchildmagazine.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greenchildmagazine.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207150104id_/http%3A//www.greenchildmagazine.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Green Child Magazine
 
@@ -14,15 +14,14 @@ We value our relationship with you and provide this policy to better protect you
 If you ever have any questions about our privacy policy, magazine, website or parent company FGM, LLC please feel free to contact us at info@freshgreenmediall.com or by post at the address below:
 
 **Fresh Green Media, LLC**  
-P.O. Box 911002  
-Lexington, KY 40591  
-859-753-8717
+P.O. Box 14423  
+Gainesville, FL 32607
 
 **What information do we collect?**
 
-We collect information from you when you register on our site, place an order, subscribe to our newsletter, respond to a survey or fill out a form.
+We collect information from you when you register on our site, subscribe to our newsletter, respond to a survey or fill out a form.
 
-When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address or mailing address. You may, however, visit our site anonymously.
+When registering on our site, as appropriate, you may be asked to enter your: name, e-mail address or mailing address. You may, however, visit our site anonymously.
 
 **What do we use your information for?**
 
@@ -55,10 +54,6 @@ Occasionally, at our discretion, we may include or offer third party products or
 **Childrens Online Privacy Protection Act Compliance**
 
 We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
-
-**Terms and Conditions**
-
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at http://www.greenchildmagazine.com/
 
 **Your Consent**
 
