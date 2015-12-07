@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the binaryoptionstutor.com privacy policy that was archived on 2015-06-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150608071051id_/http%3A//www.binaryoptionstutor.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the binaryoptionstutor.com privacy policy that was archived on 2015-12-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151207153149id_/http%3A//www.binaryoptionstutor.com/privacy) for the most accurate reproduction.-->
 
 <html><head>
 <title>Binary Options signals  and trading tutoring</title>
@@ -10,6 +10,14 @@
 <meta name="google-site-verification" content="lIxZurTAVcH-AOZeXDvLhnSY8vEuZMJcHo3SbWTy0FQ">
 <link rel="shortcut icon" href="http://www.binaryoptionstutor.com/images/favicon.ico">
 <script id="twitter-wjs" src="https://platform.twitter.com/widgets.js"></script><script type="text/javascript" src="/js/jquery-1.11.1.js"></script>
+
+<!-- bxSlider video plugin -->
+<script src="/js/plugins/jquery.fitvids.js"></script>
+<!-- bxSlider Javascript file -->
+<script src="/js/jquery.bxslider.min.js"></script>
+<!-- bxSlider CSS file -->
+<link href="/js/jquery.bxslider.css" rel="stylesheet">
+
 <script src="/js/jquery.countdown.js"></script>
 <script>
 function SelectAllByID(id)
@@ -23,6 +31,19 @@ function open_window(url) {
 }
 function ShowPic(url,title,x1,y1) {
 	window.open('image.php?i='+url+'&t='+title+'', 'MyWin', 'top=1,width=' + x1 + ', height=' + y1 + '');
+}
+
+function confirmKCAcctNum(div_id,app_name,rd_url)
+{
+var myDiv=document.getElementById(div_id);
+var acctNum=myDiv.querySelector("textarea[name=acct_num]").value;
+var msg='Get my KEY_CODE for '+app_name+'\r\n'+'Account #: '+acctNum+'\r\n'+'Are you sure?';
+ if(acctNum !='') { 
+  if(confirm(msg)) {
+  window.location.href=rd_url+'&acct_num='+acctNum;
+  } // end if, confirm
+ } // end if, acctNum is not NULL
+return false;
 }
 </script>
 <link href="http://www.binaryoptionstutor.com/styles.css" rel="stylesheet" type="text/css">
@@ -84,12 +105,12 @@ function ShowPic(url,title,x1,y1) {
   <div id="headerNav">
 			<table height="37" border="0" cellpadding="0" cellspacing="0">
 				<tbody><tr>
-					<td width="64" height="37"><a class="tabNavRowNews" href="/news.php"></a></td>										
-					<td width="150" height="37"><a class="tabNavRowHome" href="/index.php"></a></td>
-					<td width="150" height="37"><a class="tabNavRowFAQ" href="http://www.binaryoptionstutor.com/binary-options-tutor-faq.html"></a></td>
-					<td width="150" height="37"><a class="tabNavRowSupport" href="/index.php"></a></td>
-					<td width="150" height="37"><a class="tabNavRowAboutUs" href="http://www.binaryoptionstutor.com/aboutus.php"></a></td>
-					<td width="150" height="37"><a class="tabNavRowContactUs" href="http://www.binaryoptionstutor.com/contactus/"></a></td>
+					<td width="64" height="37"><a class="bot-top-nav-news hvr-underline-reveal" href="/news.php">News</a></td>										
+					<td width="150" height="37"><a class="bot-top-nav hvr-underline-reveal" href="/index.php">Home</a></td>
+					<td width="150" height="37"><a class="bot-top-nav hvr-underline-reveal" href="http://www.binaryoptionstutor.com/binary-options-tutor-faq.html">FAQ</a></td>
+					<td width="150" height="37"><a class="bot-top-nav hvr-underline-reveal" href="/index.php">Support</a></td>
+					<td width="150" height="37"><a class="bot-top-nav hvr-underline-reveal" href="http://www.binaryoptionstutor.com/aboutus.php">About Us</a></td>
+					<td width="150" height="37"><a class="bot-top-nav hvr-underline-reveal" href="http://www.binaryoptionstutor.com/contactus/">Contact Us</a></td>
 				</tr>
 			</tbody></table>
   </div> <!-- /headerNav -->
@@ -161,23 +182,17 @@ function ShowPic(url,title,x1,y1) {
   <div id="categoryTitle"></div> <!-- /categoryTitle -->
 
    <div id="categoryMenu">
-   <ul><div style="color:#fff;background:#060;">&nbsp;&nbsp;&nbsp;[Results]</div>    
-<li><a href="http://www.binaryoptionstutor.com/monthly_results/botsignals/" title="Binary Options Signals Results for BOTSignals">BOTSignals Results</a></li>
-</ul><ul>
-<div style="color:#fff;background:#060;">&nbsp;&nbsp;&nbsp;[Videos]</div>    
-<li><a href="http://www.binaryoptionstutor.com/view_binaryoptions_videos.php" title="Binary Options YouTube Videos">BinaryOptionsTutor YouTube Videos</a></li>
+   <ul>
+<div style="color:#fff;background:#060;">&nbsp;&nbsp;&nbsp;[Products &amp; Services]</div>    
+<li><a href="http://www.binaryoptionstutor.com/Category/best-mt4-indicators-c4/1/"><b>Best MT4 Indicators</b></a></li>
+<li><a href="http://www.binaryoptionstutor.com/Category/free-binary-options-strategies-c3/1/"><b>Free Binary Options Strategies</b></a></li>
+
 </ul><ul>
 <div style="color:#fff;background:#060;">&nbsp;&nbsp;&nbsp;[FREE Tools]</div>    
 <li><a href="http://www.binaryoptionstutor.com/view_toolbox_pas_stocks_assets_page.php" title="Binary Options Signals FREE Tools PAS (Pivots &amp; Average Swings) for Stocks &amp; other Assets">PAS (Pivots &amp; Average Swings)<br>Stocks &amp; Other Assets</a></li>
 <li><a href="http://www.binaryoptionstutor.com/view_toolbox_msp_stocks_assets_page.php" title="Binary Options Signals FREE Tools MultiSwing Profiler for Stocks &amp; other Assets">MultiSwing Profiler<br>Stocks &amp; Other Assets</a></li>
 <li><a href="http://www.binaryoptionstutor.com/view_toolbox_msp_page.php" title="Binary Options Signals FREE Tools MultiSwing Profiler for Forex">MultiSwing Profiler Forex</a></li>
 <li><a href="http://www.binaryoptionstutor.com/view_forex_news_calendar.php" title="Forex News Calendar">Forex News Calendar</a></li>
-</ul><ul>
-<div style="color:#fff;background:#060;">&nbsp;&nbsp;&nbsp;[Products &amp; Services]</div>    
-<li><a href="http://www.binaryoptionstutor.com/Category/best-mt4-indicators-c4/1/"><b>Best MT4 Indicators</b></a></li>
-<li><a href="http://www.binaryoptionstutor.com/Category/binary-options-signals-c2/1/"><b>Binary Options Signals</b></a></li>
-<li><a href="http://www.binaryoptionstutor.com/Category/free-binary-options-strategies-c3/1/"><b>Free Binary Options Strategies</b></a></li>
-
 </ul><ul>
 <div style="color:#fff;background:#060;">&nbsp;&nbsp;&nbsp;[Binary Options Tutorials]</div><li><a href="http://www.binaryoptionstutor.com/forex-volatility-qvs-indicator.html"><b>Forex Volatility QVS Indicator</b></a></li>
 <li><a href="http://www.binaryoptionstutor.com/money-management-calculator.html"><b>Money Management Calculator</b></a></li>
@@ -200,7 +215,9 @@ function ShowPic(url,title,x1,y1) {
 <li><a href="http://www.binaryoptionstutor.com/trade-binary-options-like-buffett.html"><b>Trade Binary's Like Buffet</b></a></li>
 <li><a href="http://www.binaryoptionstutor.com/binary-options-and-using-indicators.html"><b>Using Indicators In Binary Options </b></a></li>
 <li><a href="http://www.binaryoptionstutor.com/binary-options-perception-trading.html"><b>Binary Perception Trading</b></a></li>
-</ul>   </div> <!-- /categoryMenu -->
+</ul><div style="color:#fff;background:#060;">&nbsp;&nbsp;&nbsp;[Results]</div>    
+<li><a href="http://www.binaryoptionstutor.com/monthly_results/botsignals/" title="Binary Options Signals Results for BOTSignals">BOTSignals Results</a></li>
+   </div> <!-- /categoryMenu -->
 
 
  </div> <!-- /sidebarLeft -->
@@ -214,68 +231,21 @@ function ShowPic(url,title,x1,y1) {
    <div id="sidebarRightAd">
 <center>
    <div>
-<a href="http://goo.gl/LSzthF" target="_blank">
-<img src="http://www.binaryoptionstutor.com/images/BOT_GreenArrow_Banner_160x600.png" border="0" width="160" height="600" alt="">
-</a>
+<iframe src="http://rcm-na.amazon-adsystem.com/e/cm?t=gubug09-20&amp;o=1&amp;p=11&amp;l=ez&amp;f=ifr&amp;f=ifr&amp;linkID=5CCSYHFCXQFAQEQP" width="120" height="600" scrolling="no" marginwidth="0" marginheight="0" border="0" frameborder="0" style="border:none;"></iframe>
 <center>
 <div style="width:160px;height:48px;">
 <a href="http://www.youtube.com/user/binaryoptionstutor?sub_confirmation=1" target="_blank"><img src="http://www.binaryoptionstutor.com/images/BOT_Youtube_Subscribe_Btn.png" width="160" height="48" alt="" border="0">
 </a>
 </div></center>
+<div style="height:2px;"></div>
+<div style="width:160px;height:78px;">
+<a href="https://www.facebook.com/binaryoptionstutor" target="_blank"><img src="http://www.binaryoptionstutor.com/images/FB_FollowBtn.png" width="128" height="76" alt="" border="0">
+</a>
+</div>
             <a class="twitter-timeline" href="https://twitter.com/TraderAlfred" data-widget-id="560288500361482240">Tweets by @TraderAlfred</a>
             <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>          
 </div></center>
-
-<div>
 <br>
-<center>
-<table width="180" cellspacing="0" cellpadding="1" border="1">
-<tbody><tr bgcolor="#006600">
-  <td colspan="2" align="center">
-  <a href="http://www.binaryoptionstutor.com/forum/index.php?action=register" target="_blank" title="Binary Options Forum"><span style="color:#fc0;">Register FREE</span></a>
-  </td>
-</tr>
-<tr bgcolor="#000000">
-  <td colspan="2" style="color:#fff;">
-  Binary Options Forum
-  </td>
-</tr>
-<tr bgcolor="#eeeeee">
-     <td style="border:none;">
-	 <img src="http://www.binaryoptionstutor.com/images/bullet_blue.png" width="16" height="16">
-	 </td>
-	 <td style="border:none;">
-	 <div><a href="http://www.binaryoptionstutor.com/forum/index.php/topic,123.msg258.html#msg258" target="_blank"><span>How to trade Volatility using our free online tool</span></a><br>by: <a href="http://www.binaryoptionstutor.com/forum/index.php?action=profile;u=1" target="_blank">BOT Alfred</a><br>June 04, 2015, 03:56:59 AM</div>
-	 </td>
-   </tr><tr bgcolor="#ffffff">
-     <td style="border:none;">
-	 <img src="http://www.binaryoptionstutor.com/images/bullet_blue.png" width="16" height="16">
-	 </td>
-	 <td style="border:none;">
-	 <div><a href="http://www.binaryoptionstutor.com/forum/index.php/topic,107.msg256.html#msg256" target="_blank"><span>Re: Binary Options Tutor Nugget 01 Using Round Numbers and Whole numbers</span></a><br>by: <a href="http://www.binaryoptionstutor.com/forum/index.php?action=profile;u=1" target="_blank">BOT Alfred</a><br>June 02, 2015, 01:39:33 PM</div>
-	 </td>
-   </tr><tr bgcolor="#eeeeee">
-     <td style="border:none;">
-	 <img src="http://www.binaryoptionstutor.com/images/bullet_blue.png" width="16" height="16">
-	 </td>
-	 <td style="border:none;">
-	 <div><a href="http://www.binaryoptionstutor.com/forum/index.php/topic,119.msg220.html#msg220" target="_blank"><span>Re: Heiken Ashi Trading system Discussion</span></a><br>by: <a href="http://www.binaryoptionstutor.com/forum/index.php?action=profile;u=1" target="_blank">BOT Alfred</a><br>February 24, 2015, 08:43:35 PM</div>
-	 </td>
-   </tr><tr bgcolor="#ffffff">
-     <td style="border:none;">
-	 <img src="http://www.binaryoptionstutor.com/images/bullet_blue.png" width="16" height="16">
-	 </td>
-	 <td style="border:none;">
-	 <div><a href="http://www.binaryoptionstutor.com/forum/index.php/topic,119.msg216.html#msg216" target="_blank"><span>Re: Heiken Ashi Trading system Discussion</span></a><br>by: <a href="http://www.binaryoptionstutor.com/forum/index.php?action=profile;u=1" target="_blank">BOT Alfred</a><br>January 22, 2015, 06:39:25 PM</div>
-	 </td>
-   </tr><tr bgcolor="#eeeeee">
-     <td style="border:none;">
-	 <img src="http://www.binaryoptionstutor.com/images/bullet_blue.png" width="16" height="16">
-	 </td>
-	 <td style="border:none;">
-	 <div><a href="http://www.binaryoptionstutor.com/forum/index.php/topic,119.msg215.html#msg215" target="_blank"><span>Re: Heiken Ashi Trading system Discussion</span></a><br>by: <a href="http://www.binaryoptionstutor.com/forum/index.php?action=profile;u=1" target="_blank">BOT Alfred</a><br>January 20, 2015, 02:16:00 PM</div>
-	 </td>
-   </tr></tbody></table></center></div><br>
 <table bgcolor="#ffffff" width="180" border="0" cellspacing="0" cellpadding="5">
 <tbody><tr>
  <td>
@@ -300,12 +270,12 @@ Support BinaryOptionsTutor.com with any donation!
 
 </div> <!-- /sidebarRight -->
 
-   
-
  <div id="footer">
   <div id="footerAd">
 <center>
-  </center>
+  <div>
+<iframe src="http://rcm-na.amazon-adsystem.com/e/cm?t=gubug09-20&amp;o=1&amp;p=48&amp;l=ur1&amp;category=electronics&amp;f=ifr&amp;linkID=J7BLWFGY5KJK7OXF" width="728" height="90" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe>
+</div></center>
   </div> <!-- /footerAd -->
 
              <div id="footerNav">
@@ -323,7 +293,7 @@ Support BinaryOptionsTutor.com with any donation!
 		<div>
 			<font color="#000000" face="Arial" id="role_document" size="2">(NOTICE) - This website is <u>NOT</u> owned by any binary options company.<br>
 			<br>
-			<strong>USA REGULATION NOTICE:</strong>&nbsp; Currently NADEX is the only&nbsp;CFTC regulated Binary Options&nbsp;exchange available legally to citizens of the U.S. Please take notice that any unregulated trading activity&nbsp;by U.S. Citizens is considered unlawful.</font>
+			<strong>USA REGULATION NOTICE:</strong>&nbsp; Currently NADEX,<a href="https://trading.cantorexchange.com/welcome/?code=dig" target="_blank"><font face="Arial" size="2">Cantor Exchange</font></a>,CBOE,CME,NYSE are the only&nbsp;CFTC regulated Binary Options&nbsp;exchange available legally to citizens of the U.S. Please take notice that any unregulated trading activity&nbsp;by U.S. Citizens is considered unlawful.</font>
 		</div>
 		<div>
 			<font color="#000000" face="Arial" id="role_document" size="2">&nbsp;</font>
