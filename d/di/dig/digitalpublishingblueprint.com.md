@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the digitalpublishingblueprint.com privacy policy that was archived on 2015-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150516160806id_/http%3A//www.30dcsecure.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digitalpublishingblueprint.com privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208005325id_/http%3A//www.30dcsecure.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | 30DC Inc
 
-Thank you for visiting a 30DC Inc. website, including eddale.co, magcast.co, magcastapp.com, digitalpublishingblueprint.com, ultimateproductsystem.com, fbtrafficmasterclass.com, ignitionblueprint.com, tribeformula.com, challenge.co, 30dcpro.com, dpb.eddale.co, private.eddale.co, challenge.eddale.co or 30dcinc.com. You arrived at this page from one of the above sites, referred to herein as “this web site”.
+Thank you for visiting a 30DC Inc. website(s). You arrived at this page from one of our sites, referred to herein as “this web site”.
 
 30DC Inc (30DC Inc 80 Broad St, 5th Floor, New York, NY 10004) is serious about protecting your online privacy. This Privacy Statement explains our views and practices concerning privacy, and how they may pertain to you as a user of our website.
 
@@ -37,9 +37,7 @@ We use your personal, demographic and profile data to enhance your experience at
 
 If you choose to provide personal information, it will be used for the following purposes:
 
-considering you for a 30DC Inc product;  
-as required by law; and  
-for marketing products and services which we determine, in our sole judgment, that you might find of interest. We reserve the right to share, rent, sell, or otherwise disclose data we collect to third parties. Any third party we share, rent, sell, or otherwise disclose data to will be prescreened by us, determined by us to be reputable, and will use the personal data for marketing products and services which we determine, in our sole judgment, that you might find of interest.
+considering you for a 30DC Inc product; as required by law; and for marketing products and services which we determine, in our sole judgment, that you might find of interest. We reserve the right to share, rent, sell, or otherwise disclose data we collect to third parties. Any third party we share, rent, sell, or otherwise disclose data to will be prescreened by us, determined by us to be reputable, and will use the personal data for marketing products and services which we determine, in our sole judgment, that you might find of interest.
 
  **Section 4: Your Opt-Out Rights**
 
