@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mrsthreeinthree.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608114520id_/http%3A//asimplepantry.com/advertise/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mrsthreeinthree.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207134932id_/http%3A//asimplepantry.com/advertise/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - A Simple Pantry
 
@@ -77,3 +77,18 @@ If we decide to make any changes to our privacy policy, we will post those chang
 This policy was last modified on 08/10/2014
 
 If you require more information or have any questions regarding our privacy policy please feel free to contact me via email: mrsthreeinthree@gmail.com.
+
+  * About
+  * Latest Posts
+
+
+
+[](http://asimplepantry.com/ "Karly")
+
+### [Karly](http://asimplepantry.com/)
+
+Karly is a no-nonsense blogger and digital artist who writes about anything that catches her fancy in a serious and silly fashion that is uniquely her own. She has four daughters and lives in San Antonio, Texas, with her husband, where they drink heavily during the scorching summer months and wrangle cats for fun.
+
+[](http://asimplepantry.com/ "Karly")
+
+#### Latest posts by Karly ([see all](http://asimplepantry.com/author/mrsthreeinthree))
