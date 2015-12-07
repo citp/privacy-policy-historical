@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tiresplus.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608045314id_/http%3A//www.tiresplus.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tiresplus.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207032838id_/http%3A//www.tiresplus.com/privacy-policy) for the most accurate reproduction.*
 
 # Tires Plus Privacy Policy | Tires Plus
 
@@ -58,5 +58,7 @@ Upon your request, Tires Plus will (a) remove your personal information from Tir
 #### Updates to This Policy
 
 If Tires Plus decides to change or update this Privacy Policy, Tires Plus will post changes and updates on this Site so that you will always be aware of what information Tires Plus collects, uses and distributes. Tires Plus encourages you to review this Privacy Policy from time to time so you will know if the Privacy Policy has been changed or updated. If you have any questions about Tires Plus’s Privacy Policy, please use the "Contact Us" section of this Site.
+
+* References to Tires Plus in this privacy policy includes Firestone Complete Auto Care, Hibdon Tires Plus, Wheel Works and other trade names under which Bridgestone Retail Operations operates. 
 
 **©2015 Tires Plus. All rights reserved.**
