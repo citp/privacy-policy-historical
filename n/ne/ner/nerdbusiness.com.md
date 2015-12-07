@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nerdbusiness.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607203545id_/http%3A//nerdbusiness.com/blog/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nerdbusiness.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207120044id_/http%3A//nerdbusiness.com/blog/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
