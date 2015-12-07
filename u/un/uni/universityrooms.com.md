@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the universityrooms.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607115216id_/http%3A//www.speedybooker.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the universityrooms.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207235333id_/http%3A//www.speedybooker.com/privacy.aspx) for the most accurate reproduction.*
 
 # SpeedyBooker.com: bookings for everyone
 
@@ -6,14 +6,18 @@
 
 This site is powered by SpeedyBooker, part of SpeedyBooker.com Ltd ( **We, Us, Our** ), which is committed to preserving the privacy of all visitors to Our websites and partner websites. By making a booking through this website, You consent to the collection, use and transfer of Your information under the terms of this policy.
 
+**Cookies:**
+
+Cookies help us deliver our services. By using our services, you agree to our use of cookies.
+
 **Information that we collect from you:**
 
-\- When You visit, register or order products or services on this website You may be asked to provide certain information about yourself including Your name, contact details and credit or debit card information.   
+\- When You visit, register or order products or services on this website You may be asked to provide certain information about yourself including Your name, contact details and credit or debit card information.  
 \- We may also collect information about Your usage of Our website as well as information about You from messages you post to the website and e-mails or letters You send to Us.
 
 **Use of your Information:**
 
-\- Your information will enable Us, Our partner websites and Our properties to supply the goods or services You have requested. It will also enable Us to bill You and Our properties to contact You where necessary concerning Your orders. We will also use and analyse the information We collect so that We can administer, support, improve and develop Our business.   
+\- Your information will enable Us, Our partner websites and Our properties to supply the goods or services You have requested. It will also enable Us to bill You and Our properties to contact You where necessary concerning Your orders. We will also use and analyse the information We collect so that We can administer, support, improve and develop Our business.  
 \- We may use Your information to contact You for Your views on Our services and to notify You occasionally about important changes or developments to the website or Our services. Further, where You have consented, and in the case of a SpeedyBooker partner website, the owner of the website You book through, might also use your information to let You know by email about products and services which We offer which may be of interest to you. If You change Your mind about being contacted in the future, You will be able to Unsubscribe.
 
 **Disclosure of your Information:**
