@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the soxprospects.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608045135id_/http%3A//www.soxprospects.com/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the soxprospects.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207110230id_/http%3A//www.soxprospects.com/privacypolicy.htm) for the most accurate reproduction.*
 
 # Privacy Policy | SoxProspects.com
 
