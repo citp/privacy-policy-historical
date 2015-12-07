@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the highrises.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607144620id_/http%3A//www.highrises.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the highrises.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207034452id_/http%3A//www.highrises.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy & Terms of Service
 
@@ -22,7 +22,7 @@ Our web site contains links to and from other web sites and may be in the form o
 
 ### Referrals
 
-When you provide us with Personal Information such as your name, email and/or phone number, you authorize Highrises.com to refer you to our partner real estate brokerage and/or mortgage broker in the market in which you registered or inquired.  You also acknowledge that Highrises.com may be paid a valuable consideration for facilitating such a referral.
+When you provide us with Personal Information such as your name, email and/or phone number, you authorize Highrises.com to refer you to our partner real estate brokerage and/or Referral Exchange and/or a mortgage broker in the market in which you registered or inquired.  You also acknowledge that Highrises.com may be paid a valuable consideration for facilitating such a referral.
 
 ### Your Consent
 
