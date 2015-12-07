@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the awaionline.com privacy policy that was archived on 2015-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150519072130id_/http%3A//www.awaionline.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the awaionline.com privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208001506id_/http%3A//www.awaionline.com/about/privacy) for the most accurate reproduction.*
 
 # American Writers & Artists Inc. Privacy Statement
 
@@ -18,11 +18,13 @@ American Writers & Artists Inc. does not sell or rent your email address to anyo
 
 Any email you send to American Writers & Artists Inc. is completely confidential. We will not add your name to our email list without your permission. For security reasons, if your inquiry is about one of your subscriptions, we may ask you to submit some additional information only to verify your identity. Remember, in this case we are only asking you to confirm information you have already given us.
 
-With certain programs you will receive a free subscription to Early to Rise – a daily motivational email, as an extra bonus. To receive this subscription, your email address must be given to Early to Rise ([www.earlytorise.com](http://www.earlytorise.com/)). If you do not wish to receive this bonus, simply [contact our Member Services team](https://web.archive.org/contact/).
-
-_**Note**_ : Early to Rise does not sell or rent subscribers’ email addresses to anyone. You can also [review Early to Rise’s complete privacy policy](http://www.earlytorise.com/privacy/).
-
 If at any time you wish to be removed from our mailing list, please [contact our Member Services department](https://web.archive.org/contact/).
+
+## Cookies
+
+American Writers & Artists, Inc. (AWAI) uses cookies, tracking pixels and related technologies. Our site uses cookies dropped by us or third parties (such as Facebook) for a variety of purposes including to operate and personalize the website. Also, cookies may be used to track how you use the site and to target ads to you on other websites.
+
+If you would like to opt-out of the collection and use of information for ad targeting, please visit: [www.aboutads.info/choices](http://www.aboutads.info/choices)).
 
 ## Discussion Board
 
