@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coininfo.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608070742id_/http%3A//www.coininfo.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coininfo.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207153124id_/http%3A//www.coininfo.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy :: Coin Info . com
 
@@ -7,7 +7,7 @@ _America's Leading Coin and Precious Metals Site._
 **Featuring:**  
 U.S. Coin Dealers :: U.S. Coin Auctions :: Live Precious Metal Quotes :: U.S. Coin Shows :: Coin News Headlines :: Bullion Coin & Precious Metal Prices :: U.S. Gold Prices :: Foreign Traded Gold Coin Prices 
 
-Monday June 08, 2015 08:07:44 EST (All prices and information will update automatically every minute)
+Monday December 07, 2015 16:32:06 EST (All prices and information will update automatically every minute)
 
 ## Data collection
 
