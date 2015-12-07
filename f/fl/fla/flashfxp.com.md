@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flashfxp.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607074824id_/http%3A//www.flashfxp.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flashfxp.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207141722id_/https%3A//www.flashfxp.com/privacy) for the most accurate reproduction.*
 
 # FlashFXP Privacy Policy
 
@@ -82,7 +82,7 @@ OpenSight Software LLC
 WALNUT, CA 91789  
 UNITED STATES
 
-[Online Contact Form](https://secure.flashfxp.com/portal/contact)
+[Online Contact Form](https://www.flashfxp.com/portal/contact)
 
 **Privacy Policy Customer Pledge**   
 We pledge to you, our customer, that we have made a dedicated effort to bring our privacy policy in line with the the following important privacy laws and initiatives:  
