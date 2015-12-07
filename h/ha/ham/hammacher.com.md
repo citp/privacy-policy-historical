@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hammacher.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608114947id_/http%3A//www.hammacher.com/Editorial/Privacy-Policy%3Fpromo%3Dft_cs_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hammacher.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207133957id_/http%3A//www.hammacher.com/Editorial/Privacy-Policy%3Fpromo%3Dft_cs_privacy) for the most accurate reproduction.*
 
 # CS-Privacy-Policy - Hammacher Schlemmer
 
