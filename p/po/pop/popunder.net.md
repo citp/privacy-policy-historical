@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the popunder.net privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609002135id_/http%3A//popunder.net/main/pages/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the popunder.net privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207023036id_/http%3A//popunder.net/main/pages/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -8,19 +8,19 @@
 
 **Latest news**
 
-**13 of May 2015**   
-Dear advertisers,  
-Popunder.net network has a new feature - downloading statistics in the excel ! 
+**25 of November 2015**   
+Dear advertisers,   
+Popunder.net advertising network launched a new format - Video VAST. 
 
-**02 of April 2015**   
+**26 of October 2015**   
+Dear advertisers,   
+now in Popunder.net available online recharge   
+through Bitcoin!   
+Please, use! 
+
+**21 of October 2015**   
 Dear users,   
-today advertising network Popunder.net is 8 years old!   
-Hurry up to get [gifts](http://popunder.net/main/pages/birthday/)! 
-
-**27 of February 2015**   
-Dear publishers,   
-in network Popunder.net been updated system domains of your code.  
-Get it and reinstall on your site! 
+in network Popunder.net started New Year promotion! 
 
 [Go to news archive](http://popunder.net/main/news/)
 
