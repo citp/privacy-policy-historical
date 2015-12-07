@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pinoyrepublic.info privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627162240id_/http%3A//www.pinoyrepublic.info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pinoyrepublic.info privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207091652id_/http%3A//www.pinoyrepublic.info/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - PinoyRepublic.TV
 
