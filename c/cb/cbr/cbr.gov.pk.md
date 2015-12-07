@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cbr.gov.pk privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608041304id_/http%3A//www.fbr.gov.pk/ShowArticle.aspx%3Fview%3DArticle%26ActionID%3D543) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cbr.gov.pk privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207044423id_/http%3A//www.fbr.gov.pk/ShowArticle.aspx%3Fview%3DArticle%26ActionID%3D543) for the most accurate reproduction.*
 
 # Federal Board of Revenue (FBR), Government of Pakistan
 
