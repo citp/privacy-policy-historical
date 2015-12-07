@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the happymoneysaver.com privacy policy that was archived on 2015-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150615110835id_/http%3A//happymoneysaver.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the happymoneysaver.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207132056id_/http%3A//happymoneysaver.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Happy Money Saver | Homemade | Freezer Meals | Homesteading
+# Privacy Policy - Happy Money Saver
 
 PRIVACY POLICY
 
