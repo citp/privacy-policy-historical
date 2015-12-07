@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the eventmanagerblog.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608014508id_/http%3A//www.eventmanagerblog.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eventmanagerblog.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207034054id_/http%3A//www.eventmanagerblog.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Event Manager Blog
 
 1\. Introduction  
 1.1 We are committed to safeguarding the privacy of our website visitors; in this policy we explain how we will treat your personal information.  
-1.2 If you are a UK user, we will ask you to consent to our use of cookies in accordance with the terms of this policy when you first visit our website. 
+1.2 If you are a UK user, we will ask you to consent to our use of cookies in accordance with the terms of this policy when you first visit our website.
 
 2\. Credit  
 2.1 This document was created using a template from SEQ Legal (http://www.seqlegal.com).
