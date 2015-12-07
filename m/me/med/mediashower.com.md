@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mediashower.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607211158id_/http%3A//mediashower.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mediashower.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207143743id_/http%3A//www.mediashower.com/privacy.html) for the most accurate reproduction.*
 
-# Media Shower: Content Marketing, Article Writing Services, and Blog Writers
+# Media Shower: Content Writing, Article Writing Services, and Blog Writers
 
 **MEDIA SHOWER, INC. PRIVACY POLICY**
 
