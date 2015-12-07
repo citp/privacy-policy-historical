@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the k-bid.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608093935id_/http%3A//www.k-bid.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the k-bid.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207020536id_/http%3A//www.k-bid.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | K-BID
+# Privacy Policy | Privacy Policy | K-BID
 
 This Privacy Policy governs the manner in which K-BID Online, Inc. collects, uses, maintains and discloses information collected from users (each, a "User") of the [www.k-bid.com](http://web.archive.org/web/20140823005614/http:/k-bid.com/) website ("Site"). This privacy policy applies to the Site and all products and services offered by K-BID Online, Inc..
 
@@ -16,11 +16,7 @@ We may collect non-personal identification information about Users whenever they
 
 Our Site may use "cookies" to enhance User experience. User's web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
 
-**How we use collected information**
-
-K-BID Online, Inc. may collect and use Users personal information for the following purposes:
-
-**How we protect your information**
+ **How we protect your information**
 
 We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.
 
@@ -49,4 +45,4 @@ If you have any questions about this Privacy Policy, the practices of this site,
 763-479-3000  
 [info@k-bid.com](mailto:info@k-bid.com)
 
-This document was last updated on April 23, 2014
+This document was last updated on August, 13th 2015.  
