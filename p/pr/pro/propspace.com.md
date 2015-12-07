@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the propspace.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607075253id_/http%3A//propspace.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the propspace.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207051332id_/http%3A//www.propspace.com/privacy) for the most accurate reproduction.*
 
-# Terms of Use - PropSpace Real Estate CRM
+# Global Real Estate Software - the definitive CRM software - PropSpace - PropSpace Real Estate CRM
 
-## JRD GROUP JLT - WEBSITE PRIVACY POLICY
+### JRD GROUP JLT - WEBSITE PRIVACY POLICY
 
 This Privacy Policy (the "Policy") sets out the basis on which JRD GROUP JLT collects, uses and discloses personal information obtained from you when using www.justrentals.com, www.propspace.com, www.justproperty.com and/or www.jrdgroup.com (the "Website(s)").
 
@@ -10,11 +10,9 @@ By visiting the Website(s) and/or by using any services provided via the Website
 
 ##### YOUR INFORMATION
 
-The type of information we collect from you is either personal to you, or is general in nature:
+The type of information we collect from you is either personal to you, or is general in nature: Personal Information: When you register on the Website as a customer, update your information, purchase any goods or services, take part in promotions or send emails to us, you provide us with information that we store and process. Such information may include your name, address, phone number, email address, purchase and transaction history, billing information (including credit card information), interests, and other such 'Personal Information'.
 
-**Personal Information:** When you register on the Website as a customer, update your information, purchase any goods or services, take part in promotions or send emails to us, you provide us with information that we store and process. Such information may include your name, address, phone number, email address, purchase and transaction history, billing information (including credit card information), interests, and other such 'Personal Information'.
-
-**General Information:** We may also receive more general information from you as a result of your visits to, and use of, the Website. This general information does not identify you personally, and can include information such as your IP address, the date and time you access the Website, length of time you spend on the Website, your browsing history (recorded by the text and graphics files that compose that page), the Internet address of the website from which you linked directly to our Website, and other such 'General Information'.
+General Information: We may also receive more general information from you as a result of your visits to, and use of, the Website. This general information does not identify you personally, and can include information such as your IP address, the date and time you access the Website, length of time you spend on the Website, your browsing history (recorded by the text and graphics files that compose that page), the Internet address of the website from which you linked directly to our Website, and other such 'General Information'.
 
 ##### COLLECTING AND USING INFORMATION
 
@@ -24,7 +22,7 @@ We use Personal Information for a range of business-related purposes, including:
 
 We use General Information to help us make the Website more useful to visitors (including to help us assess content of interest to visitors), and for other purposes such as determining the Website?s technical design specifications and identifying system performance or problem areas, for tracking activity on the Website, preparing reports, assessing trends, and otherwise monitoring the way in which the Website is being used ? none of which would be in a way that personally identifies any users.
 
-##### DISCLOSURE OF PERSONAL INFORMATION
+DISCLOSURE OF PERSONAL INFORMATION 
 
 You agree that we may share your Personal Information within the JRD Group of companies. We may provide your Personal Information in any manner to any third parties outside the JRD Group of Companies for marketing purposes; or if required to do so by law or any governing authority; or to protect our own legitimate interests.
 
@@ -34,14 +32,12 @@ Keeping your Personal Information secure and preventing unauthorized access is o
 
 ##### COOKIES
 
-The Website uses cookies, which are files that store information on your hard drive that allow a website to recognize users, track new users and to record session information. This information is collected though Google Analytics and by using these Websites, you consent to the processing of data about you by Google. Most browsers are automatically set to accept cookies but if you choose you can disable the cookies from your browser. 
+The Website uses cookies, which are files that store information on your hard drive that allow a website to recognize users, track new users and to record session information. This information is collected though Google Analytics and by using these Websites, you consent to the processing of data about you by Google. Most browsers are automatically set to accept cookies but if you choose you can disable the cookies from your browser.
 
-##### APPLICABLE LAW AND JURISDICTION
+APPLICABLE LAW AND JURISDICTION 
 
 This Policy, as well as your access to the Website, is subject to and governed by the laws of the United Arab Emirates as applied in the Emirate of Dubai without giving effect to conflicts of law principles thereof. Any dispute regarding this Policy or our handling of your Personal Information and General Information shall be subject to the exclusive jurisdiction of the Courts in Dubai.
 
 ##### CONTACT US
 
-If you have any queries, complaints or recommendations about this Policy, or if you believe that any Personal Information that we may hold about you is incorrect or incomplete, please contact us at the following address and we will endeavor to respond to you promptly. 
-
-[contact@jrdgroup.com](mailto:contact@jrdgroup.com)
+If you have any queries, complaints or recommendations about this Policy, or if you believe that any Personal Information that we may hold about you is incorrect or incomplete, please contact us at the following address and we will endeavor to respond to you promptly. contact@jrdgroup.com 
