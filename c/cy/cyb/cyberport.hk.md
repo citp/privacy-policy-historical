@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cyberport.hk privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627173142id_/http%3A//cyberport.hk/en/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cyberport.hk privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208012319id_/http%3A//www.cyberport.hk/en/privacy_policy) for the most accurate reproduction.*
 
-# Hong Kong Cyberport Management Company Limited - Privacy Policy Statement
+# Hong Kong Cyberport Management Company Limited - Home 2015
 
 In this Policy, “we” refers to Hong Kong Cyberport Management Company Limited 香港數碼港管理有限公司and "Ordinance" refers to the Personal Data (Privacy) Ordinance, Chapter 486 of the laws of Hong Kong.
 
