@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nowtv.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607140918id_/http%3A//watch.nowtv.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nowtv.com privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208163657id_/http%3A//watch.nowtv.com/privacy) for the most accurate reproduction.*
 
 # Privacy & Cookies | NOW TV
 
@@ -153,7 +153,7 @@ Organisations which provide more information on Online Behavioural Advertising
 
 ### Contacting Sky
 
-Any queries or comments about this privacy notice or for requests of copies of the information we hold about you should be sent to [dpoffice@sky.uk](mailto:dpoffice@sky.uk) or to Customer Relations, Sky Subscriber Services Ltd, PO Box 43, Livingston, West Lothian, EH54 7DD, UK. or to Customer Relations, Sky Subscriber Services Limited, One Burlington Plaza, Burlington Plaza, Dublin 4, ROI.
+Any queries or comments about this privacy notice or for requests of copies of the information we hold about you should be sent to [dp.department@sky.uk](mailto:dp.department@sky.uk) or to Customer Relations, Sky Subscriber Services Ltd, PO Box 43, Livingston, West Lothian, EH54 7DD, UK. or to Customer Relations, Sky Subscriber Services Limited, One Burlington Plaza, Burlington Plaza, Dublin 4, ROI.
 
 Please ensure you notify us of any updates, amendments and corrections to your information by contacting us online, by phone on 03442 414141 in the UK or 0818 719 819 in the ROI or through [My Sky](https://secure.sky.com/mysky-homepage/indexb).
 
