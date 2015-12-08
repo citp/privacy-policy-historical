@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the easybranches.us privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607203044id_/http%3A//www.easybranches.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the easybranches.us privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208061410id_/http%3A//www.easybranches.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | EasyBranches.com™
+# Privacy Policy Easy Branches | EasyBranches.com™
 
   
 Privacy Policy for [www.easybranches.com](http://www.easybranches.com/ "Privacy Policy for www.easybranches.com")
