@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smallnetbuilder.com privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630191115id_/http%3A//www.smallnetbuilder.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smallnetbuilder.com privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208180111id_/http%3A//www.smallnetbuilder.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - SmallNetBuilder
 
