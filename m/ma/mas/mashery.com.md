@@ -1,110 +1,166 @@
-> *The following text is extracted and transformed from the mashery.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610010217id_/http%3A//www.mashery.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mashery.com privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208230424id_/http%3A//www.mashery.com/privacy) for the most accurate reproduction.*
 
 # Mashery Corporate Privacy Policy | Mashery
 
-AS OF MAY 6, 2013, MASHERY, INC. HAS BEEN PURCHASED BY INTEL CORPORATION.
+TIBCO Software Inc. ("TIBCO" "we" or "us") is committed to protecting our users' privacy. We feel it is important that you fully understand the terms and conditions under which we use the information we gather from you through the use of our Web sites [community.jaspersoft.com](http://community.jaspersoft.com/),  [www.jaspersoft.com](http://www.jaspersoft.com/), [www.mashery.com](), [developer.mashery.com](http://developer.mashery.com/),  [www.tibco.com](http://www.tibco.com/),  [www.tibcommunity.com](http://www.tibcommunity.com/),  [www.tibbr.com](http://www.tibbr.com/), [www.loyaltylab.com](http://www.loyaltylab.com/), [www.loyaltylibrary.com](http://www.loyaltylibrary.com/), [spotfire.tibco.cloud.com](http://spotfire.tibco.cloud.com/), and [www.spotfire.tibco.com](http://www.spotfire.tibco.com/) (our "Sites"); Loyalty Lab Hosted Service, (our "Services"); and our mobile applications tibbr® and SpotFire Analytics (our "Mobile Apps"); collectively our "Offerings". Please read this Privacy Policy ("Policy") carefully to understand how we will use and protect your personal information. The Policy also describes the choices available to you regarding how you can access and update this information. Changes to this Policy will be announced on the home page of our Sites and Mobile Apps so please check back periodically.
 
-#### MASHERY CORPORATE PRIVACY POLICY
+TIBCO has received TRUSTe's Privacy Seal signifying that this privacy statement and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal. The TRUSTe program covers only information collected through our Sites, Services, and Mobile Apps and does not cover information that may be collected through downloadable software. If you have questions or complaints regarding our privacy policy or practices, please contact us at [privacy@tibco.com](mailto:privacy@tibco.com). If you are not satisfied with our response, or to view TIBCO's certification, you can contact [TRUSTe here.](https://feedback-form.truste.com/watchdog/request "Contact TRUSTe")
 
-#### 1\. GENERAL
+[](https://privacy.truste.com/privacy-seal/validation?rid=58ccb889-d748-47c2-a435-da1c1c117b43 "TRUSTe Privacy Certification")
 
-Mashery, Inc. (“Mashery,” “We,” “Us,” or “Our”) respects the privacy of every individual who visits this Internet site, www.mashery.com (the "Website"). This Privacy Policy applies to all of the products and services offered through the Website and outlines the information Mashery will collect and how we will use that information. If you are located outside of the United States, please note that any information that you provide via the Website will be transferred to the United States. By using the Website, you consent to this transfer. Mashery complies with the U.S. – E.U. Safe Harbor framework and the U.S. - Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries and Switzerland. Mashery has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement.  To learn more about the Safe Harbor program, and to view Mashery’s certification, please visit <http://www.export.gov/safeharbor/>.
+TIBCO complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. TIBCO has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, please visit <http://export.gov/safeharbor>
 
-#### 2\. PERSONALLY-IDENTIFIABLE INFORMATION
+This Policy will explain the following regarding use of our Site:
 
-There may be cases where Mashery will ask you for personally-identifiable information such as your name, phone number, mailing address, and/or email address. We may use such personally-identifiable information for the following purposes:
+  1. ### What information do we collect from you?
 
-Registration for certain online activities that you have requested, such as posting on message boards or online forums  
-Delivering certain products and services, such as newsletters  
-Confirmation or fulfillment of an order or registration that you have requested  
-Answering questions or other requests by email or phone  
-Sending information that you request  
-Solicitation of feedback from you to assess your satisfaction or other needs and interests  
-Creation of new tools, features, and services  
-Ensuring the technical functionality of our network and Website  
-Assessing and monitoring usage of the Website and specific features or services in order to protect or improve our services, including by passing such information along to certain trusted third parties  
-Notifying you about new products/services, special offers, upgrades and other related information from Mashery.
+  2. ### With whom do we share your information?
 
-Mashery will not collect any personally-identifiable information about you unless you provide it to us voluntarily. Mashery may retain this information unless you request that it be deleted, per section 8 of this policy.
+  3. ### How may you update, correct, or delete your Personal Information?
 
-#### 3\. DISCLOSURE OF INFORMATION
+  4. ### What security precautions are in place to protect against the loss, misuse, or alteration of your information?
 
-We will share your personal information with third parties only in the ways that are described in this privacy statement. We do not share or sell your personal information to third parties for their promotional purposes.
+  5. ### "Cookies" and other Tracking Technologies
 
-Information Sharing with Mashery-Powered Portals. One of the benefits of registering with Mashery is the access that you receive to a wide range of Portals powered by Mashery. In each instance that you request access to a Mashery-powered Portal that is administered by a business other than Mashery, you agree that Mashery may share your Mashery account information with such business. Please be aware that a different privacy policy may apply to your use of such Mashery-powered Portal. We encourage you to look for and review the privacy statements of each and every Mashery-powered Portal that you visit.
+  6. ### Children, Parental Consent, and Privacy
 
-Information Sharing with API Partners. If you register as a developer on one of our API partner pages, your information will be collected both by Mashery and the API partner. Mashery may provide certain information provided by you to the API Partner and the API Partner may provide certain information provided by you to Mashery. Mashery recommends that you read the privacy policy of every API Partner during registration.
+  7. ### You should carefully review privacy policies of any third party sites accessible from our Site.
 
-Information Sharing with Service Providers. We may provide your personal information to companies that provide services to help us with our business activities such as submitting emails to you on our behalf or offering customer service. These companies are authorized to use your personal information only as necessary to provide these services to us.
+  8. ### Contacting us about privacy questions or concerns
 
-Other Disclosure to Third Parties. Except as stated elsewhere in this Privacy Policy, Mashery will not disclose your personally-identifiable information to any third party other than: (i) at your request or (ii) to private entities and law enforcement or other government officials as we, in our sole discretion, believe necessary or appropriate (a) to investigate or resolve possible problems or inquiries, (b) to protect our own business and assets, or (c) in special cases, such as a physical threat to you or others. If we disclose your personally-identifiable information to third parties, we will make commercially reasonable efforts to require that the recipients of such information apply the terms of this Privacy Policy to that information as if they were Mashery.
+  9. ### Privacy Policy changes
 
-Business Transfer. If Mashery is involved in a merger, acquisition, or sale of all or a significant portion of its assets, a notification will be posted on the website of any resultant change in ownership or uses of personal information.
 
-#### 4\. COOKIES AND OTHER TECHNOLOGIES
 
-Cookies. When you view the Website, we may store some information on your computer. This information will be in the form of a cookie or similar file and will help us to offer increased personalization and functionality. A "cookie" is an alphanumeric identifier that we can transfer to your computer's hard drive through your Internet browser to enable our systems to recognize your browser. With most Internet browsers, you can erase cookies from your computer hard drive, block all cookies, or receive a warning before a cookie is stored. Please refer to your browser instructions or help screen to learn more about these functions. In some cases, some of the Website's features and services may not function properly if your cookies are erased or disabled.
 
-Server Logs. When you use the Website, our servers automatically record information that your Internet browser sends whenever you visit an Internet site. These server logs may include information such as your web request, Internet Protocol address, browser type, browser language, the date and time of your request and one or more cookies that may uniquely identify your Internet browser.
+## 1\. What information do we collect from you?
 
-Flash LSOs. Third Parties, with whom we partner to provide certain features on our site, use Flash cookies to collect and store information. Flash cookies are different from browser cookies because of the amount of, type of, and how data is stored.  Cookie management tools provided by your browser will not remove Flash cookies.  To learn how to manage privacy and storage settings for Flash cookies click here:  <http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html#117118>
+In order to better provide you with services, we collect two types of information about its visitors: Personal Information and Non-Personal Information. Our primary goal in collecting information from you is to provide you with a smooth and efficient experience while using our Offerings.
 
-Third Party Tracking. The use of cookies and clear gifs by our partners, affiliates, and service providers is not covered by our privacy statement. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users. In contrast to cookies, which are stored on a user’s computer hard drive, clear gifs are embedded invisibly on Web pages and are about the size of the period at the end of this sentence. We do not have access or control over these technologies. Our partners, affiliates, and service providers use cookies and clear gifs to help us manage content on our Website by informing us what content is effective.
+ **Personal Information:** Personal Information refers to the specifics of who you are, such as your name, address, telephone number, email address and any other information when needed to provide a service to you while using or that could be used to locate you while using our Offerings. We gather certain information automatically and store it in log files. We log your Internet Protocol ("IP") address to give us an idea of which part of our website you visit and how long you spend there.We may combine this automatically collected information with other information we collect about you to improve services, marketing, analytics, or site functionality.
 
-We may use Google Analytics for Display Advertisers in this way. You may opt out of customized Google Display Network ads by visiting the Ads Preferences Manager. Additionally, you may use the Google Analytics Opt-out Browser Add-on.
+When you download and use our Mobile Apps, we automatically collect information regarding your device system and performance information, such as operating system version, operation system type, hardware usage statistics, and app version. We may also access the device file storage for photos, microphone, camera, and contacts. You can opt out of this at the device level.
 
-#### 5\. INFORMATION COLLECTED AUTOMATICALLY
+TIBCO collects Personal Information when you register with TIBCO for a TIBCO account as a customer, potential customer, or guest user, when you use certain TIBCO products or services, when you register to attend a seminar or participate in an online forum, blog, or a voluntary survey, when you ask to be included in an email or other mailing list (see "Choice/Opt-Out" below), when you submit an entry for promotions, or when you submit your Personal Information to TIBCO for any other reason. We use the Personal Information that we collect to send you information that you have requested, respond to an inquiry, or to facilitate the features in our Offerings as described in this Policy. From time to time, TIBCO receives Personal Information from business partners and vendors. TIBCO only uses such information if it has been collected in accordance with acceptable privacy practices consistent with this Policy.
 
-Mashery may also automatically collect non-personally-identifiable information about your use of the Website, such as the domain from which you access the Internet, the date and time you access the Website, and the Internet address of the Internet site from which you linked directly to our Website. Mashery may use your non-personally-identifiable information to analyze and enhance the Website, and may aggregate this information and share such aggregated information with business partners, sponsors and other third parties.
+When using our Mobile Apptibbr®, we will provide you the option to add your location in conjunction with some features of the Mobile App such as adding your location to a post. We ask you to opt into providing us with your geo-location data each time you provide it.If you no longer wish to allow us to track your geo-location information in the Mobile App, you may turn this off at the device level.
 
-#### 6\. CHILDREN
+### Services
 
-The Website is not directed at individuals under thirteen years of age, and Mashery does not intend to collect any personally-identifiable information from such individuals.
+TIBCO collects information on behalf of our Clients and has no direct relationship with the individuals whose personal data it possesses. The use of this data will be limited to the purpose of providing the service for which our Clients has engaged TIBCO. If you are a customer of one of our Clients and would no longer like to be contacted by them, please contact the Client that you interact with directly. We may transfer Personal Information to companies that help us provide our services. Transfers to subsequent third parties are covered by the provisions in this Policy regarding notice and choice and the service agreements with our Clients. If you are a customer of one of our Clients and would like to correct, amend, or delete inaccurate data, direct your inquiry our Client (the data controller). If the Client requests TIBCO to remove the data, we will respond to that request in 30 days. TIBCO will retain personal data we process on behalf of our Clients for as long as needed to provide services to our Clients. TIBCO will also retain this Personal Information as long as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
-#### 7\. YOUR RIGHTS TO VIEW AND EDIT INFORMATION SUBMITTED VOLUNTARILY
+### Social Media Widgets
 
-In most cases, the tools that collect and store personally-identifiable information allow you to correct, update or review that information (and any preferences) by logging-in to the specific service and making the desired changes to your registration information in the "My Account" page. In most cases you may also withdraw your registration or remove your personal information. You can inquire about your personal information maintained by Mashery by sending us an email at [privacy@mashery.com](mailto:privacy@mashery.com). We will respond to your request within a reasonable amount of time.
+Our Sites include Social Media Features, such as the Facebook Like button and widgets, such as the "Share This" or "Add This" buttons, or interactive mini-programs that run on our Sites. These Features may collect your IP address, which page you are visiting on our Sites, and may set a cookie to enable the Features to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Sites. Your interactions with Widgets are governed by the privacy policy of the company providing it.
 
-#### 8\. YOUR RIGHTS TO OPT-OUT OR OPT-IN OF SPECIFIC USES AND DISCLOSURES OF YOUR PERSONALLY IDENTIFIABLE INFORMATION
+### Blogs & Testimonials
 
-Developers who register for an account with us can access and modify the account information you provide us by signing in to your "My Account" page within the applicable Mashery service. Anyone who no longer wishes to receive certain communications from us, may (a) follow the unsubscribe instructions included in the communications you receive, or (b) send us an email at privacy@mashery.com with "unsubscribe" in the subject line, and we will take you off the applicable list. We reserve the right to send you certain account and legal communications relating to the applicable Mashery service, such as service announcements and administrative messages, without offering you the opportunity to opt out of receiving them.
+If you comment on the blog, you should be aware that any Personal Information you submit there can be read, collected, or used by other users of the blog, and could be used to send you unsolicited messages. We are not responsible for the Personal Information you choose to submit in the blog. To request removal of your Personal Information from our blog or community forum, contact us at tibcommunity@tibco.com. In some cases, we may not be able to remove your Personal Information, in which case we will let you know if we are unable to do so and why.
 
-#### 9\. LINKS TO OTHER INTERNET SITES
+We display personal testimonials and other endorsements of satisfied customers on our Sites. With your consent, we may post your testimonials along with your name. If you wish to update or delete your testimonial, you can contact us at privacy@tibco.com.
 
-The Website may allow links to various other Internet sites. Mashery assumes no responsibility for the information practices of such other Internet sites you are able to access through the Website. These links to other Internet sites do not imply affiliation or endorsement of a linked site. We encourage you to look for and review the privacy statements of each and every Internet site that you visit through a link or sponsorship notice.
+Access to certain TIBCO Offerings require a login and a password. The use of those Offerings, and the information or programs downloadable from those Sites, may be governed by a written agreement between your employer and TIBCO. Unless you request deletion of your Personal Information as specified below, your Personal Information may be retained by TIBCO to verify compliance with the agreement, log software licenses granted, to track software downloaded from those pages, or track usage of other applications available on those pages.
 
-#### 10\. INTERACTIVE AREAS OF THE WEBSITE
+### Email a Friend
 
-The Website may feature message boards, blogs, and/or other public forums where users can share information or where users can post questions. In addition, you may choose to use certain interactive content, tools, and services that ask you to voluntarily provide information about yourself. Some of these tools do not retain information, while others may store information in accordance with the authorization you provide at the time you use the service or tool. Any message board, online forum, or similar interactive service is by design open to the public and is not a private, secure service, and Mashery is not responsible for the privacy of information voluntarily provided by a user in interactive areas. You should think carefully before disclosing any personally identifiable information in any public forum because what you have written may be seen, disclosed to, or collected by third parties and may be used by others in ways we are unable to control or predict, including to contact you for purposes unauthorized by you.
+If you choose to use our referral service to tell a friend about our Offerings or invite a colleague into your network, we will ask you for your friend's name and email address. We will automatically send your friend a one-time email inviting him or her to visit us. TIBCO does not store this information and uses it for the sole purpose of sending this one-time email and tracking the success of our referral program.
 
-#### 11\. SECURITY
+### Single Sign-On
 
-The importance of security for all personally-identifiable information associated with visitors to the Website is of utmost concern to us. Unfortunately, no data transmission over the Internet can be guaranteed to be secure. As a result, Mashery cannot ensure or warrant the security of any information you transmit to us, and you transmit such information to us at your own risk. Once we receive your personally-identifiable information, we will take reasonable efforts to ensure its security on our systems.
+You can log into our Sites using sign-in services such as Facebook Connect or an Open ID provider. These services will authenticate your identity and provide you with the option to share with us certain personal information, such as your name and email address, to pre-populate our sign-up form. Services like Facebook Connect give you the option to post information to your social media profile page to share with others within your network about your activities on our Sites.
 
-#### 12\. YOUR ACCEPTANCE OF THESE TERMS
+### Data Retention
 
-By using the Website, you signify your assent to the Mashery Privacy Policy. If you do not agree to this Policy, please do not use the Website. Your continued use of the Website following the posting of changes to these terms will mean you accept those changes. Mashery will, however, use personally-identifiable information only in accordance with the version of the Privacy Policy under which the information was collected. If we make any material changes we will notify you by means of a notice on this Website prior to the change becoming effective.
+We will retain your information for as long as your account is active or as needed to provide you services. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
-#### 13\. DISPUTE RESOLUTION
+ **Non-Personal Information:** Non-Personal Information refers to information that does not by itself identify a specific individual. We gather certain information about you based upon the pages that you access in our offerings using various tracking technologies. This information is compiled and analyzed on both a non-aggregated and an aggregated basis. (See "Cookies" section below)
 
-Mashery participates in the EU and Swiss Safe Harbor Privacy Framework as set forth by the United States Department of Commerce.  As part of our participation in the safe harbor, we have agreed to TRUSTe dispute resolution for disputes relating to our compliance with the Safe Harbor Privacy Framework. If you have any complaints regarding our compliance with the Safe Harbor you should first contact us (as provided above). If contacting us does not resolve your complaint, you may raise your complaint with TRUSTe by [Internet here](http://watchdog.truste.com/pvr.php?page=complaint&url=),  fax to 415-520-3420, or mail to TRUSTe Safe Harbor Compliance Dept., [click for mailing address](http://www.truste.com/about_TRUSTe/contact_us.html). If you are faxing or mailing TRUSTe to lodge a complaint, you must include the following information: the name of company, the alleged privacy violation, your contact information, and whether you would like the particulars of your complaint shared with the company. For information about TRUSTe or the operation of TRUSTe's dispute resolution process, click [here](http://www.truste.com/why_TRUSTe_privacy_services/online-privacy-watchdog.html) or request this information from TRUSTe at any of the addresses listed above. The TRUSTe dispute resolution process shall be conducted in English.
+### Communications
 
-#### 14\. TERMS OF USE
+ _Special Offers and Updates_  
+We will occasionally send you information on products, services, special deals, and promotions. Out of respect for your privacy, we present the option not to receive these types of communications. Please see the "Choice and Opt-out."
 
-Use of the Website is governed by the Mashery Terms of Use viewable at [http://mashery.com/terms](https://web.archive.org/terms).
+ _Newsletters_  
+If you wish to subscribe to our newsletter(s), we will use your name and email address to send the newsletter to you. Out of respect for your privacy, we provide you a way to unsubscribe. Please see the "Choice and Opt-out" section.
 
-#### 15\. CONTACT US
+ _Push Notifications_  
+When you sign up to use our Mobile App tibbr®, we will ask you if you wish to receive push notifications which will use to keep you updated on the activity that occurs within tibbr®. Out of respect for your privacy, we provide you a way to unsubscribe. Please see the "Choice and Opt-out" section.
 
-You may contact us at any time regarding this privacy policy as follows:
+ _Service-Related Announcements_  
+We will send you strictly service-related announcements on rare occasions when it is necessary to do so. For instance, if our service is temporarily suspended for maintenance, we might send you an email.
 
-Mashery, Inc.
+Generally, you may not opt-out of these communications, which are not promotional in nature. If you do not wish to receive them, you have the option to deactivate your account. Please see "Choice and Opt-out."
 
-717 Market Street, Suite 300  
-San Francisco, CA 94103  
-Attn: General Counsel  
-(415) 684-7200  
-[privacy@mashery.com](mailto:privacy@mashery.com)
+ _Customer Service_  
+Based upon the Personal Information you provide us, we will send you a welcoming email to verify your username and password. We will also communicate with you in response to your inquiries, to provide the services you request, and to manage your account. We will communicate with you by email or telephone, in accordance with your wishes.
 
-Effective Date: August 20, 2012
+## 2\. With whom do we share your information?
 
-[](http://www.hitrustalliance.net/assurance)
+Because TIBCO is a global company, your Personal Information may be shared with other TIBCO offices or subsidiaries around the world to provide the services that you have requested. All such entities are governed by this Privacy Policy or are bound by the appropriate confidentiality and data transfer agreements.
+
+TIBCO will share your personal information with third parties only in ways that are described in this privacy policy. We do not sell your Personal Information to third parties. Your personal information is never shared outside TIBCO without your permission, except under conditions explained below. Inside TIBCO, data is stored in controlled servers with limited access. Your information may be stored and processed in the United States or any other country where TIBCO, its subsidiaries, affiliates, or agents are located.
+
+TIBCO may send your Personal Information to other companies or people under any of the following circumstances: when we have your consent to share the information; we need to share your information to provide the product or service you have requested; we need to send the information to companies who work on behalf of TIBCO to provide a product or service to you such as a marketing partner, mapping service provider or Web analytics company (we will only provide those companies the information they need to deliver the service, and they are prohibited from using that information for any other purpose); or we want to keep you up to date on the latest product announcements, software updates, special offers or other information we think you'd like to hear about either from us or from our business partners. We will also disclose your Personal Information if required to do so by law, to enforce our Terms of Use, or in urgent circumstances, to protect personal safety, the public or our offerings. We reserve the right to disclose your Personal Information when we believe that disclosure is necessary to protect our rights and/or to comply with a judicial proceeding, court order, or legal process served on our Offerings. If TIBCO is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Offerings of any change in ownership or uses of your Personal Information, as well as any choices you may have regarding your Personal Information.
+
+### Choice/Opt-out
+
+We provide you the opportunity to 'opt-out' of having your Personal Information used for certain purposes, when we ask for this information.
+
+If you no longer wish to receive our newsletter and promotional communications, you may opt-out of receiving them by following the instructions included in each newsletter or communication or by emailing us at [privacy@tibco.com](mailto:privacy@tibco.com).
+
+If you wish to no longer receive the push notifications you have opted into, you may turn them off at the device level.
+
+## 3\. How may you update, correct, or delete your Personal Information?
+
+If your Personal Information changes, or if you no longer desire our service, you may correct, update, amend, or delete/remove it by emailing us at [privacy@tibco.com](mailto:privacy@tibco.com). We will respond to your request within 30 days.
+
+## 4\. What security precautions are in place to protect against the loss, misuse, or alteration of your information?
+
+We employ industry-recognized information technology to protect the security of the information you submit to us, both during transmission and once we receive it. The importance of security for all Personal Information associated with our users is of utmost concern to us. Our secure servers protect this information using password protection and advanced encryption, and we may use firewall technology for additional protection. When you enter sensitive information (such as a credit card number, login information for our Services, or Geo-Location information) on our Offerings, we encrypt the transmission of that information using secure socket layer technology (SSL).
+
+Furthermore, all of the user data we collect is protected against unauthorized access by physical security means.
+
+We also encourage our partners and service providers to adopt and follow stringent consumer privacy policies. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security. If you have any questions about security on our Offerings, you can contact us at [privacy@tibco.com](mailto:privacy@tibco.com).
+
+## 5\. "Cookies" and other Tracking Technologies
+
+We use cookies for the limited purposes of enhancing your visit to our Offerings and to enable us to track and target the interests of our users. A cookie cannot be read by a website or mobile application other than the one that set the cookie. No other company will have access to our cookies. A cookie cannot retrieve any other data from your hard drive or device, pass on a computer virus, or capture your email address. Our cookies are not tied to Personal Information.
+
+Most browsers and devices are initially set up to accept cookies. If you prefer, you can reset your browser to notify you when you have received a cookie, or alternatively, to refuse to accept cookies. It is important to note that you may not be able to use certain features on our Site if you choose not to accept cookies. Some of the third party web-monitoring providers use cookies and other tracking technologies on our Sites.
+
+We, and our partners, affiliates, or analytics or service providers, use tracking technologies such as cookies, beacons, tags, and scripts to analyze trends, administer the Sites, track users’ movements around the Sites, and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies from these companies on an individual or aggregated basis.
+
+### Flash Cookies and HTML 5
+
+From time to time we, along with our service providers, may use local shared objects, also known as Flash cookies, and local storage, also known as HTML 5, to store your preferences such as volume control, or display advertising based on your web browsing activity. Flash cookies are different from browser cookies because of the amount of, type of, and how data is stored. Various browsers may offer their own management tools for removing HTML 5. Cookie management tools provided by your browser will not remove Flash cookies. To learn how to manage privacy and storage settings for Flash cookies, go to: <http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html>
+
+### Mobile Analytics
+
+We use mobile analytics software to allow us to better understand the functionality of our Mobile Software on your phone. This software may record information such as how often you use the application, the events that occur within the application, aggregated usage, performance data, and where the application was downloaded from. We do not link the information we store within the analytics software to any personal information you submit within the mobile application.
+
+### Behavioral Targeting / Retargeting
+
+We partner with third parties to either display advertising on our Sites or to manage our advertising on other sites. These parties may use technologies such as cookies to gather information about your activities on our Sites and other sites in order to provide you advertising based upon your browsing activities and interests. If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by clicking [here](http://preferences-mgr.truste.com/) (or if you are located in the European Union, click [here](http://www.youronlinechoices.eu/)). Please note this does not opt you out of being served ads. You will continue to receive generic ads.
+
+## 6\. Children, Parental Consent, and Privacy
+
+The Children's Online Privacy Protection Act took effect on April 21, 2000, and imposes certain requirements on Web sites directed toward children under the age of 13 that collect information on those children, or on Web sites that know they are collecting Personal Information on children under the age of 13. Our Offerings are not directed toward children under age 13. We do not knowingly collect information from anyone under age 13. If we find out that we have collected information from a child under age 13, we will delete that information immediately.  
+
+## 7\. You should carefully review privacy policies of any third party sites accessible from our Sites
+
+Other sites accessible through our Sites have their own privacy policies and data collection, use and disclosure practices. Please consult each site's privacy policy. We are not responsible for the policies or practices of third parties. Please be aware that our Sites may contain links to other sites on the Internet that are owned and operated by third parties. This Privacy Policy does not cover the information practices of those Web sites linked to our Sites. These other sites may send their own cookies to users, collect data, or solicit Personal Information. We cannot control this collection of information. You should contact these sites directly if you have any questions about their use of the information that they collect.  
+
+## 8\. Contacting us about privacy questions or concerns
+
+If you have any questions about this Privacy Policy, the practices of our offerings, or your dealings with our offerings, please contact us by sending an email to privacy@tibco.com or you can write to us at:
+
+TIBCO Software Inc.  
+Attention: Legal Department/Privacy Committee  
+3303 Hillview Avenue  
+Palo Alto, CA 94304
+
+## 9\. Privacy Policy changes
+
+This Privacy Policy was last changed on August 18, 2015. If we make changes to any terms or conditions of the Privacy Policy, the changes will be posted in this document so that you will always know what information we gather, how we might use that information, and to whom we will disclose it. Any change, modification, addition, or removal of portions of this Policy that are changes in a material way will be announced on the homepage(s) of our Offerings prior to the change becoming effective. Please be sure to check this page before proceeding to use our Offerings.
+
+[](https://privacy.truste.com/privacy-seal/validation?rid=58ccb889-d748-47c2-a435-da1c1c117b43 "TRUSTe Privacy Certification")
