@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theroar.com.au privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627054319id_/http%3A//www.theroar.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theroar.com.au privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208112508id_/http%3A//www.theroar.com.au/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Roar
 
@@ -155,6 +155,8 @@ Google AdSense | [Home Page](http://www.google.com/adsense/) |   [Privacy Poli
 **Analytics Services**
 
 In addition, The Roar uses third party analytics providers and products to obtain, compile and analyse Information (that may include Personally Identifying Information) about how users are using and interacting with The Roar. The Roar may provide Information (including Personally Identifying Information) to these analytics providers for the purpose of obtaining statistics and other information about how users are using and interacting with The Roar. These analytics providers may use tracking techniques other than HTTP cookies to recognise your computer or device and/or to collect or compile this information. These techniques may be used directly on The Roar. The Roar has no responsibility for the technologies, tools or practices of the third parties that providing analytics products and services to The Roar. Please also keep in mind that your web browser may not permit you to block the use of these techniques, and that browser settings that block conventional cookies may have no effect on such techniques.
+
+The Roar may from time to time use the Nielsen Online Measurement service and other products offered by Nielsen. You may review their Privacy policy [here](http://vizu.com/w3c/policy.htm) or [here](http://nielsen-online.com/about_privacy.jsp).
 
 **Security and Protection of Personally Identifying Information**
 
