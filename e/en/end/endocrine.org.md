@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the endocrine.org privacy policy that was archived on 2015-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150523132140id_/http%3A//www.endocrine.org/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the endocrine.org privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208143827id_/http%3A//www.endocrine.org/about-us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Endocrine Society
 
@@ -35,6 +35,12 @@ In addition, we may place so-called "cookies" on the computers of visitors. This
 ### Access and Correction of Information
 
 If you wish to review the information that we have collected from you (for example, to confirm that we have the correct address), please contact us at [societyservices@endocrine.org](mailto:societyservices@endocrine.org). We will respond to you promptly, and provide you with opportunity to correct any errors. 
+
+### Participation in the Medical Publisher Consortium
+
+This Digital Offering is a member of the Medical Publisher Consortium (the “Consortium”), and as such has implemented various technologies for universal registration/log-in among all Consortium member websites. These technologies are managed by DMD Marketing Corp. (“DMD”), and may involve the collection, receipt, and sharing of information with DMD and among other Consortium members. If you would like to understand how this Digital Offering’s participation in the Consortium affects your privacy, please click here: [http://www.dmddata.com/c_host/PrivacyPolicy_v3.htm ](http://www.dmddata.com/c_host/PrivacyPolicy_v3.htm)
+
+Please note that the Consortium registration/log-in system may be different from the registration/log-in used by this Digital Offering for other products and services. To the extent that anything in this privacy policy conflicts with the policy for the Consortium technologies, the conflict will be resolved in favor of policy applicable to the Consortium technologies.
 
 ### Security 
 
