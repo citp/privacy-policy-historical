@@ -1,8 +1,16 @@
-> *The following text is extracted and transformed from the healing-crystals-for-you.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609062433id_/http%3A//www.healing-crystals-for-you.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healing-crystals-for-you.com privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208135832id_/http%3A//www.healing-crystals-for-you.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy & Disclaimer for Healing Crystals For You
 
-This is how I will handle information I learn about you from your visit to my website. It is based on how I want to be treated when I visit other websites. The information I receive depends upon what you do when visiting my site.
+**Are you wondering about the message about cookies in the yellow box that appears at the bottom of my pages?  **
+
+ **It's the New EU Cookie Bar.  **
+
+The European Union passed a law saying every website that uses cookies must inform its visitors, so because we have European visitors, everybody gets the notice.
+
+ **If you click on the 'Got It!' button, the bar disappears.**
+
+This page details how I will handle information I learn about you from your visit to my website. It is based on how I want to be treated when I visit other websites. The information I receive depends upon what you do when visiting my site...
 
 ## Summary Of Following Information
 
