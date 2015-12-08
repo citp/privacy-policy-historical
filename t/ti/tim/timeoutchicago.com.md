@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the timeoutchicago.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629185229id_/http%3A//www.timeout.com/chicago/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the timeoutchicago.com privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208054734id_/http%3A//www.timeout.com/chicago/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy
 
-Your privacy is important to us. You are visiting a website owned and operated by Time Out America LLC and based in the United States of America. Time Out New York, Time Out Los Angeles, Time Out New York Kids, Time Out Chicago, Time Out Las Vegas, Time Out Miami, Time Out Washington, DC, Time Out Boston and Time Out San Francisco (together, “Time Out”) have always endeavoured to serve its audience with integrity and honesty. The same is true online. Time Out has developed this Privacy Policy to demonstrate our firm commitment to privacy and to disclose our information-gathering and -sharing practices for all US based Time Out sites (together, the “Site”). This Site is also hosting other Time Out Websites providing information about other cities, which fall under this Privacy Policy. By visiting the Site, you are accepting the practices described in this Privacy Policy. Our Site will develop and evolve over time, and this Privacy Policy may change to reflect that. Your continued use of this Site following reasonable notice of any such changes means you accept the changes. You agree that notices we may provide on the Site itself shall be deemed reasonable notice for this purpose. It is your responsibility to check periodically for any changes we may make to this Privacy Policy. This Privacy Policy was last updated on October 1, 2014.
+Your privacy is important to us. You are visiting a website owned and operated by Time Out America LLC and based in the United States of America. Time Out New York, Time Out Los Angeles, Time Out New York Kids, Time Out Chicago, Time Out Las Vegas, Time Out Miami, Time Out Washington, DC, Time Out Boston, Time Out San Francisco and Time Out USA (together, “Time Out”) have always endeavoured to serve its audience with integrity and honesty. The same is true online. Time Out has developed this Privacy Policy to demonstrate our firm commitment to privacy and to disclose our information-gathering and -sharing practices for all US based Time Out sites (together, the “Site”). This Site is also hosting other Time Out Websites providing information about other cities, which fall under this Privacy Policy. By visiting the Site, you are accepting the practices described in this Privacy Policy. Our Site will develop and evolve over time, and this Privacy Policy may change to reflect that. Your continued use of this Site following reasonable notice of any such changes means you accept the changes. You agree that notices we may provide on the Site itself shall be deemed reasonable notice for this purpose. It is your responsibility to check periodically for any changes we may make to this Privacy Policy. This Privacy Policy was last updated on October 1, 2014.
 
 In addition, Time Out supports the Consumer Reports WebWatch guidelines to promote credible information practices on the web. For more information, [click here](http://consumersunion.org/news/consumer-reports-webwatch-guidelines/).
 
@@ -92,7 +92,7 @@ C. In the unlikely event that we believe that the security of your information i
 
 You can contact Time Out regarding this Privacy Policy either by mail, at [Time Out America LLC, 475 Tenth Avenue, 12th Floor, New York, NY 10018, Attention: Online Production], by e-mail at [[privacy@timeout.com](mailto:privacy@timeout.com)], or by phone at (646) 432-3000. If you would like to review and/or change the information about you that we have collected via our Site, please mail your request and a self-addressed, stamped envelope to the above address or e-mail [[privacy@timeout.com](mailto:privacy@timeout.com).]
 
-Time Out New York, Time Out Los Angeles, Time Out New York Kids, Time Out Chicago, Time Out Las Vegas, Time Out Miami, Time Out Washington, DC, Time Out Boston and Time Out San Francisco are published by Time Out America LLC, a privately-held company.
+Time Out New York, Time Out Los Angeles, Time Out New York Kids, Time Out Chicago, Time Out Las Vegas, Time Out Miami, Time Out Washington, DC, Time Out Boston, Time Out San Francisco and Time Out USA are published by Time Out America LLC, a privately-held company.
 
 **13\. List of Time Out Websites:**
 
@@ -129,4 +129,5 @@ San Diego - <https://www.timeout.com/san-diego>
 St. Louis - <https://www.timeout.com/st-louis>  
 Seattle - <https://www.timeout.com/seattle>  
 Surat - <https://www.timeout.com/surat>  
-Tampa - <https://www.timeout.com/tampa>
+Tampa - <https://www.timeout.com/tampa>  
+Toronto - <https://www.timeout.com/toronto>
