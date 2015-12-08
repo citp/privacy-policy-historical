@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the columbusunderground.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609044121id_/http%3A//www.columbusunderground.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the columbusunderground.com privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208103609id_/http%3A//www.columbusunderground.com/privacy) for the most accurate reproduction.*
 
 # Columbus Underground Privacy Policy | ColumbusUnderground.com
 
@@ -72,6 +72,8 @@ You can use [Ads Settings](https://www.google.com/ads/preferences/?hl=en) to man
 
 You can also manage many companies’ cookies used for online advertising at the US-based [aboutads.info choices](http://www.aboutads.info/choices/) page or the EU-based [Your Online Choices](http://www.youronlinechoices.com/uk/your-ad-choices).
 
+If you don’t want Google or other companies to collect or use information based on your activity on websites, devices or apps off Google for the purpose of showing you ads, you can opt out from all participating companies through the [Digital Advertising Alliance](http://www.aboutads.info/choices/) in the USA, the [Digital Advertising Alliance of Canada](http://youradchoices.ca/) in Canada or the [European Interactive Digital Advertising Alliance](http://www.youronlinechoices.eu/) in Europe. You can also opt out using your mobile device settings.
+
 Finally, you can [manage cookies in your web browser](https://www.google.com/intl/en/policies/technologies/managing/).
 
 _Other technologies used in advertising_  
@@ -116,4 +118,4 @@ Learn more about [Google ads](https://support.google.com/ads/answer/1634057).
 
 We reserve the right to change this policy should we deem it advisable to do so. If we make material changes that will affect personal information we have already collected from you, we will make reasonable efforts to notify you of the changes and to give you the opportunity to amend or cancel your registration.
 
-Policy last updated June 3, 2015.
+Policy last updated June 24, 2015.
