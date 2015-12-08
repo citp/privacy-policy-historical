@@ -1,15 +1,20 @@
-<!--The following is the downloaded HTML source of the ubid.com privacy policy that was archived on 2015-06-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150609234828id_/http%3A//www.ubid.com/help/docs/privacy-security-policy.aspx%3Ffooter) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ubid.com privacy policy that was archived on 2015-12-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151208104958id_/http%3A//www.ubid.com/help/docs/privacy-security-policy.aspx%3Ffooter) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "//www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="//www.w3.org/1999/xhtml" style=""><head id="ctl00_Head1"><meta name="msvalidate.01" content="3E4EC7CFF3A4657E274B924B1BF87A91"><meta name="alexaVerifyID" content="GVeS3jZd1GhEJGexCuEJWnr87pE"><meta name="p:domain_verify" content="75686674fbeaa94a98a8060b8ba9fbbb"><meta property="og:type" content="website"><meta property="og:site_name" content="uBid"><meta property="fb:admins" content="625435228">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "//www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="//www.w3.org/1999/xhtml" style="" class=" js no-touch generatedcontent"><head id="ctl00_Head1"><meta charset="utf-8"><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"><meta name="msvalidate.01" content="3E4EC7CFF3A4657E274B924B1BF87A91"><meta name="alexaVerifyID" content="GVeS3jZd1GhEJGexCuEJWnr87pE"><meta name="p:domain_verify" content="75686674fbeaa94a98a8060b8ba9fbbb"><meta property="og:type" content="website"><meta property="og:site_name" content="uBid"><meta property="fb:admins" content="625435228"><meta name="viewport" content="width=1000">
 	
 	<base target="_top">		
 
-	<meta http-equiv="X-UA-Compatible" content="IE=8"><link href="/inc/css/header.css" rel="stylesheet" type="text/css"><link href="/inc/css/ubidcleanstyles.css" rel="stylesheet" type="text/css">
-	<script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript" async="" src="//doug1izaerwt3.cloudfront.net/44b1edb674a84836fff1fe41793e0f6945bf3908.1.js"></script><script type="text/javascript" async="" src="//i.kissmetrics.com/i.js"></script><script src="https://dnn506yrbagrg.cloudfront.net/pages/scripts/0022/9619.js?439594" async="" type="text/javascript"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1&amp;appId=215016398553156"></script><script type="text/javascript" src="/inc/javaScripts/unavigate.js"></script>
+	<!-- <meta http-equiv="X-UA-Compatible" content="IE=8" /> -->
+	<link href="https://fonts.googleapis.com/css?family=Lato:300,400,700,900,300italic,400italic" rel="stylesheet" type="text/css">
+	<!-- Bootstrap Latest compiled and minified CSS -->
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css"><link href="/inc/css/cbpHorzMenu.css" rel="stylesheet" type="text/css"><link href="/inc/css/header-2015.css" rel="stylesheet" type="text/css"><link href="/inc/css/ubidcleanstyles-2015.css" rel="stylesheet" type="text/css">
+	<script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript" async="" src="//doug1izaerwt3.cloudfront.net/44b1edb674a84836fff1fe41793e0f6945bf3908.1.js"></script><script type="text/javascript" async="" src="//i.kissmetrics.com/i.js"></script><script src="https://dnn506yrbagrg.cloudfront.net/pages/scripts/0022/9619.js?439009" async="" type="text/javascript"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1&amp;appId=215016398553156"></script><script type="text/javascript" src="/inc/javaScripts/unavigate.js"></script>
 	
 	<link id="ctl00_customcss" rel="stylesheet" type="text/css">
-	
+	<!--[if lte IE 8]>
+	<link href="/inc/css/ie8.css" rel="stylesheet" type="text/css" />
+	<![endif]-->
 	<!--[if lte IE 7]>
 	<link href="/inc/css/targetedie.css" rel="stylesheet" type="text/css" />
 	<![endif]-->
@@ -29,15 +34,17 @@
 	
 
 <script type="text/javascript">
-function checkVisitor()
-{
-    if(readCookie("NewVisitor")== "New=true")
-	{
-		document.getElementById("newVisitor").style.display = "block";
-	}
 
-		
+// newsletter sign up modal window
+function checkVisitor()   {
+     if(readCookie("NewVisitor")== "New=true") {
+	 	jQuery("#newVisitor").delay(2500).show(200);
+	 }
+	// if(readCookie("pages") == 1) {
+	// 	jQuery("#newVisitor").delay(3000).show(50);
+	// }		
 }
+
 
 function readCookie(name) 
 {
@@ -51,6 +58,31 @@ function readCookie(name)
     }
     return null;
 }
+
+function setCookie(c_name, value, exdays) {
+    var exdate = new Date();
+    exdate.setDate(exdate.getDate() + exdays);
+    var c_value = escape(value) + ((exdays == null) ? "" : "; expires=" + exdate.toUTCString());
+    document.cookie = c_name + "=" + c_value;
+}
+
+//not using this pages cookie, using NewVisitor cookie instead
+setCookie("deskBeta", "test", 30);
+
+if (readCookie('pages') === null) {
+    setCookie('pages', '0', 90);
+} 
+else {
+	setCookie('pages', parseInt(readCookie('pages'), 10) + 1, 90);
+}
+
+// closes the newsletter sign up window 
+jQuery( document ).ready(function() {
+    jQuery(".newVisitor-close").click(function() {
+    	jQuery("#newVisitor").hide(50);
+    });
+});
+
 </script>
 
 
@@ -64,7 +96,7 @@ a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
 </script>
 <!--Crazyegg-->
  
-<!--â€”Kissmetrics Start ---->
+<!---â€”Kissmetrics Start ---->
 <script type="text/javascript">var _kmq = _kmq || [];
 var _kmk = _kmk || '44b1edb674a84836fff1fe41793e0f6945bf3908';
 function _kms(u){
@@ -79,11 +111,30 @@ _kms('//i.kissmetrics.com/i.js');
 _kms('//doug1izaerwt3.cloudfront.net/' + _kmk + '.1.js');
 </script>
 <!-- Kissmetrics End -->
-
-<meta name="ref" content="USA5"><title>
+<script src="/inc/js/modernizr.custom.js"></script>
+<meta name="ref" content="USA3"><title>
 	What is uBid.com's Privacy &amp; Security Policy? - uBid.com
 </title><script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script><script type="text/javascript" charset="iso-8859-1" src="https://sales.liveperson.net/visitor/addons/deploy.asp?site=40435531&amp;d_id=sales-english"></script></head>
-<body onload="checkVisitor();">
+<body onload="checkVisitor()" class="ubid-master">
+<!-- newletter popup for first-time visitors -->
+
+<div id="newVisitor">
+	
+	<div class="newVisitor-wrap">
+		<span class="newVisitor-close pull-right">close</span>
+		<div class="logo-headline-wrap">
+			<img src="/img/2015/ubid-logo-final-2015.png" alt="uBid.com" class="main-ubid-logo">
+			<h3>Want the daily dish on<br>the best deals and hottest auctions?</h3>
+			<p>Get the inside scoop on uBid deals delivered to your inbox.</p>
+		</div>
+		
+		<iframe src="http://www.pages03.net/ubidinc/Opt_In_Form/Opt_In_Form" style="width: 330px; height: 450px;  margin: 0 0 0 50px;" onload="javascript: if(typeof ewt != 'undefined' &amp;&amp; ewt &amp;&amp; ewt.setIFrameSrc) ewt.setIFrameSrc(this, 'http://www.pages03.net/ubidinc/Opt_In_Form/Opt_In_Form'); else if(this.src != 'http://www.pages03.net/ubidinc/Opt_In_Form/Opt_In_Form') this.src = 'http://www.pages03.net/ubidinc/Opt_In_Form/Opt_In_Form';">
+
+ 			<p>Your browser does not support iframes.</p>
+		</iframe>
+	</div><!-- /newVisitor-wrap -->
+	<div id="newVisitor_shadow"></div>
+</div><!-- /NewVisitor -->
 <!-- ClickTale Top part -->
 
 <!-- ClickTale end of Top part -->
@@ -96,45 +147,25 @@ _kms('//doug1izaerwt3.cloudfront.net/' + _kmk + '.1.js');
   fjs.parentNode.insertBefore(js, fjs);
 }(document, 'script', 'facebook-jssdk'));</script>
 
-			<form name="aspnetForm" method="post" action="/help/docs/privacy-security-policy.aspx?footer" id="aspnetForm" onsubmit="javascript:beforesumbmit(this)">
+
+
+<form name="aspnetForm" method="post" action="/help/docs/privacy-security-policy.aspx?footer" id="aspnetForm" onsubmit="javascript:beforesumbmit(this)">
 <div>
 <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKLTcwODg1MTE2Ng9kFgJmD2QWAgIBEGRkFgICAw9kFgZmDw8WAh4EVGV4dAWGASA8YSBocmVmPSdodHRwczovL3d3dy51YmlkLmNvbS9yZWdpc3RyYXRpb24vZGVmYXVsdC5hc3B4Jz5SZWdpc3RlcjwvYT48YSBocmVmPSdodHRwczovL3d3dy51YmlkLmNvbS9hcHAvbXlwYWdlL0xvZ2luLmFzcHgnPlNpZ24gSW48L2E+ZGQCAQ8WAh4HVmlzaWJsZWhkAgIPDxYCHgtOYXZpZ2F0ZVVybAUTaHR0cDovL3d3dy51YmlkLmNvbWRkZCpS03xpVPrli05blzQTUnEAAAAA">
 </div>
 
 
-<script src="/ScriptResource.axd?d=vp-yQHJM6TE24m-9Ga5rIkiotL8tdEHrE16oCGlw3y-Sehqs6sgVd2jrd-ii2YsRSiKhYk9C843LH3KHi0f6RYjVlKYPHumCSGAsrtzKZmAMpWh-B_g2TXg3M3JsImf-uCiGXz8U245okhGFsUpqWgAAAAA1&amp;t=5fe586f5" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=vp-yQHJM6TE24m-9Ga5rIkiotL8tdEHrE16oCGlw3y-Sehqs6sgVd2jrd-ii2YsRSiKhYk9C843LH3KHi0f6RYjVlKYPHumCSGAsrtzKZmAMpWh-B_g2TXg3M3JsImf-uCiGXz8U245okhGFsUpqWgAAAAA1&amp;t=ffffffffbd14fc48" type="text/javascript"></script>
 <div>
 
 	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="E3840155">
 </div>
-            
+    
 		
-				
+	
 
 
 	<header>
-   
-   <!-- Engage Web Tracking Code -->
-
-
-<!-- Please insert the following code between your HTML document head tags to maintain a common reference to a unique visitor across one or more external web tracked sites. -->
-<meta name="com.silverpop.brandeddomains" content="www.pages03.net">
-
-
-<!-- Optionally uncomment the following code between your HTML document head tags if you use Engage Conversion Tracking (COT). -->
-<!--<meta name="com.silverpop.cothost" content="engage3.silverpop.com" />-->
-
-
-<script src="http://contentz.mkt932.com/lp/static/js/iMAWebCookie.js?4def3053-14ce1b06305-2d617ac8ac4460b9f143347708bf4d50&amp;h=www.pages03.net" type="text/javascript"></script>
-
-
-<!-- For external web sites running under SSL protocol (https://) please uncomment this block and comment out the non-secure (http://) implementation. -->
-<!--<script src="https://www.sc.pages03.net/lp/static/js/iMAWebCookie.js?4def3053-14ce1b06305-2d617ac8ac4460b9f143347708bf4d50&h=www.pages03.net" type="text/javascript"></script>-->
-   
-   
-   
-   
-   
     <!--&nbsp;<span style="display:inline-block; background-color:#c00; color:#FFF; padding:3px 4px; border-radius:4px; font-size:11px;">NEW</span>-->
 	<!--Header Scripts-->
 	<script type="text/javascript">
@@ -193,386 +224,363 @@ _kms('//doug1izaerwt3.cloudfront.net/' + _kmk + '.1.js');
 	<!--Header Scripts-->
     
     <div class="toolbar">
-	<div class="toolwrap"><span class="right">
-    <!-- BEGIN LivePerson Button Code -->
-    <!--<span id="lpButDivID-1372274459935"></span>
-    <script type="text/javascript" charset="UTF-8" src="//sales.liveperson.net/hc/40435531/?cmd=mTagRepstate&site=40435531&buttonID=18&divID=lpButDivID-1372274459935&bt=3&c=1"></script>-->
-	<!--If you already have jquery on the page you don't need to insert this script tag-->
-<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js" type="text/javascript"></script>
+	   <div class="toolwrap">
+       <div class="auction-alerts pull-left">
+            <span class="uppercase">Auction Insider</span> Deals delivered to your inbox! 
+            <a href="/promo/emailform/default.aspx" class="auction-alert-submit">Sign Up!</a>
 
-<link href="https://d218iqt4mo6adh.cloudfront.net/assets/widget_embed_191.css" media="screen" rel="stylesheet" type="text/css">
-<!--If you already have fancybox on the page this script tag should be omitted-->
-<script src="https://d218iqt4mo6adh.cloudfront.net/assets/widget_embed_libraries_191.js" type="text/javascript"></script>
 
-	<script>
-			
-		if( readCookie("deskBeta") == "test")
-		{
-			// ********************************************************************************
-			// This needs to be placed in the document body where you want the widget to render
-			// ********************************************************************************
-			
-			new DESK.Widget({ 
-					version: 1, 
-					site: 'youbid.desk.com', //your personal desk.com url will appear here...
-					port: '80', 
-					type: 'chat', 
-					displayMode: 1,  //0 for popup, 1 for lightbox
-					features: {  
-							offerAlways: true, 
-							offerAgentsOnline: false, 
-							offerRoutingAgentsAvailable: false,  
-							offerEmailIfChatUnavailable: false 
-					},  
-					fields: { 
-							ticket: { 
-									// desc: &#x27;&#x27;,
-									// labels_new: &#x27;&#x27;,
-					// priority: &#x27;&#x27;,
-					// subject: &#x27;&#x27;
-							}, 
-							interaction: { 
-									// email: &#x27;&#x27;,
-					// name: &#x27;&#x27;
-					email: '', //substitute the email of the loggedin user else blank
-					name: '' //substitute the full name of the loggedin user else blank 
-							}, 
-							chat: { 
-									//subject: '' 
-									  subject: '' 
-							}, 
-							customer: { 
-									// company: &#x27;&#x27;,
-					// desc: &#x27;&#x27;,
-					// first_name: &#x27;&#x27;,
-					// last_name: &#x27;&#x27;,
-					// locale_code: &#x27;&#x27;,
-					// title: &#x27;&#x27;
-							} 
-					} 
-			}).render();  
-								
-			// ********************************************************************************
-			// This needs to be placed in the document body where you want the widget to render
-			// ********************************************************************************
-			
-			new DESK.Widget({ 
-					version: 1, 
-					site: 'youbid.desk.com', 
-					port: '80', 
-					type: 'email', 
-					displayMode: 1,  //0 for popup, 1 for lightbox
-					features: {  
-					},  
-					fields: { 
-							ticket: { 
-									// desc: &#x27;&#x27;,
-			// labels_new: &#x27;&#x27;,
-			// priority: &#x27;&#x27;,
-			// subject: &#x27;&#x27;
-							}, 
-							interaction: { 
-									// email: &#x27;&#x27;,
-								email: '', //substitute the email of the loggedin user else blank
-								name: '' //substitute the full name of the loggedin user else blank 
-			 }, 
-							email: { 
-									//subject: '', 
-									//body: '' 
-							}, 
-							customer: { 
-									// company: &#x27;&#x27;,
-			// desc: &#x27;&#x27;,
-			// first_name: &#x27;&#x27;,
-			// last_name: &#x27;&#x27;,
-			// locale_code: &#x27;&#x27;,
-			// title: &#x27;&#x27;
-							} 
-					} 
-			}).render();  
-		}
-	</script>
-    <a href="/help/topic38.asp">Email</a>
-    <a href="/help/">F.A.Q.</a>
+        </div><!-- /auction-alerts -->
+        <span class="pull-right">
+   
+    <a href="/help/topic38.asp">Contact Us</a>
+    <a href="/help/">How It Works</a>
     <a href="/sell/">Sell</a>
-    </span><span class="bold65"><span id="ctl00_Header1_lblSignIn"> <a href="https://www.ubid.com/registration/default.aspx">Register</a><a href="https://www.ubid.com/app/mypage/Login.aspx">Sign In</a></span></span></div>
+    </span><span class="right"><span id="ctl00_Header1_lblSignIn"> <a href="https://www.ubid.com/registration/default.aspx">Register</a><a href="https://www.ubid.com/app/mypage/Login.aspx">Sign In</a></span></span></div>
     </div>
+
     
     <div class="mainmenubar">
-    <ul class="menu">
-
-
-	<li class="icon_list2"><a href="/promo/express/"><div class="icon express"></div>Express<br>Auctions</a></li>
-	<li class="icon_list2"><a href="/closingsoon/"><div class="icon closing"></div>Closing<br>Soon</a></li>
-	<li class="icon_list2"><a href="/promo/most-popular/"><div class="icon trending"></div>Trending<br>Now</a></li>
-	<li class="icon_list2"><a href="/promo/mega/"><div class="icon mega"></div>Mega<br>Auctions</a></li>
-	<li class="icon_list2"><a href="/promo/24/"><div class="icon twentyfour"></div>24-Hour<br>Auctions</a></li>
-	<li class="icon_list2 first"><a href="/deals/"><div class="icon deals"></div>Deal of<br>the Day</a></li>
-
-    <li class="logo_list"><a id="ctl00_Header1_linkMainLogo" title="uBid.com" href="http://www.ubid.com"><h1><span>uBid.com</span><img src="/img/2013/unext_logo.png" alt="uBid.com"></h1></a></li>
+        <ul class="menu">
+            <li class="logo_list"><a id="ctl00_Header1_linkMainLogo" title="uBid.com" href="http://www.ubid.com">     <span class="ubid-url">uBid.com</span><img src="/img/2015/ubid-logo-final-2015.png" alt="uBid.com" class="main-ubid-logo"></a>
+            </li>
+            <li class="tagline">Where you win at paying less</li>
     <!--<img src="/img/2013/unext_logoR2.png" alt="uBid.com" />-->
-    <li class="search_list">
-    <a href="#" onclick="javascript:SearchProducts(this)" id="searchlink" class="searchbutton" title="Search"></a>
-    <input name="scrtext" type="text" alt="Search uBid.com" value="Search uBid.com" onblur="if (this.value == '') {this.value = 'Search uBid.com';}" onfocus="if (this.value == 'Search uBid.com') {this.value = '';}" id="ubseartx" maxlength="43" onkeypress="javascript:SetEnterKey('searchlink',event);" class="searchfield">
-    <select name="p" id="ubcatmenu" class="tp_serchselect" style="display:none;" onchange="MM_jumpMenu('parent',this,0)">
-    <option value="0" selected="selected">All Categories</option>
-    <option value="34">Collectibles</option>
-    <option value="1">Computers</option>
-    <option value="2">Electronics</option>
-    <option value="1417">Fine Art</option>
-    <option value="11">Jewelry</option>
-    <option value="32">Televisions</option>
-    <option value="8">Tools</option>
-    <option value="33">Watches</option>
-    <option value="25">Home &amp; Garden</option>		
-    <option value="13">More Categories</option>
-    </select>
-    </li>
-    </ul>
+
+            <li class="social-media-wrap">
+                <ul class="soc-media-list">
+	                <li class="entypo-pinterest" data-network="pinterest"><a href="http://www.pinterest.com/ubid/" target="_blank" class="text-hide">Pintrest</a></li>
+	                <li class="entypo-twitter" data-network="twitter"><a href="http://twitter.com/uBidDeals" target="_blank" class="text-hide">Twitter</a></li>
+	                <li class="entypo-facebook" data-network="facebook"><a href="https://www.facebook.com/ShopuBid" target="_blank" class="text-hide">Facebook</a></li>
+	                <li class="entypo-paper-plane" data-network="email"><a href="/help/topic38.asp?footer" class="text-hide">Email</a></li>
+                </ul>
+	                
+                <!-- <ul class="soc-media-list">
+                    <li class="soc-med-icon facebook"><a href="https://www.facebook.com/ShopuBid" target="_blank" class="text-hide">Facebook</a></li>
+                    <li class="soc-med-icon twitter"><a href="http://twitter.com/uBidDeals" target="_blank"  class="text-hide">Twitter</a></li>
+                    <li class="soc-med-icon pintrest"><a href="http://www.pinterest.com/ubid/" target="_blank" class="text-hide">Pintrest</a></li>
+                    <li class="soc-med-icon email"><a href="/help/topic38.asp?footer" class="text-hide">Email</a></li>
+                </ul> -->
+            </li><!-- /social-media -->
+            <li class="search_list">
+                <a href="#" onclick="javascript:SearchProducts(this)" id="searchlink" class="searchbutton" title="Search">&gt; GO</a>
+                <input name="scrtext" type="text" alt="Search uBid.com" placeholder="Search uBid.com" onblur="if (this.value == '') {this.value = 'Search uBid.com';}" onfocus="if (this.value == 'Search') {this.value = '';}" id="ubseartx" maxlength="43" onkeypress="javascript:SetEnterKey('searchlink',event);" class="searchfield">
+                <select name="p" id="ubcatmenu" class="tp_serchselect" style="display:none;" onchange="MM_jumpMenu('parent',this,0)">
+                    <option value="0" selected="selected">All Categories</option>
+                    <option value="34">Collectibles</option>
+                    <option value="1">Computers</option>
+                    <option value="2">Electronics</option>
+                    <option value="1417">Fine Art</option>
+                    <option value="11">Jewelry</option>
+                    <option value="32">Televisions</option>
+                    <option value="8">Tools</option>
+                    <option value="33">Watches</option>
+                    <option value="25">Home &amp; Garden</option>		
+                    <option value="13">More Categories</option>
+                </select>
+            </li>
+        </ul>
     </div>
+
+    <div class="icon-deals-header">
+        <ul class="icon-deals-list">
+            <li class="icon-header "><a href="/closingsoon/">Closing Soon</a></li>
+            <li class="icon-header "><a href="/promo/most-popular/">Trending Now</a></li>
+            <li class="icon-header "><a href="/deals/">Deal of the Day</a></li>
+            <li class="icon-header "><a href="/promo/mega/">Mega Auctions</a></li>
+            <li class="icon-header "><a href="/promo/express/">Express Auctions</a>
+            </li><li class="icon-header "><a href="/promo/24/">24 Hr Auctions</a></li>
+        </ul>
+
+    </div><!-- /icon-deals-header -->
     
     <div class="catmenubar">
     <!--&nbsp;<span style="display:inline-block; background-color:#c00; color:#FFF; padding:3px 4px; border-radius:4px; font-size:11px;">NEW</span>-->
-    <ul class="primary">
-    
-    <!--Category-->
-    <li><a href="/computers/?pagtp=1" class="bold65">Computers</a>
-    <ul>
-    <a href="/computers/?pagtp=1"><h3 class="bold65"><span class="blue">View More</span>Computers</h3></a>
-    <li class="box_one">
-    <a class="navcat cat_one desktop" href="/store/computers/?pagtp=1">Desktop<br>Computers</a>
-    <a class="navcat cat_one drive" href="/store/harddrives/?pagtp=1">Drives</a>
-    <a class="navcat cat_one laptop" href="/store/laptops/?pagtp=1">Laptop<br>Computers</a>
-    </li>
-    <li class="box_one">
-    <a class="navcat cat_one monitor" href="/computers/monitors/?pagtp=1">Monitors</a>
-    <a class="navcat cat_one network" href="/computers/networking/?pagtp=1">Networking</a>
-    <a class="navcat cat_one printer" href="/computers/printers-scanners/?pagtp=1">Printers</a>
-    </li>
-    <li class="box_one">
-    <a class="navcat cat_one software" href="/computers/software/?pagtp=1">Software</a>
-    <a class="navcat cat_one tablet" href="/store/tablet/?pagtp=1">Tablets</a>
-    </li>
-    <li class="box_two">
-    <h3 class="bold65">Featured</h3>
-    <a href="/store/apple/">Apple Store</a>
-    <a href="/category/listing.aspx?url=computers/drives/?pagtp=1&amp;Drives=External+Hard+Drives">External Hard Drives</a>
-    <a href="/category/listing.aspx?qs=HP&amp;catid=1">HP</a>
-    <a href="/category/listing.aspx?qs=Logitech&amp;catid=1">Logitech</a>
-    <a href="/category/listing.aspx?qs=Toshiba&amp;catid=1">Toshiba</a>
-    </li>
-    
-    </ul></li>
-    <!--Category-->
-    
-    <!--Category-->
-    <li><a href="/collectibles/?pagtp=1" class="bold65">Collectibles</a>
-    <ul>
-    <div class="arrow"></div>
-	<a href="/collectibles/?pagtp=1"><h3 class="bold65"><span class="blue">View More</span>Collectibles</h3></a>
-	<li class="box_one">
-    <a class="navcat cat_two coins" href="/store/coins/?pagtp=1">Coins</a>
-    </li>
-	<li class="box_one">
-    <a class="navcat cat_two sportsmem" href="/store/memorabilia/?pagtp=1">Memorabilia</a>
-    </li>
-	<li class="box_one">
-    <a class="navcat cat_two collect" href="/collectibles/other-collectibles/?pagtp=1">Other<br>Collectibles</a>
-    </li>
-    </ul></li>
-    <!--Category-->
-    
-    <!--Category-->
-    <li><a href="/electronics/?pagtp=1" class="bold65">Electronics</a>
-    <ul>
-    <a href="/electronics/?pagtp=1"><h3 class="bold65"><span class="blue">View More</span>Electronics</h3></a>
-    <li class="box_one">
-    <a class="navcat cat_three camcorder" href="/electronics/camcorders/flash-memory-camcorders/?pagtp=1">Camcorder</a>
-    <a class="navcat cat_three cellphone" href="/category/listing.aspx?url=electronics/cell-phones/?pagtp=1&amp;Cell+Phones=Cell+Phones">Cell<br>Phones</a>
-    <a class="navcat cat_three" style="background-image:url(/img/unext-header-map-cellphoneacy.png);" href="/electronics/cell-phones/?pagtp=1">Cell Phone<br>Accessories</a>
-    <a class="navcat cat_three camera" href="/store/digitalcameras/?pagtp=1">Digital<br>Cameras</a>
-    <a class="navcat cat_three dvdplayer" href="/electronics/dvd-players-dvrs/?pagtp=1">DVD / Blu-ray<br>Players</a>
-    </li>
-    <li class="box_one">
-    <a class="navcat cat_three gps" href="/category/listing.aspx?url=electronics/gps-systems/?pagtp=1&amp;GPS+Systems=Auto+GPS">GPS</a>
-    <a class="navcat cat_three headphones" href="/store/headphones/?pagtp=1">Headphones</a>
-    <a class="navcat cat_three homeaudio" href="/electronics/home-audio/?pagtp=1">Home Audio</a>
-    <a class="navcat cat_three security" href="/electronics/home-security/?pagtp=1">Home<br>Security</a>
-    </li>
-    
-    <li class="box_one">
-    <a class="navcat cat_three ipod" href="/electronics/ipod-mp3-players/?pagtp=1">iPod/MP3<br>Players</a>
-    <a class="navcat cat_three speaker" href="/electronics/speakers/?pagtp=1">Speakers</a>
-    <a class="navcat cat_three telephone" href="/electronics/telephones/?pagtp=1">Telephones</a>
-    <a class="navcat cat_three videogame" href="/electronics/video-games/?pagtp=1">Video Games</a>
-    </li>
-    
-    <li class="box_two">
-    <h3 class="bold65">Featured</h3>
-    <a href="/store/ipods/">iPod Store</a>
-    <a href="/category/listing.aspx?qs=catid=2&amp;catid=0&amp;Manufacturer=Samsung">Samsung</a>
-    <a href="/category/listing.aspx?qs=catid=2&amp;catid=0&amp;Manufacturer=Plantronics">Plantronics</a>
-    <a href="/category/listing.aspx?qs=catid=2&amp;catid=0&amp;Manufacturer=SONY">Sony</a>
-    </li>
-    
-    </ul></li>
-    <!--Category-->
-    
-    <!--Category-->
-    <li><a href="/store/fashion/?pagtp=1" class="bold65">Fashion</a>
-    <ul>
-	<a href="/store/fashion/?pagtp=1"><h3 class="bold65"><span class="blue">View More</span>Fashion</h3></a>
-    <li class="box_one">
-    <a class="navcat cat_four handbag" href="/everything-else/handbags/?pagtb=1">Handbags</a>
-    <a class="navcat cat_four health" href="/everything-else/health-beauty/?pagtb=1">Health &amp;<br>Beauty</a>
-    </li>
-    <li class="box_one">
-	<a class="navcat cat_four mapparel" href="/everything-else/mens-clothing/?pagtb=1">Men's Apparel</a>
-    <a class="navcat cat_four mshoe" href="/everything-else/mens-shoes-accessories/?pagtb=1">Men's Shoes &amp;<br>Accessories</a>
-    </li>
-    <li class="box_one">
-    <a class="navcat cat_four wapparel" href="/everything-else/womens-clothing/?pagtb=1">Women's Apparel</a>
-    <a class="navcat cat_four wshoe" href="/everything-else/womens-shoes-accessories/?pagtb=1">Women's Shoes &amp;<br>Accessories</a>
-    </li>
-    <li class="box_one">
-    </li>
-    </ul></li>
-    <!--Category-->
-    
- 	<!--Category-->
-    <li><a href="/home-garden/fine-art/?pagtp=1" class="bold65">Fine Art</a>
-    <ul>
-    <div class="arrow"></div>
-	<a href="/home-garden/fine-art/?pagtp=1"><h3 class="bold65"><span class="blue">View More</span>Fine Art</h3></a>
-	<li>
-    <a href="/home-garden/fine-art/?pagtp=1"><img src="/img/ubid-nav-artwelcome.jpg"></a>
-    </li>
-	
-    </ul></li>
-    <!--Category-->
 
-    
-    <!--Category-->
-    <li><a href="/televisions/?pagtp=1" class="bold65">HDTVs</a>
-    <ul>
-	<a href="/televisions/?pagtp=1"><h3 class="bold65"><span class="blue">View More</span>Televisions</h3></a>
-    <li class="box_one">
-    <a href="/televisions/?pagtp=1" class="navcat cat_five tvs">HDTVs</a>
-    </li>
-    <li class="box_one">
-    <a href="/televisions/home-theater-projectors/?pagtp=1" class="navcat cat_five projector">Projectors</a>
-    </li>
-    <li class="box_one">
-    <a href="/televisions/tv-accessories/?pagtp=1" class="navcat cat_five tvacy">TV Accessories</a>
-    </li>
-    <li class="box_one">
-    </li>
-    </ul></li>
-    <!--Category-->
-    
-    <!--Category-->
-    <li><a href="/home-garden/?pagtp=1" class="bold65">Home&nbsp;Goods</a>
-    <ul>
-	<a href="/home-garden/?pagtp=1"><h3 class="bold65"><span class="blue">View More</span>Home Goods</h3></a>
-    <li class="box_one">
-    <a class="navcat cat_six homegood1" href="/store/appliances/?pagtp=1">Appliances</a>   
-    <a class="navcat cat_six homegood2" href="/home-garden/gardening-plants/?pagtp=1">Gardening<br>&amp; Plants</a>
-    <a class="navcat cat_six homegood3" href="/home-garden/home-decor/?pagtp=1">Home Decor</a>
-    </li>
-    <li class="box_one">
-    <a class="navcat cat_six homegood4" href="/home-garden/housekeeping-vacuums/?pagtp=1">Housekeeping<br>&amp; Vacuums</a>
-    <a class="navcat cat_six homegood5" href="/home-garden/kitchen-dining/?pagtp=1">Kitchen<br>&amp; Dining</a>
-    <a class="navcat cat_six homegood6" href="/home-garden/lawn-patio/?pagtp=1">Lawn<br>&amp; Patio</a>
-    </li>
-    <li class="box_one">
-    <a class="navcat cat_six homegood7" href="/tools/accessories-other-tools/?pagtp=1">Tools &amp;<br>Accessories</a>
-    <a class="navcat cat_six homegood8" href="/tools/hand-tools/?pagtp=1">Hand<br>Tools</a>
-    <a class="navcat cat_six homegood9" href="/tools/power-tools/?pagtp=1">Power<br>Tools</a>
-    </li>
-    <li class="box_two">
-    <h3 class="bold65">Featured</h3>
-    <a href="/store/bedding/">Bedding &amp; Pillows</a>
-    <a href="/category/listing.aspx?startAt=1&amp;pagesize=50&amp;deal=Closing|Asc&amp;type=3&amp;incfulltext=False&amp;url=home-garden%2fhome-decor%2fother-home-decor%2f&amp;acth=no&amp;acth_cat=Home%20&amp;%20Garden&amp;qs=Holiday">Holiday Decor</a>
-    <a href="/category/listing.aspx?qs=catid=25&amp;catid=0&amp;ProductType=Home+Decor&amp;Home+Decor=Office+Furniture">Office Furniture</a>
-    <a href="/category/listing.aspx?qs=catid=25&amp;catid=0&amp;ProductType=Kitchen+%26+Dining&amp;Kitchen+%26+Dining=Food+Storage">Food Storage</a>
-    </li>
-    </ul></li>
-    <!--Category-->
-    
-    <!--Category-->
-    <li><a href="/jewelry/?pagtp=1" class="bold65">Jewelry</a>
-    <ul>
-	<a href="/jewelry/?pagtp=1"><h3 class="bold65"><span class="blue">View More</span>Jewelry</h3></a>
-    <li class="box_one">
-    <a class="navcat cat_seven jewelry2" href="/jewelry/bracelets-anklets/?pagtp=1">Bracelets<br>&amp; Anklets</a>    
-    <a class="navcat cat_seven jewelry3" href="/jewelry/earrings/?pagtp=1">Earrings</a>
-    </li>
-    <li class="box_one">
-    <a class="navcat cat_seven jewelry4" href="/store/mensjewelry/?pagtp=1">Mens<br>Jewelry</a>
-    <a class="navcat cat_seven jewelry5" href="/jewelry/necklaces/?pagtp=1">Necklaces</a>
-    </li>
-    <li class="box_one">
-    <a class="navcat cat_seven jewelry6" href="/jewelry/pendants-lockets/?pagtp=1">Pendants<br>&amp; Lockets</a>    
-    <a class="navcat cat_seven jewelry7" href="/jewelry/rings/?pagtp=1">Rings</a>
-    </li>
-    <li class="box_two">
-    <h3 class="bold65">Featured</h3>
-    <a href="/promo/Birthstone/?pagtp=1">Birthstone</a>
-    <a href="/store/diamondjewelry/?pagtp=1">Diamond Jewelry</a>
-    <a href="/store/4everjewelry/?pagtp1">4Ever Jewelry Store</a>
-    <a href="/category/listing.aspx?qs=kw=mega&amp;catid=11">Mega Jewelry Auctions</a>
-    </li>
-    </ul></li>
-    <!--Category-->
-    
-    <!--Category-->
+
+
+<nav class="primary cbp-hsmenu-wrapper" id="cbp-hsmenu-wrapper">
+    <div class="cbp-hsinner">
+        <ul class="cbp-hsmenu">
+            <li>
+                <a href="#" class="primary-category">Computers</a>
+                <ul class="cbp-hssubmenu outer">
+                <h3><a href="/computers/" class="primary-header">Computers</a></h3>
+                    <li class="mango first"><a href="/computers/laptop-computers/" class="primary-subcategory">Laptops</a>
+                        <ul class="primary-subcategory-menu">
+                            <li><a href="/category/listing.aspx?url=computers/laptop-computers/&amp;Manufacturer=Apple">Apple</a></li>
+                            <li><a href="/category/listing.aspx?url=computers/laptop-computers/?&amp;pagesize=50&amp;deal=Bids|Desc&amp;type=3&amp;incfulltext=False&amp;Manufacturer=HP">HP</a></li>
+                            <li><a href="/category/listing.aspx?url=computers/laptop-computers/?&amp;pagesize=50&amp;deal=Bids|Desc&amp;type=3&amp;incfulltext=False&amp;Manufacturer=Dell">Dell</a></li>
+                            <li><a href="/category/listing.aspx?url=computers/laptop-computers/?&amp;pagesize=50&amp;deal=Bids|Desc&amp;type=3&amp;incfulltext=False&amp;Manufacturer=Toshiba">Toshiba</a></li>
+                            <li><a href="/category/listing.aspx?url=computers/laptop-computers/?&amp;pagesize=50&amp;deal=Bids|Desc&amp;type=3&amp;incfulltext=False&amp;Manufacturer=Lenovo">Lenovo</a></li>
+                            <li><a href="/category/listing.aspx?url=computers/laptop-computers/?&amp;pagesize=50&amp;deal=Bids|Desc&amp;type=3&amp;incfulltext=False&amp;Manufacturer=Samsung">Samsung</a></li>
+                            <li><a href="/category/listing.aspx?url=computers/laptop-computers/?&amp;pagesize=50&amp;deal=Bids|Desc&amp;type=3&amp;incfulltext=False&amp;Manufacturer=Asus">Asus</a></li>
+                        </ul>                    </li>
+                    <li class="mango"><a href="/computers/desktop-computers/" class="primary-subcategory">Desktops</a>
+                        <ul class="primary-subcategory-menu">
+                            <li><a href="/category/listing.aspx?url=computers/desktop-computers/?cplftlnk=1&amp;Manufacturer=Apple">Apple</a></li>
+                            <li><a href="/category/listing.aspx?url=computers/desktop-computers/?&amp;pagesize=50&amp;deal=Price|Asc&amp;type=2&amp;incfulltext=False&amp;Manufacturer=HP">HP</a></li>
+                            <li><a href="/category/listing.aspx?url=computers/desktop-computers/?&amp;pagesize=50&amp;deal=Bids|Desc&amp;type=3&amp;incfulltext=False&amp;Manufacturer=Dell">Dell</a></li>
+                            <li><a href="/category/listing.aspx?url=computers/desktop-computers/?&amp;pagesize=50&amp;deal=Price|Asc&amp;type=2&amp;incfulltext=False&amp;Manufacturer=Lenovo">Lenovo</a></li>
+                            <li><a href="/category/listing.aspx?url=computers/desktop-computers/?&amp;pagesize=50&amp;deal=Price|Asc&amp;type=2&amp;incfulltext=False&amp;Manufacturer=Asus">Asus</a></li>
+                        </ul>
+
+                    </li>
+                    <li class="mango"><a href="/computers/laptop-computers/tablet-pcs/" class="primary-subcategory">Tablets</a>
+                        <ul class="primary-subcategory-menu">
+                            <li><a href="/category/listing.aspx?url=computers/laptop-computers/&amp;deal=Bids|Desc&amp;Laptop+Computers=Tablet+PCs&amp;Manufacturer=Apple">Apple</a></li>
+                            <li><a href="/category/listing.aspx?url=computers%2flaptop-computers%2f&amp;Laptop+Computers=Tablet+PCs&amp;&amp;pagesize=50&amp;deal=Bids|Desc&amp;type=3&amp;incfulltext=False&amp;Manufacturer=HP">HP</a></li>
+                            <li><a href="/category/listing.aspx?url=computers%2flaptop-computers%2f&amp;Laptop+Computers=Tablet+PCs&amp;&amp;pagesize=50&amp;deal=Bids|Desc&amp;type=3&amp;incfulltext=False&amp;Manufacturer=Dell">Dell</a></li>
+                            <li><a href="/category/listing.aspx?url=computers%2flaptop-computers%2f&amp;Laptop+Computers=Tablet+PCs&amp;&amp;pagesize=50&amp;deal=Bids|Desc&amp;type=3&amp;incfulltext=False&amp;Manufacturer=Worryfree">Worryfree</a></li>
+                        </ul>
+
+                    </li>
+                    <li class="mango"><a href="" class="primary-subcategory">More</a>
+                        <ul class="primary-subcategory-menu">
+                            <li><a href="/computers/monitors/">Monitors</a></li>
+                            <li><a href="/computers/networking/">Netbooks</a></li>
+                            <li><a href="/category/listing.aspx?url=computers/drives/?pagtp=1&amp;Drives=External+Hard+Drives">External Hard Drives</a></li>
+                            <li><a href="/category/listing.aspx?qs=printers&amp;catid=0&amp;ProductType=Printers+%26+Scanners">Printers &amp; Scanners</a></li>
+                            <li><a href="/computers/networking/">Routers &amp; Networking</a></li>
+                            <li><a href="/electronics/ipod-mp3-players/">iPod &amp; MP3 Players</a></li>
+                        </ul>
+                    </li>
+
+                    <li class="mango featured"><span class="primary-subcategory">Featured</span>
+                        <ul class="primary-subcategory-menu">
+                            <li><a href="/store/apple/">Apple Computers</a></li>
+                            <li><a href="/category/listing.aspx?qs=HP&amp;catid=1">HP</a></li>
+                            <li><a href="/category/listing.aspx?qs=Logitech&amp;catid=1">Logitech</a></li>
+                            <li><a href="/category/listing.aspx?qs=Toshiba&amp;catid=1">Toshiba</a></li>
+                        </ul>
+                    </li>
         
-    <li><a href="/store/travel/?pagtp=1" class="bold65">Travel</a>
-    <ul>
-	<a href="/travel/?pagtp=1"><h3 class="bold65"><span class="blue">View More</span>Travel</h3></a>
-    <li class="box_one"><a class="navcat cat_eight travel1" href="/store/travel/">Travel<br>Packages</a></li>
-    <li class="box_one"><a class="navcat cat_eight travel2" href="/category/listing.aspx?qs=vid=83015">Travel<br>Vouchers</a></li>
-    <li class="box_one"><a class="navcat cat_eight travel3" href="/everything-else/luggage/?pagtp=1">Luggage<br>Sets</a></li>
-    <li class="box_one"><a class="navcat cat_eight travel4" href="/travel/travel-accessories/?pagtp=1">Travel<br>Accessories</a></li>
-    </ul></li>
-    <!--Category-->
-    
-    <!--Category-->
-    <li><a href="/store/watches/?pagtp=1" class="bold65">Watches</a>
-    <ul>
-	<a href="/store/watches/?pagtp=1"><h3 class="bold65"><span class="blue">View More</span>Watches</h3></a>
-    <li class="box_one"><a class="navcat cat_nine watch1" href="/watches/?pagtp=1">View All<br>Watches</a></li>
-    <li class="box_one"><a class="navcat cat_nine watch2" href="/watches/mens-watches/?pagtp=1">Men's<br>Watches</a></li>
-    <li class="box_one"><a class="navcat cat_nine watch3" href="/watches/ladies-watches/?pagtp=1">Women's<br>Watches</a></li>
-    <li class="box_one"><a class="navcat cat_nine watch4" href="/watches/watch-accessories/?pagtp=1">Watch<br>Accessories</a></li>
-    </ul></li>
-    <!--Category-->
-    
-    <!--Category-->
-    <li><a href="/everything-else/?pagtp=1" class="bold65">More</a>
-    <ul>
-	<a href="/everything-else/?pagtp=1"><h3 class="bold65"><span class="blue">View More</span>Even More Categories</h3></a>
-    <li class="box_one">
-	<a class="navcat cat_auto autocat2" href="/category/listing.aspx?url=electronics/automotive-gear/&amp;Automotive+Gear=Parts">Auto<br>Parts</a>
-    <a class="navcat cat_auto autocat3" href="/category/listing.aspx?url=electronics/automotive-gear/&amp;Automotive+Gear=Accessories">Auto<br>Accessories</a>
-    <a class="navcat cat_auto autocat1" href="/automotive/car-electronics/?pagtp=1">Auto<br>Electronics</a>
-    </li>
-    <li class="box_one">
-    <a class="navcat cat_ten everything1" href="/sporting-goods/binoculars-telescopes/?pagtp=1">Binoculars &amp;<br>Telescopes</a>
-    <a class="navcat cat_ten everything2" href="/sporting-goods/exercise-fitness/?pagtp=1">Exercise &amp;<br>Fitness</a>
-    </li>
-    <li class="box_one">
-    <a class="navcat cat_ten everything3" href="/everything-else/movies/?pagtp=1">Movies</a>
-    <a class="navcat cat_ten everything4" href="/everything-else/musical-instruments/?pagtp=1">Musical<br>Instruments</a>
-    </li>
-    <li class="box_one">
-    <a class="navcat cat_ten everything5" href="/sporting-goods/sporting-goods/?pagtp=1">Sports<br>Equipment</a>
-    <a class="navcat cat_ten everything6" href="/sporting-goods/toys-games/?pagtp=1">Toys &amp;<br>Games</a>
-    </li>
-    </ul></li>
-    <!--Category-->
+                </ul>
+            </li>
+            <li>
+                <a href="#" class="primary-category">Electronics</a>
+                <ul class="cbp-hssubmenu outer cbp-hssub-rows">
+                <h3><a href="/electronics/" class="primary-header">Electronics</a></h3>
+                    <li class="mango first">
+                        <ul class="primary-subcategory-menu">
+                            <li><a href="/televisions/">HDTVs</a></li>
+                            <li><a href="/electronics/camcorders/flash-memory-camcorders/">Camcorders</a></li>
+                            <li><a href="/electronics/car-electronics/">Car Electronics</a></li>
+                            <li><a href="/category/listing.aspx?url=electronics/cell-phones/?pagtp=1&amp;Cell+Phones=Cell+Phones">Cell Phones</a></li>
+                            <li><a href="/store/digitalcameras/">Digital Cameras</a></li>
+                            
+                            <li><a href="/electronics/dvd-players-dvrs/">DVD Players &amp; DVRs</a></li>
+                        </ul>
+                    </li>
+                    <li class="mango">
+                        <ul class="primary-subcategory-menu">
+                            <li><a href="/category/listing.aspx?url=electronics/gps-systems/?pagtp=1&amp;GPS+Systems=Auto+GPS">GPS Systems</a></li>
+                            <li><a href="/store/headphones/">Headphones</a></li>
+                            <li><a href="/electronics/home-audio/">Home Audio</a></li>
+                            <li><a href="/electronics/home-security/">Home Security</a></li>
+                            <li><a href="/electronics/ipod-mp3-players/">iPod &amp; MP3 Players</a></li>
+                        </ul>
+                    </li>
+                    <li class="mango">
+                        <ul class="primary-subcategory-menu">
+                            <li><a href="/electronics/portable-electronics/">Portable Electronics</a></li>
+                            <li><a href="/electronics/speakers/">Speakers</a></li>
+                            <li><a href="/electronics/telephones/">Telephones</a></li>
+                            <li><a href="/category/listing.aspx?qs=video&amp;catid=0&amp;ProductType=Video+Accessories">Video Accessories</a></li>
+                            <li><a href="/electronics/video-games/">Video Games</a></li>
+                        </ul>
+                    </li>
+                    <li class="mango featured"><span class="primary-subcategory ">Featured</span>
+                        <ul class="primary-subcategory-menu">
+                            <li><a href="/store/ipods/">iPod Store</a></li>
+                            <li><a href="/category/listing.aspx?qs=samsung&amp;catid=0">Samsung</a></li>
+                            <li><a href="/category/listing.aspx?qs=catid=2&amp;catid=0&amp;Manufacturer=Plantronics">Plantronics</a></li>
+                            <li><a href="/category/listing.aspx?qs=catid=2&amp;catid=0&amp;Manufacturer=SONY">Sony</a></li>
+                        </ul>
+                    </li>
+                </ul>
+            </li>
 
-    </ul>
+
+            <li>
+                <a href="#" class="primary-category">Jewelry</a>
+                <ul class="cbp-hssubmenu outer">
+                <h3><a href="/jewelry/" class="primary-header" style="display: inline-block;">Jewelry </a></h3>
+                    
+                    
+                    
+                    <li class="mango first">
+                        <!-- <a href="/jewelry/?pagtp=1" class="primary-subcategory">Jewelry</a>  -->       
+                        <ul class="primary-subcategory-menu"><a class="primary-subcategory" href="/jewelry/">Jewelry</a>
+                            <li><a href="/jewelry/bracelets-anklets/">Bracelets &amp;<br>Anklets</a></li>
+                            <li><a href="/jewelry/earrings/">Earrings</a></li>
+                            <li><a href="/jewelry/necklaces/">Necklaces</a></li>
+                            
+                           
+                            
+                        </ul>
+                    </li>
+                    <li class="mango ">
+                        <!-- <a href="/jewelry/?pagtp=1" class="primary-subcategory">Jewelry</a>  -->       
+                        <ul class="primary-subcategory-menu"><span class="primary-subcategory ">&nbsp;</span>
+                        	<li><a href="/jewelry/pendants-lockets/">Pendants &amp; Lockets</a></li>
+                            <li><a href="/jewelry/rings/">Rings</a></li>
+                            
+                            
+                        </ul>
+                    </li>
+               
+                    <li class="mango featured wide"><span class="primary-subcategory">Featured</span>
+                         <!-- <a href="/watches/" class="primary-subcategory">Watches</a>  -->
+                        <ul class="primary-subcategory-menu">
+                             <li><a href="/promo/Birthstone/">Birthstones</a></li>
+                             <li><a href="/store/diamondjewelry/">Diamond Jewelry</a></li>
+                            <li><a href="/store/4everjewelry/">4Ever Jewelry Store</a></li>
+                            <li><a href="/category/listing.aspx?startAt=1&amp;pagesize=50&amp;deal=Closing|Asc&amp;type=0&amp;incfulltext=False&amp;qs=catid%3d11&amp;acth=no&amp;acth_cat=&amp;qs=kw=mega">Mega Jewelry Auctions</a></li>
+                            
+
+                        </ul>
+                    </li>
+                </ul>
+            </li> 
+            <li>
+                <a href="#" class="primary-category">Watches</a>
+                <ul class="cbp-hssubmenu outer">
+                <h3><a href="/watches/" class="primary-header">Watches</a></h3>
+                    <li><a href="/watches/ladies-watches/">Women's Watches</a></li>
+                    <li><a href="/watches/mens-watches/">Men's Watches</a></li>
+                    <li><a href="/watches/watch-accessories/">Watch Accessories</a></li>
+                    <li><a href="/watches/">All Watches</a></li>
+                </ul>
+            </li>
+
+            <li>
+                <a href="#" class="primary-category">Fashion</a>
+                <ul class="cbp-hssubmenu outer">
+                <h3><a href="/store/fashion/" class="primary-header">Fashion</a></h3>
+                    <li class="mango first"><a href="/everything-else/womens-clothing/" class="primary-subcategory">Women's Fashion</a>
+                        <ul class="primary-subcategory-menu">
+                            <li><a href="/everything-else/womens-clothing/">Apparel</a></li>
+                            <li><a href="/everything-else/womens-shoes-accessories/">Shoes &amp; Accessories</a></li>
+                            
+                        </ul>
+                    </li>
+                    <li class="mango"><span class="primary-subcategory">More</span>
+                        <ul>
+                             <li><a href="/everything-else/health-beauty/">Health &amp; Beauty</a></li>
+                             <li><a href="/everything-else/handbags/">Handbags</a></li>
+                             
+                        </ul>
+                    </li>
+                    <li class="mango"><a href="/everything-else/mens-clothing/" class="primary-subcategory">Men's Fashion</a>
+                        <ul class="primary-subcategory-menu">
+                            <li><a href="/everything-else/mens-clothing/">Apparel</a></li>
+                            <li><a href="/everything-else/mens-shoes-accessories/">Shoes &amp; Accessories</a></li>
+                            
+                        </ul>
+                    </li>
+                   
+                </ul>
+            </li>
+            <li>
+                <a href="#" class="primary-category">Home Goods</a>
+                <ul class="cbp-hssubmenu outer">
+                <h3><a href="/home-garden/" class="primary-header">Home Goods</a></h3>
+                    <li class="mango first"><span class="primary-subcategory">&nbsp;</span>
+                        <ul class="primary-subcategory-menu">
+                            <li><a href="/store/appliances/">Appliances</a></li>
+                            <li><a href="/home-garden/kitchen-dining/">Kitchen &amp; Dining</a></li>
+                            <li><a href="/home-garden/housekeeping-vacuums/">Vacuums</a></li>
+                            
+                            
+    
+                        </ul>
+                    </li>
+                    <li class="mango"><span class="primary-subcategory">&nbsp;</span>
+                        <ul class="primary-subcategory-menu">
+                            <li><a href="/home-garden/home-decor/">Home Decor</a></li>
+                            <li><a href="/category/listing.aspx?qs=catid=25&amp;catid=0&amp;ProductType=Home+Decor&amp;Home+Decor=Office+Furniture">Home Office</a></li>
+                            
+                            
+                        </ul>
+                    </li>
+                   
+                    <li class="mango"><span class="primary-subcategory">&nbsp;</span>
+                        <ul class="primary-subcategory-menu">
+                            
+                            <li><a href="/home-garden/lawn-patio/">Lawn &amp; Patio</a></li>
+                            <li><a href="/home-garden/gardening-plants/">Gardening &amp; Plants</a></li>
+                            <li><a href="/tools/accessories-other-tools/">Tools and More</a></li>
+                            
+                        </ul>
+                    </li>
+                    <li class="mango featured"><span class="primary-subcategory">Featured</span>
+                        <ul class="primary-subcategory-menu">
+                            <li><a href="/store/bedding/">Bedding and Pillows</a></li>
+                            <li><a href="/category/listing.aspx?qs=brentwood&amp;catid=0&amp;ProductType=Appliances">Brentwood Appliances</a></li>
+                            <li><a href="/home-garden/kitchen-dining/">Kitchen</a></li>
+                            <li><a href="/home-garden/home-decor/clocks/">Clocks and Docks</a></li>
+                            
+                      
+                            
+                        </ul>
+                    </li>
+
+                </ul>
+            </li>
+            <li>
+                <a href="#" class="primary-category">Sports</a>
+                <ul class="cbp-hssubmenu outer">
+                <h3><a href="/sporting-goods/" class="primary-header">Sports</a></h3>
+                    <li class="mango first"><a href="/sporting-goods/exercise-fitness/">Exercise &amp; Fitness</a></li>
+            <li class="mango"><a href="/sporting-goods/sporting-goods/">Sports Equipment</a></li>
+
+                </ul>
+            </li>
+
+            <li>
+                <a href="#" class="primary-category">Travel</a>
+                <ul class="cbp-hssubmenu outer">
+                <h3><a href="/store/travel/" class="primary-header">Travel</a></h3>
+                    <li class="mango first"><a href="/store/travel/">Travel Packages</a></li>
+                    <li class="mango"><a href="/category/listing.aspx?qs=vid=83015">Travel Vouchers</a></li>
+                    <li class="mango"><a href="/everything-else/luggage/">Luggage Sets</a></li>
+                    <li class="mango"><a href="/travel/travel-accessories/">Travel Accessories</a></li>
+                </ul>
+            </li>
+
+            <li>
+                <a href="#" class="primary-category">Collectibles</a>
+                <ul class="cbp-hssubmenu outer">
+                <h3><a href="/collectibles/" class="primary-header">Collectibles</a></h3>
+                    <li class="mango first"><a href="/store/coins/">Coins</a></li>
+                    <li class="mango"><a href="/collectibles/sports-memorabilia/sports-memorabilia/">Memorabilia</a></li>
+                    <li class="mango"><a href="/collectibles/other-collectibles/">Other Collectibles</a></li>
+                </ul>
+            </li>
+            <li>
+                <a href="#" class="primary-category">More</a>
+                <ul class="cbp-hssubmenu outer">
+                <h3><span class="primary-header">More</span></h3>
+                    <li class="mango first"><a href="/home-garden/fine-art/">Fine Art</a></li>
+                    
+                
+                    <li class="mango"><a href="/sporting-goods/binoculars-telescopes/">Binoculars &amp;<br>Telescopes</a></li>
+                    <li class="mango"><a href="/everything-else/musical-instruments/">Musical Instruments</a></li>
+                    <li class="mango"><a href="/sporting-goods/toys-games/">Toys &amp; Games</a></li>
+                </ul>
+            </li>
+    </ul></div>
+</nav>
+
+
+
+
+
+
+
+
+
     
     </div>
     <!--Footer img loader-->
@@ -617,21 +625,17 @@ _kms('//doug1izaerwt3.cloudfront.net/' + _kmk + '.1.js');
     </div>-->
     <!--Error / Notice Message-->
     </header>
-				
-				<!--New Visitor Popup-->
-				<div id="newVisitor" style="display:none">
-				</div>
-				<!--New Visitor Popup-->
-				
-				<div id="wrapv5">
-                
+	
+	
+	<div id="wrapv5">
+    
 <meta name="description" content="What is uBid.com's Privacy &amp; Security Policy?">
 <link rel="canonical" href="http://www.ubid.com/help/docs/privacy-security-policy.aspx">
 
-	<div id="docwrap">
+	<div id="docwrap" class="container">
     
     <!--Title-->
-    <h1 class="titleprivacy" title="What is uBid.com's Privacy &amp; Security Policy?"></h1>
+    <h1 class="titleprivacy" title="What is uBid.com's Privacy &amp; Security Policy?">Privacy &amp; Security Policy</h1>
     <p>(Last Updated: January 12, 2012)</p>
     <p>uBid, ("uBid.com") has created this statement in order to demonstrate our firm commitment to protecting your privacy. The following discloses our information gathering and dissemination practices for this website. As this policy may change from time to time, please check back periodically.</p>
     <p>uBid.com uses the information we collect about you to process orders. When you register at uBid.com, we collect your name, email addresses, mailing address, credit card number, and expiration date in order to process and fulfill your order. In some instances, products ordered at uBid.com are shipped directly from our vendors, and some of your information is shared with these vendors to enable them to fulfill and ship your order.</p>
@@ -676,9 +680,9 @@ src="http://ubid.112.2O7.net/b/ss/ubiddev/1/H.15--NS/0"
 height="1" width="1" border="0" alt="" /></a></noscript><!--/DO NOT REMOVE/-->
 <!-- End SiteCatalyst code version: H.15. -->
 
-				</div>
-			
-            
+	</div>
+
+
 
 <script type="text/javascript">
 //<![CDATA[
@@ -727,218 +731,63 @@ google_ad_height = 90;
 
 <!--Footer Content-->
 <footer>
-<div id="footer">
-
-	<div id="footerwrap">
-    
-    <div class="row1">
-	<span style="font-size:32px; line-height:39px; float:left;">Stay Connected. Follow uBid Today.&nbsp;&nbsp;&nbsp;»&nbsp;&nbsp;&nbsp;»&nbsp;&nbsp;&nbsp;»</span>
-   	<a class="socialicon yt" target="_blank" href="http://www.youtube.com/user/uBidVideos"></a>
-	<a class="socialicon pt" target="_blank" href="http://www.pinterest.com/ubid/"></a>
-	<a class="socialicon tw" target="_blank" href="http://twitter.com/uBidDeals"></a>
-	<a class="socialicon fb" target="_blank" href="https://www.facebook.com/ShopuBid"></a>
-    </div>
-    
-    <div class="line"></div>
-    
-    <div class="row2">
-    <ul>
-    <li><a href="https://www.ubid.com/registration/default.aspx?footer">Register</a><a href="https://www.ubid.com/app/mypage/Login.aspx?footer">Login</a><a href="/help/?footer">Help</a><a href="/help/topic38.asp?footer">Contact</a><a href="/SiteMap/SiteMap.aspx?footer">Site Map</a></li>
-    <li><a href="/about/default.aspx?footer">About</a><a href="/about/press.aspx?footer">Press</a><a href="/about/careers.aspx?footer">Jobs</a><a href="/about/careers.aspx?footer">Our Team</a><a href="/sell/default.aspx?footer">uMerchant Seller</a><a href="/affiliates/?footer">uBid Affiliates</a></li>
-    <li><a href="/deals/?footer">uBid Deals</a><a href="/closingsoon/&amp;footer">Auctions Closing Soon</a><a href="/promo/most-popular/?foooter">Trending Deals</a><a href="/promo/mega/?footer">Mega auctions</a><a href="/promo/24/?footer">24-Hour auctions</a><a href="/charity/?foooter">Charity Auctions</a></li>
-    
-    <li class="last">
-    <span class="title">Get Auction Alerts sent to your inbox!</span>
-<form action="http://eepurl.com/WzWLH" method="post">
-
-<input type="hidden" name="fid" value="01etaq3zfn1fyg6qve34m8t0oapww">
-
-<input type="hidden" name="sid" value="90c05b249b349df7d39280d7e7541701">
-
-<input type="hidden" name="delid" value="">
-
-<input type="hidden" name="subid" value="">
-
-<script type="text/javascript">
-
-var fieldMaps = {};
-
-</script>
-
-<div class="section" id="row_24707">
-
-<div class="container" id="column_30438">
-
-<div class="email field_block">
-
-<div class="caption">Email Address <span class="required">*</span></div>
-
-<div class="field">
-
-<span>
-
-<input type="text" class="text field fb-email" size="35" name="56974" value="">
-
-</span>
-
-<div class="field_error">
-
-</div>
-
-</div>
-
-</div>
-
-<input type="hidden" name="57688[768682]" value="true">
-
-<div class="field_block" field_id="75225">
-
-<div class="field">
-
-<span>
-
-<input type="hidden" id="field_75225" class="hidden field" name="57697[75225]" value="1">
-
-</span>
-
-</div>
-
-</div>
-
-<div class="field_block" field_id="75221">
-
-<div class="field">
-
-<span>
-
-<input type="hidden" id="field_75221" class="hidden field" name="57698[75221]" value="1">
-
-</span>
-
-</div>
-
-</div>
-
-<div class="field_block" field_id="75222">
-
-<div class="field">
-
-<span>
-
-<input type="hidden" id="field_75222" class="hidden field" name="57699[75222]" value="1">
-
-</span>
-
-</div>
-
-</div>
-
-<div class="field_block" field_id="75226">
-
-<div class="field">
-
-<span>
-
-<input type="hidden" id="field_75226" class="hidden field" name="57700[75226]" value="1">
-
-</span>
-
-</div>
-
-</div>
-
-<div class="field_block" field_id="75223">
-
-<div class="field">
-
-<span>
-
-<input type="hidden" id="field_75223" class="hidden field" name="57701[75223]" value="1">
-
-</span>
-
-</div>
-
-</div>
-
-<div class="field_block" field_id="75237">
-
-<div class="field">
-
-<span>
-
-<input type="hidden" id="field_75237" class="hidden field" name="57702[75237]" value="1">
-
-</span>
-
-</div>
-
-</div>
-
-<div class="field_block" field_id="75224">
-
-<div class="field">
-
-<span>
-
-<input type="hidden" id="field_75224" class="hidden field" name="57703[75224]" value="1">
-
-</span>
-
-</div>
-
-</div>
-
-</div>
-
-<div class="container" id="column_30439">
-
-</div>
-
-
-
-</div>
-
-<div class="section" id="row_24708">
-
-<div class="container" id="column_30440">
-
-<div class="field_block">
-
-<div class="field">
-
-<span>
-
-<input type="submit" value="Subscribe" class="submitfoot">
-
-</span>
-
-</div>
-
-</div>
-
-</div>
-
-
-</div>
-
-</form>
-    </li>
-    
-    <div class="clearfix"></div>
-    </ul>
-    </div>
-    
-    <div class="line"></div>
-    
-    <div class="row3">Copyright ©1997 - 2015 uBid.com, All Rights Reserved Designated trademarks, logos and brands are the property of their respective owners.<br>PROTECTED BY U.S. PATENT NOS. 5,845,265; 6,202,051; 6,266,651 AND PAT. PENDING<br>Use of this web site constitutes acceptance of the uBid.com <a href="/help/Docs/user-agreement.aspx?footer">User Agreement</a> and <a href="/help/docs/privacy-security-policy.aspx?footer">Privacy Policy</a>.</div>
-
-    
-    
-    
-    
-    </div>
-</div>
+    <div id="footer">
+
+    	<div id="footerwrap" class="container">
+        
+            <div class="row">
+                <div class="col-xs-5">
+                    <div class="auction-alerts">
+                        <a href="/promo/emailform/default.aspx" class="auction-alert-submit pull-right">Sign Up!</a>
+                         <span class="uppercase">Auction Insider</span><br>Deals delivered to your inbox! 
+                         
+
+
+                     </div><!-- /auction-alerts -->
+                     <div class="social-media-wrap">
+                         <ul class="soc-media-list">
+                            <li class="entypo-pinterest" data-network="pinterest"><a href="http://www.pinterest.com/ubid/" target="_blank" class="text-hide">Pintrest</a></li>
+                            <li class="entypo-twitter" data-network="twitter"><a href="http://twitter.com/uBidDeals" target="_blank" class="text-hide">Twitter</a></li>
+                            <li class="entypo-facebook" data-network="facebook"><a href="https://www.facebook.com/ShopuBid" target="_blank" class="text-hide">Facebook</a></li>
+                            <li class="entypo-paper-plane" data-network="email"><a href="/help/topic38.asp?footer" class="text-hide">Email</a></li>
+                         </ul>
+                    </div><!-- /social-media-wrap -->
+                </div><!-- /col-xs-5 -->
+
+                <div class="col-xs-7">
+                    <div class="row footer-link-list">
+                        <div class="col-xs-4">
+                           <ul class="footer-link-list">
+                               <li><a href="https://www.ubid.com/registration/default.aspx?footer">Register</a><a href="https://www.ubid.com/app/mypage/Login.aspx?footer">Login</a><a href="/help/?footer">Help</a><a href="/help/topic38.asp?footer">Contact</a><a href="/SiteMap/SiteMap.aspx?footer">Site Map</a></li>
+                           </ul>
+                        </div>
+
+                        <div class="col-xs-4">
+                            <ul class="footer-link-list">
+                               <li><a href="/about/default.aspx?footer">About</a><a href="/about/press.aspx?footer">Press</a><a href="/about/careers.aspx?footer">Jobs</a><a href="/about/careers.aspx?footer">Our Team</a><a href="/sell/">uMerchant Seller</a><!--<a href="/affiliates/?footer">uBid Affiliates</a></li>-->
+                           </li></ul>
+                        </div>
+
+                        <div class="col-xs-4">
+                            <ul class="footer-link-list">
+                               <li><a href="/deals/?footer">uBid Deals</a><a href="/closingsoon/&amp;footer">Auctions Closing Soon</a><a href="/promo/most-popular/?foooter">Trending Deals</a><a href="/promo/mega/?footer">Mega auctions</a><a href="/promo/24/?footer">24-Hour auctions</a><!-- <a href="/charity/?foooter">Charity auctions</a> --></li>
+                           </ul>
+                        </div>
+
+
+
+                    </div><!-- /footer-link-list -->
+                </div><!-- /col-xs-7 -->
+
+            </div><!-- /row -->
+            <div class="row">
+                 <div class="copyright">Copyright ©1997 - 2015 uBid.com, All Rights Reserved Designated trademarks, logos and brands are the property of their respective owners.<br>PROTECTED BY U.S. PATENT NOS. 5,845,265; 6,202,051; 6,266,651 AND PAT. PENDING<br>Use of this web site constitutes acceptance of the uBid.com <a href="/help/Docs/user-agreement.aspx?footer">User Agreement</a> and <a href="/help/docs/privacy-security-policy.aspx?footer">Privacy Policy</a>.
+                 </div>
+
+            </div><!-- /row -->
+        
+        </div><!-- /footerwrap -->
+    </div><!-- /#footer -->
 </footer>
 <!--Footer Content-->
 			
@@ -963,6 +812,10 @@ window.onload = function(){
 <!-- ClickTale Bottom part -->
 <!-- ClickTale end of Bottom part -->
 
+
+
+<script src="/inc/js/cbpHorizontalSlideOutMenu.js"></script>
+
 <script type="text/javascript">
 
   var _gaq = _gaq || [];
@@ -976,140 +829,6 @@ window.onload = function(){
   })();
 
 </script>
-
-
-
-
-
-
-
-
-<!-- This contains the hidden content for inline calls for the subscribe box -->
-
-<div style="display:none">
-  <div id="subscribe_popup_masterpage">
-  <img src="/img/2013/category_2014_popup_email.png" width="200" height="224" alt="Sign Up" class="signup"> <span class="welcomemsg">Want to hear about<br>other uBid offers?</span>
-<span class="subwelcome">Sign up for uBid.com Email Alerts Today!</span>
-
-<form action="http://email.ubid.com/public/webform/process/" method="post">
-<input type="hidden" name="fid" value="0lwwi3jn07tfnou66k8osa7pcxmme">
-<input type="hidden" name="sid" value="90c05b249b349df7d39280d7e7541701">
-<input type="hidden" name="delid" value="">
-<input type="hidden" name="subid" value="">
-<script type="text/javascript">
-var fieldMaps = {};
-</script>
-<div class="section" id="row_30701">
-<div class="container" id="column_37773">
-<div class="email field_block">
-<div class="caption">Email Address </div>
-<div class="field">
-<span>
-<input type="text" class="text field fb-email" size="35" name="71761" value="">
-</span>
-<div class="field_error">
-</div>
-</div>
-</div>
-<div class="field_block" field_id="75225">
-<div class="checkbox field">
-<span>
-<input type="checkbox" id="field_75225" class="checkbox" name="71762[75225]" value="1" checked="checked">
-<label id="caption_75225" for="field_75225" class="caption">
-Apple Emails </label>
-</span>
-<div class="field_error">
-</div>
-</div>
-</div>
-<div class="field_block" field_id="75221">
-<div class="checkbox field">
-<span>
-<input type="checkbox" id="field_75221" class="checkbox" name="71763[75221]" value="1" checked="checked">
-<label id="caption_75221" for="field_75221" class="caption">
-Hot Category Emails </label>
-</span>
-<div class="field_error">
-</div>
-</div>
-</div>
-<div class="field_block" field_id="75222">
-<div class="checkbox field">
-<span>
-<input type="checkbox" id="field_75222" class="checkbox" name="71764[75222]" value="1" checked="checked">
-<label id="caption_75222" for="field_75222" class="caption">
-Daily Deal Emails </label>
-</span>
-<div class="field_error">
-</div>
-</div>
-</div>
-<div class="field_block" field_id="75226">
-<div class="checkbox field">
-<span>
-<input type="checkbox" id="field_75226" class="checkbox" name="71765[75226]" value="1" checked="checked">
-<label id="caption_75226" for="field_75226" class="caption">
-Flash Emails </label>
-</span>
-<div class="field_error">
-</div>
-</div>
-</div>
-<div class="field_block" field_id="75223">
-<div class="checkbox field">
-<span>
-<input type="checkbox" id="field_75223" class="checkbox" name="71766[75223]" value="1" checked="checked">
-<label id="caption_75223" for="field_75223" class="caption">
-Mega Email </label>
-</span>
-<div class="field_error">
-</div>
-</div>
-</div>
-<div class="field_block" field_id="75224">
-<div class="checkbox field">
-<span>
-<input type="checkbox" id="field_75224" class="checkbox" name="71767[75224]" value="1" checked="checked">
-<label id="caption_75224" for="field_75224" class="caption">
-Travel Email </label>
-</span>
-<div class="field_error">
-</div>
-</div>
-</div>
-<div class="field_block" field_id="75237">
-<div class="checkbox field">
-<span>
-<input type="checkbox" id="field_75237" class="checkbox" name="71768[75237]" value="1" checked="checked">
-<label id="caption_75237" for="field_75237" class="caption">
-Tuesday Event Emails </label>
-</span>
-<div class="field_error">
-</div>
-</div>
-</div>
-<div class="field_block">
-<div class="field">
-<span>
-<input type="submit" value="Subscribe" class="submitfoot">
-</span>
-</div>
-</div>
-</div>
-</div>
-</form>
-
-  </div>
-</div>
-<!-- END subscribe popup-->
-
-
-
-
-
-
-
-
 
 
 </body></html>
