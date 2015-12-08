@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adultspace.com privacy policy that was archived on 2015-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150625001038id_/http%3A//www.adultspace.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adultspace.com privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208051807id_/http%3A//www.adultspace.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Adult Friend Finder | Adult Sex | Sex Dating | Adultspace.com
 
