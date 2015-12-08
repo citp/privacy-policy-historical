@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the migration.wa.gov.au privacy policy that was archived on 2015-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150421052113id_/http%3A//www.migration.wa.gov.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the migration.wa.gov.au privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208113819id_/http%3A//www.migration.wa.gov.au/privacy) for the most accurate reproduction.*
 
 # Migration WA - Privacy
 
