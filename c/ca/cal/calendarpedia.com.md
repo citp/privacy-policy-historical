@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the calendarpedia.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609214402id_/http%3A//www.calendarpedia.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the calendarpedia.com privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208174250id_/http%3A//www.calendarpedia.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Calendarpedia.com
 
@@ -15,7 +15,7 @@ In some cases, we may collect information about you that does not identify you p
 If you have provided us with your personal information and would like to update or correct that information, or have the information we hold on you deleted from our records, please [contact us](http://www.calendarpedia.com/contact.html).
 
 **Use of Cookies and Web Beacons**  
-We may use cookies to help you personalize your online experience. Cookies are identifiers that are transferred to your computer's hard drive through your web browser to enable our systems to recognize your browser. The purpose of a cookie is to tell the web server that you have returned to a specific page. For example, if you personalize the site's pages, a cookie enables calendarpedia.com to recall your specific information on subsequent visits.
+We use cookies to help you personalize your online experience. Cookies are identifiers that are transferred to your computer's hard drive through your web browser to enable our systems to recognize your browser. The purpose of a cookie is to tell the web server that you have returned to a specific page. For example, if you personalize the site's pages, a cookie enables calendarpedia.com to recall your specific information on subsequent visits.
 
 A web beacon is a transparent image file used to monitor your journey around a single website or collection of sites. They are also referred to as web bugs and are commonly used by sites that hire third-party services to monitor traffic. They may be used in association with cookies to understand how visitors interact with the pages and content on the pages of a website.
 
@@ -42,7 +42,7 @@ We provide this privacy policy as a statement to you of our commitment to protec
 **Updates and Effective Date**  
 Calendarpedia.com may occasionally change or update this Privacy Policy. Any changes will be noted on this page. We therefore advise that you check this page periodically to ensure that you accept any changes or updates.
 
-This Privacy Policy was last updated in February 2015.
+This Privacy Policy was last updated in October 2015.
 
 **Agreeing to this Privacy Policy**  
 If you do not agree to Calendarpedia.com's Privacy Policy as set out on this page, please do not use this site or any services offered by this site.
