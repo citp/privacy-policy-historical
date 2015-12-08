@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the graysoutlet.com.au privacy policy that was archived on 2015-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150619042346id_/http%3A//www.oo.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the graysoutlet.com.au privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208054821id_/http%3A//www.oo.com.au/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
-
-[](https://privacy.truste.com/privacy-seal/OO-AUSTRALASIA-PTY-LTD/validation?rid=ca1fb80f-decc-4427-a47e-67102252cef8 "TRUSTe online privacy certification")
 
 **Effective Date of this policy: 12/04/2014**
 
@@ -19,8 +17,6 @@ In this privacy policy
 (ii)        whether the information or opinion is recorded in a material form or not.
 
 (c)           Other terms that have the initial letter capitalised have the same meaning as used in the OO user terms and conditions.
-
-oo.com.au ("OO") has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information.  TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. This privacy statement covers the business conducted by oo.com.au.
 
 **OO's Commitment to Your Privacy**
 
@@ -94,7 +90,7 @@ We will retain your personal information for as long as needed to provide you se
 
 We will make available to you a copy of our Privacy Policy free of charge and in the most appropriate form.  If you require a copy of the amended Grays Privacy Policy, other than as provided on our website, please contact us at  customerservice@oo.com.au.  We will use our reasonable efforts to provide you with a copy of the OO Privacy Policy in the form requested by you.
 
-If you have questions or concerns regarding this statement, you should first contact our Customer Service Manager (customerservice@oo.com.au). If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint) or the Office of the Australian Information Commissioner  or the New Zealand Privacy Commissioner's Office. as applicable (for details see the "Complaints" section at the end of this statement).
+If you have questions or concerns regarding this statement, you should first contact our Customer Service Manager (customerservice@oo.com.au). If you are not satisfied with our response you can contact the Office of the Australian Information Commissioner  or the New Zealand Privacy Commissioner's Office. as applicable (for details see the "Complaints" section at the end of this statement).
 
 **Contact By Phone:**
 
@@ -108,11 +104,11 @@ oo.com.au, Customer Service, 29-33 Carter St, Lidcombe, NSW 2141, Australia
 
 Naturally, it is in our interest to protect your privacy in order that we develop a long and trusted relationship with you and so, if at any time you are unhappy with the manner in which we handle your personal information and you wish to make a complaint, you may contact us in writing at:
 
-oo.com.au  
-Customer Service  
-29-33 Carter St  
-Lidcombe NSW 2141  
-Australia  
+oo.com.au   
+Customer Service   
+29-33 Carter St   
+Lidcombe NSW 2141   
+Australia   
 Email: customerservice@oo.com.au
 
 We will do our best to resolve your complaint as quickly as possible. If you are not satisfied with our response to your complaint, you can refer the matter to the relevant privacy regulator.  More information about each regulator, the complaints process and how to lodge a complaint is available here  <http://www.oaic.gov.au/privacy/privacy-complaints>  (Australia) or [http://privacy.org.nz/your-privacy/introduction-to-complaints/](http://privacy.org.nz/your-privacy/introduction-to-complaints) (New Zealand).
@@ -154,6 +150,6 @@ We reserve the right to modify this privacy statement at any time. These amendme
 
 **oo.com.au**
 
-29-33 Carter St  
-Lidcombe NSW 2141  
+29-33 Carter St   
+Lidcombe NSW 2141   
 Australia 
