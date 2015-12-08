@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the itcentralstation.com privacy policy that was archived on 2015-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150504002520id_/http%3A//www.itcentralstation.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the itcentralstation.com privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208014441id_/http%3A//www.itcentralstation.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | IT Central Station
 
 **IT Central Station Privacy Policy**
 
-This Privacy Policy was last updated on November 27, 2013.
+This Privacy Policy was last updated on August 15, 2015.
 
-IT Central Station Ltd. (“IT Central Station”, “we”, or “us”) takes the privacy and protection of personal information very seriously. By visiting the Site, registering as a Member, or using the Services, you acknowledge and accept the practices and policies outlined in this privacy policy (“Privacy Policy”). Unless otherwise defined herein, capitalized terms shall have the meanings assigned to such terms in the IT Central Station Terms of Use, which can be found [here](https://web.archive.org/web/20150504002520id_/http%3A//www.itcentralstation.com/tos) and which incorporate this Privacy Policy by reference. This Privacy Policy describes IT Central Station's practices with respect to Personal Information that we collect when you use the Services. 
+IT Central Station Ltd. (“IT Central Station”, “we”, or “us”) takes the privacy and protection of personal information very seriously. By visiting the Site, registering as a Member, or using the Services, you acknowledge and accept the practices and policies outlined in this privacy policy (“Privacy Policy”). Unless otherwise defined herein, capitalized terms shall have the meanings assigned to such terms in the IT Central Station Terms of Use, which can be found [here](https://web.archive.org/web/20151208014441id_/http%3A//www.itcentralstation.com/tos) and which incorporate this Privacy Policy by reference. This Privacy Policy describes IT Central Station's practices with respect to Personal Information that we collect when you use the Services. 
 
 “Personal Information” is information that is personally identifiable such as names, addresses, e-mail addresses, or phone numbers, as well as other non-public information that is associated with the foregoing. We collect and use Personal Information as described in this Privacy Policy from the Users of our Services. 
 
@@ -18,7 +18,7 @@ YOUR PERSONAL INFORMATION MAY BE PROCESSED IN THE COUNTRY WHERE IT WAS COLLECTED
 
 We collect the following Personal Information that you submit to us voluntarily.
 
-Our Member registration process to create an Account requires you to provide us with your e-mail address, products used, projects, and password of your choice. After registering you can provide us with additional information about you employment and professional experience. If you register with our LinkedIn registration mechanism, we may collect the information as indicated in the LinkedIn authentication screen during the registration process. 
+Our Member registration process to create an Account requires you to provide us with your e-mail address, products used, projects, and other information. After registering you can provide us with additional information about your employment and professional experience. If you register with our LinkedIn registration mechanism, we may collect the information as indicated in the LinkedIn authentication screen during the registration process. 
 
 When you contribute posts and reviews, participate in our surveys (either directly, or through third party service providers), or provide any other Content to the Services through other means, we will collect all the information you provide. If you exchange messages with others through the Site, we may store these messages in order to deliver them and allow you to manage them. 
 
@@ -38,7 +38,7 @@ We may also use your Personal Information to provide you with notifications rela
 
 We use cookies and log file information to (a) collect or store personal information, (b) to provide custom, personalized content and information; (c) to monitor the use of our Site; (d) to monitor aggregate metrics such as total number of visitors; and (e) to track your use of our Site. 
 
-We may create anonymized information from Personal Information by excluding information that makes the information personally identifiable to you. We may use this anonymized information for internal purposes, such as analyzing usage patterns so that we may enhance the Services, and we also reserve the right to use and disclose such anonymized information at our discretion. 
+We may create anonymized information from Personal Information by excluding information that makes the information personally identifiable to you. We may share this anonymized information with third parties, and we may use this anonymized information for internal purposes, such as analyzing usage patterns so that we may enhance the Services, and we also reserve the right to use and disclose such anonymized information at our discretion. 
 
 If you choose to use our service to tell a friend about our site, we will ask you for your friend's email address. We will automatically send your friend a one-time email inviting him or her to visit the site. We store this information for the sole purpose of sending this one-time email and ensuring multiple invitations are not sent. Your friend may contact us at [info@itcentralstation.com](mailto:info@itcentralstation.com) to request that we remove this information from our database. 
 
@@ -80,7 +80,7 @@ The Services may contain links to other web sites that are not owned or controll
 
 **Ad Servers**
 
-In the future we may allow advertisers to place advertisements on the Site. Clicking on such advertisements will direct you to the website of a third party. The third-party ad server may use Cookies or web beacons in connection with these advertisements. This Privacy Policy does not cover the collection of information by these third-party ad servers through the use of Cookies, web beacons, or other means. For information about our advertising partners, please visit their websites through the links included in the presentation of the advertisements. 
+On certain pages we allow advertisers to place advertisements on the Site. Clicking on such advertisements will direct you to the website of a third party. The third-party ad server may use Cookies or web beacons in connection with these advertisements. This Privacy Policy does not cover the collection of information by these third-party ad servers through the use of Cookies, web beacons, or other means. For information about our advertising partners, please visit their websites through the links included in the presentation of the advertisements. 
 
 **Privacy of Minors**
 
@@ -90,7 +90,7 @@ We do not intentionally collect or maintain information in the Services from tho
 
 IT Central Station has put in place commercially reasonable and appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online. However, no company, including IT Central Station, can fully eliminate security risks associated with Personal Information. 
 
-**
+**Changes in This Privacy Statement**
 
 As part of the IT Central Station Terms of Use, this Privacy Policy is subject to occasional amendment, in accordance with the terms of the IT Central Station Terms of Use. 
 
@@ -107,4 +107,4 @@ IT Central Station
 New York, N.Y. 10001  
 USA  
 (646) 328-1944  
-**
+
