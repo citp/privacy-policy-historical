@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gaydar.com.au privacy policy that was archived on 2014-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140814053239id_/http%3A//www.gaydar.net/info/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gaydar.com.au privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208060201id_/http%3A//www.gaydar.net/info/privacy.asp) for the most accurate reproduction.*
 
 # Gaydar - What you want, when you want it
 
@@ -64,7 +64,7 @@ This Privacy Policy is incorporated in and subject to the Site [Terms and Condit
     * 9.1 This Site is accessible via the internet and therefore may potentially be accessed by anyone around the world. Other Members may also be or access the Site from outside the European Economic Area. This means that, where You post Your Data on the Site, this could be accessed from anywhere around the world and therefore a transfer of Your Data outside of the European Economic Area may be deemed to have occurred. You consent to such transfer of Your Data for and by way of this purpose.
   * 10\. Contact Us
 
-    * 10.1 If You have any comments or queries in connection with Our privacy policy, please contact Us by email at [privacypolicy@cpcconnect.co.uk](mailto:privacypolicy@cpcconnect.co.uk), or write to Us at CPC Connect Ltd, PO Box 113, Twickenham, TW1 4WY, stating Your Profile name, the Site to which You are registered and/or to which Your complaint relates.
+    * 10.1 If You have any comments or queries in connection with Our privacy policy, please contact Us by email at [privacypolicy@cpcconnect.co.uk](mailto:privacypolicy@cpcconnect.co.uk), or write to Us at CPC Connect Ltd, PO Box 71067, London, SE1P 5FH, stating Your Profile name, the Site to which You are registered and/or to which Your complaint relates.
 
 
 
