@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the survio.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608015512id_/http%3A//www.survio.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the survio.com privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208142949id_/http%3A//www.survio.com/en/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Survio.com
 
