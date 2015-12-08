@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jackwills.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627163315id_/http%3A//www.jackwills.com/en-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jackwills.com privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208204217id_/http%3A//www.jackwills.com/privacy%2Bpolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Jack Wills
 
@@ -20,14 +20,19 @@ At all times, we will offer you the opportunity to opt-out of any service to whi
 
 Should you choose to have your name and personal data removed from our database all together, you can do so by sending an email to **[jack@jackwills.com](mailto:jack@jackwills.com)[](mailto:customerservices@jackwills.com)** or by writing to us at:
 
-Jack Wills (handbook opt out):  
-Unit 4, Ockham Drive, Greenford Park, Greenford, Middlesex, UB6 0FD
+  * Jack Wills (handbook opt out):
+  * Unit 4 Greenford Park
+  * Ockham Drive
+  * Greenford
+  * UB6 0FD
+
+
 
 ## SECURITY
 
-Jack Wills Limited utilises the latest Secure Server Software (SSL) to ensure that all personal information, including credit card details, remains private and secure. Jack Wills Limited will not rent or sell your e-mail address or personal details for any reason. We treat customer confidentiality with the highest priority.
+Jack Wills Limited utilises the latest Secure Server Software to ensure that all personal information, including credit card details, remains private and secure. Jack Wills Limited will not rent or sell your e-mail address or personal details for any reason. We treat customer confidentiality with the highest priority.
 
-By registering your information with us, you consent to Jack Wills Limited sending correspondence regarding the website and our stores to the e-mail address that you have registered. If you have registered to receive email newsletters from us, you can remove your email address from our list at any time by using the links in the emails we send you to log onto your account to change your preferences. Alternatively, you may e-mail **[jack@jackwills.com](mailto:jack@jackwills.com)**  to request removal. Please include your e-mail address along with your full name and we will remove you from our mailing list. Please allow 7 working days for the full removal process to take place.Jack Wills Limited complies with the standards, procedures and requirements detailed in the Data Protection Act.
+By registering your information with us, you consent to Jack Wills Limited sending correspondence regarding the website and our stores to the e-mail address that you have registered. If you have registered to receive email newsletters from us, you can remove your email address from our list at any time by using the links in the emails we send you to log onto your account to change your preferences. Alternatively, you may e-mail **[jack@jackwills.com](mailto:jack@jackwills.com)** to request removal. Please include your e-mail address along with your full name and we will remove you from our mailing list. Please allow 7 working days for the full removal process to take place. Jack Wills Limited complies with the standards, procedures and requirements detailed in the Data Protection Act.
 
 ## How we use cookies
 
@@ -37,7 +42,7 @@ We collect personal information from you every time you email or text us, use th
 
 ## Safeguarding your personally identifiable information
 
-We will only collect personally identifiable information to the extent deemed reasonably necessary to serve you in view of our legitimate business purposes as set out above, and we will use our best endeavours to maintain appropriate safeguards to ensure the security, integrity and privacy of the information you have provided us with. When you place an order or access your account information, we use a Secure Socket Layer (SSL) encryption which encrypts your information before it is sent to us to protect it from unauthorised use. In addition, we will take reasonable steps to ensure that third party business partners' to whom we transfer any data will provide sufficient protection of that personal information.
+We will only collect personally identifiable information to the extent deemed reasonably necessary to serve you in view of our legitimate business purposes as set out above, and we will use our best endeavours to maintain appropriate safeguards to ensure the security, integrity and privacy of the information you have provided us with. When you place an order or access your account information, we encrypt your information before it is sent to us to protect it from unauthorised use. In addition, we will take reasonable steps to ensure that third party business partners' to whom we transfer any data will provide sufficient protection of that personal information.
 
 ## Your consent
 
