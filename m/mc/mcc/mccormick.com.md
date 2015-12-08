@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mccormick.com privacy policy that was archived on 2015-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150506222535id_/http%3A//mccormick.com/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mccormick.com privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208133914id_/http%3A//www.mccormick.com/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy | McCormick
 
@@ -73,7 +73,7 @@ Consumer Products Division
 McCormick & Co., Inc.  
 211 Schilling Circle  
 Hunt Valley, MD 21031**  
-or send us an e-mail.
+or send us an [email](mailto:consumer_affairs@mccormick.com).
 
 For questions or comments regarding the McCormickCorporation.com website, please contact us at the following address: 
 
@@ -81,4 +81,4 @@ For questions or comments regarding the McCormickCorporation.com website, please
 McCormick & Company, Inc.  
 18 Loveton Circle  
 Sparks, MD 21152  
-**or send us an e-mail. 
+**or send us an [email](mailto:notices@mccormick.com). 
