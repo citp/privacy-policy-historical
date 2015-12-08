@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blogtemplate4u.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609014609id_/http%3A//blogtemplate4u.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blogtemplate4u.com privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208110708id_/http%3A//blogtemplate4u.com/privacy-policy) for the most accurate reproduction.*
 
 # Blogtemplate4U Privacy Policy » BlogTemplate4u.com
 
@@ -23,3 +23,7 @@ These third-party ad servers or ad networks use technology to the advertisements
 ### Contact Us
 
 **Email :** info@blogtemplate4u.com
+
+####  [Best WordPress Hosting Providers 2015](http://blogtemplate4u.com/best-wordpress-hosting/)
+
+Here is the list of best WordPress hosting providers for 2015. Get EXCLUSIVE discount code to purchase your first WordPress hosting - for BlogTemplate4U readers only. 
