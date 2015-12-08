@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jobs.com.sg privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610013014id_/http%3A//www.jobs.com.sg/cms/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobs.com.sg privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208112941id_/http%3A//www.jobs.com.sg/cms/privacy) for the most accurate reproduction.*
 
 # Jobs.com.sg
 
