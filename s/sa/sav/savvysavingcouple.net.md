@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the savvysavingcouple.net privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610045650id_/http%3A//savvysavingcouple.net/contact-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the savvysavingcouple.net privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208141519id_/http%3A//www.savvysavingcouple.net/contact-us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Savvy Saving Couple
 
