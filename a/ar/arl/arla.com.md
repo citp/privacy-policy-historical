@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the arla.com privacy policy that was archived on 2015-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150619014359id_/http%3A//www.arla.com/legal-information/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arla.com privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208054115id_/http%3A//www.arla.com/legal-information/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Arla
 
 Arla Foods knows that you care how information about you is used and shared and it is careful to ensure that any such information that comes into its possession is properly looked after.
 
