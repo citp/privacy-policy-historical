@@ -1,11 +1,10 @@
-<!--The following is the downloaded HTML source of the bchydro.com privacy policy that was archived on 2015-06-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150627162229id_/http%3A//www.bchydro.com/siteinfo/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bchydro.com privacy policy that was archived on 2015-12-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151208215219id_/http%3A//bchydro.com/siteinfo/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html><head>
     <meta http-equiv="content-type" content="text/html; charset=UTF-8">
     <!-- Always force latest IE rendering engine (even in intranet) & Chrome Frame
 		Remove this if you use the .htaccess -->
-    
 	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     <meta http-equiv="keywords" content="">
     <meta http-equiv="description" content="">
@@ -15,23 +14,23 @@
 
     
 
-<link href="/etc/designs/hydro/static.css" rel="stylesheet" type="text/css">
+<link href="/etc/designs/hydro/static.css?v=2" rel="stylesheet" type="text/css">
 
 
-    <link href="/etc/designs/hydro/videojs/video-js.min.css" rel="stylesheet">
+    <link href="/etc/designs/hydro/videojs/video-js.min.css?v=2" rel="stylesheet">
     <script src="/etc/designs/hydro/videojs/video.min.js"></script>
 
 <!--[if lt IE 9]><script src="/etc/designs/hydro/clientlibs/global/js/html5.js"></script><![endif]-->
 
-<script type="text/javascript" src="/etc/designs/hydro/clientlibs/global.js"></script>
+<script type="text/javascript" src="/etc/designs/hydro/clientlibs/global.min.js"></script>
 
-<link rel="stylesheet" href="/etc/designs/hydro/clientlibs/global.css" type="text/css">
-
-
+<link rel="stylesheet" href="/etc/designs/hydro/clientlibs/global.min.css" type="text/css">
 
 
-<link type="text/css" rel="stylesheet" href="/etc/designs/BCHydro/CSS/BCHHeader.css">
-<link type="text/css" rel="stylesheet" href="/etc/designs/BCHydro/CSS/BCH-Footer.css">
+
+
+<link type="text/css" rel="stylesheet" href="/etc/designs/BCHydro/clientlibs/BCHHeader.css?v=2">
+<link type="text/css" rel="stylesheet" href="/etc/designs/BCHydro/clientlibs/BCH-Footer.css?v=2">
 
 
 
@@ -78,12 +77,31 @@
 
 
 
+
 <header id="bchheader" class="masthead top-level-only">
-    <div id="bchh-header-container">
+
+    
+    
+
+<div id="bchh-utility_nav" class="bchh-utilmenu">
+                <ul class="bchh-utilmenu"><li>
+                    <a href="/about.html" class="bchh-item">About BC Hydro</a>
+                </li><li>
+                    <a href="/careers.html" class="bchh-item">Careers</a>
+                </li><li>
+                    <a href="/newsletters.html" class="bchh-item">Newsletters</a>
+                </li><li>
+                    <a href="/contact.html" class="bchh-item">Contact Us</a>
+                </li></ul></div>
+    <!-- end #bchh-utility_nav -->
+
+    <div id="bchh-header-container">        
         <a id="bchh-bchydro-logo" class="ir" href="/">BC Hydro Regeneration | 50</a><!-- end #bchh-bchydro-logo -->
+
         <div id="bchh-hello" style="display:none">
+
             <div id="bchh-loginblock-in">
-                <span id="bchh-welcome">Hi UserFirst</span>
+                <span id="bchh-welcome">Hi</span>
                 <ul id="bchh-my-profile" class="bchh-utilmenu">
                     <li class="bchh-sub"><a href="https://www.bchydro.com/BCHCustomerPortal/web/viewProfile.html" class="bchh-profile bchh-item"><span class="bchh-icon bchh-i-profile"></span>My Profile<span class="bchh-icon bchh-i-arrow"></span></a>
                         <div class="bchh-utilsubmenu">
@@ -98,60 +116,35 @@
                 <button id="btnLogout" class="secondary" onclick="location.href='https://www.bchydro.com/BCHCustomerPortal/web/logout.html'">Log out</button>
             </div>
 
+            <div id="bchh-loginblock-out">
+                <a href="https://www.bchydro.com/BCHCustomerPortal/createProfile.html">Sign Up</a>
+                <button id="btnLogin" class="primary" onclick="location.href='https://www.bchydro.com/BCHCustomerPortal/web/login.html'">Log in</button> 
+            </div>
 
-            <!-- @ amit to flip the order of buttons on top header same as prod Dec, 2012-->
-                    <div id="bchh-loginblock-out">
-                      <button id="btnLogin" class="primary" onclick="location.href='https://www.bchydro.com/BCHCustomerPortal/web/login.html'">Log in</button>&nbsp;&nbsp;or&nbsp;&nbsp;<button id="btnCreate" class="secondary" onclick="location.href='https://www.bchydro.com/BCHCustomerPortal/createProfile.html'">Create a MyHydro Profile</button>
-                    </div>
-            <!-- end #bchh-loginblock -->
+            <form id="headerSearch" name="seek1" action="/search.html" method="get">
+            	<fieldset>
+                	<input type="hidden" value="bchydro-com" name="site">
+                    <input type="hidden" value="bchydro-com" name="client">
+                    <input type="hidden" value="bchydro-com" name="proxystylesheet">
+                    <input type="hidden" value="xml_no_dtd" name="output">
+                    <label for="search">Search</label>
+                    <i class="fa fa-search"></i>
+                    <input type="text" value="" name="q" maxlength="100" id="search" placeholder="How can we help?">
+                </fieldset>
+            </form> 
 
-            
-            <input type="hidden" value="false" id="sessionLoggedIn">
-                    
-            
-            <div id="bchh-searchblock">
-                <form id="headerSearch" name="seek1" action="/search.html" method="get">
-                    <fieldset>
-                        <input type="hidden" value="bchydro-com" name="site">
-                        <input type="hidden" value="bchydro-com" name="client">
-                        <input type="hidden" value="bchydro-com" name="proxystylesheet">
-                        <input type="hidden" value="xml_no_dtd" name="output">
-                        <label for="search">Search</label>
-                        <input type="text" value="" name="q" maxlength="100" id="search" placeholder="Ask a question">
-                        <a href="javascript:submitWSMForm('headerSearch')" class="searchButton"> </a>
-                    </fieldset>
-                </form>
-            </div><!-- end #bchh-searchblock -->
         </div><!-- end #bchh-hello -->
-       
-       
-
-<div id="bchh-utility_nav" class="bchh-utilmenu">
-                <ul class="bchh-utilmenu"><li>
-                    <a href="/about.html" class="bchh-item">About BC Hydro</a>
-                </li><li>
-                    <a href="/careers.html" class="bchh-item">Careers</a>
-                </li><li>
-                    <a href="/newsletters.html" class="bchh-item">Newsletters</a>
-                </li><li>
-                    <a href="/contact.html" class="bchh-item">Contact Us</a>
-                </li></ul></div>
-
-  
-  
-        <!-- end #bchh-utility_nav -->
     </div><!-- end #bchh-header-container -->
     
 
 
 
   <div id="bchh-main_nav" class="bchh-subs">
-    <ul id="bchh-nav"><li><a href="/accounts-billing.html">Accounts &amp; Billing</a></li><li><a href="/powersmart.html">Power Smart</a></li><li><a href="/energy-in-bc.html">Energy in B.C.</a></li><li><a href="/news.html">News, Events &amp; Media</a></li><li><a href="/community.html">In Your Community</a></li><li><a href="/safety-outages.html">Safety &amp; Outages</a></li>
+    <ul id="bchh-nav"><li><a href="/accounts-billing.html">Accounts &amp; Billing</a></li><li><a href="/powersmart.html">Energy Savings</a></li><li><a href="/news.html">News, Events &amp; Media</a></li><li><a href="/energy-in-bc.html">Energy in B.C.</a></li><li><a href="/community.html">Community</a></li><li><a href="/safety-outages.html">Safety &amp; Outages</a></li>
     </ul>
   </div> 
 
 </header>
-
 
 </div>
 
@@ -163,15 +156,14 @@
 
     
 
-<div class="breadcrumb"><a href="/index.html">Home</a>&nbsp;›&nbsp;<a href="/siteinfo.html">Site Tools</a>&nbsp;›&nbsp;Privacy Statement</div>
-
-
-
-
-
 <!-- main content -->
 <div id="main-content">
     <!-- main section -->
+    <div class="breadcrumb"><a href="/index.html">Home</a>&nbsp;›&nbsp;<a href="/siteinfo.html">Site Tools</a>&nbsp;›&nbsp;Privacy Statement</div>
+
+	
+
+
     <article class="column content">
         <div class="content-inner">
             <div class="title"><h1 class="page-title">Privacy Statement</h1>
@@ -239,8 +231,7 @@
                 <a class="tertiary_nav_handle" href="/siteinfo/privacy.html">Privacy Statement</a>          </li>          <li>
                 <a class="tertiary_nav_handle" href="/siteinfo/legal.html">Legal</a>          </li>          <li>
                 <a class="tertiary_nav_handle" href="/siteinfo/browsers.html">Browsers</a>          </li>          <li>
-                <a class="tertiary_nav_handle" href="/siteinfo/mobile_features.html">Mobile Features</a>          </li>          <li>
-                <a class="tertiary_nav_handle" href="/siteinfo/standards.html">Brand Standards</a>          </li>
+                <a class="tertiary_nav_handle" href="/siteinfo/mobile_features.html">Mobile Features</a>          </li>
     </ul>
 </nav></div>
 
@@ -251,129 +242,78 @@
 </div>
 <!-- end main content -->
 
-    
-        
-        
-            <div class="footer">
-
-
-
-<!-- Request URL: http://www.bchydro.com/content/BCHydro/en/siteinfo/privacy.devicedetection.html -->
-
-
-
+ 	<div class="footer">
 
 <!-- The Footer -->
-<footer id="bch_footer" class="bch_footer">
+<footer id="footer" class="footer">
+    <div class="footer-links">
+        <div class="footer-links-box">
+            <div class="footer-links-icon icon-billing"></div>
+            <div class="footer-links-content">
+                <div class="text parbase"><section class="rte"><h4>Need help with your bill?</h4>
+<p>Get answers to questions about paying your bill, rates, moving your account and more.</p>
+</section>
+</div>
 
-<div style="display: none;"><video id="video-modal-html5" width="660" height="375" class="video-js vjs-default-skin" controls="" preload="auto"></video></div>
-<script type="text/x-jquery-tmpl" id="tpl-youtube-modal-player">
-    //<![CDATA[
-<object width="660" height="375">
-    <param name="wmode" value="opaque"></param>
-  <param name="movie"
-         value="https://www.youtube.com/v/${videoId}?version=3&autoplay=${autoplay}&rel=0"></param>
-  <param name="allowScriptAccess" value="always"></param>
-  <embed src="https://www.youtube.com/v/${videoId}?version=3&autoplay=${autoplay}&rel=0"
-         type="application/x-shockwave-flash"
-         allowscriptaccess="always"
-         wmode="opaque"
-         width="660" height="375"></embed>
-</object>
-    //]]>
-</script>
+                <div class="bch-button"><a class="button secondary inverse" href="/accounts-billing/get-help.html">Get help</a></div>
 
-<script type="text/x-jquery-tmpl" id="tpl-youtube-multi-player">
-    //<![CDATA[
-<object width="515" height="290">
-    <param name="wmode" value="opaque"></param>
-  <param name="movie"
-         value="https://www.youtube.com/v/${videoId}?version=3&autoplay=${autoplay}&rel=0"></param>
-  <param name="allowScriptAccess" value="always"></param>
-  <embed src="https://www.youtube.com/v/${videoId}?version=3&autoplay=${autoplay}&rel=0"
-         type="application/x-shockwave-flash"
-         allowscriptaccess="always"
-         wmode="opaque"
-         width="515" height="290"></embed>
-</object>
-    //]]>
-</script>
-
-    <div class="row">
-        
-        
-
-<nav class="bch_info">
-                <ul class="tabs"><li>
-                    <a href="/about.html" class="bchh-item">About BC Hydro</a>
-                </li><li>
-                    <a href="/careers.html" class="bchh-item">Careers</a>
-                </li><li>
-                    <a href="/newsletters.html" class="bchh-item">Newsletters</a>
-                </li><li>
-                    <a href="/contact.html" class="bchh-item">Contact Us</a>
-                </li></ul></nav>
-
-  
-  
-        <div class="profile-status">
-          <div id="bchf-hello" style="display:none">
-            <div id="bchf-loginblock-in">
-              <button class="tertiary" onclick="location.href='https://www.bchydro.com/BCHCustomerPortal/web/viewProfile.html'">
-                <img src="/content/dam/BCHydro/images/icons/profile-head-blue-small.png" alt="profile icon"> My Profile
-              </button>
-              <button id="btnLogout" class="secondary" onclick="location.href='https://www.bchydro.com/BCHCustomerPortal/web/logout.html'">Log out</button>
             </div>
-            <div id="bchf-loginblock-out">
-              <button id="btnLogin" class="primary" onclick="location.href='https://www.bchydro.com/BCHCustomerPortal/web/login.html'">Log in</button>
+        </div>        
+        <div class="footer-links-box">            
+            <div class="footer-links-icon icon-bug"></div>
+			<div class="footer-links-content">
+                <div class="text parbase"><section class="rte"><h4>Working with BC Hydro</h4>
+<p>We rely on a variety of suppliers, contractors &amp; consultants. And we offer rewarding careers, too.<br>
+</p>
+</section>
+</div>
+
+                <div class="bch-button"><a class="button secondary inverse" href="/careers.html">Learn more</a></div>
+
+            </div>           
+        </div>
+        <div class="footer-links-box">
+            <div class="footer-links-icon icon-contact-us"></div>
+            <div class="footer-links-content">
+                <div class="text parbase"><section class="rte"><h4>Get in touch with us</h4>
+<p>Call us to report a power outage in your area or to get information you couldn't find online.</p>
+</section>
+</div>
+
+                <div class="bch-button"><a class="button secondary inverse" href="/contact.html">Contact us</a></div>
+
             </div>
-          </div>
         </div>
     </div>
+    <div id="footer-social-copyright">
+        <div id="footer-social">
+            <div class="rawHtml social">
+<a href="http://www.facebook.com/bchydro" title="Facebook" target="_blank" class="fa-stack fa-lg"><i class="fa fa-circle fa-stack-2x icon-social"></i><i class="fa fa-facebook fa-stack-1x fa-inverse"></i></a>
 
-    <div class="row">
-        <nav class="primaryFooterNav">
-            <ul class="tabs"><li><a href="/accounts-billing.html">Accounts &amp; Billing</a></li><li><a href="/powersmart.html">Power Smart</a></li><li><a href="/energy-in-bc.html">Energy in B.C.</a></li><li><a href="/news.html">News, Events &amp; Media</a></li><li><a href="/community.html">In Your Community</a></li><li><a href="/safety-outages.html">Safety &amp; Outages</a></li>
-            </ul>
-        </nav>
-    </div>
-    
-<div class="row terms">
-    
-    <!--  small class="copyright">Copyright &copy; --><!-- =c.get(Calendar.YEAR)%--> <!-- BC Hydro. All Rights Reserved</small-->
-    <button id="" class="secondary fullsite" href="/siteinfo/privacy.html?fixZoomMobile=true">View Mobile Site</button>
-    <small class="copyright">Copyright © 2015 BC Hydro. All Rights Reserved </small>
-    <ul>
-        
-        <li><a href="/siteinfo/legal.html">Legal</a></li>
-        
-        
-        <li><a href="/siteinfo/privacy.html">Privacy Statement</a></li>
-        
-        
-        <li><a href="/siteinfo/site_index.html">Site Index</a></li>
-    </ul>
-    
+<a href="http://www.twitter.com/bchydro" title="Twitter" target="_blank" class="fa-stack fa-lg"><i class="fa fa-circle fa-stack-2x icon-social"></i><i class="fa fa-twitter fa-stack-1x fa-inverse"></i></a>
 
+<a href="https://instagram.com/bchydro/?hl=en" title="Instagram" target="_blank" class="fa-stack fa-lg"><i class="fa fa-circle fa-stack-2x icon-social"></i><i class="fa fa-instagram fa-stack-1x fa-inverse"></i></a>
+
+<a href="http://www.youtube.com/bchydro" title="YouTube" target="_blank" class="fa-stack fa-lg"><i class="fa fa-circle fa-stack-2x icon-social"></i><i class="fa fa-youtube-play fa-stack-1x fa-inverse"></i></a>
 </div>
+
+        </div>
+        <div id="footer-copyright">
+        	<div class="rawHtml copyright">
+Copyright © 2015 BC Hydro. All Rights Reserved  | <a href="/siteinfo/legal.html">Legal</a> &amp; <a href="/siteinfo/privacy.html">Privacy Statements</a>
+</div>
+
+            <a class="view-mobile fullsite" href="/index.html?fixZoomMobile=true">View Mobile Site</a>
+        </div>
+    </div>
 </footer>
-<br clear="all">
 <!-- END Footer -->
 
-<script src="/etc/designs/BCHydro/Javascript/masonry.js"></script>
-
-
-
-<!-- START OF SmartSource Data Collector TAG -->
-<!-- Copyright (c) 1996-2012 Webtrends Inc.  All rights reserved. -->
-<!-- Version: 9.4.0 -->
-<!-- Tag Builder Version: 4.1  -->
-<!-- Created: 11/30/2012 6:33:43 PM -->
 <script src="/etc/designs/hydro/clientlibs/global/js/webtrends.js" type="text/javascript"></script>
-<!-- ----------------------------------------------------------------------------------- -->
-<!-- Warning: The two script blocks below must remain inline. Moving them to an external -->
-<!-- JavaScript include file can cause serious problems with cross-domain tracking.      -->
-<!-- ----------------------------------------------------------------------------------- -->
+
+
+
+
 <script type="text/javascript">
 //<![CDATA[
 var _tag=new WebTrends();
@@ -391,15 +331,9 @@ _tag.dcsCollect();
 </script>
 <noscript>
 <div><img alt="DCSIMG" id="DCSIMG" width="1" height="1" src="//www8.bchydro.com/dcs4zxlja10000sxcmlgunoe0_6k3y/njs.gif?dcsuri=/nojavascript&amp;WT.js=No&amp;WT.tv=9.4.0&amp;dcssip=www.bchydro.com"/></div>
-</noscript>
-<!-- END OF SmartSource Data Collector TAG -->
-    <script>
-    $.cookie('BCHydroMobile', '-1');
-    </script></div>
-
+</noscript></div>
 
         
-    
 
     </div><!-- END Container -->
 
@@ -414,7 +348,7 @@ _tag.dcsCollect();
 <!--
 More detailed timing info is available by uncommenting some code in the timing.jsp component
 Timing chart URL:
-http://chart.apis.google.com/chart?chtt=privacy.devicedetection.html+%2875ms%29&cht=bhs&chxt=x&chco=c6d9fd,4d89f9&chbh=a&chds=0,75,0,75&chxr=0,0,75&chd=t:49,50,52,52,52,53,54,56,58,62,63,63,64,64,65,65,67,67,69,69,74,75|1,3,0,0,1,0,8,2,4,6,0,1,0,0,2,2,1,1,2,6,0,0&chly=accounts_billing_redir...|head.jsp|cacheableResponses.jsp|init.jsp|headlibs.jsp|body_head.jsp|header.jsp|utilitynav.jsp|topNav.jsp|body_main.jsp|breadcrumb.jsp|accountWidgets.jsp|title.jsp|parsys.jsp|text.jsp|parsys.jsp|tertiaryNav.jsp|parsys.jsp|utilitynav.jsp|footer.jsp|footer_copyright_terms...|body_end.jsp&chs=600x500
+http://chart.apis.google.com/chart?chtt=privacy.devicedetection.html+%2831ms%29&cht=bhs&chxt=x&chco=c6d9fd,4d89f9&chbh=a&chds=0,31,0,31&chxr=0,0,31&chd=t:5,5,7,7,8,9,11,14,19,20,21,21,22,22,22,24,24,27,27,28,29,29,30,30,31,31,31|0,3,0,0,0,10,3,5,7,1,0,1,0,2,2,2,2,1,4,0,0,0,0,0,0,0,0&chly=accounts_billing_redir...|head.jsp|init.jsp|headlibs.jsp|body_head.jsp|header.jsp|utilityNav.jsp|topNav.jsp|body_main.jsp|breadcrumb.jsp|accountWidgets.jsp|title.jsp|parsys.jsp|text.jsp|parsys.jsp|tertiaryNav.jsp|parsys.jsp|text.jsp|footer.jsp|button.jsp|text.jsp|button.jsp|text.jsp|button.jsp|rawHtml.jsp|rawHtml.jsp|body_end.jsp&chs=600x500
 -->
 
 
