@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pricelessarabia.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628215204id_/http%3A//www.pricelessarabia.com/content/priceless/arabia/en/cities/arabia/toolbar/global-footer/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pricelessarabia.com privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208121023id_/http%3A//www.pricelessarabia.com/content/priceless/arabia/en/cities/arabia/toolbar/global-footer/privacy.html) for the most accurate reproduction.*
 
 # MasterCard Priceless Arabia | Global Privacy Policy
 
