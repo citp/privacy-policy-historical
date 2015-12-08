@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the everydaydishes.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609235821id_/http%3A//everydaydishes.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the everydaydishes.com privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208210355id_/http%3A//everydaydishes.com/privacy) for the most accurate reproduction.*
 
-# privacy policy – Everyday Dishes & DIY
+# privacy policy – Everyday Dishes
 
 We are part of “Everyday Dishes & DIY, LLC.” Brands, which include Everyday Dishes & DIY, everydaydishes.com, and Live the Moment. Everyday Dishes & DIY, LLC. Brands are committed to respecting your privacy and recognizing your need for appropriate protection and management of contact information you share with us (the phrase “contact information” means any information by which you can be contacted, such as your name, mailing address, email address, telephone number, etc.). The purpose of this Privacy Policy is to inform you what information we may collect from you, how we use such information, and the choices you have regarding our use of, and your ability to review, correct and opt out of our use of, the information. By using any of our web sites or sharing your contact information with us, you are accepting the practices described in this Privacy Policy.
 
