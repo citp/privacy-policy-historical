@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the abbyy.com privacy policy that was archived on 2015-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150603123359id_/http%3A//www.abbyy.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abbyy.com privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208230704id_/http%3A//www.abbyy.com/privacy) for the most accurate reproduction.*
 
 # Privacy
 
@@ -22,7 +22,7 @@ ABBYY is committed to maintaining your privacy. This Privacy Notice (“Privacy 
 
 We have structured our Website so that you may visit our Site without revealing your identity or providing any Personally Identifiable Information. Please read this Privacy Notice carefully. Providing your Personally Identifiable Information to us through the Services confirms your agreement to be bound by this Privacy Notice.
 
-2.1. **Receiving Electronic Communications from Us.** You can opt-out of receiving bulletins, updates, the ABBYY newsletter, or other marketing-related materials by clicking on the unsubscribe link here, [Unsubscribe](http://datasync.abbyyusa.com/unsubscribe), or on the bottom of each Marketing e-mail.
+2.1. **Receiving Electronic Communications from Us.** You can opt-out of receiving bulletins, updates, the ABBYY newsletter, or other marketing-related materials by clicking on the unsubscribe link here, [Unsubscribe](http://inside.abbyyusa.com/hs/manage-preferences/unsubscribe), or on the bottom of each Marketing e-mail.
 
 2.2. **Our Sharing of Your Personally Identifiable Information with Affiliates for Their Direct Marketing Purposes.** If you would prefer that we do not share your Personal Information on a going-forward basis with our Affiliates (as defined in Section 7.1 (ABBYY Affiliates)) for their direct marketing purposes, you may opt-out of this sharing by contacting the Privacy Officer as described in Section 16 (Contact Us). If you opt-out from this sharing, you will also automatically opt-out from receiving marketing communications from ABBYY.
 
