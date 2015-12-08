@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bluetoad.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607160144id_/http%3A//bluetoadpublishing.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bluetoad.com privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208070507id_/http%3A//bluetoadpublishing.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | BlueToad
 
@@ -8,11 +8,11 @@ It is important to BlueToad that our customers understand what information we ga
 
 Personally Identifiable Information is information that can be used to contact you or determine your specific identity. When other information is linked to this information, it also becomes Personally Identifiable Information.
 
-\- When you register for the BlueToad Service, we ask you for basic registration information, such as your name, address, email address, phone, fax, and other contact information.  
-\- When you place an order for or subscribe to a product through BlueToad Service, we collect billing information, such as your credit card number, expiration date, and billing address.  
-\- We may ask you for voluntary personal information at other times, including but not limited to when you provide opinions, enter a contest or promotion, or report a problem with the BlueToad service.  
-\- When you submit a request for more information or assistance, BlueToad will keep a record of the request and the manner in which it was processed.  
-\- We may also automatically receive and record information in our server logs from your browser, including your IP address, your computer’s name, the type and version of your web browser, referrer addresses, and other generally-accepted log information. We may also record page views (hit counts) and other general statistical and tracking information.
+– When you register for the BlueToad Service, we ask you for basic registration information, such as your name, address, email address, phone, fax, and other contact information.  
+– When you place an order for or subscribe to a product through BlueToad Service, we collect billing information, such as your credit card number, expiration date, and billing address.  
+– We may ask you for voluntary personal information at other times, including but not limited to when you provide opinions, enter a contest or promotion, or report a problem with the BlueToad service.  
+– When you submit a request for more information or assistance, BlueToad will keep a record of the request and the manner in which it was processed.  
+– We may also automatically receive and record information in our server logs from your browser, including your IP address, your computer’s name, the type and version of your web browser, referrer addresses, and other generally-accepted log information. We may also record page views (hit counts) and other general statistical and tracking information.
 
 ## Limits on Information Collection
 
@@ -34,11 +34,11 @@ We may use third-party advertising companies to serve ads on our behalf. These c
 
 In general, we will not disclose your Personally Identifiable Information to unaffiliated third parties without your express consent. There may be circumstances where we may need to disclose Personally Identifiable Information about a user. These are:
 
-\- Employing other companies to perform functions on our behalf, such as fulfilling orders, providing customer service, sending mail, processing credit card payments, processing currency conversions, or other functions necessary to our business.  
-\- If publishers of the products available through the BlueToad service request additional Personally Identifying Information from us. The information practices of those publishers are covered by their own privacy policies.  
-\- If we believe that user is harming or interfering with other BlueToad users, anyone else, or violating our Subscription Agreement or the BlueToad Agreement, or infringing any of BlueToad legal rights.  
-\- If we are required by law to provide any of your Personally Identifiable Information we will, if permitted by law, attempt to notify you via the e-mail address you supplied during registration within a reasonable amount of time before we respond to the request.  
-\- In the event of a sale of all or most of the assets of the company, this information may be transferred to the purchaser.
+– Employing other companies to perform functions on our behalf, such as fulfilling orders, providing customer service, sending mail, processing credit card payments, processing currency conversions, or other functions necessary to our business.  
+– If publishers of the products available through the BlueToad service request additional Personally Identifying Information from us. The information practices of those publishers are covered by their own privacy policies.  
+– If we believe that user is harming or interfering with other BlueToad users, anyone else, or violating our Subscription Agreement or the BlueToad Agreement, or infringing any of BlueToad legal rights.  
+– If we are required by law to provide any of your Personally Identifiable Information we will, if permitted by law, attempt to notify you via the e-mail address you supplied during registration within a reasonable amount of time before we respond to the request.  
+– In the event of a sale of all or most of the assets of the company, this information may be transferred to the purchaser.
 
 ## Use and Disclosure of Anonymous Information
 
@@ -46,8 +46,8 @@ Anonymous Information is any information other than Personally Identifiable Info
 
 ## BlueToad may use this information:
 
-\- To improve the BlueToad website and service, to monitor traffic and general usage patterns, and for other general business purposes.  
-\- To inform publishers as to what content is appealing to their readers, to inform advertisers of the usage habits or characteristics of the interested audience, and to advise potential investors so that they may better understand BlueToad user base, etc.
+– To improve the BlueToad website and service, to monitor traffic and general usage patterns, and for other general business purposes.  
+– To inform publishers as to what content is appealing to their readers, to inform advertisers of the usage habits or characteristics of the interested audience, and to advise potential investors so that they may better understand BlueToad user base, etc.
 
 ## Changing or Removing Information
 
