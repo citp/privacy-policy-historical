@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nandos.com.au privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609060956id_/http%3A//www.nandos.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nandos.com.au privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208202317id_/http%3A//www.nandos.com.au/privacy) for the most accurate reproduction.*
 
 # Privacy policy | Nando’s Australia
 
