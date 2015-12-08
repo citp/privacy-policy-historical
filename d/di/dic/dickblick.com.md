@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dickblick.com privacy policy that was archived on 2015-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150622071843id_/http%3A//www.dickblick.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dickblick.com privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208074823id_/http%3A//www.dickblick.com/privacy) for the most accurate reproduction.*
 
 # Security and Privacy - BLICK art materials
 
@@ -21,7 +21,7 @@ Dick Blick's checkout process is protected with Secure Sockets Layer (SSL), the 
 
 We guarantee that every online transaction you make will be 100% safe. This means you pay nothing if unauthorized charges are made to your card as a result of shopping at our online store. Under the Fair Credit Billing Act, your bank cannot hold you liable for more than $50.00 of fraudulent charges. If your bank does hold you liable for any of this $50.00, we will cover the entire liability for you, up to the full $50.00. We will only cover this liability if the unauthorized use of your credit card resulted through no fault of your own from purchases made while using the secure server. In the event of unauthorized use of your credit card, you must notify your credit card provider in accordance with its reporting rules and procedures. 
 
-Dick Blick uses VeriSign, the industry leader, as it's security verification service. Transaction information is encrypted prior to transmission using the most powerful and secure encryption technology. In addition, our site ownership, operation, and identity is verified as authentic and valid. Click on the VeriSign Secured icon at the bottom of every page to verify and view Dick Blick's security certificate. 
+Dick Blick uses GoDaddy, the industry leader, as it's security verification service. Transaction information is encrypted prior to transmission using the most powerful and secure encryption technology. In addition, our site ownership, operation, and identity is verified as authentic and valid. Click on the GoDaddy Secured icon at the bottom of every page to verify and view Dick Blick's security certificate. 
 
 Only those web pages where you actually enter your credit card and billing information pass encrypted information. When you request one of these checkout screens, the page's URL begins with `https` instead of `http`, and the "security" icon on your browser has the appearance of a closed padlock. 
 
