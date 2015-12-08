@@ -1,19 +1,16 @@
-> *The following text is extracted and transformed from the manx.net privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607232324id_/http%3A//www.manxtelecom.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the manx.net privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208083744id_/http%3A//www.manxtelecom.com/privacy) for the most accurate reproduction.*
 
-# 
-
-To view Acrobat files you need have the Adobe Reader installed.  
-You can [Download Adobe Reader.](http://get.adobe.com/uk/reader/) from the Adobe website.
+# Privacy Policy - Manx Telecom Trading Ltd
 
 ## Privacy Policy
 
 ### 1\. Background
 
-This Privacy Policy together with our [Website Terms of Use](https://web.archive.org/terms-and-conditions/website-terms-of-use.aspx) set out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. We are committed to protecting and respecting your privacy.
+This Privacy Policy together with our [Website Terms of Use](http://www.manxtelecom.com/terms-and-conditions/website-terms-of-use.aspx) set out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. We are committed to protecting and respecting your privacy.
 
 Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
 
-For the purpose of the Data Protection Act 2002 (the **Act** ), the data controller is Manx Telecom Trading Limited that has its registered office at Isle of Man Business Park, Cooil Road, Braddan, Isle of Man IM99 1HX.
+For the purpose of the Data Protection Act 2002 (the  **Act** ), the data controller is Manx Telecom Trading Limited that has its registered office at Isle of Man Business Park, Cooil Road, Braddan, Isle of Man IM99 1HX.
 
 Any terms not defined in this Privacy Policy shall take the meaning provided in our Website Terms of Use.
 
@@ -78,7 +75,7 @@ A cookie is a small file of letters and numbers that we store on your browser or
 
 Each of Our Websites uses cookies from time to time to distinguish you from other users of each of Our Websites. This helps us to provide you with a good experience when you browse each of Our Websites and also allows us to improve each of Our Websites.
 
-For detailed information on the cookies we use and the purposes for which we use them see our [Cookie Policy](https://web.archive.org/terms-and-conditions/cookie-policy.aspx).
+For detailed information on the cookies we use and the purposes for which we use them see our [Cookie Policy](http://www.manxtelecom.com/terms-and-conditions/cookie-policy.aspx).
 
 ### 6\. Where We Store Your Personal Data
 
@@ -124,7 +121,7 @@ If you are a new customer, and where we permit selected third parties to use you
 If you do not want us to use your data in this way, or to pass your details on to third parties for marketing purposes, then:
 
   * please tick the relevant box situated on the form on which we collect your data (the order form); or
-  * by contacting our Customer Services department by telephone (+44 1624 624624) or by email customer@manxtelecom.com.
+  * by contacting our Customer Services department by telephone (+44 1624 624624) or by email [customer@manxtelecom.com.](mailto:customer@manxtelecom.com.)
 
 
 
@@ -146,7 +143,7 @@ We may disclose your personal information to third parties:
 
 You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes.
 
-You can exercise your right to prevent such processing by checking certain boxes on the forms we use to collect your data. You can also exercise the right at any time by contacting us at Manx Telecom Trading Limited, Isle of Man Business Park, Cooil Road, Braddan, Isle of Man IM99 1HX or by email to products@manxtelecom.com.
+You can exercise your right to prevent such processing by checking certain boxes on the forms we use to collect your data. You can also exercise the right at any time by contacting us at Manx Telecom Trading Limited, Isle of Man Business Park, Cooil Road, Braddan, Isle of Man IM99 1HX or by email to [products@manxtelecom.com.](mailto:products@manxtelecom.com.)
 
 Each of Our Websites may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates or other third parties. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies. Please check these policies before you submit any personal data to these websites.
 
@@ -164,7 +161,7 @@ If appropriate, we may notify you by email of certain changes to this Privacy Po
 
 ### 12\. Contact
 
-Questions, comments and requests regarding this Privacy Policy are welcomed and should be addressed to Manx Telecom Trading Limited, Isle of Man Business Park, Cooil Road, Braddan, Isle of Man IM99 1HX or by email to products@manxtelecom.com.
+Questions, comments and requests regarding this Privacy Policy are welcomed and should be addressed to Manx Telecom Trading Limited, Isle of Man Business Park, Cooil Road, Braddan, Isle of Man IM99 1HX or by email to [products@manxtelecom.com.](mailto:products@manxtelecom.com.)
 
 F9/GT/17 v2 | 13th June 2014  
 ---|---
