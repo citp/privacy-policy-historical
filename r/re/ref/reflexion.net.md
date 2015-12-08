@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reflexion.net privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607160718id_/http%3A//www.reflexion.net/news-resources/reflexion-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reflexion.net privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209003358id_/http%3A//www.reflexion.net/news-resources/reflexion-privacy-policy) for the most accurate reproduction.*
 
 # Reflexion Privacy Policy | Reflexion Networks, Inc.
 
