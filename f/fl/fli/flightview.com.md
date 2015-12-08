@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the flightview.com privacy policy that was archived on 2015-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150617033753id_/http%3A//corporate.flightview.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flightview.com privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208014547id_/http%3A//corporate.flightview.com/privacy-policy) for the most accurate reproduction.*
 
-# FlightView Inc. - Privacy Policy
+# Privacy Policy
 
 #### FlightView Privacy Policy
 
@@ -63,7 +63,7 @@ We reserve the right to send you certain communications relating to the FlightVi
 
 ##### Your Ability to Delete or Modify Your Account Information
 
-You can delete or modify your FlightView account by sending email to [privacy@FlightView.com](mailto:privacy@FlightView.com).
+You can delete or modify your FlightView account by sending email to [privacy@FlightView.com](mailto:privacy@FlightView.com).
 
 ##### Confidentiality and Security
 
