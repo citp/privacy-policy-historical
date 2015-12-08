@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jqueryscript.net privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629003941id_/http%3A//www.jqueryscript.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jqueryscript.net privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208090407id_/http%3A//www.jqueryscript.net/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | jQuery Script
 
