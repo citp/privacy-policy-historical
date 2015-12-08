@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the icerocket.com privacy policy that was archived on 2015-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150619205549id_/http%3A//www.meltwater.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the icerocket.com privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208073404id_/http%3A//www.meltwater.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy — Meltwater
 
@@ -73,7 +73,7 @@ You may opt-out of many third-party ad networks, including those operated by mem
 
 ## What Choices Do I Have Regarding Use of My Personal Information?
 
-We may send periodic promotional or informational emails to you. You may opt-out of such communications by following the opt-out instructions contained in the e-mail or by contacting us at privacy@meltwater.com. If you opt-out of receiving emails about recommendations or other information we think may interest you, we may still send you e-mails about your account or any services you have requested or received from us.
+We may send periodic promotional or informational emails to you. You may opt-out of such communications by following the opt-out instructions contained in the e-mail or by contacting us at privacy@www.meltwater.com. If you opt-out of receiving emails about recommendations or other information we think may interest you, we may still send you e-mails about your account or any services you have requested or received from us.
 
 ## Security
 
@@ -95,15 +95,15 @@ If you are a customer, in accordance with applicable law, you may modify persona
 
 ## ￼Safe Harbor
 
-Meltwater US Holdings Inc. complies with the U.S.-EU Safe Harbor Framework and the U.S. – Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use and retention of personal information obtained from European Union member countries and Switzerland and has self-certified its adherence to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement with the United States Department of Commerce. To learn more about the safe harbor program, and to view Meltwater US Holdings Inc.’s certification, please visit [www.export.gov/safeharbor](http://www.export.gov/safeharbor). If you believe that Meltwater US Holdings Inc. is misusing your information or violating the Safe Harbor principles, please contact [privacy@meltwater.com](mailto:privacy@meltwater.com).
+Meltwater US Holdings Inc. complies with the U.S.-EU Safe Harbor Framework and the U.S. – Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use and retention of personal information obtained from European Union member countries and Switzerland and has self-certified its adherence to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement with the United States Department of Commerce. To learn more about the safe harbor program, and to view Meltwater US Holdings Inc.’s certification, please visit [www.export.gov/safeharbor](http://www.export.gov/safeharbor). If you believe that Meltwater US Holdings Inc. is misusing your information or violating the Safe Harbor principles, please contact [privacy@www.meltwater.com](mailto:privacy@www.meltwater.com).
 
-In compliance with the US-EU and US-Swiss Safe Harbor Principles, Meltwater US Holdings commits to resolve complaints about your privacy and our collection or use of your personal information. European Union or Swiss citizens with inquiries or complaints regarding this privacy policy should first contact [privacy@meltwater.com](mailto:privacy@meltwater.com).
+In compliance with the US-EU and US-Swiss Safe Harbor Principles, Meltwater US Holdings commits to resolve complaints about your privacy and our collection or use of your personal information. European Union or Swiss citizens with inquiries or complaints regarding this privacy policy should first contact [privacy@www.meltwater.com](mailto:privacy@www.meltwater.com).
 
 Meltwater US Holdings has further committed to refer unresolved privacy complaints under the US-EU and US-Swiss Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU SAFE HARBOR, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by (your company name), please visit the BBB EU SAFE HARBOR web site at [www.bbb.org/us/safe-harbor-complaints](http://www.bbb.org/us/safe-harbor-complaints) for more information and to file a complaint.
 
 ## Contact Us
 
-If you have any questions about this policy or the use of your personal information, please contact us at [privacy@meltwater.com](mailto:privacy@meltwater.com).
+If you have any questions about this policy or the use of your personal information, please contact us at [privacy@www.meltwater.com](mailto:privacy@www.meltwater.com).
 
 ￼￼
 
@@ -111,7 +111,7 @@ If you have any questions about this policy or the use of your personal informat
 
 At Meltwater, we know that you care about how your personal information is used and shared, and that is why we are committed to respecting your privacy and helping protect the security of your information. The purpose of this cookie statement (“Statement”) is to help you better understand how and why we gather, store and process information collected from you automatically through cookies and other tracking technologies (collectively, “cookies”) when you use a Meltwater website, including, [www.meltwater.com](https://www.meltwater.xn--com-9o0a/) (“Site”). In this Statement, we also identify your options regarding the use of cookies and the information collected through cookies.
 
-Visiting or using this website with your browser settings adjusted to accept cookies tells us that you want to use our products and services and that you consent to our use of cookies and other technologies as described in this notice. Should you have any questions regarding our privacy policy, please [contact us](mailto:privacy@meltwater.com).
+Visiting or using this website with your browser settings adjusted to accept cookies tells us that you want to use our products and services and that you consent to our use of cookies and other technologies as described in this notice. Should you have any questions regarding our privacy policy, please [contact us](mailto:privacy@www.meltwater.com).
 
 ### What does this statement apply to?
 
@@ -139,10 +139,7 @@ The information we collect from you and about you is used as follows:
 
 ## Cookies used on this website
 
-￼￼￼￼￼￼￼￼￼￼￼￼￼￼  
-
-
-**Type** | **Name** | **Purpose**  
+Type | Name | Purpose  
 ---|---|---  
 Session cookies | ASP.NET_SessionId | We use a session cookie to recognize you from page to page within the website, to remember you when you are logged-in or to enable services and features, such as accessing secure areas of the website. 
 
@@ -155,10 +152,10 @@ When these cookies are disabled, various functions of the site will be broken or
 For more information on session cookies and what they are used for, [click here](http://www.allaboutcookies.org/cookies/session-cookies-used-for.html).  
   
 Performance Cookies | Google Analytics  
-__utma   
-__utmb   
-__utmc   
-__utmv   
+__utma  
+__utmb  
+__utmc  
+__utmv  
 __utmz | Performance cookies collect information about how visitors use a website, i.e., the pages you go to most often, and any error messages you receive. 
 
 These cookies do not collect information that identifies you. The information these cookies collect is aggregated, therefore anonymous, and is only used to understand how the site is being used and identify problem areas to improve user experience.
@@ -174,8 +171,8 @@ By using our Site, you agree that we can place these types of cookies on your de
 When these cookies are disabled, various functions of the Site will be broken or unavailable.  
   
 Targeting Cookies | Marketo Cookies  
-_mkto_trk   
-_mkt_library   
+_mkto_trk  
+_mkt_library  
 _mkt_whitepapers | This Site uses an automation system provided by Marketo Inc., which uses cookies to recognize you as a unique user when you return to the site, and to track various data related to your website usage in order to provide custom content or services related to your specific interests. 
 
 The cookies placed by the Marketo server are readable only by Marketo. For more information on Marketo cookies and what they are used for, [click here](http://www.marketo.com/trust/privacy.php).  
@@ -236,4 +233,4 @@ If you decide to visit the Meltwater Site, your visit and any possible dispute o
 
 ## How to contact us for more information
 
-We welcome all comments regarding this Statement. If you have questions related to our Cookie and Cookie Statement, or believe that we have not adhered to it, please contact us by sending an e-mail to [privacy@meltwater.com](mailto:privacy@meltwater.com%E2%80%9D).
+We welcome all comments regarding this Statement. If you have questions related to our Cookie and Cookie Statement, or believe that we have not adhered to it, please contact us by sending an e-mail to [privacy@www.meltwater.com](mailto:privacy@www.meltwater.com%E2%80%9D).
