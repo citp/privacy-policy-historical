@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the komparify.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609084313id_/https%3A//www.komparify.com/blog/index.php/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the komparify.com privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208124829id_/https%3A//www.komparify.com/blog/index.php/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy – About Information we collect and how we use it » Komparify Blog » Komparify (formerly 3gsimplified) » The Simplest way to find the best mobile 2g/3g plan. Reduce your mobile plan cost now!
 
@@ -12,15 +12,19 @@ When registering on our site, as appropriate, you may be asked to enter your nam
 
 ## Your Mobile Usage Pattern
 
-3gsimplified.com may collect your current or estimated mobile usage pattern entered on our website by you to access our service. You may, however, visit our site anonymously. If you decide to create an account on our system, we store that usage pattern on our servers and use that for services like the ones detailed below.
+Komparify.com may collect your current or estimated mobile usage pattern entered on our website by you to access our service. You may, however, visit our site anonymously. If you decide to create an account on our system, we store that usage pattern on our servers and use that for services like the ones detailed below.
 
 ## Your Searches and Search Results
 
-3gsimplified.com also stores your searches, search results and estimated monthly cost.
+Komparify.com also stores your searches, search results and estimated monthly cost.
 
 ## Your Mobile Call Log, SMS Log & Data Log
 
-3gsimplified.com may collect information on the calls you make from your mobile phone and analyse the call and sms log to get your usage pattern.
+Komparify.com may collect information on the calls you make from your mobile phone and analyse the call and sms log to get your usage pattern.
+
+## Your Third Party Authentication Information
+
+Komparify.com may collect third party authentication information if you decide to use these services to authenticate with us. We also collect email addresses if you give us permission to import your contacts.
 
 Any of the information we collect from you may be used in one of the following ways:
 
@@ -68,13 +72,13 @@ This online privacy policy applies only to information collected through our web
 
 If we decide to change our privacy policy, we will post those changes on this page, send an email notifying you of any changes and/or update the Privacy Policy modification date.
 
-## Disclaimer for Links from 3gsimplified.com
+## Disclaimer for Links from Kompairfy.com
 
-3gsimplified.com contains links to other sites and we are not responsible for the privacy practices or the content of such other sites. We do not monitor or control the content of such linked sites. Those sites may have their own privacy statements in place, which we recommend you to review if you visit any linked web sites.
+Komparify.com contains links to other sites and we are not responsible for the privacy practices or the content of such other sites. We do not monitor or control the content of such linked sites. Those sites may have their own privacy statements in place, which we recommend you to review if you visit any linked web sites.
 
-## Disclaimer for Links to 3gsimplified.com
+## Disclaimer for Links to Komparify.com
 
-We are not responsible for the content of links to 3gsimplified.com and their accuracy. We welcome links to 3gsimplified.com from external sites but are in no way responsible for their accuracy. Links on this website may also change without prior notice.
+We are not responsible for the content of links to Komparify.com and their accuracy. We welcome links to Komparify.com from external sites but are in no way responsible for their accuracy. Links on this website may also change without prior notice.
 
 ## Your Consent
 
@@ -84,7 +88,7 @@ By using our site, you consent to our privacy policy.
 
 If you have any questions or comments about this Privacy Statement, or if you would like us to update information we have about you or your preferences, please contact us by:
 
-e-mail: 3gsimplifiedno@cheenspamilabs.com
+e-mail: komparify@cheenilabs.com
 
 writing to :
 
