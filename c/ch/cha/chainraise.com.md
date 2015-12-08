@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chainraise.com privacy policy that was archived on 2015-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150520003548id_/http%3A//chainraise.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chainraise.com privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208064810id_/http%3A//chainraise.com/privacy-policy) for the most accurate reproduction.*
 
 # » Privacy Policy
 
