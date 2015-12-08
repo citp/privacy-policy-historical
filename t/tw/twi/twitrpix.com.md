@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the twitrpix.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607075053id_/http%3A//twitrpix.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the twitrpix.com privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208094320id_/http%3A//twitrpix.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | TwitrPix
 
