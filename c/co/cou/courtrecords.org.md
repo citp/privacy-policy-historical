@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the courtrecords.org privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609064411id_/http%3A//www.courtrecords.org/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the courtrecords.org privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208202509id_/http%3A//www.courtrecords.org/privacy.php) for the most accurate reproduction.*
 
-# Privacy Policy - Courtrecords.org
+# CourtRecords.org
 
-Info Tracer ("we" or "our" or "us") values the relationship that it has with its customers and is always committed to responsible information handling practices.
+CIS Nationwide ("we" or "our" or "us") values the relationship that it has with its customers and is always committed to responsible information handling practices.
 
-This privacy policy is intended to inform you about the types of information gathered by us when you visit any of our website. We follow these privacy principles in our conduct in the collection, use, release and security of customer information both online and offline:
+This privacy policy is intended to inform you about the types of information gathered by us when you visit any of our websites listed at [www.cisnationwide.com/websites](http://www.cisnationwide.com/websites.html) (each, a "Site"). Although our business and Sites have unique services and offerings, they share a similar privacy philosophy. We follow these privacy principles in our conduct in the collection, use, release and security of customer information both online and offline:
 
-Providing you with means to [CONTACT US](mailto:privacy@InfoTracer.com) about privacy-related issues. The following Privacy Policy describes the information and privacy practices for us.
+Providing you with means to [CONTACT US](mailto:privacy@cisnationwide.com) about privacy-related issues. The following Privacy Policy describes the information and privacy practices for us.
 
 Our Sites contain links to other websites operated by third parties. If you should click-through to these third party websites, please note that you are leaving our Site and that this privacy policy will no longer apply to any subsequent transactions that you engage with such third party websites. If this occurs, then we encourage you to read the privacy policies of those third-party websites to learn how they collect and use information about you.
 
@@ -22,13 +22,13 @@ We store information regarding any searches (" **search history** ") you may mak
 
 Please note that all personal financial information required to complete your purchase (such as your credit card number) will be provided to and/or collected by a third party vendor, such as ClickBank, who will process payments and complete transactions.
 
- **How to Update or Change Your Information or Preferences** We want your information and preferences to be accurate and complete. You may request access to any personal information and preferences that you have provided to us and correct, modify or update such information and/or preferences by sending an email with your request to [privacy@InfoTracer.com](mailto:privacy@InfoTracer.com).
+ **How to Update or Change Your Information or Preferences** We want your information and preferences to be accurate and complete. You may request access to any personal information and preferences that you have provided to us and correct, modify or update such information and/or preferences by sending an email with your request to [privacy@cisnationwide.com](mailto:privacy@cisnationwide.com).
 
 >Notifications & Opt-Out If you choose to register to use a Site, we will send you a welcome email including information about the Site and your registration. 
 
 We may send you emails notifying you about new or upcoming products or services, news about the Site, information about changing or updating your Site registration information, and changes to the Site's terms of service, and promotional materials and offers from our company as well as from our subsidiaries, affiliates, marketing partners, advertisers and other third parties.
 
-Out of respect for your privacy, if you no longer wish to receive these emails, you may opt-out of receiving them by following the instructions included in each email, or by emailing us at [privacy@InfoTracer.com](mailto:privacy@InfoTracer.com).
+Out of respect for your privacy, if you no longer wish to receive these emails, you may opt-out of receiving them by following the instructions included in each email, or by emailing us at [privacy@cisnationwide.com](mailto:privacy@cisnationwide.com).
 
 We will take reasonable steps to implement your request to opt out. However, please note that due to production and mailing timelines, it may take around six weeks to make the requested change and, until that change takes effect, you may still receive promotional information from us.
 
@@ -40,7 +40,7 @@ We will take reasonable steps to implement your request to opt out. However, ple
 
 **Information Sharing** We understand how highly our users value the privacy and security of their personally identifiable information. We will only disclose information collected from and about you, including but not limited to, your searches performed and results received, to the following entities for the following purposes:(1) to our related companies, service providers and suppliers, if the disclosure will enable them to fulfill a product or service request or to perform a business, professional or technical support function for us; (2) as necessary if we believe that there has been a violation of our terms of service or of our rights or the rights of any third party; and (3) to respond to a valid court order, subpoena, government investigation, or as otherwise required by law. We also reserve the right to report to law enforcement agencies any activities that we, in good faith, believe to be unlawful. We may release certain personal information when we believe that such release is reasonably necessary to protect the rights, property, and safety of others and ourselves. We may also release personal information in the event of a corporate sale, merger, reorganization, dissolution or similar event..
 
-We may also sell, rent or lease your personal information to our marketing partners, advertisers or other third parties. If you would prefer that we not share your personal information with such third parties, please contact us at [privacy@InfoTracer.com](mailto:privacy@InfoTracer.com).
+We may also sell, rent or lease your personal information to our marketing partners, advertisers or other third parties. If you would prefer that we not share your personal information with such third parties, please contact us at [privacy@cisnationwide.com](mailto:privacy@cisnationwide.com).
 
 **Information Security** We employ encryption and other security measures to protect the loss, misuse, and alteration of the information under our control. Whenever you provide us or our partners with sensitive or confidential information, we or our partners will take commercially reasonable steps to protect such information by establishing a secure connection with your web browser, such as employing a security technology known as a secure-socket-layer ("SSL") to protect the transmission of such information.
 
@@ -81,11 +81,11 @@ Our databases are maintained by third party data vendors that we do not operate 
 
 You may request to opt-out by submitting your information to the following fax number:
 
-Opt Out Compliance Department Fax: 1-617-933-9946
+Opt Out Compliance Department Fax: 1-888-446-1229
 
 **IMPORTANT NOTE:** Unsigned or incomplete requests will not be processed.
 
-**> >> This Fax Number is for opt-out requests _ONLY_.** Please click [HERE](https://web.archive.org/web/20150609064411id_/http%3A//www.courtrecords.org/help.php) to submit a customer service request for any other issues.
+**> >> This Fax Number is for opt-out requests _ONLY_.** Please click [HERE](http://www.courtrecords.org/#) to submit a customer service request for any other issues.
 
 **Or mail them to:**
 
@@ -99,4 +99,4 @@ _Please Note:_ The Opt-out Compliance Department does not manage any customer re
 
 **Changes to Privacy Policy** We may periodically update this policy, and will post a notice of such updates on the Sites. We will attempt to notify you of material updates by sending a notice to an email address you may have provided to us, and by placing a prominent notice on the Sites.
 
-**Contact Us** If you have any concerns about this policy, or any Info Tracer products or services, please contact us at [privacy@InfoTracer.com](mailto:privacy@InfoTracer.com).
+**Contact Us** If you have any concerns about this policy, or any CIS Nationwide products or services, please contact us at [privacy@cisnationwide.com](mailto:privacy@cisnationwide.com).
