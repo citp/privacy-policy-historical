@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the turnto23.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610032105id_/http%3A//www.turnto23.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the turnto23.com privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208184804id_/http%3A//www.turnto23.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - 23ABC News
 
@@ -86,7 +86,7 @@ The Services are hosted in the United States and are directed toward users who r
 
 J.          CONTACT & OPT-OUT INFORMATION
 
-You may contact us as at corpcomm@scripps.com if: (a) you have questions or comments about our Privacy Policy; (b) wish to make corrections to any personally identifiable information you have provided; (c) want to opt-out from receiving future commercial correspondence, including emails, from us or our affiliated companies; or (d) wish to withdraw your consent to sharing your personally identifiable information with others.
+You may contact us as at [TurnTo23 Support](http://support.turnto23.com/support/tickets/new) if: (a) you have questions or comments about our Privacy Policy; (b) wish to make corrections to any personally identifiable information you have provided; (c) want to opt-out from receiving future commercial correspondence, including emails, from us or our affiliated companies; or (d) wish to withdraw your consent to sharing your personally identifiable information with others.
 
 We will respond to your request and, if applicable and appropriate, make the requested change in our active databases as soon as reasonably practicable.  Please note that we may not be able to fulfill certain requests while allowing you access to certain benefits and features of our Services. 
 
