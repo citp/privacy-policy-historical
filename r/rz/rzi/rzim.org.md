@@ -1,47 +1,57 @@
-> *The following text is extracted and transformed from the rzim.org privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610015300id_/http%3A//rzim.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rzim.org privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208180103id_/http%3A//rzim.org/privacy) for the most accurate reproduction.*
 
 # Privacy Statement | RZIM
 
-Ravi Zacharias International Ministries is committed to protecting your privacy and developing technology that gives you the most powerful and safe online experience. This Statement of Privacy applies to the Ravi Zacharias International Ministries Web site and governs data collection and usage. By using the Ravi Zacharias International Ministries website, you consent to the data practices described in this statement.
+**RZIM Privacy Policy**
 
-### Collection of your Personal Information
+Ravi Zacharias International Ministries (RZIM) is committed to protecting and maintaining the privacy of its donors and online users, and developing or using technologies that give you the safest communication and online experience. This Statement of Privacy governs and applies to all personal and anonymous data collection and usage, including but not limited to, event registration, mailing list, website, and e-commerce.
 
-Ravi Zacharias International Ministries collects personally identifiable information, such as your e-mail address, name, home or work address or telephone number. Ravi Zacharias International Ministries also collects anonymous demographic information, which is not unique to you, such as your ZIP code, age, gender, preferences, interests and favorites.
+**Collection of Your Personal Information**
 
-There is also information about your computer hardware and software that is automatically collected by Ravi Zacharias International Ministries. This information can include: your IP address, browser type, domain names, access times and referring Web site addresses. This information is used by Ravi Zacharias International Ministries for the operation of the service, to maintain quality of the service, and to provide general statistics regarding use of the Ravi Zacharias International Ministries Web site.
+RZIM collects personally identifiable information which includes but is not limited to your e-mail address, name, home or work address, telephone number, or credit card information. RZIM also collects anonymous demographic information which includes but is not limited to your ZIP code, age, gender, preferences, interests, and favorites.
 
-Please keep in mind that if you directly disclose personally identifiable information or personally sensitive data through Ravi Zacharias International Ministries public message boards, this information may be collected and used by others. Note: Ravi Zacharias International Ministries does not read any of your private online communications.
+There is also information about your computer hardware and software that is automatically collected by RZIM. This information can include your IP address, browser type, domain names, access times, and referring website addresses. This information is used by RZIM for the operation of the service to maintain quality of the service and to provide general statistics regarding use of the RZIM website.
 
-Ravi Zacharias International Ministries encourages you to review the privacy statements of Web sites you choose to link to from Ravi Zacharias International Ministries so that you can understand how those Web sites collect, use and share your information. Ravi Zacharias International Ministries is not responsible for the privacy statements or other content on Web sites outside of the Ravi Zacharias International Ministries and Ravi Zacharias International Ministries family of Web sites.
+Please keep in mind that if you directly disclose personally identifiable information or personally sensitive data through RZIM public message boards, this information may be collected and used by others. (Note: RZIM does not read any of your private online communications.)
 
-### Use of your Personal Information
+RZIM encourages you to review the statements of websites you choose to link to from RZIM so that you can understand how those websites collect, use, and share your information. RZIM is not responsible for the privacy statements or other content on websites outside of the RZIM and RZIM family of websites.
 
-Ravi Zacharias International Ministries collects and uses your personal information to operate the Ravi Zacharias International Ministries Web site and deliver the services you have requested. Ravi Zacharias International Ministries also uses your personally identifiable information to inform you of other products or services available from Ravi Zacharias International Ministries and its affiliates. Ravi Zacharias International Ministries may also contact you via surveys to conduct research about your opinion of current services or of potential new services that may be offered.
+It is the desire of RZIM to honor your communication needs. If you wish to be removed from our conventional mailing list, please contact us in writing at rzim@rzim.org.
 
-Ravi Zacharias International Ministries does not sell, rent or lease its customer lists to third parties. Ravi Zacharias International Ministries may, from time to time, contact you on behalf of external business partners about a particular offering that may be of interest to you. In those cases, your unique personally identifiable information (e-mail, name, address, telephone number) is not transferred to the third party. In addition, Ravi Zacharias International Ministries may share data with trusted partners to help us perform statistical analysis, send you email or postal mail, provide customer support, or arrange for deliveries. All such third parties are prohibited from using your personal information except to provide these services to Ravi Zacharias International Ministries, and they are required to maintain the confidentiality of your information.
+**Use of Your Personal Information**
 
-Ravi Zacharias International Ministries does not use or disclose sensitive personal information, such as race, religion, or political affiliations, without your explicit consent.
+RZIM collects and uses your personal information to operate the RZIM website and deliver services you have requested. RZIM also uses your personally identifiable information to inform you of other products or services available from RZIM and its affiliates. RZIM may also contact you via surveys to conduct research about your opinion of current services or of potential new services that may be offered.
 
-Ravi Zacharias International Ministries keeps track of the Web sites and pages our customers visit within Ravi Zacharias International Ministries, in order to determine what Ravi Zacharias International Ministries services are the most popular. This data is used to deliver customized content and advertising within Ravi Zacharias International Ministries to customers whose behavior indicates that they are interested in a particular subject area.
+RZIM does not sell, rent, or lease its donor or user lists to third parties. RZIM may share data with trusted partners to help us perform statistical analysis, send you email or postal mail, provide customer support, or arrange for deliveries. All such third parties are prohibited from using your personal information except to provide these services to RZIM, and they are required to maintain the confidentiality of your information. RZIM will not send mailings to donors or users on behalf of other organizations.
 
-Ravi Zacharias International Ministries Web sites will disclose your personal information, without notice, only if required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on Ravi Zacharias International Ministries or the site; (b) protect and defend the rights or property of Ravi Zacharias International Ministries; and, (c) act under exigent circumstances to protect the personal safety of users of Ravi Zacharias International Ministries, or the public.
+RZIM keeps track of the websites and pages our customers visit within RZIM, in order to determine what RZIM services are the most popular. This data is used to deliver customized content and advertising within RZIM to customers whose behavior indicates that they are interested in a particular subject area.
 
-### Use of Cookies
+RZIM websites will disclose your personal information, without notice, only if required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on RZIM or the site; (b) protect and defend the rights or property of RZIM; and, (c) act under exigent circumstances to protect the personal safety of users of RZIM, or the public.
 
-The Ravi Zacharias International Ministries Web site use “cookies” to help you personalize your online experience. A cookie is a text file that is placed on your hard disk by a Web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a web server in the domain that issued the cookie to you.
+**Use of Cookies**
 
-One of the primary purposes of cookies is to provide a convenience feature to save you time. The purpose of a cookie is to tell the Web server that you have returned to a specific page. For example, if you personalize Ravi Zacharias International Ministries pages, or register with Ravi Zacharias International Ministries site or services, a cookie helps Ravi Zacharias International Ministries to recall your specific information on subsequent visits. This simplifies the process of recording your personal information, such as billing addresses, shipping addresses, and so on. When you return to the same Ravi Zacharias International Ministries Web site, the information you previously provided can be retrieved, so you can easily use the Ravi Zacharias International Ministries features that you customized.
+The RZIM websites use “cookies” to help you personalize your online experience. A cookie is a text file that is places on your hard disk by a web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a web server in the domain that issued the cookie to you.
 
-You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to decline cookies, you may not be able to fully experience the interactive features of the Ravi Zacharias International Ministries services or Web sites you visit.
+One of the primary purposes of cookies it to provide a convenience feature to save you time. The purpose of a cookie is to tell the web server that you have returned to a specific page. For example, if you personalize RZIM pages, or register with RZIM’s site or services, a cookie helps RZIM to recall your specific information on subsequent visits. This simplifies the process of recording your personal information, such as billing addresses, shipping addresses, and so on. Then you return to the same RZIM website, the information you previously provided can be retrieved, so you can easily use the RZIM features that you customized.
 
-### Security of your Personal Information
+You have the ability to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to decline cookies, you may not be able to fully experience the interactive features of the RZIM services or websites you visit.
 
-Ravi Zacharias International Ministries secures your personal information from unauthorized access, use or disclosure. Ravi Zacharias International Ministries secures the personally identifiable information you provide on computer servers in a controlled, secure environment, protected from unauthorized access, use or disclosure. When personal information (such as a credit card number) is transmitted to other Web sites, it is protected through the use of encryption, such as the Secure Socket Layer (SSL) protocol.
+**Security of Your Personal Information**
 
-### Changes to this Statement
+RZIM secures your personal information from unauthorized access, use or disclosure. RZIM secures the personally identifiable information you provide on computer servers in a controlled, secure environment, protected from unauthorized access, use or disclosure. When personal information (such as a credit card number) is transmitted to other websites, it is protected through the use of encryption, such as the Secure Socket Layer (SSL) protocol.
 
-Ravi Zacharias International Ministries will occasionally update this Statement of Privacy to reflect company and customer feedback. Ravi Zacharias International Ministries encourages you to periodically review this Statement to be informed of how Ravi Zacharias International Ministries is protecting your information.
+**Children’s Online Privacy**
 
-### Contact Information
+We are concerned about the privacy of young children, and we do not collect any more personal information than is reasonably necessary to enable them to participate in the activities we offer on our sites. RZIM will not knowingly collect or preserve data from children under 16 years of age. We encourage you to become involved with your child’s Internet activities and their access to our site, in order to ensure that his or her privacy is well protected. To read more about online safety and how to become more involved with your child’s online experience, visit OnGuardOnline.gov.
 
-Ravi Zacharias International Ministries welcomes your comments regarding this Statement of Privacy. If you believe that Ravi Zacharias International Ministries has not adhered to this Statement, please contact Ravi Zacharias International Ministries at **[rzim@rzim.org](mailto:rzim@rzim.org)**. We will use commercially reasonable efforts to promptly determine and remedy the problem.
+**Updating Your Personal Information**
+
+It is important that the information contained in our records is both accurate and current. If your personal information happens to change during the course of our relationship, please keep us informed of such changes. In some circumstances we may not agree with your request to change your personal information and will instead append an alternative text to the record in question.
+
+**Changes to this Statement**
+
+RZIM will occasionally update this Statement of Privacy to reflect company and customer feedback. RZIM encourages you to periodically review this statement to be informed of how RZIM is protecting your information.
+
+**Contact Information**
+
+RZIM welcomes your comments regarding this Statement of Privacy. If you believe that RZIM has not adhered to this statement, please contact RZIM at [rzim@rzim.org](mailto:rzim@rzim.org). We will use commercially reasonable efforts to promptly determine and remedy the problem.
