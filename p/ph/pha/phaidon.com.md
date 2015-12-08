@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the phaidon.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609232058id_/http%3A//www.phaidon.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phaidon.com privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208182152id_/http%3A//www.phaidon.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Phaidon
 
@@ -46,6 +46,16 @@ Parts of the Phaidon Websites and our billing process (which is transacted via D
 ACCESSING AND UPDATING YOUR PERSONAL INFORMATION
 
 We will always let you have a copy of personal information we have about you, should you request it, and you may correct it if you wish. To access the data we hold on you simply login to your account where you can view your username, password, orders and personal settings.
+
+COOKIES
+
+This website uses the following cookies:
+
+Google Analytics: This cookie allows us to see information on user website activities including, but not limited to page views, source and time spent on website. The information is depersonalised and is displayed as numbers, meaning it cannot be tracked back to individuals. This will help to protect your privacy. Using Google Analytics we can see what content is popular on our website, and strive to give you more of the things you enjoy reading and watching.
+
+Google AdWords: Using Google AdWords code we are able to see which pages helped lead to contact form submissions. This allows us to make better use of our paid search budget.
+
+DoubleClick: We use remarketing codes to log when users view specific pages, allowing us to provide targeted advertising in the future.
 
   
 THIRD PARTY LINKS
