@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the education.weebly.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607140456id_/http%3A//education.weebly.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the education.weebly.com privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208024221id_/http%3A//education.weebly.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Weebly Website Builder: Create a Free Website, Store or Blog
 
 ### What This Privacy Policy Covers
 
