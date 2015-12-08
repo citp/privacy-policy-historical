@@ -1,16 +1,10 @@
-> *The following text is extracted and transformed from the snort.org privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623201025id_/http%3A//www.cisco.com/web/siteassets/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the snort.org privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208020641id_/http%3A//www.cisco.com/web/siteassets/legal/privacy.html) for the most accurate reproduction.*
 
-# Cisco Online Privacy Statement Highlights - Cisco Systems
-
-## Trust and Transparency Center
-
-Cisco is committed to maintaining strong protections for our customers, products and company. We believe in building and maintaining trust, reducing risk and simply doing what is right.
-
-[**Learn More**](https://web.archive.org/web/about/doing_business/trust-center/index.html)
+# Cisco Online Privacy Statement Summary - Cisco Systems
 
 _The Cisco[Online Privacy Statement](https://web.archive.org/web/siteassets/legal/privacy_full.html) and this summary apply to Cisco's websites and our affiliates' websites that link to the Statement._
 
-Cisco respects and is committed to protecting your personal information. Our privacy policies reflect current global principles and standards on handling personal information – notice and choice of data use, data access and integrity, security, onward transfer and enforcement/oversight. Below are some of the highlights of our [Online Privacy Statement](https://web.archive.org/web/siteassets/legal/privacy_full.html).
+Cisco respects and is committed to protecting your personal information. Our privacy statements reflect current global principles and standards on handling personal information – notice and choice of data use, data access and integrity, security, onward transfer and enforcement/oversight. Below are some of the highlights of our [Online Privacy Statement](https://web.archive.org/web/siteassets/legal/privacy_full.html).
 
 ### Personal Information
 
@@ -58,22 +52,6 @@ Cisco respects and is committed to protecting your personal information. Our pri
 
 ### References
 
-To find out more about our privacy practices, see the Cisco [Online Privacy Statement](https://web.archive.org/web/siteassets/legal/privacy_full.html). Also, for additional information about our privacy and security compliance program, we encourage you to visit our [Privacy Portal](https://web.archive.org/web/about/doing_business/legal/privacy_compliance/index.html#~1,).
+To find out more about our privacy practices, see the full version of the Cisco [Online Privacy Statement](https://web.archive.org/web/siteassets/legal/privacy_full.html).
 
-_Last updated: February 2014_
-
-## How to Contact Us
-
-Email: [privacy@cisco.com](mailto:privacy@cisco.com)
-
-Mail: Cisco Systems, Inc.   
-Legal Department   
-170 West Tasman Dr.   
-San Jose, CA 95134 USA
-
-## Learn more about Data Privacy
-
-Powering the Human Network means protecting it as well. Protecting the privacy of you and your family is important to Cisco. To help you understand how to protect your privacy, Cisco has published some helpful guidelines, both in commemoration of Data Privacy Day and on-going at [Online Privacy Portal](https://web.archive.org/web/about/facts_info/privacy/index.html).
-
-|   
----|---
+_Last updated: November 2015_
