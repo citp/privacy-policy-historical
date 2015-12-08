@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coolpot.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610003525id_/http%3A//coolpot.com/static/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coolpot.com privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208220441id_/http%3A//coolpot.com/static/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | COOLPOT
 
