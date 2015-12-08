@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the livescore.cz privacy policy that was archived on 2014-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141208151317id_/http%3A//www.livescore.cz/pp.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livescore.cz privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208120758id_/http%3A//www.livescore.cz/pp.html) for the most accurate reproduction.*
 
 # Untitled Document
 
