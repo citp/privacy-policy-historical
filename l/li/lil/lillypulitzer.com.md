@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lillypulitzer.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607233021id_/http%3A//www.lillypulitzer.com/custserv/custserv.jsp%3FpageName%3DPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lillypulitzer.com privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208103100id_/http%3A//www.lillypulitzer.com/custserv/custserv.jsp%3FpageName%3DPrivacy) for the most accurate reproduction.*
 
 # Privacy and Security - Lilly Pulitzer
 
@@ -13,6 +13,7 @@ We have created this ecommerce privacy policy to demonstrate our firm commitment
   * Our Use of Cookies
   * Security
   * Children's Privacy
+  * Mobile Location Analytics Data
   * Links to Other Sites
   * California Privacy Rights / Questions or Comments
 
@@ -37,7 +38,7 @@ We may collect personal information from you, such as your name, email address, 
 
 
 
-For visitors who provide photographs, stories, testimonials or other feedback about our products or our Website, or provide us any other information via correspondence or otherwise ("Content") directly via an email hyperlink on the Website, we collect your first and last name, email address and any Content included in the email. By submitting Content, you agree that Lilly Pulitzer may use your Personal Information and such Content as permitted under this Policy, including reproducing the Content on the Website and in Lilly Pulitzer's marketing and advertising materials. We maintain a record of your product interests and the purchases you make. We may combine all of this information with information about you that we acquire from our joint marketing partners, from unrelated third parties, and from our other brands.
+For visitors who upload, post, e-mail or otherwise make available data, text, photographs, graphics, images, software, music, sound, videos, messages or other materials ("Content") on or to Lilly Pulitzer.com; through our hashtags (such as #SummerInLilly, #Resort365, MakeItSunny or #ILoveLilly); any other website, microsite or any other internet property owned, operated or sponsored by Lilly Pulitzer (collectively "Lilly Pulitzer Sites"), you agree to and acknowledge (1) our Community Content Policy found at [www.lillypulitzer.com/communitycontent](https://web.archive.org/custserv/custserv.jsp?pageName=community), (2) our use of your Content; (3) You are at least thirteen (13) years of age; and (4) we collect information you provide, including but not limited to your first and last name, email address and any additional personal information submitted with the Content. We maintain a record of your product interests and the purchases you make. We may combine all of this information with information about you that we acquire from our joint marketing partners, from unrelated third parties, and from our other brands.
 
 ### Using Information We Collect
 
@@ -117,6 +118,10 @@ Identity thieves sometimes send fraudulent email messages to trick customers int
 
 Protecting children's privacy is important to us. Our website is a general audience site. We do not collect or maintain information from those we actually know are under 13, and no part of our website is targeted to attract anyone under 13. We also do not send email correspondence to anyone who tells us that they are under the age of 13 without their parent's consent. Children under the age of 13 should always ask their parents or guardians for permission before providing any personal information to anyone online. We urge parents and guardians to participate in their children's online activities and use parental control or other web filtering technology to supervise children's access to the web.
 
+### Mobile Location Analytics Data
+
+We may use tracking technology to collect certain information about your Wi-Fi enabled mobile device, including the presence of the device in our stores, its signal strength, its manufacturer, and a unique identifier known as its Media Access Control (“MAC”) address (collectively, “Customer Mobile Device Data”). This Customer Mobile Device Data may be collected for the purpose of determining the amount, location and frequency of customer traffic into our stores. A mobile device’s MAC address identifies a specific device to the surrounding Wi-Fi networks. The MAC address does not disclose the identity or any other personal data of the mobile device user. You may opt-out of having your MAC address recorded by visiting the following link and entering your mobile device’s MAC address: [https://optout.smart-places.org](https://optout.smart-places.org/). To learn more about the use of Customer Mobile Device Data and your choices, please visit: [http://smart-places.org](http://smart-places.org/).
+
 ### Links to Other Sites
 
 Occasionally we provide links on our website to other sites we think you will enjoy. These sites operate independently of us and have established their own privacy and security policies. For the best online experience, we strongly encourage you to review these policies at any site you visit. We are not responsible for the content or practices of any linked websites which are provided solely for the convenience and information of our visitors.
@@ -131,4 +136,4 @@ King of Prussia, PA 19406
 1.888.725.4559  
 [service@LillyPulitzer.com](mailto:service@LillyPulitzer.com)
 
-Effective Date: February 20, 2013
+Effective Date: October 27, 2015
