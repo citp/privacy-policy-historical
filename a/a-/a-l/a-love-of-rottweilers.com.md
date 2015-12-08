@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the a-love-of-rottweilers.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608172906id_/http%3A//www.a-love-of-rottweilers.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the a-love-of-rottweilers.com privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208141046id_/http%3A//www.a-love-of-rottweilers.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy for A Love Of Rottweilers.com website
 
@@ -61,4 +61,6 @@ Your use of this site indicates acceptance of this privacy policy.
 **[Home](http://www.a-love-of-rottweilers.com/index.html) <<< Back To Top**
 
   
-
+**Share this page:  **| | | |   
+---|---|---|---|---  
+| | | 
