@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the biogamergirl.com privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628194657id_/http%3A//www.biogamergirl.com/p/privacy-statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the biogamergirl.com privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208045227id_/http%3A//www.biogamergirl.com/p/privacy-statement.html) for the most accurate reproduction.*
 
 # Privacy Policy - BioGamer Girl
 
