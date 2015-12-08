@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the laemmle.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610012303id_/http%3A//www.laemmle.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the laemmle.com privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208113312id_/http%3A//www.laemmle.com/pages/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Laemmle.com
 
