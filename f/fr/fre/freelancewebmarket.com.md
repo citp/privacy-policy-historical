@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freelancewebmarket.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627045423id_/http%3A//www.freelancewebmarket.com/privacy-policy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freelancewebmarket.com privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208105916id_/http%3A//freelancewebmarket.com/privacy-policy.shtml) for the most accurate reproduction.*
 
 # Privacy-policy - FreelanceWebmarket
 
