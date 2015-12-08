@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the apttus.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609201121id_/http%3A//apttus.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apttus.com privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208141215id_/http%3A//apttus.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - APTTUS
 
@@ -16,7 +16,7 @@ This privacy statement answers the following questions:
 
 
 
-If you have any questions regarding this privacy statement, the practices of our website, or your dealings with us, please contact the Webmaster at info@apttus.com, or by calling us at (650) 331-0138.
+If you have any questions regarding this privacy statement, the practices of our website, or your dealings with us, please contact the Webmaster at info@apttus.com, or by calling us at (650) 445-7700.
 
 **Information We Collect and How it is Used, and Purposes for Collecting of Information**
 
