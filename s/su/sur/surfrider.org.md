@@ -1,18 +1,15 @@
-> *The following text is extracted and transformed from the surfrider.org privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629041541id_/http%3A//www.surfrider.org/pages/surfrider-foundation-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the surfrider.org privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208141626id_/http%3A//www.surfrider.org/pages/surfrider-foundation-privacy-policy) for the most accurate reproduction.*
 
-# Surfrider Foundation Privacy Policy | Surfrider Foundation
+# Surfrider Foundation Privacy Policy - Surfrider Foundation
 
 A FAQ about our Privacy Policy is available [here.](http://www.surfrider.org/pages/privacy-policy-faqs)
 
 Welcome to www.surfrider.org (the “ **Site** ”), a website operated by the Surfrider Foundation (“ **Surfrider** ”, “ **we** ”, “ **us** ”, or “ **our** ”). We are a non-profit grassroots organization dedicated to the protection and enjoyment of the world’s oceans, waves and beaches. We provide our users (collectively, “ **you** ” or “ **your** ”) with resources and information about our organization and our cause, as well as a number of related services (collectively, the “ **Services** ”). We know you are concerned about your privacy, so we developed this privacy policy (“ **Privacy Policy** ”) to explain how we collect, use, and disclose information from and/or about you, whether you are simply visiting our Site or whether you are a member of our organization.
 
-  
 YOUR PERSONAL INFORMATION MAY BE PROCESSED BY US IN THE COUNTRY WHERE IT WAS COLLECTED AS WELL AS OTHER COUNTRIES (INCLUDING THE UNITED STATES) WHERE LAWS REGARDING PROCESSING OF PERSONAL INFORMATION MAY BE LESS STRINGENT THAN THE LAWS IN YOUR COUNTRY. BY USING THIS SITE AND PROVIDING ANY PERSONAL INFORMATION, YOU ARE CONSENTING TO THE TRANSFER OF DATA FROM YOUR COUNTRY TO A COUNTRY THAT HAS LESS STRINGENT LAWS, AND THE PROCESSING OF YOUR PERSONAL INFORMATION IN CONFORMANCE WITH THIS POLICY.
 
-  
 So we are clear about the terminology we are using, when we use the phrase “ **Personal Information** ” in this Privacy Policy, we mean contact information (e.g., name, address, email address, or telephone number) and any other non-public information that is used or intended to be used to personally identify an individual. When we use the phrase “ **Anonymous Information** ” in this Privacy Policy, we mean information that is neither used nor intended to be used to personally identify an individual.
 
-  
 **How We Collect Information.**  
 _Personal Information_  
 In general, the Personal Information we gather enables us to provide the Services to you and helps us learn more about the use of the Site and/or Services. We collect Personal Information that you or someone else submits to us voluntarily through the Site or the Services. If you are a member of our organization (“ **Member** ’), paying for a Member’s annual dues, or making a donation to Surfrider, we may also collect Personal Information offline. One type of Personal Information we collect is “ **Payment Information** ”, which means the information necessary to process a payment from you, including the following: (i) your name as it appears on the card, (ii) the credit card type (VISA, MasterCard, American Express or any other issuer then accepted by Surfrider), (iii) a valid credit card number; (iv) the date of expiration of your credit card, (v) your billing address, and (vi) any activation numbers or codes needed to charge your card.
@@ -23,7 +20,6 @@ If you become a Member, we will need to collect additional Personal Information 
 
 If you wish to donate to Surfrider, we will collect your Payment Information for such donation.
 
-  
 One of the Services we provide is our application on through http://www.facebook.com (“ **Facebook** ”), through which you may make certain Personal Information available to us. You do not need to be a Member to use this application. You may restrict and edit the Personal Information that you make available to us by editing your privacy settings on Facebook. We do not collect or record any Personal Information through Facebook unless you expressly request us to do so to provide you certain Services (e.g., requesting Membership information or a newsletter subscription). We may collect the information about your use of the application on Facebook or that you otherwise make available, however, in anonymized manner such that your identity cannot be ascertained from such information. For example, we may record that a user “liked” content or the number of photos tagged by a user, but we will not record that you liked that content or that you tagged certain photos. We will consider this aggregated and anonymous information collected from Facebook as “ **Anonymous Information** ”.
 
 _Anonymous Information_  
