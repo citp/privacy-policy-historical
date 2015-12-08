@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eastoftheweb.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607200529id_/http%3A//www.eastoftheweb.com/short-stories/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eastoftheweb.com privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208154536id_/http%3A//www.eastoftheweb.com/short-stories/privacy.shtml) for the most accurate reproduction.*
 
 # Short Story Privacy Policy
 
