@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the netizenbuzz.blogspot.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315154354id_/http%3A//netizenbuzz.blogspot.com/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netizenbuzz.blogspot.com privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208010503id_/http%3A//netizenbuzz.blogspot.com/p/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy ~ Netizen Buzz
 
@@ -55,10 +55,10 @@ Disclosure of Personally Identifiable Information to comply with law. We will di
 All of our employees are familiar with our security policy and practices. The Personally Identifiable Information of our Visitors and Authorized Customers is only accessible to a limited number of qualified employees who are given a password in order to gain access to the information. We audit our security systems and processes on a regular basis. Sensitive information, such as credit card numbers or social security numbers, is protected by encryption protocols, in place to protect information sent over the Internet. While we take commercially reasonable measures to maintain a secure site, electronic communications and databases are subject to errors, tampering and break-ins, and we cannot guarantee or warrant that such events will not take place and we will not be liable to Visitors or Authorized Customers for any such occurrences. 
 
 **How can Visitors correct any inaccuracies in Personally Identifiable Information?**  
-Visitors and Authorized Customers may contact us to update Personally Identifiable Information about them or to correct any inaccuracies by emailing us at [netizenbuzz@gmail.com](mailto:netizenbuzz@gmail.com)
+Visitors and Authorized Customers may contact us to update Personally Identifiable Information about them or to correct any inaccuracies by emailing us at contact@netizenbuzz.net 
 
 **Can a Visitor delete or deactivate Personally Identifiable Information collected by the Site?**  
-We provide Visitors and Authorized Customers with a mechanism to delete/deactivate Personally Identifiable Information from the Site's database by contacting [netizenbuzz@gmail.com](mailto:netizenbuzz@gmail.com). However, because of backups and records of deletions, it may be impossible to delete a Visitor's entry without retaining some residual information. An individual who requests to have Personally Identifiable Information deactivated will have this information functionally deleted, and we will not sell, transfer, or use Personally Identifiable Information relating to that individual in any way moving forward. 
+We provide Visitors and Authorized Customers with a mechanism to delete/deactivate Personally Identifiable Information from the Site's database by contacting [contact@netizenbuzz.net](mailto:netizenbuzz@gmail.com). However, because of backups and records of deletions, it may be impossible to delete a Visitor's entry without retaining some residual information. An individual who requests to have Personally Identifiable Information deactivated will have this information functionally deleted, and we will not sell, transfer, or use Personally Identifiable Information relating to that individual in any way moving forward. 
 
 **What happens if the Privacy Policy Changes?**  
 We will let our Visitors and Authorized Customers know about changes to our privacy policy by posting such changes on the Site. However, if we are changing our privacy policy in a manner that might cause disclosure of Personally Identifiable Information that a Visitor or Authorized Customer has previously requested not be disclosed, we will contact such Visitor or Authorized Customer to allow such Visitor or Authorized Customer to prevent such disclosure. 
@@ -68,4 +68,4 @@ This web site contains links to other web sites. Please note that when you click
 
 
 © 2012 **www.netizenbuzz.blogspot.com** , All rights reserved.  
-Unauthorized duplication or publication of any materials from this Site is expressly prohibited
+Unauthorized duplication or publication of any materials from this Site is expressly prohibited 
