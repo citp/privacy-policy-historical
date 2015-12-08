@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hsibaltimore.com privacy policy that was archived on 2015-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150617071542id_/http%3A//hsionline.com/privacy-policy-disclaimer) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hsibaltimore.com privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208082926id_/http%3A//hsionline.com/privacy-policy-disclaimer) for the most accurate reproduction.*
 
 # Privacy Policy/Disclaimer
 
@@ -27,5 +27,3 @@ We have implemented Google Analytics features based on Display Advertising (Goog
 We require that all e-mails promoting hsionline.com or its products are sent only to clients who have agreed to receive such messages. We prohibit any advertising of our brand and Web site using unsolicited email messages. Not complying with this policy will cause partnership termination and/or affiliate account termination. If you feel you’ve been sent unsolicited emails promoting our brand or website and would like to register a complaint, please email our abuse department (abuse@hsionline.com). We will immediately investigate all allegations made related to unsolicited messages.
 
 For any other questions or concerns, please call us at 800-494-6670 (outside of the US, call 443-353-4163), or email us at customerservice@hsionline.com.
-
-Health Disclaimer! The information provided on this site should not be construed as personal medical advice or instruction. No action should be taken based solely on the contents of this site. Readers should consult appropriate health professionals on any matter relating to their health and well-being. The information and opinions provided here are believed to be accurate and sound, based on the best judgment available to the authors, but readers who fail to consult appropriate health authorities assume the risk of any injuries. The publisher is not responsible for errors or omissions.
