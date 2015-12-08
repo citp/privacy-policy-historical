@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thecolorrun.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610022427id_/https%3A//thecolorrun.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thecolorrun.com privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208180209id_/http%3A//thecolorrun.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - The Color Run™ - The Happiest 5K On The Planet!
 
