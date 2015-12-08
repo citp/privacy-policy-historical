@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the quizclothing.co.uk privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609214353id_/http%3A//www.quizclothing.co.uk/privacy-and-cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quizclothing.co.uk privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208164448id_/http%3A//www.quizclothing.co.uk/privacy-and-cookies) for the most accurate reproduction.*
 
 # Privacy and Cookies
 
