@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the beautyfrizz.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607172509id_/http%3A//www.beautyfrizz.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beautyfrizz.com privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208032459id_/http%3A//www.beautyfrizz.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Beauty Tips, Hair Care & Vine Vera
+# Privacy Policy | Beauty Tips, Hair Care
 
 This privacy policy sets out how WEBSITE ([ **BeautyFrizz.com**](http://www.beautyfrizz.com/)) uses and protects any information that you give WEBSITE when you use this blog. WEBSITE is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement. WEBSITE may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from 4th of March, 2013.
 
