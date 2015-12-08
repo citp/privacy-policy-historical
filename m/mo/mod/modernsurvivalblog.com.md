@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the modernsurvivalblog.com privacy policy that was archived on 2015-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150622220420id_/http%3A//modernsurvivalblog.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the modernsurvivalblog.com privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208203935id_/http%3A//modernsurvivalblog.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
