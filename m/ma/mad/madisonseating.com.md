@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the madisonseating.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610010127id_/http%3A//www.madisonseating.com/security-and-privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the madisonseating.com privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208112454id_/http%3A//www.madisonseating.com/security-and-privacy.html) for the most accurate reproduction.*
 
 # Security & Privacy at MadisonSeating.com
 
