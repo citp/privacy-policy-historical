@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the getyourfixtures.com privacy policy that was archived on 2015-01-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150103064535id_/http%3A//www.getyourfixtures.com/privacystatement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getyourfixtures.com privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208205525id_/http%3A//www.getyourfixtures.com/us/privacystatement) for the most accurate reproduction.*
 
 # GetYourFixtures.com :: Sports on TV - Football on TV - Soccer on TV - Streams and more - Wiziwig
 
@@ -23,9 +23,7 @@ In this statement the following terms are defined as stated below:
 We use cookies and log files that allow us to collect important information about the use of the service. A cookie is a small data file that a web server sends to your browser, which then saves this file on your computer's hard disk. We use the information collected from the cookie to analyse use patterns and users characteristics, for system administration, to compile statistics on visitor activity and preferences and to produce reporting used for internal statistics that we use to improve our online services. Cookies are stored on your PC until you delete them. If you do not accept our use of cookies, you can set your browser to reject them. These details are not connected to any personal information and cannot lead to establishing your identity.
 
  **Opt-in**  
-Our website's features are "opt-in," meaning that users can decide whether to subscribe to our newsletters, special offers and other information on new opportunities, events and services. You will not receive e-mail marketing offers from us until you give us your permission to send them to you. If at any time you no longer wish to receive information in a particular area and wish to be deleted from a mailing list, send an e-mail to [[email protected]](https://web.archive.org/web/20150103064535id_/http%3A//cdn-cgi/l/email-protection) /* 
-
-*/ with the subject line "unsubscribe."
+Our website's features are "opt-in," meaning that users can decide whether to subscribe to our newsletters, special offers and other information on new opportunities, events and services. You will not receive e-mail marketing offers from us until you give us your permission to send them to you. If at any time you no longer wish to receive information in a particular area and wish to be deleted from a mailing list, send an e-mail to [[email protected]](https://web.archive.org/web/20151208205525id_/http%3A//www.getyourfixtures.com/cdn-cgi/l/email-protection) /* */ with the subject line "unsubscribe."
 
  **Information to third parties**  
 Your information will never be provided to any external parties unless you explicitly give permission for us to provide it or unless we are obliged by law to do so.
