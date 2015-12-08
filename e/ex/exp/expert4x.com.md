@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the expert4x.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607184412id_/http%3A//expert4x.com/expert4x-website-privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the expert4x.com privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208010133id_/http%3A//expert4x.com/expert4x-website-privacy-statement) for the most accurate reproduction.*
 
 # Expert4x: Website Privacy Statement |
 
