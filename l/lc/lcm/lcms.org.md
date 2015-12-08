@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lcms.org privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628225347id_/http%3A//www.lcms.org/page.aspx%3Fpid%3D193) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lcms.org privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208021801id_/http%3A//www.lcms.org/page.aspx%3Fpid%3D193) for the most accurate reproduction.*
 
 # Home - The Lutheran Church—Missouri Synod
 
@@ -30,12 +30,12 @@ Although we may provide aggregate data for the purposes of reporting and/or comp
 
 Throughout our web pages, we provide links to other sites that may contain information of interest to visitors and members of The Lutheran Church—Missouri Synod online community. We take no responsibility for, and exercise no control over, the organizations, views, or accuracy of the information contained on other servers.
 
-Creating a text link from your website to our site does not require permission. If you have a link you would like us to consider adding to our site, please send an email to [webservant@lcms.org](mailto:webservant@lcms.org) with the subject "Link Suggestion."
+Creating a text link from your website to our site does not require permission. If you have a link you would like us to consider adding to our site, please send an email to  [infocenter@lcms.org](mailto:infocenter@lcms.org) with the subject "Link Suggestion."
 
 ## Use of text and images
 
-If you would like to publish information you find on our site, please ask permission by sending your request to [webservant@lcms.org](mailto:webservant@lcms.org). A copyright statement appears at the bottom of pages where text or images are posted on our site with the permission of the original copyright holder. Information about using The Lutheran Church—Missouri Synod logo and images is available upon request.
+If you would like to publish information you find on our site, please ask permission by sending your request to [infocenter@lcms.org](mailto:infocenter@lcms.org). A copyright statement appears at the bottom of pages where text or images are posted on our site with the permission of the original copyright holder. Information about using The Lutheran Church—Missouri Synod logo and images is available upon request.
 
 ## For more information
 
-If you have any questions or concerns about this privacy policy, please contact us at [privacy@lcms.org](mailto:privacy@lcms.org).
+If you have any questions or concerns about this privacy policy, please contact us at [infocenter@lcms.org](mailto:infocenter@lcms.org).
