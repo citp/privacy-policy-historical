@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the aeroforceone.com privacy policy that was archived on 2014-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141219061644id_/https%3A//www.aerosmith.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aeroforceone.com privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208224124id_/http%3A//www.aerosmith.com/privacy) for the most accurate reproduction.*
 
-# Official Aerosmith Website :: Privacy Policy
+# Aerosmith | Privacy Policy
 
-**This web site is powered by products and services from BubbleUp Ltd. (BubbleUp). BubbleUp's privacy policy is below.**
+**This web site is powered by products and services from BubbleUp LLC. (BubbleUp). BubbleUp's privacy policy is below.**
 
 **Privacy Statement for BubbleUp.**
 
