@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the nowtv.com privacy policy that was archived on 2015-06-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150607140918id_/http%3A//watch.nowtv.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the nowtv.com privacy policy that was archived on 2015-12-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151208163657id_/http%3A//watch.nowtv.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html id="ng-app" ng-app="nowtv" ng-controller="AppCtrl" class="no-js" lang="en" data-version="2"><!--<![endif]--><head>
     <title>Privacy &amp; Cookies | NOW TV</title>
@@ -29,8 +29,13 @@ var NOWTV = NOWTV || {};
   "clientUrl": "http://client.nowtv.com",
   "proxyClientUrl": "/proxy/client",
   "secureServerURL": "https://watch.nowtv.com",
-  "secureSignupURL": "https://signup.nowtv.com",
+  "secureSignupURL": "https://signup.nowtv.com/identity",
+  "searchServiceUrl": "https://search.nowtv.com",
+  "personalisationUrl": "https://my.nowtv.com",
+  "marlinURL": "https://signup.nowtv.com/identity",
   "cmsUrls": {
+    "home": "http://www.nowtv.com",
+    "geo": "http://www.nowtv.com/geo",
     "sports": "http://www.nowtv.com/sports",
     "movies": "http://www.nowtv.com/movies",
     "entertainment": "http://www.nowtv.com/entertainment",
@@ -39,7 +44,7 @@ var NOWTV = NOWTV || {};
   },
   "epg": {
     "domain": "nowtv.com",
-    "frameSrc": "http://tvguide.nowtv.com/embedded-guide?channelList=1314,1301,1302,1333,1322,1303,1306&domain=nowtv.com&externalCss=http://watch.nowtv.com/assets/listings-cd7976778a4965024dd19e427d8f7086.css&externalJs=http://watch.nowtv.com/assets/epgOverrides-95edbc8013d9eb0771c29262e161ac25.js",
+    "frameSrc": "http://tvguide.nowtv.com/embedded-guide?channelList=1314,1301,1302,1333,1322,1303,1306&domain=nowtv.com&externalCss=http://watch.nowtv.com/listings.css&externalJs=http://watch.nowtv.com/assets/epgOverrides-95edbc8013d9eb0771c29262e161ac25.js",
     "imageServerURL": "http://epgstatic.sky.com/epgdata/1.0/paimage/81/0/",
     "defaultChannel": "1314"
   },
@@ -76,23 +81,35 @@ var NOWTV = NOWTV || {};
     "entsChannels": "http://watch.nowtv.com/entertainment/channels",
     "entsLiveTv": "http://watch.nowtv.com/entertainment/livetv",
     "entertainmentExplorer": "http://watch.nowtv.com/entertainment/explorer",
-    "myTv": "http://watch.nowtv.com/mytv",
-    "help": "http://watch.nowtv.com/help",
+    "myTv": "http://watch.nowtv.com/mytv/viewing-history",
     "community": "http://watch.nowtv.com/community",
     "myAccount": "https://watch.nowtv.com/account",
     "terms": "http://watch.nowtv.com/terms",
     "blog": "http://watch.nowtv.com/blog",
     "nowTvBoxLink": "http://shop.nowtv.com",
-    "almostDone": "https://watch.nowtv.com/setup/almostdone"
+    "almostDone": "https://watch.nowtv.com/setup/almostdone",
+    "watch": "http://watch.nowtv.com/",
+    "accountDetails": "https://account.nowtv.com/account-details",
+    "myPasses": "https://account.nowtv.com/passes",
+    "manageDevices": "https://account.nowtv.com/device-management",
+    "paymentPin": "https://account.nowtv.com/payment-pin",
+    "parentalPin": "https://account.nowtv.com/parental-pin",
+    "updateCardDetails": "http://watch.nowtv.com/account/cardDetails",
+    "purchaseHistory": "http://watch.nowtv.com/account/orderHistory",
+    "inviteAFriend": "https://account.nowtv.com/invite-a-friend",
+    "signOut": "https://skyid.sky.com/signout/nowtv?successUrl=http://nowtv.com/signout",
+    "helpCentre": "http://help.nowtv.com/",
+    "askCommunity": "http://community.nowtv.com/"
   },
   "features": {
-    "nowTvBoxLink": true
+    "nowTvBoxLink": true,
+    "marlin": true
   },
   "player": {
-    "version": "2.0.5415.41605",
+    "version": "2.1.5792.27600",
     "domain": ".nowtv.com",
-    "playerXap": "/xap/2.0.5415.41605/player.xap",
-    "miniClientExtensionXap": "/xap/2.0.5415.41605/MiniClientExtension.xap",
+    "playerXap": "/xap/2.1.5792.27600/player.xap",
+    "miniClientExtensionXap": "/xap/2.1.5792.27600/MiniClientExtension.xap",
     "convivaConfigEnabled": false
   },
   "channelColours": "",
@@ -109,12 +126,7 @@ var NOWTV = NOWTV || {};
     "url": "https://mockserver.localhost.nowtv.bskyb.com:8091",
     "token": "CA34DD18977C42438D20C4D7DD58B0BB"
   },
-  "date": {
-    "current": {
-      "month": 6,
-      "year": 2015
-    }
-  }
+  "clientId": "web secret-web 1.136.0"
 };
 })(NOWTV);
                
@@ -133,8 +145,8 @@ var NOWTV = NOWTV || {};
 <script src="//d3c3cq33003psk.cloudfront.net/opentag-95091-1126102.js" async="" defer="" type="text/javascript"></script>
 <script src="//web.static.nowtv.com/ice/3.0.4/js/iceberg.widget.bundle.js"></script>
 
-    <script src="/assets/base-head-e93dcf723af1f8a5c73eb8a4ab953761.js" type="text/javascript"></script>
-    <link rel="stylesheet" href="/assets/screen-1b31dbe0f3773c7890be21924f3e2fab.css">
+    <script src="/assets/base-head-5839fab7d93555ac49cb6aa171d44f6c.js" type="text/javascript"></script>
+    <link rel="stylesheet" href="/screen.css" type="text/css">
 
     <script>
         (function(ntv) {
@@ -199,10 +211,13 @@ ntv.session = ntv.session || {};
     <script type="text/ng-template" id="partials/searchSuggestions.html"><div data-t-search>
     <input class="search-input_resizeable" ng-class="{ 'is-focused': inputHasFocus }" ng-model="query" name="query" ng-keydown="keydown($event)" data-search-query />
     <ul class="l-list-stacked search-suggest" data-search-suggest ng-mouseenter="setSuggestionsInUse(true)" ng-mouseleave="setSuggestionsInUse(false)">
-        <li class="search-suggest-item" ng-class="{ 'is-selected': suggestion.isSelected }"
-            ng-repeat="suggestion in suggestions"
-            ng-click="selectSuggest(suggestion)"
-            ng-bind-html="suggestion.getTitle() | suggestion:query" ng-mouseover="selectSuggestion(suggestion)" data-t-search-suggest-item></li>
+        <li ng-repeat="suggestion in suggestions"
+            ng-class="{ 'is-selected': suggestion.isSelected }"
+            ng-mouseover="selectSuggestion(suggestion)"
+            class="search-suggest-item"
+            data-t-search-suggest-item>
+            <a ng-bind-html="suggestion.getTitle() | suggestion:query" ng-href="{{ getSuggestionUrl(suggestion) }}"></a>
+        </li>
     </ul>
 </div></script>
     <script type="text/ng-template" id="partials/navigationMenu.html"><nav class="l-leftcolumn nav" data-nav-target ng-mouseenter="show($event)" ng-mouseleave="hide($event)" ng-class="{ 'is-open': open }">
@@ -227,16 +242,73 @@ ntv.session = ntv.session || {};
         </li>
     </ul>
 </li></script>
-    <script type="text/ng-template" id="partials/globalUserMenu.html"><nav id="userMenu" class="l-rightbar menubar-statenav" data-t-user-menu>
-    <ul class="l-list-inline">
-        <li class="menu-bar-search">
+    <script type="text/ng-template" id="partials/navigation/navigationDropDown.html"><div class="navigation-dropDown" ng-class="getVisibilityStyleClasses()">
+    <div class="navigation-dropDown-mask" data-t-dropDown-mask></div>
+    <data-ng-include data-src="templateUrl" data-dropDown-content></data-ng-include>
+</div></script>
+    <script type="text/ng-template" id="partials/navigation/navigationDropDownMyAccount.html"><ul class="accountMenu" data-dropDown-account>
+    <li>
+        <a ng-href="{{::getUrlFromConfig('urls.watch')}}" class="accountMenu-link" data-page-watch="">Watch NOW TV</a>
+    </li>
+    <li>
+        <a ng-href="{{::getUrlFromConfig('urls.accountDetails')}}" class="accountMenu-link" data-page-account_details="">My account details</a>
+    </li>
+    <li>
+        <a ng-href="{{::getUrlFromConfig('urls.myPasses')}}" class="accountMenu-link" data-page-passes="">My passes</a>
+    </li>
+    <li>
+        <a ng-href="{{::getUrlFromConfig('urls.manageDevices')}}" class="accountMenu-link" data-page-device_management="">Manage devices</a>
+    </li>
+    <li>
+        <a ng-href="{{::getUrlFromConfig('urls.paymentPin')}}" class="accountMenu-link" data-page-payment_pin="">Payment PIN</a>
+    </li>
+    <li>
+        <a ng-href="{{::getUrlFromConfig('urls.parentalPin')}}" class="accountMenu-link" data-page-parental_pin="">Parental PIN</a>
+    </li>
+    <li>
+        <a ng-href="{{::getUrlFromConfig('urls.updateCardDetails')}}" class="accountMenu-link" data-page-card_details="">Update card details</a>
+    </li>
+    <li>
+        <a ng-href="{{::getUrlFromConfig('urls.purchaseHistory')}}" class="accountMenu-link" data-page-purchase="">Purchase history</a>
+    </li>
+    <li>
+        <a ng-href="{{::getUrlFromConfig('urls.inviteAFriend')}}" class="accountMenu-link" data-page-invite_a_friend="">Invite a friend</a>
+    </li>
+    <div class="accountMenu-skyid" data-skyid="">
+        <a ng-href="{{::getUrlFromConfig('skyId.signOut')}}" class="accountMenu-button" data-skyid-button="">Sign out</a>
+    </div>
+</ul></script>
+    <script type="text/ng-template" id="partials/navigation/navigationDropDownHelp.html"><ul class="helpMenu" role="menubar" data-dropDown-help>
+    <li role="menuitem">
+        <a ng-href="{{::getUrlFromConfig('urls.helpCentre')}}" class="helpMenu-link" data-page-help_centre="">Help Centre</a>
+    </li>
+    <li role="menuitem">
+        <a ng-href="{{::getUrlFromConfig('urls.askCommunity')}}" class="helpMenu-link" data-page-community="">Ask the Community</a>
+    </li>
+</ul></script>
+    <script type="text/ng-template" id="partials/globalUserMenu.html"><nav id="userMenu" class="l-rightbar menubar-statenav" ng-class="getAuthenticathedUserStyleClass()" data-t-user-menu>
+    <ul class="l-list-inline menubar-statenav-list">
+        <li class="userMenu-item menu-bar-search">
             <div ntv-search-suggest></div>
-        </li><li
-            ><a ng-show="!customer.isAuthenticated()" ng-href="{{signInUrl()}}" data-t-sign-in>{{titles.signIn}}</a></li><li
-            ><a ng-show="customer.hasWallet()" ng-href="{{urls.myAccount}}" data-t-account ng-class="{'is-active': myAccount }">{{titles.myAccount}}</a></li><li
-            ><a ng-show="customer.isAuthenticated()" ng-href="{{urls.signOut}}" data-t-sign-out>{{titles.signOut}}</a></li><li
-            ><a ng-href="{{urls.help}}" data-t-help>{{titles.help}}</a></li>
+        </li><li class="menubar-statenav-list-item">
+            <a class="menubar-statenav-link" ng-show="customer.hasWallet()" ng-href="#"
+               ng-click="toggleMyAccountNavigationDropDown($event)" data-t-account
+               ng-class="{'is-active': myAccount }">{{titles.myAccount}}</a>
+        </li><li class="menubar-statenav-list-item">
+            <a class="menubar-statenav-link" ng-click="toggleHelpNavigationDropDown($event)"  data-t-help>{{titles.help}}</a>
+        </li><li class="menubar-statenav-list-item">
+            <a class="menubar-statenav-link" ng-show="!customer.isAuthenticated()" ng-href="{{signInUrl()}}" data-t-sign-in>{{titles.signIn}}</a>
+        </li><li class="menubar-statenav-list-item">
+            <a class="menubar-statenav-link" ng-show="customer.isAuthenticated()" ng-href="{{signOutUrl()}}" data-t-sign-out>{{titles.signOut}}</a>
+        </li>
     </ul>
+    <data-ntv-navigation-drop-down data-template-url="partials/navigation/navigationDropDownMyAccount.html"
+                                   data-ng-show="customer.hasWallet()"
+                                   data-is-visible="isMyAccountNavigationDropDownVisible"
+                                   data-t-dropDown="my-account"></data-ntv-navigation-drop-down>
+    <data-ntv-navigation-drop-down data-template-url="partials/navigation/navigationDropDownHelp.html"
+                                   data-is-visible="isHelpNavigationDropDownVisible"
+                                   data-t-dropDown="help"></data-ntv-navigation-drop-down>
 </nav></script>
     <script type="text/ng-template" id="partials/overlay.html"><div ng-show="show">
     <div class="l-curtain overlay-shim" data-t-overlay-shim>
@@ -307,7 +379,7 @@ ntv.session = ntv.session || {};
         <img class="poster-img_landscape" ntv-lazy-load="{{ show.getStillImageUrl(carousel.getImageSize()) }}" src="/assets/still-trans.png" alt="{{ show.getTitle() }}" data-t-poster-img data-popover-image />
         <img class="branding_overlay" ng-src="{{ show.getLogoUrl() }}" alt="Channel logo for {{ show.getChannel() }}" data-t-channel-logo />
     </div>
-    <span class="poster-name" ng-href="{{ show.getContentUrl() }}" data-t-item-title>
+    <span class="poster-name" ng-href="{{ show.getContentUrl() }}" data-t-item-title data-t-title>
         {{ show.getTitle() | ellipsis:60 }}
     </span>
 </a></script>
@@ -524,7 +596,7 @@ ntv.session = ntv.session || {};
 
                     <h3 class="all-caps">Contacting Sky</h3>
 
-                 <p>Any queries or comments about this privacy notice or for requests of copies of the information we hold about you should be sent to <a href="mailto:dpoffice@sky.uk">dpoffice@sky.uk</a> or to Customer Relations, Sky Subscriber Services Ltd, PO Box 43, Livingston, West Lothian, EH54 7DD, UK. or to Customer Relations, Sky Subscriber Services Limited, One Burlington Plaza, Burlington Plaza, Dublin 4, ROI.</p>
+                 <p>Any queries or comments about this privacy notice or for requests of copies of the information we hold about you should be sent to <a href="mailto:dp.department@sky.uk">dp.department@sky.uk</a> or to Customer Relations, Sky Subscriber Services Ltd, PO Box 43, Livingston, West Lothian, EH54 7DD, UK. or to Customer Relations, Sky Subscriber Services Limited, One Burlington Plaza, Burlington Plaza, Dublin 4, ROI.</p>
 
                     <p>Please ensure you notify us of any updates, amendments and corrections to your information by contacting us online, by phone on 03442 414141 in the UK or 0818 719 819 in the ROI or through <a href="https://secure.sky.com/mysky-homepage/indexb">My Sky</a>.</p>
 
@@ -572,7 +644,21 @@ ntv.session = ntv.session || {};
                     <h5 class="footer-terms-header">The Legal bit:</h5>
                     <small>
                         <div class="footer-terms-legal">
-                            <strong>*Available on iPhone and selected Android devices.</strong><p>Comparison: Comparison of online movie subscription using top UK box office films from past 18 months. See <a href="/compare">nowtv.com/compare</a>.</p><p>Sky Movies Pass: Fees apply after Free Trial. Sky Movies Pass automatically renews at £9.99 a month unless cancelled and you can stop renewal at any time. One Free Trial per person, excludes Sky Sports Day Pass, Entertainment Month Pass or new customers who purchase a NOW TV Box Movies pack or partner package which includes a Sky Movies Pass. Live and some on demand content not available on YouView.</p><p>Sports Passes: Each Sky Sports Day Pass costs £6.99. Each Sky Sports Week Pass costs £10.99. Viewing period ends either 24 hours or 7 days after you first watch, depending on pass purchased. Passes must be redeemed within 365 days of purchase. Only one Sky Sports Pass can be added to an account at any time. Currently not available on YouView. Red button and interactive services are unavailable. Sky Sports Week Pass only currently available to purchase via nowtv.com.</p><p>Entertainment Month Pass: £6.99 a month unless cancelled and you can stop renewal at any time. Currently not available on Android devices and YouView. Not all content available on catch up or live channels. For content we cannot show on live channels see <a href="http://help.nowtv.com/article/Slating-Rights-Restrictions">nowtv.com/slating</a>. Shows only available on catch up for up to 30 days from date first shown.</p><p>NOW TV Box: Connects to TV via HDMI (cable supplied).  BBC iPlayer, Demand 5 and 4OD apps offer a wide selection of the catch up content available on the BBC/Channel 5/4OD websites. A Spotify Premium account is required to use the Spotify application on the NOW TV Box.</p><p>General: 18+. UK Only. Content streamed. Requires broadband/3G (charges may apply). Register up to four compatible devices, and watch on two at the same time. Device changes limited to one per month. Some content unavailable on live channels and/or some devices. NOW TV available on compatible Roku LT and XS boxes only. HDMI cable required for higher quality viewing. You will need to create a Roku UK account to use NOW TV with Roku. See <a href="http://community.nowtv.com/t5/NOW-TV-news-and-information/NOW-TV-Device-FAQs/td-p/51688">here</a> for device compatibility requirements. For content/device restrictions read the FAQs. Full terms of service <a href="http://www.nowtv.com/terms">here</a>. (Updated in October 2013 for Entertainment Month Pass.)</p><p>NOW TV accepts Visa and MasterCard</p>    
+                            <p>*On Mobile: Available on iPhone and selected Android devices.</p><p>More of the year's biggest blockbusters: Comparison against online movie subscription services using top 100 from UK box office films from past 12 months. See <a href="http://watch.nowtv.com/compare">nowtv.com/compare</a>.</p>
+
+<p>Sky Movies Month Pass 14 day free trial: Available to new Sky Movies Month Pass customers joining NOW TV online. Not available to previous Sky Movies Month Pass customers re-joining. When your free trial ends, Sky Movies Month Pass auto renews at its standard price (currently £9.99 a month). Or simply cancel at any time. One per person. Not available to new customers who buy a NOW TV Box Movies pack a partner pack which includes a Sky Movies Pass or with any other offer. Live and some on demand content not available on YouView.</p>
+
+<p>Entertainment Month Pass 14 day free trial: Available to new Entertainment Month Pass customers joining NOW TV online. Not available to previous Entertainment Month Pass customers re-joining. When your free trial ends, Entertainment Month Pass auto renews at its standard price (currently £6.99 a month). Or simply cancel at any time. One per person. Not available to new customers who buy a NOW TV Box Movies pack, a partner pack which includes an Entertainment Pass or with any other offer. Currently not available on YouView. Not all content available on catch up or live channels. For content we cannot show on live channels see <a href="http://help.nowtv.com/article/Slating-Rights-Restrictions">nowtv.com/slating</a>. Shows only available on catch up for up to 30 days from date first shown.</p>
+
+<p>NOW TV STACKS: New NOW TV customers only. Not available to customers who have taken a free trial. After pre-paid period, you will pay standard price for the relevant pass(es) (which renew automatically each month (currently £9.99 a month for Sky Movies Month Pass and £6.99 a month for Entertainment Month Pass), unless cancelled). You can stop renewals at any time.</p>
+
+<p>Sky Sports Day and Sky Sports Week Passes: Each Sky Sports Day Pass costs £6.99. Each Sky Sports Week Pass costs £10.99. Viewing period ends either 24 hours or 7 days after you start watching, depending on pass purchased. Passes must be redeemed within 365 days of purchase. You can only have one Sky Sports Day Pass, Sky Sports Week Pass or Sky Sports Month Pass in your account at any one time. Red button and interactive services are unavailable.†Currently not available on YouView.</p>
+
+<p>Sky Sports Month Pass: £31.99 a month unless cancelled and you can stop renewal at any time. You can only have one Sky Sports Day Pass, Sky Sports Week Pass or Sky Sports Month Pass in your account at any one time. Red button and interactive services are unavailable. †Currently not available on YouView and only available to purchase via nowtv.com.</p>
+
+<p>NOW TV Box: Connects to TV via HDMI (cable supplied).  BBC iPlayer, ITV Player, 4oD and Demand 5 apps offer a wide selection of the catch up content available on the BBC/ITV/4oD/Channel 5 websites. A Spotify Premium account is required to use the Spotify application on the NOW TV Box. Sky Store costs extra.</p>
+
+<p>General: 18+. UK Only. Content streamed. Requires broadband/3G (charges may apply). Register up to four compatible devices, and watch on two at the same time. Device changes limited to one per month. Some content unavailable on live channels and/or some devices. NOW TV available on compatible Roku LT and XS boxes only. HDMI cable required for higher quality viewing. You will need to create a Roku UK account to use NOW TV with Roku. See <a href="http://community.nowtv.com/t5/NOW-TV-news-and-information/NOW-TV-Device-FAQs/td-p/51688">here</a> for device compatibility requirements. For content/device restrictions read the <a href="http://help.nowtv.com">FAQs</a>. Full terms of service <a href="http://www.nowtv.com/terms">here</a>. Updated in October 2015.</p><p>NOW TV accepts Visa and MasterCard</p>    
                         </div>
                     </small>
                 </div>
@@ -616,7 +702,7 @@ ntv.session = ntv.session || {};
     </div>
     <hr />
     <div class="l-full-width box-content">
-        <p>We could not load your details, please refresh the page or contact customer support at <a href="/help" data-t-help-link>http://help.nowtv.com</a>.</p>
+        <p>We could not load your details, please refresh the page or contact customer support at <a href="{{help}}" data-t-help-link>http://help.nowtv.com</a>.</p>
 
         <div class="overlay-actions">
             <button class="button_overlay" data-reload>Refresh page</button>
@@ -673,9 +759,9 @@ ntv.session = ntv.session || {};
     <hr />
     <div class="l-full-width box-content">
         {{#if product.futurePrice}}
-            <p data-t-purchase-price>30 day free trial then &pound;{{product.price}} a month (until {{product.futurePrice.date}}, then &pound;{{product.futurePrice.price}} a month).</p>
+            <p data-t-purchase-price>{{freeTrialDuration}} free trial then &pound;{{product.price}} a month (until {{product.futurePrice.date}}, then &pound;{{product.futurePrice.price}} a month).</p>
         {{else}}
-            <p data-t-purchase-price>30 day free trial then &pound;{{product.price}} a month.</p>
+            <p data-t-purchase-price>{{freeTrialDuration}} free trial then &pound;{{product.price}} a month.</p>
         {{/if}}
         <p data-t-ecrd>By clicking "Pay After Trial" – and entering your PIN if you use one – you acknowledge you will lose your right to a refund should you cancel.</p>
 
@@ -686,6 +772,30 @@ ntv.session = ntv.session || {};
         </div>
 
         <p><a href="{{ termsUrl }}" target="_blank" data-t-terms-link>Terms &amp; Conditions apply</a></p>
+    </div>
+</div></script>
+    <script type="text/html" id="entertainmentSummaryFreeTrialOverlayTmpl"><div id="entertainmentFreeTrialSubscription">
+    <div class="l-full-width">
+        <h1 class="box-heading">Entertainment Month Pass</h1>
+    </div>
+    <hr />
+    <div class="l-full-width box-content">
+        {{#if product.futurePrice}}
+            <p data-t-purchase-price>{{freeTrialDuration}} free trial then &pound;{{product.price}} a month (until {{product.futurePrice.date}}, then &pound;{{product.futurePrice.price}} a month).</p>
+        {{else}}
+            <p data-t-purchase-price>{{freeTrialDuration}} free trial then &pound;{{product.price}} a month.</p>
+        {{/if}}
+        <p data-t-ecrd>By clicking "Pay After Trial" – and entering your PIN if you use one – you acknowledge you will lose your right to a refund should you cancel.</p>
+
+        <div class="overlay-actions t-entertainment">
+            <button class="button_overlay" id="cancel" title="Cancel">Cancel</button>
+            <button class="button_overlay" id="voucher" title="Apply a voucher">Apply a voucher</button>
+            <button class="button_purchase" id="confirm" title="Pay After Trial">Pay After Trial</button>
+        </div>
+
+        <p><a href="{{ termsUrl }}" target="_blank" data-t-terms-link>Terms &amp; Conditions apply</a></p>
+
+        <p>Please note: The Entertainment Month Pass is currently not available on YouView.</p>
     </div>
 </div></script>
     <script type="text/html" id="entertainmentSummaryOverlayTmpl"><div id="purchaseSubscription">
@@ -715,6 +825,32 @@ ntv.session = ntv.session || {};
         <p>Please note: The Entertainment Month Pass is currently not available on YouView.</p>
     </div>
 </div></script>
+    <script type="text/html" id="sportsSummaryOverlayTmpl"><div id="purchaseSubscription">
+    <div class="l-full-width">
+        <h1 class="box-heading">Sky Sports Month Pass</h1>
+    </div>
+    <hr />
+    <div class="l-full-width box-content">
+
+        {{#if product.futurePrice}}
+            <p>&pound;{{product.price}} a month until {{product.futurePrice.date}}, then &pound;{{product.futurePrice.price}} a month</p>
+        {{else}}
+            <p>&pound;{{product.price}} a month.</p>
+        {{/if}}
+
+    <p data-t-purchase-price>Click "Pay Now" to purchase your Sky Sports Month Pass</p>
+    <p data-t-ecrd>By clicking "Pay Now" – and entering your PIN if you use one – you acknowledge you will lose your right to a refund should you cancel</p>
+
+        <div class="overlay-actions t-sports">
+            <button class="button_overlay" id="cancel" title="Cancel">Cancel</button>
+            <button class="button_overlay" id="voucher" title="Apply a voucher">Apply a voucher</button>
+            <button class="button_purchase" id="confirm" title="Pay Now">Pay Now</button>
+        </div>
+
+        <p><a href="{{ termsUrl }}" target="_blank" data-t-terms-link>Terms &amp; Conditions apply</a></p>
+
+    </div>
+</div></script>
     <script type="text/html" id="moviesVoucherEntryTmpl"><div id="voucherEntry">
     <div class="l-full-width">
         <h1 class="box-heading">Sky Movies Pass</h1>
@@ -733,6 +869,33 @@ ntv.session = ntv.session || {};
         <div id='voucherErrorPlaceholder'></div>
 
         <div class="overlay-actions">
+            {{#if isFirst }}
+            <button class="button_overlay" id="cancel" title="Cancel">Cancel</button>
+            {{else}}
+            <button class="button_overlay" id="back" title="Back">Back</button>
+            {{/if }}
+            <button class="button_overlay" id="confirm" title="Apply voucher">Apply voucher</button>
+        </div>
+    </div>
+</div></script>
+    <script type="text/html" id="sportsVoucherEntryTmpl"><div id="voucherEntry">
+    <div class="l-full-width">
+        <h1 class="box-heading">Live Sky Sports {{name}}</h1>
+    </div>
+    <hr />
+    <div class="l-full-width box-content">
+
+        <p data-t-purchase-instructions>To use a voucher, enter it below and click "Apply Voucher".</p>
+
+        <form id="voucher">
+            <p>
+                <input type="text" name="voucherCode" id="voucherCode" placeholder="Enter a voucher code..." class="overlay-input_voucher" />
+            </p>
+        </form>
+
+        <div id='voucherErrorPlaceholder'></div>
+
+        <div class="overlay-actions day-pass">
             {{#if isFirst }}
             <button class="button_overlay" id="cancel" title="Cancel">Cancel</button>
             {{else}}
@@ -811,8 +974,8 @@ ntv.session = ntv.session || {};
 
     
 
-    <script src="/assets/base-angular-ae93bc29003d5940bc827edfb4887ebe.js" type="text/javascript"></script>
-    <script src="/assets/base-defer-21bf8fd690a09330974bc11b83f9a395.js" type="text/javascript"></script>
+    <script src="/assets/base-angular-f537dcc8e008320654fb9c380b8c11b4.js" type="text/javascript"></script>
+    <script src="/assets/base-defer-2a82ad95acbd947494ffcae6e7c95d49.js" type="text/javascript"></script>
     
     
         <script src="//cdn.optimizely.com/js/562540257.js"></script>
