@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the bestcolleges.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609065144id_/http%3A//www.bestcolleges.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bestcolleges.com privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208185032id_/http%3A//www.bestcolleges.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Best Colleges
-
-BestColleges.com’s privacy statement explains how information provided by you on BestColleges.com is compiled and used by us.
+# Privacy Policy | BestColleges.com
 
 ## PERSONAL INFORMATION COMPILATION AND UTILIZATION
 
