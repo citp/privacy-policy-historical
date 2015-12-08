@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the parse.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623203923id_/https%3A//parse.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the parse.com privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208035549id_/https%3A//parse.com/about/privacy) for the most accurate reproduction.*
 
 # Policies - Privacy | Parse
 
-Last Updated: 8/27/13
+Last Updated: 7/13/2015
 
 ## 1\. Web Site Covered
 
@@ -12,19 +12,17 @@ This Privacy Statement covers the information practices of http://parse.com.
 
 Parse offers a variety of services that are collectively referred to as the “Services.” Parse collects information from individuals who visit the Company’s Web site (“Visitors”) and individuals who register to use the Services (“Customers”).
 
-When expressing an interest in obtaining additional information about the Services or registering to use the Services, Parse requires you to provide the Company with personal contact information, such as name, company name, address, phone number, and email address (“Required Contact Information”). When purchasing the Services, Parse requires you to provide the Company with financial qualification and billing information, such as billing name and address, credit card number, and the number of employees within the organization that will be using the Services (“Billing Information”). Parse may also ask you to provide additional information, such as company annual revenues, number of employees, or industry (“Optional Information”). Required Contact Information, Billing Information, and Optional Information are referred to collectively as “Data About Parse Customers.”
+When expressing an interest in obtaining additional information about the Services or registering to use the Services, Parse requires you to provide the Company with personal contact information, such as name, company name, address, phone number, and email address (“Required Contact Information”). When purchasing the Services, Parse requires you to provide the Company with financial qualification and billing information, such as billing name and address, credit card number, and the number of employees within the organization that will be using the Services (“Billing Information”). Parse may also ask you to provide additional information, such as company annual revenues, number of employees, or industry, or you may choose to provide information about the end users of your application (“Optional Information”). Required Contact Information, Billing Information, and Optional Information, are referred to collectively as “Data About Parse Customers.”
 
 As you navigate the Company’s Web site, Parse may also collect information through the use of commonly-used information-gathering tools, such as cookies and Web beacons (“Web Site Navigational Information”). Web Site Navigational Information includes standard information from your Web browser (such as browser type and browser language), your Internet Protocol (“IP”) address, and the actions you take on the Company’s Web site (such as the Web pages viewed and the links clicked).
 
 ## 3\. Use of Information Collected
 
-The Company uses Data About Parse Customers to perform the services requested. For example, if you fill out a “Contact Me” Web form, the Company will use the information provided to contact you about your interest in the Services.
+The Company uses Data About Parse Customers to perform and support the services. For example, if you fill out a “Contact Me” Web form, the Company will use the information provided to contact you about your interest in the Services.
 
 The Company may also use Data About Parse Customers for marketing purposes. For example, the Company may use information you provide to contact you to further discuss your interest in the Services and to send you information regarding the Company and its partners, such as information about promotions or events.
 
-Parse uses credit card information solely to check the financial qualifications of prospective Customers and to collect payment for the Services.
-
-Parse uses Web Site Navigational Information to operate and improve the Company’s Web site. The Company may also use Web Site Navigational Information alone or in combination with Data About Parse Customers to provide personalized information about the Company.
+Parse uses credit card information solely to check the financial qualifications of prospective Customers and to collect payment for the Services. Parse uses Web Site Navigational Information to operate and improve the Company’s Web site. The Company may also use Web Site Navigational Information alone or in combination with Data About Parse Customers to provide personalized information about the Company.
 
 ## 4\. Web Site Navigational Information
 
@@ -60,7 +58,7 @@ Parse may post a list of Customers and testimonials on the Company’s Web site 
 
 ## 6\. Sharing of Information Collected
 
-Parse may share Data About Parse Customers with the Company’s service providers so that these service providers can contact Customers and Visitors who have provided contact information on our behalf. Parse may also share Data About Parse Customers with the Company’s service providers to ensure the quality of information provided. Unless described in this privacy statement, Parse does not share, sell, rent, or trade any information provided with third parties for their promotional purposes.
+Parse may share Data About Parse Customers with the Company’s service providers, vendors and other partners so that they can support the services you use and contact Customers and Visitors who have provided contact information on our behalf. Parse may also share Data About Parse Customers with the Company’s service providers, vendors and other partners to ensure the quality of information provided. Unless described in this privacy statement, Parse does not share, sell, rent, or trade any information provided with third parties for their promotional purposes.
 
 From time to time, Parse may partner with other companies to jointly offer products or services. If you purchase or specifically express interest in a jointly-offered product or service from Parse, the Company may share Data About Parse Customers collected in connection with your purchase or expression of interest with our joint promotion partner(s). Parse does not control our business partners’ use of the Data About Parse Customers we collect, and their use of the information will be in accordance with their own privacy policies. If you do not wish for your information to be shared in this manner, you may opt not to purchase or specifically express interest in a jointly offered product or service.
 
@@ -71,6 +69,10 @@ Parse reserves the right to use or disclose information provided if required by 
 ## 7\. International Transfer of Information Collected
 
 To facilitate Parse’s global operations, the Company may transfer and access Data About Parse Customers from around the world, including the United States. This Privacy Statement shall apply even if Parse transfers Data About Parse Customers to other countries.
+
+Parse complies with the US-EU and US-Swiss Safe Harbor frameworks for the collection, use and retention of information from the European Union member countries and Switzerland, as set out by the Department of Commerce. To view our certification, visit the [Safe Harbor website](https://safeharbor.export.gov/list.aspx). Contact us if you have questions regarding our Safe Harbor compliance.
+
+As part of our participation in the Safe Harbor program, we agree to resolve certain disputes you have with us in connection with our policies and practices through TRUSTe. You can contact TRUSTe through their website [here](https://feedback-form.truste.com/watchdog/request).
 
 ## 8\. Communications Preferences
 
