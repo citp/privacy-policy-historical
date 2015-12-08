@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the edfinancial.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609002614id_/https%3A//www.edfinancial.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edfinancial.com privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208045556id_/https%3A//www.edfinancial.com/Privacy) for the most accurate reproduction.*
 
 # Internet Privacy Policy - Edfinancial Services
 
@@ -14,7 +14,7 @@ Some areas of our websites may provide links to non-Edfinancial Services sites. 
 
 ##  Use of Personal Identifying Information
 
-Edfinancial Services does not collect any nonpublic personal information from visitors to our sites unless you expressly provide it to us through one of our online services. Edfinancial Services does not sell, rent or lease its customer lists to third parties. Certain processes, such as our secure [email contact form](https://www.edservicing.com/customercarequestions "email contact form"), will require that you provide your first and last name, student loan account number, date of birth, mailing address, phone number, and email address so that we may answer specific questions to assist you with your account(s). If you wish to update any of the personally identifiable information listed above, you may do so by logging into [Manage My Account](https://web.archive.org/MMA).
+Edfinancial Services does not collect any nonpublic personal information from visitors to our sites unless you expressly provide it to us through one of our online services. Edfinancial Services does not sell, rent or lease its customer lists to third parties. Certain processes, such as our secure [email contact form](https://www.edservicing.com/customercarequestions), will require that you provide your first and last name, student loan account number, date of birth, mailing address, phone number, and email address so that we may answer specific questions to assist you with your account(s). If you wish to update any of the personally identifiable information listed above, you may do so by logging into [Manage My Account](https://web.archive.org/MMA).
 
 We currently use Google Analytics to track visitors by collecting anonymous statistics with first-party cookies, small text files with a single string of anonymous text or numbers. We do not collect any personally identifiable information about website visitors using this tool. The type of information we collect includes pages visited, IP address, the type of browser you are using, the websites you visit immediately before and immediately after you visit our websites, and other anonymous data involving your use of our websites. By supplementing our records, this information helps us learn things like what pages are most attractive to our visitors. We do not link an IP address with the identity of a computer user.
 
@@ -26,7 +26,7 @@ By law, Edfinancial Services cannot collect any information from persons who are
 
 ##  Updating Personal Information
 
-You may update or modify or delete basic personal information associated with your student loan account(s) by logging into the [Manage My Account](https://web.archive.org/MMA "Manage My Account") borrower portal or by contacting us via our [email contact form](https://www.edservicing.com/customercarequestions "email contact form").
+You may update or modify or delete basic personal information associated with your student loan account(s) by logging into the [Manage My Account](https://web.archive.org/MMA) borrower portal or by contacting us via our [email contact form](https://www.edservicing.com/customercarequestions).
 
 ##  Use of Cookies
 
@@ -42,7 +42,7 @@ The security of your personal information is important to us. When you enter sen
 
 In addition to the use of SSL technology, we follow industry-accepted best practices for protecting personal information, both during transmission and at rest on our systems. While no method of communication over the Internet or electronic storage is ever 100% secure, we have gone to great lengths to protect your personal information through the use of layered firewalls, intrusion detection/protection systems, file level encryption of data while at rest and encryption of data while in transit over our network. All systems provide extensive logging and automated reporting of issues enabling timely response, interdiction and corrective actions if necessary.
 
-If you have any questions about security on our Web site, you can contact us via our [email contact form](https://www.edservicing.com/customercarequestions "email contact form").
+If you have any questions about security on our Web site, you can contact us via our [email contact form](https://www.edservicing.com/customercarequestions).
 
 ##  Changes to this Privacy Policy
 
@@ -57,7 +57,7 @@ Edfinancial Services
 120 North Seven Oaks Drive  
 Knoxville, TN 37922
 
-[email contact form](https://www.edservicing.com/customercarequestions "email contact form")
+[email contact form](https://www.edservicing.com/customercarequestions)
 
 ##  California Privacy
 
@@ -67,4 +67,4 @@ We will respond to requests made to the designated contact point and provide the
 
 If your request is made to an address, other than the one provided in this policy, the Information-Sharing Disclosure will be responded to in a "reasonable time period," no later than 150 days from receipt of the request.
 
-For more information, visit the [California Privacy homepage](http://www.privacy.ca.gov/ "California privacy").
+For more information, visit the [California Privacy homepage](http://www.privacy.ca.gov/).
