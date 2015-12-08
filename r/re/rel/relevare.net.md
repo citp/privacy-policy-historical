@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the relevare.net privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610013834id_/http%3A//relevare.net/static/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the relevare.net privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208175238id_/http%3A//relevare.net/static/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy of Relevare.net | Relevare.net - High Traffic Social Bookmarking Site
 
