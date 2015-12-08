@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the callofgods.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607183126id_/http%3A//www.callofgods.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the callofgods.com privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208011120id_/http%3A//www.callofgods.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Call of Gods
 
