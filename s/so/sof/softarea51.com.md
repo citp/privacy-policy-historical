@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the softarea51.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610022504id_/http%3A//www.softarea51.com/PrivacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the softarea51.com privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208181605id_/http%3A//www.softarea51.com/PrivacyPolicy.html) for the most accurate reproduction.*
 
 # Privacy & Policy
 
