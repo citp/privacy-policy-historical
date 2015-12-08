@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lumoslearning.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607161826id_/http%3A//lumoslearning.com/llwp/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lumoslearning.com privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208145811id_/http%3A//lumoslearning.com/llwp/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy - Lumos Learning
 
