@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bitefight.org privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609235504id_/http%3A//agbserver.gameforge.com/rewrite.php%3Fgame%3Dbitefight%26page%3Dprivacy%26lang%3Den) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bitefight.org privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208195814id_/http%3A//agbserver.gameforge.com/rewrite.php%3Fgame%3Dbitefight%26page%3Dprivacy%26lang%3Den) for the most accurate reproduction.*
 
 # Gameforge
 
