@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zingyhomes.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609225135id_/http%3A//www.zingyhomes.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zingyhomes.com privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208205532id_/http%3A//www.zingyhomes.com/privacypolicy) for the most accurate reproduction.*
 
 # Zingy Marketing Ventures Private Limited | Privacy Policy
 
@@ -23,6 +23,6 @@ We may change this policy from time to time, and if we do we'll post any changes
 **Third-Party Links and emails**  
 Our website may contain links to third-party websites, advertisers, services, special offers, or other events or activities that are not owned or controlled by us. You may receive third party emails, messages, newsletters, advertisements, pop ups etc. from time to time. You can opt-in to newsletter mailing lists, or remove yourself at any time through the newsletter subscription management page or by following the instructions at the end of the newsletters you receive. Please allow ten business days for changes to take effect. You understand that third parties and publishers may generate actions on your entries for improper purposes and you accept it. We do not endorse or assume any responsibility for any such third-party sites, information, materials, products, or services. 
 
-[](http://www.zingyhomes.com/events/zingywalks/)
+[ ](http://www.zingyhomes.com/contemporary-poufs-ottoman-wool-stool-pouf/p/)
 
-[](http://www.zingyhomes.com/zingboard/contest/)
+[ ](http://www.zingyhomes.com/recessed-model-110zml/p/)
