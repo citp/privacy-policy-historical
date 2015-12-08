@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the justwebworld.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608120056id_/http%3A//www.justwebworld.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the justwebworld.com privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209002123id_/http%3A//www.justwebworld.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Just Web World
 
 Privacy of our visitors is very important to us. We don’t share & sell any kind of private information to 3rd party while visiting our website justwebworld.com. We keep your and your family privacy in safeguard.
-
-[](http://img.justwebworld.com/2013/09/Privacy-Policy.jpg)
 
  **Routine Information Collection :-**
 
