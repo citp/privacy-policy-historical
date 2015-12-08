@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shockingmovies.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610015327id_/http%3A//shockingmovies.com/static/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shockingmovies.com privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208175652id_/http%3A//shockingmovies.com/static/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
