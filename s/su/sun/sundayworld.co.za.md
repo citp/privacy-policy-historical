@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sundayworld.co.za privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610000855id_/http%3A//www.sundayworld.co.za/%3Ffilter%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sundayworld.co.za privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208104824id_/http%3A//www.sundayworld.co.za/%3Ffilter%3Dprivacy) for the most accurate reproduction.*
 
 # 
 
