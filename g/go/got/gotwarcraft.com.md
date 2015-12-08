@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gotwarcraft.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629112832id_/http%3A//gotwarcraft.com/credits) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gotwarcraft.com privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208092102id_/http%3A//gotwarcraft.com/credits) for the most accurate reproduction.*
 
-# About Us, Credits, and Policies - GotWarcraft.com
+# About Us, Credits, and Policies | World of Warcraft Guides from GotWarcraft.com
 
 ## So who is GotWarcraft?
 
