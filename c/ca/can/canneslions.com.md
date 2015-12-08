@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the canneslions.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608215642id_/http%3A//www.canneslions.com/cannes_lions/privacy_cookies_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the canneslions.com privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208120339id_/http%3A//www.canneslions.com/cannes_lions/privacy_cookies_policy) for the most accurate reproduction.*
 
-# Cannes Lions 2015
+# Cannes Lions 2016
 
 ### 1\. Introduction
 
@@ -39,19 +39,32 @@
 ###   
 4\. Use of Your Information
 
-4.1 Lions Festivals may use your personal information (subject in each case to the requirements of the DPA) for the following purposes:  
-??(a) administering your website account(s) and otherwise in connection with any service for which you have provided your information, including any delegate pass, accommodation reservation, email alerts, transactions with us and competitions and promotions that you take part in; ?  
-(b) responding to any enquiry you make;  
-??(c) sending you newsletters and/or alerts and information regarding Lions Festivals’;   
-??(d) for generating aggregated statistics about users, traffic patterns etc of the website and other services and developing Lions Festivals' marketing plans. ??
+4.1 Lions Festivals may use your personal information (subject in each case to the requirements of the DPA) for the following purposes:
 
-4.2 Lions Festivals may also disclose your information (subject in each case to the requirements of the DPA) as follows:  
-(a) if you have given your consent for Lions Festivals to do so, to other selected organisations to enable them to contact you or send you information by post, telephone and/or email;??  
-(b) to third parties who are engaged by Lions Festivals to exercise its rights under Clause 4.1;  
-(c) to third parties selected by Lions Festivals as part of aggregated and anonymised statistics about users, traffic patterns etc of the Lions Festivals website(s);  
-(d) to such individuals and/or bodies as necessary to; ensure Lions Festivals’ compliance with any applicable law, regulation, legal proceeding or governmental request;??  
-(e) to third party providers as necessary properly to deal with your request, for example to accommodation providers where you have requested accommodation at a Festival;??  
-(f) (where you post material that does or may constitute a criminal offence, breach the rights of a third party, give rise to a civil action or breach the Terms & Conditions of the applicable website and as otherwise necessary to protect the rights, property or safety of Lions Festivals and its customers), to any relevant authority or third party requiring Lions Festivals to disclose the identity of or locate anyone posting such material on an Lions Festivals website;  
+(a) administering your website account(s) and otherwise in connection with any service for which you have provided your information, including any delegate pass, accommodation reservation, email alerts, transactions with us and competitions and promotions that you take part in;
+
+(b) responding to any enquiry you make;
+
+(c) sending you newsletters and/or alerts and information regarding Lions Festivals’;
+
+(c) Sending you important Festival information, including but not limited to, speaker announcements, programme updates and invitations to special festival events;
+
+(d) for generating aggregated statistics about users, traffic patterns etc. of the website and other services and developing Lions Festivals' marketing plans.
+
+4.2 Lions Festivals may also disclose your information (subject in each case to the requirements of the DPA) as follows:
+
+(a) if you have given your consent for Lions Festivals to do so, to other selected organisations to enable them to contact you or send you information by post, telephone and/or email;
+
+(b) to third parties who are engaged by Lions Festivals to exercise its rights under Clause 4.1;
+
+(c) to third parties selected by Lions Festivals as part of aggregated and anonymised statistics about users, traffic patterns etc. of the Lions Festivals website(s);
+
+(d) to such individuals and/or bodies as necessary to; ensure Lions Festivals’ compliance with any applicable law, regulation, legal proceeding or governmental request;
+
+(e) to third party providers as necessary to properly deal with your request, for example to accommodation providers where you have requested accommodation at a Festival;
+
+(f) (where you post material that does or may constitute a criminal offence, breach the rights of a third party, give rise to a civil action or breach the Terms & Conditions of the applicable website and as otherwise necessary to protect the rights, property or safety of Lions Festivals and its customers), to any relevant authority or third party requiring Lions Festivals to disclose the identity of or locate anyone posting such material on an Lions Festivals website;
+
 (g) to any individual making a subject information request to Lions Festivals.
 
 4.3 In the event that Lions Festivals (or a relevant part of Lions Festivals) is acquired by or merges with another company, your personal information may be passed to the purchasing/merging company amongst the transferred business assets. This will enable your relationship to continue with the relevant Lions Festivals business despite the change of ownership. Your personal information may also be passed (on a confidential basis) to companies with whom Lions Festivals is negotiating such a sale/merger as part of the verification exercise carried out on Lions Festivals by the third party.
@@ -61,7 +74,6 @@
 ###   
 5\. Cookies
 
-  
 When you visit a Lions Festivals website(s), Lions Festivals uses “cookie” technology try to make that experience simple, personalised and meaningful. Cookies are small pieces of information which are issued to your computer or any similar device you use to access the internet e.g. smart phone, tablet or other mobile device when you visit a website and which store and sometimes track information about you're use of the website. A number of cookies Lions Festivals use last only for the duration of your web session and expire when you close your browser. Other cookies are used to remember you when you return to the website and will last for longer.
 
 Lions Festivals use cookies to:
@@ -87,7 +99,7 @@ We have described the main cookies we use and what we use these for below:
 (a) Name: SESSIONTOKEN  
 Purpose: Used to remember the user for 30 days if they’ve chosen the ‘remember me’ option on login.
 
-(b) Name: CFID & CFTOKEN  
+(b) Name: CFID, CFTOKEN, JSESSIONID  
 Purpose: These are used to identify a user only during their session. They are deleted at the end of a user’s visit.
 
  **Third Party cookies:**
@@ -98,8 +110,15 @@ Purpose: These are used to track click-through and purchases from our eshots.
 (b) Name: WT_FPC  
 Purpose: WebTrends uses a cookie to track the number of unique users of this website. It tells us whether the website has a small number of regular visitors or a large number of infrequent visitors. The cookie only relates to what goes on in this website.
 
-(c) Name: __utma, __utmb, __utmc, __utmz  
+(c) Name: _ga, __utma, __utmb, __utmc, __utmt, __utmz  
 Purpose: These cookies are used to collect information about how visitors use our site by Google Analytics. We use the information to compile reports and to help us improve the site. The cookies collect information in an anonymous form, including the number of visitors to the site, where visitors have come to the site from and the pages they visited.
+
+(d) Name: cookieconsent_dismissed, cc_analytics  
+Purpose: These are used to remember that you have seen our notification about the use of cookies and whether you have dismissed the notification so that we don't show it to you again.  
+
+
+(e) NCS_*  
+Purpose: These cookies are used by our hosting provider, AWS, to keep your browsing on the same server. The cookie will expire at the end of your session.
 
 Certain cookies are either set by third parties on the Website or these are set by us using the third parties cookie code. More information about cookies placed by third parties and how to restrict or block their cookies can be accessed by following the link to their website.
 
@@ -107,7 +126,6 @@ In addition to cookies, tracking gifs may be set by us or third parties in respe
 
 ### 6\. Third Party Websites
 
-  
 Please be aware that Lions Festivals does not control and is not responsible for websites that are referred to or linked from its own websites and that use of your personal information on these websites is not subject to this Privacy and Cookies Policy.
 
 ###   
@@ -124,5 +142,4 @@ Please be aware that Lions Festivals does not control and is not responsible for
 ###   
 8\. telephone calls
 
-  
 Please note your calls to Lions Festivals may be recorded for training and quality control purposes.
