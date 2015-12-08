@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the publicmutual.com.my privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610103436id_/http%3A//publicmutual.com.my/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the publicmutual.com.my privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208210407id_/http%3A//www.publicmutual.com.my/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Public Mutual Berhad
 
