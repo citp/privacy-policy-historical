@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the monster-wiki.com privacy policy that was archived on 2015-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150407122038id_/http%3A//monster-wiki.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the monster-wiki.com privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208023920id_/http%3A//monster-wiki.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Monster Legends Wiki
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at admin@monster-wiki.com
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at monsterwiki.business@gmail.com
 
 At [monster-wiki.com](http://monster-wiki.com/), the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information that is received and collected by [monster-wiki.com](http://monster-wiki.com/) and how it is used.
 
