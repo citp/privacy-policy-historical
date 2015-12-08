@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the perriconemd.com privacy policy that was archived on 2015-06-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150610021804id_/http%3A//www.perriconemd.com/category/customer%2Bservice/privacy%2Band%2Bsecurity.do%3FnType%3D3) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the perriconemd.com privacy policy that was archived on 2015-12-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151208180231id_/http%3A//www.perriconemd.com/category/customer%2Bservice/privacy%2Band%2Bsecurity.do%3FnType%3D3) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
         
@@ -299,7 +299,137 @@
 			
 <div id="eyebrow" style="height: 45px;">
 </div>
+<script>
+  jQuery.noConflict();
+  jQuery(document).ready(
+    function ($) {
 
+      // header promo
+      setTimeout(stopHeaderRotate,1000);
+      setTimeout(
+        function() {
+          if(totalImages > 0){
+            autoRotate = setInterval("rotateImages()", 10000);
+          }
+        } , 2500);
+
+
+      jQuery("select[name=stateCode] option[value='US/VI']").remove();
+      jQuery("select[name=billContact.address.state] option[value='US/VI']").remove();
+
+      // MEGA MENU
+      var mm_today = new Date();
+      var mm_promo_on = new Date();
+      var mm_promo_off = new Date();
+      var mm_promoText = '<a href="/category/high+potency+face+firming+activator.do"><img src="/images/navbar/skincare/20150616_hpffa_mm.jpg"></a>';
+
+      // DEFAULT
+      mm_promo_on = new Date('July 01, 2015 00:00:00 GMT-0700');
+      mm_promo_off = new Date('July 01, 2045 00:00:00 GMT-0700');
+      if (mm_today.getTime() >= mm_promo_on.getTime() && mm_today.getTime() < mm_promo_off.getTime()) {
+        mm_promoText='<a href="/product/dmae+firming+pads.do"><img src="/images/en_US/2015/promo/150701/mm.jpg" alt="DMAE Firming Pads"></a>';
+      }
+
+      // 7-30
+      mm_promo_on = new Date('July 30, 2015 00:00:00 GMT-0700');
+      mm_promo_off = new Date('August 01, 2015 00:00:00 GMT-0700');
+      if (mm_today.getTime() >= mm_promo_on.getTime() && mm_today.getTime() < mm_promo_off.getTime()) {
+        mm_promoText='<a href="/category/sale.do"><img src="/images/en_US/2015/promo/150730/mm.jpg" alt="Buy More | Save More"></a>';
+      }
+
+      // 8-19
+      mm_promo_on = new Date('August 19, 2015 00:00:00 GMT-0700');
+      mm_promo_off = new Date('August 25, 2015 00:00:00 GMT-0700');
+      if (mm_today.getTime() >= mm_promo_on.getTime() && mm_today.getTime() < mm_promo_off.getTime()) {
+        mm_promoText='<a href="/category/skin+care.do"><img src="/images/en_US/2015/promo/150819/mm.jpg" alt="All About Eyes"></a>';
+      }
+
+      // 9-10
+      mm_promo_on = new Date('September 10, 2015 00:00:00 GMT-0700');
+      mm_promo_off = new Date('November 09, 2015 00:00:00 GMT-0700');
+      if (mm_today.getTime() >= mm_promo_on.getTime() && mm_today.getTime() < mm_promo_off.getTime()) {
+        mm_promoText='<a href="/product/the+gift+of+lip+perfection.do"><img src="/images/en_US/2015/promo/150910/mm.jpg" alt="Gift of Lip Perfection"></a>';
+      }
+      
+      // 11-10
+      mm_promo_on = new Date('November 10, 2015 00:00:00 GMT-0700');
+      mm_promo_off = new Date('November 15, 2045 00:00:00 GMT-0700');
+      if (mm_today.getTime() >= mm_promo_on.getTime() && mm_today.getTime() < mm_promo_off.getTime()) {
+        mm_promoText='<a href="/product/re-firm.do"><img src="/images/navbar/skincare/refirm_mm_banner.jpg" alt="Re:Firm"></a>';
+      }      
+
+      // 11-15 new default
+      mm_promo_on = new Date('November 15, 2015 00:00:00 GMT-0700');
+      mm_promo_off = new Date('December 26, 2015 00:00:00 GMT-0700');
+      if (mm_today.getTime() >= mm_promo_on.getTime() && mm_today.getTime() < mm_promo_off.getTime()) {
+        mm_promoText='<a href="/category/holiday+shop.do"><img src="/images/en_US/2015/promo/151116/holiday_mm.jpg" alt="Holiday Shop"></a>';
+      } 
+      
+      // 11-27
+      mm_promo_on = new Date('November 27, 2015 00:00:00 GMT-0700');
+      mm_promo_off = new Date('December 01, 2015 00:00:00 GMT-0700');
+      if (mm_today.getTime() >= mm_promo_on.getTime() && mm_today.getTime() < mm_promo_off.getTime()) {
+        mm_promoText='<a href="/category/sale.do"><img src="/images/en_US/2015/promo/151127/151127_bfcm_mm.jpg" alt="Black Friday + Cyber Monday Exclusives"></a>';
+      }            
+
+      // 12-09
+      mm_promo_on = new Date('December 09, 2015 00:00:00 GMT-0700');
+      mm_promo_off = new Date('December 21, 2015 00:00:00 GMT-0700');
+      if (mm_today.getTime() >= mm_promo_on.getTime() && mm_today.getTime() < mm_promo_off.getTime()) {
+        mm_promoText='<a href="/category/holiday+shop/12+days+of+beauty.do"><img src="/images/en_US/2015/promo/151209/holiday_12days_mm.jpg" alt="12 Days of Beauty"></a>';
+      }  
+
+      // REPLACE MM HTML
+      jQuery('#flatCatMenu_6 .flatCatPromos').html(mm_promoText);
+
+      // 9-12 QVC
+      mm_promo_on = new Date('September 12, 2015 00:00:00 GMT-0700');
+      mm_promo_off = new Date('September 17, 2015 00:00:00 GMT-0700');
+      if (mm_today.getTime() >= mm_promo_on.getTime() && mm_today.getTime() < mm_promo_off.getTime()) {
+        jQuery('#convertkicker1 a').attr('href','http://qvc.co/Perricone_CCBA2015');
+        jQuery('#convertkicker1 a').attr('target','_blank');
+        jQuery('#convertkicker1 img').attr('src','/images/en_US/2015/promo/150913/kicker-qvc.jpg');
+      }
+
+
+
+      var mmCnt=0;
+      if (jQuery('#tnc_102067 .sf-top-level-link').text()=='About') {
+        jQuery('#flatCatMenu_102067 a').each(function() {
+          mmCnt++;
+          if (mmCnt>=3) {
+            jQuery(this).hide();
+          }
+          if (jQuery(this).text()=='Serious About Beauty') {
+            jQuery(this).attr('href','/category/serious+about+beauty.do');
+          } else if (jQuery(this).text()=='Dr. Perricone') {
+            jQuery(this).attr('href','/category/about.do');
+          }
+        });
+      }
+      mmCnt=0;
+      if (jQuery('#tnc_102067 .sf-top-level-link').text()=='The Doctor') {
+        jQuery('#tnc_102067 .sf-top-level-link').html('<span>About</span>');
+        jQuery('#flatCatMenu_102067 a').each(function() {
+          mmCnt++;
+          if (mmCnt>=3) {
+            jQuery(this).hide();
+          }
+          if (jQuery(this).text()=='Serious About Beauty') {
+            jQuery(this).attr('href','/category/serious+about+beauty.do');
+          } else if (jQuery(this).text()=='Dr. Perricone') {
+            jQuery(this).attr('href','/category/the+doctor.do');
+          }
+        });
+      }
+
+    }
+  );
+
+  function stopHeaderRotate() {
+    clearInterval(autoRotate);
+  }
+</script>
 		</td>
 	</tr>
 
@@ -897,7 +1027,9 @@ function adjustGlobalCartLayout() {
 <div id="header-promo">
 	<!--Skincare Spetialist-->
 	<div class="column">
-		<img class="basketimg" src="/images/set_a/en_us/global/globalnav/skinCareSpecialist.png">
+			<a href="/category/why+us/complimentary+services.do" title="Free Shipping">
+				<img class="basketimg" src="/images/set_a/en_us/global/globalnav/holidayshipping15.png">
+			</a>
 	</div>
 	<!--Free Shipping and Free Samples -->
 	<div id="FreePromo" class="column">
@@ -1157,7 +1289,7 @@ function adjustGlobalCartLayout() {
 <script type="text/javascript" src="/includes/jquery/plugins/superfish.js"></script>
 <script type="text/javascript" src="/includes/jquery/plugins/supersubs.js"></script>
 
-<ul class="sf-menu"><li><div id="tnc_102447"><a class="sf-top-level-link" href="http://www.perriconemd.com/category/top+picks.do?nType=1" id="tn_102447"><span>Top Picks</span></a></div><ul class="flatCatsUL"><li><div class="flatCats" id="flatCatMenu_102447"><div class="flatCat"><div><div class="headerrule"></div><a href="http://www.perriconemd.com/category/top+picks/best+sellers.do?nType=1">Best Sellers</a></div><div><div class="headerrule"></div><a href="http://www.perriconemd.com/category/top+picks/new.do?nType=1">New</a></div><div><div class="headerrule"></div><a href="http://www.perriconemd.com/category/top+picks/award+winners.do?nType=1">Award Winners</a></div></div><div class="flatCatsClear"></div></div></li></ul></li><li><div id="tnc_6"><a class="sf-top-level-link" href="http://www.perriconemd.com/category/skin+care.do?nType=1" id="tn_6"><span>Skin Care</span></a></div><ul class="flatCatsUL"><li><div class="flatCats" id="flatCatMenu_6"><div class="flatCat"><div class="flatCatSnippet"><img src="/images/set_a/en_us/local/headers/main/byproduct_mhd2.gif" alt="Shop by Product"></div><div><div class="headerrule"></div><a href="http://www.perriconemd.com/category/skin+care/treatments.do?nType=1">Treatments</a></div><div><div class="headerrule"></div><a href="http://www.perriconemd.com/category/skin+care/cleansers.do?nType=1">Cleansers</a></div><div><div class="headerrule"></div><a href="http://www.perriconemd.com/category/skin+care/moisturizers.do?nType=1">Moisturizers</a></div><div><div class="headerrule"></div><a href="http://www.perriconemd.com/category/skin+care/eye+treatments.do?nType=1">Eye Treatments</a></div><div><div class="headerrule"></div><a href="http://www.perriconemd.com/category/skin+care/serums.do?nType=1">Serums</a></div><div><div class="headerrule"></div><a href="http://www.perriconemd.com/category/skin+care/exfoliators+%26+toners.do?nType=1">Exfoliators &amp; Toners</a></div><div><div class="headerrule"></div><a href="http://www.perriconemd.com/category/skin+care/neck+%26+body.do?nType=1">Neck &amp; Body</a></div></div><div class="flatCat"><div class="flatCatSnippet"><img src="/images/set_a/en_us/local/headers/main/byconcern_mhd2.gif" alt="Shop by Concern"></div><div><div class="headerrule"></div><a href="http://www.perriconemd.com/category/skin+care/deep+lines+%26+creases.do?nType=1">Deep Lines &amp; Creases</a></div><div><div class="headerrule"></div><a href="http://www.perriconemd.com/category/skin+care/fine+lines+%26+wrinkles.do?nType=1">Fine Lines &amp; Wrinkles</a></div><div><div class="headerrule"></div><a href="http://www.perriconemd.com/category/skin+care/loss+of+firmness.do?nType=1">Loss of Firmness</a></div><div><div class="headerrule"></div><a href="http://www.perriconemd.com/category/skin+care/hydration.do?nType=1">Hydration</a></div><div><div class="headerrule"></div><a href="http://www.perriconemd.com/category/skin+care/enlarged+pores.do?nType=1">Enlarged Pores</a></div><div><div class="headerrule"></div><a href="http://www.perriconemd.com/category/skin+care/redness.do?nType=1">Redness</a></div><div><div class="headerrule"></div><a href="http://www.perriconemd.com/category/skin+care/sun+damage+%26+discoloration.do?nType=1">Sun Damage &amp; Discoloration</a></div><div><div class="headerrule"></div><a href="http://www.perriconemd.com/category/skin+care/dry+%26+sensitive+.do?nType=1">Dry &amp; Sensitive </a></div></div><div class="flatCat"><div class="flatCatSnippet"><img src="/images/set_a/en_us/local/headers/main/byscience_mhd2.gif" alt="Shop by Science"></div><div><div class="headerrule"></div><a href="http://www.perriconemd.com/category/skin+care/acyl-glutathione.do?nType=1">Acyl-Glutathione</a></div><div><div class="headerrule"></div><a href="http://www.perriconemd.com/category/skin+care/cold+plasma.do?nType=1">Cold Plasma</a></div><div><div class="headerrule"></div><a href="http://www.perriconemd.com/category/skin+care/vitamin+c+ester.do?nType=1">Vitamin C Ester</a></div><div><div class="headerrule"></div><a href="http://www.perriconemd.com/category/skin+care/dmae.do?nType=1">DMAE</a></div><div><div class="headerrule"></div><a href="http://www.perriconemd.com/category/skin+care/alpha+lipoic+acid.do?nType=1">Alpha Lipoic Acid</a></div><div><div class="headerrule"></div><a href="http://www.perriconemd.com/category/skin+care/neuropeptides.do?nType=1">Neuropeptides</a></div><div><div class="headerrule"></div><a href="http://www.perriconemd.com/category/skin+care/tocotrienols.do?nType=1">Tocotrienols</a></div><div><div class="headerrule"></div><a href="http://www.perriconemd.com/category/skin+care/olive+polyphenols.do?nType=1">Olive Polyphenols</a></div></div><div class="flatCatsClear"></div><div class="flatCatPromos"><a href="http://www.perriconemd.com/product/the+beauty+editors+collection.do"><img src="http://images.perriconemd.com/images/navbar/skincare/060715_plasma_mm.jpg" alt="Exclusive Plasma Offer" border="0"></a></div><div class="flatCatsClear"></div></div></li></ul></li><li><div id="tnc_102647"><a class="sf-top-level-link" href="http://www.perriconemd.com/category/no+makeup+skincare.do?nType=1" id="tn_102647"><span>No Makeup Skincare</span></a></div><ul class="flatCatsUL"><li><div class="flatCats" id="flatCatMenu_102647"><div class="flatCat"><div><div class="headerrule"></div><a href="http://www.perriconemd.com/category/no+makeup+skincare/no+foundation+foundation+serum.do?nType=1">No Foundation Foundation Serum</a></div><div><div class="headerrule"></div><a href="http://www.perriconemd.com/category/no+makeup+skincare/no+bronzer+bronzer.do?nType=1">No Bronzer Bronzer</a></div><div><div class="headerrule"></div><a href="http://www.perriconemd.com/category/no+makeup+skincare/no+blush+blush.do?nType=1">No Blush Blush</a></div><div><div class="headerrule"></div><a href="http://www.perriconemd.com/category/no+makeup+skincare/no+mascara+mascara.do?nType=1">No Mascara Mascara</a></div><div><div class="headerrule"></div><a href="http://www.perriconemd.com/category/no+makeup+skincare/no+concealer+concealer.do?nType=1">No Concealer Concealer</a></div><div><div class="headerrule"></div><a href="http://www.perriconemd.com/category/no+makeup+skincare/no+lipstick+lipstick.do?nType=1">No Lipstick Lipstick</a></div><div><div class="headerrule"></div><a href="http://www.perriconemd.com/category/no+makeup+skincare/no+foundation+foundation+no.+1.do?nType=1">No Foundation Foundation No. 1</a></div><div><div class="headerrule"></div><a href="http://www.perriconemd.com/category/no+makeup+skincare/no+foundation+foundation+no.+2.do?nType=1">No Foundation Foundation No. 2</a></div><div><div class="headerrule"></div><a href="http://www.perriconemd.com/category/no+makeup+skincare/no+highlighter+highlighter.do?nType=1">No Highlighter Highlighter</a></div><div><div class="headerrule"></div><a href="http://www.perriconemd.com/category/no+makeup+skincare/no+lipgloss+lipgloss.do?nType=1">No Lipgloss Lipgloss</a></div></div><div class="flatCatsClear"></div><div class="flatCatPromos"><img src="//www.perriconemd.com/images/navbar/nmm/nmm_spacer01.jpg" border="0" alt=""></div><div class="flatCatsClear"></div></div></li></ul></li><li><div id="tnc_7"><a class="sf-top-level-link" href="http://www.perriconemd.com/category/supplements.do?nType=1" id="tn_7"><span>Supplements</span></a></div><ul class="flatCatsUL"><li><div class="flatCats" id="flatCatMenu_7"><div class="flatCat"><div><div class="headerrule"></div><a href="http://www.perriconemd.com/category/supplements/beautiful+skin.do?nType=1">Beautiful Skin</a></div><div><div class="headerrule"></div><a href="http://www.perriconemd.com/category/supplements/total+health.do?nType=1">Total Health</a></div><div><div class="headerrule"></div><a href="http://www.perriconemd.com/category/supplements/weight+management.do?nType=1">Weight Management</a></div></div><div class="flatCatsClear"></div></div></li></ul></li><li><div id="tnc_8"><a class="sf-top-level-link" href="http://www.perriconemd.com/category/specialoffers.do?nType=1" id="tn_8"><span>Value Sets</span></a></div><ul class="flatCatsUL"><li><div class="flatCats" id="flatCatMenu_8"><div class="flatCat"><div><div class="headerrule"></div><a href="http://www.perriconemd.com/category/specialoffers/power+duos.do?nType=1">Power Duos</a></div><div><div class="headerrule"></div><a href="http://www.perriconemd.com/category/specialoffers/prescriptions.do?nType=1">Prescriptions</a></div><div><div class="headerrule"></div><a href="http://www.perriconemd.com/category/specialoffers/science+kits.do?nType=1">Science Kits</a></div><div><div class="headerrule"></div><a href="http://www.perriconemd.com/category/specialoffers/travel+sizes.do?nType=1">Travel Sizes</a></div><div><div class="headerrule"></div><a href="http://www.perriconemd.com/category/specialoffers/supersize.do?nType=1">Supersize</a></div></div><div class="flatCatsClear"></div></div></li></ul></li><li><div id="tnc_101987"><a class="sf-top-level-link" href="http://www.perriconemd.com/category/exclusives.do?nType=1" id="tn_101987"><span>Exclusives</span></a></div><ul class="flatCatsUL"><li><div class="flatCats" id="flatCatMenu_101987"><div class="flatCat"><div><div class="headerrule"></div><a href="http://www.perriconemd.com/category/exclusives/ovm.do?nType=1">OVM</a></div><div><div class="headerrule"></div><a href="http://www.perriconemd.com/category/exclusives/the+power+serums.do?nType=1">The Power Serums</a></div><div><div class="headerrule"></div><a href="http://www.perriconemd.com/category/exclusives/blue+plasma.do?nType=1">Blue Plasma</a></div><div><div class="headerrule"></div><a href="http://www.perriconemd.com/category/exclusives/vitamin+c+ester+15.do?nType=1">Vitamin C Ester 15</a></div><div><div class="headerrule"></div><a href="http://www.perriconemd.com/category/exclusives/cold+plasma.do?nType=1">Cold Plasma</a></div><div><div class="headerrule"></div><a href="http://www.perriconemd.com/category/exclusives/skin+%26+total+body.do?nType=1">Skin &amp; Total Body</a></div><div><div class="headerrule"></div><a href="http://www.perriconemd.com/category/exclusives/hyalo+plasma.do?nType=1">Hyalo Plasma</a></div></div><div class="flatCatsClear"></div></div></li></ul></li><li><div id="tnc_101799"><a class="sf-top-level-link" href="http://www.perriconemd.com/category/skin+quiz.do?nType=1" id="tn_101799"><span>Skin Quiz</span></a></div></li><li><div id="tnc_102067"><a class="sf-top-level-link" href="http://www.perriconemd.com/category/the+doctor.do?nType=1" id="tn_102067"><span>Dr. Perricone</span></a></div><ul class="flatCatsUL"><li><div class="flatCats" id="flatCatMenu_102067"><div class="flatCat"><div><div class="headerrule"></div><a href="http://www.perriconemd.com/category/the+doctor/patented+sciences.do?nType=1">Patented Sciences</a></div><div><div class="headerrule"></div><a href="http://www.perriconemd.com/category/the+doctor/books.do?nType=1">Books</a></div><div><div class="headerrule"></div><a href="http://www.perriconemd.com/category/the+doctor/philosophy.do?nType=1">Philosophy</a></div><div><div class="headerrule"></div><a href="http://www.perriconemd.com/category/the+doctor/diets.do?nType=1">Diets</a></div><div><div class="headerrule"></div><a href="http://www.perriconemd.com/category/the+doctor/daily+perricone+blog.do?nType=1">Daily Perricone Blog</a></div><div><div class="headerrule"></div><a href="http://www.perriconemd.com/category/the+doctor/dr.+perricone+discusses.do?nType=1">Dr. Perricone Discusses</a></div><div><div class="headerrule"></div><a href="http://www.perriconemd.com/category/the+doctor/timeline.do?nType=1">Timeline</a></div><div><div class="headerrule"></div><a href="http://www.perriconemd.com/category/the+doctor/in+the+press.do?nType=1">In The Press</a></div></div><div class="flatCatsClear"></div></div></li></ul></li><li><div id="tnc_101848"><a class="sf-top-level-link" href="http://www.perriconemd.com/category/3-steps.do?nType=1" id="tn_101848"><span>3-Steps</span></a></div><ul class="flatCatsUL"><li><div class="flatCats" id="flatCatMenu_101848"><div class="flatCat"><div><div class="headerrule"></div><a href="http://www.perriconemd.com/category/3-steps/fine+lines+%26+wrinkles.do?nType=1">Fine Lines &amp; Wrinkles</a></div><div><div class="headerrule"></div><a href="http://www.perriconemd.com/category/3-steps/deep+lines+%26+creases.do?nType=1">Deep Lines &amp; Creases</a></div><div><div class="headerrule"></div><a href="http://www.perriconemd.com/category/3-steps/enlarged+pores.do?nType=1">Enlarged Pores</a></div><div><div class="headerrule"></div><a href="http://www.perriconemd.com/category/3-steps/loss+of+firmness.do?nType=1">Loss of Firmness</a></div><div><div class="headerrule"></div><a href="http://www.perriconemd.com/category/3-steps/sun+damage+-+brightness.do?nType=1">Sun Damage / Brightness</a></div><div><div class="headerrule"></div><a href="http://www.perriconemd.com/category/3-steps/dry+%26+sensitive+skin.do?nType=1">Dry &amp; Sensitive Skin</a></div><div><div class="headerrule"></div><a href="http://www.perriconemd.com/category/3-steps/severe+loss+of+elasticity.do?nType=1">Severe Loss of Elasticity</a></div><div><div class="headerrule"></div><a href="http://www.perriconemd.com/category/3-steps/redness.do?nType=1">Redness</a></div></div><div class="flatCatsClear"></div><div class="flatCatPromos"><style>
+<ul class="sf-menu"><li><div id="tnc_102447"><a class="sf-top-level-link" href="http://www.perriconemd.com/category/top+picks.do?nType=1" id="tn_102447"><span>Top Picks</span></a></div><ul class="flatCatsUL"><li><div class="flatCats" id="flatCatMenu_102447"><div class="flatCat"><div><div class="headerrule"></div><a href="http://www.perriconemd.com/category/top+picks/best+sellers.do?nType=1">Best Sellers</a></div><div><div class="headerrule"></div><a href="http://www.perriconemd.com/category/top+picks/new.do?nType=1">New</a></div><div><div class="headerrule"></div><a href="http://www.perriconemd.com/category/top+picks/award+winners.do?nType=1">Award Winners</a></div></div><div class="flatCatsClear"></div></div></li></ul></li><li><div id="tnc_102867"><a class="sf-top-level-link" href="http://www.perriconemd.com/category/holiday+shop.do?nType=1" id="tn_102867"><span>Holiday Shop</span></a></div><ul class="flatCatsUL"><li><div class="flatCats" id="flatCatMenu_102867"><div class="flatCat"><div><div class="headerrule"></div><a href="http://www.perriconemd.com/category/holiday+shop/gifts+you+will+love.do?nType=1">Gifts You Will Love</a></div><div><div class="headerrule"></div><a href="http://www.perriconemd.com/category/holiday+shop/gifts+for+her.do?nType=1">Gifts for Her</a></div><div><div class="headerrule"></div><a href="http://www.perriconemd.com/category/holiday+shop/gifts+for+him.do?nType=1">Gifts for Him</a></div><div><div class="headerrule"></div><a href="http://www.perriconemd.com/category/holiday+shop/gifts+under+%24100.do?nType=1">Gifts under $100</a></div><div><div class="headerrule"></div><a href="http://www.perriconemd.com/category/holiday+shop/exclusive+gifts.do?nType=1">Exclusive Gifts</a></div></div><div class="flatCatsClear"></div></div></li></ul></li><li><div id="tnc_6"><a class="sf-top-level-link" href="http://www.perriconemd.com/category/skin+care.do?nType=1" id="tn_6"><span>Skin Care</span></a></div><ul class="flatCatsUL"><li><div class="flatCats" id="flatCatMenu_6"><div class="flatCat"><div class="flatCatSnippet"><img src="/images/set_a/en_us/local/headers/main/byproduct_mhd2.gif" alt="Shop by Product"></div><div><div class="headerrule"></div><a href="http://www.perriconemd.com/category/skin+care/treatments.do?nType=1">Treatments</a></div><div><div class="headerrule"></div><a href="http://www.perriconemd.com/category/skin+care/cleansers.do?nType=1">Cleansers</a></div><div><div class="headerrule"></div><a href="http://www.perriconemd.com/category/skin+care/moisturizers.do?nType=1">Moisturizers</a></div><div><div class="headerrule"></div><a href="http://www.perriconemd.com/category/skin+care/eye+treatments.do?nType=1">Eye Treatments</a></div><div><div class="headerrule"></div><a href="http://www.perriconemd.com/category/skin+care/serums.do?nType=1">Serums</a></div><div><div class="headerrule"></div><a href="http://www.perriconemd.com/category/skin+care/exfoliators+%26+toners.do?nType=1">Exfoliators &amp; Toners</a></div><div><div class="headerrule"></div><a href="http://www.perriconemd.com/category/skin+care/neck+%26+body.do?nType=1">Neck &amp; Body</a></div></div><div class="flatCat"><div class="flatCatSnippet"><img src="/images/set_a/en_us/local/headers/main/byconcern_mhd2.gif" alt="Shop by Concern"></div><div><div class="headerrule"></div><a href="http://www.perriconemd.com/category/skin+care/deep+lines+%26+creases.do?nType=1">Deep Lines &amp; Creases</a></div><div><div class="headerrule"></div><a href="http://www.perriconemd.com/category/skin+care/fine+lines+%26+wrinkles.do?nType=1">Fine Lines &amp; Wrinkles</a></div><div><div class="headerrule"></div><a href="http://www.perriconemd.com/category/skin+care/loss+of+firmness.do?nType=1">Loss of Firmness</a></div><div><div class="headerrule"></div><a href="http://www.perriconemd.com/category/skin+care/hydration.do?nType=1">Hydration</a></div><div><div class="headerrule"></div><a href="http://www.perriconemd.com/category/skin+care/enlarged+pores.do?nType=1">Enlarged Pores</a></div><div><div class="headerrule"></div><a href="http://www.perriconemd.com/category/skin+care/redness.do?nType=1">Redness</a></div><div><div class="headerrule"></div><a href="http://www.perriconemd.com/category/skin+care/sun+damage+%26+discoloration.do?nType=1">Sun Damage &amp; Discoloration</a></div><div><div class="headerrule"></div><a href="http://www.perriconemd.com/category/skin+care/dry+%26+sensitive+.do?nType=1">Dry &amp; Sensitive </a></div></div><div class="flatCat"><div class="flatCatSnippet"><img src="/images/set_a/en_us/local/headers/main/byscience_mhd2.gif" alt="Shop by Science"></div><div><div class="headerrule"></div><a href="http://www.perriconemd.com/category/skin+care/acyl-glutathione.do?nType=1">Acyl-Glutathione</a></div><div><div class="headerrule"></div><a href="http://www.perriconemd.com/category/skin+care/cold+plasma.do?nType=1">Cold Plasma</a></div><div><div class="headerrule"></div><a href="http://www.perriconemd.com/category/skin+care/vitamin+c+ester.do?nType=1">Vitamin C Ester</a></div><div><div class="headerrule"></div><a href="http://www.perriconemd.com/category/skin+care/dmae.do?nType=1">DMAE</a></div><div><div class="headerrule"></div><a href="http://www.perriconemd.com/category/skin+care/alpha+lipoic+acid.do?nType=1">Alpha Lipoic Acid</a></div><div><div class="headerrule"></div><a href="http://www.perriconemd.com/category/skin+care/neuropeptides.do?nType=1">Neuropeptides</a></div><div><div class="headerrule"></div><a href="http://www.perriconemd.com/category/skin+care/tocotrienols.do?nType=1">Tocotrienols</a></div><div><div class="headerrule"></div><a href="http://www.perriconemd.com/category/skin+care/olive+polyphenols.do?nType=1">Olive Polyphenols</a></div></div><div class="flatCatsClear"></div><div class="flatCatPromos"><a href="http://www.perriconemd.com/category/sale.do"><img alt="Black Friday + Cyber Monday Exlcusives" border="0" src="http://www.perriconemd.com/images/en_US/2015/promo/151127/151127_bfcm_mm.jpg"></a></div><div class="flatCatsClear"></div></div></li></ul></li><li><div id="tnc_102647"><a class="sf-top-level-link" href="http://www.perriconemd.com/category/no+makeup+skincare.do?nType=1" id="tn_102647"><span>No Makeup Skincare</span></a></div><ul class="flatCatsUL"><li><div class="flatCats" id="flatCatMenu_102647"><div class="flatCat"><div><div class="headerrule"></div><a href="http://www.perriconemd.com/category/no+makeup+skincare/face.do?nType=1">Face</a></div><div><div class="headerrule"></div><a href="http://www.perriconemd.com/category/no+makeup+skincare/eyes.do?nType=1">Eyes</a></div><div><div class="headerrule"></div><a href="http://www.perriconemd.com/category/no+makeup+skincare/lips.do?nType=1">Lips</a></div><div><div class="headerrule"></div><a href="http://www.perriconemd.com/category/no+makeup+skincare/collections.do?nType=1">Collections</a></div></div><div class="flatCatsClear"></div><div class="flatCatPromos"><img src="//www.perriconemd.com/images/navbar/nmm/nmm_spacer01.jpg" border="0" alt=""></div><div class="flatCatsClear"></div></div></li></ul></li><li><div id="tnc_7"><a class="sf-top-level-link" href="http://www.perriconemd.com/category/supplements.do?nType=1" id="tn_7"><span>Supplements</span></a></div><ul class="flatCatsUL"><li><div class="flatCats" id="flatCatMenu_7"><div class="flatCat"><div><div class="headerrule"></div><a href="http://www.perriconemd.com/category/supplements/beautiful+skin.do?nType=1">Beautiful Skin</a></div><div><div class="headerrule"></div><a href="http://www.perriconemd.com/category/supplements/total+health.do?nType=1">Total Health</a></div><div><div class="headerrule"></div><a href="http://www.perriconemd.com/category/supplements/weight+management.do?nType=1">Weight Management</a></div></div><div class="flatCatsClear"></div></div></li></ul></li><li><div id="tnc_101987"><a class="sf-top-level-link" href="http://www.perriconemd.com/category/exclusives.do?nType=1" id="tn_101987"><span>Exclusives</span></a></div><ul class="flatCatsUL"><li><div class="flatCats" id="flatCatMenu_101987"><div class="flatCat"><div><div class="headerrule"></div><a href="http://www.perriconemd.com/category/exclusives/ovm.do?nType=1">OVM</a></div><div><div class="headerrule"></div><a href="http://www.perriconemd.com/category/exclusives/the+power+serums.do?nType=1">The Power Serums</a></div><div><div class="headerrule"></div><a href="http://www.perriconemd.com/category/exclusives/blue+plasma.do?nType=1">Blue Plasma</a></div><div><div class="headerrule"></div><a href="http://www.perriconemd.com/category/exclusives/vitamin+c+ester+15.do?nType=1">Vitamin C Ester 15</a></div><div><div class="headerrule"></div><a href="http://www.perriconemd.com/category/exclusives/cold+plasma.do?nType=1">Cold Plasma</a></div><div><div class="headerrule"></div><a href="http://www.perriconemd.com/category/exclusives/skin+%26+total+body.do?nType=1">Skin &amp; Total Body</a></div><div><div class="headerrule"></div><a href="http://www.perriconemd.com/category/exclusives/hyalo+plasma.do?nType=1">Hyalo Plasma</a></div></div><div class="flatCatsClear"></div></div></li></ul></li><li><div id="tnc_101799"><a class="sf-top-level-link" href="http://www.perriconemd.com/category/skin+quiz.do?nType=1" id="tn_101799"><span>Skin Quiz</span></a></div></li><li><div id="tnc_102067"><a class="sf-top-level-link" href="http://www.perriconemd.com/category/the+doctor.do?nType=1" id="tn_102067"><span>The Doctor</span></a></div><ul class="flatCatsUL"><li><div class="flatCats" id="flatCatMenu_102067"><div class="flatCat"><div><div class="headerrule"></div><a href="http://www.perriconemd.com/category/the+doctor/serious+about+beauty.do?nType=1">Serious About Beauty</a></div><div><div class="headerrule"></div><a href="http://www.perriconemd.com/category/the+doctor/dr.+perricone.do?nType=1">Dr. Perricone</a></div><div><div class="headerrule"></div><a href="http://www.perriconemd.com/category/the+doctor/patented+sciences.do?nType=1">Patented Sciences</a></div><div><div class="headerrule"></div><a href="http://www.perriconemd.com/category/the+doctor/books.do?nType=1">Books</a></div><div><div class="headerrule"></div><a href="http://www.perriconemd.com/category/the+doctor/philosophy.do?nType=1">Philosophy</a></div><div><div class="headerrule"></div><a href="http://www.perriconemd.com/category/the+doctor/diets.do?nType=1">Diets</a></div><div><div class="headerrule"></div><a href="http://www.perriconemd.com/category/the+doctor/daily+perricone+blog.do?nType=1">Daily Perricone Blog</a></div><div><div class="headerrule"></div><a href="http://www.perriconemd.com/category/the+doctor/dr.+perricone+discusses.do?nType=1">Dr. Perricone Discusses</a></div><div><div class="headerrule"></div><a href="http://www.perriconemd.com/category/the+doctor/timeline.do?nType=1">Timeline</a></div><div><div class="headerrule"></div><a href="http://www.perriconemd.com/category/the+doctor/in+the+press.do?nType=1">In The Press</a></div></div><div class="flatCatsClear"></div></div></li></ul></li><li><div id="tnc_101848"><a class="sf-top-level-link" href="http://www.perriconemd.com/category/3-steps.do?nType=1" id="tn_101848"><span>3-Steps</span></a></div><ul class="flatCatsUL"><li><div class="flatCats" id="flatCatMenu_101848"><div class="flatCat"><div><div class="headerrule"></div><a href="http://www.perriconemd.com/category/3-steps/fine+lines+%26+wrinkles.do?nType=1">Fine Lines &amp; Wrinkles</a></div><div><div class="headerrule"></div><a href="http://www.perriconemd.com/category/3-steps/deep+lines+%26+creases.do?nType=1">Deep Lines &amp; Creases</a></div><div><div class="headerrule"></div><a href="http://www.perriconemd.com/category/3-steps/enlarged+pores.do?nType=1">Enlarged Pores</a></div><div><div class="headerrule"></div><a href="http://www.perriconemd.com/category/3-steps/loss+of+firmness.do?nType=1">Loss of Firmness</a></div><div><div class="headerrule"></div><a href="http://www.perriconemd.com/category/3-steps/sun+damage+-+brightness.do?nType=1">Sun Damage / Brightness</a></div><div><div class="headerrule"></div><a href="http://www.perriconemd.com/category/3-steps/dry+%26+sensitive+skin.do?nType=1">Dry &amp; Sensitive Skin</a></div><div><div class="headerrule"></div><a href="http://www.perriconemd.com/category/3-steps/severe+loss+of+elasticity.do?nType=1">Severe Loss of Elasticity</a></div><div><div class="headerrule"></div><a href="http://www.perriconemd.com/category/3-steps/redness.do?nType=1">Redness</a></div></div><div class="flatCatsClear"></div><div class="flatCatPromos"><style>
 div#tnc_101848{
    display:none;
 }
@@ -1735,7 +1867,7 @@ function getId() {
   return "mlperricone552prod"
 }
 function getSerializationID() {
-  return "6415985"
+  return "2589614"
 }
 </script>
 <script language="JavaScript" type="text/javascript" src="/omniture/s_code.js"></script>
