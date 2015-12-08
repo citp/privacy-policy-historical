@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hotdeals.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609214704id_/http%3A//www.hotdeals.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotdeals.com privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208022846id_/http%3A//www.hotdeals.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - HotDeals
 
