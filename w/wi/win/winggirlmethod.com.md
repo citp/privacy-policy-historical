@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the winggirlmethod.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610060128id_/http%3A//www.winggirlmethod.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the winggirlmethod.com privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208180136id_/http%3A//www.winggirlmethod.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Marni's Wing Girl MethodMarni's Wing Girl Method
+# 
 
 ## The Wing Girl Method Privacy Policy
 
@@ -26,7 +26,7 @@ How Do We Use This Information?**
 
 This information is used for internal marketing purposes only. The Wing Girl Method does not sell, exchange, rent or release your personal information (name, e-mail address, mailing address, credit data, etc.) Your information is not shared with any other third party or company outside of billing and shipping purposes.
 
-The Wing Girl Method may, from time to time, contact you on behalf of external business partners about a particular offering that may be of interest to you. In those cases, your unique personally identifiable information (e-mail, name, address, telephone number) is not transferred to the third party. In addition, The Wing Girl Method may share data with trusted partners to help us perform statistical analysis, send you email or postal mail, provide customer support, or arrange for deliveries. All such third parties are prohibited from using your personal information except to provide these services to The Wing Girl Method, and they are required to maintain the confidentiality of your information.
+The Wing Girl Method may, from time to time, contact you on behalf of external business partners about a particular offering that may be of interest to you. In those cases, your unique personally identifiable information (e-mail, name, address, telephone number) is not transferred to the third party (credit [don](http://www.dresshead.com/dresshead-staff-profile-don-priscott/)). In addition, The Wing Girl Method may share data with trusted partners to help us perform statistical analysis, send you email or postal mail, provide customer support, or arrange for deliveries. All such third parties are prohibited from using your personal information except to provide these services to The Wing Girl Method, and they are required to maintain the confidentiality of your information.
 
 The Wing Girl Method does not use or disclose sensitive personal information, such as race, religion, or political affiliations, without your explicit consent.
 
