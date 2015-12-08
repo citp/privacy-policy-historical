@@ -1,9 +1,25 @@
-<!--The following is the downloaded HTML source of the better-find.com privacy policy that was archived on 2015-06-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150623235747id_/http%3A//better-find.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the better-find.com privacy policy that was archived on 2015-12-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151208153428id_/http%3A//better-find.com/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en-US" xmlns:fb="http://ogp.me/ns/fb#" xmlns:addthis="http://www.addthis.com/help/api-spec" prefix="og: http://ogp.me/ns#"><!--<![endif]--><head>
+<!DOCTYPE html><html lang="en-US" prefix="og: http://ogp.me/ns#"><!--<![endif]--><head>
 
-<script src="https://js-agent.newrelic.com/nr-632.min.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js#xfbml=1&amp;version=v2.3&amp;appId=797052597016638"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">
+
+<!------------ Desktop/Mobile-Tablet flag -------->
+<script src="https://js-agent.newrelic.com/nr-632.min.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js#xfbml=1&amp;version=v2.3&amp;appId=797052597016638"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script>
+
+var Is__Desktop = false;
+
+</script>
+
+
+
+
+<!------------ Desktop/Mobile-Tablet flag -------->
+
+
+
+
+<script type="text/javascript">
 window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),f=c.length,u=i(a,o,r),d=0;f>d;d++)c[d].apply(u,n);return u}function a(t,e){f[t]=s(t).concat(e)}function s(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:s,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:22,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(f){try{r("ierr",[f,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(5),window.onerror=e;try{throw new Error}catch(f){"stack"in f&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&t(4),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:9,2:8,3:6,4:10,5:3,6:23,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t){function e(){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var n=t("ee"),r=t("handle"),o=t(1),i=t(2);t("loader").features.stn=!0,t(3),n.on("fn-start",function(t){var e=t[0];e instanceof Event&&(this.bstStart=Date.now())}),n.on("fn-end",function(t,e){var n=t[0];n instanceof Event&&r("bst",[n,e,this.bstStart,Date.now()])}),o.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),o.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),i.on("fn-start",function(){this.bstStart=Date.now()}),i.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),n.on("pushState-start",function(){this.time=Date.now(),this.startPath=location.pathname+location.hash}),n.on("pushState-end",function(){r("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.addEventListener("webkitresourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1),window.performance.addEventListener("resourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1)),document.addEventListener("scroll",e,!1),document.addEventListener("keypress",e,!1),document.addEventListener("click",e,!1)}},{1:9,2:8,3:7,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],6:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:23,2:24,ee:"QJf3ax",gos:"7eSDFh"}],7:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window.history,["pushState"],"-")},{1:24,2:23,ee:"QJf3ax"}],8:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:24,2:23,ee:"QJf3ax"}],9:[function(t,e){function n(t,e,n){t[0]=o(t[0],"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:24,2:23,ee:"QJf3ax"}],10:[function(t,e){function n(){f.inPlace(this,p,"fn-")}function r(t,e){f.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),f=c(a),u=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(i){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,f.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:6,2:24,ee:"QJf3ax"}],11:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var a=t.responseType,f="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,u=n(f);if(u&&(r.rxSize=u),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(e.cat=d.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,o("xhr",[e,r,this.startTime])}}}function n(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,f=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=e,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,e){var r=this.metrics,o=t[0],i=this;if(r&&o){var f=n(o);f&&(r.txSize=f)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{a.emit("internal-error",[n])}catch(r){}}};for(var u=0;c>u;u++)e.addEventListener(s[u],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:12,3:10,4:6,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],12:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],13:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:22,2:23,handle:"D5DuLP"}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info,e=f.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){s(d,function(e,n){e in t||(t[e]=n)});var n="https"===u.split(":")[0]||t.sslForHttp;p.proto=n?"https://":"http://",a("mark",["onload",i()]);var r=f.createElement("script");r.src=p.proto+t.agent,e.parentNode.insertBefore(r,e)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=(t(2),window),f=c.document,u=(""+location).split("?")[0],d={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-632.min.js"},p=e.exports={offset:i(),origin:u,features:{}};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),c.addEventListener("load",n,!1)):(f.attachEvent("onreadystatechange",r),c.attachEvent("onload",n)),a("mark",["firstbyte",i()])},{1:22,2:13,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],22:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],23:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],24:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,f;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){u([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return f=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,f],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,f(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){u([o,e,n,r])}}function f(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){u([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function u(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:23,ee:"QJf3ax"}]},{},["G9z0Bl",4,11,5]);
 ;NREUM.info={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",licenseKey:"f19cc9d015",applicationID:"8325699",sa:1,agent:"js-agent.newrelic.com/nr-632.min.js"}
 </script>
@@ -56,7 +72,7 @@ img.emoji {
 	padding: 0 !important;
 }
 </style>
-<link rel="stylesheet" id="contact-form-7-group-css" href="http://better-find.com/wp-content/plugins/bwp-minify/min/?f=wp-content/plugins/contact-form-7/includes/css/styles.css,wp-content/plugins/wp-pagenavi/pagenavi-css.css,wp-content/themes/wt_tera/style.css,wp-content/themes/wt_tera/css/font-awesome/css/font-awesome.min.css" type="text/css" media="all">
+<link rel="stylesheet" id="contact-form-7-group-css" href="http://better-find.com/wp-content/plugins/bwp-minify/min/?f=wp-content/plugins/contact-form-7/includes/css/styles.css,wp-content/plugins/wp-pagenavi/pagenavi-css.css,wp-content/plugins/wbounce/css/min/wbounce.css,wp-content/themes/wt_tera/style.css,wp-content/themes/wt_tera/css/font-awesome/css/font-awesome.min.css" type="text/css" media="all">
 <style id="wt-style-inline-css" type="text/css">
 body{
 background: #ffffff;;
@@ -67,11 +83,12 @@ background: #ffffff;;
 </style>
 <script type="text/javascript" src="http://better-find.com/wp-includes/js/jquery/jquery.js?ver=1.11.2"></script>
 <script type="text/javascript" src="http://better-find.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1"></script>
+<script type="text/javascript" src="http://better-find.com/wp-content/plugins/bwp-minify/min/?f=wp-content/plugins/wbounce/js/min/wbounce-ck.js"></script>
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://better-find.com/xmlrpc.php?rsd">
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://better-find.com/wp-includes/wlwmanifest.xml"> 
 <meta name="generator" content="WordPress 4.2.2">
 <link rel="shortlink" href="http://better-find.com/?p=9">
-<script>
+<style type="text/css"></style><script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
   m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
@@ -110,7 +127,7 @@ background: #ffffff;;
 				<div class="logo">			
 											<h1>
 							<a href="http://better-find.com" title="Better Find">
-								<img src="http://better-find.com/wp-content/uploads/2015/06/logo.png" alt="Better Find">
+								<img src="http://better-find.com/wp-content/uploads/2015/09/logo-small2.png" alt="Better Find">
 							</a>
 						</h1>	
 						
@@ -122,11 +139,7 @@ background: #ffffff;;
 		
 		<div class="menu-section clearfix">
 			<nav id="main-menu" class="clearfix">
-				<ul id="menu-main" class="menu"><li id="menu-item-269" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-269"><a href="http://better-find.com/category/celebs/">CELEBS</a>
-<ul class="sub-menu">
-	<li id="menu-item-272" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-272"><a href="http://better-find.com/category/entertainment/">ENTERTAINMENT</a></li>
-</ul>
-</li>
+				<ul id="menu-main" class="menu"><li id="menu-item-269" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-269"><a href="http://better-find.com/category/celebs/">CELEBS</a></li>
 <li id="menu-item-270" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-270"><a href="http://better-find.com/category/health-fitness/">HEALTH &amp; FITNESS</a></li>
 <li id="menu-item-267" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-267"><a href="http://better-find.com/category/popular/">POPULAR</a>
 <ul class="sub-menu">
@@ -144,6 +157,8 @@ background: #ffffff;;
 	</header>	
 		
 	<section id="main">
+
+				
 		<div class="inner-wrap">
 		
 			<div id="content" class="single-page">
@@ -163,7 +178,7 @@ background: #ffffff;;
 <p><strong>Your Privacy</strong></p>
 <p>Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.</p>
 <p><strong>Google Adsense and the DoubleClick DART Cookie</strong><br>
-Other Third Party ad servers or ad networks may also use cookies to track users activities on this website to measure advertisement effectiveness and other reasons that will be provided in their own privacy policies, Getting Back has no access or control over these cookies that may be used by third party advertisers.</p>
+Other Third Party ad servers or ad networks may also use cookies to track users activities on this website to measure advertisement effectiveness and other reasons that will be provided in their own privacy policies, Better Find has no access or control over these cookies that may be used by third party advertisers.</p>
 <p><strong>Collection of Personal Information</strong><br>
 When visiting Better Find, the IP address used to access the site will be logged along with the dates and times of access. This information is purely used to analyze trends, administer the site, track users movement and gather broad demographic information for internal use. Most importantly, any recorded IP addresses are not linked to personally identifiable information.</p>
 <p><strong>Links to third party Websites</strong><br>
@@ -187,79 +202,79 @@ The contents of this statement may be altered at any time, at our discretion.</p
 			
 							<div class="main-post">								
 								
-<article class="post-459 post type-post status-publish format-standard has-post-thumbnail hentry category-entertainment tag-photoshop-guess tag-tips">
+<article class="post-1069 post type-post status-publish format-standard has-post-thumbnail hentry category-entertainment category-popular tag-entertainment tag-popular">
 	
 			<div class="thumb excerpt-thumb overlay">
-			<a href="http://better-find.com/photoshop-or-not-can-you-guess/"><img width="340" height="230" src="http://better-find.com/wp-content/uploads/2015/06/Giant-or-hobbit-340x230.jpg" class="attachment-wt340_230 wp-post-image" alt="Giant or hobbit"></a>							
+			<a href="http://better-find.com/10-incredible-sci-fi-technologies-that-are-nearly-here/"><img width="340" height="230" src="http://better-find.com/wp-content/uploads/2015/09/Exoskeleton-340x230.jpg" class="attachment-wt340_230 wp-post-image" alt="Exoskeleton"></a>							
 					</div>
 		
 	<div class="excerpt-wrap">
 	
 		<div class="entry-meta">
-			<span class="entry-cat-bg main-color-bg cat6-bg"><a href="http://better-find.com/category/entertainment/">ENTERTAINMENT</a></span>						<span class="date">June 23, 2015</span>			
+			<span class="entry-cat-bg main-color-bg cat6-bg"><a href="http://better-find.com/category/entertainment/">ENTERTAINMENT</a></span>						<span class="date">September 6, 2015</span>			
 		</div>	
 		
-		<h3><a href="http://better-find.com/photoshop-or-not-can-you-guess/">Photoshop Or Not – Can You Guess?</a></h3>		
-		<p>Who doesn’t love brain twisters or illusions? We’ve curated some photos to play a guessing game of “Photoshop or not?”…</p>
+		<h3><a href="http://better-find.com/10-incredible-sci-fi-technologies-that-are-nearly-here/">10 Incredible Sci-Fi Technologies That Are Nearly Here</a></h3>		
+		<p>If you are a fan of science fiction then this is the article for you. There are some things you…</p>
 				
 	</div>
 	
-</article><!-- /post-459 -->									
+</article><!-- /post-1069 -->									
 							</div><!-- /main-post -->
 											<div class="post-list">
 						
 							<div class="item-post">
 																	<div class="thumb overlay">
-										<a href="http://better-find.com/8-of-the-worst-wedding-dresses-ever/"><img width="75" height="75" src="http://better-find.com/wp-content/uploads/2015/06/The-Too-Sexy-Dress-75x75.jpg" class="attachment-wt75_75 wp-post-image" alt="The Too Sexy Dress"></a>
+										<a href="http://better-find.com/10-unique-dog-breeds-you-will-probably-never-see/"><img width="75" height="75" src="http://better-find.com/wp-content/uploads/2015/09/Catalburun-75x75.jpg" class="attachment-wt75_75 wp-post-image" alt="Catalburun"></a>
 									</div>
 																<div class="post-right">
 									
 									<div class="entry-meta">
-										<span class="entry-cat-bg main-color-bg cat7-bg"><a href="http://better-find.com/category/health-fitness/">HEALTH &amp; FITNESS</a></span>																				<span class="date">June 23, 2015</span>			
+										<span class="entry-cat-bg main-color-bg cat6-bg"><a href="http://better-find.com/category/entertainment/">ENTERTAINMENT</a></span>																				<span class="date">September 6, 2015</span>			
 									</div>
-									<h3><a href="http://better-find.com/8-of-the-worst-wedding-dresses-ever/">8 Of The Worst Wedding Dresses Ever</a></h3>
+									<h3><a href="http://better-find.com/10-unique-dog-breeds-you-will-probably-never-see/">10 Unique Dog Breeds You Will Probably Never See</a></h3>
 																
 								</div>
 							</div>		
 							
 							<div class="item-post">
 																	<div class="thumb overlay">
-										<a href="http://better-find.com/8-hollywood-stars-started-x-rated-movies/"><img width="75" height="75" src="http://better-find.com/wp-content/uploads/2015/06/Cameron-Diaz-75x75.jpg" class="attachment-wt75_75 wp-post-image" alt="Cameron Diaz"></a>
+										<a href="http://better-find.com/10-dogs-with-the-shortest-life-expectancy/"><img width="75" height="75" src="http://better-find.com/wp-content/uploads/2015/09/Basset-Hound-75x75.jpg" class="attachment-wt75_75 wp-post-image" alt="Basset Hound"></a>
 									</div>
 																<div class="post-right">
 									
 									<div class="entry-meta">
-										<span class="entry-cat-bg main-color-bg cat2-bg"><a href="http://better-find.com/category/celebs/">CELEBS</a></span>																				<span class="date">June 23, 2015</span>			
+										<span class="entry-cat-bg main-color-bg cat6-bg"><a href="http://better-find.com/category/entertainment/">ENTERTAINMENT</a></span>																				<span class="date">September 6, 2015</span>			
 									</div>
-									<h3><a href="http://better-find.com/8-hollywood-stars-started-x-rated-movies/">8 Hollywood Stars That Started In X-Rated Movies</a></h3>
+									<h3><a href="http://better-find.com/10-dogs-with-the-shortest-life-expectancy/">10 Dogs With The Shortest Life Expectancy</a></h3>
 																
 								</div>
 							</div>		
 							
 							<div class="item-post">
 																	<div class="thumb overlay">
-										<a href="http://better-find.com/9-most-beautiful-beaches-in-the-world/"><img width="75" height="75" src="http://better-find.com/wp-content/uploads/2015/06/beautiful-beach-75x75.jpg" class="attachment-wt75_75 wp-post-image" alt="beautiful-beach"></a>
+										<a href="http://better-find.com/the-most-insane-x-rays-youve-ever-seen/"><img width="75" height="75" src="http://better-find.com/wp-content/uploads/2015/09/Terrible-Toothache-75x75.jpg" class="attachment-wt75_75 wp-post-image" alt="Terrible Toothache"></a>
 									</div>
 																<div class="post-right">
 									
 									<div class="entry-meta">
-										<span class="entry-cat-bg main-color-bg cat6-bg"><a href="http://better-find.com/category/entertainment/">ENTERTAINMENT</a></span>																				<span class="date">June 22, 2015</span>			
+										<span class="entry-cat-bg main-color-bg cat6-bg"><a href="http://better-find.com/category/entertainment/">ENTERTAINMENT</a></span>																				<span class="date">September 6, 2015</span>			
 									</div>
-									<h3><a href="http://better-find.com/9-most-beautiful-beaches-in-the-world/">9 Most Beautiful Beaches In The World – Check Them Out</a></h3>
+									<h3><a href="http://better-find.com/the-most-insane-x-rays-youve-ever-seen/">10 Of The Most Insane X-Rays You’ve Ever Seen</a></h3>
 																
 								</div>
 							</div>		
 							
 							<div class="item-post">
 																	<div class="thumb overlay">
-										<a href="http://better-find.com/8-most-effective-diets-for-fast-results/"><img width="75" height="75" src="http://better-find.com/wp-content/uploads/2015/06/best-diet-75x75.jpg" class="attachment-wt75_75 wp-post-image" alt="best diet"></a>
+										<a href="http://better-find.com/10-of-the-rarest-and-most-mind-blowing-photographs-in-history/"><img width="75" height="75" src="http://better-find.com/wp-content/uploads/2015/08/Construction-Of-The-Eiffel-Tower-75x75.jpg" class="attachment-wt75_75 wp-post-image" alt="Construction Of The Eiffel Tower"></a>
 									</div>
 																<div class="post-right">
 									
 									<div class="entry-meta">
-										<span class="entry-cat-bg main-color-bg cat7-bg"><a href="http://better-find.com/category/health-fitness/">HEALTH &amp; FITNESS</a></span>																				<span class="date">June 22, 2015</span>			
+										<span class="entry-cat-bg main-color-bg cat6-bg"><a href="http://better-find.com/category/entertainment/">ENTERTAINMENT</a></span>																				<span class="date">August 30, 2015</span>			
 									</div>
-									<h3><a href="http://better-find.com/8-most-effective-diets-for-fast-results/">8 Most Effective Diets Ever Discovered</a></h3>
+									<h3><a href="http://better-find.com/10-of-the-rarest-and-most-mind-blowing-photographs-in-history/">10 Of The Rarest (And Most Mind Blowing) Photographs In History</a></h3>
 																
 								</div>
 							</div>		
@@ -292,41 +307,217 @@ The contents of this statement may be altered at any time, at our discretion.</p
 	</footer><!-- /footer -->
 	
 </div><!-- /container -->
-<script type="text/javascript">
-var addthis_config = {"ui_atversion":300,"data_track_clickback":true};
+		<div id="wbounce-modal" class="wbounce-modal underlay" style="display:none">
+			<div id="wbounce-modal-sub" class="wbounce-modal-sub modal">
+				<div class="modal-body">
 
-</script>
-                <!-- AddThis Settings Begin -->
-                <script type="text/javascript">
-                    var addthis_product = "wpp-5.0.5";
-                    var wp_product_version = "wpp-5.0.5";
-                    var wp_blog_version = "4.2.2";
-                    if (typeof(addthis_config) == "undefined") {
-                        var addthis_config = {"ui_atversion":300,"data_track_clickback":true};
-                    }
-                    if (typeof(addthis_share) == "undefined") {
-                        
-                    }
-                </script>
-                <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=wp-b04d61ec259fc7805b65a51406e40a55 " async="async">
-                </script><script type="text/javascript">
-            (function() {
-                var at_interval = setInterval(function () {
-                    if(window.addthis) {
-                        clearInterval(at_interval);
-                        addthis.layers(
-                        {
-                            'theme' : 'transparent',
-                            'share' : {
-                                'position' : 'left',
-                                'numPreferredServices' : 5
-                            }
-                        }
-                        );
-                    }
-                },1000)
-            }());</script><link rel="stylesheet" id="addthis_output-group-css" href="http://better-find.com/wp-content/plugins/bwp-minify/min/?f=wp-content/plugins/addthis/css/output.css" type="text/css" media="all">
+<div id="contentad61148"></div>
+<div id="contentad66787"><script type="text/javascript" async="" src="https://api.content.ad/Scripts/widget2.aspx?id=db8d9c8a-7aed-40b9-9f87-a53f32b3aed5&amp;d=YmV0dGVyLWZpbmQuY29t&amp;wid=66787&amp;cb=1580439515180"></script></div>
+<div id="contentad82630"></div>
 <script type="text/javascript">
+   (function(d) {
+if(Is__Desktop){
+
+	if(window.location.href.indexOf("TB_") > -1) {
+        var params =
+        {
+            id: "7705debc-9152-4073-b130-315f4a526e32",
+            d:  "YmV0dGVyLWZpbmQuY29t",
+            wid: "82630",
+            cb: (new Date()).getTime()
+        };
+
+        var qs=[];
+        for(var key in params) qs.push(key+'='+encodeURIComponent(params[key]));
+        var s = d.createElement('script');s.type='text/javascript';s.async=true;
+        var p = 'https:' == document.location.protocol ? 'https' : 'http';
+        s.src = p + "://api.content.ad/Scripts/widget2.aspx?" + qs.join('&');
+        d.getElementById("contentad82630").appendChild(s);
+	}
+	else{
+        var params =
+        {
+            id: "12e07f84-af23-44c6-bce9-a39d0e643f38",
+            d:  "YmV0dGVyLWZpbmQuY29t",
+            wid: "61148",
+            cb: (new Date()).getTime()
+        };
+
+        var qs=[];
+        for(var key in params) qs.push(key+'='+encodeURIComponent(params[key]));
+        var s = d.createElement('script');s.type='text/javascript';s.async=true;
+        var p = 'https:' == document.location.protocol ? 'https' : 'http';
+        s.src = p + "://api.content.ad/Scripts/widget2.aspx?" + qs.join('&');
+        d.getElementById("contentad61148").appendChild(s);	
+	}
+}
+else{
+   var params =
+        {
+            id: "db8d9c8a-7aed-40b9-9f87-a53f32b3aed5",
+            d:  "YmV0dGVyLWZpbmQuY29t",
+            wid: "66787",
+            cb: (new Date()).getTime()
+        };
+
+        var qs=[];
+        for(var key in params) qs.push(key+'='+encodeURIComponent(params[key]));
+        var s = d.createElement('script');s.type='text/javascript';s.async=true;
+        var p = 'https:' == document.location.protocol ? 'https' : 'http';
+        s.src = p + "://api.content.ad/Scripts/widget2.aspx?" + qs.join('&');
+        d.getElementById("contentad66787").appendChild(s);
+}
+
+    })(document);
+</script>
+
+</div>
+
+<div class="modal-footer">
+  <p>no thanks</p>
+</div>			</div>
+		</div>
+			<script>
+		
+		/*\
+|*|
+|*|  :: cookies.js ::
+|*|
+|*|  A complete cookies reader/writer framework with full unicode support.
+|*|
+|*|  Revision #1 - September 4, 2014
+|*|
+|*|  https://developer.mozilla.org/en-US/docs/Web/API/document.cookie
+|*|  https://developer.mozilla.org/User:fusionchess
+|*|
+|*|  This framework is released under the GNU Public License, version 3 or later.
+|*|  http://www.gnu.org/licenses/gpl-3.0-standalone.html
+|*|
+|*|  Syntaxes:
+|*|
+|*|  * docCookies.setItem(name, value[, end[, path[, domain[, secure]]]])
+|*|  * docCookies.getItem(name)
+|*|  * docCookies.removeItem(name[, path[, domain]])
+|*|  * docCookies.hasItem(name)
+|*|  * docCookies.keys()
+|*|
+\*/
+
+var docCookies = {
+  getItem: function (sKey) {
+    if (!sKey) { return null; }
+    return decodeURIComponent(document.cookie.replace(new RegExp("(?:(?:^|.*;)\\s*" + encodeURIComponent(sKey).replace(/[\-\.\+\*]/g, "\\$&") + "\\s*\\=\\s*([^;]*).*$)|^.*$"), "$1")) || null;
+  },
+  setItem: function (sKey, sValue, vEnd, sPath, sDomain, bSecure) {
+    if (!sKey || /^(?:expires|max\-age|path|domain|secure)$/i.test(sKey)) { return false; }
+    var sExpires = "";
+    if (vEnd) {
+      switch (vEnd.constructor) {
+        case Number:
+          sExpires = vEnd === Infinity ? "; expires=Fri, 31 Dec 9999 23:59:59 GMT" : "; max-age=" + vEnd;
+          break;
+        case String:
+          sExpires = "; expires=" + vEnd;
+          break;
+        case Date:
+          sExpires = "; expires=" + vEnd.toUTCString();
+          break;
+      }
+    }
+    document.cookie = encodeURIComponent(sKey) + "=" + encodeURIComponent(sValue) + sExpires + (sDomain ? "; domain=" + sDomain : "") + (sPath ? "; path=" + sPath : "") + (bSecure ? "; secure" : "");
+    return true;
+  },
+  removeItem: function (sKey, sPath, sDomain) {
+    if (!this.hasItem(sKey)) { return false; }
+    document.cookie = encodeURIComponent(sKey) + "=; expires=Thu, 01 Jan 1970 00:00:00 GMT" + (sDomain ? "; domain=" + sDomain : "") + (sPath ? "; path=" + sPath : "");
+    return true;
+  },
+  hasItem: function (sKey) {
+    if (!sKey) { return false; }
+    return (new RegExp("(?:^|;\\s*)" + encodeURIComponent(sKey).replace(/[\-\.\+\*]/g, "\\$&") + "\\s*\\=")).test(document.cookie);
+  },
+  keys: function () {
+    var aKeys = document.cookie.replace(/((?:^|\s*;)[^\=]+)(?=;|$)|^\s*|\s*(?:\=[^;]*)?(?:\1|$)/g, "").split(/\s*(?:\=[^;]*)?;\s*/);
+    for (var nLen = aKeys.length, nIdx = 0; nIdx < nLen; nIdx++) { aKeys[nIdx] = decodeURIComponent(aKeys[nIdx]); }
+    return aKeys;
+  }
+};
+
+		(function ( $ ) {
+			var fired = false;	// Set "fired" to true as soon as the popup is fired
+			var cookieName = 'wBounce';
+			var aggressive = '1';
+ ////new added by ido for cookie count   
+			var pcount = docCookies.getItem("pcount");
+			if (pcount == null)
+			{
+				docCookies.setItem("pcount", 1, null, "/");
+			}
+			else
+			{
+				docCookies.setItem("pcount", (parseInt(pcount) + 1), null, "/");
+			}
+////////////////
+			$(document).ready(function() {
+				if (typeof ouibounce !== 'undefined' && $.isFunction(ouibounce)) {
+			      var _ouibounce = ouibounce(document.getElementById('wbounce-modal'), {
+			      	cookieExpire:'1',aggressive:true,sitewide:true,cookieName:cookieName,callback:function(){fired = true;ga('send', 'event', 'wBounce', 'fired', document.URL);}			      });
+				};
+
+		      $('body').on('click', function() {
+		        $('#wbounce-modal').hide();
+		        ga('send', 'event', 'wBounce', 'hidden_outside', document.URL);		      });
+
+		      $('#wbounce-modal .modal-close').on('click', function() {
+		        $('#wbounce-modal').hide();
+		        ga('send', 'event', 'wBounce', 'hidden_close', document.URL);		      });
+
+		      $('#wbounce-modal .modal-footer').on('click', function() {
+		        $('#wbounce-modal').hide();
+		        ga('send', 'event', 'wBounce', 'hidden_footer', document.URL);		      });
+
+		      $('#wbounce-modal-sub').on('click', function(e) {
+		        e.stopPropagation();
+		      });
+
+/*
+ * AUTOFIRE JS
+ */
+var autoFire = null;
+///////////////////////////////// Added for mobile timer
+if(Is__Desktop){
+autoFire = null;
+}
+//////////////////////////////// End mobile timer
+//////////////////////////////// added for fire wbounce
+var pcount = docCookies.getItem("pcount");
+
+if (!Is__Desktop  && pcount != null && parseInt(pcount) >= 3)
+{
+	setTimeout( function () {
+		var pcount = docCookies.setItem("pcount", 0, null, "/");
+		_ouibounce._fireAndCallback();
+	}, 7000);
+}
+//////////////////////////////// added for fire wbounce
+
+function isInteger(x) {
+	return (typeof x === 'number') && (x % 1 === 0);
+}
+function handleAutoFire( delay ) {
+	if ( (_ouibounce.checkCookieValue( cookieName, 'true') && !aggressive ) || fired === true ) return;
+	setTimeout( _ouibounce._fireAndCallback, delay );
+}
+if ( isInteger(autoFire) && autoFire !== null ) {
+  handleAutoFire( autoFire );
+}
+/*** /AUTOFIRE JS ***/
+
+			});
+
+		})(jQuery);
+		</script>
+	<script type="text/javascript">
 /* <![CDATA[ */
 var _wpcf7 = {"loaderUrl":"http:\/\/better-find.com\/wp-content\/plugins\/contact-form-7\/images\/ajax-loader.gif","sending":"Sending ...","cached":"1"};
 /* ]]> */
@@ -338,6 +529,30 @@ var ec_ajax_data = {"ajax_url":"http:\/\/better-find.com\/wp-admin\/admin-ajax.p
 /* ]]> */
 </script>
 <script type="text/javascript" src="http://better-find.com/wp-content/plugins/bwp-minify/min/?f=wp-content/themes/wt_tera/js/jquery.touchSwipe.min.js,wp-content/themes/wt_tera/js/jquery.mousewheel.min.js,wp-content/themes/wt_tera/js/custom.js,wp-content/themes/wt_tera/js/jquery.ticker.js,wp-content/themes/wt_tera/js/wt-rating.js"></script>
-<!--wp_footer-->
+
+
+
+<script type="text/javascript" src="http://syndication.exoclick.com/splash.php?idzone=1689108&amp;type=11"></script>
+
+
+
+
+<!--
+<a href="https://play.google.com/store/apps/details?id=com.mobincube.better_find_news.sc_3KAFKT"><img id="android_install" style="position:fixed;bottom:0px;left:0px;width:100%;display:none;" src="http://better-find.com/android-app-install.jpg" onmousedown="ga('send', 'event', 'offer app install', 'click');"></a>
+
+
+<img id="android_install_close" style="position:fixed;bottom:75px;right:5px;display:none;" src="http://better-find.com/close-app-install.png" onclick="document.getElementById('android_install').style.display = 'none';document.getElementById('android_install_close').style.display = 'none';ga('send', 'event', 'offer app install', 'close');">
+-->
+<script>
+//var ua = navigator.userAgent.toLowerCase();
+//var isAndroid = ua.indexOf("android") > -1; //&& ua.indexOf("mobile");
+//if(isAndroid) {
+//  document.getElementById("android_install").style.display = "";
+//  document.getElementById("android_install_close").style.display = "";
+//ga('send', 'event', 'offer app install', 'show');
+//}
+</script>
+
+
 
 </body></html>
