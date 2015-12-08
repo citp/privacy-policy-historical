@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the naturalizer.com privacy policy that was archived on 2015-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150430100831id_/http%3A//www.naturalizer.com/en-US/Content/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the naturalizer.com privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208130532id_/http%3A//www.naturalizer.com/en-US/Content/privacy.aspx) for the most accurate reproduction.*
 
 # Naturalizer.com Privacy Statement - Use of Collected Information
 
 ### Our Commitment to Privacy
 
-This privacy statement discloses the privacy practices for the websites of Brown Shoe Company, Inc., which include but are not limited to the websites of Naturalizer, LifeStride, Franco Sarto, Dr. Scholl’s, Via Spiga, Carlos by Carlos Santana, and Shoes.com. This policy has been updated as of 4/14/2008. 
+This privacy statement discloses the privacy practices for the websites of Caleres, Inc., which include but are not limited to the websites of Naturalizer, LifeStride, Franco Sarto, Dr. Scholl’s, Via Spiga, and Carlos by Carlos Santana. This policy has been updated as of 4/14/2008. 
 
-Brown Shoe Company, Inc. is the sole owner of the information collected on this site. This information will not be shared with, sold or rented to others in ways different from what is disclosed in this statement.  
+Caleres, Inc. is the sole owner of the information collected on this site. This information will not be shared with, sold or rented to others in ways different from what is disclosed in this statement.  
 
 
 This privacy statement will notify you of:
@@ -22,7 +22,7 @@ This privacy statement will notify you of:
 
 Information is collected from users at several different points on this website, including registration and order forms. We may use this information in the following ways:
 
-When you provide your information to one of Brown Shoe Company, Inc.'s websites, we may share that information with one or more of our other websites. 
+When you provide your information to one of Caleres, Inc.'s websites, we may share that information with one or more of our other websites. 
 
 In order to streamline your shopping experience, we recommend that you complete our registration form. During registration you are required to give personal contact information (such as name and email address). By registering your account information, you are able to take advantage of special offers and e-mails about new promotions, fashion trends, site and service announcement updates, etc. It is also more convenient for a registered customer to make purchases online. We do not share your registration information with outside parties. 
 
@@ -30,7 +30,7 @@ On the order form, you must provide contact information (such as name, billing a
 
 If you elect to refer a friend to our website, we ask you for your name and email address and your friend's name and email address. We will automatically send the friend an email inviting him or her to view your selected items on the website. We use this information for the sole purpose of sending this email. 
 
-The personal information you provide may be combined with other personally identifiable information (such as demographic information and past purchase information) available from Brown Shoe Company, Inc., records and other sources. This information will be used to make our future marketing efforts more efficient. 
+The personal information you provide may be combined with other personally identifiable information (such as demographic information and past purchase information) available from Caleres, Inc., records and other sources. This information will be used to make our future marketing efforts more efficient. 
 
 From time to time our site requests information from users via surveys or contests. Participation in these surveys or contests is completely voluntary. Information requested may include contact information (such as name and shipping address) and demographic information (such as zip code and age level). Contact information will be used to notify the winners and award prizes, and for sending participants updates about Naturalizer sales and events. Survey information will be used for purposes of monitoring or improving the use and satisfaction of this site. We may share this information with our service providers who perform services such as gathering survey data or facilitating contests on our behalf, but we do not authorize these providers to disclose or use your information for any other purpose. 
 
@@ -54,7 +54,7 @@ We use outside shipping companies to ship orders and mail catalogs and a credit 
 
 ##### Advertising
 
-We use a third-party service provider to serve ads on our behalf across the Internet and sometimes on this website. These providers may collect anonymous information about your visits to our site and your interaction with our products. They may also use information about your visits to this and other websites to target advertisements for goods and services. No personally identifiable information is collected or used in this process.
+We use a third-party service provider to serve ads on our behalf across the Internet and sometimes on this website. These providers may collect anonymous information about your visits to our site and your interaction with our products. They may also use information about your visits to this and other websites to target advertisements for goods and services. No personally identifiable information is collected or used in this process.For more information, or to manage third-party vendor use of information collected, [click here](http://www.networkadvertising.org/choices/).
 
 ##### Links
 
@@ -62,7 +62,7 @@ From time to time, this site may contain links to other websites. We are not res
 
 ##### Legal Process
 
-We reserve the right to disclose information about you when we believe disclosure is appropriate to comply with the law, or if we believe disclosure is necessary to protect the rights, property and interests of Brown Shoe Company, Inc.
+We reserve the right to disclose information about you when we believe disclosure is appropriate to comply with the law, or if we believe disclosure is necessary to protect the rights, property and interests of Caleres, Inc.
 
 ### Correcting or Updating Personal Information
 
@@ -88,7 +88,7 @@ If you feel that we are not abiding by our posted privacy policy, you should fir
 
 ### Security Policy: Our Commitment to Secure Connections
 
-This security statement discloses the security practices for the websites of Brown Shoe Company, Inc., which include but are not limited to the websites of Naturalizer, LifeStride, Franco Sarto, Dr. Scholl’s, Via Spiga, Carlos by Carlos Santana, and Shoes.com. This statement has been updated as of 4/14/2008. 
+This security statement discloses the security practices for the websites of Caleres, Inc., which include but are not limited to the websites of Naturalizer, LifeStride, Franco Sarto, Dr. Scholl’s, Via Spiga, and Carlos by Carlos Santana. This statement has been updated as of 4/14/2008. 
 
 This security statement will notify you of the kind of security procedures that are in place to protect the loss, misuse or alteration of information under our control.  
 
