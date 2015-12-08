@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newyork.com privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630045402id_/http%3A//www.newyork.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newyork.com privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208031213id_/http%3A//www.newyork.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - NewYork.com
 
