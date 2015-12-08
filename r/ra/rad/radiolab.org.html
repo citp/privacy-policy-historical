@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the radiolab.org privacy policy that was archived on 2015-06-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150627084522id_/http%3A//www.radiolab.org/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the radiolab.org privacy policy that was archived on 2015-12-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151208180036id_/http%3A//www.radiolab.org/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
   <meta charset="utf-8">
@@ -14,7 +14,7 @@ Privacy Policy
   <meta property="og:url" content="/privacy/?utm_source=sharedUrl&amp;utm_medium=metatag&amp;utm_campaign=sharedUrl">
   <meta property="og:site_name" content="radiolab">
   <meta property="fb:app_id" content="160851653954150">
-  <meta property="og:description" content="Last updated on July 2, 2014. Please also see our Terms of Service.&amp;nbsp; New York Public Radio&amp;rsquo;s Digital Platforms This Privacy Policy, along with our Terms of Service, applies to all users of New York Public Radio&amp;rsquo;s (NYPR&amp;rsquo;s) digital platforms, including, e.g., this website&amp;nbsp;(and all of NYPR&amp;rsquo;s other websites, like wnyc.org and wqxr.org, that link to&amp;nbsp;this Privacy Policy), embeddable content that we may make available for use on other people&amp;rsquo;s websites or digital platforms, and our apps, other than third party content, discussed in Other Sites and Services, below. We take your privacy seriously and want you to understand how ...">
+  <meta property="og:description" content="Last updated on July 2, 2014. Please also see our Terms of Service.&nbsp; New York Public Radio’s Digital Platforms This Privacy Policy, along with our Terms of Service, applies to all users of New York Public Radio’s (NYPR’s) digital platforms, including, e.g., this website&nbsp;(and all of NYPR’s other websites, like wnyc.org and wqxr.org, that link to&nbsp;this Privacy Policy), embeddable content that we may make available for use on other people’s websites or digital platforms, and our apps, other than third party content, discussed in Other Sites and Services, below. We take your privacy seriously and want you to understand how ...">
 
   
   
@@ -25,7 +25,7 @@ Privacy Policy
 
 
 
-  <meta name="description" content="Last updated on July 2, 2014. Please also see our Terms of Service.&amp;nbsp; New York Public Radio&amp;rsquo;s Digital Platforms This ...">
+  <meta name="description" content="Last updated on July 2, 2014. Please also see our Terms of Service.&nbsp; New York Public Radio’s Digital Platforms This ...">
 
   <!-- Google custom search stuff -->
 
@@ -66,6 +66,20 @@ Privacy Policy
     googletag.pubads().setTargeting('host', window.location.host);
     googletag.pubads().setTargeting('fullurl', window.location.host + window.location.pathname);
   
+    if (wnyc.current_item){
+        if (wnyc.current_item.tags) {
+            googletag.pubads().setTargeting('tag', wnyc.current_item.tags);
+        }
+        if (wnyc.current_item.show) {
+            googletag.pubads().setTargeting('show', wnyc.current_item.show);
+        }
+        if (wnyc.current_item.channel) {
+            googletag.pubads().setTargeting('channel', wnyc.current_item.channel);
+        }
+        if (wnyc.current_item.series) {
+            googletag.pubads().setTargeting('series', wnyc.current_item.series);
+        }
+    }
   });
 
 </script>
@@ -101,7 +115,7 @@ Privacy Policy
 
   
   
-<script type="text/javascript" src="//media.wnyc.org/static/CACHE/js/5e451453d40b.js"></script>
+<script type="text/javascript" src="//media.wnyc.org/static/CACHE/js/e031ed0d62ee.js"></script>
 
 
 
@@ -115,7 +129,7 @@ Privacy Policy
 
   
   
-<link rel="stylesheet" href="//media.wnyc.org/static/CACHE/css/914b058d7d58.css" type="text/css" media="all">
+<link rel="stylesheet" href="//media.wnyc.org/static/CACHE/css/2a12a17d4b9e.css" type="text/css" media="all">
 
 
   
@@ -341,7 +355,7 @@ var flag_url = '/comments/adminflag/';
       <p>
         Radiolab is supported, in part, by the <a href="http://www.sloan.org">Alfred P. Sloan Foundation</a>, enhancing public
         understanding of science and technology in the modern world.   <br>
-        Radiolab is distributed by <a href="http://npr.org"><img src="//media.wnyc.org/static/img/radiolab/radiolab-npr-credit.png"></a>
+        Radiolab is distributed by <a href="http://wnycstudios.wnyc.org" target="_blank"><img src="//media.wnyc.org/static/img/wnycstudios/static1.squarespace-1.png" width="38px"></a>
       </p>
     </div>
     <div class="grid_12 radiolab-footer-nav">
@@ -466,12 +480,11 @@ jQuery(window).bind('load', function() {
 
   
 
-
   
   
   
   
-<script type="text/javascript" src="//media.wnyc.org/static/CACHE/js/adcecc4c9717.js"></script>
+<script type="text/javascript" src="//media.wnyc.org/static/CACHE/js/25a84172ebc8.js"></script>
 
 
   
@@ -501,7 +514,8 @@ jQuery(window).bind('load', function() {
 
 
 
-
+  <!-- requested pixel addition  -->
+  <script language="JavaScript1.1" src="//pixel.mathtag.com/event/js?mt_id=813612&amp;mt_adid=137812&amp;v1=&amp;v2=&amp;v3=&amp;s1=&amp;s2=&amp;s3="></script>
   <!-- Application OK - health checks look for this string. -->
 
 
