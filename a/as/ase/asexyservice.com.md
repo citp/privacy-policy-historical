@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the asexyservice.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610002101id_/http%3A//asexyservice.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asexyservice.com privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208214552id_/http%3A//www.asexyservice.com/privacy) for the most accurate reproduction.*
 
 # Browse the webs hottest classifieds - A Sexy Service.com
 
