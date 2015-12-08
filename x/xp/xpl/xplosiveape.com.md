@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xplosiveape.com privacy policy that was archived on 2015-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150527060636id_/http%3A//xplosiveape.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xplosiveape.com privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208043212id_/http%3A//xplosiveape.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - XPLOSIVEAPE
 
@@ -60,7 +60,7 @@ Links
 
 When you click on links on our store, they may direct you away from our site. We are not responsible for the privacy practices of other sites and encourage you to read their privacy statements.
 
- **SECTION 6 - SECURITY**
+**SECTION 6 - SECURITY**
 
 To protect your personal information, we take reasonable precautions and follow industry best practices to make sure it is not inappropriately lost, misused, accessed, disclosed, altered or destroyed.
 
@@ -98,6 +98,6 @@ If you would like to: access, correct, amend or delete any personal information 
 
 Re: Privacy Compliance Officer
 
-33 Cobden House Leicester Leicester UK LE1 2LB
+34 Cobden House Leicester Leicester UK LE1 2LB
 
 \----
