@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myron.com privacy policy that was archived on 2015-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150613232022id_/http%3A//www.myron.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myron.com privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208230339id_/http%3A//www.myron.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Myron US
 
@@ -7,7 +7,7 @@
 
 This Privacy Policy sets forth the policies of Myron Corp. (“Myron,” “we,” “us” or “our”), located in the United States, with respect to personal information that is collected from Registered Users of the Site.  All capitalized terms not defined herein shall have the meaning attributed to them in the [Terms of Use](https://web.archive.org/terms-of-use) of the Site. 
 
- **By voluntarily providing us with your personal information you expressly consent to the collection and processing by Myron of your personal information in accordance with this Privacy Policy.**
+**By voluntarily providing us with your personal information you expressly consent to the collection and processing by Myron of your personal information in accordance with this Privacy Policy.**
 
 If you provide, or authorize the provision of your personal information to this Site, you acknowledge and expressly agree that such personal information may be transferred, for the purposes as defined in this Privacy Policy, from your current location to the offices and servers of Myron and the authorized third parties (the “Third Parties”) referred to herein located in countries outside of the United States, which may have different standards of data protection; your personal information will only ever be used in accordance with this Privacy Policy however).
 
@@ -17,11 +17,11 @@ The following personal information will be collected and processed: professional
 
 ## Other data
 
- ** _Passively-collected information:_** When you interact with Myron through the Site, we receive and store certain non-personally identifiable information. Such information, which is collected passively using various technologies, cannot presently be used to specifically identify you. Myron may store such information itself or it may be included in databases owned and maintained by Myron’ affiliates, agents, or service providers. This Site may use such information and pool it with other information to track, for example, the total number of visitors to our Site, the number of visitors to each page of our Site, and the domain names of our visitors’ Internet service providers. It is important to note that no personal information is available or used in this process.
+**_Passively-collected information:_** When you interact with Myron through the Site, we receive and store certain non-personally identifiable information. Such information, which is collected passively using various technologies, cannot presently be used to specifically identify you. Myron may store such information itself or it may be included in databases owned and maintained by Myron’ affiliates, agents, or service providers. This Site may use such information and pool it with other information to track, for example, the total number of visitors to our Site, the number of visitors to each page of our Site, and the domain names of our visitors’ Internet service providers. It is important to note that no personal information is available or used in this process.
 
- ** _Aggregated personal information:_** In an ongoing effort to better understand our Registered Users, Myron might analyze the personal information that is provided to the Site in aggregate form. This aggregate information does not identify you personally. Myron may share this aggregate data with other Registered Users, its affiliates, agents, and business partners. We may also disclose aggregated User statistics in order to describe our business, including our Products and Services, to current and prospective business partners, and to other third parties for other lawful purposes.
+**_Aggregated personal information:_** In an ongoing effort to better understand our Registered Users, Myron might analyze the personal information that is provided to the Site in aggregate form. This aggregate information does not identify you personally. Myron may share this aggregate data with other Registered Users, its affiliates, agents, and business partners. We may also disclose aggregated User statistics in order to describe our business, including our Products and Services, to current and prospective business partners, and to other third parties for other lawful purposes.
 
- ** _Cookies:_ **In operating the Site, we may use a technology called “cookies.” A cookie is a piece of information that the computer that hosts our Site gives to your computer when you access a web site. Our cookies help provide additional functionality to the Site and help us analyze Site usage more accurately. In all cases in which we use cookies, we will not collect personal information except with your permission. On most web browsers, you will find a “help” section on the toolbar. Please refer to this section for information on how to receive notification when you are receiving a new cookie and how to turn cookies off. We recommend that you leave cookies turned on because they allow you to take advantage of some of the Site’s features. 
+**_Cookies:_ **In operating the Site, we may use a technology called “cookies.” A cookie is a piece of information that the computer that hosts our Site gives to your computer when you access a web site. Our cookies help provide additional functionality to the Site and help us analyze Site usage more accurately. In all cases in which we use cookies, we will not collect personal information except with your permission. On most web browsers, you will find a “help” section on the toolbar. Please refer to this section for information on how to receive notification when you are receiving a new cookie and how to turn cookies off. We recommend that you leave cookies turned on because they allow you to take advantage of some of the Site’s features. 
 
 ## How we use personal information
 
@@ -33,14 +33,24 @@ If Myron intends on using any personal information in any manner that is not con
 
 We may share your personal information with **Third Parties** including, but not limited to, the following: Agents, Consultants, and related Third Parties. Myron, like many businesses, sometimes hires other companies to perform certain business-related functions. Examples include mailing information, maintaining databases, and processing payments. When we employ another company to perform a function of this nature, we provide them only with the information that they need to perform their specific function, and we select companies that provide sufficient guarantees of confidentiality and security. We ensure that the company will act only on our instructions and will have appropriate technical and organizational measures to protect your personal information.
 
- **Legal requirements:** Myron may disclose your personal information if required to do so by law or in the good faith belief that such action is necessary to (a) comply with a legal obligation, (b) protect and defend the rights or property of Myron, (c) act in urgent circumstances to protect the personal safety of users of the Site or the public, or (d) protect against legal liability.
+**Legal requirements:** Myron may disclose your personal information if required to do so by law or in the good faith belief that such action is necessary to (a) comply with a legal obligation, (b) protect and defend the rights or property of Myron, (c) act in urgent circumstances to protect the personal safety of users of the Site or the public, or (d) protect against legal liability.
 
- **Business transfers:** As we develop our business, we might sell or buy businesses or assets. In the event of a corporate sale, merger, reorganization, dissolution or similar event, personal information may be part of the transferred assets.
+**Business transfers:** As we develop our business, we might sell or buy businesses or assets. In the event of a corporate sale, merger, reorganization, dissolution or similar event, personal information may be part of the transferred assets.
 
- **What are your choices  
-** As outlined in this Privacy Policy, you can always choose not to provide your personal information to the Site, however doing so may prevent you from obtaining certain information or using other valuable features of the Site. During the registration process for Registered Users, our Site provides an opportunity to opt-out of receiving communications from Myron and/or Third Parties.
+**What are your choices  
+**As outlined in this Privacy Policy, you can always choose not to provide your personal information to the Site, however doing so may prevent you from obtaining certain information or using other valuable features of the Site. During the registration process for Registered Users, our Site provides an opportunity to opt-out of receiving communications from Myron and/or Third Parties.
 
 We also use third-party advertising companies to serve ads and/or collect certain information when you visit our website. These companies may use cookies or web beacons to collect non-personally identifiable information such as IP Address, pages viewed, and if a conversion occurred during your visit to this website in order to help show advertisements on other websites likely to be more interesting to you. To learn more about this “behavioral advertising” practice or to opt-out of this use of your anonymous information, you can visit [www.networkadvertising.org](http://www.networkadvertising.org/).
+
+## How to opt-out of marketing newsletters and special offer promotions
+
+From time to time, we may send you marketing and special offer emails that may interest you. If you do not wish to receive these emails you may choose to "opt-out" by any of the following methods:
+
+a)The fastest and easiest way to opt-out of our emails is to click on the "Unsubscribe" link found at the bottom of our marketing emails.
+
+b)You can also unsubscribe by unchecking the "Newsletter Status" box found under "My Profile" in the "My Account" section.
+
+c)Call us at 1-877-803-3358 or write to [service@myron.com](mailto:service@myron.com) requesting we remove your name from our mailing lists. Please note that we will use all our reasonable efforts to do so in a timely fashion. 
 
 ## Safe Harbor Privacy Principles
 
@@ -78,7 +88,7 @@ Notice to Users: If you are not a Registered User, you should check the Privacy 
 
 You may view and correct your personal information by accessing the Registered User link on the header of the Site. Please note that you must log in with your private Sign-In Name, Password, and Unique Identifiers to access and/or your Registered User Profile.
 
-Right to access, modify, and oppose to the processing of your data
+## Right to access, modify, and oppose to the processing of your data
 
 You have the ability to access your personal information, rectify and correct or delete inaccurate, incomplete, equivocal, expired Data as well as the ability to object to the processing of your personal information, for legitimate purposes. To exercise any of these rights, please contact Myron in the manner described below.
 
@@ -89,10 +99,14 @@ Please feel free to contact us if you have any questions about this Privacy Poli
 You may contact us as follows:
 
   * E-mail: [service@myron.com](mailto:service@myron.com)
+
+
   * Regular Mail:   
 Myron Corp.   
 205 Maywood Avenue   
-Maywood, NJ 07607 
+Maywood, NJ 07607 
+
+
   * Phone: 201-843-6796
 
 
