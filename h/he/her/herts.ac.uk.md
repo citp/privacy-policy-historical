@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the herts.ac.uk privacy policy that was archived on 2015-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150615081445id_/http%3A//www.herts.ac.uk/about-us/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the herts.ac.uk privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208221919id_/http%3A//www.herts.ac.uk/about-us/legal/privacy) for the most accurate reproduction.*
 
 # Privacy | University of Hertfordshire
 
@@ -53,6 +53,6 @@ Many of our web pages contain links to social networking sites that are provided
 We will embed videos into our web pages, mostly from YouTube and Vimeo. These third parties might be gathering usage information and setting their own cookies. Details of their privacy policies can be found here:
 
   * [YouTube's Privacy Policy](http://uk.youtube.com/t/privacy "YouTube's privacy policy")
-  * [Vimeo's Privacy Policy](http://vimeo.com/privacy "Vimeo's privacy policy")
+  * [Vimeo's Privacy Policy](https://vimeo.com/privacy "Vimeo's privacy policy")
 
 
