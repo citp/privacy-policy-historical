@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the misco.co.uk privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230221338id_/http%3A//www.misco.co.uk/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the misco.co.uk privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208193441id_/http%3A//www.misco.co.uk/privacy-statement) for the most accurate reproduction.*
 
 # Security and Privacy Statement - Misco.co.uk
 
@@ -32,6 +32,14 @@ If you place an order through the Site, you will be required to provide contact,
 
 Upon placing an order through the Site, you may begin receiving both the Misco UK catalogue and the Misco UK email newsletter, based on the Personal Information you have provided, unless you opt-out of receiving such communications. If you request an email newsletter subscription, we will send you an email confirming your request. This confirmation process allows you to unsubscribe if you change your mind and decide not to join the list. Furthermore, the confirmation email will alert you if someone else has entered your email address into our email newsletter subscription list. In order to make our email newsletters more relevant and useful to you, our servers may receive a confirmation when you open an email message from Misco UK.
 
+### Website Recording
+
+The contract's content will be stored. You may store the terms and readily look them up. For safety reasons your order's data are not available via internet. We keep these data in confidence according to our privacy policy.
+
+### Storage of concluded contracts
+
+Our website may also use a website recording service which may record mouse clicks, mouse movements, page scrolling and any text keyed into website forms. Data collected by this service is used to improve our website usability. The information collected is stored and is used for aggregated and statistical reporting, and is not shared with anybody else.
+
 ## 2\. Use of Information Collected By Us
 
 We use this information in an effort to improve your experience on the Site, to provide services to you and to communicate with you about information that you request. We may also use this information to help us target specific offers to you, to help us develop and improve our Site, and to tailor our Site to your interests. 
@@ -42,7 +50,7 @@ We may also contact you with relevant promotional material when you do not compl
 
 We will not rent, sell or otherwise disclose your Personal Information to unrelated third parties without your consent, except as stated in this Privacy Policy.
 
-If you do not want to receive information from third parties you may opt out, by going to My Account>Update eDeal and Catalogue Preferences and un-ticking the relevant box. You may also email your request to [list-cleaning@misco.co.uk](https://web.archive.org/web/20121230221338id_/http%3A//www.misco.co.uk/list-cleaning@misco.co.uk).
+If you do not want to receive information from third parties you may opt out, by going to My Account>Update eDeal and Catalogue Preferences and un-ticking the relevant box. You may also email your request to [list-cleaning@misco.co.uk](https://web.archive.org/web/20151208193441id_/http%3A//www.misco.co.uk/list-cleaning@misco.co.uk).
 
 ### Service Providers
 
@@ -50,7 +58,10 @@ We may employ other companies or individuals to provide certain services to or o
 
 ### Credit Card Companies
 
-If you place an order through the Site, the Personal Information you provide is transmitted to your credit card company to verify and authorize your purchase. At certain times we may offer financing options with or without third party participation. If you use a financing option, information provided by you (such as your address, birth date, social security number, and credit card number) may be used to request a credit report from third parties or may be sent to a third party for processing.
+If you place an order through the Site, the Personal Information you provide is transmitted to your credit card company to verify and authorize your purchase. At certain times we may offer financing options with or without third party participation. If you use a financing option, information provided by you (such as your address, birth date, social security number, and credit card number) may be used to request a credit report from third parties or may be sent to a third party for processing.  
+Furthermore, we hereby inform you, in connection with your order, of the use of the "Fraud Expert" solution in addition to the processing of card not present payments. Your personal data is processed by Ingenico e-Commerce Solutions SPRL being the controller, for the purpose of preventing and combating fraud (determining risk levels associated with transactions, detecting and managing any resulting alerts, informing merchants to allow them to take decisions, "human" reviews of transactions with a specified level of risk, modelling of the score).  
+The collection of certain of your personal data is a mandatory requirement for this purpose. Without this data, your transaction could be delayed or rendered impossible and your order cancelled.  
+This data is intended for the authorised departments of the Ingenico e-Commerce Solutions entities involved in such processing, and for the merchant, as well as for any third party whose involvement is required to ensure the smooth operation of the payment process and the functioning of the services offered.
 
 ### Third Party Partners
 
@@ -99,6 +110,8 @@ If your name, e-mail or postal address, telephone number or other Personal Infor
 Misco UK Limited is a Data Controller, as defined by the Data Protection Act (1998) (“the Act”). Our registration number is Z6290748. Data we hold is maintained in accordance with the Act, and we may contact you from time to time to verify and update this data.
 
 You have the right to access the data we hold on you. We will supply this data within 40 days of a request being made, at a nominal charge of £10 per request. To request access to your data please write to us at Misco, 10-14 Darby Close, Park Farm South Industrial Estate, Wellingborough, Northants, NN8 6XH
+
+You also have the right to request the correction or deletion of the data that we hold on you. Please contact [cs@misco.co.uk](mailto:cs@misco.co.uk) or write to us at Misco, 10-14 Darby Close, Park Farm South Industrial Estate, Wellingborough, Northants, NN8 6XH.
 
 ## 8\. Contact Information
 
