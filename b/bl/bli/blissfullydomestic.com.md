@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blissfullydomestic.com privacy policy that was archived on 2015-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150314231722id_/http%3A//blissfullydomestic.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blissfullydomestic.com privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208123300id_/http%3A//blissfullydomestic.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Blissfully Domestic
 
@@ -88,6 +88,5 @@ This policy was last modified on January 23, 2014.
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
-http://blissfullydomestic.com
-
+http://blissfullydomestic.com  
 shanna@blissfullydomestic.com
