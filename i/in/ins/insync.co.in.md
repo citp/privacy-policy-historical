@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the insync.co.in privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627115105id_/http%3A//appseconnect.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insync.co.in privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208144433id_/http%3A//appseconnect.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - APPSeCONNECT
 
