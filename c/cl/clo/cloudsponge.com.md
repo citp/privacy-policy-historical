@@ -1,145 +1,108 @@
-> *The following text is extracted and transformed from the cloudsponge.com privacy policy that was archived on 2014-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140604060008id_/http%3A//www.cloudsponge.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cloudsponge.com privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208012443id_/http%3A//www.cloudsponge.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | CloudSponge
+# Privacy Policy
 
-_Last Updated: August 18, 2011_
+Last Revised: October 1, 2015
 
-## 1\. Introduction
+Welcome to CloudSponge.com, the website and online service of Cloud Copy, Inc. ("Cloud Copy"). Cloud Copy is committed to protecting your privacy. This Privacy Policy applies to our website and service known commercially as “CloudSponge,” as well as our APIs (collectively the "Service"). This Privacy Policy applies only to the practices of companies we own, control, or are united with under common control. By accessing or using our Service, including by uploading or submitting your information through the Service, you signify that you agree to our collection, storage, use and disclosure of your personal information as described in this Privacy Policy. If you open or have opened an account on behalf of a company, organization, government, or other legal entity, then (a) "you" includes both you and the entity you represent; and (b) you represent and warrant that you are legally authorized to consent to our collection, storage, use, and disclosure of the personal information we collect from you as described in this Privacy Policy. All capitalized terms that are not defined herein have the meanings given them in the [Cloud Copy Terms of Service Agreement](https://web.archive.org/terms/).
 
-CloudSponge is committed to maintaining your privacy, and the accuracy and security of your personal information pursuant to applicable legislation. This Privacy Policy summarizes the principles and guidelines we follow in collecting, using and disclosing personal information about you and other individuals and in responding to requests for information in our custody or control.
+  1. Information We Collect
+  2. Sharing Personal Information with Third Parties
+  3. Your Choices Regarding Your Information
+  4. Security and Storage of Information
+  5. Persons Under the Age of 13
+  6. Links to Third-party Websites
+  7. Updates to this Privacy Policy
+  8. Contacting Us
+  9. Last Revision Date
 
-Please note that we reserve the right to modify or amend this Policy at any time and for any reason. Please check the CloudSponge website, currently at www.CloudSponge at any time for the most current version of our Policy. 
 
-Other than as required or permitted by law, we will not change the purposes for which we collect, use or disclose your personal information without (a) giving you notice and (b) obtaining your consent to do so. We will give you such notice by posting any modification, change or amendment on our website or otherwise corresponding with you.
 
-## 2\. Personal Information
+* * *
 
-In this Policy, ”personal information” or “personally identifiable information” means information or data about an individual who is or can be identified by the information or data, or who can be identified by our using that information or data in connection with other information or data that we may obtain about the same individual.
+  1. INFORMATION WE COLLECT 
 
-## 3\. Our Need for Personal Information
+    1. _Generally_. We collect personal information from our users in order to provide you with a personalized, useful and efficient experience. The categories of information we collect can include:
 
-We collect, use and disclose personal information in order to provide the services we offer, to operate our business and to comply with applicable law. It is our policy to do so lawfully and fairly and for reasonable purposes. Unless otherwise required by applicable law, CloudSponge will collect, use and disclose your personal information only in accordance with this Policy. If you register with us as a Member (as defined in our Terms of Use), we will be entitled to use and disclose your personal information for purposes reasonably related to our contract with you and the services we provide to you or on your behalf or at your request or as set out in this Policy.
+      1. _Information you provide_. You can browse our site without providing personal information, but you must register in order to access most of the features of the Service. We ask for certain information such as your company name, your name, email address, and password when you create an account on the Service, or if you correspond with us. We may also collect payment information in connection with a transaction on the Service. If you decide to try the Service by uploading your team members’ contact information to your account through the Service, we may request your log-in credentials for the third-party service from which you would like us to access the information in your web-based or desktop address book.
 
-## 4\. Notification and Consent
+      2. _User Content and Messages_. After you setup your account, you may choose to provide additional information such as the names and email addresses of additional members of your team or an additional phone number. You may also test the Service by uploading your team members’ name and email address to your account from your address book using the Service. At times, you may choose to send us messages. We may retain any messages you send to us.
 
-Unless otherwise required or permitted by applicable law, we will first notify you of the purposes for which we collect, use or disclose personal information about you.
+      3. _Information about others_. Upon creating an account on the Service, you may use the Service to request that your users grant you access to their various contact lists and make these contact lists available to you through the Service in order for you to invite their friends and contacts to connect with your information system. We support the OAuth standard and will use the OAuth standard to facilitate your users’ upload of their data from their respective contact management provider whenever possible. **Use of the Service with respect to third-party contact management providers that support the OAuth standard does not require Cloud Copy to have access to, and Cloud Copy will not in fact have access to, your users’ passwords in such instances**. We may request your users’ log-in credentials in order to complete the upload of their address book information from any source that does not support the OAuth standard.
 
-It is our policy to require consent from you before collecting, using or disclosing your personal information Consent may be given orally, electronically (for example, by clicking a button) or in writing. There may be situations in which your consent may be implied or inferred from the circumstances, taking into account reasonable expectations of individuals and the sensitivity of the personal information in question.
+We use this information to operate, maintain, and provide to you the features and functionality of the Service, as well as to communicate directly with you, such as to send you email messages and permit you to make requests of your users through the Service. We may also send you Service-related emails or messages (e.g., account verification, order confirmations, change or updates to features of the Service, technical and security notices). For more information about your communication preferences, see "Your Choices Regarding Your Information" below.
 
-If you register with us as a Verified Member, we will advise you of this Policy. If you object to any of your personal information being collected, used or disclosed as described in this Policy or as otherwise required or permitted by law, you should not register with us as a Verified Member.
+    2. _Use of cookies and other technology to collect information_. We automatically collect certain types of usage information when you visit our website or use our Service.
 
-It is our policy to obtain only as much personal information as is required for the purposes identified or as otherwise required or permitted by law.
+      1. _Cookies and Similar Technologies_. When you visit the Service, we may send one or more cookies - a small text file containing a string of alphanumeric characters - to your computer that uniquely identifies your browser and lets us help you log in faster and enhance your navigation through the site. A cookie may also convey information to us about how you use the Service (e.g., the pages you view, the links you click, how frequently you access the Service, and other actions you take on the Service), and allow us to track your usage of the Service over time. We may employ clear gifs (also known as web beacons) which are used to anonymously track the online usage patterns of our users. In addition, we may also use clear gifs in HTML-based emails sent to our users to track which emails are opened and which links are clicked by recipients. The information allows for more accurate reporting and improvement of the Service.
 
-Once you have provided personal information to us, your continuing to do so and to deal with us with knowledge of this Policy will be considered by us to confirm your ongoing consent to our collection, use and disclosure of your personal information in accordance with this Policy unless and until you advise us otherwise.
+      2. _User Agent Data_. We may collect user agent information from your browser or mobile device each time you access the Service. User agent information may include anonymous information such as your web request, Internet Protocol ("IP") address, browser type, information about your mobile device, referring / exit pages and URLs, domain names, landing pages, pages viewed, and other such information. When you access our Service by or through a mobile device, we may receive or collect and store a unique identification numbers associated with your device ("Device ID"), mobile carrier, device type and manufacturer, phone number, and, depending on your mobile device settings, your geographical location data, including GPS coordinates (e.g. latitude and/or longitude) or similar information regarding the location of your mobile device.
 
-## 5\. Third Party Web Sites
+      3. _Links_. We may keep track of how you interact with links across our Service, including our email notifications, third-party services, and client applications, by redirecting clicks or through other means. We do this to help improve our Service and to be able to share aggregate click statistics such as how many times a particular link was clicked on, even if it was only clicked on once.
 
-Third party web sites are governed by their own privacy statements and not by this Policy. Third party sites may also be subject to the laws of different countries where requirements and obligations to you are different. CloudSponge has no control over and is not responsible for the privacy practices or the content of third party web sites, third party referrals or web site links.
+      4. _Third Parties_. We may receive reports from third party analytics providers, which we may combine with the personal data we collect from you directly to provide and improve the Service.. These tools collect information sent by your browser or mobile device, including the pages you visit, your use of third party applications, and other information that assists us in analyzing and improving the Service. We also use advanced analytics service providers, such as Inspectlet and CrazyEgg to analyze how you interact and engage with our Service. The collection and storage of your data by these service providers is governed by their respective privacy policies, which can be accessed here: [Inspectlet Privacy Policy](https://www.inspelect.com/legal#privacy) and [Crazy Egg Privacy Policy](https://www.crazyegg.com/privacy). You can opt out of the collection and storage of your data by either of these companies at any time by using the links below:
 
-## 6\. How and Why We Collect Personal Information
+[Opt Out Inspectlet](https://www.inspeclet.com/optout)
 
-### Required Information
+[Opt Out CrazyEgg](https://www.crazyegg.com/opt-out)
 
-To open and maintain an Account (as defined in our Terms of Use), we require that you provide us with the following information.
+We use or may use the data collected through cookies, log file, device identifiers, location data and clear gifs information to: (a) remember information so that you will not have to re-enter it during your visit or the next time you visit the site; (b) provide custom, personalized content and information, including advertising; (c) provide and monitor the effectiveness of our Service; (d) monitor aggregate metrics such as total number of visitors, traffic, usage, and demographic patterns on our website and our Service; (e) diagnose or fix technology problems; and (f) otherwise to plan for and enhance our Service. We do not permit third party behavioral advertising on our site.
 
-  1. your company's name;
-  2. your first and last name;
-  3. your e-mail address;
-  4. a password;
-  5. your website information.
+  2. SHARING PERSONAL INFORMATION WITH THIRD PARTIES 
 
+We may share your personal information in the instances described below. For further information on your choices regarding your information, see "Your Choices Regarding Your Information."
 
+We may also share your personal information with:
 
-### IP Address/Computer Information
+    * Other companies owned by or under common ownership as Cloud Copy, which also includes our subsidiaries (i.e., any organization we own or control) or our ultimate holding company (i.e., any organization that owns or controls us) and any subsidiaries it owns. These companies will use your personal information in the same way as we can under this Policy;
 
-We may collect the Internet address (IP address) of the computer or device you use to access your CloudSponge Account, as well as information about the computer or device you use, such as the CPU identifier or hard disk identifier, in order to analyze trends, administer the site, improve site performance, gather broad demographic or user profile information for aggregate use, and to help detect or prevent fraud, illegal activity or unauthorized transactions.
+    * Third party vendors, consultants and other service providers that perform services on our behalf or in order to carry out their work for us, which may include payment processing, content or service fulfillment, or providing analytics services;
 
-### Information About You From Third Parties
+    * Third parties at your request. If you decide to test the Service by uploading your own address book in order to invite your team members to join the Service, then any content you voluntarily post through the Service in association with your requests will become available to your contacts;
 
-In order to detect or prevent fraud, illegal activity or in order to assist us in investigating suspected violations of our Terms of Use, we may collect and disclose personal information from and to third parties. We may conduct a credit check or obtain a consumer report on you from a credit bureau or consumer reporting agency for identification verification and collection purposes.
+    * Other parties in connection with any company transaction, such as a merger, sale of company assets or shares, reorganization, financing, change of control or acquisition of all or a portion of our business by another company or third party or in the event of bankruptcy or related or similar proceedings; and
 
-CloudSponge, at its sole discretion, reserves the right to suspend or terminate an Account or decline a transaction based on information obtained from third parties.
+    * Third parties as required to (a) satisfy any applicable law, regulation, subpoena/court order, legal process or other governmental request, (b) enforce our Terms of Service Agreement, including the investigation of potential violations thereof, (c) investigate and defend ourselves against any third party claims or allegations, (d) protect against harm to the rights, property or safety of Cloud Copy, its users or the public as required or permitted by law and (e) detect, prevent or otherwise address criminal (including fraud or stalking), security or technical issues.
 
-### Web Site Traffic Information
+We may also share information with others in an aggregated and anonymous form that does not reasonably identify you directly as an individual or entity.
 
-Because of the way that World Wide Web communication standards work, when you arrive at or leave the CloudSponge website, our servers automatically receive the Web address of the site that you came from or are going to. We also collect information on which pages of our Web site you visit while you are on the CloudSponge website, the type of browser you use and the times you access our Web site. We use this information only to try to understand our Members’ preferences and user profiles better and to manage the load on our servers, so as to improve our service and your experience with CloudSponge. We may use the services of a third party to collect and analyze click stream or other user data. In such cases, we may then tie the data from such third party to your personal information stored by us internally.
+  3. YOUR CHOICES REGARDING YOUR INFORMATION 
 
-### Our Use of "Cookies"
+    * Account data. You can edit and change your profile and account data through "Settings" controls on the Service.
 
-"Cookies" are small files of data that reside on your computer and allow us to recognize you as a CloudSponge customer if you return to the CloudSponge site using the same computer and browser. We send a "session cookie" to your computer if and when you log in to your Account by entering your e-mail address and password. These cookies allow us to recognize you if you visit multiple pages in our site during the same session, so that you don’t need to re-enter your password multiple times. Once you log out or close your browser, these session cookies expire and no longer have any effect.
+    * Marketing Communications. If you do not wish to receive promotional emails, you can click the "unsubscribe" button on promotional email communications. Note that you are not permitted to unsubscribe or opt-out of non-promotional messages regarding your account, such as account verification, password requests, order confirmations, change or updates to features of the Service, or technical and security notices.
 
-Most browsers allow you to turn off cookies. If you want to know how to do this please look at the help menu on your browser. However, switching off cookies will severely restrict your ability to use the CloudSponge site.
+    * Data Retention. We will retain your information for as long as your account is active or as needed to provide you the Service. We only retain your users’ information as long as needed to provide the Service to you. Please contact us if you wish to delete your account.
 
-### Information About Your Customers
+    * Do-Not-Track. Because we want to provide you with a personalized experience on the Service, we do not change our behavior based on a web browser’s Do Not track signal.
 
-Due to the nature of the CloudSponge services, we need to collect a user ID and password to access contact sources on behalf of your customers. This information is required to authenticate access to the respective source, plus allow the CloudSponge services to retrieve contact information. Once the CloudSponge service has completed its respective task, the user ID and password is removed from our servers.
+  4. SECURITY AND STORAGE OF INFORMATION 
 
-### Your Customers' Contacts
+Cloud Copy cares about the security of your information and uses commercially reasonable physical, administrative, and technological safeguards to preserve the integrity and security of all information we collect and that we share with our service providers. However, no security system is impenetrable and we cannot guarantee the security of our systems 100%. In the event that any information under our control is compromised as a result of a breach of security, we will take reasonable steps to investigate the situation and where appropriate, notify those individuals whose information may have been compromised and take other steps, in accordance with any applicable laws and regulations.
 
-Due to the nature of the CloudSponge services, your customers' address book contents must pass through our system. We do not store this data longer than necessary to provide the address book importing service for you and we do not sell this data to anyone or use it ourselves for any reason that is not necessary for our product's purpose.
+Your information collected through the Service may be stored and processed in the United States or any other country in which Cloud Copy or its subsidiaries, affiliates or service providers maintain facilities. If you are located in the European Union or other regions with laws governing data collection and use that may differ from U.S. law, please note that we may transfer information, including personal information, to a country and jurisdiction that does not have the same data protection laws as your jurisdiction, and you consent to the transfer of information to the U.S. or any other country in which Cloud Copy or its parent, subsidiaries, affiliates or service providers maintain facilities and the use and disclosure of information about you as described in this Privacy Policy.
 
-### Customer Service Correspondence and Phone Calls
+  5. PERSONS UNDER THE AGE OF 13 
 
-If you send us correspondence, including e-mails and faxes, we retain such information in the records of your Account. We will also retain customer service correspondence and other correspondence from CloudSponge to you. We retain these records in order to measure and improve our customer service, and to investigate potential fraud and violations of our Terms of Use. We may, over time, delete these records if permitted by law and will destroy or render them anonymous once there is no legal or business purpose for retaining them.
+Our Service is not directed to persons under 13. If you become aware that your child has provided us with personal information without your consent, please contact us at [support@CloudSponge.com](mailto:support@CloudSponge.com). We do not knowingly collect personal information from children under 13. If we become aware that a child under 13 has provided us with personal information, we take steps to remove such information and terminate the child’s account.
 
-In addition, your phone calls to and from us will be monitored and/or recorded for quality assurance, training and security protection purposes.
+  6. LINKS TO THIRD-PARTY WEBSITES 
 
-### Questionnaires, Surveys and Profile Data
+The Service may contain links to and from third party websites of our business partners and various contact management services. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for their policies. Please check the individual policies before you submit any information to those websites.
 
-From time to time, we offer optional questionnaires and surveys to our Members for such purposes as collecting demographic information or assessing Members’ interests and needs. The use of the information collected will be explained in detail in the survey itself. If we collect personal information from our Members in these questionnaires and surveys, the Members will be given notice of how the information will be used prior to their participation in the survey or questionnaire.
+  7. UPDATES TO THIS PRIVACY POLICY 
 
-CloudSponge will not sell or rent any of your personal information to third parties.
+We may revise this Privacy Policy from time to time. The most current version of the policy will govern our use of your information and will always be at [www.CloudSponge.com/privacy](https://web.archive.org/privacy/). If we make a change to this policy that, in our sole discretion, is material, we will notify you via an email to the email address associated with your account. By continuing to access or use the Services after those changes become effective, you agree to be bound by the revised Privacy Policy.
 
-CloudSponge will not share any of your personal information with third parties except in the limited circumstances described below, or as required or permitted by applicable law, or with your express permission. These third parties, where possible, are limited by law or by contract from using personally identifiable information for secondary purposes beyond the purposes for which the information is shared.
+  8. CONTACTING US 
 
-  1. We may share personal information with organizations that help us process the transactions you request, such as payment processing companies or credit card processing companies, or organizations that verify and validate your identification and financial information, or that help protect our Members’ transactions from fraud, such as sharing your credit card number with a service that screens for lost and stolen card numbers. We may also share personal information with organizations that provide support for our internal operations, including, without limitation, contact centre support service providers and server and database service providers, so that we may fulfill our obligations to you.
-  2. In order to detect or prevent fraud, illegal activity or in order to assist us in investigating possible instances of fraud, illegal activity or suspected violations of our Terms of Use, we may disclose personal information to third parties where we believe it is reasonable to do so.
-  3. We disclose personal information to government agencies, court or law enforcement personnel in response to applicable legislation or regulations, or to any subpoena, warrant, court order, levy, attachment, order of a court-appointed receiver or other comparable legal process, including subpoenas from private parties in a civil action. We reserve the right to cooperate with legal authorities having actual or potential jurisdiction over us.
-  4. We may disclose personal information to your agent or legal representative (such as the holder of a power of attorney that you grant, or a guardian appointed for you).
-  5. For identity validation and verification purposes, the following information is provided to Merchants with whom you transact: name, jurisdiction, postal code, e-mail address, and/or IP address.
-  6. We may disclose personal information to third party service providers who manage various marketing programs or promotional initiatives on our behalf or who provide us with demographic information.
-  7. As with any other business, it is possible that CloudSponge in the future could amalgamate or merge with or be acquired by another company. If such an acquisition occurs, the successor company would have access to personal information maintained by CloudSponge, including customer account information, but would continue to be bound by this Policy unless and until it is amended as described in this Policy.
+If you have questions about this Policy, please [email us](mailto:support@CloudSponge.com) or by write to us at: 548 Market Street #30734, San Francisco, CA 94104,
 
+  9. LAST REVISION DATE 
 
+This Privacy Policy was last revised on, and effective as of, October 1, 2015.
 
-## 7\. Our Contacts with CloudSponge Customers
+See the [Revision archive](https://web.archive.org/privacy/archive/)
 
-We communicate with users on a regular basis via e-mail to provide and assist in requested services, and we also communicate by phone to resolve customer complaints or investigate suspicious transactions. We use your e-mail address to confirm your opening of a CloudSponge Account, to send information about important changes to our products and services, and to send notices and other disclosures required by law. Generally, Members cannot opt out of these communications, but they will be primarily informational in nature rather than promotional.
 
-## 8\. Information Security and Protection
 
-CloudSponge is committed to handling your personal information with high standards of information security. We restrict access to your personally identifiable information to employees who need to know that information in order to provide products or services to you. We maintain physical, electronic and procedural safeguards to guard your nonpublic personal information.
-
-We protect your information from error, loss, and unauthorized access. Our employees who have access to your information are made aware of how to keep it confidential. Each employee must sign an agreement stating that maintaining confidentiality is a condition of employment with CloudSponge. All of your personal information is collected, used, and disclosed for business purposes only.
-
-The security of your CloudSponge account also relies on your protection of your CloudSponge security identification. You may not share your password or Account with anyone. CloudSponge will never ask you to send your password to us in an e-mail, though we may ask you to enter this and other personal information on the CloudSponge website, which will always have a URL beginning with https://www.CloudSponge.
-
-Any e-mail or other communication asking you to provide personal information via email, or linking to a website with a URL that does not begin with https://www.CloudSponge should be treated as unauthorized and suspicious and should be reported to CloudSponge immediately. If you do share your password or Account with a third party for any reason, including because the third party has promised to provide you additional services such as account aggregation, the third party will have access to your Account and your personal information, and you will be responsible for actions taken using your password or Account. If you believe someone else has obtained access to your security identification or password, please change it immediately by logging in to your account at www.CloudSponge and changing your Options settings, and also contact us right away.
-
-We retain your personal information for as long as required to provide services to you. Following the end of any relationship we may have with you, your personal information will be retained for as long as is necessary for reasonable business or legal purposes, following which it will be securely destroyed or rendered anonymous. If we or you terminate your Account, we will mark your Account in our database as "Closed," but will keep your Account information in our database. This is necessary in order to investigate potential fraud, for instance by ensuring that persons who try to commit fraud will not be able to avoid detection simply by closing their Account and opening a new Account. However, if your Account is terminated, your personally identifiable information will not be used or disclosed by us for any further purposes, nor sold or shared with third parties, except as necessary to detect or prevent fraud and assist law enforcement, or as required by law.
-
-## 9\. Updating Your Information
-
-You can review the personal information you provided us and make any desired changes to such information, or to the settings for your Account, at any time by logging in to your Account on the CloudSponge web site and changing your preferences in the Account Summary page of your Account.
-
-## 10\. Your Choices
-
-You may refuse to provide personal information to us. You may also withdraw your consent at any time, subject to applicable legal or regulatory restrictions, and reasonable notice. We do require that withdrawal of consent be in writing. However, if you refuse to provide personal information or withdraw your consent to our using or disclosing your personal information, this may severely limit our ability to provide our services to you as we may be unable to process your transactions. If you do withdraw your consent, it is our policy to advise you of the consequences of doing so.
-
-## 11\. Accessing Your Personal Information
-
-You may contact us at any time to pursue your rights to access personal information about you in our custody or control. All such requests must be in writing. To make a request, simply contact us as set out below in Section L. Upon request and subject to applicable law, we will respond in writing with, as applicable in the circumstances, the following information:
-
-  1. Whether we have personal information about you;
-  2. If so, details of what information we have, the purposes for which it is being processed or used and disclosed, and the recipients or classes of recipients to which such information is or may be disclosed; and
-  3. Any information available to us with respect to the source of information where we are able to determine that and where we are legally able to disclose such information to you.
-
-
-
-It is our policy to respond to such requests within 30 days wherever possible. We reserve the right to charge any fee permissible by law to provide a response to your request. We will also require that you provide sufficient information to allow us to locate your information to deal with your request. In some circumstances, we may be able to extend the period of time within which we respond and, if we do so, we will advise you of that.
-
-An individual’s ability to access his or her personal information is not absolute. The law imposes restrictions on our ability to provide you with access. For example, where responding to a request requires providing personal information about another individual, we generally cannot do so without that individual’s consent, which may not be granted. However, we will provide as much information as we can without breaching any other legal requirements or the privacy rights of other individuals. There are also situations, such as the prevention, detection or investigation of crime or breaches of the law, in which our ability to provide information may be restricted. We reserve all our rights under applicable law.
-
-## 12\. Contacting Us
-
-You may contact us if you have any questions or concerns about this Policy, our personal information practices, or the accuracy or completeness of any personal information concerning you in our files, or to update any of your personal information. You can contact us via e-mail at [support@cloudsponge.com](mailto:support@cloudsponge.com), Attention: Privacy Compliance.
