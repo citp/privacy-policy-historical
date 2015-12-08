@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the lids.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623002154id_/http%3A//www.lids.com/HelpDesk/Security/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lids.com privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208181046id_/http%3A//www.lids.com/HelpDesk/Security/PrivacyPolicy) for the most accurate reproduction.*
 
 # Lids.com - Help Desk - Safety, Security & Privacy
 
-Last updated: August 26, 2014
+Last updated: November 4, 2015
 
 **Our Commitment to Privacy**  
 Hat World values your time, respects your privacy, and seeks to earn your trust.
@@ -41,7 +41,7 @@ The information we learn from customers helps us personalize and improve your sh
   * To process and fulfill your order, including sending you email to confirm your order status and shipment.
   * To communicate with you, to send you information about our products, services, contests, and promotions, and to send offers to selected groups of customers on behalf of other businesses. When we send you offer on behalf of other businesses, we never give that business your name and address. If you do not wish to receive such offers, please let us know, and we will place you on a "do not contact" list.
   * To administer contests and other promotions.
-  * To help us learn more about your shopping preferences so that we can customize future shopping for you, improve our stores, and tailor offers and promotions to you.
+  * To help us learn more about your shopping preferences so that we can customize future shopping for you, improve our stores, and tailor offers, promotions, and other communications to you. In addition to communications directly to you via e-mail, these communications may include targeted advertising content delivered via social media, Google, or other third-party websites and services.
   * To help us address problems with and improve our site design, products and services.
   * To enhance your shopping experience.
   * To administer our loyalty programs.
