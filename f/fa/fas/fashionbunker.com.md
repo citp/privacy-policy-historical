@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fashionbunker.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607075458id_/http%3A//us.fashionbunker.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fashionbunker.com privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208192338id_/http%3A//us.fashionbunker.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - BNKR
 
@@ -37,7 +37,7 @@ To send periodic emails
 
 > The email address you provide for order processing, may be used to send you information and updates pertaining to your order, in addition to receiving occasional company news, updates, related product or service information, etc.
 
-Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
+Note: If at any time you would like to unsubscribe from receiving future emails, we include an unsubscrive link at the bottom of all email or you can contact support@bnkr-store.com. There is no cost associated to unsubscribing from BNKR email lists.
 
  **How do we protect your information?**
 
