@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aofas.org privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609013211id_/http%3A//www.aofas.org/pages/Privacy-Statement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aofas.org privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208083110id_/http%3A//www.aofas.org/pages/Privacy-Statement.aspx) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -10,7 +10,7 @@ AOFAS Privacy Statement and Usage Disclosure
 
 AOFAS values your privacy. This Privacy Statement will make you aware of our privacy practices so you can rest assured you have a complete understanding of how we respect your privacy and the steps we will take to safeguard your privacy.
 
-AOFAS does not sell or rent your personal information to third parties without your explicit consent (this includes consent via e-mail). Nor does AOFAS use any information about your use of the site to market to you directly.
+AOFAS does not sell or rent your personal information to third parties without your explicit consent (this includes consent via email). Nor does AOFAS use any information about your use of the site to market to you directly.
 
 AOFAS does not retain or use personal information about your use of our site. AOFAS may collect and track various non-personal information based on your use of this site for our internal purposes in furtherance of serving our users, such as your IP address, the URL address you came from, and the URL address you go to next. This information is aggregated and is not used or disclosed by AOFAS in a personally-identifiable manner.
 
@@ -18,14 +18,16 @@ For AOFAS members who sign in to the members-only areas of the site, AOFAS will 
 
 Our site may contain links to other Web sites. Once you leave [www.aofas.org](https://web.archive.org/) and its sub-domains, the use and protection of your personal information is governed by the privacy policy at that site. You should review the privacy policy of other sites you visit or link to from our site to understand how these other sites use cookies and how they use the information they collect through the use of cookies or web beacons on their own sites.
 
-Our Privacy Policy does not protect you when you send business information, ideas, concepts or inventions to AOFAS by e-mail to any AOFAS e-mail address listed throughout the site. If you want to keep business information, ideas, concepts or inventions private or proprietary, do not send them in an e-mail to AOFAS.
+Our Privacy Policy does not protect you when you send business information, ideas, concepts or inventions to AOFAS by email to any AOFAS email address listed throughout the site. If you want to keep business information, ideas, concepts or inventions private or proprietary, do not send them in an email to AOFAS.
 
-We try to answer every e-mail in a timely manner, but are not always able to do so.
+We try to answer every email in a timely manner, but are not always able to do so.
 
-For members and others who register for courses and meetings or make purchases or dues payments through our site, we retain registration and purchase information. We do not retain credit card numbers from financial transactions.
+For members and others who register for courses and meetings or make purchases or dues payments through our site, we retain registration and purchase information.
 
-Your information is stored on professionally hosted and backed up servers in the United States. AOFAS uses Secure Socket Layers to protect your information. Any credit card information you provide will be encrypted though the latest techniques.
+Your information is stored on professionally hosted and backed up servers in the United States. AOFAS uses Secure Socket Layers to protect your information. Any credit card information you provide will be encrypted through the latest techniques.
 
 AOFAS reserves the right to amend this policy at any time. Your continued use of this site constitutes your acceptance of any future amendments to this policy. Though we are committed to ensuring your privacy, we may be required to disclose personal information when required by law and when necessary to comply with a court order or other legal process.
 
 Any questions about this Privacy Statement may be directed to the Society at [aofasinfo@aofas.org](mailto:aofasinfo@aofas.org) or you may call the Society at 800-235-4855 or 847-698-4654. 
+
+​​​​
