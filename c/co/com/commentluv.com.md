@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the commentluv.com privacy policy that was archived on 2015-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150511114520id_/http%3A//www.commentluv.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the commentluv.com privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208142948id_/http%3A//www.commentluv.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The CommentLuv Plugin
 
@@ -55,7 +55,6 @@ We are committed to conducting our business in accordance with these principles 
 If you have any questions regarding this Policy, or your dealings with our web site, please contact us.
 
 > Custom Code Geek Ltd & CommentLuv Premium  
->  98a Prospect street  
 >  Lancaster, Lancashire LA1 3BH  
 >  447921628872  
 >  support (@) commentluv.com 
