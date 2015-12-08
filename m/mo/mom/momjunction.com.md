@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the momjunction.com privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630104215id_/http%3A//www.momjunction.com/privacy-policy/%3Fref%3Dfooter) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the momjunction.com privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208215530id_/http%3A//www.momjunction.com/privacy-policy/%3Fref%3Dfooter) for the most accurate reproduction.*
 
 # Privacy Policy - MomJunction
 
@@ -96,3 +96,5 @@ or contact us via email at [sangramsimha@stylecraze.com](mailto:sangramsimha@st
  **MODIFICATIONS TO THIS STATEMENT**
 
 We may revise this Statement from time to time. The most current version of the Statement will govern our use of your information and will always be located here. If we make a change to this Statement that, in our sole discretion, is material, we will notify you either by prominently posting a notice of such changes prior to implementing the change on the Site and/or via the email associated with your account. By continuing to access or use the Services after those changes become effective, you agree to be bound by the revised Statement
+
+Click
