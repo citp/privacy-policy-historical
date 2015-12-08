@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the jdpower.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627084234id_/http%3A//www.jdpower.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jdpower.com privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208025105id_/http%3A//www.jdpower.com/privacy) for the most accurate reproduction.*
 
 # Footer I Privacy and Cookie Notices | J.D. Power
-
-**English   |  [简体中文](https://web.archive.org/node/18006)  |  [Français](https://web.archive.org/node/17996)  |  [Deutsch](https://web.archive.org/node/17991)  |  [Português](https://web.archive.org/node/18001)  |  [Español](https://web.archive.org/node/17986)  |  [Italiano](https://web.archive.org/web/20150627084234id_/http%3A//www.jdpower.com/node/17106)** **[  ](https://web.archive.org/web/20150627084234id_/http%3A//www.jdpower.com/node/17106)****|   [日本語](https://web.archive.org/node/6126)**[ ****](https://web.archive.org/node/6126)
-
-At J.D. Power and Associates ("JDPA"), we conduct market research across a variety of industries to understand the Voice of the Customer.
 
 JDPA maintains two main websites: jdpower.com for consumers, businesses, and the media; and businesscenter.jdpower.com for our corporate clients.
 
