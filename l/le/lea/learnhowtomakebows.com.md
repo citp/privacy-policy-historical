@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the learnhowtomakebows.com privacy policy that was archived on 2015-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150508092234id_/http%3A//learnhowtomakebows.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the learnhowtomakebows.com privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208022534id_/http%3A//learnhowtomakebows.com/privacy.html) for the most accurate reproduction.*
 
 # Learn How To Make Bows - Privacy Policy
 
