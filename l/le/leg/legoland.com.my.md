@@ -1,15 +1,15 @@
-> *The following text is extracted and transformed from the legoland.com.my privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608135257id_/http%3A//www.legoland.com.my/About/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the legoland.com.my privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208054924id_/http%3A//www.legoland.com.my/About/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy - LEGOLAND
 
 Dear LEGOLAND Fans,
 
   
-We want you to have fun at LEGOLAND and at our Web site! To make sure your online visit is fun and safe, we don't "play around" with any of the important steps we take to protect your privacy. At the LEGOLAND, children's safety and fun as well as parents' trust in our name is serious business! 
+We want you to have fun at LEGOLAND and at our Web site! To make sure your online visit is fun and safe, we don't "play around" with any of the important steps we take to protect your privacy. At the LEGOLAND, children's safety and fun as well as parents' trust in our name is serious business!
 
 Below, you will find information about the LEGOLAND Online Privacy Policy. Our privacy policy will tell you how and when we collect information through our Web site, and how this information will be used. To learn specifically about our online information practices concerning children who are younger than 13 years of age, please scroll down to the section entitled "Children Under the Age of 13".
 
-LEGOLAND encourages families to visit LEGOLAND.my together as a shared activity. 
+LEGOLAND encourages families to visit LEGOLAND.my together as a shared activity.
 
 We take online privacy and security concerns seriously. At the same time, we are continually working to make your personal experience when visiting or using our site as exciting and pleasant as possible. To help us accomplish that goal, we will need to collect and use some information from you when you use our site.
 
@@ -17,11 +17,11 @@ LEGOLAND.my may collect information from you - personal as well as non-personal 
 
 We may disclose personal information collected from you as required by law, for example in response to a court order or subpoena. We also may disclose such information in response to a specific request from a law enforcement agency.
 
-Except as set out above, we will not sell, rent or otherwise disclose any personal information to any company or person outside LEGOLAND, without obtaining appropriate permission prior to such disclosure. We may collect information about you through active as well as passive means. 
+Except as set out above, we will not sell, rent or otherwise disclose any personal information to any company or person outside LEGOLAND, without obtaining appropriate permission prior to such disclosure. We may collect information about you through active as well as passive means.
 
 We may collect personal information directly from you through our sites when: 1) you sign up to receive newsletters and other information; 2) in some instances, when you enter contests and participate in various activities featured on LEGOLAND.my; and 3) when you purchase products online through our LEGOLAND Online Shop. We also use passive means to collect some information, such as tracking what pages you go to on the site. This information is then provided to our consumer data department in order for them to determine how to make your experience at our sites more enjoyable.
 
-We will not use personal information we collect from you for purposes other than those for which the information was collected, without asking for appropriate permission prior to such use. 
+We will not use personal information we collect from you for purposes other than those for which the information was collected, without asking for appropriate permission prior to such use.
 
 We may use your name and address information to send you newsletters and other product and service information that we believe you may find of interest if, permitted by law. You may opt out of receiving such catalogs and other product and service information (including, but not limited to, marketing research and/or being contacted by a researcher) at any time by calling our toll-free consumer service number in your country or by sending an e-mail. Upon request, you have the right to review any personal information we may have concerning you or your children.
 
@@ -41,7 +41,7 @@ If any activity featured on LEGOLAND.my will allow children under the age of 13 
 
 **Purchasing from LEGOLAND Online Shop**
 
-When you make a purchase from a LEGOLAND Online Shop, we will need to obtain personal information from you. We will need your real name and address (billing as well as shipping address) along with your credit card information or other payment method, in order to complete your transaction and ship your products. 
+When you make a purchase from a LEGOLAND Online Shop, we will need to obtain personal information from you. We will need your real name and address (billing as well as shipping address) along with your credit card information or other payment method, in order to complete your transaction and ship your products.
 
 If you feel uncomfortable submitting your credit card information over the Internet, you may submit your name, address and order information through the LEGOLAND Online Shop, and submit credit card information by phone.
 
@@ -51,25 +51,39 @@ You can send electronic post cards from various pages on the site. Any e-mail ad
 
 **Does LEGOLAND.my use Cookies?**
 
-Yes. We add a cookie to your computer (unless your system is set up not to receive cookies), in order to let us keep track of what games you play and what products you may buy. We also add the cookie in order to remember your browser settings, such as the type of browser you use and what plug-ins you have installed. This keeps us from bothering you every time you enter the site in order to make sure that you have the necessary equipment to play a game or download information from our sites. It also allows us to know how many people are using certain types of software, so that we can adjust our site to provide the best browsing experience for every visitor. Basically, when we add a cookie, we are not collecting personal information, but the non-personal information that we do get helps us make sure that our products and our communications to our guests are responsive to their interests. We hope to be able to continue to make the LEGOLAND World Wide Web sites interesting and entertaining for users of all ages, and to ensure that we continue to make the kind of products that children love and parents trust. 
+Yes. We add a cookie to your computer (unless your system is set up not to receive cookies), in order to let us keep track of what games you play and what products you may buy. We also add the cookie in order to remember your browser settings, such as the type of browser you use and what plug-ins you have installed. This keeps us from bothering you every time you enter the site in order to make sure that you have the necessary equipment to play a game or download information from our sites. It also allows us to know how many people are using certain types of software, so that we can adjust our site to provide the best browsing experience for every visitor. Basically, when we add a cookie, we are not collecting personal information, but the non-personal information that we do get helps us make sure that our products and our communications to our guests are responsive to their interests. We hope to be able to continue to make the LEGOLAND World Wide Web sites interesting and entertaining for users of all ages, and to ensure that we continue to make the kind of products that children love and parents trust.
 
 **What is a cookie?**
 
-Cookies are small data files that your browser may place on your computer when you visit different web sites to mark that you have been there. 
+Cookies are small data files that your browser may place on your computer when you visit different web sites to mark that you have been there.
 
-How do I know when a cookie has been added? 
+How do I know when a cookie has been added?
 
-Check your settings... many browsers allow you to choose your preference. If you have set your browser setting to refuse cookies, then we cannot put a cookie on your computer. 
+Check your settings... many browsers allow you to choose your preference. If you have set your browser setting to refuse cookies, then we cannot put a cookie on your computer.
 
 **What if I don't accept the cookie?**
 
-You can still participate in a few of our online activities. However, if a LEGOLAND Cookie is not present, it will limit our ability to customize our site for you, deliver a better online experience and improve the features of our site. Some cookies save us from having to check for compatibility of your system with various parts of the site every time you visit, making the site faster and easier for you to use. When you play a game, a cookie helps us to keep track of where you are in the site so that you can come back to the same place in a game that you are playing or you don't lose your basket, etc. and makes sure that only you have access to that information. If you don't accept our cookies, you won't be able to save some games, add items to your wish list or shopping cart, and the site will be a little slower as we check your browser's compatibility with our site as you click through. 
+You can still participate in a few of our online activities. However, if a LEGOLAND Cookie is not present, it will limit our ability to customize our site for you, deliver a better online experience and improve the features of our site. Some cookies save us from having to check for compatibility of your system with various parts of the site every time you visit, making the site faster and easier for you to use. When you play a game, a cookie helps us to keep track of where you are in the site so that you can come back to the same place in a game that you are playing or you don't lose your basket, etc. and makes sure that only you have access to that information. If you don't accept our cookies, you won't be able to save some games, add items to your wish list or shopping cart, and the site will be a little slower as we check your browser's compatibility with our site as you click through.
+
+**Mailing List**
+
+Users who wish to no longer receive our promotional emails may click ona link name "unsubscribe" which is embeded  with every email sent by LEGOLAND in order not to receive future messages.
+
+Contact us
+
+7, Jalan Legoland, Bandar Medini,
+
+79250 Nusajaya, Johor, Malaysia.
+
+Tel: +605-597 888
+
+Email: info@LEGOLAND.my
 
 **How to Change or Review the Information**
 
-At LEGOLAND, we're committed to providing high quality products and services and we're equally committed to building long-lasting relationships with our consumers. Relationships like this are built on mutual trust, so whenever you question what data has been collected or you want to change personal information or personal options regarding your online information, we encourage you to do so as outlined below. 
+At LEGOLAND, we're committed to providing high quality products and services and we're equally committed to building long-lasting relationships with our consumers. Relationships like this are built on mutual trust, so whenever you question what data has been collected or you want to change personal information or personal options regarding your online information, we encourage you to do so as outlined below.
 
-Personal information collected online from you may be reviewed by accessing your online account. Members and customers who have registered online with us may update their account information and change personal options at anytime. 
+Personal information collected online from you may be reviewed by accessing your online account. Members and customers who have registered online with us may update their account information and change personal options at anytime.
 
 LEGOLAND may need to change its online privacy policy from time to time to keep up with the ever-changing virtual reality. However, if policy changes are implemented which would materially and adversely affect the online privacy or security of our guests, the new policy will be e-mailed to all registered guests at their e-mail address.
 
