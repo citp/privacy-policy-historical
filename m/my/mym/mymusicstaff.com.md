@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mymusicstaff.com privacy policy that was archived on 2015-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150619163328id_/http%3A//www.mymusicstaff.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mymusicstaff.com privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208171401id_/http%3A//www.mymusicstaff.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - My Music Staff » My Music Staff
 
