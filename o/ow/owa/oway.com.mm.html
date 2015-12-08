@@ -1,18 +1,21 @@
-<!--The following is the downloaded HTML source of the oway.com.mm privacy policy that was archived on 2015-04-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150419021407id_/https%3A//oway.com.mm/privacy-notice.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the oway.com.mm privacy policy that was archived on 2015-12-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151208055410id_/http%3A//oway.com.mm/privacy-notice) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
         <meta content="IE=10.000" http-equiv="X-UA-Compatible">
         <meta charset="utf-8">
-        <title>Privacy Notice</title>
+<title>Book Online Myanmar (Burma) Hotels, Flights, Buses, Car Rentals, Tours &amp; Visa | Oway Privacy Notice</title>
         <meta name="robots" content="noodp,noydir">
-        <meta name="keywords" content="Myanmar tour, Myanmar trip, Myanmar travel and tours, Myanmar Tourist Attractions">
-        <meta name="description" content="Wide range of accommodations and many tourist attractions for Myanmar trip. Get detail of Myanmar travel and tour packages with optional add-ons.">
-        <link href="https://oway.com.mm/css/custom_forms.css" rel="stylesheet" type="text/css">
-<script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="https://oway.com.mm/js/html5shiv.js"></script>
-<script type="text/javascript" src="https://oway.com.mm/js/jquery-1.6.3.min.js"></script>
-<link href="https://oway.com.mm/css/common.css" rel="stylesheet" type="text/css">
+        <meta name="keywords" content="">
+        <meta name="description" content="">
+        <link href="http://oway.com.mm/css/custom_forms.css" rel="stylesheet" type="text/css">
+<script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="http://oway.com.mm/js/html5shiv.js"></script>
+<script type="text/javascript" src="http://oway.com.mm/js/jquery-1.6.3.min.js"></script>
+<link href="http://oway.com.mm/css/common.css" rel="stylesheet" type="text/css">
         <style>
+            a img {
+                display: inherit;
+              }
             #wrapper{
                 margin:0 auto;
                 padding:15px 15%;
@@ -46,8 +49,8 @@
             }
 
         </style>
-        <script src="https://oway.com.mm/js/easing.js" type="text/javascript"></script>
-        <script src="https://oway.com.mm/js/jquery.ui.totop.js" type="text/javascript"></script>
+        <script src="http://oway.com.mm/js/easing.js" type="text/javascript"></script>
+        <script src="http://oway.com.mm/js/jquery.ui.totop.js" type="text/javascript"></script>
         <script>
             $(document).ready(function() {
                 $('#exmp').click(function() {
@@ -60,227 +63,197 @@
     </head>
     <body id="inner-page" class="flight-search">
         <script> $(document).ready(function() {
-    var title=$('title').text();
+//    var title=$('title').text();
+//    $('.logo a').text(title);
 
-$('.logo a').text(title);
+    $('.setcurrency a').click(function() {      
+        var val = "currency_id="+$(this).attr('rel');
+          $.ajax({
+                    type:'POST',                    
+                    url: location.protocol + "//" + location.host + '/includes/set_session.php',
+                    data:val,
+                    success: function(data) {
+                        // alert(data);
+                        $('.setcurrency').text(data.currency_code_3);
+                        // exit();
+                    }
+
+        }).done(function() {
+            location.reload();
+        })
+    })
+    $('.selectnationsality a').click(function() {      
+        var val = "ntid="+$(this).attr('rel');
+        
+          $.ajax({
+                type:'POST',                    
+                url: location.protocol + "//" + location.host + '/includes/update-nationality.php',
+                data:val,
+                success: function(data) {
+                $('.selectnationsality').text(data.nationality);
+                //exit();
+            }
+
+        }).done(function() {
+            location.reload();
+        })
+    });
+    $('.selectlanguage a').click(function() {
+        var val = "ntid="+$(this).attr('rel');
+          $.ajax({
+                type:'POST',                    
+                url: location.protocol + "//" + location.host + '/includes/update-language.php',
+                data:val,
+                success: function(data) {                                    
+                $('.selectlanguage').text(data.language);             
+            }
+
+        }).done(function() {
+            location.reload();
+        })
+    });
+
+$('#noof_rooms1').on('change',function() {
+
+     if(this.value=='1')
+        {
+            $(".room1").show();
+	    $(".room2").hide();
+            $(".room3").hide();
+            $(".room4").hide();
+            $(".room5").hide();			
+        }
+    else if (this.value=='2') 
+         {
+            $(".room1").show();
+            $(".room2").show();
+            $(".room3").hide();
+            $(".room4").hide();
+            $(".room5").hide();
+        }    
+    else if (this.value=='3') 
+         {
+            $(".room1").show();
+            $(".room2").show();
+            $(".room3").show();
+            $(".room4").hide();
+            $(".room5").hide();
+        }     
+    else if (this.value=='4') 
+         {
+            $(".room1").show();
+            $(".room2").show();
+            $(".room3").show();
+            $(".room4").show();
+            $(".room5").hide();
+        }
+    else
+         {
+            $(".room1").show();
+            $(".room2").show();
+            $(".room3").show();
+            $(".room4").show();
+            $(".room5").show();
+         }
+  }); 
+
+/*
+$('#tab-container').easytabs();
+$('#tab-banner-container').easytabs({ defaultTab: "li#tab-2"});
+*/
+
+$(".myfooterlinks li a").click(function (){
+    $("html, body").animate({ scrollTop: 0 }, 600);
+});
+
+    });
+</script>
+<script type="text/javascript">
+$(document).ready(function () {
+    $('.menu ul li a').click(function (ev) {
+        $('.menu ul li a').removeClass('active2');
+        $(ev.currentTarget).addClass('active2');
+    });
 });
 </script>
-<header>
-    <div class="wrapper">
-        <h1 class="logo"><a href="/">Oway</a></h1>
-        <!--Logo ENds Here-->
-        <div class="rr right-block">
-                        <nav class="rl">
-                <ul>                     
-                     <li><a href="/">Hotels</a>|</li>
-                    <li><a href="/#Domestic">Flights</a>|</li>
-					<li><a href="/#Bus">Express Bus</a>|</li>
-                    <li><a href="/visa.php">Visa</a>|</li>
-
-                    <!-- <li><a href="#">Car Rental</a>|</li>
-                     <li><a href="#">Vacation Activities</a>|</li>-->
-                    
-                    <li><div class="nav_dest">
-                            <div class="destination-nav"> <a href="#" class="destination-menu js-destination"> <span class="title">Destinations</span> <span class="dd-arrow dd-blue"></span> </a>
-<div class="destination-nav-dropdown">
-      <div class="destination-dropdown">
-        <div class="yui3-g">
-
-
-
-                            <ul class="yui3-u-1-4">
-                            
-                                <li class="dst-link-section">
-                                    <a href="yangon-destination.php?did=13" class="dst-link ">
-                                        Yangon&nbsp;»
+   <link href="http://oway.com.mm/css/style-header.css?v=3.1" rel="stylesheet" type="text/css">
+	<link href="http://oway.com.mm/css/pub-multi-v2.css?v=3.1" rel="stylesheet" type="text/css"> 
+	<header id="header" class="navbar-static-top">
+            <div class="topnav hidden-xs">
+			<div class="container">
+				<div class="logo pull-left">
+					 <h1 class="logo navbar-brand">
+                        <a href="/" title="Oway - home">                            
+                            <img alt="Book Online Myanmar (Burma) Hotels, Flights, Buses, Car Rentals, Tours &amp; Visa | Oway Privacy Notice" src="http://oway.com.mm/images/logo.jpg">
                                     </a>
-                                </li> 
-                            
-                                <li class="dst-link-section">
-                                    <a href="bagan-destination.php?did=2" class="dst-link ">
-                                        Bagan&nbsp;»
-                                    </a>
-                                </li> 
-                            
-                                <li class="dst-link-section">
-                                    <a href="inle-destination.php?did=5" class="dst-link ">
-                                        Inle&nbsp;»
-                                    </a>
-                                </li> 
-                            
-                                <li class="dst-link-section">
-                                    <a href="mandalay-destination.php?did=7" class="dst-link ">
-                                        Mandalay&nbsp;»
-                                    </a>
-                                </li> 
-                                
-
+                    </h1>
+				</div>
+				<div class="top_info" style="margin-top:-35px;">
+					 <a rel="nofollow" href="mailto:support@owaytrip.com"> <img alt="Oway Contact Support Email" src="http://oway.com.mm/images/mail-icon.jpg" width="16px" style="float: left; margin-right: 5px; margin-top: -2px;"> support@owaytrip.com	</a><b>|</b>
+						 <div onmouseout="this.className='t_tel_box'" onmouseover="this.className='t_tel_box tel_open'" class="t_tel_box">
+								<span class="tel"><img alt="Oway Contact Phone Number" src="http://oway.com.mm/images/ph-icon.jpg" style=" margin-top: -5px;float:left;"> Call (+95)01 230 4201<i class="triangle_down"></i></span>
+								<ul class="tel_show top_sel_list">
+									<li><a href="javascript:void(0)" rel="nofollow" rate="1.000000000" divtype="" currency="MMD"><img src="http://oway.com.mm/images/ph-icon.jpg" style=" margin-top: -5px;float:left;">(+95)01 230 4201 </a></li>
+									<li><a href="javascript:void(0)" rel="nofollow" rate="1.000000000" divtype="" currency="MMD"><img src="http://oway.com.mm/images/ph-icon.jpg" style=" margin-top: -5px;float:left;">(+95)01 230 4202 </a></li>
                             </ul>
-                            <ul class="yui3-u-1-4">
-                            
-                                <li class="dst-link-section">
-                                    <a href="ngapali_beach-destination.php?did=8" class="dst-link ">
-                                        Ngapali Beach&nbsp;»
-                                    </a>
-                                </li> 
-                            
-                                <li class="dst-link-section">
-                                    <a href="nay_pyi_taw-destination.php?did=16" class="dst-link ">
-                                        Nay Pyi Taw&nbsp;»
-                                    </a>
-                                </li> 
-                            
-                                <li class="dst-link-section">
-                                    <a href="pyay-destination.php?did=14" class="dst-link ">
-                                        Pyay&nbsp;»
-                                    </a>
-                                </li> 
-                            
-                                <li class="dst-link-section">
-                                    <a href="chaung_thar_beach-destination.php?did=4" class="dst-link ">
-                                        Chaung Tha Beach&nbsp;»
-                                    </a>
-                                </li> 
-                                
-
-                            </ul>
-                            <ul class="yui3-u-1-4">
-                            
-                                <li class="dst-link-section">
-                                    <a href="mrauk_u-destination.php?did=17" class="dst-link ">
-                                        Mrauk U&nbsp;»
-                                    </a>
-                                </li> 
-                            
-                                <li class="dst-link-section">
-                                    <a href="mergui_archipelago-destination.php?did=15" class="dst-link ">
-                                        Mergui Archipelago&nbsp;»
-                                    </a>
-                                </li> 
-                            
-                                <li class="dst-link-section">
-                                    <a href="ngwe_saung_beach-destination.php?did=9" class="dst-link ">
-                                        Ngwe Saung Beach&nbsp;»
-                                    </a>
-                                </li> 
-                            
-                                <li class="dst-link-section">
-                                    <a href="taunggyi-destination.php?did=12" class="dst-link ">
-                                        Taunggyi&nbsp;»
-                                    </a>
-                                </li> 
-                                
-
-                            </ul>
-                            <ul class="yui3-u-1-4">
-                            
-                                <li class="dst-link-section">
-                                    <a href="tour_packages-destination.php?did=99" class="dst-link ">
-                                        Packages&nbsp;»
-                                    </a>
-                                </li> 
-                            
-                                <li class="dst-link-section">
-                                    <a href="contact-us-destination.php?did=98" class="dst-link ">
-                                        Enquiry&nbsp;»
-                                    </a>
-                                </li> 
+						</div><b>|</b>
+							<a rel="nofollow" href="/faq">FAQs</a><b>|</b>
+						 <div onmouseout="this.className='t_tel_box'" onmouseover="this.className='t_tel_box tel_open'" class="t_tel_box">
+                    <span class="tel">US Dollars<i class="triangle_down"></i></span>
+                    <ul class="tel_show top_sel_list setcurrency">
+                        <li><a rel="4" href="javascript:void(0)" rate="1.000000000" divtype="" currency="MMK">MMK - Myanmar</a></li>
+                        <li><a rel="1" href="javascript:void(0)" rate="6.208700000" divtype="" currency="USD">USD - United States Dollar</a></li>
 </ul>
-				
-			
         </div>
+							<b>|</b>
+						<div onmouseout="this.className='t_tel_box'" onmouseover="this.className='t_tel_box tel_open'" class="t_tel_box">
+								  <span class="tel">Language : <i class="icon ico_en"></i> English<i class="triangle_down"></i></span>
+								<ul class="tel_show top_sel_list selectlanguage">
+									<li><a rel="en" href="javascript:void(0)"><i class="icon ico_en"></i> English</a></li>                                                                        
+									<li><a rel="my" href="javascript:void(0)"><i class="icon ico_es"></i> Myanmar</a></li>                                                                        
+								</ul>
       </div>
-    </div>
+							<b>|</b>
+						<div class="fare t_tel_box"><div onmouseout="this.className='t_tel_box'" onmouseover="this.className='t_tel_box tel_open'" class="t_tel_box">
+        <span class="tel">International Fare<i class="triangle_down"></i></span>
+								 <ul class="tel_show top_sel_list selectnationsality">
+                        <li><a rel="ntl" href="javascript:void(0)" rate="1.000000000" divtype="" currency="CNY">Local Fare </a></li>
+                        <li><a rel="ntf" href="javascript:void(0)" rate="6.208700000" divtype="" currency="USD">International Fare</a></li>                                                                                                                                
+								</ul>
+    </div></div>
   </div>
 </div>
-                     
-                     </li>
-
-                     <li style="margin-left: 60px;">
-
-                        <div class="dp_button_us"><a href="#">US Dollars</a> 
-                           <!--   <div class="sub_dp_us">
-                                <a href="#" rel="1">$ US Dollars</a> 
-                                <a href="#" rel="2">$ SG Dollars</a> 
-                                <a href="#" rel="3">¥ Japanese Yen</a>
-                                <a href="#" rel="4">K Myanmar Kyat</a> 
-                                <a href="#" rel="5">€ Euros</a>
                             </div>
-						   -->
-                        </div>
-
-<!--  <select id="currency_change" name="currency_change">
-    <option value="1" selected >US Dollars</option>
-    <option value="2" >SG Dollars</option>
-    <option value="4" >MMK Myanmar Kyat</option>
-    
-</select>-->
-                    </li>
-                    <li> |  <a href="#">ENG</a></li>
-
+			<div class="main-header">
+				<a href="#mobile-menu-01" data-toggle="collapse" class="mobile-menu-toggle">Mobile Menu Toggle</a>
+				<div class="container">
+				<div class="menu">					<ul>
+						<li><a href="/" class="">Hotels</a></li>
+						<li><a href="/#flight" class="">Flights</a></li>
+						<li><a href="/#bus" class="">Express Bus</a></li>
+						<li><a href="/#tour" class="">Featured Tours</a></li>
+						<li><a href="/#visa" class="">Visa</a></li>
                 </ul>
-            </nav>
-            <!--Top Nav Ends HEre-->
-            <div class="rl login">                    <a href="register.php">Sign up</a>
-<!--                    <a href="merchant-register.php">Sign up as Merchant</a>-->
+					<div class="login-box">
+						<div>
+							<a href="#" class="acc-img"><img alt="Oway Member Icon" src="http://oway.com.mm/images/login.jpg"></a>
+							<div class="account">
                     
-                    <a href="sign-in.php">Sign In</a>
-                                <!--Login box ends here--> 
-        </div>
+							<div class="register" style="margin-top: 10px;"><a style="padding:0 5px;" href="/sign-in">Login </a> | <a style="padding:0 5px;" href="/register">Register</a></div>
+                            </div>
     </div>
-</div></header>
-<script>
-
-    $('.sub_dp_us a').click(function() {
-        var val = $(this).attr('rel');
-        var url = $(location).attr('href');
-        console.log(url.indexOf("#"));
-        if (url.indexOf("#") > -1) {
-            var url_datas = url.split("#");
-            var url_data = url_datas[0];
-        } else
-            var url_data = url;
-
-        if (url_data.indexOf("?") > -1) {
-            if (url_data.indexOf("?currency_id") > -1) {
-                var urlst = url_data.split("?currency_id="); //to remove if sort already exists
-
-                window.location = urlst[0] + '?currency_id=' + val;
-            }
-            else {
-                if (url_data.indexOf("&currency_id") > -1) {
-                    var urlst = url_data.split("&currency_id="); //to remove if sort already exists
-
-                    window.location = urlst[0] + '&currency_id=' + val;
-                }
-                else {
-                    window.location = url_data + '&currency_id=' + val;
-                }
-            }
-
-
-        } else {
-            if (url_data[0].indexOf("?currency_id") > -1) {
-                var urls = url_data[0].split("?currency_id="); //to remove if sort already exists 
-
-                window.location = urls[0] + '?currency_id=' + val;
-            }
-            else {
-
-                window.location = url_data + '?currency_id=' + val;
-            }
-
-
-        }
-    })
-</script>
+					</div>
+				</div>    
+        </div>
+		</div>
+</header>
         <!--HEader Ends Here-->
         <section class="inner-body-content ">
             <div class="wrapper">
                 <section class="inner-wrapper">
 
                     <!---->
-                    <h1 class="terms-header"><strong>Privacy Notice</strong></h1>
+                    <h2 class="terms-header"><strong>Privacy Notice</strong></h2>
                     <div class="terms_content">
                         <div class="side1">
                             <div class="block1-inner">
@@ -439,126 +412,118 @@ $('.logo a').text(title);
                 </div>
             </div>
         </section>
-        <style>
-	a { text-decoration: none;font-family: "Century Gothic", arial, sans-serif; color: #0087c9}
-	ul.logos li{ list-style-type:none; margin-right:21px !important; display:inline-block; margin-bottom:10px;}
-	div.footer-links ul { margin-left: 10px !important}
-</style>
-<footer class="clearfix">
-    <div class="wrapper" style="width: 1250px !important;">
-        <!-- <div class="our-services">
-            <ul class="clearfix">
-                <li>Our Services</li>
-                <li><a href="#">Myanmar Travel Guide</a>|</li>
-                <li><a href="#">Corporate Travel</a>|</li>
-                <li><a href="#">Oway Rewards </a></li>
-            </ul>
+        
+<footer id="footer">
+        <!--start footer-->
+		<div class="footer content-wrapper">
+			<div class="footer-hd">
+				<div class="container">
+					<div class="footer-logo">
+					              	<a href="/"><img alt="Oway Travel &amp; Tour" src="http://oway.com.mm/images/footer-logo.jpg"></a> 
+						<p>Fastest Growing Travel Agency in Myanmar</p>
         </div>
-       -->
-        <div class="clearfix rb">
-            <div style="padding-top:23px"></div>
-           
-            <div class="rl footer-links" style="margin-right: 55px;">
-                <ul class="rl">
-                    <li>
-                        <h2 class="text-blue">Company</h2>
-                    </li>
-                    <li><a title="About Us" href="aboutus.php">About Us</a></li>
-                    <li><a title="Our Team" href="our_team.php">Our Team</a></li>
-                    <li><a href="our_partners.php" title="Our Partners">Our Partners</a></li>
-                    <li><a title="Testimonials" href="testimonials.php">Testimonials</a></li>
-                    <li><a title="FAQ" href="faq.php">FAQs</a></li>
-                    <li><a title="Contact Us" href="contact-us.php"><span style="color:#ffa72f;font-weight:bolder;font-size:16px">Contact Us</span></a></li>
-<!--                    <li><a title="Press" href="press-releases.php">Press</a></li>-->
-                    <li><a href="#"></a></li>
-                    <li><a href="#"></a></li>
-                </ul>
-                <ul class="rl">
-                    <li>
-                        <h2 class="text-blue">Products</h2>
-                    </li>
-                    <li><a href="/">Accommodation</a></li>
-                    <li><a href="/#Domestic">Flights</a></li>
-                   <li><a href="https://oway.com.mm/visa.php">Tourist Visa</a></li>
-                    <li><a href="#">Car Rentals</a></li>
-                    <li><a href="#">Tours &amp; Activities</a></li>
-                     <li style="margin-top: 8px; "><a title="Extranet-login" href="#" style="background: #cbcbcb; padding: 5px 5px; border: 1px solid #b4b3b3; border-radius: 4px; color: #000">Extranet Login</a></li>
-                </ul>
-                <ul class="rl">
-                    <li>
-                        <h2 class="text-blue">Privacy</h2>
-                    </li>
-                    <li><a href="privacy-notice.php">Privacy Notice</a></li>
-                    <li><a href="security-policy.php">Information Security Policy</a></li>
-                     <li><a href="#">Policy</a></li>
-                    <li><a href="giftcard-policy.php">Gift Card Policy</a></li>
-                    <li><a href="terms-and-condition-services.php">Terms of Services</a></li>
-                    <li><a href="terms-and-conditions.php">Website Terms of Use</a></li>
-                </ul>
-                 <ul class="rl">
-                    <li>
-                        <h2 class="text-blue">Track Orders</h2>
-                    </li>
-                    <li><a href="track-hotel-booking-status.php">Hotels</a></li>
-                    <li><a href="track-flight-booking-status.php">Flights</a></li>
-                    <li><a href="track-bus-booking-status.php">Buses</a></li>
-                    <li><a href="track-destination-booking-status.php">Destinations</a></li>
-                    </ul>
-            </div>
-				<div class="lower-footer clearfix rr" style="margin-top: 0;">
-					<div class="social clearfix rl" style="height: 85px">
-						<label>We Accept</label>
-						<div class="rr">
-							<div class="footer_image rl"> <img alt="" src="https://oway.com.mm/images/icon_cards_new.png" height="24"></div>
-						</div>
+                                        <!--edit 8/8/2015-->
+					<div class="social-icon">
+						<a href=" https://www.facebook.com/pages/Oway/270889736346570" target="_blank"><img alt="Oway Facebook Link" src="http://oway.com.mm/images/fb.jpg" width="38px;"></a>
+						<a href="https://www.pinterest.com/owaytravel" target="_blank"><img alt="Oway Pinterest Link" src="http://oway.com.mm/images/p.jpg" width="38px;"></a>			
+						<a href=" https://plus.google.com/u/3/103217993849743557099/posts" target="_blank"><img alt="Oway Google+ Link" src="http://oway.com.mm/images/gplush.jpg" width="38px;"></a>
+						<a href="/contact-us"><img alt="Contact Us" src="http://oway.com.mm/images/contact.jpg"></a>
 					</div>
-
-			<div class="social clearfix rl">
+                                        <!--edit 8/8/2015-->
+           
+				</div>
+			</div>	<!--end footer hd-->
+			<div class="content-wrapper footer-content">
+				<div class="container">
+					<div class="footer-menu">
+                    <h3>Company</h3>
+						<ul>
+                        <li><a href="/about-us">About Us</a></li>
+                        <li><a href="/our-team">Our Team</a></li>
+                        <li><a href="/our-partners">Our Partners</a></li>
+                        <li><a href="/testimonials">Testimonials</a></li>
+                        <li><a href="/faq">FAQs</a></li>
+                </ul>
+					</div>
+                <div class="footer-menu">
+                    <h3>Products</h3>
+						<ul>
+                        <li><a href="/#hotel">Hotels</a></li>
+                        <li><a href="/#flight">Flights</a></li>
+                        <li><a href="/#bus">Express Bus</a></li>
+                        <li><a href="/#tour">Featured Tours</a></li>
+                        <li><a href="/#visa">Myanmar Visa</a></li>
+                </ul>
+					</div>
+					<div class="footer-menu">
+                    <h3>Privacy</h3>
+						<ul>
+                        <li><a href="/privacy-notice">Privacy Notice</a></li>
+                        <li><a href="/information-security-policy">Information Security Policy</a></li>
+                        <!--<li><a href="privacy-notice.php#">Policy</a></li>
+                        <li><a href="giftcard-policy.php">Gift Card Policy</a></li>-->
+                        <li><a href="/terms-of-services">Terms of Services</a></li>
+                        <li><a href="/website-terms-of-use">Website Terms of Use</a></li>
+                </ul>
+            </div>
+					<div class="payment-item">
+							<div class="pay-card">
+						<label>We Accept</label>
+								<div>
+                            <img alt="Oway MasterCard Accessibility" src="http://oway.com.mm/images/i1.jpg">
+                            <img alt="Oway VISA Accessibility" src="http://oway.com.mm/images/i2.jpg">
+                            <img alt="Oway Paypal Accessibility" src="http://oway.com.mm/images/i3.jpg">
+                            <img alt="Myanmar Payment Union" src="http://oway.com.mm/images/i4.jpg"><br>
+                            <img alt="Oway Virtual Credit Accessibility" src="http://oway.com.mm/images/i5.jpg">
+                            <img alt="Oway Cash On Delivery Accessibility" src="http://oway.com.mm/images/i6.jpg">
+                            <img alt="Oway Mobile Banking Accessibility" src="http://oway.com.mm/images/i7.jpg">
+                            <img alt="Oway Bank Transfer Accessibility" src="http://oway.com.mm/images/i8.jpg">
+						   </div>
+						</div>
+							<div class="geo-card">
 			   <label>GeoTrust Secured</label>
-			   <!-- webbot  bot="HTMLMarkup" startspan -->
-				<!-- GeoTrust QuickSSL [tm] Smart  Icon tag. Do not edit. -->
-				 <script language="javascript" type="text/javascript" src="//smarticon.geotrust.com/si.js"></script>
-				<!-- end  GeoTrust Smart Icon tag -->
-				<!-- webbot  bot="HTMLMarkup" endspan --> 
+								<div>
+                            <img alt="GeoTrust Oway LLC" style="display:inline;" src="http://oway.com.mm/images/geo.jpg">
+									 <img alt="IATA" style="width:100px;margin-left: 10px;display:inline;" src="http://oway.com.mm/images/iata.jpg">
 			</div>
-
-				<div class="social clearfix rl" style="border-right:0px">
+							</div>
+							<div class="authorize-card">
 					<label>Authorize Secured</label>
-					<!-- <img src="https://oway.com.mm/images/authorize_net.jpg"  style="margin-top: 10px" > -->
-					<!-- (c) 2005, 2014. Authorize.Net is a registered trademark of CyberSource Corporation --> 
-					<div class="AuthorizeNetSeal"> 
-					  <script type="text/javascript" language="javascript">var ANS_customer_id="22d7fbe4-eb95-46a2-be01-47a4a413d4ba";</script> 
-					  <script type="text/javascript" language="javascript" src="//verify.authorize.net/anetseal/seal.js"></script>
-					  <a href="http://www.authorize.net/" id="AuthorizeNetText" target="_blank">Electronic Commerce</a> 
+								<div>
+                            <img alt="Oway Secured e-Commerce Payment" src="http://oway.com.mm/images/authorize.jpg">
 				    </div>
 				</div>
 			</div>
         </div>
-        <div class="rl"> <div style="margin:50px 0px 0px 10px;">
-				<div class="feat_owayLogo"><img style="float: left;position: relative;" src="images/logo_f.jpg" width="69" height="30" alt=""><div class="feat_heaer" style="padding-top:2px">&nbsp;&nbsp;&nbsp;&nbsp;Featured In :</div></div>
-				<ul class="logos" style="width: 1280px !important">
-				<li><a href="http://www.npr.org/blogs/money/2013/05/24/186275257/can-this-man-bring-silicon-valley-to-yangon?ft=3&amp;f=1001&amp;sc=nl&amp;cc=nh-20130524" target="_blank"><img src="https://oway.com.mm/images/npr_logo.jpg" alt="n p r logo" width="149" height="51"></a></li>
-				<li><a href="http://www.coca-colacompany.com/stories/the-challenges-of-launching-the-first-online-travel-agency-in-myanmar" target="_blank"><img src="https://oway.com.mm/images/coca_logo.jpg" alt="" width="148" height="51"></a></li>
-				<li><a href="http://www.nationmultimedia.com/business/Ex-Google-exec-returns-to-his-native-Myanmar-with--30215909.html" target="_blank"><img src="https://oway.com.mm/images/the_nation_media.jpg" alt="" width="156" height="59"></a></li>
-				<li><a href="http://skift.com/2013/10/01/ex-googler-returns-to-myanmar-to-build-booking-site-from-the-ground-up/" target="_blank"><img src="https://oway.com.mm/images/skift.jpg" alt="" width="43" height="52"></a></li>
-				<li><a href="http://www.abc.net.au/foreign/content/2014/s4036963.htm" target="_blank"><img src="https://oway.com.mm/images/abc_news.jpg" alt="" width="149" height="55"></a></li>
-					<!--start htoo change2 5/1/2015-->
-				<li><a href="http://search.ft.com/search?queryText=nay+aung" target="_blank"><img src="https://oway.com.mm/images/financial_times.jpg" alt="financial times"></a></li>
-				<!--<li><a href="#" target="_blank"><img src="cctv_news.jpg" alt="" width="148" height="41"></a></li>-->
-				<li><a href="http://www.bbc.co.uk/podcasts/series/worldbiz" target="_blank"><img src="https://oway.com.mm/images/bbc_news.jpg" alt="BBC NEWS"></a></li>
-				<li><a href="http://www.washingtontimes.com/news/2014/may/1/myanmar-returnees-bet-on-frontier-economys-future/?page=all" target="_blank"><img src="https://oway.com.mm/images/washington.jpg" alt="myanmar returnees bet on frontier economys future"></a></li>
-<!--end htoo change2 5/1/2015--></ul>
+			</div>	<!--end footer content-->
+			<div class="content-wrapper feature-footer">
+					<div class="container">
+						<div class="feautre-logo">
+						<h3>Oway Featured In :</h3>
+							<a href="https://www.npr.org/blogs/money/2013/05/24/186275257/can-this-man-bring-silicon-valley-to-yangon?ft=3&amp;f=1001&amp;sc=nl&amp;cc=nh-20130524" target="_blank"><div class="npr-img"></div></a>
+							<a href="https://www.coca-colacompany.com/stories/the-challenges-of-launching-the-first-online-travel-agency-in-myanmar" target="_blank"><div class="coca-img"></div></a>
+							<a href="https://www.nationmultimedia.com/business/Ex-Google-exec-returns-to-his-native-Myanmar-with--30215909.html" target="_blank"><div class="nat-img"></div></a>
+							<a href="https://skift.com/2013/10/01/ex-googler-returns-to-myanmar-to-build-booking-site-from-the-ground-up/" target="_blank"><div class="sly-img"></div></a>
+							<a href="https://www.abc.net.au/foreign/content/2014/s4036963.htm" target="_blank"><div class="abc-img"></div></a>
+							<a href="https://search.ft.com/search?queryText=nay+aung" target="_blank"><div class="fin-img"></div></a>
+							<a href="https://www.bbc.co.uk/podcasts/series/worldbiz" target="_blank"><div class="bbc-img"></div></a>
+							<a href="https://www.washingtontimes.com/news/2014/may/1/myanmar-returnees-bet-on-frontier-economys-future/?page=all" target="_blank"><div class="wns-img"></div></a>
 				</div>
+							<div class="copy-right">Copyright©2015 oway.com.mm <a id="back-to-top" href="#" class="animated" data-animation-type="bounce"><i class="soap-icon-longarrow-up circle"></i></a></div>							                       
 		   </div>
-      <div class="social clearfix rr" style="border-right:0px"><div class="copyright rl">Copyright©2013  <a href="https://oway.com.mm/">oway.com.mm</a></div></div>
-    </div>
+			</div><!--end future-footer-->
+		</div><!--end footer-->		  		   
 </footer>
 <!--Footer Ends HEre--> 
-<script type="text/javascript" src="https://oway.com.mm/js/jquery.selectbox-0.2.js"></script> 
+<script type="text/javascript" src="http://oway.com.mm/js/jquery.selectbox-0.2.js"></script> 
 <script type="text/javascript">
     $(function() {
         $("#interest_id").selectbox();
     });
+$("#footer_links li a").click(function (){
+    $("html, body").animate({ scrollTop: 0 }, 600);
+    //return false;
+});
 </script>
 
 <script>
@@ -572,8 +537,9 @@ $('.logo a').text(title);
 
 </script>
 <!--Chat Application Code Start-->
-<!--chat Application Code End-->         <!--Footer Ends HEre--> 
-        <script type="text/javascript" src="https://oway.com.mm/js/jquery.carouFredSel-5.5.0-packed.js"></script> 
+<!--chat Application Code End--> 
+        <!--Footer Ends HEre--> 
+        <script type="text/javascript" src="http://oway.com.mm/js/jquery.carouFredSel-5.5.0-packed.js"></script> 
         <script type="text/javascript">
             $(function() {
 
@@ -592,7 +558,7 @@ $('.logo a').text(title);
 
             });
         </script> 
-        <script type="text/javascript" src="https://oway.com.mm/js/jquery.selectbox-0.2.js"></script> 
+        <script type="text/javascript" src="http://oway.com.mm/js/jquery.selectbox-0.2.js"></script> 
         <script type="text/javascript">
             $(function() {
                 $("#interest_id").selectbox();
