@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the plumbworld.co.uk privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702022426id_/http%3A//www.plumbworld.co.uk/info-4) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the plumbworld.co.uk privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208152018id_/http%3A//www.plumbworld.co.uk/info-4) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Plumbworld
 
 If you have any questions or concerns about privacy these should be addressed to [md@plumbworld.co.uk](mailto:md@plumbworld.co.uk)
 
