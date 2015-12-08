@@ -1,66 +1,96 @@
-> *The following text is extracted and transformed from the commonsenseblogblueprint.com privacy policy that was archived on 2013-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130404235241id_/http%3A//commonsenseblogblueprint.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the commonsenseblogblueprint.com privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208025126id_/http%3A//charliepage.com/privacy) for the most accurate reproduction.*
 
-# 
+# Privacy - CharliePage.com
 
-This privacy policy sets out how CharliePage.com ** ** uses and protects any information that you give CharliePage.com when you use this website.
+Common Sense Publishing, L.L.C. is committed to protecting the privacy of our online visitors.  When you visit our website, you may be providing information to Common Sense Publishing, L.L.C. on two different levels:
 
-CharliePage.com is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
-
-CharliePage.com may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from 3/30/2013.
-
-**What we collect**
-
-We may collect the following information:
-
-  * name and job title
-  * contact information including email address
-  * demographic information such as postcode, preferences and interests
-  * other information relevant to customer surveys and/or offers
+  * Anonymous statistics collected as you browse the site.
+  * Personal information you knowingly give us.
 
 
 
-**What we do with the information we gather**
+Common Sense Publishing, L.L.C. would like to assure you that we do not:
 
-We require this information to understand your needs and provide you with a better service, and in particular for the following reasons:
-
-  * Internal record keeping.
-  * We may use the information to improve our products and services.
-  * We may periodically send promotional emails **** about new products, special offers or other information which we think you may find interesting using the email address which you have provided.
-  * From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail. We may use the information to customise the website according to your interests.
+  * Collect personal information from you unless you provide it to us.
+  * Provide or sell the names and addresses of our members and site users to outside parties.
 
 
 
-**Security**
+Common Sense Publishing, L.L.C. does:
 
-We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure, **** we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.
-
-**How we use cookies**
-
-A cookie is a small file which asks permission to be placed on your computer’s hard drive. Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.
-
-We use traffic log cookies to identify which pages are being used. This helps us analyse data about web page traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system.
-
-Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us.
-
-You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.
-
-**Links to other websites**
-
-Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
-
-**Controlling your personal information**
-
-You may choose to restrict the collection or use of your personal information in the following ways:
-
-  * whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes
-  * if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at support@charliepage.zendesk.com **  
-**
+  * Safeguard members’ and site users’ information from unauthorized access.
+  * Maintain the confidentiality of member information which you provide to us.
 
 
 
-We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.
+As you browse our site, our web server collects information about your visit, not about you personally.  We monitor statistics such as:
 
-You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please write to 1511 South Texas Ave. Suite 326, College Station, TX 77840 **  
-**
+  * How many people visit our site.
+  * From which domains our visitors come.
+  * Which browsers people use to visit our site.
 
-If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.
+
+
+While we gather this information, none of it is associated with you as an individual.
+
+We use these statistics to monitor the performance of our web site and to make it easier for you and other visitors to use.
+
+We collect information from online visitors who ask to be on our newsletter mailing list and/or receive periodic email announcements.
+
+All online visitor data collected by Common Sense Publishing, L.L.C. is protected against unauthorized access.
+
+Anyone who wishes can choose to be removed from our mailing list at any time.
+
+In addition, online visitors who wish to purchase a membership through our Web site must provide their name, email address, mailing address, phone number, and credit card number and expiration date.  The information collected is used only to process your request quickly and accurately.
+
+All credit card transactions occur over a secure connection.  We do not store credit card numbers on our servers and use third party services for payment processing and shopping cart services.
+
+To confirm that your connection is secure, look for the image of a lock or key on the bottom bar of your browser window.  If the lock is closed or the key appears whole, then you are viewing a secure page.  Otherwise, the lock may appear as open or the key appear as broken.
+
+All personal and financial information submitted during the purchase process is encrypted.
+
+We will not sell, trade, or give your personal information to other companies or organizations.
+
+We use Aweber for our email newsletter. Aweber's email privacy policy can be viewed at http://www.aweber.com.
+
+You can link to other websites from Common Sense Publishing, L.L.C..
+
+If you link to another website from any of our pages, you are leaving our website and are linking to a website not operated by Common Sense Publishing, L.L.C..  We cannot be held responsible for the content of the alternate website, nor do we represent either the third party or the member if the two enter into a transaction.
+
+An alternate website’s privacy and security policies may differ from those of Common Sense Publishing, L.L.C..  Therefore, we encourage you to read the policies of the websites reached through the use of links from our website.
+
+Common Sense Publishing, L.L.C. does not knowingly collect, maintain, or use personal information from children under the age of 13. If we learn that we have personal information on a child under the age of 13, we will delete that information from our systems.
+
+Common Sense Publishing, L.L.C. encourages parents to go online with their kids. Here are a few tips to help make a child's online experience safer:
+
+* Teach kids never to give personal information, unless supervised by a parent or responsible adult.  This includes name, address, phone, school, etc.  
+* Know the sites your kids are visiting and which sites are appropriate  
+* Look for Web site privacy policies.  
+* Know how your child's information is treated.
+
+Check out the FTC's site:
+
+http://business.ftc.gov/privacy-and-security for more tips on protecting children's privacy online.
+
+If you have questions about the privacy or security of the Common Sense Publishing, L.L.C. website, please contact us via our support center:
+
+http://www.charliepagesupport.com
+
+We can be contacted via postal mail at:
+
+Common Sense Publishing, L.L.C.  
+3204 Longmire Ste. 100  
+College Station TX 77845  
+USA
+
+We do not promote any form of SPAM or sending of email to ANYONE who has not requested information from you.
+
+We do not suggest BUYING MAILING LISTS or performing BULK EMAILING.
+
+The bottom line is simple, if you are not mailing to an opt-in list (people who expressly ask to receive your information) you are sending spam.
+
+We are committed to safeguarding the privacy of people's email addresses and are against the use of UCE (Unsolicited Commercial Email) or spamming including newsgroup mailing.
+
+Please report your issue with us and we will investigate your concerns forthwith.
+
+If you have any questions please contact us using the link above.
