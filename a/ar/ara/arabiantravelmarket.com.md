@@ -1,14 +1,12 @@
-> *The following text is extracted and transformed from the arabiantravelmarket.com privacy policy that was archived on 2014-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141009191833id_/http%3A//www.arabiantravelmarket.com/en/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arabiantravelmarket.com privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208103330id_/http%3A//www.arabiantravelmarket.com/en/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy - Arabian Travel Market
 
-## Privacy Pledge
-
 **How Your Information Is Used**
 
-Since 1995, Reed Exhibitions has been working to develop useful Internet services and web sites that are safe, easy, and respectful of our customers. This web site is maintained by Reed Exhibitions Limited (RX). Our corporate offices are located at Gateway House, 28 The Quadrant, Richmond, Surrey TW9 1DL, United Kingdom. You can also reach us by telephone on +44 (0) 208 910 7910.
+Since 1995, Reed Exhibitions has been working to develop useful Internet services and web sites that are safe, easy, and respectful of our customers. This web site (Arabian Travel Market) is maintained by Reed Exhibitions Limited (RX). Our corporate offices are located at Gateway House, 28 The Quadrant, Richmond, Surrey TW9 1DL, United Kingdom. You can also reach us by telephone on +44 (0) 208 910 7910.
 
-Our privacy policy is laid out below but if we have contacted you and you no longer wish to receive information from us then first of all we apologise for the inconvenience. 
+Our privacy policy is laid out below but if we have contacted you and you no longer wish to receive information from us then first of all we apologise for the inconvenience.
 
 **Customer Definition**
 
@@ -31,7 +29,7 @@ There are two primary types of information provided by RX customers. The definit
 
 **Financial Information**  \- Payment information gathered during the registration process - including but not limited to, credit card numbers, financial institutions, and expiration dates - is considered Financial. This information is not distributed under any circumstance.
 
-**Professional Information**  \- Data that customers provide to RX through various methods of communications with RX is considered professional information that is stored and managed for RX's internal use. Professional information includes, but is not limited to, name, address, company name, company address, phone number, fax number, email address, as well as questions answered on survey or registration forms. Data captured during a customer's visit to an RX web site, as well as during a visit with another RX customer, is also considered professional information and may also be stored for RX's internal use. Professional information may be, upon the consent of RX, shared with other organisations or RX customers for the purpose of facilitating business relationships in our customer's best interests.
+**Professional Information**  \- Data that customers provide to RX through various methods of communications with RX is considered professional information that is stored and managed for RX's internal use. Professional information includes, but is not limited to, name, address, company name, company address, phone number, fax number, email address, as well as questions answered on survey or registration forms. Data captured during a customer's visit to an RX web site, as well as during a visit with another RX customer, is also considered professional information and may also be stored for RX's internal use. Professional information may be shared with other organisations or RX customers for the purpose of facilitating business relationships in our customer's best interests, unless you have opted out of such communications.
 
 **Opt Out**
 
@@ -48,7 +46,7 @@ By Sender: RX or third party
 
 **Any queries/questions/opt out**
 
-If you have any questions or concerns about your customer information or your request to opt-out of communications from RX or its third party partners, please contact our Corporate Headquarters via e-mail [unsubscribe@reedexpo.co.uk](mailto:unsubscribe@reedexpo.co.uk) , by telephone Tel +44 (0) 20 8271 2134 or FAX (+44 (0) 20 8334 0724) or by post to Information Management, Gateway House, 28 The Quadrant, Richmond, Surrey TW9 1DN, United Kingdom and specify your name, company name and e-mail address.
+If you have any questions or concerns about your customer information or your request to opt-out of communications from RX or its third party partners, please contact our Corporate Headquarters via e-mail [unsubscribe@reedexpo.co.uk](mailto:unsubscribe@reedexpo.co.uk), by telephone Tel +44 (0) 20 8271 2134 or FAX (+44 (0) 20 8334 0724) or by post to Information Management, Gateway House, 28 The Quadrant, Richmond, Surrey TW9 1DN, United Kingdom and specify your name, company name and e-mail address.
 
 **Security**
 
@@ -60,9 +58,24 @@ Where a site is password protected it will use Cookies. Cookies are nothing more
 
 The RX cookie that is placed on your computer as a result of you registering on one of our sites contains only your unique reference number that is allocated by the registration process. This consists of a 4-digit number. There is no information in the Cookie that can identify you. The Cookie is only valid when you access the relevant RX site.
 
-**E-mail addresses**
+We use "session" cookies to collect information about the use of the Site and to allow you to view content. These cookies are temporary and are deleted when you close your browser. We use “persistent” cookies to give you a more responsive browsing experience and help you to navigate the Site more efficiently. We collect and use this anonymous aggregated user date for the purpose of usage analysis, quality control and administering and improving the Site either ourselves or through third party contractors. You can prevent your browser from accepting new cookies or may disable cookies altogether by accessing your browser preferences menu although this is likely affect the functionality and personalisation features offered when you use the Site.
 
-This site recognises the home servers of visitors, but not their e-mail addresses. Individually identifiable e-mail addresses are not captured or stored unless they are provided. Persons who communicate with RX, and supply us with an e-mail address, [are consenting to/may receive] future communications by e-mail. Persons who do not wish to receive e-mail messages may contact RX and ask to be removed; to do so, send an e-mail to  [unsubscribe@reedexpo.co.uk](mailto:unsubscribe@reedexpo.co.uk) and specify your name, company name and e-mail address. As such, RX supports the customer's right to "opt-out". Persons who request information about RX, and who supply us with their name and address and/or email and/or telephone details will be added to our database to receive the requested information.
+  
+Name | Owner | Duration | Purpose  
+---|---|---|---  
+f_hash | Feathr | 2 Years | Feathr is an analytics and digital marketing solution. Feathr helps us determine which content is most active, and associates individuals with the content they consume. This cookie helps Feathr determine whether or not the visitor and page view represent legitimate traffic or potentially come from a bot or search engine crawler.  
+f_id | Feathr | 2 Years | This is another Feathr cookie. It establishes a unique identification per user. It helps Feathr determine number of unique visitors to an RX site as well as to tailor marketing behavior by user.  
+f_opt_out | Feathr | 5 Years | This is another Feathr cookie. It is set when you enable or disable a global opt-out of Feathr's behavioral tracking at <https://feathr.co/opt-out/>. If this cookie exists in the affirmative, all other Feathr cookies are either erased or ignored.  
+  
+Please [click here](https://web.archive.org/Privacy--Cookies) for more information.
+
+**Any Queries/Questions**
+
+If you have any questions or concerns about your customer information or your request to opt-out of communications from RX or its third party partners or wish to change your customer information, please contact our Corporate Headquarters via email [inquiry@reedexpo.co.uk](mailto:inquiry@reedexpo.co.uk), telephone + 44(0) 20 8910 7878, or fax + 44(0) 20 8910 7813.
+
+**Email addresses**
+
+This site recognises the home servers of visitors, but not their e-mail addresses. Individually identifiable e-mail addresses are not captured or stored unless they are provided. Persons who communicate with RX, and supply us with an e-mail address, [are consenting to/may receive] future communications by e-mail. Persons who do not wish to receive e-mail messages may contact RX and ask to be removed; to do so, send an e-mail to [unsubscribe@reedexpo.co.uk](mailto:unsubscribe@reedexpo.co.uk) and specify your name, company name and e-mail address. As such, RX supports the customer's right to "opt-out". Persons who request information about RX, and who supply us with their name and address and/or email and/or telephone details will be added to our database to receive the requested information.
 
 **Disclaimer**
 
