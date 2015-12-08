@@ -1,19 +1,19 @@
-> *The following text is extracted and transformed from the motoring.co.uk privacy policy that was archived on 2015-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150415033322id_/http%3A//www.motoring.co.uk/privacy-policy.cgi) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the motoring.co.uk privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208132419id_/http%3A//www.motoring.co.uk/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy for motoring.co.uk
+# Privacy Policy | Motoring.co.uk
 
-Motoring.co.uk Limited (“We”) are committed to protecting and respecting your privacy.
+Motoring.co.uk Limited ("We") are committed to protecting and respecting your privacy.
 
-This policy (together with our terms of use [www.motoring.co.uk/terms-of-use.cgi](http://www.motoring.co.uk/terms-of-use.cgi) and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it. By visiting www.motoring.co.uk you are accepting and consenting to the practices described in this policy. 
+This policy (together with our terms of use [www.motoring.co.uk/terms-of-use](https://web.archive.org/web/20151208132419id_/http%3A//www.motoring.co.uk/terms-of-use) and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it. By visiting www.motoring.co.uk you are accepting and consenting to the practices described in this policy. 
 
-For the purpose of the Data Protection Act 1998 (the “ **Act** ”), the data controller is Motoring.co.uk Limited of 8 St John Street, Manchester, M3 4DU. 
+For the purpose of the Data Protection Act 1998 (the " **Act** "), the data controller is Motoring.co.uk Limited of 8 St John Street, Manchester, M3 4DU. 
 
 Our nominated representative for the purpose of the Act is John Caslin.
 
 **Information we may collect from you**
 
 We may collect and process the following data about you:  
-**Information you give us.** You may give us information about you by filling in forms on our site www.motoring.co.uk (“ **our site** ”) or by corresponding with us by phone, e-mail or otherwise. This includes information you provide when you register to use our site, subscribe to our service, search for a product, place an order on our site, participate in social media functions on our site, enter a competition, promotion or survey and when you report a problem with our site. The information you give us may include your name, gender, age, address, e-mail address and phone number, financial and credit card information, personal description and photograph. 
+**Information you give us.** You may give us information about you by filling in forms on our site www.motoring.co.uk (" **our site** ") or by corresponding with us by phone, e-mail or otherwise. This includes information you provide when you register to use our site, subscribe to our service, search for a product, place an order on our site, participate in social media functions on our site, enter a competition, promotion or survey and when you report a problem with our site. The information you give us may include your name, gender, age, address, e-mail address and phone number, financial and credit card information, personal description and photograph. 
 
 **Information we collect about you.** With regard to each of your visits to our site we may automatically collect the following information:
 
@@ -27,7 +27,7 @@ information about your visit, including the full Uniform Resource Locators (URL)
 
 **Cookies**
 
-Our website uses cookies to distinguish you from other users of our website. This helps us to provide you with a good experience when you browse our website and also allows us to improve our site. For detailed information on the cookies we use and the purposes for which we use them see our Cookie policy [www.motoring.co.uk/cookie-policy.cgi](http://www.motoring.co.uk/cookie-policy.cgi).
+Our website uses cookies to distinguish you from other users of our website. This helps us to provide you with a good experience when you browse our website and also allows us to improve our site. For detailed information on the cookies we use and the purposes for which we use them see our Cookie policy [www.motoring.co.uk/cookie-policy](https://web.archive.org/web/20151208132419id_/http%3A//www.motoring.co.uk/cookie-policy).
 
 **Uses made of the information**
 
@@ -83,11 +83,11 @@ In the event that we sell or buy any business or assets, in which case we may di
 
 If Motoring.co.uk Limited or substantially all of its assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets.
 
-If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our terms of use [www.motoring.co.uk/terms-of-use.cgi](http://www.motoring.co.uk/terms-of-use.cgi) and other agreements; or to protect the rights, property, or safety of Motoring.co.uk Limited, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
+If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our terms of use [www.motoring.co.uk/terms-of-use](https://web.archive.org/web/20151208132419id_/http%3A//www.motoring.co.uk/terms-of-use) and other agreements; or to protect the rights, property, or safety of Motoring.co.uk Limited, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
 
 **Where we store your personal data**
 
-The data that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area (“EEA”). It may also be processed by staff operating outside the EEA who work for us or for one of our suppliers. Such staff maybe engaged in, among other things, the fulfilment of your order, the processing of your payment details and the provision of support services. By submitting your personal data, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy.
+The data that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area ("EEA"). It may also be processed by staff operating outside the EEA who work for us or for one of our suppliers. Such staff maybe engaged in, among other things, the fulfilment of your order, the processing of your payment details and the provision of support services. By submitting your personal data, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy.
 
 All information you provide to us is stored on our secure servers. Any payment transactions will be encrypted using SSL technology. Where we have given you (or where you have chosen) a password which enables you to access certain parts of our site, you are responsible for keeping this password confidential. We ask you not to share a password with anyone.
 
