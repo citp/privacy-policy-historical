@@ -1,68 +1,171 @@
-> *The following text is extracted and transformed from the mytechguide.org privacy policy that was archived on 2014-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140621082111id_/http%3A//www.mytechguide.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mytechguide.org privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208020825id_/http%3A//www.mytechguide.org/privacy-policy) for the most accurate reproduction.*
 
 # My Technology Guide Privacy Policy
 
-[Privacy Policy](http://oncdn.mytechguide.org/wp-content/uploads/2009/07/511238 "Privacy Policy")
+## Types of Data collected
 
-Our Privacy Policy was last updated and posted on May 29, 2013. It governs the privacy terms of our Website, located at http://www.mytechguide.org. Any capitalized terms not defined in our Privacy Policy, have the meaning as specified in our [Terms of Service](http://cdn.mytechguide.org/wp-content/uploads/2009/07/terms-and-conditions).
+Among the types of Personal Data that this Application collects, by itself or through third parties, there are: Cookie, Usage data, Email address, First Name, Last Name, Username and Various types of Data.
 
-**Your Privacy**  
-My Technology Guide follows all legal requirements to protect your privacy. Our Privacy Policy is a legal statement that explains how we may collect information from you, how we may share your information, and how you can limit our sharing of your information. You will see terms in our Privacy Policy that are capitalized. These terms have meanings as described in the Definitions section below.
+Other Personal Data collected may be described in other sections of this privacy policy or by dedicated explanation text contextually with the Data collection. The Personal Data may be freely provided by the User, or collected automatically when using this Application.
 
-**Definitions**  
-“Non Personal Information” is information that is not personally identifiable to you and that we automatically collect when you access our Website with a web browser. It may also include publicly available information that is shared between you and others.
+Any use of Cookies – or of other tracking tools – by this Application or by the owners of third party services used by this Application, unless stated otherwise, serves to identify Users and remember their preferences, for the sole purpose of providing the service required by the User. Failure to provide certain Personal Data may make it impossible for this Application to provide its services.
 
-“Personally Identifiable Information” is non-public information that is personally identifiable to you and obtained in order for us to provide you within our Website. Personally Identifiable Information may include information such as your name, email address, and other related information that you provide to us or that we obtain about you.
+Users are responsible for any Personal Data of third parties obtained, published or shared through this Application and confirm that they have the third party’s consent to provide the Data to the Owner.
 
-**Information We Collect**  
-Generally, you control the amount and type of information you provide to us when using our Website.
+## Mode and place of processing the Data
 
-As a Visitor, you can browse our website to find out more about our Website. You are not required to provide us with any Personally Identifiable Information as a Visitor.
+### Methods of processing
 
-**Computer Information Collected**  
-When you use our Website, we automatically collect certain computer information by the interaction of your mobile phone or web browser with our Website. Such information is typically considered Non Personal Information. We also collect the following:
+The Data Controller processes the Data of Users in a proper manner and shall take appropriate security measures to prevent unauthorized access, disclosure, modification, or unauthorized destruction of the Data.
 
-  * **Cookies**  
-Our Website uses “Cookies” to identify the areas of our Website that you have visited. A Cookie is a small piece of data stored on your computer or mobile device by your web browser. We use Cookies to personalize the Content that you see on our Website. Most web browsers can be set to disable the use of Cookies. However, if you disable Cookies, you may not be able to access functionality on our Website correctly or at all. We never place Personally Identifiable Information in Cookies.
-  * **DoubleClick Cookie**  
-Google, as a third party vendor, uses cookies to serve ads on our Website. Google’s use of the DoubleClick cookie enables it and its partners to serve ads to our users based on their visit to our Website or other sites on the Internet. 
+The Data processing is carried out using computers and/or IT enabled tools, following organizational procedures and modes strictly related to the purposes indicated. In addition to the Data Controller, in some cases, the Data may be accessible to certain types of persons in charge, involved with the operation of the site (administration, sales, marketing, legal, system administration) or external parties (such as third party technical service providers, mail carriers, hosting providers, IT companies, communications agencies) appointed, if necessary, as Data Processors by the Owner. The updated list of these parties may be requested from the Data Controller at any time.  
+Place
 
-As a user of our Website, you may opt out of the use of the DoubleClick cookie for interest-based advertising by visiting the [Ads Preference Manager](http://oncdn.mytechguide.org/wp-content/uploads/2009/07/preferences "Ads Preference Manager").
+The Data is processed at the Data Controller’s operating offices and in any other places where the parties involved with the processing are located. For further information, please contact the Data Controller.  
+Retention time
 
-  * **Third Party Advertising:**  
-We use third-party companies to serve ads and collect non-personally identifiable information (e.g., the pages you visit, and which links you click, which ads you see and click on, and the categories of search terms you enter) when you visit our web site. These companies may use the information outlined above (which does not include your name, address, email address or telephone number) about your visits to this and other web sites in order to provide advertisements about goods and services of interest to you. These companies often use a cookie or third party web beacon to collect this information. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://oncloud.mytechguide.org/wp-content/uploads/2009/07/opt_out.asp) (link to the NAI universal user opt-out).
-  * **Third Party Tracking Tools**  
-We also use third party tracking tools to improve the performance and features of our Website. These third party tracking tools are designed to collect only Non-Personal Information about your use of our Website. However, you understand that such tools are created and managed by parties outside our control. As such, we are not responsible for what information is actually captured by such third parties or how such third parties use and protect that information.
-  * **Automatic Information**  
-We automatically receive information from your web browser or mobile device. This information includes the name of the website from which you entered our Website, if any, as well as the name of the website to which you’re headed when you leave our website. This information also includes the IP address of your computer/proxy server that you use to access the Internet, your Internet Website provider name, web browser type, type of mobile device, and computer operating system. We use all of this information to analyze trends among our Users to help improve our Website.
+The Data is kept for the time necessary to provide the service requested by the User, or stated by the purposes outlined in this document, and the User can always request that the Data Controller suspend or remove the data.
 
+### The use of the collected Data
 
+The Data concerning the User is collected to allow the Owner to provide its services, as well as for the following purposes: Analytics, Contacting the User, Interaction with external social networks and platforms, Registration and authentication, Access to third party services’ accounts, Handling payments, Interaction with support and feedback platforms, Infrastructure monitoring, Traffic optimization and distribution, Interaction with live chat platforms, Remarketing and Behavioral Targeting, Managing contacts and sending messages, Displaying content from external platforms, Commercial affiliation, Heat mapping, User database management and Managing support and contact requests.
 
-**How We Use Your Information**  
-We use the information we receive from you as follows:
+The Personal Data used for each purpose is outlined in the specific sections of this document.
 
-  * **Customizing Our Website**  
-We may use the Personally Identifiable information you provide to us along with any computer information we receive to customize our Website.
-  * **Sharing Information with Affiliates and Other Third Parties**  
-We do not sell, rent, or otherwise provide your Personally Identifiable Information to third parties for marketing purposes. We may provide your Personally Identifiable Information to affiliates that provide services to us with regards to our Website (i.e. payment processors, Website hosting companies, etc.); such affiliates will only receive information necessary to provide the respective services and will be bound by confidentiality agreements limiting the use of such information.
-  * **Data Aggregation**  
-We retain the right to collect and use any Non Personal Information collected from your use of our Website and aggregate such data for internal analytics that improve our Website and Service as well as for use or resale to others. At no time is your Personally Identifiable Information included in such data aggregations.
-  * **Legally Required Releases of Information**  
-We may be legally required to disclose your Personally Identifiable Information, if such disclosure is (a) required by subpoena, law, or other legal process; (b) necessary to assist law enforcement officials or government enforcement agencies; (c) necessary to investigate violations of or otherwise enforce our Legal Terms; (d) necessary to protect us from legal action or claims from third parties including you and/or other Members; and/or (e) necessary to protect the legal rights, personal/real property, or personal safety of My Technology Guide, our Users, employees, and affiliates.
+### Detailed information on the processing of Personal Data
 
+Personal Data is collected for the following purposes and using the following services:
 
+These services allow User Data to be utilized for advertising communication purposes displayed in the form of banners and other advertisements on this Application, possibly based on User interests. This does not mean that all Personal Data are used for this purpose. Information and conditions of use are shown below. Some of the services listed below may use Cookies to identify Users or they may use the behavioral retargeting technique, i.e. displaying ads tailored to the User’s interests and behavior, including those detected outside this Application. For more information, please check the privacy policies of the relevant services.
 
-**Protecting Your Child’s Privacy**  
-Our Website is not designed for use by anyone under the age of 13 (“Child”), though we realize we may have a Child attempt to make purchases through our Website. We do not verify the age of our Users nor do we have any liability for verifying a User’s age. If you are a Child, please seek the permission of a parent or guardian before using our Website. If you are a parent or guardian and believe your Child is using our Website, please contact us to remove your Child’s account; we reserve the right to ask you for verification of your relationship to the Child before we honor such a request. If we discover that a Child has created an account on our Website, we will immediately delete the account as soon as we discover it, we will not use the information for any purpose, and we will not disclose the information to third parties. However, as parent of such a Child, you understand that you are legally liable for any transactions created by the Child.
+### Advertisements
 
-**Links to Other Websites**  
-Our Website may contain links to other websites that are not under our direct control. These websites may have their own policies regarding privacy. We have no control of or responsibility for linked websites and provide these links solely for the convenience and information of our visitors. You access such linked Websites at your own risk. These websites are not subject to this Privacy Policy. You should check the privacy policies, if any, of those individual websites to see how the operators of those third-party websites will utilize your personal information. In addition, these websites may contain a link to Websites of our affiliates. The websites of our affiliates are not subject to this Privacy Policy, and you should check their individual privacy policies to see how the operators of such websites will utilize your personal information.
+#### BuySellAds (BuySellAds.com Inc.)
 
-**Our Email Policy**  
-Our affiliates and we fully comply with national laws regarding SPAM. You can always opt out of receipt of further email correspondence from us and/or our affiliates. We agree that we will not sell, rent, or trade your email address to any unaffiliated third-party without your permission.
+BuySellAds is an advertising service provided by BuySellAds.com Inc.
 
-**Privacy Policy Updates**  
-We reserve the right to modify this Privacy Policy at any time. You should review this Privacy Policy frequently. If we make material changes to this policy, we may notify you on our Website, by a blog post, by email, or by any method we determine. The method we chose is at our sole discretion. We will also change the “Last Updated” date at the beginning of this Privacy Policy. Any changes we make to our Privacy Policy are effective as of this Last Updated date and replace any prior Privacy Policies.
+Personal Data collected: Cookie and Usage data.
 
-**Questions About Our Privacy Practices or This Privacy Policy**  
-If you have any questions about our Privacy Practices or this Policy, please [contact us](http://cdn.mytechguide.org/wp-content/uploads/2009/07/contact).
+Place of processing: USA – [Privacy Policy](https://buysellads.com/about/privacy)
+
+#### IDG TechNetwork (IDG TechNetwork, Inc.)
+
+IDG TechNetwork is an advertising service provided by IDG TechNetwork, Inc.
+
+Personal Data collected: Cookie and Usage data.
+
+Place of processing: USA – [Privacy Policy](http://idgtechnetwork.com/terms/)
+
+#### Google AdSense (Google Inc.)
+
+Google AdSense is an advertising service provided by Google Inc. This service uses the “Doubleclick” Cookie, which tracks use of this Application and User behavior concerning ads, products and services offered.
+
+Users may decide to disable all the Doubleclick Cookies by clicking on:
+
+google.com/settings/ads/onweb/optout.
+
+Personal Data collected: Cookie and Usage data.
+
+Place of processing: USA – [Privacy Policy](https://www.google.com/intl/en/policies/privacy/) – [Opt Out](https://google.com/settings/ads/onweb/optout)
+
+#### VigLink (VigLink, Inc.)
+
+VigLink is a commercial affiliation service provided by VigLink, Inc.
+
+Personal Data collected: Cookie and Usage data.
+
+Place of processing: USA – [Privacy Policy](http://www.viglink.com/legal/) – [Opt Out](http://www.viglink.com/opt-out/)
+
+### Analytics
+
+The services contained in this section enable the Owner to monitor and analyze web traffic and can be used to keep track of User behavior.
+
+#### Analytics collected directly (This Application)
+
+This Application uses an internal analytics system that does not involve third parties.
+
+Personal Data collected: Cookie and Usage data.
+
+#### Display Advertising extension for Google Analytics (Google)
+
+Google Analytics on this Application might use Google’s Interest-based advertising, 3rd-party audience data and information from the DoubleClick Cookie to extend analytics with demographics, interests and ads interaction data.
+
+Personal Data collected: Cookie and Usage data.
+
+Place of processing: USA – [Privacy Policy](https://www.google.com/intl/en/policies/privacy/) – [Opt Out](https://tools.google.com/dlpage/gaoptout?hl=en)
+
+#### Google Analytics with anonymized IP (Google Inc.)
+
+Google Analytics is a web analysis service provided by Google Inc. (“Google”). Google utilizes the Data collected to track and examine the use of this Application, to prepare reports on its activities and share them with other Google services.  
+Google may use the Data collected to contextualize and personalize the ads of its own advertising network.  
+This integration of Google Analytics anonymizes your IP address. It works by shortening Users’ IP addresses within Member States of the European Union or in other Contracting States to the Agreement on the European Economic Area. Only in exceptional cases will the complete IP address be sent to a Google server and shortened within the USA.
+
+Personal Data collected: Cookie and Usage data.
+
+Place of processing: USA – [Privacy Policy](http://www.google.com/intl/en/policies/privacy/) – [Opt Out](https://tools.google.com/dlpage/gaoptout?hl=en)
+
+#### MixPanel (MixPanel)
+
+MixPanel is an analytics service provided by Mixpanel Inc.
+
+Personal Data collected: Cookie and Usage data.
+
+Place of processing: USA – [Privacy Policy](https://mixpanel.com/privacy/) – [Opt Out](https://mixpanel.com/optout/)
+
+#### WordPress Stats (Automattic Inc.)
+
+WordPress Stats is an analytics service provided by Automattic Inc.
+
+Personal Data collected: Cookie and Usage data.
+
+Place of processing: USA
+
+### Contacting the User
+
+#### Mailing List or Newsletter (This Application)
+
+By registering on the mailing list or for the newsletter, the User’s email address will be added to the contact list of those who may receive email messages containing information of commercial or promotional nature concerning this Application. Your email address might also be added to this list as a result of signing up to this Application or after making a purchase.
+
+Personal Data collected: Email address, First Name and Last Name (Optional).
+
+#### Contact form (This Application)
+
+By filling in the contact form with their Data, the User authorizes this Application to use these details to reply to requests for information, quotes or any other kind of request as indicated by the form’s header.
+
+Personal Data collected: Email address, First Name, Last Name and Various types of Data as specified in the privacy policy of the service.
+
+### Content commenting
+
+Content commenting services allow Users to make and publish their comments on the contents of this Application.
+
+#### Comment system managed directly (This Application)
+
+This Application has its own internal content comment system.
+
+Personal Data collected: Cookie, Email address, First Name, Last Name,
+
+Usage data and Username.
+
+### Hosting and backend infrastructure
+
+These services have the purpose of hosting data and files that enable this Application to run and be distributed as well as to provide a ready-made infrastructure to run specific features or parts of this Application. Some of these services work through geographically distributed servers, making it difficult to determine the actual location where the Personal Data are stored.
+
+### Infrastructure monitoring
+
+These services allow this Application to monitor the use and behavior of its components so its performance, operation, maintenance and troubleshooting can be improved. Which Personal Data are processed depends on the characteristics and mode of implementation of these services, whose function is to filter the activities of this Application.
+
+#### Pingdom (Pingdom AB)
+
+Pingdom is a monitoring service provided by Pingdom AB.
+
+Personal Data collected: Cookie and Usage data.
+
+Place of processing: Sweden – [Privacy Policy](https://www.pingdom.com/legal/privacy-policy)
+
+### How can I manage the installation of Cookies?
+
+In addition to what is specified in this document, the User can manage preferences for Cookies directly from within their own browser and prevent – for example – third parties from installing them. Through the browser preferences, it is also possible to delete Cookies installed in the past, including the Cookies that might possibly have saved the consent for the installation of Cookies by this website. It is important to note that by disabling all Cookies, the functioning of this site may be compromised. Users can find information about how to manage Cookies in their browser at the following addresses: [Google Chrome](https://support.google.com/chrome/answer/95647?hl=en&p=cpn_cookies), [Mozilla Firefox](https://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences), [Apple Safari](https://support.apple.com/kb/PH19214?viewlocale=en_US&locale=en_US) and [Microsoft Windows Explorer](http://windows.microsoft.com/en-us/windows-vista/block-or-allow-cookies).
+
+In the case of services provided by third parties, Users can exercise their right to withdraw from the tracking activity by utilizing the information provided in the third party’s privacy policy, by clicking the opt-out link – if provided – or by contacting the third party.
+
+Notwithstanding the above, the Owner informs that Users may take advantage of: [Your Online Choices](http://www.youronlinechoices.com/). This service allows Users to select their tracking preferences for most of the advertising tools. The Owner thus recommends that Users make use of this resource in addition to the information provided in this document.
