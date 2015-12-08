@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the wordsmile.com privacy policy that was archived on 2014-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141228042743id_/http%3A//www.wordsmile.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wordsmile.com privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208182019id_/http%3A//www.wordsmile.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy ⋆ Wordsmile
+# Privacy ⋆ Belajar Bahasa Inggris Online
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at **contact@wordsmile.com**.
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at **mail@wordsmile.com**.
 
 At **www.wordsmile.com** , the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.wordsmile.com and how it is used.
 
