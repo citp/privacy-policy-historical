@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the saic.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610002330id_/http%3A//www.saic.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the saic.com privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208094005id_/http%3A//www.saic.com/privacy-policy) for the most accurate reproduction.*
 
 # SAIC: Privacy
 
@@ -20,7 +20,7 @@ Cookies are also used to prefill forms so that you do not need to re-enter the d
 
 #### Your Privacy Preferences and Opting Out
 
-At www.saic.com, you can sign up to [receive SAIC Email Alerts](http://investors.saic.com/get-news-alerts-by-email) for information that interests you, such as the latest SAIC news and publications, as well as investor information including SEC filings, daily stock quotes, and more. We only offer "opt-in" lists so you can sign up and sign off at any time. To unsubscribe, simply reply to the email address on the bottom of every email we send you.
+At www.saic.com, you can sign up to [receive SAIC Email Alerts](http://investors.saic.com/alerts) for information that interests you, such as the latest SAIC news and publications, as well as investor information including SEC filings, daily stock quotes, and more. We only offer "opt-in" lists so you can sign up and sign off at any time. To unsubscribe, simply reply to the email address on the bottom of every email we send you.
 
 #### Links to Other Web Sites
 
