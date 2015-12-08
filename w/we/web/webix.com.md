@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the webix.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607140750id_/http%3A//webix.com/legalnote/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webix.com privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208103427id_/http%3A//webix.com/legalnote/privacy-policy) for the most accurate reproduction.*
 
 # JavaScript Library Webix - Privacy Policy
 
 (Last updated May 1, 2012)
 
-You agree to Webix’s Privacy Policy by using our website. The statements mentioned below concern only the content of Webix website and do not applied to any data collected offline.
+You agree to Webix’s Privacy Policy by using our website. The statements mentioned below concern only the content of Webix website and are not applied to any data collected offline.
 
 ### Information Collected
 
