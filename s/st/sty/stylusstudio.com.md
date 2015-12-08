@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stylusstudio.com privacy policy that was archived on 2015-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150410104405id_/http%3A//www.stylusstudio.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stylusstudio.com privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208103423id_/http%3A//www.stylusstudio.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -26,7 +26,7 @@ Stylus Studio® does:
 
 
 
-Stylus Studio® has always valued your privacy, and we reinforce this belief throughout our organization. Your information will be protected as described unless the specific Web page says otherwise. If you have further questions about our privacy policy, please [contact us](https://web.archive.org/xml_contact.html "Contact Stylus Studio"). 
+Stylus Studio® has always valued your privacy, and we reinforce this belief throughout our organization. Your information will be protected as described unless the specific Web page says otherwise. If you have further questions about our privacy policy, please [contact us](https://web.archive.org/xml-contact.html "We Want to Hear from You"). 
 
 ## Information That We Gather/Track
 
@@ -77,13 +77,13 @@ The Stylus Studio® Web site contains links to other Web sites. Please be aware 
 
 ## Opt-out Policy
 
-We provide registered Stylus Studio® users the opportunity to opt-out of receiving communications from us and our Partners. Stylus Studio® users who wish to remove their information from our database to avoid receiving future communications about services and product information can [contact us](https://web.archive.org/xml_contact.html "Contact Stylus Studio").
+We provide registered Stylus Studio® users the opportunity to opt-out of receiving communications from us and our Partners. Stylus Studio® users who wish to remove their information from our database to avoid receiving future communications about services and product information can [contact us](https://web.archive.org/xml-contact.html "We Want to Hear from You").
 
 ## Correcting/Update Policy
 
-If you would like to correct and/or update your information, please [contact us](https://web.archive.org/xml_contact.html "Contact Stylus Studio").
+If you would like to correct and/or update your information, please [contact us](https://web.archive.org/xml-contact.html "We Want to Hear from You").
 
-[Prev: **"Contact Stylus Studio"**](https://web.archive.org/xml_contact.html "Contact Stylus Studio") [Next: **"Stylus Studio EULA"**](https://web.archive.org/eula.html "Stylus Studio End User Product License Agreement")
+[Prev: **"Stylus Studio EULA"**](https://web.archive.org/eula.html "Stylus Studio End User Product License Agreement") [Next: **"Terms of Use"**](https://web.archive.org/terms-of-use.html "Terms of Use")
 
 |   
 ---|---|---
