@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the vvng.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610001832id_/http%3A//www.vvng.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vvng.com privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208110115id_/http%3A//www.vvng.com/privacy) for the most accurate reproduction.*
 
-# Privacy | VVNG.com Real News. Real Fast.
+# Privacy | VVNG.com Victor Valley News
 
 This is the Privacy Policy for all Web sites owned or operated by Victor Valley News, Inc. (“VVNG” “we” or “our”), including, without limitation the Web sites listed [here](http://www.vvng.com/vvng-sites) (collectively, the “Site”). We respect your privacy and appreciate the confidence you have placed in the Site. We are committed to protecting your privacy and preserving your trust. Please carefully review this Privacy Policy to learn about how we collect, use, and protect any personal information you provide us and your choices for managing your personal information. This Privacy Policy is subject to the [User Agreement](http://www.vvng.com/user-agreement) posted on the Site.
 
