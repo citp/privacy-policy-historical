@@ -1,74 +1,188 @@
-> *The following text is extracted and transformed from the schooldigger.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610030608id_/http%3A//www.schooldigger.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the schooldigger.com privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208181948id_/http%3A//www.schooldigger.com/privacy.aspx) for the most accurate reproduction.*
 
 # SchoolDigger.com - Privacy Policy
 
-Effective **Jan 1, 2007** , updated **Nov 11, 2013**
-
-**Privacy Notice Table Of Contents:**   
+This privacy policy has been compiled to better serve those who are concerned with how their 'Personally identifiable information' (PII) is being used online. PII, as used in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website.  
 
 
-  * Our Commitment To Privacy
-  * The Information We Collect
-  * Advertising
-  * How We Use Information
-  * Our Commitment To Data Security
-  * Our Commitment To Children's Privacy
-  * How To Access Or Correct Your Information
-  * Business Transfers
-  * Changes to this privacy policy
-  * Your acceptance of these terms
-  * How To Contact Us
+**What personal information do we collect from the people that visit our website?**
+
+When ordering or registering on our site, as appropriate, you may be asked to enter your name, email address or other details to help you with your experience.
+
+**When do we collect information?**
+
+We collect information from you when you register on our site, fill out a form or enter information on our site.
+
+**How do we use your information?**
+
+  
 
 
+We may use the information we collect from you when you register, make a purchase, sign up for our newsletter, respond to a survey or marketing communication, surf the website, or use certain other site features in the following ways:
 
-**Our Commitment To Privacy:**
+**•** To personalize user's experience and to allow us to deliver the type of content and product offerings in which you are most interested.
 
-Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested. 
+**•** To improve our website in order to better serve you.
 
-**The Information We Collect:**
+**•** To allow us to better service you in responding to your customer service requests.
 
-We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, register on the site, fill out a form, and in connection with other activities, services, features or resources we make available on our Site. Users may be asked for, as appropriate, name, email address, mailing address, phone number. Users may, however, visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities. 
+**•** To quickly process your transactions.
 
-We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information.
+**How do we protect visitor information?**
 
-Our Site may use "cookies" to enhance User experience. User's web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly. 
+  
 
-**Advertising:**
 
-We use third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/).
+Our website is scanned on a regular basis for security holes and known vulnerabilities in order to make your visit to our site as safe as possible.
 
-Google, as a third party vendor, uses cookies to serve ads on your site. Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html). 
+We use regular Malware Scanning.
 
-The Google Analytics features we've implemented is based on Displayed Advertising. Visitors can opt-out of Google Analytics for Display Advertising and customize Google Display Network ads using the [Ads Preferences Manager](https://www.google.com/settings/ads/). Additionally, users can use the [Google Analytics opt-out browser add-on](https://tools.google.com/dlpage/gaoptout/). 
+Your personal information is contained behind secured networks and is only accessible by a limited number of persons who have special access rights to such systems, and are required to keep the information confidential. In addition, all sensitive/credit information you supply is encrypted via Secure Socket Layer (SSL) technology. 
 
-**The Way We Use Information:**
+We implement a variety of security measures when a user enters, submits, or accesses their information to maintain the safety of your personal information.
 
-We use return email addresses to answer the email we receive and to process database correction requests and review submissions. Such addresses are not used for any other purpose and are not shared with outside parties. 
+All transactions are processed through a gateway provider and are not stored or processed on our servers.
 
-We use non-identifying and aggregate information to better design our website and to share with advertisers. For example, we may tell an advertiser that X number of individuals visited a certain area on our website, but we would not disclose anything that could be used to identify those individuals. 
+**Do we use 'cookies'?**
 
-Finally, we never use or share the personally identifiable information provided to us online in ways unrelated to the ones described above without also providing you an opportunity to opt-out or otherwise prohibit such unrelated uses. 
+Yes. Cookies are small files that a site or its service provider transfers to your computer's hard drive through your Web browser (if you allow) that enables the site's or service provider's systems to recognize your browser and capture and remember certain information. For instance, we use cookies to help us remember and process the items in your shopping cart. They are also used to help us understand your preferences based on previous or current site activity, which enables us to provide you with improved services. We also use cookies to help us compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
 
-**Our Commitment To Data Security:**
+**•** Understand and save user's preferences for future visits.
 
-To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online. 
+**•** Keep track of advertisements.
 
-**Our Commitment To Children's Privacy:**
+**•** Compile aggregate data about site traffic and site interactions in order to offer better site experiences and tools in the future. We may also use trusted third party services that track this information on our behalf.
 
-Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our website from those we actually know are under 13. 
+You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser (like Internet Explorer) settings. Each browser is a little different, so look at your browser's Help menu to learn the correct way to modify your cookies.  
 
-**Business Transfers:**
 
-In the event of a transfer of ownership of SchoolDigger.com, such as acquisition by or merger with another company, a user's personal information will, in most instances, be part of the assets transferred. 
+**If users disable cookies in their browser:**
 
-**Changes to this privacy policy:**
+If you disable cookies, some of the features that make your site experience more efficient and some of our services will not function properly.
 
-Claarware LLC has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the top of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications. 
+**Third Party Disclosure**
 
-**Your Acceptance of These Terms:**
+  
 
-By using this Site, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes. 
 
-**How To Contact Us:**
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information unless we provide you with advance notice. This does not include website hosting partners and other parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others' rights, property, or safety. 
 
-Should you have other questions or concerns about these privacy policies, please [contact us](https://web.archive.org/web/20150610030608id_/http%3A//www.schooldigger.com/contact.aspx). 
+However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses. 
+
+**Third party links**
+
+Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+
+**Google**
+
+We use Google AdSense Advertising on our website.
+
+Google, as a third party vendor, uses cookies to serve ads on our site. Google's use of the DART cookie enables it to serve ads to our users based on their visit to our site and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.  
+
+
+**We have implemented the following:**
+
+**•** Remarketing with Google AdSense
+
+**•** Google Display Network Impression Reporting
+
+**•** Demographics and Interests Reporting
+
+**•** DoubleClick Platform Integration  
+
+
+We along with third-party vendors, such as Google use first-party cookies (such as the Google Analytics cookies) and third-party cookies (such as the DoubleClick cookie) or other third-party identifiers together to compile data regarding user interactions with ad impressions, and other ad service functions as they relate to our website. 
+
+**California Online Privacy Protection Act**
+
+CalOPPA is the first state law in the nation to require commercial websites and online services to post a privacy policy. The law's reach stretches well beyond California to require a person or company in the United States (and conceivably the world) that operates websites collecting personally identifiable information from California consumers to post a conspicuous privacy policy on its website stating exactly the information being collected and those individuals with whom it is being shared, and to comply with this policy. - See more at: <http://consumercal.org/california-online-privacy-protection-act-caloppa/#sthash.0FdRbT51.dpuf>  
+
+
+**According to CalOPPA we agree to the following:**
+
+Users can visit our site anonymously
+
+Once this privacy policy is created, we will add a link to it on our home page, or as a minimum on the first significant page after entering our website.
+
+Our Privacy Policy link includes the word 'Privacy', and can be easily be found on the page specified above.
+
+Users will be notified of any privacy policy changes:
+
+**•** On our Privacy Policy Page
+
+Users are able to change their personal information:
+
+**•** By emailing us
+
+**•** By calling us
+
+**•** By logging in to their account
+
+**How does our site handle do not track signals?**
+
+We honor do not track signals and do not track, plant cookies, or use advertising when a Do Not Track (DNT) browser mechanism is in place. 
+
+**Does our site allow third party behavioral tracking?**
+
+It's also important to note that we allow third party behavioral tracking.
+
+**COPPA (Children Online Privacy Protection Act)**
+
+  
+
+
+When it comes to the collection of personal information from children under 13, the Children's Online Privacy Protection Act (COPPA) puts parents in control. The Federal Trade Commission, the nation's consumer protection agency, enforces the COPPA Rule, which spells out what operators of websites and online services must do to protect children's privacy and safety online.
+
+We do not specifically market to children under 13.
+
+**Fair Information Practices**
+
+  
+
+
+The Fair Information Practices Principles form the backbone of privacy law in the United States and the concepts they include have played a significant role in the development of data protection laws around the globe. Understanding the Fair Information Practice Principles and how they should be implemented is critical to comply with the various privacy laws that protect personal information.
+
+**In order to be in line with Fair Information Practices we will take the following responsive action, should a data breach occur:**
+
+We will notify the users via email
+
+**•** Within 7 business days
+
+We will notify the users via in site notification
+
+**•** Within 7 business days
+
+We also agree to the individual redress principle, which requires that individuals have a right to pursue legally enforceable rights against data collectors and processors who fail to adhere to the law. This principle requires not only that individuals have enforceable rights against data users, but also that individuals have recourse to courts or a government agency to investigate and/or prosecute non-compliance by data processors.
+
+**CAN SPAM Act**
+
+  
+
+
+The CAN-SPAM Act is a law that sets the rules for commercial email, establishes requirements for commercial messages, gives recipients the right to have emails stopped from being sent to them, and spells out tough penalties for violations.
+
+**We collect your email address in order to:**
+
+**•** Send information, respond to inquiries, and/or other requests or questions.
+
+**To be in accordance with CANSPAM we agree to the following:**
+
+**•** NOT use false, or misleading subjects or email addresses
+
+**•** Identify the message as an advertisement in some reasonable way
+
+**•** Include the physical address of our business or site headquarters
+
+**•** Monitor third party email marketing services for compliance, if one is used.
+
+**•** Honor opt-out/unsubscribe requests quickly
+
+**•** Allow users to unsubscribe by using the link at the bottom of each email
+
+**  
+If at any time you would like to unsubscribe from receiving future emails, you can email us at**
+
+contact@schooldigger.com and we will promptly remove you from **ALL** correspondence.
+
+If there are any questions regarding this privacy policy you may [contact us](https://web.archive.org/contact.aspx).  
+
