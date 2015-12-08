@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shopandroid.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609230624id_/http%3A//www.shopandroid.com/content/customercare/page-privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shopandroid.com privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208205339id_/http%3A//www.shopandroid.com/content/customercare/page-privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - ShopAndroid
 
