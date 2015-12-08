@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the speedlux.com privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220200421id_/http%3A//www.speedlux.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the speedlux.com privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208095558id_/http%3A//www.speedlux.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - SpeedLux
+# Privacy Policy - Luxury Car News, Prices, Spy Shots & Videos
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at http://speedlux.com/send-us-tips/.
 
