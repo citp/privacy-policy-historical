@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gaycities.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608085756id_/http%3A//www.gaycities.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gaycities.com privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208213742id_/http%3A//www.gaycities.com/about/privacy) for the most accurate reproduction.*
 
 # GayCities Privacy Policy - GayCities
 
