@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nalandaopenuniversity.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610000620id_/http%3A//www.nalandaopenuniversity.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nalandaopenuniversity.com privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208035917id_/http%3A//www.nalandaopenuniversity.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy : Nalanda Open University
 
