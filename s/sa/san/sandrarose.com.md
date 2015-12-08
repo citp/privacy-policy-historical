@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the sandrarose.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610033803id_/http%3A//sandrarose.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sandrarose.com privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208184843id_/http%3A//sandrarose.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy : Sandra Rose
-
-You are here: [Home](http://sandrarose.com/) / Privacy Policy
-
-## Privacy Policy
+# Privacy Policy
 
 Sandrarose.com [“blog” or “website”] uses third-party advertising companies, such as Google Adsense, Vibe Interactive, Valueclick or Gorilla Nation, etc., to serve ads when you visit this blog. In order to serve ads that are more relevant to you and to the other visitors of this website, these ad companies may use information stored in cookies, which are small text files saved on your computer whenever you visit this blog and other websites on the Internet.
 
