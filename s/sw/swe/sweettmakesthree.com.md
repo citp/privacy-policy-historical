@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sweettmakesthree.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609225142id_/http%3A//www.sweettmakesthree.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sweettmakesthree.com privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208082802id_/http%3A//www.sweettmakesthree.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Sweet T Makes Three
 
@@ -28,3 +28,13 @@ We use third-party advertising companies to serve ads when you visit our Web sit
 You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. www.sweettmakesthree.com’s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
 
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
+
+**Childrens Online Privacy Protection Act Compliance**
+
+I am in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act.) I do not collect any information from anyone under 13 years of age. My website, products and services are all directed to people who are at least 13 years old or older.
+
+This blog does not contain any content which might present a conflict of interest.
+
+_The owner of sweettmakesthree.com  is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to amazon.com as well as other retail websites._
+
+_I  do not promote products I do not own or would not buy myself. My goal is to provide you with shopping choices, product information and my own personal opinions or ideas for any given product or category. _ _You should always perform due diligence before buying goods or services online.  _
