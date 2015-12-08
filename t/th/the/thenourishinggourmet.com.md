@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thenourishinggourmet.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609232238id_/http%3A//www.thenourishinggourmet.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thenourishinggourmet.com privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208054827id_/http%3A//www.thenourishinggourmet.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy
 
