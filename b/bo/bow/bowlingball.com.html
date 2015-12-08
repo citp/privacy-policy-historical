@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the bowlingball.com privacy policy that was archived on 2015-05-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150520202011id_/http%3A//www.bowlingball.com/t-privacy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bowlingball.com privacy policy that was archived on 2015-12-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151208103123id_/http%3A//www.bowlingball.com/t-privacy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html style="overflow-x: hidden;"><head id="ctl00_Head1" profile="http://a9.com/-/spec/opensearch/1.1/"><meta http-equiv="CACHE-CONTROL" content="max-age=7200"><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><title>
 	Privacy Policy
@@ -18,7 +18,7 @@
     
     
     
-    <script id="twitter-wjs" src="https://platform.twitter.com/widgets.js"></script><script type="text/javascript" async="" src="https://www.googlecommerce.com/trustedstores/api/js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script src="http://images3.bowlingball.com/jscripts/jquery-1.8.2.min.js"></script>
+    <script id="ltkSDK" src="https://cdn.listrakbi.com/scripts/script.js?m=mWUfafdh1GhB&amp;v=1"></script><script id="twitter-wjs" src="https://platform.twitter.com/widgets.js"></script><script type="text/javascript" async="" src="https://www.googlecommerce.com/trustedstores/api/js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script src="http://images3.bowlingball.com/jscripts/jquery-1.8.2.min.js"></script>
     <script src="http://images3.bowlingball.com/jscripts/jquery-ui-1.9.1.min.js"></script>
     <script type="text/javascript" src="http://images3.bowlingball.com/jscripts/fancybox/jquery.fancybox.pack.js" class="ignoreMinify"></script>
     <script type="text/javascript" src="http://images3.bowlingball.com/jscripts/jquery.tooltipster.min.js" class="ignoreMinify"></script>
@@ -67,19 +67,282 @@
         </script>
         <!-- END: Google Trusted Stores -->
 
+        <script type="text/javascript">
+            function CorrectClickBehavior(item) 
+            {
+                if($(item).val() == 'Not set') 
+                {
+                    $(item).val('');
+                }
+            }
+            function CorrectBlurBehavior(item) 
+            {
+                if($(item).val() == '') 
+                {
+                    $(item).val('Not set');
+                }
+            }
+
+            function CorrectingWidthForFF() 
+            {
+                if(jQuery.browser.mozilla) 
+                {
+                    $('.dropdown').css('width', '150px');
+                }
+            }
+
+            function MakeDivClickableForIE() 
+            {
+                if(jQuery.browser.msie) {
+                    $('.coverSocial, .divImage').bind
+                        (
+                            'mouseout mouseover',
+                            function(event) 
+                            {
+                                if(event.type == 'mouseover') 
+                                {
+                                    $(this).css('cursor', 'hand');
+                                    var parentId = $(this).parent().attr('id');
+                                    switch(parentId) 
+                                    {
+                                        case 'fbiframefan': 
+                                        case 'fbiframe': 
+                                            {
+                                                $(this).attr('title', 'Like');
+                                                break;
+                                            }
+                                        case 'gplus': 
+                                            {
+                                                $(this).attr('title', '+1');
+                                                break;
+                                            }
+                                    }
+                                }
+                                else 
+                                {
+                                    $(this).css('cursor', 'pointer');
+                                }
+                            }
+                        );
+
+
+                    $('.coverSocial, .divImage').click
+                        (
+                            function() 
+                            {
+                                var parentId = $(this).parent().attr('id');
+                                var addressForOpen = '';
+                                var width = 500;
+                                var height = 500;
+
+                                switch(parentId) 
+                                {
+                                    case 'fbiframefan': 
+                                    case 'fbiframe': 
+                                        {
+                                            addressForOpen = 'https://www.facebook.com/login.php?skip_api_login=1&display=popup&social_plugin=like&next=http%3A%2F%2Fwww.facebook.com%2Fdialog%2Fplugin.optin%3F_path%3Dplugin.optin%26app_id%3D127760087237610%26client_id%3D127760087237610%26display%3Dpopup%26secure%3Dfalse%26social_plugin%3Dlike%26return_params%3D%257B%2522href%2522%253A%2522http%253A%252F%252Fwww.facebook.com%252Fbowlingballcom%2522%252C%2522layout%2522%253A%2522button_count%2522%252C%2522show_faces%2522%253A%2522true%2522%252C%2522width%2522%253A%252285%2522%252C%2522action%2522%253A%2522like%2522%252C%2522font%2522%253Anull%252C%2522colorscheme%2522%253A%2522light%2522%252C%2522height%2522%253A%252225%2522%252C%2522ret%2522%253A%2522optin%2522%252C%2522act%2522%253A%2522connect%2522%257D%26login_params%3D%257B%257D%26from_login%3D1&rcount=1';
+                                            break;
+                                        }
+                                    case 'twittersite': 
+                                        {
+                                            addressForOpen = 'https://twitter.com/intent/tweet?original_referer=http%3A%2F%2Flocalhost%3A64005%2Faccount.aspx&text=Great%20site%20for%20bowling%20balls%2C%20bags%2C%20shoes%2C%20and%20accessories.&tw_p=tweetbutton&url=http%3A%2F%2Fwww.bowlingball.com&via=bowlingball';
+                                            break;
+                                        }
+                                    case 'gplus': 
+                                        {
+                                            width = height = 800;
+                                            addressForOpen = 'https://accounts.google.com/ServiceLogin?service=oz&passive=1209600&continue=https://plus.google.com/up/?type%3Dpo%26client%3D1%26gpsrc%3Dwidget%26parent%3Dhttps://apis.google.com%26proxy%3DI2_1371561907481%26rsz%3D1%26hl%3Den_US%26partnerid%3Dwidget&followup=https://plus.google.com/up/?type%3Dpo%26client%3D1%26gpsrc%3Dwidget%26parent%3Dhttps://apis.google.com%26proxy%3DI2_1371561907481%26rsz%3D1%26hl%3Den_US%26partnerid%3Dwidget&hl=en_US#62529829';
+                                            break;
+                                        }
+                                }
+                                var leftVar = (screen.width - width)/2;
+                                var topVar = (screen.height - height)/2;
+                                window.open(addressForOpen, '', 'height=' + height + ',width=' + width + ',left=' + leftVar + ',top=' + topVar + ',resizable=no,scrollbars=yes,toolbar=yes,menubar=no,location=no,directories=no,status=yes');
+                            }
+                        );
+                }
+            }
         
-    <link href="http://images3.bowlingball.com/App_Themes/Skin_1/style.min.css" type="text/css" rel="stylesheet"><style>#ManufacturerLandingPages{margin:15px auto;width:950px;height:50px}#mlpBrunswick{background-position:0 -5px!important;width:40px}#mlpBrunswick:hover,#mlpBrunswick.hover{background-position:0 -40px!important}#mlpDV8{background-position:-41px -5px!important;width:40px}#mlpDV8:hover,#mlpDV8.hover{background-position:-41px -40px!important}#mlpRadical{background-position:-79px -5px!important;width:63px}#mlpRadical:hover,#mlpRadical.hover{background-position:-79px -38px!important}#mlpKR{background-position:-136px -5px!important;width:103px}#mlpKR:hover,#mlpKR.hover{background-position:-136px -39px!important}#mlpC300{background-position:-240px -6px!important;width:73px}#mlpC300:hover,#mlpC300.hover{background-position:-240px -41px!important}#mlpEbonite{background-position:-316px -5px!important;width:34px}#mlpEbonite:hover,#mlpEbonite.hover{background-position:-316px -40px!important}#mlpTrack{background-position:-348px -6px!important;width:54px}#mlpTrack:hover,#mlpTrack.hover{background-position:-348px -38px!important}#mlpHammer{background-position:-402px -5px!important;width:65px}#mlpHammer:hover,#mlpHammer.hover{background-position:-399px -40px!important}#mlpOTB{background-position:-467px -5px!important;width:118px}#mlpOTB:hover,#mlpOTB.hover{background-position:-465px -40px!important}#mlpPyramid{background-position:-585px -5px!important;width:120px}#mlpPyramid:hover,#mlpPyramid.hover{background-position:-582px -38px!important}#mlpRotoGrip{background-position:-705px -5px!important;width:37px}#mlpRotoGrip:hover,#mlpRotoGrip.hover{background-position:-702px -43px!important}#mlpStorm{background-position:-745px -5px!important;width:68px}#mlpStorm:hover,#mlpStorm.hover{background-position:-741px -38px!important}#ManufacturerLandingPages a{background:url("//images3.bowlingball.com/images/sprites/Brand-Bar-Sprite-1-16-15.png") no-repeat;display:block;float:left;height:35px;margin-right:12px}#ManufacturerLandingPages a.last{margin-right:0}#ManufacturerLandingPageLinks{clear:both}#ManufacturerLandingPageLinks a{color:#069;display:block;float:left;font-size:10px;height:30px;line-height:30px;margin-right:6px;text-align:center}</style><script src="//www.shopperapproved.com/widgets/testimonial/512.js" type="text/javascript"></script></head>
+            //function GetReviews() 
+            //{
+            //    var item = '';
+            //    $('#ReviewComment').css('height', '67px');
+            //    $.getJSON(
+            //            '/GetSiteReviews.aspx',
+            //            function(data) 
+            //            {
+            //                item = data;
+            //                $('#ReviewComment').html(item.Author + "<br/>" + item.Comment);
+            //                var width = (20*parseInt(item.Rating)-1).toString() + 'px';
+            //                $('#StarsLink').css('width', width);
+            //            }
+            //        );
+            //}
+
+            //function ChangeReviews() 
+            //{
+            //    $('#StarsLink').fadeIn(4000).delay(8000).fadeOut(4000);
+            //    $('#ReviewComment').fadeIn(4000, function() { $('#ReviewComment').css('height', '67px'); }).delay(8000).fadeOut(4000, function() { GetReviews(); });
+            //}
+
+            function is_touch_device() {
+                return false;//'ontouchstart' in document.documentElement;
+            };
+            var rotatorUpdating = false;
+
+            function createCookieHead(name, value, days) {
+                if (days) {
+                    var date = new Date();
+                    date.setTime(date.getTime() + (days * 24 * 60 * 60 * 1000));
+                    var expires = "; expires=" + date.toGMTString();
+                }
+                else var expires = "";
+                document.cookie = name + "=" + value + expires + "; path=/";
+            }
+
+            function eraseCookieHead(name) {
+                createCookieHead(name, "", -1);
+            }
+
+            $(document).ready(function () {
+
+                $("#BackToMobileVersionLinck").click( function (event) {
+                    eraseCookieHead("ASPDNSF.IsMobile");
+                });
+
+                       
+                
+
+                BuildMenu();
+
+                $(".menuItem").bind("mouseover", function () {
+                    if (pclosetimer) {
+                        window.clearTimeout(pclosetimer);
+                        pclosetimer = null;
+                    }
+
+                    p_close();
+                    pmenuitem = $(this).find(".submenu").show();//.css("display", "block");
+                    pmenuitemarrow = $(this).find(".menu_arrow").show();//.css("display", "block");
+                });
+
+                $(".menuItem").bind("mouseout", function () {
+                    pclosetimer = window.setTimeout(p_close, timeout);
+                });
+
+                menuShown = false;
+                //document.onclick = null;
+                $(".menuItem").bind("touchend", function(event){
+                    event.preventDefault(event);
+                    if (menuShown)
+                    {
+                        menuShown=false;
+                        //pclosetimer = window.setTimeout(p_close, timeout);
+                        p_close();
+                    }
+                    else
+                    {
+                        menuShown=true;
+                        /*if (pclosetimer) {
+                            window.clearTimeout(pclosetimer);
+                            pclosetimer = null;
+                        }
+                        */
+                        p_close();
+                        pmenuitem = $(this).find(".submenu").show();//.css("display", "block");
+                        pmenuitemarrow = $(this).find(".menu_arrow").show();//.css("display", "block");
+                    }
+                });
+
+                $(".tweet").tweet({
+                    username: "bowlingball",
+                    join_text: "auto",
+                    count: 1,
+                    template: "{text} {time}",
+                    loading_text: "loading tweets..."
+                });
+
+                $("a.fancyboxWhyN1").fancybox(/*{
+                    'width': 525,
+                    'height': 225,
+                    'border': 0,
+                    'padding': 0,
+                    'margin': 0,
+                    'type': 'iframe',
+                    //'scrolling': 'hidden',
+                    //'iframe': { 'scrolling': 'hidden' },
+                    'autoSize': false
+                }*/);
+                $("a.fancybox").fancybox({type:'iframe'});
+                MakeDivClickableForIE();
+                
+                $(".sellItRotator").each(function () {
+                    var container = $(this);
+                    getRotatorImage(container);
+                });
+
+            });
+
+            function getRotatorImage(container){
+                if (rotatorUpdating == false){
+                    rotatorUpdating = true;
+                    var contentid = container.attr('data-type');
+                    var category = container.attr("data-category");
+                    var pos = container.attr("data-position");
+                    var inc = container.attr("data-inc");
+                    $.post("/AjaxGetAd.aspx", { 'contentid': contentid, 'rnd': Math.random(), 'category': category, 'pos': pos, 'inc': inc },
+                    function (data) {
+                        updateRotatorImage(container, data);
+                    });
+                }
+                else
+                    setTimeout(function() { getRotatorImage(container)}, 100);
+            }
+
+            function updateRotatorImage(container, data){
+                debugger;
+                var objJSON = $.parseJSON(data);
+                if (objJSON.ID != 0) {
+                    container.attr('alt', objJSON.Name);
+                    container.attr('target', objJSON.Target);
+                    container.attr('href', objJSON.Url);
+                    container.css('background-image', 'url("' + objJSON.ImageSrc + '")');
+                    container.css("background-repeat", "no-repeat");
+                    container.css('display', 'block');
+                    container.attr("data-image-id", objJSON.ID);
+                }
+                rotatorUpdating = false;
+            }
+        </script>
+        
+    <script type="text/javascript" class="ignoreMinify">
+        (function (d) {
+            if (document.addEventListener) document.addEventListener('ltkAsyncListener', d);
+            else {
+                e = document.documentElement; e.ltkAsyncProperty = 0; e.attachEvent('onpropertychange', function (e) {
+                    if (e.propertyName == 'ltkAsyncProperty') { d(); }
+                });
+            }
+        })(function () {
+            /********** Begin Custom Code **********/
+            _ltk.SCA.CaptureEmail('newsletterEmail');
+            /********** End Custom Code **********/
+        });
+</script>
+    <link href="http://images3.bowlingball.com/App_Themes/Skin_1/style.min.css" type="text/css" rel="stylesheet"><script src="//www.shopperapproved.com/widgets/testimonial/512.js" type="text/javascript"></script></head>
 <body class="bodycolor">
     
 
     <form name="aspnetForm" method="post" action="t-privacy.aspx" id="aspnetForm">
 <div>
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTE1OTk3NjU0NjkPZBYCZg9kFgQCAg9kFgICFQ8WAh4EaHJlZgUgL0FwcF9UaGVtZXMvU2tpbl8xL3N0eWxlLm1pbi5jc3NkAgYPZBYQAgQPFgYfAAUkaHR0cDovL2NoYXQuYm93bGluZ2JhbGwuY29tL2NoYXQucGhwHgZ0YXJnZXQFBl9ibGFuax4JaW5uZXJodG1sBRBMaXZlIENoYXQgT25saW5lZAILD2QWAgIBDw8WBh4ISW1hZ2VVcmwFSC9BcHBfVGhlbWVzL3NraW5fMS9pbWFnZXMvbG9nbyB3aXRoIHNsb2dhbiAyNjF4OTBfMTMwNTk0OTM3Mzk4NjA1ODI4LnBuZx4IQ3NzQ2xhc3MFC01vYmlsZUltYWdlHgRfIVNCAgIWAh4GbWluc3JjZWQCDw9kFgJmDxYCHgRUZXh0BQEwZAIQDw8WBh4LTmF2aWdhdGVVcmwFRS9BcHBfVGhlbWVzL3NraW5fMS9pbWFnZXMvUkVBTC1ib3dsaW5nYmFsbC0xMTdfMTMwNzY1MTQyNjQ2MDU5ODQwLmpwZx8EBQ1mYW5jeWJveFdoeU4xHwUCAmQWAmYPD2QWAh4Hb25jbGljawU9amF2YXNjcmlwdDpzZWxsSXRfVHJhY2tFdmVudCgnSGVhZGVyJywgJ0ZyZWVTaGlwcGluZycsICcxNScpO2QCFw8WBB8ABURodHRwOi8vd3d3LmJvd2xpbmdiYWxsLmNvbS9zaG9wL2FsbC9hbGwvP1NlYXJjaFRlcm09c2NkZSZTb3J0PXByaWNlYR8BBQVfc2VsZhYCAgEPDxYCHwMFQy9BcHBfVGhlbWVzL3NraW5fMS9pbWFnZXMvU2hvZUNsb3Nlb3V0U2xpdmVyXzEzMDUyNjc4MjkxMTg4Mjc5OS5qcGdkZAIYD2QWBgIBDxYEHwAFMGh0dHA6Ly93d3cuYm93bGluZ2JhbGwuY29tL3Nob3AvYWxsL2RhaWx5LWRlYWxzLx8BBQVfc2VsZhYCAgEPDxYEHwMFOy9BcHBfVGhlbWVzL3NraW5fMS9pbWFnZXMvU2hvcCBTbWFydF8xMzAxNDQwNzA5NjU1MDAyNzAuanBnHgdWaXNpYmxlZxYCHwkFP2phdmFzY3JpcHQ6c2VsbEl0X1RyYWNrRXZlbnQoJ1NsaXZlcicsICdXcmFwcGVyIFRvcCBMZWZ0JywgJycpO2QCAw8WBB8ABSxodHRwOi8vd3d3LmJvd2xpbmdiYWxsLmNvbS9zYWxlcHJvZHVjdHMuYXNweB8BBQVfc2VsZhYCAgEPDxYEHwMFRC9BcHBfVGhlbWVzL3NraW5fMS9pbWFnZXMvV2FyZWhvdXNlIENsZWFyYW5jZV8xMzA0MjIxNjM3NjM4NTQ0OTEuanBnHwpnFgIfCQVSamF2YXNjcmlwdDpzZWxsSXRfVHJhY2tFdmVudCgnU2xpdmVyJywgJ1dyYXBwZXIgVG9wIExlZnQnLCAnV2FyZWhvdXNlIENsZWFyYW5jZScpO2QCBQ8WBB8ABTMvcHJvZHVjdHMvYm93bGluZy1iYWxscy9zdG9ybS8xMTg2Ny9jcnV4LXBlYXJsLmh0bWwfAQUFX3NlbGYWAgIBDw8WBB8DBUkvQXBwX1RoZW1lcy9za2luXzEvaW1hZ2VzL1N0b3JtLUNydXgtUGVhcmwtMjU5eDExMl8xMzA2OTIwMDAwODg5MTk0MjAucG5nHwpnFgIfCQVPamF2YXNjcmlwdDpzZWxsSXRfVHJhY2tFdmVudCgnU2xpdmVyJywgJ1dyYXBwZXIgVG9wIExlZnQnLCAnU3Rvcm0gQ3J1eCBQZWFybCcpO2QCGw9kFgYCAQ8WAh8HBdIDPGEgaHJlZj0iaHR0cDovL3d3dy5ib3dsaW5nYmFsbC5jb20vdC1TaG9wLVNtYXJ0LmFzcHgiIHRhcmdldD0iX3NlbGYiCiA+PGltZyBzcmM9Ii9BcHBfVGhlbWVzL3NraW5fMS9pbWFnZXMvU2hvcCBTbWFydCAzMzZ4MjUwXzEzMDU5NzU1NjM5MzIwMjE3Ni5qcGciLz4KPC9hPgo8YSBocmVmPSIvdC1zb2NpYWwtbWVkaWEtZ2l2ZWF3YXkuYXNweCIgdGFyZ2V0PSJfc2VsZiIKID48aW1nIHNyYz0iL0FwcF9UaGVtZXMvc2tpbl8xL2ltYWdlcy8zLUNoYW5jZXMtVG8tV2luLVNsaXZlcl8xMzA2MjYyMTA4NzYzMTk4MjguanBnIi8+CjwvYT4KPGEgaHJlZj0iL2tpZHMtYm93bC1mcmVlLWJvd2xpbmctcHJvZ3JhbXMiIHRhcmdldD0iX3NlbGYiCiA+PGltZyBzcmM9Ii9BcHBfVGhlbWVzL3NraW5fMS9pbWFnZXMvS2lkcyBCb3dsIEZyZWUgUmlnaHQgU2xpdmVyIDIwMTVfMTMwNzY1MzQ1MTQzNTc2MjQ0LmpwZyIvPgo8L2E+CmQCAw8WBB8ABUBodHRwOi8vd3d3LmJvd2xpbmdiYWxsLmNvbS9zaG9wL3RyYWNrL2Jvd2xpbmctYmFsbHMvP3NvcnQ9bmV3ZXN0HwEFBV9zZWxmFgICAQ8PFgQfAwVFL0FwcF9UaGVtZXMvc2tpbl8xL2ltYWdlcy9UcmFjay0xNzJ4NjAwLTJfMl8xNV8xMzA2NzM4MzIyMjk3NTA1NzQuanBnHwpnZGQCBQ8WAh8HBbMBPGEgaHJlZj0iLzUyLXdlZWtzLTUyLXdpbm5lcnMuYXNweCIgY2xhc3M9IldlZWtseUNvbnRlc3RMaW5rIj48aW1nIHNyYz0iL0FwcF9UaGVtZXMvc2tpbl8xL2ltYWdlcy81MiBXZWVrIEJhbGwgR2l2ZWF3YXkgLSBIeXBlciBDZWxsIFNraWRfMTMwNjI2MzkxNTQzNDQ2MTAyLmpwZyIgYm9yZGVyPSIwIiAvPjwvYT5kAiUPFgYfAAUkaHR0cDovL2NoYXQuYm93bGluZ2JhbGwuY29tL2NoYXQucGhwHwEFBl9ibGFuax8CBRhDbGljayBoZXJlIGZvciBMaXZlIENoYXRkZI+Aq8zaXcSbTWhqdxTRkMuaLD/hnl9yFnF4WLO7XBh8">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTE1OTk3NjU0NjkPZBYCZg9kFgQCAg9kFgICFQ8WAh4EaHJlZgUgL0FwcF9UaGVtZXMvU2tpbl8xL3N0eWxlLm1pbi5jc3NkAgYPZBYQAgQPFgYfAAUJL2ZhcS5hc3B4HgZ0YXJnZXRkHglpbm5lcmh0bWwFEUxpdmUgQ2hhdCBPZmZsaW5lZAILD2QWAgIBDw8WBh4ISW1hZ2VVcmwFWS9BcHBfVGhlbWVzL3NraW5fMS9pbWFnZXMvQ2hyaXN0bWFzLUhlYWRlci1Pcm5hbWVudC13aXRoLVNub3ctMjAxNV8xMzA5MzY0NDc2MDc1NzgxMjUucG5nHghDc3NDbGFzcwULTW9iaWxlSW1hZ2UeBF8hU0ICAhYCHgZtaW5zcmNlZAIPD2QWAmYPFgIeBFRleHQFATBkAhAPDxYGHgtOYXZpZ2F0ZVVybAVFL0FwcF9UaGVtZXMvc2tpbl8xL2ltYWdlcy9SRUFMLWJvd2xpbmdiYWxsLTEyN18xMzA5Mzk2OTkzODA3MDMxMjUuanBnHwQFDWZhbmN5Ym94V2h5TjEfBQICZBYCZg8PZBYCHgdvbmNsaWNrBTxqYXZhc2NyaXB0OnNlbGxJdF9UcmFja0V2ZW50KCdIZWFkZXInLCAnRnJlZVNoaXBwaW5nJywgJzUnKTtkAhcPFgQfAAU4L3Nob3AvYWxsL2FsbC8/U2VhcmNoVGVybT1CRkJEMTUmc29ydD1wcmljZWEmbGltaXQ9OTk5OTkfAQUFX3NlbGYWAgIBDw8WAh8DBWEvQXBwX1RoZW1lcy9za2luXzEvaW1hZ2VzL0NocmlzdG1hcy1Db3VudGRvd24tQmFsbC1CbG93b3V0LVNsaXZlci0xMS0yNy0xNV8xMzA5MzIyMDkxODA5OTYyNTAuanBnZGQCGA9kFgYCAQ8WBB8ABTBodHRwOi8vd3d3LmJvd2xpbmdiYWxsLmNvbS9zaG9wL2FsbC9kYWlseS1kZWFscy8fAQUFX3NlbGYWAgIBDw8WBB8DBVovQXBwX1RoZW1lcy9za2luXzEvaW1hZ2VzLzExX0RheXNfdHJwX3NsaXZlcl9EZWFsIDUwMCBEZWFscyAyNTl4MTEyXzEzMDkzNzIzMDIyODI0MjE4OC5qcGceB1Zpc2libGVnFgIfCQVZamF2YXNjcmlwdDpzZWxsSXRfVHJhY2tFdmVudCgnU2xpdmVyJywgJ1dyYXBwZXIgVG9wIExlZnQnLCAnQ291bnRkb3duIDExIFRyaXBsZSBTbGl2ZXInKTtkAgMPFgQfAAUsaHR0cDovL3d3dy5ib3dsaW5nYmFsbC5jb20vc2FsZXByb2R1Y3RzLmFzcHgfAQUFX3NlbGYWAgIBDw8WBB8DBUQvQXBwX1RoZW1lcy9za2luXzEvaW1hZ2VzL1dhcmVob3VzZSBDbGVhcmFuY2VfMTMwNDIyMTYzNzYzODU0NDkxLmpwZx8KZxYCHwkFUmphdmFzY3JpcHQ6c2VsbEl0X1RyYWNrRXZlbnQoJ1NsaXZlcicsICdXcmFwcGVyIFRvcCBMZWZ0JywgJ1dhcmVob3VzZSBDbGVhcmFuY2UnKTtkAgUPFgQfAAUtL3Byb2R1Y3RzL2Jvd2xpbmctYmFsbHMvc3Rvcm0vMTIyNjAvbG9jay5odG1sHwEFBV9zZWxmFgICAQ8PFgQfAwVDL0FwcF9UaGVtZXMvc2tpbl8xL2ltYWdlcy9TdG9ybS1Mb2NrLTI1OXgxMTJfMTMwODgyODQwNjgyMzQ2ODQyLnBuZx8KZxYCHwkFV2phdmFzY3JpcHQ6c2VsbEl0X1RyYWNrRXZlbnQoJ1NsaXZlcicsICdXcmFwcGVyIFRvcCBMZWZ0JywgJ1N0b3JtIExvY2sgVHJpcGxlIFNsaXZlcicpO2QCGw9kFgYCAQ8WAh8HBYYHPGEgaHJlZj0iL3QtU2hvcC1TbWFydC5hc3B4IiB0YXJnZXQ9Il9zZWxmIgogPjxpbWcgc3JjPSIvQXBwX1RoZW1lcy9za2luXzEvaW1hZ2VzL0NocmlzdG1hcyBDb3VudGRvd24gVXBwZXIgUmlnaHQgLSA1MDAgSVRFTVMgLSAyNTl4MjExXzEzMDkzNzIwMzgxMjI2NTYyNS5qcGciLz4KPC9hPgo8YSBocmVmPSIvcHJvZHVjdHMvZ2lmdC1jZXJ0aWZpY2F0ZXMvYm93bGluZ2JhbGwuY29tLzI5ODgvZ2lmdC1jZXJ0aWZpY2F0ZS5odG1sIiB0YXJnZXQ9Il9zZWxmIgogPjxpbWcgc3JjPSIvQXBwX1RoZW1lcy9za2luXzEvaW1hZ2VzL0dpZnQtQ2FyZC1CdXR0b24tMzM2eDYwXzEzMDkyODY2NjM5NDExMTI1MC5wbmciLz4KPC9hPgo8YSBocmVmPSIvcHJvZHVjdHMvYm93bGluZy1iYWxscy9weXJhbWlkLzExNTUxL2RhcmstcGF0aC0xOTUtaHlicmlkLmh0bWwiIHRhcmdldD0iX3NlbGYiCiA+PGltZyBzcmM9Ii9BcHBfVGhlbWVzL3NraW5fMS9pbWFnZXMvRGFyay1QYXRoLTE5NS0zMzZ4MTI1LS0tSE9MSURBWV8xMzA5MjUzMjgyMjc5OTUzMTIucG5nIi8+CjwvYT4KPGEgaHJlZj0iamF2YXNjcmlwdDokLmZhbmN5Ym94KHtocmVmOiAnL2ltYWdlcy9wcm9tb3Rpb25zL2hvbGlkYXktc2NoZWR1bGUtcG9wdXAtMTItNy0yMDE1LnBuZyd9KTsiIHRhcmdldD0iX3NlbGYiCiA+PGltZyBzcmM9Ii9BcHBfVGhlbWVzL3NraW5fMS9pbWFnZXMvSG9saWRheSBTY2hlZHVsZSAzMzZ4NjBfMTMwNjA5OTAxMDc3MDcyMTQ0LmpwZyIvPgo8L2E+CjxhIGhyZWY9Ii90LXNvY2lhbC1tZWRpYS1naXZlYXdheS5hc3B4IiB0YXJnZXQ9Il9zZWxmIgogPjxpbWcgc3JjPSIvQXBwX1RoZW1lcy9za2luXzEvaW1hZ2VzLzMtQ2hhbmNlcy1Uby1XaW4tU2xpdmVyXzEzMDYyNjIxMDg3NjMxOTgyOC5qcGciLz4KPC9hPgpkAgMPFgQfAAU4aHR0cDovL3d3dy5ib3dsaW5nYmFsbC5jb20vQ3VzdG9taXplZC1Cb3dsaW5nLUJhbGxzLmh0bWwfAQUFX3NlbGYWAgIBDw8WBB8DBUUvQXBwX1RoZW1lcy9za2luXzEvaW1hZ2VzL0N1c3RvbSBCYWxscyAxNzJ4NjAwXzEzMDU5NjgzMDc1OTcxMDQ0Ny5qcGcfCmdkZAIFDxYCHwcFtwE8YSBocmVmPSIvNTItd2Vla3MtNTItd2lubmVycy5hc3B4IiBjbGFzcz0iV2Vla2x5Q29udGVzdExpbmsiPjxpbWcgc3JjPSIvQXBwX1RoZW1lcy9za2luXzEvaW1hZ2VzLzUyLVdlZWstQmFsbC1HaXZlYXdheS0tLU1hc3Rlcm1pbmQtQnJhaW5pYWNfMTMwOTM0NjQwMjk0MzUwMDAwLmpwZyIgYm9yZGVyPSIwIiAvPjwvYT5kAiUPFgYfAAUJL2ZhcS5hc3B4HwFkHwIFElZpZXcgb3VyIEZBUSYjMzk7c2RklFsNsCxiUdU2OAGhv/Yh3nneVIFh7S5QpnynEeVTxco=">
 </div>
 
 
 <script src="/ScriptResource.axd?d=OffgTk13V0M5_ceNvwKscB5vJ5b5eApxv51pWwL0MeJ9Y69etxsYy3Frd_sqDJmV0Qhzagv5Wmcyb3JqC3jGL0Orz4pzdlf3Es6q4c_eGl7pxKp4X4ovKIMVOQk6A8Zpk0X_eZ1VG8iAXwhX9mA0sfBTCRNAaHjmkb1Az6hzCE722CjMNQSK-1n45dWrFn4N0&amp;t=7e632e9f" type="text/javascript"></script>
         
+        
+    <script type="text/javascript" src="http://images3.bowlingball.com/jscripts/utils.js" class="ignoreMinify"></script>
         <div class="top_bg">
         </div>
         <div id="ctl00_TopLogoBg" class="top_logo_bg">
@@ -110,7 +373,7 @@
                     <span id="userName" style="display: none;">
                         </span>
                     <span class="topline topphone">Call Us Toll Free at 888-265-2695</span>
-                    <span class="topline"><a href="http://chat.bowlingball.com/chat.php" id="ctl00_linkChat" target="_blank">Live Chat Online</a></span>
+                    <span class="topline"><a href="/faq.aspx" id="ctl00_linkChat">Live Chat Offline</a></span>
                     <span class="topline"><a href="/faq.aspx" id="ctl00_A4">Help/FAQ</a></span>
                     
                     <span class="topline"><a href="signin.aspx" id="ctl00_A14">Log In</a></span>
@@ -126,7 +389,7 @@
                 <div style="float: left; margin-left: 17px; margin-top: 2px;">
                     
                     <a href="default.aspx" id="ctl00_logo" title="bowlingball.com">
-                        <img id="ctl00_LogoImage" class="MobileImage" minsrc="" src="http://images3.bowlingball.com/App_Themes/skin_1/images/logo%20with%20slogan%20261x90_130594937398605828.png" style="height:90px;border-width:0px;">
+                        <img id="ctl00_LogoImage" class="MobileImage" minsrc="" src="http://images3.bowlingball.com/App_Themes/skin_1/images/Christmas-Header-Ornament-with-Snow-2015_130936447607578125.png" style="height:90px;border-width:0px;">
                     </a>
                 </div>
                 <div style="float: right; display: none;">
@@ -178,9 +441,17 @@
                             <input type="text" maxlength="100" id="SearchTerm" onblur="javascript: if(this.value==''){this.value='Find a product by keyword or item #...'};" onfocus="javascript:if(this.value == 'Find a product by keyword or item #...' ){this.value=''};" value="Find a product by keyword or item #...">
                         </div>
                     </div>
-                    <a id="ctl00_ShowBanner" class="fancyboxWhyN1" href="/App_Themes/skin_1/images/REAL-bowlingball-117_130765142646059840.jpg"><span id="ctl00_freeShippingString" class="freeShipping" onclick="javascript:sellIt_TrackEvent('Header', 'FreeShipping', '15');">Free Shipping. Free Insurance. No Packaging Fees. <span class="slogan">Every Item. Every Day.™</span></span></a>
+                    <a id="ctl00_ShowBanner" class="fancyboxWhyN1" href="/App_Themes/skin_1/images/REAL-bowlingball-127_130939699380703125.jpg"><span id="ctl00_freeShippingString" class="freeShipping" onclick="javascript:sellIt_TrackEvent('Header', 'FreeShipping', '5');">Free Shipping. Free Insurance. No Packaging Fees. <span class="slogan">Every Item. Every Day.™</span></span></a>
                 </div>
-                
+                <script type="text/javascript">
+                    function setCat(sel) 
+                    {
+                        var elemCatTitle = document.getElementById('nav-search-in-content');
+                        var ddlSelectedText = sel.options[sel.selectedIndex].text;
+                        ddlSelectedText = ddlSelectedText.trim();
+                        elemCatTitle.innerHTML = ddlSelectedText;
+                    }
+                </script>
             </div>
             <div id="horizNav">
                 <ul id="topmenu">
@@ -339,16 +610,16 @@
             <div id="bodyWrapper">
                 <div id="mainContentWrapper">
                     <div id="content">
-                        <a href="http://www.bowlingball.com/shop/all/all/?SearchTerm=scde&amp;Sort=pricea" id="ctl00_SliverLink" class="Sliver1" target="_self">
-                            <img id="ctl00_SliverImage" src="http://images3.bowlingball.com/App_Themes/skin_1/images/ShoeCloseoutSliver_130526782911882799.jpg" style="border-width:0px;"></a>
+                        <a href="/shop/all/all/?SearchTerm=BFBD15&amp;sort=pricea&amp;limit=99999" id="ctl00_SliverLink" class="Sliver1" target="_self">
+                            <img id="ctl00_SliverImage" src="http://images3.bowlingball.com/App_Themes/skin_1/images/Christmas-Countdown-Ball-Blowout-Sliver-11-27-15_130932209180996250.jpg" style="border-width:0px;"></a>
                         <div id="ctl00_sliverBunners">
 	
                             <a href="http://www.bowlingball.com/shop/all/daily-deals/" id="ctl00_TripleSliver1Link" class="TripleSliver1" target="_self">
-                                <img id="ctl00_TripleSliver1Image" onclick="javascript:sellIt_TrackEvent('Sliver', 'Wrapper Top Left', '');" src="http://images3.bowlingball.com/App_Themes/skin_1/images/Shop%20Smart_130144070965500270.jpg" style="border-width:0px;"></a>
+                                <img id="ctl00_TripleSliver1Image" onclick="javascript:sellIt_TrackEvent('Sliver', 'Wrapper Top Left', 'Countdown 11 Triple Sliver');" src="http://images3.bowlingball.com/App_Themes/skin_1/images/11_Days_trp_sliver_Deal%20500%20Deals%20259x112_130937230228242188.jpg" style="border-width:0px;"></a>
                             <a href="http://www.bowlingball.com/saleproducts.aspx" id="ctl00_TripleSliver2Link" class="TripleSliver2" target="_self">
                                 <img id="ctl00_TripleSliver2Image" onclick="javascript:sellIt_TrackEvent('Sliver', 'Wrapper Top Left', 'Warehouse Clearance');" src="http://images3.bowlingball.com/App_Themes/skin_1/images/Warehouse%20Clearance_130422163763854491.jpg" style="border-width:0px;"></a>
-                            <a href="/products/bowling-balls/storm/11867/crux-pearl.html" id="ctl00_TripleSliver3Link" class="TripleSliver3" target="_self">
-                                <img id="ctl00_TripleSliver3Image" onclick="javascript:sellIt_TrackEvent('Sliver', 'Wrapper Top Left', 'Storm Crux Pearl');" src="http://images3.bowlingball.com/App_Themes/skin_1/images/Storm-Crux-Pearl-259x112_130692000088919420.png" style="border-width:0px;"></a>
+                            <a href="/products/bowling-balls/storm/12260/lock.html" id="ctl00_TripleSliver3Link" class="TripleSliver3" target="_self">
+                                <img id="ctl00_TripleSliver3Image" onclick="javascript:sellIt_TrackEvent('Sliver', 'Wrapper Top Left', 'Storm Lock Triple Sliver');" src="http://images3.bowlingball.com/App_Themes/skin_1/images/Storm-Lock-259x112_130882840682346842.png" style="border-width:0px;"></a>
                         
 </div>
                         <div style="clear: both;">
@@ -357,7 +628,7 @@
                         
     <div id="ctl00_PageContent_pnlContent">
 	
-        <input type="hidden" name="serverTime" id="serverTime" value="15">
+        <input type="hidden" name="serverTime" id="serverTime" value="5">
         <!-- READ FROM DB --><strong style="color: #000000; font-family: Arial, Verdana, Helvetica, sans-serif; font-size: 13px; line-height: normal;">What information do we collect?</strong><span style="line-height: normal; font-family: Arial, Verdana, Helvetica, sans-serif; font-size: 13px; color: #000000;">&nbsp;</span><br style="color: #000000; font-family: Arial, Verdana, Helvetica, sans-serif; font-size: 13px; line-height: normal;">
 <br style="color: #000000; font-family: Arial, Verdana, Helvetica, sans-serif; font-size: 13px; line-height: normal;">
 <span style="line-height: normal; font-family: Arial, Verdana, Helvetica, sans-serif; font-size: 13px; color: #000000;">We collect information from you when you register on our site, place an order, subscribe to our newsletter, respond to a survey or fill out a form.&nbsp;</span><br style="color: #000000; font-family: Arial, Verdana, Helvetica, sans-serif; font-size: 13px; line-height: normal;">
@@ -500,11 +771,15 @@
                 <div id="ctl00_rightContentPanel">
 	
                     <div id="right_content">
-                        <a href="http://www.bowlingball.com/t-Shop-Smart.aspx" target="_self"><img src="http://images3.bowlingball.com/App_Themes/skin_1/images/Shop Smart 336x250_130597556393202176.jpg">
+                        <a href="/t-Shop-Smart.aspx" target="_self"><img src="http://images3.bowlingball.com/App_Themes/skin_1/images/Christmas Countdown Upper Right - 500 ITEMS - 259x211_130937203812265625.jpg">
+</a>
+<a href="/products/gift-certificates/bowlingball.com/2988/gift-certificate.html" target="_self"><img src="http://images3.bowlingball.com/App_Themes/skin_1/images/Gift-Card-Button-336x60_130928666394111250.png">
+</a>
+<a href="/products/bowling-balls/pyramid/11551/dark-path-195-hybrid.html" target="_self"><img src="http://images3.bowlingball.com/App_Themes/skin_1/images/Dark-Path-195-336x125---HOLIDAY_130925328227995312.png">
+</a>
+<a href="javascript:$.fancybox({href: '/images/promotions/holiday-schedule-popup-12-7-2015.png'});" target="_self"><img src="http://images3.bowlingball.com/App_Themes/skin_1/images/Holiday Schedule 336x60_130609901077072144.jpg">
 </a>
 <a href="/t-social-media-giveaway.aspx" target="_self"><img src="http://images3.bowlingball.com/App_Themes/skin_1/images/3-Chances-To-Win-Sliver_130626210876319828.jpg">
-</a>
-<a href="/kids-bowl-free-bowling-programs" target="_self"><img src="http://images3.bowlingball.com/App_Themes/skin_1/images/Kids Bowl Free Right Sliver 2015_130765345143576244.jpg">
 </a>
 
 
@@ -515,8 +790,8 @@
 
                             
                         </div>
-                        <a href="http://www.bowlingball.com/shop/track/bowling-balls/?sort=newest" id="ctl00_LinkRightVerticalBanner" target="_self">
-                            <img id="ctl00_ImgRightVerticalBanner" class="RightVerticalImg" src="http://images3.bowlingball.com/App_Themes/skin_1/images/Track-172x600-2_2_15_130673832229750574.jpg" style="border-width:0px;border-width: 0px !important"></a>
+                        <a href="http://www.bowlingball.com/Customized-Bowling-Balls.html" id="ctl00_LinkRightVerticalBanner" target="_self">
+                            <img id="ctl00_ImgRightVerticalBanner" class="RightVerticalImg" src="http://images3.bowlingball.com/App_Themes/skin_1/images/Custom%20Balls%20172x600_130596830759710447.jpg" style="border-width:0px;border-width: 0px !important"></a>
                         
                         
                         <!-- SkyScraper-160 -->
@@ -531,13 +806,157 @@
                         </script>                        
                         <script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 
-                        <a href="/52-weeks-52-winners.aspx" class="WeeklyContestLink"><img src="http://images3.bowlingball.com/App_Themes/skin_1/images/52 Week Ball Giveaway - Hyper Cell Skid_130626391543446102.jpg" border="0"></a>
+                        <a href="/52-weeks-52-winners.aspx" class="WeeklyContestLink"><img src="http://images3.bowlingball.com/App_Themes/skin_1/images/52-Week-Ball-Giveaway---Mastermind-Brainiac_130934640294350000.jpg" border="0"></a>
                     </div>
                 
 </div>
                 <div style="clear: both">
                     
-        <!-- READ FROM DB -->
+        <!-- READ FROM DB --><style>
+    /* -- Brands -- */
+    #ManufacturerLandingPages
+    {
+    margin: 15px auto;
+    width: 950px;
+    height: 50px;
+    }
+    #mlpBrunswick
+    {
+    background-position: 0 -5px !important;
+    width: 40px;
+    }
+    #mlpBrunswick:hover, #mlpBrunswick.hover
+    {
+    background-position: 0 -40px !important;
+    }
+    #mlpDV8
+    {
+    background-position: -41px -5px !important;
+    width: 40px;
+    }
+    #mlpDV8:hover, #mlpDV8.hover
+    {
+    background-position: -41px -40px !important;
+    }
+    #mlpRadical
+    {
+    background-position: -79px -5px !important;
+    width: 63px;
+    }
+    #mlpRadical:hover, #mlpRadical.hover
+    {
+    background-position: -79px -38px !important;
+    }
+    #mlpKR
+    {
+    background-position: -136px -5px !important;
+    width: 103px;
+    }
+    #mlpKR:hover, #mlpKR.hover
+    {
+    background-position: -136px -39px !important;
+    }
+    #mlpC300
+    {
+    background-position: -240px -6px !important;
+    width: 73px;
+    }
+    #mlpC300:hover, #mlpC300.hover
+    {
+    background-position: -240px -41px !important;
+    }
+    #mlpEbonite
+    {
+    background-position: -316px -5px !important;
+    width: 34px;
+    }
+    #mlpEbonite:hover, #mlpEbonite.hover
+    {
+    background-position: -316px -40px !important;
+    }
+    #mlpTrack
+    {
+    background-position: -348px -6px !important;
+    width: 54px;
+    }
+    #mlpTrack:hover, #mlpTrack.hover
+    {
+    background-position: -348px -38px !important;
+    }
+    #mlpHammer
+    {
+    background-position: -402px -5px !important;
+    width: 65px;
+    }
+    #mlpHammer:hover, #mlpHammer.hover
+    {
+    background-position: -399px -40px !important;
+    }
+    #mlpOTB
+    {
+    background-position: -467px -5px !important;
+    width: 118px;
+    }
+    #mlpOTB:hover, #mlpOTB.hover
+    {
+    background-position: -465px -40px !important;
+    }
+    #mlpPyramid
+    {
+    background-position: -585px -5px !important;
+    width: 120px;
+    }
+    #mlpPyramid:hover, #mlpPyramid.hover
+    {
+    background-position: -582px -38px !important;
+    }
+    #mlpRotoGrip
+    {
+    background-position: -705px -5px !important;
+    width: 37px;
+    }
+    #mlpRotoGrip:hover, #mlpRotoGrip.hover
+    {
+    background-position: -702px -43px !important;
+    }
+    #mlpStorm
+    {
+    background-position: -745px -5px !important;
+    width: 68px;
+    }
+    #mlpStorm:hover, #mlpStorm.hover
+    {
+    background-position: -741px -38px !important;
+    }
+    #ManufacturerLandingPages a
+    {
+    background: url("//images3.bowlingball.com/images/sprites/Brand-Bar-Sprite-1-16-15.png") no-repeat;
+    display: block;
+    float: left;
+    height: 35px;
+    margin-right: 12px;
+    }
+    #ManufacturerLandingPages a.last
+    {
+    margin-right: 0;
+    }
+    #ManufacturerLandingPageLinks
+    {
+    clear: both;
+    }
+    #ManufacturerLandingPageLinks a
+    {
+    color: #006699;
+    display: block;
+    float: left;
+    font-size: 10px;
+    height: 30px;
+    line-height: 30px;
+    margin-right: 6px;
+    text-align: center;
+    }
+    /* -- Brands -- */
+</style>
 <div id="ManufacturerLandingPages">
 <a id="mlpBrunswick" style="margin-left: 0px;" title="Brunswick: Brunswick Bowling Balls; Brunswick Bowling Bags; Brunswick Bowling Shoes &amp; More" href="/brand/brunswick"></a>
 <a id="mlpDV8" title="DV8: DV8 Bowling Balls" href="/brand/dv8"></a>
@@ -596,16 +1015,25 @@
                         </ul>
                         <div style="clear: both; height: 10px;"></div>
                         <span style="font-size: 14px; font-weight: bold;">Toll Free: 888-265-2695 or</span><br>
-                        <a href="http://chat.bowlingball.com/chat.php" id="ctl00_linkChatBottom" target="_blank">Click here for Live Chat</a>
+                        <a href="/faq.aspx" id="ctl00_linkChatBottom">View our FAQ's</a>
                     </div>
                     <div class="footer_links footer_links_next">
+                        <p class="title">Newsletter</p>
+                        
+                        <div>
+                            <input type="text" name="newsletterEmail" id="newsletterEmail" class="input valid" value="Enter email to sign up" onblur="this.value=!this.value?'Enter email to subscribe':this.value;" onfocus="this.select()" onclick="this.value='';" style="float:left">
+                            <input type="submit" class="button_input" value="Subscribe" style="float:left; margin-left: 4px; height:21px;">
+                            <input type="hidden" id="ListrakDataHook" value="FooterMiniform">
+                            <div style="clear:both"></div>
+                        </div>
+                        
                         <p class="title l_first">Site Features</p>
                         <ul class="l_first">
                             <li><a href="/findaproshop.aspx">Pro Shop Locator</a></li>
                             <li><a href="/findbowlingcenter.aspx">Bowling Center Locator</a></li>
                             <li><a href="/findbowlingcoach.aspx">Bowling Coach Locator</a></li>
-                            
-                            
+                            <!--<li><a href="Javascript:alert('http://store.bowlingball.com says:\n\r\n\rBowling Tournaments coming soon...'); return false;">Bowling Tournaments</a></li>-->
+                            <!--<li><a href='/bowlingtournaments.aspx'>Bowling Tournaments</a></li>-->
                             <li><a href="/BowlVersity/">News and Information</a></li>
                             <li><a href="/BowlVersity/">Bowling Articles &amp; Tips</a></li>
                             <li><a href="/t-bowling-videos.aspx">Ball Reaction Videos</a></li>
@@ -614,7 +1042,7 @@
                         <ul>
                             <li><a href="/faq.aspx">Ball Weight/Shoe Size</a></li>
                             <li><a href="/bowlingterms.aspx">Bowling Terms</a></li>
-                            <li style="padding-top: 10px;"><a class="foot_sprite_upfront" id="DisplayPopup" href="http://www.thefind.com/store/about-bowlingball" title="TheFind Upfront" style="background-position: -25px -2px; height: 49px; width: 91px"></a></li>
+                            <li style="padding-top: 10px;"><span class="foot_sprite_upfront" style="background-position: -25px -2px; height: 49px; width: 91px"></span></li>
                         </ul>
 
                         
@@ -622,12 +1050,8 @@
                     </div>
                     <div class="footer_links footer_links_next" style="width: 210px;">
                         <p class="title l_first">Our Reputation</p>
-                        
-
                         <a href="https://www.shopperapproved.com/reviews/bowlingball.com/" onclick="var nonwin=navigator.appName!='Microsoft Internet Explorer'?'yes':'no'; var certheight=screen.availHeight-90; window.open(this.href,'shopperapproved','location='+nonwin+',scrollbars=yes,width=620,height='+certheight+',menubar=no,toolbar=no'); return false;">
                             <img src="https://c683207.ssl.cf2.rackcdn.com/512-r.gif" style="border: 0" alt="" oncontextmenu="var d = new Date(); alert('Copying Prohibited by Law - This image and all included logos are copyrighted by Shopper Approved \251 '+d.getFullYear()+'.'); return false;"></a>
-
-                        
                         <div style="min-height: 100px; overflow: hidden; margin: -10px 0px 0px -10px" class="shopperapproved_widget sa_rotate sa_vertical sa_count1 sa_colorBlack sa_borderGray sa_showdate sa_FjY sa_noborder sa_bgInherit sa_narrow "></div>
                         <script type="text/javascript" class="ignoreMinify">var sa_interval = 15000;function saLoadScript(src) { var js = window.document.createElement('script'); js.src = src; js.type = 'text/javascript'; document.getElementsByTagName("head")[0].appendChild(js); } if (typeof(shopper_first) == 'undefined') saLoadScript('//www.shopperapproved.com/widgets/testimonial/512.js'); shopper_first = true; </script>
                         <div style="text-align: right;">
@@ -640,7 +1064,6 @@
                         <center>
                         <a class="foot_sprite" href="/t-BB_security-guaranteed.html.aspx" style="background-position: -367px -3px; height: 114px; width: 66px"></a>
                         <a name="trustlink" href="http://secure.trust-guard.com/security/4680" rel="nofollow" target="_blank" onclick="var nonwin=navigator.appName!='Microsoft Internet Explorer'?'yes':'no'; window.open(this.href.replace(/https?/, 'https'),'welcome','location='+nonwin+',scrollbars=yes,width=517,height='+screen.availHeight+',menubar=no,toolbar=no'); return false;" oncontextmenu="var d = new Date(); alert('Copying Prohibited by Law - This image and all included logos are copyrighted by trust-guard \251 '+d.getFullYear()+'.'); return false;"><img name="trustseal" alt="Security Seals" style="border: 0;" src="//dw26xg4lubooo.cloudfront.net/seals/security/4680-header.gif"></a>
-                        
                         </center>
                     </div>
                     <div style="clear: both;"></div>
@@ -648,10 +1071,11 @@
                 <br>
                 <div class="footer_bottom_links">
                     <a class="foot_sprite" href="/t-paymentoptions.aspx" style="background-position: -7px -52px; height: 21px; width: 144px"></a>
-                    
+                    <!--<a class="foot_sprite" href="/t-paymentoptions.aspx" style="background-position: -19px -131px; height: 29px; width: 148px"></a>
+                    <a class="foot_sprite" href="/t-paymentoptions.aspx" style="background-position: -21px -105px; height: 26px; width: 145px"></a>-->
                     <a class="foot_sprite" href="/t-paymentoptions.aspx" style="background-position: -174px -134px; height: 25px; width: 143px"></a>
                     <a class="foot_sprite" href="/t-paymentoptions.aspx" style="background-position: -160px -48px; height: 30px; width: 155px"></a>
-                    
+                    <!--<a class="foot_sprite" href="/t-paymentoptions.aspx" style="background-position: -15px -74px; height: 29px; width: 140px"></a>-->
                 </div>
                 <div style="clear: both;">
                 </div>
@@ -665,7 +1089,7 @@
 
 	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="6B6687F9">
 </div></form>
-    <script type="text/javascript" src="http://images3.bowlingball.com/jscripts/utils.js" class="ignoreMinify"></script>
+    
     
     
     
@@ -692,6 +1116,23 @@
         </noscript>
     
     <script src="https://apis.google.com/js/platform.js" async="" defer=""></script>
-<script>function CorrectClickBehavior(n){$(n).val()=="Not set"&&$(n).val("")}function CorrectBlurBehavior(n){$(n).val()==""&&$(n).val("Not set")}function CorrectingWidthForFF(){jQuery.browser.mozilla&&$(".dropdown").css("width","150px")}function MakeDivClickableForIE(){jQuery.browser.msie&&($(".coverSocial, .divImage").bind("mouseout mouseover",function(n){if(n.type=="mouseover"){$(this).css("cursor","hand");var t=$(this).parent().attr("id");switch(t){case"fbiframefan":case"fbiframe":$(this).attr("title","Like");break;case"gplus":$(this).attr("title","+1")}}else $(this).css("cursor","pointer")}),$(".coverSocial, .divImage").click(function(){var f=$(this).parent().attr("id"),n="",i=500,t=500,r,u;switch(f){case"fbiframefan":case"fbiframe":n="https://www.facebook.com/login.php?skip_api_login=1&display=popup&social_plugin=like&next=http%3A%2F%2Fwww.facebook.com%2Fdialog%2Fplugin.optin%3F_path%3Dplugin.optin%26app_id%3D127760087237610%26client_id%3D127760087237610%26display%3Dpopup%26secure%3Dfalse%26social_plugin%3Dlike%26return_params%3D%257B%2522href%2522%253A%2522http%253A%252F%252Fwww.facebook.com%252Fbowlingballcom%2522%252C%2522layout%2522%253A%2522button_count%2522%252C%2522show_faces%2522%253A%2522true%2522%252C%2522width%2522%253A%252285%2522%252C%2522action%2522%253A%2522like%2522%252C%2522font%2522%253Anull%252C%2522colorscheme%2522%253A%2522light%2522%252C%2522height%2522%253A%252225%2522%252C%2522ret%2522%253A%2522optin%2522%252C%2522act%2522%253A%2522connect%2522%257D%26login_params%3D%257B%257D%26from_login%3D1&rcount=1";break;case"twittersite":n="https://twitter.com/intent/tweet?original_referer=http%3A%2F%2Flocalhost%3A64005%2Faccount.aspx&text=Great%20site%20for%20bowling%20balls%2C%20bags%2C%20shoes%2C%20and%20accessories.&tw_p=tweetbutton&url=http%3A%2F%2Fwww.bowlingball.com&via=bowlingball";break;case"gplus":i=t=800,n="https://accounts.google.com/ServiceLogin?service=oz&passive=1209600&continue=https://plus.google.com/up/?type%3Dpo%26client%3D1%26gpsrc%3Dwidget%26parent%3Dhttps://apis.google.com%26proxy%3DI2_1371561907481%26rsz%3D1%26hl%3Den_US%26partnerid%3Dwidget&followup=https://plus.google.com/up/?type%3Dpo%26client%3D1%26gpsrc%3Dwidget%26parent%3Dhttps://apis.google.com%26proxy%3DI2_1371561907481%26rsz%3D1%26hl%3Den_US%26partnerid%3Dwidget&hl=en_US#62529829"}r=(screen.width-i)/2,u=(screen.height-t)/2,window.open(n,"","height="+t+",width="+i+",left="+r+",top="+u+",resizable=no,scrollbars=yes,toolbar=yes,menubar=no,location=no,directories=no,status=yes")}))}function is_touch_device(){return!1}function createCookieHead(n,t,i){var r,u;i?(r=new Date,r.setTime(r.getTime()+i*864e5),u="; expires="+r.toGMTString()):u="",document.cookie=n+"="+t+u+"; path=/"}function eraseCookieHead(n){createCookieHead(n,"",-1)}function getRotatorImage(n){if(rotatorUpdating==!1){rotatorUpdating=!0;var r=n.attr("data-type"),u=n.attr("data-category"),t=n.attr("data-position"),i=n.attr("data-inc");$.post("/AjaxGetAd.aspx",{contentid:r,rnd:Math.random(),category:u,pos:t,inc:i},function(t){updateRotatorImage(n,t)})}else setTimeout(function(){getRotatorImage(n)},100)}function updateRotatorImage(n,t){var i=$.parseJSON(t);i.ID!=0&&(n.attr("alt",i.Name),n.attr("target",i.Target),n.attr("href",i.Url),n.css("background-image",'url("'+i.ImageSrc+'")'),n.css("background-repeat","no-repeat"),n.css("display","block"),n.attr("data-image-id",i.ID)),rotatorUpdating=!1}function setCat(n){var i=document.getElementById("nav-search-in-content"),t=n.options[n.selectedIndex].text;t=t.trim(),i.innerHTML=t}var rotatorUpdating=!1;$(document).ready(function(){$("#BackToMobileVersionLinck").click(function(){eraseCookieHead("ASPDNSF.IsMobile")}),BuildMenu(),$(".menuItem").bind("mouseover",function(){pclosetimer&&(window.clearTimeout(pclosetimer),pclosetimer=null),p_close(),pmenuitem=$(this).find(".submenu").show(),pmenuitemarrow=$(this).find(".menu_arrow").show()}),$(".menuItem").bind("mouseout",function(){pclosetimer=window.setTimeout(p_close,timeout)}),menuShown=!1,$(".menuItem").bind("touchend",function(n){n.preventDefault(n),menuShown?(menuShown=!1,p_close()):(menuShown=!0,p_close(),pmenuitem=$(this).find(".submenu").show(),pmenuitemarrow=$(this).find(".menu_arrow").show())}),$(".tweet").tweet({username:"bowlingball",join_text:"auto",count:1,template:"{text} {time}",loading_text:"loading tweets..."}),$("a.fancyboxWhyN1").fancybox(),$("a.fancybox").fancybox({type:"iframe"}),MakeDivClickableForIE(),$(".sellItRotator").each(function(){var n=$(this);getRotatorImage(n)})}),function(){var n=document.createElement("SCRIPT");n.type="text/javascript",n.async=!0,n.src=document.location.protocol+"//upfront.thefind.com/scripts/main/utils-init-ajaxlib/upfront-badgeinit.js",n.text="thefind.upfront.init('foot_sprite_upfront', 'fc07e44709c9efa5703016efa9532c1d')",document.getElementsByTagName("HEAD")[0].appendChild(n)}()</script>
+    <script type="text/javascript" class="ignoreMinify">	
+        (function(d) { if (document.addEventListener) document.addEventListener('ltkAsyncListener', d);
+        else {e = document.documentElement; e.ltkAsyncProperty = 0; e.attachEvent('onpropertychange', function (e) {
+            if (e.propertyName == 'ltkAsyncProperty'){d();}});}})(function() {
+                _ltk.Click.Submit();
+            });
+</script>
+    <!-- Listrak Analytics – Javascript Framework -->
+<script type="text/javascript" class="ignoreMinify">
+    var biJsHost = (("https:" == document.location.protocol) ? "https://" : "http://");
+    (function (d, s, id, tid, vid) {
+        var js, ljs = d.getElementsByTagName(s)[0];
+        if (d.getElementById(id)) return; js = d.createElement(s); js.id = id;
+        js.src = biJsHost + "cdn.listrakbi.com/scripts/script.js?m=" + tid + "&v=" + vid;
+        ljs.parentNode.insertBefore(js, ljs);
+    })(document, 'script', 'ltkSDK', 'mWUfafdh1GhB', '1');
+</script>
+
 
 </body></html>
