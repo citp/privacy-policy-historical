@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thevillablog.co.uk privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608131141id_/http%3A//www.thevillablog.co.uk/villa-blog/park/privacy-policy-for-thevillablogcouk) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thevillablog.co.uk privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208174414id_/http%3A//www.thevillablog.co.uk/villa-blog/park/privacy-policy-for-thevillablogcouk) for the most accurate reproduction.*
 
 # Aston Villa Blog - Privacy Policy | Aston Villa Blog
 
@@ -14,7 +14,7 @@ This is generally used for geotargeting purposes (showing London real estate ads
 
 You can chose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security. However, this can affect how you are able to interact with our site as well as other websites. This could include the inability to login to services or programs, such as logging into forums or accounts. 
 
-Damian started The Villa Blog a long time ago. Today he is a manager in the second tier of the Bundesliga. In his spare time he works with disruptive innovation. The bit in the middle wasn't true.
+Damian started The Villa Blog as a passion project quite a few years ago while he was living in South Africa. Now living in Sweden, it continues. He's originally from Chasetown and grew up when supporting Villa meant there was a real chance of silverware at the start of every season.
 
 Latest Posts
 
