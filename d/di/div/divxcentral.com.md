@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the divxcentral.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627163527id_/http%3A//divxcentral.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the divxcentral.com privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208110152id_/http%3A//divxcentral.com/privacy) for the most accurate reproduction.*
 
 # Privacy • DivXCentral - WEB-DL TV Shows and Movies news
 
@@ -8,7 +8,7 @@ Other Third Party ad servers or ad networks may use cookies to track users activ
 
 **Collection of Personal Information**
 
-When visiting divxcentral.com, the IP address used to access the site will be logged along with the dates and times of access. This information is purely used to analyze trends, administer the site, track users movement and gather broad demographic information for internal use. Most importantly, any recorded IP addresses are not linked to personally identifiable information and we don't share any information with companies or advertisers.
+When visiting divxcentral.com, the IP address used to access the site will be logged along with the dates and times of access. This information is purely used to analyze trends, administer the site, track users movement and gather broad demographic information for internal use. Most importantly, any recorded IP addresses are not linked to personally identifiable information and we don’t share any information with companies or advertisers.
 
 **Links to third party Websites**
 
