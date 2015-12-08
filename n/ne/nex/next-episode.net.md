@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the next-episode.net privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609220919id_/http%3A//next-episode.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the next-episode.net privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208103207id_/http%3A//next-episode.net/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Next Episode
 
