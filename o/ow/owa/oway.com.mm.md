@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the oway.com.mm privacy policy that was archived on 2015-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150419021407id_/https%3A//oway.com.mm/privacy-notice.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oway.com.mm privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208055410id_/http%3A//oway.com.mm/privacy-notice) for the most accurate reproduction.*
 
-# Privacy Notice
+# Book Online Myanmar (Burma) Hotels, Flights, Buses, Car Rentals, Tours & Visa | Oway Privacy Notice
 
 Oway Inc. respects your concerns about privacy. This Privacy Notice describes the types of personal information we collect, how we use the information, with whom we share it, and the choices you can make about our collection, use and disclosure of the information. We also describe the measures we take to protect the security of the information and how you can contact us about our privacy practices.  
 
@@ -55,7 +55,7 @@ We may use the information we obtain about you to:
   * Analyze and enhance our marketing communications and strategies (including by identifying when emails sent to you have been received and read)
   * Analyze trends and statistics regarding visitors’ use of our sites, mobile applications and social media assets, and the purchases visitors make on our sites
   * Protect against and prevent fraud, unauthorized transactions, claims and other liabilities, and manage risk exposure, including by identifying potential hackers and other unauthorized users 
-  * Enforce our [ Website Terms of Use](https://web.archive.org/web/20150419021407id_/https%3A//oway.com.mm/terms-and-conditions.php) and [Terms and Conditions](https://web.archive.org/web/20150419021407id_/https%3A//oway.com.mm/terms-and-condition-services.php)
+  * Enforce our [ Website Terms of Use](https://web.archive.org/web/20151208055410id_/http%3A//oway.com.mm/terms-and-conditions.php) and [Terms and Conditions](https://web.archive.org/web/20151208055410id_/http%3A//oway.com.mm/terms-and-condition-services.php)
   * Comply with applicable legal requirements and industry standards and our policies 
 
 
