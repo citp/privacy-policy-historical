@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the artfido.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609004515id_/http%3A//www.artfido.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the artfido.com privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208195326id_/http%3A//www.artfido.com/privacy-policy) for the most accurate reproduction.*
 
 # artFido | fetching art | Privacy Policy
 
@@ -10,7 +10,7 @@ A |
 1 | In this document, some terms appear capitalised and bold (so, they appear Like This).  
   | 
 
-  * Many of these words and phrases are defined in the artFido Terms, which can be accessed here [www.artfido.com/terms-use.php](http://www.artfido.com/terms-use.php). 
+  * Many of these words and phrases are defined in the artFido Terms, which can be accessed here [www.artfido.com/terms-use](http://www.artfido.com/terms-use). 
     * If so, the word or phrase as used in this artFido Privacy Policy has the meaning given to it in the artFido Terms.
   * What follows is a list of each word or phrase that the artFido Terms don't define, and that word or phrase's meaning: 
     * Aggregated Information means Generic Information that is accumulated, so that an individual user's data can't be identified;
@@ -52,7 +52,7 @@ A |
 2 | Where a word or phrase is defined, corresponding forms have the same or a similar meaning. So, for example, We, Us and Our all refer to artFido.  
 3 | This artFido Privacy Policy and the artFido Terms contain important information about Your rights. Please read them carefully. 
 
-  * You can access the artFido Terms here [www.artfido.com/terms-use.php](http://www.artfido.com/terms-use.php).
+  * You can access the artFido Terms here [www.artfido.com/terms-use](http://www.artfido.com/terms-use).
 
   
 B | 
@@ -67,7 +67,7 @@ B |
     * the National Privacy Principles.
   * However, given artFido's size and business, the National Privacy Principles didn't cover us.
   * But that wasn't good enough for Us. To show how committed We are to protecting Your privacy rights, We successfully applied to 'opt-in' to the National Privacy Principles scheme. We didn't have to, but We wanted to, because Your privacy is just as important to Us as it is to You. 
-    * You can access the Assistant Privacy Commissioner's acceptance letter addressed to artFido [here](https://web.archive.org/web/20150609004515id_/http%3A//www.artfido.com/privacy%20letter.jpg).
+    * You can access the Assistant Privacy Commissioner's acceptance letter addressed to artFido [here](https://web.archive.org/web/20151208195326id_/http%3A//www.artfido.com/privacy%20letter.jpg).
   * The 'opt-in' register includes a list of all the businesses like Us who have willingly chosen to be covered by the National Privacy Principles. 
     * You can access the register here [www.oaic.gov.au/privacy-portal/resources_privacy/optin-register.html#a](http://www.oaic.gov.au/privacy-portal/resources_privacy/optin-register.html#a).
 
@@ -344,7 +344,7 @@ G |
 30 | Example 3 - when You give feedback:
 
   * We may collect Generic Information from You if You are a Member, and You decide to leave feedback for Us, or for another Member. 
-    * The FAQs describe how You can leave feedback. You can get the FAQs here [www.artfido.com/faq.php](http://www.artfido.com/faq.php).
+    * The FAQs describe how You can leave feedback. You can get the FAQs here [www.artfido.com/faq](http://www.artfido.com/faq).
   * Once Members provide feedback, We collect that information. 
     * The feedback's content depends on whether a Member leaves feedback for Us, or another Member.
   * The main reason why We collect this Generic Information is to enable Us to do internal research on Our users' needs, interests, behaviours, demographics, and user protection, to better understand and serve You, and the art loving community.
