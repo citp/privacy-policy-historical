@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the artisticthreadworks.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608074408id_/http%3A//www.artisticthreadworks.com/public/department12.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the artisticthreadworks.com privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208060130id_/http%3A//www.artisticthreadworks.com/public/department12.cfm) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Back To... [Home](http://www.artisticthreadworks.com/public/main.cfm "Home") | Privacy Policy 
+Back To... [Home](https://web.archive.org/public/main.cfm "Home") | Privacy Policy 
 
 We are strongly committed to safeguarding subscribers' privacy on this web site.
 
