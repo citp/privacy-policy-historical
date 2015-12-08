@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the greetzap.com privacy policy that was archived on 2015-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150412090528id_/http%3A//www.greetzap.com/policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greetzap.com privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208033915id_/http%3A//www.greetzap.com/policy.aspx) for the most accurate reproduction.*
 
 # GreetZAP
 
@@ -6,7 +6,7 @@
 
   * [Audio Greetings](http://www.greetzap.com/Voice-Greetings.aspx)
 
-  * [ Gifts & Flowers](http://www.greetzap.com/Gift)
+  * [ Gifts & Flowers](http://www.greetzap.com/Flower)
 
   * [Mobile Greetings](http://www.greetzap.com/MobileGreetings.aspx)
 
