@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the architecturendesign.net privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630234701id_/http%3A//www.architecturendesign.net/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the architecturendesign.net privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208094056id_/http%3A//www.architecturendesign.net/privacypolicy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Architecture & Design
 
 Advertisement 
 
@@ -15,8 +15,6 @@ This Privacy Policy explains what information may be collected on [Architecture 
 Our Website typically collects two types of information about you:
 
 Information that you provide that personally identifies you
-
-Advertisement 
 
 If you send us an e-mail or a comment, you may choose to provide us with personal information, such as your name or your e-mail address. We use the information to improve our service to you, provide you with updates, or to respond to your requests.
 
@@ -42,6 +40,8 @@ A cookie lets us store your profile information on your computer and lets our we
 
 Cookies help us create a speedy web experience by remembering your address and email information, so you don’t have to re-type it when making comments.
 
+Advertisement 
+
 We may use cookies on the website for the purpose of monitoring your and other users’ activity in order to improve the website and the services available to you. If you don’t want us to use cookies when you use our website, you will need to change your Internet browser settings so that your browser does not accept them.
 
 ### Links to Other sites
@@ -52,8 +52,6 @@ We may use cookies on the website for the purpose of monitoring your and other u
 
 [Architecture & Design](http://www.architecturendesign.net/ "Architecture & Design") makes no claims, promises or guarantees about the accuracy, completeness, or adequacy of the contents of this website and expressly disclaims liability for errors and omissions in the contents of this website.
 
-Advertisement 
-
 ### Changes to this Privacy Policy
 
 We may change some of the statements in this Privacy Policy at any time. We will prominently post notice of the changes at this URL. Any material changes to this Privacy Policy will be effective when posted.
@@ -61,3 +59,5 @@ We may change some of the statements in this Privacy Policy at any time. We will
 Your continued use of this site following the posting of any amendment, modification or change shall constitute your acceptance thereof.
 
 Advertisement 
+
+### Share your Thoughts
