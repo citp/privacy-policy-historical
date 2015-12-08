@@ -1,10 +1,9 @@
-> *The following text is extracted and transformed from the amritatv.com privacy policy that was archived on 2015-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150206004057id_/http%3A//www.amritatv.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amritatv.com privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208172351id_/http%3A//www.amritatv.com/privacypolicy.php) for the most accurate reproduction.*
 
 # Welcome to Amrita TV
 
-|  |  | PRIVACY POLICY    
+|  |   |  | PRIVACY POLICY   
 ---  
-By Amrita TV | Privacy Policy  
    
   
 Your privacy on the Internet is important to us, which is why we at AmritaTV believe in an active approach to safeguarding your privacy online. You can interact and remain assured that you are protected by confidentiality, security, and your individual right to change your mind.   
@@ -46,6 +45,22 @@ If you have further questions about our Privacy Policy, the practices of our sit
 Legal  
 By visiting this site you are agreeing to the terms as outlined above and in the Credits and Copyrights section. We reserve the right to change our Privacy Policy at any time.   
    
+  
    
+Leave a Comment  
+Disclaimer - Posting comments that are abusive, vulgar, personal or incendiary is subject to legal action. Irrelevant comments and hyperlinks cannot be published.  
    
+  
+##### Shans8180@gmail.com
+
+2015-12-08 08:18:03
+
+2013 ജൂൺ 13 രാത്രി 7.00 എനിക്ക് ഒരിക്കലും മറക്കാനാവാത്ത അനുഭവം എനിക്കുണ്ടായി. അന്ന് നടന്ന ട്രെയിൻ അപകടത്തിൽ എന്റെ കാലുകൾ എനിക്ക് നഷ്ടപ്പെട്ടു. 9746232317 
+
+Write a comment ...
+
+Post comment
+
+Cancel  
+  
  
