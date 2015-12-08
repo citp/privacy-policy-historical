@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the royallepage.ca privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610015316id_/http%3A//www.royallepage.ca/realestate/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the royallepage.ca privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208175823id_/http%3A//www.royallepage.ca/realestate/privacy-policy) for the most accurate reproduction.*
 
-# Royal LePage Real Estate Services Privacy Policy | Royal LePage
+# Royal LePage Real Estate Services Privacy Policy - Royal LePageRoyal LePage
 
 At Royal LePage Real Estate Services (“Royal LePage”), we respect the privacy of our clients and we are committed to keeping your personal information accurate, confidential, secure, and private. We have adopted the following Privacy Policy to ensure that Royal LePage continues to meet its commitment to your privacy.
 
