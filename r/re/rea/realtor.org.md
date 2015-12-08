@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the realtor.org privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629014914id_/http%3A//www.realtor.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realtor.org privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208164424id_/http%3A//www.realtor.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | realtor.org
 
