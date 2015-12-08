@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sparked.com privacy policy that was archived on 2015-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150423103609id_/http%3A//hello.sparked.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sparked.com privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208013611id_/http%3A//hello.sparked.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy for Sparked
 
