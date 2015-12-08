@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the careerperfect.com privacy policy that was archived on 2015-06-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150609022044id_/http%3A//www.careerperfect.com/company/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the careerperfect.com privacy policy that was archived on 2015-12-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151208094742id_/http%3A//www.careerperfect.com/company/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
     <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
@@ -17,8 +17,6 @@ function setupHoverEvents()
   setupHoverEventsForNavsWithClass("cpLinks");
   return true;
 }
-/* 2012-04-25 txe start */
-/* 2012-04-25 txe end */
     </script>
     <style type="text/css">
       @import url(/content/2009a/css/content.css);
@@ -68,13 +66,35 @@ var addthis_config = {
 };
     </script>
     <script type="text/javascript">
+function GE_funnelStep(step) { GE_funnelStepOption(step, ''); }
+function GE_funnelStepOption(step, option)
+{
+//alert("tracking funnel step " + step + ", option '" + option + "'");
+  ga('require', 'ec');
+  ga('ec:setAction', 'checkout', {
+    'step'   : step,
+    'option' : option,
+  });
+}
+// always execute
 (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
 (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
 m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
 })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 ga('create', 'UA-7291692-1', 'auto');
+if (typeof GE_handlePage == "function")
+{
+  GE_handlePage();
+}
 ga('send', 'pageview');
     </script>
+<script type="text/javascript" src="//code.jquery.com/jquery-1.11.3.min.js"></script>
+<script type="text/javascript" src="//crm.funnelscience.com/global/FsPhoneTracking.js"></script>
+<script type="text/javascript">
+jQuery(document).ready(function() {
+  FsPhoneTracking.ProcessVisitor(137, { "fallback_phone" : "(800) 313-0415" } );
+});
+</script>
   
 
 <!--[if IE 6]>
@@ -237,7 +257,7 @@ DD_belatedPNG.fix('.cpPng, .cpButton, #cpCore h1, #cpHeaderBlurb, .cpPricesLink 
           <p>If we decide to change our privacy commitment for CareerPerfect.com, we will post those changes here so that you will always know what information we gather, how we might use that information, and whether we will disclose it to anyone. If, at any time, you have questions or concerns about CareerPerfect.com's privacy commitment, please feel free to email us at <a href="mailto:admin@careerperfect.com">admin@CareerPerfect.com</a> or call 1-800-573-3344 and speak to one of our representatives.</p>
           <p>Thank you for using CareerPerfect.com. We'll keep working hard to earn your loyalty.</p>
           <div id="cpSafeAndSecure">Visit <a href="/company/safe-and-secure/">Safe and Secure</a> to learn how ordering with CareerPerfect.com is fast, easy, and safe!</div>
-                        <img id="cpTracking" class="cpTracking" src="/content/trk-v1/trk-55764d7b9e8e1.gif?_path=%2Fcontent%2Fhome-privacy-policy%2F&amp;brand=my&amp;trk=1-20150608-55764d715497b" alt="">
+                        <img id="cpTracking" class="cpTracking" src="/content/trk-v1/trk-5666a73dabec1.gif?_path=%2Fcontent%2Fhome-privacy-policy%2F&amp;brand=my&amp;trk=1-20151208-5666a73372da4" alt="">
                       </div>
                     </div>
                     <div class="cpCoreWrapper embossedWrapperBottom cpPng"></div>
@@ -297,7 +317,7 @@ DD_belatedPNG.fix('.cpPng, .cpButton, #cpCore h1, #cpHeaderBlurb, .cpPricesLink 
                     Copyright 1996-2015 CareerPerfect.com. All rights reserved
                     <span id="cpCopyrightLinks">
                       | <a onclick="return useLargePopup(this)" href="/company/privacy-policy/">Privacy Policy</a>
-                      | <a onclick="return useLargePopup(this)" href="/company/terms-of-use/">Terms of use</a>
+                      | <a onclick="return useLargePopup(this)" href="/company/terms-of-use/">Terms &amp; Conditions</a>
                     </span>
                   </div>
                 </div>
