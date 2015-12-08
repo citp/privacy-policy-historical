@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lbc.co.uk privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629054336id_/http%3A//www.lbc.co.uk/privacy-policy-3553) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lbc.co.uk privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208103355id_/http%3A//www.lbc.co.uk/privacy-policy-3553) for the most accurate reproduction.*
 
 # Global Radio Privacy Policy | LBC
 
@@ -65,7 +65,7 @@ We reserve the right to transfer personal information we have about you in the e
 
 
 **4.    Use of Aggregate Information**  
-We may share anonymous aggregate statistics about our users, sales and traffic patterns with our advertisers and other third parties.  However it will not be possible to identify you from this information.  For example, we might report to potential advertisers that a certain percentage of our users are interested in its products, based on information requests.  Some of this information may be collected using cookies as described above and in our cookie policy.  
+We may share anonymous aggregate statistics about our users, sales and [traffic](https://web.archive.org/traffic-road-closures-trains-and-tube-travel-news-3637) patterns with our advertisers and other third parties.  However it will not be possible to identify you from this information.  For example, we might report to potential advertisers that a certain percentage of our users are interested in its products, based on information requests.  Some of this information may be collected using cookies as described above and in our cookie policy.  
 
 
  **5.    Data Transfers**  
