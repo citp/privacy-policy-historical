@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the radiomap.eu privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607160420id_/http%3A//radiomap.eu/about/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the radiomap.eu privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208051153id_/http%3A//www.radiomap.eu/about/privacy.htm) for the most accurate reproduction.*
 
-# Radiomap.eu • Privacy Policy
+# Privacy Policy — Radiomap.eu
 
     Radiomap.eu respects your privacy. Our Policy applies to our web sites, including http://radiomap.eu/. This Privacy Policy explains what information we collect through the Sites, how we use that information, and how your rights are respected by us. The Radiomap.eu Site contains links to other web sites. This Privacy Policy does not apply to the practices of any other companies or individuals that Radiomap.eu does not control, or any web sites that you link to from the Radiomap.eu Site. You should use caution and review the privacy policies of any sites that you visit from ours to learn more about their information practices. Please take a few moments to read this agreement. By accessing the Radiomap.eu Site, you agree to accept the terms and conditions of this Privacy Policy and are aware that our policies may change in the future as indicated below.
 
@@ -24,4 +24,4 @@
 
     We may update this Privacy Policy from time to time as our services change and expand. If we update this Privacy Policy, we will notify you about significant changes by sending a notice to the email address specified in your account or by posting a notice of such changes on the Radiomap.eu Site. Unless otherwise provided, the revised terms will take effect on the date they are posted. Once such changes become effective, your continued use of the Site will signify your acceptance of the new Privacy Policy. If you do not agree to the terms of this Privacy Policy, or any revised Privacy Policy, your sole and exclusive remedy is to discontinue using the Site.
 
-    If you have questions about this Statement or our policies, please [contact us](https://web.archive.org/web/20150607160420id_/http://radiomap.eu/about/contact.htm). 
+    If you have questions about this Statement or our policies, please [contact us](https://web.archive.org/web/20151208051153id_/http://radiomap.eu/about/contact.htm). 
