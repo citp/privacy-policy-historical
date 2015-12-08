@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bie.org privacy policy that was archived on 2015-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150617070126id_/http%3A//bie.org/about/privacy_terms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bie.org privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209004117id_/http%3A//bie.org/about/privacy_terms) for the most accurate reproduction.*
 
 # Privacy & Terms | Project Based Learning | BIE
 
@@ -32,9 +32,13 @@ In general, we automatically gather certain usage information, such as the numbe
 
 If you purchase a BIE product or service using this website, we will request certain personally identifiable information about you, including your name, address, phone number, e-mail address and credit/debit card number. In addition, we may use the information you provide to contact you and deliver information to you, such as curriculum downloads, e-mail updates, to improve our content, service and product offerings, to analyze website usage, and customize our website content, layout and services.
 
+###  Events Registration
+
+[Cvent](http://www.cvent.com/) hosts our ordering system and order data, and will collect order information during the process of fulfilling an order and supporting the shopping experience. Cvent is PCI compliant and uses the latest in Secure Socket Layer (SSL) technology during order process and within the registration system. All credit cards are encrypted within the database itself.
+
 ###  Online Store/Shop
 
-CartThrob hosts our ordering system and order data, and will collect order information during the process of fulfilling an order and supporting the shopping experience. The following [article](http://cartthrob.com/docs/pages/security/index.html) outlines the security measures used in CartThrob and additional security measures that strengthen security for our store.
+[Nexternal](https://www.nexternal.com/) hosts our ordering system and order data, and will collect order information during the process of fulfilling an order and supporting the shopping experience. Nexternal is PCI compliant and uses the latest in Secure Socket Layer (SSL) technology during order process and within the [Order Management System](https://www.nexternal.com/ecommerce/oms_intro.asp). All credit cards are encrypted within the database itself. Nexternal also uses a third party security auditing company, [Trust Guard](https://secure.trust-guard.com/security/8623), which scans the Nexternal network daily looking for vulnerabilities.
 
 ###  Purchasing Items
 
@@ -42,7 +46,7 @@ Purchasing items from the online store may require the giving of personally iden
 
 ###  Security of Credit Card Information
 
-All transactions within the online store hosted by CartThrob are handled using Secure Sockets Layer (SSL) software to encrypt sensitive information during transmission. Credit card details are never transferred to BIE. Credit card data is not stored by BIE or CartThrob.
+All transactions within the online store hosted by Nexternal are handled using Secure Sockets Layer (SSL) software to encrypt sensitive information during transmission. Credit card details are never transferred to BIE. Credit card data is not stored by BIE or Nexternal.
 
 At no point in the process is any data directly linked to credit cards stored to the session, or in permanent storage. Neither the credit_card_number, or CVV2 (the number on the back of the card), are stored at any point. If credit card data is captured it is only in the system long enough to send it on to the payment processor and then discarded. Expiration dates and the "last four" credit card numbers can be saved for reference, but key number data is not stored.
 
