@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ukvapers.org privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609231554id_/http%3A//ukvapers.org/Thread-Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ukvapers.org privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208143501id_/http%3A//ukvapers.org/Thread-Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -40,7 +40,7 @@ In common with most sites on the Internet, every time you log into or post on UK
 Security  
 UK Vapers' site has security measures in place to protect the loss, misuse and alteration of the information under its control. UK Vapers' servers have strict security in place to prevent an intruder from retrieving personal information about its users.
 
-If you have any questions regarding this privacy policy, you can contact us via the [Contact Us](http://ukvapers.org/Forum-Contact-Us) Forum, or by email to info@ukvapers.org
+If you have any questions regarding this privacy policy, you can contact us via the [Contact Us](http://ukvapers.org/Forum-Contact-Us) Forum, or by email to info@ukvapers.org 
 
 * * *
 
