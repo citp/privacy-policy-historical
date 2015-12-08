@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the psychiccenter.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607044647id_/http%3A//www.psychiccenter.com/TelephonyUS/Phone/UserGuide.aspx%3FDes%3DPRI%26Af%3D0) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the psychiccenter.com privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208141642id_/http%3A//www.psychiccenter.com/TelephonyUS/Phone/UserGuide.aspx%3FDes%3DPRI%26Af%3D0) for the most accurate reproduction.*
 
 # Free Psychic Reading & Tarot Reading: Privacy Policy | Psychic center.com
 
@@ -11,8 +11,8 @@ Horoscope.com, Inc. ( **"we"** or **"Horoscope.com"** ) has created this privacy
 If you have any questions, concerns or complaints about our Privacy Policy or our data collection or processing practices, or if you want to report any security violations to us, please contact us at the following address or phone number:
 
       Horoscope.com, Inc.  
-      369 Sutter Street  
-      San Francisco, CA 94108
+      182 Howard Street, #826  
+      San Francisco, CA 94105
 
       Email: privacy@horoscope.com  
       Tel: 415 615 9028
@@ -146,8 +146,8 @@ We may amend this Privacy Policy at any time in our sole discretion. We will not
 If you have any questions about this Privacy Policy, the practices of the Company Properties, or your dealings with the Company Properties, you can contact us using the following contact information:
 
       Horoscope.com, Inc.  
-      369 Sutter Street  
-      San Francisco, CA 94108
+      182 Howard Street, #826  
+      San Francisco, CA 94105
 
       Email: privacy@horoscope.com  
       Tel: 415 615 9028
