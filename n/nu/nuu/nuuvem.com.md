@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the nuuvem.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623123352id_/http%3A//www.nuuvem.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nuuvem.com privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208044813id_/http%3A//www.nuuvem.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-* * *
-
-* * *
+[](http://www.nuuvem.com/)
 
 ## Nuuvem Portal
 
@@ -119,5 +117,3 @@ As part of the Portal’s Terms of Use and Conditions of Navigation, this Privac
 ###  
 
 ###### Update: **January 27th, 2015**
-
-* * *
