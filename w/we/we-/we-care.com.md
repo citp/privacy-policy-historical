@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the we-care.com privacy policy that was archived on 2015-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150508083613id_/http%3A//www.we-care.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the we-care.com privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208140832id_/http%3A//www.we-care.com/Privacy) for the most accurate reproduction.*
 
 # Privacy Policy | We-Care.com
 
@@ -111,8 +111,8 @@ If you have questions or suggestions about our Privacy Policy or wish to correct
 
 **We-Care.com**  
 Attn: Privacy Department  
-632 Broadway, Suite 901  
-New York, NY 10012  
-800.768.1399 
+276 5th Ave, Suite 205  
+New York, NY 10001  
+(212) 678-2541 
 
 _Updated: August 26, 2013_
