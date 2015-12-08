@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the csi.ca privacy policy that was archived on 2015-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150523075246id_/https%3A//www.csi.ca/student/en_ca/student/policies/privacy.xhtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the csi.ca privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208101606id_/https%3A//www.csi.ca/student/en_ca/student/policies/privacy.xhtml) for the most accurate reproduction.*
 
 # CSI's Privacy Policy - Canadian Securities Institute
 
