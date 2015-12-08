@@ -1,120 +1,192 @@
-> *The following text is extracted and transformed from the raiders.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627143741id_/http%3A//www.raiders.com/footer/copyright-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the raiders.com privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208174945id_/http%3A//www.raiders.com/footer/copyright-privacy-policy.html) for the most accurate reproduction.*
 
 # Oakland Raiders | Copyright & Privacy Policy
 
-_Reviewed January 15, 2013_
+_Reviewed and Effective September 4_ , _2015_
 
-**Copyright Notice**
+**PRIVACY POLICY**
 
-All of the material contained within the web site known as Raiders.com, and its affiliate web sites, are copyrighted by The Oakland Raiders and may not be reproduced in any form without the express written permission of The Oakland Raiders. This includes text, photos, audio and video. Photos are copyrighted by The Oakland Raiders unless otherwise indicated by appropriate photo credit. In which case, the photo file is the property of The Oakland Raiders. All marks, logotype, helmet graphics and slogans are trademarks of The Oakland Raiders and cannot be used without permission of The Oakland Raiders.
+This privacy policy is applicable to the Website[s] accessible at universal resource locators Raiders.com and any mobile application or version of this site (collectively the "Site"). This privacy policy shall be prominently published on the Site. The purpose of this privacy policy is to disclose to you what information we may collect, how we may collect it, with whom we may share it, and certain other matters related to such information, including the choices you have regarding our collection of information and our use and disclosure to other parties of information we may have collected from you.  This privacy policy does not apply to information collected or obtained through any other sites, including sites affiliated with the NFL or its other member clubs.
 
-**Privacy Policy**
-
-This privacy policy is applicable to the Website[s] accessible at universal resource locators Raiders.com and Raiderettes.com (collectively the "Site"). This privacy policy shall be prominently published on the Site. The purpose of this privacy policy is to disclose to you what information we may collect, how we may collect it, with whom we may share it, and certain other matters related to such information, including the choices you have regarding our collection of information and our use and disclosure to other parties of information we may have collected from you.
-
-**Types Of Information That May Be Collected**
+**1.              ****Types Of Information That May Be Collected**
 
 The following are the types of information we may collect:
 
-**Information You Provide Us**  
-Personal information such as your user ID and password, name, email address, telephone number, physical address, birth date, gender, zip code or other information may be collected via the Site.
-
-**Site Usage Information**  
-We may receive and store certain types of information whenever you visit the Site. For example, we may collect click-stream data and your IP address.
-
-**Email Communications**  
+  * **Information You Provide Us**  
+Personal information such as your user ID and password, name, email address, telephone number, physical address, birth date, financial information such as credit card or other payment information, gender, zip code, correspondence you send to the Site, information provided as a part of a web survey or other online form (e.g. favorite player) or other information may be collected via the Site.
+  * **Site Usage Information**  
+We may automatically receive and store certain types of information whenever you visit the Site including but not limited to:   your Internet Protocol (IP) address, which is the number automatically assigned to your computer whenever you access the Internet and that can sometimes be used to derive your general geographic area; other unique identifiers, including mobile device identification numbers; search queries; your browser type and operating system; sites you visited before and after visiting the Site; pages you view and links you click on within the Site; geolocation information; information collected through cookies, web beacons, local shared objects, and other technologies; information about your interactions with e-mail messages, such as the links clicked on and whether the messages were received, opened, or forwarded; and Standard Server Log Information..
+  * **Communications Preferences**  
 When you open emails from the Site, we may receive a confirmation noting you opened an email from us, if your computer supports such capabilities. We also may keep track of what emails we send you and what emails you may be receiving from The Oakland Raiders and our subsidiaries, sponsors, advertisers and affiliates. Additionally, we keep a record of what emails you have opted to receive and not to receive.
-
-**Information from Other Sources**  
+  * **Information from Other Sources**  
 We may receive information about you from other sources and add it to your personal information.
 
-**How Information May Be Collected**
+
+
+**2.              ****How Information May Be Collected**
 
 We may collect information from you in several different areas on the Site, including but not limited to those described below:
 
-**Registration**  
-You may be asked first to complete a registration form and provide personally identifiable information; you may also be asked to choose a user ID and password in order to take advantage of certain features the Site may choose to offer, including, but not limited to, Newsletters, Contests, Forums, Fantasy or other subscription based services.
-
-**Newsletters and Site Emails**  
-We may offer free newsletters to share information with you about the Site, about us and our affiliates and subsidiaries, or about our business partners and advertisers and sponsors. You may receive a newsletter either by registering for a particular newsletter or in conjunction with a special feature or membership for which you have registered on the Site. You may cancel your free email subscription by following the instructions provided on the Site or, in some instances, in the designated area of certain newsletters or emails.
-
-**Contests or Sweepstakes**  
-We may operate contests and sweepstakes through the Site which may require registration. Your personally identifiable information may be used to contact you for winner notification, prize delivery confirmation or other related purposes. We may ask your permission to allow us to post publicly some of your information on the Site, such as on a winners page, in the event you win a contest or sweepstakes. Except as required by applicable law, we will not post your information without your permission. In some instances, a third party advertiser or sponsor may operate or host a contest or sweepstakes on the Site, and collect your information. In those cases, where we are not the operator or host of the contest or sweepstakes, we have no control over the information collected and accordingly urge you to review the advertiser's or sponsor's privacy policy applicable to the contest or sweepstakes before participating.
-
-**Surveys or Voting**  
+  * **Registration**  
+You may be asked first to complete a registration form and provide personally identifiable information; you may also be asked to choose a user ID and password in order to take advantage of certain features the Site may choose to offer, including, but not limited to, Newsletters, Contests, Forums, Rewards, or other subscription based services.
+  * **Newsletters and Site Emails**  
+We may offer free newsletters to share information with you about the Site, about us and our affiliates and subsidiaries, or about our business partners and advertisers and sponsors. You may receive a newsletter either by registering for a particular newsletter or in conjunction with a special feature or membership for which you have registered on the Site. You may cancel your free email subscription by following the instructions provided on the Site or, in some instances, in the designated area of certain newsletters or emails.  We may know when you have opened any email.
+  * **Contests or Sweepstakes**  
+We may operate contests and sweepstakes through the Site which may require registration. Your personally identifiable information may be used to contact you for winner notification, prize delivery confirmation, as permitted by the contest/sweepstakes rules, or other related purposes. We may ask your permission to allow us to post publicly some of your information on the Site, such as on a winners page, in the event you win a contest or sweepstakes. Except as required by applicable law, we will not post your information without your permission. In some instances, a third party advertiser or sponsor may operate or host a contest or sweepstakes on the Site, and collect your information.  In those cases where we are not the operator or host of the contest or sweepstakes, we have no control over the information collected and accordingly urge you to review the advertiser's or sponsor's privacy policy applicable to the contest or sweepstakes before participating.
+  * **Surveys or Voting**  
 From time-to-time we may request personally identifiable information from you via surveys or voting polls. Participation is voluntary and you will have the opportunity to decide whether or not to disclose information. At times, you may have to register to vote or to take part in a survey.
-
-**Cookies**  
-As with many Web sites, the Site uses standard technology called "cookies," which are small data files that are transferred to your computer when you allow your browser to accept cookies. Cookies automatically identify your Web browser to the Site whenever you visit the Site, and make using the Site easier for you by saving your passwords, purchases, and preferences. By tracking how and when you use the Site, cookies help us determine which areas are popular and which are not. Many improvements and updates to the Site are based on data obtained from cookies. Accepting cookies allows you, among other things, to personalize your experience on the Site. Cookies may also allow the Site to present to you advertising which may be of interest to you . If you do not want information collected through the use of cookies, you generally can opt out of providing this information by turning the cookies off in your browser; however, some areas of the Site may not provide you with a personalized experience if you have disabled the use of cookies.
-
-**IP Addresses and Click-stream Data**  
+  * **Cookies**  
+We may use cookies, pixel tags, Local Shared Objects (sometimes referred to as “Flash Cookies”), and similar technologies to automatically collect information and personalize advertisements on other websites. Cookies are small bits of code that are stored by your computer’s web browser and that may automatically identify your browser to the Site whenever your computer is used to visit the Site. Pixel tags are very small images or small pieces of data embedded in images, also known as "web beacons" or "clear GIFs,” that can recognize cookies, the time and date a page is viewed, a description of the page where the pixel tag is placed, and similar information from your computer or device. Local Shared Objects (sometimes referred to as “Flash Cookies”) are similar to standard cookies except that they can be larger and are downloaded to a computer or mobile device by the Adobe Flash media player. Please note that you may need to take additional steps beyond changing your browser settings to refuse or disable Local Shared Objects and similar technologies. By using the Site, you consent to our use of cookies and similar technologies. You can decide if and how your computer will accept a cookie by configuring your preferences or options in your browser. However, if you choose to reject cookies and similar technologies, you may not be able to use certain online products, services or features on the Site.
+  * **IP Addresses and Click-stream Data**  
 We may collect IP addresses and/or click-stream data for purposes of system administration and to report aggregate information to our advertisers and sponsors. An IP address is a number that is automatically assigned to your computer whenever you access the Internet. Our computers identify your computer by its IP address. When you request Web pages from the Site, our computers log your IP address. Click-stream data is information collected by our computers when you request Web pages from the Site. Click-stream data may include such information as the page served, the time, the source of the request, the type of browser making the request, the preceding page view and other such non-personal information. When analyzed, this data helps us analyze how visitors arrive at the Site, what type of content is most popular, what type of visitors in the aggregate are interested in particular kinds of content and advertising, and the like.
-
-**Transaction Information**  
+  * **Transaction Information**  
 If you order any information from our Site, buy any of our products or subscribe for any of the services offered on our Site, we will ask you to complete an order form that will request certain information from you, including financial information such as a credit card number and expiration date and general contact, billing and shipping information. We will use this information to complete the transaction that you have requested, i.e., to deliver the information, products or other services that you order, and to invoice you. Such information is collected and stored through encrypted means for your protection.
 
-**Fantasy Games**  
-When you register to play Fantasy games, you may be asked to provide personally identifiable information.
 
-**How We Use The Information Collected**
 
-The Oakland Raiders own the information collected via this Site. As applicable, the information you provide to us may be used to:
+**3.              ****How We Use The Information Collected**
+
+The Oakland Raiders owns the information collected via this Site. As applicable, the information you provide to us may be used to:
 
   * contact you about the Site;
   * contact you relating to your membership status;
   * confirm or fulfill an order you have made;
   * monitor or improve the use of the Site;
-  * customize the advertising and content you see;
+  * publish stories, comments, photos, and other information
+  * perform business analyses
+  * customize the advertising and content you see on the Site and other websites;
   * monitor compliance with our terms and conditions of use of the Site;
-  * provide special offers to you from The Oakland Raiders and/or our respective affiliates and subsidiaries and other third parties;
+  * provide special offers or information regarding products and services to;
   * send you promotional material on behalf of our partners;
   * inform you of a prize you have won.
 
 
 
-**With Whom The Information May Be Shared**
+**4.              ****With Whom The Information May Be Shared**
 
 At times, we may share your personally identifiable information with others for various purposes. The following outlines the ways in which your information may be shared with others:
 
-  * **Agents:** We employ other businesses, certain services and individuals to perform functions on our behalf. Examples include fulfilling orders, sending e-mail, removing repetitive information from customer lists, Site analysis, analyzing data, providing marketing assistance, processing credit card payments, and providing customer service. They may have access to personally identifiable information needed to perform their functions, but may not use it for other purposes.
-  * **Promotional Offers:** We may send offers to you on behalf of other partners. When we do this, we may give that partner your name and address. If you do not want to receive such offers, you may opt out in the email or change your preferences.
-  * **Aggregate Information:** We may share aggregate information such as demographics and Site usage statistics to advertisers, sponsors or other organizations. When this type of information is shared, the other parties do not have access to your personally identifiable information.
-  * **Opt-in and Opt-out Programs:** Throughout the Site you may be presented with opportunities to receive special offers from third parties. An opt-in/opt-out message will ask you if you would like your information to be shared. If you do choose to have your information shared, in an effort to protect you, third parties who have access to personally identifiable information must abide by the current Site privacy policy. However, we are not responsible for the privacy practices of these other companies, and you should review the privacy practices of such Web sites prior to providing your personally identifiable information.
-  * **Third-Party Ad Serving & Audience and Traffic Measurement Services:** The Site may use a third party network advertiser to serve the advertisements on the Site or may use a traffic measurement service to analyze the traffic on the Site. Network advertisers are third parties that display advertisements based on your visits to this Site and other Web sites you have visited. Third-party ad serving enables us to target advertisements to you for products or Web sites you might be interested in. Audience and Traffic Measurement Services allow us to collect anonymous traffic and behavior information from our Site by monitoring anonymous visitor activity. Although advertisers or other companies do not have access to the Site cookies, the Site's advertisers, sponsors and/or traffic measurement services may themselves set and access their own cookies on your computer if you choose to have your cookies enabled in your browser. Cookies allow third party advertisers to show you advertisements or content you might be interested in. Other companies' use of their cookies is subject to their own privacy policies, not this one.
-  * **Raiders Partners Subsidiaries and Affiliates:** We may share your information (including, without limitation, personally identifiable information) with subsidiaries, affiliates, sponsors and/or advertisers of The Oakland Raiders.
-  * **Business Transfers:** The Site may be sold along with its assets, or other transactions may occur in which your personally identifiable information is one of the business assets transferred. In such a case, your personally identifiable information, which we have gathered, may be one of the business assets we transfer.
-  * **Legal Process:** In the event we are required to respond to subpoenas, court orders or other legal process your personally identifiable information may be disclosed pursuant to such subpoena, court order or legal process, which may be without notice to you.
+  * **Service Providers:**  We employ other businesses, certain services and individuals to perform functions on
 
 
 
-**Chat Rooms, Forums, And Message Boards**
+our behalf. Examples include fulfilling orders, sending e-mail, removing repetitive information from customer lists, Site analysis, analyzing data, providing marketing assistance, processing credit card payments, and providing customer service. They may have access to personally identifiable information needed to perform their functions, but may not use it for other purposes.
 
-The Site may make chat rooms, forums and message boards available to its users. You are not required to provide any personal information when using these areas but you may choose to do so. If you post personal information online, it will be publicly available and you may receive unsolicited messages from other parties. The Oakland Raiders cannot ensure the security of any information you choose to make public in a chat room, forum, or message board. Also, we cannot ensure that parties who have access to such publicly available information will respect your privacy. Please exercise caution when deciding to disclose personal information in these areas.
+  * **Subsidiaries and Affiliates** : We may share your information with all members of the NFL Family, including, without limitation, NFL Properties LLC, NFL International LLC, NFL Enterprises LLC, NFL Ventures, L.P., and NFL Ventures, Inc.
 
-**Links To Other websites**
 
-You should be aware that when you are on the Site you could be directed to other sites beyond our control. For example, if you "click" on an advertisement, the "click" may take you off the Site onto a different Web site. This includes links from advertisers, sponsors and partners that may use the Site's logo as part of a co-branding agreement. These other Web sites may send their own cookies to you, independently collect data or solicit personal information and may or may not have their own published privacy policies. If you visit a Website that is linked to our Site, you should consult that site's privacy policy before providing any personal information.
+  * **Business Partners:**  We may send offers to you on behalf of other partners.  If you do not want to receive
 
-**Security**
 
-This Site incorporates reasonable safeguards to protect the security, integrity, completeness, accuracy and privacy of the personal information that we may collect and we have put into place reasonable precautions to protect such information from loss, misuse and alteration. Your personally identifiable information is transferred to our computers utilizing encryption software. Only those employees who need access to your information in order to do their jobs are allowed access. Our security policies are reviewed periodically and revised as required.
 
-**A Special Note For Parents Concerning Privacy**
+such offers, you may opt out in the email or change your preferences.
 
-The Site is a general audience site. We do not currently collect any personal information from children under the age of thirteen on the Site. If in the future, the Raiders collect personally identifiable information from children, it will do so in compliance with the Children's Online Privacy Protection Act of 1998 (15 U.S.C. 6501 et seq.) including, without limitation, obtaining necessary parental consent. For more information about the privacy practices for our affiliated children's sites such as NFLPlayFootball.com, please consult the privacy policy at the children's site in which you are interested. The Internet offers children wonderful educational and entertainment resources. Your guidance and involvement are essential to help ensure that children have a safe and rewarding online experience. We encourage you to visit the Direct Marketing Association's Web site ([www.the-dma.org](http://www.the-dma.org/)) and explore the Get CyberSavvy! Program as well as the GetNetWise Web site ([www.getnetwise.org](http://www.getnetwise.org/)) to learn more about parental control tools.
+  * **Aggregate Information:**  We may share aggregate information such as demographics and Site usage
 
-**Notification Of Changes And Your Acceptance Of The Privacy Policy**
 
-By using this Site, you signify your agreement to the terms of our privacy policy. If we decide to change or update this privacy policy, we will give you notice of the changes made so you can be aware of such revised privacy policy. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify you by way of an email or some other means. Your continued use of the Site shall constitute your acceptance of such revised privacy policy.
 
-**Correcting/Updating Personal Information**
+statistics to advertisers, sponsors or other organizations. When this type of information is shared, the other parties do not have access to your personally identifiable information.  We are not responsible for the privacy practices of our business partners. 
 
-If your personally identifiable information changes (such as your zip code), or if you no longer desire to access our Site, we will endeavor to provide a way to correct, update or remove the personal data you have provided to us. This can be done by making changes to your profile, by using an opt out message in an email, or by emailing the Internet Services Department at [feedback@raiders.com](mailto:feedback@raiders.com). To opt out of Fantasy emails, simply respond to [remove@commissioner.com](mailto:remove@commissioner.com). To edit your fantasy E-Report settings, go to your team, league or pool web site and select Options, then E-Reports.
+  * **Opt-in and Opt-out Programs:**  Throughout the Site you may be presented with opportunities to receive
 
-If you have any questions about this privacy policy or the privacy practices of this Site, contact [feedback@raiders.com](mailto:feedback@raiders.com)
+
+
+special offers from third parties. An opt-in/opt-out message will ask you if you would like your information to be shared. If you do choose to have your information shared, in an effort to protect you, third parties who have access to personally identifiable information must abide by the current Site privacy policy. However, we are not responsible for the privacy practices of these other companies, and you should review the privacy practices of such Web sites prior to providing your personally identifiable information.
+
+  * **Third-Party Ad Serving & Audience and Traffic Measurement Services:** The Site may use a third party
+
+
+
+network advertiser to serve the advertisements on the Site or may use a traffic measurement service to analyze the traffic on the Site. These third parties may set their own cookies or similar web technologies to collect information about users’ online activities over time and across different websites.
+
+  * **Raiders Partners Subsidiaries and Affiliates:** ** ** We may share your information (including, without
+
+
+
+limitation, personally identifiable information) with subsidiaries, affiliates, sponsors and/or advertisers of The Oakland Raiders.
+
+  * **Business Transfers:**  The Site may be sold along with its assets, or other transactions may occur in which
+
+
+
+your personally identifiable information is one of the business assets transferred. In such a case, your personally identifiable information, which we have gathered, may be one of the business assets we transfer.
+
+  * **Legal Process:**  In the event we are required to respond to subpoenas, court orders or other legal process
+
+
+
+your personally identifiable information may be disclosed pursuant to such subpoena, court order or legal process, which may be without notice to you.
+
+  * **Interactive Features** : We may share information with third parties when you post information to a user profile or a public area of the Site, such as a chat room, forum, blog, or other community tool. If you post to these interactive features, it will be publicly available and you may receive unsolicited messages from other parties. We cannot ensure that parties who have access to such information will respect your privacy. Please exercise caution when using these features.
+  * We may use your non-personal information, including de-aggregated or de-identified personal information, at our sole discretion.
+
+
+
+In addition, we may allow third parties to place and read their own cookies, web beacons, Local Shared Objects, and similar technologies to collect information through the Site. For example, our third-party service providers may use these technologies to collect information that helps us with traffic measurement, research, and analytics. ****
+
+**5.              ****Links To Other Websites**
+
+You should be aware that when you are on the Site you could be directed to other sites beyond our control. For example, if you "click" on an advertisement, the "click" may take you off the Site onto a different Web site. This includes links from advertisers, sponsors and partners that may use the Site's logo as part of a co-branding agreement. These other Web sites may send their own cookies to you, independently collect data or solicit personal information and may or may not have their own published privacy policies. If you visit a Website that is linked to our Site, you should consult that site's privacy policy before providing any personal information. ****
+
+**6.              ****Social** **Networking Services**
+
+We have worked with certain third-party social media providers to offer you their social networking services through our Site. For example, you can use third-party social networking services, including but not limited to Facebook, Twitter, Instagram, Snapcaht and others to share information about your experience on our Site with your friends and followers on those social networking services. These social networking services may be able to collect information about you, including your activity on our Site. These third-party social networking services also may notify your friends and other third parties, both on our Site and on the social networking services themselves, that you are a user of our Site or about your use of our Site, in accordance with applicable law and their own privacy policies. If you choose to access or make use of third-party social networking services, we may receive information about you that you have made available to those social networking services, including information about your contacts on those social networking services.
+
+You also may be able to link an account from a social networking service (e.g., Facebook, Google+, Yahoo!) to an account through our Site. This may allow you to use your credentials from the other site or service to sign in to certain features on our Site. If you link your account from a third-party site or service, we may collect information from those third-party accounts, and any information that we collect will be governed by this Privacy Policy. ****
+
+**7.              ****Security**
+
+This Site incorporates reasonable safeguards to protect the security, integrity, completeness, accuracy and privacy of the personal information that we may collect and we have put into place reasonable precautions to protect such information from loss, misuse and alteration. Your personally identifiable information is transferred to our computers utilizing encryption software. Only those employees who need access to your information in order to do their jobs are allowed access. Our security policies are reviewed periodically and revised as required. ****
+
+**8.              ****A Special Note For Parents Concerning Privacy**
+
+The Site does not knowingly collect, use, or disclose personal information from children under the age of 13, except as permitted by the Children’s Online Privacy Protection Act (“COPPA”). If we are made aware that we have collected personal information from a child under 13 years old in a manner that is inconsistent with COPPA, we will delete this information as soon as possible. ****
+
+**9.              ****Notification Of Changes And Your Acceptance Of The Privacy Policy**
+
+By using this Site, you signify your agreement to the terms of our privacy policy. If we decide to change or update this privacy policy, we will give you notice of the changes made so you can be aware of such revised privacy policy. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify you by way of an email or some other means. Your continued use of the Site shall constitute your acceptance of such revised privacy policy. ****
+
+**10.            ****Opt-Out**
+
+You may choose to receive promotional emails, newsletters, and similar communications from us. You may opt out of receiving commercial emails from us by clicking on the opt-out or “unsubscribe” link included in the commercial e-mails you receive. Please note that opt-out requests may take some time to be effective. Your opt-out request will not apply to messages that you request or that are not commercial in nature. For example, we may contact you concerning any purchases you have made with us, even if you opt out of receiving unsolicited commercial email messages.
+
+If your information changes, or if you no longer desire to use the Site, you may request that we update or remove certain information by signing into your account and making the required changes, by emailing feedback@raiders.com, or by contacting us by at the contact information listed below. We will try to respond to your request within 30 days.
+
+We will retain your information for as long as your account is active or as needed to provide you services. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. ****
+
+**11.            ****Your California Privacy Rights**
+
+California Civil Code Section 1798.83 permits California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please send an email to feedback@raiders.com, or write us at:
+
+The Oakland Raiders  
+Attn: Internet Services Department - Privacy  
+1220 Harbor Bay Parkway  
+Alameda, CA 94502
+
+In some cases, third parties may be able to collect information about a user’s online activities over time and across different websites when he or she uses our Site.
+
+California Business and Professions Code Section 22581 permits minors to request and obtain removal of content or information posted to this Site by minors.  Requests for removal shall be directed to [**feedback@raiders.com**](mailto:feedback@raiders.com) ****  or the above address.
+
+Please understand that a request and removal does not ensure complete or comprehensive removal of the content or information posted on the Site. ****
+
+**12.            **** ** **California Do Not Track Disclosures**
+
+Some web browsers may transmit “do-not-track” signals to the websites with which the user communicates.  Because of differences in how web browsers incorporate and activate this feature, it is not always clear whether users intend for these signals to be transmitted, or whether they even are aware of them.  Because there currently is no industry standard concerning what, if anything, websites should do when they receive such signals, we currently do not take action in response to these signals. ****
+
+**13.            ****International** **Users** Please note that the Site is directed towards users who reside in the United States. By using the Site, you consent to the collection, storage, processing, and transfer of your information in and to the United States, or other countries and territories, pursuant to the laws of the United States. While some of these countries may not offer the same level of privacy protection as your own, we commit to uphold the privacy protections as explained in this Policy.
+
+**14.            ****Correcting/Updating Personal Information**
+
+If your personally identifiable information changes (such as your zip code), or if you no longer desire to access our Site, we will endeavor to provide a way to correct, update or remove the personal data you have provided to us. This can be done by making changes to your profile, by using an opt out message in an email, or by emailing the Internet Services Department at [ **feedback@raiders.com**](mailto:feedback@raiders.com).
+
+If you have any questions about this privacy policy or the privacy practices of this Site, contact [ **feedback@raiders.com**](mailto:feedback@raiders.com)
 
 Questions regarding this statement should be directed to:  
 The Oakland Raiders  
 Attn: Internet Services Department - Privacy  
 1220 Harbor Bay Parkway  
 Alameda, CA 94502
+
+**Copyright Notice**
+
+All of the material contained within the web site known as Raiders.com, its affiliate web sites, and any mobile application or version of those sites are copyrighted by The Oakland Raiders and may not be reproduced in any form without the express written permission of The Oakland Raiders. This includes text, photos, audio and video. Photos are copyrighted by The Oakland Raiders unless otherwise indicated by appropriate photo credit. In which case, the photo file is the property of The Oakland Raiders. All marks, logotype, helmet graphics and slogans are trademarks of The Oakland Raiders and cannot be used without permission of The Oakland Raiders.
