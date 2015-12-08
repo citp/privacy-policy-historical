@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the motorbase.com privacy policy that was archived on 2015-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150522004836id_/http%3A//www.motorbase.com/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the motorbase.com privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208044111id_/http%3A//www.motorbase.com/content/privacy-policy) for the most accurate reproduction.*
 
 # Motorbase - The Encyclopedia of Motoring - Motorbase
 
