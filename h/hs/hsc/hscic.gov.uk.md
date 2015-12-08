@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hscic.gov.uk privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609000240id_/http%3A//www.hscic.gov.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hscic.gov.uk privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208014504id_/http%3A//www.hscic.gov.uk/privacy) for the most accurate reproduction.*
 
 # Privacy and cookies - Health & Social Care Information Centre
 
@@ -67,7 +67,7 @@ In order to meet our public task as the national source of health and social car
 
 
 
-In addition to the above, the HSCIC collects and processes information relating to its customers and stakeholders for business purposes. All personal information is handled with the utmost care and attention - whether on paper, electronically, or other means - and safeguards are in place to ensure the Data Protection Act 1998 is adhered to. You can read more about [how we look after personal information](http://www.hscic.gov.uk/patientconf "Looking after your health and care information").
+In addition to the above, the HSCIC collects and processes information relating to its customers and stakeholders for business purposes. All personal information is handled with the utmost care and attention - whether on paper, electronically, or other means - and safeguards are in place to ensure the Data Protection Act 1998 is adhered to. You can read more about [how we look after personal information](http://www.hscic.gov.uk/patientconf "How we look after information").
 
 The HSCIC regards the fair and lawful processing of personal information as essential in order to successfully achieve its objectives and ensure the support and confidence of the general public and stakeholders. 
 
