@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the thecelebritycafe.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629154417id_/http%3A//thecelebritycafe.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thecelebritycafe.com privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208090428id_/http%3A//thecelebritycafe.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | TheCelebrityCafe.com
+# Privacy Policy | Your entertainment news source since 1995.
 
 **What This Privacy Policy Covers** **UPDATED 6/24/2015**
 
-This policy covers how TheCelebrityCafe.com ("TheCelebrityCafe.com")  
+This policy covers how TheCelebrityCafe.com (“TheCelebrityCafe.com”)  
 treats information which personally identifies you (personal  
 information) that TheCelebrityCafe.com collects and receives. The  
 personal information we collect may include your name, address, phone  
@@ -44,7 +44,7 @@ This information is used to help improve the TheCelebrityCafe.com site, analyze 
 
 TheCelebrityCafe.com uses your personal information for the following  
 general purposes: to determine a winner to contests, to respond to your  
-feedback and to alert you of winners to a contest you've entered. In  
+feedback and to alert you of winners to a contest you’ve entered. In  
 addition, we use your information to send out our weekly newsletter.
 
 TheCelebrityCafe.com uses aggregate and non-personal information to  
@@ -55,18 +55,18 @@ business partners and customers.
 
 TheCelebrityCafe.com does not rent, sell, or share personal information  
 about you with other people or nonaffiliated companies except to  
-provide products or services you've requested, when we have your  
+provide products or services you’ve requested, when we have your  
 permission, or under the following circumstances: 
 
 You elect to receive information from contest sponsors by checking the  
-"opt in" box for that contest. TheCelebrityCafe.com will share your  
+“opt in” box for that contest. TheCelebrityCafe.com will share your  
 personal information only as you have elected. 
 
 Advertisements served by third party Internet advertising technology  
 companies, appear on pages throughout the TheCelebrityCafe.com site.  
 Some advertisements may request personal information directly from you  
 or take you to web sites that may request your personal information.  
-TheCelebrityCafe.com has no control over its advertisers' privacy  
+TheCelebrityCafe.com has no control over its advertisers’ privacy  
 policies, so please examine the privacy policy of any company  
 advertising on the TheCelebrityCafe.com site prior to submitting any  
 personal information. In addition, some ad-serving companies may place  
@@ -89,14 +89,14 @@ that restricts the third party from sharing your personal information
 with others. 
 
 **If you do not want your information to be used for marketing by or a  
-third party, do not "opt in" or agree to such use when you provide your  
+third party, do not “opt in” or agree to such use when you provide your  
 personal information through the TheCelebrityCafe.com site. If you do  
 not want your non-specific information used for marketing please do not  
 submit your information through our contests.**
 
 Please note that whenever you opt in to receive future communications  
 from a third party, your information will be subject to the third  
-party's privacy policy. If you later decide that you do not want that  
+party’s privacy policy. If you later decide that you do not want that  
 third party to use your information, you will need to contact the third  
 party directly, as we have no control over how third parties use  
 information. You should always review the privacy policy of any party  
@@ -133,28 +133,28 @@ site, please read and understand their privacy policy.
 
 TheCelebrityCafe.com lets other companies, including business partners  
 and companies that show advertisements on some of our pages, set and  
-access their cookies on your computer. Other companies' use of their  
+access their cookies on your computer. Other companies’ use of their  
 cookies is subject to their own privacy policies. 
 
 Advertisers or other companies may have access to  
-TheCelebrityCafe.com's cookies. You have the ability to accept or  
+TheCelebrityCafe.com’s cookies. You have the ability to accept or  
 decline these cookies. Most web browsers automatically accept cookies,  
 but you can usually modify your browser setting to decline cookies if  
 you prefer. If you choose to decline cookies, you may not be able to  
 fully experience the interactive features of this or other web sites  
 you visit. 
 
-**Protection of Minor's Personal Information**
+**Protection of Minor’s Personal Information**
 
 TheCelebrityCafe.com is a general audience site and does not knowingly collect any personal information from minors. 
 
 **Changes to this Privacy Policy**
 
 TheCelebrityCafe.com may occasionally update this privacy policy. When  
-we do, we will also revise the "last updated" date at the top of the  
+we do, we will also revise the “last updated” date at the top of the  
 privacy policy. If we make such changes to this privacy policy, we will  
 place a prominent notice at the top of the privacy policy and you will  
-also see the word "Updated" next to the Privacy Policy link on the  
+also see the word “Updated” next to the Privacy Policy link on the  
 front page of the TheCelebrityCafe.com site. We encourage you to  
 periodically review this privacy policy to stay informed about how we  
 are helping to protect the personal information we collect. Your  
