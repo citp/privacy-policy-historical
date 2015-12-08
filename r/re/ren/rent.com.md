@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rent.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607035825id_/http%3A//www.rent.com/company/privacy-full) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rent.com privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208081625id_/http%3A//www.rent.com/company/privacy-full) for the most accurate reproduction.*
 
 # Privacy Policy - Rent.com®
 
@@ -110,8 +110,9 @@ We may amend this Privacy Policy at any time by posting the amended terms on Ren
 
 Questions regarding this policy should be directed to the following address:Attn: General Counsel  
 RentPath, LLC  
-3585 Engineering Drive, Suite 100  
-Norcross, Georgia 30092
+950 East Paces Ferry Road NE  
+Suite 2600  
+Atlanta, GA 30326
 
 or via email to [privacy@rentpath.com](mailto:privacy@rentpath.com)
 
