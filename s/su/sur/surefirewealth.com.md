@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the surefirewealth.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610022518id_/http%3A//www.surefirewealth.com/internetmarketingbusinessproducts/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the surefirewealth.com privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208181606id_/http%3A//www.surefirewealth.com/internetmarketingbusinessproducts/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
