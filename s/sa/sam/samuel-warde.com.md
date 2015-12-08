@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the samuel-warde.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627195116id_/http%3A//samuel-warde.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the samuel-warde.com privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208093933id_/http%3A//samuel-warde.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Liberals Unite
 
