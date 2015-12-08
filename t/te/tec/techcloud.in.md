@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the techcloud.in privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607143030id_/http%3A//techcloud.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techcloud.in privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208144141id_/http%3A//techcloud.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Tech.Cloud
 
