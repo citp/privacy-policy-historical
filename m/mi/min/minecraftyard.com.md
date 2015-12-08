@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the minecraftyard.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609005447id_/http%3A//www.minecraftyard.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the minecraftyard.com privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209002120id_/http%3A//www.minecraftyard.com/privacy-policy) for the most accurate reproduction.*
 
 # User Privacy Policy of MinecraftYard
 
