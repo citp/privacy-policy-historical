@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the imtopsyturvy.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609004925id_/http%3A//ashleemarie.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imtopsyturvy.com privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208061644id_/http%3A//ashleemarie.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Ashlee Marie
 
@@ -58,5 +58,6 @@ We will not sell, distribute or lease your personal information to third parties
 
 **Opt Out**
 
-For information about opting out of Gourmet Ads and ad serving partners please visit http://www.gourmetads.com/about/privacy-policy  
+For information about opting out of Gourmet Ads and ad serving partners please visit [http://www.gourmetads.com/about/privacy-policy” ](http://www.gourmetads.com/about/privacy-policy)
+
 If you believe that any information we are holding on you is incorrect or incomplete, please contact us.
