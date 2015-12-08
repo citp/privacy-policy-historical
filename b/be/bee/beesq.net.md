@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the beesq.net privacy policy that was archived on 2015-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150614015830id_/http%3A//beesq.net/privacy.php%3Fdisplay%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beesq.net privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209001035id_/http%3A//beesq.net/privacy.php%3Fdisplay%3Dprivacy) for the most accurate reproduction.*
 
 # BeesQ
+
+[](http://trkur.com/73281/13485?&i=89013)
 
 The privacy of our visitors to beesq.net is important to us.
 
