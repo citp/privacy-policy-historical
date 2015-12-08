@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the boutiquejapan.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608000310id_/http%3A//boutiquejapan.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boutiquejapan.com privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208025120id_/http%3A//boutiquejapan.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Boutique Japan
+# Privacy Policy
 
 This privacy policy governs the manner in which Boutique Japan Travel Company LLC (“Boutique Japan”) collects, uses, maintains and discloses information collected from users (each, a “User”) of its website [www.boutiquejapan.com](http://www.boutiquejapan.com/) (“Site”). This privacy policy applies to the Site and all products and services offered by Boutique Japan.
 
