@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the leisure.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608160206id_/http%3A//leisure.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leisure.com privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208134101id_/http%3A//leisure.com/privacy) for the most accurate reproduction.*
 
 # Leisure Travel: Cheap Airline Tickets, Hotels, Car Rentals, Vacations
 
