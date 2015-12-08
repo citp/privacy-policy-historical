@@ -1,15 +1,15 @@
-> *The following text is extracted and transformed from the natgeomaps.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607142149id_/http%3A//www.natgeomaps.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the natgeomaps.com privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208144056id_/http%3A//www.natgeomaps.com/privacy) for the most accurate reproduction.*
 
-# Company - Privacy - National Geographic Maps
+# Privacy Policy
 
-**Privacy Policy - Your Privacy Right** Scope of the Privacy Policy This Web site is operated by National Geographic Maps a division of the National Geographic Society. Our websites are known as nationalgeographic.com, natgeomaps.com, and topo.com. We refer to these organizations as "National Geographic," "we" or "our." National Geographic understands the importance of our customers' privacy. Our Privacy Policy tells you what information we collect when you visit our Web site, how we use, share and protect it, what choices you have about how the information is used, and how you can access and update that information. If you do not agree to this Privacy Policy, please do not use this Web site. This Privacy Policy applies to personally identifiable information collected on the Web site where this Privacy Policy is posted. For purposes of this Privacy Policy, "personally identifiable information" means information that identifies a particular individual, such as name, postal address, e-mail address, and phone number. When other information, such as e-mail newsletter choices, magazine or product purchases, or consumer product preferences, is directly associated with personally identifiable information, this other information also becomes personally identifiable information. 
+**Privacy Policy - Your Privacy Right** Scope of the Privacy Policy This Web site is operated by National Geographic Maps a division of the National Geographic Society. Our websites are known as nationalgeographic.com, natgeomaps.com, and topo.com. We refer to these organizations as "National Geographic," "we" or "our." National Geographic understands the importance of our customers' privacy. Our Privacy Policy tells you what information we collect when you visit our Web site, how we use, share and protect it, what choices you have about how the information is used, and how you can access and update that information. If you do not agree to this Privacy Policy, please do not use this Web site. This Privacy Policy applies to personally identifiable information collected on the Web site where this Privacy Policy is posted. For purposes of this Privacy Policy, "personally identifiable information" means information that identifies a particular individual, such as name, postal address, e-mail address, and phone number. When other information, such as e-mail newsletter choices, magazine or product purchases, or consumer product preferences, is directly associated with personally identifiable information, this other information also becomes personally identifiable information.
 
 Information Collection:
 
 **Personally Identifiable Information We Collect**   
 There are many features on this Web site for which no registration is required. However, if you are interested in obtaining information, products or services from National Geographic, or in participating in certain activities on this Web site (such as making an online purchase, subscribing to one of our magazines, becoming a member of National Geographic, making an online donation to National Geographic, or participating in sweepstakes, contests, surveys, or certain special initiatives), you may need to provide us with information about yourself. For example, if you order a product from us, we ask for your name, postal address, e-mail address, telephone number and your credit card number. If you are ordering a product as a gift for another person, we will ask you for that person's name, postal address and phone number in order to enable us to deliver the gift to the recipient. If you participate in an activity such as a survey or sweepstakes, we may also ask you to provide other types of information such as gender and personal interests, which we may associate with personally identifiable information. In addition, we may combine personally identifiable information that you have provided to us with other information that is publicly available or that we receive from other reputable sources. 
 
-**Other Information Collected Through Technology**   
+**Other Information Collected Through Technology**  
 In addition to information you choose to provide to us, we also collect non-personally identifiable information through technology to make our site more interesting and useful to you. For instance, when you come to our site, we collect your Internet Protocol ("IP") address. An IP address is often associated with the portal through which you enter the Internet, like your ISP (Internet service provider). Standing alone, your IP address is not personally identifiable. At times, we also use IP addresses to collect information regarding the frequency with which our visitors visit various parts of our sites. We may combine this information with personally identifiable information that you have provided to us and/or with other information that is publicly available or that we receive from other reputable sources in order to make our Web site and communications more targeted to your interests. 
 
 Our Web site also uses cookies. Cookies are small text files that are stored on a user's computer and allow web sites to remember information about users. We use cookies for a variety of purposes in order to enhance the quality of our Web site. We use transient (also called "session ID") cookies to provide continuity from page to page. A session ID cookie expires when you close your browser. We also use persistent cookies. Persistent cookies allow our online store and other parts of our Web site to recognize your browser when you return after your first visit to that part of our Web site. Cookies allow us to personalize your return visits to our site and to save you time during certain activities, such as checking out from our online store. You can choose to remove persistent cookies through your browser options. However, if you do so, your ability to use some areas of our site will be limited, such as our shopping cart feature or online games.
@@ -19,8 +19,8 @@ Finally, our Web site uses a variety of technical methods for tracking purposes,
 Information Use:  
 National Geographic may use your personally identifiable information to deliver the products and services that you request, enhance your experience on our site, provide you with informational and/or promotional materials that you might find interesting, and for internal business analysis and other business purposes consistent with this policy. These uses may generally be categorized as relationship maintenance uses and promotional uses. We describe these uses in more detail below.
 
-**Relationship Maintenance Uses**   
-National Geographic uses your personally identifiable information to maintain and manage your account, deliver services that you have requested, and generally enhance your experience on our Web site. Collectively, we refer to these types of uses as "Relationship Maintenance Uses," and they include all of the ways in which we use your personally identifiable information to maintain and manage our relationship with you that do not involve sending promotional materials. Examples of Relationship Maintenance Uses include, but are not limited to: 
+**Relationship Maintenance Uses**  
+National Geographic uses your personally identifiable information to maintain and manage your account, deliver services that you have requested, and generally enhance your experience on our Web site. Collectively, we refer to these types of uses as "Relationship Maintenance Uses," and they include all of the ways in which we use your personally identifiable information to maintain and manage our relationship with you that do not involve sending promotional materials. Examples of Relationship Maintenance Uses include, but are not limited to:
 
   * Processing and tracking your membership and magazine subscriptions
   * Processing and tracking your product orders
@@ -36,28 +36,27 @@ National Geographic uses your personally identifiable information to maintain an
 
 
 **Promotional Uses  
-National Geographic may also use your personally identifiable information to provide you with promotional information about activities, services and products offered by us or selected third parties, including promotional material that you have requested. We strive to select trustworthy, reputable companies who offer high quality products or services of interest to you. Examples of promotional uses include, but are not limited to: **
+National Geographic may also use your personally identifiable information to provide you with promotional information about activities, services and products offered by us or selected third parties, including promotional material that you have requested. We strive to select trustworthy, reputable companies who offer high quality products or services of interest to you. Examples of promotional uses include, but are not limited to:**
 
 **
-
   * Providing you with information about educational opportunities
   * Providing you with promotional materials about National Geographic products and services
   * Providing you with e-mail newsletters
+** 
 
 
-
-National Geographic may provide you with promotional materials by postal mail, e-mail, telephone or other means. You may opt out of receiving promotional communications from us by mail, e-mail and/or telephone and in the case of e-mail, you can always opt out of receiving subsequent promotional e-mails by clicking on the unsubscribe link that we provide in every such promotional e-mail message. Please keep in mind, however, that when you purchase or request products or services from National Geographic or our licensees, promotional materials may accompany delivery of that product or service. Any opt-outs that you may make will therefore not apply to these materials because they accompany products or services that you have requested. 
+National Geographic may provide you with promotional materials by postal mail, e-mail, telephone or other means. You may opt out of receiving promotional communications from us by mail, e-mail and/or telephone and in the case of e-mail, you can always opt out of receiving subsequent promotional e-mails by clicking on the unsubscribe link that we provide in every such promotional e-mail message. Please keep in mind, however, that when you purchase or request products or services from National Geographic or our licensees, promotional materials may accompany delivery of that product or service. Any opt-outs that you may make will therefore not apply to these materials because they accompany products or services that you have requested.
 
 Information Sharing and Disclosure:  
 We take very seriously our responsibility to maintain your privacy with respect to your personally identifiable information. We will therefore share that information only with the following entities, and only in the manner described below.   
 
 
   
-**Service Providers**   
+**Service Providers**  
 National Geographic contracts with other companies to provide certain services on our behalf, including credit card processing, shipping, e-mail distribution, and promotions management. We provide these companies only with the information they need to perform their services, and they are permitted to use the information only for that specific purpose or as required by law, unless any additional use or sharing of the information is separately permitted under another provision of this Privacy Policy. 
 
   
-**National Geographic Licensees**   
+**National Geographic Licensees**  
 We may share your personally identifiable information with third parties that offer products and/or services under or in association with brand names of National Geographic. These third parties are called "licensees," and some examples include, but are not limited to: 
 
   * Tour operators that offer expeditions under the National Geographic brand name
@@ -134,4 +133,4 @@ Washington, DC 20036-4688
 
 This policy was last updated April 21, 2005 
 
-** **
+**
