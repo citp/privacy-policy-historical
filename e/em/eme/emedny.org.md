@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the emedny.org privacy policy that was archived on 2011-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111009133220id_/http%3A//www.health.state.ny.us/nysdoh/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emedny.org privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208230515id_/http%3A//www.health.ny.gov/about/privacy.htm) for the most accurate reproduction.*
 
 # New York State Department of Health Privacy Policy
 
@@ -34,9 +34,14 @@ The information that is collected automatically is used to improve this website'
 
 ## Cookies
 
-Cookies are simple text files stored on your web browser to provide a means of distinguishing among _users_ of this website. The use of cookies is a standard practice among Internet websites. To better serve you, we occasionally use "session cookies" to enhance or customize your visit to this website. Session cookies can be created automatically on the device you use to access this _state agency website_. They do not contain _personal information_ and do not compromise your privacy or security. We may use the cookie feature to store a randomly generated identifying tag on the device you use to access this website. A session cookie is erased during operation of your browser or when your browser is closed.
+Cookies are simple text files stored on your web browser to provide a means of distinguishing among _users_ of this website. The use of cookies is a standard practice among Internet websites. They do not contain _personal information_ and do not compromise your privacy or security.
 
-If you wish, you may complete a registration to personalize this website and permit a "persistent cookie" to be stored on your computer's hard drive. This persistent cookie will allow the website to recognize you when you visit again and tailor the information presented to you based on your needs and interests. The New York State Department of Health uses persistent cookies only with your permission.
+We use two types of cookies:
+
+  * **Session cookies** \- These are created automatically on the device you use to access this website. We may use this cookie feature to store a randomly generated identifying tag on the device you use to access this website. A session cookie is erased during operation of your browser or when your browser is closed.
+  * **Persistent cookies** \- These are more permanent and can be re-read when you return to the site that placed them on your computer. The information in them is written onto your hard drive and remains there until the expiry date of the cookie. They allow the website to recognize you when you visit again and tailor the information presented to you based on your needs and interests.
+
+
 
 The software and hardware you use to access the website allows you to refuse new cookies or delete existing cookies. Refusing or deleting these cookies may limit your ability to take advantage of some features of this website.
 
