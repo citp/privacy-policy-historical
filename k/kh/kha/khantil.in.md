@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the khantil.in privacy policy that was archived on 2015-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150615041448id_/http%3A//khantil.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the khantil.in privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208192828id_/http%3A//khantil.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
