@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tests.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610000639id_/http%3A//tests.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tests.com privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208093934id_/http%3A//www.tests.com/privacy) for the most accurate reproduction.*
 
-# PRIVACY POLICY | Tests.com
+# None
 
 TESTS.COM considers privacy to be of the utmost importance. This policy explains how we use the personal information you submit. As we update and expand our services, this policy may change, so please refer back to it periodically. If you use TESTS.COM’s services, you agree to these terms.
 
