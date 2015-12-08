@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the smallbusiness.wa.gov.au privacy policy that was archived on 2015-01-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150106115934id_/http%3A//www.smallbusiness.wa.gov.au/legal-information/%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smallbusiness.wa.gov.au privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208012305id_/http%3A//www.smallbusiness.wa.gov.au/legal-information/%23privacy) for the most accurate reproduction.*
 
-# Legal Information
+# Legal information
 
 We comply with the [standards of the State Government of Western Australia](http://www.finance.wa.gov.au/cms/content.aspx?id=16137 "Department of finance website opens in a new window") for security, privacy, copyright, links to external websites, how we handle email and use information. Our agency-specific legal information is available below.
 
-  1. [Copyright](http://www.smallbusiness.wa.gov.au/legal-information/#copyright "copyright")
-  2. [Links to external websites](http://www.smallbusiness.wa.gov.au/legal-information/#links "links")
-  3. [Privacy](http://www.smallbusiness.wa.gov.au/legal-information/#privacy "privacy")
-  4. [Security](http://www.smallbusiness.wa.gov.au/legal-information/#security "security")
+  1. [Copyright](http://www.smallbusiness.wa.gov.au/business-in-wa/about-sbdc/legal-information/#copyright "copyright")
+  2. [Links to external websites](http://www.smallbusiness.wa.gov.au/business-in-wa/about-sbdc/legal-information/#links "links")
+  3. [Privacy](http://www.smallbusiness.wa.gov.au/business-in-wa/about-sbdc/legal-information/#privacy "privacy")
+  4. [Security](http://www.smallbusiness.wa.gov.au/business-in-wa/about-sbdc/legal-information/#security "security")
 
 
 
@@ -19,7 +19,7 @@ Neither the Corporation nor its officers take any responsibility for that statem
 
 Much of the information on this site is a summary only. Visitors should consult the appropriate source material for full information concerning legal rights or responsibilities.
 
-[Back to top](http://www.smallbusiness.wa.gov.au/legal-information/#top)
+[Back to top](http://www.smallbusiness.wa.gov.au/business-in-wa/about-sbdc/legal-information/#top)
 
 ## Copyright
 
@@ -33,15 +33,7 @@ Apart from any use as permitted under the provisions of the _Copyright Act 1968_
 
 Requests and inquiries concerning reproduction and rights should be addressed to:
 
-The Small Business Commissioner  
-Small Business Development Corporation  
-GPO Box C111  
-PERTH 6001  
-Western Australia
-
- **Email** : [info@smallbusiness.wa.gov.au](mailto:info@smallbusiness.wa.gov.au)[](mailto:infocentre@sbdc.wa.gov.au)
-
-[Back to top](http://www.smallbusiness.wa.gov.au/legal-information/#top)
+[Back to top](http://www.smallbusiness.wa.gov.au/business-in-wa/about-sbdc/legal-information/#top)
 
 ## Links to external websites
 
@@ -49,7 +41,7 @@ Material on this website includes hypertext links to external websites not hoste
 
 Links to external websites are provided, in good faith, as a service only and do not represent endorsement or recommendation of any information, company, product or service. It is the responsibility of the internet user to make his or her own decisions about the accuracy, currency, reliability and correctness of information found on those sites.
 
-[Back to top](http://www.smallbusiness.wa.gov.au/legal-information/#top)
+[Back to top](http://www.smallbusiness.wa.gov.au/business-in-wa/about-sbdc/legal-information/#top)
 
 ## Privacy
 
@@ -83,10 +75,10 @@ Subscribers to our e-newsletter can unsubscribe at any time.
 
 A cookie is a piece of information that a website sends to your browser when you access information at that site. Our websites use cookies to track usage patterns and traffic trends, and to improve the user's experience.
 
-[Back to top](http://www.smallbusiness.wa.gov.au/legal-information/#top)
+[Back to top](http://www.smallbusiness.wa.gov.au/business-in-wa/about-sbdc/legal-information/#top)
 
 ## Security
 
 The Small Business Development Corporation uses industry standard Secure Socket Layer (SSL) encryption to ensure the highest security for credit card and personal details submitted to the Corporation over the internet. Our security certificate is issued by [GeoTrust](http://www.geotrust.com/au/about/ "GeoTrust opens in a new window") and uses Domain Validated SSL with 2048 Bit encryption. Your personal information will be encrypted by your own computer or device at a bit rate determined by the browser you are using, before it is sent to the Corporation.
 
-[Back to top](http://www.smallbusiness.wa.gov.au/legal-information/#top)
+[Back to top](http://www.smallbusiness.wa.gov.au/business-in-wa/about-sbdc/legal-information/#top)
