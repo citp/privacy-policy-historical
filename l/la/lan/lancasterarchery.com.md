@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the lancasterarchery.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610000620id_/http%3A//www.lancasterarchery.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lancasterarchery.com privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208103739id_/http%3A//www.lancasterarchery.com/privacy-policy) for the most accurate reproduction.*
 
 # Lancaster Archery Supply Privacy Policy
 
-This policy applies to www.lancasterarchery.com, www.lancasterarcherydealer.com, and www.tradtecharchery.com
+This policy applies to www.lancasterarchery.com and www.lancasterarcherydealer.com.
 
 #### What information do we collect?
 
@@ -26,7 +26,7 @@ Any of the information we collect from you may be used in one of the following w
 
 **\- To send periodic emails.** The email address you provide for order processing, may be used to send you information and updates pertaining to your order or request, in addition to receiving occasional company news, updates, promotions, related product or service information, etc.
 
-Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
+Note: If at any time you would like to unsubscribe from promotional emails, we include detailed unsubscribe instructions at the bottom of each email. You may also manage your email preferences at any time by visiting [http://www.lancasterarchery.com/preference-center](https://web.archive.org/preference-center).
 
 #### How do we protect your information?
 
