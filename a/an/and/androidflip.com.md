@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the androidflip.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607170745id_/http%3A//androidflip.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the androidflip.com privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208144307id_/http%3A//androidflip.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
