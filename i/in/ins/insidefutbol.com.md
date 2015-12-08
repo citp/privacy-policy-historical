@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the insidefutbol.com privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630001834id_/http%3A//www.insidefutbol.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insidefutbol.com privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208065012id_/http%3A//www.insidefutbol.com/privacy-policy) for the most accurate reproduction.*
 
 # Football - Privacy Policy | Inside Futbol | Latest Football News, Transfer Rumours & Articles
 
