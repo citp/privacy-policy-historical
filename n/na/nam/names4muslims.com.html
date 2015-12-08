@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the names4muslims.com privacy policy that was archived on 2015-06-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150607234116id_/http%3A//www.names4muslims.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the names4muslims.com privacy policy that was archived on 2015-12-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151208015534id_/http%3A//www.names4muslims.com/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
 <meta charset="utf-8">
@@ -56,28 +56,29 @@
 </header>
 <!-- /header -->
 <div id="wrap" class="container">
-  <div class="well">
-    <div class="container">
-      <div class="col-md-3 col-lg-3">
-        <h4>Find Muslim Names</h4>
-      </div>
-      <div class="col-md-9 col-lg-9">
-        <form class="form-inline" role="form" id="search" action="http://www.names4muslims.com/search/pre_search" method="post">
-    <div class="form-group">
-        <select name="gender" class="form-control input-lg">
-            <option>Gender</option>
-            <option value="Boy">Boy</option>
-            <option value="Girl">Girl</option>
-            <option value="all">Both</option>
-        </select>
-    </div>
-    <div class="input-group col-xs-12 col-sm-9 col-md-10 col-lg-10">
-        <input class="form-control input-lg" name="name" id="appendedInputButtons" type="text" placeholder="Name or First few letters" pattern="[A-Za-z]{2}" title="Minimum 2 letters" required="">
-        <span class="input-group-btn"><button class="btn btn-success input-lg" type="submit">Search</button></span>
-    </div>
-</form>      </div>
-    </div>
+    <div class="well">
+       <div class="row">
+  <div class="col-md-3 col-lg-3">
+    <h4>Muslim Names</h4>
   </div>
+  <div class="col-md-9 col-lg-9">
+    <form class="form-inline" role="form" id="search" action="http://www.names4muslims.com/search/pre_search" method="post">
+      <div class="form-group form-group-lg">
+        <select name="gender" class="form-control input-lg">
+          <option>Gender</option>
+          <option value="Boy">Boy</option>
+          <option value="Girl">Girl</option>
+          <option value="all">Both</option>
+        </select>
+      </div>
+      <div class="input-group input-group-lg">
+        <input class="form-control input-lg" name="name" id="appendedInputButtons" autofocus="" type="text" placeholder="Name or First few letters" pattern="[A-Za-z ]{2,20}" title="Minimum 2 letters" required="">
+        <span class="input-group-btn">
+        <button class="btn btn-success input-lg" type="submit">Search</button>
+        </span> </div>
+    </form>
+  </div>
+</div>    </div>
   <div class="row">
     <div class="col-xs-12 col-sm-12 col-md-8">
       <h1 class="page-header">Privacy and Policy</h1>
@@ -127,7 +128,7 @@
         var id = (this.id);
         $.ajax({
           type: 'post',
-          url: 'http://www.names4muslims.com/gallery/like_photo/',
+          url: 'http://www.names4muslims.com/gallery/like_photo',
           data: {id: id}
         }).done(function(data) {
           $('#' + id + '-bs3').html(data);
@@ -153,11 +154,11 @@
 </script>
 <script type="text/javascript">
   $("body").on("click", ".fav", function(event) {
-    $(this).html('<i class="fa fa-check-square-o"></i> Selected').css({color: 'green'});
+    $(this).html('<i class="fa fa-star"></i> Favorited').css({color: 'green'});
     var id = (this.id);
     $.ajax({
       type: 'post',
-      url: 'http://www.names4muslims.com/favorites/add_favorites/',
+      url: 'http://www.names4muslims.com/favorites/add_favorites',
       data: {id: id}
     }).done(function(data) {
       $(".count").html(data);
@@ -170,7 +171,7 @@
   window.onload = function() {
     $.ajax({
       type: 'post',
-      url: 'http://www.names4muslims.com/favorites/get_favorites/',
+      url: 'http://www.names4muslims.com/favorites/get_favorites',
       dataType: 'json',
       success: function(response) {
         txt = response;
@@ -186,7 +187,7 @@
   $("#limit").change(function() {
     $.ajax({
       type: "POST",
-      url: 'http://www.names4muslims.com/names/ajax_limit/',
+      url: 'http://www.names4muslims.com/names/ajax_limit',
       data: {limit: $("#limit").val()},
       dataType: "text",
       cache: false,
@@ -206,7 +207,7 @@
     var id = $(this).data("id");
     $.ajax({
       type: "POST",
-      url: 'http://www.names4muslims.com/names/save_ratings/',
+      url: 'http://www.names4muslims.com/names/save_ratings',
       data: {rating: value, id: id},
       dataType: "text",
       cache: false,
@@ -231,6 +232,9 @@
   ias.extension(new IASNoneLeftExtension({
     text: 'There are no more pages left to load.'      // override text when no pages left
   }));
+$(function () {
+  $('[data-toggle="tooltip"]').tooltip()
+})
 </script>
 <script>
   (function(i, s, o, g, r, a, m) {
@@ -270,7 +274,7 @@ $(document).ready(function(){
     var order = $(this).data("order");
     $.ajax({
       type: "POST",
-      url: 'http://www.names4muslims.com/gallery/set_ajax_sorting/',
+      url: 'http://www.names4muslims.com/gallery/set_ajax_sorting',
       data: {sortfield:sortfield, order: order},
       dataType: "text",
       cache: false,
@@ -283,8 +287,5 @@ $(document).ready(function(){
     return false;
   });
 </script>
-<!-- Go to www.addthis.com/dashboard to customize your tools -->
-<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-540ea40d61d1e885" async="async"></script>
-
 
 </body></html>
