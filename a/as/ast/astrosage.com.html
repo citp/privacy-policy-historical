@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the astrosage.com privacy policy that was archived on 2015-04-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150416033225id_/http%3A//www.astrosage.com/privacy-policy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the astrosage.com privacy policy that was archived on 2015-12-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151208134626id_/http%3A//www.astrosage.com/privacy-policy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
     <title>Privacy Policy</title>
@@ -32,39 +32,58 @@
     <link rel='stylesheet' type='text/css' href='/styles_ie78.css'>
 <![endif]-->
 <div id="fb-root" class=" fb_reset">
-<div style="position: absolute; top: -10000px; height: 0px; width: 0px;"><div><iframe name="fb_xdm_frame_https" frameborder="0" allowtransparency="true" scrolling="no" id="fb_xdm_frame_https" aria-hidden="true" title="Facebook Cross Domain Communication Frame" tabindex="-1" src="https://s-static.ak.facebook.com/connect/xd_arbiter/7r8gQb8MIqE.js?version=41#channel=f304cfe5d39c04c&amp;origin=https%3A%2F%2Fweb.archive.org" style="border: none;"></iframe></div></div><div style="position: absolute; top: -10000px; height: 0px; width: 0px;"><div><iframe name="f38af8cd366cd44" frameborder="0" allowtransparency="true" scrolling="no" src="https://www.facebook.com/connect/ping?client_id=406949632658726&amp;domain=web.archive.org&amp;origin=1&amp;redirect_uri=https%3A%2F%2Fs-static.ak.facebook.com%2Fconnect%2Fxd_arbiter%2F7r8gQb8MIqE.js%3Fversion%3D41%23cb%3Dfeb7e8e20bacec%26domain%3Dweb.archive.org%26origin%3Dhttps%253A%252F%252Fweb.archive.org%252Ff304cfe5d39c04c%26relation%3Dparent&amp;response_type=token%2Csigned_request%2Ccode&amp;sdk=joey" style="display: none;"></iframe></div></div></div>
+<div style="position: absolute; top: -10000px; height: 0px; width: 0px;"><div><iframe name="fb_xdm_frame_https" frameborder="0" allowtransparency="true" scrolling="no" id="fb_xdm_frame_https" aria-hidden="true" title="Facebook Cross Domain Communication Frame" tabindex="-1" src="https://s-static.ak.facebook.com/connect/xd_arbiter/7r8gQb8MIqE.js?version=41#channel=f105611f3442d74&amp;origin=https%3A%2F%2Fweb.archive.org" style="border: none;"></iframe></div></div><div style="position: absolute; top: -10000px; height: 0px; width: 0px;"><div><iframe name="f25606d2052d4a4" frameborder="0" allowtransparency="true" scrolling="no" src="https://www.facebook.com/connect/ping?client_id=406949632658726&amp;domain=web.archive.org&amp;origin=1&amp;redirect_uri=https%3A%2F%2Fs-static.ak.facebook.com%2Fconnect%2Fxd_arbiter%2F7r8gQb8MIqE.js%3Fversion%3D41%23cb%3Df7bbd73126c258%26domain%3Dweb.archive.org%26origin%3Dhttps%253A%252F%252Fweb.archive.org%252Ff105611f3442d74%26relation%3Dparent&amp;response_type=token%2Csigned_request%2Ccode&amp;sdk=joey" style="display: none;"></iframe></div></div></div>
 
-<link rel="stylesheet" type="text/css" href="/dist/css/popupbox.min.css">
+
+<link rel="stylesheet" type="text/css" href="/dist/css/popupbox.css">
 <script type="text/javascript">
-    var overlayid = ["overlay2", "overlay0", "overlay1"];
-    var popupid = ["popup2", "popup0", "popup1"];
-    var cookiesname = ["ishowadv2", "ishowadv0", "ishowadv1"];
-    var interval = 1000 * 150;
-    //var interval = 1000 * 20;
+    var overlayid = ["overlay3", "overlay4", "overlay2", "overlay0", "overlay1"];
+    var popupid = ["popup3", "popup4", "popup2", "popup0", "popup1"];
+    var cookiesname = ["ishowadv3", "ishowadv4", "ishowadv2", "ishowadv0", "ishowadv1"];
+         var interval = 1000 * 150;
+      // var interval = 1000*4;
     var passcookie, currentpopupid;
     //var ovrvalue, popupvalue;
 
     function setonclickfunction() {
-        document.addEventListener("click", function(e) {
-            if (ovr.style.visibility == "visible" && pop.style.visibility == "visible") {
+        $("body").click(function (e) {
+            if (!$(e.target).closest('.modal-dialog').length) {
                 closePopup("trans", "trans", overlayid[currentpopupid], popupid[currentpopupid]);
-            }
+            } 
         });
            }
+    function setpopuptimer(i) {
+               currentpopupid = i;
+               var timeOutValue = setTimeout(function () {
+                   ovr = document.getElementById(overlayid[i]);
+                   pop = document.getElementById(popupid[i]);
+                   // Code for manual and automatic popup overlapping case By Janeshwar Sharma on 20 July 2015
+                   if (document.getElementById('paidservicepopup').style.visibility == "visible") {
+                       ovr.style.visibility = "hidden"
+                       pop.style.visibilty = "hidden"
+                   }
+                   else {
+                       ovr.style.visibility = (ovr.style.visibility == "visible") ? "hidden" : "visible";
+                       pop.style.visibility = (pop.style.visibility == "visible") ? "hidden" : "visible";
 
-   function setpopuptimer(i) {
-        currentpopupid = i;
-        var timeOutValue = setTimeout(function() {
-            ovr = document.getElementById(overlayid[i]);
-            pop = document.getElementById(popupid[i]);
+                   }
+                  
+                   //End by Janeshwar Sharma on 20 July 2015
+                   passcookie = cookiesname[i];
+                   //alert(ovr.style.visibility + "," + pop.style.visibility)
+                   setonclickfunction();
+               }, interval);
+               return timeOutValue;
+           }
+    
+    function popupvisibility() {
+        //alert('ddd');
+            ovr = document.getElementById('paidserviceoverlay');
+            pop = document.getElementById('paidservicepopup');
             ovr.style.visibility = (ovr.style.visibility == "visible") ? "hidden" : "visible";
             pop.style.visibility = (pop.style.visibility == "visible") ? "hidden" : "visible";
-            passcookie = cookiesname[i];
-            //alert(ovr.style.visibility + "," + pop.style.visibility)
             setonclickfunction();
-        }, interval);
-        return timeOutValue;
-    }
+            }
     
     function closePopup(tag, tagvalue, overlayidpass, popupidpass) {
         //alert(tag + "," + tagvalue + "," + overlayidpass + "," + popupidpass);
@@ -82,61 +101,719 @@
             if (xmlhttp.readyState == 4 && xmlhttp.status == 200) {                
             }
         }
-        xmlhttp.open("GET", "/include/create-cookies.asp?cookiesname=" + passcookie, true);
-        xmlhttp.send();
-    }
+        // Fix the issue if mannual popup opened closed after 2 mins 30 second then automatic popup should visible on the same day  
+        //   By Janeshwar Sharma 20 July 2015 
+        if ((document.getElementById('paidservicepopup').style.visibility == "visible")|| (document.getElementById('paidservicepopup').style.visibility == "hidden") ){}
+        else {
+            xmlhttp.open("GET", "/include/create-cookies.asp?cookiesname=" + passcookie, true);
+            xmlhttp.send();
+        }
+        // End By Janeshwar Sharma 20 July 2015
+      }
 
 </script>
 
+ <link type="text/css" href="/dist/css/font-awesome.min.css" rel="stylesheet">  
+ <link type="text/css" href="/dist/css/paidservices.css" rel="stylesheet">  
 
-<div id="overlay2"></div>
-<div id="popup2">
-    <div class="box-area">
-    <div>
-       <div class="brtop-red col-xs-3" style=""></div>
-       <div class="brtop-yallow col-xs-3" style=""></div>
-       <div class="brtop-green col-xs-3" style=""></div>       
-       <div class="brtop-orange col-xs-3" style=""></div>
-       <div style="clear:both"></div>
-    </div>
-        <a href="javascript:closePopup('cancel-marriage','cross-english','overlay2','popup2')" class="close1"></a>
-        <div class="row">
-        <div class="col-md-5 br-r ">     
-              <div class="p-punchline"><h3>Do you want to get married?</h3></div>
-              <div class="url"><a href="https://marriage.astrosage.com?utm_source=onlinead&amp;utm_medium=popup&amp;utm_campaign=asmarriage" target="_blank" rel="nofollow" onclick="javascript:closePopup('register-marriage','link','overlay2','popup2')">http://www.AstroSageMarriage.com/</a></div>
+<script type="text/javascript">
+
+    function silverplanservicee() {
+
+            if (document.getElementById("UserIdpaidplanserviceauto").value == "") {
+                //alert("Hi blank silver userId");
+                var colorsuccess = "#308014";
+                document.getElementById("contentPanel").style.display = 'none';
+                document.getElementById('loginPanel').style.display = 'block';
+                if ('False' == 'False') {
+                    document.getElementById('loginpanelid').style.width = '600px';
+                }
+                else {
+                    document.getElementById('loginpanelid').style.width = '380px';
+                   // document.getElementById('appDownload').style.display = 'none';
+                }
+                document.getElementById('lblMessage').innerHTML = "<font color=" + colorsuccess + ">Thank you for choosing AstroSage Cloud Silver Plan. Please provide details to order now:</font>";
+                document.getElementById("frmLoginBuyPlan").action = "http://www.astrocamp.com/service.asp?service_id=68&prtnr_id=1";
+                document.forms["frmLoginBuyPlan"].submit();
+            }
+            else {
+
+                document.getElementById("frmLoginBuyPlan").action = "http://www.astrocamp.com/service.asp?service_id=68&prtnr_id=1";
+                document.forms["frmLoginBuyPlan"].submit();
+            }
+        }
+    function goldplanservicee() {
+
+        if (document.getElementById("UserIdpaidplanserviceauto").value == "") {
+            //   alert("Hi blank gold userId");
+            var colorsuccess = "#308014"
+            document.getElementById("contentPanel").style.display = 'none';
+            document.getElementById('loginPanel').style.display = 'block';
+            if ('False' == 'False') {
+                document.getElementById('loginpanelid').style.width = '600px';
+            }
+            else {
+                document.getElementById('loginpanelid').style.width = '380px';
+            }
+            document.getElementById('lblMessage').innerHTML = "<font color=" + colorsuccess + ">Thank you for choosing AstroSage Cloud Gold Plan. Please provide details to order now:</font>";
+            document.getElementById("frmLoginBuyPlan").action = "http://www.astrocamp.com/service.asp?service_id=69&prtnr_id=1";
+            document.forms["frmLoginBuyPlan"].submit();
+        }
+        else {
+            // alert("hi else gold");
+            document.getElementById("frmLoginBuyPlan").action = "http://www.astrocamp.com/service.asp?service_id=69&prtnr_id=1";
+            document.forms["frmLoginBuyPlan"].submit();
+        }
+    }
+        
+
+
+</script> 
+
+<div id="overlay3"></div>
+
+<div id="popup3" class="paid-services-auto">
+ 
+    <div id="loginpanelid" class="modal-dialog" style="width: 835px;">
+    
+    <!--<div id="loginpanelid" class="modal-dialog"  style="width: 835px;" >-->
+    
+        <div class="modal-content">
+            <div class="modal-header">
+            <a href="javascript:closePopup('cancel-paidplan','cross-english','overlay3','popup3')" class="close pull-right"><i class="fa fa-remove txt-color-maroon"></i></a>
+                <h4 class="modal-title"><i class="fa fa-star txt-color-maroon"></i>&nbsp;Keep Your Important Charts &amp; Notes on AstroSage Cloud&nbsp;</h4>
+            </div>
+            <div class="modal-body" id="contentPanel">
+                
+                <div class="row-custom">
+                    <div class="col-xs-4">
+                        <div class="br">
+                        </div>
+                        <div align="center">
+                            <div class="box-xs grey-br circle">
+                            </div>
+                            <h4 align="center" class="txt-color-grey">
+                                BASIC</h4>
+                        </div>
+                        <div class="hdg-content">
+                        All the simple tools that you need for Kundli (birth-chart) &amp; horoscope matching.</div>
+                        <ul class="listview">
+                            <li><i class="fa fa-star"></i>Create Kundli</li>
+                            <li><i class="fa fa-star"></i>Horoscope matching</li>
+                            <li><i class="fa fa-star"></i>Save 10 charts on cloud</li>
+                            <li><i class="fa fa-star"></i>Save unlimited charts on your device</li>
+                        </ul>
+                    </div>
+                    <div class="col-xs-4">
+                        <div align="center">
+                            <div class="box-xs maroon-br circle">
+                            </div>
+                            <div class="br">
+                            </div>
+                            <h4 align="center" class="txt-color-maroon">
+                               SILVER</h4>
+                        </div>
+                        <div class="hdg-content">
+                            Step up to more space, astrological features, and enjoy every bit of it.</div>
+                        <ul class="listview">
+                            <li><i class="fa fa-star txt-color-maroon"></i>Create Kundli
+                            </li><li><i class="fa fa-star txt-color-maroon"></i>Horoscope matching</li>
+                            <li><i class="fa fa-star txt-color-maroon"></i>Save up to <b>500 charts(Kundli)</b> on cloud</li>
+                            <li><i class="fa fa-star txt-color-maroon"></i>Save unlimited charts on your device</li>
+                            <li><i class="fa fa-star txt-color-maroon"></i>Write your notes and comments</li>
+                            <li><i class="fa fa-star txt-color-maroon"></i>Work-sheet</li>
+                        </ul>
+                    </div>
+                    <div class="col-xs-4">
+                        <div align="center">
+                            <div class="box-xs gold-br circle">
+                            </div>
+                            <h4 align="center" class="txt-color-gold">
+                               GOLD</h4>
+                        </div>
+                        <div class="hdg-content"> The complete experience with all the powers that you need.</div>
+                        <ul class="listview">
+                            <li><i class="fa fa-star txt-color-gold"></i>Create Kundli</li>
+                            <li><i class="fa fa-star txt-color-gold"></i>Horoscope matching</li>
+                            <li><i class="fa fa-star txt-color-gold"></i>Save <b>unlimited charts(Kundli)</b> on cloud</li> 
+                            <li><i class="fa fa-star txt-color-gold"></i>Save unlimited charts on your device</li>
+                            <li><i class="fa fa-star txt-color-gold"></i>Write your notes and comments</li>
+                            <li><i class="fa fa-star txt-color-gold"></i>Work-sheet</li> 
+                        </ul>
+                    </div>
+                </div>
+                <div class="row-custom">
+                    <div class="col-xs-4">
+                        <div align="center">
+                            <a href="javascript:closePopup('cancel-paidplan','cross-english','overlay3','popup3')" class="btn btn-block btn-grey">Select Basic</a>
+                        </div>
+                    </div>
+                    <div class="col-xs-4">
+                        <div align="center">
+                            <a onclick="silverplanservicee();" class="btn btn-maroon btn-block">
+                                 <i class="fa fa-inr"></i>84/mo<span class="txt-sm">( <i class="fa fa-inr"></i> 945 Annually )</span>
+                            </a>
+                        </div>
+                    </div>
+                    <div class="col-xs-4">
+                        <div align="center">
+                            <a onclick="goldplanservicee();" class="btn btn-gold btn-block">
+                                 <i class="fa fa-inr"></i>167/mo <span class="txt-sm">( <i class="fa fa-inr"></i> 1953 Annually )</span>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                
+            </div>
+            
+        <div class="model-body" id="loginPanel" style="display:none;width:550px;">
+        
+<!--#xinclude file='constants_mr.asp'-->
+<!--#xinclude file='constants_ka.asp'-->
+<!--#xinclude file='constants_ml.asp'-->
+<!--#xinclude file='constants_bn.asp'-->
+
+
+
+
+             <script type="text/javascript">
+
+                 function validationpaidserviceauto() {
+                     if (document.getElementById("txtEmail").value == "" && document.getElementById('PerInfo_Phone').value == "") {
+                         alert('All form fields are required.')
+                         return false;
+                     }
+                     if (document.getElementById('txtEmail').value == "") {
+                         //  document.getElementById("almsg").innerHTML = '<=GetString("PLEASE_ENTER_EMAIL") %>' 
+                         alert('Please enter email address')
+                         document.getElementById('txtEmail').focus();
+                         return false;
+                     }
+
+                     if (echeck(document.getElementById("txtEmail").value) == false) {
+                         document.getElementById("txtEmail").focus();
+                         return (false);
+                     }
+
+                     if (document.getElementById('PerInfo_Phone').value == "") {
+                         alert('Please enter phone no.')
+                         document.getElementById('PerInfo_Phone').focus();
+                         return false;
+                     }
+
+                     function echeck(str) {
+                         var at = "@"
+                         var dot = "."
+                         var lat = str.indexOf(at)
+                         var lstr = str.length
+                         var ldot = str.indexOf(dot)
+
+                         if (str.indexOf(at) == -1) {
+                             alert('Please enter valid email')
+                             return (false);
+                         }
+
+                         if (str.indexOf(at) == -1 || str.indexOf(at) == 0 || str.indexOf(at) == lstr) {
+                             alert('Please enter valid email')
+                             return (false);
+                         }
+
+                         if (str.indexOf(dot) == -1 || str.indexOf(dot) == 0 || str.indexOf(dot) == lstr) {
+                             alert('Please enter valid email')
+                             return (false);
+                         }
+
+                         if (str.indexOf(at, (lat + 1)) != -1) {
+                             alert('Please enter valid email')
+                             return (false);
+                         }
+
+                         if (str.substring(lat - 1, lat) == dot || str.substring(lat + 1, lat + 2) == dot) {
+                             alert('Please enter valid email')
+                             return (false);
+                         }
+
+                         if (str.indexOf(dot, (lat + 2)) == -1) {
+                             alert('Please enter valid email')
+                             return (false);
+                         }
+
+                         if (str.indexOf(" ") != -1) {
+                             alert('Please enter valid email')
+                             return (false);
+                         }
+
+                         return true
+                     }
+
+                     document.getElementById("txtEmailConf").value = document.getElementById("txtEmail").value;
+                     document.getElementById("txtProblem").value = 'Email: ' + document.getElementById("txtEmail").value + ', Phone No.: ' + document.getElementById('PerInfo_Phone').value;
+
+                     return true;
+                 }
+
+                </script>
+               
           
-            <div align="center">
-            <a href="https://marriage.astrosage.com?utm_source=onlinead&amp;utm_medium=popup&amp;utm_campaign=asmarriage" rel="nofollow" target="_blank" onclick="javascript:closePopup('register-marriage','icon','overlay2','popup2')">
-            <img src="/freekundali/promotional-box/images/marriage.png" width="250" class="p-img">
-            </a>
+  
+                
+
+          
+               <form name="frmLoginBuyPlan" id="frmLoginBuyPlan" action="" method="post"> 
+                <input type="hidden" name="txtEmailConf" id="txtEmailConf" value="">
+                <input type="hidden" name="txtRegName" id="txtRegName" value="AstroSageBuyPlan">
+                <input type="hidden" name="PerInfo_name" id="PerInfo_name" value="AstroSageBuyPlan">
+                <input type="hidden" name="PerInfo_gender" id="PerInfo_gender" value="male">
+                <input type="hidden" name="forWhom" id="forWhom" value="other">
+                <input type="hidden" name="cbDate" id="cbDate" value="on">
+                <input type="hidden" name="submitconus" id="submitconus" value="Get This Report">
+                <input type="hidden" name="txtSource" value="AstroSage-Cloud-Buy-Plan">
+                <input type="hidden" name="txtUserAgent" value="ia_archiver">
+                <input type="hidden" name="txtProblem" id="txtProblem" value="">
+                <input type="hidden" name="payMode" id="payMode" value="ICICI">
+                <input type="hidden" name="agreeDisagree" id="agreeDisagree" value="agree">
+                <input type="hidden" name="UserIdpaidplanserviceauto" id="UserIdpaidplanserviceauto" value="">
+             
+                  <br>
+                  <div>
+                 <table width="100%" align="center">
+                    <tbody><tr>
+                      <td align="center" colspan="2" style="padding-bottom:1em;">
+                   <b>  <span id="lblMessage" style="padding-left:40px; font-size:11px"></span> </b>
+                      </td>
+                  </tr>
+                   
+               <tr>
+                            <td align="right" width="40%">
+                                <b>
+                                    Email Id*
+                                </b>
+                            </td>
+                            <td width="60%">
+                                <input type="text" class="inputbox1" id="txtEmail" name="txtEmail" value="" placeholder="Email Id" tabindex="1" size="26" maxlength="50" autocomplete="off">
+                            </td>
+                        </tr>
+                        
+                        <tr>
+                            <td width="40%" align="right">
+                                <b>
+                                    Phone No*
+                                </b>
+                            </td>
+                            <td width="60%">
+                                <input type="tel" class="inputbox1" id="PerInfo_Phone" name="PerInfo_Phone" value="" placeholder="Phone No" tabindex="2" size="26">
+                            </td>
+                        </tr>
+
+                    
+                    
+                    </tbody></table>
+                    </div>
+                <br>
+
+                 <div class="modal-submitbox">
+                          <input type="submit" name="submit" id="submit" class="btn btn-maroon" tabindex="3" onclick="return validationpaidserviceauto();" value="Buy">  
+                   </div>
+
+     </form> 
+
+     
+  
+  <div style="clear:both"></div>
             </div>
         </div>
-        <div class="col-md-7 ">
-            <div class="content-area">
-             <div align="center">
-             <a href="https://marriage.astrosage.com?utm_source=onlinead&amp;utm_medium=popup&amp;utm_campaign=asmarriage" rel="nofollow" target="_blank" onclick="javascript:closePopup('register-marriage','logo','overlay2','popup2')">
-             <img src="/freekundali/promotional-box/images/logo1.png" width="300" class="p-img">
-             </a>
-             </div>
-               <div class="p-punchline"><h2>FREE Matrimony site by No. 1 astrology portal AstroSage.com</h2></div>
-               <div align="center" style=" margin-top:30px;"> 
-                <a href="https://marriage.astrosage.com?utm_source=onlinead&amp;utm_medium=popup&amp;utm_campaign=asmarriage" target="_blank" class="pro-btn" rel="nofollow" onclick="javascript:closePopup('register-marriage','button','overlay2','popup2');">Register Now</a>
-               </div>
-            </div>
-            <div style=" height:20px;"></div>
-        </div>
-        </div>
-        <div style="clear: both"></div>
-         <div>
-       <div class="brbtm-red"></div>
-       <div class="brbtm-yallow"></div>
-       <div class="brbtm-green"></div>       
-       <div class="brbtm-orange"></div>
-       <div style="clear:both"></div>
+        <!-- /.modal-content -->
     </div>
-    </div>
+    <!-- /.modal-dialog -->
 </div>
-<script type="text/javascript">setpopuptimer(0)</script>
+
+
+    <script>
+
+
+        $(document).ready(function () {
+
+
+
+            $('#bPlan').click(function () {
+                $('#silverPlan').hide("slow", function () { });
+                $('#goldPlan').hide("slow", function () { });
+                $('.goldplan').show("slow", function () { });
+                $('.silverplan').show("slow", function () { });
+
+
+                $('#basicPlan').show("slow", function () { });
+                $('.basicplan').hide("slow", function () { });
+            });
+            $('#sPlan').click(function () {
+                $('#goldPlan').hide("slow", function () { });
+                $('#basicPlan').hide("slow", function () { });
+                $('.basicplan').show("slow", function () { });
+                $('.goldplan').show("slow", function () { });
+
+
+                $('#silverPlan').show("slow", function () { });
+                $('.silverplan').hide("slow", function () { });
+            });
+            $('#gPlan').click(function () {
+                $('#basicPlan').hide("slow", function () { });
+                $('#silverPlan').hide("slow", function () { });
+                $('.basicplan').show("slow", function () { });
+                $('.silverplan').show("slow", function () { });
+
+                $('#goldPlan').show("slow", function () { });
+                $('.goldplan').hide("slow", function () { });
+            });
+
+        });
+</script><script type="text/javascript">setpopuptimer(0)</script>
+ <link type="text/css" href="/dist/css/font-awesome.min.css" rel="stylesheet">  
+ <link type="text/css" href="/dist/css/paidservices.css" rel="stylesheet">  
+
+
+
+
+<script type="text/javascript">
+    
+    function silverplanservice(){
+        
+        if (document.getElementById("userIdpaidservice").value == "") {
+            // alert("Hi blank silver userId");
+            var colorsuccess = "#308014"
+            document.getElementById("contentPanelmanual").style.display = 'none';
+            document.getElementById('loginPanelmanual').style.display = 'block';
+            document.getElementById('loginpanelidmanual').style.width = '600px';
+            document.getElementById('lblMessagemanual').innerHTML = "<font color="+colorsuccess+">Thank you for choosing AstroSage Cloud Silver Plan. Please provide details to order now:</font>";
+            document.getElementById("frmLoginBuyPlanmanual").action = "http://www.astrocamp.com/service.asp?service_id=68&prtnr_id=1";
+            document.forms["frmLoginBuyPlanmanual"].submit();
+        }
+        else {
+         //   alert("hi else silver");
+            document.getElementById("frmLoginBuyPlanmanual").action = "http://www.astrocamp.com/service.asp?service_id=68&prtnr_id=1";
+            document.forms["frmLoginBuyPlanmanual"].submit();
+        }
+    }
+    function goldplanservice() {
+
+        if (document.getElementById("userIdpaidservice").value == "") {
+            //   alert("Hi blank gold userId");
+            var colorsuccess = "#308014"
+            document.getElementById("contentPanelmanual").style.display = 'none';
+            document.getElementById('loginPanelmanual').style.display = 'block';
+            document.getElementById('loginpanelidmanual').style.width = '600px';
+            document.getElementById('lblMessagemanual').innerHTML = "<font color=" + colorsuccess + ">Thank you for choosing AstroSage Cloud Gold Plan. Please provide details to order now:</font>";
+            document.getElementById("frmLoginBuyPlanmanual").action = "http://www.astrocamp.com/service.asp?service_id=69&prtnr_id=1";
+            document.forms["frmLoginBuyPlanmanual"].submit();
+        }
+        else {
+           // alert("hi else gold");
+            document.getElementById("frmLoginBuyPlanmanual").action = "http://www.astrocamp.com/service.asp?service_id=69&prtnr_id=1";
+           document.forms["frmLoginBuyPlanmanual"].submit();
+        }
+    }
+        
+
+        
+</script>
+<div id="paidserviceoverlay"></div>
+<div id="paidservicepopup" class="paid-services">
+ 
+    <div id="loginpanelidmanual" class="modal-dialog" style="width: 835px;">
+        <div class="modal-content">
+            <div class="modal-header">
+            <a href="javascript:closePopup('cancel-paidplan','cross-english','paidserviceoverlay','paidservicepopup')" class="close pull-right"><i class="fa fa-remove txt-color-maroon"></i></a>
+                <h4 class="modal-title"><i class="fa fa-star txt-color-maroon"></i>&nbsp;Keep Your Important Charts &amp; Notes on AstroSage Cloud&nbsp;</h4>
+            </div>
+            <div class="modal-body" id="contentPanelmanual">
+                
+                <div class="row-custom">
+                    <div class="col-xs-4">
+                        <div class="br">
+                        </div>
+                        <div align="center">
+                            <div class="box-xs grey-br circle">
+                            </div>
+                            <h4 align="center" class="txt-color-grey">
+                                BASIC</h4>
+                        </div>
+                        <div class="hdg-content">
+                        All the simple tools that you need for Kundli (birth-chart) &amp; horoscope matching.</div>
+                        <ul class="listview">
+                            <li><i class="fa fa-star"></i>Create Kundli</li>
+                            <li><i class="fa fa-star"></i>Horoscope matching</li>
+                            <li><i class="fa fa-star"></i>Save 10 charts on cloud</li>
+                            <li><i class="fa fa-star"></i>Save unlimited charts on your device</li>
+                        </ul>
+                    </div>
+                    <div class="col-xs-4">
+                        <div align="center">
+                            <div class="box-xs maroon-br circle">
+                            </div>
+                            <div class="br">
+                            </div>
+                            <h4 align="center" class="txt-color-maroon">
+                               SILVER</h4>
+                        </div>
+                        <div class="hdg-content">
+                            Step up to more space, astrological features, and enjoy every bit of it.</div>
+                        <ul class="listview">
+                            <li><i class="fa fa-star txt-color-maroon"></i>Create Kundli
+                            </li><li><i class="fa fa-star txt-color-maroon"></i>Horoscope matching</li>
+                            <li><i class="fa fa-star txt-color-maroon"></i>Save up to <b>500 charts(Kundli)</b> on cloud</li>
+                            <li><i class="fa fa-star txt-color-maroon"></i>Save unlimited charts on your device</li>
+                            <li><i class="fa fa-star txt-color-maroon"></i>Write your notes and comments</li>
+                            <li><i class="fa fa-star txt-color-maroon"></i>Work-sheet</li>
+                        </ul>
+                    </div>
+                    <div class="col-xs-4">
+                        <div align="center">
+                            <div class="box-xs gold-br circle">
+                            </div>
+                            <h4 align="center" class="txt-color-gold">
+                               GOLD</h4>
+                        </div>
+                        <div class="hdg-content"> The complete experience with all the powers that you need.</div>
+                        <ul class="listview">
+                            <li><i class="fa fa-star txt-color-gold"></i>Create Kundli</li>
+                            <li><i class="fa fa-star txt-color-gold"></i>Horoscope matching</li>
+                            <li><i class="fa fa-star txt-color-gold"></i>Save <b>unlimited charts(Kundli)</b> on cloud</li> 
+                            <li><i class="fa fa-star txt-color-gold"></i>Save unlimited charts on your device</li>
+                            <li><i class="fa fa-star txt-color-gold"></i>Write your notes and comments</li>
+                            <li><i class="fa fa-star txt-color-gold"></i>Work-sheet</li> 
+                        </ul>
+                    </div>
+                </div>
+                <div class="row-custom">
+                    <div class="col-xs-4">
+                        <div align="center">
+                            <a href="javascript:closePopup('cancel-paidplan','cross-english','paidserviceoverlay','paidservicepopup')" class="btn btn-grey btn-block">Select Basic</a>
+                        </div>
+                    </div>
+                    <div class="col-xs-4">
+                        <div align="center">
+                            <a onclick="silverplanservice();" class="btn btn-maroon btn-block">
+                                 <i class="fa fa-inr"></i>84/mo<span class="txt-sm">( <i class="fa fa-inr"></i> 945 Annually )</span>
+                            </a>
+                        </div>
+                    </div>
+                    <div class="col-xs-4">
+                        <div align="center">
+                            <a onclick="goldplanservice();" class="btn btn-gold btn-block">
+                                 <i class="fa fa-inr"></i>167/mo <span class="txt-sm">( <i class="fa fa-inr"></i> 1953 Annually )</span>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+          
+                
+            </div>
+
+
+
+            <div class="model-body" id="loginPanelmanual" style="display:none; width:550px;">
+             
+<!--#xinclude file='constants_mr.asp'-->
+<!--#xinclude file='constants_ka.asp'-->
+<!--#xinclude file='constants_ml.asp'-->
+<!--#xinclude file='constants_bn.asp'-->
+
+
+
+
+             <script type="text/javascript">
+
+                 function frmLoginBuyPlanvalidation() {
+                     if (document.getElementById("txtEmail").value == "" && document.getElementById('PerInfo_Phone').value == "") {
+                         alert('All form fields are required.')
+                         return false;
+                     }
+                     if (document.getElementById('txtEmail').value == "") {
+                       //  document.getElementById("almsg").innerHTML = '<=GetString("PLEASE_ENTER_EMAIL") %>' 
+                         alert('Please enter email address')
+                         document.getElementById('txtEmail').focus();
+                         return false;
+                     }
+
+                     if (echeck(document.getElementById("txtEmail").value) == false) {
+                         document.getElementById("txtEmail").focus();
+                         return (false);
+                     }
+
+                     if (document.getElementById('PerInfo_Phone').value == "") {
+                         alert('Please enter phone no.')
+                         document.getElementById('PerInfo_Phone').focus();
+                         return false;
+                     }
+
+                     function echeck(str) {
+                         var at = "@"
+                         var dot = "."
+                         var lat = str.indexOf(at)
+                         var lstr = str.length
+                         var ldot = str.indexOf(dot)
+
+                         if (str.indexOf(at) == -1) {
+                             alert('Please enter valid email')
+                             return (false);
+                         }
+
+                         if (str.indexOf(at) == -1 || str.indexOf(at) == 0 || str.indexOf(at) == lstr) {
+                             alert('Please enter valid email')
+                             return (false);
+                         }
+
+                         if (str.indexOf(dot) == -1 || str.indexOf(dot) == 0 || str.indexOf(dot) == lstr) {
+                             alert('Please enter valid email')
+                             return (false);
+                         }
+
+                         if (str.indexOf(at, (lat + 1)) != -1) {
+                             alert('Please enter valid email')
+                             return (false);
+                         }
+
+                         if (str.substring(lat - 1, lat) == dot || str.substring(lat + 1, lat + 2) == dot) {
+                             alert('Please enter valid email')
+                             return (false);
+                         }
+
+                         if (str.indexOf(dot, (lat + 2)) == -1) {
+                             alert('Please enter valid email')
+                             return (false);
+                         }
+
+                         if (str.indexOf(" ") != -1) {
+                             alert('Please enter valid email')
+                             return (false);
+                         }
+
+                         return true
+                     }
+
+                     document.getElementById("txtEmailConf").value = document.getElementById("txtEmail").value;
+                     document.getElementById("txtProblem").value = 'Email: ' + document.getElementById("txtEmail").value + ', Phone No.: ' + document.getElementById('PerInfo_Phone').value;
+
+                     return true;
+                 }
+
+                </script>
+               
+          
+  
+                
+
+          
+               <form name="frmLoginBuyPlanmanual" id="frmLoginBuyPlanmanual" action="" method="post"> 
+                <input type="hidden" name="txtEmailConf" id="txtEmailConf" value="">
+                <input type="hidden" name="txtRegName" id="txtRegName" value="AstroSageBuyPlan">
+                <input type="hidden" name="PerInfo_name" id="PerInfo_name" value="AstroSageBuyPlan">
+                <input type="hidden" name="PerInfo_gender" id="PerInfo_gender" value="male">
+                <input type="hidden" name="forWhom" id="forWhom" value="other">
+                <input type="hidden" name="cbDate" id="cbDate" value="on">
+                <input type="hidden" name="submitconus" id="submitconus" value="Get This Report">
+                <input type="hidden" name="txtSource" value="AstroSage-Cloud-Buy-Plan">
+                <input type="hidden" name="txtUserAgent" value="ia_archiver">
+                <input type="hidden" name="txtProblem" id="txtProblem" value="">
+                <input type="hidden" name="payMode" id="payMode" value="ICICI">
+                <input type="hidden" name="agreeDisagree" id="agreeDisagree" value="agree">
+                <input type="hidden" name="userIdpaidservice" id="userIdpaidservice" value=""> 
+             
+                  <br>
+                  
+                    
+                    <table width="100%" align="center">
+                    <tbody><tr>
+                      <td colspan="2" style="padding-bottom:1em;">
+                   <b> <label id="lblMessagemanual" style="padding-left:40px; font-size:11px"></label> </b>
+                      </td>
+                    </tr>
+                   
+                     
+                     
+                      <tr>
+                            <td align="right" width="40%">
+                                <b>
+                                    Email Id*
+                                </b>
+                            </td>
+                            <td width="60%">
+                                <input type="text" class="inputbox" id="txtEmail" name="txtEmail" value="" placeholder="Email Id" tabindex="1" size="26" maxlength="50" autocomplete="off">
+                            </td>
+                        </tr>
+                        
+                        <tr>
+                            <td width="40%" align="right">
+                                <b>
+                                    Phone No*
+                                </b>
+                            </td>
+                            <td width="60%">
+                                <input type="tel" class="inputbox" id="PerInfo_Phone" name="PerInfo_Phone" value="" tabindex="2" placeholder="Phone No" size="26">
+                            </td>
+                        </tr>
+
+                    </tbody></table>
+               
+
+                <br>
+
+                 <div class="modal-submitbox">
+                          <input type="submit" name="submit" id="submit" class="btn btn-maroon" onclick="return frmLoginBuyPlanvalidation();" tabindex="3" value="Buy">  
+                   </div>
+
+     </form> 
+
+     
+  
+  <div style="clear:both"></div>
+            </div>
+        </div>
+        <!-- /.modal-content -->
+    </div>
+    <!-- /.modal-dialog -->
+</div>
+
+
+    <script>
+
+
+    $(document).ready(function () {
+       
+
+
+        $('#bPlan').click(function () {
+            $('#silverPlan').hide("slow", function () { });
+            $('#goldPlan').hide("slow", function () { });
+            $('.goldplan').show("slow", function () { });
+            $('.silverplan').show("slow", function () { });
+
+
+            $('#basicPlan').show("slow", function () { });
+            $('.basicplan').hide("slow", function () { });
+        });
+        $('#sPlan').click(function () {
+            $('#goldPlan').hide("slow", function () { });
+            $('#basicPlan').hide("slow", function () { });
+            $('.basicplan').show("slow", function () { });
+            $('.goldplan').show("slow", function () { });
+
+
+            $('#silverPlan').show("slow", function () { });
+            $('.silverplan').hide("slow", function () { });
+        });
+        $('#gPlan').click(function () {
+            $('#basicPlan').hide("slow", function () { });
+            $('#silverPlan').hide("slow", function () { });
+            $('.basicplan').show("slow", function () { });
+            $('.silverplan').show("slow", function () { });
+
+            $('#goldPlan').show("slow", function () { });
+            $('.goldplan').hide("slow", function () { });
+        });
+
+    });
+</script>
+
 <div class="navbar navbar-custom navbar-static-top">
     <div class="container">
 
@@ -159,20 +836,21 @@
 <a href="/kundli/" class="toplinks" title="Free Kundali Software &amp; Kundali Matching" id="yHoroscope">Free Kundali Software</a>
 <span class="toplinks pull-left" id="yHoroscope">|</span> 
 
-<a href="/horoscope/yearlyhoroscope.asp" class="toplinks pull-left" title="2015 Horoscope and 2015 Astrology" id="yHoroscope">Horoscope 2015</a>
-<span class="toplinks pull-left" id="kSoftware">|</span> 
+<a href="/horoscope/yearlyhoroscope.asp" class="toplinks pull-left" title="2016 Horoscope and 2016 Astrology" id="yHoroscope">Horoscope 2016</a>
+<span class="toplinks pull-left" id="yHoroscope">|</span> 
 
-<!--<a href="/2015/chinesehoroscope2015.asp" class="toplinks" title="Chinese Horoscope 2015" id="kSoftware">Chinese Horoscope 2015</a> 
-<span class="toplinks pull-left" id="kSoftware">|</span> 
+<a href="/2016/chinesehoroscope2016.asp" class="toplinks" title="Chinese Horoscope 2016" id="yHoroscope">Chinese Horoscope 2016</a> 
+<span class="toplinks pull-left" id="yHoroscope">|</span>
 
-<a href="/2015/rashifal.asp" class="toplinks" title="Get Free Rashifal 2015" id="kSoftware">Rashifal 2015</a>
-<span class="toplinks pull-left"id="kSoftware">|</span> -->
+<a href="/2016/rashifal.asp" class="toplinks" title="Get Free Rashifal 2016" id="yHoroscope">Rashifal 2016</a>
+<span class="toplinks pull-left" id="kSoftware">|</span>
+<!--
+<a href="/festival/ekadashi/devuthaniekadashi.asp" class="toplinks" title="Dev Uthani Ekadashi 2015" id="A1">Dev Uthani Ekadashi 2015</a>
+<span class="toplinks pull-left"id="Span1"></span>-->
 
-<a href="/festival/akshayatritiya/" class="toplinks" title="Akshay Tritiya 2015" id="A1">Akshay Tritiya 2015</a>
-<span class="toplinks pull-left" id="Span1">|</span>
+<!--<span class="toplinks pull-left"id="kSoftware">|</span>-->
 
-<a href="#" data-toggle="modal" data-target="#myModal" class="toplinks" title="feedback" id="feedbk">Feedback</a> 
-
+<!--<a href="#" data-toggle="modal" data-target="#myModal" class="toplinks" title="feedback" id="feedbk">Feedback</a> -->
             
         </div>          
         <script type="text/javascript">
@@ -271,22 +949,22 @@
             <img src="/images/logo.png" border="0" width="140" alt="Free Kundli &amp; Horoscope Matching"></a>
     </div>
     <div class="ui-head-block-b gpls">
-        <div id="___plusone_0" style="position: absolute; width: 450px; left: -10000px;"><iframe frameborder="0" hspace="0" marginheight="0" marginwidth="0" scrolling="no" style="position:absolute;top:-10000px;width:450px;margin:0px;border-style:none" tabindex="0" vspace="0" width="100%" id="I0_1580497422399" name="I0_1580497422399" src="https://web.archive.org/web/20141219041439/https://apis.google.com/se/0/_/+1/fastbutton?usegapi=1&amp;size=tall&amp;origin=https%3A%2F%2Fweb.archive.org&amp;url=http%3A%2F%2Fwww.astrosage.com%2F&amp;gsrc=3p&amp;ic=1&amp;jsh=m%3B%2F_%2Fscs%2Fapps-static%2F_%2Fjs%2Fk%3Doz.gapi.ja.xz4_LRvV2Wo.O%2Fm%3D__features__%2Fam%3DAQ%2Frt%3Dj%2Fd%3D1%2Ft%3Dzcms%2Frs%3DAGLTcCOJ2ULUR01jrxeHfLJfS9A1pFuwIQ#_methods=onPlusOne%2C_ready%2C_close%2C_open%2C_resizeMe%2C_renderstart%2Concircled%2Cdrefresh%2Cerefresh&amp;id=I0_1580497422399&amp;parent=https%3A%2F%2Fweb.archive.org&amp;pfname=&amp;rpctoken=17948791"></iframe></div><g:plusone size="tall" href="http://www.astrosage.com" data-gapiscan="true" data-onload="true" data-gapistub="true"></g:plusone>
+        <div id="___plusone_0" style="position: absolute; width: 450px; left: -10000px;"><iframe frameborder="0" hspace="0" marginheight="0" marginwidth="0" scrolling="no" style="position:absolute;top:-10000px;width:450px;margin:0px;border-style:none" tabindex="0" vspace="0" width="100%" id="I0_1580497423969" name="I0_1580497423969" src="https://web.archive.org/web/20141219041439/https://apis.google.com/se/0/_/+1/fastbutton?usegapi=1&amp;size=tall&amp;origin=https%3A%2F%2Fweb.archive.org&amp;url=http%3A%2F%2Fwww.astrosage.com%2F&amp;gsrc=3p&amp;ic=1&amp;jsh=m%3B%2F_%2Fscs%2Fapps-static%2F_%2Fjs%2Fk%3Doz.gapi.ja.xz4_LRvV2Wo.O%2Fm%3D__features__%2Fam%3DAQ%2Frt%3Dj%2Fd%3D1%2Ft%3Dzcms%2Frs%3DAGLTcCOJ2ULUR01jrxeHfLJfS9A1pFuwIQ#_methods=onPlusOne%2C_ready%2C_close%2C_open%2C_resizeMe%2C_renderstart%2Concircled%2Cdrefresh%2Cerefresh&amp;id=I0_1580497423969&amp;parent=https%3A%2F%2Fweb.archive.org&amp;pfname=&amp;rpctoken=35697539"></iframe></div><g:plusone size="tall" href="http://www.astrosage.com" data-gapiscan="true" data-onload="true" data-gapistub="true"></g:plusone>
     </div>
     <div class="ui-head-block-c">
         <div class="ui-zodiac">
-                        <a href="/horoscope/yearlyarieshoroscope.asp" class="btn btn-subscribe" data-toggle="tooltip" title="" data-original-title="Aries Horoscope 2015">Aries</a>            
-            <a href="/horoscope/yearlytaurushoroscope.asp" class="btn btn-subscribe" data-toggle="tooltip" title="" data-original-title="Taurus Horoscope 2015">Taurus</a>
-            <a href="/horoscope/yearlygeminihoroscope.asp" class="btn btn-subscribe" data-toggle="tooltip" title="" data-original-title="Gemini Horoscope 2015"> Gemini</a> 
-            <a href="/horoscope/yearlycancerhoroscope.asp" class="btn btn-subscribe" data-toggle="tooltip" title="" data-original-title="Cancer Horoscope 2015">Cancer</a>  
-            <a href="/horoscope/yearlyleohoroscope.asp" class="btn btn-subscribe" data-toggle="tooltip" title="" data-original-title="Leo Horoscope 2015"> Leo</a> 
-            <a href="/horoscope/yearlyvirgohoroscope.asp" class="btn btn-subscribe" data-toggle="tooltip" title="" data-original-title="Virgo Horoscope 2015"> Virgo</a>  
-            <a href="/horoscope/yearlylibrahoroscope.asp" class="btn btn-subscribe" data-toggle="tooltip" title="" data-original-title="Libra Horoscope 2015">Libra</a> 
-            <a href="/horoscope/yearlyscorpiohoroscope.asp" class="btn btn-subscribe" data-toggle="tooltip" title="" data-original-title="Scorpio Horoscope 2015">Scorpio</a>  
-            <a href="/horoscope/yearlysagittariushoroscope.asp" class="btn btn-subscribe" data-toggle="tooltip" title="" data-original-title="Sagittarius Horoscope 2015">Sagittarius</a> 
-            <a href="/horoscope/yearlycapricornhoroscope.asp" class="btn btn-subscribe" data-toggle="tooltip" title="" data-original-title="Capricorn Horoscope 2015">Capricorn</a>  
-            <a href="/horoscope/yearlyaquariushoroscope.asp" class="btn btn-subscribe" data-toggle="tooltip" title="" data-original-title="Aquarius Horoscope 2015">Aquarius</a> 
-            <a href="/horoscope/yearlypisceshoroscope.asp" class="btn btn-subscribe" data-toggle="tooltip" title="" data-original-title="Pisces Horoscope 2015">Pisces</a>   
+                        <a href="/horoscope/yearlyarieshoroscope.asp" class="btn btn-subscribe" data-toggle="tooltip" title="" data-original-title="Aries Horoscope 2016">Aries</a>            
+            <a href="/horoscope/yearlytaurushoroscope.asp" class="btn btn-subscribe" data-toggle="tooltip" title="" data-original-title="Taurus Horoscope 2016">Taurus</a>
+            <a href="/horoscope/yearlygeminihoroscope.asp" class="btn btn-subscribe" data-toggle="tooltip" title="" data-original-title="Gemini Horoscope 2016"> Gemini</a> 
+            <a href="/horoscope/yearlycancerhoroscope.asp" class="btn btn-subscribe" data-toggle="tooltip" title="" data-original-title="Cancer Horoscope 2016">Cancer</a>  
+            <a href="/horoscope/yearlyleohoroscope.asp" class="btn btn-subscribe" data-toggle="tooltip" title="" data-original-title="Leo Horoscope 2016"> Leo</a> 
+            <a href="/horoscope/yearlyvirgohoroscope.asp" class="btn btn-subscribe" data-toggle="tooltip" title="" data-original-title="Virgo Horoscope 2016"> Virgo</a>  
+            <a href="/horoscope/yearlylibrahoroscope.asp" class="btn btn-subscribe" data-toggle="tooltip" title="" data-original-title="Libra Horoscope 2016">Libra</a> 
+            <a href="/horoscope/yearlyscorpiohoroscope.asp" class="btn btn-subscribe" data-toggle="tooltip" title="" data-original-title="Scorpio Horoscope 2016">Scorpio</a>  
+            <a href="/horoscope/yearlysagittariushoroscope.asp" class="btn btn-subscribe" data-toggle="tooltip" title="" data-original-title="Sagittarius Horoscope 2016">Sagittarius</a> 
+            <a href="/horoscope/yearlycapricornhoroscope.asp" class="btn btn-subscribe" data-toggle="tooltip" title="" data-original-title="Capricorn Horoscope 2016">Capricorn</a>  
+            <a href="/horoscope/yearlyaquariushoroscope.asp" class="btn btn-subscribe" data-toggle="tooltip" title="" data-original-title="Aquarius Horoscope 2016">Aquarius</a> 
+            <a href="/horoscope/yearlypisceshoroscope.asp" class="btn btn-subscribe" data-toggle="tooltip" title="" data-original-title="Pisces Horoscope 2016">Pisces</a>   
         </div>
     </div>
     <div class="ui-language ui-head-block-d">
@@ -319,7 +997,7 @@
 <a href="/horoscope/daily-horoscope-todays-horoscope.asp">Today's Horoscope</a>
 <a href="/free/hindi-kundli.asp">Hindi Kundli</a>
 <a href="/rashifal" title="Get your daily rashifal in hindi">Rashifal</a>
-<a href="/horoscope/yearlyhoroscope.asp">Horoscope 2015</a>
+<a href="/horoscope/yearlyhoroscope.asp">Horoscope 2016</a>
 <a href="/lalkitab/" title="Free Lal Kitab Software &amp; Remedies (Red Book)">Lal Kitab</a>
 <a href="/moonsigns/moon.asp" title="Free Moon Sign Horoscope">Moon Signs</a>
 <a href="http://buy.astrosage.com/" title="Astro Shop">Astro Shop</a> 
@@ -329,8 +1007,8 @@
 <li class="bottom" onmouseover="removedefault('horoscope','horoscopetext', 'arow1');" id="horoscope"><a href="/horoscope/" id="horoscopetext"> Horoscope <i class="ui-css3arrow" id="arow1"></i></a>
 <span>
 <div class="menu-arrow arrow2"></div>
-<a href="/horoscope/yearlyhoroscope.asp" title="Horoscope 2015">Horoscope 2015</a>
-<a href="/2015/rashifal.asp" title="Horoscope 2015">Rashifal 2015</a>
+<a href="/horoscope/yearlyhoroscope.asp" title="Horoscope 2016">Horoscope 2016</a>
+<a href="/2016/rashifal.asp" title="Rashifal 2016">Rashifal 2016</a>
 <a href="/horoscope/daily-horoscope-todays-horoscope.asp" title="Get Daily horoscope">Daily Horoscope</a>
 <a href="/horoscope/weekly-horoscope.asp" title="Get Weekly horoscope">Weekly Horoscope</a>
 <a href="/horoscope/weekly-love-horoscope.asp" title="Get Weekly love horoscope">Weekly Love Horoscope</a>
@@ -356,17 +1034,18 @@
 <a href="/atlas/" title="Find latitude, longitude, and time-zone for your city">Atlas</a>
 </span>
 </li>
-<li class="bottom" onmouseover="removedefault('2013report','2013reporttext','arow3');" id="2013report"><a href="/2015/" id="2013reporttext"> 2015 <i class="ui-css3arrow" id="arow3"></i></a>
+<li class="bottom" onmouseover="removedefault('2013report','2013reporttext','arow3');" id="2013report"><a href="/2016/" id="2013reporttext"> 2016 <i class="ui-css3arrow" id="arow3"></i></a>
 <span>
 <div class="menu-arrow arrow4"></div>
-<a href="/horoscope/yearlyhoroscope.asp" title="2015 Horoscope">Horoscope 2015</a> 
-<a href="/2015/rashifal.asp" title="Rashifal 2015 Roman">Rashifal 2015</a> 
-<a href="/2015/rashiphal.asp" title="Hindi Rashiphal 2015">राशिफल 2015</a>
-<a href="/2015/chinesehoroscope2015.asp" title="Get Chinese Horoscope 2015">Chinese Horoscope 2015</a>
-<a href="/2015/lalkitabhoroscope2015.asp" title="Get Lal Kitab Horoscope 2015">Lal Kitab Horoscope 2015</a>
-<a href="/2015/tarotreading2015.asp" title="Tarot Reading 2015">Tarot Reading 2015</a>
-<a href="/2015/numerology2015.asp" title="Numerology 2015">Numerology 2015</a>   
-<a href="/2015/cricketworldcup2015/" title="World Cup 2015">World Cup 2015</a>   
+<a href="/horoscope/yearlyhoroscope.asp" title="2016 Horoscope">Horoscope 2016</a> 
+<a href="/2016/rashifal.asp" title="Hindi Rashiphal 2016">राशिफल 2016</a>
+<a href="/2016/chinesehoroscope2016.asp" title="Get Chinese Horoscope 2016">Chinese Horoscope 2016</a>
+<a href="/2016/numerology2016.asp" title="Numerology 2016">Numerology 2016</a>   
+<a href="/2016/ankjyotish2016.asp" title="Numerology 2016">अंक ज्योतिष 2016</a>   
+<a href="/2016/rashifal2016bengali.asp" title="Bengali Horoscope 2016">রাশিফল 2016</a>
+<a href="/2016/bhojpurirashifal.asp" title="Bhojpuri Rashifal 2016">भोजपुरी राशिफल 2016</a>
+<a href="/2016/tarotreading2016.asp" title="Tarot Reading 2016">Tarot Reading 2016</a>
+<a href="/2015/lalkitabhoroscope2015.asp" title="Get Lal Kitab Horoscope 2015">Lal Kitab Horoscope 2015</a>  
 
 </span>
 </li>
@@ -401,15 +1080,15 @@
 </span>
 </li>
 
-<li class="bottom" onmouseover="removedefault('regionalastro','regionalastrotext','arow6');" id="regionalastro"><a href="/2015/" id="regionalastrotext"> Languages <i class="ui-css3arrow" id="arow6"></i></a>
+<li class="bottom" onmouseover="removedefault('regionalastro','regionalastrotext','arow6');" id="regionalastro"><a href="/2016/" id="regionalastrotext"> Languages <i class="ui-css3arrow" id="arow6"></i></a>
 <span>
 <div class="menu-arrow arrow7"></div>
-<a href="/2015/rasipalan2015.asp" title="Get Tamil Horoscope 2015">Tamil Horoscope 2015</a>
-<a href="/2015/rasiphalalu2015.asp" title="Get Telugu Horoscope 2015">Telugu Horoscope 2015</a>
-<a href="/2015/kannadarashibhavishya2015.asp" title="Get Kannada Jathaka 2015">Kannada Jathaka 2015</a>
-<a href="/2015/gujaratirashibhavishya2015.asp" title="Get Gujarati Horoscope 2015">Gujarati Horoscope 2015</a>
-<a href="/2015/rashibhavishya2015marathi.asp" title="Get Marathi Horoscope 2015">Marathi Horoscope 2015</a>
-<a href="/2015/urduhoroscope2015.asp" title="Get Urdu Horoscope 2014">Urdu Horoscope 2015</a>
+<a href="/2016/rasipalan2016.asp" title="Get Tamil Horoscope 2016">Tamil Horoscope 2016</a>
+<a href="/2016/rasiphalalu2016.asp" title="Get Telugu Horoscope 2016">Telugu Horoscope 2016</a>
+<a href="/2016/kannadahoroscope216.asp" title="Get Kannada Jathaka 2016">Kannada Jathaka 2016</a>
+<a href="/2016/malayalamhoroscope2016.asp" title="Get Kannada Jathaka 2016">Malayalam Horoscope 2016</a>
+<a href="/2016/rashibhavishya2016gujarati.asp" title="Get Gujarati Horoscope 2016">Gujarati Horoscope 2016</a>
+<a href="/2016/rashibhavishya2016marathi.asp" title="Get Marathi Horoscope 2016">Marathi Horoscope 2016</a>
 <a href="/tamil" title="Tamil Astrology">Tamil</a>
 <a href="/hindi" title="Hindi Astrology">Hindi</a>
 
@@ -494,17 +1173,14 @@
 <li onmouseover="removedefault('festivals','festivalstext','arow13');" id="festivals"><a href="/festival/" id="festivalstext">Festivals <i class="ui-css3arrow" id="arow13"></i></a>
 <span>
 <div class="menu-arrow arrow14"></div>
-<a href="/festival/akshayatritiya/" title="Akshay Tritiya">Akshay Tritiya</a>
-<a href="/festival/wesak/" title="Buddha Purnima">Buddha Purnima </a>
-<a href="/festival/guru-purnima/" title="Guru Purnima">Guru Purnima</a>
-<a href="/festival/teej/" title="Teej">Teej</a>
-<a href="/festival/nag-panchami/" title="Nag Panchami">Nag Panchami</a>
-<a href="/festival/Onam/" title="Onam">Onam</a>
-<a href="/festival/raksha-bandhan/" title="Raksha Bandhan">Raksha Bandhan</a>
-<a href="/festival/krishna-janmashtami/" title="Krishna Janmashtami">Krishna Janmashtami</a>
-<a href="/festival/ganesh-chaturthi/" title="Ganesh Chaturthi">Ganesh Chaturthi</a>
-<a href="/2013/festival/anantchaturdashi2013.asp" title="Anant Chaturdashi">Anant Chaturdashi</a>
-<a href="/festival/shraddha/" title="Shradh">Shradh</a>
+<a href="/festival/diwali/dhanteras.asp" title="Dhanteras 2015">Dhanteras 2015</a>
+<a href="/festival/diwali/narakchaturdashi.asp" title="Narak Chaturdashi 2015">Narak Chaturdashi 2015</a>
+<a href="/festival/diwali/" title="Diwali">Diwali</a>
+<a href="/festival/diwali/kalipuja.asp" title="Kali Puja 2015">Kali Puja 2015</a>
+<a href="/festival/diwali/govardhan-puja.asp" title="Govardhan Puja">Govardhan Puja</a>
+<a href="/festival/diwali/bhai-dooj.asp" title="Bhaiya Dooj">Bhaiya Dooj</a>
+<a href="/festival/chhat-puja/" title="Chhath Puja">Chhath Puja</a>
+<a href="/festival/ekadashi/devuthaniekadashi.asp" title="Dev Uthani Ekadashi">Dev Uthani Ekadashi</a>
 </span>
 </li> 
 <li class="bottom" onmouseover="removedefault('misc','misctext','arow14');" id="misc"><a href="#" id="misctext">Misc <i class="ui-css3arrow" id="arow14"></i></a>
@@ -540,12 +1216,12 @@
                     <div class="col-lg-9">
                         
                         <div class="ui-margin-t ui-container">
-                            <div class="ui-home-icon"><a href="/horoscope/yearlyhoroscope.asp"><img src="/images/icons/varshaphal.png" alt="Horoscope 2015 for FREE"><p class="ui-home-text">Horoscope<br>2015</p></a></div>
-<div class="ui-home-icon"><a href="/2015/chinesehoroscope2015.asp"><img src="/images/icons/chinese.png" alt="Chinese Horoscope 2015"><p class="ui-home-text">Chinese Horoscope<br>2015</p></a></div>
-<div class="ui-home-icon"><a href="/2015/rashiphal.asp"><img height="38" src="/images/icons/dasa.png" alt="Free Rashifal for 2015"><p class="ui-home-text">Rashifal<br>2015</p></a></div>
+                            <div class="ui-home-icon"><a href="/horoscope/yearlyhoroscope.asp"><img src="/images/icons/varshaphal-2016.png" alt="Horoscope 2016 for FREE"><p class="ui-home-text">Horoscope<br>2016</p></a></div>
+<div class="ui-home-icon"><a href="/2016/chinesehoroscope2016.asp"><img src="/images/icons/chinese.png" alt="Chinese Horoscope 2016"><p class="ui-home-text">Chinese Horoscope<br>2016</p></a></div>
+<div class="ui-home-icon"><a href="/2016/rashifal.asp"><img height="38" src="/images/icons/dasa.png" alt="Free Rashifal for 2016"><p class="ui-home-text">Rashifal<br>2016</p></a></div>
 <div class="ui-home-icon no-bd-r"><a href="/free/personalized-horoscope.asp"><img src="/images/icons/prediction.png" alt="Personalized horoscope 2015"><p class="ui-home-text">Personalized<br>Horoscope 2015</p></a></div>
 <div class="ui-home-icon no-border-b"><a href="/2015/lalkitabhoroscope2015.asp"><img height="38" src="/images/icons/lalkitab.png" alt="Free Lalkitab Horoscope 2015"><p class="ui-home-text">Lalkitab<br>Horoscope 2015</p></a></div>
-<div class="ui-home-icon no-border-b"><a href="http://buy.astrosage.com/service/2015-love-report" data-toggle="tooltip" title="" data-original-title="Order for 2015 Love Report - 25$"><img height="38" src="/images/icons/heart.png" alt="2015 Love Report"><p class="ui-home-text">2015 Love<br>Report</p></a></div>
+<div class="ui-home-icon no-border-b"><a href="http://buy.astrosage.com/service/marriage-and-love-analysis-new2" data-toggle="tooltip" title="" data-original-title="Marriage and Love Analysis"><img height="38" src="/images/icons/heart.png" alt="Marriage and Love Analysis"><p class="ui-home-text">Marriage and<br>Love Analysis</p></a></div>
 <div class="ui-home-icon no-border-b"><a href="/2015/hinducalendar2015.asp"><img src="/images/icons/calendar.png" alt="Calendar 2015"><p class="ui-home-text">Calendar<br>2015</p></a></div>
 <div class="ui-home-icon no-border-b no-bd-r"><a href="/wallpapers/2015wallpapers.asp"><img src="/images/icons/ram.jpg" alt="Wallpapers for 2015"><p class="ui-home-text">Wallpaper<br>2015</p></a></div>
 <div class="clearfix"></div>
@@ -668,8 +1344,7 @@
                     <strong>4. Contacting us<br>
                     </strong>If you have any questions about this privacy statement, the practices of
                     this site, or your dealings with this web site, you can contact us at <a href="mailto:customercare@AstroSage.com">
-                        customercare@AstroSage.com<script cf-hash="f9e31" type="text/javascript">
-/* <![CDATA[ */!function(){try{var t="currentScript"in document?document.currentScript:function(){for(var t=document.getElementsByTagName("script"),e=t.length;e--;)if(t[e].getAttribute("cf-hash"))return t[e]}();if(t&&t.previousSibling){var e,r,n,i,c=t.previousSibling,a=c.getAttribute("data-cfemail");if(a){for(e="",r=parseInt(a.substr(0,2),16),n=2;a.length-n;n+=2)i=parseInt(a.substr(n,2),16)^r,e+=String.fromCharCode(i);e=document.createTextNode(e),c.parentNode.replaceChild(e,c)}}}catch(u){}}();/* ]]> */</script></a></p>
+                        customercare@AstroSage.com</a></p>
                 <p>
                 </p>
             </div>
@@ -693,44 +1368,44 @@
             <div class="row">
     <div class="col-lg-6">
         <div class="panel panel-default">
-            <div class="panel-heading"><a href="/horoscope/yearlyhoroscope.asp"><h4>Yearly Horoscope 2015</h4></a></div>
+            <div class="panel-heading"><a href="/horoscope/yearlyhoroscope.asp"><h4>Yearly Horoscope 2016</h4></a></div>
             <div class="panel-body">
                 <div class="show-grid">
                     <div align="center" class="col-sm-3">
-                        <a href="/horoscope/yearlyarieshoroscope.asp"><img src="/images/sign/Aries.png" alt="Aries horoscope 2015"><div class="ui-padding-t">Aries Horoscope 2015</div></a>
+                        <a href="/horoscope/yearlyarieshoroscope.asp"><img src="/images/sign/Aries.png" alt="Aries horoscope 2016"><div class="ui-padding-t">Aries Horoscope 2016</div></a>
                     </div>
                     <div align="center" class="col-sm-3">
-                        <a href="/horoscope/yearlytaurushoroscope.asp"><img src="/images/sign/Taurus.png" alt="Taurus horoscope 2015"><div class="ui-padding-t">Taurus Horoscope 2015</div></a>
+                        <a href="/horoscope/yearlytaurushoroscope.asp"><img src="/images/sign/Taurus.png" alt="Taurus horoscope 2016"><div class="ui-padding-t">Taurus Horoscope 2016</div></a>
                     </div>
                     <div align="center" class="col-sm-3">
-                        <a href="/horoscope/yearlygeminihoroscope.asp"><img src="/images/sign/Gemini.png" alt="Gemini horoscope 2015"><div class="ui-padding-t">Gemini Horoscope 2015</div></a>
+                        <a href="/horoscope/yearlygeminihoroscope.asp"><img src="/images/sign/Gemini.png" alt="Gemini horoscope 2016"><div class="ui-padding-t">Gemini Horoscope 2016</div></a>
                     </div>
                     <div align="center" class="col-sm-3">
-                        <a href="/horoscope/yearlycancerhoroscope.asp"><img src="/images/sign/Cancer.png" alt="Cancer horoscope 2015"><div class="ui-padding-t"> Cancer Horoscope 2015</div></a>
+                        <a href="/horoscope/yearlycancerhoroscope.asp"><img src="/images/sign/Cancer.png" alt="Cancer horoscope 2016"><div class="ui-padding-t"> Cancer Horoscope 2016</div></a>
                     </div>
                     <div align="center" class="col-sm-3">
-                        <a href="/horoscope/yearlyleohoroscope.asp"><img src="/images/sign/Leo.png" alt="Leo horoscope 2015"><div class="ui-padding-t">Leo Horoscope 2015</div></a>
+                        <a href="/horoscope/yearlyleohoroscope.asp"><img src="/images/sign/Leo.png" alt="Leo horoscope 2016"><div class="ui-padding-t">Leo Horoscope 2016</div></a>
                     </div>
                     <div align="center" class="col-sm-3">
-                        <a href="/horoscope/yearlyvirgohoroscope.asp"><img src="/images/sign/Virgo.png" alt="Virgo horoscope 2015"><div class="ui-padding-t">Virgo Horoscope 2015</div></a>
+                        <a href="/horoscope/yearlyvirgohoroscope.asp"><img src="/images/sign/Virgo.png" alt="Virgo horoscope 2016"><div class="ui-padding-t">Virgo Horoscope 2016</div></a>
                     </div>
                     <div align="center" class="col-sm-3">
-                        <a href="/horoscope/yearlylibrahoroscope.asp"><img src="/images/sign/Libra.png" alt="Libra horoscope 2015"><div class="ui-padding-t">Libra Horoscope 2015</div></a>
+                        <a href="/horoscope/yearlylibrahoroscope.asp"><img src="/images/sign/Libra.png" alt="Libra horoscope 2016"><div class="ui-padding-t">Libra Horoscope 2016</div></a>
                     </div>
                     <div align="center" class="col-sm-3">
-                        <a href="/horoscope/yearlyscorpiohoroscope.asp"><img src="/images/sign/Scorpio.png" alt="Scorpio horoscope 2015"><div class="ui-padding-t">Scorpio Horoscope 2015</div></a>
+                        <a href="/horoscope/yearlyscorpiohoroscope.asp"><img src="/images/sign/Scorpio.png" alt="Scorpio horoscope 2016"><div class="ui-padding-t">Scorpio Horoscope 2016</div></a>
                     </div>
                     <div align="center" class="col-sm-3">
-                        <a href="/horoscope/yearlysagittariushoroscope.asp"><img src="/images/sign/Sagittarius.png" alt="Sagittarius horoscope 2015"><div class="ui-padding-t">Sagittarius Horoscope 2015</div></a>
+                        <a href="/horoscope/yearlysagittariushoroscope.asp"><img src="/images/sign/Sagittarius.png" alt="Sagittarius horoscope 2016"><div class="ui-padding-t">Sagittarius Horoscope 2016</div></a>
                     </div>
                     <div align="center" class="col-sm-3">
-                        <a href="/horoscope/yearlycapricornhoroscope.asp"><img src="/images/sign/Capricorn.png" alt="Capricorn horoscope 2015"><div class="ui-padding-t">Capricorn Horoscope 2015</div></a>
+                        <a href="/horoscope/yearlycapricornhoroscope.asp"><img src="/images/sign/Capricorn.png" alt="Capricorn horoscope 2016"><div class="ui-padding-t">Capricorn Horoscope 2016</div></a>
                     </div>
                     <div align="center" class="col-sm-3">
-                        <a href="/horoscope/yearlyaquariushoroscope.asp"><img src="/images/sign/Aquarius.png" alt="Aquarius horoscope 2015"><div class="ui-padding-t">Aquarius Horoscope 2015</div></a>
+                        <a href="/horoscope/yearlyaquariushoroscope.asp"><img src="/images/sign/Aquarius.png" alt="Aquarius horoscope 2016"><div class="ui-padding-t">Aquarius Horoscope 2016</div></a>
                     </div>
                     <div align="center" class="col-sm-3">
-                        <a href="/horoscope/yearlypisceshoroscope.asp"><img src="/images/sign/Pisces.png" alt="Pisces horoscope 2015"><div class="ui-padding-t">Pisces Horoscope 2015</div></a>
+                        <a href="/horoscope/yearlypisceshoroscope.asp"><img src="/images/sign/Pisces.png" alt="Pisces horoscope 2016"><div class="ui-padding-t">Pisces Horoscope 2016</div></a>
                     </div>
                 </div>
             </div>
@@ -738,7 +1413,7 @@
     </div>
     <div class="col-lg-6">
         <div class="panel panel-default">
-            <div class="panel-heading"><a href="/2015/chinesehoroscope2015.asp"><h4>Chinese Horoscope 2015</h4></a></div>
+            <div class="panel-heading"><a href="/2016/chinesehoroscope2016.asp"><h4>Chinese Horoscope 2016</h4></a></div>
             <div class="panel-body">
                 <div class="show-grid">
     <div align="center" class="col-sm-3">
@@ -854,7 +1529,7 @@
 
 
 <div align="center" class="ui-container ui-margin-tb">   
- <div class="fb-comments fb_iframe_widget_loader fb_iframe_widget fb_hide_iframes" data-num-posts="2" data-width="793" fb-xfbml-state="rendered"><span style="height: 100px; width: 793px;"><iframe id="f2835dc165a4b6" name="f10931e4c0e798c" scrolling="no" title="Facebook Social Plugin" class="fb_ltr" src="https://www.facebook.com/plugins/comments.php?api_key=406949632658726&amp;channel_url=https%3A%2F%2Fs-static.ak.facebook.com%2Fconnect%2Fxd_arbiter%2F7r8gQb8MIqE.js%3Fversion%3D41%23cb%3Df2c5594d4d8f8fc%26domain%3Dweb.archive.org%26origin%3Dhttps%253A%252F%252Fweb.archive.org%252Ff304cfe5d39c04c%26relation%3Dparent.parent&amp;locale=en_US&amp;numposts=2&amp;sdk=joey&amp;title=Privacy%20Policy&amp;url=https%3A%2F%2Fweb.archive.org%2Fweb%2F20150416033225id_%2Fhttp%253A%2F%2Fwww.astrosage.com%2Fprivacy-policy.asp&amp;width=793&amp;xid=https%253A%252F%252Fweb.archive.org%252Fweb%252F20150416033225id_%252Fhttp%25253A%252F%252Fwww.astrosage.com%252Fprivacy-policy.asp" style="border: none; overflow: hidden; height: 100px; width: 793px;"></iframe></span></div>   
+ <div class="fb-comments fb_iframe_widget_loader fb_iframe_widget fb_hide_iframes" data-num-posts="2" data-width="793" fb-xfbml-state="rendered"><span style="height: 100px; width: 793px;"><iframe id="f254af576c34304" name="f26ad0292870e5" scrolling="no" title="Facebook Social Plugin" class="fb_ltr" src="https://www.facebook.com/plugins/comments.php?api_key=406949632658726&amp;channel_url=https%3A%2F%2Fs-static.ak.facebook.com%2Fconnect%2Fxd_arbiter%2F7r8gQb8MIqE.js%3Fversion%3D41%23cb%3Df1869f2ee109d64%26domain%3Dweb.archive.org%26origin%3Dhttps%253A%252F%252Fweb.archive.org%252Ff105611f3442d74%26relation%3Dparent.parent&amp;locale=en_US&amp;numposts=2&amp;sdk=joey&amp;title=Privacy%20Policy&amp;url=https%3A%2F%2Fweb.archive.org%2Fweb%2F20151208134626id_%2Fhttp%253A%2F%2Fwww.astrosage.com%2Fprivacy-policy.asp&amp;width=793&amp;xid=https%253A%252F%252Fweb.archive.org%252Fweb%252F20151208134626id_%252Fhttp%25253A%252F%252Fwww.astrosage.com%252Fprivacy-policy.asp" style="border: none; overflow: hidden; height: 100px; width: 793px;"></iframe></span></div>   
  </div>
 <div class="ui-margin-tb">
     <div class="row">
@@ -862,33 +1537,37 @@
             <div class="ui-container ui-margin-t">                  
                     <!-- tabs -->
                     <ul class="nav nav-tabs ui-custom-tabs">
-                        <li class="active"><a href="#2014" data-toggle="tab">2015</a></li>  
+                        <li class="active"><a href="#2016" data-toggle="tab">2016</a></li>  
                         <li><a href="#festival" data-toggle="tab">Festival</a></li>                                                             
                     </ul>
                     <div class="tab-content">
-                        <div class="tab-pane fade in active" id="2014">
+                        <div class="tab-pane fade in active" id="2016">
                             <div class="ui-tab-arrow-border ui-tab2-1">
                             </div>
                             <div class="ui-tab-arrow ui-tab2-1">
                             </div>
                             <div class="ui-scroll ul-li">
                                 <ul>
+     <li><a href="/2016/rashifal.asp">राशिफल 2016</a></li>
+     <li><a href="/horoscope/yearlyhoroscope.asp">Horoscope 2016</a></li>
+     <li><a href="/horoscope/yearlyastrology/">Astrology 2016</a></li>
+     <li><a href="/2016/chinesehoroscope2016.asp">Chinese Horoscope 2016</a></li>
+     <li><a href="/2016/rashibhavishya2016gujarati.asp">Rashi Bhavishya 2016 in Gujarati</a></li>
+     <li><a href="/2016/rashibhavishya2016marathi.asp">Rashi Bhavishya 2016 - Marathi Horoscope 2016</a></li>
+     <li><a href="/2016/malayalamhoroscope2016.asp">Malayalam Jathakam 2016</a></li>
+     <li><a href="/2016/kannadahoroscope216.asp">Kannada Jathaka 2016 - Kannada Horoscope 2016</a></li>
+     <li><a href="/2016/rasiphalalu2016.asp">Rasi Phalalu 2016 - Telugu Horoscope 2016</a></li>
+     <li><a href="/2016/rasipalan2016.asp">Tamil Horoscope 2016</a></li>
+
     <li><a href="/2015/newyeargreetings.asp">New Year Greetings</a></li>
     <li><a href="/wallpapers/2015wallpapers.asp">2015 Wallpaper &amp; Backgrounds</a></li>
-    <li><a href="/horoscope/yearlyhoroscope.asp">Horoscope 2015</a></li>
-    <li><a href="/horoscope/yearlyastrology/">Astrology 2015</a></li>
-    <li><a href="/2015/rashifal.asp">Rashifal 2015 (Roman)</a></li>
-    <li><a href="/2015/rashiphal.asp">राशिफल 2015</a></li>
     <li><a href="/wallpapers/2015wallpapers.asp">Free Download 2015 Wallpapers</a></li>
-    <li><a href="/2015/chinesehoroscope2015.asp">Chinese Horoscope 2015</a></li>
     <li><a href="/2015/lalkitabhoroscope2015.asp">Lal Kitab Horoscope 2015</a></li>
-    <li><a href="/2015/rasipalan2015.asp">Tamil Horoscope 2015</a></li>
-    <li><a href="/2015/kannadarashibhavishya2015.asp">Kannada Jathaka 2015 - Kannada Horoscope 2015</a></li>
-    <li><a href="/2015/gujaratirashibhavishya2015.asp">Rashi Bhavishya 2015 - Gujarati Horoscope 2015</a></li>
-    <li><a href="/2015/rashibhavishya2015marathi.asp">Rashi Bhavishya 2015 - Marathi Horoscope 2015</a></li>
-    <li><a href="/2015/rasiphalalu2015.asp">Rasi Phalalu 2015 - Telugu Horoscope 2015</a></li>
+    
+   
+    
+    
     <li><a href="/2015/urduhoroscope2015.asp">Urdu Horoscope 2015</a></li>
-    <li><a href="/2015/malayalamjathakam2015.asp">Malayalam Jathakam 2015</a></li>
     <li><a href="/2015/banglarashifal2015.asp">Bengali Horoscope 2015</a></li>
 </ul>
 
@@ -901,15 +1580,13 @@
                             </div>
                             <div class="ui-scroll ul-li">
                                 <ul>    
-    <li><a href="/festival/pongal/">Pongal 2015</a></li>
-    <li><a href="/festival/lohri/">Lohri in 2015</a></li>
-    <li><a href="/festival/makarsankranti/">Makar Sankranti 2015</a></li>
-    <li><a href="/festival/valentines-day/">Valentine's Day</a></li>
+    
+    <li><a href="/festival/karva-chauth/">Karwa Chauth 2015</a></li>
+    <li><a href="/festival/diwali/dhanteras.asp">Dhanteras 2015</a></li>
     <li><a href="/festival/diwali/">Diwali 2015</a></li>
-    <li><a href="/festival/navratri/">Navratri 2015</a></li>
-    <li><a href="/festival/shivratri/">Shivratri 2015</a></li>
-    <li><a href="/festival/holi/">Holi in 2015</a></li>   
-    <li><a href="/festival/purnima/">Poornima Celebrations</a></li>
+    <li><a href="/festival/diwali/govardhan-puja.asp">Govardhan Puja 2015</a></li>
+    <li><a href="/festival/diwali/bhai-dooj.asp">Bhaiya Dooj 2015</a></li>   
+    <li><a href="/festival/chhat-puja/">Chhath Puja 2015</a></li>
 </ul>
 
                             </div>
@@ -1123,7 +1800,14 @@
         Latest Articles</h4>
 </div>
 <div class="ui-scroll ul-li">
-    <script src="http://feeds.feedburner.com/AstrologyMagazine?format=sigpro" type="text/javascript"></script>
+     
+
+<ul> 
+   
+    <li><a href="http://yoga.astrosage.com/2015/05/4-yoga-secrets-to-be-successful.html">4 Little Yoga Secrets To Be A Success Magnet</a></li>
+    
+</ul>
+<script src="http://feeds.feedburner.com/AstrologyMagazine?format=sigpro" type="text/javascript"></script>
 <noscript>
     <p>
         Subscribe to RSS headline updates from: <a href="http://feeds.feedburner.com/AstrologyMagazine">
@@ -1289,7 +1973,7 @@
     </script>
 <div class="ui-sub-heading ui-border-top">
     <h4>
-        Free Personalized Horoscope 2015</h4>
+        Free Personalized Horoscope 2016</h4>
 </div>
 <div class="ui-margin-all">
  <form method="post" action="/free/personalized-horoscope.asp" onsubmit="return Validation1(this)">
@@ -1321,38 +2005,38 @@
 <div class="ui-margin-tb">
     <div class="ui-sub-heading ui-border-top">
     <h4>
-        2015 Reports</h4>
+        Reports</h4>
 </div>
 <div class="ui-margin-all">
     <form method="post" action="/include/i_by-astrosage-widget-services.asp" onsubmit="return Validation(this)">
     <div class="radio">
         <label>
-            <input type="radio" id="radioWidgetService1" name="radioWidgetServices" value="personalized-horoscope" checked="">
-            2015 Personalized Horoscope - $30
+            <input type="radio" id="radioWidgetService1" name="radioWidgetServices" value="2016-personalized-horoscope-new" checked="">
+            2016 Personalized Horoscope - $35
         </label>
     </div>
     <div class="radio">
         <label>
-            <input type="radio" id="radioWidgetService2" name="radioWidgetServices" value="personal-life-report">
-            2015 Personal Life Report - $25
+            <input type="radio" id="radioWidgetService2" name="radioWidgetServices" value="marriage-and-love-analysis-new2">
+            Marriage and Love Analysis
         </label>
     </div>
     <div class="radio">
         <label>
-            <input type="radio" id="radioWidgetService3" name="radioWidgetServices" value="professional-life-report">
-            2015 Professional Life Report - $25
+            <input type="radio" id="radioWidgetService3" name="radioWidgetServices" value="career-job-new2">
+            Career / Job
         </label>
     </div>
     <div class="radio">
         <label>
-            <input type="radio" id="radioWidgetService4" name="radioWidgetServices" value="love-report">
-            2015 Love Report - $25
+            <input type="radio" id="radioWidgetService4" name="radioWidgetServices" value="finance-new2">
+            Finance
         </label>
     </div>
     <div class="radio">
         <label>
-            <input type="radio" id="radioWidgetService5" name="radioWidgetServices" value="job-report">
-            2015 Job Report - $25
+            <input type="radio" id="radioWidgetService5" name="radioWidgetServices" value="health-fitness">
+            Health &amp; Fitness
         </label>
     </div>
     <div align="right" class="ui-margin-t">
@@ -1393,7 +2077,7 @@
         Like us on Facebook?</h4>
 </div>
 <div align="center" class="ui-padding-t margin-auto">
-<div class="fb-like-box fb_iframe_widget" data-href="https://www.facebook.com/astrology.horoscope" data-width="290" data-colorscheme="light" data-show-faces="true" data-header="true" data-stream="false" data-show-border="true" fb-xfbml-state="rendered" fb-iframe-plugin-query="app_id=406949632658726&amp;color_scheme=light&amp;header=true&amp;href=https%3A%2F%2Fwww.facebook.com%2Fastrology.horoscope&amp;locale=en_US&amp;sdk=joey&amp;show_border=true&amp;show_faces=true&amp;stream=false&amp;width=290"><span style="vertical-align: top; width: 0px; height: 0px; overflow: hidden;"><iframe name="f1445f00f31d34" width="290px" height="1000px" frameborder="0" allowtransparency="true" scrolling="no" title="fb:like_box Facebook Social Plugin" src="https://www.facebook.com/plugins/like_box.php?app_id=406949632658726&amp;channel=https%3A%2F%2Fs-static.ak.facebook.com%2Fconnect%2Fxd_arbiter%2F7r8gQb8MIqE.js%3Fversion%3D41%23cb%3Df383f620e49003c%26domain%3Dweb.archive.org%26origin%3Dhttps%253A%252F%252Fweb.archive.org%252Ff304cfe5d39c04c%26relation%3Dparent.parent&amp;color_scheme=light&amp;header=true&amp;href=https%3A%2F%2Fwww.facebook.com%2Fastrology.horoscope&amp;locale=en_US&amp;sdk=joey&amp;show_border=true&amp;show_faces=true&amp;stream=false&amp;width=290" style="border: none; visibility: visible; width: 0px; height: 0px;"></iframe></span></div>
+<div class="fb-like-box fb_iframe_widget" data-href="https://www.facebook.com/astrology.horoscope" data-width="290" data-colorscheme="light" data-show-faces="true" data-header="true" data-stream="false" data-show-border="true" fb-xfbml-state="rendered" fb-iframe-plugin-query="app_id=406949632658726&amp;color_scheme=light&amp;header=true&amp;href=https%3A%2F%2Fwww.facebook.com%2Fastrology.horoscope&amp;locale=en_US&amp;sdk=joey&amp;show_border=true&amp;show_faces=true&amp;stream=false&amp;width=290"><span style="vertical-align: top; width: 0px; height: 0px; overflow: hidden;"><iframe name="f16797c572398" width="290px" height="1000px" frameborder="0" allowtransparency="true" scrolling="no" title="fb:like_box Facebook Social Plugin" src="https://www.facebook.com/plugins/like_box.php?app_id=406949632658726&amp;channel=https%3A%2F%2Fs-static.ak.facebook.com%2Fconnect%2Fxd_arbiter%2F7r8gQb8MIqE.js%3Fversion%3D41%23cb%3Df66d5f2f42a14c%26domain%3Dweb.archive.org%26origin%3Dhttps%253A%252F%252Fweb.archive.org%252Ff105611f3442d74%26relation%3Dparent.parent&amp;color_scheme=light&amp;header=true&amp;href=https%3A%2F%2Fwww.facebook.com%2Fastrology.horoscope&amp;locale=en_US&amp;sdk=joey&amp;show_border=true&amp;show_faces=true&amp;stream=false&amp;width=290" style="border: none; visibility: visible; width: 0px; height: 0px;"></iframe></span></div>
 </div>
 
 </div>
@@ -1409,10 +2093,9 @@
  | <a href="http://www.astrosage.com/moonSign.asp" title="Free Moon Sign Horoscope">Moon Sign Horoscope</a>
  | <a href="http://www.astrosage.com/kpastrology/" title="KP Astrology/ KP System/ Krishnamurti Paddhati">KP Astrology</a>
  | <a href="http://www.astrosage.com/lalkitab/" title="Lal Kitab / Red Book">Lal Kitab</a>
- | <a href="/horoscope/yearlyhoroscope.asp" title="2014 Horoscope">Horoscope 2015</a> 
+ | <a href="/horoscope/yearlyhoroscope.asp" title="2016 Horoscope">Horoscope 2016</a> 
  | <a href="/astrology/" title="2015 Astrology">Astrology Tools</a>
- | <a href="/2015/rashifal.asp" title="2014 Rashifal">Rashifal 2015</a> 
- | <a href="/2015/rashiphal.asp" title="राशिफल 2015">राशिफल 2015</a>
+ | <a href="/2016/rashifal.asp" title="राशिफल 2016">राशिफल 2016</a>
  | <a href="/feedback.asp" title="feedback">Feedback</a>
  | <a href="/article/article.asp" title="Submit Article">Submit Article</a>
  | <a href="/contactUs.asp" title="Submit Article">Contact Us</a>
@@ -1427,19 +2110,19 @@
 
 
 <div class="ui-footer-menulink">
-   <a href="/horoscope/yearlyhoroscope.asp">Horoscope 2015</a> 
- : <a href="/horoscope/yearlyarieshoroscope.asp">Aries Horoscope 2015</a> 
- | <a href="/horoscope/yearlytaurushoroscope.asp">Taurus Horoscope 2015</a> 
- | <a href="/horoscope/yearlygeminihoroscope.asp">Gemini Horoscope 2015</a> 
- | <a href="/horoscope/yearlycancerhoroscope.asp">Cancer Horoscope 2015</a> 
- | <a href="/horoscope/yearlyleohoroscope.asp">Leo Horoscope 2015</a> 
- | <a href="/horoscope/yearlyvirgohoroscope.asp">Virgo Horoscope 2015</a> 
- | <a href="/horoscope/yearlylibrahoroscope.asp">Libra Horoscope 2015</a> 
- | <a href="/horoscope/yearlyscorpiohoroscope.asp">Scorpio Horoscope 2015</a> 
- | <a href="/horoscope/yearlysagittariushoroscope.asp">Sagittarius Horoscope 2015</a> 
- | <a href="/horoscope/yearlycapricornhoroscope.asp">Capricorn Horoscope 2015</a> 
- | <a href="/horoscope/yearlyaquariushoroscope.asp">Aquarius Horoscope 2015</a> 
- | <a href="/horoscope/yearlypisceshoroscope.asp">Pisces Horoscope 2015</a>  
+   <a href="/horoscope/yearlyhoroscope.asp">Horoscope 2016</a> 
+ : <a href="/horoscope/yearlyarieshoroscope.asp">Aries Horoscope 2016</a> 
+ | <a href="/horoscope/yearlytaurushoroscope.asp">Taurus Horoscope 2016</a> 
+ | <a href="/horoscope/yearlygeminihoroscope.asp">Gemini Horoscope 2016</a> 
+ | <a href="/horoscope/yearlycancerhoroscope.asp">Cancer Horoscope 2016</a> 
+ | <a href="/horoscope/yearlyleohoroscope.asp">Leo Horoscope 2016</a> 
+ | <a href="/horoscope/yearlyvirgohoroscope.asp">Virgo Horoscope 2016</a> 
+ | <a href="/horoscope/yearlylibrahoroscope.asp">Libra Horoscope 2016</a> 
+ | <a href="/horoscope/yearlyscorpiohoroscope.asp">Scorpio Horoscope 2016</a> 
+ | <a href="/horoscope/yearlysagittariushoroscope.asp">Sagittarius Horoscope 2016</a> 
+ | <a href="/horoscope/yearlycapricornhoroscope.asp">Capricorn Horoscope 2016</a> 
+ | <a href="/horoscope/yearlyaquariushoroscope.asp">Aquarius Horoscope 2016</a> 
+ | <a href="/horoscope/yearlypisceshoroscope.asp">Pisces Horoscope 2016</a>  
   <div class="ui-clear"></div>
 </div>
 <div class="ui-copyright ui-clear">
