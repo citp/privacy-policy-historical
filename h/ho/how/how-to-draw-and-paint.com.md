@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the how-to-draw-and-paint.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607160045id_/http%3A//www.how-to-draw-and-paint.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the how-to-draw-and-paint.com privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208213541id_/http%3A//www.how-to-draw-and-paint.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -62,23 +62,23 @@ If you do not agree to How-To-Draw-And-Paint.Com Privacy Policy as posted here o
 The Number 1 Secret to Improving Your Artwork  
 
 
-[Acrylics Edition](http://ebook.arttutor.com/acrylics-at/ "Acrylics Edition")
+[Acrylics Edition](http://ebook.arttutor.com/acrylics-at/)
 
 | 
 
-[Col. Pencil Edition](http://ebook.arttutor.com/colourpencils-at "Col. Pencil Edition")
+[Col. Pencil Edition](http://ebook.arttutor.com/colourpencils-at)
 
 | 
 
-[Oils Edition](http://ebook.arttutor.com/oils-at/ "Oils      Edition")
+[Oils Edition](http://ebook.arttutor.com/oils-at/)
 
 | 
 
-[Pastels Edition](http://ebook.arttutor.com/pastels-at/ "Pastels Edition")
+[Pastels Edition](http://ebook.arttutor.com/pastels-at/)
 
 | 
 
-[Watercolour Ediiton](http://ebook.arttutor.com/watercolours-at/ "Watercolour Ediiton")  
+[Watercolour Ediiton](http://ebook.arttutor.com/watercolours-at/)  
   
 ---|---|---|---|---  
   
