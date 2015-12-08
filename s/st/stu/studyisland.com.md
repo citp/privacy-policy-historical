@@ -1,87 +1,130 @@
-> *The following text is extracted and transformed from the studyisland.com privacy policy that was archived on 2015-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150531122113id_/http%3A//www.edmentum.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the studyisland.com privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208172614id_/http%3A//www.edmentum.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Edmentum
 
-### Privacy Policy for Edmentum’s Internet-Delivered Products
+## Online Privacy Policy
 
-Edmentum is committed to protecting your privacy; this policy explains our collection of and use of your personally identifiable information. You should always check the privacy policy of each web site you visit.
+### **Edmentum Online Privacy Policy (hereinafter referred to as our “Privacy Notice” or “Notice”)**
 
-### Policy for Children Under 18
+Effective Date: July 31, 2015
 
-Our learning services for children are provided solely by subscription to schools, school districts, and other educational entities. Edmentum’s services are not available to children under age 18 except when they are enrolled for access as an authorized user by a teacher or other school administrator who has been authorized to do so by the child’s parent or guardian. Children under 18 years of age are expressly prohibited from directly registering for any of our services. Edmentum does not use any information about children under 18 years of age for any marketing or promotional purposes whatsoever, either inside or outside Edmentum. We do not provide any personally identifiable information about children, regardless of its source, to any unrelated third parties, except as expressly provided by this Privacy Policy.
+Edmentum Inc. (“Edmentum,” “we,” “us,” and “our”) owns and operates this website. This Notice describes our commitment to privacy and reflects the importance we place on earning and keeping your trust.
 
-### Your Consent
+If you have any questions about this Notice or our privacy practices, please contact us by e-mail at [info@edmentum.com](mailto:info@edmentum.com), by phone at 800-447-5286, or by mail at Edmentum, 5600 West 83rd Street, Suite 300 8200 Tower, Bloomington, MN 55437.
 
-By using Edmentum’s Internet-based products and/or by browsing or navigating Edmentum web sites you accept, and agree to be bound by, the terms of this privacy policy. Collection, use, and disclosure of personally identifiable information is governed in accordance with the terms stated in this policy.
+### **Scope of This Notice**
 
-### Information Tracking
+This Notice applies to the information we collect from or about individuals through the publicly available portions of Edmentum.com (this “Site”). It does not apply to information we collect through other channels, such as over the phone or in person. It also does not apply to information we collect from or about students through our Online Learning Programs licensed by our customers, which can be accessed through this Site only with a login and password. To understand our data privacy/security practices with regard to our Online Learning programs licensed by our customers, click [here](https://www.edmentum.com/privacy) to review Edmentum’s Online Customer Privacy Policy. 
 
-In certain instances when using Edmentum’s Internet-based products, users may be asked to enter a first and last name and grade level. We use this personal information only for the purpose specified at the time you input such information, including for access identity safeguards and other security purposes. Edmentum will not collect any information without the user’s express consent. Some usage of the web sites and services is tracked for verification purposes. For example, when a student completes an assigned learning activity, that information will be available to the teacher or administrator who assigned the activity.
+Some of the information we collect through this Site may be “personal information”—information that identifies you personally, alone or in combination with other information available to us. Other information may be nonpersonally identifiable, such as your IP address.
 
-Edmentum uses a software technology called “cookies” to create a personalized web experience. The use of cookies is common in the Internet industry; you’ll find them at many sites. A cookie is simply a Hyper Text Transfer Protocol (HTTP) header that consists of a text-only string that is entered into the memory of a browser. This string contains the domain, path, lifetime, and value of a variable that a web site sets. If the lifetime of this variable is longer than the time the user spends at that site, then this string is saved to file for future reference. Cookies remember your Plato Learning Environment™ or Plato® Web Learning Network domain upon returning to the site. We do not use cookies to retrieve any other type of information from our users. Please note: Your browser must be set to accept cookies to use Edmentum’s subscription–based web sites and services.
+We have provided this Notice so that you will know what information we collect, how we use this information, the types of third parties with whom we may share this information, and some of the choices that are available to you.
 
-We do track certain information, such as courseware and site usage. These data are used to analyze trends and/or internal statistical purposes only. No personal information is stored or used in any way as a result of this tracking, nor is this information disseminated to any third parties.
+### **Your Consent**
 
-An Internet Protocol (IP) address is a number automatically assigned to your computer whenever you use the World Wide Web. Web servers—the computers that “serve up” web pages—automatically identify your computer by its IP address. Edmentum collects IP addresses for system administration and also to compile aggregate information and audit the use of our site. The Edmentum web site logs IP addresses and browser types for systems administration purposes. These logs will be analyzed to improve the value of the materials available on the web site. A user’s session will be tracked, but the user will be anonymous.
+Please take a few minutes to review this Notice before using this Site. By using this Site you are consenting to the collection, use, and disclosure of your information as set forth in this Notice. If you do not agree to be bound by this Notice, you may not access or use this Site.
 
-We do not link IP addresses to any personally identifiable information. We can and will use IP addresses to identify a user when we feel it is necessary to enforce compliance with our rules or terms of service or to protect our service, site, customers, or others.
+#### **This Notice is Part of Our Terms of Use**
 
-### Security Measures
+This Notice is part of the [Terms of Use](https://www.edmentum.com/terms-of-use) that govern your use of this Site. A link to our Terms of Use is also provided at the bottom of this Site.
 
-The importance of security for all personally identifiable information is of utmost concern to us. We exercise great care in providing secure storage of your information on private network servers not available by direct web addresses. All user information and coursework data are encoded and transmitted through session keys to insure that no one other than Edmentum Learning can read the transmitted information. Please note: Edmentum web sites and services are password-protected, subscription-only products. Subscribers may provide certain personally identifying information about students to enroll them as individual authorized users. This information includes name, grade level, class assignment, and other identifying information that subscriber’s may deem necessary to enable the assessment, assignment, and/or reporting features of the Edmentum Learning classroom product(s) used. Information provided by authorized users is not available to the general public on the Internet. Edmentum Learning sites and services are password-protected so that only authorized users are permitted to access them or view the member information relevant to the accounts. We strongly recommend that you do not divulge your password to anyone. We have systems in place to provide secure transmission of your information from your computer to our servers. Only certain authorized Edmentum employees can access this information if it is relevant to their job duties. Edmentum Learning has staff dedicated to maintaining this Privacy Policy and other privacy initiatives, periodically reviewing web security and making sure that Edmentum employees are aware of and comply with our security and privacy practices.
+#### **Your Choices**
 
-Edmentum periodically conducts security audits to make sure we are doing everything possible to secure this data. Unfortunately, no data transmission over the Internet can be guaranteed to be 100 percent secure. As a result, while we strive to protect your personal information, Edmentum can’t guarantee or warrant the security of any information you transmit to us or from our online products or services, and you do so at your own risk. Once we receive your transmission, we use our best efforts and employ state-of-the-art technology to ensure its security on our systems, including firewalls and secure sockets layer.
+_In General._ We respect your right to make choices about the ways we collect, use, and disclose the information you provide on or through this Site. We strive to provide choices to you at a meaningful time and in a meaningful place. This Notice describes some of your other choices, such as your choice to opt out of receiving “cookies.”
 
-### Use of Your Personally Identifiable Information
+_Do Not Track Mechanisms_. Your browser may deliver a “Do-Not-Track (‘DNT’) signal” to this Site. Because of the changing state of technology and indecision within the technology and marketing industries regarding the meaning of DNT signals, we currently do not make any guarantee that we will honor DNT signals.
 
-In certain cases you may choose to give us personally identifiable information about yourself, such as your name, name of school, grade level, and e-mail address in response to specific requests. This information is never passed to third parties. Only user IDs may be passed to Edmentum Learning’s vendors, suppliers, or subcontractors (“Contractors”) in order to seamlessly integrate their product(s) with the Plato Learning Environment, Plato Learning Network, or other Edmentum Internet-based products. Edmentum enters into contracts with such Contractors which contain confidentiality and non-disclosure provisions requiring that such Contractors maintain the confidentiality of any personally identifiable information which may be disclosed by Edmentum to the Contractor in order to utilize such Contractor’s product, and the Contractor promises not to disclose such information to any other party.
+_Previously Expressed Preferences._ You may change previously expressed preferences regarding how we use information you provide on or through this Site. For example, if you have provided your contact information and receive periodic emails from us, you may decide to stop receiving those emails by clicking the “unsubscribe” link in an email’s footer. You may be able to change other preferences through an account you create on this Site to the extent that we provide that option to our visitors. Otherwise, please contact us using the information provided above.
 
-Edmentum is not responsible for any actions or policies of such third parties to whom you may voluntarily provide personally identifiable information, and you should check the applicable privacy policy of such party when providing personally identifiable information to them. Personally identifiable information retained by Edmentum will be used only for internal purposes such as ensuring web site access security and tracking site and courseware usage.
+### **This Notice May Change**
 
-We do not allow children under 13 to provide any direct personally identifiable information (for example, name, address, or school information); all such information will be collected solely from teachers and/or administrators. Such personal information provided by teachers and/or parents will be available only to the teacher and administrator, the student, and the student’s parent or guardian.
+This Notice describes our current policies and practices with regard to the information we collect through this Site.
 
-We use log-in information to identify you as an authorized user and ensure that you can see and use those areas of our web sites that are appropriate for you. For example, student users cannot access those areas of the Edmentum web sites which are intended solely for their teachers or administrators. Exceptions to this privacy protection practices described above would only occur if Edmentum is sold to a third party or it is declared bankrupt or insolvent. In those instances, use of the user’s personally identifiable information will be determined by a court, other governing body, or the acquiring entity.
+We are continually improving and adding to the features and functionality of this Site and the services we offer through this Site. As a result of these changes (or changes in the law), we may need to update or revise this Notice. Accordingly, we reserve the right to update or modify this Notice at any time, without prior notice, by posting the revised version of this Notice behind the link marked “Online Privacy Policy” at the bottom of each page of this Site.
 
-### Request for Records/Deletion & Edit Procedure
+Your continued use of this Site after we have posted the revised Notice constitutes your agreement to be bound by the revised Notice. However, we will honor the terms that were in effect when we gathered information from you. You may access the current version of this Notice at any time by clicking the link marked “Online Privacy Policy” at the bottom of each page of this Site.
 
-For parents of children who access and use the services of our web sites by means of a license for such use purchased by your child’s school, in order to obtain a copy of your child’s student record in relation to such access and use, you must refer such requests directly to your child’s school. If a user wishes to be deleted from the system or have data previously entered into the system deleted or edited, this can only be done by submitting such a request to your school or institution’s teacher or administrator.
+### **Types of Information We Collect**
 
-### About Children Under 13
+_Information You Manually Provide_. We collect the information you manually provide (using your keyboard, mouse, or touchscreen) when you use this Site. For example, we collect the information you provide when you complete a contact form, reach out to us with questions, or otherwise interact with this Site.  Some of the information you manually provide may be personal information, such as your name and contact information.
 
-Edmentum encourages parental involvement, and requires parental consent before students under the age of 13 use these web products. Parents should provide verifiable consent by filling out a parental consent form provided by your child’s school, and returning it to your child’s teacher, school, or institution, who will then verify that written parental consent has been obtained. The signature on which will represent your agreement that your child under age 13 is authorized by you to access Edmentum online educational products and services. This consent is required by federal statute; Edmentum is precluded from providing access to our online educational products and services to your child under age 13 without this consent being first obtained.
+_Information from your browser or device._ We collect information that is sent to us automatically by your web browser and/or mobile device. This information typically includes your IP address, the name of your operating system, the name and version of your browser, the date and time of your visit, and the pages you visit. The information we receive may depend on your browser or device settings.
 
-### Links to Other Web Sites
+The information we receive from your web browser and device is not, in and of itself, personally identifiable. Generally, we use this information in the aggregate to help us improve this Site and make it more compatible with the technology used by our visitors. However, we may combine it with other information in an attempt to identify you or we may combine it with information that does identify you.
 
-This and other Edmentum web sites contain links to other third party web sites. Edmentum is not responsible for the content or privacy policies of these sites. Such third party web sites are independently owned, controlled, and/or managed web sites whose content we believe will be of possible interest and value to our subscribers. These other sites may send you their own cookies, collect data, or solicit personal information. While we let you know when you are visiting a site outside of the Edmentum web site, we do not control the cookies or the content of third-party sites. Once you leave our servers, the use of any information you provide is governed by the privacy policy of the operator of the site you’re visiting. That policy may differ from ours. If you cannot find the privacy policy of any of these sites via a link from that site’s home page, you should contact the site directly for more information before providing that site with any personally identifying information. We specifically recommend that children check with their parents or teachers before clicking links to any new sites.
+_Information Collected by Cookies and Other Technologies_. We use “cookies,” web beacons, and other technologies to collect information. For example, we may use these technologies to collect information about the ways visitors use this Site—which pages they visit, which links they use, and how long they stay on each page. We also use these technologies to support certain features of this Site. For example, we use these technologies to personalize your experience when you use this Site and to save you the trouble of reentering information already in our database or to prompt the settings you established on previous visits.
 
-### **Edmentum Assurances Related to the Family Educational Rights Privacy Act**
+The information we collect using cookies and similar technologies is not, in and of itself, personally identifiable, but we may link it to personal information that you provide. If you do not wish to receive cookies, you may set your browser to reject cookies or to alert you when a cookie is placed on your computer. Although you are not required to accept cookies when you visit this Site, you may be unable to use all of the functionality of this Site if your browser rejects our cookies.
 
-Edmentum understands that many of its agency and institutional clients are subject to the Family Educational Rights Privacy Act (“FERPA”) and provides this statement of its data protection practices to provide assurance to those clients.
+### **How We Use Personal Information Collected Through** **This Site**
 
-To the extent Edmentum receives from its clients education records (as that term is defined by FERPA), Edmentum notes that the client chooses what information to provide to Edmentum and also configures who—e.g., employees, students, parents—has access to that information via the Edmentum product/system. In addition, Edmentum offers the following assurances:
+Generally, we use the information we collect through this Site:
 
-  * Edmentum provides reasonable security for the education records (and the personally identifiable information contained therein) and only those Edmentum employees and agents with a “need to know” have access to the education records.
-  * Edmentum does not use education records for any purpose other than the purposes for which the information was provided to Edmentum or in attempting to enhance the usability or efficacy of our products, services and systems.
-  * Edmentum does not disclose education records to third parties, other than its agents and service providers, except at the direction of the client who provided the education records to Edmentum.  Edmentum’s agents and service providers use the education records only to perform services on Edmentum’s behalf.
-  * Edmentum will consider destroying education records upon the written request of the client who provided the education records.  There are various circumstances when Edmentum may deny the request, including (but not limited to) when Edmentum believes that applicable law or court order requires it to retain the education records, when Edmentum believes that retention of the education records is necessary to protect its rights, or when the request extends to backed-up, electronically stored education records, the destruction of which would be unreasonably burdensome.
+  * to provide the information, products and services you request;
+  * to provide you with effective customer service;
+  * to provide you with a personalized experience when you use this Site;
+  * to contact you with information and notices related to your use of this Site;
+  * to contact you with special offers and other information we believe will be of interest to you (in accordance with any privacy preferences you have expressed to us);
+  * to invite you to participate in surveys and provide Feedback to us (in accordance with any privacy preferences you have expressed to us);
+  * to improve the content, functionality and usability of this Site;
+  * to better understand your needs and interests;
+  * to improve our products and services;
+  * to improve our marketing and promotional efforts;
+  * for security, credit or fraud prevention purposes; and
+  * for any other purpose identified in any other applicable agreement between you and us.
 
 
 
-If you have additional questions about Edmentum’s data protection practices as they relate to education records received from its clients, please contact Customer Support at [support@edmentum.com](mailto:support@edmentum.com).
+### **Information About Third-Party Cookies**
 
-### Changes to This Privacy Policy
+In addition to the cookies we deliver to your computer or mobile device through this Site, certain third parties may deliver cookies to you for a variety of reasons. For example, we use Google Analytics, a web analytics tool that helps us understand how visitors engage with our Sites. To learn more about Google Analytics, [click here.](http://www.google.com/intl/en/analytics/privacyoverview.html)
 
-If this privacy policy changes, the revised policy will be posted on this site. Since this policy may change from time to time, please periodically refer to it. This privacy policy was last updated on April 2, 2014.
+Other third parties may deliver cookies to your computer or mobile device for the purpose of tracking your online behaviors over time and across nonaffiliated websites and/or delivering targeted advertisements either on this Site or on other websites.
 
-### Contact Information
+You have choices about the collection of information by third parties on our Sites. For example, if you don’t want information about your visit to this Site sent to Google Analytics, you may download an Opt-out Browser Add-on by [clicking here.](http://tools.google.com/dlpage/gaoptout?hl=en) Please note that the Add-on does not prevent information from being sent to us.
 
-Please contact us at [privacy@edmentum.com](mailto:privacy@Edmentum.com) if you have any questions or comments about our privacy policy. You can also contact us by general mail or phone listed below. General comments about our web site can be directed to [info@edmentum.com](mailto:info@edmentum.com).
+In addition, if you would like to opt-out of having interest-based information collected by certain entities during your visits to this Site or other websites, please [click here.](http://www.aboutads.info/choices) You will be directed to an industry-developed website that contains mechanisms for choosing whether each listed entity may collect and use data for online behavioral advertising purposes. It may be that some of the third parties that collect interest-based information on this Site do not participate in the industry-developed opt-out website, in which case the best way to avoid third-party tracking of your online behaviors may be through your browser settings and deletion of cookies.
 
-**General Mail**  
-Edmentum  
-5600 W 83rd Street, Suite 300   
-8200 Tower   
-Bloomington, Minnesota, 55437
+### **How to Access, Update or Correct Your Information**
 
-**Toll-Free Number**  
-800.447.5286
+If you have created an account on this Site, you may be able to access, update or correct your information through your account settings. Otherwise, you may need our help.  Please contact us using the information provided above. We will respond to you within a reasonable time and, in any case, within the time limits established by applicable law.  We may ask you for additional information to verify your identity.  In most cases, we will provide access and correct or delete any inaccurate information you discover.  In some cases, however, we may limit or deny your request if the law permits or requires us to do so or if we are unable to verify your identify. 
+
+### **Steps We Take to Safeguard your Personal Information**
+
+We maintain reasonable administrative, physical and technological measures to protect the confidentiality and security of information you submit on or through this Site. Unfortunately, no website, server or database is completely secure or “hacker proof.” We therefore cannot guarantee that your information will not be disclosed, misused or lost by accident or by the unauthorized acts of others.
+
+### **How We Share Your Information**
+
+_With Third–Party Vendors_. We may share information collected through this Site with third-party vendors who act for us or on our behalf. For example, we use third-party vendors to design and operate this Site; to conduct surveys; and to help us with our promotional efforts. These third-party vendors may need information about you to perform their functions.
+
+_With Our Affiliates._ We may share the information collected through this Site with our affiliate companies. These affiliate companies are permitted to use your information for their own marketing purposes and in a manner otherwise consistent with this Notice. However, before sharing your information in this fashion, we may offer you the opportunity to “opt out” or “opt in,” to the extent required by applicable law.
+
+_With Other_ , _Carefully Selected Business Partners_. From time to time, we may share your information with selected third parties for their own marketing purposes. For example, we may partner with third parties to sponsor contests or other promotions, and we may share with these third parties the information you submit to us to participate in the contest or take advantage of the promotion. Before doing so, however, we may offer you the opportunity to “opt out” or “opt in,” to the extent required by applicable law.
+
+_In Aggregate or De-identified Form._ We use information collected through this Site to create a compiled, aggregate view of usage patterns. We may share aggregate information with third parties so they can better understand our user base. We may also share with third parties information about how particular individuals use this Site, but only when the data has been de-identified cannon reasonably be re-identified. (“Individualized Data”). Individualized Data is not personally identifiable, but it does reflect the usage patterns of a particular Site user, as opposed to Site users collectively. We may provide basic demographic information (gender and age) in conjunction with providing Individualized Data. Third parties typically use this information for analytical purposes and to market their own products and services.
+
+_As Part of a Business Transfers_. Your information may be transferred to successor organization if, for example, we transfer the ownership or operation of this Site to another organization or if we merge with or are acquired by another organization, or if we liquidate our assets and sell them individually. If such a transfer occurs, the successor organization’s use of your information will still be subject to this Notice and the privacy preferences you have expressed to us.
+
+_To Comply with Laws and Protect Our Rights and the Rights of Others_. We may disclose your information when we, in good faith, believe disclosure is appropriate to comply with the law, a court order or a subpoena. We may also disclose your information to prevent or investigate a possible crime, such as fraud or identity theft; to protect the security of this Site; to enforce or apply our online [Terms of Use](https://www.edmentum.com/terms-of-use) or other agreements; or to protect our own rights or property or the rights, property or safety of our users or others.
+
+_As Described in any other Applicable Notice_. We reserve the right to disclose your information as described in any privacy notice posted on a page of this Site where you provide that information. By providing your information on that page you will be consenting to the disclosure of your information as described in that privacy notice.
+
+_As Described in a Click–Through Agreement_. We reserve the right to disclose your information as described in any click–through agreement to which you have agreed.
+
+### **Children Under the Age of Thirteen**
+
+We are proud of this Site and we strive to ensure that it does not offend people of any age. However, this Site is not intended for children or minors under the age of thirteen years without the permission of a parent or guardian. If you believe that a child has submitted personal information on or through this Site without the consent and supervision of a parent or guardian, please contact us using the information provided above so that we can take appropriate action.
+
+### **Links to Other Sites**
+
+This Site may contain links to websites operated by other organizations, including websites operated by our third-party service providers and other third parties. This Notice does not apply to information collected on any of these third-party websites.  When you access third-party websites through a link on this Site, please take a few minutes to review the privacy notice posted on that site.
+
+### **This Site Is Owned by U.S. Corporation that is Certified to the US-EU Safe Harbor**
+
+Edmentum Inc. is a U.S. corporation. The servers that support this Site may be located in the United States or elsewhere. While it is in our possession, your information may be stored in databases maintained by us or our third-party service providers on servers and data storage devices located in the United States or elsewhere. Data protection laws vary by country; however, we will process your information in accordance with this Notice no matter where our data is stored. If you are located in a country outside the United States, by using this Site you consent to the transfer of your information to the United States or to anywhere in the world we decide, in our sole discretion, to store data.
+
+Edmentum complies with the US-EU Safe Harbor framework for the collection, use and retention of information that is transferred from the European Economic Area to Edmentum in the United States and that relates to an identified or identifiable individual, as set out by the Department of Commerce. To view our certification, visit the [Safe Harbor website](https://safeharbor.export.gov/list.aspx). To read our Safe Harbor privacy policy, click [here](http://www.edmentum.com/sites/edmentum.com/safe).
+
+### **Governing Law**
+
+This Notice shall be governed under the laws of the State of Minnesota United States of America without regard to its conflicts of law provisions. 
