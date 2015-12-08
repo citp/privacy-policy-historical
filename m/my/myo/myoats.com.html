@@ -1,13 +1,24 @@
-<!--The following is the downloaded HTML source of the myoats.com privacy policy that was archived on 2015-06-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150610000448id_/http%3A//www.myoats.com/privacy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the myoats.com privacy policy that was archived on 2015-12-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151208174210id_/http%3A//www.myoats.com/privacy.aspx) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head id="ctl00_Head1">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head id="ctl00_Head1"><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=0">
+    <link rel="stylesheet" href="css/main.min.css">
     <link href="roundedimages/style.css" rel="stylesheet" type="text/css">
     <link href="css/styleTest.css" rel="stylesheet" type="text/css">
+    <link media="all" rel="stylesheet" href="css/jcf.css">
+    <link rel="stylesheet" href="css/jquery.tooltip.css">
+    <!--
+    <link href="css/tooltipster.css" rel="stylesheet" type="text/css" />
+    -->
     <link rel="shortcut icon" href="favicon.ico">
     <meta name="keywords" content="myoats.com, myoats, create, addictive, Spirograph, fractal, pattern, snowflake, illustration, mandala, kaleidoscope, ilike, drawing, most liked, glow, design, logo, fun, tool, boredom"><meta name="description" content="Myoats is a community where people create designs using an online drawing application. These designs can be rated, downloaded, and archived. The Most Liked designs are rewarded by being featured on the home page.">
+    
+    <script src="https://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js" type="text/javascript" async=""></script><script src="scripts/lib/jquery-1.11.2.min.js" type="text/javascript"></script>
+    <script src="http://code.jquery.com/jquery-migrate-1.0.0.js"></script>
+    <!--
+    <script src="scripts/jquery.tooltipster.min.js" type="text/javascript"></script>
+    -->
     <!-- Start of Google Analytics Code -->
-
     <script type="text/javascript">
     var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
     document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
@@ -22,16 +33,28 @@
     <!-- End of Google Analytics Code -->
 
     <script type="text/javascript" src="scripts/AC_RunActiveContent.js"></script>
-
-    <link rel="stylesheet" href="css/jquery.tooltip.css">
-
-    <script src="scripts/lib/jquery.js" type="text/javascript"></script>
-
     <script src="scripts/lib/jquery.bgiframe.js" type="text/javascript"></script>
-
     <script src="scripts/lib/jquery.dimensions.js" type="text/javascript"></script>
-
     <script src="scripts/jquery.tooltip.js" type="text/javascript"></script>
+    <script src="scripts/jcf.js" type="text/javascript"></script>
+    <script src="scripts/jcf.select.js" type="text/javascript"></script>
+    <script src="scripts/jcf.radio.js" type="text/javascript"></script>
+    <script src="scripts/jcf.checkbox.js" type="text/javascript"></script>
+
+    <script type="text/javascript">
+		  WebFontConfig = {
+		    google: { families: [ 'Nunito:30:latin','Roboto+Condensed:700,300,400:latin' ] }
+		  };
+		  (function() {
+		    var wf = document.createElement('script');
+		    wf.src = ('https:' == document.location.protocol ? 'https' : 'http') +
+		      '://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js';
+		    wf.type = 'text/javascript';
+		    wf.async = 'true';
+		    var s = document.getElementsByTagName('script')[0];
+		    s.parentNode.insertBefore(wf, s);
+		  })();
+	 </script>
 
     <script language="JavaScript" type="text/javascript">
 	
@@ -49,75 +72,79 @@
     //the flash call this funtion to change menu
     var browser=navigator.appName;
 
-    function ChangeMenu() {
-        var linkbtn=document.getElementById('ctl00_LoginLinkButton');
-        linkbtn.innerHTML ='LOGOUT';
-        var joinbtn=document.getElementById('ctl00_JoinLink');
-        joinbtn.innerHTML ='MY ACCOUNT';
-        joinbtn.href='account/mydesigns.aspx';
-    }
+   
     $(function() {
-        $('.tooltipshowleft').tooltip({ 
-            track: true,
-            delay: 0, 
-            showURL: false, 
-            top: 30,
-            left:30,
-            fade:300,
-            bodyHandler: function() { 
-                return $("<img/>").attr("src", this.src.replace("_s","_m").replace("s=0","s=1"));
-            } 
-        });
-        $('.tooltipshow').tooltip({ 
-            track: true,
-            delay: 0, 
-            showURL: false, 
-            top: 30,
-            left:-300,
-            fade:300,
-            bodyHandler: function() { 
-                return $("<img/>").attr("src", this.src.replace("_s","_m").replace("s=0","s=1"));
-            } 
-        });
-        $('.tooltipshowright').tooltip({ 
-            track: true,
-            delay: 0, 
-            showURL: false, 
-            top: 30,
-            left:-10,
-            fade:300,
-            positionLeft: true,
-            bodyHandler: function() { 
-                return $("<img/>").attr("src", this.src.replace("_s","_m").replace("s=0","s=1"));
-            } 
-        });
-    });
-/*
-    document.body.onkeypress = function (event)
-    {
-        event = event || window.event;
-        var keyCode = event.keyCode ? event.keyCode : event.which ? event.which : event.charCode;
-        if (keyCode == 13) {
-            var loginButton=document.getElementById("ctl00_LogInButton");
-            if(loginButton!=null && loginButton.style.display!='none')
+        jcf.replaceAll();
+    /*
+        $('img').each(function(){
+            if(typeof $(this).attr("src") !="undefined")
             {
-                if(window.navigator.appVersion.indexOf('MSIE')<=0)
-                    loginButton.onclick();
-                else
-                    loginButton.click();
-                return false;
+                var repl = $(this).attr("src").replace("/WebSites","http://myoats.com");
+                $(this).attr("src", repl );
             }
-        }
-        return true;
-    }*/
+        })*/
+        /*
+        $('.tooltipshowleft').each(function(){
+            if(typeof $(this).attr("src") !="undefined")
+            {
+                var self=$(this);
+                $(this).tooltipster({
+                    positionTracker:true,
+                    delay: 0,
+                    arrow:false,
+                    offsetX:570,
+                    offsetY:-50,
+                    position:'bottom-right',
+                    content:$("<img/>").attr("src", self.attr("src").replace("/WebSites","http://myoats.com").replace("_s","_m").replace("s=0","s=1"))
+                });
+            }
+        });
+        $('.tooltipshow').each(function(){
+            if(typeof $(this).attr("src") !="undefined")
+            {
+                var self=$(this);
+                $(this).tooltipster({
+                    positionTracker:true,
+                    delay: 0,
+                    arrow:false,
+                    offsetX:0,
+                    offsetY:-50,
+                    position:'bottom',
+                    content:$("<img/>").attr("src", self.attr("src").replace("/WebSites","http://myoats.com").replace("_s","_m").replace("s=0","s=1"))
+                });
+            }
+        });
+        $('.tooltipshowright').each(function(){
+            if(typeof $(this).attr("src") !="undefined")
+            {
+                var self=$(this);
+                $(this).tooltipster({
+                    positionTracker:true,
+                    delay: 0,
+                    arrow:false,
+                    offsetX:-570,
+                    offsetY:-50,
+                    position:'bottom-left',
+                    content:$("<img/>").attr("src", self.attr("src").replace("/WebSites","http://myoats.com").replace("_s","_m").replace("s=0","s=1"))
+                });
+            }
+        });*/
+    });
+
     </script>
 
+    <!--[if lte IE 8]>
+		<link rel="stylesheet" href="css/i8.css" />
+	<![endif]-->
+    <!--[if lt IE 9]>
+	<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+	<![endif]-->
 <title>
 	Myoats - Privacy
 </title></head>
 <body>
     <form name="aspnetForm" method="post" action="privacy.aspx" id="aspnetForm">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJLTQxMjc2OTMwD2QWAmYPZBYCAgMPZBYMAgEPDxYEHghDc3NDbGFzcwUNbm90Q3VycmVudE5hdh4EXyFTQgICZGQCAg8PFgQfAAUNbm90Q3VycmVudE5hdh8BAgJkZAIDDw8WBB8ABQ1ub3RDdXJyZW50TmF2HwECAmRkAgQPZBYCZg9kFggCAw8PFgQfAAUNbm90Q3VycmVudE5hdh8BAgIWAh4Fc3R5bGUFDGRpc3BsYXk6bm9uZWQCBQ8PZBYCHwIFDGRpc3BsYXk6bm9uZWQCBw8PFgQfAAUNbm90Q3VycmVudE5hdh8BAgIWAh8CBQ5kaXNwbGF5OmlubGluZWQCCQ8PFgYeBFRleHQFBUxvZ2luHwAFDW5vdEN1cnJlbnROYXYfAQICZGQCBQ8PFgQfAAUNbm90Q3VycmVudE5hdh8BAgJkZAIID2QWAgIBDw8WAh4NUmVjZW50RGVzaWducxQpR2Rlc2lnbiwgQXBwX0NvZGUsIFZlcnNpb249MC4wLjAuMCwgQ3VsdHVyZT1uZXV0cmFsLCBQdWJsaWNLZXlUb2tlbj1udWxsCjLuAgABAAAA/////wEAAAAAAAAADAIAAAA/QXBwX0NvZGUsIFZlcnNpb249MC4wLjAuMCwgQ3VsdHVyZT1uZXV0cmFsLCBQdWJsaWNLZXlUb2tlbj1udWxsBQEAAAAGZGVzaWduEAAAAAhkZXNpZ25pZAZ1c2VyaWQIdXNlcm5hbWUFdGl0bGUMZHJhd2luZ3N0ZXBzBGdsb3cKcmVmbGVjdGlvbgdiZ2NvbG9yBXNpZGVzCWxpa2Vjb3VudA1jb21tZW50c2NvdW50B2lmSWxpa2ULaWZJZmF2b3JpdGUIaXNwdWJsaWMLY2FuZG93bmxvYWQObGFzdHVwZGF0ZXRpbWUAAAEBAQAAAQAAAAAAAAAACAgBAQgICAEBAQENAgAAABxlBwB9kQEABgMAAAAJSWFuY2hvMTIzBgQAAAAKM2QgZmlndXJlcwoBAAYFAAAABUJsYWNrAgAAAAAAAAAAAAAAAAABAYBN1gz5cNIICzLtAgABAAAA/////wEAAAAAAAAADAIAAAA/QXBwX0NvZGUsIFZlcnNpb249MC4wLjAuMCwgQ3VsdHVyZT1uZXV0cmFsLCBQdWJsaWNLZXlUb2tlbj1udWxsBQEAAAAGZGVzaWduEAAAAAhkZXNpZ25pZAZ1c2VyaWQIdXNlcm5hbWUFdGl0bGUMZHJhd2luZ3N0ZXBzBGdsb3cKcmVmbGVjdGlvbgdiZ2NvbG9yBXNpZGVzCWxpa2Vjb3VudA1jb21tZW50c2NvdW50B2lmSWxpa2ULaWZJZmF2b3JpdGUIaXNwdWJsaWMLY2FuZG93bmxvYWQObGFzdHVwZGF0ZXRpbWUAAAEBAQAAAQAAAAAAAAAACAgBAQgICAEBAQENAgAAABtlBwDCjQEABgMAAAAFT2thaW4GBAAAAA1lbW9jaW9uZXMgKDIpCgEBBgUAAAAFQmxhY2sJAAAAAAAAAAAAAAAAAAEBsC0mMPhw0ggLMvMCAAEAAAD/////AQAAAAAAAAAMAgAAAD9BcHBfQ29kZSwgVmVyc2lvbj0wLjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGwFAQAAAAZkZXNpZ24QAAAACGRlc2lnbmlkBnVzZXJpZAh1c2VybmFtZQV0aXRsZQxkcmF3aW5nc3RlcHMEZ2xvdwpyZWZsZWN0aW9uB2JnY29sb3IFc2lkZXMJbGlrZWNvdW50DWNvbW1lbnRzY291bnQHaWZJbGlrZQtpZklmYXZvcml0ZQhpc3B1YmxpYwtjYW5kb3dubG9hZA5sYXN0dXBkYXRldGltZQAAAQEBAAABAAAAAAAAAAAICAEBCAgIAQEBAQ0CAAAAGWUHACdUAQAGAwAAAAVLaXp6eQYEAAAAE0hvbGQgb24gdG8gYSBwZW5jaWwKAAEGBQAAAAVCbGFjawkAAAABAAAAAAAAAAAAAQFgVi8z9XDSCAsy7QIAAQAAAP////8BAAAAAAAAAAwCAAAAP0FwcF9Db2RlLCBWZXJzaW9uPTAuMC4wLjAsIEN1bHR1cmU9bmV1dHJhbCwgUHVibGljS2V5VG9rZW49bnVsbAUBAAAABmRlc2lnbhAAAAAIZGVzaWduaWQGdXNlcmlkCHVzZXJuYW1lBXRpdGxlDGRyYXdpbmdzdGVwcwRnbG93CnJlZmxlY3Rpb24HYmdjb2xvcgVzaWRlcwlsaWtlY291bnQNY29tbWVudHNjb3VudAdpZklsaWtlC2lmSWZhdm9yaXRlCGlzcHVibGljC2NhbmRvd25sb2FkDmxhc3R1cGRhdGV0aW1lAAABAQEAAAEAAAAAAAAAAAgIAQEICAgBAQEBDQIAAAAYZQcAh5ABAAYDAAAACVJlZG1hc3RlcgYEAAAACWJsdWUgcm9zZQoBAQYFAAAABUJsYWNrAQAAAAEAAAAAAAAAAAABAVAXJPf0cNIICzLsAgABAAAA/////wEAAAAAAAAADAIAAAA/QXBwX0NvZGUsIFZlcnNpb249MC4wLjAuMCwgQ3VsdHVyZT1uZXV0cmFsLCBQdWJsaWNLZXlUb2tlbj1udWxsBQEAAAAGZGVzaWduEAAAAAhkZXNpZ25pZAZ1c2VyaWQIdXNlcm5hbWUFdGl0bGUMZHJhd2luZ3N0ZXBzBGdsb3cKcmVmbGVjdGlvbgdiZ2NvbG9yBXNpZGVzCWxpa2Vjb3VudA1jb21tZW50c2NvdW50B2lmSWxpa2ULaWZJZmF2b3JpdGUIaXNwdWJsaWMLY2FuZG93bmxvYWQObGFzdHVwZGF0ZXRpbWUAAAEBAQAAAQAAAAAAAAAACAgBAQgICAEBAQENAgAAABVlBwBAkgEABgMAAAAIQW5hbTM4NTEGBAAAAAVibG93bgoBAQYFAAAACURhcmsgQ3lhbgcAAAAAAAAAAAAAAAAAAQEwmCDx6HDSCAsy7QIAAQAAAP////8BAAAAAAAAAAwCAAAAP0FwcF9Db2RlLCBWZXJzaW9uPTAuMC4wLjAsIEN1bHR1cmU9bmV1dHJhbCwgUHVibGljS2V5VG9rZW49bnVsbAUBAAAABmRlc2lnbhAAAAAIZGVzaWduaWQGdXNlcmlkCHVzZXJuYW1lBXRpdGxlDGRyYXdpbmdzdGVwcwRnbG93CnJlZmxlY3Rpb24HYmdjb2xvcgVzaWRlcwlsaWtlY291bnQNY29tbWVudHNjb3VudAdpZklsaWtlC2lmSWZhdm9yaXRlCGlzcHVibGljC2NhbmRvd25sb2FkDmxhc3R1cGRhdGV0aW1lAAABAQEAAAEAAAAAAAAAAAgIAQEICAgBAQEBDQIAAAASZQcAPWYBAAYDAAAAB0F0aGVuZWEGBAAAAAtNYW5kYWxhQmx1ZQoBAQYFAAAABUJsYWNrCgAAAAcAAAABAAAAAAABAWAwYiXYcNIICzLiAgABAAAA/////wEAAAAAAAAADAIAAAA/QXBwX0NvZGUsIFZlcnNpb249MC4wLjAuMCwgQ3VsdHVyZT1uZXV0cmFsLCBQdWJsaWNLZXlUb2tlbj1udWxsBQEAAAAGZGVzaWduEAAAAAhkZXNpZ25pZAZ1c2VyaWQIdXNlcm5hbWUFdGl0bGUMZHJhd2luZ3N0ZXBzBGdsb3cKcmVmbGVjdGlvbgdiZ2NvbG9yBXNpZGVzCWxpa2Vjb3VudA1jb21tZW50c2NvdW50B2lmSWxpa2ULaWZJZmF2b3JpdGUIaXNwdWJsaWMLY2FuZG93bmxvYWQObGFzdHVwZGF0ZXRpbWUAAAEBAQAAAQAAAAAAAAAACAgBAQgICAEBAQENAgAAABFlBwD/gwEABgMAAAAGRG9yaWxhBgQAAAABNQoBAQYFAAAABVdoaXRlBAAAAAEAAAAAAAAAAAABAYB2MszXcNIICzL1AgABAAAA/////wEAAAAAAAAADAIAAAA/QXBwX0NvZGUsIFZlcnNpb249MC4wLjAuMCwgQ3VsdHVyZT1uZXV0cmFsLCBQdWJsaWNLZXlUb2tlbj1udWxsBQEAAAAGZGVzaWduEAAAAAhkZXNpZ25pZAZ1c2VyaWQIdXNlcm5hbWUFdGl0bGUMZHJhd2luZ3N0ZXBzBGdsb3cKcmVmbGVjdGlvbgdiZ2NvbG9yBXNpZGVzCWxpa2Vjb3VudA1jb21tZW50c2NvdW50B2lmSWxpa2ULaWZJZmF2b3JpdGUIaXNwdWJsaWMLY2FuZG93bmxvYWQObGFzdHVwZGF0ZXRpbWUAAAEBAQAAAQAAAAAAAAAACAgBAQgICAEBAQENAgAAABBlBwAykgEABgMAAAAPV2luZHNvcnN0dWRlbnQxBgQAAAALTXJzLiBIdW1tZWwKAQEGBQAAAAVCbGFjawUAAAAAAAAAAAAAAAAAAQGwEgc81nDSCAsy7AIAAQAAAP////8BAAAAAAAAAAwCAAAAP0FwcF9Db2RlLCBWZXJzaW9uPTAuMC4wLjAsIEN1bHR1cmU9bmV1dHJhbCwgUHVibGljS2V5VG9rZW49bnVsbAUBAAAABmRlc2lnbhAAAAAIZGVzaWduaWQGdXNlcmlkCHVzZXJuYW1lBXRpdGxlDGRyYXdpbmdzdGVwcwRnbG93CnJlZmxlY3Rpb24HYmdjb2xvcgVzaWRlcwlsaWtlY291bnQNY29tbWVudHNjb3VudAdpZklsaWtlC2lmSWZhdm9yaXRlCGlzcHVibGljC2NhbmRvd25sb2FkDmxhc3R1cGRhdGV0aW1lAAABAQEAAAEAAAAAAAAAAAgIAQEICAgBAQEBDQIAAAAPZQcA3gQBAAYDAAAAAVcGBAAAABBTSVIgbiBESVAgSVQgVVMuCgAABgUAAAAFR3JlZW4QAAAAAQAAAAAAAAAAAAEBkO+7QNNw0ggLMvkCAAEAAAD/////AQAAAAAAAAAMAgAAAD9BcHBfQ29kZSwgVmVyc2lvbj0wLjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGwFAQAAAAZkZXNpZ24QAAAACGRlc2lnbmlkBnVzZXJpZAh1c2VybmFtZQV0aXRsZQxkcmF3aW5nc3RlcHMEZ2xvdwpyZWZsZWN0aW9uB2JnY29sb3IFc2lkZXMJbGlrZWNvdW50DWNvbW1lbnRzY291bnQHaWZJbGlrZQtpZklmYXZvcml0ZQhpc3B1YmxpYwtjYW5kb3dubG9hZA5sYXN0dXBkYXRldGltZQAAAQEBAAABAAAAAAAAAAAICAEBCAgIAQEBAQ0CAAAADmUHAMVwAQAGAwAAAA5TcGFya2xlc3BhcmtsZQYEAAAADFN1bW1lciBQYXJ0eQoBAQYFAAAACURhcmsgUGluawcAAAACAAAAAQAAAAAAAQFw7nSSy3DSCAtkZBgBBR5fX0NvbnRyb2xzUmVxdWlyZVBvc3RCYWNrS2V5X18WAgUQY3RsMDAkUmVtZW1iZXJNZQUOY3RsMDAkaG9tZUxpbmusAQNYGkT2u5bMFN+elYGWjZSVeg==">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJLTQxMjc2OTMwD2QWAmYPZBYCAgEPZBYCAhAPZBYCAgEPDxYCHg1SZWNlbnREZXNpZ25zFClHZGVzaWduLCBBcHBfQ29kZSwgVmVyc2lvbj0wLjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGwKMuMCAAEAAAD/////AQAAAAAAAAAMAgAAAD9BcHBfQ29kZSwgVmVyc2lvbj0wLjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGwFAQAAAAZkZXNpZ24QAAAACGRlc2lnbmlkBnVzZXJpZAh1c2VybmFtZQV0aXRsZQxkcmF3aW5nc3RlcHMEZ2xvdwpyZWZsZWN0aW9uB2JnY29sb3IFc2lkZXMJbGlrZWNvdW50DWNvbW1lbnRzY291bnQHaWZJbGlrZQtpZklmYXZvcml0ZQhpc3B1YmxpYwtjYW5kb3dubG9hZA5sYXN0dXBkYXRldGltZQAAAQEBAAABAAAAAAAAAAAICAEBCAgIAQEBAQ0CAAAADaEHAEujAQAGAwAAAAROb2hhBgQAAAAEc25vdwoAAQYFAAAABUJsYWNrDwAAAAAAAAAAAAAAAAABAfAJ7WjA/9IICzLsAgABAAAA/////wEAAAAAAAAADAIAAAA/QXBwX0NvZGUsIFZlcnNpb249MC4wLjAuMCwgQ3VsdHVyZT1uZXV0cmFsLCBQdWJsaWNLZXlUb2tlbj1udWxsBQEAAAAGZGVzaWduEAAAAAhkZXNpZ25pZAZ1c2VyaWQIdXNlcm5hbWUFdGl0bGUMZHJhd2luZ3N0ZXBzBGdsb3cKcmVmbGVjdGlvbgdiZ2NvbG9yBXNpZGVzCWxpa2Vjb3VudA1jb21tZW50c2NvdW50B2lmSWxpa2ULaWZJZmF2b3JpdGUIaXNwdWJsaWMLY2FuZG93bmxvYWQObGFzdHVwZGF0ZXRpbWUAAAEBAQAAAQAAAAAAAAAACAgBAQgICAEBAQENAgAAAAyhBwBLowEABgMAAAAETm9oYQYEAAAAD01lcnJ5IENocmlzdG1hcwoAAQYFAAAAA1JlZAoAAAAAAAAAAAAAAAAAAQHQ3dE6v//SCAsy5QIAAQAAAP////8BAAAAAAAAAAwCAAAAP0FwcF9Db2RlLCBWZXJzaW9uPTAuMC4wLjAsIEN1bHR1cmU9bmV1dHJhbCwgUHVibGljS2V5VG9rZW49bnVsbAUBAAAABmRlc2lnbhAAAAAIZGVzaWduaWQGdXNlcmlkCHVzZXJuYW1lBXRpdGxlDGRyYXdpbmdzdGVwcwRnbG93CnJlZmxlY3Rpb24HYmdjb2xvcgVzaWRlcwlsaWtlY291bnQNY29tbWVudHNjb3VudAdpZklsaWtlC2lmSWZhdm9yaXRlCGlzcHVibGljC2NhbmRvd25sb2FkDmxhc3R1cGRhdGV0aW1lAAABAQEAAAEAAAAAAAAAAAgIAQEICAgBAQEBDQIAAAALoQcAS6MBAAYDAAAABE5vaGEGBAAAAAZQdXJpdHkKAQEGBQAAAAVCbGFjawcAAAABAAAAAAAAAAAAAQGQRvkZvf/SCAsy5AIAAQAAAP////8BAAAAAAAAAAwCAAAAP0FwcF9Db2RlLCBWZXJzaW9uPTAuMC4wLjAsIEN1bHR1cmU9bmV1dHJhbCwgUHVibGljS2V5VG9rZW49bnVsbAUBAAAABmRlc2lnbhAAAAAIZGVzaWduaWQGdXNlcmlkCHVzZXJuYW1lBXRpdGxlDGRyYXdpbmdzdGVwcwRnbG93CnJlZmxlY3Rpb24HYmdjb2xvcgVzaWRlcwlsaWtlY291bnQNY29tbWVudHNjb3VudAdpZklsaWtlC2lmSWZhdm9yaXRlCGlzcHVibGljC2NhbmRvd25sb2FkDmxhc3R1cGRhdGV0aW1lAAABAQEAAAEAAAAAAAAAAAgIAQEICAgBAQEBDQIAAAAKoQcA/5oBAAYDAAAAB01ha2FicmEGBAAAAANFbGYKAQEGBQAAAARDeWFuAQAAAAIAAAAAAAAAAAABATDu0kS8/9IICzLnAgABAAAA/////wEAAAAAAAAADAIAAAA/QXBwX0NvZGUsIFZlcnNpb249MC4wLjAuMCwgQ3VsdHVyZT1uZXV0cmFsLCBQdWJsaWNLZXlUb2tlbj1udWxsBQEAAAAGZGVzaWduEAAAAAhkZXNpZ25pZAZ1c2VyaWQIdXNlcm5hbWUFdGl0bGUMZHJhd2luZ3N0ZXBzBGdsb3cKcmVmbGVjdGlvbgdiZ2NvbG9yBXNpZGVzCWxpa2Vjb3VudA1jb21tZW50c2NvdW50B2lmSWxpa2ULaWZJZmF2b3JpdGUIaXNwdWJsaWMLY2FuZG93bmxvYWQObGFzdHVwZGF0ZXRpbWUAAAEBAQAAAQAAAAAAAAAACAgBAQgICAEBAQENAgAAAAmhBwDc+QAABgMAAAAHQnJhaWRlbgYEAAAABHJpY2gKAQEGBQAAAAZQdXJwbGUIAAAAAQAAAAAAAAAAAAEBAM1Vubb/0ggLMuoCAAEAAAD/////AQAAAAAAAAAMAgAAAD9BcHBfQ29kZSwgVmVyc2lvbj0wLjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGwFAQAAAAZkZXNpZ24QAAAACGRlc2lnbmlkBnVzZXJpZAh1c2VybmFtZQV0aXRsZQxkcmF3aW5nc3RlcHMEZ2xvdwpyZWZsZWN0aW9uB2JnY29sb3IFc2lkZXMJbGlrZWNvdW50DWNvbW1lbnRzY291bnQHaWZJbGlrZQtpZklmYXZvcml0ZQhpc3B1YmxpYwtjYW5kb3dubG9hZA5sYXN0dXBkYXRldGltZQAAAQEBAAABAAAAAAAAAAAICAEBCAgIAQEBAQ0CAAAAB6EHALFqAQAGAwAAAAhDb25jaGl0YQYEAAAAB2Zlc3Rpdm8KAAEGBQAAAAVCbGFjawUAAAAGAAAAAAAAAAAAAQEgBw+Xsf/SCAsy9QIAAQAAAP////8BAAAAAAAAAAwCAAAAP0FwcF9Db2RlLCBWZXJzaW9uPTAuMC4wLjAsIEN1bHR1cmU9bmV1dHJhbCwgUHVibGljS2V5VG9rZW49bnVsbAUBAAAABmRlc2lnbhAAAAAIZGVzaWduaWQGdXNlcmlkCHVzZXJuYW1lBXRpdGxlDGRyYXdpbmdzdGVwcwRnbG93CnJlZmxlY3Rpb24HYmdjb2xvcgVzaWRlcwlsaWtlY291bnQNY29tbWVudHNjb3VudAdpZklsaWtlC2lmSWZhdm9yaXRlCGlzcHVibGljC2NhbmRvd25sb2FkDmxhc3R1cGRhdGV0aW1lAAABAQEAAAEAAAAAAAAAAAgIAQEICAgBAQEBDQIAAAAEoQcAJ1QBAAYDAAAABUtpenp5BgQAAAARNCBPY2Vsb21haWxpbmFsbGkKAAEGBQAAAAlEYXJrIEJsdWUOAAAACAAAAAAAAAAAAAEBEKtbJrD/0ggLMvYCAAEAAAD/////AQAAAAAAAAAMAgAAAD9BcHBfQ29kZSwgVmVyc2lvbj0wLjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGwFAQAAAAZkZXNpZ24QAAAACGRlc2lnbmlkBnVzZXJpZAh1c2VybmFtZQV0aXRsZQxkcmF3aW5nc3RlcHMEZ2xvdwpyZWZsZWN0aW9uB2JnY29sb3IFc2lkZXMJbGlrZWNvdW50DWNvbW1lbnRzY291bnQHaWZJbGlrZQtpZklmYXZvcml0ZQhpc3B1YmxpYwtjYW5kb3dubG9hZA5sYXN0dXBkYXRldGltZQAAAQEBAAABAAAAAAAAAAAICAEBCAgIAQEBAQ0CAAAAAaEHAKtgAAAGAwAAAApJbmNhc2UyMDA5BgQAAAATRHJlYW1zIG9mIFNpbmdhcG9yZQoAAAYFAAAAA1JlZAEAAAADAAAAAAAAAAAAAQHgn8Elrv/SCAsy/QIAAQAAAP////8BAAAAAAAAAAwCAAAAP0FwcF9Db2RlLCBWZXJzaW9uPTAuMC4wLjAsIEN1bHR1cmU9bmV1dHJhbCwgUHVibGljS2V5VG9rZW49bnVsbAUBAAAABmRlc2lnbhAAAAAIZGVzaWduaWQGdXNlcmlkCHVzZXJuYW1lBXRpdGxlDGRyYXdpbmdzdGVwcwRnbG93CnJlZmxlY3Rpb24HYmdjb2xvcgVzaWRlcwlsaWtlY291bnQNY29tbWVudHNjb3VudAdpZklsaWtlC2lmSWZhdm9yaXRlCGlzcHVibGljC2NhbmRvd25sb2FkDmxhc3R1cGRhdGV0aW1lAAABAQEAAAEAAAAAAAAAAAgIAQEICAgBAQEBDQIAAAAAoQcAEZ0BAAYDAAAADENhbGxpZWdpcmwwNAYEAAAAD1NvbWV0aGluZyBHcmVlbgoBAQYFAAAADEJyaWdodCBHcmVlbgUAAAAAAAAAAAAAAAAAAQGwhoT8rf/SCAsy+wIAAQAAAP////8BAAAAAAAAAAwCAAAAP0FwcF9Db2RlLCBWZXJzaW9uPTAuMC4wLjAsIEN1bHR1cmU9bmV1dHJhbCwgUHVibGljS2V5VG9rZW49bnVsbAUBAAAABmRlc2lnbhAAAAAIZGVzaWduaWQGdXNlcmlkCHVzZXJuYW1lBXRpdGxlDGRyYXdpbmdzdGVwcwRnbG93CnJlZmxlY3Rpb24HYmdjb2xvcgVzaWRlcwlsaWtlY291bnQNY29tbWVudHNjb3VudAdpZklsaWtlC2lmSWZhdm9yaXRlCGlzcHVibGljC2NhbmRvd25sb2FkDmxhc3R1cGRhdGV0aW1lAAABAQEAAAEAAAAAAAAAAAgIAQEICAgBAQEBDQIAAAD/oAcAEZ0BAAYDAAAADENhbGxpZWdpcmwwNAYEAAAAFFN0YXJzIGFuZCBTdHVmZmZmZmZmCgEBBgUAAAAFQmxhY2sFAAAAAQAAAAAAAAAAAAEB8Fgfza3/0ggLZGRkubqRYQmaHLntcPCoSSqhU/yboTs=">
 
 
 <script src="/ScriptResource.axd?d=raWMyZAiAGLlLmQ9BmLexF848UCSzotkF4kH_ToOIymT3SrZSgVKnvEWSlpMpypHpFiPMuMsIudSAztu66kWCFPJZvhPzuDDMCsqLkZylvGvivfEd7ibza-ws0UK6yO4LuDu3QPJpDAeWDUDl1bZ3DrB4v8emyhJDvs9T1QQ8rVwhQJ-0&amp;t=2e2045e2" type="text/javascript"></script>
@@ -130,43 +157,111 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
 <script src="ajaxservice/myoatsajaxclientscript.js" type="text/javascript"></script>
 <script src="ajaxservice/AjaxWebService.asmx/jsdebug" type="text/javascript"></script>
 <input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="EAA40B43">
-<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWCgKV8pK8AgLa89SiCQLa85iRDwKes4XdAwKm6JLyDgK6w9+NDwKRoLbDCgL6hK/yAQLsxLGSDgKOkrn2CIAMijE0nVz4sYFlVmlwZGdiJ6+A">
-        
-        <div class="contentAll">
-            <div id="header">
-                <div id="nav">
-                    <div class="consistentNav">
-                        <a id="ctl00_CreateLink" class="notCurrentNav" href="create.aspx">Create</a>
-                        <a id="ctl00_MostLikeLink" class="notCurrentNav" href="gettingpopular.aspx">Most Liked</a>
-                        <a id="ctl00_MostRecentLink" class="notCurrentNav" href="mostrecent.aspx">Recent</a>
-                        <span id="ctl00_LoginPanel">
-                                <!--<a id="ctl00_forumLink1" href="javascript:__doPostBack('ctl00$forumLink1','')">Forum</a>-->
-                                <a id="ctl00_MyDesignsLink" class="notCurrentNav" href="account/myaccount.aspx" style="display:none">My Account</a>
-                                <!--<a id="ctl00_forumLink2" href="javascript:__doPostBack('ctl00$forumLink2','')" style="display:none">Forum</a>-->
-                                <a id="ctl00_JoinLink" class="notCurrentNav" href="join.aspx" style="display:inline">Join</a>
-                                <a id="ctl00_LoginLinkButton" class="notCurrentNav" href="javascript:__doPostBack('ctl00$LoginLinkButton','')">Login</a>
-                            </span>
-                        <a id="ctl00_SearchLink" class="notCurrentNav" href="search.aspx">Search</a>
-                        <span id="ctl00_UpdatePanelLogin">
-                                <span class="loginNav">
-                                    <span id="ctl00_Literal1" style="display: none">USERNAME</span>
-                                    <input name="ctl00$TextBoxUsr" type="text" id="ctl00_TextBoxUsr" class="navUserNameBox" style="display: none">
-                                    
-                                    <span id="ctl00_Literal2" style="display: none">PASSWORD</span>
-                                    <input name="ctl00$TextBoxPwd" type="password" id="ctl00_TextBoxPwd" class="navLoginBox" style="display: none">
-                                    
-                                    <span id="ctl00_Literal3" style="display: none">REMEMBER?</span>
-                                    <span class="loginCheckbox" style="display: none"><input id="ctl00_RememberMe" type="checkbox" name="ctl00$RememberMe" checked="checked"></span>
-                                    <input type="submit" name="ctl00$LogInButton" value="GO" id="ctl00_LogInButton" disabled="disabled" class="goButton" style="display: none">
-                                </span>
-                            </span>
-                    </div>
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWAgLu0cv8DAKOkrn2CPzb8RBM0pfgS2kNumNbqO44JyI7">
+    
+    <div class="contentAll">
+        <div id="header">
+            <a href="./" class="site-logo"></a>
+            <a class="donate" href="#">Donate</a>
+            <div class="search-form">
+                <a id="ctl00_SearchLink" href="search.aspx"></a>
+            </div><!-- /search-form-header -->
+            <ul class="nav-menu">
+                <li>
+                    <a id="ctl00_CreateLink" class="ico-draw" href="create.aspx"></a>
+                </li>
+                <li class="menu-item"><a id="ctl00_MostLikeLink" href="gettingpopular.aspx">ARTWORK</a>
+                    <ul class="sub-menu">
+                        <li><a id="ctl00_HyperLink1" href="gettingpopular.aspx">Getting Popular</a></li>
+                        <li><a id="ctl00_HyperLink5" href="mostliked.aspx?o=0">24 hours</a></li>
+                        <li><a id="ctl00_HyperLink2" href="mostliked.aspx?o=1">7 days</a></li>
+                        <li><a id="ctl00_HyperLink3" href="mostliked.aspx?o=2">30 days</a></li>
+                        <li><a id="ctl00_HyperLink4" href="mostrecent.aspx?o=0">Recent</a></li>
+                    </ul>
+                </li>
+                <li id="myaccount-menu" class="menu-item" style="display:none"><a href="account/myaccount.aspx" id="ctl00_myTopAccount" class="ico-person"></a>
+                    <ul class="sub-menu">
+                        <li><a href="account/mydesigns.aspx" id="ctl00_myTopDesigns">My Designs</a></li>
+                        <li><a href="account/mylikes.aspx" id="ctl00_myTopLikes">Likes</a></li>
+                        <li><a href="account/myfavorites.aspx" id="ctl00_myTopFavorites">Favorites</a></li>
+                        <li><a href="account/myfriendsrecents.aspx" id="ctl00_myTopFriends">Following</a></li>
+                        <li><a href="account/inbox/myinbox.aspx" id="ctl00_myTopInbox">Notifications</a></li>
+                        <li><a href="account/editsettings.aspx" id="ctl00_topEditSettings">Settings</a></li>
+                        <li><a href="javascript:void(0);" onclick="javascript:Logout(this);">Logout</a></li>
+                    </ul>
+                </li>
+                <li id="login-menu" class="menu-item "><a href="#" class="log-reg">LOG IN / REGISTER</a></li>
+            </ul><!-- /nav-menu -->
+        </div>
+        <div class="overlay"></div>
+        <div class="login login-normal">
+            <div class="login-header">
+                <p><img class="alert-img" src="images/alert.png" alt="" id="login-alert" style="display:none"> Login <a class="close" href="#"></a></p>
+            </div>
+            <div class="login-content">
+                <div class="form-group">
+                    <label>EMAIL ADDRESS</label>
+                    <input type="text" name="loginUserId" id="loginUserId">
                 </div>
-                <div class="logo">
-                    <input type="image" name="ctl00$homeLink" id="ctl00_homeLink" src="images/logoBar.jpg" alt="home" border="0">
+
+                <div class="form-group password">
+                    <label class="pass" for="password">PASSWORD</label>
+                    <input type="password" name="loginUserPwd" id="loginUserPwd">
                 </div>
+
+                <div class="form-group remember">
+                    <input type="checkbox" name="rememberMe" id="rememberMe" checked="checked"> <span>Remember Me</span>
+                </div>
+                <input type="submit" value="LOGIN" onclick="javascript:Login(this);return false;">
+                <a href="javascript:void(0);" onclick="changePopup('.login-forgot-password')">Forgot password?</a>
+                <a href="javascript:void(0);" onclick="changePopup('.login-create-acc')">Create Account</a>
+            </div>
+        </div><!--  /login -->
+        <div class="login login-create-acc">
+            <div class="login-header">
+                <p><img class="alert-img" src="images/alert.png" alt="" id="signup-alert" style="display:none"> Create An Account <a class="close" href="#"></a></p>
             </div>
             
+                <div class="login-content">
+                    <div class="form-group">
+                        <label>USER NAME - no spaces</label>
+                        <input type="text" name="signUpUserId" id="signUpUserId">
+                    </div>
+                    <div class="form-group">
+                        <label>EMAIL ADDRESS</label>
+                        <input type="text" name="signUpEmail" id="signUpEmail">
+                    </div>
+                    <div class="form-group password">
+                        <label class="pass" for="password">PASSWORD - at least 6 characters</label>
+                        <input type="password" name="signUpUserPwd" id="signUpUserPwd">
+                    </div>
+                    <div class="form-group remember">
+                        <input type="checkbox" name="rememberMeSignup" id="rememberMeSignup" checked="checked"> <span>Remember Me</span>
+                    </div>
+                    <input type="submit" value="SIGN UP" onclick="javascript:Signup(this);return false;">
+                    <a href="javascript:void(0);" onclick="changePopup('.login-forgot-password')">Forgot password?</a>
+                    <p>Already have an account? <a href="javascript:void(0);" onclick="changePopup('.login-normal')">Login</a></p>
+                </div>
+            
+        </div><!-- create an account -->
+
+        <div class="login login-forgot-password">
+            <div class="login-header">
+                <p><img class="alert-img" src="images/alert.png" alt="" id="reset-alert" style="display:none"> Forgot Password <a class="close" href="#"></a></p>
+            </div>
+            <form action="#">
+                <div class="login-content">
+                    <div class="form-group">
+                        <label>EMAIL ADDRESS</label>
+                        <input type="text" name="resetPwdEmail" id="resetPwdEmail">
+                     </div>
+                    <input type="submit" value="SEND PASSWORD" onclick="javascript:ResetPwd(this);return false;">
+                    <p>Back to <a href="javascript:void(0);" onclick="changePopup('.login-normal')">Login</a></p>
+                </div>
+            </form>
+        </div><!--  /forgot-password -->
+        
+        
     <div class="leftBackground">
         <div class="titleContainer">
             <span class="titleText">Privacy &amp; Terms of Use</span></div>
@@ -265,142 +360,142 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
     </div>
     <div class="smallContainer">
 	<div class="imagewrapperSmall">
-		<a href="/comments.aspx?p=0&amp;wd=484636"><img class="tooltipshowright" src="/GetPicture.aspx?d=484636&amp;s=0&amp;r=635694734885500556" border="0"></a><span class="curveSmall1"></span><span class="curveSmall2"></span><span class="curveSmall3"></span><span class="curveSmall4"></span>
+		<a href="/comments.aspx?p=0&amp;wd=499981"><img class="tooltipshowright" src="/GetPicture.aspx?d=499981&amp;s=0&amp;r=635851717309879400" border="0"></a><span class="curveSmall1"></span><span class="curveSmall2"></span><span class="curveSmall3"></span><span class="curveSmall4"></span>
 	</div><div class="infoContainer">
 		<div class="infoILike">
-			<a class="iconStatLikesDark" href="wholikes.aspx?wd=484636">0</a>
+			<a class="iconStatLikesDark" href="wholikes.aspx?wd=499981">0</a>
 		</div><div class="infoILike2">
-			<a id="ctl00_ContentPlaceHolder1_RecentDesigns1_ctl00_ctl03_fealike 484636" class="iconILikeDark" onclick="AddILike(this,484636, 'login.aspx?ReturnUrl=wholikes.aspx?wd=-1&amp;c=l&amp;d=484636');"><font title="I Like">&nbsp;&nbsp;&nbsp;</font></a>
+			<a id="ctl00_ContentPlaceHolder1_RecentDesigns1_ctl00_ctl03_fealike 499981" class="iconILikeDark" onclick="AddILike(this,499981, 'login.aspx?ReturnUrl=wholikes.aspx?wd=-1&amp;c=l&amp;d=499981');"><font title="I Like">&nbsp;&nbsp;&nbsp;</font></a>
 		</div><div style="display:none">
 			<span>Processing......</span>
 		</div><div class="infoTagContainer">
-			<a class="fractalTitle" href="/comments.aspx?p=0&amp;wd=484636">3d figures</a><span class="fractalAuthor">by <a href="users/Iancho123">Iancho123</a></span>
+			<a class="fractalTitle" href="/comments.aspx?p=0&amp;wd=499981">snow</a><span class="fractalAuthor">by <a href="users/Noha">Noha</a></span>
 		</div>
 	</div>
 </div><div class="smallContainer">
 	<div class="imagewrapperSmall">
-		<a href="/comments.aspx?p=0&amp;wd=484635"><img class="tooltipshowright" src="/GetPicture.aspx?d=484635&amp;s=0&amp;r=635694734885500556" border="0"></a><span class="curveSmall1"></span><span class="curveSmall2"></span><span class="curveSmall3"></span><span class="curveSmall4"></span>
+		<a href="/comments.aspx?p=0&amp;wd=499980"><img class="tooltipshowright" src="/GetPicture.aspx?d=499980&amp;s=0&amp;r=635851717309879400" border="0"></a><span class="curveSmall1"></span><span class="curveSmall2"></span><span class="curveSmall3"></span><span class="curveSmall4"></span>
 	</div><div class="infoContainer">
 		<div class="infoILike">
-			<a class="iconStatLikesDark" href="wholikes.aspx?wd=484635">0</a>
+			<a class="iconStatLikesDark" href="wholikes.aspx?wd=499980">0</a>
 		</div><div class="infoILike2">
-			<a id="ctl00_ContentPlaceHolder1_RecentDesigns1_ctl01_ctl03_fealike 484635" class="iconILikeDark" onclick="AddILike(this,484635, 'login.aspx?ReturnUrl=wholikes.aspx?wd=-1&amp;c=l&amp;d=484635');"><font title="I Like">&nbsp;&nbsp;&nbsp;</font></a>
+			<a id="ctl00_ContentPlaceHolder1_RecentDesigns1_ctl01_ctl03_fealike 499980" class="iconILikeDark" onclick="AddILike(this,499980, 'login.aspx?ReturnUrl=wholikes.aspx?wd=-1&amp;c=l&amp;d=499980');"><font title="I Like">&nbsp;&nbsp;&nbsp;</font></a>
 		</div><div style="display:none">
 			<span>Processing......</span>
 		</div><div class="infoTagContainer">
-			<a class="fractalTitle" href="/comments.aspx?p=0&amp;wd=484635">emociones (2)</a><span class="fractalAuthor">by <a href="users/Okain">Okain</a></span>
+			<a class="fractalTitle" href="/comments.aspx?p=0&amp;wd=499980">Merry Christmas</a><span class="fractalAuthor">by <a href="users/Noha">Noha</a></span>
 		</div>
 	</div>
 </div><div class="smallContainer">
 	<div class="imagewrapperSmall">
-		<a href="/comments.aspx?p=0&amp;wd=484633"><img class="tooltipshowright" src="/GetPicture.aspx?d=484633&amp;s=0&amp;r=635694734885500556" border="0"></a><span class="curveSmall1"></span><span class="curveSmall2"></span><span class="curveSmall3"></span><span class="curveSmall4"></span>
+		<a href="/comments.aspx?p=0&amp;wd=499979"><img class="tooltipshowright" src="/GetPicture.aspx?d=499979&amp;s=0&amp;r=635851717309879400" border="0"></a><span class="curveSmall1"></span><span class="curveSmall2"></span><span class="curveSmall3"></span><span class="curveSmall4"></span>
 	</div><div class="infoContainer">
 		<div class="infoILike">
-			<a class="iconStatLikesDark" href="wholikes.aspx?wd=484633">1</a>
+			<a class="iconStatLikesDark" href="wholikes.aspx?wd=499979">1</a>
 		</div><div class="infoILike2">
-			<a id="ctl00_ContentPlaceHolder1_RecentDesigns1_ctl02_ctl03_fealike 484633" class="iconILikeDark" onclick="AddILike(this,484633, 'login.aspx?ReturnUrl=wholikes.aspx?wd=-1&amp;c=l&amp;d=484633');"><font title="I Like">&nbsp;&nbsp;&nbsp;</font></a>
+			<a id="ctl00_ContentPlaceHolder1_RecentDesigns1_ctl02_ctl03_fealike 499979" class="iconILikeDark" onclick="AddILike(this,499979, 'login.aspx?ReturnUrl=wholikes.aspx?wd=-1&amp;c=l&amp;d=499979');"><font title="I Like">&nbsp;&nbsp;&nbsp;</font></a>
 		</div><div style="display:none">
 			<span>Processing......</span>
 		</div><div class="infoTagContainer">
-			<a class="fractalTitle" href="/comments.aspx?p=0&amp;wd=484633">Hold on to a pencil</a><span class="fractalAuthor">by <a href="users/Kizzy">Kizzy</a></span>
+			<a class="fractalTitle" href="/comments.aspx?p=0&amp;wd=499979">Purity</a><span class="fractalAuthor">by <a href="users/Noha">Noha</a></span>
 		</div>
 	</div>
 </div><div class="smallContainer">
 	<div class="imagewrapperSmall">
-		<a href="/comments.aspx?p=0&amp;wd=484632"><img class="tooltipshowright" src="/GetPicture.aspx?d=484632&amp;s=0&amp;r=635694734885500556" border="0"></a><span class="curveSmall1"></span><span class="curveSmall2"></span><span class="curveSmall3"></span><span class="curveSmall4"></span>
+		<a href="/comments.aspx?p=0&amp;wd=499978"><img class="tooltipshowright" src="/GetPicture.aspx?d=499978&amp;s=0&amp;r=635851717309879400" border="0"></a><span class="curveSmall1"></span><span class="curveSmall2"></span><span class="curveSmall3"></span><span class="curveSmall4"></span>
 	</div><div class="infoContainer">
 		<div class="infoILike">
-			<a class="iconStatLikesDark" href="wholikes.aspx?wd=484632">1</a>
+			<a class="iconStatLikesDark" href="wholikes.aspx?wd=499978">2</a>
 		</div><div class="infoILike2">
-			<a id="ctl00_ContentPlaceHolder1_RecentDesigns1_ctl03_ctl03_fealike 484632" class="iconILikeDark" onclick="AddILike(this,484632, 'login.aspx?ReturnUrl=wholikes.aspx?wd=-1&amp;c=l&amp;d=484632');"><font title="I Like">&nbsp;&nbsp;&nbsp;</font></a>
+			<a id="ctl00_ContentPlaceHolder1_RecentDesigns1_ctl03_ctl03_fealike 499978" class="iconILikeDark" onclick="AddILike(this,499978, 'login.aspx?ReturnUrl=wholikes.aspx?wd=-1&amp;c=l&amp;d=499978');"><font title="I Like">&nbsp;&nbsp;&nbsp;</font></a>
 		</div><div style="display:none">
 			<span>Processing......</span>
 		</div><div class="infoTagContainer">
-			<a class="fractalTitle" href="/comments.aspx?p=0&amp;wd=484632">blue rose</a><span class="fractalAuthor">by <a href="users/Redmaster">Redmaster</a></span>
+			<a class="fractalTitle" href="/comments.aspx?p=0&amp;wd=499978">Elf</a><span class="fractalAuthor">by <a href="users/Makabra">Makabra</a></span>
 		</div>
 	</div>
 </div><div class="smallContainer">
 	<div class="imagewrapperSmall">
-		<a href="/comments.aspx?p=0&amp;wd=484629"><img class="tooltipshowright" src="/GetPicture.aspx?d=484629&amp;s=0&amp;r=635694734885500556" border="0"></a><span class="curveSmall1"></span><span class="curveSmall2"></span><span class="curveSmall3"></span><span class="curveSmall4"></span>
+		<a href="/comments.aspx?p=0&amp;wd=499977"><img class="tooltipshowright" src="/GetPicture.aspx?d=499977&amp;s=0&amp;r=635851717309879400" border="0"></a><span class="curveSmall1"></span><span class="curveSmall2"></span><span class="curveSmall3"></span><span class="curveSmall4"></span>
 	</div><div class="infoContainer">
 		<div class="infoILike">
-			<a class="iconStatLikesDark" href="wholikes.aspx?wd=484629">0</a>
+			<a class="iconStatLikesDark" href="wholikes.aspx?wd=499977">1</a>
 		</div><div class="infoILike2">
-			<a id="ctl00_ContentPlaceHolder1_RecentDesigns1_ctl04_ctl03_fealike 484629" class="iconILikeDark" onclick="AddILike(this,484629, 'login.aspx?ReturnUrl=wholikes.aspx?wd=-1&amp;c=l&amp;d=484629');"><font title="I Like">&nbsp;&nbsp;&nbsp;</font></a>
+			<a id="ctl00_ContentPlaceHolder1_RecentDesigns1_ctl04_ctl03_fealike 499977" class="iconILikeDark" onclick="AddILike(this,499977, 'login.aspx?ReturnUrl=wholikes.aspx?wd=-1&amp;c=l&amp;d=499977');"><font title="I Like">&nbsp;&nbsp;&nbsp;</font></a>
 		</div><div style="display:none">
 			<span>Processing......</span>
 		</div><div class="infoTagContainer">
-			<a class="fractalTitle" href="/comments.aspx?p=0&amp;wd=484629">blown</a><span class="fractalAuthor">by <a href="users/Anam3851">Anam3851</a></span>
+			<a class="fractalTitle" href="/comments.aspx?p=0&amp;wd=499977">rich</a><span class="fractalAuthor">by <a href="users/Braiden">Braiden</a></span>
 		</div>
 	</div>
 </div><div class="smallContainer">
 	<div class="imagewrapperSmall">
-		<a href="/comments.aspx?p=0&amp;wd=484626"><img class="tooltipshowright" src="/GetPicture.aspx?d=484626&amp;s=0&amp;r=635694734885500556" border="0"></a><span class="curveSmall1"></span><span class="curveSmall2"></span><span class="curveSmall3"></span><span class="curveSmall4"></span>
+		<a href="/comments.aspx?p=0&amp;wd=499975"><img class="tooltipshowright" src="/GetPicture.aspx?d=499975&amp;s=0&amp;r=635851717309879400" border="0"></a><span class="curveSmall1"></span><span class="curveSmall2"></span><span class="curveSmall3"></span><span class="curveSmall4"></span>
 	</div><div class="infoContainer">
 		<div class="infoILike">
-			<a class="iconStatLikesDark" href="wholikes.aspx?wd=484626">7</a>
+			<a class="iconStatLikesDark" href="wholikes.aspx?wd=499975">6</a>
 		</div><div class="infoILike2">
-			<a id="ctl00_ContentPlaceHolder1_RecentDesigns1_ctl05_ctl03_fealike 484626" class="iconILikeDark" onclick="AddILike(this,484626, 'login.aspx?ReturnUrl=wholikes.aspx?wd=-1&amp;c=l&amp;d=484626');"><font title="I Like">&nbsp;&nbsp;&nbsp;</font></a>
+			<a id="ctl00_ContentPlaceHolder1_RecentDesigns1_ctl05_ctl03_fealike 499975" class="iconILikeDark" onclick="AddILike(this,499975, 'login.aspx?ReturnUrl=wholikes.aspx?wd=-1&amp;c=l&amp;d=499975');"><font title="I Like">&nbsp;&nbsp;&nbsp;</font></a>
 		</div><div style="display:none">
 			<span>Processing......</span>
 		</div><div class="infoTagContainer">
-			<a class="fractalTitle" href="/comments.aspx?p=0&amp;wd=484626">MandalaBlue</a><span class="fractalAuthor">by <a href="users/Athenea">Athenea</a></span>
+			<a class="fractalTitle" href="/comments.aspx?p=0&amp;wd=499975">festivo</a><span class="fractalAuthor">by <a href="users/Conchita">Conchita</a></span>
 		</div>
 	</div>
 </div><div class="smallContainer">
 	<div class="imagewrapperSmall">
-		<a href="/comments.aspx?p=0&amp;wd=484625"><img class="tooltipshowright" src="/GetPicture.aspx?d=484625&amp;s=0&amp;r=635694734885500556" border="0"></a><span class="curveSmall1"></span><span class="curveSmall2"></span><span class="curveSmall3"></span><span class="curveSmall4"></span>
+		<a href="/comments.aspx?p=0&amp;wd=499972"><img class="tooltipshowright" src="/GetPicture.aspx?d=499972&amp;s=0&amp;r=635851717309879400" border="0"></a><span class="curveSmall1"></span><span class="curveSmall2"></span><span class="curveSmall3"></span><span class="curveSmall4"></span>
 	</div><div class="infoContainer">
 		<div class="infoILike">
-			<a class="iconStatLikesDark" href="wholikes.aspx?wd=484625">1</a>
+			<a class="iconStatLikesDark" href="wholikes.aspx?wd=499972">8</a>
 		</div><div class="infoILike2">
-			<a id="ctl00_ContentPlaceHolder1_RecentDesigns1_ctl06_ctl03_fealike 484625" class="iconILikeDark" onclick="AddILike(this,484625, 'login.aspx?ReturnUrl=wholikes.aspx?wd=-1&amp;c=l&amp;d=484625');"><font title="I Like">&nbsp;&nbsp;&nbsp;</font></a>
+			<a id="ctl00_ContentPlaceHolder1_RecentDesigns1_ctl06_ctl03_fealike 499972" class="iconILikeDark" onclick="AddILike(this,499972, 'login.aspx?ReturnUrl=wholikes.aspx?wd=-1&amp;c=l&amp;d=499972');"><font title="I Like">&nbsp;&nbsp;&nbsp;</font></a>
 		</div><div style="display:none">
 			<span>Processing......</span>
 		</div><div class="infoTagContainer">
-			<a class="fractalTitle" href="/comments.aspx?p=0&amp;wd=484625">5</a><span class="fractalAuthor">by <a href="users/Dorila">Dorila</a></span>
+			<a class="fractalTitle" href="/comments.aspx?p=0&amp;wd=499972">4 Ocelomailinalli</a><span class="fractalAuthor">by <a href="users/Kizzy">Kizzy</a></span>
 		</div>
 	</div>
 </div><div class="smallContainer">
 	<div class="imagewrapperSmall">
-		<a href="/comments.aspx?p=0&amp;wd=484624"><img class="tooltipshowright" src="/GetPicture.aspx?d=484624&amp;s=0&amp;r=635694734885500556" border="0"></a><span class="curveSmall1"></span><span class="curveSmall2"></span><span class="curveSmall3"></span><span class="curveSmall4"></span>
+		<a href="/comments.aspx?p=0&amp;wd=499969"><img class="tooltipshowright" src="/GetPicture.aspx?d=499969&amp;s=0&amp;r=635851717309879400" border="0"></a><span class="curveSmall1"></span><span class="curveSmall2"></span><span class="curveSmall3"></span><span class="curveSmall4"></span>
 	</div><div class="infoContainer">
 		<div class="infoILike">
-			<a class="iconStatLikesDark" href="wholikes.aspx?wd=484624">0</a>
+			<a class="iconStatLikesDark" href="wholikes.aspx?wd=499969">3</a>
 		</div><div class="infoILike2">
-			<a id="ctl00_ContentPlaceHolder1_RecentDesigns1_ctl07_ctl03_fealike 484624" class="iconILikeDark" onclick="AddILike(this,484624, 'login.aspx?ReturnUrl=wholikes.aspx?wd=-1&amp;c=l&amp;d=484624');"><font title="I Like">&nbsp;&nbsp;&nbsp;</font></a>
+			<a id="ctl00_ContentPlaceHolder1_RecentDesigns1_ctl07_ctl03_fealike 499969" class="iconILikeDark" onclick="AddILike(this,499969, 'login.aspx?ReturnUrl=wholikes.aspx?wd=-1&amp;c=l&amp;d=499969');"><font title="I Like">&nbsp;&nbsp;&nbsp;</font></a>
 		</div><div style="display:none">
 			<span>Processing......</span>
 		</div><div class="infoTagContainer">
-			<a class="fractalTitle" href="/comments.aspx?p=0&amp;wd=484624">Mrs. Hummel</a><span class="fractalAuthor">by <a href="users/Windsorstudent1">Windsorstudent1</a></span>
+			<a class="fractalTitle" href="/comments.aspx?p=0&amp;wd=499969">Dreams of Singapore</a><span class="fractalAuthor">by <a href="users/Incase2009">Incase2009</a></span>
 		</div>
 	</div>
 </div><div class="smallContainer">
 	<div class="imagewrapperSmall">
-		<a href="/comments.aspx?p=0&amp;wd=484623"><img class="tooltipshowright" src="/GetPicture.aspx?d=484623&amp;s=0&amp;r=635694734885500556" border="0"></a><span class="curveSmall1"></span><span class="curveSmall2"></span><span class="curveSmall3"></span><span class="curveSmall4"></span>
+		<a href="/comments.aspx?p=0&amp;wd=499968"><img class="tooltipshowright" src="/GetPicture.aspx?d=499968&amp;s=0&amp;r=635851717309879400" border="0"></a><span class="curveSmall1"></span><span class="curveSmall2"></span><span class="curveSmall3"></span><span class="curveSmall4"></span>
 	</div><div class="infoContainer">
 		<div class="infoILike">
-			<a class="iconStatLikesDark" href="wholikes.aspx?wd=484623">1</a>
+			<a class="iconStatLikesDark" href="wholikes.aspx?wd=499968">0</a>
 		</div><div class="infoILike2">
-			<a id="ctl00_ContentPlaceHolder1_RecentDesigns1_ctl08_ctl03_fealike 484623" class="iconILikeDark" onclick="AddILike(this,484623, 'login.aspx?ReturnUrl=wholikes.aspx?wd=-1&amp;c=l&amp;d=484623');"><font title="I Like">&nbsp;&nbsp;&nbsp;</font></a>
+			<a id="ctl00_ContentPlaceHolder1_RecentDesigns1_ctl08_ctl03_fealike 499968" class="iconILikeDark" onclick="AddILike(this,499968, 'login.aspx?ReturnUrl=wholikes.aspx?wd=-1&amp;c=l&amp;d=499968');"><font title="I Like">&nbsp;&nbsp;&nbsp;</font></a>
 		</div><div style="display:none">
 			<span>Processing......</span>
 		</div><div class="infoTagContainer">
-			<a class="fractalTitle" href="/comments.aspx?p=0&amp;wd=484623">SIR n DIP IT US.</a><span class="fractalAuthor">by <a href="users/W">W</a></span>
+			<a class="fractalTitle" href="/comments.aspx?p=0&amp;wd=499968">Something Green</a><span class="fractalAuthor">by <a href="users/Calliegirl04">Calliegirl04</a></span>
 		</div>
 	</div>
 </div><div class="smallContainer">
 	<div class="imagewrapperSmall">
-		<a href="/comments.aspx?p=0&amp;wd=484622"><img class="tooltipshowright" src="/GetPicture.aspx?d=484622&amp;s=0&amp;r=635694734885500556" border="0"></a><span class="curveSmall1"></span><span class="curveSmall2"></span><span class="curveSmall3"></span><span class="curveSmall4"></span>
+		<a href="/comments.aspx?p=0&amp;wd=499967"><img class="tooltipshowright" src="/GetPicture.aspx?d=499967&amp;s=0&amp;r=635851717309879400" border="0"></a><span class="curveSmall1"></span><span class="curveSmall2"></span><span class="curveSmall3"></span><span class="curveSmall4"></span>
 	</div><div class="infoContainer">
 		<div class="infoILike">
-			<a class="iconStatLikesDark" href="wholikes.aspx?wd=484622">2</a>
+			<a class="iconStatLikesDark" href="wholikes.aspx?wd=499967">1</a>
 		</div><div class="infoILike2">
-			<a id="ctl00_ContentPlaceHolder1_RecentDesigns1_ctl09_ctl03_fealike 484622" class="iconILikeDark" onclick="AddILike(this,484622, 'login.aspx?ReturnUrl=wholikes.aspx?wd=-1&amp;c=l&amp;d=484622');"><font title="I Like">&nbsp;&nbsp;&nbsp;</font></a>
+			<a id="ctl00_ContentPlaceHolder1_RecentDesigns1_ctl09_ctl03_fealike 499967" class="iconILikeDark" onclick="AddILike(this,499967, 'login.aspx?ReturnUrl=wholikes.aspx?wd=-1&amp;c=l&amp;d=499967');"><font title="I Like">&nbsp;&nbsp;&nbsp;</font></a>
 		</div><div style="display:none">
 			<span>Processing......</span>
 		</div><div class="infoTagContainer">
-			<a class="fractalTitle" href="/comments.aspx?p=0&amp;wd=484622">Summer Party</a><span class="fractalAuthor">by <a href="users/Sparklesparkle">Sparklesparkle</a></span>
+			<a class="fractalTitle" href="/comments.aspx?p=0&amp;wd=499967">Stars and Stufffffff</a><span class="fractalAuthor">by <a href="users/Calliegirl04">Calliegirl04</a></span>
 		</div>
 	</div>
 </div>
@@ -419,43 +514,45 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
 </div>
 
 
-            <div id="ShowMidDiv" class="MidPicDivStyle" style="display: none">
-                <div class="imagewrapperMed">
-                    <img id="ShowMidImg" style="border-width: 0px;"><span class="curveMed1"></span><span class="curveMed2"></span><span class="curveMed3"></span><span class="curveMed4"></span>
-                </div>
+        <div id="ShowMidDiv" class="MidPicDivStyle" style="display: none">
+            <div class="imagewrapperMed">
+                <img id="ShowMidImg" style="border-width: 0px;"><span class="curveMed1"></span><span class="curveMed2"></span><span class="curveMed3"></span><span class="curveMed4"></span>
             </div>
         </div>
-        <div class="bottom">
-            <div class="bottomBG">
-                <div class="bottomNav">
-                </div>
-                <div class="bottomLogo">
-                </div>
-                <span class="bottomLogoBar"></span>
-                <div class="bottomNavCol">
-                    <span class="topRow">Site Links </span><span class="row"><a href="./">
-                        Home</a></span> <span class="row"><a href="create.aspx">
-                            Create</a> </span><span class="row"><a href="gettingpopular.aspx">
-                                Most Liked</a></span> <span class="row"><a href="mostrecent.aspx">
-                                    Recent Activity</a></span> <!--<span class="row">
-                                        <a id="ctl00_LinkButton1" href="javascript:__doPostBack('ctl00$LinkButton1','')">Forum</a></span>--><span class="row"><a href="privacy.aspx">
-                                                Privacy &amp; Terms of Use</a></span>
-                </div>
-                <!--   BOTTOM NAV COL HAS CLOSED-->
-                <div class="bottomNavCol">
-                    <span class="topRow">About Myoats </span><span class="row"><a href="about.aspx">
-                        About Us &amp; Contact Us</a></span>
-                </div>
-                <!--   BOTTOM NAV COL HAS CLOSED-->
-                <div class="bottomNavColLast">
-                    <span class="topRow">How To</span> <span class="row"><a href="howtocreate.aspx">
-                        How To Create</a></span> <span class="row"><a href="tutorial.aspx">
-                            Watch Tutorials</a></span>
-                </div>
-                <!--   BOTTOM NAV COL HAS CLOSED-->
-                <span class="row">?2012 Myoats. All Rights Reserved </span>
+    </div></form>
+    <div class="bottom">
+        <div class="bottomBG">
+            <div class="bottomNav">
             </div>
+            <div class="bottomLogo">
+            </div>
+            <span class="bottomLogoBar"></span>
+            <div class="bottomNavCol">
+                <span class="topRow">Site Links </span><span class="row"><a href="./">
+                    Home</a></span> <span class="row"><a href="create.aspx">
+                        Create</a> </span><span class="row"><a href="gettingpopular.aspx">
+                            Most Liked</a></span> <span class="row"><a href="mostrecent.aspx">
+                                Recent Activity</a></span>
+                <!--<span class="row">
+                                        <a id="ctl00_LinkButton1" href="javascript:__doPostBack('ctl00$LinkButton1','')">Forum</a></span>-->
+                <span class="row"><a href="privacy.aspx">Privacy &amp; Terms
+                    of Use</a></span>
+            </div>
+            <!--   BOTTOM NAV COL HAS CLOSED-->
+            <div class="bottomNavCol">
+                <span class="topRow">About Myoats </span><span class="row"><a href="about.aspx">
+                    About Us &amp; Contact Us</a></span>
+            </div>
+            <!--   BOTTOM NAV COL HAS CLOSED-->
+            <div class="bottomNavColLast">
+                <span class="topRow">How To</span> <span class="row"><a href="howtocreate.aspx">
+                    How To Create</a></span> <span class="row"><a href="tutorial.aspx">
+                        Watch Tutorials</a></span>
+            </div>
+            <!--   BOTTOM NAV COL HAS CLOSED-->
+            <span class="row">?2012 Myoats. All Rights Reserved </span>
         </div>
+    </div>
     
 
 <script type="text/javascript">
@@ -463,7 +560,7 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
 Sys.Application.initialize();
 //]]>
 </script>
-</form>
+
     <!-- Start Quantcast tag -->
 
     <script type="text/javascript">
@@ -477,6 +574,12 @@ Sys.Application.initialize();
             border="0" height="1" width="1" alt="Quantcast" />
     </noscript>
     <!-- End Quantcast tag -->
+    
+    <script src="scripts/jquery.fancybox.pack.js" type="text/javascript"></script>
+
+    <script src="scripts/scripts.js" type="text/javascript"></script>
+    <script src="scripts/main.js"></script>
+
 
 
 </body></html>
