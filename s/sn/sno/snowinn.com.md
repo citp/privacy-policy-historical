@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the snowinn.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609201155id_/http%3A//www.snowinn.com%3Faction%3Dterminos%26idioma%3Deng) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the snowinn.com privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208020042id_/http%3A//www.snowinn.com%3Faction%3Dterminos%26idioma%3Deng) for the most accurate reproduction.*
 
 # snowinn Terms & conditions. Online ski gear and ski equipment shop
 
@@ -64,11 +64,11 @@ The ordering process consists of 5 easy steps:
 
 *- For European Union customers:
 
-In accordance with the laws governing members of the European Union, Tradeinn is obliged to charge VAT on all orders delivered to destinations in member countries of the EU. The price displayed for each item sold by us includes Spanish VAT (21%) (Except for Sweden and Denmark, we are obliged to apply the local 25% VAT due to local authority). However if we are shipping your order to a tax-free zone within the EU, we can deduct the VAT on prices, you just have to send us an email via our Customer Enquiry Form. We will remove the VAT when we invoice the order.
+In accordance with the laws governing members of the European Union, Tradeinn is obliged to charge VAT on all orders delivered to destinations in member countries of the EU. The price displayed for each item sold by us includes VAT. However if we are shipping your order to a tax-free zone within the EU, we can deduct the VAT on prices, you just have to send us an email via our Customer Enquiry Form. We will remove the VAT when we invoice the order.
 
-*- For other customers outwith the European Union:
+*- For other customers outwith the European Union: 
 
-VAT does not apply to orders that are to be shipped outside the European Union or to Tax Free Areas such as the Canarias Island, Channel Island (If you have any doubts about Tax Free Areas, please contact our Customer Services Team).These areas will be priced and billed with VAT deducted. Please note that local tax and customs duty may apply. For full details please consult your local Customs office.If you select a currency or a delivery country outside the European Union, prices will be displayed VAT free.
+VAT does not apply to orders that are to be shipped outside the European Union or to Tax Free Areas such as the Canarias Island, Channel Island (If you have any doubts about Tax Free Areas, please contact our Customer Services Team). These areas will be priced and billed with VAT deducted. Please note that local tax and customs duty may apply. For full details please consult your local Customs office.If you select a currency or a delivery country outside the European Union, prices will be displayed VAT free.
 
 5\. AVAILABILITY / ESTIMATED DELIVERY TIMES
 
@@ -170,9 +170,9 @@ For United Kingdom: Maestro - Local Bank Transfer Account
 
 9.1. Right to cancel: 
 
-The Distance Selling Regulations give you the right to cancel your purchase of an item without having to give a reason. Within 30 working days beginning the day after the day on which you received the goods (a "cooling off period").
+The Distance Selling Regulations give you the right to cancel your purchase of an item without having to give a reason. Within 14 days beginning the day after the day on which you received the goods (a "cooling off period").
 
-You must notify us of your cancellation in writing or in another durable medium by e-mail to customer@tradeinn.com or to our contact address: C/ Pirineus, 9, 17460 Celrà (Girona), Spain.
+You must notify us of your cancellation in writing or in another durable medium by e-mail to our contact page using the following link: [CONTACT](http://www.snowinn.com/?idioma=eng&action=contacto&uam=) or to our contact address: C/ Pirineus, 9, 17460 Celrà (Girona), Spain.
 
 9.2. Cancellation consequences:
 
@@ -198,7 +198,7 @@ While you do not need to give us any reason for cancelling your contract and nor
 
 10\. RETURNS
 
-10.1. You have the right to cancel your order, or return an already received item for refund within the 30 days “cooling off” period, explained in our refunds policy. 
+10.1. You have the right to cancel your order, or return an already received item for refund within the 14 days “cooling off” period, explained in our refunds policy. 
 
 * We will happily refund any item purchased on Tradeinn´ Websites.
 
