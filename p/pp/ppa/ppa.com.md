@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the ppa.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610000605id_/http%3A//www.ppa.com/content.cfm%3FItemNumber%3D1670) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ppa.com privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208085300id_/http%3A//www.ppa.com/content.cfm%3FItemNumber%3D1670) for the most accurate reproduction.*
 
 # PPA Privacy Policy | PPA
 
 **PPA PRIVACY STATEMENT**  
-Last updated July 13, 2012
+Last updated November 16, 2015
 
 Thank you for visiting PPA.com, the Web site of Professional Photographers of America (PPA). Your privacy is important to us. To better protect your privacy, we provide this statement explaining our online information practices and the choices you can make about the way your information is collected and used at this PPA site.
 
@@ -76,6 +76,6 @@ For general information regarding privacy you can visit TRUSTe, BBB Online, or t
 
 
 
-The Privacy Statement posted on this site was last updated on July 13, 2012.
+The Privacy Statement posted on this site was last updated on November 16, 2015.
 
-© 2012, Professional Photographers of America. All Rights Reserved.
+© 2015, Professional Photographers of America. All Rights Reserved.
