@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the coolpctips.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608235650id_/http%3A//www.coolpctips.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coolpctips.com privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208065218id_/http%3A//www.coolpctips.com/privacypolicy) for the most accurate reproduction.*
 
-# Privacy Policy - Latest Tips and Tricks - Computers, Mobiles, Gaming, Internet and Windows
+# Privacy Policy | Latest Tips and Tricks - Computers, Mobiles, Gaming, Internet and Windows
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by email [here](mailto:admin@coolpctips.com).
 
