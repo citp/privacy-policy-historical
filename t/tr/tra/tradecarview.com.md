@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tradecarview.com privacy policy that was archived on 2013-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130608090247id_/http%3A//www.tradecarview.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tradecarview.com privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208184801id_/http%3A//www.tradecarview.com/about/privacy) for the most accurate reproduction.*
 
 # Used japanese car [ tradecarview ]
 
@@ -24,8 +24,8 @@
 #### Information Collection and Use
 
   * carview collects personal information when you register with the Site, when you use the Site’s services or when you visit pages of the Site.
-  * When you register, we ask for information such as your name, email address, birth date, zip code. Once you register with the Site and sign in to our services, you are not anonymous to us.
-  * carview uses information for the following general purposes: to fulfill your requests for services, improve our services, contact you, conduct research, and provide anonymous reporting for internal and external clients.
+  * When you register, we ask for information such as your name, phone number, email address, birth date, zip code. Once you register with the Site and Log in to our services, you are not anonymous to us.
+  * carview uses information for the following general purposes: to fulfill your requests for services, improve our services, contact you, conduct research, customer support, sales promotion and provide anonymous reporting for internal and external clients.
 
 
 
@@ -68,6 +68,8 @@
 
 #### Questions and Suggestions
 
-  * If you have any questions regarding privacy, security, opting-out of e-mail offers or understanding how your personal information is being used, please contact our Buyer Privacy advocate at +81-3-5859-6175 or send e-mail at [trade@carview.co.jp](mailto:trade@carview.co.jp). If you do not receive acknowledgement of your inquiry in a prompt fashion or within 10 days, or your inquiry has not been properly addressed, you may contact us with [trade@carview.co.jp](mailto:trade@carview.co.jp)
+  * If you have any questions regarding privacy, security, opting-out of e-mail offers or understanding how your personal information is being used, please contact our Buyer Privacy advocate at +81-3-6230-5360 or send e-mail at [trade@carview.co.jp](mailto:trade@carview.co.jp). If you do not receive acknowledgement of your inquiry in a prompt fashion or within 10 days, or your inquiry has not been properly addressed, you may contact us with [trade@carview.co.jp](mailto:trade@carview.co.jp)
 
 
+
+Amended as of July, 2014
