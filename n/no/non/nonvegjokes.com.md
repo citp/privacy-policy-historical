@@ -1,18 +1,18 @@
-> *The following text is extracted and transformed from the nonvegjokes.com privacy policy that was archived on 2015-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150619162425id_/http%3A//nonvegjokes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nonvegjokes.com privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208055135id_/http%3A//nonvegjokes.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 **Last Updated On – April 24, 2011**
 
- **NonVegJokes.com** knows that you care how information about you is used and shared on internet, and we appreciate your trust that we will do so carefully and sensibly. This page describes our privacy policy. By visiting any of the sites offered by **NonVegJokes.com** , you are accepting the practices described in this **Privacy Notice**. For any question on the Privacy Notice please _**Contact Us**_.
+**NonVegJokes.com** knows that you care how information about you is used and shared on internet, and we appreciate your trust that we will do so carefully and sensibly. This page describes our privacy policy. By visiting any of the sites offered by **NonVegJokes.com** , you are accepting the practices described in this **Privacy Notice**. For any question on the Privacy Notice please _**Contact Us**_.
 
-###  **What Personal Information About Me Does NonVegJokes.com Gather?**
+### **What Personal Information About Me Does NonVegJokes.com Gather?**
 
- ** _Information You Provided:_**
+**_Information You Provided:_**
 
 We receive and store any information you enter on our Web site or give us in any other way. We use the information that you provide for such purposes as responding to your requests, providing our services, and communicating with you.
 
- ** _Information Automatically Logged:_**
+**_Information Automatically Logged:_**
 
 We receive and store certain types of information whenever you interact with our site.
 
@@ -70,4 +70,4 @@ These email addresses are not used in any mailing lists or in any form of spam.
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, please contact the Webmaster Here.
 
- __15 Jul 2009
+__15 Jul 2009
