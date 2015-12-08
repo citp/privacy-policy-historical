@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the infographicjournal.com privacy policy that was archived on 2015-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150625020732id_/http%3A//infographicjournal.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the infographicjournal.com privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208032527id_/http%3A//infographicjournal.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Infographic Journal
 
@@ -17,4 +17,4 @@ Infographic Journal is committed to protecting your privacy. The following speci
 
 We do not share or sell contact information with any third party without your permission. We may disclose only in aggregate form our statistical analyses including demographics of users to third parties, such as advertisers or other business partners. This information does not include personal information such as names, phone numbers or e-mail addresses.
 
-If you have any questions about this privacy statement or the practices of this site please contact us at 623-551-3742.
+If you have any questions about this privacy statement or the practices of this site please contact us at 480-625-3653.
