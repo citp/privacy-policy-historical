@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the daily.co.uk privacy policy that was archived on 2015-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150330063541id_/https%3A//www.daily.co.uk/terms/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the daily.co.uk privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208061104id_/https%3A//www.daily.co.uk/terms/privacy.html) for the most accurate reproduction.*
 
 # Daily.co.uk: Privacy Policy
 
@@ -11,6 +11,7 @@ We may collect the following information:
   * Demographic information such as postcode, preferences and interests
   * Other information relevant to customer surveys and/or offers
 
+  
 
 
 ### What we do with the information we gather
@@ -23,6 +24,7 @@ We require this information to understand your needs and provide you with a bett
   * From time to time, we may also use your information to contact you for market research purposes.
   * We may use the information to customise the website according to your interests.
 
+  
 
 
 ### Security
@@ -50,6 +52,7 @@ You may choose to restrict the collection or use of your personal information in
   * Whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes 
   * If you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at helpdesk@daily.co.uk 
 
+  
 
 
 We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen. 
