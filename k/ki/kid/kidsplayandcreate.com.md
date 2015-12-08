@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kidsplayandcreate.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609114651id_/http%3A//www.kidsplayandcreate.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kidsplayandcreate.com privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208110921id_/http%3A//www.kidsplayandcreate.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -19,5 +19,3 @@ Other Third Party ad servers or ad networks may also use cookies to track users 
 If you have any questions regarding the privacy policy of KidsPlayandCreate.com then you may contact us at kidsPlayandCreate@gmail.com
 
 Last updated Tue, 14 Sept 2012 17:28
-
-[](http://www.printfriendly.com/print?url=http%3A%2F%2Fwww.kidsplayandcreate.com%2Fprivacy-policy%2F)
