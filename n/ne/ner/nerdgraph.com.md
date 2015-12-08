@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nerdgraph.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609235838id_/http%3A//www.nerdgraph.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nerdgraph.com privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208054946id_/http%3A//www.nerdgraph.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Nerdgraph Infographics
+# Privacy Policy - Nerdgraph InfographicsNerdGraph Infographics
 
 **What information do we collect?**
 
