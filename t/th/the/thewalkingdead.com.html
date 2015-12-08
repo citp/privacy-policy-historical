@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the thewalkingdead.com privacy policy that was archived on 2015-06-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150610002341id_/http%3A//www.thewalkingdead.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the thewalkingdead.com privacy policy that was archived on 2015-12-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151208110147id_/http%3A//www.thewalkingdead.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns:fb="https://www.facebook.com/2008/fbml" xmlns:og="http://ogp.me/ns#" lang="en-US"><!--<![endif]--><head>
 <meta charset="UTF-8">
@@ -135,6 +135,8 @@ function callback(data) {
 	  $("#logged_in").show();
 	  $("#login_register").hide();
 	  $("#user_info").text("HI  "+data['userName'].toUpperCase()+"");
+	  $('#profileLink').attr('href','http://www.skybound.com/profiles/?insider='+data['userName']);
+	  console.info('http://www.skybound.com/profiles/?insider='+data['userName']);
            status=1;
 
 	     createCookie("userId",data["userId"],30);
@@ -361,7 +363,7 @@ body.custom-background { background-color: #0B0B0B; background-image: url('http:
 {
 color: #555;
 margin: 3px -22px 0 0;
-width: 143px;
+width: 100%;
 position: relative;
 height: 17px;
 text-align:left;
@@ -417,7 +419,7 @@ z-index: 3000;
 display: block;
 padding: 11px 0 0 20px;
 height: 28px;
-width: 121px;
+width: 100%;
 margin: 0px 0 0 16px;
 text-decoration: none;
 background: url(icons/arrow.png) 116px 17px no-repeat;
@@ -517,6 +519,12 @@ jQuery(document).ready(function()
 </script>
 <link rel="stylesheet" type="text/css" media="all" href="http://www.thewalkingdead.com/wp-content/themes/thewalkingdead/responsive.css">
 <link rel="stylesheet" type="text/css" media="all" href="http://www.thewalkingdead.com/wp-content/themes/thewalkingdead/mobile.css?ver=126">
+<style>
+body
+{
+ margin-top:-20px;
+}
+</style>
 
 </head>
 <body class="page page-id-150 page-template page-template-privacy-policy-php custom-background singular">
@@ -558,7 +566,7 @@ jQuery(document).ready(function()
 	<div id="header1">
         <div id="login_register" class="lrborders right headerbg ">
             <!--Account header info -header - Start-->
-            <div class="border-header left accountHeader" style="margin-top: 10px;">
+            <div class="border-header left accountHeader" style="margin-top: 10px;font-family: helvetica, Arial, sans-serif;">
                 <a href="https://accounts.skybound.com/web/register/register.php?site=twd">
                     <div class="right" style="padding-left: 5px;padding-right:40px;">
                         <span style="color:#CCCCCC">|</span>&nbsp;REGISTER</div></a>
@@ -572,12 +580,14 @@ jQuery(document).ready(function()
 
 <div class="dropdown" style="color:white;padding-left: 5px;text-align:center">
 <a class="account" style="color: #cc9933;
-    margin-left: -25px;"><span id="user_info" style="color:#cc9933;padding-left: 5px;"></span><span class="arrow-s">&nbsp;</span></a>
+    margin-left: -25px;"><span id="user_info" style="font-family: helvetica, Arial, sans-serif;color:#cc9933;padding-left: 5px;"></span><span class="arrow-s">&nbsp;</span></a>
 
 <div class="submenuProfile">
 <ul class="root">
-<li><a href="https://accounts.skybound.com/web/profile/account.php?site=twd">Profile</a></li>
-<li><a href="https://accounts.skybound.com/web/profile/rewards.php?site=twd">Rewards (BETA)</a></li>
+<li><a id="profileLink" href="http://www.skybound.com/profiles/?insider=">Profile</a></li>
+<li><a href="https://accounts.skybound.com/web/profile/rewards.php?site=twd">Rewards</a></li>
+<li><a href="http://www.skybound.com/category/insiders">Insiders</a></li>     
+<li><a href="https://accounts.skybound.com/web/profile/account.php?site=twd">Settings</a></li>
 <li><a href="https://accounts.skybound.com/web/login/logout.php?site=twd">Logout</a></li>
 </ul>
 </div>
@@ -631,9 +641,9 @@ jQuery(document).ready(function()
                                         </ul>
                                     </div>
                                     <div class="additional clearfix">
-                                                                                    <div class="latest"><a href="http://www.thewalkingdead.com/ew-with-fear-update-pics/"><img width="220" height="127" src="http://www.thewalkingdead.com/wp-content/uploads/2015/06/fear-EW-coverage-feat.png" alt=""><span>EW with FEAR Update, Pics! — Updated</span></a></div>
-                                                                                    <div class="latest"><a href="http://www.thewalkingdead.com/new-funko-figs-in-the-shop/"><img width="220" height="127" src="http://www.thewalkingdead.com/wp-content/uploads/2015/06/new-funko-figs-feat.png" alt=""><span>New Funko Figs in the Shop!</span></a></div>
-                                                                                    <div class="latest"><a href="http://www.thewalkingdead.com/5-questions-we-have-for-issue-142/"><img width="220" height="127" src="http://www.thewalkingdead.com/wp-content/uploads/2015/06/5-Questions-142.png" alt=""><span>5 Questions We Have for Issue #142</span></a></div>
+                                                                                    <div class="latest"><a href="http://www.thewalkingdead.com/norman-reedus-bitten-by-fan/"><img width="220" height="127" src="http://www.thewalkingdead.com/wp-content/uploads/2015/12/NormanBite1.png" alt=""><span>Norman Reedus Bitten By Fan At Photo Op</span></a></div>
+                                                                                    <div class="latest"><a href="http://www.thewalkingdead.com/icymi-this-week-on-thewalkingdead-com-2/"><img width="220" height="127" src="http://www.thewalkingdead.com/wp-content/uploads/2015/12/This-Week-12-6.png" alt=""><span>ICYMI: This Week on TheWalkingDead.com</span></a></div>
+                                                                                    <div class="latest"><a href="http://www.thewalkingdead.com/google-play-names-road-to-survival-___-game-of-2015/"><img width="220" height="127" src="http://www.thewalkingdead.com/wp-content/uploads/2015/12/RTS.png" alt=""><span>ROAD TO SURVIVAL Tops Google Plays List of Best Games of 2015</span></a></div>
                                                                             </div>
                                 </div>
                             </li>
@@ -649,9 +659,9 @@ jQuery(document).ready(function()
                                         </ul>
                                     </div>
                                     <div class="additional clearfix">
-                                                                                    <div class="latest"><a href="http://www.thewalkingdead.com/5-questions-we-have-for-issue-142/"><img width="220" height="127" src="http://www.thewalkingdead.com/wp-content/uploads/2015/06/5-Questions-142.png" alt=""><span>5 Questions We Have for Issue #142</span></a></div>
-                                                                                    <div class="latest"><a href="http://www.thewalkingdead.com/the-walking-dead-142-preview/"><img width="220" height="127" src="http://www.thewalkingdead.com/wp-content/uploads/2015/06/walking-dead-142-preview-feat.png" alt=""><span>The Walking Dead 142 Preview</span></a></div>
-                                                                                    <div class="latest"><a href="http://www.thewalkingdead.com/jumping-from-the-show-into-the-comics-2015/"><img width="220" height="127" src="http://www.thewalkingdead.com/wp-content/uploads/2015/05/from-show-to-comic-2015-feat.png" alt=""><span>Jumping from the Show into the Comics 2015</span></a></div>
+                                                                                    <div class="latest"><a href="http://www.thewalkingdead.com/icymi-this-week-on-thewalkingdead-com-2/"><img width="220" height="127" src="http://www.thewalkingdead.com/wp-content/uploads/2015/12/This-Week-12-6.png" alt=""><span>ICYMI: This Week on TheWalkingDead.com</span></a></div>
+                                                                                    <div class="latest"><a href="http://www.thewalkingdead.com/the-walking-dead-149-preview/"><img width="220" height="127" src="http://www.thewalkingdead.com/wp-content/uploads/2015/12/the-walking-dead-149-feat.png" alt=""><span>The Walking Dead 149 Preview</span></a></div>
+                                                                                    <div class="latest"><a href="http://www.thewalkingdead.com/alpha-is-coming/"><img width="220" height="127" src="http://www.thewalkingdead.com/wp-content/uploads/2015/11/Alpha-newsletter.jpg" alt=""><span>Alpha is Coming…</span></a></div>
                                                                             </div>
                                 </div>
                             </li>
@@ -668,9 +678,9 @@ jQuery(document).ready(function()
                                         </ul>
                                     </div>
                                     <div class="additional clearfix">
-                                                                                    <div class="latest"><a href="http://www.thewalkingdead.com/ew-with-fear-update-pics/"><img width="220" height="127" src="http://www.thewalkingdead.com/wp-content/uploads/2015/06/fear-EW-coverage-feat.png" alt=""><span>EW with FEAR Update, Pics! — Updated</span></a></div>
-                                                                                    <div class="latest"><a href="http://www.thewalkingdead.com/corey-hawkins-joins-twd-cast/"><img width="220" height="127" src="http://www.thewalkingdead.com/wp-content/uploads/2015/06/enter-heath-corey-hawkins-feat.png" alt=""><span>Corey Hawkins Joins TWD Cast</span></a></div>
-                                                                                    <div class="latest"><a href="http://www.thewalkingdead.com/jumping-from-the-show-into-the-comics-2015/"><img width="220" height="127" src="http://www.thewalkingdead.com/wp-content/uploads/2015/05/from-show-to-comic-2015-feat.png" alt=""><span>Jumping from the Show into the Comics 2015</span></a></div>
+                                                                                    <div class="latest"><a href="http://www.thewalkingdead.com/norman-reedus-bitten-by-fan/"><img width="220" height="127" src="http://www.thewalkingdead.com/wp-content/uploads/2015/12/NormanBite1.png" alt=""><span>Norman Reedus Bitten By Fan At Photo Op</span></a></div>
+                                                                                    <div class="latest"><a href="http://www.thewalkingdead.com/icymi-this-week-on-thewalkingdead-com-2/"><img width="220" height="127" src="http://www.thewalkingdead.com/wp-content/uploads/2015/12/This-Week-12-6.png" alt=""><span>ICYMI: This Week on TheWalkingDead.com</span></a></div>
+                                                                                    <div class="latest"><a href="http://www.thewalkingdead.com/mtv-zombie-pirates-in-fear-the-walking-dead-season-2/"><img width="220" height="127" src="http://www.thewalkingdead.com/wp-content/uploads/2015/12/fearpirate.png" alt=""><span>MTV: Zombie Pirates in Fear The Walking Dead Season 2?</span></a></div>
                                                                             </div>
                                 </div>
                             </li>
@@ -678,9 +688,9 @@ jQuery(document).ready(function()
                                 <a href="http://www.thewalkingdead.com/galleries/">Galleries</a>
                                 <div class="flyout">
                                     <div class="additional clearfix">
-                                                                                                                                <div class="latest"><a href="http://www.thewalkingdead.com/image-gallery/behind-the-scenes-of-the-s5-finale/"><img width="220" height="127" src="http://www.thewalkingdead.com/wp-content/uploads/2015/04/season-5-finale-BTSgallery-feat1.png" alt=""><span>Behind the Scenes of the S5 Finale!</span></a></div>
-                                                                                                                                <div class="latest"><a href="http://www.thewalkingdead.com/image-gallery/episode-516-finale-photo-gallery/"><img width="220" height="127" src="http://www.thewalkingdead.com/wp-content/uploads/2015/04/season-5-finale-gallery-feat.png" alt=""><span>Episode 516: FINALE Photo Gallery</span></a></div>
-                                                                                                                                <div class="latest"><a href="http://www.thewalkingdead.com/image-gallery/episode-515-image-gallery/"><img width="220" height="127" src="http://www.thewalkingdead.com/wp-content/uploads/2015/03/Feat-515Images.png" alt=""><span>Episode 515 Image Gallery</span></a></div>
+                                                                                                                                <div class="latest"><a href="http://www.thewalkingdead.com/image-gallery/the-walking-dead-608-start-to-finish-gallery/"><img width="220" height="127" src="http://www.thewalkingdead.com/wp-content/uploads/2015/11/608galleryfeat.png" alt=""><span>The Walking Dead 608: Start To Finish Gallery</span></a></div>
+                                                                                                                                <div class="latest"><a href="http://www.thewalkingdead.com/image-gallery/the-walking-dead-607-heads-up-gallery/"><img width="220" height="127" src="http://www.thewalkingdead.com/wp-content/uploads/2015/11/607gallery.png" alt=""><span>The Walking Dead 607: “Heads Up” Gallery</span></a></div>
+                                                                                                                                <div class="latest"><a href="http://www.thewalkingdead.com/image-gallery/a-glimpse-into-the-walking-dead-episode-607/"><img width="220" height="127" src="http://www.thewalkingdead.com/wp-content/uploads/2015/11/607sneakpic.png" alt=""><span>A Glimpse Into Episode 607</span></a></div>
                                                                             </div>
                                     <div class="submenu">
                                         <ul>
@@ -693,9 +703,9 @@ jQuery(document).ready(function()
                                 <a href="http://www.thewalkingdead.com/videos/">Videos</a>
                                 <div class="flyout">
                                     <div class="additional clearfix">
-                                                                                                                                  <div class="latest"><a href="http://www.thewalkingdead.com/video-gallery/who-is-negan-major-spoilers/"><img width="220" height="127" src="http://www.thewalkingdead.com/wp-content/uploads/2015/06/who-is-negan-feat.png" alt=""><span>YouTuber Ronny Haze Gives Low Down on Negan! Major Spoilers</span></a></div>
-                                                                                                                                  <div class="latest"><a href="http://www.thewalkingdead.com/video-gallery/coming-in-2015-trailer/"><img width="220" height="127" src="http://www.thewalkingdead.com/wp-content/uploads/2015/05/Feat-Coming2015.png" alt=""><span>Coming in 2015 Trailer</span></a></div>
-                                                                                                                                  <div class="latest"><a href="http://www.thewalkingdead.com/video-gallery/top-10-greatest-zombies/"><img width="220" height="127" src="http://www.thewalkingdead.com/wp-content/uploads/2015/05/Feat-top10zombies.png" alt=""><span>Top 10 Greatest Zombies</span></a></div>
+                                                                                                                                  <div class="latest"><a href="http://www.thewalkingdead.com/video-gallery/the-walking-dead-michonne-a-telltale-games-series-reveal-trailer/"><img width="220" height="127" src="http://www.thewalkingdead.com/wp-content/uploads/2015/12/Telltale-Michonne-trailer-feat.png" alt=""><span>The Walking Dead: Michonne – A Telltale Games Series Reveal Trailer</span></a></div>
+                                                                                                                                  <div class="latest"><a href="http://www.thewalkingdead.com/video-gallery/watch-steven-yeun-discusses-how-he-kept-glenns-fate-a-secret/"><img width="220" height="127" src="http://www.thewalkingdead.com/wp-content/uploads/2015/12/StevenFallon.png" alt=""><span>Steven Yeun Discusses How He Kept Glenn’s Fate A Secret</span></a></div>
+                                                                                                                                  <div class="latest"><a href="http://www.thewalkingdead.com/video-gallery/watch-the-walking-dead-episode-608-after-credits-scene/"><img width="220" height="127" src="http://www.thewalkingdead.com/wp-content/uploads/2015/11/Codafeat1.png" alt=""><span>WATCH The Walking Dead Episode 608 After-Credits Scene</span></a></div>
                                                                             </div>
                                     <div class="submenu">
                                         <ul>
@@ -715,18 +725,18 @@ jQuery(document).ready(function()
                                         </ul>
                                     </div>
                                     <div class="additional clearfix">
+                                                                                    <div class="latest"><a href="http://www.thewalkingdead.com/games/the-walking-dead-road-to-survival/"><img width="220" height="127" src="http://www.thewalkingdead.com/wp-content/uploads/2015/08/RTS1.png" alt=""><span>The Walking Dead: Road to Survival</span></a></div>
+                                                                                    <div class="latest"><a href="http://www.thewalkingdead.com/games/the-escapists-the-walking-dead/"><img width="220" height="127" src="http://www.thewalkingdead.com/wp-content/uploads/2015/10/escapist2.png" alt=""><span>The Escapists: The Walking Dead</span></a></div>
                                                                                     <div class="latest"><a href="http://www.thewalkingdead.com/novels/invasion/"><img width="220" height="127" src="http://www.thewalkingdead.com/wp-content/uploads/2015/04/twd-invasion-feat.png" alt=""><span>Invasion</span></a></div>
-                                                                                    <div class="latest"><a href="http://www.thewalkingdead.com/novels/the-walking-dead-descent/"><img width="220" height="127" src="http://www.thewalkingdead.com/wp-content/uploads/2015/04/twd-descent-feat.png" alt=""><span>Descent</span></a></div>
-                                                                                    <div class="latest"><a href="http://www.thewalkingdead.com/novels/the-fall-of-the-governor-part-two/"><img width="220" height="127" src="http://www.thewalkingdead.com/wp-content/uploads/2014/02/The-Walking-Dead-Fall-of-Gov2-feat.jpg" alt=""><span>The Fall of the Governor: Part Two</span></a></div>
                                                                             </div>
                                 </div>
                             </li>
-<li class="theescape">
+<!--<li class="theescape">
                                 <a href="http://www.thewalkingdeadescape.com" target="_blank">The Escape</a>
                                 <div class="flyout">
-                                    <a href="http://www.thewalkingdeadescape.com" target="_blank" class="chopShopLogo"><img src="http://www.thewalkingdead.com/wp-content/themes/thewalkingdead/images/TWD-module.jpeg" alt="The Escape"></a>
+                                    <a href="http://www.thewalkingdeadescape.com" target="_blank" class="chopShopLogo"><img src="/images/TWD-module.jpeg" alt="The Escape" /></a>
                                 </div>
-                            </li>
+                            </li>-->
 
                             <!-- <li class="chopShop">
                                 <a href="http://WalkingDeadChopShop.com" target="_blank">Chop Shop</a>
