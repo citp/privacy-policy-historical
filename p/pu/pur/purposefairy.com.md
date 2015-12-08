@@ -1,5 +1,15 @@
-> *The following text is extracted and transformed from the purposefairy.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610011344id_/http%3A//www.purposefairy.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the purposefairy.com privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208123048id_/http%3A//www.purposefairy.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Purpose Fairy
 
+## Cookies
+
+Cookies help PurposeFairy.com function at its highest level. By continuing to use our site, you agree to our cookie policy.
+
+This site uses cookies – small text files that are placed on your machine to help the site provide a better user experience. In general, cookies are used to retain user preferences, store information for things like shopping carts, and provide anonymised tracking data to third party applications like Google Analytics. As a rule, cookies will make your browsing experience better. However, you may prefer to disable cookies on this site and on others. The most effective way to do this is to disable cookies in your browser. We suggest consulting the Help section of your browser or taking a look at [the About Cookies website](http://www.aboutcookies.org/) which offers guidance for all modern browsers.
+
+## Privacy
+
 Your privacy is very important to us. Accordingly, we have developed this Policy in order for you to understand how we collect, use, communicate and disclose and make use of personal information. The following outlines our privacy policy. – Before or at the time of collecting personal information, we will identify the purposes for which information is being collected. – We will collect and use of personal information solely with the objective of fulfilling those purposes specified by us and for other compatible purposes, unless we obtain the consent of the individual concerned or as required by law. – We will only retain personal information as long as necessary for the fulfillment of those purposes. – We will collect personal information by lawful and fair means and, where appropriate, with the knowledge or consent of the individual concerned. – Personal data should be relevant to the purposes for which it is to be used, and, to the extent necessary for those purposes, should be accurate, complete, and up-to-date. – We will protect personal information by reasonable security safeguards against loss or theft, as well as unauthorized access, disclosure, copying, use or modification. – We will make readily available to customers information about our policies and practices relating to the management of personal information. We are committed to conducting our business in accordance with these principles in order to ensure that the confidentiality of personal information is protected and maintained.
+
+Cookies help PurposeFairy.com function at its highest level. By continuing to use our site, you agree to our cookie policy.[Read the cookie policy](http://www.purposefairy.com/privacy-policy/)
