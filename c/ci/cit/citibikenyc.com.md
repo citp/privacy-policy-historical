@@ -1,72 +1,118 @@
-> *The following text is extracted and transformed from the citibikenyc.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608120125id_/http%3A//www.citibikenyc.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the citibikenyc.com privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208025311id_/http%3A//www.citibikenyc.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Citi Bike NYC
 
-**Hey Members!** Share the bike love with a friend and you'll both get a free month when they sign up for a new annual Citi Bike membership. [Refer Now!](http://refer.citibikenyc.com/header)
+**Hey Members!** Share the bike love with a friend and you'll both get a free month when they sign up for a new annual Citi Bike membership. [Refer Now!](http://refer.citibikenyc.com/nov)
 
+Print this page
+
+**
+
+## Motivate: Privacy Notice
+
+**
+
+ **Effective Date: October 1, 2015**
+
+We at Motivate International, Inc., along with our subsidiaries and affiliates (“Motivate”), respect your concerns about privacy. Motivate operates Citi Bike in New York City and Jersey City. This Privacy Notice applies to (i) the websites and apps listed in Appendix A (collectively, the “Sites”), (ii) the on-street kiosks associated with the Citi Bike bicycle sharing programs, (iii) our customer call center and (iii) your use of or other interaction with our bicycle sharing programs (the “Service”).
+
+This Privacy Notice describes the types of personal information we collect about consumers, how we use the information, with whom we share it and the choices available to you regarding our use of the information. We also describe the measures we take to protect the security of the information and how you can contact us about our privacy practices.
+
+Click on one of the links below to jump to the listed section:
+
+* Information We Collect
+* _Information We Collect By Automated Means_
+* How We Use the Information We Collect
+* Information We Share
+* Your Choices
+* How We Protect Personal Information
+* Links To Third-Party Websites, Apps and Services
+* Updates To Our Privacy Notice
+* How To Contact Us
   
-**I. PURPOSE**
+**Information We Collect**
 
-NYC Bike Share, LLC (“NYCBS,” “Our,” or “We”) values your privacy. The purpose of this Privacy Policy is to disclose (i) the information that We may collect, (ii) the way We may use that information, and (iii) how We may disclose that information to others.  
-This Privacy Policy is hereby incorporated into: (a) Our Website Terms of Use Agreement (“Website Agreement”); (b) Our User Agreement, Liability Waiver, and Release (whether entered into on Our website or at any of Our kiosks, (collectively, “User Agreement”)); and (c) all terms and conditions applicable to Our mobile application products (collectively, “Mobile App Agreements”). This Privacy Policy is also applicable to any information We may collect from you through Our customer service centers or programs (whether that information is provided telephonically, electronically, or by mail).  
-By agreeing to Our Website Agreement, Our User Agreement, or any of Our Mobile App Agreements, or by using any of Our services, or by providing NYCBS with any information about yourself, you accept and consent to this Privacy Policy. All capitalized terms used in this Privacy Policy but not otherwise defined are defined in the Website Agreement.
+The types of personal information we may collect include:
 
-**II. INFORMATION COLLECTION, USE, AND DISCLOSURE**
+* Contact information (such as name, postal address, email address and telephone number);
+* date of birth;
+* gender;
+* login credentials;
+* payment information (such as your payment card number, expiration date, authorization number or security code, delivery address and billing address);
+* your geographic location, in connection with your use of the Sites or the Service;
+* photographs, comments and other content you provide.
 
-**Information We Collect:** Most of the information that We collect is the information that you give to us through Our Website Agreement, User Agreement, Mobile App Agreements, customer service centers or programs, or otherwise (collectively, including, but not limited to, all personally identifiable information, “User Information”). We collect, receive, and may store User Information, and the City of New York and its Department of Transportation have certain legal rights with respect to all User Information. 
+In addition, when you use the Service, we may obtain system data, including information such as your geographic location, trip duration, start and stop time and date, start and end station name, station ID number, station latitude and longitude, bicycle ID number and user type (such as annual member).
 
-Personally identifiable information that We may collect, receive, and store includes your full name, user name, phone number, email address, billing address, shipping address, date of birth, gender, credit card information (including the credit card number, expiration date, and the full name on the credit card), billing history, trip history, geographic and location information gained through the use of any of Our mobile device applications, and zip code. We also may collect other supplemental information from various third parties. For example, if you incur a debt to NYCBS, We may conduct a credit check by obtaining additional information about you from a credit bureau, as permitted by law; or, if the information you provide cannot be verified, We may ask you to send us additional information, such as your driver license, credit card statement, or utility bill, to confirm your address, or We may ask you to answer additional questions on Our website, via email, or through Our customer service centers or programs. You can always choose not to provide any User Information, but then you might not be able to take advantage of any of Our services.
+_Information We Collect By Automated Means_
 
-Like most standard website servers, We use log files to collect Internet Protocol (“IP”) addresses, browser type, Internet Service Provider (“ISP”), referring/exit pages, platform type, and date/time stamp. We may use that information to analyze site usage, administer the site, understand usage and navigation trends in the aggregate, and determine the relevance of content. IP addresses also may be linked to User Information, to improve your experience while you are using Our website. Although, We have no obligation to do so, We also may retain any email, letter, or other correspondence from you, to ensure quality control.
+In addition, when you visit our Sites, we may collect certain information by automated means, such as cookies, web beacons and web server logs. The information we collect in this manner includes IP address, unique device identifier, browser characteristics, device characteristics, operating system, language preferences, referring URLs, information on actions taken on our Sites, and dates and times of visits to the Sites. A “cookie” is a file that websites send to a visitor’s computer or other Internet-connected device to uniquely identify the visitor’s browser or to store information or settings in the browser. A “web beacon” also known as an Internet tag, pixel tag or clear GIF, links web pages to web servers and their cookies and may be used to transmit information collected through cookies back to a web server. Through these automated collection methods, we obtain “clickstream data,” which is a log of the links and other content on which a visitor clicks while browsing the Sites. As the visitor clicks through the Sites, a record of the action may be collected and stored. We may link certain data elements we have collected through automated means, such as your browser information, with other information we have obtained about you to let us know, for example, whether you have opened an email we sent to you. Your browser may tell you how to be notified when you receive certain types of cookies or how to restrict or disable certain types of cookies. Please note, however, that without cookies you may not be able to use all of the features of our Sites. When you use the Sites, neither we nor any third parties collect personal information about your online activities, over time and across third-party websites. Our Sites are not designed to respond to “do not track” signals from browsers.
 
-**How We Use Collected Information:** We may use any User Information provided by you to serve you and to operate and maintain Our services. For example, We may use any User Information to respond to your requests, to customize your future use of Our website or services, to improve Our website and services, and to communicate with you. We do not use User Information without your consent for any commercial or marketing purpose; and, We may use your User Information without your consent, for non-commercial, non-marketing, or administrative purposes.
+We may use third-party analytics services on the Sites, such as those of Google Analytics. The information obtained for this purpose (including your IP address and other information collected by automated means) will be disclosed to or collected directly by these service providers. To learn about opting out of Google Analytics, please [click here](https://tools.google.com/dlpage/gaoptout "https://tools.google.com/dlpage/gaoptout").
 
-We may disclose information under certain circumstances. We may use third party companies to provide us with back-end support for Our services, including, but not limited to, credit card processing. We reserve the right to partner with any third party to provide those services, and We may share User Information to those third parties to allow them to provide those services. Those companies may or may not retain, share, store, or use the User Information for secondary purposes, and We are not responsible or liable for how those companies use any User Information. We make no representation or warranty about the privacy or security policies of these third party companies.
+The providers of third-party apps, tools, widgets and plug-ins on our Sites, such as social media sharing tools, also may use automated means to collect information regarding your interactions with these features. This information is collected directly by the providers of the features and is subject to the privacy policies or notices of these providers. To the extent permitted by applicable law, Motivate is not responsible for these providers’ information practices.
 
-User Information We collect is currently hosted by Netsuite and Rackspace. Although We make no representation or warranty about the privacy or security policies of these two companies, for your information, their security policies can be found here:
+**How We Use the Information We Collect**
 
-<http://www.netsuite.com/portal/platform/infrastructure/operational-security.shtml>
+We may use the information described above to:
 
-<http://www.rackspace.com/security/>
+* Provide products and services to you, such as to allow you to obtain a bicycle
+* Create and manage your account;
+* Process your payments;
+* Send you promotional materials and other communications;
+* Communicate with you about, and administer your participation in, special events, contests, sweepstakes, programs, offers, surveys and market research;
+* Promote government or bicycling-related services and programs;
+* Respond to your inquiries;
+* Operate, evaluate and improve our business (including developing new products and services; monitoring, enhancing and improving our systems and services; managing our communications; analyzing our products and customer base; performing data analytics; and performing accounting, auditing and other internal functions);
+* Verify your identity;
+* Transition from one operator to another (for example, if Motivate ceases to operate the Sites or the Service);
+* Protect against, identify and prevent fraud and other unlawful activity, claims and other liabilities; and
+* Comply with and enforce applicable legal requirements, relevant industry standards, contractual obligations and our policies.
 
-**When We May Disclose Information:** While We may receive User Information about you from other sources and add it to your account information, We will not sell or provide any User Information to third parties in any manner that is different from what is disclosed in this Privacy Policy. Information about Our customers is an important part of Our business, and We are not in the business of selling any User Information to others.
+In addition, we use information collected through cookies, web beacons, pixels, web server logs and other automated means for purposes such as (i) customizing our users’ visits to our Sites, (ii) delivering content tailored to our users’ interests and the manner in which our users browse our Sites, and (iii) managing our Sites and other aspects of our business.
 
-We reserve the right, however, to disclose User Information that We believe is necessary or appropriate: (i) to enforce Our rights under the Website Agreement, User Agreement, Mobile App Agreements, or any other agreements; (ii) to investigate or defend against any allegation or claim against NYCBS or involving Our services; (iii) to assist governmental enforcement agencies or to respond to a subpoena in accordance with applicable law; (iv) to protect the property rights and safety of anyone (e.g., if you are in an accident and are unable to communicate personal information to the appropriate authorities, We may provide User Information to the authorities). We also may release User Information if required to do so by law or by agreement, or if in good faith it is necessary to comply with any law or agreement. We may share User Information with different governmental agencies, including the City of New York and its Department of Transportation, and all User Information may be used by those agencies in their sole discretion. Those agencies may or may not retain, share, store, or use the User Information for secondary purposes, and We are not responsible or liable for how those agencies use any User Information. We make no representation or warranty about the privacy or security policies of these agencies. We also may exchange information with other companies and organizations for fraud protection and credit risk reduction. 
+We also may use the information in other ways for which we provide specific notice at the time of collection.
 
-**III. PLEDGE TO SECURITY**
+**Information We Share**
 
-We take reasonable security precautions to protect User Information. When We ask users to enter sensitive information (such as a credit card number), that information is encrypted. If you have any question about the security on Our website or about Our services, you can send an email to customerservice@citibikenyc.com. Although We intend to use reasonable security safeguards to protect the security of User Information, WE HAVE LIMITED CONTROL AND WE CANNOT PROVIDE OR GUARANTEE COMPLETE SECURITY OF ANY USER INFORMATION, INCLUDING, BUT NOT LIMITED TO, ANY USER INFORMATION THAT IS PROVIDED TO THIRD PARTIES INCLUDING, BUT NOT LIMITED TO, THE CITY OF NEW YORK AND ITS DEPARTMENT OF TRANSPORTATION; THEREFORE, YOUR POSTING OR TRANSMITTING OF ANY USER INFORMATION IS DONE AT YOUR SOLE RISK. If there is a serious breach in the security of Our services, then We will attempt to contact you using some or all of the User Information you have provided to us, to allow you to take further steps that may be necessary to protect your information. We will also take steps to promptly notify the appropriate governmental agencies.
+We do not disclose personal information we collect about you, except as described in this Privacy Notice. We may share your personal information with service providers who perform services on our behalf. We do not authorize these service providers to use or disclose the information except as necessary to perform services on our behalf or comply with legal requirements. In addition, we may share your information with (i) our subsidiaries and affiliates, (ii) joint marketing partners or other co-branded third parties, (iii) municipalities and other relevant government agencies associated with the Service, and (iv) sponsors (such as employers that provide discounted rates for employees).
 
-**IV. LINKS TO OTHER SITES**
+We also may share information with other public and private organizations for statistical and research purposes. We reserve the right to transfer personal information we have about you in the event we sell or transfer all or a portion of our business or assets (including in the event of a reorganization, dissolution or liquidation).
 
-Our website may contain links to other websites. Please be aware that We are not responsible for the privacy practices of any other website. We encourage Our users to be aware of when they leave Our website and to read the privacy policy of every website that collects personally identifiable information. This Privacy Policy applies solely to information collected by NYCBS.
+In addition, we may disclose information about you (i) if we are required to do so by law or legal process, (ii) to law enforcement authorities or other government officials, (iii) to enforce or exercise our rights under our agreements with users or to investigate or defend against any action or allegation against us, or (iv) when we believe disclosure is necessary or appropriate to prevent physical harm or financial loss, or in connection with an investigation of suspected or actual fraudulent or illegal activity.
 
-**V. INTERNATIONAL USE**
+**Your Choices**
 
-Our services are provided in the United States and are intended solely for the use of users in the United States; however, if you use and access the Website or services from outside the United States, then be aware that United States laws apply to NYCBS, Our website, and Our services, as opposed to any foreign or regional law that might relate to intellectual property rights, privacy rights, collection of data, or other rights.
+We offer you certain choices in connection with the personal information we collect about you, such as how we communicate with you. To ask us to remove your information from our mailing lists or submit a request, please contact us as indicated in the “How to Contact Us” section of this Privacy Notice. You can also unsubscribe from our mailing lists by following the “Unsubscribe” link in our emails.
 
-**VI. POLICY REGARDING CHILDREN**
+**How We Protect Personal Information**
 
-We do not knowingly collect or maintain any information from any person under 16 years of age, and no part of Our services or Our website is communicated directly to any person under 16 years of age, except through the person's parent(s) or legal guardian(s). If We learn that User Information of any person under 16 years of age has been collected without parental or guardian consent, then We may take appropriate steps to delete that User Information. If you are under 16, you may use Our website only with the involvement of a parent or guardian.
+We maintain administrative, technical and physical safeguards designed to protect the personal information you provide against accidental, unlawful or unauthorized destruction, loss, alteration, access, disclosure or use.
 
-**VII. MERGER, SALE, BANKRUPTCY, OR OTHER EVENT**
+**Links To Third-Party Websites, Apps and Services**
 
-As We continue to develop Our business, We might sell or buy assets, subsidiaries, or business units. In such transactions, customer information generally is one of the transferred business assets. If We are acquired by, or merged with, any other entity, We reserve the right to assign or transfer any User Information that We have collected; and, for any bankruptcy, insolvency, reorganization, receivership, or assignment for the benefit of creditors, or for any application of laws or equitable principles affecting creditors’ rights, your User Information might be transferred or disclosed to third parties.
+For your convenience and information, our Sites may provide links to third-party websites, apps and services that may be operated by companies not affiliated with Motivate. These companies may have their own privacy notices or policies, which we strongly suggest you review. We are not responsible for the privacy practices of any non-Motivate websites, apps or services.
 
-**VIII. UPDATES AND CHANGES TO PRIVACY POLICY**
+**Updates To Our Privacy Notice**
 
-At any time and from time to time, and without your consent, We may unilaterally amend, modify, or change this Privacy Policy, in Our sole discretion and without any notice or cause. By continuing to use Our website or any of Our services after any amendment, modification, or change, you have agreed to be bound by all such amendments, modifications, and changes. Therefore, please carefully review this Privacy Policy on a regular basis to maintain awareness of all amendments, modifications, and changes. If you choose to visit Our website, your visit and any dispute over privacy is subject to this Privacy Policy, the Website Agreements, User Agreements, and the Mobile App Agreements.
+This Privacy Notice may be updated periodically and without prior notice to you to reflect changes in our personal information practices. For significant changes, we will notify you by posting a prominent notice on the Sites indicating at the top of the Notice when it was most recently updated.
 
-**IX. LIMITATION OF LIABILITY**
+**How To Contact Us**
 
-YOU UNDERSTAND AND AGREE THAT ANY DISPUTE OVER PRIVACY IS SUBJECT TO THE TERMS OF THIS PRIVACY POLICY AND THE WEBSITE AGREEMENT, USER AGREEMENT, AND MOBILE APP AGREEMENTS, INCLUDING, BUT NOT LIMITED TO, LIMITATIONS ON DAMAGES AND MANDATORY MEDIATION OF DISPUTES. YOU AGREE THAT OUR LIABILITY FOR ANY BREACH OF THIS PRIVACY POLICY IS LIMITED TO THE SUM OF $100, BUT ONLY TO THE EXTENT THAT SUCH CLAIM IS NOT OTHERWISE BARRED BY THE AGREEMENT. SOME JURISDICTIONS DO NOT ALLOW FOR LIMITED LIABILITY OR EXCLUSION OF IMPLIED WARRANTIES. IF THESE LAWS APPLY TO YOU, THEN SOME OR ALL OF THE ABOVE DISCLAIMERS, EXCLUSIONS, OR LIMITATIONS MIGHT NOT APPLY TO YOU, AND YOU MIGHT HAVE ADDITIONAL RIGHTS.
+If you would like us to update information we have about you or if you have any questions or comments about this Privacy Notice, please contact us by email at [customerservice@citibikenyc.com](mailto:customerservice@citibikenyc.com "mailto:customerservice@citibikenyc.com") subject line Privacy Policy. You also may write to:
 
-**X. CONTACT US**
-
-For more information or if you have questions or concerns regarding Our Privacy Policy, please contact us at the address, telephone number, or email address below:
-
-NYC Bike Share, LLC  
-PO Box 320592  
+Motivate International, Inc.  
+Attention: Legal Department  
+5202 Third Avenue  
 Brooklyn, NY 11232  
-1-(855)-BIKE-311 or 1-(855)245-3311  
-customerservice@citibikenyc.com
+  
+**Appendix A**
+
+Websites
+
+[www.citibikenyc.com](http://www.citibikenyc.com/ "http://www.citibikenyc.com/")  
+[www.citibikejc.com](http://www.citibikejc.com/ "http://www.citibikejc.com/")
+
+Mobile Apps
+
+[The Official Citi Bike App](http://www.citibikenyc.com/get-the-app "http://www.citibikenyc.com/get-the-app")
