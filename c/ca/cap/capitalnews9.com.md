@@ -1,18 +1,16 @@
-> *The following text is extracted and transformed from the capitalnews9.com privacy policy that was archived on 2013-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130605185339id_/http%3A//capitalregion.ynn.com/content/contact_us/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the capitalnews9.com privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208094344id_/http%3A//www.twcnews.com/nys/rochester/about-us/2015/01/21/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy - Albany/Schenectady/Troy - Albany
+# Privacy Policy
 
-**Welcome to Time Warner Cable's YNN.com Privacy Policy**
+The information Time Warner Cable collects about you at this site and its sub domains (the "Site") is used to administer the Site and to provide information to visitors about the Site's various services and tools, and to provide general news, information and entertainment. Time Warner Cable, together with Road Runner and Time Warner Cable-affiliated cable operators, are collectively referred to in this Privacy Policy as "we," "us," "our" or other similar pronouns, or "Time Warner Cable."
 
-The information Time Warner Cable collects about you at [YNN.com](http://www.ynn.com/) and its sub domains (the "Site") is used to administer the Site and to provide information to visitors about the Site's various services and tools, and to provide general news, information and entertainment. Time Warner Cable, together with Road Runner and Time Warner Cable-affiliated cable operators, are collectively referred to in this Privacy Policy as "we," "us," "our" or other similar pronouns, or "Time Warner Cable."
-
- **What Does This Privacy Policy Cover?**
+**What Does This Privacy Policy Cover?**
 
 This Privacy Policy (the "Privacy Policy") applies to your use of the Site. This Privacy Policy does not govern Time Warner Cable's treatment of information it collects and receives about you other than through the Site, for example in connection with any other services provided to you by Time Warner Cable. A privacy notice relating to some of the other services Time Warner Cable provides is located at [help.twcable.com/html/policies.html](http://help.twcable.com/html/policies.html)
 
 This Privacy Policy covers how Time Warner Cable treats information that Time Warner Cable collects and receives about you via the Site, including the personally identifiable information we collect through the various features, services, and software that we use to provide the Site to you. Some of these offerings are provided by third parties who may provide you with additional information and choices about your privacy. If you choose to take advantage of these offerings, you should read the privacy policies of such third parties.
 
- **How Does Time Warner Cable Collect and Use Information About You?**
+**How Does Time Warner Cable Collect and Use Information About You?**
 
 Absent your consent or request, Time Warner Cable does not divulge personally identifiable information to third parties for their marketing or advertising purposes.
 
@@ -26,11 +24,11 @@ When you visit the Site, it is important that we can present our content in a wa
 
   * Your Internet Protocol address;  
 
-  * The referring page that linked you to us, the pages you visit on this Site; the web page you visit after this Site;   
+  * The referring page that linked you to us, the pages you visit on this Site; the web page you visit after this Site;  
 
-  * The content and advertisements that you view and/or click on;   
+  * The content and advertisements that you view and/or click on;  
 
-  * Any search terms you enter on this Site or a referral site;   
+  * Any search terms you enter on this Site or a referral site;  
 
   * If you are accessing this Site from a portable device, the device may provide this Site with your location, we will collect that information on pages where your location helps authenticate you or determine the page content. To the extent this information is stored; it will be stored only in anonymous or aggregate format.  
 
@@ -38,9 +36,9 @@ When you visit the Site, it is important that we can present our content in a wa
 
 
 
-Use of this Site is allowed only for people that are authenticated as Time Warner Cable subscribers. In order to identify whether you are eligible to enter the Site and access particular content, we will collect information to authenticate you and the TWC services you purchase. 
+Use of this Site is allowed only for people that are authenticated as Time Warner Cable subscribers. In order to identify whether you are eligible to enter the Site and access particular content, we will collect information to authenticate you and the TWC services you purchase.
 
-From time-to-time, this Site may offer features that will require us to collect information about you in order for the features to work in an optimum way. These features can include the registration or subscription to newsletters, accounts or features on this Site, the making of online purchases, entering sweepstakes and contests, completing surveys, contributing to a chat room, message board, blog, or other similar open forum on this Site, the submission of comments or question to us using a "contact us" or similar feature on this Site, the sending to Time Warner Cable of e-mail, or in any other way submitting personally identifiable information to us via or relating to this Site. If you do not take advantage of these opportunities, we will not collect information from you to support these options. 
+From time-to-time, this Site may offer features that will require us to collect information about you in order for the features to work in an optimum way. These features can include the registration or subscription to newsletters, accounts or features on this Site, the making of online purchases, entering sweepstakes and contests, completing surveys, contributing to a chat room, message board, blog, or other similar open forum on this Site, the submission of comments or question to us using a "contact us" or similar feature on this Site, the sending to Time Warner Cable of e-mail, or in any other way submitting personally identifiable information to us via or relating to this Site. If you do not take advantage of these opportunities, we will not collect information from you to support these options.
 
 To the extent you provide us with information about you, we may use this information for internal purposes related to any Time Warner Cable service or product and to send you notices (for example, in the form of e-mails, mailings, and the like), and otherwise correspond with you, about products, services, companies and events, sponsored by us and others, that we think might interest you.
 
@@ -50,7 +48,7 @@ Some of the information described above is collected or maintained through "cook
 
 Content on this Site, including advertisements, may be recommended to you or customized to your interests and preferences, based on your personally identifiable information and web site usage information, including (but not limited to) non-personally identifying information, which we may obtain from you or from other sources.
 
-We may make available a service through which you can receive messages on your wireless device via short message service ("SMS Service"). You must first register and provide all required information, which may include, for example, your name, SMS address, wireless carrier and, if fees are applicable to the SMS Service you subscribe to, billing information (either your credit card information or mobile service carrier information if applicable fees will be billed through your carrier). We may also obtain the date, time and content of your messages in the course of your use of the SMS Service. We will use the information we obtain in connection with our SMS Service in accordance with this Privacy Policy. If fees are charged to your wireless account invoice, we may provide your carrier with your applicable information in connection therewith. Your wireless carrier and other service providers may also collect data about your wireless device usage, and their practices are governed by their own policies. 
+We may make available a service through which you can receive messages on your wireless device via short message service ("SMS Service"). You must first register and provide all required information, which may include, for example, your name, SMS address, wireless carrier and, if fees are applicable to the SMS Service you subscribe to, billing information (either your credit card information or mobile service carrier information if applicable fees will be billed through your carrier). We may also obtain the date, time and content of your messages in the course of your use of the SMS Service. We will use the information we obtain in connection with our SMS Service in accordance with this Privacy Policy. If fees are charged to your wireless account invoice, we may provide your carrier with your applicable information in connection therewith. Your wireless carrier and other service providers may also collect data about your wireless device usage, and their practices are governed by their own policies.
 
 Any or all of the activities and collection described above may be performed on our behalf by our services providers.
 
@@ -74,7 +72,7 @@ Time Warner Cable will not disclose information about you to any other party exc
 
 
 
-Aggregate data and information that otherwise is not personally identifiable to you may be disclosed to others. 
+Aggregate data and information that otherwise is not personally identifiable to you may be disclosed to others.
 
 **Security**
 
@@ -82,12 +80,12 @@ Time Warner Cable will take steps to protect the security and integrity of all s
 
 You are responsible for maintaining the strict confidentiality of your account password, and you shall be responsible for any access to or use of the Site by you or any person or entity using your password, whether or not such access or use has been authorized by or on behalf of you.
 
- **Changes to This Privacy Policy**
+**Changes to This Privacy Policy**
 
-We may change this Policy by amending the on-line version. If you continue to use this Site following any change in our Policy, you will have accepted the changes. If you do not agree to the changes, you should not use this Site. Any changes to this Notice are intended to be prospective only. 
+We may change this Policy by amending the on-line version. If you continue to use this Site following any change in our Policy, you will have accepted the changes. If you do not agree to the changes, you should not use this Site. Any changes to this Notice are intended to be prospective only.
 
 **Contacting Us**
 
-If you have any questions regarding this Privacy Policy, or the privacy practices of Time Warner Cable in connection with this Site, you may contact us at [TWC.privacy@twcable.com](mailto:TWC.privacy@twcable.com).
+If you have any questions regarding this Privacy Policy, or the privacy practices of Time Warner Cable in connection with this Site, you may contact us at [twc.privacy@twcable.com](mailto:twc.privacy@twcable.com).
 
 December 2011
