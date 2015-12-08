@@ -1,13 +1,11 @@
-> *The following text is extracted and transformed from the florensia-online.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610001152id_/http%3A//www.florensia-online.com/pages/legal-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the florensia-online.com privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208215725id_/http%3A//www.florensia-online.com/pages/legal-policy) for the most accurate reproduction.*
 
 # Florensia Western Global | Free to Play next-gen MMOG | Play for free! florensia-online.com
 
-**GamesInFlames UG  Privacy Policy**
-
+**GamesInFlames UG  Privacy Policy**  
 We are deeply concerned with the protection of personal data. We would like you to know when we are saving which data and how we use them. As a company of civil law, we are subject to the Federal Data Protection Act (BDSG) and the Treaty for Telemedia (TMG) of the Federal Republic of Germany. We took technical and organisational measures to ensure that the regulations on data protection are followed by us, as well as external service providers who are working for us.
 
- **Personal Data**
-
+**Personal Data**  
 Personal data is information used to learn about your identity, including information like your real name, your address, zip code, phone number. Information not associated with your real identity (for example your favorite website or the number of users on a page) are not covered.
 
 Parts of our online service (website) are usable without revealing your identity. As soon as you want to participate in games and the portal itself, you will be asked for your name and other private information. The following information will be asked:
@@ -24,17 +22,17 @@ When you access our services, data which allows an identification (for example t
 
 IP addresses will be saved for a period of 28 days when using our service as anonymous users. They are saved for data security purposes and to ensure the stability and the operational safety of our system. Data that is necessary for accounting is excepted from this limited saving procedure.
 
-In case we provide third parties with information, they gain no access to the saved personal data. The administration of those is exclusive subject to GamesInFlames  
-  
- **Passing of Personal Data to Third Parties**
+In case we provide third parties with information, they gain no access to the saved personal data. The administration of those is exclusive subject to GamesInFlames
 
-Your data will not be passed to third parties without your explicit approval. If your data is passed to other service providers due to the processing of data, these providers are bound to the BDSG, other statutory provisions and contractually to the Privacy Policy of Burda:ic. As far as we are obliged via laws or judicial decree, your data can be passed to units entitled to receive information.
+  
+  
+**Passing of Personal Data to Third Parties**  
+Your data will not be passed to third parties without your explicit approval. If your data is passed to other service providers due to the processing of data, these providers are bound to the BDSG, other statutory provisions and contractually to the Privacy Policy of GamesInFlames. As far as we are obliged via laws or judicial decree, your data can be passed to units entitled to receive information.
 
 Articles posted in our forums are open to the public. Before posting you should check your posts whether they contain information not intended for the public. You need to face the possibility that your posts will be collected by search engines and thus become accessible worldwide without our service being used. Foreign service providers oftentimes cannot be ordered to erase or revise these kinds of entries.
 
-**Official Florensia E-Mail addresses**
-
-By registering on florensia-online.com it is possible to receive E-Mails which update you on new games, content and webpage features, which inform you about special offers or provide you with important account related information from the following sender addresses:
+**Official Florensia E-Mail addresses  
+** By registering on florensia-online.com it is possible to receive E-Mails which update you on new games, content and webpage features, which inform you about special offers or provide you with important account related information from the following sender addresses:
 
 registration@gamesinflames.com
 
@@ -46,17 +44,14 @@ crm@gamesinflames.com
 
 info@gamesinflames.com
 
-**Unsubscribe GamesInFlames and Florensia E-Mails**
+**Unsubscribe GamesInFlames and Florensia E-Mails  
+** In case you want to unsubscribe from Florensia and GamesInFlames E-Mails, you will find an unsubscribe link on the bottom of each official E-Mail.
 
-In case you want to unsubscribe from Flroensia and GamesInFlames E-Mails, you will find an unsubscribe link on the bottom of each official E-Mail.
+**Right to Revoke**  
+You can delete your submitted personal data anytime. Data used for accounting and clearance purposes are not affected by cancelation and deletion.
 
 **  
-Right to Revoke**
-
-You can delete your submitted personal data anytime. Data used for accounting and clearance purposes are not affected by cancelation and deletion.  
- **  
-Usage of Cookies**
-
+Usage of Cookies**  
 At some parts of our service, cookies are used to realize certain user functions. You will be pointed out to that at the respective points. On some pages, advertisements of companies and agencies are delivered directly. Cookies might be used there without us being able to point that out to you.
 
 Without the use of cookies, only a limited usage of our services is possible. Most browsers are configured to automatically accept cookies. However, you can turn the saving of cookies off or have your browser alert you once cookies are being sent.
@@ -70,14 +65,18 @@ The following information is saved within the cookies set by us:
 
 
 
-**Children**
+**Web Tracking  
+** This website uses Google Analytics, a web analytics service provided by Google Inc. ("Google"). Google Analytics uses "cookies" which are text files placed on your computer that enable an analysis of your use of the website. The information generated by the cookie about your use of this website is generally transmitted to and stored on a Google server in the United States. IP anonymization is activated on this website, therefore Google will truncate your IP address beforehand within Member States of the European Union or other parties to the Agreement on the European Economic Area. Only in exceptional cases will the full IP address be transmitted to a Google server in the United States and truncated there. On behalf of the operator of this website, Google will use this information for the purpose of evaluating your use of the website, compiling reports on website activity and providing the website operator with other services relating to website and Internet use. The IP address transmitted by your browser within the scope of Google Analytics will not be associated with any other data held by Google. You may refuse the use of cookies by selecting the appropriate settings in your browser. However, please note that if you do so, you may not be able to use the full functionality of this website. Furthermore, you can prevent Google’s collection and use of data generated by the cookie and related to your use of the website (including your IP address) by downloading and installing the browser plug-in available at http://tools.google.com/dlpage/gaoptout?hl=en.
 
-People of an age below 18 should not transmit personal data to us without their parents' agreement. However, you need to specify your date of birth during the registration process. Some functions are not enabled for people below the age of 18, for example credit card payment in Germany.
+The Google Analytics tracking code implemented on this website supports Display Advertising. Google Analytics for Display Advertising is used on this website in form of remarketing. Third-party vendors, including Google, will show ads on sites across the internet, use first-party cookies (such as the Google Analytics cookie) and third-party cookies (such as the DoubleClick cookie) together to inform, optimize and serve ads based on your past visits to this website ("remarketing"). Google Analytics demographics and interests data is inferred from the third-party DoubleClick cookie. You can opt out of Google Analytics for display advertising and customize Google display ads using the Ads Preferences Manager at https://www.google.com/settings/ads/onweb.
 
- **Links to other Websites**
+We use these informations to analyze the behaviour of our users on this website in aggregated and anonymous manner. By that, we can measure the success of marketing activities and optimize the function of website forms and booking processes.
 
-Our online service contains links to other websites. We have no influence on their operators to keep their privacy policy.
+**Children  
+** People of an age below 18 should not transmit personal data to us without their parents' agreement. However, you need to specify your date of birth during the registration process. Some functions are not enabled for people below the age of 18, for example credit card payment in Germany.
 
- **Questions and Comments**
+**Links to other Websites  
+** Our online service contains links to other websites. We have no influence on their operators to keep their privacy policy.
 
-For questions, suggestions or comments concerning privacy protection, please refer to GamesInFlames person in charge of privacy protection: datenschutz@gamesinflames.com  Due to the rapid development of the internet, an adjustment of our privacy policy may be required at any one time. At this point, you will be informed about the alterations.
+**Questions and Comments  
+** For questions, suggestions or comments concerning privacy protection, please refer to GamesInFlames person in charge of privacy protection: datenschutz@gamesinflames.com  Due to the rapid development of the internet, an adjustment of our privacy policy may be required at any one time. At this point, you will be informed about the alterations.
