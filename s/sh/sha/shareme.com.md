@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shareme.com privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612020617id_/http%3A//shareme.com/privacypage.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shareme.com privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208064113id_/http%3A//shareme.com/privacypage.html) for the most accurate reproduction.*
 
 # Our Privacy Policy - Shareme.com respects your right to privacy
 
@@ -59,94 +59,94 @@ An intelligent freeware to fix common PC...
 
 ####  New Downloads
 
-  * [TeeChart for Java 2015](https://web.archive.org/details/teechart-for-java.html)
+  * [StarCode Express Plus Point of Sale 23.0.0](https://web.archive.org/details/starcode-express-plus-point-of-sale.html)
 
-Java Charting components Library shipping with...
+StarCode Express is Single Terminal Point of...
 
-  * [DBF Converter 3.97](https://web.archive.org/details/dbf-converter.html)
+  * [dbForge Data Generator for SQL Server 3.7](https://web.archive.org/details/dbforge-data-generator-for-sql-server.html)
 
-DBF Converter supports all the modern data...
+dbForge Data Generator for SQL Server is a GUI...
 
-  * [TeeChart for .NET 2015](https://web.archive.org/details/teechart-for--net.html)
+  * [dbForge Data Compare for SQL Server 4.0](https://web.archive.org/details/dbforge-data-compare-for-sql-server.html)
 
-The .NET Charting Component Library offers full...
+dbForge Data Compare for SQL Server is a tool...
 
-  * [Mgosoft XPS To PDF Converter 10.6.152](https://web.archive.org/details/mgosoft-xps-to-pdf-converter.html)
+  * [Database Workbench Pro 5.1.8](https://web.archive.org/details/database-workbench-pro.html)
 
-Mgosoft XPS To PDF facilitates the conversion...
+Cross database engine developer IDE for...
 
-  * [Icecream Slideshow Maker 1.21](https://web.archive.org/details/icecream-slideshow-maker.html)
+  * [MicroOLAP Database Designer for MySQL 2.1.6](https://web.archive.org/details/microolap-database-designer-for-mysql.html)
 
-Icecream Slideshow Maker features a number of...
+Visual development system intended for database...
 
-  * [Icecream Screen Recorder 1.46](https://web.archive.org/details/icecream-screen-recorder.html)
+  * [Icecream PDF Split & Merge 3.0](https://web.archive.org/details/icecream-pdf-split---merge.html)
 
-Simple, free and smart application for creating...
+Icecream PDF Split & Merge is a versatile...
 
-  * [Icecream Media Converter 1.47](https://web.archive.org/details/icecream-media-converter.html)
+  * [MOBILedit 8.1](https://web.archive.org/details/mobiledit.html)
 
-Icecream Media Converter handles video to...
+MOBILedit is the universal phone management...
 
-  * [Mainmedia Quick Time Source Directshow Filter 3.39](https://web.archive.org/details/mainmedia-quick-time-source-directshow-filter.html)
+  * [Typograf font manager 5.2.1](https://web.archive.org/details/typograf-font-manager.html)
 
-Quick Time Source Filter is a powerful source...
+Typograf is an easy to use Windows font...
 
-  * [Icecream PDF Split&Merge 2.07](https://web.archive.org/details/icecream-pdf-split-merge.html)
+  * [Image for Windows with IFD GUI 2.98](https://web.archive.org/details/image-for-windows-with-ifd-gui.html)
 
-Icecream PDF Split&Merge is a versatile utility...
+Image for Windows is an affordable and reliable...
 
-  * [ACDSee Pro 8.2.0.287](https://web.archive.org/details/acdsee-pro.html)
+  * [Duplicate Video Remover Free 1.4](https://web.archive.org/details/duplicate-video-remover-free.html)
 
-ACDSee Pro 8 is packed with everything you need...
+Duplicate Video Remover Free - small but very...
 
 
 
 
 ####  Recent Searches
 
-[2 Stroke Wizard Download](https://web.archive.org/programs/2/stroke-wizard-download), [Desktopbinder Ricoh](https://web.archive.org/programs/desktopbinder/ricoh), [Php Proxy Email Server](https://web.archive.org/programs/php/proxy-email-server), [Venus De Milo Prince](https://web.archive.org/programs/venus/de-milo-prince), [Rev John Hartman](https://web.archive.org/programs/rev/john-hartman), [Canon Setup Utility 2 3 F R Pixma](https://web.archive.org/programs/canon/setup-utility-2-3-f-r-pixma), [Windows Media Player 12 Avi Audio Codec](https://web.archive.org/programs/windows/media-player-12-avi-audio-codec), [Phan Mem Xem Phim Avi Mp4 Tren May Nokia 5233](https://web.archive.org/programs/phan/mem-xem-phim-avi-mp4-tren-may-nokia-5233), [Broomball Nationals 2008](https://web.archive.org/programs/broomball/nationals-2008), [Driver Acer Aspire 4750](https://web.archive.org/programs/driver/acer-aspire-4750), [Model Railroad Software](https://web.archive.org/programs/model/railroad-software), [Helvetica Neue Extended Font](https://web.archive.org/programs/helvetica/neue-extended-font), [Sss Employment History](https://web.archive.org/programs/sss/employment-history), [Appleton Public Library Hours](https://web.archive.org/programs/appleton/public-library-hours), [W950i Dj Software](https://web.archive.org/programs/w950i/dj-software)
+[Opera Mini Handler S60 3rd](https://web.archive.org/programs/opera/mini-handler-s60-3rd), [Mp4 Player Repair Tool Energy Sistem 3020](https://web.archive.org/programs/mp4/player-repair-tool-energy-sistem-3020), [Free Autocad Stage Lighting SymbolsSend](https://web.archive.org/programs/free/autocad-stage-lighting-symbolssend), [Scratch On Pc Like](https://web.archive.org/programs/scratch/on-pc-like), [Activation Code For Regclean Pro](https://web.archive.org/programs/activation/code-for-regclean-pro), [Data Recovery Sotware](https://web.archive.org/programs/data/recovery-sotware), [Flash Softw](https://web.archive.org/programs/flash/softw), [Motorola W385 Handset Adobe Flash Player](https://web.archive.org/programs/motorola/w385-handset-adobe-flash-player), [Stamp Download](https://web.archive.org/programs/stamp/download), [Songs Of Ipl Teams Download](https://web.archive.org/programs/songs/of-ipl-teams-download), [Active Desktop Recovery Software](https://web.archive.org/programs/active/desktop-recovery-software), [Dwg Martin House](https://web.archive.org/programs/dwg/martin-house), [Start Up Activation Codes Straight Talk](https://web.archive.org/programs/start/up-activation-codes-straight-talk), [Draw To Life](https://web.archive.org/programs/draw/to-life), [Us Air Force Museum Dayton Oh](https://web.archive.org/programs/us/air-force-museum-dayton-oh)
 
 #### Latest Reviews
 
-  * [Cydia Download ](https://web.archive.org/details/cydia-download.html)   (Dennising)
+  * [Duplicate Image Remover Free ](https://web.archive.org/details/duplicate-image-remover-free.html)   (Almon)
 
-Very good software. Worked exactly as it should. 
+I have a lot of duplicate / similar images in my PC which I wanted to get rid of so I installed this program but sadly... 
 
-  * [AVG Free Edition ](https://web.archive.org/details/avg-free-edition.html)   (Sarla )
+  * [PDF Viewer for Windows ](https://web.archive.org/details/pdf-viewer-for-windows.html)   (Marta)
 
-AVG provides an efficient antivirus protection which is good enough for me. 
+How am I suppose to go up/ down faster becasue I didn't find any scrollbar. I can move only one page at a time. 
 
-  * [PhotoFunia ](https://web.archive.org/details/photofunia.html)   (Muchan)
+  * [Kernel for PST Split ](https://web.archive.org/details/kernel-for-pst-split.html)   (Karras)
 
-Nice, it has many effects, easy to use. 
+Very effective tool that repairs pst files flawlessly. I recommend everybody to use trail version for result and using... 
 
-  * [MBOX to PST 2013 Converter ](https://web.archive.org/details/mbox-to-pst-2013-converter.html)   (Austin Williams)
+  * [Exchange Email Repair ](https://web.archive.org/details/exchange-email-repair.html)   (Austin Williams)
 
-I downloaded this tool some time ago. Before buying this tool I have used its demo for some days for complete... 
+I was very disappointed when my EDB mailbox had become inaccessible. Many thanks to this program which has recovered all... 
 
-  * [Easy 7-Zip ](https://web.archive.org/details/easy-7-zip.html)   (Alex)
+  * [Marimo Dungeon ](https://web.archive.org/details/marimo-dungeon.html)   (James)
 
-This is an exceptionally good program. It has fast compressing speed yet it doesn't take much system resource. 
+Very addicting game! You should get it. Only bad thing is you have to delete and download when u don't want a certain... 
 
-  * [Camfrog Free Webcam Chat Software ](https://web.archive.org/details/camfrog-free-webcam-chat-software.html)   (Bhupender)
+  * [Kernel for EML to PST ](https://web.archive.org/details/kernel-for-eml-to-pst.html)   (Mike)
 
-Cool features with an easy to use interface. By far this is the best video chat software I have came across. 
+I tried different types of programs and this one was way better. I was able to convert without any error. 
 
-  * [Installer Cydia ](https://web.archive.org/details/installer-cydia.html)   ( Riley C.)
+  * [Free Ovulation Calendar ](https://web.archive.org/details/free-ovulation-calendar.html)   (Garcia)
 
-When I select my OS version it pops up an error saying "Unhandled exception has occured in your application...". 
+Best app of it's kind. Been using it for a long time and I am very happy with it. I always get accurate information and... 
 
-  * [OLM to PST File Converter ](https://web.archive.org/details/olm-to-pst-file-converter.html)   (Steven Levitt)
+  * [How Repair Outlook PST ](https://web.archive.org/details/how-repair-outlook-pst.html)   (Michael )
 
-I had a sudden requirement to convert my OLM file into Windows supported Outlook PST file. I found OLM to PST converter... 
+It is great tool to repair corrupt pst files. You can utilize this product to take care of issue like that. 
 
-  * [Windows Live Mail to PST ](https://web.archive.org/details/windows-live-mail-to-pst.html)   (Ridley Thomas)
+  * [ShutUp10 ](https://web.archive.org/details/shutup10.html)   (Adam)
 
-The software is good, it converts the EML file into readable Outlook supported PST file format without any hassle. If you... 
+It's easy to use and has done a great job for my windows 10 computer. Keep up the good work. 
 
-  * [Avast! Free Antivirus ](https://web.archive.org/details/avast--free-antivirus.html)   (Gabeash)
+  * [Latest OST to PST ](https://web.archive.org/details/latest-ost-to-pst.html)   (Tom)
 
-I found this software simple to use, fast to detect, very effective in cleaning malwares and virus. 
+Fantastic software, it works very fast, easy to understand too. Converted ost file into pst in seconds, also recovered ost... 
 
 
   
