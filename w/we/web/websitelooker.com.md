@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the websitelooker.com privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612220242id_/http%3A//www.websitelooker.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the websitelooker.com privacy policy that was archived on 2015-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151210001049id_/http%3A//www.websitelooker.net/privacy.php) for the most accurate reproduction.*
 
 # Privacy
 
 **_WEBSITELOOKER.NET'S PRIVACY POLICY_**  
-**Last update on December 18th 2010**
+**Last update on September 18th 2015**
 
 **TOPICS:**
 
@@ -23,13 +23,13 @@
 
 **1.Introduction and general terms**
 
-websitelooker.net is committed to protecting your privacy. This Privacy Policy, which is a binding part of websitelooker.net's Terms of Use and End User License Agreement ("Agreement"), explains the type of information websitelooker.net collects through its website and the websitelooker.net browser companion software ("Status Bar Addon Service") and what websitelooker.net does with it.
+websitelooker.net is committed to protecting your privacy. This Privacy Policy, which is a binding part of websitelooker.net's Terms of Use and End User License Agreement ("Agreement"), explains the type of information websitelooker.net collects through its website and the websitelooker.net.
 
-websitelooker.net'S STATUS BAR ADDON SERVICE COLLECTS AND STORES INFORMATION ABOUT THE WEB PAGES YOU VIEW. ALTHOUGH websitelooker.net DOES NOT ATTEMPT TO ANALYZE WEB USAGE DATA TO DETERMINE THE IDENTITY OF ANY websitelooker.net USER, SOME INFORMATION COLLECTED BY THE STATUS BAR ADDON SERVICE IS PERSONALLY IDENTIFIABLE. websitelooker.net AGGREGATES AND ANALYZES THE INFORMATION IT COLLECTS TO IMPROVE ITS SERVICE AND TO PREPARE REPORTS ABOUT AGGREGATE WEB USAGE.
+websitelooker.net COLLECTS AND STORES INFORMATION ABOUT THE WEB PAGES YOU VIEW. ALTHOUGH websitelooker.net DOES NOT ATTEMPT TO ANALYZE WEB USAGE DATA TO DETERMINE THE IDENTITY OF ANY websitelooker.net USER, SOME INFORMATION COLLECTED BY THE websitelooker.net IS PERSONALLY IDENTIFIABLE. websitelooker.net AGGREGATES AND ANALYZES THE INFORMATION IT COLLECTS TO IMPROVE ITS SERVICE AND TO PREPARE REPORTS ABOUT AGGREGATE WEB USAGE.
 
-Please read the following privacy policy carefully before downloading and using websitelooker.net's Status Bar Addon Service software or using the websitelooker.net website. If you download and use websitelooker.net's Status Bar Addon Service software or use the websitelooker.net website, you will be bound by the terms of the Agreement, including this Privacy Policy.
+Please read the following privacy policy carefully before downloading and using websitelooker.net or using the websitelooker.net website. If you use websitelooker.net you will be bound by the terms of the Agreement, including this Privacy Policy.
 
-websitelooker.net's Status Bar Addon Service provides you the information as to how much a website is worth. It does this by logging and analyzing the Web surfing patterns of websitelooker.net users, which we call usage paths.
+websitelooker.net provides you the information as to how much a website is worth. It does this by logging and analyzing the Web surfing patterns of websitelooker.net users, which we call usage paths.
 
 websitelooker.net does not attempt to determine the identity of any websitelooker.net user by analyzing Web usage paths.
 
@@ -37,9 +37,7 @@ websitelooker.net does not attempt to determine the identity of any websitelooke
 
 If you are visiting the websitelooker.net website (websitelooker.net), we collect the following information: the full Uniform Resource Locator ("URL") of the Web page from which you came to websitelooker.net; your Internet Protocol ("IP") address, which may include a domain name; the date and time for each page you view.
 
-If you download and install the Status Bar Addon Service software, which provides the websitelooker.net Status Bar Addon, we collect any information voluntarily provided by you during the installation and registration process, which can include your e-mail address as well as demographic information such as gender, age, occupation, household income, zip code and country. Any e-mail address that you may give us during the installation process is kept separate from information collected during your use of the Status Bar Addon Service and is not used to correlate your identity to Web usage path.
-
-When you use the Status Bar Addon Service, we collect information about the websites you visit, and the pages you view. This information allows us to provide you with information about the Web page you are viewing and to estimate as to how much a website is worth. Thus, for every Web page you view while using the Status Bar Addon Service, the websitelooker.net software transmits and stores the following information from your computer to websitelooker.net:
+When you use the websitelooker.net, we collect information about the websites you visit, and the pages you view. This information allows us to provide you with information about the Web page you are viewing and to estimate as to how much a website is worth. The websitelooker.net transmits and stores the following information from your computer to websitelooker.net:
 
   * Your IP address, which may include a domain name.
   * The full URL of the Web page you are visiting.
@@ -51,7 +49,7 @@ All of the above information is logged together in a single data string for each
 
 **3.Does websitelooker.net collect personally identifiable information?**
 
-Sometimes the URLs we collect through the Status Bar Addon Service contains personal information about you. For example, when you enter information on a Web page (e.g., when you complete an online registration form or sign up for a contest), the operator of the website may insert that information into its URL for that or the next page. This information often appears after a question mark ("?") in the URL, although it can appear in other places. This means that your name, your address, your e-mail address, or similar information you might consider private or personally identifiable which you enter into a Web page sometimes becomes part of a URL that is then transmitted to websitelooker.net and automatically stored in websitelooker.net's databases. This can also occur with words, topics, products, or phrases you enter into search engines - whether those engines are provided by the websitelooker.net Status Bar Addon Service itself or found elsewhere on the Web - while using the websitelooker.net Status Bar Addon Service. websitelooker.net has no control over what information third party websites put into their URLs or where they put it, but any information in each URL is collected and stored by websitelooker.net when you are using the Status Bar Addon Service.
+Sometimes the URLs we collect through the websitelooker.net contains personal information about you. For example, when you enter information on a Web page (e.g., when you complete an online registration form or sign up for a contest), the operator of the website may insert that information into its URL for that or the next page. This information often appears after a question mark ("?") in the URL, although it can appear in other places. This means that your name, your address, your e-mail address, or similar information you might consider private or personally identifiable which you enter into a Web page sometimes becomes part of a URL that is then transmitted to websitelooker.net and automatically stored in websitelooker.net's databases. This can also occur with words, topics, products, or phrases you enter into search engines - whether those engines are provided by the websitelooker.net itself or found elsewhere on the Web - while using the websitelooker.net. websitelooker.net has no control over what information third party websites put into their URLs or where they put it, but any information in each URL is collected and stored by websitelooker.net.
 
 websitelooker.net analyzes its logs of usage path, to determine Web usage of users in the aggregate.
 
@@ -91,21 +89,17 @@ All suggestions, comments, or other feedback concerning your experience with or 
 
 **8.We do not control Data Collection and Use Practices by Other Businesses**
 
-The Status Bar Addon Service and websitelooker.net website provide links to various features, services, and Web pages provided solely by our business partners or other organizations. The links take you to pages provided solely by those entities, although sometimes the pages are co-branded with the websitelooker.net logo. You will be able to tell when another entity is involved with providing features, services, or Web pages, and any information about your interaction with those Web pages, including which pages and advertisements you view and any search terms or other information you enter, will be received by that other business.
+The websitelooker.net website provide links to various features, services, and Web pages provided solely by our business partners or other organizations. The links take you to pages provided solely by those entities, although sometimes the pages are co-branded with the websitelooker.net logo. You will be able to tell when another entity is involved with providing features, services, or Web pages, and any information about your interaction with those Web pages, including which pages and advertisements you view and any search terms or other information you enter, will be received by that other business.
 
 When you click on links to other businesses, those businesses may attach a cookie to your hard drive and may collect information about you. websitelooker.net makes no claims or representations about what those businesses do or do not collect about you. Please review any terms of use and privacy policies of those other businesses to learn about their data collection and data use practices.
-
-Further, our business partners may post advertisements on pages co-branded with the websitelooker.net logo. Those advertisements are transmitted to your browser directly by the advertiser or the business partner, not by websitelooker.net, and those advertisers may transmit a cookie to your hard drive and may collect information about you. If an advertiser or its ad server has previously placed a cookie on your machine, it may recognize the cookie and learn you have visited our co-branded Web page or used our Status Bar Addon Service even though you do not click on the advertisement. websitelooker.net makes no claim or representations concerning what such advertisers do or do not collect about you, and refers you to those entities for information about their privacy practices.
 
 You acknowledge and agree that websitelooker.net is not responsible for any content, advertising, products, or other materials on the websites (whether co-branded with the websitelooker.net logo or not) of or available from other businesses that we do not control. You further acknowledge that websitelooker.net shall not be responsible or liable, directly or indirectly, for any damage or loss caused by or in connection with use of or reliance on any such content, goods or services available on or through any such site or resource.
 
 **9.How to Change Your Information?**
 
-You can inform us of a change in the e-mail address or demographic information you provide us by contact us. websitelooker.net does not currently enable users to access, review, or change usage path and shopping path information collected during use of the Status Bar Addon Service. websitelooker.net also does not enable users to delete information, including usage path, shopping, and demographic information.
-
 If you do not want to receive websitelooker.net newsletters, offers, and product and service information, simply contact us and be sure to include the e-mail address where such information is being sent, and state that you no longer want to receive websitelooker.net information and updates.
 
-To submit requests to change or remove website owner contact information, please contact us. Please note that it can take up to 6 weeks for approved requests to be implemented in websitelooker.net's Status Bar Addon Service or website.
+To submit requests to change or remove website owner contact information, please contact us. Please note that it can take up to 6 weeks for approved requests to be implemented in websitelooker.net.
 
 **10.Changes to websitelooker.net's Privacy Policy**
 
@@ -145,12 +139,8 @@ A domain name identifies one or more IP addresses. Domain names are used in URLs
 
 A cookie is a small data file consisting of numbers, letters, or other characters that a server sends to your browser and stores on your computer's hard drive. The cookie automatically identifies your computer, but not your identity.
 
-You can configure your browser to accept all cookies, reject all cookies, or notify you when a cookie is set. (Each browser is different, so check the "Help" menu of your browser to learn how to change your cookie preferences.) However, if a browser is set to reject cookies, it may encounter functionality problems with the websitelooker.net Status Bar Addon Service.
-
-**Status Bar Addon**
-
-The websitelooker.net Status Bar Addon consists of buttons or links on your Web browser and enables you to use the websitelooker.net Status Bar Addon Service.
+You can configure your browser to accept all cookies, reject all cookies, or notify you when a cookie is set. (Each browser is different, so check the "Help" menu of your browser to learn how to change your cookie preferences.) However, if a browser is set to reject cookies, it may encounter functionality problems with the websitelooker.net .
 
 **Browser**
 
-A browser, short for Web browser, is a software application used to locate and display Web pages. Two popular browsers are Mozilla Firefox and Microsoft Internet Explorer.
+A browser, short for Web browser, is a software application used to locate and display Web pages. Two popular browsers are Chrome and Mozilla Firefox.
