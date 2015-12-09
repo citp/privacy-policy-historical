@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the editorandpublisher.com privacy policy that was archived on 2014-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141209103631id_/http%3A//www.editorandpublisher.com/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the editorandpublisher.com privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209183714id_/http%3A//www.editorandpublisher.com/PrivacyPolicy) for the most accurate reproduction.*
 
 # Editor and Publisher ®
 
