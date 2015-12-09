@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the uhv.edu privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609091821id_/http%3A//www.uhv.edu/aboutuhv/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uhv.edu privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209041308id_/http%3A//www.uhv.edu/aboutuhv/privacy.aspx) for the most accurate reproduction.*
 
-# Privacy and Policies - University of Houston, Victoria
+# Privacy and Policies - University of Houston-Victoria
 
 ## Privacy Policy
 
@@ -16,18 +16,23 @@ We use log analysis tools to create summary statistics, which are used for purpo
 
 ## UHV Web Policy
 
-The University of Houston-Victoria (UHV) Web Services department makes every effort to ensure that all content hosted on UHV web servers is generally accessible to all individuals in some form, regardless of any disability.
+Web Services at the University of Houston-Victoria (UHV) make every effort to ensure that all content hosted on UHV web servers is accessible, regardless of any disability.
 
-  * All web content must comply with current UHV Web Policies and Guidelines.  
+  * All web content must follow current UHV Web Policies and Guidelines.  
 NOTE: Due to the evolving nature of UHV, technology, and the World Wide Web, UHV Web Policies and Guidelines are subject to change.
-  * All questions and concerns regarding UHV Web Policies and Guidelines should be directed to [Webmaster@UHV.edu](mailto:Webmaster@UHV.edu?subject=Questions%2FConcerns%20RE:%20UHV%20Web%20Policies%20And%20Guidelines&cc=WebServices@uhv.edu).
-  * UHV Web Policies and Guidelines are based on compliance with the laws, regulations, policies, and standards as stated in the following documents: 
-    * Section 508 of the Rehabilitation Act of 1973. 
-      * Particularly, [§ 1194.22 Web-based intranet and internet information and applications](http://www.section508.gov/section-508-standards-guide#Web).
-    * Texas Dept. of Information Resources (DIR) [Standards Review and Recommendations Publications (SRRPUBs)](http://www.dir.texas.gov/pubs/srrpubs/Pages/SRRPUBs.aspx)
-    * Texas Administrative Code (TAC) Chapter 206: State Websites. 
-      * Particularly, [Subchapter C: Institution of Higher Education Websites](http://www.uhv.edu/TAC20670.aspx).
-    * Web Content Accessibility Guidelines ([WCAG](http://www.w3.org/WAI/intro/wcag))
+
+
+  * All questions and concerns about UHV Web Policies and Guidelines should email [Webmaster@UHV.edu](mailto:Webmaster@UHV.edu?subject=Questions%2FConcerns%20RE:%20UHV%20Web%20Policies%20And%20Guidelines&cc=WebServices@uhv.edu).
+
+
+
+UHV Web Policies and Guidelines are in compliance with the laws, regulations, policies, and standards as stated in the following documents:
+
+      * Section 508 of the Rehabilitation Act of 1973. Particularly, [§ 1194.22 Web-based intranet and internet information and applications](http://www.section508.gov/section-508-standards-guide#Web).
+      * Texas Dept. of Information Resources (DIR) [Standards Review and Recommendations Publications (SRRPUBs)](http://www.dir.texas.gov/pubs/srrpubs/Pages/SRRPUBs.aspx)
+      * Texas Administrative Code (TAC) Chapter 206: State Websites
+      * Particularly, [Subchapter C: Institution of Higher Education Websites](http://www.uhv.edu/it/Web_guidelines/TAC20670.aspx)
+      * Web Content Accessibility Guidelines ([WCAG](http://www.w3.org/WAI/intro/wcag))
 
 
   *[WCAG]: Web Content Accessibility Guidelines
