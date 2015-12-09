@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the job-search-engine.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607124236id_/http%3A//www.juju.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the job-search-engine.com privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209193449id_/http%3A//www.juju.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Juju
 
