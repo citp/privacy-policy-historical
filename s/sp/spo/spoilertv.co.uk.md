@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spoilertv.co.uk privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609182505id_/http%3A//www.site5.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spoilertv.co.uk privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209020948id_/http%3A//www.site5.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Site5 - Privacy Policy
 
@@ -70,18 +70,12 @@ The information provided to Site5 is saved indefinitely and may be stored on one
 
 While we cannot guarantee that loss, misuse or alteration to data will not occur; we make every effort to prevent such occurrences. Any other particularly sensitive information, such as credit card numbers collected for commercial transactions, is encrypted prior to transmission by you to Site5.
 
-### 11\. Safe Harbor
-
-Site5 has certified its participation and compliance with the US-EU Safe Harbor Framework and the US-Swiss Safe Harbor Framework as set forth by the US Department of Commerce regarding the transfer of personal information from European Union member countries and Switzerland to the United States. The principles of Safe Harbor compliance are notice, choice, onward transfer, security, data integrity, access, and enforcement. Additional information about the Safe Harbor principles and certification process can be found at the US Department of Commerce's [Safe Harbor](http://www.export.gov/safeharbor/) website.
-
-Site5 has further committed to refer unresolved privacy complaints under the US-EU Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU Safe Harbor, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by Site5, please visit the BBB EU Safe Harbor [web site](http://www.bbb.org/us/safe-harbor-complaints) for more information and to file a complaint.
-
-### 12\. Your Responsibility
+### 11\. Your Responsibility
 
 You are responsible for the security of the login information, such as usernames and passwords, which give you access to your private information maintained by Site5. Make sure you keep login information in a safe place and do not share it with others.
 
 Note that key-loggers, viruses, or other surveillance devices can intercept login information on the computers from which you access our Services, so you should take precautions regarding such devices, especially from public computers. In addition, you should always log out from any relevant Services when you are not actively using them.
 
-### 13\. Questions
+### 12\. Questions
 
 Any questions concerning this Privacy Policy may be directed to [privacy@site5.com](mailto:privacy@site5.com "privacy").
