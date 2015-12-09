@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kikki-k.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610001910id_/http%3A//www.kikki-k.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kikki-k.com privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209044708id_/http%3A//www.kikki-k.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -22,7 +22,6 @@ At times, we are required to collect personal information in the normal course o
 
 • Making customer purchases  
 • Registering for a kikki.K Workshop  
-• Processing lay-by purchases   
 • Accepting customer orders  
 • Processing credit card payments  
 • Arranging product holds  
@@ -88,11 +87,14 @@ If we are unable to collect your personal information, some or all of the follow
 • Your experience when interacting with us may be delayed or not as efficient as you may expect;  
 • If you are a candidate for employment, we may not be able to process your application for a position at kikki.K.
 
-**  
+ **  
 8\. Cookies**
 
-We may use temporary (session) cookies or permanent cookies when you access our global website. Cookies are small text files that websites or apps may automatically place on your computer or device. Most often, cookies are used to recognise repeat users of websites and remember user preferences. Cookies are also used to allow the website to track usage behaviour and aggregate data to allow us to customise your experience on our website. Cookies can be switched off by adjusting the settings on your web browser.   
-Each time you visit our website on any device, cookies may be used to record your server address and track your search habits, including time of visit, pages viewed, documents downloaded, system preferences and any other relevant information. kikki.K will retain and use this information primarily for statisitical purposes and also to facilitate the provision of software updates and software support for enhanced customer usability.
+A cookie is a small text file that is saved to, and, during subsequent visits, retrieved from your computer or mobile device. kikki.K uses cookies to enhance and simplify your visit. We do not use cookies to store personal information, or to disclose information to third parties. We use temporary (session cookies) to check whether you are logged in or if you put an item in your shopping bag. You can easily erase cookies from your computer or mobile device using your browser. For instructions on how to handle and delete cookies please look under "Help" in your browser. You can choose to disable cookies, or to receive a notification each time a new cookie is sent to your computer or mobile device. Please note that if you choose to disable cookies, you will not be able to take advantage of all our features.
+
+_Third-party cookies_   
+We use third-party cookies to collect statistics in aggregate form in analysis tools such as Google Analytics. The cookies used are both permanent and temporary cookies (session cookies). The permanent cookies are stored on your computer or mobile device for no longer than 24 months.  
+We also use third-party cookies for remarketing through our website or other social media channels. Any advertisements served by Google, Inc., and affiliated companies may be controlled using cookies. These cookies allow Google to display ads based on your visits to this site and other sites that use Google advertising services. Any tracking done by Google through cookies and other mechanisms is subject to Google's own privacy policies. Information about how you can opt out of Google's use of cookies can be found by visiting [Google's Ads Settings](https://www.google.com/settings/u/0/ads/authenticated).
 
 **  
 9\. How we hold your personal information**
