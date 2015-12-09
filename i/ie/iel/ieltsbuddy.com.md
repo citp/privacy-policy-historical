@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ieltsbuddy.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607144349id_/http%3A//www.ieltsbuddy.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ieltsbuddy.com privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209125105id_/http%3A//www.ieltsbuddy.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -31,7 +31,7 @@ We adopt appropriate data collection, storage and processing practices and secur
 
 We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above.
 
- **Third party websites**
+**Third party websites**
 
 Users may find advertising or other content on our Site that link to the sites and services of our partners, suppliers, advertisers, sponsors, licensors and other third parties. We do not control the content or links that appear on these sites and are not responsible for the practices employed by websites linked to or from our Site. In addition, these sites or services, including their content and links, may be constantly changing. These sites and services may have their own privacy policies and customer service policies. Browsing and interaction on any other website, including websites which have a link to our Site, is subject to that website's own terms and policies.
 
@@ -53,13 +53,11 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 
 **Contacting us**
 
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please [contact us](http://www.ieltsbuddy.com/contact-us.html).
 
 IELTS buddy
 
 www.ieltsbuddy.com
 
-Contact@ieltsbuddy.com
-
-This document was last updated on November 20, 2013  
+This document was last updated on August 4, 2015  
 
