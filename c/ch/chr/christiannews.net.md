@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the christiannews.net privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610052936id_/http%3A//christiannews.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the christiannews.net privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209190540id_/http%3A//christiannews.net/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Christian News Network
 
