@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moderntiredealer.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530235951id_/http%3A//www.moderntiredealer.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moderntiredealer.com privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209191424id_/http%3A//www.moderntiredealer.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Bobit Business Media
 
@@ -19,7 +19,9 @@ E-mail:  [Privacy@Bobit.com](mailto:Privacy@Bobit.com)
 
 #### Collected Information
 
-The information we collect is gathered from several sources. These include our conferences, product subscription forms/registrations, reader service cards, website message postings, survey information and purchases via telephone, direct mail, email, and other electronic sources. From these sources we may collect postal addresses, e-mail addresses, telephone numbers, and/or demographic information for those individuals that volunteer such information. For each visitor to our websites, our web server automatically recognizes the visitor’s domain name and IP address only, but no other identifiable information unless voluntarily provided. In addition, we collect aggregate information on what web pages visitors’ access or visit.
+The information we collect is gathered from several sources. These include our conferences, product subscription forms/registrations, reader service cards, website message postings, survey information and purchases via telephone, direct mail, email, and other electronic sources. From these sources we may collect postal addresses, e-mail addresses, telephone numbers, and/or demographic information for those individuals that volunteer such information. For each visitor to our websites, our web server automatically recognizes the visitor’s domain name and IP address in addition to information on what web pages visitors’ access or visit.
+
+We use Google Analytics remarketing, display network reporting, and analytics demographics and interest reporting. Visitors can opt-out of Google Analytics for display advertising and customize Google display network ads using the [Ads Settings](https://www.google.com/settings/ads "Google Ad Settings"). You may also opt-out of additional data collection via the Google Analytics [opt-out browser add-on](https://tools.google.com/dlpage/gaoptout/ "Google Analytics opt-out browser add-on"). We use Remarketing with Google Analytics to advertise online. Third-party vendors, including Google, show our ads on sites across the Internet. We and third-party vendors, including Google, use first-party cookies and third-party cookies to inform, optimize, and serve ads based on someone’s past visits to your website.
 
 #### How We Use Collected Information
 
