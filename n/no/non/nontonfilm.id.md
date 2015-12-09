@@ -1,6 +1,16 @@
-> *The following text is extracted and transformed from the nontonfilm.id privacy policy that was archived on 2015-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150616034333id_/http%3A//nontonfilm.id/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nontonfilm.id privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209170058id_/http%3A//nontonfilm.id/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Nontonfilm.id
+# Privacy Policy | Nontonfilm.id
+
+* Issue: *  
+
+* Your Name: *   
+
+* Your Email: *   
+
+
+* Details: *   
+
 
 **What information do we collect?**  
 We collect information from you when you register on our site. When ordering or registering on our site, as appropriate, you may be asked to enter your: name or e-mail address. You may, however, visit our site anonymously.
