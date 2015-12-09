@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the wikileaf.com privacy policy that was archived on 2015-06-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150611043225id_/http%3A//www.wikileaf.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the wikileaf.com privacy policy that was archived on 2015-12-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151209084204id_/http%3A//www.wikileaf.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><!--<![endif]--><script type="text/javascript" async="" src="//assets.mantisadnetwork.com/mantodea.min.js"></script><head>
 <meta charset="utf-8">
@@ -40,7 +40,7 @@
   <script src="http://www.wikileaf.com/js/respond.min.js"></script>
 <![endif]-->
 <!--common jquery file-->
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js#xfbml=1&amp;appId=482652381797029&amp;version=v2.0"></script><script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
 <script src="http://www.wikileaf.com/js/modernizr-2.7.1.min.js"></script>
 <!--share this script-->
 <!--map script for dispensary listing page-->
@@ -53,6 +53,18 @@ function initialize(){
 		$("#user_long").val(position.coords.longitude);
 		/*$("#user_lat").val('47.661284');
 		$("#user_long").val('-122.350324');*/
+		var lat = parseFloat(document.getElementById("user_lat").value);
+            var lng = parseFloat(document.getElementById("user_long").value);
+            var latlng = new google.maps.LatLng(lat, lng);
+            var geocoder = geocoder = new google.maps.Geocoder();
+            geocoder.geocode({ 'latLng': latlng }, function (results, status) {
+                if (status == google.maps.GeocoderStatus.OK) {
+                    if (results[1]) {
+						/*alert(results[1].formatted_address);*/
+						$("#user_address").val(results[1].formatted_address);
+                    }
+                }
+            });
     	});
   	}
 }
@@ -92,14 +104,6 @@ function initialize_strains(){
 </script>
 </head>
 <body>
-<div id="fb-root"></div>
-<script>(function(d, s, id) {
-  var js, fjs = d.getElementsByTagName(s)[0];
-  if (d.getElementById(id)) return;
-  js = d.createElement(s); js.id = id;
-  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&appId=482652381797029&version=v2.0";
-  fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));</script>
 <script type="text/javascript">
   var _gaq = _gaq || [];
   _gaq.push(['_setAccount', 'UA-39805017-1']);
@@ -160,7 +164,6 @@ function initialize_strains(){
 																						<li><a href="http://www.wikileaf.com/dispensary/in/california/berkeley/">Berkeley</a></li>
 																						<li><a href="http://www.wikileaf.com/dispensary/in/california/brea/">Brea</a></li>
 																						<li><a href="http://www.wikileaf.com/dispensary/in/california/buena-park/">Buena Park</a></li>
-																						<li><a href="http://www.wikileaf.com/dispensary/in/california/cameron-park/">Cameron Park</a></li>
 																						<li><a href="http://www.wikileaf.com/dispensary/in/california/carlsbad/">Carlsbad</a></li>
 																						<li><a href="http://www.wikileaf.com/dispensary/in/california/carmichael/">Carmichael</a></li>
 																						<li><a href="http://www.wikileaf.com/dispensary/in/california/chico/">Chico</a></li>
@@ -178,7 +181,9 @@ function initialize_strains(){
 																						<li><a href="http://www.wikileaf.com/dispensary/in/california/encinitas/">Encinitas</a></li>
 																						<li><a href="http://www.wikileaf.com/dispensary/in/california/escondido/">Escondido</a></li>
 																						<li><a href="http://www.wikileaf.com/dispensary/in/california/fallbrook/">Fallbrook</a></li>
+																						<li><a href="http://www.wikileaf.com/dispensary/in/california/folsom/">Folsom</a></li>
 																						<li><a href="http://www.wikileaf.com/dispensary/in/california/fountain-valley/">Fountain Valley</a></li>
+																						<li><a href="http://www.wikileaf.com/dispensary/in/california/fresno/">Fresno</a></li>
 																						<li><a href="http://www.wikileaf.com/dispensary/in/california/fullerton/">Fullerton</a></li>
 																						<li><a href="http://www.wikileaf.com/dispensary/in/california/garden-grove/">Garden Grove</a></li>
 																						<li><a href="http://www.wikileaf.com/dispensary/in/california/hacienda-heights/">Hacienda Heights</a></li>
@@ -209,18 +214,19 @@ function initialize_strains(){
 																						<li><a href="http://www.wikileaf.com/dispensary/in/california/oakland/">Oakland</a></li>
 																						<li><a href="http://www.wikileaf.com/dispensary/in/california/ocean-beach/">Ocean Beach</a></li>
 																						<li><a href="http://www.wikileaf.com/dispensary/in/california/oceanside/">Oceanside</a></li>
-																						<li><a href="http://www.wikileaf.com/dispensary/in/california/orange/">Orange</a></li>
 																						<li><a href="http://www.wikileaf.com/dispensary/in/california/pacific-beach/">Pacific Beach</a></li>
 																						<li><a href="http://www.wikileaf.com/dispensary/in/california/pacoima/">Pacoima</a></li>
 																						<li><a href="http://www.wikileaf.com/dispensary/in/california/palm-springs/">Palm Springs</a></li>
 																						<li><a href="http://www.wikileaf.com/dispensary/in/california/palmdale/">Palmdale</a></li>
 																						<li><a href="http://www.wikileaf.com/dispensary/in/california/panorama-city/">Panorama City</a></li>
+																						<li><a href="http://www.wikileaf.com/dispensary/in/california/pasadena/">Pasadena</a></li>
 																						<li><a href="http://www.wikileaf.com/dispensary/in/california/pearblossom/">Pearblossom</a></li>
 																						<li><a href="http://www.wikileaf.com/dispensary/in/california/playa-del-rey/">Playa Del Rey</a></li>
 																						<li><a href="http://www.wikileaf.com/dispensary/in/california/point-loma/">Point Loma</a></li>
 																						<li><a href="http://www.wikileaf.com/dispensary/in/california/poway/">Poway</a></li>
-																						<li><a href="http://www.wikileaf.com/dispensary/in/california/rancho-bernardo/">Rancho Bernardo</a></li>
+																						<li><a href="http://www.wikileaf.com/dispensary/in/california/rancho-cucamonga/">Rancho Cucamonga</a></li>
 																						<li><a href="http://www.wikileaf.com/dispensary/in/california/reseda/">Reseda</a></li>
+																						<li><a href="http://www.wikileaf.com/dispensary/in/california/riverside/">Riverside</a></li>
 																						<li><a href="http://www.wikileaf.com/dispensary/in/california/rocklin/">Rocklin</a></li>
 																						<li><a href="http://www.wikileaf.com/dispensary/in/california/rosamond/">Rosamond</a></li>
 																						<li><a href="http://www.wikileaf.com/dispensary/in/california/roseville/">Roseville</a></li>
@@ -234,12 +240,16 @@ function initialize_strains(){
 																						<li><a href="http://www.wikileaf.com/dispensary/in/california/san-rafael/">San Rafael</a></li>
 																						<li><a href="http://www.wikileaf.com/dispensary/in/california/santa-ana/">Santa Ana</a></li>
 																						<li><a href="http://www.wikileaf.com/dispensary/in/california/santa-barbara/">Santa Barbara</a></li>
+																						<li><a href="http://www.wikileaf.com/dispensary/in/california/santa-cruz/">Santa Cruz</a></li>
 																						<li><a href="http://www.wikileaf.com/dispensary/in/california/shingle-springs/">Shingle Springs</a></li>
 																						<li><a href="http://www.wikileaf.com/dispensary/in/california/solana-beach/">Solana Beach</a></li>
 																						<li><a href="http://www.wikileaf.com/dispensary/in/california/sonoma/">Sonoma</a></li>
+																						<li><a href="http://www.wikileaf.com/dispensary/in/california/st-luis-obispo/">St Luis Obispo</a></li>
+																						<li><a href="http://www.wikileaf.com/dispensary/in/california/stockton/">Stockton</a></li>
 																						<li><a href="http://www.wikileaf.com/dispensary/in/california/sun-valley/">Sun Valley</a></li>
 																						<li><a href="http://www.wikileaf.com/dispensary/in/california/sunland/">Sunland</a></li>
 																						<li><a href="http://www.wikileaf.com/dispensary/in/california/sylmar/">Sylmar</a></li>
+																						<li><a href="http://www.wikileaf.com/dispensary/in/california/temecula/">Temecula</a></li>
 																						<li><a href="http://www.wikileaf.com/dispensary/in/california/toluca-lake/">Toluca Lake</a></li>
 																						<li><a href="http://www.wikileaf.com/dispensary/in/california/torrance/">Torrance</a></li>
 																						<li><a href="http://www.wikileaf.com/dispensary/in/california/tujunga/">Tujunga</a></li>
@@ -264,6 +274,22 @@ function initialize_strains(){
 																						<li><a href="http://www.wikileaf.com/dispensary/in/colorado/northglenn/">Northglenn</a></li>
 																					</ul>
 									</li>
+																		<li><a href="#">Maine</a>
+										<ul class="dl-submenu">
+																						<li><a href="http://www.wikileaf.com/dispensary/in/maine/portland/">Portland</a></li>
+																					</ul>
+									</li>
+																		<li><a href="#">Massachusetts</a>
+										<ul class="dl-submenu">
+																						<li><a href="http://www.wikileaf.com/dispensary/in/massachusetts/boston/">Boston</a></li>
+																					</ul>
+									</li>
+																		<li><a href="#">Michigan</a>
+										<ul class="dl-submenu">
+																						<li><a href="http://www.wikileaf.com/dispensary/in/michigan/detroit/">Detroit</a></li>
+																						<li><a href="http://www.wikileaf.com/dispensary/in/michigan/muskegon/">Muskegon</a></li>
+																					</ul>
+									</li>
 																		<li><a href="#">Montana</a>
 										<ul class="dl-submenu">
 																						<li><a href="http://www.wikileaf.com/dispensary/in/montana/bozeman/">Bozeman</a></li>
@@ -279,6 +305,7 @@ function initialize_strains(){
 																						<li><a href="http://www.wikileaf.com/dispensary/in/oregon/ashland/">Ashland</a></li>
 																						<li><a href="http://www.wikileaf.com/dispensary/in/oregon/beaverton/">Beaverton</a></li>
 																						<li><a href="http://www.wikileaf.com/dispensary/in/oregon/bend/">Bend</a></li>
+																						<li><a href="http://www.wikileaf.com/dispensary/in/oregon/coos-bay/">Coos Bay</a></li>
 																						<li><a href="http://www.wikileaf.com/dispensary/in/oregon/corvallis/">Corvallis</a></li>
 																						<li><a href="http://www.wikileaf.com/dispensary/in/oregon/eugene/">Eugene</a></li>
 																						<li><a href="http://www.wikileaf.com/dispensary/in/oregon/gladstone/">Gladstone</a></li>
@@ -289,11 +316,15 @@ function initialize_strains(){
 																						<li><a href="http://www.wikileaf.com/dispensary/in/oregon/salem/">Salem</a></li>
 																						<li><a href="http://www.wikileaf.com/dispensary/in/oregon/seaside/">Seaside</a></li>
 																						<li><a href="http://www.wikileaf.com/dispensary/in/oregon/springfield/">Springfield</a></li>
+																						<li><a href="http://www.wikileaf.com/dispensary/in/oregon/the-dalles/">The Dalles</a></li>
+																						<li><a href="http://www.wikileaf.com/dispensary/in/oregon/waldport/">Waldport</a></li>
 																					</ul>
 									</li>
 																		<li><a href="#">Washington</a>
 										<ul class="dl-submenu">
 																						<li><a href="http://www.wikileaf.com/dispensary/in/washington/bellingham/">Bellingham</a></li>
+																						<li><a href="http://www.wikileaf.com/dispensary/in/washington/burlington/">Burlington</a></li>
+																						<li><a href="http://www.wikileaf.com/dispensary/in/washington/everett/">Everett</a></li>
 																						<li><a href="http://www.wikileaf.com/dispensary/in/washington/kitsap-county/">Kitsap County</a></li>
 																						<li><a href="http://www.wikileaf.com/dispensary/in/washington/north-seattle/">North Seattle</a></li>
 																						<li><a href="http://www.wikileaf.com/dispensary/in/washington/olympia/">Olympia</a></li>
@@ -356,7 +387,6 @@ function initialize_strains(){
 																				<li><a href="http://www.wikileaf.com/dispensary/in/california/berkeley/">Berkeley</a></li>
 																				<li><a href="http://www.wikileaf.com/dispensary/in/california/brea/">Brea</a></li>
 																				<li><a href="http://www.wikileaf.com/dispensary/in/california/buena-park/">Buena Park</a></li>
-																				<li><a href="http://www.wikileaf.com/dispensary/in/california/cameron-park/">Cameron Park</a></li>
 																				<li><a href="http://www.wikileaf.com/dispensary/in/california/carlsbad/">Carlsbad</a></li>
 																				<li><a href="http://www.wikileaf.com/dispensary/in/california/carmichael/">Carmichael</a></li>
 																				<li><a href="http://www.wikileaf.com/dispensary/in/california/chico/">Chico</a></li>
@@ -374,7 +404,9 @@ function initialize_strains(){
 																				<li><a href="http://www.wikileaf.com/dispensary/in/california/encinitas/">Encinitas</a></li>
 																				<li><a href="http://www.wikileaf.com/dispensary/in/california/escondido/">Escondido</a></li>
 																				<li><a href="http://www.wikileaf.com/dispensary/in/california/fallbrook/">Fallbrook</a></li>
+																				<li><a href="http://www.wikileaf.com/dispensary/in/california/folsom/">Folsom</a></li>
 																				<li><a href="http://www.wikileaf.com/dispensary/in/california/fountain-valley/">Fountain Valley</a></li>
+																				<li><a href="http://www.wikileaf.com/dispensary/in/california/fresno/">Fresno</a></li>
 																				<li><a href="http://www.wikileaf.com/dispensary/in/california/fullerton/">Fullerton</a></li>
 																				<li><a href="http://www.wikileaf.com/dispensary/in/california/garden-grove/">Garden Grove</a></li>
 																				<li><a href="http://www.wikileaf.com/dispensary/in/california/hacienda-heights/">Hacienda Heights</a></li>
@@ -405,18 +437,19 @@ function initialize_strains(){
 																				<li><a href="http://www.wikileaf.com/dispensary/in/california/oakland/">Oakland</a></li>
 																				<li><a href="http://www.wikileaf.com/dispensary/in/california/ocean-beach/">Ocean Beach</a></li>
 																				<li><a href="http://www.wikileaf.com/dispensary/in/california/oceanside/">Oceanside</a></li>
-																				<li><a href="http://www.wikileaf.com/dispensary/in/california/orange/">Orange</a></li>
 																				<li><a href="http://www.wikileaf.com/dispensary/in/california/pacific-beach/">Pacific Beach</a></li>
 																				<li><a href="http://www.wikileaf.com/dispensary/in/california/pacoima/">Pacoima</a></li>
 																				<li><a href="http://www.wikileaf.com/dispensary/in/california/palm-springs/">Palm Springs</a></li>
 																				<li><a href="http://www.wikileaf.com/dispensary/in/california/palmdale/">Palmdale</a></li>
 																				<li><a href="http://www.wikileaf.com/dispensary/in/california/panorama-city/">Panorama City</a></li>
+																				<li><a href="http://www.wikileaf.com/dispensary/in/california/pasadena/">Pasadena</a></li>
 																				<li><a href="http://www.wikileaf.com/dispensary/in/california/pearblossom/">Pearblossom</a></li>
 																				<li><a href="http://www.wikileaf.com/dispensary/in/california/playa-del-rey/">Playa Del Rey</a></li>
 																				<li><a href="http://www.wikileaf.com/dispensary/in/california/point-loma/">Point Loma</a></li>
 																				<li><a href="http://www.wikileaf.com/dispensary/in/california/poway/">Poway</a></li>
-																				<li><a href="http://www.wikileaf.com/dispensary/in/california/rancho-bernardo/">Rancho Bernardo</a></li>
+																				<li><a href="http://www.wikileaf.com/dispensary/in/california/rancho-cucamonga/">Rancho Cucamonga</a></li>
 																				<li><a href="http://www.wikileaf.com/dispensary/in/california/reseda/">Reseda</a></li>
+																				<li><a href="http://www.wikileaf.com/dispensary/in/california/riverside/">Riverside</a></li>
 																				<li><a href="http://www.wikileaf.com/dispensary/in/california/rocklin/">Rocklin</a></li>
 																				<li><a href="http://www.wikileaf.com/dispensary/in/california/rosamond/">Rosamond</a></li>
 																				<li><a href="http://www.wikileaf.com/dispensary/in/california/roseville/">Roseville</a></li>
@@ -430,12 +463,16 @@ function initialize_strains(){
 																				<li><a href="http://www.wikileaf.com/dispensary/in/california/san-rafael/">San Rafael</a></li>
 																				<li><a href="http://www.wikileaf.com/dispensary/in/california/santa-ana/">Santa Ana</a></li>
 																				<li><a href="http://www.wikileaf.com/dispensary/in/california/santa-barbara/">Santa Barbara</a></li>
+																				<li><a href="http://www.wikileaf.com/dispensary/in/california/santa-cruz/">Santa Cruz</a></li>
 																				<li><a href="http://www.wikileaf.com/dispensary/in/california/shingle-springs/">Shingle Springs</a></li>
 																				<li><a href="http://www.wikileaf.com/dispensary/in/california/solana-beach/">Solana Beach</a></li>
 																				<li><a href="http://www.wikileaf.com/dispensary/in/california/sonoma/">Sonoma</a></li>
+																				<li><a href="http://www.wikileaf.com/dispensary/in/california/st-luis-obispo/">St Luis Obispo</a></li>
+																				<li><a href="http://www.wikileaf.com/dispensary/in/california/stockton/">Stockton</a></li>
 																				<li><a href="http://www.wikileaf.com/dispensary/in/california/sun-valley/">Sun Valley</a></li>
 																				<li><a href="http://www.wikileaf.com/dispensary/in/california/sunland/">Sunland</a></li>
 																				<li><a href="http://www.wikileaf.com/dispensary/in/california/sylmar/">Sylmar</a></li>
+																				<li><a href="http://www.wikileaf.com/dispensary/in/california/temecula/">Temecula</a></li>
 																				<li><a href="http://www.wikileaf.com/dispensary/in/california/toluca-lake/">Toluca Lake</a></li>
 																				<li><a href="http://www.wikileaf.com/dispensary/in/california/torrance/">Torrance</a></li>
 																				<li><a href="http://www.wikileaf.com/dispensary/in/california/tujunga/">Tujunga</a></li>
@@ -463,6 +500,28 @@ function initialize_strains(){
 																			</ul>
 								</div>
 							</li>
+														<li><a href="#">Maine</a>
+								<div class="bigbottommenu">
+									<ul>
+																				<li><a href="http://www.wikileaf.com/dispensary/in/maine/portland/">Portland</a></li>
+																			</ul>
+								</div>
+							</li>
+														<li><a href="#">Massachusetts</a>
+								<div class="bigbottommenu">
+									<ul>
+																				<li><a href="http://www.wikileaf.com/dispensary/in/massachusetts/boston/">Boston</a></li>
+																			</ul>
+								</div>
+							</li>
+														<li><a href="#">Michigan</a>
+								<div class="bigbottommenu">
+									<ul>
+																				<li><a href="http://www.wikileaf.com/dispensary/in/michigan/detroit/">Detroit</a></li>
+																				<li><a href="http://www.wikileaf.com/dispensary/in/michigan/muskegon/">Muskegon</a></li>
+																			</ul>
+								</div>
+							</li>
 														<li><a href="#">Montana</a>
 								<div class="bigbottommenu">
 									<ul>
@@ -483,6 +542,7 @@ function initialize_strains(){
 																				<li><a href="http://www.wikileaf.com/dispensary/in/oregon/ashland/">Ashland</a></li>
 																				<li><a href="http://www.wikileaf.com/dispensary/in/oregon/beaverton/">Beaverton</a></li>
 																				<li><a href="http://www.wikileaf.com/dispensary/in/oregon/bend/">Bend</a></li>
+																				<li><a href="http://www.wikileaf.com/dispensary/in/oregon/coos-bay/">Coos Bay</a></li>
 																				<li><a href="http://www.wikileaf.com/dispensary/in/oregon/corvallis/">Corvallis</a></li>
 																				<li><a href="http://www.wikileaf.com/dispensary/in/oregon/eugene/">Eugene</a></li>
 																				<li><a href="http://www.wikileaf.com/dispensary/in/oregon/gladstone/">Gladstone</a></li>
@@ -493,6 +553,8 @@ function initialize_strains(){
 																				<li><a href="http://www.wikileaf.com/dispensary/in/oregon/salem/">Salem</a></li>
 																				<li><a href="http://www.wikileaf.com/dispensary/in/oregon/seaside/">Seaside</a></li>
 																				<li><a href="http://www.wikileaf.com/dispensary/in/oregon/springfield/">Springfield</a></li>
+																				<li><a href="http://www.wikileaf.com/dispensary/in/oregon/the-dalles/">The Dalles</a></li>
+																				<li><a href="http://www.wikileaf.com/dispensary/in/oregon/waldport/">Waldport</a></li>
 																			</ul>
 								</div>
 							</li>
@@ -500,6 +562,8 @@ function initialize_strains(){
 								<div class="bigbottommenu">
 									<ul>
 																				<li><a href="http://www.wikileaf.com/dispensary/in/washington/bellingham/">Bellingham</a></li>
+																				<li><a href="http://www.wikileaf.com/dispensary/in/washington/burlington/">Burlington</a></li>
+																				<li><a href="http://www.wikileaf.com/dispensary/in/washington/everett/">Everett</a></li>
 																				<li><a href="http://www.wikileaf.com/dispensary/in/washington/kitsap-county/">Kitsap County</a></li>
 																				<li><a href="http://www.wikileaf.com/dispensary/in/washington/north-seattle/">North Seattle</a></li>
 																				<li><a href="http://www.wikileaf.com/dispensary/in/washington/olympia/">Olympia</a></li>
@@ -609,8 +673,7 @@ function initialize_strains(){
 					<div class="foot-title">Indica Strains</div>
 					<div class="foot-menu">
 						<ul>
-                        								<li><a href="http://www.wikileaf.com/strain/hindu-kush/">Hindu Kush</a></li>
-                            							<li><a href="http://www.wikileaf.com/strain/blue-mystic/">Blue Mystic</a></li>
+                        								<li><a href="http://www.wikileaf.com/strain/blue-mystic/">Blue Mystic</a></li>
                             							<li><a href="http://www.wikileaf.com/strain/maple-leaf-indica/">Maple Leaf Indica</a></li>
                             							<li><a href="http://www.wikileaf.com/strain/grape-ape/">Grape Ape</a></li>
                             						</ul>
@@ -662,15 +725,18 @@ function initialize_strains(){
 <div class="popupbox" id="popupbox">
     <div class="popupinnerbox">
         <div class="popup-logo"><img src="http://www.wikileaf.com/images/logo.png" alt="wikileaf"></div>
-        <div class="popup-title">
-            <div class="ptitle-left">Like us on Facebook</div>
-            <div class="ptitle-right">
-                <div class="fb-like" data-href="https://www.facebook.com/Wikileaf" data-width="150" data-layout="button" data-action="like" data-show-faces="false" data-share="false"></div>
-            </div>
+        <div class="popup-title">Sign up to receive updates and special offers!</div>
+        <form name="pform" id="pform" method="post">
+        <input type="hidden" name="user_address" id="user_address" value="">
+        <div class="popup-from">
+        	<div class="pform-left"><input type="text" name="txt_pemail" id="txt_pemail" placeholder="Enter your email address"></div>
+            <div class="pform-right"><input type="button" name="pform_submit" value="Submit" onclick="return newsletter_submit('http://www.wikileaf.com');"></div>
             <div class="clear"></div>
+            <div class="pform-msg" id="pformmsg"></div>
         </div>
+        </form>
         <div class="popup-image"><img src="http://www.wikileaf.com/images/tshirt.png" alt="wikileaf shirt"></div>
-        <div class="popup-text">We give away wikileaf shirts every week.</div>
+        <div class="popup-text">Plus, we give away t-shirts every week!</div>
     </div>
 </div>
 <a class="fancybox" href="#popupbox" id="popuplink">popup</a>
@@ -685,12 +751,6 @@ function initialize_strains(){
 <!--script for tabs in strain page-->
 <script type="text/javascript" src="http://www.wikileaf.com/js/jquery.fancybox.js?v=2.1.5"></script>
 <link rel="stylesheet" type="text/css" href="http://www.wikileaf.com/css/jquery.fancybox.css?v=2.1.5" media="screen">
-<script type="text/javascript">
-    setTimeout(function() {
-	    $("#popuplink").fancybox().trigger('click');
-		$('.fancybox').fancybox();
-	}, 5000);
-</script>
 <script type="text/javascript">
 $(document).ready(function($) {
 		$(".reviewbtn").click(function() {
