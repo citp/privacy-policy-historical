@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the arvindkejriwal.co.in privacy policy that was archived on 2015-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150524190358id_/http%3A//arvindkejriwal.co.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arvindkejriwal.co.in privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209020640id_/http%3A//arvindkejriwal.co.in/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Arvind Kejriwal and Aam Aadmi Party
+# Privacy Policy
 
 **Your Privacy**  
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
