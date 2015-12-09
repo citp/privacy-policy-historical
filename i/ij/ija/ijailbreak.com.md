@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ijailbreak.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610015639id_/http%3A//www.ijailbreak.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ijailbreak.com privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209183720id_/http%3A//www.ijailbreak.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -59,8 +59,8 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 
 **Contacting us**
 
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please [contact us](http://www.ijailbreak.com/contact/) at:
 
-Dusty@iJailbreak.com or Jaden@iJailbreak.com
+DustyReron@gmail.com
 
-This document was last updated on July 24th, 2012
+_This document was last updated on September 17, 2015_
