@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the michaelsaunders.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609043155id_/http%3A//www.michaelsaunders.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the michaelsaunders.com privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209074012id_/http%3A//www.michaelsaunders.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Luxury Sarasota Homes for Sale - Michael Saunders & Company®
 
