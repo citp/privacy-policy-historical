@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the team-twilight.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629080807id_/http%3A//team-twilight.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the team-twilight.com privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209211240id_/http%3A//www.team-twilight.com/privacy) for the most accurate reproduction.*
 
 # Team-Twilight Privacy Policy | Team-Twilight
 
