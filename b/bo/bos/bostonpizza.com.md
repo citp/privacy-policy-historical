@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bostonpizza.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610024003id_/http%3A//bostonpizza.com/en/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bostonpizza.com privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209100000id_/https%3A//bostonpizza.com/en/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Legal | Boston Pizza
 
