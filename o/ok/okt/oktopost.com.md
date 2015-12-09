@@ -1,56 +1,76 @@
-> *The following text is extracted and transformed from the oktopost.com privacy policy that was archived on 2015-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150426072927id_/http%3A//www.oktopost.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oktopost.com privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209125121id_/http%3A//www.oktopost.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Oktopost
 
-This Privacy Policy governs the manner in which Oktopost collects, uses, maintains and discloses information collected from users (each, a "User") of the [http://www.oktopost.com](http://www.oktopost.com/) website ("Site"). This privacy policy applies to the Site and all products and services offered by Oktopost. 
+This Privacy Policy governs the manner in which Oktopost (the "Company", "we", "us" or "our") collects, uses, maintains and discloses information collected from users (each, a "User") in connection with the access to or use of the Service. This Privacy Policy applies to the Service and all products and services offered by the Company. Accessing or using our Service signifies the acceptance to abide by the terms stipulated in this Privacy Policy. 
 
-## Personal identification information
+## Personal Information
 
-We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, register on the site, place an order, subscribe to the newsletter, respond to a survey, fill out a form, and in connection with other activities, services, features or resources we make available on our Site. Users may be asked for, as appropriate, name, email address, mailing address, phone number, credit card information. Users may, however, visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities. 
+The Personal Information we collect (i.e. information that may allow the identification of the User) includes information voluntarily submitted by the User, including the Users' name and email address, phone number, billing address and certain payment information (e.g. credit card's expiration date and last four digits, etc.). 
 
-## Non-personal identification information
+## Non-personal information
 
-We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information. 
+Non-Personal Information may include the browser name, the type of the User's device and technical information transmitted by the User's device, language preferences, time stamps and visited pages, the operating system, utilized internet service provider and other similar information. We may also collect the User's IP address which would irrevocably anonymized. 
 
-## Web browser cookies
+## How we may collect your information?
 
-Our Site may use "cookies" to enhance User experience. User's web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly. 
-
-## How we use collected information
-
-Oktopost collects and uses Users personal information for the following purposes: 
-
-  1. **To personalize user experience** \- We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site. 
-  2. **To improve our Site** \- We continually strive to improve our website offerings based on the information and feedback we receive from you. 
-  3. **To improve customer service** \- Your information helps us to more effectively respond to your customer service requests and support needs. 
-  4. **To process transactions** \- We may use the information Users provide about themselves when placing an order only to provide service to that order. We do not share this information with outside parties except to the extent necessary to provide the service. 
-  5. **To administer a content, promotion, survey or other Site feature** \- To send Users information they agreed to receive about topics we think will be of interest to them. 
-  6. **To send periodic emails** \- The email address Users provide for order processing, will only be used to send them information and updates pertaining to their order. It may also be used to respond to their inquiries, and/or other requests or questions. If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email or User may contact us via our Site. 
+  * When the User voluntarily submits Personal Information (by filling out a form, subscribing to our newsletter, respond to a survey, and in connection with other activities, services, features or resources we make available in connection with our Service); Users may always refuse to provide Personal Information. 
+  * Non-Personal Information may be automatically transmitted by the User's device. 
+  * When using our Service we assign the User's device with a log file, a cookie (session or persistent), web beacons or other related technologies, to collect Non-Personal Information with respect to the User's activity on our Service. 
+  * A "cookie" is a small piece of information that a website assign to your device while you are viewing a web site. Cookies are very helpful and can be used for various different purposes. These purposes include allowing you to navigate between pages efficiently, enable automatic activation of certain features, remembering your preferences and making the interaction between you and our services quicker and easier. Cookies are also used to help customize your experience. You can find more information about cookies at www.allaboutcookies.org. You may remove our cookie by following the instructions of your device preferences; however, if you choose to disable our cookie, some features of our Service may not operate properly and your online experience may be limited. 
 
 
 
-## How we protect your information
+## How we use information we collect
 
-We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site. 
+We collect Personal Information for the following purposes: 
 
-Sensitive and private data exchange between the Site and its Users happens over a SSL secured communication channel and is encrypted and protected with digital signatures. 
+  * To improve and enhance our Service; 
+  * To respond to Users' requests and feedbacks; 
+  * We may send to the User's email address promotional offers, products which may interest the User, notifications, updates or surveys. The User may, at any time, request to opt-out of receiving future emails or notifications from us, by contacting us; 
+  * To perform research, analytics or for statistical purposes; 
+  * To detect, prevent, or otherwise address fraud, security or technical issues; 
+  * To respond to claims that any content available through the Service violates rights of third-parties; 
+  * To resolve disputes and enforce our policies, including investigation of potential violations thereof, for the purpose of law enforcement or in accordance with any applicable law or regulation. 
 
-## Sharing your personal information
 
-We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above. 
+
+## With whom we share information
+
+We do not sell, trade, or rent Users' Personal Information to other parties. We may share Personal Information with our trusted service providers only to the extent required to fulfill the purposes outlined above. 
+
+We may transmit or store Personal Information, in different locations around the world, in particular outside the EEA. In such circumstances, we will strive to ensure that adequate measures are put in place in order to protect the User's confidentiality and rights with respect to Personal Information. 
+
+Non-Personal Information may be shared with other third parties (including retailers, ad networks, advertising companies, service providers, media and other interested parties) in any of the above circumstances, as well as for the purpose of developing or delivering advertising (whether via our Service, or websites, applications or services of third parties), or for the purpose of improving our Service, conducting business analysis or other business purposes. This information may be combined with information we collect from other sources, to the extent that the information remains Anonymous Information. 
+
+## Information retention policy and User choice
+
+We may rectify, replenish or remove incomplete or inaccurate information, at any time and at our own discretion. Users may, at any time, rectify, update or withdraw Personal Information pertaining to them, by contacting us. 
+
+Unless we are instructed otherwise by Users, we retain the information we collect for as long as needed to provide the Service and to comply with our legal obligations, resolve disputes and enforce our agreements. 
+
+## Children Information
+
+We will not knowingly collect Personal Information from children under the age of 13. If we become aware that a user is under the age of 13, we will remove its information from our servers. We reserve the right to request proof of age at any stage so that we can verify that children are not using the Service. 
+
+## Security
+
+We use industry standard security tools and measures, as well as internal guidelines and organizational procedures to prevent information misuse and data leakage. The information is also protected using Amazon's Web Services cloud-based computing and data storage infrastructure (Amazon S3). You may read more about how Amazon Web Services incorporates best practices concerning data security at this link: http://aws.amazon.com/security/. 
+
+While we strive to use commercially acceptable means and procedures to protect the information, which considerably reduce the risks of data misuse, we cannot guarantee that our systems will be absolutely safe. If you become aware of any security vulnerability or potential data breach, please contact us immediately, and we will take the appropriate measures to address such incident, as deemed necessary. 
+
+## Merger, Sale or Bankruptcy
+
+In the event that we are acquired by or merged with a third party entity, or other corporate transaction, or in the event of bankruptcy or a comparable event, we reserve the right to transfer or assign information, including Personal Information, in connection with the foregoing events. In the event of the above, our affiliated companies or acquiring company will assume the rights and obligations as described in this Privacy Policy. 
 
 ## Third party websites
 
-Users may find advertising or other content on our Site that link to the sites and services of our partners, suppliers, advertisers, sponsors, licensors and other third parties. We do not control the content or links that appear on these sites and are not responsible for the practices employed by websites linked to or from our Site. In addition, these sites or services, including their content and links, may be constantly changing. These sites and services may have their own privacy policies and customer service policies. Browsing and interaction on any other website, including websites which have a link to our Site, is subject to that website's own terms and policies. 
+Users may find advertising or other content on our Service that link to the sites and services of our partners, suppliers, advertisers, sponsors, licensors and other third parties. We do not control the content or links that appear on these sites and are not responsible for the practices employed by websites linked to or from our Service. In addition, these sites or services, including their content and links, may be constantly changing. These sites and services may have their own privacy policies and customer service policies. Browsing and interaction on any other website, including websites which have a link to our Service, is subject to that website's own terms and policies. 
 
-## Changes to this privacy policy
+## Amendment to the Privacy Policy
 
-Oktopost has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications. 
-
-## Your acceptance of these terms
-
-By using this Site, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes. 
+The Company has the discretion to update this privacy policy at any time. We encourage periodic review of our Privacy Policy for any changes in order to stay informed about how we are helping to protect the personal information we collect. The last amendments will be reflected in the "Last Updated" heading. The continued use of the Service following the posting of any amendments will be deemed as acceptance of those amendments. 
 
 ## Contacting us
 
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please [contact us](https://web.archive.org/company/contact).
+If you have any questions about this Privacy Policy, or the practices of our Service, please [contact us](mailto:contact@oktopost.com). 
