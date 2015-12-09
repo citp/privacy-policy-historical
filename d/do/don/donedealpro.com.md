@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the donedealpro.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610050554id_/http%3A//donedealpro.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the donedealpro.com privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209141237id_/http%3A//www.donedealpro.com/privacy.aspx) for the most accurate reproduction.*
 
 # Done Deal Pro
 
@@ -77,8 +77,8 @@ This Site may contain content, services, advertising and other materials that li
 **This Site is operated by:**
 
 Done Deal Pro  
-PO Box 25684  
-Los Angeles, CA  90025  
+PO Box 641266  
+Los Angeles, CA  90064  
 Email: [webmaster@donedealpro.com](mailto:webmaster@donedealpro.com)  
 Please **e-mail** us with any and all questions about subscriptions, account help, etc.  
 See our [FAQ page](http://www.donedealpro.com/faq.aspx) for frequent questions.  
