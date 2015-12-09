@@ -1,19 +1,20 @@
-<!--The following is the downloaded HTML source of the mysubaru.com privacy policy that was archived on 2015-05-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150514201850id_/http%3A//www.subaru.com/company/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mysubaru.com privacy policy that was archived on 2015-12-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151209141205id_/https%3A//www.subaru.com/my-subaru/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js" lang="en"><!--<![endif]--><head>
-	<meta http-equiv="content-type" content="text/html; charset=UTF-8">
-	<meta name="viewport" content="width=device-width, user-scalable=yes, minimum-scale=0.75, maximum-scale=3.0">
+	<!-- Checking the cookies of the page -->
+	
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+	<!-- -Checks if the cookie mobile_full_site exist
+		 -If YES, it means that the user came to the full site page from the mobile page, so we don't add the viewport to prevent that the elements get disordered -->
+	<meta name="viewport" content="width=device-width">
 	
 <title>Subaru Cars, Sedans, SUVs, Crossovers, Wagons | Subaru of America</title>
-<meta name="keywords" content="Subaru, 2014 Forester, 2014 Outback, 2014 Legacy, 2014 Impreza, 2014 Impreza WRX, 2014 Impreza WRX STI, all wheel drive, 4 wheel drive, Subaru, Subaru rally, performance, Parts, Subaru performance tuning, spt, hybrid, SUVs, crossovers, wagons, sedans, turbo">
+<meta name="keywords" content="Subaru, 2012 Forester, 2012 Outback, 2012 Legacy, 2012 Impreza, 2012 Impreza WRX, 2012 Impreza WRX STI, all wheel drive, 4 wheel drive, Subaru, Subaru rally, performance, Parts, Subaru performance tuning, spt, SUVs, crossovers, wagons, sedans, turbo">
 <meta name="description" content="Visit Subaru of America for reviews, pricing and photos of Subaru Cars, Sedans, Wagons, Crossovers &amp; SUVs. Find Subaru Dealer Information."><link rel="stylesheet" href="/etc/designs/subaru/framework/header-footer/css/vendor.min.css" type="text/css">
 <link rel="stylesheet" href="/etc/designs/subaru/framework/header-footer/css/app.min.css" type="text/css">
 <link rel="stylesheet" href="/etc/designs/subaru/disclaimers/disclaimer.min.css" type="text/css">
-<!--[if IE 8]>
-		<link rel="stylesheet" href="/etc/designs/subaru/global/css/vendor-ie8.min.css" type="text/css">
-<![endif]-->
-	
+
 
 
 <link rel="stylesheet" href="/etc/designs/subaru/css/general-layout.min.css" type="text/css">
@@ -22,9 +23,8 @@
 
 <script type="text/javascript" src="/etc/designs/subaru/global/js/vendor/js/modernizr.js"></script>
 	<script type="text/javascript" src="/etc/designs/subaru/global/js/vendor/js/respond.min.js"></script>
-    <!-- loadstorm-cfa49631eb -->
-
-    
+	
+	
 
 
 <!--
@@ -35,22 +35,47 @@
        run into timing issues, than the init.jsp would have to be overridden in the base page component.
     -->
 
-</head>
-    
-    
-    
 
-    
 
-<body class="antialiased">
 
+
+
+
+            <script src="//assets.adobedtm.com/dc6dc92918e9992d9b1f3980715fadace41ea9dc/satelliteLib-68036c44f9dd7bdff48ed88ab7fe508eadce200f.js"></script>            
+        </head>
+
+        <body class="antialiased">
+        <div class="emergency_alert_modal">
+
+<link rel="stylesheet" href="/etc/designs/subaru/emergency_alert/css/clientlib.min.css" type="text/css">
+
+<div class="emergency_alert_wrapper">
+    <div id="emergency-overlay"></div>
+    <div id="emergency-container">  
+        <a class="modalCloseImg simplemodal-close" title="Close"></a>
+        <div id="emergency-wrap">
+            <div id="emergency-alert">
+                <p id="emergency-alert-message"></p>
+            </div>
+        </div>
+    </div>
+</div>
+<script type="text/javascript" src="/etc/clientlibs/granite/jquery.min.js"></script>
+<script type="text/javascript" src="/etc/clientlibs/granite/utils.min.js"></script>
+<script type="text/javascript" src="/etc/clientlibs/granite/jquery/granite.min.js"></script>
+<script type="text/javascript" src="/etc/designs/subaru/js/soa-utils.min.js"></script>
+<script type="text/javascript" src="/etc/designs/subaru/emergency_alert/js/clientlib.min.js"></script>
+</div>
+
+        <div class="view-port-screen">
+        
 
 <!--  header navigation -->
-<div class="header"><!-- Start Header and Nav -->
+<div class="footer header"><!-- Start Header and Nav -->
 <div id="global_header" class="text-left foundation-5">
     <!-- Global Top Header Navigation -->
     <div id="top-nav-reveal" class="reveal-modal search" data-reveal="">
-    <form action="/tools/search.html" method="post" id="search_nav">
+    <form action="/search.html" method="post" id="search_nav">
         <div class="row collapse">
             <div class="columns small-11">
                 <input id="search_box" class="default-text arial search-box" name="searchQuery" type="text" size="15" value="" placeholder="Search Subaru.com">
@@ -61,10 +86,27 @@
         </div>
     </form>
 </div>
+<div id="top_nav_reveal_location" class="reveal-modal top_location foundation-5" data-reveal="">
+	<div class="content">
+		<form id="form_find_location_header" action="/find-retailer/index.html" method="post">
+			<div>
+				<input name="zipcode" id="top_location_zip" class="defaultText arial top_location_zip" type="text" maxlength="5" placeholder="Enter ZIP" autocomplete="off">
+				<button class="submit_top_location_zip" name="site">GO</button>
+			</div>
+			<div class="top_location_error invalid-location" style="display:none;">
+				<p class="bold">Your location cannot be displayed.</p><p>Please try your search again.</p></div>
+            <div class="top_location_hawaii_message invalid-location" style="display:none;">
+				<p class="bold">Your location cannot be displayed.</p><p>To connect with Subaru of Hawaii, please click <a target="_blank" href="http://subaruhawaii.com/">here</a></p></div>
+		</form>
+	</div>
+</div>
 <div id="top-nav" class="reveal-trigger close">
     <div class="row collapse">
         <div class="small-12 columns">
             <ul class="nav-list right">
+                <li class="list-item your_location">
+                    <span class="reveal-trigger open" id="top_your_location">Your Location: Enter ZIP</span>
+                </li>
                 <li class="list-item owners">
                     <a href="/owners/index.html" class="reveal-trigger close">For Owners</a>
                 </li>
@@ -84,7 +126,7 @@
     <ul class="main-nav-buttons">
         <li class="list-item home">
             <div class="subaru-logo">
-                <a href="/" class="reveal-trigger close ir">
+                <a href="/index.html" class="reveal-trigger close ir">
                     Subaru Confidence In Motion</a>
             </div>
         </li>
@@ -101,49 +143,14 @@
                 Why Subaru</a>
         </li>
         <li class="list-item build ">
-            <a href="/build-your-own/index.html" class="reveal-trigger close">
+            <a href="/build-your-own.html" class="reveal-trigger close">
                 Build Your Own</a>
         </li>
-        <li class="list-item find-a-dealer">
-            <a href="#" id="fad" class="reveal-trigger open fad ico">
+        <li class="list-item find-a-dealer ">
+            <a href="/find-retailer/index.html" id="fad" class="reveal-trigger close ico">
                 Find a Retailer</a>
         </li>
     </ul>
-</div>
-<div id="main-nav-reveal-fad" class="reveal-modal fad foundation-5" data-reveal="">
-    <div id="fad" class="fad">
-        <div id="find_dealer_result" class="n_find n_find_hover">
-            <div class="content" style="display: block">
-                <div class="dealer query">
-                    <form id="form_find_dealer_header" action="/form/retailer/find" method="post" style="">
-                        <div>
-                            <input name="zipcode" id="dealerZip_header" class="defaultText arial dealer-zip-header" type="text" maxlength="50" placeholder="Enter Zip or City" autocomplete="off">
-                            <button class="submit-find-dealer-header" name="site">GO</button>
-                        </div>
-                        <div class="fad-error-container invalid-location" style="display: none">
-                            <p class="bold">Your location cannot be displayed.</p><p>Please try your search again.</p></div>
-                    </form>
-                </div>
-            </div>
-        </div>
-        <div id="fad-dealer-selected" class="hidden">
-            <div id="fdr_detail" class="dealer d_detail">
-                <div class="change-dealer right">
-                    <a class="d_change" href="/form/retailer/find">Change</a>
-                </div>
-                <h3 class="d_name"></h3>
-                <ul class="dealer-info">
-                    <li class="d_street"></li>
-                    <li class="d_csz"></li>
-                    <li class="dealer-phone-number"></li>
-                </ul>
-                <a href="#" class="visit-dealer-site button" target="_blank">
-                    Visit Retailer Site</a>
-                <div class="special-offers">
-                    View special offers, browse<br> inventory and more.</div>
-            </div>
-        </div>
-    </div>
 </div>
 <div id="main-nav-reveal" class="reveal-modal modal-closed foundation-5" data-reveal="">
     <div id="main-nav-reveal-vsp" class="vsp">
@@ -169,12 +176,12 @@
         </div>
     <div class="vehicle-item">
             <div class="vehicle-link">
-                <a class="button" href="/vehicles/brz/index.html" rel="brz~2015">
+                <a class="button" href="/vehicles/brz/index.html" rel="brz~2016">
                     <span class="model-name-price">
                         <span class="left">
                             <span class="model-name bold">BRZ</span>
                             <span class="msrp">
-                                $25,695</span>
+                                $25,395</span>
                             <span class="starting-price">starting price</span>
                         </span>
                         <span class="right model-thumbnail BRZ"></span>
@@ -186,19 +193,19 @@
                     <div class="header">
                         <div class="row collapse">
                             <div class="small-6 columns">
-                                <h3>2015&nbsp;BRZ</h3>
+                                <h3>2016&nbsp;BRZ</h3>
                             </div>
                             <div class="small-3 columns price vehicle-info">
                                 <div class="left">
                                     <p>Starting at</p>
-                                    <span class="mpg-msrp bold">$25,695</span>
+                                    <span class="mpg-msrp bold">$25,395</span>
                                     <span>MSRP</span>
                                 </div>
                             </div>
                             <div class="small-3 columns mpg vehicle-info">
                                 <p>Up to</p>
                                 <span class="mpg-msrp bold">
-                                    34/<span class="mpg-city">25MPG</span>
+                                    30/<span class="mpg-city">22 MPG</span>
                                 </span>
                                 <span>Hwy/City</span>
                             </div>
@@ -217,7 +224,7 @@
                                     <a class="vme_cta_icon_competitive button" href="/vehicles/brz/compare-vehicles.html" rel=" ">Compare</a>
                                 </li>
                                 <li>
-                                    <a class="build-your-own button" href="/build-your-own/brz.html">Build Your Own</a>
+                                    <a class="build-your-own button" href="/build-your-own/2016/BRZ.html">Build Your Own</a>
                                 </li>
                             </ul>
                         </div>
@@ -225,16 +232,6 @@
                     <div class="footer">
                         <div class="row collapse">
                             <div class="columns small-6">
-                                <div class="vehicle-fma">
-                                    <a href="/why-subaru/reviews-awards/subaru.html" class="left">
-                                        <img alt="" src="/content/dam/subaru/global/header/fma_brz.png">
-                                    </a>
-                                    <p class="left">
-                                        <a href="/why-subaru/reviews-awards/subaru.html">
-                                            <span>Named Best Resale Value<br>by KBB.com</span>
-                                        </a>
-                                    </p>
-                                </div>
                                 </div>
                             <div class="columns small-6">
                                 <p class="text-right right">BRZ Limited shown</p>
@@ -246,12 +243,12 @@
         </div>
     <div class="vehicle-item">
             <div class="vehicle-link">
-                <a class="button" href="/vehicles/impreza/index.html" rel="imp~2015">
+                <a class="button" href="/vehicles/impreza/index.html" rel="imp~2016">
                     <span class="model-name-price">
                         <span class="left">
                             <span class="model-name bold">Impreza</span>
                             <span class="msrp">
-                                $18,195</span>
+                                $18,295</span>
                             <span class="starting-price">starting price</span>
                         </span>
                         <span class="right model-thumbnail IMP"></span>
@@ -263,19 +260,19 @@
                     <div class="header">
                         <div class="row collapse">
                             <div class="small-6 columns">
-                                <h3>2015&nbsp;Impreza</h3>
+                                <h3>2016&nbsp;Impreza</h3>
                             </div>
                             <div class="small-3 columns price vehicle-info">
                                 <div class="left">
                                     <p>Starting at</p>
-                                    <span class="mpg-msrp bold">$18,195</span>
+                                    <span class="mpg-msrp bold">$18,295</span>
                                     <span>MSRP</span>
                                 </div>
                             </div>
                             <div class="small-3 columns mpg vehicle-info">
                                 <p>Up to</p>
                                 <span class="mpg-msrp bold">
-                                    37/<span class="mpg-city">28MPG</span>
+                                    37/<span class="mpg-city">28 MPG</span>
                                 </span>
                                 <span>Hwy/City</span>
                             </div>
@@ -294,7 +291,7 @@
                                     <a class="vme_cta_icon_competitive button" href="/vehicles/impreza/compare-vehicles.html" rel=" ">Compare</a>
                                 </li>
                                 <li>
-                                    <a class="build-your-own button" href="/build-your-own/impreza.html">Build Your Own</a>
+                                    <a class="build-your-own button" href="/build-your-own/2016/IMP.html">Build Your Own</a>
                                 </li>
                             </ul>
                         </div>
@@ -302,16 +299,6 @@
                     <div class="footer">
                         <div class="row collapse">
                             <div class="columns small-6">
-                                <div class="vehicle-fma">
-                                    <a href="/why-subaru/reviews-awards/impreza.html" class="left">
-                                        <img alt="" src="/content/dam/subaru/global/header/fma_imp.png">
-                                    </a>
-                                    <p class="left">
-                                        <a href="/why-subaru/reviews-awards/impreza.html">
-                                            <span>Best Resale Value in its class<br>according to KBB.com </span>
-                                        </a>
-                                    </p>
-                                </div>
                                 </div>
                             <div class="columns small-6">
                                 <p class="text-right right">Impreza 2.0i Limited shown</p>
@@ -352,7 +339,7 @@
                             <div class="small-3 columns mpg vehicle-info">
                                 <p>Up to</p>
                                 <span class="mpg-msrp bold">
-                                    27/<span class="mpg-city">20MPG</span>
+                                    27/<span class="mpg-city">20 MPG</span>
                                 </span>
                                 <span>Hwy/City</span>
                             </div>
@@ -371,7 +358,7 @@
                                     <a class="vme_cta_icon_competitive button" href="/vehicles/wrx/compare-vehicles.html" rel=" ">Compare</a>
                                 </li>
                                 <li>
-                                    <a class="build-your-own button" href="/build-your-own/wrx.html">Build Your Own</a>
+                                    <a class="build-your-own button" href="/build-your-own/2016/WRX.html">Build Your Own</a>
                                 </li>
                             </ul>
                         </div>
@@ -381,7 +368,7 @@
                             <div class="columns small-6">
                                 </div>
                             <div class="columns small-6">
-                                <p class="text-right right">WRX Premium shown</p>
+                                <p class="text-right right">WRX with accessory fog lights shown</p>
                             </div>
                         </div>
                     </div>
@@ -390,12 +377,12 @@
         </div>
     <div class="vehicle-item">
             <div class="vehicle-link">
-                <a class="button" href="/vehicles/legacy/index.html" rel="leg~2015">
+                <a class="button" href="/vehicles/legacy/index.html" rel="leg~2016">
                     <span class="model-name-price">
                         <span class="left">
                             <span class="model-name bold">Legacy</span>
                             <span class="msrp">
-                                $21,695</span>
+                                $21,745</span>
                             <span class="starting-price">starting price</span>
                         </span>
                         <span class="right model-thumbnail LEG"></span>
@@ -407,19 +394,19 @@
                     <div class="header">
                         <div class="row collapse">
                             <div class="small-6 columns">
-                                <h3>2015&nbsp;Legacy</h3>
+                                <h3>2016&nbsp;Legacy</h3>
                             </div>
                             <div class="small-3 columns price vehicle-info">
                                 <div class="left">
                                     <p>Starting at</p>
-                                    <span class="mpg-msrp bold">$21,695</span>
+                                    <span class="mpg-msrp bold">$21,745</span>
                                     <span>MSRP</span>
                                 </div>
                             </div>
                             <div class="small-3 columns mpg vehicle-info">
                                 <p>Up to</p>
                                 <span class="mpg-msrp bold">
-                                    36/<span class="mpg-city">26MPG</span>
+                                    36/<span class="mpg-city">26 MPG</span>
                                 </span>
                                 <span>Hwy/City</span>
                             </div>
@@ -438,7 +425,7 @@
                                     <a class="vme_cta_icon_competitive button" href="/vehicles/legacy/compare-vehicles.html" rel=" ">Compare</a>
                                 </li>
                                 <li>
-                                    <a class="build-your-own button" href="/build-your-own/legacy.html">Build Your Own</a>
+                                    <a class="build-your-own button" href="/build-your-own/2016/LEG.html">Build Your Own</a>
                                 </li>
                             </ul>
                         </div>
@@ -446,16 +433,6 @@
                     <div class="footer">
                         <div class="row collapse">
                             <div class="columns small-6">
-                                <div class="vehicle-fma">
-                                    <a href="/why-subaru/reviews-awards/legacy.html" class="left">
-                                        <img alt="" src="/content/dam/subaru/global/header/fma_leg.png">
-                                    </a>
-                                    <p class="left">
-                                        <a href="/why-subaru/reviews-awards/legacy.html">
-                                            <span>Best Resale Value in its class<br>according to KBB.com </span>
-                                        </a>
-                                    </p>
-                                </div>
                                 </div>
                             <div class="columns small-6">
                                 <p class="text-right right">Legacy 3.6R Limited shown</p>
@@ -467,12 +444,12 @@
         </div>
     <div class="vehicle-item">
             <div class="vehicle-link">
-                <a class="button" href="/vehicles/forester/index.html" rel="for~2015">
+                <a class="button" href="/vehicles/forester/index.html" rel="for~2016">
                     <span class="model-name-price">
                         <span class="left">
                             <span class="model-name bold">Forester</span>
                             <span class="msrp">
-                                $22,195</span>
+                                $22,395</span>
                             <span class="starting-price">starting price</span>
                         </span>
                         <span class="right model-thumbnail FOR"></span>
@@ -484,19 +461,19 @@
                     <div class="header">
                         <div class="row collapse">
                             <div class="small-6 columns">
-                                <h3>2015&nbsp;Forester</h3>
+                                <h3>2016&nbsp;Forester</h3>
                             </div>
                             <div class="small-3 columns price vehicle-info">
                                 <div class="left">
                                     <p>Starting at</p>
-                                    <span class="mpg-msrp bold">$22,195</span>
+                                    <span class="mpg-msrp bold">$22,395</span>
                                     <span>MSRP</span>
                                 </div>
                             </div>
                             <div class="small-3 columns mpg vehicle-info">
                                 <p>Up to</p>
                                 <span class="mpg-msrp bold">
-                                    32/<span class="mpg-city">24MPG</span>
+                                    32/<span class="mpg-city">24 MPG</span>
                                 </span>
                                 <span>Hwy/City</span>
                             </div>
@@ -515,7 +492,7 @@
                                     <a class="vme_cta_icon_competitive button" href="/vehicles/forester/compare-vehicles.html" rel=" ">Compare</a>
                                 </li>
                                 <li>
-                                    <a class="build-your-own button" href="/build-your-own/forester.html">Build Your Own</a>
+                                    <a class="build-your-own button" href="/build-your-own/2016/FOR.html">Build Your Own</a>
                                 </li>
                             </ul>
                         </div>
@@ -523,16 +500,6 @@
                     <div class="footer">
                         <div class="row collapse">
                             <div class="columns small-6">
-                                <div class="vehicle-fma">
-                                    <a href="/why-subaru/reviews-awards/subaru.html" class="left">
-                                        <img alt="" src="/content/dam/subaru/global/header/fma_for.png">
-                                    </a>
-                                    <p class="left">
-                                        <a href="/why-subaru/reviews-awards/subaru.html">
-                                            <span>Named Best Resale Value<br>by KBB.com</span>
-                                        </a>
-                                    </p>
-                                </div>
                                 </div>
                             <div class="columns small-6">
                                 <p class="text-right right">Forester 2.5i Touring shown</p>
@@ -544,10 +511,10 @@
         </div>
     <div class="vehicle-item">
             <div class="vehicle-link">
-                <a class="button" href="/vehicles/xv-crosstrek/index.html" rel="xv~2015">
+                <a class="button" href="/vehicles/crosstrek/index.html" rel="xv~2016">
                     <span class="model-name-price">
                         <span class="left">
-                            <span class="model-name bold">XV Crosstrek</span>
+                            <span class="model-name bold">Crosstrek</span>
                             <span class="msrp">
                                 $21,595</span>
                             <span class="starting-price">starting price</span>
@@ -561,7 +528,7 @@
                     <div class="header">
                         <div class="row collapse">
                             <div class="small-6 columns">
-                                <h3>2015&nbsp;XV Crosstrek</h3>
+                                <h3>2016&nbsp;Crosstrek</h3>
                             </div>
                             <div class="small-3 columns price vehicle-info">
                                 <div class="left">
@@ -573,7 +540,7 @@
                             <div class="small-3 columns mpg vehicle-info">
                                 <p>Up to</p>
                                 <span class="mpg-msrp bold">
-                                    34/<span class="mpg-city">26MPG</span>
+                                    34/<span class="mpg-city">26 MPG</span>
                                 </span>
                                 <span>Hwy/City</span>
                             </div>
@@ -583,16 +550,16 @@
                         <div>
                             <ul class="links">
                                 <li>
-                                    <a class="overview button" href="/vehicles/xv-crosstrek/index.html">Overview</a>
+                                    <a class="overview button" href="/vehicles/crosstrek/index.html">Overview</a>
                                 </li>
                                 <li>
-                                    <a class="photos-videos button" href="/vehicles/xv-crosstrek/photos-videos.html">Photos &amp; Videos</a>
+                                    <a class="photos-videos button" href="/vehicles/crosstrek/photos-videos.html">Photos &amp; Videos</a>
                                 </li>
                                 <li> 
-                                    <a class="vme_cta_icon_competitive button" href="/vehicles/xv-crosstrek/compare-vehicles.html" rel=" ">Compare</a>
+                                    <a class="vme_cta_icon_competitive button" href="/vehicles/crosstrek/compare-vehicles.html" rel=" ">Compare</a>
                                 </li>
                                 <li>
-                                    <a class="build-your-own button" href="/build-your-own/xv-crosstrek.html">Build Your Own</a>
+                                    <a class="build-your-own button" href="/build-your-own/2016/XV.html">Build Your Own</a>
                                 </li>
                             </ul>
                         </div>
@@ -600,19 +567,9 @@
                     <div class="footer">
                         <div class="row collapse">
                             <div class="columns small-6">
-                                <div class="vehicle-fma">
-                                    <a href="/2015-xv-crosstrek-special-edition.html" class="left">
-                                        <img alt="" src="/content/dam/subaru/global/header/fma_xv.png">
-                                    </a>
-                                    <p class="left">
-                                        <a href="/2015-xv-crosstrek-special-edition.html">
-                                            <span>2015 XV Crosstrek<br>Special Edition</span>
-                                        </a>
-                                    </p>
-                                </div>
                                 </div>
                             <div class="columns small-6">
-                                <p class="text-right right">XV Crosstrek 2.0i Limited shown</p>
+                                <p class="text-right right">Crosstrek 2.0i Limited shown</p>
                             </div>
                         </div>
                     </div>
@@ -621,12 +578,12 @@
         </div>
     <div class="vehicle-item">
             <div class="vehicle-link">
-                <a class="button" href="/vehicles/xv-crosstrek/special-features.html" rel="xv-hybrid~2015">
+                <a class="button" href="/vehicles/crosstrek/special-features.html" rel="xv-hybrid~2016">
                     <span class="model-name-price">
                         <span class="left">
-                            <span class="model-name bold">XV Crosstrek Hybrid</span>
+                            <span class="model-name bold">Crosstrek Hybrid</span>
                             <span class="msrp">
-                                $25,995</span>
+                                $26,395</span>
                             <span class="starting-price">starting price</span>
                         </span>
                         <span class="right model-thumbnail XV-HYBRID"></span>
@@ -638,19 +595,19 @@
                     <div class="header">
                         <div class="row collapse">
                             <div class="small-6 columns">
-                                <h3>2015&nbsp;XV Crosstrek Hybrid</h3>
+                                <h3>2016&nbsp;Crosstrek Hybrid</h3>
                             </div>
                             <div class="small-3 columns price vehicle-info">
                                 <div class="left">
                                     <p>Starting at</p>
-                                    <span class="mpg-msrp bold">$25,995</span>
+                                    <span class="mpg-msrp bold">$26,395</span>
                                     <span>MSRP</span>
                                 </div>
                             </div>
                             <div class="small-3 columns mpg vehicle-info">
                                 <p>Up to</p>
                                 <span class="mpg-msrp bold">
-                                    34/<span class="mpg-city">30MPG</span>
+                                    34/<span class="mpg-city">30 MPG</span>
                                 </span>
                                 <span>Hwy/City</span>
                             </div>
@@ -660,16 +617,16 @@
                         <div>
                             <ul class="links">
                                 <li>
-                                    <a class="overview button" href="/vehicles/xv-crosstrek/special-features.html">Overview</a>
+                                    <a class="overview button" href="/vehicles/crosstrek/special-features.html">Overview</a>
                                 </li>
                                 <li>
-                                    <a class="photos-videos button" href="/vehicles/xv-crosstrek/photos-videos.html?tab=hybrid">Photos &amp; Videos</a>
+                                    <a class="photos-videos button" href="/vehicles/crosstrek/photos-videos.html?tab=hybrid">Photos &amp; Videos</a>
                                 </li>
                                 <li> 
-                                    <a class="vme_cta_icon_competitive button" href="/vehicles/xv-crosstrek/compare-vehicles.html" rel=" ">Compare</a>
+                                    <a class="vme_cta_icon_competitive button" href="/vehicles/crosstrek/compare-vehicles.html" rel=" ">Compare</a>
                                 </li>
                                 <li>
-                                    <a class="build-your-own button" href="/build-your-own/xv-crosstrek.html">Build Your Own</a>
+                                    <a class="build-your-own button" href="/build-your-own/2016/XV.html">Build Your Own</a>
                                 </li>
                             </ul>
                         </div>
@@ -677,19 +634,9 @@
                     <div class="footer">
                         <div class="row collapse">
                             <div class="columns small-6">
-                                <div class="vehicle-fma">
-                                    <a href="/why-subaru/reviews-awards/subaru.html" class="left">
-                                        <img alt="" src="/content/dam/subaru/global/header/fma_xv-hybrid.png">
-                                    </a>
-                                    <p class="left">
-                                        <a href="/why-subaru/reviews-awards/subaru.html">
-                                            <span>Named Best Resale Value<br>by KBB.com</span>
-                                        </a>
-                                    </p>
-                                </div>
                                 </div>
                             <div class="columns small-6">
-                                <p class="text-right right">XV Crosstrek Hybrid Shown</p>
+                                <p class="text-right right">Crosstrek Hybrid Touring Shown</p>
                             </div>
                         </div>
                     </div>
@@ -698,12 +645,12 @@
         </div>
     <div class="vehicle-item">
             <div class="vehicle-link">
-                <a class="button" href="/vehicles/outback/index.html" rel="obk~2015">
+                <a class="button" href="/vehicles/outback/index.html" rel="obk~2016">
                     <span class="model-name-price">
                         <span class="left">
                             <span class="model-name bold">Outback</span>
                             <span class="msrp">
-                                $24,895</span>
+                                $24,995</span>
                             <span class="starting-price">starting price</span>
                         </span>
                         <span class="right model-thumbnail OBK"></span>
@@ -715,19 +662,19 @@
                     <div class="header">
                         <div class="row collapse">
                             <div class="small-6 columns">
-                                <h3>2015&nbsp;Outback</h3>
+                                <h3>2016&nbsp;Outback</h3>
                             </div>
                             <div class="small-3 columns price vehicle-info">
                                 <div class="left">
                                     <p>Starting at</p>
-                                    <span class="mpg-msrp bold">$24,895</span>
+                                    <span class="mpg-msrp bold">$24,995</span>
                                     <span>MSRP</span>
                                 </div>
                             </div>
                             <div class="small-3 columns mpg vehicle-info">
                                 <p>Up to</p>
                                 <span class="mpg-msrp bold">
-                                    33/<span class="mpg-city">25MPG</span>
+                                    33/<span class="mpg-city">25 MPG</span>
                                 </span>
                                 <span>Hwy/City</span>
                             </div>
@@ -746,7 +693,7 @@
                                     <a class="vme_cta_icon_competitive button" href="/vehicles/outback/compare-vehicles.html" rel=" ">Compare</a>
                                 </li>
                                 <li>
-                                    <a class="build-your-own button" href="/build-your-own/outback.html">Build Your Own</a>
+                                    <a class="build-your-own button" href="/build-your-own/2016/OBK.html">Build Your Own</a>
                                 </li>
                             </ul>
                         </div>
@@ -754,19 +701,9 @@
                     <div class="footer">
                         <div class="row collapse">
                             <div class="columns small-6">
-                                <div class="vehicle-fma">
-                                    <a href="/why-subaru/reviews-awards/subaru.html" class="left">
-                                        <img alt="" src="/content/dam/subaru/global/header/fma_obk.png">
-                                    </a>
-                                    <p class="left">
-                                        <a href="/why-subaru/reviews-awards/subaru.html">
-                                            <span>Named Best Resale Value<br>by KBB.com</span>
-                                        </a>
-                                    </p>
-                                </div>
                                 </div>
                             <div class="columns small-6">
-                                <p class="text-right right">Outback 2.5i Premium shown</p>
+                                <p class="text-right right">Outback 2.5i Limited shown</p>
                             </div>
                         </div>
                     </div>
@@ -808,15 +745,15 @@
     <div class="columns small-9">
         <div class="row collapse">
             <div class="columns small-4">
-                <a href="/tools/compare-vehicles/index.html">
+                <a href="/shopping-tools/compare-vehicles/index.html">
                     <h2>Compare</h2><p>Compare Subaru models and other car manufacturers.</p></a>
             </div>
             <div class="columns small-4">
-                <a href="/tools/maps/retailer/find/">
+                <a href="/find-retailer/index.html">
                     <h2>Local Inventory</h2><p>See what your local Subaru retailer has available today.</p></a>
             </div>
             <div class="columns small-4">
-                <a href="/tools/payments-financing.html">
+                <a href="/shopping-tools/payment-calculator.html">
                     <h2>Calculator</h2><p>Estimate your monthly cost based on finance rate and trade-in.</p></a>
             </div>
         </div>
@@ -830,17 +767,24 @@
                     <h2>Request a Quote</h2><p>Get the most precise number on the Subaru you want.</p></a>
             </div>
             <div class="columns small-4">
-                <a href="/financial-tools/financing-options.html">
+                <a href="/shopping-tools/financing-options.html">
                     <h2>Financing</h2><p>Find information on financing or leasing your new Subaru.</p></a>
             </div>
         </div>
+		<div class="tools-banner">
+			<div class="content">
+				<h3>Take a Guided Tour</h3>
+				<p>Get up close and personal with model specific interactive content, videos, and so much more</p>
+				<a href="/shopping-tools/get-brochure.html"><span>Start Here</span></a>
+			</div>
+		</div>
     </div>
     <div class="columns small-3 grey-background">
         <ul class="nav-list">
-            <li class="list-item"><a href="/tools/payments-financing.html?modal=estimate_credit_score">Estimate Credit Score</a></li>
+            <li class="list-item"><a href="/shopping-tools/payment-calculator.html?modal=estimate_credit_score">Estimate Credit Score</a></li>
 			<li class="list-item"><a href="/shopping-tools/apply-for-financing.html">Apply for Financing</a></li>
             <li class="list-item"><a href="/owners/resource-center/added-security/index.html">Extended Service Plans</a></li>
-            <li class="list-item"><a href="/tools/payments-financing.html?modal=intelliprice">Trade-In Appraisal</a></li>
+            <li class="list-item"><a href="/shopping-tools/payment-calculator.html?modal=intelliprice">Trade-In Appraisal</a></li>
             <li class="list-item view-a-brochure"><a href="/shopping-tools/get-brochure.html">View a Brochure</a></li>
         </ul>
     </div>
@@ -974,12 +918,13 @@
             </div>
             <div class="columns small-6 grey-background">
                 <ul class="nav-list">
-                    <li class="list-item"><a href="/tools/compare-vehicles/index.html">Compare Vehicles</a></li>
+                    <li class="list-item"><a href="/shopping-tools/compare-vehicles/index.html">Compare Vehicles</a></li>
                     <li class="list-item"><a href="/owners/ownership-benefits.html">Benefits of Ownership</a></li>
                     <li class="list-item"><a href="/love-promise.html">Love Promise</a></li>
-                    <li class="list-item"><a href="/enthusiasts/dearsubaru/index.html">Dear Subaru</a></li>
+                    <li class="list-item"><a href="/why-subaru/dear-subaru.html">Dear Subaru</a></li>
                     <li class="list-item"><a href="/why-subaru/livelove.html">Live. Love.</a></li>
                     <li class="list-item"><a href="/csr/corporate-social-responsibility.html">Social Responsibility</a></li>
+                    <li class="list-item"><a href="/pets/index.html">Subaru Loves Pets</a></li>
                 </ul>
             </div>
         </div>
@@ -989,7 +934,7 @@
 <!-- End Header and Nav --></div>
 
 
-
+        
 
 <div class="wrapper company-page">
   <div class="grid-Content-950">
@@ -1000,8 +945,8 @@
 
 
 
-<div class="menu menu-horizontal topMenu-company ">
-    <h3>Company</h3>
+<div class="menu menu-horizontal topMenu-company menu-hidden">
+    <h3>MySubaru Privacy Policy</h3>
     <nav>
         <ul>
             <li>
@@ -1031,68 +976,28 @@
     <div class="parbase details richtext">
 
 
-
-       <div><h1>Subaru Privacy Policy</h1>
-<p>Your privacy is important to Subaru of America, Inc. ("Subaru"). This Privacy Policy explains how Subaru collects, uses, shares and endeavors to protect your information.</p>
-<p>Subaru reserves the right to change this Privacy Policy from time to time, and such changes will be effective immediately upon posting to this Web site. We suggest periodically visiting the page to review our policy.</p>
-<p>This Privacy Policy applies when Subaru collects both personal information and non-personal information from and about individuals, including through Subaru-controlled websites or applications, and through Subaru-controlled applications accessed or used on a mobile, handheld or other device (a "Website" or "Application"). It also applies to information individuals voluntarily provide to us "offline," such as at events.</p>
-<p>This Privacy Policy explains the privacy practices of Subaru including: (1) how Subaru uses the personal information you share with us and that we learn about you from third parties; (2) how Subaru uses "cookies" and similar technology; (3) what personal information Subaru may share about you and in what circumstances; (4) what kind of security measures Subaru takes to protect your information and what steps Subaru will take in the event of a security breach; and (5) the process through which you can change the Personal Information that Subaru retains in its records and to modify your preferences.</p>
-<p>We do not collect Personal Information <u>from</u> you unless you voluntarily provide it to us, although we may collect Personal Information <u>about</u> you from third parties, as described in more detail below. "Personal Information" includes information that alone or when in combination with other information may be used to readily identify, contact, or locate you (e.g., your full name, address, telephone number, email address, and location). By disclosing your Personal Information to us or by using our Websites or Applications, you consent to our collection and use of your Personal Information in a manner that is consistent with applicable law and this Privacy Policy.</p>
-<h3>PERSONAL INFORMATION WE COLLECT AND HOW WE USE IT</h3>
-<p>Subaru collects and uses the information you provide to us. We may also obtain information about you from outside sources and may combine it with the information you provide to us. For example, we may obtain commercially available demographic information about you from third parties, get device ID information from mobile applications or advertisements or purchase e-mail or similar lists from third parties for advertising and marketing purposes. As a general matter, we may use or share your Personal Information where it is necessary for us to complete a transaction or do something that you have asked us to do. We may also use this information for our internal research purposes as we develop our products and services. We may use Personal Information and data collected for our advertising or marketing purposes including on other websites or media and we may communicate with you to provide you with information we think may be of interest to you. We do not collect "sensitive" information from or about you, such as your financial or health information.</p>
-<p>If you make a request for information, for example, we might need to provide your name, mailing address, or email address to one of our retailers or a service provider with whom we have a relationship so that they can help us respond to you.</p>
-<p>Specifically, we collect and use information from you in certain ways including:</p>
-<p><b>Processing Your Requests.</b><br>
-When you interact with us (for example, to request a brochure or locate a retailer) you will be asked for information needed to complete your request. The information you provide is used to process your transactions, to create and share reports about these transactions, and/or to provide related customer service. When you request a quote or other information, these requests may be conducted through retailers or Subaru vendors and suppliers.</p>
-<p><b>Registration and Use of MySubaru.</b><br>
-MySubaru.com is the owners' personalized webpage on Subaru.com that owners can use to keep track of their vehicle service records, receive maintenance reminders, recall notices and overall communications from Subaru. Personal Information provided on MySubaru may be used to carry out the request or service for which the information is submitted. We may also use the information you provide in online registration forms to notify you periodically about important matters like Application updates, a change to our Privacy Policy or notice of a security breach, and to provide information about new Subaru products and services, and special offers and promotions that may be of interest to you.</p>
-<p><b>Events and Promotions.</b><br>
-You may be asked to provide an email address or other Personal Information at an event or for entry into a particular promotion (including sweepstakes and contests). The information we collect from you during the course of the promotion will be used as described in the Official Rules or the Terms for that promotion and may also be used by us for marketing purposes. Certain promotions may be run by a Subaru service provider or vendor or co-branded with one of our partners or run on a third party site like Facebook. In these instances a third party, rather than Subaru, may collect your Personal Information. The promotion will state the policies governing the collection of such information if they should differ from this Privacy Policy or if a third party will be collecting such information.</p>
-<p><b>Website or Application Usage.</b><br>
-We, and our service providers, may observe your activities, preferences, and transactional data (such as your IP address and browser type) as well as pages you have viewed during your use of our Website or Application. We may use this data for any purpose unless we tell you otherwise in connection with a particular Website or Application. While we may collect or log this information, we do not identify you except if we believe doing so will help us better respond to a request you have made such as for a quote, identification of a local retailer, or similar request. Where such non-Personal Information is linked to your Personal Information we will treat such information as Personal Information.</p>
-<p><b>Location Data.</b><br>
-Some Subaru Websites or Applications may capture and record certain location-data regarding your use of that Website or Application and your travels in order to provide location-related functionality ("Location Data"). We may link that Location Data to other information that you provide to us or that may be accessed in connection with your use of such a Subaru Website or Application. Your use of, and our ability to offer location based functionality is then enabled through our use and disclosure to third parties of Location Data and associated information.</p>
-<h3>OUR COLLECTION AND USE OF NON-PERSONAL INFORMATION</h3>
-<p><b>Cookies and Related Technologies.</b><br>
-Cookies are small lines of text/data that are written onto your computer by a website. Subaru or others acting on our behalf may use cookies, pixel tags, web beacons or other similar technologies in connection with the operation of our Websites or Applications. These technologies may collect and store non-Personal Information. We utilize these technologies to research and understand how our Websites and Applications are used, to develop our products and services, to personalize your online experience with Subaru and for general advertising and marketing purposes. For example, we track such information as the time and length of your visit to the Websites, the pages you view or download and the name of your Internet service provider. As noted above, we do not typically tie this information to your Personal Information but, if we do, we will treat it as Personal Information.</p>
-<p>At the end of your visit, session cookies used by Subaru are removed. However, in some instances some Subaru cookies may persist. For example, to customize your experience we may require registration to recognize your computer and enable you to log-in without having to enter your password. It is possible that cookies placed by Subaru or its vendors or suppliers (as applicable) in connection with the operation of the Website or Application may remain stored on your computer until you remove them.</p>
-<p>Our service providers or vendors may also use cookies and related technologies in order to personalize your experiences and adapt a particular Subaru Website or Application's functionality to your preferences and for purposes such as those listed above. You may set your browser to notify you when you receive a cookie or to refuse receiving it. You should be aware that this may interfere with or make you unable to use certain functionality on websites using cookies. For example, many websites will ask your permission to use a cookie that will enable you to automatically log onto the website. Disabling or removing cookies may require you to manually log on each time you wish to visit that website.</p>
-<p><b>Online Behavioral Advertising.</b><br>
-Subaru may use the non-personal information collected on its Website for online behavioral advertising purposes, that is, to customize ads to you when you visit other (non-Subaru) sites. If you wish to opt-out of this process, click the OBA logo on our banner advertisements. &nbsp;You'll be directed to an opt-out page where you'll be able to select your data preferences. &nbsp;The page will also contain further instruction if additional questions remain.</p>
-<h3>WHEN SUBARU MAY SHARE INFORMATION</h3>
-<p>Subaru may share aggregated non-personal information about the users of its Websites and Applications (in a form that does not personally identify such users) with service providers, vendors, suppliers and other third parties.</p>
-<p>In addition, Subaru may disclose and share users’ Personal Information with third parties as follows:</p>
-<p><b>Service Providers, Vendors and Suppliers.</b><br>
-Service providers, vendors and suppliers are companies who perform services for Subaru and its retailers, including in connection with the functionality of the Websites and Applications. To the extent it is necessary for these entities to provide their products and services to us and provide products and services you have requested, these third parties may have access to your Personal Information, but they are not permitted by us to use your Personal Information on their own behalf. Subaru may sometimes permit authorized service providers to have access to aggregate statistics about our customers, sales, traffic patterns, and related Website or Application information. These transfers of aggregate statistics do not include your Personal Information.</p>
-<p><b>Retailers.</b><br>
-Certain requests or questions that you direct to us are more appropriately answered by a retailer, such as a request for a price quote on a particular vehicle. In those instances, we will provide your Personal Information, along with your request or question, to a retailer or retailers for a response. The retailer(s) will have the right to use your Personal Information for purposes of responding to your request and for its/their own marketing purposes that may not relate to your requests or questions. Retailers' use of your Personal Information will be subject to the retailers' own privacy policies.</p>
-<p><b>Marketing.</b><br>
-Subaru occasionally partners with trusted third parties for promotions, events and other activities, and may share your Personal Information with such third parties for Subaru's marketing purposes and for the third parties' own marketing purposes if you consent to such sharing. The use of your Personal Information by such third parties will be subject to their own privacy policies.</p>
-<p><b>Public Areas.</b><br>
-Any information disclosed in public areas of a Subaru Website or Application or third party website (for example, through Facebook, YouTube, Twitter or other sites) will become public information. We cannot control the use of information disclosed in public forums, such as social media platforms, blogs, forums, wikis, chat rooms, and networking functions of mobile-device applications. You should exercise caution when disclosing information in these public areas, especially your Location Data, and be careful how you disclose your Personal Information.</p>
-<p><b>Mergers, Acquisitions, and Insolvency.</b><br>
-If Subaru should ever file for bankruptcy or merge with another company, or if Subaru should decide to buy, sell, or reorganize some part or all of its business, Subaru may disclose your Personal Information, including to prospective or actual purchasers in connection with one of these transactions.</p>
-<p><b>As Required by Law and Other Extraordinary Disclosures.</b><br>
-Subaru may be required to disclose your Personal Information if it: (i) believes it is reasonably necessary to comply with legal process (such as a court order, subpoena, search warrant, etc.) or other legal requirements of any governmental authority, (ii) would potentially mitigate our liability in an actual or potential lawsuit or investigation, (iii) is otherwise necessary to protect our rights or property, or (iv) is necessary to protect the legal rights or property of others.</p>
-<h3>YOUR PREFERENCES</h3>
-<p>Subaru makes good faith efforts to provide individuals with reasonable access to Personal Information that they have provided to us and the reasonable ability to review and correct it, or ask for its deletion, if it is not otherwise required to be retained by law or retained for legitimate business purposes. Please note we may retain server/backup copies of all such data, and that we may decline to process change or deletion requests that we deem to be unreasonable, or require disproportionate technical effort, or jeopardize the privacy of others.</p>
-<p>If you are a registered user of MySubaru, you may change or delete certain information in your profile by logging on to <a href="https://www.subaru.com/my-subaru/account.html">http://www.subaru.com/my-subaru/account.html</a> or you may disable your account by going to the "<a href="https://www.subaru.com/customer-support.html">Contact Us</a>" form at Subaru.com. All other users may change or delete the Personal Information that is stored by Subaru by contacting the Subaru Customer Service Department at 1-800-782-2783 or by logging on to <a href="https://www.subaru.com/customer-support.html">Subaru.com/contactus</a>.</p>
-<p>All users may opt-out of receiving marketing emails and newsletters at any time by changing their preferences (if registered), or by contacting the Subaru Customer Service Department at 1-800-782-2783 or by using the opt-out link located at the bottom of our emails.</p>
-<p>Please note that we cannot change or delete information in the databases of third parties with whom we have already shared your Personal Information.</p>
-<h3>SECURITY AND DATA RETENTION</h3>
-<p>Transmission of data over the Internet is <u>not</u> 100% secure. Consequently, we cannot ensure or warrant the security of any information you transmit to us and you do so at your own risk. Once we receive your transmission, we make reasonable efforts to ensure security on our systems. Subaru uses secure server software (e.g.SSL) and firewalls to protect your information from unauthorized access, disclosure, alteration, or destruction. However, please note that this is not a guarantee that such information may not be accessed, disclosed, altered, or destroyed by breach of such firewalls and secure server software.</p>
-<p>If Subaru learns of a breach in its security system that results in a disclosure of users' information, we may attempt to notify you electronically so that you can take appropriate protective steps. By providing Personal Information to us or using this Website or Application, you agree that we can communicate with you electronically regarding security, privacy, and administrative issues. Subaru may post a notice on our Website(s) or through an Application if a security breach occurs. Subaru may also send an email to you at the email address you have provided to us. Depending on where you live, you may have a legal right to receive notice of a security breach in writing.</p>
-<p>Subaru endeavors to retain the information that collects from and about its users only as long as necessary to fulfill a legitimate business need or as required by law.</p>
-<h3>LINKS TO THIRD-PARTY WEBSITES AND CO-BRANDED WEBSITES</h3>
-<p>Our Websites and Applications may contain links to third-party websites or may be co-branded. Please be aware that Subaru is not responsible for and cannot control the privacy practices of other websites or third parties. We encourage you to read the privacy policies for these other websites, as they may differ from ours. Our Websites and Applications may also be created and maintained by service providers or may contains links to co-branded websites that may display Subaru's logo and trademarks but which are maintained by third parties. Such websites may be identified by the fact that they do not display a Subaru (or Subaru brand) URL or they may have information identifying a third party as the host of the particular Website or Application. Please read the privacy policy on the co-branded website for the applicable privacy practices relating to personal information collected via that website, as it may differ from this Privacy Policy.</p>
-<h3>CHILDREN</h3>
-<p>Subaru Websites or Applications are not directed at children. If you are under 16 or otherwise would be required to have parent or guardian consent to share information with Subaru, you should not send any information about yourself to us. If a person under 13 submits information through any part of a Subaru Website or Application, and we learn the person submitting the information is a child, we will attempt to delete this information as soon as possible. Because we do not knowingly collect any Personal Information from persons under 13, we do not use or disclose such information to third parties.</p>
-<h3>US MARKET ONLY</h3>
-<p>All information posted on this site is intended for the US market only and will be interpreted and governed solely by US law. If you access this site from a location outside the US, you are responsible for compliance with all applicable non-US laws and regulations. Subaru distributes vehicles only in the United States (and excluding Hawaii).</p>
-<h3><a name="ca"></a>CALIFORNIA PRIVACY RIGHTS</h3>
-<p>Under California Civil Code Section 1798.83, also known as California's "Shine the Light Law," residents of California may request and receive, free of charge, a copy of Subaru's California Information Disclosure Notice for the previous calendar year. This Notice lists the third party entities with which Subaru shared Personal Information for the third parties' direct marketing purposes. To request this Notice, please go to the <a href="https://www.subaru.com/customer-support.html">Contact Us</a> page on this site.</p>
-<h3>QUESTIONS?</h3>
-<p>We are committed to protecting your privacy and to being transparent about how we use your information. We use the information we gather from this site to enhance your overall experience with Subaru. If you have any questions or concerns about our Privacy Policy, please contact us at 1-800-782-2783 or <a href="https://www.subaru.com/customer-support.html">Subaru.com/contactus</a> and we'll be happy to help in any way we can.</p>
+<div><h1>MySubaru Privacy Policy</h1>
+<p>Your privacy is important to Subaru of America, Inc. We want you to feel comfortable when you visit and establish your personalized site at MySubaru. Subaru of America, Inc. has created this privacy statement to demonstrate our firm commitment to privacy. The following provides our information gathering and dissemination practices.</p>
+<p>You may click <a adhocenable="false" href="http://www.subaru.com/company/starlink-privacy.html">here</a> to access the STARLINK™ Privacy Policy, and click <a adhocenable="false" href="http://www.subaru.com/company/starlink-terms.html">here</a> to access the STARLINK™ terms and conditions.&nbsp;</p>
+<h3>Information Automatically Logged</h3>
+<p>We believe that understanding what our customers want to see and do when visiting the site is an important part of building an interesting and useful online environment. Therefore, we track, on an aggregate basis, such information as the time and length of visits, the pages viewed or downloaded and the name of your Internet service provider.</p>
+<h3>Personal Identifiable Information</h3>
+<p>This Web site is designed to allow you to access and store information about your Subaru in one place.</p>
+<p>When creating your site you will be asked to enter information specific to you and your Subaru. This includes your name, address, telephone number and e-mail address, as well as your vehicle identification number. To protect you, and to keep this information private, you will be asked to establish a Username and Password. Your site can only be accessed with the correct Username/Password.</p>
+<p>Subaru of America, Inc keeps a database of the information collected by this site, on your behalf, to allow you future access to your information. Other uses of this information may include updating our customer records, fulfilling e-mail requests and sending you important information concerning your vehicle, as well as promotional material about Subaru products and services.</p>
+<p>The information gathered by MySubaru may also be used for marketing purposes. However, none of this information is ever sold to marketers, periodical publishers or any other outsiders. We share this information only within the Subaru family.</p>
+<p>Please be assured that all information collected by MySubaru is stored in a responsible manner to protect your privacy.</p>
+<h3>E-mail</h3>
+<p>When you create your site, you can also choose to receive maintenance reminders, recall/service program notifications and information about Subaru Events via e-mail. If you do not want this information, you can opt out of receiving such information by de-selecting those items on the My Site: E-mail Settings page.</p>
+<h3>Cookies</h3>
+<p>"Cookies" are small pieces of information stored by your browser on your computer's hard drive. Our cookies do not contain any personally identifying information. They do, however, help identify the pages you've viewed and the amount of time you spent on them. This helps us identify the areas that are most important to our customers which, in turn, helps ensure you will have a pleasant visit when you come to MySubaru.</p>
+<p>By using this site, you are agreeing to the terms of our Privacy Policy. We reserve the right to change our Privacy Policy. A revised Privacy Policy will only apply to data collected subsequent to its effective date. Any revisions will be posted at least 10 days prior to its effective date. Your continued use of this site following the posting of changes to these terms will mean that you accept these changes.</p>
+<p>If you are under the age 16, please do not submit or post any personal information.</p>
+<h3>Summary</h3>
+<p>We are committed to protecting your privacy. We use the information we gather from this site to enhance your overall experience. We will not sell your personal information to anyone. If we can answer any questions or concerns you may have about our privacy policy, please <a title="contact us" href="/shopping-tools/contact-us.html">contact us</a>, and we'll be happy to help in any way we can.</p>
+<h3>California Residents</h3>
+<p>Residents of California have a right under SB 27 to request a detailed list of any third-party entities with which Subaru of America, Inc. shares personal information for their own marketing purposes. To request such a list, please forward your request to Webmaster. <a title="MySubaru
+        e-mail" href="mailto:MySubaru@Subaru.com">MySubaru@Subaru.com</a> And type "SB 27 Notice" in the Re: line.</p>
 </div>
 </div>
 
@@ -1112,7 +1017,8 @@ Subaru may be required to disclose your Personal Information if it: (i) believes
 </div>
 </div>
 
-
+        </div><!-- end view-port-screen -->
+        
     
 
 
@@ -1124,7 +1030,7 @@ Subaru may be required to disclose your Personal Information if it: (i) believes
         <div class="footer-subnav">
             <div class="parbase col1 footer-subnav"><h3>Explore Subaru</h3>
 <ul>
-    <li><a href="/vehicles/index.html" target="_parent">Vehicles</a></li><li><a href="/shopping-tools/get-brochure.html" target="_parent">View a Brochure</a></li><li><a href="/why-subaru/index.html" target="_parent">Why Subaru</a></li><li><a href="/build-your-own/index.html" target="_parent">Build Your Own</a></li><li><a href="/shopping-tools/index.html" target="_parent">Shopping Tools</a></li><li><a href="/tools/maps/dealer/find/" target="_parent">Find a Retailer</a></li><li><a href="/vehicles/certified-pre-owned.html" target="_parent">Certified Pre-Owned</a></li><li><a href="/site-map/index.html" target="_parent">Site Map</a></li></ul>
+    <li><a href="/vehicles/index.html" target="_parent">Vehicles</a></li><li><a href="/shopping-tools/get-brochure.html" target="_parent">View a Brochure</a></li><li><a href="/why-subaru/all-things-subaru.html" target="_parent">All Things Subaru</a></li><li><a href="/build-your-own.html" target="_parent">Build Your Own</a></li><li><a href="/shopping-tools/index.html" target="_parent">Shopping Tools</a></li><li><a href="/tools/maps/dealer/find/" target="_parent">Find a Retailer</a></li><li><a href="/vehicles/certified-pre-owned.html" target="_parent">Certified Pre-Owned</a></li><li><a href="/site-map/index.html" target="_parent">Site Map</a></li></ul>
 
 </div>
 </div>
@@ -1133,7 +1039,7 @@ Subaru may be required to disclose your Personal Information if it: (i) believes
         <div class="footer-subnav">
             <div class="parbase col2 footer-subnav"><h3>Enthusiasts</h3>
 <ul>
-    <li><a href="/enthusiasts/index.html" target="_parent">Overview</a></li><li><a href="/enthusiasts/dearsubaru/index.html" target="_parent">Dear Subaru</a></li><li><a href="/enthusiasts/rally.html" target="_parent">Motorsports</a></li><li><a href="/why-subaru/events.html" target="_parent">Events</a></li><li><a href="/enthusiasts/gear/index.html" target="_parent">Subaru Gear</a></li><li><a href="http://drive.subaru.com/" target="_parent">Drive Magazine</a></li><li><a href="http://dp.subaru.com/" target="_parent">Drive Performance</a></li></ul>
+    <li><a href="/why-subaru/dear-subaru.html" target="_parent">Dear Subaru</a></li><li><a href="/enthusiasts/rally.html" target="_parent">Motorsports</a></li><li><a href="/why-subaru/events.html" target="_parent">Events</a></li><li><a href="/pets/index.html" target="_parent">Subaru Loves Pets</a></li><li><a href="/enthusiasts/gear/index.html" target="_parent">Subaru Gear</a></li><li><a href="http://drive.subaru.com/" target="_blank">Drive Magazine</a></li><li><a href="http://dp.subaru.com/" target="_blank">Drive Performance</a></li><li><a href="https://www.badgeofownership.com/" target="_blank">Badge of Ownership</a></li></ul>
 
 </div>
 </div>
@@ -1142,7 +1048,7 @@ Subaru may be required to disclose your Personal Information if it: (i) believes
         <div class="footer-subnav">
             <div class="parbase col3 footer-subnav"><h3>Company</h3>
 <ul>
-    <li><a href="/company/index.html" target="_parent">About Subaru</a></li><li><a href="/company/careers/index.html" target="_parent">Careers</a></li><li><a href="/why-subaru/partnerships.html" target="_parent">Partnerships</a></li><li><a href="/company/news/index.html" target="_parent">News</a></li><li><a href="/proudhome/index.html" target="_parent">Proud Home</a></li></ul>
+    <li><a href="/company/index.html" target="_parent">About Subaru</a></li><li><a href="/company/careers/index.html" target="_parent">Careers</a></li><li><a href="/why-subaru/partnerships.html" target="_parent">Partnerships</a></li><li><a href="/company/news/index.html" target="_parent">News</a></li></ul>
 
 </div>
 </div>
@@ -1160,7 +1066,7 @@ Subaru may be required to disclose your Personal Information if it: (i) believes
         <div class="footer-subnav">
             <div class="col5 parbase footer-subnav"><h3>Owners</h3>
 <ul>
-    <li><a href="/my-subaru/account.html" target="_parent">MySubaru</a></li><li><a href="/owners/resource-center/index.html" target="_parent">Resource Center</a></li><li><a href="/owners/ownership-benefits.html" target="_parent">Benefits of Ownership</a></li><li><a href="/service-parts-accessories/index.html" target="_parent">Service, Parts and Accessories</a></li><li><a href="/guaranteed-trade-in-program/index.html" target="_parent">Guaranteed Trade-In Program</a></li><li><a href="/vehicle-recalls.html" target="_parent">Vehicle Recalls</a></li></ul>
+    <li><a href="http://www.mysubaru.com/" target="_blank">MySubaru</a></li><li><a href="/owners/index.html" target="_parent">Resource Center</a></li><li><a href="/owners/ownership-benefits.html" target="_parent">Benefits of Ownership</a></li><li><a href="/service-parts-accessories/index.html" target="_parent">Service, Parts &amp; Accessories</a></li><li><a href="/guaranteed-trade-in-program/index.html" target="_parent">Guaranteed Trade-In Program</a></li><li><a href="/vehicle-recalls.html" target="_parent">Vehicle Recalls</a></li></ul>
 
 </div>
 </div>
@@ -1169,7 +1075,7 @@ Subaru may be required to disclose your Personal Information if it: (i) believes
         <div class="footer-subnav">
                 <div class="col6 parbase footer-subnav"><h3>Other Sites</h3>
 <ul>
-    <li><a href="https://www.chase.com/business-banking/dealer-services/subaru-motors-finance" target="_blank">Subaru Motors Finance</a></li><li><a href="http://www.subaru-global.com/home.html" target="_blank">Subaru Global</a></li><li><a href="http://robinamerica.com/" target="_blank">Subaru Power Products</a></li><li><a href="http://techinfo.subaru.com/index.html" target="_blank">STIS</a></li><li><a href="/parts-service/index.html" target="_blank">Order Subaru Parts</a></li><li><a href="/fleet/index.html" target="_blank">Subaru Fleet</a></li></ul>
+    <li><a href="https://www.chase.com/business-banking/dealer-services/subaru-motors-finance" target="_blank">Subaru Motors Finance</a></li><li><a href="http://www.subaru-global.com/home.html" target="_blank">Subaru Global</a></li><li><a href="http://subarupower.com/" target="_blank">Subaru Power Products</a></li><li><a href="http://techinfo.subaru.com/index.html" target="_blank">STIS</a></li><li><a href="/parts-service/index.html" target="_parent">Order Subaru Parts</a></li><li><a href="/fleet/index.html" target="_parent">Subaru Fleet</a></li></ul>
 
 </div>
 </div>
@@ -1235,14 +1141,21 @@ Subaru may be required to disclose your Personal Information if it: (i) believes
             <li><a href="/company/privacy.html">Privacy Policy</a></li>
             <li><a href="/company/privacy.html#ca">California Privacy Policy</a></li>
             <li><a href="/my-subaru/privacy.html">MySubaru Privacy Policy</a></li>
-            <li class="last"><a id="_bapw-link" href="http://info.evidon.com/pub_info/613?v=1&amp;nt=1&amp;nw=true" target="_blank"><span>Ad Choices</span><img id="_bapw-icon" style="border:0 !important;padding-left:5px !important;margin-bottom:-3px !important;margin-top: -4px;" src="//c.betrad.com/pub/icon1.png"></a></li>
+            <li class="last">
+                <a id="_bapw-link" href="http://info.evidon.com/pub_info/613?v=1&amp;nt=1&amp;nw=true" target="_blank">
+                    <span>Ad Choices</span>
+                    <img id="_bapw-icon" alt="Subaru Image" src="//c.betrad.com/pub/icon1.png">
+                </a>
+            </li><br><br>
+            <li><a href="/company/starlink-terms.html">SUBARU STARLINK™ Terms of Use</a></li>
+            <li class="last"><a href="/company/starlink-privacy.html">SUBARU STARLINK™ Privacy Policy</a></li>
         </ul>
     </div>
     <div class="column small-3 footer-nav-language en">
         <ul>
             <li class="english"><a href="/index.html">English</a></li>
             <li class="spanish"><a href="/es/index.html">Español</a></li>
-           	<li><a href="/chinese/index.html">中文 Chinese</a></li>
+           	<li class="chinese"><a href="/zh/index.html">中文 Chinese</a></li>
         </ul>
     </div>
 </div>
@@ -1260,7 +1173,7 @@ Subaru may be required to disclose your Personal Information if it: (i) believes
  
 
 
-         
+
 
 
 
@@ -1283,7 +1196,7 @@ vary in some states. Prices, specifications, options, features and models subjec
 	            <p>Subaru has the utmost respect for the environment and is a proud partner of Leave No Trace. 
 				Care was taken not to harm the environment when taking this photo.</p>
 
-				<p>Subaru, SUBARU BOXER, BRZ, Forester, Impreza, Legacy, Outback, STI, Tribeca, WRX, XV Crosstrek, and EyeSight are registered trademarks.</p>
+				<p>Subaru, SUBARU BOXER, BRZ, Forester, Impreza, Legacy, Outback, STI, Tribeca, WRX, XV Crosstrek and EyeSight are registered trademarks.</p>
 				
 	            <p>iPod and iPad are registered trademarks of Apple Inc.; Brembo is a registered trademark of Freni Brembo S.p.A.; Alcantara is a registered trademark of Alcantara S.p.A and Alcantara is produced by Toray Group.; TORSEN is a registered trademark of JTEKT Corporation.; BBS is a registered trademark of BBS Kraftfahrzeugtechnik AG.; Bluetooth is a registered trademark of Bluetooth SIG, Inc.; HomeLink is a registered trademark of Prince Corporation, a wholly owned subsidiary of Johnson Controls.; Aha and Harman Kardon are a registered trademarks of Harman International Industries, Inc.; Android is a trademark of Google Inc.; HD Radio is a registered trademark of iBiquity Digital Corporation.; Pandora is a registered trademark of Pandora Media, Inc.; SiriusXM and SiriusXM NavTraffic are registered trademarks of SiriusXM Satellite Radio, Inc.; iHeart is a registered trademark of Clear Channel.</p>
 
@@ -1304,27 +1217,26 @@ vary in some states. Prices, specifications, options, features and models subjec
 </div></div>
 
 
-<script type="text/javascript" src="/etc/clientlibs/granite/jquery.min.js"></script>
-<script type="text/javascript" src="/etc/clientlibs/granite/utils.min.js"></script>
-<script type="text/javascript" src="/etc/clientlibs/granite/jquery/granite.min.js"></script>
-<script type="text/javascript" src="/etc/clientlibs/foundation/jquery.min.js"></script>
 <script type="text/javascript" src="/etc/designs/subaru/disclaimers/disclaimer.min.js"></script>
 
-<!--[if IE 8]>
-   <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBkBfszWvV7c27VvvzyqBqdKsxB3VhCWe0&amp;sensor=false&amp;libraries=places"></script>
-<![endif]-->
-<script type="text/javascript" src="/etc/designs/subaru/framework/header-footer/js/vendor.min.js"></script>
+		
+        <script type="text/javascript" src="/etc/designs/subaru/framework/header-footer/js/vendor.min.js"></script>
 
-<script type="text/javascript" src="/etc/designs/subaru/framework/header-footer/js/app.min.js"></script>
+        <script type="text/javascript" src="/etc/designs/subaru/framework/header-footer/js/app.min.js"></script>
 
-
-<script type="text/javascript" src="/etc/designs/subaru/js/language.min.js"></script>
-
-
-
-    <script type="text/javascript" src="//nexus.ensighten.com/subaru/Bootstrap.js"></script>
+        
+         <script type="text/javascript" src="//nexus.ensighten.com/subaru/Bootstrap.js"></script>
+        
+        
 
 
+        <script type="text/javascript" src="/etc/designs/subaru/js/user-location.min.js"></script>
 
+        <script type="text/javascript" src="/etc/designs/subaru/js/tracking.min.js"></script>
 
+		<script src="//js.maxmind.com/js/apis/geoip2/v2.1/geoip2.js" type="text/javascript"></script>
+        <script type="text/javascript">_satellite.pageBottom();</script>
+
+        
+    
 </body></html>
