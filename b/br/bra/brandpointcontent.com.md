@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brandpointcontent.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610020614id_/http%3A//www.brandpointcontent.com/PrintSite/a/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brandpointcontent.com privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209183733id_/http%3A//www.brandpointcontent.com/PrintSite/a/privacy) for the most accurate reproduction.*
 
 # Brandpoint Content Privacy Policy
 
