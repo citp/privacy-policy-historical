@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coolmath.com privacy policy that was archived on 2015-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150504182616id_/http%3A//www.coolmath.com/privacyp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coolmath.com privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209031944id_/http%3A//www.coolmath.com/privacyp) for the most accurate reproduction.*
 
 # Cool Math - Privacy Policy
 
@@ -20,31 +20,31 @@ For our traffic tracking, we use Google Analytics and Adobe analytics. These ser
 
 **We Use Information as Disclosed and Described Here**
 
-**We use information for analytics and to improve our products and services**. We might use information to customize a user’s experience with us.
+**We use information for analytics and to improve our products and services. **We might use information to customize a user’s experience with us.
 
 **We use information for lesson and game functionality**. For example, we may use cookies to allow users to resume their place within a game.
 
-**We use information for security purposes**. For example, we may use information to protect our company or our users.
+**We use information for security purposes.** For example, we may use information to protect our company or our users.
 
-**We use information as otherwise disclosed or permitted by law**.
+**We use information as otherwise disclosed or permitted by law.**
 
 **We May Share Information With Third Parties**
 
-**We will share information with third parties who perform services on our behalf**. For example, we share information with vendors who operate our sites or provide analytics.
+**We will share information with third parties who perform services on our behalf. **For example, we share information with vendors who operate our sites or provide analytics.
 
-**We will share information if we think we have to in order to comply with the law or to protect ourselves**. For example, we will share information to respond to a court order or subpoena. We may share it if a government agency or investigatory body requests. We might share information when we are investigating potential fraud. 
+**We will share information if we think we have to in order to comply with the law or to protect ourselves.** For example, we will share information to respond to a court order or subpoena. We may share it if a government agency or investigatory body requests. We might share information when we are investigating potential fraud. 
 
-**We may share information with any successor to all or part of our business**.
+**We may share information with any successor to all or part of our business.**
 
-**We may share information with current and future companies within our corporate family**.
+**We may share information with current and future companies within our corporate family.**
 
-**We may share information for other reasons we may describe to you**.
+**We may share information for other reasons we may describe to you.**
 
 **Web You Can Control Cookies and Certain Tracking Tools**
 
 Your browser may give you the ability to control cookies.  How you do so depends on the type of cookie.  Certain browsers can be set to reject browser cookies.  To control flash cookies, you can go [here](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html).  On our mobile app, we may use analytics tools like Flurry for Analytics. To learn more about Flurry or opt-out or go [here](http://www.flurry.com/legal-privacy/end-user-opt-out).  
 
-**Our Do Not Track Policy**. Some websites have “do not track” features that allow you to tell a website not to track you. These features are not all uniform. We do not currently respond to those signals.  If you block cookies, certain features on our sites may not work. If you block or reject cookies, not all of the tracking described here will stop.
+**Our Do Not Track Policy.** Some websites have “do not track” features that allow you to tell a website not to track you. These features are not all uniform. We do not currently respond to those signals.  If you block cookies, certain features on our sites may not work. If you block or reject cookies, not all of the tracking described here will stop.
 
 **We Use Standard Security Measures**
 
