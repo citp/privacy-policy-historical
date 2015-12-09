@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the slideroom.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608011248id_/http%3A//www.slideroom.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the slideroom.com privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209043803id_/http%3A//www.slideroom.com/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy - SlideRoom
+# SlideRoom - Privacy Policy
 
 This statement applies with respect to the information that we collect from the Product Website at [http://www.SlideRoom.com](http://slideroom.com/) and Accounts provided to our Clients and their applicants. Amendments to this statement will be posted at this URL and will be effective when posted. Your continued use of this site following the posting of any amendment, modification or change shall constitute your acceptance thereof.
 
