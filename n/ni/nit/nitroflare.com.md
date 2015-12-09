@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nitroflare.com privacy policy that was archived on 2015-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150417234748id_/http%3A//nitroflare.com/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nitroflare.com privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209204754id_/http%3A//nitroflare.com/privacyPolicy) for the most accurate reproduction.*
 
 # NitroFlare - Upload Files
 
