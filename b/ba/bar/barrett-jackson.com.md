@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the barrett-jackson.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610013409id_/http%3A//www.barrett-jackson.com/Policies/Home/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the barrett-jackson.com privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209195112id_/http%3A//www.barrett-jackson.com/Policies/Home/PrivacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy - Barrett-Jackson Auction Company - World's Greatest Collector Car Auctions
 
