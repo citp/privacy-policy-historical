@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myscraps.net privacy policy that was archived on 2015-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150510202320id_/http%3A//myscraps.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myscraps.net privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209220105id_/http%3A//myscraps.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - MyScraps
 
