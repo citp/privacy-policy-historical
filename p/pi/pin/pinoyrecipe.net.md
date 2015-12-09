@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pinoyrecipe.net privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610012633id_/http%3A//www.pinoyrecipe.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pinoyrecipe.net privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209195352id_/http%3A//www.pinoyrecipe.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Filipino Recipes Portal
 
@@ -10,15 +10,15 @@ If you require any more information or have any questions about our privacy poli
 
 At **PinoyRecipe.net** , the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by PinoyRecipe.net and how it is used.
 
-**Log Files**  
+ **Log Files**  
 Like many other Web sites, PinoyRecipe.net makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
 
-**Cookies and Web Beacons**  
+ **Cookies and Web Beacons**  
 PinoyRecipe.net does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser.
 
-  * ## **Cookie Opt Out**
+  * ##  **Cookie Opt Out**
 
-  * **PinoyRecipe.net** serve Gourmet Ads and its primary ad server is Appnexus and you can opt out of cookies from them by visiting ;  
+  *  **PinoyRecipe.net** serve Gourmet Ads and its primary ad server is Appnexus and you can opt out of cookies from them by visiting ;  
 http://appnexus.com/platform-policy#choices and Opting Out.
   * You can also opt out of cookies using the Network Advertising Initiative opt-out page at this page;  
 http://www.networkadvertising.org/choices/
@@ -26,7 +26,7 @@ http://www.networkadvertising.org/choices/
 
 
 
-**  
+ **  
 DoubleClick DART Cookie**  
 .:: Google, as a third party vendor, uses cookies to serve ads on PinoyRecipe.net.  
 .:: Google’s use of the DART cookie enables it to serve ads to users based on their visit to PinoyRecipe.net and other sites on the Internet.  
@@ -46,4 +46,4 @@ If you wish to disable cookies, you may do so through your individual browser op
 [  
 Contact us](http://www.pinoyrecipe.net/contact-us/) if you have feedback.
 
-_**Note:** Policy updated ( June 4, 2010 ) _
+ _ **Note:** Policy updated ( June 4, 2010 ) _
