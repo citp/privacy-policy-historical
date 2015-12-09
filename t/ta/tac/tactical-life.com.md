@@ -1,82 +1,102 @@
-> *The following text is extracted and transformed from the tactical-life.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629193353id_/http%3A//www.tactical-life.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tactical-life.com privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209141946id_/http%3A//www.tactical-life.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-**Harris Publications believes that you should control the dissemination of the personally identifiable information that you provide when using the Tactical Life web site (“the Site”). Please review this policy carefully to understand how we will treat the personally identifiable information that you give to us and other information in connection with the Site. This policy applies only to the Site.**
+Harris Publications Inc. (“Harris Publications,” “we,” “us”), is committed to respecting the privacy rights of the users, customers and visitors of the web site located at www.tactical-life.com (the “Site”), the related services and products and the mobile applications (if any) provided by Harris Publications (collectively, the “Service”). This document will outline how Harris Publications gathers and utilizes various sources of information obtained during your visit to and use of the Service. This Privacy Policy applies solely to information collected from your use of the Service. **BY USING THE SERVICE, YOU AGREE TO THE PRACTICES AND POLICIES OUTLINED IN THIS PRIVACY POLICY AND YOU HEREBY CONSENT TO OUR TRACKING, COLLECTION, USE, AND SHARING OF YOUR INFORMATION AS DESCRIBED IN THIS PRIVACY POLICY. IF YOU DO NOT AGREE WITH THIS PRIVACY POLICY, YOU CANNOT USE THE SERVICE. IF YOU USE THE SERVICE ON BEHALF OF SOMEONE ELSE OR AN ENTITY, YOU REPRESENT THAT YOU ARE AUTHORIZED BY SUCH INDIVIDUAL OR ENTITY TO ACCEPT THIS PRIVACY POLICY ON SUCH INDIVIDUAL’S OR ENTITY’S BEHALF.**
 
-Your use of this Site in any fashion constitutes your agreement to the terms of this Privacy Policy and our [Terms of Use](https://web.archive.org/terms). Please review this page periodically. If we decide to change our Privacy Policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it and under what circumstances we disclose it. Your continued use of the Site constitutes your agreement to any such changes.
+**Personally Identifiable and Non-Personally Identifiable Information**
 
-### What personally identifiable information is collected on this Site?
+When using the Service, you may be required to voluntarily provide certain information that personally identifies you (“Personally Identifiable Information”) either on the Site or to our representatives over the phone. Personally Identifiable Information required to access some of our services such as to subscribe to our newsletter include your email address. Personally Identifiable Information required to complete a purchase or sign up for a subscription includes your full name, email address, billing address, shipping address telephone number, credit/debit card information or bank account information.
 
-You do not have to provide any personally identifiable information to use the Site. However, when you use the Site to obtain our products and services, to enter contests, to post messages on the Site, or for other reasons, you may choose to provide Harris Publications with certain personally identifiable information as indicated in each such area of the Site, such as your name, physical address, email address, zip code, phone number, and gender. Harris Publications will make an effort to include a link to the Privacy Policy whenever we ask you for personally identifiable information.
+Harris Publications may also collect your Personally Identifiable Information when you choose to provide it to us. For example, you may send Personally Identifiable Information in an email, or through a contact request form or submission form on the Service or when you participate in a sweepstakes, contest or promotion sponsored by the Service and/or one of our advertisers, partners or sponsors.
 
-### How is my personally identifiable information used by Harris Publications?
+During certain promotions, Harris Publications may allow you to submit information about other people. For example, you may submit a person’s name, mailing and/or e-mail address to send a gift or electronic greeting. The types of Personally Identifiable Information that may be collected about other people at these pages include: recipient’s name, address, e-mail address and telephone number.
 
-We use the personally identifiable information to provide you with the services you have requested and as otherwise described in this Privacy Policy. We may use the personally identifiable information to send you advertising from selected Harris Publications partners and advertisers (unless you have opted out of receiving these types of communications).
+Harris Publications may also collect information about your personal or professional interests and use of or opinions about various products, programs and services.
 
-We may also aggregate the information we collect to develop certain summary reports for our partners and/or advertisers. We provide this information to assist our partners and/or advertisers in determining how to promote their products and services. In so doing, we do not reveal personally identifiable information.
+We also may automatically collect certain data when you use the Service, such as (1) IP address; (2) domain server; (3) type of device(s) used to access the Service; (4) web browser(s) used to access the Service; (5) referring webpage or other source through which you accessed the Service; (6) geolocation information; and (7) other statistics and information associated with the interaction between your browser or device and the Service. We may also aggregate any information collected, including demographic information collected from our users in a manner which does not identify any individual (“Aggregate Information”). Information obtained in connection with the Service may be intermingled with and used by us in conjunction with information obtained through sources other than the Service, including both offline and online sources.
 
-### Who has access to my personally identifiable information?
+**Information Usage**
 
-Harris Publications makes reasonable efforts to ensure that your information is treated securely and in accordance with this Privacy Policy. Except as otherwise described in this Privacy Policy, we do not share your personally identifiable information with any third parties other than our contractors who assist us in providing our services. Unfortunately, no data transmission over the Internet can be guaranteed secure. While we takes steps to protect your personally identifiable information, we cannot guarantee the security of any information you transmit to us or from the Site, and you use the Site at your own risk.
+We may use your information, including Personally Identifiable Information for the following purposes:
 
-### What personally identifiable information is disclosed to third parties?
+  * Provide you with the products, services and information you request or have expressed interest in;
+  * Contact you with information, offers and promotions about our products and services;
+  * Communicate with you, such as to notify you when you have won one of our contests or sweepstakes, or to contact you about your account, order or subscription;
+  * Disclose and/or sell such Personally Identifiable Information that we receive from you and from third party sources to third parties whose practices are not covered by this privacy statement (e.g., other marketers, magazine publishers, retailers, participatory databases, non-profit organizations and other partners) that want to market products or services to you. You can opt out of such disclosure by following the directions provided in the Sharing of Personally Identifiable Information with Marketing Partners section below;
+  * Send you our newsletter;
+  * Provide, maintain, administer or expand the Service or for other internal purposes to support, improve or enhance our business, the Service and the products and services we offer;
+  * Customize and tailor your experience of the Service;
+  * Obtain your feedback regarding the Service;
+  * Prevent, detect and investigate security breaches and potentially illegal or prohibited activities;
+  * To match it with other public and private data sources in order to enhance our records or the records of our business partners.  We also may work with other providers who also possess your information in connection with their services, such as sharing your Personally Identifiable Information with a third party who also has your Personally Identifiable Information in order to enhance one or both of our services provided to you.
 
-Harris Publications may share the following personally identifiable information with its advertisers, sponsors, and partners in the following circumstances:
-
-  * Information you provide when entering into a contest, sweepstakes or promotion sponsored by the Site and/or one of our advertisers/partners/sponsors.
-  * Information you provide when you register to receive goods or services from Harris Publications or from one of our advertisers/partners/sponsors.
 
 
+Unless you consent to the disclosure of your Personally Identifiable Information as provided above, only we and our affiliates, our technical consultants, third party auditors and other third parties who make our Service available, enhance its functionality, or provide associated services (such as coordinating orders and delivery of our products and services) have access to this information, and we do not authorize them to use it for their own commercial purposes.
 
-Unless you have opted out of receiving special offers or emails from selected third parties, we may provide a report to an advertiser or partner which tells them who responded to a particular offer. For example, we might send you an email which offers you a discount on a particular product. If you click on that e-mail or accept an offer or discount contained therein, we may provide the advertiser with the personally identifiable information necessary to provide you with that discount.
+Please note that Harris Publications reserves the right to and may disclose Personally Identifiable Information about you in connection with (a) requests from local, state or federal law enforcement officials; (b) any judicial, administrative or similar proceeding or order, such as subpoena; (c) if required by law; or (d) to investigate suspected fraud, harassment, physical threats, or other violations of any law, rule or regulation, the Service rules or policies, or the rights of third parties or to investigate any suspected conduct which we deem improper. Please also note that we do reserve the right to transfer your Personally Identifiable Information and other information to our successors in business and purchasers of site assets in connection with a sale, merger, consolidation, reorganization, sale of all or any part of its business or assets or in connection with bankruptcy.
 
-Harris Publications may disclose your personally identifiable information if we believe in good faith that we are required to do so in order to comply with applicable law, a subpoena, or other legal process. Harris Publications may also disclose information when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be violating our Terms of Use, or to protect the safety of our users or the public. Harris Publications may transfer your personally identifiable information in connection with the sale or merger, in whole or in part, of Harris Publications its assets or the division responsible for the services being provided to you.
+We may use Aggregate Information for any and all purposes as we deem fit, including to improve your experience on the Service and for our research activities. For example, we may use Aggregate Information we collect to develop certain summary reports for our partners and/or advertisers. We provide this information to assist our partners and/or advertisers in determining how to promote their products and services.
 
-You should be aware that personally identifiable information which you voluntarily include and transmit online in a posting may be viewed and used by others. We are unable to control such uses of your personally identifiable information, and by using such services you assume the risk that the personally identifiable information provided by you may be viewed and used by third parties.
+**Sharing of Personally Identifiable Information with Marketing Partners**
 
-### How do I opt out of the collection, disclosure and distribution of personally identifiable information?
+We may share, license or sell your information to third parties whose practices are not covered by this privacy statement (e.g., other marketers, magazine publishers, retailers, participatory databases, non-profit organizations and other partners). These third parties may want to market products or services to you through various means including their online (e.g., e-mail marketing) and offline (e.g., telemarketing, cell phone text messaging, and direct mail) marketing programs. To opt out of such sharing of your Personally Identifiable Information, please contact [info@harris-pub.com](mailto:info@harris-pub.com).
 
-You can always choose whether or not to disclose personally identifiable information and that choice will not prevent you from using the Site. Please note, however, that you must provide some personally identifiable information in order to use certain services on the Site. In addition, you can always choose to opt-out of certain uses of your personally identifiable information at any time.
+**Your California Privacy Rights: Notice to California Customers**
 
-If you do not want your personally identifiable information shared with third parties for their marketing purposes, then please email us at [privacy@www.tactical-life.com](mailto:privacy@www.tactical-life.com)
+Pursuant to California’s “Shine the Light” law, Civil Code section 1798.83, we do not share your personal information with third parties for their direct marketing use unless you elect that we do so. Additionally this law requires certain businesses to respond to requests from California customers asking about the businesses’ practices related to disclosing personal information to third parties for the third parties’ direct marketing purposes. Alternately, such businesses may have in place a policy not to disclose personal information of customers to third parties for the third parties’ direct marketing purposes if the customer has exercised an option to opt-out of such information-sharing. As discussed above, if you wish to opt-out of our sharing of your information with third parties for the third parties’ direct marketing purposes offline please email us at [info@harris-pub.com](mailto:info@harris-pub.com). To find out more about your opt-out rights, please read the “Opt Out” section of this Privacy Policy and/or contact us as described in the “Contact Us” section below.
 
-If you do not want us to use your personally identifiable information for our own marketing purpose in connection with the Site, then please email us at [privacy@www.tactical-life.com](mailto:privacy@www.tactical-life.com)
+**Protection for Children**
 
-However, we are not responsible for removing your personally identifiable information from the lists of any third party who has previously been provided your information in accordance with this policy.
+The Service is not intended for use by children under the age of 13 and such children are prohibited from using the Service. We do not knowingly collect any information from children under the age of 13, nor is the Service directed to children under the age of 13. If a child under the age of 13 has provided us with Personally Identifiable Information, we will use all reasonable efforts to delete such information from our database.
 
-### What happens when I go to linked sites?
+**Links to Third Party Sites**
 
-When you are on our Site, you may be directed to other sites that are beyond our control. For example, if you “click” on a sponsor’s logo, the “click” may take you off the Site. These other sites may independently collect data, solicit personally identifiable information, or send their own cookies to you. You should review the privacy practices of every web site you visit.
+Our Service may contain links (or other information) to other web sites and services. We may also offer contests, sweepstakes and other promotions in association with third parties. We encourage our users to be aware when they leave our Service to read the privacy policies of each and every web site that collects Personally Identifiable Information. We do not endorse, screen or approve, and are not responsible for the privacy practices or content of such other web sites. Visiting these other web sites is at your own risk.
 
-### What is Harris Publications’ policy regarding children’s privacy?
+**Cookies, Web Beacons**
 
-This Site is neither directed to nor intended for children under 13. Harris Publications will not knowingly collect and use personally identifiable information from children under age 13 without receiving verifiable consent from such individual’s parent or guardian. When we become aware that personally identifiable information from a child under 13 has been collected without such child’s parent or guardian’s consent, we will use all reasonable efforts to delete such personally identifiable information from our database. For more information on protecting your privacy, please visit [www.ftc.gov/privacy](http://www.ftc.gov/privacy).
+“Cookies” are pieces of information that may be placed on your computer by a web site for the purpose of facilitating and enhancing your communication and interaction with that web site. Many web sites use cookies for these purposes. We use Cookies, clear gifs, web beacons or similar devices (including session Cookies, i.e., Cookies that will persist only until you end your session on the Service) to help us improve the Service by tracking your navigation habits, collect Aggregate Information customizing your experience with the Service and for analytics and fraud prevention. Some of our business partners, including but not limited to Google Analytics and other similar services, use Cookies (or clear gifs, web beacons or similar devices) to enhance or improve the user experience and Service and/or show Harris Publications ads on other websites and services based on information collected about your use of the Service and based on your particular interests (as inferred from your online activity). This type of advertising is commonly known as interest-based or online behavioral advertising.
 
-### How are cookies used by Harris Publications?
+**Behavioral Advertising**
 
-Harris Publications assigns a random number to each user for anonymously tracking traffic patterns. This random number is kept in a file on your computer called a “cookie.” Cookies allow Harris Publications to keep track of how often users are visiting specific areas of our Site – or simply how many times a user visits our Site each month. Third parties, such as our advertisers, may use cookies of their own in connection with this Site.
+We use your browsing history and Personally Identifiable Information to display interest-based advertising that is relevant to you in accordance with the Digital Advertising Alliance’s Self-Regulatory Principles for Online Behavioral Advertising. We place interest-based advertisements on our Site as well as other third-party sites. The browsing history we use is collected by us and by third parties on our website, as well as other sites. We may also share your anonymous browsing history from our website with third parties to provide relevant ads. They may combine this information with assumptions based on the other websites you have visited in order to tailor ads to you.
 
-Harris Publications does not require users to accept cookies in order to enjoy the Site. You can set your browser to reject cookies, or to notify you when Harris Publications or any other company sends you a cookie. If you have questions about how to change your browser’s “cookie” settings, you should contact the software manufacturer. You should be aware, however, that many areas of Harris Publications will be significantly slower, or may not function at all, if cookies are disabled.
+You can opt out of interest-based advertising from third party providers who follow the Digital Advertising Alliance’s Self-Regulatory Principles for Online Behavioral Advertising at www.aboutads.info/choices.
 
-Anonymous and non-personally identifiable information collected via cookies and through other methods on this Site may be used by Harris Publications or any purpose and shared with any number of third parties, as long as such information does not include any personally identifiable information.
+Cookies may collect information when you use the Service, such as the computer’s IP address, mobile device ID, type of operating system, type of internet browsing software, web pages viewed and when, the geographic location of your internet service provider, the website address, if any, from which you linked to the Site, and the website address to which, if any, you travel from the Site, your home page customization preferences, and demographic information, such as gender and age range. Third party Cookies generally do not collect Personally Identifiable Information unless you voluntarily provide it and generally do not track your browsing habits across websites which do not use their services. These third-party Cookies help us learn more about our users’ demographics and internet behaviors. You may stop or restrict the placement of cookies on your computer or remove them from your browser by adjusting your web browser preferences. If you do so, you may still use our Service, but it may interfere with some of its functionality.
 
-### United States of America
+**Security**
 
-Our Site is maintained in the United States of America. By using the Site, you authorize the export of personally identifiable information to the USA and its storage and use as specified in this policy.
+Harris Publications will not be liable for disclosures of your Personally Identifiable Information due to errors in transmission or unauthorized acts of third parties. We have undertaken commercially reasonable efforts to prevent unauthorized Internet access to visitor data retained in our internal servers **.** We also store Personally Identifiable Information in certain third party external databases (such as Progress Openedge) that we reasonably believe comply with generally accepted industry standards to protect Personally Identifiable Information. When we request that you enter sensitive information (such as your credit card information), we encrypt such information using a Secure Sockets Layer (“SSL”) standard. Additionally, we use the Symantec SSL Certificate standard to verify the secure nature of our Site to users’ browsers.
 
-### Our Terms of Use
+Despite the measures we take to protect your Personally Identifiable Information, due to the inherent open nature of the Internet, we cannot ensure or warrant the security of any information you transmit to us or any information provided online, and you do so at your own risk. You must accept all risks associated with any data transmission, including the risk that your Personally Identifiable Information may be intercepted in transit.
 
-Use of this Site is governed by, and subject to, the Terms of Use. Your use, or access, of the Site constitutes your agreement to be bound by these provisions.
+We retain non-personally identifiable information collected via our Service for as long as we have a business reason to do so. After that time, we aggregate the data and retain it for analytical purposes. We retain your Personally Identifiable Information for as long as your Service participation is active (as determined by us), including when your magazine subscription is active, and for a reasonable time thereafter (in the event that you choose to engage with us again). We also may retain your Personally Identifiable Information for a longer period of time as needed to provide you services or as necessary to comply with our legal obligations, to resolve disputes, and to enforce our agreements. Even if we delete some or all of your Personally Identifiable Information, we may continue to retain and use aggregate, anonymous data previously collected and/or anonymize and aggregate your Personally Identifiable Information.
 
-### Who can I contact with questions regarding this policy or my personally identifiable information?
+**Policy Review and Modifications**
 
-Questions regarding this statement or the privacy policies or procedures of this Site should be directed to [comments@harris-pub.com](mailto:comments@harris-pub.com)
+We review this Privacy Policy at reasonable intervals to ensure we remain consistent with the terms set forth herein. We reserve the right, at our discretion, to modify, add, or remove portions from this Privacy Policy at any time. However, if at any time in the future we modify this Policy, we will post such changes here. If we plan to use you Personally Identifiable Information in a way that materially differs from the practices outlined here, we will post such changes here and will also provide you with the ability to opt out of such differing uses. Your continued use of the Service following the posting of any changes to this Policy constitutes your acceptance of any such changes.
 
-### Effective Date
+**Opt-Out**
 
-This Privacy Policy is effective and was last updated on July 10, 2008. 10:47
+We give you the option to access (through an email sent by us), update or remove your Personally Identifiable Information from any lists that we maintain of users. All unsubscribe or opt-out requests should be sent to us at [info@harris-pub.com](mailto:info@harris-pub.com), and we will process your request within a reasonable time after receipt. To opt out of sharing of your Personally Identifiable Information with any third party who may use such information for direct marketing purposes please send an email to [info@harris-pub.com](mailto:info@harris-pub.com). However, we are not responsible for removing your Personally Identifiable Information from the lists of any third party who has previously been provided with your information in accordance with this privacy policy or your separate consent.
 
-### **Contact Information**.
+You can opt out of interest-based advertising from third party providers who follow the Digital Advertising Alliance’s Self-Regulatory Principles for Online Behavioral Advertising at www.aboutads.info/choices.
 
-Should you have any questions you may [contact us here>>](http://www.tactical-life.com/contact/)
+**Service Terms of Service**
+
+Use of this Service is governed by, and subject to, the legal notices contained at <http://www.tactical-life.com/terms-of-use/> .Your use, or access, of the Service constitutes your agreement to be bound by these provisions. **IF YOU DO NOT AGREE TO THESE TERMS OF SERVICE YOU MAY NOT ACCESS OR OTHERWISE USE THE SERVICE.**
+
+**Contact Us**
+
+**_Comments and Questions_**
+
+If you have any questions, comments or concerns about our Privacy Policy, you may contact us at [info@harris-pub.com](mailto:info@harris-pub.com)
+
+**United States of America**
+
+Our Service is maintained in the United States of America. By using the Service, you authorize the export of Personally Identifiable Information to the U.S.A. and its storage and use as specified in this Privacy Policy.
+
+**Effective Date:** This Privacy Policy is effective and was last updated on October 13, 2015.
