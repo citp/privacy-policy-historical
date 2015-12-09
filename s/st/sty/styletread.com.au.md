@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the styletread.com.au privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611142043id_/http%3A//www.styletread.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the styletread.com.au privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209193842id_/http%3A//www.styletread.com.au/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -100,4 +100,4 @@ Phone: 1300 602 947
 
 Fax: 02 8279 9321
 
-Last Updated: 23/04/2015
+Last Updated: 28/05/2015
