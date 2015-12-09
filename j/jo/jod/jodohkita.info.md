@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jodohkita.info privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610012135id_/http%3A//www.jodohkita.info/static/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jodohkita.info privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209181828id_/http%3A//www.jodohkita.info/static/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy of Jodohkita.info | Jodohkita.info - PR 4 Social Bookmarking Site
 
