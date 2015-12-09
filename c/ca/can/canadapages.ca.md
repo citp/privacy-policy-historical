@@ -1,14 +1,16 @@
-> *The following text is extracted and transformed from the canadapages.ca privacy policy that was archived on 2015-01-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150119233617id_/http%3A//www.canadapages.ca/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the canadapages.ca privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209125021id_/http%3A//www.canadapages.com/privacy-policy.php) for the most accurate reproduction.*
 
-# Privacy Policy, Canada Pages
+# Your Privacy is Important to us, Read our Privacy Policy - Canada Pages
 
 ## Privacy Policy
 
 Canada Pages takes your privacy seriously. We have put in place basic common sense practices in place to ensure that your information is protected.
 
- **Personal Data**
+ **Personal and Business Data**
 
 We collect your information, when you contact Canada Pages for a free listing or a budget listing. The information we collect is used to process your order and to maintain or to modify your directory listing. All such information is protected and not sold to any third party. We might contact you from time to time to offer you products that we feel will enhance your advertising experience or will offer your business a clear competitive advantage. But you can rest assure, that your information will not be sold. 
+
+The information listed on the CanadaPages.com website is all publically available information. Our Privacy Policy is based on finding the right balance of publically available information and an individual's right to privacy. All we do is present the information online in a easy to navigate format. 
 
 **Content Use**
 
