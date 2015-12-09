@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freepornvideo.me privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610050315id_/http%3A//www.freepornvideo.me/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freepornvideo.me privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209035552id_/http%3A//www.freepornvideo.me/privacy.php) for the most accurate reproduction.*
 
 # Privacy
 
