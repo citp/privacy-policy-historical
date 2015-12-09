@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the thinkmoney.co.uk privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607144637id_/http%3A//www.thinkmoney.co.uk/about-thinkmoney/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thinkmoney.co.uk privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209035640id_/http%3A//www.thinkmoney.co.uk/about-thinkmoney/privacy-policy) for the most accurate reproduction.*
 
 # Thinkmoney privacy policy
 
 ## Privacy Policy
 
-Protecting your privacy is important to us. This privacy statement explains how Think Money Limited, and the companies within the Think Money Group (All About Money Limited, Freeman Jones Limited, Think Loans and Mortgages Limited, Think Insure Limited, Gregory Pennington Limited, Wilson Andrews Limited, Ideal Finance Limited, Intelligent Lending Limited, and Think Money Group Limited) (collectively “the Group”) collect personal data from you, and how we will use and store this information.
+Protecting your privacy is important to us. This privacy statement explains how Think Money Limited, and the companies within the Think Money Group (All About Money Limited, Freeman Jones Limited, Think Money Limited, Think Insure Limited, Gregory Pennington Limited, Wilson Andrews Limited, Ideal Finance Limited, Intelligent Lending Limited, and Think Money Group Limited) (collectively “the Group”) collect personal data from you, and how we will use and store this information.
 
 Please read this privacy statement carefully, as once you send us your information you will be deemed to have read and accepted this statement.
 
