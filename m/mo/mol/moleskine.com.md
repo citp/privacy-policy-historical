@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moleskine.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610053255id_/http%3A//www.moleskine.com/web/us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moleskine.com privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209191539id_/http%3A//www.moleskine.com/us/privacy-policy) for the most accurate reproduction.*
 
 # Moleskine® privacy policy - Moleskine ®
 
@@ -36,16 +36,9 @@ The optional, explicit and voluntary sending of e-mail to the addresses shown at
 
 Specific Information Notices may be presented on the website pages in relation to particular services or processing of Data supplied by the User or by the Data Subject.
 
-**_Cookies_**  
-The software applications used may contain cookie technology. The main function of cookies is to aid navigation by the User. Cookies may supply information about navigation within the website and allow the operation of certain services requiring identification of the User's footprint across various pages of the website. For any access to the portal, regardless of the presence of a cookie, the type of browser (e.g. Internet Explorer, Netscape), operating system (e.g. Macintosh, Windows) and host and the visitor's URL of origin are recorded, in addition to the data on the requested page. Users in any case have the option of setting their browsers to inform them when they receive a cookie and thus of deciding whether to delete it. Further information on cookies can be found at the websites of the browser providers.
+**_Cookies_**
 
-**Types of cookie**
-
-Cookies are subdivided into "session" and "persistent" cookies. "Session" cookies, once downloaded, are deleted on closure of the browser. "Persistent" cookies, on the other hand, are stored on the user's/visitor's hard disk until expiry.
-
-First-party cookies are only legible on the domain which created them. Third-party cookies are created and legible by domains external to the present website. The software used for each website and platform creates a cookie for each user. This cookie generates statistics about use, e.g. via Google Analytics, which are held at Google, Inc.
-
-For the functioning of the cookies in Google Analytics, please see the official documentation supplied by Google at the following URL: <http://code.google.com/apis/analytics/docs/concepts/gaConceptsCookies.html>
+Please see the cookies policy at the following [link](http://www.moleskine.com/documents/10192/7b0ba7e9-4ce1-4583-8519-b1a59b6c5d8f)
 
 _3. **DATA PROCESSED AND PURPOSE OF THE PROCESSING**  
 _
