@@ -1,44 +1,54 @@
-> *The following text is extracted and transformed from the dailysmspk.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610000801id_/http%3A//dailysmspk.net/privacy-policy-of-dailysmspk-net) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailysmspk.com privacy policy that was archived on 2015-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151210000533id_/http%3A//dailysmspk.net/privacy-policy-of-dailysmspk-net) for the most accurate reproduction.*
 
-# Privacy Policy of Dailysmspk.Net | DailysmsPK.Net
+# Privacy Policy | DailysmsPK.Net
 
-**Dailysmspk.net** understands the importance of your privacy. At Dailysmspk we are committed to protecting the privacy of our users. If and when Dailysmspk.net collects personal identifying information, we maintain the confidentiality, security and integrity of that personal information obtained from our users. We do not share nor disclose personal information to any party beyond the Dailysmspk network. For your own protection, please review the following terms and conditions before joining Dailysmspk.net. We want you to enjoy Dailysmspk to the fullest, but we also want you to stay informed. Through subscribing to Dailysmspk, you are agreeing to our terms and conditions.
+Welcome to DailySMSPK.Net – This Privacy Statement Discloses the Privacy Practices for All Pages and Services Offered by DailySMSPK.Net
 
- **Cookies & 3rd Party Advertisements**
+### **– Terms of Services**
 
-Google, as a third party vendor, uses cookies to serve ads on your site. Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
+  * You are using this website indicates that you are accepting this legal notice in it’s pure form. More, this privacy policy maybe changed or updated at our discretion at any time and your continued use of our website shows your acceptance of any changes or updates.
+  * The information published in this page is for purely informational and enlightenment purpose.
+  * You are responsible for verifying the accuracy of information, images, text, multimedia, advertisements and contents solely.
+  * As far as, content or third party products advertisements concern, we are not responsible or liable in any manner.
+  * For any technical malfunction or other problems that may occur while using this website, we are not responsible.
+  * We will not be liable to you or any third party for any indirect, consequential, exemplary, incidental or punitive damages.
+  * The Publisher and/or the author do not warrant or represent at any time that the information given here are accurate due to the rapidly changing nature of the Internet.
+  * While all attempts have been made to verify information provided in this publication, the Publisher and/or author assumes no responsibility for error, omissions, or contrary interpretation of the subject matter here in.
 
-We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit <http://www.networkadvertising.org/managing/opt_out.asp>.
 
- **Terms and Conditions of Use** :  
-Your use of Dailysmspk.net, the Dailysmspk Mobile means that you agree to the terms and conditions outlined below. We reserve the right to change, modify and or remove portions of these terms at any time. If you choose to continue your use of this site after we have posted changes to the terms, it means you have accepted those terms. Dailysmspk.net will not share your email address with anyone else without your permission.
 
- **Anti Spam Policy:**
+### **– Personally Provided Information  
+**
 
-Any registered User of Dailysmspk can send sms text messages to his/her friends, family, colleagues, clients, contacts etc using the Dailysmspk.net Interface. These interface conditions of use strictly forbid spamming to cell phone Users. We have several software filters to block spam messages. However, we cannot guarantee that spamming will not ever occur. Please let us know, (click on the contact link above for details) the details of the message like content of message, time of delivery, sender name or number etc so that we can immediately check and block the user responsible for the same.
+You do not have to give us personal information to visit DailySMSPK.Net. If you choose to provide us with additional information through an e-mail message, inquiry form, comments, etc., we will only maintain the information as long as needed to respond to your question, inquiry, or to fulfill the stated purpose of the communication. Except for authorized law enforcement investigations, we do not give, share, sell or transfer any personal information to a third party.
 
- **Limits on our Abilities** :  
-Although your privacy is our top priority, due to the existing statutory, legal and technical environment, we are unable to ensure that personally identifiable information of our Users will not be disclosed to third parties in ways that are not described in this policy. Additionally, we may (and here you give us authorization to) disclose any private information about you to private entities, law enforcement or other government officials, which we may believe to be necessary at our sole discretion or appropriate to address or to resolve inquiries or problems. We undertake that this will not be done for commercial purposes or for our personal gain.
+### **– Website Traffic Analysis Software  
+**
 
-If you have any further questions about our privacy and anti-spam policy or about its implementation, please contact us You hereby acknowledge that the acceptance of this privacy policy is a condition to your use of our products and services and that you agree to be bound by all of our Terms and Conditions.
+For site security purposes and to ensure that this service remains available to all users, we use software programs (such as google analytics) to monitor traffic to identify unauthorized attempts to upload or change information, or otherwise cause damage. We also monitor our traffic to analyze visitors’s information, such as, but not limited to, operating system, browsers, screen resolutions, ISPs, geo locations and similar.
 
- **Cookies and Web Beacons** :  
-Google, as a third party vendor, uses cookies to serve ads on our site.
+In the event of authorized law enforcement investigations, and pursuant to any required legal process, information from these sources may be used to help identify an individual.
 
-Google’s use of the DART cookie enables it to serve ads to our users based on their visit to your sites and other sites on the Internet.
+### **– Use of Cookies**
 
-Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
+When you view our Web site we might store some information on your computer. This information will be in the form of a “cookie” or similar file. Cookies are small pieces of information stored on your hard drive, not on our site. Cookies do not spy on you or otherwise invade your privacy, and they cannot invade your hard drive and steal information. Rather, they help you navigate a Web site as easily as possible.
 
-URL – http://www.google.com/privacy_ads.html
+### **– Third Party Advertising Partners**
 
-We also use third party advertisements on our site to support our site. Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site, which will also send these advertisers (such as Google through the Google AdSense program) information including your IP address, your ISP , the browser you used to visit our site, and in some cases, whether you have Flash installed. This is generally used for geo targeting purposes (showing New York real estate ads to someone in New York, for example) or showing certain ads based on specific sites visited (such as showing cooking ads to someone who frequents cooking sites).
+All users of DailySMSPK.Net must keep this in mind that third parties may be placing and reading cookies on your browsers, or using web beacons to collect information as a result of ad serving on DailySMSPK.Net. Media.Net Advertising Ltd also placed ads on our website. [Read privacy policy](http://www.media.net/privacy-policy) of media.net company.
 
-You can chose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security. However, this can affect how you are able to interact with our site as well as other websites. This could include the inability to login to services or programs, such as logging into forums or accounts.
+For, instance one of our partners, Google uses the [ DoubleClick DART Cookie](http://www.google.com/doubleclick/) on DailySMSPK.Net displaying AdSense for content ads. Users may opt out of the use of the DART cookie by visiting the Google ad and content network [privacy policy](http://www.google.com/policies/technologies/ads/). Similarly, other advertising partners may use their respective cookies to track advertising stats.
 
- **Log Files** :  
-As with most other websites, we collect and use the data contained in log files. The information in the log files include your IP (internet protocol) address, your ISP (internet service provider, such as AOL or Shaw Cable), the browser you used to visit our site (such as Internet Explorer or Firefox), the time you visited our site and which pages you visited throughout our site.
+**[Read More About Google’s Cookies Policy](http://www.google.com/policies/technologies/cookies/)**
 
- **Copyright Rules** :  
-Every sms, wallpapers, greeting cards on dailysmspk.net is submitted by our respected users. We did not claim copyright of this contact not responsible in any violation of copyright.
+### **– Security**
 
-If you are authorized copyright holder of any piece of content, you can contact us with proofs.
+Our site has industry standard security measures in place to protect the loss, misuse and alteration of the information under our control. While there is no such thing as “perfect security” on the Internet, we will take all reasonable steps to insure the safety of your personal information.
+
+### **– External Links**
+
+Our web sites contain links to other sites. DailySMSPK.Net is not responsible for the privacy practices or content of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each web site to which we may link that may collect personal information.
+
+**Note:** If you have any questions about this privacy statement, the practices of this site, or your dealings with this web site, please [contact us](http://dailysmspk.net/contact-us/).
+
+**Last updated:** September 24th, 2015
