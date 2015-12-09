@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the fpsbanana.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610030330id_/http%3A//gamebanana.com/wikis%3Fpage%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fpsbanana.com privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209190708id_/http%3A//gamebanana.com/wikis%3Fpage%3Dprivacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy (Wikis > Rules) - GAMEBANANA
 
-* [ Profile ](http://gamebanana.com/wikis?page=privacy_policy)
-* [ Flags ](http://gamebanana.com/wikis/flags?page=privacy_policy)
-* [ Edit ](http://gamebanana.com/wikis/edit?page=privacy_policy)
+The privacy agreement between you and Machinefloor Inc.
 
 The privacy policies contained herein (" **Policy** ") constitute a binding agreement between you and **Machinefloor Inc.** (" **Company** "). By accessing and/or using any of the content and functionality available through **GameBanana.com** and its related webpages (collectively the " **Website** "), you signify that you agree to be bound by this Policy. If you do not agree to be bound by this Policy, please do not use the Website.
 
@@ -43,54 +41,3 @@ You represent and warrant that:
 
 
 Company may revise this privacy policy at any time without notice by updating this Policy. You should visit this webpage periodically to review the Policy.
-
-##  Oh noes! You're not a Member! 
-
-Want access to cool stuff? As a member you can:
-
-  * Post. Give the submitter your thoughts on this Wiki.
-  * Say Thanks. Show your appreciation by sending the submitter points.
-  * Stamp Posts. Let other posters know what you think of their posts.
-  * Rate. Give this Wiki a rating out of 10.
-  * Flag. Alert moderators and warn members of a problem with this Wiki.
-  * Vote. Vote the submitter for the Monthly Awards.
-  * Subscribe. Get notified when this submitter submits again.
-
-
-
-Interested? [Register](http://gamebanana.com/members/account/register) or [Login](http://gamebanana.com/members/account/login)
-
-### Comments
-
-  *     * 3 years ago:
-
-good Tom. finally... :)
-
-  *     * 3 years ago:
-
-Yes.
-
-Now all the kids beneath the age of 13 can leave. The spam will stop. Sort of.
-
-    * Funny x 1
-
-
-
-### Submitter
-
-[](http://gamebanana.com/members/1382)
-
-[ tom ](http://gamebanana.com/members/1382) [ ](http://gamebanana.com/studios/517)
-
-Avenger Corp.™ 
-
-### Stats
-
-Post Count
-     1 
-ViewCount
-    120,598
-Date Added
-    3 years ago
-Date Modified
-    3 years ago
