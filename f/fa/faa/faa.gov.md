@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the faa.gov privacy policy that was archived on 2014-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141128181123id_/http%3A//www.faa.gov/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the faa.gov privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209073939id_/http%3A//www.faa.gov/privacy) for the most accurate reproduction.*
 
 # FAA Privacy and Website Policy
 
@@ -79,7 +79,7 @@ Back to top
 
 ## Information Practices for Children (COPPA)
 
-We have information for children on our [education web pages](https://web.archive.org/education/). We do not intentionally collect information from children under the age of 13. If in the future we choose to collect personal information from children, we will comply with the [Children's Online Privacy Protection Act (COPPA)](http://business.ftc.gov/privacy-and-security/childrens-privacy).
+We have information for children on our [education web pages](https://web.archive.org/education/). We do not intentionally collect information from children under the age of 13. If in the future we choose to collect personal information from children, we will comply with the [Children's Online Privacy Protection Act (COPPA)](https://www.ftc.gov/tips-advice/business-center/privacy-and-security/children%27s-privacy).
 
 Back to top
 
