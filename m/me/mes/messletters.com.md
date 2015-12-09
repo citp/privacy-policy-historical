@@ -1,27 +1,35 @@
-> *The following text is extracted and transformed from the messletters.com privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603154122id_/http%3A//www.messletters.com/en/%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the messletters.com privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209041356id_/http%3A//www.messletters.com/en/privacy) for the most accurate reproduction.*
 
-# Privacy - Letters, Colours and Symbols for Facebook, Twitter, Blogs & MSN!
+# Privacy • Our privacy policy
 
-**www.messletters.com - Privacy Policy:**
+### About this Policy: 
 
-www.messletters.com respects the privacy of all users of its site and ensures that the personal information you provide is treated confidentially. We use your information only to services you have asked to meet. 
+If you require any more information or have any questions about our privacy policy, please feel free to [contact us](http://www.messletters.com/en/contact/). 
 
-**Your personal information:**
+At www.messletters.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by us and how it is used.
 
-We will use your personal information without your authorization available to third parties. We appreciate your confidence in us, and will make every effort to protect your personal information. Personal information is only used for services for which you have entrusted to us. Send us an email to your data removed. 
+### Log Files
 
-www.messletters.com uses cookies and other technologies to use the online facility for you to enlarge and to see how the site uses, so that we can on that basis the quality of our services can improve. With cookies, we can show different ads, ad networks (eg Google Adsense) to advertise on this site place cookies on your PC or can use web beacons to collect information. www.messletters.com has no access to or control over these cookies that are used by third party advertisers. 
+Like many other Web sites, www.messletters.com makes use of log files. The information inside the log files includes internet protocol (IP) addresses, type of browser, Internet Service Provider (ISP), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
 
-You should consult the privacy policies of those third parties for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. www.messletters.com privacy policy does not apply, we have no control over the activities of, such other advertisers or web sites. 
+### Cookies and Web Beacons
 
-When you visit our website or use some of our products have the servers automatically record information such as URL, IP address, browser type and language, and date and time of your visit. 
+Www.messletters.com uses only a cookie to store information about your language preference.
 
-If you wish to disable cookies, you may do so through your browser. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites. 
+### DoubleClick DART Cookie
 
-  * [ Internet Explorer ](http://www.microsoft.com/info/cookies.htm)
-  * [ Firefox ](http://www.mozilla.org/projects/security/pki/psm/help_21/using_priv_help.html)
-  * [ Safari ](http://docs.info.apple.com/article.html?path=Safari/2.0/nl/ibr30.html)
+Google, as a third party vendor, uses cookies to serve ads on Www.messletters.com.  
+Google's use of the DART cookie enables it to serve ads to users based on their visit to www.messletters.com and other sites on the Internet.  
+Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - <http://www.google.com/privacy_ads.html>.
 
+These third-party ad servers or ad networks use technology to the advertisements and links that appear on www.messletters.com send directly to your browser. They automatically receive your IP address when this occurs. Other technologies (such as cookies, JavaScript, or Web Beacons) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and/or to personalize the advertising content that you see.
 
+Www.messletters.com has no access to or control over these cookies that are used by third-party advertisers.
 
-Do you have suggestions, complaints, or questions about our Privay Policy? Send an email to [ info@messletters.com ](mailto:info@messletters.com)
+You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. Our privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
+
+If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites.
+
+Do you have suggestions, complaints, or questions about our Privay Policy? Let us know: [contact](http://www.messletters.com/en/contact/).
+
+**Last update: Feb 16 2015**
