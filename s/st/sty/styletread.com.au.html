@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the styletread.com.au privacy policy that was archived on 2015-06-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150611142043id_/http%3A//www.styletread.com.au/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the styletread.com.au privacy policy that was archived on 2015-12-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151209193842id_/http%3A//www.styletread.com.au/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
 
@@ -31,8 +31,8 @@ if (self === top) {
     var BLANK_IMG = 'http://cdn3.styletread.com.au/js/spacer.gif';
 //]]>
 </script>
-<link rel="stylesheet" type="text/css" href="http://cdn3.styletread.com.au/js/../skin/frontend/coolshoes/default/css/styles.1433910497.css">
-<link rel="stylesheet" type="text/css" href="http://cdn3.styletread.com.au/js/../skin/frontend/coolshoes/redesign/css/styles_redesign.1433910497.css">
+<link rel="stylesheet" type="text/css" href="http://cdn3.styletread.com.au/js/../skin/frontend/coolshoes/default/css/styles.1448836750.css">
+<link rel="stylesheet" type="text/css" href="http://cdn3.styletread.com.au/js/../skin/frontend/coolshoes/redesign/css/styles_redesign.1448836750.css">
 <link rel="stylesheet" type="text/css" href="http://cdn3.styletread.com.au/skin/frontend/coolshoes/default/css/custom-widget.css" media="all">
 <link rel="stylesheet" type="text/css" href="http://cdn3.styletread.com.au/skin/frontend/coolshoes/redesign/css/quickview.css" media="all">
 <link rel="stylesheet" type="text/css" href="http://cdn3.styletread.com.au/skin/frontend/coolshoes/default/css/fisheye/all/colorbox/colorbox.css" media="all">
@@ -57,7 +57,9 @@ if (self === top) {
 <script type="text/javascript" src="http://cdn3.styletread.com.au/js/varien/form.js"></script>
 <script type="text/javascript" src="http://cdn3.styletread.com.au/js/mage/translate.js"></script>
 <script type="text/javascript" src="http://cdn3.styletread.com.au/js/mage/cookies.js"></script>
+<script type="text/javascript" src="http://cdn3.styletread.com.au/js/emarsys/api.js"></script>
 <script type="text/javascript" src="http://cdn3.styletread.com.au/js/lazierload/lazierLoadv2.js"></script>
+<script type="text/javascript" src="http://cdn3.styletread.com.au/js/belvg/quickview.js"></script>
 <script type="text/javascript" src="http://cdn3.styletread.com.au/js/fisheye/all/colorbox/colorbox-1.3.17.1-min.js"></script>
 <script type="text/javascript" src="http://cdn3.styletread.com.au/js/fisheye/all/qtip/qtip2-min.js"></script>
 <script type="text/javascript" src="http://cdn3.styletread.com.au/skin/frontend/coolshoes/default/js/jquery.jqmodal.js"></script>
@@ -148,12 +150,17 @@ optionalZipCountries = [];
 
 <!-- SUCCESSFULLY ADDED TO CART -->
 <div class="ajaxcartpreview_hide ajaxcartpreview_pos" id="fe_ajaxcartpreview_successcart">
-	<p class="title">Successfully Added to Bag</p>
-	<p id="fe_ajaxcartpreview_successcart_msg"></p>
-    
-    <span id="fe_addtocart_success_closebutton"><a title="Continue Shopping" class="button left">Continue Shopping</a></span>
-    <a href="/checkout" title="Continue to Checkout" class="button right">Continue to Checkout</a>
-</div><!-- CARTPREVIEW LOADING -->
+    <a class="successClose" onclick="closeSuccess()" href="javascript:void(0)"></a>
+    <p class="successMsg" style="text-transform: uppercase">This item has been added to your bag</p>
+    <a class="bagLink" href="/checkout/cart">View your bag</a>
+</div>
+
+<script>
+    function closeSuccess(){
+        jQuery('#fe_ajaxcartpreview_successcart').hide();
+    }
+</script>
+<!-- CARTPREVIEW LOADING -->
 <div class="ajaxcartpreview_hide" id="fe_ajaxcartpreview_cartpreviewloading">
     <div class="cartpreviewloading">
     	<p class="title">Updating one moment please...</p>
@@ -163,7 +170,7 @@ optionalZipCountries = [];
 
 <!-- CARTPREVIEW LOADING -->
 <div class="ajaxcartpreview_hide" id="fe_ajaxcartpreview_content"></div><script type="text/javascript">var Translator = new Translate({"Please enter a valid zip code. For example 90602 or 90602-1234.":"Please enter a valid postcode. For example 3001, 90602 or 90602-1234.","Please enter a valid zip code.":"Please enter a valid postcode.","Please select State\/Province.":"Please select State\/Territory.","Credit card number doesn't match credit card type":"Credit card number does not match credit card type","Please use only letters (a-z or A-Z), numbers (0-9) or underscore(_) in this field, first character should be a letter.":"Please use only letters (a-z or A-Z), numbers (0-9) or underscores (_) in this field, first character must be a letter."});</script><!-- WEBTRENDS REMOVAL -->
-<script type="text/javascript" src="//d1q62gfb8siqnm.cloudfront.net/917613/wt_capi.js"></script>
+<script type="text/javascript" src="//c.webtrends.com/acs/account/sm58tvzmgd/js/wt.js"></script>
 
 
 <!-- WEBTRENDS REMOVAL-->
@@ -179,7 +186,7 @@ if(window.WTOptimize && typeof wtObj != "undefined"){
    
 <!-- BoldChat Live Chat Button HTML v4.00 (Type=Web,ChatButton=StyleTread - Reactive,Website=StyleTread) -->
  <a href="https://livechat.boldchat.com/aid/857569551125965664/bc.chat?resize=true&amp;cbdid=7104626814141632773&amp;wdid=2544937914995210921" target="_blank" onclick="window.open((window.pageViewer &amp;&amp; pageViewer.link || function(link){return link;})(this.href + (this.href.indexOf('?')>=0 ? '&amp;' : '?') + 'url=' + escape(document.location.href)), 'Chat2934057199917044169', 'toolbar=0,scrollbars=1,location=0,statusbar=0,menubar=0,resizable=1,width=640,height=480');return false;">
-  <div><script language="JavaScript" type="text/javascript"> var bccbId = Math.random(); document.write(unescape('%3Cimg alt="Live chat by BoldChat" src="' + (('https:' == document.location.protocol) ? 'https:' : 'http:') + '//cbi.boldchat.com/aid/857569551125965664/bc.cbi?cbdid=7104626814141632773&amp;wdid=2544937914995210921" border="0" id=' + bccbId + ' /%3E')); var bccb = {id: bccbId, bdid: '7104626814141632773', rdid: null, type: 'chat'}; var _bcvma = _bcvma || []; if(window.pageViewer && pageViewer.addButton) pageViewer.addButton(button); else _bcvma.push(['addButton', bccb]);</script><img alt="Live chat by BoldChat" src="https://cbi.boldchat.com/aid/857569551125965664/bc.cbi?cbdid=7104626814141632773&amp;wdid=2544937914995210921" border="0" id="0.342168050209398"></div>
+  <div><script language="JavaScript" type="text/javascript"> var bccbId = Math.random(); document.write(unescape('%3Cimg alt="Live chat by BoldChat" src="' + (('https:' == document.location.protocol) ? 'https:' : 'http:') + '//cbi.boldchat.com/aid/857569551125965664/bc.cbi?cbdid=7104626814141632773&amp;wdid=2544937914995210921" border="0" id=' + bccbId + ' /%3E')); var bccb = {id: bccbId, bdid: '7104626814141632773', rdid: null, type: 'chat'}; var _bcvma = _bcvma || []; if(window.pageViewer && pageViewer.addButton) pageViewer.addButton(button); else _bcvma.push(['addButton', bccb]);</script><img alt="Live chat by BoldChat" src="https://cbi.boldchat.com/aid/857569551125965664/bc.cbi?cbdid=7104626814141632773&amp;wdid=2544937914995210921" border="0" id="0.6033214864849399"></div>
  </a>
 <!-- /BoldChat Live Chat Button HTML v4.00 -->
 
@@ -338,6 +345,18 @@ var _caq = _caq || [];
     var ca_script = document.getElementsByTagName("script")[0]; 
     ca_script.parentNode.insertBefore(ca, ca_script);
 })();
+
+/* Emarsys tracking script */
+function pushEmarsys(){
+	var isLoggedIn = /* HOLE CONTENT */0/* END HOLE CONTENT */;
+
+    if (isLoggedIn){
+    	ScarabQueue.push(['go']);
+    }
+}
+/* HOLE CONTENT */
+/* END HOLE CONTENT */
+/* End Emarsys tracking script */
 </script>
 
 	<div class="header">
@@ -401,19 +420,20 @@ var _caq = _caq || [];
 <div id="women-submenu" class="submenu submenu-double-column">
 <ul class="submenu_list">
 <li class="submenu_title">By Category</li>
-<li><a href="http://www.styletread.com.au/womens-shoes-boots/ankle?ic=mm-womens"><span>Ankle Boots</span></a></li>
-<li><a href="http://www.styletread.com.au/womens-shoes-boots?ic=mm-womens"><span>Boots</span></a></li>
-<li><a href="http://www.styletread.com.au/womens-shoes-boots/long?ic=mm-womens"><span>Long Boots</span></a></li>
+<li><a href="http://www.styletread.com.au/womens-shoes-sandals?ic=mm-womens"><span>Sandals</span></a></li>
 <li><a href="http://www.styletread.com.au/womens-shoes-heels?ic=mm-womens"><span>Heels</span></a></li>
 <li><a href="http://www.styletread.com.au/womens-shoes-flats?ic=mm-womens"><span>Flats</span></a></li>
 <li><a href="http://www.styletread.com.au/womens-shoes-wedges?ic=mm-womens"><span>Wedges</span></a></li>
-<li><a href="http://www.styletread.com.au/womens-shoes-sandals?ic=mm-womens"><span>Sandals</span></a></li>
+<li><a href="http://www.styletread.com.au/womens-shoes-boots/ankle?ic=mm-womens"><span>Ankle Boots</span></a></li>
 <li><a href="http://www.styletread.com.au/womens-shoes-sneakers?ic=mm-womens"><span>Sneakers</span></a></li>
 <li><a href="http://www.styletread.com.au/womens-shoes-comfort?ic=mm-womens"><span>Comfort</span></a></li>
-<li><a href="http://www.styletread.com.au/womens-shoes-pumps?ic=mm-womens"><span>Pumps</span></a></li>
 <li><a href="http://www.styletread.com.au/womens-shoes-casuals?ic=mm-womens"><span>Casuals</span></a></li>
-<li><a href="http://www.styletread.com.au/womens-shoes-peeptoes?ic=mm-womens"><span>Peep Toes</span></a></li>
-<li style="padding-top: 6px;" class="all-links"><a href="http://www.styletread.com.au/trends?ic=mm-womens"><span>Winter Trends</span></a></li>
+<li><a href="http://www.styletread.com.au/womens-shoes-espadrilles?ic=mm-womens"><span>Espadrilles</span></a></li>
+<li><a href="http://www.styletread.com.au/womens-shoes-boots?ic=mm-womens"><span>Boots</span></a></li>
+<li><a href="http://www.styletread.com.au/womens-shoes-pumps?ic=mm-womens"><span>Pumps</span></a></li>
+<!--<li><a href="http://www.styletread.com.au/womens-shoes-peeptoes?ic=mm-womens"><span>Peep Toes</span></a></li>-->
+<!--<li><a href="http://www.styletread.com.au/womens-shoes-boots/long?ic=mm-womens"><span>Long Boots</span></a></li>-->
+<li style="padding-top: 6px;" class="all-links"><a href="http://www.styletread.com.au/trends?ic=mm-womens"><span>SS15 Trends</span></a></li>
 <li class="all-links"><a href="http://www.styletread.com.au/womens-shoes-most-popular?ic=mm-womens"><span>Most Popular</span></a></li>
 <li class="all-links"><a href="http://www.styletread.com.au/womens-shoes?ic=mm-womens"><span>All Women's Shoes</span></a></li>
 </ul>
@@ -428,7 +448,7 @@ var _caq = _caq || [];
 <li><a href="http://www.styletread.com.au/mollini?ic=mm-womens"><span>Mollini</span></a></li>
 <li><a href="http://www.styletread.com.au/naturalizer?ic=mm-womens"><span>Naturalizer</span></a></li>
 <li><a href="http://www.styletread.com.au/lipstik?ic=mm-womens"><span>Lipstik</span></a></li>
-<li><a href="http://www.styletread.com.au/maria-rossi?ic=mm-womens"><span>Maria Rossi</span></a></li>
+<li><a href="http://www.styletread.com.au/sofia-cruz?ic=mm-womens"><span>Sofia Cruz</span></a></li>
 <li><a href="http://www.styletread.com.au/eos/?fh_location=%2F%2Fcatalog01%2Fen_AU%2Fcategories%3C{catalog01_c5_brands}%2fcategories%3C{catalog01_c5_brands_c69_eos}%2fgender%3E{women}&amp;ic=mm-womens"><span>EOS</span></a></li>
 <li><a href="http://www.styletread.com.au/birkenstock/?fh_location=%2F%2Fcatalog01%2Fen_AU%2Fcategories%3C{catalog01_c5_brands}%2fcategories%3C{catalog01_c5_brands_c30_birkenstock}%2fgender%3E{women}&amp;ic=mm-womens"><span>Birkenstock</span></a></li>
 <li><a href="http://www.styletread.com.au/walnut-melbourne/?ic=mm-womens"><span>Walnut</span></a></li>
@@ -444,14 +464,13 @@ var _caq = _caq || [];
 <ul class="submenu_list">
 <li class="submenu_title">By Category</li>
 <li><a href="http://www.styletread.com.au/mens-shoes-casuals?ic=mm-mens"><span>Casuals</span></a></li>
-<li><a href="http://www.styletread.com.au/mens-shoes-boots?ic=mm-mens"><span>Boots</span></a></li>
-<li><a href="http://www.styletread.com.au/mens-shoes-dress?ic=mm-mens"><span>Dress</span></a></li>
 <li><a href="http://www.styletread.com.au/mens-shoes-sneakers?ic=mm-mens"><span>Sneakers</span></a></li>
-<li><a href="http://www.styletread.com.au/mens-shoes-brogues?ic=mm-mens"><span>Brogues</span></a></li>
-<li><a href="http://www.styletread.com.au/mens-shoes-casuals-1/loafers?ic=mm-mens"><span>Loafers</span></a></li>
-<li><a href="http://www.styletread.com.au/mens-shoes-casuals-1/boat?ic=mm-mens"><span>Boat Shoes</span></a></li>
-<li><a href="http://www.styletread.com.au/mens-shoes-dress/slip-ons?ic=mm-mens"><span>Slip-Ons</span></a></li>
+<li><a href="http://www.styletread.com.au/mens-shoes-dress?ic=mm-mens"><span>Dress</span></a></li>
+<li><a href="http://www.styletread.com.au/mens-shoes-boots?ic=mm-mens"><span>Boots</span></a></li>
 <li><a href="http://www.styletread.com.au/mens-shoes-sandals?ic=mm-mens"><span>Sandals</span></a></li>
+<li><a href="http://www.styletread.com.au/mens-shoes-casuals-1/loafers?ic=mm-mens"><span>Loafers</span></a></li>
+<li><a href="http://www.styletread.com.au/mens-shoes-dress/slip-ons?ic=mm-mens"><span>Slip-Ons</span></a></li>
+<li><a href="http://www.styletread.com.au/mens-shoes-brogues?ic=mm-mens"><span>Brogues</span></a></li>
 <li>&nbsp;</li>
 <li class="all-links"><a href="http://www.styletread.com.au/mens-shoes-most-popular?ic=mm-mens"><span>Most Popular</span></a></li>
 <li class="all-links"><a href="http://www.styletread.com.au/mens-shoes?ic=mm-mens"><span>All Men's Shoes</span></a></li>
@@ -459,18 +478,20 @@ var _caq = _caq || [];
 <ul class="submenu_list">
 <li class="submenu_title">By Brand</li>
 <li><a href="http://www.styletread.com.au/skechers/?fh_location=%2F%2Fcatalog01%2Fen_AU%2Fcategories%3C{catalog01_c5_brands}%2fcategories%3C{catalog01_c5_brands_c130_skechers}%2fgender%3E{men}&amp;ic=mm-mens"><span>Skechers</span></a></li>
-<li><a href="http://www.styletread.com.au/rockport/?fh_location=%2F%2Fcatalog01%2Fen_AU%2Fcategories%3C{catalog01_c5_brands}%2fcategories%3C{catalog01_c5_brands_c529_rockport}%2fgender%3E{men}&amp;ic=mm-mens"><span>Rockport</span></a></li>
-<li><a href="http://www.styletread.com.au/julius-marlow?ic=mm-mens"><span>Julius Marlow</span></a></li>
-<li><a href="http://www.styletread.com.au/windsor-smith/?fh_location=%2F%2Fcatalog01%2Fen_AU%2Fcategories%3C{catalog01_c5_brands}%2fcategories%3C{catalog01_c5_brands_c52_windsor_smith}%2fgender%3E{men}&amp;ic=mm-mens"><span>Windsor Smith</span></a></li>
-<li><a href="http://www.styletread.com.au/adidas-neo/?fh_location=%2F%2Fcatalog01%2Fen_AU%2Fcategories%3C{catalog01_c5_brands}%2fcategories%3C{catalog01_c5_brands_c514_adidas_neo}%2fgender%3E{men}&amp;ic=mm-mens"><span>Adidas Neo</span></a></li>
 <li><a href="http://www.styletread.com.au/adidas/?fh_location=%2F%2Fcatalog01%2Fen_AU%2Fcategories%3C{catalog01_c5_brands}%2fcategories%3C{catalog01_c5_brands_c593_adidas}%2fgender%3E{men}&amp;ic=mm-mens"><span>Adidas</span></a></li>
-<li><a href="http://www.styletread.com.au/croft-shoes?ic=mm-mens"><span>Croft</span></a></li>
-<li><a href="http://www.styletread.com.au/antoine-stanley?ic=mm-mens"><span>Antoine Stanley</span></a></li>
-<li><a href="http://www.styletread.com.au/birkenstock/?fh_location=%2F%2Fcatalog01%2Fen_AU%2Fcategories%3C{catalog01_c5_brands}%2fcategories%3C{catalog01_c5_brands_c30_birkenstock}%2fgender%3E{men}&amp;ic=mm-mens"><span>Birkenstock</span></a></li>
 <li><a href="http://www.styletread.com.au/wild-rhino?ic=mm-mens"><span>Wild Rhino</span></a></li>
-<li><a href="http://www.styletread.com.au/rollie/?fh_location=%2F%2Fcatalog01%2Fen_AU%2Fcategories%3C{catalog01_c5_brands}%2fcategories%3C{catalog01_c5_brands_c410_rollie}%2fgender%3E{men}&amp;ic=mm-mens"><span>Rollie</span></a></li>
+<li><a href="http://www.styletread.com.au/hush-puppies/?fh_location=%2F%2Fcatalog01%2Fen_AU%2Fcategories%3C{catalog01_c5_brands}%2fcategories%3C{catalog01_c5_brands_c136_hush_puppies}%2fgender%3E{men}&amp;ic=mm-mens"><span>Hush Puppies</span></a></li>
+<li><a href="http://www.styletread.com.au/windsor-smith/?fh_location=%2F%2Fcatalog01%2Fen_AU%2Fcategories%3C{catalog01_c5_brands}%2fcategories%3C{catalog01_c5_brands_c52_windsor_smith}%2fgender%3E{men}&amp;ic=mm-mens"><span>Windsor Smith</span></a></li>
+<li><a href="http://www.styletread.com.au/birkenstock/?fh_location=%2F%2Fcatalog01%2Fen_AU%2Fcategories%3C{catalog01_c5_brands}%2fcategories%3C{catalog01_c5_brands_c30_birkenstock}%2fgender%3E{men}&amp;ic=mm-mens"><span>Birkenstock</span></a></li>
+<li><a href="http://www.styletread.com.au/adidas-neo/?fh_location=%2F%2Fcatalog01%2Fen_AU%2Fcategories%3C{catalog01_c5_brands}%2fcategories%3C{catalog01_c5_brands_c514_adidas_neo}%2fgender%3E{men}&amp;ic=mm-mens"><span>Adidas Neo</span></a></li>
+<li><a href="http://www.styletread.com.au/julius-marlow?ic=mm-mens"><span>Julius Marlow</span></a></li>
 <li><a href="http://www.styletread.com.au/uncut?ic=mm-mens"><span>Uncut</span></a></li>
-<li><a href="http://www.styletread.com.au/grizzly?ic=mm-mens"><span>Grizzly</span></a></li>
+<li><a href="http://www.styletread.com.au/croft-shoes?ic=mm-mens"><span>Croft</span></a></li>
+<li><a href="http://www.styletread.com.au/rollie/?fh_location=%2F%2Fcatalog01%2Fen_AU%2Fcategories%3C{catalog01_c5_brands}%2fcategories%3C{catalog01_c5_brands_c410_rollie}%2fgender%3E{men}&amp;ic=mm-mens"><span>Rollie</span></a></li>
+<li><a href="http://www.styletread.com.au/crocs/?fh_location=%2F%2Fcatalog01%2Fen_AU%2Fcategories%3C{catalog01_c5_brands}%2fcategories%3C{catalog01_c5_brands_c520_crocs}%2fgender%3E{men}&amp;ic=mm-mens"><span>Crocs</span></a></li>
+<li><a href="http://www.styletread.com.au/boxfresh?ic=mm-mens"><span>Boxfresh</span></a></li>
+<!--<li><a href="http://www.styletread.com.au/antoine-stanley?ic=mm-mens"><span>Antoine Stanley</span></a></li>-->
+<!--<li><a href="http://www.styletread.com.au/grizzly?ic=mm-mens"><span>Grizzly</span></a></li>-->
 <li class="all-links"><a href="http://www.styletread.com.au/brands-mens/?ic=mm-mens"><span>All Men's Brands</span></a></li>
 </ul>
 </div>
@@ -492,17 +513,19 @@ var _caq = _caq || [];
 </ul>
 <ul class="submenu_list" style="width:150px">
 <li class="submenu_title">By Brand</li>
-<li><a href="http://www.styletread.com.au/kardashian-kollection/?fh_location=%2F%2Fcatalog01%2Fen_AU%2Fcategories%3C{catalog01_c5_brands}%2fcategories%3C{catalog01_c5_brands_c642_kardashian_kollection}%2fmajor_categories%3E{bags}&amp;ic=mm-bags"><span>Kardashian Kollection</span></a></li>
-<li><a href="http://styletread.com.au/diana-ferrari/?fh_location=%2F%2Fcatalog01%2Fen_AU%2Fcategories&lt;{catalog01_c5_brands}%2fcategories&lt;{catalog01_c5_brands_c312_diana_ferrari}%2fmajor_categories&gt;{bags}&amp;ic=mm-bags"><span>Diana Ferrari</span></a></li>
-<li><a href="http://styletread.com.au/urban-originals?ic=mm-bags"><span>Urban Originals</span></a></li>
-<li><a href="http://styletread.com.au/sassy-duck?ic=mm-bags"><span>Sassy Duck</span></a></li>
 <li><a href="http://www.styletread.com.au/i-love-billy/?fh_location=%2F%2Fcatalog01%2Fen_AU%2Fcategories%3C{catalog01_c5_brands}%2fcategories%3C{catalog01_c5_brands_c37_i_love_billy}%2fmajor_categories%3E{bags}&amp;ic=mm-bags"><span>I Love Billy</span></a></li>
 <li><a href="http://styletread.com.au/vantage?ic=mm-bags"><span>Vantage</span></a></li>
 <li><a href="http://www.styletread.com.au/tony-bianco/?fh_location=%2F%2Fcatalog01%2Fen_AU%2Fcategories%3C{catalog01_c5_brands}%2fcategories%3C{catalog01_c5_brands_c49_tony_bianco}%2fmajor_categories%3E{bags}&amp;ic=mm-bags"><span>Tony Bianco</span></a></li>
-<li><a href="http://www.styletread.com.au/louenhide?ic=mm-bags"><span>Louenhide</span></a></li>
-<li><a href="http://www.styletread.com.au/modapelle?ic=mm-bags"><span>Modapelle</span></a></li>
-<li><a href="http://www.styletread.com.au/condura?ic=mm-bags"><span>Condura</span></a></li>
 <li><a href="http://www.styletread.com.au/jendi?ic=mm-bags"><span>Jendi</span></a></li>
+<li><a href="http://www.styletread.com.au/kardashian-kollection/?fh_location=%2F%2Fcatalog01%2Fen_AU%2Fcategories%3C{catalog01_c5_brands}%2fcategories%3C{catalog01_c5_brands_c642_kardashian_kollection}%2fmajor_categories%3E{bags}&amp;ic=mm-bags"><span>Kardashian Kollection</span></a></li>
+<li><a href="http://www.styletread.com.au/modapelle?ic=mm-bags"><span>Modapelle</span></a></li>
+<li><a href="http://www.styletread.com.au/louenhide?ic=mm-bags"><span>Louenhide</span></a></li>
+<li><a href="http://www.styletread.com.au/condura?ic=mm-bags"><span>Condura</span></a></li>
+<li><a href="http://styletread.com.au/sassy-duck?ic=mm-bags"><span>Sassy Duck</span></a></li>
+<li><a href="http://styletread.com.au/diana-ferrari/?fh_location=%2F%2Fcatalog01%2Fen_AU%2Fcategories&lt;{catalog01_c5_brands}%2fcategories&lt;{catalog01_c5_brands_c312_diana_ferrari}%2fmajor_categories&gt;{bags}&amp;ic=mm-bags"><span>Diana Ferrari</span></a></li>
+<li><a href="http://www.styletread.com.au/pierre-cardin?ic=mm-bags"><span>Pierre Cardin</span></a></li>
+<li><a href="http://styletread.com.au/urban-originals?ic=mm-bags"><span>Urban Originals</span></a></li>
+<li><a href="http://styletread.com.au/milleni?ic=mm-bags"><span>Milleni</span></a></li>
 <li class="all-links"><a href="http://styletread.com.au/brands-bags?ic=mm-bags"><span>All Bag Brands</span></a></li>
 </ul>
 </div>
@@ -523,7 +546,7 @@ var _caq = _caq || [];
 <li><a href="http://www.styletread.com.au/mollini?ic=mm-brands"><span>Mollini</span></a></li>
 <li><a href="http://www.styletread.com.au/naturalizer?ic=mm-brands"><span>Naturalizer</span></a></li>
 <li><a href="http://www.styletread.com.au/lipstik?ic=mm-brands"><span>Lipstik</span></a></li>
-<li><a href="http://www.styletread.com.au/maria-rossi?ic=mm-brands"><span>Maria Rossi</span></a></li>
+<li><a href="http://www.styletread.com.au/sofia-cruz?ic=mm-brands"><span>Sofia Cruz</span></a></li>
 <li><a href="http://www.styletread.com.au/eos/?fh_location=%2F%2Fcatalog01%2Fen_AU%2Fcategories%3C{catalog01_c5_brands}%2fcategories%3C{catalog01_c5_brands_c69_eos}%2fgender%3E{women}&amp;ic=mm-brands"><span>EOS</span></a></li>
 <li><a href="http://www.styletread.com.au/birkenstock/?fh_location=%2F%2Fcatalog01%2Fen_AU%2Fcategories%3C{catalog01_c5_brands}%2fcategories%3C{catalog01_c5_brands_c30_birkenstock}%2fgender%3E{women}&amp;ic=mm-womens"><span>Birkenstock</span></a></li>
 <li><a href="http://www.styletread.com.au/walnut-melbourne?ic=mm-brands"><span>Walnut</span></a></li>
@@ -532,7 +555,7 @@ var _caq = _caq || [];
 <ul class="submenu_list">
 <li class="submenu_title"><a href="http://www.styletread.com.au/brands-mens/?ic=mm-brands">Men</a></li><a href="http://www.styletread.com.au/brands-mens/?ic=mm-brands">
 </a><li><a href="http://www.styletread.com.au/brands-mens/?ic=mm-brands"></a><a href="http://www.styletread.com.au/skechers/?fh_location=%2F%2Fcatalog01%2Fen_AU%2Fcategories%3C{catalog01_c5_brands}%2fcategories%3C{catalog01_c5_brands_c130_skechers}%2fgender%3E{men}&amp;ic=mm-brands"><span>Skechers</span></a></li>
-<li><a href="http://www.styletread.com.au/rockport/?fh_location=%2F%2Fcatalog01%2Fen_AU%2Fcategories%3C{catalog01_c5_brands}%2fcategories%3C{catalog01_c5_brands_c529_rockport}%2fgender%3E{men}&amp;ic=mm-brands"><span>Rockport</span></a></li>
+<li><a href="http://www.styletread.com.au/hush-puppies/?fh_location=%2F%2Fcatalog01%2Fen_AU%2Fcategories%3C{catalog01_c5_brands}%2fcategories%3C{catalog01_c5_brands_c136_hush_puppies}%2fgender%3E{men}&amp;ic=mm-brands"><span>Hush Puppies</span></a></li>
 <li><a href="http://www.styletread.com.au/julius-marlow?ic=mm-brands"><span>Julius Marlow </span></a></li>
 <li><a href="http://www.styletread.com.au/windsor-smith/?fh_location=%2F%2Fcatalog01%2Fen_AU%2Fcategories%3C{catalog01_c5_brands}%2fcategories%3C{catalog01_c5_brands_c52_windsor_smith}%2fgender%3E{men}&amp;ic=mm-brands"><span>Windsor Smith</span></a></li>
 <li><a href="http://www.styletread.com.au/adidas-neo/?fh_location=%2F%2Fcatalog01%2Fen_AU%2Fcategories%3C{catalog01_c5_brands}%2fcategories%3C{catalog01_c5_brands_c514_adidas_neo}%2fgender%3E{men}&amp;ic=mm-brands"><span>Adidas Neo</span></a></li>
@@ -548,17 +571,19 @@ var _caq = _caq || [];
 </ul>
 <ul class="submenu_list" style="width:150px">
 <li class="submenu_title"><a href="http://www.styletread.com.au/brands-bags?ic=mm-brands" "="">Bags</a></li><a href="http://www.styletread.com.au/brands-bags?ic=mm-brands" "="">
-</a><li><a href="http://www.styletread.com.au/brands-bags?ic=mm-brands" "=""></a><a href="http://www.styletread.com.au/kardashian-kollection/?fh_location=%2F%2Fcatalog01%2Fen_AU%2Fcategories%3C{catalog01_c5_brands}%2fcategories%3C{catalog01_c5_brands_c642_kardashian_kollection}%2fmajor_categories%3E{bags}&amp;ic=mm-brands"><span>Kardashian Kollection</span></a></li>
-<li><a href="http://styletread.com.au/diana-ferrari/?fh_location=%2F%2Fcatalog01%2Fen_AU%2Fcategories&lt;{catalog01_c5_brands}%2fcategories&lt;{catalog01_c5_brands_c312_diana_ferrari}%2fmajor_categories&gt;{bags}&amp;ic=mm-brands"><span>Diana Ferrari</span></a></li>
-<li><a href="http://styletread.com.au/urban-originals?ic=mm-brands"><span>Urban Originals</span></a></li>
-<li><a href="http://styletread.com.au/sassy-duck?ic=mm-brands"><span>Sassy Duck</span></a></li>
-<li><a href="http://www.styletread.com.au/i-love-billy/?fh_location=%2F%2Fcatalog01%2Fen_AU%2Fattribute_set_name%3E{accessories}%2fcategories%3C{catalog01_c5_brands}%2fcategories%3C{catalog01_c5_brands_c37_i_love_billy}&amp;ic=mm-brands"><span>I Love Billy</span></a></li>
+</a><li><a href="http://www.styletread.com.au/brands-bags?ic=mm-brands" "=""></a><a href="http://www.styletread.com.au/i-love-billy/?fh_location=%2F%2Fcatalog01%2Fen_AU%2Fattribute_set_name%3E{accessories}%2fcategories%3C{catalog01_c5_brands}%2fcategories%3C{catalog01_c5_brands_c37_i_love_billy}&amp;ic=mm-brands"><span>I Love Billy</span></a></li>
 <li><a href="http://styletread.com.au/vantage?ic=mm-brands"><span>Vantage</span></a></li>
 <li><a href="http://www.styletread.com.au/tony-bianco/?fh_location=%2F%2Fcatalog01%2Fen_AU%2Fattribute_set_name%3E{accessories}%2fcategories%3C{catalog01_c5_brands}%2fcategories%3C{catalog01_c5_brands_c49_tony_bianco}&amp;ic=mm-bags"><span>Tony Bianco</span></a></li>
-<li><a href="http://www.styletread.com.au/louenhide?ic=mm-brands"><span>Louenhide</span></a></li>
-<li><a href="http://www.styletread.com.au/modapelle?ic=mm-brands"><span>Modapelle</span></a></li>
-<li><a href="http://www.styletread.com.au/condura?ic=mm-bags"><span>Condura</span></a></li>
 <li><a href="http://www.styletread.com.au/jendi?ic=mm-brands"><span>Jendi</span></a></li>
+<li><a href="http://www.styletread.com.au/kardashian-kollection/?fh_location=%2F%2Fcatalog01%2Fen_AU%2Fcategories%3C{catalog01_c5_brands}%2fcategories%3C{catalog01_c5_brands_c642_kardashian_kollection}%2fmajor_categories%3E{bags}&amp;ic=mm-brands"><span>Kardashian Kollection</span></a></li>
+<li><a href="http://www.styletread.com.au/modapelle?ic=mm-brands"><span>Modapelle</span></a></li>
+<li><a href="http://www.styletread.com.au/louenhide?ic=mm-brands"><span>Louenhide</span></a></li>
+<li><a href="http://www.styletread.com.au/condura?ic=mm-bags"><span>Condura</span></a></li>
+<li><a href="http://styletread.com.au/sassy-duck?ic=mm-brands"><span>Sassy Duck</span></a></li>
+<li><a href="http://styletread.com.au/diana-ferrari/?fh_location=%2F%2Fcatalog01%2Fen_AU%2Fcategories&lt;{catalog01_c5_brands}%2fcategories&lt;{catalog01_c5_brands_c312_diana_ferrari}%2fmajor_categories&gt;{bags}&amp;ic=mm-brands"><span>Diana Ferrari</span></a></li>
+<li><a href="http://styletread.com.au/pierre-cardin?ic=mm-brands"><span>Pierre Cardin</span></a></li>
+<li><a href="http://styletread.com.au/urban-originals?ic=mm-brands"><span>Urban Originals</span></a></li>
+<li><a href="http://styletread.com.au/milleni?ic=mm-brands"><span>Milleni</span></a></li>
 <li class="all-links"><a href="http://styletread.com.au/brands-bags?ic=mm-brands"><span>All Bag Brands</span></a></li>
 </ul>
 </div>
@@ -675,12 +700,17 @@ var _caq = _caq || [];
 
 <!-- SUCCESSFULLY ADDED TO CART -->
 <div class="ajaxcartpreview_hide ajaxcartpreview_pos" id="fe_ajaxcartpreview_successcart">
-	<p class="title">Successfully Added to Bag</p>
-	<p id="fe_ajaxcartpreview_successcart_msg"></p>
-    
-    <span id="fe_addtocart_success_closebutton"><a title="Continue Shopping" class="button left">Continue Shopping</a></span>
-    <a href="/checkout" title="Continue to Checkout" class="button right">Continue to Checkout</a>
-</div><!-- CARTPREVIEW LOADING -->
+    <a class="successClose" onclick="closeSuccess()" href="javascript:void(0)"></a>
+    <p class="successMsg" style="text-transform: uppercase">This item has been added to your bag</p>
+    <a class="bagLink" href="/checkout/cart">View your bag</a>
+</div>
+
+<script>
+    function closeSuccess(){
+        jQuery('#fe_ajaxcartpreview_successcart').hide();
+    }
+</script>
+<!-- CARTPREVIEW LOADING -->
 <div class="ajaxcartpreview_hide" id="fe_ajaxcartpreview_cartpreviewloading">
     <div class="cartpreviewloading">
     	<p class="title">Updating one moment please...</p>
@@ -777,7 +807,7 @@ margin-top: 10px;
      </span>
 </span>
 
-<div class="content-page-image" style="background:url('http://admin.styletread.com.au/media/redesign/cms/cms-page-12-20150302.jpg') top center no-repeat; width:290px; height:380px;"></div>
+<div class="content-page-image" style="background:url('http://admin.styletread.com.au/media/redesign/cms/cms-page-7-20150904.jpg') top center no-repeat; width:290px; height:380px;"></div>
 
 <p>Styletread values your privacy and takes great care protecting the information you provide us.</p>
 
@@ -858,7 +888,7 @@ Australia<br></p>
 
 <p>Fax: 02 8279 9321</p>
 <br>
-<p style="font-size: 10px; color:#666666;">Last Updated: 23/04/2015</p>
+<p style="font-size: 10px; color:#666666;">Last Updated: 28/05/2015</p>
 
 </div>
 
@@ -940,7 +970,15 @@ ul.flat-list li a {
 <div class="clear"></div></div>                </div>
             </div>
         </div>
-         <!--­­ BEGIN: Google Trusted Stores ­­--> 
+         <script type="text/javascript">
+	var quickview = new Quickview({"class":"quickview-button","title":"Quickview","baseurl":"http:\/\/www.styletread.com.au\/"});
+	quickview.show('.products-grid');
+</script>
+<input type="hidden" id="baseurl" value="http://www.styletread.com.au/">
+<div onclick="closePopup();" id="quickview-hider" class="quickview-hider" style="display:none;"></div>
+<div id="popup" class="quickview-popup" style="display:none;"></div>
+
+<!--­­ BEGIN: Google Trusted Stores ­­--> 
 <script type="text/javascript">
 var gts = gts || [];
 gts.push(["id", "295407"]);
@@ -988,7 +1026,7 @@ gts.push(["locale", "en_AU"]);
                     <div class="newsletter-interests">
                         <input type="checkbox" class="input-checkbox validate-one-required" id="womens-interest-checkbox" name="segments[]" value="1">
                         <label for="womens-interest-checkbox"> Womens</label>
-                        <input type="checkbox" class="input-checkbox validate-one-required" id="mens-interest-checkbox" name="segments[]" value="2">
+                        <input type="checkbox" class="input-checkbox" id="mens-interest-checkbox" name="segments[]" value="2">
                         <label for="mens-interest-checkbox"> Mens</label>
                         <!-- Disabled Kids Option - Indir - 28/5/2014
                         <input type="checkbox" class="input-checkbox validate-one-required" id="kids-interest-checkbox" name="segments[]" value="4">
@@ -1035,7 +1073,7 @@ gts.push(["locale", "en_AU"]);
                 <li><a href="http://www.styletread.com.au/shoe-sizes">Shoe size conversion</a></li>
                 <li><a href="http://www.styletread.com.au/payment">Payment Methods</a></li>
                 <li><a href="http://www.styletread.com.au/privacy">Privacy Policy</a></li>
-                <li><a href="http://www.styletread.com.au/terms">Terms &amp; Conditions</a></li>               
+                <li><a href="http://www.styletread.com.au/terms">Terms &amp; Conditions</a></li>              
             </ul>
         </div>
         <div class="footer-links-list">
@@ -1121,41 +1159,218 @@ gts.push(["locale", "en_AU"]);
  
         <div class="clear"></div>    
     </div>
-     <div id="newsletter-flag">
+    <!-- <div id="newsletter-flag">
             <div class="hide-flag"></div>
             
             <div style="text-align:center">
             <span class="red-underline">
                 <span class="panel-title">Get a $10 voucher</span>
             </span>
-            <div>—</div>
+            <div>&mdash;</div>
             <p>Plus be the first to know about shoe goss and special promos!</p>
             </div>
-            <hr style="margin:10px 20px;">
+            <hr style="margin:10px 20px;"/>
             <form style="margin:20px;" onsubmit="return false" id="newsletter-flag-form" enctype="application/x-www-form-urlencoded" method="post" action="/newsletter/subscriber/new">
-                <input type="hidden" class="nl_redirect_referer" name="redirect_referer" value="true">
+                <input type="hidden" class="nl_redirect_referer" name="redirect_referer" value="true"/>
                 <button id="btn-newsletter" class="gray-btn f-right nl-abtest-classic-signup" type="submit">Submit</button>
-                <!--button id="btn-newsletter" class="gray-btn f-right nl-abtest-landingpage-signup hidden" type="submit">Submit</button-->
+                
                 <input class="gray-text short required-entry validate-email validation-passed" type="text" name="email" onblur="if(this.value==''){this.value='Email Address';}" onfocus="if(this.value=='Email Address'){this.value='';}" value="Email Address">
                 <div class="interest-label">What kind of shoes are you shopping for?</div>
                 <div>
-                    <input type="checkbox" class="input-checkbox validate-one-required" id="womens-interest-checkbox" name="segments[]" value="1">
-<label for="womens-interest-checkbox"> Womens</label>
-<input type="checkbox" class="input-checkbox validate-one-required" id="mens-interest-checkbox" name="segments[]" value="2">
-<label for="mens-interest-checkbox"> Mens</label>
-<!-- Kids option removed by Indir - 26/5/14
-<input type="checkbox" class="input-checkbox validate-one-required" id="kids-interest-checkbox" name="segments[]" value="4">
-<label for="kids-interest-checkbox"> </label> -->
-<!--input type="checkbox" class="input-checkbox " id="" name="segments[]" value=""><label for=""> </label-->
-
-                    
+                                        
                 </div>
             </form>
         </div>
+-->
+<style>
+.subscriber-popup-overlay, #newsletter-subscriber-popup {
+    display: none;
+}
+.subscriber-popup-overlay {
+    height: 100%;
+    width: 100%;
+    position: fixed;
+    left: 0px;
+    top: 0px;
+    z-index: 1000;
+    opacity: 0.5;
+    background-color: black;
+}
+.subscriber-popup-close {
+    background-image: url('../skin/frontend/coolshoes/default/images/buttons/btn_window_close.gif');
+    height:15px;
+    width: 15px;
+    float: right;
+    cursor:pointer;
+}
+#newsletter-subscriber-popup {
+    top: 350px;
+    z-index: 1001;
+    position: fixed;
+    top: 25%;
+    right: 0;
+    left: 0;
+    width: 780px;
+    margin: auto;
+    background-color: white;
+    color: #333;
+    border: 1px solid black;
+    padding: 12px;
+}
+.badge_10_off {
+    left: -35px;
+    position: absolute;
+    top: -30px;
+}
+.NL-popup-heading {
+    color: black;
+    font-family: "Trebuchet MS",​Arial,​sans-serif;
+    font-size: 48pt;
+    text-decoration: none;
+    text-align: center;
+}
+.NL-popup-text {
+    font-size: 12pt;
+    margin: 0 auto 10px;
+    width: 63%;
+    text-align: center;
+}
+.subscriber_form_wrapper {
+    width: 600px;
+    box-sizing: border-box;
+    margin: 0 auto;
+}
+.NL-email-input {
+    border: 1px solid #cccccc !important;
+    box-sizing: border-box !important;
+    width: 100% !important;
+    background-color: white !important;
+}
+.subscription-interests {
+    background-color: white;
+}
+.subscription-interests > p {
+    margin: 20px 0;
+    text-align: center;
+}
+.NL-interest-label {
+    text-transform: uppercase;
+    border: 1px solid #cccccc;
+    box-sizing: border-box;
+    color: black;
+    font-size: 14pt;
+    padding: 10px 0;
+    text-align: center;
+    text-decoration: none;
+    vertical-align: bottom;
+    width: 150px;
+    display: inline-block;
+    cursor: pointer;
+}
+#womens-interest {
+    margin-right: 10px;
+}
+#subscription-btn-newsletter {
+    background-color: #ea4234;
+    color: white !important;
+    float: right;
+    width: 250px;
+    display: inline-block;
+    border: 1px solid #cccccc;
+    box-sizing: border-box;
+    font-size: 14pt;
+    text-align: center;
+    text-decoration: none;
+    vertical-align: bottom;
+    padding: 10px 0 !important;
+    border-radius: 0;
+}
+#advice-email {
+    width: 100%;
+}
+</style>
+<script>
+function closeNLSubPopup() {
+    jQuery('.subscriber-popup-overlay').hide();
+    jQuery('#newsletter-subscriber-popup').hide();
+}
+function NLInterestBg(interestID){
+    var isChecked = jQuery('#'+interestID).is(':checked');
+    var clickedLabel = interestID.slice(0, -12); // Get the id of lael
+    if(isChecked){
+        jQuery('#'+clickedLabel).css('border', '1px solid #ea4234');
+    }
+    else{
+        jQuery('#'+clickedLabel).css('border', '1px solid #cccccc');
+    }
+}
+</script>
+<div class="subscriber-popup-overlay" onclick="closeNLSubPopup();"></div>
+<div id="newsletter-subscriber-popup">
+    <img src="//cdn3.styletread.com.au/media/webtrends/10badge.png" class="badge_10_off">
+    <!--<a href="#" class="jqmClose"><img src="//d3avymbhqq1khv.cloudfront.net/skin/frontend/coolshoes/default/images/buttons/btn_window_close.gif"></a>-->
+    <div class="subscriber-popup-close" onclick="closeNLSubPopup();"></div>
+    
+    <h1 class="NL-popup-heading">DON'T MISS OUT!</h1>
+    <p class="NL-popup-text">Receive a <strong>$10 voucher</strong> when you sign up to receive style news &amp; sales alerts. Please enter your email address here:</p>
+    <div class="subscriber_form_wrapper">
+        <form onsubmit="return false" id="newsletter-subscribe-form" enctype="application/x-www-form-urlencoded" method="post" action="/newsletter/subscriber/new">
+            <input type="hidden" class="nl_redirect_referer" name="redirect_referer" value="true">
+            
+            <input class="NL-email-input gray-text short required-entry" type="text" name="email" onblur="if(this.value==''){this.value='Email Address';}" onfocus="if(this.value=='Email Address'){this.value='';}" value="Email Address">
+            <div style="display: none;" class="validation-advice" id="advice-email">Please enter a valid email address. For example johndoe@domain.com.</div>
+            <div class="subscription-interests">
+                <p>Then select which newsletter you would like to receive:</p>
+                <div class="NL-interest-icons clearfix">
+                    <input style="display:none;" type="checkbox" class="input-checkbox validate-one-required" onchange="NLInterestBg(this.id);" id="womens-interest-NL-checkbox" name="segments[]" value="1">
+                    <label class="NL-interest-label" id="womens-interest" for="womens-interest-NL-checkbox">Womens</label>
+                    <input style="display:none;" type="checkbox" class="input-checkbox" onchange="NLInterestBg(this.id);" id="mens-interest-NL-checkbox" name="segments[]" value="2">
+                    <label class="NL-interest-label" id="mens-interest" for="mens-interest-NL-checkbox">Mens</label>
+                    <button id="subscription-btn-newsletter" class="gray-btn f-right small_button_padding" type="submit" onclick="return validateInterests();">Submit</button>
+                    <div style="display:none;" class="validation-advice" id="advice-interest-checkbox">Please select one of the above options.</div>
+                </div>
+            </div>
+        </form>
+    </div>
+</div>
+<script>
+function validateInterests(){
+    var mensInterest = jQuery('#mens-interest-NL-checkbox').is(':checked');
+    var womensInterest = jQuery('#womens-interest-NL-checkbox').is(':checked');
+    var subscriberEmail = jQuery('.NL-email-input').val();
+    var atpos = subscriberEmail.indexOf('@');
+    var dotpos = subscriberEmail.indexOf('.');
+    var emailValidated = false;
+    var interestValidated = false;
+    if(subscriberEmail == '' || atpos < 1 || dotpos < atpos + 2 || dotpos + 2 >= subscriberEmail.length){
+        jQuery('#advice-email').show();
+        emailValidated = false;
+    }
+    else {
+        jQuery('#advice-email').hide();
+        emailValidated = true;
+    }
+    if (!mensInterest && !womensInterest) { // If no option selected, fail the form and show error
+        jQuery('#advice-interest-checkbox').show();
+        interestValidated = false;
+    }
+    else{
+        jQuery('#advice-interest-checkbox').hide();
+        interestValidated = true;       
+    }
+    // Return true/false based on validation above
+    if(emailValidated && interestValidated){
+        return true;
+    }
+    else {
+        return false;
+    }
+}
+</script>
          <script>
             //<![CDATA[
-            var dataForm = new VarienForm('newsletter-flag-form', false);
-            jQuery('#newsletter-flag-form').submit(function(event) {
+            var dataForm = new VarienForm('newsletter-subscribe-form', false);
+            jQuery('#newsletter-subscribe-form').submit(function(event) {
                 if(dataForm.validator.validate() === true) {
                     this.submit();
                 }
@@ -1172,7 +1387,15 @@ gts.push(["locale", "en_AU"]);
             //]]>
         </script>
         
-                <!-- script type="text/javascript">
+                <div class="bv_lightbox"></div>
+<!-- Emarsys tracking script  -->
+<script type="text/javascript">
+// This doesn't seem to work on the product page - Magentos block cacheing
+// So remove the non cached section and place it in a function in the header instead
+pushEmarsys();
+</script>
+<!-- End Emarsys tracking script  -->
+<!-- script type="text/javascript">
 setTimeout(function(){var a=document.createElement("script");
 var b=document.getElementsByTagName('script')[0];
 a.src=document.location.protocol+"//dnn506yrbagrg.cloudfront.net/pages/scripts/0011/6270.js";
