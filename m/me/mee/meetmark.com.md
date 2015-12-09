@@ -1,83 +1,198 @@
-> *The following text is extracted and transformed from the meetmark.com privacy policy that was archived on 2010-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100528104523id_/http%3A//www.youravon.com/REPSuite/security_and_privacy.page) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the meetmark.com privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209114226id_/http%3A//www.youravon.com/REPSuite/security_and_privacy.page) for the most accurate reproduction.*
 
 # security and policy
 
-INTRODUCTION. Avon Products, Inc., a company incorporated under the laws of the State of New York, U.S.A. (referred to herein as **"AVON," "we," "us"** and **"our"** ), understands the importance of the privacy of individuals (referred to as **"users"** and **"you"** ) who visit and interact with our websites, participate in our interactive bulletin boards and forums, or purchase AVON products online. This Security and Privacy Statement (the **"Statement"** ) outlines the information AVON collects through AVON.COM, AVONCOMPANY.COM, YOURAVON.COM, AVONREPRESENTATIVE.COM, MEETMARK.COM, SELLAVON.COM, STARTAVON.COM (collectively, the **"AVON WEBSITES"** ), and how AVON will use and disclose that information. This Statement represents the sole, authorized statement of AVON's practices with respect to the collection of information through the AVON WEBSITES and AVON's use of such information. By using the AVON WEBSITES, you agree to this Statement. If you do not agree to this Statement, please do not use the AVON WEBSITES.
-
-This Statement applies solely to AVON's collection of information through the AVON WEBSITES and AVON's use and disclosure of such information. This Statement does not apply to any of the following: (a) AVON's collection of information through any website other than the AVON WEBSITES, or the use or disclosure of any information so collected; (b) AVON's collection of information offline, for example, by telephone or direct mail, or the use or disclosure of any information so collected; or (c) the collection, use or disclosure of information by any of our subsidiaries or affiliated entities or any third party.
-
-AVON controls and operates the AVON WEBSITES from its offices located in the State of New York, U.S.A. and the AVON WEBSITES are not intended to subject AVON to the laws or jurisdiction of any state, country or territory other than those of the United States. AVON makes no representation or warranty that any AVON WEBSITE, in whole or in part, is appropriate or available for use in other locations. Those who choose to access the AVON WEBSITES from other locations do so on their own initiative and at their own risk and are responsible for compliance with local laws, rules and regulations, if and to the extent local laws, rules or regulations are applicable.
-
-CHANGES TO THIS STATEMENT. Because our business changes continually, we reserve the right to change this Statement without prior notice. You can determine when this Statement was last revised by referring to the "LAST UPDATED" legend at the top of this page. Any changes to this Statement will become effective upon posting of the revised Statement on the Internet, accessible through the AVON WEBSITES. Your continued use of the AVON WEBSITES following the posting of changes to our Statement will signify your acceptance of those changes.
-
-THE INFORMATION WE COLLECT. We collect two basic types of information through the AVON WEBSITES: Personally Identifiable Information and Non-Personally Identifiable Information. **"Personally Identifiable Information"** (or **"PII"** ) is information that identifies you as an individual — for example, your name, address, telephone number, email address, credit card information, billing address and shipping information. **"Non-Personally Identifiable Information"** (or **"Non-PII"** ) is aggregated information, demographic information, IP addresses and any other information that does not reveal your specific identity.
-
-1\. PERSONALLY IDENTIFIABLE INFORMATION (PII). You do not have to provide PII to access the AVON WEBSITES. However, in order for you to take advantage of particular opportunities provided through the AVON WEBSITES (for example, to register for an account with AVON, to make a purchase through an AVON WEBSITE, to sign up to receive AVON email newsletters, or to make a payment to your AVON account through an AVON WEBSITE), we may require that you furnish us with PII through the AVON WEBSITES. AVON will collect PII from you through the AVON WEBSITES only when you provide it to us voluntarily.
-
-2\. NON-PERSONALLY IDENTIFIABLE INFORMATION (NON-PII). When you visit and interact with the AVON WEBSITES, we and our third party and affiliated service providers who provide certain services (including without limitation website hosting, data analysis, newsletter services, order fulfillment, and other services of an administrative nature) (such third party and affiliated service providers, our **"Service Providers"** ) may collect Non-PII (for example, a list of the AVON WEBSITE pages you visit). Non-PII is generally collected from four different sources: server log files, cookies, pixel tags, and information that you voluntarily provide.
-
- **• SERVER LOG FILES.** Your Internet Protocol (IP) address is an identifying number that is automatically assigned to your computer by your Internet Service Provider (ISP). This number is identified and logged automatically in our and/or our Service Providers' server log files whenever you visit the AVON WEBSITES, along with the time(s) of your visit(s) and the page(s) that you visited. We use your IP address, and the IP addresses of all users, to calculate usage levels on the AVON WEBSITES, to help diagnose problems with the AVON WEBSITES' servers, and to administer the AVON WEBSITES. We also reserve the right to use IP addresses to communicate with users and, if necessary, to block access by users who fail to comply with our Terms and Conditions of Use located at **www.youravon.com/REPSuite/terms_and_conditions.page** (the **"Terms and Conditions of Use"** ) or other policies. Collecting IP addresses is standard practice on the Internet and IP addresses are collected automatically by many websites.
-
- **• COOKIES.** To enhance your experience with the AVON WEBSITES, the AVON WEBSITES use "cookies." Cookies are text files we place in your computer's browser to store your preferences. We use cookies to understand AVON WEBSITE usage and to improve the content and offerings on the AVON WEBSITES. For example, we may use cookies to personalize your experience on the AVON WEBSITES (e.g., to recognize you by name when you return to an AVON WEBSITE), and to make the login process easier for password-protected areas of the AVON WEBSITES. The "Help" menu, accessible through the menu bar of most browsers, may tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, and/or how to disable cookies altogether. Note, however, that cookies allow you to take full advantage of some of our most innovative and useful features.
-
- **• PIXEL TAGS.** We and our Service Providers may also use so-called "pixel tags," "web beacons," "clear GIFs" or similar means (collectively, **"Pixel Tags"** ) in connection with some AVON WEBSITE pages and HTML-formatted email messages to, among other things, compile aggregate statistics about website usage and response rates. A Pixel Tag is an electronic image, often a single pixel (1x1), that is ordinarily not visible to website visitors and may be associated with cookies on 'visitors' hard drives. Pixel Tags allow us and our Service Providers to count users who have visited certain pages of the AVON WEBSITES, to deliver customized services, and to help determine the effectiveness of promotional or advertising campaigns. When used in HTML-formatted email messages, Pixel Tags can tell the sender whether and when the email has been opened.
-
- **• OTHER NON-PERSONALLY IDENTIFIABLE INFORMATION THAT YOU VOLUNTARILY PROVIDE.** We also collect certain Non-PII — for example, information about your interests, your geographic location, etc. — when you voluntarily provide such information to us. Additionally, we may aggregate PII in a manner such that the end-product does not personally identify you or any other user of the AVON WEBSITES, for example, by using PII to calculate the percentage of our users who have a particular zip code or telephone area code. Such aggregate information is deemed to be Non-PII for purposes of this Statement.
-
+|   
+LAST UPDATED: November 25, 2015  
+---  
   
-HOW DO WE USE THE PII WE COLLECT? We may use the PII we collect in the following ways:
-
- **• RESPONDING TO YOUR INQUIRIES AND FULFILLING YOUR REQUESTS.** We may use your PII to respond to your inquiries to AVON and to fulfill your requests — for example, to send you newsletters that you request when you sign up to join our mailing lists, to send you updates about AVON news and events, or to provide your PII to AVON Independent Sales Representatives (as defined in our Terms and Conditions of Use) when you provide it to us for such purpose.
-
- **• COMMUNICATING WITH YOU ABOUT PRODUCTS AND SERVICES.** Subject to your right to opt out (see "OPTING OUT OF CERTAIN AVON COMMUNICATIONS" below), we may use your PII to send you information about specials, new products and services, and other items that may be of interest to you.
-
- **• PERSONALIZING YOUR AVON WEBSITE EXPERIENCE.** We may use your PII to personalize your experience on the AVON WEBSITES, for example, by presenting products and offers to you through the AVON WEBSITES that we believe may be of interest to you.
-
- **• SENDING ADMINISTRATIVE EMAILS.** From time to time, at our sole discretion, we may use your PII to send you emails (a) to confirm your registration with the AVON WEBSITES, (b) to confirm a transaction through the AVON WEBSITES, (c) to inform you that we have received your PII, (d) to provide you with information regarding the AVON WEBSITES, or (e) to inform you of changes to this Statement, our Terms and Conditions of Use, or our other terms, conditions, or policies ( **"Administrative Emails"** ). Because this information may be critical to your use of the AVON WEBSITES, you may not opt out of receiving Administrative Emails.
-
+AVON PRODUCTS, INC. PRIVACY STATEMENT  
   
-TO WHOM DO WE DISCLOSE THE PII WE COLLECT? We may disclose the PII we collect in the following ways:
+TABLE OF CONTENTS
 
- **• DISCLOSURE TO THIRD PARTIES FOR DIRECT MARKETING PURPOSES.** We may disclose your PII to third parties for their direct marketing purposes only when you affirmatively consent to such disclosure. For example:
+INTRODUCTION; SCOPE 
 
- **• Disclosing your PII to AVON Independent Sales Representatives:** If you wish to order products through an AVON Independent Sales Representative or to otherwise have an AVON Independent Sales Representative work with you to facilitate your AVON experience, AVON needs to provide your PII to such AVON Independent Sales Representative. Therefore, if you opt in to having an AVON Independent Sales Representative work with you to facilitate your AVON experience or to having your PII shared with an AVON Independent Sales Representative — for example, if you choose to become "attached" to an AVON Independent Sales Representative by logging in to an AVON WEBSITE after following a link from such eRepresentative's online store; if you place an order through an AVON Independent Sales Representative's online store; or if you elect to have an AVON Independent Sales Representative deliver products to you (e.g., "representative delivery" or "personal delivery") — we may disclose your PII to such AVON Independent Sales Representative.
+Avon Products, Inc. ("Avon," "us," or "we") has created this Privacy Statement to inform you about how we collect, use and disclose information.
 
- **• Facilitating Special Offers from Third Parties:** From time to time, we may give you the opportunity to opt in to participate in special third party offers that require us to share certain PII with such third parties. We will disclose this anticipated sharing of PII at the time we make such opportunities available to you. If you opt in to participate in such an offer, we may disclose your PII to such third parties for their direct marketing purposes. We recommend that you consult such third parties' privacy policies in advance if you wish to participate in these offers.
+This Privacy Statement applies to information collected through this website and any mobile sites, applications, widgets, and other interactive features that link to this Privacy Statement (the "Site"). Except as specifically provided below, this Privacy Statement does not apply to information collected by Avon by or through any other means, such as information collected offline.
 
- **• DISCLOSING AVON INDEPENDENT SALES REPRESENTATIVE INFORMATION.** If you are an AVON Independent Sales Representative, we may disclose certain PII (for example, your name, email address, telephone number and other contact information) and other information to current and potential AVON customers who are seeking the assistance of an AVON Independent Sales Representative, to customers who are or who become attached to you, and to other AVON Independent Sales Representatives (for example, if you are a "downline" AVON Independent Sales representative, we may make your PII and other information about you available to your Leadership Representative).
+Avon grants independent contractors selling rights to its products (hereinafter referred to as Independent Sales Representatives or Avon Representatives). Independent Sales Representatives are not employed by Avon. Therefore, Avon does not control, and is not responsible or liable for the collection, use or disclosure of Personal Information by Independent Sales Representatives, including for their marketing purposes. If you provide information to an Independent Sales Representative through the Site, Avon will have access to it and shall treat it in accordance with this Privacy Statement. Independent Sales Representatives may provide Avon with information regarding their customers, in which case Avon will treat such information, once in its possession, in accordance with this Statement.
 
- **• ENABLING SERVICE PROVIDERS TO PROVIDE SERVICES.** We may share your PII with Service Providers for the purpose of enabling them to provide services. Although we seek to require our Service Providers to treat PII confidentially, AVON is not responsible or liable for the statements, acts or omissions of such Service Providers.
+If you are the customer of an Independent Sales Representative, you should check with your Representative directly to learn about her data privacy practices.
 
- **• FACILITATING SWEEPSTAKES, CONTESTS AND SIMILAR PROMOTIONS.** We may, whether alone or in cooperation with third party sponsors, operate sweepstakes, contests and similar promotions ( **"Promotions"** ) through or in connection with the AVON WEBSITES. We typically ask you for certain PII when you enter or otherwise participate in a Promotion, and, if applicable, when you win a Promotion. We reserve the right to share this PII with affiliated and third party sponsors of such Promotions ( **"Sponsors"** ), or otherwise in accordance with the rules applicable to the Promotion. You should carefully review the rules of each Promotion in which you participate through the AVON WEBSITES, as they may contain important additional information about our or Sponsors' use of your PII. To the extent that the terms and conditions of such rules concerning the treatment of your PII conflict with this Statement, the terms and conditions of such rules shall control.
+ **If you apply to become or are an Independent Sales Representative, in addition to the generally applicable provisions of this Privacy Statement, please review the **Independent Sales Representative** section at the bottom of this Privacy Statement to see important information about additional privacy practices that apply to you.**
 
- **• FACILITATING "EMAIL A FRIEND" FUNCTIONALITY.** If you wish to use an AVON WEBSITE's functionality to send a friend a link to an AVON WEBSITE page, you must provide us with your name and email address, as well as your friend's name and email address, so that we may facilitate your sending of such link. Your name and your email address will be disclosed to your friend in such email.
+SAFE HARBOR 
 
- **• BUSINESS TRANSFERS.** We reserve the right to transfer any and all PII and Non-PII that we collect from users of the AVON WEBSITES to a third party in the event of any merger, sale, joint venture, assignment, transfer or other disposition of all or any portion of AVON's assets or stock (including without limitation in connection with any bankruptcy or similar proceedings).
+Avon Products, Inc. has certified to the Safe Harbor framework agreed to by the U.S. Department of Commerce and the EU with respect to the Personal Information of Independent Sales Representatives collected by certain entities located in the European Economic Area and transferred to Avon Products, Inc. in the United States. Please see our Safe Harbor Statement at <http://avoncompany.com/safeharborprivacy/>. For additional information regarding the Safe Harbor Program, see the U.S. Dept. of Commerce web site at <http://www.export.gov/safeharbor>.
 
- **• OTHER DISCLOSURES.** Finally, notwithstanding any other provision of this Statement or the Terms and Conditions of Use to the contrary, we reserve the right to disclose and use your PII if we believe that we are required to do so: (a) by law; (b) in response to legal process, for example, in response to a court order or a subpoena; (c) in response to a law enforcement agency's request; (d) to enforce the Terms and Conditions of Use or our other terms, conditions, or policies; (e) to protect our operations; (f) to protect the rights, privacy, safety or property of AVON, you or others; and/or (g) to permit us to pursue available remedies or limit the damages that we may sustain. For example, we may, to the fullest extent the law allows, disclose PII about you to law enforcement agencies to assist them in identifying individuals who have been or may be engaged in unlawful activities.
+PERSONAL INFORMATION 
 
-  
-HOW DO WE USE AND DISCLOSE THE NON-PII WE COLLECT? Because Non-PII does not personally identify you, we reserve the right to use Non-PII, and to disclose Non-PII to third parties, for any purpose.
+**Collection of Personal Information.** " **Personal Information** " is information that can identify you such as name, postal address (including billing and shipping addresses), telephone number, e-mail address, credit card number, and user name. We collect Personal Information from you when you choose to participate in our offers and programs or otherwise provide information directly to us, including when you register with us, purchase products, participate in our interactive features or otherwise interact with us on the Site.
 
-COLLECTION, USE AND DISCLOSURE OF INFORMATION BY THIRD PARTIES. NOTE THAT THIS STATEMENT DOES NOT ADDRESS THE PRIVACY PRACTICES OR POLICIES OF THIRD PARTIES, INCLUDING AVON INDEPENDENT SALES REPRESENTATIVES. Without limiting the foregoing:
+ **Use of Personal Information.** We may use Personal Information:
 
-1\. AVON INDEPENDENT SALES REPRESENTATIVES. This Statement does not apply to the collection, use or disclosure of information by AVON Independent Sales Representatives, who are independent third party contractors of AVON and are not otherwise affiliated with AVON. For example, this Statement does not apply to: (a) the use or disclosure by AVON Independent Sales Representatives of information AVON provides them to enable them to fulfill your orders; (b) the use or disclosure of information collected, stored or processed by AVON Independent Sales Representatives through the AVON WEBSITES; or (c) any communication between you and an AVON Independent Sales Representative, either directly (for example, through your personal email) or through or in connection with an AVON WEBSITE (for example, through a "mailto:" email link that launches an external email application, or through a "Contact Me" link in an AVON Independent Sales Representative's personalized online store that takes you to an online contact form), or the use or disclosure of any information exchanged through such communication. Although we seek to ensure that AVON Independent Sales Representatives honor customers' and contacts' opt-out requests, treat customer information confidentially and act in accordance with applicable law, we are not responsible or liable for the statements, acts or omissions of AVON Independent Sales Representatives.
+  * for the purposes for which you specifically provided it including, without limitation, to enable us to respond to your inquiries and process and fulfill your requests;
 
-2\. OPERATORS OF THIRD PARTY SITES AND SERVICES. The AVON WEBSITES may contain links to websites operated by third parties, or may embed services operated by third parties ( **"Third Party Sites/Services"** ), and those third parties may have privacy practices that are different from ours. If you provide information through any Third Party Site/Service, such information will be collected by, and may be used and disclosed by such third parties, in accordance with the privacy practices and policies of such third parties. AVON WEBSITE users should consult such third parties' privacy policies when using Third Party Sites/Services, as we have no control over the use or disclosure of information by third parties.
+  * to send you information about your relationship or transactions with us;
 
-  
-SECURITY. We are aware of concerns regarding the privacy and confidentiality of PII. We have put in place certain physical, electronic and managerial procedures to help us safeguard against unauthorized access to PII and to help maintain data security. For example, we use an encryption technology called Secure Sockets Layer (SSL) to help protect the transmission of certain information to and from the AVON WEBSITES. Unfortunately, no data transmission over the Internet or data storage solution will be 100% secure. As a result, although we take steps to protect your PII, we cannot ensure or warrant the security of any information you transmit to or receive from us or that we store on our or our Service Providers' systems.
+  * to tell you about products, services, programs, and offers that we believe may be of interest to you via e-mail, SMS, telephone or postal mail;
 
-You are ultimately responsible for maintaining the secrecy of your user name, passwords and/or any account information. You are not permitted by AVON to, and we recommend that you do not, disclose your username and password to any other person. If you have reason to believe that your interaction with an AVON WEBSITE is no longer secure (for example, if you feel that the security of your AVON WEBSITE username or password has been compromised), you must immediately notify us of the problem by contacting us in accordance with the section entitled "CONTACTING US," below. (Note that contacting us by physical mail will delay the time it takes for us to respond to your communication.)
+  * to personalize your experience with us including by presenting products or offers tailored to you;
 
-OPTING OUT OF CERTAIN AVON COMMUNICATIONS. If you would prefer not to receive email messages from AVON about new products, specials and other items of interest, you may opt out from receiving such messages by following the "unsubscribe" instructions contained in any such emails you have received, or, if you have registered with an AVON WEBSITE, you may use that AVON WEBSITE's "modify account information" or similar functionality to opt out from receiving such messages. If you are an AVON Independent Sales Representative, then notwithstanding the foregoing, AVON reserves the right to use your PII to contact you regarding any AVON, AVON affiliate, or third party products, services, or other items of interest.
+  * to allow you to use, communicate and interact with others on our Site;
 
-Please note that we are not able to remove your PII from the databases and other records of AVON Independent Sales Representatives and other third parties with which we have already shared your PII pursuant to this Statement. If you wish to cease receiving marketing messages from such an AVON Independent Sales Representative or other third party, please contact such AVON Independent Sales Representative or other third party directly.
+  * to help you find an Independent Sales Representative including suggesting a new Avon Representative if your Avon Representative has discontinued selling Avon products, and to facilitate the business activities of an Independent Sales Representative;
 
-CHANGING OR REMOVING YOUR PII. We provide you with several options through the AVON WEBSITES for reviewing, correcting, updating or otherwise modifying PII that you have previously provided through the AVON WEBSITES. If you registered with an AVON WEBSITE, you will be able to view, change, modify or remove certain information contained in your personal profile by using the tools found in the profile section of the applicable AVON WEBSITE(S). For example, if you registered as a customer at AVON.COM, you can use that website's "modify account info" functionality to view, change, modify or remove certain information contained in your AVON.COM profile. We will endeavor to comply with your requests to change, modify or remove your PII as soon as reasonably practicable. However, we may need to retain certain information for recordkeeping purposes, and there may also be residual information that will remain within our databases and other records, which will not be removed or changed. We also reserve the right, from time to time, to re-contact former AVON WEBSITE visitors and users, including AVON Independent Sales Representatives who were formerly AVON eRepresentatives (as defined in our Terms and Conditions). Finally, we are not responsible for removing information or causing information to be removed from the databases or other records of third parties (including vendors, Service Providers, and AVON Independent Sales Representatives) with whom we have already shared your PII.
+  * for our internal business purposes, such as data analysis, audits, developing new products, enhancing our website, improving our services, identifying usage trends, and determining the effectiveness of our promotional campaigns;
 
-CHILDREN. The AVON WEBSITES are not directed to individuals under the age of thirteen (13), and we request that such individuals not provide personally identifiable information, or PII, through the AVON WEBSITES.
+  * to allow you to participate in sweepstakes, contests and similar promotions and to administer these activities (Some of these activities have additional rules, which could contain additional information about how we use and disclose your Personal Information, so we suggest that you read these rules carefully);
 
-CONTACTING US. If you have any questions regarding this Statement, please contact us either by email at avon.websites@avon.com, or by regular mail at Avon Products, Inc 175 Progress Place Springdale, OH 45246 Attn: Campaign Administration. Please note that email communications are not necessarily secure. Accordingly, you should not include credit card information or other sensitive information in your email correspondence with us.
+  * to complete and fulfill your order, or otherwise provide you with products or services, for example, to process your payments, have your order delivered to you, communicate with you regarding your purchase and provide you with related customer service; and
 
-This Statement ©2009 Avon Products, Inc. All rights reserved.
+  * to allow you to send an e-mail to other people through our "send to a friend" type functionality. (By using this functionality, you are telling us that you are entitled to use and provide us with your friend's name and e-mail address for that purpose. Your friend's information will only be used to send the forwarding e-mail and is not saved in our databases.);
+
+
+
+
+ **Sharing Personal Information.** We may disclose your Personal Information: 
+
+  * to companies that are affiliated with us, that is, are part of the Avon family of companies, ([click here](http://www.youravon.com/REPSuite/SEC_entity.page) to see a list), but not for their direct marketing purposes;
+
+  * to third-party service providers who provide services to Avon, such as website hosting, data analysis, payment processing, order fulfillment, infrastructure provision, information technology services, customer service, e-mail delivery services, credit card processing, auditing, training, and other similar services. (These third parties will be supplied with, or have access to, your Personal Information for the purpose of providing these services to us or on our behalf);
+
+  * to Independent Sales Representatives, to the extent necessary for them to contact you, fulfill your orders or provide a service to you;
+
+  * to a third party in the event of any reorganization, merger, sale, joint venture, assignment, transfer or other disposition of all or any portion of our business, assets or stock (including in connection with any bankruptcy or similar proceedings); and
+
+  * as we believe necessary or appropriate: (a) under applicable law, including laws outside your country of residence; (b) to comply with legal process; (c) to respond to requests from public and government authorities including public and government authorities outside your country of residence; (d) to enforce our terms and conditions; (e) to protect our operations or those of any of our affiliates; (f) to protect our rights, privacy, safety or property, and/or that of our affiliates, you or others; and (g) to allow us to pursue available remedies or limit the damages that we may sustain.
+
+
+
+
+From time to time, we may give you the opportunity to opt in to participate in special third party offers that require us to share certain Personal Information with such third parties. We will disclose this anticipated sharing of Personal Information at the time we make such opportunities available to you. If you opt in to participate in such an offer, we may disclose your Personal Information to such third parties for their direct marketing purposes. We recommend that you consult such third parties' privacy policies in advance if you wish to participate in these offers.
+
+NON-PERSONAL INFORMATION 
+
+**Collection of Non-Personal Information.** **"Non-Personal Information"** is any information that does not reveal your specific identity, such as:
+
+  * Browser information
+
+  * Information collected through cookies, pixel tags and other technologies
+
+  * Demographic information and other information provided by you or our Independent Sales Representatives
+
+  * Aggregated information
+
+
+
+
+We and our third-party service providers may collect Non-Personal Information in a variety of ways. For example, we
+
+  * collect information such as your computer type (Windows or Macintosh), screen resolution, operating system version and Internet browser type and version.
+
+  * collect demographic information, such as your location, education, profession, age, gender, as well as other information, such as your hobbies and special interests when you voluntarily provide this information to us. Unless combined with Personal Information, this information does not personally identify you or anyone else.
+
+
+
+
+ **Aggregating information.** We may aggregate Personal Information so that the aggregated information does not personally identify you or anyone else, such as by using Personal Information to calculate the percentage of our customers who live in a particular area. In some instances, we may combine Non-Personal Information with Personal Information (such as combining your name with your geographical location). If we combine any Non-Personal Information with Personal Information, the combined information will be treated by us as Personal Information as long as it is combined.
+
+ **Use and Sharing of Non-Personal Information.** Because Non-Personal Information does not personally identify you, we may collect, use and disclose Non-Personal Information for any purpose.
+
+COOKIES AND OTHER TECHNOLOGIES 
+
+**Cookies:** We and our third-party service providers may use "cookies" on the Site. Cookies allow a web server to transfer data to a computer for recordkeeping and other purposes. We use cookies and other technologies to, among other things, better serve you with more tailored information and facilitate your ongoing access to and use of the Site. We also allow vendors to use cookies on our website. If you do not want information collected through the use of cookies, there is a simple procedure in most browsers that allows you to decline the use of cookies. To learn more about cookies, please visit the following site, which is not affiliated with Avon: <http://www.allaboutcookies.org/>.
+
+ **Local Storage Objects:** We and our third-party service providers may use Flash Local Storage Objects ("Flash LSOs") in certain situations including to recognize you and remember what is in your shopping cart. Flash LSOs are different from browser cookies because of the amount and type of data stored. In addition, you generally cannot control, delete or disable the acceptance of Flash LSOs from your browser. For more information on Flash LSOs, and to learn how to control them, click on the support Page for the Flash Player and choose [Global Storage Settings Panel](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager03.html) and follow the instructions. To see the Flash LSOs on your computer now, go to the [Website Storage Settings Panel](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html) and follow the instructions to review and, if you choose, to delete any specific Flash LSO.
+
+ **Pixel tags and other technologies:** Clear GIFs are tiny graphics with a unique identifier, similar in function to cookies. However, in contrast to cookies, which are stored on your computer's hard drive, clear GIFs are embedded invisibly on website pages. We may use clear GIFs (also known as web beacons, web bugs or pixel tags) in connection with the Site to, among other things, track the activities of our Site visitors and compile statistics about Site usage and response rates. We and our third-party service providers also may use clear GIFs in HTML-formatted e-mail messages to help us track e-mail response rates, measure the success of our marketing campaigns, and identify when our e-mails are viewed or forwarded.
+
+ **Site Analytics:** Avon may work with third-party service providers who use the technologies described in this section to conduct website analytics to help us track and understand how visitors use our Site. For example, we use Omniture, a third-party web analytics service provider, to help us improve our website performance and user experience. For more information and to review Omniture's privacy policy for Omniture Technology and its opt-out tool, please see their [privacy center](http://www.omniture.com/en/privacy/2o7#optout).
+
+ **Widgets, Applications and similar technologies.** If you choose to utilize technology provided by us (such as a widget), any Personal Information or other information you make available through such technology may become available publicly, for example, through social media and other websites and platforms on which you may make the applicable technology available. In addition, some technology may have the capability to be distributed "virally" in other locations (for example, a friend or a customer of yours may post the widget that contains your information to his or her blog). Avon is not responsible or liable for the collection, use or disclosure of Personal Information and/or other information that is made publicly available.
+
+IP ADDRESSES
+
+ **How We Collect IP Addresses**
+
+Your "IP Address" is a number that is automatically assigned to the computer that you are using by your Internet Service Provider (ISP).
+
+An IP Address may be identified and logged automatically in our server log files whenever a user visits the Site, along with the time of the visit and the page(s) that were visited. Collecting IP Addresses is standard practice on the Internet and is done automatically by many websites.
+
+ **How We Use and Disclose IP Addresses**
+
+We may use IP Addresses for purposes such as calculating Site usage levels, helping diagnose server problems, detecting fraud, and administering the Site. We may also use and disclose IP Addresses for all the purposes for which we use and disclose Personal Information. Please note that we treat IP Addresses, server log files and related information as Non-Personal Information, except where we are required to do otherwise under applicable law.
+
+SOCIAL NETWORK AND INTERACTIVE TOOLS 
+
+Certain features on our Site may give you an opportunity to interact with us and others. These may include blogs, message boards, messaging functionality, chat functionality, and creating community profiles. When you use these features you should be aware that any information you submit, including your name, location and e-mail address, may be publicly available to others. We are not responsible for any information you choose to submit through these interactive features and we strongly discourage you from disclosing any sensitive Personal Information (such as health or credit card information) through these features. If you use these features, your Personal Information may remain on the Site even after you cease use of the Site.
+
+THIRD-PARTY WEBSITES 
+
+Our Site may link to websites operated by other third parties. We are not responsible for the privacy practices of websites operated by third parties that are linked to or integrated with our Site, or for the privacy practices of third party Internet advertising companies. The inclusion of a link on the Site does not imply endorsement of the linked site by us. Avon's Independent Sales Representatives are solely responsible for their own websites and for any information collected on those websites. If an Independent Sales Representative uses an Avon Site to collect information from you, Avon may have access to that information and shall treat it in accordance with this Privacy Statement.
+
+THIRD-PARTY ADVERTISERS 
+
+We may use third-party advertising companies to serve ads when you visit our Site. These companies may use information about your visit to the Site in order to provide advertisements about goods and services that may be of interest to you. In the course of serving advertisements to this Site, these companies may place or recognize a unique cookie on your browser. If you would like more information about this practice and to know your choices about not having this information used by these companies, please visit <http://networkadvertising.org/optout_nonppii.asp>.
+
+SECURITY 
+
+We use reasonable organizational, technical and administrative measures to protect Personal Information under our control. Unfortunately, no data transmission over the Internet or data storage system can be guaranteed to be 100% secure. If you have reason to believe that your interaction with us is no longer secure (for example, if you feel that the security of any account you might have with us has been compromised), please immediately notify us of the problem by contacting us in accordance with the Contacting Us section below.
+
+CHOICE 
+
+To opt out of receiving marketing and/or promotional offers from Avon you may (1) follow the "unsubscribe" instructions contained in any such emails you have received, (2) if you have registered with an Avon Site, you may use that Site's "modify account information" or similar functionality to opt out from receiving such messages, or (3) send us a request at the address in the Contacting Us section below. We will endeavor to comply with all requests as soon as reasonably practicable.
+
+ACCESS 
+
+We provide you with several options through the Sites for reviewing, correcting, updating or otherwise modifying Personal Information that you have previously provided through the Sites. If you registered with a Site, you may view, change, modify or remove certain information contained in your personal profile by using the tools found in the profile section of the applicable Site. For example, if you registered as a customer at AVON.COM, you can use that website's "modify account info" functionality to view, change, modify or remove certain information contained in your AVON.COM profile. You also may submit updated Personal Information to us as set out in the Contacting Us section below. In your request, please make clear what information you would like to have changed.
+
+We will endeavor to comply with your request as soon as reasonably practicable. However, we may need to retain certain information for recordkeeping purposes, and there may also be residual information that will remain within our databases and other records, which will not be removed or changed. We also reserve the right, from time to time, to re-contact former Site visitors and users, including Independent Sales Representatives. Finally, we are not responsible for removing information or causing information to be removed from the databases or other records of third parties (including vendors, service providers, and Independent Sales Representatives) with whom we have already shared your Personal Information.
+
+RETENTION 
+
+We will retain your Personal Information for the period necessary to fulfill the purposes outlined in this Privacy Statement unless a longer retention period is required or allowed by law.
+
+USE OF SITE BY CHILDREN 
+
+The Site is not directed to individuals under the age of fourteen (14), and we request that these individuals not provide Personal Information through the Site.
+
+CROSS-BORDER TRANSFER 
+
+Your Personal Information may be stored and processed in any country where we have operations, and by interacting with us and providing us with any Personal Information, you consent to the transfer of information to countries outside of your country of residence, including the United States, which may provide for different data protection rules than in your country.
+
+UPDATES TO THIS PRIVACY STATEMENT 
+
+From time to time we may change this Privacy Statement. Please take a look at the _"LAST UPDATED"_ legend at the top of this page to see when this Privacy Statement was last revised. Any changes to this Privacy Statement will become effective when we post the revised Privacy Statement on the Site. Your interaction with us following these changes means that you accept the revised Privacy Statement.
+
+CONTACTING US 
+
+If you have any questions about this Privacy Statement, please contact us by e-mail at [Global.Privacy@avon.com](mailto:Global.Privacy@avon.com), or by regular mail at Avon Products, Inc., Attn: Legal - Privacy Office, 777 Third Avenue, New York, NY 10017. Because e-mail communications are not always secure, please do not include sensitive information in your e-mails to us.
+
+INDEPENDENT SALES REPRESENTATIVES 
+
+**The following provisions are applicable only to Avon's Independent Sales Representatives:**
+
+This Privacy Statement applies to the Personal Information of Independent Sales Representatives collected by Avon, whether collected online or offline. This information would be collected in addition to any Personal Information we may collect from you as an Avon customer, as described above.
+
+If you seek to become an Avon Representative we may collect and use your Personal Information including credit-related information to determine your eligibility.
+
+In order to be appointed an Avon Representative, you may be required to enter into a separate agreement with Avon ("Representative Agreement"). If you have entered into a Representative Agreement, we may collect, use and disclose your Personal Information in accordance with this Privacy Statement and the terms of your "Representative Agreement." We also may collect, use and disclose your Personal Information as necessary to fulfill our obligations under the Representative Agreement. In the event of a conflict between this Privacy Statement and the Representative Agreement, the terms of the Representative Agreement shall apply.
+
+Once you are an Avon Representative (including a sales leader), we may disclose your Personal Information: 
+
+  * to district managers, area sales managers or their equivalent, who may be independent contractors to Avon;
+
+  * as part of our sales leadership program, to Avon Representatives who are sales leaders;
+
+  * to current and potential customers who are seeking the assistance of an Avon Representative; and
+
+  * as necessary to comply with legal requirements such as tax and record keeping obligations.
+
+
+
+
+We may also combine the Non-Personal Information that we and our third-party service providers collect about your use of our Site (as described above) with your unique Representative account number. We may use the combined information for purposes such as to analyze Avon Representatives' use of our Sites, in order to evaluate and make improvements to our business model, and for other internal analytics purposes.
+
+This Statement ©2015 Avon Products, Inc. All rights reserved.
