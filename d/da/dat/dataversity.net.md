@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dataversity.net privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629130601id_/http%3A//www.dataversity.net/about-dataversity-net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dataversity.net privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209093702id_/http%3A//www.dataversity.net/about-dataversity-net/privacy-policy) for the most accurate reproduction.*
 
 # DATAVERSITY Privacy Policy
 
@@ -55,7 +55,7 @@ Occasionally, at our discretion, we may include or offer third party products or
 
 Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
 
-As part of the California Online Privacy Protection Act, all users of our site may make any changes to their information at anytime by logging into their control panel and going to the 'Profile' page.
+As part of the California Online Privacy Protection Act, all users of our site may make any changes to their information at anytime by logging into their control panel and going to the ‘Profile’ page.
 
 **Childrens Online Privacy Protection Act Compliance**
 
@@ -81,3 +81,6 @@ If there are any questions regarding this privacy policy you may contact us usin
 [  
 http://dataversity.net/contact-us](http://www.dataversity.net/contact-us)  
 info@dataversity.net 
+
+  
+
