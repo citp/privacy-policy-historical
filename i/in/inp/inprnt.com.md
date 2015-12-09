@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the inprnt.com privacy policy that was archived on 2015-01-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150120114542id_/http%3A//www.inprnt.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inprnt.com privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209041544id_/http%3A//www.inprnt.com/info/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -19,5 +19,3 @@ Your security is very important to us. We encrypt personal information informati
 INPRNT may update this policy at any time in its sole discretion and without prior notice. We notify you of significant changes to the privacy policy by sending a notice to the primary email address connected with your account and posting it in our website.
 
 If you have any questions or comments about this privacy policy, please email us at support@inprnt.com. 
-
-Let's be friends! Like us on Facebook for the latest news and special promotions.
