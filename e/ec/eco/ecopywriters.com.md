@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ecopywriters.com privacy policy that was archived on 2014-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141225193945id_/http%3A//www.ecopywriters.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ecopywriters.com privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209063550id_/http%3A//www.ecopywriters.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | eCopywriters
+# Privacy Policy - eCopywriters
 
 Our privacy commitments are fundamental to our business practices. These stringent guidelines are applied to all our business relationships, including clients, members, and website visitors. Through encryption and other security safeguards to protect customer data, we keep all personal information safe.
 
