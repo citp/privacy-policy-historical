@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the binpress.com privacy policy that was archived on 2015-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150624061459id_/http%3A//www.binpress.com/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the binpress.com privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209100311id_/http%3A//www.binpress.com/page/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Binpress
 
