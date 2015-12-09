@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the arena-multimedia.com privacy policy that was archived on 2015-06-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150615050719id_/http%3A//www.arena-multimedia.com/privacy-policy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the arena-multimedia.com privacy policy that was archived on 2015-12-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151209200313id_/http%3A//www.arena-multimedia.com/privacy-policy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -17,7 +17,7 @@
 <!--[if lt IE 9]>
 <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
 <![endif]-->
-<script src="https://dnn506yrbagrg.cloudfront.net/pages/scripts/0020/5774.js?439598" async="" type="text/javascript"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script async="" src="//connect.facebook.net/en_US/fbds.js"></script><script type="text/javascript" src="js/jquery-1.8.2.min.js"></script>
+<script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" src="//connect.facebook.net/en_US/fbds.js"></script><script type="text/javascript" src="js/jquery-1.8.2.min.js"></script>
 <script type="text/javascript" src="js/bjqs-1.3.min.js"></script>
 <script type="text/javascript">
             jQuery(document).ready(function($) {    
@@ -165,10 +165,11 @@
 
                 //dispAdd += "<p>" + getAddress[0] + "<br><br></p><input class='send_sms_each' type='button' value='sms'/>";
                 dispAdd += "<div style='float:left; border-bottom:dotted #a9a8a8 1px; padding:10px; margin-bottom:10px;'><p style='width:408px; float:left; padding-bottom:7px;'>" + getAddress[0] + "<br></p>" + divSendSms + "</div>";
-
-                loc += "|*|" + getAddress[0] + "|,|" + getAddress[1] + "|,|" + getAddress[2];
+                
+                var longi = getAddress[2].split("|^|");
+                loc += "|*|" + getAddress[0] + "|,|" + getAddress[1] + "|,|" + longi[0]+ "|,|" +get_Centre_Details[1] + "|,|" + get_Centre_Details[2];
                 singleLat = getAddress[1];
-                singleLong = getAddress[2];
+                singleLong = longi[0];
             }
            // alert(addressArray);
             //var contactaddress=dispAdd.replace("&amp","%26");
@@ -207,31 +208,89 @@
     }
 
    // var markerArray = [];
-    function initializeMap() 
-    {
-       var location = loc.split("|*|");
-      var lenLocation = location.length;
+   function initializeMap() {
+        //alert(loc);
+        //alert("fghgf");
+        var location = loc.split("|*|");
+        var lenLocation = location.length;
+        //alert(location);
+      
+            var map = new google.maps.Map(document.getElementById('map_canvas'), {
+            zoom: 10,
+            //center: new google.maps.LatLng(singleLat, singleLong),
+            center: new google.maps.LatLng(singleLat, singleLong),
+            mapTypeId: google.maps.MapTypeId.ROADMAP
+        });
+        var infowindow = new google.maps.InfoWindow({
+        });
+        var marker, i;
+		var mapLoc = new Array();
 
-    for (i = 1; i < lenLocation; i++) 
-    {
-       var detLocation = location[i].split("|,|");
-       var mapLat = detLocation[1];
-       var mapLong1 = detLocation[2].split("|^|");
-       var mapLong = mapLong1[0].split("|,|");
-             //alert(mapLat+ ' ' +mapLong);
-     }
-     var myLatlng = new google.maps.LatLng(mapLat, mapLong) // This is used to center the map to show our markers
-     var mapOptions = {
-     center: myLatlng,
-     zoom: 6,
-     mapTypeId: google.maps.MapTypeId.ROADMAP,
-     marker: true   };
-     
-     var map = new google.maps.Map(document.getElementById("map_canvas"), mapOptions);
-     var marker = new google.maps.Marker({
-     position: myLatlng
-                });
-     marker.setMap(map);
+      //  alert(lenLocation);
+        
+        for (i = 1; i < lenLocation; i++) {
+            var detLocation = location[i].split("|,|");
+
+            var contentString = '<br><br><div id="dMobile" class="gmapMobile"><form name="frmSendSms" method="POST"><br>';
+            //contentString += '<br><br>';
+            contentString += '<input type="text" name="txtMobileNo_map" id="txtMobileNo_map" value="enter your mobile no here..."';
+            contentString += ' class="dropdown blur-focus" onfocus=this.value="' + '" onblur=\'if(this.value=="")';
+            contentString += ' this.value="enter your mobile no here..."\' style="border:1px solid #999999;"/>';
+            contentString += '<input type="button" name="btnGoSms" value="Send" onclick=\'sendSmsMap("' + detLocation[0] +'", "' + detLocation[3] + '", "' + detLocation[4] + '")\' ';
+            contentString += 'style="background-color:#25a1c2" />';                                 
+            contentString += ' </form>';
+            contentString += '</div> <div class="dMobile22 thank_you_map" style="display:none;">';
+            contentString += '<a href="javascript:void(0)" onClick="close_sms_map()" id="close" style="float:right;">X</a>';
+            contentString += ' <p ><strong>THANK YOU!</strong> SMS has been sent to your mobile.</p>';
+            contentString += '</div>';
+            mapLoc[i] = "<div class='clsAddress' style='font-size:12px;'>" + detLocation[0] + "</div>";
+            mapLoc[i] += contentString;
+			//alert(mapLoc);
+            
+            var mapLat = detLocation[1];
+            var mapLong = detLocation[2];
+          //   alert(mapLoc);
+           // alert(mapLat+ ' ' +mapLong);
+
+            marker = new google.maps.Marker({
+                position: new google.maps.LatLng(mapLat, mapLong),
+
+                map: map
+            });
+           
+
+            /**** This is the arry which pass the value in function  ***/
+           /***** Vijay start ****/
+ //             attachInstructionText(marker, mapLoc);
+ //             markerArray[i] = marker;
+              /***** Vijay End ****/
+
+          //  alert(mapLoc);
+            /*
+            for (i = 0; i < locations.length; i++) {
+            marker = new google.maps.Marker({
+            position: new google.maps.LatLng(locations[i][1], locations[i][2]),
+                    
+            map: map
+            });
+            */
+            // alert(marker);    
+
+          /*****   old function start ****/
+         google.maps.event.addListener(marker, 'click', (function (marker, i) {
+                return function () {
+                    //infowindow.setContent(locations[i][0]);
+            //        alert(detLocation[1]);
+                    //alert(mapLoc);
+                    infowindow.setContent(mapLoc[i]);
+
+                    infowindow.open(map, marker);
+
+                }
+            })(marker, i)); 
+         /*****  End of old function   ***/   
+           
+        }
     }
 
     /******  Start function Vijay     ****/
@@ -251,16 +310,17 @@
         })
     } 	
     /******   end of the vijay    ****/   
-
-    function sendSmsMap(addressMap) {
+    function sendSmsMap(addressMap,centerid,centrename) {
         if (phone_validation('txtMobileNo_map') == true) {
             var mobileNo1 = document.getElementById('txtMobileNo_map').value;
             var address11 = addressMap;
             var address11 = address11.replace(/(<br>|<br>)/g, " \n");
+            var setcenterid = centerid;
+            var setcentrename = centrename;
            // var address11 = escape(document.getElementById('dispFullAddress').innerHTML);
            // alert(address11);
             if (mobileNo1 != "") {
-                $.post('sendCentersms.aspx', { 'mobile': mobileNo1, 'address1': address11 }, function (data) {
+                $.post('sendCentersms.aspx', { 'mobile': mobileNo1, 'address1': address11,'centreid': setcenterid , 'centrename': setcentrename }, function (data) {
                     if (data.indexOf("SUBMITDATE") != "-1") {
                         //alert("Sms has sent on your mobile :" + mobileNo1);
                         $('#dMobile').hide();
@@ -670,6 +730,11 @@ window._fbq = window._fbq || [];
 window._fbq.push(['track', 'PixelInitialized', {}]);
 </script>
 <noscript><img height="1" width="1" alt="" style="display:none" src="https://www.facebook.com/tr?id=485822794894526&amp;ev=PixelInitialized" /></noscript>
+<!-- start marketizator.com code -->
+<link rel="dns-prefetch" href="//app.marketizator.com">
+<script type="text/javascript" src="//d2tgfbvjf3q6hn.cloudfront.net/js/b7ff81.js"></script>
+<!-- end marketizator.com code -->
+
 
 </head>
 <body class="innerpage">
@@ -729,7 +794,7 @@ $(document).ready(function(e) {
             </div>
             <div class="hover_content_nav">
               <a href="onlinevarsity.aspx" title="Onlinevarsity" hidefocus="true" style="outline: none;">Onlinevarsity</a>
-              <p>A collaborative cloud-based learning platform</p>	
+              <p>A learning app to study on-the-go</p>	
             </div>          
             <div class="hover_content_nav">
               <a href="faq.aspx" title="Frequently Asked Questions" hidefocus="true" style="outline: none;">FAQ</a>
@@ -1109,11 +1174,6 @@ $(document).ready(function(e) {
 </header>
   <a href="javascript:void(0);" onclick="thanks_popup('enquiry-form.aspx');" class="fixedbutton" hidefocus="true" style="outline: none;">CAREER COUNSELLING</a>
 <div class="clear"></div>
-                    
-<div id="openpopup" class="duduoll_r">
-  <a onclick="spotCharacter_popup('popup_spotCharacter.aspx');" href="javascript:void(0);" hidefocus="true" style="outline: none;"><img src="images/arena-dudolls/dudoll_a.png" alt="Click here to claim your freebies" title="Click here to claim your freebies"></a>
-</div>
-<input type="hidden" id="imgDuddle" name="imgDuddle" value="dudoll_a.png">
 
 </section>
 <script type="text/javascript">
@@ -1287,7 +1347,7 @@ ul.placement_list li{padding:5px;margin:0 3px 5px 2px;float:left;font:normal 12p
  <div class="our-recruiters">
  <h2><a href="placement-assistance.aspx" title="PLACEMENTS" hidefocus="true" style="outline: none;">PLACEMENTS</a></h2>
  <p class="txt13"><strong>Record-breaking job placements in 2014</strong></p>
- <p class="highlight_txt">7000+ Arena students placed in top companies across India!</p>
+ <p class="highlight_txt">10,000+ Arena students placed in top companies across India!</p>
  </div> 
  <a href="placement-assistance.aspx" title="View More Recruiters" hidefocus="true" style="outline: none;"> 
  <div class="recruiters-corousel" style="padding-left:4px !important;margin-bottom:10px;"> 
@@ -1490,7 +1550,7 @@ var l2sontxt='LIVE CHAT';var l2sofftxt='LIVE CHAT'; var l2s_pht=escape(location.
                         <span class="inputfild">
 
 <select class="dropdown" title="search by location" name="selStateFooter" id="selStateFooter" onchange="getFooterCity('footerState')">
-<option value="ANDHRA PRADESH">ANDHRA PRADESH</option><option value="ASSAM">ASSAM</option><option value="BIHAR">BIHAR</option><option value="CHANDIGARH">CHANDIGARH</option><option value="CHHATISGARH">CHHATISGARH</option><option value="Delhi-NCR">Delhi-NCR</option><option value="GUJARAT">GUJARAT</option><option value="HARYANA">HARYANA</option><option value="HIMACHAL PRADESH">HIMACHAL PRADESH</option><option value="JAMMU and KASHMIR">JAMMU and KASHMIR</option><option value="JHARKHAND">JHARKHAND</option><option value="KARNATAKA">KARNATAKA</option><option value="KERALA">KERALA</option><option value="MADHYA PRADESH">MADHYA PRADESH</option><option value="MAHARASHTRA">MAHARASHTRA</option><option value="MEGHALAYA">MEGHALAYA</option><option value="ORISSA">ORISSA</option><option value="PUNJAB">PUNJAB</option><option value="RAJASTHAN">RAJASTHAN</option><option value="TAMIL NADU">TAMIL NADU</option><option value="UTTAR PRADESH">UTTAR PRADESH</option><option value="UTTARAKHAND">UTTARAKHAND</option><option value="WEST BENGAL">WEST BENGAL</option>
+<option value="ANDHRA PRADESH">ANDHRA PRADESH</option><option value="ASSAM">ASSAM</option><option value="BIHAR">BIHAR</option><option value="CHHATISGARH">CHHATISGARH</option><option value="Delhi-NCR">Delhi-NCR</option><option value="GUJARAT">GUJARAT</option><option value="HARYANA">HARYANA</option><option value="HIMACHAL PRADESH">HIMACHAL PRADESH</option><option value="JAMMU and KASHMIR">JAMMU and KASHMIR</option><option value="JHARKHAND">JHARKHAND</option><option value="KARNATAKA">KARNATAKA</option><option value="KERALA">KERALA</option><option value="MADHYA PRADESH">MADHYA PRADESH</option><option value="MAHARASHTRA">MAHARASHTRA</option><option value="MEGHALAYA">MEGHALAYA</option><option value="ODISHA">ODISHA</option><option value="PUNJAB">PUNJAB</option><option value="RAJASTHAN">RAJASTHAN</option><option value="TAMIL NADU">TAMIL NADU</option><option value="Telangana">Telangana</option><option value="UTTAR PRADESH">UTTAR PRADESH</option><option value="UTTARAKHAND">UTTARAKHAND</option><option value="WEST BENGAL">WEST BENGAL</option>
  
         </select>
                         <!--<select class="dropdown" title="dropdown box">
@@ -1580,10 +1640,7 @@ var l2sontxt='LIVE CHAT';var l2sofftxt='LIVE CHAT'; var l2s_pht=escape(location.
    
    
             </script>
-             <form method="post" action="#" id="Form1">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMjExNTU3MjAxMGRkLY1HNktkZpl2CE345bzveTkGZYQb1zXv1jMo5qSxLfY=">
-
-<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="2927320D">
+            
 
                       <div class="livechatslide" id="open_chat_window">
                         <span class="verdana20">LIVE CHAT</span>
@@ -1600,7 +1657,7 @@ var l2sontxt='LIVE CHAT';var l2sofftxt='LIVE CHAT'; var l2s_pht=escape(location.
 
                     </span>
                    </div>
-                   </form>
+                  
                       
                       <div class="close-button3"><img src="images/livechatclose.gif" alt="close" title="close"></div>
                 </div>
@@ -1678,16 +1735,13 @@ var mobile =
 		$('.footer').css({'position':'relative'});
 	}
 </script>
-<script type="text/javascript">
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-6782227-1']);
-  _gaq.push(['_trackPageview']);
-
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-6782227-1', 'auto', {'siteSpeedSampleRate': 100});
+  ga('send', 'pageview');
 </script>
 <!-- Google Code for Remarketing Tag -->
 <!-- Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. See more information and instructions on how to setup the tag on: http://google.com/ads/remarketingsetup -->
@@ -1705,14 +1759,6 @@ var google_remarketing_only = true;
 <img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1056869448/?value=0&amp;guid=ON&amp;script=0"/>
 </div>
 </noscript>
-<!-- Crazy egg code START here --> 
-<script type="text/javascript">
-	setTimeout(function(){var a=document.createElement("script");
-	var b=document.getElementsByTagName("script")[0];
-	a.src=document.location.protocol+"//dnn506yrbagrg.cloudfront.net/pages/scripts/0020/5774.js?"+Math.floor(new Date().getTime()/3600000);
-	a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
-</script>
-<!-- Crazy egg code END here --> 
  <!-- FOOTER SECTION END HERE   -->
  <div class="form_fill_popup"></div>
 
