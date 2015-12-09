@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teachwithmovies.org privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610060306id_/http%3A//www.teachwithmovies.org/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teachwithmovies.org privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209025613id_/http%3A//www.teachwithmovies.org/privacy-policy.html) for the most accurate reproduction.*
 
 # TeachWithMovies.com -- Privacy Policy
 
@@ -58,4 +58,4 @@ TWM reserves the right to modify this Privacy Policy at any time by notifying
 
 TeachWithMovies.com Users (through posting a notice at this location or by e-mail). 
 
-Create Lesson Plans from 350 Movies and Film Clips!
+Create Lesson Plans from 425 Movies and Film Clips!
