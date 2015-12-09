@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oxygenxml.com privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611082913id_/http%3A//www.oxygenxml.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oxygenxml.com privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209175218id_/http%3A//www.oxygenxml.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - oXygen XML Editor
 
@@ -67,6 +67,6 @@ Syncro Soft takes its users' privacy concerns very seriously. If you believe tha
     Craiova, 200082
     Romania
     
-    Email: [support@oxygenxml.com](mailto:support@oxygenxml.com)
+    Email: ['support@oxygenxml.com'](mailto:support@oxygenxml.com)
 
 In your letter, please describe in as much detail as possible, the ways in which you believe that the Privacy Policy has not been followed. We will investigate your complaint promptly. 
