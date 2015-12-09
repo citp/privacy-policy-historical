@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the popjam.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607154140id_/http%3A//mindcandy.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the popjam.com privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209174556id_/http%3A//mindcandy.com/privacy) for the most accurate reproduction.*
 
 # Mind Candy
 
