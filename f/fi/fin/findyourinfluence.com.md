@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the findyourinfluence.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626012653id_/http%3A//www.findyourinfluence.com/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the findyourinfluence.com privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209182012id_/http%3A//www.findyourinfluence.com/PrivacyPolicy) for the most accurate reproduction.*
 
 # Find Your Influence - Privacy Policy
+
+### Privacy Policy
 
 **Personal information**
 
@@ -40,7 +42,8 @@ By using our site you consent to our privacy policy.
 
 **Contact us**
 
-**If you have questions regarding this privacy policy you may contact us using the information below:** Find Your Influence  
+**If you have questions regarding this privacy policy you may contact us using the information below:**  
+Find Your Influence  
 7333 E Doubletree Ranch Rd, D270  
 Scottsdale, AZ 85258  
 Info@findyourinfluence.com 
