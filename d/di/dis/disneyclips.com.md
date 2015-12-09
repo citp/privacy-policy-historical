@@ -1,8 +1,16 @@
-> *The following text is extracted and transformed from the disneyclips.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607144047id_/http%3A//www.disneyclips.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the disneyclips.com privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209135130id_/http%3A//www.disneyclips.com/privacy.html) for the most accurate reproduction.*
 
 # Disneyclips.com - Privacy Policy
 
-This website uses third-party advertising companies to serve ads when you visit it. These companies may use information ( **not** including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you.
+What's new?
+
+December 1st 2015
+
+8 clip art, featuring Christmas, Winter Season, Donald Duck, Daisy, Minnie Mouse, Hercules, Beauty and the Beast, Cars and The Good Dinosaur, plus coloring pages!
+
+ ***** See the [**Site Map**](https://web.archive.org/web/20151209135130id_/http%3A//www.disneyclips.com/sitemap.html) for a better view of the latest additions.
+
+This website uses third-party advertising companies to serve ads when you visit it. These companies may use information ( **NOT** including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you.
 
 For more information, [**click here**](http://www.google.com/privacy_ads.html).
 
@@ -14,15 +22,13 @@ Disneyclips.com is not responsible for the content or privacy policies of websit
 
 Please be advised that this privacy policy may be changed in the future. Return to see any changes made.
 
-This page was last updated on March 16th 2009. 
+This page was last updated on March 16th 2009.
 
-*See the [**Site Map**](https://web.archive.org/web/20150607144047id_/http%3A//www.disneyclips.com/sitemap.html) for a better view of the latest additions  
-
-
-| 
-
- _June 1st 2015_
-
-72 new images, featuring Disney Babies, Palace Pets, Inside Out, Oliver and Company, Jojo's Circus and Snow White and the Seven Dwarfs, plus 37 new coloring pages.  
   
----|---
+
+
+*See the [**Site Map**](https://web.archive.org/web/20151209135130id_/http%3A//www.disneyclips.com/sitemap.html) for a better view of the latest additions
+
+December 1st 2015
+
+8 clip art, featuring Christmas, Winter Season, Donald Duck, Daisy, Minnie Mouse, Hercules, Beauty and the Beast, Cars and The Good Dinosaur, plus coloring pages!
