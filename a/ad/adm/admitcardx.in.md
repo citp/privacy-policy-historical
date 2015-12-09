@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the admitcardx.in privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610045140id_/http%3A//admitcardx.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the admitcardx.in privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209182947id_/http%3A//admitcardx.in/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Admitcardx.in
+# Privacy Policy - Admit Card, Results, Recruitment, Notification
 
 The privacy of our visitors on admitcardx.in is very important for us. If you require more details or have any query about our privacy frankly ask any question on our  **[contact us](http://admitcardx.in/contact-us/)** Page
 
