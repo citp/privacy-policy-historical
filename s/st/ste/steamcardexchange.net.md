@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the steamcardexchange.net privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120060157id_/http%3A//www.steamcardexchange.net/index.php%3Fprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the steamcardexchange.net privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209143543id_/http%3A//www.steamcardexchange.net/index.php%3Fprivacy) for the most accurate reproduction.*
 
-# Steam Card Exchange :: Privacy Policy
+# Steam Card Exchange
 
 **Collection of Personal Information**
 
@@ -24,6 +24,8 @@ Non-Personal information we collect and use include but are not limited to:
   * Booster Packs
 
 
+
+In case we combine personal information with non-personal information we will classify and treat the combined information as personal information for as long as it remains combined.
 
 **Web browser cookies**
 
@@ -50,4 +52,9 @@ To opt out of the DART cookies you may visit the Google ad and content network p
 Tracking of users through the DART cookie mechanisms are subject to Google’s own privacy policies.  
 Other Third Party ad servers or ad networks may also use cookies to track users activities on this website to measure advertisement effectiveness and other reasons that will be provided in their own privacy policies, SteamCardExchange.net has no access or control over these cookies that may be used by third party advertisers.
 
-_This privacy policy was last modified on Wednesday, 26 February 2014_
+**AdBlock Plus - Acceptable Ads**
+
+Our website is part of the acceptable ads program of AdBlock Plus, you can find informations about it here: [Allowing acceptable ads in Adblock Plus](https://adblockplus.org/en/acceptable-ads).  
+The forum thread you can find here: [Adblock Plus Forum](https://adblockplus.org/forum/viewtopic.php?f=12&t=28759&sid=35a7d162e618c5ff9d40c062ac607cba)
+
+_This privacy policy was last modified on Wednesday, 18 March 2015_
