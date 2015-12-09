@@ -1,85 +1,87 @@
-> *The following text is extracted and transformed from the coolmath4kids.com privacy policy that was archived on 2015-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150228095101id_/http%3A//www.coolmath.com/privacyp.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coolmath4kids.com privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209031944id_/http%3A//www.coolmath.com/privacyp) for the most accurate reproduction.*
 
 # Cool Math - Privacy Policy
 
-**Effective Date: 04/09/2014**
+Effective Date: April 8, 2015
 
- **We at Coolmath.com, LLC ("Coolmath", "we”, "us”, "our”) want everyone's visit here to be enjoyable and safe. This privacy policy tells you what information we collect on the Coolmath Sites, and how we maintain and use that information. We may update this privacy policy to reflect changes to our information practices. If we make any material changes to our privacy policy, we will notify you by means of notice on the Site and this page prior to the changes becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices. Your continued use of the Coolmath Sites following the posting of any change shows your acceptance of the changes. This privacy policy covers the collection and use of information while on our sites www.coolmath-games.com, www.coolifiedgames.com, www.spikesgamezone.com, www.sciencemonster.com, www.financefreak.com, www.coolmath4teachers.com, www.coolmath4parents.com, www.coolmath4kids.com, and www.coolmath.com (Collectively, the "Coolmath Sites”).**
+**This Privacy Policy Applies to Our Sites and Apps**
 
- **If we make material changes to how we use Personally Identifiable Information collected from children under age 13, we will notify you by means of a notice on this Site and may require parents to provide their email address in order for us to obtain verifiable parental consent for the new uses of the child's Personally identifiable information.**
+This Policy describes how we treat personal information on the websites where it is located. It describes information we collect from both children and adults.  It also applies to our Coolmath Games app. By interacting with us, you consent to these practices.
 
- **If you have questions or concerns regarding our privacy policy or practices, please contact us at **
+This policy does not apply to other Coolmath websites, including coolmath-games.com. [View the Coolmath Games Privacy Policy](http://www.coolmath-games.com/privacyp).
 
-**Information Collected **
+**We Collect Information From and About Users**
 
-**We do not collect any traditional Personally Identifiable Information (name, email address, phone number) about our users, however if you choose to provide such information within your email to us we may use it to respond to your requests. We receive email addresses only when you send email messages to us. You do not need to send us any email messages to use the Coolmath Sites. If you are under 13 years old, please do not send us any email messages. Under the updated COPPA regulations, persistent identifiers, such as browser cookies and IP addresses, are now also considered personally identifiable information. We only allow our advertisers to use browser cookies once users have identified themselves as over 12 years old.**
+If a person uses our website, we may collect information about their browser used or IP address. We might look at what site a user came from, or visits next.  We may also collect information about what activity the user did or how long the user stayed on our site. If you use our mobile app, we might collect device identifiers. We might look at how often you use the app and where you downloaded it.
 
- **If you send us an email via our contact us page, we will only use that information to respond to or address your inquiry. If we know you are 12 years old or under, we will delete your email.**
+**We Collect Information Passively**
 
- **Analysis of Coolmath Traffic **
+For our traffic tracking, we use Google Analytics and Adobe analytics. These services use cookies (not the yummy kind) to help us understand our traffic. The information gathered is anonymous and is never tied to any information that may personally identify you. We use this data to understand things like what pages have been visited and how long our users stay on our site. This information is used only for internal purposes and is invaluable to us because it lets us know what you like and want more of, so we can continue to make Coolmath better. It's also really important for us to be able to understand our traffic so we know when we need to upgrade our servers! Without this info, we wouldn't have a clue!
 
-**For our traffic tracking, we use Google Analytics and Adobe analytics. These services use cookies (not the yummy kind) to help us understand our traffic. The information gathered is anonymous and is never tied to any information that may personally identify you. We use this data to understand things like what pages have been visited and how long our users stay on our site. This information is used only for internal purposes and is invaluable to us because it lets us know what you like and want more of, so we can continue to make Coolmath better. It's also really important for us to be able to understand our traffic so we know when we need to upgrade our servers! Without this info, we wouldn't have a clue!**
+**We Use Information as Disclosed and Described Here**
 
- **Cookies **
+**We use information for analytics and to improve our products and services. **We might use information to customize a user’s experience with us.
 
-**Cookies and beacons are industry standard for website traffic monitoring (for sites and advertisers) and you will receive them from most websites you visit. Our goal at Coolmath is to have these tools used as safely as possible with our users. To this end, we are very careful to only work with the most reputable of advertising networks who adhere to all IAB (Interactive Advertising Bureau) policies and fully comply with all privacy laws, including COPPA (Children's Online Privacy Protection Act).**
+**We use information for lesson and game functionality**. For example, we may use cookies to allow users to resume their place within a game.
 
- **Coolmath uses cookies to track game progress and level completion. We do not link the information we store in cookies to any Personally Identifiable Information. The use of cookies by third parties is not covered by our privacy policy. We have no access or control over these cookies.**
+**We use information for security purposes.** For example, we may use information to protect our company or our users.
 
- **More Information **
+**We use information as otherwise disclosed or permitted by law.**
 
-**Here is more information about online advertising that's put out by the IAB (the Internet Advertising Bureau), so you can learn more about all of this:  
-**<http://www.iab.net/privacymatters/> ****
+**We May Share Information With Third Parties**
 
-**To view a full list of third parties who may set tracking technologies on our site, please[click here](https://web.archive.org/web/20150228095101id_/http%3A//www.coolmath.com/privacy-third-parties.htm). **
+**We will share information with third parties who perform services on our behalf. **For example, we share information with vendors who operate our sites or provide analytics.
 
-**Web Beacons **
+**We will share information if we think we have to in order to comply with the law or to protect ourselves.** For example, we will share information to respond to a court order or subpoena. We may share it if a government agency or investigatory body requests. We might share information when we are investigating potential fraud. 
 
-**We employ or our third party tracking utility partner employs a software technology called clear gifs (a.k.a. Web Beacons), that help us better manage content on our site by informing us what content is effective. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users. In contrast to cookies, which are stored on a user’s computer hard drive, clear gifs are embedded invisibly on Web pages and are about the size of the period at the end of this sentence. We do not tie the information gathered by clear gifs to our customer’s Personally Identifiable Information.**
+**We may share information with any successor to all or part of our business.**
 
- **Guidelines for Kids Under 13 **
+**We may share information with current and future companies within our corporate family.**
 
-**When you send us a question or comment, we will only use your e-mail address to respond to you. We do not sell your e-mail address. We will delete your email address immediately after fulfilling your request.**
+**We may share information for other reasons we may describe to you.**
 
- **Remember, always check with your parent or guardian when surfing the Web!**
+**Web You Can Control Cookies and Certain Tracking Tools**
 
- **Be sure to check out our tips for safe surfing!**
+Your browser may give you the ability to control cookies.  How you do so depends on the type of cookie.  Certain browsers can be set to reject browser cookies.  To control flash cookies, you can go [here](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html).  On our mobile app, we may use analytics tools like Flurry for Analytics. To learn more about Flurry or opt-out or go [here](http://www.flurry.com/legal-privacy/end-user-opt-out).  
 
- **Sharing of Personally Identifiable Information **
+**Our Do Not Track Policy.** Some websites have “do not track” features that allow you to tell a website not to track you. These features are not all uniform. We do not currently respond to those signals.  If you block cookies, certain features on our sites may not work. If you block or reject cookies, not all of the tracking described here will stop.
 
-**We will share your Personally identifiable information with third parties only in the ways that are described in this privacy policy. We do not sell your Personally Identifiable Information to third parties. Parents have a right to consent to our collection and use of their child’s personally identifiable information without also consenting to the disclosure of that information to third parties**
+**We Use Standard Security Measures**
 
- **We may provide your personally identifiable information to companies that provide services to help us with our business activities such as responding to your email inquiries. These companies are authorized to use your personally identifiable information only as necessary to provide these services to us.**
+The Internet is not 100% secure. We cannot promise that your use of our sites will be completely safe. We encourage you to use caution when using the Internet. This includes not sharing your passwords. We keep personal information as long as it is necessary or relevant for the practices described in this Policy. We also keep information as otherwise required by law.
 
- **We may also disclose your personally identifiable information as required by law, such as to comply with a subpoena, or similar legal process, when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request.**
+**These Platforms and Children**
 
- **If we are involved in a merger, acquisition, or sale of all or a portion of our assets, you will be notified via email and/or prominent notice on our Web site of any change in ownership or uses of your personally identifiable information, as well as any choices you may have regarding your personally identifiable information information.**
+On our app and coolmath.com site, we do not knowingly collect personally identifiable information from children under 13. If you are a parent or legal guardian and think your child under 13 has given us information, you can email us. You can also write to us at the address listed at the end of this policy. Please mark your inquiries “COPPA Information Request.”
 
- **Security **
+Coolmath4kids.com is meant for kids, parents, and teachers. While we do not collect personal information about children, under the Children’s Online Privacy Protection Act, parents have the right to the following notice with respect to coolmath4kids.com: you can review your child’s information by contacting us at:
 
-**The security of your personally identifiable information is important to us. We follow generally accepted industry standards to protect the personally identifiable information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security.**
+You may also request that we do not collect personal information from your child or have your child’s information deleted. To do so, contact us at the email address or phone number below.
 
- **Access to Personally Identifiable Information **
+Parents, you can take steps to protect your kids too.  To learn more about how to protect your child online, read the helpful [information provided by the FTC](http://www.onguardonline.gov/). Please also read [this bulletin](http://www.onguardonline.gov/articles/0031-protecting-your-childs-privacy-online).
 
-**If you provide us information through contacting us, and your information changes you may correct, update or delete inaccuracies in that information by contacting us at **
+**We Store Information in the United States**
 
-**We will retain your information as needed to provide you services. If you wish that we no longer use your information to provide you services, please contact us at the email address provided above. We retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.**
+Information we maintain is stored in the United States. If you live outside of the United States, you understand and agree that we may transfer your information to the United States. This site is subject to U.S. laws, which may not afford the same level of protection as those in your country.
 
- **Links to Other Sites **
+**We May Link to Other Sites or Have Third Party Services on Our Platforms We Don't Control**
 
-**Our site contains links to other sites that are not controlled by us. Please be aware that we are not responsible for the privacy practices of such other sites. We encourage you to be aware when you leave our site and read the privacy policies of each and every site that collects personally identifiable information. This privacy policy applies only to information collected by this site.**
+If you click on a link to a third party site, you will be taken to websites we do not control.  This includes social media sites. This policy does not apply to the privacy practices of these third parties. Read their privacy policies carefully. If you click on a link to another Coolmath site or service like coolmath-games.com, please note that this policy also does not apply to the privacy practices of those sites.
 
- **International Users **
+**Feel Free to Contact Us If You Have More Questions**
 
-**If you are located outside of the United States, please note that this site is hosted on our computer servers in the United States. Therefore, your information may be processed and stored in the United States. As a result, United States federal and state governments, courts, or law enforcement or regulatory agencies may be able to obtain disclosure of your information through laws applicable in the United States. Your use of the Coolmath Sites or your submission of any Personally identifiable information (such as your email address) to us will constitute your consent to the transfer of your Personally identifiable information outside of your home country to the United States, which may provide for different data protection rules than in your country.**
+If you have any questions about this Policy, please email us at
 
- **Questions or Concerns **
+You can also write to us or call at:              
 
-**If you have any questions or concerns about this policy, please send an email to  
-**
+Coolmath.com, LLC  
+122 East 42nd Street  
+Suite 1611  
+New York, NY 10168  
+Phone: (646) 762-5605
 
- **** **
+If you have any questions about this Policy or want to correct or update your information, please email us at
 
-or send a letter to Coolmath.com, LLC, Attn: Legal Department, 200 Park Avenue South, New York, NY 10003, or call us at
+**We May Update This Policy**
 
-******
+From time to time we may change our privacy policies. We will notify you of any material changes to our Policy as required by law. We will also post an updated copy on our website.  Please check our site periodically for updates.
