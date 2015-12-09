@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scnlog.eu privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610234331id_/http%3A//scnlog.eu/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scnlog.eu privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209075150id_/http%3A//scnlog.eu/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Scnlog.eu
 
