@@ -1,48 +1,81 @@
-> *The following text is extracted and transformed from the wm6software.net privacy policy that was archived on 2015-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150424094642id_/http%3A//www.wm6software.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wm6software.net privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209020948id_/http%3A//www.site5.com/legal/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy for WM6Software.net
+# Site5 - Privacy Policy
 
-We can be reached via e-mail at [contact@wm6software.net](mailto:contact@wm6software.net)
+Site5.com ("Site5") has created this privacy statement in order to demonstrate our commitment to privacy to our customers and users of our consulting services, online services, websites, and web services ("Services").
 
-For each visitor to our Web page, our Web server automatically recognizes the consumer's domain name and e-mail address (where possible).
+This privacy policy governs the manner in which Site5 uses, maintains and discloses information collected from its customers and users of our Services.
 
-We collect the domain name and e-mail address (where possible) of visitors to our Web page, the e-mail addresses of those who post messages to our bulletin board, the e-mail addresses of those who communicate with us via e-mail, the e-mail addresses of those who make postings to our chat areas, aggregate information on what pages consumers access or visit, user-specific information on what pages consumers access or visit, information volunteered by the consumer, such as survey information and/or site registrations.
+### 1\. Privacy
 
-The information we collect is used to improve the content of our Web page, used to customize the content and/or layout of our page for each individual visitor, used to notify consumers about updates to our Web site, shared with other reputable organizations to help them contact consumers for marketing purposes, used by us to contact consumers for marketing purposes.
+Site5 is committed to developing long lasting relationships based on trust. As such, Site5 will do everything in its power to ensure that your right to privacy is maintained and protected. Our Services are not directed at children under 13 years of age.
 
-With respect to cookies: We use cookies to store visitors preferences, record session information, such as items that consumers add to their shopping cart, record user-specific information on what pages users access or visit, alert visitors to new areas that we think might be of interest to them when they return to our site, record past activity at a site in order to provide better service when visitors return to our site , customize Web page content based on visitors' browser type or other information that the visitor sends.
+### 2\. Information We Collect
 
-If you do not want to receive e-mail from us in the future, please let us know by sending us e-mail at the above address.
+Site5 may request or collect personal information from online users in a variety of ways, including through online forms for ordering products and services, and other instances where users are invited to volunteer such information.
 
-From time to time, we make the e-mail addresses of those who access our site available to other reputable organizations whose products or services we think you might find interesting. If you do not want us to share your e-mail address with other companies or organizations, please let us know by calling us at the number provided above.
+The information we collect is personal information that identifies you personally, such as:
 
-From time to time, we make our _customer_ e-mail list available to other reputable organizations whose products or services we think you might find interesting. If you do not want us to share your e-mail address with other companies or organizations, please let us know by calling us at the number provided above.
+  * First & last name
+  * Postal address
+  * Telephone and fax numbers
+  * URL
+  * E-mail address
+  * Credit card information
+  * Other billing information
 
-If you supply us with your postal address on-line you will only receive the information for which you provided us your address.
 
-Persons who supply us with their telephone numbers on-line will only receive telephone contact from us with information regarding orders they have placed on-line.
 
-Please provide us with your name and phone number. We will be sure your name is removed from the list we share with other organizations 
+Site5 may also collect information about how users access our Services using a tracking ID unique to each user through the use of cookies or other similar means.
 
-With respect to Ad Servers: To try and bring you offers that are of interest to you, we have relationships with other companies that we allow to place ads on our Web pages. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address and clickstream information. For further information, consult the privacy policies of:
+### 3\. What are Cookies?
 
-http://www.cj.com/privacy.html  
-http://chitika.com/privacy_policy.php  
-http://dc.kontera.com/privacy_policy.html  
-http://www.google.com/privacy.htmlutm_source=aso&utm_campaign=ww-ww-et-ashp&utm_medium=link 
+A cookie is a piece of data stored on the user's computer tied to information about the user. We may use both session ID cookies and persistent cookies. For session ID cookies, once you close your browser or log out, the cookie terminates and is erased. A persistent cookie is a small text file stored on your computer’s hard drive for an extended period of time.
 
-From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will post the policy changes to our Web site to notify you of these changes and provide you with the ability to opt out of these new uses. If you are concerned about how your information is used, you should check back at our Web site periodically.
+Your browser’s help file contains information and instructions for removing persistent cookies. Session ID cookies may be used by Site5 to track user preferences while the user is using our Services. They also help to minimize load times and save on server processing. Persistent cookies may be used by Site5 to store whether, for example, you want your password remembered or not, and other information. Cookies used on Site5 websites do not contain personally identifiable information.
 
-Customers may prevent their information from being used for purposes other than those for which it was originally collected by e-mailing us at the above address.
+### 4\. Log Files
 
-Upon request we provide site visitors with access to all information [including proprietary information] that we maintain about them.
+Like most standard websites, we use log files. This information may include Internet protocol (IP) addresses, browser type, Internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, administer the site, track user's movement in the aggregate, and gather broad demographic information for aggregate use. However, none of the information stored in our log files, including but not limited to IP addresses, is linked to personally identifiable information.
 
-Consumers can access this information by e-mail us at the above address.
+### 5\. How we use this Information
 
-Upon request we offer visitors the ability to have inaccuracies corrected in contact information.
+Site5 may use the personally identifiable information collected by Site5 to contact customers regarding products and services offered by Site5 and, to the extent the User has agreed to it, by its trusted affiliates, independent contractors and business partners.
 
-Consumers can have this information corrected by sending us e-mail at the above address.
+We may also use this information for research purposes regarding the effectiveness of our Services and marketing and sales efforts. Site5 will not in any way share this information with a third party either for free or by selling it, unless you specifically authorize such disclosures.
 
-With respect to security: We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site.
+### 6\. Disclosure of Information
 
-If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number.
+Site5 may also disclose aggregate, anonymous, data based on information collected from Users to investors and potential partners. In such cases, statistical information only will be disclosed and personally identifiable data will be kept strictly confidential. In case Site5 is sold, the information collected from users may be transferred to the new owners.
+
+Site5 may from time to time engage third parties, including its own subsidiaries and affiliated companies, to preserve, analyze or otherwise store or manipulate data received by Site5 from its customers. In all such cases, such third party service providers will be required to treat all such data with the same degree of care as Site5 and they will be prohibited from disclosing such data to any other person or party, except as otherwise provided for in this Privacy Policy.
+
+### 7\. Special Offers and Updates
+
+Our customers and users will occasionally receive information on products, services, special deals, and possibly a newsletter. Out of respect for the privacy of our users we present the option to not receive these types of communications.
+
+### 8\. Service Announcements
+
+On rare occasions it is necessary to send out a strictly service related announcement, if, for instance, our service is temporarily suspended for maintenance. Generally, users may not opt-out of these communications, though they can deactivate their account. However, these communications are not promotional in nature.
+
+### 9\. Legal Disclaimer
+
+Though we make every effort to preserve your privacy, we may need to disclose personal information when required by law, if we have a good-faith belief that such action is necessary and required to comply with a current judicial proceeding, a court order or legal process served on Site5.
+
+Site5 websites contain links to other sites. Please be aware that Site5 is not responsible for the privacy practices of such other sites. We encourage you to read the privacy statements of each and every Web site that collects personally identifiable information. The Site5 Privacy Policy as described herein applies solely to information collected by Site5.
+
+### 10\. Maintenance of Information
+
+The information provided to Site5 is saved indefinitely and may be stored on one or more databases directly or indirectly maintained by Site5. Site5 employs industry standard security measures to protect the confidentiality of the information.
+
+While we cannot guarantee that loss, misuse or alteration to data will not occur; we make every effort to prevent such occurrences. Any other particularly sensitive information, such as credit card numbers collected for commercial transactions, is encrypted prior to transmission by you to Site5.
+
+### 11\. Your Responsibility
+
+You are responsible for the security of the login information, such as usernames and passwords, which give you access to your private information maintained by Site5. Make sure you keep login information in a safe place and do not share it with others.
+
+Note that key-loggers, viruses, or other surveillance devices can intercept login information on the computers from which you access our Services, so you should take precautions regarding such devices, especially from public computers. In addition, you should always log out from any relevant Services when you are not actively using them.
+
+### 12\. Questions
+
+Any questions concerning this Privacy Policy may be directed to .
