@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the restaurantbusinessonline.com privacy policy that was archived on 2015-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150410023709id_/http%3A//www.restaurantbusinessonline.com/general/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the restaurantbusinessonline.com privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209084119id_/http%3A//www.restaurantbusinessonline.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Restaurant Business
+# Privacy Policy - Restauant Business Magazine | Restaurant Business
 
 ## Your Privacy Rights
 
@@ -8,7 +8,7 @@ Last Revised: October 1, 2013
 
 #### Introduction
 
-Thank you for being a valuable member of Restaurant Business’online audience. You are important to us, and we respect your privacy. As used herein, "You" and "Your" refers to any individual, company, webcrawler, data aggregator or legal entity that accesses or otherwise uses the Site.
+Thank you for being a valuable member of Restaurant Business’ online audience. You are important to us, and we respect your privacy. As used herein, "You" and "Your" refers to any individual, company, webcrawler, data aggregator or legal entity that accesses or otherwise uses the Site.
 
 This policy (“Privacy Policy”) pertains to personal information collected through this website (www.restaurantbusinessonline.com) (the “Site”) and on Restaurant Business' (“ _Restaurant Business_ ”, “we”, “us” or “our”)  behalf through related websites managed by third parties. It does not pertain to information collected in other manners or offline.  California residents, please see your California Privacy Rights section below.
 
@@ -96,7 +96,7 @@ We reserve the right to disclose any Personal Information or Usage Data to compl
 
 Should you have any questions or concerns regarding these privacy policies, please call us at 630-574-5075 or send us an email at [cspinquire@cspnet.com](mailto:cspinquire@cspnet.com). This e-mail address is being protected from spam. You need JavaScript enabled to view it.
 
- **CSP Business Media, LLC**  
+ **Winsight, LLC**  
 1 Tower Lane, Suite 2000,  
 Oakbrook Terrace, IL 60181
 
