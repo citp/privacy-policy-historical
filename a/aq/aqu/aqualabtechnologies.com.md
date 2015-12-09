@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aqualabtechnologies.com privacy policy that was archived on 2015-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150508080728id_/http%3A//aqualabtechnologies.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aqualabtechnologies.com privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209183822id_/http%3A//aqualabtechnologies.com/privacy-policy) for the most accurate reproduction.*
 
 # AquaLabTechnologies.com | Privacy Policy
 
