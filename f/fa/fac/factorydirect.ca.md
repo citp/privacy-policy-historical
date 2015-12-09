@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the factorydirect.ca privacy policy that was archived on 2014-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140807185215id_/http%3A//www.factorydirect.ca/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the factorydirect.ca privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209193545id_/http%3A//www.factorydirect.ca/Privacy.aspx) for the most accurate reproduction.*
 
 # Canada’s best deals on Apple, Sony, Samsung, Unlocked Android, Blackberry, Panasonic, LG, Acer, JVC and many more. Canada’s discount liquidator – factorydirect.ca
 
@@ -63,10 +63,10 @@ Wholesale volume prices may be available to qualified resellers excluding
 product deals that are offered on sale, coupon or special promotion. 
 
   
-*Prices & availability are subject to change without notice.; availability are subject to change without notice.
+*Prices & availability are subject to change without notice.
 
 factorydirect.ca is not responsible for typographical errors or omissions.  
 Product images are for representation only, Product may not be exactly as shown.   
 Trademarks and logos are properties of their respective owners.   
-factorydirect and factorydirect.ca are registered Trade Names of Rlogistics Limited Partnership.  
+factorydirect and factorydirect.ca are registered business names of Rlogistics Limited Partnership.  
 501 Applewood Crescent , Concord, Ontario, Canada L4K 4J3. 1-866-907-7788. 
