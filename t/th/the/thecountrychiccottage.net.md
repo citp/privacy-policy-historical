@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thecountrychiccottage.net privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611145016id_/http%3A//www.thecountrychiccottage.net/p/terms-and-disclosure.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thecountrychiccottage.net privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209194433id_/http%3A//www.thecountrychiccottage.net/p/terms-and-disclosure.html) for the most accurate reproduction.*
 
 # Terms and Disclosure - * THE COUNTRY CHIC COTTAGE (DIY, Home Decor, Crafts, Farmhouse)
 
@@ -12,7 +12,9 @@ The Country Chic Cottage is written and managed by Angie Holden. The intention o
 This blog does accept compensation for some but not all opinions, reviews or other forms of company mentions. The owner of this blog is compensated to provide opinion on products, services, websites and various other topics. Even though the owner of this blog receives compensation for posts or advertisements, honest opinions, findings, beliefs, or experiences on those topics or products is always given. The views and opinions expressed on this blog are purely the blog’s own. Any product claim, statistic, quote or other representation about a product or service should be verified with the manufacturer, provider or party in question.  
   
   
-Some affiliate relationships with companies are in place at times. Affiliate programs offer compensation to the author of this blog when a visitor from this site clicks to signs up, buy or participate in a company offer or program. No one is required to participate if they do not wish.  
+Some affiliate relationships with companies are in place at times. Affiliate programs offer compensation to the author of this blog when a visitor from this site clicks to signs up, buy or participate in a company offer or program. No one is required to participate if they do not wish.
+
+The Country Chic Cottage is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to amazon.com.  
   
   
 **Featuring others:**  
