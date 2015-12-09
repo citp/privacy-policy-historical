@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the birdsontheblog.co.uk privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120124429id_/http%3A//birdsontheblog.co.uk/cookie-and-privacy-policies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the birdsontheblog.co.uk privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209173603id_/http%3A//birdsontheblog.co.uk/cookie-and-privacy-policies) for the most accurate reproduction.*
 
-# Cookie and Privacy Policies - Birds on the Blog
+# Cookie and Privacy Policies ⋆ Birds on the Blog
 
-**[Birds on the Blog](http://www.birdsontheblog.co.uk/ "Birds on the Blog")**
+**Birds on the Blog**
 
 **COOKIE AND PRIVACY POLICIES**
 
