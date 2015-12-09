@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cointiger.com privacy policy that was archived on 2014-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141206132138id_/http%3A//www.vendio.com/ecommerce/terms/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cointiger.com privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209182023id_/http%3A//www.vendio.com/ecommerce/terms/privacy) for the most accurate reproduction.*
 
 # Vendio Privacy Statement
 
@@ -76,10 +76,9 @@ If you have any questions about this privacy statement, or the privacy practices
 You can also contact us at: 
 
 Vendio Services, Inc.  
-1510 Fashion Island Blvd  
-Suite 100  
-San Mateo, CA 94404  
-(650)293-3500  
+18 W 18th Street  
+Floor 9  
+New York, NY 10011  
 
 
 **11\. Notification of Changes.**   
