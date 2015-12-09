@@ -1,75 +1,162 @@
-> *The following text is extracted and transformed from the landsend.com privacy policy that was archived on 2014-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141226192005id_/http%3A//www.landsend.com/customerservice/legal_policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the landsend.com privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209082707id_/http%3A//www.landsend.com/customerservice/legal_policies/privacy) for the most accurate reproduction.*
 
 # Lands' End | Customer Service | Legal Policies | Privacy
 
-### Contact Information
+### Last Updated: June 22‚ 2015
 
-For questions about this policy, please use our [Contact Us Form](https://www.landsend.com/customerservice/contact_us/), call 1-800-963-4816 or send an email to [landsend@landsend.com](mailto:landsend@landsend.com).
+This website or mobile application (“Site”) is owned and operated by Lands’ End‚ Inc. or an affiliated entity. The goal of this Privacy Policy is to inform you about the information we gather about you‚ how we use and share that information‚ and how we safeguard that information. This Privacy Policy applies to information collected via this Site‚ our retail locations‚ and our catalog business.
 
-### To manage your catalog or email subscriptions
+Your use of this Site‚ and any disputes arising from it‚ are subject to this Privacy Policy as well as our [Terms of Use](https://web.archive.org/customerservice/legal_policies/terms_of_use/) and all of its dispute resolution provisions‚ including arbitration‚ class action waiver‚ limitation on damages‚ and choice of law.
 
-To cancel your subscription to any of our catalogs, please call 1-800-963-4816 or send an email to [websiteinquiry@landsend.com](mailto:websiteinquiry@landsend.com?subject=Cancel%20my%20catalog%20subscription&body=Please%20include%20your%20full%20name%20and%20address,%20or%20the%20C%23%20found%20on%20the%20mailing%20label%20of%20one%20of%20your%20Lands%27%20End%20catalogs.). Please allow 2-4 weeks to process your request. You can manage you email subscription [here](http://www.landsend.com/customerservice/services/signup_email/).
+## Collection of Your Information
 
-### Your privacy at Lands' End
+Information You Provide to Us
 
-We value the trust you place in Lands' End, and we want you to be aware of the safeguards we have in place to respect your privacy. The below policy tells you about the information we gather about you and how we use it. If you have any questions or concerns about our privacy policy, please contact us at [myprivacy@landsend.com](mailto:myprivacy@landsend.com).
+We collect personal information from you when you interact with us via this Site‚ our retail locations‚ and/or our catalog business. Personal information is information that identifies you or is reasonably linked to you. The personal information we may collect includes your name‚ email address‚ mailing address‚ shipping address‚ phone number‚ and payment card information. When you ask us to ship an order‚ we collect the information you provide to us‚ such as the name‚ billing address‚ shipping address‚ and phone number of recipients. Here are some examples of ways in which you may choose to interact with us: 
 
-#### Types of personal information we may gather:
-
-Lands' End gathers personal information from you in order to provide superior service, communicate offers on merchandise and services which we believe will be of interest to you, customize our communications to you, administer our business, and improve your shopping experience. The following are examples of the personal information we gather from you.
-
-  * **Purchases** \- When you place an order, you give us your name, address, phone number and/or email address plus payment information.
-  * **Non-Purchases** \- There may be instances when you are not making a purchase at Lands' End and you give us your name, address, phone number and/or email address, and where applicable, payment information, or when somebody else gives us your name, address, phone number and/or email address, and where applicable, payment information. Some situations when this may occur are when you return or exchange merchandise, receive a gift from Lands' End or enter a contest or participate in a promotion or survey sponsored by Lands' End.
-  * **Personal Shopping Account** \- If you create a Personal Shopping Account with us so that you may place orders more conveniently, you authorize us to store your name and shipping address(es), and payment information.
-  * **Catalog requests** \- We need your name and address in order to mail you a catalog. We also require a phone number or email address so that we can contact you in the unlikely event there is an error in your address or other delivery problem. To stop receiving catalogs, simply call **1-800-800-5800** or email [websiteinquiry@landsend.com](mailto:websiteinquiry@landsend.com).
-  * **email updates** -When you subscribe to receive Lands' End e-mail updates featuring exclusive offers (like free shipping), product news, special discounts, contest announcements and more, we require your e-mail address. You can [unsubscribe anytime](http://www.landsend.com/customerservice/services/signup_email/).
+  * Creating an personal account on our Site;
+  * Making an online‚ offline retail location, or catalog purchase from us;
+  * Requesting customer service or otherwise contacting us;
+  * Submitting a story‚ testimonial‚ rating or review‚ or other content to the Site for possible posting on the Site;
+  * Participating in a contest‚ sweepstake‚ promotion‚ or survey; 
+  * Opting in to a text message program; or
+  * Otherwise submitting personal information to us
 
 
 
-#### How we use personal information:
+Information from Other Sources
 
-We ask you for certain kinds of personal information in order to provide you with the services you request and to process and deliver your order. We also may use your personal information to provide you with customized communications and keep you updated on the latest promotions or products that may interest you.
+We also may collect information about you from third party sources. The information we collect from third party sources may include things like demographic information and purchase preference information. The third party sources may include public databases‚ social media platforms‚ data append services‚ data sharing cooperatives‚ and others.
 
-In addition, our site utilizes 'cookies.' Cookies do not gather any of your personally identifiable information. They do allow us to provide you with a more personalized shopping experience and enable you to fully interact with and complete your transaction on our site.
+Automated Information Collection
 
-Lands' End shares its customer information with its affiliated companies, including Sears® and Kmart®. We also may share your information with our business partners (below) in order to provide you with certain services. Finally, we do make our mailing list available to carefully screened companies whose products or services might interest you. If you prefer to have your name withheld, please call us toll-free at **1-800-800-5800** or send an email to [websiteinquiry@landsend.com](mailto:websiteinquiry@landsend.com?subject=Cancel%20my%20catalog%20subscription&body=Please%20include%20your%20full%20name%20and%20address,%20or%20the%20C%23%20found%20on%20the%20mailing%20label%20of%20one%20of%20your%20Lands%27%20End%20catalogs.)
+We receive and store certain types of technological information when you interact with our Site‚ our emails‚ and our online advertisements. This information is intended to help our Site work properly‚ to help us evaluate use of our Site‚ and to support our website analytics and marketing campaigns. Here are some examples of such information: 
 
-In addition, Lands' End cooperates in advertising member networks with other consumer entities where we may communicate your personal information so that select members may inform you about products or services that might interest you. If you prefer to have your name withheld, please call us toll-free at **1-800-800-5800** or send an email to [websiteinquiry@landsend.com](mailto:websiteinquiry@landsend.com?subject=Cancel%20my%20catalog%20subscription&body=Please%20include%20your%20full%20name%20and%20address,%20or%20the%20C%23%20found%20on%20the%20mailing%20label%20of%20one%20of%20your%20Lands%27%20End%20catalogs.).
-
-If you first became a Lands' End customer through a transaction with our parent company, Sears Holdings Corporation, we adhere to Sears' privacy policy with respect to any personal information that you may share with us and with the business partners (below) that help this site function or assist us in fulfilling your order.
-
-For more about your privacy at Lands' End, please call us toll-free at 1-800-800-5800 or email us, including your name and mailing address, at [myprivacy@landsend.com](mailto:myprivacy@landsend.com).
-
-Along with respecting your privacy, Lands' End diligently strives to keep your personal information safe and secure. (Please see our [Security Policy.)](https://web.archive.org/web/20141226192005id_/http%3A//www.landsend.com/customerservice/security/)
-
-#### What are cookies?
-
-'Cookies' are small data files that one of our servers sends to your computer via your Web browser when you connect with our Web site. Their primary function is to help us remember you by tracking your browsing sessions, which enables us to collect non-personally identifiable information (such as your IP address, browser type, and domain name, etc.), and provide you with a more relevant shopping experience.
-
-#### How we use cookies:
-
-We use cookies to help process your order through our website and to provide you with a personalized shopping experience. To place an order and complete your transaction on landsend.com, you must have 'cookies' enabled on your Web browser. (If you don't want to enable cookies but would like to place an order, please call us toll free at **1-800-800-5800**.) You must also have cookies turned on in order to create a personal account on landsend.com and to access that online account.
-
-#### Cookies also help us:
-
-  * determine which features and tools you use, and which pages you visit on landsend.com
-  * remember which items you've placed in your shopping bag
-  * enable you to checkout faster if you've created an account with us
+  * We may collect technical information like your internet protocol address‚ your device operating system and browser type‚ the address of a referring website‚ if any‚ and the pages you view on our Site.
+  * We use “cookies” to recognize you as you use or return to the Site. This allows us to provide a continuous and more personalized shopping experience for you. A cookie is a small text file that a website or email may save to your browser and store on your computer‚ tablet or smartphone.
+  * We may also use web beacons (also called pixel tags or clear gifs). These web beacons allow us to know if a certain page was visited‚ an email was opened‚ or if ad banners on our Site and other sites were effective.
 
 
 
-In addition, we use cookies to provide you with advertisements and promotions across various other websites from Lands' End based on your web browsing behavior and to similarly allow other entities, in which you may be interested, to provide you with their advertisements and promotions across various other websites. If you would like more information about this specific practice or would like to opt out of participating in this particular practice, please [click here](http://www.acerno.com/optout.html).
+Single Sign-On Services
 
-If you have any concerns about leaving cookies on your computer for extended periods, you can delete them using your browser preferences or privacy menus.
+We may also use single sign-on services that allow you to sign into this Site using your third-party social networking login credentials for accounts such as Facebook‚ Google‚ or Yahoo. This allows you to link your existing social network profile to your Site account. Once connected‚ you will be able to post content on the third-party website from this Site and interact with your friends from the third-party site(s). Any information or content that you post to the third-party website will be subject to that website’s own privacy policy. We may also access and use available information from your third-party social network profile‚ such as your name‚ location‚ profile picture and information‚ gender‚ list of friends‚ friends’ profiles or postings‚ email address‚ wall postings and news feed.
 
-#### Our Business Partners
+## Use of Your Information
 
-In order to ship and track merchandise, we make your name and address available to certain companies that help us provide you with those services.
+Lands’ End uses your information to offer and provide our products and services and to support our core business functions. These include order or service fulfillment‚ internal business processes‚ marketing‚ authentication‚ loss and fraud prevention‚ public safety and legal functions. Here are some examples of the ways in which we use your information: 
 
-#### Mailing List Preference
+  * To fulfill your requests for products and services and communicate with you about those requests;
+  * To register and service your account;
+  * To administer surveys‚ sweepstakes‚ contests‚ and promotions;
+  * To provide customer service and alert you to product information‚ including recalls;
+  * To help us improve and customize our service offerings‚ websites‚ and advertising;
+  * To send you information about our products‚ services‚ and promotions via various channels including email; and
+  * To protect the security or integrity of our websites and our business.
 
-If you do not want to have your name shared with non-affiliated companies, or if you no longer wish to receive Lands' End catalogs or emails, please call **1-800-800-5800**. You can also contact us via email at [websiteinquiry@landsend.com](mailto:websiteinquiry@landsend.com?subject=Cancel%20my%20catalog%20subscription&body=Please%20include%20your%20full%20name%20and%20address,%20or%20the%20C%23%20found%20on%20the%20mailing%20label%20of%20one%20of%20your%20Lands%27%20End%20catalogs.). Please include your name and mailing address in the message. If you would like to no longer receive emails from Lands' End, please unsubscribe or click on the 'unsubscribe' link included in all emails sent by Lands' End.
 
-#### Children's Privacy at Lands' End
 
-Lands' End does not sell products for purchase by children. We sell children's products for purchase by adults. If you are under 18, you may use our website with the involvement of a parent or guardian. Moreover, Lands' End is concerned about the safety of children. Occasionally, Lands' End may conduct promotions or contests that allow children under the age of 13 to participate. In those instances, we will use reasonable efforts to obtain verifiable parental consent before collecting any personally identifiable information from these participants. Rest assured that Lands' End will never knowingly request personally identifiable information from anyone under the age of 13 without making reasonable efforts to obtain verifiable parental consent. In addition, Lands' End will not condition a child's participation in an event on the provision of more personal information than is reasonably necessary to participate in the activity, and Lands' End will not sell that information and will only use that information in the manner that we disclose in the promotion or contest. In those instances where Lands' End collects personal information from a child, that child's parents or guardians will have the ability to review the information provided by their child by sending an email message to [myprivacy@landsend.com](mailto:myprivacy@landsend.com) or to the email address listed on the landsend.com web page that collected their child's information. Parents or guardians may also request that Lands' End not make contact with their child. If such a parental request is received, Lands' End will make all reasonable efforts to make sure that no communications are sent to the child.
+We may use your personal information to allow you to send messages to a friend through this Site. By using this functionality‚ you are telling us that you are entitled to use and provide us with your friend’s name and email address.
+
+To accomplish these purposes‚ we may combine personal and non-personal information we collect with offline information‚ including information from third parties. We may transfer or disclose your information with our corporate affiliates for these purposes.
+
+## Disclosure of Your Information to Third Parties
+
+We disclose your personal information to third parties with your prior consent or under the following circumstances: 
+
+Sears Holdings Corporation 
+
+On April 4‚ 2014‚ Lands’ End‚ Inc. separated from Sears Holdings Corporation. Post-separation‚ Lands’ End and Sears Holdings operate as independent companies. Lands’ End continues to offer products for sale through Lands’ End Shops at Sears‚ located in certain Sears retail stores. Lands’ End also continues to participate in the Shop Your Way member loyalty program operated by Sears Holdings. As required by the separation agreements‚ Lands’ End shares with Sears Holdings the customer transaction information for customers who engage in transactions at Lands’ End Shops at Sears and for Shop Your Way members who engage in transactions via any Lands’ End catalog‚ website‚ or mobile application. 
+
+Service Providers
+
+Lands’ End may share your personal information with service providers and other third parties who need access to your information to provide operational or other support services‚ such as payment processors‚ shipping agents‚ product fulfillment vendors‚ and companies that help us improve our product and service offers and our Site. We require our service providers to keep your information secure. In addition‚ unless otherwise disclosed to you‚ our service providers are not authorized to use or disclose your personal information for their own marketing purposes.
+
+Legal Requirements‚ Safety‚ and Loss Prevention
+
+Lands’ End may disclose your personal information in other special circumstances. For example‚ we may provide personal information about you to regulatory authorities and law enforcement officials in accordance with applicable law‚ when we otherwise believe in good faith that the law requires it‚ or to respond to requests from government authorities. There may be instances when we may use or disclose your personal information in order to protect or defend the legal rights‚ property or operations of Lands’ End or our employees or agents; to protect the rights‚ privacy‚ safety or security of users‚ members or others; to protect against fraud; and to allow us to pursue available remedies or limit the damages that we may sustain.
+
+Marketing Purposes 
+
+From time to time‚ Lands’ End may share your personal information with carefully selected companies who may offer you products and services of interest. To opt out of this sharing‚ please contact us via one of the channels listed in the [Contact Us](https://www.landsend.com/customerservice/contact_us/) section of this Privacy Policy.
+
+Business Transfers
+
+Lands’ End may transfer any information we have about you in connection with a merger or sale (including transfers made as part of insolvency or bankruptcy proceedings) involving all or part of Lands’ End or as part of a corporate reorganization or stock sale or other change in corporate control.
+
+## Your Choices
+
+If you would like to opt out of Lands’ End promotional emails‚ please follow the unsubscribe link at the bottom of each such email.
+
+If you would like to opt out of receiving Lands’ End catalogs‚ please contact us via one of the channels listed in the [Contact Us](https://www.landsend.com/customerservice/contact_us/) section of this Privacy Policy.
+
+If you contact us by email or mail‚ please be sure to include your full name‚ the types of communications you would like to receive or not receive‚ and your contact information. For example‚ if you would like to opt-out of receiving catalogs‚ make sure to include your mailing address in your communication to us. 
+
+Please allow a reasonable time for your preferences to be processed. It may take up to 10 days to process your requests related to email and 2-4 weeks to process other requests.
+
+Please be aware that‚ even if you opt out of receiving marketing communications from us‚ we may still contact you for transactional purposes such as customer service‚ product information‚ service notices‚ or recalls. We may also contact you with questions or information regarding your order‚ such as regarding order status‚ shipment‚ or refunds.
+
+## Interest-Based Advertisements/Online Advertisements 
+
+Lands’ End works with third party service providers who help serve ads on our behalf on various online advertising networks. The online ad networks may use your browsing history across participating websites to show you interest-based advertisements on those websites. You may see ads for Lands’ End on participating websites based on how you browse our Site as well as how you browse those websites. 
+
+To learn more about interest-based advertising‚ including how to opt out‚ click [here](http://www.networkadvertising.org/choices). Please note that the opt-out mechanism relies on cookies to remember your choices with respect to ad-serving on websites. We may also use technologies‚ such as our own cookies‚ to provide you with personalized online display advertising tailored to your interests. To opt out of our cookies used for this online advertising‚ click [here](http://dtmc.landsend.com/adinfo/choice/prod/?type=fpc&cid=2821&cname=LandsEnd&cmagic=56cb94&clogo=LandsEnd.png&loc=us&lang=en-us). If you delete your cookies‚ use another computer or device‚ or change browsers‚ you will need to repeat the opt-out process. Other websites you visit may offer their own opt-outs. If you do opt-out of interest-based advertisements‚ you may still see advertisements on websites you visit‚ but those ads will not be based on your browsing behavior.
+
+## Disabling Cookies
+
+Most web browsers allow you to exercise control over cookie files on your computer by erasing them‚ blocking them‚ or notifying you when such a file is stored. Please take a look at your particular browser for instructions on this function. You can choose to browse our Site without accepting our Site’s cookies. These cookies allow us to recognize you from page to page‚ and they support your transactions with us. Without these cookies enabled‚ you may not be able to complete a purchase or take advantage of certain Site features. 
+
+## Children Under 13
+
+This Site is a general audience website‚ and does not knowingly collect information online from children under 13 without prior parental consent. Please contact us via one of the channels listed in the [Contact Us](https://www.landsend.com/customerservice/contact_us/) section of this Privacy Policy if you believe we have collected information from your child so that we can work to delete it.
+
+## Removal of Content Posted by a Minor
+
+If you are under 18 and have an account on our Site‚ you may ask us to remove content or information that you have posted to the Site. To request to remove posted content‚ please contact us via one of the channels listed in the [Contact Us](https://www.landsend.com/customerservice/contact_us/) section of this Privacy Policy. Please note that your request does not ensure complete or comprehensive removal of the content because your content may‚ for example‚ have been reposted by another user.
+
+## Information Security
+
+Lands’ End maintains reasonable and appropriate physical‚ administrative‚ and technical controls to protect your personal information. For example‚ we use Secure Sockets Layer (SSL) technology‚ the industry standard in transferring information‚ to process orders. While we work very hard to protect your privacy‚ no method of security is guaranteed to be effective‚ and we cannot be responsible for the actions of those who may gain unauthorized access to your personal information. Lands’ End makes no warranties‚ express‚ implied or otherwise‚ as to the ultimate effectiveness of our reasonable and appropriate safeguards.
+
+## Mobile Applications 
+
+Lands’ End mobile applications may collect certain information automatically‚ such as the type of mobile device you use‚ the temporary or persistent unique device identifiers (UDIDs) placed by us or our service providers‚ the IP address of your mobile device‚ your mobile operating system‚ the type of mobile Internet browsers you use‚ and information about the way you use our mobile applications 
+
+Our mobile applications may also collect precise information about the location of your device if you first provide permission through your device before our mobile applications obtain such location information from technologies like GPS‚ Wi-Fi‚ or cell tower proximity (or a combination of these technologies). Lands’ End and our service providers may use and store this information‚ in combination with other location-based information such as IP address and billing or postal code provided by you at time of your mobile application registration‚ to provide enhanced location based services‚ such as store specific services‚ search results‚ and other content. To opt-out of the collection of location data‚ see below.
+
+There are multiple options for users of our mobile applications to opt-out of the collection and use of your precise location information
+
+  * You can stop all collection of information by our mobile applications easily by uninstalling the mobile application. You may use the standard uninstall processes available as part of your mobile device or via the mobile application marketplace or network. If you uninstall a mobile application from your device‚ the Lands’ End unique identifier associated with your device may continue to be stored. If you re-install the application on the same device‚ Lands’ End will be able to re-associate this identifier to your previous transactions.
+  * You may at any time opt-out from further allowing us to have access to your location data by adjusting the permissions in your mobile device.
+
+
+
+## Changes to this Privacy Policy
+
+Lands’ End may update this Privacy Policy from time to time. Please check this Privacy Policy periodically for changes. We will also notify you of material changes either by email or by a notice on this Site 
+
+## International
+
+Your personal information may be stored and processed in the United States or any other country in which Lands’ End or its service providers maintain facilities. By using this Site‚ you consent to the transfer of information to countries outside of your country of residence‚ including the United States‚ which may have different data protection rules than in your country. This Site is controlled and operated by us from the United States and is not intended to subject us to the laws or jurisdiction of any state‚ country or territory other than that of the United States.
+
+## California Privacy Rights
+
+If you are a California resident and Lands’ End customer you have the right to request information from Lands’ End regarding the manner in which Lands’ End shares certain categories of your personal information with third parties for the third parties’ direct marketing purposes. California law provides that you have the right to submit a request to Lands’ End at its designated address and receive the following information:
+
+  * The categories of information Lands’ End disclosed to third parties for the third parties’ direct marketing purposes during the preceding calendar year;
+  * The names and addresses of third parties that received such information; and
+  * If the nature of a third party's business cannot be reasonably determined from the third party’s name‚ examples of the products or services marketed.
+
+
+
+You are entitled to receive a copy of this information in a standardized format and the information will not be specific to you individually. Lands’ End’s designated email address for such requests is [websiteinquiry@landsend.com](mailto:websiteinquiry@landsend.com). 
+
+## Contact Us 
+
+Request to Receive Catalogs: If you would like to receive our catalogs‚ please call **1-800-800-5800** [websiteinquiry@landsend.com](mailto:websiteinquiry@landsend.com). We will need your name‚ address‚ and telephone number to mail catalogs to you. 
+
+Request to Stop Catalogs: If you would like to stop receiving our catalogs‚ please call **1-800-800-5800** or email [websiteinquiry@landsend.com](mailto:websiteinquiry@landsend.com). It may take 2-4 weeks to process your request. 
+
+Request to Opt Out of Third Party Marketing: We may make portions of our catalog and e-mail lists available to carefully screened companies whose products or services might interest you. If you prefer to have your name withheld from these lists‚ please call us toll-free at **1-800-800-5800** or send an email to [websiteinquiry@landsend.com](mailto:websiteinquiry@landsend.com).
+
+General Privacy Questions: If you have questions about this Privacy Policy‚ please use our [Contact Us Form](https://www.landsend.com/customerservice/contact_us/)‚ call **1-800-963-4816** or send an email‚ including your name and mailing address‚ to [websiteinquiry@landsend.com](mailto:websiteinquiry@landsend.com). 
