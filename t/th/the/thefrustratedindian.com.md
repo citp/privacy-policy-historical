@@ -1,11 +1,9 @@
-> *The following text is extracted and transformed from the thefrustratedindian.com privacy policy that was archived on 2015-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150501210706id_/http%3A//thefrustratedindian.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thefrustratedindian.com privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209154608id_/http%3A//www.thefrustratedindian.com/privacy-policy) for the most accurate reproduction.*
 
-# The Frustrated Indian - Privacy Policy
-
-##  Privacy Policy 
+# Privacy Policy - The Frustrated Indian
 
 Your privacy is very important to us.  
-Accordingly, we have developed this Policy in order for you to understand how we collect, use, communicate and disclose and make use of personal information.  
+Accordingly, we have developed this policy in order for you to understand how we collect, use, communicate and disclose and make use of personal information.  
 The following outlines our privacy policy.
 
   * Before or at the time of collecting personal information, we will identify the purposes for which information is being collected.
