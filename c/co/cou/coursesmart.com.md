@@ -1,137 +1,193 @@
-> *The following text is extracted and transformed from the coursesmart.com privacy policy that was archived on 2014-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141229190902id_/http%3A//www.coursesmart.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coursesmart.com privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209220520id_/http%3A//www.coursesmart.com/privacypolicy) for the most accurate reproduction.*
 
 # CourseSmart - Privacy Policy
 
-## Privacy Policy
+##  VitalSource Technologies, Inc. Privacy & Cookies Policy
 
-This Privacy Policy discloses the privacy practices of CourseSmart LLC, and its agents (sometimes referred to here as "CourseSmart" or "we") with respect to the CourseSmart™ eTextbook Online Web site [www.coursesmart.com](https://web.archive.org/ "www.coursesmart.com") (the "Site") and the CourseSmart Mobile Application and Mobile site. It explains the information we collect from you when you sign up and use, or purchase any of the products offered on or through the Site, Mobile site and Mobile Application (collectively, the "CourseSmart Service"), and how we use that information.
+This Privacy & Cookies Policy explains VitalSource Technologies, Inc.'s ("VitalSource," also "we," "our," and "us") information practices related to any of our websites (such as [www.vitalsource.com](http://www.vitalsource.com/)) or any VitalSource owned web retail store and our products known as Bookshelf, Bookshelf Online, Bookshelf mobile applications, reader software, digital content and other products controlled or owned by VitalSource (the "Products"). You agree to the terms of this Privacy & Cookies Policy when you access or use any of the Products or websites, or take other actions described below.
 
-If you feel that CourseSmart is not abiding by our posted privacy policy, you should contact our customer service department by calling 1-866-588-3197. CourseSmart LLC is located at 1800 Gateway Dr., Suite 120, San Mateo, CA 94404.
+VitalSource complies with the U.S. - E.U. Safe Harbor Framework and U.S. - Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries and Switzerland. VitalSource has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view VitalSource's certification, please visit <http://www.export.gov/safeharbor/>.
 
-CourseSmart LLC has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html "TRUSTe's program requirements") including transparency, accountability and choice regarding the collection and use of your personally identifying information. The TRUSTe program does not cover information that may be collected through downloadable software. The TRUSTe program covers only information that is collected through this Web site: [www.coursesmart.com,](https://web.archive.org/ "www.coursesmart.com") Mobile site [www.coursesmart.com/go/mobile](https://web.archive.org/go/mobile "www.coursesmart.com/go/mobile") and mobile application. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding CourseSmart's privacy policy or practices, please contact us at 1-866-588-3197. If you are not satisfied with our response you can contact [TRUSTe here.](http://watchdog.truste.com/pvr.php?page=complaint "TRUSTe here")
+VitalSource is a member of the VeraSafeTM EU Safe Harbor Program, meaning that VeraSafe has assessed VitalSource's data governance for compliance with the [VeraSafe Website Privacy Program Criteria](http://www.verasafe.com/website-privacy-pr). The program criteria require that participants maintain a high standard for data privacy and implement specific best practices pertaining to notice, choice, access, data integrity, security, and third party information sharing.
 
-### Information Collection and Use
+VeraSafe helps businesses protect the security and privacy of your personal information. However, if a privacy complaint or dispute cannot be resolved through VitalSource's internal process, VitalSource has agreed to participate in the VeraSafe EU Safe Harbor Dispute Resolution Procedure for U.S. - EU and U.S. - Swiss Safe Harbor disputes. To file a complaint with the Procedure, please submit the required information to VeraSafe here: _https://www.verasafe.com/dispute-submission_
 
-CourseSmart is the sole owner of the information collected on the Site, Mobile site and within our Mobile Application. We will not sell, share, rent or otherwise disclose this information to third parties outside of CourseSmart and its agents, except when we have your permission or under special circumstances, as disclosed in this Privacy Policy.
+### Information VitalSource collects about you
 
-CourseSmart collects information from our users at several different points on the Site, Mobile site and within the Mobile Application. We consider certain information we collect from you to be Personally Identifying Information, including, for example, your email address, name, mailing address, phone number, academic institution information, course information, and credit card billing information, and other contact information that you voluntarily transmit with your communication to us. We also collect demographic information and tie it to your personally identifying information, such as age or date of birth, gender, and password. We collect a user’s device type, so that the API can return the right items per device. We do not ask you for, access or track any location based information from your mobile device at any time while downloading or using our Mobile Application or services.
+VitalSource collects information from you when you download, access or use any of the Products, register with VitalSource, create a user account for our Bookshelf e-reader or visit any of our websites, as described further below. This information falls into two categories: personal data and non-personal data (collectively "Information").
 
-Additionally, we may collect Personally Identifying Information about you that you provide to us when you contact us or that you voluntarily post in blogs available through the Site. You should be aware that other users will be able to see any information that you post to such blogs and may use the information to send you unsolicited messages. We are not responsible for the personally identifying information you choose to submit in these blogs. To request removal of your personally identifying information from our blog, contact us [support@coursesmart.com.](mailto:support@coursesmart.com "support@coursesmart.com") In some cases, we may not be able to remove your personally identifying information, in which case we will let you know if we are unable to do so and why.
+Personal data includes information that identifies you specifically or from which you are reasonably identifiable. The types of personal data we collect may include your name, address, email address, phone number, other contact information, employer, academic institution, course information, and credit or debit card numbers.
 
-We also may collect the foregoing Personally Identifying Information about you from our third party affiliate or partner companies and from marketing or advertising companies that provide us with such information as a part of their relationship with us.
+Non-personal data is anonymous data that does not identify you specifically, such as aggregate data about the number of people who have accessed a particular Product.
 
-We will not send you marketing communications unless you have opted-in to receiving them. We may also collect information about you and your use of our Site and the CourseSmart Service through your use of our Site and the CourseSmart Service. You are able to opt-in to receiving marketing communications from CourseSmart by signing in to the account you created, or in the instance of faculty, the account that was created for you by one of our publisher affiliates, and checking the box found in the Account Preferences section.
+You can choose not to provide personal data we may request of you, but, in general, most of the personal data we request is required in order to provide our service and the lack of such personal data will prevent us from doing so. We will collect, use, transfer and disclose your personal data only in ways that are consistent with this Privacy & Cookies Policy, but we may collect, use, transfer and disclose non-personal data for any lawful purpose.
 
-CourseSmart uses this Personally Identifying Information to serve your needs as well as our own legitimate business purposes. We may use your Personally Identifying Information to help us improve our Site, to allow users to read their notes and make new notes within the mobile application, or for CourseSmart's marketing and promotional purposes (for example, to send email announcements of new products in the CourseSmart Service) or to track user movement and activity with regard to use of the CourseSmart Service. We may also use Personally Identifying Information to verify your authority to enter our Site, improve the content and general administration of the Site and the CourseSmart Service, provide you with notice regarding goods and services that you have purchased or may wish to purchase in the future, provide you with notices about other users of our Site and for targeted advertising.
+We collect personal data directly from you as well as from third parties including public sources, our related companies, your organization, your representatives, information service providers, social media and the parties with whom we exchange Information as described here.
 
-For student and faculty accounts that originate through a CourseSmart integration, your Personally Identifying Information and account activity may be shared back to the institution to support service improvements.
+### Product Registration and User Forms
 
-If you do not want your Personally Identifying Information shared, please opt–out by emailing [opt-out@coursesmart.com](mailto:opt-out@coursesmart.com "opt-out@coursesmart.com") with the subject line "Unsubscribe." In the body of the email, please include your first and last name, the college or university you attend and your college email address.
+VitalSource will collect Information from you when you register for an account to use any of the Products or fill out related user forms. This Information will provide basic contact data to VitalSource and enable VitalSource to deliver the correct Products to you.
 
-### Targeted Advertising
+### Using the Products and making purchases
 
-Targeted advertising (also known as Behavioral Advertising) uses information collected on an individual's browsing behavior within our desktop website, mobile application and mobile website such as the pages they have visited or the searches they have made. This information is then used to select which CourseSmart advertisement should be displayed to a particular individual on websites or mobile apps other than CourseSmart. For example, if you have shown a preference for nursing while visiting Coursesmart.com or the CourseSmart app, you may be served an advertisement from CourseSmart.com or the CourseSmart app for nursing related programs when you visit a site or mobile app other than CourseSmart.com. The information collected is only linked to an anonymous cookie ID (alphanumeric number); it does not include any information that could be linked back to a particular person, such as their name, address or credit card number. The information used for targeted advertising either comes from CourseSmart.com, CourseSmart emails, our mobile app, or through third party website or mobile app publishers. If you would like to opt out of targeted advertising from CourseSmart.com that occurs when visiting our third party advertising publishers, please [click here.](http://preferences.truste.com/truste/ "Click here If you would like to opt out of targeted advertising from CourseSmart.com") Please note that this will opt you out of targeted ads from CourseSmart.com and any other participating advertisers. If you opt out, you will continue to receive online advertising from CourseSmart.com; however, these ads may not be as relevant to you.
+VitalSource also collects Information as you use the Products, make Product purchases and interact with us. This Information includes, but is not limited to:
 
-### Children's Privacy
+  * facts about your purchases,
+  * how you use the Products,
+  * the specific Products you use,
+  * the specific parts of the Products you use,
+  * any notes you make in the Products or other information you input into the Products while using them,
+  * analytical data created when you view the Products, create new notes, or view previous notes on any device,
+  * information about page views, page usage, time on page, and other information about usage, and
+  * records of any contact we have with you by telephone, email or online.
 
-CourseSmart recognizes the privacy interests of children and we encourage parents and guardians to take an active role in their children's online activities and interests. The Site is not intended for children under the age of 13. CourseSmart does not target its services or the Site to children under 13. CourseSmart does not knowingly collect Personally Identifying Information from children under the age of 13.
 
-### Registration
-
-To use the Site, either as a trial user or a digital renter, you must first complete the registration form. During registration, you will be required to give your name and email address. The email address is used to contact you about any services on our Site in which you have expressed an interest and as otherwise described in this privacy policy.
-
-### Ordering
-
-When you place an order for access to a CourseSmart eTextbook or eResource, we may request information from you on our order form. You must provide contact information (such as name and billing address) and financial information (such as credit card number and expiration date). This information is used for billing purposes and to fill your orders and as otherwise described in this privacy policy. If we have trouble processing an order, this contact information is used to get in touch with you.
 
 ### Cookies
 
-CourseSmart uses "cookies" to improve the quality of your visit to the Site or Mobile site by providing you with personalized information and features. Cookies are a software technology that enables our systems to recognize your computer or mobile devices and collect non-personally identifying information about you. This type of information includes: type of browser used to access the Internet (i.e. Netscape 6.2, Internet Explorer 4.0), type of operating system (i.e. Windows 95, Macintosh), and the domain of your Internet service provider. CourseSmart generally does not know the name, email address, phone number, or home address of anyone who visits the Site, unless that person is accessing his or her digital rental.
+VitalSource may collect Information about you when you visit the VitalSource website through the use of "cookies." Cookies are small text files placed in visitors' computers to store their preferences. Cookies themselves do not contain any personal data but may be used by VitalSource in conjunction with your personal data. A number of cookies we use last only for the duration of your web session and expire when you close your browser. Other cookies are used to remember you when you return to our website and will last for longer. VitalSource may use cookies and other methods to determine your domain name and what browser and operating system you are using, your Internet Protocol (IP) address, the date and time of your request if any, and the device you are using.
 
-We use both session ID cookies and persistent cookies. A session ID cookie expires when you close your browser. We use session cookies to make it easier for you to navigate our site. A persistent cookie remains on your hard drive for an extended period of time. We set a persistent cookie to store your passwords, so you don’t have to enter it more than once. You can remove persistent cookies by following directions provided in your Internet browser’s “help” file.
+### We use cookies to:
 
-You can set your browser to warn you before accepting cookies or to block cookies. If you block cookies, however, you will not be able to access CourseSmart eTextbooks or eResources or use certain other Site features or functions.
+  * remember that you have visited our website before; this means we can identify the number of unique visitors we receive. This allows us to make sure we have enough capacity for the number of users that we get;
+  * customize elements of the promotional layout and/or content of the pages of our website;
+  * collect anonymous statistical information about how you use our website (including how long you spend on the website) and where you have come to our website from, so that we can improve the website and learn which parts of it are most popular with visitors; and
+  * gather information about the pages on our website that you visit, and also other information about other websites that you visit, so as to place you in a "market segment". This information includes information about the county and city you are in, together with the name of your Internet service provider. This information is then used to place interest-based advertisements on our website which it is believed will be relevant to your market segment. For more information about this type of interest based advertising, and about how to turn this feature off please visit [youronlinechoices.com](http://www.youronlinechoices.com/) and [www.youronlinechoices.com.au](http://www.youronlinechoices.com.au/).
 
-We use analytics within our mobile application for click through tracking and to monitor crashes so that CourseSmart knows at what point in the application it crashed. We do use this information to personally identify you.
 
-### Third Party Cookies
 
-The use of cookies by third parties is not covered by our Privacy Policy. We do not have access or control over these cookies. These third parties use session ID cookies to make it easier for you to navigate our Site or Mobile site and in order for you to use the shopping cart.
+Some of the cookies used by our website are set by us, and some are set by third parties who are delivering services on our behalf.
 
-### Clear Gifs (Web Beacons/Web Bugs)
+ **Our cookies**
 
-Our third party advertising partner employs a software technology called clear gifs (a.k.a. Web Beacons/Web Bugs), that helps us better manage content on our Site by informing us what content is effective. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users. In contrast to cookies, which are stored on a user's computer hard drive, clear gifs are embedded invisibly on Web pages and are about the size of the period at the end of this sentence. We do not tie the information gathered by clear gifs to our customers' personally identifying information.
+| |   
+---|---|---  
+  
+ **Cookie name**
 
-### Flash LSOs
+| 
 
-We use local shared objects, also known as Flash cookies, to store your preferences such as volume control or high game score, or display content based upon what you view on our site to personalize your visit. Third Parties, with whom we partner to provide certain features on our site or Mobile site or to display advertising based upon your Web browsing activity, use Flash cookies to collect and store information.
+ **Purpose**
 
-Flash cookies are different from browser cookies because of the amount of, type of, and how data is stored. Cookie management tools provided by your browser will not remove Flash cookies. To learn how to manage privacy and storage settings for Flash cookies click here: <http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html#117118>
+| 
 
-### Aggregate Information
+ **Type and duration**
 
-We use IP addresses from our log files to analyze trends, administer the Site, track users' movement, and gather broad demographic information for aggregate use. IP addresses are not linked to Personally Identifying Information.
+[i.e. session only or persistent]  
+  
+ **Persistent Cookie**
 
-### Sharing Information
+| 
 
-We may share Personally Identifiable Information to enforce CourseSmart's Terms of Service.
+Saves user information that may be accessed every time a user visits our site.
 
-We may share Personally Identifying Information and the data generated by cookies and the aggregate information with the participating publishers and their affiliates with respect to their products that are part of the CourseSmart Service for their own use. In addition, we may share some Personally Identifying Information with affiliates of CourseSmart as well as with our business partners.
+| 
 
-Personally Identifying Information is shared with publishers to notify a customer that a book he or she purchased has been discontinued. Information is also shared with our third party customer service support company who uses the information only for resolving customer service issues and a credit card processing company to process your payments. Only for those customers who have opted in, we share information with our third party email management company who sends CourseSmart approved marketing emails on our behalf.
+Persistent - outlasts session duration.  
+  
+ **Session Cookie**
 
-When we partner with another party to provide specific services, we will share names or other contact information that is necessary for the third party to provide these services. These parties are not allowed to use Personally Identifying Information except for the purpose of providing these services. We use an outside credit card processing company to bill users for goods and services and an email service provider to send emails to you on our behalf. These companies are not allowed to retain, share, store or use Personally Identifying Information for any secondary purposes.
+| 
 
-We will not share, sell, rent or trade your Personally Identifying Information to any third party except as disclosed within this Privacy Policy.
+Saves user information that may be accessed only as long as the browser session exists.
 
-We may transfer your Personally Identifying Information to a successor entity upon a merger, consolidation or other corporate reorganization in which CourseSmart participates or to a purchaser of all or substantially all of CourseSmart's assets to which the Site relates. We will notify you via email and/or a prominent notice on our Web site of any change in ownership or uses of your personally identifying information, as well as any choices you may have regarding your personally identifying information.
+| 
 
-We may also release Personal Identifying Information when we believe that disclosure is appropriate to comply with the law and when we believe that disclosure is necessary to protect our rights and/or to comply with a judicial proceeding, court order, or legal process served on our Site or the Service, or to protect the rights, property, or safety of CourseSmart, participating publishers, users, or others. This may include exchanging information with other companies and organizations for the purpose of preventing fraud, protecting intellectual property, and reducing credit risk.
+Session - lasts only as long as the session duration.  
+  
+ **Third Party**
 
-### Links to Third Party Sites
+| 
 
-The Site may contain links to other sites or resources over which CourseSmart does not have control ("External Web Sites"). In addition, while you are on our Site, you may be re-directed to an External Web Site to complete a transaction. We are not responsible for the privacy practices of these External Web Sites. We encourage you to be aware when you leave our Site, and to read the privacy policies of each and every External Web Site that collects your Personally Identifying Information. This Privacy Policy applies solely to information collected by CourseSmart with respect to your use of the CourseSmart Service. You acknowledge that CourseSmart is providing these links to you only as a convenience, and further agree that CourseSmart is not responsible for the content of such External Web Sites.
+These cookies save information on the user's computer and are accessed from domains different from the one shown in the address bar.
 
-### Surveys & Contests
+| 
 
-We may, from time to time, request information from users via surveys or contests. Participation in these surveys or contests is voluntary and therefore, you have a choice whether or not to disclose this information. Information requested may include contact information (such as name and shipping address) and demographic information (such as zip code, age level). Contact information will be used to notify the winners and award prizes and as otherwise described in this privacy policy.
+Persistent - outlasts session duration.  
+  
+In addition to cookies, tracking GIFs may be set by us or third parties in respect of your use of our website. Tracking GIFs are small image files within the content of our website or the body of our newsletters so we, or third parties, can understand which parts of the website are visited and whether particular content is of interest.
 
-### Special Offers
+Most web browsers automatically accept cookies but all computers have the ability to decline cookies. This can be done by activating the setting on your browser that enables you to decline the cookies. Please note that if you choose to decline cookies, you may be unable to access parts of our website. You can also learn more about cookies by visiting [www.allaboutcookies.org](http://www.allaboutcookies.org/) which includes additional useful information on cookies and how to block cookies using different types of browsers.
 
-Occasionally, CourseSmart may send registered users information on products, services, and special deals as well as newsletters via email. As a registered user, you will be given the opportunity to elect not to receive such emails from CourseSmart. You may opt-out from receiving these emails from us by following the instructions included in each newsletter or communication or by emailing us at [support@coursesmart.com.](mailto:support@coursesmart.com "support@coursesmart.com")
+### VitalSource's use of your Information
+
+VitalSource uses your Information, by itself or in conjunction with data lawfully collected through other sources, for the following purposes:
+
+  * to meet our contractual commitments to you,
+  * to administer your account and respond to your requests,
+  * to provide the Products requested by you, including to provide the correct Products requested for your selected computer or device,
+  * to maintain and improve the Products and to develop new Products,
+  * to track your purchase history and to provide you on an ongoing basis with information related to the Products, including changes to the Products or other information we think you may find useful about our products and services or those of carefully selected third parties, provided you have indicated that you do not object to being contacted for these purposes,
+  * to customize content supplied to you,
+  * to conduct research and to update our website and analyze how it is used,
+  * to prevent, investigate and deal with fraud, violation of intellectual property rights and other laws and unauthorized use of Products or your account, and
+  * as otherwise reasonable and appropriate to the legitimate business needs of VitalSource related to the Products.
+
+
+
+You can tell us not to contact you with information regarding our products and services and those of third parties, either at the point your personal data is requested on our website (by checking or un-checking (as directed) the relevant box) or, where you do not wish us to continue to use your personal data in this way, by following the unsubscribe instructions on any communications sent to you. You can also exercise the right at any time by contacting us using the Contacting us details at the end of this Privacy & Cookies Policy.
+
+### Sharing your Information with third parties
+
+VitalSource appreciates that you do not want your personal data distributed indiscriminately and we agree not to sell or share this information except as described in this Privacy & Cookies Policy. We may exchange your Information with the parties described below.
+
+ **Academic Institutions.** You acknowledge that, where the cost of any Product(s) that would otherwise need to be paid for is covered by the academic or other institution through whom you are studying and you are given a code to redeem for the relevant Product(s) (instead of having to pay yourself), that institution may, as a condition of your being provided with the Product(s) free of charge to you, have agreed with us that VitalSource must share Information related to your use of the relevant Product(s) with the institution. Your institution may wish to see, for example, that you have accessed and used a certain Product or certain of its contents, or spent a certain amount of time using it. This Information may be used to help your institution evaluate your progress and improve your learning. By using one of these codes, you agree to VitalSource sharing usage Information with your institution in this way.
+
+ **Content Owners.** VitalSource may share non-personal data about you and your use of the Products with content owners or licensees that have rights related to the Products that you access ("Content Owners"). Content Owners will use this non-personal data for their own research and tracking purposes, to evaluate Product use and access, to improve Products and related analysis. VitalSource will not reveal your personal data to Content Owners, just anonymous Product usage data that does not identify you specifically.
+
+ **Third Parties and Affiliates Performing Support Functions.** VitalSource may exchange your Information with third-party service providers and with VitalSource affiliates (such as parent companies, subsidiaries, or other companies within our corporate family) that perform support functions related to the Products. The purpose of this sharing may include research, analyzing usage data, providing marketing assistance to VitalSource, processing your credit or debit card payments, providing customer service to you, processing and fulfilling your orders, providing you with Product access, for storage, assisting VitalSource with providing the Products to you, assisting VitalSource in using the Information as described in this Privacy & Cookies Policy, and related matters.
+
+ **Disclosures As Required By Law Or To Prevent Harm.** VitalSource reserves the right to exchange Information with relevant parties such as courts, government agencies and lawyers if it reasonably believes that collection, access, use, preservation or disclosure of such Information is reasonably necessary to (a) satisfy any applicable law, regulation, legal process, or enforceable governmental request, (b) enforce applicable terms of use, including investigation of potential violations thereof, (c) detect, prevent, or otherwise address illegal or suspected illegal activities, security or technical issues, or (d) protect against harm to the rights, property or safety of VitalSource, its affiliates or users, the Content Owners or the public, as required or permitted by law.
+
+ **Assignment of Your Information.** VitalSource may exchange Information with third parties (such as purchasers, potential purchasers and their advisers) if VitalSource or a portion of its assets is sold or offered for sale. You grant VitalSource the right to transfer ownership of all Information (including personal data) that VitalSource has about you to a third party in connection with the sale of VitalSource or its assets, without payment to you. You acknowledge and agree that the third party may use your Information for the purposes described in this Privacy & Cookies Policy and related uses without payment to you.
+
+### Public forums
+
+Some of the Products may, from time to time, make chat rooms, message boards, news groups and/or other public forums available to users. Any information that is disclosed in these areas becomes public information and you should exercise caution when using these and never disclose your personal data.
+
+### Childrens' privacy
+
+You must be 18 years of age or older to create a Bookshelf account. While individuals under the age of 18 may utilize the Products, they may do so only with the involvement, supervision, and approval of their parent or legal guardian. VitalSource does not solicit orders or knowingly collect Information from children under the age of 13. If we have reason to believe that any Information has been submitted to us by a child under 13, we will delete that information after taking appropriate actions to prevent further Information submission and as required by law.
 
 ### Security
 
-We employ technological and administrative measures to protect your Personally Identifying Information from loss, unauthorized access or disclosure. For example, CourseSmart may use firewalls, password protection, secure socket layer and other security measures to help prevent unauthorized access to your Personally Identifying Information.
+VitalSource takes information security very seriously and has taken reasonable measures to keep your Information secure from unauthorized access or disclosure, whether that Information is stored physically or electronically. VitalSource has established the appropriate administrative, technical, physical, electronic and managerial procedures to prevent unauthorized access, maintain data security and use the Information collected from you in accordance with this Privacy & Cookies Policy. VitalSource has security measures in place to protect against loss, misuse, or alteration of your Information. Our secure server software is among the best software systems available for secure Internet payment transactions. It encrypts your payment information to seek to ensure it is not intercepted as it travels over the Internet. Submission of Information over the Internet, however, is never entirely secure. Despite its reasonable efforts, VitalSource cannot guarantee that unauthorized access or disclosure of Information will never happen. If you have concerns, do not use the Products.
 
-The security of your personally identifying information is important to us. When you enter sensitive information (such as credit card number) on our registration or order forms, we encrypt that information using secure socket layer technology (SSL). We follow generally accepted standards to protect the personally identifying information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security. If you have any questions about security on our Web site, you can contact us at [support@coursesmart.com.](mailto:support@coursesmart.com "support@coursesmart.com")
+It is advisable to close your browser when you have finished your user session to help ensure others do not access your personal data if you use a shared computer or a computer in a public place.
 
-### Correction/Updating Personal Identifying Information
+### International transfer of Information
 
-To change your CourseSmart account information (address, credit card, etc.), log on to your CourseSmart account. Click the "My Account" tab on the top tool bar. Edit your account information as needed. If you have questions or need help with making changes, please call customer service at 1-866-588-3197.
+Given that the Internet is a global environment, using the Internet to collect and process Information necessarily involves the transmission of data on an international basis. Therefore, by using any of the Products, you acknowledge and consent to the transfer of your Information outside your country of residence to any country (including the United States, Canada, the United Kingdom and Australia) where we have facilities or engage third parties (including but not limited to payment processors, cloud service or other IT providers, and other companies that provide services to us). You understand that the countries to which we may transfer Information may not have as comprehensive a level of data protection as in your country. In relation to Australia's Privacy Act, you agree that in the case of a breach of by the third party in relation to handling your personal data, we will not be accountable for the third party under the Privacy Act and you may not be able to seek redress under the Privacy Act.
 
-We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at [support@coursesmart.com.](mailto:support@coursesmart.com "support@coursesmart.com") We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+### Third party links
 
-### Choice/Opt-Out
+You may find links to third-party websites from any of the Products. These websites may have their own privacy and/or cookies policies, which you should check. We do not accept any responsibility or liability for their policies because we have no control over them.
 
-You have the choice of whether or not you would like us to provide your Personally Identifying Information to certain of our participating publishers and third party partners. If you do not want your information shared, during registration and certain purchases you may opt out of receiving certain information from our participating publishers and third party partners. Also, you will be able to opt out by visiting our website [http://www.coursesmart.com.](https://web.archive.org/ "http://www.coursesmart.com") If you do not opt out, your Personally Identifying Information will be subject to their privacy policies and terms of use and they may contact you with marketing messages. Please be aware that we cannot control the activities of the participating publishers and third party partners to whom we provide your Personally Identifying Information and as such, we cannot guarantee that they adhere to the same privacy and security procedures as CourseSmart.
+### Your rights
 
-### Facebook Connect
+You can contact us to request access to, correction, or erasure of the personal data about you held by us, or to raise any concerns about our handling of that data.
 
-CourseSmart provides its users with the ability to create a new account, or sign-in to an existing account using their Facebook credentials -- rather than having to establish a separate, CourseSmart username and password. If you choose to use Facebook Connect to sign in to CourseSmart, the first time you select this option you will be prompted by Facebook to allow CourseSmart the privilege of being able to post content to your Facebook Wall and to your friends' News Feeds. Facebook will also ask if you want to allow CourseSmart access to your email address. Accepting both of these requests allows you to use your Facebook credentials to access CourseSmart, and also signals your acceptance of CourseSmart's Terms of Service. If you choose to revoke these privileges from CourseSmart, you can do so at any time by accessing the Applications Settings under the Account menu in Facebook.
+You have a right to request a copy of all the personal data about you held by us. On request, we will provide you with a copy of this personal data. You also have a right to correct any errors in that personal data.
 
-### Social Media Widgets
+In the case of access and correction requests, please provide as much detail as you can about the particular data you seek, in order to help us locate it. We will provide our reasons if we deny any request for access to or correction of personal data. Where we decide not to make a requested correction to your personal data and you disagree, you may ask us to make a note of your requested correction with the data.
 
-Our Web site includes Social Media Features, such as the Facebook and Twitter button or interactive mini-programs that run on our Site. These Features may collect your IP address, which page you are visiting on our Site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it.
+We take your privacy concerns seriously. Where you express any concerns that we have interfered with your privacy, we will respond to let you know who will be handling your matter and when you can expect a further response. We may request additional details from you regarding your concerns, and may need to engage or consult with other parties in order to investigate and deal with your issue. We will keep records of your request and any resolution.
 
-### Testimonials
+As mentioned above, you have a right to prevent the use of your personal data for direct marketing purposes.
 
-We display personal testimonials of satisfied customers on our Site in addition to other endorsements. With your consent we may post your testimonial along with your name. If you wish to update or delete your testimonial, you can contact us at [support@coursesmart.com.](mailto:support@coursesmart.com "support@coursesmart.com")
+### Changes to this Privacy & Cookies Policy
 
-### Notification of Changes
+The information practices described in this Privacy & Cookies Policy are current as of the effective date at the end of this document. VitalSource reserves the right to periodically update this Privacy & Cookies Policy at its discretion. Notice of any revisions will be posted to this page and are effective once posted. If you are concerned about how your Information is used, bookmark this page and check back periodically.
 
-Due to the Internet's rapidly evolving nature, CourseSmart may need to update this Privacy Policy from time to time. If we decide to change our privacy policy, we will post those changes to this Privacy Policy, the home page, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+### Contacting us
 
-We reserve the right to modify this Privacy Policy at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page prior to the change becoming effective.
+If you have any questions, comments, or requests regarding this Privacy & Cookies Policy, including the treatment of your personal data and/or our use of cookies and other technologies, please contact  us by mail or email using the following contact information:
 
-This Privacy Policy was last updated: January 30, 2014
+VitalSource Technologies, Inc.   
+234 Fayetteville Street  
+Suite 300   
+Raleigh NC, 27601
+
+[privacy@vitalsource.com](mailto:privacy@vitalsource.com)
+
+Effective and last updated April 16, 2015.
