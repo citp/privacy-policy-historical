@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amsterdamprinting.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610012529id_/http%3A//www.amsterdamprinting.com/Default.aspx%3FFocusId%3Dprivacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amsterdamprinting.com privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209202824id_/http%3A//www.amsterdamprinting.com/Default.aspx%3FFocusId%3Dprivacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy | Amsterdam Printing
 
@@ -25,6 +25,8 @@ We may collect various types of personal information from you, depending upon ho
 (4) Your telephone number.
 
 (5) If you make a purchase on our site, your credit card number and related information.
+
+(6) Product Reviews. You may choose to submit a product review. If you post a review, we will ask for your email address and geographic location. If you submit a review, your geographic location will be visible to other users (your email address will be kept private). You can also choose to remain anonymous. Also, any personally identifiable information that you submit as part of the review can be read or used by other visitors to the Site. We are not responsible for any personally identifiable information that you choose to submit as part of your review.
 
 We may combine the information we collect from you with information we receive from you offline.  We may also receive information about you from other sources, including, for example, address update services.
 
@@ -67,4 +69,4 @@ The site may contain links to third-party websites, which may have privacy polic
 
 Thank you for visiting our site.  If you have any questions or comments about this policy, please send an email to:  **[customerservice@amsterdamprinting.com](mailto:customerservice@amsterdamprinting.com)**.  Please include "Question or Comment" in the subject line.
 
-**Last Updated:** **  2/05/2013** ****
+**Last Updated:** 07/31/2015
