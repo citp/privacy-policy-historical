@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the edollarearn.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610052612id_/http%3A//edollarearn.com/edollarearn-privacy-policy-t342.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edollarearn.com privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209190802id_/http%3A//edollarearn.com/edollarearn-privacy-policy-t342.html) for the most accurate reproduction.*
 
 # eDollarearn Privacy Policy
 
