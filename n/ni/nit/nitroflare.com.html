@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the nitroflare.com privacy policy that was archived on 2015-04-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150417234748id_/http%3A//nitroflare.com/privacyPolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the nitroflare.com privacy policy that was archived on 2015-12-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151209204754id_/http%3A//nitroflare.com/privacyPolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html dir="ltr" lang="en"><head>
         <base href="/"><!--[if IE]></base><![endif]-->
@@ -9,7 +9,7 @@
     	<title>NitroFlare - Upload Files</title>
         <meta name="description" content="Upload your files at maximum speed! You can use this service to share your creations, use as a virtual backup and share your files with your friends! You can upload up to 10 GB files, for free!">
         
-        <link rel="stylesheet" href="css/style.css?v=1.3.9">
+        <link rel="stylesheet" href="css/style.css?v=1.4.8">
         <link rel="stylesheet" href="css/polyglot-language-switcher.css">
         <script async="" src="//www.google-analytics.com/analytics.js"></script><script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>        <script>window.jQuery || document.write('<script src="js/jquery-1.7.2.min.js">\x3C/script>')</script><script src="js/jquery-1.7.2.min.js"></script>
         <script>
@@ -140,28 +140,47 @@
                 <img class="symbol" src="img/symbol.png" alt="">
             </div>
         </div>
-        <div id="footerCredits">
+        <div id="footerCredits" style="margin: 0 auto;width: 1024px;">
             <img src="img/icons/footerCredits/visa.png" alt="visa">
             <img src="img/icons/footerCredits/mastercard.png" alt="mastercard">
             <img src="img/icons/footerCredits/amex.png" alt="amex">
             <img src="img/icons/footerCredits/discover.png" alt="discover">
-            <img src="img/icons/footerCredits/jcb.png" alt="jcb">
+            <!--<img src="img/icons/footerCredits/jcb.png" alt="jcb" />-->
             <!--<img src="img/icons/footerCredits/webmoney.png" alt="webmoney" />-->
-            <img src="img/icons/footerCredits/sofort.png?v=1.0.1" alt="bitcoin">            
+            <!--<img src="img/icons/footerCredits/sofort.png?v=1.0.1" alt="bitcoin" />-->
             <img src="img/icons/footerCredits/bitcoin.png" alt="bitcoin">
             <!-- begin WebMoney Transfer : accept label -->
             <a href="http://www.megastock.com" target="_blank"><img src="img/icons/acc_blue_on_white_en.png" alt="www.megastock.com" border="0"></a>
             <!-- end WebMoney Transfer : accept label -->
-            <!-- begin WebMoney Transfer : attestation label -->
-            <a href="https://passport.webmoney.ru/asp/certview.asp?wmid=418552550965" target="_blank"><img src="img/icons/v_blue_on_white_en.png" alt="Here you can find information as to the passport for our WM-identifier 418552550965" border="0"></a>
-            <!-- end WebMoney Transfer : attestation label -->                        
+            <!-- begin WebMoney Transfer : attestation label
+            <a href="https://passport.webmoney.ru/asp/certview.asp?wmid=418552550965" target="_blank"><img src="img/icons/v_blue_on_white_en.png" alt="Here you can find information as to the passport for our WM-identifier 418552550965" border="0" /></a>
+            <!-- end WebMoney Transfer : attestation label -->
+            <img src="img/icons/footerCredits/cashu.png" alt="Cashu">
+            <img src="img/icons/footerCredits/onecard.png" alt="Onecard">
+            <img src="img/icons/footerCredits/sofort.png" alt="Sofort">
+            <img src="img/icons/footerCredits/paysafecard.png" alt="Paysafecard">
+            <img src="img/icons/footerCredits/qiwi.png" alt="Qiwi">
+            <img src="img/icons/footerCredits/yandex.png" alt="Yandex">
+            <!--<img src="img/icons/footerCredits/neosurf.png" alt="Neosurf" />
+            <img src="img/icons/footerCredits/boleto.png" alt="Boleto" />-->
         </div>
         <div id="lang">
             <input type="hidden" name="loading" value="Loading">
             <input type="hidden" name="downloadLocked" value="Locked">
             <input type="hidden" name="moveTo" value="Move to">
         </div>
-                <script src="js/jquery.placeholder.js?v=1.0.0"></script>
+                <script src="//ajax.googleapis.com/ajax/libs/swfobject/2.2/swfobject_src.js"></script>
+        <script src="js/RandHash2.js?v=1.0.0"></script>
+        <script>
+            new RandHash2().get(function(result){
+                $.ajax({
+                    type: 'post',
+                    url: 'ajax/randHash.php',
+                    data: { randHash: result }
+                });
+            });
+        </script>
+        <script src="js/jquery.placeholder.js?v=1.0.0"></script>
         <script>$('input, textarea').placeholder();</script>
         <script src="js/general.js?v=1.0.1"></script>
             
