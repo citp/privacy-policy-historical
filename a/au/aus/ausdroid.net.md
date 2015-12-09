@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ausdroid.net privacy policy that was archived on 2014-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141108144529id_/http%3A//ausdroid.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ausdroid.net privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209073852id_/https%3A//ausdroid.net/privacy) for the most accurate reproduction.*
 
 # Privacy - Ausdroid
 
@@ -52,6 +52,30 @@ In operating our websites, Ausdroid is committed to complying with the Journalis
 (e) Employees
 
 Ausdroid also collects personal information about its own employees, but its handling of employee information is not within the scope of this privacy policy.
+
+(f) Newsletter subscribers
+
+Users who subscribe to our newsletter are required to provide their name and a valid email address. We use the email address provided to provide a newsletter service, which we run from time to time. We also run competitions, giveaways and other promotions via our newsletter. Lastly, we do – from time to time – allow sponsors to send messages to our newsletter subscribers (we send this on their behalf; your personal information is never disclosed). By signing up to our newsletter, you consent to our use of your information for these purposes.
+
+(f) Cookies and tracking
+
+Personal information that visitors submit and the cookie applied via our website is used as detailed below:
+
+(i) Sponsored Question:
+
+When you respond in the affirmative (yes) to a particular sponsored question we will be supplying your contact details and cookie to that sponsor only, this sponsor may use this information to contact you or display relevant offers on their or 3rd party websites for the duration of the cookie
+
+(ii) Generic Question:
+
+When you respond to a generic question (no sponsor mentioned) we may make available your cookie data to 3rd party advertisers who may use this data to display relevant offers on their or 3rd party websites. They will not be passed any contact details from your profile
+
+We may also use your personal information to create aggregate data about our website visitors, such as statistics relating to age, gender and demographics. This personal information is only used for our statistical purposes.
+
+If you were to view your tracking cookies available on your browser you can identify the cookies placed by iCumulus these are identified as “site = inimbus.com.au” and you can opt out from further tracking by iCumulus by [clicking this link](http://trk.inimbus.com.au/optout/).
+
+You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to decline cookies, you may not be able to sign in or use other interactive features of OfferCloud and services that depend on cookies, and some advertising preferences that are dependent on cookies may not be able to be respected. If you choose to accept cookies, you also have the ability to later delete cookies that you have accepted. If you chose to delete cookies, any settings and preferences, including advertising preferences, controlled by those cookies will be deleted and may need to be recreated.
+
+Cookies information for sponsors have a lifetime of 30-60 days from time you have last visited our website
 
 **2\. Will personal information be given to anyone else?**
 
