@@ -1,6 +1,16 @@
-> *The following text is extracted and transformed from the tommyjohn.com privacy policy that was archived on 2015-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150524192636id_/http%3A//www.tommyjohn.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tommyjohn.com privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209101952id_/https%3A//www.tommyjohn.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | TOMMY JOHN
+# Privacy Policy | Tommy John
+
+* * *
+
+Buy More 
+
+{{ tier.level | currency:"$":0}}
+
+Save More 
+
+{{ tier.discount }}% off 
 
 This policy covers how Tommy John treats personal information that we collect and receive, including information related to your past use of our products. Personal information is information about you that is personally identifiable like your name, address, email address, or phone number, and that is not otherwise publicly available. This policy does not apply to the practices of companies that Tommy John does not own or control, or to people that Tommy John does not employ or manage. 
 
