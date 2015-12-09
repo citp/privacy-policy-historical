@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the badpartypics.com privacy policy that was archived on 2014-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141106100508id_/http%3A//damn.com/static/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the badpartypics.com privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209055624id_/http%3A//damn.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Videos Worth Sharing
+# Privacy Policy
 
 Combo Ventures, LLC (“Combo Ventures” or “Company”) considers the privacy of the users of [http://damn.com](http://damn.com/) (the “Website”) to be of utmost importance and works to protect it. Combo Ventures recognizes that you may be concerned about Combo Ventures’ collection, use, and disclosure of the personally identifiable information (“Personal Information”) that is collected when you use the Website and the services offered on the Website (the “Services”). This Privacy Policy describes the information that we collect from you, how we collect this information, and what we do with it after we collect it. By using the Website and the Services you are accepting the practices described in this Privacy Policy. If you have any questions or comments regarding this Privacy Policy, please contact us at damndotcom@gmail.com
 
@@ -37,7 +37,7 @@ Ads appearing on this Website may be delivered to users by Combo Ventures or one
 THIRD PARTY VENDORS  
 Third party vendors, including Google, use cookies to serve ads based on a your prior web site visits.  
 Google’s use of the DoubleClick cookie enables it and its partners to serve ads to you based on your visits to Damn.com and/or other sites on the Internet.  
-You may opt out of the use of the DoubleClick cookie for interest-based advertising by visiting Ads Settings. (or by visiting [www.aboutads.info](http://www.aboutads.info/))
+You may opt out of the use of the DoubleClick cookie for interest-based advertising by visiting Ads Settings. (or by visiting[www.aboutads.info](http://www.aboutads.info/))
 
 Links to other websites  
 Our website may contain links to enable you to visit other websites of interest easily. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
