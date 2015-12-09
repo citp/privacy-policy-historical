@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dishtv.in privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608095619id_/http%3A//www.dishtv.in/Pages/Others/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dishtv.in privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209135149id_/http%3A//www.dishtv.in/Pages/Others/Privacy-Policy.aspx) for the most accurate reproduction.*
 
 # DISHTV Privacy Policy, Policy Details, Customer Privacy Policy
 
