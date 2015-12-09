@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bellroy.com privacy policy that was archived on 2015-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150525061245id_/http%3A//bellroy.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bellroy.com privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209011749id_/http%3A//bellroy.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Slim Leather Wallets by Bellroy
 
@@ -27,9 +27,7 @@ Customer Information can usually be used to identify you.
 
 ### IP Address
 
-Whenever you use our web sites, or any other web site, the computer on which the web pages are stored (the Web server) needs to know the network address of your computer so that it can send the requested web pages to your Internet browser. The unique network address of your computer is called its "IP address" and is sent automatically each time you access any Internet site. From a computer's IP address, it is possible to determine the general geographic location of that computer but, without further identifying information, is anonymous.
-
-We do not keep a record of the IP addresses from which you access our site except where you have specifically provided us with information about yourself, in which case we may record your IP address for security purposes, for example, when you make a purchase.
+Whenever you use our web sites, or any other web site, the computer on which the web pages are stored (the Web server) needs to know the network address of your computer so that it can send the requested web pages to your Internet browser. The unique network address associated with your computer is called its "IP address" and is sent automatically each time you access any Internet site. From a computer's IP address, it is possible to determine the general geographic location of that computer. We do not keep a long term record of the IP addresses from which you access our site except where you have specifically provided us with information about yourself, for example, when you make a purchase, in which case we may record your IP address for security purposes.
 
 ### Usage Data
 
