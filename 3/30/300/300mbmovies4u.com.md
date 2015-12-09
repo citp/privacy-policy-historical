@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 300mbmovies4u.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610010412id_/http%3A//300mbmovies4u.com/privecy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 300mbmovies4u.com privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209094304id_/http%3A//300mbmovies4u.com/privecy-policy) for the most accurate reproduction.*
 
 # 300mbmovies4u.com - Privecy Policy - 300mbmovies4u.com
 
@@ -45,24 +45,4 @@ If we decide to change our privacy policy, we will post those changes on this pa
 
 This policy was last modified on 5 march 2014
 
-  
-DOWNLOAD
-
- **New Download Links**
-
- **Speed**
-
-[ ](http://clkrev.com/adServe/banners?tid=3MBMDL&action=r)
-
-**3998  kps**
-
-[ ](http://clkrev.com/adServe/banners?tid=3MBMDL&action=r)
-
-**3490  kps**
-
-[ ](http://clkrev.com/adServe/banners?tid=3MBMDL&action=r)
-
-**2984  kps**
-
-  
 [](https://mybdhost.com/portal/aff.php?aff=009)
