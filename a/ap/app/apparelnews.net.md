@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the apparelnews.net privacy policy that was archived on 2013-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130429194330id_/http%3A//www.apparelnews.net/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apparelnews.net privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209215859id_/https%3A//www.apparelnews.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | California Apparel News
 
-The following Privacy Policy summarizes the various ways that MnM Publishing (“Service Provider,” “we,” or “our”) treats the information you provide while using [www.ApparelNews.net](http://www.apparelnews.net/ "ApparelNews.net - Your Online Source for Fashion and Apparel Information") (“Website”). It is our goal to bring you information you need and, at the same time, protect your privacy.
+The following Privacy Policy summarizes the various ways that TLM Publishing Inc. (“Service Provider,” “we,” or “our”) treats the information you provide while using [www.ApparelNews.net](http://www.apparelnews.net/ "ApparelNews.net - Your Online Source for Fashion and Apparel Information") (“Website”). It is our goal to bring you information you need and, at the same time, protect your privacy.
 
 Please read this Privacy Policy carefully. You can access the Privacy Policy any time by clicking on the footer on any page of the [ApparelNews.net](http://www.apparelnews.net/) website. **Your use of and/or registration on any aspect of the Website will constitute your agreement to this Privacy Policy.** If you cannot agree with the terms and conditions of this Privacy Policy, please do not use the Website. This Privacy Policy does not cover information collected elsewhere, including without limitation, sites linked to from the [Website](http://www.apparelnews.net/).
 
