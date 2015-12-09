@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the top13.net privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611020602id_/http%3A//www.top13.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the top13.net privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209092419id_/http%3A//www.top13.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Top13
 
