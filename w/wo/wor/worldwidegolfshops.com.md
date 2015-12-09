@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worldwidegolfshops.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610153557id_/http%3A//www.worldwidegolfshops.com/Privacy_Policy_2010.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldwidegolfshops.com privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209142103id_/http%3A//www.worldwidegolfshops.com/Privacy_Policy_2010.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - Worldwide Golf Shops
 
