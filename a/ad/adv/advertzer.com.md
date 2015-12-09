@@ -1,16 +1,6 @@
-> *The following text is extracted and transformed from the advertzer.com privacy policy that was archived on 2015-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150504064709id_/http%3A//advertzer.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the advertzer.com privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209072028id_/http%3A//www.advertzer.com/privacy.php) for the most accurate reproduction.*
 
-# Advertzer | Advertising Income Potential
-
-Skip to content   
-   
-
-Notice Board: **Officially launched On 19/03/2015** Activation ads and Paid ads are delivered daily between 00:00 to 06:00am server time. 
-
-  
-
-
-### Privacy Policy
+# Advertzer - The adnetwork
 
 This Privacy Policy is only applicable to the Site, and not to any other websites that you may be able to access from the Site, each of which may have data collection, storage, and use practices and policies that differ materially from this Privacy Policy.
 
