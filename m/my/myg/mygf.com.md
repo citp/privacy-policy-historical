@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the mygf.com privacy policy that was archived on 2015-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150324141450id_/http%3A//www.mygf.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mygf.com privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209102710id_/http%3A//mygf.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Your privacy is of the utmost importance to us. This Privacy Policy (the "Policy") applies to the site mygf.com and all other sites owned or controlled by DJSM Assets Limited. ("the Company") and in which this policy appears. As noted below, please be aware that we may change our Privacy Policy in the future and it is your obligation to review this Privacy Policy from time to time and the effective date listed with it.
+Your privacy is of the utmost importance to us. This Privacy Policy (the "Policy") applies to the site mygf.com and all other sites owned or controlled by DaisyHill Investments Ltd. ("the Company") and in which this policy appears. As noted below, please be aware that we may change our Privacy Policy in the future and it is your obligation to review this Privacy Policy from time to time and the effective date listed with it.
 
 Adults Only Service   
 
