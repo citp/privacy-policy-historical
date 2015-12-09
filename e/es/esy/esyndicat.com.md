@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the esyndicat.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609235610id_/http%3A//www.esyndicat.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the esyndicat.com privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209173237id_/http%3A//www.esyndicat.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy :: eSyndiCat Directory Software, Directory Script, Business Directory Software, Link Bid Script
 
@@ -26,4 +26,4 @@ Alternatively you can report piracy using our [contact form](http://www.esyndica
 
 ## Testimonials
 
-Ok I have been playing around with the free version and like it so much that after 6 hours i decided to buy the the pro version and buy now was the right time because of the exchange rate it was a bargain. Still customising the site it be used at but so happy with it. Palis Web Solutions
+eSyndiCat directory software is the top most software available in todays high competitive market. I love esyndicat software. No need to think for a second time. I am using this software and you can check this at www.topindiandirectory.com
