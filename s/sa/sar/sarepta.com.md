@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sarepta.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610054917id_/http%3A//www.sarepta.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sarepta.com privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209025009id_/http%3A//www.sarepta.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Sarepta Therapeutics
 
@@ -8,7 +8,7 @@
 
 ### INTRODUCTION
 
-Sarepta Therapeutics, Inc. (" **Sarepta** ", " **Company** " or " **We"** ) respects your privacy and is committed to protecting it through our compliance with this policy. This policy describes the types of information we may collect from you or that you may provide when you visit [**www.sarepta.com**](https://web.archive.org/web/20150610054917id_/http%3A//www.sarepta.com/), [**www.skipahead.com**](http://www.skipahead.com/) and any of our websites (our "Websites") and our practices for collecting, using, maintaining, protecting and disclosing that information.
+Sarepta Therapeutics, Inc. (" **Sarepta** ", " **Company** " or " **We"** ) respects your privacy and is committed to protecting it through our compliance with this policy. This policy describes the types of information we may collect from you or that you may provide when you visit [**www.sarepta.com**](https://web.archive.org/web/20151209025009id_/http%3A//www.sarepta.com/), [**www.skipahead.com**](http://www.skipahead.com/) and any of our websites (our "Websites") and our practices for collecting, using, maintaining, protecting and disclosing that information.
 
 This policy applies to personal and other information we may collect:
 
@@ -100,7 +100,7 @@ We strive to provide you with choices regarding the personal information you pro
 
 By submitting your information on one of our Websites, you are consenting to your information being sent to Sarepta in the United States for the purposes described in this Privacy Policy. Note that the laws of the United States pertaining to the use and protection of personal information may differ from that of other countries.
 
-### ACCESSING AND CORRECTNG YOUR INFORMATION
+### ACCESSING AND CORRECTING YOUR INFORMATION
 
 You may send us an e-mail at [websiteadmin@sarepta.com](mailto:websiteadmin@sarepta.com) to request access to, correct or delete any personal information that you have provided to us. We may not accommodate a request to change information if we believe the change would violate any law or legal requirement or cause the information to be incorrect. Proper access and use of information provided on our Websites is governed by our [terms of use](https://web.archive.org/terms-use).
 
