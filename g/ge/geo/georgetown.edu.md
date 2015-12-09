@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the georgetown.edu privacy policy that was archived on 2015-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150507180031id_/http%3A//www.georgetown.edu/privacy-policy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the georgetown.edu privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209090246id_/http%3A//www.georgetown.edu/privacy-policy) for the most accurate reproduction.*
 
-# Electronic Records and Privacy Policy - Georgetown University
+# Privacy Policy | Georgetown University
 
 In keeping with state and federal legislation, the University safeguards the privacy of patients, students, employees, University business, and other matters by protecting electronic records classified as confidential information. Unauthorized accessing and/or disclosure of confidential information by University employees is prohibited and may result in legal penalties. This policy applies to records maintained in any type of electronic record: computer, voice, or video. It also applies to records created via the Georgetown University website.
 
