@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tanoth.co.uk privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610010918id_/http%3A//agbserver.gameforge.com/rewrite.php%3Fgame%3Dtanoth%26page%3Dprivacy%26lang%3Den) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tanoth.co.uk privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209172916id_/http%3A//agbserver.gameforge.com/rewrite.php%3Fgame%3Dtanoth%26page%3Dprivacy%26lang%3Den) for the most accurate reproduction.*
 
 # Gameforge
 
