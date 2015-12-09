@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the codeverge.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610020415id_/http%3A//codeverge.com/site%7Eprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the codeverge.com privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209183744id_/http%3A//codeverge.com/site%7Eprivacy) for the most accurate reproduction.*
 
-# CodeVerge Privacy Policy
+# codeverge Privacy Policy
 
 ####  Privacy Policy 
 
-CodeVerge is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement. 
+codeverge is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement. 
 
 We may change this policy from time to time by updating this page. You should always check this page to ensure that you are happy with any changes. 
 
