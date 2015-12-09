@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the volcom.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623131618id_/http%3A//www.volcom.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the volcom.com privacy policy that was archived on 2015-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151210005119id_/http%3A//www.volcom.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Volcom
 
 Volcom respects the privacy of all of our visitors and pledge to provide you with the best online experience possible.   This privacy policy tells you what information we collect from you, how we may use it and the steps we take to ensure that it is protected. ****
 
