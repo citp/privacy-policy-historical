@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the geeky-gadgets.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627132553id_/http%3A//www.geeky-gadgets.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geeky-gadgets.com privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209191341id_/http%3A//www.geeky-gadgets.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -22,10 +22,12 @@ We also may use DART cookies for ad serving through Google’s DoubleClick, whic
 
 You can choose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security. However, this can affect how you are able to interact with our site as well as other websites. This could include the inability to login to services or programs, such as logging into forums or accounts.
 
+We use [Viglink](http://www.viglink.com/legal/disclosures/for-users/) to automatically affiliate outgoing links, you can find out full details on the [Viglink Privacy Policy here](http://www.viglink.com/legal/disclosures/for-users/). These links are added after our content is produced and do not influence the content we feature on the site.
+
 **Deleting cookies does not mean you are permanently opted out of any advertising program. Unless you have settings that disallow cookies, the next time you visit a site running the advertisements, a new cookie will be added.**
 
 **You can find out more information about advertising cookies and how you can disable them over at the[your online choices](http://www.youronlinechoices.com/uk/about-behavioural-advertising) website.**
 
 **You can also change your preferences in your web browser to control cookies for the websites you visit, how this is done varies on your individual browser, please refer to your browser help section for more information on how this can be done.**
 
-Updated 26th May 2012 to comply with the new UK privacy policies, you can find more details about the new UK and EU cookie law over at the [Information Commissioners Office](http://www.ico.gov.uk/news/blog/2012/updated-ico-advice-guidance-e-privacy-directive-eu-cookie-law.aspx).
+Updated 14th October 2015 to comply with the latest UK privacy policies, you can find more details about the new UK and EU cookie law over at the [Information Commissioners Office](https://ico.org.uk/).
