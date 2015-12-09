@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the timetemperature.com privacy policy that was archived on 2015-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150430065359id_/http%3A//www.timetemperature.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the timetemperature.com privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209174214id_/http%3A//www.timetemperature.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -30,14 +30,16 @@ Our website has text and graphical links to other web sites, companies and gover
 
 We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address, and clickstream information. We have no control over the information collected by such ad servers or how that information is used
 
-Google, as a third party vendor, uses cookies to serve ads on our site. Google's use of the DART cookie enables it to serve ads to our users based on their visit to our sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
+Google, as a third party vendor, uses cookies to serve ads on our site. Google's use of the DoubleClick DART cookie enables it to serve ads to our users based on their visit to our sites and other sites on the Internet. Users may opt out of the use of the Double Click DART cookie by visiting [ad settings](http://www.google.com/ads/preferences/) and also view the[ Google ad and content network privacy policy](http://www.google.com/policies/technologies/ads/).
 
-Tribal Fusion, as a third party vendor, uses cookies to serve ads on our site. Users may opt out of the use of the Tribal Fusion cookie by visiting the Network Advertising Initiatives cookie opt-out page. Tribal Fusion is a member of the Network Advertising Initiative (the "NAI") and is committed to maintaining compliance with the NAI's Self-Regulatory Principles.
+Tribal Fusion, as a third party vendor, uses cookies to serve ads on our site. Users may opt out of the use of the Tribal Fusion cookie by visiting the [Network Advertising Initiative](http://www.networkadvertising.org/choices/) cookie opt-out page. Tribal Fusion is a member of the Network Advertising Initiative (the "NAI") and is committed to maintaining compliance with the NAI's Self-Regulatory Principles.
+
+You can also opt out of a third-party vendor's use of cookies for interest based advertising by visiting [aboutads.info](http://www.aboutads.info/).
 
 ## Website Security
 
 1.For site security purposes and to ensure that this service remains available to all users, this computer system employs software programs to monitor network traffic to identify unauthorized attempts to upload or change information, or otherwise cause damage.  
-2.Except for authorized law enforcement investigations, no other attempts are made to identify individual users or their usage habits. Raw data logs are used for no other purposes.  
+2.Except for authorized law enforcement investigations, or security purposes as stated above, no other attempts are made to identify individual users or their usage habits. Raw data logs are used for no other purposes.  
 3.Unauthorized attempts to upload information or change information on this service are strictly prohibited and may be punishable under the Computer Fraud and Abuse Act of 1986 and the National Information Infrastructure Protection Act.
 
 _www.timetemperature.com, Inc. reserves the right to change, alter or modify these "Privacy Policy" at its sole discretion without further notice to you._
