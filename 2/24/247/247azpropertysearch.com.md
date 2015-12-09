@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 247azpropertysearch.com privacy policy that was archived on 2015-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150619072519id_/http%3A//www.247azpropertysearch.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 247azpropertysearch.com privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209085158id_/http%3A//www.247azpropertysearch.com/privacy) for the most accurate reproduction.*
 
 # West USA Realty Revelation
 
@@ -30,7 +30,7 @@ We may create and use aggregated data and statistical information that does not 
 
 Except as otherwise stated in this Privacy Policy, we will not disclose, sell, trade, or rent your PII to other individuals or companies.
 
-Your PII (and some non-personally identifiable information) will be shared with our employees and with providers of outsourced services, so that they may assist with our website operations or other services we are providing to you. We may also share your information with other providers of real estate-related services that we work with ("Service Partners"), such as a trusted local lender that may contact you regarding your mortgage needs. You may opt out of such sharing at any time by following the opt-out procedures in the Terms and Conditions. Our employees, agents, Service Partners, and brokers are contractually bound to use your PII solely in connection with providing the services to you, and may not use it for any other purpose.
+Your PII (and some non-personally identifiable information) will be shared with our employees and with providers of outsourced services, so that they may assist with our website operations or other services we are providing to you. We may also share your information with other providers of real estate-related services that we work with ("Service Partners"), such as lenders that may contact you regarding your mortgage needs. You may opt out of such sharing at any time by following the opt-out procedures in the Terms and Conditions. Our employees, agents, Service Partners, and brokers are contractually bound to use your PII solely in connection with providing the services to you, and may not use it for any other purpose.
 
 We may be required by law to provide information about you to government authorities, including law enforcement, homeland security, and intelligence agencies. We fully cooperate with law enforcement agencies in identifying persons using the services for illegal activities. We reserve the right to report to law enforcement agencies any activities that we believe to be unlawful or in violation of our Terms and Conditions.
 
