@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onecle.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610160336id_/http%3A//www.onecle.com/info/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onecle.com privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209143150id_/http%3A//www.onecle.com/info/privacy.shtml) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -53,5 +53,3 @@ When you sign up for OneCLE's products and service, we may send you an e-mail co
 We welcome your comments or questions.
 
 #### Sponsored Links
-
-_Last modified: September 6, 2013_
