@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the greenkidcrafts.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607151009id_/http%3A//www.greenkidcrafts.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greenkidcrafts.com privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209082102id_/http%3A//www.greenkidcrafts.com/privacy) for the most accurate reproduction.*
 
-# Privacy - Green Kid Crafts
+# Privacy | Green Kid Crafts | Official Site
 
 **What information do we collect?**
 
