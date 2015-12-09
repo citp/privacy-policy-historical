@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the insidethegames.biz privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626122454id_/http%3A//www.insidethegames.biz/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insidethegames.biz privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209113514id_/http%3A//www.insidethegames.biz/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Policy
 
 Dunsar Media Company Limited ("We") are committed to protecting and respecting your privacy.  
 This policy (together with our [terms of use](https://web.archive.org/terms-and-conditions) and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
 
-For the purpose of the Data Protection Act 1998 (the Act), the data controller is Dunsar Media Company Limited of 1 Mortain Close, Caldecotte, Milton Keynes, MK7 8LS.
+For the purpose of the Data Protection Act 1998 (the Act), the data controller is Dunsar Media Company Limited of Chilcompton, Green Lane, Aspley Guise, Milton Keynes, MK17 8EN.
 
 ### Information we may collect from you
 
