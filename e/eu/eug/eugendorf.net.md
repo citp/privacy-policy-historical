@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eugendorf.net privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610054523id_/http%3A//eugendorf.net/static/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eugendorf.net privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209093525id_/http%3A//eugendorf.net/static/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy for Eugendorf.net | Eugendorf.net - Social Bookmarking Site
 
