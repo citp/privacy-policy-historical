@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the leadingtrader.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610011558id_/http%3A//www.leadingtrader.com/public/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leadingtrader.com privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209175536id_/http%3A//www.leadingtrader.com/public/privacy-policy) for the most accurate reproduction.*
 
 # Our Privacy Policy | Leadingtrader.com
 
