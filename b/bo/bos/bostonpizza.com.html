@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the bostonpizza.com privacy policy that was archived on 2015-06-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150610024003id_/http%3A//bostonpizza.com/en/legal/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bostonpizza.com privacy policy that was archived on 2015-12-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151209100000id_/https%3A//bostonpizza.com/en/legal/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:og="http://ogp.me/ns#" xml:lang="en" lang="en" class="en desktop-version webkit chrome linux js"><head>
 	<title>Privacy Policy | Legal | Boston Pizza</title>
@@ -39,6 +39,8 @@
 		
 	
 
+    <link rel="stylesheet" type="text/css" media="screen" href="/css/location-prompt.css">
+
 	
 	
 		
@@ -68,7 +70,8 @@
 	<script type="text/javascript" src="/js/handlebars.js"></script>
 	<script type="text/javascript" src="/js/backbone.js"></script>
 	<script type="text/javascript" src="/js/backbone-relational.js"></script>
-	<script type="text/javascript" src="/js/grm/main.js?dupdate=20150226"></script>
+	<script type="text/javascript" src="/js/grm/main.js?dupdate=20150622"></script>
+
 
 
 	<script type="text/javascript" src="/js/global.js"></script>
@@ -90,16 +93,17 @@
 	<!-- GRM App bootstrap -->
 	<script type="text/javascript">
 		bp.grm.App.init({
-			isAuthenticated: 0,
-			lang: 'en',
-            csrf: '9807323c80358ac31a91956ae7e64875',
-			urlParams: [],
-			onosysUrl: 'https://order.bostonpizza.com/api/acount/post_order_registration',
-			onosysKey: '7EA91447BD6AF59D52622B8DEC33E',
-			fbId: '644664915626164',
-			authSuccessRedirect: '/en/mybp',
-			authFailRedirect: '/en/mybp/signin'
-		});
+            isAuthenticated: 0,
+            lang: 'en',
+            csrf: '779bcf8b24e22f4ee9b90ef4f0251029',
+            urlParams: [],
+            onosysUrl: 'https://order.bostonpizza.com/api/account/post_order_registration',
+            onosysKey: '7EA91447BD6AF59D52622B8DEC33E',
+            fbId: '644664915626164',
+            authSuccessRedirect: '/en/mybp',
+            authSuccessRegisterRedirect: '/en/mybp/registration-success',
+            authFailRedirect: '/en/mybp/signin'
+        });
 	</script>
 
 	
@@ -385,7 +389,75 @@ style="display:none;width:0px;height:0px"></iframe>
 
 
 	</div>
-</div>		
+</div>
+<!-- Total tag tracking code -->
+<script src="//tt.mbww.com/tt-38a4e96141d054183c38b1f7549560540a0807ffd68bf7556883fc339b18b9e4.js" async=""></script>
+
+<link rel="stylesheet" type="text/css" media="screen" href="/css/locations.css">
+
+<div class="location-prompt">
+    <div class="location-prompt-modal">
+        <header>
+            <a class="prompt-lang" href="/fr/legal/privacy/">Français</a>
+            <div class="state-1">
+                <h2>Welcome to Boston Pizza</h2>
+                <p></p>
+                <div class="prediction">
+                    <h3>We think you're in: <em></em></h3>
+                    <p>Please pick the store closest to you to set your default pick up location and to better personalize your online experience.</p>
+                </div>
+            </div>
+            <div class="state-2">
+                <div class="prediction result">
+                    <h3>Here are the closest locations to: <em></em></h3>
+                </div>
+            </div>
+        </header>
+        <div class="location-prompt-list">
+        </div>
+        <div class="location-prompt-search">
+            <p>If we’ve got it wrong, you can enter a postal code or city name to select your store.</p>
+            <form>
+                <input type="text" placeholder="Search">
+                <input type="submit" value="Show me more locations">
+            </form>
+            <p class="error">Please enter a search term before searching.</p>
+        </div>
+    </div>
+</div>
+
+<script id="prompt-list" type="text/x-handlebars-template">
+    {{#each this}}
+        <div class="location-prompt-item">
+            <address>
+                <em>{{name}}</em>
+                {{address.address}}<br />
+                {{address.city}}, {{address.province}}, <span>{{address.postal_code}}</span><br />
+                {{distance}} KM Away
+            </address>
+            <div class="set-location">
+                <a href="#" data-id="{{id}}" onClick="ga('send', 'event', 'location prompt', 'click', 'user set bp');">Set as My BP</a>
+            </div>
+        </div>
+    {{/each}}
+</script>
+
+
+<script id="prompt-list-search" type="text/x-handlebars-template">
+    {{#each this}}
+        <div class="location-prompt-item">
+            <address>
+                <em>{{name}}</em>
+                {{address.address}}<br />
+                {{address.city}}, {{address.province}}, <span>{{address.postal_code}}</span>
+            </address>
+            <div class="set-location">
+                <a href="#" data-id="{{id}}" onClick="ga('send', 'event', 'location prompt', 'click', 'user set bp');">Set as My BP</a>
+            </div>
+        </div>
+    {{/each}}
+</script>
+		
 
 		
 <div id="fancybox-tmp"></div><div id="fancybox-loading"><div></div></div><div id="fancybox-overlay"></div><div id="fancybox-wrap"><div id="fancybox-outer"><div class="fancybox-bg" id="fancybox-bg-n"></div><div class="fancybox-bg" id="fancybox-bg-ne"></div><div class="fancybox-bg" id="fancybox-bg-e"></div><div class="fancybox-bg" id="fancybox-bg-se"></div><div class="fancybox-bg" id="fancybox-bg-s"></div><div class="fancybox-bg" id="fancybox-bg-sw"></div><div class="fancybox-bg" id="fancybox-bg-w"></div><div class="fancybox-bg" id="fancybox-bg-nw"></div><div id="fancybox-content"></div><a id="fancybox-close"></a><div id="fancybox-title"></div><a href="javascript:;" id="fancybox-left"><span class="fancy-ico" id="fancybox-left-ico"></span></a><a href="javascript:;" id="fancybox-right"><span class="fancy-ico" id="fancybox-right-ico"></span></a></div></div></body></html>
