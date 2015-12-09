@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the itjobswatch.co.uk privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607142909id_/http%3A//www.itjobswatch.co.uk/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the itjobswatch.co.uk privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209112533id_/http%3A//www.itjobswatch.co.uk/privacy-policy.aspx) for the most accurate reproduction.*
 
-# Privacy policy and information on cookies
+# Privacy Policy and Information on Cookies
 
-IT Jobs Watch is a trading name of Paradigm Software (UK) Limited (a Data Controller for the purposes of the Data Protection Act - Registration Number Z1386188). 
-
-### 1\. Our use of cookies and other information gathering technologies
+### 1\. Cookies and other information gathering technologies
 
 We may collect information regarding your use of the website in order to help us develop the site and our services. This is done through the use of cookies, which enable our system to recognise you when you visit our site. We also use Google Analytics, provided by Google, Inc. Google will use the information they collect about your use of this website to evaluate your website usage, compile reports on website activity for website operators and to provide other related services. 
 
 You can block cookies by activating the setting on your browser that allows you to refuse the setting of all or some cookies. However, if you use your browser settings to block all cookies (including essential cookies) you may not be able to access all or parts of our site. 
+
+We also use Google AdSense to serve ads when you visit our site. For more information about Google advertising privacy, [click here](http://www.google.com/policies/technologies/ads/). 
 
 ### 2\. The information you send us and how we use it
 
@@ -18,8 +18,6 @@ We will not keep your information longer than we reasonably believe is necessary
 
 We also delete any Curriculum Vitae that we receive and are unable to store or forward any such documents to any third party. 
 
-We also use Google AdSense to serve ads when you visit our site. For more information about Google advertising privacy, [click here](http://www.google.com/policies/technologies/ads/). 
-
 ### 3\. How we protect your information
 
 We have put in place various security procedures in accordance with the Information Commissioner's Office's requirements in order to prevent unauthorised access and ensure the correct use of information. 
@@ -28,5 +26,4 @@ We have put in place various security procedures in accordance with the Informat
 
 By using this website or by submitting your information you consent to the use of that information as set out in this policy. If we change our privacy policy we will post the changes on this page, and may place notices on other pages of the website, so that you may be aware of the information we collect and how we use it at all times. You will be deemed to agree to any such changes should you continue to use our services. 
 
-  
-
+IT Jobs Watch is a trading name of Paradigm Software (UK) Limited (a Data Controller for the purposes of the Data Protection Act - Registration Number Z1386188) 
