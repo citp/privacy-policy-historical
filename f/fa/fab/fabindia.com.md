@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fabindia.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610021250id_/http%3A//www.fabindia.com/intl/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fabindia.com privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209184026id_/http%3A//www.fabindia.com/privacy-policy) for the most accurate reproduction.*
 
-# Fabindia.com | Privacy policy
+# Privacy policy – Fabindia.com
 
 At Fabindia, we value your concerns about online privacy & security while browsing and shopping at our website. We make every effort to guarantee that the information you provide will not be misused. If for some reason the following privacy and security policy does not answer your questions, please [contact us](https://web.archive.org/contact-us/). We value your feedback and look forward to improving our services to better meet your needs.
 
