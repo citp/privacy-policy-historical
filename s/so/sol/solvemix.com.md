@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the solvemix.com privacy policy that was archived on 2015-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150524033028id_/http%3A//www.solvemix.com/index.php/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the solvemix.com privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209030742id_/http%3A//www.solvemix.com/index.php/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -50,3 +50,5 @@ Functions of the service Twitter are integrated on our website. These functions 
 We point out that we as providers of the sites no knowledge of the content of the transmitted data and use them through Twitter. For more information, please refer to the privacy statement of Twitter at http://twitter.com/privacy.
 
 Your privacy preferences at Twitter, you can change the account settings under http://twitter.com/account/settings.
+
+* * *
