@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the egbertowillies.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609231128id_/http%3A//egbertowillies.com/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the egbertowillies.com privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209044532id_/http%3A//egbertowillies.com/privacy-policy-2) for the most accurate reproduction.*
 
 # Privacy Policy - EgbertoWillies.com
 
@@ -60,7 +60,7 @@ This online privacy policy applies only to information collected through our web
 
 **Terms and Conditions**
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [http://egbertowillies.com](http://egbertowillies.com/)
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [https://egbertowillies.com](https://egbertowillies.com/)
 
 **Your Consent**
 
@@ -76,7 +76,7 @@ This policy was last modified on 12/12/31
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
-http://egbertowillies.com  
+https://egbertowillies.com  
 Box A3255  
 Kingwood, TX 77345  
 USA  
