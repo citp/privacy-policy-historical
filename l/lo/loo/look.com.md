@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the look.com privacy policy that was archived on 2015-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150506235128id_/http%3A//www.look.com/privacypolicy.qs) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the look.com privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209092151id_/http%3A//www.look.com/legal/privacypolicy) for the most accurate reproduction.*
 
 # Legal: Look.com
 
