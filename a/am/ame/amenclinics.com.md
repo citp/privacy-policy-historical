@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amenclinics.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610051957id_/http%3A//www.amenclinics.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amenclinics.com privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209184418id_/http%3A//www.amenclinics.com/privacy-policy) for the most accurate reproduction.*
 
 # Amen Clinic's Privacy Policy - Amen Clinics
 
@@ -133,11 +133,3 @@ California and Canada residents have the right to know how their information may
 * ### Updates
 
 AmenClinics.com reserves the right, at any time and without notice, to add to, update, change, modify, or revise this Privacy Policy or our services simply by posting such change, update, or modification on the Web Site. Any such addition, update, change, modification, or revision will be effective immediately upon posting on the Web Site. Upon any material change to this Privacy Policy, or our services, we may also notify you by notification on the Site and/or notification delivered by e-mail if you are a current AmenClinics.com Member with a valid, deliverable e-mail address at the time of the material change. If you do not accept the terms of this Policy, we ask that you do not register with AmenClinics.com.
-
-* ### Contact Us
-
-If you have any questions about this Privacy Policy, the practices of this Web Site, or your dealings with AmenClinics.com, you can contact:  
-**Amen Clinics, Inc.**  
-4019 Westerly Place, #100  
-Newport Beach, CA 92660 USA  
-(888) 564-2700 
