@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ksaprice.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610053756id_/http%3A//ksaprice.com/privacy/index) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ksaprice.com privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209075427id_/http%3A//ksaprice.com/privacy/index) for the most accurate reproduction.*
 
-# Compare price in eXtra, Axiom, Souq, Sukar, Panda, Jarir, Othaim in Saudi Arabia.
+# Compare price in eXtra, Axiom, Souq, Sukar, Panda, Jarir, Wadi, Othaim in Saudi Arabia.
 
 ### Privacy Policy
 
