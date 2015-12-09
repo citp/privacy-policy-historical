@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the betterlesson.com privacy policy that was archived on 2015-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150408111355id_/http%3A//betterlesson.com/public/privacy_policy%3Ffrom%3Dcc_footer) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the betterlesson.com privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209045353id_/http%3A//betterlesson.com/public/privacy_policy%3Ffrom%3Dcc_footer) for the most accurate reproduction.*
 
 # BetterLesson Privacy Policy
 
@@ -6,7 +6,7 @@ Welcome to BetterLesson, a content management and collaboration platform consist
 
 BetterLesson values the privacy of the users, subscribers, publishers, members, and others who visit and use the BetterLesson Platform (collectively or individually, “you”, “'You” or “Users”). 
 
-By using the BetterLesson Platform, you expressly consent to the information handling practices described in this notice. This Privacy Notice is incorporated into and is subject to the BetterLesson Platform [Terms of Use](https://web.archive.org/public/terms_of_service). Your use of the BetterLesson Platform and any personal information you provide through the BetterLesson Platform are subject at all time to this Privacy Notice and the [Terms of Use](https://web.archive.org/public/terms_of_service). 
+By using the BetterLesson Platform, you expressly consent to the information handling practices described in this notice. This Privacy Notice is incorporated into and is subject to the BetterLesson Platform [Terms of Use](https://web.archive.org/community/public/terms_of_service). Your use of the BetterLesson Platform and any personal information you provide through the BetterLesson Platform are subject at all time to this Privacy Notice and the [Terms of Use](https://web.archive.org/community/public/terms_of_service). 
 
   1. ### The Information BetterLesson Collects:
 
@@ -28,7 +28,7 @@ By using the BetterLesson Platform, you expressly consent to the information han
     * BetterLesson shows aggregate geographical information about visitors on BetterLessondocument pages in our analytics section. This information includes the cities and countries of people viewing documents, the document which was viewed, and the time the document was viewed. This information is publicly available to all BetterLesson users. If you do not want this geographical information recorded and displayed in this way, you can prevent BetterLesson from doing so by following these steps. First, create a BetterLesson account. Then, in account settings, select "Hide all geographical information." 
   4. ### Your Choices
 
-You may, of course, decline to share your personally-identifiable information with BetterLesson, in which case BetterLesson will not be able to provide to you some of the features and functionality found on the BetterLesson Platform. You may update, correct, or delete your user information and preferences at any time by following the directions [here](http://betterlesson.com/users/edit). 
+You may, of course, decline to share your personally-identifiable information with BetterLesson, in which case BetterLesson will not be able to provide to you some of the features and functionality found on the BetterLesson Platform. You may update, correct, or delete your user information and preferences at any time by following the directions [here](http://betterlesson.com/community/users/edit). 
 
 To protect your privacy and security, we take reasonable steps to verify your identity before granting you account access or making corrections to your information. You are responsible for maintaining the secrecy of your unique password and account information at all times. 
 
