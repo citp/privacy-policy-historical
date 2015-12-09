@@ -1,28 +1,24 @@
-> *The following text is extracted and transformed from the passion4fm.com privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611040330id_/http%3A//www.passion4fm.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the passion4fm.com privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209200424id_/http%3A//www.passion4fm.com/privacy-policy) for the most accurate reproduction.*
 
-# Passion4FM Privacy Policy | Passion for Football Manager
+# Passion4FM Privacy Policy | Passion4FM
 
-## The Privacy policy below describes how Passion4FM.com collects and use the information about its customers and website visitors (You and/or The Website Users)
+## The Privacy policy below describes how Passion4FM.com collects and use the information about its website visitors (You and/or The Website Users)
 
-LAST UPDATED 16. OCTOBER 2014 
+LAST UPDATED 09. SEPTEMBER 2015 
 
-Passion4FM.com is committed to respect the privacy rights of our online visitors. In the modern world of technology your privacy have become more and more important, and this is something we hold in high regard. We have compiled this **_Online Privacy Policy_** to guide how we collect, store, and use the information you provide us.
+We at Passion4FM.com have created this privacy statement in order to show my commitment to my and your privacy. This page explains our approach to privacy and our practices to gather informations from you as visitor at www.Passion4FM.com (hereinafter referred to as: the “Website”), and finally how the information gathering and dissemination practices affects you. Our privacy policy page guides you through how we collect, store, and use the information you provide us, and how you for any reason should disable the use of cookies at the website. This Privacy Policy also contains our policies on cookies. NOTE! This privacy and cookies policy only applies to this Website and not to the companies, individuals, organisations or other websites and third-party tools to which there are links to.
 
-This privacy policy document for Passion4FM, hereby referred to “we”, “us”, “our” or just “the website”, defines what type of information that is collected by us to maintain and provide our unique Football Manager guides and articles to you. This **Privacy Policy** is effective as of the date set above and is only applicable to our services and websites. 
+This privacy policy document for Passion4FM, hereby referred to “we”, “us”, “our” or just “the website”, defines what type of information that is collected by us to maintain and provide you with the best user-experience, serve you content that is valuable for you, and finally gather overall user-behavior that will be valuable to improve the website for the future. This Privacy Policy is effective as of the date set above and is only applicable to our service and website.
 
-**This Privacy Policy currently applies to the following websites operated by us:**
+We reserves the right to change this Privacy Policy at any time. Such changes will become effective and binding after their posting on the Passion4FM.com website. Any changes or modifications will be posted on this page. You agree to regularly review this Privacy Policy for revisions and updates and ensure that you are aware of any changes made. Your continued use of the website will signify your acceptance of these changes. 
 
-  * www.passion4fm.com
-  * [www.mypassion4footballmanager.com](http://www.mypassion4footballmanager.com/ "My Passion for Football Manager")
+##### Disabling And/Or Enabling Cookies
 
+By using and submitting personal information to any of our websites, you signify your assent to Passion4FM’s Online Privacy Policy. If you for any reason should want to opt-out you can disable the use of cookies by modifying the settings on your web browser. 
 
+##### External Links
 
-By using and submitting personal information to any of our websites, you signify your assent to Passion4FM’s Online Privacy Policy. If you do not agree to this Privacy Policy, please do not use our websites. 
-
-We reserves the right to change this Privacy Policy at any time. Such changes will become effective and binding after their posting on the Passion4FM.com website. Any changes or modifications will be posted on this page.  
-You agree to regularly review this Privacy Policy for revisions and updates and ensure that you are aware of any changes made. Your continued use of our websites will signify your acceptance of these changes.
-
-This Privacy Policy applies to Passion4FM only, and not to other companies, advertising and affiliate partners or websites to which we link. When you link to these websites or to any other sites from a website operated by Passion4FM (as listed above), this Privacy Policy no longer applies. These third party companies may have its own data collection, practices and policies, which we are not responsible for. We cannot guarantee that the privacy policies of such sites meet our high standards. We recommend you to read the privacy policy of the external website before you submit any personal information to them.
+This Privacy Policy applies to www.Passion4FM.com only, and not to other companies, advertising and/or affiliate partners or websites to which we link. When you click on links to these websites or to any other sites from Passion4FM.com, this Privacy Policy will no longer apply. These third party companies may have its own data collection, practices and policies, which we are not responsible for. We cannot guarantee that the privacy policies of such sites meet our high standards. We recommend you to read the privacy policy of the external website before you submit any personal information to them.
 
 You can read more about the intention of our Privacy Policy below. 
 
@@ -40,22 +36,30 @@ You can read more about the intention of our Privacy Policy below.
 
 ### What Information do We Collect From Our Users?
 
-Our website is free to use, and you will never need to pay or register on the website(s) to read articles or download content. We will put much effort to keep it this way, as our main target is to provide you with great guides and tutorials for free. 
+##### Information Automatically Collected When Browsing the Website
 
-You may need to register through third party companies or services to interact with our vibrant community, get exclusive newsletters from Passion4FM or get in touch with us through one of the social medias we are part of. Read more in the Social Media interaction section below. 
+When visiting Passion4FM.com there are two types of information we may gather:
 
-##### Information Collected When Browsing the Website
+    * A) **Personally identifiable information**
+    * B) **Non-personally identifiable information**
 
-The Website may collect information about You, but only if you voluntarily provide it to us. There are two types of information we may gather. First we will share what type of personally identifiable information we collect, then we will provide information about the different types of non-personally identifiable information we collect. 
+A) **Personally identifiable information**  
+The Website may collect information about You, but only if you voluntarily provide it to us, either by using fill-in forms, such as register as guest-writer, author or contributor on the Website, subscribe to our newsletter, by entering online tournaments, competitions, giveaways or contacting us by e-mail for support or to provide any feedback you may have. The entered data within the form will not be stored on our webserver for any longer than one month.
 
-The different types of _personally identifiable information_ let us provide Our services to You. Such information may include but is not limited to name, e-mail address, demographics, age, website and other important information to identify you as the User. These pieces of information may vary depending on the circumstances, but is merely provided to provide You the Support you require, such as letting us get in touch with You and answer any questions you may have.
+The different types of _personally identifiable information_ let us provide Our services to You. Such information may include but is not limited to name, e-mail address, demographics, age, website and other important information to identify you as the User. These pieces of information may vary depending on the circumstances, but is gathered to provide You the Support you require, such as letting us get in touch with You and answer any questions you may have by email. 
 
-Do note that Users provide all such information voluntarily when Register as subscriber, author or contributor on the Website(s), E-mail us a question or providing any feedback by the use of any forms on the Website, Register for Polls or Surveys, Subscribe to newsletters or Participate in online contests, tournaments or other events.  
-This information will not be displayed to us when simply browsing the website.
+Cookies are small pieces of data that are sent to your browser from a web server and are stored on your computer’s hard drive and help Us identify you as the User. You have the choice to modify your browser and thus to accept or reject the cookies used by Passion4FM or any of our third party companies/services. 
 
-**_Do note that we will get information about your internet protocol (IP) automatically when submitting a form or using our author login page. This information will not be stored for longer than a month. This is done merely to protect us from unprofessional people who wish to spam us or tries to hack the Website._**
+Read more about [Passion4FM’s cookies policy](http://passion4fm.com/privacy-policy/#cookies-policy "Passion for Football Manager Cookie Policy") here. 
 
-Like many other websites Passion4FM do use log files to gather information of Your visits. Log files is pieces of ‘anonymous’ information about the website activity, including how many “hits” a particular web page is getting or how you found the particular page – search term or referring URL. It lets us gather statistics about general user habits and maintain website security. Log files will be used internally only, for internal marketing studies to improve our services, and may be combined with data collected via cookies to help us aggregate behavior patterns of registered users.
+**The personal identifiable information will not be displayed to us when simply browsing the website.**
+
+_Do note that we will get information about your internet protocol (IP) automatically when submitting a form or using our author login page. This information will not be stored for longer than a month. This is done merely to protect us from unprofessional people who wish to spam us or tries to hack the Website._
+
+B) **Non-personally identifiable information**  
+This website uses various web analytics tools (such as Google Analytics) and other measurement tools to help analyse how users use the site. The Log files, which we will automatically gather for every visit is pieces of ‘anonymous’ information about the website activity, including how many “hits” a particular web page is getting or how you found the particular page: search term or referring URL. It lets us gather statistics about general user habits and maintain website security. Log files will be used internally only, for internal marketing studies to improve our services, and may be combined with data collected via cookies to help us aggregate behavior patterns of registered users. 
+
+These tools use ‘cookies’, which are text files placed on your computer, to collect standard internet log information and visitor behaviour information in an anonymous form. The information generated by the cookie about your use of the website (including your IP address) is transmitted to Google. This information is then used to evaluate visitors use of the website and to compile statistical reports on website activity for passion4fm.com.
 
 When you visit our website the information gathered within the log files will contain basic information about your behavior, your technology and demographics. In short we will gather _non-personally identifiable information_ about Users, such as Your; 
 
@@ -63,11 +67,11 @@ When you visit our website the information gathered within the log files will co
     * Web browser Information (Google Chrome, Firefox, Linux or other OS
     * Internet Service provider (ISP)
     * Country of origin / language
-    * Date and time for visit(s) for analyzing misbehavior or abuse
+    * Date and time for visit(s) for analyzing misbehavior or abuse – but we are not to see personal information apart from IP address
     * Referral URL’s
     * Visited pages, number of clicks / referring and exit pages to analyze trends
 
-Some of this information is collected through Cookies, which are small pieces of data that are sent to your browser from a web server and are stored on your computer’s hard drive and help Us identify you as the User. You have the choice to modify your browser and thus to reject the cookies used by Passion4FM or any of our third party companies/services or functionality features (javascript files and other related scripts). Read more about [Passion4FM’s cookies policy](http://passion4fm.com/privacy-policy/#cookies-policy "Passion for Football Manager Cookie Policy") here.
+**We will never (and will not allow any third party) use the statistical analytics tool to track or to collect any personally identifiable information of visitors to our site. The Web Analytics vendors do not associate your IP address with any other data held by them. Neither we nor the Web Analytics Vendors will link, or seek to link, an IP address with the identity of a computer user. We will not associate any data gathered from this site with any personally identifying information from any source, unless you explicity submit that information via a fill-in form on our website.**
 
 ##### Social Media Interaction
 
@@ -88,9 +92,11 @@ Through some social networking sites’ privacy settings, you can control what d
 
 Information that we collect for a particular purpose is used for that purpose only. Personally identifiable information will only be used to give you a response to your inquiry. Information gathered from those who register on our website(s) as authors or guest writers is used to provide them with the benefits that come along with registration, such as informational e-mails, author resources and guidelines – where the sole purpose is to provide valuable information or communicate with our authors.
 
-The non-personally identifiable information we collect is gathered solely in the purpose to get records of Your visit and be able to improve the Website with more articles You and other Visitors favor. We do not store any information about your visit on our **Football Manager blog** other than to analyze and optimize the website content and further improve the reading experience through the use of cookies. These cookies and log files is only stored while browsing the website and session will end when leaving the site. 
+Your personal information will not be distributed to any third-party accossiations for any purpose.
 
-In addition, personal and/or demographic information collected through one of the activities set above may be used for our internal marketing studies, so we can constantly improve the services we provide and better meet your needs. 
+The non-personally identifiable information we collect is gathered solely in the purpose to get records of Your visit and be able to improve the Website with more articles You and other Visitors favor. We do not store any information about your visit other than to analyze and optimize the website content and further improve the reading experience through the use of cookies. These cookies and log files is only stored while browsing the website and session will end when leaving the site. 
+
+In addition, personal and/or demographic information collected through one of the activities set above may be used for our internal marketing studies, so we can constantly improve the services we provide and better meet your standard and needs. 
 
 No matter what method we use to collect information and no matter how we use that information, we will only collect the information deemed reasonably necessary to fulfill your requests and our legitimate objectives. 
 
@@ -138,7 +144,7 @@ Passion4FM has no access to or control over the use of cookies and storage of pe
 
 **More about Third-Party advertisements**
 
-We also use third party cookies and web beacons in order to support our website through displaying advertisements from our affiliate partners and Google. Third party vendors, including [Google Adsense](https://web.archive.org/web/20150611040330id_/http://passion4fm.com/privacy-policy/www.google.com/AdSense%E2%80%8E), uses cookies to serve ads based on a user’s prior visits to your website.
+We also use third party cookies and web beacons in order to support our website through displaying advertisements from our affiliate partners and Google. Third party vendors, including [Google Adsense](https://web.archive.org/web/20151209200424id_/http://www.passion4fm.com/privacy-policy/www.google.com/AdSense%E2%80%8E), uses cookies to serve ads based on a user’s prior visits to your website.
 
 **Doubleclick Cookies**
 
@@ -159,15 +165,17 @@ _utmz |  These cookies are used to collect information about how visitors use ou
 
 To opt out of being tracked by Google Analytics across all websites visit http://tools.google.com/dlpage/gaoptout.   
   
-|  |   
+Doubleclick | _drt_  
+id |   
+Disqus |  | Third Party cookie attached to the ability to leave comments on our website.   
 Youtube Cookies (3rd Party) |  | We embed videos from our official YouTube channel using YouTube’s privacy-enhanced mode. This mode may set cookies on your computer once you click on the YouTube video player, but YouTube will not store personally-identifiable cookie information for playbacks of embedded videos using the privacy-enhanced mode.  
 Read more at [YouTube’s embedding videos information page](https://support.google.com/youtube/answer/171780?hl=en-GB "Youtube Video embed").   
 |  |   
   
-PASSION4FM COOKIES POLICY WAS LAST UPDATED 16. OCTOBER 2014
+PASSION4FM COOKIES POLICY WAS LAST UPDATED 09. SEPTEMBER 2015
 
 _  
-If you have any questions or like to report an incident of abuse, please email us directly:[admin[@]mypassion4footballmanager.com](mailto:admin@mypassion4footballmanager.com).  
+If you have any questions or like to report an incident of abuse, please[contact us by email](http://www.passion4fm.com/contact-us/).  
 _
 
 * * *
