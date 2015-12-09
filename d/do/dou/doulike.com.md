@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the doulike.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608014403id_/http%3A//www.doulike.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the doulike.com privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209033933id_/http%3A//www.doulike.com/privacy.html) for the most accurate reproduction.*
 
 # DOULIKE - Online Dating Service.
 
