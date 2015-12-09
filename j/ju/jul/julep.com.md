@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the julep.com privacy policy that was archived on 2015-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150602004554id_/http%3A//www.julep.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the julep.com privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209115541id_/http%3A//www.julep.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Julep
 
@@ -18,7 +18,7 @@ Your privacy is very important to us. Accordingly, we have developed this policy
 
 **Making a Purchase**
 
-When you buy something on Julep.com, you have to supply a billing address, phone number, shipping address, and credit card information. By making a purchase, you become a registered user of Julep.com. You can choose to store information needed to make a purchase, such as your credit card number, shipping and billing addresses in the My Account - Profile page. If you change your mind about storing this information, you can amend or delete it by going to the relevant area of the My Account - Profile page and following the instructions. You can access this section using your registration password. 
+When you buy something on Julep.com, you have to supply a billing address, phone number, shipping address, and payment information. By making a purchase, you become a registered user of Julep.com. You can choose to store information needed to make a purchase, such as your credit card number, shipping and billing addresses in the My Account - Profile page. If you change your mind about storing this information, you can amend or delete it by going to the relevant area of the My Account - Profile page and following the instructions. You can access this section using your registration password. 
 
 **Children Under 13**
 
