@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dltk-bible.com privacy policy that was archived on 2015-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150512091420id_/http%3A//www.dltk-kids.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dltk-bible.com privacy policy that was archived on 2015-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151210000526id_/http%3A//www.dltk-kids.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
