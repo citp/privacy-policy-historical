@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the vintageoverdrive.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607145132id_/http%3A//www.vintageoverdrive.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vintageoverdrive.com privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209035653id_/http%3A//www.vintageoverdrive.com/privacy-policy) for the most accurate reproduction.*
 
-# VintageOverdrive » Privacy Policy
+# Privacy Policy
 
 This Privacy Policy is in application to VintageOverdrive. This would impart how VintageOverdrive collects uses and shares the information from or regarding you as you visit a site, gives information on how advertisements are done, both on VintageOverdrive and other websites, and how information is collected based on interactions with the online ads. In addition to the Notice, depending on the relationship with VintageOverdrive, you may receive and be under the coverage of VintageOverdrive, other privacy disclosures within account opening documents and other privacy and security rules as applicable to the relevant affiliate.
 
