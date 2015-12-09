@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the maplefashions.com privacy policy that was archived on 2015-06-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150610021233id_/http%3A//www.maplefashions.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the maplefashions.com privacy policy that was archived on 2015-12-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151209184005id_/http%3A//www.maplefashions.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en" xml:lang="en"><head>
 <title>Privacy Policy</title>
@@ -8,12 +8,13 @@
 <meta content="width=device-width" name="viewport">
 <link href="http://www.maplefashions.com/image/data/favicon.png" rel="icon">
 <link rel="stylesheet" type="text/css" href="catalog/view/javascript/jquery/colorbox/colorbox.css" media="screen">
+<link href="//maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet">
+<link rel="stylesheet" type="text/css" href="catalog/view/theme/default/stylesheet/style.css">
+<link href="catalog/view/theme/default/stylesheet/owl.carousel.css" rel="stylesheet">
 <link rel="stylesheet" type="text/css" href="catalog/view/theme/default/stylesheet/stylesheet.css">
 <link rel="stylesheet" type="text/css" href="catalog/view/theme/default/stylesheet/jquery.selectbox.css">
 <link href="catalog/view/theme/default/stylesheet/jquery.mCustomScrollbar.css" rel="stylesheet" type="text/css">
-
 <link rel="stylesheet" href="catalog/view/theme/default/stylesheet/coda-slider.css" type="text/css" media="screen" title="no title" charset="utf-8">
-
 <script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1"></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js?publisherid=100004558356831768706"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" charset="utf-8" src="//v2.zopim.com/?1bDh89EYO28Dk3beg5qz45xFSTC4hp1u" type="text/javascript"></script><script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.1/jquery.min.js"></script>
 <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.23/jquery-ui.min.js"></script>
 <link rel="stylesheet" type="text/css" href="catalog/view/javascript/jquery/ui/themes/ui-lightness/jquery-ui-1.8.16.custom.css">
@@ -23,12 +24,18 @@
 <script type="text/javascript" src="catalog/view/javascript/common.js"></script>
 <script type="text/javascript" src="catalog/view/javascript/jquery/jquery.carouFredSel-5.6.1-packed.js"></script>
 <script type="text/javascript" src="catalog/view/javascript/jquery/jquery.tools.min.js"></script>
-
+<script src="catalog/view/javascript/menu.js"></script>
 <script type="text/javascript" src="catalog/view/javascript/jquery/jquery.megamenu.js"></script>
-
 <script type="text/javascript" src="catalog/view/javascript/jquery/jquery.elevateZoom-3.0.3.min.js"></script>
-
 <script type="text/javascript" src="http://www.maplefashions.com/catalog/view/javascript/dpEncodeRequest.js"></script>
+<script type="text/javascript">
+/* var windowWidth = $(window).width();
+if(windowWidth < 980){
+  $('head').append('<link rel="stylesheet" type="text/css" href="catalog/view/theme/default/stylesheet/style.css" />');
+}
+*/
+</script>
+<link rel="stylesheet" type="text/css" href="catalog/view/theme/default/stylesheet/responsive.css">
 <script>
 function encodeTxnRequest()
 {
@@ -37,32 +44,31 @@ encodeValue(document.ecom.requestparameter.value);
 document.ecom.submit();
 }
 </script>
-
 <script type="text/javascript">
 jQuery(document).ready(function(){
     jQuery(".megamenu").megamenu();
-	
-	$(".zoomer").elevateZoom({
-			easing : true,
-			zoomWindowFadeIn: 500,
-			zoomWindowFadeOut: 500,
-			lensFadeIn: 500,
-			lensFadeOut: 500,
-			borderSize: 2,
-			zoomWindowWidth:500,
+     var windowWidth = $(window).width();
+if(windowWidth > 980){
+  $(".zoomer").elevateZoom({
+      easing : true,
+      zoomWindowFadeIn: 500,
+      zoomWindowFadeOut: 500,
+      lensFadeIn: 500,
+      lensFadeOut: 500,
+      borderSize: 2,
+      zoomWindowWidth:500,
             zoomWindowHeight:500
-		});
-		
-		jQuery('.orderlistcontainer').hover(
-		function() { jQuery(this).find('.orderlist').stop().show()},
-		function() { jQuery(this).find('.orderlist').stop().hide()}
-		)
-		jQuery('.orderlistcontainer .orderlist').each(function(){
-		 jQuery(this).parent().find('.activeOrder').addClass('block');             
-		})
+    });
+    }
+    jQuery('.orderlistcontainer').hover(
+    function() { jQuery(this).find('.orderlist').stop().show()},
+    function() { jQuery(this).find('.orderlist').stop().hide()}
+    )
+    jQuery('.orderlistcontainer .orderlist').each(function(){
+     jQuery(this).parent().find('.activeOrder').addClass('block');             
+    })
 });
 </script>
-
 <!--[if IE 7]>
 <link rel="stylesheet" type="text/css" href="catalog/view/theme/default/stylesheet/ie7.css" />
 <![endif]-->
@@ -127,33 +133,250 @@ type='text/javascript';e.parentNode.insertBefore($,e)})(document,'script');
 <script type="text/javascript" src="catalog/view/javascript/jquery/jquery.ias.min.js"></script>
 <script type="text/javascript" src="catalog/view/javascript/jquery/jquery.lazyload.min.js"></script>
 <script type="text/javascript" src="catalog/view/javascript/script.js"></script>
-
+<script src="catalog/view/javascript/owl.carousel.js"></script>
+  <script src="catalog/view/javascript/custom.js"></script>
 <script type="text/javascript">
-
 function preload(arrayOfImages) {
     $(arrayOfImages).each(function(){
         (new Image()).src = this;
     });
 }
 preload([
-	'catalog/view/javascript/jquery/colorbox/images/border.png',
-	'catalog/view/javascript/jquery/colorbox/images/controls.png',
-	'catalog/view/javascript/jquery/colorbox/images/overlay.png'
+  'catalog/view/javascript/jquery/colorbox/images/border.png',
+  'catalog/view/javascript/jquery/colorbox/images/controls.png',
+  'catalog/view/javascript/jquery/colorbox/images/overlay.png'
 ]);
 </script>
 <script type="text/javascript">
 function askforsure()
 {
-	var x=window.confirm("Are you sure?")
-	if (x)
-	return true;
-	else
-	return false;
+  var x=window.confirm("Are you sure?")
+  if (x)
+  return true;
+  else
+  return false;
 }
 </script>
 
 
+<nav id="c-menu--slide-left" class="c-menu c-menu--slide-left">
+  <button class="c-menu__close">← Close Menu</button>
+  <div id="megamenu-responsive" class="hide-on-desktop hide-on-tablet">
+  
+  <ul id="megamenu-responsive-root">
+    
+    <li class="root">
+      <ul>
+       
+              <li class="parent"><a href="http://www.maplefashions.com/sarees">Sarees</a>
+                  
+                    <ul>
+                                                <li>
+            <a href="http://www.maplefashions.com/sarees/designer-sarees">Designer Sarees</a>
+           
+            </li>
+                                                <li>
+            <a href="http://www.maplefashions.com/sarees/wedding-sarees">Wedding Sarees</a>
+           
+            </li>
+                                                <li>
+            <a href="http://www.maplefashions.com/sarees/bridalsarees">Bridal Sarees</a>
+           
+            </li>
+                                                <li>
+            <a href="http://www.maplefashions.com/sarees/bollywood-sarees">Bollywood Sarees</a>
+           
+            </li>
+                                                <li>
+            <a href="http://www.maplefashions.com/sarees/party-wear-sarees">Party Wear Sarees</a>
+           
+            </li>
+                                                <li>
+            <a href="http://www.maplefashions.com/sarees/printed-sarees">Printed Sarees</a>
+           
+            </li>
+                                                <li>
+            <a href="http://www.maplefashions.com/sarees/casual-sarees">Casual Sarees</a>
+           
+            </li>
+                                                <li>
+            <a href="http://www.maplefashions.com/sarees/lehenga-sarees">Lehenga Sarees</a>
+           
+            </li>
+                                                <li>
+            <a href="http://www.maplefashions.com/sarees/cotton-sarees">Cotton Sarees</a>
+           
+            </li>
+                                                <li>
+            <a href="http://www.maplefashions.com/sarees/half-n-half-sarees">Half N Half Sarees</a>
+           
+            </li>
+                                  </ul>
+                   
+                  </li>
+              <li class="parent"><a href="http://www.maplefashions.com/salwar-kameez">Salwar Kameez</a>
+                  
+                    <ul>
+                                                <li>
+            <a href="http://www.maplefashions.com/salwar-kameez/anarkali-salwar-suits">Anarkali Salwar Suits</a>
+           
+            </li>
+                                                <li>
+            <a href="http://www.maplefashions.com/salwar-kameez/wedding-salwar-kameez">Wedding Salwar Suits</a>
+           
+            </li>
+                                                <li>
+            <a href="http://www.maplefashions.com/salwar-kameez/designer-salwar-suits">Designer Salwar Suits</a>
+           
+            </li>
+                                                <li>
+            <a href="http://www.maplefashions.com/salwar-kameez/bollywood-salwar-suits">Bollywood Salwar Suits</a>
+           
+            </li>
+                                                <li>
+            <a href="http://www.maplefashions.com/salwar-kameez/party-wear-salwar-kameez">Party Wear Salwar suits</a>
+           
+            </li>
+                                                <li>
+            <a href="http://www.maplefashions.com/salwar-kameez/pakistani-salwar-suits">Pakistani Salwar Suits</a>
+           
+            </li>
+                                                <li>
+            <a href="http://www.maplefashions.com/salwar-kameez/casual-salwar-suits">Casual Salwar Suits</a>
+           
+            </li>
+                                                <li>
+            <a href="http://www.maplefashions.com/salwar-kameez/churidar-salwar-suit">Churidar Salwar Suit</a>
+           
+            </li>
+                                                <li>
+            <a href="http://www.maplefashions.com/salwar-kameez/cotton-salwar-suits">Cotton Salwar Suits</a>
+           
+            </li>
+                                                <li>
+            <a href="http://www.maplefashions.com/salwar-kameez/punjabi-salwar-suit">Punjabi Salwar Suit</a>
+           
+            </li>
+                                                <li>
+            <a href="http://www.maplefashions.com/salwar-kameez/kalidar-salwar-suits">Kalidar Salwar Suits</a>
+           
+            </li>
+                                                <li>
+            <a href="http://www.maplefashions.com/salwar-kameez/palazzo-salwar-suits">Palazzo Salwar Suits</a>
+           
+            </li>
+                                                <li>
+            <a href="http://www.maplefashions.com/salwar-kameez/pant-style-suits">Pant Style Suits</a>
+           
+            </li>
+                                                <li>
+            <a href="http://www.maplefashions.com/salwar-kameez/ready-made-suits"> Ready Made Suits</a>
+           
+            </li>
+                                                <li>
+            <a href="http://www.maplefashions.com/salwar-kameez/straight-salwar-suits">Straight Salwar Suits</a>
+           
+            </li>
+                                  </ul>
+                   
+                  </li>
+              <li class="parent"><a href="http://www.maplefashions.com/lehenga-choli">Lehenga Choli</a>
+                  
+                    <ul>
+                                                <li>
+            <a href="http://www.maplefashions.com/lehenga-choli/designer-lehenga-choli">Designer Lehenga Choli</a>
+           
+            </li>
+                                                <li>
+            <a href="http://www.maplefashions.com/lehenga-choli/bollywood-lehenga-choli">Bollywood Lehenga Choli</a>
+           
+            </li>
+                                                <li>
+            <a href="http://www.maplefashions.com/lehenga-choli/bridal-lehenga-choli">Bridal Lehenga</a>
+           
+            </li>
+                                                <li>
+            <a href="http://www.maplefashions.com/lehenga-choli/wedding-lehenga-choli">Wedding Lehengas</a>
+           
+            </li>
+                                                <li>
+            <a href="http://www.maplefashions.com/lehenga-choli/mahendi-lehenga-choli">Mahendi Lehenga Choli</a>
+           
+            </li>
+                                                <li>
+            <a href="http://www.maplefashions.com/lehenga-choli/sangeet-lehenga-choli">Sangeet Lehenga Choli</a>
+           
+            </li>
+                                  </ul>
+                   
+                  </li>
+              <li class="parent"><a href="http://www.maplefashions.com/gown">Gown</a>
+                  
+                    <ul>
+                                                <li>
+            <a href="http://www.maplefashions.com/gown/partywear-gown">PartyWear Gown</a>
+           
+            </li>
+                                                <li>
+            <a href="http://www.maplefashions.com/gown/bollywood-gown">Bollywood Gown</a>
+           
+            </li>
+                                                <li>
+            <a href="http://www.maplefashions.com/gown/readymade-gown">Readymade Gown</a>
+           
+            </li>
+                                                <li>
+            <a href="http://www.maplefashions.com/gown/designer-gown">Designer Gown</a>
+           
+            </li>
+                                                <li>
+            <a href="http://www.maplefashions.com/gown/wedding-gown">Wedding Gown</a>
+           
+            </li>
+                                  </ul>
+                   
+                  </li>
+              <li><a href="bestsellers">Best Seller</a> </li>
+        <li><a href="ready-to-ship?sort_by=readytoship">Ready to ship</a> </li>
+        <li><a href="all-catalogs">Catalogs</a> </li>
+        <li><a href="sale?sort_by=sale">Sale</a> </li>
+      </ul>
+    </li>
+  </ul>
+  <script type="text/javascript">
+  $('document').ready(function(){
+    $('#megamenu-responsive-root li.parent').prepend('<p>+</p>');
+    
+    $('.menu-toggle').click(function(){
+      $('.root').toggleClass('open');
+    });
+    
+    $('#megamenu-responsive-root li.parent > p').click(function(){
+      if ($(this).text() == '+'){
+        $(this).parent('li').children('ul').slideDown(50);
+        $(this).text('-');
+      }else{
+        $(this).parent('li').children('ul').slideUp(50);
+        $(this).text('+');
+      }
+      
+    });
+  });
+  </script>
+</div>
+</nav>
 <a href="#" class="scrollup" title="Scroll To Top">Top</a>
+<div class="hide"><div id="callnow_content">
+<div class="callnow_phone">
+<div class="icon"><i class="fa fa-phone-square"></i></div>
+  +917069779871 </div>
+ <div class="call_timing">
+<div class="icon"><i class="fa fa-envelope-square"></i></div>
+  Support@maplefashions.com </div>
+<div class="call_timing">
+<div class="icon"><i class="fa fa-clock-o"></i></div>
+  Mon - Sat 11:00 am to 07:00 pm IST </div>
+</div></div>
 <div class="occation_left"></div>
 <div style="display:none">
         <div id="subscribe">
@@ -164,7 +387,7 @@ function askforsure()
             <td valign="top" width="251"><img src="http://www.maplefashions.com/image/data/banners/popup_img.jpg"></td>
             <td width="15"></td>
             <td valign="top" align="center">
-            	
+              
         <h4>Sign Up for Free Email Updates</h4>
         <div class="sub_descr">Get our updates direct in your inbox. Just enter your email address below.<br><br>Your privacy and email are safe with us!</div>
             <input type="text" name="subscribe" class="popup_subscribe_field" placeholder="Enter your email address..."><input type="submit" value="Submit" class="popup_subscribe_btn">
@@ -175,115 +398,276 @@ function askforsure()
             </td>
           </tr>
         </tbody></table>
-
         </div>
         </div>
 </div>
 <script type="text/javascript">
 $('.popup_subscribe_btn').click(function() {
-		if($('.popup_subscribe_field').val())
-		{
-			//alert($('.footer_subscribe_field').val());
-			$.ajax({
-			  url: 'index.php?route=common/footer/addsubscription&email='+$('.popup_subscribe_field').val(),
-			  success: function(data) {
-				  $('.popup_subscribe_field').attr("value","");
-					if(data == 'You have already Subscribed!' || data == 'Successfully Subscribed!')
-					{
-						$('.sub_msg').html(data);
-						$.colorbox.close();
-					}
-					else
-					{
-						$('.sub_msg').html(data);
-					}
-			  }
-			});
-		}
-		else
-		{
-			$('.sub_msg').html('Please enter your email address!');
-		}
-	});
+    if($('.popup_subscribe_field').val())
+    {
+      //alert($('.footer_subscribe_field').val());
+      $.ajax({
+        url: 'index.php?route=common/footer/addsubscription&email='+$('.popup_subscribe_field').val(),
+        success: function(data) {
+          $('.popup_subscribe_field').attr("value","");
+          if(data == 'You have already Subscribed!' || data == 'Successfully Subscribed!')
+          {
+            $('.sub_msg').html(data);
+            $.colorbox.close();
+          }
+          else
+          {
+            $('.sub_msg').html(data);
+          }
+        }
+      });
+    }
+    else
+    {
+      $('.sub_msg').html('Please enter your email address!');
+    }
+  });
 </script>
-
 <div class="toppest_block">
-	<div class="toppest_center row">
+<div id="o-wrapper" class="o-wrapper">
+<main class="o-content">
+  
+      
+      <div class="c-buttons">
+            <button id="c-button--slide-left" class="c-button"><i class="fa fa-bars"></i>
+            </button>
+    
+       
+      </div>
+      <div class="callicon">
+        <div title="Call Now!!!" class="hotline_icon_header"> 
+      <a href="#callnow_content" title="Contact Us" id="callnow"><i class="fa fa-phone"></i></a>
+    </div>
+      </div>
+     
+      <div class="smalllogo">
+        <a href="http://www.maplefashions.com/"><img src="http://www.maplefashions.com/image/data/logo.png" title="Maple Fashions" alt="Privacy Policy"></a>    </div>
+<script type="text/javascript">
+$(document).ready(function()
+{
+    $('.resuser').click(function()
+    {
+        $('.resuser .resmenu').toggleClass('show_me');
+    });
+    $('.research .fa-search').click(function()
+    {
+        $('.research #research').toggleClass('show_me');
+    });
+    $('.cartcurrncy .currency_block .activeOrder.block').click(function()
+    {
+        $('.cartcurrncy .orderlistcontainer').toggleClass('show_me');
+    });
+});
+</script>
+  <div class="resuser">
+    <i class="fa fa-user"></i>
+    <div class="resmenu hblock">
+        <ul>
+                        <li class="myaccount"><a href="my-account"> <i class="fa fa-user"></i> My Account</a></li>
+       
+                        
+                    <li class="top_login_btn"><a title="Login" href="login"> <i class="fa fa-lock"></i> Login</a></li>
+                
+            <li class="wishlist"><a href="wishlist"><i class="fa fa-heart"></i> Wishlist</a></li>
+            <li class="cart"><a href="shopping-cart"><i class="fa fa-shopping-cart"></i> My Cart</a></li>
+            
+                        <li class="check"><a href="checkout"><i class="fa fa-share-square-o"></i> Checkout</a></li>
+                    </ul>
+    </div>
+    
+  
+    </div>
+ 
+  
+  
+     
+  </main>
+ 
+</div>
+<div class="cartcurrncy">
+  <div class="cart_icon"><a href="shopping-cart">Shopping Cart</a></div>
+  <div class="research">
+  <i class="fa fa-search"></i>
+  <div id="research" class="hblock">
+                <input type="text" name="filter_name2" class="span6 filter_name" value="" placeholder="Product Search">
+                <span class="button-search2 span1"><i class="fa fa-search"></i></span>
+    </div> </div>
+   <div class="currency_block">
+            
+                <div class="orderlistcontainer">
+                
+                    <div class="activeOrder block">
+                                                                                                                                            <a href="javascript:void(0);"> Change Currency: USD</a>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            </div>
+                    
+                    <div class="orderlist" style="display: none;">
+                                                                        <div align="left"><a href="javascript:void(0);" onclick="currency_change('INR');">
+                        <span class="WebRupee">Rs : </span>                        
+                         Rupee </a></div>
+                                                                                                                                                <div align="left"><a href="javascript:void(0);" onclick="currency_change('EUR');">
+                        <span>€  : </span>                        
+                         Euro </a></div>
+                                                                                                <div align="left"><a href="javascript:void(0);" onclick="currency_change('GBP');">
+                        <span>£  : </span>                        
+                         British Pound </a></div>
+                                                                                                <div align="left"><a href="javascript:void(0);" onclick="currency_change('AUD');">
+                        <span>AU$  : </span>                        
+                         Australian Dollar </a></div>
+                                                                                                <div align="left"><a href="javascript:void(0);" onclick="currency_change('CAD');">
+                        <span>C$  : </span>                        
+                         Canadian Dollar </a></div>
+                                                                                                <div align="left"><a href="javascript:void(0);" onclick="currency_change('SGD');">
+                        <span>SG$  : </span>                        
+                         Singapore Dollar </a></div>
+                                                                                                <div align="left"><a href="javascript:void(0);" onclick="currency_change('NZD');">
+                        <span>NZ$  : </span>                        
+                         New Zealand </a></div>
+                                                                                                <div align="left"><a href="javascript:void(0);" onclick="currency_change('MUR');">
+                        <span>MUR  : </span>                        
+                         Mauritian Rupee </a></div>
+                                                                                                <div align="left"><a href="javascript:void(0);" onclick="currency_change('MYR');">
+                        <span>MYR  : </span>                        
+                         Malaysian Ringgit </a></div>
+                                                                                                <div align="left"><a href="javascript:void(0);" onclick="currency_change('ZAR');">
+                        <span>ZAR : </span>                        
+                         South African Rand </a></div>
+                                                                                                <div align="left"><a href="javascript:void(0);" onclick="currency_change('SAR');">
+                        <span>SAR  : </span>                        
+                         Saudi Arabian Riyal </a></div>
+                                                                                                <div align="left"><a href="javascript:void(0);" onclick="currency_change('FJD');">
+                        <span>FJD  : </span>                        
+                         Fijian Dollar </a></div>
+                                                                                                <div align="left"><a href="javascript:void(0);" onclick="currency_change('LKR');">
+                        <span>LKR : </span>                        
+                         Sri Lankan Rupee	 </a></div>
+                                                                                                <div align="left"><a href="javascript:void(0);" onclick="currency_change('AED');">
+                        <span>AED : </span>                        
+                         Emirati Dirham	 </a></div>
+                                                                                                <div align="left"><a href="javascript:void(0);" onclick="currency_change('CHF');">
+                        <span>CHF : </span>                        
+                         Swiss Franc </a></div>
+                                                                    </div>
+                </div>
+            </div>
+</div>
+  <div class="toppest_center row">
     <div id="divTopInfo">
 <ul class="topinfo">
 <li class="best"><span>Great Selection</span></li>
 <li class="bollywood"><span>Bollywood Collection</span></li>
-<li class="customize"><span>First in Customization</span></li>
+<!--<li class="customize"><span>First in Customization</span></li>-->
 <li class="delivery"><span>On-time Delivery</span></li>
 <li class="fsordermsgin">Free shipping all over India</li>
 </ul>
 </div>
-	<div align="left" style="float:left;" class="toppst_bar_left"><strong>We ship Worldwide | Free Shipping on Order above USD 499, use code: FREESHIPME</strong></div>
+  <div align="left" style="float:left; clear:both;" class="toppst_bar_left"><strong>We ship Worldwide | Free Shipping on Order above USD 399, use code: FREESHIPME</strong></div>
     
     
-
     
     
     <div align="right" class="toppst_bar_right">
-    	<div class="header_currency">
+      <div class="header_currency">
             <div class="currency_block">
             
                 <div class="orderlistcontainer">
                 
                     <div class="activeOrder block">
-                                                                                                                                            <a href="javascript:void(0);" onclick="currency_change('USD');">USD</a>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    </div>
+                                                                                                                                            <a href="javascript:void(0);" onclick="currency_change('USD');"> Change Currency: USD</a>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            </div>
                     
                     <div class="orderlist" style="display: none;">
-                                                                                    <div><a href="javascript:void(0);" onclick="currency_change('INR');">INR</a></div>
-                                                                                                                                                                        <div><a href="javascript:void(0);" onclick="currency_change('EUR');">EUR</a></div>
-                                                                                                                <div><a href="javascript:void(0);" onclick="currency_change('GBP');">GBP</a></div>
-                                                                                                                <div><a href="javascript:void(0);" onclick="currency_change('AUD');">AUD</a></div>
-                                                                                                                <div><a href="javascript:void(0);" onclick="currency_change('CAD');">CAD</a></div>
-                                                                                                                <div><a href="javascript:void(0);" onclick="currency_change('SGD');">SGD</a></div>
-                                                                                                                <div><a href="javascript:void(0);" onclick="currency_change('NZD');">NZD</a></div>
-                                                                                                                <div><a href="javascript:void(0);" onclick="currency_change('MUR');">MUR</a></div>
-                                                                                                                <div><a href="javascript:void(0);" onclick="currency_change('MYR');">MYR</a></div>
-                                                                                                                <div><a href="javascript:void(0);" onclick="currency_change('ZAR');">ZAR</a></div>
-                                                                                                                <div><a href="javascript:void(0);" onclick="currency_change('SAR');">SAR</a></div>
-                                                                                                                <div><a href="javascript:void(0);" onclick="currency_change('FJD');">FJD</a></div>
-                                                                            </div>
+                                                                        <div align="left"><a href="javascript:void(0);" onclick="currency_change('INR');">
+                        <span class="WebRupee">Rs : </span>                        
+                         Rupee </a></div>
+                                                                                                                                                <div align="left"><a href="javascript:void(0);" onclick="currency_change('EUR');">
+                        <span>€  : </span>                        
+                         Euro </a></div>
+                                                                                                <div align="left"><a href="javascript:void(0);" onclick="currency_change('GBP');">
+                        <span>£  : </span>                        
+                         British Pound </a></div>
+                                                                                                <div align="left"><a href="javascript:void(0);" onclick="currency_change('AUD');">
+                        <span>AU$  : </span>                        
+                         Australian Dollar </a></div>
+                                                                                                <div align="left"><a href="javascript:void(0);" onclick="currency_change('CAD');">
+                        <span>C$  : </span>                        
+                         Canadian Dollar </a></div>
+                                                                                                <div align="left"><a href="javascript:void(0);" onclick="currency_change('SGD');">
+                        <span>SG$  : </span>                        
+                         Singapore Dollar </a></div>
+                                                                                                <div align="left"><a href="javascript:void(0);" onclick="currency_change('NZD');">
+                        <span>NZ$  : </span>                        
+                         New Zealand </a></div>
+                                                                                                <div align="left"><a href="javascript:void(0);" onclick="currency_change('MUR');">
+                        <span>MUR  : </span>                        
+                         Mauritian Rupee </a></div>
+                                                                                                <div align="left"><a href="javascript:void(0);" onclick="currency_change('MYR');">
+                        <span>MYR  : </span>                        
+                         Malaysian Ringgit </a></div>
+                                                                                                <div align="left"><a href="javascript:void(0);" onclick="currency_change('ZAR');">
+                        <span>ZAR : </span>                        
+                         South African Rand </a></div>
+                                                                                                <div align="left"><a href="javascript:void(0);" onclick="currency_change('SAR');">
+                        <span>SAR  : </span>                        
+                         Saudi Arabian Riyal </a></div>
+                                                                                                <div align="left"><a href="javascript:void(0);" onclick="currency_change('FJD');">
+                        <span>FJD  : </span>                        
+                         Fijian Dollar </a></div>
+                                                                                                <div align="left"><a href="javascript:void(0);" onclick="currency_change('LKR');">
+                        <span>LKR : </span>                        
+                         Sri Lankan Rupee	 </a></div>
+                                                                                                <div align="left"><a href="javascript:void(0);" onclick="currency_change('AED');">
+                        <span>AED : </span>                        
+                         Emirati Dirham	 </a></div>
+                                                                                                <div align="left"><a href="javascript:void(0);" onclick="currency_change('CHF');">
+                        <span>CHF : </span>                        
+                         Swiss Franc </a></div>
+                                                                    </div>
                 </div>
             </div>
       </div>
-		<span>Customer Service : +919377152141</span>
+    <span>Customer Service : +917069779871  </span>
+        <div class="offtime">Mon - Sat 11:00 am to 07:00 pm IST </div>
     </div>
     
     
     </div>
 </div>
-
 <div class="header_bg">
 <div id="container">
-
 <div id="header">
     <div id="logo"><a href="http://www.maplefashions.com/"><img src="http://www.maplefashions.com/image/data/logo.png" title="Maple Fashions" alt="Maple Fashions"></a></div>
     
-
 <div class="links">
-<div class="cart_icon"><a title=" (0 Items) Item(s) in Shopping Cart" href="http://www.maplefashions.com/shopping-cart">Shopping Cart  (0 Items)</a></div>    <ul>
+<div id="cart">
+  <div class="heading">
+<div class="cart_icon"><a title=" (0 Items) Item(s) in Shopping Cart" href="http://www.maplefashions.com/shopping-cart">Shopping Cart  (0 Items)</a></div> </div>
+
+<div class="content">
+        <div class="empty"> <div class="iconcart"> </div>Your shopping cart is empty!</div>
+      </div>
+</div>
+
+    <ul>
       <li class="wishlist_icon"><a href="http://www.maplefashions.com/wishlist" id="wishlist-total">Wish List (0)</a></li>
       <li class="wishlist_icon"><a href="http://www.maplefashions.com/my-account">My Account</a></li>
               <li class="user_icon"><a class="quick_register" title="Register" href="http://www.maplefashions.com/quick-register?category_id=0">Register</a></li><li class="user_icon"><a class="quick_login" title="Login" href="http://www.maplefashions.com/quick-login?category_id=0">Login</a></li>             </ul>
 </div>
   
 <div class="row search_block offset6">
-
-  	<div class="span5" id="search">
+    <div class="span5" id="search">
                 <input type="text" name="filter_name" value="Product Search" onclick="this.value = '';" onkeydown="this.style.color = '#000000';">
                 
   </div>
-  	<div class="button-search span1"></div>    
+    <div class="button-search span1"></div>    
 </div>
   
   
 </div>
-
 </div>
 </div>
         <div id="menu">
@@ -293,8 +677,7 @@ $('.popup_subscribe_btn').click(function() {
     <ul>
         
                 <li><a href="http://www.maplefashions.com/sarees">Sarees</a>
-                      
-                        <ul>
+                                              <ul>
                                                                                                         <li><a href="http://www.maplefashions.com/sarees/designer-sarees">Designer Sarees</a></li>
                                                                                                         <li><a href="http://www.maplefashions.com/sarees/wedding-sarees">Wedding Sarees</a></li>
                                                                                                         <li><a href="http://www.maplefashions.com/sarees/bridalsarees">Bridal Sarees</a></li>
@@ -303,13 +686,13 @@ $('.popup_subscribe_btn').click(function() {
                                                                                                         <li><a href="http://www.maplefashions.com/sarees/printed-sarees">Printed Sarees</a></li>
                                                                                                         <li><a href="http://www.maplefashions.com/sarees/casual-sarees">Casual Sarees</a></li>
                                                                                                         <li><a href="http://www.maplefashions.com/sarees/lehenga-sarees">Lehenga Sarees</a></li>
+                                                                                                        <li><a href="http://www.maplefashions.com/sarees/cotton-sarees">Cotton Sarees</a></li>
+                                                                                                        <li><a href="http://www.maplefashions.com/sarees/half-n-half-sarees">Half N Half Sarees</a></li>
                                                                               <li><a href="http://www.maplefashions.com/sarees/catalog">Sarees Catalogs</a></li>
                         </ul>
-                    
-                              </li>
+                                                  </li>
                 <li><a href="http://www.maplefashions.com/salwar-kameez">Salwar Kameez</a>
-                      
-                        <ul>
+                                              <ul>
                                                                                                         <li><a href="http://www.maplefashions.com/salwar-kameez/anarkali-salwar-suits">Anarkali Salwar Suits</a></li>
                                                                                                         <li><a href="http://www.maplefashions.com/salwar-kameez/wedding-salwar-kameez">Wedding Salwar Suits</a></li>
                                                                                                         <li><a href="http://www.maplefashions.com/salwar-kameez/designer-salwar-suits">Designer Salwar Suits</a></li>
@@ -317,29 +700,38 @@ $('.popup_subscribe_btn').click(function() {
                                                                                                         <li><a href="http://www.maplefashions.com/salwar-kameez/party-wear-salwar-kameez">Party Wear Salwar suits</a></li>
                                                                                                         <li><a href="http://www.maplefashions.com/salwar-kameez/pakistani-salwar-suits">Pakistani Salwar Suits</a></li>
                                                                                                         <li><a href="http://www.maplefashions.com/salwar-kameez/casual-salwar-suits">Casual Salwar Suits</a></li>
+                                                                                                        <li><a href="http://www.maplefashions.com/salwar-kameez/churidar-salwar-suit">Churidar Salwar Suit</a></li>
+                                                                                                        <li><a href="http://www.maplefashions.com/salwar-kameez/cotton-salwar-suits">Cotton Salwar Suits</a></li>
+                                                                                                        <li><a href="http://www.maplefashions.com/salwar-kameez/punjabi-salwar-suit">Punjabi Salwar Suit</a></li>
+                                                                                                        <li><a href="http://www.maplefashions.com/salwar-kameez/kalidar-salwar-suits">Kalidar Salwar Suits</a></li>
+                                                                                                        <li><a href="http://www.maplefashions.com/salwar-kameez/palazzo-salwar-suits">Palazzo Salwar Suits</a></li>
+                                                                                                        <li><a href="http://www.maplefashions.com/salwar-kameez/pant-style-suits">Pant Style Suits</a></li>
+                                                                                                        <li><a href="http://www.maplefashions.com/salwar-kameez/ready-made-suits"> Ready Made Suits</a></li>
+                                                                                                        <li><a href="http://www.maplefashions.com/salwar-kameez/straight-salwar-suits">Straight Salwar Suits</a></li>
                                                                               <li><a href="http://www.maplefashions.com/salwar-kameez/catalog">Salwar Kameez Catalogs</a></li>
                         </ul>
-                    
-                              </li>
+                                                  </li>
                 <li><a href="http://www.maplefashions.com/lehenga-choli">Lehenga Choli</a>
-                      
-                        <ul>
+                                              <ul>
                                                                                                         <li><a href="http://www.maplefashions.com/lehenga-choli/designer-lehenga-choli">Designer Lehenga Choli</a></li>
+                                                                                                        <li><a href="http://www.maplefashions.com/lehenga-choli/bollywood-lehenga-choli">Bollywood Lehenga Choli</a></li>
                                                                                                         <li><a href="http://www.maplefashions.com/lehenga-choli/bridal-lehenga-choli">Bridal Lehenga</a></li>
                                                                                                         <li><a href="http://www.maplefashions.com/lehenga-choli/wedding-lehenga-choli">Wedding Lehengas</a></li>
+                                                                                                        <li><a href="http://www.maplefashions.com/lehenga-choli/mahendi-lehenga-choli">Mahendi Lehenga Choli</a></li>
+                                                                                                        <li><a href="http://www.maplefashions.com/lehenga-choli/sangeet-lehenga-choli">Sangeet Lehenga Choli</a></li>
                                                                               <li><a href="http://www.maplefashions.com/lehenga-choli/catalog">Lehenga Choli Catalogs</a></li>
                         </ul>
-                    
-                              </li>
+                                                  </li>
                 <li><a href="http://www.maplefashions.com/gown">Gown</a>
-                      
-                        <ul>
+                                              <ul>
+                                                                                                        <li><a href="http://www.maplefashions.com/gown/partywear-gown">PartyWear Gown</a></li>
                                                                                                         <li><a href="http://www.maplefashions.com/gown/bollywood-gown">Bollywood Gown</a></li>
+                                                                                                        <li><a href="http://www.maplefashions.com/gown/readymade-gown">Readymade Gown</a></li>
                                                                                                         <li><a href="http://www.maplefashions.com/gown/designer-gown">Designer Gown</a></li>
+                                                                                                        <li><a href="http://www.maplefashions.com/gown/wedding-gown">Wedding Gown</a></li>
                                                                               <li><a href="http://www.maplefashions.com/gown/catalog">Gown Catalogs</a></li>
                         </ul>
-                    
-                              </li>
+                                                  </li>
                 
             <li><a href="bestsellers">Best Sellers</a></li>
             <li><a href="ready-to-ship?sort_by=readytoship">Ready To Ship</a></li>
@@ -553,23 +945,19 @@ $('.popup_subscribe_btn').click(function() {
 <div id="footer">
 <div class="column footer_column">
 <div id="container">
-
 <div class="footer_info">
-	
-
-
+  
 <div id="store-messages" class="messages-3">
-		<div class="message first truck">
-			<span><strong>Free Shipping</strong> On order over $499 </span></div>
-		<div class="message card">
-			<span><strong>Ready to ship</strong> Get Fastest Delivery Worldwide</span></div>
-		<div class="message price">
-			<span><strong>Low Guarantee</strong> Price match Promise</span></div>
-		<div class="message last call">
-			<span><strong>Quick Support </strong> Call +91 9377152141</span></div>
-	</div>
+    <div class="message first truck">
+      <span><strong>Free Shipping</strong> On order over $399 </span></div>
+    <div class="message card">
+      <span><strong>Ready to ship</strong> Get Fastest Delivery Worldwide</span></div>
+    <div class="message price">
+      <span><strong>Price Guarantee</strong> Price match Promise</span></div>
+    <div class="message last call">
+      <span><strong>Quick Support </strong> Call +91 9377152141</span></div>
+  </div>
 </div>
-
 <div class="social_icon" align="center">
   <h3>Make friendship with us!
 Like our Facebook, follow our Twitter, join our Google+ circle.</h3>
@@ -577,24 +965,19 @@ Like our Facebook, follow our Twitter, join our Google+ circle.</h3>
       <div class="icons">
         <ul>
                     <li class="facebook social_icons"><a title="Like us on Facebook" href="https://www.facebook.com/themaplefashion" target="_blank"></a></li>                  
-                	<li class="twitter social_icons"><a title="Follow us on Twitter" href="http://www.twitter.com/themaplefashion" target="_blank"></a></li>                  
-                	<li class="pinterest social_icons"><a title="Pinterest" href="http://www.pinterest.com/themaplefashion/maple-fashions/" target="_blank"></a></li>    
-                	<li class="googleplus social_icons"><a title="Follow us on Google+" href="https://plus.google.com/u/0/100852680784888940969/posts" target="_blank"></a></li>        
-                	<li class="youtube social_icons"><a title="YouTube" href="http://www.youtube.com/channel/UCOAw5q9smkAR2Yb2wAFm1Uw" target="_blank"></a></li>
-                    <li class="blog social_icons"><a title="Blog" href="http://maplefashionsonline.blogspot.in/" target="_blank"></a></li>
-                    <li class="whatsapp social_icons"><a title="WhatsApp - +91-9377152141"></a></li>
-        </ul>
+                  <li class="twitter social_icons"><a title="Follow us on Twitter" href="http://www.twitter.com/themaplefashion" target="_blank"></a></li>                  
+                  <li class="pinterest social_icons"><a title="Pinterest" href="http://www.pinterest.com/themaplefashion/maple-fashions/" target="_blank"></a></li>    
+                  <li class="googleplus social_icons"><a title="Follow us on Google+" href="https://plus.google.com/u/0/100852680784888940969/posts" target="_blank"></a></li>        
+                  <li class="youtube social_icons"><a title="YouTube" href="http://www.youtube.com/channel/UCOAw5q9smkAR2Yb2wAFm1Uw" target="_blank"></a></li>                    <li class="blog social_icons"><a title="Blog" href="http://maplefashionsonline.blogspot.in/" target="_blank"></a></li>                    <li class="whatsapp social_icons"><a title="WhatsApp - +91-9377152141"></a></li>                    <li class="instagram social_icons"><a title="Instagram" href="http://www.instagram.com/themaplefashions" target="_blank"></a></li>        </ul>
         </div>
   </div>
 </div>
-
 <div class="footerinner">
 <div id="container">
-
 <div class="margin_bottom_15px">
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
   <tbody><tr>
-    <td valign="top">
+    <td valign="top" class="block">
     <h3>Information</h3>
     <ul>
         <li><a href="http://www.maplefashions.com/about-us">About Us</a></li>
@@ -604,18 +987,18 @@ Like our Facebook, follow our Twitter, join our Google+ circle.</h3>
     </ul>
     
     </td>
-    <td valign="top">
+    <td valign="top" class="block">
     <h3>Policies</h3>
     <ul>
-    	<li><a href="http://www.maplefashions.com/privacy-policy">Privacy Policy</a></li>
+      <li><a href="http://www.maplefashions.com/privacy-policy">Privacy Policy</a></li>
         <li><a href="http://www.maplefashions.com/shipping-policy">Shipping Policy</a></li>
         <li><a href="http://www.maplefashions.com/return-policy">Return Policy</a></li>
         <li><a href="http://www.maplefashions.com/terms-and-conditions">Terms &amp; Conditions</a></li>
         <li><a href="http://www.maplefashions.com/disclaimer">Disclaimer</a></li>
     </ul>
     </td>    
-    <td valign="top">
-	<h3>My Account</h3>
+    <td valign="top" class="block">
+  <h3>My Account</h3>
     <ul>
       <li><a href="http://www.maplefashions.com/my-account">My Account</a></li>
       <li><a href="http://www.maplefashions.com/order-history">Order History</a></li>
@@ -623,22 +1006,22 @@ Like our Facebook, follow our Twitter, join our Google+ circle.</h3>
       <li><a href="http://www.maplefashions.com/newsletter">Newsletter</a></li>
     </ul>
     </td>
-    <td valign="top">
-	<h3>Knowledge base</h3>
+    <td valign="top" class="block">
+  <h3>Knowledge base</h3>
     <ul>
       <li><a href="how-to-wear-saree">How to Wear Saree</a></li>
       <li><a href="saree-drapping-style">Saree Drapping Styles</a></li>
       <li><a href="lehenga-style-saree">Lehenga Style Saree</a></li>
-      <li><a href="size-knowledge">Size Knowledge</a></li>
+      <li><a href="size-knowledge" class="sizeknow">Size Knowledge</a></li>
         <li><a href="anarkali-salwar-suit">Anarkali Salwar Suit</a></li>
     </ul>
     </td>
     <td valign="top" width="300">
-    	<div class="footer_newslatter_box">
+      <div class="footer_newslatter_box">
             <h3>Sign up for Newsletter</h3>
             <div class="small_text">Subscribe to our newsletter to get special discounts, limited period offers,
 subscriber only deals and limited edition designs.</div>
-            <div><input type="text" name="subscribe" class="footer_subscribe_field" placeholder="Enter email"><input type="submit" value="Submit" class="footer_subscribe_btn"></div>
+            <div class="newsblock"><input type="text" name="subscribe" class="footer_subscribe_field" placeholder="Enter email"><input type="submit" value="Submit" class="footer_subscribe_btn"></div>
             <div class="red sub_error"></div>
         </div>
          
@@ -654,22 +1037,50 @@ subscriber only deals and limited edition designs.</div>
   </div>
  
 </div>
-
 <div id="powered">
-	<div id="container">
-	<div class="power_left" style="line-height:18px;">© 2015, <a href="http://www.MapleFashions.com">MapleFashions.com</a>. All rights reserved.<br>Design &amp; Developed By <a target="_blank" title="+91.9825278089" href="http://www.3fusion.in">3Fusion</a></div>
+  <div id="container">
+  <div class="power_left" style="line-height:18px;">© 2015, <a href="http://www.MapleFashions.com">MapleFashions.com</a>. All rights reserved.<br>Design &amp; Developed By <a target="_blank" title="+91.9825278089" href="http://www.3fusion.in">3Fusion</a></div>
     <div class="power_right"></div>
     </div>
 </div>
 </div>
 
-
+<div id="c-mask" class="c-mask"></div>
+<script>
+ 
+  /**
+   * Push left instantiation and action.
+   */
+   var slideLeft = new Menu({
+    wrapper: '#o-wrapper',
+    type: 'slide-left',
+    menuOpenerClass: '.c-button',
+    maskId: '#c-mask'
+  });
+  var slideLeftBtn = document.querySelector('#c-button--slide-left');
+  
+  slideLeftBtn.addEventListener('click', function(e) {
+    e.preventDefault;
+    slideLeft.open();
+  });
+var slideRight = new Menu({
+    wrapper: '#o-wrapper',
+    type: 'slide-right',
+    menuOpenerClass: '.c-button',
+    maskId: '#c-mask'
+  });
+  var slideRightBtn = document.querySelector('#c-button--slide-right');
+  
+  slideRightBtn.addEventListener('click', function(e) {
+    e.preventDefault;
+    slideRight.open();
+  });
+</script>
 <script type="text/javascript">
 $('.tooltip_top').tooltip({align: 'top'});
 $('.tooltip_right').tooltip({align: 'right'});
 $('.tooltip_bottom').tooltip({align: 'bottom'});
 $('.tooltip_left').tooltip({align: 'left'});
-
 $(window).scroll(function(){
         if ($(this).scrollTop() > 100) {
             $('.scrollup').fadeIn();
@@ -684,79 +1095,118 @@ $('.scrollup').click(function(){
 </script>
 <script type="text/javascript">
 (function($){
-
-		$("img.lazy").lazyload({
-		  effect : "fadeIn"
-		});
-
-		$(".scrollbar").mCustomScrollbar({
-			scrollButtons:{
-				enable:true
-			}
-		});
-	
-	$('.footer_subscribe_btn').click(function() {
-		if($('.footer_subscribe_field').val())
-		{
-			//alert($('.footer_subscribe_field').val());
-			$.ajax({
-			  url: 'index.php?route=common/footer/addsubscription&email='+$('.footer_subscribe_field').val(),
-			  success: function(data) {
-				  $('.footer_subscribe_field').attr("value","");
-				alert(data);
-			  }
-			});
-		}
-		else
-		{
-			alert('Please Enter Your Email ID!');
-		}
-	});
-	
-	$("#site_locator_link").colorbox({iframe:true, width:"80%", height:"80%"});
-	$(".gallery").colorbox({rel:'gallery'});
-	$(".colorbox").colorbox();
-	$(".colorbox_inline").colorbox({inline:true});
-	//$("#site_locator_link").colorbox({inline:true, width:"50%"});
-	
+    $("img.lazy").lazyload({
+      effect : "fadeIn"
+    });
+    $(".scrollbar").mCustomScrollbar({
+      scrollButtons:{
+        enable:true
+      }
+    });
+  
+  $('.footer_subscribe_btn').click(function() {
+    if($('.footer_subscribe_field').val())
+    {
+      //alert($('.footer_subscribe_field').val());
+      $.ajax({
+        url: 'index.php?route=common/footer/addsubscription&email='+$('.footer_subscribe_field').val(),
+        success: function(data) {
+          $('.footer_subscribe_field').attr("value","");
+        alert(data);
+        }
+      });
+    }
+    else
+    {
+      alert('Please Enter Your Email ID!');
+    }
+  });
+  
+  $("#site_locator_link").colorbox({iframe:true, width:"80%", height:"80%"});
+  $(".gallery").colorbox({rel:'gallery'});
+  $(".colorbox").colorbox();
+$("#callnow").colorbox({
+  inline: true, width:"350", height:'280'
+});
+  $(".colorbox_inline").colorbox({inline:true});
+  //$("#site_locator_link").colorbox({inline:true, width:"50%"});
+  
 })(jQuery);
 </script>
-
 <script type="text/javascript">
-	$(".ajax").colorbox({
-		scrolling:false
-	});
-	$(".quick_login").colorbox({
-		width:"300", height:'400',scrolling:false
-	});	
-	$(".quick_register").colorbox({
-		width:"300", height:'485',scrolling:false
-	});	
+  $(".ajax").colorbox({
+    scrolling:false
+  });
+  $(".quick_login").colorbox({
+    width:"300", height:'400',scrolling:false
+  }); 
+  $(".quick_register").colorbox({
+    width:"300", height:'485',scrolling:false
+  }); 
 </script>
-
 <script type="text/javascript"><!--
 function currency_change(code) {
-	$.ajax({
-		url: 'index.php?route=product/category/currency_change&currency_code='+code,
-		success: function(data) {
-		window.location.reload(true);
-		}
-	});
+  $.ajax({
+    url: 'index.php?route=product/category/currency_change&currency_code='+code,
+    success: function(data) {
+    window.location.reload(true);
+    }
+  });
 }
 //--></script> 
 <script type="text/javascript">
-	jQuery(document).ready(function(){
+     var windowWidth = $(window).width();
+if(windowWidth > 980){
+  jQuery(document).ready(function(){
     if (document.cookie.indexOf('visited=true') == -1) {
         var fifteenDays = 1000*60*60*24*1;
         var expires = new Date((new Date()).valueOf() +  fifteenDays);
         document.cookie = "visited=true;expires=" +  expires.toUTCString();
-//    	$.colorbox({className:"subscribbox", width:"630px",height:"280px", inline:true, href:"#subscribe"});
+//      $.colorbox({className:"subscribbox", width:"630px",height:"280px", inline:true, href:"#subscribe"});
        $.colorbox({title:"Sign Up", width:"310px",height:"450px", href:"quick-register?category_id=0"});
         }
-		 
+     
+});
+}
+</script>
+<script type="text/javascript">
+removeHoverCSSRule();
+function removeHoverCSSRule() {
+  if ('createTouch' in document) {
+    try {
+      var ignore = /:hover/;
+      for (var i = 0; i < document.styleSheets.length; i++) {
+        var sheet = document.styleSheets[i];
+        if (!sheet.cssRules) {
+          continue;
+        }
+        for (var j = sheet.cssRules.length - 1; j >= 0; j--) {
+          var rule = sheet.cssRules[j];
+          if (rule.type === CSSRule.STYLE_RULE && ignore.test(rule.selectorText)) {
+            sheet.deleteRule(j);
+          }
+        }
+      }
+    }
+    catch(e) {
+    }
+  }
+}
+</script>
+ 
+<script type="text/javascript">
+    $(document).ready(function() {
+  $('.block h3').append('<div class=\'tog-btn\'></div>');
+  $('.tog-btn').click(function()
+  {
+    $(this).parent().parent().find('ul').slideToggle();
+    
+     //$(this).parent().parent().find('.icons.power_left').slideToggle();
+      //$(this).parent().parent().find('.footer_newslatter_box').slideToggle();
+    $(this).toggleClass('act');
+  });
 });
 </script>
-
 <!-- Google Code for Remarketing Tag -->
 <!--------------------------------------------------
 Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. See more information and instructions on how to setup the tag on: http://google.com/ads/remarketingsetup
