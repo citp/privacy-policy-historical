@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the publicbookshelf.com privacy policy that was archived on 2015-06-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150610084538id_/http%3A//publicbookshelf.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the publicbookshelf.com privacy policy that was archived on 2015-12-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151209092020id_/http%3A//www.publicbookshelf.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" class=" js no-flexbox canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths"><head>
     <meta http-equiv="Pragma" content="no-cache">
@@ -29,7 +29,6 @@
       <!--[if IE 7]>
 			<link rel="stylesheet" type="text/css" href="/css/font-awesome-ie7.css">
 			<![endif]-->
-        <script type="text/javascript" src="/include/jquery.cookies.2.1.0.min.js"></script>
          <link rel="stylesheet" href="/css/page.css">
         <script src="http://code.jquery.com/ui/1.9.1/jquery-ui.js"></script>
 				<script type="text/javascript" src="/include/common.js"></script> 	
@@ -66,12 +65,23 @@
 <div id="overDiv" style="position:absolute; visibility:hidden; z-index:1000;"></div>
 <script type="text/javascript" language="JavaScript" src="/js/overlib/overlib.js"></script>
 
-<div id="main-content-wrapper">
+<div id="main-content-wrapper" style="top: 134px;">
 
 		<div class="wrapper" role="main"> 
 <div id="containerHome" class="container">
+<div class="desktopShare">
+	<span class="pbsShare">
+		<a href="javascript:void(0);" for="facebook"><img src="/images/facebook-share.png"></a>
+	</span>
+	<span class="pbsShare">
+		<a href="javascript:void(0);" for="twitter"><img src="/images/twitter-share.png"></a>
+	</span>
+	<span class="pbsShare">
+		<a href="javascript:void(0);" for="pin"><img src="/images/pin-share.png"></a>
+	</span>
+</div>	
  <div class="privacy-policy">
-    <h2>PublicBookshelf Privacy Policy</h2> 
+    <h2 style="margin-top: 0px">PublicBookshelf Privacy Policy</h2> 
     <p>PublicBookshelf utilizes third-party advertising companies to serve our ads on the Internet. These third-party advertising companies employ cookie and special technology to determine proper add placement for their clients. 
 	This means, these companies gather and analyze anonymous information about your visits to PublicBookshelf as well as other websites. The type of information collected includes:</p> 
     <ul style="font-size: 13px;" class="privacy-policy-ui"> 
@@ -103,18 +113,18 @@
 	<div class="wrapper">
     	<section class="container">
 				        	<article class="sg-17">
-       	  		<a href="/"><img src="/images/img-logo.png" width="414" height="94" alt="PublicBookshelf" class="common-logo-img"></a>
+       	  		<a href="http://www.publicbookshelf.com"><img src="/images/img-logo.png" width="414" height="94" alt="PublicBookshelf" class="common-logo-img"></a>
           	</article>
-            <article class="sg-17">
-				    	<form id="searchbox" class="searchTop" action="/search/results">
-                    <fieldset>
-											<input type="hidden" value="search" name="m">
-											<input type="hidden" value="result" name="act">
-											<input type="hidden" value="000625501603668619819:q1dgfcg1cc4" name="cx">
-											<input type="hidden" value="FORID:11" name="cof">
-                      <input type="text" value="Search by Title, Author, Subject..." name="q" onfocus="this.value = '';">
-                        <input type="submit" value="">
-                    </fieldset>
+            <article class="sg-17 searchContainer">
+				    	<form onsubmit="return ValidSearch(this);" id="searchbox" class="searchTop" action="http://www.publicbookshelf.com/search/results">
+						<fieldset>
+							<input type="hidden" value="search" name="m">
+							<input type="hidden" value="result" name="act">
+							<input type="hidden" value="000625501603668619819:q1dgfcg1cc4" name="cx">
+							<input type="hidden" value="FORID:11" name="cof">
+							<input type="text" placeholder="Search by Title, Author, Subject..." name="q">
+							<input type="submit" value="">
+						</fieldset>
                 </form>			
 				
           </article>
@@ -123,41 +133,190 @@
 </header>
 <div class="topNav">
 	<nav role="navigation" class="wrapper">
-			<ul>
-					<li><a href="/contemporary/">Contemporary<br>Romance</a></li>
-					<li><a href="/romantic-suspense/">Romantic<br>Suspense</a></li>
-					<li><a href="/historical/">Historical<br>Romance</a></li>
-					<li><a href="/regency/">Regency<br>Romance</a></li>
-					<li><a href="/inspirational/">Inspirational<br>Romance</a></li>
-					<li><a href="/vampire/">Vampire<br>Romance</a></li>
-					<li><a href="/western-romance/">Western<br>Romance</a></li>
-					<li><a href="/romance/">General<br>Romance</a></li>
-					<li><a href="/fantasy-paranormal/">Fantasy &amp; Paranormal<br>Romance</a></li>
-			</ul>
-			
+		<ul id="navigationLinks">
+			<li><a href="http://bookies.publicbookshelf.com">Bookies<br>&nbsp;</a></li>
+			<li><a href="http://www.publicbookshelf.com/contemporary/">Contemporary<br>Romance</a></li>
+			<li><a href="http://www.publicbookshelf.com/romantic-suspense/">Romantic<br>Suspense</a></li>
+			<li><a href="http://www.publicbookshelf.com/historical/">Historical<br>Romance</a></li>
+			<li><a href="http://www.publicbookshelf.com/regency/">Regency<br>Romance</a></li>
+			<li><a href="http://www.publicbookshelf.com/inspirational/">Inspirational<br>Romance</a></li>
+			<li><a href="http://www.publicbookshelf.com/vampire/">Vampire<br>Romance</a></li>
+			<li><a href="http://www.publicbookshelf.com/western-romance/">Western<br>Romance</a></li>
+			<li><a href="http://www.publicbookshelf.com/romance/">General<br>Romance</a></li>
+			<li><a href="http://www.publicbookshelf.com/fantasy-paranormal/">Fantasy &amp; Paranormal<br>Romance</a></li>
+		</ul>
 	</nav>
-</div>	</div>
+</div>
+	<div class="pbsTopBanner">
+		<div class="bannerOuter">
+			<div class="bannerInner" style="width: 1310px;">
+				<span class="bannerCont">
+					<span class="bannerNew">New!</span><br>
+					Bookies are here!
+				</span>
+				<span class="bannerCont">
+					Write your own book.<br>
+					Share your story.<br>
+					Get immediate feedback.<br>
+				</span>
+				<span class="bannerCont">
+					Write when you have a few minutes.<br>
+					Add a paragraph, chapter or novel.<br>
+				</span>
+				<span class="bannerCont">
+					<a class="btnRoundedBlue" href="http://bookies.publicbookshelf.com/newest-additions/">See the newest Bookies!</a>
+					<a class="btnRoundedBlue" href="http://bookies.publicbookshelf.com/add/">Start your Bookie now!</a>
+				</span>
+				<span class="closeSection">
+					&nbsp;
+				</span>
+			</div>
+		</div>
+	</div>
+
+<script type="text/javascript" src="/include/jquery.cookies.2.1.0.min.js"></script>
+<script type="text/javascript">
+function ValidSearch(frm) {
+
+	if(frm.q.value.trim() == "" || frm.q.value.trim() == null) {
+		return false;
+	} else {
+		return true;
+	}
+	
+}
+
+function adjustPopupHeight() {
+	$(".popup_content").css('height',$(window).innerHeight()-80+'px');
+}
+	$(document).ready(function() {
+		$('.bannerInner').click(function(){
+			if($("#bookieAddForm").length == 0) {
+				window.location.href="http://bookies.publicbookshelf.com/add/";
+			}
+		});
+		
+		$(document).on('click','.submitBookieBtn',function(){
+			if($("#bookieAddForm").length == 0) {
+				window.location.href="http://bookies.publicbookshelf.com/add/";
+			} else {
+				$(".popup_close").trigger('click')
+			}
+		});
+		
+		$('.btnRoundedBlue, .closeSection').click(function(e){
+			if($(this).attr('href') != '' && $(this).attr('href') != undefined) {
+				window.location.href=$(this).attr('href');
+			}
+			return false;
+		});
+		
+		
+		if($(".pbsTopBanner:visible").length > 0){
+			$("#main-content-wrapper").css("top",$("#main-content-wrapper").offset().top+$(".pbsTopBanner:visible").height()+"px");
+			$("footer").css("top",parseInt($("footer").css("top").replace('px',''))+$(".pbsTopBanner:visible").height()+"px");
+		}
+		
+		$(".pbsShare a").click(function(){
+			
+			var shareFor = $(this).attr("for");
+			var shareUrL = "";
+			var title = document.title;
+			var url =	document.location.href;
+			if(shareFor == "facebook") {
+				shareUrL = "https://www.facebook.com/sharer/sharer.php?u="+url;
+			} else if(shareFor == "twitter") {
+				shareUrL = "http://www.twitter.com/share?url="+url+"&text="+title+"&via=PublicBookshelf";
+			} else if (shareFor == "pin") {
+				shareUrL = "http://pinterest.com/pin/create/button/?url="+url+"&media=http://www.publicbookshelf.com/images/img-logo.png&description="+title;
+			}
+			if(shareUrL != '') {
+				window.open(shareUrL,shareFor,"width=600, height=300");
+			}
+		});
+	});
+	
+	
+</script>
+	</div>
 
   <footer>
 <div class="wrapper">
     <span class="more_books_bottom">
-      <p><b>More Books:</b> <a href="/contemporary/">Contemporary Romance Novels</a> | <a href="/vampire/">Vampire Romance Novels</a> | <a href="/historical/">Historical Romance Novels</a> | <a href="/regency/">Regency Romance Novels</a> | <a href="/romantic-suspense/">Romantic Suspense Novels</a> | <br><a href="/inspirational/">Inspirational Romance Novels</a> | <a href="/fantasy-paranormal/">Fantasy and Paranormal Romance Novels</a> | <a href="/western-romance/">Western Romance Novels</a> | <a href="/romance/">Other Romance Novels</a> | <a href="/biography/">Biographies &amp; Memoirs Books</a> | <a href="/mystery/">Mystery &amp; Suspense Books</a> | <a href="/poetry/">Poetry Books</a> | <a href="/scifi/">SciFi &amp; Horror</a> | <a href="/fiction/">Other Fiction</a> | <a href="/nonfiction/">Other Non-Fiction</a></p>
-    </span>     
+      <p><b>More Books:</b>  <a href="http://bookies.publicbookshelf.com">Bookies</a> | <a href="http://www.publicbookshelf.com/contemporary/">Contemporary Romance Novels</a> | <a href="http://www.publicbookshelf.com/vampire/">Vampire Romance Novels</a> | <a href="http://www.publicbookshelf.com/historical/">Historical Romance Novels</a> | <a href="http://www.publicbookshelf.com/regency/">Regency Romance Novels</a> | <a href="http://www.publicbookshelf.com/romantic-suspense/">Romantic Suspense Novels</a> | <br><a href="http://www.publicbookshelf.com/inspirational/">Inspirational Romance Novels</a> | <a href="http://www.publicbookshelf.com/fantasy-paranormal/">Fantasy and Paranormal Romance Novels</a> | <a href="http://www.publicbookshelf.com/western-romance/">Western Romance Novels</a> | <a href="http://www.publicbookshelf.com/romance/">Other Romance Novels</a> | <a href="http://www.publicbookshelf.com/biography/">Biographies &amp; Memoirs Books</a> | <a href="http://www.publicbookshelf.com/mystery/">Mystery &amp; Suspense Books</a> | <a href="http://www.publicbookshelf.com/poetry/">Poetry Books</a> | <a href="http://www.publicbookshelf.com/scifi/">SciFi &amp; Horror</a> | <a href="http://www.publicbookshelf.com/fiction/">Other Fiction</a> | <a href="http://www.publicbookshelf.com/nonfiction/">Other Non-Fiction</a></p>
+    </span>  
+	<div class="followLikefooter">
+		Follow or Like PublicBookshelf:
+		<br>
+		<span class="pbsShare">
+			<a href="https://www.facebook.com/pages/PublicBookshelf/139289916089170" target="_blank"><img src="/images/facebook-share.png"></a>
+		</span>
+		<span class="pbsShare">
+			<a href="https://twitter.com/PBS_Books" target="_blank"><img src="/images/twitter-share.png"></a>
+		</span>
+		<span class="pbsShare">
+			<a href="https://www.pinterest.com/ReadBooksFree/" target="_blank"><img src="/images/pin-share.png"></a>
+		</span>	
+	</div>	
+	
     <nav role="navigation"> 
         <ul class="bottom_bar_links">
-            <li><a href="/learn-more">How to Publish</a></li>
-            <li><a href="/privacy-policy">Privacy Policy</a></li>
-            <li><a href="/terms-of-use">Terms of Use</a></li>
-            <li><a href="/about-us">About Us</a></li>
-            <li><a href="/author-submissions">Publish</a></li>
-							<li><a href="/login/">Login</a></li>
-				<li><a href="/login/">Register</a></li>
-						<li><a href="/book_club/">Book Club</a></li>
+            <li><a href="http://www.publicbookshelf.com/learn-more">How to Publish</a></li>
+            <li><a href="http://www.publicbookshelf.com/privacy-policy">Privacy Policy</a></li>
+            <li><a href="http://www.publicbookshelf.com/terms-of-use">Terms of Use</a></li>
+            <li><a href="http://www.publicbookshelf.com/about-us">About Us</a></li>
+            <li><a href="http://www.publicbookshelf.com/author-submissions">Publish</a></li>
+							<li><a href="javascript:void(0);" param="login" class="popupLogin">Login</a></li>
+				<li><a href="javascript:void(0);" param="login" class="popupLogin">Register</a></li>
+						<li><a href="http://www.publicbookshelf.com/book_club/">Book Club</a></li>
         </ul>
     </nav>	
+
+
     <span class="float_right">© 2015 PublicBookshelf Corporation</span>
 </div>		
 </footer>
+
+	<link rel="stylesheet" type="text/css" href="/css/popup.css">
+	<script src="/js/jquery.popup.min.js"></script>
+	<script type="text/javascript">
+		setBannerWidth();
+		$(window).load(function(){
+			setBannerWidth();
+		});
+		$(document).ready(function() {
+			if($.cookie("hide_banner") == "true") {
+				$("#main-content-wrapper").css("top",$("#main-content-wrapper").offset().top-$(".pbsTopBanner:visible").height()+"px");
+				$("footer").css("top",parseInt($("footer").css("top").replace('px',''))-$(".pbsTopBanner:visible").height()+"px");
+				$(".pbsTopBanner").remove();
+			}
+			$(".closeSection").click(function(){
+				$("#main-content-wrapper").css("top",$("#main-content-wrapper").offset().top-$(".pbsTopBanner:visible").height()+"px");
+				$("footer").css("top",parseInt($("footer").css("top").replace('px',''))-$(".pbsTopBanner:visible").height()+"px");
+				$(".pbsTopBanner").remove();
+				var date = new Date();
+				var minutes = 60;
+				date.setTime(date.getTime() + (minutes * 60 * 1000));
+				$.cookie("hide_banner",true, {domain: ".publicbookshelf.com",path: '/',expires: date});
+			});
+			setBannerWidth();
+			$(document).on("click",".popupLogin",function(){
+				var checkLoginAuthor = $(this).attr("param");
+				if($(window).innerHeight() <= 500) {
+					if(window.location.href.indexOf("/login/") == -1) {
+						window.location.href='http://www.publicbookshelf.com/login/?redirect='+window.location.href;
+					}
+				} else {
+					var loginPopup = new $.Popup({containerClass: 'loginPopupCont popup_cont'});
+					loginPopup.open("/login_register_popup.php?check="+checkLoginAuthor,undefined,$('#popupLogin'));
+				}
+			});
+		});
+		function setBannerWidth() {
+			$(".bannerInner").css('width',$("#navigationLinks").width()+'px');
+		}
+	</script>
+
 <script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script>
 <script type="text/javascript">
     _uacct = "UA-2817495-1";
