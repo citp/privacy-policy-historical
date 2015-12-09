@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dealsdirect.com.au privacy policy that was archived on 2014-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141224155745id_/http%3A//www.dealsdirect.com.au/s/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dealsdirect.com.au privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209133025id_/http%3A//www.dealsdirect.com.au/s/privacy) for the most accurate reproduction.*
 
-# Deals Direct Privacy Policy
+# Privacy
 
   * Introduction
   * Security of your Personal Information
@@ -171,7 +171,7 @@ DD updates its Privacy Policy from time to time, as and when the Act is amended.
 
 If some or all of the personal information that we request is not provided to us, the main consequence is that we may not be able to fulfil your order or to deliver your products to you. Other consequences may include that we might not be able to resolve any complaint you have against DD.
 
-<strongUsing and disclosing personal information for direct marketing
+**Using and disclosing personal information for direct marketing**
 
 DD may use or disclose personal information about you for the purpose of direct marketing if:
 
@@ -221,50 +221,11 @@ Whilst every effort will be made by DD to provide access in a manner that is as 
 
 **Privacy Complaints**
 
-An individual can complain about an alleged breach by DD of the APPs by sending an email to the Privacy Officer at privacy@dealsdirect.com.au setting out details of the complaint. Alternatively, the Privacy Officer can be contacted by telephoning 02 9641 2222 or by sending a letter with details of your complaint to:
+An individual can complain about an alleged breach by DD of the APPs by sending an email to the Privacy Officer at privacy@dealsdirect.com.au setting out details of the complaint. Alternatively, the Privacy Officer can be contacted by telephoning 02 9741 9600 or by sending a letter with details of your complaint to:
 
 The Privacy Officer  
 Deals Direct Pty Limited  
-5 Inglis Road,  
-Ingleburn NSW 2170
+PO Box 7198  
+Silverwater NSW 1811
 
 All complaints are required by the Act to be made in writing to DD and DD is then allowed a reasonable time (usually 30 days) to respond to complaints. We may ask you to participate in a dispute resolution scheme (such as mediation) in order to resolve your complaint. If you refuse to participate in any form of dispute resolution, you can take your complaint to the Office of the Australian Information Commissioner (OAIC) by calling 1300 363 992 or logging on to the OAIC website at: http://www.oaic.gov.au/
-
-×
-
-* New subscribers only. $50 minumum spend. See Welcome email for details.
-
-No thanks, I'm already a member
-
-To redeem your offer, simply enter the coupon code **LOVEDEALS** when you are ready to checkout to have the discount applied.
-
-The offer is only valid for the email address 
-
-  
-
-
-A Direct Import Product is offered directly from an overseas Supplier. Goods or multiples of goods with a total cost under $1000 are generally exempt from GST. It is recommended that you read the information on the “Direct Import” tab so you are aware of your Direct Importer obligations prior to purchase.
-
-View Direct Import terms & conditions.
-
-**Shipping Promotions**
-
-DealsDirect may at its discretion run shipping promotions from time to time offering shipping discounts or free shipping. Unfortunately we are unable to offer promotional shipping to all locations in Australia.
-
-**The following remote postcodes are excluded from any shipping promotions:**
-
-###  Northern Territory Remote
-
-800, 801, 803, 804, 810, 811, 812, 813, 814, 815, 820, 821, 822, 828, 829, 830, 831, 832, 834, 835, 836, 837, 838, 839, 840, 841, 845, 846, 847, 850, 851, 852, 853, 854, 860, 861, 862, 870, 871, 872, 873, 880, 881, 885, 886, 906, 907, 909
-
-###  New South Wales Remote
-
-2898, 2899
-
-###  Queensland Remote
-
-4183, 4184, 4481, 4482, 4486, 4487, 4488, 4489, 4490, 4491, 4492, 4493, 4700, 4741, 4801, 4802, 4803, 4807, 4816, 4819, 4828, 4829, 4830, 4871, 4873, 4874, 4875, 4876, 4890, 4891, 4895
-
-###  Western Australia Remote
-
-6161, 6207, 6208, 6209, 6210, 6211, 6213, 6214, 6215, 6218, 6220, 6221, 6223, 6224, 6225, 6226, 6227, 6228, 6229, 6230, 6231, 6232, 6233, 6236, 6237, 6239, 6240, 6243, 6244, 6251, 6252, 6253, 6254, 6255, 6256, 6258, 6260, 6262, 6271, 6275, 6280, 6281, 6282, 6284, 6285, 6286, 6288, 6290, 6302, 6304, 6306, 6308, 6309, 6311, 6312, 6313, 6315, 6316, 6317, 6318, 6320, 6321, 6322, 6323, 6324, 6326, 6327, 6328, 6330, 6331, 6332, 6333, 6335, 6336, 6337, 6338, 6341, 6343, 6346, 6348, 6350, 6351, 6352, 6353, 6355, 6356, 6357, 6358, 6359, 6361, 6363, 6365, 6367, 6368, 6369, 6370, 6372, 6373, 6375, 6383, 6384, 6385, 6386, 6390, 6391, 6392, 6393, 6394, 6395, 6396, 6397, 6398, 6401, 6403, 6405, 6407, 6409, 6410, 6411, 6412, 6413, 6414, 6415, 6418, 6419, 6420, 6421, 6422, 6423, 6424, 6425, 6426, 6427, 6428, 6429, 6430, 6431, 6432, 6433, 6434, 6436, 6437, 6438, 6440, 6442, 6443, 6445, 6446, 6447, 6448, 6450, 6452, 6460, 6461, 6462, 6463, 6465, 6466, 6467, 6468, 6470, 6472, 6473, 6475, 6476, 6477, 6479, 6480, 6484, 6485, 6487, 6488, 6489, 6490, 6501, 6502, 6503, 6504, 6505, 6506, 6507, 6509, 6510, 6511, 6512, 6513, 6514, 6515, 6516, 6517, 6518, 6519, 6521, 6522, 6525, 6528, 6530, 6531, 6532, 6535, 6536, 6537, 6556, 6558, 6560, 6562, 6564, 6566, 6567, 6568, 6569, 6571, 6572, 6574, 6575, 6603, 6605, 6606, 6608, 6609, 6612, 6613, 6614, 6616, 6620, 6623, 6625, 6627, 6628, 6630, 6631, 6632, 6635, 6638, 6639, 6640, 6642, 6646, 6701, 6705, 6707, 6710, 6711, 6712, 6713, 6714, 6716, 6718, 6720, 6721, 6722, 6725, 6726, 6728, 6731, 6733, 6740, 6743, 6751, 6753, 6754, 6758, 6760, 6762, 6765, 6770, 6798, 6799
