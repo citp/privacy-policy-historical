@@ -1,91 +1,149 @@
-> *The following text is extracted and transformed from the pella.com privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701121126id_/http%3A//www.pella.com/about-us/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pella.com privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209130759id_/http%3A//www.pella.com/about-us/privacy-policy.aspx) for the most accurate reproduction.*
 
-# About Pella Windows and Doors - Privacy Policy | Pella.com
+# About Pella Windows and Doors - Privacy Policy | Pella
 
-Pella Corporation ("Pella," "we," "us," and "our") owns and operates this website (this "Site"). This Online Privacy Policy (this "Policy") describes our commitment to privacy and reflects the importance we place on earning and keeping your trust. 
+### Effective Date - January 15, 2015
 
-#### Scope Of This Policy
+Pella Corporation ("Pella," "we," "us," and "our") owns and operates this website (this "Site"). This Online Privacy Policy (this "Policy") describes our commitment to privacy and reflects the importance we place on earning and keeping your trust.
 
-Pella has provided this Policy so that you will know what personal information Pella collects through this Site, how Pella uses this information, the types of third parties with whom Pella may share this information, and some of the choices that are available to you.
+To jump to a particular section, click on the relevant link: Otherwise, scroll down to read the entire Policy.
 
-This Policy may be supplemented or amended from time to time by additional privacy notices ("Privacy Notices"), provided at the time we collect your personal information. For example, certain pages of this website may contain privacy notices providing more details about the personal information we collect on those particular pages, why we need that information, and choices you may have about the ways we use that information. In other cases, specific Privacy Notices may be required to comply with the privacy laws of one of the countries, provinces, or states in which we do business. 
+  * Scope of This Policy
+  * Your Consent
+  * Your Choices
+  * This Policy May Change
+  * Information We Collect
+  * Information About Third-Party Cookies
+  * How We Use Your Information
+  * How We Share Your Information
+  * How We Protect Your Information
+  * A Note About Children's Privacy
+  * Links to Other Websites
+  * Access to Your Information
+  * Retention of Personal Information
+  * The Site Is Hosted on Servers Located in the United States
+  * Governing Law
+  * Questions About This Policy or Pella's Data Practices
 
-#### What is "Personal Information"?
 
-As used in this Policy, the term "personal information" means information that identifies you personally, alone or in combination with other information available to us. 
+
+#### Scope of This Policy
+
+Pella collects certain information about or related to you through this Site. Some of the information Pella collects may be "personal information" —information that identifies you personally, alone or in combination with other information available to us. Other information may be non-personally identifiable, such as your IP address.
+
+Pella has provided this Policy so that you will know what information Pella collects, how Pella uses this information, the types of third parties with whom Pella may share this information, and some of the choices that are available to you.
+
+This Policy may be supplemented or amended from time to time by additional privacy notices ("Privacy Notices"), provided at the time we collect your information. For example, certain pages of this Site may contain Privacy Notices providing more details about the information we collect on those particular pages, why we need that information, and choices you may have about the ways we use that information. In other cases, specific Privacy Notices may be required to comply with the privacy laws of one of the countries, provinces, or states in which we do business.
 
 #### Your Consent
 
-By using this Site, you are consenting to the collection, use, disclosure, and transfer of your personal information as described in this Policy (and any Privacy Notices that apply to you). If you do not consent to the collection, use, disclosure and transfer of your personal information as described in this Policy (and any Privacy Notices that apply to you), you may not use this Site. You may call 800-728-1017 to request literature, find a local store or request an appointment. _If you have questions about this Policy, or any Privacy Notice, please contact us via e-mail at[privacy@pella.com](mailto:privacy@pella.com)_.
+By using this Site, you are consenting to the collection, use, disclosure, and transfer of your information as described in this Policy (and any Privacy Notices that apply to you). If you do not consent to the collection, use, disclosure and transfer of your information as described in this Policy (and any Privacy Notices that apply to you), you may not use this Site.
+
+You may call 800-728-1017 to request literature, find a local store, request an appointment, or for other customer service. _If you have questions about this Policy, or any Privacy Notice, please contact us via e-mail at[privacy@pella.com](mailto:privacy@pella.com)_.
 
 #### Your Choices
 
-We respect your right to make choices about the ways we collect, use, and disclose your personal information. This Policy describes some of your choices. In most cases, however, we will ask you to indicate your choices at the time and on the page where you provide your personal information.
+_In General._ We respect your right to make choices about the ways we collect, use, and disclose your information. This Policy describes some of your choices, such as your choice to opt out of recieving "cookies". We may ask you to indicate your choices at this time and on the page where you provide your information.
 
-#### This Privacy Policy May Change
+_Email preferences._ We will include an "opt out" link in each electronic newsletter or promotional email we send you, so that you can inform us that you do not wish to receive such communications from us in the future.
 
-Pella reserves the right to update or modify this Policy and any Privacy Notice, at any time and without prior notice, by posting the revised version of the Policy or Privacy Notice on this Site. These changes will only apply to the personal information we collect after we have posted the revised Policy or Privacy Notice on this Site. 
+_Do Not Track Mechanisms._ California law requires this Policy to address how we respond to any "Do-Not-Track ('DNT') signal" delivered by your browser. Because of the changing state of technology and indecision within the industry regarding the meaning of DNT signals, we currently do not make any guarantee that we will honor DNT signals.
+
+_Previously Expressed Preferences._ You may change previously expressed preferences regarding how we use your information. If at any time you wish to be taken off our mailing lists, please contact us using the information provided below.
+
+#### This Policy May Change
+
+Pella reserves the right to update or modify this Policy and any Privacy Notice, at any time and without prior notice, by posting the revised version of the Policy or Privacy Notice on this Site. These changes will only apply to the information we collect after we have posted the revised Policy or Privacy Notice on this Site. 
 
 Your use of this Site following any such change constitutes your agreement that all information collected from or about you after the revised Policy is posted will be subject to the terms of the revised Policy. You may access the current version of this Policy at any time by clicking on the link marked "Privacy" at the bottom of each page of the public areas of this Site. 
 
-This Policy was last revised on September 7, 2005 and is effective as of that date.
+#### Information We Collect
 
-#### What Information Is Collected on this Site and How Is It Used?
+_Information You Manually Provide._ Pella collects the information you manually provide (using your keyboard, mouse, or touchpad) when you use this Site, for example, we collect the information you provide when you request an appointment, literature, or services, or when you e-mail us with questions or feedback.
 
-When you access and use this Site, there are three ways we may collect information about you:
+_Information From Third-Party Social Media Platforms._ You may be able to register with, log on to, or enhance your profile on this Site by choosing to automatically populate the requested data fields with information you previously provided to a third-party social media platform (such as Facebook or Twitter). By doing this, you are asking the third-party platform to send us information from your profile on that platform. We treat that information as we do any other information you give to us when you register, log on, or enhance your profile.
 
-  1. _Information You Knowingly and Voluntarily Provide_
+_Information Sent to Us by Your Web Browser._ Pella collects information that is sent to us automatically by your web browser. This information typically includes the IP address of your Internet service provider, the name of your operating system, the name and version of your browser, the date and time of your visit, and the pages you visit. The information we receive depends on the settings on your web browser. Please check your browser if you want to learn what information your browser sends or how to change your settings.
 
-Pella collects the personal information you knowingly and voluntarily provide when you use this Site, for example, the information you provide when you request an appointment, request literature or services, or e-mail us with questions or feedback. 
+The information we receive from your web browser is not, in and of itself, personally identifiable. Generally, we use this information to help us improve this Site (for example, by making it more compatible with the technology used by our visitors) and to improve our marketing efforts (for example, by identifying your general geographic location). However, we may combine it with other information in an attempt to identify you or we may combine it with information that does identify you. We may also review our server logs for security purposes—for example, to detect intrusions into our network—and we might share our server logs, which contain visitors' IP addresses, with the appropriate investigative authorities who could use that information to trace and identify you.
 
-Pella uses the personal information you volunteer through this Site to provide the information and services you request and for any other purpose we identify to you in a specific Privacy Notice. For example, we use the information you provide when you request an appointment to make arrangements for a local Pella expert to contact you to discuss your project. The information you provide about yourself (for example, whether you are a homeowner or a builder) and your project helps us determine how to direct your inquiry. As another example, we use the information you provide when you request literature to send you information about the products that interest you. 
+_Information From Your Mobile or Tablet Device._ Likewise, if you access this Site through your mobile or tablet device, we may automatically collect certain information from or about your device. The types of information we may collect include the type of device you use, the IP address of your device, your device’s operating system, the type of mobile or tablet Internet browsers you use, and information about the way you use our mobile or tablet application. This information is not, in and of itself, personally identifiable, but we may combine it with other information in an attempt to identify you or we may combine it with information that does identify you.
 
-When we collect your contact information, we may ask you if you would like to receive news and special offers from us. If you indicate that you would like to receive our mailings, we will add your contact information to our mailing lists and, from time to time, we will send you newsletters or updates, special offers, or other information about programs, services and products we believe would be of interest to you. In addition, if we provide promotional information or materials to you by email, we will include a link to our "opt-out" page in every email. 
+_Information Collected by Cookies and Other Technologies._ We use "cookies" and other technologies to collect information and support certain features of this Site. For example, we may use these technologies to:
 
-Finally, we may remove the information that identifies specific individuals and study the balance of the information we collect through this Site to improve our programs and services, to improve the content, functionality, navigation and usability of this Site, to better understand the needs and interests of our customers and potential customers, and to better market our programs, services and products. 
-
-  2. _Information Sent to Us by Your Web Browser_
-
-Pella collects information that is sent to us automatically by your web browser. This information typically includes the IP address of your Internet service provider, the name of your operating system (such as Windows® or Macintosh®), the name and version of your browser (such as Netscape® or Internet Explorer®), the date and time of your visit, and the pages you visit. The information we receive depends on the settings on your web browser. Please check your browser if you want to learn what information your browser sends or how to change your settings.
-
-The information provided by your browser does not identify you personally, and we do not normally link this information to any other information that would permit us to identify you. Generally, we use this information to create statistics that help us improve our sites and make them more compatible with the technology used by our visitors. However, we may review our server logs for security purposes, for example, to detect intrusions into our network. The possibility therefore exists that, in the event of criminal malfeasance, we might share our server logs, which contain visitors IP addresses, with the appropriate investigative authorities who could use that information to trace and identify individuals.
-
-  3. _Information Collected By Placing a "Cookie" On Your Computer_
-
-Pella uses "cookies" to "tag" your computer when you visit our Site. A cookie is a small text file our Web server offers your browser. Our cookies contain a randomly generated, unique identification number that lets us identify your computer each time your visit our Site. 
-
-We use these cookies to collect statistical information about the ways visitors use our site – which pages they visit, which links they use, and how long they stay on each page. We analyze this information (known as "clickstream data") in statistical form to better understand our visitors’ interests and needs and to improve the content and functionality of our sites. 
-
-Our web server recognizes the cookies on your hard drive each time you visit our Site. Because we recognize your computer, we do not count it twice. Also, we can use the number assigned to your computer to link the clickstream data we collect each time you visit our Site. This technology helps us determine how many visitors are using our site, how often they return, and how their use of our site may vary over time.
-
-These cookies do not identify you personally and we do not link "clickstream data" with any information that identifies you personally.
-
-If you give us your zipcode when you visit our Site, we will place a cookie on your computer’s hard drive that contains your zipcode information. This cookie does not contain any information that identifies you personally. As you browse our Site, our web server will recognize your zipcode and show you products and services available in your area. This cookie expires automatically after 30 days.
-
-If you do not wish to receive cookies, you may set your browser to reject cookies or to alert you when a cookie is placed on your computer. You may also delete our cookies as soon as you leave our Site. Although you are not required to accept our cookies when you visit this Site, you may be unable to use all of the functionality of the Site if your browser rejects our cookies.
+  * collect information about the ways visitors use this Site—which pages they visit, which links they use, and how long they stay on each page;
+  * support the features and functionality of this Site—for example, to save you the trouble of reentering information already in our database or to prompt the settings you established on previous visits;
+  * personalize your experience when you use this Site; and
+  * improve our marketing efforts, including through use of targeted advertising.
 
 
 
+One of the ways we personalize your experience through the use of cookies is by placing a cookie on your computer that contains the zip code you provide to us. As you browse this Site, our web server will recognize your zip code and show you products and services available in your area.
 
-#### Does Pella Share My Personal Data? 
+The information we collect using cookies and similar technologies is not, in and of itself, personally identifiable, but we may link it to personal information that you provide. If you do not wish to receive cookies, you may set your browser to reject cookies or to alert you when a cookie is placed on your computer. You can also clear your cookies at any time through your browser's settings. Although you are not required to accept cookies when you visit this Site, you may be unable to use all of the functionality of this Site if your browser rejects our cookies.
 
-Pella may share personal information collected through this Site with companies and organizations that perform services on our behalf, for example, companies that provide support services to us (such as data storage and web hosting services) or that help us market our products and services (such as third-party e-mail marketing companies). These third parties are required by contract to use the personal information we share with them only to perform services on our behalf and to treat your personal information as strictly confidential. 
+#### Information About Third-Party Cookies
 
-In addition, Pella may share your personal information with our affiliates and distributors, who may use and disclose that personal information as we would to help us provide the products, services and information you request. For example, if you request an appointment, we will find the local Pella expert nearest you. That Pella expert may be a Pella employee or the employee of a Pella distributor. In either case, the Pella expert will use your personal information to follow-up with you as you requested. Our distributors are bound by contract to use the personal information they receive in relation to this Site only as permitted under this Privacy Policy, any applicable Privacy Notices, and applicable privacy laws. This means, among other things, that they may use your personal information only for the purposes for which that information was originally collected or to which you subsequently consent and must take reasonable steps to protect the confidentiality of your personal information. 
+In addition to the cookies Pella delivers to your computer or mobile device through this Site, certain third parties may deliver cookies to you for a variety of reasons. For example, we use Google Analytics, a web analytics tool that helps us understand how visitors engage with our Sites. To learn more about Google Analytics, [click here.](http://www.google.com/intl/en/analytics/privacyoverview.html)
 
-There are other, limited circumstances in which Pella may share or transfer the personal information in our databases to unrelated third parties. For example, we may provide personal information to a third party to comply with a court order or subpoena; to prevent or investigate a possible crime, such as fraud or identity theft; to comply with a legal requirement; to protect the rights, property or safety of Pella, our users or others; to protect your vital interests; or in connection with a corporate sale, purchase, merger, reorganization, liquidation, dissolution or similar event. If your personal information is transferred to another company that has acquired Pella, one of its affiliates, one of its distributors, or one their databases, for example, as the result of a sale, merger or reorganization, the acquiring company’s use of your personal information will still be subject to this privacy policy and the privacy preferences you’ve expressed to us. 
+Other third parties may deliver cookies to your computer or mobile device for the purpose of tracking your online behaviors across non-affiliated websites and delivering targeted advertisements either on this Site or on other websites.
 
-#### How Does Pella Protect Personal Information? 
+You have choices about the collection of information by third parties on our Sites. For example, if you don't want information about your visit to this Site sent to Google Analytics, you may download an Opt-out Browser Add-on by [clicking here.](http://tools.google.com/dlpage/gaoptout?hl=en) Please note that the Add-on does not prevent information from being sent to Pella.
 
-Pella takes reasonable precautions to provide a level of security appropriate to the sensitivity of the personal information we collect. Although we use reasonable measures to help protect your personal information against unauthorized use or disclosure, we cannot guarantee the security of information provided over the Internet or stored in our databases and will not be responsible for breaches of security beyond our reasonable control.
+In addition, if you would like to opt-out of having interest-based information collected by certain entities during your visits to this Site or other websites, please [click here.](http://www.aboutads.info/choices) You will be directed to an industry-developed website that contains mechanisms for choosing whether each listed entity may collect and use data for online behavioral advertising purposes. It may be that some of the third parties that collect interest-based information on this Site do not participate in the industry-developed opt-out website, in which case the best way to avoid third-party tracking of your online behaviors may be through your browser settings and deletion of cookies.
 
-#### What About Other Websites That May Be Linked to This Site? 
+#### How We Use Your Information
 
-This Privacy Policy applies only to this Site. Pella, its affiliates and its distributors operate many different Web sites for different purposes and in different countries where different laws may apply. If you visit another Pella website, please take a moment to review the privacy policy posted on that site to learn what personal information may be collected through that site and how it is processed.
+Generally, we use the information we collect through this Site:
 
-This Site may also contain links to websites that are not operated by Pella. These links are provided for your reference and convenience only and do not imply any endorsement of the products sold or information provided through these websites, nor any association with their operators. Pella does not control these websites and is not responsible for their data practices. Any information you provide to third parties on their websites is covered under their privacy and data collection policies and is not covered by this Privacy Policy. We urge you to review the privacy policy posted on any site you visit before using the site or providing any personal information. 
+  * to provide the information, products and services you request;
+  * to provide you with effective customer service;
+  * to provide you with a personalized experience when you use this Site;
+  * to contact you with information and notices related to your use of this Site;
+  * to contact you with special offers and other information we believe will be of interest to you (in accordance with any privacy preferences you have expressed to us);
+  * to invite you to participate in surveys and provide Feedback to us (in accordance with any privacy preferences you have expressed to us);
+  * to improve the content, functionality and usability of this Site;
+  * to better understand your needs and interests;
+  * to improve our products and services;
+  * to improve our marketing and promotional efforts;
+  * for security, credit or fraud prevention purposes; and
+  * for any other purpose identified in an applicable Privacy Notice, click-through agreement or other agreement between you and us.
 
-#### Access to Personal Information
+
+
+#### How We Share Your Information
+
+_With Third–Party Vendors._ Pella shares information collected through this Site with third-party vendors who act for us or on our behalf. For example, we may use third-party vendors to design and operate this Site; to conduct surveys; and to help us with our promotional efforts. These third-party vendors may need information about you to perform their functions.
+
+_With Other Users of this Site._ You may be able to submit User-Generated Content on or through this Site. In this Policy, "User-Generated Content" or "UGC" refers to any content that you post using the social networking or product review tools we make available to you and that does not constitute "Feedback" (as that term is defined in our [Terms of Use](http://www.pella.com/support-center/information.aspx?type=terms-of-use)). Any personal information contained in UGC can be read, collected, or used by others. In addition, we may use UGC you submit for advertising campaigns and other promotions. We may or may not use your name in connection with such use, and we may or may not seek your consent before using the content for such purposes. Therefore, you should have no expectation of privacy with respect to UGC you submit on or through this Site.
+
+_With Third-Party Social Media Platforms._ We may provide functionality on this Site that allows you to automatically post information about the actions you take on this Site to a third-party social media platform (such as Facebook or Twitter). If you choose to take advantage of this functionality, people with access to your profile on the third-party platform may be able to see the actions you have taken—for example, the items you have purchased. Thus, you should have no expectation of privacy in those actions. Further, if you choose to link your profile on this Site with an account on a third-party social media platform, we may share the information in your profile with that third-party platform.
+
+_With Our Distributors._ Pella may share the information collected through this Site with its affiliates and independent distributors (collectively "distributors"). Our distributors may use the information in all the ways listed above, provided that such use relates to the distribution of Pella-brand products and is otherwise consistent with the purpose for which the information was collected. For example, if you request an appointment, we will need to share your information with a Pella expert near you to schedule an appointment. Our distributors may also use your information for their own marketing purposes, provided such marketing relates to the distribution of Pella-brand products—they may not use your information to promote competing windows or doors or other, non-Pella related products or services.
+
+_With Other, Carefully Selected Business Partners._ From time to time, we may share your information with selected third parties (other than our third-party vendors or distributors) for their own marketing purposes. For example, we may partner with third parties to sponsor contests or other promotions, and we may share with these third parties the information you submit to us to participate in the contest or take advantage of the promotion. Before doing so, however, we may offer you the opportunity to "opt out" or "opt in," as required by applicable law.
+
+_As Part of a Business Transfer._ Your information may be transferred to successor organization if, for example, we transfer the ownership or operation of this Site to another organization or if we merge with another organization. If such a transfer occurs, the successor organization's use of your information will still be subject to this Policy and the privacy preferences you have expressed to us.
+
+_To Comply with Laws and Protect Our Rights and the Rights of Others._ We may disclose your information when we, in good faith, believe disclosure is appropriate to comply with the law, a court order or a subpoena. We may also disclose your information to prevent or investigate a possible crime, such as fraud or identity theft; to protect the security of this Site; to enforce or apply our online [Terms of Use](http://www.pella.com/support-center/information.aspx?type=terms-of-use) or other agreements; or to protect our own rights or property or the rights, property or safety of our users or others.
+
+_As Described in a Privacy Notice or click-through agreement._ We reserve the right to disclose your information as described in any Privacy Notice posted on a page of this Site where you provide that information. By providing your information on that page you will be consenting to the disclosure of your information as described in that privacy notice. We also reserve the right to disclose your information as described in any click–through agreement to which you have agreed.
+
+#### How We Protect Your Information
+
+Pella takes reasonable precautions to provide a level of security appropriate to the sensitivity of the information we collect. Although we use reasonable measures to help protect your information against unauthorized use or disclosure, we cannot guarantee the security of information provided over the Internet or stored in our databases and will not be responsible for breaches of security beyond our reasonable control.
+
+#### A Note About Children’s Privacy
+
+You must be at least 13 years old to have our permission to use this Site. We do not knowingly collect, use or disclose personal information about visitors under 13 years of age. If you are under the age of 13, you can use this service only in conjunction with your parent's or guardian's permission.
+
+#### Links to Other Websites
+
+This Policy applies only to this Site. Pella and its distributors operate many different websites for different purposes and in different countries, where different laws may apply. If you visit another Pella website, please take a moment to review the privacy policy posted on that site to learn what information may be collected through that site and how it is processed.
+
+This Site may also contain links to websites that are not operated by Pella or its distributors. These links are provided for your reference and convenience only and do not imply any endorsement of the products sold or information provided through these websites, nor any association with their operators. Pella does not control these websites and is not responsible for their data practices. Any information you provide to third parties on their websites is covered under their privacy and data collection policies and is not covered by this Policy. We urge you to review the privacy policy posted on any site you visit before using the site or providing any personal information.
+
+#### Access to Your Information
 
 If you would like to review, correct and update the personal information you have provided to us through this Site, please contact us by email at [privacy@pella.com](mailto:privacy@pella.com). We will respond to your request within the time limit set out by the applicable privacy legislation. We will use reasonable efforts to comply with your request as required by applicable law.
 
@@ -95,12 +153,12 @@ Pella retains the personal information collected on this Site as long as necessa
 
 #### This Site Is Hosted on Servers Located in the United States.
 
-Pella is a United States corporation. The servers that support this Site are located in the United States. While it is in our possession, your personal information will generally be stored in Pella databases or databases maintained by our third-party service providers on servers and data storage devices located in the United States. United States data protection laws may not provide as much protection as the data protection laws in force in some other countries, however, we will process your personal information in accordance with this Policy no matter where our data is stored. If you are located in a country outside the United States, by using this Site you consent to the transfer of your personal information to the United States. 
+Pella is a U.S. corporation. The servers that support this Site may be located in the United States or other countries. Data protection laws vary from country to country; however, we will process your information in accordance with this Policy no matter where your data is stored. If you are located in a country outside the United States, by using this Site you consent to the transfer of your information to the United States.
 
 #### Governing Law
 
-This Policy shall be governed under the laws of the State of Iowa, United States of America without regard to its conflicts of law provisions. 
+This Policy shall be governed under the laws of the State of Iowa, United States of America without regard to its conflicts of law provisions.
 
-#### Questions About This Policy or Pella’s Data Practices
+#### Questions About This Policy or Pella's Data Practices
 
-If you have questions or concerns about this Policy, any Privacy Notice, or Pella’s data practices, please contact us by email at [privacy@pella.com](mailto:privacy@pella.com).
+If you have questions or concerns about this Policy, any Privacy Notice, or Pella's data practices, please contact us by email at [privacy@pella.com](mailto:privacy@pella.com).
