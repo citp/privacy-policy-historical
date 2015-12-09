@@ -1,61 +1,6 @@
-> *The following text is extracted and transformed from the learningaccelerator.org privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607180108id_/http%3A//learningaccelerator.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the learningaccelerator.org privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209024146id_/http%3A//learningaccelerator.org/privacy-policy) for the most accurate reproduction.*
 
 # The Learning Accelerator Privacy Policy
-
-  * [Blog](https://web.archive.org/blog)
-  * [News](https://web.archive.org/about-us/news)
-  * [Contact Us](https://web.archive.org/about-us/contact-us)
-
-
-
-  * [Blended Learning](https://web.archive.org/blended-learning)
-    * [Blended Learning Framework](https://web.archive.org/blended-learning/blended-learning-framework)
-    * [Teacher Voices](https://web.archive.org/blended-learning/teacher-voices)
-  * [Our Work](https://web.archive.org/our-work)
-    * [Cultivating Solutions](https://web.archive.org/our-work/cultivating-solutions)
-      * [Competency-Based Learning](https://web.archive.org/our-work/cultivating-solutions/competency-based-learning)
-      * [District Communications](https://web.archive.org/district-communications)
-      * [District Financing](https://web.archive.org/our-work/school-district-financing)
-      * [EdTech Devices](https://web.archive.org/our-work/cultivating-solutions/edtech-devices)
-      * [Human Capital](https://web.archive.org/our-work/cultivating-solutions/human-capital)
-      * [Internet Connectivity](https://web.archive.org/our-work/cultivating-solutions/internet-connectivity)
-      * [Measurement](https://web.archive.org/our-work/cultivating-solutions/measurement)
-      * [Professional Services](https://web.archive.org/our-work/cultivating-solutions/professional-services)
-      * [Open Education Resources](https://web.archive.org/our-work/cultivating-solutions/open-education-resources)
-      * [Software](https://web.archive.org/our-work/cultivating-solutions/software)
-    * [Working with Districts](https://web.archive.org/our-work/working-with-districts)
-    * [Working with States](https://web.archive.org/working-with-states)
-  * [Investments](https://web.archive.org/investments)
-    * [Investment Summary](https://web.archive.org/investments/investment-summary)
-    * [TLA Investment Impact Case Study: ESH](https://web.archive.org/investments/tla-investment-impact-case-study-esh)
-  * [Resources](https://web.archive.org/resources)
-  * [About Us](https://web.archive.org/about-us)
-    * [Mission & Vision](https://web.archive.org/our-approach/mission-and-vision)
-    * [Approach](https://web.archive.org/approach/our-solutions)
-      * [Define value chain](https://web.archive.org/our-approach/our-solutions/define-value-chain)
-      * [Identify barriers](https://web.archive.org/our-approach/our-solutions/identify-barriers)
-      * [Cultivate solutions](https://web.archive.org/our-approach/our-solutions/cultivate-solutions)
-      * [Implement with districts](https://web.archive.org/our-approach/our-solutions/implement-with-districts)
-      * [Iterate and improve](https://web.archive.org/our-approach/our-solutions/iterate-and-improve)
-    * [Team Values](https://web.archive.org/about-us/team-values)
-    * [Board of Directors](https://web.archive.org/about-us/board-of-directors)
-    * [Staff](https://web.archive.org/about-us/staff)
-    * [Join Us](https://web.archive.org/about-us/join-us)
-    * [News](https://web.archive.org/about-us/news)
-    * [Updates](https://web.archive.org/about-us/updates)
-
-
-
-## Privacy Policy
-
-##### 
-
-Last updated: June 1, 2013
-
-  * [Terms of Use](https://web.archive.org/terms-of-use)
-  * [Privacy Policy](https://web.archive.org/privacy-policy)
-
-
 
 This Privacy Policy relates to information collected by The Learning Accelerator (“The Learning Accelerator” or "we" or “us” or “our”) through your use of any The Learning Accelerator website at www.learningaccelerator.org (the “Site”) as well as all related web sites, networks, embeddable widgets, downloadable software, mobile applications (including tablet applications), and other services provided by us and on which a link to this Privacy Policy (this “ **Policy** ”) is displayed (collectively, together with the Site, our “ **Service** ”).
 
