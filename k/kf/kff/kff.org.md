@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kff.org privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628231856id_/http%3A//kff.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kff.org privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209184410id_/http%3A//kff.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Henry J. Kaiser Family Foundation
 
@@ -20,8 +20,7 @@ You have choices with respect to cookies. By modifying your browser preferences,
 **Privacy of our email lists:  
 **The Kaiser Family Foundation maintains several email lists to keep email subscribers informed about recent publications and the latest developments in health policy. Individuals who provide optional information may also receive materials by mail or be contacted by telephone. We do not share email addresses or optional information with anyone outside of the Foundation staff or its authorized agents. We configure our email software to refuse to divulge the email addresses of our list subscribers to anyone but authorized Foundation staff and agents. Only Foundation staff and our authorized agents have access to personally identifiable information provided by visitors to our site.
 
-**Third-Party Links**
-
+**Third-Party Links**  
 This Privacy Policies applies exclusively to pages on the Kaiser Family Foundation website. Pages on our website contain many links to other relevant websites. In addition, the Kaiser Family Foundation and its affiliates may maintain a presence on outside websites and social networks, such as Facebook and Twitter. These other websites may send their own cookies to users, collect data or solicit personal information. The Kaiser Family Foundation is not responsible for the privacy practices or the content of these other websites. Please check with the other sites to review their privacy policies and how they may collect or use information.
 
 **Children’s privacy:  
@@ -32,10 +31,8 @@ If you wish to notify us of our receipt of information by children, please do so
 **Security:  
 **The Kaiser Family Foundation employs physical, electronic, and procedural safeguards to protect our site from the loss or misuse of information that we have collected from you. ****
 
-**Enforcement:**
-
+**Enforcement:**  
 We regularly review our compliance with our Privacy Policy. When we receive formal written complaints, we will contact the person who made the complaint to follow up. We work with the appropriate regulatory authorities, including local data protection authorities, to resolve any complaints regarding the transfer of personal data that we cannot resolve with our users directly.
 
-**Changes:**
-
+**Changes:**  
 From time to time, our Privacy Policy may change to improve how we interact with our website’s visitors. Should any changes be made to our policies, we will post them on this page and, if the changes are significant, we will provide more prominent notice on our website. If you are concerned about how your information is used, you should check back on this page periodically or [contact us with any questions](http://kaiserfamilyfoundation.wordpress.com/contact-us/ "Contact Us").
