@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the capitalxtra.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629101031id_/http%3A//www.capitalxtra.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the capitalxtra.com privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209191044id_/http%3A//www.capitalxtra.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Dance Urban Radio - Capital XTRA
 
