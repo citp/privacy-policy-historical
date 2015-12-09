@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bbnsms.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608224402id_/http%3A//docs.bbnplace.com/%3Farticle%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bbnsms.com privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209013154id_/http%3A//docs.bbnplace.com/%3Farticle%3Dprivacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
