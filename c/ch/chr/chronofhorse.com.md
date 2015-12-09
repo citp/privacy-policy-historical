@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chronofhorse.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610052936id_/https%3A//www.chronofhorse.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chronofhorse.com privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209190846id_/http%3A//chronofhorse.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Chronicle of the Horse
 
