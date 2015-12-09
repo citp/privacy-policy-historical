@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brightedge.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623023449id_/http%3A//www.brightedge.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brightedge.com privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209043521id_/http%3A//www.brightedge.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | BrightEdge
 
@@ -12,10 +12,6 @@ At BrightEdge Technologies, Inc. (“ **BrightEdge** ” or “ **us** ” or �
 By using or accessing the Site, you are accepting the practices described in this Privacy Policy, our Terms of Use, and all other policies or notices posted by us on the Site.
 
 BrightEdge also offers an integrated SEO management technology platform that helps customers focus their efforts for maximum impact of their SEO initiatives.  The platform is subject to separate terms of service and this Privacy Policy does not apply to use of the platform, except where otherwise noted.
-
-**EU Safe Harbor Participation**
-
-BrightEdge has certified that it adheres to the U.S. – EU Safe Harbor framework and the U.S. – Swiss Safe Harbor framework.  We abide by the applicable Safe Harbor Privacy Principles as set forth by the U.S. Department of Commerce with respect to our collection, use and retention of personally identifiable information from European Union member countries and Switzerland. To learn more about the Safe Harbor program and to view BrightEdge’s certification, please visit <http://www.export.gov/safeharbor/>.
 
 **1\. Types of Information We Collect**
 
