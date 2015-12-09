@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the edcc.edu privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610093247id_/http%3A//www.edcc.edu/about/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edcc.edu privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209093657id_/http%3A//www.edcc.edu/about/privacy-policy.html) for the most accurate reproduction.*
 
 # Edmonds Community College: About Our College - Privacy Policy
 
@@ -6,14 +6,15 @@
 
 You may contact Edmonds Community College as follows:
 
-To review your personal information, or request correction of your personal information:
+To review your personal information, or request correction of your personal information, you may contact: 
 
-Mark Cassidy, Vice President of Human Resources  
-Edmonds Community College  
-20000 68th Ave. W  
-Lynnwood, Washington U.S.A. 98036-5999  
-425.640.1647 | mark.cassidy@edcc.edu  
-Fax: 425.640.1359
+Suzanne Moreau, Interim Executive Director of Human Resources/Records Officer
+
+Edmonds Community College   
+20000 68th Ave. W.  
+Lynnwood, Washignton U.S.A. 98036-5999  
+425.640.1246 | [suzanne.moreau@edcc.edu](mailto:suzanne.moreau@edcc.edu)[  
+](mailto:suzanne.moreau@edcc.edu?subject=)Fax: 425.640.1359
 
 To offer comments about the Edmonds Community College's website, or about the information presented in this Privacy Notice:
 
@@ -21,25 +22,25 @@ Webmaster
 Edmonds Community College  
 20000 68th Ave. W  
 Lynnwood, Washington U.S.A. 98036-5999  
-425.640.1459 | webmaster@edcc.edu 
+425.640.1459 | [webmaster@edcc.edu](mailto:webmaster@edcc.edu?subject=)
 
 ## Cookies
 
 To better serve our users we are now using "cookies" to customize your browsing experience with the Edmonds Community College Web site. Cookies are simple text files stored on your computer by your web browser.
 
-Cookies created on your computer by using this website do not contain personally identifying information and do not compromise your privacy or security. We use the cookie feature only to store a randomly generated identifying tag on your computer.
+Cookies created on your computer by using this website do not contain personally identifying information and do not compromise your privacy or security. We use the cookie feature only to store a randomly generated identifying tag on your computer. 
 
 ## Security
 
 The Edmonds Community College, as developer and manager of the Edmonds Community College website, takes precautions to safeguard personal information you provide through our web services.
 
-This information should not be construed in any way as giving business, legal, or other advice, or warranting as fail proof, the security of information provided via the Edmonds Community College websites.
+This information should not be construed in any way as giving business, legal, or other advice, or warranting as fail proof, the security of information provided via the Edmonds Community College websites. 
 
 ## Disclaimer
 
 The Edmonds Community College website has many links to other websites. These include links to websites operated by other government agencies, nonprofit organizations and private businesses. When you link to another site, you are no longer on the Edmonds Community College website and this Privacy Notice will not apply. When you link to another website, you are subject to the privacy policy of that new site.
 
-Neither the State of Washington, nor any agency, officer, or employee of the State of Washington warrants the accuracy, reliability or timeliness of any information published by this system, nor endorses any content, viewpoints, products, or services linked from this system, and shall not be held liable for any losses caused by reliance on the accuracy, reliability or timeliness of such information. Portions of such information may be incorrect or not current. Any person or entity that relies on any information obtained from this system does so at their own risk.
+Neither the State of Washington, nor any agency, officer, or employee of the State of Washington warrants the accuracy, reliability or timeliness of any information published by this system, nor endorses any content, viewpoints, products, or services linked from this system, and shall not be held liable for any losses caused by reliance on the accuracy, reliability or timeliness of such information. Portions of such information may be incorrect or not current. Any person or entity that relies on any information obtained from this system does so at their own risk. 
 
 ## Review and Correction of Personally Identifiable Information
 
@@ -63,7 +64,7 @@ The web pages or services you accessed at this site; and
 
 The website you visited prior to coming to this website.
 
-The information we automatically collect or store is used by Edmonds Community College only to improve the content of our web services and to help us understand how people are using our services. Edmonds Community College analyzes the website logs to determine how our website is being used, so that we may continually improve the site's usefulness to the public.
+The information we automatically collect or store is used by Edmonds Community College only to improve the content of our web services and to help us understand how people are using our services. Edmonds Community College analyzes the website logs to determine how our website is being used, so that we may continually improve the site's usefulness to the public. 
 
 ### What We Collect if You Volunteer Information:
 
