@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the avon.com privacy policy that was archived on 2015-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150324231057id_/http%3A//www.youravon.com/REPSuite/security_and_privacy.page%3Fret%3Dsecurity_and_privacy.page%26langCd%3Den_US) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the avon.com privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209114226id_/http%3A//www.youravon.com/REPSuite/security_and_privacy.page) for the most accurate reproduction.*
 
 # security and policy
 
 |   
-LAST UPDATED: February 12, 2014  
+LAST UPDATED: November 25, 2015  
 ---  
   
 AVON PRODUCTS, INC. PRIVACY STATEMENT  
@@ -168,7 +168,7 @@ From time to time we may change this Privacy Statement. Please take a look at th
 
 CONTACTING US 
 
-If you have any questions about this Privacy Statement, please contact us by e-mail at [avon.websites@avon.com](mailto:avon.websites@avon.com), or by regular mail at Avon Products, Inc., 175 Progress Place Springdale, OH 45246 Attn: Campaign Administration. Because e-mail communications are not always secure, please do not include sensitive information in your e-mails to us.
+If you have any questions about this Privacy Statement, please contact us by e-mail at [Global.Privacy@avon.com](mailto:Global.Privacy@avon.com), or by regular mail at Avon Products, Inc., Attn: Legal - Privacy Office, 777 Third Avenue, New York, NY 10017. Because e-mail communications are not always secure, please do not include sensitive information in your e-mails to us.
 
 INDEPENDENT SALES REPRESENTATIVES 
 
@@ -195,4 +195,4 @@ Once you are an Avon Representative (including a sales leader), we may disclose 
 
 We may also combine the Non-Personal Information that we and our third-party service providers collect about your use of our Site (as described above) with your unique Representative account number. We may use the combined information for purposes such as to analyze Avon Representatives' use of our Sites, in order to evaluate and make improvements to our business model, and for other internal analytics purposes.
 
-This Statement ©2013 Avon Products, Inc. All rights reserved.
+This Statement ©2015 Avon Products, Inc. All rights reserved.
