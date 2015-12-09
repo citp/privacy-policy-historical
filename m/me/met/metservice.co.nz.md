@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the metservice.co.nz privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609094955id_/http%3A//about.metservice.com/about/about-this-site/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the metservice.co.nz privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209141157id_/http%3A//about.metservice.com/about/about-this-site/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy » About MetService
 
@@ -69,4 +69,4 @@ Search terms that you may enter when using the Search engine on the Site are col
 
 We may add to, remove or change the provisions of this Privacy Policy from time to time. All additions and changes will be notified to you by being posted on this page. It is your responsibility as a user to refer to these additions and changes.
 
-This document last updated: 7 November 2013
+This document last updated: 31 August 2015
