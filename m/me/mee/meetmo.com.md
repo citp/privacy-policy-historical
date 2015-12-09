@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the meetmo.com privacy policy that was archived on 2014-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141229034510id_/http%3A//www.foreigngirlfriend.com/staticPage/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the meetmo.com privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209111514id_/https%3A//www.foreigngirlfriend.com/staticPage/privacypolicy) for the most accurate reproduction.*
 
-# Casual Dating at ForeignGirlFriend
+# Privacy Policy | Casual Dating at ForeignGirlFriend
 
-Casual Dating at ForeignGirlFriend
+Privacy Policy | Casual Dating at ForeignGirlFriend
 
 ### Privacy Policy 
 
-Last Updated: 3/7/2014 
+Last Updated: March 3, 2015 
 
 Thank you for visiting our website ("we" “our” or "us"). Your privacy is important to us. To better protect your privacy, we provide this policy explaining our online information practices and the choices you can make about the collection and use of the personally identifiable information you submit on our online and mobile websites, services, and applications (“Site” or “Sites”). For certain products and/or services, there may be additional notices about information practices and choices. Please read those additional privacy disclosures carefully to understand how they apply to you. 
 
@@ -113,8 +113,6 @@ If you have any questions or concerns about this Privacy Policy or its implement
   * ##### **HEADINGS**
 
 Descriptive headings are for convenience only and shall not control or affect the meaning or construction of any provision of this Privacy Policy. 
-
-Nothing further follows. 
 
 
 
