@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the knowing-jesus.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610030525id_/http%3A//www.knowing-jesus.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the knowing-jesus.com privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209190751id_/http%3A//www.knowing-jesus.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy for www.Knowing-Jesus.com
 
@@ -9,7 +9,7 @@ of the steps we take to safeguard information. We hope this
 will help you make an informed decision about sharing  
 personal information with us.
 
-**www.knowing-jesus.com** strives to maintain the highest  
+ **www.knowing-jesus.com** strives to maintain the highest  
 standards of decency, fairness and integrity in all our  
 operations. Likewise, we are dedicated to protecting our  
 customers’, consumers’ and online visitors’ privacy on our  
@@ -17,7 +17,7 @@ website.
 
 ### Personal Information
 
-**www.knowing-jesus.com** collects personally identifiable  
+ **www.knowing-jesus.com** collects personally identifiable  
 information from the visitors to our website only on a  
 voluntary basis. Personal information collected on a  
 voluntary basis may include name, postal address, email  
@@ -129,7 +129,7 @@ The search box on this web site (“Search Box”) is powered by Google Inc (“
 
 ### Updates and Effective Date
 
-**www.knowing-jesus.com** reserves the right to make changes in  
+ **www.knowing-jesus.com** reserves the right to make changes in  
 this policy. If there is a material change in our privacy  
 practices, we will indicate on our site that our privacy  
 practices have changed and provide a link to the new privacy  
@@ -137,12 +137,17 @@ policy. We encourage you to periodically review this policy
 so that you will know what information we collect and how we  
 use it.
 
+### To EU Users:
+
+Please read our disclosure notice as part of our compliance to the EU user consent policy:
+
+We use cookies to personalise content and ads, to provide social media features and to analyse our traffic. We also share information about your use of our site with our social media, advertising and analytics partners. For more information on how Google uses data when you use our partner’ sites or apps, visit this link: <http://www.google.com/intl/en/policies/privacy/partners/>
+
 ### Agreeing to Terms
 
-If you do not agree to (website/company name’s) Privacy  
+If you do not agree to www.knowing-Jesus.com Privacy  
 Policy as posted here on this website, please do not use  
 this site or any services offered by this site.
 
 Your use of this site indicates acceptance of this privacy  
-policy.  
-
+policy.
