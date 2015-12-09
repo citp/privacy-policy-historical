@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the arhaus.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610052800id_/http%3A//www.arhaus.com/corp/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arhaus.com privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209190528id_/http%3A//www.arhaus.com/corp/privacy) for the most accurate reproduction.*
 
 # Privacy | Arhaus Furniture
 
 This site requires cookies to be enabled. Please change your browser to accept cookies before proceeding. [Learn more](https://web.archive.org/corp/privacy/)
+
+[ ](https://web.archive.org/furniture/holiday-gift-guide/?icn=holiday-gift-guide&ici=header)
 
 [ ](https://web.archive.org/)
 
