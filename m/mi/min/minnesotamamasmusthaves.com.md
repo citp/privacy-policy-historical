@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the minnesotamamasmusthaves.com privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611084249id_/http%3A//musthavemom.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the minnesotamamasmusthaves.com privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209184111id_/http%3A//musthavemom.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Must Have Mom
-
-**0** Flares Twitter 0 Facebook 0 Google+ 0 StumbleUpon 0 Email \-- **0** Flares ×
 
 At www.musthavemom.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.musthavemom.com and how it is used.
 
