@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mybakingaddiction.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610021437id_/http%3A//www.mybakingaddiction.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mybakingaddiction.com privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209184026id_/http%3A//www.mybakingaddiction.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - My Baking Addiction
 
 My Baking Addiction is committed to maintaining the privacy and protection of your personal information when you visit this website. This policy outlines what information may be collected when you visit the website, and how that information is used. When you continue to visit this website, you are consenting to the practices described in this policy.
 
