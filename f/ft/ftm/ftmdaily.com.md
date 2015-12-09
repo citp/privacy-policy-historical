@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ftmdaily.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623072019id_/http%3A//ftmdaily.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ftmdaily.com privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209020744id_/http%3A//ftmdaily.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy FTMDaily.com - Geopolitical Analysis, Economic Insights, and Investing Ideas
 
