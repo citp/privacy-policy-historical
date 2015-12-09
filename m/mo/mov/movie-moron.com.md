@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the movie-moron.com privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630184606id_/http%3A//www.movie-moron.com/%3Fpage_id%3D472) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the movie-moron.com privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209191003id_/http%3A//www.movie-moron.com/%3Fpage_id%3D472) for the most accurate reproduction.*
 
 # Movie Moron » Privacy Policy
 
 Effective 1st December 2007.
+
+We use cookies to personalise content and ads, to provide social media features and to analyse our traffic. We also share information about your use of our site with our social media, advertising and analytics partners. (In simple terms: No we don’t do anything bad with your info, it’s all completely standard but European regulations require us to spell this out!)
 
 **Our Commitment To Privacy**
 
