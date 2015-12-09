@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moneycrowd.tv privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607033915id_/http%3A//www.moneycrowd.tv/index.php/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moneycrowd.tv privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209014845id_/http%3A//www.moneycrowd.tv/index.php/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | MoneyCrowd
 
