@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adishofdailylife.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627022618id_/http%3A//www.adishofdailylife.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adishofdailylife.com privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209174917id_/http%3A//www.adishofdailylife.com/privacy) for the most accurate reproduction.*
 
 # Privacy - A Dish of Daily Life
 
@@ -57,6 +57,10 @@ By using our site, you consent to our [online privacy policy](http://www.freepri
 **Changes to our Privacy Policy**
 
 If we decide to change our privacy policy, we will post those changes on this page, and/or send an email notifying you of any changes.
+
+**Update: August 31st 2015:**
+
+**Notice Regarding Interest-Based Advertising  **Partner Websites may allow third-party companies, including ad networks, to serve advertisements, provide other advertising services and/or collect certain information when you visit our website.  Third party companies may use non-personally identifiable information (e.g. click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visit to this website in order to provide advertisements about goods and services likely to be of greater interest to you.  Third party may use non- cookie technologies to recognize your computer or device and/or to collect and record information about your web surfing activity including your activities on this website. These technologies may be used directly on this website. Please keep in mind that your web browser may not permit you to block the use of these non-cookie technologies, and those browser settings that block cookies may have no effect on such techniques. To learn more about this Interest-Based Advertising or to opt-out of this type of advertising by those third parties that are members of self-regulatory programs such as the Network Advertising Initiative, please visit the NAI’s website ([www.networkadvertising.org](http://www.networkadvertising.org/)) which will allow you to opt out of Interest-Based Advertising by one, or all, NAI members.  
 
 **Contacting Us**
 
