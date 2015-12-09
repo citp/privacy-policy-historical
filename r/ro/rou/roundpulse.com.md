@@ -1,12 +1,14 @@
-> *The following text is extracted and transformed from the roundpulse.com privacy policy that was archived on 2014-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140213082324id_/http%3A//www.roundpulse.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roundpulse.com privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209124941id_/http%3A//www.roundpulse.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy & Disclaimer
+# Privacy Policy & Disclaimer | Round Pulse
 
 At Round Pulse, we appreciate your privacy and make sure that your personal information remains private. If there is any personal information that you provide us through our website, we take care of it and make sure that no one has access to it in any case or condition. We encourage our readers to go through our website in detail and let us know about any bugs that they can find. Our support team is always available to assist our readers about any privacy policy issues. We also expect our readers to respect the privacy of other readers that may come into their interaction through comments or any parts of our website though we cannot guarantee about the information that you give away to anyone directly.
 
 ## Do We Collect Your Personal Information?
 
 As per our privacy policy, we don’t collect any kind of personal information of our readers without their intention. The only way will collect and store your personal information is through contact form or the subscription option at our website, other than that, there is no way through which we ever collect your personal information.
+
+advertisement
 
 ## How Do We Use Your Personal Information?
 
@@ -19,6 +21,14 @@ At Round Pulse, we appreciate our readers and users to use our site for their ow
 
 We encourage our readers to interact with each other only through comments section and make sure you stay on topic, use proper language, talk about the issue and don’t indulge in any inappropriate or unethical activity on our website.
 
+advertisement
+
 Our posts, images, videos and any other information published on our website is our sole property. Use of this information without our authorization is prohibited. We strongly encourage you to use all the information for personal use and not use it for any commercial purpose. We may issue a lawsuit against you if you are found guilty of infringement.
 
 Lastly, we hope that all our readers, user and fans will keep the above provided information in their mind while using our website. We are dedicated to provide you with latest information that can prove to be helpful for your daily life.
+
+**[Google](http://www.roundpulse.com/category/google-2) Adsense**
+
+Some of the ads may be served by Google. Google’s use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the [Internet](http://www.roundpulse.com/tag/internet). DART uses “non personally identifiable information” and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content [network](http://www.roundpulse.com/tag/network) privacy policy at [http://www.google.com/privacyads.html](http://www.google.com/privacy_ads.html)
+
+advertisement
