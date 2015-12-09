@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kingdomcraze.com privacy policy that was archived on 2015-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150503085503id_/http%3A//kingdomcraze.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kingdomcraze.com privacy policy that was archived on 2015-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151210002156id_/http%3A//kingdomcraze.com/privacy.php) for the most accurate reproduction.*
 
 # Kingdom Craze | Play Games. Build Your Kingdom. Earn Rewards.
 
