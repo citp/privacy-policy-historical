@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the microscopemaster.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607090352id_/http%3A//www.microscopemaster.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the microscopemaster.com privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209100648id_/http%3A//www.microscopemaster.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
 We recognize that your privacy is important. This document outlines the types of personal information we receive and collect when you use **MicroscopeMaster.com** as well as some of the steps we take to safeguard information. We hope this will help you make an informed decision about sharing personal information with us.
 
 MicroscopeMaster.com strives to maintain the highest standards of decency, fairness and integrity in all our operations. Likewise, we are dedicated to protecting our customers', consumers' and online visitors' privacy on our website.
-
-[A Business Opportunity - My Personal Message To You](http://www.microscopemaster.com/younique-by-hayley-anderson.html)
 
 ### Personal Information
 
