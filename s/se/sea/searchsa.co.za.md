@@ -1,36 +1,44 @@
-> *The following text is extracted and transformed from the searchsa.co.za privacy policy that was archived on 2015-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150429054555id_/http%3A//searchsa.co.za/legal-policies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the searchsa.co.za privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209025218id_/https%3A//searchsa.co.za/legal-policies) for the most accurate reproduction.*
 
 # Legal Policies | Search SA
 
-## PRIVACY POLICY
+## **Disclaimer**
+
+The use of information on this website is for consultative purposes only. In the unlikely event that any information on this website is incorrect due to technical inaccuracies or typographical errors, Search SA and its employees cannot be held responsible for any direct, indirect, special, incidental or consequential damages that may arise from the use of erroneous information found on the site.
+
+Prices, images and specifications may differ from the actual items its presenting and are subject to change without prior notice.
+
+This website may include links to other websites. These links are provided for solely information purposes, and Search SA and its employees are not responsible, and cannot be held liable for the content displayed on these websites.
+
+## **PRIVACY POLICY**
 
 Last updated: 01 September 2014
 
-Your privacy is of utmost importance to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. Our Privacy Policy is available on all the pages of Search SA | <http://searchsa.co.za/>
+Your privacy is of utmost importance to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. Our Privacy Policy is available on all the pages of Search SA | <https://searchsa.co.za/>
 
-Please read the following carefully. If you have any questions or concerns, please send us an e-mail, for attention The Search Master, at this [email](mailto:help@searchsa.co.za?subject=Questions%20regarding%20the%20Privacy%20Policy%20of%20Search%20SA) 
+Please read the following carefully. If you have any questions or concerns, please send us an e-mail, for attention The Search Master, at this [email](mailto:help@searchsa.co.za?subject=Questions%20regarding%20the%20Privacy%20Policy%20of%20Search%20SA)
 
-## How Search SA Gather and Use Information
+## **How Search SA Gather and Use Information**
 
-Search SA will never wilfully disclose any personally identifiable information about our online audience to any third party without first receiving the user’s permission. We do not collect personally identifiable information from our visitors other than what is supplied to us on a voluntary basis via online web forms.
+Search SA will never wilfully disclose any personally identifiable information about our online audience to any third party without first receiving the user’s permission. We do not collect personally identifiable information from our visitors other than what is supplied to us on a voluntary basis via online web forms.
 
-Visitors to the Search SA may voluntarily supply certain personally identifiable information in connection with (i) contest registration, (ii) subscription registration for sites or services which require subscription (such as email newsletters), (iii) requests for membership information and (iv) transactions that may require personally identifiable information. In addition, personally identifiable information is voluntarily provided in connection with certain content submissions, vehicle listings, comments and suggestions, or voting.
+Visitors to the Search SA may voluntarily supply certain personally identifiable information in connection with (i) contest registration, (ii) subscription registration for sites or services which require subscription (such as email newsletters), (iii) requests for membership information and (iv) transactions that may require personally identifiable information. In addition, personally identifiable information is voluntarily provided in connection with certain content submissions, vehicle listings, comments and suggestions, or voting.
 
 Some of our sites contain links to other sites whose information practices may be different than ours. Visitors should consult the other sites’ privacy notices as we have no control over information that is submitted to, or collected by, these third parties.
 
-Search SA may use such information only for conducting the activities stated above, for internal marketing and promotional purposes, or, on occasion, when mailing lists are made available to other organizations. (The occasional provision of mailing lists to such organizations is the only case where such information would be provided to business partners of Search SA).
+Search SA may use such information only for conducting the activities stated above, for internal marketing and promotional purposes, or, on occasion, when mailing lists are made available to other organizations. (The occasional provision of mailing lists to such organizations is the only case where such information would be provided to business partners of Search SA).
 
 If the visitor does not want this information collected and used by us for the disclosed internal purposes, the visitor is given an opportunity to ‘opt-out.’ Our visitors need to recognize, however, that under certain circumstances, if they select to ‘opt-out’ they may not be eligible for certain activities or services for which the personally identifiable information is needed. (For example, when a new vehicle listing is added)
 
-Acceptance of these Privacy Policy Terms and Conditions | Search SA 
+Acceptance of these Privacy Policy Terms and Conditions | Search SA 
 
-By using this site, you signify your agreement to the terms and conditions of this [Search SA](http://searchsa.co.za/) – SA’s Local Search Engine / Web Site Privacy Policy. If you do not agree to these terms and conditions, please do not use the site. We reserve the right, at our sole discretion, to change, modify, add, or remove portions of this policy at any time.
+By using this site, you signify your agreement to the terms and conditions of this [Search SA](http://searchsa.co.za/) – SA’s Local Search Engine / Web Site Privacy Policy. If you do not agree to these terms and conditions, please do not use the site. We reserve the right, at our sole discretion, to change, modify, add, or remove portions of this policy at any time.
 
-Updates to this privacy policy may occur from time to time and we will notify you about material changes in the way we treat personally identifiable information by placing a notice on our site. We encourage you to periodically check back and review this policy so that you always will know what information we collect, how we use it, and to whom we disclose it. Your continued use of [Search SA](http://searchsa.co.za/), following the posting of any changes to these terms shall mean that you have accepted those changes.
+Updates to this privacy policy may occur from time to time and we will notify you about material changes in the way we treat personally identifiable information by placing a notice on our site. We encourage you to periodically check back and review this policy so that you always will know what information we collect, how we use it, and to whom we disclose it. Your continued use of [Search SA](https://searchsa.co.za/), following the posting of any changes to these terms shall mean that you have accepted those changes.
 
-Please submit any questions or concerns about this privacy policy to The Search Master by going to our [HELP FORUM](http://searchsa.co.za/help)
+Please submit any questions or concerns about this privacy policy to The Search Master by going to our [HELP FORUM](https://searchsa.co.za/help)
 
-## PRIVACY POLICY (in a nutshell)
+## **PRIVACY POLICY (in a nutshell)**
 
 Any information provided by our customers will only be used as our customers direct. We do not disclose any personally identifiable information to any third party unless we have your permission. The only case where personal information would be shared, is for marketing purposes or internal use to business partners. Our website disclaimer and privacy policy are subject to change over time. Please return periodically to review the latest on our commitments to you.
 
@@ -195,3 +203,48 @@ N1 City
 [E-Mail](mailto:help@searchsa.co.za?Subject=Legal%20Policies%20on%20Search%20SA "E-mail") Search SA
 
 For international users, we are committed to working with you to obtain a fair resolution of any privacy concern.
+
+## **Terms and Conditions of Use**
+
+By using the Search SA (SA's Local Search Engin (PTY)Ltd.) search engine ('SSA') or any other SSA services ('Service'), you agree to be bound by these terms and conditions ('Terms').
+
+1\. These terms and conditions are binding and enforceable against all website users, including private sellers and dealers, who access this website or any part thereof in order to place an advertisement (including any information and/or photographs therein) on the website.
+
+2\. The content of this website is the copyright of SA's Local Search Engin (PTY) Ltd ('SSA') and all trademarks, domain names, design rights, database rights and other intellectual property rights therein shall remain vested in SSA (or the applicable third party licensors) and is protected from infringement by local and international legislation and treaties.
+
+3\. The website user undertakes not to use the website for any unlawful purposes, including the sending of viruses or any other files that may disrupt or corrupt the use of the website. SSA may in its sole discretion (i) suspend or remove any website user's access where such website user has utilized the website unlawfully and (ii) remove any advertisement (including any information and/or photographs therein) from the website which is unlawful.
+
+4\. The private seller must ensure that any advertisement (including any information and/or photographs therein) placed on the website is honest and legal, and does not breach any third party intellectual property rights. The private seller is responsible for any complaints or legal actions in respect of an advertisement (including any the information and/or photographs therein) and indemnifies and holds SSA harmless from any and all costs, damages and other losses, arising from, or in connection with, the publication of any advertisement (including any the information and/or photographs therein) on the website.
+
+5\. SSA accepts no liability and responsibility for any inaccuracies, errors, omissions and/or misinterpretations occurring in any advertisement (including any information and photographs therein) on the website, and the website user absolves SSA for any responsibility therein.
+
+6\. All advertisements (including any information and/or photographs therein) provided on this website is provided "as is" and without any representation, warranty or guarantee whatsoever, whether express or implied, including with regard to any implied warranties of accuracy, completeness, quality, functionality, currency, copyright compliance, legality, fitness for a particular purpose or non-infringement with respect to the advertisement (including any the information and/or photographs therein) of the website.
+
+7\. SSA has made every effort to ensure information loaded is accurate and up to date on our website. Because of the unique nature of each stock item the seller is responsible for the information supplied and will need to confirm availability when contacted.
+
+8\. SSA absolves itself from any and all costs, damages and other losses caused to any website user, as a consequence of any failure on behalf of SSA to fulfill any of its obligations in terms hereof or as a consequence of any errors or omissions in any advertisement and further, SSA is hereby indemnified against any such loss, damage and or inconvenience occasioned to the website user in this regard.
+
+9\. The use of this website is entirely at the website user's own risk and the website user assumes full responsibility for any risk or loss resulting from the use of this website. SSA accepts no liability or responsibility whatsoever for any loss or damage, whether direct, indirect or consequential in nature, suffered by any website user arising out of or in connection with the website user's access to, or use of the Website.
+
+10\. SSA does not warrant that the website shall operate uninterrupted, timely, secure, or error-free or that the server is free from viruses or other harmful components.
+
+11\. This website may contain images or links to third party websites, with information or material produced by other parties. SSA does not control these linked sites and is not responsible for the content, any updates, links or changes to these linked sites.
+
+12\. If any third party wishes to establish a link to this website, by way of hyperlink, frame, or by similar reference, either electronically or otherwise, such third party must obtain the prior written consent of SSA. Based on its sole discretion, SSA may withhold or grant such consent subject to such conditions as may be specified by SSA.
+
+13\. SSA will use reasonable efforts to maintain the confidentiality of any personal information which   
+may be shared by the website user with SSA via the website, and undertakes not to share such information with any third party except to the extent necessary to respond to any request for information from the user or where involvement of third parties is required to address such enquiry or request or under circumstances where SSA is legally compelled to do so or upon the website user's written consent. However, SSA does not warrant or guarantee that any information provided via email and/or this website shall be secure.
+
+14\. SSA may amend these terms and conditions from time to time without notification to the website user. By accessing the website, the website user will be bound by the terms of the latest version of these terms and conditions, as published on this website.
+
+15\. Should any term of these terms and conditions be held to be invalid, unlawful or unenforceable, such terms and conditions shall be severable from the remaining terms and conditions which shall continue to be valid and enforceable.
+
+16\. These terms and conditions shall be governed and interpreted in accordance with the law of South Africa and any breach of these terms and conditions entitles SSA to take appropriate legal action against the website user.
+
+  
+You furthermore agree that:  
+(a.) you will not knowingly create, store or disseminate any illegal content.  
+(b.) you will commit to lawful conduct in the use of the services, including copyright and intellectual property rights.  
+(c.) you will undertake not to send or promote the sending of spam.  
+(d.) you give SSA the right to remove any content hosted which it considers illegal or for which it has received a take-down notice.  
+(e.) SSA has the right to suspend or terminate the service of any customer that does not comply with the terms and conditions, Acceptable Use Policy or any other contractual obligations.
