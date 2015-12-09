@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thefrugalfarmer.net privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610152054id_/http%3A//www.thefrugalfarmer.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thefrugalfarmer.net privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209150636id_/http%3A//www.thefrugalfarmer.net/privacy-policy) for the most accurate reproduction.*
 
-# The Frugal FarmerPrivacy Policy - The Frugal Farmer
+# Privacy Policy | The Frugal Farmer
 
 **The Short version…**
 
