@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the jobscdc.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610155413id_/http%3A//www.jobscdc.com/2011/06/jobscdc-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobscdc.com privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209143444id_/http%3A//www.jobscdc.com/2011/06/jobscdc-privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy - JobsCDC - Lowongan Kerja Terbaru Juni 2015 | BUMN & CPNS 2015
+# Privacy Policy - JobsCDC - Lowongan Kerja Terbaru Desember 2015 | BUMN & CPNS 2015
 
 **Advertisements**
 
