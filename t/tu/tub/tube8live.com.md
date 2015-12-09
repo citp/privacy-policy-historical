@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tube8live.com privacy policy that was archived on 2015-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150615083712id_/http%3A//www.tube8live.com/privacy.html%3F) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tube8live.com privacy policy that was archived on 2015-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151210000246id_/http%3A//www.tube8live.com/privacy.html%3F) for the most accurate reproduction.*
 
 # Tube8Live - Privacy Policy
 
