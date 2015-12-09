@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sportsbasement.com privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611010227id_/http%3A//www.sportsbasement.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sportsbasement.com privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209141214id_/http%3A//www.sportsbasement.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Sports Basement
 
@@ -11,7 +11,7 @@ Our mailing address is:
 The Presidio   
 San Francisco, CA 94129
 
-We can be reached via e-mail at [info@sportsbasement.com](mailto:info@sportsbasement.com), or you can reach us by telephone at 1-800-869-6670.
+We can be reached via e-mail at [friends@sportsbasement.com](mailto:friends@sportsbasement.com), or you can reach us by telephone at 1-800-869-6670.
 
 **How Your Information is Used**
 
@@ -33,19 +33,19 @@ As a natural consequence of the development of our company, we could be sold to 
 
 ### Events
 
-Wednesday, Jun. 10, 2015
+Wednesday, Dec. 9, 2015
     
-Thursday, Jun. 11, 2015
+Thursday, Dec. 10, 2015
     
-Friday, Jun. 12, 2015
+Friday, Dec. 11, 2015
     
-Saturday, Jun. 13, 2015
+Saturday, Dec. 12, 2015
     
-Sunday, Jun. 14, 2015
+Sunday, Dec. 13, 2015
     
-Monday, Jun. 15, 2015
+Monday, Dec. 14, 2015
     
-Tuesday, Jun. 16, 2015
+Tuesday, Dec. 15, 2015
     
 
 All events are free unless otherwise indicated. See event descriptions for more information.
