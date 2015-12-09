@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kurzweilai.net privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610053109id_/http%3A//www.kurzweilai.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kurzweilai.net privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209191044id_/http%3A//www.kurzweilai.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | KurzweilAI
 
@@ -6,9 +6,7 @@ _Last Updated on February 20, 2012_
 
 **Information We Gather**
 
-  * The information we gather falls into two categories: 1) personal information you voluntarily supply when you set up an account to subscribe to our newsletter or to post to our Forums, or when you comment on a post, and 2) tracking information (“cookies”) collected as you navigate through our sites. We do not have access to any passwords you may use on our website, unless they are made public in posts.
-
-
+The information we gather falls into two categories: 1) personal information you voluntarily supply when you set up an account to subscribe to our newsletter or to post to our Forums, or when you comment on a post, and 2) tracking information (“cookies”) collected as you navigate through our sites. We do not have access to any passwords you may use on our website, unless they are made public in posts.
 
 **Use of Information**
 
@@ -40,6 +38,4 @@ KurzweilAI does not knowingly collect or store any personal information, even in
 
 **How To Contact Us** ****
 
-For any questions or comments regarding our privacy or security practices for our daily or weekly _Kurzweil Accelerating Intelligence Newsletter_ , you may contact us by e-mail at [newsletter@kurzweilai.net](mailto:info@kurzweilai.net).
-
-For any questions or comments regarding our privacy or security practices on the kurzweilai.net website, you may contact us by e-mail at [webmaster@kurzweilai.net](mailto:info@kurzweilai.net).
+For any questions or comments regarding our privacy or security practices for our _Kurzweil Accelerating Intelligence_ newsletter or the kurzweilai.net website, you may contact us by e-mail at [editors@kurzweilai.net](mailto:info@kurzweilai.net).
