@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the asianetbroadband.in privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611000105id_/http%3A//www.asianetbroadband.in/Home/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asianetbroadband.in privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209194235id_/http%3A//asianetbroadband.in/Home/PrivacyPolicy) for the most accurate reproduction.*
 
 # Asianet Broadband : India's No1 Internet Provider
 
