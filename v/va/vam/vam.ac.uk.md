@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vam.ac.uk privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630050153id_/http%3A//www.vam.ac.uk/content/articles/p/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vam.ac.uk privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209163848id_/http%3A//www.vam.ac.uk/content/articles/p/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy and use of cookies - Victoria and Albert Museum
 
@@ -7,7 +7,7 @@ Your privacy is important to us. This page explains our online information pract
 
 We may amend this privacy policy at any time by posting changes on this page. Amendments will automatically take effect upon publication. The last date of revision will always appear on the privacy policy.
 
- **Last updated: 20 November 2012**
+ **Last updated: 18 September 2015**
 
 * * *
 
@@ -37,7 +37,7 @@ These cookies do not contain any personal data about you individually. They are 
 
 In the light of new legislation the V&A is making some changes to the websites and we provide you here with a register of the cookies which are currently deployed on our site.
 
-**When you visit V &A websites, if your browser is using the standard settings and it is accepting cookies, you are giving consent for cookies on the V&A sites to be stored on your computer. If you do not wish for this to happen, you can disable them in the settings of your browser.**
+ **When you visit V &A websites, if your browser is using the standard settings and it is accepting cookies, you are giving consent for cookies on the V&A sites to be stored on your computer. If you do not wish for this to happen, you can disable them in the settings of your browser.**
 
 This has to be done on each different browser you use. For more information about how to disable cookies in different browsers, visit [Aboutcookies.org](http://www.aboutcookies.org/Default.aspx?page=2)
 
@@ -58,27 +58,22 @@ This table lists the cookies that we use, how they help you use particular servi
   
 ---|---|---|---|---|---  
 User survey 2012| Store non-personal data about survey responses to a web visitor survey in 2012. The survey asks you for your reason for visiting. Cookies are used to record the overall number of answers to the survey question and to link these to web stats. They do not store your personal data. The cookie is also used to allow the form to be hidden on your return visits. This is to prevent you from being shown the form again unnecessarily. This survey is part of a cross-organisational research project and (anonymous) data from this survey will be shared with other cultural organisations and research findings will be openly published. | 2 years| persistent| www.vam.ac.uk| ki_u, ki_s , ki_t  
-Blogs on the site | Allows a logged in status to enable posting comments on blogs | Long term | persistent | www.vam.ac.uk | CHOCOL ATECHIP  
-Recently viewed feature | maintains a list of recently viewed articles for your convenience | During visit only | session | www.vam.ac.uk | asset-id-history  
-Buying tickets online | allows the creation of a shopping basket for tickets and logging in/creating an account for buying tickets | During visit only | session | transactions.vam.ac.uk | ASPSESSIONIDSSDBDDQQ  
-Buying tickets online | allows the creation of a shopping basket for tickets and logging in/creating an account for buying tickets | During visit only | session | transactions.vam.ac.uk | eSRO%5FUID  
-Buying tickets online | allows the creation of a shopping basket for tickets and logging in/creating an account for buying tickets | During visit only | session | transactions.vam.ac.uk | SalePoint  
-Buying tickets online | verifies that the user's browser supports cookies | During visit only | session | transactions.vam.ac.uk | testcookie  
-Press Images service | Ensures a malicious site is not trying to send data to our site via your browser | Long term typically 1 year | persistent | .vam.ac.uk | csrftoken  
-Competitions | Used to check that information being sent is from a unique session. | Short term - typically a few days | persistent | .vam.ac.uk | e.g. SESS33a4ac4e08ac138784b7630530f32517  
-Downloading high resolution images for study and research | Allows a batch order of images to be created and remembers them, so they can be downloaded later during your visit | During visit only | session | collections.vam.ac.uk | symfony  
-AddThis (social media sharing options) | Record how much use there is of the social networking options provided (email a friend, send to Facebook etc). This information is only collected in aggregate form so we can tell which are the most popular tools. | Long term. Typically up to a few years | persistent | .vam.ac.uk | _csoot, __atuvc, uvc, psc, uid, uit, user_segment, dt, di, ssc, loc, _csuid  
-Google Analytics on main website | Stores non-personal data about visits to the site for statistical reporting | Long term typically 2 years | persistent | .vam.ac.uk | __utma  
-Google Analytics on main website | Stores non-personal data about visits to the site for statistical reporting | Short - typically 1 day | persistent | .vam.ac.uk | __utmb  
-Google Analytics on main website | Stores non-personal data about visits to the site for statistical reporting | During visit only | session | .vam.ac.uk | __utmc  
-Google Analytics on main website | Stores non-personal data about visits to the site for statistical reporting | Typically 6 months | persistent | .vam.ac.uk | __utmz  
-Google Analytics on Museum of Childhood website | Stores non-personal data about visits to the site for statistical reporting | Long term typically 2 years | persistent | museumofchildhood.org.uk | __utma  
-Google Analytics on Museum of Childhood website | Stores non-personal data about visits to the site for statistical reporting | Short - typically 1 day | persistent | museumofchildhood.org.uk | __utmb  
-Google Analytics on Museum of Childhood website | Stores non-personal data about visits to the site for statistical reporting | During visit only | session | museumofchildhood.org.uk | __utmc  
-Google Analytics on Museum of Childhood website | Stores non-personal data about visits to the site for statistical reporting | Typically 6 months | persistent | museumofchildhood.org.uk | __utmz  
-Google Analytics on jobs pages | Stores non-personal data about visits to the site for statistical reporting | Typically 6 months | persistent | .peoplebank.com | __utmz  
-Google Analytics on jobs pages | Stores non-personal data about visits to the site for statistical reporting | Long term typically 2 years | persistent | .peoplebank.com | __utma  
-Google Analytics on jobs pages | Stores non-personal data about visits to the site for statistical reporting | Long term typically 2 years | persistent | .peoplebank.com | __unam  
+Blogs on the site| Allows a logged in status to enable posting comments on blogs| Long term| persistent| www.vam.ac.uk| CHOCOL ATECHIP  
+Recently viewed feature| maintains a list of recently viewed articles for your convenience| During visit only| session| www.vam.ac.uk| asset-id-history  
+Press Images service| Ensures a malicious site is not trying to send data to our site via your browser| Long term typically 1 year| persistent| .vam.ac.uk| csrftoken  
+Competitions| Used to check that information being sent is from a unique session.| Short term - typically a few days| persistent| .vam.ac.uk| e.g. SESS33a4ac4e08ac138784b7630530f32517  
+AddThis (social media sharing options)| Record how much use there is of the social networking options provided (email a friend, send to Facebook etc). This information is only collected in aggregate form so we can tell which are the most popular tools.| Long term. Typically up to a few years| persistent| .vam.ac.uk| _csoot, __atuvc, uvc, psc, uid, uit, user_segment, dt, di, ssc, loc, _csuid  
+Google Analytics on main website| Stores non-personal data about visits to the site for statistical reporting| Long term typically 2 years| persistent| .vam.ac.uk| __utma  
+Google Analytics on main website| Stores non-personal data about visits to the site for statistical reporting| Short - typically 1 day| persistent| .vam.ac.uk| __utmb  
+Google Analytics on main website| Stores non-personal data about visits to the site for statistical reporting| During visit only| session| .vam.ac.uk| __utmc  
+Google Analytics on main website| Stores non-personal data about visits to the site for statistical reporting| Typically 6 months| persistent| .vam.ac.uk| __utmz  
+Google Analytics on Museum of Childhood website| Stores non-personal data about visits to the site for statistical reporting| Long term typically 2 years| persistent| museumofchildhood.org.uk| __utma  
+Google Analytics on Museum of Childhood website| Stores non-personal data about visits to the site for statistical reporting| Short - typically 1 day| persistent| museumofchildhood.org.uk| __utmb  
+Google Analytics on Museum of Childhood website| Stores non-personal data about visits to the site for statistical reporting| During visit only| session| museumofchildhood.org.uk| __utmc  
+Google Analytics on Museum of Childhood website| Stores non-personal data about visits to the site for statistical reporting| Typically 6 months| persistent| museumofchildhood.org.uk| __utmz  
+Google Analytics on jobs pages| Stores non-personal data about visits to the site for statistical reporting| Typically 6 months| persistent| .peoplebank.com| __utmz  
+Google Analytics on jobs pages| Stores non-personal data about visits to the site for statistical reporting| Long term typically 2 years| persistent| .peoplebank.com| __utma  
+Google Analytics on jobs pages| Stores non-personal data about visits to the site for statistical reporting| Long term typically 2 years| persistent| .peoplebank.com| __unam  
   
 ### Flash cookies used on V&A websites
 
@@ -88,18 +83,18 @@ This table lists Local Shared Objects that may be stored from within interactive
 
 For more information on how to control Flash cookies (Local Shared Objects) visit the [Adobe website.](http://www.adobe.com/security/flashplayer/articles/lso/)
 
-What service is setting the cookie | What the cookie does | How long does the cookie last | Type | What website can access the cookie (domain) | Name of cookie  
+What service is setting the cookie| What the cookie does| How long does the cookie last| Type| What website can access the cookie (domain)| Name of cookie  
 ---|---|---|---|---|---  
-Design a Renaissance Room | Remembers and retains the layout settings when designing a room interior, in an interactive game, to prevent these having to be re-entered each time. | permanent unless deleted | persistent | www.vam.ac.uk | room_builder.sol  
-Design a Renaissance Room | Remembers and retains the layout settings when designing a room interior, in an interactive game, to prevent these having to be re-entered each time. | permanent unless deleted | persistent | www.vam.ac.uk | room_nav_intro.sol  
-Vivienne Westwood - Design a tartan | Remembers and retains the layout settings when designing a tartan in an interactive game to prevent these having to be re-entered each time. | permanent unless deleted | persistent | www.vam.ac.uk | va_tartan.sol  
-Design a Renaissance Room | Stores non-personal statistical data about visit to interactive | permanent unless deleted | persistent | www.vam.ac.uk | analytics.sol  
+Design a Renaissance Room| Remembers and retains the layout settings when designing a room interior, in an interactive game, to prevent these having to be re-entered each time.| permanent unless deleted| persistent| www.vam.ac.uk| room_builder.sol  
+Design a Renaissance Room| Remembers and retains the layout settings when designing a room interior, in an interactive game, to prevent these having to be re-entered each time.| permanent unless deleted| persistent| www.vam.ac.uk| room_nav_intro.sol  
+Vivienne Westwood - Design a tartan| Remembers and retains the layout settings when designing a tartan in an interactive game to prevent these having to be re-entered each time.| permanent unless deleted| persistent| www.vam.ac.uk| va_tartan.sol  
+Design a Renaissance Room| Stores non-personal statistical data about visit to interactive| permanent unless deleted| persistent| www.vam.ac.uk| analytics.sol  
   
 ### Cookies used on third party websites that provide services to V&A visitors
 
 Certain areas of the website will also contain third party cookies, e.g. embedded Flickr or YouTube content. The V&A is not responsible for these cookies and you should refer to the appropriate third party website Privacy Policy for further information about them and their terms.
 
-  What service is setting the cookie | What the cookie does | How long does the cookie last | Type | What website can access the cookie (domain) | Name of cookie  
+  What service is setting the cookie| What the cookie does| How long does the cookie last| Type| What website can access the cookie (domain)| Name of cookie  
 ---|---|---|---|---|---  
 Google Doubleclick  
 | Various cookies used to store anonymous stats and sales data. Used to assess the success of marketing campaigns run by marketing partner  
@@ -108,16 +103,30 @@ Google Doubleclick
 | vam.ac.uk and lovetheatre.com  
 | iframe = fls.doubleclick  
   
-Facebook options on V&A web pages | Stores non-personal data about use of Facebook share option on the V&A site | During visit only | session | facebook.com | reg_fb_gate  
-Facebook options on V&A web pages | Stores non-personal data about use of Facebook share option on the V&A site | During visit only | session | facebook.com | reg_fb_ref  
-Facebook options on V&A web pages | Stores non-personal data about use of Facebook share option on the V&A site | Variable typically 1 week | persistent | facebook.com | _e_1k0M_0  
-Videos served on V&A websites hosted on V&A Vimeo account | Various cookies used to store anonymous stats data and view option settings about where a video can be embedded on V&A and other web pages | variable | session | vimeo.com | __utmz  
-Videos served on V&A websites hosted on V&A Vimeo account | Various cookies used to store anonymous stats data and view option settings about where a video can be embedded on V&A and other web pages. Blocking these may affect playback of video embedded in V&A web pages | variable. Typically from few days to several years | persistent | vimeo.com | Various- __utmz, __utma, vimeo, stats_start_date, stats_end_date, v6, __utmv, _home_active_tab, uid  
-Twitter feeds embedded on V&A web pages | Stores non-personal data about use of Twitter embedded on the V&A site. Some cookies may only be set when accessing twitter.com directly. Refer to Twitter site for details | variable | session+persistent | twitter.com | Various- __utmz, __utma, auth_token, auth_token_session, external referrer, guest_id, js, k, lang, pid, secrure_session, twid, twll  
-Comments on blogs on Museum of Childhood website | Various cookies used to store anonymous stats data and view option settings about where a blog comment can be added to the Museum of Childhood blog pages. Blocking these may affect the ability to comment on Museum of Childhood blogs. | variable | session+persistent | intensedebate.com/, wordpress.org/, openid.net/ | _utmc, _utmc, _utmb, _utma, idcomments_token, idcomments_userid, login_pref, _qca  
-Google Plus share options on V&A web pages | Stores non-personal data about use of Google+ share option on the V&A site. | Short term. | persistent | plusone.google.com | BEAT  
-Google including Google Plus | Stores non-personal data about use of Google+ share option on the V&A site | During visit only | session | api.google.com, plus.google.com, plusone.goole.com | ULS  
-Total Media | Used to assess the success of marketing campaigns run by marketing partner | Long term. May vary, but typically several years | persistent | mediaplex.com | mojo3, SVID  
+Facebook options on V&A web pages| Stores non-personal data about use of Facebook share option on the V&A site| During visit only| session| facebook.com| reg_fb_gate  
+Facebook options on V&A web pages| Stores non-personal data about use of Facebook share option on the V&A site| During visit only| session| facebook.com| reg_fb_ref  
+Facebook options on V&A web pages| Stores non-personal data about use of Facebook share option on the V&A site| Variable typically 1 week| persistent| facebook.com| _e_1k0M_0  
+Quantcast  
+| Two main types of cookies are used: (1) Quantcast Measure and (2) Quantcast Advertise. Our Measure product helps websites owners to anonymously understand the characteristics and demographics of the people who visit their sites. Our Advertise product allows businesses to deliver relevant online advertising to individual consumers. When you visit a site or app operated by a Quantcast Partner, the Partner permits us to collect Log Data. The Log Data we store is not Personally Identifiable Information (PII). We only know you as an anonymous unique identifier, and we associate information about your site visits or app usage with that identifier, not with your name or email address or any other Personally Identifiable Information.  
+| Max 30 days  
+| persistent  
+| vam.ac.uk  
+| quantserve.com  
+  
+Simek Ad Serving  
+| Various cookies used to store anonymous stats and sales data. Used to assess the success of marketing campaigns run by marketing partner  
+| Max 30 days  
+| persistent  
+| vam.ac.uk  
+| bs.serving-sys.com/Serving  
+  
+Videos served on V&A websites hosted on V&A Vimeo account| Various cookies used to store anonymous stats data and view option settings about where a video can be embedded on V&A and other web pages| variable| session| vimeo.com| __utmz  
+Videos served on V&A websites hosted on V&A Vimeo account| Various cookies used to store anonymous stats data and view option settings about where a video can be embedded on V&A and other web pages. Blocking these may affect playback of video embedded in V&A web pages| variable. Typically from few days to several years| persistent| vimeo.com| Various- __utmz, __utma, vimeo, stats_start_date, stats_end_date, v6, __utmv, _home_active_tab, uid  
+Twitter feeds embedded on V&A web pages| Stores non-personal data about use of Twitter embedded on the V&A site. Some cookies may only be set when accessing twitter.com directly. Refer to Twitter site for details| variable| session+persistent| twitter.com| Various- __utmz, __utma, auth_token, auth_token_session, external referrer, guest_id, js, k, lang, pid, secrure_session, twid, twll  
+Comments on blogs on Museum of Childhood website| Various cookies used to store anonymous stats data and view option settings about where a blog comment can be added to the Museum of Childhood blog pages. Blocking these may affect the ability to comment on Museum of Childhood blogs.| variable| session+persistent| intensedebate.com/, wordpress.org/, openid.net/| _utmc, _utmc, _utmb, _utma, idcomments_token, idcomments_userid, login_pref, _qca  
+Google Plus share options on V&A web pages| Stores non-personal data about use of Google+ share option on the V&A site.| Short term.| persistent| plusone.google.com| BEAT  
+Google including Google Plus| Stores non-personal data about use of Google+ share option on the V&A site| During visit only| session| api.google.com, plus.google.com, plusone.goole.com| ULS  
+Total Media| Used to assess the success of marketing campaigns run by marketing partner| Long term. May vary, but typically several years| persistent| mediaplex.com| mojo3, SVID  
 ADROLL  
 | Used to present advertisements based on products/services viewed on the V&A Shop and V&A websites.  
 | Expiry of 30 days  
