@@ -1,19 +1,9 @@
-<!--The following is the downloaded HTML source of the commscope.com privacy policy that was archived on 2015-06-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150608161903id_/http%3A//www.commscope.com/About-Us/Privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the commscope.com privacy policy that was archived on 2015-12-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151209215821id_/http%3A//www.commscope.com/About-Us/Privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class=""><head><meta charset="utf-8"><meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1"><meta name="viewport" content="width=device-width, initial-scale=1.0"><meta name="google-translate-customization" content="ac04ca58e2cb016a-f41375ae7305f72c-g7e5972fec99be307-14">
-
-        <div class="fit-vids-style" id="fit-vids-style" style="display: none;">­<style>.fluid-width-video-wrapper{width:100%;position:relative;padding:0;}.fluid-width-video-wrapper iframe,.fluid-width-video-wrapper object,.fluid-width-video-wrapper embed {position:absolute;top:0;left:0;width:100%;height:100%;}</style></div><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/theme/js/jquery.js"></script><!-- jQuery v1.7.1 -->
-
-        <script src="/theme/js/jquery.fitvids.js"></script><!--  for fluid width video embeds -->
-        <script>
-            $(document).ready(function () {
-                // Target your .container, .wrapper, .post, etc.
-                $(".container").fitVids();
-            });
-        </script>
-   		
-
+        <script type="text/javascript" async="" src="https://sjs.bizographics.com/insight.min.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/theme/js/jquery.js"></script><!-- jQuery v1.7.1 -->
+        
     
     <title>Privacy</title>
 <meta name="Keywords" content="privacy, personal data, privacy statement, cookies">
@@ -42,15 +32,23 @@
 	    <link rel="stylesheet" type="text/css" href="/theme/css/ie9.css" />
     <![endif]-->
 
-    <!-- Le fav and touch icons -->
+    <!-- Fav and touch icons -->
     <link rel="shortcut icon" href="/theme/img/icons/favicon.png"><link rel="apple-touch-icon-precomposed" sizes="114x114" href="/theme/img/icons/apple-touch-icon-114x114-precomposed.png"><link rel="apple-touch-icon-precomposed" sizes="72x72" href="/theme/img/icons/apple-touch-icon-72x72-precomposed.png"><link rel="apple-touch-icon-precomposed" href="/theme/img/icons/apple-touch-icon.png">
 
-    <!--<script src="/theme/js/modernizr-2.6.2-respond-1.1.0.min.js"></script> 
-        removed modernizr since html5 tags not used due to >IE8 support being needed, also separated respond.js from the script so the responsive nature still works in <IE9 -->
     <script src="/theme/js/respond.min.js"></script>
 
 	<script type="text/javascript" src="/theme/js/jquery.fancybox2.1.5.js"></script>
+    <script type="text/javascript" src="/theme/js/jquery.fancybox-media.js"></script>
 	<script type="text/javascript" src="/theme/js/script.js"></script>
+
+<!--============== NEW STYLES =============-->
+    <!-- Header/Footer styles (TB add) also added script at bottom of file cmsc-js.js  -->
+	<link href="/theme/css/new-styles.css" rel="stylesheet">
+	<!--[if lte IE 10]>
+		<link rel="stylesheet" type="text/css" href="/theme/css/new-ie9.css" />
+	<![endif]-->
+<!-- /(TB add) ============= -->
+
     
 <!-- Start Google Code -->
 <script type="text/javascript">
@@ -102,37 +100,37 @@ function TrackEventByFileExtension(FileExtension)
     
 
 	<script type="text/javascript" src="/theme/js/jquery-ui.min.js"></script>
-    <!-- Product Spec Autocomplete -->
-    <link rel="stylesheet" href="/theme/css/jquery-ui.css">
-    <script lang="javascript" type="text/javascript">
-        $(function () {
-            $('#txtSearch').autocomplete({
-                source: function (request, response) {
-                    $.ajax({
-                        url: "/templates/ProductCatalog/Default.aspx/GetProducts",
-                        data: "{ 'prefixText':'" + request.term + "'}",
-                        dataType: "json",
-                        type: "POST",
-                        contentType: "application/json; charset=utf-8",
-                        success: function (data) {
-                            response($.map(data.d, function (item) {
-                                return {
-                                    label: item.name,
+	<!-- Product Spec Autocomplete -->
+	<link rel="stylesheet" href="/theme/css/jquery-ui.css">
+	<script lang="javascript" type="text/javascript">
+		$(function () {
+			$('.search-header').autocomplete({
+				source: function (request, response) {
+					$.ajax({
+						url: "/templates/ProductCatalog/Default.aspx/GetProducts",
+						data: "{ 'prefixText':'" + request.term + "'}",
+						dataType: "json",
+						type: "POST",
+						contentType: "application/json; charset=utf-8",
+						success: function (data) {
+							response($.map(data.d, function (item) {
+								return {
+									label: item.name,
 									value: item.name,
 									src: item.src + '&s=search'
-                                }
-                            }))
-                        },
-                        error: function (XMLHttpRequest, textStatus, errorThrown) {
-                            //alert(textStatus);
-                        }
-                    });
-                },
-                select: function (event, b) {
-                    // prevent autocomplete from updating the textbox
-                    event.preventDefault();
-                    window.location.href = b.item.src;
-                },			
+								}
+							}))
+						},
+						error: function (XMLHttpRequest, textStatus, errorThrown) {
+							//alert(textStatus);
+						}
+					});
+				},
+				select: function (event, b) {
+					// prevent autocomplete from updating the textbox
+					event.preventDefault();
+					window.location.href = b.item.src;
+				},
 				open: function (e, ui) {
 					var acData = $(this).data('ui-autocomplete');
 					acData
@@ -146,318 +144,593 @@ function TrackEventByFileExtension(FileExtension)
 					});
 				},
 				position: { collision: "fit none" } // accepts a single value or a pair for horizontal/vertical
-            });
+			});
 
-            //append a header to the results list
-            var widgetInst = $('#txtSearch').autocomplete({}).data('ui-autocomplete');
+			// append a header to the results list
 
-            widgetInst._renderMenu = function (ul, items) {
-                var self = this;
-                $.each(items, function (index, item) {
-                    if (index == 0)
-                        ul.append("<li class='ui-autocomplete-category'>Product Specifications found:</li>");
-                    self._renderItemData(ul, item);
-                });
-            };
-        });
-    </script>
+            // This is the mobile view search box
+			var widgetInst1 = $('#txtSearch1').autocomplete({}).data('ui-autocomplete');
+			widgetInst1._renderMenu = function (ul, items) {
+				var self = this;
+				$.each(items, function (index, item) {
+					if (index == 0)
+						ul.append("<li class='ui-autocomplete-category'>Product Specifications found:</li>");
+					self._renderItemData(ul, item);
+				});
+			};
 
-
-    <!-- Header area -->
-    <div id="site-header">
-        <div class="container">
-            <div class="user-menu">
-                
-
-                <div class="relative x-small">
-                    <!-- position this to relative, so the siblings in it can be postioned absolutely within this container -->
-
-                    <span class="myprofile" style="margin-top: -2px; ">
-                        <a href="/Membership/MyProfile.aspx"><span id="ctl00_Header_lblWelcome"></span></a><span id="ctl00_Header_lblWelcomeBar"></span>
-                         <a href="/membership/default.aspx" class="login-out"><span id="ctl00_Header_lblMYC">Login</span></a> <!--&nbsp;&nbsp;|--> 
-                        
-                        
-
-                        <script src="/theme/js/motionPoint.js"></script>
-                        <script type="text/javascript">
-                            function switchLanguage(lang) {
-                                MP.SrcUrl = decodeURIComponent('mp_js_orgin_url'); MP.UrlLang = 'mp_js_current_lang'; MP.init();
-                                MP.switchLanguage(MP.UrlLang == lang ? 'en' : lang);
-                                return false;
-                            }
-                         </script>
-
-                    <span class="search-bg">
-                    <span>
-                        <select onchange="return switchLanguage(this.value);" class="goog-trans">
-                        <option>Please select language</option>
-                        <option value="es">Español</option>
-                        <option value="ja">日本語</option>
-                        <option value="pt">Português</option>
-                        <option value="ru">Русский</option>
-                        <option value="zs">简体中文</option>
-                        </select>
-                    </span>
-
-                    <span id="google_translate_element" style="display: inline-block;"><a href="#" onclick="doTranslate()" value="Translate" title="Translate this page">Translate</a></span>
-                    </span>
-                 </span>
-
-                </div>
-                <!-- /relative parent box -->
-            </div>
-
-            <div class="row">
-                <div class="brand">
-                    <a href="/">
-                        <img src="/theme/img/logo.png" alt="CommScope" border="0"> <i class="fa fa-magic"></i></a>
-                </div>
-
-                <div class="search" style="margin-top: 8px;">
-                  <div class="input-prepend">
-                      
-                      <!--Search tip -->
-                      <a href="#" data-toggle="tooltip" data-placement="bottom" title="" data-original-title="After partial part numbers, use an asterisk. RV4PX*" class="search-tip">
-                      <img src="/theme/img/info-icon.png" width="16" alt="Search tip" style="margin-right: .8em;"></a>
-
-                      <span role="status" aria-live="polite" class="ui-helper-hidden-accessible"></span><input type="text" class="span2 ui-autocomplete-input" name="txtSearch" id="txtSearch" value="" placeholder="Search..." autocomplete="off">
-                      <button class="btn btn-success" name="btnSearch" id="btnSearch" onclick="javascript:SubmitSearch()" value="Go">Go</button>
-
-                  </div>
-
-                    <script type="text/javascript">
-                        $(function () {
-                            $("[data-toggle='tooltip']").tooltip();
-                        });
-                    </script>
-                    <!-- /Search tip -->
+            // This is the desktop view search box
+			var widgetInst2 = $('#txtSearch2').autocomplete({}).data('ui-autocomplete');
+			widgetInst2._renderMenu = function (ul, items) {
+			    var self = this;
+			    $.each(items, function (index, item) {
+			        if (index == 0)
+			            ul.append("<li class='ui-autocomplete-category'>Product Specifications found:</li>");
+			        self._renderItemData(ul, item);
+			    });
+			};
+		});
+	</script>
+	
 
 
+<!-- ============================= SITE HEADER : START ================================== -->
+	<header id="cmsc-header" class="clearfix cmsc-mobile-search-hidden">
+		<div class="search cmsc-flex cmsc-search-dark" id="csmc-search-mobile">
+			<div class="cmsc-search-wrap cmsc-flex">
+				<label class="cmsc-access" for="txtSearch1">Search</label>
+				<span role="status" aria-live="polite" class="ui-helper-hidden-accessible"></span><input type="search" class="ui-autocomplete-input search-header" name="txtSearch1" id="txtSearch1" value="" placeholder="Search CommScope" autocomplete="off">
+				<button type="reset" class="close">×</button>
+			</div>  
+		</div>
 
-           <script type="text/javascript">
-              function SubmitSearch() {
-              var Searchtxt = document.getElementById("txtSearch").value;
-              window.location = "/SiteSearch/?q=" + encodeURIComponent(Searchtxt);         
-            }
+        <script type="text/javascript">
+            function SubmitSearch1() {
+                var Searchtxt = document.getElementById("txtSearch1").value;             window.location = "/SiteSearch/?q=" + encodeURIComponent(Searchtxt);         }
 
-            $("#txtSearch").keyup(function (event) {
+            $("#txtSearch1").keyup(function (event) {
                 if (event.keyCode == 13) {
-                    $("#btnSearch").click();
-                }
-            });
-           </script>
-
-                </div>
-                <!-- /row -->
-            </div>
-            <!-- /site-header container -->
-        </div>
-    </div>
+                    SubmitSearch1();             }
+            });     </script>
 
 
+    <!--mp_linkcode_begins-->
+		<script src="/theme/js/mp_linkcode.js"></script>
+    <!--mp_linkcode_ends-->
+    
+    <!--– mp_snippet_begins -->
+	  <script>
+          MP.UrlLang= 'mp_js_current_lang';
+		  MP.SrcUrl= decodeURIComponent ('mp_js_orgin_url');
+		  MP.oSite=decodeURIComponent('mp_js_origin_baseUrl');
+		  MP.tSite=decodeURIComponent('mp_js_translated_baseUrl');
+		  MP.init();
+	 </script>
+      <!--– mp_snippet_ends -->
 
 
-   <!-- Main navigation bar -->
-    <div id="navigation" class="wrapper" style="z-index: 2;">
-        <div class="navbar navbar-static-top">
-            <div class="container">
-                <div class="navbar-inner">
-                    <!--mobile collapse menu button-->
-                    <a class="btn btn-navbar pull-left" data-toggle="collapse" data-target=".nav-collapse" style="/*min-height: 40px;*/">
-                        <!--Menu  -->
-                       <!--<i class="icon-tasks"></i>-->
-					<img src="/theme/img/icon-hamburger-menu.png" alt="menu"></a> 
-                 <!--everything within this div is collapsed on mobile-->
-                    <div class="nav-collapse collapse">
-                        <!--main navigation-->
-                        <ul id="main-menu" class="nav">                   
-    <li class="dropdown">                                   
-        <a id="solutions-drop" class="dropdown-toggle top-level" href="#" data-toggle="dropdown">Solutions                                                                                         
-            <img class="pad-down-arrow" src="/theme/img/down-arrow.png">        </a>                                   
-        <!-- Dropdown Menu -->                                   
-        <ul class="dropdown-menu mega-menu" role="menu" aria-labelledby="solutions-drop">                                                   
-            <li class="mega-menu-wrapper row-fluid" role="menuitem">                                                                   
-                <ul class="span4" role="menu">                                                                                   
-                    <li class="menu-title" role="menutitle">                                                                                                   
-                        <a href="/Solutions/Broadband-Solutions/">Broadband</a>                    </li>                                                                                   
-                    <li role="menuitem">                                                                                                   
-                        <a href="/Solutions/Broadband-Solutions/CATV-Headend/">CATV Headend</a>                    </li>                                                                                   
-                    <li role="menuitem">                                                                                                   
-                        <a href="/Solutions/Broadband-Solutions/Outside-Plant/">Outside Plant</a>                    </li>                                                                                   
-                    <li role="menuitem">                                                                                                   
-                        <a href="/Solutions/Broadband-Solutions/Residential-Solutions/">Residential</a>                    </li>                </ul>                                                                   
-                <ul class="span4" role="menu">                                                                                   
-                    <li class="menu-title" role="menutitle">                                                                                                   
-                        <a href="/Solutions/Enterprise-Solutions/">Enterprise</a>                    </li>                                                                                   
-                    <li role="menuitem">                                                                                                   
-                        <a href="/Solutions/Enterprise-Solutions/Campus-Solutions/">Campus</a>                    </li>                                                                                   
-                    <li role="menuitem">                                                                                                   
-                        <a href="/Solutions/Enterprise-Solutions/Data-Center-Solutions/">Data Center</a>                    </li>                                                                                   
-                    <li role="menuitem">                                                                                                   
-                        <a href="/Solutions/Enterprise-Solutions/In-building-Wireless-Solutions/">In-Building Wireless</a>                    </li>                                                                                   
-                    <li role="menuitem">                                                                                                   
-                        <a href="/Solutions/Enterprise-Solutions/Intelligent-Building-Solutions/">Intelligent Building</a>                    </li>                </ul>                                                                   
-                <ul class="span4" role="menu">                                                                                   
-                    <li class="menu-title" role="menutitle">                                                                                                   
-                        <a href="/Solutions/Wireless-Solutions/">Wireless</a>                    </li>                                                                                   
-                    <li role="menuitem">                                                                                                   
-                        <a href="/Solutions/Wireless-Solutions/Backhaul-Solutions/">Backhaul</a>                    </li>                                                                                   
-                    <li role="menuitem">                                                                                                   
-                        <a href="/Solutions/Wireless-Solutions/Indoor-Coverage-and-Capacity-Solutions/">Indoor Coverage and Capacity Sites </a>                    </li>                                                                                   
-                    <li role="menuitem">                                                                                                   
-                        <a href="/Solutions/Wireless-Solutions/Outdoor-Sites/">Outdoor Sites</a></li>                </ul>            </li>        </ul>    </li>                   
-    <li class="dropdown">                                   
-        <a id="industries-drop" class="dropdown-toggle top-level" href="#" data-toggle="dropdown">Industries                                                                                         
-            <img class="pad-down-arrow" src="/theme/img/down-arrow.png">        </a>                                   
-        <!-- Dropdown Menu -->                                   
-        <ul class="dropdown-menu mega-menu" role="menu" aria-labelledby="industries-drop">                                                   
-            <li class="mega-menu-wrapper row-fluid" role="menuitem">                                                                   
-                <ul class="span4" role="menu">                                                                                   
-                    <li class="menu-title" role="menutitle">                                                                                                   
-                        <a href="/Industries/Education/">Education</a>                    </li>                                                                                   
-                    <li class="menu-title" role="menutitle">                                                                                                   
-                        <a href="/Industries/Energy-Solutions/">Energy</a>                    </li>                                                                                   
-                    <li role="menuitem">                                                                                                   
-                        <a href="/Industries/Energy-Solutions/Electrical-Utility-Solutions/">Electric Utilities</a>                    </li>                                                                                   
-                    <li role="menuitem">                                                                                                   
-                        <a href="/Industries/Energy-Solutions/Mobile-Operators/">Mobile Operators</a>                    </li>                                                                                   
-                    <li role="menuitem">                                                                                                   
-                        <a href="/Industries/Energy-Solutions/Oil,-Gas-and-Petroleum-Solutions/">Oil, Petroleum and Gas</a>                    </li>                                                                                   
-                    <li role="menuitem">                                                                                                   
-                        <a href="/Industries/Energy-Solutions/Wind-Farm-Solutions/">Wind Farms</a>                    </li>                                                                                   
-                    <li class="menu-title" role="menutitle">                                                                                                   
-                        <a href="/Industries/Finance/">Finance</a>                    </li>                </ul>                                                                   
-                <ul class="span4" role="menu">                                                                                   
-                    <li class="menu-title" role="menutitle">                                                                                                   
-                        <a href="/Industries/Government-Solutions/">Government</a>                    </li>                                                                                   
-                    <li class="menuitem">                                                                                                   
-                        <a href="/Industries/Government-Solutions/U-S--Federal-Government-Solutions/">US Federal Government</a>                    </li>                                                                                   
-                    <li class="menu-title" role="menutitle">                                                                                                   
-                        <a href="/Industries/Healthcare-Solutions/">Healthcare</a>                    </li>                                                                                   
-                    <li class="menu-title" role="menutitle">                                                                                                   
-                        <a href="/Industries/Sports-and-Entertainment-Solutions/">Sports and Entertainment</a>                    </li>                                                                                   
-                    <li role="menuitem">                                                                                                   
-                        <a href="/Industries/Sports-and-Entertainment-Solutions/Sports-and-Entertainment-%E2%80%94-Enterprise-Solutions/">Enterprise Solutions</a>                    </li>                                                                                   
-                    <li role="menuitem">                                                                                                   
-                        <a href="/Industries/Sports-and-Entertainment-Solutions/Sports-and-Entertainment-%E2%80%94-Wireless-Solutions/">Wireless Solutions</a>                    </li>                </ul>                                                                   
-                <ul class="span4" role="menu">                                                                                   
-                    <li class="menu-title" role="menutitle">                                                                                                   
-                        <a href="/Industries/Telecommunications/">Telecommunications</a>                    </li>                                                                                   
-                    <li role="menuitem">                                                                                                   
-                        <a href="/Industries/Telecommunications/Mobile-Operator-Solutions/">Mobile Operators</a>                    </li>                                                                                   
-                    <li role="menuitem">                                                                                                   
-                        <a href="/Industries/Telecommunications/Multi-Tenant-Data-Center-Solutions/">Multi-Tenant Data Centers</a>                    </li>                                                                                   
-                    <li role="menuitem">                                                                                                   
-                        <a href="/Industries/Telecommunications/Wireline-Operator-Solutions/">Wireline Operators</a>                    </li>                                                                                   
-                    <li role="menutitle">                                                                                                   
-                        <a href="/Industries/Transportation-Solutions/">Transportation</a>                    </li>                                                                                   
-                    <li role="menuitem">                                                                                                   
-                        <a href="/Industries/Transportation-Solutions/Airport-Solutions/">Airports</a>                    </li>                                                                                   
-                    <li style="margin-left: 10px;" role="menuitem">                                                                                                   
-                        <a href="/Industries/Transportation-Solutions/Airport-Solutions/Airports-%E2%80%94-Enterprise-Solutions/">Enterprise Solutions</a>                    </li>                                                                                   
-                    <li style="margin-left: 10px;" role="menuitem">                                                                                                   
-                        <a href="/Industries/Transportation-Solutions/Airport-Solutions/Airports-%E2%80%94-Wireless-Solutions/">Wireless Solutions</a>                    </li>                                                                                   
-                    <li role="menuitem">                                                                                                   
-                        <a href="/Industries/Transportation-Solutions/Railway-Solutions/">Railways</a>                    </li>                </ul>            </li>        </ul>    </li>                   
-    <li class="dropdown">                                   
-        <a id="eCatalog-drop" class="dropdown-toggle top-level" href="#" data-toggle="dropdown">Product Catalog                                                                                     
-            <img class="pad-down-arrow" src="/theme/img/down-arrow.png">        </a>                                   
-        <!-- Dropdown Menu -->                                   
-        <ul class="dropdown-menu" role="menu" aria-labelledby="eCatalog-drop">                                                   
-            <li role="menutitle">                                                                   
-                <a class="menu-item" href="/Product-Catalog/Broadband">Broadband</a>            </li>                                                   
-            <li role="menutitle">                                                                   
-                <a class="menu-item" href="/Product-Catalog/Enterprise">Enterprise</a>            </li>                                                   
-            <li role="menutitle">                                                                   
-                <a class="menu-item" href="/Product-Catalog/Wireless">Wireless</a>            </li>                </ul>                </li>                                    
-    <li class="dropdown">                                   
-        <a id="blog-drop" class="dropdown-toggle top-level" href="#" data-toggle="dropdown">Partners                                                                                     
-            <img class="pad-down-arrow" src="/theme/img/down-arrow.png">        </a>                                   
-        <!-- Dropdown Menu -->                                   
-        <ul class="dropdown-menu pull-left" role="menu" aria-labelledby="blog-drop">                                                   
-            <li role="menutitle">                                                                   
-                <a class="menu-item" href="/Partners/PartnerPRO-Network/"><span style="text-transform: none;">PartnerPRO™</span> Network</a>            </li>                                                   
-            <li role="menuitem">                                                                   
-                <a class="menu-item" href="/Partners/PartnerPRO%E2%84%A2-Network/For-Our-Customers/Networks-can-complicate-your-business/">For Our Customers</a>            </li>                                                   
-            <li role="menuitem">                                                                   
-                <a class="menu-item" href="/Partners/PartnerPRO%E2%84%A2-Network/For-Our-Partners/Your-customers-count-on-you/">For Our Partners</a>            </li>                                                   
-            <li role="menutitle">                                                                   
-                <a class="menu-item" href="/Partners/Partner-Locator/">Partner Locator</a>            </li>                     </ul>                </li>                                                      
-    <li>        
-        <a class="top-level" href="/Resources/">Resources</a>    </li>                      
-    <!-- <li class="dropdown">                 
+		<!-- ~~~~~~~~~~~~~~~~~~ Language selector, Message, Login link ~~~~~~~~~~~~~~~~~~~~~ -->
+		<div id="cmsc-te-promo" class="cmsc-banner-promo bgB">
+			<div class="container relative">
+				<div class="cmsc-lang-select cmsc-lang-select-desktop hidden-phone hidden-tablet">
+					<span class="cmsc-lang-current">
+                        <!--mp_global_switch_begins-->
+                            <a mporgnav="" class="user-localecmsc-trigger" href="#" onclick="return chooser();                         function chooser(){
+                            MP.SrcUrl=unescape('mp_js_orgin_url');MP.UrlLang='mp_js_current_lang';                         MP.oSite=decodeURIComponent('mp_js_origin_baseUrl');                         MP.tSite=decodeURIComponent('mp_js_translated_baseUrl');                         MP.init();                         var script=document.createElement('SCRIPT');                         script.src='https://commscope.mpeasylink.com/mpel/mpel_chooser.js';                         document.body.appendChild(script);                         return false;                         }" title="Language -Currency"> Choose Language</a>
+                            <!--mp_global_switch_ends-->
+					</span>
+				</div>
+					
+				<!-- Day 1 info-->
+                <a href="/expectmore/" class="cmsc-banner-link"><b>INNOVATION ACQUIRED FROM TE CONNECTIVITY. Learn more</b></a>
 
-        <a href="#"  class="dropdown-toggle top-level"  id="resources-drop"  data-toggle="dropdown">Resources <img src="/theme/img/down-arrow.png" data-ektron-url="/theme/img/down-arrow.png"            /></a>
-
-                
-
-        <ul class="dropdown-menu pull-left"  role="menu"  aria-labelledby="pages-drop">   
-
-            <li role="menutitle">                                 
-
-                <a href="/Resources/Apps/"  class="menu-item">Apps</a></li>                         
-
-            <li role="menutitle">                                 
-
-                <a href="/Resources/How-To-Buy/"  class="menu-item">How To Buy</a></li>   
-
-            <li role="menutitle">                                 
-
-                <a href="/Resources/"  class="menu-item">Resource Library</a></li>                         
-
-            <li role="menutitle">                                 
-
-                <a href="/Support/Training/"  class="menu-item">Training</a></li>                         
-
-            <li role="menutitle">                                 
-
-                <a href="/WebTrak/"  class="menu-item">WebTrak</a></li>
-
-                </ul>
-
+                            
+<style>
+/* Styles for MyCommScope dropdown */
+  .chevron-down {background-position: 35% 3px; background-image: url(/images/downchevron.svg); background-repeat: no-repeat; background-size: 11px 8px; padding: 0 10px 10px 25px;}
+  .cmsc-my-cmscp { background: #fff; padding: 18px 15px 23px 25px; }
+  .cmsc-my-cmscp .login { padding-right: 10px /*adds the space to the right for the missing down chevron */;}
+  .cmsc-my-cmscp a {color: #000 !important; }
+  .cmsc-lang-list { background: #fff; border-top: 0px; border-bottom: 2px solid #ebebeb; border-left: 0px; border-right: 0px; color: #333; display: none; list-style: none; 
+	position: absolute; top: 35px; right: 42px; padding: 10px 0; width: auto; width: 164px; z-index: 2000;
+	background: #fdfdfd;
+	background: -moz-linear-gradient(top,  #ffffff 0%, #f4f4f4 100%);
+	background: -webkit-linear-gradient(top,  #ffffff 0%,#f4f4f4 100%);
+	background: linear-gradient(to bottom,  #ffffff 0%,#f4f4f4 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#f4f4f4',GradientType=0 ); }
+  .cmsc-lang-select li, .cmsc-lang-list {white-space: normal; text-align: left;}
+  .cmsc-authed-menu li { display: block; }
+  .cmsc-authed-menu li:not(:last-child)::after { content:''; padding: 0 2px; }
+  
+  @media screen and (max-width: 1023px) {
+		.cmsc-search-wrap { position: relative; display: block; } 
+		.cmsc-search-wrap .close { position: absolute; top: 50%; margin-top: -10px; right: 10px;} 
+		#cmsc-logo-nav-search {position: relative; /* fixes the dropdown that wasn't able to be clicked because the logo had a relative position and the dropdonw would go behind the transparent div */}
+		}
+		
+	.cmsc--nav-top-level .cmsc--nav-login--mobile { background: #00aeef; border-width: 0; border-radius: 1000px; display: inline-block; font-weight: normal; margin: 2em 0 2em 20%; padding: 10px; text-align: center; text-transform: none; width: 50%; }
+/* /Styles for MyCommScope dropdown */
+</style>     
+                            
+                     <span class="cmsc-authed-menu hidden-phone cmsc-vcenter">
+                        <div class="cmsc-lang-select cmsc-lang-select-desktop cmsc--hide-sm">
+                            <span class="cmsc-my-cmscp" style="position: relative;">
+                              
+                                  <a href="/membership/default.aspx" data-show=".cmsc-lang-list" class="login">Login</a>
+                              
+					</span>
                     
+						<ul class="cmsc-lang-list">
+                            
 
-                </li>   -->                
-    <li>        
-        <a class="top-level" href="/ThinkingAhead/">Thinking Ahead</a>    </li>
-</ul>
-                    </div><!--/.nav-collapse -->
-                </div>
-            </div><!--/.container -->
-        </div>
-    </div><!--/.navigation -->
+                        </ul>
+                    </div>
+
+                </span>
+
+			</div>
+		</div>
+
+		<!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~ Logo and Mobile Navigation ~~~~~~~~~~~~~~~~~~~~~~~~~ -->
+		<div class="clearfix" id="cmsc-logo-nav-search">		
+			<button type="button" id="cmsc-menu-trigger" class="cmsc-trigger cmsc-btn-link">
+				<svg version="1.1" id="cmsc-burger-menu" class="cmsc-btn-label" xmlns="//www.w3.org/2000/svg" xmlns:xlink="//www.w3.org/1999/xlink" x="0px" y="0px" viewBox="-307.2 220 18 12" style="enable-background:new -307.2 220 18 12;" xml:space="preserve">
+					<g id="hamburger">
+						<title>Menu</title>
+						<path class="st0" stroke="#252525" stroke-width="2" d="M-307.2,221h18"></path>
+<path class="st0" stroke="#252525" stroke-width="2" d="M-307.2,226h18"></path>
+						<path class="st0" stroke="#252525" stroke-width="2" d="M-307.2,231h18"></path>
+					</g>
+				</svg>
+			</button>
+			<div class="cmsc-logo-wrap">
+				<a href="/">
+					<svg class="cmsc-logo" xmlns="//www.w3.org/2000/svg" viewBox="0 0 564.3 74.7" enable-background="new 0 0 564.3 74.7"><title>COMMSCOPE</title><path fill="#231F20" d="M35.3 65.9c-15.2 0-26.8-13.1-26.8-28.5 0-15.5 11.7-28.7 27-28.7 6.4 0 13.1 2.4 18 6.9L57.8 9C51.8 2.8 43.9.7 36.3.7 16.2.7 0 16.9 0 37.7 0 58 16.1 74.5 35.6 73.9c6.8-.2 15.5-2.4 22.2-8.5l-4.3-6.7c-5.1 4.6-11.5 7.2-18.2 7.2zM91.5.7C71.9.7 55.7 17.2 55.7 37.3c0 20.9 16 36.6 35.8 36.6 19.7 0 35.8-15.7 35.8-36.6C127.3 17.2 111 .7 91.5.7zm0 65c-14.8 0-27.2-12.4-27.2-28.4 0-15.5 11.2-28.4 27.2-28.4s27.2 12.9 27.2 28.4c0 16-12.4 28.4-27.2 28.4zm217.3-34.8l-4.9-2c-4.3-1.7-9.5-4.6-9.5-10.1 0-6.1 6-10 11.4-10 6 0 9.7 4.1 9.9 8.7h7.8c-1.2-12.3-10-17-17.6-17-10.3 0-20.1 6.8-20.1 18.2 0 9.8 7.1 14.3 14.8 17.8l4.7 2c5.9 2.5 11.8 5.8 11.8 13.3 0 7.4-5.3 13.7-12.6 13.7s-13.3-5.6-13.2-13.3l-8.6.2c1 13.4 10 21.3 21.1 21.3 12.2 0 21.8-9.1 21.8-21.9.1-11.5-7.1-17-16.8-20.9zM471.4 2.2h-9.8v70.2h8.5V43h4.9c13 0 23.9-5.7 23.9-20.5.1-12.8-6.5-20.3-27.5-20.3zm1.5 33h-2.7V10h2.3c8.4 0 18.5 1.3 18.5 12.3 0 11.2-9.4 12.9-18.1 12.9zM505 72.4h36.7v-8h-28.1V37.9h27.3v-8h-27.3V10.2h28.1v-8H505v70.2zM364.6 8.7c6.4 0 13.1 2.4 18 6.9l4.3-6.6c-6-6.2-13.9-8.3-21.5-8.3-20.1 0-36.3 16.2-36.3 37 0 20.3 16.1 36.8 35.6 36.2 6.8-.2 15.6-2.4 22.2-8.5l-4.3-6.7c-5.1 4.7-11.5 7.3-18.2 7.3-15.2 0-26.8-13.1-26.8-28.5 0-15.6 11.7-28.8 27-28.8zM185.9 2.4l-12.1 33.9c-3 8.8-5.4 16.5-7.2 23.6h-.3c-1.7-7.3-4-15-6.9-23.6L147.8 2.4h-11.2l-4.7 70h8.4l1.8-30c.6-10.5 1.1-22.2 1.3-31h.2c1.9 8.3 4.6 17.3 7.9 27.2l11 33.3h6.7l12-34c3.4-9.6 6.3-18.4 8.6-26.6h.3c-.1 8.7.5 20.5 1 30.2l1.7 30.7h8.6l-4.2-70h-11.3zm76.8 0l-12.1 33.9c-3 8.8-5.4 16.5-7.2 23.6h-.3c-1.7-7.3-4-15-6.9-23.6L224.6 2.4h-11.2l-4.7 70h8.4l1.8-30c.6-10.5 1.1-22.2 1.3-31h.2c1.9 8.3 4.6 17.3 7.9 27.2l11 33.3h6.7l12-34c3.4-9.6 6.3-18.4 8.6-26.6h.3c-.1 8.7.5 20.5 1 30.2l1.7 30.7h8.6l-4.2-70h-11.3zm295 7.4v-.1c1-.3 1.7-1 1.7-2 0-.8-.4-1.4-.8-1.8-.6-.4-1.3-.7-2.9-.7-1.4 0-2.4.2-3.2.3V14h1.9v-3.4h.9c1.1 0 1.6.4 1.7 1.3.2 1 .4 1.7.7 2h2.1c-.2-.3-.4-.8-.6-2.1-.2-1.1-.7-1.8-1.5-2zm-2.3-.6h-.9V6.7c.2-.1.6-.1 1.1-.1 1.2 0 1.8.5 1.8 1.3 0 .9-.9 1.3-2 1.3zm.5-8.2c-4.8 0-8.6 3.8-8.6 8.5 0 4.8 3.8 8.6 8.5 8.6 4.8 0 8.5-3.7 8.5-8.6 0-4.7-3.7-8.5-8.4-8.5zm0 15.3c-3.7 0-6.5-3-6.5-6.8 0-3.7 2.7-6.8 6.4-6.8s6.4 3.1 6.4 6.8c0 3.8-2.7 6.9-6.3 6.8z"></path><path fill-rule="evenodd" clip-rule="evenodd" fill="#00AEEF" d="M440.9 6.8c-13.1-8.5-32.2-.3-33.1 15.3 1.4 7.1 7.7 11.4 18.5 13.6 10.1 2 12.1 8.8 11.2 14.1.3 3.5-.8 6.8-2.4 8.6-5.7 6.7-14.8 7.7-21.8 5.3-13.4-3.5-23.3-16.3-21.7-32.3 0-1.8.1-3.7.4-5.6C394.8 8.6 408.8.1 423.3.1c-1.3-.1-2.7-.2-4-.2C398.7 0 382 16.7 382 37.4c0 20.6 16.7 37.4 37.3 37.4 20.6 0 37.4-16.7 37.4-37.4 0-12.7-6.2-23.8-15.8-30.6z"></path></svg>
+				</a>
+			</div>
+			<!-- MOBILE SEARCH BUTTON -->
+			<button type="button" id="cmsc-search-trigger" title="search" class="cmsc-trigger cmsc-btn-link" data-show="#cmsc-header">
+					<svg version="1.1" class="cmsc-btn-label" id="cmsc-search" xmlns="//www.w3.org/2000/svg" xmlns:xlink="//www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 9.7 9.5" enable-background="new 0 0 9.7 9.5" xml:space="preserve">
+						<title>Search</title>
+						<path id="search" d="M9.5,8.8L8.8,9.5L6.4,7C5.7,7.6,4.9,7.9,4,7.9c-0.5,0-1-0.1-1.5-0.3S1.7,7.1,1.3,6.7
+							C0.9,6.4,0.7,6,0.5,5.5S0.2,4.5,0.2,4s0.1-1,0.3-1.5s0.5-0.9,0.8-1.2C1.7,1,2.1,0.7,2.5,0.5s1-0.3,1.5-0.3c0.5,0,1,0.1,1.5,0.3
+							S6.4,1,6.7,1.3c0.4,0.4,0.6,0.8,0.8,1.2s0.3,1,0.3,1.5c0,0.9-0.3,1.7-0.8,2.4L9.5,8.8z M2,6.1C2.5,6.6,3.2,6.9,4,6.9
+							s1.5-0.3,2.1-0.8c0.6-0.6,0.8-1.2,0.8-2c0-0.8-0.3-1.5-0.8-2.1C5.5,1.4,4.8,1.1,4,1.1C3.2,1.1,2.5,1.4,2,2C1.4,2.5,1.1,3.2,1.1,4
+							S1.4,5.5,2,6.1z"></path>
+					</svg>
+			</button>
+		</div>
+
+		<!-- Main navigation bar -->
+		<nav id="navigation" class="wrapper">
+			<div class="navbar navbar-static-top">
+				<div class="container">
+					
+						<!--main navigation-->
+						<ul id="main-menu" class="nav nav-tabs">
+							<!--<li class="cmsc-login-link-wrap visible-phone hidden-desktop">
+								<a href="/membership/default.aspx" class="cmsc-login-link">Login</a>
+							</li>-->
+							<li class="dropdown">
+								<a id="solutions-drop" class="dropdown-toggle top-level" href="#" data-toggle="dropdown">
+									Solutions
+									<b></b>
+								</a>
+								<!-- Dropdown Menu -->
+								<div class="dropdown-menu mega-menu" role="menu" aria-labelledby="solutions-drop">
+									<ul class="dropdown-body">
+										<li class="mega-menu-wrapper row-fluid" role="menuitem">
+											<ul class="span4 cmsc-submenu-column" role="menu">
+												<li class="menu-title" role="menutitle">
+													<a href="/Solutions/Broadband-Solutions/">Broadband</a></li>
+												<li role="menuitem" class="cmsc-subnav-item">
+													<a href="/Solutions/Broadband-Solutions/CATV-Headend/">CATV Headend</a></li>
+												<li role="menuitem" class="cmsc-subnav-item">
+													<a href="/Solutions/Broadband-Solutions/Outside-Plant/">Outside Plant</a></li>
+												<li role="menuitem" class="cmsc-subnav-item">
+													<a href="/Solutions/Broadband-Solutions/Residential-Solutions/">Residential</a></li>
+											</ul>
+											<ul class="span4 cmsc-submenu-column" role="menu">
+												<li class="menu-title" role="menutitle">
+													<a href="/Solutions/Enterprise-Solutions/">Enterprise</a></li>
+
+												<li role="menuitem" class="cmsc-subnav-item">
+													<a href="/Solutions/Data-Center-Solutions/">Data Center</a></li>
+												<li role="menuitem" class="cmsc-subnav-item">
+													<a href="/Solutions/Intelligent-Building-Solutions/">Intelligent Building</a></li>				
+                                                    </ul>
+                                                    
+											<ul class="span4 cmsc-submenu-column" role="menu">
+												<li class="menu-title" role="menutitle">
+													<a href="/Solutions/Wireless-Solutions/">Wireless</a></li>
+												<li role="menuitem" class="cmsc-subnav-item">
+													<a href="/Solutions/Wireless-Solutions/Backhaul-Solutions/">Backhaul</a></li>
+												<li role="menuitem" class="cmsc-subnav-item">
+													<a href="/Solutions/Wireless-Solutions/Indoor-Coverage-and-Capacity-Solutions/">Indoor Coverage and Capacity Sites </a></li>
+												<li role="menuitem" class="cmsc-subnav-item">
+													<a href="/Solutions/Wireless-Solutions/Outdoor-Sites/">Outdoor Sites</a></li>
+											</ul>
+										</li>
+									</ul>
+								</div>
+							</li>
+                            
+							<li class="dropdown">
+								<a id="industries-drop" class="dropdown-toggle top-level" href="#" data-toggle="dropdown">Industries</a>
+								<!-- Dropdown Menu -->
+								<div class="dropdown-menu mega-menu" role="menu" aria-labelledby="industries-drop">
+									<ul class="dropdown-body">
+										<li class="mega-menu-wrapper row-fluid" role="menuitem">
+											<ul class="span4 cmsc-submenu-column" role="menu">
+												<li class="menu-title" role="menutitle">
+													<a href="/Industries/Education/">Education</a></li>
+												<li class="menu-title" role="menutitle">
+													<a href="/Industries/Energy-Solutions/">Energy</a></li>
+												<li role="menuitem" class="cmsc-subnav-item">
+													<a href="/Industries/Energy-Solutions/Electrical-Utility-Solutions/">Electric Utilities</a></li>
+												<li role="menuitem" class="cmsc-subnav-item">
+													<a href="/Industries/Energy-Solutions/Mobile-Operators/">Mobile Operators</a></li>
+												<li role="menuitem" class="cmsc-subnav-item">
+													<a href="/Industries/Energy-Solutions/Oil,-Gas-and-Petroleum-Solutions/">Oil, Petroleum and Gas</a></li>
+												<li role="menuitem" class="cmsc-subnav-item">
+													<a href="/Industries/Energy-Solutions/Wind-Farm-Solutions/">Wind Farms</a></li>
+												<li class="menu-title" role="menutitle">
+													<a href="/Industries/Finance/">Finance</a></li>				</ul>
+											<ul class="span4 cmsc-submenu-column" role="menu">
+												<li class="menu-title" role="menutitle">
+													<a href="/Industries/Government-Solutions/">Government</a></li>
+												<li class="menuitem cmsc-subnav-item">
+													<a href="/Industries/Government-Solutions/U-S--Federal-Government-Solutions/">US Federal Government</a></li>
+												<li class="menu-title" role="menutitle">
+													<a href="/Industries/Healthcare-Solutions/">Healthcare</a></li>
+												<li class="menu-title" role="menutitle">
+													<a href="/Industries/Sports-and-Entertainment-Solutions/">Sports and Entertainment</a></li>
+												<li role="menuitem" class="cmsc-subnav-item">
+													<a href="/Industries/Sports-and-Entertainment-Solutions/Sports-and-Entertainment-%E2%80%94-Enterprise-Solutions/">Enterprise Solutions</a></li>
+												<li role="menuitem" class="cmsc-subnav-item">
+													<a href="/Industries/Sports-and-Entertainment-Solutions/Sports-and-Entertainment-%E2%80%94-Wireless-Solutions/">Wireless Solutions</a></li>				</ul>
+											<ul class="span4 cmsc-submenu-column" role="menu">
+												<li class="menu-title" role="menutitle">
+													<a href="/Industries/Telecommunications/">Telecommunications</a></li>
+												<li role="menuitem" class="cmsc-subnav-item">
+													<a href="/Industries/Telecommunications/Mobile-Operator-Solutions/">Mobile Operators</a></li>
+												<li role="menuitem" class="cmsc-subnav-item">
+													<a href="/Industries/Telecommunications/Multi-Tenant-Data-Center-Solutions/">Multi-Tenant Data Centers</a></li>
+												<li role="menuitem" class="cmsc-subnav-item">
+													<a href="/Industries/Telecommunications/Wireline-Operator-Solutions/">Wireline Operators</a></li>
+												<li role="menutitle">
+													<a href="/Industries/Transportation-Solutions/" class="cmsc-noarrow">Transportation</a></li>
+												<li role="menuitem" class="cmsc-subnav-item">
+													<a href="/Industries/Transportation-Solutions/Airport-Solutions/">Airports</a></li>
+												<ul class="cmsc-subsubnav-list">
+													<li role="menuitem">
+													<a href="/Industries/Transportation-Solutions/Airport-Solutions/Airports-%E2%80%94-Enterprise-Solutions/">Enterprise Solutions</a></li>
+												<li role="menuitem">
+													<a href="/Industries/Transportation-Solutions/Airport-Solutions/Airports-%E2%80%94-Wireless-Solutions/">Wireless Solutions</a></li>
+													</ul>
+												<li role="menuitem" class="cmsc-subnav-item">
+													<a href="/Industries/Transportation-Solutions/Railway-Solutions/">Railways</a></li>
+											</ul>
+										</li>
+									</ul>
+								</div>
+							</li>
+							<li class="dropdown">
+								<a id="eCatalog-drop" class="dropdown-toggle top-level" href="#" data-toggle="dropdown">Products</a>
+								<!-- Dropdown Menu -->
+								<div class="dropdown-menu" role="menu" aria-labelledby="eCatalog-drop">
+									<ul class="dropdown-body row-fluid">
+										<li role="menutitle" class="span4">
+											<a class="menu-item" href="/Product-Catalog/Broadband">Broadband</a></li>
+										<li role="menutitle" class="span4">
+											<a class="menu-item" href="/Product-Catalog/Enterprise">Enterprise</a></li>
+										<li role="menutitle" class="span4">
+											<a class="menu-item" href="/Product-Catalog/Wireless">Wireless</a></li>
+									</ul>
+								</div>
+							</li>
+							<li class="dropdown">
+								<a id="blog-drop" class="dropdown-toggle top-level" href="#" data-toggle="dropdown">Partners</a>
+								<!-- Dropdown Menu -->
+								<div class="dropdown-menu" role="menu" aria-labelledby="blog-drop">
+									<ul class="dropdown-body">
+										<li role="menutitle" class="menu-title">
+											<a class="menu-item" href="/Partners/PartnerPRO-Network/">PartnerPRO™ Network</a></li>
+										<li role="menuitem" class="cmsc-subnav-item">
+											<a class="menu-item" href="/Partners/PartnerPRO%E2%84%A2-Network/For-Our-Customers/Networks-can-complicate-your-business/">For Our Customers</a></li>
+										<li role="menuitem" class="cmsc-subnav-item">
+											<a class="menu-item" href="/Partners/PartnerPRO%E2%84%A2-Network/For-Our-Partners/Your-customers-count-on-you/">For Our Partners</a></li>
+										<li role="menutitle" class="menu-title">
+											<a class="menu-item" href="/Partners/Partner-Locator/">Partner Locator</a></li>					 
+									</ul>
+								</div>
+							</li>
+							<li><a class="top-level" href="/Resources/">Resources</a></li>
+							<li><a class="top-level" href="/ThinkingAhead/">Thinking Ahead</a></li>
+							<li>
+								<div class="search cmsc-search-wrap hidden-phone hidden-tablet visible-desktop">
+									<p> 
+										<label class="cmsc-access" for="txtSearch2">Search</label>
+										<span role="status" aria-live="polite" class="ui-helper-hidden-accessible"></span><input type="search" class="ui-autocomplete-input search-header" name="txtSearch2" id="txtSearch2" value="" placeholder="Search" autocomplete="off">
+										<button type="submit" class="cmsc-trigger cmsc-btn-link" name="btnSearch" id="btnSearch" onclick="javascript:SubmitSearch2()" value="Go"><b>Go</b>
+											<svg version="1.1" class="cmsc-btn-label" xmlns="//www.w3.org/2000/svg" xmlns:xlink="//www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 9.7 9.5" enable-background="new 0 0 9.7 9.5" xml:space="preserve" height="14">
+												<title>Go</title>
+												<path id="search" d="M9.5,8.8L8.8,9.5L6.4,7C5.7,7.6,4.9,7.9,4,7.9c-0.5,0-1-0.1-1.5-0.3S1.7,7.1,1.3,6.7C0.9,6.4,0.7,6,0.5,5.5S0.2,4.5,0.2,4s0.1-1,0.3-1.5s0.5-0.9,0.8-1.2C1.7,1,2.1,0.7,2.5,0.5s1-0.3,1.5-0.3c0.5,0,1,0.1,1.5,0.3S6.4,1,6.7,1.3c0.4,0.4,0.6,0.8,0.8,1.2s0.3,1,0.3,1.5c0,0.9-0.3,1.7-0.8,2.4L9.5,8.8z M2,6.1C2.5,6.6,3.2,6.9,4,6.9s1.5-0.3,2.1-0.8c0.6-0.6,0.8-1.2,0.8-2c0-0.8-0.3-1.5-0.8-2.1C5.5,1.4,4.8,1.1,4,1.1C3.2,1.1,2.5,1.4,2,2C1.4,2.5,1.1,3.2,1.1,4S1.4,5.5,2,6.1z"></path>
+											</svg>
+										</button>
+									</p>
+								</div>
+
+                                <script type="text/javascript">
+                                    function SubmitSearch2() {
+                                        var Searchtxt = document.getElementById("txtSearch2").value;                                     window.location = "/SiteSearch/?q=" + encodeURIComponent(Searchtxt);                                 }
+
+                                    $("#txtSearch2").keyup(function (event) {
+                                        if (event.keyCode == 13) {
+                                            SubmitSearch2();                                     }
+                                    });                             </script>
+
+							</li>
+						</ul>
+					
+				</div><!--/.container -->
+			</div>
+		</nav>
+		<!--/.navigation -->
+	</header>
+ 
+	<!-- ~~~ mobile only navigation ~~~ -->
+	<nav id="mobile-navigation">
+		<ul>
+			<li>
+				<a id="solutions-drop" class="accordion-toggle collapsed" data-toggle="collapse" href="#solutions-submenu">
+					Solutions
+					<b class="cmsc-open-indicator"><svg version="1.1" class="rightchevron" xmlns="//www.w3.org/2000/svg" xmlns:xlink="//www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 6.5 9.4" enable-background="new 0 0 6.5 9.4" xml:space="preserve"><path d="M1.7,9.4L1,8.7l3.5-3.5L1,1.6L1.7,1l4.2,4.2L1.7,9.4z" stroke="#00aeef"></path></svg></b>		 
+				</a>
+
+				<!-- Dropdown Menu -->
+				<ul class="collapse" role="menu" aria-labelledby="solutions-drop" id="solutions-submenu">
+					<li role="menuitem">
+						<a data-toggle="collapse" href="#cmsc-broadband-submenu" class="collapsed">Broadband
+							<b class="cmsc-open-indicator"><svg version="1.1" class="rightchevron" xmlns="//www.w3.org/2000/svg" xmlns:xlink="//www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 6.5 9.4" enable-background="new 0 0 6.5 9.4" xml:space="preserve"><path d="M1.7,9.4L1,8.7l3.5-3.5L1,1.6L1.7,1l4.2,4.2L1.7,9.4z" stroke="#00aeef"></path></svg></b>
+						</a>
+						<ul class="collapse cmsc-submenu" role="menu" id="cmsc-broadband-submenu">
+							<li role="menuitem" class="cmsc-subnav-item">
+								<a href="/Solutions/Broadband-Solutions/CATV-Headend/">CATV Headend</a></li>
+							<li role="menuitem" class="cmsc-subnav-item">
+								<a href="/Solutions/Broadband-Solutions/Outside-Plant/">Outside Plant</a></li>
+							<li role="menuitem" class="cmsc-subnav-item">
+								<a href="/Solutions/Broadband-Solutions/Residential-Solutions/">Residential</a></li>
+						</ul>
+					</li>
+					<li class="menu-title" role="menutitle">
+						<a data-toggle="collapse" href="#cmsc-enterprise-submenu" class="collapsed">Enterprise
+							<b class="cmsc-open-indicator"><svg version="1.1" class="rightchevron" xmlns="//www.w3.org/2000/svg" xmlns:xlink="//www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 6.5 9.4" enable-background="new 0 0 6.5 9.4" xml:space="preserve"><path d="M1.7,9.4L1,8.7l3.5-3.5L1,1.6L1.7,1l4.2,4.2L1.7,9.4z" stroke="#00aeef"></path></svg></b>
+						</a>
+						<ul class="collapse cmsc-submenu" role="menu" id="cmsc-enterprise-submenu">
+							<li role="menuitem" class="cmsc-subnav-item">
+								<a href="/Solutions/Data-Center-Solutions/">Data Center</a></li>
+							<li role="menuitem" class="cmsc-subnav-item">
+								<a href="/Solutions/Intelligent-Building-Solutions/">Intelligent Building</a></li>				
+						</ul>
+					</li>
+					<li class="menu-title" role="menutitle">
+						<a data-toggle="collapse" href="#cmsc-wireless-submenu" class="collapsed">Wireless
+							<b class="cmsc-open-indicator"><svg version="1.1" class="rightchevron" xmlns="//www.w3.org/2000/svg" xmlns:xlink="//www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 6.5 9.4" enable-background="new 0 0 6.5 9.4" xml:space="preserve"><path d="M1.7,9.4L1,8.7l3.5-3.5L1,1.6L1.7,1l4.2,4.2L1.7,9.4z" stroke="#00aeef"></path></svg></b>
+						</a>
+						<ul class="collapse cmsc-submenu" role="menu" id="cmsc-wireless-submenu">
+							<li role="menuitem" class="cmsc-subnav-item">
+								<a href="/Solutions/Wireless-Solutions/Backhaul-Solutions/">Backhaul</a></li>
+							<li role="menuitem" class="cmsc-subnav-item">
+								<a href="/Solutions/Wireless-Solutions/Indoor-Coverage-and-Capacity-Solutions/">Indoor Coverage and Capacity Sites </a></li>
+							<li role="menuitem" class="cmsc-subnav-item">
+								<a href="/Solutions/Wireless-Solutions/Outdoor-Sites/">Outdoor Sites</a></li>				
+						</ul>		
+					</li>		
+				</ul>
+			</li>
+			<li>
+				<a id="industries-drop" class="accordion-toggle collapsed" href="#industries-submenu" data-toggle="collapse">Industries  
+					<b class="cmsc-open-indicator"><svg version="1.1" class="rightchevron" xmlns="//www.w3.org/2000/svg" xmlns:xlink="//www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 6.5 9.4" enable-background="new 0 0 6.5 9.4" xml:space="preserve"><path d="M1.7,9.4L1,8.7l3.5-3.5L1,1.6L1.7,1l4.2,4.2L1.7,9.4z" stroke="#00aeef"></path></svg></b>		 
+				</a>
+
+				<!-- Dropdown Menu -->
+				<ul class="collapse cmsc-submenu" role="menu" id="industries-submenu">
+					<li class="menu-title" role="menutitle">
+						<a href="/Industries/Education/">Education</a>
+					</li>
+
+					<li class="menu-title" role="menutitle">
+						<a data-toggle="collapse" href="#cmsc-energy-submenu" class="collapsed">Energy
+							<b class="cmsc-open-indicator"><svg version="1.1" class="rightchevron" xmlns="//www.w3.org/2000/svg" xmlns:xlink="//www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 6.5 9.4" enable-background="new 0 0 6.5 9.4" xml:space="preserve"><path d="M1.7,9.4L1,8.7l3.5-3.5L1,1.6L1.7,1l4.2,4.2L1.7,9.4z" stroke="#00aeef"></path></svg></b>
+						</a>
+						<ul class="collapse cmsc-submenu" role="menu" id="cmsc-energy-submenu">
+							<li role="menuitem" class="cmsc-subnav-item">
+								<a href="/Industries/Energy-Solutions/Electrical-Utility-Solutions/">Electric Utilities</a>
+							</li>
+							<li role="menuitem" class="cmsc-subnav-item">
+								<a href="/Industries/Energy-Solutions/Mobile-Operators/">Mobile Operators</a>
+							</li>
+							<li role="menuitem" class="cmsc-subnav-item">
+								<a href="/Industries/Energy-Solutions/Oil,-Gas-and-Petroleum-Solutions/">Oil, Petroleum and Gas</a>
+							</li>
+							<li role="menuitem" class="cmsc-subnav-item">
+								<a href="/Industries/Energy-Solutions/Wind-Farm-Solutions/">Wind Farms</a>
+							</li>
+						</ul>
+					</li>
+
+					<li class="menu-title" role="menutitle">
+						 <a href="/Industries/Finance/">Finance</a>
+					</li>
+
+					<li class="menu-title" role="menutitle">
+						<a data-toggle="collapse" href="#cmsc-government-submenu" class="collapsed">Government
+							<b class="cmsc-open-indicator"><svg version="1.1" class="rightchevron" xmlns="//www.w3.org/2000/svg" xmlns:xlink="//www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 6.5 9.4" enable-background="new 0 0 6.5 9.4" xml:space="preserve"><path d="M1.7,9.4L1,8.7l3.5-3.5L1,1.6L1.7,1l4.2,4.2L1.7,9.4z" stroke="#00aeef"></path></svg></b>
+						</a>
+						<ul class="collapse cmsc-submenu" role="menu" id="cmsc-government-submenu">
+							<li class="menuitem cmsc-subnav-item">
+								<a href="/Industries/Government-Solutions/U-S--Federal-Government-Solutions/" class="cmsc-subnav-item">US Federal Government</a>
+							</li>
+						</ul>	
+					</li>	 
+					
+					<li class="menu-title" role="menutitle">
+						<a href="/Industries/Healthcare-Solutions/">Healthcare</a>
+					</li>
+					
+					<li class="menu-title" role="menutitle">
+						<a href="#cmsc-sportsent-submenu" data-toggle="collapse" class="collapsed">Sports and Entertainment
+							<b class="cmsc-open-indicator"><svg version="1.1" class="rightchevron" xmlns="//www.w3.org/2000/svg" xmlns:xlink="//www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 6.5 9.4" enable-background="new 0 0 6.5 9.4" xml:space="preserve"><path d="M1.7,9.4L1,8.7l3.5-3.5L1,1.6L1.7,1l4.2,4.2L1.7,9.4z" stroke="#00aeef"></path></svg></b>
+						</a>
+						<ul class="collapse cmsc-submenu" role="menu" id="cmsc-sportsent-submenu">
+							<li role="menuitem" class="cmsc-subnav-item">
+								<a href="/Industries/Sports-and-Entertainment-Solutions/Sports-and-Entertainment-%E2%80%94-Enterprise-Solutions/">Enterprise Solutions</a></li>
+							<li role="menuitem" class="cmsc-subnav-item">
+								<a href="/Industries/Sports-and-Entertainment-Solutions/Sports-and-Entertainment-%E2%80%94-Wireless-Solutions/">Wireless Solutions</a></li>  
+						</ul>
+					</li>
+
+					<li class="menu-title" role="menutitle">
+						<a data-toggle="collapse" href="#cmsc-telecomms-submenu" class="collapsed">Telecommunications
+							<b class="cmsc-open-indicator"><svg version="1.1" class="rightchevron" xmlns="//www.w3.org/2000/svg" xmlns:xlink="//www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 6.5 9.4" enable-background="new 0 0 6.5 9.4" xml:space="preserve"><path d="M1.7,9.4L1,8.7l3.5-3.5L1,1.6L1.7,1l4.2,4.2L1.7,9.4z" stroke="#00aeef"></path></svg></b>
+						</a>
+						<ul class="collapse cmsc-submenu" role="menu" id="cmsc-telecomms-submenu">
+							<li role="menuitem" class="cmsc-subnav-item">
+								<a href="/Industries/Telecommunications/Mobile-Operator-Solutions/">Mobile Operators</a></li>
+							<li role="menuitem" class="cmsc-subnav-item">
+								<a href="/Industries/Telecommunications/Multi-Tenant-Data-Center-Solutions/">Multi-Tenant Data Centers</a></li>
+							<li role="menuitem" class="cmsc-subnav-item">
+								<a href="/Industries/Telecommunications/Wireline-Operator-Solutions/">Wireline Operators</a>
+							</li>
+						</ul>
+					</li> 
+					
+					<li role="menutitle">
+						<a href="#cmsc-transpo-submenu" data-toggle="collapse" class="collapsed">Transportation
+							<b class="cmsc-open-indicator"><svg version="1.1" class="rightchevron" xmlns="//www.w3.org/2000/svg" xmlns:xlink="//www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 6.5 9.4" enable-background="new 0 0 6.5 9.4" xml:space="preserve"><path d="M1.7,9.4L1,8.7l3.5-3.5L1,1.6L1.7,1l4.2,4.2L1.7,9.4z" stroke="#00aeef"></path></svg></b>
+						</a>
+						<ul class="collapse cmsc-submenu" role="menu" id="cmsc-transpo-submenu">
+							<li role="menuitem" class="cmsc-subnav-item" href="#cmsc-transpo-submenu">
+								<a class="cmsc-subsubmenu-trigger collapsed" href="#cmsc-transpo-subsubmenu" data-toggle="collapse">Airports
+									<b class="cmsc-open-indicator"><svg version="1.1" class="rightchevron" xmlns="//www.w3.org/2000/svg" xmlns:xlink="//www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 6.5 9.4" enable-background="new 0 0 6.5 9.4" xml:space="preserve"><path d="M1.7,9.4L1,8.7l3.5-3.5L1,1.6L1.7,1l4.2,4.2L1.7,9.4z" stroke="#00aeef"></path></svg></b>
+								</a>
+								<ul class="collapse cmsc-subsubmenu" id="cmsc-transpo-subsubmenu">
+									<li role="menuitem">
+										<a href="/Industries/Transportation-Solutions/Airport-Solutions/Airports-%E2%80%94-Enterprise-Solutions/">Enterprise Solutions</a></li>
+									<li role="menuitem">
+										<a href="/Industries/Transportation-Solutions/Airport-Solutions/Airports-%E2%80%94-Wireless-Solutions/">Wireless Solutions</a></li>
+								</ul>
+							</li>
+							<li role="menuitem" class="cmsc-subnav-item">
+								<a href="/Industries/Transportation-Solutions/Railway-Solutions/">Railways</a>
+							</li>				
+						</ul>			
+					</li>		
+				</ul>
+			</li>
+			<li>
+				<a href="#cmsc-products-submenu" data-toggle="collapse" class="accordion-toggle collapsed">Products
+					<b class="cmsc-open-indicator"><svg version="1.1" class="rightchevron" xmlns="//www.w3.org/2000/svg" xmlns:xlink="//www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 6.5 9.4" enable-background="new 0 0 6.5 9.4" xml:space="preserve"><path d="M1.7,9.4L1,8.7l3.5-3.5L1,1.6L1.7,1l4.2,4.2L1.7,9.4z" stroke="#00aeef"></path></svg></b>
+				</a>
+
+				<!-- Dropdown Menu -->
+				<ul class="collapse cmsc-submenu" role="menu" id="cmsc-products-submenu">
+					<li role="menutitle">
+						<a class="menu-item" href="/Product-Catalog/Broadband">Broadband</a></li>
+					<li role="menutitle">
+						<a class="menu-item" href="/Product-Catalog/Enterprise">Enterprise</a></li>
+					<li role="menutitle">
+						<a class="menu-item" href="/Product-Catalog/Wireless">Wireless</a></li>
+				</ul>
+			</li>
+			<li>
+				<a href="#cmsc-partners-submenu" data-toggle="collapse" class="accordion-toggle collapsed">Partners 
+					<b class="cmsc-open-indicator"><svg version="1.1" class="rightchevron" xmlns="//www.w3.org/2000/svg" xmlns:xlink="//www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 6.5 9.4" enable-background="new 0 0 6.5 9.4" xml:space="preserve"><path d="M1.7,9.4L1,8.7l3.5-3.5L1,1.6L1.7,1l4.2,4.2L1.7,9.4z" stroke="#00aeef"></path></svg></b>		 
+				</a>
+
+				<!-- Dropdown Menu -->
+				<ul class="collapse cmsc-submenu" role="menu" id="cmsc-partners-submenu">
+					<li role="menutitle" class="menu-title">
+						<a class="menu-item" href="#cmsc-partners-subsubmenu" data-toggle="collapse">PartnerPRO™ Network</a>			
+						
+						<ul class="collapse cmsc-submenu" role="menu" id="cmsc-partners-subsubmenu">
+							<li role="menuitem" class="cmsc-subnav-item">
+								<a class="menu-item" href="/Partners/PartnerPRO%E2%84%A2-Network/For-Our-Customers/Networks-can-complicate-your-business/">For Our Customers</a></li>
+							<li role="menuitem" class="cmsc-subnav-item">
+								<a class="menu-item" href="/Partners/PartnerPRO%E2%84%A2-Network/For-Our-Partners/Your-customers-count-on-you/">For Our Partners</a></li>
+						</ul>
+					</li>
+					<li role="menutitle" class="menu-title">
+						<a class="menu-item" href="/Partners/Partner-Locator/">Partner Locator</a>
+					</li>					 
+				</ul>
+			</li>
+			<li><a class="accordion-toggle" href="/Resources/">Resources</a></li>
+			<li><a class="accordion-toggle" href="/ThinkingAhead/">Thinking Ahead</a></li>
+            
+            
+            <li style="border-top: 1px solid #222;border-bottom: 1px solid #222;">
+				<a href="#cmsc-MyCommScope-submenu" data-toggle="collapse" class="accordion-toggle collapsed"><!--MyCommScope-->
+                
+                  		</a><a href="/membership/default.aspx" class="login accordion-toggle collapsed">Login</a>
+                  		  
+			</li>
+            
+            <li>
+            <!--<a class="accordion-toggle" href="/Resources/">Resources</a>-->
+            <!--mp_global_switch_begins-->
+                <a mporgnav="" class="user-localecmsc-trigger accordion-toggle" href="#" onclick="return chooser();             function chooser(){
+                MP.SrcUrl=unescape('mp_js_orgin_url');MP.UrlLang='mp_js_current_lang';             MP.oSite=decodeURIComponent('mp_js_origin_baseUrl');             MP.tSite=decodeURIComponent('mp_js_translated_baseUrl');             MP.init();             var script=document.createElement('SCRIPT');             script.src='https://commscope.mpeasylink.com/mpel/mpel_chooser.js';             document.body.appendChild(script);             return false;             }" title="Language -Currency"> Choose Language</a>
+            <!--mp_global_switch_ends-->
+            </li>
+            
+		</ul>
+
+	</nav>
+<!-- ============================= SITE HEADER : END ================================== -->
+
+
+
+<!--=========================== BEGIN FULL SITE WRAP ===========================-->
+<div id="cmsc-content-wrapper">
+  
+<!--================================ END NEW HEADER ==================================-->    
+
+
+
+   <!-- Main navigation bar - deleted content in cms of mainnav file because it wouldn't validate in Ektron -->
+
+
 
 
 
     <!-- breadcrumbs -->
     
-
-<div id="breadcrumb-container">
-    <div class="container">
-        <div class="breadcrumb">
-            <span><a href="/">Home</a> <span class="divider">&gt; </span></span>
-            
-                    <span><a href="/About-Us/">About Us</a> <span class="divider">&gt; </span></span>
-                
-            <span>Privacy</span>
-        </div>
-    </div>
-</div>
-
-
-
+        <nav class="cmsc-breadcrumb">
+            <div class="container">
+                <ul class="breadcrumb">
+                    <li><a href="/" class="cmsc-breadcrumb-home">Home</a></li>
+                    
+                            <li><a href="/About-Us/">About Us</a></li>
+                        
+                    <li class="active">
+                        Privacy</li>
+                </ul>
+            </div>
+        </nav>
+    
 
     <form method="post" action="/About-Us/Privacy/" id="aspnetForm">
 <div class="aspNetHidden">
 <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJNDY1MTE1Mjc3ZGRxfd/B4+bM54wQdzRCOrNY/Se2UA==">
 </div>
 
-<!-- mp_trans_remove_start="ZS" --><script type="text/javascript">var addthis_config = {data_ga_property: 'UA-75011-26',data_ga_social: true};</script><!-- mp_trans_remove_end --><!-- mp_trans_remove_start="ZS" --><script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5245c88f7b909b6f"></script><script>var addthis_share = { url_transforms : { shorten: { twitter: 'bitly' } } , shorteners : { bitly: {} } , passthrough : { twitter: { via: "CommScope" } } }</script><!-- mp_trans_remove_end -->
+<script type="text/javascript">var addthis_config = {data_ga_property: 'UA-75011-26',data_ga_social: true};</script>
 <div class="aspNetHidden">
 
 	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="8A3D3DDC">
 </div>
-
         <div>
             
 
@@ -471,24 +744,7 @@ function TrackEventByFileExtension(FileExtension)
                 <!-- AddThis -->
                 <div class="addthis">
 
-
-<!-- mp_trans_remove_start="ZS" -->
-<!-- AddThis Button BEGIN -->
-
-    <div id="social">
-        <!-- AddThis Button BEGIN -->
-        <div class="addthis_toolbox addthis_default_style addthis_16x16_style" style="min-width: 140px;">
-            <a class="addthis_counter_linkedin"></a>
-            <a class="addthis_counter_twitter"></a>
-            <a class="addthis_counter_facebook"></a>
-            <a class="addthis_button_compact"></a>
-            
-            
-            <a class="addthis_button_facebook_like ie9-hide"></a>
-        </div>
-    <!-- AddThis Button END -->
-    </div>
-<!-- mp_trans_remove_end --></div>
+<!-- Not Used; Removed from template --></div>
 
                 <!-- headline -->
                 <h1 class="page-title">Privacy Statement</h1> 
@@ -519,14 +775,14 @@ function TrackEventByFileExtension(FileExtension)
     <div class="span2"><img alt="" src="/uploadedImages/CommScopecom/Solutions/icn-about_us.png"></div>
 
 <div class="span10 widget">
-    <h4>About Us</h4>  
+    <h3>About Us</h3>  
     <ul>
         <li><a href="/About-Us/Careers">Careers</a></li>
-        <li><a href="/About-Us/Corporate-Responsibility">Corporate Responsibility and Sustainability</a></li>
+        <li><a href="/About-Us/Corporate-Responsibility-and-Sustainability">Corporate Responsibility and Sustainability</a></li>
         <li><a href="/About-Us/Who-We-Are/Timeline/">Timeline</a></li>
         <li><a href="/About-Us/Investor-Relations">Investor Relations</a></li>
         <li><a href="/About-Us/Management-Team">Management Team</a></li>
-        <li><a href="/About-Us/Corporate-Responsibility-and-Sustainability/Supply-Chain/">Supply Chain</a></li>
+        <li><a href="/About-Us/Corporate-Responsibility-and-Sustainability/Supplier-Responsibility">Supplier Responsibility</a></li>
     </ul>
 
     </div><!-- /span10 -->
@@ -541,10 +797,10 @@ function TrackEventByFileExtension(FileExtension)
     <div class="span10">
         <h3><a href="/NewsCenter/PressReleases">Press Release</a></h3>
         <div class="date x-small">
-            June 08, 2015
+            December 09, 2015
         </div>
         <div class="small">
-            <a id="ctl00_phBody_LatestPressRelease_lnkPressRelease" href="/NewsCenter/PressReleases/CommScope-Positions-Global-Partner-Program-to-Better-Service-Customers-and-Partners/"> CommScope Positions Global Partner Program to Better Service Customers and Partners </a>
+            <a id="ctl00_phBody_LatestPressRelease_lnkPressRelease" href="/NewsCenter/PressReleases/CommScope-Extends-Next-Generation-Fiber-Frame-Portfolio/">CommScope Extends Next Generation Fiber Frame Portfolio</a>
         </div>
     </div><!-- /span10 -->
 </div><!-- / row-fluid --> 
@@ -556,8 +812,8 @@ function TrackEventByFileExtension(FileExtension)
 
     <div class="span10">
         <h3><a href="/Blog">CommScope Blog</a></h3>
-        <div class="date x-small">Jun 5, 2015</div>
-        <div class="small"><a id="ctl00_phBody_LatestBlog_lnkBlog" href="/Blog/CommScope-Definitions-What-is-a-Prefabricated-Modular-Data-Center/">CommScope Definitions: What is a Prefabricated Modular Data Center?</a></div>
+        <div class="date x-small">Dec 9, 2015</div>
+        <div class="small"><a id="ctl00_phBody_LatestBlog_lnkBlog" href="/Blog/The-Future-of-Microwave-Backhaul/">The Future of Microwave Backhaul</a></div>
 
     </div><!-- /span10 -->
 </div><!-- / row-fluid --> 
@@ -583,7 +839,7 @@ function TrackEventByFileExtension(FileExtension)
 
                     <div class="divider-line"></div>
                     
-	<!-- mp_trans_remove_start -->
+	<!-- mp_trans_remove_start="ZS" -->
     <!--<div class="blue-top-line">&nbsp;</div>-->
     <div class="row-fluid small">
         <div class="span2">
@@ -592,8 +848,8 @@ function TrackEventByFileExtension(FileExtension)
         </div>
 
         <div class="span10">
-            <h4>Related Video</h4>
-            <div class="fluid-width-video-wrapper" style="padding-top: 56.5%;"><iframe src="https://www.youtube.com/embed/jiJVbfB8VeI" frameborder="0" allowfullscreen="" id="fitvid356774"></iframe></div><a id="ctl00_phBody_FeaturedVideoEmbed_lnkVideo" href="https://www.youtube.com/watch?v=jiJVbfB8VeI">Wired and wireless networks run on CommScope</a>
+            <h3>Related Video</h3>
+            <iframe width="200" height="113" src="https://www.youtube.com/embed/3c1XKMzn1R0" frameborder="0" allowfullscreen=""></iframe><a id="ctl00_phBody_FeaturedVideoEmbed_lnkVideo" href="https://www.youtube.com/watch?v=3c1XKMzn1R0">Fiber Optic Cable Trends from Daniel Daems</a>
         </div>
         <!-- /span10 -->
 
@@ -614,116 +870,324 @@ function TrackEventByFileExtension(FileExtension)
     <!-- /content -->
 
         </div>
-
-    </form>
+    
+<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=xa-4c8a874a303dd4dc"></script></form>
 
     <!-- FOOTER -->
-    <div id="footer">         
-    <div class="container">                 
-        <a href="#top" class="scrolltop">Top</a>                 
-        <div class="row-fluid">                         
-            <div class="span3 col">                                 
-                <div class="block">                                         
-                    <h2><a href="/About-Us/Who-We-Are/">About Us</a></h2>                                         
-                    <div class="margin-left-half">                                                 
-                        <p>                            
-                            <a href="/About-Us/Careers/">Careers</a>                        </p>                                                 
-                        <p>                            
-                            <a href="/About-Us/Corporate-Responsibility/">Corporate Responsibility</a>                        </p>                                                 
-                        <p>                            
-                            <a href="/About-Us/Who-We-Are/Timeline/">Timeline</a>                        </p>                                                 
-                        <p>                            
-                            <a href="http://ir.commscope.com">Investor Relations</a>                        </p>                                                 
-                        <p>                            
-                            <a href="/About-Us/Management-Team/">Management Team</a>                        </p>                                                 
-                        <p>                            
-                            <a href="/About-Us/Corporate-Responsibility-and-Sustainability/Supply-Chain/">Supply Chain</a>                        </p>                    </div>                </div>            </div>                         
-            <div class="span3 col">                                 
-                <div class="block">                                         
-                    <h2><a href="/NewsCenter">News Center</a></h2>                                         
-                    <div class="margin-left-half">                                                 
-                        <p>                            
-                            <a href="/Blog/">Blog</a>                        </p>                                                 
-                        <p>                            
-                            <a href="/NewsCenter/Events/">Events</a>                        </p>                                                 
-                        <p>                            
-                            <a href="/NewsCenter/Infographics/">Infographics</a>                        </p>                                                 
-                        <p>                            
-                            <a href="/NewsCenter/NewsItems/">In the News</a>                        </p>                                                 
-                        <p>                            
-                            <a href="/NewsCenter/MediaContacts/">Media Contacts</a>                        </p>                                                 
-                        <p>                            
-                            <a href="/NewsCenter/PressKit/">Press Kit</a>                        </p>                                                 
-                        <p>                            
-                            <a href="/NewsCenter/PressReleases/">Press Releases</a>                        </p>                    </div>                </div>            </div>                         
-            <div class="span3 col f-clear">                                 
-                <div class="block">                                         
-                    <h2><a href="/Support/">Support</a></h2>                                         
-                    <div class="margin-left-half">                                                 
-                        <p>                            
-                            <a href="/Support/">Customer Support</a>                        </p>                                                 
-                        <p>                            
-                            <a href="/Partners/Partner-Locator/">Partner Locator </a>                        </p>                                                 
-                        <p>                            
-                            <a href="/locator/SalesWizard.aspx">Sales Locator</a>                        </p>                                                 
-                        <p>                            
-                            <a href="/Support/Services/">Services</a>                        </p>                                                 
-                        <p>                            
-                            <a href="/Support/Technical-Support/">Technical Support</a>                        </p>                                                 
-                        <p>                            
-                            <a href="/Support/Training/">Training</a>                        </p>                                                  
-                        <!-- mp_trans_add="ZS"                         <p><a href="/Support/China/">康普在中国</a></p>
-                        -->                    </div>                </div>            </div>                         
-            <div class="span3 col">                                 
-                <div class="block contact-block">                                         
-                    <h2><a href="/Support/">Contact Us</a></h2>                                         
-                    <div class="divider-line"></div>                                         
-                    <h2>Follow Us</h2>                                            
-                    <div>                                                 
-                        <a href="http://www.facebook.com/commscope">                            
-                            <img src="/theme/img/icons/icon-facebook.gif" alt="Follow us on Facebook">                        </a>                                                 
-                        <a href="http://www.flickr.com/photos/commscope">                            
-                            <img src="/theme/img/icons/icon-flickr.gif" alt="Follow us with Flickr">                        </a>                                                   
-                        <a href="http://instagram.com/commscope">                            
-                            <img src="/theme/img/icons/icon-instagram.gif" alt="Follow us on Instagram">                        </a>                                                   
-                        <a href="http://www.linkedin.com/company/commscope">                            
-                            <img src="/theme/img/icons/icon-linkedin.gif" alt="Follow us on LinkedIn">                        </a>                                                 
-                        <a href="http://www.commscope.com/Blog/RSS/">                            
-                            <img src="/theme/img/icons/icon-rss.gif" alt="Follow our RSS feed">                        </a>                                                   
-                        <a href="http://twitter.com/CommScope">                            
-                            <img src="/theme/img/icons/icon-twitter.gif" alt="Follow us on Twitter">                        </a>                                                   
-                        <a href="http://www.youtube.com/user/commscope">                            
-                            <img src="/theme/img/icons/icon-youtube.gif" alt="Follow us on YouTube">                        </a>                    </div>                                          
-                    <div class="margin-left-half margin-top">                                                 
-                        <div class="row-fluid">                                                         
-                            <div class="span6">                                                             
-                                <p>                                    
-                                    <a href="/Blog/">Blog</a>                                </p>                                                             
-                                <p>                                    
-                                    <a href="http://www.facebook.com/commscope">Facebook</a>                                </p>                                                             
-                                <p>                                    
-                                    <a href="http://www.flickr.com/photos/commscope">Flickr</a>                                </p>                                                             
-                                <p>                                    
-                                    <a href="http://instagram.com/commscope">Instagram</a>                                </p>                            </div>                                                         
-                            <div class="span6">                                                             
-                                <p>                                    
-                                    <a href="http://www.linkedin.com/company/commscope">LinkedIn</a>                                </p>                                                             
-                                <p>                                    
-                                    <a href="https://twitter.com/CommScope">Twitter</a>                                </p>                                                             
-                                <p>                                    
-                                    <a href="http://www.youtube.com/user/commscope">YouTube</a>                                </p>                            </div>                        </div>                        
-                        <!-- /row -->                    </div>            </div>                
-                <!-- /block -->        </div>            
-            <!-- /span3 -->        </div>        
-        <!-- /row-fluid -->    </div>    
-    <!-- /container -->
+    <!-- =========================== FOOTER =========================== --><footer id="cmsc-footer">
+<div class="container clearfix"><div class="cmsc-footer-block"><div class="cmsc-logo-wrap"><a href="/"><svg class="cmsc-logo" viewBox="0 0 564.3 74.7" enable-background="new 0 0 564.3 74.7">
+			  <title xmlns="http://www.w3.org/2000/svg">COMMSCOPE</title>
+			  <path fill="#231F20" d="M35.3 65.9c-15.2 0-26.8-13.1-26.8-28.5 0-15.5 11.7-28.7 27-28.7 6.4 0 13.1 2.4 18 6.9L57.8 9C51.8 2.8 43.9.7 36.3.7 16.2.7 0 16.9 0 37.7 0 58 16.1 74.5 35.6 73.9c6.8-.2 15.5-2.4 22.2-8.5l-4.3-6.7c-5.1 4.6-11.5 7.2-18.2 7.2zM91.5.7C71.9.7 55.7 17.2 55.7 37.3c0 20.9 16 36.6 35.8 36.6 19.7 0 35.8-15.7 35.8-36.6C127.3 17.2 111 .7 91.5.7zm0 65c-14.8 0-27.2-12.4-27.2-28.4 0-15.5 11.2-28.4 27.2-28.4s27.2 12.9 27.2 28.4c0 16-12.4 28.4-27.2 28.4zm217.3-34.8l-4.9-2c-4.3-1.7-9.5-4.6-9.5-10.1 0-6.1 6-10 11.4-10 6 0 9.7 4.1 9.9 8.7h7.8c-1.2-12.3-10-17-17.6-17-10.3 0-20.1 6.8-20.1 18.2 0 9.8 7.1 14.3 14.8 17.8l4.7 2c5.9 2.5 11.8 5.8 11.8 13.3 0 7.4-5.3 13.7-12.6 13.7s-13.3-5.6-13.2-13.3l-8.6.2c1 13.4 10 21.3 21.1 21.3 12.2 0 21.8-9.1 21.8-21.9.1-11.5-7.1-17-16.8-20.9zM471.4 2.2h-9.8v70.2h8.5V43h4.9c13 0 23.9-5.7 23.9-20.5.1-12.8-6.5-20.3-27.5-20.3zm1.5 33h-2.7V10h2.3c8.4 0 18.5 1.3 18.5 12.3 0 11.2-9.4 12.9-18.1 12.9zM505 72.4h36.7v-8h-28.1V37.9h27.3v-8h-27.3V10.2h28.1v-8H505v70.2zM364.6 8.7c6.4 0 13.1 2.4 18 6.9l4.3-6.6c-6-6.2-13.9-8.3-21.5-8.3-20.1 0-36.3 16.2-36.3 37 0 20.3 16.1 36.8 35.6 36.2 6.8-.2 15.6-2.4 22.2-8.5l-4.3-6.7c-5.1 4.7-11.5 7.3-18.2 7.3-15.2 0-26.8-13.1-26.8-28.5 0-15.6 11.7-28.8 27-28.8zM185.9 2.4l-12.1 33.9c-3 8.8-5.4 16.5-7.2 23.6h-.3c-1.7-7.3-4-15-6.9-23.6L147.8 2.4h-11.2l-4.7 70h8.4l1.8-30c.6-10.5 1.1-22.2 1.3-31h.2c1.9 8.3 4.6 17.3 7.9 27.2l11 33.3h6.7l12-34c3.4-9.6 6.3-18.4 8.6-26.6h.3c-.1 8.7.5 20.5 1 30.2l1.7 30.7h8.6l-4.2-70h-11.3zm76.8 0l-12.1 33.9c-3 8.8-5.4 16.5-7.2 23.6h-.3c-1.7-7.3-4-15-6.9-23.6L224.6 2.4h-11.2l-4.7 70h8.4l1.8-30c.6-10.5 1.1-22.2 1.3-31h.2c1.9 8.3 4.6 17.3 7.9 27.2l11 33.3h6.7l12-34c3.4-9.6 6.3-18.4 8.6-26.6h.3c-.1 8.7.5 20.5 1 30.2l1.7 30.7h8.6l-4.2-70h-11.3zm295 7.4v-.1c1-.3 1.7-1 1.7-2 0-.8-.4-1.4-.8-1.8-.6-.4-1.3-.7-2.9-.7-1.4 0-2.4.2-3.2.3V14h1.9v-3.4h.9c1.1 0 1.6.4 1.7 1.3.2 1 .4 1.7.7 2h2.1c-.2-.3-.4-.8-.6-2.1-.2-1.1-.7-1.8-1.5-2zm-2.3-.6h-.9V6.7c.2-.1.6-.1 1.1-.1 1.2 0 1.8.5 1.8 1.3 0 .9-.9 1.3-2 1.3zm.5-8.2c-4.8 0-8.6 3.8-8.6 8.5 0 4.8 3.8 8.6 8.5 8.6 4.8 0 8.5-3.7 8.5-8.6 0-4.7-3.7-8.5-8.4-8.5zm0 15.3c-3.7 0-6.5-3-6.5-6.8 0-3.7 2.7-6.8 6.4-6.8s6.4 3.1 6.4 6.8c0 3.8-2.7 6.9-6.3 6.8z" xmlns="http://www.w3.org/2000/svg"></path>
+			  <path fill-rule="evenodd" clip-rule="evenodd" fill="#00AEEF" d="M440.9 6.8c-13.1-8.5-32.2-.3-33.1 15.3 1.4 7.1 7.7 11.4 18.5 13.6 10.1 2 12.1 8.8 11.2 14.1.3 3.5-.8 6.8-2.4 8.6-5.7 6.7-14.8 7.7-21.8 5.3-13.4-3.5-23.3-16.3-21.7-32.3 0-1.8.1-3.7.4-5.6C394.8 8.6 408.8.1 423.3.1c-1.3-.1-2.7-.2-4-.2C398.7 0 382 16.7 382 37.4c0 20.6 16.7 37.4 37.3 37.4 20.6 0 37.4-16.7 37.4-37.4 0-12.7-6.2-23.8-15.8-30.6z" xmlns="http://www.w3.org/2000/svg"></path></svg></a>
+&nbsp;</div>
+<div class="bord"><ul class="inline" id="cmsc-tcp">
+<li><a title="Ethics" href="/About-Us/Corporate-Responsibility-and-Sustainability/Ethics/">Ethics</a></li>
+<li><a href="/About-Us/Privacy/">Privacy</a></li>
+<li><a href="/About-Us/Cookies/">Cookies</a></li>
+<!--<li><a href="/About-Us/Terms/">Terms</a></li>--><li><a class="feedbackFancybox text-error" href="/feedback">Feedback</a></li>
+</ul>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&nbsp;</div>
+<!-- Begin social links for China --><!-- mp_trans_add="zs"
+<div id="cmsc-social">
+<a class="cmsc-social-link" href="http://zh.commscope.com/?1036077272;amdU78nF2DVDVu6tIk-cItyFau6CgZUFIZy9gi-CgDYcu1">
+<svg class="cmsc-icon facebook" viewBox="0 0 30 30" preserveAspectRatio="xMidYMid" width="30" height="30">
+	<defs xmlns="http://www.w3.org/2000/svg">
+		<style type="text/css">
+			.cls-1 { fill: #231f20; }
+			.cls-1, .cls-2 { fill-rule: evenodd; }
+			.cls-2 { fill: #fff; }
+		</style>
+	</defs>
+	<g xmlns="http://www.w3.org/2000/svg">
+		<path d="M15.000,0.000 C23.284,0.000 30.000,6.716 30.000,15.000 C30.000,23.284 23.284,30.000 15.000,30.000 C6.716,30.000 0.000,23.284 0.000,15.000 C0.000,6.716 6.716,0.000 15.000,0.000 Z" class="cls-1" />
+		<path d="M13.886,21.738 L16.135,21.738 L16.135,16.240 L18.232,16.240 L18.385,14.240 L16.135,14.240 L16.135,12.740 C16.135,12.157 16.246,11.741 17.010,11.741 L18.301,11.741 L18.385,9.852 C18.385,9.852 17.732,9.741 16.885,9.741 C14.774,9.741 13.886,11.074 13.886,12.491 L13.886,14.240 L12.386,14.240 L12.386,16.240 L13.886,16.240 L13.886,21.738 Z" class="cls-2" />
+	</g>
+</svg></a>
+
+<a class="cmsc-social-link" href="http://zh.commscope.com/?1036077272;amdU78nF2DVDVu6tgPcCaDBhIZy92DYngDdF7uyCgZH97Z-F7PK.r1">
+<svg class="cmsc-icon flickr" viewBox="0 0 30 30" preserveAspectRatio="xMidYMid" width="30" height="30">
+	<defs xmlns="http://www.w3.org/2000/svg">
+		<style type="text/css">
+			.cls-1 { fill: #231f20; }
+			.cls-1, .cls-2 { fill-rule: evenodd; }
+			.cls-2 { fill: #fff; }
+		</style>
+	</defs>
+	<g xmlns="http://www.w3.org/2000/svg">
+		<path d="M15.000,0.000 C23.284,0.000 30.000,6.716 30.000,15.000 C30.000,23.284 23.284,30.000 15.000,30.000 C6.716,30.000 0.000,23.284 0.000,15.000 C0.000,6.716 6.716,0.000 15.000,0.000 Z" class="cls-1" />
+		<path d="M13.885,14.740 C13.885,13.226 12.650,11.990 11.136,11.990 C9.623,11.990 8.387,13.226 8.387,14.740 C8.387,16.253 9.623,17.489 11.136,17.489 C12.650,17.489 13.885,16.253 13.885,14.740 ZM20.384,14.740 C20.384,13.226 19.148,11.990 17.634,11.990 C16.121,11.990 14.885,13.226 14.885,14.740 C14.885,16.253 16.121,17.489 17.634,17.489 C19.148,17.489 20.384,16.253 20.384,14.740 Z" class="cls-2" />
+	</g>
+</svg></a>
+
+<a class="cmsc-social-link" href="http://zh.commscope.com/?1036077272;amdU78nF2Zch7DdJGDqJgO6CgZUFIZy9gi-CgDYcu1">
+<svg class="cmsc-icon instagram" viewBox="0 0 30 30" preserveAspectRatio="xMidYMid" width="30" height="30">
+	<defs xmlns="http://www.w3.org/2000/svg">
+		<style type="text/css">
+			.cls-1 { fill: #231f20; }
+			.cls-1, .cls-2 { fill-rule: evenodd; }
+			.cls-2 { fill: #fff; }
+		</style>
+	</defs>
+	<g xmlns="http://www.w3.org/2000/svg">
+		<path d="M15.000,0.000 C23.284,0.000 30.000,6.716 30.000,15.000 C30.000,23.284 23.284,30.000 15.000,30.000 C6.716,30.000 -0.000,23.284 -0.000,15.000 C-0.000,6.716 6.716,0.000 15.000,0.000 Z" class="cls-1" />
+		<path d="M18.385,13.490 C18.551,13.879 18.634,14.295 18.634,14.740 C18.634,16.531 17.176,17.989 15.385,17.989 C13.594,17.989 12.136,16.531 12.136,14.740 C12.136,14.295 12.219,13.879 12.386,13.490 L9.387,13.490 L9.387,18.989 C9.387,19.947 10.178,20.738 11.136,20.738 L19.634,20.738 C20.592,20.738 21.384,19.947 21.384,18.989 L21.384,13.490 L18.385,13.490 ZM15.385,16.989 C16.621,16.989 17.635,15.989 17.635,14.740 C17.635,13.504 16.621,12.490 15.385,12.490 C14.136,12.490 13.136,13.504 13.136,14.740 C13.136,15.989 14.136,16.989 15.385,16.989 ZM21.384,10.491 C21.384,9.533 20.592,8.741 19.634,8.741 L11.136,8.741 C10.178,8.741 9.387,9.533 9.387,10.491 L9.387,12.490 L13.039,12.490 C13.636,11.879 14.469,11.491 15.385,11.491 C16.302,11.491 17.135,11.879 17.732,12.490 L21.384,12.490 L21.384,10.491 Z" class="cls-2" />
+	</g>
+</svg></a>
+
+<a class="cmsc-social-link" href="http://zh.commscope.com/?1036077272;amdU78nF2DVDVu6Tak6xGkdwgf6CgZUFIZy97PzheOyCgZH97Z-F7PK.q1">
+<svg class="cmsc-icon linkedin" viewBox="0 0 30 30" preserveAspectRatio="xMidYMid" width="30" height="30">
+	<defs xmlns="http://www.w3.org/2000/svg">
+		<style type="text/css">
+			.cls-1 { fill: #231f20; }
+			.cls-1, .cls-2 { fill-rule: evenodd; }
+			.cls-2 { fill: #fff; }
+		</style>
+	</defs>
+	<g xmlns="http://www.w3.org/2000/svg">
+		<path d="M15.000,0.000 C23.284,0.000 30.000,6.716 30.000,15.000 C30.000,23.284 23.284,30.000 15.000,30.000 C6.716,30.000 0.000,23.284 0.000,15.000 C0.000,6.716 6.716,0.000 15.000,0.000 Z" class="cls-1" />
+		<path d="M10.133,11.494 L10.133,19.242 L12.632,19.242 L12.632,11.494 L10.133,11.494 ZM16.631,19.242 L14.132,19.242 L14.132,13.243 C14.132,13.243 14.090,11.758 14.090,11.494 L16.548,11.494 L16.631,12.563 C17.131,11.813 17.881,11.244 18.881,11.244 C20.630,11.244 21.880,12.494 21.880,14.743 L21.880,19.242 L19.381,19.242 L19.381,14.993 C19.381,13.743 18.770,13.243 18.020,13.243 C17.270,13.243 16.631,13.743 16.631,14.743 L16.631,19.242 ZM11.369,10.244 C12.299,10.244 12.882,9.633 12.882,8.870 C12.868,8.092 12.299,7.495 11.396,7.495 C10.480,7.495 9.883,8.092 9.883,8.870 C9.883,9.633 10.466,10.244 11.355,10.244 L11.369,10.244 L11.369,10.244 Z" class="cls-2" />
+	</g>
+</svg></a>
+
+<a class="cmsc-social-link" href="http://zh.commscope.com/?1036077272;amdU78nF2DdDaidUGiBhIZy92Z-FgkHWIZyNG4..31">
+<svg class="cmsc-icon twitter" viewBox="0 0 30 30" preserveAspectRatio="xMidYMid" width="30" height="30">
+	<defs xmlns="http://www.w3.org/2000/svg">
+		<style type="text/css">
+			.cls-1 { fill: #231f20; }
+			.cls-1, .cls-2 { fill-rule: evenodd; }
+			.cls-2 { fill: #fff; }
+		</style>
+	</defs>
+	<g xmlns="http://www.w3.org/2000/svg">
+		<path d="M15.000,0.000 C23.284,0.000 30.000,6.716 30.000,15.000 C30.000,23.284 23.284,30.000 15.000,30.000 C6.716,30.000 0.000,23.284 0.000,15.000 C0.000,6.716 6.716,0.000 15.000,0.000 Z" class="cls-1" />
+		<path d="M21.384,11.893 C20.939,12.088 20.467,12.227 19.967,12.282 C20.481,11.977 20.870,11.491 21.051,10.921 C20.578,11.199 20.051,11.407 19.495,11.519 C19.037,11.046 18.398,10.741 17.690,10.741 C16.329,10.741 15.233,11.838 15.233,13.199 C15.233,13.393 15.246,13.587 15.288,13.768 C13.247,13.657 11.442,12.727 10.220,11.241 C10.012,11.602 9.887,11.977 9.887,12.435 C9.887,13.282 10.317,14.032 10.984,14.476 C10.581,14.462 10.206,14.351 9.873,14.171 C9.873,14.185 9.873,14.185 9.873,14.198 C9.873,15.393 10.720,16.392 11.844,16.615 C11.636,16.670 11.414,16.698 11.192,16.698 C11.039,16.698 10.886,16.684 10.734,16.656 C11.039,17.628 11.956,18.350 13.025,18.364 C12.192,19.031 11.122,19.530 9.970,19.530 C9.776,19.530 9.581,19.517 9.387,19.489 C10.470,20.183 11.775,20.489 13.164,20.489 C17.690,20.489 20.162,16.740 20.162,13.490 C20.162,13.379 20.162,13.282 20.162,13.171 C20.634,12.824 21.051,12.393 21.384,11.893 Z" class="cls-2" />
+	</g>
+</svg></a>
+
+<a class="cmsc-social-link" href="http://zh.commscope.com/?1036077272;amdU78nF2DVDVu66gDrUVkqc2t-FgOyH7Zru2Z-FgkHWIZyNG4..n1">
+<svg class="cmsc-icon youtube" viewBox="0 0 30 30" preserveAspectRatio="xMidYMid" width="30" height="30">
+	<defs xmlns="http://www.w3.org/2000/svg">
+		<style type="text/css">
+			.cls-1 { fill: #231f20; }
+			.cls-1, .cls-2 { fill-rule: evenodd; }
+			.cls-2 { fill: #fff; }
+		</style>
+	</defs>
+	<g xmlns="http://www.w3.org/2000/svg">
+		<path d="M15.000,0.000 C23.284,0.000 30.000,6.716 30.000,15.000 C30.000,23.284 23.284,30.000 15.000,30.000 C6.716,30.000 -0.000,23.284 -0.000,15.000 C-0.000,6.716 6.716,0.000 15.000,0.000 Z" class="cls-1" />
+		<path d="M15.385,10.491 C9.387,10.491 9.387,10.491 9.387,14.740 C9.387,18.989 9.387,18.989 15.385,18.989 C21.384,18.989 21.384,18.989 21.384,14.740 C21.384,10.491 21.384,10.491 15.385,10.491 ZM13.886,16.989 L13.886,12.490 L17.635,14.740 L13.886,16.989 Z" class="cls-2" />
+	</g>
+</svg></a>
+
+<a class="cmsc-social-link" href="http://weibo.com/commscope">
+<img src="/images/icon-weibo.svg" width="30" height="30" class="cmsc-icon youtube" style="vertical-align: baseline;"/>
+</a>
+
 </div>
-<!-- /footer -->
+<div><img alt="My QR code" src="/uploadedImages/CommScopecom/Misc/QR-code-China-Wechat.png"></div>
+--><!-- mp_trans_remove_start="ZS" --><div id="cmsc-social"><a class="cmsc-social-link" href="http://www.facebook.com/commscope"><svg class="cmsc-icon facebook" viewBox="0 0 30 30" preserveAspectRatio="xMidYMid" width="30" height="30">
+	<defs xmlns="http://www.w3.org/2000/svg">
+		<style type="text/css">
+			.cls-1 { fill: #231f20; }
+			.cls-1, .cls-2 { fill-rule: evenodd; }
+			.cls-2 { fill: #fff; }
+		</style>
+	</defs>
+	<g xmlns="http://www.w3.org/2000/svg">
+		<path d="M15.000,0.000 C23.284,0.000 30.000,6.716 30.000,15.000 C30.000,23.284 23.284,30.000 15.000,30.000 C6.716,30.000 0.000,23.284 0.000,15.000 C0.000,6.716 6.716,0.000 15.000,0.000 Z" class="cls-1"></path>
+		<path d="M13.886,21.738 L16.135,21.738 L16.135,16.240 L18.232,16.240 L18.385,14.240 L16.135,14.240 L16.135,12.740 C16.135,12.157 16.246,11.741 17.010,11.741 L18.301,11.741 L18.385,9.852 C18.385,9.852 17.732,9.741 16.885,9.741 C14.774,9.741 13.886,11.074 13.886,12.491 L13.886,14.240 L12.386,14.240 L12.386,16.240 L13.886,16.240 L13.886,21.738 Z" class="cls-2"></path>
+	</g>
+</svg></a><a class="cmsc-social-link" href="http://www.flickr.com/photos/commscope"><svg class="cmsc-icon flickr" viewBox="0 0 30 30" preserveAspectRatio="xMidYMid" width="30" height="30">
+	<defs xmlns="http://www.w3.org/2000/svg">
+		<style type="text/css">
+			.cls-1 { fill: #231f20; }
+			.cls-1, .cls-2 { fill-rule: evenodd; }
+			.cls-2 { fill: #fff; }
+		</style>
+	</defs>
+	<g xmlns="http://www.w3.org/2000/svg">
+		<path d="M15.000,0.000 C23.284,0.000 30.000,6.716 30.000,15.000 C30.000,23.284 23.284,30.000 15.000,30.000 C6.716,30.000 0.000,23.284 0.000,15.000 C0.000,6.716 6.716,0.000 15.000,0.000 Z" class="cls-1"></path>
+		<path d="M13.885,14.740 C13.885,13.226 12.650,11.990 11.136,11.990 C9.623,11.990 8.387,13.226 8.387,14.740 C8.387,16.253 9.623,17.489 11.136,17.489 C12.650,17.489 13.885,16.253 13.885,14.740 ZM20.384,14.740 C20.384,13.226 19.148,11.990 17.634,11.990 C16.121,11.990 14.885,13.226 14.885,14.740 C14.885,16.253 16.121,17.489 17.634,17.489 C19.148,17.489 20.384,16.253 20.384,14.740 Z" class="cls-2"></path>
+	</g>
+</svg></a><a class="cmsc-social-link" href="http://instagram.com/commscope"><svg class="cmsc-icon instagram" viewBox="0 0 30 30" preserveAspectRatio="xMidYMid" width="30" height="30">
+	<defs xmlns="http://www.w3.org/2000/svg">
+		<style type="text/css">
+			.cls-1 { fill: #231f20; }
+			.cls-1, .cls-2 { fill-rule: evenodd; }
+			.cls-2 { fill: #fff; }
+		</style>
+	</defs>
+	<g xmlns="http://www.w3.org/2000/svg">
+		<path d="M15.000,0.000 C23.284,0.000 30.000,6.716 30.000,15.000 C30.000,23.284 23.284,30.000 15.000,30.000 C6.716,30.000 -0.000,23.284 -0.000,15.000 C-0.000,6.716 6.716,0.000 15.000,0.000 Z" class="cls-1"></path>
+		<path d="M18.385,13.490 C18.551,13.879 18.634,14.295 18.634,14.740 C18.634,16.531 17.176,17.989 15.385,17.989 C13.594,17.989 12.136,16.531 12.136,14.740 C12.136,14.295 12.219,13.879 12.386,13.490 L9.387,13.490 L9.387,18.989 C9.387,19.947 10.178,20.738 11.136,20.738 L19.634,20.738 C20.592,20.738 21.384,19.947 21.384,18.989 L21.384,13.490 L18.385,13.490 ZM15.385,16.989 C16.621,16.989 17.635,15.989 17.635,14.740 C17.635,13.504 16.621,12.490 15.385,12.490 C14.136,12.490 13.136,13.504 13.136,14.740 C13.136,15.989 14.136,16.989 15.385,16.989 ZM21.384,10.491 C21.384,9.533 20.592,8.741 19.634,8.741 L11.136,8.741 C10.178,8.741 9.387,9.533 9.387,10.491 L9.387,12.490 L13.039,12.490 C13.636,11.879 14.469,11.491 15.385,11.491 C16.302,11.491 17.135,11.879 17.732,12.490 L21.384,12.490 L21.384,10.491 Z" class="cls-2"></path>
+	</g>
+</svg></a><a class="cmsc-social-link" href="http://www.linkedin.com/company/commscope"><svg class="cmsc-icon linkedin" viewBox="0 0 30 30" preserveAspectRatio="xMidYMid" width="30" height="30">
+	<defs xmlns="http://www.w3.org/2000/svg">
+		<style type="text/css">
+			.cls-1 { fill: #231f20; }
+			.cls-1, .cls-2 { fill-rule: evenodd; }
+			.cls-2 { fill: #fff; }
+		</style>
+	</defs>
+	<g xmlns="http://www.w3.org/2000/svg">
+		<path d="M15.000,0.000 C23.284,0.000 30.000,6.716 30.000,15.000 C30.000,23.284 23.284,30.000 15.000,30.000 C6.716,30.000 0.000,23.284 0.000,15.000 C0.000,6.716 6.716,0.000 15.000,0.000 Z" class="cls-1"></path>
+		<path d="M10.133,11.494 L10.133,19.242 L12.632,19.242 L12.632,11.494 L10.133,11.494 ZM16.631,19.242 L14.132,19.242 L14.132,13.243 C14.132,13.243 14.090,11.758 14.090,11.494 L16.548,11.494 L16.631,12.563 C17.131,11.813 17.881,11.244 18.881,11.244 C20.630,11.244 21.880,12.494 21.880,14.743 L21.880,19.242 L19.381,19.242 L19.381,14.993 C19.381,13.743 18.770,13.243 18.020,13.243 C17.270,13.243 16.631,13.743 16.631,14.743 L16.631,19.242 ZM11.369,10.244 C12.299,10.244 12.882,9.633 12.882,8.870 C12.868,8.092 12.299,7.495 11.396,7.495 C10.480,7.495 9.883,8.092 9.883,8.870 C9.883,9.633 10.466,10.244 11.355,10.244 L11.369,10.244 L11.369,10.244 Z" class="cls-2"></path>
+	</g>
+</svg></a><a class="cmsc-social-link" href="http://twitter.com/commscope"><svg class="cmsc-icon twitter" viewBox="0 0 30 30" preserveAspectRatio="xMidYMid" width="30" height="30">
+	<defs xmlns="http://www.w3.org/2000/svg">
+		<style type="text/css">
+			.cls-1 { fill: #231f20; }
+			.cls-1, .cls-2 { fill-rule: evenodd; }
+			.cls-2 { fill: #fff; }
+		</style>
+	</defs>
+	<g xmlns="http://www.w3.org/2000/svg">
+		<path d="M15.000,0.000 C23.284,0.000 30.000,6.716 30.000,15.000 C30.000,23.284 23.284,30.000 15.000,30.000 C6.716,30.000 0.000,23.284 0.000,15.000 C0.000,6.716 6.716,0.000 15.000,0.000 Z" class="cls-1"></path>
+		<path d="M21.384,11.893 C20.939,12.088 20.467,12.227 19.967,12.282 C20.481,11.977 20.870,11.491 21.051,10.921 C20.578,11.199 20.051,11.407 19.495,11.519 C19.037,11.046 18.398,10.741 17.690,10.741 C16.329,10.741 15.233,11.838 15.233,13.199 C15.233,13.393 15.246,13.587 15.288,13.768 C13.247,13.657 11.442,12.727 10.220,11.241 C10.012,11.602 9.887,11.977 9.887,12.435 C9.887,13.282 10.317,14.032 10.984,14.476 C10.581,14.462 10.206,14.351 9.873,14.171 C9.873,14.185 9.873,14.185 9.873,14.198 C9.873,15.393 10.720,16.392 11.844,16.615 C11.636,16.670 11.414,16.698 11.192,16.698 C11.039,16.698 10.886,16.684 10.734,16.656 C11.039,17.628 11.956,18.350 13.025,18.364 C12.192,19.031 11.122,19.530 9.970,19.530 C9.776,19.530 9.581,19.517 9.387,19.489 C10.470,20.183 11.775,20.489 13.164,20.489 C17.690,20.489 20.162,16.740 20.162,13.490 C20.162,13.379 20.162,13.282 20.162,13.171 C20.634,12.824 21.051,12.393 21.384,11.893 Z" class="cls-2"></path>
+	</g>
+</svg></a><a class="cmsc-social-link" href="http://www.youtube.com/user/commscope"><svg class="cmsc-icon youtube" viewBox="0 0 30 30" preserveAspectRatio="xMidYMid" width="30" height="30">
+	<defs xmlns="http://www.w3.org/2000/svg">
+		<style type="text/css">
+			.cls-1 { fill: #231f20; }
+			.cls-1, .cls-2 { fill-rule: evenodd; }
+			.cls-2 { fill: #fff; }
+		</style>
+	</defs>
+	<g xmlns="http://www.w3.org/2000/svg">
+		<path d="M15.000,0.000 C23.284,0.000 30.000,6.716 30.000,15.000 C30.000,23.284 23.284,30.000 15.000,30.000 C6.716,30.000 -0.000,23.284 -0.000,15.000 C-0.000,6.716 6.716,0.000 15.000,0.000 Z" class="cls-1"></path>
+		<path d="M15.385,10.491 C9.387,10.491 9.387,10.491 9.387,14.740 C9.387,18.989 9.387,18.989 15.385,18.989 C21.384,18.989 21.384,18.989 21.384,14.740 C21.384,10.491 21.384,10.491 15.385,10.491 ZM13.886,16.989 L13.886,12.490 L17.635,14.740 L13.886,16.989 Z" class="cls-2"></path>
+	</g>
+</svg></a>
+&nbsp;</div>
+<!-- mp_trans_remove_end="ZS" --><p id="cmsc-copyright">© 2015 All Rights Reserved.</p>
+</div>
+<!-- /cmsc-footer-block--><section class="cmsc-footer-block" id="cmsc-footer-about">
+<h2><a href="/About-Us/Who-We-Are/">About Us</a></h2>
+<p><a href="/About-Us/Careers/">Careers</a></p>
+<p><a title="Corporate Responsibility" href="/About-Us/Corporate-Responsibility-and-Sustainability/">Corporate Responsibility</a></p>
+<p><a href="/About-Us/Who-We-Are/Timeline/">Timeline</a></p>
+<p><a href="http://ir.commscope.com">Investor Relations</a></p>
+<p><a href="/About-Us/Management-Team/">Management Team</a></p>
+<p><a title="Supplier Responsibility&nbsp;" href="/About-Us/Corporate-Responsibility-and-Sustainability/Supplier-Responsibility/">Supplier Responsibility</a></p>
+</section>
+<section class="cmsc-footer-block" id="cmsc-footer-news">
+<h2><a href="/NewsCenter">News Center</a></h2>
+<p><a href="/Blog/">Blog</a></p>
+<p><a href="/NewsCenter/Events/">Events</a></p>
+<p><a href="/NewsCenter/Infographics/">Infographics</a></p>
+<p><a href="/NewsCenter/NewsItems/">In the News</a></p>
+<p><a href="/NewsCenter/MediaContacts/">Media Contacts</a></p>
+<p><a href="/NewsCenter/PressKit/">Press Kit</a></p>
+<p><a href="/NewsCenter/PressReleases/">Press Releases</a></p>
+</section>
+<section class="cmsc-footer-block" id="cmsc-footer-support">
+<h2><a href="/Support/">Support</a></h2>
+<p><a href="/Support/">Contact Us</a></p>
+<p><a href="/Support/">Customer Support</a></p>
+<p><a href="/Partners/Partner-Locator/">Partner Locator </a></p>
+<p><a href="/locator/SalesWizard.aspx">Sales Locator</a></p>
+<p><a href="/Support/Services/">Services</a></p>
+<p><a href="/Support/Technical-Support/">Technical Support</a></p>
+<p><a href="/Support/Training/">Training</a></p>
+</section>
+
+
+
+
+&nbsp;</div>
+<!-- /container --><style type="text/css">
+.feedback { 
+	position: fixed; top: 70%; right: -37px; z-index: 999;
+	padding-top: 7px; background-color: rgba(255,255,255,0.6); 
+	border: 2px solid #4affff /* #00aeef #d7d7d7*/;
+	-webkit-box-shadow: 0 0 8px 0px rgba( 100, 100, 100, 0.12 );
+	-moz-box-shadow: 0 0 8px 0px rgba( 100, 100, 100, 0.12 );
+	box-shadow: 0 0 8px 0px rgba( 100, 100, 100, 0.12 );
+	-webkit-border-top-left-radius: 5px;
+	-webkit-border-top-right-radius: 5px;
+	border-top-left-radius: 5px;
+	border-top-right-radius: 5px; 
+	transform: rotate(-90deg);
+	-webkit-transform: rotate(-90deg); 
+	-moz-transform: rotate(-90deg); 
+	-o-transform: rotate(-90deg); 
+	filter: progid:DXImageTransform.Microsoft.BasicImage(rotation=3);
+	}
+
+.feedback a { 
+	display: block; 
+   	padding: 6px 12px;
+   	text-decoration: none;
+	}
+.feedback a:link {}
+
+.feedback:hover { 
+		background-color: rgba(255,255,255,0.90); 
+		-moz-box-shadow: 0 0 15px #fff;
+		-webkit-box-shadow: 0 0 15px #fff;
+		box-shadow: 0px 0px 15px #fff;
+		filter:progid:DXImageTransform.Microsoft.Glow(Color=white,Strength=5);
+		right: -34px;
+		transform: rotate(-90deg);
+		-webkit-transform: rotate(-90deg); 
+		-moz-transform: rotate(-90deg); 
+		-o-transform: rotate(-90deg); 
+		filter: progid:DXImageTransform.Microsoft.BasicImage(rotation=3); 
+		}
+		
+.feedback-2 {
+	text-align: center;
+    position: fixed;
+    top: 75%;
+    margin-top: 2px;
+    right: 0px;
+    cursor: pointer;
+	border: 1px solid #3BFF33; 
+	background-color: rgba(255,255,255,0.80);
+	padding: 4px 8px;
+	-webkit-border-top-left-radius: 2px;
+	-webkit-border-top-right-radius: 2px;
+	border-top-left-radius: 2px;
+	border-top-right-radius: 2px;
+	}
+.feedback-2:hover {
+	background-color: rgba(255,255,255,0.95); 
+	-moz-box-shadow: 0 0 15px #fff;
+	-webkit-box-shadow: 0 0 15px #fff;
+	box-shadow: 0px 0px 15px #fff;
+	filter:progid:DXImageTransform.Microsoft.Glow(Color=white,Strength=5);
+	}
+	
+	</style><!-- <div class="feedback-2">
+    <a class="feedbackFancybox" href="/feedback">Feedback</a>
+</div>  --><div class="feedback"><a class="feedbackFancybox" href="/feedback">Feedback</a>
+&nbsp;</div>
+<!-- mp_trans_remove_start="ZS" --><div class="muted clearfix zh container">苏ICP备13053344号-1</div>
+<!-- mp_trans_remove_end="ZS" --></footer>
+<!--=========================== END FOOTER =======================-->
+
+</div><!--=========================== END FULL SITE WRAP cmsc-content-wrapper ===========================-->
 
 <script type="text/javascript">
-    $(document).ready(function () {
-        $(".feedbackFancybox").fancybox({
-            'width': '90%',
+    $(document).ready(function () { $(".feedbackFancybox").fancybox({ 'width': '90%',
             'height': '90%',
             'minWidth': '100',
             'minHeight': '100',
@@ -739,53 +1203,35 @@ function TrackEventByFileExtension(FileExtension)
             'scrolling': 'auto',
             'centerOnScroll': 'true',
             iframe: { preload: false }
-        });
-    });
+        }); });
 </script>
 
-<div class="subfooter">
-    <div class="container">
-        <div class="span5">
-            <p>© 2015  <a href="http://www.commscope.com">CommScope</a> Inc.</p>
-            <!-- mp_trans_remove_start="ZS" -->
-            <div class="muted">苏ICP备13053344号-1</div>
-            <!-- mp_trans_remove_end="ZS" -->
-  
-        </div>
-        <div class="span6">
-            <ul class="inline pull-right">
-                <li><a href="/About-Us/Corporate-Responsibility-and-Sustainability/Ethics-and-Governance/">Ethics</a></li>
-                <li><a href="/About-Us/Privacy/">Privacy</a></li>
-                <li><a href="/About-Us/Cookies/">Cookies</a></li>
-                <li><a href="/About-Us/Terms/">Terms</a></li>
-                <li><a class="feedbackFancybox text-error" href="/feedback"><strong>Feedback</strong></a></li>
-            </ul>
-            
-        </div>
-    </div>
-</div>
-<!-- /subfooter -->
-
-<!-- Google translate - button click code: http://stuff.blat.co.za/2010/10/30/how-to-load-google-translate-only-when-its-required/ -->
-<script type="text/javascript">
-    function doTranslate() {
-        document.getElementById("google_translate_element").innerHTML = "Please wait";
-        var element = document.createElement("script");
-        element.type = "text/javascript";
-        element.src = "http://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit";
-        document.body.appendChild(element);
-    }
-
-    function googleTranslateElementInit() {
-        document.getElementById("google_translate_element").innerHTML = "";
-        new google.translate.TranslateElement({ pageLanguage: 'en', includedLanguages: 'cs,da,de,fr,it,nl,pl,tr', layout: google.translate.TranslateElement.InlineLayout.SIMPLE, gaTrack: true, gaId: 'UA-75011-26' }, 'google_translate_element');
-    }
-
-</script>
 
 <!-- MotionPoint script -->
-<script type="text/javascript" id="mpelid" src="//es.commscope.com/mpel/mpel.js"></script>
+    <!--mp_easylink_begins-->
+    <script type="text/javascript" id="mpelid" src="//commscope.mpeasylink.com/mpel/mpel.js" async=""></script>
+    <!--mp_easylink_ends-->
 
+
+<!-- LinkedIn tracking script -->
+<script type="text/javascript">
+	_bizo_data_partner_id = "8650";
+</script>
+
+<script type="text/javascript">
+	(function() {
+	  var s = document.getElementsByTagName("script")[0];
+	  var b = document.createElement("script");
+	  b.type = "text/javascript";
+	  b.async = true;
+	  b.src = (window.location.protocol === "https:" ? "https://sjs" : "http://js") + ".bizographics.com/insight.min.js";
+	  s.parentNode.insertBefore(b, s);
+	})();
+</script>
+
+<noscript>
+  <img height="1" width="1" alt="" style="display:none;" src="//www.bizographics.com/collect/?pid=8650&fmt=gif" />
+</noscript>
 
     
         <!--Scripts -->
@@ -812,17 +1258,6 @@ function TrackEventByFileExtension(FileExtension)
 	<script type="text/javascript" src="/theme/js/lunametrics-youtube.js"></script>-->
 	<!-- mp_trans_remove_end -->
 
-    <!-- Upgrade your browser script http://www.browser-update.org/ -->
-    <script>
-        var $buoop = { c: 2 };   // var $buoop = { c: 2, test: true, }; -- will always show bar... for testing
-        function $buo_f() {
-            var e = document.createElement("script");
-            e.src = "//browser-update.org/update.js";
-            document.body.appendChild(e);
-        };
-        try { document.addEventListener("DOMContentLoaded", $buo_f, false) }
-        catch (e) { window.attachEvent("onload", $buo_f) }
-    </script> 
 
 <!-- MCC retargeting pixel -->
 	<!-- mp_trans_remove_start="ZS" -->
@@ -847,6 +1282,8 @@ function TrackEventByFileExtension(FileExtension)
 	<!-- mp_trans_remove_end -->
 <!-- END MCC retargeting pixel -->
 
+<script type="text/javascript" src="/theme/js/cmsc-js.js"></script><!-- TB script for menu drop down / header -->
 
 
-<ul class="ui-autocomplete ui-front ui-menu ui-widget ui-widget-content ui-corner-all" id="ui-id-1" tabindex="0" style="display: none;"></ul><script src="//browser-update.org/update.js"></script></body></html>
+
+<ul class="ui-autocomplete ui-front ui-menu ui-widget ui-widget-content ui-corner-all" id="ui-id-1" tabindex="0" style="display: none;"></ul><ul class="ui-autocomplete ui-front ui-menu ui-widget ui-widget-content ui-corner-all" id="ui-id-2" tabindex="0" style="display: none;"></ul></body></html>
