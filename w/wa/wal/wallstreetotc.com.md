@@ -1,112 +1,89 @@
-> *The following text is extracted and transformed from the wallstreetotc.com privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611145318id_/http%3A//www.wallstreetotc.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wallstreetotc.com privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209194617id_/http%3A//www.wallstreetotc.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-  
-This privacy policy has been compiled to better serve those who are concerned with how their ‘Personally identifiable information’ (PII) is being used online. PII, as used in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website.
-
-**What personal information do we collect from the people that visit our blog, website or app?**
-
-When ordering or registering on our site, as appropriate, you may be asked to enter your name, email address or other details to help you with your experience.
-
-**When do we collect information?**
-
-We collect information from you when you register on our site, subscribe to a newsletter, respond to a survey, fill out a form or enter information on our site.
-
-**How do we use your information?**
-
-We may use the information we collect from you when you register, make a purchase, sign up for our newsletter, respond to a survey or marketing communication, surf the website, or use certain other site features in the following ways:
-
-  * To personalize user’s experience and to allow us to deliver the type of content and product offerings in which you are most interested.
-  * To improve our website in order to better serve you.
-  * To allow us to better service you in responding to your customer service requests.
+  1. **INTRODUCTION**
 
 
 
-**How do we protect visitor information?**
+Welcome to the Privacy Policy page of our website. This document, in addition to the [Terms of Use](http://www.wallstreetotc.com/terms-of-service/) of our website governs your use of the website. We understand and respect the need to know how your information is collected, stored and used. As such, this document provides information on all these fields.
 
-We do not use vulnerability scanning and/or scanning to PCI standards.
+By using our website and the services we provide, you agree to the terms set out in our Privacy Policy and the Terms of Use. If, at any time you are not satisfied with the provisions in either of these documents, you are advised to cease access and use of our website and services.
 
-We use regular Malware Scanning.
+Please be reminded that we do not knowingly ask for or collect information on underage users. By accessing and using the website, you validate that you are at least 13 years old.
 
-Your personal information is contained behind secured networks and is only accessible by a limited number of persons who have special access rights to such systems, and are required to keep the information confidential. In addition, all sensitive/credit information you supply is encrypted via Secure Socket Layer (SSL) technology.
+All content posted on our website is public. Therefore, do not share personal identification information either related to you or a third party, nor any proprietary information. We are not liable for any and all losses arising from doing otherwise.
 
-We implement a variety of security measures when a user enters, submits, or accesses their information to maintain the safety of your personal information.
-
-All transactions are processed through a gateway provider and are not stored or processed on our servers.
-
-**Do we use ‘cookies’?**
-
-Yes. Cookies are small files that a site or its service provider transfers to your computer’s hard drive through your Web browser (if you allow) that enables the site’s or service provider’s systems to recognize your browser and capture and remember certain information. For instance, we use cookies to help us remember and process the items in your shopping cart. They are also used to help us understand your preferences based on previous or current site activity, which enables us to provide you with improved services. We also use cookies to help us compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
-
-**We use cookies to:**
-
-  * Keep track of advertisements.
-  * Compile aggregate data about site traffic and site interactions in order to offer better site experiences and tools in the future. We may also use trusted third party services that track this information on our behalf.
+  2. **INFORMATION WE COLLECT**
 
 
 
-You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser (like Internet Explorer) settings. Each browser is a little different, so look at your browser’s Help menu to learn the correct way to modify your cookies.
+**Personal Information** : In order to subscribe to our website and become a member of the online community, you will be prompted to share personal information such as but not restricted to full name, address, e-mail address, gender, age.
 
-If you disable cookies off, some features will be disabled It won’t affect the users experience that make your site experience more efficient and some of our services may not function properly.
+Personal information may be collected by us or from third parties. These include, but are not restricted to social media services, business partners or commercially available sources. For instance, if you share content from our website or access content on our website via a social media service, we may receive personal information such as, but not restricted to: your name, contact information, use of some applications, and information the said service has the right to share with us, such as profile image, friend list, email address.
 
-**Third Party Disclosure**
+Upon accessing our website or connecting our website to a social media service, you authorize us to collect and store personal information as the one described above in accordance with this Privacy Policy.
 
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information unless we provide you with advance notice. This does not include website hosting partners and other parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others’ rights, property, or safety.
+**Non-personal identifying information** : When accessing our website and services we may automatically collect information that is not personally linked to an individual. We make use of cookies and other tracking technologies (beacons, pixels, and browser cookies) to better understand how you use our website and services and be able to tailor the experience according to your needs.
 
-However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+This type of information includes but is not limited to geo-location, IP address, service provider, device used, operating system used, the number of pages you visit, the amount of time spent on pages, your interaction with the content.
 
-**Third party links**
+Cookies and other tracking technologies collect information that is not personally identifiable. This type of information ensures a fluid and synergistic usage of the website, content and services.
 
-We do include or offer third party products or services on our website.
+Should you wish to disable cookies, most browsers enable you to do so. You can alternatively opt for a message to be prompted with every cookies set or updated. The Help section of your browser may help you in finding out more.
 
-**Google**
+Blocking cookies or Flash technologies may lead to restricted access to certain features on the website, or personalized services.
 
-Google’s advertising requirements can be summed up by Google’s Advertising Principles. They are put in place to provide a positive experience for users. 
+**Log Files:** We may collect information such as, but not restricted to your browser, the platform you are using, the pages you access while using our website, the device you connect from, the name of the service provider, your IP address, your OS. All these are log files and they are not linked to personal information. Most times, this information is used for aggregate statistics that may be shared with third parties.
 
-We use Google AdSense Advertising on our website.  
-Google, as a third party vendor, uses cookies to serve ads on our site. Google’s use of the DART cookie enables it to serve ads to our users based on their visit to our site and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.  
-**We have implemented the following:**
-
-  * Google Display Network Impression Reporting
+  3. **HOW WE USE YOUR INFORMATION**
 
 
 
-We along with third-party vendors, such as Google use first-party cookies (such as the Google Analytics cookies) and third-party cookies (such as the DoubleClick cookie) or other third-party identifiers together to compile data regarding user interactions with ad impressions, and other ad service functions as they relate to our website.
+We use your personal information in relation to a request coming directly from you. Such cases include creating a user account or subscribing to our website and services. We thus use information about you and from you to offer you access to services and features on our website. We may also use your personal information to contact you.
 
-Opting out:  
-Users can set preferences for how Google advertises to you using the Google Ad Settings page. Alternatively, you can opt out by visiting the Network Advertising initiative opt out page or permanently using the Google Analytics Opt Out Browser add on.
+Please be aware that all content posted on the website is public. Refrain from making any personal information available through any user-generated content. We are not responsible for any personal information disclosed as such.
 
-**COPPA (Children Online Privacy Protection Act)**
+In order to keep content and services on our website as close to your ideal experience as possible, we may combine Personal and Non-Personally Identifying Information we collect and store in relation to your use of our website and services.
 
-When it comes to the collection of personal information from children under 13, the Children’s Online Privacy Protection Act (COPPA) puts parents in control. The Federal Trade Commission, the nation’s consumer protection agency, enforces the COPPA Rule, which spells out what operators of websites and online services must do to protect children’s privacy and safety online.
-
-We do not specifically market to children under 13.
-
-**Fair Information Practices**
-
-The Fair Information Practices Principles form the backbone of privacy law in the United States and the concepts they include have played a significant role in the development of data protection laws around the globe. Understanding the Fair Information Practice Principles and how they should be implemented is critical to comply with the various privacy laws that protect personal information.
-
-**In order to be in line with Fair Information Practices we will take the following responsive action, should a data breach occur:**
-
-We will notify the users via in site notification
-
-  * Within 7 business days
+  4. **HOW WE SHARE YOUR INFORMATION**
 
 
 
-We also agree to the individual redress principle, which requires that individuals have a right to pursue legally enforceable rights against data collectors and processors who fail to adhere to the law. This principle requires not only that individuals have enforceable rights against data users, but also that individuals have recourse to courts or a government agency to investigate and/or prosecute non-compliance by data processors.
+Personal information from you and about you is kept safe and not shared with third parties, except for cases that require us to do otherwise. These include but are not limited to protecting, enforcing and defending our legal rights, as well as our safety and property, and that of our affiliates, employees, contractors and agents; protecting against fraud, complying with applicable law in the case of disputes.
 
-**CAN SPAM Act**
+When generating content on our website, you are the sole responsible of the nature of the information you provide. Any and all information posted on our website is public and as such providing your name, location, email address, personal beliefs and other personal information is your responsibility.
 
-The CAN-SPAM Act is a law that sets the rules for commercial email, establishes requirements for commercial messages, gives recipients the right to have emails stopped from being sent to them, and spells out tough penalties for violations.
+Non-personal identifying information that we collect and store may be shared with third parties, such as but not restricted to our service providers, marketing partners or business partners. Aggregate information is used to tailor your experience with the services we provide and on our website.
 
-**We collect your email address in order to:**  
-**To be in accordance with CANSPAM we agree to the following:**
+All personal information from you and about you may be erased on your request. The information may be kept for longer under applicable law. Against this background, we will complete the deletion upon being relinquished from our lawful obligations. All information is erased from our active database. Information may be archived and used later under applicable law.
 
-**  
-If at any time you would like to unsubscribe from receiving future emails, you can**
+Institutions such as, but not limited to governmental agencies or law enforcement agencies may require us to disclose information we collect and store. We reserve the right to disclose information requested to the extent of applicable law.
 
-and we will promptly remove you from **ALL** correspondence.
+  6. **INFORMATION SECURITY**
 
-If there are any questions regarding this privacy policy you may contact us using the information below.
+
+
+We respect your right to privacy and as such we strive to provide the most secure environment for the collection and storage of your information, both personal and non-personally identifying. We’ve put the system in place that should guarantee the security of information and protect against such instance as, but not limited to loss, unauthorized use, theft or modification.
+
+However, no system is infallible. As such, if you have grounds to believe that your access and use of the website or any information you provided us is insecure or tackled with, please [contact us](http://www.wallstreetotc.com/contacts/) and notify the issue.
+
+We do not guarantee the safety and security standards of your own software and hardware. We are not liable for any and all information loss or damages arising from security issues with your hardware and software.
+
+  7. **CHILDREN PROTECTION**
+
+
+
+Parents are advised to control their children’s online activity. Our website and the content provided here is not intended for children. In order to access our website and services, one must be at least 13 years of age. Unless you comply with this requirement, please cease accessing and using the website.
+
+By accessing and using the website and services, you acknowledge you are above the age of 13. We do not knowingly collect and store any information on users below this age.
+
+  8. **OTHER INFORMATION**
+
+
+
+Our Privacy Policy, as well as the Terms of Use governing your use of the website and services may change periodically. Thus, we advise you to visit this page regularly and check the last date when the Privacy Policy was updated.
+
+Continuing to access and use our website and services implies your agreement with both the Privacy Policy and the Terms of Use.
+
+If you have any questions, please do not hesitate to contact us.
