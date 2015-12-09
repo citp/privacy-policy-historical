@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the chaibisket.com privacy policy that was archived on 2015-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150624084134id_/http%3A//chaibisket.com/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chaibisket.com privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209055514id_/http%3A//chaibisket.com/privacy-policy-2) for the most accurate reproduction.*
 
-# Privacy Policy - Chai Bisket
+# Privacy Policy | Chai Bisket |
 
 In order to receive information about your Personal Data, the purposes and the parties the Data is shared with, contact the Owner.
 
