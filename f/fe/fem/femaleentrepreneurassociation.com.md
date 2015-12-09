@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the femaleentrepreneurassociation.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609231231id_/http%3A//femaleentrepreneurassociation.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the femaleentrepreneurassociation.com privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209044552id_/http%3A//femaleentrepreneurassociation.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Female Entrepreneur Association
 
@@ -75,5 +75,3 @@ In accordance with the Data Protection Act 1998 you have the right to access any
 Please do not hesitate to contact us regarding any matter relating to this Privacy and Cookies Policy via email at [info@femaleentrepreneurassociation.com](mailto:info@femaleentrepreneurassociation.com)
 
 PO Box 164, Stockport, SK7 3WH, UK.
-
-### Comments
