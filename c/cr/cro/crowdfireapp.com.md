@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the crowdfireapp.com privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630055536id_/http%3A//www.crowdfireapp.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crowdfireapp.com privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209070438id_/http%3A//www.crowdfireapp.com/privacy.html) for the most accurate reproduction.*
 
-# Crowdfire - Privacy Policy
+# Privacy Policy - Crowdfire
 
 ### INTRODUCTION
 
