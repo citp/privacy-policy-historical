@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the rarediseases.org privacy policy that was archived on 2015-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150407233925id_/http%3A//rarediseases.org/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rarediseases.org privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209143201id_/http%3A//rarediseases.org/privacy) for the most accurate reproduction.*
 
-# Privacy Policy — National Organization for Rare Disorders
+# Privacy - NORD (National Organization for Rare Disorders)
 
-The National Organization for Rare Disorders has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this Web site: National Organization for Rare Disorders (NORD), [http://www.rarediseases.org](http://www.rarediseases.org/front-page)
+The National Organization for Rare Disorders has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this Web site: National Organization for Rare Disorders (NORD), http://www.rarediseases.org
 
 #### Cookies
 
-Your Internet browser has a feature called "cookies" which store small amounts of data on your computer about your visit to NORD. Our site uses cookies to keep track of your shopping cart and to save your password so you don't have to re-enter it each time you are required to log in. In the future, cookies may be used to deliver content specific to your interest.
+Your Internet browser has a feature called “cookies” which store small amounts of data on your computer about your visit to NORD. Our site uses cookies to keep track of your shopping cart and to save your password so you don’t have to re-enter it each time you are required to log in. In the future, cookies may be used to deliver content specific to your interest.
 
 #### Traffic Data
 
@@ -18,7 +18,7 @@ Your name or other information will not be shared with third parties unless you 
 
 #### Links
 
-NORD's Web site contains links to other Web sites. NORD is not responsible for the privacy practices or the content of such Web sites.
+NORD’s Web site contains links to other Web sites. NORD is not responsible for the privacy practices or the content of such Web sites.
 
 #### Security
 
@@ -30,16 +30,17 @@ We care about the safety and security of your transaction. We use SSL (Secure So
 
 #### Order Forms
 
-Our site uses an order form for customers to request information, products, and services. We collect contact information (like e-mail address), and financial information (like account or credit card numbers). Contact information from the order forms is used to ship purchases, and may be used to send information about our organization. The customer's contact information is also used to get in touch with the visitor when necessary. Users may opt-out of receiving future mailings by sending an e-mail to [orphan@rarediseases.org](mailto:orphan@rarediseases.org) or sending a letter to the following postal address:
+Our site uses an order form for customers to request information, products, and services. We collect contact information (like e-mail address), and financial information (like account or credit card numbers). Contact information from the order forms is used to ship purchases, and may be used to send information about our organization. The customer’s contact information is also used to get in touch with the visitor when necessary. Users may opt-out of receiving future mailings by sending an e-mail to orphan@rarediseases.org or sending a letter to the following postal address:
 
-_National Organization for Rare Disorders  
+#### National Organization for Rare Disorders
+
 55 Kenosia Avenue  
-Danbury, CT 06810_
+Danbury, CT 06810
 
 #### News Blasts
 
-NORD offers a periodic e-mail service to those who are interested in hearing about the latest news in the rare disease community. These "News Blasts" are strictly opt-in. You will not receive them unless you have voluntary subscribed to the service. If you ever wish to modify your address or unsubscribe, please send an e-mail to [nord@rarediseases.org](mailto:nord@rarediseases.org).
+NORD offers a periodic e-mail service to those who are interested in hearing about the latest news in the rare disease community. These “News Blasts” are strictly opt-in. You will not receive them unless you have voluntary subscribed to the service. If you ever wish to modify your address or unsubscribe, please send an e-mail to nord@rarediseases.org.
 
 #### Contacting NORD
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you may [contact us here](http://www.rarediseases.org/about/contact-us).
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you may contact us [here](https://web.archive.org/contact-us).
