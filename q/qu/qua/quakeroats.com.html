@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the quakeroats.com privacy policy that was archived on 2015-06-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150610030817id_/http%3A//www.quakeroats.com/privacy-policy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the quakeroats.com privacy policy that was archived on 2015-12-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151209190811id_/http%3A//www.quakeroats.com/privacy-policy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" class=" js "><head id="Head1"><meta charset="utf-8"><meta http-equiv="X-UA-Compatible" content="IE=edge, chrome=1"><meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=yes, maximum-scale=1"><meta name="description" content="Quaker Oats Privacy Policy. "><meta name="author" content="Pepsi"><meta http-equiv="cache-control" content="no-cache"><title>
 	Privacy Policy | QuakerOats.com
@@ -14,7 +14,7 @@
       <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
     <![endif]-->
 
-    <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" defer="" async="" src="https://cdn.evergage.com/beacon/zetainteractive/quaker_oats/scripts/evergage.min.js"></script><script src="//w.ahalogy.com/"></script><script type="text/javascript" async="" src="https://www.google.com/cse/cse.js?cx=005789579034799393676:_h_apncau64"></script><script src="/Sitefinity/WebsiteTemplates/Quaker/Js/jquery.min.js"></script>
+    <script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-P8LK38"></script><script type="text/javascript" defer="" async="" src="https://cdn.evergage.com/beacon/zetainteractive/quaker_oats/scripts/evergage.min.js"></script><script src="//w.ahalogy.com/"></script><script type="text/javascript" async="" src="https://www.google.com/cse/cse.js?cx=005789579034799393676:_h_apncau64"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script src="/Sitefinity/WebsiteTemplates/Quaker/Js/jquery.min.js"></script>
     <script src="/Sitefinity/WebsiteTemplates/Quaker/Js/jquery-ui.min.js"></script>
     <!--<script src="/Sitefinity/WebsiteTemplates/Quaker/Js/jquery.touchwipe.min.js"></script>-->
     <script src="/Sitefinity/WebsiteTemplates/Quaker/Js/jquery.menu-aim.js"></script>
@@ -31,6 +31,7 @@
     
     <script type="text/javascript">
         function RedirectHome() {
+            ga('send', 'event', 'Global Navigation', 'Logo', 'Home');
             window.location.href = "/";
         }
 
@@ -49,7 +50,7 @@
 
         function SearchRecipe() {
             if (ValidateTxt()) {
-
+                ga('send', 'event', 'Global Header', 'Site Search');
                 var searchvalue = "";
                 if (navigator.userAgent.match(/Mobi/)) {
                     searchvalue = document.getElementById("mtxtFindRecipe").value;
@@ -148,8 +149,35 @@
             SearchRecipe();
         }
 
-    </script>
+(function($) {
+            $(function() {
+            $('body').on('click', '[data-ga-tracking]', function() {
+                    var defaults = {
+                        'hitType': 'event'
+                    };
 
+                    var gaObj = $(this).data('ga-tracking');
+                    gaObj = $.extend(defaults, gaObj);
+
+                    window.ga('send', gaObj);
+                });
+            });
+        } (jQuery));
+        (function(i, s, o, g, r, a, m) {
+            i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function() {
+                (i[r].q = i[r].q || []).push(arguments)
+            }, i[r].l = 1 * new Date(); a = s.createElement(o),
+            m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+        })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+        window.ga = ga;
+        ga('create', 'UA-28148907-2', 'auto');
+        ga('require', 'displayfeatures');
+        ga('send', 'pageview');
+
+        
+
+
+    </script>
     
     <script type="text/javascript">
         (function () {
@@ -315,7 +343,7 @@
 
 
 
-<meta name="Generator" content="Sitefinity 7.0.5100.0 PE"><link rel="canonical" href="http://www.quakeroats.com/privacy-policy.aspx"><style type="text/css" media="all">
+<meta name="Generator" content="Sitefinity 7.0.5100.0 PE"><style type="text/css" media="all">
     .bg-img {
         background: transparent url('/Sitefinity/WebsiteTemplates/Quaker/images/quaker-sub-page-body-bkg.gif') repeat-y top center;
         float: left;
@@ -364,6 +392,7 @@
 
     .no-space {
         margin: 0px 0px !important;
+  	font-size: 16px;
     }
 
    
@@ -371,39 +400,46 @@
 .fb_dialog{background:rgba(82, 82, 82, .7);position:absolute;top:-10000px;z-index:10001}.fb_reset .fb_dialog_legacy{overflow:visible}.fb_dialog_advanced{padding:10px;-moz-border-radius:8px;-webkit-border-radius:8px;border-radius:8px}.fb_dialog_content{background:#fff;color:#333}.fb_dialog_close_icon{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/yq/r/IE9JII6Z1Ys.png) no-repeat scroll 0 0 transparent;cursor:pointer;display:block;height:15px;position:absolute;right:18px;top:17px;width:15px}.fb_dialog_mobile .fb_dialog_close_icon{top:5px;left:5px;right:auto}.fb_dialog_padding{background-color:transparent;position:absolute;width:1px;z-index:-1}.fb_dialog_close_icon:hover{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/yq/r/IE9JII6Z1Ys.png) no-repeat scroll 0 -15px transparent}.fb_dialog_close_icon:active{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/yq/r/IE9JII6Z1Ys.png) no-repeat scroll 0 -30px transparent}.fb_dialog_loader{background-color:#f6f7f9;border:1px solid #606060;font-size:24px;padding:20px}.fb_dialog_top_left,.fb_dialog_top_right,.fb_dialog_bottom_left,.fb_dialog_bottom_right{height:10px;width:10px;overflow:hidden;position:absolute}.fb_dialog_top_left{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/ye/r/8YeTNIlTZjm.png) no-repeat 0 0;left:-10px;top:-10px}.fb_dialog_top_right{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/ye/r/8YeTNIlTZjm.png) no-repeat 0 -10px;right:-10px;top:-10px}.fb_dialog_bottom_left{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/ye/r/8YeTNIlTZjm.png) no-repeat 0 -20px;bottom:-10px;left:-10px}.fb_dialog_bottom_right{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/ye/r/8YeTNIlTZjm.png) no-repeat 0 -30px;right:-10px;bottom:-10px}.fb_dialog_vert_left,.fb_dialog_vert_right,.fb_dialog_horiz_top,.fb_dialog_horiz_bottom{position:absolute;background:#525252;filter:alpha(opacity=70);opacity:.7}.fb_dialog_vert_left,.fb_dialog_vert_right{width:10px;height:100%}.fb_dialog_vert_left{margin-left:-10px}.fb_dialog_vert_right{right:0;margin-right:-10px}.fb_dialog_horiz_top,.fb_dialog_horiz_bottom{width:100%;height:10px}.fb_dialog_horiz_top{margin-top:-10px}.fb_dialog_horiz_bottom{bottom:0;margin-bottom:-10px}.fb_dialog_iframe{line-height:0}.fb_dialog_content .dialog_title{background:#6d84b4;border:1px solid #365899;color:#fff;font-size:14px;font-weight:bold;margin:0}.fb_dialog_content .dialog_title>span{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/yd/r/Cou7n-nqK52.gif) no-repeat 5px 50%;float:left;padding:5px 0 7px 26px}body.fb_hidden{-webkit-transform:none;height:100%;margin:0;overflow:visible;position:absolute;top:-10000px;left:0;width:100%}.fb_dialog.fb_dialog_mobile.loading{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/ya/r/3rhSv5V8j3o.gif) white no-repeat 50% 50%;min-height:100%;min-width:100%;overflow:hidden;position:absolute;top:0;z-index:10001}.fb_dialog.fb_dialog_mobile.loading.centered{width:auto;height:auto;min-height:initial;min-width:initial;background:none}.fb_dialog.fb_dialog_mobile.loading.centered #fb_dialog_loader_spinner{width:100%}.fb_dialog.fb_dialog_mobile.loading.centered .fb_dialog_content{background:none}.loading.centered #fb_dialog_loader_close{color:#fff;display:block;padding-top:20px;clear:both;font-size:18px}#fb-root #fb_dialog_ipad_overlay{background:rgba(0, 0, 0, .45);position:absolute;bottom:0;left:0;right:0;top:0;width:100%;min-height:100%;z-index:10000}#fb-root #fb_dialog_ipad_overlay.hidden{display:none}.fb_dialog.fb_dialog_mobile.loading iframe{visibility:hidden}.fb_dialog_content .dialog_header{-webkit-box-shadow:white 0 1px 1px -1px inset;background:-webkit-gradient(linear, 0% 0%, 0% 100%, from(#738ABA), to(#2C4987));border-bottom:1px solid;border-color:#1d4088;color:#fff;font:14px Helvetica, sans-serif;font-weight:bold;text-overflow:ellipsis;text-shadow:rgba(0, 30, 84, .296875) 0 -1px 0;vertical-align:middle;white-space:nowrap}.fb_dialog_content .dialog_header table{-webkit-font-smoothing:subpixel-antialiased;height:43px;width:100%}.fb_dialog_content .dialog_header td.header_left{font-size:12px;padding-left:5px;vertical-align:middle;width:60px}.fb_dialog_content .dialog_header td.header_right{font-size:12px;padding-right:5px;vertical-align:middle;width:60px}.fb_dialog_content .touchable_button{background:-webkit-gradient(linear, 0% 0%, 0% 100%, from(#4966A6), color-stop(.5, #355492), to(#2A4887));border:1px solid #29487d;-webkit-background-clip:padding-box;-webkit-border-radius:3px;-webkit-box-shadow:rgba(0, 0, 0, .117188) 0 1px 1px inset, rgba(255, 255, 255, .167969) 0 1px 0;display:inline-block;margin-top:3px;max-width:85px;line-height:18px;padding:4px 12px;position:relative}.fb_dialog_content .dialog_header .touchable_button input{border:none;background:none;color:#fff;font:12px Helvetica, sans-serif;font-weight:bold;margin:2px -12px;padding:2px 6px 3px 6px;text-shadow:rgba(0, 30, 84, .296875) 0 -1px 0}.fb_dialog_content .dialog_header .header_center{color:#fff;font-size:16px;font-weight:bold;line-height:18px;text-align:center;vertical-align:middle}.fb_dialog_content .dialog_content{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/y9/r/jKEcVPZFk-2.gif) no-repeat 50% 50%;border:1px solid #555;border-bottom:0;border-top:0;height:150px}.fb_dialog_content .dialog_footer{background:#f6f7f9;border:1px solid #555;border-top-color:#ccc;height:40px}#fb_dialog_loader_close{float:left}.fb_dialog.fb_dialog_mobile .fb_dialog_close_button{text-shadow:rgba(0, 30, 84, .296875) 0 -1px 0}.fb_dialog.fb_dialog_mobile .fb_dialog_close_icon{visibility:hidden}#fb_dialog_loader_spinner{animation:rotateSpinner 1.2s linear infinite;background-color:transparent;background-image:url(https://static.xx.fbcdn.net/rsrc.php/v3/yD/r/t-wz8gw1xG1.png);background-repeat:no-repeat;background-position:50% 50%;height:24px;width:24px}@keyframes rotateSpinner{0%{transform:rotate(0deg)}100%{transform:rotate(360deg)}}
 .fb_iframe_widget{display:inline-block;position:relative}.fb_iframe_widget span{display:inline-block;position:relative;text-align:justify}.fb_iframe_widget iframe{position:absolute}.fb_iframe_widget_fluid_desktop,.fb_iframe_widget_fluid_desktop span,.fb_iframe_widget_fluid_desktop iframe{max-width:100%}.fb_iframe_widget_fluid_desktop iframe{min-width:220px;position:relative}.fb_iframe_widget_lift{z-index:1}.fb_hide_iframes iframe{position:relative;left:-10000px}.fb_iframe_widget_loader{position:relative;display:inline-block}.fb_iframe_widget_fluid{display:inline}.fb_iframe_widget_fluid span{width:100%}.fb_iframe_widget_loader iframe{min-height:32px;z-index:2;zoom:1}.fb_iframe_widget_loader .FB_Loader{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/y9/r/jKEcVPZFk-2.gif) no-repeat;height:32px;width:32px;margin-left:-16px;position:absolute;left:50%;z-index:4}</style><script src="/foresee/foresee-surveydef.js" type="text/javascript" id="foresee-surveydef"></script></head>
 <body>
+
+    <!-- Google Tag Manager -->
+    <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-P8LK38"
+    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <script>    (function(w, d, s, l, i) {
+            w[l] = w[l] || []; w[l].push({ 'gtm.start':
+    new Date().getTime(), event: 'gtm.js'
+            }); var f = d.getElementsByTagName(s)[0],
+    j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+    '//www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-P8LK38');</script>
+    <!-- End Google Tag Manager -->
+
     <!-- Start of DoubleClick Floodlight Tag: Please do not remove -->
     <script type="text/javascript">
         var axel = Math.random() + "";
         var a = axel * 10000000000000;
         document.write('<iframe src="https://823287.fls.doubleclick.net/activityi;src=823287;type=2014Q-;cat=HomeP-;ord=' + a + '?" width="1" height="1" frameborder="0" style="display:none"></iframe>');
-    </script><iframe src="https://823287.fls.doubleclick.net/activityi;src=823287;type=2014Q-;cat=HomeP-;ord=9123115781726.076?" width="1" height="1" frameborder="0" style="display:none"></iframe>
+    </script><iframe src="https://823287.fls.doubleclick.net/activityi;src=823287;type=2014Q-;cat=HomeP-;ord=4316970857180.4043?" width="1" height="1" frameborder="0" style="display:none"></iframe>
     <noscript>
         <iframe src="https://823287.fls.doubleclick.net/activityi;src=823287;type=2014Q-;cat=HomeP-;ord=1?" width="1" height="1" frameborder="0" style="display:none"></iframe>
     </noscript>
     <!-- End of DoubleClick Floodlight Tag: Please do not remove -->
 
 <div id="wrapperMain">
-    <form method="post" action="privacy-policy.aspx" id="form1">
+    <form method="post" action="./privacy-policy" id="form1">
 <input type="hidden" name="ctl20_TSSM" id="ctl20_TSSM" value="">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKLTUwNTU0MDE3OQ9kFgICAQ9kFgJmD2QWBGYPZBYCAgMPFgIeB2NvbnRlbnQFHFF1YWtlciBPYXRzIFByaXZhY3kgUG9saWN5LiBkAgEPZBYIAgMPFgIeBXN0eWxlBQ5kaXNwbGF5OiBibG9ja2QCBQ8WAh8BBQ1kaXNwbGF5OiBub25lZAIHDxYCHglpbm5lcmh0bWwFDlByaXZhY3kgUG9saWN5ZAIJDxYCHwJlZGSt0JU3JbxYY4P0r6LbLVuTICWgog==">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKLTUwNTU0MDE3OQ9kFgICAQ9kFgJmD2QWBGYPZBYCAgMPFgIeB2NvbnRlbnQFHFF1YWtlciBPYXRzIFByaXZhY3kgUG9saWN5LiBkAgEPZBYIAgMPFgIeBXN0eWxlBQ5kaXNwbGF5OiBibG9ja2QCBQ8WAh8BBQ1kaXNwbGF5OiBub25lZAIHDxYCHglpbm5lcmh0bWwFDlByaXZhY3kgUG9saWN5ZAIJDxYCHwJlZGT1CNI0hT5OWfv6WwF+80dFEyORYg==">
 
 
-<script src="/ScriptResource.axd?d=PaBZWMLKBwGV91-ckz-3rAf0b8upAcymCg6uc-10sUqhLUqHjc4KsG_l_obDixS7LOkBd8jNqtL7GuYf1EgvTiC0pQdBRZgC9qlDILm_Y5N7oj_6ONhzhsMuhjtKjI2RdWQ1GFT3FcMnx5tRTeNogPlYY97ksj9YzY0DUJmOaDs6314d0&amp;t=6119e399" type="text/javascript"></script>
-<script type="text/javascript">
-//<![CDATA[
-if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side framework failed to load.');
-//]]>
-</script>
-
+<script src="/ScriptResource.axd?d=zm9QP4oCHYik8EWdn-m_0zISB9fVOUf_UiodFBbOG0MDmr7DDUsJOUl_EohT9LyhN6dpAihy4n8XEzj_ILVxLTuVPqXHY8T1RSkKx0KFxifufiNQaQHV4SLcWt_r0Yg7p-_xNow6c7eERQr8ksNJsP6uhY01&amp;t=5f9d5645" type="text/javascript"></script>
         
         <!--Hamburger Menu For mobile-->
         <div class="popup-menu" style="display: none"></div>
         <div id="navbar-out" class="left-easing"></div>
         <div class="cbp-spmenu cbp-spmenu-vertical cbp-spmenu-right sidr right" id="sidr">
             <div class="searchBox">
-                <a href="#" class="submitBtn" onclick="_gaq.push(['_trackEvent', 'Global Search Functionality', document.URL]);">
+                <a href="#" class="submitBtn" onclick="ga('send', 'event', 'Global Header', 'Site Search');">
                     <img src="/Sitefinity/WebsiteTemplates/Quaker/Images/search-icon.png" onclick="SearchRecipe();" alt="" class="mobile-search"></a>
-                <input type="text" name="" autocomplete="off" value="" id="mtxtFindRecipe" placeholder="Search" onkeypress="gaq.push(['_trackEvent', 'Global Search Functionality', document.URL]);" class="ui-autocomplete-input">
+                <input type="text" name="" autocomplete="off" value="" id="mtxtFindRecipe" placeholder="Search" onkeypress="ga('send', 'event', 'Global Header', 'Site Search');">
             </div>
             <ul class="menu-list">
                 <li class="menu-item">
@@ -449,6 +485,12 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
                             <a href="/cooking-and-recipes/recipe-search-results.aspx?filter=Snack">Snack</a>
                         </li>
                         <li class="menu-item">
+                            <a href="/cooking-and-recipes/content/baking-101/welcome-to-baking-101.aspx">Baking 101</a>
+                        </li>
+			<li class="menu-item">
+                            <a href="/cooking-and-recipes/overnightoats">Overnight Oats</a>
+                        </li>
+                        <li class="menu-item">
                             <a href="/cooking-and-recipes">All Recipes</a>
                         </li>
                     </ul>
@@ -458,6 +500,9 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
                     <ul>
                         <li class="menu-item">
                             <a href="/about-quaker-oats/content/quaker-history.aspx">Quaker History</a>
+                        </li>
+                        <li class="menu-item">
+                            <a href="/oats-do-more/why-oats/our-oat-story.aspx">Our Oat Story</a>
                         </li>
                         <li class="menu-item">
                             <a href="/about-quaker-oats/content/quaker-faq.aspx">Quaker FAQS</a>
@@ -471,8 +516,11 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
                         <li class="menu-item">
                             <a href="https://cu.pepsico.com/quaker">Contact Quaker</a>
                         </li>
+						<li class="menu-item">
+                            <a href="/about-quaker-oats/content/quaker-faq-gluten-free.aspx">Quaker Gluten Free FAQ</a>
+                        </li>
                         <li class="menu-item">
-                            <a href="/about-quaker-oats.aspx">About Quaker</a>
+                            <a href="/about-quaker-oats/content/off-you-go.aspx">Off you Go</a>
                         </li>
                     </ul>
                 </li>
@@ -484,7 +532,7 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
                 <li class="menu-item-bar">
                     
                     <a href="/loginregister.aspx?signin=True" id="amSignUser" style="display: block">Sign In/Sign Up </a>
-                    <a href="/home.aspx?Logout=true" id="amLogout" style="display: none">Logout</a>
+                    <a href="/home.aspx?Logout=true" id="amLogout" style="display: none" onclick="ga('send', 'event', 'Logout', 'Logout');">Logout</a>
                 </li>
                 <li class="menu-item-bar">
                     <a href="/products/product-locator.aspx">Where To Buy</a>
@@ -498,7 +546,7 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
             <li class="menu-item-bar">
                 <a href="#">Privacy </a>
             </li> -->
-                <li class="menu-item-bar">
+               <li class="menu-item-bar">
                     <a href="/about-quaker-oats/content/quaker-faq.aspx">FAQ </a>
                 </li>
                 <li class="menu-item-bar">
@@ -511,7 +559,7 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
         </div>
         <!--End of Hamburger Menu For mobile-->
         <!-- HAMBURGER MENU LINK -->
-        <a id="hamburgerLink" href="#sidr">&nbsp;</a>
+        <a id="hamburgerLink" href="#sidr" onclick="ga('send','event','Mobile Menu','Open to View Menu');">&nbsp;</a>
 
 
         <header>
@@ -551,18 +599,18 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
                     <div id="subMenuWrapper">
 
                         <ul class="signInMenu">
-                            <li class="beforelogin"><a href="/loginregister.aspx?signin=True" class="border" onclick="_gaq.push(['_trackEvent', 'sign_in', document.URL]);">Sign In</a></li>
-                            <li class="beforelogin"><a href="/loginregister.aspx" class="arrow" onclick="_gaq.push(['_trackEvent', 'sign_up', document.URL]);">Sign Up</a></li>
+                            <li class="beforelogin"><a href="/loginregister.aspx?signin=True" class="border" onclick="ga('send', 'event', 'Global Header', 'Sign In');">Sign In</a></li>
+                            <li class="beforelogin"><a href="/loginregister.aspx" class="arrow" onclick="ga('send', 'event', 'Global Header', 'Sign Up');">Sign Up</a></li>
                             <li class="afterlogin"><a href="/myprofile.aspx" class="border noCaps">Welcome, <span id="spnSignUser"></span></a></li>
                             <li class="afterlogin"><a href="/home.aspx?Logout=true" class="">Logout</a></li>
-                            <li><a href="/products/product-locator.aspx" class="arrow" onclick="_gaq.push(['_trackEvent', 'product_locator', document.URL]);">Where to buy</a></li>
-                            <li><a href="/espanol" class="arrow" target="_blank" onclick="_gaq.push(['_trackEvent', 'espanol', document.URL]);">español</a></li>
+                            <li><a href="/products/product-locator.aspx" class="arrow" onclick="ga('send', 'event', 'Global Header', 'Where to Buy');">Where to buy</a></li>
+                            <li><a href="/espanol" class="arrow" target="_blank" onclick="ga('send', 'event', 'Global Header', 'Espanol', 'Site Exit - Spanish Site');">español</a></li>
                             <li class="li-fist" style="margin-top: -5px; margin-left: 5px;">
 
-                                <a target="_Facebook" onclick="FaceBookClick()" href="http://www.facebook.com/quaker" class="social-icon facebookHeader" title="Connect with Quaker on Facebook"></a>
-                                <a target="_Twitter" onclick="TwitterClick()" href="http://twitter.com/Quaker" class="social-icon twitterHeader" title="Connect with Quaker on Twitter"></a>
-                                <a target="_Google" onclick="GoogleClick()" href="https://www.pinterest.com/quaker/" class="social-icon googleHeader" title="Connect with Quaker on pinterest"></a>
-                                <a target="_Youtube" onclick="YouTubeClick()" href="http://www.youtube.com/Quaker" class="social-icon youTubeHeader" style="margin-right: 0px;" title="Connect with Quaker on YouTube"></a>
+                                <a target="_Facebook" href="http://www.facebook.com/quaker" class="social-icon facebookHeader" title="Connect with Quaker on Facebook" onclick="ga('send', 'event', 'Global Header', 'Facebook', 'Site Exit - QO Facebook Page');"></a>
+                                <a target="_Twitter" href="http://twitter.com/Quaker" class="social-icon twitterHeader" title="Connect with Quaker on Twitter" onclick="ga('send', 'event', 'Global Header', 'Twitter', 'Site Exit - QO Twitter Page');"></a>
+                                <a target="_Google" href="https://www.pinterest.com/quaker/" class="social-icon googleHeader" title="Connect with Quaker on pinterest" onclick="ga('send', 'event', 'Global Header', 'Pinterest', 'Site Exit - QO Pinterest Page');"></a>
+                                <a target="_Youtube" href="http://www.youtube.com/Quaker" class="social-icon youTubeHeader" style="margin-right: 0px;" title="Connect with Quaker on YouTube" onclick="ga('send', 'event', 'Global Header', 'You Tube', 'Site Exit - QO YouTube Page');"></a>
 
                             </li>
                         </ul>
@@ -571,7 +619,7 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
                         <div class="signInSearch">
                             <div>
                                 <div>
-                                    <input type="text" id="txtFindRecipe" name="txtFindRecipe" autocomplete="off" value="" placeholder="SEARCH" class="search-area ui-autocomplete-input">
+                                    <input type="text" id="txtFindRecipe" name="txtFindRecipe" autocomplete="off" value="" placeholder="SEARCH" class="search-area">
                                     <a href="#" class="Headersearch-icon" onclick="SearchRecipe();"></a>
                                 </div>
                             </div>
@@ -595,115 +643,142 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
 
                     <ul class="nav navbar-nav mainNav">
                         <li class="quakerProducts">
-                            <a href="/products.aspx">Quaker <span>Products</span></a>
+                            <a href="/products.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Products', 'Top Nav Item');">Quaker <span>Products</span></a>
                             <ul class="first-level">
                                 <li>
-                                    <a href="/products/hot-cereals.aspx">Quaker Hot Cereals</a>
+                                    <a href="/products/hot-cereals.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Products - Category', 'Hot Cereals');">Quaker Hot Cereals</a>
                                     <ul class="second-level">
                                         <li>
-                                            <a href="/product/hot-cereals/Old-Fashioned-Oats-Quick-oats.aspx">Old Fashioned &amp; Quick oats</a>
+                                            <a href="/product/hot-cereals/Old-Fashioned-Oats-Quick-oats.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Products - Hot Cereal', 'Old Fashioned &amp; Quick Oats');">Old Fashioned &amp; Quick Oats</a>
                                             <ul class="third-level">
-                                                <li><a href="/products/hot-cereals/old-fashioned-oats.aspx">SQO Old Fashioned
+                                                <li><a href="/products/hot-cereals/old-fashioned-oats.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Products - Hot Cereal', 'SQO Old Fashioned');">Old Fashioned
                                                 </a></li>
-                                                <li><a href="/products/hot-cereals/quick-oats.aspx">SQO Quick 1 Minute
+                                                <li><a href="/products/hot-cereals/quick-oats.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Products - Hot Cereal', 'SQO Quick 1 Minute');">Quick 1 Minute
                                                 </a></li>
                                             </ul>
                                         </li>
                                         <li>
-                                            <a href="/products/hot-cereals/InstantOatmeal.aspx">Instant Oatmeal</a>
+                                            <a href="/products/hot-cereals/InstantOatmeal.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Products - Hot Cereal', 'Instant Oatmeal');">Instant Oatmeal</a>
                                             <ul class="third-level">
-                                                <li><a href="/products/hot-cereals/InstantOatmeal/Classic-Flavors.aspx">Classic Flavors</a></li>
-                                                <li><a href="/products/hot-cereals/InstantOatmeal/Protein.aspx">Protein</a></li>
-                                                <li><a href="/products/hot-cereals/InstantOatmeal/Lower-Sugar.aspx">Lower Sugar</a></li>
-                                                <li><a href="/products/hot-cereals/InstantOatmeal/High-Fiber.aspx">High Fiber</a></li>
-                                                <li><a href="/products/hot-cereals/InstantOatmeal/Weight-Control.aspx">Weight Control</a></li>
-                                                <li><a href="/products/hot-cereals/InstantOatmeal/Organic.aspx">Organic</a></li>
+                                                <li><a href="/products/hot-cereals/InstantOatmeal/Classic-Flavors.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Products - Hot Cereal', 'IQO Regular');">Classic Flavors</a></li>
+                                                <li><a href="/products/hot-cereals/InstantOatmeal/Protein.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Products - Hot Cereal', 'IQO Protein');">Protein</a></li>
+                                                <li><a href="/products/hot-cereals/InstantOatmeal/Lower-Sugar.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Products - Hot Cereal', 'IQO Lower Sugar');">Lower Sugar</a></li>
+                                                <li><a href="/products/hot-cereals/InstantOatmeal/High-Fiber.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Products - Hot Cereal', 'IQO High Fiber');">High Fiber</a></li>
+                                                <li><a href="/products/hot-cereals/InstantOatmeal/Weight-Control.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Products - Hot Cereal', 'IQO Weight Control');">Weight Control</a></li>
+                                                <li><a href="/products/hot-cereals/InstantOatmeal/Organic.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Products - Hot Cereal', 'IQO Organic');">Organic</a></li>
                                             </ul>
                                         </li>
                                         <li>
-                                            <a href="/product/hot-cereals/Steel-Cut-Oats.aspx">Steel Cut Oats</a>
+                                            <a href="/product/hot-cereals/Steel-Cut-Oats.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Products - Hot Cereal', 'Steel Cut Oats');">Steel Cut Oats</a>
                                             <ul class="third-level">
-                                                <li><a href="/products/hot-cereals/steel-cut-oats.aspx">Steel Cut Oats
+                                                <li><a href="/products/hot-cereals/steel-cut-oats.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Products - Hot Cereal', 'Steel Cut Oats');">Steel Cut Oats
                                                 </a></li>
-                                                <li><a href="/products/hot-cereals/steel-cut-oats-quick-cook.aspx">Steel Cut 3 Minute
+                                                <li><a href="/products/hot-cereals/steel-cut-oats-quick-cook.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Products - Hot Cereal', 'Steel Cut 3 Minute');">Steel Cut 3 Minute
                                                 </a></li>
-                                                <li><a href="/products/hot-cereals/steel-cut-oats-quick-cook-brownsugar-cinnamon.aspx">Steel Cut 3 Minute Brown Sugar Cinnamon
+                                                <li><a href="/products/hot-cereals/steel-cut-oats-quick-cook-brownsugar-cinnamon.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Products - Hot Cereal', 'Steel Cut 3 Minute Brown Sugar &amp; Cinnamon');">Steel Cut 3 Minute Brown Sugar &amp; Cinnamon
                                                 </a></li>
-                                                <li><a href="/products/hot-cereals/steel-cut-oats-quick-cook-blueberries-cranberries.aspx">Steel Cut 3 Minute Blueberry Cranberry
-                                                </a></li>
-                                            </ul>
-                                        </li>
-                                        <li>
-                                            <a href="/product/hot-cereals/real-medleys-oatmeal.aspx">Real Medleys® Oatmeal+</a>
-                                            <ul class="third-level">
-                                                <li><a href="/products/hot-cereals/real-medleys/apple-walnut-oatmeal.aspx">Real Medleys® Oatmeal + Apple Walnut
-                                                </a></li>
-                                                <li><a href="/products/hot-cereals/real-medleys/summer-berry-oatmeal.aspx">Real Medleys® Oatmeal + Summer Berry
-                                                </a></li>
-                                                <li><a href="/products/hot-cereals/real-medleys/blueberry-hazelnut-oatmeal.aspx">Real Medleys® Oatmeal + Blueberry Hazelnut
-                                                </a></li>
-                                                <li><a href="/products/hot-cereals/real-medleys/peach-almond-oatmeal.aspx">Real Medleys® Oatmeal + Peach Almond
-                                                </a></li>
-                                                <li><a href="/products/hot-cereals/real-medleys/banana-walnut-oatmeal.aspx">Real Medleys® Oatmeal + SuperGrains Banana Walnut
-                                                </a></li>
-                                                <li><a href="/products/hot-cereals/real-medleys/maple-raisin-oatmeal.aspx">Real Medleys® Oatmeal + SuperGrains Maple Pecan Raisin
+                                                <li><a href="/products/hot-cereals/steel-cut-oats-quick-cook-blueberries-cranberries.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Products - Hot Cereal', 'Steel Cut 3 Minute Blueberries &amp; Cranberries');">Steel Cut 3 Minute Blueberries &amp; Cranberries
                                                 </a></li>
                                             </ul>
                                         </li>
                                         <li>
-                                            <a href="/product/hot-cereals/Instant-Oatmeal-Cups.aspx">Instant Oatmeal Cups</a>
+                                            <a href="/product/hot-cereals/real-medleys-oatmeal.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Products - Hot Cereal', 'Real Medleys Oatmeal');">Real Medleys®</a>
                                             <ul class="third-level">
-                                                <li><a href="/products/hot-cereals/instant-oatmeal-cups/maple-and-brown-sugar.aspx">IQO Cup Maple Brown Sugar
+                                                <li><a href="/products/hot-cereals/real-medleys/apple-walnut-oatmeal.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Products - Hot Cereal', 'RM Oatmeal + Apple Walnut');">Real Medleys® Oatmeal + Apple Walnut
                                                 </a></li>
-                                                <li><a href="/products/hot-cereals/instant-oatmeal-cups/apples-and-cinnamon.aspx">IQO Cup Apple &amp; Cinnamon
+                                                <li><a href="/products/hot-cereals/real-medleys/summer-berry-oatmeal.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Products - Hot Cereal', 'RM Oatmeal + Summer Berry');">Real Medleys® Oatmeal + Summer Berry
                                                 </a></li>
-                                                <li><a href="/products/hot-cereals/instant-oatmeal-cups/apples-and-cranberries.aspx">IQO Cup Apple &amp; Cranberry
+                                                <li><a href="/products/hot-cereals/real-medleys/blueberry-hazelnut-oatmeal.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Products - Hot Cereal', 'RM Oatmeal + Blueberry Hazelnut');">Real Medleys® Oatmeal + Blueberry Hazelnut
                                                 </a></li>
-                                                <li><a href="/products/hot-cereals/instant-oatmeal-cups/honey-and-almonds.aspx">IQO Cup Honey &amp; Almond
+                                                <li><a href="/products/hot-cereals/real-medleys/peach-almond-oatmeal.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Products - Hot Cereal', 'RM Oatmeal + Peach Almond');">Real Medleys® Oatmeal + Peach Almond
                                                 </a></li>
-                                                <li><a href="/products/hot-cereals/instant-oatmeal-cups/less-sugar/cinnamon-pecan.aspx">IQO 50% Less Sugar Cinnamon Pecan
+                                                <li><a href="/products/hot-cereals/real-medleys/banana-walnut-oatmeal.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Products - Hot Cereal', 'RM Oatmeal + SuperGrains Banana Walnut');">Real Medleys® SuperGrains Oatmeal+ Banana Walnut
                                                 </a></li>
-                                                <li><a href="/products/hot-cereals/instant-oatmeal-cups/less-sugar/apple-walnut.aspx">IQO 50% Less Sugar Apple Walnut
+                                                <li><a href="/products/hot-cereals/real-medleys/maple-raisin-oatmeal.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Products - Hot Cereal', 'RM Oatmeal + SuperGrains Maple Pecan Raisin');">Real Medleys® SuperGrains Oatmeal+ Maple Pecan Raisin
+                                                </a></li>
+						<li><a href="/products/hot-cereals/real-medleys/apple-pear-pecan.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Products - Hot Cereal', 'RM Steel Cut Oatmeal - Apple Pear Pecan');">Real Medleys® Steel Cut Oatmeal Apple Pear Pecan
+                                                </a></li>
+						<li><a href="/products/hot-cereals/real-medleys/cranberry-vanilla-almond.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Products - Hot Cereal', 'RM Steel Cut Oatmeal - Cranberry Vanilla Almond');">Real Medleys® Steel Cut Oatmeal Cranberry Vanilla Almond
                                                 </a></li>
                                             </ul>
                                         </li>
                                         <li>
-                                            <a href="/product/hot-cereals/grits.aspx">Grits</a>
+                                            <a href="/product/hot-cereals/Instant-Oatmeal-Cups.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Products - Hot Cereal', 'Instant Oatmeal Cups');">Instant Oatmeal Cups</a>
                                             <ul class="third-level">
-                                                <li><a href="/products/hot-cereals/grits/instant-grits-plain.aspx">Grits Original
+                                                <li><a href="/products/hot-cereals/instant-oatmeal-cups/maple-and-brown-sugar.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Products - Hot Cereal', 'IQO Cup Maple Brown Sugar');">Maple Brown Sugar Cup
                                                 </a></li>
-                                                <li><a href="/products/hot-cereals/grits/instant-grits-butter-flavor.aspx">Grits Butter
+                                                <li><a href="/products/hot-cereals/instant-oatmeal-cups/apples-and-cinnamon.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Products - Hot Cereal', 'IQO Cup Apple &amp; Cinnamon');">Apple &amp; Cinnamon Cup
                                                 </a></li>
-                                                <li><a href="/products/hot-cereals/grits/instant-grits-variety.aspx">Grits Flavor Variety
+                                                <li><a href="/products/hot-cereals/instant-oatmeal-cups/apples-and-cranberries.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Products - Hot Cereal', 'IQO Cup Apple &amp; Cranberry');">Apple &amp; Cranberries Cup
                                                 </a></li>
-                                                <li><a href="/products/hot-cereals/grits/instant-grits-cheese.aspx">Grits Cheddar Cheese
+                                                <li><a href="/products/hot-cereals/instant-oatmeal-cups/honey-and-almonds.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Products - Hot Cereal', 'IQO Cup Honey &amp; Almond');">Honey &amp; Almond Cup
                                                 </a></li>
-                                                <li><a href="/products/hot-cereals/grits/instant-grits-cheese-variety.aspx">Grits Cheese Lovers
+                                                <li><a href="/products/hot-cereals/instant-oatmeal-cups/less-sugar/cinnamon-pecan.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Products - Hot Cereal', 'IQO Lower Sugar Cinnamon Pecan');">50% Less Sugar Cinnamon Pecan Cup
                                                 </a></li>
-                                                <li><a href="/products/hot-cereals/grits/instant-grits-country-bacon.aspx">Grits Country Bacon
+                                                <li><a href="/products/hot-cereals/instant-oatmeal-cups/less-sugar/apple-walnut.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Products - Hot Cereal', 'IQO Lower Sugar Apple Walnut');">50% Less Sugar Apple Walnut Cup
                                                 </a></li>
-                                                <li><a href="/products/hot-cereals/grits/instant-grits-ham-and-gravy.aspx">Grits Red Eye Gravy and Country Ham
+                                                <li><a href="/products/hot-cereals/protein-cup/cranberry-almond.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Products - Hot Cereal', 'IQO Cup Cranberry Almond');">Protein Cranberry Almond Cup
                                                 </a></li>
-                                                <li><a href="/products/hot-cereals/grits/grits-oldfashioned.aspx">Grits Old Fashioned
+                                            </ul>
+                                        </li>
+                                        <li><a href="/product/hot-cereals/gluten-free-oatmeal.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Products 
+
+                                        - Hot Cereal', 'Gluten Free Oatmeal');">Gluten Free Oatmeal</a>
+                                            <ul class="third-level">
+                                                <li>
+                                            <a href="/product/hot-cereals/Gluten-Free-Quick-one-minute-oats.aspx" onclick="ga('send', 'event', 'Global Navigation', 
+
+                                            'Quaker Products - Hot Cereal', 'Gluten Free 1-Minute');">Gluten Free 1-Minute</a>
+                                        </li>
+					                    <li>
+                                            <a href="/product/hot-cereals/Gluten-Free-Instant-Oatmeal-original.aspx" onclick="ga('send', 'event', 'Global Navigation', 
+
+                                            'Quaker Products - Hot Cereal', 'Gluten Free IQO Original ');">Gluten Free IQO Original</a>
+                                        </li>
+					                        <li>
+                                            <a href="/product/hot-cereals/Gluten-Free-Instant-Oatmeal-lMaple-and-borwn-sugar.aspx" onclick="ga('send', 'event', 'Global 
+
+                                            Navigation', 'Quaker Products - Hot Cereal', 'Gluten Free IQO Maple &amp; Brown Sugar');">Gluten Free IQO Maple &amp; Brown Sugar</a>
+                                        </li>
+                                            </ul>
+                                        </li>
+                                        <li>
+                                            <a href="/product/hot-cereals/grits.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Products - Hot Cereal', 'Grits');">Grits</a>
+                                            <ul class="third-level">
+                                                <li><a href="/products/hot-cereals/grits/instant-grits-plain.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Products - Hot Cereal', 'Grits Original');">Grits Original
                                                 </a></li>
-                                                <li><a href="/products/hot-cereals/grits/quick-grits.aspx">Grits Quick 5-Minute
+                                                <li><a href="/products/hot-cereals/grits/instant-grits-butter-flavor.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Products - Hot Cereal', 'Grits Butter');">Grits Butter
                                                 </a></li>
-                                                <li><a href="/products/hot-cereals/grits/instant-grits-express-butter.aspx">Grits Instant Express Cup Butter
+                                                <li><a href="/products/hot-cereals/grits/instant-grits-variety.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Products - Hot Cereal', 'Grits Flavor Variety');">Grits Flavor Variety
+                                                </a></li>
+                                                <li><a href="/products/hot-cereals/grits/instant-grits-cheese.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Products - Hot Cereal', 'Grits Cheddar Cheese');">Grits Cheddar Cheese
+                                                </a></li>
+                                                <li><a href="/products/hot-cereals/grits/instant-grits-cheese-variety.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Products - Hot Cereal', 'Grits Cheese Lovers');">Grits Cheese Lovers
+                                                </a></li>
+                                                <li><a href="/products/hot-cereals/grits/instant-grits-country-bacon.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Products - Hot Cereal', 'Grits Country Bacon');">Grits Country Bacon
+                                                </a></li>
+                                                <li><a href="/products/hot-cereals/grits/instant-grits-ham-and-gravy.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Products - Hot Cereal', 'Grits Red Eye Gravy and Country Ham');">Grits Red Eye Gravy and Country Ham
+                                                </a></li>
+                                                <li><a href="/products/hot-cereals/grits/grits-oldfashioned.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Products - Hot Cereal', 'Grits Old Fashioned');">Grits Old Fashioned
+                                                </a></li>
+                                                <li><a href="/products/hot-cereals/grits/quick-grits.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Products - Hot Cereal', 'Grits Quick 5-Minute');">Grits Quick 5-Minute
+                                                </a></li>
+                                                <li><a href="/products/hot-cereals/grits/instant-grits-express-butter.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Products - Hot Cereal', 'Grits Instant Express Cup Butter');">Grits Instant Express Cup Butter
                                                 </a></li>
                                             </ul>
                                         </li>
                                         <li>
-                                            <a href="/product/hot-cereals/other-products.aspx">Other Products</a>
+                                            <a href="/product/hot-cereals/other-products.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Products - Hot Cereal', 'Other');">Other Products</a>
                                             <ul class="third-level">
-                                                <li><a href="/products/hot-cereals/oat-bran-hot-cereal.aspx">Hot Oat Bran
+                                                <li><a href="/products/hot-cereals/oat-bran-hot-cereal.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Products - Hot Cereal', 'Hot Oat Bran');">Hot Oat Bran
                                                 </a></li>
-                                                <li><a href="/products/hot-cereals/multigrain-hot-cereal.aspx">Multigrain Hot Cereal
+                                                <li><a href="/products/hot-cereals/multigrain-hot-cereal.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Products - Hot Cereal', 'Multigrain Hot Cereal');">Multigrain Hot Cereal
                                                 </a></li>
-                                                <li><a href="/products/hot-cereals/warm-and-crunchy/apple-cinnamon.aspx">Warm &amp; Crunchy Apple Cinnamon
+                                                <li><a href="/products/hot-cereals/warm-and-crunchy/apple-cinnamon.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Products - Hot Cereal', 'Warm &amp; Crunchy Apple Cinnamon');">Warm &amp; Crunchy Apple Cinnamon
                                                 </a></li>
-                                                <li><a href="/products/hot-cereals/warm-and-crunchy/cranberry-almond.aspx">Warm &amp; Crunchy Cranberry Almond
+                                                <li><a href="/products/hot-cereals/warm-and-crunchy/cranberry-almond.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Products - Hot Cereal', 'Warm &amp; Crunchy Cranberry Almond');">Warm &amp; Crunchy Cranberry Almond
                                                 </a></li>
-                                                <li><a href="/products/hot-cereals/warm-and-crunchy/honey-almond.aspx">Warm &amp; Crunchy Honey Almond
+                                                <li><a href="/products/hot-cereals/warm-and-crunchy/honey-almond.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Products - Hot Cereal', 'Warm &amp; Crunchy Honey Almond');">Warm &amp; Crunchy Honey Almond
                                                 </a></li>
                                             </ul>
                                         </li>
@@ -711,565 +786,621 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
 
                                 </li>
                                 <li>
-                                    <a href="/products/cold-cereals.aspx">Quaker Cold Cereals</a>
+                                    <a href="/products/cold-cereals.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Products - Category', 'Cold  Cereals');">Quaker Cold Cereals</a>
                                     <ul class="second-level">
                                         <li>
-                                            <a href="/product/cold-cereals/life-cereal.aspx">Life® Cereal</a>
+                                            <a href="/product/cold-cereals/life-cereal.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Products - Cold Cereal', 'Life Cereal');">Life® Cereal</a>
                                             <ul class="third-level">
-                                                <li><a href="/products/cold-cereals/life-cereal/regular.aspx">Life Cereal Original
+                                                <li><a href="/products/cold-cereals/life-cereal/regular.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Products - Cold Cereal', 'Life Cereal Original');">Life Cereal Original
                                                 </a></li>
-                                                <li><a href="/products/cold-cereals/life-cereal/cinnamon.aspx">Life Cereal Cinnamon
+                                                <li><a href="/products/cold-cereals/life-cereal/cinnamon.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Products - Cold Cereal', 'Life Cereal Cinnamon');">Life Cereal Cinnamon
                                                 </a></li>
-                                                <li><a href="/products/cold-cereals/life-cereal/maple-and-brown-sugar.aspx">Life Cereal Maple and Brown Sugar
+                                                <li><a href="/products/cold-cereals/life-cereal/maple-and-brown-sugar.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Products - Cold Cereal', 'Life Cereal Maple and Brown Sugar');">Life Cereal Maple and Brown Sugar
                                                 </a></li>
-                                                <li><a href="/products/cold-cereals/life-cereal-cups/original.aspx">Life Cereal Cup Original
+                                                <li><a href="/products/cold-cereals/life-cereal-cups/original.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Products - Cold Cereal', 'Life Cereal Cup Original');">Life Cereal Cup Original
                                                 </a></li>
-                                                <li><a href="/products/cold-cereals/life-cereal-cups/cinnamon.aspx">Life Cereal Cup Cinnamon
+                                                <li><a href="/products/cold-cereals/life-cereal-cups/cinnamon.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Products - Cold Cereal', 'Life Cereal Cup Cinnamon');">Life Cereal Cup Cinnamon
                                                 </a></li>
                                             </ul>
                                         </li>
                                         <li>
-                                            <a href="/product/cold-cereals/oatmeal-squares.aspx">Oatmeal Squares</a>
+                                            <a href="/product/cold-cereals/oatmeal-squares.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Products - Cold Cereal', 'Oatmeal Squares');">Oatmeal Squares</a>
                                             <ul class="third-level">
-                                                <li><a href="/products/cold-cereals/oatmeal-squares/brown-sugar.aspx">Oatmeal Squares Brown Sugar
+                                                <li><a href="/products/cold-cereals/oatmeal-squares/brown-sugar.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Products - Cold Cereal', 'Oatmeal Squares Brown Sugar');">Oatmeal Squares Brown Sugar
                                                 </a></li>
-                                                <li><a href="/products/cold-cereals/oatmeal-squares/cinnamon.aspx">Oatmeal Squares Cinnamon
+                                                <li><a href="/products/cold-cereals/oatmeal-squares/cinnamon.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Products - Cold Cereal', 'Oatmeal Squares Cinnamon');">Oatmeal Squares Cinnamon
                                                 </a></li>
-                                                <li><a href="/products/cold-cereals/oatmeal-squares/honey-nut.aspx">Oatmeal Squares Honey Nut
+                                                <li><a href="/products/cold-cereals/oatmeal-squares/honey-nut.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Products - Cold Cereal', 'Oatmeal Squares Honey Nut');">Oatmeal Squares Honey Nut
                                                 </a></li>
-                                                <li><a href="/products/cold-cereals/oatmeal-squares/golden-maple.aspx">Oatmeal Squares Golden Maple
+                                                <li><a href="/products/cold-cereals/oatmeal-squares/golden-maple.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Products - Cold Cereal', 'Oatmeal Squares Golden Maple');">Oatmeal Squares Golden Maple
                                                 </a></li>
                                             </ul>
                                         </li>
                                         <li>
-                                            <a href="/product/cold-cereals/real-medleys.aspx">Real Medleys®</a>
+                                            <a href="/product/cold-cereals/real-medleys.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Products - Cold Cereal', 'Real Medleys');">Real Medleys®</a>
                                             <ul class="third-level">
-                                                <li><a href="/products/cold-cereals/real-medleys/cherry-almond-pecan.aspx">Real Medleys® Multigrain Cereal Cherry Almond Pecan
+                                                <li><a href="/products/cold-cereals/real-medleys/cherry-almond-pecan.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Products - Cold Cereal', 'RM Multigrain Cereal Cherry Almond Pecan');">Real Medleys® Multigrain Cereal Cherry Almond Pecan
                                                 </a></li>
-                                                <li><a href="/products/cold-cereals/real-medleys/peach-apple-walnut.aspx">Real Medleys® Multigrain Cereal Peach Apple Walnut
+                                                <li><a href="/products/cold-cereals/real-medleys/peach-apple-walnut.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Products - Cold Cereal', 'RM Multigrain Cereal Pecan Apple Walnut');">Real Medleys® Multigrain Cereal Peach Apple Walnut
                                                 </a></li>
-                                                <li><a href="/products/cold-cereals/real-medleys/summer-berry-granola.aspx">Real Medleys® Granola Summer Berry
+                                                <li><a href="/products/cold-cereals/real-medleys/summer-berry-granola.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Products - Cold Cereal', 'RM Granola Summer Berry');">Real Medleys® Granola Summer Berry
                                                 </a></li>
-                                                <li><a href="/products/cold-cereals/real-medleys/dark-chocolate-cranberry-almond-granola.aspx">Real Medleys® Granola Chocolate
+                                                <li><a href="/products/cold-cereals/real-medleys/dark-chocolate-cranberry-almond-granola.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Products - Cold Cereal', 'RM Granola Chocolate');">Real Medleys® Granola Chocolate
+                                                </a></li>                                               
+						<li><a href="/products/cold-cereals/real-medleys/strawberry-almond-granola-yogurt.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Products - Cold Cereal', 'RM Granola &amp; Yogurt Blend Strawberry Almond');">Real Medleys® Granola &amp; Yogurt Blend Strawberry Almond
+                                                </a></li>
+                                                <li><a href="/products/cold-cereals/real-medleys/apple-cinnamon-granola-yogurt.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Products - Cold Cereal', 'RM Granola &amp; Yogurt Blend Apple &amp; Cinnamon');">Real Medleys® Granola &amp; Yogurt Blend Apple &amp; Cinnamon
+                                                </a></li>
+                                                <li><a href="/products/cold-cereals/real-medleys/raspberry-pecan-granola-yogurt.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Products - Cold Cereal', 'RM Granola &amp; Yogurt Blend Raspberry &amp; Pecan');">Real Medleys® Granola &amp; Yogurt Blend Raspberry &amp; Pecan
                                                 </a></li>
                                             </ul>
                                         </li>
                                         <li>
-                                            <a href="/product/cold-cereals/granola.aspx">Granola</a>
+                                            <a href="/product/cold-cereals/granola.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Products - Cold Cereal', 'Granola');">Granola</a>
                                             <ul class="third-level">
-                                                <li><a href="/products/cold-cereals/granola/oats-and-honey-and-raisins.aspx">Granola Oats, Honey, Raisins, Almonds
+                                                <li><a href="/products/cold-cereals/granola/oats-and-honey-and-raisins.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Products - Cold Cereal', 'Granola Oats, Honey, Raisins, Almonds');">Granola Oats, Honey, Raisins, Almonds
                                                 </a></li>
-                                                <li><a href="/products/cold-cereals/granola/oats-and-honey.aspx">Granola Oats, Honey, Almonds
+                                                <li><a href="/products/cold-cereals/granola/oats-and-honey.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Products - Cold Cereal', 'Granola Oats, Honey, Almonds');">Granola Oats, Honey, Almonds
                                                 </a></li>
-                                                <li><a href="/products/cold-cereals/granola/applecranberryalmond.aspx">Granola Apple, Cranberry, Almond
+                                                <li><a href="/products/cold-cereals/granola/applecranberryalmond.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Products - Cold Cereal', 'Granola Apple, Cranberry, Almond');">Granola Apple, Cranberry, Almond
                                                 </a></li>
                                             </ul>
                                         </li>
                                         <li>
-                                            <a href="/product/cold-cereals/puffed.aspx">Puffed</a>
+                                            <a href="/product/cold-cereals/puffed.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Products - Cold Cereal', 'Puffed');">Puffed</a>
                                             <ul class="third-level">
-                                                <li><a href="/products/cold-cereals/puffed/puffed-rice.aspx">Puffed Rice
+                                                <li><a href="/products/cold-cereals/puffed/puffed-rice.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Products - Cold Cereal', 'Puffed Rice');">Puffed Rice
                                                 </a></li>
-                                                <li><a href="/products/cold-cereals/puffed/puffed-wheat.aspx">Puffed Wheat
+                                                <li><a href="/products/cold-cereals/puffed/puffed-wheat.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Products - Cold Cereal', 'Puffed Wheat');">Puffed Wheat
                                                 </a></li>
                                             </ul>
                                         </li>
                                         <li>
-                                            <a href="/product/cold-cereals/other-products.aspx">Other Products</a>
+                                            <a href="/product/cold-cereals/other-products.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Products - Cold Cereal', 'Other');">Other Products</a>
                                             <ul class="third-level">
-                                                <li><a href="/products/cold-cereals/corn-bran-crunch.aspx">Corn Bran Crunch
+                                                <li><a href="/products/cold-cereals/corn-bran-crunch.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Products - Cold Cereal', 'Corn Bran Crunch');">Corn Bran Crunch
                                                 </a></li>
-                                                <li><a href="/products/cold-cereals/oat-bran-cereal/toasted-oat-bran.aspx">Toasted Oat Bran
+                                                <li><a href="/products/cold-cereals/oat-bran-cereal/toasted-oat-bran.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Products - Cold Cereal', 'Toasted Oat Bran');">Toasted Oat Bran
                                                 </a></li>
-                                                <li><a href="/products/cold-cereals/king-vitaman.aspx">King Vitamin 
+                                                <li><a href="/products/cold-cereals/king-vitaman.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Products - Cold Cereal', 'King Vitamin ');">King Vitamin 
                                                 </a></li>
-                                                <li><a href="/products/cold-cereals/quisp.aspx">Quisp
+                                                <li><a href="/products/cold-cereals/quisp.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Products - Cold Cereal', 'Quisp');">Quisp
                                                 </a></li>
                                             </ul>
                                         </li>
                                     </ul>
                                 </li>
                                 <li>
-                                    <a href="/products/snack-bars.aspx">Quaker Snack Bars</a>
+                                    <a href="/products/snack-bars.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Products - Category', 'Snack Bars');">Quaker Snack Bars</a>
                                     <ul class="second-level">
                                         <li>
-                                            <a href="/product/snack-bars/chewy-granola-bars.aspx">Chewy® Granola Bars</a>
+                                            <a href="/product/snack-bars/chewy-granola-bars.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Products - Snack Bars', 'Chewy Granola Bars');">Chewy® Granola Bars</a>
                                             <ul class="third-level">
-                                                <li><a href="/products/oat-snacks/chewy-granola/chocolate-chip.aspx">Chewy® Chocolate Chip
+						                        <li><a href="/products/oat-snacks/chewy-granola/chocolate-chip.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Products - Snack Bars', 'Chewy Chocolate Chip');">Chewy® Chocolate Chip
                                                 </a></li>
-                                                <li><a href="/products/oat-snacks/chewy-granola/peanut-butter-chocolate-chip.aspx">Chewy® Peanut Butter Chocolate Chip
+                                                <li><a href="/products/oat-snacks/chewy-granola/peanut-butter-chocolate-chip.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Products - Snack Bars', 'Chewy Peanut Butter Chocolate Chip');">Chewy® Peanut Butter Chocolate Chip
                                                 </a></li>
-                                                <li><a href="/products/oat-snacks/chewy-granola/smores.aspx">Chewy® S'Mores
+                                                <li><a href="/products/oat-snacks/chewy-granola/smores.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Products - Snack Bars', 'Chewy SMores');">Chewy® S'Mores
                                                 </a></li>
-                                                <li><a href="/products/oat-snacks/chewy-granola/variety-pack.aspx">Chewy® Bars Variety Pack
+                                                <li><a href="/products/oat-snacks/chewy-granola/variety-pack.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Products - Snack Bars', 'Chewy Bars Variety Pack');">Chewy® Bars Variety Pack
                                                 </a></li>
-                                                <li><a href="/products/oat-snacks/chewy-granola/apple-caramel.aspx">Chewy® Caramel Apple
+                                                <li><a href="/products/oat-snacks/chewy-granola/apple-caramel.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Products - Snack Bars', 'Chewy Caramel Apple');">Chewy® Caramel Apple
                                                 </a></li>
-                                                <li><a href="/products/oat-snacks/chewy-granola/chocolate-strawberry.aspx">Chewy® Chocolate Strawberries
+                                                <li><a href="/products/oat-snacks/chewy-granola/chocolate-strawberry.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Products - Snack Bars', 'Chewy Chocolate Strawberries');">Chewy® Chocolate Strawberries
                                                 </a></li>
-                                            </ul>
-                                        </li>
-                                        <li>
-                                            <a href="/product/snack-bars/chewy-dipps.aspx">Chewy® Dipps®</a>
-                                            <ul class="third-level">
-                                                <li><a href="/products/oat-snacks/chewy-dipps/peanut-butter.aspx">Chewy® Dipps® Peanut Butter
+                                                <li><a href="/products/snack-bars/chewy-granola/banana-chocolate-chip.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Products - Snack Bars', 'Chewy Banana Chocolate Chip');">Chewy® Banana Chocolate Chip
                                                 </a></li>
-                                                <li><a href="/products/oat-snacks/chewy-dipps/chocolate-chip.aspx">Chewy® Dipps® Chocolate Chip
+                                                <li><a href="/products/snack-bars/chewy-granola/birthday-cake.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Products - Snack Bars', 'Chewy Birthday Cake');">Chewy® Birthday Cake
                                                 </a></li>
-                                                <li><a href="/products/oat-snacks/chewy-dipps/carmel-nut.aspx">Chewy® Dipps® Caramel Nut
-                                                </a></li>
-                                                <li><a href="/products/oat-snacks/chewy-dipps/darkChocolatey.aspx">Chewy® Dipps® Dark Chocolatey
-                                                </a></li>
-                                                <li><a href="/products/oat-snacks/chewy-dipps/cookies-cream.aspx">Chewy® Dipps® Cookies &amp; Cream
-                                                </a></li>
-                                                <li><a href="/products/oat-snacks/chewy-dipps/ChewyDippsVarietyPack.aspx">Chewy® Dipps® Variety Pack
-                                                </a></li>
-                                                <li><a href="/products/oat-snacks/chewy-dipps/peanut-butter-chocolate.aspx">Chewy® Dipps® Peanut Butter Chocolate
-                                                </a></li>
-                                            </ul>
-                                        </li>
-                                        <li>
-                                            <a href="/product/snack-bars/big-chewy.aspx">Big Chewy®</a>
-                                            <ul class="third-level">
-                                                <li><a href="/products/oat-snacks/big-chewy-granola/chocolate-chip.aspx">Big Chewy® Chocolate Chip
-                                                </a></li>
-                                                <li><a href="/products/oat-snacks/big-chewy-granola/peanut-butter.aspx">Big Chewy® Peanut Butter Chocolate Chip
-                                                </a></li>
-                                                <li><a href="/products/oat-snacks/big-chewy-sweet-salty/chocolate-salted-caramel.aspx">Big Chewy®  Sweet &amp; Salty Chocolate and Salted Caramel
-                                                </a></li>
-                                                <li><a href="/products/oat-snacks/big-chewy-sweet-salty/caramel-popcorn-crunch.aspx">Big Chewy® Sweet &amp; Salty Caramel Popcorn Crunch
-                                                </a></li>
-                                            </ul>
-                                        </li>
-                                        <li>
-                                            <a href="/product/snack-bars/chewy-25-less-sugar.aspx">Chewy® 25% Less Sugar</a>
-                                            <ul class="third-level">
-                                                <li><a href="/products/oat-snacks/chewy-granola-bars-less-sugar/peanut-butter-chocolate-chip.aspx">Chewy® 25% Less Sugar Peanut Butter Chocolate Chip
-                                                </a></li>
-                                                <li><a href="/products/oat-snacks/chewy-granola-bars-less-sugar/chocolate-chip.aspx">Chewy® 25% Less Sugar Chocolate Chip
-                                                </a></li>
-                                                <li><a href="/products/oat-snacks/chewy-granola-bars-less-sugar/variety-pack.aspx">Chewy® 25% Less Sugar Variety Pack
-                                                </a></li>
-                                                <li><a href="/products/oat-snacks/chewy-granola-bars-less-sugar/cookies-and-cream.aspx">Chewy® 25% Less Sugar Cookies &amp; Cream
-                                                </a></li>
-                                            </ul>
-                                        </li>
-                                        <li>
-                                            <a href="/product/snack-bars/chewy-90-calorie.aspx">Chewy® 90 Calorie</a>
-                                            <ul class="third-level">
-                                                <li><a href="/products/oat-snacks/chewy-90-calorie-granola/oatmeal-raisin.aspx">Chewy® 90 Calorie Oatmeal Raisin
-                                                </a></li>
-                                                <li><a href="/products/oat-snacks/chewy-90-calorie-granola/chocolate-chunk.aspx">Chewy® 90 Calorie Chocolate Chunk
-                                                </a></li>
-                                                <li><a href="/products/oat-snacks/chewy-90-calorie-granola/peanut-butter.aspx">Chewy® 90 Calorie Peanut Butter
-                                                </a></li>
-                                                <li><a href="/products/oat-snacks/chewy-90-calorie-granola/variety-pack.aspx">Chewy® 90 Calorie Variety Pack
-                                                </a></li>
-                                            </ul>
-                                        </li>
-                                        <li>
-                                            <a href="/product/snack-bars/chewy-yogurt.aspx">Chewy® Yogurt Bars</a>
-                                            <ul class="third-level">
-                                                <li><a href="/products/oat-snacks/yogurt-granola-bars/strawberry.aspx">Chewy® Yogurt Strawberry
-                                                </a></li>
-                                                <li><a href="/products/oat-snacks/Yogurt-Granola-Bars/Blueberry.aspx">Chewy® Yogurt Blueberry
-                                                </a></li>
-                                                <li><a href="/products/oat-snacks/Yogurt-Granola-Bars/Vanilla.aspx">Chewy® Yogurt Vanilla
-                                                </a></li>
-                                            </ul>
-                                        </li>
-                                        <li>
-                                            <a href="/product/snack-bars/real-medleys.aspx">Real Medleys® Multigrain Bars</a>
-                                            <ul class="third-level">
-                                                <li><a href="/products/oat-snacks/real-medleys/apple-nut-harvest.aspx">Real Medleys® Multigrain Bar Apple Nut Harvest
-                                                </a></li>
-                                                <li><a href="/products/oat-snacks/real-medleys/cherry-pistachio.aspx">Real Medleys® Multigrain Bar Cherry Pistachio
-                                                </a></li>
-                                                <li><a href="/products/oat-snacks/real-medleys/dark-chocolate-almond-coconut.aspx">Real Medleys® Multigrain Bar Dark Chocolate Almond Coconut
-                                                </a></li>
-                                                <li><a href="/products/oat-snacks/real-medleys/peach-almond.aspx">Real Medleys® Multigrain Bar Peach Almond
-                                                </a></li>
-                                            </ul>
-                                        </li>
-                                        <li>
-                                            <a href="/product/snack-bars/protein-bars.aspx">Protein Bars</a>
-                                            <ul class="third-level">
-                                                <li><a href="/products/oat-snacks/protein-baked-bars/oatmeal-raisin-nut.aspx">Protein Baked Bar Oatmeal Raisin Nut
-                                                </a></li>
-                                                <li><a href="/products/oat-snacks/protein-baked-bars/peanut-butter-chocolate.aspx">Protein Baked Bar Peanut Butter Chocolate Chip
-                                                </a></li>
-                                            </ul>
-                                        </li>
-                                        <li>
-                                            <a href="/product/snack-bars/quinoa-bars.aspx">Quinoa Bars</a>
-                                            <ul class="third-level">
-                                                <li><a href="/products/oat-snacks/quinoa-granola-bars/chocolate-nut-medley.aspx">Quinoa Bars Chocolate  Nut Medley
-                                                </a></li>
-                                                <li><a href="/products/oat-snacks/quinoa-granola-bars/yogurt-fruit-nut.aspx">Quinoa Bar Yogurt, Fruit &amp; Nut
-                                                </a></li>
-                                            </ul>
-                                        </li>
-                                        <li>
-                                            <a href="/product/snack-bars/baked-bars.aspx">Baked Bars</a>
-                                            <ul class="third-level">
-                                                <li><a href="/products/oat-snacks/oatmeal-to-go-bars/brown-sugar-and-cinnamon.aspx">Oatmeal To Go Brown Sugar and Cinnamon
-                                                </a></li>
-                                                <li><a href="/products/oat-snacks/oatmeal-to-go-bars/apples-with-cinnamon.aspx">Oatmeal To Go Apples with Cinnamon
-                                                </a></li>
-                                                <li><a href="/products/oat-snacks/oatmeal-to-go-bars/banana-bread.aspx">Oatmeal To Go Banana Bread
-                                                </a></li>
-                                                <li><a href="/products/oat-snacks/oatmeal-to-go-bars/oatmeal-raisin.aspx">Oatmeal To Go Oatmeal Raisin
-                                                </a></li>
-                                                <li><a href="/products/oat-snacks/oatmeal-to-go-bars/raspberry-streusel.aspx">Oatmeal To Go Raspberry Streusel
-                                                </a></li>
-                                                <li><a href="/products/oat-snacks/Soft-Baked-Bars/Banana-Nut-Bread.aspx">Soft  Baked Banana Nut Bread
-                                                </a></li>
-                                                <li><a href="/products/oat-snacks/Soft-Baked-Bars/Cinnamon-Pecan-Bread.aspx">Soft  Baked Cinnamon Pecan Bread
-                                                </a></li>
-                                            </ul>
-                                        </li>
-                                    </ul>
-                                </li>
-                                <li>
-                                    <a href="/products/rice-snacks.aspx">Quaker Rice Snacks</a>
-                                    <ul class="second-level">
-                                        <li>
-                                            <a href="/product/rice-snacks/popped-crisps.aspx">Popped® Crisps</a>
-                                            <ul class="third-level">
-                                                <li><a href="/products/rice-snacks/popped/cheddar-cheese.aspx">Popped® Cheddar Cheese
-                                                </a></li>
-                                                <li><a href="/products/rice-snacks/popped/caramel-corn.aspx">Popped® Caramel Corn
-                                                </a></li>
-                                                <li><a href="/products/rice-snacks/popped/sour-cream-and-onion.aspx">Popped® Sour Cream and Onion
-                                                </a></li>
-                                                <li><a href="/products/rice-snacks/popped/ranch.aspx">Popped® Ranch
-                                                </a></li>
-                                                <li><a href="/products/rice-snacks/popped/apple-cinnamon.aspx">Popped® Apple Cinnamon
-                                                </a></li>
-                                                <li><a href="/products/rice-snacks/popped/chocolate.aspx">Popped® Chocolate
-                                                </a></li>
-                                                <li><a href="/products/rice-snacks/popped/sweet-chili.aspx">Popped® Sweet Chili
-                                                </a></li>
-                                                <li><a href="/products/rice-snacks/popped/kettle-corn.aspx">Popped® Kettle Corn
-                                                </a></li>
-                                                <li><a href="/products/rice-snacks/popped/sea-salt-and-cracked-black-pepper.aspx">Popped® Sea Salt &amp; Cracked Black Pepper
-                                                </a></li>
-                                                <li><a href="/products/rice-snacks/popped/bbq.aspx">Popped® BBQ
-                                                </a></li>
-                                                <li><a href="/products/rice-snacks/popped/savory-mix.aspx">Popped® Savory Mix
-                                                </a></li>
-                                                <li><a href="/products/rice-snacks/popped/sweet-mix.aspx">Popped® Sweet Mix
-                                                </a></li>
-                                            </ul>
-                                        </li>
-                                        <li>
-                                            <a href="/product/rice-snacks/rice-cakes.aspx">Rice Cakes</a>
-                                            <ul class="third-level">
-                                                <li><a href="/products/rice-snacks/rice-cakes/lightly-salted.aspx">Rice Cakes Lightly Salted
-                                                </a></li>
-                                                <li><a href="/products/rice-snacks/rice-cakes/caramel-corn.aspx">Rice Cakes Caramel Corn
-                                                </a></li>
-                                                <li><a href="/products/rice-snacks/rice-cakes/white-cheddar.aspx">Rice Cakes White Cheddar
-                                                </a></li>
-                                                <li><a href="/products/rice-snacks/rice-cakes/chocolate-crunch.aspx">Rice Cakes Chocolate Crunch
-                                                </a></li>
-                                                <li><a href="/products/rice-snacks/rice-cakes/buttered-popcorn.aspx">Rice Cakes Butter Popped® Corn
-                                                </a></li>
-                                                <li><a href="/products/rice-snacks/rice-cakes/apple-cinnamon.aspx">Rice Cakes Apple Cinnamon
-                                                </a></li>
-                                                <li><a href="/products/rice-snacks/rice-cakes/salt-free.aspx">Rice Cakes Salt Free
 
-                                                </a></li>
                                             </ul>
                                         </li>
                                         <li>
-                                            <a href="/product/rice-snacks/popped-hummus-chips.aspx">Popped® Hummus Chips</a>
+                                            <a href="/product/snack-bars/chewy-dipps.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Products - Snack Bars', 'Chewy Dipps');">Chewy® Dipps®</a>
                                             <ul class="third-level">
-                                                <li><a href="/products/rice-snacks/popped-chips/white-cheddar.aspx">Popped® Chips White Cheddar and Herb
+                                                <li><a href="/products/oat-snacks/chewy-dipps/peanut-butter.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Products - Snack Bars', 'Chewy Dipps Peanut Butter');">Chewy® Dipps® Peanut Butter
                                                 </a></li>
-                                                <li><a href="/products/rice-snacks/popped-chips/salsa-fresca.aspx">Popped® Chips Salsa Fresca
+                                                <li><a href="/products/oat-snacks/chewy-dipps/chocolate-chip.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Products - Snack Bars', 'Chewy Dipps Chocolate Chip');">Chewy® Dipps® Chocolate Chip
                                                 </a></li>
+                                                <li><a href="/products/oat-snacks/chewy-dipps/carmel-nut.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Products - Snack Bars', 'Chewy Dipps Caramel Nut');">Chewy® Dipps® Caramel Nut
+                                                </a></li>
+                                                <li><a href="/products/oat-snacks/chewy-dipps/darkChocolatey.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Products - Snack Bars', 'Chewy Dipps Dark Chocolatey');">Chewy® Dipps® Dark Chocolatey
+                                                </a></li>
+                                                <li><a href="/products/oat-snacks/chewy-dipps/cookies-cream.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Products - Snack Bars', 'Chewy Dipps Cookies &amp; Cream');">Chewy® Dipps® Cookies &amp; Cream
+                                                </a></li>
+                                                <li><a href="/products/oat-snacks/chewy-dipps/ChewyDippsVarietyPack.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Products - Snack Bars', 'Chewy Dipps Variety Pack');">Chewy® Dipps® Variety Pack
+                                                </a></li>
+                                                <!--<li><a href="/products/oat-snacks/chewy-dipps/peanut-butter-chocolate.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Products - Snack Bars', 'Chewy Dipps Peanut Butter Chocolate');">Chewy® Dipps® Peanut Butter Chocolate
+                                                </a></li>-->
                                             </ul>
                                         </li>
                                         <li>
-                                            <a href="/product/rice-snacks/popped-sweet-oat-crisps.aspx">Popped® Sweet Oat Crisps</a>
+                                            <a href="/product/snack-bars/big-chewy.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Products - Snack Bars', 'Big Chewy');">Big Chewy®</a>
                                             <ul class="third-level">
-                                                <li><a href="/products/rice-snacks/popped-sweet-oat-crisps/wild-blueberry.aspx">Multigrain Fiber Crisp Wild Blueberry
+                                                <li><a href="/products/oat-snacks/big-chewy-granola/chocolate-chip.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Products - Snack Bars', 'Big Chewy Chocolate Chip');">Big Chewy® Chocolate Chip
                                                 </a></li>
-                                                <li><a href="/products/rice-snacks/popped-sweet-oat-crisps/blackberry-pomegranate.aspx">Multigrain Fiber Crisp Blackberry Pomegrante
+                                                <li><a href="/products/oat-snacks/big-chewy-granola/peanut-butter.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Products - Snack Bars', 'Big Chewy Peanut Butter Chocolate Chip');">Big Chewy® Peanut Butter Chocolate Chip
                                                 </a></li>
+                                                <li><a href="/products/oat-snacks/big-chewy-sweet-salty/chocolate-salted-caramel.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Products - Snack Bars', 'Big Chewy  Sweet &amp; Salty Chocolate and Salted Caramel');">Big Chewy®  Sweet &amp; Salty Chocolate and Salted Caramel
+                                                </a></li>
+                                                <li><a href="/products/oat-snacks/big-chewy-sweet-salty/caramel-popcorn-crunch.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Products - Snack Bars', 'Big Chewy Sweet &amp; Salty Caramel Popcorn Crunch');">Big Chewy® Sweet &amp; Salty Caramel Popcorn Crunch
+                                                </a></li>
+
                                             </ul>
                                         </li>
                                         <li>
-                                            <a href="/product/rice-snacks/popped-tortilla-chips.aspx">Popped® Tortilla Chips</a>
+                                            <a href="/product/snack-bars/chewy-girl-scouts.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Products - Snack Bars', 'Chewy Girl Scouts');">Chewy® Girl Scouts®</a>
                                             <ul class="third-level">
-                                                <li><a href="/products/rice-snacks/popped-tortilla-chips/cheesy-nacho.aspx">Popped® Tortilla Chips Cheesy Nacho
+                                                <li><a href="/products/snack-bars/chewy-girl-scouts/thin-mints.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Products - Snack Bars', 'Chewy Girl Scouts Thin Mints');">Chewy® Girl Scouts® Thin Mints®
                                                 </a></li>
-                                                <li><a href="/products/rice-snacks/popped-tortilla-chips/tangy-ranch.aspx">Popped® Tortilla Chips Tangy Ranch
-                                                </a></li>
-                                            </ul>
-                                        </li>
-                                    </ul>
-                                </li>
-                                <li>
-                                    <a href="/products/real-medleys.aspx">Quaker Real Medleys</a>
-                                    <ul class="second-level">
-                                        <li>
-                                            <a href="/product/real-medleys/oatmeal.aspx">Real Medleys® Oatmeal+</a>
-                                            <ul class="third-level">
-                                                <li><a href="/products/hot-cereals/real-medleys/apple-walnut-oatmeal.aspx">Real Medleys® Oatmeal + Apple Walnut
-                                                </a></li>
-                                                <li><a href="/products/hot-cereals/real-medleys/summer-berry-oatmeal.aspx">Real Medleys® Oatmeal + Summer Berry
-                                                </a></li>
-                                                <li><a href="/products/hot-cereals/real-medleys/blueberry-hazelnut-oatmeal.aspx">Real Medleys® Oatmeal + Blueberry Hazelnut
-                                                </a></li>
-                                                <li><a href="/products/hot-cereals/real-medleys/peach-almond-oatmeal.aspx">Real Medleys® Oatmeal + Peach Almond
-                                                </a></li>
-                                                <li><a href="/products/hot-cereals/real-medleys/banana-walnut-oatmeal.aspx">Real Medleys® Oatmeal + SuperGrains Banana Walnut
-                                                </a></li>
-                                                <li><a href="/products/hot-cereals/real-medleys/maple-raisin-oatmeal.aspx">Real Medleys® Oatmeal + SuperGrains Maple Pecan Raisin
-                                                </a></li>
-                                            </ul>
-                                        </li>
-                                        <li>
-                                            <a href="/product/real-medleys/multigrain-cereal.aspx">Real Medleys® Multigrain Cereal</a>
-                                             <ul class="third-level">
-                                                <li><a href="/products/cold-cereals/real-medleys/cherry-almond-pecan.aspx">Real Medleys® Multigrain Cereal Cherry Almond Pecan
-                                                </a></li>
-                                                <li><a href="/products/cold-cereals/real-medleys/peach-apple-walnut.aspx">Real Medleys® Multigrain Cereal Peach Apple Walnut
+                                                <li><a href="/products/snack-bars/chewy-girl-scouts/caramel-coconut.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Products - Snack Bars', 'Chewy Girl Scouts Caramel Coconut');">Chewy® Girl Scouts® Caramel Coconut 
                                                 </a></li>                                                
                                             </ul>
                                         </li>
                                         <li>
-                                            <a href="/product/real-medleys/granola.aspx">Real Medleys® Granola</a>
-                                             <ul class="third-level">
-                                                 <li><a href="/products/cold-cereals/real-medleys/summer-berry-granola.aspx">Real Medleys® Granola Summer Berry
+                                            <a href="/product/snack-bars/chewy-25-less-sugar.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Products - Snack Bars', 'Chewy 25% Less Sugar');">Chewy® 25% Less Sugar</a>
+                                            <ul class="third-level">
+                                                <li><a href="/products/oat-snacks/chewy-granola-bars-less-sugar/peanut-butter-chocolate-chip.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Products - Snack Bars', 'Chewy 25% Less Sugar Peanut Butter Chocolate Chip');">Chewy® 25% Less Sugar Peanut Butter Chocolate Chip
                                                 </a></li>
-                                                <li><a href="/products/cold-cereals/real-medleys/dark-chocolate-cranberry-almond-granola.aspx">Real Medleys® Granola Chocolate
+                                                <li><a href="/products/oat-snacks/chewy-granola-bars-less-sugar/chocolate-chip.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Products - Snack Bars', 'Chewy 25% Less Sugar Chocolate Chip');">Chewy® 25% Less Sugar Chocolate Chip
+                                                </a></li>
+                                                <li><a href="/products/oat-snacks/chewy-granola-bars-less-sugar/variety-pack.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Products - Snack Bars', 'Chewy 25% Less Sugar Variety Pack');">Chewy® 25% Less Sugar Variety Pack
+                                                </a></li>
+                                                <li><a href="/products/oat-snacks/chewy-granola-bars-less-sugar/cookies-and-cream.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Products - Snack Bars', 'Chewy 25% Less Sugar Cookies &amp; Cream');">Chewy® 25% Less Sugar Cookies &amp; Cream
                                                 </a></li>
                                             </ul>
                                         </li>
                                         <li>
-                                            <a href="/product/real-medleys/multigrain-bars.aspx">Real Medleys® Multigrain Bars</a>
-                                             <ul class="third-level">
-                                                <li><a href="/products/oat-snacks/real-medleys/apple-nut-harvest.aspx">Real Medleys® Multigrain Bar Apple Nut Harvest
+                                            <a href="/product/snack-bars/chewy-90-calorie.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Products - Snack Bars', 'Chewy 90 Calorie');">Chewy® 90 Calorie</a>
+                                            <ul class="third-level">
+                                                <li><a href="/products/oat-snacks/chewy-90-calorie-granola/oatmeal-raisin.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Products - Snack Bars', 'Chewy 90 Calorie Oatmeal Raisin');">Chewy® 90 Calorie Oatmeal Raisin
                                                 </a></li>
-                                                <li><a href="/products/oat-snacks/real-medleys/cherry-pistachio.aspx">Real Medleys® Multigrain Bar Cherry Pistachio
+                                                <li><a href="/products/oat-snacks/chewy-90-calorie-granola/chocolate-chunk.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Products - Snack Bars', 'Chewy 90 Calorie Chocolate Chunk');">Chewy® 90 Calorie Chocolate Chunk
                                                 </a></li>
-                                                <li><a href="/products/oat-snacks/real-medleys/dark-chocolate-almond-coconut.aspx">Real Medleys® Multigrain Bar Dark Chocolate Almond Coconut
+                                                <li><a href="/products/oat-snacks/chewy-90-calorie-granola/peanut-butter.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Products - Snack Bars', 'Chewy 90 Calorie Peanut Butter');">Chewy® 90 Calorie Peanut Butter
                                                 </a></li>
-                                                <li><a href="/products/oat-snacks/real-medleys/peach-almond.aspx">Real Medleys® Multigrain Bar Peach Almond
+                                                <li><a href="/products/oat-snacks/chewy-90-calorie-granola/variety-pack.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Products - Snack Bars', 'Chewy 90 Calorie Variety Pack');">Chewy® 90 Calorie Variety Pack
+                                                </a></li>
+                                            </ul>
+                                        </li>
+                                        <li>
+                                            <a href="/product/snack-bars/chewy-yogurt.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Products - Snack Bars', 'Chewy Yogurt');">Chewy® Yogurt Bars</a>
+                                            <ul class="third-level">
+                                                <li><a href="/products/oat-snacks/yogurt-granola-bars/strawberry.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Products - Snack Bars', 'Chewy Yogurt Strawberry');">Chewy® Yogurt Strawberry
+                                                </a></li>
+                                                <li><a href="/products/oat-snacks/Yogurt-Granola-Bars/Blueberry.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Products - Snack Bars', 'Chewy Yogurt Blueberry');">Chewy® Yogurt Blueberry
+                                                </a></li>
+                                                <!--<li><a href="/products/oat-snacks/Yogurt-Granola-Bars/Vanilla.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Products - Snack Bars', 'Chewy Yogurt Vanilla');">Chewy® Yogurt Vanilla
+                                                </a></li>-->
+                                            </ul>
+                                        </li>
+                                        <li>
+                                            <a href="/product/snack-bars/real-medleys.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Products - Snack Bars', 'Real Medleys');">Real Medleys® Multigrain Bars</a>
+                                            <ul class="third-level">
+                                                <li><a href="/products/oat-snacks/real-medleys/apple-nut-harvest.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Products - Snack Bars', 'RM Multigrain Bar Apple Nut Harvest');">Real Medleys® Multigrain Bar Apple Nut Harvest
+                                                </a></li>
+                                                <li><a href="/products/oat-snacks/real-medleys/cherry-pistachio.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Products - Snack Bars', 'RM Multigrain Bar Cherry Pistachio');">Real Medleys® Multigrain Bar Cherry Pistachio
+                                                </a></li>
+                                                <li><a href="/products/oat-snacks/real-medleys/dark-chocolate-almond-coconut.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Products - Snack Bars', 'RM Multigrain Bar Dark Chocolate Almond Coconut');">Real Medleys® Multigrain Bar Dark Chocolate Almond Coconut
+                                                </a></li>
+                                                <li><a href="/products/oat-snacks/real-medleys/peach-almond.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Products - Snack Bars', 'RM Multigrain Bar Peach Almond');">Real Medleys® Multigrain Bar Peach Almond
+                                                </a></li>
+                                            </ul>
+                                        </li>
+                                        <li>
+                                            <a href="/product/snack-bars/protein-bars.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Products - Snack Bars', 'Protein Bars');">Protein Bars</a>
+                                            <ul class="third-level">
+                                                <li><a href="/products/oat-snacks/protein-baked-bars/oatmeal-raisin-nut.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Products - Snack Bars', 'Protein Baked Bar Oatmeal Raisin Nut');">Protein Baked Bar Oatmeal Raisin Nut
+                                                </a></li>
+                                                <li><a href="/products/oat-snacks/protein-baked-bars/peanut-butter-chocolate.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Products - Snack Bars', 'Protein Baked Bar Peanut Butter Chocolate Chip');">Protein Baked Bar Peanut Butter Chocolate Chip
+                                                </a></li>
+                                            </ul>
+                                        </li>
+                                        <li>
+                                            <a href="/product/snack-bars/quinoa-bars.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Products - Snack Bars', 'Quinoa Bars');">Quinoa Bars</a>
+                                            <ul class="third-level">
+                                                <li><a href="/products/oat-snacks/quinoa-granola-bars/chocolate-nut-medley.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Products - Snack Bars', 'Quinoa Bars Chocolate  Nut Medley');">Quinoa Bars Chocolate  Nut Medley
+                                                </a></li>
+                                                <li><a href="/products/oat-snacks/quinoa-granola-bars/yogurt-fruit-nut.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Products - Snack Bars', 'Quinoa Bar Yogurt, Fruit &amp; Nut');">Quinoa Bar Yogurt, Fruit &amp; Nut
+                                                </a></li>
+                                            </ul>
+                                        </li>
+                                        <li>
+                                            <a href="/product/snack-bars/baked-bars.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Products - Snack Bars', 'Baked Bars');">Baked Bars</a>
+                                            <ul class="third-level">
+                                                <li><a href="/products/oat-snacks/oatmeal-to-go-bars/brown-sugar-and-cinnamon.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Products - Snack Bars', 'Oatmeal To Go Brown Sugar and Cinnamon');">Oatmeal To Go Brown Sugar and Cinnamon
+                                                </a></li>
+                                                <li><a href="/products/oat-snacks/oatmeal-to-go-bars/apples-with-cinnamon.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Products - Snack Bars', 'Oatmeal To Go Apples with Cinnamon');">Oatmeal To Go Apples with Cinnamon
+                                                </a></li>
+                                                <li><a href="/products/oat-snacks/oatmeal-to-go-bars/banana-bread.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Products - Snack Bars', 'Oatmeal To Go Banana Bread');">Oatmeal To Go Banana Bread
+                                                </a></li>
+                                                <li><a href="/products/oat-snacks/oatmeal-to-go-bars/oatmeal-raisin.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Products - Snack Bars', 'Oatmeal To Go Oatmeal Raisin');">Oatmeal To Go Oatmeal Raisin
+                                                </a></li>
+                                                <li><a href="/products/oat-snacks/oatmeal-to-go-bars/raspberry-streusel.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Products - Snack Bars', 'Oatmeal To Go Raspberry Streusel');">Oatmeal To Go Raspberry Streusel
+                                                </a></li>
+                                                <li><a href="/products/oat-snacks/Soft-Baked-Bars/Banana-Nut-Bread.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Products - Snack Bars', 'Soft Baked Banana Nut Bread');">Soft  Baked Banana Nut Bread
+                                                </a></li>
+                                                <li><a href="/products/oat-snacks/Soft-Baked-Bars/Cinnamon-Pecan-Bread.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Products - Snack Bars', 'Soft Baked Cinnamon Pecan Bread');">Soft  Baked Cinnamon Pecan Bread
                                                 </a></li>
                                             </ul>
                                         </li>
                                     </ul>
                                 </li>
                                 <li>
-                                    <a href="/products/other-products.aspx">Other Products</a>
+                                    <a href="/products/rice-snacks.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Products - Category', 'Rice Snacks');">Quaker Rice Snacks</a>
                                     <ul class="second-level">
                                         <li>
-                                            <a href="/product/other-products/barley.aspx">Barley</a>
+                                            <a href="/product/rice-snacks/popped-crisps.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Products - Rice Snacks', 'Popped Crisps');">Popped® Crisps</a>
                                             <ul class="third-level">
-                                                <li><a href="/products/more-products-from-quaker/content/specialty-items/quick-barley.aspx">Quick Barley
+                                                <li><a href="/products/rice-snacks/popped/cheddar-cheese.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Products - Rice Snacks', 'Popped Cheddar Cheese');">Popped® Cheddar Cheese
                                                 </a></li>
-                                                <li><a href="/products/more-products-from-quaker/content/specialty-items/medium-barley.aspx">Medium Barley
+                                                <li><a href="/products/rice-snacks/popped/caramel-corn.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Products - Rice Snacks', 'Popped Caramel Corn');">Popped® Caramel Corn
+                                                </a></li>
+                                                <li><a href="/products/rice-snacks/popped/sour-cream-and-onion.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Products - Rice Snacks', 'Popped Sour Cream and Onion');">Popped® Sour Cream and Onion
+                                                </a></li>
+                                                <li><a href="/products/rice-snacks/popped/ranch.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Products - Rice Snacks', 'Popped Ranch');">Popped® Ranch
+                                                </a></li>
+                                                <li><a href="/products/rice-snacks/popped/apple-cinnamon.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Products - Rice Snacks', 'Popped Apple Cinnamon');">Popped® Apple Cinnamon
+                                                </a></li>
+                                                <li><a href="/products/rice-snacks/popped/chocolate.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Products - Rice Snacks', 'Popped Chocolate');">Popped® Chocolate
+                                                </a></li>
+                                                <li><a href="/products/rice-snacks/popped/sweet-chili.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Products - Rice Snacks', 'Popped Sweet Chili');">Popped® Sweet Chili
+                                                </a></li>
+                                                <li><a href="/products/rice-snacks/popped/kettle-corn.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Products - Rice Snacks', 'Popped Kettle Corn');">Popped® Kettle Corn
+                                                </a></li>
+                                                <li><a href="/products/rice-snacks/popped/sea-salt-and-cracked-black-pepper.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Products - Rice Snacks', 'Popped Salt &amp; Black Pepper');">Popped® Sea Salt &amp; Cracked Black Pepper
+                                                </a></li>
+                                                <li><a href="/products/rice-snacks/popped/bbq.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Products - Rice Snacks', 'Popped BBQ');">Popped® BBQ
+                                                </a></li>
+                                                <li><a href="/products/rice-snacks/popped/savory-mix.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Products - Rice Snacks', 'Popped Savory Mix');">Popped® Savory Mix
+                                                </a></li>
+                                                <li><a href="/products/rice-snacks/popped/sweet-mix.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Products - Rice Snacks', 'Popped Sweet Mix');">Popped® Sweet Mix
                                                 </a></li>
                                             </ul>
                                         </li>
                                         <li>
-                                            <a href="/product/other-products/corn-meal.aspx">Corn Meal</a>
+                                            <a href="/product/rice-snacks/rice-cakes.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Products - Rice Snacks', 'Rice Cakes');">Rice Cakes</a>
                                             <ul class="third-level">
-                                                <li><a href="/products/more-products-from-quaker/content/specialty-items/cornmeal/yellow-corn-meal.aspx">Yellow Corn Meal
+                                                <li><a href="/products/rice-snacks/rice-cakes/lightly-salted.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Products - Rice Snacks', 'Rice Cakes Lightly Salted');">Rice Cakes Lightly Salted
                                                 </a></li>
-                                                <li><a href="/products/more-products-from-quaker/content/specialty-items/cornmeal/white-corn-meal.aspx">White Corn Meal
+                                                <li><a href="/products/rice-snacks/rice-cakes/caramel-corn.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Products - Rice Snacks', 'Rice Cakes Caramel Corn');">Rice Cakes Caramel Corn
+                                                </a></li>
+                                                <li><a href="/products/rice-snacks/rice-cakes/white-cheddar.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Products - Rice Snacks', 'Rice Cakes White Cheddar');">Rice Cakes White Cheddar
+                                                </a></li>
+                                                <li><a href="/products/rice-snacks/rice-cakes/chocolate-crunch.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Products - Rice Snacks', 'Rice Cakes Chocolate Crunch');">Rice Cakes Chocolate Crunch
+                                                </a></li>
+                                                <li><a href="/products/rice-snacks/rice-cakes/buttered-popcorn.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Products - Rice Snacks', 'Rice Cakes Butter Popped Corn');">Rice Cakes Butter Popped® Corn
+                                                </a></li>
+                                                <li><a href="/products/rice-snacks/rice-cakes/apple-cinnamon.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Products - Rice Snacks', 'Rice Cakes Apple Cinnamon');">Rice Cakes Apple Cinnamon
+                                                </a></li>
+                                                <li><a href="/products/rice-snacks/rice-cakes/salt-free.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Products - Rice Snacks', 'Rice Cakes Salt Free');">Rice Cakes Salt Free
+
                                                 </a></li>
                                             </ul>
                                         </li>
                                         <li>
-                                            <a href="/product/other-products/mixes.aspx">Mixes</a>
+                                            <a href="/product/rice-snacks/popped-hummus-chips.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Products - Rice Snacks', 'Popped Hummus Chips');">Popped® Hummus Chips</a>
                                             <ul class="third-level">
-                                                <li><a href="/products/other-products/tortilla-mix/masa-preparada.aspx">Tortilla Mix
+                                                <li><a href="/products/rice-snacks/popped-chips/white-cheddar.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Products - Rice Snacks', 'Popped Chips White Cheddar Herb');">Popped® Chips White Cheddar and Herb
+                                                </a></li>
+                                                <li><a href="/products/rice-snacks/popped-chips/salsa-fresca.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Products - Rice Snacks', 'Popped Chips Salsa Fresca');">Popped® Chips Salsa Fresca
                                                 </a></li>
                                             </ul>
                                         </li>
                                         <li>
-                                            <a href="/product/other-products/cookies-biscuits.aspx">Cookies &amp; Biscuits</a>
+                                            <a href="/product/rice-snacks/popped-sweet-oat-crisps.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Products - Rice Snacks', 'Popped Sweet Oat Crisps');">Popped® Sweet Oat Crisps</a>
                                             <ul class="third-level">
-                                                <li><a href="/products/cookies/crispy-oat-granola-cookies/chocolate-chip.aspx">Crispy Oatmeal Cookies Chocolate Chip
+                                                <li><a href="/products/rice-snacks/popped-sweet-oat-crisps/wild-blueberry.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Products - Rice Snacks', 'Multigrain Fiber Crisp Wild Blueberry');">Multigrain Fiber Crisp Wild Blueberry
                                                 </a></li>
-                                                <li><a href="/products/cookies/crispy-oat-granola-cookies/peanut-butter.aspx">Crispy Oatmeal Cookies Peanut Butter
+                                                <li><a href="/products/rice-snacks/popped-sweet-oat-crisps/blackberry-pomegranate.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Products - Rice Snacks', 'Multigrain Fiber Crisp Blackberry Pomegranate');">Multigrain Fiber Crisp Blackberry Pomegrante
                                                 </a></li>
-                                                <li><a href="/products/cookies/yogurt-sandwich-biscuits/vanilla.aspx">Oat &amp; Yogurt Sandwich Biscuits Vanilla
+                                            </ul>
+                                        </li>
+                                        <li>
+                                            <a href="/product/rice-snacks/popped-tortilla-chips.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Products - Rice Snacks', 'Popped Tortilla Chips');">Popped® Tortilla Chips</a>
+                                            <ul class="third-level">
+                                                <li><a href="/products/rice-snacks/popped-tortilla-chips/cheesy-nacho.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Products - Rice Snacks', 'Popped Tortilla Chips Cheesy Nacho');">Popped® Tortilla Chips Cheesy Nacho
                                                 </a></li>
-                                                <li><a href="/products/cookies/yogurt-sandwich-biscuits/strawberry.aspx">Oat &amp; Yogurt Sandwich Biscuits Strawberry
+                                                <li><a href="/products/rice-snacks/popped-tortilla-chips/tangy-ranch.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Products - Rice Snacks', 'Popped Tortilla Chips Tangy Ranch');">Popped® Tortilla Chips Tangy Ranch
                                                 </a></li>
-                                                <li><a href="/products/cookies/breakfast-cookies/oatmeal-chocolate-chip.aspx">Breakfast Cookies Oatmeal Chocolate Chip
+                                            </ul>
+                                        </li>
+                                    </ul>
+                                </li>
+                                <li>
+                                    <a href="/products/real-medleys.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Products - Category', 'Real Medleys');">Quaker Real Medleys</a>
+                                    <ul class="second-level">
+                                        <li>
+                                            <a href="/product/real-medleys/oatmeal.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Products - Real Medleys', 'RM Oatmeal');">Real Medleys® Oatmeal+</a>
+                                            <ul class="third-level">
+                                                <li><a href="/products/hot-cereals/real-medleys/apple-walnut-oatmeal.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Products - Real Medleys', 'RM Oatmeal Apple Walnut');">Real Medleys® Oatmeal + Apple Walnut
                                                 </a></li>
-                                                <li><a href="/products/cookies/breakfast-cookies/oatmeal-raisin.aspx">Breakfast Cookies Oatmeal Raisin
+                                                <li><a href="/products/hot-cereals/real-medleys/summer-berry-oatmeal.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Products - Real Medleys', 'RM Oatmeal Summer Berry');">Real Medleys® Oatmeal + Summer Berry
+                                                </a></li>
+                                                <li><a href="/products/hot-cereals/real-medleys/blueberry-hazelnut-oatmeal.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Products - Real Medleys', 'RM Oatmeal Blueberry Hazelnut');">Real Medleys® Oatmeal + Blueberry Hazelnut
+                                                </a></li>
+                                                <li><a href="/products/hot-cereals/real-medleys/peach-almond-oatmeal.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Products - Real Medleys', 'RM Oatmeal Peach Almond');">Real Medleys® Oatmeal + Peach Almond
+                                                </a></li>
+                                                <li><a href="/products/hot-cereals/real-medleys/banana-walnut-oatmeal.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Products - Real Medleys', 'RM Oatmeal SuperGrains Banana Walnut');">Real Medleys® SuperGrains Oatmeal+ Banana Walnut
+                                                </a></li>
+                                                <li><a href="/products/hot-cereals/real-medleys/maple-raisin-oatmeal.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Products - Real Medleys', 'RM Oatmeal SuperGrains Maple Pecan');">Real Medleys® SuperGrains Oatmeal+ Maple Pecan Raisin
+                                                </a></li>
+                                            </ul>
+                                        </li>
+					<li>
+                                            <a href="/product/real-medleys/steel-cut-oatmeal.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Products - Real Medleys', 'RM Steel Cut Oatmeal');">Real Medleys® Steel Cut Oatmeal</a>
+                                             <ul class="third-level">
+						<li><a href="/products/hot-cereals/real-medleys/apple-pear-pecan.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Products - Hot Cereal', 'RM Steel Cut Oatmeal - Apple Pear Pecan');">Real Medleys® Steel Cut Oatmeal Apple Pear Pecan
+                                                </a></li>
+						<li><a href="/products/hot-cereals/real-medleys/cranberry-vanilla-almond.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Products - Hot Cereal', 'RM Steel Cut Oatmeal - Cranberry Vanilla Almond');">Real Medleys® Steel Cut Oatmeal Cranberry Vanilla Almond
+                                                </a></li>                                     
+                                            </ul>
+                                        </li>
+                                        <li>
+                                            <a href="/product/real-medleys/multigrain-cereal.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Products - Real Medleys', 'RM Multigrain Cereal');">Real Medleys® Multigrain Cereal</a>
+                                             <ul class="third-level">
+                                                <li><a href="/products/cold-cereals/real-medleys/cherry-almond-pecan.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Products - Real Medleys', 'RM Multigrain Cereal Cherry Almond Pecan');">Real Medleys® Multigrain Cereal Cherry Almond Pecan
+                                                </a></li>
+                                                <li><a href="/products/cold-cereals/real-medleys/peach-apple-walnut.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Products - Real Medleys', 'RM Multigrain Cereal Peach Apple Walnut');">Real Medleys® Multigrain Cereal Peach Apple Walnut
+                                                </a></li>                                                
+                                            </ul>
+                                        </li>
+                                        <li>
+                                            <a href="/product/real-medleys/granola.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Products - Real Medleys', 'RM Granola');">Real Medleys® Granola</a>
+                                             <ul class="third-level">
+                                                 <li><a href="/products/cold-cereals/real-medleys/summer-berry-granola.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Products - Real Medleys', 'RM Granola Summer Berry');">Real Medleys® Granola Summer Berry
+                                                </a></li>
+                                                <li><a href="/products/cold-cereals/real-medleys/dark-chocolate-cranberry-almond-granola.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Products - Real Medleys', 'RM Granola Chocolate');">Real Medleys® Granola Chocolate
+                                                </a></li>
+                                            </ul>
+                                        </li>
+                                        <li>
+                                            <a href="/product/real-medleys/multigrain-bars.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Products - Real Medleys', 'RM Multigrain Bars');">Real Medleys® Multigrain Bars</a>
+                                             <ul class="third-level">
+                                                <li><a href="/products/oat-snacks/real-medleys/apple-nut-harvest.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Products - Real Medleys', 'RM Multigrain Bars Apple Nut Harvest');">Real Medleys® Multigrain Bar Apple Nut Harvest
+                                                </a></li>
+                                                <li><a href="/products/oat-snacks/real-medleys/cherry-pistachio.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Products - Real Medleys', 'RM Multigrain Bars Cherry Pistachio');">Real Medleys® Multigrain Bar Cherry Pistachio
+                                                </a></li>
+                                                <li><a href="/products/oat-snacks/real-medleys/dark-chocolate-almond-coconut.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Products - Real Medleys', 'RM Multigrain Bars Dark Chocolate Almond');">Real Medleys® Multigrain Bar Dark Chocolate Almond Coconut
+                                                </a></li>
+                                                <li><a href="/products/oat-snacks/real-medleys/peach-almond.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Products - Real Medleys', 'RM Multigrain Bars Peach Almond');">Real Medleys® Multigrain Bar Peach Almond
+                                                </a></li>
+                                            </ul>
+                                        </li>
+					<li>
+					    <a href="/product/real-medleys/granola-yogurt-blend.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Products - Real Medleys', 'RM Granola &amp; Yogurt Blend');">Real Medleys® Granola &amp; Yogurt Blend</a>
+                                             <ul class="third-level">
+                                        	<li><a href="/products/cold-cereals/real-medleys/strawberry-almond-granola-yogurt.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Products - Real Medleys', 'RM Granola &amp; Yogurt Blend Strawberry Almond');">Real Medleys® Granola &amp; Yogurt Blend Strawberry Almond
+                                                </a></li>
+                                        	<li><a href="/products/cold-cereals/real-medleys/apple-cinnamon-granola-yogurt.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Products - Real Medleys', 'RM Granola &amp; Yogurt Blend Apple &amp; Cinnamon');">Real Medleys® Granola &amp; Yogurt Blend Apple &amp; Cinnamon
+                                                </a></li>
+                                        	<li><a href="/products/cold-cereals/real-medleys/raspberry-pecan-granola-yogurt.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Products - Real Medleys', 'RM Granola &amp; Yogurt Blend Raspberry &amp; Pecan');">Real Medleys® Granola &amp; Yogurt Blend Raspberry &amp; Pecan
+                                                </a></li>
+                                            </ul>
+                                        </li>
+                                        
+                                    </ul>
+                                </li>
+                                <li>
+                                    <a href="/products/other-products.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Products - Category', 'Other Products');">Other Products</a>
+                                    <ul class="second-level">
+                                        <li>
+                                            <a href="/product/other-products/barley.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Products - Other', 'Barley');">Barley</a>
+                                            <ul class="third-level">
+                                                <li><a href="/products/more-products-from-quaker/content/specialty-items/quick-barley.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Products - Other', 'Quick Barley');">Quick Barley
+                                                </a></li>
+                                                <li><a href="/products/more-products-from-quaker/content/specialty-items/medium-barley.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Products - Other', 'Medium Barley');">Medium Barley
+                                                </a></li>
+                                            </ul>
+                                        </li>
+                                        <li>
+                                            <a href="/product/other-products/corn-meal.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Products - Other', 'Corn Meal');">Corn Meal</a>
+                                            <ul class="third-level">
+                                                <li><a href="/products/more-products-from-quaker/content/specialty-items/cornmeal/yellow-corn-meal.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Products - Other', 'Yellow Corn Meal');">Yellow Corn Meal
+                                                </a></li>
+                                                <li><a href="/products/more-products-from-quaker/content/specialty-items/cornmeal/white-corn-meal.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Products - Other', 'White Corn Meal');">White Corn Meal
+                                                </a></li>
+                                            </ul>
+                                        </li>
+                                        <li>
+                                            <a href="/product/other-products/mixes.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Products - Other', 'Mixes');">Mixes</a>
+                                            <ul class="third-level">
+                                                <li><a href="/products/other-products/tortilla-mix/masa-preparada.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Products - Other', 'Tortilla Mix');">Tortilla Mix
+                                                </a></li>
+                                            </ul>
+                                        </li>
+                                        <li>
+                                            <a href="/product/other-products/cookies-biscuits.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Products - Other', 'Cookies &amp; Biscuits');">Cookies &amp; Biscuits</a>
+                                            <ul class="third-level">
+                                                <li><a href="/products/cookies/yogurt-sandwich-biscuits/vanilla.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Products - Other', 'Oat &amp; Yogurt Sandwich Biscuits Vanilla');">Oat &amp; Yogurt Sandwich Biscuits Vanilla
+                                                </a></li>
+                                                <li><a href="/products/cookies/yogurt-sandwich-biscuits/strawberry.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Products - Other', 'Oat &amp; Yogurt Sandwich Biscuits Strawberry');">Oat &amp; Yogurt Sandwich Biscuits Strawberry
+                                                </a></li>
+                                                <li><a href="/products/cookies/breakfast-cookies/oatmeal-chocolate-chip.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Products - Other', 'Breakfast Cookies Oatmeal Chocolate Chip');">Breakfast Cookies Oatmeal Chocolate Chip
+                                                </a></li>
+                                                <li><a href="/products/cookies/breakfast-cookies/oatmeal-raisin.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Products - Other', 'Breakfast Cookies Oatmeal Raisin');">Breakfast Cookies Oatmeal Raisin
                                                 </a></li>
                                             </ul>
                                         </li>
                                     </ul>
                                 </li>
                                 <li class=" ">
-                                    <a href="/products.aspx" class="all-prod noborder noarrow">All Products</a>
+                                    <a href="/products.aspx" class="all-prod noborder noarrow" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Products - Category', 'All Products');">All Products</a>
                                 </li>
                             </ul>
                         </li>
 
                         <li class="cookingRecipes">
-                            <a href="/cooking-and-recipes">Cooking &amp; <span>Recipes</span></a>
+                            <a href="/cooking-and-recipes" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Cooking &amp; Recipes', 'Top Nav Item');">Cooking &amp; <span>Recipes</span></a>
                             <ul class="first-level">
                                 <li>
-                                    <a href="/cooking-and-recipes">Recipe Finder</a>
+                                    <a href="/cooking-and-recipes" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Cooking &amp; Recipes - Category', 'Recipe Finder');">Recipe Finder</a>
                                     <ul class="second-level">
                                         <li>
-                                            <a href="/cooking-and-recipes/recipe-search-results.aspx?filter=Breakfast">For Breakfast</a>
+                                            <a href="/cooking-and-recipes/recipe-search-results.aspx?filter=Breakfast" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Cooking &amp; Recipes - Recipe Finder', 'For Breakfast');">For Breakfast</a>
 
                                         </li>
                                         <li>
-                                            <a href="/cooking-and-recipes/recipe-search-results.aspx?filter=Lunch">For Lunch</a>
+                                            <a href="/cooking-and-recipes/recipe-search-results.aspx?filter=Lunch" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Cooking &amp; Recipes - Recipe Finder', 'For Lunch');">For Lunch</a>
 
                                         </li>
                                         <li>
-                                            <a href="/cooking-and-recipes/recipe-search-results.aspx?filter=Dinner">For Dinner</a>
+                                            <a href="/cooking-and-recipes/recipe-search-results.aspx?filter=Dinner" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Cooking &amp; Recipes - Recipe Finder', 'For Dinner');">For Dinner</a>
 
                                         </li>
                                         <li>
-                                            <a href="/cooking-and-recipes/recipe-search-results.aspx?filter=Snack">For a Snack</a>
+                                            <a href="/cooking-and-recipes/recipe-search-results.aspx?filter=Snack" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Cooking &amp; Recipes - Recipe Finder', 'For a Snack');">For a Snack</a>
 
                                         </li>
                                         <li>
-                                            <a href="/cooking-and-recipes/recipe-search-results.aspx?filter=Oatmeal">Oatmeal Recipes</a>
+                                            <a href="/cooking-and-recipes/recipe-search-results.aspx?filter=Oatmeal" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Cooking &amp; Recipes - Recipe Finder', 'Oatmeal Recipes');">Oatmeal Recipes</a>
 
                                         </li>
                                         <li>
-                                            <a href="/cooking-and-recipes/recipe-search-results.aspx?filter=Main">In a Main Course</a>
+                                            <a href="/cooking-and-recipes/recipe-search-results.aspx?filter=Main" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Cooking &amp; Recipes - Recipe Finder', 'In a Main Course');">In a Main Course</a>
 
                                         </li>
                                         <li>
-                                            <a href="/cooking-and-recipes/recipe-search-results.aspx?filter=Side">In Sides</a>
+                                            <a href="/cooking-and-recipes/recipe-search-results.aspx?filter=Side" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Cooking &amp; Recipes - Recipe Finder', 'In Sides');">In Sides</a>
 
                                         </li>
                                         <li>
-                                            <a href="/cooking-and-recipes/recipe-search-results.aspx?filter=Dessert">In Dessert</a>
+                                            <a href="/cooking-and-recipes/recipe-search-results.aspx?filter=Dessert" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Cooking &amp; Recipes - Recipe Finder', 'In Dessert');">In Dessert</a>
 
                                         </li>
                                         <li>
-                                            <a href="/cooking-and-recipes/recipe-search-results.aspx?filter=Vegetarian">Vegetarian Dishes</a>
+                                            <a href="/cooking-and-recipes/recipe-search-results.aspx?filter=Vegetarian" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Cooking &amp; Recipes - Recipe Finder', 'Vegetarian Dishes');">Vegetarian Dishes</a>
 
                                         </li>
                                         <li>
-                                            <a href="/cooking-and-recipes/recipe-search-results.aspx?filter=Seasonal">Seasonal Dishes</a>
+                                            <a href="/cooking-and-recipes/recipe-search-results.aspx?filter=Seasonal" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Cooking &amp; Recipes - Recipe Finder', 'Seasonal Dishes');">Seasonal Dishes</a>
 
                                         </li>
                                     </ul>
                                 </li>
                                 <li>
-                                    <a href="/cooking-and-recipes/content/kids-in-the-kitchen.aspx" class="arrowdisable">Kids in the Kitchen</a>
+                                    <a href="/cooking-and-recipes/content/kids-in-the-kitchen.aspx" class="arrowdisable" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Cooking &amp; Recipes - Category', 'Kids in the Kitchen');">Kids in the Kitchen</a>
                                 </li>
                                 <li>
-                                    <a href="/cooking-and-recipes/content/baking-101/welcome-to-baking-101.aspx">Baking 101</a>
+                                    <a href="/cooking-and-recipes/content/baking-101/welcome-to-baking-101.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Cooking &amp; Recipes - Category', 'Baking 101');">Baking 101</a>
                                     <ul class="second-level">
                                         <li>
-                                            <a href="/cooking-and-recipes/content/baking-101/welcome-to-baking-101.aspx">Baking Overview</a>
+                                            <a href="/cooking-and-recipes/content/baking-101/welcome-to-baking-101.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Cooking &amp; Recipes - Baking 101', 'Baking Overview');">Baking Overview</a>
 
                                         </li>
                                         <li>
-                                            <a href="/cooking-and-recipes/content/baking-101/cookies.aspx">Cookies</a>
+                                            <a href="/cooking-and-recipes/content/baking-101/cookies.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Cooking &amp; Recipes - Baking 101', 'Cookies');">Cookies</a>
 
                                         </li>
                                         <li>
-                                            <a href="/cooking-and-recipes/content/baking-101/bar-cookies.aspx">Bar Cookies</a>
+                                            <a href="/cooking-and-recipes/content/baking-101/bar-cookies.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Cooking &amp; Recipes - Baking 101', 'Bar Cookies');">Bar Cookies</a>
 
                                         </li>
                                         <li>
-                                            <a href="/cooking-and-recipes/content/baking-101/muffins.aspx">Muffins</a>
+                                            <a href="/cooking-and-recipes/content/baking-101/muffins.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Cooking &amp; Recipes - Baking 101', 'Muffins');">Muffins</a>
 
                                         </li>
                                         <li>
-                                            <a href="/cooking-and-recipes/content/baking-101/biscuits.aspx">Biscuits</a>
+                                            <a href="/cooking-and-recipes/content/baking-101/biscuits.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Cooking &amp; Recipes - Baking 101', 'Biscuits');">Biscuits</a>
 
                                         </li>
                                         <li>
-                                            <a href="/cooking-and-recipes/content/baking-101/quick-breads.aspx">Quick Breads</a>
+                                            <a href="/cooking-and-recipes/content/baking-101/quick-breads.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Cooking &amp; Recipes - Baking 101', 'Quick Breads');">Quick Breads</a>
 
                                         </li>
                                         <li>
-                                            <a href="/cooking-and-recipes/content/baking-101/yeast-breads.aspx">Yeast Breads</a>
+                                            <a href="/cooking-and-recipes/content/baking-101/yeast-breads.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Cooking &amp; Recipes - Baking 101', 'Yeast Breads');">Yeast Breads</a>
 
                                         </li>
                                     </ul>
                                 </li>
+				<li>
+                                    <a href="/cooking-and-recipes/overnightoats" class="arrowdisable" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Cooking &amp; Recipes - Category', 'Overnight Oats');">Overnight Oats</a>
+                                </li>
                                 <li>
-                                    <a href="/cooking-and-recipes/content/oatmazing-oatmeal.aspx" class="noborder arrowdisable">Oatmazing Oatmeal</a>
+                                    <a href="/cooking-and-recipes/content/oatmazing-oatmeal.aspx" class="noborder arrowdisable" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Cooking &amp; Recipes - Category', 'Oatmazing Oatmeal');">Oatmazing Oatmeal</a>
                                 </li>
                             </ul>
                         </li>
 
                         <li class="aboutQuaker">
-                            <a href="/about-quaker-oats.aspx">About <span>Quaker</span></a>
+                            <a href="/about-quaker-oats.aspx" onclick="ga('send', 'event', 'Global Navigation', 'About Quaker', 'Top Nav Item');">About <span>Quaker</span></a>
                             <ul class="first-level">
                                 <li class=" ">
-                                    <a href="/about-quaker-oats/quaker-history.aspx" class="arrowdisable">Quaker History</a>
+                                    <a href="/about-quaker-oats/quaker-history.aspx" class="arrowdisable" onclick="ga('send', 'event', 'Global Navigation', 'About Quaker - Category', 'Quaker History');">Quaker History</a>
                                 </li>
                                 <li class=" ">
-                                    <a href="/about-quaker-oats/content/quaker-faq.aspx" class="arrowdisable">Quaker FAQs</a>
+                                    <a href="/about-quaker-oats/content/quaker-faq.aspx" onclick="ga('send', 'event', 'Global Navigation', 'About Quaker - Category', 'Quaker FAQs');">Quaker FAQs</a>
+									<ul class="second-level">
+									<li>
+                                            <a href="/about-quaker-oats/content/quaker-faq.aspx" onclick="ga('send', 'event', 'Global Navigation', 'About 
+
+Quaker FAQs', 'Quaker FAQ');">Quaker FAQs</a>
+                                        </li>
+                                        <li>
+                                            <a href="/about-quaker-oats/content/quaker-faq-gluten-free.aspx" onclick="ga('send', 'event', 'Global Navigation', 'About 
+
+Quaker Gluten Free FAQs', 'Quaker Gluten Free FAQ');">Quaker Gluten Free FAQ</a>
+                                        </li>
+                                        </ul>
                                 </li>
 
                                 <li>
-                                    <a href="/oats-do-more.aspx">Healthy Living</a>
+                                    <a href="/oats-do-more.aspx" onclick="ga('send', 'event', 'Global Navigation', 'About Quaker - Category', 'Healthy Living');">Healthy Living</a>
                                     <ul class="second-level">
                                         <li>
-                                            <a href="/oats-do-more/why-oats/our-oat-story.aspx">Our Oat Story</a>
+                                            <a href="/oats-do-more/why-oats/our-oat-story.aspx" onclick="ga('send', 'event', 'Global Navigation', 'About Quaker - Healthy Living', 'Our Oat Story');">Our Oat Story</a>
 
                                         </li>
                                         <li>
-                                            <a href="/oats-do-more/for-your-family/teaching-healthy-eating-habits.aspx">Teaching Healthy Eating Habits</a>
+                                            <a href="/oats-do-more/for-your-family/teaching-healthy-eating-habits.aspx" onclick="ga('send', 'event', 'Global Navigation', 'About Quaker - Healthy Living', 'Teaching Healthy Eating Habits');">Teaching Healthy Eating Habits</a>
 
                                         </li>
                                         <li>
-                                            <a href="/oats-do-more/for-your-family/family-nutrition.aspx">Family Nutrition</a>
+                                            <a href="/oats-do-more/for-your-family/family-nutrition.aspx" onclick="ga('send', 'event', 'Global Navigation', 'About Quaker - Healthy Living', 'Family Nutrition');">Family Nutrition</a>
 
                                         </li>
                                         <li>
-                                            <a href="/oats-do-more/for-your-family/family-fitness.aspx">Family Fitness</a>
+                                            <a href="/oats-do-more/for-your-family/family-fitness.aspx" onclick="ga('send', 'event', 'Global Navigation', 'About Quaker - Healthy Living', 'Family Fitness');">Family Fitness</a>
 
                                         </li>
                                         <li>
-                                            <a href="/oats-do-more/for-your-health/healthy-eating.aspx">Healthy Eating</a>
+                                            <a href="/oats-do-more/for-your-health/healthy-eating.aspx" onclick="ga('send', 'event', 'Global Navigation', 'About Quaker - Healthy Living', 'Healthy Eating');">Healthy Eating</a>
 
                                         </li>
                                         <li>
-                                            <a href="/oats-do-more/for-your-health/fiber-and-whole-grains.aspx">Fiber &amp; Whole grains</a>
+                                            <a href="/oats-do-more/for-your-health/fiber-and-whole-grains.aspx" onclick="ga('send', 'event', 'Global Navigation', 'About Quaker - Healthy Living', 'Fiber &amp; Whole Grains');">Fiber &amp; Whole grains</a>
 
                                         </li>
                                         <li>
-                                            <a href="/oats-do-more/for-your-health/fitness-and-exercise.aspx">Fitness &amp; Exercise</a>
+                                            <a href="/oats-do-more/for-your-health/fitness-and-exercise.aspx" onclick="ga('send', 'event', 'Global Navigation', 'About Quaker - Healthy Living', 'Fitness &amp; Exercise');">Fitness &amp; Exercise</a>
 
                                         </li>
-                                        <li>
-                                            <a href="/oats-do-more/for-your-health/health-tools.aspx">Health Tools</a>
+                                       <!-- <li>
+                                            <a href="/oats-do-more/for-your-health/health-tools.aspx" onclick="ga('send', 'event', 'Global Navigation', 'About Quaker - Healthy Living', 'Health Tools');">Health Tools</a>
 
-                                        </li>
+                                        </li> -->
 
                                         <li>
-                                            <a href="/oats-do-more/for-your-world/oats-and-the-environment.aspx">Oats &amp; the Environment</a>
+                                            <a href="/oats-do-more/for-your-world/oats-and-the-environment.aspx" onclick="ga('send', 'event', 'Global Navigation', 'About Quaker - Healthy Living', 'Oats &amp; the Environment');">Oats &amp; the Environment</a>
 
                                         </li>
                                     </ul>
                                 </li>
                                 <li class="">
-                                    <a href="/about-quaker-oats/content/quakeroats-center-of-excellence.aspx" class="arrowdisable">Oats Center of Excellence</a>
+                                    <a href="/about-quaker-oats/content/quakeroats-center-of-excellence.aspx" class="arrowdisable" onclick="ga('send', 'event', 'Global Navigation', 'About Quaker - Category', 'Oats Center of Excellence');">Oats Center of Excellence</a>
                                 </li>
                                 <li class="">
-                                    <a href="/about-quaker-oats/chef-andrew.aspx" class="noborder arrowdisable">Chef Andrew</a>
+                                    <a href="/about-quaker-oats/chef-andrew.aspx" class="arrowdisable" onclick="ga('send', 'event', 'Global Navigation', 'About Quaker - Category', 'Chef Andrew');">Chef Andrew</a>
+                                </li>
+                                <li class="">
+                                    <a href="/about-quaker-oats/content/off-you-go.aspx" class="noborder arrowdisable" onclick="ga('send', 'event', 'Global Navigation', 'About Quaker - Category', 'Off you Go');">Off You Go</a>
                                 </li>
                             </ul>
                         </li>
 
                         <li class="offersPromo">
-                            <a href="/about-quaker-oats/content/offersandpromotions.aspx" class="">Offers &amp; <span>Promotions</span></a>
+                            <a href="/about-quaker-oats/content/offersandpromotions.aspx" class="" onclick="ga('send', 'event', 'Global Navigation', 'Offers &amp; Promotions', 'Top Nav Item');">Offers &amp; <span>Promotions</span></a>
                             <div class="">
                                 <div class="row">
                                 </div>
@@ -1283,29 +1414,25 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
         <div id="content">
               
         
-<div class="sfContentBlock"><div class="wrapper-main"> <div style="margin-left: 0px;"> <section> <div class="container stripeBg"> <div class="col-lg-8 col-md-8 col-xs-12 col-sm-12 static static-top"> <h3>THE QUAKER OATS COMPANY</h3> <h1>PRIVACY POLICY</h1> <p>Effective Date: May 29, 2014</p> <p><strong>This Privacy Policy applies to the sites and apps where it appears.</strong></p> <p>This Policy describes how we treat personal information on the websites where it is located. It also applies to our mobile sites, applications, social media pages, emails, banner ads, and promotions.We may change this policy from time to time. We will notify you of any material changes to our Policy as required by law. The most recent version of the policy will be posted here. Please check here often for updates.</p> <p><strong>What information we collect.</strong></p> <p class="no-space"><strong>Contact information.</strong> We might collect your name and email address if you register on our site. We might also collect your phone number or mailing address. We might collect your friend’s email address for our send-a-friend feature.</p> <p class="no-space"><strong>Information you submit or post.</strong> We collect the information you post in a public space on our site. We also collect information when you contact us.</p> <p class="no-space"> <strong>Demographic information.</strong> We may collect information like your gender and birthdate. We may collect information about your product preferences. We might collect this when you contact us or enter a promotion. We may collect your zip code(for example, to help you find a store that sells our products.)
-</p> <p class="no-space"> <strong>Other information.</strong> If you use our website, we may collect information about the browser you’re using. We might look at what site you came from, or what site you visit when you leave us. If you use our mobile app, we may collect your GPS location. We might look at how often you use the app and where you downloaded it.
-</p> </div> <div class="col-lg-4 col-md-4 col-sm-4 right-img nopadding hide-on-mobile"> <div> <img alt="" src="/images/default-source/Privacy-Policy/right-rail-utilitypage-privacypolicy-sflb-png.png"> </div> </div> <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 static full-body"> <p><strong>How we collect information.</strong></p> <p class="no-space"><strong>We collect information directly from you.</strong> We collect information if you sign up for emails, eNewsletter, enter our recipe box, enter a promotion or fill out an online survey. We also collect information if you contact us.</p> <p class="no-space"> <strong>We collect information from you passively.</strong> We use tracking tools like browser cookies and web beacons. We also collect information from our mobile apps.
-</p> <p class="no-space"> <strong>We may get information about you from third parties.</strong> For example,our business partners or social media platforms may give us information about you.
-</p> <p><strong>How we use information.</strong></p> <p class="no-space"><strong>We use information to respond to your requests or questions.</strong> We may use your information to respond to your comments and questions, or to notify you if you win a contest or sweepstakes.</p> <p class="no-space"><strong>We use information to improve our products and services. </strong>We may use your information to make our website and products better. We might use your information to customize your experience with us. We may combine information we get from you with information about you we get from third parties.</p> <p class="no-space"><strong>We use information for security purposes. </strong>We may use information to protect our company, our customers, and our websites.</p> <p class="no-space"> <strong>We use information for marketing purposes.</strong> For example, we mights end you information about new products and special offers. We might tell you about new promotions, features or updates. These might be third party offers or products we think you might find interesting. We may also use push notifications on our mobile apps. To manage this, read the“<a href="/docs/default-source/privacypolicy/quaker_tracking_disclosure_document_2014.doc?sfvrsn=2" shape="rect" target="_blank">Your Choices</a>”section below.
-</p> <p class="no-space"> <strong>We use information to communicate with you about your account or our relationship.</strong> We may contact you about your account or feedback. We might also contact you about this Policy or our website Terms.
-</p> <p class="no-space"> <strong>We use information as otherwise disclosed to you at the time we collect it.</strong> </p> <p class="no-space"> <strong>We use information as otherwise permitted by law.</strong> </p> <p> <strong>Sharing Information</strong><br> <br> <strong>We may share information within the PepsiCo family of companies. </strong>This includes Pepsi-Cola, Frito-Lay, Gatorade, and Tropicana. This also includes future subsidiaries or affiliates. For a full list of PepsiCo brands and companies,visit <a target="_blank" shape="rect" href="http://www.pepsico.com/Brands.html">http://www.pepsico.com/Brands.html</a>.</p> <p class="no-space"><strong>We will share information with third parties who perform services on our behalf. </strong>For example, we share information with vendors who perform services for us. We may also share information with companies that operate our websites or run a promotion for us.</p> <p class="no-space"><strong>We may share information with joint promotion partners. </strong>Sometimes we conduct joint promotions with third parties. If your register for one of those joint promotions your information may be collected by both Quaker and the third party. Or, we may give you the option to have us share your information with the promotion partner. Your information will be used by us and/or by them as described in our posted privacy policies.</p> <p class="no-space"><strong>We will share information if we think we have to in order to comply with the law or to protect ourselves. </strong>We will share information to respond to a court order or subpoena. We may share it if a government agency or investigatory body requests. We might also share information when we are investigating potential fraud. This might include fraud we think has happened during a sweepstakes or promotion.</p> <p class="no-space"><strong>We may share information with any successor to all or part of our business. </strong>For example, if part of our business was sold we may give our customer list as part of that transaction.</p> <p class="no-space"><strong>We may share information for other reasons we may describe to you.</strong></p> <p class="no-space"><strong>We may share anonymous information. </strong>We may share information that does not identify a particular individual. We may share this informtion with advertisers,business partners or other third parties. For example, we may share how many men and women entered a contest.</p> <p> <strong>Your choices about sharing and marketing practices.</strong></p> <p class="no-space"><strong>You can opt out of receiving our marketing emails. </strong>To stop receiving our promotional emails from us, follow the instructions in any promotional message you get from us. You can also log into your account and go to the "My Profile" page to change your preferences. Even if you opt out of getting marketing messages, we will still send you transactional messages. These include responses to your questions.</p> <p class="no-space"><strong>You can control cookies and tracking tools. </strong>Your browser may give you the ability to control cookies. How you do so depends on the type of cookie.Certain browsers can be set to reject browser cookies. If you block or delete cookies on your browser, certain features on our sites may not work, and not all of the tracking described in this policy will stop. Some browsers have a “DO NOT TRACK”feature that lets you tell websites that you do not want your online activities to be tracked. These features are not yet uniform, so we are currently not set up to respond to those signals.</p> <p class="no-space"><strong>You can control tools on your mobile devices. </strong>For example, you can turn off the GPS locator or push notifications on your phone. Each push notification has an “unsubscribe” link.</p> <p><strong>Your California privacy rights.</strong></p> <p>
-If you reside in California, you have the right to ask us one time each year ifwe have shared personal information with third parties for their direct marketing purposes. To make a request, please send us an <span style="text-decoration: underline;">email</span>, or write to us at the address listed below. Indicate in your letter that you are a California resident making a “Shine the Light” inquiry.
-</p> <p><strong>Our sites are not for kids.</strong></p> <p>
-Our sites and apps are meant for adults. We do not knowingly collect personally identifiable information from children under 13. If you are a parent or legal guardian and think your child under 13 has given us information, you can <a shape="rect" target="_blank" href="https://mcu.pepsico.com/m/?brand=Quaker">contact us</a> to remove the information.Our contact information is listed below. Parents, you can learn more about how to protect children's privacy on-line here: <a target="_blank" shape="rect" href="http://www.business.ftc.gov/privacy-and-security/childrens-privacy">http://www.business.ftc.gov/privacy-and-security/childrens-privacy </a>.
-</p> <p><strong>We use standard security measures.</strong></p> <p>
-The Internet is not 100% secure. We cannot promise that your use of our sites will be completely safe. We encourage you to use caution when using the Internet. This includes not sharing your passwords. We keep personal information as long as it is necessary or relevant for the practices described in this Policy. We also keep information as otherwise required by law.
-</p> <p><strong>We store information in the United States.</strong></p> <p>
+<div class="sfContentBlock"><div class="wrapper-main"> <div style="margin-left: 0px;"> <section> <div class="container stripeBg"> <div class="col-lg-8 col-md-8 col-xs-12 col-sm-12 static static-top"> <h3>THE QUAKER OATS COMPANY (“Quaker”)</h3> <h1>PRIVACY POLICY</h1> <p style="text-align: right;">Effective 2012 (last updated June 14, 2015)</p> <p class="no-space"><strong style="color: #c00000;">THIS PRIVACY POLICY APPLIES TO THE SITES AND APPS WHERE IT APPEARS.</strong></p> <p>This Policy describes how we treat personal information on the websites where it is located. It also applies to our mobile sites, applications, social media pages, emails, banner ads, and promotions.  This includes our company website at <a target="_blank" shape="rect" href="http://www.quakeroats.com">www.quakeroats.com </a>and Quaker brand websites.</p> <p>We may change this policy from time to time. We will notify you of any material changes to our Policy as required by law. The most recent version of the policy will be posted here. Please check here often for updates.</p> <p class="no-space"><strong style="color: #c00000;">WHAT INFORMATION WE COLLECT.</strong></p> <p><strong>Contact information.</strong> We might collect your name and email address if you register on our site. We might also collect your phone number or mailing address. We might collect your friend’s email address for our send-a-friend feature.</p> <p><strong>Information you submit or post.</strong> We collect the information you post in a public space on our websites. We also collect information when you contact us.</p> <p><strong>Demographic information.</strong> We may collect information like your gender and birthdate. We may collect information about your product preferences. We might collect this when you contact us or enter a promotion. We may collect your zip code (for example, to help you find a store that sells our products.)</p> <p><strong>Other information.</strong> If you use our website, we may collect information about the browser you’re using. We might look at what site you came from, or what site you visit when you leave us. If you use our mobile app, we may collect your location. We might look at how often you use the app and where you downloaded it.</p> </div> <div class="col-lg-4 col-md-4 col-sm-4 right-img nopadding hide-on-mobile"> <div> <img alt="" src="/images/default-source/Privacy-Policy/right-rail-utilitypage-privacypolicy-sflb-png.png"> </div> </div> <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 static full-body"> <p class="no-space"><strong style="color: #c00000;">HOW WE COLLECT INFORMATION.</strong></p> <p><strong>We collect information directly from you.</strong> We collect information if you sign up for emails, eNewsletters, enter our recipe box, enter a promotion or fill out an online survey.  We also collect information if you contact us.</p> <p><strong>We collect information from you passively.</strong> We use tracking tools like browser cookies and web beacons. We also collect information from our mobile apps.</p> <p><strong>We may get information about you from third parties.</strong> For example, our business partners or social media platforms may give us information about you.</p> <p class="no-space"><strong style="color: #c00000;">HOW WE USE INFORMATION.</strong></p> <p><strong>We use information to respond to your requests or questions.</strong> We may use your information to respond to your comments and questions, or to notify you if you win a contest or sweepstakes.</p> <p><strong>We use information to improve our products and services. </strong>We may use your information to make our websites and products better. We might use your information to customize your experience with us. We may combine information we get from you with information about you we get from third parties.</p> <p><strong>We use information for security purposes. </strong>We may use information to protect our company, our customers, and our websites.</p> <p><strong>We use information for marketing purposes.</strong> For example, we might send you information about new products and special offers. We might tell you about new promotions, features or updates. These might be third party offers or products we think you might find interesting.  We may also use push notifications on our mobile apps. To manage this, read the“<a href="/docs/default-source/privacypolicy/quaker_tracking_disclosure_document_2014.doc?sfvrsn=2" shape="rect" target="_blank">Your Choices</a>”section below.
+</p> <p><strong>We use information to communicate with you about your account or our relationship.</strong> We may contact you about your account or feedback. We might also contact you about this Policy or our website Terms.</p> <p><strong>We use information as otherwise disclosed to you at the time we collect it.</strong> </p> <p><strong>We use information as otherwise permitted by law.</strong> </p> <p class="no-space"><strong style="color: #c00000;">SHARING INFORMATION</strong></p> <p><strong>We may share information within the PepsiCo, Inc. family of companies. </strong>This includes Pepsi-Cola, Frito-Lay, Gatorade, and Tropicana.  This also includes future subsidiaries or affiliates.  For a full list of PepsiCo brands and companies, visit  <a target="_blank" shape="rect" href="http://www.pepsico.com/Brands.html">http://www.pepsico.com/Brands.html</a>.</p> <p><strong>We will share information with third parties who perform services on our behalf. </strong>For example, we share information with vendors who perform services for us.  We may also share information with companies that operate our websites or run a promotion for us.</p> <p><strong>We may share information with joint promotion partners. </strong>Sometimes we conduct joint promotions with third parties.  If your register for one of those joint promotions your information may be collected by both Quaker and the third party.  Or, we may give you the option to have us share your information with the promotion partner.  Your information will be used by us and/or by them as described in our posted privacy policies.</p> <p><strong>We will share information if we think we have to in order to comply with the law or to protect ourselves. </strong>We will share information to respond to a court order or subpoena.  We may share it if a government agency or investigatory body requests. We might also share information when we are investigating potential fraud. This might include fraud we think has happened during a sweepstakes or promotion.</p> <p><strong>We may share information with any successor to all or part of our business. </strong>For example, if part of our business was sold we may give our customer list as part of that transaction.</p> <p><strong>We may share information for other reasons we may describe to you.</strong></p> <p><strong>We may share anonymous information. </strong>We may share information that does not identify a particular individual. We may share this information with advertisers, business partners or other third parties. For example, we may share how many men and women entered a contest.</p> <p class="no-space"><strong style="color: #c00000;">YOUR CHOICES ABOUT SHARING AND MARKETING PRACTICES.</strong></p> <p><strong>You can opt out of receiving our marketing emails. </strong>Some of our sites permit you create an account and/or receive marketing emails. To stop receiving our marketing emails from us, follow the instructions in any promotional message you get from us.  You can also log into your account and go to the "My Profile" page to change your preferences. Even if you opt out of getting marketing messages, we will still send you transactional messages. These include responses to your questions.</p> <p><strong>You can control cookies and tracking tools. </strong>To learn how to manage how we – and our vendors – use cookies and other tracking tools, please click <a target="_blank" shape="rect" href="/ad_tracking.aspx">here</a></p> <p class="no-space"><strong style="color: #c00000;">YOUR CALIFORNIA PRIVACY RIGHTS.</strong></p> <p>
+If you reside in California, you have the right to ask us one time each year if we have shared personal information with third parties for their direct marketing purposes. To make a request, please send us an <span style="text-decoration: underline;">email</span>, or write to us at the address listed below. Indicate in your letter that you are a California resident making a “Shine the Light” inquiry.
+</p> <br> <p class="no-space"><strong style="color: #c00000;">OUR SITES ARE NOT FOR KIDS.</strong></p> <p>
+Our sites and apps are meant for adults. We do not knowingly collect personally identifiable information from children under 13. If you are a parent or legal guardian and think your child under 13 has given us information, you can <a shape="rect" target="_blank" href="https://cu.pepsico.com/quaker">contact us</a> to remove the information.  Our contact information is listed below.</p> <p>Parents, you can learn more about how to protect children's privacy on-line here: <a target="_blank" shape="rect" href="http://www.business.ftc.gov/privacy-and-security/childrens-privacy">http://www.business.ftc.gov/privacy-and-security/childrens-privacy</a>.
+</p> <p class="no-space"><strong style="color: #c00000;">WE USE STANDARD SECURITY MEASURES.</strong></p> <p>
+The Internet is not 100% secure. We cannot promise that your use of our sites will be completely safe. We encourage you to use caution when using the Internet. This includes not sharing your passwords.  We keep personal information as long as it is necessary or relevant for the practices described in this Policy.  We also keep information as otherwise required by law.
+</p> <br> <p class="no-space"><strong style="color: #c00000;">WE STORE INFORMATION IN THE UNITED STATES.</strong></p> <p>
 If you live outside of the United States, you understand and agree that we may transfer your information to the United States. This site is subject to U.S. laws, which may not afford the same level of protection as those in your country.
-</p> <p><strong>We may link to third party sites or services we don’t control.</strong></p> <p>
-If you click on a link to a third party site, you will be taken to websites we do not control. This includes social media sites. This policy does not apply to the privacy practices of third party websites. Read the privacy policy of other websites carefully. We are not responsible for these third party policies or practices.
-</p> <p> <strong>Feel free to contact us if you have more questions.</strong><br>
-If you have questions about this Policy, please <a shape="rect" target="_blank" href="https://mcu.pepsico.com/m/?brand=Quaker">contact us</a>. You can also write to us or call at:<br> <br>
+</p> <br> <p class="no-space"><strong style="color: #c00000;">WE MAY LINK TO OTHER SITES OR HAVE THIRD PARTY SERVICES ON OUR SITE WE DON'T CONTROL.</strong></p> <p>
+If you click on a link to a third party site, you will be taken to websites we do not control. This includes social media sites.  This policy does not apply to the privacy practices of third party websites. Read the privacy policy of other websites carefully. We are not responsible for these third party policies or practices.
+</p> <p>Our site may also serve third party content that contains the third party’s own cookies or tracking technologies.  We do not control the use of those technologies.
+</p> <p class="no-space"><strong style="color: #c00000;">OUR ADS MAY BE SERVED BASED ON TRACKING.</strong></p> <p>We may work with online advertising companies to show you relevant and useful ads.  This includes ad served on other companies’ sites.  These ads may be served based on information collected by us or third parties.  For example, information a third party collects when you register for a site, like your zip code.  This might be used to target an ad for people in your area.  These ads may be also based on your activities on our websites or on third party sites.</p> <p class="no-space"><strong style="color: #c00000;">FEEL FREE TO CONTACT US IF YOU HAVE MORE QUESTIONS.</strong></p> <p>
+If you have questions about this Policy, please <a shape="rect" target="_blank" href="https://cu.pepsico.com/quaker">contact us</a>. You can also write to us or call at:<br> <br>
 The Quaker Oats Company<br>
 P.O. Box 049003<br>
 Chicago, IL 60604-9003<br>
 (312) 821-1000<br> <br>
-©2014 The Quaker Oats Company. All rights reserved.
+©2015 The Quaker Oats Company. All rights reserved.
 </p> </div> </div> </section> </div> </div>
 
 
@@ -1330,7 +1457,7 @@ Chicago, IL 60604-9003<br>
                     <div class="container">
                         <div class="row">
                             <div class="col-lg-2 col-md-2 col-sm-2 col-xs-12 newsletter-wrap news-lett">
-                                <a href="/loginregister.aspx" target="_NewsLetter"><span class="newsletter-signup">Newsletter Sign Up</span></a>
+                                <a href="/loginregister.aspx" target="_NewsLetter" onclick="ga('send', 'event', 'Global Footer', 'Newsletter Sign Up');"><span class="newsletter-signup">Newsletter Sign Up</span></a>
                             </div>
                             <div class="col-lg-10 col-md-10 col-sm-10 col-xs-12">
                                 <ul class="footer-nav">
@@ -1345,14 +1472,14 @@ Chicago, IL 60604-9003<br>
 
                                     <li class="li-fist hide-on-desktop">
 
-                                        <a target="_Facebook" onclick="FaceBookClick()" href="http://www.facebook.com/quaker" class="social-icon facebookmob" title="Connect with Quaker on Facebook"></a>
-                                        <a target="_Twitter" onclick="TwitterClick()" href="http://twitter.com/Quaker" class="social-icon twittermob" title="Connect with Quaker on Twitter"></a>
-                                        <a target="_Google" onclick="GoogleClick()" href="https://www.pinterest.com/quaker/" class="social-icon googlemob" title="Connect with Quaker on pinterest"></a>
-                                        <a target="_Youtube" onclick="YouTubeClick()" href="http://www.youtube.com/Quaker" class="social-icon youTubemob" title="Connect with Quaker on YouTube"></a>
+                                        <a target="_Facebook" href="http://www.facebook.com/quaker" class="social-icon facebookmob" title="Connect with Quaker on Facebook"></a>
+                                        <a target="_Twitter" href="http://twitter.com/Quaker" class="social-icon twittermob" title="Connect with Quaker on Twitter"></a>
+                                        <a target="_Google" href="https://www.pinterest.com/quaker/" class="social-icon googlemob" title="Connect with Quaker on pinterest"></a>
+                                        <a target="_Youtube" href="http://www.youtube.com/Quaker" class="social-icon youTubemob" title="Connect with Quaker on YouTube"></a>
 
                                     </li>
                                     <li class="li-common">
-                                        <a href="https://cu.pepsico.com/quaker" target="_blank">contact quaker</a>
+                                        <a href="https://cu.pepsico.com/quaker" target="_blank" onclick="ga('send', 'event', 'Global Footer', 'Contact Quaker', 'Site Exit - Pepsico');">contact quaker</a>
                                     </li>
                                     <li class="li-common">
                                         <a href="/privacy-policy.aspx" target="_blank">privacy policy</a>
@@ -1361,13 +1488,13 @@ Chicago, IL 60604-9003<br>
                                         <a href="/ad_tracking.aspx" target="_blank">Ads and Tracking</a>
                                     </li>
                                     <li class="li-common">
-                                        <a href="/terms-of-use.aspx" target="_blank">terms of use</a>
+                                        <a href="/terms-of-use.aspx" target="_blank">terms and conditions</a>
                                     </li>
                                     <li class="li-common">
-                                        <a href="http://www.pepsico.com/" target="_blank">PEPSICO</a>
+                                        <a href="http://www.pepsico.com/" target="_blank" onclick="ga('send', 'event', 'Global Footer', 'PEPSICO', 'Site Exit - Pepsico');">PEPSICO</a>
                                     </li>
                                     <li class="li-common">
-                                        <a href="http://www.pepsicojobs.com" target="_blank">Careers</a>
+                                        <a href="http://www.pepsicojobs.com" target="_blank" onclick="ga('send', 'event', 'Global Footer', 'Careers', 'Site Exit - Pepsico');">Careers</a>
                                     </li>
                                     <li class="li-last">
                                         <span>© Quaker Oats Company, 2015</span>
@@ -1383,17 +1510,17 @@ Chicago, IL 60604-9003<br>
                 <div class="mobileFooter hide-on-desktop">
                     <div class="row">
                         <div class="col-md-12">
-                            <a href="/loginregister.aspx" target="_blank" class="newsLetterLink">Newsletter Sign Up</a>
+                            <a href="/loginregister.aspx" target="_blank" class="newsLetterLink" onclick="ga('send', 'event', 'Global Footer', 'Newsletter Sign Up');">Newsletter Sign Up</a>
                         </div>
                     </div>
 
                     <div class="row">
                         <div class="col-md-12">
                             <div class="socialIconContainer">
-                                <a target="_blank" onclick="FaceBookClick()" href="http://www.facebook.com/quaker" class="social-icon facebookmob" title="Connect with Quaker on Facebook"></a>
-                                <a target="_Twitter" onclick="TwitterClick()" href="http://twitter.com/Quaker" class="social-icon twittermob" title="Connect with Quaker on Twitter"></a>
-                                <a target="_Google" onclick="GoogleClick()" href="https://www.pinterest.com/quaker/" class="social-icon googlemob" title="Connect with Quaker on pinterest"></a>
-                                <a target="_Youtube" onclick="YouTubeClick()" href="http://www.youtube.com/Quaker" class="social-icon youTubemob" title="Connect with Quaker on YouTube"></a>
+                                <a target="_blank" href="http://www.facebook.com/quaker" class="social-icon facebookmob" title="Connect with Quaker on Facebook"></a>
+                                <a target="_Twitter" href="http://twitter.com/Quaker" class="social-icon twittermob" title="Connect with Quaker on Twitter"></a>
+                                <a target="_Google" href="https://www.pinterest.com/quaker/" class="social-icon googlemob" title="Connect with Quaker on pinterest"></a>
+                                <a target="_Youtube" href="http://www.youtube.com/Quaker" class="social-icon youTubemob" title="Connect with Quaker on YouTube"></a>
                             </div>
                         </div>
                     </div>
@@ -1401,7 +1528,7 @@ Chicago, IL 60604-9003<br>
 
                     <div class="row">
                         <div class="col-xs-6">
-                            <a class="footerMobLink" href="https://cu.pepsico.com/quaker" target="_blank">Contact Quaker</a>
+                            <a class="footerMobLink" href="https://cu.pepsico.com/quaker" target="_blank" onclick="ga('send', 'event', 'Global Footer', 'Contact Quaker', 'Site Exit - Pepsico');">Contact Quaker</a>
                         </div>
                         <div class="col-xs-6">
                             <a class="footerMobLink right" href="/privacy-policy.aspx" target="_blank">Privacy Policy</a>
@@ -1410,16 +1537,16 @@ Chicago, IL 60604-9003<br>
 
                     <div class="row">
                         <div class="col-xs-6">
-                            <a class="footerMobLink" href="/terms-of-use.aspx" target="_blank">Terms of Use</a>
+                            <a class="footerMobLink" href="/terms-of-use.aspx" target="_blank">Terms and Conditions</a>
                         </div>
                         <div class="col-xs-6">
-                            <a class="footerMobLink right" href="http://www.pepsico.com/" target="_blank">PEPSICO</a>
+                            <a class="footerMobLink right" href="http://www.pepsico.com/" target="_blank" onclick="ga('send', 'event', 'Global Footer', 'PEPSICO', 'Site Exit - Pepsico');">PEPSICO</a>
                         </div>
                     </div>
 
                     <div class="row">
                         <div class="col-xs-6">
-                            <a class="footerMobLink" href="http://www.pepsicojobs.com" target="_blank">Careers</a>
+                            <a class="footerMobLink" href="http://www.pepsicojobs.com" target="_blank" onclick="ga('send', 'event', 'Global Footer', 'Careers', 'Site Exit - Pepsico');">Careers</a>
                         </div>
                         <div class="col-xs-6">
                             <a class="footerMobLink right" href="/ad_tracking.aspx" target="_blank">Ads and Tracking</a>
@@ -1472,40 +1599,17 @@ Chicago, IL 60604-9003<br>
     </form>
 
     <div id="fb-root" class=" fb_reset">
-    <script async="" src="https://web.archive.org/web/20170409032203/https://connect.facebook.net/en_US/all.js"></script><div style="position: absolute; top: -10000px; height: 0px; width: 0px;"><div><iframe name="f2210e36cce622" frameborder="0" allowtransparency="true" allowfullscreen="true" scrolling="no" src="https://www.facebook.com/connect/ping?client_id=146075078749238&amp;domain=web.archive.org&amp;origin=1&amp;redirect_uri=https%3A%2F%2Fstaticxx.facebook.com%2Fconnect%2Fxd_arbiter%2Fr%2FnRK_i0jz87x.js%3Fversion%3D42%23cb%3Df3d7a6e9b9fb0c8%26domain%3Dweb.archive.org%26origin%3Dhttps%253A%252F%252Fweb.archive.org%252Ff14da955a36666%26relation%3Dparent&amp;response_type=token%2Csigned_request%2Ccode&amp;sdk=joey" style="display: none;"></iframe></div></div><div style="position: absolute; top: -10000px; height: 0px; width: 0px;"><div><iframe name="fb_xdm_frame_https" frameborder="0" allowtransparency="true" allowfullscreen="true" scrolling="no" id="fb_xdm_frame_https" aria-hidden="true" title="Facebook Cross Domain Communication Frame" tabindex="-1" src="https://staticxx.facebook.com/connect/xd_arbiter/r/nRK_i0jz87x.js?version=42#channel=f14da955a36666&amp;origin=https%3A%2F%2Fweb.archive.org" style="border: none;"></iframe></div></div></div>
+    <script async="" src="https://web.archive.org/web/20170409032203/https://connect.facebook.net/en_US/all.js"></script><div style="position: absolute; top: -10000px; height: 0px; width: 0px;"><div><iframe name="f2c5218ee9c9f78" frameborder="0" allowtransparency="true" allowfullscreen="true" scrolling="no" src="https://www.facebook.com/connect/ping?client_id=146075078749238&amp;domain=web.archive.org&amp;origin=1&amp;redirect_uri=https%3A%2F%2Fstaticxx.facebook.com%2Fconnect%2Fxd_arbiter%2Fr%2FnRK_i0jz87x.js%3Fversion%3D42%23cb%3Df109685bb529634%26domain%3Dweb.archive.org%26origin%3Dhttps%253A%252F%252Fweb.archive.org%252Ff35635e20f60fb%26relation%3Dparent&amp;response_type=token%2Csigned_request%2Ccode&amp;sdk=joey" style="display: none;"></iframe></div></div><div style="position: absolute; top: -10000px; height: 0px; width: 0px;"><div><iframe name="fb_xdm_frame_https" frameborder="0" allowtransparency="true" allowfullscreen="true" scrolling="no" id="fb_xdm_frame_https" aria-hidden="true" title="Facebook Cross Domain Communication Frame" tabindex="-1" src="https://staticxx.facebook.com/connect/xd_arbiter/r/nRK_i0jz87x.js?version=42#channel=f35635e20f60fb&amp;origin=https%3A%2F%2Fweb.archive.org" style="border: none;"></iframe></div></div></div>
     </div>  
     <script src="/Sitefinity/WebsiteTemplates/Quaker/Js/facebook/fb_init.js" type="text/javascript"></script>
     <script type="text/javascript" src="/Sitefinity/WebsiteTemplates/Quaker/Js/shell/shell.js"></script>
 
     
     
-    <script type="text/javascript">
-        function GaPush(item, action) {
-            _gaq.push(['_trackEvent', item, action, document.URL, ]);
-        }
-        function GaSocialPush(item, action, target) {
-            _gaq.push(['_trackSocial', item, action, target, location.pathname, ]);
-        }
-
-        function FaceBookClick() {
-            _gaq.push(['_trackEvent', 'facebook', 'Like', document.URL, ]);
-        }
-        function YouTubeClick() {
-            _gaq.push(['_trackEvent', 'Youtube', 'View', document.URL, ]);
-        }
-        function TwitterClick() {
-            _gaq.push(['_trackEvent', 'Twitter', 'Tweet', document.URL, ]);
-
-        }
-        function GoogleClick() {
-            _gaq.push(['_trackEvent', 'Pinterest', 'Pinterest', document.URL, ]);
-
-        }
-
-    </script>
+    
     <script type="text/javascript">
 
-        var _gaq = _gaq || [];
+        /*var _gaq = _gaq || [];
         _gaq.push(['_setAccount', 'UA-28148907-2']);
         _gaq.push(['_trackPageview']);
 
@@ -1513,7 +1617,7 @@ Chicago, IL 60604-9003<br>
             var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
             ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
             var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-        })();
+        })();*/
         var loginUser = '';
 
         if (loginUser != null && loginUser != "") {
@@ -1544,4 +1648,4 @@ Chicago, IL 60604-9003<br>
 
 
 
-<ul class="ui-autocomplete ui-front ui-menu ui-widget ui-widget-content" id="ui-id-1" tabindex="0" style="display: none;"></ul><span role="status" aria-live="assertive" aria-relevant="additions" class="ui-helper-hidden-accessible"></span><ul class="ui-autocomplete ui-front ui-menu ui-widget ui-widget-content" id="ui-id-2" tabindex="0" style="display: none;"></ul><span role="status" aria-live="assertive" aria-relevant="additions" class="ui-helper-hidden-accessible"></span></body></html>
+</body></html>
