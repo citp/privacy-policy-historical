@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ird.govt.nz privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610022256id_/http%3A//www.ird.govt.nz/about-this-site/privacy%3Fid%3Dfooter) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ird.govt.nz privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209184351id_/http%3A//www.ird.govt.nz/about-this-site/privacy%3Fid%3Dfooter) for the most accurate reproduction.*
 
 # Your privacy (About this site)
 
@@ -19,7 +19,3 @@ As part of our commitment to providing the best possible service to our customer
 ##### [Transfer of beneficiary information](https://web.archive.org/about-this-site/privacy/privacy-beneficiary-info.html)
 
 Find out about the information that may be transferred weekly from the Ministry of Social Development to Inland Revenue.
-
-##### [Your obligation to provide information](https://web.archive.org/about-this-site/privacy/privacy-act.html)
-
-Meeting your obligations means giving accurate and timely information to Inland Revenue. We ask you for this to ensure that we correctly assess your liabilities and entitlements under the Acts which apply to you. We also ask you for your contact details so that we can send you forms or returns that you may need.
