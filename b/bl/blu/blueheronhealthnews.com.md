@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the blueheronhealthnews.com privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122005701id_/http%3A//blueheronhealthnews.com/site/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blueheronhealthnews.com privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209190537id_/http%3A//blueheronhealthnews.com/site/about/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy – Blue Heron Natural Health News
 
-Protecting your private information is our priority. This Statement of Privacy applies to the http://blueheronhealthnews.com and The Rising Leo inc. – DBA Blue Heron Health News and governs data collection and usage. For the purposes of this Privacy Policy, unless otherwise noted, all references to The Rising Leo inc. – DBA Blue Heron Health News include http://blueheronhealthnews.com and DBA Blue Heron Health News. The DBA Blue Heron Health News website is a Natural health guides and natural health news site. By using the DBA Blue Heron Health News website, you consent to the data practices described in this statement.
+Protecting your private information is our priority. This Statement of Privacy applies to the http://blueheronhealthnews.com and Blue Heron Limited – DBA Blue Heron Health News and governs data collection and usage. For the purposes of this Privacy Policy, unless otherwise noted, all references to Blue Heron Limited – DBA Blue Heron Health News include http://blueheronhealthnews.com and DBA Blue Heron Health News. The DBA Blue Heron Health News website is a Natural health guides and natural health news site. By using the DBA Blue Heron Health News website, you consent to the data practices described in this statement.
 
 Collection of your Personal Information  
-DBA Blue Heron Health News may collect personally identifiable information, such as your name. If you purchase DBA Blue Heron Health News’s products and services, we collect billing and credit card information. This information is used to complete the purchase transaction. We may gather additional personal or non-personal information in the future.
+DBA Blue Heron Health News may collect personally identifiable information, such as your name and email address. This is done to be able to email you personal message regarding the information you showed interest in. If you purchase DBA Blue Heron Health News’s products and services, we collect billing and credit card information. This information is used to complete the purchase transaction. We may gather additional personal or non-personal information in the future.
 
 Information about your computer hardware and software may be automatically collected by DBA Blue Heron Health News. This information can include: your IP address, browser type, domain names, access times and referring website addresses. This information is used for the operation of the service, to maintain quality of the service, and to provide general statistics regarding use of the DBA Blue Heron Health News website.
 
@@ -53,9 +53,8 @@ DBA Blue Heron Health News will occasionally update this Statement of Privacy to
 Contact Information  
 DBA Blue Heron Health News welcomes your questions or comments regarding this Statement of Privacy. If you believe that DBA Blue Heron Health News has not adhered to this Statement, please contact DBA Blue Heron Health News at:
 
-The Rising Leo inc. – DBA Blue Heron Health News  
-14525 SW Millikan Way #33495  
-Beaverton, Oregon 2343
+Blue Heron Limited – DBA Blue Heron Health News  
+Level 19 – TWO IFC, 8 Finance Street, Hong Kong
 
 Email Address:  
 info@blueheronhealthguides.com
