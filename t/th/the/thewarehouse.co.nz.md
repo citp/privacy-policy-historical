@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thewarehouse.co.nz privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611083916id_/http%3A//www.thewarehouse.co.nz/red/content/homepage/security-payment/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thewarehouse.co.nz privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209184140id_/http%3A//www.thewarehouse.co.nz/red/content/homepage/security-payment/privacy) for the most accurate reproduction.*
 
 # Privacy - Security & Payment - Content Pages - The Warehouse
 
@@ -34,8 +34,6 @@ The Warehouse does monitor this website in order to identify user trends and to 
 As required by the Privacy Act 1993, The Warehouse follows strict procedures when storing and using the information you have provided.
 
 We do not sell, trade or rent your personal information to others. The Warehouse may provide aggregate statistics about our customers and website trends, however, these statistics will not have any personal information which would identify you.
-
-GDC Communications Limited iVASP host The Warehouse website. All data is stored behind their firewalls.
 
 Only specific employees within The Warehouse Group Limited are able to access your personal data.
 
