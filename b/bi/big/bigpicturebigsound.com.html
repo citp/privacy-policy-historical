@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the bigpicturebigsound.com privacy policy that was archived on 2015-06-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150610053114id_/http%3A//www.bigpicturebigsound.com/privacy.shtml) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bigpicturebigsound.com privacy policy that was archived on 2015-12-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151209191311id_/http%3A//www.bigpicturebigsound.com/privacy.shtml) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
 		<meta charset="utf-8">
@@ -52,21 +52,24 @@ function makeAdScriptTag(zone) {
 	var m3_r = Math.floor(Math.random()*99999999999);
 	if (!document.MAX_used) document.MAX_used = ',';
 	var tmp1 = new String(window.location);
+  if (tmp1.indexOf('//www.') == -1) tmp1 = tmp1.replace('//', '//www.');
 	var tmp2 = new String(document.referrer);
+  if (tmp2.indexOf('//www.') == -1) tmp2 = tmp2.replace('//', '//www.');
 
-	var m3_u = (location.protocol=='https:'?'https:':'http:')
-	m3_u += '//www.bigpicturebigsound.com/ads/openx-2.8.7/www/delivery/ajs.php?zoneid='+zone;
+	// var m3_u = (location.protocol=='https:'?'https:':'http:');
+	var m3_u = '//www.bigpicturebigsound.com/ads/openx-2.8.7/www/delivery/ajs.php?zoneid=' + zone;
 	m3_u += '&amp;cb=' + m3_r;
 	if (document.MAX_used != ',') m3_u += "&amp;exclude=" + document.MAX_used;
-	m3_u += (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));
-	//m3_u += '&amp;loc=' + escape(escape(window.location));
-	m3_u += '&amp;loc=' + escape(tmp1.replace("http://www.","http://"));
-	//if (document.referrer != '') m3_u += "&amp;referer=" + escape(escape(document.referrer));
-	if (document.referrer != '') m3_u += "&amp;referer=" + escape(tmp2.replace("http://www.","http://"));
+	m3_u += (document.charset ? '&amp;charset='+document.charset : 
+    (document.characterSet ? '&amp;charset='+document.characterSet : ''));
+	// m3_u += '&amp;loc=' + escape(escape(window.location));
+	m3_u += '&amp;loc=' + escape(tmp1);
+	// if (document.referrer != '') m3_u += "&amp;referer=" + escape(escape(document.referrer));
+	if (document.referrer != '') m3_u += "&amp;referer=" + escape(tmp2);
 	if (document.context != '') m3_u += "&amp;context=" + escape(document.context);
 	if (document.mmm_fo) m3_u += "&amp;mmm_fo=1";
 	
-	return "<scr"+"ipt type='text/javascript' src='"+m3_u+"'></scr"+"ipt>";
+	return '<scr' + 'ipt type="text/javascript" src="' + m3_u + '"></scr' + 'ipt>';
 }</script>
 	<style type="text/css">.fb_hidden{position:absolute;top:-10000px;z-index:10001}.fb_reposition{overflow-x:hidden;position:relative}.fb_invisible{display:none}.fb_reset{background:none;border:0;border-spacing:0;color:#000;cursor:auto;direction:ltr;font-family:"lucida grande", tahoma, verdana, arial, sans-serif;font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:1;margin:0;overflow:visible;padding:0;text-align:left;text-decoration:none;text-indent:0;text-shadow:none;text-transform:none;visibility:visible;white-space:normal;word-spacing:normal}.fb_reset>div{overflow:hidden}.fb_link img{border:none}
 .fb_dialog{background:rgba(82, 82, 82, .7);position:absolute;top:-10000px;z-index:10001}.fb_reset .fb_dialog_legacy{overflow:visible}.fb_dialog_advanced{padding:10px;-moz-border-radius:8px;-webkit-border-radius:8px;border-radius:8px}.fb_dialog_content{background:#fff;color:#333}.fb_dialog_close_icon{background:url(http://static.xx.fbcdn.net/rsrc.php/v2/yq/r/IE9JII6Z1Ys.png) no-repeat scroll 0 0 transparent;_background-image:url(http://static.xx.fbcdn.net/rsrc.php/v2/yL/r/s816eWC-2sl.gif);cursor:pointer;display:block;height:15px;position:absolute;right:18px;top:17px;width:15px}.fb_dialog_mobile .fb_dialog_close_icon{top:5px;left:5px;right:auto}.fb_dialog_padding{background-color:transparent;position:absolute;width:1px;z-index:-1}.fb_dialog_close_icon:hover{background:url(http://static.xx.fbcdn.net/rsrc.php/v2/yq/r/IE9JII6Z1Ys.png) no-repeat scroll 0 -15px transparent;_background-image:url(http://static.xx.fbcdn.net/rsrc.php/v2/yL/r/s816eWC-2sl.gif)}.fb_dialog_close_icon:active{background:url(http://static.xx.fbcdn.net/rsrc.php/v2/yq/r/IE9JII6Z1Ys.png) no-repeat scroll 0 -30px transparent;_background-image:url(http://static.xx.fbcdn.net/rsrc.php/v2/yL/r/s816eWC-2sl.gif)}.fb_dialog_loader{background-color:#f6f7f8;border:1px solid #606060;font-size:24px;padding:20px}.fb_dialog_top_left,.fb_dialog_top_right,.fb_dialog_bottom_left,.fb_dialog_bottom_right{height:10px;width:10px;overflow:hidden;position:absolute}.fb_dialog_top_left{background:url(http://static.xx.fbcdn.net/rsrc.php/v2/ye/r/8YeTNIlTZjm.png) no-repeat 0 0;left:-10px;top:-10px}.fb_dialog_top_right{background:url(http://static.xx.fbcdn.net/rsrc.php/v2/ye/r/8YeTNIlTZjm.png) no-repeat 0 -10px;right:-10px;top:-10px}.fb_dialog_bottom_left{background:url(http://static.xx.fbcdn.net/rsrc.php/v2/ye/r/8YeTNIlTZjm.png) no-repeat 0 -20px;bottom:-10px;left:-10px}.fb_dialog_bottom_right{background:url(http://static.xx.fbcdn.net/rsrc.php/v2/ye/r/8YeTNIlTZjm.png) no-repeat 0 -30px;right:-10px;bottom:-10px}.fb_dialog_vert_left,.fb_dialog_vert_right,.fb_dialog_horiz_top,.fb_dialog_horiz_bottom{position:absolute;background:#525252;filter:alpha(opacity=70);opacity:.7}.fb_dialog_vert_left,.fb_dialog_vert_right{width:10px;height:100%}.fb_dialog_vert_left{margin-left:-10px}.fb_dialog_vert_right{right:0;margin-right:-10px}.fb_dialog_horiz_top,.fb_dialog_horiz_bottom{width:100%;height:10px}.fb_dialog_horiz_top{margin-top:-10px}.fb_dialog_horiz_bottom{bottom:0;margin-bottom:-10px}.fb_dialog_iframe{line-height:0}.fb_dialog_content .dialog_title{background:#6d84b4;border:1px solid #3a5795;color:#fff;font-size:14px;font-weight:bold;margin:0}.fb_dialog_content .dialog_title>span{background:url(http://static.xx.fbcdn.net/rsrc.php/v2/yd/r/Cou7n-nqK52.gif) no-repeat 5px 50%;float:left;padding:5px 0 7px 26px}body.fb_hidden{-webkit-transform:none;height:100%;margin:0;overflow:visible;position:absolute;top:-10000px;left:0;width:100%}.fb_dialog.fb_dialog_mobile.loading{background:url(http://static.xx.fbcdn.net/rsrc.php/v2/ya/r/3rhSv5V8j3o.gif) white no-repeat 50% 50%;min-height:100%;min-width:100%;overflow:hidden;position:absolute;top:0;z-index:10001}.fb_dialog.fb_dialog_mobile.loading.centered{width:auto;height:auto;min-height:initial;min-width:initial;background:none}.fb_dialog.fb_dialog_mobile.loading.centered #fb_dialog_loader_spinner{width:100%}.fb_dialog.fb_dialog_mobile.loading.centered .fb_dialog_content{background:none}.loading.centered #fb_dialog_loader_close{color:#fff;display:block;padding-top:20px;clear:both;font-size:18px}#fb-root #fb_dialog_ipad_overlay{background:rgba(0, 0, 0, .45);position:absolute;left:0;top:0;width:100%;min-height:100%;z-index:10000}#fb-root #fb_dialog_ipad_overlay.hidden{display:none}.fb_dialog.fb_dialog_mobile.loading iframe{visibility:hidden}.fb_dialog_content .dialog_header{-webkit-box-shadow:white 0 1px 1px -1px inset;background:-webkit-gradient(linear, 0% 0%, 0% 100%, from(#738ABA), to(#2C4987));border-bottom:1px solid;border-color:#1d4088;color:#fff;font:14px Helvetica, sans-serif;font-weight:bold;text-overflow:ellipsis;text-shadow:rgba(0, 30, 84, .296875) 0 -1px 0;vertical-align:middle;white-space:nowrap}.fb_dialog_content .dialog_header table{-webkit-font-smoothing:subpixel-antialiased;height:43px;width:100%}.fb_dialog_content .dialog_header td.header_left{font-size:12px;padding-left:5px;vertical-align:middle;width:60px}.fb_dialog_content .dialog_header td.header_right{font-size:12px;padding-right:5px;vertical-align:middle;width:60px}.fb_dialog_content .touchable_button{background:-webkit-gradient(linear, 0% 0%, 0% 100%, from(#4966A6), color-stop(.5, #355492), to(#2A4887));border:1px solid #2f477a;-webkit-background-clip:padding-box;-webkit-border-radius:3px;-webkit-box-shadow:rgba(0, 0, 0, .117188) 0 1px 1px inset, rgba(255, 255, 255, .167969) 0 1px 0;display:inline-block;margin-top:3px;max-width:85px;line-height:18px;padding:4px 12px;position:relative}.fb_dialog_content .dialog_header .touchable_button input{border:none;background:none;color:#fff;font:12px Helvetica, sans-serif;font-weight:bold;margin:2px -12px;padding:2px 6px 3px 6px;text-shadow:rgba(0, 30, 84, .296875) 0 -1px 0}.fb_dialog_content .dialog_header .header_center{color:#fff;font-size:16px;font-weight:bold;line-height:18px;text-align:center;vertical-align:middle}.fb_dialog_content .dialog_content{background:url(http://static.xx.fbcdn.net/rsrc.php/v2/y9/r/jKEcVPZFk-2.gif) no-repeat 50% 50%;border:1px solid #555;border-bottom:0;border-top:0;height:150px}.fb_dialog_content .dialog_footer{background:#f6f7f8;border:1px solid #555;border-top-color:#ccc;height:40px}#fb_dialog_loader_close{float:left}.fb_dialog.fb_dialog_mobile .fb_dialog_close_button{text-shadow:rgba(0, 30, 84, .296875) 0 -1px 0}.fb_dialog.fb_dialog_mobile .fb_dialog_close_icon{visibility:hidden}#fb_dialog_loader_spinner{animation:rotateSpinner 1.2s linear infinite;background-color:transparent;background-image:url(http://static.xx.fbcdn.net/rsrc.php/v2/yD/r/t-wz8gw1xG1.png);background-repeat:no-repeat;background-position:50% 50%;height:24px;width:24px}@keyframes rotateSpinner{0%{transform:rotate(0deg)}100%{transform:rotate(360deg)}}
@@ -75,22 +78,29 @@ function makeAdScriptTag(zone) {
 			
 		<!-- Header -->
 		<div class="container header">
-			<div id="ad728x90">
-				<script type="text/javascript">makeAdInline(1);</script><script type="text/javascript" src="https://www.bigpicturebigsound.com/ads/openx-2.8.7/www/delivery/ajs.php?zoneid=1&amp;cb=61578899373&amp;charset=UTF-8&amp;loc=https%3A//web.archive.org/web/20150610053114id_/http%253A//www.bigpicturebigsound.com/privacy.shtml&amp;context=undefined"></script>
+      <!-- Remove Banner on mobile -->
+			<div id="ad728x90" class="hidden-xs">
+				<script type="text/javascript">makeAdInline(1);</script><script type="text/javascript" src="//www.bigpicturebigsound.com/ads/openx-2.8.7/www/delivery/ajs.php?zoneid=1&amp;cb=24658417268&amp;charset=UTF-8&amp;loc=https%3A//web.archive.org/web/20151209191311id_/http%253A//www.bigpicturebigsound.com/privacy.shtml&amp;context=undefined"></script>
 				<noscript><a href='http://bigpicturebigsound.com/ads/openx-2.8.7/www/delivery/ck.php?n=a587ecea&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://bigpicturebigsound.com/ads/openx-2.8.7/www/delivery/avw.php?zoneid=10&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=a587ecea' border='0' alt='' /></a></noscript>
 			</div>
 			<h1>Big Picture Big Sound</h1>
-			<div class="home"><a href="/"><img width="271" height="100" alt="bigpicturebigsound.com - The site for Home Theater and Movie Reviews" src="/images/logo2.jpg"></a></div>
+			<div class="home"><a href="/">
+        <img width="271" height="100" alt="bigpicturebigsound.com - The site for Home Theater and Movie Reviews" src="/images/logo2.jpg" class="hidden-xs hidden-sm hidden-md">
+        <img width="203" height="75" alt="bigpicturebigsound.com - The site for Home Theater and Movie Reviews" src="/images/logo2.jpg" class="hidden-xs hidden-lg">
+        <img width="135" height="50" alt="bigpicturebigsound.com - The site for Home Theater and Movie Reviews" src="/images/logo2.jpg" class="hidden-sm hidden-md hidden-lg">
+      </a></div>
 		</div>
 		<!-- End: Header -->
 		
 		<!-- Nav Links -->
-		<div class="container navLinks"><ul>
-			<li><a href="/aboutus.shtml">About Us</a> |</li>
-			<li><a href="/contactus.shtml">Contact Us</a> |</li>
-			<li><a href="/online-shopping-deals-1132.shtml">Shop With Us</a> |</li>
-			<li><a href="/site-map.shtml">Site Map</a></li>
-		</ul></div>
+		<div class="container navLinks">
+      <div class="hidden-xs col-xm-12"><ul>
+  			<li><a href="/aboutus.shtml">About Us</a> |</li>
+  			<li><a href="/contactus.shtml">Contact Us</a> |</li>
+  			<li><a href="/online-shopping-deals-1132.shtml">Shop With Us</a> |</li>
+  			<li><a href="/site-map.shtml">Site Map</a></li>
+  		</ul></div>
+    </div>
 		<!-- End: Nav Links -->
 	
 		<!-- Top Navigation -->
@@ -121,7 +131,7 @@ function makeAdScriptTag(zone) {
 			
 			<!-- Page Title -->
 			<div class="row">
-				<h3 class="titleCaps col-xs-12 col-md-7">The Site for Home Theater and Movie Reviews</h3>
+				<h3 class="titleCaps hidden-xs hidden-sm col-md-7">The Site for Home Theater and Movie Reviews</h3>
 				<div class="search col-xs-12 col-md-5"><form action="/searchResults.shtml" method="get">
 					<label for="search" class="titleCaps">Site Search:</label><input type="text" class="searchInput" name="search"> <input type="submit" class="button" value="Search">
 				</form></div>
@@ -138,7 +148,7 @@ function makeAdScriptTag(zone) {
 					<div class="panel panel-bpbs article">
 						
 						<!-- Article Meta -->
-						<div class="panel-heading">
+						<div class="panel-heading hidden-xs">
 							<div class="panel-title">
 								<a name="top"></a>
 								<div class="categoryHead row">
@@ -205,6 +215,25 @@ function makeAdScriptTag(zone) {
 
 						</div>
 						<!-- End: Article Body -->
+
+						<!-- Article Meta -->
+						<div class="panel-heading hidden-sm hidden-md hidden-lg">
+							<div class="panel-title">
+								<a name="top"></a>
+								<div class="categoryHead row">
+									<div class="col-xs-12 bcrumb">
+										
+										
+																															
+
+
+										
+										
+									</div>
+								</div>
+							</div>
+						</div>
+						<!-- End: Article Meta -->
 						<!-- END: PAGE SPECIFIC -->
 						
 					</div>
@@ -385,7 +414,7 @@ function makeAdScriptTag(zone) {
 <!-- End: Explore Box -->
 
 					<div id="footer">
-						<div>Last Updated: 2015-04-19 16:50:44</div>
+						<div>Last Updated: 2015-08-11 08:48:04</div>
 						<!-- Include: Index Footer -->
 						<!-- Index footer -->
 	<div>
@@ -464,8 +493,76 @@ var digg_topic='';
 					<div></div>
 
 					<!-- Include: Newsletter Subscription -->
-					<!-- TODO(beth): Add the newsletter back -->
-					<!--include virtual="/inc/newsletterBox.shtml" -->
+					<!-- Newsletter -->
+<div class="panel panel-default" id="newsletter">
+	<div class="panel-heading">
+		<div class="panel-title titleCaps">Big News</div>
+	</div>
+	<div class="panel-body" id="mail_signup">
+    <div class="row">
+      <h5 class="col-xs-12">Newsletter Sign-up</h5>
+    </div>
+		<form name="F1" onsubmit="javascript:return validateSweepsForm(&quot;mail_signup&quot;,false);return false;" id="mail_signup_form">
+			<input type="hidden" class="saction" name="saction" value="signup">
+			<input type="hidden" class="STATUS" name="STATUS" value="ON">
+			<input type="hidden" class="ADD_INFO1" name="ADD_INFO1" value="right_nav">
+			<input type="hidden" class="subscribe" name="subscribe" value="1">
+  		<div class="row">
+        <div class="col-xs-12 col-sm-4">
+          <label for="EMAIL">Email:</label>
+        </div>
+        <div class="col-xs-12 col-sm-8">
+          <input id="EMAIL" type="text" class="signup-email" name="EMAIL" size="13" maxlength="50">
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-xs-12 col-sm-4">
+          <label for="NAME" class="signup">Name:</label>
+        </div>
+        <div class="col-xs-12 col-sm-8">
+          <input id="NAME" type="text" class="signup-name" name="NAME" size="13" maxlength="50">
+        </div>
+      </div>
+			<div class="row">
+        <div class="col-xs-12">
+  				<input type="checkbox" name="LIST_ID" class="signup-deals" id="deals" value="3" checked="checked"> <label for="LIST_ID">Deals</label>&nbsp;
+  				<input type="checkbox" name="LIST_ID" class="signup-news" id="news" value="2" checked="checked"> <label for="LIST_ID">Newsletter</label>
+  			</div>
+      </div>
+			<div class="submit row">
+        <div class="col-xs-12">
+          <input type="submit" value="Subscribe" class="button">
+        </div>
+      </div>
+    </form>
+  </div>
+</div>
+<!--
+
+
+
+<div class="box" id="newsletter">
+	<div class="type">Big News</div>
+	<div class="boxContent form mail_signup" id="mail_signup">
+		<form name='F1' onsubmit='javascript:return validateSweepsForm("mail_signup",false);return false;' id="mail_signup_form">
+			<input type='hidden' class='saction' name='saction' value='signup' />
+			<input type='hidden' class='STATUS' name='STATUS' value='ON' />
+			<input type="hidden" class='ADD_INFO1' name="ADD_INFO1" value="right_nav" />
+			<input type="hidden" class='subscribe' name="subscribe" value="1" />
+	
+			<h5>Newsletter Sign-up</h5>
+			<div><label for="EMAIL" class="signup">Email:</label> <input id="EMAIL" class="signup signup-email" type="text" name="EMAIL" size="13" maxlength="50" /></div>
+			<div><label for="NAME" class="signup">Name:</label> <input id="NAME" class="signup signup-name" type="text" name="NAME" size="13" maxlength="50" /></div>
+			<div>
+				<input type="checkbox" name="LIST_ID" class="signup-deals" id="deals" value="3" checked="checked" /><label for="LIST_ID">Deals</label>&nbsp;
+				<input type="checkbox" name="LIST_ID" class="signup-news" id="news" value="2" checked="checked" /><label for="LIST_ID">Newsletter</label>
+			</div>
+			<div class="submit"><input type="submit" value="Subscribe" class="button" /></div>
+		</form>
+	</div>
+</div>
+-->
+<!-- End: Newsletter -->
 
 					<!-- Sweeps -->
 					<!-- TODO(beth): Add the sweeps back -->
@@ -474,49 +571,53 @@ var digg_topic='';
 					<!-- Include: Connect With Us -->
 					<!-- Connect With Us -->
 <div class="panel panel-default" id="connect">
-	<div class="panel-heading">
-		<div class="panel-title titleCaps">Connect with Us</div>
-	</div>
-	<div class-"panel-body"="">
-		<div class="row">
-			<div class="col-xs-8 col-md-12 col-lg-8"><a href="http://feeds.feedburner.com/Bigpicturebigsoundcom" target="_blank">Homepage Headlines</a></div>
-			<div class="col-xs-4 col-md-12 col-lg-4 rightLinks">
-				<ul>
-					<li><a href="http://fusion.google.com/add?feedurl=http%3A//www.bigpicturebigsound.com/rss.xml" target="_blank" class="shareIcon googleIcon"></a></li>
-					<li><a href="http://feeds.feedburner.com/Bigpicturebigsoundcom" target="_blank" class="shareIcon rssIcon"></a></li>
-					<li><a href="http://us.rd.yahoo.com/my/atm/Big%20Picture%20Big%20Sound/Big%20Picture%20Big%20Sound/*http://add.my.yahoo.com/rss?url=http%3A//www.bigpicturebigsound.com/rss.xml" target="_blank" class="shareIcon yahooIcon"></a></li>
-				</ul>
-			</div>
-		</div>
-		<div class="row">
-			<div class="col-xs-8 col-md-12 col-lg-8"><a href="http://feeds.feedburner.com/Bigpicturebigsoundcom-MovieCategory" target="_blank">Movie Reviews</a></div>
-			<div class="col-xs-4 col-md-12 col-lg-4 rightLinks">
-				<ul>
-					<li><a href="http://fusion.google.com/add?feedurl=http%3A//www.bigpicturebigsound.com/movie_rss.xml" target="_blank"><img border="0" alt="Add to Google" src="/images/google.png"></a></li><a href="http://fusion.google.com/add?feedurl=http%3A//www.bigpicturebigsound.com/movie_rss.xml" target="_blank">
-					</a><li><a href="http://fusion.google.com/add?feedurl=http%3A//www.bigpicturebigsound.com/movie_rss.xml" target="_blank"></a><a href="http://feeds.feedburner.com/Bigpicturebigsoundcom-MovieCategory" target="_blank"><img border="0" alt="RSS feed" src="/images/rss.png"></a></li><a href="http://feeds.feedburner.com/Bigpicturebigsoundcom-MovieCategory" target="_blank">
-					</a><li><a href="http://feeds.feedburner.com/Bigpicturebigsoundcom-MovieCategory" target="_blank"></a><a href="http://us.rd.yahoo.com/my/atm/Big%20Picture%20Big%20Sound/Big%20Picture%20Big%20Sound%20Movies/*http://add.my.yahoo.com/rss?url=http%3A//www.bigpicturebigsound.com/movie_rss.xml" target="_blank"><img border="0" alt="Add to My Yahoo!" src="/images/yahoo.png"></a></li>
-				</ul>
-			</div>
-		</div>
-		<div class="row">
-			<div class="col-xs-12">
-				<div class="leftLinks"><a href="http://www.bigpicturebigsound.com/downloads.shtml" class="shareIcon dashboardIcon"></a></div>
-				<div><a href="http://www.bigpicturebigsound.com/downloads.shtml">Dashboard Widgets</a></div>
-			</div>
-		</div>
-		<div class="row">
-			<div class="col-xs-12">
-				<div class="leftLinks"><a href="http://www.twitter.com/bpbs" target="_blank" class="shareIcon twitterIcon"></a></div>
-				<div><a href="http://www.twitter.com/bpbs" target="_blank">Follow us on Twitter!</a></div>
-			</div>
-		</div>
-	</div>
+  <div class="panel-heading">
+    <div class="panel-title titleCaps">Connect with Us</div>
+  </div>
+  <div class-"panel-body"="">
+    <div class="row">
+      <div class="col-xs-12">
+        <div class="connect_icon">
+          <a href="https://www.facebook.com/bigpicturebigsound" target="_blank" alt="Follow us on Facebook">
+            <img src="/images/facebook_sq64.png" alt="Follow us on Facebook">
+          </a>
+        </div>
+        <div class="connect_icon">
+          <a href="https://twitter.com/bpbs" target="_blank" alt="Follow us on Twitter">
+            <img src="/images/twitter_sq64.png" alt="Follow us on Twitter">
+          </a>
+        </div>
+        <div class="connect_icon">
+          <a href="https://www.linkedin.com/company/1921299" target="_blank" alt="Connect with us on LinkedIn">
+            <img src="/images/linkedin_sq64.png" alt="Connect with us on LinkedIn">
+          </a>
+        </div>
+      </div>
+      <div class="col-xs-12">
+        <div class="connect_icon">
+          <a href="https://www.youtube.com/user/MrBoylan/videos" target="_blank" alt="Check out our videos on YouTube">
+            <img src="/images/youtube_sq64.png" alt="Check out our videos on YouTube">
+          </a>
+        </div>
+        <div class="connect_icon">
+          <a href="https://google.com/+BigPictureBigSound" target="_blank" alt="Connect with us on Google+">
+            <img src="/images/googleplus_sq64.png" alt="Connect with us on Google+">
+          </a>
+        </div>
+        <div class="connect_icon" style="padding-right: 0">
+          <a href="http://feeds.feedburner.com/Bigpicturebigsoundcom" target="_blank" alt="Subscribe to our RSS feed">
+            <img src="/images/rss_sq64.png" alt="Subscribe to our RSS feed">
+          </a>
+        </div>
+      </div>
+    </div>
+  </div>
 </div>
 <!-- End: Connect With Us -->
 
 					<!-- 160x600 Ad Unit -->
 					<div id="ad160x600">
-						<script type="text/javascript">makeAdInline(3);</script><script type="text/javascript" src="https://www.bigpicturebigsound.com/ads/openx-2.8.7/www/delivery/ajs.php?zoneid=3&amp;cb=14681227345&amp;charset=UTF-8&amp;loc=https%3A//web.archive.org/web/20150610053114id_/http%253A//www.bigpicturebigsound.com/privacy.shtml&amp;context=undefined"></script>
+						<script type="text/javascript">makeAdInline(3);</script><script type="text/javascript" src="//www.bigpicturebigsound.com/ads/openx-2.8.7/www/delivery/ajs.php?zoneid=3&amp;cb=65468860095&amp;charset=UTF-8&amp;loc=https%3A//web.archive.org/web/20151209191311id_/http%253A//www.bigpicturebigsound.com/privacy.shtml&amp;context=undefined"></script>
 						<noscript><a href='http://bigpicturebigsound.com/ads/openx-2.8.7/www/delivery/ck.php?n=af5427ba&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://bigpicturebigsound.com/ads/openx-2.8.7/www/delivery/avw.php?zoneid=12&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=af5427ba' border='0' alt='' /></a></noscript>
 					</div>
 					<!-- End: 160x600 Ad Unit -->
@@ -536,7 +637,7 @@ var digg_topic='';
 			
 		</div>
 		
-		<div id="fb-root" class=" fb_reset"><script async="" src="https://web.archive.org/web/20151014173637/http://connect.facebook.net/en_US/all.js"></script><div style="position: absolute; top: -10000px; height: 0px; width: 0px;"><div><iframe name="f28a9d1982cd834" frameborder="0" allowtransparency="true" allowfullscreen="true" scrolling="no" src="https://www.facebook.com/connect/ping?client_id=128574417163995&amp;domain=web.archive.org&amp;origin=1&amp;redirect_uri=https%3A%2F%2Fs-static.ak.facebook.com%2Fconnect%2Fxd_arbiter%2Fjb3BUxkAISL.js%3Fversion%3D41%23cb%3Dfbe60807b91d3%26domain%3Dweb.archive.org%26origin%3Dhttps%253A%252F%252Fweb.archive.org%252Ff39194c85b8bc4%26relation%3Dparent&amp;response_type=token%2Csigned_request%2Ccode&amp;sdk=joey" style="display: none;"></iframe></div></div><div style="position: absolute; top: -10000px; height: 0px; width: 0px;"><div><iframe name="fb_xdm_frame_https" frameborder="0" allowtransparency="true" allowfullscreen="true" scrolling="no" id="fb_xdm_frame_https" aria-hidden="true" title="Facebook Cross Domain Communication Frame" tabindex="-1" src="https://s-static.ak.facebook.com/connect/xd_arbiter/jb3BUxkAISL.js?version=41#channel=f39194c85b8bc4&amp;origin=https%3A%2F%2Fweb.archive.org" style="border: none;"></iframe></div></div></div>
+		<div id="fb-root" class=" fb_reset"><script async="" src="https://web.archive.org/web/20151014173637/http://connect.facebook.net/en_US/all.js"></script><div style="position: absolute; top: -10000px; height: 0px; width: 0px;"><div><iframe name="f6a5c864d2e2c" frameborder="0" allowtransparency="true" allowfullscreen="true" scrolling="no" src="https://www.facebook.com/connect/ping?client_id=128574417163995&amp;domain=web.archive.org&amp;origin=1&amp;redirect_uri=https%3A%2F%2Fs-static.ak.facebook.com%2Fconnect%2Fxd_arbiter%2Fjb3BUxkAISL.js%3Fversion%3D41%23cb%3Df22ffc442caa69c%26domain%3Dweb.archive.org%26origin%3Dhttps%253A%252F%252Fweb.archive.org%252Ff1b9cf9bd8fa2dc%26relation%3Dparent&amp;response_type=token%2Csigned_request%2Ccode&amp;sdk=joey" style="display: none;"></iframe></div></div><div style="position: absolute; top: -10000px; height: 0px; width: 0px;"><div><iframe name="fb_xdm_frame_https" frameborder="0" allowtransparency="true" allowfullscreen="true" scrolling="no" id="fb_xdm_frame_https" aria-hidden="true" title="Facebook Cross Domain Communication Frame" tabindex="-1" src="https://s-static.ak.facebook.com/connect/xd_arbiter/jb3BUxkAISL.js?version=41#channel=f1b9cf9bd8fa2dc&amp;origin=https%3A%2F%2Fweb.archive.org" style="border: none;"></iframe></div></div></div>
 		<!--<script type="text/javascript" src="http://www.assoc-amazon.com/s/link-enhancer?tag=websearchengi40-20"></script>-->
 		<noscript><img src="http://www.assoc-amazon.com/s/noscript?tag=websearchengi40-20" /></noscript>
 		<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
