@@ -1,6 +1,24 @@
-> *The following text is extracted and transformed from the cpaprofitsacademy.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607085608id_/http%3A//cpaprofitsacademy.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cpaprofitsacademy.com privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209092432id_/http%3A//cpaprofitsacademy.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | CPA Profits Academy
+
+  * ## Start Your Own Online Business From The Internet Without Having To Sell Anything Online!
+
+FREE: 3 Hours Internet Marketing LIVE Training That’s Guaranteed To Blow Your Mind Off Or We’ll Pay You $50 Cash For Your Time!  
+Simply register by filling up the form and we will contact you as soon as we can to confirm your seat!
+
+[READ MORE](http://cpaprofitsacademy.com/seminar)
+
+  * ## We Help Transform People’s Lives
+
+We focus on training complete newbies into CPA Super Affiliate who are able to escape the rat race by starting their own CPA Internet Business! Check out their videos below to find out more!
+
+[READ MORE](http://www.youtube.com/watch?v=X5heS5boBq4)
+
+
+
+
+### Have any questions? Call us now! >>
 
 ### Privacy Policy
 
@@ -32,14 +50,6 @@ Any of the information we collect from you may be used in one of the following w
 ; To send periodic emails
 
 > The email address you provide for order processing, may be used to send you information and updates pertaining to your order, in addition to receiving occasional company news, updates, related product or service information, etc.
-
-**How do we protect your information?**
-
-We implement a variety of security measures to maintain the safety of your personal information when you enter, submit, or access your personal information.
-
-We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to?keep the information confidential.
-
-After a transaction, your private information (credit cards, social security numbers, financials, etc.) will be kept on file for more than 60 days in order to keep for accounting.
 
 **Do we use cookies?**
 
@@ -79,5 +89,3 @@ www.CPAProfitsAcademy.com
 Singapore  
 admin@CPAProfitsAcademy.com  
 +65 6636 9620
-
-This policy is powered by Free Privacy Policy and Rhino Support. Compare Rhino Support to [Zendesk](http://www.rhinosupport.com/zendesk.htm) and save!
