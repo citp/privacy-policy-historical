@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the factoryauthorizedoutlet.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610030429id_/http%3A//www.factoryauthorizedoutlet.com/security-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the factoryauthorizedoutlet.com privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209190911id_/http%3A//www.factoryauthorizedoutlet.com/security-privacy) for the most accurate reproduction.*
 
 # FAO - Security & Privacy
 
@@ -33,8 +33,8 @@ If you are no longer interested in receiving communications from Factory Authori
 **You can mail us at:**  
        Factory Authorized Outlet  
        Attn: Opting Out  
-       1669 Puddingstone Drive  
-       La Verne, CA 91750
+       5798 Ontario Mills Parkway  
+       Ontario, CA 91764
 
 3\. 
 
