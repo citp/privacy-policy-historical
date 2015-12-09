@@ -1,6 +1,9 @@
-> *The following text is extracted and transformed from the lek.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610055306id_/http%3A//www.lek.com/lek-consulting-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lek.com privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209181928id_/http%3A//www.lek.com/lek-consulting-privacy-policy) for the most accurate reproduction.*
 
 # L.E.K. Consulting Privacy Policy | L.E.K. Consulting
+
+**Information Regarding Fraudulent Job Postings**  
+Certain individuals have been posting or sending fraudulent job offers through various non-L.E.K. Consulting email addresses, including through @mail.com addresses. These individuals are not authorized to act on behalf of L.E.K. Consulting and they are not affiliated with L.E.K. Consulting.
 
 This is the Web site of L.E.K. Consulting LLC and its affiliates (“L.E.K. Consulting”), which has its main office in the United States in Boston, Massachusetts. We can be reached via e-mail at: [info@lek.com](mailto:info@lek.comn) and our postal address is:
 
