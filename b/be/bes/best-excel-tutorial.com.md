@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the best-excel-tutorial.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626095400id_/http%3A//www.best-excel-tutorial.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the best-excel-tutorial.com privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209020952id_/http%3A//www.best-excel-tutorial.com/privacypolicy) for the most accurate reproduction.*
 
 # Best Excel Tutorial - Privacy Policy
 
