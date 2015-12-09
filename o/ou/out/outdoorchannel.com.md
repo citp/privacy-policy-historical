@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the outdoorchannel.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610015459id_/http%3A//www.outdoorchannel.com/content.aspx%3Fid%3D3927) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the outdoorchannel.com privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209183727id_/http%3A//outdoorchannel.com/content.aspx%3Fid%3D3927) for the most accurate reproduction.*
 
 # Privacy Policy | Outdoor Channel
 
 ## Privacy Policy
 
-**Effective Date: May 14, 2013**
+**Effective Date: May 14, 2015**
 
 This privacy policy describes the treatment of information provided or collected on the sites where this privacy policy is posted. It also explains the treatment of information provided or collected on applications we make available on third-party sites or platforms if disclosed to you in connection with use of the application. We follow this privacy policy in accordance with local law in the places where we operate.
 
@@ -16,32 +16,32 @@ We collect the domain name, browser type, and operating system type of our web s
 
 ### Cookies
 
-We collect information through technology, such as cookies, Flash cookies and Web beacons, including when you visit our sites and applications or use our applications on third-party sites or platforms. Please visit Online Tracking and Advertising for further information, including how to disable cookies.
+We collect information through technology, such as cookies, Flash cookies and Web beacons, including when you visit our sites and applications or use our applications on third-party sites or platforms. Please visit [Online Tracking and Advertising](https://www.eff.org/deeplinks/2009/09/online-trackers-and-social-networks) for further information, including how to disable cookies.
 
 ### Email communications
 
-If you do not want to receive email from us in the future, please let us know by sending us email indicating such at the address below. From time to time, we make the email addresses of those who submit them to us available to other reputable organizations whose products or services we think you might find interesting. If you do not want us to share your email address with other companies or organizations, please let us know by sending us email indicating such at the address below.
+If you do not want to receive email from us in the future, please let us know by contacting us from the [Contact Us](https://web.archive.org/contactus.aspx?subject=For%20Web%20Dept) page. From time to time, we make the email addresses of those who submit them to us available to other reputable organizations whose products or services we think you might find interesting. If you do not want us to share your email address with other companies or organizations, please let us know by contacting us from the [Contact Us](https://web.archive.org/contactus.aspx?subject=For%20Web%20Dept) page.
 
 ### Postal address
 
-If you do not want to receive email from us in the future, please let us know by sending us email indicating such at the address below. From time to time, we make the email addresses of those who submit them to us available to other reputable organizations whose products or services we think you might find interesting. If you do not want us to share your email address with other companies or organizations, please let us know by sending us email indicating such at the address below.
+If you do not want to receive postal mail from us in the future, please let us know by contacting us from the [Contact Us](https://web.archive.org/contactus.aspx?subject=For%20Web%20Dept) page. From time to time, we make the postal addresses of those who submit them to us available to other reputable organizations whose products or services we think you might find interesting. If you do not want us to share your postal address with other companies or organizations, please let us know by contacting us from the [Contact Us](https://web.archive.org/contactus.aspx?subject=For%20Web%20Dept) page.
 
 ### Telephone number
 
-Persons who supply us with their telephone numbers by mail or online may receive telephone contact from us with information regarding orders they have placed online. You may also receive telephone contact from us with information regarding new products and services, upcoming events, or from other reputable companies. If you do not wish to receive such telephone calls, please let us know by sending us email indicating such at the address below.
+Persons who supply us with their telephone numbers by mail or online may receive telephone contact from us with information regarding orders they have placed online. You may also receive telephone contact from us with information regarding new products and services, upcoming events, or from other reputable companies. If you do not wish to receive such telephone calls, please let us know by contacting us from the [Contact Us](https://web.archive.org/contactus.aspx?subject=For%20Web%20Dept) page.
 
 ### Advertising servers
 
-With respect to advertising servers, we do not partner with or have special relationships with any ad server companies at this time.
+With respect to advertising servers, we do not partner with or have special relationships with any ad server companies at this time where your information could be shared.
 
 ### Regarding future changes to our Privacy Policy
 
-From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will post the policy changes to our web site at www.outdoorchannel.com to notify you of these changes and provide you with the ability to opt out of these new uses. If you are concerned about how your information is used, you should check back at our web site periodically. Customers may prevent their information from being used for purposes other than those for which it was originally collected by emailing us at the address below.
+From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will post the policy changes to our web site at www.outdoorchannel.com to notify you of these changes and provide you with the ability to opt out of these new uses. If you are concerned about how your information is used, you should check back at our web site periodically. Customers may prevent their information from being used for purposes other than those for which it was originally collected contacting us from the [Contact Us](https://web.archive.org/contactus.aspx?subject=For%20Web%20Dept) page.
 
 ### Access to information we have about you
 
-Upon request , we provide site visitors to our web site with access to all information that we maintain about them, financial information (e.g., credit card account information) that we maintain about them, unique identifier information (e.g., customer number or password) that we maintain about them, transaction information (e.g., dates on which customers made purchases, amounts and types of purchases) that we maintain about them, communications that the consumer/visitor has directed to our web site (e.g., emails, customer inquiries), and contact information (e.g., name, address, phone number) that we maintain about them. Consumers can access this information by sending us email us requesting such at the address below. Upon request, we offer visitors the ability to have inaccuracies corrected in contact information, transaction information, and communications that the consumer/visitor has directed to the web site. Consumers can have this information corrected by sending us email requesting such at the address below.
+Upon request, we provide site visitors to our web site with access to all information that we maintain about them, financial information (e.g., credit card account information) that we maintain about them, unique identifier information (e.g., customer number or password) that we maintain about them, transaction information (e.g., dates on which customers made purchases, amounts and types of purchases) that we maintain about them, communications that the consumer/visitor has directed to our web site (e.g., emails, customer inquiries), and contact information (e.g., name, address, phone number) that we maintain about them. Consumers can access this information by contacting us from the [Contact Us](https://web.archive.org/contactus.aspx?subject=For%20Web%20Dept) page. Upon request, we offer visitors the ability to have inaccuracies corrected in contact information, transaction information, and communications that the consumer/visitor has directed to the web site. Consumers can have this information corrected by contacting us from the [Contact Us](https://web.archive.org/contactus.aspx?subject=For%20Web%20Dept) page.
 
-If you feel that this web site is not following its stated information policy Privacy Policy, you may contact us at the email address or phone number below
+If you feel that this web site is not following its stated information policy Privacy Policy, you may contact us at the [Contact Us](https://web.archive.org/contactus.aspx?subject=For%20Web%20Dept) page.
 
-Our postal address is: **1000 Chopper Circle, Denver, CO 80204**. We can be reached via email at [info@outdoorchannel.com](mailto:info@outdoorchannel.com).
+Our postal address is: 1000 Chopper Circle, Denver, CO 80204. We can be reached via the [Contact Us](https://web.archive.org/contactus.aspx) page.
