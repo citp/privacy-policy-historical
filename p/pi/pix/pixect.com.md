@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pixect.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607213134id_/http%3A//www.pixect.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pixect.com privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209042454id_/http%3A//www.pixect.com/privacy) for the most accurate reproduction.*
 
 # Pixect.com - Privacy Policy & Terms of Service
 
