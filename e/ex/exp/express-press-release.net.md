@@ -1,16 +1,12 @@
-> *The following text is extracted and transformed from the express-press-release.net privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610011750id_/http%3A//www.express-press-release.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the express-press-release.net privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209175617id_/http%3A//www.express-press-release.net/privacy.php) for the most accurate reproduction.*
 
 # Express Press Release Distribution (Free) - Privacy Policy
 
-| 
-
-|   | 
-
-[Home](https://web.archive.org/web/20150610011750id_/http%3A//www.express-press-release.net/index.php) \- Privacy Policy 
+[Home](https://web.archive.org/web/20151209175617id_/http%3A//www.express-press-release.net/index.php) \- Privacy Policy 
 
 **EPR Network's Privacy Policy**
 
-[EPR Network](http://epr-network.com/) respects your concerns about the privacy. At the same time, we do ask and collect information about you in order for us to understand your needs better and make your experience at EPR Network more valuable to you. We created this Privacy Policy to give you with notice of what information EPR Network may collect, how such information may be used or shared with third parties, and how such information relates to the operation of the Site. This Privacy Policy is subject to the [Terms of Service](https://web.archive.org/web/20150610011750id_/http%3A//www.express-press-release.net/tos.php) (the "TOS") posted on the Site, including the provisions regarding change or modification of this Privacy Policy and other policies as set forth in the TOS. You are responsible for checking this page periodically for changes and updates to the Privacy Policy. Your use of the Site following any posted changes to the Privacy Policy will be deemed an acceptance of such changes. This Privacy Policy is part of, and incorporated into, the TOS. 
+[EPR Network](http://epr-network.com/) respects your concerns about the privacy. At the same time, we do ask and collect information about you in order for us to understand your needs better and make your experience at EPR Network more valuable to you. We created this Privacy Policy to give you with notice of what information EPR Network may collect, how such information may be used or shared with third parties, and how such information relates to the operation of the Site. This Privacy Policy is subject to the [Terms of Service](https://web.archive.org/web/20151209175617id_/http%3A//www.express-press-release.net/tos.php) (the "TOS") posted on the Site, including the provisions regarding change or modification of this Privacy Policy and other policies as set forth in the TOS. You are responsible for checking this page periodically for changes and updates to the Privacy Policy. Your use of the Site following any posted changes to the Privacy Policy will be deemed an acceptance of such changes. This Privacy Policy is part of, and incorporated into, the TOS. 
 
 The EPR Network is not intended for use by persons under the age of thirteen. Individuals who are under the age of thirteen are expressly prohibited from submitting to EPR Network or posting to the Site any personally identifiable information about themselves. 
 
@@ -54,6 +50,27 @@ You may occasionally receive information about the products or services you have
 
 As part of press releaseing and providing customizable and personalized services, EPR Network may sometimes use cookies to store and sometimes track information about you. A cookie is a small amount of data that is transferred to your computer's hard drive. All portions of the Site that prompt you to log in or that are customizable require that you accept cookies. No other company has access to cookies placed on your computer by EPR Network unless you select the option, upon registering with the Site, to share user-information with EPR Network's partners. We may use cookies technology to reduce the time required for you to submit your requests and for EPR Network to respond to such requests. Cookies will not be used by us to retrieve any information about you, or from your computer, that you have not voluntarily given to us. Cookies may also be placed on your computer when you link from the Site to our partners' web sites or when you click banner ads provided on our Site. Cookies placed on your computer by third parties by or through the Site, if any, are not the responsibility of EPR Network and are not subject to the TOS. Please contact the third party placing these cookies to find out what information is collected and how it is used. You can usually edit your browser not to accept cookies, but the features of our Site may not function properly if you do not accept cookies.
 
+UPDATE AS OF JULY 2015
+
+More particularly, we use the following third-party sites, services and features that use cookies to personalize content and ads (Google AdSense and DoubleClick), to provide social media features (Facebook, Twitter and Google+) and to analyze our traffic (Google Analytics and Quantcast). We also share information about your use of our site with those social media, advertising and analytics partners. While we have no control over their use of the data, we do believe this use does not pose any threat to you.
+
+If you would like to change your browser's preferences you may do so by following the instructions [here](http://www.aboutcookies.org/Default.aspx?page=1).
+
+You can learn more about how Google uses data when you use their services on EPR Network's sites [over here](http://www.google.com/intl/en/policies/privacy/partners/).
+
+The following pages are the policies that govern and provide more information about the use of the data when you use the services of those companies on EPR Network's sites.
+
+  * Facebook Privacy Policy - <https://www.facebook.com/about/privacy/>;
+  * Google Privacy Policy - <http://www.google.com/policies/privacy/>;
+  * Google Analytics' Privacy Policy - <http://www.google.com/analytics/learn/privacy.html>;
+  * Google Analytics Opt-out Browser Add-on - <https://tools.google.com/dlpage/gaoptout>;
+  * Quantcast Privacy Policy - <https://www.quantcast.com/privacy/>;
+  * Twitter Privacy Policy - <https://twitter.com/privacy?lang=en>;
+
+
+
+END OF UPDATE 
+
 (v) How EPR Network protects your personal information.
 
 For all our transactions, we employ reasonable and current Internet security methods and technologies. Where appropriate, we password protect, use encryption techniques and install firewalls. We strive to protect you. We encourage our participating service providers to adopt and honor their own consumer privacy policies. For all our efforts to safeguard your privacy, no system can be guaranteed. We cannot ensure or warrant the security of any information that you transmit to us, or that we transmit to you, or guarantee that it will be free from unauthorized access by third parties. Once we receive your information, we use reasonable efforts to ensure its security on our systems. 
@@ -66,9 +83,6 @@ There is no option for updating your information on previously posted press rele
 
 The Site may also contain links to other web sites and advertising. The privacy policies of those web sites and advertisers may significantly differ from that of our Site. It is your responsibility to contact such web site operator or advertiser directly to determine their privacy policy. 
 
-Should you have more questions don’t hesitate to contact us at info [at] epr-network.com. Additionally you may wish to get familiar with our [terms of service](https://web.archive.org/web/20150610011750id_/http%3A//www.express-press-release.net/tos.php) before using EPR Network. 
+Should you have more questions don’t hesitate to contact us at info [at] epr-network.com. Additionally you may wish to get familiar with our [terms of service](https://web.archive.org/web/20151209175617id_/http%3A//www.express-press-release.net/tos.php) before using EPR Network. 
 
-(effective as of July 01, 2004, revised on December, 2006, last revision June 2008) 
-
-|   |   
----|---|---|---|---
+(effective as of July 01, 2004, revised on December 2006, June 2008, last revision July 2015) 
