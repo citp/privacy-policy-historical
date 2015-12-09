@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the girl.com.au privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627190624id_/http%3A//www.girl.com.au/privacypol.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the girl.com.au privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209102353id_/http%3A//www.girl.com.au/privacypol.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -24,7 +24,7 @@ When you enter a contest or other promotional feature, we may request both your 
 
 Winners drawn are at the discretion of Girl.com.au. The decision is final and not negotiable. Competitions are not open to Girl.com.au staff or relatives of staff.
 
-To read more detailed Contests Terms & Conditions [CLICK HERE](https://web.archive.org/web/20150627190624id_/http%3A//www.girl.com.au/compstermsconditions.htm)
+To read more detailed Contests Terms & Conditions [CLICK HERE](https://web.archive.org/web/20151209102353id_/http%3A//www.girl.com.au/compstermsconditions.htm)
 
  **What happens to information & content collected by Girl.com.au?**
 
@@ -62,6 +62,19 @@ You agree that you will not engage in any activity that may interfere with or di
 
 Any breaches of the above will result in the cancellation of your account.
 
- **Tell us what you think**
+**Visitor Data**
+
+The services contained in this section enable the Owner to monitor and analyze web traffic and can be used to keep track of User behavior. 
+
+Google Analytics (Google Inc.)
+
+Google Analytics is a web analysis service provided by Google Inc. (“Google”). Google utilizes the Data collected to track and examine the  
+use of this Application, to prepare reports on its activities and share them with other Google services. Google may use the Data collected to contextualize and personalize the ads of its own advertising network.
+
+Personal Data collected: Cookie and Usage data.
+
+[Opt Out](http://tools.google.com/dlpage/gaoptout?hl=en)
+
+**Tell us what you think**
 
 Girl.com.au encourages feedback and any questions you may have about privacy or any of the above. Please send email to the Editor [**michelle@girl.com.au**](mailto:michelle@girl.com.au)
