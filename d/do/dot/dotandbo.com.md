@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dotandbo.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609140150id_/http%3A//www.dotandbo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dotandbo.com privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209085920id_/http%3A//www.dotandbo.com/privacy) for the most accurate reproduction.*
 
-# Dot & Bo – Furniture and Décor for the Modern Lifestyle
+# Privacy Policy - Dot & Bo
 
 Dot & Bo Inc. (“Dot & Bo,” “D&B, “we,” “us,” or “our”) know that our visitors care about how your personal information is used and shared. We take your privacy very seriously and are committed to protecting the privacy of our visitors. Our privacy policy explains how information is collected, used and disclosed by Dot & Bo with respect to your access and use of Dot & Bo’s services, whether through our website (“Site” located at [www.dotandbo.com](https://web.archive.org/)), our applications for mobile devices, or any other services we offer from time to time including other linked pages (collectively, the “Network”), you agree to the practices and policies set forth in this Privacy Policy, and you hereby acknowledge and consent to our collection, use, and sharing of your information as described in this Privacy Policy.
 
@@ -22,7 +22,8 @@ We acknowledge that you have the right to control how your Personal Information 
 
 ## PERSONAL INFORMATION
 
-  * The type of Personal Information that may be collected or submitted to Dot & Bo includes, but is not limited to the following:
+The type of Personal Information that may be collected or submitted to Dot & Bo includes, but is not limited to the following:
+
   * Your name, current address, age group, email address, telephone/cell phone number and fax number;
   * Information about your visit to the Website, which includes the date and time of your visit, the pages accessed and the documents retrieved;
   * The type of browser used when you visit our Website,
@@ -82,6 +83,12 @@ You may have contact with us personally, by telephone, mail, over the Internet o
 
 As far as permissible under law, Dot & Bo accepts no responsibility for the unauthorized access of Personal Information held by Dot & Bo.
 
+## THIRD PARTY ADVERTISING AND ANALYTICS PARTNERS
+
+We may use third party advertising and analytics services on our behalf to deliver interest-based advertising. Services may use cookies, web beacons, and other online identification tools to collect information about your activities in order to, among other things, better display tailored content relevant to your interests and analyze the effectiveness of our marketing efforts. For more information about Internet-based ads, or to opt out of having your web browsing information used for behavioral advertising purposes, please visit [www.aboutads.info/choices](http://www.aboutads.info/choices) and [www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp).
+
+As far as permissible under law, Dot & Bo accepts no responsibility for the unauthorized access of Personal Information held by Dot & Bo.
+
 ## CHILDREN'S PRIVACY
 
 The Children's Online Privacy Protection Act imposes certain requirements on web sites directed at children under 13 that collect information on those children, and on web sites that knowingly collect information on children under 13. The Dot & Bo Network is not directed at children under 13, and does not knowingly collect any personal information from children under 13.
@@ -99,3 +106,5 @@ If you have any queries in relation to this policy or its administration or if y
 This Policy is part of the [Terms of Use](https://web.archive.org/terms) of Dot & Bo’s services and any use of the Network is governed by those Terms of Use.
 
 **Effective Date:** January 18, 2013
+
+**Last Reviewed Date:** September 18, 2015
