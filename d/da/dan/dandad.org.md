@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dandad.org privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610053126id_/http%3A//www.dandad.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dandad.org privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209191637id_/http%3A//www.dandad.org/privacy) for the most accurate reproduction.*
 
 # Privacy | D&AD | D&AD
 
@@ -53,8 +53,7 @@ In addition, our web servers are housed behind a secure firewall that prevents a
 For the purposes of the Data Protection Act (1998), the controller of all information collected on this website is:
 
 D&AD  
-Britannia House  
-68 - 80 Hanbury Street  
+96 Hanbury St  
 London  
 E1 5JL
 
