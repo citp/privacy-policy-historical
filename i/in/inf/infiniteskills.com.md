@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the infiniteskills.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610021801id_/http%3A//www.infiniteskills.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the infiniteskills.com privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209185709id_/http%3A//www.infiniteskills.com/privacy-policy.html) for the most accurate reproduction.*
 
 # O'Reilly Privacy and Security Policy
 
@@ -34,7 +34,7 @@ If you feel that this site is not following its stated information policy, you m
 
 #### Praise for O'Reilly
 
-I can't thank you enough for this course. I had been battling between buying an old version of FCPro7, a new version of 10 or Adobe Premier Pro. I decided on Adobe even though I knew I'd have another learning curve to ride out. So I did a search and found a Master Class by Infinite Skills. WOW! I am in love with the product already thanks to this EXCELLENT instruction. Easy to follow, great voice and manner, well organized and abundant downloadable practice tools and tips. After one day, my knowledge and confidence have increased dramatically. I know I've made the right choice in software AND in taking this amazing course. THANK YOU! Rebecca M.
+[Learning To Program In Java] I've been through 46 lectures so far, and wish all my college and graduate courses had been offered in this format (and taught by Mike McMillan!). He dives into the meat of the topic, no long-winded digressions, no classroom diversions. I can pause to take extensive notes, replay if I want hear what he said again, and revisit any lecture any time. I love that Mike doesn't edit out his mistakes, but instead shows us the common gotchas that even experienced programmers like him run into. I also love that he uses the cmd prompt to compile and run the program. (I first tried to learn java using a book and NetBeans, and subsequently never fully grasped the basic java environment). Excellent, excellent course, worth every penny. Amanda T.
 
 [
 
