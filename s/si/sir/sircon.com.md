@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sircon.com privacy policy that was archived on 2015-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150616172048id_/http%3A//www.sircon.com/about/security/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sircon.com privacy policy that was archived on 2015-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151210084728id_/http%3A//www.sircon.com/about/security/privacy.jsp) for the most accurate reproduction.*
 
-# Privacy Policy | Sircon, A Vertafore Business
+# None
 
 #### Updated: May 2, 2011
 
@@ -26,7 +26,7 @@ Vertafore may disclose personal information if required to do so by law or in th
 
 ## Use of Cookies
 
-The Site uses “cookies” so that we can recognize you and determine when you revisit Vertafore, and to provide a more personalized experience. A "cookie" is a small amount of data, which often includes an anonymous unique identifier, that our Site stores on the hard drive of your computer through your browser. Most browsers are set up to accept cookies, but you can usually change your browser settings to refuse them. Vertafore does not use cookies to retrieve personal information about you from your computer.
+The Site uses 'cookies' so that we can recognize you and determine when you revisit Vertafore, and to provide a more personalized experience. A "cookie" is a small amount of data, which often includes an anonymous unique identifier, that our Site stores on the hard drive of your computer through your browser. Most browsers are set up to accept cookies, but you can usually change your browser settings to refuse them. Vertafore does not use cookies to retrieve personal information about you from your computer.
 
 Vertafore uses cookies to:
 
