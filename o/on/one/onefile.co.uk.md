@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the onefile.co.uk privacy policy that was archived on 2015-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150619115735id_/https%3A//www.onefile.co.uk/policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onefile.co.uk privacy policy that was archived on 2015-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151210035134id_/http%3A//www1.onefile.co.uk/policies/privacy/index.html) for the most accurate reproduction.*
 
 # Privacy Policy - OneFile
 
 ## Introduction
 
-Onefile Ltd (“We”) are committed to protecting and respecting your privacy. This policy sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it. By visiting any website under the domain name of onefile.co.uk, you are accepting and consenting to the practices described in this policy.
+OneFile Ltd (“We”) are committed to protecting and respecting your privacy. This policy sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it. By visiting any website under the domain name of onefile.co.uk, you are accepting and consenting to the practices described in this policy.
 
 ## Data Protection Act 1998
 
-If you have been given a login for this website and you are not an External Verifier or an External Quality Assurer then for the purpose of the Data Protection Act 1998 (the “Act”), the data processor is Onefile Ltd of One Central Park, Northampton Road, Manchester, M40 5BP, and the data controller is your Training Provider.
+If you have been given a login for this website and you are not an External Verifier or an External Quality Assurer then for the purpose of the Data Protection Act 1998 (the “Act”), the data processor is OneFile Ltd of One Central Park, Northampton Road, Manchester, M40 5BP, and the data controller is your Training Provider.
 
-Otherwise if you do not have a login for this website or, you do have a login and you are an External Verifier or an External Quality Assurer then for the purpose of the Data Protection Act 1998 (the “Act”), the data controller is Onefile Ltd of One Central Park, Northampton Road, Manchester, M40 5BP.
+Otherwise if you do not have a login for this website or, you do have a login and you are an External Verifier or an External Quality Assurer then for the purpose of the Data Protection Act 1998 (the “Act”), the data controller is OneFile Ltd of One Central Park, Northampton Road, Manchester, M40 5BP.
 
 ## What information do we gather?
 
@@ -40,7 +40,7 @@ We may use your personal information to:
 
 
 
-You may modify your preferences or get further information by writing to us at Onefile Ltd, One Central Park, Northampton Road, Manchester M40 5BP or by email to privacy@onefile.co.uk.
+You may modify your preferences or get further information by writing to us at OneFile Ltd, One Central Park, Northampton Road, Manchester M40 5BP or by email to privacy@onefile.co.uk.
 
 ## Disclosing your information
 
@@ -76,4 +76,4 @@ If at any time you believe that we have not adhered to the terms of this Privacy
 
 This policy was last updated on 27 November 2014.
 
-We use cookies to ensure you receive the best experience on our website. By using this site you're agreeing to our [cookies policy](https://web.archive.org/policies/privacy/).
+We use cookies to ensure you receive the best experience on our website. By using this site you're agreeing to our [cookies policy](https://web.archive.org/web/20151210035134id_/http%3A//www1.onefile.co.uk/policies/privacy/index.html).
