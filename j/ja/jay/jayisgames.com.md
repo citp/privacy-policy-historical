@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jayisgames.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607131056id_/http%3A//jayisgames.com/support/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jayisgames.com privacy policy that was archived on 2015-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151210191156id_/http%3A//jayisgames.com/support/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy for Jayisgames.com - Jay is games
 
@@ -11,11 +11,27 @@ Our different processes do not require to know your ip so we do not know and do 
 
 
 
-§ II. How we use cookies 
+§ II. How we use cookies? 
 
-  * 1)
+  * Cookies and web beacons
 
-A cookie is a small file which asks permission to be placed on your computer's hard drive. Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences. We use traffic log cookies to identify which pages are being used. This helps us analyse data about webpage traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system. Overall, cookies help us provide you with a better website by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us. You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website. We also use cookies to keep your login information avoiding to enter it at each connection.
+i) What are cookies and web beacons  
+
+
+The Website makes use of "cookies" which are installed on the user's computer when he rates a game on the Website. In addition, the advertisers on the Website such as Google Adsense, Google DoubleClick,and Specific Media (the "Advertisers"), might use "cookies" and/or "web beacons". Cookies are small electronic files that are placed on the harddisk of the user's computer whereas web beacons are mostly clear picture files which are used to keep track of a user's navigation through a single website or a series of websites.
+
+(ii) For what purposes will these cookies and web beacons be used
+
+The Website Owner might use the information stored in a "cookie" in order prevent a user from rating the same game for several times. Such cookies will only be valid for a period of two weeks. The Advertisers might use information gathered by the cookies and/or the web beacons for the purpose of online behavioral advertising and/or multisite advertising. The types of information that is gathered by the cookies and/or web beacons as well as the purpose(s) for which this information is used, are provided in the privacy policy of the Advertiser concerned. The user can consult the privacy policy of the Advertisers by clicking on the name of the Advertiser (as indicated above).
+
+(iii) Refuse cookies, web-beacons and online behavioral advertising
+
+To the extent that the user's browser settings allow for the installation of cookies and web beacons on his computer, he consents with the installation of such cookies on his computer and he accepts that information relating to him may be used for behavioral advertising. The user of the website has the right to object ("opt-out") against online behavioral advertising and the use of cookies or web beacons. Users can opt-out of cookies by visiting the website of the Advertiser concerned or by visiting the website of the Network Advertisers Initiative at http://www.networkadvertising.org/managing/opt_out.asp.  
+In addition, the user can refuse the installation of cookies and/or web beacons or delete them by adjusting the browser settings on his computer. To learn more on how to adjust the settings of your internet browser, we recommend the user to visit the website of the browser's vendor.
+
+(iv) Liability for cookies and web beacons
+
+The Website Owner can not be held liable for the Advertisers' cookies or web beacons for whatever purposes pursued.
 
 
 
