@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the motivators.com privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611084310id_/http%3A//www.motivators.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the motivators.com privacy policy that was archived on 2015-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151210025341id_/http%3A//www.motivators.com/privacy.asp) for the most accurate reproduction.*
 
 # Motivators Privacy Policy, Commitment to Data Security, Motivators Information
 
@@ -6,7 +6,9 @@
 
 This privacy policy applies to www.motivators.com owned and operated by Motivators, Inc. (collectively "We", "Us" or "Our"). Your privacy is important to us. To better protect your privacy we provide this notice explaining our online and internal information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage ([www.Motivators.com](http://www.motivators.com/)) and at every point where personal information may be requested.
 
-Motivators, Inc. has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy-program-requirements/) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program covers information collected through this Web site www.motivators.com and does not cover information that may be collected through our mobile applications. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at 800-525-9600. If you are not satisfied with our response you can contact [TRUSTe here](https://feedback-form.truste.com/watchdog/request).
+Motivators, Inc. has received TRUSTE's Privacy Seal signifying that this Privacy Statement and our practices have been reviewed for compliance with the TRUSTe program. In order to view our relationship with TRUSTe please visit the validation page visible by clicking on the TRUSTe Seal. The TRUSTe program covers only information that is collected through this website, http://www.motivators.com and does not cover information that may be collected through our mobile application.
+
+If you have questions or concerns regarding this Statement, you should first contact us at 800-525-9600. If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact [TRUSTe here](https://feedback-form.truste.com/watchdog/request).
 
 **The Information We Collect**
 
@@ -19,6 +21,7 @@ This notice applies to all information collected or submitted on the Motivators 
   * Phone Number
   * Credit/Debit Card Information
   * Shipper # information
+  * Date of Birth (optional)
   * (etc)
 
 
@@ -36,7 +39,7 @@ This information is only used for the sole purpose of completing your request or
 
 **Tracking Technologies**
 
-Technologies such as: cookies, beacons, tags and scripts are used by Motivators, Inc. and our marketing partners, or analytics providers. These technologies are used in analyzing trends, administering the site, tracking users' movements around the site and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis.
+Technologies such as: cookies, beacons, tags and scripts are used by Motivators, Inc. and our marketing partners, or analytics providers. These technologies are used in analyzing trends, administering the site, tracking users' movements around the site and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis. Various browsers may offer their own management tools for removing these types of tracking technologies.
 
 We use cookies to remember users' settings for authentication. Users can control the use of cookies at the individual browser level. If you reject cookies, you may still use our site, but your ability to use some features or areas of our site may be limited.
 
@@ -89,11 +92,15 @@ We use non-identifying and aggregate information to better design our website an
 
 **Our Commitment To Data Security**
 
+The security of your personal information is important to us. We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security. If you have any questions about security on our Web site, you can contact us at [privacy@motivators.com](mailto:privacy@motivators.com).
+
+When you enter sensitive information (such as a credit card number) on our order forms, we encrypt the transmission of that information using secure socket layer technology (SSL).
+
 To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online. We are also protected by VeriSign, a service to assure that your information is kept secure. For information click here: [https://trustsealinfo.verisign.com/splash?form_file=fdf/splash.fdf&dn=secure.motivators.com&lang=en](https://trustsealinfo.verisign.com/splash?form_file=fdf/splash.fdf&dn=secure.motivators.com&lang=en)
 
 **Our Commitment To Children's Privacy**
 
-Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our website from those we actually know are under 18, and no part of our website is structured to attract anyone under 18. If we become aware that the child that the child under 18 has provided us with personal information, we will delete their information immediately and terminate the child's account.
+Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our website from those we actually know are under 18, and no part of our website is structured to attract anyone under 18. If we become aware that the child under 18 has provided us with personal information, we will delete their information immediately and terminate the child's account.
 
 **Surveys**
 
@@ -117,15 +124,9 @@ We use a chat feature to assist you with any questions you have while shopping o
 
 **Accessing/Correcting Personal Information**
 
-If your personal information changes, or if you no longer desire our service, you may correct, delete/remove or ask to have it removed from our blog or testimonial, or deactivate it by making the change on our member information page, by emailing our Customer Support at [privacy@motivators.com](mailto:privacy@motivators.com), or by contacting us by telephone or postal mail at the contact information listed below.
+If your personal information changes, or if you no longer desire our service, you may correct, update, amend, delete/remove or ask to have it removed from our blog or testimonial, or deactivate it by making the change on our member information page, by emailing our Customer Support at [privacy@motivators.com](mailto:privacy@motivators.com), or by contacting us by telephone or postal mail at the contact information listed below. We will respond to your request to access within a reasonable timeframe.
 
 To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections.
-
-**Security**
-
-The security of your personal information is important to us. We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security. If you have any questions about security on our Web site, you can contact us at [privacy@motivators.com](mailto:privacy@motivators.com).
-
-When you enter sensitive information (such as a credit card number) on our order forms, we encrypt the transmission of that information using secure socket layer technology (SSL).
 
 **Links to Other Web Sites**
 
@@ -157,4 +158,4 @@ Should you have other questions or concerns about these privacy policies, please
 
 By Visiting Motivators.com, you are accepting the practices described in this privacy notice.
 
-This Privacy Policy has been in effect since 2/20/2015
+This Privacy Policy has been in effect since 11/24/2015
