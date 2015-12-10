@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the languagecourse.net privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611084122id_/http%3A//www.languagecourse.net/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the languagecourse.net privacy policy that was archived on 2015-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151210123750id_/http%3A//www.languagecourse.net/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
