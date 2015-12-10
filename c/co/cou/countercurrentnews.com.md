@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the countercurrentnews.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623180826id_/http%3A//countercurrentnews.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the countercurrentnews.com privacy policy that was archived on 2015-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151210151059id_/http%3A//countercurrentnews.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Counter Current News
 
 **CounterCurrentNews.com – PRIVACY POLICY**
 
