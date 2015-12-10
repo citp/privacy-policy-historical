@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the venusfactor.com privacy policy that was archived on 2015-04-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150430110223id_/http%3A//www.venusfactor.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the venusfactor.com privacy policy that was archived on 2015-12-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151210174708id_/http%3A//www.venusfactor.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
     
@@ -21,6 +21,41 @@
     }
 </style>
 	<script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+	<script>
+        $(document).ready(function() {
+            $('.accept-link-track').on('click', function () {
+                    ga('send', {
+                        'hitType': 'event',
+                        'eventCategory': 'Upsell',
+                        'eventAction': 'Accept',
+                        'eventLabel':  'VTID' 
+                    });
+            });
+
+            $('.decline-link-track').on('click', function () {
+                ga('send', {
+                    'hitType': 'event',
+                    'eventCategory': 'Upsell',
+                    'eventAction': 'Decline',
+                    'eventLabel':  'VTID' 
+                });
+            });
+        });
+
+        function click()
+        {
+            var toggles = document.getElementsByClassName("accept-checkbox");
+            var checked = toggles[0].checked;
+            if(!checked) {
+                window.alert("Please click the box to agree to the payment terms of this recurring product.");
+                return false;
+            }
+            else {
+                window.location.href = this.href + "&cbrblaccpt=true";
+                return false;
+            }
+        }
+    </script>
 
     <!-- Google Analytics Code START -->
     <script>
@@ -88,7 +123,10 @@
 
     </div>
     <!-- HEADER END -->
-</div>    </div>
+</div>
+
+
+    </div>
 </div>
 
 <hr>
@@ -186,14 +224,14 @@
     <div class="text-center">
 <div id="footer" class="footer">
     <div>
-        <span><a href="http://10.venusind.pay.clickbank.net/?cbfid=18893&amp;cbskin=7584&amp;vtid=privacy" style="margin: 0 12px;">Get Started</a></span>
+        <span><a onclick="PreventExitPop = true;" href="http://132.venusind.pay.clickbank.net/?cbfid=21943&amp;cbskin=7584&amp;vtid=privacy" style="margin: 0 12px;">Get Started</a></span>
         <span><a style="margin: 0 12px;" href="/privacy/">Privacy</a></span>
         <span><a style="margin: 0 12px;" href="/terms/">Terms</a></span>
         <span><a style="margin: 0 12px;" href="/contact-us/">Contact Us</a></span>
         <span><a style="margin: 0 12px;" href="/legal-and-testimonial-disclaimer/">Legal &amp; Testimonial Disclaimer</a></span>
 
     </div>
-    <p class="text-center">Copyright 2014 VenusFactor.com. All rights reserved - <a href="http://10.venusind.pay.clickbank.net/?cbfid=18893&amp;cbskin=7584&amp;vtid=privacy">Order Now</a></p>
+    <p class="text-center">Copyright 2014 VenusFactor.com. All rights reserved - <a href="http://132.venusind.pay.clickbank.net/?cbfid=21943&amp;cbskin=7584&amp;vtid=privacy" onclick="PreventExitPop = true;">Order Now</a></p>
     <!--<p><img src="http://1e67e95d1369bbb42c38-7f38e3389c1f571968a0ba0052518ae7.r47.cf1.rackcdn.com/resources/fix-design/img/homepage/logo-grey.png" class="text-center"></p>-->
 <div class="text-center">
     <iframe src="https://ssl.clickbank.net/pitch/serv/customfooter.htm?footerKey=311265690154332621TP" width="100%" height="50px" style="padding:0px;margin-top:10px" frameborder="0" scrolling="no"></iframe>
