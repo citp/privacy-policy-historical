@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sermo.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607185725id_/http%3A//www.sermo.com/what-is-sermo/privacy-policy-website) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sermo.com privacy policy that was archived on 2015-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151210124825id_/http%3A//www.sermo.com/what-is-sermo/privacy-policy-website) for the most accurate reproduction.*
 
-# SERMO: PRIVACY POLICY
+# SERMO: Privacy Policy
 
 _Updated: 26 November 2014_
 
@@ -58,7 +58,7 @@ We are committed to protecting the security of Your information. We use a variet
 
 You may opt-out of any promotional emails at any time by following the unsubscribe instructions in the promotional emails you receive from us. 
 
-Should You want to correct any of the information You provided, You may contact us at the address [info@sermo.com](mailto:info@sermo.com) or SERMO, Inc. 60 South Street, Suite 910, Boston, MA 02111.
+Should You want to correct any of the information You provided, You may contact us at the address [info@sermo.com](mailto:info@sermo.com) or SERMO, 200 Park Ave South, New York, NY 10003.
 
 ### 4b. Notification of Changes
 
