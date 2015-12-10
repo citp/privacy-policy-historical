@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the madwhips.com privacy policy that was archived on 2015-06-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150610105813id_/http%3A//www.madwhips.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the madwhips.com privacy policy that was archived on 2015-12-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151210132834id_/http%3A//www.madwhips.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-gb" lang="en-gb" dir="ltr" ng-app="madwhipsApp"><head>
 	<script id="twitter-wjs" src="https://platform.twitter.com/widgets.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script>
@@ -79,6 +79,9 @@
 		ga('send', 'pageview');
 
 	</script>
+
+	<script src="https://www.google.com/recaptcha/api.js"></script>
+
 <script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js"></script></head>
 
 
@@ -140,6 +143,12 @@
 		<li class="top_nav">
 			<i class="icon icon-recent"></i> <a href="http://www.madwhips.com/recentphotos" class="nav">
 				Recent Photos			</a>
+		</li>
+
+		<li class="top_nav">
+			<i class="icon icon-carsale"></i> <a href="http://www.madwhips.com/carsforsale" class="nav">
+				Cars for Sale
+			</a>
 		</li>
 
 		<li class="top_nav">
@@ -313,7 +322,7 @@
 			
 											
 									<dd class="hits">
-						<span class="icon-eye-open"></span> Hits: 30810					</dd>
+						<span class="icon-eye-open"></span> Hits: 41080					</dd>
 										</dl>
 		</div>
 	
@@ -332,11 +341,11 @@
  <!--
  var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
  var path = 'hr' + 'ef' + '=';
- var addy33658 = 'pr&#105;v&#97;cy' + '&#64;';
- addy33658 = addy33658 + 'm&#97;dwh&#105;ps' + '&#46;' + 'c&#111;m';
- var addy_text33658 = 'pr&#105;v&#97;cy' + '&#64;' + 'm&#97;dwh&#105;ps' + '&#46;' + 'c&#111;m';
- document.write('<a ' + path + '\'' + prefix + ':' + addy33658 + '\'>');
- document.write(addy_text33658);
+ var addy99173 = 'pr&#105;v&#97;cy' + '&#64;';
+ addy99173 = addy99173 + 'm&#97;dwh&#105;ps' + '&#46;' + 'c&#111;m';
+ var addy_text99173 = 'pr&#105;v&#97;cy' + '&#64;' + 'm&#97;dwh&#105;ps' + '&#46;' + 'c&#111;m';
+ document.write('<a ' + path + '\'' + prefix + ':' + addy99173 + '\'>');
+ document.write(addy_text99173);
  document.write('<\/a>');
  //-->\n </script><a href="mailto:privacy@madwhips.com">privacy@madwhips.com</a><script type="text/javascript">
  <!--
@@ -390,9 +399,13 @@
 				<label class="pointer"><input type="radio" name="register_gender" ng-model="register_gender" value=""><span class="radio-label">N/A</span></label>
 			</div>
 			<input id="register_email" name="register_email" class="input" ng-model="register_email" placeholder="E-mail" required=""><br>
+			<div ng-show="show_register_url">
+				<input id="register_url" name="register_url" class="input" placeholder="URL" value="" autocomplete="off">Please don't fill this input.
+			</div>
 			<input id="register_password" name="register_password" class="input" ng-model="register_password" placeholder="Password" type="password" required=""><br>
 			<input id="register_password2" class="input" ng-model="register_password2" placeholder="Repeat Password" type="password" required=""><br><br>
 			<label class="pointer"><input type="checkbox" id="accept" name="accept" ng-model="terms"><span class="radio-label">I accept <a target="_blank" href="http://www.madwhips.com/terms-of-service"><b>Terms of Service</b></a></span></label><br><br>
+			<div class="g-recaptcha" data-sitekey="6LdnNQ8TAAAAAKj7UM8xUdG1QA31JHX3pJVE6DQL"></div>
 			<div class="center">
 				<a href="#" class="button submit gray" ng-click="next($event)">Register</a>
 			</div>
@@ -708,6 +721,157 @@
 
 </div>
 
+<div id="post-car-sale-popup" class="white-popup mfp-hide wide" ng-controller="carSaleCtrl">
+
+	<h2>{{title}}</h2>
+	<hr>
+
+	<div ng-show="stepDesc" class="stepDesc">
+
+		<div class="floatleft params">
+			<div>
+				<label>Car Name</label>
+				<input value="" class="input" id="car_name" data-required="true" ng-model="car_name">
+				<div class="error-message"></div>
+				<p class="right">{{nameCount}}/35</p>
+			</div>
+
+			<div>
+				<label>Description</label>
+				<textarea class="textarea" id="car_description" ng-model="car_description"></textarea>
+				<div class="error-message"></div>
+				<p class="right">{{descCount}}/300</p>
+			</div>
+
+			<div>
+				<label class="block">Price</label>
+				<input value="" class="input sibling-big" id="car_price" data-required="true" ng-model="car_price" placeholder="Ex: 300,000">
+				<select id="car_currency" class="input sibling-small" ng-model="car_currency" ng-options="c.currency_name as c.currency_name for c in currencies"></select>
+				<div class="error-message"></div>
+				<div class="input_form">
+					<input id="call-for-price" type="checkbox" ng-model="car_call_for_price" ng-click="updateCallForPrice($event, e.id)" value="0"><label for="call-for-price">Call For Price</label>
+				</div>
+			</div>
+
+			<div ng-show="showSold">
+				<br>
+				<label>Status</label>
+				<div class="input_form">
+					<input value="0" type="radio" id="car_for_sale" ng-model="car_sold"><label class="inline" for="car_for_sale">For Sale</label>
+					<input value="1" type="radio" id="car_sold" ng-model="car_sold"><label class="inline" for="car_sold">Sold</label>
+				</div>
+			</div>
+
+			<br>
+			<h3>Dealer Contact Info</h3>
+			<hr>
+
+			<div ng-show="dealer_loading">
+				<div id="dealer_loader"></div>
+			</div>
+
+			<div ng-hide="dealer_loading">
+
+				<div ng-show="car_edit">
+
+					<div>
+						<label>Name</label>
+						<input value="" class="input" id="dealer_name" data-required="true" ng-model="dealer_name">
+						<div class="error-message"></div>
+					</div>
+
+					<div>
+						<label>Email</label>
+						<input value="" class="input" name="dealer_email" data-required="true" ng-model="dealer_email">
+						<div class="error-message"></div>
+					</div>
+
+					<div>
+						<label>Website</label>
+						<input value="" class="input" name="dealer_url" data-required="true" ng-model="dealer_url">
+					</div>
+
+					<div>
+						<label>Phone</label>
+						<input value="" class="input" name="dealer_phone" data-required="true" ng-model="dealer_phone">
+					</div>
+
+					<div>
+						<label>Address</label>
+						<input value="" class="input" name="dealer_address" data-required="true" ng-model="dealer_address">
+					</div>
+
+					<div ng-show="car_cancel_edit">
+						<a href="#" class="link_option" ng-click="cancelEditDealerInfo($event)">Cancel editing dealer info</a>
+					</div>
+
+				</div>
+
+				<div ng-hide="car_edit">
+
+					<ul class="dealer_info">
+						<li><label>Name: </label><span>{{dealer_name}}</span></li>
+						<li><label>Email: </label><span>{{dealer_email}}</span></li>
+						<li><label>Website: </label><span>{{dealer_url}}</span></li>
+						<li><label>Phone: </label><span>{{dealer_phone}}</span></li>
+						<li><label>Address: </label><span>{{dealer_address}}</span></li>
+						<li><a href="#" ng-click="editDealerInfo($event)">Edit dealer info</a></li>
+					</ul>
+
+				</div>
+
+			</div>
+
+		</div>
+
+		<div id="imagePreview" class="floatleft image-car">
+
+			<label>Car Photos</label>
+			<div class="row">
+				<div class="col-xs-2">
+					<a id="uploadBtn" class="btn-upload btn-add-car-photo">Add Photo</a>
+					<div class="clear"></div><br>
+					<div id="car_images" class="error-message"></div>
+				</div>
+				<div id="progressOuter" class="col-xs-10">
+				</div>
+			</div>
+
+			<div id="images-container"></div>
+
+		</div>
+
+		<br class="clear"><br><br>
+
+		<hr>
+		<br>
+
+		<div class="center">
+			<a href="#" class="button light-gray floatleft" ng-click="deleteConfirmation($event)" ng-show="edit" id="photoDeleteCar">Delete</a>
+			<a href="#" class="button light-gray" ng-click="closeLightboxes($event)">Cancel</a>
+			<a href="#" class="button gray" ng-click="save($event)" id="photoSaveButton">{{button}}</a>
+		</div>
+
+	</div>
+
+	<div ng-show="stepDesc_error" class="center">
+		<p class="message">{{message}}</p>
+		<a href="#" ng-click="backDesc($event)">return</a>
+	</div>
+
+	<div ng-show="stepDesc_success" class="center">
+		<p class="message">{{message}}</p>
+		<a href="#" class="button gray" ng-click="seecar($event)">{{button}}</a>
+	</div>
+
+	<div ng-show="delete_confirmation" class="center">
+		<p class="message">{{message}}</p>
+		<a href="#" class="button light-gray" ng-click="back($event)">Cancel</a>
+		<a href="#" class="button gray" ng-click="deleteCar($event, car_id)">Delete Car</a>
+	</div>
+
+</div>
+
 <div id="my-profile-popup" class="white-popup mfp-hide" ng-controller="editProfileCtrl">
 	<h2>My Profile</h2>
 	<hr>
@@ -863,7 +1027,8 @@
 	}(document));
 </script>
 
-<script src="/components/com_socialpinboard/javascript/app/dev/app.js?v=9"></script>
+<script src="/components/com_socialpinboard/javascript/SimpleAjaxUploader.min.js"></script>
+<script src="/components/com_socialpinboard/javascript/app/dev/app.js?v=10"></script>
 <script type="text/javascript" async="" src="//assets.pinterest.com/js/pinit.js"></script>
 <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="https://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
 
@@ -875,8 +1040,14 @@
 </style>
 <![endif]-->
 
-<script type="text/javascript">ggv2id='cac4ef4a';</script>
-<script type="text/javascript" src="//g2.gumgum.com/javascripts/ggv2.js"></script>
+
+	<script type="text/javascript">
+		var infolinks_pid = 2522562;
+		var infolinks_wsid = 0;
+	</script>
+	<script type="text/javascript" src="//resources.infolinks.com/js/infolinks_main.js"></script>
+
+
 
 
 
