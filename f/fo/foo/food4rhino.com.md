@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the food4rhino.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608094201id_/http%3A//www.food4rhino.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the food4rhino.com privacy policy that was archived on 2015-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151210082946id_/http%3A//www.food4rhino.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Food4Rhino | Rhino
 
