@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the domainz.in privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609235607id_/http%3A//www.domainz.in/page_privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the domainz.in privacy policy that was archived on 2015-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151210020649id_/http%3A//www.domainz.in/page_privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
