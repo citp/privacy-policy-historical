@@ -1,16 +1,18 @@
-> *The following text is extracted and transformed from the raaga.com privacy policy that was archived on 2004-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040401122635id_/http%3A//raaga.com/channels/home/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the raaga.com privacy policy that was archived on 2015-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151210093743id_/http%3A//play.raaga.com/privacy) for the most accurate reproduction.*
 
-# RAAGA - RAAGA > PRIVACY POLICY
+# Privacy Policy
 
-  | Welcome to Raaga.com. We value your privacy, and want you to know what information we collect and what we do with it. 
+Welcome to Raaga.com. We value your privacy, and want you to know what information we collect and what we do with it. 
 
 From time to time, we may make changes to this Policy. We will endeavor to   
 post the changes before they become effective. The effective date of the most recent version of the privacy policy will appear at the top of this page. This consumer privacy policy applies to any information we collect or receive about you, from any source.
 
 **WHAT INFORMATION WE COLLECT**  
-We have several areas where members can submit information to us, and we also have features that automatically collect information from our members and other users.  
-**  
-INFORMATION YOU PROVIDE TO US.**  
+We have several areas where members can submit information to us, and we also have features that automatically collect information from our members and other users.
+
+If you connect to RAAGA using social media websites including but not restricted like facebook, google+ and twitter, the default setting is generally that RAAGA automatically shares your activity and activity – related stories with that service, including the music you listen to, You understand that such information may be attributed to your account on such social websites or the other integrated service and may be published on such servie. RAAGA may store your username and an access token or similar credentials obtained from the thirty party service, so that you are able to share particular items of content, on that third party service,  on an individual basis, without entering your access credentials again.  
+**   
+INFORMATION YOU PROVIDE TO US. **  
 We have certain areas where we ask you to provide information to us:
 
 * Registration. You may register with us to use some of our member only features on our site. We may also offer the option for you to register with us or sign up for our mailing list without having to use any other product or service. During registration, you provide your "contact information" (which identifies you and how we can contact you, such as your name and email address) as well as certain demographic information (which describes certain information about you, such as your country of residence). You may be asked to enter a e-mail address and password. We may also ask you to provide additional information about your music preferences, so that we can cater to those preferences. The registration information that you provide will be reflected in the "My Raaga" section of the service. 
@@ -28,16 +30,18 @@ to us (such as when contacting us with a question or problem related to the serv
 
 * Surveys. We may occasionally ask members to participate in surveys. Such surveys will be voluntary. They are intended to improve your member experience and any information you provide we may associate with your member name for future use. Any personal information collected will be used only by us unless we specify otherwise, although we may share aggregate survey result information with others. 
 
-**AUTOMATIC DATA COLLECTION**
+**AUTO** **MATIC DATA COLLECTION**
 
 Cookies. We use a software technology called "cookies" for several purposes, depending on the type of cookie employed. Within Raaga.com, we use what are commonly called "session" cookies, meaning that they only last as long as you are online. We use these cookies to identify you as a valid subscriber so that we can deliver music to you, to ensure that no one else can sign on simultaneously with your account from another computer and to help us personalize your service experience based on your registration preferences (such as genre). We may also use session cookies to help us facilitate any promotions or surveys that we provide. As part of the sign-in process, we may also use what are commonly called "persistent" cookies which stay with you after your session is over and you are offline. We only use these cookies in connection with a sign-in feature that allows you to save your member name and password so that the next time you sign in, these fields will be prepopulated for you. This cookie is only offered in conjunction with certain Affiliate Sites that choose to make it available and it can only be activated if you select that option during your sign-in. If you select this option you can always deselect it each time you sign-in. 
+
+If you connect to RAAGA using social media websites including but not restricted like facebook, google+ and twitter, the default setting is generally that RAAGA automatically shares your activity and activity – related stories with that service, including the music you listen to, You understand that such information may be attributed to your account on such social websites or the other integrated service and may be published on such service. RAAGA may store your username and an access token or similar credentials obtained from the thirty party service, so that you are able to share particular items of content, on that third party service,  on an individual basis, without entering your access credentials again. 
 
 Other. In order to personalize our service for your enjoyment and to monitor and improve the performance of our technology, we do collect/capture other data such as a member's searches (such as their search criteria and results) and the music they listened to. We only share search history or music usage data on an aggregate basis. 
 
 For our internal purposes, we gather information such as date, time, connection speed and IP address of all visitors to our site. We keep this information simply for our internal security audit log, trend analysis, and system administration. 
 
 **Third Party Advertising  
-** The ads appearing on this Web site are delivered to you by DoubleClick, our Web advertising partner. Information about your visit to this site, such as number of times you have viewed an ad (but not your name, address, or other personal information), is used to serve ads to you on this site. For more information about DoubleClick, cookies, and how to "opt-out", please [click here](http://www.doubleclick.net/us/corporate/privacy).
+**The ads appearing on this Web site are delivered to you by DoubleClick, our Web advertising partner. Information about your visit to this site, such as number of times you have viewed an ad (but not your name, address, or other personal information), is used to serve ads to you on this site. For more information about DoubleClick, cookies, and how to "opt-out", please [click here](http://www.doubleclick.net/us/corporate/privacy).
 
 **Third Party Cookies**  
 In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique "cookie" on your browser.
@@ -55,6 +59,10 @@ Raaga.com endeavors to protect the security of your personal information and you
 
 We store your personal information on a secure server, and use special procedures designed to protect the information we collect from loss, misuse, unauthorized access or disclosure, alteration or destruction. 
 
+**GOOGLE ANALYTICS:**
+
+RAAGA’s sites may present display advertising and may collect data about traffic via Google Analytics Demographics and Interest Reporting. Visitors can opt out of Google Analytics for Display Advertising and / or customize Google Display Networks by visiting Ads Settings.
+
 **ACCESS/CHOICE**
 
 You will always have access to your registration information, which you can modify at any time by clicking on the "Edit Profile" subsection of the "My Raaga" area of the site, so long as you continue to provide us with certain information required to maintain your subscription (such as a valid email address). Also, marketing e-mails from Raaga.com will come with instructions for unsubscribing from our email mailing list.
@@ -63,10 +71,12 @@ You will always have access to your registration information, which you can modi
 
 We may display links to other sites within Raaga.com. We are not responsible for those other sites, their privacy policies or how they treat information about their members. We advise you to check their privacy policies to find out how they are treating your personal information. 
 
+**PRIVACY POLICY CHANGES  
+**  
+RAAGA reserves the right to make changes to this privacy statement. Any material changes on this statement will be prominently posted online and accessible via the RAAGA user portal 30 days prior to taking effect. 
+
 **CONTACT US:**
 
 If you have any questions about this privacy policy, or the privacy practices of Raaga.com, you can contact: 
 
 [webmaster@raaga.com ](mailto:webmaster@raaga.com?Subject=Privacy%20Policy)
-
-|  
