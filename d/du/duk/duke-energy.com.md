@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the duke-energy.com privacy policy that was archived on 2015-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150531040940id_/http%3A//www.duke-energy.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the duke-energy.com privacy policy that was archived on 2015-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151210235458id_/http%3A//www.duke-energy.com/privacy.asp) for the most accurate reproduction.*
 
-# Updated Privacy Policy- - Kentucky Residential-Duke Energy
+# Updated Privacy Policy- - North Carolina Residential-Duke Energy
 
 **Last updated  December 2014**
 
