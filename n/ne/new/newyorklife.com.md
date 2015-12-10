@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newyorklife.com privacy policy that was archived on 2015-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150625020014id_/http%3A//www.newyorklife.com/about/nyl-online-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newyorklife.com privacy policy that was archived on 2015-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151210082540id_/http%3A//www.newyorklife.com/about/nyl-online-privacy-policy) for the most accurate reproduction.*
 
 # New York Life online privacy policy
 
