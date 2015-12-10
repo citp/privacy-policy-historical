@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the crumpler.com privacy policy that was archived on 2015-06-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150611013501id_/http%3A//www.crumpler.com/au/help/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the crumpler.com privacy policy that was archived on 2015-12-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151210053845id_/http%3A//www.crumpler.com/au/help/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><!--<![endif]--><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -21,9 +21,9 @@
 <![endif]-->
 
 <link rel="stylesheet" type="text/css" href="http://d1tdjf2i68kzlj.cloudfront.net/media/css/04fddf69e9dc83b0d24404c71402537e.css" media="screen">
-<link rel="stylesheet" type="text/css" href="http://d1tdjf2i68kzlj.cloudfront.net/media/css/e3dbd300ed9e83ebc102d03a71e37063.css" media="all">
+<link rel="stylesheet" type="text/css" href="http://d1tdjf2i68kzlj.cloudfront.net/media/css/f9ed01410237864496eee0defdeb3e15.css" media="all">
 <link rel="stylesheet" type="text/css" href="http://d1tdjf2i68kzlj.cloudfront.net/media/css/795efed8f194a3b44e26b6189868d2e6.css" media="print">
-<script src="https://dnn506yrbagrg.cloudfront.net/pages/scripts/0021/7641.js?439013" async="" type="text/javascript"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="http://d1tdjf2i68kzlj.cloudfront.net/media/js/554e49340ae94ad414575e42190b8b53.js"></script>
+<script src="https://dnn506yrbagrg.cloudfront.net/pages/scripts/0021/7641.js?439594" async="" type="text/javascript"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="http://d1tdjf2i68kzlj.cloudfront.net/media/js/554e49340ae94ad414575e42190b8b53.js"></script>
 <link rel="canonical" href="http://www.crumpler.com/au/help/privacy-policy/">
 <!--[if lt IE 8]>
 <link rel="stylesheet" type="text/css" href="http://d1tdjf2i68kzlj.cloudfront.net/media/css/343badc1d433d37dc281940179bb805d.css" media="all" />
@@ -303,6 +303,7 @@ biAjax.addView(new Balance.AjaxView('wishlist_sidebar1','type=enterprise_wishlis
         <div class="fieldset">
             <input type="hidden" name="success_url" value="">
             <input type="hidden" name="error_url" value="">
+            <input type="hidden" name="form_key" value="aT4RgorNsGZor5OH">
             <ul class="form-list">
                 <li class="fields register-mess">
                     <p class="login-mess"><span>Make the most of the Crumpler Online Store by creating an account. You will be able to:</span></p>
@@ -310,7 +311,8 @@ biAjax.addView(new Balance.AjaxView('wishlist_sidebar1','type=enterprise_wishlis
 <p>- Create a wishlist</p>
 <p>- Compare products</p>
 <p>- Check your orders and history</p>
-<p>- Receive exclusive newsletters and promotions</p>                </li>
+<p>- Receive exclusive newsletters and promotions</p>
+<p>- Exclusive access to the Crumpler VIP Store</p>                </li>
                 <li class="fields">
                 <div class="customer-name">
     <div class="field name-firstname">
@@ -399,9 +401,9 @@ biAjax.addView(new Balance.AjaxView('wishlist_sidebar1','type=enterprise_wishlis
 
 		            <div class="input-join">
 			            <div class="input-box ">
-				            <input type="checkbox" name="is_subscribed" title="Join mailing list" value="1" id="is_subscribed" class="checkbox">
+				            <input type="checkbox" name="is_subscribed" title="Join mailing list" value="1" id="is_subscribed" checked="checked" class="checkbox">
 			            </div>
-		                <label for="is_subscribed">Join mailing list</label>		            </div>
+		                <label>Join mailing list</label>		            </div>
 
 
 	            </li>
@@ -421,6 +423,28 @@ biAjax.addView(new Balance.AjaxView('wishlist_sidebar1','type=enterprise_wishlis
     <script type="text/javascript">
     //<![CDATA[
         var dataForm = new VarienForm('register-form-sidebar', true);
+
+        dataForm.submit = function(button, url) {
+            if (this.validator.validate()) {
+                ga('send', 'event', 'Register Form', 'submit');
+                var form = this.form;
+                var oldUrl = form.action;
+
+                if (url) {
+                    form.action = url;
+                }
+                var e = null;
+                try {
+                    this.form.submit();
+                } catch (e) {
+                }
+                this.form.action = oldUrl;
+                if (e) {
+                    throw e;
+                }
+            }
+        }.bind(dataForm);
+
         
         Form.getElements('register-form-sidebar').each(function(element) {
             element.setAttribute('autocomplete', 'off');
@@ -451,6 +475,7 @@ biAjax.addView(new Balance.AjaxView('wishlist_sidebar1','type=enterprise_wishlis
         //<![CDATA[
         jQuery(document).ready(function(jQuery){
             jQuery("#register-button").click(function(){
+
 				var input = jQuery("#is_subscribed");
 				updateCustomErrorClass(input);
 				
@@ -540,6 +565,7 @@ biAjax.addView(new Balance.AjaxView('wishlist_sidebar1','type=enterprise_wishlis
 <div class="dropdown_5column align_left "><div class="col_5"><div class="content_top"></div></div><div class="col_1"><div class="menu-left"><ul>
 <li><a title="Show Everything" href="/au/show-everything">Show Everything</a></li>
 <li><a title="New Arrivals" href="/au/new-arrivals">New Arrivals</a></li>
+<li><a title="Top Rated" href="/au/top-rated">Top Rated</a></li>
 <li><a title="Women" href="/au/women">Women</a></li>
 <li><a title="Kids" href="/au/kids">Kids</a></li>
 </ul></div></div><div class="col_1"><ul><li class="level1"><a href="http://www.crumpler.com/au/shop-by-category"><span class="level1">Shop by Category</span></a><ul><li class="level2"><a href="http://www.crumpler.com/au/camera-bags-straps"><span class="level2">Camera Bags &amp; Straps</span></a></li><li class="level2"><a href="http://www.crumpler.com/au/laptop-bags"><span class="level2">Laptop Bags</span></a></li><li class="level2"><a href="http://www.crumpler.com/au/ipad-tablet-bags"><span class="level2">iPad &amp; Tablet Bags</span></a></li><li class="level2"><a href="http://www.crumpler.com/au/luggage-travel-bags"><span class="level2">Luggage &amp; Travel Bags</span></a></li><li class="level2"><a href="http://www.crumpler.com/au/work-bags"><span class="level2">Work Bags</span></a></li><li class="level2"><a href="http://www.crumpler.com/au/casual-sports-bags"><span class="level2">Casual &amp; Sports Bags</span></a></li><li class="level2"><a href="http://www.crumpler.com/au/small-goods"><span class="level2">Small Goods</span></a></li></ul></li></ul></div><div class="col_1"><ul><li class="level1"><a href="http://www.crumpler.com/au/shop-by-style"><span class="level1">Shop by Style</span></a><ul><li class="level2"><a href="http://www.crumpler.com/au/shoulder-bags"><span class="level2">Shoulder Bags</span></a></li><li class="level2"><a href="http://www.crumpler.com/au/backpacks"><span class="level2">Backpacks</span></a></li><li class="level2"><a href="http://www.crumpler.com/au/handbags"><span class="level2">Handbags</span></a></li><li class="level2"><a href="http://www.crumpler.com/au/tote"><span class="level2">Tote Bags</span></a></li><li class="level2"><a href="http://www.crumpler.com/au/duffel"><span class="level2">Duffel Bags</span></a></li><li class="level2"><a href="http://www.crumpler.com/au/messenger"><span class="level2">Messenger Bags</span></a></li><li class="level2"><a href="http://www.crumpler.com/au/on-wheels"><span class="level2">On Wheels</span></a></li><li class="level2"><a href="http://www.crumpler.com/au/waist-pack"><span class="level2">Waist Pack</span></a></li><li class="level2"><a href="http://www.crumpler.com/au/briefcase"><span class="level2">Briefcase</span></a></li><li class="level2"><a href="http://www.crumpler.com/au/sleeve-pouches"><span class="level2">Sleeve &amp; Pouches</span></a></li><li class="level2"><a href="http://www.crumpler.com/au/wallet"><span class="level2">Wallet</span></a></li></ul></li></ul></div><div class="col_1"><ul><li class="level1"><a href="http://www.crumpler.com/au/shop-by-device"><span class="level1">Shop by Device</span></a><ul><li class="level2"><a href="http://www.crumpler.com/au/ipad"><span class="level2">iPad &amp; iPad Mini Bags</span></a></li><li class="level2"><a href="http://www.crumpler.com/au/tablet"><span class="level2">Tablet Bags</span></a></li><li class="level2"><a href="http://www.crumpler.com/au/11-inch-slimfit"><span class="level2">11" Slimfit Bags</span></a></li><li class="level2"><a href="http://www.crumpler.com/au/13-inch-slimfit"><span class="level2">13" Slimfit Bags</span></a></li><li class="level2"><a href="http://www.crumpler.com/au/13-inch-laptop"><span class="level2">13" Laptop Bags</span></a></li><li class="level2"><a href="http://www.crumpler.com/au/15-inch-laptop"><span class="level2">15" Laptop Bags</span></a></li><li class="level2"><a href="http://www.crumpler.com/au/17-inch-laptop"><span class="level2">17" Laptop Bags</span></a></li><li class="level2"><a href="http://www.crumpler.com/au/compact-camera"><span class="level2">Compact Camera Bags</span></a></li><li class="level2"><a href="http://www.crumpler.com/au/compact-dslr"><span class="level2">Compact DSLR Bags</span></a></li><li class="level2"><a href="http://www.crumpler.com/au/dslr"><span class="level2">DSLR Bags</span></a></li></ul></li></ul></div><div class="col_1"><ul><li class="level1"><a href="http://www.crumpler.com/au/shop-by-activity"><span class="level1">Shop by Activity</span></a><ul><li class="level2"><a href="http://www.crumpler.com/au/everyday"><span class="level2">Everyday Bags</span></a></li><li class="level2"><a href="http://www.crumpler.com/au/vacation"><span class="level2">Vacation Bags and Luggage</span></a></li><li class="level2"><a href="http://www.crumpler.com/au/commuting"><span class="level2">Commuting Bags</span></a></li><li class="level2"><a href="http://www.crumpler.com/au/gym"><span class="level2">Gym Bags</span></a></li><li class="level2"><a href="http://www.crumpler.com/au/work"><span class="level2">Work Bags</span></a></li><li class="level2"><a href="http://www.crumpler.com/au/uni"><span class="level2">Uni Bags</span></a></li><li class="level2"><a href="http://www.crumpler.com/au/school"><span class="level2">School Bags</span></a></li><li class="level2"><a href="http://www.crumpler.com/au/photography"><span class="level2">Photography Bags</span></a></li></ul></li></ul></div><div class="col_1"><ul><li class="level1"><a href="http://www.crumpler.com/au/customer-support"><span class="level1">Support</span></a></li></ul></div><div class="col_1"><div class="menu-right"><ul>
@@ -737,6 +763,27 @@ biAjax.addView(new Balance.AjaxView('global_messages','type=core%2Fmessages&temp
 <script type="text/javascript">
 //<![CDATA[
     var newsletterSubscriberFormDetail = new VarienForm('newsletter-validate-detail-footer');
+
+    newsletterSubscriberFormDetail.submit = function(button, url) {
+        if (this.validator.validate()) {
+            ga('send', 'event', 'Signup Form', 'submit');
+            var form = this.form;
+            var oldUrl = form.action;
+
+            if (url) {
+                form.action = url;
+            }
+            var e = null;
+            try {
+                this.form.submit();
+            } catch (e) {
+            }
+            this.form.action = oldUrl;
+            if (e) {
+                throw e;
+            }
+        }
+    }.bind(newsletterSubscriberFormDetail);
 //]]>
 </script>
             </div>
