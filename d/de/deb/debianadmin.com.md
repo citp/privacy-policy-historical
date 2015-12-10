@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the debianadmin.com privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611104606id_/http%3A//www.debianadmin.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the debianadmin.com privacy policy that was archived on 2015-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151210150218id_/http%3A//www.debianadmin.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy – Debian Admin
 
 The privacy of our visitors to debianadmin.com is important to us.
 
