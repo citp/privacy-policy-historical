@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pinkice.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629040139id_/http%3A//www.pinkice.com/CustomerService/Privacy%2520-%2520Security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pinkice.com privacy policy that was archived on 2015-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151210082250id_/http%3A//www.pinkice.com/CustomerService/Privacy%2520-%2520Security) for the most accurate reproduction.*
 
 # 
 
