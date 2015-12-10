@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fsf.org privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629103426id_/http%3A//my.fsf.org/donate/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fsf.org privacy policy that was archived on 2015-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151210051733id_/http%3A//my.fsf.org/donate/privacypolicy.html) for the most accurate reproduction.*
 
 # Free Software Foundation Privacy Policy — Free Software Foundation — working together for free software
 
