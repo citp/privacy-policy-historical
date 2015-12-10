@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the geekalerts.com privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612014903id_/http%3A//www.geekalerts.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geekalerts.com privacy policy that was archived on 2015-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151210224408id_/http%3A//www.geekalerts.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | GeekAlerts
+# Privacy Policy
 
 Your privacy is important to us here at GeekAlerts. Any information you provide will only be used in accordance with this privacy statement.
 
