@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ebrandon.ca privacy policy that was archived on 2015-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150613160719id_/http%3A//www.ebrandon.ca/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebrandon.ca privacy policy that was archived on 2015-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151210123605id_/http%3A//ebrandon.ca/privacy.aspx) for the most accurate reproduction.*
 
 # eBrandon.ca - Brandon, Manitoba's Online Community
 
@@ -6,7 +6,7 @@ Privacy Policy
 
 **Policy Overview**
 
-eBrandon.ca is privately owned and operated by Sobkow Technologies of Brandon, Manitoba without affiliation with or endorsement by the City of Brandon. We are very concerned about the protection of online privacy for all our website visitors. This policy is intended to provide an overview of our philosophy and procedures concerning this issue. This policy applies to the website www.ebrandon.ca. 
+eBrandon.ca is privately owned and operated by Sobkow Technologies Inc of Brandon, Manitoba. We are very concerned about the protection of online privacy for all our website visitors. This policy is intended to provide an overview of our philosophy and procedures concerning this issue. This policy applies to the website www.ebrandon.ca. 
 
 **Information we collect**
 
@@ -16,13 +16,13 @@ We use "cookie" technology (where our servers deposit special codes on a visitor
 
 Google, as a third party vendor, uses cookies to serve ads on this site. Google's use of the DART cookie enables it and its partners to serve ads to your users based on their visit to your sites and/or other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html). 
 
-If at any time you wish to have your member account removed, please visit the [contact us](https://web.archive.org/web/20150613160719id_/http%3A//www.ebrandon.ca/contact.aspx) page and explicitly request it. Please note that submitting this request means you are requesting that your account, along with all profile data, be removed. 
+We have integrated the Twitter widget of the company Twitter Inc. in the News section of this website. When you visit the news section you automatically load the Widget for display, and Twitter receives certain information such as your IP address, browser type, operating system, and the address of the website where the Widget is integrated, and places a cookie that recognizes your browser. In connection with the cookie, Twitter can theoretically recognize which pages you have visited across various websites, provided that the Widget has been implemented there. On Twitter’s own account, Twitter uses the data to tailor content for you based on your visits to third-party websites, and may give suggestions for people to follow on Twitter, if you have a Twitter account. 
+
+If at any time you wish to have your member account removed, please login to that account, click on the "Profile Settings" link in the left-hand column of your profile page and initiate remove from the link titled "Click for account removal form" under the subsequent settings tab. Should you have any difficulty with this process do not hesitate to send a request through the [contact us](https://web.archive.org/web/20151210123605id_/http%3A//ebrandon.ca/contact.aspx) page. 
 
 We track and store user IP addresses each time a forum message, photo, video, classified ad, classified ad web form submission or private message are posted/sent. Combined with information from your internet provider, this information may personally identify you. This information will **only** be used in the event of a dispute between yourself and eBrandon or another third party in which the law is perceived to have been violated. 
 
 Information (e-mail address) submitted as part of replies to classified ads is logged and is used only in the event of a legal dispute or in an emergency situation where those that have responded to an ad may need to be notified critical information relating to that ad. 
-
-In posting content such as photos or videos, you are consenting to eBrandon utilizing it for promotional purposes such as in the eBrandon Weekly weekly email. 
 
 Your e-mail address is stored in our database for each classified ad you submit. This address is only used as a means for eBrandon to relay responses to your ad from your potential buyer to yourself. That address is never directly given to another user. It is internally used to link all ads you've posted on the "View all ads from this seller" page. 
 
@@ -32,9 +32,9 @@ You always have the right to request that contact information regarding you or y
 
 We reserve the right to change this policy at any time by modifying this policy so all of our web customers are aware of our online privacy policy. Any questions or additional information can be obtained by contacting:
 
-Sobkow Technologies  
-5 - 37 11th st  
+Sobkow Technologies Inc  
+PO Box 20124 Brandon South PO  
 Brandon, MB  
-R7A 4J2  
+R7A 6Y8  
 Phone: (204) 728 2407  
 
