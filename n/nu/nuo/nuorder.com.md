@@ -1,54 +1,39 @@
-> *The following text is extracted and transformed from the nuorder.com privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611233357id_/http%3A//www.nuorder.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nuorder.com privacy policy that was archived on 2015-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151210024002id_/http%3A//www.nuorder.com/privacy-policy) for the most accurate reproduction.*
 
 # NuORDER | Privacy Policy
 
-PLEASE READ. YOUR USE OF THIS WEBSITE IS SUBJECT TO THE FOLLOWING PRIVACY POLICY AND THE WEBSITE [TERMS AND CONDITIONS](https://web.archive.org/web/20150611233357id_/http://www.nuorder.com/privacy-policy/terms.html).
+**YOUR PRIVACY RIGHTS** (V2.1 – Effective September 1, 2012)
+
+## PRIVACY POLICY
+
+PLEASE READ. YOUR USE OF THIS WEBSITE IS SUBJECT TO THE FOLLOWING PRIVACY POLICY AND THE WEBSITE [TERMS AND CONDITIONS](http://www.nuorder.com/termsandconditions/).
+
+**I. Notice  
+II. Personally Identifiable Information That We Collect  
+III. E-mail Newsletter Subscriptions  
+IV. User Accounts  
+V. Special Promotions and Purchases; Submission of Content to be Published  
+VI. Information Collected by Other Means or Media  
+VII. Information About Other People  
+VIII. Customer Service  
+IX. Non-Personally Identifiable Information That We Collect  
+X. Cookies and Related Technology  
+XI. Not Intended for Persons Under 18  
+XII. Use, Disclosure, and Sharing of Information  
+a. Non-Personally Identifiable Information  
+b. Personally Identifiable Information  
+c. Information Disclosed to other Users of this Website  
+XIII. Our Commitment to Data Security  
+XIV. Hyperlinks To and From Other Sites  
+XV. Consent to Processing in the United States  
+XVI. Contact Us Regarding Privacy  
+XVII. Notification of Changes**
 
 I. Notice
 
-II. Personally Identifiable Information That We Collect
+The “Website” refers to the websites at [www.nuorder.com](http://www.nuorder.com/), [www.nuorder.com](http://www.nuorder.com/), their subdomains, and related domains. This Website is owned or operated by State of Tomorrow, LLC and/or its subsidiary companies in the United States of America (collectively the “COMPANY”). This privacy policy (“Privacy Policy”) applies to information that you provide to COMPANY or is collected about you via this Website and/or by your use of services (collectively, the “Services”) that may be provided by this Website or by the Company via some other means, including as set forth below and as defined in the applicable [TERMS AND CONDITIONS](http://www.nuorder.com/termsandconditions/) (which may also be found under the link labeled “Terms” on the Website) or other terms.
 
-III. E-mail Newsletter Subscriptions
-
-IV. User Accounts
-
-V. Special Promotions and Purchases; Submission of Content to be Published
-
-VI. Information Collected by Other Means or Media
-
-VII. Information About Other People
-
-VIII. Customer Service
-
-IX. Non-Personally Identifiable Information That We Collect
-
-X. Cookies and Related Technology
-
-XI. Not Intended for Persons Under 18
-
-XII. Use, Disclosure, and Sharing of Information
-
-a. Non-Personally Identifiable Information
-
-b. Personally Identifiable Information
-
-c. Information Disclosed to other Users of this Website
-
-XIII. Our Commitment to Data Security
-
-XIV. Hyperlinks To and From Other Sites
-
-XV. Consent to Processing in the United States
-
-XVI. Contact Us Regarding Privacy
-
-XVII. Notification of Changes
-
-I. Notice
-
-The “Website” refers to the websites at [www.nuorder.com](https://web.archive.org/web/20150611233357id_/http://www.nuorder.com/privacy-policy/index.html), [www.nuorder.com](https://web.archive.org/web/20150611233357id_/http://www.nuorder.com/privacy-policy/index.html), their subdomains, and related domains. This Website is owned or operated by State of Tomorrow, LLC and/or its subsidiary companies in the United States of America (collectively the “COMPANY”). This privacy policy (“Privacy Policy”) applies to information that you provide to COMPANY or is collected about you via this Website and/or by your use of services (collectively, the “Services”) that may be provided by this Website or by the Company via some other means, including as set forth below and as defined in the applicable [TERMS AND CONDITIONS](https://web.archive.org/termsandconditions/) (which may also be found under the link labeled “Terms” on the Website) or other terms.
-
-This Privacy Policy is intended to provide you notice of COMPANY’s information management practices, including the types of information gathered, how it is used and safeguarded, and the degree to which you may control the maintenance and sharing of your information. Your use of any COMPANY Service or Website constitutes acceptance of and agreed to this Privacy Policy and any other applicable terms. This Privacy Policy is part of and incorporated by reference into the [TERMS AND CONDITIONS](https://web.archive.org/web/20150611233357id_/http://www.nuorder.com/privacy-policy/terms.html) for this Website. Certain terms used herein are defined in the Terms and Conditions.
+This Privacy Policy is intended to provide you notice of COMPANY’s information management practices, including the types of information gathered, how it is used and safeguarded, and the degree to which you may control the maintenance and sharing of your information. Your use of any COMPANY Service or Website constitutes acceptance of and agreed to this Privacy Policy and any other applicable terms. This Privacy Policy is part of and incorporated by reference into the[ TERMS AND CONDITIONS](https://web.archive.org/web/20151210024002id_/http://www.nuorder.com/privacy-policy/terms.html) for this Website. Certain terms used herein are defined in the Terms and Conditions.
 
 II. Personally Identifiable Information That We Collect.
 
@@ -62,11 +47,11 @@ When you create a User Account or accept one, you are agreeing to be subscribed 
 
 IV. User Accounts.
 
-In order to use our Services, you will need to register and create, or otherwise accept, a user account (“User Account”). Note that when you log into a User Account, you are agreeing to be bound by this Privacy Policy and the [TERMS AND CONDITIONS](https://web.archive.org/termsandconditions/), and are also “accepting” your User Account. There may or may not be a cost to create a User Account. You may be asked to choose a user name, screen name, or member name (each, a “User Name”) and password. You may also be asked to provide certain personally identifiable information and other information about yourself, such as your first and last name, company name, billing and shipping address, telephone number, and e-mail address. The Website allows you to update certain information when you are logging in.
+In order to use our Services, you will need to register and create, or otherwise accept, a user account (“User Account”). Note that when you log into a User Account, you are agreeing to be bound by this Privacy Policy and the [TERMS AND CONDITIONS](http://www.nuorder.com/termsandconditions/), and are also “accepting” your User Account. There may or may not be a cost to create a User Account. You may be asked to choose a user name, screen name, or member name (each, a “User Name”) and password. You may also be asked to provide certain personally identifiable information and other information about yourself, such as your first and last name, company name, billing and shipping address, telephone number, and e-mail address. The Website allows you to update certain information when you are logging in.
 
 This Privacy Policy does not apply to any information you may disclose publicly in such Services. In some instances, you may choose to create a “Public Profile” that will be available to others on the Internet. Public Profiles are managed entirely by you, and you are solely responsible for your Public Profile’s content and its “public” or “private” status. The Company bears no responsibility for any action or policies of any third parties who collect any information that users may disclose in user forums or other public areas of this Website. You are also responsible for maintaining and updating the registration information in your User Account with current and complete information.
 
-If you are holder of a Buyer Account, Brand Account, or other User Account and wish to deactivate or terminate it, please see how to do so in the [TERMS AND CONDITIONS](https://web.archive.org/termsandconditions/ "nuorderlovesdogs"). If your Buyer Account has been incorrectly affiliated with other Buyer Accounts, contact the Brand User who created such affiliation to correct such incorrect affiliation.
+If you are holder of a Buyer Account, Brand Account, or other User Account and wish to deactivate or terminate it, please see how to do so in the[TERMS AND CONDITIONS](https://web.archive.org/termsandconditions/ "nuorderlovesdogs"). If your Buyer Account has been incorrectly affiliated with other Buyer Accounts, contact the Brand User who created such affiliation to correct such incorrect affiliation.
 
 You can unsubscribe from receiving marketing e-mails from the Website by clicking the link contained within such e-mails sent to you. You cannot unsubscribe from receiving correspondence regarding non-marketing e-mails, including but not limited to correspondence with parties involved in a transaction with you, or emails with the COMPANY regarding your User Account and activities on or through the Website.
 
@@ -76,7 +61,7 @@ V. Special Promotions and Purchases; Submission of Content to be Published.
 
 To participate in some Services such as sweepstakes, contests and surveys (“Special Promotions”), or to make online purchases or subscriptions (such purchases or subscriptions herein referred to as “Purchases”), you may need to provide personally identifiable information, such as name, address, e-mail address, phone number, and date of birth. Your information may be collected by COMPANY or by a third party, such as a co-sponsor or a vendor involved in, or providing services in connection with, a Special Promotion, or an e-commerce partner in the case of a Purchase.
 
-If you make a Purchase or enter a sweepstakes or other Special Promotion on one of our sites or through our Services, the COMPANY will collect your personally identifiable information, and you are deemed to consent to us providing your information to third parties who provide certain services such as processing of credit card transactions, customer service, promotion or sweepstakes administration, order fulfillment and/or prize delivery, as applicable. (As more fully described below in Section XII ,these third parties are ly prohibited from using this information for their own marketing purposes and/or from sharing, selling, or otherwise distributing any personal data of our customers, unless you choose to opt in for such additional uses and/or disclosure by the third parties, under their respective privacy policies.). Also, by entering a sweepstakes or other Special Promotion, you are agreeing to the official rules that govern that sweepstakes or other Special Promotion, which may contain specific provisions applicable to you, including, except where prohibited by law, allowing the sponsor(s) of the promotion to use your name, voice or likeness in advertising or marketing associated with the promotion.
+If you make a Purchase or enter a sweepstakes or other Special Promotion on one of our sites or through our Services, the COMPANY will collect your personally identifiable information, and you are deemed to consent to us providing your information to third parties who provide certain services such as processing of credit card transactions, customer service, promotion or sweepstakes administration, order fulfillment and/or prize delivery, as applicable. (As more fully described below in Section XII , these third parties are ly prohibited from using this information for their own marketing purposes and/or from sharing, selling, or otherwise distributing any personal data of our customers, unless you choose to opt in for such additional uses and/or disclosure by the third parties, under their respective privacy policies.). Also, by entering a sweepstakes or other Special Promotion, you are agreeing to the official rules that govern that sweepstakes or other Special Promotion, which may contain specific provisions applicable to you, including, except where prohibited by law, allowing the sponsor(s) of the promotion to use your name, voice or likeness in advertising or marketing associated with the promotion.
 
 If you make a purchase or enter a promotion (such as a sweepstakes) in which the COMPANY is participating on a third party’s website (or through some other means or medium), we will collect your information from the third party only if you opt-in to receive additional communications from us, or we are required to fulfill some function in relation to your activity (e.g., to send your order or deliver a prize).
 
@@ -114,7 +99,7 @@ XI. Not Intended for Persons Under 18.
 
 COMPANY recognizes the sensitivity of personally identifiable information concerning children and minors. COMPANY is committed to complying with all applicable laws and regulations regarding children, including the Children’s Online Privacy Protection Act (“COPPA”). This site is only intended for persons 18 and over. If you are under 18 years of age, immediately discontinue use of this site and leave this Website. The COMPANY will not knowingly collect, maintain, or disclose any personally identifiable information from a person under 18.
 
-If you are a parent or guardian who has discovered that your child under the age of 18 has submitted his or her personally identifiable information without your permission or consent, COMPANY will make reasonable efforts to remove the information from its active list, at your request. To request the removal of your child’s information, please send an e-mail to heroes@nuorder.com and be sure to include in your message the same User Name and password and/or e-mail address that your child submitted.
+If you are a parent or guardian who has discovered that your child under the age of 18 has submitted his or her personally identifiable information without your permission or consent, COMPANY will make reasonable efforts to remove the information from its active list, at your request. To request the removal of your child’s information, please send an e-mail to heroes@nuorder.com and be sure to include in your message the same User Name and password and/or e-mail address that your child submitted.
 
 XII. Use, Disclosure, and Sharing of Information.
 
@@ -130,7 +115,7 @@ COMPANY uses information about you to deliver the Services that you request, to 
 
 When you create a User Account or accept one, you are opting in to receive e-mail from us. You can always opt out of future marketing messages by following the directions in each message to “unsubscribe”. However, if you choose to opt out of marketing messages, we reserve the right to contact you regarding your account status, technical support, product information, changes to account terms, and any other matter that might affect our service to you and/or any products you purchased from us or registered with us, as applicable.
 
-As stated in the [TERMS AND CONDITIONS](https://web.archive.org/termsandconditions/), you will be deemed to have consented to the disclosure to, and use by, a subsequent owner or operator of a COMPANY Website or Service, of any information about you contained in the applicable COMPANY database, if COMPANY or one of its companies assigns its rights and obligations regarding any of your information at the time of a merger, acquisition, or sale of all or substantially all of COMPANY’s or such COMPANY company’s assets related to the applicable site or Service to a subsequent owner or operator. In the event of such a merger, acquisition, or sale, your continued use of the Website or any related Service signifies your agreement to be bound by the [TERMS AND CONDITIONS](https://web.archive.org/termsandconditions/) the Website’s or Service’s subsequent owner or operator.
+As stated in the [TERMS AND CONDITIONS](http://www.nuorder.com/termsandconditions/), you will be deemed to have consented to the disclosure to, and use by, a subsequent owner or operator of a COMPANY Website or Service, of any information about you contained in the applicable COMPANY database, if COMPANY or one of its companies assigns its rights and obligations regarding any of your information at the time of a merger, acquisition, or sale of all or substantially all of COMPANY’s or such COMPANY company’s assets related to the applicable site or Service to a subsequent owner or operator. In the event of such a merger, acquisition, or sale, your continued use of the Website or any related Service signifies your agreement to be bound by the [TERMS AND CONDITIONS](http://www.nuorder.com/termsandconditions/) the Website’s or Service’s subsequent owner or operator.
 
 The COMPANY and other entities may work together in order to provide portions of the COMPANY Websites and some Services (e.g., to fulfill prizes won in a sweepstakes, or to provide other support for a Service). These companies will handle your personally identifiable information in accordance with this Privacy Policy.
 
@@ -138,7 +123,7 @@ As stated above in Section V, COMPANY may also work with third parties to provid
 
 Please note that whenever you opt in to receive future communications from a third party, your information will be subject to the third party’s privacy policy. If you later decide that you do not want that third party to use your information, you will need to contact the third party directly, as we have no control over how third parties use information. You should always review the privacy policy of any party that collects your information to determine how that entity will handle your information.
 
-COMPANY will not share, sell, rent, or disclose any personally identifiable information that we have collected except as stated herein, or in the following instances: 1) we have been given your consent to disclose; 2) we have previously informed you of the disclosure, including by means of our Privacy Policy or on the Website, or through the Service where you provided your information; 3) we are required by law, legal process, or court order to disclose; 4) disclosure is necessary to identify, contact, or bring legal action against someone who may cause or be causing harm to, or interference with, COMPANY’s rights or property, other COMPANY Website users, or anyone else; or 5) to respond to an inquiry, request or complaint that you have made. COMPANY may also use IP addresses in cooperation with Internet service providers to identify users if we deem it necessary to comply with law, to enforce compliance with this Privacy Policy or our [TERMS AND CONDITIONS](https://web.archive.org/termsandconditions/), or to protect our sites, customers, or others.
+COMPANY will not share, sell, rent, or disclose any personally identifiable information that we have collected except as stated herein, or in the following instances: 1) we have been given your consent to disclose; 2) we have previously informed you of the disclosure, including by means of our Privacy Policy or on the Website, or through the Service where you provided your information; 3) we are required by law, legal process, or court order to disclose; 4) disclosure is necessary to identify, contact, or bring legal action against someone who may cause or be causing harm to, or interference with, COMPANY’s rights or property, other COMPANY Website users, or anyone else; or 5) to respond to an inquiry, request or complaint that you have made. COMPANY may also use IP addresses in cooperation with Internet service providers to identify users if we deem it necessary to comply with law, to enforce compliance with this Privacy Policy or our [ TERMS AND CONDITIONS](http://www.nuorder.com/termsandconditions/), or to protect our sites, customers, or others.
 
 c. Information Disclosed to other Users of this Website.
 
@@ -174,8 +159,8 @@ COMPANY is dedicated to protecting your personally identifiable information and 
 
 [Privacy@nuorder.com](mailto:Privacy@nuorder.com)
 
-Please note that information submitted to the Website via a “contact us,” “help” or other similar e-mail address or form will not necessarily receive a response. We will not use the information provided to these e-mail addresses or forms for marketing purposes unrelated to your request.
+Please note that information submitted to the Website via a “contact us, ” “help” or other similar e-mail address or form will not necessarily receive a response. We will not use the information provided to these e-mail addresses or forms for marketing purposes unrelated to your request.
 
 XVII. Notification of Changes.
 
-COMPANY reserves the right to change this Privacy Policy and its [TERMS AND CONDITIONS](https://web.archive.org/termsandconditions/) at any time. In case of any material change to the Privacy Policy, we will replace the “Privacy Policy” link on the home page of our sites with a link entitled “Updated Privacy Policy” for no less than 30 days. All changes to the Privacy Policy will be effective when posted, and your continued use of any COMPANY Website or Service after the posting will constitute acceptance of, and agreement to be bound by, those changes. 
+COMPANY reserves the right to change this Privacy Policy and its [TERMS AND CONDITIONS](http://www.nuorder.com/termsandconditions/) at any time. In case of any material change to the Privacy Policy, we will replace the “Privacy Policy” link on the home page of our sites with a link entitled “Updated Privacy Policy” for no less than 30 days. All changes to the Privacy Policy will be effective when posted, and your continued use of any COMPANY Website or Service after the posting will constitute acceptance of, and agreement to be bound by, those changes.
