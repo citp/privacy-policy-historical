@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the magix.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607174641id_/http%3A//www.magix.com/int/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the magix.com privacy policy that was archived on 2015-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151210044840id_/http%3A//www.magix.com/int/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -76,4 +76,4 @@ In accordance with the federal data protection act you have the right to free in
 
 ### Application register
 
-Our application register according to section 4 paragraph 2 of the federal data protection act can be found [here](https://web.archive.org/fileadmin/user_upload/Misc/PDF/en/magix_application-register-of-BDSG-en.pdf).
+Our application register according to section 4 paragraph 2 of the federal data protection act can be [found here](https://web.archive.org/fileadmin/user_upload/Misc/PDF/en/magix_Application_register.pdf).
