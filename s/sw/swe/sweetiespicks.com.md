@@ -1,16 +1,53 @@
-> *The following text is extracted and transformed from the sweetiespicks.com privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612130434id_/http%3A//www.sweetiespicks.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sweetiespicks.com privacy policy that was archived on 2015-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151210123934id_/http%3A//sweetiespicks.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Sweeties Picks
+# Privacy Policy and Ad Policies - Sweeties Picks Giveaways
 
 **Privacy Policy**   **and Disclosure Statements**
 
-_These policies are valid from April 4, 2013._
+_These policies are valid from July 13, 2015._
 
-Sweeties Picks is a blog written and edited by Wendy Limauge, Greg Limauge and guest writers. We may receive products directly from brands, manufacturers, public relations companies, and brand marketing firms. In addition we have be invited to fairs, shows, and other events. Complimentary services, gratis products, tickets and press samples never compromise our coverage of the product or event. We will always cover whatever we receive fairly and honestly..
+Sweeties Picks is a blog written and edited by Wendy Limauge and guest writers. We may receive products directly from brands, manufacturers, public relations companies, and brand marketing firms. In addition we have be invited to fairs, shows, and other events. Complimentary services, gratis products, tickets and press samples never compromise our coverage of the product or event. We will always cover whatever we receive fairly and honestly.
 
-Sweeties Picks will not be paid for a review but may receive complimentary books, music, apps, products, services, tickets, and travel in exchange for our opinion. Any advice on this site is the opinion of Sweeties Picks, and any/all contributing editors for this site. We are in no way responsible for the effects of our advice and always suggest that our readers decide for themselves.
+Sweeties Picks will not be paid for a reviews but may receive complimentary books, music, apps, products, services, tickets, and travel in exchange for our opinion. Any advice on this site is the opinion of Sweeties Picks, and any/all contributing editors for this site. We are in no way responsible for the effects of our advice and always suggest that our readers decide for themselves.
 
 If there are any images listed on this site you would like removed, please email us and they will be removed promptly.
+
+**Amazon Affiliate**
+
+Sweeties Picks/Wendy Limauge is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to amazon.com.
+
+**Advertorial and Sponsored Post Policies  
+**
+
+Sweeties Picks may occasionally feature compensated advertorial or sponsored posts. We charge an optional listing fee to post some blog giveaways and sweepstakes to those who wish to pay that fee. We also charge fees for Featured sweepstakes and some email newsletters.
+
+**Affiliate Links and Advertising Policies  
+**
+
+Sweeties Picks makes use of affiliate links that may appear in some posts. As an affiliate with some sweepstakes companies, using their links helps us earn income when you enter the sweepstakes. We only post legitimate sweepstakes and work with only legitimate affiliate companies. By clicking on the links you help Sweeties Picks make money to keep this site running. Sweeties Picks also runs advertisements using ad networks. If you ever find an offensive ad please email us at sweetiessweeps@gmail.com so we can track it down and remove it.
+
+**Amazon Affiliate Links**
+
+Sweeties Picks uses Amazon affiliate links in some of the sweepstakes posts. If you click that link and go to Amazon to look at a product and make a purchase of that product or other products up until 30 days, we may make a commission on that sale (unless you visited Amazon from another site already). Amazon will place a cookie (a small text file) on your computer when you click the link from Sweeties Picks. This tells Amazon that you came from our site and to give us credit for the sale. We use Amazon affiliate links to help generate income for SweetiesPicks.com.
+
+**Referral, Affiliate and Tracking Links Policies**
+
+Sweeties Picks never uses our own referral links in our posts, on Twitter, on Facebook, or Google Plus to compete in sweepstakes with our visitors and readers. We do not allow our readers to submit giveaways, contests or sweepstakes and use their own referral links to get extra entries but we do allow referral links to be placed in the comments section of posts on this site. We do use affiliate links and tracking links in some of our posts and ads. Affiliate links help us generate income to keep Sweeties Picks running. Tracking links may be provided by companies who run sweepstakes to let them know how many people are entering their sweepstakes that they find on Sweeties Picks.
+
+You can read about our Ad and Affiliate Policies [here](http://sweetiessweeps.com/about/product-review-and-ad-policies "here")
+
+**Public Relations and Product Review Policies  
+**
+
+Sweeties Picks may accept products for review from brands and public relations representatives. We may run giveaways in conjunction with the product review. All giveaway prizes will be either supplied by the brand or Sweeties Picks and will be indicated in the giveaway.
+
+Unless compensated as a disclosed sponsored or advertorial post, we exercise full independence over product reviews. Receipt of a product, whether solicited or unsolicited, does not constitute a contract for a published review of the product or for the substance of any content produced that discusses the product.
+
+We accept only products of interest in hopes of lessening negative reviews and accepting a product to review does not guarantee a favorable review, or any review at all. Reviews are done based on honest assessments of the products and content will not be provided to for pre-approval by PR representatives or brands, nor will reviews be edited after the fact based on requests to do so. Products that wish to impose such limitations will not be accepted for review but may be eligible for inclusion as a sponsored post with compensation. Editorial timeline is currently 2-4 weeks from receipt of a product. All items received from brands and PR representatives are disclosed as such per the FTC guides within the review post.
+
+**Receipt of Product Not Contractual or Compensatory**
+
+All products received are deemed to be gifts/commercial samples that do not form a contract for review and are not deemed to be compensation for any content that is written.
 
 **Commitment to Online Security**
 
@@ -32,7 +69,7 @@ In general, you are responsible for the information you submit in the form of a 
 All photos, written correspondence and any other materials submitted to Sweeties Picks become the sole and exclusive property of Sweeties Picks and cannot be returned at any time. By submitting Materials, you agree that Sweeties Picks may, but is not obligated to, use the Materials in connection with the site, in any way, in any medium, worldwide, in perpetuity. Further, you warrant all Materials are 100% original and do not violate the right of privacy or publicity of, or constitute a defamation against, any person or entity; that the Materials will not infringe upon or violate the copyright or common law rights or any other rights of any person or entity; that there are and will be no encumbrances, liens, conditions or restrictions whatsoever upon or affecting such Materials; and that you and the person depicted in the Materials are at least 18 years of age or you are a parent or guardian granting permission for use. You agree to indemnify Sweeties Picks for all damages and expenses (including reasonable attorney’s fees) arising out of any breach or failure of the warranties made herein.
 
 **Help Us Keep Your Personal Information Accurate**  
-If your personal information changes please submit the changes to Sweeties Picks by email at sweetiespicks@gmail.com. Please be sure to note that you are “updating” your information.
+If your personal information changes please submit the changes to Sweeties Picks by email at sweetiessweeps@gmail.com. Please be sure to note that you are “updating” your information.
 
 **Computer Tracking and Cookies**  
 Our site is not set up to track, collect or distribute personal information not entered by visitors. Our site logs do generate certain kinds of non-identifying site usage data, such as the number of hits and visits to our sites. This information is used for internal purposes by technical support staff to provide better services to the public but again, the statistics contain no personal information and cannot be used to gather such information. Our website also recognizes the online site where a visitor clicked one of our banners or buttons to follow through and visit our site, but we cannot identify the visitor or the visitor’s address. Site information is used to confirm promotion of Sweeties Picks giveaways, newsletter, or other projects, and may be used to advise participants of the numbers of visitors who come to our site from their sites.
@@ -70,4 +107,4 @@ This disclosure is made in accordance with the Federal Trade Commission’s 16 C
 **Changes to this Privacy Statement**  
 The contents of this statement may be altered at any time, at our discretion.
 
-If you have any questions regarding the privacy policy of Sweeties Picks then you may contact us at sweetiespicks@gmail.com
+If you have any questions regarding the privacy policy of Sweeties Picks then contact us at sweetiessweeps@gmail.com
