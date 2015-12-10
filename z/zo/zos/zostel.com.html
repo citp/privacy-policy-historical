@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the zostel.com privacy policy that was archived on 2015-06-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150607040817id_/http%3A//www.zostel.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the zostel.com privacy policy that was archived on 2015-12-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151210035303id_/http%3A//www.zostel.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
       
@@ -65,10 +65,25 @@ pre{
             font-size:1.5em ;
         }
 
+        .nav li li:hover ul{
+            position: absolute;
+            left: 99%;
+            display: block;
+            top:0%;
+        }
+        .nav a:hover{
+            background-color: inherit!important;
+        }
+
+        @media screen and (max-width: 992px) {
+           .headliner{
+                background-position:0px 0px !important;
+            }
+        }
     </style>
     <link href="/static/datepicker/css/datepicker.css" rel="stylesheet">
     <!--link href="/static/less/style.less" rel="stylesheet"-->
-    <link href="/static/css/zostel.css" rel="stylesheet">
+    <link href="/static/css/zostel.css?v=1.7" rel="stylesheet">
       <!--Design css -->
     <!-- Just for debugging purposes. Don't actually copy this line! -->
     <!--[if lt IE 9]><script src="/static/assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
@@ -162,19 +177,28 @@ window.onload = function(){
                 <li><a href="/about/">ABOUT US</a></li>
                 <li><a href="/book/">BOOK NOW</a></li>
 
-                <li><a onclick="$(this).parent().toggleClass('dummys');$(this).children('span').toggleClass('icon-bar-blue')" href="#" class="dropdown">HOSTELS <b class="caret"></b></a>
+                <li><a onclick="$(this).parent().toggleClass('dummys');$(this).children('span').toggleClass('icon-bar-blue')" href="#" class="dropdown">INDIA <b class="caret"></b></a>
                     <ul style="padding-left:20px">
+                        <li><a href="/zostel/Khajuraho/">Khajuraho</a></li>
+                        <li><a href="/zostel/Mysore/">Mysore</a></li>
+                        <li><a href="/zostel/Rishikesh/">Rishikesh</a></li>
+                        <li><a href="/zostel/Pushkar/">Pushkar</a></li>
+                        <li><a href="/zostel/Jaisalmer/">Jaisalmer</a></li>
                         <li><a href="/zostel/Jaipur/">Jaipur</a></li>
                         <li><a href="/zostel/Jodhpur/">Jodhpur</a></li>
-                        <li><a href="/zostel/Udaipur/">Udaipur</a></li>
                         <li><a href="/zostel/Agra/">Agra</a></li>
                         <li><a href="/zostel/Varanasi/">Varanasi</a></li>
                         <li><a href="/zostel/Delhi/">Delhi</a></li>
-                        <li><a href="/zostel/Vadodara/">Vadodara</a></li>
                      </ul>
                 </li>
+                <li><a onclick="$(this).parent().toggleClass('dummys');$(this).children('span').toggleClass('icon-bar-blue')" href="#" class="dropdown">VIETNAM <b class="caret"></b></a>
+                    <ul style="padding-left:20px">
+                        <li><a href="/zostel/Dalat/">Da Lat</a></li>
+                        <li><a href="/zostel/Hanoi/">Hanoi</a></li>
+                    </ul>
+                </li>
                 <li><a href="/contact/">CONTACT US</a></li>
-                <li><a href="/beyou/">BE YOU</a></li>
+                <li class="text"><a href="/logouts/"><small><span class="glyphicon glyphicon-fire" aria-hidden="true"></span></small> Logouts</a></li>
             </ul>
         </li>
     </ul>
@@ -195,20 +219,35 @@ window.onload = function(){
                         <li class="blue-div"></li>
                         <li class="text"><a class="dropdown" href="#">HOSTELS</a>
                             <ul>
-                                <li><a href="/zostel/Jaipur/">Jaipur</a></li>
-                                <li><a href="/zostel/Jodhpur/">Jodhpur</a></li>
-                                <li><a href="/zostel/Udaipur/">Udaipur</a></li>
-                                <li><a href="/zostel/Agra/">Agra</a></li>
-                                <li><a href="/zostel/Varanasi/">Varanasi</a></li>
-                                <li><a href="/zostel/Delhi/">Delhi</a></li>
-                                <li><a href="/zostel/Goa/">Goa</a></li>
-                                <li><a href="/zostel/Vadodara/">Vadodara</a></li>
+                                <li class="dropdown-submenu">
+                                    <a tabindex="-1" href="#">Vietnam</a>
+                                    <ul class="dropdown-menu">
+                                        <li><a href="/zostel/Dalat/">Da Lat</a></li>
+                                        <li><a href="/zostel/Hanoi/">Hanoi</a></li>
+                                    </ul>
+                                </li>
+                                <li class="dropdown-submenu">
+                                    <a tabindex="-1" href="#">India</a>
+                                    <ul class="dropdown-menu">
+                                        <li><a href="/zostel/Khajuraho/">Khajuraho</a></li>
+                                        <li><a href="/zostel/Mysore/">Mysore</a></li>
+                                        <li><a href="/zostel/Rishikesh/">Rishikesh</a></li>
+                                        <li><a href="/zostel/Pushkar/">Pushkar</a></li>
+                                        <li><a href="/zostel/Jaisalmer/">Jaisalmer</a></li>
+                                        <li><a href="/zostel/Jaipur/">Jaipur</a></li>
+                                        <li><a href="/zostel/Jodhpur/">Jodhpur</a></li>
+                                        <li><a href="/zostel/Agra/">Agra</a></li>
+                                        <li><a href="/zostel/Varanasi/">Varanasi</a></li>
+                                        <li><a href="/zostel/Delhi/">Delhi</a></li>
+                                        <li><a href="/zostel/Goa/">Goa</a></li>
+                                    </ul>
+                                </li>
                             </ul>
                         </li>
                         <li class="green-div"></li>
                         <li class="text"><a href="/contact/">Contact Us</a></li>
                         <li class="blue-div"></li>
-                        <li class="text"><a href="/beyou">BE YOU</a></li>
+                        <li class="text"><a href="/logouts/"><small><span class="glyphicon glyphicon-fire" aria-hidden="true"></span></small> Logouts</a></li>
                     </ul>
 
                 </div>
@@ -350,15 +389,16 @@ We may change our Privacy Policy at any time. Continued use of our website signi
                 <div class="col-xs-6 col-sm-3 col-md-2 ">
                     <a href="/zostel/Jodhpur/">Zostel Jodhpur</a>
                     <a href="/zostel/Jaipur/">Zostel Jaipur</a>
-                    <a href="/zostel/Udaipur/">Zostel Udaipur</a>
+                    <a href="/zostel/Mysore/">Zostel Mysore</a>
                     <a href="/zostel/Agra/">Zostel Agra</a>
-
+                    <a href="/zostel/Delhi/">Zostel Delhi</a>
                 </div>
-                <div class="col-xs-6 col-sm-3 col-md-2 ">
-
+                <div class="col-xs-6 col-sm-3 col-md-2">
                     <a href="/zostel/Delhi/">Zostel Delhi</a>
                     <a href="/zostel/Goa/">Zostel Goa</a>
                     <a href="/zostel/Varanasi/">Zostel Varanasi</a>
+                    <a href="/zostel/Rishikesh/">Zostel Rishikesh</a>
+                    <a href="/zostel/Hanoi/">Zostel Hanoi</a>
                 </div>
             </div>
             <p>© 2014 ZOSTEL ALL RIGHTS RESERVED</p>
