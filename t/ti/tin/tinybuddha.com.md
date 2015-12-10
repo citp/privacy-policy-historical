@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tinybuddha.com privacy policy that was archived on 2015-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150423202043id_/http%3A//tinybuddha.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tinybuddha.com privacy policy that was archived on 2015-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151210060739id_/http%3A//tinybuddha.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Tiny Buddha
 
@@ -75,8 +75,7 @@ This policy was last modified on 10/22/13
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
-http://tinybuddha.com
-
+http://tinybuddha.com  
 email(AT)tinybuddha(DOT)com
 
 This policy is powered by Trust Guard [PCI compliance](http://www.trust-guard.com/PCI-Compliance-s/65.htm).
