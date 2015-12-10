@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the kellycodetectors.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610030944id_/http%3A//www.kellycodetectors.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kellycodetectors.com privacy policy that was archived on 2015-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151210124710id_/http%3A//www.kellycodetectors.com/catalog/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Kellyco Metal Detector Superstore
-
-### Privacy Policy & Legal Notice:
+# Privacy Statement
 
 **What information do we collect?**
 
@@ -13,7 +11,7 @@
 
 
 **How do we use your information?**  
-We may use the information we collect from you when you register, purchase products, enter a contest or promotion, respond to a survey or marketing communication, surf the website, or use certain other site features in the following ways: 
+We may use the information we collect from you when you register, purchase products, enter a contest or promotion, respond to a survey or marketing communication, surf the website, or use certain other site features in the following ways:
 
   * To personalize your site experience and to allow us to deliver the type of content and product offerings in which you are most interested.
   * To allow us to better service you in responding to your customer service requests.
@@ -46,7 +44,7 @@ If we decide to change our privacy policy, we will post those changes on this pa
 **Questions and feedback**  
 We welcome your questions, comments, and concerns about privacy. Please send us any and all feedback pertaining to privacy, or any other issue.
 
-**All words and photographs are © 1998 - 2013 Kellyco Metal Detector Distributors unless otherwise noted.** All rights reserved. Any use or retransmission of text or images on this website without written consent of the copyright owner constitutes copyright infringement and is prohibited. Published SAVE, SAVE UP TO and SAVING Percentages are based on Manufactures MSRP Manufacturers Suggested Retail Price) list price or (compared to price) or/and total combined savings of metal detector and its bundled accessories. Kellyco is not responsible for typographical errors, mistakes or manufacturers inability to ship a product. 
+**All words and photographs are © 1998 - 2013 Kellyco Metal Detector Distributors unless otherwise noted.** All rights reserved. Any use or retransmission of text or images on this website without written consent of the copyright owner constitutes copyright infringement and is prohibited. Published SAVE, SAVE UP TO and SAVING Percentages are based on Manufactures MSRP Manufacturers Suggested Retail Price) list price or (compared to price) or/and total combined savings of metal detector and its bundled accessories. Kellyco is not responsible for typographical errors, mistakes or manufacturers inability to ship a product.
 
 **Your consent**  
 By using our site, you consent to our Privacy Policy and Legal Notices.
