@@ -1,8 +1,7 @@
-> *The following text is extracted and transformed from the loadxtreme.ph privacy policy that was archived on 2015-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150414051627id_/http%3A//www.loadxtreme.ph/new/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loadxtreme.ph privacy policy that was archived on 2015-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151210211959id_/http%3A//loadxtreme.ph/2016/legal/privacy.html) for the most accurate reproduction.*
 
-# LoadXtreme - Privacy Policy
+# LoadXtreme-Privacy Policy
 
-V1.0 Privacy Policy  
 **What information do we collect?**
 
 We collect information from you when you register on our site, place an order or fill out a form. 
@@ -25,13 +24,6 @@ Any of the information we collect from you may be used in one of the following w
 (your information helps us to more effectively respond to your customer service requests and support needs)
 
 • To process transactions
-
-> Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
-
-• To send periodic emails  
-
-
-> The email address you provide for order processing, will only be used to send you information and updates pertaining to your order.
 
 **How do we protect your information?**
 
@@ -73,7 +65,7 @@ Please also visit our Terms and Conditions section establishing the use, disclai
 
 **Your Consent**
 
-By using our site, you consent to our online privacy policy.
+By using our site, you consent to our [online privacy policy](http://www.freeprivacypolicy.com/).
 
 **Changes to our Privacy Policy**
 
@@ -81,16 +73,10 @@ If we decide to change our privacy policy, we will post those changes on this pa
 
 **Contacting Us**
 
-If there are any questions regarding this privacy policy you may contact us using the information below. 
+If there are any questions regarding this privacy policy, you may contact us using the information below. 
 
 http://www.loadxtreme.ph  
-1906 Galleria Corporate Center, EDSA cor. Ortigas Ave.  
+1905 Galleria Corporate Center, EDSA cor. Ortigas Ave.  
 Quezon City, QC 1100  
 Philippines  
-loadxtreme@vmobile.com.ph 
-
-PRIVACY POLICY, v1 - Last updated March 13, 2009  
-Copyright (c) 2009 VMobile Technologies Inc.  
-All rights reserved
-
-Back to Top
+legal@loadxtreme.com.ph
