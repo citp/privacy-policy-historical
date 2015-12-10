@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flinders.edu.au privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611082933id_/https%3A//www.flinders.edu.au/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flinders.edu.au privacy policy that was archived on 2015-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151210020224id_/https%3A//www.flinders.edu.au/privacy.cfm) for the most accurate reproduction.*
 
 # Privacy - Flinders University
 
@@ -38,6 +38,17 @@ These email addresses will only be used for the purpose for which you have provi
 
 Email mailing list addresses are stored on a separate server and can only be accessed by authorised Flinders University staff. Your email address will not be disclosed without your consent.
 
+## Storage and Protection  
+
+The University uses digital data storage providers located both inside Australia and overseas and has agreements with its storage providers to ensure the protection of Personal Information they store. Arrangements with these providers are reviewed and assessed periodically. In addition to storing data in Australia, the University also stores Personal Information with providers located in the following countries:
+
+  * United States
+  * Canada
+  * Singapore
+  * United Kingdom (and European Union)
+
+
+
 ## Cookies
 
 A cookie is an electronic token that is passed to your browser and your browser passes it back to the server whenever a page is sent to you. 
@@ -58,6 +69,6 @@ Search terms that you enter when using our search engine are collected, but are 
 
 This site contains links to other sites. Flinders University is not responsible for the privacy practices or the content of such web sites.
 
-## Contact details
+## Contact details 
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this site, you can contact [Digital Presence Services](mailto:digitalpresence@flinders.edu.au "Digital Presence Services").
