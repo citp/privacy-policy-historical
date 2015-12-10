@@ -1,10 +1,11 @@
-<!--The following is the downloaded HTML source of the soundsnap.com privacy policy that was archived on 2015-06-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150607080157id_/http%3A//www.soundsnap.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the soundsnap.com privacy policy that was archived on 2015-12-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151210122001id_/http%3A//www.soundsnap.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" class="linux chrome chrome69 webkit webkit5"><head>
 <title>Privacy Policy Sounds</title>
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="google-site-verification" content="t6zk6ooCCYQFGqqpmVwK6g9tH61NzJvjetMXwGaaOmk">
 <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script type="text/javascript" src="/themes/soundsnap2/assets/combined9.js"></script>
 <link href="//fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,600" rel="stylesheet" type="text/css">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -55,7 +56,7 @@
 </script>
 
 </head>
-<body class="">
+<body id="" class="">
 <div class="stereobot-connect"><a href="http://www.stereobot.com">switch to stereobot for music</a><span class="stereobot-connect-close"></span></div>
 <div id="container">
       <!-- header,  including menu -->
@@ -140,6 +141,7 @@ SoundSnap uses submitted and collected information to improve the quality and de
 <p>Children under the age of 13 are not permitted to use SoundSnap and no part of the website is directed to children under the age of 13. If at any point SoundSnap becomes aware that a child under 13 years of age has posted personal information on the website, it will be deleted from our records.</p>
 <h1 class="highlight">Data Collection &amp; Security</h1>
 <p>SoundSnap makes every reasonable and consistent effort to protect and secure all visitors’ personal information and stores all information in limited access servers. SoundSnap uses technical safeguards to preserve the integrity and security of information. </p>
+<p>In order to ensure maximum protection for recurring accounts, Soundsnap uses a state-of-the art tokenization system to manage payment information for recurring payments. This system uses a cryptographic key to store payment information but no credit card information is stored on the server.</p>
 <p>However, please note that this is not a guarantee that such information may not be accessed, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards. No security system is impenetrable and risks of breach exist in any system.</p>
 <p>If SoundSnap becomes aware of a security systems breach, then all necessary steps to correct such a breach will be taken and SoundSnap may attempt to notify visitors electronically so that they can take appropriate protective steps.</p>
 <h1 class="highlight">Cookies &amp; Log Files</h1>
@@ -179,17 +181,24 @@ SoundSnap uses submitted and collected information to improve the quality and de
         
         <div id="footer">
             
-            <div class="footercontent">
+			<div class="footercontent">
 				
-                Developed by <a href="http://www.tera-media.net">Tera Media</a> and <a href="http://www.canfield.com">CRG</a><br><a href="/tos">Terms of use</a><br><a href="/privacy">Privacy Policy</a><br><a href="/licence">Licence</a><br><a href="/advertise">Advertise</a><br><a href="/education">Education</a><br><a href="/jobs">Jobs</a><br><a href="/store">SFX Hard Drives</a><br><a href="/contact">Contact/Support</a><br><a href="http://www.audiomicro.com/royalty-free-music">Royalty Free Music</a> 
-                             </div>
+				Developed by <a href="http://www.tera-media.net">Tera Media</a> and <a href="http://www.canfield.com">CRG</a><br><a href="/tos">Terms of use</a><br><a href="/privacy">Privacy Policy</a><br><a href="/licence">Licence</a><br><a href="/advertise">Advertise</a><br><a href="/education">Education</a><br><a href="/jobs">Jobs</a><br><a href="/store">SFX Hard Drives</a><br><a href="/contact">Contact/Support</a> 
+                			</div>
               
-              <div class="footercontent">
+			<div class="footercontent">
               	<div class="social">
                 	<span><a class="icon twitter" href="http://twitter.com/soundsnapreal" title="soundsnap on Twitter" target="_blank"></a></span>
                 	<span><a class="icon facebook" href="http://www.facebook.com/pages/Soundsnap/93453304184" title="soundsnap on Facebook" target="_blank"></a></span>
                 </div>
-                <div class="copyright">© Copyright<br>2008 - 2014 Soundsnap</div>
+                <div class="col-right">
+                	<div class="footer-bbb"><a href="http://www.bbb.org/new-york-city/business-reviews/sound-effect-records/ojoo-limited-in-brooklyn-ny-152431" target="_blank"><img src="/themes/soundsnap2/assets/bbb1.png" alt="Better Business Bureau: Click for Review"></a>
+               		</div>
+                	<div class="copyright">
+                		© Copyright<br>2008 - 2014 Soundsnap
+                	</div>
+                 </div>
+                 
              </div>
              
         </div>
@@ -379,9 +388,11 @@ $j(document).ready(function() {
 		
 		$j('.product_bubble_link').hover(
 			function() {
-				$j(".product_bubble").fadeIn( "fast" );
+				var product=$j(this).attr('id');
+				$j("."+product+".product_bubble").fadeIn( "fast" );
 			}, function() {
-				$j(".product_bubble").fadeOut( "fast" );
+				var product=$j(this).attr('id');
+				$j("."+product+".product_bubble").fadeOut( "fast" );
 			}
 		);
 		
