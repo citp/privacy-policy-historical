@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the roommatesdecor.com privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611102402id_/http%3A//roommatesdecor.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roommatesdecor.com privacy policy that was archived on 2015-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151210143925id_/http%3A//roommatesdecor.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | RoomMates Peel and Stick Décor
+# Privacy Policy | RoomMates
 
 Thank you for visiting the RoomMates website! This privacy policy tells you how we use personal information collected by this site. Please read this privacy policy before using the site or submitting any personal information to us.
 
