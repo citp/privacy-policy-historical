@@ -1,14 +1,10 @@
-> *The following text is extracted and transformed from the ussearch.com privacy policy that was archived on 2015-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150516202037id_/http%3A//www.ussearch.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ussearch.com privacy policy that was archived on 2015-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151210221429id_/http%3A//www.ussearch.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | USSearch.com
 
-US Search, owned and operated by inome, inc. has been a leading online people search service provider for more than a decade. We provide this privacy statement so we may inform you about our company privacy practices, including 1) our practices as they pertain to our corporate website located at www.USSearch.com ("Website"), and 2) our practices that apply when you purchase one of our products or services.
+US Search, owned and operated by Intelius, Inc. has been a leading online people search service provider for more than a decade. We provide this privacy statement so we may inform you about our company privacy practices, including 1) our practices as they pertain to our corporate website located at www.USSearch.com ("Website"), and 2) our practices that apply when you purchase one of our products or services.
 
 If you want to block your profile from appearing on our websites, in our reports, or in our ads, please [click here](https://web.archive.org/privacylock) to learn how.
-
-US Search has received TRUSTe’s Privacy Seal signifying that this privacy statement and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal. The TRUSTe program covers only information that is collected through this Web site, [](https://web.archive.org/)www.USSearch.com.
-
-If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe [here](https://feedback-form.truste.com/watchdog/request).
 
 * **What information do we collect when you visit our Website or order our products and services, and how do we use it?**
 
