@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flexcart.com privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611082914id_/http%3A//www.elitefts.com/customer-service/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flexcart.com privacy policy that was archived on 2015-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151210020720id_/http%3A//www.elitefts.com/customer-service/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -12,7 +12,7 @@ When you visit our Web site you may provide us with two types of information: pe
 
 ## Registration Information
 
-You will provide us information about yourself, your firm or company, and your practices when you register to be a member of EliteFTS.com, register for certain services, or register for email newsletters and alerts. You may also provide additional comments on how you see Elite Fitness Systems servicing your needs and interests. 
+You will provide us information about yourself, your firm or company, and your practices when you register to be a member of EliteFTS.com, register for certain services, or register for email newsletters and alerts. You may also provide additional comments on how you see EliteFTS.com servicing your needs and interests. 
 
 ## Email Information
 
