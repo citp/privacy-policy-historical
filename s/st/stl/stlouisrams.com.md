@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stlouisrams.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627172544id_/http%3A//www.stlouisrams.com/footer/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stlouisrams.com privacy policy that was archived on 2015-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151210070134id_/http%3A//www.stlouisrams.com/footer/privacy-policy.html) for the most accurate reproduction.*
 
 # St. Louis Rams | Privacy Policy
 
@@ -33,6 +33,8 @@ When this privacy policy uses the term “personally identifiable information”
   
    
   
+Please note that the Services are directed towards users who reside in the United States. By using the Services, you consent to the collection, storage, processing, and transfer of your information in and to the United States, or other countries and territories, pursuant to the laws of the United States. While some of these countries may not offer the same level of privacy protection as your own, we commit to uphold the privacy protections as explained in this Policy.
+
 Please read the information below to learn more about our data collection policies and practices.  
   
    
