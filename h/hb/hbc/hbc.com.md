@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the hbc.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610043344id_/http%3A//www3.hbc.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hbc.com privacy policy that was archived on 2015-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151210015742id_/http%3A//www3.hbc.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Hudson's Bay Company
 
-**PRIVACY POLICY [NEW]**
+**PRIVACY POLICY**  
 
 **Hudson’s Bay Company and Your Privacy**
 
@@ -162,7 +162,7 @@ Toronto, Ontario
 
 M5W 3B7
 
-1-866-225-8251
+1-866-225-8251[](http://www3.hbc.com/privacy/# "Call: 1-866-225-8251")
 
 [privacy@hbc.com](mailto:privacy@hbc.com)
 
