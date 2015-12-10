@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cashmoneyaffiliate.com privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612214631id_/http%3A//cashmoneyaffiliate.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cashmoneyaffiliate.com privacy policy that was archived on 2015-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151210193308id_/http%3A//cashmoneyaffiliate.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Cash Money Affiliate - Affiliate Mobile Marketing
 
