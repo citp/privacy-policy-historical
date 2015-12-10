@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the discount-supplements.co.uk privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611083634id_/http%3A//www.discount-supplements.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the discount-supplements.co.uk privacy policy that was archived on 2015-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151210020145id_/http%3A//www.discount-supplements.co.uk/privacy) for the most accurate reproduction.*
 
-# 
+# Discount Supplements ™ - Buy Protein, Creatine & Supplements
 
 Who We Are?  
   
