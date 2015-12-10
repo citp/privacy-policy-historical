@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the games144.com privacy policy that was archived on 2015-05-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150507182458id_/http%3A//games144.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the games144.com privacy policy that was archived on 2015-12-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151210110941id_/http%3A//games144.com/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 		<meta http-equiv="Content-type" content="text/html; charset=utf-8">
@@ -133,7 +133,7 @@
 					var cpmstar_rnd = Math.round(Math.random() * 999999);
 					var cpmstar_pid = 21942;
 					document.writeln("<SCR" + "IPT language='Javascript' src='http://server.cpmstar.com/view.aspx?poolid=" + cpmstar_pid + "&script=1&rnd=" + cpmstar_rnd + "'></SCR" + "IPT>");
-				</script><script language="Javascript" src="http://server.cpmstar.com/view.aspx?poolid=21942&amp;script=1&amp;rnd=621016"></script>
+				</script><script language="Javascript" src="http://server.cpmstar.com/view.aspx?poolid=21942&amp;script=1&amp;rnd=809152"></script>
 
 			</div>
 			<div class="clear"></div>
@@ -208,33 +208,33 @@
 						translateGameId();
 						displayLoadingBar();
 						cntTagId();
-
-
 					});
 
 					// display game loading bar if game exists
 					function displayLoadingBar()
 					{
 						var Game = window.document.flashgame;
+						$('.loading').hide();
+
 						if (Game)
 						{
 							//$('.loading').prependTo('.main');
 							//$('.loading').addClass('loading_large');
 							setInterval(function ()
 							{
-								var Percentloaded = Game.PercentLoaded();
-								$('.loading_text').html('Loading... ' + Percentloaded + '%');
-								$('.loader').css('width', Percentloaded + '%');
-								if (Percentloaded == 100)
+								if (typeof Game.PercentLoaded !== "undefined")
 								{
-									clearInterval($(this));
-									$('.loading').hide();
+									$('.loading').show();
+									var Percentloaded = Game.PercentLoaded();
+									$('.loading_text').html('Loading... ' + Percentloaded + '%');
+									$('.loader').css('width', Percentloaded + '%');
+									if (Percentloaded == 100)
+									{
+										clearInterval($(this));
+										$('.loading').hide();
+									}
 								}
-							}, 50);
-						}
-						else
-						{
-							$('.loading').hide();
+							}, 1000);
 						}
 					}
 
