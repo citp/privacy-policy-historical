@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uktv.co.uk privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627100651id_/http%3A//network.uktv.co.uk/article/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uktv.co.uk privacy policy that was archived on 2015-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151210025932id_/http%3A//network.uktv.co.uk/article/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | UKTV
 
@@ -77,6 +77,12 @@ We encourage you also to contact us and let us know if any of your personal info
 
 You may contact us as follows:
 
-Telephone: 08457 344 355 Email: [feedback.UKTVNetwork@bss.org](mailto:feedback.UKTVNetwork@bss.org) Post: UKTV Viewer Liaison, UKTV, PO Box 4307, Manchester, M61 OAH
+Telephone: 0203 752 7727  
+
+
+Email: [viewers@uktv.co.uk](mailto:viewers@uktv.co.uk)
+
+Post: UKTV Viewers, 10 Hammersmith Grove, London, W6 7AP  
+
 
 UKTV Media Limited (registered with number 04266373) 
