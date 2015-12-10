@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the impromocoder.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315010820id_/http%3A//impromocoder.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the impromocoder.com privacy policy that was archived on 2015-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151210214412id_/http%3A//impromocoder.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - IMPromocoder
 
@@ -20,7 +20,7 @@ How we use collected information
 
 IMPROMOCODER may collect and use Users personal information for the following purposes:
 
-\- To improve customer service  
+– To improve customer service  
 Information you provide helps us respond to your customer service requests and support needs more efficiently.  
 – To personalize user experience  
 We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.  
@@ -62,4 +62,4 @@ IMPROMOCODER
 <http://impromocoder.com/>  
 info[at]impromocoder[dot]com
 
-This document was last updated on November 17, 2012 
+This document was last updated on November 17, 2012
