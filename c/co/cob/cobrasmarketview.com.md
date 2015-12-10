@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cobrasmarketview.com privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611184640id_/http%3A//www.cobrasmarketview.com/%3Fpage_id%3D243) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cobrasmarketview.com privacy policy that was archived on 2015-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151210230452id_/http%3A//www.cobrasmarketview.com/%3Fpage_id%3D243) for the most accurate reproduction.*
 
 # Privacy Policy | Cobra's Market View
 
