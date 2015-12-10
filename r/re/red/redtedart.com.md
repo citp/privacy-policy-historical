@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the redtedart.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627183143id_/http%3A//www.redtedart.com/cookies-privacy-policies-disclosure) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redtedart.com privacy policy that was archived on 2015-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151210234014id_/http%3A//www.redtedart.com/cookies-privacy-policies-disclosure) for the most accurate reproduction.*
 
 # Cookies, Privacy Policies & Disclosure - Red Ted Art's Blog : Red Ted Art's Blog
 
