@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the americangeneral.com privacy policy that was archived on 2015-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150622082442id_/http%3A//www.aig.com/policy_3789_537759.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the americangeneral.com privacy policy that was archived on 2015-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151210105335id_/http%3A//www.aig.com/policy_3789_537759.html) for the most accurate reproduction.*
 
 # Privacy - American General Life Insurance Company
 
