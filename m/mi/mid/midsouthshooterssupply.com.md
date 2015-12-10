@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the midsouthshooterssupply.com privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611085715id_/https%3A//www.midsouthshooterssupply.com/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the midsouthshooterssupply.com privacy policy that was archived on 2015-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151210025340id_/http%3A//www.midsouthshooterssupply.com/PrivacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy | Shooting Supplies | MidsouthShootersSupply.com
 
@@ -27,6 +27,8 @@ We use the Secure Socket Layer (SSL) protocol to transmit the data from your sec
 All images and content on this website are intended for use by Midsouth Shooters Supply. Any usage or reproduction of content or images from this website is prohibited! 
 
 ©2011 Midsouth Shooters Supply Company. All rights Reserved. 
+
+### Reloading Supplies, Shooting Supplies, Reloading Tools.
 
   
 
