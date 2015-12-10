@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gujaratilexicon.com privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611222602id_/http%3A//www.gujaratilexicon.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gujaratilexicon.com privacy policy that was archived on 2015-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151210123715id_/http%3A//www.gujaratilexicon.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy-policy - Ratilal Chandaria's Gujaratilexicon , The Most Comprehensive Online Gujarati Language Resources
+# Privacy-policy - Ratilal Chandaria's Gujaratilexicon, The Most Comprehensive Online Gujarati Language Resources
 
   * **We only collect anonymous information.  
 ** We use technologies like cookies (small files stored by your browser), web beacons, or unique device identifiers to anonymously identify your computer or device so we can deliver a better experience. Our systems also log information like your browser, operating system and IP address.
