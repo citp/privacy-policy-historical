@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the destination-asia.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608212435id_/http%3A//www.destination-asia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the destination-asia.com privacy policy that was archived on 2015-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151210195636id_/http%3A//www.destination-asia.com/privacy-policy) for the most accurate reproduction.*
 
-# 
+# Privacy Policy
 
 This Privacy Policy reflects our commitment to protect your privacy rights. We pledge to implement every necessary measure to protect the privacy of our clients and visitors to our website who make use of its content and related online services. Destination Asia may link to external sites and is not responsible for the content or privacy procedures of such sites. By accessing the Destination Asia website you are bound by the terms within our policy.
 
