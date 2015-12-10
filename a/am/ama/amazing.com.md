@@ -1,71 +1,150 @@
-> *The following text is extracted and transformed from the amazing.com privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011152602id_/http%3A//www.amazing.com/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amazing.com privacy policy that was archived on 2015-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151210194822id_/http%3A//amazing.com/privacy) for the most accurate reproduction.*
 
-# Effective January 23, 2006:
+# Amazing.com | Privacy Policy
 
-**Effective   January 23, 2006:**
+Amazing.com takes the privacy of its users seriously. We are committed to safeguarding your privacy while providing a personalized and valuable service. This privacy policy statement explains our data processing practices. If you have any requests concerning your personal information or any questions regarding these practices, please email us at [support@amazing.com](mailto:support@amazing.com). Our sites contain links to third party sites that are not subject to this Privacy Policy. We recommend you read the privacy policy of any such sites you visit.
 
-  **About Amazing.com** ****
+### Information Collected
 
- Amazing.com is an online service that allows our members to  set up unique personal profiles that can be linked together  through networks of friends. Amazing.com members can view each others'  profiles, communicate with old friends and meet new friends  on the service, share photos, post journals and comments, and  describe their interests. To enrich our members' experience,  we request and display some personal information to other members  and visitors, which allows our users to identify each other and expand their network of friends. Amazing.com members can change  their profile information at any time and can control how other  members and the service communicates with them.
+Personal information is collected by the Amazing companies listed below on behalf of the Amazing group of companies and its trading entities.
 
-Amazing.com cares deeply about online privacy  If you have any questions concerning this privacy policy, please  email us at [billy@amazing.com.](mailto:billy@amazing.com)
+**Company**  
+Amazing.com  
+300 West 6th Street  
+Suite 1960  
+Austin, TX 78701 
 
-**Information Collection and   Use by Amazing.com**
+We collect personally identifiable information about you (your "Data") through:
 
- Amazing.com collects user submitted information such as name,  email address, and age to authenticate users and to send notifications  to those users relating to the Amazing.com service. Amazing.com  also collects other profile data including but not limited to:  personal interests, gender, age, education and occupation in  order to assist users in finding and communicating with each  other.
+  * The use of enquiry and registration forms
+  * Your purchase of any our products or services
+  * The provision of your details to us either online or offline
 
-Amazing.com also logs non-personally-identifiable  information including IP address, profile information, aggregate  user data, and browser type, from users and visitors to the site  This data is used to manage the website, track usage and improve  the website services. This non-personally-identifiable information may be shared with third-parties to provide more relevant services  and advertisements to members. User IP addresses are recorded  for security and monitoring purposes
 
- User Profile information including members' pictures and first  names are displayed to people in order to facilitate user interaction  in the Amazing.com social networking community. Email addresses  are used for the purposes of inviting new friends to join Amazing.com,  to add users to members' friends' networks, and to send notifications  related to the service. With the exception of inviting friends,  adding friends, and notifications, a user's email address is  not shared or displayed to people within a user's personal network  Users within a personal network communicate on Amazing.com with  each other through the Amazing.com service, without disclosing  their email addresses. Users' full names are never directly revealed to other members. To facilitate searching and finding  friends and acquaintances on the service, Amazing.com allows  users to search for other members using first and last name,  email address, and schools and/or companies where users may  have attended or worked.
 
-We may also use a user's email address to send updates, a newsletter  or news regarding the service. Users may choose not to receive  email of this type by changing their "notification" setting  to "Do not send me notification emails" in the user "Account  Settings"
+The elements of your Data that we collect may include:
 
- From time to time, Amazing.com or a partner, may sponsor a promotion,  sweepstake or contest on Amazing.com. Users may be asked to provide  personal information including name, email address or home address  or to answer questions in order to participate. We may transfer  personal information to certain ad partners that you have explicitly  requested to receive information from. It will be clear at the point of collection who is collecting the personal information  and whose privacy statement will apply.
+  * Name
+  * Job title
+  * Company name, address, phone and fax number
+  * Home address and phone number
+  * Mobile telephone number
+  * E-mail address
+  * Payment details such as credit card information
+  * Date of birth
+  * Educational history, work experience and other similar information
+  * Market research data such as readership patterns and usage statistics
 
-**Invitations and Other Communications   to Non-members** ****
 
- Amazing.com members can invite friends to join the service by sending  invitation emails via our automated invitation system. Amazing.com  stores the email addresses that members provide so that the respondents may be added to the friend's list of the member  sending the invitations, and also to send reminders of the invitations  Amazing.com does not sell these email addresses or use them  to send any other communication besides invitations, invitation  reminders (up to three (3) per email address). Recipients of  invitations from Amazing.com may contact Amazing.com to request  the removal of their information from our database.
 
- Amazing.com members may also store email addresses  of people they know in their internal Amazing.com address book and  may also choose to send invitations and other communications  to those addresses.
+We may also collect information that we request from you regarding your use of our service or that we collect automatically about your visit to our sites. Please see our Cookies Policy for more details.
 
-You may prevent Amazing.com email invitations and  other messages from being sent to any email address you control  by sending a single email with the subject "BLOCK" to [billy@amazing.com](mailto:billy@amazing.com) Please note that the email must come from the account you wish  to block.
+### Use and Disclosure of Personal Information
 
-  **Use of Cookies** ****
+We use your Data for purposes which may include:
 
- Amazing.com uses cookies to store visitors' preferences and  to record session information, for purposes including ensuring  that visitors are not repeatedly offered the same advertisements  and to customize newsletter, advertising, and Web page content  based on browser type and user profile information. We do not  link the information we store in cookies to any personally identifiable information you submit while on our site. You may be able to  configure your browser to accept or reject all or some cookies,  or notify you when a cookie is set -- each browser is different,  so check the "Help" menu of your browser to learn how to change  your cookie preferences -- however, you must enable cookies  from Amazing.com in order to use most functions on the site  Please note that Amazing.com allows 3rd party advertisers that are  presenting advertisements on some of our pages to set and access  their cookies on your computer. Advertisers' use of cookies  is subject to their own privacy policies, not the Amazing.com Privacy  Policy.
+  * Providing our users with personalized service or special opportunities
+  * Processing orders, registrations and enquiries.
+  * Improving our products or planning new products.
+  * Conducting market research surveys.
+  * Allowing users to participate in interactive features of our service, where they choose to do so.
+  * Providing reports to our clients containing information about usage under corporate licenses.
+  * Running competitions, prize draws, and promotions.
+  * Providing information about products and services we offer (if you agree to receive such information).
+  * Sharing your contact information - but not your product data - with third party organizations who offer products or services that may be of interest to you (if you agree to receive such information).
+  * Contacting you about specific recruitment opportunities (if you register search criteria information on our recruitment sites).
+  * Monitoring compliance with our Terms and Conditions and Copyright Policy.
 
-  **Links** ****
 
-** ** Amazing.com contains links to sites. Amazing.com is not responsible  for the privacy policies and/or practices on other sites. When  linking to another site a user should read the privacy policy  stated on that site. Our privacy policy only governs information  collected on Amazing.com.
 
-  **Chat Rooms, Journals   and WebLogs, Message Boards, Classifieds and Public Forums**
+We do not share your information with other members or disclose which products are good sellers or use your information for profit, gain, or for trending products to be used by Amazing, its employees, its subsidiaries, any strategic partners, or any other groups associated with Amazing to gain an edge on Amazon.
 
- Please be aware that whenever you voluntarily post public information  to Journals, WebLogs, Message Boards, Classifieds or any other  Public Forums that that information can be accessed by the public  and can in turn be used by those people to send you unsolicited  communications.
+If you wish to receive information about Amazing group products or services or from other carefully selected organizations about products or services they offer, please indicate your preferences using the consent boxes when providing us with your Data.
 
-**Correcting/Updating or Removing   Information ******
+We may also disclose your information to business partners and to third party suppliers we engage to provide services which involve processing data on our behalf, successors in title to our business or in accordance with a properly executed court order, or as otherwise required to do so by law. We reserve the right to fully co-operate with any law enforcement authorities or court order requiring or requesting us to disclose the identity or other usage details of any user of our sites.
 
- Amazing.com users may modify or remove any of their personal  information at any time by logging into their account and accessing  features such as Edit Profile and Account Info.
+We also use information in aggregate form (so no individual user is identified by name) to:
 
-  **Email Choice/Opt-out** ****
+  * Build up marketing profiles
+  * Aid strategic development. 
+  * Manage our relationship with advertisers
+  * Audit usage of the site
 
- Members who no longer wish to receive updates or notifications  may choose not to by selecting 'Do not send me notification  emails' in the user profile 'Account Settings'. Users who do  not wish to receive Amazing.com newsletters may choose not to  by selecting 'Do not send me Amazing.com newsletters' in the user  profile 'Account Settings'. All notification emails and Amazing.com  newsletters also include the above instructions for opting-out  of those communications in the future.
 
-  **Third Party Advertising** ****
 
- Ads appearing on this Web site may be delivered to users by  Amazing.com or one of our Web advertising partners. Our Web  advertising partners may set cookies. These cookies allow the  ad server to recognize your computer each time they send you  an online advertisement. In this way, ad servers may compile  information about where you, or others who are using your computer,  saw their advertisements and determine which ads are clicked  on. This information allows an ad network to deliver targeted  advertisements that they believe will be of most interest to  you. This privacy statement covers the use of cookies by Amazing.com  and does not cover the use of cookies by any advertisers.
+We use technology on the registration, subscription and manage-my-account pages of some of our websites, which may record user movements including page scrolling, mouse clicks and text entered. That technology will not record financial information such as credit or debit card details. The Data we collect in this way helps us identify usability issues, improve the assistance and technical support we can provide to users, and is also used for aggregated and statistical reporting purposes.
 
-  **Security** ****
+See our Cookies Policy below for more details.
 
- Amazing.com member accounts are secured by member-created passwords  Amazing.com takes precautions to insure that member account  information is kept private. We use reasonable measures to protect  member information that is stored within our database, and we  restrict access to member information to those employees who  need access to perform their job functions, such as our customer service personnel and technical staff. Please note that we cannot  guarantee the security of member account information. Unauthorized  entry or use, hardware or software failure, and other factors  may compromise the security of member information at any time  For any additional information about the security measures we  use on Amazing.com, please contact us a [billy@amazing.com](mailto:billy@amazing.com)
+### Security Policy
 
-**Sharing and Disclosure of   Information Amazing.com Collects ******
+Amazing.com businesses have appropriate measures in place to ensure our users’ Data is protected against unauthorized access or use, alteration, unlawful or accidental destruction, and accidental loss. User Data may be transferred outside the Amazing group to data processors such as fulfilment houses but they will act only on our instructions to provide the services required.
 
- Except as otherwise described in this privacy statement, Amazing.com will not disclose personal information to any third party unless we believe that disclosure is necessary: (1) to conform to legal requirements or to respond to a subpoena, search warrant or other legal process received by Amazing.com, whether or not a response is required by applicable law; (2) to enforce the Amazing.com Terms of Use Agreement or to protect our rights; or (3) to protect the safety of members of the public and users of the service. Amazing.com reserves the right to transfer  personal information to a successor in interest that acquires  rights to that information as a result of the sale of Amazing.com  or substantially all of its assets to that successor in interest  For more information see the "Changes in Our Privacy Policy"  section below.
+### Transfer of Data
 
-  **Changes in Our Privacy Policy** ****
+The Internet is a global environment. Using the Internet to collect and process personal data necessarily involves the transmission of data on an international basis. By browsing the Amazing sites and communicating electronically with us you therefore acknowledge and agree to our processing of personal data in this way. By agreeing to our transfer of your Data to third party organizations (for them to send you details about their products and services, as detailed above) you are providing consent to any transfer of your Data to organizations based anywhere in the world.
 
-** ** From time to time we may make changes to our privacy policy  If we make changes, we will post them on our site to make users  aware of what the changes are so users will always be aware  of what information we collect, how we use it, and when we may  disclose it. A User is bound by any minor changes to the policy  when she or he uses the site after those changes have been posted  If, however, we are going to use users' personally identifiable  information in a manner materially different from that stated  at the time of collection we will notify by posting a notice  on our Web site for 30 days.
+### User Access and Control of Data
 
-  **Contacting the Web Site** ****
+If you wish to amend any Data we hold about you or update your marketing preferences, please contact [support@amazing.com](mailto:support@amazing.com).
 
- If you have any questions about this privacy statement, the  practices of this site, or your dealings with this Web site,  please contact us at: [billy@amazing.com ](mailto:billy@amazing.com) (Emerald Hill Mansion: 417 Coyle Curtain Road: Monongahela, Pennsylvania 15063)
+### Use of Cookies and Other Tracking Devices
+
+Please see our Cookies Policy below.
+
+### Children Under 14
+
+We do not intentionally collect any information on children under 14 years of age. We will undertake to delete any details of such users where a parent or guardian has notified us that any such details have been obtained.
+
+### Changes to this Policy
+
+This policy is effective from 2nd March 2015. From time to time we may make changes to this privacy policy statement to reflect any changes to our privacy practices in accordance with changes to legislation, best practice or website enhancements.
+
+* * *
+
+Amazing.com uses cookies and similar tools across our websites to improve performance and enhance your experience. This policy explains how we do that.
+
+### What are cookies?
+
+Cookies are small text files a website may put on your computer or mobile device when you first visit a site or page. The cookie helps that website, or another website, recognize your device the next time you visit. Web beacons or other similar files do the same thing. We use the term “cookies” in this policy to refer to all files that collect information in this way.
+
+Cookies can serve many functions. For example, they may help us remember your username and preferences, analyze how well our website is performing, or even allow us to recommend content we believe will be most relevant to you.
+
+Certain cookies contain personal information. For example, if you select “remember me” when logging in, a cookie will store your username. Most cookies won’t collect information that identifies you personally, and will instead collect more general information such as how you arrive at and use our websites or your general location.
+
+### What sort of cookies does Amazing.com use?
+
+Generally, our cookies perform up to four different functions:
+
+  1. **Essential Cookies.** Some cookies are essential for the operation of our website. For example, some cookies allow us to identify subscribers and ensure they can access the subscription-only pages. If a subscriber opts to disable these cookies, they will not be able to access all the content to which their subscription entitles them.
+  2. **Performance Cookies.** We utilize other cookies to analyze how our visitors use our websites and to monitor website performance. This allows us to provide a high quality experience by customizing our offerings and quickly identifying and fixing any issues that arise. For example, we might use performance cookies to keep track of which pages are most popular, which method of linking between pages is most effective, and to determine why some pages are receiving error messages. We might also use these cookies to highlight articles or site services that we think will be of interest to you based on your use of the website.
+  3. **Functionality Cookies.** We use functionality cookies to allow us to remember your preferences. For example, cookies save you the trouble of typing in your username every time you access the site. Cookies recall your customization preferences, such as which regional edition of the website you want to see when you log in. We also use functionality cookies to provide you with enhanced services such as allowing you to watch a video online or comment on a blog.
+  4. **Behaviorally Targeted Advertising Cookies.** Amazing.com and our advertisers use cookies to serve you with advertisements that we believe are relevant to you and your interests. For example, if you read a number of articles about branding on Amazing.com or on other sites, a graphic design company might infer you are interested in this topic and serve you with its logo development advertisements. You might see such advertisements on Amazing.com and other sites you visit. These cookies do not, however, tell our advertisers who you are.
+
+
+
+### Does anyone else use cookies on Amazing.com websites?
+
+Advertisers sometimes use their own cookies to provide you with targeted advertising. For example, advertisers may use a profile they have built on sites you have previously visited to present you with more relevant advertisements during your visit to Amazing.com. We believe our users prefer to see advertisements that are more relevant to their interests. If you are based in the European Union and would like to learn more about how advertisers use these types of cookies or how to choose not to receive them, please visit www.youronlinechoices.eu. If you are based in the United States and would like to learn more, please visit www.aboutads.info/choices.
+
+We also use or allow third parties to serve cookies that fall into the four categories above. For example, like many companies, we use Google Analytics to help us monitor our website traffic. We may also use third party cookies to help us with market research, revenue tracking, improving site functionality, and monitoring compliance with our Terms and Conditions and Copyright Policy.
+
+### Can a website user block cookies?
+
+As explained above, cookies help you to get the most out of our websites.
+
+The first time you accessed our website after 10 March 2015, you should have seen an overlay explaining that by continuing to access our site, you are consenting to our use of cookies.
+
+If you choose to disable cookies, you may find that certain sections of our website do not work properly.
+
+### Do we track whether users open our emails?
+
+Our emails may contain a single, campaign-unique “web beacon pixel” to tell us whether our emails are opened and to verify any clickthroughs to links or advertisements within the email. We may use this information for purposes including to determine which of our emails are more interesting to users, to query whether users who do not open our emails wish to continue receiving them, and to inform our advertisers (in aggregate) how many users have clicked on their advertisements. The web beacon pixel is deleted when you delete the email. If you do not wish the pixel to be downloaded to your device, you should select to receive emails from us in plain text rather than HTML.
+
+### More Information
+
+For more detail about how businesses use cookies visit www.allaboutcookies.org.
+
+If you have any queries regarding this Cookie Policy, please email us at [support@amazing.com](mailto:support@amazing.com).
+
+This document was last updated on March 10th, 2015.
