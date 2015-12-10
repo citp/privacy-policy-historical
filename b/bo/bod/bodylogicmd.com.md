@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bodylogicmd.com privacy policy that was archived on 2015-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150429064458id_/http%3A//www.bodylogicmd.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bodylogicmd.com privacy policy that was archived on 2015-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151211003628id_/http%3A//www.bodylogicmd.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Privacy Policy
+# BodyLogicMD - Privacy Policy
 
 **Effective 02/08/2011**
 
@@ -17,11 +17,11 @@
 
 ## Our Commitment To Privacy:
 
-Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our [homepage](http://www.bodylogicmd.com/) and at every point where personally identifiable information may be requested.
+Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our [homepage](https://web.archive.org/) and at every point where personally identifiable information may be requested.
 
 ## The Information We Collect:
 
-This notice applies to all information collected or submitted on [www.bodylogicmd.com](http://www.bodylogicmd.com/). On some pages you may request additional information. The types of personal information collected at these pages are:
+This notice applies to all information collected or submitted on [www.bodylogicmd.com](https://web.archive.org/). On some pages you may request additional information. The types of personal information collected at these pages are:
 
   * Full Name
   * Email address
@@ -56,7 +56,7 @@ To prevent unauthorized access, maintain data accuracy, and ensure the correct u
 
 ## How You Can Access Or Correct Your Information:
 
-You can access all your personally identifiable information that we collect online and maintain by logging into your patient account or contacting us at patient.services@bodylogicmd.com. We use this procedure to better safeguard your information.
+You can access all your personally identifiable information that we collect online and maintain by logging into your patient account or contacting us at [patient.services@bodylogicmd.com](mailto:patient.services@bodylogicmd.com). We use this procedure to better safeguard your information.
 
 You can correct factual errors in your personally identifiable information by sending us a request that credibly shows error.
 
@@ -65,7 +65,7 @@ To protect your privacy and security, we will also take reasonable steps to veri
 ## How To Contact Us:
 
 Should you have other questions or concerns about these privacy policies, please send us an email at:  
-patient.services@bodylogicmd.com
+[patient.services@bodylogicmd.com](mailto:patient.services@bodylogicmd.com).
 
 Or contact us at our physical address:  
 5000 T-Rex Ave  
