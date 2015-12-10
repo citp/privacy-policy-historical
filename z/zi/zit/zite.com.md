@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zite.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607185925id_/http%3A//blog.zite.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zite.com privacy policy that was archived on 2015-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151210110147id_/http%3A//blog.zite.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Zite's blog
 
