@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the everypost.me privacy policy that was archived on 2014-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141228181032id_/http%3A//everypost.me/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the everypost.me privacy policy that was archived on 2015-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151210044307id_/http%3A//everypost.me/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Everypost
 
-[FREE TRIAL](https://web.everypost.me/register) [SIGN IN](http://web.everypost.me/) [](http://web.everypost.me/)
+[FREE TRIAL](https://web.archive.org/pricing/) [SIGN IN](http://web.everypost.me/) [](http://web.everypost.me/)
 
 This Privacy Policy describes Everypost’s policies and procedures on the collection, use and disclosure of your information when you use the Everypost Service. We will not use or share your information with anyone except as described in this Privacy Policy. This Privacy Policy does not apply to information we collect by other means (including offline) or from other sources. Capitalized terms that are not defined in this Privacy Policy have the meaning given them in our Terms of Service. By accessing or using our Service, you agree to this Privacy Policy.
 
