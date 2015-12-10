@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the virtuemart.net privacy policy that was archived on 2015-05-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150526184133id_/http%3A//virtuemart.net/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the virtuemart.net privacy policy that was archived on 2015-12-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151210142912id_/http%3A//www.virtuemart.net/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" dir="ltr"><head>
 <meta charset="utf-8">
@@ -17,6 +17,7 @@
   <link rel="stylesheet" href="/plugins/system/jcemediabox/themes/standard/css/style.css?10da0a5fa45a7c3d7e5b40a5d80e8773" type="text/css">
   <link rel="stylesheet" href="/cache/widgetkit/widgetkit-7adb82df.css" type="text/css">
   <link rel="stylesheet" href="/plugins/system/rokbox/themes/light/rokbox-style.css" type="text/css">
+  <link rel="stylesheet" href="/modules/mod_cookiesaccept/screen.css" type="text/css">
   <script src="/media/system/js/mootools-core.js" type="text/javascript"></script>
   <script src="/media/system/js/core.js" type="text/javascript"></script>
   <script src="/media/system/js/caption.js" type="text/javascript"></script>
@@ -272,6 +273,85 @@ var sppc_user = '9';
 			
 <p><a href="/index.php" title="Go to VirtueMart.net home page"><img src="/images/banners/vm-logo-220.png" alt="logo" style="display: block; margin-left: auto; margin-right: auto;"></a></p>
 <p style="text-align: center;">VirtueMart ® der iStraxx UG (haftungsbeschraenkt)</p>		
+</div>
+<div class="module   deepest">
+
+			<!--googleoff: all-->
+<div id="ca_banner" style="bottom:0px;
+        max-height:auto;
+bottom:15px;    ">
+    <h2 style="
+		font-size:14px;">Please note! This site uses cookies and similar technologies.</h2> 
+    <p style="
+				">If you not change browser settings, you agree to it.        							<span class="infoplus info_modal" style="">Learn more</span>
+					        </p>
+    <div class="accept" style="">I understand</div>
+</div>
+<div id="ca_info" style="max-width:94%;
+left:0;
+margin-left:0;
+width:auto;">
+    <div class="ca_info_close" style=""></div>
+        <div id="ca_info_plus" style="">
+            <div class="content clearfix">
+<p>Since 26th May 2012, All websites across the EU are now required to ask your permission to place cookies on your machine (E-Privacy Directive 2009/136/EC).</p>
+<p>The EU Cookie Directive is designed to increase consumer protection. It recognizes the importance and usefulness of cookies for the functioning of a web site but requires websites to obtain informed consent from visitors before they store information on a computer or any web connected device.</p>
+<p>This is storage is mostly done by cookies, which can then be used for tracking visitors to a site.<span style="line-height: 1.3em;">&nbsp;We only use it within the EU law.</span>&nbsp;You can choose whether or not to allow the site to use cookies in this way, but you should be aware that if you do not allow cookies you may experience a loss&nbsp;of site functionality&nbsp;in many cases, and some services will not work at all unless&nbsp;cookies are allowed.&nbsp;</p>
+<p>At the top of this website, a message is displayed to warn you that our website uses cookies. This message will be displayed until you agree our site using cookies by clicking on the Agree button.</p>
+<p>Read more: <a href="http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2009:337:0011:0036:en:PDF" target="_blank">DIRECTIVE 2009/136/EC OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL</a></p>
+</div>        </div>
+</div>
+
+
+<script type="text/javascript">
+    jQuery(document).ready(function () { 
+	
+	function setCookie(c_name,value,exdays)
+	{
+		var exdate=new Date();
+		exdate.setDate(exdate.getDate() + exdays);
+		var c_value=escape(value) + ((exdays==null) ? "" : "; expires="+exdate.toUTCString()) + "; path=/";
+		document.cookie=c_name + "=" + c_value;
+	}
+	
+	function readCookie(name) {
+		var nameEQ = name + "=";
+		var ca = document.cookie.split(';');
+		for(var i=0;i < ca.length;i++) {
+			var c = ca[i];
+			while (c.charAt(0)==' ') c = c.substring(1,c.length);
+			if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length,c.length);
+			}
+		return null;
+	}
+    
+	var $ca_banner = jQuery('#ca_banner');
+    var $ca_infoplus = jQuery('.infoplus.info_modal');
+    var $ca_info = jQuery('#ca_info');
+    var $ca_info_close = jQuery('.ca_info_close');
+    var $ca_infoaccept = jQuery('.accept');
+    
+	var cookieaccept = readCookie('cookieaccept');
+	if(!(cookieaccept == "yes")){
+	
+		$ca_banner.delay(1000).slideDown('fast'); 
+        $ca_infoplus.click(function(){
+            $ca_info.fadeIn("fast");
+        });
+        $ca_info_close.click(function(){
+            $ca_info.fadeOut("slow");
+        });
+        $ca_infoaccept.click(function(){
+			setCookie("cookieaccept","yes",365);
+            jQuery.post('http://virtuemart.net/privacy-policy', 'set_cookie=1', function(){});
+            $ca_banner.slideUp('slow');
+            $ca_info.fadeOut("slow");
+        });
+       } 
+    });
+</script>
+<!--googleon: all-->
+		
 </div>
 			</footer>
 			
