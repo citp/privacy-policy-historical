@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bat.com privacy policy that was archived on 2015-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150614033724id_/http%3A//www.bat.com/group/sites/UK__9D9KCY.nsf/vwPagesWebLive/DO52GBWX%3Fopendocument%26jumpto%3Dcoupp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bat.com privacy policy that was archived on 2015-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151210014205id_/http%3A//www.bat.com/group/sites/UK__9D9KCY.nsf/vwPagesWebLive/DO52GBWX%3Fopendocument%26jumpto%3Dcoupp) for the most accurate reproduction.*
 
 # British American Tobacco - Conditions of use
 
@@ -82,6 +82,8 @@ Purpose |  These cookies are used to collect information about how you and other
 How to disable / enable this cookie |  To opt out of being tracked by Google Analytics across all websites, please visit:  
 [Google Analytics Opt-out Browser Add-on ](http://tools.google.com/dlpage/gaoptout "Google Analytics Opt-out Browser Add-on \(opens in new window\)")  
 Name |  Expiry  
+_ga |  Persistent cookie: 2 years from set/update  
+_gat |  Persistent cookie: 10 minutes from set/update  
 _utma |  Persistent cookie: 2 years from set/update  
 _utmb |  Persistent cookie: 30 minutes from set/update  
 _utmc |  Session cookie: end of user browser session  
