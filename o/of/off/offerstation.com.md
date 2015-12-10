@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the offerstation.com privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612002359id_/http%3A//offerstation.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the offerstation.com privacy policy that was archived on 2015-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151210015802id_/http%3A//www.offerstation.com/privacy.php) for the most accurate reproduction.*
 
 # Contact Us | OfferStation.com
 
@@ -52,48 +52,48 @@ OfferStation reserves the right to modify, update, and change this policy at our
 
 [
 
-## MANGO Sale
+## Wakai Promotion
 
-](http://www.offerstation.com/sales-warehouse-clearance/155551/mango-sale.htm)
-
-[
-
-## Skechers School Holidays Sale
-
-](http://www.offerstation.com/sales-warehouse-clearance/154524/skechers-school-holidays-sale.htm)
+](http://www.offerstation.com/offers-promotions/165446/wakai-promotion.htm)
 
 [
 
-## IKEA FAMILY Offers
+## Give Love, Give Joy at Parkson
 
-](http://www.offerstation.com/offers-promotions/153696/ikea-family-offers.htm)
-
-[
-
-## 1Malaysia Mega Sale Carnival 2015
-
-](http://www.offerstation.com/sales-warehouse-clearance/155046/1malaysia-mega-sale-carnival-2015.htm)
+](http://www.offerstation.com/offers-promotions/165468/give-love-give-joy-at-parkson.htm)
 
 [
 
-## bebe Season Clearance Sale
+## Terranova Sale
 
-](http://www.offerstation.com/sales-warehouse-clearance/155282/bebe-season-clearance-sale.htm)
-
-[
-
-## TUMI End of Season Sale
-
-](http://www.offerstation.com/sales-warehouse-clearance/155309/tumi-end-of-season-sale.htm)
+](http://www.offerstation.com/sales-warehouse-clearance/165554/terranova-sale.htm)
 
 [
 
-## The BritishIndia Stampede Sale
+## PONEY Member Sale
 
-](http://www.offerstation.com/sales-warehouse-clearance/155394/the-britishindia-stampede-sale.htm)
+](http://www.offerstation.com/sales-warehouse-clearance/165471/poney-member-sale.htm)
 
 [
 
-## Buy 1 FREE 1 with Maybank Visa Credit Card at TGV Cinemas
+## All-New Mazda CX-3
 
-](http://www.offerstation.com/offers-promotions/152685/buy-1-free-1-with-maybank-visa-credit-card-at-tgv-cinemas.htm)
+](http://www.offerstation.com/whats-new/165475/all-new-mazda-cx-3.htm)
+
+[
+
+## Res|Toe|Run Sale
+
+](http://www.offerstation.com/sales-warehouse-clearance/164100/res-toe-run-sale.htm)
+
+[
+
+## Sangkaya Kota Damansara Grand Opening Promotion
+
+](http://www.offerstation.com/dining-food-offers/165494/sangkaya-kota-damansara-grand-opening-promotion.htm)
+
+[
+
+## Christmas Celebration at 1 Utama
+
+](http://www.offerstation.com/offers-promotions/165037/christmas-celebration-at-1-utama.htm)
