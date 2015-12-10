@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the southern-electric.co.uk privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610054600id_/http%3A//www.southern-electric.co.uk/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the southern-electric.co.uk privacy policy that was archived on 2015-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151210122627id_/http%3A//www.southern-electric.co.uk/PrivacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy - Southern Electric
 
