@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the humanservices.gov.au privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627184820id_/http%3A//www.humanservices.gov.au/customer/information/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the humanservices.gov.au privacy policy that was archived on 2015-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151210081246id_/http%3A//www.humanservices.gov.au/customer/information/privacy) for the most accurate reproduction.*
 
 # Your right to privacy
 
