@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the citiclassifieds.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610153238id_/http%3A//www.citiclassifieds.com/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the citiclassifieds.com privacy policy that was archived on 2015-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151210134603id_/http%3A//www.citiclassifieds.com/privacyPolicy) for the most accurate reproduction.*
 
 # citiclassifieds.com - Privacy Policy
 
