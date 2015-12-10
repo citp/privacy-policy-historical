@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the red5.co.uk privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611195447id_/http%3A//www.red5.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the red5.co.uk privacy policy that was archived on 2015-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151210074725id_/http%3A//www.red5.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | RED5 Gadget Shop
 
