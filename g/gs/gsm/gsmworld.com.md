@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gsmworld.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629053222id_/http%3A//www.gsma.com/cookie-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gsmworld.com privacy policy that was archived on 2015-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151210051707id_/http%3A//www.gsma.com/cookie-policy) for the most accurate reproduction.*
 
 # Cookie Policy | About Us
 
@@ -37,12 +37,7 @@ Yes. There are a number of options available. You can set your browser either to
 All of the ‘popular’ browsers allow you to change your cookie settings. These settings are usually found in the ‘options’ or ‘preferences’ menu of your browser. To help you better understand these settings, the following links may be helpful to you, otherwise you should use the ‘Help’ option in your browser for more details..
 
 [Chrome](http://www.google.com/support/chrome/bin/answer.py?hl=en&answer=95647)  
-[Internet Explorer 5](http://support.microsoft.com/kb/196955)  
-[Internet Explorer 6](http://support.microsoft.com/kb/283185)  
-[Internet Explorer 7 & 8](http://windows.microsoft.com/en-us/windows-vista/block-or-allow-cookies)  
-[Internet Explorer 9](http://windows.microsoft.com/en-gb/windows7/how-to-manage-cookies-in-internet-explorer-9)  
-[Internet Explorer 10](http://windows.microsoft.com/en-au/internet-explorer/delete-manage-cookies#ie=ie-10)  
-[Internet Explorer 11](http://windows.microsoft.com/en-au/internet-explorer/delete-manage-cookies#ie=ie-11)  
+[Internet Explorer (Versions 8-11. Use the drop down menu.)](http://windows.microsoft.com/en-US/internet-explorer/delete-manage-cookies#ie=ie-11)  
 [Firefox](http://support.mozilla.com/en-US/kb/Cookies)  
 [Safari](http://support.apple.com/kb/ph5042)
 
@@ -52,8 +47,14 @@ We recommend visiting [www.aboutcookies.org](http://www.aboutcookies.org/Default
 
 We work with, and use the following companies to maintain and improve our website. We ensure that any company that works with us and collects data, satisfies data protection requirements. If you have any questions at all, please feel free to [contact us](mailto:webmaster@gsma.com) and we’ll be happy to help.
 
-**Google Analytics**  
-We use performance type cookies such as [Google Analytics](http://www.google.com/analytics/) to better understand how visitors use our site, for example, which pages are viewed, how long customers spend visiting a particular page and how often they return to visit our site. This information assists our marketing and sales teams to understand which of our pages are performing well and which pages require improvement.
+**Google**  
+We use performance type cookies such as [Google Analytics](http://www.google.com/analytics/) to better understand how visitors use our site, for example, which pages are viewed, how long customers spend visiting a particular page and how often they return to visit our site. This information assists our marketing and sales teams to understand which of our pages are performing well and which pages require improvement. Across our sites we may also use [Google Adwords](http://www.google.co.uk/adwords/start/), [Dynamic Remarketing](https://www.thinkwithgoogle.com/products/dynamic-remarketing.html) and [Google Tag Manager](http://www.google.com/analytics/ce/nrs/tag-manager/).
+
+**Media Innovation Group**  
+Services that improve the process of acquiring, optimising, and measuring consumer touch points across digital channels. See [MIG website](http://www.themig.com/en-us/privacy.html) for more information
+
+**Adobe Typekit**  
+On occasions we use Typekit (from Adobe) to enhance website typography. Adobe use cookies within Typekit to track usage statistics. For more information, visit [Adobe’s Cookie Policy](http://www.adobe.com/uk/privacy/cookies.html).
 
 **Get Clicky**  
 Get Clicky is used for collecting anonymous website usage statistics. The information that is collected includes internet protocol (IP) addresses, type of browser, Internet Service Provider (ISP), date/time stamp, referring/entry/visited/exit pages, to analyse trends, administer the site, and track user’s movement around the site. Get Clicky sets the “_jsuid” cookie, which allows Get Clicky to create, for example, the following [usage profile](https://secure.getclicky.com/stats/?site_id=66529360). More information can be found in the Get Clicky [Privacy terms](http://getclicky.com/terms).
@@ -63,6 +64,10 @@ We use [Eloqua](http://www.eloqua.com/) to manage our email campaigns as well ou
 
 **Twitter**  
 GSMA uses a [Twitter](http://twitter.com/) ‘badge’ and ‘button’ as a quick way for users to post information, articles or stories from our sites to their Twitter account. Using this function requires the user to enter their twitter account details, but neither this, or any other personal information is collected by GSMA in this process.
+
+**App Nexus**  
+_uis; anj; icu; sess; token17; uuid2;  
+These cookies allow GSMA and its partners to target tailored advertising through the [App Nexus platform](http://www.appnexus.com/en). Anonymous data is collected on ad views, IP address (for location), page views & hardware/software type. Cookies can last for up to 3 years. App Nexus is compliant with US and EU advertising regulatory bodies, to learn more visit the App Nexus [privacy policy](http://www.appnexus.com/en/company/platform-privacy-policy).
 
 **WordPress**  
 [WordPress](http://wordpress.org/) provide the platform for the content of certain GSMA websites. WordPress uses cookies, or tiny pieces of information stored on your computer, to verify who you are. There are cookies for logged in users and for commenters.
@@ -74,4 +79,12 @@ GSMA uses [AddThis](http://www.addthis.com/) to help us spread our content acros
 We participate in the Bizographic Targeting Network (Bizo), an online B2B advertising network. When you visit our websites, Bizo places a bizographic (business demographic) cookie on your browser. This cookie contains no Personally Identifiable Information (PII). It identifies your professional bizographics and allows Bizo advertisers to display professionally relevant advertising on our pages. To learn more about how Bizo targets ads, visit their [web site](http://www.bizo.com/business_audience/privacy_policy). If you wish to ‘opt out’ of the targeted advertising delivered by Bizo, please visit the [Bizo opt out page](http://www.bizo.com/business_audience/opt_out). Or, you may opt out of multiple ad targeting cookies, including Bizo, via the [National Advertising Initiative opt-out page](http://www.networkadvertising.org/managing/opt_out.asp).
 
 **Disqus**  
-Discus provides discussion forum software enabling us to plug powerful functionality into our sites and engage in conversations with viewers. 
+Discus provides discussion forum software enabling us to plug powerful functionality into our sites and engage in conversations with viewers.
+
+**Facebook Connect and Social Plugins**  
+Facebook social plugins are things like the Like button, the Share button, comments and other tools that let you share your experience off of Facebook with your friends and others on Facebook.
+
+Social plugins include:
+
+**Like button:** Click Like to share and connect with things from other websites that you find interesting **Share button:** Click Share to write something about a link and then post it to your Timeline **Embedded posts:** Add any public post from Facebook to your blog or website **Comments box:** Publicly comment on another website using your Facebook account 
+
