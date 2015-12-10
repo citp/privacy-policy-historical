@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the amittenfullofsavings.com privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611190540id_/http%3A//www.amittenfullofsavings.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amittenfullofsavings.com privacy policy that was archived on 2015-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151210122850id_/http%3A//www.amittenfullofsavings.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - A Mitten Full of Savings
 
-Privacy Policy for amittenfullofsavings.com
+**Privacy Policy for amittenfullofsavings.com**
 
 The privacy of our visitors to amittenfullofsavings.com is important to us.
 
@@ -23,3 +23,24 @@ You can chose to disable or selectively turn off our cookies or third-party cook
 **Advertising**
 
 We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: <http://www.networkadvertising.org/managing/opt_out.asp>
+
+**Links to other websites**
+
+Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
+
+**Controlling your personal information**
+
+You may choose to restrict the collection or use of your personal information in the following ways:
+
+  * whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes
+  * if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by contacting us.
+
+
+
+We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.
+
+**Opt Out**
+
+For information about opting out of Gourmet Ads and ad serving partners please visit <http://www.gourmetads.com/about/privacy-policy>
+
+If you believe that any information we are holding on you is incorrect or incomplete, please contact us.
