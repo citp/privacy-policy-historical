@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the genengnews.com privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626122908id_/http%3A//www.genengnews.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the genengnews.com privacy policy that was archived on 2015-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151210012843id_/http%3A//www.genengnews.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy | GEN
 
