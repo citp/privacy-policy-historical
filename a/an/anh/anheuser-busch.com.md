@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the anheuser-busch.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607185711id_/http%3A//anheuser-busch.com/index.php/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anheuser-busch.com privacy policy that was archived on 2015-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151210153244id_/http%3A//anheuser-busch.com/index.php/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Anheuser-Busch.com
 
