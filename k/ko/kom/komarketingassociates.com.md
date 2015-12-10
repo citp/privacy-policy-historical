@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the komarketingassociates.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610011753id_/http%3A//www.komarketingassociates.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the komarketingassociates.com privacy policy that was archived on 2015-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151210122911id_/http%3A//www.komarketingassociates.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | KoMarketing
 
