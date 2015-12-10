@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thevideoink.com privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628224459id_/http%3A//www.thevideoink.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thevideoink.com privacy policy that was archived on 2015-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151210122644id_/http%3A//www.thevideoink.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | VideoInk
+# Privacy Policy - VideoInk
 
 **VideoInk**[ **Privacy  Policy**](http://gigaom.com/privacy-policy/ "Permalink to Privacy Policy") ****
 
