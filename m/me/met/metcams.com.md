@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the metcams.com privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612015905id_/http%3A//www.metcams.com/privacy.html%3F) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the metcams.com privacy policy that was archived on 2015-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151210230519id_/http%3A//www.metcams.com/privacy.html%3F) for the most accurate reproduction.*
 
 # MetCams - Privacy Policy - MetCams
 
