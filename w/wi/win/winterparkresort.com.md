@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the winterparkresort.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607193503id_/http%3A//www.intrawest.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the winterparkresort.com privacy policy that was archived on 2015-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151210084159id_/http%3A//www.intrawest.com/privacy) for the most accurate reproduction.*
 
 # Intrawest - A Leader in Experiential Destination Resorts -
 
@@ -45,20 +45,23 @@ This Privacy Policy contains ten principles that are observed by Intrawest regar
 
 **Personal information** \- information about an identifiable individual, but does not include aggregated information that cannot be associated with a specific individual. Personal information also excludes certain information as is excluded pursuant to applicable legislation or other regulations, such as publicly available information or business contact information, as and when applicable.
 
-**Intrawest** \- Intrawest Holdings S.à r.l. and its subsidiaries and certain designated affiliates, as they may exist from time to time including:
-
-Intrawest ULC  
-Alpine Helicopters Ltd.  
-Blue Mountain Resorts Limited  
-Canadian Mountains Holidays Inc.  
+**Intrawest** - Intrawest Holdings S.à r.l. and its subsidiaries and certain designated affiliates, as they may exist from time to time including but not limited to:  
+Alpine Aerotech LP  
+Blue Mountain Resorts LP  
+Canadian Mountains Holidays LP  
 Intrawest California Holdings, Inc.  
+Intrawest Colorado Events Marketing, Inc.  
 Intrawest Golf Holdings, Inc.  
 Intrawest Hospitality Management, Inc.  
-Intrawest/Lodestar Limited Partnership  
-Intrawest Resorts, Inc.  
+Intrawest Marketing, Inc.  
+Intrawest ULC  
+Intrawest U.S. Commercial Property Management, Inc.  
+ICRE, Inc.  
 Intrawest Resort Ownership U.S. Corporation  
 Intrawest Retail Group, Inc.  
+Intrawest Shared Services, Inc.  
 Intrawest/Winter Park Holdings Corporation  
+Intrawest Ventures, Inc.  
 Intrawest U.S. Holdings Inc.  
 IW Resorts Limited Partnership  
 Mont Tremblant Resorts and Company, Limited Partnership  
@@ -68,8 +71,7 @@ Playground Real Estate Inc.
 Resort Reservations Network, Inc.  
 Snowshoe Mountain, Inc.  
 Steamboat Ski & Resort Corporation  
-The Stratton Corporation  
-
+The Stratton Corporation
 
 **Third party** \- an individual or organization outside Intrawest.
 
@@ -258,8 +260,7 @@ Intrawest
 1621 18th Street, Suite #300  
 Denver, CO 80202  
   
-**UNSUBSCRIBING**  
-
+**UNSUBSCRIBING**
 
 If you prefer not to receive any additional promotional material please email us at [yourprivacy@intrawest.com](mailto:yourprivacy@intrawest.com). If you have questions about the collection or use of your information please call 1-877-477-6777.
 
