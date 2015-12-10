@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seriouslyforreal.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608094000id_/http%3A//seriouslyforreal.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seriouslyforreal.com privacy policy that was archived on 2015-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151210100321id_/http%3A//seriouslyforreal.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Seriously, For Real?
 
