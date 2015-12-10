@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cookienameddesire.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610235705id_/http%3A//cookienameddesire.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cookienameddesire.com privacy policy that was archived on 2015-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151210091545id_/http%3A//cookienameddesire.com/privacy) for the most accurate reproduction.*
 
 # Privacy | A Cookie Named Desire
 
@@ -20,11 +20,11 @@ Our Site may use “cookies” to enhance User experience. User’s web browser 
 
 A Cookie Named Desire may collect and use Users personal information for the following purposes:
 
-  * _\- To personalize user experience_  
+  * _– To personalize user experience_  
 We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.
-  * _\- To run a promotion, contest, survey or other Site feature_  
+  * _– To run a promotion, contest, survey or other Site feature_  
 To send Users information they agreed to receive about topics we think will be of interest to them.
-  * _\- To send periodic emails_  
+  * _– To send periodic emails_  
 If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
 
 
@@ -72,4 +72,4 @@ cookienameddesire@gmail.com
 
 This document was last updated on March 26, 2014
 
-[](http://www.dmca.com/Protection/Status.aspx?ID=bc4e832e-f927-423c-84c2-48bcb0910b35 "Content Protection by DMCA.com")
+[](https://www.pinterest.com/pin/create/button/)
