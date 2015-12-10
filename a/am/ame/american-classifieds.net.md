@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the american-classifieds.net privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608121122id_/http%3A//american-classifieds.net/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the american-classifieds.net privacy policy that was archived on 2015-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151210045534id_/http%3A//american-classifieds.net/privacypolicy.php) for the most accurate reproduction.*
 
 # American Classifieds
 
@@ -9,6 +9,12 @@ At american-classifieds.net (the Site) we understand and respect your concerns a
 We may use cookies to store information. The intent of cookies is to identify your computer preferences and searching patterns. We will not disclose the information collected with cookies to third parties except as required by a valid legal process. 
 
 Most internet browsers are set up to accept cookies. You can chose to disable or selectively turn off our cookies or third-party cookies in your browser settings. However, this can affect how you are able to interact with our site as well as other websites. 
+
+**Third-Party Advertising Companies**
+
+We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. 
+
+[Read here how Google uses data when you use their partners' sites or apps](http://www.google.com/intl/en/policies/privacy/partners/). 
 
 **What Information Do We Collect?**
 
@@ -23,7 +29,3 @@ All postings, web logs and other records may be stored in our database or archiv
 **Links to Other Sites**
 
 The sites displayed as search results or linked to by the Site are developed by people over whom we have no control. These other sites may send their own cookies to users, collect data, or solicit personal information. It is important that you preview their Privacy Policy and remove any cookies from your computer if you have any concerns. 
-
-**Third-Party Advertising Companies**
-
-We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. 
