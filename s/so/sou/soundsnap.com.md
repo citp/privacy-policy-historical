@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the soundsnap.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607080157id_/http%3A//www.soundsnap.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the soundsnap.com privacy policy that was archived on 2015-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151210122001id_/http%3A//www.soundsnap.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy Sounds
 
@@ -18,6 +18,8 @@ SoundSnap is based in the European Union and is intended for and directed to vis
 Children under the age of 13 are not permitted to use SoundSnap and no part of the website is directed to children under the age of 13. If at any point SoundSnap becomes aware that a child under 13 years of age has posted personal information on the website, it will be deleted from our records.
 
 SoundSnap makes every reasonable and consistent effort to protect and secure all visitors’ personal information and stores all information in limited access servers. SoundSnap uses technical safeguards to preserve the integrity and security of information. 
+
+In order to ensure maximum protection for recurring accounts, Soundsnap uses a state-of-the art tokenization system to manage payment information for recurring payments. This system uses a cryptographic key to store payment information but no credit card information is stored on the server.
 
 However, please note that this is not a guarantee that such information may not be accessed, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards. No security system is impenetrable and risks of breach exist in any system.
 
