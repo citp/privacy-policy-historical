@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the westlaw.com privacy policy that was archived on 2014-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141124174450id_/http%3A//web2.westlaw.com/events/tracking.aspx%3Ftf%3D90%26tc%3D17%26redirectto%3Dhttp%253A%252F%252Fstore%252Ewestlaw%252Ecom%252Flegal%252Dnotices%252Fwestlaw%252Fprivacy%252Fdefault%252Easpx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the westlaw.com privacy policy that was archived on 2015-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151210081547id_/http%3A//web2.westlaw.com/events/tracking.aspx%3Ftf%3D90%26tc%3D17%26redirectto%3Dhttp%253A%252F%252Fstore%252Ewestlaw%252Ecom%252Flegal%252Dnotices%252Fwestlaw%252Fprivacy%252Fdefault%252Easpx) for the most accurate reproduction.*
 
 # Westlaw Classic Online Privacy Statement | Legal Solutions
 
