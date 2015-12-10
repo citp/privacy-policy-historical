@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nfluk.com privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611102740id_/http%3A//www.nfluk.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nfluk.com privacy policy that was archived on 2015-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151210035236id_/http%3A//www.nfluk.com/privacy.html) for the most accurate reproduction.*
 
 # NFLUK.com | Privacy Policy
 
@@ -117,6 +117,8 @@ We and/or our vendor will use this information to complete the financial or othe
 ·   **Business Transfers:** In the event that all or substantially all of our assets are sold or transferred to another party, or another transaction occurs in which your personally identifiable information is one of the business assets transferred, all personally identifiable information that has been collected and saved may be one of the business assets we transfer. You will be notified of such a transfer in accordance with the "Changes to the Policy" section below.
 
 ·   **Administrative or Legal Process:** We or others may disclose your personal information to third parties without notice to you in order to comply with applicable law, law enforcement agencies, to protect our or third parties' rights, or to protect the rights of other users of the Website.
+
+·   Some of these parties may be located in countries, such as the United States, other than your own, whose privacy and data protection laws may not be equivalent to those in your country of residence.
 
 **5.          LINKS TO OTHER WEBSITES** You should be aware that when you are on the Website you could be directed to other websites beyond our control. For example, if you "click" on a banner advertisement, the "click" may take you off the Website onto a different website. This includes links from advertisers, sponsors and marketing partners that may use the Website's logo as part of a co-branding agreement. These other websites may send their own cookies to you, independently collect data or solicit personal information and may or may not have their own published privacy policies. If you visit a website that is linked to the Website, you should consult that website's privacy policy before providing any personal information.
 
