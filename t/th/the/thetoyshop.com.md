@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thetoyshop.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120231223id_/http%3A//www.thetoyshop.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thetoyshop.com privacy policy that was archived on 2015-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151210032823id_/http%3A//www.thetoyshop.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - The Entertainer
 
 **TheToyShop.com** is a trading name of The Entertainer (Amersham) Ltd. Registered in the United Kingdom.
 
