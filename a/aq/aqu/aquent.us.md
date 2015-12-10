@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aquent.us privacy policy that was archived on 2015-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150510202658id_/http%3A//aquent.com/resources/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aquent.us privacy policy that was archived on 2015-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151210205220id_/http%3A//aquent.com/resources/privacy.htm) for the most accurate reproduction.*
 
 # Creative Staffing Agency | Privacy
 
@@ -24,11 +24,11 @@ Aquent may provide links to the websites of a limited number of third parties. T
 
 ### Notice
 
-In the course of conducting its business and to comply with government regulations, Aquent collects certain Personal Data. Personal Data is information related to an identified or identifiable person. Names, home addresses, email addresses, personnel file and benefits information are all examples of Personal Data. 
+In the course of conducting its business and to comply with government regulations, Aquent collects certain Personal Data. Personal Data is information related to an identified or identifiable person. Names, home addresses, email addresses, credit card information, personnel file and benefits information are all examples of Personal Data. 
 
 ### Use
 
-Aquent uses this information for the purpose of identifying individuals personally and communicating with them. In the case of Aquent Employees Aquent also uses the information for the purpose of complying with human resource requirements, complying with government regulations, and providing employee benefits. Aquent may request employees, applicants, customers and registered users of the Aquent website to complete questionnaires or surveys regarding their experience with Aquent or their use of the website. Responses are used by Aquent solely to assist it in improving services or the navigation features and functionality of the website. Participation in such surveys is voluntary.
+Aquent uses this information for the purpose of identifying individuals personally, communicating with them, and for billing and payment. In the case of Aquent Employees Aquent also uses the information for the purpose of complying with human resource requirements, complying with government regulations, and providing employee benefits. Aquent may request employees, applicants, customers and registered users of the Aquent website to complete questionnaires or surveys regarding their experience with Aquent or their use of the website. Responses are used by Aquent solely to assist it in improving services or the navigation features and functionality of the website. Participation in such surveys is voluntary.
 
 ### Cookies
 
@@ -81,4 +81,4 @@ For questions regarding our website security, email us at [questions@aquent.com]
 
 Questions or concerns regarding this Privacy Policy can be directed to the Site Coordinator by email at [privacy@aquent.com](mailto:privacy@aquent.com "privacy@aquent.com").
 
-_Effective Date 29 July 2013_
+_Updated 8 July 2015_
