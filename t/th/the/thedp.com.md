@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thedp.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609013146id_/http%3A//www.thedp.com/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thedp.com privacy policy that was archived on 2015-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151210065648id_/http%3A//www.thedp.com/page/privacy) for the most accurate reproduction.*
 
 # The Daily Pennsylvanian - Privacy Policy
 
