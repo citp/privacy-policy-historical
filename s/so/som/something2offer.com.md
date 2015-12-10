@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the something2offer.com privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612014624id_/http%3A//something2offer.com/about/blog-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the something2offer.com privacy policy that was archived on 2015-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151210210125id_/http%3A//something2offer.com/about/blog-privacy-policy) for the most accurate reproduction.*
 
 # Blog Privacy Policy - Something 2 OfferSomething 2 Offer
 
@@ -11,3 +11,5 @@ I do use Google Analytics and Jetpack Plugin in order to provide statistics whic
 When you click on links that take you away from Something 2 Offer that new site may collect your data or store your data as a cookie. You will need to read their disclosure and privacy statements to see how your information is used by each individual company or website.
 
 Blog comments just like tweets and Facebook posts are PUBLIC. If you do not want others to see this information publicly then do not leave a comment. If you need to contact me privately then by all means please do so.
+
+[](http://www.shareasale.com/r.cfm?b=697397&u=722456&m=55858&urllink=&afftrack=)
