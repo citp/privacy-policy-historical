@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the souq.com privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611150224id_/http%3A//uae.souq.com/ae-en/privacy-policy/c) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the souq.com privacy policy that was archived on 2015-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151210074151id_/http%3A//uae.souq.com/ae-en/privacy-policy/c) for the most accurate reproduction.*
 
 # Souq.com | Privacy policy
 
@@ -149,3 +149,5 @@ If you are concerned that your username or password has been compromised, please
 **How you can contact us about privacy questions**
 
 If you have questions or concerns about our collection and use of your personal information, please contact our customer support team at the "Customer Support" link at the top of any Site webpage. 
+
+Souq.com FZ LLC, Dubai Internet City, Thuraya 2 Tower, Office 1902 Dubai, United Arab Emirates 
