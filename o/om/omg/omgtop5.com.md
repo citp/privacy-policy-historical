@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the omgtop5.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607204910id_/http%3A//www.omgtop5.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the omgtop5.com privacy policy that was archived on 2015-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151210160339id_/http%3A//www.omgtop5.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -48,7 +48,7 @@ Note that you can change your browser settings to disable cookies if you have pr
 
 We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.
 
-## **Advertising** : **-**
+## **Advertising** : **–**
 
 Advertising partners, who may set cookies, may deliver ads appearing on our site to Users. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile non-personal identification information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This privacy policy does not cover the use of cookies by any advertisers.
 
