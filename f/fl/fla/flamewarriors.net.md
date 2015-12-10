@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flamewarriors.net privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609202548id_/http%3A//www.flamewarriors.net/forum/index.php/page%2Cpage3880.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flamewarriors.net privacy policy that was archived on 2015-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151210122012id_/http%3A//www.flamewarriors.net/forum/index.php/page%2Cpage3880.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
