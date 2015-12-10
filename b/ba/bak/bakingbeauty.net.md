@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bakingbeauty.net privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607142126id_/http%3A//www.bakingbeauty.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bakingbeauty.net privacy policy that was archived on 2015-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151210205042id_/http%3A//www.bakingbeauty.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Baking Beauty
 
@@ -74,7 +74,6 @@ If you believe that any information we are holding on you is incorrect or incomp
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
-http://www.bakingbeauty.net
-
+http://www.bakingbeauty.net  
 krystlekouture at yahoo dot com  
 
