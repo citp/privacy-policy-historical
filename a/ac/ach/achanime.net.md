@@ -1,53 +1,57 @@
-> *The following text is extracted and transformed from the achanime.net privacy policy that was archived on 2014-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141229125148id_/http%3A//www.achanime.net/p/privacy-policy-for-achanime.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the achanime.net privacy policy that was archived on 2015-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151210072357id_/http%3A//www.achanime.net/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | ACHanime | Lyrics and Ost Anime
+# Privacy Policy | ACHanime
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at [http://achanime.blogspot.com/p/contact.html](mailto:hanis.saputra@gmail.com).  
-At http://achanime.blogspot.com/ we consider the privacy of our visitors to be extremely important. This privacy policy document describes in detail the types of personal information is collected and recorded by http://achanime.blogspot.com/ and how we use it.   
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at [http://www.achanime.net/contact-us/](https://link.safelinkconverter.com/review.php?id=bSFfbHQoOiFjaCFuX20pQGgodG0hX2wuYyht&c=1&user=47385).
+
+At www.achanime.net we consider the privacy of our visitors to be extremely important. This privacy policy document describes in detail the types of personal information is collected and recorded by www.achanime.net and how we use it.
+
 **Log Files**  
-Like many other Web sites, http://achanime.blogspot.com/ makes use of log files. These files merely logs visitors to the site - usually a standard procedure for hosting companies and a part of hosting services's analytics. The information inside the log files includes internet protocol (IP) addresses, browser type, Internet Service Provider (ISP), date/time stamp, referring/exit pages, and possibly the number of clicks. This information is used to analyze trends, administer the site, track user's movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.   
+Like many other Web sites, www.achanime.net makes use of log files. These files merely logs visitors to the site – usually a standard procedure for hosting companies and a part of hosting services’s analytics. The information inside the log files includes internet protocol (IP) addresses, browser type, Internet Service Provider (ISP), date/time stamp, referring/exit pages, and possibly the number of clicks. This information is used to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
+
 **Cookies and Web Beacons**  
-http://achanime.blogspot.com/ uses cookies to store information about visitors' preferences, to record user-specific information on which pages the site visitor accesses or visits, and to personalize or customize our web page content based upon visitors' browser type or other information that the visitor sends via their browser.   
-**DoubleClick DART Cookie**  
-→ Google, as a third party vendor, uses cookies to serve ads on http://achanime.blogspot.com/.  
-→ Google's use of the DART cookie enables it to serve ads to our site's visitors based upon their visit to http://achanime.blogspot.com/ and other sites on the Internet.   
-→ Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - <http://www.google.com/privacy_ads.html>   
-**Our Advertising Partners**  
-Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include ....... 
+www.achanime.net uses cookies to store information about visitors’ preferences, to record user-specific information on which pages the site visitor accesses or visits, and to personalize or customize our web page content based upon visitors’ browser type or other information that the visitor sends via their browser.
 
-  * Google
-  * Commission Junction
-  * Amazon
-  * Widget Bucks
-  * Adbrite
-  * Clickbank
-  * Linkshare
-  * Yahoo! Publisher Network
-  * Azoogle
-  * Chitika
-  * Kontera
-  * TradeDoubler
-  * Ads-Click
+**DoubleClick DART Cookie**
 
+→ Google, as a third party vendor, uses cookies to serve ads on www.achanime.net.
 
+→ Google’s use of the DART cookie enables it to serve ads to our site’s visitors based upon their visit to www.achanime.net and other sites on the Internet.
 
-_While each of these advertising partners has their own Privacy Policy for their site, an updated and hyperlinked resource is maintained here:[Privacy Policies](http://www.privacypolicyonline.com/privacy-policies).  
-You may consult this listing to find the privacy policy for each of the advertising partners of http://achanime.blogspot.com/._  
-These third-party ad servers or ad networks use technology in their respective advertisements and links that appear on http://achanime.blogspot.com/ and which are sent directly to your browser. They automatically receive your IP address when this occurs. Other technologies (such as cookies, JavaScript, or Web Beacons) may also be used by our site's third-party ad networks to measure the effectiveness of their advertising campaigns and/or to personalize the advertising content that you see on the site.   
-http://achanime.blogspot.com/ has no access to or control over these cookies that are used by third-party advertisers.   
-**Third Party Privacy Policies**  
-You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. http://achanime.blogspot.com/'s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. You may find a comprehensive listing of these privacy policies and their links here: [Privacy Policy Links](http://www.privacypolicyonline.com/privacy-policy-links "Privacy Policy Links").  
-If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites. [What Are Cookies?](http://www.privacypolicyonline.com/what-are-cookies)  
-**Children's Information**  
-We believe it is important to provide added protection for children online. We encourage parents and guardians to spend time online with their children to observe, participate in and/or monitor and guide their online activity. http://achanime.blogspot.com/ does not knowingly collect any personally identifiable information from children under the age of 13. If a parent or guardian believes that http://achanime.blogspot.com/ has in its database the personally-identifiable information of a child under the age of 13, please contact us immediately (using the contact in the first paragraph) and we will use our best efforts to promptly remove such information from our records.   
-**Online Privacy Policy Only**  
-This privacy policy applies only to our online activities and is valid for visitors to our website and regarding information shared and/or collected there. This policy does not apply to any information collected offline or via channels other than this website.  
-**Consent**  
-By using our website, you hereby consent to our privacy policy and agree to its terms. 
+→ Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – [http://www.google.com/privacy_ads.html](https://link.safelinkconverter.com/review.php?id=aHR0cDovL3d3dy5nb29nbGUuY29tL3ByaXZhY3lfYWRzLmh0bWw=&c=0&user=47385 "Opt out of the Dart Cookie")
+
+**Our Advertising Partners**
+
+Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include …….
+
+_While each of these advertising partners has their own Privacy Policy for their site, an updated and hyperlinked resource is maintained here:[Privacy Policies](https://link.safelinkconverter.com/review.php?id=aHR0cDovL3d3dy5wcl92IWN5cChsX2N5KG5sX24pLmMobS9wcl92IWN5LXAobF9jXylz&c=1&user=47385)._
+
+ _You may consult this listing to find the privacy policy for each of the advertising partners of www.achanime.net._
+
+These third-party ad servers or ad networks use technology in their respective advertisements and links that appear on www.achanime.net and which are sent directly to your browser. They automatically receive your IP address when this occurs. Other technologies (such as cookies, JavaScript, or Web Beacons) may also be used by our site’s third-party ad networks to measure the effectiveness of their advertising campaigns and/or to personalize the advertising content that you see on the site.
+
+www.achanime.net has no access to or control over these cookies that are used by third-party advertisers.
+
+**Third Party Privacy Policies**
+
+You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. www.achanime.net’s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. You may find a comprehensive listing of these privacy policies and their links here: [Privacy Policy Links](https://link.safelinkconverter.com/review.php?id=aHR0cDovL3d3dy5wcl92IWN5cChsX2N5KG5sX24pLmMobS9wcl92IWN5LXAobF9jeS1sX25rcw==&c=1&user=47385 "Privacy Policy Links").
+
+If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites. [What Are Cookies?](https://link.safelinkconverter.com/review.php?id=aHR0cDovL3d3dy5wcl92IWN5cChsX2N5KG5sX24pLmMobS93aCF0LSFyKS1jKChrXylz&c=1&user=47385)
+
+**Children’s Information**  
+We believe it is important to provide added protection for children online. We encourage parents and guardians to spend time online with their children to observe, participate in and/or monitor and guide their online activity.  
+www.achanime.net does not knowingly collect any personally identifiable information from children under the age of 13. If a parent or guardian believes that www.achanime.net has in its database the personally-identifiable information of a child under the age of 13, please contact us immediately (using the contact in the first paragraph) and we will use our best efforts to promptly remove such information from our records.
+
+**Online Privacy Policy Only**
+
+This privacy policy applies only to our online activities and is valid for visitors to our website and regarding information shared and/or collected there.  
+This policy does not apply to any information collected offline or via channels other than this website.
+
+**Consent**
+
+By using our website, you hereby consent to our privacy policy and agree to its terms.
 
 **Update**  
-This Privacy Policy was last updated on: Thursday, October 30th, 2014. [](http://www.privacypolicyonline.com/ "PrivacyPolicyOnline.com Approved Site")  
+This Privacy Policy was last updated on: Saturday, March 28th, 2015.  
+[](https://link.safelinkconverter.com/review.php?id=aHR0cDovL3d3dy5Qcl92IWN5UChsX2N5T25sX24pLmMobQ==&c=1&user=47385 "PrivacyPolicyOnline.com Approved Site")  
 _Should we update, amend or make any changes to our privacy policy, those changes will be posted here._
-
-  
-
