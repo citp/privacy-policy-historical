@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the carrington.edu privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611033749id_/http%3A//carrington.edu/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carrington.edu privacy policy that was archived on 2015-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151210142030id_/http%3A//carrington.edu/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Carrington.edu
 
@@ -50,12 +50,12 @@ If you have any questions regarding this privacy policy or would like to have yo
 
 Should you have other questions or concerns about this privacy policy, contact us at:
 
-Carrington Colleges Group, Inc.  
-27401 Los Altos, Suite 400  
-Mission Viejo, California 92691  
+Carrington College  
+7801 Folsom Blvd #210  
+Sacramento, CA  95826  
 1-877-205-1458  
 web@cc.edu
 
 If we are required to provide you with notice of a particular event or incident, we will send you that notice by email, telephone, or mail.
 
-Last revised on May 11, 2015.
+Last revised on August 31, 2015.
