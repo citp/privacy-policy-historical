@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mommayoungathome.com privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611102952id_/http%3A//mommayoungathome.com/about-me/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mommayoungathome.com privacy policy that was archived on 2015-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151210160421id_/http%3A//mommayoungathome.com/about-me/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Momma Young
+# Privacy Policy - Momma Young at Home
 
 This privacy policy sets out how Momma Young at Home  uses and protects any information that you give while using  mommayoungathome.com
 
