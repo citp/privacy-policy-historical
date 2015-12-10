@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the eveningflavors.com privacy policy that was archived on 2015-06-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150611102921id_/http%3A//eveningflavors.com/Privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the eveningflavors.com privacy policy that was archived on 2015-12-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151210035244id_/http%3A//eveningflavors.com/Privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
   <title>  Privacy Policy - Online Bangalore Restaurants, Pubs, Parties Guide from eveningflavors.com  </title>
@@ -40,8 +40,11 @@
 
 
 
+
+
+
 <link type="text/css" rel="stylesheet" href="/js/BookingConfirm.css">
-<script async="" src="https://embed.tawk.to/5572b8d1b9e802843c991d37/default" charset="UTF-8" crossorigin="*"></script><script type="text/javascript" src="/js/jquery.js"></script>
+<script type="text/javascript" src="/js/jquery.js"></script>
 <script type="text/javascript" src="/login/popup.js"></script>
 <script src="http://connect.facebook.net/en_US/all.js#xfbml=1"></script>
 
@@ -88,7 +91,7 @@
 			      });
 		 	}); */
 		 	
-		 	function loginFacebook(pageFromReq,wishTypeReq,restNameFromReq,cityFromReq,restIdFromReq,userTypeFromReq,loginIdRedirectFromReq) {  	  
+		 	function loginFacebook(pageFromReq,wishTypeReq,restNameFromReq,cityFromReq,restIdFromReq,userTypeFromReq,loginIdRedirectFromReq,pax123,date123,time123,slot123) {  	  
 				var baseURL ;
 				 var page = pageFromReq;
 				 var restaurantid = restIdFromReq;
@@ -97,6 +100,10 @@
 				   var cityName = cityFromReq;
 				 var userType = userTypeFromReq;
 				 var loginIdRedirect = loginIdRedirectFromReq;
+				 var pax=pax123;
+				 var date=date123;
+				 var time=time123;
+				 var slot=slot123;
 		        FB.login(function(login_response){
 			        // if we have a session, query for the user's profile picture and name
 			        FB.api(
@@ -110,7 +117,7 @@
                        var index=profileImgSrc.indexOf(".jpg");
                        var userEmail = user.email;
 		               profileImgSrc= profileImgSrc.substring(0,index-1)+"n.jpg";
-						baseURL='/loginOpenId/faceBookLoginVerify.jsp?userType='+userType+'&userFaceBookLoginId='+user.email+'&userFirstName='+user.first_name+'&userLastName='+user.last_name+'&BirthDay='+user.birthday+'&userGenderType='+user.sex+'&profileImgSrc='+profileImgSrc+'&restaurantid='+restaurantid+'&page='+page+'&loginIdRedirect='+loginIdRedirect+'&fb_uid='+user.uid+"&resId="+restaurantid+"&wishtype="+wishType+"&restName="+restName+"&cityName="+cityName;
+						baseURL='/loginOpenId/faceBookLoginVerify.jsp?userType='+userType+'&userFaceBookLoginId='+user.email+'&userFirstName='+user.first_name+'&userLastName='+user.last_name+'&BirthDay='+user.birthday+'&userGenderType='+user.sex+'&profileImgSrc='+profileImgSrc+'&restaurantid='+restaurantid+'&page='+page+'&loginIdRedirect='+loginIdRedirect+'&fb_uid='+user.uid+"&resId="+restaurantid+"&wishtype="+wishType+"&restName="+restName+"&cityName="+cityName+"&pax="+pax+"&date="+date+"&time="+time+"&pickedslot123="+slot;
 						
 						if(userEmail != null && userEmail != '' && userEmail != 'null'){
 						 	document.getElementById("wrongmessage").hidden=true;
@@ -170,8 +177,14 @@
 				    position.find('option:selected').prependTo(position);
 				}); */
 				
-				
 				var count=0;
+				function CallCityDropDown(){
+					$("#openPop").show();
+				}
+				function callCity(city){
+					window.location = "/"+city;
+				}
+				
 				function changeDownIcon()
 				{
 					if(count==0)
@@ -286,70 +299,502 @@ function showDiv1(){
 </script>-->
 
 <div id="HeaderMain">
-	<form>
+	
 		<div id="LogoBox">
-			<a href="/Bangalore"><img src="/EVFNewImages/HomePageImages/Evf_Logo.png" width="302px" height="56px" border="0"></a>
+			<a href="/Bangalore/"><img src="/EVFNewImages/HomePageImages/Evf_Logo.png" width="302px" height="56px" border="0"></a>
 				
 		</div>
-		<div id="CityBox">
-			<div style="float:left;display:block;color:#777777;font-family:open sans;font-size:13px;">
-			Your City
+		<div id="CityAndSearch" style="float:right;">
+			<div id="CityBox" style="float:left;">
+				<div style="float:left;display:block;color:#777777;font-family:open sans;font-size:13px;">
+				Your City
+				</div>
+				<form>
+				
+						<div onclick="javascript:CallCityDropDown();" id="clickPop">
+							Bangalore
+						</div>
+					
+				<div id="openPop">
+						<div style="float:left;display:block;width:100%;">
+							<div style="float:left;display:block;width:100%;">
+								<span id="CityHead">Metros</span>
+							</div>
+							<div style="float:left;display:inline;width:3%;"> </div>
+							<div style="float:left;display:inline;width:97%;margin-bottom: 5px;line-height: 27px;">
+							
+								<div id="EachCityDiv">
+									
+										<a href="javascript:callCity('Ahmedabad')" style="padding-left: 10px;padding-right: 10px;color: #777777;text-decoration: none;line-height: 25px;padding-top: 3px;padding-bottom: 3px;" onmouseover="this.style.background='#ea3947';this.style.color='#ffffff';" onmouseout="this.style.background='#ffffff';this.style.color='#777777';">
+											Ahmedabad
+										</a>
+									
+									
+								</div>
+							
+								<div id="EachCityDiv">
+									
+										<a href="javascript:callCity('Bangalore')" style="padding-left: 10px;padding-right: 10px;color: #ffffff;text-decoration: none;background-color:#ea3947;line-height: 25px;padding-top: 3px;padding-bottom: 3px; ">
+											Bangalore
+										</a>
+									
+									
+								</div>
+							
+								<div id="EachCityDiv">
+									
+										<a href="javascript:callCity('Chennai')" style="padding-left: 10px;padding-right: 10px;color: #777777;text-decoration: none;line-height: 25px;padding-top: 3px;padding-bottom: 3px;" onmouseover="this.style.background='#ea3947';this.style.color='#ffffff';" onmouseout="this.style.background='#ffffff';this.style.color='#777777';">
+											Chennai
+										</a>
+									
+									
+								</div>
+							
+								<div id="EachCityDiv">
+									
+										<a href="javascript:callCity('Delhi')" style="padding-left: 10px;padding-right: 10px;color: #777777;text-decoration: none;line-height: 25px;padding-top: 3px;padding-bottom: 3px;" onmouseover="this.style.background='#ea3947';this.style.color='#ffffff';" onmouseout="this.style.background='#ffffff';this.style.color='#777777';">
+											Delhi
+										</a>
+									
+									
+								</div>
+							
+								<div id="EachCityDiv">
+									
+										<a href="javascript:callCity('Hyderabad')" style="padding-left: 10px;padding-right: 10px;color: #777777;text-decoration: none;line-height: 25px;padding-top: 3px;padding-bottom: 3px;" onmouseover="this.style.background='#ea3947';this.style.color='#ffffff';" onmouseout="this.style.background='#ffffff';this.style.color='#777777';">
+											Hyderabad
+										</a>
+									
+									
+								</div>
+							
+								<div id="EachCityDiv">
+									
+										<a href="javascript:callCity('Kolkata')" style="padding-left: 10px;padding-right: 10px;color: #777777;text-decoration: none;line-height: 25px;padding-top: 3px;padding-bottom: 3px;" onmouseover="this.style.background='#ea3947';this.style.color='#ffffff';" onmouseout="this.style.background='#ffffff';this.style.color='#777777';">
+											Kolkata
+										</a>
+									
+									
+								</div>
+							
+								<div id="EachCityDiv">
+									
+										<a href="javascript:callCity('Mumbai')" style="padding-left: 10px;padding-right: 10px;color: #777777;text-decoration: none;line-height: 25px;padding-top: 3px;padding-bottom: 3px;" onmouseover="this.style.background='#ea3947';this.style.color='#ffffff';" onmouseout="this.style.background='#ffffff';this.style.color='#777777';">
+											Mumbai
+										</a>
+									
+									
+								</div>
+							
+								<div id="EachCityDiv">
+									
+										<a href="javascript:callCity('Pune')" style="padding-left: 10px;padding-right: 10px;color: #777777;text-decoration: none;line-height: 25px;padding-top: 3px;padding-bottom: 3px;" onmouseover="this.style.background='#ea3947';this.style.color='#ffffff';" onmouseout="this.style.background='#ffffff';this.style.color='#777777';">
+											Pune
+										</a>
+									
+									
+								</div>
+							
+							</div>
+							<div style="float:left;display:block;width:100%;border-top:1px solid #f8f8f8;padding-top: 0.3em;">
+								<span id="CityHead">Other Cities</span>
+							</div>
+							<div style="float:left;display:inline;width:3%;"> </div>
+							<div style="float:left;display:inline;width:97%;">
+							
+								<div id="EachCityDiv">
+									
+										<a href="javascript:callCity('Amritsar')" style="padding-left: 10px;padding-right: 10px;color: #777777;text-decoration: none;line-height: 25px;padding-top: 3px;padding-bottom: 3px;" onmouseover="this.style.background='#ea3947';this.style.color='#ffffff';" onmouseout="this.style.background='#ffffff';this.style.color='#777777';">
+											Amritsar
+										</a>
+									
+								</div>
+							
+								<div id="EachCityDiv">
+									
+										<a href="javascript:callCity('Bhatinda')" style="padding-left: 10px;padding-right: 10px;color: #777777;text-decoration: none;line-height: 25px;padding-top: 3px;padding-bottom: 3px;" onmouseover="this.style.background='#ea3947';this.style.color='#ffffff';" onmouseout="this.style.background='#ffffff';this.style.color='#777777';">
+											Bhatinda
+										</a>
+									
+								</div>
+							
+								<div id="EachCityDiv">
+									
+										<a href="javascript:callCity('Chandigarh')" style="padding-left: 10px;padding-right: 10px;color: #777777;text-decoration: none;line-height: 25px;padding-top: 3px;padding-bottom: 3px;" onmouseover="this.style.background='#ea3947';this.style.color='#ffffff';" onmouseout="this.style.background='#ffffff';this.style.color='#777777';">
+											Chandigarh
+										</a>
+									
+								</div>
+							
+								<div id="EachCityDiv">
+									
+										<a href="javascript:callCity('Coimbatore')" style="padding-left: 10px;padding-right: 10px;color: #777777;text-decoration: none;line-height: 25px;padding-top: 3px;padding-bottom: 3px;" onmouseover="this.style.background='#ea3947';this.style.color='#ffffff';" onmouseout="this.style.background='#ffffff';this.style.color='#777777';">
+											Coimbatore
+										</a>
+									
+								</div>
+							
+								<div id="EachCityDiv">
+									
+										<a href="javascript:callCity('Ghaziabad')" style="padding-left: 10px;padding-right: 10px;color: #777777;text-decoration: none;line-height: 25px;padding-top: 3px;padding-bottom: 3px;" onmouseover="this.style.background='#ea3947';this.style.color='#ffffff';" onmouseout="this.style.background='#ffffff';this.style.color='#777777';">
+											Ghaziabad
+										</a>
+									
+								</div>
+							
+								<div id="EachCityDiv">
+									
+										<a href="javascript:callCity('Goa')" style="padding-left: 10px;padding-right: 10px;color: #777777;text-decoration: none;line-height: 25px;padding-top: 3px;padding-bottom: 3px;" onmouseover="this.style.background='#ea3947';this.style.color='#ffffff';" onmouseout="this.style.background='#ffffff';this.style.color='#777777';">
+											Goa
+										</a>
+									
+								</div>
+							
+								<div id="EachCityDiv">
+									
+										<a href="javascript:callCity('Gorakhpur')" style="padding-left: 10px;padding-right: 10px;color: #777777;text-decoration: none;line-height: 25px;padding-top: 3px;padding-bottom: 3px;" onmouseover="this.style.background='#ea3947';this.style.color='#ffffff';" onmouseout="this.style.background='#ffffff';this.style.color='#777777';">
+											Gorakhpur
+										</a>
+									
+								</div>
+							
+								<div id="EachCityDiv">
+									
+										<a href="javascript:callCity('Guwahati')" style="padding-left: 10px;padding-right: 10px;color: #777777;text-decoration: none;line-height: 25px;padding-top: 3px;padding-bottom: 3px;" onmouseover="this.style.background='#ea3947';this.style.color='#ffffff';" onmouseout="this.style.background='#ffffff';this.style.color='#777777';">
+											Guwahati
+										</a>
+									
+								</div>
+							
+								<div id="EachCityDiv">
+									
+										<a href="javascript:callCity('Gwalior')" style="padding-left: 10px;padding-right: 10px;color: #777777;text-decoration: none;line-height: 25px;padding-top: 3px;padding-bottom: 3px;" onmouseover="this.style.background='#ea3947';this.style.color='#ffffff';" onmouseout="this.style.background='#ffffff';this.style.color='#777777';">
+											Gwalior
+										</a>
+									
+								</div>
+							
+								<div id="EachCityDiv">
+									
+										<a href="javascript:callCity('Indore')" style="padding-left: 10px;padding-right: 10px;color: #777777;text-decoration: none;line-height: 25px;padding-top: 3px;padding-bottom: 3px;" onmouseover="this.style.background='#ea3947';this.style.color='#ffffff';" onmouseout="this.style.background='#ffffff';this.style.color='#777777';">
+											Indore
+										</a>
+									
+								</div>
+							
+								<div id="EachCityDiv">
+									
+										<a href="javascript:callCity('Jabalpur')" style="padding-left: 10px;padding-right: 10px;color: #777777;text-decoration: none;line-height: 25px;padding-top: 3px;padding-bottom: 3px;" onmouseover="this.style.background='#ea3947';this.style.color='#ffffff';" onmouseout="this.style.background='#ffffff';this.style.color='#777777';">
+											Jabalpur
+										</a>
+									
+								</div>
+							
+								<div id="EachCityDiv">
+									
+										<a href="javascript:callCity('Jaipur')" style="padding-left: 10px;padding-right: 10px;color: #777777;text-decoration: none;line-height: 25px;padding-top: 3px;padding-bottom: 3px;" onmouseover="this.style.background='#ea3947';this.style.color='#ffffff';" onmouseout="this.style.background='#ffffff';this.style.color='#777777';">
+											Jaipur
+										</a>
+									
+								</div>
+							
+								<div id="EachCityDiv">
+									
+										<a href="javascript:callCity('Jalandhar')" style="padding-left: 10px;padding-right: 10px;color: #777777;text-decoration: none;line-height: 25px;padding-top: 3px;padding-bottom: 3px;" onmouseover="this.style.background='#ea3947';this.style.color='#ffffff';" onmouseout="this.style.background='#ffffff';this.style.color='#777777';">
+											Jalandhar
+										</a>
+									
+								</div>
+							
+								<div id="EachCityDiv">
+									
+										<a href="javascript:callCity('Jammu')" style="padding-left: 10px;padding-right: 10px;color: #777777;text-decoration: none;line-height: 25px;padding-top: 3px;padding-bottom: 3px;" onmouseover="this.style.background='#ea3947';this.style.color='#ffffff';" onmouseout="this.style.background='#ffffff';this.style.color='#777777';">
+											Jammu
+										</a>
+									
+								</div>
+							
+								<div id="EachCityDiv">
+									
+										<a href="javascript:callCity('Kolhapur')" style="padding-left: 10px;padding-right: 10px;color: #777777;text-decoration: none;line-height: 25px;padding-top: 3px;padding-bottom: 3px;" onmouseover="this.style.background='#ea3947';this.style.color='#ffffff';" onmouseout="this.style.background='#ffffff';this.style.color='#777777';">
+											Kolhapur
+										</a>
+									
+								</div>
+							
+								<div id="EachCityDiv">
+									
+										<a href="javascript:callCity('Lucknow')" style="padding-left: 10px;padding-right: 10px;color: #777777;text-decoration: none;line-height: 25px;padding-top: 3px;padding-bottom: 3px;" onmouseover="this.style.background='#ea3947';this.style.color='#ffffff';" onmouseout="this.style.background='#ffffff';this.style.color='#777777';">
+											Lucknow
+										</a>
+									
+								</div>
+							
+								<div id="EachCityDiv">
+									
+										<a href="javascript:callCity('Ludhiana')" style="padding-left: 10px;padding-right: 10px;color: #777777;text-decoration: none;line-height: 25px;padding-top: 3px;padding-bottom: 3px;" onmouseover="this.style.background='#ea3947';this.style.color='#ffffff';" onmouseout="this.style.background='#ffffff';this.style.color='#777777';">
+											Ludhiana
+										</a>
+									
+								</div>
+							
+								<div id="EachCityDiv">
+									
+										<a href="javascript:callCity('Mangalore')" style="padding-left: 10px;padding-right: 10px;color: #777777;text-decoration: none;line-height: 25px;padding-top: 3px;padding-bottom: 3px;" onmouseover="this.style.background='#ea3947';this.style.color='#ffffff';" onmouseout="this.style.background='#ffffff';this.style.color='#777777';">
+											Mangalore
+										</a>
+									
+								</div>
+							
+								<div id="EachCityDiv">
+									
+										<a href="javascript:callCity('Meerut')" style="padding-left: 10px;padding-right: 10px;color: #777777;text-decoration: none;line-height: 25px;padding-top: 3px;padding-bottom: 3px;" onmouseover="this.style.background='#ea3947';this.style.color='#ffffff';" onmouseout="this.style.background='#ffffff';this.style.color='#777777';">
+											Meerut
+										</a>
+									
+								</div>
+							
+								<div id="EachCityDiv">
+									
+										<a href="javascript:callCity('Mysore')" style="padding-left: 10px;padding-right: 10px;color: #777777;text-decoration: none;line-height: 25px;padding-top: 3px;padding-bottom: 3px;" onmouseover="this.style.background='#ea3947';this.style.color='#ffffff';" onmouseout="this.style.background='#ffffff';this.style.color='#777777';">
+											Mysore
+										</a>
+									
+								</div>
+							
+								<div id="EachCityDiv">
+									
+										<a href="javascript:callCity('Nashik')" style="padding-left: 10px;padding-right: 10px;color: #777777;text-decoration: none;line-height: 25px;padding-top: 3px;padding-bottom: 3px;" onmouseover="this.style.background='#ea3947';this.style.color='#ffffff';" onmouseout="this.style.background='#ffffff';this.style.color='#777777';">
+											Nashik
+										</a>
+									
+								</div>
+							
+								<div id="EachCityDiv">
+									
+										<a href="javascript:callCity('Patiala')" style="padding-left: 10px;padding-right: 10px;color: #777777;text-decoration: none;line-height: 25px;padding-top: 3px;padding-bottom: 3px;" onmouseover="this.style.background='#ea3947';this.style.color='#ffffff';" onmouseout="this.style.background='#ffffff';this.style.color='#777777';">
+											Patiala
+										</a>
+									
+								</div>
+							
+								<div id="EachCityDiv">
+									
+										<a href="javascript:callCity('Patna')" style="padding-left: 10px;padding-right: 10px;color: #777777;text-decoration: none;line-height: 25px;padding-top: 3px;padding-bottom: 3px;" onmouseover="this.style.background='#ea3947';this.style.color='#ffffff';" onmouseout="this.style.background='#ffffff';this.style.color='#777777';">
+											Patna
+										</a>
+									
+								</div>
+							
+								<div id="EachCityDiv">
+									
+										<a href="javascript:callCity('Raipur')" style="padding-left: 10px;padding-right: 10px;color: #777777;text-decoration: none;line-height: 25px;padding-top: 3px;padding-bottom: 3px;" onmouseover="this.style.background='#ea3947';this.style.color='#ffffff';" onmouseout="this.style.background='#ffffff';this.style.color='#777777';">
+											Raipur
+										</a>
+									
+								</div>
+							
+								<div id="EachCityDiv">
+									
+										<a href="javascript:callCity('Rajkot')" style="padding-left: 10px;padding-right: 10px;color: #777777;text-decoration: none;line-height: 25px;padding-top: 3px;padding-bottom: 3px;" onmouseover="this.style.background='#ea3947';this.style.color='#ffffff';" onmouseout="this.style.background='#ffffff';this.style.color='#777777';">
+											Rajkot
+										</a>
+									
+								</div>
+							
+								<div id="EachCityDiv">
+									
+										<a href="javascript:callCity('Surat')" style="padding-left: 10px;padding-right: 10px;color: #777777;text-decoration: none;line-height: 25px;padding-top: 3px;padding-bottom: 3px;" onmouseover="this.style.background='#ea3947';this.style.color='#ffffff';" onmouseout="this.style.background='#ffffff';this.style.color='#777777';">
+											Surat
+										</a>
+									
+								</div>
+							
+								<div id="EachCityDiv">
+									
+										<a href="javascript:callCity('Udaipur')" style="padding-left: 10px;padding-right: 10px;color: #777777;text-decoration: none;line-height: 25px;padding-top: 3px;padding-bottom: 3px;" onmouseover="this.style.background='#ea3947';this.style.color='#ffffff';" onmouseout="this.style.background='#ffffff';this.style.color='#777777';">
+											Udaipur
+										</a>
+									
+								</div>
+							
+								<div id="EachCityDiv">
+									
+										<a href="javascript:callCity('Vadodara')" style="padding-left: 10px;padding-right: 10px;color: #777777;text-decoration: none;line-height: 25px;padding-top: 3px;padding-bottom: 3px;" onmouseover="this.style.background='#ea3947';this.style.color='#ffffff';" onmouseout="this.style.background='#ffffff';this.style.color='#777777';">
+											Vadodara
+										</a>
+									
+								</div>
+							
+								<div id="EachCityDiv">
+									
+										<a href="javascript:callCity('Vijayawada')" style="padding-left: 10px;padding-right: 10px;color: #777777;text-decoration: none;line-height: 25px;padding-top: 3px;padding-bottom: 3px;" onmouseover="this.style.background='#ea3947';this.style.color='#ffffff';" onmouseout="this.style.background='#ffffff';this.style.color='#777777';">
+											Vijayawada
+										</a>
+									
+								</div>
+							
+								<div id="EachCityDiv">
+									
+										<a href="javascript:callCity('Visakhapatnam')" style="padding-left: 10px;padding-right: 10px;color: #777777;text-decoration: none;line-height: 25px;padding-top: 3px;padding-bottom: 3px;" onmouseover="this.style.background='#ea3947';this.style.color='#ffffff';" onmouseout="this.style.background='#ffffff';this.style.color='#777777';">
+											Visakhapatnam
+										</a>
+									
+								</div>
+							
+								<div id="EachCityDiv">
+									
+										<a href="javascript:callCity('Warangal')" style="padding-left: 10px;padding-right: 10px;color: #777777;text-decoration: none;line-height: 25px;padding-top: 3px;padding-bottom: 3px;" onmouseover="this.style.background='#ea3947';this.style.color='#ffffff';" onmouseout="this.style.background='#ffffff';this.style.color='#777777';">
+											Warangal
+										</a>
+									
+								</div>
+							
+							</div>
+						</div>
+				</div>
+				
+				</form>
 			</div>
-			<select size="1" id="CityChange" style="border: 1px solid #efefef;height:25px; width: 125px;float:left;display:block;border-radius:3px;margin-top:3px;">
-								
-								
-									
-									<option value="Bangalore" selected="" style="color:#414141;">Bangalore</option>
-									
-									
-									 
-									<option value="Delhi" style="color:#414141;">Delhi</option>
-									
-									
-									 
-									<option value="Mumbai" style="color:#414141;">Mumbai</option>
-									
-									
-									 
-									<option value="Pune" style="color:#414141;">Pune</option>
-									
-									
-									 
-									<option value="Hyderabad" style="color:#414141;">Hyderabad</option>
-									
-									
-									 
-									
-									 
-									<option value="Jaipur" style="color:#414141;">Jaipur</option>
-									
-									
-									 
-									<option value="Goa" style="color:#414141;">Goa</option>
-									
-									
-									 
-									<option value="Chennai" style="color:#414141;">Chennai</option>
-									
-									
-									 
-									<option value="Kolkata" style="color:#414141;">Kolkata</option>
-									
-									
-									 
-									<option value="Indore" style="color:#414141;">Indore</option>
-									
-									
-									 
-									<option value="Ahmedabad" style="color:#414141;">Ahmedabad</option>
-									
-									
-									 
-									<option value="Surat" style="color:#414141;">Surat</option>
-									
-			</select>
+			<div id="SearchBox">
+				<div id="SearchBoxIcon">
+	<img src="/EVFNewImages/HomePageImages/Search_Icon.png" width="27" height="27">
+</div>
+<div id="SearchBoxControl">
+	<input type="hidden" name="city" value="Bangalore">
+	<input type="hidden" name="checkRequestPage" value="quickSearch">
+	<input type="text" id="HomeSearchKeywordInput" class="" name="inputForQuickSearch" maxlength="40" placeholder=" Restaurants,Area,Cuisine,Ambience" onfocus="doClearText(this)" onkeydown="navigateListGlobal(event)" onkeyup="loadDataGlobal(this,event)" autocomplete="off">
+</div>
+<script>
+	$('#SearchBoxIcon').click(function(){
+		$('#SearchBoxControl').toggle("slow");
+	});
+	/* $('#SearchBoxIcon').mouseover(function(){
+		$('#SearchBoxControl').show("slow");
+	}); */
+	$(document).click(function(e){
+		if(!$(e.target).closest('#SearchBox,#TopSearchList').length){
+			$('#SearchBoxControl').hide("slow");
+		}
+	})
+</script>
+<script>	
+	var scrollSelected = 0;
+	/* Load search data */
+	function loadDataGlobal(inputObj,event){
+		if(inputObj.value.length > 1){
+			//$('#TopSearchList').css("display","block");
+			$('#TopSearchList').show("fast");
+		}else{
+			//$('#TopSearchList').css("display","none");
+			$('#TopSearchList').hide("medium");
+		}
+		
+		if(event.keyCode == 38 || event.keyCode == 40 || event.keyCode == 13){
+			return;
+		}
+		$('#TopSearchList').load("/GlobalTop/HomePageFilterSearch.jsp",{City:$('input:[name = city]').attr("value"),letters : inputObj.value});
+		//alert($('#TopSearchList').css("height"));
+	}
+	/* On pressing enter key and search click */
+	function performSearchGlobal(){
+		//alert("Hi");
+		if($('.selectedElement').length){
+			$('.selectedElement').click();
+		}
+		else{
+			/* if($('#SList1').length){
+				$('#SList1').click();
+			}else{ */
+				var val = $('#HomeSearchKeywordInput').attr("value");
+				if(val != ""){
+					window.location = "/GlobalTop/MainSearchFilter.jsp?checkRequestPage=quickSearch&searchBy=Business Names&searchKeyword="+val+"&city="+$('input:[name = city]').attr("value");
+				}
+			//}
+		}
+	}
+	/* On pressing key down, key up and enter */
+	function navigateListGlobal(event){
+		var liSelected = 0;
+		var checkSelected = false;
+		var curId;
+		var prevId;
+		var nextId;
+		if(event.keyCode == 13){
+			//$('#TopSearchList').hide("medium");
+			if($('.selectedElement').length){
+				$('.selectedElement').each(function () {
+					$('#HomeSearchKeywordInput').attr("value",$('#'+this.id+' a').text().trim());
+				});
+			}
+			performSearchGlobal();
+		}
+		if(event.keyCode == 38){
+			if($('.selectedElement').length){
+				$('.selectedElement').each(function () {
+					curId = this.id;
+					liSelected = curId.substring(5);
+					liSelected = parseInt(liSelected);
+					prevId = liSelected - 1;
+					checkSelected = true;
+					$('#'+curId).removeClass("selectedElement");
+				});
+				if(checkSelected == true && prevId > 0){
+					if($('#SList'+prevId).length){
+						$('#SList'+prevId).addClass("selectedElement");
+						$('#HomeSearchKeywordInput').attr("value",$('#SList'+prevId+' a').text().trim());						
+					}else{
+						$('#SList1').addClass("selectedElement");
+						$('#HomeSearchKeywordInput').attr("value",$('#SList1 a').text().trim());
+					}
+				}
+			}else{
+				$('#HomeSearchKeywordInput').focus();
+			}
+		}
+		if(event.keyCode == 40){
+			 if($('.selectedElement').length){
+				$('.selectedElement').each(function () {
+					curId = this.id;
+					liSelected = curId.substring(5);
+					liSelected = parseInt(liSelected);
+					nextId = liSelected + 1;
+					checkSelected = true;
+					$('#'+curId).removeClass("selectedElement");
+				});
+				if(checkSelected == true && nextId > 0){
+					if($('#SList'+nextId).length){
+						$('#SList'+nextId).addClass("selectedElement");
+						$('#HomeSearchKeywordInput').attr("value",$('#SList'+nextId+' a').text().trim());						
+					}else{
+						$('#SList1').addClass("selectedElement");
+						$('#HomeSearchKeywordInput').attr("value",$('#SList1 a').text().trim());
+					}
+				}
+			}else{
+				if($('#SList1').length){
+					$('#SList1').addClass("selectedElement");
+					$('#HomeSearchKeywordInput').attr("value",$('#SList1 a').text().trim());
+				}
+			} 
+		}
+	}
+	$(document).click(function(e){
+		if(!$(e.target).closest('#TopSearchList, #HomeSearchKeywordInput').length){
+			//$('#TopSearchList').css("display","none");	
+			$('#TopSearchList').hide("medium");
+		}
+	});
+	$(document).ready(function(){
+		$('#TopSearchList').hide();
+	});
+</script>
+
+			</div>
 		</div>
-	</form>
+		<span id="TopSearchList" style="display: none;">
+		</span>
+	
 
 </div>
 <nav>
@@ -400,6 +845,7 @@ function showDiv1(){
 											<a href="/Pubs-Bars/Bangalore/Nightclubs/">More</a> |
 										</span>
 										-->  
+			
 			</li><li id="Parties" class="commonTab"><a href="/Party/Bangalore/" style="margin-top: 6px;color:#ffffff;margin-left:5px;">Parties&nbsp;&nbsp;<img src="/EVFNewImages/HomePageImages/Arrow.png" width="8px" height="8px"></a> <ul> <li><a href="/DJ-Parties/Bangalore/" style="color:#ffffff;" onmouseover="this.style.color='#3f3f3f'" onmouseout="this.style.color='#ffffff'">DJ
 						Parties</a></li>  <li><a href="/Food-Festival/Bangalore/" style="color:#ffffff;" onmouseover="this.style.color='#3f3f3f'" onmouseout="this.style.color='#ffffff'">Food
 						Festival</a></li>  <li><a href="/Karaoke-Night/Bangalore/" style="color:#ffffff;" onmouseover="this.style.color='#3f3f3f'" onmouseout="this.style.color='#ffffff'">Karaoke
@@ -440,6 +886,8 @@ function showDiv1(){
 			
 			
 			
+			
+			<li id="Blogs"><a href="/new-year-parties/Bangalore/" style="margin-top: 6px;color:#ffffff;">New Year Parties</a></li>
 			
 			
 			<div id="LoginBox">
@@ -489,9 +937,155 @@ function showDiv1(){
 			
 		
 		</div>
-		<div id="CityIcon">
-			<a href="/Bangalore"><img src="/EVFNewImages/Mobile/Search.png" id="m3" width="30" height="30" style="margin:10px;"></a>
-		</div>
+			
+		<div id="MblSearchOuter" style="float:right">
+			 <div id="CityIcon">
+	<a href="javascript:toggleIcons()"><img src="/EVFNewImages/Mobile/Search.png" id="m3" width="30" height="30" style="margin:10px;"></a>
+</div>
+<div id="SearchBoxControlForMbl">
+	<input type="hidden" name="city" value="Bangalore">
+	<input type="hidden" name="checkRequestPage" value="quickSearch">
+	<input type="text" id="HomeSearchKeywordInputMbl" class="" name="inputForQuickSearch" maxlength="40" placeholder=" Restaurants,Area,Cuisine,Ambience" onfocus="doClearText(this)" onkeydown="navigateListGlobalMbl(event)" onkeyup="loadDataGlobalMbl(this,event)" autocomplete="off">
+	<span id="TopSearchListMbl" style="display: none;">
+		</span>
+</div>
+ <script>
+	 $('#CityIcon').click(function(){
+		 if(window.location.pathname != "/Bangalore"){
+			 if($(window).width() <= 710){
+				 $('#MblMenu').toggle("slow");
+				 $('#MblLogo').toggle("slow");
+				 $('#SearcgIcon').toggle("slow");
+				 $('#CityMbl').toggle("slow"); 
+			 }
+			 $('#SearchBoxControlForMbl').toggle("slow"); 
+		 }
+	});
+	$(document).click(function(e){
+		if(!$(e.target).closest('#MblSearchOuter,#TopSearchListMbl').length){
+			$('#SearchBoxControlForMbl').hide("slow");
+			if($(window).width() <= 710 && window.location.pathname != "/Bangalore"){
+				 $('#MblMenu').show("slow");
+				 $('#MblLogo').show("slow");
+				 $('#SearcgIcon').show("slow");
+				 $('#CityMbl').show("slow");				
+			}
+		}
+	})
+</script>
+<script>	
+	var scrollSelected = 0;
+	/* Load search data */
+	function loadDataGlobalMbl(inputObj,event){
+		if(inputObj.value.length > 1){
+			//$('#TopSearchListMbl').css("display","block");
+			$('#TopSearchListMbl').show("fast");
+		}else{
+			//$('#TopSearchListMbl').css("display","none");
+			$('#TopSearchListMbl').hide("medium");
+		}
+		
+		if(event.keyCode == 38 || event.keyCode == 40 || event.keyCode == 13){
+			return;
+		}
+		$('#TopSearchListMbl').load("/GlobalTop/HomePageFilterSearch.jsp",{City:$('input:[name = city]').attr("value"),letters : inputObj.value});
+		//alert($('#TopSearchListMbl').css("height"));
+	}
+	/* On pressing enter key and search click */
+	function performSearchGlobalMbl(){
+		//alert("Hi");
+		if($('.selectedElement').length){
+			$('.selectedElement').click();
+		}
+		else{
+			if($('#SList1').length){
+				$('#SList1').click();
+			}else{
+				var val = $('#HomeSearchKeywordInputMbl').attr("value");
+				if(val != ""){
+					window.location = "/GlobalTop/MainSearchFilter.jsp?checkRequestPage=quickSearch&searchBy=Business Names&searchKeyword="+val+"&city="+$('input:[name = city]').attr("value");
+				}
+			}
+		}
+	}
+	/* On pressing key down, key up and enter */
+	function navigateListGlobalMbl(event){
+		var liSelected = 0;
+		var checkSelected = false;
+		var curId;
+		var prevId;
+		var nextId;
+		if(event.keyCode == 13){
+			//$('#TopSearchListMbl').hide("medium");
+			if($('.selectedElement').length){
+				$('.selectedElement').each(function () {
+					$('#HomeSearchKeywordInputMbl').attr("value",$('#'+this.id+' a').text().trim());
+				});
+			}
+			performSearchGlobalMbl();
+		}
+		if(event.keyCode == 38){
+			if($('.selectedElement').length){
+				$('.selectedElement').each(function () {
+					curId = this.id;
+					liSelected = curId.substring(5);
+					liSelected = parseInt(liSelected);
+					prevId = liSelected - 1;
+					checkSelected = true;
+					$('#'+curId).removeClass("selectedElement");
+				});
+				if(checkSelected == true && prevId > 0){
+					if($('#SList'+prevId).length){
+						$('#SList'+prevId).addClass("selectedElement");
+						$('#HomeSearchKeywordInputMbl').attr("value",$('#SList'+prevId+' a').text().trim());						
+					}else{
+						$('#SList1').addClass("selectedElement");
+						$('#HomeSearchKeywordInputMbl').attr("value",$('#SList1 a').text().trim());
+					}
+				}
+			}else{
+				$('#HomeSearchKeywordInputMbl').focus();
+			}
+		}
+		if(event.keyCode == 40){
+			 if($('.selectedElement').length){
+				$('.selectedElement').each(function () {
+					curId = this.id;
+					liSelected = curId.substring(5);
+					liSelected = parseInt(liSelected);
+					nextId = liSelected + 1;
+					checkSelected = true;
+					$('#'+curId).removeClass("selectedElement");
+				});
+				if(checkSelected == true && nextId > 0){
+					if($('#SList'+nextId).length){
+						$('#SList'+nextId).addClass("selectedElement");
+						$('#HomeSearchKeywordInputMbl').attr("value",$('#SList'+nextId+' a').text().trim());						
+					}else{
+						$('#SList1').addClass("selectedElement");
+						$('#HomeSearchKeywordInputMbl').attr("value",$('#SList1 a').text().trim());
+					}
+				}
+			}else{
+				if($('#SList1').length){
+					$('#SList1').addClass("selectedElement");
+					$('#HomeSearchKeywordInputMbl').attr("value",$('#SList1 a').text().trim());
+				}
+			} 
+		}
+	}
+	$(document).click(function(e){
+		if(!$(e.target).closest('#TopSearchListMbl, #HomeSearchKeywordInputMbl').length){
+			//$('#TopSearchListMbl').css("display","none");	
+			$('#TopSearchListMbl').hide("medium");
+		}
+	});
+	$(document).ready(function(){
+		$('#TopSearchListMbl').hide();
+	});
+</script>
+
+		</div>		
 		
 	</div>
 	<div id="MblMenuTab">
@@ -557,6 +1151,12 @@ function showDiv1(){
 		</div></a>
 		
 		
+			<a href="/new-year-parties/Bangalore/ " style="color:#ffffff;text-decoration:none;" onmouseover="this.style.color='#525252'">
+				<div id="MblTab">
+					New Year Parties
+				</div>
+			</a>
+			
 			
 		
 		
@@ -688,6 +1288,276 @@ function showDiv1(){
 		
 		
 		
+		
+		
+		
+		<a href="/Lucknow/"><div id="MblTab2">
+					Lucknow
+		</div></a>
+		
+		
+		
+		
+		
+		
+		
+		<a href="/Guwahati/"><div id="MblTab2">
+					Guwahati
+		</div></a>
+		
+		
+		
+		
+		
+		
+		
+		<a href="/Visakhapatnam/"><div id="MblTab2">
+					Visakhapatnam
+		</div></a>
+		
+		
+		
+		
+		
+		
+		
+		<a href="/Coimbatore/"><div id="MblTab2">
+					Coimbatore
+		</div></a>
+		
+		
+		
+		
+		
+		
+		
+		<a href="/Mangalore/"><div id="MblTab2">
+					Mangalore
+		</div></a>
+		
+		
+		
+		
+		
+		
+		
+		<a href="/Vadodara/"><div id="MblTab2">
+					Vadodara
+		</div></a>
+		
+		
+		
+		
+		
+		
+		
+		<a href="/Chandigarh/"><div id="MblTab2">
+					Chandigarh
+		</div></a>
+		
+		
+		
+		
+		
+		
+		
+		<a href="/Mysore/"><div id="MblTab2">
+					Mysore
+		</div></a>
+		
+		
+		
+		
+		
+		
+		
+		<a href="/Vijayawada/"><div id="MblTab2">
+					Vijayawada
+		</div></a>
+		
+		
+		
+		
+		
+		
+		
+		<a href="/Kolhapur/"><div id="MblTab2">
+					Kolhapur
+		</div></a>
+		
+		
+		
+		
+		
+		
+		
+		<a href="/Warangal/"><div id="MblTab2">
+					Warangal
+		</div></a>
+		
+		
+		
+		
+		
+		
+		
+		<a href="/Amritsar/"><div id="MblTab2">
+					Amritsar
+		</div></a>
+		
+		
+		
+		
+		
+		
+		
+		<a href="/Bhatinda/"><div id="MblTab2">
+					Bhatinda
+		</div></a>
+		
+		
+		
+		
+		
+		
+		
+		<a href="/Ghaziabad/"><div id="MblTab2">
+					Ghaziabad
+		</div></a>
+		
+		
+		
+		
+		
+		
+		
+		<a href="/Gorakhpur/"><div id="MblTab2">
+					Gorakhpur
+		</div></a>
+		
+		
+		
+		
+		
+		
+		
+		<a href="/Gwalior/"><div id="MblTab2">
+					Gwalior
+		</div></a>
+		
+		
+		
+		
+		
+		
+		
+		<a href="/Jammu/"><div id="MblTab2">
+					Jammu
+		</div></a>
+		
+		
+		
+		
+		
+		
+		
+		<a href="/Ludhiana/"><div id="MblTab2">
+					Ludhiana
+		</div></a>
+		
+		
+		
+		
+		
+		
+		
+		<a href="/Meerut/"><div id="MblTab2">
+					Meerut
+		</div></a>
+		
+		
+		
+		
+		
+		
+		
+		<a href="/Patiala/"><div id="MblTab2">
+					Patiala
+		</div></a>
+		
+		
+		
+		
+		
+		
+		
+		<a href="/Patna/"><div id="MblTab2">
+					Patna
+		</div></a>
+		
+		
+		
+		
+		
+		
+		
+		<a href="/Raipur/"><div id="MblTab2">
+					Raipur
+		</div></a>
+		
+		
+		
+		
+		
+		
+		
+		<a href="/Rajkot/"><div id="MblTab2">
+					Rajkot
+		</div></a>
+		
+		
+		
+		
+		
+		
+		
+		<a href="/Udaipur/"><div id="MblTab2">
+					Udaipur
+		</div></a>
+		
+		
+		
+		
+		
+		
+		
+		<a href="/Jabalpur/"><div id="MblTab2">
+					Jabalpur
+		</div></a>
+		
+		
+		
+		
+		
+		
+		
+		<a href="/Jalandhar/"><div id="MblTab2">
+					Jalandhar
+		</div></a>
+		
+		
+		
+		
+		
+		
+		
+		<a href="/Nashik/"><div id="MblTab2">
+					Nashik
+		</div></a>
+		
+		
+		
+		
 	</div>
 	
 	<!-- End of Mobile Resolution -->
@@ -717,6 +1587,9 @@ var check=false;
 			}
 			if(!$(e.target).closest('#dropdown, #profile_setting').length){
 				$("#dropdown").hide();
+			}
+			if(!$(e.target).closest('#openPop, #clickPop').length){
+				$("#openPop").hide();
 			}
 			})
 	/* For Mobile Resolution */
@@ -799,7 +1672,9 @@ function showDiv1(){
 		 }
 		 $(top.document).ready(function() {
 		 	   	$(".inActiveLink").attr('style', 'pointer-events: auto; cursor: auto;');
+		 	   //$('#CityMbl').css("border-left","0px solid red");
 		 	});
+		
  </script>
             </header>
 		</div>
@@ -883,6 +1758,7 @@ function showDiv1(){
 		<div id="HomeFooter">
 					
 
+
 	
 
 	<!-- ADDED BY BHARATH ASHOK FOR DYANAMIC CITY NO FOR FOOTER -->
@@ -917,7 +1793,7 @@ function showDiv1(){
 			<div style="border:0px solid white;float:left;width:200px;height:150px;">
 				<img src="/EVFNewImages/HomePageImages/Call.png" width="45" height="47" style="margin-left:5em;margin-top:0.5em;"><br>
 				<font size="4" face="open sans"> CUSTOMER SUPPORT</font><br>
-				<font size="4" face="open sans">  08042784606</font>
+				<font size="4" face="open sans">  08039511628</font>
 			</div>
 			
 
@@ -1033,9 +1909,8 @@ function showDiv1(){
 				</tr>
 				</tbody></table>
 			</div>
+			
 		</div>
-		
-		
 </div>
 </div>
 		
@@ -1057,15 +1932,21 @@ function showDiv1(){
 				<!-- Validate GlobaltopHeader open div -->
 			<!--Start of Tawk.to Script-->
 			<script type="text/javascript">
-			var $_Tawk_API={},$_Tawk_LoadStart=new Date();
-			(function(){
-			var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
-			s1.async=true;
-			s1.src='https://embed.tawk.to/5572b8d1b9e802843c991d37/default';
-			s1.charset='UTF-8';
-			s1.setAttribute('crossorigin','*');
-			s0.parentNode.insertBefore(s1,s0);
-			})();
+			var a=document.getElementById("NTU");
+			if(a.value=='TiedUp'){
+				var $_Tawk_API={},$_Tawk_LoadStart=new Date();
+				(function(){
+				var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
+				s1.async=true;
+				s1.src='https://embed.tawk.to/5572b8d1b9e802843c991d37/default';
+				s1.charset='UTF-8';
+				s1.setAttribute('crossorigin','*');
+				s0.parentNode.insertBefore(s1,s0);
+				})();
+			}
+			else{
+				
+			}
 			</script>
 			<!--End of Tawk.to Script-->
 		</div>
