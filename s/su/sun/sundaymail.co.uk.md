@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sundaymail.co.uk privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626172316id_/http%3A//www.dailyrecord.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sundaymail.co.uk privacy policy that was archived on 2015-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151210015921id_/http%3A//www.dailyrecord.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Daily Record & Sunday Mail - Scottish News, Sport, Politics and Celeb gossip
 
