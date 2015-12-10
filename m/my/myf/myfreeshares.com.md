@@ -1,6 +1,21 @@
-> *The following text is extracted and transformed from the myfreeshares.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623063821id_/http%3A//myfreeshares.com/pages/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myfreeshares.com privacy policy that was archived on 2015-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151210170726id_/http%3A//www.myfreeshares.com/pages/privacy.php) for the most accurate reproduction.*
 
 # MyFreeShares.com
+
+| **Site Stats**  
+---  
+**Total Affiliates: 66,555  
+Active Affiliates: 11,948  
+Total Payouts: 101,791.86  
+Ads in rotation 869  
+Paid-To-Clicks 325  
+Members online: 104  
+Guests online: 133  
+**  
+  
+  
+  
+
 
 ## We Respect Your Privacy!
 
@@ -29,3 +44,11 @@ Myfreeshares.com provides users the opportunity to opt-out of receiving communic
 ### Correct/Update
 
 Myfreeshares.com gives users the following options for changing and modifying information previously provided. Affiliates Area - log-in and change your personal information. Contacting the Web Site If you have any questions about this privacy statement, the practices of this site, or your dealings with Myfreeshares.com, you can [Contact Us](http://myfreeshares.com/pages/contact.php).
+
+|  | **Sponsors**  
+---  
+  
+[](http://myfreeshares.com/scripts/runner.php?BA=1837&hash=439b36d6f3c5b3713d8afde74d1e5211&url=https%3A%2F%2Fpokeram.com%2F%3Fref%3Dedelweis)  
+  
+  
+
