@@ -1,31 +1,98 @@
-> *The following text is extracted and transformed from the itsmycareer.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608091412id_/http%3A//www.itsmycareer.com/info.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the itsmycareer.com privacy policy that was archived on 2015-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151210080043id_/http%3A//www.itsmycareer.com/privacy) for the most accurate reproduction.*
 
 # ItsMyCareer
 
-  
+ItsMyCareer ("ItsMyCareer" or "we") is a website owned by Adbrilliant, LLC. We know you are concerned about your privacy, so we developed this Privacy Policy to explain how we collect, use, share and disclose personally identifiable information (referred to as "personal information" in this Privacy Policy.
+
+By registering with ItsMyCareer and/or using our site at www.ItsMyCareer.com ("the Site") or any other site that is operated by ItsMyCareer and displays a link to this Privacy Policy, you are accepting the policies and practices described in this Privacy Policy. Each time you visit the Site or provide us with information you agree that you are consenting to our use and disclosure of the information that you provide, and consenting to receive emails, as described in this Privacy Policy.
+
+* ### Account Information:
+
+In order to become a ItsMyCareer user, you may optionally create an account on the Site. To create an account, you are required to provide: your email address, first and last name and zip code.
+
+If your personally identifiable information changes, or if you no longer desire our service, you may correct, update or delete it by emailing us at [legal@ItsMyCareer.com](mailto:legal@ItsMyCareer.com) or by contacting us at any of the contact information listed below. The name and email address on the account must match our records to request access. We will respond to your request to access within 30 days.
+
+We will retain your information for as long as your account is active or as needed to provide you services. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+
+* ### Cookies, Log Files & IP Address:
+
+As you use our Service, we may also passively collect certain information, including your Internet protocol address, browser type, domain names, access times, and operating system. We may also use passive tools such as cookies, clear GIFs, and navigational data like Uniform Resource Locators (URLs) to gather information regarding the date and time of your use of the Service. We use both session ID cookies and persistent cookies. A session ID cookie expires when you close your browser. We use session cookies to provide you with a more relevant site experience. A persistent cookie remains on your hard drive for an extended period of time. We set a persistent cookie to store your information, so you don't have to enter it more than once. You can remove persistent cookies by following directions provided in your Internet browser's "help" directory. This type of information is collected to make our Services more useful to you and to help us improve the Site. We may also use third party vendors to support our Site and optimize our display advertising. Some of these vendors, for example Google, may use technology like Remarketing with Google Analytics, and this type of information to inform, optimize, and serve ads based on your past visits to our website. You must accept cookies to access ItsMyCareer as a registered user. If we link or associate any information gathered through passive means with personal information, we treat the combined information as personal information under this Privacy Policy. Otherwise, we use information collected by passive means in non-personally identifiable form only.
+
+ou are free to set your Internet browser to decline cookies, but by doing so, you may not be able to use certain features on the Site or take full advantage of all of our offerings. Check the "Help" menu of your browser to learn how to change your cookie preferences. To learn more about the use of cookies or other technologies to deliver more relevant advertising and to know your choices about not having this information used by certain Service Providers, please click [here](http://www.networkadvertising.org/choices/) and [here](http://www.google.com/analytics/learn/privacy.html). To learn how to manage privacy and storage settings for Flash cookies, please click [here](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html). You may opt-out of Google Analytics for Display Advertising and customize Google Display Network ads using the Ads Preferences Manager [here](https://www.google.com/settings/ads/onweb/).
+
+Once we redirect you to a job page hosted by third-party sites, third parties may be placing and reading cookies on your browser, or using web beacons to collect information. You understand that ItsMyCareer has no control over third-party sites, thus your privacy is subject to third-party site's privacy policy.
+
+* ### Information from Other Sources:
+
+We may receive information about you, including personal information, from third parties via an opt-in process, and may combine this information with other information we maintain about you. For an example, one of our marketing partners may present the opportunity to become a site member. If a user opts-in on a third party site, the marketing partner will provide contact information like name, email address, and zip code. If we do so, this policy governs any combined information that we maintain in personally identifiable format.
+
+* ### Children
+
+Minors (users under the age of 18) are not eligible to use ItsMyCareer, and we ask that minors (under the age of 18) do not submit any personal information to us or use the service.
+
+* ### Use of Information
+
+We use personal information to enhance, improve, operate, and maintain ItsMyCareer; to provide you with services you request; to contact you in connection with your transactions, postings and other activities on the Site, to forward to you messages from other users, and to communicate with you about Job opportunities and other products and services that we believe may be of interest to you.
+
+* ### Information Sharing and Disclosure
+
+ItsMyCareer collects the following categories of personally identifiable information: first and last name; home address, including name of a city and state or zip code; email address; telephone number, information about your job candidacy and job search (e.g., the number of years of work experience you have), information about your activities on ItsMyCareer, and demographic information, such as gender, geographic area, and preferences, when any of this information is linked to personal information that identifies you.
+
+We will share your personal information with third parties only in the ways that are described in this privacy policy.
+
+ItsMyCareer may share this personal information with the following categories of third party persons: any person or entity to whom you have given us permission to share personal information; any third party affiliate, agent, service provider or business partner of such person or entity; any affiliate, agent, service provider or business partner who provides a service that you request on our site; any court, law enforcement agency or other investigator; any owner, successor or purchaser of ItsMyCareer or its assets. The use of information by each of these third parties is subject to such third-party's privacy policy.
+
+When we share your personal information with our third party affiliate, agent, service provider or business partner to help us with our business activities or provide services to us. These companies are authorized to use your personal information only as necessary to provide these services to us.
+
+Some of our pages utilize framing techniques to serve content to from our partners while preserving the look and feel of our Site. Please be aware that you are providing your personal information to these third parties and not to ItsMyCareer.
+
+If you opt-in to receive education consultation, ItsMyCareer may share your personal information with third-party education lead-generation companies to provide the requested consultation. They may call you by phone and send emails to you to provide education related information.
+
+Please be aware that we may send you certain communications relating to the ItsMyCareer service, such as service announcements, administrative messages and the ItsMyCareer Newsletter, that are considered "transactional or relationship" messages or are otherwise non-commercial, without offering you the opportunity to opt out of receiving them.
+
+We may also disclose your personal information: 
+
+  * as required by law, such as to comply with a subpoena, or similar legal process
+  * when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request,
+  * if Adbrilliant, LLC, Inc. is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on Site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information,
+  * to any other third party with your prior consent to do so
 
 
-> THIS PAGE CONTAINS IMPORTANT INFORMATION ABOUT HOW WE USE THE PERSONAL INFORMATION WE COLLECT ABOUT YOU.
 
-Your privacy is very important to us. Accordingly, we have developed this Website Privacy Policy ("Policy") in order for you to understand how we collect, use, communicate, disclose and make use of personal information. The following outlines our Policy: 
+By registering on ItsMyCareer, you agree that this act constitutes an inquiry and/or application for purposes of telemarketing laws, and notwithstanding that your telephone and/or cell number may be listed with the federal Do-Not-Call Registry you expressly opt-in to: (a) receive an offer or service from one or more of our partners or affiliates; (b) receive future information about products and services from us, our partners, affiliates and other third parties to whom we may provide your information; (c) permit us, our partners, affiliates and other third parties to contact you pursuant to the business relationship we have established using the information you provided to us for any purpose such as contacting you by e-mail address, phone and/or mobile phone number (including use of automated dialing equipment), text (SMS) message or any means of communication for any purpose that, among other things, your wireless device may be capable of receiving (e.g. mms, video etc.)
 
-  * Be aware that the ItsMyCareer.com Terms of Use Agreement contains additional important information about how we share your information. By using this website, you agree to be bound by the terms and conditions contained in the Website Terms of Use Agreement located at the "Terms of Service" link at the bottom of the page.
-  * We use your name and any associated contact information you enter on this website, such as your phone number and email address, to contact and solicit you regarding educational and other opportunities. Many of these solicitations will be made by educational institutions who want to tell you about their programs, classes, degrees, and other opportunities they feel are relevant to you based on the information you submit to us. A 3rd party call center may be engaged to contact you on behalf of these institutions.
-  * You should enter only truthful information into this website so that we and our affiliates can accurately understand what information you are requesting and which marketing offers are most relevant to you. Entering any incorrect information may trigger uses of your contact information which will provide you with irrelevant offers or offers you did not request.
-  * We will collect and use your personal information solely with the objective of fulfilling these purposes, as well as those set forth in the Terms of Use Agreement, and for other compatible purposes, unless we obtain the consent of the individual concerned or as required by law.
-  * We will only retain personal information as long as is necessary for the fulfillment of those purposes.
-  * As a general rule, we will not collect any financial or bank account information about you on this website. If you are contacted by someone purporting to be a representative of ItsMyCareer.com who asks you for sensitive financial or account information, you should refuse to provide such information and contact us immediately at [Legal@ItsMyCareer.com](email:legal@itsmycareer.com)
-  * We will collect personal information by lawful and fair means and, where appropriate, with the knowledge or consent of the individual concerned. By using this website, you authorize us to make certain specific uses of any information you provide to us, as set forth in the Terms of Use Agreement, which you should carefully review.
-  * Within the limitations set forth in the Website Terms of Use Agreement, we will seek to protect personal information by reasonable security safeguards against loss or theft, as well as unauthorized access, disclosure, copying, use or modification.
-  * We will make readily available to consumers information about our policies and practices relating to the management of personal information.
+* ### Third Party Cookies
 
+Notwithstanding anything else in this policy, we or a data provider we have engaged may place or recognize a unique cookie on your browser to enable you to receive customized ads or content. These cookies contain no personally identifiable information. The cookies may reflect de-identified demographic or other data linked to data you voluntarily have submitted to us, e.g., your email address, that we may share with a data provider solely in hashed, non-human readable form. To opt-out of these cookies, please go to [http://www.aboutads.info/choices.](http://www.aboutads.info/choices)
 
+* ### Data Security
 
-We are committed to conducting our business in accordance with these principles in order to ensure that the confidentiality of personal information is protected and maintained.
+The security of your personal information is important to us. When you enter sensitive information (such as a credit card number) on our order forms, we encrypt the transmission of that information using secure socket layer technology (SSL). We use reasonable security measures and generally accepted standards to protect personal information from unauthorized use, alteration, and disclosure. We restrict access of your personal information from our employees, unless we believe it is reasonably necessary to do their jobs. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security. If you have any questions about security on our Web site, you can contact us at [legal@ItsMyCareer.com](mailto:legal@ItsMyCareer.com).
 
-The "Contact Us" feature of the Site delivers user messages to ItsMyCareer.com via email, which is not guaranteed to be a secure means of communication. Therefore, please do not send us confidential or sensitive information via the Site. We will not be liable for any intercepted, altered, or disclosed communications transmitted via the Site or through the "Contact Us" feature.
+* ### Links to Other Sites
 
-IMPORTANT:  
-NOTWITHSTANDING THE ABOVE, YOU AGREE THAT BY ENTERING ANY OF YOUR PERSONAL INFORMATION INTO THIS SITE, OR BY ALLOWING OTHERS TO DO SO ON YOUR BEHALF, YOU EXPRESSLY AUTHORIZE US TO CONVEY, TRANSFER, SELL, OR OTHERWISE SHARE YOUR PERSONAL INFORMATION, INCLUDING WITHOUT LIMITATION, YOUR NAME AND CONTACT INFORMATION, TO 3RD PARTIES FOR THE PURPOSE OF SOLICITING YOU REGARDING EDUCATIONAL AND OTHER OPPORTUNITIES, EXCEPT WHERE PROHIBITED BY LAW. YOU EXPRESSLY AGREE THAT EITHER WE, OR OUR 3RD PARTY AFFILIATES, MAY CALL YOU AT ANY TELEPHONE NUMBER YOU PROVIDE TO US, OR TRANSMIT SMS OR PRERECORDED MESSAGES TO YOU, FOR THE PURPOSE OF CONTACTING YOU FOR MARKETING PURPOSES, WHETHER OR NOT YOU ARE ON ANY STATE OR FEDERAL DO-NOT-CALL LIST, WHETHER OR NOT WE USE AN AUTODIALING DEVICE, AND WHETHER OR NOT THE NUMBER YOU PROVIDED TO US IS A CELL PHONE NUMBER. YOU EXPRESSLY AGREE TO ALLOW US, OR OUR 3RD PARTY AFFILIATES, TO CONTACT YOU AT ANY EMAIL ADDRESS YOU PROVIDE TO US, FOR THE PURPOSE OF CONTACTING YOU FOR MARKETING PURPOSES. YOU ARE NOT REQUIRED TO PROVIDE US WITH THE ABOVE-MENTIONED CONSENT IN ORDER TO PURCHASE ANY PRODUCT OR SERVICE OR TO PARTICIPATE IN ANY PROMOTION. ALL OF OUR OFFERS ARE VOID WHERE PROHIBITED BY LAW. WE MUST EMPHASIZE THAT BY ENTERING ANY OF YOUR PERSONAL INFORMATION, YOU ARE INVITING US TO CONTACT YOU ABOUT VARIOUS PRODUCTS AND SERVICES, AND TO ALLOW OTHERS TO CONTACT YOU FOR THE SAME PURPOSE. IF YOU DO NOT WISH TO BE CONTACTED, YOU SHOULD NOT USE THIS SITE OR SHARE YOUR CONTACT INFORMATION WITH US. IN SOME JURISDICTIONS, EVEN IF YOU PROVIDE YOUR CONTACT INFORMATION TO US, WE MAY BE PROHIBITED BY LAW FROM CONTACTING YOU. IF YOUR JURISDICTION WILL NOT ALLOW US TO FOLLOW UP ON YOUR REQUEST FOR INFORMATION OR OFFERS, WE APOLOGIZE FOR THIS INCONVENIENCE. WE ARE COMMITTED TO COMPLYING WITH ALL APPLICABLE LAWS AND REGULATIONS.
+The Site contains links to other sites (including co-branded links). Please be aware that ItsMyCareer does not exercise control over the information, products, services or policies of third party companies accessible through our site. We encourage our users to be aware when they leave our site and to read the privacy policies of each and every third party site. This Privacy Policy applies solely to the information collected by this site.
 
-We reserve the right in our sole discretion, without any obligation and without any notice to you, to edit or delete any documents, information or other contcontent appearing on the Site, including this Policy. It is the user's responsibility to check back frequently for updates to this Policy. For questions, the privacy officer at ItsMyCareer.com can be contacted via email at [Legal@ItsMyCareer.com](email:legal@itsmycareer.com)
+* ### Blog / Forum
+
+Our website offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our blog or community forum, contact us at [legal@ItsMyCareer.com](mailto:legal@ItsMyCareer.com). In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
+
+* ### Social Media Widgets
+
+Our website includes Social Media Features, such as the Facebook Like button and Widgets, such as the Share this button or interactive mini-programs that run on our website. These Features may collect your IP address, which page you are visiting on our website, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our website. Your interactions with these Features are governed by the privacy policy of the company providing it.
+
+* ### Single Sign-On
+
+You can log in to our Blog using sign-in services such as Facebook Connect or an Open ID provider. These services will authenticate your identity and provide you the option to share certain personal information with us such as your name and email address to pre-populate our sign up form. Services like Facebook Connect give you the option to post information about your activities on this Web site to your profile page to share with others within your network.
+
+* ### Changes to this Privacy Policy
+
+ItsMyCareer reserves the right to update this Privacy Policy at any point. Users will always have access to our current Privacy Policy by visiting ItsMyCareer.com. If we change this Privacy Policy, we will notify users by posting notice on our site or by notice sent using contact information we have on file, and will update the "last updated" date at the top of this Privacy Policy. If we make a change that is materially less restrictive upon our use and disclosure of personal information that we collected prior to the effective date of the change, we will notify users as described above and will seek consent before using or disclosing any previously-collected information in a manner that would violate the prior privacy policy.
+
+* ### Opt-out
+
+To stop receiving job alerts and marketing offers from ItsMyCareer.com, click [here](https://web.archive.org/login) , by following the unsubscribe instructions included in these emails or you can contact us at [legal@ItsMyCareer.com](mailto:legal@ItsMyCareer.com). It may take up to 3 business days for the opt-out notification to be fully processed.
+
+* ### Contact Us
+
+If you have any questions or concerns about this Privacy Policy, please contact us at [legal@ItsMyCareer.com](mailto:legal@ItsMyCareer.com). or by mail to: Adbrilliant, LLC, Inc. 548 Market Street #46168, San Francisco, CA, 94104. 
