@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newstalk1290.com privacy policy that was archived on 2015-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150625174749id_/http%3A//newstalk1290.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newstalk1290.com privacy policy that was archived on 2015-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151210123637id_/http%3A//newstalk1290.com/privacy) for the most accurate reproduction.*
 
 # NewsTalk 1290 – NewsTalk 1290 – Wichita Falls News Radio
 
