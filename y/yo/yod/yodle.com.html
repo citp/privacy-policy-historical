@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the yodle.com privacy policy that was archived on 2015-06-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150624075910id_/http%3A//www.yodle.com/legal/policies/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the yodle.com privacy policy that was archived on 2015-12-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151210144609id_/http%3A//www.yodle.com/legal/policies/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js" lang="en" style=""><head>
         <meta charset="utf-8">
@@ -15,11 +15,14 @@
          
 			
 			<!-- Javascript -->
-			<script async="" src="//connect.facebook.net/en_US/fbds.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-P693D3"></script><script type="text/javascript" async="" src="//cdn.mxpnl.com/libs/mixpanel-2-latest.min.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-P693D3"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/modernizr/2.7.1/modernizr.min.js"></script>
+			<script src="https://s.yimg.com/wi/ytc.js" async=""></script><script async="" src="https://ad.atdmt.com/m/a.js;m=11252200393748;cache=0.4047507992199262?"></script><script async="" src="//connect.facebook.net/en_US/fbevents.js"></script><script async="" src="//connect.facebook.net/en_US/fbds.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-P693D3"></script><script type="text/javascript" async="" src="//cdn.mxpnl.com/libs/mixpanel-2-latest.min.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/modernizr/2.7.1/modernizr.min.js"></script>
 			<script type="text/javascript" src="/components/css3-mediaqueries/css3-mediaqueries.js"></script>  
 			
       <!-- Optimizely snippet -->
       <script src="//cdn.optimizely.com/js/1017922897.js"></script>
+
+      <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+      <script>window.jQuery || document.write('<script src="/components/jquery/dist/jquery.min.js"><\/script>')</script><script src="/components/jquery/dist/jquery.min.js"></script>
 
         <!-- Google Analytics -->
         <script>
@@ -33,6 +36,7 @@
             window.optimizely.push(['activateUniversalAnalytics']);
 
             ga('send', 'pageview');
+            
         </script>
 
 			<!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
@@ -43,37 +47,27 @@
 			<!-- Webmaster Tools Verification -->
       <meta name="google-site-verification" content="BWNIvF3c9U74VYTW5m0ZWpGQEXhte4I14zsSswWxuMg">
 
-       <!-- Google Tag Manager -->
-        <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-P693D3"
-        height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-        <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push(
-        {'gtm.start': new Date().getTime(),event:'gtm.js'}
-        );var f=d.getElementsByTagName(s)[0],
-        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-        '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-        })(window,document,'script','dataLayer','GTM-P693D3');</script>
-        <!-- End Google Tag Manager -->
-
       <!-- start Mixpanel -->
       <script type="text/javascript">
         (function(f,b){if(!b.__SV){var a,e,i,g;window.mixpanel=b;b._i=[];b.init=function(a,e,d){function f(b,h){var a=h.split(".");2==a.length&&(b=b[a[0]],h=a[1]);b[h]=function(){b.push([h].concat(Array.prototype.slice.call(arguments,0)))}}var c=b;"undefined"!==typeof d?c=b[d]=[]:d="mixpanel";c.people=c.people||[];c.toString=function(b){var a="mixpanel";"mixpanel"!==d&&(a+="."+d);b||(a+=" (stub)");return a};c.people.toString=function(){return c.toString(1)+".people (stub)"};i="disable track track_pageview track_links track_forms register register_once alias unregister identify name_tag set_config people.set people.set_once people.increment people.append people.track_charge people.clear_charges people.delete_user".split(" ");
         for(g=0;g<i.length;g++)f(c,i[g]);b._i.push([a,e,d])};b.__SV=1.2;a=f.createElement("script");a.type="text/javascript";a.async=!0;a.src="//cdn.mxpnl.com/libs/mixpanel-2-latest.min.js";e=f.getElementsByTagName("script")[0];e.parentNode.insertBefore(a,e)}})(document,window.mixpanel||[]);
          mixpanel.init("b1cff9b6de3960422aa1a23aac6dc171", {'loaded':function() {
-            $(document).ready(function() {
-                var distinct_id = mixpanel.get_distinct_id(),
-                    sTerms = $("input[name='searchTerms']").val();
-
-                sTerms = sTerms + '|distinct_id=' + distinct_id;
-                $("input[name='searchTerms']").val(sTerms);
+            window.onload = function() {
+                var distinct_id = mixpanel.get_distinct_id();
+                if(document.getElementById("searchTerms")) {
+                    var sTerms = document.getElementById('searchTerms').value;
+                    sTerms = sTerms + '|distinct_id=' + distinct_id;
+                    document.getElementById('searchTerms').value = sTerms;
+                }
                 dataLayer = [{
                     'distinct_id': distinct_id,
                 }];
-            });
+            };
         }});
         
         </script>
         <!-- end Mixpanel -->
-    <script type="text/javascript" async="" src="//cdn.mouseflow.com/projects/831c7b46-6f53-471c-8f9f-203983cf9fe8.js"></script></head>
+    <script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
 
     <body>
         <!-- Google Tag Manager -->
@@ -128,15 +122,16 @@
                             <li class="item dropdown nav-me">
                                 <a href="http://www.yodle.com/marketing-essentials" class="dropdown-toggle" data-toggle="dropdown" id="me-link">Marketing Essentials™</a>
                                 <ul class="dropdown-menu me">
-                                    <li class="head"><div class="h3"><a href="http://www.yodle.com/marketing-essentials">Overview</a></div></li>
-                                    <li class="nav-li-first"><a href="http://www.yodle.com/marketing-essentials#web-presence">Web
+                                    <li class="head"><div class="h3"><a href="http://www.yodle.com/marketing-essentials" id="overview-link">Overview</a></div></li>
+                                    <li class="nav-li-first"><a href="http://www.yodle.com/marketing-essentials#web-presence" id="web-presence-link">Web
                                         Presence</a></li>
-                                    <li><a href="http://www.yodle.com/marketing-essentials#customer-reviews">Customer Reviews</a></li>
-                                    <li><a href="http://www.yodle.com/marketing-essentials#local-search-placement">Local Search
+                                    <li><a href="http://www.yodle.com/marketing-essentials#customer-reviews" id="customer-reviews-link">Customer Reviews</a></li>
+                                    <li><a href="http://www.yodle.com/marketing-essentials#local-search-placement" id="local-search-placement-link">Local Search
                                         Placement</a></li>
-                                    <li><a href="http://www.yodle.com/marketing-essentials#email-marketing">Email Marketing</a></li>
-                                    <li><a href="http://www.yodle.com/marketing-essentials#social-media">Social Media</a></li>
-                                    <li><a href="http://www.yodle.com/marketing-essentials#special-offers">Special Offers</a></li>
+                                    <li><a href="http://www.yodle.com/marketing-essentials#email-marketing" id="email-marketing-link">Email Marketing</a></li>
+                                    <li><a href="http://www.yodle.com/marketing-essentials#social-media" id="social-media-link">Social Media</a></li>
+                                    <li><a href="http://www.yodle.com/marketing-essentials#special-offers" id="special-offers-link">Special Offers</a></li>
+                                    <li><a href="http://www.yodle.com/marketing-essentials#customer-service" id="customer-service-link">Customer Service</a></li>
                                 </ul>
 
                                 <ul class="dropdown-menu me withVideos" style="display:none">
@@ -328,14 +323,13 @@
 			<div class="footer-title">Information</div>
 			<ul>
 				<li><a href="http://yodleinsights.com/?utm_source=yodle.com&amp;utm_medium=referrer&amp;utm_campaign=footer" target="_blank">Blog&nbsp;<i class="icon-external-link"></i></a></li>
-				<li><a href="http://www.yodlefaq.com/" target="_blank">FAQ&nbsp;<i class="icon-external-link"></i></a></li>
 				<li><a href="http://www.yodle.com/reviews">Yodle Reviews</a></li>
 				<li><a href="http://brandstandards.yodle.com/" target="_blank">Brand Standards&nbsp;<i class="icon-external-link"></i></a></li>
 			</ul>
 		</div>
 		<div class="col-md-3 col-xs-6">
 			<div class="footer-title">Social Media</div>
-			<a href="http://www.youtube.com/yodle" target="_blank" title="Follow Yodle on YouTube" class="smedia youtube"></a>
+			<a href="https://www.youtube.com/user/YODLE" target="_blank" title="Follow Yodle on YouTube" class="smedia youtube"></a>
 			<a href="http://www.facebook.com/yodle" target="_blank" title="Like Yodle on Facebook" class="smedia facebook"></a>
 			<a href="http://twitter.com/Yodle" target="_blank" title="Follow Yodle on Twitter" class="smedia twitter"></a>
 			<a href="https://plus.google.com/+yodle/" target="_blank" title="Follow Yodle on Google+" class="smedia googleplus"></a>
@@ -362,11 +356,7 @@
     	</div>
 	</div><!-- .wrapper -->
 </div><!-- .copyright -->
-			
-			
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
-    <script>window.jQuery || document.write('<script src="/components/jquery/dist/jquery.min.js"><\/script>')</script><script src="/components/jquery/dist/jquery.min.js"></script>
-    
+
     <script src="/components/bootstrap/dist/js/bootstrap.js"></script>
     
     <!-- Expose Optimizely data nicely -->
@@ -398,21 +388,6 @@
     
     
 
-    <script async="" defer="" src="//survey.g.doubleclick.net/async_survey?site=vy67rjtznwliyoaqznderwnvq4"></script> 
-    
-   <script async="" defer="" src="//survey.g.doubleclick.net/async_survey?site=vy67rjtznwliyoaqznderwnvq4"></script> 
-
-
-    <!-- Mouseflow -->
-    <script type="text/javascript">
-        var _mfq = _mfq || [];
-        (function() {
-            var mf = document.createElement("script"); mf.type = "text/javascript"; mf.async = true;
-            mf.src = "//cdn.mouseflow.com/projects/831c7b46-6f53-471c-8f9f-203983cf9fe8.js";
-            document.getElementsByTagName("head")[0].appendChild(mf);
-        })();
-        var mouseflowPath = document.location.pathname;
-    </script>
     
     
     <!-- Remarketing Tag -->
@@ -432,7 +407,7 @@
     </noscript>
 
     <!-- Facebook Remarketing Pixel -->
-    <script>(function() {
+    <script async="">(function() {
     var _fbq = window._fbq || (window._fbq = []);
     if (!_fbq.loaded)
     { var fbds = document.createElement('script'); fbds.async = true; fbds.src = '//connect.facebook.net/en_US/fbds.js'; var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(fbds, s); _fbq.loaded = true; }
@@ -441,18 +416,108 @@
     window._fbq = window._fbq || [];
     window._fbq.push(['track', 'PixelInitialized', {}]);
     </script>
-    <noscript><img height="1" width="1" alt="" style="display:none" src="https://www.facebook.com/tr?id=1588550418030050&ev=PixelInitialized" /></noscript>
+    <noscript async=""><img height="1" width="1" alt="" style="display:none" src="https://www.facebook.com/tr?id=1588550418030050&ev=PixelInitialized" /></noscript>
+
+    <!-- Facebook Pixel Code -->
+    <script>
+    !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+    n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+    n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+    t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+    document,'script','//connect.facebook.net/en_US/fbevents.js');
+
+    fbq('init', '1588550418030050');
+    fbq('track', "PageView");</script>
+    <noscript><img height="1" width="1" style="display:none"
+    src="https://www.facebook.com/tr?id=1588550418030050&ev=PageView&noscript=1"
+    /></noscript>
+    <!-- End Facebook Pixel Code -->
 
     <!-- Number Replacer -->
     <script type="text/javascript"> 
         vs_account_id = "CA6ph0cL1bY-JAED";
     </script>
-    <script type="text/javascript" src="//adtrack.voicestar.com/euinc/number-changer-gtm.js?vskeywords=k_clickid&amp;   preservecase=1">
+    <script async="" type="text/javascript" src="//adtrack.voicestar.com/euinc/number-changer-gtm.js?vskeywords=k_clickid&amp;   preservecase=1">
     </script>
     <!-- end ad widget -->
 
+    <!-- AdRoll Remarketing Tag -->
+    <script type="text/javascript">
+    adroll_adv_id = "74DJX665SVCJLHG5TY5E5T";
+    adroll_pix_id = "XPMARBBTLBF4DO3LUIRO67";
+    (function () {
+    var oldonload = window.onload;
+    window.onload = function(){
+       __adroll_loaded=true;
+       var scr = document.createElement("script");
+       var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com");
+       scr.setAttribute('async', 'true');
+       scr.type = "text/javascript";
+       scr.src = host + "/j/roundtrip.js";
+       ((document.getElementsByTagName('head') || [null])[0] ||
+        document.getElementsByTagName('script')[0].parentNode).appendChild(scr);
+       if(oldonload){oldonload()}};
+    }());
+    </script>
+
+    <!-- Atlas Universal Tag -->
+    <script>
+      var e = document.createElement("script");
+      e.async = true;
+      e.src = "https://ad.atdmt.com/m/a.js;m=11252200393748;cache=" + Math.random() +
+        "?";
+      var s = document.getElementsByTagName("script")[0];
+      s.parentNode.insertBefore(e, s);
+    </script>
+    <noscript>
+    <iframe
+      style="display:none;"
+      src="https://ad.atdmt.com/m/a.html;m=11252200393748;noscript=1?">
+    </iframe>
+    </noscript>
+
+    <!-- Gemini Universal -->
+    <script async="" type="application/javascript">(function(w,d,t,r,u){w[u]=w[u]||[];w[u].push({'projectId':'10002014126789','properties':{'pixelId':'418715'}});var s=d.createElement(t);s.src=r;s.async=true;s.onload=s.onreadystatechange=function(){var y,rs=this.readyState,c=w[u];if(rs&&rs!="complete"&&rs!="loaded"){return}try{y=YAHOO.ywa.I13N.fireBeacon;w[u]=[];w[u].push=function(p){y([p])};y(c)}catch(e){}};var scr=d.getElementsByTagName(t)[0],par=scr.parentNode;par.insertBefore(s,scr)})(window,document,"script","https://s.yimg.com/wi/ytc.js","dotq");</script>
+
+    <!-- Google Code for Remarketing Tag -->
+    <script type="text/javascript">
+    /* <![CDATA[ */
+    var google_conversion_id = 942249446;
+    var google_custom_params = window.google_tag_params;
+    var google_remarketing_only = true;
+    /* ]]> */
+    </script>
+    <script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+    </script>
+    <noscript>
+    <div style="display:inline;">
+    <img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/942249446/?value=0&amp;guid=ON&amp;script=0"/>
+    </div>
+    </noscript>
+
+    <!-- Twitter Remarketing -->
+    <script src="//platform.twitter.com/oct.js" type="text/javascript"></script>
+    <script type="text/javascript">twttr.conversion.trackPid('l6pgz', { tw_sale_amount: 0, tw_order_quantity: 0 });</script>
+    <noscript>
+    <img height="1" width="1" style="display:none;" alt="" src="https://analytics.twitter.com/i/adsct?txn_id=l6pgz&p_id=Twitter&tw_sale_amount=0&tw_order_quantity=0" />
+    <img height="1" width="1" style="display:none;" alt="" src="//t.co/i/adsct?txn_id=l6pgz&p_id=Twitter&tw_sale_amount=0&tw_order_quantity=0" />
+    </noscript>
+
+
     <!-- Yodle Number Replacer -->
     <script type="text/javascript" src="//s3.amazonaws.com/yodle-phone-swapper/1.0.0/swapper.js"></script>
+
+    <!-- Marketo Tracking -->
+    <script type="text/javascript">
+      jQuery.ajax({
+        url: '//munchkin.marketo.net/munchkin.js',
+        dataType: 'script',
+        cache: true,
+        success: function() { 
+          Munchkin.init('796-WRX-725');
+        }
+      });
+    </script>
 
 
    	 
