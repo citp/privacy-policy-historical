@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the mapcruzin.com privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611104003id_/http%3A//www.mapcruzin.com/fairuse.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mapcruzin.com privacy policy that was archived on 2015-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151210022954id_/http%3A//www.mapcruzin.com/fairuse.htm) for the most accurate reproduction.*
 
 # Cookies, Privacy, Disclaimer and fair use notice
 
 January 30, 2020 
 
-[](https://web.archive.org/us-nuclear-power-facility-shapefile.htm)
+[](https://web.archive.org/canada-fsa-postal-code-shapefiles/)
 
 [](http://twitter.com/pollutionmaps) [Follow on Twitter](http://twitter.com/pollutionmaps)
 
