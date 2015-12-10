@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the canadianhouseandhome.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629124649id_/http%3A//houseandhome.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the canadianhouseandhome.com privacy policy that was archived on 2015-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151211003746id_/http%3A//houseandhome.com/privacy) for the most accurate reproduction.*
 
 # Consumer Privacy Statement | House & Home
 
@@ -28,7 +28,7 @@ When you call one of our customer service representatives, or e-mail us with a c
 
 **Website information:** We collect the IP (Internet protocol) addresses of all visitors to our Website and other related information such as page requests, browser type, operating system and average time spent on our Website. We use this information to monitor and improve our Website.
 
-Our Website uses a technology called "cookies”. A cookie is a tiny element of data that our Website can send to your browser, which may then be stored on your hard drive so we can recognize you when you return. If you have registered with our Website, these cookies (1) may let us know who you are and (2) provide us and our service providers with information that we will use to personalize our Site in accordance with your preferences. You may set your Web browser to notify you when you receive a cookie. However, should you decide not to accept cookies from our Website, you may limit the functionality we can provide when you visit.
+Our Website uses a technology called “cookies”. A cookie is a tiny element of data that our Website can send to your browser, which may then be stored on your hard drive so we can recognize you when you return. If you have registered with our Website, these cookies (1) may let us know who you are and (2) provide us and our service providers with information that we will use to personalize our Site in accordance with your preferences. You may set your Web browser to notify you when you receive a cookie. However, should you decide not to accept cookies from our Website, you may limit the functionality we can provide when you visit.
 
 **Tracer Tags:** Our Website may also use a technology called “tracer tags”. These may also be referred to as “Clear GIFs” or “Web Beacons”. This technology allows us to understand which pages you visit on our Website. These tracer tags are used to help us optimize our Website and provide the best content for you and other future website visitors.
 
@@ -38,7 +38,7 @@ When you ask a question, participate in a survey or enter a contest or sweepstak
 
 ### eNewsletters
 
-You can unsubscribe from the H&H eNewsletter list at any time by clicking the unsubscribe link provided in each of our eNewsletters, by e-mailing us at [privacy@hhmedia.com](mailto:privacy@hhmedia.com), or by sending us mail to House & Home Media, 511 King Street West, Suite 120, Toronto, ON, M5V 2Z4.
+You can unsubscribe from the H&H eNewsletter list at any time by clicking the unsubscribe link provided in each of our eNewsletters, by e-mailing us at[privacy@hhmedia.com](mailto:privacy@hhmedia.com), or by sending us mail to House & Home Media, 511 King Street West, Suite 120, Toronto, ON, M5V 2Z4.
 
 ### Provide us with feedback or suggestions
 
@@ -66,7 +66,7 @@ HHM must provide your personal information in response to a search warrant or ot
 
 ### Third Party Links
 
-HHM provides links to third party websites as a convenience to the user. The inclusion of any link does not imply HHM's endorsement of any other company, its websites, or its products and/or services. These linked websites have separate and independent privacy policies, which we recommend you read carefully. We have no control over such websites and therefore have no responsibility or liability for the manner in which the organizations that operate such linked websites may collect, use, disclose or otherwise treat your personal information.
+HHM provides links to third party websites as a convenience to the user. The inclusion of any link does not imply HHM’s endorsement of any other company, its websites, or its products and/or services. These linked websites have separate and independent privacy policies, which we recommend you read carefully. We have no control over such websites and therefore have no responsibility or liability for the manner in which the organizations that operate such linked websites may collect, use, disclose or otherwise treat your personal information.
 
 ### Security Of Personal Information
 
@@ -93,4 +93,4 @@ We want to assure you that HHM is dedicated to protecting your privacy. Please f
 
 
 
-You can contact us by calling 905-946-1021 or toll-free at 1-800-559-8868, faxing us at 416-591-1630, e-mailing us at [privacy@hhmedia.com](mailto:privacy@hhmedia.com), accessing the “Contact Us” section on our Website, or writing us at House & Home Media – Privacy Department, PO Box 727, Markham, Ontario, L3P 7Y1.
+You can contact us by calling 416-593-9411, e-mailing us at [privacy@hhmedia.com](mailto:privacy@hhmedia.com), accessing the “Contact Us” section on our Website, or writing us at House & Home Media – Privacy Department, 120 – 511 King Street West, Toronto, Ontario, M5V 2Z4.
