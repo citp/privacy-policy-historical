@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the funnyplace.org privacy policy that was archived on 2015-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150603010334id_/http%3A//www.funnyplace.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the funnyplace.org privacy policy that was archived on 2015-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151210184259id_/http%3A//www.funnyplace.org/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy for www.funnyplace.org
 
@@ -138,7 +138,7 @@ The hardware or software tool by which the User Personal Data is collected.
 
 #### Cookie
 
-Small piece of data stored in the User's device. 
+Small piece of data stored in the User's device. Google/Doubleclick : We partner with Google/Doubleclick to display the advertising that pays for this website. For that to work effectively they will use cookies to store data and access data about your use of this website. You can learn more about how Google use this data and how to opt out if you choose here: http://www.google.com/intl/en/policies/privacy/partners/ 
 
 ### Legal information
 
