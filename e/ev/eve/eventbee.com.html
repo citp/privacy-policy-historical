@@ -1,28 +1,23 @@
-<!--The following is the downloaded HTML source of the eventbee.com privacy policy that was archived on 2015-06-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150607230350id_/http%3A//www.eventbee.com/main/privacystatement) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the eventbee.com privacy policy that was archived on 2015-12-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151210051033id_/http%3A//www.eventbee.com/main/privacystatement) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta http-equiv="Cache-Control" content="no-cache">
 <meta http-equiv="Pragma" content="no-cache">
 <meta http-equiv="Expires" content="0">
-
-
-
-
 <title>Eventbee - Your Online Registration, Event Ticketing And Event Promotion Solution</title>
-
 <meta name="Description" content="Easy to use web based Event Management solution that includes Event Ticketing, Email Marketing, Event Promotion and Membership Management">
-
 <meta name="Keywords" content="event registration, event ticketing, online registration, online ticketing, conference registration, online event payments, event software, email marketing, membership management, paypal ticketing, google ticketing, facebook ticketing, ning ticketing, party ticketing, sports ticketing, venue ticketing">
+
+
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <link rel="canonical" href="http://www.eventbee.com">
-<link type="text/css" rel="stylesheet" href="/main/css/bootstrap/bootstrap.min.css">
-<link type="text/css" rel="stylesheet" href="//images.eventbee.com/main/css/bootstrap/style.css">
-<link type="text/css" rel="stylesheet" href="/main/font-awesome-4.0.3/css/font-awesome.min.css">
-<link type="text/css" rel="stylesheet" href="//images.eventbee.com/main/css/bootstrap/tooltipster.css">
 
-
+<link type="text/css" rel="stylesheet" href="/main/bootstrap/css/custom.css">
+<link type="text/css" rel="stylesheet" href="/main/bootstrap/css/bootstrap.css">
+<link type="text/css" rel="stylesheet" href="/main/bootstrap/font-awesome-4.3.0/css/font-awesome.css">
+<link type="text/css" rel="stylesheet" href="//www.eventbee.com/main/bootstrap/css/tooltipster.css">
 
 <style>
 #header {
@@ -37,8 +32,15 @@ background: transparent;
 body {
 background-color: #F3F6FA;
 }
+.navbar-nav {
+	margin: 18px -8px;
+}
+
+.signup {
+	margin-top: -8px
+}
 </style>
-<script async="" src="//www.google-analytics.com/analytics.js"></script><script>
+<script>
 window.resizeIframe = function() {
 var obj = document.getElementById('popup');
 obj.style.height = obj.contentWindow.document.body.scrollHeight + 'px';
@@ -55,110 +57,215 @@ obj.style.height = obj.contentWindow.document.body.scrollHeight + 'px';
 
 
 
+
+
+  
+  
+  
+   
+ 
+
 <!-- responsive navbar
 ===============================-->
-<div class="navbar navbar-default navbar-fixed-top" style="background:#f3f6fa">
-<div class="container">
-<div class="navbar-header">
-<button class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
-<span class="icon-bar"></span>
-<span class="icon-bar"></span>
-<span class="icon-bar"></span>
-</button>
-<br>
-<a href="/" class="navbar-brand" style="margin-top:-6px;margin-bottom:-16px"><img src="/main/images/logo.png" alt="Eventbee" height="50"></a>
-</div>
-<div class="navbar-collapse collapse">
-<ul class="nav navbar-nav">
-<li><a href="/main/pricing">Pricing and features</a></li>
-<li><a href="/main/how-it-works">How it works</a></li>
-<!--<li><a href="/main/event-creation">Features</a></li>-->
-<li><a href="/main/faq">FAQ</a></li>
-<li><a href="javascript:;" id="contact">Contact</a></li>
-</ul>
-<ul class="nav navbar-nav navbar-right">
-<li><a href="javascript:;" id="getTickets">Get my tickets</a></li>
+<style>
+#countries li.active a,#languages li.active a{
+	color:#FF9900 !important;
+}
+</style>
+<script src="//www.eventbee.com/main/js/i18n/en_US/properties.js"></script>
 
 
+	<div style="background: none repeat scroll 0px 0px rgb(243, 246, 250); min-height: 91px;" class="navbar navbar-default navbar-fixed-top">
+		<div class="container">
+			<div class="navbar-header">
+				<button data-target=".navbar-collapse" data-toggle="collapse" class="navbar-toggle">
+					<span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span>
+				</button>
+				<br> 
+				
+				
+				<a style="margin-bottom: -16px; margin-top: -15px;" class="navbar-brand" href="/"><img height="50" alt="Eventbee" src="http://www.eventbee.com/main/images/logo.png"></a>
+				
+				
+			</div>
+			<div class="navbar-collapse collapse">
+				<ul class="nav navbar-nav">
+					<li><a href="/main/pricing"> Pricing and features    </a></li>
+					<li><a href="/main/how-it-works"> How it works     </a></li>
+					<!--<li><a href="/main/event-creation"> la.faq.link.txt   </a></li>-->
+					<li><a href="/main/faq">  FAQ   </a></li>
+					<li><a id="contact" href="javascript:;">     Contact</a></li>
+				</ul>
+			  <ul class="nav navbar-nav navbar-right">
+				  <li style="display:none">
+				  <div id="i18nLang" style="display:none;width:330px;position: absolute;top: 16px; right: 2px;  background-color: white;   padding: 20px 30px 20px 20px;   border: 1px solid #EEE;">
+				     <div> 
+				       <div style="float:left;padding-right:20px;border-right: 1px solid #EEE;">
+				         <span class="sub-text">Country</span>
+				         <ul style="padding:0px" id="countries" class="sm-font">
+				          
+				         </ul>				       
+				       </div>
+				        <div style="float:left;padding-left:20px">
+				         <span class="sub-text">Languages</span>
+					         <ul style="padding:0px;font-size:12px" class="sm-font" id="languages">
+					           
+					         </ul>					        
+				        </div>   
+				      </div>    
+			       </div>		
+				   <a href="javascript:;" id="i18nLangToggle"><span style="margin-right:3px"><i class="fa fa-globe" style="color:#5388c4 !important; font-size:20px !important"></i></span><i class="fa fa-sort-down" style="font-size:14px !important;position: relative;top: -4px;"></i></a>
+				  </li>
+				  				  
+				<li><a href="javascript:;" id="getTickets">   Get my tickets</a></li>
+				
+                     
+				
+				<li><a href="/main/user/login?lang=en_US">  Login     </a></li>
+				<li class="nav-btn"><a href="/main/user/signup?lang=en_US"><button class="btn btn-primary">    Sign Up</button></a></li>
+				
+				
 
-<li><a href="/main/user/login">Login</a></li>
-<li> <a href="/main/user/signup"><button class="btn btn-primary">Sign Up</button></a></li>
+				
+			</ul>
+			</div>
+		</div>
+	</div>
 
 
-
-</ul>
-</div>
-</div>
-</div>
 <!-- modal dialog
-===========================-->	        
+===========================-->
 <div class="col-md-12">
-<!-- Modal -->
-<div class="modal" id="myModal" tabindex="-1" role="dialog" aria-hidden="true">
-<div class="modal-dialog">
-<div class="modal-content">
-<div class="modal-header">
-<button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
-<h4 class="modal-title"></h4>
+	<!-- Modal -->
+	<div class="modal" id="myModal" tabindex="-1" role="dialog" aria-hidden="true">
+		<div class="modal-dialog">
+			<div class="modal-content">
+				<div class="modal-header">
+					<button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+					<h4 class="modal-title"></h4>
+				</div>
+				<div class="modal-body">
+					<iframe id="popup" src="" width="100%" style="height: 430px" frameborder="0"></iframe>
+				</div>
+			</div>
+		</div>
+	</div>
 </div>
-<div class="modal-body">
-<iframe id="popup" src="" width="100%" style="height:430px" frameborder="0"></iframe>
-</div></div></div></div></div>
-<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
-
+<script src="/main/bootstrap/js/jquery-1.11.2.min.js"></script>
 <script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+var i18nLangJSON=[{"country":"USA","code":"US","languages":[{"label":"English","code":"en_US"}]},
+                  {"country":"Columbia","code":"CO","languages":[{"label":"Espa�ol","code":"es_CO"},{"label":"Ingles","code":"en_CO"}]}	                 
+                  ];
 
-  ga('create', 'UA-60215903-1', 'auto');
-  ga('send', 'pageview');
-
-</script>
-<script>
-
-$(function(){
-$('#contact').click(function() {
-$('.modal-title').html('Contact Eventbee');
-$('#myModal').on('show.bs.modal', function () {
-$('iframe#popup').attr("src",'/main/user/homepagesupportemail.jsp');
-$('iframe#popup').css("height","440px"); 
-});
-$('#myModal').modal('show');
-});
-$('#getTickets').click(function() {
-$('.modal-title').html('Get My Tickets');
-$('#myModal').on('show.bs.modal', function () {
-$('iframe#popup').attr("src",'/main/user/homepagemytickets.jsp');
-$('iframe#popup').css("height","435px");
-});
-$('#myModal').modal('show');
-});
-$('#myModal').modal({
-backdrop: 'static',
-keyboard: false,
-show:false
-});
-$('#myModal').on('hide.bs.modal', function () {
-$('iframe#popup').attr("src",'');
-$('#myModal .modal-body').html('<iframe id="popup" src="" width="100%" style="height:440px" frameborder="0"></iframe>');
-});
-});
-</script> <!-------------------------End of Header----------------------------->
+var I18N_ACTUAL_CODE='en_US';
+var lang=I18N_ACTUAL_CODE.split("_")[0];
+var country=I18N_ACTUAL_CODE.split("_")[1];
+	$(function() {			
+		var countryHTML="";
+		var languagesHTML="";
+		$.each(i18nLangJSON,function(index,value){
+			if(country==value.code)
+			 	 countryHTML+='<li class="active" id="index_'+index+'"><a title="'+value.country+'" href="javascript:;">'+value.country+'</a></li>';			
+			 else
+				 countryHTML+='<li  id="index_'+index+'"><a title="'+value.country+'" href="javascript:;">'+value.country+'</a></li>';
+		});
+		$("#countries").html(countryHTML);
+		
+		$(document).on("click","[id^='index']",function(){
+			countryClick($(this),false);
+		});
+		$.each(i18nLangJSON,function(index,value){
+			if(value.code==country)	
+				countryClick($("#index_"+index),true);				
+		});
+		
+		
+		$("#i18nLangToggle").click(function(){
+			if($("#i18nLang").is(":visible"))
+				$("#i18nLang").hide('slow');
+			else
+				$("#i18nLang").show('slow');
+		});
+		
+		$('#contact').click(function() {
+							$('.modal-title').html(props.la_supp_popup_hdr);
+							$('#myModal').on('show.bs.modal',
+											function() {
+												$('iframe#popup')
+														.attr("src",
+																'/main/user/homepagesupportemail.jsp');
+												$('iframe#popup').css("height",
+														"440px");
+											});
+							$('#myModal').modal('show');
+						});
+		$('#getTickets').click(	function() {
+							$('.modal-title').html(props.la_get_tkts_popup_hdr);
+							$('#myModal').on('show.bs.modal',
+											function() {
+												$('iframe#popup')
+														.attr("src",
+																'/main/user/homepagemytickets.jsp');
+												$('iframe#popup').css("height",
+														"435px");
+											});
+							$('#myModal').modal('show');
+						});
+		$('#myModal').modal({
+			backdrop : 'static',
+			keyboard : false,
+			show : false
+		});
+		$('#myModal').on('hide.bs.modal',
+						function() {
+							$('iframe#popup').attr("src", '');
+							$('#myModal .modal-body')
+									.html(
+											'<iframe id="popup" src="" width="100%" style="height:440px" frameborder="0"></iframe>');
+						});
+	});
+	
+	function countryClick(el,programClick){
+		var index=el.attr('id').split("_")[1];	
+		var languages=i18nLangJSON[parseInt(index)]['languages'];
+		if(!programClick){
+			languageClick(languages[0].code);
+			return false;
+		}
+		el.addClass('active');
+		el.siblings().removeClass('active');		
+		var languagesHTML="";
+		$.each(languages,function(index,value){
+				if(I18N_ACTUAL_CODE==value.code)
+					 languagesHTML+='<li class="active" style="cursor:pointer"><a title="'+value.label+'" onclick="languageClick(\''+value.code+'\')">'+value.label+'</a></li>';						
+			    else
+					 languagesHTML+='<li style="cursor:pointer"><a title="'+value.label+'" onclick="languageClick(\''+value.code+'\')">'+value.label+'</a></li>';							 
+			});
+		$("#languages").html(languagesHTML);
+	}
+	
+	function languageClick(code){		
+		  var path = location.pathname;
+		  var lang=path.split("/")[3];
+		  if(lang){
+			  path=path.substring(0,path.indexOf(lang))+code;
+		  }else
+			  path=path+"/"+code;
+		location.href=path;
+	}
+	
+</script><!-------------------------End of Header----------------------------->
 </div>
 <div id="bodycontainer">
 
 
 
 
-<div id="singledatacol">
-	<!--<div id="tasktitlebar"></div>  -->
-
+<div id="singledatacol"><!--<div id="tasktitlebar"></div>  -->
 
 <div id="maincontent"><!-------------------------Begin of main content----------------------------->
 <div class="container">
-<div class="container_2">
+
 <style>
 #maincontent {
 padding: 0px;
@@ -423,9 +530,8 @@ $('#myModal .modal-body').html('<iframe id="popup" src="" width="100%" style="he
 });
 });	
 </script>
-
- <!-------------------------End of main content----------------------------->
- </div>
+<!-------------------------End of main content----------------------------->
+ 
  </div>
 </div>
 </div>
@@ -434,100 +540,97 @@ $('#myModal .modal-body').html('<iframe id="popup" src="" width="100%" style="he
 
 </div>
 <div id="footer1"><!-------------------------Begin of Footer----------------------------->
-<link type="text/css" rel="stylesheet" href="/main/css/bootstrap/bootstrap.min.css">
-<link type="text/css" rel="stylesheet" href="/main/css/bootstrap/style.css">
-<link type="text/css" rel="stylesheet" href="/main/font-awesome-4.0.3/css/font-awesome.min.css">
+
+
+
+
+<style>
+.footertabheader{
+       color: #B0B0B0;
+       font-family: 'Open Sans', sans-serif;
+}
+.footerlinks a, .footertab a{
+         color: #ccc;
+         font-size: 12px;
+         line-height: 200%;
+}
+.top-gap{
+	margin-top:7px;
+}
+</style>
+
+
+
+<script src="//www.eventbee.com/main/js/i18n/en_US/footerjson.js?id=1"></script>
+
+<script>
+function fillHTML(){
+	var html="<br>";
+	for(var i=0;i<i18nFooter.sections.length;i++){
+		var eachSection=i18nFooter.sections[i];
+		html+='<div class="col-md-'+eachSection.grids+'">';
+		
+		for(var j=0;j<eachSection.subsections.length;j++){
+			var eachSubSection=eachSection.subsections[j];
+			html+='<span class="footertabheader">'+ 
+						'<h4>'+
+								'<strong>'+eachSubSection.title+'</strong>'+
+						'</h4>'+
+					'</span>';
+			for(var k=0;k<eachSubSection.sublinks.length;k++){
+				var eachSubLink=eachSubSection.sublinks[k];
+				if(eachSubLink.type=="text"){
+					
+					 if(eachSubLink.strong)
+	  	                  html+=' <strong>';
+					  if(eachSubLink.i18n_include==false)
+						  html+='<span class="footertab"><a href="'+eachSubLink.href+'"';
+					else	  
+					   	 html+='<span class="footertab"><a href="'+eachSubLink.href+'"';
+					     if(eachSubLink.target)
+		  	                  html+=' target="'+eachSubLink.target+'"';
+				    	   html+='>';
+					   	if(eachSubLink.limg)
+		  	                  html+=eachSubLink.limg;
+					   	html+=eachSubLink.label+'</a></span>';
+					   	
+					    if(eachSubLink.strong)
+		  	                  html+=' </strong>';
+					   	
+					    html+='<br/>';
+		  	                
+				}
+			    else if(eachSubLink.type=="img"){
+			    	html+='<a href="'+eachSubLink.href+'"'; 
+					    	if(eachSubLink.target)
+		  	                  html+=' target="'+eachSubLink.target+'"';
+				    	  html+='>'+
+			    				'<img src="'+eachSubLink.src+'"';
+				    					if(eachSubLink.width)
+				    	                  html+=' width="'+eachSubLink.width+'"';
+				    					if(eachSubLink.class_name)
+					    	                  html+=' class="'+eachSubLink.class_name+'"';
+			    	            html+='/>'+
+			    		        '</a> <br/>';
+			    }
+			}
+				
+		}	
+		
+		html+='</div><!--grid div close -->';
+		document.getElementById("rootDiv").innerHTML=html;
+	}
+	
+}
+</script>
+
 <!-- full width container footer -->
 <div class="container" style="background-color: #474747; width: 100%;">
 	<div class="container footer">
 		<div class="row" style="margin: 0 auto; padding-bottom: 10px;">
-			<div class="row">
-				<br>
-				<div class="col-md-2">
-					<span class="footertabheader"><h4>
-							<strong>Eventbee</strong>
-						</h4></span> <span class="footertab"><a href="/main/aboutus">About
-							Us</a></span> <br> <span class="footertab"><a href="/main/contact">Contact
-							Us</a> </span> <br> <span class="footertab"><a href="/main/compare">Compare Us</a> </span> <br> <span class="footertab"><a href="/main/faq">FAQ</a></span>
-					<h4>
-						<strong>Connect</strong>
-					</h4>
-					<p class="footertab">
-						<a href="https://www.facebook.com/eventbeeinc" target="_blank">
-							<i style="padding-right: 20px" class="fa fa-fw fa-2x fa-facebook"></i>
-							Facebook<br>
-						</a> <a href="https://twitter.com/eventbee" target="_blank"> <i style="padding-right: 20px" class="fa fa-fw fa-2x fa-twitter"></i>
-							Twitter<br>
-						</a> <a href="http://blog.eventbee.com/" target="_blank"> <i style="padding-right: 20px" class="fa fa-fw fa-2x fa-rss-square"></i>
-							Blog<br>
-						</a> <a href="http://www.youtube.com/user/eventbee/videos" target="_blank"> <i style="padding-right: 20px" class="fa fa-fw fa-2x fa-youtube-square"></i> Videos<br>
-						</a>
-					</p>
-				</div>
-				<div class="col-md-4">
-					<span class="footertabheader"><h4>
-							<strong>Online Registration &amp; Event Ticketing</strong>
-						</h4></span> <span class="footertab"><a href="/main/how-it-works">Event
-							Creation - Event Ticketing Types, Donations, Registration Form,
-							Credit Card Processing, Venue Seating</a></span><br> <span class="footertab"><a href="/main/how-it-works">Event
-							Promotion - Event Page Links, Buttons, Widgets, Social Media
-							Sharing, Facebook Ticketing App</a></span><br> <span class="footertab"><a href="/main/how-it-works">Event Manage - Sell Tickets, Check
-							In Attendees, Sub Managers, Reports</a></span> <span class="footertabheader"><h4>
-							<strong>Event Credit Card Processing</strong>
-						</h4></span> <span class="footertab"><a href="/main/sell-event-tickets-with-paypal-stripe-braintree-authorize-net">PayPal, Stripe, Braintree, Authorize.net, Eventbee</a></span><br> <span class="footertabheader"><h4>
-							<strong>At The Door Apps</strong>
-						</h4></span> <span class="footertab"><a href="/main/eventbee-manager-app">Eventbee Manager App for
-							Android</a></span><br> <a href="https://play.google.com/store/apps/details?id=com.eventbee.eventbeemanager" target="_blank"> <img src="/main/images/googleplayicon.png" width="150">
-					</a> <br>
-					<!-- <span class="footertab"><a style="text-decoration:none">Eventbee Manager App for Kindle Fire</a></span> -->
-					<a href="http://www.amazon.com/Eventbee-Manager/dp/B00O8L7V5Y/ref=sr_1_1?s=mobile-apps&amp;ie=UTF8&amp;qid=1412689478&amp;sr=1-1&amp;keywords=eventbee" target="_blank"> <img src="/main/images/amazonappstore.png" width="150" style="margin-top: 7px;">
-					</a><br> <span class="footertab"><a style="text-decoration: none">Eventbee Attendee Check-In App
-							for iOS</a></span><br> <a href="https://itunes.apple.com/us/app/eventbee-real-time-attendee/id403069848?mt=8" target="_blank"> <img src="http://images.eventbee.com/main/images/home/iphone.png" width="150">
-					</a>
-				</div>
-				<div class="col-md-3">
-					<span class="footertabheader"><h4>
-							<strong>How To</strong>
-						</h4></span> <span class="footertab"><strong><a href="/main/venue-reserved-seating">Venue Reserved Seating</a></strong></span><br>
-					<span class="footertab"><strong><a href="/main/sell-tickets-on-facebook">Sell Tickets On
-								Facebook</a></strong></span><br> 
-						<span class="footertab"><strong><a href="/main/custom-online-registration-form">Custom Online
-								Registration Form</a></strong></span><br> <span class="footertab"><strong><a href="/main/social-media-event-marketing">Social Media Event
-								Marketing</a></strong></span><br> <span class="footertab"><strong><a href="/main/attendee-event-management-at-the-door">Attendee &amp;
-								Event Management</a></strong></span><br> <span class="footertab"><strong><a href="/main/free-online-event-registration-software">Free
-								Online Registration</a></strong></span><br> <span class="footertab"><strong><a href="/main/free-event-ticketing-software">Free Event
-								Ticketing</a></strong></span><br> 
-								
-					<span class="footertabheader"><h4>
-							<strong>Programs</strong>
-						</h4></span> <span class="footertab"><a href="/main/good">25%
-							Nonprofit Discount</a></span><br> <span class="footertab"><a href="/main/eventbee-ticketing-kindle-promotion">Free Kindle
-							Fire</a></span> <br> <span class="footertabheader"><h4>
-							<strong>More Solutions</strong>
-						</h4></span> <span class="footertab"><a href="http://apps.facebook.com/eventbeeticketing" target="_blank">Facebook
-							Ticketing - Sell Tickets From Facebook Fan Page</a></span><br> <span class="footertab"><a href="http://www.volumebee.com" target="_blank">Volumebee - Crowd Selling Platform For Tickets
-							&amp; More</a></span><br>
-				</div>
-				<div class="col-md-3">
-					<span class="footertabheader"><h4>
-							<strong>Use Cases</strong>
-						</h4></span> <span class="footertab"><a href="/main/conference-registration">Conference Registration</a></span><br>
-					<span class="footertab"><a href="/main/seminar-class-registration">Seminars &amp; Classes
-							Registration</a></span><br> <span class="footertab"><a href="/main/non-profit-ticketing-fundraising">Non Profit
-							Ticketing &amp; Fundraising</a></span><br> <span class="footertab"><a href="/main/festivals-fairs-ticketing">Festivals &amp; Fairs
-							Ticketing</a></span><br> <span class="footertab"><a href="/main/schools-student-events">Schools &amp; Student Events</a></span><br>
-					<span class="footertab"><a href="/main/sports-activity-ticketing">Sports &amp; Activity
-							Ticketing</a></span><br> <span class="footertab"><a href="/main/theater-box-office-ticketing">Venue Seating &amp; Box
-							Office</a></span><br> <span class="footertab"><a href="/main/clubs-party-ticketing">Clubs &amp; Party Ticketing</a></span><br>
-					<span class="footertab"><a href="/main/music-concert-ticketing">Music &amp; Concert Ticketing</a></span><br>
-					<span class="footertab"><a href="/main/halloween-party-ticketing">Halloween Party
-							Ticketing</a></span><br> <span class="footertab"><a href="/main/new-years-eve-party-ticketing">New Years Eve Party
-							Ticketing</a></span> <span class="footertabheader"><h4>
-							<strong>Case Studies</strong>
-						</h4></span> <span class="footertab"><a href="/main/eventbee-customer-case-study-bishop-kelly-high-school">Bishop
-							Kelly High School</a></span><br> <span class="footertab"><a href="/main/eventbee-customer-case-study-demolay-international">DeMolay
-							International</a></span><br>
-				</div>
+			<div class="row" id="rootDiv">
+				
+				
 			</div>
 		</div>
 	</div>
@@ -538,36 +641,35 @@ $('#myModal .modal-body').html('<iframe id="popup" src="" width="100%" style="he
 		<div class="row" style="margin: 0 auto; padding-top: 15px;">
 			<div class="row">
 				<center>
-					<span style="font-size: 12px; color: #ccc"> Copyright
-						2003-2015. Eventbee Inc. All Rights Reserved. </span>
+					<span style="font-size: 12px; color: #ccc"> Copyright 2003-­2015. Eventbee Inc. All Rights Reserved. </span>
 				</center>
 				<span class="footerlinks" style="font-size: 0.7em">
 					<center>
-						<a href="/main/privacystatement"> Privacy Statement</a> | <a href="/main/termsofservice">Terms Of Service</a>
+						<a href="/main/privacystatement">Privacy Statement</a> <span style="color: #ccc"> |</span>   <a href="/main/termsofservice">Terms Of Service</a>
 					</center>
 				</span>
 				<center>
-					<span style="font-size: 12px; color: #ccc">Trusted by
-						40,000+ Event Managers all over the world for their Online
-						Registration, Event Ticketing and Event Promotion needs!</span>
+					<span style="font-size: 12px; color: #ccc">Trusted by 40,000+ Event Managers all over the world for their Online Registration, Event Ticketing and Event Promotion needs!</span>
 				</center>
 			</div>
 			<br>
 		</div>
 	</div>
 </div>
+<script>
+fillHTML();
+</script>
 
 
 
 
 
-
- <!-------------------------End of Footer----------------------------->
+<!-------------------------End of Footer----------------------------->
 </div>
-<script src="//images.eventbee.com/main/js/bootstrap.min.js"></script>
-<script src="//images.eventbee.com/main/js/jquery.tooltipster.js"></script>
-<script src="//images.eventbee.com/main/js/jquery.validate.min.js"></script>
-<script src="//images.eventbee.com/main/js/jquery.ezpz_hint.js"></script>
+<script src="//www.eventbee.com/main/js/bootstrap.min.js"></script>
+<script src="//www.eventbee.com/main/js/jquery.tooltipster.js"></script>
+<script src="//www.eventbee.com/main/js/jquery.validate.min.js"></script>
+<script src="//www.eventbee.com/main/js/jquery.ezpz_hint.js"></script>
 
 
 </body></html>
