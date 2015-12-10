@@ -1,11 +1,6 @@
-> *The following text is extracted and transformed from the bookabach.co.nz privacy policy that was archived on 2015-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150314233157id_/http%3A//www.bookabach.co.nz/cms/view/legal/our-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bookabach.co.nz privacy policy that was archived on 2015-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151210162459id_/https%3A//www.bookabach.co.nz/cms/view/legal/our-privacy-policy) for the most accurate reproduction.*
 
 # Our Privacy Policy
-
-  * Created: 12-Jan-2011 
-  * Updated: 25-Feb-2013 
-
-
 
 Bookabach is strongly committed to your right to privacy and to taking steps designed to secure your personal information. To earn your trust and confidence in our commitment, the intent of this policy is to fully disclose our privacy practices to you. We will only use your personal information in accordance with this Privacy Policy.  **First and foremost you need to know that our policy is to NOT sell, rent or otherwise distribute our membership database!.**
 
