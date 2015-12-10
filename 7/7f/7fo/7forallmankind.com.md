@@ -1,18 +1,20 @@
-> *The following text is extracted and transformed from the 7forallmankind.com privacy policy that was archived on 2015-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150504032340id_/http%3A//www.7forallmankind.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 7forallmankind.com privacy policy that was archived on 2015-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151210042340id_/http%3A//www.7forallmankind.com/privacy) for the most accurate reproduction.*
 
-# Privacy policy - 7 For All Mankind
+# 
 
 Last updated: September 16, 2014
 
 Onestop Internet, Inc. ("Onestop") operates this Web site, pursuant to agreements with 7 For All Mankind. ("7 For All Mankind"). Both Onestop and 7 For All Mankind ("we" or "us") recognize that you care how information about you is used and shared. We have created this Privacy Policy to inform you of our information collection, use and sharing practices for this Web site.
 
-Please be advised that the practices described in this Privacy Policy apply only to information gathered through:(i) this website (ii) where applicable, our **[Customer Service Department](https://web.archive.org/store/os/feedback.aspx)** in connection with this website, (iii) our free standing retail stores, (iv) information provided to us in conjunction with marketing promotions and sweepstakes or (v) or any other way we interact with you. The practices described in this Privacy Policy do not necessarily reflect our practices with respect to information gathered through other websites that we operate or through other off-line means.
+Please be advised that the practices described in this Privacy Policy apply only to information gathered through:(i) this website (ii) where applicable, our Customer Service Department in connection with this website, (iii) our free standing retail stores, (iv) information provided to us in conjunction with marketing promotions and sweepstakes or (v) or any other way we interact with you. The practices described in this Privacy Policy do not necessarily reflect our practices with respect to information gathered through other websites that we operate or through other off-line means.
 
-If you have any questions regarding this Privacy Policy, you should contact our **[Customer Service Department](https://web.archive.org/store/os/feedback.aspx)**.
+If you have any questions regarding this Privacy Policy, you should contact our Customer Service Department.
 
 7 For All Mankind recognizes that you care how information about you is used and shared and respects your privacy. This Privacy Policy describes what information we may collect from you, how we collect that information, how we use that information, and the choices you have regarding your information. By using our website, mobile applications, or providing information to us in other ways, you agree to be bound by this Privacy Policy.
 
 This Privacy Policy was lasted updated September 16, 2014 and may be updated from time to time. Please check back periodically for further updates and changes. The most updated version will be the one that is available on this website.
+
+**What Information About Me Is Collected and Stored?**
 
 **Information You Provide**
 
@@ -36,7 +38,7 @@ We may also collect information by using cookies, web beacons, and related techn
 
 We use third-party companies to provide Internet data hosting and to help us measure and determine how visitors use our website and the effectiveness of our website and promotions in order to help us improve and optimize our website and the products and services we offer. We also use third-party companies to serve advertisements (banners or links) on our behalf across the Internet. These companies use tracking technologies (including cookies and pixel tags) to collect non-identifiable information about your visits to our website and your interactions with our products and services in order to provide tailored advertisements based on your interests and browsing of our website (remarketing) on our behalf and on behalf of other advertisers across the Internet. We use third-party audience data (such as age, gender, and interests) to better understand and advertise to audiences that visit our website. We do not use or associate personally identifiable information with remarketing lists, cookies, data feeds, or other anonymous identifiers.
 
-Our websites currently do not have a mechanism to recognize "Do Not Track" signals, but several of the third-party companies who utilize these cookies or beacons enable you to opt out of this advertising. If you wish to opt out of receiving this third-party interest-based advertising, you may obtain more information **[here](http://www.networkadvertising.org/choices/#completed)**. Please note this does not opt you out of receiving marketing communications from us.
+Our websites currently do not have a mechanism to recognize "Do Not Track" signals, but several of the third-party companies who utilize these cookies or beacons enable you to opt out of this advertising. If you wish to opt out of receiving this third-party interest-based advertising, you may obtain more information here. Please note this does not opt you out of receiving marketing communications from us.
 
 In addition, some of our e-mail communications to you may include a "click-through URL" linked to a particular page on the website. By clicking on one of these URLs, you will automatically enter our website and we may collect information related to the "click-through." You may avoid having this information collected by not clicking on URL links in our e-mail communications.
 
@@ -46,9 +48,13 @@ We also may use a variety of retail analytics tools in our stores for operationa
 
 We may collect information about you from third-party sources and information that is publicly available. For example, information you submit in a public forum (e.g., a blog, chat room, or social network site) can be read, collected, or used by us and others, and could be used to personalize your experience. You are responsible for the information you choose to submit in these instances. Another example, is that we may receive demographic information about you from a third party to make our service and marketing efforts more efficient and personalized for you.
 
+**How Is Information Used?**
+
 We use the personal information we collect to conduct our business, communicate with you, and provide great products, services, and experiences. We or third-party service providers we engage may use the information to provide the products and services that you have ordered or requested, to process and ship orders, to send order and shipping confirmations, to provide customer service, to respond to your comments, questions or complaints, to personalize your experiences, to analyze your preferences and shopping habits, to analyze trends and statistics, to administer and fulfill our contests and other promotions, to analyze and improve the website and our products and services, and to send you marketing communications and other information regarding our products, services, marketing, or special events. We also use your information for business purposes such as security, payment processing, analytics, operations, fraud detection, reporting, making back-ups, and legal compliance.
 
 You always have the choice not to receive marketing communications. For instructions on opting out of those communications, please see the section entitled "Can I Indicate Whether or Not I Want to Receive Promotional Communications?" below.
+
+**With Whom Is Information Shared?**
 
 Except with your consent or as described in this Privacy Policy, we do not sell, rent, or share with third parties any of your personal information.
 
@@ -58,32 +64,48 @@ We may share personal information with certain third parties that perform servic
 
 We may share personal information with a third party if we are required by law to disclose that personal information. For example, we may be required to disclose personal information to respond to a subpoena, court order, or other legal process. We may also disclose this information in response to a law enforcement agency's request, or where we believe it is necessary to investigate or address unlawful acts or acts that may endanger the health or safety of a consumer or the general public, to verify or enforce compliance with the terms of use and policies that govern our website or as otherwise required or permitted by law. In addition, the personal information you provide to us may be transferred as an asset in connection with a merger or sale involving all or part of 7 For All Mankind or as part of a corporate reorganization, stock sale or other change of control.
 
+**WHAT ABOUT THE PRIVACY OF CHILDREN UNDER 13?**
+
 We do not intend to collect personal information from anyone who is under the age of 13. If you are under the age of 13 you should not provide any personal information to us and you should use this website only with the involvement of a parent or guardian. If you are a parent or guardian of a child under the age of 13 and suspect he/she has provided personal information on or through the website, please contact us as set forth below under "How Can I Contact You Regarding This Privacy Policy?"
 
+**WHAT STEPS ARE TAKEN TO KEEP PERSONAL INFORMATION SECURE?**
+
 The security of your information is important to us. We have instituted security procedures and measures to protect our servers and networks that store personal information. Unfortunately, no transmission of information over the Internet can be guaranteed to be 100% secure and, therefore, we cannot ensure or warrant the security of any information. In order to help protect personal information you provide to us, you: (i) should not share your password or account information with others, (ii) should use a secure web browser, and (iii) should change your password frequently. If you wish to cancel a password, or if you become aware of any loss, theft, or unauthorized use of a password, please contact us as set forth below under "How Can I Contact You Regarding This Privacy Policy?"
+
+**HOW CAN I ACCESS, CORRECT, AND UPDATE PERSONAL INFORMATION?**
 
 You may access, correct and update certain personal information that you have provided to us by clicking on the "My Account" area of this website and following the instructions set forth therein or by contacting us with your request as set forth below under "How Can I Contact You Regarding This Privacy Policy?"
 
 We reserve the right to retain any personal information reasonably necessary to appropriately document our business activities and for archival and record retention purposes. We will store personal information for as long as reasonably necessary for the purposes described in this Privacy Policy. You may find out more details regarding this Privacy Policy by contacting us as provided below under "How Can I Contact You Regarding This Privacy Policy?"
 
+**CAN I INDICATE WHETHER OR NOT I WANT TO RECEIVE PROMOTIONAL COMMUNICATIONS?**
+
 There are several ways in which you can tell us whether or not you want to receive promotional communications from us. When you set-up an account or click on the "My Account" area of this website, you will have an opportunity to make or change your selections in this regard. You also will have an opportunity to change these selections by clicking on an "unsubscribe" hyperlink contained in promotional e-mails we send you. If you have not established an account but have instead signed-up for our e-mail list, you will be able to change your e-mail preferences by clicking on an "unsubscribe" hyperlink contained in promotional e-mails we send you. Please note that removal of personal information from our database or "opting-out" will not stop marketing or advertising content that is generated for distribution or is otherwise queued for transmission to you prior to the time when we can implement your request.
 
 If you establish an account, you may receive certain types of communications even if you have not opted-in to receive them because these types of communications may be necessary in order to maintain an account on the website.
 
+**WHAT HAPPENS WHEN I LINK TO OR FROM ANOTHER WEBSITE?**
+
 This website may contain links to or from websites to which this Privacy Policy does not apply ("Linked Websites"). Please be advised that the practices described in this Privacy Policy do not reflect the practices regarding information collection, use and disclosure of Linked Websites or the owners or operators of those Linked Websites. Your use of Linked Websites will be governed by the terms of use, privacy policies, and other terms, notices, and policies set forth on or referenced in those Linked Websites. We encourage you to be aware of when you leave this website and to read the privacy policies of each and every website that you visit.
+
+**HOW CAN I CONTACT YOU REGARDING THIS PRIVACY POLICY?**
 
 If you have any questions or concerns regarding your privacy or the Privacy Policy you can send a request with your concerns or any further questions to us by using the contact information provided below:
 
 7 For All Mankind, a division of VF Contemporary Brands, Inc  
 Attn: Online Customer Service  
 3040 E Ana St.  
-Rancho Dominguez, CA 90221 
+Rancho Dominguez, CA 90221
+
+**WHAT IF I AM A RESIDENT OF CALIFORNIA?**
 
 California Civil Code Section 1798.83 permits customers who are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please write to us at the following address:
 
 7 For All Mankind, a division of VF Contemporary Brands, Inc  
 Attn: Online Customer Service  
 3040 E Ana St.  
-Rancho Dominguez, CA 90221 
+Rancho Dominguez, CA 90221
+
+**WHAT IF I AM AN INTERNATIONAL USER?**
 
 Our digital operations are conducted, in whole or in part, in the United States. Regardless of where you live, you consent to have your personal data transferred, processed, and stored in the United States, and allow 7 For All Mankind to use and collect your personal information in accordance with this Privacy Policy.
