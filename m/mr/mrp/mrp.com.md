@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the mrp.com privacy policy that was archived on 2015-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150621215905id_/http%3A//www.mrp.com/company/privacyPolicy.jsp%3Fselpage%3DprivacyPolicyNav) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mrp.com privacy policy that was archived on 2015-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151210030136id_/http%3A//www.mrp.com/company/privacyPolicy.jsp%3Fselpage%3DprivacyPolicyNav) for the most accurate reproduction.*
 
 # MRP Online Shopping | Apparel - Ladies, Men and Kids Fashion Clothing
 
-## terms and conditions for the use of the www.mrp.com website
+## terms and conditions for the use of the www..mrp.com website
 
 #### 1\. INTRODUCTION
 
@@ -20,8 +20,28 @@
   * 2.1. Insofar as this Agreement falls within the ambit of the Act, the following information is made available to you in respect of the supply of goods and/or services offered for sale, hire or exchange by way of an electronic transaction: 
     * 2.1.1. All our contact details are set out in clause 11 below.
     * 2.1.2. Goods and/or Services: The goods and/or services provided through the Website are various services which enable you to give instructions to Mr Price.
-    * 2.1.3. Complaints and Disputes: We invite you to file complaints with us via the "Contact Us" service of the Website [www.mrp.com](http://www.mrp.com/) or you can contact us by way of the contact details set out in clause 11 below. We do not currently subscribe to any alternative dispute resolution code or mechanism.
-    * 2.1.4. Policies: Our policies are set out in this Agreement below. As provided for in section 42(2)(a) of the Act, you acknowledge and agree that Section 44 of the Act (the Cooling-off period) does not apply to transactions concluded by means of the Website.
+    * 2.1.3. Complaints and Disputes: 
+      1. 2.1.3.1. We are bound by the Consumer Goods and Services Industry Code and are a participant in the Consumer Goods and Services Ombud Scheme. An electronic copy of the Code is available at <http://goo.gl/EsdPQf>. If you have a complaint about the goods or services provided by us or require information regarding our internal complaints-handling process, please use the "Contact Us" service of the Website [www.mrp.com](http://www.mrp.com/) or you can contact our Customer Contract Centre telephonically on [0800 212 535](tel:0800212535), or via email at [help@mrp.com](mailto:help@mrp.com?subject=site%20terms%20and%20conditions).
+      2. 2.1.3.2. In the event of your complaint not being resolved to your reasonable satisfaction by us within 15 (fifteen) business days of having notified us or such extended period as agreed between us and yourself, you are entitled to approach the Consumer Goods and Services Ombud within a reasonable time, who will assist in resolving the dispute: 
+
+Website: <http://www.cgso.org.za/>  
+Sharecall: [0860 000 272](tel:0860000272)  
+Email: [info@cgso.org.za](mailto:info@cgso.org.za) / [complaints@cgso.org.za](mailto:complaints@cgso.org.za)  
+Fax: 086 206 1999  
+Physical Address:  
+Consumer Goods & Services Ombud  
+Association House  
+Bond Street Business Park  
+374 Kent Avenue  
+Randburg  
+South Africa
+
+Postal Address: P.O. Box 3815  
+Randburg  
+South Africa  
+2125
+
+  * 2.1.4. Policies: Our policies are set out in this Agreement below. As provided for in section 42(2)(a) of the Act, you acknowledge and agree that Section 44 of the Act (the Cooling-off period) does not apply to transactions concluded by means of the Website.
 
 
 
@@ -108,52 +128,63 @@
 
 
 
-#### 9\. MR PRICE PRIVACY AND COOKIE POLICY
+#### 9\. MRP Social Media Terms and Conditions
 
-  * 9.1. This clause 9 provides details about our Privacy and Cookie Policy, which Policy forms part of this Agreement. Mr Price takes your privacy seriously and is committed to protecting your personal information. We use the personal information that we collect from you in accordance with this Privacy and Cookie Policy.
-  * 9.2. Personal information when used in this Policy means information that can identify you as an individual or is capable of identifying you. By personal information we don't mean general, statistical, aggregated or anonymised information.
-  * 9.3. Your use of our services signifies your consent to us collecting and using your personal information as specified below.
-  * 9.4. How we collect information about you: 
-    * 9.4.1. You may provide personal information to us when communicating with us.
-    * 9.4.2. You may order a product or a service and provide your name, e-mail address, delivery address, credit or debit card number and expiry date so that the order can be processed and your products (or services where appropriate) delivered to you. Sometimes, you may be asked for your telephone number.
-    * 9.4.3. When you call us, we may monitor or record your calls and store details of the phone number(s) you use to make the calls. This information is used to better address your customer service needs.
-    * 9.4.4. If you enter a competition or participate in a promotion, we will ask for your name, address and e-mail address and any other relevant information about you.
-    * 9.4.5. When you connect to the Internet using our services, we will collect your Calling Line Identification Number (CLI).
-    * 9.4.6. We will collect information concerning your tastes and preferences both when you tell us what these are and through our analysis of customer traffic, including through the use of cookies (as described below).
-    * 9.4.7. It may be that you provide to us details of credit or debit cards or bank accounts in order to make payments to us. Any such information ("confidential financial information") will be used by us only for the specific purpose for which it was provided to us.
-  * 9.5. How we use your information 
-    * 9.5.1. We may use your information to confirm that your orders have been received; to validate you as a customer when using our services and calling our [help desk]; to prevent and detect criminal activity, fraud and misuse of or damage to our services or networks; to prosecute those responsible and to contact you to invite you to form part of our consumer panel or various research groups.
-    * 9.5.2. We may also use your personal information and process such information for the purposes of management, research, analysis, corporate reporting, credit-scoring and improving business efficiencies.
-    * 9.5.3. We may use personal information collected about you to contact you by post, telephone and electronic mail (that is email, picture, video, and SMS) about functionality changes to our Website, services or changes to our Terms and Conditions, and to communicate with you about your customer benefits and advise you regarding the use of our services.
-    * 9.5.4. We may use the information collected about you to contact you by post or phone about new customer offers and services. We may also contact you by electronic mail for these purposes, subject to any preferences selected by you.
-    * 9.5.5. Subject to your preferences in respect of each of our services, selected third parties may use the personal information collected about you to contact you about information that you might find interesting.
-  * 9.6. How long do we keep your information for? The time periods for which we keep your information may vary according to the use or purpose attached to the information. Unless there is a specific legal requirement requiring us to keep your information, however, we will not keep it for longer than necessary for the purpose for which the information was collected or for which it is to be processed. We will in any event delete or destroy any personal information which has become obsolete.
-  * 9.7. Disclosing your information to third parties: 
-    * 9.7.1. Mr Price reserves the right to access and disclose personal information to comply with applicable laws, regulations and lawful government requests, to operate its systems properlyto protect itself or its users or to solve any customer disputes.
-    * 9.7.2. We may provide aggregate statistics about our sales, customers, traffic patterns and other website information to third parties, but these statistics will not include any information that could identify you.
-    * 9.7.3. We may from time to time elect to make use of other companies to provide some of our services, and our services will then be offered through third party service providers on our Website. We may then share your personal information with these companies. These companies can and will process this information and will be obliged to keep such information confidential.
-  * 9.8. A cookie is a piece of information that is stored on your computer's hard drive by your web browser. On revisiting our Website, our computer server will recognise the cookie, giving us information about your visit.
-  * 9.9. When and where do we use cookies? 
-    * 9.9.1. We allocate cookies during the registration process for our services. These cookies will hold information collected during your registration and will allow us to recognise you as a customer and provide you with the services you require. If your browser is set to reject cookies, you may not be able to register for Mr Price services. We may also use this data to better understand your interests while online and to personalise your visits to our Websites.
-    * 9.9.2. On different sections of our portal. We use cookies to collect information concerning visitors to our Website. Our servers use two different types of cookies. The first type is known as a 'session-based' cookie and is allocated to your computer only for the duration of your visit to our Website. It helps you to move around the Website faster and, if you're a registered customer, it allows us to give you information relevant to your selected Mr Price service. This cookie automatically expires when you close down your browser. The second type of cookie is known as a 'persistent' cookie. A persistent cookie will remain on your computer for the period of time that has been set for each cookie. Persistent cookies are used for the purposes of advertisements on our Website and to track whether these advertisements are clicked on by users; to control how often you are shown a particular advertisement; to tailor content to your preferences; to count the number of anonymous users of the Website and to provide security within shopping baskets or transactions. The types of cookies used and the manner in which the information generated by them is used will be governed by those advertisers' privacy policies. We have no control over these.
-    * 9.9.3. How can you refuse or opt out of cookies? Most browsers are set by default to accept cookies automatically, but usually you can alter the settings of your browser to prevent automatic acceptance and to prompt you every time a cookie is sent to you or to allow you to choose not to receive cookies at all.
-    * 9.9.4. How can you manage your privacy preferences? If you'd like us to stop processing your information for marketing purposes, please write to Mr Price customer care at the address set out in clause 11 below.
+  * 9.1. Our Social Media Platforms.   
+We are active on Twitter, Facebook, Instagram, Pinterest, Snapchat, Youtube and Google Plus.
+  * 9.2. Keep communications clean.   
+We respect other people’s rights and expect you to do the same when posting on our social media platforms. We reserve the right to delete any comments submitted to our social media platforms that are deemed to be malicious, hateful, or offensive, including but not limited to racist, sexist, or religiously discriminating remarks.
+  * 9.3. Keep communications legal  
+Do not post content on any of our social media platforms that infringes or violates someone else’s rights or otherwise violates the law.
 
 
 
-#### 10\. GOVERNING LAW AND JURISDICTION
+#### 10\. MR PRICE PRIVACY AND COOKIE POLICY
+
+  * 10.1. This clause 9 provides details about our Privacy and Cookie Policy, which Policy forms part of this Agreement. Mr Price takes your privacy seriously and is committed to protecting your personal information. We use the personal information that we collect from you in accordance with this Privacy and Cookie Policy.
+  * 10.2. Personal information when used in this Policy means information that can identify you as an individual or is capable of identifying you. By personal information we don't mean general, statistical, aggregated or anonymised information.
+  * 10.3. Your use of our services signifies your consent to us collecting and using your personal information as specified below.
+  * 10.4. How we collect information about you: 
+    * 10.4.1. You may provide personal information to us when communicating with us.
+    * 10.4.2. You may order a product or a service and provide your name, e-mail address, delivery address, credit or debit card number and expiry date so that the order can be processed and your products (or services where appropriate) delivered to you. Sometimes, you may be asked for your telephone number.
+    * 10.4.3. When you call us, we may monitor or record your calls and store details of the phone number(s) you use to make the calls. This information is used to better address your customer service needs.
+    * 10.4.4. If you enter a competition or participate in a promotion, we will ask for your name, address and e-mail address and any other relevant information about you.
+    * 10.4.5. When you connect to the Internet using our services, we will collect your Calling Line Identification Number (CLI).
+    * 10.4.6. We will collect information concerning your tastes and preferences both when you tell us what these are and through our analysis of customer traffic, including through the use of cookies (as described below).
+    * 10.4.7. It may be that you provide to us details of credit or debit cards or bank accounts in order to make payments to us. Any such information ("confidential financial information") will be used by us only for the specific purpose for which it was provided to us.
+  * 10.5. How we use your information 
+    * 10.5.1. We may use your information to confirm that your orders have been received; to validate you as a customer when using our services and calling our [help desk]; to prevent and detect criminal activity, fraud and misuse of or damage to our services or networks; to prosecute those responsible and to contact you to invite you to form part of our consumer panel or various research groups.
+    * 10.5.2. We may also use your personal information and process such information for the purposes of management, research, analysis, corporate reporting, credit-scoring and improving business efficiencies.
+    * 10.5.3. We may use personal information collected about you to contact you by post, telephone and electronic mail (that is email, picture, video, and SMS) about functionality changes to our Website, services or changes to our Terms and Conditions, and to communicate with you about your customer benefits and advise you regarding the use of our services.
+    * 10.5.4. We may use the information collected about you to contact you by post or phone about new customer offers and services. We may also contact you by electronic mail for these purposes, subject to any preferences selected by you.
+    * 10.5.5. Subject to your preferences in respect of each of our services, selected third parties may use the personal information collected about you to contact you about information that you might find interesting.
+  * 10.6. How long do we keep your information for? The time periods for which we keep your information may vary according to the use or purpose attached to the information. Unless there is a specific legal requirement requiring us to keep your information, however, we will not keep it for longer than necessary for the purpose for which the information was collected or for which it is to be processed. We will in any event delete or destroy any personal information which has become obsolete.
+  * 10.7. Disclosing your information to third parties: 
+    * 10.7.1. Mr Price reserves the right to access and disclose personal information to comply with applicable laws, regulations and lawful government requests, to operate its systems properlyto protect itself or its users or to solve any customer disputes.
+    * 10.7.2. We may provide aggregate statistics about our sales, customers, traffic patterns and other website information to third parties, but these statistics will not include any information that could identify you.
+    * 10.7.3. We may from time to time elect to make use of other companies to provide some of our services, and our services will then be offered through third party service providers on our Website. We may then share your personal information with these companies. These companies can and will process this information and will be obliged to keep such information confidential.
+  * 10.8. A cookie is a piece of information that is stored on your computer's hard drive by your web browser. On revisiting our Website, our computer server will recognise the cookie, giving us information about your visit.
+  * 10.9. When and where do we use cookies? 
+    * 10.9.1. We allocate cookies during the registration process for our services. These cookies will hold information collected during your registration and will allow us to recognise you as a customer and provide you with the services you require. If your browser is set to reject cookies, you may not be able to register for Mr Price services. We may also use this data to better understand your interests while online and to personalise your visits to our Websites.
+    * 10.9.2. On different sections of our portal. We use cookies to collect information concerning visitors to our Website. Our servers use two different types of cookies. The first type is known as a 'session-based' cookie and is allocated to your computer only for the duration of your visit to our Website. It helps you to move around the Website faster and, if you're a registered customer, it allows us to give you information relevant to your selected Mr Price service. This cookie automatically expires when you close down your browser. The second type of cookie is known as a 'persistent' cookie. A persistent cookie will remain on your computer for the period of time that has been set for each cookie. Persistent cookies are used for the purposes of advertisements on our Website and to track whether these advertisements are clicked on by users; to control how often you are shown a particular advertisement; to tailor content to your preferences; to count the number of anonymous users of the Website and to provide security within shopping baskets or transactions. The types of cookies used and the manner in which the information generated by them is used will be governed by those advertisers' privacy policies. We have no control over these.
+    * 10.9.3. How can you refuse or opt out of cookies? Most browsers are set by default to accept cookies automatically, but usually you can alter the settings of your browser to prevent automatic acceptance and to prompt you every time a cookie is sent to you or to allow you to choose not to receive cookies at all.
+    * 10.9.4. How can you manage your privacy preferences? If you'd like us to stop processing your information for marketing purposes, please write to Mr Price customer care at the address set out in clause 11 below.
+
+
+
+#### 11\. GOVERNING LAW AND JURISDICTION
 
   * This Agreement shall be governed by the laws of the Republic of South Africa, and you consent to the jurisdiction of the KwaZulu-Natal High Court in the event of any dispute arising from this Agreement. If any of the provisions of this Agreement are found by a court of competent jurisdiction to be invalid or unenforceable, that provision shall be enforced to the maximum extent permissible so as to give effect to the intent of this Agreement, and the remainder of the Agreement shall continue in full force and effect. This Agreement constitutes the entire agreement between you and us with regard to the use of the Website.
 
 
 
-#### 11\. CONTACT DETAILS
+#### 12\. CONTACT DETAILS
 
   * In the event that you need to contact us for purposes related to this Agreement, please make use of the following contact details:
   * Telephone: +27 (0)31 310 8023
   * Email: Helen Grosvenor - [HGrosvenor@mrpg.com](mailto:HGrosvenor@mrpg.com?subject=mrp%20site%20terms%20and%20conditions)
   * Registered Address (and address for legal service):
   * Mr Price Group Limited, 65 Masabalala Yengwa Avenue, Durban, RSA, 4001 Postal Address: P.O. Box 912, Durban, RSA, 4000
-  * Last updated 23/09/14
+  * Last updated 20/11/15
 
 
