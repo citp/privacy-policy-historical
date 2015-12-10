@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the nomadesk.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623012548id_/http%3A//www.nomadesk.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nomadesk.com privacy policy that was archived on 2015-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151210203333id_/http%3A//www.nomadesk.com/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Nomadesk
 
-Nomadesk is developed by Nomadesk NV (Ltd.), with headquarters at Xavier De Cocklaan 66-5, B-9830, Sint-Martens-Latem, Belgium, company registration number BE-0867.499.902.
+Nomadesk is developed by Nomadesk NV (Ltd.), with headquarters at Kortrijksesteenweg 204, B-9830, Sint-Martens-Latem, Belgium, company registration number BE-0867.499.902.
 
 Thank you for visiting our web site nomadesk.com (the Site). This privacy policy tells you how we use personal information collected at this Site. Please read this privacy policy before using the site or submitting any personal information. By using the Site, you are accepting the practices described in this privacy policy. These practices may be changed, but any changes will be posted and changes will only apply to activities and information on a going forward, not retroactive basis. You are encouraged to review the privacy policy whenever you visit the Site to make sure that you understand how any personal information you provide will be used.  
 Note: the privacy practices set forth in this privacy policy are for this web site only. If you link to other web sites, please review the privacy policies posted at those sites.
@@ -31,7 +31,8 @@ We reserve the right to make changes to this policy. Any changes to this policy 
 
 ## Encrypted Local Drive
 
-Nomadesk creates a secure area on your local hard drive called a Vault. All folders and files stored on a Vault are protected by 256-bit encryption. When the Nomadesk application is closed, your Vaults are invisible, making it impossible for unauthorized individuals to access your private data. Starting the Nomadesk application, and entering your personal password (only known by you) unhides the Vaults and makes them readily available within your standard file management applications (i.e., Windows Explorer, Mac Finder).
+Nomadesk creates a secure area on your local hard drive called a Vault. All folders and files stored on a Vault are protected by 256-bit encryption. When the Nomadesk application is closed, your Vaults are invisible, making it impossible for unauthorized individuals to access your private data. Starting the Nomadesk application, and entering your personal password (only known by you) unhides the Vaults and makes them readily available within your standard file management applications (i.e., Windows Explorer, Mac Finder).  
+Using SAML, the authentication can be done against your Active Directory.
 
 ## Theftguard Remote Wipe
 
@@ -39,11 +40,12 @@ In the event your computer or mobile device is stolen, Nomadesk uses a unique se
 
 ## Unlimited Storage
 
-Hard drives crash and computers get stolen but that doesn’t mean you data will be lost. Every time a file is changed or a new file is saved on your Vault it gets backed up to the cloud. Since your files are backed up to redundant servers in the cloud, Nomadesk provides instant disaster recovery. The unlimited backup is subject to our Fair Usage Policy to ensure users are afforded equal access to the cloud.
+Hard drives crash and computers get stolen but that doesn’t mean you data will be lost. Every time a file is changed or a new file is saved on your Vault it gets backed up to the cloud. Since your files are backed up to redundant servers in the cloud, Nomadesk provides instant disaster recovery. The unlimited backup is subject to our Fair Usage Policy to ensure users are afforded equal access to the cloud.  
+We maintain datacenter facilities in Europe and USA for our European and American customers, respectively.
 
 ## File Revisions / Backup
 
-Security is also available when your files are accidently deleted. Nomadesk retains a configurable amount of daily backups of your Vaults allowing you to retrieve past version with a simple restore function from your Nomadesk online portal.
+Security is also available when your files are accidently deleted. Nomadesk retains backups of your Vaults allowing you to retrieve past version with a simple restore function from your Nomadesk online portal.
 
 ## Online Trashcan
 
@@ -81,7 +83,7 @@ There is no need to worry about synchronizing your files and folders, simply dra
 
 Nomadesk employs DeltaSync technology to speed up the synchronization process by only updating the portions of the file that have changed.
 
-## File Acces Settings
+## File Access Settings
 
 Sharing data in a Vault means you see the same files and folders on your local drive as all others sharing the same Vault, subject to the prevalent access settings. Each individual – accessing the Vault – may be given different rights to view/edit (therefore sync), invite others, send FileLinks or FolderLinks, etc.
 
@@ -115,4 +117,4 @@ Synchronize your business and personal computers so you always have access to yo
 
 ## WebDAV
 
-Nomadesk supports the WebDAV protocol. Essentially, it allows Nomadesk users to map their Vaults as network drives on any operating system supporting the WebDAV protocol (e.g., Linux desktop).
+Alternatively, Nomadesk supports the WebDAV protocol; to allow Nomadesk users to map Vaults as network drives on a Linux desktop, for instance.
