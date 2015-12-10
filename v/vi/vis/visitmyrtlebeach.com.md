@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the visitmyrtlebeach.com privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123031619id_/http%3A//www.visitmyrtlebeach.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the visitmyrtlebeach.com privacy policy that was archived on 2015-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151210123916id_/http%3A//www.visitmyrtlebeach.com/privacy-policy) for the most accurate reproduction.*
 
 # Myrtle Beach SC: Myrtle Beach Hotels, Resorts, Attractions
 
@@ -6,7 +6,7 @@
 
 If you have any questions about this web site, you may contact us at:
 
- **Myrtle Beach Area Chamber of Commerce, 1200 N. Oak Street, P.O. Box 2115, Myrtle Beach, SC 29578 - Tel: (843) 626-7444 or Toll Free: (800) 356-3016, Attention: Webmaster**
+**Myrtle Beach Area Chamber of Commerce, 1200 N. Oak Street, P.O. Box 2115, Myrtle Beach, SC 29578 - Tel: (843) 626-7444 or Toll Free: (800) 356-3016, Attention: Webmaster**
 
 e-mail: [enews@VisitMyrtleBeach.com](mailto:enews@VisitMyrtleBeach.com)
 
@@ -40,7 +40,7 @@ If you do not want to receive e-mail from us in the future, please send an e-mai
 
 If you have sent a Visitor Information request form and no longer wish to be receive this information, please contact the chamber at one of the following:
 
- **Myrtle Beach Area Chamber of Commerce, 1200 N. Oak Street, P.O. Box 2115, Myrtle Beach, SC 29578 - Tel: (843) 626-7444 or Toll Free: (800) 356-3016, Attention: Webmaster**
+**Myrtle Beach Area Chamber of Commerce, 1200 N. Oak Street, P.O. Box 2115, Myrtle Beach, SC 29578 - Tel: (843) 626-7444 or Toll Free: (800) 356-3016, Attention: Webmaster**
 
 e-mail: [enews@VisitMyrtleBeach.com](mailto:enews@VisitMyrtleBeach.com)
 
@@ -54,6 +54,6 @@ Please read these terms of service carefully, including our Internet Privacy Pol
 
 All content on this web site, including without limitation, images, trademarks, designs, pictures and other information, is the exclusive property of the Myrtle Beach Area Chamber of Commerce and protected by applicable law. Any unauthorized use of this content without specific written permission is prohibited.
 
- **Advertising and Links on the Myrtle Beach Area Chamber of Commerce:**
+**Advertising and Links on the Myrtle Beach Area Chamber of Commerce:**
 
 In designated areas of the chamber's web site are links to area businesses. These areas include but are not limited to: Lodging, Things to Do, Real Estate/Relocation and Golf. These are paid advertising links purchased by chamber members. These links are provided for your convenience only and we do not endorse these parties, their content, or any products or services they offer. While reasonable efforts are made to provide active and productive links for our visitors, the chamber does not guarantee the validity of the information provided on any of these paid advertising links or that the links or web sites will be operational, available or error-free. Further, visitors should be aware of the terms of service and privacy policies applicable to such third party web sites as we have no responsibility for or control over these third parties or their web site practices.
