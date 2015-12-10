@@ -1,58 +1,9 @@
-> *The following text is extracted and transformed from the pressdemocrat.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627132212id_/http%3A//www.pressdemocrat.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pressdemocrat.com privacy policy that was archived on 2015-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151210081158id_/http%3A//www.pressdemocrat.com/privacypolicy) for the most accurate reproduction.*
 
 # Press Democrat Privacy Policy | The Press Democrat
 
-This Privacy Policy discloses the privacy practices for The Press Democrat newspaper and PressDemocrat.com (the "Site"). For the purposes of this Privacy Policy, unless otherwise noted, all references to "The Press Democrat" include PressDemocrat.com and The Press Democrat newspaper.
-
-Third party sites that PressDemocrat.com links to are governed by their own privacy policies. We are not responsible for the content or the privacy policies of those websites or other websites to which they link.
-
-In this Privacy Policy, you will find answers to the following questions:
-
-What information do we gather about you?  
-What do we do with the information we gather about you?  
-What is our e-mail policy?  
-With whom do we share the information that we gather?  
-How do I change or update my personal information?  
-How do I opt-out from receiving promotional offers?  
-Is my information protected?  
-Other information: Compliance with legal process  
-Other information: Children's Guidelines  
-Other information: Changes to this Privacy Policy  
-What information do we gather about you?  
-The information we gather falls into two categories: 1) personal information you voluntarily supply when you subscribe, order, complete a survey, register for an online discussion, enter a contest or provide your e-mail address and 2) tracking information collected as you navigate through our sites.
-
-Personally Identifiable Information  
-Registration for our Web sites  
-Anyone can view the Site, but a free registration process is required to access the full range of information and services we offer.
-
-PressDemocrat.com requires that you supply a unique e-mail address and demographic information (zip code, age, sex, household income to register. By using PressDemocrat.com, you are agreeing to the terms of our Member Agreement).
-
-Contests, Sweepstakes and Special Offers  
-On occasion, The Press Democrat collects personal information from readers in connection with optional sweepstakes, contests or special offers. If this information is to be shared with a third party other than The Press Democrat, we will notify you at the time of collection. If you do not want any personal information shared, you may always decline to participate in the sweepstakes, contest or special offer.
-
-Reader Surveys, Reader Panels and Market Research  
-The Press Democrat may collect personal information from readers in connection with voluntary surveys. Data may be collected on our Web sites, on the phone or through the mail. The information you provide in answer to optional survey questions may be shared, but only in the aggregate, with advertisers and partners unless we notify you otherwise at the time of collection.
-
-Mobile Messaging Service  
-We may elect to offer certain text messaging services (the "SMS Service"). We use the information collected from your interaction with the SMS Service solely for the purposes of improving the SMS Service. The information will not be provided, sold, licensed, rented, assigned or disclosed, except as required by law. We will not use your phone number to initiate a call or SMS text message to you without your express prior consent. Your wireless carrier and other service providers also collect data about your SMS Service usage: their practices are governed by their own privacy policies.
-
-The Press Democrat collects the mobile phone number you use to send us a text message and the content of the messages sent between you and The Press Democrat. When you send a text message to The Press Democrat or via The Press Democrat, we log the incoming phone number, the wireless provider associated with the number, and the date and time of the transaction. The only information we automatically collect is that related to the use of our Mobile Services. The Press Democrat uses this data to analyze the message traffic in order to operate, develop and improve our SMS Service.
-
-Non-personally Identifiable Information  
-Information Collected by Us using Technology  
-As is standard practice on many Web sites, we use "cookies", Web Beacons and other similar technologies to recognize you and provide personalization, as well as to help us understand, where our visitors are going and how much time they spend there. You will not be able to access certain areas of our Web sites, including PressDemocrat.com, if your computer does not accept cookies from us.
-
-We reserve the right to place a PressDemocrat.com cookie on your computer with a unique anonymous number to ensure that your browser does not see the same ad over and over again, to sequence ads in a series and to measure the number of unique visitors that have viewed a particular ad or visited a particular Web page.
-
-For more detailed information about our use of cookies, see the "Cookies" section on the Registration FAQ.
-
-Information Collected by Third Parties using Technology  
-Some of the services and/or advertisements on certain of our Web sites (including PressDemocrat.com) are delivered or served by third-party companies that may place or recognize cookies or Web Beacon to track certain non-personally identifiable information about our Web site users. For example, in the course of serving certain advertisements, some advertisers may place or recognize a unique cookie on your browser, in order to collect certain non-personally identifiable information about your visits to our Web sites and other Web sites. In many cases, this information could be used to show you ads based on your interests on other Web sites.
-
-We do not have access to, nor control over, advertisers' or service providers' cookies or how they may be used. 
-
 Behavioral Advertising:  
-To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit [networkadvertising.org](http://networkadvertising.org/). 
+To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit [networkadvertising.org](http://networkadvertising.org/).
 
 You have choices about the collection of interest based information in this way:
 
@@ -153,4 +104,4 @@ Other Information: Changes to This Policy
 This Privacy Policy may be amended from time to time. Any such changes will be posted on this page. If we make a significant or material change in the way we use your personal information, the change will be posted on this page thirty (30) days prior to taking effect. Registered users will be notified via e-mail.
 
 News Registry  
-This Web site uses services provided by News Registry. News Registry collects content usage information and may use cookies in conjunction with this activity. Your continued readership of the Site means you accept the privacy policy of News Registry. Please refer to the News Registry privacy policy at http://www.newsregistry.com/privacycenter/servicepolicy.aspx for further information. 
+This Web site uses services provided by News Registry. News Registry collects content usage information and may use cookies in conjunction with this activity. Your continued readership of the Site means you accept the privacy policy of News Registry. Please refer to the News Registry privacy policy at http://www.newsregistry.com/privacycenter/servicepolicy.aspx for further information.
