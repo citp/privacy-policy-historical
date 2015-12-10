@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the openinground.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610031927id_/http%3A//openinground.com/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the openinground.com privacy policy that was archived on 2015-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151210012430id_/http%3A//openinground.com/page/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Opening Round
+# Privacy Policy - Opening Round
 
 PRIVACY POLICY
 
