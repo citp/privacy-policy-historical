@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the interestingengineering.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627203230id_/http%3A//interestingengineering.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the interestingengineering.com privacy policy that was archived on 2015-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151210174049id_/http%3A//interestingengineering.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy |interestingengineering.com
+# Privacy Policy | Interesting Engineering
 
-This privacy policy tells you how we use personal information collected at [www.interestingengineering.com](https://web.archive.org/web/20150627203230id_/http://interestingengineering.com/privacy-policy/www.interestingengineering.com) Please read this privacy policy before using the site or submitting any personal information. By using the site, you accept the practices described here.
+This privacy policy tells you how we use personal information collected at [www.interestingengineering.com](https://web.archive.org/web/20151210174049id_/http://interestingengineering.com/privacy-policy/www.interestingengineering.com) Please read this privacy policy before using the site or submitting any personal information. By using the site, you accept the practices described here.
 
 **Collection of Information**  
 We collect personally identifiable information, like names, email addresses, etc., when voluntarily submitted by our visitors. The information you provide is used to fulfill your specific request, unless you give us permission to use it in another manner, for example, to add you to one of our mailing lists.
