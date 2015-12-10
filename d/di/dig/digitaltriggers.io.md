@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the digitaltriggers.io privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610005432id_/http%3A//digitaltriggers.io/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digitaltriggers.io privacy policy that was archived on 2015-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151210045205id_/http%3A//digitaltriggers.io/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -88,11 +88,11 @@ The transmission of information via the internet is not completely secure and th
 
 #### **Remarketing and Internet-based Ads**
 
-\- Third party vendors, including Google, show our ads on sites on the internet.
+– Third party vendors, including Google, show our ads on sites on the internet.
 
-\- Third party vendors, including Google, use cookies to serve ads based on a user’s prior visits to our Website.
+– Third party vendors, including Google, use cookies to serve ads based on a user’s prior visits to our Website.
 
-\- Users may opt out of Google’s use of cookies by visiting the Google advertising opt-out page ([http://www.google.com/privacy_ads.html](http://www.google.com/privacy_ads.html)), or you can opt out by visiting the Network Advertising Initiative opt out page ([http://www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp))
+– Users may opt out of Google’s use of cookies by visiting the Google advertising opt-out page ([http://www.google.com/privacy_ads.html](http://www.google.com/privacy_ads.html)), or you can opt out by visiting the Network Advertising Initiative opt out page ([http://www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp))
 
 #### **Disclosing Your Information**
 
