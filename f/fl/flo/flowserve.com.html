@@ -1,32 +1,77 @@
-<!--The following is the downloaded HTML source of the flowserve.com privacy policy that was archived on 2015-06-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150611180705id_/http%3A//www.flowserve.com/Footer/Privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the flowserve.com privacy policy that was archived on 2015-12-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151210045133id_/http%3A//www.flowserve.com/Footer/Privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html><head> 
-    <title>Privacy - Flowserve Corporation
+<!DOCTYPE html><html><head>
+	<title>Privacy - Flowserve Corporation
 </title>
-    <link type="text/css" rel="stylesheet" media="screen, projection" href="/files/assets/fls2/css/reset.css"> 
-    <link type="text/css" rel="stylesheet" media="screen, projection" href="/files/assets/fls2/css/stylesheet.css">
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE9">
+	<link type="text/css" rel="stylesheet" media="screen, projection" href="/files/assets/fls2/css/reset.css">
+	<link type="text/css" rel="stylesheet" media="screen, projection" href="/files/assets/fls2/css/stylesheet.css">
+	<link type="text/css" rel="stylesheet" media="screen, projection" href="/files/assets/fls2/css/colorbox.css">
 	<link type="text/css" rel="stylesheet" media="screen, projection" href="/files/assets/css/shadowbox.css">
 	<link type="text/css" rel="stylesheet" media="print" href="/files/assets/fls2/css/print.css">
-
-<link href="/vgn-ext-templating/common/styles/vgn-ext-templating.css" rel="stylesheet" type="text/css">
-
-	<!--[if IE 6]>  
+    <link type="text/css" rel="stylesheet" href="/vgn-ext-templating/common/styles/vgn-ext-templating.css">
+	<!--[if IE 6]>
 	<link type="text/css" rel="stylesheet" media="screen, projection" href="/files/assets/fls2/css/ie6fix.css"/>
 	<![endif]-->
-	<!--[if IE 7]>  
+	<!--[if IE 7]>
 	<link type="text/css" rel="stylesheet" media="screen, projection" href="/files/assets/fls2/css/ie7fix.css"/>
 	<![endif]-->
-    <script type="text/javascript" src="/files/assets/fls2/js/combined.js"></script>
-    <script type="text/javascript" src="/files/assets/js/shadowbox/shadowbox.js"></script>
+	<script type="text/javascript" src="/files/assets/fls2/js/combined.js"></script>
+	<script type="text/javascript" src="/files/assets/js/shadowbox/shadowbox.js"></script>
 	<script type="text/javascript">
 		Shadowbox.init({
 			players:  ['img', 'swf', 'flv']
 		});
 	</script>
 	<script type="text/javascript" language="javascript">llactid=20851 </script>
- 
-	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<!-- <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script> -->
+    <script type="text/javascript" src="/files/assets/fls2/js/jquery.min.1.10.2.js"></script>	
+    <script type="text/javascript" language="javascript">var jQuery1102 = $.noConflict(true);</script>
+	 <script src="/files/assets/fls2/js/jquery.colorbox.js"></script>
+<script>
+        $(document).ready(function(){
+            //Examples of how to assign the Colorbox event to elements			
+            $(".group1").colorbox({rel:'group1'});
+            $(".group2").colorbox({rel:'group2', transition:"fade"});
+            $(".group3").colorbox({rel:'group3', transition:"none", width:"75%", height:"75%"});
+            $(".group4").colorbox({rel:'group4', slideshow:true, slideshowAuto:true, slideshowStart:"start", onOpen:true});
+            $(".ajax").colorbox();
+            $(".youtube").colorbox({iframe:true, innerWidth:640, innerHeight:390, scrolling:false, fixed:true});
+            $(".vimeo").colorbox({iframe:true, innerWidth:500, innerHeight:409});
+            $(".iframe").colorbox({iframe:true, width:"80%", height:"80%"});
+            $(".inline").colorbox({inline:true, width:"50%"});
+            $(".callbacks").colorbox({
+                onOpen:function(){ alert('onOpen: colorbox is about to open'); },
+                onLoad:function(){ alert('onLoad: colorbox has started to load the targeted content'); },
+                onComplete:function(){ alert('onComplete: colorbox has displayed the loaded content'); },
+                onCleanup:function(){ alert('onCleanup: colorbox has begun the close process'); },
+                onClosed:function(){ alert('onClosed: colorbox has completely closed'); }
+            });
+
+            $('.non-retina').colorbox({rel:'group5', transition:'none'});
+            $('.retina').colorbox({rel:'group5', transition:'none', retinaImage:true, retinaUrl:true});
+            
+            //Example of preserving a JavaScript event for inline calls.
+			
+            $("#click").click(function(){ 
+                $('#click').css({"background-color":"#f00", "color":"#fff", "cursor":"inherit"}).text("Open this window again and this message will still be here.");
+                return false;
+            });
+            
+			$('a').click(function(){				
+				var herfl = this.href;
+				if(herfl.indexOf('#fragment-') != -1){
+					$tabs = $('#featured').tabs();
+					var tabSelect = herfl.substr(herfl.length-1);
+					$tabs.tabs('select',tabSelect); 
+					return false;
+				}
+			});
+
+        });
+	</script>	
 
 
 
@@ -42,10 +87,10 @@
 
 
 </head> 
-<body> 
-    <div id="background"> 
+<body style=""> 
+	<div id="background"> 
 	<div id="container-1"> 
-	    <div id="header"> 
+		<div id="header"> 
 		<!--
 /****
 Copyright Flowserve Corporation.  All rights reserved.
@@ -59,7 +104,7 @@ Copyright Flowserve Corporation.  All rights reserved.
     </h1> 
 </div> <!-- /logo --> 	    
 		<div id="actionbox">
-		  
+		
 
 
 
@@ -76,9 +121,9 @@ Copyright Flowserve Corporation.  All rights reserved.
     </div>
 
 
-		    
 			
-			    
+			
+				
 
 
 
@@ -204,11 +249,11 @@ function switchLang(){
 
 			
 			
-		    
-		    
-		    
 			
-			    
+			
+			
+			
+				
 
 
 
@@ -239,13 +284,13 @@ function switchLang(){
 
 			
 			
-		    
+			
 
 		</div> <!-- /actionbox --> 
-          
-            
-                
-                    
+		  
+			
+				
+					
 
 
 
@@ -277,7 +322,7 @@ function switchLang(){
 	    	 
 	     <div class="mega-col left"><ul><li><h3><a href="/Products/Pumps">Pumps</a></h3></li><li><h3><a href="/Products/Valves">Valves</a></h3></li><li><h3><a href="/Products/Seals">Seals</a></h3></li><li><h3><a href="/Products/Automation">Actuation &amp; Instrumentation</a></h3></li><li><h3><a href="/Products/Steam-Traps-and-Systems">Steam Traps &amp; Systems</a></h3></li><li><h3><a href="/Products/Hydraulic-Decoking-Systems">Hydraulic Decoking Systems</a></h3></li><li><h3><a href="/Products/Energy-Recovery-Devices">Energy Recovery Devices</a></h3></li><li><h3><a href="/Products/Monitoring-and-Controls">Monitoring and Controls</a></h3></li></ul><h4><a href="/vgn-ext-templating/v/index.jsp?vgnextoid=c33c8af18bed7010VgnVCM1000005e191eacRCRD">Product Literature</a></h4>
 
-<p>Click here to <a href="/vgn-ext-templating/v/index.jsp?vgnextoid=c33c8af18bed7010VgnVCM1000005e191eacRCRD">search through our product literature</a> and other documents.</p></div><div class="mega-col right"><h3>Heritage Brands</h3><br><div class="mega-col-half"><ul><li><a href="/Products/Heritage-Brands/ACEC-Centrifugal">ACEC Centrifugal</a></li><li><a href="/Products/Heritage-Brands/Accord">Accord</a></li><li><a href="/Products/Heritage-Brands/Aldrich">Aldrich</a></li><li><a href="/Products/Heritage-Brands/AnchorDarling">Anchor/Darling</a></li><li><a href="/Products/Heritage-Brands/Argus">Argus</a></li><li><a href="/Products/Heritage-Brands/Atomac">Atomac</a></li><li><a href="/Products/Heritage-Brands/Automax">Automax</a></li><li><a href="/Products/Heritage-Brands/Byron-Jackson">Byron Jackson</a></li><li><a href="/Products/Heritage-Brands/Calder">Calder</a></li><li><a href="/Products/Heritage-Brands/Cameron">Cameron</a></li><li><a href="/Products/Heritage-Brands/Durco">Durco</a></li><li><a href="/Products/Heritage-Brands/Duriron">Duriron Pipe</a></li><li><a href="/Products/Heritage-Brands/Edward">Edward</a></li><li><a href="/Products/Heritage-Brands/Flowserve">Flowserve</a></li><li><a href="/Products/Heritage-Brands/Gestra">Gestra</a></li><li><a href="/Products/Heritage-Brands/IDP">IDP</a></li><li><a href="/Products/Heritage-Brands/INNOMAG">INNOMAG</a></li><li><a href="/Products/Heritage-Brands/Kammer">Kammer</a></li><li><a href="/Products/Heritage-Brands/Lawrence">Lawrence Pumps</a></li><li><a href="/Products/Heritage-Brands/Limitorque">Limitorque</a></li><li><a href="/Products/Heritage-Brands/Logix">Logix</a></li><li><a href="/Products/Heritage-Brands/McCANNA-MARPAC">McCANNA-MARPAC</a></li><li><a href="/Products/Heritage-Brands/NAF">NAF</a></li><li><a href="/Products/Heritage-Brands/Niigata-Worthington">Niigata Worthington</a></li></ul></div><div class="mega-col-half"><ul><li><a href="/Products/Heritage-Brands/Noble-Alloy">Noble-Alloy</a></li><li><a href="/Products/Heritage-Brands/Norbro">Norbro</a></li><li><a href="/Products/Heritage-Brands/Nordstrom">Nordstrom</a></li><li><a href="/Products/Heritage-Brands/PMV">PMV</a></li><li><a href="/Products/Heritage-Brands/Pac-Seal">Pac-Seal</a></li><li><a href="/Products/Heritage-Brands/Pacific">Pacific</a></li><li><a href="/Products/Heritage-Brands/Pleuger">Pleuger</a></li><li><a href="/Products/Heritage-Brands/Schmidt-Armaturen">Schmidt Armaturen</a></li><li><a href="/Products/Heritage-Brands/Scienco">Scienco</a></li><li><a href="/Products/Heritage-Brands/Serck-Audco">Serck Audco</a></li><li><a href="/Products/Heritage-Brands/Sier-Bath">Sier-Bath</a></li><li><a href="/Products/Heritage-Brands/TKL">TKL</a></li><li><a href="/Products/Heritage-Brands/United-Centrifugal">United Centrifugal</a></li><li><a href="/Products/Heritage-Brands/Valbart">Valbart</a></li><li><a href="/Products/Heritage-Brands/Valtek">Valtek</a></li><li><a href="/Products/Heritage-Brands/Valtek-EMA">Valtek EMA</a></li><li><a href="/Products/Heritage-Brands/Vogt">Vogt</a></li><li><a href="/Products/Heritage-Brands/Western-Land-Roller">Western Land Roller</a></li><li><a href="/Products/Heritage-Brands/Wilson-Snyder">Wilson-Snyder</a></li><li><a href="/Products/Heritage-Brands/Worthington">Worthington</a></li><li><a href="/Products/Heritage-Brands/Worcester-Controls">Worcester-Controls</a></li><li><a href="/Products/Heritage-Brands/Worthington-Simpson">Worthington Simpson</a></li></ul></div></div>
+<p>Click here to <a href="/vgn-ext-templating/v/index.jsp?vgnextoid=c33c8af18bed7010VgnVCM1000005e191eacRCRD">search through our product literature</a> and other documents.</p></div><div class="mega-col right"><h3>Heritage Brands</h3><br><div class="mega-col-half"><ul><li><a href="/Products/Heritage-Brands/ACEC-Centrifugal">ACEC Centrifugal</a></li><li><a href="/Products/Heritage-Brands/Accord">Accord</a></li><li><a href="/Products/Heritage-Brands/Aldrich">Aldrich</a></li><li><a href="/Products/Heritage-Brands/AnchorDarling">Anchor/Darling</a></li><li><a href="/Products/Heritage-Brands/Argus">Argus</a></li><li><a href="/Products/Heritage-Brands/Atomac">Atomac</a></li><li><a href="/Products/Heritage-Brands/Automax">Automax</a></li><li><a href="/Products/Heritage-Brands/Byron-Jackson">Byron Jackson</a></li><li><a href="/Products/Heritage-Brands/Calder">Calder</a></li><li><a href="/Products/Heritage-Brands/Cameron">Cameron</a></li><li><a href="/Products/Heritage-Brands/Durco">Durco</a></li><li><a href="/Products/Heritage-Brands/Duriron">Duriron Pipe</a></li><li><a href="/Products/Heritage-Brands/Edward">Edward</a></li><li><a href="/Products/Heritage-Brands/Flowserve">Flowserve</a></li><li><a href="/Products/Heritage-Brands/Gestra">Gestra</a></li><li><a href="/Products/Heritage-Brands/IDP">IDP</a></li><li><a href="/Products/Heritage-Brands/INNOMAG">INNOMAG</a></li><li><a href="/Products/Heritage-Brands/Kammer">Kammer</a></li><li><a href="/Products/Heritage-Brands/Lawrence">Lawrence Pumps</a></li><li><a href="/Products/Heritage-Brands/Limitorque">Limitorque</a></li><li><a href="/Products/Heritage-Brands/Logix">Logix</a></li><li><a href="/Products/Heritage-Brands/McCANNA-MARPAC">McCANNA-MARPAC</a></li><li><a href="/Products/Heritage-Brands/NAF">NAF</a></li><li><a href="/Products/Heritage-Brands/Niigata-Worthington">Niigata Worthington</a></li></ul></div><div class="mega-col-half"><ul><li><a href="/Products/Heritage-Brands/Noble-Alloy">Noble-Alloy</a></li><li><a href="/Products/Heritage-Brands/Norbro">Norbro</a></li><li><a href="/Products/Heritage-Brands/Nordstrom">Nordstrom</a></li><li><a href="/Products/Heritage-Brands/PMV">PMV</a></li><li><a href="/Products/Heritage-Brands/Pac-Seal">Pac-Seal</a></li><li><a href="/Products/Heritage-Brands/Pacific">Pacific</a></li><li><a href="/Products/Heritage-Brands/Pleuger">Pleuger</a></li><li><a href="/Products/Heritage-Brands/Schmidt-Armaturen">Schmidt Armaturen</a></li><li><a href="/Products/Heritage-Brands/Scienco">Scienco</a></li><li><a href="/Products/Heritage-Brands/Serck-Audco">Serck Audco</a></li><li><a href="/Products/Heritage-Brands/Sier-Bath">Sier-Bath</a></li><li><a href="/Products/Heritage-Brands/TKL">TKL</a></li><li><a href="/Products/Heritage-Brands/United-Centrifugal">United Centrifugal</a></li><li><a href="/Products/Heritage-Brands/Valbart">Valbart</a></li><li><a href="/Products/Heritage-Brands/Valtek">Valtek</a></li><li><a href="/Products/Heritage-Brands/Valtek-EMA">Valtek EMA</a></li><li><a href="/Products/Heritage-Brands/Vogt">Vogt</a></li><li><a href="/Products/Heritage-Brands/Western-Land-Roller">Western Land Roller</a></li><li><a href="/Products/Heritage-Brands/Wilson-Snyder">Wilson-Snyder</a></li><li><a href="/Products/Heritage-Brands/Worthington">Worthington</a></li><li><a href="/Products/Heritage-Brands/Worcester-Controls">Worcester-Controls</a></li><li><a href="/Products/Heritage-Brands/Worthington-Simpson">Worthington Simpson</a></li><li><a href="/Products/Heritage-Brands/SIHI">SIHI</a></li></ul></div></div>
 				</div>
 			</li>
   
@@ -376,20 +421,27 @@ function switchLang(){
 	
 	<div id="nav-sub">
 		<ul id="nav-sub-list">
-			<li class="mega_sub"><a href="http://www.flowserve.com/ir" class="sub_link"><span>Investor Relations</span></a>
-			</li>
-    			<li class="mega_sub"><a href="/Careers" class="sub_link"><span>Careers</span></a>
+			<li class="mega_sub"><a href="http://www.flowserve.com/ir" investor="" class="sub_link"><span>Investor Relations</span></a>
 
-				<div id="careers-menu" class="drop">
-	<ul><li><a href="/Careers/About-Flowserve">About Flowserve</a></li><li><a href="/Careers/Benefits-and-Rewards">Benefits and Rewards</a></li><li><a href="/Careers/Career-Paths">Career Paths</a></li><li><a href="/Careers/Job-Search">Job Search</a></li></ul>
-				</div>
+
 			</li>
-    			<li class="mega_sub"><a href="/About-Flowserve" class="sub_link"><span>About Flowserve</span></a>
+    			<li class="mega_sub"><a href="http://flowserve.jobs" target="_new" class="sub_link"><span>Careers</span></a>
+
+			<!--	<div id="careers-menu" class="drop">
+	//getAboutHtmlString(channels[i], locale, rc)
+				</div>
+
+				-->
+				
+			</li>
+    			<li class="mega_sub"><a href="/About-Flowserve" null="" class="sub_link"><span>About Flowserve</span></a>
 				<div id="about-menu" class="drop">
      <ul><li><a href="/About-Flowserve/Corporate-Information">Corporate Information</a></li><li><a href="/About-Flowserve/News-%26-Events">News &amp; Events</a></li><li><a href="/Careers">Careers</a></li><li><a href="http://www.flowserve.com/ir">Investor Relations</a></li><li><a href="/About-Flowserve/Supplier-Responsibility">Supplier Responsibility</a></li><li><a href="/About-Flowserve/Ethics">Ethics</a></li><li><a href="/About-Flowserve/Foundry">Foundry</a></li><li><a href="/About-Flowserve/Contact-Us">Contact Us</a></li><li><a href="/About-Flowserve/Corporate-Sustainability">Corporate Sustainability</a></li></ul>
 				</div>
 			</li>
-    			<li class="mega_sub"><a href="/Contact-Us" class="sub_link"><span>Contact Us</span></a>
+    			<li class="mega_sub"><a href="/Contact-Us" null="" class="sub_link"><span>Contact Us</span></a>
+
+
 			</li>
      		</ul>
 	</div> 
@@ -401,15 +453,15 @@ function switchLang(){
 
 
 
-                
-                
-            
+				
+				
+			
 
-	    </div> <!-- /header --> 
-	    <div class="clear"></div> 
-            
-	    <div id="content" class="interior_page"> 
-        			
+		</div> <!-- /header --> 
+		<div class="clear"></div> 
+			
+		<div id="content" class="interior_page"> 
+					
 				
 					
 
@@ -460,11 +512,11 @@ function switchLang(){
 				
 				
 			
-        
-            <!-- begin page content area -->
-            
+		
+			<!-- begin page content area -->
+			
 
-            
+			
 
 
 
@@ -937,14 +989,14 @@ function searchLocations(){
 
 
 
-            <!-- end page content area -->	    
-	    </div>  <!-- /content --> 
+			<!-- end page content area -->		
+		</div>	<!-- /content --> 
  
-	    <div class="clear"></div> 
-	    <div id="footer"> 
-            	
-                    
-                        
+		<div class="clear"></div> 
+		<div id="footer"> 
+				
+					
+						
 
 
 
@@ -985,15 +1037,15 @@ function searchLocations(){
 </li>
 </ul><span class="in-context"></span></div><ul><li><a href="/Footer/Site-Map">Site Map</a><span class="separator">|</span></li><li><a href="/Footer/Privacy">Privacy</a><span class="separator">|</span></li><li><a href="/Footer/Terms-of-Use">Terms of Use</a><span class="separator">|</span></li><li><a href="/Footer/Feedback">Feedback</a><span class="separator">|</span></li><li><a href="/About-Flowserve/Ethics">Ethics</a></li></ul>
 
-                    
-                    
-                
-	    </div>  <!-- /footer --> 
-	    <div class="clear"></div> 
+					
+					
+				
+		</div>	<!-- /footer --> 
+		<div class="clear"></div> 
 	</div> <!-- /container-1 --> 
-    </div> <!-- /background --> 
-<script type="text/javascript">document.write(unescape('%3Cscript type="text/javascript" src="'+document.location.protocol+'//dnn506yrbagrg.cloudfront.net/pages/scripts/0010/6785.js"%3E%3C%2Fscript%3E'))</script><script type="text/javascript" src="https://dnn506yrbagrg.cloudfront.net/pages/scripts/0010/6785.js"></script>
+	</div> <!-- /background --> 
+
  
  
 
-<div id="sb-container"><div id="sb-overlay"></div><div id="sb-wrapper"><div id="sb-title"><div id="sb-title-inner"></div></div><div id="sb-wrapper-inner"><div id="sb-body"><div id="sb-body-inner"></div><div id="sb-loading"><div id="sb-loading-inner"><span>loading</span></div></div></div></div><div id="sb-info"><div id="sb-info-inner"><div id="sb-counter"></div><div id="sb-nav"><a id="sb-nav-close" title="Close" onclick="Shadowbox.close()"></a><a id="sb-nav-next" title="Next" onclick="Shadowbox.next()"></a><a id="sb-nav-play" title="Play" onclick="Shadowbox.play()"></a><a id="sb-nav-pause" title="Pause" onclick="Shadowbox.pause()"></a><a id="sb-nav-previous" title="Previous" onclick="Shadowbox.previous()"></a></div></div></div></div></div></body></html>
+<div id="cboxOverlay" style="display: none;"></div><div id="colorbox" class="" role="dialog" tabindex="-1" style="display: none;"><div id="cboxWrapper"><div><div id="cboxTopLeft" style="float: left;"></div><div id="cboxTopCenter" style="float: left;"></div><div id="cboxTopRight" style="float: left;"></div></div><div style="clear: left;"><div id="cboxMiddleLeft" style="float: left;"></div><div id="cboxContent" style="float: left;"><div id="cboxTitle" style="float: left;"></div><div id="cboxCurrent" style="float: left;"></div><button type="button" id="cboxPrevious"></button><button type="button" id="cboxNext"></button><button id="cboxSlideshow"></button><div id="cboxLoadingOverlay" style="float: left;"></div><div id="cboxLoadingGraphic" style="float: left;"></div></div><div id="cboxMiddleRight" style="float: left;"></div></div><div style="clear: left;"><div id="cboxBottomLeft" style="float: left;"></div><div id="cboxBottomCenter" style="float: left;"></div><div id="cboxBottomRight" style="float: left;"></div></div></div><div style="position: absolute; width: 9999px; visibility: hidden; display: none; max-width: none;"></div></div><div id="sb-container"><div id="sb-overlay"></div><div id="sb-wrapper"><div id="sb-title"><div id="sb-title-inner"></div></div><div id="sb-wrapper-inner"><div id="sb-body"><div id="sb-body-inner"></div><div id="sb-loading"><div id="sb-loading-inner"><span>loading</span></div></div></div></div><div id="sb-info"><div id="sb-info-inner"><div id="sb-counter"></div><div id="sb-nav"><a id="sb-nav-close" title="Close" onclick="Shadowbox.close()"></a><a id="sb-nav-next" title="Next" onclick="Shadowbox.next()"></a><a id="sb-nav-play" title="Play" onclick="Shadowbox.play()"></a><a id="sb-nav-pause" title="Pause" onclick="Shadowbox.pause()"></a><a id="sb-nav-previous" title="Previous" onclick="Shadowbox.previous()"></a></div></div></div></div></div></body></html>
