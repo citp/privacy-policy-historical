@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the americanblinds.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610011737id_/http%3A//www1.americanblinds.com/control/infopage%3Fpage%3Dsecurity.html%26master%3Dresourcecenter) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the americanblinds.com privacy policy that was archived on 2015-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151210150545id_/http%3A//www1.americanblinds.com/control/infopage%3Fpage%3Dsecurity.html%26master%3Dresourcecenter) for the most accurate reproduction.*
 
-# Privacy and Security | American Blinds and Wallpaper
+# 
 
 **Privacy and Security**
 
 This privacy policy is for American Blinds, Wallpaper & More. Our homepage on the Web is located at[ www.americanblinds.com](http://century.dev.blinds.net/). The full text of our privacy policy is stated below. Users may go to our registration section to opt-in or opt-out of use of their information. We invite you to contact us if you have questions about this policy. You may contact us by mail at the following address: 
 
-**American Blinds  
+**American Blinds & Wallpaper  
 Att: E-Commerce Dept.  
 ** 1302 Waugh Dr, #943  
 Houston, TX 77019-3908
