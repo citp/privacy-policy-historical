@@ -1,126 +1,122 @@
-> *The following text is extracted and transformed from the kontera.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625093041id_/http%3A//www.kontera.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kontera.com privacy policy that was archived on 2015-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151210053655id_/http%3A//amobee.com/privacy/technology) for the most accurate reproduction.*
 
-# About Us | Privacy Policy | Kontera
+# Amobee Privacy Policy for Consumers - Amobee
 
-## Kontera Privacy Notice
+**Effective July 30, 2015**
 
-Welcome to the Kontera Technologies, Inc. ("Kontera") web site at [http://www.kontera.com/ (the "Site")](http://www.kontera.com/).
+We at Amobee offer digital advertising solutions to the largest publishers, advertisers and agencies and mobile operators. In delivering this advertising, we collect and use certain information about mobile and web consumers like you. This Privacy Policy describes how we collect and use this information, and tells how you can protect your privacy.
 
-Kontera operates a technology platform (the “Platform”) that provides marketing insights and digital advertising solutions to the world’s leading brands and marketing agencies.
+This Privacy Policy explains:
 
-Kontera values the privacy of Internet visitors (“Users”) to the Site, our Customers, and Users that visit websites where our analytics and digital advertising technology (our “Technology”) is enabled. For purposes of this policy, we refer to our Platform and Technology as the “Services.”
+  * What information we collect and how we collect it.
+  * How we use and share that information.
+  * The choices we offer you to control the collection, use and sharing of information.
+  * How to contact us if you have questions or complaints.
 
-This Privacy Notice describes what information we gather from Users of the Site and our Customers, how we use that information, and what we do to protect it. This Privacy Notice also describes the privacy practices pertaining to our Services, how the Technology gathers information from Users, how it uses that information, and what we do to protect the information stored on our Platform. This Privacy Notice is incorporated into the Kontera Terms of Service. Your use of the Site and any personal information you provide on the Site are subject to the terms of this Privacy Notice and Kontera's [Terms of Service](https://web.archive.org/about/terms-of-service).
 
-### Advertising Choices
 
-Kontera specializes in providing consumers with information that is related to what they are reading. We get our revenues by showing editorially relevant ads to consumers.
+**Information we collect**
 
-When choosing which ads to show you, Kontera does not use any information that personally identifies you, such as your name, address, e-mail, phone number, etc.
+We collect information in order to provide better and more relevant advertising to consumers. We may collect this information in the following ways:
 
-While Kontera most often shows you ads based on the content of the page you are visiting, we occasionally show some ads based on additional non personally identifiable information, such as the types of websites you visit, the ads you view, interactions you've had with ads, and searches you conduct on other websites.
+  * **Information you give us.** For example, from time to time we offer brand recognition surveys on behalf of advertisers. If you participate in these surveys, we will have access to your survey responses. We do not collect personal information through these surveys. Alternatively, from time to time, advertisers may ask us to collect leads on their behalf. In these situations, if you choose to enter your contact information in response to an advertisement, we will have access to your contact information.  This contact information constitutes personal information. Personal information is information about a person whose identity can reasonably be determined from the information. Examples are a person’s name, telephone number, or e-mail address.
+  * **Information we get from your use of our services.** We may collect information about the services that you use and how you use them, like when you visit a website that uses our advertising services or you view and interact with our ads and content. This information includes: 
+    * **Cookies.** We may send cookies to your browser in order to support behavioral targeted advertising. Through it, we may collect data about websites visited, content viewed, searches on other websites, ad interaction, interaction with advertiser websites and other click and browsing behavior. None of our cookies contain personal information and we do not collect personal information with these cookies.
+    * **Advertising identifiers**. To support behavioral targeted advertising on devices where cookies are not available (such as some mobile phone and smart televisions), we may use identifiers such as Apple’s Identifier for Advertising (IDFA) and Google’s Advertising ID. These advertising identifiers do not constitute personal information.
+    * **Browser information.** To support behavioral targeting advertising in situations where cookies are unreliable, we may collect information to identify your web browser. The information collected may vary based on where you are physically located in order to comply with local law. The browser information does not constitute personal information. We may collect: 
+      * a portion of the IP address,
+      * certain HTTP header fields,
+      * cached anonymous identifiers and/or
+      * browser characteristics measurable through JavaScript.
+    * **Precise Location Data.** To support behavioral advertising, we may use precise location information, including latitude and longitude.
+    * **Mobile App Data.** To support behavioral advertising, we may collect data from mobile apps, such as the content of the apps and event information shared by the apps.
+    * **Contextual Data.** To support contextual advertising, we may collect data about web pages, including page content and page URLs.
+    * **IP addresses.** To support targeted advertising campaigns, outside the EU, we may collect your IP address. We also store IP addresses in server logs for anti-fraud and security reasons.
+    * **Web beacons.** To determine whether you have opened or clicked on an advertisement, we include a unique identifier in our marketing e-mails called a web beacon or pixel.
 
-We take reasonable steps to not collect or pass to 3rd parties pages and data regarding medical conditions; certain aspects of personal life or financial situations; gambling; alcoholic beverages; violence, or "adult" products or services.
 
-We identify users by simply recognizing tokens (cookies) stored in users' browsers by us or one of our partners. With this information, we may show ads related to the interests associated with those cookies. Kontera's advertising products collects this information only from websites on which our advertising products are enabled.
+  * **Information we get from third parties.** We may collect personal information and non-personal information about you from third parties. This information may include name, address, e-mail address, IP address, categorical attributes and demographic information. This information may be licensed or purchased and the use of the information complies with the privacy policy pursuant to which the data was originally collected, as well as local law.
+  * We may also show ads based on the content of the webpage you are visiting, if the publisher of that webpage has provided it to us for contextual analysis.
 
-Additionally, we may engage with certain 3rd parties that provide additional information on demographics, geography, and interest areas that we may leverage in selecting ads to display to consumers.
 
-Although we may share our data with 3rd party service providers to deliver Kontera advertising campaigns, we do not authorize any of these partiers to resell or further share this data. These 3rd parties work on our behalf only to support the delivery of our advertising campaigns. When we work with them, we will provide the data specified above. From time to time we may turn off the collection of any data.  
 
-If you prefer that Kontera not collect any information about your website visits for the purpose of delivering targeted advertising, you may opt out by [clicking here](http://www.networkadvertising.org/managing/opt_out.asp).
+**How we use information we collect**
 
-We may also work with partners that are members of the Network Advertising Initiative (NAI) and work with industry-leading companies committed to building consumer awareness and establishing responsible business and data management practices and standards in online advertising. [Click here](http://www.networkadvertising.org/) to learn more about the NAI. To opt-out of targeting by other member companies, please [click here](http://www.networkadvertising.org/managing/opt_out.asp).
+We use the information we collect to serve advertisements to you and to target and analyze consumer behavior. Our goals are to provide better and more relevant advertising to you and provide useful aggregated analytics to our customers.
 
-When you opt out, an opt-out cookie will be placed onto your computer. The opt-out cookie tells Kontera not to use any of your information for delivering relevant online advertisements. Please note that if you block cookies, the opt-out process may not function properly. Please also note that if you delete, block, or otherwise restrict cookies, or if you use a different computer or Internet browser, you will need to set your opt-out choice again for that computer or browser.
+While we target advertising for common everyday health topics such as colds, coughs and heartburn, we do not collect or use information about past, present or potential future medical conditions or treatments or sex life.
 
-##   
-Privacy Practices for the Kontera Customers and Site Visitors
+We do not create collect or use data in order to specifically target children aged 12 or under. Nor do we collect behavioral data when we run advertising on websites or online services where we have actual knowledge that the websites or online services are directed towards children aged 12 or under.
 
-### What We Collect
+We do not combine personal information with online behavioral information. We sometimes support our online behavioral advertising with demographic, categorical or performance information (such as the types of e-mails that users have opened or clicked on in the past) extracted from our e-mail lists, however we always first remove or anonymize all personal information.
 
-**Information You Provide:**  
-When you visit our Site, we may ask you to provide information such as your name, title, company name, email address, and telephone number.If you sign up to use our Services we may ask to provide information such as your name, address, email address, telephone number, Social Security Number, and Tax Identification Number.
+We process personal information on our servers in many countries around the world, including the United States. We may transfer your personal information to the United States.
 
-**Information We Automatically Collect When You Visit Our Site:**  
-When you visit our Site, we may automatically record certain information from your device, including your IP address or other device address or ID, web browser and/or device type, the web pages or sites that you visit just before or just after you use the Sites, the pages or other content you view or otherwise interact with on our Sites, and the dates and times that you visit, access, or use our Sites.
+We retain information that is collected and used for online behavioral advertising only as long as necessary to fulfill a legitimate business need, or as required by law.
 
-We collect certain information through the use of “cookies” and other tracking technologies to better understand how our visitors navigate through the Site, learn what content is being reviewed, and administer the Site. Cookies are small text files that Web servers place on an Internet user’s computer that are designed to store basic information and to recognize your browser. We may use both session cookies and persistent cookies. A session cookie disappears after you close your browser. A persistent cookie remains after you close your browser and may be used by your browser on subsequent visits to the Service. Please review your web browser “Help" file to learn the proper way to modify your cookie settings. Please note that if you delete, or choose not to accept, cookies from the Service, you may not be able to utilize the features of the Service to their fullest potential.
+If we are contracted to collect leads (contact information) on behalf of an advertiser, we do not use the contact information for any other advertising campaign, and we do not combine the contact information with online behavioral information.
 
-We work with third party partners, such as Google Analytics, that may use cookies and other tracking technologies to collect information about your online activities over time and across different web sites when you visit our Sites. For example, we may share your information with analytics providers who help us understand how visitors use our web site. 
+**Transparency and choice**
 
-## How We Use and Share Your Information
+People have different privacy concerns. Our goal is to be clear about what information we collect, so that you can make meaningful choices about how it is used. For example, you can:
 
-**How We Use Your Information:  **  
-We may use your information to provide our Services to you, for payment and billing purposes, and to communicate with you.  
+  * You can opt out of our web-based online behavioral advertising by clicking this big red button:
 
-**When Kontera Discloses Information:**  
-Kontera does not share personal information collected via the Site or other information collected from Customers with other organizations for their marketing or promotional uses without your express consent.
 
-Kontera works with some authorized service providers to provide website hosting and maintenance as well as other services for us. Kontera requires these services providers to safeguard personal information you provide to us. To the extent it is necessary for these service providers to complete their contractual obligations to Kontera, these third parties may have access to or process your personal information. Kontera generally limits their use of your personal information to the purpose for which it was shared.
 
-Kontera may also disclose information if required to do so by law or in the good-faith belief that such action is necessary to comply with state and federal laws (such as U.S. Copyright law) or respond to a court order, judicial or other government subpoena, or warrant. In some cases, we may make such disclosures without first providing notice to Users.
+[](http://rrmprod.amobee.com/upsteed/optout?action=out&error_page=http://amobee.com/privacy/technology/optout_failed/&n=http://amobee.com/privacy/technology/optout/)
 
-Kontera also reserves the right to disclose information that we believe, in good faith, is appropriate or necessary to take precautions against liability; protect Kontera from fraudulent, abusive, or unlawful uses; to investigate and defend ourselves against any third-party claims or allegations; to assist government enforcement agencies; to protect the security or integrity of the Site; or to protect the rights, property, or personal safety of Kontera, our Users, or others. And in the event that Kontera is acquired by or merged with a third-party entity, we reserve the right, in any of these circumstances, to transfer or assign the information that we have collected from Users as part of such merger, acquisition, sale, or other change of control.
+  * You can opt out of our in-app mobile online behavioral advertising by changing the settings on your mobile device. On Apple devices, the setting may be under Settings-Privacy-Advertising-Limit Ad Tracking. On Android devices, the setting may be under Settings-Account & Sync-Google-Ads-Opt Out of Interest-Based Ads.
 
-**Updating / Deleting your Personal Information:**  
-If you’d like to update, correct, delete, or deactivate any personal information that you have provided via this Site, please send your request to [support@kontera.com](mailto:support@kontera.com), and we will process your request.
 
-##   
-Privacy Practices for the Kontera Services
+  * You can opt out of our e-mail advertising by sending a message to [unsubscribe-me@amobee.com](mailto:unsubscribe-me@amobee.com).
 
-### Overview of Our Services:  
-Kontera provides a Technology that places in-text advertising onto our network of publishers’ websites across the web. We also have a Platform that helps us understand whether Users interact with our Technology and how they interact with the Technology. We provide both our advertiser and publisher clients with access to the Platform so they can understand User interactions with our Technology as well.
 
-### What Information We Collect and How We Use It
 
-**"Cookies" Information:  **  
-Kontera uses cookies and web beacons in connection with our Technology.
+All of these are separate. We do not have personal information in our cookies, for example, so you cannot opt out of online behavioral advertising by e-mailing us. Similarly, the big red button requires cookies to work (it sets an “opt-out” cookie), and since cookies do not work in mobile apps, it will not opt you out of in-app online behavioral advertising. If you set your browser to block our cookies, or if your browser does not support our cookies, the big red button will not work and you may still receive online behavioral advertising.
 
-**"Automatically Collected" Information:  **  
-Kontera automatically collects certain non-personally identifiable information from your web browser in connection with our Technology and stores this information on our Platform. This information may include Internet Protocol address, web browser type, the URL of the web pages or sites you visit where our Technology is enabled, the date/time you visit those web pages or sites, the URL of the web page you were on prior to visiting the web page where our Technology is enabled, and searches you conduct on websites where our Technology is enabled.
+You will still receive online ads even if you opt out of online behavioral advertising (with the big red button or through your mobile device settings); however, the ads will be less relevant to you. You will not receive any e-mail advertisements from us if you opt out of our e-mail advertising.
 
-**Website Content:**  
-Kontera may collect the content of the websites you visit or link to on social media.
+We comply with the DAA’s Self-Regulatory Program for Online Behavioral Advertising and the IAB Europe EU Framework for Online Behavioural Advertising. As part of our compliance, we deploy the Ad Choices icon in behaviorally targeted ads. For more information, please visit <http://www.aboutads.info/choices/> or<http://www.youronlinechoices.com/uk/>.
 
-**Information Collected From Social Media Services:**  
-Kontera may collect information, including personal information, from social media services that you use. For example, we collect information such as your name, social media handle, postings or other actions you take, and connections.  However, please remember that the manner in which social media services use, store and disclose your information is governed by the policies of such third parties, and Company shall have no liability or responsibility for the privacy practices or other actions of any social media services.
+Advertisers and third-party ad networks may also participate in our ad network and may also utilize cookies to deliver advertisements and monitor the performance of such advertisements. Many third-party ad networks have agreed to provide an “opt out” mechanism for their ad cookies. The collection of information through cookies by such third parties will be governed by their own privacy policies and practices, over which Adconion has no control.
 
-**How We Use Information We Collect Through Our Services:**  
-Kontera uses the information that we collect via our Technology to provide and improve our Services, to understand and analyze the way our Users interact with our Technology, to serve more relevant advertising, and for ad delivery and reporting purposes.
+Some web browsers include a “Do Not Track” request in the HTTP header. At this time, we do not alter our behavior or change our web services upon receiving a “Do Not Track” request.
 
-**Your Advertising Choices (Opt-out Rights):**  
-We use the non-personally identifiable information we collect to deliver targeted advertising on many other websites you may visit. In order to collect and use this information, we work with vendors who are part of the Network Advertising Initiative, a cooperative of online marketing and analytics companies committed to building consumer awareness and establishing responsible business and data management practices and standards. If you prefer that Kontera does not collect non-personally identifiable information about your website visits for the purpose of delivering targeted advertising, you may opt out by visiting the NAI website by [clicking here.](http://www.networkadvertising.org/)  When you opt out, an opt-out cookie will be placed onto your computer. The opt-out cookie tells our vendors not to use your information for delivering relevant online advertisements. Please note that if you block cookies, the opt-out process may not function properly. Please also note that if you delete, block, or otherwise restrict cookies, or if you use a different computer or Internet browser, you will need to renew your opt-out choice. 
+**How we share information**
 
-**Do Not Track:**  
-Because an industry-standard Do Not Track protocol has not yet been established, we do not currently respond to Do Not Track signals.
+We do not share personal information with companies, organizations and individuals outside of [a•mo•bee] unless one of the following circumstances applies:
 
-## How We Share the Information We Collect
+  * **To fulfill a lead collection contract.**  From time to time, advertisers may ask us to collect leads on their behalf. In such cases, you may choose to provide your contact information in response to an advertisement. We will share this contact information with this advertiser.
+  * **For external processing**. We share personal information and precise location information with our affiliates or other trusted businesses or persons to process it for us or fulfill our contractual obligations, based on our instructions and in compliance with our Privacy Policy and any other appropriate confidentiality and security measures.
+  * **For legal reasons.** We will share personal information with companies, organizations or individuals outside of [a•mo•bee] if we have a good-faith belief that access, use, preservation or disclosure of the information is reasonably necessary to: 
+    * meet any applicable law, regulation, legal process or enforceable governmental request;
+    * detect, prevent, or otherwise address fraud, security or technical issues; or
+    * protect against harm to the rights, reputation, property or safety of [a•mo•bee], our clients, our consumers or the public as required or permitted by law.
+  * **In connection with a merger or sale.** If we enter into discussions to sell, merge or otherwise reorganize our business, we reserve the right to transfer and disclose all data (including personal and non-personal user information) to prospective and/or actual purchasers or investors. We will require that such purchasers/investors treat the transferred data as described in the Privacy Policy that exists prior to the change unless and until you consent to a new Privacy Policy.
 
-### When Kontera Discloses Information:  
-Kontera discloses Automatically Collected and other aggregate non-personally-identifiable information with interested third parties to assist such parties in understanding the usage, viewing, and demographic patterns for certain programs, content, services, advertisements, promotions, and/or functionality on the web site.
 
-Kontera works with some authorized service providers to provide website hosting and maintenance as well as other services for us. Kontera requires these services providers to safeguard personal information you provide to us. To the extent it is necessary for these service providers to complete their contractual obligations to Kontera, these third parties may have access to or process your personal information. Kontera generally limits their use of your personal information to the purpose for which it was shared.
 
-Kontera may also disclose information if required to do so by law or in the good-faith belief that such action is necessary to comply with state and federal laws (such as U.S. Copyright law) or respond to a court order, judicial or other government subpoena, or warrant. In some cases, we may make such disclosures without first providing notice to Users.
+We may share non-personal information (in aggregated and/or non-aggregated form) publicly and/or with our partners, like publishers, advertisers or connected sites. For example, we may share information about campaign performance with advertisers.
 
-Kontera also reserves the right to disclose information that we believe, in good faith, is appropriate or necessary to take precautions against liability; protect Kontera from fraudulent, abusive, or unlawful uses; to investigate and defend ourselves against any third-party claims or allegations; to assist government enforcement agencies; to protect the security or integrity of the Site; or to protect the rights, property, or personal safety of Kontera, our Users, or others. And in the event that Kontera is acquired by or merged with a third-party entity, we reserve the right, in any of these circumstances, to transfer or assign the information that we have collected from Users as part of such merger, acquisition, sale, or other change of control.
+**Accessing and updating your personal information**
 
-## Privacy Practices for the Kontera Customers, Site, and Services
+If your personal information is wrong, we strive to allow you to update it quickly or to delete it, unless we have to keep that information for legitimate business or legal purposes. When updating your personal information, we may ask you to verify your identity before we can act on your request.
 
-**Children's Privacy:**  
-Kontera’s Site, products and services are designed for those 13 years of age and older. Kontera does not knowingly collect personal information from anyone under the age of 13. If we are made aware that we have received personal information from someone under 13, we will use reasonable efforts to remove that information from our records.
+We may reject requests that are unreasonably repetitive, require disproportionate technical effort (for example, developing a new system or fundamentally changing an existing practice), risk the privacy of others, or would be extremely impractical (for instance, requests concerning information residing on backup systems).
 
-**Data Security and Data Retention:**  
-Kontera uses commercially reasonable physical, managerial, and technical safeguards to preserve the integrity and security all information under our control. We cannot, however, ensure or warrant the 100% security of any information you transmit to Kontera, and you do so at your own risk. We make commercially reasonable efforts to ensure the security of our systems. However, please note that this is not a guarantee that such information may not be accessed, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards
+Where we can provide information access and correction, we will do so for free, except where it would require a disproportionate effort. We aim to maintain our services in a manner that protects information from accidental or malicious destruction. Because of this, after you delete information from our services, we may not immediately delete residual copies from our active servers and may not remove information from our backup systems.
 
-We retain the information Automatically Collected by our Technology for up to 18 months at which time it may be aggregated and stored for up to five years. We retain information collected from social media services for up for six months.
+If you are a California resident you have the right to request information regarding the manner in which we share certain categories of your personal information with third parties. You are entitled to receive a copy of this information in a standardized format and the information will not be specific to you individually. Please contact [consumerprivacy@amobee.com](mailto:consumerprivacy@amobee.com) for these requests.
 
-**Changes and Updates to this Privacy Notice:**  
-This Privacy Notice may be revised periodically without further notice to you and this will be reflected by the effective date below. Please revisit this page to stay aware of any changes. In general, we only use your personal information in the manner described in the Privacy Notice in effect when we received that personal information. Your continued use of the Site constitutes your agreement to this Privacy Notice and any future revisions.
+**Information security**
 
-**Effective Date:**  
-This Privacy Notice is effective as of June 24, 2014.
+We have security measures in place to protect against the loss, misuse, and alteration of personal information under our control. Please be advised that, although we take reasonable technological precautions to protect your data, no data transmission over the Internet can be guaranteed to be 100% secure. Therefore, we cannot and do not warrant that your information will be absolutely secure. Any transmission of data at or through our website is at your own risk.
 
-**Kontera Contact Information:**  
-Please contact Kontera with any questions or comments about this Privacy Notice, your personal information, our third-party disclosure practices, or your consent choices at: 1940 Bryant St. San Francisco, California 94110, U.S.A. and email: [support@kontera.com](mailto:support@kontera.com).
+**Changes**
+
+We reserve the right to change our Privacy Policy at any time without notice. However, these changes will not reduce your privacy on a retrospective basis. We will post any Privacy Policy changes on this page and it is your responsibility to check this page for updates.
+
+**Contact**
+
+If you have questions or complaints relating to this Privacy Policy, please contact us at [amobeeprivacy@amobee.com](mailto:amobeeprivacy@amobee.com) .
