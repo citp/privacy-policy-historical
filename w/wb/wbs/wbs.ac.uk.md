@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wbs.ac.uk privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611200044id_/http%3A//www.wbs.ac.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wbs.ac.uk privacy policy that was archived on 2015-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151210080337id_/http%3A//www.wbs.ac.uk/privacy) for the most accurate reproduction.*
 
 # Website Privacy Policy | Warwick Business School
 
