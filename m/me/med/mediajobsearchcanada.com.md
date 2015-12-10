@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mediajobsearchcanada.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607162450id_/http%3A//www.mediajobsearchcanada.com/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mediajobsearchcanada.com privacy policy that was archived on 2015-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151210070433id_/http%3A//www.mediajobsearchcanada.com/privacy_policy.asp) for the most accurate reproduction.*
 
 # Privacy Policy - Media Job Search Canada
 
@@ -15,9 +15,9 @@ For more information on **MJSC's Privacy Statement** in full read the complete s
 For more information on the "Internet Privacy Act" visit:  [www.privcom.gc.ca](http://www.privcom.gc.ca/)
 
 ###    
-Updated July 1, 2014.
+Updated August  1, 2015.
 
-Your privacy is very important to us. Rest assured that all information collected through our **( 1 )** visitor tracking program, the personal information provided on **( 2 )** posted resumes and the username and password information through our **( 3 )** login service remains with Media Job Search Canada Inc. and is never shared with outside sources.
+Your privacy is very important to us. Rest assured that all information collected through our **( 1 )** visitor tracking program, the personal information provided on **( 2 )** posted resumes and the username and password information through our **( 3 )**  client login information remains with Media Job Search Canada Inc. and is never shared with outside sources.
 
 **(1)** When you visit our website our visitor tracking program monitors how many times you have visited, how long you stayed and what pages you are visiting. This is done by the signature or IP address assigned to you by your internet connection provider, via your computer. At no time does this program have access to your name, address and phone number or any other personal information that may be used against you by a malicious third party.
 
