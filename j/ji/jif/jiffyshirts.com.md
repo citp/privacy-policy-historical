@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the jiffyshirts.com privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612073736id_/http%3A//www.jiffyshirts.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jiffyshirts.com privacy policy that was archived on 2015-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151210143050id_/http%3A//www.jiffyshirts.com/privacypolicy) for the most accurate reproduction.*
 
-# Wholesale Blank Shirts - JiffyShirts.com
+# Privacy Policy - JiffyShirts.com
+
+**Sorry, we do not ship to AK, DE, HI, AA, AE, AP or any other location outside of the mainland.**
 
 ## General Statement of Principles
 
@@ -20,8 +22,8 @@ We may share information with governmental agencies or other companies assisting
 
 ## Personal Information Collected - Order Forms
 
-With the exception of credit card info, we store the information from your order form to allow us to track consulting issues or refer to a previous order to help provide some customer service. You may elect to have your information completely removed from this system by e-mailing us at [](mailto:) with your request. We do not store any type of credit card information. 
+With the exception of credit card info, we store the information from your order form to allow us to track consulting issues or refer to a previous order to help provide some customer service. You may elect to have your information completely removed from this system by e-mailing us at with your request. We do not store any type of credit card information. 
 
 ## Information Correction or Removal
 
-If you wish to correct, update or remove any information about you that may be in our records, please send us e-mail at [](mailto:) with the details of your request. If you wish to contact us further, please find complete contact information on our contact us page. 
+If you wish to correct, update or remove any information about you that may be in our records, please send us e-mail at with the details of your request. If you wish to contact us further, please find complete contact information on our contact us page. 
