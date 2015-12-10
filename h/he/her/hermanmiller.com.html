@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the hermanmiller.com privacy policy that was archived on 2015-06-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150619221915id_/http%3A//www.hermanmiller.com/about-us/who-is-herman-miller/policies-and-legal-stuff/website/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the hermanmiller.com privacy policy that was archived on 2015-12-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151210072156id_/http%3A//www.hermanmiller.com/about-us/who-is-herman-miller/legal/privacy-policy.html) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html><head><script type="text/javascript" src="https://pi.pardot.com/pd.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script id="f5_cspm">(function(){var f5_cspm={f5_p:'JMLHGPKFJIDCBLJEGNIFOOOILEMABPKAGGMFHNMPPKCBBBKEMJDKGFFAKEIAOOHDHNENCIPGJDBOGCBDAMKJPKGEAIEGCJJIBNLCNPMMEHPFPPPOOJHDGOMCBJLIMMJL',setCharAt:function(str,index,chr){if(index>str.length-1)return str;return str.substr(0,index)+chr+str.substr(index+1);},get_byte:function(str,i){var s=(i/16)|0;i=(i&15);s=s*32;return((str.charCodeAt(i+16+s)-65)<<4)|(str.charCodeAt(i+s)-65);},set_byte:function(str,i,b){var s=(i/16)|0;i=(i&15);s=s*32;str=f5_cspm.setCharAt(str,(i+16+s),String.fromCharCode((b>>4)+65));str=f5_cspm.setCharAt(str,(i+s),String.fromCharCode((b&15)+65));return str;},set_latency:function(str,latency){latency=latency&0xffff;str=f5_cspm.set_byte(str,32,(latency>>8));str=f5_cspm.set_byte(str,33,(latency&0xff));str=f5_cspm.set_byte(str,27,2);return str;},wait_perf_data:function(){try{var wp=window.performance.timing;if(wp.loadEventEnd>0){var res=wp.loadEventEnd-wp.navigationStart;if(res<60001){var cookie_val=f5_cspm.set_latency(f5_cspm.f5_p,res);window.document.cookie='aaaaaaaaaaaaaaa='+encodeURIComponent(cookie_val)+';path=/';}
+<!DOCTYPE html><html><head><script type="text/javascript" src="https://pi.pardot.com/pd.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script id="f5_cspm">(function(){var f5_cspm={f5_p:'FBJAKICICGIDBMPLAKLDJEKMGLHLBIPIKJFFJBLCDOGBBEOBFIANBCJDJNFADFGNCGIBPCJDJNMGHHEIAADKPHINIEIMHNFKOLJKBHIOJGMJBFMLFBAHCFKFLIJNNNMF',setCharAt:function(str,index,chr){if(index>str.length-1)return str;return str.substr(0,index)+chr+str.substr(index+1);},get_byte:function(str,i){var s=(i/16)|0;i=(i&15);s=s*32;return((str.charCodeAt(i+16+s)-65)<<4)|(str.charCodeAt(i+s)-65);},set_byte:function(str,i,b){var s=(i/16)|0;i=(i&15);s=s*32;str=f5_cspm.setCharAt(str,(i+16+s),String.fromCharCode((b>>4)+65));str=f5_cspm.setCharAt(str,(i+s),String.fromCharCode((b&15)+65));return str;},set_latency:function(str,latency){latency=latency&0xffff;str=f5_cspm.set_byte(str,32,(latency>>8));str=f5_cspm.set_byte(str,33,(latency&0xff));str=f5_cspm.set_byte(str,27,2);return str;},wait_perf_data:function(){try{var wp=window.performance.timing;if(wp.loadEventEnd>0){var res=wp.loadEventEnd-wp.navigationStart;if(res<60001){var cookie_val=f5_cspm.set_latency(f5_cspm.f5_p,res);window.document.cookie='aaaaaaaaaaaaaaa='+encodeURIComponent(cookie_val)+';path=/';}
 return;}}
 catch(err){return;}
 setTimeout(f5_cspm.wait_perf_data,100);return;},go:function(){var chunk=window.document.cookie.split(/\s*;\s*/);for(var i=0;i<chunk.length;++i){var pair=chunk[i].split(/\s*=\s*/);if(pair[0]=='f5_cspm'){if(pair[1]=='1234'){var d=new Date();d.setTime(d.getTime()-1);window.document.cookie='f5_cspm=;expires='+d.toUTCString()+';path=/;';setTimeout(f5_cspm.wait_perf_data,100);}}}}}
@@ -40,7 +40,7 @@ f5_cspm.go();}());</script>
     
     
     <script type="text/javascript">
-        var currPageTitle = 'Privacy';
+        var currPageTitle = 'Privacy_Policy';
     </script>
     
 		
@@ -64,7 +64,12 @@ f5_cspm.go();}());</script>
 				var trackers = ga.getAll();
 				for (var i=0; i<trackers.length; ++i) {
 					var tracker = trackers[i];
-					tracker.send('pageview');
+					// Override for Design Resources - Materials app
+					if ((window.location.pathname.match('\/design-resources\/materials\/search-materials')&&window.location.hash.length>0)||(window.location.pathname.match('\/design-resources\/materials\/search-materials')&&window.location.search)){
+						// do not send a pageview - Materials code takes over and is responsible for reporting pageviews for all deep links within the app.
+					}else{
+						tracker.send('pageview');
+					}
 				}
 			});
 			  </script>
@@ -73,18 +78,23 @@ f5_cspm.go();}());</script>
 		
 
 
-<script type="text/javascript">
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-8473089-1']);
-_gaq.push(['_setDomainName', '.hermanmiller.com']);_gaq.push(['_trackPageview']);
-
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
-</script>
-
+				<script type="text/javascript">
+				  var _gaq = _gaq || [];
+				  _gaq.push(['_setAccount', 'UA-8473089-1']);
+				_gaq.push(['_setDomainName', '.hermanmiller.com']);
+				// Override for Design Resources - Materials app
+				if (window.location.pathname.match('\/design-resources\/materials\/search-materials')&&window.location.hash.length>0){
+					// do not send a pageview - Materials code takes over and is responsible for reporting pageviews for all deep links within the app.
+				}else{
+					_gaq.push(['_trackPageview']);
+				}
+				  (function() {
+				    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+				    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+				    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+				  })();
+				</script>
+				
 					<script type="text/javascript">
 		piAId = '71212';
 		piCId = '2060';
@@ -115,7 +125,7 @@ _gaq.push(['_setDomainName', '.hermanmiller.com']);_gaq.push(['_trackPageview'])
     });
 </script>
 
-<script type="text/javascript" src="/etc/clientcontext/legacy/config.init.js?path=/content/hermanmiller/northamerica/en_us/home/about-us/who-is-herman-miller/policies-and-legal-stuff/website/privacy"></script><div id="clickstreamcloud-gui"></div><script type="text/javascript">
+<script type="text/javascript" src="/etc/clientcontext/legacy/config.init.js?path=/content/hermanmiller/northamerica/en_us/home/about-us/who-is-herman-miller/legal/privacy-policy"></script><div id="clickstreamcloud-gui"></div><script type="text/javascript">
     $CQ(function() {
         //old style load config
         CQ_Analytics.ClickstreamcloudMgr.loadConfig();
@@ -183,6 +193,10 @@ _gaq.push(['_setDomainName', '.hermanmiller.com']);_gaq.push(['_trackPageview'])
 		     <a id="headerLink:contact" href="/contact.html" title="Contact">Contact</a>
 		
 
+		
+		     <a id="headerLink:customer-service" href="/customer-service.html" title="Customer Service">Customer Service</a>
+		
+
 
             <form action="/search-results.html" id="globalSearchForm" method="get">
                <fieldset id="searchGlobal" class="customInput">
@@ -211,7 +225,7 @@ _gaq.push(['_setDomainName', '.hermanmiller.com']);_gaq.push(['_trackPageview'])
 <ul id="navGlobal"><li class="arrowSet ">
             <a href="/products.html" id="navGlobal:products"><span>Products</span></a>
             
-            <div class="arrow"></div><div class="dropdown wide"><div class="col"><div class="hdr">Categories</div><a href="/products/categories.html" id="navGlobal:products:categories">All</a><a href="/products/seating.html" id="navGlobal:products:seating">Seating</a><a href="/products/workspaces.html" id="navGlobal:products:workspaces">Workspaces</a><a href="/products/tables.html" id="navGlobal:products:tables">Tables</a><a href="/products/storage.html" id="navGlobal:products:storage">Storage</a><a href="/products/accessories.html" id="navGlobal:products:accessories">Accessories</a><a href="/products/healing-spaces.html" id="navGlobal:products:healing-spaces">Healing Spaces</a><a href="/products/collection.html" id="navGlobal:products:collection">Collection</a></div><div class="col"><div class="hdr">Solutions</div><a href="/solutions.html" id="navGlobal:products:solutions">All</a><a href="/solutions/living-office.html" id="navGlobal:products:living-office">Living Office</a><a href="/solutions/work.html" id="navGlobal:products:work">Work</a><a href="/solutions/small-medium-business.html" id="navGlobal:products:small-medium-business">Small and Medium Business</a><a href="/solutions/home.html" id="navGlobal:products:home">Home</a><a href="/solutions/healthcare.html" id="navGlobal:products:healthcare">Healthcare</a><a href="/solutions/education.html" id="navGlobal:products:education">Education</a><a href="/solutions/government.html" id="navGlobal:products:government">Government</a><a href="/solutions/thrive-ergonomic-portfolio.html" id="navGlobal:products:thrive-ergonomic-portfolio">Thrive Ergonomic Portfolio</a></div><div class="col"><div class="hdr">Designers</div><a href="/designers.html" id="navGlobal:products:designers">All</a></div></div></li><li class="arrowSet ">
+            <div class="arrow"></div><div class="dropdown wide"><div class="col"><div class="hdr">Categories</div><a href="/products/categories.html" id="navGlobal:products:categories">All</a><a href="/products/seating.html" id="navGlobal:products:seating">Seating</a><a href="/products/workspaces.html" id="navGlobal:products:workspaces">Workspaces</a><a href="/products/tables.html" id="navGlobal:products:tables">Tables</a><a href="/products/storage.html" id="navGlobal:products:storage">Storage</a><a href="/products/accessories.html" id="navGlobal:products:accessories">Accessories</a><a href="/products/healing-spaces.html" id="navGlobal:products:healing-spaces">Healing Spaces</a><a href="/products/collection.html" id="navGlobal:products:collection">Collection</a></div><div class="col"><div class="hdr">Solutions</div><a href="/solutions.html" id="navGlobal:products:solutions">All</a><a href="/solutions/living-office.html" id="navGlobal:products:living-office">Living Office</a><a href="/solutions/small-medium-business.html" id="navGlobal:products:small-medium-business">Small and Medium Business</a><a href="/solutions/home.html" id="navGlobal:products:home">Home</a><a href="/solutions/healthcare.html" id="navGlobal:products:healthcare">Healthcare</a><a href="/solutions/education.html" id="navGlobal:products:education">Education</a><a href="/solutions/government.html" id="navGlobal:products:government">Government</a><a href="/solutions/thrive-ergonomic-portfolio.html" id="navGlobal:products:thrive-ergonomic-portfolio">Thrive Ergonomic Portfolio</a></div><div class="col"><div class="hdr">Designers</div><a href="/designers.html" id="navGlobal:products:designers">All</a></div></div></li><li class="arrowSet ">
             <a href="/design-resources.html" id="navGlobal:design-resources"><span>Design Resources</span></a>
             
             <div class="arrow"></div><div class="dropdown"><div class="col"><a href="/design-resources/images.html" id="navGlobal:design-resources:images">Images</a><a href="/design-resources/3d-models-revit.html" id="navGlobal:design-resources:3d-models-revit">3D Models / Revit</a><a href="/design-resources/living-office-design-solutions.html" id="navGlobal:design-resources:living-office-design-solutions">Living Office Design Solutions</a><a href="/design-resources/typicals.html" id="navGlobal:design-resources:typicals">Typicals</a><a href="/design-resources/materials.html" id="navGlobal:design-resources:materials">Materials</a><a href="/design-resources/product-downloads.html" id="navGlobal:design-resources:product-downloads">Product Downloads</a><a href="/design-resources/continuing-education-units.html" id="navGlobal:design-resources:continuing-education-units">Continuing Education Units</a></div></div></li><li class="arrowSet ">
@@ -233,7 +247,7 @@ _gaq.push(['_setDomainName', '.hermanmiller.com']);_gaq.push(['_trackPageview'])
                   
             <div class="breadcrumb-div" style="float:left">
                 <div class="hmiBreadCrumb breadcrumb">
-<div id="breadcrumb"><a id="breadcrumb:about-us" href="/about-us.html">About Us</a><a id="breadcrumb:who-is-herman-miller" href="/about-us/who-is-herman-miller.html">Who Is Herman Miller?</a><a id="breadcrumb:policies-and-legal-stuff" href="/about-us/who-is-herman-miller/policies-and-legal-stuff.html">Policies and Legal Stuff</a><a id="breadcrumb:website" href="/about-us/who-is-herman-miller/policies-and-legal-stuff/website.html">Website</a><span id="last">Privacy</span></div>
+<div id="breadcrumb"><a id="breadcrumb:about-us" href="/about-us.html">About Us</a><a id="breadcrumb:who-is-herman-miller" href="/about-us/who-is-herman-miller.html">Who Is Herman Miller?</a><a id="breadcrumb:legal" href="/about-us/who-is-herman-miller/legal.html">Legal</a><span id="last">Privacy Policy</span></div>
 </div>
 
             </div>
@@ -277,11 +291,217 @@ _gaq.push(['_setDomainName', '.hermanmiller.com']);_gaq.push(['_trackPageview'])
 
 
 
-<h2><span class="font16">Privacy</span></h2>
-<p>We value your trust. All of our employee-owners adhere to the highest ethical standards in gathering, using, and safeguarding any information you choose to give us. We do not rent, sell, or exchange information about our website visitors. We restrict access to visitor information to qualified Herman Miller employees. Third parties who need access to Herman Miller visitor information in order to provide operational or other support services to us are required to comply with our high standards of security. We gather only the visitor information that is needed to administer our business and enhance and improve our website.</p>
-<p>Please read our our <a href="/about-us/who-is-herman-miller/policies-and-legal-stuff/website/terms-of-use.html">Terms of Use</a> policy.</p>
-<p></p>
-<p></p>
+<h2><span class="font16">Privacy Policy</span><br>
+</h2>
+</div>
+<div class="parbase hmiText section">
+
+
+
+
+<p>Last Update: July 8, 2015</p>
+
+</div>
+<div class="parbase hmiText section">
+
+
+
+
+<p>Herman Miller respects your privacy and provides you with this Privacy Policy (which is always available at <a href="/about-us/who-is-herman-miller/legal/privacy-policy.html">www.hermanmiller.com/privacy</a> or by contacting us at <a href="mailto:privacyinquiry@hermanmiller.com">privacyinquiry@hermanmiller.com</a>, which describes our current practices with respect to your privacy, the collection and use of personally identifiable information, and your choices with respect to our use and collection thereof. This Privacy Policy governs all transactions through the Site, catalogs, and via the telephone. You should review these terms periodically as this Privacy Policy may change from time to time. Capitalized terms not defined in this Privacy Policy are set forth in the <a href="/about-us/who-is-herman-miller/legal/terms-of-use.html">Terms of Use</a>. This Privacy Policy is expressly incorporated into and is made part of the <a href="/about-us/who-is-herman-miller/legal/terms-of-use.html">Terms of Use</a>. By using a Site, or sharing your contact information with us, you consent to and accept the privacy practices described in this Privacy Policy.</p>
+
+</div>
+<div class="parbase hmiText section">
+
+
+
+
+<p><b><a href="#GOV LAW">GOVERNING LAW</a></b><br>
+<br>
+<b><a href="#CONTACT">CONTACT INFORMATION</a></b><br>
+<br>
+<b><a href="#MINORS">MINORS</a></b><br>
+<br>
+<b><a href="#COLLECT">COLLECTION OF INFORMATION</a></b><br>
+<a href="#AUTO COLLECT">AUTOMATIC COLLECTION OF INFORMATION</a><br>
+<a href="#VOL COLLECT">VOLUNTARY COLLECTION OF PERSONALLY IDENTIFIABLE INFORMATION</a><br>
+<a href="#SOCIAL">SOCIAL NETWORKING</a><br>
+<a href="#COOKIES">COOKIES AND OTHER TOOLS</a><br>
+<a href="#GOOGLE">GOOGLE ANALYTICS</a><br>
+<br>
+<b><a href="#USE">USE AND SHARING OF YOUR INFORMATION</a></b><br>
+<a href="#IN GEN">IN GENERAL</a><br>
+<a href="#FULFILL">FULFILLMENT</a><br>
+<a href="#SWEEP">SWEEPSTAKES</a><br>
+<a href="#ADVERT">ADVERTISING</a><br>
+<a href="#ACCORD">IN ACCORDANCE WITH LAW</a><br>
+<a href="#OPT">OPT-OUT</a><br>
+<br>
+<b><a href="#THIRD">THIRD PARTY LINKS</a></b><br>
+<br>
+<b><a href="#TRACK">DO-NOT-TRACK</a></b><br>
+<br>
+<b><a href="#SECURITY">SECURITY</a></b><br>
+<br>
+<b><a href="#CALIF">YOUR CALIFORNIA PRIVACY RIGHTS</a></b><br>
+<a href="#UPDATING">UPDATING YOUR INFORMATION</a><br>
+<br>
+<b><a href="#INTL">INTERNATIONAL PRIVACY PRACTICES</a></b></p>
+
+</div>
+<div class="parbase hmiText section">
+
+
+
+
+<p><a name="GOV LAW"></a><b>Governing Law</b><br>
+Our USA websites are governed and operated in accordance with the laws of the United States and are intended for the use of residents of the United States.</p>
+
+</div>
+<div class="parbase hmiText section">
+
+
+
+
+<p><b><a name="CONTACT"></a>Contact Information<br>
+ Address</b></p>
+<p>Herman Miller, Inc.<br>
+855 East Main Ave.<br>
+Zeeland, MI 49464</p>
+<p><b>Personal Data Management Contact</b></p>
+<p>E-mail: <a href="mailto:privacyinquiry@hermanmiller.com">privacyinquiry@hermanmiller.com</a><br>
+Subject: "Contact Us Form: Personal Data Management"</p>
+</div>
+<div class="parbase hmiText section">
+
+
+
+
+<p><b><a name="MINORS"></a>Minors</b><br>
+The Site is not targeted towards, nor intended for use by, persons under the age of 13. If you are not at least 13 years of age, do not access, use, or register on the Site. We do not knowingly collect personally identifiable information from persons under age 13 (in which case we will terminate and delete your account and all information contained therein) without prior parental consent. Unless we have knowledge to the contrary, we will presume that all personally identifiable information collected by the Site is from persons age 13 and over. By using the Site, you represent and warrant that you are 13 years of age or older.</p>
+
+</div>
+<div class="parbase hmiText section">
+
+
+
+
+<p><b><a name="COLLECT"></a>Collection of Information</b></p>
+<p><b><a name="AUTO COLLECT"></a>Automatic Collection of Information</b><br>
+You may visit Our Site without providing any personally identifiable information. Anonymous, non-personally identifiable information such as your IP address, domain server, type of computer or device, the operating system, type of web browser, addresses of referring site, time and date of visit, the pages you visited while on the Site, and your location information, also known as traffic data, may be collected and used, for example, to administer and improve the functionality and quality of the Site and diagnose problems.</p>
+<p><b><a name="VOL COLLECT"></a>Voluntary Collection of Personally Identifiable Information</b><br>
+We may ask you for certain personally identifiable information, such as your name, shipping/billing address, telephone number, email address, social media user name, credit card information, birth date, gender, occupation, personal interests, and other information in connection with your request for information, a purchase or order of a product, to receive catalogs, or to participate in contests, sweepstakes or promotions, or as otherwise requested on the Site. However, any such request is completely voluntary. If you register and purchase products, we may also maintain a record of your product purchases. However, if you decline to provide Us with such requested information, you may not be able to use certain functions or features of the Site, including inability to purchase products or access certain offers and content.</p>
+<p><b><a name="SOCIAL"></a>Social Networking</b><br>
+If you connect your account with your social networking account or if you choose to log in to a Site using your social networking log-in credentials (e.g., Facebook or Twitter), you consent to our receiving certain personal information about you from the connected social networking site, in accordance with any terms and privacy policy of such site.</p>
+</div>
+<div class="parbase hmiText section">
+
+
+
+
+<p><b><a name="COOKIES"></a>Cookies and Other Tools</b><br>
+We and our service partners may use cookies, web beacons, and other technologies to receive and store certain types of information whenever You interact with the Site through Your computer or mobile device. Cookies are small data files that are often stored on one's computer each time one visits a new website. Cookies may store unique identifiers, user preferences and other information. We use cookies to help personalize Your experience when visiting the Site. These cookies also help to uniquely identify Your computer for security purposes and may enable us and our third-party service providers to serve ads on our behalf across the Internet. You may opt to set Your browser to refuse cookies or indicate when a cookie is being sent. However, refusal of cookies may affect the experience at many third party websites, including the Site.</p>
+
+</div>
+<div class="parbase hmiText section">
+
+
+
+
+<p><b><a name="GOOGLE"></a>Google Analytics</b><br>
+We use Google Analytics, a web analytics service provided by Google, Inc., (“Google”) to collect certain information relating to Your use of the Site. Google Analytics places cookies on Your computer, to help the website analyze how users use the Site. The information generated by the cookie about Your use of the Site (including Your IP address) will be transmitted to and stored by Google on servers in the United States. Google will use this information for the purpose of evaluating Your use of the website, compiling reports on website activity for website operators and providing other services relating to website activity and internet usage. Google may also transfer this information to third parties where required to do so by law, or where such third parties process the information on Google’s behalf. Google will not associate Your IP address with any other data held by Google. By using this Site, You consent to the processing of data about You by Google in the manner and for the purposes set out above. For more information regarding Google Analytics please visit Google's website, and pages that describe Google Analytics, such as <a href="http://www.google.com/analytics/learn/privacy.html">www.google.com/analytics/learn/privacy.html</a>.</p>
+
+</div>
+<div class="parbase hmiText section">
+
+
+
+
+<p><b><a name="SHARING"></a>Use and Sharing of Your Information</b></p>
+<p><b><a name="IN GEN"></a>In General</b><br>
+Herman Miller only processes and uses your personally identifiable information in accordance with the purposes for which it was collected or authorized by you. We may use your personally identifiable information in order to confirm and track your orders and use of the Site; analyzing your preferences, trends, and statistics; personalizing your Site experience; informing you about our new and existing products, services, and other offers and information about Herman Miller and its various brands; and other promotional purposes. We may share personally identifiable information within our family of companies, including any entity controlling, controlled by, or under common control with Herman Miller.</p>
+<p><b><a name="FULFILL"></a>Fulfillment</b><br>
+Except as set forth in this Privacy Policy or upon your consent, we do not share, sell or trade your personally identifiable information with third parties. Notwithstanding, we may disclose some of your personally identifiable information to our service providers that we may use to fulfill services for you, provided that we will reasonably assure that those service providers who perform functions on Our behalf, including payment processing, fulfilling orders, delivering packages, and providing customer service. We only share the information with such third parties to the extent necessary in order for them to fulfill their obligations, solely with respect to the reason they were retained by Us, and is subject to obligations to maintain the integrity, security, and confidentiality of your personally identifiable information. In addition, We may need to contact you via phone, email or mail to address questions or issues specific to your order, entry, etc., even if you have opted to not receive marketing communications from Us.</p>
+</div>
+<div class="parbase hmiText section">
+
+
+
+
+<p><b><a name="SWEEP"></a>Sweepstakes</b><br>
+Personally identifiable information provided as part of a sweepstakes or contest entry may also be disclosed to the sponsor or co-sponsors of the sweepstakes or contest. Such sweepstakes and contests may be subject to additional terms and conditions and privacy practices. Any such additional terms shall be available to you before you submit your personally identifiable information.</p>
+<p><b><a name="ADVERT"></a>Advertising</b><br>
+We may use certain personally identifiable information in order to show you ads from Us and Our advertising partners that are more relevant to your interests. We may use cookies and other information to provide relevant interest-based advertising based on your browsing behavior in order to provide ads tailored to your interests. These interest-based ads may be presented to you while you are browsing Our site or third-party sites not owned by Us.</p>
+<p>We belong to ad networks that may use your browsing history across participating websites to show you interest-based advertisements on those websites. To learn more about interest-based advertisements and Your opt-out rights and options, visit the Digital Advertising Alliance <a href="http://www.aboutads.info">www.aboutads.info</a> and the Network Advertising Initiative <a href="http://www.networkadvertising.org">www.networkadvertising.org</a>. Please note that if you choose to opt out, you will continue to see ads on our Site, but they will not be based on how you browse and shop.</p>
+<p><b><a name="ACCORD"></a>In Accordance with Law</b><br>
+We may disclose personally identifiable information to others if we are required to do so by law, to protect and defend Our rights, for security purposes, or in the event of a corporate sale, merger, reorganization, dissolution or similar event.</p>
+<p><b><a name="OPT"></a>Opt-Out</b><br>
+You may opt-out of receiving future communications from Us any time We request your personally identifiable information, by clicking on the link at the bottom of emails you receive from Us. You may also <a href="mailto:privacyinquiry@hermanmiller.com">Contact Us</a> during regular business hours.</p>
+</div>
+<div class="parbase hmiText section">
+
+
+
+
+<p><b><a name="THIRD"></a>Third Party Links</b><br>
+Our websites may contain links to websites operated and maintained by third parties, over which we have no control. Privacy policies on such linked websites may be different from our privacy policy. You access such linked websites at your own risk. You should always read the privacy policy of a linked website before disclosing any of your information on such website.</p>
+
+</div>
+<div class="parbase hmiText section">
+
+
+
+
+<p><b><a name="TRACK"></a>Do-not-track</b><br>
+We do not respond if your browser sends a “do not track” signal or similar mechanism to indicate you do not wish to be tracked or receive interest-based ads.</p>
+
+</div>
+<div class="parbase hmiText section">
+
+
+
+
+<p><b><a name="SECURITY"></a>Security</b><br>
+We use industry standard physical, technical and administrative security measures and safeguards to protect the confidentiality and security of Your Personal Information. However, since the Internet is not a 100% secure environment, We cannot guarantee, ensure, or warrant the security of any information You transmit to Us. There is no guarantee that information may not be accessed, disclosed, altered, or destroyed by breach of any of Our physical, technical, or managerial safeguards. It is Your responsibility to protect the security of Your login information. Please note that e-mails and other communications You send to Us through Our Site are not encrypted, and We strongly advise You not to communicate any confidential information through these means. You should secure your password and not share it with any other individual. Be careful when using your login information on or making purchases from public computers. Always log off when finished.</p>
+
+</div>
+<div class="parbase hmiText section">
+
+
+
+
+<p><b><a name="CALIF"></a>Your California Privacy Rights</b><br>
+Under California’s "Shine the Light" law, California residents who provide Personal Information in obtaining products or services for personal, family or household use are entitled to request and obtain from Us once a calendar year information about the customer information We shared, if any, with other businesses for their own direct marketing uses. If applicable, this information would include the categories of customer information and the names and addresses of those businesses with which We shared customer information for the immediately prior calendar year (e.g. requests made in 2015 will receive information regarding 2014 sharing activities).</p>
+<p>To obtain this information, please send an email message to <a href="mailto:privacyinquiry@hermanmiller.com">privacyinquiry@hermanmiller.com</a> with "Request for California Privacy Information" on the subject line and in the body of Your message. We will provide the requested information to you at Your e-mail address in response. Please be aware that not all information sharing is covered by the "Shine the Light" requirements and only information on covered sharing will be included in our response.</p>
+</div>
+<div class="parbase hmiText section">
+
+
+
+
+<p><b><a name="UPDATING"></a>Updating Your Information</b><br>
+If you have any questions or concerns about this Privacy Policy or your personal information, please let us know by sending us an email at <a href="mailto:privacyInquiry@hermanmiller.com">privacyInquiry@hermanmiller.com</a>.</p>
+<p>You have the right to tell us:</p>
+<ul class="list bulleted">
+<li>to provide you with a copy of the personal information we have about you</li>
+<li>to correct or update your personal information</li>
+<li>not to contact you in the future</li>
+<li>to delete your personal information</li>
+</ul>
+<p>Please be aware that in accordance with our routine record keeping, at our discretion and from time-to-time, we may delete records that contain personal information.</p>
+</div>
+<div class="parbase hmiText section">
+
+
+
+
+<p><b><a name="INTL"></a>International Privacy Practices</b><br>
+The Sites, and other websites directed to residents in countries and jurisdictions outside of the United States, are operated and managed on servers located and operated within the United States. By using and accessing our Sites, residents and citizens of countries and jurisdictions outside of the United States except in the case of data transfers from the EEA and Switzerland, which are covered under the US-EU and US-Swiss Safe Harbor Frameworks, agree and consent to the transfer to and processing of Personal Information on servers located in the United States, and that the protection of such information may be different than required under the laws of Your residence or location.</p>
+<p>For residents in the EU, your personally identifiable information is collected, stored, and processed in accordance with the Data Protection Act 1998 and the Privacy and Electronic Communications (EC Directive) Regulations 2011.</p>
+<p>Herman Miller complies with the US-EU Safe Harbor Framework and US-Swiss Safe Harbor Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. Herman Miller has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. If there is any conflict between the policies in this privacy policy and the Safe Harbor Privacy Principles, the Safe Harbor Privacy Principles shall govern. To learn more about the Safe Harbor program, and to view our certification page, please visit <a rel="external" href="http://www.export.gov/safeharbor/">www.export.gov/safeharbor/</a>.<br>
+&nbsp;<br>
+In compliance with the US-EU and US-Swiss Safe Harbor Principles, Herman Miller commits to resolve complaints about your privacy and our collection or use of your personal information. European Union or Swiss citizens with inquiries or complaints regarding this privacy policy should first contact Herman Miller at <a href="mailto:privacyinquiry@hermanmiller.com">privacyinquiry@hermanmiller.com</a>.<br>
+<br>
+Herman Miller has further committed to refer unresolved privacy complaints under the US-EU and US-Swiss Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU SAFE HARBOR, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit <a rel="external" href="http://www.bbb.org/us/safe-harbor-complaints">www.bbb.org/us/safe-harbor-complaints</a> for more information and to file a complaint.</p>
 </div>
 
 </div>
@@ -308,49 +528,37 @@ _gaq.push(['_setDomainName', '.hermanmiller.com']);_gaq.push(['_trackPageview'])
 		    	
 		    	<span>Awards and Recognition</span>
 	    	</a>
-		    	   <a class="active" href="/about-us/who-is-herman-miller/policies-and-legal-stuff.html">
+		    	   <a class="active" href="/about-us/who-is-herman-miller/legal.html">
 			    	   
-			    	   <span>Policies and Legal Stuff</span>
+			    	   <span>Legal</span>
 			       </a>
 			       
 		    	   <ul>
 		    	   
 	        <li>
-	        	   <a href="/about-us/who-is-herman-miller/policies-and-legal-stuff/supplier-code-of-conduct.html">Supplier Code of Conduct</a>
+	        	   <a href="/about-us/who-is-herman-miller/legal/corporate-code-of-conduct.html">Corporate Code of Conduct</a>
 	        	</li><li>
-	        	   <a href="/about-us/who-is-herman-miller/policies-and-legal-stuff/eeo-and-affirmative-action.html">EEO and Affirmative Action</a>
+	        	   <a href="/about-us/who-is-herman-miller/legal/discrimination-and-harassment.html">Discrimination and Harassment</a>
 	        	</li><li>
-	        	   <a href="/about-us/who-is-herman-miller/policies-and-legal-stuff/discrimination-and-harassment.html">Discrimination and Harassment</a>
+	        	   <a href="/about-us/who-is-herman-miller/legal/eeo-and-affirmative-action.html">EEO and Affirmative Action</a>
 	        	</li><li>
-	        	   <a href="/about-us/who-is-herman-miller/policies-and-legal-stuff/corporate-code-of-conduct.html">Corporate Code of Conduct</a>
+	        	   <a href="/about-us/who-is-herman-miller/legal/whistleblower-policy.html">Whistleblower Policy</a>
 	        	</li><li>
-	        	   <a href="/about-us/who-is-herman-miller/policies-and-legal-stuff/conflict-minerals.html">Conflict Minerals</a>
+	        	   <a href="/about-us/who-is-herman-miller/legal/supplier-code-of-conduct.html">Supplier Code of Conduct</a>
 	        	</li><li>
-	        	   <a href="/about-us/who-is-herman-miller/policies-and-legal-stuff/whistleblower-policy.html">Whistleblower Policy</a>
+	        	   <a href="/about-us/who-is-herman-miller/legal/conflict-minerals.html">Conflict Minerals</a>
 	        	</li><li>
-	        	   <a class="active" href="/about-us/who-is-herman-miller/policies-and-legal-stuff/website.html">Website</a>
-	        	<ul>
-		            	<li>
-		            	  <a href="/about-us/who-is-herman-miller/policies-and-legal-stuff/website/copyright.html">Copyright</a>
-		            	</li>
-		            	
-		            	<li>
-		            	  <a href="/about-us/who-is-herman-miller/policies-and-legal-stuff/website/terms-of-use.html">Terms of Use</a>
-		            	</li>
-		            	
-		            	<li>
-		            	  <a href="/about-us/who-is-herman-miller/policies-and-legal-stuff/website/disclaimer.html">Disclaimer</a>
-		            	</li>
-		            	
-		            	<li>
-		            	  <a class="active" href="/about-us/who-is-herman-miller/policies-and-legal-stuff/website/privacy.html">Privacy</a>
-		            	</li>
-		            	</ul></li><li>
-	        	   <a href="/about-us/who-is-herman-miller/policies-and-legal-stuff/product-warranty.html">Product Warranty</a>
+	        	   <a href="/about-us/who-is-herman-miller/legal/product-warranty.html">Product Warranty</a>
 	        	</li><li>
-	        	   <a href="/about-us/who-is-herman-miller/policies-and-legal-stuff/trademarks.html">Trademarks</a>
+	        	   <a href="/about-us/who-is-herman-miller/legal/trademarks.html">Trademarks</a>
 	        	</li><li>
-	        	   <a href="/about-us/who-is-herman-miller/policies-and-legal-stuff/patents.html">Patents</a>
+	        	   <a href="/about-us/who-is-herman-miller/legal/patents.html">Patents</a>
+	        	</li><li>
+	        	   <a href="/about-us/who-is-herman-miller/legal/terms-of-use.html">Terms of Use</a>
+	        	</li><li>
+	        	   <a class="active" href="/about-us/who-is-herman-miller/legal/privacy-policy.html">Privacy Policy</a>
+	        	</li><li>
+	        	   <a href="/about-us/who-is-herman-miller/legal/california-sb-657.html">California SB 657</a>
 	        	</li></ul>
 </div></div>
 
@@ -422,15 +630,15 @@ _gaq.push(['_setDomainName', '.hermanmiller.com']);_gaq.push(['_trackPageview'])
         
 
         
-                    <a id="footer:policies-and-legal-stuff" class="" href="/about-us/who-is-herman-miller/policies-and-legal-stuff.html">Legal</a>
+                    <a id="footer:legal" class="" href="/about-us/who-is-herman-miller/legal.html">Legal</a>
         
 
         
-                    <a id="footer:terms-of-use" class="" href="/about-us/who-is-herman-miller/policies-and-legal-stuff/website/terms-of-use.html">Terms of Use</a>
+                    <a id="footer:terms-of-use" class="" href="/about-us/who-is-herman-miller/legal/terms-of-use.html">Terms of Use</a>
         
 
         
-                    <a id="footer:privacy" class="addDivider " href="/about-us/who-is-herman-miller/policies-and-legal-stuff/website/privacy.html">Privacy</a>
+                    <a id="footer:privacy-policy" class="addDivider " href="/about-us/who-is-herman-miller/legal/privacy-policy.html">Privacy</a>
         
 
         
@@ -458,7 +666,7 @@ _gaq.push(['_setDomainName', '.hermanmiller.com']);_gaq.push(['_trackPageview'])
 <!--
 More detailed timing info is available by uncommenting some code in the timing.jsp component
 Timing chart URL:
-http://chart.apis.google.com/chart?chtt=privacy.html+%28246ms%29&cht=bhs&chxt=x&chco=c6d9fd,4d89f9&chbh=a&chds=0,246,0,246&chxr=0,0,246&chd=t:3,4,4,4,4,5,7,7,9,12,14,117,118,119,119,120,120,122,123,124,124,125,241,243|2,0,0,0,1,0,0,111,1,0,101,1,123,2,2,0,1,1,1,0,7,6,5,3&chly=head.jsp|init.jsp|headlibs.jsp|UA.jsp|GA.jsp|Pardot.jsp|clickstreamcloud.jsp|header.jsp|hmiHeaderLinks.jsp|hmiLogo.jsp|hmiMainNav.jsp|hmiBreadCrumb.jsp|content.jsp|reference.jsp|parsys.jsp|hmititle%29|hmiTitle.jsp|parsys.jsp|parsys.jsp|hmiText.jsp|parsys.jsp|hmiSideNav.jsp|footer.jsp|hmiFooter.jsp&chs=600x500
+http://chart.apis.google.com/chart?chtt=privacy-policy.html+%28462ms%29&cht=bhs&chxt=x&chco=c6d9fd,4d89f9&chbh=a&chds=0,462,0,462&chxr=0,0,462&chd=t:5,7,7,8,8,8,11,11,14,19,22,207,209,211,211,212,212,216,217,222,223,225,225,226,227,228,229,230,231,308,310,311,312,313,314,316,320,321,323,334,336|3,0,0,0,0,0,0,198,3,1,182,2,125,3,3,0,2,0,103,1,0,0,1,1,0,0,0,0,77,1,0,1,1,1,1,3,0,13,11,128,5&chly=head.jsp|init.jsp|headlibs.jsp|UA.jsp|GA.jsp|Pardot.jsp|clickstreamcloud.jsp|header.jsp|hmiHeaderLinks.jsp|hmiLogo.jsp|hmiMainNav.jsp|hmiBreadCrumb.jsp|content.jsp|reference.jsp|parsys.jsp|hmititle%29|hmiTitle.jsp|parsys.jsp|parsys.jsp|hmiText.jsp|hmiText.jsp|hmiText.jsp|hmiText.jsp|hmiText.jsp|hmiText.jsp|hmiText.jsp|hmiText.jsp|hmiText.jsp|hmiText.jsp|hmiText.jsp|hmiText.jsp|hmiText.jsp|hmiText.jsp|hmiText.jsp|hmiText.jsp|hmiText.jsp|hmiText.jsp|parsys.jsp|hmiSideNav.jsp|footer.jsp|hmiFooter.jsp&chs=600x500
 -->
 
 
