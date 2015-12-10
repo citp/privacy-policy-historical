@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flagsimporter.com privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611082911id_/http%3A//www.flagsimporter.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flagsimporter.com privacy policy that was archived on 2015-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151210020838id_/http%3A//www.flagsimporter.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -62,10 +62,10 @@ By using this Site, you signify your acceptance of this policy and [terms of se
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:
 
 [sales@flagsimporter.com](mailto:sales@flagsimporter.com)  
-1700 S. Milliken Ave  
+2080 S Cucamonga Ave  
 Ontario, California 91761 USA  
 Tollfree: 1.800.709.3488  
 Tel: 909-605-2968  
 Fax: 909-605-2978
 
-Updated as of October 1, 2013
+Updated as of October 1, 2015
