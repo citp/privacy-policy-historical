@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oompa.com privacy policy that was archived on 2015-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150427014129id_/http%3A//www.oompa.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oompa.com privacy policy that was archived on 2015-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151210080914id_/http%3A//www.oompa.com/pages/privacy) for the most accurate reproduction.*
 
 # Oompa Toys Privacy Policy
 
@@ -66,4 +66,4 @@ If you have questions or concerns regarding this statement, please contact us at
 
 **CONTACT US**
 
-    If you have any questions or suggestions regarding our privacy policy, please contact us at support@oompa.com, or call us at 844.883.3300.
+    If you have any questions or suggestions regarding our privacy policy, please contact us at hello@oompa.com, or call us at 844.883.3300.
