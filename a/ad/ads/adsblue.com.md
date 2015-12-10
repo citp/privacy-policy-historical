@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adsblue.com privacy policy that was archived on 2015-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150209073559id_/http%3A//www.adsblue.com/privacy-p22) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adsblue.com privacy policy that was archived on 2015-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151210144439id_/http%3A//www.adsblue.com/privacy-p22) for the most accurate reproduction.*
 
 # Privacy Policy - AdsBlue - Free Classifieds Site
 
