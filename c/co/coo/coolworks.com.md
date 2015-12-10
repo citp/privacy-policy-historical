@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the coolworks.com privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611012429id_/http%3A//www.coolworks.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coolworks.com privacy policy that was archived on 2015-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151210053535id_/http%3A//www.coolworks.com/about/privacy.html) for the most accurate reproduction.*
 
 # Cool Works Privacy Policy | CoolWorks.com
+
+You need to sign in or sign up before continuing.
 
 We respect your privacy
 
