@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the atosorigin.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629125837id_/http%3A//atos.net/en-us/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the atosorigin.com privacy policy that was archived on 2015-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151210080550id_/http%3A//atos.net/en-us/privacy.html) for the most accurate reproduction.*
 
 # Privacy
 
