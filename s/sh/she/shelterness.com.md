@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the shelterness.com privacy policy that was archived on 2015-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150618135038id_/http%3A//www.shelterness.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shelterness.com privacy policy that was archived on 2015-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151210012632id_/http%3A//www.shelterness.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Shelterness
+# Privacy Policy - Shelterness
 
 The web site is protected to ensure that your information is not lost, misused, or abused.
 
