@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mobilephonesdirect.co.uk privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611010730id_/http%3A//www.mobilephonesdirect.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobilephonesdirect.co.uk privacy policy that was archived on 2015-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151210023938id_/http%3A//www.mobilephonesdirect.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Mobile Phones Direct
 
@@ -8,7 +8,7 @@
 
 Version 1.1 posted and effective as of 27th Feb 2014
 
-The Smartphone Company (“ **we** ” **,  **“ **us** ” **,  **or “ **our** ”) operates this website[http://www.smartphonecompany.co.uk](http://www.smartphonecompany.co.uk/) (“ **our site** ”) and is committed to protecting and respecting your privacy and complying with applicable data protection and privacy laws.
+Mobile Phones Direct (“ **we** ” **,  **“ **us** ” **,  **or “ **our** ”) operates this website [http://www.mobilephonesdirect.co.uk](http://www.smartphonecompany.co.uk/) (“ **our site** ”) and is committed to protecting and respecting your privacy and complying with applicable data protection and privacy laws.
 
 This privacy policy (“ **Policy** ”) (together with our Terms and Conditions of Sale and Terms of Website Use) set out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
 
@@ -18,7 +18,7 @@ Certain products and services collect and use personal data in accordance with t
 
 Our site, products or services may, from time to time, contain links to and from the websites of other companies', our partner networks, advisers and affiliates.  If you follow a link to or from any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies.  Please check these policies before you submit any personal data to these websites.  We are not responsible for the privacy practices or contents of any such websites.
 
-For the purpose of the Data Protection Act 1998 (the “ **Act** ”) the data controller is The Smartphone Company of The Courtyard Business Centre, Farmhouse Mews, Thatcham, Newbury, RG18 4NW.
+For the purpose of the Data Protection Act 1998 (the “ **Act** ”) the data controller is Mobile Phones Direct of The Courtyard Business Centre, Farmhouse Mews, Thatcham, Newbury, RG18 4NW.
 
 **By using this website and/or by submitting personal data to us, you accept and agree to the processing of your personal data in accordance with this Policy. If you do not agree with this Policy, please do not use this website or provide us with your personal data.**
 
