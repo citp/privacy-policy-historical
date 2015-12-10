@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the maxim.com privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630125151id_/http%3A//maxim.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maxim.com privacy policy that was archived on 2015-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151210134824id_/http%3A//www.maxim.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Maxim
 
