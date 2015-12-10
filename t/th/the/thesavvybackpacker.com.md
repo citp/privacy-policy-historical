@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thesavvybackpacker.com privacy policy that was archived on 2015-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150530064146id_/http%3A//thesavvybackpacker.com/advertising-and-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thesavvybackpacker.com privacy policy that was archived on 2015-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151210173928id_/http%3A//thesavvybackpacker.com/advertising-and-privacy-policy) for the most accurate reproduction.*
 
-# Advertising/Privacy PolicyGuide to Budget Backpacking in Europe – The Savvy Backpacker
+# Advertising/Privacy Policy
 
 ## **For Advertisers**
 
