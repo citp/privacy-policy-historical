@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the mybigcommerce.com privacy policy that was archived on 2015-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150323135934id_/https%3A//www.bigcommerce.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mybigcommerce.com privacy policy that was archived on 2015-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151210233626id_/https%3A//www.bigcommerce.com/privacy) for the most accurate reproduction.*
 
-# Bigcommerce - Privacy Policy
+# Privacy Policy | Bigcommerce
+
+## Privacy policy.
 
 Last updated: March 20, 2014
 
@@ -11,9 +13,9 @@ Level 6, 1-3 Smail St
 Ultimo NSW 2007  
 Australia
 
-We can be reached via email at [sales@bigcommerce.com](mailto:sales@bigcommerce.com) or you can reach us by telephone at (US) 1-888-699-8911 or (Int) +1-512-758-7588.
+We can be reached via email at [sales@bigcommerce.co](mailto:mailto:sales@bigcommerce.co)m or you can reach us by telephone at (US) 1-888-699-8911 or (Int) +1-512-758-7588.
 
-We take your privacy seriously. Because we gather certain types of information about our users, we want to help you understand the terms and conditions surrounding the collection and use of that information. This privacy statement discloses the types of information we gather, how we use it, and how to correct or change it. These privacy practices apply to the website located at the [www.bigcommerce.com](http://www.bigcommerce.com/) and related Bigcommerce websites, pages, applications, and mobile applications (collectively, the “Site”), that you were viewing when you clicked through to this policy, which is operated directly by us or by our affiliated companies.
+We take your privacy seriously. Because we gather certain types of information about our users, we want to help you understand the terms and conditions surrounding the collection and use of that information. This privacy statement discloses the types of information we gather, how we use it, and how to correct or change it. These privacy practices apply to the website located at the [www.bigcommerce.com](https://www.bigcommerce.com/) and related Bigcommerce websites, pages, applications, and mobile applications (collectively, the "Site"), that you were viewing when you clicked through to this policy, which is operated directly by us or by our affiliated companies.
 
 For each visitor to our Site, our web server automatically recognizes no information regarding the domain or email address except for information gathered utilizing Google Analytics. We collect the email addresses of those who communicate with us via email. These email addresses are used for internal review only. We use cookies to allow Bigcommerce customers to log in to their account.
 
@@ -39,7 +41,7 @@ We are always seeking to improve our business. In accomplishing these objectives
 
 Our Site is not directed to individuals under the age of thirteen (13), and we request that these individuals do not provide personal information through our Site. We do not knowingly collect information from children under thirteen (13) without parental consent. Visit the Federal Trade Commission website for more information about the Children's Online Privacy Protection Act (COPPA).
 
-This privacy policy is subject to change. Please review it periodically. If we make changes to the policy, we will revise the “Last Updated” date at the top of this policy. Any changes to this policy will become effective when we post the revised policy on the Site. Your use of the Site following these changes means that you accept the revised policy.
+This privacy policy is subject to change. Please review it periodically. If we make changes to the policy, we will revise the "Last Updated" date at the top of this policy. Any changes to this policy will become effective when we post the revised policy on the Site. Your use of the Site following these changes means that you accept the revised policy.
 
 Upon request, we provide Site visitors with access to all information (including proprietary information) that we maintain about them.
 
