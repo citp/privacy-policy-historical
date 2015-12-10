@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the attentiondeficitconnect.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121081524id_/http%3A//www.attentiondeficitconnect.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the attentiondeficitconnect.com privacy policy that was archived on 2015-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151210015740id_/http%3A//www.attentiondeficitconnect.com/privacy-policy) for the most accurate reproduction.*
 
 # Our Privacy Policy | Attention Deficit Connect
 
@@ -334,7 +334,7 @@ We welcome your input and feedback about our sites and the services that we prov
 
   * Email: [privacy@alliancehealth.com](mailto:privacy@alliancehealth.com).
 
-  * Mail: Attention: Privacy & Compliance, Alliance Health Networks Inc., 9 Exchange Place, Ste. 200, Salt Lake City, UT 84111
+  * Mail: Attention: Privacy & Compliance, Alliance Health Networks Inc., 9883 S 500 W, Sandy, UT 84070
 
   * Phone: 801-355-6002
 
