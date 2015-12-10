@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the 123freevectors.com privacy policy that was archived on 2015-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150624220556id_/http%3A//www.123freevectors.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 123freevectors.com privacy policy that was archived on 2015-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151210162807id_/http%3A//www.123freevectors.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy | Download Free Vector Graphics, Vector Art & Images | 123FreeVectors
+# Privacy policy | Download Free Vector Art & Graphics | 123Freevectors
 
 Privacy Policy for [123freevectors](http://123freevectors.com/)
 
