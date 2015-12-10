@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the recyclart.org privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611200216id_/http%3A//www.recyclart.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the recyclart.org privacy policy that was archived on 2015-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151210080252id_/http%3A//www.recyclart.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy • Recyclart
 
 **Privacy Policy for recyclart.org**
 
-At recyclart.org, the privacy of our visitors is of extreme importance to us (See [this article](http://www.wp-insert.smartlogix.co.in/what-is-a-privacy-policy/) to learn more about Privacy Policies.). This privacy policy document outlines the types of personal information is received and collected by recyclart.org and how it is used.
+At recyclart.org, the privacy of our visitors is of extreme importance to us (See this article to learn more about Privacy Policies.). This privacy policy document outlines the types of personal information is received and collected by recyclart.org and how it is used.
 
  **Log Files**
 
@@ -18,7 +18,7 @@ recyclart.org does use cookies to store information about visitors preferences,
 
   * Google, as a third party vendor, uses cookies to serve ads on recyclart.org.
   * Google’s use of the DART cookie enables it to serve ads to users based on their visit to recyclart.org and other sites on the Internet.
-  * Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – <http://www.google.com/privacy_ads.html>.
+  * Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – [http://www.google.com/privacy_ads.html](http://www.google.com/policies/privacy/ads/).
 
 
 
