@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the nknews.org privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627151656id_/http%3A//www.nknews.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nknews.org privacy policy that was archived on 2015-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151210144524id_/http%3A//www.nknews.org/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | NK News - North Korea News
+# Privacy Policy
 
-This Privacy Policy governs the manner in which NK News, LTD. (NK NEWS) collects, uses, maintains and discloses information collected from users (each, a “User”) of the [http://www.nknews.org](http://www.nknews.org/) website (“Site”). This privacy policy applies to the Site and all products and services offered by NK NEWS.
+###  Privacy Policy 
+
+This Privacy Policy governs the manner in which NK News, LTD. (NK NEWS) collects, uses, maintains and discloses information collected from users (each, a “User”) of the <http://www.nknews.org/> website (“Site”). This privacy policy applies to the Site and all products and services offered by NK NEWS.
 
 ### **Personal identification information**
 
