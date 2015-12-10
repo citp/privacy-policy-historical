@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the jayisgames.com privacy policy that was archived on 2015-06-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150607131056id_/http%3A//jayisgames.com/support/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the jayisgames.com privacy policy that was archived on 2015-12-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151210191156id_/http%3A//jayisgames.com/support/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" id="sixapart-standard"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -44,15 +44,6 @@ $(document).ready(function(){
 <link rel="stylesheet" href="/css/top-rated.css" type="text/css">
 <script type="text/javascript" src="/js/pxgradient-1.0.2.jquery.min.js"></script>
 <script type="text/javascript" src="/advertisement.js"></script>
-<script type="text/javascript">
-$(document).ready(function(){
-$(".icons a#top-games span").pxgradient({ // any jQuery selector
-  step: 2,
-  colors: ["#ffff00", "#ffd100","#ffb500","#f2a003","#ce700a"], // hex (#4fc05a or #333)
-  dir: "y" // direction. x or y
-});
-});
-</script>
  
 <script type="text/javascript">
 (function(){
@@ -68,12 +59,26 @@ $(".icons a#top-games span").pxgradient({ // any jQuery selector
  
 <link href="/css/sidebar.css" rel="stylesheet">
 <script type="text/javascript">
+
 $(document).ready(function(){
-  $("#beta-top-wrap .widget-header").pxgradient({ // any jQuery selector
-  step: 2,
-  colors: ["#ffff00", "#ffd100","#ffb500","#f2a003","#ce700a"], // hex (#4fc05a or #333)
-  dir: "y" // direction. x or y
-});
+	$(window).resize(function(){
+	var w = $(window).width();
+	if(w > 990 ) {
+						
+		$("#beta-top-wrap .widget-header").pxgradient({ // any jQuery selector
+		step: 2,
+		colors: ["#ffff00", "#ffd100","#ffb500","#f2a003","#ce700a"], // hex (#4fc05a or #333)
+		dir: "y" // direction. x or y
+		});
+		
+		$(".icons a#top-games span").pxgradient({ // any jQuery selector
+		step: 2,
+		colors: ["#ffff00", "#ffd100","#ffb500","#f2a003","#ce700a"], // hex (#4fc05a or #333)
+		dir: "y" // direction. x or y
+		});
+			
+		}
+	});
 
 });
 </script>
@@ -110,14 +115,78 @@ $(document).ready(function(){
 
 		});
 	</script>
+ 
+<script type="text/javascript">
+    window.cookieconsent_options = {"message":"This website uses cookies to ensure you get the best experience on our website","dismiss":"Got it!","learnMore":"More info","link":"http://jayisgames.com/support/privacy-policy/","theme":"dark-bottom"};
+</script>
+<script type="text/javascript" src="//s3.amazonaws.com/cc.silktide.com/cookieconsent.latest.min.js"></script>
+ 
 <script type="text/javascript">
 $(document).ready(function(){
-$('li.icn-tab>a').click(function(e){
-	
-	e.preventDefault();
-	$('#main-navigation-inner').toggleClass('icn-tab-open');
-
+    $(window).resize(function(){
+        var w = $(window).width();
+        if(w < 990) {
+            $('#main-navigation-inner').removeClass('icn-tab-open');
+        }
+        
+        if(w > 990) {
+            $('#main-navigation-inner').addClass('icn-tab-open');
+        }
+    });
+    
+    $('li.icn-tab>a').click(function(e){
+        e.preventDefault();
+        $('#main-navigation-inner').toggleClass('icn-tab-open');
+    
+    });
 });
+</script>
+<link rel="stylesheet" type="text/css" media="screen and (max-width: 990px)" href="/mt4/mt-static/themes/oblea/v2-mobile.css">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<script type="text/javascript">
+	$(function() {
+		var pull 		= $('#pull');
+			menu 		= $('#main-navigation-inner');
+			menuHeight	= menu.height();
+	
+		$(pull).on('click', function(e) {
+			e.preventDefault();
+			menu.slideToggle();
+		});
+	});
+</script>
+<script type="text/javascript">
+jQuery(function($){
+if (window.outerWidth < 990) { 
+    var $allVideos = $("iframe[src^='http://'], iframe[src^='https://'], iframe[src^='//']"),
+    $fluidEl = $("#game-wrapper, .entrycontent");
+	    	
+	$allVideos.each(function() {
+	
+	  $(this)
+	    // jQuery .data does not work on object/embed elements
+	    .attr('data-aspectRatio', this.height / this.width)
+	    .removeAttr('height')
+	    .removeAttr('width');
+	
+	});
+	
+	$(window).resize(function() {
+	
+	  var newWidth = $fluidEl.width();
+	  $allVideos.each(function() {
+	  
+	    var $el = $(this);
+	    $el
+	        .width(newWidth)
+	        .height(newWidth * $el.attr('data-aspectRatio'));
+	  
+	  });
+	
+	}).resize();
+
+}
+
 });
 </script>
 </head>
@@ -191,6 +260,23 @@ mtUpdateSignInWidget();
 </div>
 </div>
 <div id="main-navigation">
+<div class="mobilenav">
+<a href="javascript:void(0)" id="pull" rel="nofollow">&nbsp;</a>
+<div id="mobile-search-google">
+<form id="cse-search-box-mobile" action="http://jayisgames.com/search/">
+<div id="mobile-search-text">
+<input type="hidden" value="partner-pub-4854273876013864:9692641413" name="cx">
+<input type="hidden" value="FORID:11" name="cof">
+<input type="hidden" value="ISO-8859-1" name="ie">
+<input type="text" size="24" name="q" style="border: 1px solid rgb(126, 157, 185); padding: 2px;">
+</div>
+<div id="mobile-search-submit">
+<input type="submit" value="Search" name="sa">
+</div>
+<input type="hidden" name="siteurl" value="jayisgames.com/games/"><input type="hidden" name="ref" value="jayisgames.com/"><input type="hidden" name="ss"></form>
+<script src="http://www.google.com/cse/brand?form=cse-search-box-mobile&amp;lang=en" type="text/javascript"></script>
+</div>
+</div>
 <div id="main-navigation-inner" class="icn-tab-open">
 <ul>
 <li class="tab icn-tab"><a href="">Tags</a>
@@ -219,13 +305,15 @@ mtUpdateSignInWidget();
 <li class=""><h2><a href="http://jayisgames.com/latest-comments/">Comments</a></h2></li>
 </ul>
 </li>
+<li class="tab mobile"><a href="http://jayisgames.com/mobile/">Mobile</a>
+</li>
 <li class="tab"><a href="http://jayisgames.com/browser/">Browser</a>
 </li>
 <li class="tab"><a href="http://jayisgames.com/pc-and-mac/">PC &amp; Mac</a>
 </li>
-<li class="tab"><a href="http://jayisgames.com/mobile/">Mobile</a>
+<li class="tab desktop"><a href="http://jayisgames.com/mobile/">Mobile</a>
 </li>
-<li class="tab"><a href="http://jayisgames.com/console/">Console</a>
+<li class="tab"><a href="http://jayisgames.com/html5/">HTML5</a>
 </li>
 <li class="tab"><a href="http://jayisgames.com/walkthroughs/">Walkthroughs</a>
 </li>
@@ -235,6 +323,19 @@ mtUpdateSignInWidget();
 </li>
 <li class="tab"><a href="http://jayisgames.com/indie/">Indie</a>
 </li> </ul>
+</div>
+</div>
+ 
+<div class="widget widget-topad">
+<div class="widget-content">
+<center>
+<script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+ 
+<ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-4854273876013864" data-ad-slot="5313241410" data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</center>
 </div>
 </div>
  
@@ -258,12 +359,21 @@ mtUpdateSignInWidget();
 <p>Our different processes do not require to know your ip so we do not know and do not collect any IP address.</p>
 </li>
 </ul>
-§ II. How we use cookies
+§ II. How we use cookies?
 <ul>
 <li>
-<span>1)</span>
-<p>A cookie is a small file which asks permission to be placed on your computer's hard drive. Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences. We use traffic log cookies to identify which pages are being used. This helps us analyse data about webpage traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system. Overall, cookies help us provide you with a better website by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us. You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website. We also use cookies to keep your login information avoiding to enter it at each connection.</p>
-</li></ul>
+<span>Cookies and web beacons</span>
+<p>i) What are cookies and web beacons<br></p>
+<p>The Website makes use of "cookies" which are installed on the user's computer when he rates a game on the Website. In addition, the advertisers on the Website such as Google Adsense, Google DoubleClick,and Specific Media (the "Advertisers"), might use "cookies" and/or "web beacons". Cookies are small electronic files that are placed on the harddisk of the user's computer whereas web beacons are mostly clear picture files which are used to keep track of a user's navigation through a single website or a series of websites.</p>
+<p>(ii) For what purposes will these cookies and web beacons be used</p><br>
+<p>The Website Owner might use the information stored in a "cookie" in order prevent a user from rating the same game for several times. Such cookies will only be valid for a period of two weeks.
+The Advertisers might use information gathered by the cookies and/or the web beacons for the purpose of online behavioral advertising and/or multisite advertising. The types of information that is gathered by the cookies and/or web beacons as well as the purpose(s) for which this information is used, are provided in the privacy policy of the Advertiser concerned. The user can consult the privacy policy of the Advertisers by clicking on the name of the Advertiser (as indicated above).</p>
+<p>(iii) Refuse cookies, web-beacons and online behavioral advertising</p><br>
+<p>To the extent that the user's browser settings allow for the installation of cookies and web beacons on his computer, he consents with the installation of such cookies on his computer and he accepts that information relating to him may be used for behavioral advertising. The user of the website has the right to object ("opt-out") against online behavioral advertising and the use of cookies or web beacons. Users can opt-out of cookies by visiting the website of the Advertiser concerned or by visiting the website of the Network Advertisers Initiative at http://www.networkadvertising.org/managing/opt_out.asp.<br>
+In addition, the user can refuse the installation of cookies and/or web beacons or delete them by adjusting the browser settings on his computer. To learn more on how to adjust the settings of your internet browser, we recommend the user to visit the website of the browser's vendor.</p><br>
+<p>(iv) Liability for cookies and web beacons</p>
+<p>The Website Owner can not be held liable for the Advertisers' cookies or web beacons for whatever purposes pursued.</p>
+</li></ul><p></p>
 § III. Security
 <ul>
 <li>
@@ -335,34 +445,44 @@ or if it is grounded on reasons for convenience. <p></p>
 </div>
 </div>
 </div> 
+<div class="widget">
+<h3 class="widget-header">Support Us</h3>
+<center>
+<div class="widget-content">
+<a href="https://www.patreon.com/user?u=915465&amp;ty=h" target="_blank" class="bannerlink"><img alt="Jayisgames is on Patreon" title="Jayisgames is on Patreon" src="http://jayisgames.com/images/patreonJiG3.png" width="240" height="88" class="bannerimage"></a>
+</div>
+</center>
+</div>
+ 
+ 
 <div class="widget-recent-comments widget">
 <h3 class="widget-header" style="line-height:1em; padding-bottom:0px; padding-left:5px;">Recent Comments</h3>
 <p id="reloadcomments">&nbsp;</p>
 <div class="widget-content">
 <ul>
-<li><a href="http://jayisgames.com/review/pocket-mine-2.php#comment-527383">Pocket Mine 2</a> <span class="a">by A9a9a9</span> <span class="t">7 hours ago</span></li>
+<li><a href="http://jayisgames.com/review/weekday-escape-n105.php#comment-530339">Weekday Escape N°105</a> <span class="a">by Reka</span> <span class="t">3 hours ago</span></li>
 <div class="rounded-hr"><hr></div>
-<li><a href="http://jayisgames.com/review/pocket-mine-2.php#comment-527382">Pocket Mine 2</a> <span class="a">by bye</span> <span class="t">7 hours ago</span></li>
+<li><a href="http://jayisgames.com/review/weekday-escape-n105.php#comment-530338">Weekday Escape N°105</a> <span class="a">by Dora</span> <span class="t">6 hours ago</span></li>
 <div class="rounded-hr"><hr></div>
-<li><a href="http://jayisgames.com/review/pocket-mine-2.php#comment-527381">Pocket Mine 2</a> <span class="a">by bye</span> <span class="t">7 hours ago</span></li>
+<li><a href="http://jayisgames.com/review/neko-atsume.php#comment-530337">Neko Atsume: Kitty Collector</a> <span class="a">by Dora</span> <span class="t">6 hours ago</span></li>
 <div class="rounded-hr"><hr></div>
-<li><a href="http://jayisgames.com/review/lifeline.php#comment-527380">Lifeline</a> <span class="a">by waterfoxth.</span> <span class="t">9 hours ago</span></li>
+<li><a href="http://jayisgames.com/review/monkey-go-happy-xmas-tree.php#comment-530336">Monkey GO Happy Xmas Tree</a> <span class="a">by Squiddly</span> <span class="t">7 hours ago</span></li>
 <div class="rounded-hr"><hr></div>
-<li><a href="http://jayisgames.com/review/weekend-download-n266.php#comment-527379">Weekend Download N°266</a> <span class="a">by SirNiko</span> <span class="t">10 hours ago</span></li>
+<li><a href="http://jayisgames.com/review/weekday-escape-n105.php#comment-530335">Weekday Escape N°105</a> <span class="a">by BlueBird</span> <span class="t">8 hours ago</span></li>
 <div class="rounded-hr"><hr></div>
 </ul>
 <div id="slidedown">Display 5 more comments</div>
 <div id="morecomments">
 <ul>
-<li><a href="http://jayisgames.com/review/no-one-was-here.php#comment-527378">No One Was Here</a> <span class="a">by isengrin</span> <span class="t">15 hours ago</span></li>
+<li><a href="http://jayisgames.com/review/weekday-escape-n105.php#comment-530334">Weekday Escape N°105</a> <span class="a">by Vinca</span> <span class="t">15 hours ago</span></li>
 <div class="rounded-hr"><hr></div>
-<li><a href="http://jayisgames.com/review/spooky-bonus.php#comment-527377">Spooky Bonus</a> <span class="a">by Morganne S.</span> <span class="t">23 hours ago</span></li>
+<li><a href="http://jayisgames.com/review/the-eighth-continent.php#comment-530333">The Eighth Continent</a> <span class="a">by Teck Heng .</span> <span class="t">15 hours ago</span></li>
 <div class="rounded-hr"><hr></div>
-<li><a href="http://jayisgames.com/review/link-dump-friday-n-374.php#comment-527376">Link Dump Friday N° 374</a> <span class="a">by moomatz</span> <span class="t">24 hours ago</span></li>
+<li><a href="http://jayisgames.com/review/weekday-escape-n105.php#comment-530332">Weekday Escape N°105</a> <span class="a">by WillYum</span> <span class="t">15 hours ago</span></li>
 <div class="rounded-hr"><hr></div>
-<li><a href="http://jayisgames.com/review/link-dump-friday-n-374.php#comment-527375">Link Dump Friday N° 374</a> <span class="a">by barbara</span> <span class="t">yesterday</span></li>
+<li><a href="http://jayisgames.com/review/monkey-go-happy-xmas-tree.php#comment-530331">Monkey GO Happy Xmas Tree</a> <span class="a">by Reka</span> <span class="t">16 hours ago</span></li>
 <div class="rounded-hr"><hr></div>
-<li><a href="http://jayisgames.com/review/link-dump-friday-n-374.php#comment-527374">Link Dump Friday N° 374</a> <span class="a">by Leopardmas.</span> <span class="t">yesterday</span></li>
+<li><a href="http://jayisgames.com/review/the-room-three.php#comment-530330">The Room Three</a> <span class="a">by Itt</span> <span class="t">17 hours ago</span></li>
 <div class="rounded-hr"><hr></div>
 </ul>
 </div>
@@ -388,7 +508,7 @@ $(document).ready(function(){
 <h3 class="widget-header">Casual game of the week</h3>
 <center>
 <div class="widget-content">
-<a href="http://www.bigfishgames.com/games/7725/spooky-bonus/?pc?afcode=af6f3584cb3c&amp;channel=affiliates&amp;identifier=af6f3584cb3c&amp;cid=gamepage" target="_blank" class="bannerlink"><img alt="Spooky Bonus" title="Spooky Bonus" src="http://images.jayisgames.com/spookybonus-sidebar.jpg" width="290" height="110" class="bannerimage"></a>
+<a href="http://www.bigfishgames.com/games/11234/christmas-stories-puss-in-boots-ce/?pc?afcode=af6f3584cb3c&amp;channel=affiliates&amp;identifier=af6f3584cb3c&amp;cid=gamepage" target="_blank" class="bannerlink"><img alt="Christmas Stories: Puss in Boots" title="Christmas Stories: Puss in Boots" src="http://images.jayisgames.com/pussinboots-sidebar.jpg" width="290" height="110" class="bannerimage"></a>
 </div>
 </center>
 </div>
@@ -398,6 +518,8 @@ $(document).ready(function(){
 <div class="widget" id="fav-games">
 <h3 class="widget-header">Your Favorite Games <a href="/favorites/" class="edit" title="Choose or change which games appear here"><span>edit</span></a></h3>
 <div class="widget-content"><div class="game-icons-skyscraper">
+<a href="/review/dr-langeskov-the-tiger-and-the-terribly-cursed-emerald-a-whirlwi.php" title="Dr. Langeskov, The Tiger, and The Terribly Cursed Emerald: A Whirlwind Heist"><img alt="Dr. Langeskov, The Tiger, and The Terribly Cursed Emerald: A Whirlwind Heist" name="drlangeskovthetigerandtheterriblycursedemeraldawhirlwindheist" src="http://images.jayisgames.com/icon_drlangeskovthetigerandtheterriblycursedemeraldawhirlwindheist.gif" border="0" hspace="0" width="50" height="50"></a>
+<a href="/review/how-to-escape.php" title="How to Escape?"><img alt="How to Escape?" name="howtoescape" src="http://images.jayisgames.com/icon_howtoescape.gif" border="0" hspace="0" width="50" height="50"></a>
 <span><a href="/favorites/" class="empty-icon">add</a></span>
 <br></div></div>
 <div class="widget-content">Save links to your favorite games here. <a href="/favorites/">Use the Favorites editor</a>.</div>
@@ -414,6 +536,12 @@ $(document).ready(function(){
 <div class="widget"><center>
 <select onchange="nav(this)">
 <option>Select a Month...</option>
+<option value="http://jayisgames.com/review/2015/12/">December 2015</option>
+<option value="http://jayisgames.com/review/2015/11/">November 2015</option>
+<option value="http://jayisgames.com/review/2015/10/">October 2015</option>
+<option value="http://jayisgames.com/review/2015/09/">September 2015</option>
+<option value="http://jayisgames.com/review/2015/08/">August 2015</option>
+<option value="http://jayisgames.com/review/2015/07/">July 2015</option>
 <option value="http://jayisgames.com/review/2015/06/">June 2015</option>
 <option value="http://jayisgames.com/review/2015/05/">May 2015</option>
 <option value="http://jayisgames.com/review/2015/04/">April 2015</option>
