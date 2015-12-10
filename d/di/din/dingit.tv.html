@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the dingit.tv privacy policy that was archived on 2015-06-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150610031804id_/http%3A//www.dingit.tv/legal/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the dingit.tv privacy policy that was archived on 2015-12-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151210163506id_/http%3A//www.dingit.tv/legal/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html class="js flexbox canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths" ng-app="dingit" style=""><head>
+<!DOCTYPE html><html class=" js flexbox canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths" ng-app="dingit" style=""><head><style type="text/css">@charset "UTF-8";[ng\:cloak],[ng-cloak],[data-ng-cloak],[x-ng-cloak],.ng-cloak,.x-ng-cloak,.ng-hide:not(.ng-hide-animate){display:none !important;}ng\:form{display:block;}.ng-animate-shim{visibility:hidden;}.ng-anchor{position:absolute;}</style>
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
         <title>Legal</title>
@@ -9,6 +9,7 @@
         <meta name="keywords" itemprop="keywords" content="">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <meta name="google-translate-customization" content="2c5fd63f7b3bf2e2-465f5dd4a625c185-g90495123285f5304-a">
+        <meta name="apple-itunes-app" content="app-id=981833026">
 
         <link rel="stylesheet" href="/js/lib/bootstrap-3.2.0/css/bootstrap.min.css">
         <link rel="stylesheet" href="/css/normalize.min.css">
@@ -16,10 +17,16 @@
         <link rel="stylesheet" href="/css/qtip.css">
         <link rel="stylesheet" href="/css/main.css">
 
+
+        <!-- redesign stylesheets -->
+        <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+        <link rel="stylesheet" href="/css/redesign/menu.css">
+
         
         <script async="" src="//www.google-analytics.com/analytics.js"></script><script src="/js/lib/jquery-1.11.0.min.js"></script>
         <script src="/js/lib/jquery-ui-1.10.4/js/jquery-ui-1.10.4.custom.min.js"></script>
-        <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.2.16/angular.min.js"></script>
+        <!--script src="//ajax.googleapis.com/ajax/libs/angularjs/1.2.16/angular.min.js"></script-->
+        <script src="/newChat/app/bower_components/angular/angular.min.js"></script>
         <script src="/js/lib/ng.sortable.js"></script>
         <script src="/js/lib/jquery.validate.min.js"></script>
         <script src="/js/lib/jquery.zclip.min.js" type="text/javascript"></script>
@@ -44,8 +51,11 @@
         <script src="/js/ngControllers/ChannelControllers.js"></script>
         <script src="/js/ngControllers/BettingControllers.js"></script>
         <script src="/js/ngControllers/EsportsControllers.js"></script>
-            <style type="text/css">.fancybox-margin{margin-right:0px;}</style></head>
-    <body style="">
+        <script src="/js/browserInfo.js"></script>
+
+        <script src="/js/blocks.js"></script>
+    </head>
+    <body class="">
         <div class="body-wrap">
             <!--[if lt IE 7]>
                 <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
@@ -741,7 +751,7 @@ var RecaptchaOptions = {"theme":"red","lang":"en","custom_translations":[]}
         </div>
     </div>
 </div><div ng-controller="ESportSubscription as signup">
-    <input id="btn-show-esport-subscribe" type="hidden">
+    <input id="btn-show-esport-subscribe" class="btn-show-esport-subscribe" type="hidden">
 
     <div style="display: none;">
         <div id="modal-esport-subscribe" class="modal-popup">
@@ -1813,242 +1823,347 @@ var RecaptchaOptions = {"theme":"red","lang":"en","custom_translations":[]}
         </div>
     </div>
 </div>
-<div class="visible-lg">
-    
-        <!-- Header menus -->
-        <div class="header-container">
-            <header class="r_wrapper clearfix">
-                <div class="browse-modal clearfix">
-    <a href="/site/browse" class="link-browse">Browse</a>
-    <a href="#" class="toggle browse-modal-hide"></a>
-	<ul class="browse-columns">
-		<li>
-			<ul>
-				<li class="column-head text-center">Video type</li>
-				<li><a href="/categories/last_live">Live</a></li>
-				<li><a href="/categories/games">Games</a></li>
-				<li><a href="/categories/top_channels">Channels</a></li>
-				<li><a href="/categories/reruns/">Reruns</a></li>
-                <!--  TODO: implement commented out menu items               -->
-<!--				<li><a href="/categories/highlights">Highlights</a></li>-->
-<!--				<li><a href="#">Walkthroughs</a></li>-->
-<!--				<li><a href="#">Gaming Talk Shows</a></li>-->
-			</ul>
-		</li>
-<!--		<li>-->
-<!--			<ul>-->
-<!--				<li class="column-head text-center">Action</li>-->
-<!--				<li><a href="#">Raiding</a></li>-->
-<!--				<li><a href="#">Farming</a></li>-->
-<!--				<li><a href="#">Leveling</a></li>-->
-<!--				<li><a href="#">Arena</a></li>-->
-<!--				<li><a href="#">Constructed</a></li>-->
-<!--				<li><a href="#">Randoms</a></li>-->
-<!--				<li><a href="#">Grinding</a></li>-->
-<!--				<li><a href="#">Cooaching</a></li>-->
-<!--			</ul>-->
-<!--		</li>-->
-		<li>
-			<ul>
-				<li class="column-head text-center">Popular</li>
-				<li><a href="/categories/popular_by_views">Most Popular by Views</a></li>
-<!--				<li><a href="#">Top Rated by Viewers</a></li>-->
-<!--				<li><a href="#">5 stars</a></li>-->
-<!--				<li><a href="#">4 stars</a></li>-->
-<!--				<li><a href="#">3 stars</a></li>-->
-<!--				<li><a href="#">2 stars</a></li>-->
-<!--				<li><a href="#">1 star</a></li>-->
-			</ul>
-		</li>
-		<li>
-			<ul>
-				<li class="column-head text-center">Misc</li>
-<!--				<li><a href="#">Gaming Events</a></li>-->
-<!--				<li><a href="#">Chatting About</a></li>-->
-				<li><a href="/categories/broadcasters_az">Broadcasters A-Z</a></li>
-<!--				<li><a href="#">Marketplace</a></li>-->
-			</ul>
-		</li>
-	</ul>
-</div>                <div class="esports-modal clearfix">
-<!--    <a href="#" class="toggle esports-modal-hide"></a>-->
-	<ul class="browse-columns">
-		<li>
-			<ul>
-				<li class="column-head text-center">eSports</li>
-<!--				<li><a id="esport-link-nav" href="/esports">Calendar</a></li>-->
-				<li><a href="/giveaway">Giveaways</a></li>
-			</ul>
-		</li>
-	</ul>
-</div>                <a href="/" class="logo">
-                    <div class="label-beta">beta</div>
-                </a>
-                <ul class="head_menu pages_menu">
-                    <li><a href="/browse" class="highlight pull-left">Browse</a></li>
-                    <li><a class="highlight browse-modal-show pull-left">Categories</a></li>
-<!--                    <li><a class="highlight esports-modal-show pull-left">eSports</a></li>-->
-                    <li><a href="/esports" id="esport-link-nav" class="highlight pull-left">eSports</a></li>
-                    <li><a href="/mobile" class="highlight pull-left">Mobile</a></li>
-                    <li><a href="http://blog.dingit.tv/" target="_blank" class="highlight pull-left">News</a></li>
-                    <li><a href="http://kb.dingit.tv/" class="highlight pull-left" target="_blank">FAQ</a></li>
-                                            <li>
-                            <a class="btn-show-signup-viewer-go-pro">
-                                <div class="gopro-button-wrap">
-                                    <span class="icon-star"></span>
-                                    GO PRO
-                                </div>
-                            </a>
-                        </li>
-                                    </ul>
-
-                <ul class="head_menu login_menu">
-                    <li class="no-border">
-                        <a class="btn-show-signup-viewer">
-                            Sign Up
-                        </a>
-                    </li>
-                    <li class="no-border"><a class="login-button">Login</a></li>
-                </ul>
-            </header>
-        </div>
-
-        <script>
-            $(document).ready(function () {
-                $("#loginButton").click(function () {
-                    $.ajax({
-                        type: 'POST',
-                        async: true,
-                        cache: false,
-                        url: 'http://www.dingit.tv/user/login',
-                        dataType: "json",
-                        success: function (ans) {
-                            if (ans.status == 0 || ans.status == 2) {
-    location.reload();                            } else {
-                                $("#login_status").text(ans.text);
-                            }
-                        },
-                        data: $("#login-popup > form").serialize()
-                    });
-                    return false;
-                });
-
-                $("#resetPasswordButton").click(function () {
-                    if ($("#resetPasswordButton").text() == "Close") {
-                        location.reload();
-                    } else {
-                        $.ajax({
-                            type: 'POST',
-                            async: true,
-                            cache: false,
-                            url: 'http://www.dingit.tv/user/reset_password',
-                            dataType: "json",
-                            success: function (ans) {
-                                if (ans.status == 0) {
-                                    $("#reset_password_notification").text("Check your mail.");
-                                    $("#resetPasswordButton").text("Close");
-                                } else {
-                                    $("#reset_password_notification").text(ans.text);
-                                }
-                            },
-                            data: {
-                                email: $("#reset_password_mail").val()
-                            }
-                        });
-                    }
-                    return false;
-                });
-            });
-        </script>
-
-        <div style="display: none;">
-            <div id="login-popup" class="modal-popup">
-                <h3>Welcome Back to D!ngIt</h3>
-                <div class="space40"></div>
-
-                <form action="/user/login" method="post" class="login-form">
-                    <div class="field-row clearfix" style="font-family: 'Arial'; color: red; font-size: 12px;" id="login_status"></div>
-                    <div class="field-row clearfix">
-                        <input class="text-field" type="text" name="email" placeholder="Email">
-                    </div>
-                    <div class="field-row clearfix">
-                        <input class="text-field" type="password" name="password" placeholder="Password">
-                    </div>
-                    <div class="field-row clearfix">
-                        <a class="modal-pw-link">Forgot Password?</a>
-                    </div>
-                    <div class="field-row clearfix text-center">
-                        <button class="btn-large primary nonecase submit" type="submit" id="loginButton">Login</button>
-                    </div>
-                </form>
-
-            </div>
-        </div>
-
-        <div style="display: none;">
-            <div id="reset-pw-popup" class="modal-popup">
-                <h3>Reset your password</h3>
-                <div class="space40"></div>
-                <div class="modal-pw-label">
-                    We will send reset instructions to the email address associated with your account.
-                </div>
-                <div class="space40"></div>
-                <div class="field-row clearfix">
-                    <input class="text-field" type="text" name="email" placeholder="Your Email Address" id="reset_password_mail">
-                </div>
-                <div id="reset_password_notification" class="space40"></div>
-                <div class="field-row clearfix text-center">
-                    <button class="btn-large primary nonecase submit" type="submit" id="resetPasswordButton">Send</button>
-                </div>
-
-            </div>
-        </div>
-    </div>
 
 
-<!--Mobile header-->
-<nav class="navbar navbar-inverse visible-xs visible-sm visible-md" role="navigation">
-    <div class="container-fluid">
-        <div class="navbar-header" style="min-height: 57px;">
-            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#header-navbar-collapse">
-                <span class="icon-bar"></span>
-                <span class="icon-bar"></span>
-                <span class="icon-bar"></span>
-            </button>
-            <a class="navbar-brand logo" href="/" style="background-size: 102px 44px; background-position: 0 4px;">
-                <div class="label-beta">beta</div>
-            </a>
+<link href="/css/newheaderfooter/style.css" rel="stylesheet" type="text/css" media="screen">
 
-
-                            <ul class="head_menu login_menu pull-left">
-                    <li class="no-border">
-                        <a class="btn-show-signup-viewer">
-                            Sign Up
-                        </a>
-                    </li>
-                    <li class="no-border"><a class="login-button">Login</a></li>
-                </ul>
-                                        <a class="btn-show-signup-viewer-go-pro">
-                    <div class="gopro-button-wrap" style="width: 89px; float: right; margin: 9px 20px 0 0;">
-                        <span class="icon-star"></span>
-                        GO PRO
-                    </div>
-                </a>
-                    </div>
-
-        <!-- Collect the nav links, forms, and other content for toggling -->
-        <div class="collapse navbar-collapse" id="header-navbar-collapse">
-            <ul class="nav navbar-nav font-20">
-                <li><a href="/browse">Browse</a></li>
-                <li><a href="/broadcasters">Broadcasters</a></li>
-                <li><a id="esport-link-nav-mob" href="/esports">eSports</a></li>
-                <li><a href="/mobile">Mobile</a></li>
-                <li><a href="http://blog.dingit.tv/">News</a></li>
-                <li><a href="http://kb.dingit.tv/">FAQ</a></li>
+<div id="d-old-header" class="d_header">
+  <div class="content">
+    <a href="/" class="d_logo">Dingit.tv</a>
+    <button id="d-old-menu-toggle" type="button" class="menu_toggle">
+      <i class="d_icon menu"></i>
+    </button>
+    <div id="d-old-menu" class="d_menu ">
+      <div class="sidebar">
+        <header class="head">
+          <button id="d-old-menu-close" type="button">
+            <i class="d_icon cancel"></i>
+          </button>
+        </header>
+        <ul id="d-old-nav" class="nav">
+          <li class="multilevel">
+            <button type="button">Watch</button>
+            <ul>
+              <li class="single bln">
+                <a href="/browse">Browse</a>
+              </li>
+              <li>
+                <a href="/categories/last_live">Live</a>
+              </li>
+              <li>
+                <a href="/categories/games">Games</a>
+              </li>
+              <li>
+                <a href="/categories/top_channels">Channels</a>
+              </li>
+              <li>
+                <a href="/categories/reruns/">Reruns</a>
+              </li>
+              <li>
+                <a href="/categories/highlights/">Highlights</a>
+              </li>
+              <li class="single tln">
+                <a href="/categories/popular_by_views">Most Popular by Views</a>
+              </li>
+              <li class="single tln">
+                <a href="/categories/broadcasters_az">Broadcasters  A-Z</a>
+              </li>
             </ul>
+          </li>
+          <li>
+            <a href="http://www.dingit.tv/esports">eSports</a>
+          </li>
+          <li>
+            <a href="/mobile">Mobile</a>
+          </li>
+          <li class="multilevel">
+            <button type="button">Why Dingit</button>
+            <ul>
+              <li>
+                <a href="/why-dingit">Why Dingit</a>
+              </li>
+              <li>
+                <a href="/reward-program">Broadcaster Rewards</a>
+              </li>
+              <li>
+                <a href="/broadcasters">Broadcasters</a>
+              </li>
+            </ul>
+          </li>
+          <li>
+            <a href="http://blog.dingit.tv/">News</a>
+          </li>
+          <li class="multilevel">
+            <button type="button">Help</button>
+            <ul>
+              <li>
+                <a href="http://kb.dingit.tv/">FAQ</a>
+              </li>
+              <li>
+                <a href="/how-to-watch">How to watch</a>
+              </li>
+              <li>
+                <a href="mailto:support@dingit.tv">Support</a>
+              </li>
+            </ul>
+          </li>
+        </ul>
+        <div id="d-old-header-session" class="session">
+          <button id="d-old-header-user-menu-toggle" type="button" class="user_info">
+            <img src="" alt="">
+            <span></span>
+          </button>
+          <ul id="d-old-nav" class="user_menu">
+                      </ul>
+          <div class="control">
+                          <button type="button" class="d_button login login-button">Login</button>
+              <button type="button" class="d_button signup btn-show-signup-viewer">Sign up</button>
+                                  </div>
         </div>
+      </div>
     </div>
-</nav>            <div class="legal-container">
+  </div>
+</div>
+
+
+
+
+
+    <script>
+      $(document).ready(function () {
+        $("#loginButton").click(function () {
+            $.ajax({
+                type: 'POST',
+                async: true,
+                cache: false,
+                url: 'http://www.dingit.tv/user/login',
+                dataType: "json",
+                success: function (ans) {
+                    if (ans.status == 0 || ans.status == 2) {
+                        location.reload();                    } else {
+                        $("#d-old-form-login-fields").addClass('error');
+                        $("#d-old-form-login-fields > .d_tooltip").text(ans.text);
+                    }
+                },
+                data: $("#login-popup > form").serialize()
+            });
+            return false;
+        });
+
+        document.getElementById('resetPasswordButton').onclick = function(e) {
+          e.currentTarget.classList.add('sending');
+          var submitBtn = e.currentTarget;
+          $.ajax({
+              type: 'POST',
+              async: true,
+              cache: false,
+              url: 'http://www.dingit.tv/user/reset_password',
+              dataType: "json",
+              success: function (ans) {
+                  submitBtn.classList.remove('sending');
+                  if (ans.status == 0) {
+                    $(".btn-show-check-email-message").click();
+                  } else {
+                      $("#d-old-form-reset-fields").addClass('error');
+                      $("#d-old-form-reset-fields > .d_tooltip").text(ans.text);
+                  }
+              },
+              data: {
+                email: $("#reset-pw-popup > form").serializeArray()[0].value
+              }
+          });
+          return false;
+        }
+      });
+    </script>
+
+    <div style="display: none;">
+      <div id="login-popup" class="modal-popup content">
+        <i class="d_pic logo"></i>
+        <form action="/user/login" method="post" class="form login">
+          <div class="fieldset" id="d-old-form-login-fields">
+            <div class="d_tooltip form"></div>
+            <div class="input">
+              <i class="d_icon mail"></i>
+              <div class="text">
+                <input name="email" type="text" value="" placeholder="Email">
+              </div>
+            </div>
+            <div class="input">
+              <i class="d_icon lock"></i>
+              <div class="text">
+                <input name="password" type="password" value="" placeholder="Password">
+              </div>
+              <button type="button" class="option modal-pw-link">Forgot?</button>
+            </div>
+          </div>
+          <div class="fieldset">
+            <label class="checkbox">
+              <input name="rememberMe" type="checkbox">Remember me
+            </label>
+          </div>
+          <div class="fieldset">
+            <button type="button" class="submit">
+              <i class="d_icon spin"></i>
+              <span class="text" id="loginButton">Login</span>
+            </button>
+          </div>
+        </form>
+        <footer>
+          <div class="msg">Don't have an account?</div>
+          <button type="button" class="link btn-show-signup-viewer">Sign Up</button>
+        </footer>
+      </div>
+    </div>
+
+    <div style="display: none;">
+      <div id="modal-check-email-message" class="modal-popup content">
+        <div class="content">
+          <div class="form reset">
+            <div class="form_title">Check your email?</div>
+            <i class="d_pic lock"></i>
+            <div class="form_desc">If there is an account associated with the email address you provided, we have automatically sent you the password reset instructions.</div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div style="display: none;">
+      <div id="reset-pw-popup" class="modal-popup content">
+        <form name="resetPassForm" class="form reset">
+          <input type="hidden" class="btn-show-check-email-message">
+          <div class="form_title">Reset password?</div>
+          <div class="form_desc">We will send you the password reset instructions to the email address associated with your account</div>
+          <div class="fieldset" id="d-old-form-reset-fields">
+            <div class="d_tooltip form"></div>
+            <div class="input">
+              <i class="d_icon mail"></i>
+              <div class="text">
+                <input name="email" type="text" value="" placeholder="Email" id="reset_password_mail">
+              </div>
+            </div>
+          </div>
+          <div class="fieldset">
+            <button type="submit" name="submit" class="submit" id="resetPasswordButton">
+              <i class="d_icon spin"></i>
+              <span class="text">Reset Password</span>
+            </button>
+          </div>
+        </form>
+        <footer>
+          <button type="button" class="link login-button">Back</button>
+        </footer>
+      </div>
+    </div> 
+
+
+<script>
+  var checkboxes = document.querySelectorAll('label.checkbox [type="checkbox"]');
+
+  // for all labels set eventlistener
+  for ( var i = 0, len = checkboxes.length; i < len; i++ ) {
+    
+    // Set click events to all checkboxes 
+    checkboxes[i].onclick = function( e ) {
+      // Checking incoming data
+      if ( e.currentTarget.nodeName !== 'INPUT' ) return;
+      // Add css-class "Checked" to label
+      // that was clicked
+      e.currentTarget.parentNode.classList.toggle( 'checked' );
+    };
+  };
+  
+  var subMenuBtns = document.querySelectorAll('#d-old-nav .multilevel > button'),
+      menu        = document.getElementById('d-old-menu'),
+      openNavBtn  = document.getElementById('d-old-menu-toggle'),
+      closeNavBtn = document.getElementById('d-old-menu-close');
+
+  var sessionContainer = document.getElementById('d-old-header-session'),
+      userMenuToggle = document.getElementById('d-old-header-user-menu-toggle');
+      
+
+  function closeNavSubMenus() {
+    var subNavMenus = document.querySelectorAll( '#d-old-nav .multilevel.active' );
+    var userMenu = document.getElementById( 'd-old-header-session' );
+
+    for ( var i = 0, len = subNavMenus.length; i < len; i++ ) {
+      subNavMenus[i].classList.remove('active');
+    }
+
+    userMenu.classList.remove('active');
+  };
+
+
+  // Event listener on any click on window
+  // if it was fired up not on navigation then close all opened submenus
+  document.addEventListener( "click", function( event ) {
+    for ( var el = event.target; el.nodeName !== '#document'; el = el.parentNode ) {
+      if ( el.parentNode === null ) break;
+      if ( el.id === 'd-old-nav' || 
+           el.id === 'd-old-menu-toggle' ||
+           el.id === 'd-old-header-user-menu-toggle') return;
+    }
+    closeNavSubMenus();
+  });
+
+
+  // Event listener on Open button 
+  // that appears on small screens
+  openNavBtn.onclick = function() {
+    showHeaderMenu();
+  };
+
+  // Event listener on Close button 
+  // that appears on small screens on navigation sidebar
+  closeNavBtn.onclick = function() {
+    hideHeaderMenu();
+  };
+
+  // Add click event listener for toggle buttons of all submenus
+  setEventsToNav();
+
+  function hideHeaderMenu() {
+    menu.classList.remove('active');
+    setTimeout(function() {
+      menu.classList.remove('animated');
+    }, 400);
+  };
+
+  function showHeaderMenu() {
+    menu.classList.add('active');
+    menu.classList.add('animated');
+  };
+
+  function setEventsToNav() {
+
+    for ( var i = 0, len = subMenuBtns.length; i < len; i++ ) {
+      // After clicking on toggle button of some submenu
+
+      subMenuBtns[i].onclick = function( e ) {
+        // Checking incoming data
+        if ( e.currentTarget.nodeName !== 'BUTTON' ) return;
+
+        // What to do with current submenu: 
+        // 1) close when it is opened
+        // 2) open when it is closed
+        var action = e.target.parentNode.classList.contains('active') ? 'remove' : 'add';
+        
+        // Close all opened submenus
+        closeNavSubMenus();
+
+        // Change state of clicked submenu
+        e.target.parentNode.classList[ action ]( 'active' );
+      };
+    };
+  };
+
+
+  userMenuToggle.onclick = function( event ) {
+    sessionContainer.classList.toggle('active');
+  };
+
+</script>
+            <div class="legal-container">
 	<div class="r_wrapper clearfix">
 		<ul class="legal-menu">
 			<li><a href="/terms">Terms of Service</a></li>
@@ -2129,15 +2244,13 @@ var RecaptchaOptions = {"theme":"red","lang":"en","custom_translations":[]}
 <p>D!NGIT online checkout pages, My Account pages and the support portal use Secure Sockets Layer (SSL) encryption on all web pages where personal information is collected. To benefit from SSL encryption of your personal information transmitted over the Internet on these pages, you must use an SSL-enabled browser.</p>
 
 <h2>Correction or Deletion of Information Collected at the D!NGIT website</h2>
-<p>For personal information collected at the D!NGIT website, we make good faith efforts to accommodate requests that we correct your data if it is inaccurate or delete your data if D!NGIT is not required to retain it by law or for legitimate business purposes. We may decline to process requests that are unreasonably repetitive, require disproportionate technical effort, jeopardize the privacy of others, are extremely impractical, or for which access is not otherwise required by local law. Information correction or deletion requests can be made through support@dingit.tv.<script cf-hash="f9e31" type="text/javascript">
-/* <![CDATA[ */!function(){try{var t="currentScript"in document?document.currentScript:function(){for(var t=document.getElementsByTagName("script"),e=t.length;e--;)if(t[e].getAttribute("cf-hash"))return t[e]}();if(t&&t.previousSibling){var e,r,n,i,c=t.previousSibling,a=c.getAttribute("data-cfemail");if(a){for(e="",r=parseInt(a.substr(0,2),16),n=2;a.length-n;n+=2)i=parseInt(a.substr(n,2),16)^r,e+=String.fromCharCode(i);e=document.createTextNode(e),c.parentNode.replaceChild(e,c)}}}catch(u){}}();/* ]]> */</script></p>
+<p>For personal information collected at the D!NGIT website, we make good faith efforts to accommodate requests that we correct your data if it is inaccurate or delete your data if D!NGIT is not required to retain it by law or for legitimate business purposes. We may decline to process requests that are unreasonably repetitive, require disproportionate technical effort, jeopardize the privacy of others, are extremely impractical, or for which access is not otherwise required by local law. Information correction or deletion requests can be made through support@dingit.tv.</p>
 
 <h2>D!NGIT Commitment to Your Privacy</h2>
 <p>To make sure your personal information is secure; we communicate our privacy and security guidelines to all D!NGIT employees and strictly enforce privacy safeguards within the company.</p>
 
 <h2>D!NGIT Privacy Questions?</h2>
-<p>If you have any questions or concerns about D!NGIT Privacy Policy, please contact us through <a href="mailto:support@dingit.tv">support@dingit.tv<script cf-hash="f9e31" type="text/javascript">
-/* <![CDATA[ */!function(){try{var t="currentScript"in document?document.currentScript:function(){for(var t=document.getElementsByTagName("script"),e=t.length;e--;)if(t[e].getAttribute("cf-hash"))return t[e]}();if(t&&t.previousSibling){var e,r,n,i,c=t.previousSibling,a=c.getAttribute("data-cfemail");if(a){for(e="",r=parseInt(a.substr(0,2),16),n=2;a.length-n;n+=2)i=parseInt(a.substr(n,2),16)^r,e+=String.fromCharCode(i);e=document.createTextNode(e),c.parentNode.replaceChild(e,c)}}}catch(u){}}();/* ]]> */</script></a>.<br>
+<p>If you have any questions or concerns about D!NGIT Privacy Policy, please contact us through <a href="mailto:support@dingit.tv">support@dingit.tv</a>.<br>
 D!NGIT may update this Privacy Policy from time to time. When we change the policy in a significant way, a notice will be posted on our website along with the updated Privacy Policy.</p>		</div>
 	</div>
 </div>        </div>
@@ -2264,8 +2377,7 @@ D!NGIT may update this Privacy Policy from time to time. When we change the poli
 
         <h2>Digital Millennium Copyright Act.</h2>
         <ol class="number-2-level start-2">
-            <li>Please note that since we respect game designer, game publisher and other Content (as defined below) owner rights, it is D!ngIt’s policy to respond to notices of alleged infringement that comply with the Digital Millennium Copyright Act (the “ DMCA ”). If you believe that anything in the D!ngIt Services infringes upon any copyright that you own or control, you may file a notification of such infringement to: <a href="mailto:support@dingit.tv">support@dingit.tv<script cf-hash="f9e31" type="text/javascript">
-/* <![CDATA[ */!function(){try{var t="currentScript"in document?document.currentScript:function(){for(var t=document.getElementsByTagName("script"),e=t.length;e--;)if(t[e].getAttribute("cf-hash"))return t[e]}();if(t&&t.previousSibling){var e,r,n,i,c=t.previousSibling,a=c.getAttribute("data-cfemail");if(a){for(e="",r=parseInt(a.substr(0,2),16),n=2;a.length-n;n+=2)i=parseInt(a.substr(n,2),16)^r,e+=String.fromCharCode(i);e=document.createTextNode(e),c.parentNode.replaceChild(e,c)}}}catch(u){}}();/* ]]> */</script></a></li>
+            <li>Please note that since we respect game designer, game publisher and other Content (as defined below) owner rights, it is D!ngIt’s policy to respond to notices of alleged infringement that comply with the Digital Millennium Copyright Act (the “ DMCA ”). If you believe that anything in the D!ngIt Services infringes upon any copyright that you own or control, you may file a notification of such infringement to: <a href="mailto:support@dingit.tv">support@dingit.tv</a></li>
         </ol>
         <p>Please see <a href="http://www.law.cornell.edu/uscode/text/17/512" target="_blank">17 U.S.C. §512(c)(3)</a> for the requirements of a proper notification. You should note that if you knowingly misrepresent in your notification that the material or activity is infringing, you will be liable for any damages, including costs and attorneys' fees, incurred by us or the alleged infringer as the result of our relying upon such misrepresentation in removing or disabling access to the material or activity claimed to be infringing.</p>
         <p>In accordance with the DMCA and other applicable laws around the world, D!ngIt has adopted a policy that it will promptly terminate without notice any user’s access to the D!ngIt Service if that user is determined by D!ngIt to be a “repeat infringer.” A repeat infringer includes, without limitation a user who has been notified by D!ngIt of infringing activity violations more than twice and/or who has had their Broadcaster Content or any other user-submitted content removed from the D!ngIt Service more than twice. D!ngIt may also at our sole discretion limit access to the D!ngIt Service and/or terminate the accounts of any users who infringe any intellectual property rights of others, whether or not there is any repeat infringement.</p>
@@ -2309,7 +2421,7 @@ D!NGIT may update this Privacy Policy from time to time. When we change the poli
                 </ol>
             </li>
             <li><strong>Broadcaster Content Representations and Warranties.</strong>
-                <p>You are solely responsible for your Broadcaster Content and the consequences of posting or publishing it. By uploading and publishing your Broadcaster Content, you represent, and warrant that: (1) you are the creator and owner of the Broadcaster Content or otherwise have sufficient rights and authority to grant the rights granted herein; (2) your Broadcaster Content does not and will not (a) infringe, violate, or misappropriate any third-party right, including any copyright, trademark, patent, trade secret, moral right, privacy right, right of publicity, or any other intellectual property or proprietary right or (b) slander, defame, or libel any other person; (3) your Broadcaster Content does not contain any viruses, adware, spyware, worms, or other harmful or malicious code or (4) unless you have received prior written authorization, your Broadcaster Content specifically does not contain any prerelease or non-public beta software or game content or any confidential information of D!ngIt or third parties. D!ngIt reserves all rights and remedies against any Broadcasters who breach these representations and warranties.</p>
+                <p>You are solely responsible for your Broadcaster Content and the consequences of posting or publishing it. By uploading and publishing your Broadcaster Content, you represent, and warrant that: (1) you are the creator and owner of the Broadcaster Content or otherwise have sufficient rights and authority to grant the rights granted herein; (2) your Broadcaster Content does not and will not (a) infringe, violate, or misappropriate any third-party right, including any copyright, trademark, patent, trade secret, moral right, privacy right, right of publicity, or any other intellectual property or proprietary right or (b) slander, defame, or libel any other person; (3) your Broadcaster Content does not contain any viruses, adware, spyware, worms, or other harmful or malicious code; (4) unless you have received prior written authorization, your Broadcaster Content specifically does not contain any prerelease or non-public beta software or game content or any confidential information of D!ngIt or third parties; (5) in relation to Broadcaster Content that is not suitable for certain age groups you will (a) alert viewers that your channel contains such content and (b) operate an age gate to ensure that such content is viewed only by appropriate age groups. D!ngIt reserves all rights and remedies against any Broadcasters who breach these representations and warranties. Furthermore D!ngIt reserves the right, at its sole discretion, to terminate a stream if it considers any Broadcaster Content to be unsuitable for a gaming website.</p>
             </li>
             <li><strong>Content is Uploaded at Your Own Risk.</strong>
                 <p>D!ngIt uses reasonable security measures in order to attempt to protect Broadcaster Content. However D!ngIt cannot guarantee that there will be no unauthorized copying or distribution of Broadcaster Content nor will D!ngIt be liable for any copying or usage of the Broadcaster Content not authorized by D!ngIt. You hereby release and forever waive any claims you may have against D!ngIt for any such unauthorized copying or usage of the Broadcaster Content, under any theory. THE SECURITY MEASURES TO PROTECT BROADCASTER CONTENT USED BY D!NGIT HEREIN ARE PROVIDED AND USED “AS-IS” AND WITH NO WARRANTIES OR ASSURANCES THAT SUCH SECURITY MEASURES WILL WITHSTAND ATTEMPTS TO EVADE SECURITY MECHANISMS OR THAT THERE WILL BE NO CRACKS, DISABLEMENTS OR OTHER CIRCUMVENTION OF SUCH SECURITY MEASURES.</p>
@@ -2374,8 +2486,7 @@ D!NGIT may update this Privacy Policy from time to time. When we change the poli
         <p>In order to open an account, you will asked to provide us with certain information like an account name and password (all of which will be protected by our Privacy Policy).</p>
         <p>Once you have a D!ngIt account you can purchase products and services (including subscriptions) via D!ngIt.</p>
         <p>While D!ngIt uses reasonable security precautions, you are solely responsible for maintaining the confidentiality of your account and password, for restricting access to your computer and for all activities that occur under your account or password. Please make sure you provide to D!ngIt on registration and at all other times information which will be true, accurate, current, complete and kept up to date to the best of your ability.</p>
-        <p>If you have reason to believe that your account is no longer secure (e.g., in the event of a loss, theft or unauthorized disclosure or use of your account ID, password, or any credit, debit or charge card number, if applicable), then you must immediately notify D!ngIt at <a href="mailto:legal@dingit.tv">legal@DingIt.tv<script cf-hash="f9e31" type="text/javascript">
-/* <![CDATA[ */!function(){try{var t="currentScript"in document?document.currentScript:function(){for(var t=document.getElementsByTagName("script"),e=t.length;e--;)if(t[e].getAttribute("cf-hash"))return t[e]}();if(t&&t.previousSibling){var e,r,n,i,c=t.previousSibling,a=c.getAttribute("data-cfemail");if(a){for(e="",r=parseInt(a.substr(0,2),16),n=2;a.length-n;n+=2)i=parseInt(a.substr(n,2),16)^r,e+=String.fromCharCode(i);e=document.createTextNode(e),c.parentNode.replaceChild(e,c)}}}catch(u){}}();/* ]]> */</script></a>.</p>
+        <p>If you have reason to believe that your account is no longer secure (e.g., in the event of a loss, theft or unauthorized disclosure or use of your account ID, password, or any credit, debit or charge card number, if applicable), then you must immediately notify D!ngIt at <a href="mailto:legal@dingit.tv">legal@DingIt.tv</a>.</p>
         <br>
         <h2>ENDING YOUR RELATIONSHIP WITH D!NGIT</h2>
         <ol class="number-2-level start-4">
@@ -2450,8 +2561,7 @@ D!NGIT may update this Privacy Policy from time to time. When we change the poli
         <br>
         <h2>HOW TO CONTACT D!NGIT</h2>
         <ol class="number-2-level start-4">
-            <li>To contact D!ngIt in relation to the D!ngIt Software or “D!ngIt” branded Products, please submit a support request to: <a href="mailto:support@dingit.tv">support@dingit.tv<script cf-hash="f9e31" type="text/javascript">
-/* <![CDATA[ */!function(){try{var t="currentScript"in document?document.currentScript:function(){for(var t=document.getElementsByTagName("script"),e=t.length;e--;)if(t[e].getAttribute("cf-hash"))return t[e]}();if(t&&t.previousSibling){var e,r,n,i,c=t.previousSibling,a=c.getAttribute("data-cfemail");if(a){for(e="",r=parseInt(a.substr(0,2),16),n=2;a.length-n;n+=2)i=parseInt(a.substr(n,2),16)^r,e+=String.fromCharCode(i);e=document.createTextNode(e),c.parentNode.replaceChild(e,c)}}}catch(u){}}();/* ]]> */</script></a></li>
+            <li>To contact D!ngIt in relation to the D!ngIt Software or “D!ngIt” branded Products, please submit a support request to: <a href="mailto:support@dingit.tv">support@dingit.tv</a></li>
             <li>If you contact D!ngIt by any means other than as set out in paragraphs 13.1 your request may not be acknowledged.</li>
         </ol>
         <br>
@@ -2487,8 +2597,7 @@ D!NGIT may update this Privacy Policy from time to time. When we change the poli
                 <p>The Terms of Service, together with the Terms of Sale, the Privacy Policy and the Guidelines, is the entire agreement between you and D!ngIt relating to the subject matter herein and will not be modified except in writing, signed or otherwise agreed to by both parties, or by a change to these Terms of Service.</p>
             </li>
             <li><strong>Claims.</strong>
-                <p>If you are a consumer resident in the European Union and you disagree with the above, we encourage you contact us as soon as possible after you start using the D!ngIt Service at legal@DingIt.tv<script cf-hash="f9e31" type="text/javascript">
-/* <![CDATA[ */!function(){try{var t="currentScript"in document?document.currentScript:function(){for(var t=document.getElementsByTagName("script"),e=t.length;e--;)if(t[e].getAttribute("cf-hash"))return t[e]}();if(t&&t.previousSibling){var e,r,n,i,c=t.previousSibling,a=c.getAttribute("data-cfemail");if(a){for(e="",r=parseInt(a.substr(0,2),16),n=2;a.length-n;n+=2)i=parseInt(a.substr(n,2),16)^r,e+=String.fromCharCode(i);e=document.createTextNode(e),c.parentNode.replaceChild(e,c)}}}catch(u){}}();/* ]]> */</script> since otherwise they will be binding on you after a reasonable time period (usually 30 days unless there are exceptional circumstances).</p>
+                <p>If you are a consumer resident in the European Union and you disagree with the above, we encourage you contact us as soon as possible after you start using the D!ngIt Service at legal@DingIt.tv since otherwise they will be binding on you after a reasonable time period (usually 30 days unless there are exceptional circumstances).</p>
             </li>
         </ol>
 
@@ -2580,8 +2689,7 @@ D!NGIT may update this Privacy Policy from time to time. When we change the poli
             <div class="text-center">
                 <strong>For More Information</strong>
                 <p class="font-chalet font-20" style="color: #FF503E">
-                    rachel.parker@dingit.tv<script cf-hash="f9e31" type="text/javascript">
-/* <![CDATA[ */!function(){try{var t="currentScript"in document?document.currentScript:function(){for(var t=document.getElementsByTagName("script"),e=t.length;e--;)if(t[e].getAttribute("cf-hash"))return t[e]}();if(t&&t.previousSibling){var e,r,n,i,c=t.previousSibling,a=c.getAttribute("data-cfemail");if(a){for(e="",r=parseInt(a.substr(0,2),16),n=2;a.length-n;n+=2)i=parseInt(a.substr(n,2),16)^r,e+=String.fromCharCode(i);e=document.createTextNode(e),c.parentNode.replaceChild(e,c)}}}catch(u){}}();/* ]]> */</script>
+                    rachel.parker@dingit.tv
                 </p>
                 <p class="font-chalet font-20" style="color: #FF503E">
                     dingit.tv
@@ -2665,79 +2773,82 @@ D!NGIT may update this Privacy Policy from time to time. When we change the poli
         </div>
     </div>
 </div>
-<footer>
-    <div class="r_wrapper clearfix">
-        <span class="brand">Dingit.tv</span>
-        <span class="date">© 2014</span>
+<link href="/css/newheaderfooter/style.css" rel="stylesheet" type="text/css" media="screen">
+<link href="http://fonts.googleapis.com/css?family=Lato:300,400,700" rel="stylesheet" type="text/css" media="screen">
 
-        <div class="r-container">
-            <ul class="r-list">
-                <li>
-                    <a class="btn-show-signup-broadcaster">
-                        Broadcast Partner
-                    </a>
-                </li>
-                <li><a class="btn-show-advertise">Advertise</a></li>
-                <li><a class="btn-show-press">Press</a></li>
-                <li><a href="/terms">Terms</a></li>
-                <li><a href="/legal/privacy">Privacy Policy</a></li>
-                <li><a href="mailto:support@dingit.tv">Support</a></li>
-            </ul>
-        </div>
-
-        <ul class="l-list">
-            <li><a class="btn-show-about-us">About</a></li>
-            <li><a href="http://blog.dingit.tv/" target="_blank">News</a></li>
-            <li><a href="/viewers">Viewers</a></li>
-            <li><a href="/broadcasters">Broadcasters</a></li>
-            <li><a class="btn-show-signup-viewer">Subscribe</a>
-            </li>
-        </ul>
-        <ul class="social">
-            <li>
-                <a href="https://play.google.com/store/apps/details?id=tv.dingit.dingit" target="_blank" class="pull-left" style="margin-left: 40px;">
-                    <img src="/img/mobile/btn-buy-in-playstore.png">
-                </a>
-                <a href="https://itunes.apple.com/app/id981833026" target="_blank" class="pull-left" style="margin-left: 10px;">
-                    <img src="/img/mobile/btn-buy-in-appstore.png">
-                </a>
-            </li>
-            <li>
-                <a href="https://instagram.com/dingittv" target="_blank">
-                    <img src="/img/social/icon-instagram.png">
-                </a>
-            </li>
-            <li>
-                <a href="https://twitter.com/dingittv" target="_blank">
-                    <img src="/img/social/icon-twitter.png">
-                </a>
-            </li>
-            <li>
-                <a href="https://www.youtube.com/channel/UCAUuoB4zopviW1_aF4RsEMQ" target="_blank">
-                    <img src="/img/social/icon-youtube.png">
-                </a>
-            </li>
-            <li>
-                <a href="https://www.facebook.com/dingittv" target="_blank">
-                    <img src="/img/social/icon-fb.png">
-                </a>
-            </li>
-            <li>
-                <a href="https://plus.google.com/u/0/105912185538950598791/" target="_blank">
-                    <img src="/img/social/icon-g.png">
-                </a>
-            </li>
-        </ul>
-        <span class="lang">
-        <div id="google_translate_element"></div><script type="text/javascript">
-                function googleTranslateElementInit() {
-                    new google.translate.TranslateElement({pageLanguage: 'en', layout: google.translate.TranslateElement.InlineLayout.SIMPLE}, 'google_translate_element');
-                }
-            </script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
-        </span>
+<footer class="d_footer">
+  <div class="content">
+    <div class="auth">
+      <a href="/" class="logo">Dingit.tv</a>
+      <div class="copyright">
+        <span>© 2015 Dingit.tv</span>
+        <span>All rights reserved.</span>
+      </div>
     </div>
+    <div class="info">
+      <ul class="menu">
+        <li>
+          <a href="#" class="btn-show-signup-broadcaster">Broadcast Partner</a>
+        </li>
+        <li>
+          <a href="#" class="btn-show-advertise">Advertise</a>
+        </li>
+        <li>
+          <a href="#" class="btn-show-press">Press</a>
+        </li>
+        <li>
+          <a href="/terms">Terms</a>
+        </li>
+        <li>
+          <a href="/legal/privacy">Privacy Policy</a>
+        </li>
+        <li>
+          <a href="mailto:support@dingit.tv">Support</a>
+        </li>
+        <li>
+          <a href="http://blog.dingit.tv/" target="_blank">News</a>
+        </li>
+        <li>
+          <a href="#" class="btn-show-about-us">About</a>
+        </li>
+        <li>
+          <a href="#" class="btn-show-signup-viewer">Subscribe</a>
+        </li>
+      </ul>
+      <div class="action">
+        <a href="https://itunes.apple.com/app/id981833026" class="d_pic buy_apple black" target="_blank">App Store</a>
+        <a href="https://play.google.com/store/apps/details?id=tv.dingit.dingit" class="d_pic buy_google" target="_blank">Google Play</a>
+        <ul class="social">
+          <li>
+            <a href="https://www.facebook.com/dingittv" target="_blank">
+              <i class="d_pic facebook2"></i>
+            </a>
+          </li>
+          <li>
+            <a href="https://www.youtube.com/channel/UCAUuoB4zopviW1_aF4RsEMQ" target="_blank">
+              <i class="d_pic youtube"></i>
+            </a>
+          </li>
+          <li>
+            <a href="https://twitter.com/dingittv" target="_blank">
+              <i class="d_pic twitter2"></i>
+            </a>
+          </li>
+          <li>
+            <a href="https://instagram.com/dingittv" target="_blank">
+              <i class="d_pic instagram"></i>
+            </a>
+          </li>
+          <li>
+            <a href="https://plus.google.com/u/0/105912185538950598791/" target="_blank">
+              <i class="d_pic google"></i>
+            </a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </div>
 </footer>
-
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
@@ -2748,7 +2859,41 @@ D!NGIT may update this Privacy Policy from time to time. When we change the poli
   ga('send', 'pageview');
 
 </script>
+                <script src="/newChat/app/bower_components/eventEmitter/EventEmitter.min.js"></script>
+        <script src="/newChat/app/js/ses/should.min.js"></script>
 
+        <script src="/newChat/app/js/ses/seConnectionLayer.js"></script>
+        <script src="/newChat/app/js/ses/client.js"></script>
+        <script src="/newChat/app/js/ses/id.js"></script>
+        <script src="/newChat/app/js/ses/cookies.js"></script>
+        
+        <!-- build:js main.js -->
+
+
+
+
+        <script src="/newChat/app/bower_components/angular-animate/angular-animate.js"></script>
+        <script src="/newChat/app/bower_components/angular-timer/dist/angular-timer.min.js"></script>
+        <script src="/newChat/app/bower_components/momentjs/min/moment.min.js"></script>
+        <script src="/newChat/app/bower_components/momentjs/min/locales.min.js"></script>
+        <script src="/newChat/app/bower_components/humanize-duration/humanize-duration.js"></script>
+
+
+
+        <script src="/newChat/app/js/script.js"></script>
+
+
+        <script src="/newChat/app/js/module/bootstrap-colorpicker-module.min.js"></script>
+
+        <script src="/newChat/app/js/controllers/chat.js"></script>
+
+        <script src="/newChat/app/js/services/color.js"></script>
+        <script src="/newChat/app/js/services/incomeMessges.js"></script>
+        <script src="/newChat/app/js/services/userInfo.js"></script>
+        <script src="/newChat/app/js/services/sendMes.js"></script>
+        <script src="/newChat/app/js/services/chatConfig.js"></script>
+
+        <script src="/newChat/app/js/directives/enter.js"></script>
     <script type="text/javascript">
 /* <![CDATA[ */
 (function(){try{var s,a,i,j,r,c,l=document.getElementsByTagName("a"),t=document.createElement("textarea");for(i=0;l.length-i;i++){try{a=l[i].getAttribute("href");if(a&&a.indexOf("/cdn-cgi/l/email-protection") > -1  && (a.length > 28)){s='';j=27+ 1 + a.indexOf("/cdn-cgi/l/email-protection");if (a.length > j) {r=parseInt(a.substr(j,2),16);for(j+=2;a.length>j&&a.substr(j,1)!='X';j+=2){c=parseInt(a.substr(j,2),16)^r;s+=String.fromCharCode(c);}j+=1;s+=a.substr(j,a.length-j);}t.innerHTML=s.replace(/</g,"&lt;").replace(/>/g,"&gt;");l[i].setAttribute("href","mailto:"+t.value);}}catch(e){}}}catch(e){}})();
