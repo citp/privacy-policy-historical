@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the freebiesfrenzy.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623171127id_/http%3A//freebiesfrenzy.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freebiesfrenzy.com privacy policy that was archived on 2015-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151210092026id_/http%3A//freebiesfrenzy.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy |
 
-**Effective and Last Updated:** 4/8/14
+**Effective and Last Updated:** 9/1/15
 
 This website is owned and operated by Elite Web Holding, LLC. We are committed to protecting the privacy of our visitors while they interact with the content, products and services on this site (the “Site”). This Privacy Policy applies to the Site only. It does not apply to other websites to which we link. Because we gather certain types of information about our users, we want you to understand what information we collect about you, how we collect it, how that information is used, and how you can control our disclosure of it. You agree that your use of the Site signifies your assent to this Privacy Policy. If you do not agree with this Privacy Policy, please do not use the Site.
 
@@ -18,7 +18,7 @@ By registering with us (submitting your name, email address, and zip code, you c
 
 · Voluntary Information for Services and Features
 
-We [also] collect personally identifiable information when you choose to use certain other features of the Site, including: i) making purchases ii) consenting to receive email or text messages about upcoming promotions or events, iii) consenting to receive email, iv) participating in our polls, iv) commenting on anything throughout out site, and others. When you choose to use these additional features, we require you to provide your “Contact Information” in addition to other personal information that may be required to complete a transaction such as your phone number, billing and shipping addresses and credit card information. Occasionally, we may also request information such as your shopping preferences and demographics which will help us better serve you and our others users in the future. FreebiesFrenzy.com will share your email address with All-Inbox, LLC.
+We [also] collect personally identifiable information when you choose to use certain other features of the Site, including: i) making purchases ii) consenting to receive email or text messages about upcoming promotions or events, iii) consenting to receive email, iv) participating in our polls, iv) commenting on anything throughout out site, and others. When you choose to use these additional features, we require you to provide your “Contact Information” in addition to other personal information that may be required to complete a transaction such as your phone number, billing and shipping addresses and credit card information. Occasionally, we may also request information such as your shopping preferences and demographics which will help us better serve you and our others users in the future.
 
 · Cookies
 
@@ -38,7 +38,7 @@ FreebiesFrenzy.com reserves the right to contact you regarding matters relevant 
 
 Please note that personally identifiable information is used only to provide you with a more enjoyable, convenient online experience and to help us identify and/or provide information, products or services that may be of interest to you. We use your personally identifiable information to support and enhance your use of the Site and its features, including without limitation: fulfilling your order; providing customer service; tracking email invitations you send; and otherwise supporting your use of the Site.
 
-FreebiesFrenzy.com may use your personal information for target advertising toward you based on things such as region, gender, interests, goals, habits, etc. You will receive relevant third party offers from All-Inbox, LLC, our exclusive email partner.
+FreebiesFrenzy.com may use your personal information for target advertising toward you based on things such as region, gender, interests, goals, habits, etc. You may receive relevant third party offers from our other email partners.
 
 We may permit certain trusted third parties to track usage, analyze data such as the source address that a page request is coming from, your IP address or domain name, the date and time of the page request, the referring Web site (if any) and other parameters in the URL. This is collected in order to better understand our Web site usage, and enhance the performance of services to maintain and operate the Site and certain features on the Site. We may use third parties to host the Site; operate various features available on the Site; send emails; analyze data; provide search results and links and assist in fulfilling your orders.
 
