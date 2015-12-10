@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the vesternet.com privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612021701id_/http%3A//www.vesternet.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vesternet.com privacy policy that was archived on 2015-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151211000342id_/http%3A//www.vesternet.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Vesternet
+# Privacy Policy | Vesternet
 
 Vesternet Limited ("We") are committed to protecting and respecting your privacy.
 
