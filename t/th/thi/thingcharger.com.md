@@ -1,6 +1,11 @@
-> *The following text is extracted and transformed from the thingcharger.com privacy policy that was archived on 2015-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150621035904id_/http%3A//www.thingcharger.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thingcharger.com privacy policy that was archived on 2015-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151210172242id_/http%3A//www.thingcharger.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - thingCHARGER
+# None
+
+[](https://privacy.truste.com/privacy-seal/ThingCharger/validation?rid=cdb941d2-59c7-4761-9667-b952a60b5290 "TRUSTe Privacy Certification")
+
+### thingCHARGER.com  
+Privacy Policy
 
 Effective Date: May 28th, 2015
 
@@ -95,3 +100,5 @@ thingCHARGER, Inc.
 1 Grandview Avenue  
 Cornwall on Hudson NY 12520  
 info@thingcharger.com
+
+[](https://privacy.truste.com/privacy-seal/ThingCharger/validation?rid=cdb941d2-59c7-4761-9667-b952a60b5290 "TRUSTe Privacy Certification")
