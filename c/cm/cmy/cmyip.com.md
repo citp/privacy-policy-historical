@@ -1,8 +1,7 @@
-> *The following text is extracted and transformed from the cmyip.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607205101id_/http%3A//cmyip.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cmyip.com privacy policy that was archived on 2015-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151210152236id_/http%3A//www.cmyip.com/privacy.html) for the most accurate reproduction.*
 
 # CmyIP.com - Check My IP address fast!
 
-  
 The privacy of our visitors to CmyIP.com is important to us.
 
 At CmyIP.com, we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use and visit CmyIP.com, and how we safeguard your information. We never sell your personal information to third parties.
