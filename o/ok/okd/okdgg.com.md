@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the okdgg.com privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612020556id_/http%3A//www.okdgg.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the okdgg.com privacy policy that was archived on 2015-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151210232359id_/http%3A//www.okdgg.com/about/privacy) for the most accurate reproduction.*
 
 # OKDGG.com: Online Shopping for Korean Fashion, K-Beauty, K-pop, K-food & more
 
