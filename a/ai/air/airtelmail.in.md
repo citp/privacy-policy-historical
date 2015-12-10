@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the airtelmail.in privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231234953id_/http%3A//www.airtel.in/wps/wcm/connect/airtel.in/airtel.in/home/Privacy%2BPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the airtelmail.in privacy policy that was archived on 2015-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151210082952id_/http%3A//www.airtel.in/wps/wcm/connect/airtel.in/airtel.in/home/Privacy%2BPolicy) for the most accurate reproduction.*
 
 # :: airtel :: Privacy Policy
 
