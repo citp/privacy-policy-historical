@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the idpielts.me privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611104451id_/http%3A//idpielts.me//privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the idpielts.me privacy policy that was archived on 2015-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151210123926id_/http%3A//idpielts.me//privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -13,10 +13,10 @@ If you subscribe to our website, the personal information we will collect from y
 
 (b) Website traffic tracking  
 When you visit our website, our server makes a record of your visit and logs the following information:  
-\- the number of page views (or page impressions) that occur on an IDP website  
-\- the number of unique visitors  
-\- how long these unique visitors (on average) spend on an IDP website, and  
-\- common entry and exit points to IDP sites.
+– the number of page views (or page impressions) that occur on an IDP website  
+– the number of unique visitors  
+– how long these unique visitors (on average) spend on an IDP website, and  
+– common entry and exit points to IDP sites.
 
 ### How does IDP use personal information?
 
