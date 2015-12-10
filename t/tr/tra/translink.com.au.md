@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the translink.com.au privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630212336id_/http%3A//translink.com.au/site-information/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the translink.com.au privacy policy that was archived on 2015-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151210022415id_/http%3A//translink.com.au/site-information/legal/privacy) for the most accurate reproduction.*
 
 # Privacy | translink.com.au
 
@@ -41,31 +41,31 @@ Email messages may be monitored by our web team for system troubleshooting and m
 
 ## Smart card (including _go_ card)
 
-Our use of your personal information will depend on whether you are a 'registered' smart card holder or whether you obtain an 'unregistered' smart card.
+Our use of your personal information will depend on whether you are a 'registered' smart card holder or whether you have an 'unregistered' smart card.
 
 ### Unregistered smart cards
 
-If you obtain an unregistered smart card - your details will be retained as follows:
+If you have an unregistered smart card the following information will be retained:
 
-  * Unregistered smart cards - Cash/Debit card/Credit card
-  * Retention of personal information - Not retained
+  * Cash/Debit card/Credit card
   * Record of financial transaction - 3 Years
   * Hardcopy of financial transaction - 7 Months
+  * Contact details for concession fare card holders only
   * Archive period - 5 Years
 
 
 
 ### Registered smart cards
 
-If you choose to register your smart card, your personal information will be securely held on the central computer and linked to the serial number of your smart card. Your physical smart card will not hold any personal information.
+If you choose to register your smart card, your personal information will be securely held and linked to the serial number of your smart card. Your physical smart card will not hold any personal information.
 
 Your personal information may be used for the following purposes:
 
-  * to allow you to top up your smart card,;
-  * to allow you to obtain a replacement card,;
-  * to allow you to 'hotlist' or cancel a lost or stolen card to protect the stored value,;
-  * to allow you to access your journey history,;
-  * to allow us to notify you of changes to your smart card (for example impending card expiry),;
+  * to allow you to top up your smart card;
+  * to allow you to obtain a replacement card;
+  * to allow you to 'hotlist' or cancel a lost or stolen card to protect the stored value;
+  * to allow you to access your journey history;
+  * to allow us to notify you of changes to your smart card (for example impending card expiry);
   * to allow us to address any queries and complaints you may have regarding your smart card;
   * to provide you with information directly related to our functions and activities; and
   * to facilitate security measures to guard against fraud or inappropriate use of your card.
