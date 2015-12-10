@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the livechatinc.com privacy policy that was archived on 2015-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150511114808id_/http%3A//livechatinc.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livechatinc.com privacy policy that was archived on 2015-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151210230541id_/http%3A//www.livechatinc.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy
 
@@ -6,7 +6,7 @@
 
 Effective date: 5/23/2012, last edit: 7/04/2013
 
-LiveChat, Inc. privacy policy contains information about collecting users’ personal data, products and services offered or performed by LiveChat, Inc. and the manner of its processing. We respect the right to privacy of our software users and take reasonable steps for the user to be familiar with the manner in which rendered accessible information via http://www.livechatinc.com/ website and our mobile application is processed. Due to the implementation of comprehensive security regulations, personal data provided by our website and mobile application users is of highest security standards. The acceptance of terms and conditions for the use of any LiveChat, Inc. services or deciding on using or purchasing any product offered by LiveChat, Inc. means accepting LiveChat, Inc. Privacy Policy.
+LiveChat, Inc. privacy policy contains information about collecting users’ personal data, products and services offered or performed by LiveChat, Inc. and the manner of its processing. We respect the right to privacy of our software users and take reasonable steps for the user to be familiar with the manner in which rendered accessible information via https://www.livechatinc.com/ website and our mobile application is processed. Due to the implementation of comprehensive security regulations, personal data provided by our website and mobile application users is of highest security standards. The acceptance of terms and conditions for the use of any LiveChat, Inc. services or deciding on using or purchasing any product offered by LiveChat, Inc. means accepting LiveChat, Inc. Privacy Policy.
 
 ## Safe Harbor Compliance
 
@@ -20,7 +20,7 @@ LiveChat, Inc. has further committed to refer unresolved privacy complaints unde
 
 ## Provided data
 
-Collected by LiveChat, Inc. personal data and other user’s information is used in order to complete user registration and at the same time to ensure his access to LiveChat, Inc. services and products. While registering on our website http://www.livechatinc.com/ we request that you provide us with such information as: name, surname, company business name, address, website address, e-mail address and credit/payment card information in the event when a user continues to use our services after a 30-day free of charge trial period. Unless a user decides to use our services after a 30-day free of charge trial period, credit/payment card information is not required. Some of the provided user’s information such as: your IP address, domain, browser type, operation system type etc. may be automatically acquired when a user visits our websites. When contacting LiveChat, Inc. the user may be requested to render accessible analogical data to those provided while registering on our website. Personal data provided in connection with the correspondence between the user and LiveChat, Inc. shall be used strictly to reply to inquiries made by the user or to transfer information. We use the information you provide us in order to provide you with customer service, allow you to view your statistics, e-commerce, goals, performance, chat queue, availability, customer satisfaction, chats, chat logs, view the chat operators and visitors to your livechat service.
+Collected by LiveChat, Inc. personal data and other user’s information is used in order to complete user registration and at the same time to ensure his access to LiveChat, Inc. services and products. While registering on our website https://www.livechatinc.com/ we request that you provide us with such information as: name, surname, company business name, address, website address, e-mail address and credit/payment card information in the event when a user continues to use our services after a 30-day free of charge trial period. Unless a user decides to use our services after a 30-day free of charge trial period, credit/payment card information is not required. Some of the provided user’s information such as: your IP address, domain, browser type, operation system type etc. may be automatically acquired when a user visits our websites. When contacting LiveChat, Inc. the user may be requested to render accessible analogical data to those provided while registering on our website. Personal data provided in connection with the correspondence between the user and LiveChat, Inc. shall be used strictly to reply to inquiries made by the user or to transfer information. We use the information you provide us in order to provide you with customer service, allow you to view your statistics, e-commerce, goals, performance, chat queue, availability, customer satisfaction, chats, chat logs, view the chat operators and visitors to your livechat service.
 
 When using the support section of our site we will collect your email address, name, twitter account, or other openID account ID for the purpose of allowing you to sign up for our customer support , submit a request, check your existing requests and commenting within the support forum. You may also upload a photo of yourself while using this service, if you no longer wish to have your photo displayed you may log into your account and request to have this removed or contact us at support@livechatinc.com. 
 
@@ -144,7 +144,7 @@ We encourage you to be aware when you leave our site and to read the privacy pol
 
 ## Terms and conditions of use
 
-Using offered products and services rendered by LiveChat, Inc., the user is obliged to comply with rules contained in the terms and conditions available on our website: <http://www.livechatinc.com/terms-and-conditions/>.
+Using offered products and services rendered by LiveChat, Inc., the user is obliged to comply with rules contained in the terms and conditions available on our website: <https://www.livechatinc.com/terms-and-conditions/>.
 
 ## Contact
 
