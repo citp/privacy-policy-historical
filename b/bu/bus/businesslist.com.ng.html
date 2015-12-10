@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the businesslist.com.ng privacy policy that was archived on 2015-06-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150607134524id_/http%3A//www.businesslist.com.ng/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the businesslist.com.ng privacy policy that was archived on 2015-12-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151210032529id_/http%3A//www.businesslist.com.ng/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head><meta charset="utf-8"><meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta http-equiv="Content-Language" content="en">
@@ -8,9 +8,8 @@
 <meta name="description" content="Privacy policy. Search for Nigeria Companies in Nigeria Business Directory. Add your free Business Listing on Nigeria Business Directory.">
 <meta name="copyright" content="BusinessList.com.ng">
 <meta name="ROBOTS" content="index,follow">
-<meta name="GOOGLEBOT" content="index,follow"><link rel="stylesheet" type="text/css" href="/css/site/main.min.css?v=27">
-<link href="http://fonts.googleapis.com/css?family=Open+Sans:300,400,600" rel="stylesheet" type="text/css"><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="/js/jquery/jquery.min.js?v=191"></script>
-<link href="/ngfavicon.ico" type="image/x-icon" rel="icon"><link href="/ngfavicon.ico" type="image/x-icon" rel="shortcut icon">
+<meta name="GOOGLEBOT" content="index,follow"><link rel="stylesheet" type="text/css" href="/css/site/main.min.css?v=35">
+<link href="http://fonts.googleapis.com/css?family=Open+Sans:300,400,600" rel="stylesheet" type="text/css"><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script><link href="/ngfavicon.ico" type="image/x-icon" rel="icon"><link href="/ngfavicon.ico" type="image/x-icon" rel="shortcut icon">
 <meta name="DC.title" content="Business Nigeria">
 <meta name="geo.region" content="NG">
 <meta name="geo.position" content="6.518879, 3.374056">
@@ -117,9 +116,38 @@ function showLogin(extra_url) {
 }
 </script>
 
+
+<script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+  (adsbygoogle = window.adsbygoogle || []).push({
+    google_ad_client: "ca-pub-3351151485848212",
+    enable_page_level_ads: true
+  });
+</script>
 <script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js#appId=171166422952329&amp;xfbml=1"></script></head>
 <body>
 
+<div id="login_box" class="fixed_div">
+<h5>Members Sign In</h5>
+<div class="content" id="user_zipa">
+	<a href="/sign-in/fbredirect" class="signup_fb" id="login_box_signup_fb" onclick="$(this).text(&quot;Redirecting...&quot;);">Sign in with Facebook</a>	
+	<div class="separator"><span>OR</span></div>
+	
+	<form method="post" action="/sign-in"><fieldset style="display:none;"><input type="hidden" name="_method" value="POST"></fieldset>	
+		<div class="input text"><input name="data[Login][username]" type="text" placeholder="Username" class="username_input" value="" id="LoginUsername"></div>		<div class="input password"><input type="password" name="data[Login][password]" placeholder="Password" class="password_input" value="" id="LoginPassword"></div>	
+		<div class="submit acenter" id="login_submit">
+		<input type="submit" onclick="this.value='Please, wait ...'; this.style.color='gray'" value="Sign in">		</div>
+	
+		<div class="small acenter">
+			<a href="/forgot-password" title="Forgot password?">Forgot password?</a><br>
+			Not a member yet? <a href="/signup-user" title="No account? Register now for free!" id="login_box_sign_up">Sign up</a>		</div>
+	</form>   
+</div>	
+<a href="#" class="close" id="login_box_close" onclick="$('#login_box').hide(); $('#login-screen-block').remove(); return false;"></a>
+
+<div class="acenter" style="line-height: 40px;"><a href="/create-business-listing">ADD BUSINESS</a></div>
+
+</div>
 
 <header>
 	<nav>
@@ -127,9 +155,9 @@ function showLogin(extra_url) {
 		<div class="search_box">
 	<form id="search_form" method="post" action="/nigeria-business-search"><fieldset style="display:none;"><input type="hidden" name="_method" value="POST"></fieldset>	
 	<fieldset>
-		<div class="input text"><input name="data[CompanySearch][query]" type="text" rel="Search for Companies or Services" autocapitalize="off" autocorrect="off" autocomplete="off" class="highlight acInput" value="" id="CompanySearchQuery"><a href="#" id="what_browse" onclick="showBrowse('what'); return false;" style="background-position: -396px -215px;"></a></div>		
+		<div class="input text"><input name="data[CompanySearch][query]" type="text" rel="Search for Companies or Services" autocapitalize="off" autocorrect="off" autocomplete="off" maxlength="40" class="highlight" value="" id="CompanySearchQuery"><a href="#" id="what_browse" onclick="showBrowse('what'); return false;"></a></div>		
 				
-		<div class="input text"><input name="data[CompanySearch][location]" type="text" rel="Location" value="" id="CompanySearchLocation" autocomplete="off" class="acInput"><a href="#" id="where_browse" onclick="showBrowse('where'); return false;" style="background-position: -396px -215px;"></a></div>		
+		<div class="input text"><input name="data[CompanySearch][location]" type="text" rel="Location" maxlength="40" value="" id="CompanySearchLocation"><a href="#" id="where_browse" onclick="showBrowse('where'); return false;"></a></div>		
 		<div class="submit">
 			<a href="#" onclick="$('#search_form').submit(); $('#loading').fadeIn(); return false;" class="search_submit">Search</a>					</div>
 
@@ -163,17 +191,16 @@ $(function() {
 });	
 </script>	
 		<div class="userbox userbox_en">
-		  	<a href="/sign-in">Sign in</a><a href="/create-business-listing" title="Add business" class="add_business">Add business</a>		
+		  	<a href="/sign-in" onclick="showLogin(); return false;" class="user_signin">Sign in</a>	  	<a href="/create-business-listing" title="Add business" class="add_business">Add business</a>	
+				
 </div>
 
 <div class="hidden_menu hidden">
-		  	<a href="/sign-in" title="Sign in">Sign in</a>	  	<a href="/create-business-listing" title="Add business" class="add_business">Add business</a>		
-	<a href="/browse-business-directory">Browse categories</a>	<a href="/browse-business-cities">Browse locations</a></div>
+		  	<a href="/sign-in" title="Sign in" class="user_signin">Sign in</a>	  	<a href="/create-business-listing" title="Add business" class="add_business">Add business</a>		
+	<a href="/browse-business-directory">Browse categories</a>	<a href="/browse-business-cities">Browse locations</a>	</div>
 
 <a href="#" title="Menu" class="m_menu_link"></a><a href="#" id="userbox_close" class="skinny_close"></a>
 <script>
-
-
 	$('.m_menu_link').click(function(e) {
 		$('.screen-paint').show();
 		$('.hidden_menu').show();
@@ -182,7 +209,6 @@ $(function() {
 		
 		e.preventDefault();
 	});
-
 
 	$('#userbox_close').click(function(e) {
 		$('.screen-paint').hide();
@@ -203,10 +229,11 @@ $(function() {
 			<div id="fbtop" class="fb-like" data-href="https://www.facebook.com/pages/Nigeria-Business-Directory/118714528212746" data-send="false" data-layout="button_count" data-width="100" data-show-faces="false" data-font="arial"></div>
 			<div id="plusone-div"><g:plusone size="medium" href="http://www.businesslist.com.ng"></g:plusone></div>
 		</div>
-	</section>
+
+			</section>
 </div>
 
-<div id="search_drop" style="display: none;"></div>   
+<div id="search_drop"></div>   
 
 <div id="wrapper"> 
 	<section>
@@ -216,8 +243,10 @@ $(function() {
 
 <div id="wrapper">
 	<section>
-	<h3>General</h3>
-	<ul type="disc">
+	
+	<h2 style="border-bottom : solid 1px #E2E7E2; padding : 20px 0; margin : 0 0 20px 0; text-align:left;">General</h2>
+	
+	<ul style="list-style-type: disc; margin-left: 50px;">
 	<li>
 		BusinessList.com.ng collects personal information about you and your business when you create your business listing.
 		BusinessList.com.ng will not rent, sell, or share information about you with other people or non-affiliated companies. 
@@ -236,16 +265,23 @@ $(function() {
 	
 	<br>
 	
-	<h3>Confidentiality and Security</h3>
-	<ul type="disc">
+	<h2 style="border-bottom : solid 1px #E2E7E2; padding : 20px 0; margin : 0 0 20px 0; text-align:left;">Confidentiality and Security</h2>
+	<ul style="list-style-type: disc; margin-left: 50px;">
 	<li>We limit access to personal information about you to employees who we believe reasonably need to come into contact with that information to provide products or services to you or in order to do their jobs.</li>
 	<li>We have physical, electronic, and procedural safeguards that comply with regulations to protect personal information about you.</li>
 	</ul>
 	
 	<br>
 	
-	<h3>Changes to this Privacy Policy</h3>
-	<ul type="disc">
+	<h2 style="border-bottom : solid 1px #E2E7E2; padding : 20px 0; margin : 0 0 20px 0; text-align:left;">Cookies</h2>
+	<ul style="list-style-type: disc; margin-left: 50px;">
+	<li>When you enter this website, we will use cookies. Cookies are tiny text files that identify your computer to our server. These cookies in no way allow us access to your computer and do not store any details relating to you or your credit cards. They are used to record the areas of the site that you have visited and for how long, which provides us with useful usage information that helps us make our site more accessible to our users in line with their needs. The use of cookies helps us to improve the quality of service that we provide. Please also refer to our <strong><a href="/cookies-policy">Cookies Policy</a></strong>.</li>
+	</ul>
+	
+	<br>
+
+	<h2 style="border-bottom : solid 1px #E2E7E2; padding : 20px 0; margin : 0 0 20px 0; text-align:left;">Changes to this Privacy Policy</h2>
+	<ul style="list-style-type: disc; margin-left: 50px;">
 	<li>BusinessList.com.ng may update this policy. We will notify you about significant changes in the way we treat personal information by sending a notice to the primary email address specified in your Business Listing or by placing a prominent notice on our site.</li>
 	</ul>
 	</section>
@@ -266,8 +302,11 @@ $(function() {
 								<li><a href="/contact-us">Contact us</a></li>
 				<li><a href="/browse-business-directory">Browse categories</a></li>
 				<li><a href="/browse-business-cities">Browse locations</a></li>
+				
+								
 								<li><a href="/terms-of-use" rel="nofollow, noindex">Terms of use</a></li>
 				<li><a href="/privacy-policy" rel="nofollow, noindex">Privacy policy</a></li>
+				<li><a href="/cookies-policy" rel="nofollow, noindex">Cookies policy</a></li>
 								<li><a href="/sitemap.html">Sitemap</a></li>
 			</ul>			
 		</div>
@@ -294,13 +333,13 @@ $(function() {
 				
 		<div class="footer_box" id="site_stats">
 			<h6>Statistics</h6>
-			148,264 Companies<br>
-			139,267 Phones<br>
-			12,428 Faxes<br>
-			71,913 Emails<br>
-			23,298 Websites<br>
-			2,358 Products<br>
-			725 Reviews		</div>
+			149,060 Companies<br>
+			139,956 Phones<br>
+			12,458 Faxes<br>
+			72,724 Emails<br>
+			23,955 Websites<br>
+			3,017 Products<br>
+			818 Reviews		</div>
 
 		<div class="clear"></div>
 
@@ -309,7 +348,7 @@ $(function() {
 				<a href="https://www.facebook.com/pages/Nigeria-Business-Directory/118714528212746" class="facebook" rel="nofollow" target="_blank">Facebook</a><a href="https://twitter.com/NigeriaDir" class="twitter" rel="nofollow" target="_blank">Twitter</a><a href="https://www.google.com/+BusinesslistNg" class="google" rel="nofollow" target="_blank">Google+</a><a href="http://www.linkedin.com/company/nigeria-business-directory" class="linkedin" rel="nofollow" target="_blank">Linkedin</a>			</div>
 				
 				
-			<div id="international"><h6>International Directories</h6><ul><li><a href="http://www.yellosa.co.za" class="target" rel="nofollow" title="South Africa Business Directory" target="_blank">South Africa</a></li><li><a href="http://www.businesslist.co.ke" class="target" rel="nofollow" title="Kenya Business Directory" target="_blank">Kenya</a></li><li><a href="http://www.yellow.ug" class="target" rel="nofollow" title="Uganda Business Directory" target="_blank">Uganda</a></li><li><a href="http://www.businesslist.co.cm" class="target" rel="nofollow" title="Cameroon Business Directory" target="_blank">Cameroon</a></li><li><a href="http://www.ghanayello.com" class="target" rel="nofollow" title="Ghana Business Directory" target="_blank">Ghana</a></li><li><a href="http://www.yelo.mu" class="target" rel="nofollow" title="Mauritius Business Directory" target="_blank">Mauritius</a></li><li><a href="http://www.moroccoyp.com" class="target" rel="nofollow" title="Morocco Business Directory" target="_blank">Morocco</a></li><li><a href="http://www.ethyp.com" class="target" rel="nofollow" title="Ethiopia Business Directory" target="_blank">Ethiopia</a></li><li><a href="http://www.tanzayp.com" class="target" rel="nofollow" title="Tanzania Business Directory" target="_blank">Tanzania</a></li><li><a href="http://www.zambiayp.com" class="target" rel="nofollow" title="Zambia Business Directory" target="_blank">Zambia</a></li><li><a href="http://www.zimbabweyp.com" class="target" rel="nofollow" title="Zimbabwe Business Directory" target="_blank">Zimbabwe</a></li><li><a href="/international-business-directories-map" rel="nofollow" style="background: none; margin-left: 0;">See All</a></li></ul></div>	
+			<div id="international"><h6>International Directories</h6><ul><li><a href="http://www.yellosa.co.za" class="target" rel="nofollow" title="South Africa Business Directory">South Africa</a></li><li><a href="http://www.businesslist.co.ke" class="target" rel="nofollow" title="Kenya Business Directory">Kenya</a></li><li><a href="http://www.yellow.ug" class="target" rel="nofollow" title="Uganda Business Directory">Uganda</a></li><li><a href="http://www.businesslist.co.cm" class="target" rel="nofollow" title="Cameroon Business Directory">Cameroon</a></li><li><a href="http://www.ghanayello.com" class="target" rel="nofollow" title="Ghana Business Directory">Ghana</a></li><li><a href="http://www.yelo.mu" class="target" rel="nofollow" title="Mauritius Business Directory">Mauritius</a></li><li><a href="http://www.moroccoyp.com" class="target" rel="nofollow" title="Morocco Business Directory">Morocco</a></li><li><a href="http://www.ethyp.com" class="target" rel="nofollow" title="Ethiopia Business Directory">Ethiopia</a></li><li><a href="http://www.tanzayp.com" class="target" rel="nofollow" title="Tanzania Business Directory">Tanzania</a></li><li><a href="http://www.zambiayp.com" class="target" rel="nofollow" title="Zambia Business Directory">Zambia</a></li><li><a href="http://www.zimbabweyp.com" class="target" rel="nofollow" title="Zimbabwe Business Directory">Zimbabwe</a></li><li><a href="/international-business-directories-map" rel="nofollow" style="background: none; margin-left: 0;">See All</a></li></ul></div>	
 	<div id="copyright">© 2009 - 2015 <a href="http://www.businesslist.com.ng">BusinessList.com.ng</a> </div>
 </section></footer>
 
@@ -336,9 +375,10 @@ $(function() {
 
 
 
+
   
 
  
 
 
-<div class="acResults" style="display: none; position: absolute;"></div><div class="acResults" style="display: none; position: absolute;"></div></body></html>
+</body></html>
