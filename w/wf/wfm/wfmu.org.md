@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wfmu.org privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612175106id_/http%3A//wfmu.org/page.php/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wfmu.org privacy policy that was archived on 2015-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151210134617id_/http%3A//wfmu.org/page.php/privacypolicy) for the most accurate reproduction.*
 
 # WFMU Privacy Policy
 
