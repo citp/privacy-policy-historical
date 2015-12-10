@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the hometownhotties.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629001157id_/http%3A//www.maxim.com/corporate/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hometownhotties.com privacy policy that was archived on 2015-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151210134824id_/http%3A//www.maxim.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Maxim
 
-Updated March 18, 2014
+Updated September 23, 2014
 
 This Privacy Policy explains how Maxim. (“Maxim”) stores and uses personal and non-personal information provided by you to us or collected by us in any manner.  Some examples
 
@@ -24,11 +24,11 @@ Maxim reserves the right to modify the Policy in any way, at any time.  Any and
 
 1\. Personally-Identifying Information
 
-Maxim, directly and through third parties (e.g., Facebook, Twitter, or vendors with whom we work), collects personally-identifying information in many places throughout our Digital Devices, for example: (a) when you register for the online newsletter or magazine subscriber-only area of Digital Devices, (b) enter contests, and/or participate in other online activities (including, but not limited to, surveys, chat rooms, games, and bulletin boards, or make a purchase in our online store). If you elect to connect your third-party website account (e.g., Facebook), you should assume that personally-identifying information contained in your profile at such third-party website (but not your password) will be provided to us.  This personally-identifying information may include your name, address (street address, city, state, and zip code), contact information (e.g., e-mail address and telephone numbers), and other identifiers that permit Maxim and/or third parties to contact you directly or gather information about you.
+Maxim, directly and through third parties (e.g., Facebook, Twitter, or vendors with whom we work), collects personally-identifying information in many places throughout our Digital Devices, for example: (a) when you register for the online newsletter or magazine subscriber-only area of Digital Devices, (b) enter contests and sweepstakes and participate in other online activities (including, but not limited to, surveys, chat rooms, games, and bulletin boards, or make a purchase in our online store), and/or (c) provide us [Submitted Content](http://www.maxim.com/corporate/terms-conditions#submitted-content). If you elect to connect your third-party website account (e.g., Facebook), you should assume that personally-identifying information contained in your profile at such third-party website (but not your password) will be provided to us. This personally-identifying information may include your picture, name, address (street address, city, state, and zip code), contact information (e.g., e-mail address and telephone numbers), and other identifiers that permit Maxim and/or third parties to contact you directly,  gather information about you, or identify you.
 
-Maxim uses personally-identifying information to award prizes and/or, with your permission, for promotional and marketing purposes.  Maxim uses this information and outside records to offer promotions, products, programs, or services that may be of interest to you.  If you prefer not to receive such offers from Maxim, please email [newsletters@maxim.com](mailto:newsletters@maxim.com) with the subject line UNSUBSCRIBE ME.  ** _Your “Unsubscribe” efforts can be undone by you if you enter another contest or opt into marketing communications in the future._**
+Maxim uses personally-identifying information to award prizes and/or, with your permission, for promotional and marketing purposes.  Maxim uses this information and outside records to offer promotions, products, programs, or services that may be of interest to you.  If you prefer not to receive such offers from Maxim, please email [newsletters@maxim.com](mailto:newsletters@maxim.com) with the subject line UNSUBSCRIBE ME.  _ **Your “Unsubscribe” efforts can be undone by you if you enter another contest or opt into marketing communications in the future.**_
 
-Maxim may also, from time-to-time, make personally-identifying information available to other companies so that they may also offer promotions, products, programs, and/or services of interest to you.  If you prefer not to receive such offers from other companies, email [offers@maxim.com](mailto:offers@maxim.com) with the subject line UNSUBSCRIBE ME.   ** _Your “Unsubscribe” efforts can be undone by you if you enter another contest or opt into marketing communications in the future._**
+Maxim may also, from time-to-time, make personally-identifying information available to other companies so that they may also offer promotions, products, programs, and/or services of interest to you.  If you prefer not to receive such offers from other companies, email [offers@maxim.com](mailto:offers@maxim.com) with the subject line UNSUBSCRIBE ME.   _ **Your “Unsubscribe” efforts can be undone by you if you enter another contest or opt into marketing communications in the future.**_
 
 Maxim may also disclose personally-identifying information in response to legal process, such as a request by law enforcement, a court order or subpoena, or to protect the integrity of the Site if Maxim believes that a guest has committed unlawful or otherwise harmful acts.
 
@@ -38,15 +38,17 @@ If guests elect to use any provided "E-mail to a Friend" referral service for in
 
 In addition, Maxim may share or disclose personally-identifying information about you to other companies or individuals if any of the following occur:
 
- i.     Maxim uses third party service providers to provide products, services, content or functions on its behalf.  In instances where they are providing work at our specific direction (e.g., sending emails, processing credit cards, or fulfilling subscriptions) we ask them to not use such information for any reason except to carry out the purposes for which Maxim hired them.  In other instances where Maxim has not hired the third party provider (e.g., Facebook or Twitter widgets on our Digital Devices), these service providers maintain their own privacy policies with regards to your personally-identifying information;
+ i.     You provide us with Submitted Content>;
 
-ii.     You have entered a contest or sweepstakes sponsored by a third party and you have agreed to permit the third party to share, disclose or otherwise use personally-identifying information, in which case the information may be shared with that third party for their use as permitted by their respective privacy policies, including direct marketing; 
+ii.     Maxim uses third party service providers to provide products, services, content or functions on its behalf.  In instances where they are providing work at our specific direction (e.g., sending emails, processing credit cards, or fulfilling subscriptions) we ask them to not use such information for any reason except to carry out the purposes for which Maxim hired them.  In other instances where Maxim has not hired the third party provider (e.g., Facebook or Twitter widgets on our Digital Devices), these service providers maintain their own privacy policies with regards to your personally-identifying information;
 
-iii.    Maxim needs to protect its legal rights (such as collecting money owed to Maxim)                 
+iii.    You have entered a contest or sweepstakes sponsored by a third party and you have agreed to permit the third party to share, disclose or otherwise use personally-identifying information, in which case the information may be shared with that third party for their use as permitted by their respective privacy policies, including direct marketing; 
 
-iv.    Maxim must comply with applicable laws, regulations, and/or legal or regulatory process;       
+iv.    Maxim needs to protect its legal rights (such as collecting money owed to Maxim)                 
 
-v.     In connection with a sale, merger, transfer, exchange, or other disposition (of assets, stock, or otherwise) of all or a portion of the business conducted by the Digital Devices.
+v.    Maxim must comply with applicable laws, regulations, and/or legal or regulatory process;       
+
+vi.     In connection with a sale, merger, transfer, exchange, or other disposition (of assets, stock, or otherwise) of all or a portion of the business conducted by the Digital Devices.
 
 2\. Non-Personally-Identifying Information
 
@@ -78,7 +80,7 @@ The use of advertising cookies sent by third-party servers is standard in the In
 
 6\. Third-Party Advertisers
 
-Maxim uses third party advertising companies and advertising networks to serve ads to you on its behalf when you visit the Site. These companies may use information (not including your name, address, e-mail address or telephone number) about your visits to the Site and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please visit the following web addresses:<http://www.networkadvertising.org/optout_nonppii.asp>  <http://www.advertising.com/Privacy.html>  <http://www.doubleclick.com/us/about_doubleclick/privacy>. If you are using our mobile applications on an Apple iPhone or iPad, you may opt-out by pointing your device’s browser to the Apple opt-out page (<http://oo.apple.com/>). Note that even if you elect to opt-out, you will still see general advertisements.
+Maxim uses third party advertising companies and advertising networks to serve ads to you on its behalf when you visit the Site. These companies may use information (not including your name, address, e-mail address or telephone number) about your visits to the Site and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please visit the following web addresses: <http://www.networkadvertising.org/optout_nonppii.asp>  <http://www.advertising.com/Privacy.html>  <http://www.doubleclick.com/us/about_doubleclick/privacy>. If you are using our mobile applications on an Apple iPhone or iPad, you may opt-out by pointing your device’s browser to the Apple opt-out page (<http://oo.apple.com/>). Note that even if you elect to opt-out, you will still see general advertisements.
 
 **_Additional Terms_**
 
@@ -106,8 +108,10 @@ To unsubscribe from the Maxim Online newsletter and/or other electronic communic
 
 To change the address of your Maxim Magazine subscription, or to provide any other subscription-related information to Maxim, you may write to Maxim, P.O. Box 420235, Palm Coast, FL 3214, or call 1(386)447-6312.
 
-Under California law, our users that are California residents may request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. This request may be made by each person only once per year. Such requests must be submitted to us by email at [mlegal@maxim.com](mailto:mlegal@maxim.com), or by mail at Maxim Inc. Attn: California Privacy Laws, 415 Madison Ave, 3rd floor, New York, NY 10017. We reserve the right not to respond to requests submitted other than to the email or postal address specified above.
+**_California Residents: Your California Privacy Rights_**
+
+Under California law, our users that are California residents may request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. This request may be made by each person only once per year. Such requests must be submitted to us by email at [mlegal@maxim.com](mailto:mlegal@maxim.com), or by mail at Maxim Inc. Attn: California Privacy Laws, 415 Madison Ave, 4th floor, New York, NY 10017. We reserve the right not to respond to requests submitted other than to the email or postal address specified above.
 
 _Questions_
 
-Please direct any comments or questions regarding Maxim’s Privacy Policy to Maxim Inc., Privacy Policy, 415 Madison Ave, 3rd floor, New York, NY 10017.
+Please direct any comments or questions regarding Maxim’s Privacy Policy to Maxim Inc., Privacy Policy, 415 Madison Ave, 4th floor, New York, NY 10017.
