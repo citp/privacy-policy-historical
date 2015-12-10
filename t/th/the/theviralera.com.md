@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theviralera.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610090717id_/http%3A//theviralera.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theviralera.com privacy policy that was archived on 2015-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151210195715id_/http%3A//theviralera.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Viral Era
 
