@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the icdsoft.com privacy policy that was archived on 2015-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150408111056id_/http%3A//www.icdsoft.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the icdsoft.com privacy policy that was archived on 2015-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151211141554id_/http%3A//www.icdsoft.com/privacy) for the most accurate reproduction.*
 
 # Privacy statement - ICDSoft
 
@@ -53,7 +53,7 @@ ICANN then requires all registrars to make the above mentioned information, as w
 
 #### Will you disclose the information you collect to third parties?
 
-ICDSoft will disclose personal information when required by law or in the good-faith belief that such action is necessary to:
+ICDSoft will disclose personal information only when required by law or in the good-faith belief that such action is necessary to:
 
   * **Conform to the edicts of the law or comply with a legal process served on ICDSoft's site.**
   * **Protect and defend the rights or property of our site, or its visitors.**
@@ -61,6 +61,8 @@ ICDSoft will disclose personal information when required by law or in the good-f
   * **Cooperate with the investigations of purported unlawful activities.**
 
 
+
+ICDSoft will never use your name, account data, your trademark, or any data related to the hosting account, to advertise our own hosting services in any way. An exception to this could be cases in which we receive your explicit consent on this. Except in the cases listed above, ICDSoft will not provide to third parties information whether a certain party is our customer or not. Please have in mind that information about the hosting service of a site could be obtained from other sources, such as the site IP address and its owner/maintainer.
 
 * * *
 
