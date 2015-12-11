@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marketingeye.com.au privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611032638id_/http%3A//www.marketingeye.com.au/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marketingeye.com.au privacy policy that was archived on 2015-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151211201111id_/http%3A//www.marketingeye.com.au/privacy.html) for the most accurate reproduction.*
 
 # Privacy - Marketing Eye
 
@@ -18,16 +18,12 @@ If you have any questions regarding our privacy policy, please [contact us](http
 
 ### Latest Blogs
 
-  * #### [Why your narrative has to change](http://www.marketingeye.com.au/marketing-blog/mellissah-smith/why-your-narrative-has-to-change.html)
+  * [ Read more... ](http://www.marketingeye.com.au/marketing-blog/culture/what-not-to-do-at-your-company-s-christmas-party.html)
+  * #### [Life is full of twists](http://www.marketingeye.com.au/marketing-blog/mellissah-smith/life-is-full-of-twists.html)
 
-I've recently changed the narrative of my business. It's not something I took lightly. Re-defining what value you provide to the market place can be game-changing, or business destroying. If you look at Uber for instance, they could have failed, but… 
+Christmas is coming closer and there have been a lot of party invites. I have mostly opted out as I don't have the "missing out syndrome" (FOMO) and know that as you get older, there is only so much casual… 
 
-[ Read more... ](http://www.marketingeye.com.au/marketing-blog/mellissah-smith/why-your-narrative-has-to-change.html)
-  * #### [Why you must look at new markets for brand traction](http://www.marketingeye.com.au/marketing-blog/marketing/brand-positioning-in-new-markets.html)
-
-The rise of video gaming as a lucrative, commercial industry should be enough to have advertisers banging down the doors of gaming companies. It seems, however that, brand positioning within the gaming community isn’t high on their agenda. Perhaps this… 
-
-[ Read more... ](http://www.marketingeye.com.au/marketing-blog/marketing/brand-positioning-in-new-markets.html)
+[ Read more... ](http://www.marketingeye.com.au/marketing-blog/mellissah-smith/life-is-full-of-twists.html)
   * 
 
 
