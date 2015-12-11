@@ -1,558 +1,347 @@
-<!--The following is the downloaded HTML source of the mozenda.com privacy policy that was archived on 2015-02-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150216091052id_/http%3A//www.mozenda.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mozenda.com privacy policy that was archived on 2015-12-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151211224955id_/https%3A//www.mozenda.com/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><!--<![endif]--><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-	<title>Screen Scraping, Data Scraping, Data Extraction Software | Mozenda</title>
-	<meta name="description" content="The Mozenda screen scraper provides web data extraction software and data scraping tools that make it easy to capture content from the web">
-	<meta name="keywords" content="Screen Scraping, Data Scraping, Data Extraction">
-	<link rel="Stylesheet" type="text/css" href="/Company2/Css/Common.css"><link rel="Stylesheet" type="text/css" href="/Company2/Css/Header.css"><link rel="Stylesheet" type="text/css" href="/Company2/Css/Billing.css"><link rel="Stylesheet" type="text/css" href="/Company2/Css/Layout.css"><link rel="Stylesheet" type="text/css" href="/Company2/Css/Content.css"><link rel="Stylesheet" type="text/css" href="/Company2/Css/SignUp.css"><link rel="Stylesheet" type="text/css" href="/Company2/Css/Login.css"><link rel="Stylesheet" type="text/css" href="/Company2/Css/FreeSignUp.css"><link rel="Stylesheet" type="text/css" href="/Company2/Css/RequestInfo.css"><link rel="Stylesheet" type="text/css" href="/Company2/Css/3rdParty/jquery-ui-1.10.3.min.css"><link rel="Stylesheet" type="text/css" href="/Company2/Css/Solutions.css"><link rel="Stylesheet" type="text/css" href="/Company2/Css/Footer.css"><link href="//fonts.googleapis.com/css?family=Open+Sans:400italic,400,600,700" rel="stylesheet" type="text/css"><link rel="shortcut icon" href="/Company2/Images/MozendaShortcut.ico">		
-		<!--<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.4.1/jquery.min.js"></script>-->
-		<script type="text/javascript" src="https://pi.pardot.com/pd.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
-		<script type="text/javascript" src="/Company2/JavaScript/Common.js"></script>
-		<script type="text/javascript" src="/Company2/JavaScript/RadioButtonFix.js"></script>
-		<script type="text/javascript" src="/Company2/JavaScript/DropDownMenu.js"></script>
-		<script type="text/javascript" src="/Company2/JavaScript/RequestInfo.js"></script>
-		<script type="text/javascript" src="/Company2/JavaScript/RequestDemo.js"></script>
-		<script type="text/javascript" src="/Company2/JavaScript/RequestEnterprisePricing.js"></script>
-		<script type="text/javascript" src="/Company2/JavaScript/RequestConsultation.js"></script>		
-		<script type="text/javascript" src="/Company2/JavaScript/FreeSignUp.js"></script>
-		<script type="text/javascript" src="/Company2/JavaScript/3rdParty/jquery-ui-1.10.3.min.js"></script>
-		<script type="text/javascript" src="/Company2/JavaScript/3rdParty/jquery.easing.1.3.js"></script>
-		<script type="text/javascript" src="/Company2/JavaScript/3rdParty/jquery.ddmenu.js"></script>
-		<script type="text/javascript" src="/Company2/JavaScript/3rdParty/jquery.cookie-1.4.0.js"></script>
-		<script type="text/javascript" src="/Company2/JavaScript/3rdParty/rollover.js"></script>
-		<script type="text/javascript" language="javascript">
-			$().ready(function() {
-				$('#ddmenu li').bind('mouseover', ddmenu_mouseover)
-				IMG.rollover.init();
-				SetTextBoxHints($("#loginEmail"),"email address");
-				//SetTextBoxHints($("#loginPassword"), "password");
-				});
-				
-			document.onclick = ddmenu_hide;
-			var activePage = '';	
-			var activeNav = '';
-			  
-			function activelogin(me){
-				me.style.marginLeft = 0;
-				me.style.background = 'transparent';
-				me.style.width = '130px';
-				}
+<!DOCTYPE html><html lang="en-US" prefix="og: http://ogp.me/ns#"><head>
 
-			function setNav(setPage)
-				{
-				activePage = setPage;
-				activeNav = "#Nav" + setPage;
-				var navImageSrc = "/Company2/Images/Nav" + setPage + "_o.png";
-				$(activeNav).removeClass('ro');
-				$(activeNav).attr('src', navImageSrc);
-				}          	
-		  function SetTextBoxHints(textBox, defaultText)
-				{
-				var textVal = textBox.val();
-				if (textVal == "")
-					{
-						textBox.val(defaultText);
-						textBox.css('color', '#C0C0C0');
-					}
-					else if (textVal == defaultText)
-					{
-						textBox.css('color', '#C0C0C0');
-					}
-					else
-					{
-						textBox.css('color', '#666666');
-					}
-				}
-				
-				function clearText(ctrl,defaultText) {
-					 if(ctrl.value == defaultText)
-						  ctrl.value = "";
-					 ctrl.style.color = "#666666";
-					 if(defaultText == "password")
-						  ctrl.type = "password";
-				}
-				
-				function resetText(ctrl,defaultText) {
-					 if(ctrl.value == "")
-					 {
-						  ctrl.value = defaultText;
-						  ctrl.style.color = "#C0C0C0";
-						  ctrl.type = "text";
-					 }
-				}
-				
-				function switchto(q){
-					 if (q){
-						  $('#loginPasswordtext').css('display','none');
-						  $('#loginPassword').css('display','inline');
-						  $('#loginPassword').focus();
-					 } else {
-						  $('#loginPassword').css('display','none');
-						  $('#loginPasswordtext').css('display','inline');
-					 }
-				}
 
-				function downloadPop(downloadURL){
-					 var fullURL = '/DownloadPop?' + downloadURL;
-					 Shadowbox.open({
-						  content:    fullURL,
-						  player:     "iframe",
-						  height:     600,
-						  width:      800
-					 });
-					 return true;
-				}
+  <meta charset="UTF-8">
+  <meta http-equiv="Content-Type" content="text/html; UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="google-site-verification" content="5-4OMFt-DcaGUyzikjWFJ9TTmUcgPjEqwVRYlgkWrOU">
 
-				function startDownload(downloadURL) {
-					var iframe = $("<iframe>").hide()
-						.attr("src", downloadURL);
-					$(document.body).append(iframe);
-				}
-		 
-		  </script>
-		
-	
-			<!-- Google analytics code - should be last item before <title>
-	Data Extraction, Web Screen Scraping Tool, Mozenda Scraper
-</title></head> -->
+  <link rel="profile" href="http://gmpg.org/xfn/11">
+  <link rel="pingback" href="https://www.mozenda.com/xmlrpc.php">
+
+  <link rel="stylesheet" href="https://www.mozenda.com/wp-content/themes/mozenda/fonts/stylesheet.css">
+  <link rel="stylesheet" href="https://www.mozenda.com/wp-content/themes/mozenda/css/colorbox.css">
+  <link rel="stylesheet" href="https://www.mozenda.com/wp-content/themes/mozenda/css/jquery.bxslider.css">
+
+  <title>Mozenda Privacy Policy 1-801-995-4550</title>
+
+<!-- This site is optimized with the Yoast WordPress SEO plugin v2.1.1 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta name="description" content="We understand the importance of privacy and accordingly, treat all information received in a responsible manner.">
+<link rel="canonical" href="https://www.mozenda.com/privacy-policy/">
+<meta property="og:locale" content="en_US">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Mozenda Privacy Policy 1-801-995-4550">
+<meta property="og:description" content="We understand the importance of privacy and accordingly, treat all information received in a responsible manner.">
+<meta property="og:url" content="https://www.mozenda.com/privacy-policy/">
+<meta property="og:site_name" content="Marketing Mozenda Blog">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:description" content="We understand the importance of privacy and accordingly, treat all information received in a responsible manner.">
+<meta name="twitter:title" content="Mozenda Privacy Policy 1-801-995-4550">
+<meta name="twitter:domain" content="Marketing Mozenda Blog">
+<script async="" src="//www.google-analytics.com/analytics.js"></script><script type="application/ld+json">{"@context":"http:\/\/schema.org","@type":"WebSite","url":"https:\/\/www.mozenda.com\/","name":"Marketing Mozenda Blog"}</script>
+<!-- / Yoast WordPress SEO plugin. -->
+
+<link rel="alternate" type="application/rss+xml" title="Marketing Mozenda Blog » Feed" href="https://www.mozenda.com/feed/">
+<link rel="alternate" type="application/rss+xml" title="Marketing Mozenda Blog » Comments Feed" href="https://www.mozenda.com/comments/feed/">
+<link rel="alternate" type="application/rss+xml" title="Marketing Mozenda Blog » Privacy Policy Comments Feed" href="https://www.mozenda.com/privacy-policy/feed/">
 		<script type="text/javascript">
-			(function (i, s, o, g, r, a, m)
-			{
-				i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function ()
-				{
-					(i[r].q = i[r].q || []).push(arguments)
-				}, i[r].l = 1 * new Date(); a = s.createElement(o),
-				m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
-			})(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"https:\/\/www.mozenda.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.2.5"}};
+			!function(a,b,c){function d(a){var c=b.createElement("canvas"),d=c.getContext&&c.getContext("2d");return d&&d.fillText?(d.textBaseline="top",d.font="600 32px Arial","flag"===a?(d.fillText(String.fromCharCode(55356,56812,55356,56807),0,0),c.toDataURL().length>3e3):(d.fillText(String.fromCharCode(55357,56835),0,0),0!==d.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script><script src="https://www.mozenda.com/wp-includes/js/wp-emoji-release.min.js?ver=4.2.5" type="text/javascript"></script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel="stylesheet" id="uiboilerplate-style-css" href="https://www.mozenda.com/wp-content/themes/mozenda/style.css?ver=4.2.5" type="text/css" media="all">
+<link rel="stylesheet" id="jetpack_css-css" href="https://www.mozenda.com/wp-content/plugins/jetpack/css/jetpack.css?ver=3.5.3" type="text/css" media="all">
+<script type="text/javascript" src="https://www.mozenda.com/wp-includes/js/jquery/jquery.js?ver=1.11.2"></script>
+<script type="text/javascript" src="https://www.mozenda.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1"></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.mozenda.com/xmlrpc.php?rsd">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.mozenda.com/wp-includes/wlwmanifest.xml"> 
+<link rel="shortlink" href="https://wp.me/P6lvvJ-U">
+<style type="text/css">img#wpstats{display:none}</style><style type="text/css" id="syntaxhighlighteranchor"></style>
 
-			//ga('create', 'UA-4406435-1', 'mozenda.com');
-			ga('create', 'UA-4406435-1', { 'cookieDomain': 'none' });
-			ga('send', 'pageview');
+<style id="custom-css-css">/*
+Welcome to Custom CSS!
+
+To learn how this works, see http://wp.me/PEmnE-Bt
+*/</style>
+
+	<link rel="apple-touch-icon" href="https://www.mozenda.com/wp-content/themes/mozenda/img/apple-touch-icon.png">
+	<link type="img/png" rel="icon" href="https://www.mozenda.com/wp-content/themes/mozenda/img/favicon.ico">
+
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-4406435-1', 'auto');
+  ga('send', 'pageview');
 
 </script>
 
-<!-- Pardot Code -->
+
+</head>
+<body class="page page-id-56 page-template-default page-privacy-policy group-blog">
+
+<!--[if lt IE 8]>
+  <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+<![endif]-->
+
+  <header>
+
+    <a class="link-phone" href="tel:18019954550">
+      <i class="icon icon-telephone"></i>
+      801.995.4550
+    </a>
+    <a class="btn" href="https://accounts.mozenda.com/signup">Try Mozenda</a>
+    <a class="link-login" href="http://accounts.mozenda.com">Login</a>
+
+    <a href="https://www.mozenda.com/" class="logo floating-content">
+      <img src="https://www.mozenda.com/wp-content/themes/mozenda/img/logo.png" alt="Mozenda" title="Mozenda">
+    </a>
+
+    <div class="mobile-nav-toggle">
+      <button type="button" class="toggle">
+          <span class="bar"></span>
+          <span class="bar"></span>
+          <span class="bar"></span>
+      </button>
+    </div>
+
+    <div class="menu-main-menu-container"><ul id="menu-main-menu" class="nav floating-content"><li id="menu-item-13" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13"><a href="https://www.mozenda.com/why-mozenda/">Why Mozenda</a></li>
+<li id="menu-item-12" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12"><a href="https://www.mozenda.com/product/">Product</a></li>
+<li id="menu-item-59" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-59"><a href="https://www.mozenda.com/services/">Services</a></li>
+<li id="menu-item-58" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-58"><a href="https://www.mozenda.com/company/">Company</a></li>
+<li id="menu-item-57" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-57"><a href="https://www.mozenda.com/blog/">Blog</a></li>
+</ul></div>      
+
+  </header>
+
+  
+  <section class="rows hero">
+    <div class="container">
+      <div class="section-header">
+        <h1>Privacy Policy</h1>
+        <span>Effective June 1, 2015</span>
+      </div>
+    </div>
+  </section> <!-- /.hero -->
+
+  <section class="rows content">
+    <div class="container">
+      <div class="section-content">
+        <p>This Privacy Policy (the “Policy” or “Privacy Policy”) covers Mozenda, Inc. (“Mozenda”, “we”, “us”, or “our”) and describes the types of information we gather from people visiting www.mozenda.com (the “Site”) and from individual users interacting with the applications we provide to third parties and how we use such information. We understand the importance of privacy and accordingly, treat all information received in a responsible manner. By accessing the Site, you agree to be bound by this Policy. If you do not agree to the terms of this Policy, please do not use the Site or our Services. Each time you use the Site or Services, the current version of the Privacy Policy will apply. Accordingly, when you use the Site or Services, you should check the date of this Policy (which appears at the top) and review any changes since the last version.</p>
+<h4>Types Of Information We Collect</h4>
+<p>Mozenda may collect two types of information from users of our Site: “personal information” which is information that can be used to locate you, contact you, or determine your specific identity (such as name, e-mail address, mailing address, phone number, etc.) and “aggregate information” which is information about your activities on the Site or in connection with the Services that cannot be used to identify, locate, or contact you (such as frequency of visits to the Site, data entered when using the Site, Site pages most frequently accessed, browser type, etc.).</p>
+<h4>Collecting Your Personal Information</h4>
+<p>Mozenda collects personal information that is voluntarily provided when a user on our Site creates an account or logs in to their account. Specifically, when you sign up for an account, we ask you for your name, email address, and business information, among other information. This information is used to assist us in helping you select the appropriate service package. Mozenda also collects and stores information about our user’s use of the Site and our Services, including page scraping activities, so that information gathered by a user through our Site or Services can be served up each time a user logs in to the Site.</p>
+<h4>Collecting Your Aggregate Information</h4>
+<p>Aggregate information is collected as you visit our Site or interact with our Services even if you do not enter any information. Generally, aggregate information is used in a collective manner, and no single person can be identified by that compiled information. Mozenda uses aggregate information to provide its Services, as well as to determine the use of our Site and to monitor, audit and analyze information pertaining to our business metrics.</p>
+<h4>Sharing, Selling and Trading of Your Personal Information with Third Parties</h4>
+<p>Mozenda on occasion, may share personal information with third party service providers as we deem necessary for the third party to fulfill their duties, such as fulfilling orders, processing credit card payments, or other functions necessary to our business. These third party service providers are not authorized to retain, share, store or use your personal information for any purposes other than to provide the Services for which they have been hired to provide. When you submit your personal information, you also agree that we may use your personal information to contact you by email, telephone, cell phone, direct mail, or text message about certain offers made available by us or third parties that we believe you might be interested in based on information you have provided to us. We do not sell, trade or otherwise share your personal information with unrelated third parties for their own marketing purposes, however, we may market certain offers to you on behalf of third parties we determine you might be interested in.</p>
+<p>We use your personal and aggregate information in an effort to improve your experience on the Site and with the Services, and to communicate with you about information that you request. We may also use this information to help us target specific Services or offers to you, to help us develop and improve the Site and Services, and to tailor our Site and Services to your interests.</p>
+<h4>Sharing, Selling and Trading Aggregate Information Collected Online with Third Parties</h4>
+<p>We may use aggregate information to improve the Site and Services, to monitor traffic and general usage patterns, and for other general business purposes. We may disclose aggregate information to third parties for a variety of business reasons, including to potential investors so that they may better understand our user base, etc. Aggregate information will not include any personal information and we will not disclose any personal information except as expressly stated elsewhere in this Policy.</p>
+<h4>Other Instances When We Share Your Information</h4>
+<p>In addition to the foregoing, Mozenda may elect to share or transfer your personal information to unrelated third parties: (i) to comply with a legal requirement, judicial proceeding, court order, or legal process served on Mozenda, (ii) to investigate a possible crime, such as fraud or identity theft; (iii) in connection with the sale, purchase, merger, reorganization, liquidation or dissolution of Mozenda; (iv) when we believe it is necessary to protect the rights, property, or safety of Mozenda or other persons, or (v) as otherwise required or permitted by law.</p>
+<h4>Cookies</h4>
+<p>If you do not provide us any of your personal information, we are limited in the information we may collect from you. For example, we may be able to determine your IP address for the purposes of administering the Site and tracking Site usage. However, your IP address may vary each time you visit or it may remain the same depending on the type of Internet connection you are using or the location from which you access the Site. We may also collect information about the websites that directed you to the Site after you clicked on a text or banner link or an ad from another website, or the day and time you visited the Site and how long you spent on the Site. We aggregate such information to help us to compile reports as to trends and other behavior about users visiting our Site; however such information is anonymous and cannot be tied directly to you.</p>
+<p>We may also use “cookies” and your personal information to enhance your experience on the Site and with the Services and to provide you with personalized offers. A cookie is a small data file placed on your computer’s hard drive that contains information that allows us to track your activity on the Site. The cookie itself does not contain any personal information; however, if you provide us any personal information the cookie may act as an identifier to tie your personal information to your IP address or computer. You may choose to delete cookies from your computer’s hard drive at any time or to disable cookies on your computer. If you delete cookies that relate to the Site, we may not be able to identify you upon your return to the Site. Additionally, if you disable your computer’s cookies, you may not be able to access certain features of the Site or Services that require that cookies be enabled. The Site’s cookies cannot be used to read data from your hard drive and cannot retrieve information from any other cookies created by other websites. Additionally, our cookies cannot be used as a virus, Trojan horse, worm, or any other malicious tool that could impair your use of your computer. Our cookies are used to help us better understand how you and other users use the Site so we can continue to provide a better, more personalized user experience on the Site. We also share website usage information about our Site with those interested in running targeted promotional campaigns on the Site. For this purpose, we and our advertisers track some of the pages that you visit on the Site through the use of pixel tags (also called clear gifs).</p>
+<h4>Security Pertaining to Your Information</h4>
+<p>We take appropriate security measures to protect against unauthorized access to or unauthorized alteration, disclosure or destruction of data. These include internal reviews of our data collection, storage and processing practices and security measures, as well as physical security measures to guard against unauthorized access to systems where we store personal data.</p>
+<p>We restrict access to personal information to Mozenda employees, service providers and agents who need to know that information in order to operate, develop or improve our Services. These individuals are bound by confidentiality obligations and may be subject to discipline, including termination and criminal prosecution, if they fail to meet these obligations. We use secure socket layer (“SSL”) technology to encrypt and protect the security of your personal information, including but not limited to your credit card number, when it is sent over the Internet. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to protect your personal information, we cannot guarantee its absolute security.</p>
+<h4>Integrity of Your Data</h4>
+<p>Mozenda processes personal information only for the purposes for which it was collected and in accordance with this Policy. We review our data collection, storage and processing practices to ensure that we only collect, store and process the personal information needed to provide or improve our Services. We take reasonable steps to ensure that the personal information we process is accurate, complete, and current, but we depend on our users to update or correct their personal information whenever necessary.</p>
+<h4>Children and Privacy</h4>
+<p>Our Site is not directed to children and we will not request personally identifiable information from anyone who we know to be under the age of 18, unless we have obtained verifiable parental consent from a parent or legal guardian. If we become aware that a user under the age of 13 has registered with our Site, provided personal information, and Mozenda has not obtained prior verifiable consent from a parent or legal guardian, we will immediately remove the user’s personal information from our files.</p>
+<h4>Links to Other Websites</h4>
+<p>The Site may contain links to websites operated by other people or companies. Those websites may have their own privacy policy or no privacy policy at all. Mozenda does not have any responsibility for those websites, and we provide the links solely for the convenience of our visitors.</p>
+<h4>Business Transfers</h4>
+<p>In the event that Mozenda sells substantially all of its assets, or one of Mozenda’s business units is acquired, personal information of visitors to the Site and aggregate information will likely be one of the transferred assets.</p>
+<h4>Changes to this Policy</h4>
+<p>We may change this Privacy Policy at any time and without prior notice, by posting the revised version of this Policy on our Site. Your continued use of the Site and/or Services indicates your consent to our collection of and use of your personal and aggregate information under the then current Policy.</p>
+<h4>Corrections/Information Removal/Opt-Out</h4>
+<p>If your name, e-mail or postal address, telephone number or other personal information changes, you may update, correct or omit the relevant information by contacting Mozenda customer service at <a href="mailto:support@Mozenda.com">support@Mozenda.com</a>. If you prefer not to receive newsletters or other marketing e-mails from Mozenda, please let us know by clicking on the unsubscribe link within any newsletter or marketing e-mail you receive. If you prefer not to receive marketing mail via the mail carrier, please let us know by contacting customer service at <a href="mailto:support@Mozenda.com">support@Mozenda.com</a>. Please be sure to include in any e-mail your full name, e-mail address, and any message. Please note that such requests may take up to ten (10) days to become effective.</p>
+<h4>Contact Us</h4>
+<p>If you have any questions or concerns about this Policy, please feel free to contact us any time at:</p>
+<div class="contact">
+<p>Mozenda, Inc.</p>
+<p>4626 N. 300 W. STE 360, Provo, UT 84604</p>
+<p><a href="mailto:support@Mozenda.com">support@Mozenda.com</a></p>
+</div>
+      </div>
+    </div>
+  </section> <!-- /.content -->
+
+
+
+  <section class="rows request-info-form">
+    <div class="container">
+      <div class="column-1">
+        <h2>Need more information?</h2>
+        <p></p><p>We are anxious to answer any questions you may have about our products and services.  Please feel free to send us a request and we will respond immediately. </p>
+<p></p>
+      </div>
+
+      <div class="column-2">
+        <form id="contact-form">
+          <div class="form-col-1">
+            <input class="first-name-field" type="text" placeholder="First name *" minlength="2" required="">
+            <input class="last-name-field" type="text" placeholder="Last name *" minlength="2" required="">
+            <input class="company-field" type="text" placeholder="Company *" minlength="2" required="">
+            <input class="job-title-field" type="text" placeholder="Job Title *" required="">
+          </div>
+          <div class="form-col-2">
+            <input class="email-field" type="email" placeholder="Email *" required="">
+            <input class="phone-number-field" type="tel" placeholder="Phone Number *" required="">
+            <textarea class="comments-field" name="comments" id="" cols="30" rows="10" placeholder="Comments *" required=""></textarea>
+            <input class="hidden-ip-address" type="hidden" value="207.241.237.220">
+            <input type="hidden" class="hidden-lead-form" value="info">
+            <input class="btn" type="submit" value="Request Info" onclick="_gaq.push(['_trackEvent','Request Info Footer Form', 'clicked', 'Submit Request Info Form'])">
+          </div>
+        </form>
+      </div>
+    </div>
+  </section> <!-- /.request-info-form -->
+
+  <footer class="rows footer">
+    <div class="container">
+
+      <div class="column-2">
+    		<div class="menu">
+    			<h3>Learn More</h3>
+          <hr class="gray-hr">
+    			<div class="menu-learn-more-container"><ul id="menu-learn-more" class="footer-nav"><li id="menu-item-14" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-14"><a href="/help">Help Center</a></li>
+<li id="menu-item-15" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-15"><a href="/forums">Forum</a></li>
+<li id="menu-item-801" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-801"><a href="https://www.mozenda.com/glossary/">Glossary</a></li>
+<li id="menu-item-16" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-16"><a href="/api">API</a></li>
+<li id="menu-item-17" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-17"><a href="http://status.mozenda.com/">System Status</a></li>
+<li id="menu-item-18" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-18"><a href="/training">Training Videos</a></li>
+</ul></div>    		</div>
+    		<div class="menu">
+    			<h3>Privacy &amp; Terms</h3>
+          <hr class="gray-hr">
+    			<div class="menu-privacy-terms-container"><ul id="menu-privacy-terms" class="footer-nav"><li id="menu-item-68" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-56 current_page_item menu-item-68"><a href="https://www.mozenda.com/privacy-policy/">Privacy Policy</a></li>
+<li id="menu-item-67" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-67"><a href="https://www.mozenda.com/terms-and-conditions/">Terms and Conditions</a></li>
+</ul></div>    		</div>
+    	</div> <!-- /.column-2 -->
+
+      <div class="column-1">
+        <ul class="social-icons">
+          <li>
+            <a href="https://www.facebook.com/mozenda" target="_blank" class="facebook">Facebook</a>
+          </li>
+          <li>
+            <a href="https://twitter.com/mozenda" target="_blank" class="twitter">Twitter</a>
+          </li>
+          <li>
+            <a href="https://www.linkedin.com/company/mozenda" target="_blank" class="linkedin">Linkedin</a>
+          </li>
+        </ul>
+
+        <ul class="contact-info">
+          <li>801.995.4550</li>
+          <li>4626 N 300 W Ste 360</li>
+          <li>Provo, UT 84604</li>
+          <li>
+            <a href="mailto:support@mozenda.com">support@mozenda.com</a>
+          </li>
+        </ul>
+
+        <p class="copyright">© 2015 Mozenda. All Rights Reserved.</p>
+      </div> <!-- /.column-1 -->
+
+    </div> <!-- /.container -->
+  </footer>
+
+  <div style="display:none">
+    <div id="results"><p>Thanks for your submission.</p></div>
+    <div id="quote-modal">
+      <div class="quote-info">
+        <div class="quote-image"></div>
+        <div class="quote-text">
+        </div>
+      </div>
+      <div class="quote-form">
+        <form id="modal-form">
+          <div class="form-container">
+            <input class="first-name-field" type="text" placeholder="First name *" minlength="2" required="">
+            <input class="last-name-field" type="text" placeholder="Last name *" minlength="2" required="">
+            <input class="email-field" type="email" placeholder="Email *" required="">
+            <input class="company-field" type="text" placeholder="Company *" minlength="2" required="">
+            <input class="job-title-field" type="text" placeholder="Job Title *" required="">
+            <input class="phone-number-field" type="tel" placeholder="Phone Number *" required="">
+            <textarea class="comments-field" name="comments" id="" cols="30" rows="10" placeholder="Comments *" minlength="2" required=""></textarea>
+            <input type="hidden" class="hidden-ip-address" value="207.241.237.220">
+            <input type="hidden" id="lead-form" class="hidden-lead-form" value="">
+            <input type="hidden" class="file-url" value="">
+            <input class="btn" id="submit" type="submit" value="Submit">
+          </div>
+        </form>
+      </div>
+    </div>
+    <div id="thanks-container"></div>
+  </div>
+
+  <script>
+	if (typeof jQuery === 'undefined') { // WordPress didn't already load jquery, so we must load it.
+		document.write(unescape('%3Cscript%20src%3D%22https://ajax.googleapis.com/ajax/libs/jquery/2.1.0/jquery.min.js%22%3E%3C/script%3E'));
+	}
+	else { // jQuery was already loaded by WordPress, but it loads in noConflict mode, so assign jQuery to $ so that theme code will work.
+		$ = jQuery;
+	}
+  </script><script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.0/jquery.min.js"></script>
+  
+  <script type="text/javascript" src="https://www.mozenda.com/wp-content/themes/mozenda/js/lib/jquery.colorbox-min.js"></script>
+  <script type="text/javascript" src="https://www.mozenda.com/wp-content/themes/mozenda/js/lib/jquery.bxslider.min.js"></script>
+  <script type="text/javascript" src="https://www.mozenda.com/wp-content/themes/mozenda/js/main.js"></script>
+
+  
+<!-- Google Code for Remarketing Tag -->
+<!--------------------------------------------------
+Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. See more information and instructions on how to setup the tag on: http://google.com/ads/remarketingsetup
+--------------------------------------------------->
 <script type="text/javascript">
-	piAId = '36212';
-	piCId = '1664';
-
-	(function ()
-	{
-		function async_load()
-		{
-			var s = document.createElement('script'); s.type = 'text/javascript';
-			s.src = ('https:' == document.location.protocol ? 'https://pi' : 'http://cdn') + '.pardot.com/pd.js';
-			var c = document.getElementsByTagName('script')[0]; c.parentNode.insertBefore(s, c);
-		}
-		if (window.attachEvent) { window.attachEvent('onload', async_load); }
-		else { window.addEventListener('load', async_load, false); }
-	})();
+/* <![CDATA[ */
+var google_conversion_id = 1056222251;
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
 </script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1056222251/?value=0&amp;guid=ON&amp;script=0"/>
+</div>
+</noscript>
 
 
-
-
-
-
-
-		</head>
-	<body>
-		
-		<div class="wrapper">
-			<div class="wrapper-page">
-				
-
-<div class="header">
-
-	<div class="logoblock">
-		<a href="/default"><img src="/Company2/Images/Logo.png" style="float:left;"></a>
-		<div style="float:right">
-			<!--<img src="/Company2/Images/TopPhone.png" style="margin-top:25px; margin-bottom:0px;" />-->
-			<div class="header-phoneNumber">+1-801-995-4550</div>
-			<br>
-			<div class="header-buttons">
-				<div class="header-demoBtn" id="HeaderRequestDemoBtn"></div>
-				<div class="header-buyBtn" onclick="window.location='/pricing';"></div>
-					
-						<div class="header-tryBtn" id="HeaderFreeSignUpBtn"></div>
-						
-				
-				</div>
-			</div>
-		</div>
-	<ul id="ddmenu">
-		<li menuitemname="home" style="width:80px; background-image:url(/Company2/Images/NavHome.png);"><a href="/default" id="NavHome"></a></li>
-		<li menuitemname="tour" style="width:79px; background-image:url(/Company2/Images/NavTour.png);"><a href="/tour01-overview" "="" id="NavTour"></a>
-				<ul menuitemname="tour-childmenu">
-					<li><img src="/Company2/Images/NavDropdownLcap.png"></li>
-					<li menuitemname="tour-product"><a href="/tour01-overview">Product Tour</a></li>
-					<li menuitemname="tour-videos"><a href="/video01-overview">Videos</a></li>		
-					<li menuitemname="tour-uses"><a href="/usecases">Use Cases</a></li>
-					<li menuitemname="tour-help"><a href="/tour-support">Support &amp; API</a></li>
-					<li><img src="/Company2/Images/NavDropdownRcap.png"></li>
-					</ul>
-			</li>
-		<li menuitemname="products" style="width:118px; background-image:url(/Company2/Images/NavProducts.png);"><a href="/products" id="NavProducts"></a>
-			<ul menuitemname="products-childmenu">
-					<li><img src="/Company2/Images/NavDropdownLcap.png"></li>
-					<li menuitemname="products-products"><a href="/products">Software</a></li>
-					<li menuitemname="products-features"><a href="/features">Features</a></li>
-					<li menuitemname="products-pricing"><a href="/pricing">Pricing</a></li>
-					<li menuitemname="products-services"><a href="/managed-service">Services</a></li>
-					
-					<li><img src="/Company2/Images/NavDropdownRcap.png"></li>
-					</ul>
-			</li>
-		<li menuitemname="support" style="width:110px; background-image:url(/Company2/Images/NavSupport.png);"><a href="/contact-us" id="NavSupport"></a>
-				<ul menuitemname="support-childmenu">
-					<li><img src="/Company2/Images/NavDropdownLcap.png"></li>
-					<li menuitemname="support-help"><a href="/help">Help Center</a></li>
-					<li menuitemname="support-forums"><a href="/forums">Forums</a></li>
-					<li menuitemname="support-faq"><a href="/faqs">FAQ</a></li>
-                    <li menuitemname="glossary"><a href="/glossary">Glossary</a></li>
-					<li menuitemname="support-api"><a href="/api">API</a></li>
-					<li menuitemname="support-contact"><a href="/contact-us">Contact Us</a></li>
-					<li><img src="/Company2/Images/NavDropdownRcap.png"></li>
-					</ul>
-			</li>
-
-		<li menuitemname="training" style="width:85px; background-image:url(/Company2/Images/Navtraining.png);"><a href="/training" id="A1"></a></li>
-
-
-		
-
-
-		<li class="header-login"><img src="/Company2/Images/NavRcap.png" style="float:right">
-			<div class="login-form">
-			<form method="post" action="https://mozenda.com/login">
-				
-						<div class="login-form-inputs">
-							<div class="header-login-email-input">
-								<input tabindex="1" name="loginEmail" id="loginEmail" type="text" class="header-login-textbox" onfocus="clearText(this,'email address');" onblur="resetText(this,'email address');" style="width:163px; outline:none;">
-								</div>
-							<div class="header-login-input">
-								<input tabindex="2" name="loginPasswordtext" id="loginPasswordtext" type="text" class="header-login-textbox" style="color:#C0C0C0" onfocus="switchto(1)" value="password">
-								<input name="loginPassword" id="loginPassword" value="" type="password" class="header-login-textbox" onblur="if (this.value=='')switchto(0)" style="display:none; width:133px; outline:none;" tabindex="3">
-								</div>
-							<input type="image" src="/Company2/Images/NavLoginEn.png" onmouseover="this.src='/Company2/Images/NavLoginDo.png'" onmouseout="this.src='/Company2/Images/NavLoginEn.png'" align="top" style="float:right;">
-							</div>
-						
-			</form>
-			</div>
-
-			</li>
-	</ul>
-		  <div style="width:100%; height:22px; background-image:url('/Company2/Images/NavShadow.png'); background-position:top; background-repeat:no-repeat; float:left; padding-top:2px; text-align:right;">
-		  
-		  <div style="color:#2A71B7; font-size:12px; display:inline;">
-					
-						<div style="margin-top: 2px; vertical-align: middle; text-align: right;">
-							<input tabindex="3" style="vertical-align: middle;" name="loginRememberMe" id="loginRememberMe" type="checkbox" title="Remember me">
-							<label style="vertical-align: middle; cursor: pointer; font-size:12px; color:#666666; margin-right:0px;" for="loginRememberMe">Remember me</label>
-							</div>
-						
-			  </div>
-		</div>
+  	<div style="display:none">
 	</div>
-				<div class="content" onmouseover="DropDownMenuHideAll();">
-					<div class="content-inner">
-						
-	<div class="full">
-		
-
-<div class="policies">
-	<h2 class="pink">Mozenda Privacy Policy</h2>
-	Effective August 30, 2011	
-	<br><br>
-	This Privacy Policy (the “Policy” or “Privacy Policy”) covers Mozenda, Inc. (“Mozenda”, “we”, “us”, or “our”) and describes the types of information we gather from people visiting www.mozenda.com (the “Site”) and from individual users interacting with the applications we provide to third parties and how we use such information. We understand the importance of privacy and accordingly, treat all information received in a responsible manner. By accessing the Site, you agree to be bound by this Policy. If you do not agree to the terms of this Policy, please do not use the Site or our services. Each time you use the Site or services, the current version of the Privacy Policy will apply. Accordingly, when you use the Site or services, you should check the date of this Policy (which appears at the top) and review any changes since the last version. 
-	<br><br>
-<h3>Types Of Information We Collect </h3>
-Mozenda may collect two types of information from users of our Site: “personal information” which is information that can be used to locate you, contact you, or determine your specific identity (such as name, e-mail address, mailing address, phone number, etc.) and “aggregate information” which is information about your activities on the Site or in connection with the services that cannot be used to identify, locate, or contact you (such as frequency of visits to the Site, data entered when using the Site, Site pages most frequently accessed, browser type, etc.). 
-<br><br>
-<h3>Collecting Your Personal Information</h3>
-Mozenda collects personal information that is voluntarily provided when a user on our Site creates an account or logs in to their account. Specifically, when you sign up for an account, we ask you for your name, email address, and business information, among other information. This information is used to assist us in helping you select the appropriate service package. Mozenda also collects and stores information about our user’s use of the Site and our services, including page scraping activities, so that information gathered by a user through our Site or services can be served up each time a user logs in to the Site.
-<br><br>
-<h3>Collecting Your Aggregate Information</h3>
-Aggregate information is collected as you visit our Site or interact with our services even if you do not enter any information. Generally, aggregate information is used in a collective manner, and no single person can be identified by that compiled information. Mozenda uses aggregate information to provide its services, as well as to determine the use of our Site and to monitor, audit and analyze information pertaining to our business metrics. 
-<br><br>
-<h3>Sharing, Selling and Trading of Your Personal Information with Third Parties</h3>
-Mozenda on occasion, may share personal information with third party service providers as we deem necessary for the third party to fulfill their duties, such as fulfilling orders, processing credit card payments, or other functions necessary to our business. These third party service providers are not authorized to retain, share, store or use your personal information for any purposes other than to provide the services for which they have been hired to provide. When you submit your personal information, you also agree that we may use your personal information to contact you by email, telephone, cell phone, direct mail, or text message about certain offers made available by us or third parties that we believe you might be interested in based on information you have provided to us. We do not sell, trade or otherwise share your personal information with unrelated third parties for their own marketing purposes, however, we may market certain offers to you on behalf of third parties we determine you might be interested in. 
-<br><br>
-
-We use your personal and aggregate information in an effort to improve your experience on the Site and with the services, and to communicate with you about information that you request. We may also use this information to help us target specific services or offers to you, to help us develop and improve the Site and services, and to tailor our Site and services to your interests. 
-<br><br>
-
-<h3>Sharing, Selling and Trading Aggregate Information Collected Online with Third Parties</h3>
-We may use aggregate information to improve the Site and services, to monitor traffic and general usage patterns, and for other general business purposes. We may disclose aggregate information to third parties for a variety of business reasons, including to potential investors so that they may better understand our user base, etc. Aggregate information will not include any personal information and we will not disclose any personal information except as expressly stated elsewhere in this Policy.
-<br><br>
-
-<h3>Other Instances When We Share Your Information</h3>
-In addition to the foregoing, Mozenda may elect to share or transfer your personal information to unrelated third parties: (i) to comply with a legal requirement, judicial proceeding, court order, or legal process served on Mozenda, (ii) to investigate a possible crime, such as fraud or identity theft; (iii) in connection with the sale, purchase, merger, reorganization, liquidation or dissolution of Mozenda; (iv) when we believe it is necessary to protect the rights, property, or safety of Mozenda or other persons, or (v) as otherwise required or permitted by law. 
-
-<br><br>
-<h3>Cookies</h3>
-If you do not provide us any of your personal information, we are limited in the information we may collect from you. For example, we may be able to determine your IP address for the purposes of administering the Site and tracking Site usage. However, your IP address may vary each time you visit or it may remain the same depending on the type of Internet connection you are using or the location from which you access the Site. We may also collect information about the websites that directed you to the Site after you clicked on a text or banner link or an ad from another website, or the day and time you visited the Site and how long you spent on the Site. We aggregate such information to help us to compile reports as to trends and other behavior about users visiting our Site; however such information is anonymous and cannot be tied directly to you.
-<br><br>
-
-We may also use “cookies” and your personal information to enhance your experience on the Site and with the services and to provide you with personalized offers. A cookie is a small data file placed on your computer’s hard drive that contains information that allows us to track your activity on the Site. The cookie itself does not contain any personal information; however, if you provide us any personal information the cookie may act as an identifier to tie your personal information to your IP address or computer. You may choose to delete cookies from your computer’s hard drive at anytime or to disable cookies on your computer. If you delete cookies that relate to the Site, we may not be able to identify you upon your return to the Site. Additionally, if you disable your computer’s cookies, you may not be able to access certain features of the Site or services that require that cookies be enabled. The Site’s cookies cannot be used to read data from your hard drive and cannot retrieve information from any other cookies created by other websites. Additionally, our cookies cannot be used as a virus, Trojan horse, worm, or any other malicious tool that could impair your use of your computer. Our cookies are used to help us better understand how you and other users use the Site so we can continue to provide a better, more personalized user experience on the Site. We also share website usage information about our Site with those interested in running targeted promotional campaigns on the Site. For this purpose, we and our advertisers track some of the pages that you visit on the Site through the use of pixel tags (also called clear gifs).
-<br><br>
-<h3>Security Pertaining to Your Information</h3>
-We take appropriate security measures to protect against unauthorized access to or unauthorized alteration, disclosure or destruction of data. These include internal reviews of our data collection, storage and processing practices and security measures, as well as physical security measures to guard against unauthorized access to systems where we store personal data.
-<br><br>
-We restrict access to personal information to Mozenda employees, service providers and agents who need to know that information in order to operate, develop or improve our services. These individuals are bound by confidentiality obligations and may be subject to discipline, including termination and criminal prosecution, if they fail to meet these obligations. We use secure socket layer (“SSL”) technology to encrypt and protect the security of your personal information, including but not limited to your credit card number, when it is sent over the Internet. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to protect your personal information, we cannot guarantee its absolute security. 
-<br><br>
-
-<h3>Integrity of Your Data</h3>
-Mozenda processes personal information only for the purposes for which it was collected and in accordance with this Policy. We review our data collection, storage and processing practices to ensure that we only collect, store and process the personal information needed to provide or improve our services. We take reasonable steps to ensure that the personal information we process is accurate, complete, and current, but we depend on our users to update or correct their personal information whenever necessary. 
-<br><br>
-<h3>Children and Privacy</h3>
-Our Site is not directed to children and we will not request personally identifiable information from anyone who we know to be under the age of 18, unless we have obtained verifiable parental consent from a parent or legal guardian. If we become aware that a user under the age of 13 has registered with our Site, provided personal information, and Mozenda has not obtained prior verifiable consent from a parent or legal guardian, we will immediately remove the user’s personal information from our files. 
-<br><br>
-<h3>Links to Other Websites</h3>
-The Site may contain links to websites operated by other people or companies. Those websites may have their own privacy policy or no privacy policy at all. Mozenda does not have any responsibility for those websites, and we provide the links solely for the convenience of our visitors. 
-<br><br>
-<h3>Business Transfers</h3>
-In the event that Mozenda sells substantially all of its assets, or one of Mozenda’s business units is acquired, personal information of visitors to the Site and aggregate information will likely be one of the transferred assets. 
-<br><br>
-<h3>Changes to this Policy</h3>
-We may change this Privacy Policy at any time and without prior notice, by posting the revised version of this Policy on our Site. Your continued use of the Site and/or services indicates your consent to our collection of and use of your personal and aggregate information under the then current Policy. 
-<br><br>
-<h3>Corrections/Information Removal/Opt-Out</h3>
-If your name, e-mail or postal address, telephone number or other personal information changes, you may update, correct or omit the relevant information by contacting Mozenda customer service at support@Mozenda.com. If you prefer not to receive newsletters or other marketing e-mails from Mozenda, please let us know by clicking on the unsubscribe link within any newsletter or marketing e-mail you receive. If you prefer not to receive marketing mail via the mail carrier, please let us know by contacting customer service at support@Mozenda.com. Please be sure to include in any e-mail your full name, e-mail address, and any message. Please note that such requests may take up to ten (10) days to become effective. 
-<br><br>
-<h3>Contact Us</h3>
-If you have any questions or concerns about this Policy, please feel free to contact us any time at:
-<br><br>
-
-Mozenda, Inc.<br>
-616 E. Technology Ave. Building B-23, Orem, UT 84097, USA<br>
-<a href="mailto:support@mozenda.com">support@Mozenda.com</a>
-</div>
-
-		</div>
-	
-						</div>
-					</div>
-				</div>
-				 
-
-<div class="footer">
-	<table width="100%" cellpadding="0" cellspacing="0" border="0">
-		<tbody><tr>
-			<td></td>
-			<td>
-				<div class="footer-parent">
-					<a href="/default">Home</a>
-				</div>
-			</td>
-			<td>
-				<div class="footer-child">
-					<a href="/tour01-overview">Tour</a><br>
-					<a href="/Products">Products</a><br>
-					<a href="/contact-us">Support</a><br>
-					<a href="/about-us">About</a>
-				</div>
-			</td>
-			<td>
-				<div class="footer-parent" style="margin-left: 30px;">
-					<a href="/tour01-overview">Tour</a>
-				</div>
-			</td>
-			<td>
-				<div class="footer-child">
-					<a href="/tour01-overview">Screen Shots</a><br>
-					<a href="/video01-overview">Videos</a><br>
-					<a href="/usecases">Use Cases</a><br>
-					<a href="/tour-support">Support &amp; API</a>
-				</div>
-			</td>
-			<td>
-				<div class="footer-parent" style="margin-left: 30px;">
-					<a href="/products">Products</a>
-				</div>
-			</td>
-			<td>
-				<div class="footer-child">
-					<a href="/products">Software</a><br>
-					<a href="/features">Features</a><br>
-					<a href="/pricing">Pricing</a><br>
-					<a href="/managed-service">Services</a><br>
-					<a href="/training">Training</a>
-				</div>
-			</td>
-			<td>
-				<div class="footer-parent" style="margin-left: 30px;">
-					<a href="/contact-us">Support</a>
-				</div>
-			</td>
-			<td>
-				<div class="footer-child">
-					<a href="/help">Help Center</a><br>
-					<a href="/forums">Forums</a><br>
-					<a href="/faqs">FAQ</a><br>
-					<a href="/glossary">Glossary</a><br>
-					<a href="/api">API</a><br>
-					<a href="/contact-us">Contact Us</a>
-				</div>
-			</td>
-			<td>
-				<div class="footer-parent" style="margin-left: 30px;">
-					<a href="/about-us">About</a>
-				</div>
-			</td>
-			<td>
-				<div class="footer-child">
-					<!--<a href="http://blog.mozenda.com">Blog</a><br />-->
-					<a href="http://www.newspad.com/all?q=mozenda" target="_blank">News</a><br>
-					<a href="http://mozenda.theresumator.com/" target="_blank">Careers</a><br>
-					<a href="http://www.twitter.com/mozenda" target="_blank">Twitter</a><br>
-					<a href="http://www.facebook.com/mozenda" target="_blank">Facebook</a><br>
-					<a href="https://plus.google.com/101869690533098362726" rel="publisher">Google+</a><br>
-				</div>
-			</td>
-			<td></td>
-		</tr>
-		<tr>
-			<td colspan="10" align="center">
-				<div class="footer-copyright" style="margin-top: 15px; height: 40px;">
-					Copyright © 2015 Mozenda, Inc. All Rights Reserved | US   | Web11601 | MozendaWebConsole 2.9.385-21542
-					<br>
-					<a href="/policies">Terms and Conditions</a>  |  <a href="/privacy">Privacy Policy</a>  |  <a href="/sitemap">Site Map</a>
-				</div>
-				<div style="margin-top: 15px;">
-					<!-- BBB code & logo -->
-					<a id="bbblink" class="sehzbas" href="//www.bbb.org/utah/business-reviews/computer-software-publishers-and-developers/mozenda-in-orem-ut-22303526#bbblogo" title="Mozenda, Inc. is a BBB Accredited Computer Software Publisher and Developer in Orem, UT" style="display: block; position: relative; overflow: hidden; width: 100px; height: 38px; margin: 0px; padding: 0px;">
-						<img style="padding: 0px; border: none;" id="bbblinkimg" src="https://seal-utah.bbb.org/logo/sehzbas/mozenda-22303526.png" width="200" height="38" alt="Mozenda, Inc. is a BBB Accredited Computer Software Publisher and Developer in Orem, UT"></a><script type="text/javascript">					                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         	var bbbprotocol = (("https:" == document.location.protocol) ? "https://" : "http://"); document.write(unescape("%3Cscript src='" + bbbprotocol + 'seal-utah.bbb.org' + unescape('%2Flogo%2Fmozenda-22303526.js') + "' type='text/javascript'%3E%3C/script%3E"));</script><script src="https://seal-utah.bbb.org/logo/mozenda-22303526.js" type="text/javascript"></script>
-					<!--End BBB code -->
-				</div>
-			</td>
-		</tr>
-	</tbody></table>
-</div>
-
-			</div>
-
-<!--- Video Popup --->
-
-		<div class="dialog-shadow" id="HomeVideoContainer">	
-			<table class="dialog" id="HomeVideoDialog" cellpadding="0" cellspacing="0">
-				<tbody><tr>
-					<td class="dialog-tLCorner"></td>
-					<td class="dialog-top"></td>
-					<td class="dialog-tRCorner"><img src="/Company2/Images/DialogFrameCloseBtn.png" class="dialog-close" style="cursor:pointer" title="Close dialog"></td>
-					</tr>
-				<tr>
-					<td class="dialog-left"></td>
-					<td class="dialog-content" style="padding-bottom:10px;">
-						<div class="home-video" id="HomeVideoIframe">
-						
-							</div>
-						<div class="home-videoText">													
-							<table cellpadding="0" cellspacing="0">
-								<tbody><tr>
-									<td>
-										<h3 style="margin-top:15px; font-size:24px; line-height:36px; font-weight:bold;">Automate your data extraction</h3>
-										Get the data you need without all the hassle. Mozenda gets more accurate data in less time and for lower cost. Start a FREE Account today and enjoy the wonders of automation. 
-										</td>
-									<td><div style="margin:20px 10px 10px 20px;">
-		<!--<a href="/WebDeployment/Mozenda.exe" onClick="downloadPop('/WebDeployment/Mozenda.exe');"><img alt="Download the Mozenda Agent Builder" src="/Company2/Images/BtnDownloadTrial-en.png" border="0" onmouseover="this.src='/Company2/Images/BtnDownloadTrial-ov.png'" onmouseout="this.src='/Company2/Images/BtnDownloadTrial-en.png'" /></a>     -->
-		<div class="downloadBuilder-freeSignUpButton" id="FreeSignUpBtn"></div>
-		
-</div></td>
-									</tr>
-								</tbody></table>
-							</div>
-						</td>
-					<td class="dialog-right"></td>
-					</tr>
-				<tr>
-					<td class="dialog-bLCorner"></td>
-					<td class="dialog-bottom"></td>
-					<td class="dialog-bRCorner"></td>
-					</tr>
-				</tbody></table>
-			</div>
-
-<!--- End Video Popup --->
-
-<!--- Request Info Popup --->
-
-		<div class="dialog-shadow" id="RequestInfoContainer">	
-			<table class="dialog" id="RequestInfoDialog" cellpadding="0" cellspacing="0">
-				<tbody><tr>
-					<td class="dialog-tLCorner"></td>
-					<td class="dialog-top"></td>
-					<td class="dialog-tRCorner"><img src="/Company2/Images/DialogFrameCloseBtn.png" class="dialog-close" style="cursor:pointer" title="Close dialog"></td>
-					</tr>
-				<tr>
-					<td class="dialog-left"></td>
-					<td class="dialog-content" style="padding-bottom:10px; padding-top:0;">
-						<div class="solutions-section-small">
-							<!-- <zen<colon>RequestInfo runat="server" ID="RequestInfo" /> // note that the ':' has been replaced by <colon>-->
-							<div id="RequestInfoPardotIframe">
-								</div>
-						</div>
-					</td>
-					<td class="dialog-right"></td>
-					</tr>
-				<tr>
-					<td class="dialog-bLCorner"></td>
-					<td class="dialog-bottom"></td>
-					<td class="dialog-bRCorner"></td>
-					</tr>
-				</tbody></table>
-			</div>
-
-<!--- End Request Info Popup --->
-
-<!--- Trial Signup Popup --->
-
-<!--
-		<div class="dialog-shadow" id="FreeSignUpContainer">	
-			<table class="dialog" id="FreeSignUpDialog" cellpadding=0 cellspacing=0>
-				<tr>
-					<td class="dialog-tLCorner"></td>
-					<td class="dialog-top"></td>
-					<td class="dialog-tRCorner"><img src="/Company2/Images/DialogFrameCloseBtn.png" class="dialog-close" style="cursor:pointer" title="Close dialog" /></td>
-					</tr>
-				<tr>
-					<td class="dialog-left"></td>
-					<td class="dialog-content" style="padding-bottom:10px; padding-top:0;">
-						<div class="section-large" style="margin-top:0; height:550px; width:711px;">
-							<iframe src="https://go.pardot.com/l/35212/2014-03-18/4g7m" width="100%" height="550" type="text/html" frameborder="0" allowTransparency="true" style="border: 0"></iframe>
--->
-							<!-- <zen<colon>FreeSignUp runat="server" ID="FreeSignUp" /> // note that the ':' has been replaced by <colon> -->
-<!--
-						</div>
-					</td>
-					<td class="dialog-right"></td>
-					</tr>
-				<tr>
-					<td class="dialog-bLCorner"></td>
-					<td class="dialog-bottom"></td>
-					<td class="dialog-bRCorner"></td>
-					</tr>
-				</table>
-			</div>
--->
-
-<!--- End Trial Signup Popup --->
-
-
-		<!-- TRADE SECRET - Begin
-		<div style="margin: 5px; padding-left: 5px; padding-bottom: 5px; background-color: #FFEEEE; border-color: Red; border-style: solid; border-width: 2px;">
-			<span class="zen-billing-invoice-warning">
-				TRADE SECRET
-				</span><br />
-			<span class="zen-billing-invoice-warning-description" style="font-size: 12px;">
-				You are viewing a website that is under construction and not available to the general public at this time.<br />
-				This website is not for use or disclosure without written permission.<br />
-				<a style="color: Red;" href="/?CompanyFolder=Reset">Return to Mozenda website</a>
-				</span>
-			</div>
-		TRADE SECRET - End -->
-		
-	
+<script type="text/javascript" src="https://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201539"></script>
+<script type="text/javascript" src="https://secure.gravatar.com/js/gprofiles.js?ver=2015Sepaa"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var WPGroHo = {"my_hash":""};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.mozenda.com/wp-content/plugins/jetpack/modules/wpgroho.js?ver=4.2.5"></script>
+<script type="text/javascript" src="https://www.mozenda.com/wp-content/themes/mozenda/js/navigation.js?ver=20120206"></script>
+<script type="text/javascript" src="https://www.mozenda.com/wp-content/themes/mozenda/js/skip-link-focus-fix.js?ver=20130115"></script>
+<script type="text/javascript" src="https://www.mozenda.com/wp-includes/js/comment-reply.min.js?ver=4.2.5"></script>
+<script type="text/javascript" src="https://stats.wp.com/e-201539.js" async="" defer=""></script>
+<script type="text/javascript">
+	_stq = window._stq || [];
+	_stq.push([ 'view', {v:'ext',j:'1:3.5.3',blog:'93784035',post:'56',tz:'0',srv:'www.mozenda.com'} ]);
+	_stq.push([ 'clickTrackerInit', '93784035', '56' ]);
+</script>
 
 </body></html>
