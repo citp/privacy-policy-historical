@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the caffmoscommunity.com privacy policy that was archived on 2014-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140923151737id_/http%3A//www.caffmoscommunity.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the caffmoscommunity.com privacy policy that was archived on 2015-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151211105701id_/http%3A//www.caffmoscommunity.com/privacy.asp) for the most accurate reproduction.*
 
 # The Caffmos Community Privacy page.
 
-This Web site is operated and moderated by Caffmos. 
+This Web site is operated and moderated by Caffmos Ltd. 
 
 Caffmos has created this privacy statement in order to demonstrate our firm commitment to privacy. 
 
@@ -18,7 +18,33 @@ We use your IP address to help diagnose problems with our server and to administ
 
 ##### Cookies
 
-Our Site uses cookies to keep track of your chosen set up of the web site, and to make sure you don't see the same ad repeatedly. We also use cookies to save your password so you don't have to re-enter it each time you visit our site, and for other saved search criteria (supporting members only). 
+Our Site uses cookies to keep track of your chosen set up of the web site. We also use cookies to save your password so you don't have to re-enter it each time you visit our site, and for other saved search criteria (supporting members only). 
+
+Cookies are files containing small amounts of information which are downloaded to your computer when you visit a website. Cookies are then sent back to the originating website on each subsequent visit. Cookies do lots of different jobs, such as remembering your preferences, and generally improving your online experience. 
+
+There are different types of cookies. 
+
+**Session cookies**
+
+Session cookies last only for the duration of your visit and are deleted when you close your browser. These facilitate various tasks such as allowing you to stay logged into a website. Most of the cookies we use are session cookies. 
+
+**Persistent cookies**
+
+Persistent cookies last after you have closed your browser, and allow a website to remember your actions and preferences. We only use these for the autologin facility and ``````Google Analytics.
+
+**How do we use cookies ?**
+
+The Caffmos Website only uses cookies for the following. 
+
+1\. To enable use our autologin facility (username / password) 
+
+2\. To maintain your logged in state whilst using the website and some of the preferences you have set including location and preferred ages. These are all **removed** once you click the logout button.
+
+We also use Google Analytics to anonomously collect usage data.The Caffmos Community does not store any tracking cookies or monitor your browsing habits in anyway on or off the Caffmos website.
+
+**What If I Dont Want to Allow Cookies ?**
+
+If you wish to restrict or block the cookies which are set by any website you should do this through the browser settings for each browser you use. Please be aware that blocking session cookies will prevent you accessing The Caffmos Website. You can however can allow cookies from specific websites by making them "trusted websites" in your Internet browser. You may wish to visit [www.allaboutcookies.org](http://www.allaboutcookies.org/) which contains comprehensive information on how to do this on a wider variety of browsers. 
 
 ##### Registration Forms
 
