@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alumni.net privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610232834id_/http%3A//wiki.alumni.net/wiki/Alumni.NET%3APrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alumni.net privacy policy that was archived on 2015-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151211111548id_/http%3A//wiki.alumni.net/wiki/Alumni.NET%3APrivacy) for the most accurate reproduction.*
 
 # Alumni.NET:Privacy - wiki.Alumni.NET
 
