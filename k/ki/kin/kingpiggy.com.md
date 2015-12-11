@@ -1,90 +1,135 @@
-> *The following text is extracted and transformed from the kingpiggy.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625121527id_/http%3A//lifetricks.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kingpiggy.com privacy policy that was archived on 2015-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151211222755id_/http%3A//kingpiggy.com/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy | LifeTricks
+# kingpiggy.com | Privacy Policy
 
-Thank you for using LifeTricks! We wrote this policy to help you understand what information we collect, how we use it, and what choices you have. Because we’re an internet company, some of the concepts below are a little technical, but we’ve tried our best to explain things in a simple and clear way.
+**What information do we collect?**
 
-###  What information do we collect?  
+We collect information from you when you register on our site or subscribe to our newsletter. 
 
+When ordering or registering on our site, as appropriate, you may be asked to enter your: name or e-mail address. You may, however, visit our site anonymously.
 
-We collect information in two ways:
+Google, as a third party vendor, uses cookies to serve ads on your site. Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy..
 
-####  1\. When you give it to us or give us permission to obtain it.  
+ **DoubleClick DART Cookie**
 
+.:: Google, as a third party vendor, uses cookies to serve ads on kingpiggy.com.  
+.:: Google's use of the DART cookie enables it to serve ads to your users based on their visit to kingpiggy.com and other sites on the Internet.   
+.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - http://google.com/privacy_ads.html 
 
-When you sign up for or use our products, you voluntarily give us certain information. This can include your name, profile photo, posts, comments, likes, email address you used to sign up, and any other information you provide us. If you’re using LifeTricks on your mobile device, you can also choose to provide us with location data.
-
-You also may give us permission to access your information in other services. For example, you may link your Facebook or Twitter account to LifeTricks, which allows us to obtain information from those accounts (e.g., your friends or contacts). The information we obtain from those services often depends on your settings or their privacy policies, so be sure to check what those are.
-
-####  2\. We also get technical information when you use our products or use websites or apps that have LifeTricks features.  
-
-
-These days, whenever you use a website, mobile application, or other Internet service, there’s certain information that almost always gets created and recorded automatically. The same is true when you use our products. Here are some of the types of information we collect:
-
-  * Log Data. When you use LifeTricks or go to a webpage or use an app that has LifeTricks features, our servers automatically record information (“log data”) including information that your browser sends whenever you visit a website or your mobile app sends when you’re using it. This log data may include your Internet Protocol address, the address of the web pages you visited that had LifeTricks features, browser type and settings, the date and time of your request, how you used LifeTricks, and cookie data.
-  * Cookie data. Depending on how you’re accessing our products, we may use “cookies” (a small text file sent by your computer each time you visit our website, unique to your LifeTricks account or your browser), or similar technologies to record log data. When we use cookies, we may use “session” cookies (that last until you close your browser) or “persistent” cookies (that last until you or your browser delete them). For example, we may use cookies to store your language preferences or other LifeTricks settings so you don‘t have to set them up every time you visit LifeTricks. Some of the cookies we use are associated with your LifeTricks account (including personal information about you, such as the email address you gave us), and other cookies are not.
-  * Device Information. In addition to log data, we may also collect information about the device you’re using LifeTricks on, including what type of device it is, what operating system you’re using, device settings, unique device identifiers, and crash data. Whether we collect some or all of this information often depends on what type of device you’re using and its settings. For example, different types of information are available depending on whether you’re using a Mac or a PC, or an iPhone or an Android phone. To learn more about what information your device makes available to us, please also check the policies of your device manufacturer or software provider.
-
-
-
-###  How do we use the information we collect?  
-
-
-We use the information we collect to provide our products to you and make them better, develop new products, and protect LifeTricks and our users. For example, we may log how often people use two different versions of a product, which can help us understand which version is better.
-
-We also use the information we collect to offer you customized content, including:
-
-  * Showing you ads you might be interested in.
-
-
-  *  
-
-
-
-We also use the information we collect to:
-
-  * Send you updates (such as when certain activity, like comments), newsletters, marketing materials and other information that may be of interest to you. For example, depending on your email notification settings, we may send you weekly updates that include tricks you may like. You can decide to stop getting these updates by updating your account settings (or through other settings we may provide).
-  * Help your friends and contacts find you on LifeTricks. For example, if you sign up using a Facebook account, we may help your Facebook friends find your account on LifeTricks when they first sign up for LifeTricks. Or, we may allow people to search for your account on Lifetricks using your email address.
-  * Respond to your questions or comments.
+Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include .......   
+Google Adsense   
+Commission Junction   
+Widget Bucks   
+Adbrite   
+Clickbank   
+Epic / Azoogle   
+Chitika   
+Linkshare   
+Amazon   
+Kontera   
+Advertising.com   
+CPAStorm   
+Burst   
+Valueclick   
+InfoLinks   
+Vibrant Media   
+24/7 Real Media   
+Tribal Fusion   
+Casale   
+Tremor Media   
+Adify   
 
 
+These third-party ad servers or ad networks use technology to the advertisements and links that appear on kingpiggy.com send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see. 
 
-The information we collect may be “personally identifiable” (meaning it can be used to specifically identify you as a unique person) or “non-personally identifiable” (meaning it can’t be used to specifically identify you). We use both types of information, and combinations of both types, as described above. We may use or store information wherever LifeTricks does business, including countries outside your own.
+We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit networkadvertising.org.
 
-###  What choices do you have about your information?  
+kingpiggy.com has no access to or control over these cookies that are used by third-party advertisers. 
 
+You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. kingpiggy.com's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. 
 
-Our goal is to give you simple and meaningful choices over your information. If you have a Lifetricks account, many of the choices you have on LifeTricks are built directly in to the product or your account settings. For example, you can:
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here http://www.networkadvertising.org/managing/opt_out.asp
 
-  * Access and change information in your _Profile Settings  _at any time.
+If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites. 
 
+**What do we use your information for?**
 
-  * The browser you use may provide you with the ability to control cookies or other types of local data storage;
-  * Your mobile device may provide you with choices around how and whether location or other data is shared with us.
+Any of the information we collect from you may be used in one of the following ways: 
 
+\- To personalize your experience  
+(your information helps us to better respond to your individual needs)
 
+\- To improve our website  
+(we continually strive to improve our website offerings based on the information and feedback we receive from you)
 
-To learn more about these choices, please see the information provided by the device or software provider.
+\- To improve customer service  
+(your information helps us to more effectively respond to your customer service requests and support needs)
 
-###  How do we share the information we collect?  
+\- To process transactions
 
+> Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
 
-LifeTricks is a tool people use to create and share clever tricks. When you create tricks, anyone can view them. You may also provide us with profile page information that that anyone can view. The other limited instances where we may share your personal information include:
+\- To administer a contest, promotion, survey or other site feature
 
-  * When we have your consent. This includes sharing information with other services (like Facebook or Twitter) when you’ve chosen to link to your LifeTricks account to those services or publish your activity on LifeTricks to them.
-  * If we believe that disclosure is reasonably necessary to comply with a law, regulation or legal request; to protect the safety, rights, or property of the public, any person, or LifeTricks; or to detect, prevent, or otherwise address fraud, security or technical issues.
-  * We may engage in a merger, acquisition, bankruptcy, dissolution, reorganization, or similar transaction or proceeding that involves the transfer of the information described in this Policy.
+\- To share with our third party marketing partners so they may send you offers for goods and services which you may find of interest
 
+\- To send periodic emails
 
+> The email address you provide for order processing, may be used to send you information and updates pertaining to your order, in addition to receiving occasional company news, updates, related product or service information, advertisements etc. The email address you provide to subscribe to a newsletter, receive information or enter to win a prize may be used to send you information and updates, relevant content and advertisements.
 
-We may also share aggregated or non-personally identifiable information with our partners or others.
+Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
 
-###  Our Policy on Children’s Information  
+ **How do we protect your information?**
 
+We implement a variety of security measures to maintain the safety of your personal information when you access your personal information. 
 
-Lifetricks is not directed to children under 13. If you learn that your minor child has provided us with personal information without your consent, please contact us.
+**Do we use cookies?**
 
-###  How do we make changes to this policy?  
+Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information
 
+We use cookies to understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business.
 
-We may change this policy from time to time, and if we do we’ll post any changes on this page. If you continue to use LifeTricks after those changes are in effect, you agree to the revised policy. If the changes are significant, we may provide more prominent notice or obtain your consent as required by law.
+If you prefer, you can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies via your browser settings. Like most websites, if you turn your cookies off, some of our services may not function properly. However, you can still place orders by contacting customer service.
+
+ **Do we disclose any information to outside parties?**
+
+Other than described in this privacy policy, we do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, third party marketers, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses. 
+
+**Third party links**
+
+Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+
+ **California Online Privacy Protection Act Compliance**
+
+Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
+
+ **Childrens Online Privacy Protection Act Compliance**
+
+We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
+
+ **Online Privacy Policy Only**
+
+This online privacy policy applies only to information collected through our website and not to information collected offline. 
+
+**Your Consent**
+
+By using our site, you consent to our web site privacy policy. 
+
+**Changes to our Privacy Policy**
+
+If we decide to change our privacy policy, we will post those changes on this page. 
+
+**Contacting Us**
+
+If there are any questions regarding this privacy policy or you wish to unsubscribe from our site and services you may contact us using the information below or by writing to us at:
+
+2885 Sanford Ave  
+SW #19781  
+Grandville, MI 49418  
+USA 
+
+kingpiggy.com 
+
+Email:  
+contact@kingpiggy.com  
+
