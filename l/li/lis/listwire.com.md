@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the listwire.com privacy policy that was archived on 2015-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150407124546id_/http%3A//www.listwire.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the listwire.com privacy policy that was archived on 2015-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151211200100id_/http%3A//www.listwire.com/privacy.php) for the most accurate reproduction.*
 
 # List Wire Privacy
 
