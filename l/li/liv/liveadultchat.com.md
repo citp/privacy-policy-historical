@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the liveadultchat.com privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612122343id_/http%3A//www.liveadultchat.com/privacy.html%3F) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the liveadultchat.com privacy policy that was archived on 2015-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151211172320id_/http%3A//www.liveadultchat.com/privacy.html%3F) for the most accurate reproduction.*
 
 # LiveAdultChat - Privacy Policy
 
