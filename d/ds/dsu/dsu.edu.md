@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dsu.edu privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612130353id_/http%3A//dsu.edu/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dsu.edu privacy policy that was archived on 2015-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151211115310id_/http%3A//dsu.edu/privacy) for the most accurate reproduction.*
 
 # Privacy | Dakota State University
 
@@ -6,7 +6,7 @@
 
 Here you will find privacy, copyright, trademark and licensing, disclaimer and terms of use information. If you have any questions regarding these matters, please contact [webmaster@dsu.edu](mailto:webmaster@dsu.edu).
 
-#### Privacy
+## Privacy
 
 Dakota State University supports the privacy of information submitted by all students, faculty, staff and visitors who visit our official website. This does not apply to websites not officially recognized by the the University such as those created by individual faculty, staff or students using resources within our University domain.
 
@@ -26,7 +26,7 @@ Visitors of our website may choose whether or not to provide personal informatio
 
 Third party services may be used on our behalf on the DSU website. DSU may provide these services information, including some personal information, collected from our site in order to deliver programs, information, products and other services. These third party services have been investigated by the University to ensure their protection of personal information.
 
-#### Disclaimer
+## Disclaimer
 
 The information on the official Dakota State University website ([dsu.edu](http://dsu.edu/)) is provided without a warranty of any kind.
 
@@ -36,7 +36,7 @@ Some pages may contain links to websites created outside of the University, this
 
 The [Department of Public Relations and Marketing](http://dsu.edu/about-dsu/public-relations-and-marketing) is responsible for the design and content of the official University site. It is not responsible for the timeliness or completeness of pages or information created by other departments or individuals.
 
-#### Copyright
+## Copyright
 
 All material contained on this website ([dsu.edu](http://dsu.edu/)) is protected by U.S. copyright regulations and protections. Redistribution or commercial use is prohibited without written permission.
 
@@ -61,18 +61,18 @@ In notifying us of the alleged copyright infringement, please include the follow
 
 
 
-#### Trademarks and Licensing
+## Trademarks and Licensing
 
 Dakota State University protects the use of any logo, wordmark, nicknames and other identifiable marks associated with DSU that are distinguishable from other universities. Any use of these marks without written consent of the University is prohibited. For information regarding the usage or to report inappropriate usage, please contact the[ Department of Public Relations and Marketing](http://dsu.edu/about-dsu/public-relations-and-marketing).
 
-#### Accessibility
+## Accessibility
 
 The University is committed to providing meaningful accessibility on our website and other online activities provided by DSU to all users. We strive to deliver a website that meets or exceeds accessibility and usability standards.   Our website has been designed to meet with accesssbility standards established by the World Wide Web Consortium (WC3).
 
 In accordance with the American's with Disabilities Act, the information on this site is available in alternate formats upon request. Please contact our [Disability Services Office](http://dsu.edu/student-life/disability-services) for more information.  
  
 
-#### Equal Opportunity Policy
+## Equal Opportunity Policy
 
 Dakota State University pledges itself to continue its commitment to the achievement of equal opportunity. DSU prohibits discrimination based on the arbitrary consideration of such characteristics as race, color, religion, creed, national origin, gender, age, marital status, sexual orientation, or disability, except to the extent allowed by law.
 
