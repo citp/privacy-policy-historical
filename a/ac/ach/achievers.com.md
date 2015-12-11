@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the achievers.com privacy policy that was archived on 2015-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150619070936id_/http%3A//www.achievers.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the achievers.com privacy policy that was archived on 2015-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151211152809id_/http%3A//www.achievers.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Achievers
 
-Date of issue: September 25, 2013
+Date of issue: June 22, 2015
 
 ## OVERVIEW
 
@@ -58,7 +58,9 @@ Achievers logs the date and time, the URL of the referring page (if applicable) 
 
 ## USE OF COOKIES ON OUR WEBSITES
 
-Achievers uses a browser feature called a “cookie” to collect information anonymously and track user patterns on Achievers Websites. A cookie is a small text file that is placed on your hard disk by a Website. “Cookies” contain a unique identification number that identifies your browser, but not you, to our systems each time you visit one of our Websites. Cookies tell us which pages of our Websites are visited and by how many people. Achievers does not collect any Personal Information (PII) about you through cookies nor can a cookie carry a damaging payload (such as malware).
+Achievers uses a browser feature called a “cookie” to collect information anonymously and track user patterns on and off Achievers Websites. We may also use cookies to show you relevant advertising across third party web sites and to determine how that add performed.
+
+A cookie is a small text file that is placed on your hard disk by a Website. “Cookies” contain a unique identification number that identifies your browser, but not you, to our systems each time you visit one of our Websites. Cookies tell us which pages of our Websites are visited and by how many people. Achievers does not collect any Personal Information (PII) about you through cookies nor can a cookie carry a damaging payload (such as malware).
 
 There are two types of cookies in use with Achievers Websites which include:
 
@@ -69,11 +71,19 @@ There are two types of cookies in use with Achievers Websites which include:
 
 The use of cookies is an industry standard and many major browsers are initially set up to accept them. You can reset your browser to either refuse to accept all cookies or to notify you when you have received a cookie. However, if you refuse to accept cookies, you may not be able to use some of the features available on our Websites.
 
+## “DO NOT TRACK” BROWSER SETTING
+
+Achievers does not respond to web browser “do not track” (DNT) settings or headers with respect to Achievers public Websites. Currently no common industry standard for DNT has been adopted and there is also no consistent standard of interpreting user intent when the DNT setting is enabled. Achievers takes privacy seriously will continue to monitor policy advocates, technical experts, regulators and companies attempting to create a consensus interpretation around DNT browser technology and the implementation of a standard.
+
 ## EMAIL
 
 When you send us an e-mail or when you ask us to respond to you by e-mail, we collect your exact e-mail address and any information you have included in the e-mail message.
 
 We use your e-mail address to acknowledge your comments and/or reply to your questions, and we will store your communication and our reply in case we correspond further. We may use your e-mail address to send you information about offers on products or special promotions that we believe may be of interest to you. If you don’t want us to contact you by e-mail with offers on products and special promotions, you may tell us by selecting the unsubscribe option at the bottom of the communication or by contacting the Privacy Office.
+
+Achievers uses images imbedded in e-mail messages called “web beacons”. Web beacons are clear images that allow Achievers to determine if a message has been opened. It also allows Achievers to determine the IP address of the user that opened it and to access any Achievers cookies. We may use this information in the aggregate to assess and improve our email messages.
+
+Email web beacons can be disabled by turning off HTML display and displaying text only or by turning off image display while still using HTML within your email client.
 
 Remember that e-mail sent over the Internet is generally unencrypted and transmitted in clear text. We recommend that you use caution when forwarding free-format e-mail messages to us and that you do not include confidential information (such as unique user IDs, passwords or Personal Information) in those messages. Confidential information should be transmitted to us through other secure methods as defined by Achievers.
 
@@ -85,13 +95,17 @@ Achievers assumes no responsibility for the content or the privacy policies of n
 
 ## SECURITY
 
-Achievers is committed to protecting your privacy. Security measures such as locked cabinets, restricted access to offices and information, the use of passwords and encryption and implementing and complying with the ISO 27001:2005 information security standard have been adopted to protect your Personal Information against loss or theft, as well as unauthorized access, disclosure, copying, use or modification. Our employees have been trained to respect your privacy and those employees with access to your Personal Information shall use your Personal Information strictly in accordance with the Achievers Privacy Policy and the laws applicable to our business.
+Achievers is committed to protecting your privacy. Security measures such as locked cabinets, restricted access to offices and information, the use of passwords and encryption and implementing and complying with the ISO 27001 information security standard have been adopted to protect your Personal Information against loss or theft, as well as unauthorized access, disclosure, copying, use or modification. Our employees have been trained to respect your privacy and those employees with access to your Personal Information shall use your Personal Information strictly in accordance with the Achievers Privacy Policy and the laws applicable to our business.
 
 ## ACCESS
 
 If you have any questions about the collection, use or disclosure of your Personal Information by Achievers, or if you simply want to know whether we have any of your Personal Information on file, you may contact our Privacy Officer. Except in limited circumstances, as specifically provided by applicable privacy legislation, Achievers can tell you whether we hold Personal Information about you.
 
 Achievers will only refuse access to information about you in those circumstances permitted or required by applicable privacy legislation. If Achievers refuses access to you, it will provide you with the reasons for its refusal upon request. Exceptions may include information that contains references to other individuals, information that cannot be disclosed for legal, security or commercial proprietary reasons, and information that is subject to solicitor-client or litigation privilege. Achievers will respond to your requests for access in accordance with applicable privacy legislation.
+
+## CHANGES TO THIS PRIVACY POLICY
+
+Achievers reserves the right to change this Privacy Policy from time-to-time. Achievers will provide notification of any material changes to this Privacy Policy through the Achievers website in the form of a banner, pop-up or other methods of notification.
 
 ## QUESTIONS OR CONCERNS
 
