@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the anirudhsethireport.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316160427id_/http%3A//www.anirudhsethireport.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anirudhsethireport.com privacy policy that was archived on 2015-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151211140332id_/http%3A//www.anirudhsethireport.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Anirudh Sethi Report
 
