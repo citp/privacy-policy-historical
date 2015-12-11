@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the heresthethingblog.com privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612011815id_/http%3A//heresthethingblog.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the heresthethingblog.com privacy policy that was archived on 2015-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151211220502id_/http%3A//heresthethingblog.com/privacy-policy) for the most accurate reproduction.*
 
 # privacy policy | here's the thing
 
-_This Privacy Policy was last updated on October 15, 2011._
+_This Privacy Policy was last updated on August 18, 2015._
 
 Ben Patterson and Here’s the Thing (“HTT”), realize the importance of feeling safe online. We are fully committed to ensuring that your privacy is respected and protected. Our Privacy Policy below outlines the type of information we collect and receive from you when you visit and interact with [www.heresthethingblog.com](http://www.heresthethingblog.com/) (“HTT Site”) as well as ways in which we process and, sometimes, share such information and how you can correct or change such information.
 
@@ -63,7 +63,7 @@ Our advertising is currently served by third-party advertising companies which d
 
 _Google Analytics_
 
-__Google Analytics (GA) is a service offered by Google, Inc., that generates detailed statistics about the visitors to a website. HTT utilizes GA to collect non-PII information about HTT Site visitors and users, including, but not limited to, users’ browser types, aggregate geographical statistics, operating systems and fluctuations in number of visitors during a standard 24-hour period.
+Google Analytics (GA) is a service offered by Google, Inc., that generates detailed statistics about the visitors to a website. HTT utilizes GA to collect non-PII information about HTT Site visitors and users, including, but not limited to, users’ browser types, aggregate geographical statistics, operating systems and fluctuations in number of visitors during a standard 24-hour period.
 
 **2\. Our Use of Your Information** **  
 ** HTT uses the information you provide for several purposes, such as to communicate with you and to give you a better experience when visiting the HTT Site by personalizing tools, content, services and email messages. HTT also uses this information to build new services and develop offers that HTT believes are more relevant and valuable to you.
@@ -90,6 +90,8 @@ If you have additional questions about how one of our advertisers, partners or s
 
 **5\. Third-Party Advertising and Links to other Sites**  
 The HTT Site contains links to advertiser and partner websites that are not co-branded or affiliated with HTT in any way. We cannot be responsible for the privacy practices or the content of such non-HTT websites, and we do not control the practices of any of our advertisers or partners to whose sites we link.
+
+_Notice Regarding Interest-Based Advertising:_ Partner Websites may allow third-party companies, including ad networks, to serve advertisements, provide other advertising services and/or collect certain information when you visit HTT Site. Third party companies may use non-personally identifiable information (e.g. click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visit to HTT Site in order to provide advertisements about goods and services likely to be of greater interest to you. Third party may use non- cookie technologies to recognize your computer or device and/or to collect and record information about your web surfing activity including your activities on HTT Site. These technologies may be used directly on HTT Site. Please keep in mind that your web browser may not permit you to block the use of these non-cookie technologies, and those browser settings that block cookies may have no effect on such techniques. To learn more about this Interest-Based Advertising or to opt-out of this type of advertising by those third parties that are members of self-regulatory programs such as the Network Advertising Initiative, please visit the NAI’s website ([www.networkadvertising.org](http://www.networkadvertising.org/)) which will allow you to opt out of Interest-Based Advertising by one, or all, NAI members.
 
 **6\. Guidelines Regarding Children**  
 Personal information about children is a concern for all of us. At HTT, we take the protection of children’s privacy very seriously. HTT does not encourage participation or visitation by children. Visitors who are known to be or who are perceived to be under the age of 13 are prohibited from leaving any information on the HTT Site, including, but not limited to, signing up for the newsletter and leaving comments on articles and forums.
