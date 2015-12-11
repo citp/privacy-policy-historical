@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brostrick.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610051945id_/http%3A//www.brostrick.com/brostrick-privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brostrick.com privacy policy that was archived on 2015-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151211060021id_/http%3A//www.brostrick.com/brostrick-privacy-statement) for the most accurate reproduction.*
 
 # Brostrick Privacy Statement
 
