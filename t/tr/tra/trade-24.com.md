@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the trade-24.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623004633id_/http%3A//www.trade-24.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trade-24.com privacy policy that was archived on 2015-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151211232020id_/http%3A//www.trade-24.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Trade 24
 
-No matter if you are a former or an existing client or just a visitor on our website, your privacy is one of Trade24 Investments Ltd. Group (the " **Company** ") main concerns. Therefore, the Company is committed to safeguard all personal information.
+No matter if you are a former or an existing client or just a visitor on our website, your privacy is one of Trade24 Investments Ltd. Group which is registered at Trident Chambers, PO Box 1388, Victoria, Mahe, Seychelles (the " **Company** ") main concerns. Therefore, the Company is committed to safeguard all personal information.
 
 By providing the Company with your personal information such as Full Name, Mailing Address, ID number, Passport Number etc., you are providing the Company with full consent to gather, utilize, store and protect the information provided in the manner described below.
 
