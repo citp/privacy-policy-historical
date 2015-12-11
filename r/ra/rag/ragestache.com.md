@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ragestache.com privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611083034id_/http%3A//www.ragestache.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ragestache.com privacy policy that was archived on 2015-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151211112926id_/http%3A//www.ragestache.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - Rage Comics - Ragestache
 
