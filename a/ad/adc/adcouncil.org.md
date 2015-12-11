@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adcouncil.org privacy policy that was archived on 2015-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150430052749id_/http%3A//adcouncil.org/About-Us/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adcouncil.org privacy policy that was archived on 2015-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151211204048id_/http%3A//www.adcouncil.org/About-Us/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy | AdCouncil
 
@@ -68,3 +68,5 @@ We may edit, amend, modify and update our Privacy Policy at any time by posting 
 For questions about our Privacy Policies please email us at webmaster@adcouncil.org or write us to the attention of our VP, Digital and PRISM, at 815 Second Avenue, 9thFloor, New York, NY 10017 and please specify if you are inquiring about a specific Website to help us better assist and respond to your questions.
 
 Copyright © 2014 The Advertising Council, Inc. All Rights Reserved
+
+[Privacy Policy in Spanish](http://www.adcouncil.org/About-Us/Politica-de-privacidad)
