@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the transladyboy.com privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612073909id_/http%3A//www.transladyboy.com/general/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the transladyboy.com privacy policy that was archived on 2015-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151211145008id_/http%3A//www.transladyboy.com/general/privacy-policy.html) for the most accurate reproduction.*
 
 # Trans Ladyboy
 
 Privacy Policy Statement
 
-The privacy, discretion and security of your personal information is Trans Ladyboy's top priority, and we want you to be aware of how we collect and handle information on our site.
+The privacy, discretion and security of your personal information is Trans Ladyboy’s top priority, and we want you to be aware of how we collect and handle information on our site.
 
 Trans Ladyboy blog and forum collect personal information such as your name, date of birth and email address, when you register and knowingly provide it to us. We do not sell or rent any personally identifiable information about you to any third party without your permission. We place great emphasis on protecting the privacy of our customers.
 
-Our site uses cookies for tracking website navigation. Our servers automatically collect statistical information about IP addresses and which browsers are used to visit our site. None of this information is associated with you as an individual. We use these statistics to monitor our site's performance and to make it easier for You to use. Trans Ladyboy does not knowingly seek or collect any personal information or data from persons under the age of 18. We request such persons do not submit information to us or navigate our website.
+Our site uses cookies for tracking website navigation. Our servers automatically collect statistical information about IP addresses and which browsers are used to visit our site. None of this information is associated with you as an individual. We use these statistics to monitor our site’s performance and to make it easier for You to use. Trans Ladyboy does not knowingly seek or collect any personal information or data from persons under the age of 18. We request such persons do not submit information to us or navigate our website.
 
 Please be aware that Your IP address is not stored at out server when you vote on the polls. However, when You submit Your comments to Trans Ladyboy, Your IP address gets associated with the comment You made and is visible to website administrators.
 
