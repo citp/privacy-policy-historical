@@ -1,181 +1,99 @@
-> *The following text is extracted and transformed from the burstnet.com privacy policy that was archived on 2013-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131030081000id_/http%3A//www.burstmedia.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the burstnet.com privacy policy that was archived on 2015-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151211035232id_/http%3A//www.rhythmone.com/privacy-policy) for the most accurate reproduction.*
 
-# BURST MEDIA
+# Privacy Policy | RhythmOne - RhythmOne
 
-Effective date: March 6, 2013
+**LAST UPDATE AS OF 18 SEPTEMBER  2015**
 
-[](https://privacy.truste.com/privacy-seal/Burst-Media-Corporation/validation?rid=2ef225e1-dc2e-42bc-af91-000a89eb5f26 "TRUSTe European Safe Harbor certification")
+Unless otherwise indicated below, this privacy policy applies to any website that references this privacy policy, any RhythmOne website, as well as any data RhythmOne may collect across partnered and unaffiliated sites.  RhythmOne (“RhythmOne” or “we” or “us”), is committed to protecting your (“your” or “you” or “user”) privacy. This privacy policy describes how RhythmOne collects and uses the personal information you provide. By using our website, or services across partnered and unaffiliated sites, you are accepting the policies and practices described in this privacy policy. Each time you visit our website, or use our services, and any time you voluntarily provide us with information, you agree that you are consenting to our collection, use and disclosure of the information that you provide, and you are consenting to receive emails or otherwise be contacted, as described in this privacy policy. This privacy policy is incorporated into our terms of use. Whether or not you register or create any kind of account with us, this privacy policy applies to all users of the website.
 
-Fundamentally, the privacy of web users must be protected and the most effective way to preserve that privacy is to confine their data to the site level. Burst Media as well as AdConductor collect no personal information, and therefore, protect user privacy. Burst's TRUSTe license verifies this privacy stance.
+**Data Collection of User Information**
 
-This privacy policy applies to http://www.burstmedia.com, http://ads.addesktop.com, http://www.burstnet.com and http://www.AdConductor.com owned and operated by Burst Media Corporation (�Burst Media� or �Burst�). This privacy policy describes how Burst Media collects and uses the personal information you provide on our web sites: http://www.burstmedia.com, http://ads.addesktop.com, http://www.burstnet.com and http://www.AdConductor.com. It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
+RhythmOne does not acquire or collect any personal information about you. Your name, address, phone number, and email address all remain your private property. RhythmOne does, however, collect information that is specific to how you use the Internet. This non-personally identifying information can include, and is not limited to, the server you are logged onto, the geographic location of the ISP you use, the type of browser you use, sites you have visited, products you have researched and your IP address. This information is obtained solely for the purpose of targeting ads and measuring a given ad's effectiveness on behalf of RhythmOne’s advertisers.  There are instances where a user may provide specific personal information in response to an ad containing a survey, purchase agreement, registration questionnaire or the like. For such programs, RhythmOne (or a third party working in conjunction with RhythmOne and the advertiser) acquires this information on behalf of the advertiser. The adviser uses this information to deliver the goods or services requested by the user. RhythmOne may aggregate this information in a compiled format without identifying users specifically.  This provides the advertiser precise profiles of the types of individuals that respond to the ads.
 
-## TRUSTe
+**Consumer Information**
 
-Internet user privacy and confidentiality is of the utmost importance to Burst, our web publisher members, and our advertiser clients. Our reputation and integrity are directly related to how we serve our clients and customers. Please find a description below of how Burst strives to protect the privacy of Internet users and maintain the Internet as a highly credible medium.
+RhythmOne is a member of the Network Advertising Initiative (NAI) and adheres to its Code of Conduct. RhythmOne does not collect or use "sensitive consumer information" (as defined in the NAI's Self-Regulatory Code of Conduct) in its online behavioral advertising activities and does not offer or sell to its clients segments based on sensitive consumer information. "Sensitive consumer information" includes social security numbers or other government-issued identifiers, insurance plan numbers, financial account numbers, information that describes the precise real-time geographic location of an individual derived through location-based services such as through GPS-enabled devices, and precise information about past, present, or potential future health or medical conditions or treatments, including genetic, genomic and family medical history. RhythmOne maintains internal policies and procedures designed to safeguard against the collection or use of such information. 
 
-## FOR THOSE WHO VIEW AN AD ON A SITE THAT IS A MEMBER OF BURST
+**Opting Out of Cookies**
 
-### Data Collection of User Information
+RhythmOne is a member of the Digital Advertising Alliance (DAA), a cooperative of companies committed to building responsible advertising policies across the Internet, and adheres to the Digital Advertising Alliance’s Self-Regulatory Principles for Online Behavioral Advertising. RhythmOne is also a member of the Network Advertising Imitative (NAI) and we adhere to NAI’s 2013 Code of Conduct. To learn more about interest-based or online behavioral advertising, and other advertising companies’ privacy policies and opt-out, please visit the DAA Website - <http://www.aboutads.info/>.  You can opt-out of receiving RhythmOne cookies. Persistent Cookies can be removed by following your Internet browser help file directions. If you choose to disable Cookies, some areas of the website may not work properly. If you opt out, your web browser will be associated with a generic "opt-out" cookie, which will prevent us from associating any non-personally identifiable information with your browser.  Our "opt-out" cookie has a five-year expiration date. Keep in mind that participating in our opt-out program does not prevent you from seeing ads served by us, instead, the ads we serve to you will be generic and not be targeted to you based on your web surfing experiences.  If you would like to opt out, please visit our Opt-Out page - <http://www.rhythmone.com/opt-out>. Alternatively, you may also choose not to use our website, you may also Opt-Out through the NAI’s Consumer Opt-Out Page - <http://www.networkadvertising.org/choices/>.  These Opt-Outs are cookie-based, so you may need to opt out again (and set a new "opt-out" cookie) if you delete your cookies, lock cookies (including third party cookies), switch internet browsers, change computers or upgrade your web browser.
 
-All users who receive an ad served by Burst retain complete anonymity where Burst is concerned. As ads are delivered, Burst does not acquire or collect any personal information about you. Your name, address, phone number, and email address all remain your private property. Burst does, however, collect information that is specific to how you use the Internet. This non-personal information can include, and is not limited to, the server you are logged onto, the geographic location of the ISP you use, the type of browser you use, and your IP address. This information is obtained solely for the purpose of targeting ads and measuring a given ad's effectiveness on behalf of Burst clients and customers.
+**Sensitive Health Information**
 
-There are instances where a user may provide specific personal information in response to an ad containing a survey, purchase agreement, or registration questionnaire. For such programs, Burst (or a third party working in conjunction with Burst and the advertiser) acquires this information on behalf of the advertiser client. The client uses this information to deliver the goods or services requested by the user. When requested, Burst may employ this information in a compiled format without identifying users specifically to provide to the advertiser client precise profiles of the types of individuals responding to the ads.
+RhythmOne may use general health related information with customized advertising campaigns. General health-related information that is not based on a precise medical treatment or conditions is not considered "sensitive consumer information." This information can include, but is not limited to the following examples: acne, allergies, dental, vision, heartburn, cold and flu, sinus, headache, back pain, first aid, sore throat and cholesterol management. In addition, interest in subjects such as diet, nutrition, exercise, beauty, hair removal, health and fitness, as well as vitamins and supplements are not considered “sensitive consumer information”.
 
-### PRIVACY
+**P3P**
 
-Burst Media is a member of the Network Advertising Initiative (�NAI�) and is in compliance with the NAI�s Self-Regulatory Principles, and adheres to the Digital Advertising Alliance�s Self-Regulatory Principles for Online Behavioral Advertising Digital Advertising Alliance�s [Self-Regulatory Principles for Online Behavioral Advertising](http://www.aboutads.info/).
+The Platform for Privacy Preferences (P3P) provides a way for ad networks and websites to publish their privacy policies in a machine-readable syntax. An ad network or website will deploy P3P in order to make its privacy practices more accessible to the site's visitors. A visitor's web browser can download the machine-readable privacy statements, and compare the contents of those statements to the user's preferences. This way, the user's browser can automatically notify the user when they visit a site whose practices match the user's preferences or warn the user if the practices and preferences don't match. RhythmOne has incorporated this technology in its ad servers. Our syntax reflects our current privacy policy.
 
-### USE OF HEALTH RELATED INFORMATION
+**Cookies**
 
-Burst is a member of the Network Advertising Initiative (NAI) and adheres to its Code on Health-Related Data. Burst Media does not collect or use "sensitive consumer information" (as defined in the NAI's Self-Regulatory Code of Conduct) in its online behavioral advertising activities and does not offer or sell to its clients segments based on sensitive consumer information. "Sensitive consumer information" includes social security numbers or other government-issued identifiers, insurance plan numbers, financial account numbers, information that describes the precise real-time geographic location of an individual derived through location-based services such as through GPS-enabled devices, and precise information about past, present, or potential future health or medical conditions or treatments, including genetic, genomic and family medical history. Burst Media maintains internal policies and procedures designed to safeguard against the collection or use of such information.
+RhythmOne may use cookies to improve your web browsing experience. A cookie is a small text file that is stored on your computer for the purpose of identifying your web browser. We may use both session cookies (which expire once you close your web browser) and persistent cookies (which stay on tour computer until you delete them) to provide You with a more personal and interactive experience with the website. When you are served a RhythmOne ad, RhythmOne may assign various information in a cookie on ads you've seen, information on sites you've visited and activities performed to your computer browser. We do this to understand the way a user responds to the ads we deliver. For example, this information lets us keep track of how many times you view an ad we distribute. Likewise, the cookie can help make sure you do not see the same ad over and over - thus enhancing your online Web viewing experience.
 
-Burst may use general health related information with customized advertising campaigns. General health-related information that is not based on a precise medical treatment or conditions is not considered "sensitive consumer information." This information can include, but is not limited to the following examples: retargeting based on previous visit to an advertiser's website, retargeting based upon the visit to a general health/fitness/wellness/nutrition website, or retargeting based on the visit to a website where interest can be inferred from common content e.g., pregnancy can be inferred from a visit to a infant car-seat review page.
+RhythmOne collects this information via our technology and it may be stored for up to 2 years for the purpose of analyzing Addendum campaign results, ensuring that our technology is functioning properly, and preventing fraud across our sites.  We do not link the information we store in cookies to any personally identifiable information you submit while on our website or our member sites. We may however obtain non-personally identifiable information about you and combine it with data that we have collected to better target ads that match your interests. Most web browsers automatically accept cookies, but you can usually change your browser to prevent that use if you desire.
 
-### P3P
+**Disclosure**
 
-The Platform for Privacy Preferences (P3P) provides a way for Ad Networks and websites to publish their privacy policies in a machine-readable syntax. An Ad Network or website will deploy P3P in order to make its privacy practices more accessible to the site's visitors. A visitor's Web browser can download the machine-readable privacy policies, and compare the contents of those statements to the user's preferences. This way, the user's browser can automatically notify the user when they visit a site whose practices match the user's preferences or warn the user if the practices and preferences don't match. Burst Media has incorporated this technology in its ad servers. Our syntax reflects our current privacy policy.
+We may share non-personally identifiable information that has been aggregated across many users. RhythmOne uses the information we collect to improve, support and provide our advertising, measurement and reporting services. To do so more effectively, we have associated browsers and devices accessing our services to provide better and more consistent experiences to users. Examples include:
 
-### The Cookie Principle
+  * Serving and selecting ads – We use the information we have to find and match appropriate audiences to advertiser campaigns and to customize the ad served to your browser or device. To do this we may use information we have about your activities over time and across different websites, apps, browsers and devices. We may also decide to show an ad based on things you may be interested in, or request from our advertising and agency customers who decide to show ads to a particular audience, sometimes using the information we have. We also use the information to optimize ad delivery, such as the frequency and order in which ads are displayed.
+  * Measurement – We use the information we have to measure and understand the effectiveness of ads served across browsers and devices. This includes measuring interactions with advertisements and advertisers’ websites, apps and stores by analyzing information such as clicks or other interactions with ads, visits to websites or apps linked to from ads.
+  * Improvement of Services – We use the information we have to support our services through activities such as infrastructure monitoring and internal maintenance, analyzing how our services are used, research and development, and billing. We may also use the information we have to maintain, protect, improve and develop our and our related companies’ services.
+  * Protection of you, ourselves, and others – We may use information to detect, prevent, investigate and address fraud and other unauthorized or illegal activity.
+  * Support and Inquiry – We may use the information provided to respond to inquiries and to provide customer and user support.
 
-Burst may use cookies to improve your Web browsing experience. A cookie is a small text file that is stored on your computer for the purpose of identifying your web browser. When you are served a Burst ad, Burst may assign in a cookie various information on ads you've seen, information on sites you've visited and activities performed to your computer browser. We do this to understand the way a user responds to the ads we deliver. For example, this information lets us keep track of how many times you view an ad we distribute. Likewise, the cookie can help make sure you do not see the same ad over and over - thus enhancing your online Web viewing experience.
 
-Burst Media collects this information via our technology and it may be stored for up to 2 years for the purpose of: 1) analyzing campaign results, 2) ensuring that our technology is functioning properly, and 3) preventing fraud across our sites.
 
-We do not link the information we store in cookies to any personal information you submit while on our site or our member sites. We may obtain anonymous information about you - such as sites you have visited or products you have researched - from third-party sources, and combine it with data that we have collected to better target advertising that match your interests. Most Web browsers automatically accept cookies, but you can usually change your browser to prevent that use if you desire.
+We use a variety of technologies, such as pixels, browser headers, software development kits, cookies and other technologies, to collect, use, log and share information as described in this policy so we can provide and support our services. Our customers, partners and other parties may use various technologies to collect information about you, such as when you interact with ads, websites or apps using our services.
 
-In an effort to respect your privacy, Burst Media gives all internet users the choice to opt-out of receiving Burst Media cookies. If you would like to opt out, please visit our Cookie Opt-out Program at [www.burstmedia.com/optout.html](http://www.burstmedia.com/optout.html). Alternatively, you may also choose to opt out of receiving Burst Media cookies through the Network Advertising Initiative's [Consumer Opt-Out Program](http://www.networkadvertising.org/managing/opt_out.asp).
+**Third-Party Measurement Services**
 
-### Third-Party Measurement Services
+The use of cookies by our partners, affiliates, tracking utility company and service providers is not covered by our privacy policy. We do not have access or control over these cookies. Our partners, affiliates, tracking utility company and service providers use session ID and persistent cookies to make it easier for you to navigate our site. Often, advertisers will employ a third-party service provider other than RhythmOne for serving the advertisements and for tracking the performance of an ad program. These companies may employ cookie and 1x1 pixel technology to measure and improve the effectiveness of ads for the advertisers. These companies may collect and use non-personnally identifiable information about your visits to our member websites and other websites. The information collected can include the date/time of your visit, the banner ad that was shown, your unique user ID, your IP address, the URLs of sites you visit.  This information can also be used for online preference marketing ("profiling") purposes.
 
-Often, advertisers will employ a third-party service provider other than Burst for serving the advertisements and for tracking the performance of an ad program. These companies may employ cookie and 1x1 pixel technology to measure and improve the effectiveness of ads for their client. These companies may collect and use anonymous information about your visits to our member websites and other websites. The information collected can include:
+**Personal Information**
 
-  1. Date/time of your visit
-  2. The banner ad that was shown
-  3. Unique user ID
-  4. Your IP address
-  5. The URLs of sites you visit
+We do not collect Personal Information from you unless you voluntarily provide it to us. Except as detailed below, RhythmOne regards all personal information collected as completely confidential and does not share it with any third parties. This includes personal data provided during the registration process and financial account information. We collect information which is provided to us such as your name, email and phone number on our site in the "Contact Us" section. This information is used to establish contact with perspective publishers and customers.  We may provide your personal information to companies that provide services to help us with our business activities such as shipping your order or offering customer service. These companies are authorized to use your personal information only as necessary to provide these services to us.  RhythmOne does offer advertisers data which may facilitate the sale of advertising for a member site. This includes traffic data, click-thru rates, unique visitor information, website geographic location, content information, and any demographic information offered by the website member for the purpose of facilitating an advertising sale.  Though we make every effort to preserve user privacy, we may need to disclose personal information when required by law wherein we have a good-faith belief that such action is necessary to comply with an appropriate law enforcement investigation, current judicial proceeding, a court order or legal process.
 
+**Credit Cards**
 
+When credit card data is required for services, we protect your credit card information using industry standard SSL encryption whenever card data is transmitted to us and when sending your credit card information to our credit card processor. While in our possession, your credit card number is protected with asymmetric encryption to keep it secure. 
 
-This information can also be used for online preference marketing ("profiling") purposes. In these instances, Burst has no control over the information collected by the third-party, and may not be held responsible for the actions of the third-party measurement service where collected information is concerned.
+**Security**
 
-If you would like more information about this practice and to know your choices about not having this information used by these companies, [ click here](http://www.networkadvertising.org/managing/opt_out.asp).
+The security of your personal information is important to us. When you enter sensitive information (such as Tax ID number and/or social security number) on our registration or order forms, we encrypt that information using secure socket layer technology (SSL). We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Although we use reasonable security to protect your personal information, we cannot guarantee its absolute security.
 
-## FOR THOSE WHO VIEW AN AD ON A SITE LICENSING OUR ADCONDUCTOR TECHNOLOGY
+**Correcting/Updating/Deleting/Deactivating Personal Information**
 
-### The Cookie Principle
+We will retain your information for as long as your account is active or as needed to provide you services. If a user's personally identifiable information changes, (such as zip code, phone, email or postal address), or if a user no longer desires our service, we provide a way to correct, update, cancel or delete/deactivate users' personally identifiable information. This can be done by logging into your user account and updating your personal information or discontinuing service at any time.
 
-AdConductor may use cookies to improve your Web browsing experience. A cookie is a small text file that is stored on your computer for the purpose of identifying your web browser. When you are served an AdConductor ad, AdConductor may assign in a cookie various information on ads you've seen, information on sites you've visited and activities performed to your computer browser. We do this to understand the way a user responds to the ads we deliver. For example, this information lets us keep track of how many times you view an ad we distribute. Likewise, the cookie can help make sure you do not see the same ad over and over - thus enhancing your online Web viewing experience.
+**Merger or Acquisition**
 
-AdConductor collects this information via our technology and it may be stored for up to 2 years for the purpose of: 1) analyzing campaign results, 2) ensuring that our technology is functioning properly, and 3) preventing fraud across our sites.
+If RhythmOne is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or we will post a notice on our website of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information.
 
-We do not link the information we store in cookies to any personal information you submit while on our site or our member sites. Most Web browsers automatically accept cookies, but you can usually change your browser to prevent that use if you desire.
+**Customer Testimonials**
 
-### FOR PUBLISHERS WHO ARE MEMEBERS OF BURST OR ADCONDUCTOR CLIENTS:
+With a user’s consent we post customer testimonials on our website which may contain personally identifiable information such as the customer’s name.
 
-This confirms that Burst Media is a licensee of the TRUSTe Privacy Program. Burst Media also complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. Burst Media has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Burst Media's certification, please visit <http://export.gov/safeharbor/>.
+**No Information from Minors**
 
-For Burst Publishers the privacy policy discloses the privacy practices for www.burstmedia.com and [www.burstnet.com](http://www.burstnet.com/).
+You must be at least 18 years of age to use the website.
 
-For AdConductor Customers this privacy policy discloses the privacy practices for [www.AdConductor.com](http://www.adconductor.com/) and ads.addesktop.com. 
+**Bulletin Boards, Chat Rooms, Blogs & Links to Third-Party Websites**
 
-Burst Media has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program covers only information that is collected through these Web sites, http://www.burstmedia.com, http://ads.addesktop.com, http://www.burstnet.com and http://www.AdConductor.com. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at privacy@burstmedia.com. If you are not satisfied with our response you can contact [TRUSTe by clicking here](http://watchdog.truste.com/pvr.php?page=complaint).
+If you use a bulletin board or chat room on this website, you should be aware that any personally identifiable information you submit there can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages. We are not responsible for the personally identifiable information you choose to submit in these forums.  This website contains links to other sites that are not owned or controlled by RhythmOne. Please be aware that we are not responsible for the privacy practices of such other sites.  We encourage you to be aware when you leave our site and to read the privacy statements of each and every website that collects personally identifiable information. 
 
-### Third-Party Measurement Services
+**International Transfer**
 
-Often, advertisers will employ a third-party service provider other than Burst for serving the advertisements and for tracking the performance of an ad program. These companies may employ cookie and 1x1 pixel technology to measure and improve the effectiveness of ads for their client. These companies may collect and use anonymous information about your visits to our member websites and other websites. The information collected can include:
+Your information may be transferred to, and maintained on, computers located outside of your state, province, country or other governmental jurisdiction where the privacy laws may not be as protective as those in your jurisdiction.  If you are located outside the United States and choose to provide information to us, we transfer your personally identifiable information to the United States and processes it there.  Your submission of such information, or use of our website represents your agreement to that transfer.
 
-  1. Date/time of your visit
-  2. The banner ad that was shown
-  3. Unique user ID
-  4. Your IP address
-  5. The URLs of sites you visit
+**Notifications of Changes**
 
+If we decide to change our privacy policy, we will post these changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it. Any such modifications become effective upon your continued access to and/or use of the website five (5) days after we first post the changes on the website or otherwise provide you with notice of such modifications. It is your sole responsibility to check the website from time to time to view any such changes to the terms of this privacy policy. If you do not agree to any changes, if and when such changes may be made to this privacy policy, you must cease access to the website. If you have provided your email address to us, you give us permission to email you for the purpose of notification as described in this privacy policy.
 
+**Email Communications & Opting Out**
 
-This information can also be used for online preference marketing ("profiling") purposes. In these instances, Burst has no control over the information collected by the third-party, and may not be held responsible for the actions of the third-party measurement service where collected information is concerned.
+We will send you strictly service-related announcements on occasions when it is necessary to do so. For instance, if our service is temporarily suspended for maintenance, or a new account enhancement is released, which will affect the way you work with us, we might send you an email.  Generally, you may not opt-out of these communications, which are not promotional in nature. If you do not wish to receive them, you have the option to deactivate your account.  Based upon the personally identifiable information that you provide us, we will send you a welcome email with your username and password. We will also communicate with you in response to your inquiries to provide the services you request and to manage your account. We will communicate with you by email or telephone, in accordance with your wishes.  We do send out regular updates of recently added campaigns to RhythmOne publishers and other promotional communications. If you no longer wish to receive those email updates, you may opt-out of receiving them by following the instructions included in each update or communication. 
 
-If you are a **Burst Publisher** and have questions regarding different third-party measurement services and their respective methods of information collection, please contact [privacy@burstmedia.com](mailto:privacy@burstmedia.com).
+**Contact Us**
 
-If you are an **AdConductor Customer** and have questions regarding different third-party measurement services and their respective methods of information collection, please contact [privacy@AdConductor.com](mailto:privacy@adConductor.com).
-
-We do not share, sell, rent or trade PII with third-parties for promotional purposes:
-
-### Personal Information
-
-We collect information which is provided to us such as name, email and phone number on our site in the "Contact Us" section. This information is used to establish contact with perspective publishers and is only used for that purpose.
-
-Burst regards all personal information collected from **Burst Publisher** as completely confidential. This includes personal data provided during registration processes and financial account information. Burst does offer to advertisers any data which may facilitate the sale of advertising for a member site. This includes traffic data, click-thru rates, unique visitor information, website geographic location, content information, and any demographic information offered by the website member for the purpose of facilitating an advertising sale.
-
-Burst regards all personal information collected from its **AdConductor Customers** as completely confidential. This includes personal data provided during registration processes and financial account information.
-
-### Security
-
-The security of your personal information is important to us. When you enter sensitive information (such as Tax ID number and/or social security number) on our registration or order forms, we encrypt that information using secure socket layer technology (SSL). To learn more about SSL, follow this [link](http://www.thawte.com/resources/getting-started/how-ssl-works/index.html).
-
-We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. We use reasonable security to protect your personal information; we cannot guarantee its absolute security.
-
-If you have any questions about security on our website, you can email us at [security@burstmedia.com](mailto:security@burstmedia.com).
-
-### Disclosure
-
-Burst openly volunteers its practices of collecting information, its targeting capabilities, and its use of cookies. If you are a **Burst Publisher** and have any questions pertaining to this privacy policy and its contents, please direct your correspondence to [privacy@burstmedia.com](mailto:privacy@burstmedia.com).
-
-If you are an **AdConductor Customer** and have any questions pertaining to this privacy policy and its contents, please direct your correspondence to [privacy@AdConductor.com](mailto:privacy@adConductor.com).
-
-### Correcting/Updating/Deleting/Deactivating Personal Information
-
-If a user's personal information changes, (such as zip code, phone, email or postal address), or if a user no longer desires our service, we provide a way to correct, update or delete/deactivate users' personal information. This can be done by logging into your user account and updating your personal information or discontinuing service at anytime. Burst Publishers can direct their request to [privacy@burstmedia.com](mailto:privacy@burstmedia.com) and we will change the information, as requested within 30 days.
-
-**AdConductor Customers** can direct their request to [privacy@AdConductor.com](mailto:privacy@adConductor.com) and we will change the information, as requested within 30 days.
-
-Though we make every effort to preserve user privacy, we may need to disclose personal information when required by law wherein we have a good-faith belief that such action is necessary to comply with an appropriate law enforcement investigation, current judicial proceeding, a court order or legal process served on our Ad servers or website.
-
-### DATA RETENTION
-
-We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at [privacy@AdConductor.com](mailto:privacy@adConductor.com). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
-
-### Customer Testimonials
-
-We post customer testimonials on our website which may contain personal information such as the customer's name. We do obtain the customer's consent prior to posting the testimonial to post their name along with their testimonial. If you wish to update or delete your testimonial, you can contact us at [privacy@burstmedia.com](mailto:privacy@burstmedia.com).
-
-### Emails
-
-Service-related Announcements
-
-We will send you strictly service-related announcements on occasions when it is necessary to do so. For instance, if our service is temporarily suspended for maintenance, or a new account enhancement is released, which will affect the way you work with us, we might send you an email.
-
-Generally, you may not opt-out of these communications, which are not promotional in nature. If you do not wish to receive them, you have the option to deactivate your account. You can deactivate your account by contacting Publisher Services and requesting that your account be closed. You can reach publisher services by email: [support@burstmedia.com](mailto:support@burstmedia.com) or by phone: 800-876-4352 or 781-852-5293.
-
-Customer Service
-
-Based upon the personal information that you provide us, we will send you a welcoming email with your username and password. We will also communicate with you in response to your inquiries to provide the services you request and to manage your account. We will communicate with you by email or telephone, in accordance with your wishes.
-
-Choice/Opt-out
-
-We do send out regular updates of recently added campaigns to **Burst Publishers**. If you no longer wish to receive those email updates, you may opt-out of receiving them by following the instructions included in each update or communication, by emailing us at [support@burstmedia.com](mailto:support@burstmedia.com) or by calling us at: 800-876-4352 or 781-852-5293.
-
-Burst does not currently share personal information with third parties. Your information is only used to provide service and support while you work with Burst Media. Should that policy change, you will be notified when your personal information is collected by any third party that is not our agent/service provider, so that you can make an informed choice as to whether or not to share your information with that party.
-
-### Bulletin Boards/Chat Rooms/Blogs
-
-If you use a bulletin board or chat room on this site, you should be aware that any personal information you submit there can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages. We are not responsible for the personal information you choose to submit in these forums.
-
-This website contains links to other sites that are not owned or controlled by Burst Media Corporation. Please be aware that we, Burst Media Corporation, are not responsible for the privacy practices of such other sites.
-
-We encourage you to be aware when you leave our site and to read the privacy policies of each and every website that collects personal information.
-
-This privacy policy applies only to information collected by this website.
-
-### Social Media Features
-
-Our Web site includes Social Media Features, such as Facebook and Twitter. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it.
-
-### Notifications of Changes
-
-If we decide to change our privacy policy, we will post these changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it. Regardless of later updates, we will never use the information you submit under this current policy in a new way without first providing you an opportunity to opt-out or otherwise prevent that use. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page prior to the change becoming effective.
-
-**Burst Media  
-8 New England Executive Park  
-Burlington, MA 01803**
+If you have any questions, concerns or requests please contact us at [privacy@RhythmOne.com](mailto:privacy@RhythmOne.com)
