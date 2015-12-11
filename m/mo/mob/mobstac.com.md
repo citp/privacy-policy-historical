@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the mobstac.com privacy policy that was archived on 2015-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150313234934id_/http%3A//www.mobstac.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobstac.com privacy policy that was archived on 2015-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151211074255id_/http%3A//www.beaconstac.com/privacy) for the most accurate reproduction.*
 
-# Beacon proximity marketing and analytics software platform | MobStac
+# Privacy policy | Beaconstac
 
-MobileMotion Technologies ("Company" or “MobStac”) is committed to protecting the privacy of our customer's personal information. This statement applies with respect to the information that we collect from the Company Web site, located at www.mobstac.com. Amendments to this statement will be posted at this URL and will be effective when posted. Your continued use of this site following the posting of any amendment, modification or change shall constitute your acceptance thereof.
+MobileMotion Technologies and its subsidiaries ("Company" or “MobStac”) are committed to protecting the privacy of our customer's personal information. This statement applies with respect to the information that we collect from the Company Website, located at [www.mobstac.com](http://www.mobstac.com/) or product Website, located at [www.beaconstac.com](http://www.beaconstac.com/). Amendments to this statement will be posted at this URL and will be effective when posted. Your continued use of this site following the posting of any amendment, modification or change shall constitute your acceptance thereof.
 
 **I. INFORMATION COLLECTED**
 
@@ -16,19 +16,19 @@ Non-personal demographic and profile data is used to tailor your experience at o
 
 **III. USE OF IP ADDRESSES**
 
-We use your IP Address to help diagnose problems with our server, and to administer our Web site.
+We use your IP Address to help diagnose problems with our server, and to administer our Website.
 
 **IV. USE OF COOKIES**
 
-When you view our Web site we might store some information on your computer. This information will be in the form of a 'cookie' or similar file. Cookies are small pieces of information stored on your hard drive, not on our site. Cookies do not spy on you or otherwise invade your privacy, and they cannot invade your hard drive and steal information. Rather, they help you navigate a Web site as easily as possible. We use cookies to deliver content specific to your interests and to prevent you from reentering all your registration data at each connection.
+When you view our Website we might store some information on your computer. This information will be in the form of a 'cookie' or similar file. Cookies are small pieces of information stored on your hard drive, not on our site. Cookies do not spy on you or otherwise invade your privacy, and they cannot invade your hard drive and steal information. Rather, they help you navigate a Website as easily as possible. We use cookies to deliver content specific to your interests and to prevent you from reentering all your registration data at each connection.
 
 **V. SECURITY**
 
 Our site has industry standard security measures in place to protect the loss, misuse and alteration of the information under our control. While there is no such thing as 'perfect security' on the Internet, we will take all reasonable steps to insure the safety of your personal information.
 
-**VI. OTHER WEB SITES**
+**VI. OTHER WEBSITES**
 
-Our Web site contains links to other Web sites. MobStac is not responsible for the privacy practices or the content of such Web sites.
+Our Website contains links to other websites. MobStac is not responsible for the privacy practices or the content of such websites.
 
 **VII. UPDATE INFORMATION**
 
@@ -42,8 +42,8 @@ You may opt-out of using our services at any time by deleting your account and f
 
 **IX. PUBLIC FORUM**
 
-This site provides for message boards. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information.
+This site provides for message boards or support forums. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information.
 
 **Contacting Us**
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact us at [info@mobstac.com](mailto:info@mobstac.com)
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Website, you can contact us at [info@mobstac.com](mailto:info@mobstac.com)
