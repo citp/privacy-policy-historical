@@ -1,51 +1,88 @@
-<!--The following is the downloaded HTML source of the degreenexus.com privacy policy that was archived on 2015-06-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150613064514id_/http%3A//degreenexus.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the degreenexus.com privacy policy that was archived on 2015-12-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151211211321id_/http%3A//degreenexus.com/privacy) for the most accurate reproduction.-->
 
-<html><head></head><body><br>
-<b>Warning</b>:  Cannot modify header information - headers already sent by (output started at /home/degree9/public_html/privacy.php:16) in <b>/home/degree9/public_html/header.php</b> on line <b>7</b><br>
-<script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="http://ads.ebonyflirt.net/track?c=29&amp;b=2&amp;sec=31ae746ebc0ae3cc5392ab685db9eff585984adb&amp;rs=0.464334147066"></script> 
+<!DOCTYPE html><html><head>
 
-    
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+
     <title>List of Online Degree Colleges, Online Degree Programs, Online Degree Colleges</title>
+
     <meta name="description" content="DegreeNexus.com provide you all types of online degree programs, online degree colleges,  bachelors degree culinary arts, associate degree information technology and more in USA.">
+
 	<meta name="keywords" content="List of Online Degree Colleges">
+
     <meta name="google-site-verification" content="nUMZ61lVTPQ547ukvK928dEYSY2yQGkuF4v5FYkqBOE">
+
     <meta name="msvalidate.01" content="3F1E508C514BEA67A8BF1C4D39C6AC58">
-     <link rel="stylesheet" type="text/css" href="http://degreenexus.com/style.css">
-     <link rel="shortcut icon" type="image/png" href="http://degreenexus.com/favicon.ico">
+
+     <link rel="stylesheet" type="text/css" href="/style.css">
+
+     <meta name="viewport" content="width=device-width, initial-scale=1">
+
+     <link rel="shortcut icon" type="image/png" href="/favicon.ico">
+
     <!--[if lt IE 9]>
+
 <script src="js/html5.js" type="text/javascript"></script>
+
 <![endif]-->
+
+
 
     <!--[if IE]>
+
 <style type="text/css">
+
 /*
+
 .top_nav{ width:655px;}
+
 .top_nav a{ font-family:Arial, Helvetica, sans-serif; font-size:13px; font-weight:bold; /*padding:11px 24px;*/}
+
 .top_nav a.third{/*padding:11px 23px;*/}
+
 .top_nav a.fourth{/*padding:11px 22px;*/}
+
 .top_nav a.fifth{/*padding:11px 25px;*/}
+
 */
+
 .banner_description h1.banner_tiitle{font-family:Arial, Helvetica, sans-serif;}
+
 .banner_description h1.banner_tiitle span{font-family:Arial, Helvetica, sans-serif;}
+
 .banner_description p{ font-family:Arial, Helvetica, sans-serif;}
+
 .find_college_bl{ margin:35px 0 0;}
+
 .find_college_bl .title_bl{  font-size:18px;  font-family:Arial, Helvetica, sans-serif;}
+
 .top_sarched_school_bl .left_side .title_bl h2{ font-size:18px;  font-family:Arial, Helvetica, sans-serif;}
+
 .top_sarched_school_bl .left_side .title_bl h3{ font-size:18px;  font-family:Arial, Helvetica, sans-serif;}
+
 .article_bl h2.title{font-size:20px;  font-family:Arial, Helvetica, sans-serif;}
+
 .article_bl .article_content .tab ul li a{font-family:Arial, Helvetica, sans-serif;}
+
 .looking_to_change .single_bl h2{font-family:Arial, Helvetica, sans-serif;}
+
 .top_sarched_school_bl .right_side ul.side_nav li a{ font-size:14px; font-family:Arial, Helvetica, sans-serif; font-weight:bold;}
+
 .top_sarched_school_bl .right_side h2.title{font-size:15px; font-family:Arial, Helvetica, sans-serif; font-weight:bold;}
+
 .article_bl h2.title span.text{font-size:15px; font-family:Arial, Helvetica, sans-serif;} 
+
 </style>
+
 <![endif]-->
 
+
+
     <!-- TABBING -->
-    <script src="http://degreenexus.com/js/jquery.js" type="text/javascript"></script>
-<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
+
+    <script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script src="/js/jquery.js" type="text/javascript"></script>
+
 <script type="text/javascript">
 $(document).ready(function(){
         $('#filters a').click(function(e){
@@ -124,7 +161,7 @@ function checkno(no){
 }
   $(document).ready(function() {
     $('#FindCollege').submit(function() {
-		if($('#degree').val() == "" && $('#subject').val() == "" && ($('#zip').val() == "Enter Zip Code" || $('#zip').val() == "") && $('#state').val() == "" )
+		if($('#degree').val() == "" && $('#subject').val() == "" && $('#zip').val() == "Enter Zip Code")
 		{
 			alert('Please Select At Least One Field To Get Results');
 			$('#degree').focus();
@@ -133,33 +170,33 @@ function checkno(no){
 		var degree = $('#degree').val();
 		var subject = $('#subject').val();
 		var zip = $('#zip').val();
-		var state = $('#state').val();
+		var sdate = $('#sdate').val();
 		if(degree == "" ){ degree=null; }
 		if(subject == "" ){ subject=null; }
-		if(state == "" ){ state=null; }
+		if(sdate == "" ){ sdate=null; }
 		if(zip == "" || zip =="Enter Zip Code"){ zip=null; }
-		var str= 'http://degreenexus.com';
-		if(degree != null && subject != null && state != null && zip != null)
+		var str= '';
+		if(degree != null && subject != null && sdate != null && zip != null)
 		{
-			window.location.href = str + '/' + degree + '-in-' + subject + '-in-' + state + '-in-' + zip;
+			window.location.href = str + '/' + degree + '-in-' + subject + '-in-' + sdate + '-in-' + zip;
 		}
-		else if(degree != null && subject != null && state != null && zip == null)
+		else if(degree != null && subject != null && sdate != null && zip == null)
 		{
-			window.location.href = str + '/' + degree + '-in-' + subject + '-in-' + state;
+			window.location.href = str + '/' + degree + '-in-' + subject + '-in-' + sdate;
 		}
-		else if(degree != null && subject != null && state == null && zip != null)
+		else if(degree != null && subject != null && sdate == null && zip != null)
 		{
 			window.location.href = str + '/' + degree + '-in-' + subject + '-in-' + zip;
 		}
-		else if(degree == null && subject != null && state != null && zip != null)
+		else if(degree == null && subject != null && sdate != null && zip != null)
 		{
-			window.location.href = str + '/' + subject + '-in-' + state + '-in-' + zip;
+			window.location.href = str + '/' + subject + '-in-' + sdate + '-in-' + zip;
 		}
-		else if(degree != null && subject == null && zip != null && state != null)
+		else if(degree != null && subject == null && zip != null && sdate != null)
 		{
-			window.location.href = str + '/' + degree + '-in-' + state + '-in-' + zip;
+			window.location.href = str + '/' + degree + '-in-' + sdate + '-in-' + zip;
 		}
-		else if(degree != null && subject != null && zip == null && state == null)
+		else if(degree != null && subject != null && zip == null && sdate == null)
 		{
 			var myData = 'degree='+degree+ '&subject=' + subject;
 			$.ajax
@@ -181,25 +218,25 @@ function checkno(no){
 				}
 			});
 		}
-		else if(degree != null && subject == null && state != null && zip == null)
+		else if(degree != null && subject == null && sdate != null && zip == null)
 		{
-			window.location.href = str + '/' + degree + '-in-' + state;	
+			window.location.href = str + '/' + degree + '-in-' + sdate;	
 		}
-		else if(degree != null && subject == null && state == null && zip != null)
+		else if(degree != null && subject == null && sdate == null && zip != null)
 		{
 			window.location.href = str + '/' + degree + '-in-' + zip;	
 		}
-		else if(degree == null && subject != null && state != null && zip == null)
+		else if(degree == null && subject != null && sdate != null && zip == null)
 		{
-			window.location.href = str + '/' + subject + '-in-' + state;	
+			window.location.href = str + '/' + subject + '-in-' + sdate;	
 		}
-		else if(degree == null && subject != null && state == null && zip != null)
+		else if(degree == null && subject != null && sdate == null && zip != null)
 		{
 			window.location.href = str + '/' + subject + '-in-' + zip;	
 		}
-		else if(degree == null && subject == null && state != null && zip != null)
+		else if(degree == null && subject == null && sdate != null && zip != null)
 		{
-			window.location.href = str + '/' + state + '-in-' + zip;	
+			window.location.href = str + '/' + sdate + '-in-' + zip;	
 		}
 		else if(subject!=null)
 		{
@@ -214,9 +251,9 @@ function checkno(no){
 		{
 			window.location.href = str + '/' + zip;
 		}
-		else if(state != null)
+		else if(sdate != null)
 		{
-			window.location.href = str + '/' + state;
+			window.location.href = str + '/' + sdate;
 		}
      	return false;
     });
@@ -254,7 +291,7 @@ $(document).ready(function() {
 			}
 		}
 		s = s.substr(0,s.length-5);
-		var str= 'http://degreenexus.com';
+		var str= '';
 		if(zip != null && cnt != 0)
 		{
 			window.location.href = str + '/' + s + '-in-' + zip;
@@ -271,7 +308,17 @@ $(document).ready(function() {
     });
 });
 
-</script>		<meta content="index, follow" name="googlebot">
+</script>
+<!-- Navigation Mobile -->
+<link type="text/css" rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/jQuery.mmenu/5.5.3/core/css/jquery.mmenu.all.css">
+<script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/jQuery.mmenu/5.5.3/core/js/jquery.mmenu.min.all.js"></script>
+<script type="text/javascript">
+$(function() {
+	$('nav#menu').mmenu();
+});
+		</script>
+<!-- Navigation Mobile-->
+		<meta content="index, follow" name="googlebot">
 <meta content="index, follow" name="robots"><script>
   (function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
@@ -279,93 +326,220 @@ $(document).ready(function() {
   })(window,document,"script","//www.google-analytics.com/analytics.js","ga");
   ga("create", "UA-42232890-1", "degreenexus.com");
   ga("send", "pageview");
-</script>	    
-    <!-- Quantcast Tag -->
-<script type="text/javascript">
+</script>	
+    <script type="text/javascript">
+
 var _qevents = _qevents || [];
 
+
+
 (function() {
+
 var elem = document.createElement('script');
+
 elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+
 elem.async = true;
+
 elem.type = "text/javascript";
+
 var scpt = document.getElementsByTagName('script')[0];
+
 scpt.parentNode.insertBefore(elem, scpt);
+
 })();
 
-_qevents.push({
-qacct:"p-gE3zcZDCwd8WG"
-});
-</script>
 
-<noscript>
+
+_qevents.push({
+
+qacct:"p-gE3zcZDCwd8WG"
+
+});
+
+</script></head>
+
+    <!-- Quantcast Tag -->
+
+
+
+
+
+<body><noscript>
+
 <div style="display:none;">
+
 <img src="//pixel.quantserve.com/pixel/p-gE3zcZDCwd8WG.gif" border="0" height="1" width="1" alt="Quantcast"/>
+
 </div>
+
 </noscript>
+
 <!-- End Quantcast tag -->
+
     
+
+     <div id="page">
+
+     <div class="header">
+
+				<a href="#menu"></a>
+
+				Navigation
+
+			</div>
+
     <div class="container">
+
 <header>
+
         <div class="doc_width">
+
+          
+
           <div class="logo">
-          <a href="http://degreenexus.com" title="Home"><img src="http://degreenexus.com/images/logo.jpg" alt="Logo"></a></div>
+
+          <a href="" title="Home"><img src="/images/logo.jpg" alt="Logo"></a></div>
+
+          
+
           <nav class="top_nav"> 
+
           <ul class="main">
-          	<li class="first"><a href="http://degreenexus.com/degree" title="Degrees" class="  ">Degrees</a>
+
+          	<li class="first"><a href="/degree" title="Degrees" class="  ">Degrees</a>
+
             	<ul>
+
                 
+
                 <div style="width: 88px;height: 10px;margin-top: -5px;margin-left: -5px;padding-right: 10px;border-top: 1px solid #F1F1F1;top: 4px;position: absolute;"></div>
+
                 
-                							 <li class="firstili"><a class="firstili" href="http://degreenexus.com/associate-degree" title="Associate Degree">Associate Degree</a></li> 
-					  						 <li><a href="http://degreenexus.com/bachelor-degree" title="Bachelors Degree">Bachelors Degree</a></li> 
-					  						 <li><a href="http://degreenexus.com/master-degree" title="Master Degree">Master Degree</a></li> 
-					  						 <li><a href="http://degreenexus.com/doctrate-degree" title="Doctrate Degree ">Doctrate Degree </a></li> 
-					  						 <li class="lastili"><a class="lastili" href="http://degreenexus.com/certificate-programs" title="Certificate Programs &amp; Diploma">Certificate Programs &amp; Diploma</a></li> 
-					                  </ul>
+
+                	
+						 <li class="firstili"><a class="firstili" href="/associate-degree" title="Associate Degree">Associate Degree</a></li> 
+
+					  
+						 <li><a href="/bachelor-degree" title="Bachelors Degree">Bachelors Degree</a></li> 
+
+					  
+						 <li><a href="/master-degree" title="Master Degree">Master Degree</a></li> 
+
+					  
+						 <li><a href="/doctrate-degree" title="Doctrate Degree ">Doctrate Degree </a></li> 
+
+					  
+						 <li class="lastili"><a class="lastili" href="/certificate-programs" title="Certificate Programs &amp; Diploma">Certificate Programs &amp; Diploma</a></li> 
+
+					  
+                </ul>
+
             </li>
+
             	
-            <li class="second"><a href="http://degreenexus.com/subject" title="Subjects" class=" ">Subjects</a>
+
+            <li class="second"><a href="/subject" title="Subjects" class=" ">Subjects</a>
+
             	<ul>
+
                 
+
                 <div style="width: 89px;height: 10px;margin-top: -5px;margin-left: -5px;padding-right: 10px;border-top: 1px solid #F1F1F1;top: 4px;position: absolute;"></div>
+
                 
-                							 <li class="firstili"><a class="firstili" href="http://degreenexus.com/art-fashion" title="Art and Design">Art and Design</a></li> 
-					  						 <li><a href="http://degreenexus.com/business" title="Business ">Business </a></li> 
-					  						 <li><a href="http://degreenexus.com/education" title="Education">Education</a></li> 
-					  						 <li><a href="http://degreenexus.com/computers-it" title="Information Technology">Information Technology</a></li> 
-					  						 <li><a href="http://degreenexus.com/criminal-justice-legal" title="Criminal justice">Criminal justice</a></li> 
-					  						 <li><a href="http://degreenexus.com/culinary-services" title="Culinary Arts ">Culinary Arts </a></li> 
-					  						 <li><a href="http://degreenexus.com/health-medical" title="Healthcare ">Healthcare </a></li> 
-					  						 <li><a href="http://degreenexus.com/liberal-art" title="Liberal Arts">Liberal Arts</a></li> 
-					  						 <li><a href="http://degreenexus.com/trades-vocations" title="Vocational">Vocational</a></li> 
-					  						 <li class="lastili"><a class="lastili" href="http://degreenexus.com/nursing" title="Nursing">Nursing</a></li> 
-					                  </ul>
+
+                	
+						 <li class="firstili"><a class="firstili" href="/art-fashion" title="Art and Design">Art and Design</a></li> 
+
+					  
+						 <li><a href="/business" title="Business ">Business </a></li> 
+
+					  
+						 <li><a href="/education" title="Education">Education</a></li> 
+
+					  
+						 <li><a href="/computers-it" title="Information Technology">Information Technology</a></li> 
+
+					  
+						 <li><a href="/criminal-justice-legal" title="Criminal justice">Criminal justice</a></li> 
+
+					  
+						 <li><a href="/culinary-services" title="Culinary Arts ">Culinary Arts </a></li> 
+
+					  
+						 <li><a href="/health-medical" title="Healthcare ">Healthcare </a></li> 
+
+					  
+						 <li><a href="/liberal-art" title="Liberal Arts">Liberal Arts</a></li> 
+
+					  
+						 <li><a href="/trades-vocations" title="Vocational">Vocational</a></li> 
+
+					  
+						 <li class="lastili"><a class="lastili" href="/nursing" title="Nursing">Nursing</a></li> 
+
+					  
+                </ul>
+
             </li>
-            <li class="third"><a href="http://degreenexus.com/states" title="Colleges By State" class=" ">Colleges By State</a>
+
+            <li class="third"><a href="/states" title="Colleges By State" class=" ">Colleges By State</a>
+
             	<!--<ul class="state">
-                	                
+
+                	
+                
+
                 <li class='lastili'><a class='lastili' href="< ?=$frontpath?>/states.php" title="All States">See All States</a></li>
+
                 		
+
                 </ul>-->
+
             </li>
-            <li class="fourth"><a href="http://degreenexus.com/online-colleges" title="Online Colleges" class=" ">Online Colleges</a></li>
-            <li class="fifth"><a href="http://degreenexus.com/articles" title="Articles" class=" ">Articles</a>
+
+            <li class="fourth"><a href="/online-colleges" title="Online Colleges" class=" ">Online Colleges</a></li>
+
+            <li class="fifth"><a href="/articles" title="Articles" class=" ">Articles</a>
+
             	<ul>
+
                 
+
                 <div style="width: 87px;height: 10px;margin-top: -5px;margin-left: -5px;padding-right: 10px;border-top: 1px solid #F1F1F1;top: 4px;position: absolute;"></div>
+
                 
-                							 <li class="firstili"><a class="firstili" href="http://degreenexus.com/article/adult-learner.html" title="Adult Learner">Adult Learner</a></li> 
-					  						 <li><a href="http://degreenexus.com/article/new-student.html" title="New Student">New Student</a></li> 
-					  						 <li><a href="http://degreenexus.com/article/military.html" title="Military">Military</a></li> 
-					  						 <li><a href="http://degreenexus.com/article/types-of-financial-aid.html" title="Types of Financial Aid">Types of Financial Aid</a></li> 
-					  						 <li class="lastili"><a class="lastili" href="http://degreenexus.com/article/online-vs-campus.html" title="Online vs. Campus">Online vs. Campus</a></li> 
-					                  </ul>
+
+                	
+						 <li class="firstili"><a class="firstili" href="/article/adult-learner.html" title="Adult Learner">Adult Learner</a></li> 
+
+					  
+						 <li><a href="/article/new-student.html" title="New Student">New Student</a></li> 
+
+					  
+						 <li><a href="/article/military.html" title="Military">Military</a></li> 
+
+					  
+						 <li><a href="/article/types-of-financial-aid.html" title="Types of Financial Aid">Types of Financial Aid</a></li> 
+
+					  
+						 <li class="lastili"><a class="lastili" href="/article/online-vs-campus.html" title="Online vs. Campus">Online vs. Campus</a></li> 
+
+					  
+                </ul>
+
             </li>
+
             </ul>
+
           </nav>
+
         </div>
-      </header>      <div id="content">
+
+      </header>
+
+           <div id="content">
         <div class="doc_width">
           <div class="banner_bl">
             <div class="banner_description">
@@ -373,106 +547,130 @@ qacct:"p-gE3zcZDCwd8WG"
               <p style="height:24px;"><!--As more people find out each day online education courses offer numerous advantages. The courses often give at lower cost more flexibility because the professional does not have to waste time and money commuting to class.--></p>
             </div>
             <div class="find_college_bl">
+
               <div class="title_bl">FIND A COLLEGE TODAY!</div>
+
               <div class="selection_bl">
-              <form name="FindCollege" action="http://degreenexus.com/schools.php" id="FindCollege"> 
+
+              <form name="FindCollege" action="/schools.php" id="FindCollege"> 
+
                 <ul>
+
                   <li>
+
                     <select name="degree" id="degree" title="Select Degree">
+
                       <option value="">Select Degree</option>
-                                                  <option value="associate-degree">Associate Degree</option>
-                                                  <option value="bachelor-degree">Bachelors Degree</option>
-                                                  <option value="master-degree">Master Degree</option>
-                                                  <option value="doctrate-degree">Doctrate Degree </option>
-                                                  <option value="certificate-programs">Certificate Programs &amp; Diploma</option>
-                                          </select>
+
+                      
+                            <option value="associate-degree">Associate Degree</option>
+
+                      
+                            <option value="bachelor-degree">Bachelors Degree</option>
+
+                      
+                            <option value="master-degree">Master Degree</option>
+
+                      
+                            <option value="doctrate-degree">Doctrate Degree </option>
+
+                      
+                            <option value="certificate-programs">Certificate Programs &amp; Diploma</option>
+
+                      
+                    </select>
+
                   </li>
+
                   <li>
+
                     <select name="subject" id="subject" title="Select Subject">
+
                       <option value="">Select Subject</option>
-                                                 <option value="art-fashion">Art and Design</option>
-                                                  <option value="business">Business </option>
-                                                  <option value="education">Education</option>
-                                                  <option value="computers-it">Information Technology</option>
-                                                  <option value="criminal-justice-legal">Criminal justice</option>
-                                                  <option value="culinary-services">Culinary Arts </option>
-                                                  <option value="health-medical">Healthcare </option>
-                                                  <option value="liberal-art">Liberal Arts</option>
-                                                  <option value="trades-vocations">Vocational</option>
-                                                  <option value="nursing">Nursing</option>
-                                          </select>
+
+                     
+                            <option value="art-fashion">Art and Design</option>
+
+                      
+                            <option value="business">Business </option>
+
+                      
+                            <option value="education">Education</option>
+
+                      
+                            <option value="computers-it">Information Technology</option>
+
+                      
+                            <option value="criminal-justice-legal">Criminal justice</option>
+
+                      
+                            <option value="culinary-services">Culinary Arts </option>
+
+                      
+                            <option value="health-medical">Healthcare </option>
+
+                      
+                            <option value="liberal-art">Liberal Arts</option>
+
+                      
+                            <option value="trades-vocations">Vocational</option>
+
+                      
+                            <option value="nursing">Nursing</option>
+
+                      
+                    </select>
+
                   </li>
-                  <li>
-                    <select name="state" id="state" title="Select State">
-                      <option value="">Select Location</option>
-                      <option value="online">Online</option>
-                                                  <option value="alabama">Alabama</option>
-                                                  <option value="alaska">Alaska</option>
-                                                  <option value="arizona">Arizona</option>
-                                                  <option value="arkansas">Arkansas</option>
-                                                  <option value="california">California</option>
-                                                  <option value="colorado">Colorado</option>
-                                                  <option value="connecticut">Connecticut</option>
-                                                  <option value="delaware">Delaware</option>
-                                                  <option value="columbia">District of Columbia</option>
-                                                  <option value="florida">Florida</option>
-                                                  <option value="georgea">Georgia</option>
-                                                  <option value="hawaii">Hawaii</option>
-                                                  <option value="idaho">Idaho</option>
-                                                  <option value="illinois">Illinois</option>
-                                                  <option value="indiana">Indiana</option>
-                                                  <option value="lowa">Iowa</option>
-                                                  <option value="kansas">Kansas</option>
-                                                  <option value="kentucky">Kentucky</option>
-                                                  <option value="louisiana">Louisiana</option>
-                                                  <option value="maine">Maine</option>
-                                                  <option value="maryland">Maryland</option>
-                                                  <option value="massachusetts">Massachusetts</option>
-                                                  <option value="michigan">Michigan</option>
-                                                  <option value="minnesota">Minnesota</option>
-                                                  <option value="mississippi">Mississippi</option>
-                                                  <option value="missouri">Missouri</option>
-                                                  <option value="montana">Montana</option>
-                                                  <option value="nebraska">Nebraska</option>
-                                                  <option value="nevada">Nevada</option>
-                                                  <option value="newhampshire">New Hampshire</option>
-                                                  <option value="newjersey">New Jersey</option>
-                                                  <option value="newmexico">New Mexico</option>
-                                                  <option value="newyork">New York</option>
-                                                  <option value="northcarolina">North Carolina</option>
-                                                  <option value="north-dakota">North Dakota</option>
-                                                  <option value="ohio">Ohio</option>
-                                                  <option value="oklahoma">Oklahoma</option>
-                                                  <option value="oregon">Oregon</option>
-                                                  <option value="pennsylvania">Pennsylvania</option>
-                                                  <option value="rhodeisland">Rhode Island</option>
-                                                  <option value="southcarolina">South Carolina</option>
-                                                  <option value="southdakota">South Dakota</option>
-                                                  <option value="tennessee">Tennessee</option>
-                                                  <option value="texas">Texas</option>
-                                                  <option value="utah">Utah</option>
-                                                  <option value="vermont">Vermont</option>
-                                                  <option value="virginia">Virginia</option>
-                                                  <option value="washington">Washington</option>
-                                                  <option value="west-virginia">West Virginia</option>
-                                                  <option value="wisconsis">Wisconsis</option>
-                                                  <option value="wyoming">Wyoming</option>
-                                          </select>
-                  </li>
+
+                  <!--<li>-->
+
+                  <!--<select name="sdate" id="sdate" title="Select Start Date">
+
+                      <option value="">Select Start Date</option>
+
+                      <option value="Less than 1 month">Less than 1 month</option>
+
+                      <option value="1-3 months">1-3 months</option>
+
+                      <option value="4-6 months">4-6 months</option>
+
+                      <option value="6 months or more">6 months or more</option>
+
+                   </select>-->
+
+                   <!-- <select name="sdate" id="sdate" title="Select Start Date">
+
+                      <option value="">Select Start Date</option>
+
+                      
+                    </select>
+
+                  </li>-->
+
                   <li class="last">
+
                     <input type="text" class="textbox" value="Enter Zip Code" onfocus="if(this.value=='Enter Zip Code') this.value='';" onblur="if(this.value=='') this.value='Enter Zip Code';" id="zip" name="zip" maxlength="5" onkeyup="checkno(this);" title="Enter Zipcode">
+
                   </li>
+
                   <li class="last">
+
                     <input type="submit" value="" class="submit">
+
                   </li>
+
                 </ul>
+
                 </form>
+
               </div>
+
             </div>          </div>          <div class="content_bottom">
             <div class="top_sarched_school_bl">
               <div class="left_side">
               	
-                <div><a style="color:#5D5D5D; font-size:12px;" href="http://degreenexus.com" title="Home">Home »</a> Privacy Policy</div>
+                <div><a style="color:#5D5D5D; font-size:12px;" href="" title="Home">Home »</a> Privacy Policy</div>
                               
         		<div class="title_bl">
                   	<h3>Privacy Policy</h3>
@@ -512,16 +710,34 @@ Some of our web pages provide content relevant to children. In compliance with o
               </div>
               <div class="right_side">
                <h2 class="title">Articles and Education Guides</h2>
+
                 <ul class="side_nav">
-                	                              <li><a href="http://degreenexus.com/article/types-of-financial-aid.html" title="Types of Financial Aid"><span>Types of Financial Aid</span><span class="bg"></span></a></li>
-                                                  <li><a href="http://degreenexus.com/article/online-vs-campus.html" title="Online vs. Campus"><span>Online vs. Campus</span><span class="bg"></span></a></li>
-                                                  <li><a href="http://degreenexus.com/article/adult-learner.html" title="Adult Learner"><span>Adult Learner</span><span class="bg"></span></a></li>
-                                                  <li><a href="http://degreenexus.com/article/new-student.html" title="New Student"><span>New Student</span><span class="bg"></span></a></li>
-                                                  <li><a href="http://degreenexus.com/article/military.html" title="Military"><span>Military</span><span class="bg"></span></a></li>
-                                      </ul>
+
+                	  
+                            <li><a href="/article/types-of-financial-aid.html" title="Types of Financial Aid"><span>Types of Financial Aid</span><span class="bg"></span></a></li>
+
+                      
+                            <li><a href="/article/online-vs-campus.html" title="Online vs. Campus"><span>Online vs. Campus</span><span class="bg"></span></a></li>
+
+                      
+                            <li><a href="/article/adult-learner.html" title="Adult Learner"><span>Adult Learner</span><span class="bg"></span></a></li>
+
+                      
+                            <li><a href="/article/new-student.html" title="New Student"><span>New Student</span><span class="bg"></span></a></li>
+
+                      
+                            <li><a href="/article/military.html" title="Military"><span>Military</span><span class="bg"></span></a></li>
+
+                      
+                </ul>
+
                 
-                				
-                                              </div>
+
+                
+				
+
+                
+                              </div>
             </div>
             
           </div>
@@ -533,11 +749,11 @@ Some of our web pages provide content relevant to children. In compliance with o
             <div class="link_list">
               <h2>Subjects</h2>
               <ul>
-              							 <li><a href="http://degreenexus.com/art-fashion" title="Art and Design">Art and Design</a></li> 
-					  						 <li><a href="http://degreenexus.com/business" title="Business ">Business </a></li> 
-					  						 <li><a href="http://degreenexus.com/education" title="Education">Education</a></li> 
-					  						 <li><a href="http://degreenexus.com/computers-it" title="Information Technology">Information Technology</a></li> 
-					  						 <li><a href="http://degreenexus.com/criminal-justice-legal" title="Criminal justice">Criminal justice</a></li> 
+              							 <li><a href="/art-fashion" title="Art and Design">Art and Design</a></li> 
+					  						 <li><a href="/business" title="Business ">Business </a></li> 
+					  						 <li><a href="/education" title="Education">Education</a></li> 
+					  						 <li><a href="/computers-it" title="Information Technology">Information Technology</a></li> 
+					  						 <li><a href="/criminal-justice-legal" title="Criminal justice">Criminal justice</a></li> 
 					                  <!--<li><a href="#" title="Subjects">Subjects</a></li>
                 <li><a href="#" title="Art & Fashion">Art & Fashion</a></li>
                 <li><a href="#" title="Business and MBA">Business and MBA</a></li>
@@ -549,11 +765,11 @@ Some of our web pages provide content relevant to children. In compliance with o
             <div class="link_list">
               <h2>Degrees</h2>
               <ul>
-              							 <li><a href="http://degreenexus.com/associate-degree" title="Associate Degree">Associate Degree</a></li> 
-					  						 <li><a href="http://degreenexus.com/bachelor-degree" title="Bachelors Degree">Bachelors Degree</a></li> 
-					  						 <li><a href="http://degreenexus.com/master-degree" title="Master Degree">Master Degree</a></li> 
-					  						 <li><a href="http://degreenexus.com/doctrate-degree" title="Doctrate Degree ">Doctrate Degree </a></li> 
-					  						 <li><a href="http://degreenexus.com/certificate-programs" title="Certificate Programs &amp; Diploma">Certificate Programs &amp; Diploma</a></li> 
+              							 <li><a href="/associate-degree" title="Associate Degree">Associate Degree</a></li> 
+					  						 <li><a href="/bachelor-degree" title="Bachelors Degree">Bachelors Degree</a></li> 
+					  						 <li><a href="/master-degree" title="Master Degree">Master Degree</a></li> 
+					  						 <li><a href="/doctrate-degree" title="Doctrate Degree ">Doctrate Degree </a></li> 
+					  						 <li><a href="/certificate-programs" title="Certificate Programs &amp; Diploma">Certificate Programs &amp; Diploma</a></li> 
 					                  <!--<li><a href="#" title="Certificate & Diploma">Certificate & Diploma</a></li>
                 <li><a href="#" title="Associate Degree">Associate Degree</a></li>
                 <li><a href="#" title="Bachelor's Degree">Bachelor's Degree</a></li>
@@ -566,25 +782,80 @@ Some of our web pages provide content relevant to children. In compliance with o
               <ul>
                 <!--<li><a href="< ?=$frontpath?>/write-for-us.php" title="Write for DegreeNexus.com">Write for DegreeNexus.com</a></li>
                 <li><a href="< ?=$frontpath?>/top-choice-awards.php" title="Top Choice Award">Top Choice Award</a></li>-->
-                <li><a href="http://degreenexus.com/about-us" title="About Us">About Us</a></li>
-                <li><a href="http://degreenexus.com/terms" title="Terms">Terms</a></li>
-                <li><a href="http://degreenexus.com/contact-us" title="Contact">Contact</a></li>
+                <li><a href="/about-us" title="About Us">About Us</a></li>
+                <li><a href="/terms" title="Terms">Terms</a></li>
+                <li><a href="/contact-us" title="Contact">Contact</a></li>
               </ul>
             </div>
             <div class="social_bl">
-              <div class="logo2"><a href="http://degreenexus.com" title="Home"><img src="http://degreenexus.com/images/logo2.png" alt="Logo"></a></div>
-              <!--<div class="social"><a href="http://facebook.com" title="facebook"><img src="http://degreenexus.com/images/social1.png" alt="facebook"></a><a href="http://twitter.com" title="twitter"><img src="http://degreenexus.com/images/social2.png" alt="twitter"></a><a href="http://plus.google.com/" title="google"><img src="http://degreenexus.com/images/social3.png" alt="google"></a></div>-->
+              <div class="logo2"><a href="" title="Home"><img src="/images/logo2.png" alt="Logo"></a></div>
+              <!--<div class="social"><a href="http://facebook.com" title="facebook"><img src="/images/social1.png" alt="facebook"></a><a href="http://twitter.com" title="twitter"><img src="/images/social2.png" alt="twitter"></a><a href="http://plus.google.com/" title="google"><img src="/images/social3.png" alt="google"></a></div>-->
             </div>
           </div>
           <div class="footer_bottom">
-            <nav class="footer_nav"><a href="http://degreenexus.com/about-us" title="About Us">About Us</a>|<a href="http://degreenexus.com/contact-us" title="Contact Us">Contact Us</a>|<a href="http://degreenexus.com/privacy" title="Privacy ">Privacy </a>|<a href="http://degreenexus.com/sitemap" title="Sitemap">Sitemap </a></nav>
+            <nav class="footer_nav"><a href="/about-us" title="About Us">About Us</a>|<a href="/contact-us" title="Contact Us">Contact Us</a>|<a href="/privacy" title="Privacy ">Privacy </a>|<a href="/sitemap" title="Sitemap">Sitemap </a></nav>
             <div class="copyright">
               <p>© 2015 DegreeNexus.com | All Rights Reserved</p>
               <!--<p>Designed & Developed by <a href="http://www.glorywebs.com" title="Glorywebs" target="_blank" >Glorywebs.com <img src="images/glorywebs_icon.jpg" alt="Glorywebs_icon"></a></p>-->
             </div>
           </div>
         </div>
-      </footer>    </div>
+      </footer>
+      <nav id="menu"> 
+          <ul class="menu">
+          	<li class="first"><a href="/degree" title="Degrees" class="  ">Degrees</a>
+            	<ul>
+                
+                <div style="width: 88px;height: 10px;margin-top: -5px;margin-left: -5px;padding-right: 10px;border-top: 1px solid #F1F1F1;top: 4px;position: absolute;"></div>
+                
+                							 <li class="firstili"><a class="firstili" href="/associate-degree" title="Associate Degree">Associate Degree</a></li> 
+					  						 <li><a href="/bachelor-degree" title="Bachelors Degree">Bachelors Degree</a></li> 
+					  						 <li><a href="/master-degree" title="Master Degree">Master Degree</a></li> 
+					  						 <li><a href="/doctrate-degree" title="Doctrate Degree ">Doctrate Degree </a></li> 
+					  						 <li class="lastili"><a class="lastili" href="/certificate-programs" title="Certificate Programs &amp; Diploma">Certificate Programs &amp; Diploma</a></li> 
+					                  </ul>
+            </li>
+            	
+            <li class="second"><a href="/subject" title="Subjects" class=" ">Subjects</a>
+            	<ul>
+                
+                <div style="width: 89px;height: 10px;margin-top: -5px;margin-left: -5px;padding-right: 10px;border-top: 1px solid #F1F1F1;top: 4px;position: absolute;"></div>
+                
+                							 <li class="firstili"><a class="firstili" href="/art-fashion" title="Art and Design">Art and Design</a></li> 
+					  						 <li><a href="/business" title="Business ">Business </a></li> 
+					  						 <li><a href="/education" title="Education">Education</a></li> 
+					  						 <li><a href="/computers-it" title="Information Technology">Information Technology</a></li> 
+					  						 <li><a href="/criminal-justice-legal" title="Criminal justice">Criminal justice</a></li> 
+					  						 <li><a href="/culinary-services" title="Culinary Arts ">Culinary Arts </a></li> 
+					  						 <li><a href="/health-medical" title="Healthcare ">Healthcare </a></li> 
+					  						 <li><a href="/liberal-art" title="Liberal Arts">Liberal Arts</a></li> 
+					  						 <li><a href="/trades-vocations" title="Vocational">Vocational</a></li> 
+					  						 <li class="lastili"><a class="lastili" href="/nursing" title="Nursing">Nursing</a></li> 
+					                  </ul>
+            </li>
+            <li class="third"><a href="/states" title="Colleges By State" class=" ">Colleges By State</a>
+            	<!--<ul class="state">
+                	                
+                <li class='lastili'><a class='lastili' href="< ?=$frontpath?>/states.php" title="All States">See All States</a></li>
+                		
+                </ul>-->
+            </li>
+            <li class="fourth"><a href="/online-colleges" title="Online Colleges" class=" ">Online Colleges</a></li>
+            <li class="fifth"><a href="/articles" title="Articles" class=" ">Articles</a>
+            	<ul>
+                
+                <div style="width: 87px;height: 10px;margin-top: -5px;margin-left: -5px;padding-right: 10px;border-top: 1px solid #F1F1F1;top: 4px;position: absolute;"></div>
+                
+                							 <li class="firstili"><a class="firstili" href="/article/adult-learner.html" title="Adult Learner">Adult Learner</a></li> 
+					  						 <li><a href="/article/new-student.html" title="New Student">New Student</a></li> 
+					  						 <li><a href="/article/military.html" title="Military">Military</a></li> 
+					  						 <li><a href="/article/types-of-financial-aid.html" title="Types of Financial Aid">Types of Financial Aid</a></li> 
+					  						 <li class="lastili"><a class="lastili" href="/article/online-vs-campus.html" title="Online vs. Campus">Online vs. Campus</a></li> 
+					                  </ul>
+            </li>
+            </ul>
+          </nav>
+      </div>    </div>
 
 
 </body></html>
