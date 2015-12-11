@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the africaguide.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610052700id_/http%3A//www.africaguide.com/main/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the africaguide.com privacy policy that was archived on 2015-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151211154500id_/http%3A//www.africaguide.com/main/privacy_policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
 **Internet Privacy and Cookies Policy**
 
-At Africa Guide we are committed to safeguarding and preserving the privacy of our visitors. This Privacy Policy document (the "Policy") has been provided by the legal resource [DIY Legals](http://www.diylegals.co.uk/ecommerce/website-privacy-policy/) and reviewed and approved by their solicitors.
+At Africa Guide we are committed to safeguarding and preserving the privacy of our visitors. This Privacy Policy document (the "Policy") has been provided by the legal resource [DIY Legals ](http://www.diylegals.co.uk/ecommerce/website-privacy-policy/) and reviewed and approved by their solicitors.
 
 This Policy explains what happens to any personal data that you provide to us, or that we collect from you whilst you visit our site and how we use cookies on this website.
 
