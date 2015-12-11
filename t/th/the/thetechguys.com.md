@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thetechguys.com privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612124001id_/http%3A//knowhow.com/article.dhtml%3FarticleReference%3D320%26country%3Duk) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thetechguys.com privacy policy that was archived on 2015-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151211180654id_/http%3A//knowhow.com/article.dhtml%3FarticleReference%3D320%26country%3Duk) for the most accurate reproduction.*
 
 # KNOWHOW | Privacy & Cookies
 
@@ -112,7 +112,7 @@ Back to top
 
 ####  WHO WE ARE
 
-In this Privacy Policy references to ‘we’ and ‘us’s are to DSG Retail Limited trading as Knowhow, Currys, PC World and Partmaster Direct, company number 504877, registered office Maylands Avenue, Hemel Hempstead, Hertfordshire HP2 7TG.
+In this Privacy Policy references to ‘we’ and ‘us’s are to DSG Retail Limited trading as Knowhow, Currys, PC World and Partmaster Direct, company number 504877, registered office 1 Portal Way, Acton, London, W3 6RS.
 
 ####  WHAT INFORMATION WE COLLECT AND HOW
 
@@ -152,11 +152,9 @@ We will then suppress your data from all direct marketing, although we will stil
 
 Subject Access Request  
 Legal Services  
-DSG Retail Limited  
-Maylands Avenue  
-Hemel Hempstead  
-Hertfordshire  
-HP2 7TG
+1 Portal Way  
+Acton, London  
+W3 6RS
 
 **OTHER WEBSITES**
 
