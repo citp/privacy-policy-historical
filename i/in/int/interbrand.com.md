@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the interbrand.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609235334id_/http%3A//www.interbrand.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the interbrand.com privacy policy that was archived on 2015-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151211104327id_/http%3A//interbrand.com/privacy) for the most accurate reproduction.*
 
-# Interbrand is committed to protecting your privacy – Interbrand
+# Privacy - Interbrand
 
 ### Effective on: April 8th, 2014  
 Last updated on: April 8th, 2014
@@ -25,7 +25,7 @@ Our site will automatically collect information from or about your computer when
 
 We also collect information through cookies and other technologies to help us keep track of your interactions with our site. If you have shared Personal Information, such as an e-mail address or username, we will include a portion of this information in a cookie so that we can recognize you and remember your selections when you return to our site. Please note that your web browser can be set to allow you to control whether you will accept cookies, reject cookies, or to notify you each time a cookie is sent.
 
-We also use standard Internet technology, such as Internet tags (also known as Web beacons, action tags, or GIFs) in combination with cookies at our site and will deploy these tags through an advertising company. These tags are placed on both online advertisements that bring users to our site and on different pages within our site. We use this technology to measure visitors' responses to our site and the effectiveness of our advertising campaigns (including how many times a page is opened and which information is consulted). Please be assured that we do not collect or seek through these tags or cookies any Personal Information about our visitors.
+We also use standard Internet technology, such as Internet tags (also known as Web beacons, action tags, or GIFs) in combination with cookies at our site and will deploy these tags through an advertising company. These tags are placed on both online advertisements that bring users to our site and on different pages within our site. We use this technology to measure visitors’ responses to our site and the effectiveness of our advertising campaigns (including how many times a page is opened and which information is consulted). Please be assured that we do not collect or seek through these tags or cookies any Personal Information about our visitors.
 
 Cookies or Internet tags may also be used within certain promotional e-mail communications or in conjunction with such communications sent by us or our business partners for the purpose of tracking whether a promotion was viewed by the e-mail recipient or someone the e-mail was referred to. These cookies or Internet tags are not linked to your Personal Information.
 
@@ -55,7 +55,7 @@ By registering for recurring Interbrand newsletters or alerts, you agree to rece
 
 We ask for your e-mail address at registration. We will send e-mails to this address to confirm your registration, to provide newsletters or alerts and to contact you for any other reason. In addition, we may contact you regarding your account status. If you sign up to receive any of our newsletters, alerts, or surveys, you may on occasion receive other correspondence from Interbrand. Your e-mail address will not be shared with any third party other than an agent who has agreed to send e-mails on our behalf.
 
-The site also includes a feature that enables Interbrand to send links to its content through e-mail at our users' request. The e-mail address(es) that you supply in connection with this service will be used only to send the requested content. They will not be stored or reused for any purpose.
+The site also includes a feature that enables Interbrand to send links to its content through e-mail at our users’ request. The e-mail address(es) that you supply in connection with this service will be used only to send the requested content. They will not be stored or reused for any purpose.
 
 ### Your Choices
 
