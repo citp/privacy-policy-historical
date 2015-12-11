@@ -1,97 +1,70 @@
-> *The following text is extracted and transformed from the bryantstratton.edu privacy policy that was archived on 2015-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150506054319id_/http%3A//www.bryantstratton.edu/online/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bryantstratton.edu privacy policy that was archived on 2015-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151211130337id_/http%3A//www.bryantstratton.edu/utilities/privacy-policy) for the most accurate reproduction.*
 
-# privacy policy
+# Bryant & Stratton College Privacy Policy | Bryant & Stratton College
 
-**What information do we collect?**
+Bryant & Stratton College is committed to protecting the privacy of our website users. Our privacy policy has been developed as an extension of our commitment to the highest level of integrity in dealing with our students and associates and covers any visitor to our website, including current and prospective students. This privacy policy applies specifically to information collected from this website and how it will be utilized for marketing and student recruitment purposes.
 
-We collect information from you when you fill out a form. 
+The Bryant & Stratton College privacy policy guides how we collect, store and use information about students, associates, and potential students, and it will be periodically assessed against new regulations, technologies, business practices and our constituents' changing needs.
 
-Any data we request that is not required will be specified as voluntary or optional. 
+Bryant & Stratton College may, from time to time, modify this Privacy Policy to reflect legal, technological and other developments. In that event, the changes will appear at this location.
 
-When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, phone number or social security number. You may, however, visit our site anonymously.
+Please note that privacy notices advising students and potential students as to the specific uses that are being made of their Personally-Identifiable Information by Bryant & Stratton College may also be modified from time to time to reflect changes in business practices. In this event, those changes will appear in the relevant privacy notices.
 
-Like most websites, we use cookies to enhance your experience, gather general visitor information, and track visits to our website. Please refer to the 'do we use cookies?' section below for information about cookies and how we use them.
+The College Privacy Policy complies with privacy regulations set forth by FERPA, GLBA, HIPAA, and other privacy regulations that apply to Bryant & Stratton College in the United States.
 
-**What do we use your information for?**
+Bryant & Stratton College will also comply with applicable non-U.S. laws that impose additional responsibilities on Bryant & Stratton College beyond those stated in this Policy in connection with the treatment of Personally-Identifiable Information about its students and prospects.
 
-Any of the information we collect from you may be used in one of the following ways: 
+Our Policy recognizes two kinds of personal data that deserve varying levels of protection. Personally-Identifiable Information includes, for example, e-mail addresses, billing information, employment status and "click stream" data that tracks user activity on a Web site or online service. A subset of that category, Sensitive Data, deserves additional safeguards. Sensitive Data includes, by way of example, Social Security numbers, personal financial data and information about specific medical conditions.
 
-  * To personalize your experience (your information helps us to better respond to your individual needs)
+Bryant & Stratton College is committed to using all reasonable efforts to abide by the following Policy statement:
 
+**Information Collected.** Bryant & Stratton College collects various types of information through this website.
 
-  * To improve our website (we continually strive to improve our website offerings based on the information and feedback we receive from you)
+Bryant & Stratton College may use information collected through cookies to analyze trends, administer the site, or for research and marketing purposes. No information which personally identifies site visitors will be collected through the cookies. Visitors can set their browsers to block and/or notify themselves of a cookie’s presence.
 
+Personally identifiable information may be collected when the website user provides the information in response to an advertisement, a request for Information, or when registering for our educational or other services. Personally-Identifiable Information will only be collected to the extent that Bryant & Stratton College deems reasonably necessary to serve a legitimate business purpose. Please be aware that if you disclose Personally-Identifiable Information on Web site message boards, social media sites, or chat areas, that information may be collected and used by third parties without our knowledge and may result in unsolicited communications from third parties. Such activities are beyond the control of Bryant & Stratton College.
 
-  * To improve customer service (your information helps us to more effectively respond to your customer service requests and support needs)
+**Information Uses:** We will not sell, rent or lease personal information to others. We may collect, use and disclose personal information for the following purposes: 
 
-
-  * To send periodic emails 
-
-
-
-The email address you provide for order processing, will only be used to send you information and updates pertaining to your order or request.  
-
-
-You may receive emails that may include company news, updates, related product or service information, etc.
-
-Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
-
-**How do we protect your information?**
-
-We implement a variety of security measures to maintain the safety of your personal information when you submit a request. 
-
-These security measures include: password protected directories and databases to safeguard your information. 
-
-We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential.
-
-After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be stored on our servers.
-
-**Do we use cookies?**
-
-Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information.
-
-**Do we disclose any information to outside parties?**
-
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others' rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
-
-**Childrens Online Privacy Protection Act Compliance**
-
-We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
-
-**CAN-SPAM Compliance**
-
-We have taken the necessary steps to ensure that we are compliant with the CAN-SPAM Act of 2003 by never sending out misleading information.
-
-**Your Consent**
-
-By using our site, you consent to our privacy policy.
-
-**Changes to our Privacy Policy**
-
-If we decide to change our privacy policy, we will post those changes on this page. 
-
-**Contacting Us**
-
-If there are any questions regarding this privacy policy you may contact us using the information below. 
-
-Bryant & Stratton College 
-
-Online Education
-
-Orchard Park, NY 14127 
-
-USA 
-
-[info@bryantstratton.edu](ailto:info@bryantstratton.edu)
-
-**Privacy Policy Customer Pledge**
-
-  
-We pledge to you, our customer, that we have made a dedicated effort to bring our privacy policy in line with the the following important privacy laws and initiatives:
-
-  * Federal Trade Commision Fair
-  * Childrens Online Privacy Protection Act
-  * Privacy Alliance
-  * Controlling the Assault of Non-Solicited Pornography and Marketing Act
+  * to analyze how the website is being accessed and used
+  * to improve site performance and delivery
+  * to respond to user-initiated inquiries
+  * to determine admissibility and in registration for selected educational programs
+  * to provide requested products and services
+  * for our internal marketing purposes, which includes, but is not limited to, sending material about products, services, updates, etc. that we think may be of interest
+  * for fostering communication and collaboration among members of the College community through Social Networks
+  * for sharing with our Business Associates who are performing services on our behalf
+  * to maintain business records for reasonable periods
+  * and/or as may be required or permitted by legal, regulatory, industry self-regulatory, insurance, audit, or security requirements applicable to the College, our Educational Partners, or our Business Associates.
+  * for displaying ads or other content related to your visit to this site, which includes:
+    * third party vendors, including Google, show targeted ads on sites on the internet.
+    * third party vendors, including Google, use cookies to serve ads based on a user's prior visits to your website.
+    * users may opt out of Google's use of cookies by visiting the Google advertising opt-out page at [www.google.com/privacy/ads.](http://www.google.com/privacy/ads)
 
 
+
+**Notification.** Students and potential students will be notified (usually at the point where Personally-Identifiable Information is collected) as to the uses Bryant & Stratton College may make of the Personally-Identifiable Information collected from them.
+
+Rights & Choices: You may withdraw your consent to our collection, use and disclosure of your personal information at any time, subject to contractual, academic, legal or technical restrictions and reasonable notice. At any time, if you do not wish to receive marketing communications from us, you may express your choice where indicated on the applicable email or other communication.
+
+Opt Out for External Distribution of Personally-Identifiable Information. Students and potential students will be given the opportunity to refuse permission for External Distribution of their name, address or other Personally-Identifiable Information through an Opt Out mechanism. (External Distribution does not include certain limited distributions such as sharing Personally-Identifiable Information with an entity working on behalf of Bryant & Stratton College to serve our students; transfer of Personally-Identifiable Information in conjunction with the sale or similar transfer of a business unit; or the disclosure of Personally-Identifiable Information in connection with legal proceedings, investigations of crimes or other wrongdoing. However, sharing Personally-Identifiable Information with an entity working on behalf of Bryant & Stratton College or transferring Personally-Identifiable Information in conjunction with the sale or similar transfer of a business unit is considered an Onward Transfer and will be handled as described below.)
+
+**Security.** Appropriate safeguards will be implemented in an effort to ensure the security, integrity and privacy of Personally-Identifiable Information about our students and prospects.
+
+**Access:** Review and correction. Procedures have been developed through which students and prospects can, upon request, review and correct the Personally-Identifiable Information that has been collected from them by Bryant & Stratton College. These procedures may not, however, compromise the security, integrity and privacy of either Bryant & Stratton College’s own proprietary databases or databases licensed from third party companies.
+
+**Sensitive Data.** The collection and use of Sensitive Data carries with it special obligations and responsibilities in order to maintain the data's security, integrity and privacy. Sensitive Data will not be rented or otherwise made available for External Distribution outside Bryant & Stratton College (although it may be made available through Onward Transfer as described below). Students and prospects will be given the opportunity to refuse permission for their Sensitive Data to be distributed outside of the business unit that collected the Sensitive Data through use of an Opt Out mechanism for Internal Distribution within Bryant & Stratton College.
+
+**Onward Transfer.** Whenever Bryant & Stratton College permits a third party outside of Bryant & Stratton College to access Personally-Identifiable Information through either External Distribution or Onward Transfer, commercially appropriate procedures will be followed to help ensure that the Information is used only for authorized purposes and by authorized persons in a manner consistent with the choices students and prospects have made under this Policy, and that the security, integrity and privacy of the information is maintained.
+
+**Links to Other Sites.** Please note that our Web sites may contain links to other Web Sites that have their own privacy policies and practices. While Bryant & Stratton College will employ commercially appropriate procedures to help ensure that your information is only used for authorized purposes as described above, Bryant & Stratton College cannot make any guarantees with respect to the actions or policies of such third parties.
+
+**Questions and comments?** Bryant & Stratton College Privacy Policy has been developed out of respect for the privacy preferences and choices of our students and prospective students. We have established procedures to ensure that every reasonable effort is made to address your concerns.
+
+The College also has established a standing Privacy Steering Committee consisting of senior executives and managers. This Committee will continue to oversee implementation of and compliance with our Policy and will adapt the Policy to reflect changes in technology and constituent expectations.
+
+To ensure that we follow our stated Policy, we also conduct periodic and random reviews of our Web sites and other products and services. The results of our reviews are shared with senior management.
+
+Your privacy is important to us. Bryant & Stratton College Internet site uses cookies to customize our visitor's experience to the site. We do not use cookies, however, to collect any personally-identifiable information. Please be assured that we take your concerns about privacy quite seriously, and we intend to take every reasonable effort to protect it. When you submit your name and e-mail address, this information is collected in order to respond to your inquiry. We may also share this information within Bryant & Stratton College and with third parties in order to notify you of products or services that we think may be of interest to you. From time to time, we may also share your information with outside third party servicers (such as mail houses) authorized to use this information solely to perform services on our behalf. This information will be maintained in a secure database located in the U.S. and access to the database is limited to authorized persons. If you do not wish for your information to be used or shared as described or if you wish to review the accuracy of the information we have collected from you or if you’d like to see the overall College privacy policy or question our privacy practices, please email us at [identity@bryantstratton.edu.](mailto:identity@bryantstratton.edu)
+
+**Last Updated:** Monday, July 11, 2011 
