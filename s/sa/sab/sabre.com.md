@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sabre.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607190554id_/http%3A//www.sabre.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sabre.com privacy policy that was archived on 2015-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151211222736id_/http%3A//www.sabre.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Sabre
 
@@ -9,7 +9,8 @@ Sabre GLBL Inc. (the “ **Company** ”) operates this website, various other w
 
 ## Introduction
 
-We respect your privacy and are committed to protecting it as discussed herein. Please take a moment to familiarize yourself with our privacy practices. By accessing any of the Sites, you agree to our privacy practices as set out in this privacy statement.  
+We respect your privacy and are committed to protecting it as discussed herein. Please take a moment to familiarize yourself with our privacy practices. By accessing any of the Sites, you agree to our privacy practices as set out in this privacy statement.
+
 This privacy statement describes the information that we collect and how that information may be used by us. You are not required to provide any personal information to us unless and until you choose to make a purchase, sign up for one of our e-mail newsletters or other products, or otherwise use one of our services. This privacy statement does not apply to information collected on any third-party site that may link to or be accessible from any of the Sites, nor does this privacy statement extend to any travel supply company (e.g., airline, hotel, etc.) from whom an individual has purchased or reserved travel services via a travel agency using the _Sabre®_ global distribution system or the _SynXis_ central reservation system. We encourage you to learn about the privacy practices of those third parties. The majority of our systems, servers and data centers are located in the U.S. If you are accessing any of the Sites from outside the U.S., you agree that your personal information may be transferred to the U.S., a jurisdiction which may have different privacy and data security protections than those of your own jurisdiction, to be processed and stored.
 
 ## Collection of Personal Information
@@ -47,7 +48,8 @@ We may from time-to-time make certain personal information available to strategi
 
 
 
-If we engage a third party to process an individual’s personal data on our behalf, that third party will be bound by our data privacy policies.  
+If we engage a third party to process an individual’s personal data on our behalf, that third party will be bound by our data privacy policies.
+
 We may also disclose your personal information to third parties to:
 
   * Comply with any court order or other legal obligation or when data is requested by government or law enforcement authorities;
@@ -58,7 +60,8 @@ We may also disclose your personal information to third parties to:
 
 ## Collection and Use of Non-Personal Information
 
-We also collect non-personal information, or data in a form that cannot be used to uniquely identify or contact a single person. We may collect, use, transfer, and disclose non-personal information for any purposes. Non-personal information that we collect may include information regarding your activities on any of the Sites, which may be aggregated and used to help us provide more useful information to our customers and to understand which parts of the Sites are of most interest.  
+We also collect non-personal information, or data in a form that cannot be used to uniquely identify or contact a single person. We may collect, use, transfer, and disclose non-personal information for any purposes. Non-personal information that we collect may include information regarding your activities on any of the Sites, which may be aggregated and used to help us provide more useful information to our customers and to understand which parts of the Sites are of most interest.
+
 If we combine non-personal information with personal information the combined information will be treated as personal information for the purposes of this privacy statement.
 
 ## Cookies and Other Technologies
@@ -72,7 +75,8 @@ The Sites and certain Company email messages may use “cookies” and other tec
 
 
 
-You may refuse to accept cookies by activating the appropriate settings on your browser. Check with your provider to find out how to disable cookies. Please note that certain features of the Sites may not be available if cookies are disabled.  
+You may refuse to accept cookies by activating the appropriate settings on your browser. Check with your provider to find out how to disable cookies. Please note that certain features of the Sites may not be available if cookies are disabled.
+
 We treat information collected by cookies and other technologies as non-personal information. However, to the extent that Internet Protocol (IP) addresses or similar identifiers are considered personal information by local law, we treat these identifiers as personal information. Similarly, to the extent that non-personal information is combined with personal information, we treat the combined information as personal information for the purposes of this privacy statement.
 
 ## Accessing Your Personal Information
@@ -81,7 +85,8 @@ We strive to maintain accurate, complete, and relevant personal information for 
 
 ## Data Security
 
-We have implemented reasonable measures designed to secure your personal information from accidental loss and from unauthorized access, use, alteration and disclosure.  
+We have implemented reasonable measures designed to secure your personal information from accidental loss and from unauthorized access, use, alteration and disclosure.
+
 The safety and security of your information also depends on you. Any content, including personal information, that you contribute to be shared, published or displayed on any of the Sites, or transmitted to other users of a Site, is visible to other users and can be read, collected, or used by them. We urge you to be careful about giving out information in public areas of any of the Sites. You understand and acknowledge that, even after removal, copies of your content, including personal information, that you contribute to be shared, published or displayed on a Site, or transmitted to other users of a Site, may remain viewable in cached and archived pages. Although we take efforts to protect your personal information, we cannot guarantee the security of your personal information transmitted to a Site. Any transmission of personal information is at your own risk.
 
 ## Children Under the Age of 13
@@ -100,7 +105,7 @@ It is our policy to post any changes we make to our privacy practices on this pa
 
 Please direct any questions or comments about this privacy statement and our privacy practices to us at:
 
-  * Privacy@sabre.com or
+  * privacy@sabre.com or
   * 3150 Sabre Drive, Southlake, Texas 76092 Attn: Privacy Office 
 
 
