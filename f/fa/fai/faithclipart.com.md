@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the faithclipart.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610045253id_/http%3A//www.sharefaith.com/faith/privacyPolicy/view.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the faithclipart.com privacy policy that was archived on 2015-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151211023158id_/http%3A//www.sharefaith.com/faith/privacyPolicy/view.do) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -60,7 +60,7 @@ If you have any questions or comments about our use of Personal Information, ple
 
 [](https://www.sharefaith.com/faith/freeTrial.do)
 
-**All Suggestions, Billing and Site Questions:** [contact@sharefaith.com](mailto:contact@sharefaith.com)
+**For all suggestions, billing and site questions visit our support site to create a support request.** [support.sharefaith.com](http://www.support.sharefaith.com/)
 
 **ShareFaith Inc.**  
 821 O'Hare Parkway #201  
