@@ -1,24 +1,36 @@
-> *The following text is extracted and transformed from the soul-source.co.uk privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316131645id_/http%3A//www.soul-source.co.uk/soulforum/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the soul-source.co.uk privacy policy that was archived on 2015-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151211145028id_/http%3A//www.soul-source.co.uk/soulforum/privacy) for the most accurate reproduction.*
 
-# Cookies/Privacy Policy - Soul Source
+# Privacy Policy - Soul Source
 
 **Cookies**
 
-This website does not store any information that would, on its own, allow us to identify any individual user of this website. Cookies are not shared with any third parties. Cookies that are used by this website are used solely on a per session basis or to enable access to the Social Media addons. More specifically, the Cookies we use are to:
+Google: We do use Google Adsense service to display the advertising that supports Soul Source. For that to work effectively they will use cookies to store data and access data about your use of this website.  
 
-1\. Maintain your session, such as keeping you logged in for the duration of your visit.  
-2\. Temporarily store your topic "unread" markers before they are saved to our database.  
-3\. Anonymously measure use of this website in order to improve the experience for all users.  
+You can learn more about how Google use this data and how to opt out if you choose here:  <http://www.google.com/intl/en/policies/privacy/partners/>
+
+This website does not store any information that would, on its own, allow us to identify any individual user of this website. Soul Source Cookies are not shared with any third parties. 
+
+More specifically, the Cookies we use are to:
+
+1\. Maintain your session, such as keeping you logged in for the duration of your visit.
+
+2\. Temporarily store your topic "unread" markers before they are saved to our database.
+
+3\. Anonymously measure use of this website in order to improve the experience for all users.
+
 4\. Submit data to your Facebook and Twitter account(s), should this be enabled in your settings area. (Please see their Privacy Policies for more information as to how they use your information)
 
 With the exception of number 4 (which can be disabled in your settings area), these Cookies are required by this website in order to allow it to function correctly. If you do not agree to these cookies, please do not proceed with logging in to the website or registering. Disabling cookies in your web browser will give you a very limited, if not unusable experience of our website because of these limitations.
 
-There may be also be third party cookies from youtube, ebay and google depending on the features you use  
+There may be also be third party cookies from youtube, ebay and google depending on the features you use
+
 Full info and opt out details can be found on their respective websites
 
 **Continued use of this site is taken to mean that your are agreeing to the above information to be gathered.**
 
-You can find out more about the way cookies work and how to disable them on[http://www.allaboutcookies.org](http://www.allaboutcookies.org/)
+You can find out more about the way cookies work and how to disable them on
+
+[http://www.allaboutcookies.org](http://www.allaboutcookies.org/)
 
 **Privacy Policy**
 
@@ -28,7 +40,7 @@ Your privacy is important to us. To better protect your privacy we provide this 
 
 As with all websites, log files are maintained of all requests for files on this website's web servers. Log files capture your IP address, but do not capture any other personal information. This IP address is automatically recognised by our web servers and can only be used to personally identify you by your Internet Service Provider, and not by the administrators of this website.
 
-Telasource understands and respects the rights of individualsÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â‚¬Å¾Ã‚Â¢ privacy and is committed in providing on-line data security. This privacy statement explains how data is handled whilst you browse and submit information through the website and your options regarding the ways in which your data is used.
+Telasource understands and respects the rights of individuals privacy and is committed in providing on-line data security. This privacy statement explains how data is handled whilst you browse and submit information through the website and your options regarding the ways in which your data is used.
 
 **Use of Information, Data Protection and Internet Privacy**
 
@@ -40,7 +52,7 @@ The following sections generally describe the types of information collected at 
 
 From time to time, you will be asked to submit personal information about yourself (e.g. name and email address) in order to receive or use services on our website. Such services include newsletters, competitions, forum and soul-source membership.
 
-By entering your details in the fields requested, you enable telasources to provide you with the services you select. Whenever you provide such personal information, we will treat that information in accordance with this policy.
+By entering your details in the fields requested, you enable telasource to provide you with the services you select. Whenever you provide such personal information, we will treat that information in accordance with this policy.
 
 Any further details you choose to supply about yourself when you register are provided at your own discretion.
 
@@ -56,7 +68,7 @@ An Internet Protocol (IP) address is a set of numbers that is automatically assi
 
 **Links to Other Web Sites**
 
-Telasource websites provide links to other telasourceand third party websites as a service to our users. The privacy policy described here does not apply to those sites. Please ensure you check the legal and privacy policy sections of any site you link to.
+Telasource websites provide links to third party websites as a service to our users. The privacy policy described here does not apply to those sites. Please ensure you check the legal and privacy policy sections of any site you link to.
 
 **Security**
 
