@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the linkury.com privacy policy that was archived on 2015-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150618040302id_/http%3A//www.linkury.com/index-8_privacy-html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linkury.com privacy policy that was archived on 2015-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151211214603id_/http%3A//www.linkury.com/index-8_privacy-html) for the most accurate reproduction.*
 
 # Linkury
 
 We at Linkury, Inc. and its wholly owned subsidiaries (“Linkury”) are committed to providing web sites and software products that respect the privacy of its visitors and users respectively. This page summarizes the privacy policy and practices for all Linkury Web Sites, as well as for the Linkury software products.
-
-Safe finder Smartbar is certified as a Trusted Download Program by TRUSTe signifying that the safe finder Smartbar application has been tested by TRUSTe for compliance with TRUSTe’s TDP program requirements including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe’s mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding the safe finder Smartbar, please contact us at [AS APPLICABLE: [company name and address] or by email at [email address] or by phone at [telephone number]]. If you are not satisfied with our response you can contact TRUSTe [here](http://clicktoverify.truste.com/pvr.php?page=validate&softwareProgramId=478&sealid=112).
 
 The Linkury privacy policy is designed to allow the users of its web sites and software applications (the “Linkury Products”) with information allowing them to make informed choices with respect to their use of the Linkury Products and their provision of personal information.
 
