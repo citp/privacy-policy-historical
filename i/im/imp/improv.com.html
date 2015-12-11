@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the improv.com privacy policy that was archived on 2015-06-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150607133658id_/http%3A//improv.com/privacy.cfm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the improv.com privacy policy that was archived on 2015-12-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151211021615id_/http%3A//improv.com/privacy.cfm) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-KFP6ZT"></script><script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="/cfide-scripts/cfform.js"></script>
 <script type="text/javascript" src="/cfide-scripts/masks.js"></script>
@@ -352,7 +352,7 @@
 
 
 
-<div id="improvHeaderSocial">
+<div id="improvHeaderSocial" class="social-long">
 
 	
 
@@ -362,8 +362,8 @@
             
                 </li><li class="twitter"><a href="https://twitter.com/#!/theimprov" title="Follow us us on Twitter" target="_blank">Follow us us on Twitter</a>
             
-            
-        </li></ul>
+            </li><li class="youtube"><a href="https://www.youtube.com/channel/UCcdg96DzaCENRlEcEVhA5-Q?sub_confirmation=1" title="Subscribe to our Youtube Channel" target="_blank">Subscribe to our Youtube Channel</a></li>
+        </ul>
 
     
 
@@ -371,13 +371,7 @@
 
 
 
-
-		<script type="text/javascript">
-            $(function(){                
-                $.prettyPhoto.open('includes/siteSpecific/improvcommon/joinHereForm.cfm?iframe=true&width=450&height=405','','');
-            });
-        </script>
-	<form name="emailSignup" id="improvEmailSignup" action="?join=1" method="post" onsubmit="return _CF_checkemailSignup(this)">
+<form name="emailSignup" id="improvEmailSignup" action="?join=1" method="post" onsubmit="return _CF_checkemailSignup(this)">
 
 	<fieldset>
     	<legend>Join Our Mailing List</legend>
@@ -457,8 +451,7 @@
             </ul>
 
             <ul class="last">
-            	
-				<li><a href="http://kansascity.improv.com/" title="Kansas City, MO Improv">Kansas City, MO</a></li>
+            	<li><a href="http://kansascity.improv.com/" title="Kansas City, MO Improv">Kansas City, MO</a></li>
             	<li><a href="https://www.caesars.com/harveys-tahoe/shows/the-improv-at-harveys" title="Lake Tahoe, NV Improv">Lake Tahoe, NV</a></li>
 				
                 <li><a href="https://www.caesars.com/harrahs-las-vegas/shows/the-improv#.VTa-kCFVhBd" title="Las Vegas, NV Improv">Las Vegas, NV</a></li>
@@ -479,6 +472,7 @@
                 
                 <li><a href="http://www.dcimprov.com/" title="Washington, DC Improv">Washington, DC</a></li>
                 
+
             </ul>
 
         </div>
@@ -746,21 +740,22 @@ googletag.enableServices();
 			
             <div id="customFooterHTML">
                 <script language="javascript">
-	$(document).ready(function() {
-		$("[title|='Lake Tahoe, NV Improv']").attr("href", "https://www.caesars.com/harveys-tahoe/shows/the-improv-at-harveys");
-		$("[title|='Addison, TX Improv']").attr("href", "http://www.Improvaddison.com");
-		$("[title|='Arlington, TX Improv']").attr("href", "http://www.Improvarlington.com");
-		$("[title|='Houston, TX Improv']").attr("href", "http://www.improvhouston.com");
 
+	$(document).ready(function() {
+		// move around comedian page videos
 		if($('body#page-comedian').length > 0) {
+			console.log('here');
 			$('#comedianProfile div.clear').prepend('<div class="moved-artist-bio">'+$('#comedianProfile div.rightcol').html()+'</div>');
 			$('#comedianProfile div.rightcol').html('<ul class="moved-first-video"></ul>');
 			if($('.profile-section.comedian-videos ul li:first-child').length > 0) {
 				$('#comedianProfile div.rightcol .moved-first-video').append($('.profile-section.comedian-videos ul li:first-child'));
 			}
 		}
+
+		$('#improvHeaderSocial').addClass('social-long');
 		
-		$('#customFooter-inner').append('<div id="improvFooterSocial"></div>');
+		// footer manipulation
+		$('#customFooter-inner').append('<div id="improvFooterSocial" class="social-long"></div>');
 		$('#improvFooterSocial').html($('#improvHeaderSocial').html());
 
 	});
@@ -779,9 +774,6 @@ googletag.enableServices();
 </p>
 
 
-<div id="affiliateshop">
-    <center><a href="http://edge.affiliateshop.com/public/AIDLink?AID=128029&amp;BID=15054" target="_blank" border="0"><img src="https://course.myimprov.com/images/302x400v2.png" alt="Defensive Driving Online by IMPROV" border="0"></a></center>
-</div>
 
 
 
@@ -882,7 +874,8 @@ googletag.enableServices();
             <li class="last"><a href="http://tempe.improv.com" title="Tempe, AZ Improv">Tempe, AZ</a></li>
         </ul>
         <ul class="eight">
-            <li class="last"><a href="http://www.dcimprov.com/" title="Washington, DC Improv">Washington, DC</a></li>
+            <li><a href="http://www.dcimprov.com/" title="Washington, DC Improv">Washington, DC</a></li>
+            
         </ul>
         
     </div>
@@ -931,7 +924,7 @@ qacct:"p-03NNSFXQUHEd-"
 </script>
 <!-- End Google Tag Manager -->
 
-            <div id="improvFooterSocial">
+            <div id="improvFooterSocial" class="social-long">
 
 	
 
@@ -941,8 +934,8 @@ qacct:"p-03NNSFXQUHEd-"
             
                 </li><li class="twitter"><a href="https://twitter.com/#!/theimprov" title="Follow us us on Twitter" target="_blank">Follow us us on Twitter</a>
             
-            
-        </li></ul>
+            </li><li class="youtube"><a href="https://www.youtube.com/channel/UCcdg96DzaCENRlEcEVhA5-Q?sub_confirmation=1" title="Subscribe to our Youtube Channel" target="_blank">Subscribe to our Youtube Channel</a></li>
+        </ul>
 
     
 
@@ -1055,4 +1048,4 @@ qacct:"p-03NNSFXQUHEd-"
 
 
 
-</div><div class="pp_pic_holder light_rounded" style="top: 154.5px; left: 438px; width: 490px;"><div class="ppt" style="width: 450px; opacity: 1;">&nbsp;</div><div class="pp_top"><div class="pp_left"></div><div class="pp_middle"></div><div class="pp_right"></div></div><div class="pp_content_container"><div class="pp_left"><div class="pp_right"><div class="pp_content" style="height: 441px; width: 450px;"><div class="pp_loaderIcon" style="display: none;"></div><div class="pp_fade"><a href="#" class="pp_expand" title="Expand the image" style="display: none;">Expand</a><div class="pp_hoverContainer" style="height: 405px; width: 450px; display: none;"><a class="pp_next" href="#">next</a><a class="pp_previous" href="#">previous</a></div><div id="pp_full_res"><iframe src="includes/siteSpecific/improvcommon/joinHereForm.cfm" width="450" height="405" frameborder="no"></iframe></div><div class="pp_details" style="width: 450px;"><div class="pp_nav" style="display: none;"><a href="#" class="pp_play">Play</a><a href="#" class="pp_arrow_previous">Previous</a><p class="currentTextHolder">1/1</p><a href="#" class="pp_arrow_next">Next</a></div><p class="pp_description" style="display: none;"></p><a class="pp_close" href="#">Close</a></div></div></div></div></div></div><div class="pp_bottom"><div class="pp_left"></div><div class="pp_middle"></div><div class="pp_right"></div></div></div><div class="pp_overlay" style="opacity: 0.5; height: 6217px; width: 1366px;"></div></body></html>
+</div></body></html>
