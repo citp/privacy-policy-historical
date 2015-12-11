@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the followinginmyshoes.com privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611105404id_/http%3A//followinginmyshoes.com/rachel_lacy/disclosure/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the followinginmyshoes.com privacy policy that was archived on 2015-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151211233040id_/http%3A//followinginmyshoes.com/rachel_lacy/disclosure/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Following In My Shoes
+# Privacy Policy
 
 This Privacy Policy governs the manner in which Following In My Shoes collects, uses, maintains and discloses information collected from users (each, a “User”) of the http://followinginmyshoes.com website (“Site”). This privacy policy applies to the Site and all products and services offered by Following In My Shoes.
 
@@ -20,9 +20,9 @@ Our Site may use “cookies” to enhance User experience. User’s web browser 
 
 Following In My Shoes collects and uses Users personal information for the following purposes:
 
-**\- To administer a content, promotion, survey or other Site feature**  
+**– To administer a content, promotion, survey or other Site feature**  
 To send Users information they agreed to receive about topics we think will be of interest to them — i.e. to notify giveaway winners.  
-**\- To send periodic emails**  
+**– To send periodic emails**  
 The email address Users provide will only be used to respond to their direct inquiries, and/or other requests or questions.
 
 ### **How we protect your information**
@@ -54,10 +54,8 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 ### **Contacting Me**
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact me at:  
-Following In My Shoes
-
-http://followinginmyshoes.com
-
+Following In My Shoes  
+http://followinginmyshoes.com  
 Houston, TX  
 followinginmyshoes@yahoo.com
 
