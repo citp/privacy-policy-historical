@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the deadbeatsuperaffiliate.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625065024id_/http%3A//www.deadbeatsuperaffiliate.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deadbeatsuperaffiliate.com privacy policy that was archived on 2015-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151211145751id_/http%3A//www.deadbeatsuperaffiliate.com/privacy.php) for the most accurate reproduction.*
 
 # Deadbeat Super Affiliate
 
@@ -23,7 +23,6 @@ When ordering our products or services, we may share your Personally Identifiabl
 If you have any questions about our policies, please contact us below:
 
 Daniel Brock  
-101 Yorkleigh Road  
-Baltimore, MD 21204
+MakeMoneyOnlineDeadbeat@gmail.com
 
-Effective Date: October 10th, 2010
+Effective Date: October 2th, 2015
