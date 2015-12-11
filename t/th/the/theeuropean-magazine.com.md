@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theeuropean-magazine.com privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612024059id_/http%3A//www.theeuropean-magazine.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theeuropean-magazine.com privacy policy that was archived on 2015-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151211185436id_/http%3A//www.theeuropean-magazine.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - The European
 
@@ -66,39 +66,9 @@ Most Read
 
   * Debate
 
-## [The Danish Cycling Experience](https://web.archive.org/klaus-bondam/10199-the-danish-cycling-experience)
+## [Refugees looking for asylum in Europe](https://web.archive.org/simone-duarte/10577-refugees-looking-for-asylum-in-europe)
 
-Copenhagen is famous as a cycling city. How did its city council create this world-renowned cycling culture? By making cycling the easiest option. [read more](https://web.archive.org/klaus-bondam/10199-the-danish-cycling-experience)
-
-  * Conversation
-
-## [Franco Berardi on Work and Europe](https://web.archive.org/franco-bifo-berardi/10195-franco-berardi-on-work-and-europe)
-
-What does it mean to be a worker in contemporary Europe? Our contributor Creston Davis sat down with Franco “Bifo” Berardi to find out. Here's what he had to say about work in ... [read more](https://web.archive.org/franco-bifo-berardi/10195-franco-berardi-on-work-and-europe)
-
-  * Debate
-
-## [There Is No "Car Culture"](https://web.archive.org/james-longhurst/10194-there-is-no-car-culture)
-
-The prevalence of cars in the American transportation landscape is not an issue of culture. It’s the result of historical accidents and individual choices. [read more](https://web.archive.org/james-longhurst/10194-there-is-no-car-culture)
-
-  * Column
-
-## [John Nash and the role of mental health](https://web.archive.org/yara-zgheib/10211-john-nash-and-the-role-of-mental-health)
-
-John Nash devised a supremely rational, Nobel Prize-winning model. He was also a supremely irrational man. How can this be? [read more](https://web.archive.org/yara-zgheib/10211-john-nash-and-the-role-of-mental-health)
-
-  * Debate
-
-## [America’s Car-Centric Transportation Policy](https://web.archive.org/ralph-buehler/10218-americas-car-centric-transportation-policy)
-
-Americans may want to travel more by foot, bicycle, and public transport, but the car will remain king as long as government policy makes driving easy, and everything else hard. [read more](https://web.archive.org/ralph-buehler/10218-americas-car-centric-transportation-policy)
-
-  * Column
-
-## [The grandest vision for humanity?](https://web.archive.org/riva-melissa-tez/10201-the-grandest-vision-for-humanity)
-
-How can you say “I love you“ if you don’t even know yourself? [read more](https://web.archive.org/riva-melissa-tez/10201-the-grandest-vision-for-humanity)
+In a recent interview the associate director of Portugals border agency, Luis Gouveia, said that besides bureaucracy the difficulty in the resettlement of refugees is due to the fact that they don... [read more](https://web.archive.org/simone-duarte/10577-refugees-looking-for-asylum-in-europe)
 
 
 
