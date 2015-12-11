@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the modelane.com privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612232326id_/http%3A//www.modelane.com/serv/modelane/buyer/Content.jsp%3Fid%3Dprivacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the modelane.com privacy policy that was archived on 2015-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151211212429id_/http%3A//www.modelane.com/serv/modelane/buyer/Content.jsp%3Fid%3Dprivacypolicy) for the most accurate reproduction.*
 
 # ModeLane - Privacy Policy
 
@@ -147,7 +147,7 @@ Nextag wants your Internet surfing experience to be safe. Help protect yourself.
 If you have any questions about this Website Privacy Statement, the practices of the Websites, or your use of the Websites, please contact us at:
 
 Privacy Officer  
-Nextag, Inc.  
-2955 Campus Dr., 3rd Floor  
-San Mateo, CA 94403  
+Nextag Inc.  
+800 Bridge Parkway, Suite 200  
+Redwood City, CA 94065  
 [ legalnotices@nextag.com](mailto:legalnotices@wizecommerce.com) ([click here](http://www.nextag.com/serv/deal/serv/main/emailcampaign/optout.jsp) to opt out of receiving Nextag mailings)
