@@ -1,13 +1,8 @@
-> *The following text is extracted and transformed from the ran.org privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612234426id_/http%3A//www.ran.org/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ran.org privacy policy that was archived on 2015-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151211123345id_/http%3A//www.ran.org/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy - Rainforest Action Network
 
-  1. [Home](https://web.archive.org/)
-  2. Privacy Policy
-
-
-
-## Rainforest Action Network's Privacy Policy
+_**Rainforest Action Network's Privacy Policy**_
 
 _August 17, 2007_
 
@@ -37,6 +32,6 @@ RAN provides links to other web sites. RAN is not responsible for the privacy pr
 
 Changes to this policy RAN reserves the right, in its sole discretion and without any obligation, to modify or correct any errors or omissions in any portion of this web site. If our information practices change at some time in the future we will post the policy changes to our Web site to notify you of these changes and provide you with the ability to opt out of these new uses. If you are concerned about how your information is used, you should check back at our Web site periodically.
 
-## Contact Us
+_**Contact Us**_
 
 For questions: - regarding this policy statement, - the practices of this site, - if you feel that this site is not following its stated information policy, - or to review or request changes to your contact information, you may contact us at the address below.
