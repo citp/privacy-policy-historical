@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the prague.tv privacy policy that was archived on 2015-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150613234819id_/http%3A//prague.tv/en/s25/About/c18-Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prague.tv privacy policy that was archived on 2015-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151211212742id_/http%3A//prague.tv/en/s25/About/c18-Privacy) for the most accurate reproduction.*
 
 # Privacy | About
 
