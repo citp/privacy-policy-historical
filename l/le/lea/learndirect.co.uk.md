@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the learndirect.co.uk privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611104033id_/http%3A//www.learndirect.com/help/legal-information/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the learndirect.co.uk privacy policy that was archived on 2015-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151211191540id_/http%3A//www.learndirect.com/help/legal-information/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement | learndirect
 
@@ -307,23 +307,20 @@ At the point this information is collected you will be asked to indicate if you 
 
 We, or the government agency providing funding for your course, may use your personal data and Learner File to investigate a suspected misuse of public monies or other fraudulent activity by any person relating to your learning activity. In doing so, we, or the government agency providing funding for your course, may disclose your information to other government agencies (e.g. the [Department for Work and Pensions](http://www.dwp.gov.uk/)) to establish whether there has been any duplication of funding for your course. We may also contact you for the purposes of any such investigation.
 
-**SFA Privacy Notice**
+**SFA Privacy Notice 2015-2016**
 
-The SFA requires that we also tell you about its own privacy notice so that you understand how the SFA will use the information that we give them.  It says:
+This privacy notice is issued by the Chief Executive of Skills Funding to inform learners of how their personal information will be used by the Chief Executive of Skills Funding and the Department for Education, including the Education Funding Agency (and any successor bodies to these offices) to fulfil statutory purposes, and by other bodies with whom data is shared by the Chief Executive for statutory and other legitimate purposes.  
+Providers should ensure that all learners have seen the privacy notice as part of their enrolment processes.
 
-_How We Use Your Personal Information_
+How we use your personal information  
+The personal information you provide is passed to the Chief Executive of Skills Funding (“the Skills Funding Agency”) and the Department for Business, Innovation and Skills (BIS). Where necessary it is also shared with the Department for Education, including the Education Funding Agency.
 
-_The personal information you provide is passed to the Chief Executive of Skills Funding (“the Agency”) and, when needed, the Department for Education, including the Education Funding Agency to meet legal duties under the Apprenticeships, Skills, Children and Learning Act 2009, and for the Agency’s Learning Records Service (LRS) to create and maintain a unique learner number (ULN). The information you provide may be shared with other partner organisations for purposes relating to education or training._
+The information is used for the exercise of functions of these government departments and to meet statutory responsibilities, including under the Apprenticeships, Skills, Children and Learning Act 2009, and to create and maintain a unique learner number (ULN) and a Personal Learning Record (PLR). The information you provide may be shared with other organisations for education, training, employment and well-being related purposes, including for research.
 
-_Further information about use of and access to your personal data, and details of partner organisations are available at:_
+You may be contacted after you have completed your programme of learning to establish whether you have entered employment or gone onto further training.  
+You can opt from being contacted for other purposes by choosing a relevant option in the ‘SFA Contact Restrictions’ field which will be discussed with you when you register with learndirect.
 
-[_http://skillsfundingagency.bis.gov.uk/privacy.htm_](http://skillsfundingagency.bis.gov.uk/privacy.htm) _,_
-
-_and_
-
-_[http://www.learningrecordsservice.org.uk/documentlibrary/documents/ Code+of+Practice+for+Sharing+of+Personal+Information.htm](http://www.learningrecordsservice.org.uk/documentlibrary/documents/Code+of+Practice+for+Sharing+of+Personal+Information.htm)_
-
-If you want to change your options with the SFA or the LRS about their contacting you for surveys or research, or to tell you about courses and other learning opportunities, or how they can contact you, please contact your tutor
+Further information about use of and access to your personal data, and details of organisations with whom we regularly share data are available [here](https://www.gov.uk/government/publications/sfa-privacy-notice).
 
 **Statistics**
 
