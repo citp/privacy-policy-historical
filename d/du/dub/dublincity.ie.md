@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dublincity.ie privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611203309id_/http%3A//www.dublincity.ie/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dublincity.ie privacy policy that was archived on 2015-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151211115400id_/http%3A//www.dublincity.ie/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement | Dublin City Council
 
@@ -44,6 +44,10 @@ We will:
 
 
 [Click here to read our Code of Practice](https://web.archive.org/sites/default/files/content//Documents/Data_Protection_Code_of_Practice.pdf "This link will open in a new window")
+
+Dublin City Council is registered with the Office of the Data Protection Commissioner as a Data Controller.
+
+[View our registration details.](http://www.dataprotection.ie/viewdoc.asp?fn=/documents/register/display.asp?ID=0483%2FA)
 
 #### Getting your personal information
 
