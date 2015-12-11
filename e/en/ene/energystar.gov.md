@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the energystar.gov privacy policy that was archived on 2015-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150616161636id_/http%3A//www.energystar.gov/index.cfm%3Fc%3Dhome.privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the energystar.gov privacy policy that was archived on 2015-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151211141527id_/https%3A//www.energystar.gov/index.cfm%3Fc%3Dhome.privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy : ENERGY STAR
 
@@ -29,7 +29,7 @@
 
   * Your rights as an individual user of this Web page are governed by the Privacy Act of 1974; Title 5, Section 552a.
 
-  * If you have any questions or comments about the information presented here, please [contact us](https://web.archive.org/web/20150616161636id_/http%3A//www.energystar.gov/index.cfm?c=contact.ct_index).
+  * If you have any questions or comments about the information presented here, please [contact us](https://web.archive.org/about/contact_us).
 
 
 
