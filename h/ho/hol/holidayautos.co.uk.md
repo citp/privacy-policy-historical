@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the holidayautos.co.uk privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612130310id_/http%3A//www.holidayautos.co.uk/privacy-policy%3Fc%3Dgb) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the holidayautos.co.uk privacy policy that was archived on 2015-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151211204545id_/http%3A//www.holidayautos.co.uk/privacy-policy%3Fc%3Dgb) for the most accurate reproduction.*
 
 # Cheap Car Hire - Holiday Autos
 
