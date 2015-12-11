@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the latestnigerianjobs.com privacy policy that was archived on 2015-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150408190452id_/http%3A//latestnigerianjobs.com/sitemap/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the latestnigerianjobs.com privacy policy that was archived on 2015-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151211124321id_/http%3A//latestnigerianjobs.com/sitemap/privacy) for the most accurate reproduction.*
 
-# Privacy - LatestNigerianJobs.com - Jobs in Nigeria Today, Vacancies, NaijaHotJobs, NgCareers, Hotnigerianjobs and Jobberman Nigeria 2015, 2016
+# Privacy | LatestNigerianJobs.com - Jobs in Nigeria Today, Vacancies, NaijaHotJobs, NgCareers, Hotnigerianjobs and Jobberman Nigeria 2015, 2016
 
 **What information do we collect?**
 
