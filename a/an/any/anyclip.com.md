@@ -1,8 +1,7 @@
-> *The following text is extracted and transformed from the anyclip.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610011623id_/http%3A//www.anyclip.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anyclip.com privacy policy that was archived on 2015-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151211192652id_/http%3A//www.anyclip.com/pages/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Anyclip
 
-Personal Information  
 Your AnyClip Account For many activities on AnyClip, like posting comments, flagging videos, or watching restricted videos, you need an AnyClip account. We ask for some personal information when you create an account, including your email address and a password, which is used to protect your account from unauthorized access. In the future, you will also be able create an account via your Facebook or Twitter accounts. In those cases, we may not collect email address or password information, but we do store basic user information so we identify you when you return to AnyClip. 
 
 Usage Information When you use AnyClip, we may record information about your usage of the site, such as the movies, actors and directors you favor, the frequency of your visits, information you display about yourself as well as information you click on in AnyClip (including user interface elements, settings). When you are logged in, we may associate that information with your AnyClip Account. 
