@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the lme.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316035218id_/http%3A//lme.com/en-gb/about-us/legal-disclaimer/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lme.com privacy policy that was archived on 2015-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151211014350id_/http%3A//www.lme.com/en-gb/about-us/legal-disclaimer/privacy-policy) for the most accurate reproduction.*
 
 # London Metal Exchange: Privacy statement
 
 ## Information about our organisation and website 
 
-Our privacy policy covers The London Metal Exchange (“LME”), LME Clear Limited (“LMEC”) and their websites [http://www.lme.com/](https://web.archive.org/), <https://secure.lme.com/> and <http://www.lmelive.com/>. It also covers any email communications that we may send to you or your company. The LME is based in the United Kingdom. The LME is a recognised investment exchange under the Financial Services and Markets Act 2000, recognised and supervised by the FCA. 
+Our privacy policy covers The London Metal Exchange (“LME”), LME Clear Limited (“LMEC”) and their websites [http://www.lme.com/](https://web.archive.org/en-gb/), <https://secure.lme.com/> and <http://www.lmelive.com/>. It also covers any email communications that we may send to you or your company. The LME is based in the United Kingdom. The LME is a recognised investment exchange under the Financial Services and Markets Act 2000, recognised and supervised by the FCA. 
 
 We are committed to protecting your privacy. This online privacy policy describes the ways in which we collect information from you and what we may use it for. Please read the policy to check how your information will be treated. This policy may be amended from time to time so please check it regularly. 
 
@@ -92,4 +92,4 @@ By post: 56 Leadenhall Street, London, EC3A 2DX
 Phone: +44 (0) 207 264 5555  
 Fax: +44 (0) 207 264 5541  
 Email address: [info@lme.com  
-](mailto:info@lme.com?subject=Privacy%20policy)or via our [Contact form](https://web.archive.org/about-us/contact-us/)
+](mailto:info@lme.com?subject=Privacy%20policy)or via our [Contact form](https://web.archive.org/en-gb/about-us/contact-us/)
