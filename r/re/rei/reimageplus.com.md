@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the reimageplus.com privacy policy that was archived on 2015-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150408104531id_/http%3A//www.reimageplus.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reimageplus.com privacy policy that was archived on 2015-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151211021151id_/http%3A//www.reimageplus.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Reimageplus.com
 
-This document explains the privacy policy and practices of Reimageplus.com, a web-based PC maintenance and repair service operated by Reimage Limited ("Reimage" or the "Service"). This Policy is part of the Terms of Service for using Reimage. This Policy was last updated on: 7/8/2014. At Reimage, protecting your personal information is an essential part of our Service. This Policy explains what personal information we collect from you, why we collect it and how we use it.
+This document explains the privacy policy and practices of Reimageplus.com, a web-based PC maintenance and repair service operated by Reimage Limited ("Reimage" or the "Service"). This Policy is part of the Terms of Service for using Reimage. This Policy was last updated on: 5/12/2015. At Reimage, protecting your personal information is an essential part of our Service. This Policy explains what personal information we collect from you, why we collect it and how we use it.
 
 Reimage Limited has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy-program-requirements/) including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us, at [about@reimageplus.com](mailto:about@reimageplus.com). If you are not satisfied with our response you can contact [TRUSTe here](https://feedback-form.truste.com/watchdog/request). The TRUSTe program covers only information that is collected through this Web site, [http://www.reimageplus.com/](https://web.archive.org/) and does not cover information that may be collected through any software downloaded from this Web site.
 
@@ -73,13 +73,20 @@ We follow generally accepted industry standards to protect the personally identi
 
 If you have any questions about security on our Web site, you can email us at [support@reimageplus.com](mailto:support@reimageplus.com).
 
-### Cookies and other Non-Personal Data
+### Tracking technologies
 
-We use cookies to understand and analyze use of our site, to improve the features and operate more efficiently. We do not link the information we store in cookies to any personally identifiable information you submit while on our site.
+As is true of most web sites, we gather certain information automatically and store it in log files. This information may include internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and/or clickstream data.
 
-Third party advertising servers and exchanges may use cookies with advertisements to track users click-through rates and manage the ads for improved performance. If you disable cookies in our browser, you may not be able to use all the features of the Service. We may use web beacons in our newsletters to count how many times an article is accessed. We do not have access or control over these cookies. Use of cookies by third parties is not covered by our privacy policy.
+We may combine this automatically collected log information with other information we collect about you. We do this to improve services we offer you.
 
-We use Google AdSense to publish ads on this site. When you view or click on an ad a cookie will be set to help better provide advertisements that may be of interest to you on this and other Web sites. You may opt-out of the use of this cookie by visiting Google’s Advertising and Privacy page: <http://www.google.com/privacy_ads.html>
+Technologies such as: cookies, beacons, tags and scripts are used by Reimage and our marketing partners, affiliates, or analytics or service providers. These technologies are used in analyzing trends, administering the site, tracking users’ movements around the site and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis.
+
+We use cookies to remember users’ settings (e.g. language preference). Users can control the use of cookies at the individual browser level. If you reject cookies, you may still use our site, but your ability to use some features or areas of our site may be limited.
+
+Third parties with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity use LSOs such as Flash to collect and store information.  
+To manage Flash LSOs please click [here.](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html)
+
+We partner with a third party to either display advertising on our Web site or to manage our advertising on other sites. Our third party partner may use technologies such as cookies to gather information about your activities on this site and other sites in order to provide you advertising based upon your browsing activities and interests. If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by clicking [here](http://preferences-mgr.truste.com/) (or if located in the European Union click [here](http://www.youronlinechoices.eu/)). Please note this does not opt you out of being served ads. You will continue to receive generic ads. 
 
 ### Third Party Websites
 
@@ -107,7 +114,7 @@ If we decide to change our privacy policy, we will post those changes to this pr
 
 We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page prior to the change becoming effective. 
 
-Last update: 3/18/2014. 
+Last update: 5/12/2015. 
 
 ### Questions or Comments?
 
