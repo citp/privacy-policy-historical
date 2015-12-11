@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the avaya.com privacy policy that was archived on 2015-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150620054633id_/http%3A//www.avaya.com/usa/privacystatement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the avaya.com privacy policy that was archived on 2015-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151211054319id_/http%3A//www.avaya.com/usa/privacystatement) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -6,7 +6,9 @@
 
 Your privacy is important to Avaya. This statement discloses the information practices, including what type of information is gathered and tracked, how the information is used, and with whom the information is shared.
 
-[](http://www.truste.org/ivalidate.php?url=www.avaya.com&sealid=102)Avaya Inc. has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information.  The TRUSTe Program does not cover information that may be collected through downloadable software.  TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions.  If you have questions or complaints regarding our privacy policy or practices, please contact us at [executiveoffic@avaya.com](mailto:executiveoffice@avaya.com).  If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint).
+[](http://privacy.truste.com/privacy-seal/Avaya,-Inc-/validation?rid=b950d69a-7697-4dab-a1f7-bdeea9359f9f "TRUSTe European Safe Harbor certification")
+
+Avaya Inc. has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information.  The TRUSTe Program does not cover information that may be collected through downloadable software.  TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions.  If you have questions or complaints regarding our privacy policy or practices, please contact us at [executiveoffic@avaya.com](mailto:executiveoffice@avaya.com).  If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint). 
 
 This privacy statement covers the site [www.avaya.com](http://www.avaya.com/) and pages linking from our site in the Careers section that are hosted on our 3rd party service providers URL. These pages are indicated by providing a link to the Avaya privacy statement.
 
