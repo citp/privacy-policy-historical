@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the interesting-facts.info privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628034226id_/http%3A//interesting-facts.info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the interesting-facts.info privacy policy that was archived on 2015-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151211202752id_/http%3A//interesting-facts.info/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | IFAI
 
