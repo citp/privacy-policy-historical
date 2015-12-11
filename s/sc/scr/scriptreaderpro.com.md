@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the scriptreaderpro.com privacy policy that was archived on 2014-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141128052220id_/http%3A//www.scriptreaderpro.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scriptreaderpro.com privacy policy that was archived on 2015-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151211165522id_/http%3A//www.scriptreaderpro.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Script Reader Pro
 
-### This privacy policy sets out how ScriptReaderPro uses and protects any information that you give ScriptReaderPro when you use this website.
+**This privacy policy sets out how ScriptReaderPro uses and protects any information that you give ScriptReaderPro when you use this website.**
 
 ScriptReaderPro is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
 
@@ -32,7 +32,7 @@ ScriptReaderPro may contain links to other websites of interest. However, once y
 
 Controlling your personal information – We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so.
 
-You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee maybe payable. If you would like a copy of the information held on you please email info@scriptreaderpro.com
+You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee maybe payable. If you would like a copy of the information held on you please email info[at]scriptreaderpro[dot]com
 
 If you believe that any information we are holding on you is incorrect or incomplete, please email us as soon as possible. We will promptly correct any information found to be incorrect.
 
@@ -65,11 +65,3 @@ http://www.scriptreaderpro.com
 5042 Wilshire Blvd. #27653
 
 Los Angeles, CA 90036
-
-* * *
-
-Want pro script coverage on your screenplay from a working Hollywood screenwriter, at an affordable rate?
-
-Check out our [Script Coverage](http://www.scriptreaderpro.com/op/script-coverage-and-consulting/ "script coverage") services and[ Script Doctor](http://www.scriptreaderpro.com/op/script-doctor/ "script doctor") services.
-
-* * *
