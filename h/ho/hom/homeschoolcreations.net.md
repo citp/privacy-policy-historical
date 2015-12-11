@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the homeschoolcreations.net privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612024426id_/http%3A//www.homeschoolcreations.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homeschoolcreations.net privacy policy that was archived on 2015-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151211072120id_/http%3A//www.homeschoolcreations.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -45,5 +45,3 @@ Homeschool Creations PROVIDES THE INFORMATION, SERVICES AND PRODUCTS ON THIS WEB
 Homeschool Creations is controlled, operated and administered entirely within the United States. By using Homeschool Creations and/or participating in the activities of Homeschool Creations Community, you signify your agreement to the terms of this Privacy Statement. If you do not agree with this Privacy Statement, please do not disclose any personal information through our site. Homeschool Creations may modify this Privacy Statement at any time, at its discretion, and modifications are effective upon being posted on this the applicable Site. You are responsible for reviewing this Privacy Statement periodically to ensure that you are aware of any changes to it.
 
 This Privacy Policy is effective as of December 2013 and supersedes all earlier versions of our Privacy Policy
-
-### Share and Enjoy
