@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the pri.org privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627132221id_/http%3A//www.pri.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pri.org privacy policy that was archived on 2015-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151211140325id_/http%3A//www.pri.org/privacy) for the most accurate reproduction.*
 
 # PRI.org privacy policy | Public Radio International
 
-PRI.org is owned and operated by Public Radio International (referred to herein as“Public Radio International,” “PRI,” “we,” and “us”).  PRI respects your individual privacy. This Privacy Policy describes how we collect, use, and share information we obtain from users in connection with any mobile services, websites including without limitation any website displaying or linking to this Privacy Policy, live stream, RSS feeds, APIs and any software provided on or in connection with the PRI service (collectively the “Service”). By using the Service, you agree to this Privacy Policy.  This Privacy Policy is subject to the [PRI.org Complete Terms of Service and User Agreement](http://www.pri.org/terms/complete) terms, including without limitation its warranty disclaimer, limitation of liability, and choice of law and venue provisions.    
+PRI.org is owned and operated by Public Radio International (referred to herein as “Public Radio International,” “PRI,” “we,” and “us”).  PRI respects your individual privacy. This Privacy Policy describes how we collect, use, and share information we obtain from users in connection with any mobile services, websites including without limitation any website displaying or linking to this Privacy Policy, live stream, RSS feeds, APIs and any software provided on or in connection with the PRI service (collectively the “Service”). By using the Service, you agree to this Privacy Policy.  This Privacy Policy is subject to the [PRI.org Complete Terms of Service and User Agreement](http://www.pri.org/terms/complete) terms, including without limitation its warranty disclaimer, limitation of liability, and choice of law and venue provisions.    
 
 **What information do we collect?  **
 
@@ -78,6 +78,10 @@ We do not sell, trade, or otherwise transfer to outside parties your personally 
 
 Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
 
+**Google Analytics features**
+
+We use Google Analytics to track demographic and interest data of our online users, in aggregate. The information is not tracked on an individual level, but it is viewed in aggregate to give us an idea of who our audience is and to inform our decisions on what sort of content they might be interested in. We may also share aggregate data with funders and editorial partners. If you wish to opt our of this tracking, you may do so via Google's Ads Settings control panel, or it compansion Ad Settings for mobile apps.
+
 **California Online Privacy Protection Act Compliance**
 
 Because we value your privacy, we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
@@ -90,7 +94,7 @@ We are in compliance with the requirements of COPPA (Childrens Online Privacy Pr
 
 **Online Privacy Policy Only  **
 
-This online privacy policy applies only to information collected through our website and not to information collected offline.
+This online privacy policy applies only to information collected through our website and other digital services and not to information collected offline.
 
 **Do Not Track**
 
@@ -110,6 +114,6 @@ Minneapolis, MN 55401
 USA  
 [contact@pri.org](mailto:contact@pri.org?subject=Message%20from%20PRI.org)
 
-Last Modified: September 9, 2014
+Last Modified: July 13, 2015
 
-© 2014 Public Radio International, All Rights Reserved
+© 2015 Public Radio International, All Rights Reserved
