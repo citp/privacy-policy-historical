@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the triadretail.com privacy policy that was archived on 2015-03-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150304202534id_/http%3A//www.triadretail.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the triadretail.com privacy policy that was archived on 2015-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151211132756id_/http%3A//www.triadretail.com/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy | Triad Retail Media
 
@@ -10,7 +10,7 @@ Triad may occasionally change the features and content found on this site. Triad
 
 ## 2\. Information Collected
 
-  1. **Personally Identifiable Information**   
+  1. **Personally Identifiable Information**    
 In some instances, this website (the “Site”) may collect personally identifiable information (name, address, e-mail address, telephone number, fax number, credit card information and information about your interest in and use of various products, programs and services, etc.) This information is only collected when volunteered by the user.
 
   2. **Non-personally Identifiable Information**  
@@ -29,10 +29,10 @@ We do not match personally identifiable information with non-personally identifi
 
 We will use the information you submit to improve the Triad web site and to improve the information about Triad and its clients that may be of interest to you. You will only receive an e-mail from us for information you have requested or as confirmation of information that you submitted (i.e. contact form). You may opt-out of receiving information from Triad at any time by following the unsubscribe information provided in the e-mail or in writing by contacting:
 
-> Privacy Policy c/o Triad Digital Media, LLC d/b/a Triad Retail Media  
->  100 Carillon Pkwy., Ste. 100   
->  Saint Petersburg, FL  33716  
->  Email to: privacy@triadretail.com.
+Privacy Policy c/o Triad Digital Media, LLC d/b/a Triad Retail Media  
+100 Carillon Pkwy., Ste. 100   
+Saint Petersburg, FL  33716  
+Email to: privacy@triadretail.com
 
 ## 4\. Information Disclosure Policy
 
@@ -74,32 +74,32 @@ California law requires us to let you know how we respond to web browser Do Not 
 
 ## 12. Safe Harbor Compliance: Privacy Principles Concerning Information Collected/Transmitted from the European Union
 
-The following privacy principles specifically pertain to information collected/transmitted from the European Union (“EU”). Triad complies with the US-EU Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries. Triad has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view our certification page, please visit http://www.export.gov/safeharbor/ 
+The following privacy principles specifically pertain to information collected/transmitted from the European Union (“EU”). Triad complies with the US-EU Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries. Triad has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view our certification page, please visit http://www.export.gov/safeharbor/
 
-**NOTICE:** When Triad collects personal information directly from individuals in the EU, it will inform them about the purposes for which it collects and uses their personal information, the types of non-agent third parties, if any, to which Triad discloses that information, and the choices and means, if any, that Triad offers individuals for limiting the use and disclosure of their personal information. Notice will be provided in clear and conspicuous language when individuals are first asked to provide personal information to Triad, or as soon as practicable thereafter, and in any event before Triad uses the information for a purpose other than that for which it was originally collected.
+**NOTICE:**  When Triad collects personal information directly from individuals in the EU, it will inform them about the purposes for which it collects and uses their personal information, the types of non-agent third parties, if any, to which Triad discloses that information, and the choices and means, if any, that Triad offers individuals for limiting the use and disclosure of their personal information. Notice will be provided in clear and conspicuous language when individuals are first asked to provide personal information to Triad, or as soon as practicable thereafter, and in any event before Triad uses the information for a purpose other than that for which it was originally collected.
 
 If Triad receives personal information from its subsidiaries, affiliates or other entities in the EU, it will use such information in accordance with the notices such entities provided and the choices made by the individuals to whom such personal information relates.
 
-**CHOICE:** Triad will offer individuals the opportunity to choose (opt-out) whether their personal information is (a) to be disclosed to a non-agent third party, or (b) to be used for a purpose other than the purpose for which it was originally collected or subsequently authorized by the individual.
+**CHOICE:**  Triad will offer individuals the opportunity to choose (opt-out) whether their personal information is (a) to be disclosed to a non-agent third party, or (b) to be used for a purpose other than the purpose for which it was originally collected or subsequently authorized by the individual.
 
 Triad will provide individuals with reasonable methods to exercise their choices.
 
-**DATA INTEGRITY:** Triad will use personal information only in ways that are compatible with the purposes for which it was collected or subsequently authorized by the individual. Triad will take reasonable steps to ensure that personal information is relevant to its intended use, accurate, complete, and current. 
+**DATA INTEGRITY:**  Triad will use personal information only in ways that are compatible with the purposes for which it was collected or subsequently authorized by the individual. Triad will take reasonable steps to ensure that personal information is relevant to its intended use, accurate, complete, and current.
 
-**TRANSFERS TO AGENTS:** Triad will obtain assurances from its agents that they will safeguard personal information consistently with this Policy. If Triad has knowledge that an agent is using or disclosing personal information in a manner contrary to this Policy, Triad will take reasonable steps to prevent or stop the use or disclosure.
+**TRANSFERS TO AGENTS:**  Triad will obtain assurances from its agents that they will safeguard personal information consistently with this Policy. If Triad has knowledge that an agent is using or disclosing personal information in a manner contrary to this Policy, Triad will take reasonable steps to prevent or stop the use or disclosure.
 
-**ACCESS AND CORRECTION:** Upon request, Triad will grant individuals reasonable access to personal information that it holds about them, and Triad will take reasonable steps to permit individuals to correct, amend, or delete information that is demonstrated to be inaccurate or incomplete.
+**ACCESS AND CORRECTION:**  Upon request, Triad will grant individuals reasonable access to personal information that it holds about them, and Triad will take reasonable steps to permit individuals to correct, amend, or delete information that is demonstrated to be inaccurate or incomplete.
 
-**SECURITY:** Triad will take reasonable precautions to protect personal information in its possession from loss, misuse and unauthorized access, disclosure, alteration and destruction.
+**SECURITY:**  Triad will take reasonable precautions to protect personal information in its possession from loss, misuse and unauthorized access, disclosure, alteration and destruction.
 
-**ENFORCEMENT:** Triad will conduct compliance audits of its relevant privacy practices to verify adherence to this Policy. Any employee that Triad determines is in violation of this policy will be subject to disciplinary action up to and including termination of employment.
+**ENFORCEMENT:**  Triad will conduct compliance audits of its relevant privacy practices to verify adherence to this Policy. Any employee that Triad determines is in violation of this policy will be subject to disciplinary action up to and including termination of employment.
 
-**QUESTIONS/CONCERNS AND DISPUTE RESOLUTION:** Triad commits to resolve complaints about your privacy and our collection or use of your personal information. European Union citizens with inquiries or complaints regarding this privacy policy should first contact Triad at: 
+**QUESTIONS/CONCERNS AND DISPUTE RESOLUTION:**  Triad commits to resolve complaints about your privacy and our collection or use of your personal information. European Union citizens with inquiries or complaints regarding this privacy policy should first contact Triad at:
 
 > Privacy Policy c/o Triad Digital Media, LLC d/b/a Triad Retail Media  
->  100 Carillon Pkwy., Ste. 100   
->  Saint Petersburg, FL  33716  
->  Email to: privacy@triadretail.com.
+100 Carillon Pkwy., Ste. 100   
+Saint Petersburg, FL  33716  
+Email to: privacy@triadretail.com
 
 For concerns or complaints that cannot be resolved between Triad and the complainant, you may contact the American Arbitration Association ("AAA") (International Centre for Dispute Resolution (“ICDR”)) as an independent dispute resolution mechanism. For Personal Data collected in support of Human Resources Operations, Triad has agreed to participate in the dispute resolution procedures of the panel established by the European Data Protection Authorities to resolve disputes pursuant to the Safe Harbor Principles.
 
@@ -107,5 +107,3 @@ For concerns or complaints that cannot be resolved between Triad and the complai
 
 We welcome any questions or comments you may have regarding this privacy policy or the use of personal data. In addition, if you wish to contact correct, amend or delete information about privacy related issue or for any reason at all, you may do so in mailing your request to: Privacy Policy c/o Triad Digital Media, LLC db/a Triad Retail Media, 100 Carillon Pkwy., Ste. 100, Saint Petersburg, FL  33716  
 or email to: privacy@triadretail.com.
-
-[SMS Terms and Conditions](https://web.archive.org/web/20150304202534id_/http%3A//www.triadretail.com/sms-terms-and-conditions.html)
