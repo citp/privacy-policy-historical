@@ -1,19 +1,19 @@
-> *The following text is extracted and transformed from the picturesongold.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608153948id_/http%3A//www.picturesongold.com/service/PrivacyPolicy_p21.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the picturesongold.com privacy policy that was archived on 2015-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151211104254id_/http%3A//www.picturesongold.com/service/PrivacyPolicy_p21.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
   * #### Jewelry by Specialty
 
+    * [Holiday Sale Items](http://www.picturesongold.com/shop/holiday-savings.html)
     * [Lockets](http://www.picturesongold.com/shop/locket-jewelry.html)
     * [Photo Engraved Jewelry](http://www.picturesongold.com/shop/photo-jewelry.html)
     * [Religious Jewelry](http://www.picturesongold.com/shop/religious-jewelry.html)
     * [Sports Numbers & Charms](http://www.picturesongold.com/shop/sports-numbers-and-charms.html)
     * [Medical Id Jewelry](http://www.picturesongold.com/shop/medical-jewelry.html)
-    * [Engravable Jewelry](http://www.picturesongold.com/shop/engraveable-jewelry.html)
     * [Thumbprint / Fingerprint Jewelry](http://www.picturesongold.com/shop/thumbprint-fingerprint-jewelry.html)
-    * [Id Bracelets](http://www.picturesongold.com/shop/id-bracelets.html)
-    * [Graduation Jewelry](http://www.picturesongold.com/shop/graduation-jewelry.html)
     * [Police & Firefighter Jewelry](http://www.picturesongold.com/shop/fraternal-jewelry.html)
+    * [Engravable Jewelry](http://www.picturesongold.com/shop/engraveable-jewelry.html)
+    * [Id Bracelets](http://www.picturesongold.com/shop/id-bracelets.html)
     * [Chains](http://www.picturesongold.com/shop/chains.html)
     * [Signet Rings](http://www.picturesongold.com/shop/signet-rings.html)
     * [Name Jewelry](http://www.picturesongold.com/shop/name-jewelry.html)
@@ -25,14 +25,13 @@
     * [School Rings](http://www.picturesongold.com/shop/class-ring-designer.html)
     * [US State Pendants](http://www.picturesongold.com/shop/us-states-pendants.html)
     * [Children's Jewelry](http://www.picturesongold.com/shop/childrens-jewelry.html)
+    * [Graduation Jewelry](http://www.picturesongold.com/shop/graduation-jewelry.html)
     * [Wedding Bands](http://www.picturesongold.com/shop/wedding-bands.html)
-    * [Initial Jewelry](http://www.picturesongold.com/shop/initial-jewelry.html)
     * [Design Your Own Ring](http://www.picturesongold.com/shop/design-own-ring.html)
-    * [Specialty Jewelry](http://www.picturesongold.com/shop/specialty-jewelry.html)
-    * [Made By Me Jewelry](http://www.picturesongold.com/shop/childrens-drawings-pendants.html)
     * [The Talk - Home](http://www.picturesongold.com/shop/the-talk--direct.html)
     * [Mother's Jewelry](http://www.picturesongold.com/shop/mothers-jewelry.html)
     * [The Talk - Direct](http://www.picturesongold.com/shop/the-talk.html)
+    * [Specialty Jewelry](http://www.picturesongold.com/shop/specialty-jewelry.html)
 
 
 
