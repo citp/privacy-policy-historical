@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cornerclassifieds.com privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612232136id_/http%3A//cornerclassifieds.com/privacy-policy-p25) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cornerclassifieds.com privacy policy that was archived on 2015-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151211211432id_/http%3A//cornerclassifieds.com/privacy-policy-p25) for the most accurate reproduction.*
 
 # Privacy Policy - Free Classifieds | CornerClassifieds.com
 
