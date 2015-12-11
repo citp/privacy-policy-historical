@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sitesprint.com privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630140230id_/http%3A//sitesprint.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sitesprint.com privacy policy that was archived on 2015-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151211201627id_/http%3A//sitesprint.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - SiteSprint
 
@@ -12,7 +12,7 @@ I never sell any kind of personal information to third parties or use this data 
 
 As with most other blogs, I collect and use the data contained in log files. The information in the log files include your IP address, your ISP ,the browser you used to visit our site (such as Internet Explorer or Chorome), the time you visited my blog and which pages you visit.
 
-### **Cookies and Web Beacons**
+###  **Cookies and Web Beacons**
 
 I do use cookies to store information, such as your personal preferences when you visit this site.
 
@@ -30,4 +30,4 @@ You can choose to disable or selectively turn off our cookies or third-party coo
 
 The Google’s AdSense program uses the [DoubleClick DART cookie](http://www.doubleclick.com/privacy/faq.aspx). Google’s use of the DART cookie enables this site to serve ads to you based on your visit to this site and/or other sites on the Internet. You may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
 
-**Thanks for visiting !**
+ **Thanks for visiting !**
