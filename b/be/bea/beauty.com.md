@@ -1,16 +1,10 @@
-> *The following text is extracted and transformed from the beauty.com privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612001006id_/http%3A//www.drugstore.com/category.asp%3Fcatid%3D148707) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beauty.com privacy policy that was archived on 2015-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151211141533id_/http%3A//www.drugstore.com/category.asp%3Fcatid%3D148707) for the most accurate reproduction.*
 
 # Beauty.com - bareMinerals, Origins, Urban Decay, NARS and more Beauty Products
 
-**TRUSTe Licensee**
-
 drugstore.com, inc. wants you to feel secure when visiting www.beauty.com and is committed to maintaining your privacy when you do so.  This privacy policy explains our policies and practices regarding the collection, use, storage, and disclosure of your personal information by Beauty.com, a division of drugstore.com, inc. ("Beauty.com", "we", "us").
 
-[](https://privacy.truste.com/privacy-seal/Drugstore-com,-Inc-/validation?rid=4cb98dc1-ed2d-4f8b-9364-406d6ecb9f27&atrx=dps-16&atrxp1=313647&atrxp2=0&atrxp3=%2F%2Fprivacy%2Etruste%2Ecom%2Fprivacy%2Dseal%2FDrugstore%2Dcom%2C%2DInc%2D%2Fvalidation%3Frid%3D4cb98dc1%2Ded2d%2D4f8b%2D9364%2D406d6ecb9f27&atrxp4=148707 "TRUSTe online privacy certification")We have been awarded TRUSTe's Privacy Seal signifying that this privacy policy and our practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy-program-requirements/ "Click here for TRUSTe's privacy program requirements") including transparency, accountability and choice regarding the collection and use of your personal information. This statement discloses the privacy practices for www.beauty.com. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. 
-
-If you have questions or complaints regarding our privacy policy or practices, please contact us at [privacy@drugstore.com](mailto:privacy@drugstore.com "Click to contact us if you have questions or comments about our privacy policy"). If you are not satisfied with our response you can contact TRUSTe [here](http://watchdog.truste.com/pvr.php?page=complain "Click here to contact Truste"). 
-
-**Information We Collect**  
+ **Information We Collect**  
 We recognize your right to confidentiality and are committed to protecting your privacy. We use the information that we collect on our websites to provide you with a superior shopping experience and to communicate with you about products, services, and promotions.
 
  **Your Account**  
@@ -18,7 +12,7 @@ When you place an order, we will ask you to set up "your account," which include
 
 If you would like to review or revise the information we have in your account, you may access such information by clicking on the "your account" link below or on any screen of our site.
 
-[http://www.beauty.com/user/modify_account.asp](http://www.beauty.com/user/modify_account.asp?atrx=dps-16&atrxp1=313647&atrxp2=5&atrxp3=http%3A%2F%2Fwww%2Ebeauty%2Ecom%2Fuser%2Fmodify%5Faccount%2Easp&atrxp4=148707 "Click here to review the information we have in your account")
+[http://www.beauty.com/user/modify_account.asp](http://www.beauty.com/user/modify_account.asp?atrx=dps-16&atrxp1=313647&atrxp2=1&atrxp3=http%3A%2F%2Fwww%2Ebeauty%2Ecom%2Fuser%2Fmodify%5Faccount%2Easp&atrxp4=148707 "Click here to review the information we have in your account")
 
  **Gift Certificates**  
 If you wish to send a gift certificate to a friend, we will ask for your friend’s name and e-mail address.  We will use this information to send your friend a one-time e-mail with the gift certificate attached.  We store this information for the sole purpose of sending this e-mail and to track the success of our gift certificate exchange.  Gift certificate recipients who wish to have their information removed from our database may contact us at [privacy@drugstore.com](mailto:privacy@drugstore.com "Click here if you need gift certificate information removed from drugstore.com or Beauty.com privacy information"). 
@@ -91,6 +85,6 @@ Bellevue, WA 98004
 
 1-800-drugstore (1-800-378-4786)
 
-Last updated: April 11, 2013
+Last updated: June 2, 2015
 
-Copyright © 2013 drugstore.com, inc. All rights reserved. 
+Copyright © 2015 drugstore.com, inc. All rights reserved. 
