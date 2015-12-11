@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the babyworld.co.uk privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612121701id_/http%3A//babyworld.co.uk/private-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the babyworld.co.uk privacy policy that was archived on 2015-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151211175122id_/http%3A//babyworld.co.uk/private-policy) for the most accurate reproduction.*
 
 # Privacy Policy | babyworld
 
-Glam Media Ltd (trading as “babyworld”), takes your privacy seriously. In general, we use the personal information that we collect from you to identify personal preferences and  match your needs with relevant products, and process any orders that you may make through our website.
+Mode Media Corporation Ltd (trading as “babyworld”), takes your privacy seriously. In general, we use the personal information that we collect from you to identify personal preferences and  match your needs with relevant products, and process any orders that you may make through our website.
 
 Note: This policy only applies to websites hosted at and comprising part of the babyworld service and not to the companies, individuals, organisations or other websites to which there are links.
 
@@ -33,11 +33,11 @@ We may provide aggregate statistics about our sales, customers, traffic pattern
 
 ## Other disclosures
 
-Glam Media Ltd/babyworld reserves the right to access and disclose individually identifiable information to comply with applicable laws and lawful government requests, to operate its systems properly or to protect itself or its users.
+Mode Media Corporation Ltd/babyworld reserves the right to access and disclose individually identifiable information to comply with applicable laws and lawful government requests, to operate its systems properly or to protect itself or its users.
 
 ## How do we protect your information?
 
-Glam Media Ltd/babyworld has strict security procedures covering the storage and disclosure of your information in order to prevent unauthorised access and to comply with the Data Protection Act 1998. This means that sometimes we may ask you for proof of identity before disclosing any personal information to you.
+Mode Media Corporation Ltd/babyworld has strict security procedures covering the storage and disclosure of your information in order to prevent unauthorised access and to comply with the Data Protection Act 1998. This means that sometimes we may ask you for proof of identity before disclosing any personal information to you.
 
 ## Cookies
 
@@ -50,5 +50,5 @@ We welcome your questions and comments about privacy issues. Should you have an
 
 See also our [Terms of Use](https://web.archive.org/bbs/discussion_rules.asp), [Copyright](http://babyworld.co.uk/copyright-and-limited-reproduction-notices/) and [Disclaimer](http://babyworld.co.uk/disclaimer-of-liability-visitors-and-members-contributions-to-the-website/) information and [Community rules](http://babyworld.co.uk/using-babyworlds-community/).
 
- **Last revised 04 April 2012  
+ **Last revised 19 October 2015  
 **
