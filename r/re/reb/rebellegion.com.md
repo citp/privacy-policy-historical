@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rebellegion.com privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612134219id_/http%3A//www.rebellegion.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rebellegion.com privacy policy that was archived on 2015-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151211113707id_/http%3A//www.rebellegion.com/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement | Rebel Legion
 
