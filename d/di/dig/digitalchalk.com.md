@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the digitalchalk.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608125920id_/http%3A//www.digitalchalk.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digitalchalk.com privacy policy that was archived on 2015-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151211154318id_/http%3A//www.digitalchalk.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | DigitalChalk
+
+* * *
 
 Digitalchalk.com is committed to protecting your personal information. As a reminder, Digitalchalk.com does not request personal information via e-mail or telemarketing. If someone contacts you in this manner and requests personal information on behalf of DigitalChalk.com, DO NOT RESPOND! Delete, disregard or hang up. These questions are not from us. We want your personal information to remain private. If you have questions about Digitalchalk.com’s privacy practices, contact us at 1-828-665-8292.
 
