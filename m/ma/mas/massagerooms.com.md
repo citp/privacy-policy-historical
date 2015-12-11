@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the massagerooms.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607074301id_/http%3A//massagerooms.com/tour/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the massagerooms.com privacy policy that was archived on 2015-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151211190019id_/http%3A//www.massagerooms.com/tour/privacy.html) for the most accurate reproduction.*
 
 # MassageRooms.Com
 
