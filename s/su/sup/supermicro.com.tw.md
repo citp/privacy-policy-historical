@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the supermicro.com.tw privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120210339id_/http%3A//www.supermicro.com.tw/about/policies/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the supermicro.com.tw privacy policy that was archived on 2015-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151211140434id_/http%3A//www.supermicro.com.tw/about/policies/privacy.cfm) for the most accurate reproduction.*
 
 # Super Micro Computer, Inc. - About Supermicro | Privacy
 
@@ -112,5 +112,5 @@ Webmaster: [Webmaster@Supermicro.com](mailto:webmaster@supermicro.com)
 
 * * *
 
-©Copyright 2014 by Super Micro Computer, Inc.  
+©Copyright 2015 by Super Micro Computer, Inc.  
 All rights reserved. 
