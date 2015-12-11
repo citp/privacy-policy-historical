@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eatdrinkdeals.com privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612232514id_/http%3A//www.eatdrinkdeals.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eatdrinkdeals.com privacy policy that was archived on 2015-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151211145023id_/http%3A//www.eatdrinkdeals.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Restaurant Coupons 2015
 
@@ -46,5 +46,3 @@ Our website may contain links to other websites of interest. Once you have used 
 #### Controlling your personal information
 
 We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so.
-
-[](http://www.hupso.com/share/)
