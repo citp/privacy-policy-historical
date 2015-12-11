@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the closetsamples.com privacy policy that was archived on 2015-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150603071232id_/http%3A//closetsamples.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the closetsamples.com privacy policy that was archived on 2015-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151211023050id_/http%3A//closetsamples.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Closet of Free Samples | Get FREE Samples by Mail | Free Stuff
 
