@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the vantagewire.com privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612231848id_/http%3A//ca.equities.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vantagewire.com privacy policy that was archived on 2015-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151211211302id_/http%3A//ca.equities.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Equities Canada
 
-Vantage Communications Ltd. respects your privacy. This statement of our Privacy Policy explains what information we gather from you and how we use that information. We consider the information you have shared with us strictly confidential and will use that information only as specified in this Privacy Policy or to the extent necessary to comply with applicable law.
+Equities.com respects your privacy. This statement of our Privacy Policy explains what information we gather from you and how we use that information. We consider the information you have shared with us strictly confidential and will use that information only as specified in this Privacy Policy or to the extent necessary to comply with applicable law.
 
 Information We Gather and How We Use It
 
@@ -30,7 +30,7 @@ We may from time to time sell or transfer your contact and demographic informati
 
 As we continually look for ways to improve our business, we may buy or sell a company. If we buy or sell a business, the names collected will likely be transferred as a part of the sale. Information about registrants will be used in the aggregate. However, if we buy a business, we will honour the requests that customers made of that business regarding e-mail communications. In the event that we sell a business, we will do everything in our power to ensure that the e-mail communications requests you made of us are honoured.
 
-We may release your contact and other information to third parties when we believe that such release is reasonably necessary to (i) comply with law, (ii) cooperate with state and federal regulatory agency investigations, (iii) comply with the terms of the Subscriber Agreements with the TSX, Nasdaq and the New York Stock Exchange, (iv) enforce the terms of our User Agreement or License Agreement, or (v) protect the rights of Vantage Communications Ltd. or others.
+We may release your contact and other information to third parties when we believe that such release is reasonably necessary to (i) comply with law, (ii) cooperate with state and federal regulatory agency investigations, (iii) comply with the terms of the Subscriber Agreements with the TSX, Nasdaq and the New York Stock Exchange, (iv) enforce the terms of our User Agreement or License Agreement, or (v) protect the rights of Equities.com or others.
 
 Cookies
 
@@ -54,7 +54,7 @@ Our Web site has certain security measures in place in effort to protect the los
 
 Links to Other Web Sites
 
-Our Web site contains links to other sites. Vantagewire.com is not responsible for the privacy practices or the content of such sites. You may wish to review the privacy policies of these sites.
+Our Web site contains links to other sites. equities.com is not responsible for the privacy practices or the content of such sites. You may wish to review the privacy policies of these sites.
 
 Third Party Advertising
 
@@ -70,8 +70,8 @@ You may choose not to register for real-time quotes. Access to delayed quotes do
 You may opt-out of receiving communications from us and/or our partners. Your options include:
 
 Opting to not receive promotional materials from our advertisers and/or,  
-Opting to not receive any newsletters, notices about new services or any other content from Vantagewire.com.  
-You may opt-out during the registration process or after registering by selecting the “delete account” option in your Account Profile, or by contacting us by e-mail at: support@vantagewire.com. Every e-mail we send to you will provide you with instructions on how to unsubscribe so that you will not receive any future e-mails.
+Opting to not receive any newsletters, notices about new services or any other content from equities.com.  
+You may opt-out during the registration process or after registering by selecting the “delete account” option in your Account Profile, or by contacting us by e-mail at: support@equities. Every e-mail we send to you will provide you with instructions on how to unsubscribe so that you will not receive any future e-mails.
 
 Correct or Update Your Information
 
@@ -81,11 +81,11 @@ Contacting Us
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact our head office at:
 
-Vantage Communications Ltd.  
-Suite 150 – 666 Burrard St.  
+Equities Media Inc.  
+415 Hornby Ave  
 Vancouver, British Columbia  
-Canada V6C 2X8  
-support@vantagewire.com
+Canada V6C 2Y2  
+support@equities.com
 
 Additional Information
 
