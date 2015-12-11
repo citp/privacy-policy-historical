@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the oneall.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610162415id_/http%3A//www.oneall.com/company/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oneall.com privacy policy that was archived on 2015-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151211212132id_/http%3A//www.oneall.com/company/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | oneall.com
+# Privacy Policy | www.oneall.com
 
 **We take your privacy very seriously and we will not share any information you give us with anyone else unless required by law. We will never sell, rent or otherwise distribute the information that you or your users submit on our website. We take your privacy seriously and we want you to feel comfortable using our services.**
 
