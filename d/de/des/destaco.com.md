@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the destaco.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610082131id_/http%3A//www.destaco.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the destaco.com privacy policy that was archived on 2015-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151211111633id_/http%3A//www.destaco.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy | DE-STA-CO
 
