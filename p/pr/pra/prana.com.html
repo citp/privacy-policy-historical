@@ -1,12 +1,12 @@
-<!--The following is the downloaded HTML source of the prana.com privacy policy that was archived on 2015-03-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150326002715id_/http%3A//www.prana.com/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the prana.com privacy policy that was archived on 2015-12-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151211205100id_/http%3A//www.prana.com/privacy-policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 
     
  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">  
- <meta http-equiv="X-UA-Compatible" content="IE=edge"> 
-<title>Privacy Policy  | prAna</title>
+ <meta http-equiv="X-UA-Compatible" content="IE=edge"><script src="https://js-agent.newrelic.com/nr-768.min.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-N54FMH"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UwEGV1NTGwUJVFJSBAE="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),f=c.length,u=i(a,o,r),d=0;f>d;d++)c[d].apply(u,n);return u}function a(t,e){f[t]=s(t).concat(e)}function s(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:s,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:24,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(f){try{r("ierr",[f,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(5),window.onerror=e;try{throw new Error}catch(f){"stack"in f&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&t(4),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:11,2:10,3:8,4:12,5:3,6:25,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t){if(window.addEventListener){var e=t("handle"),n=t("ee");t(1),window.addEventListener("click",function(){e("inc",["ck"])},!1),window.addEventListener("hashchange",function(){e("inc",["hc"])},!1),n.on("pushState-start",function(){e("inc",["ps"])})}},{1:9,ee:"QJf3ax",handle:"D5DuLP"}],6:[function(t){t("loader").features.ins=!0},{loader:"G9z0Bl"}],7:[function(t){function e(){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var n=t("ee"),r=t("handle"),o=t(1),i=t(2);t("loader").features.stn=!0,t(3);var a=Event;n.on("fn-start",function(t){var e=t[0];e instanceof a&&(this.bstStart=Date.now())}),n.on("fn-end",function(t,e){var n=t[0];n instanceof a&&r("bst",[n,e,this.bstStart,Date.now()])}),o.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),o.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),i.on("fn-start",function(){this.bstStart=Date.now()}),i.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),n.on("pushState-start",function(){this.time=Date.now(),this.startPath=location.pathname+location.hash}),n.on("pushState-end",function(){r("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.addEventListener("webkitresourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1),window.performance.addEventListener("resourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1)),document.addEventListener("scroll",e,!1),document.addEventListener("keypress",e,!1),document.addEventListener("click",e,!1)}},{1:11,2:10,3:9,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],8:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=t("ee").create(),i=t(1)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t,e){function n(){return s}if(t[1]){var r=t[1];if("function"==typeof r){var s=a(r,"nr@wrapped",function(){return i(r,"fn-",n,r.name||"anonymous")});this.wrapped=t[1]=s,o.emit("initEventContext",[t,e],this.wrapped)}else"function"==typeof r.handleEvent&&i.inPlace(r,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:26,ee:"QJf3ax",gos:"7eSDFh"}],9:[function(t,e){var n=t("ee").create(),r=t(1)(n);e.exports=n,r.inPlace(window.history,["pushState","replaceState"],"-")},{1:26,ee:"QJf3ax"}],10:[function(t,e){var n=t("ee").create(),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:26,ee:"QJf3ax"}],11:[function(t,e){function n(t,e,n){t[0]=i(t[0],"fn-",null,n)}function r(t,e,n){function r(){return a}this.ctx={};var a={"nr@context":this.ctx};o.emit("initTimerContext",[t,n],a),t[0]=i(t[0],"fn-",r,n)}var o=t("ee").create(),i=t(1)(o);e.exports=o,i.inPlace(window,["setTimeout","setImmediate"],"setTimer-"),i.inPlace(window,["setInterval"],"setInterval-"),i.inPlace(window,["clearTimeout","clearImmediate"],"clearTimeout-"),o.on("setInterval-start",n),o.on("setTimer-start",r)},{1:26,ee:"QJf3ax"}],12:[function(t,e){function n(){f.inPlace(this,p,"fn-",o)}function r(t,e){f.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),f=c(a),u=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),e.hasOwnProperty("addEventListener")&&u.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(i){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,f.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:8,2:26,ee:"QJf3ax"}],13:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var a=t.responseType,f="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,u=n(f);if(u&&(r.rxSize=u),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(e.cat=d.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,o("xhr",[e,r,this.startTime])}}}function n(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,f=t(1),u=window.XMLHttpRequest;t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=e,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,e){var r=this.metrics,o=t[0],i=this;if(r&&o){var f=n(o);f&&(r.txSize=f)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{a.emit("internal-error",[n])}catch(r){}}};for(var u=0;c>u;u++)e.addEventListener(s[u],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof u&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof u&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof u&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:14,3:12,4:8,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],14:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],15:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:24,2:25,handle:"D5DuLP"}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):void(r.q&&(r.q[t]||(r.q[t]=[]),r.q[t].push(e)))}var r=t("ee").create();e.exports=n,n.ee=r,r.q={}},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info,e=f.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){s(d,function(e,n){e in t||(t[e]=n)});var n="https"===u.split(":")[0]||t.sslForHttp;p.proto=n?"https://":"http://",a("mark",["onload",i()]);var r=f.createElement("script");r.src=p.proto+t.agent,e.parentNode.insertBefore(r,e)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=window,f=c.document;t(2);var u=(""+location).split("?")[0],d={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-768.min.js"},p=e.exports={offset:i(),origin:u,features:{}};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),c.addEventListener("load",n,!1)):(f.attachEvent("onreadystatechange",r),c.attachEvent("onload",n)),a("mark",["firstbyte",i()])},{1:24,2:15,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],24:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],25:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],26:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@original",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,f;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){u([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return f=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,f],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=t,f(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){u([o,e,n,r])}}function f(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){u([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function u(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:25,ee:"QJf3ax"}]},{},["G9z0Bl",4,13,7,6,5]);</script> 
+<title>Privacy Policy | prAna</title>
 <!--STARTHeaderIncludes-->
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
  
@@ -25,9 +25,10 @@
 </script>
 <![endif]-->
 
-<link rel="stylesheet" type="text/css" href="https://www.prana.com/media/css_secure/f335db1b52e9fe470b7346a8c946a70f.css" media="all">
+<link rel="stylesheet" type="text/css" href="https://www.prana.com/media/css_secure/3050b70b92311c0d43e68b3de672d91d.css" media="all">
 <link rel="stylesheet" type="text/css" href="https://www.prana.com/media/css_secure/32fa3dc4444153c160c532d1be8f5722.css" media="print">
-<script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-N54FMH"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="https://www.prana.com/media/js/913d6dd36d568f3179e8cbb3939f4516.js"></script>
+<script type="text/javascript" src="https://www.prana.com/media/js/7db768d4cee56902c0b98e091e09bcc7.js"></script>
+<link rel="canonical" href="http://www.prana.com/privacy-policy.html">
 <!--[if IE]>
 <link rel="stylesheet" type="text/css" href="https://www.prana.com/media/css_secure/980477973bb588b057042315ba97beef.css" media="all" />
 <![endif]-->
@@ -62,49 +63,33 @@ Mage.Cookies.domain   = '.www.prana.com';
 optionalZipCountries = [];
 //]]>
 </script>
-<!-- BEGIN GOOGLE ANALYTICS CODEs -->
-<script type="text/javascript">
-//<![CDATA[
-    var _gaq = _gaq || [];
-    
-_gaq.push(['_setAccount', 'UA-1921371-1']);
-
-_gaq.push(['_trackPageview']);
-    
-    (function() {
-        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-    })();
-
-//]]>
-</script>
-<!-- END GOOGLE ANALYTICS CODE -->
-<script src="//cdn.optimizely.com/js/1825280462.js"></script><script type="text/javascript">var pr_style_sheet = "//cdn.powerreviews.com/aux/16814/427567/css/express.css";</script><script type="text/javascript" src="//cdn.powerreviews.com/repos/16814/pr/pwr/engine/js/full.js"></script><style type="text/css">
+<style type="text/css">
 								</style><script type="text/javascript">//<![CDATA[
         var Translator = new Translate([]);
         //]]></script>
 
 
 	<link href="//fonts.googleapis.com/css?family=Crimson+Text&amp;subset=latin" rel="stylesheet" type="text/css">
+<script src="//cdn.optimizely.com/js/1825280462.js"></script>
 <!--ENDHeaderIncludes--></head>
 <body class=" cms-page-view cms-privacy-policy-html ">
-<!-- page: generated at 2015-03-26 00:27:16 -->
-<!-- Google Tag Manager -->
-<script>dataLayer = [{"visitorLoginState":"Logged out","visitorType":"NOT LOGGED IN","visitorLifetimeValue":0,"visitorExistingCustomer":"No"}];</script>
+<!-- page: generated at 2015-12-11 20:51:01 -->
+<!--{GTM_714ccccf1409c720a499d087ce87c6c3}--><!-- Google Tag Manager -->
+<script>dataLayer = [{"visitorLoginState":"Logged out","visitorType":"NOT LOGGED IN","visitorEmail":"","timeStamp":"20151211205101","visitorSiteContext":"page","department":"","category":""}];</script>
 
-<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-N54FMH" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-N54FMH"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
 new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
 j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
 })(window,document,'script','dataLayer','GTM-N54FMH');</script>
 <!-- End Google Tag Manager -->
-<div id="root-wrapper">
+<!--/{GTM_714ccccf1409c720a499d087ce87c6c3}--><div id="root-wrapper">
 <div class="wrapper">
         <div class="page">
-        <!--STARTHeaderContainer--><!--{INTERNATIONAL_fd17347d7d4ac414e1f04c3ed99ed6aa}--><!-- international -->
-<!--/{INTERNATIONAL_fd17347d7d4ac414e1f04c3ed99ed6aa}--><div class="header-container" id="top">
+        <!--STARTHeaderContainer--><!--{INTERNATIONAL_e64d79940a1c88ce6aafca384d3c5386}--><!-- international -->
+<!--/{INTERNATIONAL_e64d79940a1c88ce6aafca384d3c5386}--><div class="header-container" id="top">
 <div class="header-container2">
 <div class="header-container3">
 
@@ -115,35 +100,109 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                   <div class="grid12-12">
                                            
                 
-                                                                                  </div>
+                                                                
             </div> <!-- end: grid-full -->
                     </div> <!-- end: header-top -->
     </div> <!-- end: header-top-container -->
 
     <div class="header-primary-container">
         <div class="header-primary header container">
-                           
-                <div class="get-it-by-christmas-mobile">
-                   </div>  
-              <div class="get-it-by-christmas">
-                     </div>             
+                            <div class="top-promo"><style>
+.main { padding: 250px 0 1%;}
+.imageMap a.top-promo-p1 {left: 63%; top: 10%; width: 10%; height: 80%;}
+.imageMap a.top-promo-p2 {left: 74%; top: 10%; width: 7%; height:80%;}
+img.rsImg {margin:0!important;}
+.top-promo {cursor:default;}
+</style>
+
+<script type="text/javascript">
+jQuery(document).ready(function(){
+if (jQuery(".top-promo").length>0){
+<!-- close button animation-->
+jQuery(".close-btn1").on("click", function(){
+  jQuery(".top-promo").hide();
+    jQuery(".main").animate({
+      "padding-top":"150px" },{ duration: 500, queue: false });
+  jQuery(".header-main").animate({
+      "margin-top":"10px" },{ duration: 500, queue: false });
+});
+}
+});
+</script>
+
+<div class="imageMap">
+<img src="https://www.prana.com/media/wysiwyg/1105Flip/global-banner-_2x.jpg" alt="Free Shipping on All Orders | prAna" title="Free Shipping on All Orders | prAna">
+<div class="hotspots">
+	 	<a href="/women.html" class="top-promo-p1" title="Free Shipping on All Orders | prAna"></a>
+	 	<a href="/men.html" class="top-promo-p2" title="Free Shipping on All Orders | prAna"></a>
+	</div>
+</div> </div>                  
+                                   <div class="top-promo-mobile"><style>
+@media (max-width: 480px) {
+.main { padding: 250px 0 1%;}
+.imageMap a.top-promo-mobile-p1 {left: 41%; top: 35%; width: 16%; height: 65%;}
+.imageMap a.top-promo-mobile-p2 {left: 59%; top: 35%; width: 10%; height: 65%;}
+img.rsImg {margin:0!important;}
+
+.top-promo {cursor:default;}
+}
+</style>
+
+<div class="imageMap">
+<img src="https://www.prana.com/media/wysiwyg/1105Flip/global-banner-mobile-_2x.jpg" alt="Free Shipping on All Orders | prAna" title="Free Shipping on All Orders | prAna">
+<div class="hotspots">
+	 	<a href="/women.html" class="top-promo-mobile-p1"></a>
+	 	<a href="/men.html" class="top-promo-mobile-p2"></a>
+	</div>
+</div>
+
+<div id="promo-terms-link" style="position: relative; top: -21px; text-align: right; margin-right: 10px;"><a style="color: #fff; font-size: 10px; font-family: montserratLight;" onclick="launchLightBoxElement('promo-terms-box'); return false;" href="#" rel="nofollow">TERMS</a></div>
+<div style="display:none;">
+<div id="promo-terms-box" class="details prana-lightboxContent">
+  <h2 style="text-align: center;">Terms &amp; Conditions</h2>
+  <div class="message" style="text-align: center; padding: 0px 50px;">
+    Free ground shipping is offered for all orders within the US. Please see our <a href="/life/customer-service/shipping-returns/">Shipping &amp; Returns</a> page for full details of all shipping information.
+  </div>
+</div>
+</div> 
+
+</div>  
+                         
+            
             <div class="grid-full">
 
                 <div class="header-main v-grid-container">
       
 
             
-<div id="prana-optionalMessaging" class="v-grid"><a onclick="launchLightBoxElement('shippingPromoElement');return false;" href="#">FREE SHIPPING ON ORDERS OVER $99</a>
-<br>
-<span style="color:#666" ;="">CUSTOMER SERVICE 1.866.915.6457</span>
+<div id="prana-optionalMessaging" class="v-grid"><style>
+#prana-optionalMessaging a {
+font-family:montserrat;
+color: #BE1E26;
+}
+@media (max-width: 480px) {
+.cs-contact {
+position: relative;
+top: -20px;
+}
+}
+</style>
 
-<div id="shippingPromoElement" class="hide">
-<div id="prana-shippingPromo" class="our-promise-popup">
-<h4>Free Ground Shipping on orders over $99</h4>
-<p>Receive FREE Ground Shipping on orders over $99. Please choose the FREE Ground Shipping option at checkout, or call 1-866-915-6457 to receive this special offer by phone. This offer is valid for U.S. shipping addresses only, and is not valid for influencer/pro purchases.</p>
+<a onclick="launchLightBoxElement('free-shipping-terms-box'); return false;">
+<div class="hide-below-768"><span style="text-decoration: underline;">FREE SHIPPING</span> ON ALL ORDERS</div>
+</a>
 
-<img src="/skin/frontend/enterprise/prana/images/footer-symbol.png" alt="prAna"></div>
+<span class="cs-contact" style="color:#666; font-family:montserrat;">CUSTOMER SERVICE 1 (866) 915-6457</span>
+
+<div style="display:none;">
+<div id="free-shipping-terms-box" class="details prana-lightboxContent" style="max-width:600px;">
+  <h2 style="text-align: center;">Terms &amp; Conditions</h2>
+  <div class="message" style="text-align: center; padding: 0px 50px;">
+    Free ground shipping is offered for all orders within the US. Free shipping does not apply to our Influencer/Pro customers or those receiving discounted pricing outside of a promotional period. Please see our <a href="/life/customer-service/shipping-returns/">Shipping &amp; Returns</a> page for full details of all shipping information.
+  </div>
 </div>
+</div>
+
 </div>
 
                     <div class="logo-wrapper v-grid"> <div itemscope="" itemtype="http://schema.org/Organization">                                             <a href="http://www.prana.com/" title="prAna: Sustainable Clothing" class="logo"><strong>prAna: Sustainable Clothing</strong><img itemprop="logo" src="https://www.prana.com/skin/frontend/ultimo/prana/images/logo-prana.jpg" alt="prAna: Sustainable Clothing"></a>
@@ -157,7 +216,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <div id="prana-absoluteHeader-searchBox" class="form-search">
         <input type="hidden" name="origin" value="store" style="display:none;">
 	<input type="Image" src="https://www.prana.com/skin/frontend/ultimo/prana/images/btn-searchSubmit.gif" width="18" height="17" id="search-submit">
-	<input type="Text" value="" name="q" id="search" placeholder="Search" class="search-input">
+	<input type="Text" value="" name="q" id="search" placeholder="Search Products" class="search-input">
     <div id="search_autocomplete" class="search-autocomplete"></div>
     <script type="text/javascript">
         //var searchForm = new Varien.searchForm('search_mini_form', 'search', 'Search');
@@ -254,13 +313,12 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                 <span class="mobnav-menu">Menu</span>
             </a>
         </div>
-
-        <ul class="accordion vertnav vertnav-top grid-full">
+                <ul class="accordion vertnav vertnav-top grid-full">
               <li class="level0 level-top first topsearch"><span><form id="search_mini_form" class="search-form" action="https://www.prana.com/catalogsearch/result/" method="get">
 <div id="prana-absoluteHeader-searchBox" class="form-search">
         <input type="hidden" name="origin" value="store" style="display:none;">
 	<input type="Image" src="https://www.prana.com/skin/frontend/ultimo/prana/images/btn-searchSubmit.gif" width="18" height="17" id="search-submit">
-	<input type="Text" value="" name="q" id="search" placeholder="Search" class="search-input">
+	<input type="Text" value="" name="q" id="search" placeholder="Search Products" class="search-input">
     <div id="search_autocomplete" class="search-autocomplete"></div>
     <script type="text/javascript">
         //var searchForm = new Varien.searchForm('search_mini_form', 'search', 'Search');
@@ -299,49 +357,45 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 </a>
 </li><li class="level2 nav-1-1-4">
 <a href="http://www.prana.com/women/clothing/jackets-vests.html">
-<span class="">Jackets</span>
+<span class="">Jackets &amp; Vests</span>
 </a>
 </li><li class="level2 nav-1-1-5">
 <a href="http://www.prana.com/women/clothing/dresses-skirts.html">
 <span class="">Dresses &amp; Skirts</span>
 </a>
 </li><li class="level2 nav-1-1-6">
-<a href="http://www.prana.com/women/clothing/swim.html">
-<span class="">Swim</span>
-</a>
-</li><li class="level2 nav-1-1-7">
-<a href="http://www.prana.com/women/clothing/shorts.html">
-<span class="">Shorts</span>
-</a>
-</li><li class="level2 nav-1-1-8">
 <a href="http://www.prana.com/women/clothing/pants.html">
 <span class="">Pants</span>
 </a>
-</li><li class="level2 nav-1-1-9">
+</li><li class="level2 nav-1-1-7">
+<a href="http://www.prana.com/women/clothing/swim.html">
+<span class="">Swim</span>
+</a>
+</li><li class="level2 nav-1-1-8">
 <a href="http://www.prana.com/women/clothing/yoga-pants.html">
 <span class="">Yoga Pants</span>
 </a>
-</li><li class="level2 nav-1-1-10">
+</li><li class="level2 nav-1-1-9">
 <a href="http://www.prana.com/women/clothing/capris-knickers.html">
 <span class="">Capris &amp; Knickers</span>
 </a>
-</li><li class="level2 nav-1-1-11">
+</li><li class="level2 nav-1-1-10">
 <a href="http://www.prana.com/women/clothing/yoga-mats-accessories.html">
 <span class="">Yoga Mats &amp; Accessories</span>
 </a>
-</li><li class="level2 nav-1-1-12">
+</li><li class="level2 nav-1-1-11">
 <a href="http://www.prana.com/women/clothing/hats-scarves.html">
 <span class="">Hats, Scarves, Headbands</span>
 </a>
-</li><li class="level2 nav-1-1-13">
+</li><li class="level2 nav-1-1-12">
 <a href="http://www.prana.com/women/clothing/bags-belts.html">
 <span class="">Bags &amp; Belts</span>
 </a>
-</li><li class="level2 nav-1-1-14">
+</li><li class="level2 nav-1-1-13">
 <a href="http://www.prana.com/women/clothing/rock-climbing-accessories.html">
 <span class="">Climbing Accessories</span>
 </a>
-</li><li class="level2 nav-1-1-15 last">
+</li><li class="level2 nav-1-1-14 last">
 <a href="http://www.prana.com/women/clothing/gift-card.html">
 <span class="">Gift Card</span>
 </a>
@@ -353,45 +407,49 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <span class="opener">&nbsp;</span>
 
 <ul class="level1">
-<li class="level2 nav-1-2-16 first">
-<a href="http://www.prana.com/women/featured/favorite-looks-for-the-season.html">
-<span class="">Favorite Looks Of The Season</span>
+<li class="level2 nav-1-2-15 first">
+<a href="http://www.prana.com/women/featured/holiday-gift-guide-for-women-2015.html">
+<span class="">Holiday Gift Guide 2015</span>
+</a>
+</li><li class="level2 nav-1-2-16">
+<a href="http://www.prana.com/women/featured/womens-outdoor-outreach-1.html">
+<span class="">SEVA Outdoor Outreach</span>
 </a>
 </li><li class="level2 nav-1-2-17">
-<a href="http://www.prana.com/women/featured/spring-active-outfits.html">
-<span class="">Spring Active Outfits</span>
+<a href="http://www.prana.com/women/featured/outerwear-guide-for-women.html">
+<span class="">Outerwear Guide</span>
 </a>
 </li><li class="level2 nav-1-2-18">
-<a href="http://www.prana.com/women/featured/spring-lifestyle-outfits.html">
-<span class="">Spring Lifestyle Outfits</span>
+<a href="http://www.prana.com/women/featured/women-pants-finder.html">
+<span class="">Pants Fit Guide</span>
 </a>
 </li><li class="level2 nav-1-2-19">
-<a href="http://www.prana.com/women/featured/fabric-collections-style-guide.html">
-<span class="">Fabric Collections Style Guide</span>
+<a href="http://www.prana.com/women/featured/favorite-looks-for-the-season.html">
+<span class="">Online Catalog</span>
 </a>
 </li><li class="level2 nav-1-2-20">
-<a href="http://www.prana.com/women/featured/yoga-favorites.html">
-<span class="">Yoga Favorites</span>
+<a href="http://www.prana.com/women/featured/lookbooks-for-women.html">
+<span class="">Lookbooks</span>
 </a>
 </li><li class="level2 nav-1-2-21">
-<a href="http://www.prana.com/women/featured/climbing-collection.html">
-<span class="">Climbing Favorites</span>
+<a href="http://www.prana.com/women/featured/womens-burnout-tees.html">
+<span class="">Burnout Tees</span>
 </a>
 </li><li class="level2 nav-1-2-22">
-<a href="http://www.prana.com/women/featured/yoga-pant-fit-guide.html">
-<span class="">Yoga Pant Fit Guide</span>
+<a href="http://www.prana.com/women/featured/womens-layers.html">
+<span class="">Lightweight Layering</span>
 </a>
 </li><li class="level2 nav-1-2-23">
-<a href="http://www.prana.com/women/featured/travel-essentials.html">
-<span class="">Travel Essentials</span>
+<a href="http://www.prana.com/women/featured/yoga-pants-fit-guide.html">
+<span class="">Yoga Pants Fit Guide</span>
 </a>
 </li><li class="level2 nav-1-2-24">
-<a href="http://www.prana.com/women/featured/swim-preview.html">
-<span class="">Swim Preview</span>
+<a href="http://www.prana.com/women/featured/stretch-zion-family.html">
+<span class="">The Stretch Zion Family</span>
 </a>
 </li><li class="level2 nav-1-2-25 last">
-<a href="http://www.prana.com/women/featured/favorite-spring-dresses.html">
-<span class="">Favorite Spring Dresses</span>
+<a href="http://www.prana.com/women/featured/yoga-favorites.html">
+<span class="">Yoga Favorites</span>
 </a>
 </li>
 </ul>
@@ -402,68 +460,84 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 <ul class="level1">
 <li class="level2 nav-1-3-26 first">
+<a href="http://www.prana.com/women/collections/climbing-collection.html">
+<span class="">Climbing Gear</span>
+</a>
+</li><li class="level2 nav-1-3-27">
+<a href="http://www.prana.com/women/collections/travel-essentials.html">
+<span class="">Travel Essentials</span>
+</a>
+</li><li class="level2 nav-1-3-28">
 <a href="http://www.prana.com/women/collections/organic-cotton.html">
 <span class="">Organic Cotton</span>
 </a>
-</li><li class="level2 nav-1-3-27">
+</li><li class="level2 nav-1-3-29">
 <a href="http://www.prana.com/women/collections/bluesign.html">
 <span class="">bluesign®</span>
 </a>
-</li><li class="level2 nav-1-3-28">
+</li><li class="level2 nav-1-3-30">
 <a href="http://www.prana.com/women/collections/fair-trade.html">
 <span class="">Fair Trade</span>
 </a>
-</li><li class="level2 nav-1-3-29">
+</li><li class="level2 nav-1-3-31">
 <a href="http://www.prana.com/women/collections/jacquard.html">
 <span class="">Jacquard</span>
 </a>
-</li><li class="level2 nav-1-3-30">
+</li><li class="level2 nav-1-3-32">
 <a href="http://www.prana.com/women/collections/chakara.html">
 <span class="">Chakara®</span>
 </a>
-</li><li class="level2 nav-1-3-31">
+</li><li class="level2 nav-1-3-33">
 <a href="http://www.prana.com/women/collections/madera.html">
 <span class="">Madera Collection</span>
 </a>
-</li><li class="level2 nav-1-3-32">
+</li><li class="level2 nav-1-3-34">
 <a href="http://www.prana.com/women/collections/veeda.html">
 <span class="">Veeda™</span>
 </a>
-</li><li class="level2 nav-1-3-33 last">
-<a href="http://www.prana.com/women/collections/micropoly.html">
-<span class="">Micropoly</span>
+</li><li class="level2 nav-1-3-35">
+<a href="http://www.prana.com/women/collections/activewear.html">
+<span class="">Activewear</span>
+</a>
+</li><li class="level2 nav-1-3-36 last">
+<a href="http://www.prana.com/women/collections/wool.html">
+<span class="">Recycled Wool</span>
 </a>
 </li>
 </ul>
 
 </li><li class="level1 nav-1-4 last parent">
 <a href="http://www.prana.com/women/outlet.html">
-<span class="">Sale</span>
+<span class="">SALE</span>
 </a>
 <span class="opener">&nbsp;</span>
 
 <ul class="level1">
-<li class="level2 nav-1-4-34 first">
+<li class="level2 nav-1-4-37 first">
 <a href="http://www.prana.com/women/outlet/tops.html">
 <span class="">Tops</span>
 </a>
-</li><li class="level2 nav-1-4-35">
+</li><li class="level2 nav-1-4-38">
 <a href="http://www.prana.com/women/outlet/dresses.html">
 <span class="">Dresses &amp; Skirts</span>
 </a>
-</li><li class="level2 nav-1-4-36">
+</li><li class="level2 nav-1-4-39">
 <a href="http://www.prana.com/women/outlet/bottoms.html">
 <span class="">Bottoms</span>
 </a>
-</li><li class="level2 nav-1-4-37">
+</li><li class="level2 nav-1-4-40">
 <a href="http://www.prana.com/women/outlet/accessories.html">
 <span class="">Accessories</span>
 </a>
-</li><li class="level2 nav-1-4-38">
+</li><li class="level2 nav-1-4-41">
 <a href="http://www.prana.com/women/outlet/yoga.html">
 <span class="">Yoga</span>
 </a>
-</li><li class="level2 nav-1-4-39 last">
+</li><li class="level2 nav-1-4-42">
+<a href="http://www.prana.com/women/outlet/swim.html">
+<span class="">Swim</span>
+</a>
+</li><li class="level2 nav-1-4-43 last">
 <a href="http://www.prana.com/women/outlet/outerwear.html">
 <span class="">Outerwear</span>
 </a>
@@ -498,20 +572,20 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <span class="">Performance Shirts</span>
 </a>
 </li><li class="level2 nav-2-1-4">
-<a href="http://www.prana.com/men/clothing/jackets.html">
-<span class="">Jackets &amp; Hoodies</span>
+<a href="http://www.prana.com/men/clothing/mens-sweaters.html">
+<span class="">Sweaters &amp; Hoodies</span>
 </a>
 </li><li class="level2 nav-2-1-5">
+<a href="http://www.prana.com/men/clothing/jackets.html">
+<span class="">Jackets &amp; Vests</span>
+</a>
+</li><li class="level2 nav-2-1-6">
 <a href="http://www.prana.com/men/clothing/pants.html">
 <span class="">Pants</span>
 </a>
-</li><li class="level2 nav-2-1-6">
+</li><li class="level2 nav-2-1-7">
 <a href="http://www.prana.com/men/clothing/shorts.html">
 <span class="">Shorts</span>
-</a>
-</li><li class="level2 nav-2-1-7">
-<a href="http://www.prana.com/men/clothing/swim.html">
-<span class="">Swim</span>
 </a>
 </li><li class="level2 nav-2-1-8">
 <a href="http://www.prana.com/men/clothing/yoga-mats-accessories.html">
@@ -538,24 +612,36 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 <ul class="level1">
 <li class="level2 nav-2-2-12 first">
-<a href="http://www.prana.com/men/featured/favorite-looks-for-the-season.html">
-<span class="">Favorite Looks Of The Season</span>
+<a href="http://www.prana.com/men/featured/holiday-gift-guide-for-men-2015.html">
+<span class="">Holiday Gift Guide 2015</span>
 </a>
 </li><li class="level2 nav-2-2-13">
-<a href="http://www.prana.com/men/featured/yoga-favorites.html">
-<span class="">Yoga Favorites</span>
+<a href="http://www.prana.com/men/featured/mens-outdoor-outreach-1.html">
+<span class="">SEVA Outdoor Outreach</span>
 </a>
 </li><li class="level2 nav-2-2-14">
-<a href="http://www.prana.com/men/featured/climbing-favorites.html">
-<span class="">Climbing Favorites</span>
+<a href="http://www.prana.com/men/featured/outerwear-guide-for-men.html">
+<span class="">Outerwear Guide</span>
 </a>
 </li><li class="level2 nav-2-2-15">
-<a href="http://www.prana.com/men/featured/pants-fit-guide.html">
+<a href="http://www.prana.com/men/featured/men-pants-finder.html">
 <span class="">Pants Fit Guide</span>
 </a>
-</li><li class="level2 nav-2-2-16 last">
-<a href="http://www.prana.com/men/featured/travel-essentials.html">
-<span class="">Travel Essentials</span>
+</li><li class="level2 nav-2-2-16">
+<a href="http://www.prana.com/men/featured/stretch-zion-family.html">
+<span class="">The Stretch Zion Family</span>
+</a>
+</li><li class="level2 nav-2-2-17">
+<a href="http://www.prana.com/men/featured/favorite-looks-for-the-season.html">
+<span class="">Online Catalog</span>
+</a>
+</li><li class="level2 nav-2-2-18">
+<a href="http://www.prana.com/men/featured/weekend-getaway.html">
+<span class="">Weekend Getaway</span>
+</a>
+</li><li class="level2 nav-2-2-19 last">
+<a href="http://www.prana.com/men/featured/lookbooks-for-men.html">
+<span class="">Lookbooks</span>
 </a>
 </li>
 </ul>
@@ -565,49 +651,73 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <span class="opener">&nbsp;</span>
 
 <ul class="level1">
-<li class="level2 nav-2-3-17 first">
-<a href="http://www.prana.com/men/collections/organic-cotton.html">
-<span class="">Organic Cotton</span>
+<li class="level2 nav-2-3-20 first">
+<a href="http://www.prana.com/men/collections/climbing-favorites.html">
+<span class="">Climbing Gear</span>
 </a>
-</li><li class="level2 nav-2-3-18">
+</li><li class="level2 nav-2-3-21">
+<a href="http://www.prana.com/men/collections/travel-essentials.html">
+<span class="">Travel Essentials</span>
+</a>
+</li><li class="level2 nav-2-3-22">
+<a href="http://www.prana.com/men/collections/yoga-favorites.html">
+<span class="">Yoga Favorites</span>
+</a>
+</li><li class="level2 nav-2-3-23">
 <a href="http://www.prana.com/men/collections/stretch-zion.html">
 <span class="">Stretch Zion</span>
 </a>
-</li><li class="level2 nav-2-3-19">
+</li><li class="level2 nav-2-3-24">
+<a href="http://www.prana.com/men/collections/organic-cotton.html">
+<span class="">Organic Cotton</span>
+</a>
+</li><li class="level2 nav-2-3-25">
 <a href="http://www.prana.com/men/collections/hemp.html">
 <span class="">Hemp</span>
 </a>
-</li><li class="level2 nav-2-3-20 last">
+</li><li class="level2 nav-2-3-26">
 <a href="http://www.prana.com/men/collections/fair-trade.html">
 <span class="">Fair Trade</span>
+</a>
+</li><li class="level2 nav-2-3-27">
+<a href="http://www.prana.com/men/collections/activewear.html">
+<span class="">Activewear</span>
+</a>
+</li><li class="level2 nav-2-3-28 last">
+<a href="http://www.prana.com/men/collections/wool.html">
+<span class="">Recycled Wool</span>
 </a>
 </li>
 </ul>
 
 </li><li class="level1 nav-2-4 last parent">
 <a href="http://www.prana.com/men/outlet.html">
-<span class="">Sale</span>
+<span class="">SALE</span>
 </a>
 <span class="opener">&nbsp;</span>
 
 <ul class="level1">
-<li class="level2 nav-2-4-21 first">
+<li class="level2 nav-2-4-29 first">
 <a href="http://www.prana.com/men/outlet/tops.html">
 <span class="">Tops</span>
 </a>
-</li><li class="level2 nav-2-4-22">
+</li><li class="level2 nav-2-4-30">
 <a href="http://www.prana.com/men/outlet/bottoms.html">
 <span class="">Bottoms</span>
 </a>
-</li><li class="level2 nav-2-4-23">
+</li><li class="level2 nav-2-4-31">
 <a href="http://www.prana.com/men/outlet/accessories.html">
 <span class="">Accessories</span>
 </a>
-</li><li class="level2 nav-2-4-24">
+</li><li class="level2 nav-2-4-32">
 <a href="http://www.prana.com/men/outlet/yoga.html">
 <span class="">Yoga</span>
 </a>
-</li><li class="level2 nav-2-4-25 last">
+</li><li class="level2 nav-2-4-33">
+<a href="http://www.prana.com/men/outlet/swim.html">
+<span class="">Swim</span>
+</a>
+</li><li class="level2 nav-2-4-34 last">
 <a href="http://www.prana.com/men/outlet/outerwear.html">
 <span class="">Outerwear</span>
 </a>
@@ -618,56 +728,121 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 </ul>
 
 </li>                        
-                        <li class="level0 nav-3 level-top last parent"><a href="http://www.prana.com/life" class="level-top"><span class="">Life</span></a>
+                        <li class="level0 nav-3 level-top last parent"><a href="/life" class="level-top"><span id="stories-menu-title" class="">{Stories}</span></a>
+<!--
 <span class="opener">&nbsp;</span>
 
 <ul class="level0">
 
 <div class="separate-links">
-<li><a href="http://www.prana.com//life/tag/doing-the-right-thing/"><span>Doing the Right Thing</span></a></li>
-<li><a href="http://www.prana.com//life/tag/good-for-the-earth/"><span>Good for the Earth</span></a></li>
-<li><a href="http://www.prana.com//life/tag/in-the-moment/"><span>In the Moment</span></a></li>
-<li><a href="http://www.prana.com//life/tag/rejuvenate/"><span>Rejuvenate</span></a></li>
-<li><a href="http://www.prana.com//life/tag/inspiration/"><span>Inspiration</span></a></li>
-<li><a href="http://www.prana.com//life/tag/climbing/"><span>Climbing</span></a></li>
-<li><a href="http://www.prana.com//life/tag/yoga/"><span>Yoga</span></a></li>
+<li><a href="http://www.prana.com/life/tag/doing-the-right-thing/"><span>Doing the Right Thing</span></a></li>
+<li><a href="http://www.prana.com/life/tag/good-for-the-earth/"><span>Good for the Earth</span></a></li>
+<li><a href="http://www.prana.com/life/tag/in-the-moment/"><span>In the Moment</span></a></li>
+<li><a href="http://www.prana.com/life/tag/rejuvenate/"><span>Rejuvenate</span></a></li>
+<li><a href="http://www.prana.com/life/tag/inspiration/"><span>Inspiration</span></a></li>
+<li><a href="http://www.prana.com/life/tag/climbing/"><span>Climbing</span></a></li>
+<li><a href="http://www.prana.com/life/tag/yoga/"><span>Yoga</span></a></li>
 </div>
 
 <li class="level1 nav-2-1 first parent">
-<a href="http://www.prana.com//life/ambassadors/"><span>Athletes, Artists &amp; Activists</span></a>
+<a href="/life/ambassadors/"><span>Ambassadors</span></a>
 <span class="opener">&nbsp;</span>
 <ul class="level1">
-<li class="level2 nav-2-1-1 first"><a href="http://www.prana.com//life/ambassadors/chris-sharma/"><span>Chris Sharma</span></a></li>
-<li class="level2 nav-5-1-2"><a href="http://www.prana.com//life/ambassadors/steph-davis/"><span>Steph Davis</span></a></li>
-<li class="level2 nav-5-1-3"><a href="http://www.prana.com//life/ambassadors/paul-robinson/"><span>Paul Robinson</span></a></li>
-<li class="level2 nav-5-1-4"><a href="http://www.prana.com//life/ambassadors/shiva-rea/"><span>Shiva Rea</span></a></li>
-<li class="level2 nav-5-1-5"><a href="http://www.prana.com//life/ambassadors/talia-decoite/"><span>Talia Decoite</span></a></li>
-<li class="level2 nav-5-1-6"><a href="http://www.prana.com//life/ambassadors/melissa-strong/"><span>Melissa Strong</span></a></li>
-<li class="level2 nav-5-1-7"><a href="http://www.prana.com//life/ambassadors/amy-ippoliti/"><span>Amy Ippoliti</span></a></li>
-<li class="level2 nav-5-1-8"><a href="http://www.prana.com//life/ambassadors/chadd-konig/"><span>Chadd Konig</span></a></li>
-<li class="level2 nav-5-1-9"><a href="http://www.prana.com//life/ambassadors/daila-ojeda/"><span>Daila Ojeda</span></a></li>
-<li class="level2 nav-5-1-10"><a href="http://www.prana.com//life/ambassadors/jimmy-webb/"><span>Jimmy Webb</span></a></li>
-<li class="level2 nav-5-1-11"><a href="http://www.prana.com//life/ambassadors/yogaslackers/"><span>YogaSlackers</span></a></li>
-<li class="level2 nav-5-1-12"><a href="http://www.prana.com//life/ambassadors/carrie-cooper/"><span>Carrie Cooper</span></a></li>
-<li class="level2 nav-5-1-13"><a href="http://www.prana.com//life/ambassadors/olivia-hsu/"><span>Olivia Hsu</span></a></li>
+<li class="level2 nav-2-1-1 first"><a href="http://www.prana.com/life/ambassadors/rannveig-aamodt/">
+<span>Rannveig Aamodt</span></a></li>
+<li class="level2 nav-5-1-2"><a href="http://www.prana.com/life/ambassadors/nole-cossart/">
+<span>Nole Cossart</span></a></li>
+<li class="level2 nav-5-1-3"><a href="http://www.prana.com/life/ambassadors/steph-davis/">
+<span>Steph Davis</span>
+</a></li>
+<li class="level2 nav-5-1-4"><a href="http://www.prana.com/life/ambassadors/michael-fukumura/">
+<span>Michael Fukumura</span>
+</a></li>
+<li class="level2 nav-5-1-5"><a href="http://www.prana.com/life/ambassadors/amy-ippoliti/">
+<span>Amy Ippoliti</span>
+</a></li>
+<li class="level2 nav-5-1-6"><a href="http://www.prana.com/life/ambassadors/chadd-konig/">
+<span>Chadd Konig</span>
+</a></li>
+<li class="level2 nav-5-1-7"><a href="http://www.prana.com/life/ambassadors/kai-lightner/">
+<span>Kai Lightner</span>
+</a></li>
+<li class="level2 nav-5-1-8"><a href="http://www.prana.com/life/ambassadors/kelly-potts">
+<span>Kelly Potts</span>
+</a></li>
+<li class="level2 nav-5-1-9"><a href="http://www.prana.com/life/ambassadors/shiva-rea/">
+<span>Shiva Rea</span>
+</a></li>
+<li class="level2 nav-5-1-10"><a href="http://www.prana.com/life/ambassadors/paul-robinson/">
+<span>Paul Robinson</span>
+</a></li>
+<li class="level2 nav-5-1-11"><a href="http://www.prana.com/life/ambassadors/sage-rountree/">
+<span>Sage Rountree</span>
+</a></li>
+<li class="level2 nav-5-1-12"><a href="http://www.prana.com/life/ambassadors/chris-sharma/">
+<span>Chris Sharma</span>
+</a></li>
+
 </ul>
 </li>
 
 <li class="level1 nav-2-1 first parent">
-<a href="http://www.prana.com//life/ambassadors/"><span>Sustainability</span></a>
+<a href="/life/ambassadors/"><span>Sustainability</span></a>
 <span class="opener">&nbsp;</span>
 <ul class="level1">
 
-<li class="level2 nav-5-2-1 first"><a href="http://www.prana.com/life/sustainability/products/"><span>Materials to Make prAna Products</span></a></li>
-<li class="level2 nav-5-2-2"><a href="http://www.prana.com/life/sustainability/resources/"><span>Resources to Service the Business</span></a></li>
-<li class="level2 nav-5-2-3"><a href="http://www.prana.com/life/sustainability/people/"><span>People and Working Conditions</span></a></li>
-<li class="level2 nav-5-2-4 last"><a href="http://www.prana.com/life/natural-power-initiative/"><span>Natural Power Initiative</span></a></li>
+<li class="level2 nav-5-2-1 first"><a href="/life/sustainability/products/"><span>Materials to Make prAna Products</span></a></li>
+<li class="level2 nav-5-2-2"><a href="/life/sustainability/resources/"><span>Resources to Service the Business</span></a></li>
+<li class="level2 nav-5-2-3"><a href="/life/sustainability/people/"><span>People and Working Conditions</span></a></li>
+<li class="level2 nav-5-2-4 last"><a href="/life/natural-power-initiative/"><span>Natural Power Initiative</span></a></li>
 
 </ul>
 </li>
 
-</ul>
 
+<li class="level1 nav-3-1 first parent">
+<a href="http://www.prana.com/life/craftsman-series/">
+<span>Craftsman Series </span>
+</a>
+<span class="opener">&nbsp;</span>
+<ul class="level1">
+
+<li class="level2 nav-5-3-1 first"><a href="http://www.prana.com/life/craftsman-series/chris-burkard/">
+<span>Chris Burkard</span>
+</a></li>
+<li class="level2 nav-5-3-2"><a href="http://www.prana.com/life/craftsman-series/ben-christensen/">
+<span>Ben Christensen</span>
+</a></li>
+<li class="level2 nav-5-3-3"><a href="http://www.prana.com/life/craftsman-series/morgan-maassen/">
+<span>Morgan Maassen</span>
+</a></li>
+<li class="level2 nav-5-3-4 last"><a href="http://www.prana.com/life/craftsman-series/embry-rucker/">
+<span>Embry Rucker</span>
+</a></li>
+
+</ul>
+</li>
+
+<li class="level1 nav-4-1 first parent">
+<a href="#"><span>Vestige series</span></a>
+<span class="opener">&nbsp;</span>
+<ul class="level1">
+
+<li class="level2 nav-5-4-1 first"><a href="http://www.prana.com/life/morocco">
+<span>The Western Kingdom</span>
+</a></li>
+<li class="level2 nav-5-4-2"><a href="http://www.prana.com/life/nicaragua">
+<span>The Land of Poets</span>
+</a></li>
+<li class="level2 nav-5-4-2"><a href="http://www.prana.com/life/redwood-empire">
+<span>Redwood Empire</span>
+</a></li>
+</ul>
+</li>
+
+
+</ul>
+-->
 </li>
 
         </ul>
@@ -706,49 +881,45 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 </a>
 </li><li class="level2 nav-3-1-4">
 <a href="http://www.prana.com/women/clothing/jackets-vests.html">
-<span class="">Jackets</span>
+<span class="">Jackets &amp; Vests</span>
 </a>
 </li><li class="level2 nav-3-1-5">
 <a href="http://www.prana.com/women/clothing/dresses-skirts.html">
 <span class="">Dresses &amp; Skirts</span>
 </a>
 </li><li class="level2 nav-3-1-6">
-<a href="http://www.prana.com/women/clothing/swim.html">
-<span class="">Swim</span>
-</a>
-</li><li class="level2 nav-3-1-7">
-<a href="http://www.prana.com/women/clothing/shorts.html">
-<span class="">Shorts</span>
-</a>
-</li><li class="level2 nav-3-1-8">
 <a href="http://www.prana.com/women/clothing/pants.html">
 <span class="">Pants</span>
 </a>
-</li><li class="level2 nav-3-1-9">
+</li><li class="level2 nav-3-1-7">
+<a href="http://www.prana.com/women/clothing/swim.html">
+<span class="">Swim</span>
+</a>
+</li><li class="level2 nav-3-1-8">
 <a href="http://www.prana.com/women/clothing/yoga-pants.html">
 <span class="">Yoga Pants</span>
 </a>
-</li><li class="level2 nav-3-1-10">
+</li><li class="level2 nav-3-1-9">
 <a href="http://www.prana.com/women/clothing/capris-knickers.html">
 <span class="">Capris &amp; Knickers</span>
 </a>
-</li><li class="level2 nav-3-1-11">
+</li><li class="level2 nav-3-1-10">
 <a href="http://www.prana.com/women/clothing/yoga-mats-accessories.html">
 <span class="">Yoga Mats &amp; Accessories</span>
 </a>
-</li><li class="level2 nav-3-1-12">
+</li><li class="level2 nav-3-1-11">
 <a href="http://www.prana.com/women/clothing/hats-scarves.html">
 <span class="">Hats, Scarves, Headbands</span>
 </a>
-</li><li class="level2 nav-3-1-13">
+</li><li class="level2 nav-3-1-12">
 <a href="http://www.prana.com/women/clothing/bags-belts.html">
 <span class="">Bags &amp; Belts</span>
 </a>
-</li><li class="level2 nav-3-1-14">
+</li><li class="level2 nav-3-1-13">
 <a href="http://www.prana.com/women/clothing/rock-climbing-accessories.html">
 <span class="">Climbing Accessories</span>
 </a>
-</li><li class="level2 nav-3-1-15 last">
+</li><li class="level2 nav-3-1-14 last">
 <a href="http://www.prana.com/women/clothing/gift-card.html">
 <span class="">Gift Card</span>
 </a>
@@ -759,45 +930,49 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <span class="nolink">Featured</span>
 
 <ul class="level1">
-<li class="level2 nav-3-2-16 first">
-<a href="http://www.prana.com/women/featured/favorite-looks-for-the-season.html">
-<span class="">Favorite Looks Of The Season</span>
+<li class="level2 nav-3-2-15 first">
+<a href="http://www.prana.com/women/featured/holiday-gift-guide-for-women-2015.html">
+<span class="">Holiday Gift Guide 2015</span>
+</a>
+</li><li class="level2 nav-3-2-16">
+<a href="http://www.prana.com/women/featured/womens-outdoor-outreach-1.html">
+<span class="">SEVA Outdoor Outreach</span>
 </a>
 </li><li class="level2 nav-3-2-17">
-<a href="http://www.prana.com/women/featured/spring-active-outfits.html">
-<span class="">Spring Active Outfits</span>
+<a href="http://www.prana.com/women/featured/outerwear-guide-for-women.html">
+<span class="">Outerwear Guide</span>
 </a>
 </li><li class="level2 nav-3-2-18">
-<a href="http://www.prana.com/women/featured/spring-lifestyle-outfits.html">
-<span class="">Spring Lifestyle Outfits</span>
+<a href="http://www.prana.com/women/featured/women-pants-finder.html">
+<span class="">Pants Fit Guide</span>
 </a>
 </li><li class="level2 nav-3-2-19">
-<a href="http://www.prana.com/women/featured/fabric-collections-style-guide.html">
-<span class="">Fabric Collections Style Guide</span>
+<a href="http://www.prana.com/women/featured/favorite-looks-for-the-season.html">
+<span class="">Online Catalog</span>
 </a>
 </li><li class="level2 nav-3-2-20">
-<a href="http://www.prana.com/women/featured/yoga-favorites.html">
-<span class="">Yoga Favorites</span>
+<a href="http://www.prana.com/women/featured/lookbooks-for-women.html">
+<span class="">Lookbooks</span>
 </a>
 </li><li class="level2 nav-3-2-21">
-<a href="http://www.prana.com/women/featured/climbing-collection.html">
-<span class="">Climbing Favorites</span>
+<a href="http://www.prana.com/women/featured/womens-burnout-tees.html">
+<span class="">Burnout Tees</span>
 </a>
 </li><li class="level2 nav-3-2-22">
-<a href="http://www.prana.com/women/featured/yoga-pant-fit-guide.html">
-<span class="">Yoga Pant Fit Guide</span>
+<a href="http://www.prana.com/women/featured/womens-layers.html">
+<span class="">Lightweight Layering</span>
 </a>
 </li><li class="level2 nav-3-2-23">
-<a href="http://www.prana.com/women/featured/travel-essentials.html">
-<span class="">Travel Essentials</span>
+<a href="http://www.prana.com/women/featured/yoga-pants-fit-guide.html">
+<span class="">Yoga Pants Fit Guide</span>
 </a>
 </li><li class="level2 nav-3-2-24">
-<a href="http://www.prana.com/women/featured/swim-preview.html">
-<span class="">Swim Preview</span>
+<a href="http://www.prana.com/women/featured/stretch-zion-family.html">
+<span class="">The Stretch Zion Family</span>
 </a>
 </li><li class="level2 nav-3-2-25 last">
-<a href="http://www.prana.com/women/featured/favorite-spring-dresses.html">
-<span class="">Favorite Spring Dresses</span>
+<a href="http://www.prana.com/women/featured/yoga-favorites.html">
+<span class="">Yoga Favorites</span>
 </a>
 </li>
 </ul>
@@ -807,67 +982,83 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 <ul class="level1">
 <li class="level2 nav-3-3-26 first">
+<a href="http://www.prana.com/women/collections/climbing-collection.html">
+<span class="">Climbing Gear</span>
+</a>
+</li><li class="level2 nav-3-3-27">
+<a href="http://www.prana.com/women/collections/travel-essentials.html">
+<span class="">Travel Essentials</span>
+</a>
+</li><li class="level2 nav-3-3-28">
 <a href="http://www.prana.com/women/collections/organic-cotton.html">
 <span class="">Organic Cotton</span>
 </a>
-</li><li class="level2 nav-3-3-27">
+</li><li class="level2 nav-3-3-29">
 <a href="http://www.prana.com/women/collections/bluesign.html">
 <span class="">bluesign®</span>
 </a>
-</li><li class="level2 nav-3-3-28">
+</li><li class="level2 nav-3-3-30">
 <a href="http://www.prana.com/women/collections/fair-trade.html">
 <span class="">Fair Trade</span>
 </a>
-</li><li class="level2 nav-3-3-29">
+</li><li class="level2 nav-3-3-31">
 <a href="http://www.prana.com/women/collections/jacquard.html">
 <span class="">Jacquard</span>
 </a>
-</li><li class="level2 nav-3-3-30">
+</li><li class="level2 nav-3-3-32">
 <a href="http://www.prana.com/women/collections/chakara.html">
 <span class="">Chakara®</span>
 </a>
-</li><li class="level2 nav-3-3-31">
+</li><li class="level2 nav-3-3-33">
 <a href="http://www.prana.com/women/collections/madera.html">
 <span class="">Madera Collection</span>
 </a>
-</li><li class="level2 nav-3-3-32">
+</li><li class="level2 nav-3-3-34">
 <a href="http://www.prana.com/women/collections/veeda.html">
 <span class="">Veeda™</span>
 </a>
-</li><li class="level2 nav-3-3-33 last">
-<a href="http://www.prana.com/women/collections/micropoly.html">
-<span class="">Micropoly</span>
+</li><li class="level2 nav-3-3-35">
+<a href="http://www.prana.com/women/collections/activewear.html">
+<span class="">Activewear</span>
+</a>
+</li><li class="level2 nav-3-3-36 last">
+<a href="http://www.prana.com/women/collections/wool.html">
+<span class="">Recycled Wool</span>
 </a>
 </li>
 </ul>
 
 </li><li class="level1 nav-3-4 last parent item">
 <a href="http://www.prana.com/women/outlet.html">
-<span class="">Sale</span>
+<span class="">SALE</span>
 </a>
 
 <ul class="level1">
-<li class="level2 nav-3-4-34 first">
+<li class="level2 nav-3-4-37 first">
 <a href="http://www.prana.com/women/outlet/tops.html">
 <span class="">Tops</span>
 </a>
-</li><li class="level2 nav-3-4-35">
+</li><li class="level2 nav-3-4-38">
 <a href="http://www.prana.com/women/outlet/dresses.html">
 <span class="">Dresses &amp; Skirts</span>
 </a>
-</li><li class="level2 nav-3-4-36">
+</li><li class="level2 nav-3-4-39">
 <a href="http://www.prana.com/women/outlet/bottoms.html">
 <span class="">Bottoms</span>
 </a>
-</li><li class="level2 nav-3-4-37">
+</li><li class="level2 nav-3-4-40">
 <a href="http://www.prana.com/women/outlet/accessories.html">
 <span class="">Accessories</span>
 </a>
-</li><li class="level2 nav-3-4-38">
+</li><li class="level2 nav-3-4-41">
 <a href="http://www.prana.com/women/outlet/yoga.html">
 <span class="">Yoga</span>
 </a>
-</li><li class="level2 nav-3-4-39 last">
+</li><li class="level2 nav-3-4-42">
+<a href="http://www.prana.com/women/outlet/swim.html">
+<span class="">Swim</span>
+</a>
+</li><li class="level2 nav-3-4-43 last">
 <a href="http://www.prana.com/women/outlet/outerwear.html">
 <span class="">Outerwear</span>
 </a>
@@ -902,20 +1093,20 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <span class="">Performance Shirts</span>
 </a>
 </li><li class="level2 nav-4-1-4">
-<a href="http://www.prana.com/men/clothing/jackets.html">
-<span class="">Jackets &amp; Hoodies</span>
+<a href="http://www.prana.com/men/clothing/mens-sweaters.html">
+<span class="">Sweaters &amp; Hoodies</span>
 </a>
 </li><li class="level2 nav-4-1-5">
+<a href="http://www.prana.com/men/clothing/jackets.html">
+<span class="">Jackets &amp; Vests</span>
+</a>
+</li><li class="level2 nav-4-1-6">
 <a href="http://www.prana.com/men/clothing/pants.html">
 <span class="">Pants</span>
 </a>
-</li><li class="level2 nav-4-1-6">
+</li><li class="level2 nav-4-1-7">
 <a href="http://www.prana.com/men/clothing/shorts.html">
 <span class="">Shorts</span>
-</a>
-</li><li class="level2 nav-4-1-7">
-<a href="http://www.prana.com/men/clothing/swim.html">
-<span class="">Swim</span>
 </a>
 </li><li class="level2 nav-4-1-8">
 <a href="http://www.prana.com/men/clothing/yoga-mats-accessories.html">
@@ -941,24 +1132,36 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 <ul class="level1">
 <li class="level2 nav-4-2-12 first">
-<a href="http://www.prana.com/men/featured/favorite-looks-for-the-season.html">
-<span class="">Favorite Looks Of The Season</span>
+<a href="http://www.prana.com/men/featured/holiday-gift-guide-for-men-2015.html">
+<span class="">Holiday Gift Guide 2015</span>
 </a>
 </li><li class="level2 nav-4-2-13">
-<a href="http://www.prana.com/men/featured/yoga-favorites.html">
-<span class="">Yoga Favorites</span>
+<a href="http://www.prana.com/men/featured/mens-outdoor-outreach-1.html">
+<span class="">SEVA Outdoor Outreach</span>
 </a>
 </li><li class="level2 nav-4-2-14">
-<a href="http://www.prana.com/men/featured/climbing-favorites.html">
-<span class="">Climbing Favorites</span>
+<a href="http://www.prana.com/men/featured/outerwear-guide-for-men.html">
+<span class="">Outerwear Guide</span>
 </a>
 </li><li class="level2 nav-4-2-15">
-<a href="http://www.prana.com/men/featured/pants-fit-guide.html">
+<a href="http://www.prana.com/men/featured/men-pants-finder.html">
 <span class="">Pants Fit Guide</span>
 </a>
-</li><li class="level2 nav-4-2-16 last">
-<a href="http://www.prana.com/men/featured/travel-essentials.html">
-<span class="">Travel Essentials</span>
+</li><li class="level2 nav-4-2-16">
+<a href="http://www.prana.com/men/featured/stretch-zion-family.html">
+<span class="">The Stretch Zion Family</span>
+</a>
+</li><li class="level2 nav-4-2-17">
+<a href="http://www.prana.com/men/featured/favorite-looks-for-the-season.html">
+<span class="">Online Catalog</span>
+</a>
+</li><li class="level2 nav-4-2-18">
+<a href="http://www.prana.com/men/featured/weekend-getaway.html">
+<span class="">Weekend Getaway</span>
+</a>
+</li><li class="level2 nav-4-2-19 last">
+<a href="http://www.prana.com/men/featured/lookbooks-for-men.html">
+<span class="">Lookbooks</span>
 </a>
 </li>
 </ul>
@@ -967,48 +1170,72 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <span class="nolink">Collections</span>
 
 <ul class="level1">
-<li class="level2 nav-4-3-17 first">
-<a href="http://www.prana.com/men/collections/organic-cotton.html">
-<span class="">Organic Cotton</span>
+<li class="level2 nav-4-3-20 first">
+<a href="http://www.prana.com/men/collections/climbing-favorites.html">
+<span class="">Climbing Gear</span>
 </a>
-</li><li class="level2 nav-4-3-18">
+</li><li class="level2 nav-4-3-21">
+<a href="http://www.prana.com/men/collections/travel-essentials.html">
+<span class="">Travel Essentials</span>
+</a>
+</li><li class="level2 nav-4-3-22">
+<a href="http://www.prana.com/men/collections/yoga-favorites.html">
+<span class="">Yoga Favorites</span>
+</a>
+</li><li class="level2 nav-4-3-23">
 <a href="http://www.prana.com/men/collections/stretch-zion.html">
 <span class="">Stretch Zion</span>
 </a>
-</li><li class="level2 nav-4-3-19">
+</li><li class="level2 nav-4-3-24">
+<a href="http://www.prana.com/men/collections/organic-cotton.html">
+<span class="">Organic Cotton</span>
+</a>
+</li><li class="level2 nav-4-3-25">
 <a href="http://www.prana.com/men/collections/hemp.html">
 <span class="">Hemp</span>
 </a>
-</li><li class="level2 nav-4-3-20 last">
+</li><li class="level2 nav-4-3-26">
 <a href="http://www.prana.com/men/collections/fair-trade.html">
 <span class="">Fair Trade</span>
+</a>
+</li><li class="level2 nav-4-3-27">
+<a href="http://www.prana.com/men/collections/activewear.html">
+<span class="">Activewear</span>
+</a>
+</li><li class="level2 nav-4-3-28 last">
+<a href="http://www.prana.com/men/collections/wool.html">
+<span class="">Recycled Wool</span>
 </a>
 </li>
 </ul>
 
 </li><li class="level1 nav-4-4 last parent item">
 <a href="http://www.prana.com/men/outlet.html">
-<span class="">Sale</span>
+<span class="">SALE</span>
 </a>
 
 <ul class="level1">
-<li class="level2 nav-4-4-21 first">
+<li class="level2 nav-4-4-29 first">
 <a href="http://www.prana.com/men/outlet/tops.html">
 <span class="">Tops</span>
 </a>
-</li><li class="level2 nav-4-4-22">
+</li><li class="level2 nav-4-4-30">
 <a href="http://www.prana.com/men/outlet/bottoms.html">
 <span class="">Bottoms</span>
 </a>
-</li><li class="level2 nav-4-4-23">
+</li><li class="level2 nav-4-4-31">
 <a href="http://www.prana.com/men/outlet/accessories.html">
 <span class="">Accessories</span>
 </a>
-</li><li class="level2 nav-4-4-24">
+</li><li class="level2 nav-4-4-32">
 <a href="http://www.prana.com/men/outlet/yoga.html">
 <span class="">Yoga</span>
 </a>
-</li><li class="level2 nav-4-4-25 last">
+</li><li class="level2 nav-4-4-33">
+<a href="http://www.prana.com/men/outlet/swim.html">
+<span class="">Swim</span>
+</a>
+</li><li class="level2 nav-4-4-34 last">
 <a href="http://www.prana.com/men/outlet/outerwear.html">
 <span class="">Outerwear</span>
 </a>
@@ -1021,222 +1248,235 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 </div>
 </li>                    
                                     
-                        <li class="level0 nav-5 level-top parent">
-<a href="http://www.prana.com/life/" class="level-top">
-<span>LIFE</span><span class="opener">&nbsp;</span>
-</a>
-<div class="level0-wrapper dropdown-5col" style="display: none; left: 0px;">
-<div class="nav-block nav-block-center grid15-10 itemgrid itemgrid-4col">
-<ul class="level0">
-<li class="level1 nav-5-1  parent item" style="padding-right:0;">
-<div class="separate-links">
-<ul>
-<li>
-<a href="http://www.prana.com//life/tag/doing-the-right-thing/"><span>Doing the Right Thing</span></a>
-</li>
+                        <li class="level0 nav-4 level-top parent">
+    <a href="/life/" class="level-top">
+        <span id="stories-menu-title">{STORIES}</span><span class="opener">&nbsp;</span>
+    </a>
+<!--
+    <div class="level0-wrapper dropdown-3col" style="display: none; left: 0px;">
+        <div class="nav-block nav-block-center grid12-12 itemgrid itemgrid-3col">
+            <ul class="level0">
+                <li class="level1 nav-5-1  parent item">
+                    <div class="separate-links">
+                        <ul>
+                            <li>
+                                <a href="http://www.prana.com/life/tag/doing-the-right-thing/"><span>Doing the Right Thing</span></a>
+                            </li>
 
-<li>
-<a href="http://www.prana.com//life/tag/good-for-the-earth/"><span>Good for the Earth</span></a>
-</li>
+                            <li>
+                                <a href="http://www.prana.com/life/tag/good-for-the-earth/"><span>Good for the Earth</span></a>
+                            </li>
 
-<li>
-<a href="http://www.prana.com//life/tag/in-the-moment/"><span>In the Moment</span></a>
-</li>
+                            <li>
+                                <a href="http://www.prana.com/life/tag/in-the-moment/"><span>In the Moment</span></a>
+                            </li>
 
-<li>
-<a href="http://www.prana.com//life/tag/rejuvenate/"><span>Rejuvenate</span></a>
-</li>
+                            <li>
+                                <a href="http://www.prana.com/life/tag/rejuvenate/"><span>Rejuvenate</span></a>
+                            </li>
 
-<li>
-<a href="http://www.prana.com//life/tag/inspiration/"><span>Inspiration</span></a>
-</li>
+                            <li>
+                                <a href="http://www.prana.com/life/tag/inspiration/"><span>Inspiration</span></a>
+                            </li>
 
-<li>
-<a href="http://www.prana.com//life/tag/climbing/"><span>Climbing</span></a>
-</li>
+                            <li>
+                                <a href="http://www.prana.com/life/tag/climbing/"><span>Climbing</span></a>
+                            </li>
 
-<li>
-<a href="http://www.prana.com//life/tag/yoga/"><span>Yoga</span></a>
-</li>
-</ul>
+                            <li>
+                                <a href="http://www.prana.com/life/tag/yoga/"><span>Yoga</span></a>
+                            </li>
+                        </ul>
 
-</div>
-
-
-
-</li>
+                    </div>
 
 
 
-
-
-<li class="level1 nav-5-2 first parent item">
-<a href="http://www.prana.com//life/ambassadors/"><span>Ambassadors</span></a>
-
-
-
-<ul class="level1 left">
-
-
-<li class="level2 nav-5-1-1 first">
-<a href="http://www.prana.com//life/ambassadors/rannveig-aamodt/">
-<span>Rannveig Aamodt</span>
-</a>
-</li>
-
-
-<li class="level2 nav-5-1-2">
-<a href="http://www.prana.com//life/ambassadors/steph-davis/">
-<span>Nole Cossart</span>
-</a>
-</li>
-
-
-<li class="level2 nav-5-1-3">
-<a href="http://www.prana.com//life/ambassadors/steph-davis/">
-<span>Steph Davis</span>
-</a>
-</li>
-
-
-
-<li class="level2 nav-5-1-4">
-<a href="http://www.prana.com//life/ambassadors/michael-fukumura/">
-<span>Michael Fukumura</span>
-</a>
-</li>
-
-
-<li class="level2 nav-5-1-5">
-<a href="http://www.prana.com//life/ambassadors/amy-ippoliti/">
-<span>Amy Ippoliti</span>
-</a>
-</li>
-
-
-<li class="level2 nav-5-1-6">
-<a href="http://www.prana.com//life/ambassadors/chadd-konig/">
-<span>Chadd Konig</span>
-</a>
-</li>
-</ul>
+                </li>
 
 
 
 
-<ul class="level1" style="float:left; margin-left:2%;">
 
-
-<li class="level2 nav-5-1-14">
-<a href="http://www.prana.com//life/ambassadors/kai-lightner/">
-<span>Kai Lightner</span>
-</a>
-</li>
+                <li class="level1 nav-5-2 first parent item">
+                    <a href="http://www.prana.com/life/ambassadors/"><span>Ambassadors</span></a>
 
 
 
-<li class="level2 nav-5-1-15">
-<a href="http://www.prana.com//life/ambassadors/kelly-potts">
-<span>Kelly Potts</span>
-</a>
-</li>
+                    <ul class="level1 left">
 
 
-<li class="level2 nav-5-1-16">
-<a href="http://www.prana.com//life/ambassadors/shiva-rea/">
-<span>Shiva Rea</span>
-</a>
-</li>
+                        <li class="level2 nav-5-1-1 first">
+                            <a href="http://www.prana.com/life/ambassadors/rannveig-aamodt/">
+                                <span>Rannveig Aamodt</span>
+                            </a>
+                        </li>
 
 
-<li class="level2 nav-5-1-17">
-<a href="http://www.prana.com//life/ambassadors/paul-robinson/">
-<span>Paul Robinson</span>
-</a>
-</li>
+                        <li class="level2 nav-5-1-2">
+                            <a href="http://www.prana.com/life/ambassadors/nole-cossart/">
+                                <span>Nole Cossart</span>
+                            </a>
+                        </li>
 
 
-
-<li class="level2 nav-5-1-18">
-<a href="http://www.prana.com//life/ambassadors/sage-rountree/">
-<span>Sage Rountree</span>
-</a>
-</li>
-
-
-<li class="level2 nav-5-1-19">
-<a href="http://www.prana.com//life/ambassadors/chris-sharma/">
-<span>Chris Sharma</span>
-</a>
-</li>
-
-</ul>
-
-</li>
+                        <li class="level2 nav-5-1-3">
+                            <a href="http://www.prana.com/life/ambassadors/steph-davis/">
+                                <span>Steph Davis</span>
+                            </a>
+                        </li>
 
 
 
+                        <li class="level2 nav-5-1-4">
+                            <a href="http://www.prana.com/life/ambassadors/michael-fukumura/">
+                                <span>Michael Fukumura</span>
+                            </a>
+                        </li>
 
-<li class="level1 nav-5-3 parent item">
-<a href="http://www.prana.com//life/sustainability/"><span>Sustainability</span></a>
-<ul class="level1">
-<li class="level2 nav-5-2-24 first">
-<a href="http://www.prana.com//life/sustainability/products/">
-<span>Materials to Make prAna Products</span>
-</a>
-</li><li class="level2 nav-5-2-25">
-<a href="http://www.prana.com//life/sustainability/resources/">
-<span>Resources to Service the Business</span>
-</a>
-</li><li class="level2 nav-5-2-26">
-<a href="http://www.prana.com//life/sustainability/people/">
-<span>People and Working Conditions</span>
-</a>
-</li><li class="level2 nav-5-2-27 last">
-<a href="http://www.prana.com//life/natural-power-initiative/">
-<span>Natural Power Initiative</span>
-</a>
-</li>
-</ul>
 
-</li>
+                        <li class="level2 nav-5-1-5">
+                            <a href="http://www.prana.com/life/ambassadors/amy-ippoliti/">
+                                <span>Amy Ippoliti</span>
+                            </a>
+                        </li>
 
-<li class="level1 nav-5-4 parent item">
-<a href="http://www.prana.com//life/craftsman-series/">
-<span>Craftsman Series </span>
-</a>
-<ul class="level1">
-<li class="level2 nav-5-2-28 first">
-<a href="http://www.prana.com//life/craftsman-series/chris-burkard/">
-<span>Chris Burkard</span>
-</a>
-</li>
-<li class="level2 nav-5-2-29">
-<a href="http://www.prana.com//life/craftsman-series/ben-christensen/">
-<span>Ben Christensen</span>
-</a>
-</li>
-<li class="level2 nav-5-2-30">
-<a href="http://www.prana.com//life/craftsman-series/morgan-maassen/">
-<span>Morgan Maassen</span>
-</a>
-</li>
-<li class="level2 nav-5-2-31">
-<a href="http://www.prana.com//life/craftsman-series/embry-rucker/">
-<span>Embry Rucker</span>
-</a>
-</li>
-</ul>
 
-</li>
-</ul>
-</div>
-</div>
-</li>
-<style>
-.nav-4-4 > a > span {color:#c6631d;}
-.nav-3-4 > a > span {color:#c6631d;}
-</style>            
+                        <li class="level2 nav-5-1-6">
+                            <a href="http://www.prana.com/life/ambassadors/chadd-konig/">
+                                <span>Chadd Konig</span>
+                            </a>
+                        </li>
+
+                        <li class="level2 nav-5-1-14">
+                            <a href="http://www.prana.com/life/ambassadors/kai-lightner/">
+                                <span>Kai Lightner</span>
+                            </a>
+                        </li>
+
+
+
+                        <li class="level2 nav-5-1-15">
+                            <a href="http://www.prana.com/life/ambassadors/kelly-potts">
+                                <span>Kelly Potts</span>
+                            </a>
+                        </li>
+
+
+                        <li class="level2 nav-5-1-16">
+                            <a href="http://www.prana.com/life/ambassadors/shiva-rea/">
+                                <span>Shiva Rea</span>
+                            </a>
+                        </li>
+
+
+                        <li class="level2 nav-5-1-17">
+                            <a href="http://www.prana.com/life/ambassadors/paul-robinson/">
+                                <span>Paul Robinson</span>
+                            </a>
+                        </li>
+
+
+
+                        <li class="level2 nav-5-1-18">
+                            <a href="http://www.prana.com/life/ambassadors/sage-rountree/">
+                                <span>Sage Rountree</span>
+                            </a>
+                        </li>
+
+
+                        <li class="level2 nav-5-1-19">
+                            <a href="http://www.prana.com/life/ambassadors/chris-sharma/">
+                                <span>Chris Sharma</span>
+                            </a>
+                        </li>
+
+                    </ul>
+
+                </li>
+
+
+
+
+                <li class="level1 nav-5-3 parent item">
+                    <a href="http://www.prana.com/life/sustainability/"><span>Sustainability</span></a>
+                    <ul class="level1">
+                        <li class="level2 nav-5-2-24 first">
+                            <a href="http://www.prana.com/life/sustainability/products/">
+                                <span>Materials to Make prAna Products</span>
+                            </a>
+                        </li><li class="level2 nav-5-2-25">
+                            <a href="http://www.prana.com/life/sustainability/resources/">
+                                <span>Resources to Service the Business</span>
+                            </a>
+                        </li><li class="level2 nav-5-2-26">
+                            <a href="http://www.prana.com/life/sustainability/people/">
+                                <span>People and Working Conditions</span>
+                            </a>
+                        </li><li class="level2 nav-5-2-27 last">
+                            <a href="http://www.prana.com/life/natural-power-initiative/">
+                                <span>Natural Power Initiative</span>
+                            </a>
+                        </li>
+                    </ul>
+
+                </li>
+
+                <li class="level1 nav-5-4 parent item" style="border: none;">
+                    <a href="http://www.prana.com/life/craftsman-series/">
+                        <span>Craftsman Series </span>
+                    </a>
+                    <ul class="level1">
+                        <li class="level2 nav-5-2-28 first">
+                            <a href="http://www.prana.com/life/craftsman-series/chris-burkard/">
+                                <span>Chris Burkard</span>
+                            </a>
+                        </li>
+                        <li class="level2 nav-5-2-29">
+                            <a href="http://www.prana.com/life/craftsman-series/ben-christensen/">
+                                <span>Ben Christensen</span>
+                            </a>
+                        </li>
+                        <li class="level2 nav-5-2-30">
+                            <a href="http://www.prana.com/life/craftsman-series/morgan-maassen/">
+                                <span>Morgan Maassen</span>
+                            </a>
+                        </li>
+                        <li class="level2 nav-5-2-31">
+                            <a href="http://www.prana.com/life/craftsman-series/embry-rucker/">
+                                <span>Embry Rucker</span>
+                            </a>
+                        </li>
+                    </ul>
+                    <a href="http://www.prana.com/life/vestige-series/" style="margin-top: 40px;">
+                        <span>Vestige series</span>
+                    </a>
+                    <ul class="level1">
+                        <li class="level2 nav-5-2-32 first">
+                            <a href="http://www.prana.com/life/morocco">
+                                <span>The Western Kingdom</span>
+                            </a>
+                        </li>
+                        <li class="level2 nav-5-2-33">
+                            <a href="http://www.prana.com/life/nicaragua">
+                                <span>The Land of Poets</span>
+                            </a>
+                        </li>
+                        <li class="level2 nav-5-2-34">
+                            <a href="http://www.prana.com/life/redwood-empire">
+                                <span>Redwood Empire</span>
+                            </a>
+                        </li>
+
+                    </ul>
+
+                </li>
+
+            </ul>
+        </div>
+    </div>
+-->
+</li>            
         </ul>
 
     
@@ -1348,25 +1588,30 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 </div>
                 <div class="preface grid-full in-col1"></div>
                 <div class="col-main grid-full in-col1">
-                    <!--{GLOBAL_MESSAGES_aae3749ba9c2e308ffa9c240ac185959}--><!--/{GLOBAL_MESSAGES_aae3749ba9c2e308ffa9c240ac185959}-->                    <div class="std"><!--{MESSAGES_3f9737c153d854d9f0c5395ce4cdb394}--><!--/{MESSAGES_3f9737c153d854d9f0c5395ce4cdb394}--><div class="page-title">
-<h1>prAna Privacy Policy</h1>
+                    <!--{GLOBAL_MESSAGES_aae3749ba9c2e308ffa9c240ac185959}--><!--/{GLOBAL_MESSAGES_aae3749ba9c2e308ffa9c240ac185959}-->                    <div class="std"><!--{MESSAGES_3f9737c153d854d9f0c5395ce4cdb394}--><!--/{MESSAGES_3f9737c153d854d9f0c5395ce4cdb394}--><div class="blogDetails">
+<div class="std">
+<h3 class="page-title"><span style="font-size: 1.17em;">At prAna, we respect your privacy. We know it’s important to you and it’s important to us.</span></h3>
+<p>Effective: November 2, 2015<br> <br>This privacy policy ("Policy") explains how your personal information is collected, used, and disclosed by prAna Living, LLC (“prAna” or “We”). Unless we otherwise indicate, this Policy applies to all personal information collected by prAna from any source, including information collected through our online services and activities, including this Website and our mobile applications (collectively, "Sites"), and at retail locations. This Policy will not apply where we display or link to a different privacy policy.<br> <br>If you receive our emails and catalogs and no longer wish to, just let us know at <a href="mailto:info@prana.com">info@prana.com</a>.<br> <br>You may send requests about your contact preferences, changes to your information or our Policy or privacy practices by email to <a href="mailto:info@prana.com">info@prana.com</a> or by writing us at:<br> <br>prAna Customer Service<br> 3209 Lionshead Avenue<br> Carlsbad, CA, 92010</p>
+<h4>PERSONAL INFORMATION COLLECTED</h4>
+<p>We collect information from you in various ways. We collect personal information you directly provide to us through our Sites, in our stores and through your other interactions with us. For example, we may collect your name, email address, postal address, phone number, photographs, videos, demographics and other information you provide or allow us to collect from you. We also collect credit card numbers if you purchase our products and services. We may also obtain information from other sources and combine that with information we collect from you.<br> <br>When you visit our Sites, some information is automatically collected. For example, we may collect your computer's operating system, Internet Protocol (IP) address, access times, browser type and language, and referring Web site addresses. If you access our Sites from a mobile device, we may also collect information about the type of mobile device you use, your device's unique ID, the type of mobile Internet browsers you use and information about the location of your device (for information about how to opt-out of location information collection, please see "Your Information Choices and Changes" below). We also collect information about your usage of and activity on our Sites.<br> <br>Cookies. We may automatically collect information using "cookies." Cookies are small data files stored on your hard drive by a Web site. Among other things, cookies help us improve our Sites and your experience. We use cookies to see which areas and features are popular and to count visits to our Sites. Many Web browsers are set to accept cookies by default. If you prefer, you can usually choose to set your browser to remove cookies and to reject cookies from our Sites. If you set your browser not to accept cookies or if you reject a cookie, it may affect certain features or services of our Sites.<br> <br>Web Beacons. We may collect information using Web beacons. Web beacons, or "gifs," are electronic images that may be used on our Sites or in our emails. We use Web beacons to deliver cookies, count visits, understand usage and campaign effectiveness and to tell if an email has been opened and acted upon. If you do not wish for us to track emails we send you, some email services may allow you to adjust your display to turn off HTML or images which may disable tracking, or you may unsubscribe from our marketing emails as described below.<br> <br>While we and others give you choices described in this Policy, there are many ways Web browser signals and other similar mechanisms can indicate your choice to disable tracking, and we may not be aware of or honor every mechanism.</p>
+<h4>THIRD PARTY COOKIES AND ADS</h4>
+<p>Third parties may also collect information about you through our Sites. For example, third party analytics services use cookies and web beacons to help us compile statistics about our Sites and visitors to our Sites. We receive assurances from those third party analytics services that they will not collect or access any information that directly identifies you on our Sites. Other third parties may also collect information about your online activities over time and across different websites when you visit our Site, for example, to display prAna ads to you on third party websites and to deliver third party ads to our Sites and others as described below.</p>
+<h4>PRANA ADS ON THIRD PARTY WEBSITES</h4>
+<p>We may use information collected using our cookies and web beacons on our Sites and in our emails to deliver prAna branded advertising displayed to you on third-party websites. We also may use cookie information to know when you return to our website after visiting these third-party websites. We use this and other information about you to try to understand your interests and show you relevant advertising about products and services that may interest you. To opt-out of our cookies used for online advertising visit the 
+<a title="prAna Ad Choices Page" href="http://dtmc.prana.com/adinfo/choice/prod/?type=fpc&amp;cid=3158&amp;cname=prAnaLiving&amp;cmagic=55d99a&amp;clogo=3158.png&amp;loc=us&amp;lang=en-us" target="_blank">prAna Ad Choices Page</a> .<br> <br>We may also use the services of certain third parties to automatically collect information about your visits to this and other Web sites, your IP address, your ISP, the browser you use to visit our Sites. They do this using cookies, clear gifs or other technologies. Information collected may be used, among other things, to deliver advertising targeted to your interests and to better understand the usage and visitation of our Sites and the other sites tracked by these third parties. This policy does not apply to, and we are not responsible for, cookies or clear gifs in third party ads, and we encourage you to check the privacy policies of advertisers and/or ad services to learn about their use of cookies and other technology.<br> <br>If you would like more information about these practices and to know your choices about not having this information used by these third party companies, visit the <a title="prAna Ad Choices Page" href="http://www.networkadvertising.org/managing/opt_out.asp" target="_blank">http://www.networkadvertising.org/managing/opt_out.asp</a>.</p>
+<h4>USE OF PERSONAL INFORMATION WE COLLECT</h4>
+<p>We use personal information we collect for purposes described in this Policy or as disclosed to you in other ways including on our Sites, in our stores, or in connection with our services. For example, we may use your information to:<br> • send you catalogs and other marketing;<br> • provide and deliver products and services;<br> • provide information we think may be of interest to you;<br> • send you information related to products and services, including confirmations, invoices, technical notices, updates, security alerts, and support and administrative messages;<br> • communicate with you about new contests, promotions and rewards, upcoming events, and other news about products and services offered by prAna and our selected partners;<br> • operate and improve our Sites and services;<br> • process and deliver contest entries and rewards;<br> • manage and administer our community features and member programs and services;<br> • respond to your comments and questions and provide customer service; and<br> • link or combine with other personal information we get from third parties, to help understand your needs and provide you with better service.<br> <br>prAna stores and processes personal information in the United States.</p>
+<h4>SHARING OF PERSONAL INFORMATION</h4>
+Certain sections of our Sites are designed as open and public community areas for connecting and sharing with other people. When you sign up for or participate in these areas, such as posting a product review, you will be asked to provide certain information that may be displayed publicly along with photos, stories, posts, and other information you choose to provide. We may also post or publish your information when you submit comments, stories, photos, and videos in connection with surveys, contests, sweepstakes, or promotions offered on the Sites.<br> <br>We do not otherwise share your personal information with third parties except as follows:<br> • in an aggregated or anonymized form that does not directly identify you;<br> • with third party vendors, consultants and other service providers who are working on our behalf and need access to your information to carry out their work for us;<br> • to (a) comply with laws or respond to lawful requests and legal process, (b) to protect the rights and property of prAna our agents, members, and others including to enforce our agreements, policies and terms of use or (c) in the good faith belief that disclosure is needed to respond to an emergency or protect the personal safety of any person; and<br> • in connection with, or during negotiations of, any merger, sale of company assets, financing or acquisition of all or a portion of our business to another company.<br> <br>In some cases we may provide your name and address to a select group of companies whose products you may find of interest. If you do not want us to share this information with these companies, click here and send us your name and mailing address. It may take up to 8 weeks for you to stop receiving unwanted catalogs.<br><br>
+<h4>SECURITY OF YOUR PERSONAL INFORMATION</h4>
+<p>prAna takes reasonable measures to protect your personal information in an effort to prevent loss, misuse and unauthorized access, disclosure, alteration and destruction.</p>
+<h4>YOUR INFORMATION CHOICES AND CHANGES</h4>
+<p>You may opt out of receiving promotional emails from prAna by following the instructions in those emails. If you choose to opt out of promotional emails, we may still send you non-promotional emails, such as emails about your accounts or our ongoing business relations.<br> <br>You may also opt out from allowing prAna to collect your geographic location by changing your location preferences on your mobile device or by following the standard uninstall process and deleting prAna’s mobile application(s) from your device.</p>
+<h4>CHANGES TO THIS POLICY</h4>
+<p>prAna may change this Policy from time to time. If we make any changes to this Policy, we will change the "Effective" date above.</p>
 </div>
-<h3>At prAna, we respect your privacy. We know it’s important to you and it’s important to us.</h3>
-<h4>The Information We Collect</h4>
-<p>In order to make your experience at prAna.com the best it can be, we need to collect certain personal information such as your name, address, phone number, email address and credit card information. This makes it easier for us to contact you if we have questions about billing and shipping. It also helps us get your order to you as soon as possible.</p>
-<p>We also collect information about your computer and web usage, such as your IP address, operating system, browser type, time and date of access, and the websites you visit before and after prAna.com. This allows us to analyze our users’ behavior so we can improve our website and your overall experience.</p>
-<p>Like most websites, prAna.com uses cookies to identify users. Keeping track of your preferences, cookies make it possible for us to provide you with the content and products we think you’ll like most. Cookies are also the reason items stay in your cart after you leave our site. In addition, they’re used to populate your entire user name or email address in a field after you’ve only entered the first few letters. You always have the ability to erase or disable cookies by changing the preferences in your web browser (usually found in the Internet Options menu). The information prAna gathers through cookies is never shared with third parties.</p>
-<h4>How We Use Your Information</h4>
-<p>In some cases we may provide your name and address to a select group of  companies whose products you may find of interest. If you do not want us to share this information with these companies, <a href="mailto:info@prana.com">click here</a> and we can add your name to our "do-not-share" list. It may take up to 6 weeks for your name to be removed and to stop receiving catalogs. Please provide your email address and mailing address.<br><br>If you receive our emails and catalogs and no longer wish to, just let us know at <a href="mailto:info@prana.com">info@prana.com</a>.</p>
-<p>Rest assured, your personal information is always safe, thanks to our HTTPS and SSL security protocols.</p>
-<h4>Third-Party Links</h4>
-<p>If you click on a link for Facebook, Twitter or any other third-party website, you should know that prAna’s privacy policy will not apply on those sites. It’s always a good idea to read the privacy policy of a website if you’re concerned.</p>
-<h4>Children’s Privacy</h4>
-<p>prAna complies with the Children’s Online Privacy Protection Act of 1998, which prohibits collecting personal information from children under the age of 13. If it comes to our attention that we have unknowingly collected information from a child under the age of 13, we will delete it as soon as possible.</p>
-<h4>Information Changes</h4>
-<p>If any of your personal information changes when you move or get a new phone number, you can easily update it in your <a href="/customer/account/index/">account settings</a>.</p>
-<p>If we update our privacy policy, we’ll make the change very clear, right here on this page. If it’s a major change, we’ll email you to make sure you know about it.</p>
-<p>If you’re ever unsure of how our privacy policy works, email us at <a href="mailto:info@prana.com">info@prana.com</a>.</p></div>               <!--STARTFooterInclude-->
+<div class="col-left sidebar">&nbsp;</div>
+</div></div>               <!--STARTFooterInclude-->
                 </div>
                 <div class="postscript grid-full in-col1"></div>
                      
@@ -1409,100 +1654,99 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             <div class="grid-full">
 
 				                <div class="section clearer">
-					<div class=" grid12-3">	<div class="std"><div>
-<h4>SUPPORT</h4>
+					<div class=" grid12-3">	<div class="std"><style>
+li.footer-col {
+font-family: 'montserratLight', serif;
+letter-spacing: .025em;
+line-height: 1.6em;
+}
+</style>
+<div>
+<h4 style="font-family: montserrat;"><a href="http://www.prana.com/life/customer-service/">SUPPORT</a></h4>
 <ul>
-<li class="customer-service"><a href="http://www.prana.com/life/customer-service/">Customer Service &amp; FAQs</a></li>
-<li class="shipping-returning"><a href="http://www.prana.com/life/customer-service/shipping-returns/">Shipping &amp; Returns</a></li>
-<li class="shipping-returning"><a href="http://www.prana.com/skin/frontend/enterprise/prana/pdf/prana_returnForm.pdf" target="_blank">Return Form</a> <a href="http://www.prana.com/shipping-returns.html"></a></li>
-<li><a href="http://www.prana.com/life/customer-service/sizing-charts/">Sizing Charts</a></li>
-<li class="contact-prana"><a href="http://www.prana.com/contacts">Contact prAna</a></li> 
-<li><a href="http://www.prana.com/gift-card.html">Gift Cards</a></li>
-<li><a href="http://www.prana.com/international-orders.html">International Orders</a></li>
-<li><a href="http://www.prana.com/influencer.html">Influencer/Pro Sales</a></li>
-<li><a href="http://www.prana.com/customer/dealerinquiries">Dealer Inquiries</a></li>
+<li class="customer-service footer-col"><a href="http://www.prana.com/life/customer-service/">Customer Service &amp; FAQs</a></li>
+<li class="shipping-returning footer-col"><a href="http://www.prana.com/life/customer-service/shipping-returns/">Shipping &amp; Returns</a></li>
+<li class="shipping-returning footer-col"><a href="http://www.prana.com/skin/frontend/enterprise/prana/pdf/prana_returnForm.pdf" target="_blank">Return Form</a> <a href="http://www.prana.com/shipping-returns.html"></a></li>
+<li class="footer-col"><a href="http://www.prana.com/life/customer-service/sizing-charts/">Sizing Charts</a></li>
+<li class="contact-prana footer-col"><a href="http://www.prana.com/contacts">Contact prAna</a></li> 
+<li class="footer-col"><a href="http://www.prana.com/gift-card.html">Gift Cards</a></li>
+<li class="footer-col"><a href="http://www.prana.com/customer/dealerinquiries">Dealer Inquiries</a></li>
 </ul>
 
-<h4>ABOUT US</h4>
+</div></div></div><div class=" grid12-3">	<div class="std"><style>
+li.footer-col {
+font-family: 'montserratLight', serif;
+letter-spacing: .025em;
+line-height: 1.6em;
+}
+</style>
+
+<h4 style="font-family: montserrat;"><a href="http://www.prana.com/about-us/">ABOUT US</a></h4>
 <ul>
-<li class="our-story"><a href="http://www.prana.com/life/our-story/">Our Story</a></li>
-<li class="Sustainability"><a href="http://www.prana.com/life/sustainability/">Sustainability</a></li>
-<li class="alliances"><a href="http://www.prana.com/life/alliances/">Alliances</a></li>
-<li class="online-partners"><a href="http://www.prana.com/life/online-partners/">Online Partners</a></li>
-<li class="prAna-careers"><a href="https://pranacareers.silkroad.com/">prAna Careers</a></li>
-<li class="Press"><a href="http://www.prana.com/press">Press</a></li>
-</ul>
-</div></div></div><div class=" grid12-3">	<div class="std"><div class="hide-below-768">
-<h4>WOMEN</h4>
-<ul>
-<li><a href="http://www.prana.com/women/clothing/tops.html">Tops</a></li>
-<li><a href="http://www.prana.com/women/clothing/pants.html">Bottoms</a></li>
-<li><a href="http://www.prana.com/women/clothing/dresses-skirts.html">Dresses and Skirts</a></li>
-<li><a href="http://www.prana.com/women/clothing/yoga-mats-accessories.html">Accessories</a></li>
-<li><a href="http://www.prana.com/women/outlet.html">Outlet</a></li>
-</ul>
-<h4>MEN</h4>
-<ul>
-<li><a href="http://www.prana.com/men/clothing/knit-woven.html">Tops</a></li>
-<li><a href="http://www.prana.com/men/clothing/pants.html">Bottoms</a></li>
-<li><a href="http://www.prana.com/men/featured/yoga-favorites.html">Yoga Favorites</a></li>
-<li><a href="http://www.prana.com/men/clothing/yoga-mats-accessories.html">Accessories</a></li>
-<li><a href="http://www.prana.com/men/outlet.html">Outlet</a></li>
-</ul></div></div></div><div class=" grid12-3">	<div class="std"><div class="hide-below-768">
-<h4>LIFE</h4>
-<ul>
-<li><a href="http://www.prana.com/life/ambassadors/">Athletes, Artists &amp; Activists</a></li><a href="http://www.prana.com/life/ambassadors/">
-</a><li><a href="http://www.prana.com/life/ambassadors/"></a><a href="http://www.prana.com/life/tag/doing-the-right-thing/"><span>Doing the Right Thing</span></a></li>
-<li><a href="http://www.prana.com/life/tag/good-for-the-earth/"><span>Good for the Earth</span></a></li>
-<li><a href="http://www.prana.com/life/tag/in-the-moment/"><span>In the Moment</span></a></li>
-<li><a href="http://www.prana.com/life/tag/rejuvenate/"><span>Rejuvenate</span></a></li>
-<li><a href="http://www.prana.com/life/tag/inspiration/"><span>Inspiration</span></a></li>
-<li><a href="http://www.prana.com/life/tag/climbing/"><span>Climbing</span></a></li>
-<li><a href="http://www.prana.com/life/tag/yoga/"><span>Yoga</span></a></li>
-</ul>
+<li class="our-story footer-col"><a href="http://www.prana.com/about-us/who-we-are.html">Who We Are</a></li>
+<li class="Sustainability footer-col"><a href="http://www.prana.com/about-us/sustainability.html/">Sustainability</a></li>
+<li class="prAna-careers footer-col"><a href="https://pranacareers.silkroad.com/">Careers</a></li>
+<li class="Press footer-col"><a href="http://www.prana.com/press">Press</a></li>
+<li class="footer-col"><a href="https://www.prana.com/influencer.html">Influencer Program</a></li>
+</ul></div></div><div class=" grid12-3">	<div class="std"><style>
+li.footer-col {
+font-family: 'montserratLight', serif;
+letter-spacing: .025em;
+line-height: 1.6em;
+}
+</style>
+<div class="hide-below-768">
+<h4 style="font-family: montserrat;"><a href="http://www.prana.com/life/">{STORIES}</a></h4>
+
 </div>
 <div>
-<h4><a href="http://www.prana.com/life/retail-stores/">PRANA STORES</a></h4>
-<ul>
-<li><a href="http://www.prana.com/life/retail-stores/boulder-store/">Boulder</a></li>
-<li><a href="http://www.prana.com/life/retail-stores/denver-store/">Denver</a></li>
-<li><a href="http://www.prana.com/life/retail-stores/san-francisco-store/">San Francisco</a></li>
-<li><a href="http://www.prana.com/life/retail-stores/portland-store/">Portland</a></li>
-<li><a href="http://www.prana.com/life/retail-stores/minneapolis-store/">Minneapolis</a></li>
-</ul>
-</div></div></div><div class=" grid12-3">	<div class="std"><script type="text/javascript">
-	var newdiv1 =jQuery("<ul class='social-footer'><li><iframe id='twitter-widget-0' scrolling='no' frameborder='0' allowtransparency='true' src='http://platform.twitter.com/widgets/follow_button.21f7daa948263c3043bab783473c3475.en.html#_=1415063440481&amp;id=twitter-widget-0&amp;lang=en&amp;screen_name=prAna&amp;show_count=true&amp;show_screen_name=false&amp;size=m' class='twitter-follow-button twitter-follow-button' title='Twitter Follow Button' data-twttr-rendered='true' style='width: 162px; height: 20px;'></iframe></li><li class='last'><iframe src='//www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.facebook.com%2Fprana&amp;width&amp;layout=button_count&amp;action=like&amp;show_faces=false&amp;share=false&amp;height=21' scrolling='no' frameborder='0' style='border:none; overflow:hidden; height:21px;' allowTransparency='true'></iframe></li></ul>");
+<h4 style="font-family: montserrat; padding-bottom: 30px;"><a href="http://www.prana.com/dealer-locator.html">STORE LOCATOR</a></h4>
 
-	
-	jQuery(document).scroll(function() {
-	if (!jQuery(".social-footer").length) { 
-	 	jQuery(".footer .grid12-3:last .std").prepend(newdiv1);
-	 }
-	});
-	
-</script>
-<div class="social-links icon-wrapper-square">
-<h4>FOLLOW US</h4>
+</div></div></div><div class=" grid12-3">	<div class="std"><style>
+.footer-col4 {
+font-family: montserrat;
+letter-spacing: .025em;
+
+}
+.footer-minimal h4 {
+font-family: montserrat;
+
+}
+ .newsletter-min-submit-btn {
+font-family: montserratLight;
+}
+.social-links img {
+    border:0 none; padding-right:1%; outline:none; -ms-interpolation-mode:bicubic;
+    padding-bottom:0.6em;
+}
+.social-links img:nth-type(1) {
+    padding-right:0;
+}
+</style>
+
+<div class="social-links icon-wrapper-square" style="padding-top: 1em; ">
+
 	<a class="first" href="http://www.facebook.com/prana" target="_blank" title="Join us on Facebook">
-		<span class="icon icon-hover i-facebook-w"></span>	</a>
+<img src="/media/wysiwyg/1119Flip/social-icons/facebook-_2x.png" alt="Facebook" width="38" title="Facebook" border="0">
+	</a>
 
         <a href="https://twitter.com/prAna" title="Follow prAna on Twitter" data-show-count="true" data-show-screen-name="false" data-lang="en" target="_blank">
-		<span class="icon icon-hover i-twitter-w"></span>	</a>
+<img src="/media/wysiwyg/1119Flip/social-icons/twitter-_2x.png" alt="Twitter" width="38" title="Twitter" border="0">
+        </a>
 
         <a href="http://www.pinterest.com/prAna" title="Pinterest" target="_blank">
-		<span class="icon icon-hover i-pinterest-w"></span>
+<img src="/media/wysiwyg/1119Flip/social-icons/pinterest-_2x.png" alt="Pinterest" width="38" title="Pinterest" border="0">
 	</a>
+
        	<a href="http://www.instagram.com/prAna" title="Instagram" target="_blank">
-		<span class="icon icon-hover i-instagram-w"></span>
+<img src="/media/wysiwyg/1119Flip/social-icons/intagram-_2x.png" alt="Instagram" width="38" title="Instagram" border="0">
 	</a>
+
 	<a href="https://plus.google.com/u/0/+prAna/posts" title="Join us on Google Plus" target="_blank">
-		<span class="icon icon-hover i-googleplus-w"></span>
+<img src="/media/wysiwyg/1119Flip/social-icons/google-_2x.png" alt="Google+" width="38" title="Google+" border="0">
 	</a>
 	<a href="http://www.youtube.com/prana" title="Youtube" target="_blank">
-		<span class="icon icon-hover i-youtube-w"></span>
-	</a>
-	<a href="http://vimeo.com/channels/prana" title="Vimeo" target="_blank">
-		<span class="icon icon-hover i-vimeo-w"></span>
+<img src="/media/wysiwyg/1119Flip/social-icons/youTube-_2x.png" alt="YouTube" width="38" title="YouTube" border="0">
 	</a>
 
 </div>
@@ -1532,12 +1776,9 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 </script>
 
 
+<h4 class="footer-col4"><a href="http://www.prana.com/request-a-catalog.html">REQUEST A CATALOG</a></h4>
 
-		<h4><a href="#" onclick="launchLightboxAjax('http://www.prana.com/newsletter/index/index/lightbox'); return false;">CATALOG SIGN UP</a></h4>
-     <h4>   <a href="http://www.prana.com/catalog/quickshop/">CATALOG IN HAND</a></h4>
-<h4><a href="http://www.prana.com/dealer-locator.html">DEALER LOCATOR</a></h4>
-<h4>CUSTOMER SERVICE 1.866.915.6457</h4>
-<div id="GTS_CONTAINER" class="trusted-store-badge"></div></div></div>                </div> <!-- end: footer-primary section -->
+<h4 class="footer-col4" style="font-size: 0.94em;">CUSTOMER SERVICE 1 (866) 915-6457</h4></div></div>                </div> <!-- end: footer-primary section -->
                                 
 
             
@@ -1555,14 +1796,49 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     <div class="footer-bottom-container section-container">
         <div class="footer-bottom footer container">
                 
-    <p>prAna - "Breath, life, vitality of the spirit."<br>These qualities infuse not only our name, but also our aspirations, the things we make and how we make them. Welcome to mindfully designed, built to last products – born from the experience.<br>&nbsp;</p>            <p class="copyright">©2015 prAna.&nbsp;&nbsp;&nbsp;<a href="/privacy-policy.html">Privacy Policy</a>&nbsp;&nbsp;&nbsp;<a href="/life/california-transparency-act">California Transparency Act</a>&nbsp;&nbsp;&nbsp;<a href="/catalog/seo_sitemap/category/">Sitemap</a></p>
+    <style>
+.footer-copy {
+font-family: 'montserratLight', serif;
+letter-spacing: .025em;
+line-height: 1.6em;
+font-size: 0.9em;
+padding-bottom: 20px;
+}
+p.copyright {
+font-family: 'montserratLight', serif !important;
+font-size: 0.9em !important;
+}
+@media (min-width: 320px) {
+div.bucket img {
+width: 174px !important;
+height: 98px !important;
+}
+div.bucketInfo h3 {
+font-size: 1.125em !important;
+font-family: montserratLight !important;
+letter-spacing: .025em !important;
+}
+}
+@media (min-width: 768px) {
+div.bucket img {
+width: 290px !important;
+height: 163px !important;
+}
+}
+</style>
+<p class="footer-copy">prAna - "Clothing for people who live fully, play long, and travel well."</p>           
+            <p class="copyright">©2015 prAna.&nbsp;&nbsp;&nbsp;<a href="/privacy-policy.html">Privacy Policy</a>&nbsp;&nbsp;&nbsp;<a href="/life/california-transparency-act">California Transparency Act</a>&nbsp;&nbsp;&nbsp;<a href="/catalog/seo_sitemap/category/">Sitemap</a>
+       
+            
+            </p>
 
             <div class="grid-full">
 
                 <div class="section clearer">
                 
                 	<div class="item item-left">
-                    	<p class="footer-copyright"></p>
+                    	<p class="footer-copyright">                        
+                        </p>
                     </div>
                     
                                         
@@ -1572,6 +1848,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
             </div> <!-- end: grid-full -->
         </div> <!-- end: footer-bottom -->
+          <div id="GTS_CONTAINER" class="trusted-store-badge"></div>
     </div>
 </div> <!-- end: footer-container2 -->
 </div> <!-- end: footer-container -->
@@ -1889,6 +2166,10 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 	//]]>
 </script>
+<style>
+.gomage-checkout-onepage-index #mini-cart a.btn-remove,
+.gomage-checkout-onepage-index #mini-cart a.btn-edit {display:none;}
+</style>
 
 
 <script type="text/javascript">
@@ -1896,8 +2177,73 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 jQuery(function($) {
 
-var islider={config:{elements:".itemslider-responsive",columnCount:5,maxBreakpoint:960,breakpoints:[[1680,3],[1440,2],[1360,1],[1280,1],[960,0],[768,-1],[640,-2],[480,-3],[320,-5]]},init:function(a){$.extend(islider.config,a)},onResize_recalculateAllSliders:function(){return islider.recalculateAllSliders(),!1},recalculateAllSliders:function(){$(islider.config.elements).each(function(){null!=$(this).data("flexslider")&&islider.recalcElement($(this))})},recalcElement:function(a){var b,c=a.data("breakpoints");if(c)b=islider.getMaxItems_CustomBreakpoints(c);else{var d=a.data("showItems");void 0===d&&(d=islider.config.columnCount),b=islider.getMaxItems(d)}a.data("flexslider").setOpts({minItems:b,maxItems:b})},getMaxItems_CustomBreakpoints:function(a){if(infortisTheme.viewportW)var b=infortisTheme.viewportW;else var b=$(window).width();var c=islider.config.maxBreakpoint;"undefined"!=typeof infortisTheme&&infortisTheme.maxBreak&&(c=infortisTheme.maxBreak);for(var d,e=0;a.length>e;e++){var f=parseInt(a[e][0],10),g=parseInt(a[e][1],10);if(d=g,c>=f&&b>=f)return d}return d},getMaxItems:function(a){var b=islider.config.breakpoints;if(infortisTheme.viewportW)var c=infortisTheme.viewportW;else var c=$(window).width();var d=islider.config.maxBreakpoint;"undefined"!=typeof infortisTheme&&infortisTheme.maxBreak&&(d=infortisTheme.maxBreak);for(var e,f=0;b.length>f;f++){var g=parseInt(b[f][0],10),h=parseInt(b[f][1],10);if(e=a+h,0>=e&&(e=1),d>=g&&c>=g)return e}return e}};
-	
+//var islider={config:{elements:".itemslider-responsive",columnCount:5,maxBreakpoint:960,breakpoints:[[1680,3],[1440,2],[1360,1],[1280,1],[960,0],[768,-1],[640,-2],[480,-3],[320,-5]]},init:function(a){$.extend(islider.config,a)},onResize_recalculateAllSliders:function(){return islider.recalculateAllSliders(),!1},recalculateAllSliders:function(){$(islider.config.elements).each(function(){null!=$(this).data("flexslider")&&islider.recalcElement($(this))})},recalcElement:function(a){var b,c=a.data("breakpoints");if(c)b=islider.getMaxItems_CustomBreakpoints(c);else{var d=a.data("showItems");void 0===d&&(d=islider.config.columnCount),b=islider.getMaxItems(d)}a.data("flexslider").setOpts({minItems:b,maxItems:b})},getMaxItems_CustomBreakpoints:function(a){if(infortisTheme.viewportW)var b=infortisTheme.viewportW;else var b=$(window).width();var c=islider.config.maxBreakpoint;"undefined"!=typeof infortisTheme&&infortisTheme.maxBreak&&(c=infortisTheme.maxBreak);for(var d,e=0;a.length>e;e++){var f=parseInt(a[e][0],10),g=parseInt(a[e][1],10);if(d=g,c>=f&&b>=f)return d}return d},getMaxItems:function(a){var b=islider.config.breakpoints;if(infortisTheme.viewportW)var c=infortisTheme.viewportW;else var c=$(window).width();var d=islider.config.maxBreakpoint;"undefined"!=typeof infortisTheme&&infortisTheme.maxBreak&&(d=infortisTheme.maxBreak);for(var e,f=0;b.length>f;f++){var g=parseInt(b[f][0],10),h=parseInt(b[f][1],10);if(e=a+h,0>=e&&(e=1),d>=g&&c>=g)return e}return e}};
+
+	var islider = {
+		config: {
+			elements: ".itemslider-responsive",
+			columnCount: 4,
+			maxBreakpoint: 1200,
+			breakpoints: [
+				[2400, 3],
+				[2100, 2],
+				[1800, 1],
+				[1500, 1],
+				[1200, 0],
+				[900, -1],
+				[600, -2],
+				[300, -3]
+			]
+		},
+		init: function(a) {
+			$.extend(islider.config, a)
+		},
+		onResize_recalculateAllSliders: function() {
+			return islider.recalculateAllSliders(), !1
+		},
+		recalculateAllSliders: function() {
+			$(islider.config.elements).each(function() {
+				null != $(this).data("flexslider") && islider.recalcElement($(this))
+			})
+		},
+		recalcElement: function(a) {
+			var b, c = a.data("breakpoints");
+			if (c) b = islider.getMaxItems_CustomBreakpoints(c);
+			else {
+				var d = a.data("showItems");
+				void 0 === d && (d = islider.config.columnCount), b = islider.getMaxItems(d)
+			}
+			a.data("flexslider").setOpts({
+				minItems: b,
+				maxItems: b
+			})
+		},
+		getMaxItems_CustomBreakpoints: function(a) {
+			if (infortisTheme.viewportW) var b = infortisTheme.viewportW;
+			else var b = $(window).width();
+			var c = islider.config.maxBreakpoint;
+			"undefined" != typeof infortisTheme && infortisTheme.maxBreak && (c = infortisTheme.maxBreak);
+			for (var d, e = 0; a.length > e; e++) {
+				var f = parseInt(a[e][0], 10),
+					g = parseInt(a[e][1], 10);
+				if (d = g, c >= f && b >= f) return d
+			}
+			return d
+		},
+		getMaxItems: function(a) {
+			var b = islider.config.breakpoints;
+			if (infortisTheme.viewportW) var c = infortisTheme.viewportW;
+			else var c = $(window).width();
+			var d = islider.config.maxBreakpoint;
+			"undefined" != typeof infortisTheme && infortisTheme.maxBreak && (d = infortisTheme.maxBreak);
+			for (var e, f = 0; b.length > f; f++) {
+				var g = parseInt(b[f][0], 10),
+					h = parseInt(b[f][1], 10);
+				if (e = a + h, 0 >= e && (e = 1), d >= g && c >= g) return e
+			}
+			return e
+		}
+	};
 	if (typeof infortisTheme !== 'undefined' && infortisTheme.responsive)
 	{
 		islider.init( {elements: '.itemslider-responsive'} );
@@ -1910,24 +2256,8 @@ var islider={config:{elements:".itemslider-responsive",columnCount:5,maxBreakpoi
 //]]>
 </script>    </div>
 </div>
- <!-- end: root-wrapper -->
+</div> <!-- end: root-wrapper -->
  <!--ENDFooterInclude-->
-<!-- ClickTale Bottom part -->
- 
-<script type="text/javascript">
-// The ClickTale Balkan Tracking Code may be programmatically customized using hooks:
-//
-//   function ClickTalePreRecordingHook() { /* place your customized code here */  }
-//
-// For details about ClickTale hooks, please consult the wiki page http://wiki.clicktale.com/Article/Customizing_code_version_2
- 
-document.write(unescape("%3Cscript%20src='"+
-(document.location.protocol=='https:'?
-"https://cdnssl.clicktale.net/www03/ptc/3bb32739-fa70-4771-8b06-512204b8e6f5.js":
-"http://cdn.clicktale.net/www03/ptc/3bb32739-fa70-4771-8b06-512204b8e6f5.js")+"'%20type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://cdnssl.clicktale.net/www03/ptc/3bb32739-fa70-4771-8b06-512204b8e6f5.js" type="text/javascript"></script>
- 
-<!-- ClickTale end of Bottom part -->
-
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"039f4c7872","applicationID":"6903030","transactionName":"MlBbZUtSWhAFBxdYWQsaeFJNWlsNSwcOQhkVVF5UFkVdBhM=","queueTime":0,"applicationTime":290,"atts":"HhdYEwNISR4=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-768.min.js"}</script>
 
 </body></html>
