@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the epromos.com privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612122444id_/http%3A//www.epromos.com/support/privacy-security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the epromos.com privacy policy that was archived on 2015-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151211115643id_/http%3A//www.epromos.com/support/privacy-security) for the most accurate reproduction.*
 
-# Privacy and Security - ePromos Education Center
+# Privacy and Security
 
 This is the web site of **ePromos.com, Inc.**  
 Our postal address is:  
