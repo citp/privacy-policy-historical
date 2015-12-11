@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the connectedinvestors.com privacy policy that was archived on 2015-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150426003713id_/http%3A//connectedinvestors.com/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the connectedinvestors.com privacy policy that was archived on 2015-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151211102848id_/http%3A//connectedinvestors.com/content/privacy-policy) for the most accurate reproduction.*
 
-# Connected Investors
+# Privacy Policy
 
 ## Privacy Policy
 
@@ -106,6 +106,9 @@ You are solely responsible for any such information you choose to post on or thr
 
 ·  _Non-Personal Information_.  We may share with third parties certain pieces of aggregated, non-personal information, such as the number of people who visited or accessed the Services, the number of profiles created by users of the Services, survey and rating information and other feedback provided by users of the Services.  Such information does not identify you individually.
 
+ __·   __ __ _Mailing Lists_. We may sell the names and email addresses of our users to certain third parties, such as Crowdfunding portals, who provide products or services in which our users may be interested.  
+
+
 **V.   Aggregate Information  **
 
 We may compile personal information and other information collected through the Services on an aggregate basis.  This information may include, without limitation, the number of users who have registered for the Services, demographic information about users of the Services, and individual purchase preferences.  Such aggregate information does not identify you individually.  We may use aggregate information and share aggregate information with third parties for any of the purposes specified in this Privacy Statement, and for any other lawful purpose.
@@ -177,7 +180,7 @@ We may change or update the Services or any of our policies and procedures witho
 
 If you have any questions or comments regarding this Privacy Statement, please send us an email at:  ****[support@connectedinvestors.com](mailto:support@connectedinvestors.com)
 
-**Last Updated:   October 22, 2014**
+**Last Updated:  July 10, 2015**
 
   
 
