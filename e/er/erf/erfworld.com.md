@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the erfworld.com privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630052855id_/http%3A//www.erfworld.com/erf_stream/privacy_view) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the erfworld.com privacy policy that was archived on 2015-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151211094812id_/http%3A//www.erfworld.com/erf_stream/privacy_view) for the most accurate reproduction.*
 
-# Erfworld Stream : Erfworld
+# Privacy Policy : Erfworld
 
   * [About](https://web.archive.org/erf_stream/about_view)
   * [Comic](https://web.archive.org/erf_stream/books)
@@ -13,8 +13,6 @@
   * [Contact Us](https://web.archive.org/mod/contactform/index.php)
 
 
-
-## Privacy Policy
 
 Erfworld's Privacy Policy: 
 
