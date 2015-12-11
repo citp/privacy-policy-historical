@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pluginboutique.com privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611165933id_/http%3A//www.pluginboutique.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pluginboutique.com privacy policy that was archived on 2015-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151211053811id_/http%3A//www.pluginboutique.com/privacy) for the most accurate reproduction.*
 
 # VST Plugins, Synth Presets, Effects, Virtual Instruments, Music Plugins from Pluginboutique
 
@@ -98,7 +98,7 @@ We will take reasonable precautions to prevent the loss, misuse or alteration of
 
 We will store all the personal information you provide on our secure servers. All electronic transactions you make to or receive from us will be encrypted using SSL technology.
 
-You are responsible for keeping your passwords confidential. We will not ask you for your passwords.
+You are responsible for keeping your passwords confidential.
 
 ### 8\. Policy amendments
 
