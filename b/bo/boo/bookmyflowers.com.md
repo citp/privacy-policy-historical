@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bookmyflowers.com privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612233624id_/http%3A//www.bookmyflowers.com/static/privacy-policy.dot) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bookmyflowers.com privacy policy that was archived on 2015-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151211212651id_/http%3A//www.bookmyflowers.com/static/privacy-policy.dot) for the most accurate reproduction.*
 
 # Bookmyflowers - Privacy Policy
 
