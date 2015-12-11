@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the browserbackgrounds.com privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611000607id_/http%3A//browserbackgrounds.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the browserbackgrounds.com privacy policy that was archived on 2015-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151211105623id_/http%3A//browserbackgrounds.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
