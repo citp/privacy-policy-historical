@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the realmomreviews.net privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612034156id_/http%3A//www.realmomreviews.net/blog-policies/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realmomreviews.net privacy policy that was archived on 2015-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151211034540id_/http%3A//www.realmomreviews.net/blog-policies/privacy-policy) for the most accurate reproduction.*
 
-# Real Mom Reviews Privacy Policy | Real Mom Reviews
+# Real Mom Reviews Privacy Policy
 
 Your privacy is very important to me and I am committed to protecting it. I ask for your email address when you make a comment on this site, but I will **never** sell or share that information unless you are the winner of giveaway. Then I will only give it out to the sponsor of the giveaway so they can send you your prize. Also when you give me your address after you have won a giveaway, I will only send this information to the sponsor for prize shipment.
 
