@@ -1,12 +1,6 @@
-> *The following text is extracted and transformed from the japantravel.com privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628021641id_/http%3A//en.japantravel.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the japantravel.com privacy policy that was archived on 2015-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151211175729id_/http%3A//en.japantravel.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Japan Travel - Map Your Travels
-
- 
-
- 
-
-**PRIVACY POLICY**
 
 Japan Travel KK (hereafter, JapanTravel), owner and operator of www.japantravel.com, handles and works to protect the personal information of customers and users as follows.
 
@@ -82,5 +76,3 @@ The laws of Japan shall be applied to this website and terms of use and visitors
 **Changes to this Privacy Policy**
 
 JapanTravel may update this policy. We will notify you about significant changes in the way we treat personal information by sending a notice to the primary email address specified in your JapanTravel account or by placing a prominent notice on our site. JapanTravel.com, is produced by Japan Travel KK, and references to JapanTravel, JT, JapanTravel.com or Japan Travel KK shall in general be interchangeable.
-
- 
