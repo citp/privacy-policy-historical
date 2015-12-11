@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the agriculture.gov.au privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612004553id_/http%3A//www.agriculture.gov.au/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the agriculture.gov.au privacy policy that was archived on 2015-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151211111618id_/http%3A//www.agriculture.gov.au/about/privacy) for the most accurate reproduction.*
 
-# Department of Agriculture Privacy - Department of Agriculture and Water Resources
+# Home Privacy - Department of Agriculture and Water Resources
 
-​​The department provides the following Privacy Policy in accordance with the Privacy Act 1988.
+​​​The department provides the following Privacy Policy in accordance with the _Privacy Act 1988_.
 
 The purpose of this privacy policy is to:
 
-  * clearly communicate the personal information handling practices of the Department of Agriculture (department)
+  * clearly communicate the personal information handling practices of the Department of Agriculture and Water Resources
   * enhance the transparency of the department’s operations, and
   * give individuals a better and more complete understanding of the sort of personal information the department holds, and the way we handle that information.
 
@@ -18,7 +18,7 @@ If you wish to make any comments or suggestions about the privacy policy, you ca
 
 Email: [Privacy](mailto:privacy@agriculture.gov.au)  
 Phone: (02) 6272 3933  
-Mail: Privacy, Department of Agriculture, PO Box 858, Canberra ACT 2601.  
+Mail: Privacy, Department of Agriculture and Water Resources, PO Box 858, Canberra ACT 2601.  
 
 
 Any comments and/or suggestions will be reviewed and considered by the department’s privacy officers.
@@ -32,7 +32,7 @@ The privacy policy was last reviewed in March 2014.
 
 ## Our obligations under the Privacy Act
 
-This privacy policy sets out how we comply with our obligations under the [ _Privacy Act 1988_](http://www.comlaw.gov.au/Search/privacy%20Act%201988) (Privacy Act). As an Australian Government agency, we are bound by the Australian Privacy Principles (APP) in the Privacy Act which regulate how government agencies collect, use, store and disclose personal information, and how individuals may access and correct personal information held about them.
+This privacy policy sets out how we comply with our obligations under the [ _Privacy Act 1988_](https://www.comlaw.gov.au/Search/privacy%20Act%201988) (Privacy Act). As an Australian Government agency, we are bound by the Australian Privacy Principles (APP) in the Privacy Act which regulate how government agencies collect, use, store and disclose personal information, and how individuals may access and correct personal information held about them.
 
 ## Personal information
 
@@ -169,8 +169,8 @@ By using the department’s website, you consent to the processing of data about
 | 
 
 The department utilises cookies when you visit our site. A cookie is a piece of information that a website sends to your browser when you access information at a site. Cookies give websites a sense of memory, allowing them to recognise one user from another. Most sites use them to do anything from counting the number of viewers they have, delivering tailored editorial content, or enabling website editors to identify which of their pages are most popular.  
-Despite common myths, the cookies sent to your PC cannot read your hard drive, obtain any information from your browser or command your computer to perform any action. They are designed so that they cannot be sent to, or be retrieved by, any other site. Upon receipt of the information from the Department of Agriculture site your browser also saves a Department of Agriculture cookie on your hard-disk. Each time you use your computer to access the Department of Agriculture website, the information that was previously received is sent back to the Department of Agriculture site by your browser, this enables us to identify the information that is most important to you and ensure it can be located effectively. Most commonly used browsers support the use of cookies.  
-You may refuse the use of cookies by selecting the appropriate settings on your browser, however please note that if you do this you may not be able to use the full functionality of some websites. For more information about cookies and instructions on how to adjust your browser settings to restrict or disable cookies, see the [Office of the Privacy Commissioner website](http://www.privacy.gov.au/index.php?option=com_content&view=article&id=396&Itemid=872) or the [Interactive Advertising Bureau website](http://www.allaboutcookies.org/).  
+Despite common myths, the cookies sent to your PC cannot read your hard drive, obtain any information from your browser or command your computer to perform any action. They are designed so that they cannot be sent to, or be retrieved by, any other site. Upon receipt of the information from the Department of Agriculture and Water Resources site your browser also saves a Department of Agriculture and Water Resources cookie on your hard-disk. Each time you use your computer to access the Department of Agriculture and Water Resources website, the information that was previously received is sent back to the Department of Agriculture site and Water Resources by your browser, this enables us to identify the information that is most important to you and ensure it can be located effectively. Most commonly used browsers support the use of cookies.  
+You may refuse the use of cookies by selecting the appropriate settings on your browser, however please note that if you do this you may not be able to use the full functionality of some websites. For more information about cookies and instructions on how to adjust your browser settings to restrict or disable cookies, see the [Office of the P​rivacy Commissioner website](https://www.oaic.gov.au/) or the [Interactive Advertising Bureau website](http://www.allaboutcookies.org/).  
   
 ## How to access and seek correction of your personal information
 
@@ -198,7 +198,7 @@ In the first instance, any privacy concerns or complaints should be reported to 
 
 Phone: 02 6272 3933  
 Email: [Privacy](mailto:privacy@agriculture.gov.au)  
-Mail: Privacy, Department of Agriculture, PO BOX 858, Canberra ACT 2601.
+Mail: Privacy, Department of Agriculture and Water Resources, PO BOX 858, Canberra ACT 2601.
 
 If you are unhappy with the department’s response or reply, you also have the option of contacting the Privacy Commissioner within the OAIC. The Privacy Commissioner can be contacted on:
 
@@ -208,6 +208,6 @@ Mail: OAIC, GPO Box 5218 Sydney NSW 2001.
 
 This site adheres to Commonwealth Government Internet security standards, including the Defence Signals Directorate guidelines.
 
-**Note:** There is an inherent risk associated with the use of an insecure public network such as the World Wide Web. A user's transactions (including emails) may be viewed, intercepted, corrupted or modified by, or otherwise disclosed to, a third party. The Commonwealth cannot guarantee the security or integrity of any transaction over such a network, including personal or other private information transmitted via email to or from a Department email address (X@daff.gov.au). The Commonwealth is not liable in connection with the transmission of any such information (including as a result of negligence).
+**Note:** There is an inherent risk associated with the use of an insecure public network such as the World Wide Web. A user's transactions (including emails) may be viewed, intercepted, corrupted or modified by, or otherwise disclosed to, a third party. The Commonwealth cannot guarantee the security or integrity of any transaction over such a network, including personal or other private information transmitted via email to or from a Department email address (X@agriculture.gov.au). The Commonwealth is not liable in connection with the transmission of any such information (including as a result of negligence).
 
 If you prefer to use an alternative means of delivery, you can send the information via the department's normal communications methods; i.e. mail, phone or fax. If you take this approach, please make it clear which part of the website you are responding to.
