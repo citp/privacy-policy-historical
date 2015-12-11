@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the friendlife.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609073616id_/https%3A//www.friendlife.com/content/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the friendlife.com privacy policy that was archived on 2015-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151211140038id_/https%3A//www.friendlife.com/content/privacy) for the most accurate reproduction.*
 
 # FriendLife
 
