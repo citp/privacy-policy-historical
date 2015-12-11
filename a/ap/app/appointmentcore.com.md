@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the appointmentcore.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607183159id_/http%3A//www.appointmentcore.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the appointmentcore.com privacy policy that was archived on 2015-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151211112623id_/http%3A//www.appointmentcore.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | AppointmentCore
 
@@ -35,6 +35,8 @@ Our Sites also contain links to third party sites that are not owned or controll
   1. If you have questions about personal information we have about you or need to update your information, you can [Contact Us](http://morriscore.com/contact) or call us at 1.800.892.2491. You can opt-out of receiving marketing and promotional e-mails from Company using the “My Account” page, and by using the opt-out or unsubscribe feature contained in the e-mails.
   2. If you close your account, we will no longer use your online account information or share it with third parties. We may, however, retain a copy of the information for archival purposes, and to avoid identity theft or fraud.
 
+
+
 ## Security of Your Information
 
 In order to help secure your personal information, access to your data on our Sites is password-protected, and sensitive data is protected by SSL encryption when it is exchanged between your web browser and our Sites. To protect any data you store on our servers, we also regularly audit our system for possible vulnerabilities and attacks. We use firewalls. We also have confidentiality agreements with our employees, and with some service providers and third parties. However, since the Internet is not a 100% secure environment, we cannot guarantee, ensure, or warrant the security of any information you transmit to us. There is no guarantee that information may not be accessed, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards. It is your responsibility to protect the security of your login information. Please note that e-mails you send to us through our Sites are not encrypted, and we strongly advise you not to communicate any confidential information through these means.
@@ -49,6 +51,3 @@ If you have any questions or suggestions regarding our Privacy Policy or otherwi
 Apollo Scheduling, Inc.  
 6103A Shadow Valley Drive  
 Austin, TX 78731
-
-
-
