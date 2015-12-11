@@ -1,20 +1,18 @@
-> *The following text is extracted and transformed from the 3plearning.com privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612235028id_/http%3A//www.3plearning.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 3plearning.com privacy policy that was archived on 2015-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151211214538id_/http%3A//www.3plearning.com/privacy) for the most accurate reproduction.*
 
 # 3P Learning Privacy Policy
 
-### About 3P Learning’s Privacy Policy
+  * ###  3P Learning is committed to protecting the safety and security of our registered users ( **Registrants** ) and are sensitive to our Registrant’s concerns about the safety of the personal information provided to us.  **Please read this Privacy Policy carefully in order to understand how any personal information collected by us is used.**
 
-  *  3P Learning is committed to protecting the safety and security of our registered users ( **Registrants** ) and are sensitive to our Registrant’s concerns about the safety of the personal information provided to us.  **Please read this Privacy Policy carefully in order to understand how any personal information collected by us is used.**
-  * Registrants must agree to their personal information being used by 3P Learning in accordance with this Privacy Policy before they may register.
-  * This Privacy Statement has been developed in accordance with…
+  * ### Registrants must agree to their personal information being used by 3P Learning in accordance with this Privacy Policy before they may register.
+
+  * ### This Privacy Statement has been developed in accordance with…
 
 
 
-.
+  * __
 
-  *  __
-
- _The Australian Privacy Amendment (Enhancing Privacy Protection) Act 2012_
+_The Australian Privacy Amendment (Enhancing Privacy Protection) Act 2012_
 
   *  __
 
@@ -22,7 +20,7 @@
 
   *  __
 
- _The United Kingdom Privacy Protection Act 1998_
+ _The United Kingdom Data  Protection Act 1998 (View 3P Learning’s [ICO Registration Certificate](http://cdn.3plearning.com/wp-content/uploads/2015/07/Registration-Certificate.pdf))_
 
   *  __
 
@@ -96,7 +94,7 @@ Generally we will only use your information within 3P Learning. However, sometim
 
 ### How we process your information
 
-We ask for Registrants’ consent to the use of any personal information we collect from them in accordance with our Privacy Policy at the time of registration. If a Registrant does not wish to provide us with their consent, they cannot agree to the Site Terms and Conditions and must not use the Site.
+We ask for Registrants’ consent to the use of any personal information we collect from them in accordance with our [Privacy Policy](http://www.3plearning.com/privacy) at the time of registration. If a Registrant does not wish to provide us with their consent, they cannot agree to the Site Terms and Conditions and must not use the Site.
 
 Our use of the personal information we collect is necessary in order for us to maintain the Site and facilitate Registrants’ use of the Site. We do not collect any unnecessary personal data from Registrants (for instance, their race or religious beliefs).
 
@@ -122,7 +120,7 @@ When agreeing to the Site Terms and Conditions, Registrants grant 3P Learning th
 
 ### Revision of Privacy Policy
 
-3P Learning reserves the right to change, modify, or revise this Privacy Policy in order to comply with any applicable laws or for any other reason at any time. Therefore our Registrants are required to check the Privacy Policy periodically to read about any changes, modifications, or revisions. Registrants may wish to check it each time they submit personal information. You will be deemed to have consented to such variation by your continued use of the Site following any changes being made.
+3P Learning reserves the right to change, modify, or revise this [Privacy Policy](http://www.3plearning.com/privacy) in order to comply with any applicable laws or for any other reason at any time. Therefore our Registrants are required to check the [Privacy Policy](http://www.3plearning.com/privacy) periodically to read about any changes, modifications, or revisions. Registrants may wish to check it each time they submit personal information. You will be deemed to have consented to such variation by your continued use of the Site following any changes being made.
 
 ### How can parents access, change or delete personally identifiable information about their child?
 
@@ -158,15 +156,15 @@ Ask your parent or guardian for permission before you send any personal informat
 
 For more information on privacy legislation and guidelines in your local jurisdiction please contact your relevant local authorities.
 
-  *  __
-  *  __
-  *  __
-  *  __
-  *  __
-  *  __
-  *  __
+  * __
+  * __
+  * __
+  * __
+  * __
+  * __
+  * __
 
- **United Kingdom:**   [www.ico.gov.uk](http://www.ico.gov.uk/ "UK")
+**United Kingdom:**   [www.ico.org.uk](http://www.ico.org.uk/ "UK")
 
   *  __
 
