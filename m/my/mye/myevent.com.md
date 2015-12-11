@@ -1,12 +1,8 @@
-> *The following text is extracted and transformed from the myevent.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315002803id_/http%3A//myevent.com/1/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myevent.com privacy policy that was archived on 2015-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151211120012id_/http%3A//myevent.com/1/privacy_policy.htm) for the most accurate reproduction.*
 
 # Create Your Event Website - Fast and Easy
 
 This privacy policy applies to www.myevent.com and www.websiteworks.com, owned and operated by MyEvent.com Inc. This privacy policy describes how MyEvent.com Inc. collects and uses the personal information you provide on our Websites. It also describes the choices available to you regarding our use of your personal information and how you can access and update this information. 
-
-MyEvent.com Inc. has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. The TRUSTe program covers only information that is collected through our Web sites, www.myevent.com and www.websiteworks.com. 
-
-TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy Trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at info@myevent.com or at info@Websiteworks.com. If you are not satisfied with our response you can contact TRUSTe [here](https://feedback-form.truste.com/watchdog/request). 
 
 The visitors and the customers (the "User") of the MyEvent.com and Websiteworks.com websites are in control of the use of information they provide to MyEvent.com, Websiteworks.com, or one of its current or future affiliate members ("Affiliate Members"). MyEvent.com and Websiteworks.com are committed to respecting the privacy rights of Users to the MyEvent.com/Websiteworks.com websites (the "Site"). 
 
@@ -116,7 +112,7 @@ This Privacy Policy is effective as of October 24, 2013. MyEvent.com and Website
 
 This Privacy Policy and its performance shall be governed by the laws in force in the Province of Quebec, Canada. You consent and submit to the exclusive jurisdiction of the Courts of the Province of Quebec, district of Montreal, in all questions and controversies arising out of your use of the Site and this Privacy Policy. 
 
-If you have questions or concerns regarding this statement, you should contact us first via one of the methods listed below. If you are not satisfied with our response you can contact TRUSTe here 
+If you have questions or concerns regarding this statement, you should contact us first via one of the methods listed below. 
 
 MyEvent.com / Websiteworks.com  
 #305 221 De La Commune St West  
