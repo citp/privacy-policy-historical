@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the collegepravesh.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315001155id_/http%3A//collegepravesh.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the collegepravesh.com privacy policy that was archived on 2015-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151211143035id_/http%3A//collegepravesh.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | College Pravesh
 
@@ -46,6 +46,6 @@ If we decide to change our privacy policy, we will post those changes on this pa
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
 [http://collegepravesh.com/contact-us/](http://collegepravesh.com/contact-us/)  
-[contact@collegepravesh.com](mailto:contact@collegepravesh.com)
+contact@collegepravesh.com
 
 This policy is powered by Trust Guard PCI compliance scans.
