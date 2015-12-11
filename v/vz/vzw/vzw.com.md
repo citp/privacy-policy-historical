@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vzw.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629204042id_/http%3A//www.verizon.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vzw.com privacy policy that was archived on 2015-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151211030305id_/http%3A//www.verizon.com/about/privacy) for the most accurate reproduction.*
 
 # Verizon | About You - Privacy Policy
 
@@ -6,7 +6,7 @@
 
 At Verizon, we are committed to maintaining strong and meaningful privacy protections for customers. Our privacy policy is designed to inform you about the information we collect, how we use it, and your options about certain uses of information. Key elements of our [full privacy policy](https://web.archive.org/about/privacy/policy/) are summarized below.
 
-Verizon's privacy policy applies to website visitors and customers of the Verizon family of companies in the United States. Additional privacy practices that apply to FiOS, Verzion Wireless, AOL and Verizon Vehicle services are also described in the full policy. Supplemental privacy policies for AOL companies and the services they provide are described in the [AOL privacy policy](http://privacy.aol.com/). In the event of a conflict between the Verizon privacy policy and the AOL privacy policy, the AOL policy will control when you are on an AOL site or using an AOL product or service.  
+Verizon's privacy policy applies to website visitors and customers of the Verizon family of companies in the United States. Additional privacy practices that apply to FiOS, Verzion Wireless, AOL and hum services are also described in the full policy. Supplemental privacy policies for AOL companies and the services they provide are described in the [AOL privacy policy](http://privacy.aol.com/). In the event of a conflict between the Verizon privacy policy and the AOL privacy policy, the AOL policy will control when you are on an AOL site or using an AOL product or service.  
 [Read more](https://web.archive.org/about/privacy/policy/#protectingprivacy)
 
 ###  Information We Collect and How We Use It
@@ -77,12 +77,12 @@ Specific privacy protections apply to Verizon's FiOS and other fiber-to-the-prem
 
   * ####  Relevant Advertising:
 
-Customers may opt-out of participating in relevant advertising programs on their Internet access services or their FiOS television service.  
+Customers may opt-out of participating in relevant online, mobile and tv advertising programs.  
 [Read more](https://web.archive.org/about/privacy/policy/#relad)
 
-  * ####  Business and Marketing Reports:
+  * ####  Business and Marketing Insights:
 
-Verizon Wireless customers may opt-out of allowing Verizon Wireless to use their information to create aggregated business and marketing reports.  
+Verizon Wireless customers may opt-out of allowing Verizon Wireless to use their information to create aggregated business and marketing insights.  
 [Read more](https://web.archive.org/about/privacy/policy/#inforeport)
 
   * ####  AOL:
@@ -110,7 +110,7 @@ Verizon Privacy Office
 1300 I Street, NW  
 Suite 400 West  
 Washington, DC 20005  
-Fax: 202-789-1432  
+Fax: 202-289-6781  
 Email: [privacyoffice@verizon.com ](mailto:privacyoffice@verizon.com)
 
 ###  Accessing and Updating Your Information
@@ -126,6 +126,6 @@ If Verizon elects to use or disclose information that identifies you as an indiv
 Verizon is a licensee of the TRUSTe Privacy Program.  
 [Read more](https://web.archive.org/about/privacy/policy/#truste)
 
-Updated June, 2015
+Updated October, 2015
 
 © 2009, 2011-2015 Verizon. All Rights Reserved.
