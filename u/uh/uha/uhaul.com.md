@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uhaul.com privacy policy that was archived on 2015-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150625085109id_/http%3A//www.uhaul.com/Legal/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uhaul.com privacy policy that was archived on 2015-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151211163026id_/http%3A//www.uhaul.com/Legal/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # U-Haul: Privacy policy
 
@@ -11,6 +11,8 @@ Web Team Associates, Inc. has created this statement in order to demonstrate our
 **No personally identifiable customer information is sold or traded to unaffiliated companies.**
 
 Users have the option to not receive future communications. Please [send an email](https://web.archive.org/Contact/Email.aspx) asking to be removed. 
+
+To stop receiving SMS messages, just text “ **STOP** ” to 84285. After you send the SMS message " **STOP** " to us, we will send you an SMS message to confirm that you have been unsubscribed. After this, you will no longer receive SMS messages from us. If at any time you forget what keywords are supported, just text "HELP" to 84285. After you send the SMS message "HELP" to us, we will respond with instructions on how to use our service as well as how to unsubscribe. 
 
 We use your IP address to help diagnose problems with our server and to administer our website. Your IP address and email address are used to help identify you and your shopping cart and to gather broad demographic information. 
 
@@ -87,6 +89,10 @@ The purpose of this privacy policy is to inform you about why we collect, use an
 The purposes for U-Haul's collection, use and disclosure of your Personal Information: 
 
 Purposes: We need to collect, use and disclose certain of your Personal Information in order for you to make a reservation for and/or rental of, equipment and/or storage space, or for the purchase and/or use of products or other services from us, or for your personal online access to U-Haul services and products at uhaul.com (collectively "Our Services") 
+
+Users have the option to not receive future communications. Please [send an email](https://web.archive.org/Contact/Email.aspx) asking to be removed. 
+
+To stop receiving SMS messages, just text “ **STOP** ” to 84285. After you send the SMS message " **STOP** " to us, we will send you an SMS message to confirm that you have been unsubscribed. After this, you will no longer receive SMS messages from us. If at any time you forget what keywords are supported, just text "HELP" to 84285. After you send the SMS message "HELP" to us, we will respond with instructions on how to use our service as well as how to unsubscribe. 
 
 ### Collection of Personal Information
 
