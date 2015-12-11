@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the kalynskitchen.com privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612000450id_/http%3A//kalynskitchen.blogspot.com/2005/04/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kalynskitchen.com privacy policy that was archived on 2015-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151211140754id_/http%3A//kalynskitchen.blogspot.com/2005/04/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy | Kalyn's Kitchen®
+# Kalyn's Kitchen®: Privacy Policy
 
 **General Statement About Privacy:**  
 Kalyn's Kitchen is committed to maintaining the privacy and protection of your personal information when you visit this website. This policy outlines what information may be collected when you visit the site, and how that information is used. When you continue to visit this website, you are consenting to the practices described in this policy.
