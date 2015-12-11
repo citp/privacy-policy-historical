@@ -1,12 +1,6 @@
-> *The following text is extracted and transformed from the np.edu.sg privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629065750id_/http%3A//www.np.edu.sg/home/TermsAndPrivacy/Pages/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the np.edu.sg privacy policy that was archived on 2015-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151211055423id_/http%3A//www.np.edu.sg/home/TermsAndPrivacy/Pages/privacy.aspx) for the most accurate reproduction.*
 
 # Ngee Ann Polytechnic Privacy Statement
-
-  
-  
-  
----  
-| 
 
 ​​​ **NGEE ANN POLYTECHNIC PRIVACY STATEMENT**
 
@@ -66,6 +60,4 @@
 
 NP will take reasonable steps to protect your data from unauthorised disclosure. Data will be securely disposed when the purpose has been met.
 
-|   
-  
 Last updated: Tuesday, 5 May 2015 
