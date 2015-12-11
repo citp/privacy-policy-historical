@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the byo.com privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612121506id_/https%3A//byo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the byo.com privacy policy that was archived on 2015-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151211175151id_/http%3A//byo.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
