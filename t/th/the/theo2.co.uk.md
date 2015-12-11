@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theo2.co.uk privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611112003id_/http%3A//www.theo2.co.uk/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theo2.co.uk privacy policy that was archived on 2015-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151211184845id_/http%3A//www.theo2.co.uk/legal/privacy) for the most accurate reproduction.*
 
 # Privacy | The O2
 
