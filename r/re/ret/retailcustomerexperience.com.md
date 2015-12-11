@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the retailcustomerexperience.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623170334id_/http%3A//www.retailcustomerexperience.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the retailcustomerexperience.com privacy policy that was archived on 2015-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151211140454id_/http%3A//www.retailcustomerexperience.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Retail Customer Experience
 
