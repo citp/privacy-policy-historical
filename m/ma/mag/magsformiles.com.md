@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the magsformiles.com privacy policy that was archived on 2015-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150506085536id_/http%3A//www.timeinc.net/subs/privacy/synapse/magsformiles.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the magsformiles.com privacy policy that was archived on 2015-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151212002051id_/http%3A//www.timeinc.net/subs/privacy/synapse/magsformiles.html) for the most accurate reproduction.*
 
 # Magazines for Miles Privacy Policy
 
@@ -61,9 +61,9 @@ Although we take appropriate measures to safeguard against unauthorized disclosu
 |    
   
 **Privacy Options**  
-If you prefer not to receive traditional mail or other off-line promotions from this or any other Time Inc. property or any companies not owned by Time Inc., please [click here](http://magsformiles.com/dm.php). |    
+If you prefer not to receive traditional mail or other off-line promotions from this or any other Time Inc. property or any companies not owned by Time Inc., please [click here](mailto:privacy@synapsemail.com). |    
   
-If you prefer not to receive e-mail marketing from this or any other Time Inc. property or any companies not owned by Time Inc., please [click here](http://magsformiles.com/dm.php). 
+If you prefer not to receive e-mail marketing from this or any other Time Inc. property or any companies not owned by Time Inc., please [click here](http://synapse.p.delivery.net/m/p/syn/pref/preference_center.asp?bid=M4M&s). 
 
 Time Inc. sites will not use or transfer personally identifiable information provided to us in ways unrelated to the ones described above without also providing you with an opportunity to opt out of these unrelated uses. 
 
