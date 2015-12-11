@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the kejsa.com privacy policy that was archived on 2015-04-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150426165132id_/http%3A//www.bakoos.com/dashboards/privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the kejsa.com privacy policy that was archived on 2015-12-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151211195852id_/http%3A//www.bakoos.com/dashboards/privacy_policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class=""><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -14,15 +14,16 @@
 <!-- Css Section [All custom and bootstrap css files are 
 
 imported into single style.css file. ]-->
-<link rel="stylesheet" type="text/css" href="/css/style.css"><link href="http://fonts.googleapis.com/css?family=Open&#10;&#10;+Sans:400,300,300italic,600,700" rel="stylesheet" type="text/css">
+<link rel="stylesheet" type="text/css" href="/ccss/style.css"><link href="http://fonts.googleapis.com/css?family=Open&#10;&#10;+Sans:400,300,300italic,600,700" rel="stylesheet" type="text/css">
 <link href="http://fonts.googleapis.com/css?family=Raleway:400,100" rel="stylesheet" type="text/css">
 
 
 
 <!--CSS SECTION END-->
-<link rel="stylesheet" type="text/css" href="/css/jquery.fancybox.css"><link rel="stylesheet" type="text/css" href="/css/font-awesome.css"><link rel="stylesheet" type="text/css" href="/css/font-awesome.min.css"><link rel="stylesheet" type="text/css" href="/css/jquery-ui.css"><link rel="stylesheet" type="text/css" href="/css/blue.css"><script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<link rel="stylesheet" type="text/css" href="/ccss/jquery.fancybox.css"><link rel="stylesheet" type="text/css" href="/ccss/font-awesome.css"><link rel="stylesheet" type="text/css" href="/ccss/font-awesome.min.css"><link rel="stylesheet" type="text/css" href="/ccss/jquery-ui.css"><link rel="stylesheet" type="text/css" href="/ccss/blue.css"><script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
 <script type="text/javascript" src="/js/jquery-2.0.3.min.js"></script>
-<script type="text/javascript" src="/js/bootstrap.min.js"></script><script type="text/javascript" src="/js/jquery.tablesorter.min.js"></script><script type="text/javascript" src="/js/jquery.tablesorter.widgets.min.js"></script><script type="text/javascript" src="/js/jquery.bxslider.min.js"></script><script type="text/javascript" src="/js/custom.js"></script><script type="text/javascript" src="/js/common.js"></script><script type="text/javascript" src="/js/jquery.fancybox.js"></script><script type="text/javascript" src="/js/jquery.validate.js"></script><script type="text/javascript" src="/js/jquery-1.10.2.js"></script><script type="text/javascript" src="/js/jquery-ui.js"></script><style type="text/css">.fancybox-margin{margin-right:0px;}</style></head>
+<script type="text/javascript" src="/js/bootstrap.min.js"></script><script type="text/javascript" src="/js/jquery.tablesorter.min.js"></script><script type="text/javascript" src="/js/jquery.tablesorter.widgets.min.js"></script><script type="text/javascript" src="/js/jquery.bxslider.min.js"></script><script type="text/javascript" src="/js/custom.js"></script><script type="text/javascript" src="/js/common.js"></script><script type="text/javascript" src="/js/jquery.fancybox.js"></script><script type="text/javascript" src="/js/jquery.validate.js"></script><script type="text/javascript" src="/js/jquery-1.10.2.js"></script><script type="text/javascript" src="/js/jquery-ui.js"></script>
+<style type="text/css">.fancybox-margin{margin-right:0px;}</style></head>
 
 <body class="loggedIn" style="">
 	<div id="img_load" style="display: none;"><img src="http://www.bakoos.com/img/loading.gif"></div> 
@@ -169,6 +170,8 @@ display:block
                                       <option value="53">Dominican Republic</option>
                                 						
                                       <option value="110">DR Congo</option>
+                                						
+                                      <option value="243">dsfsd</option>
                                 						
                                       <option value="54">Ecuador</option>
                                 						
@@ -497,7 +500,8 @@ display:block
 		                    <ul>
 		                      <li>
 		                        <div class="formBox">
-		                          <input type="text" placeholder="username" name="username">
+		                          <input type="text" placeholder="username" name="username" id="log_header_username">
+		                           <label class="error_cls" id="loghead_username" style="color:red"></label>
 		                          <label>
 		                              <input type="checkbox" name="store" id="store">
 		                            Remember me</label>
@@ -505,11 +509,12 @@ display:block
 		                      </li>
 		                      <li>
 		                        <div class="formBox">
-		                          <input type="password" placeholder="password" name="password">
+		                          <input type="password" placeholder="password" name="password" id="log_header_pass">
+		                            <label class="error_cls" id="loghead_pass" style="color:red"></label><br>
 		                          <a href="http://www.bakoos.com/registrations/forgot/">Forgot Password?</a> </div>
 		                      </li>
 		                      <li>
-		                        <input type="submit" value="Login" name="login" class="btn">
+		                        <input id="top_head_logtbn" type="submit" value="Login" name="login" class="btn">
 		                      </li>
 		                    </ul>
                 		</form>
@@ -671,7 +676,7 @@ float: left;
       </div>
       
     </div>
-<div class="bakoosCookie" style="display:block;">
+<div class="bakoosCookie" style="display:none;">
 <p class="usr_agree_text col-md-9">We use cookies to improve your experience on our website. By continuing to browse this website you consent to our use of cookies in accordance with our privacy policy.
 <a href="http://www.bakoos.com/dashboards/privacy_policy"><strong>Read our Privacy and Cookies Policy</strong></a></p>
 <button title="This preference is stored in a cookie" id="bakoos-hide" class="button" name="bkcookie" value="Continue" type="submit">Continue</button>
@@ -760,6 +765,37 @@ function changeImageSlider(fid,rid)
 	
 }
 </script>
+<script>
+	  $('#top_head_logtbn').click(function() {
+     var error = 0;
+
+        if($("#log_header_username").val() == ""){
+        $('#log_header_username').addClass('error'); error++;    
+        $("#loghead_username").text("Username is Required");
+        }else{
+        $('#log_header_username').removeClass('error');
+        $("#loghead_username").text("");
+        }
+
+        if($("#log_header_pass").val() == ""){
+        $('#log_header_pass').addClass('error'); error++;     
+        $("#loghead_pass").text("Password is Required");
+        }else {
+        $('#log_header_pass').removeClass('error');
+        $("#loghead_pass").text("");
+        } 
+
+       
+        if(error){
+        return false;
+        }
+
+
+  });
+
+</script>
+
+
 
 
 
