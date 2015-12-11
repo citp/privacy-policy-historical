@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the occipital.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530142921id_/http%3A//occipital.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the occipital.com privacy policy that was archived on 2015-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151212003822id_/http%3A//occipital.com/legal/privacy) for the most accurate reproduction.*
 
 # Occipital - Privacy
 
@@ -13,8 +13,8 @@ Occipital Privacy Policy
   2. Definitions.  As used in this Policy,
 
 
-  1. “Service” means any applications owned by Occipital, LLC, and any services that the applications interoperate with.
-  2. “We” or “Occipital” means Occipital, LLC, and “you” means the individual using the Service
+  1. “Service” means any applications owned by Occipital, Inc., and any services that the applications interoperate with.
+  2. “We” or “Occipital” means Occipital, Inc., and “you” means the individual using the Service
   3. “Content” means any photographs, pictures, content, text, artwork, files, programs, sound, graphics, video, data, and other similar materials
   4. “Media” means any means of conveying information, whether now known or hereafter devised
 
@@ -39,7 +39,7 @@ Occipital Privacy Policy
   2. We may use the information for support, to develop new features, and to improve the overall quality of any of our Services.
   3. We may use information such as email to communicate with you for certain necessary reasons as account creation, forgotten passwords, security announcements, and notifications related to usage of the Service. Additionally, with your permission, we may also occasionally send you promotional messages
   4. We may also display the information collected in a non-personally identifiable, aggregate form for purposes such as demonstrating usage patterns or the effectiveness of a particular feature of the Service.
-  5. We do NOT sell or rent any personally identifiable information about our users to any third party; except that we may sell or transfer your personally identifiable information to third parties in connection with any merger, acquisition, reorganization, change in capital structure or sale of all or substantially all of the assets of Occipital, LLC.
+  5. We do NOT sell or rent any personally identifiable information about our users to any third party; except that we may sell or transfer your personally identifiable information to third parties in connection with any merger, acquisition, reorganization, change in capital structure or sale of all or substantially all of the assets of Occipital, Inc.
 
 
   5. Information sharing and onward transfer
@@ -83,7 +83,7 @@ Occipital Privacy Policy
   10. Changes to our Privacy Policy
 
 
-  1. This policy was last modified on May 7, 2011.
+  1. This policy was last modified on September 9, 2013.
   2. If we decide to change our privacy policy, we will update modification date above.
 
 
