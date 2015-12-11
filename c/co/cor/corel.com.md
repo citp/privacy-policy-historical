@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the corel.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610050354id_/http%3A//www.corel.com/us/corel-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the corel.com privacy policy that was archived on 2015-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151211012114id_/http%3A//www.corel.com/us/corel-privacy-policy) for the most accurate reproduction.*
 
-# Corel Privacy Policy - Legal Information
+# Corel Privacy Policy | Legal Information
 
-At Corel, we recognize and value our customers’ privacy. As such, Corel is committed to ensuring that its customers are informed how their personal information will be used and kept secure. This privacy policy applies to information collected by Corel and its affiliates (“Corel”) through the websites, products and services that display this privacy policy, including products and services that may be provided by Corel off-line. This privacy policy applies to all Corel products and services currently offered by Corel.
+At Corel, we recognize and value our customers' privacy. As such, Corel is committed to ensuring that its customers are informed how their personal information will be used and kept secure. This privacy policy applies to information collected by Corel and its affiliates (“Corel”) through the websites, products and services that display this privacy policy, including products and services that may be provided by Corel off-line. This privacy policy applies to all Corel products and services currently offered by Corel.
 
 Corel will not contact you for marketing purposes unless you have opted to be contacted. You can change your preferences about receiving marketing communications from us at any time by signing into your account through our website using your credentials (email address and password) and clicking on “Manage Your Communications Preferences.”
 
 Except as set forth in Section 2, Section 6, Section 7 and Section 16 of this privacy policy, Corel will not share any of your personal information with third parties without first obtaining your consent.
 
-**BY VISITING COREL’S WEBSITES, OR BY USING OR PURCHASING THE PRODUCTS AND SERVICES OFFERED BY COREL, YOU ACCEPT THE PRACTICES DESCRIBED IN THIS PRIVACY POLICY AND CONSENT TO COREL’S USE OF YOUR INFORMATION IN THE MANNER DESCRIBED IN THIS PRIVACY POLICY.**
+**BY VISITING COREL'S WEBSITES, OR BY USING OR PURCHASING THE PRODUCTS AND SERVICES OFFERED BY COREL, YOU ACCEPT THE PRACTICES DESCRIBED IN THIS PRIVACY POLICY AND CONSENT TO COREL'S USE OF YOUR INFORMATION IN THE MANNER DESCRIBED IN THIS PRIVACY POLICY.**
 
 ### 1\. INFORMATION THAT COREL COLLECTS
 
@@ -54,7 +54,7 @@ Corel may use your personal information for the following purposes:
 
 ###### Product Registration
 
-Information you provide upon registration will be used to keep a record of your product license and will assist Corel in providing support to you when you contact Corel’s customer service department. Corel will also use this information to inform you of any upgrades, new products, promotions or other information that may be of interest to you.
+Information you provide upon registration will be used to keep a record of your product license and will assist Corel in providing support to you when you contact Corel's customer service department. Corel will also use this information to inform you of any upgrades, new products, promotions or other information that may be of interest to you.
 
 ###### Product Installation and Use
 
@@ -62,7 +62,7 @@ Information gathered during installation may be used by Corel to (i) authenticat
 
 ###### Product Purchases
 
-When you purchase products from Corel’s eStore or directly from Corel’s customer service department, Corel will use your information to process payment and ship the product to you.
+When you purchase products from Corel's eStore or directly from Corel's customer service department, Corel will use your information to process payment and ship the product to you.
 
 ###### Newsletters
 
@@ -74,7 +74,7 @@ It is important for us to receive feedback from our customers about our products
 
 ###### Internal Analysis
 
-We may use the information you provide us with for our own internal statistical and analytical purposes, to evaluate and enhance users’ experience of the Site by identifying customer preferences and purchasing trends that we may use for marketing purposes and in respect of operations and development.
+We may use the information you provide us with for our own internal statistical and analytical purposes, to evaluate and enhance users' experience of the Site by identifying customer preferences and purchasing trends that we may use for marketing purposes and in respect of operations and development.
 
 ###### Updating information
 
@@ -82,7 +82,7 @@ We may contact you to ensure that the information we have in our records is stil
 
 ###### Special Collaborative Programs
 
-We may collaborate with another company to provide you with a unique product or service (a “Collaborative Program”). The use of your information by Corel and its collaborators is limited to the specific Collaborative Program that you have joined or elected to use. By using a Collaborative Program, you have given Corel and the collaborating company permission to collect information and provide you with updates, promotions and new Collaborative Program product or service information relating only to the Collaborative Program. To the extent personal information is collected by a third-party collaborator, we will use reasonable commercial efforts to advise you of this fact, and all information collected by such collaborator will be governed by the collaborator’s privacy policy.
+We may collaborate with another company to provide you with a unique product or service (a “Collaborative Program”). The use of your information by Corel and its collaborators is limited to the specific Collaborative Program that you have joined or elected to use. By using a Collaborative Program, you have given Corel and the collaborating company permission to collect information and provide you with updates, promotions and new Collaborative Program product or service information relating only to the Collaborative Program. To the extent personal information is collected by a third-party collaborator, we will use reasonable commercial efforts to advise you of this fact, and all information collected by such collaborator will be governed by the collaborator's privacy policy.
 
 ### 3\. AUTOMATICALLY COLLECTED INFORMATION
 
@@ -96,7 +96,7 @@ In addition, certain of our products may allow you to store, send, receive, edit
 
 ### 5\. FACEBOOK CONNECT
 
-Corel offers Facebook users the opportunity to interact with their friends and share information on Facebook using Facebook Connect. If you elect to link your account with us with your Facebook account, you grant us permission to post information to your Facebook account and to access your Facebook profile information, and to use this information in accordance with this privacy policy. Please refer to Facebook’s privacy policy for information concerning how Facebook handles your personal information and to the privacy settings in your Facebook account to manage your preferences relating to your Facebook account.
+Corel offers Facebook users the opportunity to interact with their friends and share information on Facebook using Facebook Connect. If you elect to link your account with us with your Facebook account, you grant us permission to post information to your Facebook account and to access your Facebook profile information, and to use this information in accordance with this privacy policy. Please refer to Facebook's privacy policy for information concerning how Facebook handles your personal information and to the privacy settings in your Facebook account to manage your preferences relating to your Facebook account.
 
 ### 6\. SHARING OF INFORMATION WITH THIRD PARTIES
 
@@ -116,11 +116,11 @@ As a registered Corel customer, you have the opportunity to receive news and spe
 
 ###### Service Providers
 
-We occasionally hire other companies to provide services on our behalf, such as processing transactions, including credit card transactions, handling the processing and delivery or mailings, providing customer support, hosting websites, collecting, storing or removing your information, or performing statistical analysis of our products or services. We sometimes need to share your information with these other companies in order for them to provide the applicable services, such as sharing your information with our third party e-commerce provider to process your purchase transactions. These companies are only provided with the information that is necessary for them to provide the services and they are not authorized by us to use your information for any purpose other than delivering the services that have been requested by Corel in accordance with Corel’s instructions and policies.
+We occasionally hire other companies to provide services on our behalf, such as processing transactions, including credit card transactions, handling the processing and delivery or mailings, providing customer support, hosting websites, collecting, storing or removing your information, or performing statistical analysis of our products or services. We sometimes need to share your information with these other companies in order for them to provide the applicable services, such as sharing your information with our third party e-commerce provider to process your purchase transactions. These companies are only provided with the information that is necessary for them to provide the services and they are not authorized by us to use your information for any purpose other than delivering the services that have been requested by Corel in accordance with Corel's instructions and policies.
 
 ### 7\. LEGAL DISCLOSURE
 
-Although we make every effort to preserve user privacy, we may need to disclose personal information when required by law wherein we have a good-faith belief that such action is necessary to comply with a current judicial proceeding, a court order or other legal process or to protect Corel’s, our users’ or third parties’ rights, property or safety.
+Although we make every effort to preserve user privacy, we may need to disclose personal information when required by law wherein we have a good-faith belief that such action is necessary to comply with a current judicial proceeding, a court order or other legal process or to protect Corel's, our users' or third parties' rights, property or safety.
 
 ### 8\. SECURITY
 
@@ -132,13 +132,13 @@ Orders received by the Corel eStore (including credit card information) are encr
 
 ### 10\. COOKIES
 
-A cookie is a text-only string of information that a website transfers to the cookie file of the browser of your computer’s hard disk so that the website can remember who you are and other details. Cookies may be set by a website or originate with third parties, such as advertisers. A cookie itself is not designed or intended to read any information from a user’s computer (other than the contents of the cookie). A cookie is simply an identifier used by the website that originally placed it on your hard drive. The actual contents of the cookie information can be retrieved by the same server to identify the computer and subsequently to customize, track, or regulate the use of a site based on information stored on the host server.
+A cookie is a text-only string of information that a website transfers to the cookie file of the browser of your computer's hard disk so that the website can remember who you are and other details. Cookies may be set by a website or originate with third parties, such as advertisers. A cookie itself is not designed or intended to read any information from a user's computer (other than the contents of the cookie). A cookie is simply an identifier used by the website that originally placed it on your hard drive. The actual contents of the cookie information can be retrieved by the same server to identify the computer and subsequently to customize, track, or regulate the use of a site based on information stored on the host server.
 
 We may make use of cookies on our website. We use cookies to allow us to automate the access and the data entry functions of our website and to correlate online ordering information for purchases you may make while at the website (if any), tailor our website to your preferences or interests, or customize promotions or marketing. In addition, cookies allow us to track use of our website to determine those areas which are useful or popular and those that are not thereby enabling us to improve and update our website effectively. Approved advertising partners or other online services collaborators from Collaborative Programs may use their own cookies.
 
 Most web browsers can either alert you to the use of cookies or refuse to accept cookies entirely. You have the ability to accept or decline cookies by modifying the settings in your browser. However, you may not be able to use all the interactive features of the website if cookies are disabled.
 
-For more information on how to disable cookies you should consult the documentation or instructions that accompanied your web browser or by visiting the Federal Trade Commission’s website at <http://www.ftc.gov/ftc/cookies.shtm>.
+For more information on how to disable cookies you should consult the documentation or instructions that accompanied your web browser or by visiting the Federal Trade Commission's website at??<http://www.ftc.gov/ftc/cookies.shtm>.
 
 We do not use flash cookies.
 
@@ -148,17 +148,17 @@ We may offer links from our website to other websites (which may be hosted by th
 
 ### 12\. CHAT ROOMS, NEWGROUPS, BLOGS AND OTHER INTERACTIVE LOCATIONS
 
-Corel’s website may have chat rooms, newsgroups, blogs, or other forums that permit individuals to interact online. Some of these forums may allow you to post a profile picture, share your gender and age and display your user name or real name (if you choose to display it). Any information you post in online forums will be made public and Corel cannot control nor is it responsible for the use any third parties may make of this information.
+Corel's website may have chat rooms, newsgroups, blogs, or other forums that permit individuals to interact online. Some of these forums may allow you to post a profile picture, share your gender and age and display your user name or real name (if you choose to display it). Any information you post in online forums will be made public and Corel cannot control nor is it responsible for the use any third parties may make of this information.
 
 ### 13\. CHILDREN
 
-Corel’s website is a general audience site that is neither designed nor intended to collect personal information from children who are under the age of 13. Corel does not sell products for purchase by children. We sell children’s products for purchase by adults. We do not knowingly request personal information from anyone under the age of 13 without verifiable parental consent. To ensure compliance with the Children’s Online Privacy Protection Act, children under the age of 13 should not access this site or provide any personal information to this site. We encourage parents and guardians to supervise and join their children in exploring the Internet and to help us protect their privacy by instructing them not to provide personal information over the Internet without parental permission. Parents should additionally be aware of a growing variety of software capable of filtering online information to reflect their own choices and guidelines. If we become aware that a user is under the age of 13 and has provided personal information to us without prior verifiable parental consent, we will remove such personal information from our records.
+Corel's website is a general audience site that is neither designed nor intended to collect personal information from children who are under the age of 13. Corel does not sell products for purchase by children. We sell children's products for purchase by adults. We do not knowingly request personal information from anyone under the age of 13 without verifiable parental consent. To ensure compliance with the Children's Online Privacy Protection Act, children under the age of 13 should not access this site or provide any personal information to this site. We encourage parents and guardians to supervise and join their children in exploring the Internet and to help us protect their privacy by instructing them not to provide personal information over the Internet without parental permission. Parents should additionally be aware of a growing variety of software capable of filtering online information to reflect their own choices and guidelines. If we become aware that a user is under the age of 13 and has provided personal information to us without prior verifiable parental consent, we will remove such personal information from our records.
 
 ### 14\. ACCESS, MODIFICATION AND ACCURACY OF INFORMATION
 
 We take reasonable steps to ensure that the information that we receive from you is accurate and kept up to date. You have the right to access your personal information, to verify its accuracy, and to correct inaccurate information. You can change your preferences at any time by signing into your account through our website with your credentials (email address and password) and clicking on “Your Account Information.” You can also access and correct errors in your personal information by contacting us at [privacy@corel.com](mailto:privacy@corel.com).
 
-If you do not want to be contacted for product, service or marketing initiatives, or if you would like to be removed from any direct marketing initiatives, corporate surveys, telemarketing or direct mail or e-mail lists, or if you would otherwise like to limit our use or disclosure of your personal information, please contact us at [privacy@corel.com](mailto:privacy@corel.com) or change your preferences by signing into your account through our website using your credentials (email address and password) and clicking on “Manage Your Communications Preferences.”
+If you do not want to be contacted for product, service or marketing initiatives, or if you would like to be removed from any direct marketing initiatives, corporate surveys, telemarketing or direct mail or e-mail lists, or if you would otherwise like to limit our use or disclosure of your personal information, please contact us at??[privacy@corel.com](mailto:privacy@corel.com)??or change your preferences by signing into your account through our website using your credentials (email address and password) and clicking on “Manage Your Communications Preferences.”
 
 Some of our products display dynamic on-line communications (for example, through a message center), and you may elect not to receive these communications (e.g. such as product updates) by altering your message preferences in the specific product. However, any alterations you make to these product-specific message preferences will not change your general user preferences with regard to the collection and use of your personal information by Corel. Alternatively, altering your general user preferences with regard to the collection and use of your personal information by Corel will not change your product-specific message preferences.
 
@@ -188,7 +188,7 @@ We are always looking for ways to improve our business and our practices. Conseq
 
 ### 20\. CONTACT US
 
-Any requests for access to your information, modification of your information or questions in respect of this policy should be sent to the following email address [privacy@corel.com](mailto:privacy@corel.com).
+Any requests for access to your information, modification of your information or questions in respect of this policy should be sent to the following email address??[privacy@corel.com](mailto:privacy@corel.com).
 
 Corel offers you other methods to opt out of receiving communications generated by Corel. For example, you may “unsubscribe” from emails by following the process listed in the email to unsubscribe. You can also change your customer profile on the Corel website to indicate that you no longer wish to receive certain information from Corel by signing into your account through our website using your credentials (email address and password) and clicking on “Manage Your Communications Preferences.”
 
