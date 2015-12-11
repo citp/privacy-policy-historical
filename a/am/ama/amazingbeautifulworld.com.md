@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amazingbeautifulworld.com privacy policy that was archived on 2015-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150526175900id_/http%3A//amazingbeautifulworld.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amazingbeautifulworld.com privacy policy that was archived on 2015-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151211034832id_/http%3A//amazingbeautifulworld.com/privacy.html) for the most accurate reproduction.*
 
 # amazingbeautifulworld.com | Privacy Policy
 
