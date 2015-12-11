@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cookthefood.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608163020id_/http%3A//cookthefood.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cookthefood.com privacy policy that was archived on 2015-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151212002919id_/http%3A//cookthefood.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | CookTheFood
 
