@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the answerbag.com privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628192546id_/http%3A//www.answerbag.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the answerbag.com privacy policy that was archived on 2015-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151211111303id_/http%3A//www.answerbag.com/privacy) for the most accurate reproduction.*
 
 # Answerbag
 
