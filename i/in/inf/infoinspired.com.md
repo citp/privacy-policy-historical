@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the infoinspired.com privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612124050id_/http%3A//infoinspired.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the infoinspired.com privacy policy that was archived on 2015-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151211145653id_/http%3A//infoinspired.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Inspired by digital info
 
 We are furnishing below the privacy practices we follow at [Info Inspired](http://infoinspired.com/ "Info Inspired") (http://infoinspired.com) in a concise manner but that well covers all the requisite information. The intention, our readers should know about our privacy practices by going through few paragraphs in a clear cut manner. First of all make us clear that we collect some necessary personal information. Below are the details of personal information which is being received and collected by us at **Info Inspired** and the use of it.
 
