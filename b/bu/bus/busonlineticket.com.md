@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the busonlineticket.com privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611165125id_/http%3A//www.busonlineticket.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the busonlineticket.com privacy policy that was archived on 2015-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151211053541id_/http%3A//www.busonlineticket.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - BusOnlineTicket.com
+# Privacy Policy | BusOnlineTicket.com
 
 We value the trust you place in us. That’s why we insist upon the highest standards for secure transactions and customer information privacy. Please read the following statement to learn about our information gathering and dissemination practices.
 
@@ -29,8 +29,9 @@ If you choose to post reviews and tips about buses or post messages or leave fee
 
 If you send us personal correspondence, such as emails or letters, or if other users or third parties send us correspondence about your activities or postings on the Website, we may collect such information into a file specific to you.
 
-We collect personally identifiable information (email address, name, phone number.) from you when you set up a free account with us. We do use your contact information to send you offers based on your previous orders and your interests.  
-Express Check Out
+We collect personally identifiable information (email address, name, phone number.) from you when you set up a free account with us. We do use your contact information to send you offers based on your previous orders and your interests.
+
+**Express Check Out**
 
 With your explicit approval and to ease the payment process we may from time to time prompt you to allow us to save your credit/debit card information. With the help of Express check out, you can pay by credit/debit card using just one click. This will expedite the payment process and will only be done with your explicit approval. The details are stored on encrypted servers and you have our word that they will be safeguarded to the best of our ability.
 
