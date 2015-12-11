@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bis.org privacy policy that was archived on 2015-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150614071431id_/https%3A//www.bis.org/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bis.org privacy policy that was archived on 2015-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151211222634id_/https%3A//www.bis.org/privacy.htm) for the most accurate reproduction.*
 
 # Privacy policy
 
@@ -7,23 +7,23 @@
   
 
 
-  1. The following statement applies to the BIS website (www.bis.org) and describes the policy of the BIS on the collection and use of personal information \- ie information which personally identifies a User, such as a User's name, address, e-mail address or phone number. Links to other websites from this website are not covered by this policy.   
+  1. The following statement applies to the BIS website (www.bis.org) and describes the policy of the BIS on the collection and use of personal information \- ie information which personally identifies a User, such as a User's name, address, e-mail address or phone number. Links to other websites from this website are not covered by this policy.  
  
   2. The BIS makes a record of every visit by a User to this website, and logs the following information for statistical purposes so that it can continuously improve the structure of the site: 
-    * the User's internet protocol (IP) address or domain name, depending on the User's server environment (but not the User's e-mail address); 
-    * the date and time of the visit; 
-    * the pages accessed by the User and the documents downloaded; 
-    * the web page or website that directs the User to the BIS website; 
-    * any central bank website the User visits using a link from this website; and 
-    * the type of browser used. 
-  3. The BIS uses "cookies" to collect information about how its website is being used. A cookie is a text-only string of information that is transferred from the BIS website to the cookie file of the browser on the hard disk of the User's computer when the User visits the BIS website. A cookie cannot read data off the User's hard disk, read cookie files created by other websites or identify the User's name or e-mail address.   
+    * the User's internet protocol (IP) address or domain name, depending on the User's server environment (but not the User's e-mail address);
+    * the date and time of the visit;
+    * the pages accessed by the User and the documents downloaded;
+    * the web page or website that directs the User to the BIS website;
+    * any central bank website the User visits using a link from this website; and
+    * the type of browser used.
+  3. The BIS uses "cookies" to collect information about how its website is being used. A cookie is a text-only string of information that is transferred from the BIS website to the cookie file of the browser on the hard disk of the User's computer when the User visits the BIS website. A cookie cannot read data off the User's hard disk, read cookie files created by other websites or identify the User's name or e-mail address.  
  
-  4. There are two types of cookies: "session" cookies and "persistent" cookies. The BIS uses both. A session cookie remains in the cookie file of the User's browser until he or she leaves the BIS website. A persistent cookie is stored in the User's hard drive until it expires (persistent cookies sent by the BIS website have a 12-month expiry date) or until the User deletes the cookie. The BIS uses both types of cookies to collect information about Users' surfing behaviour when they access the website.   
+  4. There are two types of cookies: "session" cookies and "persistent" cookies. The BIS uses both. A session cookie remains in the cookie file of the User's browser until he or she leaves the BIS website. A persistent cookie is stored in the User's hard drive until it expires (persistent cookies sent by the BIS website have a 12-month expiry date) or until the User deletes the cookie. The BIS uses both types of cookies to collect information about Users' surfing behaviour when they access the website.  
  
-  5. Most web browsers automatically accept cookies, but the browser can usually be set to prevent this. Users may wish to consult the Help file of their web browser to find out more about this option.   
+  5. Most web browsers automatically accept cookies, but the browser can usually be set to prevent this. Users may wish to consult the Help file of their web browser to find out more about this option.  
  
-  6. If a User subscribes to the BIS's e-mail alert service, the BIS logs the User's e-mail address, password and selected information category (eg "Articles and speeches", "Basel Committee") and delivery option (eg "daily" or "weekly"). The BIS also logs the User's organisation and country if he or she provides this additional information. The information is used exclusively for the purpose of administering the e-mail alert service and is deleted when the User cancels the subscription. The only third party with access to the information is the provider of the external server that hosts the database containing the information. The contract between the BIS and the third party contains strict confidentiality obligations with respect to the information.   
+  6. If a User subscribes to the BIS's e-mail alert service, the BIS logs the User's e-mail address, password and selected information category (eg "Articles and speeches", "Basel Committee") and delivery option (eg "daily" or "weekly"). The BIS also logs the User's organisation and country if he or she provides this additional information. The information is used exclusively for the purpose of administering the e-mail alert service and is deleted when the User cancels the subscription. The only third party with access to the information is the provider of the external server that hosts the database containing the information. The contract between the BIS and the third party contains strict confidentiality obligations with respect to the information.  
  
-  7. If a User applies for employment at the BIS by completing and submitting an online application form, the information provided is used exclusively for the purpose of BIS recruitment (eg contacting a candidate who has been shortlisted for a vacancy). The only third party with access to the information is the provider of the external server that hosts the database containing the information. The contract between the BIS and the third party contains strict confidentiality obligations with respect to the information. 
+  7. If a User applies for employment at the BIS by completing and submitting an online application form, the information provided is used exclusively for the purpose of BIS recruitment (eg contacting a candidate who has been shortlisted for a vacancy). The only third party with access to the information is the provider of the external server that hosts the database containing the information. The contract between the BIS and the third party contains strict confidentiality obligations with respect to the information.
 
 
