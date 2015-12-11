@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the resultncutoff.in privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627013224id_/http%3A//resultncutoff.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the resultncutoff.in privacy policy that was archived on 2015-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151211231110id_/http%3A//resultncutoff.in/privacy-policy) for the most accurate reproduction.*
 
 # privacy policy - Result And Cutoff
 
@@ -52,3 +52,9 @@ http://resultncutoff.in/ has the discretion to update this privacy policy at an
 By using this Site, you signify your acceptance of this policy and terms of service. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, you can contact with us.
+
+#### Incoming search terms:
+
+  * privacypolicy-ResultAndCutoff
+
+
