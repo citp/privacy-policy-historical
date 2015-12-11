@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ddfbusty.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315014057id_/http%3A//ddfbusty.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ddfbusty.com privacy policy that was archived on 2015-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151211162648id_/http%3A//ddfbusty.com/privacy-policy.html) for the most accurate reproduction.*
 
 # DDF Busty - Privacy Policy
 
