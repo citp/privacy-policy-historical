@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the centercode.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607185234id_/http%3A//www.centercode.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the centercode.com privacy policy that was archived on 2015-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151211115125id_/http%3A//www.centercode.com/privacy) for the most accurate reproduction.*
 
 # Centercode Privacy Policy | Centercode
 
