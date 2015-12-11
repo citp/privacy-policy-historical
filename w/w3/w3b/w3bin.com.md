@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the w3bin.com privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630014248id_/http%3A//w3bin.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the w3bin.com privacy policy that was archived on 2015-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151211111510id_/http%3A//w3bin.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - W3bin.com
 
