@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the getloaded.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609023345id_/http%3A//www.getloaded.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getloaded.com privacy policy that was archived on 2015-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151211191123id_/http%3A//www.getloaded.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Getloaded
 
