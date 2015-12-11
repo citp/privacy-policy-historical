@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the appamatix.com privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612032722id_/http%3A//appamatix.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the appamatix.com privacy policy that was archived on 2015-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151211205933id_/http%3A//appamatix.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Appamatix
 
@@ -41,7 +41,7 @@ Users may find advertising or other content on our Site that link to the sites a
 
  **Google Adsense**
 
-Some of the ads may be served by Google. Google’s use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses “non personally identifiable information” and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at <http://www.google.com/privacy_ads.html>
+Some of the ads may be served by Google. Google’s use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses “non personally identifiable information” and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at [http://www.google.com/privacy_ads.html](http://appamatix.techmakaillc.netdna-cdn.com/wp-content/uploads/2014/06/privacy_ads.html)
 
  **Compliance with children’s online privacy protection act**
 
