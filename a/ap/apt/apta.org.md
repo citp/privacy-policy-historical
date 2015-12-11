@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the apta.org privacy policy that was archived on 2015-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150619183052id_/http%3A//www.apta.org/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apta.org privacy policy that was archived on 2015-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151211104029id_/http%3A//www.apta.org/PrivacyPolicy) for the most accurate reproduction.*
 
 # APTA Websites, Mobile Applications and Forums Privacy Policy
 
-We care about your privacy and have created this Privacy Policy to demonstrate our firm commitment to your privacy and to assist you in using www.apta.org, and any other websites and mobile applications we may launch in the future (collectively the "website").
+We care about your privacy and have created this Privacy Policy to demonstrate our firm commitment to your privacy and to assist you in using [www.apta.org](http://www.apta.org/ "www.apta.org"), and any other websites and mobile applications we may launch in the future (collectively the "website").
 
 This Privacy Policy is subject to change and applies only to information on the website, and not to outside sites linked to by the website. You may contact us at the following address with any questions, concerns or comments you may have:
 
@@ -12,23 +12,23 @@ Attention: Webmaster
 Alexandria, VA 22314   
 Phone: 703/684-2782 or 800/999-APTA (2782)   
 Fax: 703/684-7343   
-e-mail: webmaster@apta.org
+Email: [webmaster@apta.org](mailto:webmaster@apta.org)
 
 ## Data Collection
 
-APTA does not collect via the website names, e-mail addresses, or any other personal information unless it is voluntarily provided by site visitors. Visitors will be informed when the website requires personal information (name, address, e-mail address, telephone number, credit card number and/or other identifying information). APTA will not distribute this information to third-parties without your prior consent. 
+APTA does not collect via the website names, email addresses, or any other personal information unless it is voluntarily provided by site visitors. Visitors will be informed when the website requires personal information (name, address, email address, telephone number, credit card number and/or other identifying information). APTA will not distribute this information to third-parties without your prior consent. 
 
 Data submitted by a user will be used for the express purpose described at the point of collection in APTA's database and for statistical purposes to analyze user behavior. APTA will protect the information provided. APTA does not disclose, give, sell, or transfer personal information with third parties without the site visitor's express permission. If demographic information is given to third parties, only aggregate information will be provided. 
 
 APTA may disclose your personal information if required to do so by law or in the good-faith belief that such action is necessary to comply with any legal requirements or with a legal process, or to protect and defend the rights or property of APTA or the personal safety of APTA employees or members of the public. 
 
-## E-Mail
+## Email
 
-APTA will make every attempt to protect any personal information submitted to us electronically. However, electronic e-mail is not secure against interception. Any sensitive information submitted to the website is provided at the risk of the sender. If you are concerned that the content of your communication is especially sensitive, you may consider sending it by postal mail instead. 
+APTA will make every attempt to protect any personal information submitted to us electronically. However, electronic email is not secure against interception. Any sensitive information submitted to the website is provided at the risk of the sender. If you are concerned that the content of your communication is especially sensitive, you may consider sending it by postal mail instead. 
 
 ## Cookies
 
-Cookies are small files used to send information from our website to your Web browser. The website uses session cookies, which are destroyed when a user closes the Internet browser, and permanent cookies, which remain on the user's hard drive until manually deleted by clearing the cache. Cookies are used for many purposes, including allowing users to access member-protected content without logging in before loading each page. Permanent cookies allow users to utilize the "remember me" feature to avoid having to log in to the website after closing the previous Internet browser session. Cookies are also used in user analytics and the user's personal identity is not tracked. 
+Cookies are small files used to send information from our website to your web browser. The website uses session cookies, which are destroyed when a user closes the Internet browser, and permanent cookies, which remain on the user's hard drive until manually deleted by clearing the cache. Cookies are used for many purposes, including allowing users to access member-protected content without logging in before loading each page. Permanent cookies allow users to utilize the "remember me" feature to avoid having to log in to the website after closing the previous Internet browser session. Cookies are also used in user analytics and the user's personal identity is not tracked. 
 
 ## External Links
 
