@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mommykatandkids.com privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628213727id_/http%3A//www.mommykatandkids.com/rules-and-policies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mommykatandkids.com privacy policy that was archived on 2015-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151211195932id_/http%3A//www.mommykatandkids.com/rules-and-policies) for the most accurate reproduction.*
 
 # Rules and Privacy Policy
 
@@ -92,8 +92,7 @@ This policy was last modified on January 25, 2013
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
-http://www.mommykatandkids.com
-
+http://www.mommykatandkids.com  
 P.O. Box 222  
 Lumsden, Saskatchewan S0G 3C0  
 Canada  
