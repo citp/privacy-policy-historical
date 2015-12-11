@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the justdiy.com privacy policy that was archived on 2015-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150602005419id_/http%3A//www.justdiy.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the justdiy.com privacy policy that was archived on 2015-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151211105421id_/http%3A//www.justdiy.com/privacy-policy) for the most accurate reproduction.*
 
 # JustDIY.com
 
