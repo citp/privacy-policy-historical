@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the relevantyellow.com privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612234304id_/http%3A//www.relevantyellow.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the relevantyellow.com privacy policy that was archived on 2015-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151211150203id_/http%3A//www.relevantyellow.com/Privacy) for the most accurate reproduction.*
 
 # RelevantYellow verified business directory. Get a free optimized local business profile page.
 
@@ -89,7 +89,7 @@ We may update this privacy statement to reflect changes to our information pract
 You can contact us about this privacy statement by writing or email us at the address below:
 
 Relevant Ads, Inc   
-3611 S. Harbor Blvd. Suite 205  
+10175 Slater Av, Suite 100  
 Santa Ana, CA, United States 92704  
 Email: info@localsplash.com   
 Phone: 877-635-6225 
