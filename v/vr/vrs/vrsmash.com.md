@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vrsmash.com privacy policy that was archived on 2015-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150613010714id_/http%3A//www.vrsmash.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vrsmash.com privacy policy that was archived on 2015-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151211173405id_/http%3A//www.vrsmash.com/info/privacy) for the most accurate reproduction.*
 
 # VRSmash - Virtual Reality Porn, Videos and Games
 
@@ -45,4 +45,4 @@ Unfortunately, the transmission of information via the Internet is not completel
 
 **YOUR RIGHTS**
 
-You are entitled to access and correct your Data by doing so directly on the website or by requesting us to do so via the Contact us section. If you have additional questions then please write to us at vrsmash@gmail.com.
+You are entitled to access and correct your Data by doing so directly on the website or by requesting us to do so via the Contact us section. If you have additional questions then please write to us at vrpornlist@gmail.com.
