@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the techshu.com privacy policy that was archived on 2015-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150531193955id_/http%3A//www.techshu.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techshu.com privacy policy that was archived on 2015-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151211144313id_/http%3A//www.techshu.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Digital Marketing Agency India
 
