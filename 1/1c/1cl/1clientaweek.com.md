@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the 1clientaweek.com privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612070934id_/http%3A//www.nitromarketing.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 1clientaweek.com privacy policy that was archived on 2015-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151211033815id_/http%3A//www.nitromarketing.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Nitro Marketing
 
 PRIVACY POLICY
 
-– IMPORTANT — PLEASE READ 
+— IMPORTANT — PLEASE READ 
 
 This Privacy Policy describes the terms of our commitment to your privacy. 
 
