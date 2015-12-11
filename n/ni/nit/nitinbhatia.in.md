@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nitinbhatia.in privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612122337id_/http%3A//www.nitinbhatia.in/google-adsense-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nitinbhatia.in privacy policy that was archived on 2015-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151211214050id_/http%3A//www.nitinbhatia.in/google-adsense-privacy-policy) for the most accurate reproduction.*
 
 # Google Adsense Privacy Policy - nitinbhatia.in
 
@@ -36,7 +36,7 @@ The ads served will be targeted based on your previous browsing history (For exa
 
 You can opt-out of this ad serving on all sites using this advertising by visiting
 
-<http://www.doubleclick.com/privacy/dart_adserving.aspx>
+<http://www.google.com/policies/technologies/ads/>
 
 You can choose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security. However, this can affect how you are able to interact with our site as well as other websites. This could include the inability to login to services or programs, such as logging into forums or accounts.
 
