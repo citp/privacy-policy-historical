@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the millionairex5.com privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611062336id_/http%3A//millionairex5.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the millionairex5.com privacy policy that was archived on 2015-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151211162415id_/http%3A//millionairex5.com/privacy.php) for the most accurate reproduction.*
 
 # .: MX500 - 50 weekly MLM POWER audios and the opportunity to earn USD500 again and again and again... - MX500 Privacy Policy :.
 
