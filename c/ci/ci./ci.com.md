@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ci.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610110535id_/http%3A//ci.com/web/company/privacy.jsp%3Flang%3DENG) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ci.com privacy policy that was archived on 2015-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151211174140id_/http%3A//ci.com/web/company/privacy.jsp%3Flang%3DENG) for the most accurate reproduction.*
 
 # CI Investments
 
