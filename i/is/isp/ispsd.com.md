@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ispsd.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610002855id_/http%3A//www.ispsd.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ispsd.com privacy policy that was archived on 2015-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151211112822id_/http%3A//www.ispsd.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -35,3 +35,5 @@ IsPsd.Com allows users to comment on the site. However, we hold all rights to ac
 Email Address  
 When you make a comment or contact us using the Contact Page, your E-mail Address is required. Please be assured that your E-mail address will only be used for responding to your E-mail or Comment and will never be made publicly available. We will never sell your email address to any third parties, ever.  
 Feel free to contact us using the contact page for any other query / information.
+
+This website uses cookies to improve your experience. We'll assume you're ok with this, but you can opt-out if you wish.Accept [Read More](http://www.ispsd.com/privacy-policy/)
