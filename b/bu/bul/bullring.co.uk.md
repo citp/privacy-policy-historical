@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the bullring.co.uk privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612073928id_/http%3A//www.bullring.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bullring.co.uk privacy policy that was archived on 2015-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151211145014id_/http%3A//www.bullring.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Bullring Birmingham - Privacy Policy
-
-### Privacy Policy
 
 Bullring (we) are committed to protecting the privacy of the personal information you provide us on our digital channels. This policy (together with our terms and conditions <http://www.bullring.co.uk/terms-conditions> and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
 
