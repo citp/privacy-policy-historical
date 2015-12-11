@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the 3wishes.com privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612041810id_/http%3A//www.3wishes.com/privacy-security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 3wishes.com privacy policy that was archived on 2015-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151211212153id_/http%3A//www.3wishes.com/privacy-security) for the most accurate reproduction.*
 
 # Privacy and Security Website Policy | 3WISHES.COM
 
 **Privacy  
 ****3WISHES.COM values your privacy.  
-**We do not sell, rent or loan any identifiable information (including e-mail address, phone number, etc.) regarding our customers to anybody. We will not solicit you by phone or mail. Any information you provide us with will be used responsibly, is held with the utmost care and security and will not be used in ways to which you have not consented.
+**We do not sell, rent or loan any identifiable information (including e-mail address, phone number, etc.) regarding our customers to anybody. We will not solicit you by phone or mail. Any information you provide us with will be used responsibly, is held with the utmost care and security.
 
 Use of information: 3WISHES.COM will not collect any personal information about individuals except when specifically and knowingly provided by such individuals. In order to process your order 3WISHES.COM must obtain some information from each customer. Examples of information you may provide us with: name, postal address, e-mail address and phone number which will be used to process your order. Your private information is kept safe, secure and private.
 
