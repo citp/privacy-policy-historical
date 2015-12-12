@@ -1,26 +1,28 @@
-> *The following text is extracted and transformed from the plantronics.com privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612083114id_/http%3A//www.plantronics.com/us/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the plantronics.com privacy policy that was archived on 2015-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151212191055id_/http%3A//www.plantronics.com/us/privacy) for the most accurate reproduction.*
 
 # Plantronics | Privacy Policy
 
 ## Plantronics Privacy Policy
 
-#### Last Updated 1 May 2014
+#### Last Updated 1 May 2015
 
-[](https://privacy.truste.com/privacy-seal/Plantronics,-Inc/validation?rid=90e78c28-d286-42b1-a085-980ce6df0fca "TRUSTe European Safe Harbor certification")
+[](https://privacy.truste.com/privacy-seal/Plantronics,-Inc/validation?rid=9ef9565f-8707-4674-a1d5-4310021f4b46 "TRUSTe European Safe Harbor certification")
 
-Plantronics, Inc. ("Plantronics") is committed to protecting the privacy of consumers visiting our websites and purchasing our products. Plantronics wishes to maintain a safe and secure environment for all users of our online products and services. Please read the following Privacy Statement to understand how your personal information is treated when it is collected on our website [www.plantronics.com](http://www.plantronics.com/) and through our mobile application My Headset. From time to time Plantronics may offer new products and/or services online which may affect this policy, which will be updated as needed. Please check back with us periodically.
+Plantronics, Inc. ("Plantronics") is committed to protecting the privacy of consumers visiting our Websites and purchasing our products. Plantronics wishes to maintain a safe and secure environment for all users of our online products and services. Please read the following Privacy Policy to understand how your personal information is treated when it is collected on our Website [www.plantronics.com](http://www.plantronics.com/) and our service Plantronics Manager Pro. From time to time Plantronics may offer new products and/or services online which may affect this policy, which will be updated as needed. Please check back with us periodically.
 
-Plantronics has received TRUSTe’s Privacy Seal signifying that this privacy statement and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal. The TRUSTe certification only covers information collected through our website [www.plantronics.com](http://www.plantronics.com/) and our mobile applications My Headset and Hub. This privacy policy does not cover information that may be collected through other mobile applications that we own and control or software downloaded from this site.This privacy statement covers WWW.PLANTRONICS.COM and any other PLANTRONICS.COM subdomains (herein after "Websites"). If you have questions or concerns regarding this statement, you should contact the Plantronics Privacy Administrator by email at [privacy@plantronics.com](mailto:privacy@plantronics.com). If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint).
+Plantronics has received TRUSTe's Privacy Seal signifying that this Privacy Policy and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal. The TRUSTe certification only covers information collected on our Website [www.plantronics.com](http://www.plantronics.com/) and our service Plantronics Manager Pro. The use of information collected through our service shall be limited to the purpose of providing the service for which the Client has engaged Plantronics. This Privacy Policy does not cover information that may be collected through our mobile applications that we own and control or software downloaded from this site. This Privacy Policy covers WWW.PLANTRONICS.COM and any other PLANTRONICS.COM subdomains (herein after "Websites"). If you have questions or concerns regarding this statement, you should contact the Plantronics Privacy Administrator by email at [privacy@plantronics.com](mailto:privacy@plantronics.com). If you are not satisfied with our response, you can contact [TRUSTe here](https://feedback-form.truste.com/watchdog/request).
 
-Plantronics complies with the U.S. â - E.U. Safe Harbor framework and the U.S. - Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries and Switzerland. Plantronics has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Plantronics certification, please visit <http://www.export.gov/safeharbor/>.
+Plantronics complies with the U.S.- E.U. Safe Harbor framework and the U.S.-Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries and Switzerland. Plantronics has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Plantronics certification, please visit <http://www.export.gov/safeharbor/>.
 
-This Privacy Statement answers the following questions for you regarding your online privacy protection:
+This Privacy Policy answers the following questions for you regarding your online privacy protection:
 
   * What Information Does Plantronics Collect?
   * Do I Have to Register With www.plantronics.com?
   * How Does Plantronics Use My Information?
   * Does Plantronics Disclose My Personal Information?
   * Public Forums
+  * Testimonials
+  * Social Media Features and Widgets
   * What About Security of Data Transmission?
   * Can I Correct/Update the Information Collected About Me?
   * Will You Notify Me in the Event of Changes to this Privacy Policy?
@@ -31,8 +33,8 @@ This Privacy Statement answers the following questions for you regarding your on
     * Links
     * How Do I Contact Plantronics?
     * Legal Disclaimer
-    * Does the Plantronics Website Use "Cookies or Clear GIFs"?
-    * Mobile Analytics
+    * Does the Plantronics Website Use "Tracking Technologies"?
+    * Mobile Applications
 
 
 
@@ -46,25 +48,27 @@ To register your purchased product online, we request the following information:
 
 An applicant may consider submitting his/her resume online to join the Plantronics team. During this process we may collect personally identifiable information. You will be asked to create a login consisting of your email address and password. You will also be asked to identify your area of expertise and years of experience to complete the profile creation. Plantronics uses services provided by SuccessFactors in the online career search. Information provided may be shared or transferred to SuccessFactors. We encourage users who will use this system to review the [privacy policy](http://www.successfactors.com/en_us/company/privacy.html) of SuccessFactors. By virtue of the online resume submission we collect the following personal information: (i) first and last name; (ii) phone number; (iii) e-mail; (iv) employment area and years of experience; and (v) the text of the resume. The provision of this information is mandatory. If the resume is submitted for a specific position, the user may be required to answer specific questions in regards to their employment and educational background. In addition to mandatory information, we request information such as address, current employment, education, preferred location, activities and organizations and a brief description of your career objectives. The provision of this information is optional. SuccessFactors is not allowed to use the information collected for any purpose other than the original purpose.
 
-When you download and use our Services, we automatically collect information on the type of device you use, operating system version, and device identifier (or ”UDID”).
-
-We do not ask you for, access or track any location based information from your mobile device at any time while downloading or using our Mobile apps or services.
-
 To become a Plantronics authorized reseller, a user must complete an online application. By virtue of our online application we collect personal information such as the user's full name and e-mail address. The provision of this information is mandatory for users who want to become authorized resellers. In addition to this mandatory information, we request information such as current employment, phone and fax. The provision of this information is optional.
 
 If you desire, you may participate in Plantronics' online surveys. If you choose to participate, we will collect anonymous information about the environment you work in, telephone habits, and demographic information. These surveys are developed in order for us to understand what types of products are most effective for our customers and to find the best ways to advertise to reach new customers. Your participation in our online surveys is entirely voluntary. Plantronics may provide gifts to those individuals who participate in surveys, and will request a mailing address to ship the gift. Plantronics will not use the mailing address or personal information for any purpose other than mailing the gift. You will be given the option to opt-in to receive further emails from Plantronics, including but not limited to marketing emails, advertisements, newsletters and bulletins.
 
 When you choose to use the online chat type of support, the following information is gathered through the creation of an account or use of existing account: Email address, password, first name, last name, company name, address, city, state, zip, country, phone, telephone number, Plantronics model, Phone manufacturer, and Phone model. The information, with the exception of the password, is viewable to the support person that is handling the chat. You will be given the option to opt-in to receive further emails from Plantronics, including but not limited to marketing emails, advertisements, newsletters and bulletins. Currently any information captured through support is not provided to anyone outside of Plantronics.
 
-Our Websites provide you with the opportunity to email a webpage or video to another person. For this feature to work, we may need to collect your name and email address and the name and email address of those to whom you send the webpage or video. Plantronics does not store this information and it is used for the sole purpose of sending this one-time email and tracking the success of our referral program.
-
 Plantronics may use mobile messaging, SMS campaigns to communicate with customers who have opted in to receive these types of communications. We will use a third party service to deliver the messages, they have been advised that any personal information transmitted to them in order to transmit the campaign is the property of Plantronics and not to be used for any other means other than to carry out the transaction. The third party will verify your carriers' policies in regard to sending text messages, however if you believe you have received any messages in error, please contact us at [privacy@plantronics.com](mailto:mailto:privacy@plantronics.com).
+
+INFORMATION RELATED TO PLANTRONICS MANAGER PRO 
+
+Plantronics collects information under the direction of its Clients, and has no direct relationship with the individuals whose personal data it processes. If you are a customer of one of our Clients and would no longer like to be contacted by one of our Clients that use our service, please contact the Client that you interact with directly. If requested to remove data we will respond within 30 days.
+
+We may transfer personal information to companies that help us provide our service. Transfers to subsequent third parties are covered by the service agreements with our Clients.
+
+We will retain personal data we process on behalf of our Clients for as long as needed to provide services to our Client. Plantronics will retain this personal information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. 
 
 SERVER LOG FILES:
 
 As is true of most Web sites, we gather certain information automatically and store it in log files. This information may include internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and click stream data.
 
-We use this information, which does not identify individual users, to analyze trends, to administer the site, to track users' movements around the site and to gather demographic information about our user base as a whole.
+We use this information, which does not identify individual users, to analyze trends, to administer the Websites, to track users' movements around the Websites and to gather demographic information about our user base as a whole.
 
 We do not link this automatically-collected data to personally identifiable information.
 
@@ -81,7 +85,7 @@ Plantronics also may use users' email address, mailing address, and/or phone num
   * in our internal surveys to obtain feedback on our products, our website, or on other aspects of our business that impact you as a Plantronics customer;
   * to notify users of new products or services we think may be of interest to them;
   * to send promotional materials.
-  * • for our Premier Plantronics Only Distributor's direct marketing purposes.
+  * for our Premier Plantronics Only Distributor's direct marketing purposes.
 
 
 
@@ -93,7 +97,7 @@ We will retain your information for as long as your account is active or as need
 
 ### Does Plantronics Disclose My Personal Information?
 
-From time to time, we may disclose your personal information to organizations that perform services for or on behalf of Plantronics, for example to provide customer service, deliver products, ship items, process credit cards, for research, marketing, product ratings and reviews, data processing, and to measure the use of our Site. We will share with these companies only that personal information which they need to work on our behalf. Some of these service providers may be located in other countries. Your personal information will be provided to these organizations only if they agree to use such information solely for the purpose of providing services to Plantronics, and under the instructions of Plantronics, and with respect to that information, to act in a manner consistent with the relevant principles articulated in this Policy.
+From time to time, we may disclose your personal information to organizations that perform services for or on behalf of Plantronics, for example to provide customer service, deliver products, ship items, process credit cards, for research, marketing, product ratings and reviews, data processing, and to measure the use of our Websites. We will share with these companies only that personal information which they need to work on our behalf. Some of these service providers may be located in other countries. Your personal information will be provided to these organizations only if they agree to use such information solely for the purpose of providing services to Plantronics, and under the instructions of Plantronics, and with respect to that information, to act in a manner consistent with the relevant principles articulated in this Policy.
 
 If you have opted-in to receive direct marketing contact from our Premier Plantronics Only Distributors, Plantronics will disclose your personal information to such distributors. Your personal information will be provided to our Premier Plantronics Only Distributors only if they agree to act in a manner consistent with the relevant principles articulated in this Policy. However, Plantronics recommends that you review the Premier Plantronics Only Distributors privacy policy as their privacy practices are not monitored or controlled by Plantronics.
 
@@ -103,9 +107,13 @@ If Plantronics is involved in a merger, acquisition, or sale of all or a portion
 
 Our Web site offers publicly accessible blogs, forums, and user reviews. You should be aware that any information you provide in these public forums may be read, collected, and used by others who access them. To request removal of your personal information from these areas, contact us at [privacy@plantronics.com](mailto:mailto:privacy@plantronics.com). In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
 
-### Social Media (Features) and Widgets
+### Testimonials
 
-Our Web site includes Social Media Features, such as the Facebook Like button and Widgets, such as the Share this button or interactive mini-programs that run on our site. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it.
+We display personal testimonials and endorsements of satisfied customers on our Websites. With your consent, we may post your testimonial along with your name. If you wish to update or delete your testimonial, you can contact us at [privacy@plantronics.com](mailto:mailto:privacy@plantronics.com)
+
+### Social Media Features and Widgets
+
+Our Websites include Social Media Features, such as the Facebook Like button and Widgets, such as the Share this button or interactive mini-programs that run on our Websites. These Features may collect your IP address, which page you are visiting on our Websites, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Websites. Your interactions with these Features are governed by the privacy policy of the company providing it.
 
 ### What About Security of Data Transmission
 
@@ -113,7 +121,7 @@ Please note that at www.plantronics.com there is a form where you can transmit c
 
 ### Can I Correct/Update the Information Collected About Me?
 
-You have the right to correct/update or delete any inaccuracies to the personal information collected about you at [www.plantronics.com](mailto:mailto:privacy@plantronics.com). You can make changes to your personal profile at any time by going to the "Customer Sign In" page on our website. You will need your Logon ID (user name) and password in order to access your personal information.
+You have the right to correct/update or delete any inaccuracies to the personal information collected about you at [www.plantronics.com](http://www.plantronics.com/). You can make changes to your personal profile at any time by going to the "Customer Sign In" page on our website. You will need your Logon ID (user name) and password in order to access your personal information.
 
 You may also contact us via email at [www.plantronics.com](mailto:mailto:privacy@plantronics.com) to request changes to your profile. Requests received via email will be acknowledged and responded to within 30 days of receipt.
 
@@ -158,16 +166,24 @@ USA
 
 ### Legal Disclaimer
 
-We may disclose personal information when required by law or in the good-faith belief that such action is necessary in order to conform to the edicts of the law or comply with a legal process served on our site.
+We may disclose personal information when required by law or in the good-faith belief that such action is necessary in order to conform to the edicts of the law or comply with a legal process served on our Website. 
 
-### Does the Plantronics Website Use "Cookies or Clear GIFs"?
+### Does the Plantronics Website Use "Tracking Technologies?"
 
-We, and our third party partners, use cookies on this site. A cookie is a piece of data stored on a site visitor's hard drive to help us improve your access to our site and identify repeat visitors to our site. Cookies can also enable us to track and target the interests of our users to enhance the experience on our site. Additionally, we use cookies to track our online advertising efforts. Usage of a cookie is in no way linked to any personally identifiable information on our site, though cookies may be used in the online career center to share personally identifiable information with SuccessFactors to accommodate the hiring process.
+We, and our third party partners, use cookies, scripts, and tags on our Websites. A cookie is a piece of data stored on a site visitor's hard drive to help us improve your access to our Websites and identify repeat visitors to our Websites. Cookies can also enable us to track and target the interests of our users to enhance the experience on our Websites. Additionally, we use cookies to track our online advertising efforts. If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by clicking [here](http://preferences-mgr.truste.com/) (or if you are located in the European Union, please click [here](http://www.youronlinechoices.eu/)). Please note this does not opt you out of being served ads. You will continue to receive generic ads. Usage of a cookie is in no way linked to any personal information on our Websites, though cookies may be used in the online career center to share personal information with SuccessFactors to accommodate the hiring process.
 
-Our third party partners employ a software technology called clear GIFs (a.k.a. Web Beacons/Web Bugs), that help us better manage content on our site by informing us what content is effective. Clear GIFs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users. In contrast to cookies, which are stored on a user's computer hard drive, clear GIFs are embedded invisibly on Web pages and are about the size of the period at the end of this sentence. We do not tie the information gathered by clear GIFs to our customers' personally identifiable information.
+Our third party partners employ a software technology called clear GIFs (a.k.a. Web Beacons/Web Bugs), that help us better manage content on our Websites by informing us what content is effective. Clear GIFs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users. In contrast to cookies, which are stored on a user's computer hard drive, clear GIFs are embedded invisibly on Web pages and are about the size of the period at the end of this sentence. We do not tie the information gathered by clear GIFs to our customers' personal information.
 
 We use clear GIFs in our HTML-based emails to let us know which emails have been opened by recipients. This allows us to gauge the effectiveness of certain communications and the effectiveness of our marketing campaigns. If you would like to opt-out of these emails, please see ["How Can I Opt-In/Opt-Out"](http://www.plantronics.com/us/privacy/#optOut)
 
-### Mobile Analytics
+We, and our third party partners, use Local Shared Objects (Flash cookies) or Local Storage (HTML 5), to store content information and preferences. Various browsers may offer their own management tools for removing HTML 5. To manage Flash, please click here: <http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html>
 
-We use mobile analytics software to allow us to better understand the functionality of our Mobile Software on your phone. This software may record information such as how often you use the application, the events that occur within the application, aggregated usage, performance data, and where the application was downloaded from. We do not link the information we store within the analytics software to any personal information you submit within the mobile app.
+### Mobile Applications
+
+When you download and use our Services, we automatically collect information on the type of device you use, operating system version, and device identifier (or "UDID").
+
+We will ask you for location based information from your mobile device while using our Mobile apps. We collect your location information for the purpose of automatically identifying conference calls in your calendar and recognizing the notable details (time, phone number, dial-in code, etc).
+
+We will ask you for Bluetooth pairing, calendar storage, contacts data, push notifications, camera and/or microphone sensor, and/or photo gallery information. We collect this information for the purpose of enhancing your user experience. You may opt-out of sharing this information for our services at any time by editing these settings at the device level.
+
+We use mobile analytics software to allow us to better understand the functionality of our Mobile Software on your phone. This software may record information such as how often you use the application, the events that occur within the application, aggregated usage, performance data, and where the application was downloaded from. We do not link the information we store within the analytics software to any personal information you submit within the mobile application. 
