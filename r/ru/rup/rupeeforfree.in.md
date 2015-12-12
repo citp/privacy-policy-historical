@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rupeeforfree.in privacy policy that was archived on 2015-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150614004049id_/http%3A//www.rupeeforfree.in/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rupeeforfree.in privacy policy that was archived on 2015-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151212082112id_/http%3A//www.rupeeforfree.in/privacy) for the most accurate reproduction.*
 
 # Free Talktime | Free Mobile Recharge | Free Online Recharge
 
