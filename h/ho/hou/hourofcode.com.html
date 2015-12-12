@@ -1,15 +1,16 @@
-<!--The following is the downloaded HTML source of the hourofcode.com privacy policy that was archived on 2015-06-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150623103948id_/http%3A//code.org/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the hourofcode.com privacy policy that was archived on 2015-12-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151212201012id_/https%3A//code.org/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html><head><script async="" src="https://archive.org/includes/analytics.js?v=cf34f82&amp;_=1580354094958"></script>
-<script src="https://js-agent.newrelic.com/nr-632.min.js"></script><script async="" src="https://www.fullstory.com/s/fs.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"10f957f1ae","applicationID":"3346604","transactionName":"IV8LTUAOWVwER0ljWAxREUtTTnFfAkALVV8WQ0p+dzUVGE8fWRk=","queueTime":0,"applicationTime":31,"agent":"js-agent.newrelic.com/nr-632.min.js"}</script>
-<script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UQYGVVBQGwADUFdUBwU="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),f=c.length,u=i(a,o,r),d=0;f>d;d++)c[d].apply(u,n);return u}function a(t,e){f[t]=s(t).concat(e)}function s(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:s,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:23,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(f){try{r("ierr",[f,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(5),window.onerror=e;try{throw new Error}catch(f){"stack"in f&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&t(4),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:10,2:9,3:7,4:11,5:3,6:24,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t){t("loader").features.ins=!0},{loader:"G9z0Bl"}],6:[function(t){function e(){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var n=t("ee"),r=t("handle"),o=t(1),i=t(2);t("loader").features.stn=!0,t(3),n.on("fn-start",function(t){var e=t[0];e instanceof Event&&(this.bstStart=Date.now())}),n.on("fn-end",function(t,e){var n=t[0];n instanceof Event&&r("bst",[n,e,this.bstStart,Date.now()])}),o.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),o.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),i.on("fn-start",function(){this.bstStart=Date.now()}),i.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),n.on("pushState-start",function(){this.time=Date.now(),this.startPath=location.pathname+location.hash}),n.on("pushState-end",function(){r("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.addEventListener("webkitresourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1),window.performance.addEventListener("resourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1)),document.addEventListener("scroll",e,!1),document.addEventListener("keypress",e,!1),document.addEventListener("click",e,!1)}},{1:10,2:9,3:8,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],7:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:24,2:25,ee:"QJf3ax",gos:"7eSDFh"}],8:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window.history,["pushState"],"-")},{1:25,2:24,ee:"QJf3ax"}],9:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:25,2:24,ee:"QJf3ax"}],10:[function(t,e){function n(t,e,n){t[0]=o(t[0],"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:25,2:24,ee:"QJf3ax"}],11:[function(t,e){function n(){f.inPlace(this,p,"fn-")}function r(t,e){f.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),f=c(a),u=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(i){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,f.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:7,2:25,ee:"QJf3ax"}],12:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var a=t.responseType,f="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,u=n(f);if(u&&(r.rxSize=u),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(e.cat=d.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,o("xhr",[e,r,this.startTime])}}}function n(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,f=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=e,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,e){var r=this.metrics,o=t[0],i=this;if(r&&o){var f=n(o);f&&(r.txSize=f)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{a.emit("internal-error",[n])}catch(r){}}};for(var u=0;c>u;u++)e.addEventListener(s[u],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:13,3:11,4:7,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],13:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],14:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:23,2:24,handle:"D5DuLP"}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info,e=f.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){s(d,function(e,n){e in t||(t[e]=n)});var n="https"===u.split(":")[0]||t.sslForHttp;p.proto=n?"https://":"http://",a("mark",["onload",i()]);var r=f.createElement("script");r.src=p.proto+t.agent,e.parentNode.insertBefore(r,e)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=(t(2),window),f=c.document,u=(""+location).split("?")[0],d={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-632.min.js"},p=e.exports={offset:i(),origin:u,features:{}};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),c.addEventListener("load",n,!1)):(f.attachEvent("onreadystatechange",r),c.attachEvent("onload",n)),a("mark",["firstbyte",i()])},{1:23,2:14,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],23:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],24:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],25:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,f;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){u([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return f=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,f],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,f(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){u([o,e,n,r])}}function f(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){u([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function u(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:24,ee:"QJf3ax"}]},{},["G9z0Bl",4,12,6,5]);</script>
+<!DOCTYPE html><html><head><script async="" src="https://archive.org/includes/analytics.js?v=cf34f82&amp;_=1580354095826"></script>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<script src="https://js-agent.newrelic.com/nr-768.min.js"></script><script async="" src="https://www.fullstory.com/s/fs.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"10f957f1ae","applicationID":"3346604","transactionName":"IV8LTUAOWVwER0ljWAxREUtTTnFfAkALVV8WQ0p+dzUVGE8fWRk=","queueTime":0,"applicationTime":37,"agent":"js-agent.newrelic.com/nr-768.min.js"}</script>
+<script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UQYGVVBQGwADUFdUBwU="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),f=c.length,u=i(a,o,r),d=0;f>d;d++)c[d].apply(u,n);return u}function a(t,e){f[t]=s(t).concat(e)}function s(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:s,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:24,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(f){try{r("ierr",[f,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(5),window.onerror=e;try{throw new Error}catch(f){"stack"in f&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&t(4),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:11,2:10,3:8,4:12,5:3,6:25,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t){if(window.addEventListener){var e=t("handle"),n=t("ee");t(1),window.addEventListener("click",function(){e("inc",["ck"])},!1),window.addEventListener("hashchange",function(){e("inc",["hc"])},!1),n.on("pushState-start",function(){e("inc",["ps"])})}},{1:9,ee:"QJf3ax",handle:"D5DuLP"}],6:[function(t){t("loader").features.ins=!0},{loader:"G9z0Bl"}],7:[function(t){function e(){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var n=t("ee"),r=t("handle"),o=t(1),i=t(2);t("loader").features.stn=!0,t(3);var a=Event;n.on("fn-start",function(t){var e=t[0];e instanceof a&&(this.bstStart=Date.now())}),n.on("fn-end",function(t,e){var n=t[0];n instanceof a&&r("bst",[n,e,this.bstStart,Date.now()])}),o.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),o.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),i.on("fn-start",function(){this.bstStart=Date.now()}),i.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),n.on("pushState-start",function(){this.time=Date.now(),this.startPath=location.pathname+location.hash}),n.on("pushState-end",function(){r("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.addEventListener("webkitresourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1),window.performance.addEventListener("resourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1)),document.addEventListener("scroll",e,!1),document.addEventListener("keypress",e,!1),document.addEventListener("click",e,!1)}},{1:11,2:10,3:9,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],8:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=t("ee").create(),i=t(1)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t,e){function n(){return s}if(t[1]){var r=t[1];if("function"==typeof r){var s=a(r,"nr@wrapped",function(){return i(r,"fn-",n,r.name||"anonymous")});this.wrapped=t[1]=s,o.emit("initEventContext",[t,e],this.wrapped)}else"function"==typeof r.handleEvent&&i.inPlace(r,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:26,ee:"QJf3ax",gos:"7eSDFh"}],9:[function(t,e){var n=t("ee").create(),r=t(1)(n);e.exports=n,r.inPlace(window.history,["pushState","replaceState"],"-")},{1:26,ee:"QJf3ax"}],10:[function(t,e){var n=t("ee").create(),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:26,ee:"QJf3ax"}],11:[function(t,e){function n(t,e,n){t[0]=i(t[0],"fn-",null,n)}function r(t,e,n){function r(){return a}this.ctx={};var a={"nr@context":this.ctx};o.emit("initTimerContext",[t,n],a),t[0]=i(t[0],"fn-",r,n)}var o=t("ee").create(),i=t(1)(o);e.exports=o,i.inPlace(window,["setTimeout","setImmediate"],"setTimer-"),i.inPlace(window,["setInterval"],"setInterval-"),i.inPlace(window,["clearTimeout","clearImmediate"],"clearTimeout-"),o.on("setInterval-start",n),o.on("setTimer-start",r)},{1:26,ee:"QJf3ax"}],12:[function(t,e){function n(){f.inPlace(this,p,"fn-",o)}function r(t,e){f.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),f=c(a),u=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),e.hasOwnProperty("addEventListener")&&u.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(i){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,f.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:8,2:26,ee:"QJf3ax"}],13:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var a=t.responseType,f="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,u=n(f);if(u&&(r.rxSize=u),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(e.cat=d.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,o("xhr",[e,r,this.startTime])}}}function n(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,f=t(1),u=window.XMLHttpRequest;t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=e,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,e){var r=this.metrics,o=t[0],i=this;if(r&&o){var f=n(o);f&&(r.txSize=f)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{a.emit("internal-error",[n])}catch(r){}}};for(var u=0;c>u;u++)e.addEventListener(s[u],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof u&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof u&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof u&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:14,3:12,4:8,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],14:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],15:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:24,2:25,handle:"D5DuLP"}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):void(r.q&&(r.q[t]||(r.q[t]=[]),r.q[t].push(e)))}var r=t("ee").create();e.exports=n,n.ee=r,r.q={}},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info,e=f.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){s(d,function(e,n){e in t||(t[e]=n)});var n="https"===u.split(":")[0]||t.sslForHttp;p.proto=n?"https://":"http://",a("mark",["onload",i()]);var r=f.createElement("script");r.src=p.proto+t.agent,e.parentNode.insertBefore(r,e)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=window,f=c.document;t(2);var u=(""+location).split("?")[0],d={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-768.min.js"},p=e.exports={offset:i(),origin:u,features:{}};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),c.addEventListener("load",n,!1)):(f.attachEvent("onreadystatechange",r),c.attachEvent("onload",n)),a("mark",["firstbyte",i()])},{1:24,2:15,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],24:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],25:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],26:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@original",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,f;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){u([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return f=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,f],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=t,f(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){u([o,e,n,r])}}function f(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){u([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function u(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:25,ee:"QJf3ax"}]},{},["G9z0Bl",4,13,7,6,5]);</script>
     <meta content="Code.org" property="og:site_name">
     <meta content="Privacy Policy" property="og:title">
     <meta content="500177453358606" property="fb:app_id">
     <meta content="article" property="og:type">
     <meta content="https://www.facebook.com/Code.org" property="article:publisher">
-    <meta content="http://code.org/privacy" property="og:url">
+    <meta content="https://code.org/privacy" property="og:url">
     <title>Privacy Policy | Code.org</title>
     <link href="/images/favicon.ico" rel="shortcut icon">
     <link href="/images/apple-touch-icon-precomposed.png" rel="apple-touch-icon">
@@ -24,10 +25,15 @@
     <![endif]-->
     <link href="/style.css" rel="stylesheet" type="text/css">
     <link href="/shared/css/user-menu.css" rel="stylesheet" type="text/css">
+    <link href="/shared/css/details-polyfill.css" rel="stylesheet" type="text/css">
     <script src="/js/jquery.min.js"></script>
+    <script src="/shared/js/details-polyfill/jquery.details.min.js"></script>
+    <script src="/shared/js/details-polyfill/details-polyfill.js"></script>
     <script src="/shared/js/angular/angular.min.js"></script>
     <script src="/shared/js/angular-route/angular-route.min.js"></script>
     <script src="/shared/js/angular-resource/angular-resource.min.js"></script>
+    <script src="/shared/js/angular-sanitize/angular-sanitize.min.js"></script>
+    <script src="/shared/js/ng-csv/ng-csv.min.js"></script>
     <link href="/css/common.css" rel="stylesheet" type="text/css">
     <link href="/css/brstrap-nonresponsive.css" rel="stylesheet" type="text/css">
     <!--[if lt IE 9]>
@@ -96,89 +102,6 @@
           margin-left: 0px;  
         }
       </style>
-      <script src="/shared/js/url_test/url_test.js"></script>
-      <style>
-        #warning-banner-https {
-          padding: 5px 20px;
-          font-size: 28px;
-          line-height: 32px;
-          background-color: orange;
-          text-align: center;
-          color: white;
-          a, a:visited {
-            color: cyan;
-          }
-          a:hover {
-            background: transparent;
-          }
-          p {
-            padding: 7px 0;
-            margin-bottom: 0;
-          }
-        }
-      </style>
-      <div id="warning-banner-https" style="display: none;">
-        <div class="expanded" style="display: none;">
-          <i class="fa fa-warning"></i>
-          Please enable HTTPS for Code.org.
-          <span class="btn btn-primary" id="hide-warning">Hide this warning</span>
-          <p>
-            To increase security, we are switching to HTTPS on 2015-07-01. You will not be able to access Code.org after this date. <a href="//code.org/educate/it">Click here</a> to learn how to enable HTTPS for Code.org.
-          </p>
-        </div>
-        <div class="collapsed" style="display: none; cursor: pointer; text-align: left; font-size: 10px; line-height: 10px;">
-          <i class="fa fa-warning"></i>
-          Please enable HTTPS for Code.org.
-        </div>
-        <script>
-          function setCookie(key, value, days) {
-            var expires = new Date();
-            expires.setTime(expires.getTime() + (days * 24 * 60 * 60 * 1000));
-            document.cookie = key + '=' + value + '; path=/; expires=' + expires.toUTCString();
-          }
-          function getCookie(key) {
-            var keyValue = document.cookie.match('(^|;) ?' + key + '=([^;]*)(;|$)');
-            return keyValue ? keyValue[2] : null;
-          }
-          function deleteCookie(key) {
-            document.cookie = key + "=; expires=Thu, 01 Jan 1970 00:00:00 UTC";
-          }
-          var banner = $('#warning-banner-https');
-          var collapsed = banner.find(".collapsed");
-          var expanded = banner.find(".expanded");
-          function showWarning() {
-            banner.show();
-            if (getCookie('hide-https-warning')) {
-              collapsed.show();
-            } else {
-              expanded.show();
-            }
-          }
-          if(getCookie('https-blocked')) {
-            showWarning();
-          }
-          banner.find("#hide-warning").click(function () {
-            document.cookie = "hide-https-warning=1; path=/";
-            expanded.slideUp('fast');
-            collapsed.slideDown('fast');
-          });
-          collapsed.click(function () {
-            expanded.slideDown('fast');
-            collapsed.slideUp('fast');
-          });
-          testImageAccess("https://code.org/test-image.png",
-            function() {
-              deleteCookie('https-blocked');
-              setCookie('https_ok', '1', 60);
-            },
-            function () {
-              $(window).load(function () { trackEvent("HTTPS Test", "blocked"); });
-              showWarning();
-              document.cookie = "https-blocked=1; path=/";
-            }
-          );
-        </script>
-      </div>
       <div id="pageheader-wrapper">
         <div class="" id="pageheader">
           <div class="content">
@@ -322,7 +245,7 @@ playback timings (ms):
           <div style="width: 970px; float: left; margin: 0; padding: 0;">
             <h1>Privacy Policy</h1>
             
-            <p>Effective Date: December 5, 2014 </p>
+            <p>Date of Last Revision: August 3, 2015 </p>
             
             <h2>About Code.org</h2>
             
@@ -337,7 +260,8 @@ playback timings (ms):
             <ol>
             <li>We’re deeply committed to creating a safe and secure learning environment for our students and teachers. We take the protection of this information seriously.</li>
             <li>We do not require you to provide any Personal Information in order to try our tutorials, all of which are accessible without a user account. </li>
-            <li>The only reason we collect any data from students or teachers is to better succeed at our mission of providing a great computer science education for every student who wants it.<br></li>
+            <li>The only reason we collect any data from students or teachers is to better succeed at our mission of providing a great computer science education for every student who wants it.<br>
+</li>
             <li>We do not sell your Personal Information or exploit it for financial gain; we do not sell ads. We are a charitable 501c3 nonprofit and our revenue comes from donations. We established ourselves as a nonprofit so our mission and your trust will not be in conflict with a for-profit motive.</li>
             <li>Any student academic data provided by school district partners to 3rd party evaluators for the purpose of evaluating our courses in meeting our mission will be anonymous / de-identified (per standard industry practice). </li>
             <li>We strive to provide you with access to and control over the information you give us (as detailed below), and we take the protection of your information very seriously.</li>
@@ -345,7 +269,7 @@ playback timings (ms):
             
             <h2>Privacy Notice</h2>
             
-            <p>We are committed to creating a safe and secure environment for learners of all ages on our web sites located at <a href="http://code.org">http://code.org</a>, <a href="http://csedweek.org">http://csedweek.org</a>, <a href="http://computinginthecore.org">http://computinginthecore.org</a>, <a href="http://hourofcode.com">http://hourofcode.com</a>, other websites, application programming interface (our “API”), and online services (collectively, our “Website”). Visitors and users of the Website  and participants in our education programs are referred to individually as “User” and collectively as “Users”. As a not-for-profit, 501(c)(3) organization, we use the data we receive only insofar as it helps our mission of providing a great computer science education for every student who wants it. We established ourselves as a not-for-profit organization so that a for-profit motive will not interfere with our mission of providing a trusted educational resource.</p>
+            <p>We are committed to creating a safe and secure environment for learners of all ages on our websites located at <a href="https://code.org">https://code.org</a>, <a href="https://studio.code.org">https://studio.code.org</a>, <a href="https://csedweek.org">https://csedweek.org</a>, <a href="http://computinginthecore.org">http://computinginthecore.org</a>, <a href="https://hourofcode.com">https://hourofcode.com</a>, other websites, application programming interface (our “API”), and online services (collectively, our “Website”). Visitors and users of the Website  and participants in our education programs are referred to individually as “User” and collectively as “Users”. As a not-for-profit, 501(c)(3) organization, we use the data we receive only insofar as it helps our mission of providing a great computer science education for every student who wants it. We established ourselves as a not-for-profit organization so that a for-profit motive will not interfere with our mission of providing a trusted educational resource.</p>
             
             <p>Our Privacy Notice describes what information we gather from our Users, how we use that information, and what we do to protect it.  Your use of the Website and any information you provide on the Website are subject to the terms of this Privacy Notice, which is incorporated into and subject to our Terms of Service. Any capitalized terms used but not defined within this Privacy Notice have the meaning given to them in our <a href="http://code.org/tos">Terms of Service</a>. By visiting or using our Website, you expressly consent to the information handling practices described in this Privacy Notice.</p>
             
@@ -359,22 +283,24 @@ playback timings (ms):
             
             <p><strong>Code Studio</strong>: The following table describes the data that Code.org collects from registered Users of the Code Studio tutorial platform.  You can also try all Code Studio tutorials without creating an account, but your learning progress won't be saved.</p>
             
-            <table><thead>
+            <table>
+<thead>
             <tr>
             <th>Data stored by Code.org if you create a Code Studio student account</th>
             <th>Required?</th>
             <th>How this data is used</th>
             </tr>
-            </thead><tbody>
+            </thead>
+<tbody>
             <tr>
             <td>Display Name (eg “Cool Coder” or “JohnS”)</td>
             <td>Mandatory</td>
             <td>To provide students a welcome upon login, to identify the student in the teacher’s view of student progress, and when showcasing the student’s code-creations.</td>
             </tr>
             <tr>
-            <td>Progress in the course <br><br>1- Date/Time each stage is tried<br>2- Number of tries to solve a puzzle, and whether it was solved successfully or optimally<br>3- The code that the student submitted. (This includes art and games they create)</td>
+            <td>Progress in the course <br>1- Date/Time each stage is tried<br>2- Number of tries to solve a puzzle, and whether it was solved successfully or optimally<br>3- The code that the student submitted. (This includes art and games they create)</td>
             <td>Mandatory (automatic)</td>
-            <td>This information is displayed to students and their teachers to see their progress in a course, to see the code they’ve created, and to identify topics they need help with. It also lets students pick up where they left off if they log out and login later. See <a href="http://code.org/files/student-progress.pdf">example progress report</a>, and see section below on <a href="#techinfo">“technical information”</a> for additional details.<br><br>Student code creations (art, animations, apps) may be shared with friends or to a public gallery at the discretion of the student, along with the students’ display name.<br><br>This data also helps Code.org improve the course effectiveness. For example, if a puzzle is too hard, Code.org may take action (like <a href="http://code.org/hints">providing better hints</a>) to improve the learning process.<br></td>
+            <td>This information is displayed to students and their teachers to see their progress in a course, to see the code they’ve created, and to identify topics they need help with. It also lets students pick up where they left off if they log out and login later. See <a href="http://code.org/files/student-progress.pdf">example progress report</a>, and see section below on <a href="#techinfo">“technical information”</a> for additional details.<br>Student code creations (art, animations, apps) may be shared with friends or to a public gallery at the discretion of the student, along with the students’ display name.<br>This data also helps Code.org improve the course effectiveness. For example, if a puzzle is too hard, Code.org may take action (like <a href="http://code.org/hints">providing better hints</a>) to improve the learning process.</td>
             </tr>
             <tr>
             <td>Login time, IP address, and other technical data</td>
@@ -383,8 +309,8 @@ playback timings (ms):
             </tr>
             <tr>
             <td>Email Address</td>
-            <td>Optional if account created by teacher or parent<br><br>Mandatory if student signs up directly<br><br>Mandatory for teacher or parent accounts</td>
-            <td>To inform the student or parent or teacher when new course-work is available. The student’s email address is optional when a teacher or parent creates a student account. If a student creates an account directly, an email address is required, to enable Code.org to help the student User retrieve their forgotten password.<br><br>If provided, the email can be used by the student as their Code.org login username and unique identity.<br><br>If provided, the student email address is private and not shared with anyone (not even the teacher)<br><br>Note: See section below for details on how we handle email addresses from children under 13.<br></td>
+            <td>Optional if account created by teacher or parent<br>Mandatory if student signs up directly<br>Mandatory for teacher or parent accounts</td>
+            <td>To inform the student or parent or teacher when new course-work is available. The student’s email address is optional when a teacher or parent creates a student account. If a student creates an account directly, an email address is required, to enable Code.org to help the student User retrieve their forgotten password.<br>If provided, the email can be used by the student as their Code.org login username and unique identity.<br>If provided, the student email address is private and not shared with anyone (not even the teacher)<br>Note: See section below for details on how we handle email addresses from children under 13.</td>
             </tr>
             <tr>
             <td>Gender</td>
@@ -401,21 +327,40 @@ playback timings (ms):
             <td>Optional</td>
             <td>Users aged 13 or older can choose to share their app, art, or other code creations to a phone. To do this, they are asked to provide a phone number (their own or someone else’s). Code.org uses a 3rd party service (<a href="https://www.twilio.com/">Twilio</a>) to send a pre-written text message to this number.  Code.org does not store any record of the number, however the phone number and message will be stored by Twilio and may also be stored by the phone service provider.</td>
             </tr>
-            </tbody></table>
+            <tr>
+            <td>Custom photos, sounds, and/or videos</td>
+            <td>Optional</td>
+            <td>Users aged 13 or older can choose to upload custom photos, sounds, and videos to the Code Studio platform to use within applications that they create.  These files are not used by Code.org for any purpose other than within the applications created by such users.</td>
+            </tr>
+            <tr>
+            <td>Messages sent within the “Internet Simulator”</td>
+            <td>Optional</td>
+            <td>The <a href="/internetsimulator">“Internet Simulator”</a> is a tool developed by Code.org for use in High School classrooms to model how the Internet functions. With this tool, students can send text-based messages to other students and the teacher in their specific classroom section only. Contents of messages sent by students using the tool can be accessed by the recipient, and are not accessed or used by Code.org for any purpose other than in this educational tool.</td>
+            </tr>
+            <tr>
+            <td>Written comments in response to curricular/educational prompts within the Code Studio platform</td>
+            <td>Optional</td>
+            <td>Within some of our courses, students in a classroom are prompted to answer a question. Their answers are shared with any teacher with whom the student is affiliated on Code Studio, and are not used by Code.org for any other purpose.</td>
+            </tr>
+            </tbody>
+</table>
             
             <p><br></p>
             
-            <table><thead>
+            <table>
+<thead>
             <tr>
             <th>Additional data stored by Code.org if you create a Code Studio teacher account</th>
             <th>Required?</th>
             <th>How this data is used</th>
             </tr>
-            </thead><tbody>
+            </thead>
+<tbody>
             <tr>
             <td>School name</td>
             <td>Optional</td>
-            <td><br>At your option and under your control, we would list your school in the Code.org map and database of schools that teach computer science courses.<br><br>Code.org may also use this information to reach out to your school or district to discuss broader education partnerships or participation in special events.<br></td>
+            <td>
+<br>At your option and under your control, we would list your school in the Code.org map and database of schools that teach computer science courses.<br>Code.org may also use this information to reach out to your school or district to discuss broader education partnerships or participation in special events.</td>
             </tr>
             <tr>
             <td>School address</td>
@@ -425,9 +370,11 @@ playback timings (ms):
             <tr>
             <td>Student section data</td>
             <td>Required</td>
-            <td><br>You may create accounts for your students (and provide each student’s display name and optionally their age and gender), and organize these students into sections or groups. You may assign each section a display name, and a course assignment. The section grouping data is used to simplify your view of students across multiple sections.<br><br>Teachers are encouraged to share a document with students and parents informing them about the Code Studio course, including the privacy implications.<br></td>
+            <td>
+<br>You may create accounts for your students (and provide each student’s display name and optionally their age and gender), and organize these students into sections or groups. You may assign each section a display name, and a course assignment. The section grouping data is used to simplify your view of students across multiple sections.<br>Teachers are encouraged to share a document with students and parents informing them about the Code Studio course, including the privacy implications.</td>
             </tr>
-            </tbody></table>
+            </tbody>
+</table>
             
             <p><br></p>
             
@@ -445,7 +392,7 @@ playback timings (ms):
             
             <p>You may revoke Code.org’s access to your account on any Authentication Service at any time by updating the appropriate settings in the account preferences of the respective Authentication Service. You should check your privacy settings on each Authentication Service to understand and change the information sent to us through each Authentication Service. Please review each Authentication Service’s terms of use and privacy policies carefully before using their services and connecting to our Website.</p>
             
-            <h2>Other services</h2>
+            <h2>Other Services</h2>
             
             <p>When you use certain other features of our Website, such as signing forms or petitions to help advocate for Code.org, participating in a workshop, bringing Code.org programs to your school or district, donating to Code.org, purchasing t-shirts or other items, or participating in online surveys, Code.org may ask you to provide Personal Information including your full name, email address, and postal code, or school street address, as well as your billing and/or shipping information when necessary to complete a purchase or make a donation. The information is used to enable your participation in the relevant feature and to send you occasional emails with information about Code.org that we feel may interest you. All emails we send include an “unsubscribe” link which will immediately unsubscribe you from all future email from Code.org.</p>
             
@@ -478,21 +425,33 @@ playback timings (ms):
             
             <p>Code.org may use a variety of third-party service providers, such as analytics companies to understand our Website usage, and social networking platforms to host our videos. We may allow third-party service providers to place and read their own cookies, web beacons, and similar technologies to collect information through the Website. This technical information is collected directly and automatically by these third parties.</p>
             
-            <p>Code.org does not allow advertising on our Website, and we do not have the ability to collect your web search history across 3rd party Internet web sites or search engines. (If you navigate to the Code.org Website via a web search, your web browser may automatically provide to us the web search term you used in order to find Code.org).  However, certain third-party entities that we use to provide website functionality or social sharing may collect Non-Personal Information for the purposes of online behavioral advertising.  Our website does not respond to “do not track” signals transmitted by web browsers, but we encourage you to visit the following links if you would like to opt out of online behavioral advertising: <a href="http://www.networkadvertising.org/choices">http://www.networkadvertising.org/choices</a> or <a href="http://www.aboutads.info/choices/">http://www.aboutads.info/choices/</a>. If you do want to opt out using these tools, you may need to opt out separately for each of your devices and for each Web browser on each device. </p>
+            <p>Code.org does not allow advertising on our Website, and we do not have the ability to collect your web search history across 3rd party Internet websites or search engines. (If you navigate to the Code.org Website via a web search, your web browser may automatically provide to us the web search term you used in order to find Code.org).  However, certain third-party entities that we use to provide website functionality or social sharing may collect Non-Personal Information for the purposes of online behavioral advertising.  Our Website does not respond to “do not track” signals transmitted by web browsers, but we encourage you to visit the following links if you would like to opt out of online behavioral advertising: <a href="http://www.networkadvertising.org/choices">http://www.networkadvertising.org/choices</a> or <a href="http://www.aboutads.info/choices/">http://www.aboutads.info/choices/</a>. If you do want to opt out using these tools, you may need to opt out separately for each of your devices and for each Web browser on each device. </p>
             
             <p>Certain capabilities linked from the Code.org Website may be implemented by third parties who collect data. For example, donations to Code.org are processed via a third party who collects and may store the payment instrument. Support messages or posts to our public forum for teachers are processed by a third party site which may allow users to create profiles, post messages, and upload photos. Other third party websites, such as the Code.org <a href="https://www.facebook.com/Code.org">Facebook page</a> and <a href="https://twitter.com/codeorg">Twitter page</a>, may be co-branded with our name or logo. Use of these third-party services are completely optional to Users, typically meant only for adults, and governed by the privacy policy of these third parties.  We encourage you to review the privacy policy at the third parties for details about how they may collect, store and use your Personal Information.</p>
             
-            <h2>Information we do NOT collect</h2>
+            <h2>Uploading Custom Content</h2>
             
-            <p>The Code.org Website does not offer private messaging among students, or between students and teachers. The only messaging that Users may engage in on the Website involves customer support requests.</p>
+            <p>Student and teacher profiles can NOT be customized with a photo.</p>
             
-            <p>The Code Studio platform does not provide Users a mechanism to upload photos. In particular, student and teacher profiles can NOT be customized with a photo.</p>
+            <p>As part of “App Lab,” an in-browser programming tool available on Code Studio for students over the age of 13, students can upload custom photos, sound, and videos to the Code Studio platform to use within applications or “apps” that they create. These files are stored in the Code Studio platform, and are not used by Code.org for any purpose other than within the applications created by students.</p>
             
-            <p>Code.org does not directly collect or store payment instruments. Donations to Code.org or purchases of t-shirts from the Code.org store are processed via third parties, and although Code.org receives a receipt for donations (for tax purposes), we never receive the payment instrument (such as credit card or wallet information). </p>
+            <h2>Message Sending Between Users</h2>
             
-            <h2>Children under the age 13</h2>
+            <p>Code.org has created a tool called the <a href="/internetsimulator">“Internet Simulator”</a> for use in High School classrooms to model how the Internet functions. With this tool, students can send text-based messages to other students and the teacher in their specific classroom section only. Message contents are not accessed or used by Code.org for any purpose other than in this educational tool. </p>
             
-            <p>The Code Studio learning platform is designed to be used by Users of all ages, including children under the age of 13 with the involvement of their school, teacher, parent or legal guardian. Certain features are disabled or inaccessible to accounts created by children under the age of 13, in order to provide greater protection to those Users. </p>
+            <p>In some courses, students are asked to provide written responses or reflections to prompts within the Code Studio platform. These written responses are accessible by any teacher that the student is currently affiliated with on Code Studio.</p>
+            
+            <p>In addition, Users may send messages to Code.org for customer support requests.</p>
+            
+            <p>Other than the above, the Website supports no other form of messaging among Users.</p>
+            
+            <h2>Information We Do NOT Collect</h2>
+            
+            <p>Code.org does not directly collect or store payment instruments. Donations to Code.org or purchases from the Code.org store are processed via third parties, and although Code.org receives a receipt for donations (for tax purposes), we never receive the payment instrument (such as credit card or wallet information). </p>
+            
+            <h2>Children Under the Age 13</h2>
+            
+            <p>The Code Studio learning platform is designed to be used by Users of all ages, including children under the age of 13 with the involvement of their school, teacher, parent or legal guardian. Certain features, especially features that involve uploading custom media files or sending messages, are disabled or inaccessible to accounts created by children under the age of 13, in order to provide greater protection to those Users. </p>
             
             <p>When children under the age of 13 create accounts on Code Studio, Code.org does not store the email address provided by those Users in a retrievable format.  Instead, we immediately create and store only a hashed version of the email address (which cannot be converted back into the original address), and use it only for the purposes of login and password recovery.</p>
             
@@ -510,7 +469,7 @@ playback timings (ms):
             
             <p>Code.org’s employees, agents and contractors must have a legitimate business reason (related directly to furthering our education-focused mission) to access Personal Information you provide to Code.org, for example to assist in product support. Code.org will require our employees, agents, and contractors to comply with this Privacy Notice, and to treat any Personal Information of Code.org Users as confidential information.</p>
             
-            <h2>How we share or transfer data</h2>
+            <h2>How We Share or Transfer Data</h2>
             
             <p>We do not rent or sell Personal Information that we collect from Users, or exploit it for financial gain in any other way. Code.org will never share Personal Information with other third-party organizations without your consent or except as part of a specific program or feature for which you will have the ability and choice to opt-in. </p>
             
@@ -536,7 +495,7 @@ playback timings (ms):
             
             <p>Code.org promotes a weekly Student of the Week and a monthly Teacher of the Month, along with prizes. These profiles and similar testimonials are always published with the permission of the participating student or teacher and, if applicable, their parent or legal guardian, or teacher, and may include Personal Information such as the name, likeness and photo or video of the person being profiled.</p>
             
-            <h3>Public Reporting on Student Use and Performance</h3>
+            <h3>Public reporting on student use and performance</h3>
             
             <p>We may publish anonymized information about student performance on our tutorials and Websites, however, we will never publicly disclose your Personal Information in these reports. Data about student performance will remain anonymized, but aggregated, anonymized data over large populations of students may be reported by demographic criteria such as age, general location, gender, ethnicity, and socioeconomic status. </p>
             
@@ -546,21 +505,21 @@ playback timings (ms):
             
             <h3>We will share data when required by law</h3>
             
-            <p>Code.org may also disclose User Personal Information if required to do so by law, or if we have a good-faith belief that such action is necessary to comply with local, state, federal, international, or other applicable laws or respond to a court order, judicial or other government order, subpoena, or warrant, or administrative request. In some cases, we may make such disclosures without first providing notice to Users.</p>
+            <p>Code.org may also disclose User data including Personal Information if required to do so by law, or if we have a good-faith belief that such action is necessary to comply with local, state, federal, international, or other applicable laws or respond to a court order, judicial or other government order, subpoena, or warrant, or administrative request. In some cases, we may make such disclosures without first providing notice to Users.</p>
             
             <h3>We may share data when necessary or appropriate to protect Code.org or others</h3>
             
-            <p>Code.org may disclose Personal Information that we believe, in good faith, is appropriate or necessary to take precautions against liability; to protect Code.org from fraudulent, abusive, or unlawful uses; to investigate and defend ourselves against any third-party claims or allegations; to assist government enforcement agencies; to protect the security or integrity of the Website; or to protect the rights, property, or personal safety of Code.org, our Users, or others.</p>
+            <p>Code.org may disclose User data including Personal Information that we believe, in good faith, is appropriate or necessary to take precautions against liability; to protect Code.org from fraudulent, abusive, or unlawful uses; to investigate and defend ourselves against any third-party claims or allegations; to assist government enforcement agencies; to protect the security or integrity of the Website; or to protect the rights, property, or personal safety of Code.org, our Users, or others.</p>
             
             <h3>We may share data in the context of a change of business, including a merger or acquisition</h3>
             
             <p>In the event that Code.org is acquired by, combined or merged with another entity, we may transfer or assign the Personal Information that we have collected from Users as part of such merger, acquisition, sale, or other change of control. Our promise to you is that any Personal Information we have collected from Users would be safeguarded under the same level of safety and privacy as afforded by this Privacy Notice. </p>
             
-            <h2>Our approach to data security</h2>
+            <h2>Our Approach to Data Security</h2>
             
             <h3>Website security is important to you, and to us</h3>
             
-            <p>To protect your privacy and security, we take reasonable steps to verify your identity before granting you account access or making corrections to your Personal Information.  Because some schools block SSL-secures web sites, Code.org allows access with or without SSL protection, at the direction of those schools. If you would like an SSL encrypted connection in or to encrypt the data that you input while using the Website, use the HTTPS protocol by visiting <a href="https://code.org/">https://code.org/</a>. </p>
+            <p>To protect your privacy and security, we take reasonable steps to verify your identity before granting you account access or making corrections to your Personal Information.  Because some schools block SSL-secure websites, Code.org allows access with or without SSL protection, at the direction of those schools. If you would like an SSL encrypted connection in or to encrypt the data that you input while using the Website, use the HTTPS protocol by visiting <a href="https://code.org/">https://code.org/</a>. </p>
             
             <h3>We try to ensure that our Website and information sent to us are safe, but no security measures are perfect</h3>
             
@@ -574,9 +533,9 @@ playback timings (ms):
             
             <h3>Conditions of Use and Notices</h3>
             
-            <p>If you choose to visit Code.org, your visit and any dispute over privacy is subject to this Privacy  Notice and our Terms of Service Agreement, including limitations on damages, arbitration of disputes, application of the law of the State of Washington and venue for all disputes in Seattle, Washington.</p>
+            <p>If you choose to visit Code.org, your visit and any dispute over privacy is subject to this Privacy Notice and our Terms of Service Agreement, including limitations on damages, arbitration of disputes, application of the law of the State of Washington and venue for all disputes in Seattle, Washington.</p>
             
-            <h3>A Note to California Residents:</h3>
+            <h3>A note to California residents:</h3>
             
             <p>We do not disclose any personal information to third parties for marketing purposes. For additional information about our privacy practices, or to review and request to have deleted any personal information you have shared with us, please send a request to <a href="http://code.org/contact">http://code.org/contact</a>.</p>
             
@@ -586,7 +545,7 @@ playback timings (ms):
             <br>
             <br>
             <br>
-            <a href="http://studentprivacypledge.org/"><img src="/images/fit-300/privacy-wide.jpg" alt="image"></a></p>
+            <a href="http://studentprivacypledge.org/"><img src="/images/fit-200/student_privacy_pledge.png" alt="image"></a></p>
           </div>
         </div>
         <div id="clearboth" style="clear:both"></div>
@@ -616,6 +575,7 @@ playback timings (ms):
             <option value="ar">العربية</option>
             <option value="az">Azərbaycan dili</option>
             <option value="bg">български</option>
+            <option value="bs">Bosanski</option>
             <option value="ca">Català</option>
             <option value="cs">Čeština</option>
             <option value="da">Dansk</option>
@@ -623,6 +583,8 @@ playback timings (ms):
             <option value="el">Ελληνικά</option>
             <option selected="" value="en">English</option>
             <option value="es">Español</option>
+            <option value="et">Eesti</option>
+            <option value="eu">Euskara</option>
             <option value="fa">فارسی</option>
             <option value="fi">Suomi</option>
             <option value="fr">Français</option>
@@ -633,6 +595,7 @@ playback timings (ms):
             <option value="is">Íslenska</option>
             <option value="it">Italiano</option>
             <option value="ja">日本語</option>
+            <option value="ka">ქართული</option>
             <option value="ko">한국어</option>
             <option value="lt">Lietuvių</option>
             <option value="lv">Latviešu</option>
@@ -645,10 +608,12 @@ playback timings (ms):
             <option value="ro">Română</option>
             <option value="ru">Pусский</option>
             <option value="sl">Slovenščina</option>
+            <option value="sq">Shqip</option>
             <option value="sr">Cрпски</option>
             <option value="sv">Svenska</option>
             <option value="tr">Türkçe</option>
             <option value="uk">Українська</option>
+            <option value="vi">Tiếng Việt</option>
             <option value="zh-cn">简体字</option>
             <option value="zh-tw">繁體字</option>
           </select>
@@ -736,9 +701,10 @@ playback timings (ms):
         o=n.createElement(t);o.async=1;o.src='https://'+_fs_host+'/s/fs.js';
         y=n.getElementsByTagName(t)[0];y.parentNode.insertBefore(o,y);
         g.identify=function(i,v){g(l,{uid:i});if(v)g(l,v)};g.setUserVars=function(v){FS(l,v)};
+        g.identifyAccount=function(i,v){o='account';v=v||{};v.acctId=i;FS(o,v)};
         g.clearUserCookie=function(d,i){d=n.domain;while(1){n.cookie='fs_uid=;domain='+d+
-        ';path=/;expires='+new Date(0);i=d.indexOf('.');if(i < 0)break;d=d.slice(i+1)}}
-        })(window,document,'FS','script','user');
+        ';path=/;expires='+new Date(0);i=d.indexOf('.');if(i<0)break;d=d.slice(i+1)}}
+      })(window,document,'FS','script','user');
     </script>
     <script src="/js/bootstrap.min.js" type="text/javascript"></script>
     <div class="modal fade" id="selectLanguage">
@@ -757,6 +723,7 @@ playback timings (ms):
               <option value="ar">العربية</option>
               <option value="az">Azərbaycan dili</option>
               <option value="bg">български</option>
+              <option value="bs">Bosanski</option>
               <option value="ca">Català</option>
               <option value="cs">Čeština</option>
               <option value="da">Dansk</option>
@@ -764,6 +731,8 @@ playback timings (ms):
               <option value="el">Ελληνικά</option>
               <option selected="" value="en">English</option>
               <option value="es">Español</option>
+              <option value="et">Eesti</option>
+              <option value="eu">Euskara</option>
               <option value="fa">فارسی</option>
               <option value="fi">Suomi</option>
               <option value="fr">Français</option>
@@ -774,6 +743,7 @@ playback timings (ms):
               <option value="is">Íslenska</option>
               <option value="it">Italiano</option>
               <option value="ja">日本語</option>
+              <option value="ka">ქართული</option>
               <option value="ko">한국어</option>
               <option value="lt">Lietuvių</option>
               <option value="lv">Latviešu</option>
@@ -786,10 +756,12 @@ playback timings (ms):
               <option value="ro">Română</option>
               <option value="ru">Pусский</option>
               <option value="sl">Slovenščina</option>
+              <option value="sq">Shqip</option>
               <option value="sr">Cрпски</option>
               <option value="sv">Svenska</option>
               <option value="tr">Türkçe</option>
               <option value="uk">Українська</option>
+              <option value="vi">Tiếng Việt</option>
               <option value="zh-cn">简体字</option>
               <option value="zh-tw">繁體字</option>
             </select>
