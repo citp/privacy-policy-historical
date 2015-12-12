@@ -1,0 +1,2706 @@
+<!--The following is the downloaded HTML source of the ourshopee.com privacy policy that was archived on 2015-12-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151212055648id_/http%3A//www.ourshopee.com/privacy-policy) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html xml:lang="en" lang="en"><head>
+
+<meta name="format-detection" content="telephone=no">
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="msvalidate.01" content="7A959E2475ACE7D658318130C68F4B09">
+<title>Privacy Policy</title>
+<meta name="description" content="Ourshopee.com, Online Shopping in uae. Shop online for Mobiles, Laptops, Appliances, Clothing, Home Furnishing &amp; more.  Free Shipping, Cash on Delivery.">
+<meta name="keywords" content="online shopping uae, uae shopping online, ourshopee.com uae, ourshopee, buy online, buy mobiles online, buy laptop online, computers, laptop, toys, trimmers, watches, fashion jewellery, home, kitchen, small appliances, beauty, Sports, Fitness &amp;amp; Outdoors">
+<meta name="robots" content="INDEX,FOLLOW">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+
+<link rel="icon" href="http://www.ourshopee.com/media/favicon/default/fav_icon.png" type="image/x-icon">
+<link rel="shortcut icon" href="http://www.ourshopee.com/media/favicon/default/fav_icon.png" type="image/x-icon">
+<!--[if lt IE 7]>
+<script type="text/javascript">
+//<![CDATA[
+    var BLANK_URL = 'http://www.ourshopee.com/js/blank.html';
+    var BLANK_IMG = 'http://www.ourshopee.com/js/spacer.gif';
+//]]>
+</script>
+<![endif]-->
+<!--group: nogroup-->
+<link rel="stylesheet" type="text/css" href="http://www.ourshopee.com/media/css/fea5d3d39180f8f76b88f4562c4b8f8a.css" media="all">
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://www.ourshopee.com/media/js/7ead8d0074548d2e77bd246c273c376b.js"></script>
+<link href="http://www.ourshopee.com/rss/catalog/new/store_id/1/" title="New Products" rel="alternate" type="application/rss+xml">
+<link href="http://www.ourshopee.com/rss/catalog/special/store_id/1/cid/0/" title="Special Products" rel="alternate" type="application/rss+xml">
+<link href="http://www.ourshopee.com/blog/rss/index/store_id/1/" title="Blog" rel="alternate" type="application/rss+xml">
+
+<script type="text/javascript">
+//<![CDATA[
+Mage.Cookies.path     = '/';
+Mage.Cookies.domain   = '.www.ourshopee.com';
+//]]>
+</script>
+
+<script type="text/javascript">
+//<![CDATA[
+optionalZipCountries = ["HK","IE","MO","PA"];
+//]]>
+</script>
+            <!-- BEGIN GOOGLE ANALYTICS CODE -->
+        <script type="text/javascript">
+        //<![CDATA[
+            var _gaq = _gaq || [];
+            
+_gaq.push(['_setAccount', 'UA-65898396-1']);
+_gaq.push (['_gat._anonymizeIp']);
+_gaq.push(['_trackPageview']);
+            
+            (function() {
+                var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+
+        //]]>
+        </script>
+        <!-- END GOOGLE ANALYTICS CODE -->
+    <script type="text/javascript">
+//<![CDATA[
+	var isCart=0;
+	var _skipProductlink ='';
+	var enable_ajax_cart = 1;
+	var enable_ajax_compare = 1;
+	var enable_ajax_wishlist = 1;
+	var enable_ajax_update = 1;
+	var confirm_display = 1;
+	var confirm_countdown_number = 2;
+	var confirm_item_display = 1;
+	
+	var isWishlist=0;
+	var isCompare=0;
+	var setfocus=1;
+	//var isIE6= new RegExp("MSIE 6").test(navigator.userAgent);
+	var isIE7= new RegExp("MSIE 7").test(navigator.userAgent);
+	var iffix="";
+	//if(isIE6) {iffix="<iframe id='iffix'></iframe>";}
+	var iprocess='<div id="loadmask"><p class="loader"><img alt="Loading..." src="http://www.ourshopee.com/skin/frontend/sm-maxshop/ourshope/sm/cartpro/images/ajax-loader-tr.gif"><br>Please wait...</p></div>'+iffix;
+	var iconfirm="";
+	var islogin="0";
+	var bundle;
+	var optionsPrice;
+	var calendar;
+	var productAddToCartForm;
+	var dConfig;
+	var classBtnAddtocart = '.btn-cart';
+	function ajaxUpdate(args,type)
+	{
+		if(type=="url"){
+			//var param=""+args;
+			//url="http://www.ourshopee.com/cartpro/index/add/";
+			url=args;
+			new Ajax.Request(url, {encoding:'UTF-8',method: 'post',
+				 parameters:{
+					isCart:isCart,	//check current page is product page, or My cart page, and check this request is ajax or not
+					isWishlist:isWishlist	
+				}, 
+				// req.setRequestHeader("Content-type", "text/x-json");
+
+				onSuccess : function(resp)
+				{
+					var respjson=resp.responseText.evalJSON();
+					updateCart(respjson);
+				},
+				onLoading : function(resp)
+				{	$("fancybox-wrap-clone").setStyle({display:"none"});
+					$("process").innerHTML=iprocess;
+					$("process").setStyle({display:"block"});
+					$("options").setStyle({display:"block"});
+					//$("blurmask").setStyle({display:"block"});
+					fixcenter();
+				},
+				onFailure : function(resp)
+				{
+					Element.setInnerHTML( display, resp.responseText);
+				},
+				onComplete: function()
+				{
+					$("process").setStyle({display:"none"});
+					$("blurmask").setStyle({display:"none"});
+				}
+			}); 
+		}
+		else{
+			$('product_addtocart_form').request({			//form-example  id form
+				encoding:'UTF-8',
+				method:'post',
+				//setRequestHeader: {Accept: 'text/html'},
+				parameters:{isCart:isCart},		
+				onLoading : function(resp)
+				{
+					$("process").innerHTML=iprocess;
+					$("process").setStyle({display:"block"})
+					$("fancybox-wrap-clone").setStyle({display:"none"});
+					$("options").setStyle({display:"block"});
+					//$("blurmask").setStyle({display:"block"});
+					fixcenter();
+				},				
+				onComplete: function(resp){
+					$("process").setStyle({display:"none"});
+					$("blurmask").setStyle({display:"none"});
+					var respjson=resp.responseText.evalJSON();
+					updateCart(respjson);
+				}
+			});		
+		}
+	}
+	function updatePCart(resp){
+		if(resp.r=='0'){ //add to cart
+			if(!resp.options){
+				if(opener.isCart=='1'){
+					opener.updateBigcart(resp);
+					$("options").setStyle({display:"none"});
+				}
+				else{
+					opener.updateCartSidebar(resp);
+					if(hideConfirm!=1)
+					showPConfirm(resp);
+					
+					hideConfirm=0;
+				}
+			}
+			else{
+				showOptions(resp);
+				showPConfirm(resp);
+			}
+		}
+		else if(resp.r=='1'){		//apply add wishlist
+			if(isWishlist=='1'){
+				opener.updateWishlistRemove(resp);
+			}
+			else{
+				opener.updateMiniWish(resp);
+				if(hideConfirm!=1)
+				showPConfirm(resp);
+				hideConfirm=0;
+			}			
+		}		
+	}
+	function updateCart(resp){
+		if(resp.r=='0'){ //  apply action add to cart
+			if(!resp.options){
+				if(isCart=='1'){	// in my cart page
+					updateBigcart(resp);
+					$("options").setStyle({display:"none"});
+					if(hideConfirm!=1)
+						showConfirm(resp);
+					hideConfirm=0;
+				}
+				else{
+					
+					if(resp.wishlist){
+						updateWishlist(resp); //update mini wish ,or big wishlist when click addtocart
+					}
+					updateCartSidebar(resp);
+					
+					if(hideConfirm!=1)
+						showConfirm(resp);
+					hideConfirm=0;
+				}
+				updateMiniCartPro(resp);
+				updateDeleteLinks();	//for btn delete in table item added tocart
+				updateLinks(resp);
+				if(islogin=="1"){
+					updateWishlistLinks();
+				}
+				updateProductCompareLinks();						
+			}
+			else{
+				if(resp.wishlist){
+						updateWishlist(resp);
+				}		
+				showOptions(resp);
+				//showConfirm(resp);	//fixed for mage 324
+			}
+		}
+		else if(resp.r=='1'){		//apply action add wishlist 
+			if(isWishlist=='1'){
+				updateWishlistRemove(resp);  //in wishlist page have only case remove item in big wishlist, => only update bigwishlist
+				if(hideConfirm!=1)
+				showConfirm(resp);
+				hideConfirm=0;
+			}
+			else{
+				updateMiniWish(resp);  //not in wishlist page have 2case : add item, and remove item in miniwish => only update miniwish
+				if(hideConfirm!=1)
+				showConfirm(resp);
+				hideConfirm=0;
+			}			
+		}
+		else if(resp.r=='2'){		//apply action add product compare
+			updateProductCompare(resp);
+			if(isCompare && deletePCompare){
+				//deletePCompare=0;
+				win.location.reload();
+			}
+			if(hideConfirm!=1)
+			showConfirm(resp);
+			deletePCompare=0;
+			hideConfirm=0;
+		}
+	}
+	function updateBigcart(resp){
+		var bcart=$$("#yt_content .cart");
+		if(typeof(bcart)!='undefined'){
+			bcart.each(function(el){ el.innerHTML = resp.cart; });
+		}
+	}
+	function updateCartSidebar(resp){
+		//for(var x in elem){console.log(x);}
+		//Effect add to cart
+		// if(elem!=undefined){
+			// var clone = elem.cloneNode(true);
+			
+			// elem.up().insert(clone);
+			// clone.setStyle({position:"absolute"});elem.setStyle({position:"absolute"});
+			// //console.log(clone);
+			// //console.log($$(minicart)[0].offsetLeft,$$(minicart)[0].offsetTop);
+
+			// ProdX=elem.up(2).offsetLeft+elem.offsetLeft;
+			// ProdY=elem.up(2).offsetTop+elem.offsetTop;
+
+			// //console.log(elem.up(2).tagName);
+			// if(isIE6 ||isIE7){
+			// CartX=$$(minicart)[0].offsetLeft+$$(minicart)[0].up().offsetLeft+$$(minicart)[0].up(1).offsetLeft;
+			// CartY=$$(minicart)[0].offsetTop+$$(minicart)[0].up().offsetTop+$$(minicart)[0].up(1).offsetTop;
+			// }
+			// else{
+			// CartX=$$(minicart)[0].offsetLeft;
+			// CartY=$$(minicart)[0].offsetTop;
+			// }
+			// //pCartX=$$(minicart)[0].offsetParent.offsetLeft ;
+			// //pCartY=$$(minicart)[0].offsetParent.offsetTop ;
+			// //prod=elem.realOffset();
+			// var gotoX           = CartX - ProdX;
+			// var gotoY           = CartY - ProdY;
+			// //alert(gotoX+":"+gotoY+":"+ProdY+":"+ProdX+":"+CartX+":"+CartY+":"+pCartX+":"+pCartY+":"+CartX2+":"+CartY2);
+			// var pos=fixcenter();
+			// //console.log(CartX);console.log(CartY );console.log(pos[0]);console.log(pos[1]);console.log(ProdX);console.log(ProdY);//console.log(prod[0]);console.log(prod[1]);
+			// new Effect.Parallel(
+			 // [
+			 // new Effect.MoveBy(clone,gotoY, gotoX , { sync: true }),
+			 // new Effect.Scale(clone, 75, { sync: true }),
+			 // new Effect.Opacity(clone,{sync: true,from:1,to:0})
+			 // ],
+			 // {duration: 3}
+			 // );		
+			// //clone.remove();
+		// }
+		//var bcart=$$(".block-cart");
+		//minicart=($$('.mini-cart')!='')?$$('.mini-cart')[0]:$$('.block-cart')[0];
+		//var bcart=$$(sidebarcart);
+		if(typeof($$(sidebarcart))!='undefined'){
+			$$(sidebarcart).each(function(blockitem){ blockitem.replace(resp.cart); } );
+			truncateOptions();		
+		}
+	}
+	function updateMiniCartPro(resp){
+		//var bcart=$$(minicartpro)[0];
+		if(typeof($$(minicartpro))!='undefined'){
+			$$(minicartpro).each(function(blockitem){ 
+				if(resp.cartpro!=""){
+					blockitem.replace(resp.cartpro);
+				}
+			});
+			truncateOptions();	
+		}
+	}	
+	function updateMiniWish(resp){
+		//var bminiwish=$$(".block-wishlist");
+		var bminiwish=$$(miniwish);
+		//var bcart=$$(".block-cart");
+		var bcart=$$(minicart);
+		if(typeof(bminiwish)!='undefined'){ 
+			bminiwish.each(function(el){ el.replace(resp.cart); })
+		}else if(typeof(bcart)!='undefined'){
+			bcart.each(function(el){ el.insert({after:resp.cart}); });
+		}
+		updateWishlistAddCartLinks();
+		updateRemoveWishLinks();		
+		updateWishlinks(resp);
+	}
+	function updateLinks(resp){
+		//var links=$$(".top-link-cart");
+		//links[0].innerHTML=resp.links;
+		var links=$$(toplinkcart);
+		links.each(function(el){ el.innerHTML=resp.links; });
+	}
+	function updateWishlistRemove(resp){	//update wishlist when remove item
+		updateWishlist(resp);
+	}
+	function updateWishlist(resp){			//update wish list when add item to wishlist
+		var strwish="";
+		if(resp.wishlist){
+			strwish=resp.wishlist;
+		}else{
+			strwish=resp.cart;		
+		}
+		if(isWishlist=='0'){
+			//var bminiwish=$$(".block-wishlist");
+			var bminiwish=$$(miniwish);
+			//var bcart=$$(".block-cart");
+			var bcart=$$(minicart);
+			if(typeof(bminiwish)!='undefined'){
+				bminiwish.each(function(el){ el.replace(strwish); });
+			}
+			else if(typeof(bcart)!='undefined'){
+				bcart.each(function(el){ el.insert({after:strwish}); });
+			}
+			updateWishlistAddCartLinks();
+		}else{
+			//var bwish=$$(".my-account");
+			var bwish=$$(".col-main .my-account");
+			bwish.each(function(el){ 
+				el.innerHTML="";
+				el.innerHTML=strwish;
+			});
+		}
+		//bwish[0].replace(resp.wishlist);
+		updateRemoveWishLinks();
+		updateWishlinksCart(resp);
+		
+	}
+	function updateWishlinksCart(resp){		//update wishlink when add to cart item from wishlist
+		updateWishlinks(resp);
+	}
+	function updateWishlinks(resp){		//update wishlink when add product, remove product vao wishlist
+		//var links=$$(".top-link-wishlist");
+		//links[0].innerHTML=resp.links;	
+		var strwishlink="";
+		if(resp.wishlinks){
+			strwishlink=resp.wishlinks;
+		}else{
+			strwishlink=resp.links;		
+		}	
+		//var links=$$(".top-link-wishlist");
+		//links[0].innerHTML=strwishlink;			
+		
+		if(toplinkwish!=''){
+			$$(toplinkwish).each(function(el){ el.innerHTML=strwishlink; });
+		}
+		else{
+			var links = getToplinkwish();
+			if(links.length){
+				links.each(function(el){ el.innerHTML=strwishlink; });
+			}
+		}
+	}
+	function updateProductCompare(resp){
+		//var bproductcompare=$$('.block-compare');
+		var bproductcompare=$$(compare)[0];
+		//bproductcompare[0].replace(resp.cart);
+		if(typeof(bproductcompare)!='undefined'){
+			bproductcompare.replace(resp.cart);
+			updateRemovePCompareLinks();
+			updateClearPCompareLinks();
+		}
+		
+	}
+
+	function showConfirm(resp){
+		if(!confirm_display){ return false; }
+		timedown = confirm_countdown_number;
+		var cnext="";
+		var addto="";
+		var cshop="";
+		var txtaddedto=(hideConfirm==1 || deletePCompare==1)?"item deleted from ":" added to ";
+		
+		if(isCompare){
+			cshop='<li><button id="btcshop" title="Continue Compare" class="button" onclick="$(\'confirmbox\').innerHTML=\'\';$(\'fancybox-wrap-clone\').setStyle({display:\'none\'});$(\'options\').setStyle({display:\'none\'});isCompare=0;win.focus();"><span id="setcdown">'+ timedown +' s</span> </button></li>';		
+		}
+		else{
+			cshop='<li><button id="btcshop" title="Continue Shopping" class="button" onclick="$(\'confirmbox\').innerHTML=\'\';$(\'fancybox-wrap-clone\').setStyle({display:\'none\'});$(\'options\').setStyle({display:\'none\'});"><span id="setcdown">'+ timedown +' s</span> </button></li>';
+		}
+		if(resp.r=='0'){
+				var tnext=(isCart==1)?"Proceed to Checkout":"View cart & checkout";
+				var linknext=(isCart==1)?"http://www.ourshopee.com/checkout/onepage/":"http://www.ourshopee.com/checkout/cart/";
+				cnext='<li><a id="btccart" title="Checkout"  onclick="$(\'confirmbox\').innerHTML=\'\';$(\'fancybox-wrap-clone\').setStyle({display:\'none\'});$(\'options\').setStyle({display:\'none\'});window.location=\''+linknext+'\';"  href="'+linknext+'">	<span>'+tnext+'</span></a></li>';
+				addto="your shopping cart.";
+		}
+		else if(resp.r=='1'){
+				cnext='<li><a id="btccart" title="View Wishlist" class="button" onclick="$(\'confirmbox\').innerHTML=\'\';$(\'fancybox-wrap-clone\').setStyle({display:\'none\'});$(\'options\').setStyle({display:\'none\'});window.location=\'http://www.ourshopee.com/wishlist/index/\';"  href="http://www.ourshopee.com/wishlist/index/">	<span>View Wishlist</span></a></li>';
+				addto="your wishlist.";
+		}
+		else if(resp.r=='2'){
+				var str=resp.cart;
+				var strclick=str.substring(str.indexOf("popWin('"),str.indexOf(")",str.indexOf("popWin('"))+1);
+				cnext='<li><a id="btccart" title="View Comparison" href="javascript:void(\'0\')" onclick="$(\'confirmbox\').innerHTML=\'\';$(\'fancybox-wrap-clone\').setStyle({display:\'none\'});$(\'options\').setStyle({display:\'none\'});'+strclick+'">	<span>View Comparison</span></a></li>';
+				addto="comparison list.";
+		}
+		var info= (typeof resp.infoitem !="undefined")?resp.infoitem:"";
+		var sometext = '<div class="moretext">Thank you for your choosing !</div>';
+		
+		var headinfo = '<p class="head-iteminfo '+((resp.r=='1' || resp.r=='2')?'show':'')+'"><span id="item-name">"'+resp.nameitem+'"</span>'+txtaddedto+addto+'</p>';
+		var blockconfirm=	headinfo
+							+ ((typeof info.item !="undefined" && info.item!="" && confirm_item_display)?(info.item + sometext):"") + ((typeof info.other !="undefined" && info.other!="")?info.other:"") 
+							
+							+'<div id="btnavi"><ul>'+cshop+cnext+'</ul></div>'+iffix;
+		$("confirmbox").innerHTML=blockconfirm;
+		setTimeout("cdown(timedown)",1000);
+		$("fancybox-wrap-clone").setStyle({display:"block"});
+		$("options").setStyle({display:"block"});
+		fixcenter();
+		
+		if(timedown==0)
+			isCompare=0;
+	}
+	function showPConfirm(resp){
+		timedown = confirm_countdown_number;
+		var cnext="";
+		var addto="";
+		var cshop='<li><a id="btcshop"  onclick="$(\'confirmbox\').remove();$(\'options\').setStyle({display:\'none\'});" href="javascript:void(0);"><span id="setcdown">Continue Shopping<span id="cdown">('+timedown+')</span></span> </a></li>';
+		var cclose='<li><a id="btcclose"  onclick="window.close();" href="javascript:void(0);"><span>Close Compare</span> </a></li>';
+		if(resp.r=='0'){
+				var cnext='<li><a class="button view-button" id="btccart"  onclick="opener.window.location.href=\'http://www.ourshopee.com/checkout/cart/\';window.close();"  href="javascript:void(0)">	<span>View cart & checkout</span></a></li>';
+				addto="your shopping cart.";
+		}
+		else if(resp.r=='1'){
+				var cnext='<li><a class="button view-button" id="btccart"  onclick="opener.location.href=\'http://www.ourshopee.com/checkout/cart/\';window.close();"  href="javascript:void(0)">	<span>View Wishlist</span></a></li>';
+				addto="your wishlist.";
+		}
+		var blockconfirm='<div id="confirmbox" ><p><span id="product_name">'+resp.nameitem+'</span> added to '+addto+'</p><br><div id="btnavi"><ul>'+cshop+cnext+cclose+'</ul></div></div>'+iffix;
+		
+		$("confirmbox").innerHTML=blockconfirm;setTimeout("cdown(timedown)",1000);		
+		$("fancybox-wrap-clone").setStyle({display:"block"});
+		$("process").setStyle({display:"none"});	
+		$("options").setStyle({display:"block"});		
+	}
+	function cdown(timedown){
+		var cto="";
+		//cto=(isCompare)?"Continue Compare":"Continue Shopping";
+
+		if(timedown!=1){  //show box and count down timer when timeout will close box
+			try{
+					time=timedown-1;
+					$("setcdown").innerHTML= time+"  s";setTimeout("cdown(time)",1000);
+				}
+			catch(e){}
+		}
+		else{
+			$("options").setStyle({display:"none"});
+			$('fancybox-wrap-clone').setStyle({display:'none'});
+			if(isCompare) {isCompare=0;win.focus();}
+			
+			return;
+		}
+	}
+	function showOptions(resp){
+		            //tmpDiv = win.document.createElement('div');
+					var i;
+
+                    var scripts = resp.cart.extractScripts();
+			
+					//$("zoptions").innerHTML=resp.cart.stripScripts()+iffix;//iframe hack IE6 , make for div have zindex great than z-index select form
+									
+                    for (i=0; i<scripts.length; i++)
+                    {
+                        if (typeof(scripts[i]) != 'undefined' && i<2){
+                            try{
+								eval(scripts[i]);
+							}
+							catch(e){
+								console.debug(e);
+							}
+                        }
+						else{
+							break;
+						}
+                    }
+						
+					$("confirmbox").innerHTML=resp.cart.stripScripts()+iffix;	
+				   //tmpDiv.innerHTML = resp.cart.stripScripts();
+                   // win.document.body.appendChild(tmpDiv);
+					$("process").setStyle({display:"none"});
+
+					$("fancybox-wrap-clone").setStyle({display:"block"});
+                    $("options").setStyle({display:"block"});
+					try{
+						fixcenter();
+						}
+					catch(e){
+						console.debug(e);
+					}					
+                   // showOptionsDialog();
+                   // hideProgressAnimation();
+                    for (i; i<scripts.length; i++)
+                    {
+                        if (typeof(scripts[i]) != 'undefined')
+                        {	
+                            try{
+								eval(scripts[i]);
+							}
+							catch(e){
+								console.debug(e);
+							}
+                        }
+                    }
+                    productAddToCartForm = new VarienForm('product_addtocart_form');
+                    decorateGeneric($$('#product-options-wrapper dl'), ['last']);
+                    addSubmitEvent();
+                    //if (typeof($$('#acp_configurable_block .focus')[0]) != 'undefined') $$('#acp_configurable_block .focus')[0].focus();
+                  //  bundle.reloadPrice();
+	}
+	function truncateOptions() { //box show description options of product configurable when hover "details" in sidebar or minicartpro
+		 $$('.truncated').each(function(element){
+			 Event.observe(element, 'mouseover', function(){
+					 if (element.down('div.truncated_full_value')) {
+						element.down('div.truncated_full_value').addClassName('show')
+					 }
+				 });
+			 Event.observe(element, 'mouseout', function(){
+				 if (element.down('div.truncated_full_value')) {
+					element.down('div.truncated_full_value').removeClassName('show')
+				 }
+			});
+		 });
+	} 
+	function addSubmitEvent()
+	{
+		if (enable_ajax_cart && (typeof productAddToCartForm != 'undefined' ))
+		{
+			productAddToCartForm.submit = function(url){
+				if(this.validator && this.validator.validate()){
+					url=$('product_addtocart_form').action;	//url cua form trong category view
+					ajaxUpdate(url,'form');
+				}
+				return false;
+			}
+		}
+	}
+
+	//this code below allow product type download is valid when addtocart
+	Product.Downloadable = Class.create();
+	Product.Downloadable.prototype = {
+		config : {},
+		initialize : function(config){
+			this.config = config;
+			this.reloadPrice();
+		},
+		reloadPrice : function(){
+			var price = 0;
+			config = this.config;
+			$$('.product-downloadable-link').each(function(elm){
+				if (config[elm.value] && elm.checked) {
+					price += parseFloat(config[elm.value]);
+				}
+			});
+			try {
+				var _displayZeroPrice = optionsPrice.displayZeroPrice;
+				optionsPrice.displayZeroPrice = false;
+				optionsPrice.changePrice('downloadable', price);
+				optionsPrice.reload();
+				optionsPrice.displayZeroPrice = _displayZeroPrice;
+			} catch (e) {
+
+			}
+		}
+	};
+
+	function validateDownloadableCallback(elmId, result) {
+		var container = $('downloadable-links-list');
+		if (result == 'failed') {
+			container.removeClassName('validation-passed');
+			container.addClassName('validation-failed');
+		} else {
+			container.removeClassName('validation-failed');
+			container.addClassName('validation-passed');
+		}
+	} 
+    Product.Options = Class.create();
+    Product.Options.prototype = {
+        initialize : function(config){
+            this.config = config;
+            this.reloadPrice();
+        },
+        reloadPrice : function(){
+            price = new Number();
+            config = this.config;
+            skipIds = [];
+            $$('.product-custom-option').each(function(element){
+                var optionId = 0;
+                element.name.sub(/[0-9]+/, function(match){
+                    optionId = match[0];
+                });
+                if (this.config[optionId]) {
+                    if (element.type == 'checkbox' || element.type == 'radio') {
+                        if (element.checked) {
+                            if (config[optionId][element.getValue()]) {
+                                price += parseFloat(config[optionId][element.getValue()]);
+                            }
+                        }
+                    } else if(element.hasClassName('datetime-picker') && !skipIds.include(optionId)) {
+                        dateSelected = true;
+                        $$('.product-custom-option[id^="options_' + optionId + '"]').each(function(dt){
+                            if (dt.getValue() == '') {
+                                dateSelected = false;
+                            }
+                        });
+                        if (dateSelected) {
+                            price += parseFloat(this.config[optionId]);
+                            skipIds[optionId] = optionId;
+                        }
+                    } else if(element.type == 'select-one' || element.type == 'select-multiple') {
+                        if (element.options) {
+                            $A(element.options).each(function(selectOption){
+                                if (selectOption.selected) {
+                                    if (this.config[optionId][selectOption.value]) {
+                                        price += parseFloat(this.config[optionId][selectOption.value]);
+                                    }
+                                }
+                            });
+                        }
+                    } else {
+                        if (element.getValue().strip() != '') {
+                            price += parseFloat(this.config[optionId]);
+                        }
+                    }
+                }
+            });
+            try {
+                optionsPrice.changePrice('options', price);
+                optionsPrice.reload();
+            } catch (e) {
+
+            }
+        }
+    }
+    function validateOptionsCallback(elmId, result){
+        var container = $(elmId).up('ul.options-list');
+        if (result == 'failed') {
+            container.removeClassName('validation-passed');
+            container.addClassName('validation-failed');
+        } else {
+            container.removeClassName('validation-failed');
+            container.addClassName('validation-passed');
+        }
+    }
+
+
+
+    var CartForm = Class.create();
+        CartForm.prototype = { 
+        		initialize: function(form, addressUrl, saveUrl){
+						this.form = form;
+						if ($(this.form)) {
+						     $(this.form).observe('submit', function(event){this.save();Event.stop(event);}.bind(this)); //prevent event submit form
+						}
+						this.addressUrl = addressUrl;
+						this.saveUrl = saveUrl;
+						this.onSave = this.reloadCart.bindAsEventListener(this);
+						this.onComplete = this.hideLoading.bindAsEventListener(this);
+						this.onFailure = this.ajaxFailure.bindAsEventListener(this);
+						this.onLoading = this.showLoading.bindAsEventListener(this);
+						this.onChanged = false;
+        			 }, 
+        		save: function(){
+	        			
+		        		var validator = new Validation(this.form);
+						if (validator.validate()) {
+	        				 if(enable_ajax_update){	   
+		        				 var request = new Ajax.Request(
+			        				 this.saveUrl,
+			        				 {
+				        				 method: 'post',
+				        				 onComplete: this.onComplete,
+				        				 onSuccess: this.onSave,
+				        				 //onFailure: this.onFailure,
+				        				 onLoading: this.onLoading,
+				        				 parameters: Form.serialize(this.form)+'&isCart='+isCart,
+			        				 }
+		        				 );
+	        				 }else{
+								//return VarienForm.prototype.submit.bind(new VarienForm(this.form.id))();
+									$(this.form).submit();
+	        				 }	 
+	        			}
+        			},
+  
+				reloadCart: function(resp){
+						var respjson=resp.responseText.evalJSON();
+						hideConfirm = 1;
+						updateCart(respjson);
+					},
+				ajaxFailure: function(){
+
+				},
+				showLoading: function(){
+					$("fancybox-wrap-clone").setStyle({display:"none"});
+					$("process").innerHTML=iprocess;
+					$("process").setStyle({display:"block"});
+					
+					$("options").setStyle({display:"block"});
+					//$("blurmask").setStyle({display:"block"});
+					fixcenter();				
+				},
+				hideLoading: function(){
+					$("process").setStyle({display:"none"});
+					$("blurmask").setStyle({display:"none"});
+				}					        			        			 	
+        };
+        
+//]]>    
+</script>
+<script type="text/javascript">//<![CDATA[
+        var Translator = new Translate([]);
+        //]]></script>
+<script type="text/javascript">
+//<![CDATA[
+	var SKIN_URL = 'http://www.ourshopee.com/skin/frontend/default/sm_maxshop';
+	var TMPL_NAME = 'sm_maxshop';
+	var TMPL_COOKIE = ["theme_color","layoutstyle","menustyle"];
+//]]>
+</script>
+
+<link rel="stylesheet" href="http://www.ourshopee.com/skin/frontend/sm-maxshop/ourshope/css/theme-red.css" type="text/css">
+
+
+<link rel="author" href="https://plus.google.com/u/0/+Smartaddons">
+
+
+
+
+	<link href="http://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet" type="text/css">
+
+
+<style type="text/css">
+
+body{	
+		font-size:12px;	
+	}
+		body{
+			font-family:Open Sans;	
+		}
+		body.sm_maxshop{	
+			color:#666666 ;			
+		}
+		body.sm_maxshop{	
+			background-color:#F5F5F5 ;
+		}
+		a,
+		.store-info .list-info .item-info .info-content > h2{	
+			color:#444444 ;	
+		}
+		a:hover,
+		.no-rating a:hover{	
+			color:#C90101 ;	
+		}
+		#yt_wrapper .page-title:before{
+			background-color:#666666 ;
+		}		
+		
+		.cloud-zoom-lens{	
+			border: 1px solid #ccc;
+			background: #fff;			
+		}
+		.cloud-zoom-big {
+			overflow: hidden;
+			border: 2px solid #ccc;
+			top: 0 !important;
+		}		
+		</style>
+
+<script>
+	jQuery(document).ready(function($) {
+		$('.minimal-price-link').parent('.price-box').addClass('r-price-box');
+	});	
+</script>
+<script type="text/javascript">
+//<![CDATA[
+	/* jQuery(function ($) {
+	  $('[data-toggle="tooltip"]').tooltip()
+	}) */
+
+	jQuery(document).ready(function($){ 
+		setInterval(function(){
+			$('[data-toggle="tooltip"]').tooltip();
+		}, 99)
+		//$('[data-toggle="tooltip"]').tooltip();
+		// show-hidden login form 
+		$(".header-login .login-quick").hide();
+		$('.header-login a.login').click(function(){
+			$this = $(this);
+			$this.toggleClass("actived");
+			$(".login-quick").slideToggle("fast");
+			$('.mini-cartpro .block-content').css({'display': 'none'});
+		});
+		
+		//style for select option, radio...
+		$("#chk_remember").uniform();
+		$("#product-options-wrapper select").uniform();
+		$("#toolbar-limit select").uniform();
+		$(".toolbar .select-inner select").uniform();
+		
+		$(".cat-wrapper #cat").uniform();
+		
+		//change select,option -> ul,li	
+		$("select").jqTransform();
+		$(".block-currency").jqTransform();
+		$(".language-switcher").jqTransform();	
+		$(".language-switcher .jqTransformSelectWrapper").each(function(){
+			arr_bg = new Array();
+			arr_tit = new Array(); i=0;
+			$(this).find('select option').each(function(){
+				arr_bg[i] = $(this).css('background-image'); 
+				arr_tit[i] = $(this).attr('title');
+				i++;
+			})
+			j=0;
+			$(this).find('ul li').each(function(){
+				if(arr_bg[j]!="none"){
+					$(this).find('a').css('background-image', arr_bg[j]);
+				}
+				$(this).find('a').attr('title', arr_tit[j]);
+				j++;
+			});
+		});
+		$('.language-switcher .jqTransformSelectWrapper ul li a.selected,.language-switcher .jqTransformSelectWrapper div span').css('background-image', $('#select-language option[selected="selected"]').css('background-image'));
+		$('.language-switcher .jqTransformSelectWrapper div span').attr('title', $('#select-language option[selected="selected"]').attr('title'));	
+		
+				
+			$window = $(window);
+			
+						menu_offset_top = $('.yt-header-under').offset().top;
+			function processScroll() {
+				var scrollTop = $window.scrollTop();
+				if ( scrollTop >= menu_offset_top) {
+					$('.yt-header-under').addClass('menu-on-top');
+				} else if (scrollTop <= menu_offset_top) {
+					$('.yt-header-under').removeClass('menu-on-top');
+				}
+			}
+
+			if( $('.yt-header-under') ){
+				// fix sub nav on scroll
+				processScroll();
+				$window.scroll(function(){
+					processScroll();
+				});
+			}
+						
+				//custom js (theme config) 
+		//alert('Welcome to our store');		
+	});
+//]]>	
+</script>
+
+
+
+</head>
+
+
+
+
+
+<body id="bd" class="cmspage1 sm_maxshop    cms-page-view cms-privacy-policy">
+
+
+    <div id="yt_wrapper">
+
+    
+
+        <!-- BEGIN: Header -->
+
+		<div id="yt_header" class="yt-header wrap">
+
+		     
+<div class="header-default header-v2">
+	<div class="yt-header-top">
+		<div class="container">
+			<div class="row">
+				<div class="col-lg-6 col-md-5 sl-header-text">
+					<div class="label-offer-slider">This Week</div>
+<div class="offer-wrapper">
+<div class="offer-header">
+<ul id="offer-slider">
+<li class="item"><a title="Offer" href="#">Enjoy the shopping experience with Ourshopee.com</a></li>
+</ul>
+<script type="text/javascript">// <![CDATA[
+jQuery(document).ready(function($) {
+								 
+									$("#offer-slider").owlCarousel({
+										autoPlay: true,
+										navigation : false,
+										pagination: false,
+										slideSpeed : 300,
+										paginationSpeed : 400,
+										singleItem:true
+									});
+								 
+								});
+// ]]></script>
+</div>
+</div>				</div>
+				
+				<div class="col-lg-6 col-md-7 top-links-action">
+										
+					<div class="block-action-header top-link-account checkout-link">
+						<ul class="links">
+                        <li class="first last"><a href="http://www.ourshopee.com/checkout/" title="Checkout" class="top-link-checkout">Checkout</a></li>
+            </ul>
+					</div>
+					<div class="block-action-header top-link-account my-account-link">
+						<ul>
+							<li>
+								<a class="account-toplink dropdown-ict" title="My Account" href="http://www.ourshopee.com/customer/account/">My Account</a>
+								<ul class="dropdown-link-account">
+<li><a title="My Orders" href="http://www.ourshopee.com/customer/account/index/">My Account</a></li>
+<li><a title="Account Information" href="http://www.ourshopee.com/sales/order/history/">Order History</a></li>
+<li><a title="Address Book" href="http://www.ourshopee.com/customer/address/new/">My Addresses</a></li>
+<li><a title="Place a Complaint" href="http://www.ourshopee.com/place-a-complaint/">Place a Complaint</a></li>
+</ul>							</li>
+						</ul>
+					</div>
+					
+					<div class="block-action-header top-link-account login-link">
+						<ul>
+														<!--<li>
+								<a class="login-btn" data-toggle="modal" data-target="#modal-login" title=""></a>
+                                							</li>-->
+                            
+                            <li>
+								<a class="login-btn" title="Login" href="http://www.ourshopee.com/customer/account/login/">Login</a>
+                                							</li>
+													</ul>
+					</div>
+					
+					<div class="action-mobile">
+
+						<div class="block-action-header top-link-account my-account-link account-mobile-btn">
+							<ul>
+								<li>
+									<a title="My Account" href="http://www.ourshopee.com/customer/account/">&nbsp;</a>
+								</li>
+							</ul>
+							<div class="dropdown-mobile">
+								<ul class="links">
+                        <li class="first last"><a href="http://www.ourshopee.com/checkout/" title="Checkout" class="top-link-checkout">Checkout</a></li>
+            </ul>
+								<ul class="dropdown-link-account">
+<li><a title="My Orders" href="http://www.ourshopee.com/customer/account/index/">My Account</a></li>
+<li><a title="Account Information" href="http://www.ourshopee.com/sales/order/history/">Order History</a></li>
+<li><a title="Address Book" href="http://www.ourshopee.com/customer/address/new/">My Addresses</a></li>
+<li><a title="Place a Complaint" href="http://www.ourshopee.com/place-a-complaint/">Place a Complaint</a></li>
+</ul>							</div>
+						</div>
+						
+						<div class="block-action-header top-link-account login-link login-mobile-btn">
+							<ul>
+																<li>
+									<a class="login-btn" href="http://www.ourshopee.com/customer/account/login/" title="Login">&nbsp;</a>
+								</li>
+															</ul>
+						</div>
+						
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	
+	<div class="yt-header-middle">
+		<div class="container">
+			<div class="row">
+				<div class="col-lg-4 col-md-4 col-sm-4 logo-wrapper">
+					<h1>
+						<a title="Ourshopee" href="http://www.ourshopee.com/">
+							<img src="http://www.ourshopee.com/skin/frontend/sm-maxshop/ourshope/images/red/logo.png" alt="Ourshopee">
+						</a>
+					</h1>
+				</div>
+				
+				<div class="col-lg-6 col-md-5 col-sm-4 search-pro">
+						<div id="sm_serachbox_pro2887078971449899808" class="sm-serachbox-pro">
+			
+		<div class="sm-searbox-content">
+			<form id="search_mini_form" action="http://www.ourshopee.com/catalogsearch/result/" method="get">
+				<div class="form-search">
+										<div class="cat-wrapper">
+						<select id="cat" name="cat">
+							<option value="">All Categories</option>
+
+															<option value="2">Default Category</option>
+															<option value="4">- Clothing, Bags &amp; Shoes</option>
+															<option value="10">- - Clothing</option>
+															<option value="180">- - - Men</option>
+															<option value="181">- - - Women</option>
+															<option value="182">- - - Baby</option>
+															<option value="11">- - Accessories</option>
+															<option value="183">- - - Bags &amp; Handbags</option>
+															<option value="184">- - - Wallets</option>
+															<option value="185">- - - Eye Wear Frames</option>
+															<option value="186">- - - Sunglasses</option>
+															<option value="12">- - Shoes</option>
+															<option value="187">- - - Men</option>
+															<option value="188">- - - Women</option>
+															<option value="189">- - - Baby</option>
+															<option value="5">- Mobile Phones &amp; Accessories</option>
+															<option value="14">- - Accessories</option>
+															<option value="45">- - - Headsets &amp; Microphones</option>
+															<option value="49">- - - Memory Cards</option>
+															<option value="52">- - - Mobile Accessories</option>
+															<option value="15">- - Mobile Phones</option>
+															<option value="53">- - - Apple</option>
+															<option value="54">- - - Sony Ericsson</option>
+															<option value="55">- - - Samsung</option>
+															<option value="56">- - - LG</option>
+															<option value="57">- - - Lenovo</option>
+															<option value="58">- - - Huawei</option>
+															<option value="59">- - - Nokia Windows</option>
+															<option value="60">- - - HTC</option>
+															<option value="112">- - - Blackberry</option>
+															<option value="122">- - - Videocon</option>
+															<option value="123">- - - Others</option>
+															<option value="203">- - - Intex</option>
+															<option value="72">- Electronics</option>
+															<option value="73">- - MP3 &amp; MP4 Players</option>
+															<option value="74">- - TV</option>
+															<option value="75">- - Speakers &amp; Home Theater System</option>
+															<option value="76">- - Gaming Consoles</option>
+															<option value="77">- - Games</option>
+															<option value="78">- - DVD Players</option>
+															<option value="79">- - Projectors</option>
+															<option value="87">- - Car Audio</option>
+															<option value="206">- - Others</option>
+															<option value="89">- Home &amp; Kitchen Appliances</option>
+															<option value="156">- - Air Coolers &amp; Fans</option>
+															<option value="157">- - Washing Machines</option>
+															<option value="158">- - Vacuum Cleaners </option>
+															<option value="159">- - Sandwich Maker</option>
+															<option value="160">- - Rice Cooker</option>
+															<option value="161">- - Emergency Lights &amp; Torch</option>
+															<option value="162">- - Microwave Ovens</option>
+															<option value="163">- - Kitchen Ware</option>
+															<option value="164">- - Kettle</option>
+															<option value="165">- - Irons</option>
+															<option value="166">- - Blenders</option>
+															<option value="167">- - Food Processors</option>
+															<option value="91">- Beauty &amp; Health</option>
+															<option value="190">- - Perfumes &amp; Fragrances</option>
+															<option value="195">- - - Men's Perfumes</option>
+															<option value="196">- - - Women's Perfumes</option>
+															<option value="197">- - - Luxury Perfumes</option>
+															<option value="191">- - Health &amp; Fitness</option>
+															<option value="198">- - - Sports &amp; Fitness</option>
+															<option value="199">- - - Bath &amp; Body</option>
+															<option value="200">- - - Personal Care</option>
+															<option value="201">- - - Oral Care</option>
+															<option value="202">- - - Electric Personal Care</option>
+															<option value="192">- - Beauty</option>
+															<option value="193">- - - Make Up Tools</option>
+															<option value="194">- - - Cosmetics</option>
+															<option value="92">- IT Hardware &amp; Accessories</option>
+															<option value="93">- - Softwares</option>
+															<option value="94">- - - Antivirus</option>
+															<option value="95">- - - Windows</option>
+															<option value="96">- - - Accounting</option>
+															<option value="97">- - - Games</option>
+															<option value="102">- - Computer Hardware</option>
+															<option value="103">- - - Mouse &amp; Keyboard</option>
+															<option value="104">- - - Routers, Switches and Networking</option>
+															<option value="105">- - - Hard Drives &amp; Storage</option>
+															<option value="106">- - - Processors</option>
+															<option value="107">- - - Motherboards</option>
+															<option value="108">- - - Power Supplies</option>
+															<option value="109">- - - Printers &amp; Scanners</option>
+															<option value="110">- - - Flash &amp; Memory Card</option>
+															<option value="143">- - - Webcams</option>
+															<option value="144">- - - Parts &amp; Components</option>
+															<option value="145">- - - Computer Gaming Consoles &amp; Accessories</option>
+															<option value="204">- - - Projector</option>
+															<option value="114">- Tablets &amp; Accessories</option>
+															<option value="124">- - Tablets</option>
+															<option value="125">- - - Apple</option>
+															<option value="126">- - - Samsung</option>
+															<option value="127">- - - Win Touch</option>
+															<option value="128">- - - Lenovo</option>
+															<option value="129">- - - XTouch</option>
+															<option value="130">- - - Asus</option>
+															<option value="131">- - - Touchmate</option>
+															<option value="135">- - - Others</option>
+															<option value="132">- - Tablet Accessories</option>
+															<option value="133">- - - Tablet Back Cover</option>
+															<option value="134">- - - Screen Protector</option>
+															<option value="115">- Laptops &amp; PC's</option>
+															<option value="136">- - Laptops &amp; notebooks</option>
+															<option value="137">- - Ultra Books</option>
+															<option value="138">- - Desktops</option>
+															<option value="139">- - Monitors</option>
+															<option value="140">- - All in one PC's</option>
+															<option value="141">- - Laptop Accessories</option>
+															<option value="142">- - Desktop Accessories</option>
+															<option value="116">- Cameras &amp; Accessories</option>
+															<option value="146">- - Cameras</option>
+															<option value="148">- - - DSLR Cameras</option>
+															<option value="149">- - - Compact Cameras</option>
+															<option value="150">- - - Camcorders</option>
+															<option value="151">- - - Lenses</option>
+															<option value="152">- - - Flashes</option>
+															<option value="147">- - Camera Accessories</option>
+															<option value="153">- - - Filters</option>
+															<option value="154">- - - Tripods</option>
+															<option value="155">- - - Batteries</option>
+															<option value="117">- Watches</option>
+															<option value="168">- - Watches</option>
+															<option value="170">- - - Men’s Watches</option>
+															<option value="171">- - - Women’s Watches</option>
+															<option value="172">- - - Smart Watches</option>
+															<option value="119">- Bundle Deals</option>
+															<option value="120">- Special Deals</option>
+															<option value="121">- Good Night Deals</option>
+															<option value="173">- - - Necklace</option>
+															<option value="174">- - - Jewellery Sets</option>
+															<option value="175">- - - Rings</option>
+															<option value="176">- - - Earings</option>
+															<option value="177">- - - Cufflinks</option>
+															<option value="178">- - - Bracelets &amp; Bangles</option>
+															<option value="179">- - - Tie Clips</option>
+														
+							
+						</select>
+					</div>
+					<div class="input-search"> 
+						<input size="30" id="search" type="text" name="q" class="input-text" onfocus="if(this.value=='Enter your keyword...') this.value='';" onblur="if(this.value=='') this.value='Enter your keyword...';" value="Enter your keyword...">
+					</div>
+					<button type="submit" title="Search" class="icon-search button-search-pro form-button"></button>
+					<div id="search_autocomplete" class="search-autocomplete"></div>
+				</div>
+			</form>
+		</div>
+							</div>
+
+<script type="text/javascript">
+	jQuery(document).ready(function($){
+		$('.sm-searchbox-more').click(function(){
+			$('a.sm-searchbox-more').attr('data_count') == 10; 
+			var sb_ajaxurl = $('a.sm-searchbox-more').attr('data_sb_ajaxurl');
+			var firt_load = 5;
+			var count = $('a.sm-searchbox-more').attr('data_count'); 
+			count = parseInt(count);
+			if( firt_load >= count ){
+				count = count + parseInt(firt_load);
+			}
+			$.ajax({
+				type: 'POST',
+				url: sb_ajaxurl,
+				data:{
+					is_ajax: 1,
+					count_term: count
+				},
+				success: function(data){
+					$('.sm-serachbox-pro').html(data.htm);				
+					$('a.sm-searchbox-more').attr({
+					'data_count': count + parseInt(firt_load)
+					}); 					
+				}, 
+				dataType:'json'
+			});
+		});
+	});
+</script>
+				</div>
+
+				<div class="col-lg-2 col-md-3 col-sm-4 hot-line">
+					<div class="hot-lilne-wrapper">
+						<h2>HOT LINE:</h2>
+						<a href="tel:+971" title="Call: ">&nbsp;(+971) 4 2582959</a>
+					</div>				</div>
+			</div>
+		</div>
+	</div>
+
+	<div class="yt-header-under">
+		<div class="container">
+			<div class="row yt-header-under-wrap">
+				<div class="yt-main-menu col-md-12">
+					<div id="yt-responsivemenu" class="yt-responsivemenu">
+						    <button type="button" class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse"></button>
+    <div id="yt_resmenu_collapse" style="height: 0;" class="nav-collapse collapse">
+	    <ul class="nav-menu clearfix">
+	    <li class="nav-home">
+	        <a class="nav-home" href="http://www.ourshopee.com/" title="Home"><span>Home</span></a>
+	    </li>
+	    	        <li class="level0 nav-1">
+<a href="http://www.ourshopee.com/bundle-deals.html">
+<span>Bundle Deals</span>
+</a>
+</li>	    	        <li class="level0 nav-2">
+<a href="http://www.ourshopee.com/special-deals.html">
+<span>Special Deals</span>
+</a>
+</li>	    	        <li class="level0 nav-3">
+<a href="http://www.ourshopee.com/good-night-deals.html">
+<span>Good Night Deals</span>
+</a>
+</li>	    	        <li class="level0 nav-4 parent" onmouseover="toggleMenu(this,1)" onmouseout="toggleMenu(this,0)">
+<a href="http://www.ourshopee.com/mobiles.html">
+<span>Mobile Phones &amp; Accessories</span>
+</a>
+<ul class="level0">
+<li class="level1 nav-4-1 first parent" onmouseover="toggleMenu(this,1)" onmouseout="toggleMenu(this,0)">
+<a href="http://www.ourshopee.com/mobiles/mobile-brands.html">
+<span>Mobile Phones</span>
+</a>
+<ul class="level1">
+<li class="level2 nav-4-1-1 first">
+<a href="http://www.ourshopee.com/mobiles/mobile-brands/apple.html">
+<span>Apple</span>
+</a>
+</li><li class="level2 nav-4-1-2">
+<a href="http://www.ourshopee.com/mobiles/mobile-brands/samsung.html">
+<span>Samsung</span>
+</a>
+</li><li class="level2 nav-4-1-3">
+<a href="http://www.ourshopee.com/mobiles/mobile-brands/sony.html">
+<span>Sony Ericsson</span>
+</a>
+</li><li class="level2 nav-4-1-4">
+<a href="http://www.ourshopee.com/mobiles/mobile-brands/htc.html">
+<span>HTC</span>
+</a>
+</li><li class="level2 nav-4-1-5">
+<a href="http://www.ourshopee.com/mobiles/mobile-brands/nokia.html">
+<span>Nokia Windows</span>
+</a>
+</li><li class="level2 nav-4-1-6">
+<a href="http://www.ourshopee.com/mobiles/mobile-brands/lg.html">
+<span>LG</span>
+</a>
+</li><li class="level2 nav-4-1-7">
+<a href="http://www.ourshopee.com/mobiles/mobile-brands/micromax.html">
+<span>Lenovo</span>
+</a>
+</li><li class="level2 nav-4-1-8">
+<a href="http://www.ourshopee.com/mobiles/mobile-brands/croma.html">
+<span>Huawei</span>
+</a>
+</li><li class="level2 nav-4-1-9">
+<a href="http://www.ourshopee.com/mobiles/mobile-brands/blackberry.html">
+<span>Blackberry</span>
+</a>
+</li><li class="level2 nav-4-1-10">
+<a href="http://www.ourshopee.com/mobiles/mobile-brands/wiko.html">
+<span>Videocon</span>
+</a>
+</li><li class="level2 nav-4-1-11">
+<a href="http://www.ourshopee.com/mobiles/mobile-brands/intex.html">
+<span>Intex</span>
+</a>
+</li><li class="level2 nav-4-1-12 last">
+<a href="http://www.ourshopee.com/mobiles/mobile-brands/other-mobiles.html">
+<span>Others</span>
+</a>
+</li>
+</ul>
+</li><li class="level1 nav-4-2 last parent" onmouseover="toggleMenu(this,1)" onmouseout="toggleMenu(this,0)">
+<a href="http://www.ourshopee.com/mobiles/accessories-mobile.html">
+<span>Accessories</span>
+</a>
+<ul class="level1">
+<li class="level2 nav-4-2-13 first">
+<a href="http://www.ourshopee.com/mobiles/accessories-mobile/cases-covers.html">
+<span>Headsets &amp; Microphones</span>
+</a>
+</li><li class="level2 nav-4-2-14">
+<a href="http://www.ourshopee.com/mobiles/accessories-mobile/memory-cards.html">
+<span>Memory Cards</span>
+</a>
+</li><li class="level2 nav-4-2-15 last">
+<a href="http://www.ourshopee.com/mobiles/accessories-mobile/other-accessories.html">
+<span>Mobile Accessories</span>
+</a>
+</li>
+</ul>
+</li>
+</ul>
+</li>	    	        <li class="level0 nav-5 parent" onmouseover="toggleMenu(this,1)" onmouseout="toggleMenu(this,0)">
+<a href="http://www.ourshopee.com/tablets-and-accessories.html">
+<span>Tablets &amp; Accessories</span>
+</a>
+<ul class="level0">
+<li class="level1 nav-5-1 first parent" onmouseover="toggleMenu(this,1)" onmouseout="toggleMenu(this,0)">
+<a href="http://www.ourshopee.com/tablets-and-accessories/tablets.html">
+<span>Tablets</span>
+</a>
+<ul class="level1">
+<li class="level2 nav-5-1-1 first">
+<a href="http://www.ourshopee.com/tablets-and-accessories/tablets/apple.html">
+<span>Apple</span>
+</a>
+</li><li class="level2 nav-5-1-2">
+<a href="http://www.ourshopee.com/tablets-and-accessories/tablets/samsung.html">
+<span>Samsung</span>
+</a>
+</li><li class="level2 nav-5-1-3">
+<a href="http://www.ourshopee.com/tablets-and-accessories/tablets/win-touch.html">
+<span>Win Touch</span>
+</a>
+</li><li class="level2 nav-5-1-4">
+<a href="http://www.ourshopee.com/tablets-and-accessories/tablets/lenovo.html">
+<span>Lenovo</span>
+</a>
+</li><li class="level2 nav-5-1-5">
+<a href="http://www.ourshopee.com/tablets-and-accessories/tablets/xtouch.html">
+<span>XTouch</span>
+</a>
+</li><li class="level2 nav-5-1-6">
+<a href="http://www.ourshopee.com/tablets-and-accessories/tablets/asus.html">
+<span>Asus</span>
+</a>
+</li><li class="level2 nav-5-1-7">
+<a href="http://www.ourshopee.com/tablets-and-accessories/tablets/touchmate.html">
+<span>Touchmate</span>
+</a>
+</li><li class="level2 nav-5-1-8 last">
+<a href="http://www.ourshopee.com/tablets-and-accessories/tablets/others.html">
+<span>Others</span>
+</a>
+</li>
+</ul>
+</li><li class="level1 nav-5-2 last parent" onmouseover="toggleMenu(this,1)" onmouseout="toggleMenu(this,0)">
+<a href="http://www.ourshopee.com/tablets-and-accessories/tablet-accessories.html">
+<span>Tablet Accessories</span>
+</a>
+<ul class="level1">
+<li class="level2 nav-5-2-9 first">
+<a href="http://www.ourshopee.com/tablets-and-accessories/tablet-accessories/tablet-back-cover.html">
+<span>Tablet Back Cover</span>
+</a>
+</li><li class="level2 nav-5-2-10 last">
+<a href="http://www.ourshopee.com/tablets-and-accessories/tablet-accessories/screen-protector.html">
+<span>Screen Protector</span>
+</a>
+</li>
+</ul>
+</li>
+</ul>
+</li>	    	        <li class="level0 nav-6 parent" onmouseover="toggleMenu(this,1)" onmouseout="toggleMenu(this,0)">
+<a href="http://www.ourshopee.com/laptops-and-pcs.html">
+<span>Laptops &amp; PC's</span>
+</a>
+<ul class="level0">
+<li class="level1 nav-6-1 first">
+<a href="http://www.ourshopee.com/laptops-and-pcs/laptops-notebooks.html">
+<span>Laptops &amp; notebooks</span>
+</a>
+</li><li class="level1 nav-6-2">
+<a href="http://www.ourshopee.com/laptops-and-pcs/ultra-books.html">
+<span>Ultra Books</span>
+</a>
+</li><li class="level1 nav-6-3">
+<a href="http://www.ourshopee.com/laptops-and-pcs/desktops.html">
+<span>Desktops</span>
+</a>
+</li><li class="level1 nav-6-4">
+<a href="http://www.ourshopee.com/laptops-and-pcs/monitors.html">
+<span>Monitors</span>
+</a>
+</li><li class="level1 nav-6-5">
+<a href="http://www.ourshopee.com/laptops-and-pcs/all-in-one-pcs.html">
+<span>All in one PC's</span>
+</a>
+</li><li class="level1 nav-6-6">
+<a href="http://www.ourshopee.com/laptops-and-pcs/laptop-accessories.html">
+<span>Laptop Accessories</span>
+</a>
+</li><li class="level1 nav-6-7 last">
+<a href="http://www.ourshopee.com/laptops-and-pcs/desktop-accessories.html">
+<span>Desktop Accessories</span>
+</a>
+</li>
+</ul>
+</li>	    	        <li class="level0 nav-7 parent" onmouseover="toggleMenu(this,1)" onmouseout="toggleMenu(this,0)">
+<a href="http://www.ourshopee.com/computer-accessories.html">
+<span>IT Hardware &amp; Accessories</span>
+</a>
+<ul class="level0">
+<li class="level1 nav-7-1 first parent" onmouseover="toggleMenu(this,1)" onmouseout="toggleMenu(this,0)">
+<a href="http://www.ourshopee.com/computer-accessories/computer-hardware.html">
+<span>Computer Hardware</span>
+</a>
+<ul class="level1">
+<li class="level2 nav-7-1-1 first">
+<a href="http://www.ourshopee.com/computer-accessories/computer-hardware/mainboard.html">
+<span>Mouse &amp; Keyboard</span>
+</a>
+</li><li class="level2 nav-7-1-2">
+<a href="http://www.ourshopee.com/computer-accessories/computer-hardware/projector.html">
+<span>Projector</span>
+</a>
+</li><li class="level2 nav-7-1-3">
+<a href="http://www.ourshopee.com/computer-accessories/computer-hardware/routers-switches-networking.html">
+<span>Routers, Switches and Networking</span>
+</a>
+</li><li class="level2 nav-7-1-4">
+<a href="http://www.ourshopee.com/computer-accessories/computer-hardware/hard-drives-storage.html">
+<span>Hard Drives &amp; Storage</span>
+</a>
+</li><li class="level2 nav-7-1-5">
+<a href="http://www.ourshopee.com/computer-accessories/computer-hardware/processors.html">
+<span>Processors</span>
+</a>
+</li><li class="level2 nav-7-1-6">
+<a href="http://www.ourshopee.com/computer-accessories/computer-hardware/computer-soundcard.html">
+<span>Motherboards</span>
+</a>
+</li><li class="level2 nav-7-1-7">
+<a href="http://www.ourshopee.com/computer-accessories/computer-hardware/computer-mouse.html">
+<span>Power Supplies</span>
+</a>
+</li><li class="level2 nav-7-1-8">
+<a href="http://www.ourshopee.com/computer-accessories/computer-hardware/computer-keyboard.html">
+<span>Printers &amp; Scanners</span>
+</a>
+</li><li class="level2 nav-7-1-9">
+<a href="http://www.ourshopee.com/computer-accessories/computer-hardware/computer-case.html">
+<span>Flash &amp; Memory Card</span>
+</a>
+</li><li class="level2 nav-7-1-10">
+<a href="http://www.ourshopee.com/computer-accessories/computer-hardware/webcams.html">
+<span>Webcams</span>
+</a>
+</li><li class="level2 nav-7-1-11">
+<a href="http://www.ourshopee.com/computer-accessories/computer-hardware/parts-components.html">
+<span>Parts &amp; Components</span>
+</a>
+</li><li class="level2 nav-7-1-12 last">
+<a href="http://www.ourshopee.com/computer-accessories/computer-hardware/computer-gaming-consoles-accessories.html">
+<span>Computer Gaming Consoles &amp; Accessories</span>
+</a>
+</li>
+</ul>
+</li><li class="level1 nav-7-2 last parent" onmouseover="toggleMenu(this,1)" onmouseout="toggleMenu(this,0)">
+<a href="http://www.ourshopee.com/computer-accessories/brand-computer.html">
+<span>Softwares</span>
+</a>
+<ul class="level1">
+<li class="level2 nav-7-2-13 first">
+<a href="http://www.ourshopee.com/computer-accessories/brand-computer/antivirus.html">
+<span>Antivirus</span>
+</a>
+</li><li class="level2 nav-7-2-14">
+<a href="http://www.ourshopee.com/computer-accessories/brand-computer/windows.html">
+<span>Windows</span>
+</a>
+</li><li class="level2 nav-7-2-15">
+<a href="http://www.ourshopee.com/computer-accessories/brand-computer/computer-hp.html">
+<span>Accounting</span>
+</a>
+</li><li class="level2 nav-7-2-16 last">
+<a href="http://www.ourshopee.com/computer-accessories/brand-computer/games.html">
+<span>Games</span>
+</a>
+</li>
+</ul>
+</li>
+</ul>
+</li>	    	        <li class="level0 nav-8 parent" onmouseover="toggleMenu(this,1)" onmouseout="toggleMenu(this,0)">
+<a href="http://www.ourshopee.com/cameras-and-accessories.html">
+<span>Cameras &amp; Accessories</span>
+</a>
+<ul class="level0">
+<li class="level1 nav-8-1 first parent" onmouseover="toggleMenu(this,1)" onmouseout="toggleMenu(this,0)">
+<a href="http://www.ourshopee.com/cameras-and-accessories/cameras.html">
+<span>Cameras</span>
+</a>
+<ul class="level1">
+<li class="level2 nav-8-1-1 first">
+<a href="http://www.ourshopee.com/cameras-and-accessories/cameras/dslr-cameras.html">
+<span>DSLR Cameras</span>
+</a>
+</li><li class="level2 nav-8-1-2">
+<a href="http://www.ourshopee.com/cameras-and-accessories/cameras/compact-cameras.html">
+<span>Compact Cameras</span>
+</a>
+</li><li class="level2 nav-8-1-3">
+<a href="http://www.ourshopee.com/cameras-and-accessories/cameras/camcorders.html">
+<span>Camcorders</span>
+</a>
+</li><li class="level2 nav-8-1-4">
+<a href="http://www.ourshopee.com/cameras-and-accessories/cameras/lenses.html">
+<span>Lenses</span>
+</a>
+</li><li class="level2 nav-8-1-5 last">
+<a href="http://www.ourshopee.com/cameras-and-accessories/cameras/flashes.html">
+<span>Flashes</span>
+</a>
+</li>
+</ul>
+</li><li class="level1 nav-8-2 last parent" onmouseover="toggleMenu(this,1)" onmouseout="toggleMenu(this,0)">
+<a href="http://www.ourshopee.com/cameras-and-accessories/camera-accessories.html">
+<span>Camera Accessories</span>
+</a>
+<ul class="level1">
+<li class="level2 nav-8-2-6 first">
+<a href="http://www.ourshopee.com/cameras-and-accessories/camera-accessories/filters.html">
+<span>Filters</span>
+</a>
+</li><li class="level2 nav-8-2-7">
+<a href="http://www.ourshopee.com/cameras-and-accessories/camera-accessories/tripods.html">
+<span>Tripods</span>
+</a>
+</li><li class="level2 nav-8-2-8 last">
+<a href="http://www.ourshopee.com/cameras-and-accessories/camera-accessories/batteries.html">
+<span>Batteries</span>
+</a>
+</li>
+</ul>
+</li>
+</ul>
+</li>	    	        <li class="level0 nav-9 parent" onmouseover="toggleMenu(this,1)" onmouseout="toggleMenu(this,0)">
+<a href="http://www.ourshopee.com/electronic.html">
+<span>Electronics</span>
+</a>
+<ul class="level0">
+<li class="level1 nav-9-1 first">
+<a href="http://www.ourshopee.com/electronic/cases-covers.html">
+<span>TV</span>
+</a>
+</li><li class="level1 nav-9-2">
+<a href="http://www.ourshopee.com/electronic/screen-protectors.html">
+<span>Speakers &amp; Home Theater System</span>
+</a>
+</li><li class="level1 nav-9-3">
+<a href="http://www.ourshopee.com/electronic/bluetooth-electronic.html">
+<span>Gaming Consoles</span>
+</a>
+</li><li class="level1 nav-9-4">
+<a href="http://www.ourshopee.com/electronic/cables-connectors-electronic.html">
+<span>Games</span>
+</a>
+</li><li class="level1 nav-9-5">
+<a href="http://www.ourshopee.com/electronic/memory-cards-electronic.html">
+<span>DVD Players</span>
+</a>
+</li><li class="level1 nav-9-6">
+<a href="http://www.ourshopee.com/electronic/chargers-electronic.html">
+<span>Projectors</span>
+</a>
+</li><li class="level1 nav-9-7">
+<a href="http://www.ourshopee.com/electronic/mp3-mp4-players.html">
+<span>MP3 &amp; MP4 Players</span>
+</a>
+</li><li class="level1 nav-9-8">
+<a href="http://www.ourshopee.com/electronic/book-magazine.html">
+<span>Car Audio</span>
+</a>
+</li><li class="level1 nav-9-9 last">
+<a href="http://www.ourshopee.com/electronic/others.html">
+<span>Others</span>
+</a>
+</li>
+</ul>
+</li>	    	        <li class="level0 nav-10 parent" onmouseover="toggleMenu(this,1)" onmouseout="toggleMenu(this,0)">
+<a href="http://www.ourshopee.com/home-kitchen.html">
+<span>Home &amp; Kitchen Appliances</span>
+</a>
+<ul class="level0">
+<li class="level1 nav-10-1 first">
+<a href="http://www.ourshopee.com/home-kitchen/air-coolers-fans.html">
+<span>Air Coolers &amp; Fans</span>
+</a>
+</li><li class="level1 nav-10-2">
+<a href="http://www.ourshopee.com/home-kitchen/washing-machines.html">
+<span>Washing Machines</span>
+</a>
+</li><li class="level1 nav-10-3">
+<a href="http://www.ourshopee.com/home-kitchen/vacuum-cleaners.html">
+<span>Vacuum Cleaners </span>
+</a>
+</li><li class="level1 nav-10-4">
+<a href="http://www.ourshopee.com/home-kitchen/sandwich-maker.html">
+<span>Sandwich Maker</span>
+</a>
+</li><li class="level1 nav-10-5">
+<a href="http://www.ourshopee.com/home-kitchen/rice-cooker.html">
+<span>Rice Cooker</span>
+</a>
+</li><li class="level1 nav-10-6">
+<a href="http://www.ourshopee.com/home-kitchen/emergency-lights-torch.html">
+<span>Emergency Lights &amp; Torch</span>
+</a>
+</li><li class="level1 nav-10-7">
+<a href="http://www.ourshopee.com/home-kitchen/microwave-ovens.html">
+<span>Microwave Ovens</span>
+</a>
+</li><li class="level1 nav-10-8">
+<a href="http://www.ourshopee.com/home-kitchen/kitchen-ware.html">
+<span>Kitchen Ware</span>
+</a>
+</li><li class="level1 nav-10-9">
+<a href="http://www.ourshopee.com/home-kitchen/kettle.html">
+<span>Kettle</span>
+</a>
+</li><li class="level1 nav-10-10">
+<a href="http://www.ourshopee.com/home-kitchen/irons.html">
+<span>Irons</span>
+</a>
+</li><li class="level1 nav-10-11">
+<a href="http://www.ourshopee.com/home-kitchen/blenders.html">
+<span>Blenders</span>
+</a>
+</li><li class="level1 nav-10-12 last">
+<a href="http://www.ourshopee.com/home-kitchen/food-processors.html">
+<span>Food Processors</span>
+</a>
+</li>
+</ul>
+</li>	    	        <li class="level0 nav-11 parent" onmouseover="toggleMenu(this,1)" onmouseout="toggleMenu(this,0)">
+<a href="http://www.ourshopee.com/watches-and-jewellery.html">
+<span>Watches</span>
+</a>
+<ul class="level0">
+<li class="level1 nav-11-1 first last parent" onmouseover="toggleMenu(this,1)" onmouseout="toggleMenu(this,0)">
+<a href="http://www.ourshopee.com/watches-and-jewellery/watches.html">
+<span>Watches</span>
+</a>
+<ul class="level1">
+<li class="level2 nav-11-1-1 first">
+<a href="http://www.ourshopee.com/watches-and-jewellery/watches/mens-watches.html">
+<span>Men’s Watches</span>
+</a>
+</li><li class="level2 nav-11-1-2">
+<a href="http://www.ourshopee.com/watches-and-jewellery/watches/womens-watches.html">
+<span>Women’s Watches</span>
+</a>
+</li><li class="level2 nav-11-1-3 last">
+<a href="http://www.ourshopee.com/watches-and-jewellery/watches/smart-watches.html">
+<span>Smart Watches</span>
+</a>
+</li>
+</ul>
+</li>
+</ul>
+</li>	    	        <li class="level0 nav-12 parent" onmouseover="toggleMenu(this,1)" onmouseout="toggleMenu(this,0)">
+<a href="http://www.ourshopee.com/fashion.html">
+<span>Clothing, Bags &amp; Shoes</span>
+</a>
+<ul class="level0">
+<li class="level1 nav-12-1 first parent" onmouseover="toggleMenu(this,1)" onmouseout="toggleMenu(this,0)">
+<a href="http://www.ourshopee.com/fashion/fashion-accessories.html">
+<span>Clothing</span>
+</a>
+<ul class="level1">
+<li class="level2 nav-12-1-1 first">
+<a href="http://www.ourshopee.com/fashion/fashion-accessories/men.html">
+<span>Men</span>
+</a>
+</li><li class="level2 nav-12-1-2">
+<a href="http://www.ourshopee.com/fashion/fashion-accessories/women.html">
+<span>Women</span>
+</a>
+</li><li class="level2 nav-12-1-3 last">
+<a href="http://www.ourshopee.com/fashion/fashion-accessories/baby.html">
+<span>Baby</span>
+</a>
+</li>
+</ul>
+</li><li class="level1 nav-12-2 parent" onmouseover="toggleMenu(this,1)" onmouseout="toggleMenu(this,0)">
+<a href="http://www.ourshopee.com/fashion/accessories.html">
+<span>Accessories</span>
+</a>
+<ul class="level1">
+<li class="level2 nav-12-2-4 first">
+<a href="http://www.ourshopee.com/fashion/accessories/bags-handbags.html">
+<span>Bags &amp; Handbags</span>
+</a>
+</li><li class="level2 nav-12-2-5">
+<a href="http://www.ourshopee.com/fashion/accessories/wallets.html">
+<span>Wallets</span>
+</a>
+</li><li class="level2 nav-12-2-6">
+<a href="http://www.ourshopee.com/fashion/accessories/eye-wear-frames.html">
+<span>Eye Wear Frames</span>
+</a>
+</li><li class="level2 nav-12-2-7 last">
+<a href="http://www.ourshopee.com/fashion/accessories/sunglasses.html">
+<span>Sunglasses</span>
+</a>
+</li>
+</ul>
+</li><li class="level1 nav-12-3 last parent" onmouseover="toggleMenu(this,1)" onmouseout="toggleMenu(this,0)">
+<a href="http://www.ourshopee.com/fashion/shoes.html">
+<span>Shoes</span>
+</a>
+<ul class="level1">
+<li class="level2 nav-12-3-8 first">
+<a href="http://www.ourshopee.com/fashion/shoes/men.html">
+<span>Men</span>
+</a>
+</li><li class="level2 nav-12-3-9">
+<a href="http://www.ourshopee.com/fashion/shoes/women.html">
+<span>Women</span>
+</a>
+</li><li class="level2 nav-12-3-10 last">
+<a href="http://www.ourshopee.com/fashion/shoes/baby.html">
+<span>Baby</span>
+</a>
+</li>
+</ul>
+</li>
+</ul>
+</li>	    	        <li class="level0 nav-13 parent" onmouseover="toggleMenu(this,1)" onmouseout="toggleMenu(this,0)">
+<a href="http://www.ourshopee.com/beauty-health.html">
+<span>Beauty &amp; Health</span>
+</a>
+<ul class="level0">
+<li class="level1 nav-13-1 first parent" onmouseover="toggleMenu(this,1)" onmouseout="toggleMenu(this,0)">
+<a href="http://www.ourshopee.com/beauty-health/perfumes-fragrances.html">
+<span>Perfumes &amp; Fragrances</span>
+</a>
+<ul class="level1">
+<li class="level2 nav-13-1-1 first">
+<a href="http://www.ourshopee.com/beauty-health/perfumes-fragrances/mens-perfumes.html">
+<span>Men's Perfumes</span>
+</a>
+</li><li class="level2 nav-13-1-2">
+<a href="http://www.ourshopee.com/beauty-health/perfumes-fragrances/womens-perfumes.html">
+<span>Women's Perfumes</span>
+</a>
+</li><li class="level2 nav-13-1-3 last">
+<a href="http://www.ourshopee.com/beauty-health/perfumes-fragrances/luxury-perfumes.html">
+<span>Luxury Perfumes</span>
+</a>
+</li>
+</ul>
+</li><li class="level1 nav-13-2 parent" onmouseover="toggleMenu(this,1)" onmouseout="toggleMenu(this,0)">
+<a href="http://www.ourshopee.com/beauty-health/health-fitness.html">
+<span>Health &amp; Fitness</span>
+</a>
+<ul class="level1">
+<li class="level2 nav-13-2-4 first">
+<a href="http://www.ourshopee.com/beauty-health/health-fitness/sports-fitness.html">
+<span>Sports &amp; Fitness</span>
+</a>
+</li><li class="level2 nav-13-2-5">
+<a href="http://www.ourshopee.com/beauty-health/health-fitness/bath-body.html">
+<span>Bath &amp; Body</span>
+</a>
+</li><li class="level2 nav-13-2-6">
+<a href="http://www.ourshopee.com/beauty-health/health-fitness/personal-care.html">
+<span>Personal Care</span>
+</a>
+</li><li class="level2 nav-13-2-7">
+<a href="http://www.ourshopee.com/beauty-health/health-fitness/oral-care.html">
+<span>Oral Care</span>
+</a>
+</li><li class="level2 nav-13-2-8 last">
+<a href="http://www.ourshopee.com/beauty-health/health-fitness/electric-personal-care.html">
+<span>Electric Personal Care</span>
+</a>
+</li>
+</ul>
+</li><li class="level1 nav-13-3 last parent" onmouseover="toggleMenu(this,1)" onmouseout="toggleMenu(this,0)">
+<a href="http://www.ourshopee.com/beauty-health/beauty.html">
+<span>Beauty</span>
+</a>
+<ul class="level1">
+<li class="level2 nav-13-3-9 first">
+<a href="http://www.ourshopee.com/beauty-health/beauty/make-up-tools.html">
+<span>Make Up Tools</span>
+</a>
+</li><li class="level2 nav-13-3-10 last">
+<a href="http://www.ourshopee.com/beauty-health/beauty/cosmetics.html">
+<span>Cosmetics</span>
+</a>
+</li>
+</ul>
+</li>
+</ul>
+</li>	    	    </ul>
+	    <script type="text/javascript">
+			jQuery(document).ready(function($){
+				$('#yt_resmenu_collapse .nav-menu > li.parent').each(function(){
+					$(this).find('> ul').wrap('<div class="res-wrapnav">');
+					$(this).append('<span class="menuress-toggle"></span>');
+				});
+			});
+			jQuery(window).load(function(){
+				jQuery('#yt_resmenu_collapse .parent .menuress-toggle').css('height', jQuery('#yt_resmenu_collapse .parent > a').outerHeight());
+
+				jQuery('#yt_resmenu_collapse .parent > .res-wrapnav').each(function(){
+					if(jQuery(this).parent().hasClass('open')){
+						jQuery(this).css('height', jQuery(this).children('ul').height());
+					}
+				});
+				jQuery('#yt_resmenu_collapse .parent .menuress-toggle').click(function(){
+					if(jQuery(this).parent().hasClass('open')){
+						jQuery(this).parent().removeClass('open');
+						jQuery(this).parent().children('.res-wrapnav').css('height', '0px');
+					}else{
+						jQuery(this).parent().addClass('open');
+						jQuery(this).parent().children('.res-wrapnav').css('height', jQuery(this).parent().children('.res-wrapnav').children('ul').height());
+					}
+				});
+			});
+		</script>
+	</div>
+						<a class="btn-search-mobile icon-search" href="javascript:void(0)" title="Search"></a>
+						<script>
+							jQuery(document).ready(function($){
+								$( ".btn-search-mobile" ).click(function() {
+									$('.search-pro').toggleClass('show')
+									$(this).toggleClass('active')
+								});
+							});
+						</script>
+					</div>
+					<div class="yt-menu">
+						
+
+		
+
+<!--<link media="all" href="" type="text/css" rel="stylesheet">-->
+
+
+<!--<link media="all" href="" type="text/css" rel="stylesheet">-->
+
+
+		
+	<div class="css_effect sm_megamenu_wrapper_horizontal_menu sambar" id="sm_megamenu_menu56697f41025f3" data-sam="6473010061449754433">
+		<div class="sambar-inner">
+			<a class="btn-sambar" data-sapi="collapse" href="#sm_megamenu_menu56697f41025f3">
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+			</a>	
+			<ul class="sm-megamenu-hover sm_megamenu_menu sm_megamenu_menu_black" data-jsapi="on">
+									<li class="electronic-item-parent other-toggle   
+						sm_megamenu_lv1 sm_megamenu_drop parent   ">
+												<a class="sm_megamenu_head sm_megamenu_drop " href="http://www.ourshopee.com/home" id="sm_megamenu_127">
+																										<span class="sm_megamenu_icon sm_megamenu_nodesc">		
+																												<span class="sm_megamenu_title">Home</span>
+																	
+														
+													</span>
+																									</a>
+																																												<div class="sm-megamenu-child sm_megamenu_dropdown_3columns  ">	
+													<div class="sm_megamenu_col_3 sm_megamenu_firstcolumn  sm_megamenu_id127   electronic-item"><div class="sm_megamenu_col_2 sm_megamenu_firstcolumn  sm_megamenu_id299   border-column accessories-electronic"><div class="sm_megamenu_head_item ">	<div class="sm_megamenu_title"><span class="sm_megamenu_title_lv2">CATEGORIES</span></div></div><div class="sm_megamenu_col_6 sm_megamenu_firstcolumn  sm_megamenu_id292   "><div class="sm_megamenu_head_item ">	<div class="sm_megamenu_title"><a class="sm_megamenu_nodrop " href="http://www.ourshopee.com/mobiles.html"><span class="sm_megamenu_title_lv3">Mobile Phones &amp; Accessories</span></a></div></div></div><div class="sm_megamenu_col_6 sm_megamenu_firstcolumn  sm_megamenu_id298   "><div class="sm_megamenu_head_item ">	<div class="sm_megamenu_title"><a class="sm_megamenu_nodrop " href="http://www.ourshopee.com/tablets-and-accessories.html"><span class="sm_megamenu_title_lv3">Tablets &amp; Accessories</span></a></div></div></div><div class="sm_megamenu_col_6 sm_megamenu_firstcolumn  sm_megamenu_id300   "><div class="sm_megamenu_head_item ">	<div class="sm_megamenu_title"><a class="sm_megamenu_nodrop " href="http://www.ourshopee.com/laptops-and-pcs.html"><span class="sm_megamenu_title_lv3">Laptops &amp; PCs</span></a></div></div></div><div class="sm_megamenu_col_6 sm_megamenu_firstcolumn  sm_megamenu_id301   "><div class="sm_megamenu_head_item ">	<div class="sm_megamenu_title"><a class="sm_megamenu_nodrop " href="http://www.ourshopee.com/computer-accessories.html"><span class="sm_megamenu_title_lv3">IT Hardwares &amp; Accessories</span></a></div></div></div><div class="sm_megamenu_col_6 sm_megamenu_firstcolumn  sm_megamenu_id302   "><div class="sm_megamenu_head_item ">	<div class="sm_megamenu_title"><a class="sm_megamenu_nodrop " href="http://www.ourshopee.com/cameras-and-accessories.html"><span class="sm_megamenu_title_lv3">Cameras &amp; Accessories</span></a></div></div></div><div class="sm_megamenu_col_6 sm_megamenu_firstcolumn  sm_megamenu_id303   "><div class="sm_megamenu_head_item ">	<div class="sm_megamenu_title"><a class="sm_megamenu_nodrop " href="http://www.ourshopee.com/electronic.html"><span class="sm_megamenu_title_lv3">Electronics</span></a></div></div></div><div class="sm_megamenu_col_6 sm_megamenu_firstcolumn  sm_megamenu_id304   "><div class="sm_megamenu_head_item ">	<div class="sm_megamenu_title"><a class="sm_megamenu_nodrop " href="http://www.ourshopee.com/home-kitchen.html"><span class="sm_megamenu_title_lv3">Home &amp; Kitchen Appliances</span></a></div></div></div><div class="sm_megamenu_col_6 sm_megamenu_firstcolumn  sm_megamenu_id305   "><div class="sm_megamenu_head_item ">	<div class="sm_megamenu_title"><a class="sm_megamenu_nodrop " href="http://www.ourshopee.com/watches-and-jewellery.html"><span class="sm_megamenu_title_lv3">Watches</span></a></div></div></div><div class="sm_megamenu_col_6 sm_megamenu_firstcolumn  sm_megamenu_id306   "><div class="sm_megamenu_head_item ">	<div class="sm_megamenu_title"><a class="sm_megamenu_nodrop " href="http://www.ourshopee.com/fashion.html"><span class="sm_megamenu_title_lv3">Clothing, Bags &amp;  Shoes</span></a></div></div></div><div class="sm_megamenu_col_6 sm_megamenu_firstcolumn  sm_megamenu_id307   "><div class="sm_megamenu_head_item ">	<div class="sm_megamenu_title"><a class="sm_megamenu_nodrop " href="http://www.ourshopee.com/beauty-health.html"><span class="sm_megamenu_title_lv3">Beauty &amp; Health</span></a></div></div></div></div><div class="sm_megamenu_col_2 sm_megamenu_firstcolumn  sm_megamenu_id309   border-column"><div class="sm_megamenu_head_item ">	<div class="sm_megamenu_title"><span class="sm_megamenu_title_lv2">FEATURED CATEGORIES</span></div></div><div class="sm_megamenu_col_6 sm_megamenu_firstcolumn  sm_megamenu_id310   "><div class="sm_megamenu_head_item ">	<div class="sm_megamenu_title"><a class="sm_megamenu_nodrop " href="http://www.ourshopee.com/home-kitchen/emergency-lights-torch.html"><span class="sm_megamenu_title_lv3">Emergency Lights &amp; Torches</span></a></div></div></div><div class="sm_megamenu_col_6 sm_megamenu_firstcolumn  sm_megamenu_id317   "><div class="sm_megamenu_head_item ">	<div class="sm_megamenu_title"><a class="sm_megamenu_nodrop " href="http://www.ourshopee.com/electronic/screen-protectors.html"><span class="sm_megamenu_title_lv3">Speakers &amp; Home Theater System</span></a></div></div></div><div class="sm_megamenu_col_6 sm_megamenu_firstcolumn  sm_megamenu_id311   "><div class="sm_megamenu_head_item ">	<div class="sm_megamenu_title"><a class="sm_megamenu_nodrop " href="http://www.ourshopee.com/computer-accessories/computer-hardware/computer-keyboard.html"><span class="sm_megamenu_title_lv3">Printers &amp; Scanners</span></a></div></div></div><div class="sm_megamenu_col_6 sm_megamenu_firstcolumn  sm_megamenu_id312   "><div class="sm_megamenu_head_item ">	<div class="sm_megamenu_title"><a class="sm_megamenu_nodrop " href="http://www.ourshopee.com/watches-and-jewellery/watches/smart-watches.html"><span class="sm_megamenu_title_lv3">Smart Watches</span></a></div></div></div><div class="sm_megamenu_col_6 sm_megamenu_firstcolumn  sm_megamenu_id313   "><div class="sm_megamenu_head_item ">	<div class="sm_megamenu_title"><a class="sm_megamenu_nodrop " href="http://www.ourshopee.com/fashion/accessories/sunglasses.html"><span class="sm_megamenu_title_lv3">Sunglasses</span></a></div></div></div></div><div class="sm_megamenu_col_2 sm_megamenu_firstcolumn  sm_megamenu_id308   featured-product-menu"><div class="sm_megamenu_head_item ">	</div><div class="sm_megamenu_content"><div class="megamenu-product">
+		
+
+	<div id="sm_basic_products_1449754433318234420" class="sm-basic-products">
+		<!-- Begin bs-items     -->
+		<div class="bs-items bs-resp01-3 bs-resp02-2 bs-resp03-2 bs-resp04-1 ">
+							<!-- Begin bs-item-cf -->
+				<div class="bs-item cf">
+					<!-- Begin bs-item-inner -->
+					<div class="bs-item-inner">
+						
+													<div class="bs-image">
+								<a href="http://www.ourshopee.com/catalog/product/view/id/1185/s/apple-iphone-6s-with-facetime-16gb-4g-lte-gold/category/102/" title="Apple iPhone 6S with FaceTime - 64GB, 4G, Gold, 1 Year International Apple Warranty">
+									<img src="http://www.ourshopee.com/media/catalog/product/resized/160x160/9bb838e979f4198cd3718fece81ec7f6/upload_product_sizefrnt.jpg" title="Apple iPhone 6S with FaceTime - 64GB, 4G, Gold, 1 Year International Apple Warranty" alt="Apple iPhone 6S with FaceTime - 64GB, 4G, Gold, 1 Year International Apple Warranty">
+								</a>
+								
+								
+                                                                    <div class="sale-item">
+                                        <span class="txt-label">Sale</span>
+                                    </div>
+                                							</div>
+												
+						<!-- Begin bs-content -->
+						<div class="bs-content">
+						
+															<div class="bs-review">
+									    <div class="ratings">
+                    <div class="rating-box">
+                <div class="rating" style="width:83%"></div>
+            </div>
+                <p class="rating-links">
+            <a href="http://www.ourshopee.com/review/product/list/id/1185/category/102/">2 Review(s)</a>            
+        </p>
+    </div>
+
+								</div>
+															
+															<div class="bs-title">
+									<a href="http://www.ourshopee.com/catalog/product/view/id/1185/s/apple-iphone-6s-with-facetime-16gb-4g-lte-gold/category/102/" title="Apple iPhone 6S with FaceTime - 64GB, 4G, Gold, 1 Year International Apple Warranty">
+										Apple iPhone 6S with FaceTime - 64GB, 4G, Gold, 1 ...									</a>
+								</div>
+							
+							
+							
+							
+															
+
+																	<div class="bs-price">
+										<div class="sale-price">
+											
+
+                        
+    <div class="price-box">
+                                            
+                    <p class="old-price">
+                <span class="price-label">Regular Price:</span>
+                <span class="price">
+                    AED2,999.00                </span>
+            </p>
+
+                            <p class="special-price">
+                    <span class="price-label">Special Price</span>
+					<span class="price">
+												
+						<span class="price">AED2,839.00</span>					</span>
+                </p>
+                    
+    
+        </div>
+
+										</div>
+									</div>
+								
+															
+
+
+													</div>
+						<!-- End bs-content -->
+					</div>
+					<!-- End bs-item-inner -->
+				</div><!-- End bs-item-cf -->
+					</div>
+		<!-- End bs-items -->
+	</div><!-- End Sm-basic-products -->
+	
+
+</div></div></div></div>												</div>
+												</li>
+									<li class="other-toggle   
+						sm_megamenu_lv1 sm_megamenu_nodrop   ">
+												<a class="sm_megamenu_head sm_megamenu_nodrop " href="http://www.ourshopee.com/bundle-deals.html" id="sm_megamenu_129">
+																										<span class="sm_megamenu_icon sm_megamenu_nodesc">		
+																												<span class="sm_megamenu_title">Bundle Deals</span>
+																	
+														
+													</span>
+																									</a>
+																																	</li><li class="other-toggle   
+						sm_megamenu_lv1 sm_megamenu_nodrop   ">
+												<a class="sm_megamenu_head sm_megamenu_nodrop " href="http://www.ourshopee.com/special-deals.html" id="sm_megamenu_130">
+																										<span class="sm_megamenu_icon sm_megamenu_nodesc">		
+																												<span class="sm_megamenu_title">Special Deals</span>
+																	
+														
+													</span>
+																									</a>
+																																	</li><li class="other-toggle   
+						sm_megamenu_lv1 sm_megamenu_nodrop   ">
+												<a class="sm_megamenu_head sm_megamenu_nodrop " href="http://www.ourshopee.com/special-deals.html" id="sm_megamenu_131">
+																										<span class="sm_megamenu_icon sm_megamenu_nodesc">		
+																												<span class="sm_megamenu_title">Good Night Deals</span>
+																	
+														
+													</span>
+																									</a>
+																														</li></ul>
+		</div>
+	</div>
+	<!--End Module-->
+
+
+	<script type="text/javascript">
+	// <![CDATA[ 
+		jQuery(document).ready(function($){
+			$( ".sm_megamenu_wrapper_horizontal_menu .sm_megamenu_menu > li" ).hover(function() {
+				var dropdown_w = $(this).children('div').width();
+				var ul_width = $('.sm_megamenu_menu').width();
+				var left_li = $(this).position().left;
+				if(dropdown_w >= (ul_width - left_li)){
+					$(this).children('div').css({'right':'0px'});
+				}
+			});
+		});
+	// ]]> 
+	</script>
+
+
+<script type="text/javascript">
+// <![CDATA[ 
+	jQuery(document).ready(function($){
+		$( ".sm_megamenu_wrapper_vertical_menu .sm_megamenu_menu > li" ).has( "div" ).addClass('parent-child');
+		
+		$('.sm_megamenu_wrapper_horizontal_menu .rw-url > a.sm_megamenu_head').attr('href', 'http://www.ourshopee.com/');
+	});
+// ]]> 
+</script>
+
+
+
+						
+						<div class="search-header mini-cart-header">
+							
+
+<script type="text/javascript">
+	 //<![CDATA[
+	 	mincart = new CartForm('minicart-form_uq566bb720b0503', '', 'http://www.ourshopee.com/checkout/cart/updatePost/');
+	 	minicartpro_id='';	 	
+	 	if (typeof isShow == 'undefined') isShow = false;
+	 	if (typeof isEffect == 'undefined') isEffect = false;
+	 	if (typeof overEffect == 'undefined') overEffect = false;
+	 	if (typeof outEffect == 'undefined') outEffect = false;
+	 //]]>
+</script>
+<div class="block mini-cartpro sm-cartpro">
+	
+	<div class="block-title">
+				<div class="btn-toggle">
+			<script type="text/javascript">
+		 	//<![CDATA[
+									jQuery(document).ready(function($){
+						$(".mini-cartpro .block-title .btn-toggle").click(function() {
+							$('.mini-cartpro .block-content').slideToggle(200);
+						});
+					});
+							
+		 	//]]>
+		    </script>
+						<div class="info-mini-cart">
+				<h2 class="cart-title">My Cart</h2>
+				<div class="item-cart">
+					0				</div>
+			</div>
+					</div>
+	</div>
+
+	</div>
+
+
+<script type="text/javascript">
+    jQuery(document).ready(function($){   
+		var n = $('#minicart-sidebar li').length;
+		//alert(n);
+		if(n > 0){
+			$('.header-cart').addClass('have_item');
+		}
+		
+		$("#minicart-sidebar .btn-remove").click(function() {
+			$('body').addClass('delete-overlay');
+		});
+	});
+</script>						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+
+<a id="yt-totop" href="#" title="Go to Top"></a>
+<script type="text/javascript">
+	jQuery(document).ready(function($){  
+		$("#yt-totop").hide();
+		$(function () {
+			var wh = $(window).height();
+			var whtml =  $(document).height();
+			$(window).scroll(function () {
+				if ($(this).scrollTop() > whtml/10) {
+					$('#yt-totop').fadeIn();
+				} else {
+					$('#yt-totop').fadeOut();
+				}
+			});
+			$('#yt-totop').click(function () {
+				$('body,html').animate({
+					scrollTop: 0
+				}, 800);
+				return false;
+			});
+		});
+	});
+</script>
+
+
+
+
+		</div>
+
+		<!-- END: Header -->
+
+		
+
+		<!-- BEGIN: content -->
+
+        <div id="yt_content" class="yt-content wrap">
+
+
+
+			<div class="yt-breadcrumbs">
+
+        		<div class="container">
+
+        			<div class="row">
+
+        				<div class="breadcrumbs col-md-12">
+    <ul>
+                    <li class="home">
+                            <a href="http://www.ourshopee.com/" title="Go to Home Page">
+					<span>Home</span>
+				</a>
+                        </li>
+                    <li class="cms_page">
+                            <strong>Privacy Policy</strong>
+                        </li>
+            </ul>
+</div>
+
+        			</div>
+
+        		</div>
+
+        	</div>
+
+
+
+            <div class="yt-content-inner" style="margin-bottom:0px;">
+
+				<div class="container">
+
+					<div class="row">
+
+						<div class="col-2-wrapper">
+
+							
+							<div id="yt_left" class="col-lg-3 col-md-3">
+
+								<div class="yt-left-wrap">
+
+									<div class="leftmenu">
+<div class="head">CUSTOMER SERVICE</div>
+<ul>
+<li><a href="http://www.ourshopee.com/terms-and-conditions/">Terms of Use</a></li>
+<li><a href="http://www.ourshopee.com/privacy-policy/">Privacy Policy</a></li>
+<li><a href="http://www.ourshopee.com/warranty-policy/">Warranty Policy</a></li>
+<li><a href="http://www.ourshopee.com/rteturn-policy/">Return Policy</a></li>
+<li><a style="border-bottom: none;" href="http://www.ourshopee.com/contact-us/">Contact Us</a></li>
+</ul>
+</div>
+								</div>
+
+							</div>
+
+							
+
+							<div id="yt_main" class="yt-main-right yt-main col-main col-lg-9 col-md-9">
+
+								<div class="yt_main_inner">
+
+									    <noscript>
+        <div class="global-site-notice noscript">
+            <div class="notice-inner">
+                <p>
+                    <strong>JavaScript seems to be disabled in your browser.</strong><br />
+                    You must have JavaScript enabled in your browser to utilize the functionality of this website.                </p>
+            </div>
+        </div>
+    </noscript>
+
+									
+									  
+
+									<div class="std"><h2>Privacy Policy</h2>
+<p>&nbsp;</p>
+<h3>This website is owned and manage by OURSHOPEE.com</h3>
+<p><br>By visiting the OurShopee.com website or any other websites operated by OurShopee.com or its affiliates (collectively, the "Site"), you agree to accept the practices described in this Privacy Notice. If you do not agree to the terms of this Privacy Notice, please do not use the Site. Each time you use the Site, you should check the date of this Privacy Notice (which appears above) and review any changes that have been made since your last visit to the Site. As with all shopping websites, we collect personal information from you.<br>At OurShopee.com, we understand that you value your privacy and wish to have your personal information kept secure, that’s why we are committed to protecting your privacy of any personal information provided to us. Our Privacy Policy describes generally how we manage your personal information and safeguard your right privacy.</p>
+<p>&nbsp;</p>
+<h3>WHAT PERSONAL INFORMATION DO WE COLLECT AND STORE?</h3>
+<p><br>So that we can provide services to you, we may ask for personal details such as your name, address, telephone number or e-mail address. Personal Information is collected when you create an account with us, place an order on the website, or when you communicate to any of our departments such as customer service, sales or technical services through the Site, telephone, email or fax. Some examples of where we may need these details are pre-orders, home deliveries, competitions &amp; promotions and when you opt-in to receiving marketing newsletters from OurShopee.com.<br>OurShopee.com takes measures to ensure your personal information is protected from unauthorized access, loss, misuse, disclosure or alteration. We also take measures to destroy or permanently de-identify personal information when it is no longer required. The types of measures we take vary with the type of information, and how it is collected and stored.</p>
+<p><br>Generally, you have no obligation to provide any information requested by us. If you choose to withhold requested information however, we may not be able to provide you with the goods and services that depend on the collection of that information.</p>
+<p>&nbsp;</p>
+<h3>COLLECTING INFORMATION AND WHAT WE DO WITH IT?</h3>
+<p><br>We respect your privacy. Any personal information that we collect about you will be used and disclosed by us so that we can provide you with the services that you have requested, or otherwise to enable us to carry out our business as suppliers of goods, such as</p>
+<p>&nbsp;</p>
+<ul>
+<li>Provide our services</li>
+<li>Respond to your enquiries</li>
+<li>Customize users' experience, measure interest in our services, and inform users about services and updates</li>
+<li>Handle orders, delivery and payments</li>
+<li>Communicate marketing and promotional offers to you</li>
+<li>Update our records and maintain any online account you may have with us</li>
+<li>Enable third parties to carry out technical, logistical or other functions on our behalf.</li>
+<li>Each time we use your personal information for advertising purposes such as promotions, surveys and newsletter, we will give you the opportunity to decline to receive any further information from us.</li>
+</ul>
+<p>&nbsp;</p>
+<h3>DISCLOSING YOUR PERSONAL INFORMATION</h3>
+<p>&nbsp;</p>
+<ul>
+<li>All information contained by OurShopee.com is treated as strictly confidential and OurShopee.com does not and will not disclose or share such confidential information to / with any external organization.</li>
+<li>The users’ privacy is very important to us. We do not and shall not at any point in time, either sell or rent users’ personal information to third parties without users’ explicit consent.</li>
+<li>We may be required from time to time to disclose users’ personal information to Governmental or law enforcing agencies or our regulators, but we will only do so under proper authority.</li>
+<li>OurShopee.com also reserves the right to make use of the personal information in any investigation or judicial process relating to fraud on account of such transactions during the period OurShopee.com retains such information.</li>
+<li>We may also disclose personal information to enforce our policies, respond to claims that a posting or other content violates other’s rights, or protects anyone’s rights, property or safety.</li>
+<li>We may also share personal information with Corporate affiliates who help detect or prevent potentially illegal acts and provide joint services (Our corporate affiliates will market only to users who ask them to).</li>
+<li>Service providers who help with our business operations.</li>
+</ul>
+<p>&nbsp;</p>
+<h3>STORING AND SECURING YOUR PERSONAL INFORMATION</h3>
+<p><br>We are committed to maintaining the confidentiality of the information that you provide us and we will take all reasonable precautions and necessary measures to protect your personal information. Our electronic information systems are password protected to prevent unauthorized access. We have adopted security measures in an effort to protect personal information from loss, misuse or alteration while it is under our control. Our staff are trained and required to protect the privacy of your personal information.<br>All credit/debit cards details and personally identifiable information will NOT be stored, sold, shared, rented or leased to any third parties<br>In order to maintain this protection, we caution you not to provide your password to anyone. We recommend that, if you share your computer with other people, you close your browser window when your session is completed. Signing off will protect your information if you share a computer with someone else or are using a computer in a public place.<br>If you believe that your password has been misused, please notify us immediately.</p>
+<p>&nbsp;</p>
+<h3>CORRECTING YOUR INFORMATION AND REMOVAL/OPT-OUT</h3>
+<p><br>If your name, e-mail, telephone number or other Personal Information changes, you may update, correct or omit the relevant information by going to your profile under “My Account”. If you request us to do so, we will amend any personal information which is inaccurate, incomplete or out of date. You may \ directly contact us or send an email at info@ourshopee.com. In addition, if you no longer wish to receive communications from us you may opt-out by emailing us at info@ourshopee.com or by clicking on the unsubscribe link within any marketing e-mail you receive from us.</p>
+<p>&nbsp;</p>
+<h3>CHILDREN AND PRIVACY</h3>
+<p><br>The Site is a general audience website and is not directed to children under the age of 13. We will never knowingly collect personally identifiable information from children under the age of 13 without verifiable parental consent. If you are under the age of 13, please do not provide us with personally identifiable information of any kind whatsoever. If we become aware that a user is under the age of 13 and has submitted Personal Information without verifiable parental consent, we will remove his or her personally identifiable information from our files. We understand that children may not fully understand all of the provisions of this Privacy Notice or make informed decisions about the choices that are made available to adult users of the Site. We encourage parents and guardians to spend time with their children online and to be familiar with the websites they visit. OurShopee.com does not sell products to persons under the age of 18. If you are under the age of 18, you are required seek the consent of your parent or guardian to purchase products from the Site.</p>
+<p>&nbsp;</p>
+<h3>THIRD PARTY ADVERTISERS AND EXTERNAL LINKS</h3>
+<p><br>We maintain relationships with third party affiliates, thus we may feature links to other websites. Although we do not and cannot control the activities of the third parties that operate such websites, you can be sure that we will stop doing business with any affiliate that engages in abusive practices, including, for example, spam, trademark infringement, or unlawful activities. OurShopee.com is not responsible for the privacy practices or content of any other websites besides its own.</p>
+<p>&nbsp;</p>
+<h3>REVISIONS TO OUR PRIVACY POLICY</h3>
+<p><br>From time to time it may be necessary for us to amend our privacy policy, thus we reserve the right to its revision, and we h3ly suggest that you visit and review our Privacy Policy periodically to make sure you understand how information you provide will be used. However, you can be confident that any changes will be in accordance with the general Privacy Act and the National Privacy Principles.</p>
+<p>&nbsp;</p>
+<h3>SSL (SECURE SOCKET LAYER)</h3>
+<p><br>SSL is enabled on cart and checkout pages.<br>All credit/debit cards’ details and personally identifiable information will NOT be stored, sold, shared, rented or leased to any third parties.</p>
+<p>&nbsp;</p>
+<h3>LIMITATIONS ON LIABILITY</h3>
+<p><br>IN NO EVENT WILL OURSHOPEE.COM OR ITS PARENT, AFFILIATES, LICENSEES OR ANY PARTY INVOLVED IN CREATING, PRODUCING OR DELIVERING THE SITE OR ITS PRODUCTS OR SERVICES BE LIABLE IN ANY MANNER WHATSOEVER FOR ANY INCIDENTAL, CONSEQUENTIAL, INDIRECT, SPECIAL OR PUNITIVE DAMAGES ARISING OUT OF YOUR ACCESS, USE OR INABILITY TO USE THE SITE, OR IN CONNECTION WITH ANY FAILURE OR PERFORMANCE, ERROR, OMISSION, INTERRUPTION, DEFECT, DELAY IN OPERATION OR TRANSMISSION, COMPUTER VIRUS OR LINE OR SYSTEM FAILURE (INCLUDING LOSS OF PROFITS, LOSS OF BUSINESS OR DATA, BUSINESS INTERRUPTION, AND DAMAGES THAT RESULT FROM INACCURACY OF THE INFORMATION OR INCONVENIENCE, DELAY, OR LOSS OF THE USE OF THE SITE). THE FOREGOING LIMITATIONS APPLY WHETHER THE ALLEGED LIABILITY IS BASED ON CONTRACT, TORT, NEGLIGENCE, STRICT LIABILITY OR ANY OTHER BASIS, EVEN IF OURSHOPEE.COM OR ITS AFFILIATES OR ANY OTHER PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.<br>QUESTIONS OR CONCERNS</p>
+<p><br>In case you want to get in touch with us, or to provide your feedback, we are always there for you. In fact it is a pleasure to hear from our valued customers. Kindly feel free to contact our customer care team via email: support@ourshopee.com.</p>
+<p>&nbsp;</p></div>                                      	                        
+
+								</div>
+
+							</div>
+
+							
+
+							<div style="clear:both;"></div>
+
+							
+
+							
+						</div>
+
+					</div>
+
+				</div>
+
+
+
+            </div>
+            
+             <div class="yt-main-inner yt-content-inner" style="margin-top:0px;">
+					<div class="container">
+						<div class="row">
+							<div class="col-lg-12 col-md-12">
+								<div class="col-1-wrapper">
+																</div>
+							</div>
+						</div>
+					</div>
+             </div>
+
+         </div>      
+
+        <!-- END: content -->
+
+        
+
+        <!-- BEGIN: footer -->
+
+        <div id="yt_footer" class="yt-footer wrap">
+
+        	<div class="yt-footer-wrap">
+	<div class="footer-top">
+		<div class="container">
+			<div class="row">
+				<div class="col-lg-3 col-md-3">
+					<div class="socials-wrap">
+	<ul>
+					<li><a class="icon-facebook show_facebook" title="Facebook" href="https://www.facebook.com/ourshopee" target="_blank" data-icon="f"><span>Facebook</span></a></li>
+							<li><a class="icon-twitter show_twitter" title="Twitter" href="https://twitter.com/ourshopee" target="_blank" data-icon="l"><span>Twitter</span></a></li>
+							<li><a class="icon-google-plus show_google" title="Google+" href="https://plus.google.com/+OURSHOPEEcom/posts" target="_blank" data-icon="g"><span>Google+</span></a></li>
+				
+			
+		
+					<li><a class="icon-linkedin show_linkedin" title="Linkedin" href="https://www.linkedin.com/company/ourshopee-com" target="_blank" data-icon="i"><span>Linkedin</span></a></li>
+		
+	</ul>
+</div>    
+			
+				</div>
+				<div class="col-lg-9 col-md-9">
+					<div class="block block-subscribe-footer">
+	<div class="title-block" style="height:48px;">
+		<h2 style="margin-top:13px;">SIGN UP FOR OUR NEWSLETTER </h2>
+		<!--<p style="font-size:10px;"></p>-->
+	</div>
+
+	<div class="block-content">
+		<form action="http://www.ourshopee.com/newsletter/subscriber/new/" method="post" id="newsletter-validate-detail">
+
+			<div class="input-box">
+				<input type="text" name="email" id="newsletter" title="Sign up for our newsletter" class="input-text required-entry validate-email" value="Enter your email..." onblur="if(this.value=='') this.value='Enter your email...';" onfocus="if(this.value=='Enter your email...') this.value='';">
+			</div>
+			<div class="actions">
+				<button type="submit" title="Subscribe" class="button">
+					<span><span>Subscribe </span> </span>
+				</button>
+			</div>
+		</form>
+		<script type="text/javascript">
+		//<![CDATA[
+			var newsletterSubscriberFormDetail = new VarienForm('newsletter-validate-detail');
+		//]]>
+		</script>
+	</div>
+</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	
+	<div class="footer-middle">
+		<div class="container">
+			<div class="row">
+				<div class="col-lg-3 col-md-3  col-sm-6">
+					<div class="content-block-footer">
+												<h2 class="footer-logo"><img alt="Ourshopee" src="http://www.ourshopee.com/skin/frontend/sm-maxshop/ourshope/images/red/logo-footer.png"><span style="display:none;">Ourshopee</span></h2>
+						<p>Ourshopee.com is UAE's emerging trend setting online shopping website. We are home to low and exclusive discounted prices on electronic products and home appliances.</p>					</div>
+				</div>
+				
+				<div class="col-lg-3 col-md-3  col-sm-6 account-block">
+					<div class="col-footer">
+						<div class="footer-title">
+<h2>CUSTOMER SERVICE</h2>
+</div>
+<div class="content-block-footer">
+<ul>
+<li><a href="http://www.ourshopee.com/terms-and-conditions/"><span class="icon-double-angle-right">&nbsp;</span>Terms of Use</a></li>
+<li><a href="http://www.ourshopee.com/privacy-policy/"><span class="icon-double-angle-right">&nbsp;</span>Privacy Policy</a></li>
+<li><a href="http://www.ourshopee.com/warranty-policy/"><span class="icon-double-angle-right">&nbsp;</span>Warranty Policy</a></li>
+<li><a href="http://www.ourshopee.com/rteturn-policy/"><span class="icon-double-angle-right">&nbsp;</span>Return Policy</a></li>
+<li><a href="http://www.ourshopee.com/contact-us/"><span class="icon-double-angle-right">&nbsp;</span>Contact Us</a></li>
+</ul>
+</div>					</div>
+				</div>
+				
+				<div class="col-lg-3 col-md-3  col-sm-6 infomation-block">
+					<div class="col-footer">
+						<div class="footer-title">
+<h2>INFOMATION</h2>
+</div>
+<div class="content-block-footer">
+<ul>
+<li><a href="http://www.ourshopee.com/customer/account/index/"><span class="icon-double-angle-right">&nbsp;</span>My Account</a></li>
+<li><a href="http://www.ourshopee.com/sales/order/history/"><span class="icon-double-angle-right">&nbsp;</span>Order History</a></li>
+<li><a href="http://www.ourshopee.com/customer/address/new/"><span class="icon-double-angle-right">&nbsp;</span>My Addresses</a></li>
+<li><a href="#"><span class="icon-double-angle-right">&nbsp;</span>Specials</a></li>
+<li><a href="http://www.ourshopee.com/place-a-complaint/"><span class="icon-double-angle-right">&nbsp;</span>Place a Complaint</a></li>
+</ul>
+</div>					</div>
+				</div>
+				
+				<div class="col-lg-3 col-md-3  col-sm-6 contact-block">
+					<div class="col-footer">
+						<div class="footer-title">
+<h2>Quick Contact</h2>
+</div>
+<div class="content-block-footer">
+<ul>
+<li><span class="sp-ic icon-home" style="font-size: 16px; position: relative; top: 1px;">&nbsp;</span>AB Plaza 7, Office No. 204, Al Mamzar</li>
+<li style="margin-top: -4px;"><span class="sp-ic icon-mobile-phone" style="font-size: 22px; position: relative; top: 4px;">&nbsp;</span>Telephone: <a title="Call:+971 4 2582959" href="tel: +971 4 2582959"> +971 4 2582959</a></li>
+<li><span class="sp-ic icon-envelope" style="font-size: 13px; position: relative;">&nbsp;</span>E-mail: <a title="info@ourshopee.com" href="mailto:info@ourshopee.com"> info@ourshopee.com</a></li>
+</ul>
+<ul class="payment-method">
+<li><a title="Payment Method" href="#"><img alt="Payment" src="http://www.ourshopee.com/media/wysiwyg/payment/payment-1.png"></a></li>
+<li><a title="Payment Method" href="#"><img alt="Payment" src="http://www.ourshopee.com/media/wysiwyg/payment/payment-6.jpg"></a></li>
+<li><a title="Payment Method" href="#"><img alt="Payment" src="http://www.ourshopee.com/media/wysiwyg/payment/payment-3.png"></a></li>
+<!--<li><a title="Payment Method" href="#"><img src="http://www.ourshopee.com/media/wysiwyg/payment/payment-4.png" alt="Payment" /></a></li>
+<li><a title="Payment Method" href="#"><img src="http://www.ourshopee.com/media/wysiwyg/payment/payment-5.png" alt="Payment" /></a></li>--></ul>
+</div>					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	
+	<div class="footer-bottom">
+		<div class="container">
+			<div class="row">
+				<div class="col-md-12">
+					<div class="copyright-footer">
+						 Ourshopee © 2015
+ourshopee.com. All Rights Reserved.					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>       
+
+
+	
+
+        </div>
+
+        <!-- END: footer -->        
+
+        
+
+		
+
+<script type="text/javascript">
+//<![CDATA[
+	window.removeItem=function(args){ //for version mage1501 and later
+		if (enable_ajax_compare && (args.search('catalog/product_compare/remove') != -1) ){
+				opener.deletePCompare=1;
+				if(setfocus){				// for win parent  , detect by var setfocus
+					
+					opener.isCompare=1;
+					opener.deletePCompare=1;
+
+					opener.focus();
+					opener.ajaxUpdate(args,'url');
+					exit;
+				}
+				else
+					ajaxUpdate(args,'url');		//for win-popup
+		}
+        else
+        {
+            window.location.href = args;
+        }	
+	};
+//]]>
+</script>
+ 
+<script type="text/javascript">
+	//<![CDATA[
+	jQuery(document).ready(function ($) {
+		var _check_tem_def = false,
+			_ceck_tem_rwd  = false ;
+	   function _SmQuickView(){	
+			var	pathbase = 'quickview/index/view',
+				_item_cls = $('.respl-item .item-inner, .respl-item-list .item-inner .w-image-box .item-image'),
+				//_base_url = 'http://www.ourshopee.com/',
+				_base_url = 'http://www.ourshopee.com/',
+				pathbase = 'quickview/index/view';
+			var baseUrl = _base_url + pathbase;
+			if(_item_cls.length > 0){
+				_item_cls.each(function(index, el) {
+					var $this = $(this)
+					if($this.find("a.sm_quickview_handler").length <= 0){
+						if( $this.find('a').length > 0 ){
+							var _href =	$($this.find('a')[0]);				
+							var	producturlpath = _href.attr('href').replace(_base_url,"");
+								producturlpath = ( producturlpath.indexOf('index.php') >= 0 ) ? producturlpath.replace('index.php/','') : producturlpath;
+							var	reloadurl = baseUrl+ ("/path/"+producturlpath).replace(/\/\//g,"/"),
+								_quickviewbutton = "<a  class='btn-pd sm_quickview_handler' data-toggle='tooltip' data-placement='left' title='Quick View' href='"+reloadurl+"'><span>Quick View</span></a>";
+							$(el).append(_quickviewbutton);	
+						}
+					}
+				});
+			}
+		}
+		var _object  = '';
+		$('.sm_quickview_handler').fancybox({
+			title: null,
+			 width				: '75%',
+			 height				: '90%',
+			 autoSize			:  1,
+			 scrolling          : 'auto',
+			 type				: 'ajax',
+			 openEffect		    : 'fade',
+			 closeEffect		: 'fade',
+			 helpers		    :{
+										overlay : {
+						showEarly : true
+					}
+								 },
+			 afterLoad : function () {
+				if($('#product_addtocart_form').length > 0){
+					var _qty = $('#product_addtocart_form').find('#qty');
+					_qty.attr('id','qty_primary');
+					if(typeof productAddToCartForm != 'undefined' ) {
+						_object = productAddToCartForm ;
+					}
+					$('#product_addtocart_form').attr('id','product_addtocart_form_qv_clone');
+				}
+			 },
+			 beforeShow : function(){
+				
+				var $this = this.element, _parent = $('.quickview-main');
+					if(_parent.length > 0 ){
+						var _price_box =  _parent.find('.price-box');
+						if(_price_box.length > 0){
+							var idprice = $('[id]', _price_box ),
+								value_idprice =  idprice.attr('id'),
+								_cls = idprice.attr('class');
+								
+							if(idprice.length > 0){
+								idprice.addClass('price-box-qv');
+								if($('.'+_cls).length > 0) {
+									$('.'+_cls).each(function(i, el){
+										if(!$(el).hasClass('price-box-qv')) {
+											if($(el).attr('id') == value_idprice){
+												$(el).attr('data-idprice',value_idprice);
+												$(el).attr('id',value_idprice+'_qv_clone');
+											}
+										}
+										
+									});	
+								}
+								
+							}
+						}
+					}
+					if(typeof product_zoom){
+						product_zoom = 'undefined';
+					}
+			 },
+			 afterShow	: function(){
+				if( _check_tem_def){
+					product_zoom_ = new Product.Zoom('image', 'track', 'handle', 'zoom_in', 'zoom_out', 'track_hint');
+				} 
+				if(_ceck_tem_rwd){ 
+					ProductMediaManager.initZoom();
+					ProductMediaManager.wireThumbnails();
+				} 
+				
+				if(typeof initcajax != 'undefined' && $.isFunction(initcajax)){
+					initcajax();
+				}
+				
+				if(typeof updateProductCompareLinks != 'undefined' && $.isFunction(updateProductCompareLinks)){
+					updateProductCompareLinks();
+				}else{
+					$("a.link-compare").on ("click",function(e){
+							e.preventDefault();
+							urlcompare = $(this).attr("href");
+							urlcompare = urlcompare.replace("catalog/product_compare/add","quickview/index/compare");
+							window.location =  urlcompare;
+							return false;
+					  });
+				} 
+
+				if(typeof updateWishlistLinks != 'undefined' && $.isFunction(updateWishlistLinks)) {
+	
+					if(enable_ajax_wishlist){
+					 updateRemoveWishLinks();
+					 if(islogin=="1"){
+						 updateWishlistLinks(); 
+					 }
+					 updateWishlistAddCartLinks();
+					}
+				}	
+				
+				addthis.toolbox('.addthis_toolbox');
+			},
+			beforeClose : function () {
+				if( _check_tem_def){
+					product_zoom_ = 'undefined';
+				}
+				if(_ceck_tem_rwd){
+					ProductMediaManager.destroyZoom();
+				}
+				
+			},
+			afterClose : function(){
+				
+				$('.price-box').each(function(){
+					var $this = $(this), _id_price = $('[id]', $this).attr('data-idprice') ;
+						if(_id_price != '') {
+							$('[id]', $this).removeAttr('data-idprice');
+							$('[id]', $this).attr('id',_id_price);
+						}
+				});
+				
+				if($('#product_addtocart_form_qv_clone').length > 0){
+					$('#product_addtocart_form').remove();
+					$('#product_addtocart_form_qv_clone').attr('id','product_addtocart_form');
+					var _qty = $('#product_addtocart_form').find('#qty_primary');
+					_qty.attr('id','qty');
+					 if($('#product_addtocart_form').length > 0){
+						productAddToCartForm = new VarienForm('product_addtocart_form');
+					}
+				}
+					
+			}
+		});
+		
+		setInterval(function(){ _SmQuickView(); } ,5000);
+	});
+	//]]>
+</script>		
+<script type="text/javascript">
+	jQuery(document).ready(function() {
+		/* for general address field pages */
+		jQuery('#city').after('<select name="city" id="city_select" title="City" class="validate-select required-entry" style="display:none;" disabled></select>');
+		jQuery('#region_id').trigger('change');
+
+		/* for checkout */
+		jQuery('#billing\\:city').after('<select name="billing[city]" id="billing:city_select" title="City" class="validate-select required-entry" style="display:none;" disabled></select>');
+		jQuery('#billing\\:region_id').trigger('change');
+
+		/* for checkout */
+		jQuery('#shipping\\:city').after('<select name="shipping[city]" id="shipping:city_select" title="City" class="validate-select required-entry" style="display:none;" disabled></select>');
+		jQuery('#shipping\\:region_id').trigger('change');
+	});
+	jQuery(document).on('change', '#region_id', function() {
+		var reloadurl = 'http://www.ourshopee.com/region/area/area/region/' + this.value;
+        jQuery.ajax({
+        	url: reloadurl
+        }).done(function(areaOptions) {
+        	if(areaOptions) {
+        		jQuery('#city_select').html(areaOptions);
+        		jQuery('#city_select').attr('disabled', false);
+        		jQuery('#city').attr('disabled', true);
+        		jQuery('#city_select').show();
+        		jQuery('#city').hide();
+        		jQuery('#city_select').val(jQuery('#city').val());
+        	} else {
+        		jQuery('#city_select').attr('disabled', true);
+        		jQuery('#city').attr('disabled', false);
+        		jQuery('#city_select').hide();
+        		jQuery('#city').show();
+        	}
+        });
+	})
+	jQuery(document).on('change', '#billing\\:region_id', function() {
+		var reloadurl = 'http://www.ourshopee.com/region/area/area/region/' + this.value;
+        jQuery.ajax({
+        	url: reloadurl
+        }).done(function(areaOptions) {
+        	if(areaOptions) {
+        		jQuery('#billing\\:city_select').html(areaOptions);
+        		jQuery('#billing\\:city_select').attr('disabled', false);
+        		jQuery('#billing\\:city').attr('disabled', true);
+        		jQuery('#billing\\:city_select').show();
+        		jQuery('#billing\\:city').hide();
+        		jQuery('#billing\\:city_select').val(jQuery('#billing\\:city').val());
+        	} else {
+        		jQuery('#billing\\:city_select').attr('disabled', true);
+        		jQuery('#billing\\:city').attr('disabled', false);
+        		jQuery('#billing\\:city_select').hide();
+        		jQuery('#billing\\:city').show();
+        	}
+        });
+	})
+	jQuery(document).on('change', '#shipping\\:region_id', function() {
+		var reloadurl = 'http://www.ourshopee.com/region/area/area/region/' + this.value;
+        jQuery.ajax({
+        	url: reloadurl
+        }).done(function(areaOptions) {
+        	if(areaOptions) {
+        		jQuery('#shipping\\:city_select').html(areaOptions);
+        		jQuery('#shipping\\:city_select').attr('disabled', false);
+        		jQuery('#shipping\\:city').attr('disabled', true);
+        		jQuery('#shipping\\:city_select').show();
+        		jQuery('#shipping\\:city').hide();
+        		jQuery('#shipping\\:city_select').val(jQuery('#shipping\\:city').val());
+        	} else {
+        		jQuery('#shipping\\:city_select').attr('disabled', true);
+        		jQuery('#shipping\\:city').attr('disabled', false);
+        		jQuery('#shipping\\:city_select').hide();
+        		jQuery('#shipping\\:city').show();
+        	}
+        });
+	})
+</script>
+
+        
+    </div>
+
+	
+
+
+
+</body></html>
