@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oneplus.com privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612070702id_/http%3A//onepluscorp.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oneplus.com privacy policy that was archived on 2015-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151212141339id_/http%3A//onepluscorp.com/privacy-policy) for the most accurate reproduction.*
 
 # One Plus Corp. Privacy Policy | OnePlus.com | Website Policy | One Plus Corporation
 
