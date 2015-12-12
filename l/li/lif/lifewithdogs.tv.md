@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the lifewithdogs.tv privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627174034id_/http%3A//www.lifewithdogs.tv/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lifewithdogs.tv privacy policy that was archived on 2015-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151212161750id_/http%3A//www.lifewithdogs.tv/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Life With Dogs
+# Privacy Policy
 
 We take your privacy seriously. We will never disclose your information to thrid parties without your consent.
 
@@ -52,3 +52,5 @@ This policy was last modified on 5-7-12
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
 http://www.lifewithdogs.tv
+
+lifewithdogs@ymail.com
