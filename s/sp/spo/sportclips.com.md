@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sportclips.com privacy policy that was archived on 2015-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150408094339id_/http%3A//www.sportclips.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sportclips.com privacy policy that was archived on 2015-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151212081154id_/http%3A//sportclips.com/about-us/privacy-policy) for the most accurate reproduction.*
 
-# Privacy
+# Privacy | Sport Clips
 
 This Privacy Policy explains our use of any personal information you may supply Sport Clips, Inc. ("SCI") when visiting our stores or any of our web sites.
 
