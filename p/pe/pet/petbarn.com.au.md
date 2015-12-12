@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the petbarn.com.au privacy policy that was archived on 2015-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150613144731id_/http%3A//www.petbarn.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the petbarn.com.au privacy policy that was archived on 2015-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151212013903id_/http%3A//www.petbarn.com.au/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 ### ABOUT THIS PRIVACY POLICY
 
-Petbarn Pty Ltd and each its subsidiaries and affiliates ('Petbarn' or 'we' or 'us') recognise the importance of protecting the privacy of its customers and other third parties who provide their personal information to us.
+Petbarn Pty Ltd (ABN 78001802759) and each its subsidiaries and affiliates ('Petbarn' or 'we' or 'us') recognise the importance of protecting the privacy of its customers and other third parties who provide their personal information to us.
 
 This policy explains how we collect your personal information, what we do with it, and how it is protected.
 
@@ -150,7 +150,7 @@ This Privacy Policy may also be found on Petbarn's website [www.petbarn.com.au](
 
 If you would like to contact us in relation to this Privacy Policy or your personal information please contact us at:
 
-The Privacy Officer – Petbarn
+Petbarn
 
 Unit 6, 372 Eastern Valley Way, Chatswood, NSW 2067
 
