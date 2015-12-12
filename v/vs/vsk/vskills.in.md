@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vskills.in privacy policy that was archived on 2015-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150614000808id_/http%3A//www.vskills.in/certification/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vskills.in privacy policy that was archived on 2015-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151212082039id_/http%3A//www.vskills.in/certification/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -80,5 +80,3 @@ address, or telephone number) about your visits to this and other websites in or
  By using the Website and/ or by providing your information, you consent to the collection and use of the information you disclose on the Website in accordance with this Privacy Policy, including but not limited to Your consent for sharing your information as per this privacy policy.
 
 If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it.
-
-**Note:-** While our Job Centre is run on a best effort basis and its our mission to connect our certified candidates with job opportunities, the certification in itself should not be construed as a job guarantee programme. There is no such claim made by Vskills at any stage of a 100% job guarantee to a certified candidate.
