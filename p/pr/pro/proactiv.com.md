@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the proactiv.com privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626194839id_/http%3A//www.proactiv.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the proactiv.com privacy policy that was archived on 2015-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151212174343id_/http%3A//www.proactiv.com/privacy.html) for the most accurate reproduction.*
 
 # Proactiv Privacy Policy | Proactiv®
 
