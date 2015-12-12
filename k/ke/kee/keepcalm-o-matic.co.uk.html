@@ -1,0 +1,655 @@
+<!--The following is the downloaded HTML source of the keepcalm-o-matic.co.uk privacy policy that was archived on 2015-12-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151212050311id_/http%3A//www.keepcalm-o-matic.co.uk/privacy) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html lang="en" class="no-js js"><!--<![endif]--><head>
+        <meta charset="utf-8"><script src="https://js-agent.newrelic.com/nr-768.min.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-WZGT"></script><script type="text/javascript" async="" src="https://intljs.rmtag.com/111650.ct.js"></script><script async="" src="//connect.facebook.net/en_US/fbevents.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UwYCVVJACQAGU1RRAA=="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),f=c.length,u=i(a,o,r),d=0;f>d;d++)c[d].apply(u,n);return u}function a(t,e){f[t]=s(t).concat(e)}function s(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:s,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:20,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(f){try{r("ierr",[f,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(3),window.onerror=e;try{throw new Error}catch(f){"stack"in f&&(t(4),t(5),"addEventListener"in window&&t(1),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&t(2),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:8,3:3,4:7,5:6,6:21,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=t("ee").create(),i=t(1)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t,e){function n(){return s}if(t[1]){var r=t[1];if("function"==typeof r){var s=a(r,"nr@wrapped",function(){return i(r,"fn-",n,r.name||"anonymous")});this.wrapped=t[1]=s,o.emit("initEventContext",[t,e],this.wrapped)}else"function"==typeof r.handleEvent&&i.inPlace(r,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:22,ee:"QJf3ax",gos:"7eSDFh"}],6:[function(t,e){var n=t("ee").create(),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:22,ee:"QJf3ax"}],7:[function(t,e){function n(t,e,n){t[0]=i(t[0],"fn-",null,n)}function r(t,e,n){function r(){return a}this.ctx={};var a={"nr@context":this.ctx};o.emit("initTimerContext",[t,n],a),t[0]=i(t[0],"fn-",r,n)}var o=t("ee").create(),i=t(1)(o);e.exports=o,i.inPlace(window,["setTimeout","setImmediate"],"setTimer-"),i.inPlace(window,["setInterval"],"setInterval-"),i.inPlace(window,["clearTimeout","clearImmediate"],"clearTimeout-"),o.on("setInterval-start",n),o.on("setTimer-start",r)},{1:22,ee:"QJf3ax"}],8:[function(t,e){function n(){f.inPlace(this,p,"fn-",o)}function r(t,e){f.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),f=c(a),u=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),e.hasOwnProperty("addEventListener")&&u.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(i){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,f.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:5,2:22,ee:"QJf3ax"}],9:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var a=t.responseType,f="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,u=n(f);if(u&&(r.rxSize=u),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(e.cat=d.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,o("xhr",[e,r,this.startTime])}}}function n(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,f=t(1),u=window.XMLHttpRequest;t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=e,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,e){var r=this.metrics,o=t[0],i=this;if(r&&o){var f=n(o);f&&(r.txSize=f)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{a.emit("internal-error",[n])}catch(r){}}};for(var u=0;c>u;u++)e.addEventListener(s[u],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof u&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof u&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof u&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:10,3:8,4:5,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],10:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],11:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:20,2:21,handle:"D5DuLP"}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):void(r.q&&(r.q[t]||(r.q[t]=[]),r.q[t].push(e)))}var r=t("ee").create();e.exports=n,n.ee=r,r.q={}},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info,e=f.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){s(d,function(e,n){e in t||(t[e]=n)});var n="https"===u.split(":")[0]||t.sslForHttp;p.proto=n?"https://":"http://",a("mark",["onload",i()]);var r=f.createElement("script");r.src=p.proto+t.agent,e.parentNode.insertBefore(r,e)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=window,f=c.document;t(2);var u=(""+location).split("?")[0],d={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-768.min.js"},p=e.exports={offset:i(),origin:u,features:{}};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),c.addEventListener("load",n,!1)):(f.attachEvent("onreadystatechange",r),c.attachEvent("onload",n)),a("mark",["firstbyte",i()])},{1:20,2:11,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],20:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],21:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],22:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@original",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,f;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){u([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return f=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,f],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=t,f(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){u([o,e,n,r])}}function f(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){u([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function u(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:21,ee:"QJf3ax"}]},{},["G9z0Bl",4,9]);</script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","queueTime":2,"licenseKey":"89696ce665","agent":"js-agent.newrelic.com/nr-768.min.js","transactionName":"MgFXYENSVxECWkdRCgtLc0FfUE0LDFccUwAAFFZVXV4XFApcREtfFRZcQlBQQA==","applicationID":"1367537","errorBeacon":"bam.nr-data.net","applicationTime":28}</script>
+
+        <title> KEEP CALM AND CARRY ON with the Keep Calm-o-matic</title>
+        <!-- lo-web-11 -->
+
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=0">
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+        
+
+        <meta property="fb:admins" content="684465441">
+        <meta property="fb:app_id" content="177054532316756">
+
+        <meta property="twitter:site" content="@keepcalmomatic">
+
+        
+        <meta property="og:type" content="keepcalmandcarryon:poster">
+        <meta property="og:url" content="http://www.keepcalm-o-matic.co.uk">
+        <meta property="og:title" content="The Keep Calm-o-matic">
+        <meta property="og:description" content="We are proud to bring you the Keep Calm-o-matic.">
+        <meta property="og:image" content="http://s.keepcalm-o-matic.co.uk/res/i/social/keepcalm-fbcard.png">
+        <meta property="og:image:width" content="1200">
+        <meta property="og:image:height" content="630">
+
+        <meta property="twitter:card" content="summary_large_image">
+        <meta property="twitter:title" content="The Keep Calm-o-matic">
+        <meta property="twitter:description" content="We are proud to bring you the Keep Calm-o-matic.">
+        <meta property="twitter:url" content="http://www.keepcalm-o-matic.co.uk">
+        <meta property="twitter:image:src" content="http://s.keepcalm-o-matic.co.uk/res/i/social/keepcalm-twcard.png">
+        <meta property="twitter:image:width" content="588">
+        <meta property="twitter:image:height" content="315">
+        
+
+        <link rel="alternate" type="application/rss+xml" title="RSS feed of recent Keep Calm and Carry On posters" href="/feed/">
+
+        
+            <link rel="stylesheet" href="http://s.keepcalm-o-matic.co.uk/res/keepcalm/assets/jquery.jscrollpane/jquery.jscrollpane.css">
+            <link rel="stylesheet" href="http://s.keepcalm-o-matic.co.uk/res/keepcalm/assets/farbtastic/farbtastic.css">
+            <link rel="stylesheet" href="http://s.keepcalm-o-matic.co.uk/res/new/css/styles.css?v20">
+            <link rel="stylesheet" href="https://s.keepcalm-o-matic.co.uk/res/keepcalm/css/main.e4d3ff44.css">
+        
+
+        
+        
+
+        
+        <!--[if lt IE 9]>
+            <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
+            <script src="https://cdnjs.cloudflare.com/ajax/libs/respond.js/1.4.2/respond.min.js"></script>
+        <![endif]-->
+
+
+        <link rel="shortcut icon" href="http://s.keepcalm-o-matic.co.uk/favicon.ico?v3" type="image/x-icon">
+        <link rel="apple-touch-icon" href="http://s.keepcalm-o-matic.co.uk/apple-touch-icon.png">
+
+
+        <script>
+            // html.no-js -> html.js for JS detection (do it here for immediate use)
+            document.documentElement.className.replace('no-js', '');
+            document.documentElement.className += ' js';
+        </script>
+
+        
+            <script type="text/javascript">
+                var _gaq = _gaq || [];
+                _gaq.push(['_setAccount', 'UA-2156704-23']);
+                _gaq.push(['_setDomainName', 'keepcalm-o-matic.co.uk']);
+                _gaq.push(['_setAllowLinker', true]);
+                _gaq.push(['_trackPageview']);
+                _gaq.push(['_setCustomVar', 1, 'Product_page_redesign', '', 1 ]);
+                _gaq.push(['_trackPageLoadTime']);
+
+                (function() {
+                    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+                    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+                    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+                })();
+            </script>
+
+            <!-- Facebook Pixel Code -->
+            <script>
+            !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+            n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+            n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+            t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+            document,'script','//connect.facebook.net/en_US/fbevents.js');
+
+            fbq('init', '1646487118901698');
+            fbq('track', "PageView");
+            fbq('track', 'ViewContent');</script>
+            <noscript><img height="1" width="1" style="display:none"
+            src="https://www.facebook.com/tr?id=1646487118901698&ev=PageView&noscript=1"
+            /></noscript>
+        
+
+        
+            
+            <!-- Rakuten -->
+            <script type="text/javascript">
+                (function() {
+                    var rak = document.createElement('script'); rak.type = 'text/javascript'; rak.async = true;
+                    rak.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'intljs.rmtag.com/111650.ct.js';
+                    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(rak, s);
+                })();
+            </script>
+            <!-- End Rakuten -->
+            
+
+            
+            <script>(function(d) {var e = d.createElement('script');e.src = d.location.protocol + '//app.yieldify.com/yieldify/code.js?yieldify_id=4513&loca='+window.location.href;e.async = true;d.getElementsByTagName("head")[0].appendChild(e);}(document));</script><script src="https://app.yieldify.com/yieldify/code.js?yieldify_id=4513&amp;loca=https://web.archive.org/web/20151212050311id_/http%3A//www.keepcalm-o-matic.co.uk/privacy" async=""></script>
+            
+        
+
+        
+	<script type="text/javascript" async="" src="//static.getclicky.com/js"></script></head>
+	<body class="new-content">
+        
+        <!-- Google Tag Manager -->
+        <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-WZGT"
+        height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+        <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+        '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+        })(window,document,'script','dataLayer','GTM-WZGT');</script>
+        <!-- End Google Tag Manager -->
+        
+
+        <div id="container">
+
+            
+            <div class="top-area ">
+                
+                <div class="top-area-offset"></div>
+
+                <header class="site-header" id="page-about">
+
+                    
+                        <div class="head-top">
+    <p>Order your gifts in time for <b>Christmas!</b> See our <a href="http://www.keepcalm-o-matic.co.uk/help/#last-dates-for-chistmas" target="_blank" style="color:white; font-weight: bold;">last order dates for Christmas delivery</a>
+</p>
+</div>
+                    
+
+                    
+                        
+
+
+<div class="wrapper top-buttons">
+    <h1 class="logo"><a href="/"></a></h1>
+    <a href="/" class="logo-txt">The Keep Calm-o-Matic</a>
+    <div class="head-left">
+        <div class="mob-hidden">
+            <a href="/#create" id="create-poster" class="header__button header__button--create scroll_to_create" onclick="javascript: _gaq.push(['_trackPageview', '/header/create-button/']); clicky.log('/header/create-button/', 'Header create button');">
+                Create
+                <span class="header__button-icon"></span>
+            </a><!--
+         --><a href="/gallery/" class="header__button header__button--discover" onclick="javascript: _gaq.push(['_trackPageview', '/header/discover-button/']); clicky.log('/header/discover-button/', 'Header discover button');">
+                Discover
+                <span class="header__button-icon"></span>
+            </a><!--
+         --><a href="/shop/" class="header__button header__button--shop button-style-green" onclick="javascript: _gaq.push(['_trackPageview', '/header/shop-button/']); clicky.log('/header/shop-button/', 'Header shop button');">
+                Shop
+                <span class="header__button-icon kc-shopping-cart-green-bg shop-button__icon"></span>
+            </a>
+        </div>
+        <div class="mob-visible">
+            <div class="search-click" id="mob-search-but"><span></span></div>
+            <span class="menu-button" id="mob-menu-button"><span></span></span>
+            <ul class="menu-list">
+                <div class="arrow"></div>
+                <li><a href="/shop/">Shop</a></li>
+                <li><a href="/guide-to-keep-calm/">About us</a></li>
+                <li><a href="/help/">Help centre</a></li>
+                <li class="last-li"><a href="/privacy/">Terms &amp; conditions</a></li>
+                <div class="mask"></div>
+            </ul>
+        </div>
+    </div>
+    <div class="head-right">
+        <span class="mob-hidden menu-button" id="menu-button"><span></span></span>
+        <ul class="mob-hidden menu-list">
+            <div class="arrow"></div>
+            <li><a href="/shop/">Shop</a></li>
+            <li><a href="/guide-to-keep-calm/">About us</a></li>
+            <li><a href="/help/">Help centre</a></li>
+            <li class="last-li"><a href="/privacy/">Terms &amp; conditions</a></li>
+            <div class="mask"></div>
+        </ul>
+        <ul class="profile-block join-in">
+            
+                
+                    <li class="open-join-in-cleanly-action join-in-label">
+                        <p>Join in</p>
+                    </li>
+                
+            
+            <li class="trash">
+                <a href="/checkout/">
+                    
+                </a>
+            </li>
+        </ul>
+        <div class="mob-hidden search-click" id="tab-search-but"><span></span></div>
+        <div class="mob-hidden search-wrap">
+            <div class="search-form" id="poster-sf"><!--add class "focused"-->
+                <input type="text" id="search-poster" placeholder="Search here">
+                <a href="#" class="search-button"></a>
+                <span class="input-close"></span>
+            </div>
+            <div class="top-hit" id="top-hit">
+                <p class="title">Top hits</p>
+
+                <div id="autocomplete-load" last="" class="hidden"></div>
+
+                <ul class="hit-img">
+                </ul>
+                <div class="clear"></div>
+                <a href="#" class="view-all">View all results</a>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="mob-search-form">
+    <input type="text" id="mob-search" placeholder="Search here">
+    <a href="#" class="search-button mob-search"></a>
+</div>
+<div class="mob-visible cr-disk-wrap">
+    <a href="/#create" id="create-poster-mobile" class="create scroll_to_create" onclick="javascript: _gaq.push(['_trackPageview', '/header/create-button/']); clicky.log('/header/create-button/', 'Header create button');">
+        Create
+    </a><!--
+ --><a href="/gallery/" class="discover" onclick="javascript: _gaq.push(['_trackPageview', '/header/discover-button/']); clicky.log('/header/discover-button/', 'Header discover button');">
+        Discover
+    </a><!--
+ --><a href="/shop/" class="button-base button-style-green" onclick="javascript: _gaq.push(['_trackPageview', '/header/shop-button/']); clicky.log('/header/shop-button/', 'Header shop button');">
+        Shop
+    </a>
+</div>
+
+                    
+                </header>
+            </div>
+
+            
+                
+                
+
+                
+                
+            
+
+            <div class="grey-area ">
+                
+    <style>
+        p {
+            line-height: 1.5;
+        }
+        .m-b-1em {
+            margin-bottom: 1em;
+        }
+    </style>
+    <div class="header-banner">
+        <h1 class="banner-hero">Terms of Use and Privacy</h1>
+    </div>
+
+    <div class="container">
+        <section>
+            <div class="content">
+                <h2>1. General Stuff</h2>
+                <p>Your use of the Keep Calm-o-Matic website is subject to these terms and this privacy policy. If you do not accept this then please do not use the site.</p>
+                <p>The Keep Calm-o-Matic website is  owned and operated by Keep Calm Network Ltd, a company registered in England number #9071964.</p>
+
+                <h2>2. Creating Posters</h2>
+                <p>By creating a poster on the Keep Calm-o-Matic website you grant us a perpetual non-exclusive worldwide license to reproduce your chosen poster, including any images you have uploaded.</p>
+
+                <p>When creating a poster you have the choice to keep it 'private'. If you do not choose this option you are aware your poster (including any uploaded images) may be visible to users of the Keep Calm-o-Matic site and may also be visible on the wider internet. If you wish to remove a poster please email us with the poster's URL and we will do our best on a voluntary basis. Please refer also to our Content Policy</p>
+
+                <h2>3. Liability</h2>
+                <p>We accept no liability for any content created or uploaded via the Keep Calm-o-Matic website. You may find content others have created to be offensive; that is your problem. If you think there is something that is illegal then please <a href="mailto:help@keepcalm-o-Matic.co.uk">contact us</a> and we will investigate.</p>
+                <p>By uploading any content to the Keep Calm-o-Matic website you confirm that you own the rights or have permission to upload such content. You agree not to upload any content that is illegal or infringes on the rights of other people.</p>
+
+                <h2>4. Shopping</h2>
+                <p>Some of the products available to buy on our website are via our e-commerce partner Zazzle. They may require information such as name, address and payment details in order to process your order. We do not store this information and have no control over it. If you have concerns about the use of this information then you should <a href="http://www.zazzle.co.uk/about/contactus" rel="nofollow">contact them</a> directly.</p>
+
+                <h2>5. Privacy</h2>
+
+                <p>Users choosing to sign in to the Keep Calm-o-Matic site grant us permission to store their email address. We will not resell this to any third parties. However, we may email our users from time to time. Users can unsubscribe by <a href="mailto:help@keepcalm-o-Matic.co.uk">contacting us</a>, or by clicking "unsubscribe" on the bottom of our emails.</p>
+
+                <p>We use Google Analytics to monitor visitors and traffic to the Keep Calm-o-Matic site. Google may use cookies to capture this information; they will not capture anything personally identifiable. See <a href="http://www.google.com/intl/en/privacy/" rel="nofollow">http://www.google.com/intl/en/privacy/</a> for details of Google's privacy policy.</p>
+
+                <p>Data may be stored outside of the EU but all data will be stored in accordance with Safe Harbour data protection principles.</p>
+                <p>These terms are subject to the laws of England and Wales and you accept the sole jurisdiction of the English courts.</p>
+                <p class="m-b-1em">If any term is deemed invalid or unenforcable by a court or other statutory body it in no way affects the validity of the remaining terms.</p>
+
+                <p class="m-b-1em"><b>Please refer to our detailed policy below:</b></p>
+                <p class="m-b-1em">We collect information in a number of ways.</p>
+                <p class="m-b-1em">Information that you give us permission to use, by using our services:</p>
+                <p class="m-b-1em">When you sign up to use our service, you will voluntarily provide certain information, such as your name, profile photos, comments, votes and favourite information, email address you used to sign up, or other information you provide within your profile.</p>
+                <p>When you purchase our products, you will provide us with a valid email address, payment information, contact information (including your address and phone number), and we will also keep your order history of the products you purchase. If you buy a gift for someone else, you will also provide us with their delivery details and contact information. We will not sell your information to third parties, however we may email you from time to time with information we feel you will find of interest such as new products, news and special offers. Please note, that you may unsubscribe from our emails at any time by following the unsubscribe link. You may also ask us at any time to refrain from sending you marketing emails by sending us an email with the subject line ‘UNSUBSCRIBE’. </p>
+                <p class="m-b-1em">To sign up to our website via a social account, you will also allow us to obtain information from your social accounts (Facebook, Twitter, Google Plus). The information we receive from these services often depend on your settings for these accounts or privacy policy - we will not post on your accounts for you.</p>
+
+                <p>Technical information collected when using our website:</p>
+                <p>When you use our website on your PC or mobile, there will be information that gets created and recorded automatically.  We collect some of this information to help us better understand how visitors use our website.  Information as follows:</p>
+
+                <ul class="padded-list">
+                    <li>Log data. This is information that your browser sends to our servers, this may include your Internet Protocol address, browser type and settings, the date and time of your request, how you used our website, and cookies data.</li>
+                    <li>Cookies. A cookie is a small piece of data that may be stored on your computer when you visit a web site. Cookies may be used to identify returning visitors to a website or to remember information between visits (such as shopping cart contents on an ecommerce website). If you do not want our website to store cookies on your computer or device, you should set your web browser to refuse cookies.        </li>
+                    <li>Data may be stored outside of the EU but all data will be stored in accordance with Safe Harbour data protection principles - you have the right to access information held about you, and correct or delete it if it is inaccurate. These terms are subject to the laws of England and Wales and you accept the sole jurisdiction of the English courts. If any term is deemed invalid or unenforceable by a court or other statutory body it in no way affects the validity of the remaining terms.</li>
+                    <li>Device information. In addition to log data, we may also collect information about the device you’re using,including what type of device it is, what operating system you’re using, device settings, unique device identifiers, and crash data. Whether we collect some or all of this information often depends on what type of device you’re using and its settings. For example, different types of information are available depending on whether you’re using a Mac or a PC, or an iPhone or an Android phone. To learn more about what information your device makes available to us, please also check the policies of your device manufacturer or software provider.</li>
+                </ul>
+
+                <p>Intellectual property when using our website:</p>
+                <p>Content you upload either directly or via our website or services remains your property and you grant us a worldwide non-exclusive royalty free license to reproduce, process or otherwise work with said content. By agreeing to our terms you confirm that you have the right to grant us such a license.</p>
+                <p>Please make sure that you respect copyrights, trademarks and other legal rights when using our website and post only content that you own rights to. It is your responsibility to ensure you own rights to the information you upload to the website and that the content uploaded is not illegal or does not incite to any illegal activities or infringes upon someone else’s rights.</p>
+                <p>You agree to indemnify us from any claims in relation to any content you upload. This includes, but is not limited to, any claims for breach of copyright, trademark disputes or claims for breach of licensing terms.</p>
+                <p>Security (DP):</p>
+                <p>We will always hold your information securely.</p>
+                <p>To prevent unauthorised disclosure or access to your information, we have implemented strong physical and electronic security safeguards.</p>
+                <p>We also follow stringent procedures to ensure we work with all personal data in line with the Data Protection Act 1998.</p>
+
+                <h2>6. How to contact us</h2>
+                <p class="m-b-1em">You can always get in touch with us for more information at help@keepcalm-o-matic.co.uk. Our office hours are Monday to Friday, 9 a.m. to 5.30 p.m. GMT and we do our best to respond to every request within 24 business hours. You can find out more about us and what we do on the <a href="/guide-to-keep-calm/">company page</a>.</p>
+                <p>Keep Calm Network Ltd, 7th Floor, 11 Old Jewry, London EC2R 8DU, United Kingdom.  T: +44 (0)203 422 6659</p>
+            </div>
+        </section>
+    </div>
+
+    <div class="container container--shadowed container--half-padding">
+        <div class="content">
+            <p class="faded">Last updated: 5<sup>th</sup> November 2015</p>
+        </div>
+    </div>
+    <!-- End main section -->
+
+
+                <div id="popup-background"></div>
+
+                <div class="other-sections ">
+                    <!-- Left for other sections -->
+                </div>
+            </div>
+
+            
+                
+            
+
+            
+                <footer class="site-footer">
+                    
+
+<div class="wrapper">
+    <p class="ttl">As seen on</p>
+
+    <ul class="label-list">
+        <li><span class="label-img1" href="#"></span></li>
+        <li><span class="label-img2" href="#"></span></li>
+        <li><span class="label-img3" href="#"></span></li>
+        <li><span class="label-img4" href="#"></span></li>
+    </ul>
+
+    <div class="info-layer-wrap">
+        <div class="bot-inf-mob"></div>
+        <div class="bottom-info-layer">
+            <p class="title">About</p>
+            <div class="accord-for-mobile">
+                <nav>
+                    <ul class="foot-nav">
+                        <li><a href="/guide-to-keep-calm/">About us</a></li>
+                        <li><a href="/help/">Help centre</a></li>
+                        <li><a href="/widgets/">Add us to your site</a></li>
+                    </ul>
+                </nav>
+            </div>
+        </div>
+
+        <div class="bottom-info-layer">
+            <div class="clear"></div>
+            <p class="title">Shop</p>
+            <div class="accord-for-mobile">
+                <nav>
+                    <ul class="foot-nav">
+                        <li><a href="/shop/">View our products</a></li>
+                        <li><a href="/#create">Create your own</a></li>
+                        <li><a href="/my-page/">My account</a></li>
+                        <li><a href="/help/#delivery-times">Delivery</a></li>
+                        <li><a href="/help/#return">Returns Policy</a></li>
+                        <li><a href="/help/#refund">Refunds Policy</a></li>
+                    </ul>
+                </nav>
+            </div>
+        </div>
+        <div class="bottom-info-layer">
+            <div class="clear"></div>
+            <p class="title">Follow us</p>
+            <div class="accord-for-mobile">
+                <p style="text-align: justify">You can follow us to stay up-to-date: keep calm and be social!</p>
+                <ul class="foot-soc">
+                    <li><a class="fb" href="https://www.facebook.com/keepcalmgenerator" target="_blank"></a></li>
+                    <li><a class="tw" href="https://twitter.com/keepcalmomatic" target="_blank"></a></li>
+                    <li><a class="pb" href="http://www.pinterest.com/keepcalmomatic/" target="_blank"></a></li>
+                    <li><a class="gp" href="https://plus.google.com/115120374373914451092/posts" target="_blank"></a></li>
+                    <li><a class="ig" href="https://instagram.com/keep_calmomatic" target="_blank"></a></li>
+                </ul>
+            </div>
+        </div>
+        <div class="bottom-info-layer">
+            <div class="clear"></div>
+
+            <p class="title">Latest tweets</p>
+
+            
+            <div class="accord-for-mobile">
+                <div class="tweet-one">
+                    <span class="twt"></span>
+                    <p class="tweet-mail"><a href="https://twitter.com/keepcalmomatic" target="_blank">@keepcalmomatic</a>
+                    <span class="tweet-date">Dec 11</span></p>
+                    <p style="text-align: justify">Take an #Elfie in this hoodie, because Christmas is coming!  https://t.co/WERcDij04i https://t.co/j2o4xlNTDC</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="wrapper foot-bot-layer">
+    <ul class="copyright">
+        <li>Copyright © 2009 - 2015 Keep Calm Network Ltd.</li>
+        <li>Registered in England and Wales, #9071964</li>
+        <li><a href="/privacy/">Terms, conditions &amp; privacy</a></li>
+    </ul>
+    <ul class="foot-image">
+        <li class="kc-payment-logos"></li>
+        <li class="kc-payment-paypal footer__logo--close"></li>
+        <span class="split-mobile"></span>
+        <li class="foot-lab-img1"></li>
+        <li class="foot-lab-img2"></li>
+    </ul>
+</div>
+
+                </footer>
+            
+
+            <!-- Happening now -->
+            
+            <div id="happening-now">
+                
+                <div class="h-n-header">
+                    <span>Happening now</span>
+                    <a class="x-black" title="Hide the notifications"></a>
+                    <a class="arrow-up" id="min-max" title="Minimize/maximize the notifications"></a>
+                </div>
+                <!-- Templates for the notifications tiles -->
+                <!-- Classes:
+                    notif img-poster    Poster created, favourited or voted
+                    notif img-user      User signed up
+                    notif collapsed     Minified tile
+                -->
+                <div id="tile-template">
+                    <a class="x-grey"></a>
+                    <a href="#href"><img src="#img"></a>
+                    <span>#text</span>
+                </div>
+                
+            </div>
+            
+            <!-- /Happening now-->
+
+            <!-- General loading popup-->
+            <div id="kc-loading-popup">
+                
+
+<div class="modal-container ">
+    <div class="modal-valign-outer">
+    <div class="modal-valign-middle">
+    <div class="valign-inner modal-content modal-loading">
+
+    
+    <img src="http://s.keepcalm-o-matic.co.uk/res/keepcalm/i/throbber.gif">
+
+
+    </div>
+    </div>
+    </div>
+</div>
+
+            </div>
+        </div>
+
+        <script type="text/javascript">
+            var mobile_site = false;
+        </script>
+
+        
+
+
+
+
+
+    <script src="//cdn.ravenjs.com/1.1.19/jquery,native/raven.min.js"></script>
+    <script>
+      Raven.config(
+        'https://49005757db17439998ca0976ddba718b@app.getsentry.com/50953',
+        {
+          whitelistUrls: [
+            /www\.keepcalm-o-matic\.co\.uk\/checkout\/$/,
+            /www\.keepcalm-o-matic\.co\.uk\/$/
+          ],
+          includePaths: [
+            /https?:\/\/(www\.)?keepcalm-o-matic\.co\.uk/
+          ]
+
+      }).install();
+
+      
+    </script>
+
+
+<script type="text/javascript">
+    var AUTHENTICATED = 'False';
+    USER_AUTHENTICATED = false;
+    window.USER_AUTHENTICATED = false;
+</script>
+<script>
+    // Add some URLS
+    var KC = KC ? KC : {};
+    KC.urls = KC.urls || {};
+    KC.urls.currentPath = '/privacy/'; // The current URL
+    KC.urls.markNotification = "/mark-notification/";
+    KC.urls.notificationInfinteScroll = "/notifications/infinte-scroll/";
+    KC.urls.search = "/search/";
+    KC.urls.ajaxSearch = "/search_autocomplete/";
+    KC.urls.login = "/accounts/login/?next=" + KC.urls.currentPath;
+    KC.urls.joininModal = '/modals/join-in';
+    KC.urls.logout = "/accounts/logout/";
+    KC.urls.passwordRecoveryRequest = '/accounts/password/reset/';
+
+    
+    KC.urls.vote = "/vote/{POSTER_ID}/{DIRECTION}/";
+    KC.urls.favourite = "/favourite/{POSTER_ID}/{ADD_OR_REMOVE}/";
+    KC.urls.ajaxSubmitComment = '/comments/add/{POSTER_ID}/v2/';
+    KC.urls.follow = "/follow/{USER}/{FOLLOW_STATE}/";
+    KC.urls.ban = "/ban/{USER}/{BAN_STATE}/";
+    KC.urls.shadowban = "/shadowban/{USER}/{SHADOWBAN_STATE}/";
+    KC.urls.userAction = '/p/{SLUG}/user-list/{ACTION}/';
+    KC.urls.creationPreview = '/preview/{ENGINE}/';
+    KC.urls.backgroundSelector = '/background-selector/{ENGINE}/';
+    KC.urls.emblemSelector = '/emblem-selector/{ENGINE}/';
+    KC.urls.newsletterOptIn = "/newsletter-opt-in/";
+</script>
+
+
+
+<script>
+    // Avoid `console` errors in browsers that lack a console.
+    (function() {
+        var method;
+        var methods = ['info', 'debug', 'warn', 'error'];
+        var length = methods.length;
+        var console = (window.console = window.console || {});
+
+        // console.log will be our replacement function for all other logging functions
+        if (!console.log) {
+            console.log = function() {};
+        }
+
+        while (length--) {
+            method = methods[length];
+
+            // Only stub undefined methods.
+            if (!console[method]) {
+                console[method] = console.log;
+            }
+        }
+    }());
+</script>
+
+
+<!--[if lt IE 9]>
+    <script src="https://ie7-js.googlecode.com/svn/version/2.1(beta4)/IE9.js"></script>
+    <script src="http://s.keepcalm-o-matic.co.uk/res/keepcalm/js/ie8-js-polyfill.js"></script>
+<![endif]-->
+
+
+<script type="text/javascript">
+    (function(){
+  var FLAGS = {
+    'Facebook': false,'FacebookPost': false,'New Creation': true,'New Gallery Page': true,'New Home Page': true,'New Profile Page': true,'New Upselling': true,'Redesigned Poster Page': true,'Redesigned Shop': true
+    },
+    SWITCHES = {
+    'Mug Product Preview': true,'Mug Large Product Preview': true,'Prevent submission to PW API': true,'Billing Email Templates': true,'New Join-in': true,'Rakuten Tag': true,'Yieldify Tag': true,'Images in Sitemap': true
+    },
+    SAMPLES = {
+    
+    };
+  window.waffle = {
+    "flag_is_active": function waffle_flag(flag_name) {
+      
+      return !!FLAGS[flag_name];
+    },
+    "switch_is_active": function waffle_switch(switch_name) {
+      
+      return !!SWITCHES[switch_name];
+    },
+    "sample_is_active": function waffle_sample(sample_name) {
+      
+      return !!SAMPLES[sample_name];
+    },
+    "FLAGS": FLAGS,
+    "SWITCHES": SWITCHES,
+    "SAMPLES": SAMPLES
+  };
+})();
+
+</script>
+
+<script src="https://s.keepcalm-o-matic.co.uk/res/keepcalm/js-prod/libs.e20e2c9c.js"></script>
+<script src="https://s.keepcalm-o-matic.co.uk/res/keepcalm/js-prod/all.ce5d39c5.js?v1"></script>
+
+
+        
+
+        <!-- Begin Cookie Consent plugin by Silktide - http://silktide.com/cookieconsent -->
+        <script type="text/javascript">
+            window.cookieconsent_options = {"message":"This website uses cookies to ensure you get the best experience on our website","dismiss":"Got it!","learnMore":"More info","link":"http://www.keepcalm-o-matic.co.uk/privacy/","theme":"dark-bottom"};
+        </script>
+        <script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/1.0.9/cookieconsent.min.js" async="" defer=""></script>
+        <!-- End Cookie Consent plugin -->
+
+        <span id="country_code" data-country="US"></span>
+
+        
+            <!-- Clicky -->
+            
+            <script type="text/javascript">
+                var clicky_site_ids = clicky_site_ids || [];
+                clicky_site_ids.push(100746970);
+                (function() {
+                  var s = document.createElement('script');
+                  s.type = 'text/javascript';
+                  s.async = true;
+                  s.src = '//static.getclicky.com/js';
+                  (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild( s );
+                })();
+            </script>
+            <noscript><p><img width="1" height="1" src="//in.getclicky.com/100746970ns.gif" /></p></noscript>
+            <!-- End Clicky -->
+        
+
+        
+        
+	
+
+</body></html>
