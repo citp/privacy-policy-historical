@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the www.gov.ie privacy policy that was archived on 2015-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150613121501id_/http%3A//www.gov.ie/cookiepolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the www.gov.ie privacy policy that was archived on 2015-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151212221731id_/http%3A//www.gov.ie/cookiepolicy) for the most accurate reproduction.*
 
 # Cookie Policy | www.gov.ie
 
