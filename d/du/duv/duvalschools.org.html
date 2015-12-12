@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the duvalschools.org privacy policy that was archived on 2015-06-12.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150612090515id_/http%3A//duvalschools.org/Page/12667) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the duvalschools.org privacy policy that was archived on 2015-12-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151212185835id_/http%3A//www.duvalschools.org/Page/12667) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Frameset//EN" "http://www.w3.org/TR/html4/frameset.dtd"><html lang="en"><head>
     <title>Legal Services / SW Privacy</title>
@@ -15,48 +15,63 @@
     
     <!-- Begin swuc.GlobalJS -->
 <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">
- staticURL = "http://www.duvalschools.org/Static/V2_10_01/";
+ staticURL = "http://www.duvalschools.org/Static/V2_12_01/";
  SessionTimeout = "30";
 </script>
 <!-- End swuc.GlobalJS -->
-    
-    
+
+
     <!-- Stylesheets -->
 
-    <link rel="Stylesheet" type="text/css" href="http://www.duvalschools.org/Static/V2_10_01/App_Themes/SW/jquery.jgrowl.css">
-    <link rel="Stylesheet" type="text/css" href="http://www.duvalschools.org/Static/V2_10_01//site/assets/styles/system.css">
-    <link rel="Stylesheet" type="text/css" href="http://www.duvalschools.org/Static/V2_10_01//site/assets/styles/apps.css">
-    <link rel="Stylesheet" type="text/css" href="http://www.duvalschools.org/Static/V2_10_01/App_Themes/SW/jQueryUI.css">
-    
-    
+    <link rel="Stylesheet" type="text/css" href="http://www.duvalschools.org/Static/V2_12_01/GlobalAssets/webfonts/OpenSans-Light.css">
+    <link rel="Stylesheet" type="text/css" href="http://www.duvalschools.org/Static/V2_12_01/GlobalAssets/webfonts/OpenSans-Italic.css">
+    <link rel="Stylesheet" type="text/css" href="http://www.duvalschools.org/Static/V2_12_01/GlobalAssets/webfonts/OpenSans-Regular.css">
+    <link rel="Stylesheet" type="text/css" href="http://www.duvalschools.org/Static/V2_12_01/GlobalAssets/webfonts/OpenSans-SemiBold.css">
+    <link rel="Stylesheet" type="text/css" href="http://www.duvalschools.org/Static/V2_12_01/App_Themes/SW/jquery.jgrowl.css">
+    <link rel="Stylesheet" type="text/css" href="http://www.duvalschools.org/Static/V2_12_01//site/assets/styles/system.css">
+    <link rel="Stylesheet" type="text/css" href="http://www.duvalschools.org/Static/V2_12_01//site/assets/styles/apps.css">
+    <link rel="Stylesheet" type="text/css" href="http://www.duvalschools.org/Static/V2_12_01/App_Themes/SW/jQueryUI.css">
+    <link rel="Stylesheet" type="text/css" href="http://www.duvalschools.org/Static/V2_12_01/GlobalAssets/webfonts/SchoolwiresMobile.css">
+
     <!-- Scripts -->
     
 
     <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js" type="text/javascript"></script>
-    <script src="http://www.duvalschools.org/Static/V2_10_01/GlobalAssets/Scripts/min/jquery-migrate-1.2.1.js" type="text/javascript"></script>
+    <script src="http://www.duvalschools.org/Static/V2_12_01/GlobalAssets/Scripts/min/jquery-migrate-1.2.1.js" type="text/javascript"></script>
 
     <script src="http://ajax.googleapis.com/ajax/libs/swfobject/2.2/swfobject.js" type="text/javascript"></script>
 
     
 
-   <!--  -->
-    
-<script type="text/javascript">
+    <!--  -->
+
+    <script type="text/javascript">
     $(document).ready(function() {
-        SetCookie('SWScreenWidth', screen.width);
-        SetCookie('SWClientWidth', document.body.clientWidth);
+            SetCookie('SWScreenWidth', screen.width);
+            SetCookie('SWClientWidth', document.body.clientWidth);
 
-        //If small browser window and responsive template and first load, reload to get the off-canvas menu
-        var isResponsiveTemplatePreInit = 'False';
-        var isResponsive = 'False';
+            //If small browser window and responsive template and first load, reload to get the off-canvas menu
+            var isResponsiveTemplatePreInit = 'False';
+            var isResponsive = 'False';
 
-        if (isResponsiveTemplatePreInit == 'False' && isResponsive == 'True' && document.body.clientWidth < 1024) {
-            window.location.reload(true);
-        } 
+            if (isResponsiveTemplatePreInit == 'False' && isResponsive == 'True' && document.body.clientWidth < 1024) {
+                window.location.reload(true);
+            }
 
-        $("div.ui-article:last").addClass("last-article");
-        $("div.region .app:last").addClass("last-app");
-    });
+            $("div.ui-article:last").addClass("last-article");
+            $("div.region .app:last").addClass("last-app");
+
+            // get on screen alerts
+            var isAnyActiveOSA = 'False';
+            var onscreenAlertCookie = GetCookie('Alerts');
+
+            if (onscreenAlertCookie == '' || onscreenAlertCookie == undefined) {
+                onscreenAlertCookie = "";
+            }
+            if (isAnyActiveOSA == 'True') {
+            GetContent(homeURL + "/cms/Tools/OnScreenAlerts/UserControls/OnScreenAlertDialogListWrapper.aspx?OnScreenAlertCookie=" + onscreenAlertCookie + "&SiteID=4", "onscreenalert-holder", 2, "OnScreenAlertCheckListItem();");
+            }
+        });
 
     // ADA SKIP NAV
     $(document).ready(function() {
@@ -76,18 +91,18 @@
     // ADA MYSTART
     $(document).ready(function () {
         var top_level_nav = $('.sw-mystart-nav');
- 
+
         // Set tabIndex to -1 so that top_level_links can't receive focus until menu is open
         // school dropdown
         $(top_level_nav).find('ul').find('a').attr('tabIndex', -1);
 
         // my account dropdown
         $(top_level_nav).next('ul').find('a').attr('tabIndex', -1);
- 
+
         $(top_level_nav).focus(function() {
             // hide open menus
             hideMyStartBarMenu();
- 
+
             // show school dropdown
             if ($(this).find('ul').length > 0) {
                 $(this).find('.sw-dropdown').css('display', 'block').attr('aria-hidden', 'false');
@@ -99,7 +114,7 @@
                 $('#sw-mystart-account').addClass("clicked-state");
             }
         });
- 
+
         // Bind arrow keys for navigation
         $(top_level_nav).keydown(function(e) {
             if (e.keyCode == 37) { //key left
@@ -161,7 +176,7 @@
                 });
             }
         });
-       
+
         // school dropdown
         var startbarlinks = $(top_level_nav).find('ul').find('a');
         bindMyStartBarLinks(startbarlinks);
@@ -169,7 +184,7 @@
         // my account dropdown
         var myaccountlinks = $(top_level_nav).next('ul').find('a');
         bindMyStartBarLinks(myaccountlinks);
- 
+
         function bindMyStartBarLinks(links) {
             $(links).keydown(function(e) {
                 e.stopPropagation();
@@ -189,7 +204,7 @@
                     }
                 } else if (e.keyCode == 40) { //key down
                     e.preventDefault();
-                    
+
                     if ($(this).parent('li').next('li').length == 0) {
                         if ($(this).parents('ul').parents('.sw-mystart-nav').length > 0) {
                             $(this).parents('ul').parents('.sw-mystart-nav').focus();
@@ -216,7 +231,7 @@
                             return false;
                         }
                     });
-                   
+
                     if (!found) {
                         $(this).parent('div').prevAll('li').find('a').each(function() {
                             if ($(this).text().substring(0, 1).toLowerCase() == keyCodeMap[e.keyCode]) {
@@ -228,7 +243,7 @@
                 }
             });
         }
- 
+
         // Hide menu if click or focus occurs outside of navigation
         $('#sw-mystart-inner').find('.sw-mystart-nav').last().keydown(function(e) { 
             if (e.keyCode == 9) {
@@ -245,7 +260,7 @@
         $('.sw-mystart-button').find('a').focus(function() {
             hideMyStartBarMenu();
         });
-       
+
         $('#sw-mystart-inner').click(function(e) {
             e.stopPropagation();
         });
@@ -345,9 +360,9 @@
         };
 
         // Add ARIA role to menubar and menu items
-        $('#channel-navigation').attr('role', 'menubar').find('li').attr('role', 'menuitem');
+        $('[id="channel-navigation"]').attr('role', 'menubar').find('li').attr('role', 'menuitem');
 
-        var top_level_links = $('#channel-navigation').find('> li > a');
+        var top_level_links = $('[id="channel-navigation"]').find('> li > a');
 
         // Set tabIndex to -1 so that top_level_links can't receive focus until menu is open
         $(top_level_links).next('ul').attr({ 'aria-hidden': 'true', 'role': 'menu' }).find('a').attr('tabIndex', -1);
@@ -476,14 +491,14 @@
         }
 
         // Hide menu if click or focus occurs outside of navigation
-        $('#channel-navigation').find('a').last().keydown(function(e) {
+        $('[id="channel-navigation"]').find('a').last().keydown(function (e) {
             if (e.keyCode == 9) {
                 // If the user tabs out of the navigation hide all menus
                 hideChannelMenu();
             }
         });
 
-        $('#channel-navigation').find('a').first().keydown(function(e) {
+        $('[id="channel-navigation"]').find('a').first().keydown(function (e) {
             if (e.keyCode == 9) {
                 // hide open MyStart Bar menus
                 hideMyStartBarMenu();
@@ -494,15 +509,15 @@
             hideChannelMenu();
         });*/
 
-        $('#channel-navigation').click(function(e) {
+        $('[id="channel-navigation"]').click(function (e) {
             e.stopPropagation();
         });
     });
     </script>
-    
+
     <!-- Page -->
     
-    <style type="text/css">/* MedaiBegin Standard */                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
+    <style type="text/css">/* MedaiBegin Standard */                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            
 @font-face {
 	font-family: 'duval-font';
 	src:url(/cms/lib07/fl01903657/centricity/template/11/fonts/duval-font.eot);
@@ -1046,6 +1061,9 @@ body {
 	display: block;
 	float: left;
 	padding: 0px 5px 0px 0px;
+}
+.gb-footer-social-icon.planeths {
+	margin-left: 5px;
 }
 .gb-footer-social-icon.last {
 	padding: 0px;
@@ -2055,6 +2073,13 @@ h6 {
 .subtitle {
 	font-style:italic;
 }
+.Verdana {
+	font-family: Verdana;
+	font-size: 10pt;
+}
+
+ /* Added by Dylan 9/10/15 Case #00126112 */
+
    
 /* GroupEnd */
 /* GroupBegin Schoolwires Footer */ 
@@ -2113,7 +2138,10 @@ h6 {
                 
                 
                 
-                /* MediaEnd *//* MediaBegin 768+ */ @media (max-width: 1023px) {                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
+                
+                
+                
+                /* MediaEnd *//* MediaBegin 768+ */ @media (max-width: 1023px) {                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
 /* GroupBegin Global */
 #gb-disclaimer{
 	float: left;
@@ -2192,6 +2220,13 @@ h6 {
 }
 .gb-footer-social-icon.instagram {
 	padding: 5px 0px 0px;
+}
+.gb-footer-social-icon.planeths {
+	margin: 10px 0px 0px 0px;
+	clear: both;
+	position: relative;
+	display: block;
+	left: -15px;
 }
 .footer-copyright {
 	padding: 10px 0px 0px;
@@ -2445,7 +2480,10 @@ h6 {
                 
                 
                 
-                } /* MediaEnd *//* MediaBegin 640+ */ @media (max-width: 767px) {                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+                
+                
+                
+                } /* MediaEnd *//* MediaBegin 640+ */ @media (max-width: 767px) {                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
 /* GroupBegin Global */
 .show640 {
 	display: block;
@@ -2642,7 +2680,10 @@ input.ui-txt-general.medium, textarea.ui-txt-general.medium, input.ui-txt-headin
                 
                 
                 
-                } /* MediaEnd *//* MediaBegin 480+ */ @media (max-width: 639px) {                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         
+                
+                
+                
+                } /* MediaEnd *//* MediaBegin 480+ */ @media (max-width: 639px) {                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     
 /* GroupBegin Global */
 .show480 {
 	display: block;
@@ -2706,6 +2747,11 @@ input.ui-txt-general.medium, textarea.ui-txt-general.medium, input.ui-txt-headin
 }
 .gb-footer-social-icon.instagram {
 	padding: 0px;
+}
+.gb-footer-social-icon.planeths {
+	left: 0px;
+	width: auto;
+	height: auto;
 }
 /* GroupEnd */
 
@@ -2933,7 +2979,10 @@ span.ui-toggle {
                  
                  
                  
-                } /* MediaEnd *//* MediaBegin 320+ */ @media (max-width: 479px) {                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+                 
+                 
+                 
+                } /* MediaEnd *//* MediaBegin 320+ */ @media (max-width: 479px) {                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
 /* GroupBegin Global */
 .show320 {
 	display: block;
@@ -3027,6 +3076,9 @@ span.ui-toggle {
                 
                 
                 
+                
+                
+                
                 } /* MediaEnd */</style>
     <script type="text/javascript">
                 $(document).ready(function(){
@@ -3094,7 +3146,7 @@ $.each(toHide, function(k, v){
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
 <meta name="format-detection" content="telephone=no">
-
+<link rel="stylesheet" type="text/css" href="//extend.schoolwires.com/creative/css/creative-default.css">
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
@@ -3143,6 +3195,15 @@ $.each(toHide, function(k, v){
 	
 		$(window).bind("resize", function(){ pgScreenSize(); });
 		
+		// GATHER POPULAR LINKS
+		var globalIcons = "";
+		$(".gb-global-icon").each(function() {
+			if(!$(this).hasClass("hidden")) {
+				globalIcons += '1, ' + $(".text", this).text() + ', ' + $(this).attr("href") + ', _self;';
+			}
+		});
+		var globalIconsHeader = (globalIcons != "") ? "Popular Links" : "";
+		
 		// RESPONSIVE MENU
 		$("#gb-channel-list-outer").creativeResponsiveMenu({
 			"breakPoint"		: 767, // SYSTEM BREAK POINTS - 1023, 767, 639, 479
@@ -3167,8 +3228,8 @@ $.each(toHide, function(k, v){
 			"showTranslate"		: "yes",
 			"translateId"           : "none",
 			"extraAccountItems"	: [], // ARRAY OF BUTTON IDS OR CLASSES
-			"extraMenuOptions"	: "Popular Links", // EXTRA MENU HEADING NAMES SEPARATED BY A ;
-			"extraMenuItems"	: '1, Calendar, /Page/2, _self; 1, Directory, /directory, _self; 1, School Location Map, /locations, _self; 1, E-News, /e-news, _self; 1, Careers, /careers, _self; 1, Webmail, /webmail, _self; 1, Grade Portal, /grade-portal, _self; 1, OnCourse for Teachers, /oncourse, _self;', // EXTRA MENU BUTTONS - STRUCTURE IS: MENU-OPTION-NUMBER, ITEM-NAME, ITEM-URL, ITEM-TARGET;
+			"extraMenuOptions"	: globalIconsHeader, // EXTRA MENU HEADING NAMES SEPARATED BY A ;
+			"extraMenuItems"	: globalIcons, // EXTRA MENU BUTTONS - STRUCTURE IS: MENU-OPTION-NUMBER, ITEM-NAME, ITEM-URL, ITEM-TARGET;
 			"siteID"		: "4"
 		});
 		
@@ -3771,70 +3832,70 @@ $.each(toHide, function(k, v){
 	if(navigator.userAgent.indexOf("MSIE 9") > -1){	isMSIE9 = 1; }
 	if(navigator.userAgent.indexOf("MSIE 10") > -1){ isMSIE10 = 1; }
 </script>
-    
+
     <!-- App Preview -->
     
-	
-	
-	<style type="text/css">
-		/* HOMEPAGE EDIT THUMBNAIL STYLES */
-		
-		div.region {
+
+
+    <style type="text/css">
+        /* HOMEPAGE EDIT THUMBNAIL STYLES */
+
+        div.region {
 		    
-		}
-		
-		div.region span.homepage-thumb-region-number {
-		    font: bold 100px verdana;
-		    color: #fff;  
-		}
-		
-		div.homepage-thumb-region {
-		    background: #264867; /*dark blue*/
-		    border: 5px solid #fff;
-		    text-align: center;
-		    padding: 40px 0 40px 0;
-		    display: block;
-		}
-		div.homepage-thumb-region.region-1 {
-		    background: #264867; /*dark blue*/
-		}
-		div.homepage-thumb-region.region-2 {
-		    background: #5C1700; /*dark red*/
-		}
-		div.homepage-thumb-region.region-3 {
-		    background: #335905; /*dark green*/
-		}
-		div.homepage-thumb-region.region-4 {
-		    background: #B45014; /*dark orange*/
-		}
-		div.homepage-thumb-region.region-5 {
-		    background: #51445F; /*dark purple*/
-		}
-		div.homepage-thumb-region.region-6 {
-		    background: #3B70A0; /*lighter blue*/
-		}
-		div.homepage-thumb-region.region-7 {
-		    background: #862200; /*lighter red*/
-		}
-		div.homepage-thumb-region.region-8 {
-		    background: #417206; /*lighter green*/
-		}
-		div.homepage-thumb-region.region-9 {
-		    background: #D36929; /*lighter orange*/
-		}
-		div.homepage-thumb-region.region-10 {
-		    background: #6E5C80; /*lighter purple*/
-		}
-		
-		/* END HOMEPAGE EDIT THUMBNAIL STYLES */
-	</style>
-	
-	<style type="text/css" media="print">
-       .noprint {
-           display: none !important;
-       }
+        }
+
+            div.region span.homepage-thumb-region-number {
+                font: bold 100px verdana;
+                color: #fff;
+            }
+
+        div.homepage-thumb-region {
+            background: #264867; /*dark blue*/
+            border: 5px solid #fff;
+            text-align: center;
+            padding: 40px 0 40px 0;
+            display: block;
+        }
+            div.homepage-thumb-region.region-1 {
+                background: #264867; /*dark blue*/
+            }
+            div.homepage-thumb-region.region-2 {
+                background: #5C1700; /*dark red*/
+            }
+            div.homepage-thumb-region.region-3 {
+                background: #335905; /*dark green*/
+            }
+            div.homepage-thumb-region.region-4 {
+                background: #B45014; /*dark orange*/
+            }
+            div.homepage-thumb-region.region-5 {
+                background: #51445F; /*dark purple*/
+            }
+            div.homepage-thumb-region.region-6 {
+                background: #3B70A0; /*lighter blue*/
+            }
+            div.homepage-thumb-region.region-7 {
+                background: #862200; /*lighter red*/
+            }
+            div.homepage-thumb-region.region-8 {
+                background: #417206; /*lighter green*/
+            }
+            div.homepage-thumb-region.region-9 {
+                background: #D36929; /*lighter orange*/
+            }
+            div.homepage-thumb-region.region-10 {
+                background: #6E5C80; /*lighter purple*/
+            }
+
+        /* END HOMEPAGE EDIT THUMBNAIL STYLES */
     </style>
-    
+
+    <style type="text/css" media="print">
+        .noprint {
+            display: none !important;
+        }
+    </style>
+
     
 
 <!-- Begin Schoolwires Traffic Code --> 
@@ -3864,8 +3925,8 @@ $.each(toHide, function(k, v){
 
 </script>
 
-<!-- End Schoolwires Traffic Code -->  
- 
+<!-- End Schoolwires Traffic Code --> 
+
     
 </head>
 <body>
@@ -3875,15 +3936,15 @@ $.each(toHide, function(k, v){
         <a href="#sw-maincontent" id="skipLink" class="sw-skipnav">Skip to Main Content</a>
     </div>
 
-<!-- off-canvas menu enabled-->
+    <!-- off-canvas menu enabled-->
+    
 
-
-	
+    
 
 <style type="text/css">
 	/* SPECIAL MODE BAR */
 	div.sw-special-mode-bar {
-		background: #FBC243 url('http://www.duvalschools.org/Static/V2_10_01//GlobalAssets/Images/special-mode-bar-background.png') no-repeat;
+		background: #FBC243 url('http://www.duvalschools.org/Static/V2_12_01//GlobalAssets/Images/special-mode-bar-background.png') no-repeat;
 		height: 30px;
 		text-align: left;
 		font-size: 12px;
@@ -3996,8 +4057,8 @@ $.each(toHide, function(k, v){
 <li><a href="/Domain/147">Frank Peterson Academies</a></li>
 <li><a href="/Domain/38">Garden City Elementary</a></li>
 <li><a href="/Domain/77">George W. Carver Elementary</a></li>
-<li><a href="/Domain/15">Grand Park Career Center</a></li>
-<li><a href="/Domain/6492">GRASP Choice Academy</a></li>
+<li><a href="/Domain/15">Grand Park Education Center</a></li>
+<li><a href="/Domain/6492">GRASP Academy</a></li>
 <li><a href="/Domain/99">Greenfield Elementary</a></li>
 <li><a href="/Domain/119">Greenland Pines Elementary</a></li>
 <li><a href="/Domain/115">Gregory Drive Elementary</a></li>
@@ -4023,10 +4084,9 @@ $.each(toHide, function(k, v){
 <li><a href="/Domain/118">Joseph Finegan Elementary</a></li>
 <li><a href="/Domain/164">Joseph Stilwell Military Academy of Leadership</a></li>
 <li><a href="/Domain/149">Julia Landon College Preparatory</a></li>
-<li><a href="/Domain/94">Justina Road Elementary</a></li>
 <li><a href="/Domain/172">Kernan Middle School</a></li>
 <li><a href="/Domain/106">Kernan Trail Elementary</a></li>
-<li><a href="/Domain/88">Kings Trail Elementary</a></li>
+<li><a href="/Domain/88">A Leadership Academy School</a></li>
 <li><a href="/Domain/148">Kirby-Smith Middle School</a></li>
 <li><a href="/Domain/46">Lake Forest Elementary</a></li>
 <li><a href="/Domain/55">Lake Lucina Elementary</a></li>
@@ -4053,7 +4113,7 @@ $.each(toHide, function(k, v){
 <li><a href="/Domain/117">Neptune Beach Elementary</a></li>
 <li><a href="/Domain/76">New Berlin Elementary</a></li>
 <li><a href="/Domain/98">Normandy Village Elementary</a></li>
-<li><a href="/Domain/42">North Shore Elementary: Academy of Science, Math, &amp; Technology</a></li>
+<li><a href="/Domain/42">North Shore Elementary: Academic Enrichment through Science and Technology</a></li>
 <li><a href="/Domain/158">Northwestern Middle</a></li>
 <li><a href="/Domain/92">Oak Hill Elementary</a></li>
 <li><a href="/Domain/129">Oceanway Elementary</a></li>
@@ -4131,7 +4191,7 @@ window.location.href="http://www.duvalschools.org/site/Default.aspx?PageType=6&S
 }
 </script>
 <input id="sw-search-input" type="text" title="Type the word to search for and click Search." placeholder="Search this Site...">
-<a tabindex="0" id="sw-search-button" onclick="SWGoToSearchResultsPageswsearchinput();"><span><img src="http://www.duvalschools.org/Static/V2_10_01//globalassets/images/sw-mystart-search.png" alt="Search"></span></a>
+<a tabindex="0" id="sw-search-button" onclick="SWGoToSearchResultsPageswsearchinput();"><span><img src="http://www.duvalschools.org/Static/V2_12_01//globalassets/images/sw-mystart-search.png" alt="Search"></span></a>
 </div>
 <div class="clear"></div>
 </div>
@@ -4142,36 +4202,36 @@ window.location.href="http://www.duvalschools.org/site/Default.aspx?PageType=6&S
 	<div id="gb-global-icons-outer" class="closed hide320 noprint">
 		<div id="gb-global-icons" class="ui-clear">
 			<a href="/Page/2" class="gb-global-icon first ui-clear">
-				<span class="icon"><img src="/cms/lib07/FL01903657/Centricity/Template/GlobalAssets/images///global-icons/calendar.png"></span>
+				<span class="icon"><img src="/cms/lib07/FL01903657/Centricity/Template/11/icons/calendar.png" width="45" height="38" alt="icon1"></span>
 				<span class="text">Calendar</span>
 			</a>
-			<a href="/directory" class="gb-global-icon ui-clear hidden">
-				<span class="icon"><img src="/cms/lib07/FL01903657/Centricity/Template/GlobalAssets/images///global-icons/directory.png"></span>
+			<a href="/popular-link-2" class="gb-global-icon ui-clear hidden">
+				<span class="icon"><img src="/cms/lib07/FL01903657/Centricity/Template/11/icons/directory.png" width="42" height="38" alt="icon2"></span>
 				<span class="text">Directory</span>
 			</a>
-			<a href="/locations" class="gb-global-icon ui-clear">
-				<span class="icon"><img src="/cms/lib07/FL01903657/Centricity/Template/GlobalAssets/images///global-icons/location.png"></span>
+			<a href="/popular-link-3" class="gb-global-icon ui-clear">
+				<span class="icon"><img src="/cms/lib07/FL01903657/Centricity/Template/11/icons/location.png" width="72" height="45" alt="icon3"></span>
 				<span class="text">School Location Map</span>
 			</a>
-			<a href="/e-news" class="gb-global-icon ui-clear">
-				<span class="icon"><img src="/cms/lib07/FL01903657/Centricity/Template/GlobalAssets/images///global-icons/news.png"></span>
-				<span class="text">E-News</span>
-			</a>
-			<a href="/careers" class="gb-global-icon ui-clear">
-				<span class="icon"><img src="/cms/lib07/FL01903657/Centricity/Template/GlobalAssets/images///global-icons/careers.png"></span>
+			<a href="/popular-link-4" class="gb-global-icon ui-clear">
+				<span class="icon"><img src="/cms/lib07/FL01903657/Centricity/Template/11/icons/careers.png" width="44" height="37" alt="icon4"></span>
 				<span class="text">Careers</span>
 			</a>
-			<a href="/webmail" class="gb-global-icon ui-clear">
-				<span class="icon"><img src="/cms/lib07/FL01903657/Centricity/Template/GlobalAssets/images///global-icons/mail.png"></span>
+			<a href="/popular-link-5" class="gb-global-icon ui-clear">
+				<span class="icon"><img src="/cms/lib07/FL01903657/Centricity/Template/11/icons/mail.png" width="45" height="41" alt="icon5"></span>
 				<span class="text">Webmail</span>
 			</a>
-			<a href="/grade-portal" class="gb-global-icon ui-clear">
-				<span class="icon"><img src="/cms/lib07/FL01903657/Centricity/Template/GlobalAssets/images///global-icons/grades.png"></span>
-				<span class="text">Grade Portal</span>
+			<a href="/popular-link-6" class="gb-global-icon ui-clear">
+				<span class="icon"><img src="/cms/lib07/FL01903657/Centricity/Template/11/icons/lunch.png" width="46" height="46" alt="icon6"></span>
+				<span class="text">Menus</span>
 			</a>
-			<a href="/oncourse" class="gb-global-icon last ui-clear">
-				<span class="icon"><img src="/cms/lib07/FL01903657/Centricity/Template/GlobalAssets/images///global-icons/oncourse.png"></span>
-				<span class="text">OnCourse for Teachers</span>
+			<a href="/popular-link-7" class="gb-global-icon ui-clear">
+				<span class="icon"><img src="/cms/lib07/FL01903657/Centricity/Template/11/icons/laptop.png" width="49" height="49" alt="icon7"></span>
+				<span class="text">Blended Learning</span>
+			</a>
+			<a href="/popular-link-8" class="gb-global-icon ui-clear">
+				<span class="icon"><img src="/cms/lib07/FL01903657/Centricity/Template/11/icons/focus_owl_icon.png" width="37" height="37" alt="icon8"></span>
+				<span class="text">Focus</span>
 			</a>
 		</div>
 	</div>
@@ -4222,36 +4282,40 @@ window.location.href="http://www.duvalschools.org/site/Default.aspx?PageType=6&S
 <ul class="sw-channel-dropdown">
 <li class=""><a href="/domain/5268"><span>Our District</span></a></li>
 <li class=""><a href="http://dcps.duvalschools.org//Domain/4440"><span>Board</span></a></li>
-<li class=""><a href="/domain/5270"><span>Superintendent</span></a></li>
-<li class=""><a href="/domain/5438"><span>Strategic Plan</span></a></li>
-<li class=""><a href="/domain/6493"><span>Quality Education For All</span></a></li>
 <li class=""><a href="/domain/5272"><span>Discover Duval</span></a></li>
-<li class=""><a href="/domain/5273"><span>FAQ'S</span></a></li>
-<li class=""><a href="/domain/5665"><span>Upcoming Events</span></a></li>
 <li class=""><a href="http://dcps.duvalschools.org/Page/2"><span>District Calendar</span></a></li>
+<li class=""><a href="/domain/5273"><span>FAQ'S</span></a></li>
+<li class=""><a href="/domain/6493"><span>Quality Education For All</span></a></li>
+<li class=""><a href="/domain/5438"><span>Strategic Plan</span></a></li>
+<li class=""><a href="/domain/5270"><span>Superintendent</span></a></li>
+<li class=""><a href="/domain/5665"><span>Upcoming Events</span></a></li>
 </ul>
 </li><li class="sw-channel-item ">
-<a href="/domain/5440">
+<a href="/domain/7993">
 <span>Schools</span></a>
 <ul class="sw-channel-dropdown">
-<li class=""><a href="/domain/5440"><span>Registration &amp; Enrollment</span></a></li>
-<li class=""><a href="/domain/5274"><span>School Locator</span></a></li>
-<li class=""><a href="/domain/5277"><span>Regions &amp; Feeder Patterns</span></a></li>
-<li class=""><a href="http://www.duvalschools.org/Page/9209"><span>Bus Routes and Times</span></a></li>
-<li class=""><a href="/domain/5275"><span>Hours &amp; Schedules</span></a></li>
-<li class=""><a href="/domain/5437"><span>Safety, Discipline &amp; Policies</span></a></li>
-<li class=""><a href="/domain/5278"><span>Magnet Programs</span></a></li>
+<li class=""><a href="/domain/7993"><span>Information</span></a></li>
+<li class=""><a href="/domain/8498"><span>2015 – 2016 Boundary Proposals</span></a></li>
 <li class=""><a href="/domain/5452"><span>Bridge to Success</span></a></li>
+<li class=""><a href="http://www.duvalschools.org/Page/9209"><span>Bus Routes and Times</span></a></li>
 <li class=""><a href="/domain/5451"><span>Charter Schools</span></a></li>
-<li class=""><a href="http://www.duvalschools.org//Domain/5552"><span>School Improvement</span></a></li>
+<li class=""><a href="http://dcps.duvalschools.org/site/default.aspx?PageID=2"><span>District Calendar</span></a></li>
+<li class=""><a href="/domain/5275"><span>Hours &amp; Schedules</span></a></li>
+<li class=""><a href="/domain/5278"><span>Magnet Programs</span></a></li>
+<li class=""><a href="/domain/5440"><span>Registration &amp; Enrollment</span></a></li>
+<li class=""><a href="/domain/5437"><span>Safety, Discipline &amp; Policies</span></a></li>
 <li class=""><a href="/domain/5682"><span>School Grades &amp; Reports</span></a></li>
+<li class=""><a href="http://www.duvalschools.org//Domain/5552"><span>School Improvement</span></a></li>
+<li class=""><a href="/domain/5274"><span>School Locator</span></a></li>
 </ul>
 </li><li class="sw-channel-item ">
 <a href="/domain/5442">
 <span>Students</span></a>
 <ul class="sw-channel-dropdown">
-<li class=""><a href="/domain/5442"><span>Student Information</span></a></li>
+<li class=""><a href="/domain/5442"><span>Information</span></a></li>
 <li class=""><a href="/domain/5450"><span>Assessment Information for Parents &amp; Students</span></a></li>
+<li class=""><a href="http://dcps.duvalschools.org/site/default.aspx?PageID=2"><span>District Calendar</span></a></li>
+<li class=""><a href="/domain/8234"><span>Food Truck Project</span></a></li>
 <li class=""><a href="http://dcps.duvalschools.org/Page/9843"><span>Future Students</span></a></li>
 <li class=""><a href="/domain/5448"><span>Graduation Options</span></a></li>
 <li class=""><a href="/domain/5447"><span>Homework Help</span></a></li>
@@ -4265,16 +4329,18 @@ window.location.href="http://www.duvalschools.org/site/Default.aspx?PageType=6&S
 <a href="/domain/5457">
 <span>Parents</span></a>
 <ul class="sw-channel-dropdown">
-<li class=""><a href="/domain/5457"><span>Resources</span></a></li>
+<li class=""><a href="/domain/5457"><span>Information</span></a></li>
+<li class=""><a href="http://dcps.duvalschools.org/Page/17654"><span>Curriculum Guides</span></a></li>
+<li class=""><a href="http://dcps.duvalschools.org/Page/13837"><span>District Advisory Council (DAC)</span></a></li>
+<li class=""><a href="http://dcps.duvalschools.org/site/default.aspx?PageID=2"><span>District Calendar</span></a></li>
 <li class=""><a href="http://dcps.duvalschools.org/Page/15067"><span>FSA Info</span></a></li>
-<li class=""><a href="/domain/5453"><span>Report Card Dates</span></a></li>
-<li class=""><a href="/site/Default.aspx?PageID=9193"><span>Transportation</span></a></li>
-<li class=""><a href="/domain/5454"><span>Student Holidays</span></a></li>
-<li class=""><a href="/site/Default.aspx?PageID=9860"><span>School Menus</span></a></li>
 <li class=""><a href="http://dcps.duvalschools.org/Page/7398"><span>Parent Academy</span></a></li>
 <li class=""><a href="/domain/5289"><span>PTA/PTSA</span></a></li>
-<li class=""><a href="http://dcps.duvalschools.org/Page/13837"><span>District Advisory Council (DAC)</span></a></li>
+<li class=""><a href="/domain/5453"><span>Report Card Dates</span></a></li>
+<li class=""><a href="http://dcps.duvalschools.org/Page/12095"><span>School Menus</span></a></li>
+<li class=""><a href="/domain/5454"><span>Student Holidays</span></a></li>
 <li class=""><a href="/domain/6455"><span>Supply List</span></a></li>
+<li class=""><a href="/site/Default.aspx?PageID=9193"><span>Transportation</span></a></li>
 <li class=""><a href="/site/Default.aspx?PageID=7416"><span>Volunteer</span></a></li>
 </ul>
 </li><li class="sw-channel-item active">
@@ -4291,10 +4357,9 @@ window.location.href="http://www.duvalschools.org/site/Default.aspx?PageType=6&S
 <span>Contact Us</span></a>
 <ul class="sw-channel-dropdown">
 <li class=""><a href="/domain/5706"><span>Department Directory</span></a></li>
-<li class=""><a href="/domain/3171"><span>Staff Directory</span></a></li>
-<li class=""><a href="/domain/183"><span>Staff Resource Links</span></a></li>
 <li class=""><a href="/domain/5456"><span>District Lists</span></a></li>
 <li class=""><a href="/site/Default.aspx?PageID=9318"><span>ESE Solution Center</span></a></li>
+<li class=""><a href="/domain/3171"><span>Staff Directory</span></a></li>
 </ul>
 </li></ul><div class="clear"></div>
 </div>
@@ -4389,7 +4454,12 @@ Legal Services</h1>
 <ul class="page-navigation">
 <li id="pagenavigation-9232" class="">
 <a href="/Page/9232">
-<span>Office of Legal Sevices</span>
+<span>Office of Legal Sevices </span>
+</a>
+</li>
+<li id="pagenavigation-16178" class="">
+<a href="/Page/16178">
+<span>Legal Services Staff</span>
 </a>
 </li>
 <li id="pagenavigation-13991" class="">
@@ -4397,14 +4467,24 @@ Legal Services</h1>
 <span>Contract Request Forms</span>
 </a>
 </li>
+<li id="pagenavigation-16203" class="">
+<a href="/Page/16203">
+<span>Frequently Asked Questions</span>
+</a>
+</li>
 <li id="pagenavigation-9550" class="">
 <a href="/Page/9550">
-<span>Professional Development</span>
+<span>Professional Development - Webinars</span>
 </a>
 </li>
 <li id="pagenavigation-11643" class="">
 <a href="/Page/11643">
 <span>Resources</span>
+</a>
+</li>
+<li id="pagenavigation-18193" class="">
+<a href="/Page/18193">
+<span>Surveys</span>
 </a>
 </li></ul>
 </div>
@@ -4950,13 +5030,14 @@ function LoadTaggedData(container, MIID, PMI, tag) {
 						<a href="/flickr" class="gb-footer-social-icon flickr"><img src="/cms/lib07/fl01903657/centricity/template/11/social-icons/flickr.png"></a>
 						<a href="/linkedin" class="gb-footer-social-icon linkedin"><img src="/cms/lib07/fl01903657/centricity/template/11/social-icons/linkedin.png"></a>
 						<a href="/instagram" class="gb-footer-social-icon instagram last"><img src="/cms/lib07/fl01903657/centricity/template/11/social-icons/instagram.png"></a>
+						<a href="/planetHS" class="gb-footer-social-icon planeths last"><img src="/cms/lib07/FL01903657/Centricity/template/11/icons/phsBar-logo.png" alt="planetHS"></a>
 					</div>
 				</div>
 				<!--<div class="gb-footer-translate three hide768 ui-clear"></div>-->
 			</div>
 			
 			<div id="gb-disclaimer">
-				<img src="/cms/lib07/FL01903657/Centricity/Template/11/Schoolwires.png" class="gb-schoolwires_logo">
+				<img src="/cms/lib07/FL01903657/Centricity/Template/11/sw_logo_white_small.png" class="gb-schoolwires_logo">
 				<div class="gb-legal-links">
 					DCPS <a href="/Page/12627">Legal</a>/<a href="/Page/12628">Privacy</a><br>
 					Schoolwires <a href="/Page/12666">Legal</a>/<a href="/Page/12667">Privacy</a>
@@ -4972,13 +5053,13 @@ function LoadTaggedData(container, MIID, PMI, tag) {
 <div id="sw-footer-links">
 <ul>
 <li><a title="Click to email the primary contact" href="mailto:webmaster@duvalschools.org">Questions or Feedback?</a> | </li>
-<li><a href="http://www.schoolwires.com/privacy" target="_blank">Schoolwires Privacy Policy (Updated)</a> | </li>
+<li><a href="http://www.schoolwires.com/privacy" target="_blank">Blackboard Schoolwires Privacy Policy (Updated)</a> | </li>
 <li><a href="http://www.schoolwires.com/terms" target="_blank">Terms of Use</a></li>
 </ul>
 </div>
-<div id="sw-footer-copyright">Copyright © 2002-2015 Schoolwires, Inc. All rights reserved.</div>
-<div id="sw-footer-logo"><a href="http://www.schoolwires.com" title="This site is powered by Schoolwires Centricity2.">
-<img src="http://www.duvalschools.org/Static/V2_10_01//GlobalAssets/Images/sw-footer-logo.png" alt="Powered by Schoolwires Centricity2 logo">
+<div id="sw-footer-copyright">Copyright © 2002-2015 Blackboard, Inc. All rights reserved.</div>
+<div id="sw-footer-logo"><a href="http://www.schoolwires.com" title="This site is powered by Schoolwires.">
+<img src="http://www.duvalschools.org/Static/V2_12_01//GlobalAssets/Images/sw-footer-logo.png" alt="Powered by Schoolwires logo">
 </a></div>
 </div>
 </div>
@@ -4986,7 +5067,7 @@ function LoadTaggedData(container, MIID, PMI, tag) {
 <!-- END - STANDARD FOOTER -->
 <script type="text/javascript">
    $(document).ready(function(){
-      var beaconURL='http://analytics.schoolwires.com/analytics.asmx/Insert?AccountNumber=wpsGdHJhXUyhn%2fjPK6qXmQ%3d%3d&SessionID=d19a5ce2-b56a-4dfa-9d55-b040ffa5bb92&SiteID=4&ChannelID=4378&SectionID=4384&PageID=12667&HitDate=6%2f12%2f2015+5%3a05%3a15+AM&Browser=Unknown+0.0&OS=Unknown&IPAddress=204.236.226.210';
+      var beaconURL='http://analytics.schoolwires.com/analytics.asmx/Insert?AccountNumber=wpsGdHJhXUyhn%2fjPK6qXmQ%3d%3d&SessionID=9db3c882-ac6e-4aaf-98c0-7140361b74fa&SiteID=4&ChannelID=4378&SectionID=4384&PageID=12667&HitDate=12%2f12%2f2015+1%3a58%3a35+PM&Browser=Unknown+0.0&OS=Unknown&IPAddress=204.236.226.210';
       try {
          $.getJSON(beaconURL + '&jsonp=?', function(myData) {});
       } catch(err) { 
@@ -4994,11 +5075,11 @@ function LoadTaggedData(container, MIID, PMI, tag) {
       }
    });
 </script>
-  
-    <input type="hidden" id="hid-pageid" value="12667">  
- 
+
+    <input type="hidden" id="hid-pageid" value="12667">
 
 
+    
 
 <div id="dialog-overlay-WindowMedium-base" class="ui-dialog-overlay-base"><div id="WindowMedium" class="ui-dialog-overlay medium"><div class="ui-dialog-overlay-close" title="Close." onclick="CloseDialogOverlay(&quot;WindowMedium&quot;);"></div><div class="ui-dialog-overlay-title-bar" id="dialog-overlay-WindowMedium-title-bar"></div><div class="ui-dialog-overlay-body" id="dialog-overlay-WindowMedium-body"></div><div class="ui-dialog-overlay-footer" id="dialog-overlay-WindowMedium-footer"></div></div></div>
 
@@ -5065,7 +5146,7 @@ function LoadTaggedData(container, MIID, PMI, tag) {
     });
 </script>
 
-<div id="dialog-overlay-MyAccountSubscriptionOverlay-base" class="ui-dialog-overlay-base-modal"><div id="MyAccountSubscriptionOverlay" class="ui-dialog-overlay medium"><div class="ui-dialog-overlay-close modal" title="Close." onclick="CloseDialogOverlay(&quot;MyAccountSubscriptionOverlay&quot;);"></div><div class="ui-dialog-overlay-title-bar" id="dialog-overlay-MyAccountSubscriptionOverlay-title-bar"></div><div class="ui-dialog-overlay-body" id="dialog-overlay-MyAccountSubscriptionOverlay-body"></div><div class="ui-dialog-overlay-footer" id="dialog-overlay-MyAccountSubscriptionOverlay-footer"></div></div></div>
+    <div id="dialog-overlay-MyAccountSubscriptionOverlay-base" class="ui-dialog-overlay-base-modal"><div id="MyAccountSubscriptionOverlay" class="ui-dialog-overlay medium"><div class="ui-dialog-overlay-close modal" title="Close." onclick="CloseDialogOverlay(&quot;MyAccountSubscriptionOverlay&quot;);"></div><div class="ui-dialog-overlay-title-bar" id="dialog-overlay-MyAccountSubscriptionOverlay-title-bar"></div><div class="ui-dialog-overlay-body" id="dialog-overlay-MyAccountSubscriptionOverlay-body"></div><div class="ui-dialog-overlay-footer" id="dialog-overlay-MyAccountSubscriptionOverlay-footer"></div></div></div>
 
 <script type="text/javascript">
     $(document).ready(function() {
@@ -5098,83 +5179,83 @@ function LoadTaggedData(container, MIID, PMI, tag) {
     <script type="text/javascript">
 
 		$(document).ready(function() {
-			removeBrokenImages();
-			checkSidebar();
-			RemoveCookie();
-			
+            removeBrokenImages();
+            checkSidebar();
+            RemoveCookie();
+
 			$('.navigation li.collapsible').each(function() {
-			    if ($(this).find('ul').length == 0) {
-			        $(this).removeClass('collapsible');
-			    } 
-			});
-			
-			// find page nav state cookie and add open chevron
-			var arrValues = GetCookie('SWPageNavState').split('~');
+                if ($(this).find('ul').length == 0) {
+                    $(this).removeClass('collapsible');
+                }
+            });
+
+            // find page nav state cookie and add open chevron
+            var arrValues = GetCookie('SWPageNavState').split('~');
 
 			$.each(arrValues, function() {
-				if (this != '') {
-					$('#' + this).addClass('collapsible').prepend("<div class='bullet collapsible' />");
-				}
-			});
+                if (this != '') {
+                    $('#' + this).addClass('collapsible').prepend("<div class='bullet collapsible' />");
+                }
+            });
 
-			// find remaining sub menus and add closed chevron and close menu
+            // find remaining sub menus and add closed chevron and close menu
 			$('.navigation li > ul').each(function() {
-			    var list = $(this);
-			    
-			    if (list.parent().hasClass('active') && !list.parent().hasClass('collapsible')) {
-			        // open sub for currently selected page                    
-			        list.parent().addClass('collapsible').prepend("<div class='bullet collapsible' />");
-			    } else {
-			        if (list.parent().hasClass('collapsible') && !list.siblings('div').hasClass('collapsible')) {
-			            // open sub for page with auto expand
-			            list.siblings('div.expandable').remove();
-			            list.parent().prepend("<div class='bullet collapsible' />");
-			        }
-			    }
+                var list = $(this);
 
-				if (!list.siblings('div').hasClass('collapsible')) {
-				    // keep all closed that aren't already set to open
-					list.parent().addClass('expandable').prepend("<div class='bullet expandable' />");
-					ClosePageSubMenu(list.parent());
-				} else {
-					OpenPageSubMenu(list.parent());
-				}
-			});
-			
-			// remove bullet from hierarchy if no-bullet set
+                if (list.parent().hasClass('active') && !list.parent().hasClass('collapsible')) {
+                    // open sub for currently selected page                    
+                    list.parent().addClass('collapsible').prepend("<div class='bullet collapsible' />");
+                } else {
+                    if (list.parent().hasClass('collapsible') && !list.siblings('div').hasClass('collapsible')) {
+                        // open sub for page with auto expand
+                        list.siblings('div.expandable').remove();
+                        list.parent().prepend("<div class='bullet collapsible' />");
+                    }
+                }
+
+                if (!list.siblings('div').hasClass('collapsible')) {
+                    // keep all closed that aren't already set to open
+                    list.parent().addClass('expandable').prepend("<div class='bullet expandable' />");
+                    ClosePageSubMenu(list.parent());
+                } else {
+                    OpenPageSubMenu(list.parent());
+                }
+            });
+
+            // remove bullet from hierarchy if no-bullet set
 			$('.navigation li.collapsible').each(function() {
-			    if ($(this).hasClass('no-bullet')) {
+                if ($(this).hasClass('no-bullet')) {
 			        if (!$(this).hasClass('navigationgroup')) {$(this).removeClass('collapsible');}
-			        $(this).children('div.collapsible').remove();
-			    }
-			});
+                    $(this).children('div.collapsible').remove();
+                }
+            });
 
 			$('.navigation li.expandable').each(function() {
-			    if ($(this).hasClass('no-bullet')) {
+                if ($(this).hasClass('no-bullet')) {
 			        if (!$(this).hasClass('navigationgroup')) {$(this).removeClass('expandable');}
-			        $(this).children('div.expandable').remove();
-			    }
-			});
-			
+                    $(this).children('div.expandable').remove();
+                }
+            });
+
 			$('.navigation li:not(.collapsible,.expandable,.no-bullet)').each(function() {
-			    $(this).prepend("<div class='bullet' />");
-			});
-		
+                $(this).prepend("<div class='bullet' />");
+            });
+
 			$('.navigation li.active').parents('ul').each(function() {
                 if (!$(this).hasClass('page-navigation')) {
                     OpenPageSubMenu($(this).parent());
                 }
             });
-		
-			// set click event for chevron
+
+            // set click event for chevron
             $(document).on('click', '.navigation div.collapsible', function() {
-				ClosePageSubMenu($(this).parent());
-			});
+                ClosePageSubMenu($(this).parent());
+            });
 
             $(document).on('click', '.navigation div.expandable', function() {
-				OpenPageSubMenu($(this).parent());
+                OpenPageSubMenu($(this).parent());
             });
-            
+
             // set navigation grouping links
             $(document).on('click', '.navigationgroup.collapsible > a', function() {
                 ClosePageSubMenu($(this).parent());
@@ -5182,262 +5263,270 @@ function LoadTaggedData(container, MIID, PMI, tag) {
 
             $(document).on('click', '.navigationgroup.expandable > a', function() {
                 OpenPageSubMenu($(this).parent());
-            });				
-			
-			//SW MYSTART DROPDOWNS
+            });
+
+            //SW MYSTART DROPDOWNS
             $(document).on('click', '.sw-mystart-dropdown', function() {
                 $(this).children(".sw-dropdown").css("display", "block");
-			});
+            });
 
 		    $(".sw-mystart-dropdown").hover(function() {}, function() {
-		        $(this).children(".sw-dropdown").hide();
-		        $(this).blur();
+                $(this).children(".sw-dropdown").hide();
+                $(this).blur();
             });
 
-		    //SW ACCOUNT DROPDOWN
+            //SW ACCOUNT DROPDOWN
 		    $(document).on('click', '#sw-mystart-account', function() {
-		        $(this).children("#sw-myaccount-list").show();
-		        $(this).addClass("clicked-state");
-		    });
+                $(this).children("#sw-myaccount-list").show();
+                $(this).addClass("clicked-state");
+            });
 
 			$("#sw-mystart-account, #sw-myaccount-list").hover(function() {}, function() {
-				$(this).children("#sw-myaccount-list").hide();
-				$(this).removeClass("clicked-state");
-				$("#sw-myaccount").blur();
-			});
-			   
-		   // set hover class for page and section navigation
-		   $('.ui-widget.app.pagenavigation, .ui-widget.app.sectionnavigation').find('li > a').hover(function() {
-		        $(this).addClass('hover');
-		   }, function() {
-		        $(this).removeClass('hover');
-		   });
-
-		}); // end document ready
-		
-		function OpenPageSubMenu(li) {
-            if (li.prop('tagName').toLowerCase() == "li") {
-			    li.removeClass('expandable').addClass('collapsible');
-			    li.find('div:first').removeClass('expandable').addClass('collapsible');	
-			    li.find('ul:first').show();
-
-			    PageNavigationStateCookie();
-            }
-		}
-		
-		function ClosePageSubMenu(li) {
-            if (li.prop('tagName').toLowerCase() == "li") {
-			    li.removeClass('collapsible').addClass('expandable');
-			    li.find('div:first').removeClass('collapsible').addClass('expandable');	 
-			    li.find('ul:first').hide();
-
-			    PageNavigationStateCookie();
-            }
-		}
-		
-		function PageNavigationStateCookie() {
-		    var strCookie = "";
-
-			$('.pagenavigation li > ul').each(function() {
-			    var item = $(this).parent('li');
-				if (item.hasClass('collapsible') && !item.hasClass('no-bullet')){
-					strCookie += $(this).parent().attr('id') + '~';
-				}
+                $(this).children("#sw-myaccount-list").hide();
+                $(this).removeClass("clicked-state");
+                $("#sw-myaccount").blur();
             });
 
-			SetCookie('SWPageNavState', strCookie);
-		}
-		
+            // set hover class for page and section navigation
+		   $('.ui-widget.app.pagenavigation, .ui-widget.app.sectionnavigation').find('li > a').hover(function() {
+                $(this).addClass('hover');
+		   }, function() {
+                $(this).removeClass('hover');
+            });
+
+        }); // end document ready
+
+        function OpenPageSubMenu(li) {
+            if (li.prop('tagName').toLowerCase() == "li") {
+                if (li.hasClass('expandable')) {
+                    li.removeClass('expandable').addClass('collapsible');
+                }
+                if (li.find('div:first').hasClass('expandable')) {
+                    li.find('div:first').removeClass('expandable').addClass('collapsible');
+                }
+                li.find('ul:first').show();
+
+                PageNavigationStateCookie();
+            }
+        }
+
+        function ClosePageSubMenu(li) {
+            if (li.prop('tagName').toLowerCase() == "li") {
+                li.removeClass('collapsible').addClass('expandable');
+                li.find('div:first').removeClass('collapsible').addClass('expandable');
+                li.find('ul:first').hide();
+
+                PageNavigationStateCookie();
+            }
+        }
+
+        function PageNavigationStateCookie() {
+            var strCookie = "";
+
+			$('.pagenavigation li > ul').each(function() {
+                var item = $(this).parent('li');
+				if (item.hasClass('collapsible') && !item.hasClass('no-bullet')){
+                    strCookie += $(this).parent().attr('id') + '~';
+                }
+            });
+
+            SetCookie('SWPageNavState', strCookie);
+        }
+
 		function checkSidebar(){
 		   $(".ui-widget-sidebar").each(function() {
 			   if($.trim($(this).html()) != ""){
-				   $(this).show();
-				   $(this).siblings(".ui-widget-detail").addClass("with-sidebar");
-			   } 
-		   });
+                    $(this).show();
+                    $(this).siblings(".ui-widget-detail").addClass("with-sidebar");
+                }
+            });
         }
 
 		function removeBrokenImages(){
-		   //REMOVES ANY BROKEN IMAGES
+            //REMOVES ANY BROKEN IMAGES
 		    $("span.img img").each(function() {
-		        if ($(this).attr("src") !== undefined) {
-		            $(this).parent().parent().show();
-		            $(this).parent().parent().siblings().addClass("has-thumb");
-		        } 
-		    });
-		}
+                if ($(this).attr("src") !== undefined) {
+                    $(this).parent().parent().show();
+                    $(this).parent().parent().siblings().addClass("has-thumb");
+                }
+            });
+        }
 
-		function LoadEventDetailUE(moduleInstanceID, eventDateID, userRegID, isEdit) {
-		    (userRegID === undefined ? userRegID = 0 : '');
-		    (isEdit === undefined ? isEdit = false : '');
-		    OpenDialogOverlay("WindowMediumModal", { LoadType: "U", LoadURL: "http://www.duvalschools.org//site/UserControls/Calendar/EventDetailWrapper.aspx?ModuleInstanceID=" + moduleInstanceID + "&EventDateID=" + eventDateID + "&UserRegID=" + userRegID + "&IsEdit=" + isEdit });
-		}
+        function LoadEventDetailUE(moduleInstanceID, eventDateID, userRegID, isEdit) {
+            (userRegID === undefined ? userRegID = 0 : '');
+            (isEdit === undefined ? isEdit = false : '');
+            OpenDialogOverlay("WindowMediumModal", { LoadType: "U", LoadURL: "http://www.duvalschools.org//site/UserControls/Calendar/EventDetailWrapper.aspx?ModuleInstanceID=" + moduleInstanceID + "&EventDateID=" + eventDateID + "&UserRegID=" + userRegID + "&IsEdit=" + isEdit });
+        }
 
-		function RemoveCookie() {
-		    // There are no sub page            
-		    if ($('.pagenavigation li li').length == 0) {
-		        //return false;
-		        PageNavigationStateCookie();
-		    }
-		}
-	</script>
-	
-	<script type="text/javascript">
+        function RemoveCookie() {
+            // There are no sub page            
+            if ($('.pagenavigation li li').length == 0) {
+                //return false;
+                PageNavigationStateCookie();
+            }
+        }
+    </script>
 
-	    function AddOffCanvasMenuHeightForSiteNav() {
-	        var sitenavulHeight = 0;
+    <script type="text/javascript">
 
-	        if ($('#sw-pg-sitenav-ul').length > 0) {
-	            sitenavulHeight = parseInt($("#sw-pg-sitenav-ul").height());
-	        }
+        function AddOffCanvasMenuHeightForSiteNav() {
+            var sitenavulHeight = 0;
 
-	        var swinnerwrapHeight = 0;
+            if ($('#sw-pg-sitenav-ul').length > 0) {
+                sitenavulHeight = parseInt($("#sw-pg-sitenav-ul").height());
+            }
 
-	        if ($('#sw-inner-wrap').length > 0) {
-	            swinnerwrapHeight = parseInt($("#sw-inner-wrap").height());
-	        }
+            var swinnerwrapHeight = 0;
 
-	        // 360px is abount 5 li height
-	        if (sitenavulHeight + 360 >= swinnerwrapHeight) {
-	            $("#sw-inner-wrap").height(sitenavulHeight + 360);
-	        }
-	    }
+            if ($('#sw-inner-wrap').length > 0) {
+                swinnerwrapHeight = parseInt($("#sw-inner-wrap").height());
+            }
 
-	    function AddOffCanvasMenuHeightForSelectSchool() {
-	        var selectschoolulHeight = 0;
+            // 360px is abount 5 li height
+            if (sitenavulHeight + 360 >= swinnerwrapHeight) {
+                $("#sw-inner-wrap").height(sitenavulHeight + 360);
+            }
+        }
 
-	        if ($('#sw-pg-selectschool-ul').length > 0) {
-	            selectschoolulHeight = parseInt($("#sw-pg-selectschool-ul").height());
-	        }
+        function AddOffCanvasMenuHeightForSelectSchool() {
+            var selectschoolulHeight = 0;
 
-	        var swinnerwrapHeight = 0;
+            if ($('#sw-pg-selectschool-ul').length > 0) {
+                selectschoolulHeight = parseInt($("#sw-pg-selectschool-ul").height());
+            }
 
-	        if ($('#sw-inner-wrap').length > 0) {
-	            swinnerwrapHeight = parseInt($("#sw-inner-wrap").height());
-	        }
+            var swinnerwrapHeight = 0;
 
-	        // 360px is abount 5 li height
-	        if (selectschoolulHeight + 360 >= swinnerwrapHeight) {
-	            $("#sw-inner-wrap").height(selectschoolulHeight + 360);
-	        }
-	    }
+            if ($('#sw-inner-wrap').length > 0) {
+                swinnerwrapHeight = parseInt($("#sw-inner-wrap").height());
+            }
+
+            // 360px is abount 5 li height
+            if (selectschoolulHeight + 360 >= swinnerwrapHeight) {
+                $("#sw-inner-wrap").height(selectschoolulHeight + 360);
+            }
+        }
 
 	    $(document).ready(function() {
-	        if ($("#sw-pg-sitenav-a").length > 0) {
+            if ($("#sw-pg-sitenav-a").length > 0) {
                 $(document).on('click', '#sw-pg-sitenav-a', function() {
-	                if ($("#sw-pg-sitenav-ul").hasClass('sw-pgmenu-closed')) {
-	                    AddOffCanvasMenuHeightForSiteNav();
+                    if ($("#sw-pg-sitenav-ul").hasClass('sw-pgmenu-closed')) {
+                        AddOffCanvasMenuHeightForSiteNav();
 
-	                    $("ul.sw-pgmenu-toplevel").removeClass('sw-pgmenu-open').addClass('sw-pgmenu-closed');
-	                    $("#sw-pg-sitenav-ul").removeClass('sw-pgmenu-closed');
-	                    $("#sw-pg-sitenav-ul").addClass('sw-pgmenu-open');
-	                } else {
-	                    $("#sw-pg-sitenav-ul").removeClass('sw-pgmenu-open');
-	                    $("#sw-pg-sitenav-ul").addClass('sw-pgmenu-closed');
-	                }
-	            });
+                        $("ul.sw-pgmenu-toplevel").removeClass('sw-pgmenu-open').addClass('sw-pgmenu-closed');
+                        $("#sw-pg-sitenav-ul").removeClass('sw-pgmenu-closed');
+                        $("#sw-pg-sitenav-ul").addClass('sw-pgmenu-open');
+                    } else {
+                        $("#sw-pg-sitenav-ul").removeClass('sw-pgmenu-open');
+                        $("#sw-pg-sitenav-ul").addClass('sw-pgmenu-closed');
+                    }
+                });
 
                 $(document).on('click', '#sw-pg-selectschool-a', function() {
-	                if ($("#sw-pg-selectschool-ul").hasClass('sw-pgmenu-closed')) {
-	                    AddOffCanvasMenuHeightForSelectSchool();
+                    if ($("#sw-pg-selectschool-ul").hasClass('sw-pgmenu-closed')) {
+                        AddOffCanvasMenuHeightForSelectSchool();
 
-	                    $("ul.sw-pgmenu-toplevel").removeClass('sw-pgmenu-open').addClass('sw-pgmenu-closed');
-	                    $("#sw-pg-selectschool-ul").removeClass('sw-pgmenu-closed');
-	                    $("#sw-pg-selectschool-ul").addClass('sw-pgmenu-open');
-	                } else {
-	                    $("#sw-pg-selectschool-ul").removeClass('sw-pgmenu-open');
-	                    $("#sw-pg-selectschool-ul").addClass('sw-pgmenu-closed');
-	                }
-	            });
+                        $("ul.sw-pgmenu-toplevel").removeClass('sw-pgmenu-open').addClass('sw-pgmenu-closed');
+                        $("#sw-pg-selectschool-ul").removeClass('sw-pgmenu-closed');
+                        $("#sw-pg-selectschool-ul").addClass('sw-pgmenu-open');
+                    } else {
+                        $("#sw-pg-selectschool-ul").removeClass('sw-pgmenu-open');
+                        $("#sw-pg-selectschool-ul").addClass('sw-pgmenu-closed');
+                    }
+                });
 
                 $(document).on('click', '#sw-pg-myaccount-a', function() {
-	                if ($("#sw-pg-myaccount-ul").hasClass('sw-pgmenu-closed')) {
-	                    $("ul.sw-pgmenu-toplevel").removeClass('sw-pgmenu-open').addClass('sw-pgmenu-closed');
-	                    $("#sw-pg-myaccount-ul").removeClass('sw-pgmenu-closed');
-	                    $("#sw-pg-myaccount-ul").addClass('sw-pgmenu-open');
-	                } else {
-	                    $("#sw-pg-myaccount-ul").removeClass('sw-pgmenu-open');
-	                    $("#sw-pg-myaccount-ul").addClass('sw-pgmenu-closed');
-	                }
-	            });
+                    if ($("#sw-pg-myaccount-ul").hasClass('sw-pgmenu-closed')) {
+                        $("ul.sw-pgmenu-toplevel").removeClass('sw-pgmenu-open').addClass('sw-pgmenu-closed');
+                        $("#sw-pg-myaccount-ul").removeClass('sw-pgmenu-closed');
+                        $("#sw-pg-myaccount-ul").addClass('sw-pgmenu-open');
+                    } else {
+                        $("#sw-pg-myaccount-ul").removeClass('sw-pgmenu-open');
+                        $("#sw-pg-myaccount-ul").addClass('sw-pgmenu-closed');
+                    }
+                });
 
                 $(document).on('click', '.pg-list-bullet', function() {
-	                $(this).prev().toggle();
+                    $(this).prev().toggle();
 
-	                if ($(this).hasClass('closed')) {
-	                    AddOffCanvasMenuHeightForSiteNav();
+                    if ($(this).hasClass('closed')) {
+                        AddOffCanvasMenuHeightForSiteNav();
 
-	                    $(this).removeClass('closed');
-	                    $(this).addClass('open');
-	                } else {
-	                    $(this).removeClass('open');
-	                    $(this).addClass('closed');
-	                }
-	            });
+                        $(this).removeClass('closed');
+                        $(this).addClass('open');
+                    } else {
+                        $(this).removeClass('open');
+                        $(this).addClass('closed');
+                    }
+                });
 
                 $(document).on('mouseover', '#sw-pg-selectschool', function() {
-	                $("#sw-pg-selectschool-firstli").removeClass('sw-pg-selectschool-firstli-mouseout').addClass('sw-pg-selectschool-firstli-mouseover');
-	                $("#sw-pg-selectschool-firstli a").addClass('sw-pg-selectschool-firstli-a-mouseover').removeClass('sw-pg-selectschool-firstli-a-mouseout');
-	            });
+                    $("#sw-pg-selectschool-firstli").removeClass('sw-pg-selectschool-firstli-mouseout').addClass('sw-pg-selectschool-firstli-mouseover');
+                    $("#sw-pg-selectschool-firstli a").addClass('sw-pg-selectschool-firstli-a-mouseover').removeClass('sw-pg-selectschool-firstli-a-mouseout');
+                });
 
                 $(document).on('mouseout', '#sw-pg-selectschool', function() {
-	                $("#sw-pg-selectschool-firstli").removeClass('sw-pg-selectschool-firstli-mouseover').addClass('sw-pg-selectschool-firstli-mouseout');
-	                $("#sw-pg-selectschool-firstli a").addClass('sw-pg-selectschool-firstli-a-mouseout').removeClass('sw-pg-selectschool-firstli-a-mouseover');
-	            });
+                    $("#sw-pg-selectschool-firstli").removeClass('sw-pg-selectschool-firstli-mouseover').addClass('sw-pg-selectschool-firstli-mouseout');
+                    $("#sw-pg-selectschool-firstli a").addClass('sw-pg-selectschool-firstli-a-mouseout').removeClass('sw-pg-selectschool-firstli-a-mouseover');
+                });
 
                 $(document).on('mouseover', '#sw-pg-myaccount', function() {
-	                $("#sw-pg-myaccount-firstli").removeClass('sw-pg-myaccount-firstli-mouseout').addClass('sw-pg-myaccount-firstli-mouseover');
-	                $("#sw-pg-myaccount-firstli a").addClass('sw-pg-myaccount-firstli-a-mouseover').removeClass('sw-pg-myaccount-firstli-a-mouseout');
-	            });
+                    $("#sw-pg-myaccount-firstli").removeClass('sw-pg-myaccount-firstli-mouseout').addClass('sw-pg-myaccount-firstli-mouseover');
+                    $("#sw-pg-myaccount-firstli a").addClass('sw-pg-myaccount-firstli-a-mouseover').removeClass('sw-pg-myaccount-firstli-a-mouseout');
+                });
 
                 $(document).on('mouseout', '#sw-pg-myaccount', function() {
-	                $("#sw-pg-myaccount-firstli").removeClass('sw-pg-myaccount-firstli-mouseover').addClass('sw-pg-myaccount-firstli-mouseout');
-	                $("#sw-pg-myaccount-firstli a").addClass('sw-pg-myaccount-firstli-a-mouseout').removeClass('sw-pg-myaccount-firstli-a-mouseover');
-	            });
+                    $("#sw-pg-myaccount-firstli").removeClass('sw-pg-myaccount-firstli-mouseover').addClass('sw-pg-myaccount-firstli-mouseout');
+                    $("#sw-pg-myaccount-firstli a").addClass('sw-pg-myaccount-firstli-a-mouseout').removeClass('sw-pg-myaccount-firstli-a-mouseover');
+                });
 
                 $(document).on('mouseover', '#sw-pg-sitenav', function() {
-	                $("#sw-pg-sitenav-firstli").removeClass('sw-pg-sitenav-firstli-mouseout').addClass('sw-pg-sitenav-firstli-mouseover');
-	                $("#sw-pg-sitenav-firstli a").addClass('sw-pg-sitenav-firstli-a-mouseover').removeClass('sw-pg-sitenav-firstli-a-mouseout');
-	            });
+                    $("#sw-pg-sitenav-firstli").removeClass('sw-pg-sitenav-firstli-mouseout').addClass('sw-pg-sitenav-firstli-mouseover');
+                    $("#sw-pg-sitenav-firstli a").addClass('sw-pg-sitenav-firstli-a-mouseover').removeClass('sw-pg-sitenav-firstli-a-mouseout');
+                });
 
                 $(document).on('mouseout', '#sw-pg-sitenav', function() {
-	                $("#sw-pg-sitenav-firstli").removeClass('sw-pg-sitenav-firstli-mouseover').addClass('sw-pg-sitenav-firstli-mouseout');
-	                $("#sw-pg-sitenav-firstli a").addClass('sw-pg-sitenav-firstli-a-mouseout').removeClass('sw-pg-sitenav-firstli-a-mouseover');
-	            });
+                    $("#sw-pg-sitenav-firstli").removeClass('sw-pg-sitenav-firstli-mouseover').addClass('sw-pg-sitenav-firstli-mouseout');
+                    $("#sw-pg-sitenav-firstli a").addClass('sw-pg-sitenav-firstli-a-mouseout').removeClass('sw-pg-sitenav-firstli-a-mouseover');
+                });
 
                 $(document).on('mouseover', '#sw-pg-district', function() {
-	                $("#sw-pg-district-firstli").removeClass('sw-pg-district-firstli-mouseout').addClass('sw-pg-district-firstli-mouseover');
-	                $("#sw-pg-district-firstli a").addClass('sw-pg-district-firstli-a-mouseover').removeClass('sw-pg-district-firstli-a-mouseout');
-	            });
+                    $("#sw-pg-district-firstli").removeClass('sw-pg-district-firstli-mouseout').addClass('sw-pg-district-firstli-mouseover');
+                    $("#sw-pg-district-firstli a").addClass('sw-pg-district-firstli-a-mouseover').removeClass('sw-pg-district-firstli-a-mouseout');
+                });
 
                 $(document).on('mouseout', '#sw-pg-district', function() {
-	                $("#sw-pg-district-firstli").removeClass('sw-pg-district-firstli-mouseover').addClass('sw-pg-district-firstli-mouseout');
-	                $("#sw-pg-district-firstli a").addClass('sw-pg-district-firstli-a-mouseout').removeClass('sw-pg-district-firstli-a-mouseover');
-	            });
-	        }
-	    });	
+                    $("#sw-pg-district-firstli").removeClass('sw-pg-district-firstli-mouseover').addClass('sw-pg-district-firstli-mouseout');
+                    $("#sw-pg-district-firstli a").addClass('sw-pg-district-firstli-a-mouseout').removeClass('sw-pg-district-firstli-a-mouseover');
+                });
+            }
+        });
 
 
-</script>
+    </script>
     
     <script src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.10.1/jquery-ui.min.js" type="text/javascript"></script>
-    <script src="http://www.duvalschools.org/Static/V2_10_01/GlobalAssets/Scripts/min/SW-UI.min.js" type="text/javascript"></script>
-    <script src="http://www.duvalschools.org/Static/V2_10_01/GlobalAssets/Scripts/Initialize.js" type="text/javascript"></script>
-    <script src="http://www.duvalschools.org/Static/V2_10_01/GlobalAssets/Scripts/min/swfobject.min.js" type="text/javascript"></script>
-    <script src="http://www.duvalschools.org/Static/V2_10_01/GlobalAssets/Scripts/min/jquery.ajaxupload.min.js" type="text/javascript"></script> 
+    <script src="http://www.duvalschools.org/Static/V2_12_01/GlobalAssets/Scripts/min/SW-UI.min.js" type="text/javascript"></script>
+    <script src="http://www.duvalschools.org/Static/V2_12_01/GlobalAssets/Scripts/Initialize.js" type="text/javascript"></script>
+    <script src="http://www.duvalschools.org/Static/V2_12_01/GlobalAssets/Scripts/min/swfobject.min.js" type="text/javascript"></script>
+    <script src="http://www.duvalschools.org/Static/V2_12_01/GlobalAssets/Scripts/min/jquery.ajaxupload.min.js" type="text/javascript"></script>
 
-<!-- Begin swuc.CheckScript -->
-  <script type="text/javascript" src="http://www.duvalschools.org/Static/V2_10_01/GlobalAssets/Scripts/ThirdParty/json2.js"></script>
-  <script type="text/javascript" src="http://www.duvalschools.org/Static/V2_10_01/GlobalAssets/Scripts/CheckScript.js"></script>
+    <!-- Begin swuc.CheckScript -->
+  <script type="text/javascript" src="http://www.duvalschools.org/Static/V2_12_01/GlobalAssets/Scripts/ThirdParty/json2.js"></script>
+  <script type="text/javascript" src="http://www.duvalschools.org/Static/V2_12_01/GlobalAssets/Scripts/CheckScript.js"></script>
 <!-- End swuc.CheckScript -->
 
 
-<!-- Server Load Time (13): 3.2448832 Seconds -->
+    <!-- Server Load Time (11): 0.6084039 Seconds -->
 
 
 
-<!-- off-canvas menu enabled-->
+    <!-- off-canvas menu enabled-->
+    
 
+    <!-- OnScreen Alert Dialog Start -->
+    <div id="onscreenalert-holder"></div>
+    <!-- OnScreen Alert Dialog End -->
 
 
 
