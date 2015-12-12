@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zizics.com privacy policy that was archived on 2015-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150407161218id_/http%3A//www.zizics.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zizics.com privacy policy that was archived on 2015-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151212164743id_/http%3A//zizics.com/privacy) for the most accurate reproduction.*
 
 # About Zizics.com
 
@@ -74,7 +74,7 @@ Links on our site that belong to third parties may be found.  These websites ha
 
 **7.  Contacting Us**
 
-We welcome any queries, requests you may have regarding this Privacy Policy, or comments. Please feel free to [contact us](https://web.archive.org/web/20150407161218id_/http%3A//www.zizics.com/contact-us.aspx)
+We welcome any queries, requests you may have regarding this Privacy Policy, or comments. Please feel free to [contact us](https://web.archive.org/web/20151212164743id_/http%3A//zizics.com/contact-us.aspx)
 
   
 
