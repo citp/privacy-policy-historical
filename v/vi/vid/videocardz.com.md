@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the videocardz.com privacy policy that was archived on 2015-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150424164957id_/http%3A//videocardz.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the videocardz.com privacy policy that was archived on 2015-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151212143427id_/http%3A//videocardz.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | VideoCardz.com
 
