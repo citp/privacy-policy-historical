@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iwannarofl.com privacy policy that was archived on 2015-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150613121714id_/http%3A//iwannarofl.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iwannarofl.com privacy policy that was archived on 2015-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151212164951id_/http%3A//iwannarofl.com/privacy) for the most accurate reproduction.*
 
 # Privacy | I wanna ROFL
 
