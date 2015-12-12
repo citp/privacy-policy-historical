@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the highcountrygardens.com privacy policy that was archived on 2015-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150512034248id_/http%3A//www.highcountrygardens.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the highcountrygardens.com privacy policy that was archived on 2015-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151212020542id_/http%3A//www.highcountrygardens.com/privacy-policy) for the most accurate reproduction.*
 
-# HCG - Privacy Policy
+# Privacy Policy
 
 At High Country Gardens, we have been selling only the finest gardening products for over 20 years. We have the utmost respect for customer service, privacy and security, whether a sale is made on the phone, via the mail or on the Internet. This privacy and security policy applies to the High Country Gardens website (http://www.highcountrygardens.com) and all products and services offered by High Country Gardens and its parent company, American Meadows.
 
-### Security for your online order:
+## Security for your online order:
 
 We have been selling online since 1999 and are continuously investing in state of the art protection for your privacy and security. It is our intention to provide you with the best possible protection available. When you order from this website, your credit card transaction is handled by a secure and independent authorization service, and your credit card information is not accessible by any employees at High Country Gardens or American Meadows. Once your order is filled, your credit card number is deleted from our records, and not stored.
 
@@ -12,7 +12,7 @@ As an added assurance, we subscribe to McAfee SECURE, a service that tests our s
 
 Wherever possible, we transmit sensitive data using 128-bit Secure Socket Layer (SSL) encryption. When navigating secure areas of our website, you will notice that the prefix to the web address (URL) will change from ‘http’ to ‘https’ where the ‘s’ stands for ‘secure.’ Common web browsers (such as Internet Explorer, Firefox, Chrome, Safari and others) all support SSL encryption. We always recommend using the most current version your web browser and the most current version of your operating system. Also, you should ensure that you have downloaded any available security patches.
 
-### Privacy:
+## Privacy:
 
 At High Country Gardens, we are proud to be your trusted gardening partner. In order to help ensure a positive experience, we use the information you provide to better serve you. When you visit our website, we collect non-personally identifiable information that web browsers and servers typically make available, such as the web address of the site you came from before visiting us, the type of browser being used, language preference, and the time of the visit. We also record which pages each visitor views on our site. This information is collected in an effort to improve our website and product offerings.
 
@@ -27,9 +27,8 @@ This privacy policy was updated on October 22, 2013 and describes the informatio
 If you have any questions about these policies or your dealings with the website, please contact us at:
 
 High Country Gardens  
-www.highcountrygardens.com  
 223 Ave D, Suite 30  
-Williston, VT 05495
-
-800-925-9387  
+Williston, VT 05495  
+(800) 925-9387  
+[www.highcountrygardens.com](https://web.archive.org/web/20151212020542id_/http%3A//www.highcountrygardens.com/www.highcountrygardens.com)  
 [Email Us](http://www.highcountrygardens.com/contact-us)
