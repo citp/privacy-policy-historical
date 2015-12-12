@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the confetti.co.uk privacy policy that was archived on 2015-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150417122419id_/http%3A//www.confetti.co.uk/information/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the confetti.co.uk privacy policy that was archived on 2015-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151212134232id_/http%3A//www.confetti.co.uk/information/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Confetti.co.uk
 
@@ -6,7 +6,7 @@ Confetti Celebrations Limited (“Confetti”) is totally committed to protectin
 
 ## How We Use Your Information
 
-This privacy notice tells you what to expect when Confetti Celebrations Ltd. collects personal information. It applies to information we collect about:
+This privacy policy tells you what to expect when Confetti Celebrations Ltd. collects personal information. It applies to information we collect about:
 
   * visitors to our website
   * customers who place orders with us
@@ -40,7 +40,7 @@ We will only use the personal information we collect to process the complaint an
 
 ### People Who Use Confetti Services
 
-Confetti offers various services to visitors. For example, we offer planning tools, provide a forum for visitors to communicate with each other and distribute electronic newsletters and emails containing product offers. Information stored within the planning tools and forums may be used to tailor the experience that you receive to highlight products and services that are likely to be most appropriate for you. We use a third party to manage to sending of some emails, but they are only allowed to use the information to send out our emails.
+Confetti offers various services to visitors. For example, we offer planning tools, provide a [forum](http://forums.confetti.co.uk/ "forum") for visitors to communicate with each other and distribute electronic newsletters and emails containing product offers. Information stored within the planning tools and forums may be used to tailor the experience that you receive to highlight products and services that are likely to be most appropriate for you. We use a third party to manage to sending of some emails, but they are only allowed to use the information to send out our emails.
 
 Users may, from time to time, receive information from us about new features, new services, news and special offers. If a user takes advantage of special offers made by our marketing partners, we may, with the user’s consent, transfer the user’s personal information to them.
 
