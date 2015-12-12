@@ -1,6 +1,12 @@
-> *The following text is extracted and transformed from the educational.pk privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630083648id_/http%3A//educating.pk/u/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the educational.pk privacy policy that was archived on 2015-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151212194226id_/http%3A//educating.pk/u/privacy-policy) for the most accurate reproduction.*
 
 # Education In Pakistan: Privacy Policy
+
+SS JOBS, HEADMASTER JOBS, HEADMISTRESS JOBS 2015 DETAILS [](http://pass.pk/ppsc-test-help/ss-headmaster-headmistress-jobs-2015/ "ss head jobs")
+
+CTI JOBS IN PUNJAB 2015-16 DETAILS
+
+[](http://pass.pk/cti-jobs/ "CTI JOBS")
 
 **Privacy Policy For www.educating.pk**
 
