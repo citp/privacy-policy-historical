@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the entranceindia.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610060250id_/http%3A//www.entranceindia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the entranceindia.com privacy policy that was archived on 2015-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151212052332id_/http%3A//www.entranceindia.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Entranceindia
 
-Privacy Policy of [www.entranceindia.com](https://web.archive.org/web/20150610060250id_/http://www.entranceindia.com/)
+Privacy Policy of [www.entranceindia.com](https://web.archive.org/web/20151212052332id_/http://www.entranceindia.com/)
 
 This privacy policy sets out how www.entranceindia.com uses and protects any information that you give to www.entranceindia.com when you use this website.
 
