@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the prikid.eu privacy policy that was archived on 2015-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150616061924id_/http%3A//prikid.eu/privacy-and-refund-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prikid.eu privacy policy that was archived on 2015-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151212085148id_/http%3A//prikid.eu/privacy-and-refund-policy) for the most accurate reproduction.*
 
 # Privacy and Refund Policy
 
@@ -10,4 +10,4 @@ Any personal information received will only be used to fill your order. We will 
 
 **Refund Policy**
 
-If you are not 100% satisfied with your purchase, you can either return your order for a full refund or exchange it for something else. You can return or exchange your purchase for up to 120 days from the purchase date. Returned or exchanged products must be in the condition you received them and in the original box and/or packaging.
+If you are not 100% satisfied with your purchase, you can either return your order for a full refund or exchange it for something else. You can return or exchange your purchase for up to 30 days from the purchase date. Returned or exchanged products must be in the condition you received them and in the original box and/or packaging.
