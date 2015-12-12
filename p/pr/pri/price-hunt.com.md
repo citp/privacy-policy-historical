@@ -1,93 +1,27 @@
-> *The following text is extracted and transformed from the price-hunt.com privacy policy that was archived on 2009-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091031060214id_/http%3A//price-hunt.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the price-hunt.com privacy policy that was archived on 2015-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151212121313id_/http%3A//www.price-hunt.com/price-hunt-privacy-policy.php) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy at Price-hunt.com
 
-Our Commitment To Privacy
+## Privacy Policy
 
-Your privacy is important to us. To better protect your privacy we provide this notice   
-explaining our online information practices and the choices you can make about the way   
-your information is collected and used. To make this notice easy to find, we make it   
-available on our homepage and at every point where personally identifiable information may   
-be requested.
+Please read our privacy policy before using the site or submitting any personal information. By using the site, you are accepting the practices described in this privacy policy. This privacy policy sets out how Price-Hunt.com uses and protects any information that you give Price-Hunt.com when using this website. We are committed ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
 
-The Information We Collect:
+##### Information Collected by Us
 
-This notice applies to all information collected or submitted on this website. On some pages,   
-you can order products, make requests, and register to receive materials. The types of   
-personal information collected at these pages are:
+We collect and use information about you from various sources. The amount and nature of the information collected and used varies from transaction to transaction as : Information from you - Information you provide to us on applications, other forms, and by other means, such as your name, e-mail ID, and contact numbers. We may collect “Non-Personal Information” – information that cannot be used to identify you – via Cookies, even if you have not registered with or provided any Personal Information to Price-Hunt. Third parties may use Non-Personal Information in order to display advertising that reflects the interests and preferences of our user community. We will not share your personally identifiable information to any third parties and is kept secure.
 
-Name  
-Address  
-Email address  
-Phone number
+##### Payments
 
-On some pages, you can submit information about other people. For example, if you order   
-a gift online and want it sent directly to the recipient, you will need to submit the recipient's   
-address. In this circumstance, the types of personal information collected are:
+After choosing your product, you will be directed to the merchant's or service provider's website (such as by following a link from the Websites to the merchant's or service provider's website) or the merchant or service provider will contact you. Any transaction, application or other interaction between you and the merchant or service provider on or through the merchant’s or service provider’s website, offline store or application process will be pursuant to any terms or agreements made available by such merchant or service provider.
 
-Name  
-Address  
-Phone Number
+##### Links to external websites
 
-The Information We DONT Collect:
+This website may contain links to enable you to visit other websites of interest. However, once you have used these links to leave our site, you should note that Price-Hunt.com does not have any control over the other website. Therefore, Price-Hunt.com cannot be responsible for the protection and privacy of any information which you provide while visiting such sites and such sites are not governed by this privacy statement.
 
-Credit/Debit Card Information
+##### Children’s Privacy
 
-The Way We Use Information:
+Protecting the privacy of every minor is equally important to us. The Website is not structured to attract minor children under eighteen (18) years and you hereby acknowledge that you are above the age of eighteen (18) years while using the Website.
 
-We use the information you provide about yourself when placing an order only to complete   
-that order. We do not share this information with outside parties except to the extent   
-necessary to complete that order.
+##### Changes to our Privacy Policy
 
-We use the information you provide about someone else when placing an order only to ship   
-the product and to confirm delivery. We do not share this information with outside parties   
-except to the extent necessary to complete that order.
-
-We offer gift-cards by which you can personalize a product you order for another person.   
-Information you provide to us to create a gift-card is only used for that purpose, and it is   
-only disclosed to the person receiving the gift.
-
-We use return email addresses to answer the email we receive. Such addresses are not   
-used for any other purpose and are not shared with outside parties.
-
-You can register with our website if you would like to receive our catalog as well as updates   
-on our new products and services. Information you submit on our website will not be used   
-for this purpose unless you fill out the registration form.
-
-We use non-identifying and aggregate information to better design our website and to   
-share with advertisers. For example, we may tell an advertiser that X number of individuals   
-visited a certain area on our website, or that Y number of men and Z number of women   
-filled out our registration form, but we would not disclose anything that could be used to   
-identify those individuals.
-
-Finally, we never use or share the personally identifiable information provided to us online   
-in ways unrelated to the ones described above without also providing you an opportunity to   
-opt-out or otherwise prohibit such unrelated uses.
-
-Our Commitment To Data Security
-
-To prevent unauthorized access, maintain data accuracy, and ensure the correct use of   
-information, we have put in place appropriate physical, electronic, and managerial   
-procedures to safeguard and secure the information we collect online.
-
-Our Commitment To Children's Privacy:
-
-Protecting the privacy of the very young is especially important. For that reason, we never   
-collect or maintain information at our website from those we actually know are under 13,   
-and no part of our website is structured to attract anyone under 13.
-
-How You Can Access Or Correct Your Information
-
-You can access all your personally identifiable information that we collect online and   
-maintain by calling us or sending us an email.. We use this procedure to better safeguard   
-your information.
-
-You can correct factual errors in your personally identifiable information by sending us a   
-request that credibly shows error.
-
-To protect your privacy and security, we will also take reasonable steps to verify your   
-identity before granting access or making corrections.  
-How To Contact Us
-
-Should you have other questions or concerns about these privacy policies, please contact   
-us.
+Price-Hunt.com may change this policy from time to time without prior notice.If we decide to change our Privacy Policy, we will post those changes on this page. You are requested to check this section of this Website regularly. Upon updating the Privacy Policy, we may revise the "Updated" date at the bottom of this Privacy Policy.
