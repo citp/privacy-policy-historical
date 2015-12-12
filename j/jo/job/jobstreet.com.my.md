@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the jobstreet.com.my privacy policy that was archived on 2015-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150526182723id_/http%3A//www.jobstreet.com.my/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobstreet.com.my privacy policy that was archived on 2015-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151212212614id_/http%3A//www.jobstreet.com.my/privacy-policy.htm) for the most accurate reproduction.*
 
-# Privacy Policy - JobStreet.com Malaysia | JobStreet.com Malaysia
+# Privacy Policy | JobStreet. Malaysia | JobStreet. Malaysia
 
 ###### Effective Date: **11-April-2014**
 
