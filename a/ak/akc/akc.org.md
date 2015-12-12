@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the akc.org privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630061614id_/http%3A//www.akc.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the akc.org privacy policy that was archived on 2015-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151212164828id_/http%3A//www.akc.org/privacy) for the most accurate reproduction.*
 
 # Website Privacy Statement - American Kennel Club
 
@@ -87,17 +87,17 @@ You can always choose whether or not to provide information on the Site. However
 
 ### B. Communications From Us
 
-If at any time you decide that you no longer wish to receive notices from us regarding the Site, you may indicate this preference by clicking on the unsubscribe links appearing in one of our emails, by [updating your AKC account](https://www.akc.org/account/), or you may [click here](https://www.akc.org/support/unsubscribe.cfm).
+If at any time you decide that you no longer wish to receive notices from us regarding the Site, you may indicate this preference by clicking on the unsubscribe links appearing in one of our emails, by [updating your AKC account](http://www.akc.org/account/), or you may [click here](http://www.akc.org/support/unsubscribe.cfm).
 
 ### C. Updating Information
 
-We encourage registered users of the Site to keep their personal information current. You may access, edit or delete personal information you have provided about you by [updating your My AKC account](https://www.akc.org/account/) or by updating your WOOFipedia account. For magazine subscribers, you may edit your postal mailing address at the [Change My Address page](https://ssl.palmcoastd.com/10803/apps/-173534).
+We encourage registered users of the Site to keep their personal information current. You may access, edit or delete personal information you have provided about you by [updating your My AKC account](http://www.akc.org/account/) or by updating your WOOFipedia account. For magazine subscribers, you may edit your postal mailing address at the [Change My Address page](https://ssl.palmcoastd.com/10803/apps/-173534).
 
 If you register a dog or litter using the Site and wish that your name and address not be shared with third parties, you must contact AKC customer service at [info@akc.org](mailto:info@akc.org) or 919-233-9767 to request that your name and address not be shared with third parties **,** provided, however, that if you co-own a dog or a litter, your name and address may be shared with other co-owners of the same dog or litter.
 
 You may indicate your preference that AKC not release to third parties personal information collected when you subscribe to our magazines by checking the appropriate box on the subscription invoice form or subscription renewal form that we mail to you.
 
-If you prefer that AKC not share certain other personal information that you voluntarily submit to us, you may indicate your preference that we not share such personal information you have provided through the Site to third parties by [updating your AKC account](https://www.akc.org/account/).
+If you prefer that AKC not share certain other personal information that you voluntarily submit to us, you may indicate your preference that we not share such personal information you have provided through the Site to third parties by [updating your AKC account](http://www.akc.org/account/).
 
 ## VII. Information Storage and Security
 
