@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the createmyhomebusiness.com privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626200702id_/http%3A//createmyhomebusiness.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the createmyhomebusiness.com privacy policy that was archived on 2015-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151212152813id_/http%3A//createmyhomebusiness.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Create My Home Business
 
-Welcome to http://www.createmyhomebusiness.com (the “Site”).We understand that privacy online is important to users of our Site, especially when conducting business.This statement governs our privacy policies with respect to those users of the Site (“Visitors”) who visit without transacting business and Visitors who register to transact business on the Site and make use of the various services offered by Create My Home Business (collectively, “Services”) (“Authorized Customers”).
+Welcome to http://www.createmyhomebusiness.com (the “Site”).We understand that privacy online is important to users of our Site, especially when conducting business.This statement governs our privacy policies with respect to those users of the Site (“Visitors”) who visit without transacting business and Visitors who register to transact business on the Site and make use of the various services offered by Create My [Home Business](http://createmyhomebusiness.com/8-fool-proof-tips-for-running-a-successful-home-business/) (collectively, “Services”) (“Authorized Customers”).
 
 “Personally Identifiable Information” 
 
@@ -26,7 +26,7 @@ Personally Identifiable Information about Authorized Customers may be shared wit
 
 How is Personally Identifiable Information stored?
 
-Personally Identifiable Information collected by Create My Home Business is securely stored and is not accessible to third parties or employees of Create My Home Business except for use as indicated above.
+Personally Identifiable Information collected by Create My [Home Business](http://createmyhomebusiness.com/category/home-business/) is securely stored and is not accessible to third parties or employees of Create My Home Business except for use as indicated above.
 
 What choices are available to Visitors regarding collection, use and distribution of the information?
 
