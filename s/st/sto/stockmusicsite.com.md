@@ -1,7 +1,31 @@
-> *The following text is extracted and transformed from the stockmusicsite.com privacy policy that was archived on 2015-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150613225312id_/http%3A//www.stockmusicsite.com/stockmusic/legal/privacy_policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stockmusicsite.com privacy policy that was archived on 2015-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151212084904id_/http%3A//www.stockmusicsite.com/stockmusic/legal/privacy_policy.cfm) for the most accurate reproduction.*
 
 # StockMusicSite.com Privacy Policy
 
+designer sound fx,  
+sound effects previews,  
+movie trailer sound effects,  
+supercar engine sounds,  
+water dripping sound effect free,  
+free heavy cymbal effects,  
+video games series sound effects free downloads,  
+loud sounds,  
+free mp3 sound effects,  
+free film sound effects,  
+sounds of a jaguar,  
+lord of the rings sound effects,  
+swoosh sound effects to download,  
+sounds of hell,  
+400 sound effects,  
+free news music sound effects,  
+car sound effects,  
+wav sound board,  
+sfx downloads,  
+sound effects children 
+
+| 
+
+|   
 ---  
   
 **Privacy Policy of StockMusicSite.com  
@@ -84,3 +108,24 @@ We know that you care how your information is used, and we appreciate your trust
   
   
 
+
+sound effect sites,  
+film reel sound effect,  
+soundefects,  
+piercing thunder and winds sound effect,  
+sound effects the man from uncle,  
+end of dance sound effects,  
+free sounds com,  
+bell sound effects free download,  
+dun dun duh sound effect,  
+sound effects free download,  
+mad cat sounds,  
+free wav sound effects,  
+sound fx samples free,  
+city noises,  
+doctor who sound effects,  
+bird sounds downloads,  
+air raid siren sound fx,  
+mp3s,  
+hollywood edge,  
+royalty free sound effects 
