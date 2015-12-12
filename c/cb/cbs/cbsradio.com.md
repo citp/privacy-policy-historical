@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the cbsradio.com privacy policy that was archived on 2015-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150617034945id_/http%3A//policies.cbslocal.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cbsradio.com privacy policy that was archived on 2015-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151212103113id_/http%3A//policies.cbslocal.com/privacy) for the most accurate reproduction.*
 
 # Privacy Principles
 
 #### Transparency
 
-CBS Local Digital Media, a division of CBS Radio Inc., ("CBS Local") provides clear notice of its privacy practices through a single [Privacy Policy](https://web.archive.org/web/20150617034945id_/http%3A//policies.cbslocal.com/current.html) that is readily accessible across all CBS Local Web Sites. CBS Local also provides clear information about its [online advertising](http://policies.cbslocal.com/privacy/current.html#ad) practices. 
+CBS Local Digital Media, a division of CBS Radio Inc., ("CBS Local") provides clear notice of its privacy practices through a single [Privacy Policy](https://web.archive.org/web/20151212103113id_/http%3A//policies.cbslocal.com/current.html) that is readily accessible across all CBS Local Web Sites. CBS Local also provides clear information about its [online advertising](http://policies.cbslocal.com/privacy/current.html#ad) practices. 
 
 #### Choice
 
@@ -12,7 +12,7 @@ CBS Local allows you to enjoy content and features on CBS Local Web Sites withou
 
   * If you choose to share contact information with us, CBS Local will identify any options you have for controlling the use of this information at the time it is collected.
   * You are also given the opportunity to opt out of commercial email or text messages from a particular CBS Local Web Site or service by following the instructions contained in any such message.
-  * You have choices about the collection and use of your data by third parties to deliver relevant advertising, as described in our overview of third-party [online advertising.](http://policies.cbslocal.com/privacy/current.html#onlinead)
+  * You have choices about the collection and use of your data by third parties to deliver relevant advertising, as described in our overview of [third-party online advertising.](http://policies.cbslocal.com/privacy/current.html#onlinead)
 
 
 
@@ -32,7 +32,7 @@ If you have any questions about these principles or CBS Local's Privacy Policy, 
 
 #### Scope of Privacy Policy
 
-CBS Local owns, operates, or provides access to, several interactive web sites and other interactive features that provide an authorized link to the [CBS Local Privacy Policy](http://policies.cbslocal.com/privacy/current.html) (collectively "CBS Local Web Sites"). This Privacy Policy, effective June 8, 2012, is guided by a core set of Privacy Principles and applies only to the CBS Local Web Sites. 
+CBS Local owns, operates, or provides access to, several interactive web sites and other interactive features that provide an authorized link to the [CBS Local Privacy Policy](http://policies.cbslocal.com/privacy/current.html) (collectively "CBS Local Web Sites"). This Privacy Policy, last modified on July 13, 2015, is guided by a core set of Privacy Principles and applies only to the CBS Local Web Sites. 
 
 [Read More](http://policies.cbslocal.com/privacy/current.html#scope)
 
@@ -50,14 +50,14 @@ CBS Local owns, operates, or provides access to, several interactive web sites a
 
 [Read More](http://policies.cbslocal.com/privacy/current.html#use)
 
-#### Your choices
+#### Your Choices
 
   * If you choose to share contact information with us, you will have the opportunity to update that information.
   * You can stop the delivery of commercial email messages from a CBS Local Web Site or service by following the instructions in any such email you receive. You have choices about the collection and use of your information by third parties to display relevant advertisements, as described in our overview of third-party online advertising.
 
 
 
-[Read More](http://policies.cbslocal.com/privacy/current.html#use)
+[Read More](http://policies.cbslocal.com/privacy/current.html#yourchoices)
 
 #### Information Collected
 
