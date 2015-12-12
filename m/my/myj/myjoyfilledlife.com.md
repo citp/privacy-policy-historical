@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myjoyfilledlife.com privacy policy that was archived on 2015-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150613020739id_/http%3A//www.myjoyfilledlife.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myjoyfilledlife.com privacy policy that was archived on 2015-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151212215956id_/http%3A//www.myjoyfilledlife.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - My Joy-Filled Life
 
@@ -22,5 +22,3 @@ Thank you!
   5. In addition, we work with third parties to help us track the advertisements that are delivered to you to determine the effectiveness of advertising on our Website. Third parties that use cookies, web beacons and other technologies to assist us with our traffic measurement, research and analytics include, but are not limited to, Comscore, Nielsen and DoubleClick. We do not share personally identifiable information with these third parties.
 
 
-
-Example Bottom Text
