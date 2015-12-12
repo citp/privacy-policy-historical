@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the te-lists.com privacy policy that was archived on 2015-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150613145257id_/http%3A//www.te-lists.com/p/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the te-lists.com privacy policy that was archived on 2015-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151212190821id_/http%3A//www.te-lists.com/p/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | USA Free Classifieds | American Classifieds | Te-lists.com
 
