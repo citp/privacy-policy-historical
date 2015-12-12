@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the livehotty.com privacy policy that was archived on 2014-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141001071154id_/http%3A//www.livehotty.com/privacy.html%3F) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livehotty.com privacy policy that was archived on 2015-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151212210449id_/http%3A//www.livehotty.com/privacy.html%3F) for the most accurate reproduction.*
 
 # LiveHotty - Privacy Policy
 
@@ -50,4 +50,4 @@ The address for correspondence by post is
 ICF Technology, Inc.  
 PO Box 21508  
 Seattle, WA 98111  
-USA 
+USA
