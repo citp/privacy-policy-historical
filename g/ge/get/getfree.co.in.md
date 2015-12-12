@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the getfree.co.in privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609065801id_/http%3A//getfree.co.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getfree.co.in privacy policy that was archived on 2015-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151212142357id_/http%3A//getfree.co.in/privacy-policy) for the most accurate reproduction.*
 
 # Get Free Coin - Privacy policy
 
@@ -19,7 +19,7 @@ getfree.co.in does use cookies to store information about visitors preferences, 
 
 Some of our advertising partners may use cookies and web beacons on our site. Our advertising partner is Google Adsense 
 
-These third-party ad servers or ad networks use technology to the advertisements and links that appear on freebitcoins.dixo.net send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see. 
+These third-party ad servers or ad networks use technology to the advertisements and links that appear on getfree.co.in send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see. 
 
 getfree.co.in has no access to or control over these cookies that are used by third-party advertisers. 
 
