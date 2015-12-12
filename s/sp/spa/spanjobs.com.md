@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spanjobs.com privacy policy that was archived on 2015-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150613132025id_/http%3A//www.spanjobs.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spanjobs.com privacy policy that was archived on 2015-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151212175320id_/http%3A//www.spanjobs.com/privacypolicy.php) for the most accurate reproduction.*
 
 # None
 
