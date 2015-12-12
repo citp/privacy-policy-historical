@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bloggingmomof4.com privacy policy that was archived on 2015-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150615134949id_/http%3A//bloggingmomof4.com/disclosure-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bloggingmomof4.com privacy policy that was archived on 2015-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151212194154id_/http%3A//bloggingmomof4.com/disclosure-privacy-policy) for the most accurate reproduction.*
 
 # Disclosure & Privacy Policy - Blogging Mom of 4
 
