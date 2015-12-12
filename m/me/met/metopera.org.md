@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the metopera.org privacy policy that was archived on 2015-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150523052827id_/http%3A//www.metopera.org/metopera/utility/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the metopera.org privacy policy that was archived on 2015-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151212141437id_/http%3A//www.metopera.org/user-information/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Metropolitan Opera | Privacy Policy
 
 Last updated December 18, 2013
 
@@ -41,7 +41,7 @@ We may release information if we are required to do so by law or in the good fai
 
 If you communicate with us by letter, e-mail, phone or in person, it is possible that information about the communication may be collected into a file specifically about you.
 
-To alter your e-mail preferences, please use our [My Account](https://www.metoperafamily.org/account/myaccount.aspx) section of the site and we will record and respect your instructions.
+To alter your e-mail preferences, please use our [My Account](https://web.archive.org/Account/) section of the site and we will record and respect your instructions.
 
 **Disclaimers**
 
@@ -52,7 +52,7 @@ Further, although we believe that our security procedures are appropriate to pro
 
 **Jurisdiction and Venue**
 
-All users, including those who access the web sites from a country other than the U.S., agree by virtue of their use that the laws of the State of New York shall govern any disputes, including any arising from or in connection with use of the sites and any arising from the Met’s use of personal information or otherwise relating to privacy and that any claim made against the Met can be brought only in a federal or state court in New York County, New York, all as specified in our [Terms and Conditions](http://www.metoperafamily.org/metopera/utility/terms_conditions.aspx "Terms and Conditions").
+All users, including those who access the web sites from a country other than the U.S., agree by virtue of their use that the laws of the State of New York shall govern any disputes, including any arising from or in connection with use of the sites and any arising from the Met’s use of personal information or otherwise relating to privacy and that any claim made against the Met can be brought only in a federal or state court in New York County, New York, all as specified in our [Terms and Conditions](https://web.archive.org/user-information/terms-and-conditions/).
 
 **Contact Information**
 
