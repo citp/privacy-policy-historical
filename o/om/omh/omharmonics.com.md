@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the omharmonics.com privacy policy that was archived on 2014-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141125082033id_/http%3A//www.omharmonics.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the omharmonics.com privacy policy that was archived on 2015-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151212070414id_/http%3A//www.mindvalley.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
