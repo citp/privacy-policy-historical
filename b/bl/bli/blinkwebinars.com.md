@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blinkwebinars.com privacy policy that was archived on 2015-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150318032026id_/http%3A//www.blinkwebinars.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blinkwebinars.com privacy policy that was archived on 2015-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151212070414id_/http%3A//www.mindvalley.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
