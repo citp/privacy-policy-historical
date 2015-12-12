@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ekomi-us.com privacy policy that was archived on 2015-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150613040304id_/http%3A//www.ekomi-us.com/us/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ekomi-us.com privacy policy that was archived on 2015-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151212084137id_/http%3A//www.ekomi-us.com/us/privacy) for the most accurate reproduction.*
 
 # Privacy | eKomi
 
@@ -75,6 +75,8 @@ Beverly Hills, CA 90210
 USA
 
 Call us at: 1 844-356-6487
+
+Email us: dataprotection@ekomi-us.com
 
 **8\. Declaration of consent**
 
