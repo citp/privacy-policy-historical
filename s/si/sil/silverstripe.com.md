@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the silverstripe.com privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611043853id_/http%3A//silverstripe.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the silverstripe.com privacy policy that was archived on 2015-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151212162747id_/http%3A//www.silverstripe.org/footer-menu/privacy-policy) for the most accurate reproduction.*
 
-# SilverStripe Privacy Policy » SilverStripe
+# Privacy Policy » SilverStripe
 
 SilverStripe is committed to protecting your privacy. When you give us personal information, we only use it for the purpose for which it was collected, and we treat it according to the policy laid out below.
 
