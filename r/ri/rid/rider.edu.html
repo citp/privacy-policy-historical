@@ -1,305 +1,571 @@
-<!--The following is the downloaded HTML source of the rider.edu privacy policy that was archived on 2015-06-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150610235824id_/http%3A//www.rider.edu/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the rider.edu privacy policy that was archived on 2015-12-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151212075037id_/http%3A//www.rider.edu/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" dir="ltr"><head>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><script src="https://js-agent.newrelic.com/nr-632.min.js"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UwAPVldSGwcJUVhXAwU="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),u=c.length,f=i(a,o,r),d=0;u>d;d++)c[d].apply(f,n);return f}function a(t,e){u[t]=s(t).concat(e)}function s(t){return u[t]||[]}function c(){return n(e)}var u={};return{on:a,emit:e,create:c,listeners:s,_events:u}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:20,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(u){try{r("ierr",[u,(new Date).getTime(),!0])}catch(f){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(3),window.onerror=e;try{throw new Error}catch(u){"stack"in u&&(t(4),t(5),"addEventListener"in window&&t(1),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&t(2),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:8,3:3,4:7,5:6,6:21,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:21,2:22,ee:"QJf3ax",gos:"7eSDFh"}],6:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:22,2:21,ee:"QJf3ax"}],7:[function(t,e){function n(t,e,n){t[0]=o(t[0],"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:22,2:21,ee:"QJf3ax"}],8:[function(t,e){function n(){u.inPlace(this,p,"fn-")}function r(t,e){u.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),u=c(a),f=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),f.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(i){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,u.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:5,2:22,ee:"QJf3ax"}],9:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var a=t.responseType,u="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=n(u);if(f&&(r.rxSize=f),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(e.cat=d.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,o("xhr",[e,r,this.startTime])}}}function n(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,u=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=e,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,e){var r=this.metrics,o=t[0],i=this;if(r&&o){var u=n(o);u&&(r.txSize=u)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{a.emit("internal-error",[n])}catch(r){}}};for(var f=0;c>f;f++)e.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:10,3:8,4:5,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],10:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],11:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:20,2:21,handle:"D5DuLP"}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info,e=u.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){s(d,function(e,n){e in t||(t[e]=n)});var n="https"===f.split(":")[0]||t.sslForHttp;p.proto=n?"https://":"http://",a("mark",["onload",i()]);var r=u.createElement("script");r.src=p.proto+t.agent,e.parentNode.insertBefore(r,e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=(t(2),window),u=c.document,f=(""+location).split("?")[0],d={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-632.min.js"},p=e.exports={offset:i(),origin:f,features:{}};u.addEventListener?(u.addEventListener("DOMContentLoaded",o,!1),c.addEventListener("load",n,!1)):(u.attachEvent("onreadystatechange",r),c.attachEvent("onload",n)),a("mark",["firstbyte",i()])},{1:20,2:11,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],20:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],21:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],22:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,u;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){f([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return u=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,u],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,u(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,u="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,u?s+o:o,i,s))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){f([o,e,n,r])}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){f([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function f(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:21,ee:"QJf3ax"}]},{},["G9z0Bl",4,9]);</script>
-	<title>Privacy Policy | Rider University</title>
-	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<link rel="shortcut icon" href="http://www.rider.edu/sites/default/files/favicon_0.ico" type="image/x-icon">
-<!-- ShareThis --><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({ publisher:"531e1a9d-6295-438c-86ee-5b77f5ccc4bf", onhover:false });</script>
-	<link type="text/css" rel="stylesheet" media="all" href="/sites/default/files/css/css_c658e82e188b4f3242bb3f8b9f33380f.css">
-<link type="text/css" rel="stylesheet" media="print" href="/sites/default/files/css/css_9d298fc29cc6112a6953c7af12e17bca.css">
+<!DOCTYPE html><html lang="en" dir="ltr"><!--<![endif]--><head>
 
 
-<!--[if IE]>
-<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/zen/zen/ie.css?8" />
-<![endif]-->
-	<!--[if IE 7]>
-	<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/custom/css/ie7.css" />
-	<![endif]-->
-	<!--[if IE 8]>
-	<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/custom/css/ie8.css" />
-	<![endif]-->
-	<script type="text/javascript" src="/sites/all/modules/jquery_update/replace/jquery.min.js?8"></script>
-<script type="text/javascript" src="/misc/drupal.js?8"></script>
-<script type="text/javascript" src="/modules/acquia/google_analytics/googleanalytics.js?8"></script>
-<script type="text/javascript" src="/sites/all/modules/lightbox2/js/lightbox.js?8"></script>
-<script type="text/javascript" src="/sites/all/modules/nice_menus/superfish/js/superfish.js?8"></script>
-<script type="text/javascript" src="/sites/all/modules/nice_menus/superfish/js/jquery.bgiframe.min.js?8"></script>
-<script type="text/javascript" src="/sites/all/modules/nice_menus/superfish/js/jquery.hoverIntent.minified.js?8"></script>
-<script type="text/javascript" src="/sites/all/modules/nice_menus/nice_menus.js?8"></script>
-<script type="text/javascript" src="/sites/all/modules/views_slideshow/js/jquery.cycle.all.min.js?8"></script>
-<script type="text/javascript" src="/sites/all/modules/views_slideshow/contrib/views_slideshow_singleframe/views_slideshow.js?8"></script>
-<script type="text/javascript" src="/sites/all/modules/views_slideshow/contrib/views_slideshow_thumbnailhover/views_slideshow.js?8"></script>
-<script type="text/javascript" src="/sites/all/modules/extlink/extlink.js?8"></script>
-<script type="text/javascript" src="/sites/all/themes/custom/js/ui.core.js?8"></script>
-<script type="text/javascript" src="/sites/all/themes/custom/js/ui.dropdownchecklist.js?8"></script>
-<script type="text/javascript" src="/sites/all/themes/custom/js/easySlider.js?8"></script>
-<script type="text/javascript" src="/sites/all/themes/custom/js/custom.js?8"></script>
-<script type="text/javascript" src="/sites/all/themes/custom/js/jquery.curvycorners.min.js?8"></script>
-<script type="text/javascript" src="/sites/all/themes/custom/js/nav.dropdown.js?8"></script>
-<script type="text/javascript">
-<!--//--><![CDATA[//><!--
-jQuery.extend(Drupal.settings, {"basePath":"\/","googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"csv|doc|docx|flv|gif|jpe?g|mp(3|4|e?g)|mov|pdf|png|ppt|pptx|rtf|txt|xls|xlsx|zip"},"lightbox2":{"rtl":0,"file_path":"\/(\\w\\w\/)sites\/default\/files","default_image":"\/sites\/all\/modules\/lightbox2\/images\/brokenimage.jpg","border_size":10,"font_color":"000","box_color":"fff","top_position":"","overlay_opacity":"0.8","overlay_color":"000","disable_close_click":true,"resize_sequence":0,"resize_speed":400,"fade_in_speed":400,"slide_down_speed":600,"use_alt_layout":false,"disable_resize":false,"disable_zoom":false,"force_show_nav":false,"show_caption":true,"loop_items":false,"node_link_text":"View Image Details","node_link_target":false,"image_count":"Image !current of !total","video_count":"Video !current of !total","page_count":"Page !current of !total","lite_press_x_close":"press \u003ca href=\"#\" onclick=\"hideLightbox(); return FALSE;\"\u003e\u003ckbd\u003ex\u003c\/kbd\u003e\u003c\/a\u003e to close","download_link_text":"","enable_login":false,"enable_contact":false,"keys_close":"c x 27","keys_previous":"p 37","keys_next":"n 39","keys_zoom":"z","keys_play_pause":"32","display_image_size":"original","image_node_sizes":"()","trigger_lightbox_classes":"","trigger_lightbox_group_classes":"","trigger_slideshow_classes":"","trigger_lightframe_classes":"","trigger_lightframe_group_classes":"","custom_class_handler":0,"custom_trigger_classes":"","disable_for_gallery_lists":true,"disable_for_acidfree_gallery_lists":true,"enable_acidfree_videos":true,"slideshow_interval":5000,"slideshow_automatic_start":true,"slideshow_automatic_exit":true,"show_play_pause":true,"pause_on_next_click":false,"pause_on_previous_click":true,"loop_slides":false,"iframe_width":600,"iframe_height":400,"iframe_border":1,"enable_video":false},"nice_menus_options":{"delay":800,"speed":1},"extlink":{"extTarget":0,"extClass":"ext","extSubdomains":1,"extExclude":"rider.edu","extInclude":"","extCssExclude":"","extCssExplicit":"","extAlert":0,"extAlertText":"This link will take you to an external web site. We are not responsible for their content.","mailtoClass":"mailto"}});
-//--><!]]>
+  <meta charset="utf-8">
+<link rel="shortcut icon" href="http://www.rider.edu/sites/default/files/rider-favicon.ico" type="image/vnd.microsoft.icon">
+<link rel="shortlink" href="/node/83176">
+<link rel="canonical" href="/privacy-policy">
+<meta name="Generator" content="Drupal 7 (http://drupal.org)">
+    <title>Privacy Policy | Rider University</title>
+
+      <meta name="MobileOptimized" content="width">
+    <meta name="HandheldFriendly" content="true">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="cleartype" content="on">
+
+  <link type="text/css" rel="stylesheet" href="http://www.rider.edu/sites/default/files/css/css_lQaZfjVpwP_oGNqdtWCSpJT1EMqXdMiU84ekLLxQnc4.css" media="all">
+<link type="text/css" rel="stylesheet" href="http://www.rider.edu/sites/default/files/css/css_fmY38u6DQpziJn72LPEWRYGdcH8FX7g--Iw01BNPbpo.css" media="all">
+<link type="text/css" rel="stylesheet" href="http://www.rider.edu/sites/default/files/css/css_PZTTusZrD2WOfibwyk4j_nVAI5CfGIb3bVXHmzNVSGk.css" media="all">
+<link type="text/css" rel="stylesheet" href="http://www.rider.edu/sites/default/files/css/css_NQsyDlgbz4E7zHKsubT0_760BMoQVmCSDtXq6a6NMfM.css" media="all">
+  <script type="text/javascript" async="" src="http://static.addtoany.com/menu/page.js"></script><script async="" src="//connect.facebook.net/en_US/fbevents.js"></script><script async="" src="http://www.rider.edu/sites/default/files/googleanalytics/analytics.js?nz7whq"></script><script>window.google_analytics_uacct = "UA-10880414-1";</script>
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+<script>window.jQuery || document.write("<script src='/sites/all/modules/contrib/jquery_update/replace/jquery/1.10/jquery.min.js'>\x3C/script>")</script><script src="/sites/all/modules/contrib/jquery_update/replace/jquery/1.10/jquery.min.js"></script>
+<script>jQuery.migrateMute=true;jQuery.migrateTrace=false;</script>
+<script src="http://www.rider.edu/sites/default/files/js/js_zL1qIdwtTkubFcxVLeNYa83-ElPeCSGc7zOAD4z30d0.js"></script>
+<script src="http://www.rider.edu/sites/default/files/js/js_WcsSLyes_lhWLQvyJXhtvSl4BJ_VAikOQ1WvpUNdji4.js"></script>
+<script src="http://www.rider.edu/sites/default/files/js/js_oK2cQw5tHpnNUsS7x7NFZpyTjMqdcVPMsyiVj7n3I_U.js"></script>
+<script>(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","http://www.rider.edu/sites/default/files/googleanalytics/analytics.js?nz7whq","ga");ga("create", "UA-10880414-1", {"cookieDomain":"auto"});ga("require", "displayfeatures");ga("send", "pageview");</script>
+<script src="http://www.rider.edu/sites/default/files/js/js_McyQSqiswAu2YkWIHbfhk6FCOe5oGmA3p9tL3W2knvk.js"></script>
+<script>var a2a_config=a2a_config||{},da2a={done:false,html_done:false,script_ready:false,script_load:function(){var a=document.createElement('script'),s=document.getElementsByTagName('script')[0];a.type='text/javascript';a.async=true;a.src='http://static.addtoany.com/menu/page.js';s.parentNode.insertBefore(a,s);da2a.script_load=function(){};},script_onready:function(){if(a2a.type=='page'){da2a.script_ready=true;if(da2a.html_done)da2a.init();}},init:function(){for(var i=0,el,target,targets=da2a.targets,length=targets.length;i<length;i++){el=document.getElementById('da2a_'+(i+1));target=targets[i];a2a_config.linkname=target.title;a2a_config.linkurl=target.url;if(el){a2a.init('page',{target:el});el.id='';}da2a.done=true;}da2a.targets=[];}};a2a_config.callbacks=a2a_config.callbacks||[];a2a_config.callbacks.push({ready:da2a.script_onready});a2a_config.icon_color = "#96221e";</script>
+<script src="http://www.rider.edu/sites/default/files/js/js_2xEbbXDFiUlWa8M0b9OGY5VIs9LmK8YrxN6VCVC-x_c.js"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"rider_zen","theme_token":"K8YX7fVGA8pVBIKnqm1h4OKdVmAchtmNuEytEl8ASaw","js":{"0":1,"1":1,"\/\/ajax.googleapis.com\/ajax\/libs\/jquery\/1.10.2\/jquery.min.js":1,"2":1,"3":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/jquery-migrate\/1.2.1\/jquery-migrate.min.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/libraries\/fitvids\/jquery.fitvids.js":1,"sites\/all\/modules\/contrib\/fitvids\/fitvids.js":1,"sites\/all\/modules\/contrib\/menu_attach_block\/menu_attach_block.js":1,"sites\/all\/modules\/custom\/rider_core\/js\/outliner.js":1,"sites\/all\/modules\/custom\/rider_core\/js\/jquery.equal.heights.js":1,"sites\/all\/modules\/custom\/rider_core\/js\/jquery.color.js":1,"sites\/all\/modules\/custom\/rider_core\/js\/custom.js":1,"sites\/all\/modules\/custom\/rider_datatables\/js\/rider.datatables.js":1,"sites\/all\/modules\/contrib\/extlink\/extlink.js":1,"sites\/all\/modules\/contrib\/apachesolr_autocomplete\/apachesolr_autocomplete.js":1,"sites\/all\/modules\/contrib\/apachesolr_autocomplete\/jquery-autocomplete\/jquery.autocomplete.js":1,"sites\/all\/libraries\/audio-player\/audio-player.js":1,"sites\/all\/libraries\/blockui\/jquery.blockUI.js":1,"sites\/all\/libraries\/bootstrap\/js\/bootstrap.min.js":1,"sites\/all\/libraries\/tablesaw\/tablesaw.js":1,"sites\/all\/modules\/contrib\/google_analytics\/googleanalytics.js":1,"4":1,"sites\/all\/modules\/contrib\/field_group\/field_group.js":1,"5":1,"sites\/all\/themes\/rider_zen\/js\/superfish\/latest\/superfish.js":1,"sites\/all\/themes\/rider_zen\/js\/jquery.mmenu\/jquery.mmenu.min.all.js":1,"sites\/all\/themes\/rider_zen\/js\/rider-mobile-menu.js":1,"sites\/all\/themes\/rider_zen\/js\/rider-desktop-menus.js":1,"sites\/all\/themes\/rider_zen\/js\/script.js":1,"sites\/all\/themes\/rider_zen\/js\/jquery.mousewheel.js":1,"sites\/all\/themes\/rider_zen\/js\/mwheelIntent.js":1,"sites\/all\/themes\/rider_zen\/js\/jquery.jscrollpane.min.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/aggregator\/aggregator.css":1,"modules\/comment\/comment.css":1,"sites\/all\/modules\/contrib\/date\/date_api\/date.css":1,"sites\/all\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"sites\/all\/modules\/contrib\/date\/date_repeat_field\/date_repeat_field.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/contrib\/fitvids\/fitvids.css":1,"sites\/all\/modules\/contrib\/menu_attach_block\/menu_attach_block.css":1,"modules\/node\/node.css":1,"sites\/all\/modules\/custom\/rider_core\/css\/reset.css":1,"sites\/all\/modules\/custom\/rider_core\/css\/font-awesome-4.3.0\/css\/font-awesome.min.css":1,"sites\/all\/modules\/custom\/rider_core\/css\/global.css":1,"sites\/all\/modules\/custom\/rider_core\/css\/globalfooter.css":1,"sites\/all\/modules\/custom\/rider_datatables\/css\/rider.datatables.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/contrib\/extlink\/extlink.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/modules\/contrib\/apachesolr_autocomplete\/apachesolr_autocomplete.css":1,"sites\/all\/modules\/contrib\/apachesolr_autocomplete\/jquery-autocomplete\/jquery.autocomplete.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/libraries\/bootstrap\/css\/bootstrap-scoped.css":1,"sites\/all\/libraries\/tablesaw\/bare\/tablesaw.bare.css":1,"sites\/all\/modules\/contrib\/field_group\/field_group.css":1,"sites\/all\/modules\/contrib\/addtoany\/addtoany.css":1,"sites\/all\/themes\/rider_zen\/system.menus.css":1,"sites\/all\/themes\/rider_zen\/system.messages.css":1,"sites\/all\/themes\/rider_zen\/system.theme.css":1,"sites\/all\/themes\/rider_zen\/css\/superfish\/latest\/superfish.css":1,"sites\/all\/themes\/rider_zen\/css\/styles.css":1,"sites\/all\/themes\/rider_zen\/css\/top_menu.css":1,"sites\/all\/themes\/rider_zen\/css\/navigation.css":1,"sites\/all\/themes\/rider_zen\/css\/jquery.mmenu\/jquery.mmenu.all.css":1}},"apachesolr_autocomplete":{"path":"\/apachesolr_autocomplete"},"fitvids":{"custom_domains":["iframe[src^=\u0027http:\/\/api.smugmug.com\u0027]","iframe[src^=\u0027http:\/\/smugmug.com\u0027]","iframe[src^=\u0027http:\/\/www.smugmug.com\u0027]","iframe[src^=\u0027https:\/\/visuals.zoomph.com\u0027]"],"selectors":["body"],"simplifymarkup":1},"extlink":{"extTarget":0,"extClass":0,"extLabel":"(link is external)","extImgClass":0,"extSubdomains":1,"extExclude":"","extInclude":"","extCssExclude":".noextlink, .event-featured-left","extCssExplicit":"","extAlert":0,"extAlertText":"This link will take you to an external web site.","mailtoClass":"mailto","mailtoLabel":"(link sends e-mail)"},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip"},"urlIsAjaxTrusted":{"\/privacy-policy":true},"field_group":{"div":"full"}});</script>
+      <!--[if lt IE 9]>
+    <script src="/sites/all/themes/zen/js/html5-respond.js"></script>
+    <![endif]-->
+  
+  <!-- Facebook Pixel Code -->
+<script>
+!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+document,'script','//connect.facebook.net/en_US/fbevents.js');
+
+fbq('init', '997459333637506');
+fbq('track', "PageView");</script>
+<noscript><img height="1" width="1" style="display:none"
+src="https://www.facebook.com/tr?id=997459333637506&ev=PageView&noscript=1"
+/></noscript>
+<!-- End Facebook Pixel Code -->
+<script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
+<body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-83176 node-type-page not-wcc section-privacy-policy js document-ready window-loaded" style="">
+<script> 
+/*
+ //uncomment this block to catch all javascript errors... useful if it's an obscure bug and you don't have proper dev tools on whatever platform the bug is occurring on (otherwise might as well use firebug or the like)
+ 
+	window.onerror = function(msg, file, line, col, error){
+		//note: in iOS you will not get much info
+	  jQuery('body').append('<div style="color: red; font-weight: bold; margin-top: 2em; margin-bottom: 2em; border: 1px soli red;">JS error msg: <br/>' + msg + '<br/>file:' + file + '<br/>line:' + line + '<br/>col:' + col + '<br/>error:' + error + '<br/>stack:' + ( (error && error.stack) ? error.stack : '(none)') + '</div>');
+	};
+*/
+	// note: The purpose of this script block is to allow CSS to hide certain elements until they are ready.  This avoids flickers or rendering of things that aren't yet ready, but only if you have js.
+	jQuery('body').addClass('js');
+	jQuery(document).ready(function(){
+		setTimeout(function(){
+			jQuery('body').addClass('document-ready');
+		}, 1); //the millisecond gives other scripts a chance to run
+	});
+	jQuery(window).load(function(){
+		setTimeout(function(){
+			jQuery('body').addClass('window-loaded');
+		}, 1); //the millisecond gives other scripts a chance to run
+	});
+	setTimeout(function(){
+		jQuery('body').addClass('document-ready window-loaded');
+	}, 1000);
+	
+	
+	/*
+	// the following lines are to test window.onerror
+	function testErrorInner(){
+		var foo = null;
+		foo.what = "something";
+	}
+	function testErrorOuter(){
+		testErrorInner();
+	}
+	testErrorOuter();
+	*/
 </script>
-<script type="text/javascript">
-<!--//--><![CDATA[//><!--
-window.google_analytics_uacct = "UA-10880414-1";
-//--><!]]>
-</script>
-</head>
+      <p id="skip-link">
+      <a href="#main-menu" class="element-invisible element-focusable">Jump to navigation</a>
+    </p>
+      <div id="global-wrapper">
+<div id="top">
+<div id="top_menu" class="clearfix ">
+	<div id="top_menu_inner" class="wrap">
+		  <div class="region region-top-menu">
+    <div id="block-search-form" class="block block-search first last odd" role="search">
 
-<body class="not-front not-logged-in node-type-page no-sidebars page-privacy-policy section-privacy-policy">
+    
 
-<div id="wrapper">
-
-	<div id="header">
-		<div id="topmenu">
-			
-    <div id="block-nice_menus-1" class="block block-nice_menus region-odd odd region-count-1 count-1 "><div class="block-inner">
-
-                                            <h2 class="title"><span class="nice-menu-hide-title">Top Menu</span></h2>
-                                    <div class="content"><ul class="nice-menu nice-menu-down" id="nice-menu-1"><li class="menu-425121 menu-path-node-31981 first  odd "><a href="/about/administration/presidential-search">Presidential Search</a></li>
-<li class="menu-9556 menuparent menu-path-node-14061 even "><a href="/prospects">Prospects</a><ul><li class="menu-67166 menu-path-node-14061 first  odd "><a href="/prospects">Overview page</a></li>
-<li class="menu-100871 menu-path-node-15861 even "><a href="/applynow">Apply Now</a></li>
-<li class="menu-230036 menu-path-myriderrideredu odd "><a href="http://myrider.rider.edu" target="_blank">myRider - Application Status &amp; Deposits</a></li>
-<li class="menu-379561 menu-path-virtual-tour even "><a href="/virtual-tour" title="Virtual Tour">Virtual Tour</a></li>
-<li class="menu-342086 menu-path-outcomes odd "><a href="/outcomes">Outcomes of a Rider Education: Success Stories</a></li>
-<li class="menu-46091 menu-path-node-3146 even "><a href="/ugradadmission">Undergraduate Admission</a></li>
-<li class="menu-46096 menu-path-node-3151 odd "><a href="/gradadmission">Graduate Admission</a></li>
-<li class="menu-46101 menu-path-node-3156 even "><a href="/csadmission">Continuing Studies (Evening and Online) Admission</a></li>
-<li class="menu-128571 menu-path-node-17236 odd "><a href="/admissions/auditions">Auditions</a></li>
-<li class="menu-46126 menu-path-node-10001 even "><a href="/about-rider/maps">Campus Maps</a></li>
-<li class="menu-339736 menu-path-node-431 odd "><a href="/publicsafety">Campus Safety</a></li>
-<li class="menu-124101 menu-path-node-20591 even "><a href="/admissions/campus-visits-and-events">Campus Visits &amp; Events</a></li>
-<li class="menu-46131 menu-path-node-391 odd "><a href="/contact-us">Contact Us</a></li>
-<li class="menu-46121 menu-path-node-391 even "><a href="/contact-us">Directions to Campus</a></li>
-<li class="menu-115126 menu-path-academics-faculty-directory odd "><a href="/academics/faculty-directory">Faculty Directory</a></li>
-<li class="menu-46111 menu-path-node-9236 even "><a href="/finaid">Financial Aid and Scholarships</a></li>
-<li class="menu-46116 menu-path-node-18171 odd "><a href="/academics/majors-minors-programs">Majors, Minors, &amp; Programs</a></li>
-<li class="menu-115206 menu-path-node-16036 even "><a href="/about-rider/contact-us/request-information">Request Information</a></li>
-<li class="menu-46106 menu-path-node-9231 odd  last "><a href="/offices-services/finaid/tuition-fees">Tuition &amp; Fees</a></li>
-</ul>
-</li>
-<li class="menu-9561 menuparent menu-path-node-10516 odd "><a href="/currentstudents">Current Students</a><ul><li class="menu-66366 menu-path-node-10516 first  odd "><a href="/currentstudents">Overview Page</a></li>
-<li class="menu-20306 menu-path-webmailrideredu even "><a href="http://webmail.rider.edu" target="_blank">Webmail</a></li>
-<li class="menu-46136 menu-path-node-2016 odd "><a href="/academics/academic-calendars">Academic Calendars</a></li>
-<li class="menu-20366 menu-path-node-7296 even "><a href="/bookstores">Bookstores</a></li>
-<li class="menu-20331 menu-path-directoryrideredu odd "><a href="http://directory.rider.edu" target="_blank">Campus Directory</a></li>
-<li class="menu-342131 menu-path-canvasrideredu even "><a href="http://canvas.rider.edu" target="_blank">Canvas</a></li>
-<li class="menu-342411 menu-path-careerservices odd "><a href="/careerservices">Career Services</a></li>
-<li class="menu-259556 menu-path-node-9786 even "><a href="/commencement">Commencement</a></li>
-<li class="menu-115051 menu-path-node-13546 odd "><a href="/offices-services/technology-office-information/additional-student-services/computer-labs">Computer Labs</a></li>
-<li class="menu-20356 menu-path-rideredu-calendar even "><a href="http://www.rider.edu/calendar" target="_blank">Events Calendar</a></li>
-<li class="menu-104486 menu-path-node-33546 odd "><a href="/event-request-form">Event Request Form - Reservations </a></li>
-<li class="menu-206416 menu-path-facilitiesrideredu- even "><a href="http://facilities.rider.edu/">Facilities Work Orders</a></li>
-<li class="menu-115116 menu-path-academics-faculty-directory odd "><a href="/academics/faculty-directory">Faculty Directory</a></li>
-<li class="menu-20326 menu-path-node-1796 even "><a href="/library">Libraries</a></li>
-<li class="menu-230031 menu-path-myriderrideredu odd "><a href="http://myrider.rider.edu" target="_blank">myRider</a></li>
-<li class="menu-20361 menu-path-wca-events even "><a href="/wca/events">Performances &amp; Events (WCA)</a></li>
-<li class="menu-339741 menu-path-node-431 odd "><a href="/publicsafety">Public Safety</a></li>
-<li class="menu-95581 menu-path-node-4916 even "><a href="/academics/academic-support-resources/registrar">Registrar</a></li>
-<li class="menu-46141 menu-path-node-191 odd "><a href="/housing">Residence Life</a></li>
-<li class="menu-20391 menu-path-node-5886 even "><a href="/offices/services/student-employment">Student Employment</a></li>
-<li class="menu-101671 menu-path-node-3001 odd "><a href="/technology">Technology</a></li>
-<li class="menu-20346 menu-path-rideredu-technology-helpdesk even "><a href="http://www.rider.edu/technology/helpdesk" target="_blank">Technology Help Desk</a></li>
-<li class="menu-20386 menu-path-node-9231 odd "><a href="/offices-services/finaid/tuition-fees">Tuition &amp; Fees</a></li>
-<li class="menu-20371 menu-path-node-8051 even  last "><a href="/academics/academic-support-resources/student-success-center/tutortrac">TutorTrac</a></li>
-</ul>
-</li>
-<li class="menu-12741 menuparent menu-path-node-14066 even "><a href="/facultystaff">Faculty &amp; Staff</a><ul><li class="menu-67171 menu-path-node-14066 first  odd "><a href="/facultystaff">Overview page</a></li>
-<li class="menu-46151 menu-path-webmailrideredu even "><a href="http://webmail.rider.edu" target="_blank">Webmail</a></li>
-<li class="menu-46161 menu-path-directoryrideredu odd "><a href="http://directory.rider.edu" target="_blank">Campus Directory</a></li>
-<li class="menu-342136 menu-path-canvasrideredu even "><a href="http://canvas.rider.edu" target="_blank">Canvas</a></li>
-<li class="menu-102391 menu-path-node-33546 odd "><a href="/event-request-form">Event Request Form - Reservations </a></li>
-<li class="menu-46171 menu-path-facilitiesrideredu- even "><a href="http://facilities.rider.edu/" target="_blank">Facilities Work Orders</a></li>
-<li class="menu-115121 menu-path-academics-faculty-directory odd "><a href="/academics/faculty-directory">Faculty Directory</a></li>
-<li class="menu-46191 menu-path-node-436 even "><a href="/offices/human-resources">Human Resources</a></li>
-<li class="menu-67766 menu-path-node-1796 odd "><a href="/library">Libraries</a></li>
-<li class="menu-206181 menu-path-https--myriderrideredu even "><a href="https://myrider.rider.edu" target="_blank">myRider</a></li>
-<li class="menu-46181 menu-path-easypassrideredu-calendar odd "><a href="http://easypass.rider.edu/calendar" target="_blank">Oracle Calendar</a></li>
-<li class="menu-425126 menu-path-node-31981 even "><a href="/about/administration/presidential-search">Presidential Search</a></li>
-<li class="menu-339746 menu-path-node-431 odd "><a href="/publicsafety">Public Safety</a></li>
-<li class="menu-95576 menu-path-node-4916 even "><a href="/academics/academic-support-resources/registrar">Registrar</a></li>
-<li class="menu-101676 menu-path-node-3001 odd "><a href="/technology">Technology</a></li>
-<li class="menu-46186 menu-path-rideredu-technology-helpdesk even  last "><a href="http://www.rider.edu/technology/helpdesk" target="_blank">Technology Help Desk</a></li>
-</ul>
-</li>
-<li class="menu-12746 menu-path-node-50481 odd "><a href="/alumni" target="_blank">Alumni</a></li>
-<li class="menu-12751 menu-path-alumnirideredu-give even "><a href="http://alumni.rider.edu/give">Give</a></li>
-<li class="menu-12756 menuparent menu-path-node-1611 odd  last "><a href="/wca">Westminster College of the Arts</a><ul><li class="menu-46196 menu-path-node-1611 first  odd "><a href="/wca">Westminster College of the Arts</a></li>
-<li class="menu-46201 menu-path-node-116 even "><a href="/wcc">Westminster Choir College</a></li>
-<li class="menu-46206 menu-path-node-1661 odd "><a href="/sfpa">School of Fine and Performing Arts</a></li>
-<li class="menu-46211 menu-path-node-1686 even "><a href="/woce">Westminster Continuing Education</a></li>
-<li class="menu-46216 menu-path-node-1651 odd "><a href="/conservatory">Westminster Conservatory</a></li>
-<li class="menu-66376 menu-path-node-1701 even "><a href="/academics/colleges-schools/westminster-college-arts/performance-management">Performance Management</a></li>
-<li class="menu-46241 menu-path-wca-events odd "><a href="/wca/events">Performances &amp; Events</a></li>
-<li class="menu-66371 menu-path-wca-multimedia even  last "><a href="/wca/multimedia">Multimedia</a></li>
-</ul>
-</li>
-</ul>
-</div>
-        
-            </div></div> <!-- /block-inner, /block -->
-		</div>
-
-		<div id="searchwrapper">
-			<form method="post" action="/search/apachesolr_search">
-				<input type="text" class="search_input" name="keys" value="Search Rider's Web site">
-				<input type="submit" class="search_button" name="op">
-			</form>
-			<div id="search-region">
-    <div id="block-block-586" class="block block-block region-odd even region-count-1 count-6 "><div class="block-inner">
-
-                                            <h2 class="title">Popular Searches</h2>
-                                    <div class="content"><table border="0" cellspacing="4" cellpadding="4" align="left"><tbody><tr><td><div><a href="/about/administration/presidential-search">Presidential Search</a></div><div><a href="/bookstores">Bookstores</a></div><div><a href="https://easypass.rider.edu/calendar" target="_blank">Calendar</a></div><div><a href="/library">Libraries</a></div><div><a href="/contact-us">Maps</a></div><div><a href="/offices-services/finaid/tuition-fees" target="_blank">Tuition &amp; Fees</a></div></td><td valign="top"><div><a href="http://webmail.rider.edu" target="_blank">Faculty Webmail</a></div><div><a href="http://webmail.rider.edu" target="_blank">Student Webmail</a></div><div><a href="http://canvas.rider.edu" target="_blank">Canvas</a></div><div><a href="http://myrider.rider.edu" target="_blank">myRider</a></div><div><a href="http://rider.peopleadmin.com">Rider Jobs</a></div><div><a href="/virtual-tour" target="_blank">Virtual Tour</a></div></td></tr><tr><td style="background-color: #ffffcc;" colspan="2"><span style="color: #800000;"><strong>Admitted Students &nbsp;<br></strong></span><a href="/admissions/undergraduate-admission/admitted-students/making-it-official-your-tuition-and-housing-dep">Make Your Deposit</a></td></tr></tbody></table></div>
-        
-            </div></div> <!-- /block-inner, /block -->
-</div>
-		</div>
-
-		<div id="logo"><a href="/"><img src="/sites/all/themes/custom/images/header-logo@2x.png" alt="Rider University" width="180" height="48"></a></div>
-
-		<div id="logo-150"><a href="/150"><img src="/sites/all/themes/custom/images/header-150@2x.png" alt="150th Anniversary" width="86" height="77"></a></div>
-
-
-		<div id="mainnav">
-			<ul>
-				<li class="main-1"><a href="/about">About</a>
-										<div class="header-nav-block"><div class="header-drop-bg"></div><span class="dropdown-content"><table><tbody><tr><td><div style="height: 120px;"><a href="/about-rider/facts-figures"><img src="/sites/default/files/images/facts_dd.jpg" alt="" width="116" height="70"></a><br><a href="/about-rider/facts-figures">Facts &amp; Figures</a></div></td> <td><div style="height: 120px;"><a href="/about-rider/historic-rider"><img src="/sites/default/files/images/historic_dd.jpg" alt="" width="116" height="70"></a><br><a href="/about-rider/historic-rider">Historic Rider</a></div></td> <td><div style="height: 120px;"><a href="/about-rider/administration"><img src="/sites/default/files/images/administration_dd.jpg" alt="" width="116" height="70"></a><br><a href="/about-rider/administration">Administration</a></div></td> <td><div style="height: 120px;"><a href="/about-rider/sustainability-rider"><img src="/sites/default/files/images/sustain_dd.jpg" alt="" width="116" height="70"></a><br><a href="/about-rider/sustainability-rider">Sustainability at Rider</a></div></td> <td><div style="height: 120px;"><a href="/give"><img src="/sites/default/files/images/give_dd.jpg" alt="" width="116" height="70"></a><br><a href="/give">Giving to Rider</a></div></td> <td><div style="height: 120px;"><a href="/contact-us"><img src="/sites/default/files/images/contact_dd.jpg" alt="" width="116" height="70"></a><br><a href="/contact-us">Contact Us</a></div></td></tr></tbody></table></span></div>
-									</li>
-				<li class="main-2"><a href="/academics">Academics</a>
-										<div class="header-nav-block"><div class="header-drop-bg"></div><span class="dropdown-content"><table style="width: 100%;" border="0" rules="rows"><tbody><tr valign="top"><td style="width: 35%;"><span style="font-weight: bold; font-size: small;"><a href="/cba">College of Business Administration</a></span><br> <span style="font-weight: bold; font-size: small;"><a href="/claes">College of Liberal Arts, Education, and Sciences</a></span><a style="padding-left: 10px;" href="/soe">School of Education</a><br><span style="font-weight: bold; font-size: small;"><a href="/ccs">College of Continuing Studies<br><span style="font-size: x-small; font-weight: normal;">Part-time, Evening and Online Programs</span></a></span><br><span style="font-weight: bold; font-size: small;"><a href="/wca">Westminster College of the Arts</a></span><a style="padding-left: 10px;" href="/sfpa">School of Fine and Performing Arts</a><a style="padding-left: 10px;" href="/wcc">Westminster Choir College</a><br></td> <td style="width: 30%;" scope="row"><div style="height: 120px;"><span style="font-weight: bold; font-size: small;"><a href="/academics/majors-minors-programs">Majors, Minors, Certificates, and Programs</a></span><br><span style="font-weight: bold; font-size: small;"><a href="/outcomes">Outcomes of a Rider Education</a></span><br> <span style="font-weight: bold; font-size: small;"><a href="/academics/academic-programs">Academic Programs &amp; Opportunities</a></span><br> <a href="/academics/academic-programs/honors-programs"> Honors Programs</a><br> <a href="/academics/academic-programs/study-abroad">Study Abroad</a><br> <a href="/academics/academic-programs/internships-co-ops">Internships &amp; Co-Ops</a><br> <a href="/academics/academic-programs/research-opportunities">Research Opportunities</a></div></td> <td style="width: 25%;"><span style="font-weight: bold; font-size: small;"><a href="/academics/academic-support-services">Academic Support Services</a></span><br> <span style="font-weight: bold; font-size: small;"><a href="/academics/academic-calendars">Academic Calendars</a></span><br><span style="font-weight: bold; font-size: small;"><a href="/catalogs">Academic Catalogs</a></span><br><span style="font-weight: bold; font-size: small;"><a href="/careerservices?utm_source=website&amp;utm_medium=link&amp;utm_content=AcadMenuLink&amp;utm_campaign=AcadMenuLink-careerservices-link-09232013">Career Services</a></span><br> <span style="font-weight: bold; font-size: small;"><a href="/library">Libraries</a></span><br> <span style="font-weight: bold; font-size: small;"><a href="/academics/faculty-directory">Faculty Directory</a></span></td></tr></tbody></table></span></div>
-									</li>
-				<li class="main-3"><a href="/admissions">Admissions</a>
-										<div class="header-nav-block"><div class="header-drop-bg"></div><span class="dropdown-content"><div style="margin: 0pt 0pt 0pt 130px;"><table style="height: 178px; width: 500px;" border="0"><tbody><tr><td style="width: 25%;"><div style="height: 120px;"><a href="/ugradadmission"><img src="/sites/default/files/images/adm_hp_b1.jpg" alt="" width="116" height="70"></a><br><a href="/ugradadmission">Undergraduate</a></div><hr><a href="/ugradadmission">Future freshmen, transfer, and international students.</a></td><td style="width: 25%;"><div style="height: 120px;"><a href="/gradadmission"><img src="/sites/default/files/images/adm_hp_b2.jpg" alt="" width="116" height="70"></a><br><a href="/gradadmission">Graduate</a></div><hr><a href="/gradadmission">Graduate programs to meet the needs of traditional and international students.</a></td><td style="width: 25%;"><div style="height: 120px;"><a href="/csadmission"><img src="/sites/default/files/images/adm_hp_b3.jpg" alt="" width="116" height="70"></a><br><a href="/csadmission">Continuing Studies</a></div><hr><a href="/csadmission">Career-focused learning for adult students.</a></td></tr></tbody></table></div></span></div>
-									</li>
-				<li class="main-4"><a href="/students">Students</a>
-										<div class="header-nav-block"><div class="header-drop-bg"></div><span class="dropdown-content"><table><tbody><tr><td><div style="height: 120px;"><a href="/housing"><img src="/sites/default/files/images/housingdining_dd.jpg" alt="" width="116" height="70"></a><br><a href="/housing">Housing &amp; Dining</a></div><hr><a href="/housing">Where to live and eat!</a></td><td><div style="height: 120px;"><a href="/student-life/activities-organizations"><img src="/sites/default/files/images/activities_dd_0.jpg" alt="" width="116" height="70"></a><br><a href="/student-life/activities-organizations">Activities &amp; Organizations</a></div><hr><a href="/student-life/activities-organizations">Get involved and have fun!</a></td><td><div style="height: 120px;"><a href="/student-life/recreational-sports"><img src="/sites/default/files/images/recreation_dd_0.jpg" alt="" width="116" height="70"></a><br><a href="/student-life/recreational-sports">Recreational Sports</a></div><hr><a href="/student-life/recreational-sports">Stay active in sports and recreation.</a></td><td><div style="height: 120px;"><a href="/student-life/arts-culture"><img src="/sites/default/files/images/arts_dd.jpg" alt="" width="116" height="70"></a><br><a href="/student-life/arts-culture">Arts &amp; Culture</a></div><hr><a href="/student-life/arts-culture">The creative side of Rider.</a></td><td><div style="height: 120px;"><a href="/student-life/health-wellness"><img src="/sites/default/files/images/health_dd.jpg" alt="" width="116" height="70"></a><br><a href="/student-life/health-wellness">Health &amp; Wellness</a></div><hr><a href="/student-life/health-wellness">Sound body, mind &amp; spirit.</a></td><td><div style="height: 120px;"><a href="/student-life/activities-organizations/fraternities-sororities"><img src="/sites/default/files/images/events_dd.jpg" alt="" width="116" height="70"></a><br><a href="/student-life/activities-organizations/fraternities-sororities">Fraternities &amp; Sororities</a></div><hr><a href="/student-life/activities-organizations/fraternities-sororities">Learn about Rider's Greek community.</a></td></tr></tbody></table></span></div>
-									</li>
-				<li class="main-5"><a href="/athletics">Athletics</a>
-										<div class="header-nav-block"><div class="header-drop-bg"></div><span class="dropdown-content"><div style="margin: 0pt 0pt 0pt 580px;"><table style="width: 145px;" border="0"><tbody><tr><td><div style="height: 120px;"><strong><img src="/sites/default/files/images/athletics_dd.jpg" alt="Rider Broncs" height="70" width="116"><br>Home of the Rider Broncs</strong></div><hr><p><a href="http://gobroncs.com">Visit gobroncs.com<br></a><a href="/athletics/directions-facilities">Directions &amp; Facilities</a></p></td></tr></tbody></table></div></span></div>
-									</li>
-				<li class="main-6"><a href="/offices">Offices</a>
-										<div class="header-nav-block"><div class="header-drop-bg"></div><span class="dropdown-content"><div style="margin: 0pt 0pt 0pt 745px;"><table style="width: 160px;" border="0"><tbody><tr><td><div style="height: 120px;"><a href="/offices"><img src="/sites/default/files/images/offices_dd.jpg" alt="" height="70" width="116"></a><br><a href="/offices"><strong>Offices &amp; Services</strong></a><br><a href="/offices">Browse or search the A to Z listing of offices and services at Rider University.</a></div></td></tr></tbody></table></div></span></div>
-									</li>
-			</ul>
-		</div>
-
-		<div id="header-pic"><img src="/sites/all/themes/custom/images/rider-default.jpg" alt=""></div>
-
-		<div id="breadcrumbs-bg"></div>
-		<div id="breadcrumbs"><div class="breadcrumb"><ul class="breadcrumb-list"><li><span class="breadcrumb-home"><a href="/">Home</a></span></li><li><a href="/privacy-policy" class="active">Privacy Policy</a></li></ul></div></div>
-	</div>
-
-
-	<!-- Content area -->
-	<div id="content">
-
-					<div id="page-title">Privacy Policy</div>
-		
-
-		<!-- ShareThis buttons -->
-		<div id="share-buttons">
-			
-			<span class="st_facebook_button" displaytext="Facebook"></span>
-			<span class="st_twitter_button" displaytext="Tweet"></span>
-			<span class="st_email_button" displaytext="E-mail"></span>
-		</div>
-
-
-
-
-		
-		
-		
-		<div id="content-top">
-						<div id="node-14141" class="node node-type-page"><div class="node-inner">
-
-  
-  
-  
-  
   <div class="content">
-    <h3>Rider University is committed to protecting your privacy.</h3><p>The <a href="/">Rider.edu</a> Web site is provided to support Rider University’s mission and to be of service to students, parents, faculty, staff, alumni, friends, supporters, and the public. Use of this site for any purposes other than that for which it is intended is unauthorized and prohibited.</p><p><strong>Data Collection and Use of Cookies</strong></p><p>We collect general, statistical information about visitors to our site for the purpose of facilitating communication and conducting business between the college and users of the site. &nbsp;Rider University also makes use of cookies to improve our visitor’s Web experience. A cookie is a piece of data stored by a Web site on a user's hard drive, which contains information about the user. Rider University employs cookies to keep track of user names and passwords, as well as to personalize your experience at Rider.edu. While Rider may use data to provide information about its     programs, no information will be used to permit targeting of any     website visitor for contact or marketing by any person or entity     other than Rider. &nbsp;You can set your browser to decline or accept cookies, though if you choose not to accept cookies, some parts of the Rider.edu site may function less efficiently.</p><p><strong>Security</strong></p><p>Rider University provides a secure server to protect your information from being viewed by an outside user. The technology transmits and receives scrambled data, which is decoded on the server side.</p><p><strong>Surveys and E-mail</strong></p><p>Rider University may request information through surveys, which users may choose to participate in on a voluntary basis. Information gathered may be used for marketing and promotional purposes or to notify you of new content, among other uses. If you e-mail us with questions or comments, we may use your personal information in order to respond to you. We may also share your information with a third party to assist in our response. We may file your comments for future reference, or we may discard the information after we have reviewed it. Under no circumstances do we share information about visitors with external organizations.</p><p><strong>Interactive Features</strong></p><p>While Rider University and Rider.edu strive to protect users' personal information and privacy, we cannot guarantee the security of any information you disclose online through interactive features such as forums, message boards, chat rooms, or similar services. Please keep in mind that you disclose information at your own risk.</p><p><strong>Links to third-party sites</strong></p><p>This site may contain links to sites owned or operated by parties other than Rider University. Rider University does not control outside sites and is not responsible for their content. Inclusion of links to an outside site does not imply any endorsement of the material on the site or, unless expressly stated otherwise, any sponsorship, affiliation, or association with its owner, operator, or sponsor.</p><p><strong>Exceptions</strong></p><p>In certain circumstances we will release specific information about you or your account to comply with any valid legal process such as a search warrant, subpoena, statute, or court order, or in other special cases, such as an attempted breach of the Rider.edu security, without notice to you.</p><p><strong>Copyright</strong></p><p>This site and all information and images within it are copyright Rider University, unless otherwise noted. U.S. copyright law protects all materials on this site. All rights reserved. Anyone wishing to obtain permission to reproduce any materials appearing on this site should contact <a href="mailto:webcontent@rider.edu">webcontent@rider.edu</a>.</p><p><strong>Disclaimer</strong></p><p>The information on this site is provided "as is," and no representations or warranties of any kind are made regarding it. Our policy is not to be applied in any manner contrary to applicable law or governmental regulation. Rider University reserves the right to make changes to this policy at any time. Please check this page periodically for updates.</p>  </div>
+    <div class="rider-block-content">
+      <form action="/privacy-policy" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+      <h2 class="element-invisible">Search form</h2>
+    <div class="form-item form-type-textfield form-item-search-block-form">
+ <label class="element-invisible" for="edit-search-block-form--2">Search </label>
+ <input title="Enter the terms you wish to search for." class="apachesolr-autocomplete unprocessed form-text" type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="15" maxlength="128">
+</div>
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Search" class="form-submit"></div><input type="hidden" name="form_build_id" value="form-Xxozls7KQWFR84uDqdc-oo6kVsjFAVLq13Xba1fnQOc">
+<input type="hidden" name="form_id" value="search_block_form">
+</div>
+</div></form>    </div>
+  </div>
+</div>
+  </div>
+					<div id="top-menu-links" class="plain-menu-wrapper">
+				<ul class="links sf-menu"><li class="menu-10699 first haschildren"><a href="/prospects">Prospects</a>
+<ul class="links"><li class="menu-12065 first"><a href="/prospects">Overview page</a></li>
+<li class="menu-12201"><a href="/admissions/apply-now">Apply Now</a></li>
+<li class="menu-12578"><a href="http://myrider.rider.edu">myRider - Application Status &amp; Deposits</a></li>
+<li class="menu-13010"><a href="/virtual-tour">Virtual Tour</a></li>
+<li class="menu-12861"><a href="/outcomes">Outcomes of a Rider Education: Success Stories</a></li>
+<li class="menu-11822"><a href="/offices/admissions" title="">Admissions</a></li>
+<li class="menu-11829"><a href="/about-rider/contact-us/lawrenceviile-campus-map">Campus Maps</a></li>
+<li class="menu-12710"><a href="/offices-services/public-safety">Campus Safety</a></li>
+<li class="menu-12408"><a href="/admissions/visit" title="">Visit Options</a></li>
+<li class="menu-11830"><a href="/about-rider/contact-us">Contact Us</a></li>
+<li class="menu-11828"><a href="/about-rider/contact-us">Directions to Campus</a></li>
+<li class="menu-12364"><a href="/academics/faculty-directory">Faculty Directory</a></li>
+<li class="menu-11826"><a href="/offices-services/financial-aid-scholarships">Financial Aid and Scholarships</a></li>
+<li class="menu-11827"><a href="/academics/majors-minors-programs">Majors, Minors, &amp; Programs</a></li>
+<li class="menu-11825 last"><a href="/offices-services/financial-aid-scholarships/tuition-fees">Tuition &amp; Fees</a></li>
+</ul></li>
+<li class="menu-10700 haschildren"><a href="/currentstudents" title="">Students</a>
+<ul class="links"><li class="menu-12018 first"><a href="/currentstudents">Overview Page</a></li>
+<li class="menu-11585"><a href="http://gmail.rider.edu" title="">Gmail</a></li>
+<li class="menu-11831"><a href="/academics/academic-calendars">Academic Calendars</a></li>
+<li class="menu-21116"><a href="http://catalog.rider.edu" title="">Academic Catalog</a></li>
+<li class="menu-11594"><a href="/offices-services/bookstores">Bookstores</a></li>
+<li class="menu-11589"><a href="http://directory.rider.edu">Campus Directory</a></li>
+<li class="menu-12864"><a href="http://canvas.rider.edu">Canvas</a></li>
+<li class="menu-12896"><a href="/careerservices">Career Services</a></li>
+<li class="menu-12608"><a href="/offices-services/commencement">Commencement</a></li>
+<li class="menu-12358"><a href="/offices-services/technology/additional-student-services/computer-labs">Computer Labs</a></li>
+<li class="menu-11592"><a href="http://www.rider.edu/calendar" title="">R25 Calendar</a></li>
+<li class="menu-12288"><a href="/event-request-form">Event Request Form - Reservations </a></li>
+<li class="menu-12485"><a href="http://facilities.rider.edu/">Facilities Work Orders</a></li>
+<li class="menu-12362"><a href="/academics/faculty-directory">Faculty Directory</a></li>
+<li class="menu-11588"><a href="/academics/libraries">Libraries</a></li>
+<li class="menu-12577"><a href="http://myrider.rider.edu">myRider</a></li>
+<li class="menu-12711"><a href="/offices-services/public-safety">Public Safety</a></li>
+<li class="menu-21066"><a href="/academics/academic-support-services/registrar" title="">Registrar</a></li>
+<li class="menu-11832"><a href="/student-life/housing-dining">Residence Life</a></li>
+<li class="menu-11598"><a href="/offices-services/student-employment">Student Employment</a></li>
+<li class="menu-12206"><a href="/offices-services/technology">Technology</a></li>
+<li class="menu-11590"><a href="http://www.rider.edu/helpdesk" title="">Technology Help Desk</a></li>
+<li class="menu-11597"><a href="/offices-services/financial-aid-scholarships/tuition-fees">Tuition &amp; Fees</a></li>
+<li class="menu-11595 last"><a href="/academics/academic-support-services/student-success-center/tutortrac">TutorTrac</a></li>
+</ul></li>
+<li class="menu-10952 haschildren"><a href="/facultystaff" title="">Faculty/Staff</a>
+<ul class="links"><li class="menu-12066 first"><a href="/facultystaff">Overview page</a></li>
+<li class="menu-11833"><a href="http://gmail.rider.edu" title="">Gmail</a></li>
+<li class="menu-21121"><a href="http://catalog.rider.edu" title="">Academic Catalog</a></li>
+<li class="menu-11835"><a href="http://directory.rider.edu">Campus Directory</a></li>
+<li class="menu-12865"><a href="http://canvas.rider.edu">Canvas</a></li>
+<li class="menu-12252"><a href="/event-request-form">Event Request Form - Reservations </a></li>
+<li class="menu-19426"><a href="http://www.rider.edu/calendar" title="">R25 Calendar</a></li>
+<li class="menu-11837"><a href="http://facilities.rider.edu/">Facilities Work Orders</a></li>
+<li class="menu-12363"><a href="/academics/faculty-directory">Faculty Directory</a></li>
+<li class="menu-11841"><a href="/offices-services/human-resources">Human Resources</a></li>
+<li class="menu-12091"><a href="/academics/libraries">Libraries</a></li>
+<li class="menu-12457"><a href="https://myrider.rider.edu">myRider</a></li>
+<li class="menu-20261"><a href="/offices-services" title="">Offices and Services</a></li>
+<li class="menu-12712"><a href="/offices-services/public-safety">Public Safety</a></li>
+<li class="menu-12183"><a href="/academics/academic-support-services/registrar">Registrar</a></li>
+<li class="menu-16611"><a href="/offices-services/teaching-and-learning-center" title="">Teaching &amp; Learning Center</a></li>
+<li class="menu-12207"><a href="/offices-services/technology">Technology</a></li>
+<li class="menu-11840 last"><a href="http://www.rider.edu/technology/helpdesk">Technology Help Desk</a></li>
+</ul></li>
+<li class="menu-10953"><a href="/alumni">Alumni</a></li>
+<li class="menu-10955 haschildren"><a href="/academics/colleges-schools/westminster-college-of-the-arts" title="">Westminster</a>
+<ul class="links"><li class="menu-11842 first"><a href="/academics/colleges-schools/westminster-college-of-the-arts">Westminster College of the Arts</a></li>
+<li class="menu-11843"><a href="/wcc">Westminster Choir College</a></li>
+<li class="menu-11844"><a href="/academics/colleges-schools/westminster-college-of-the-arts/school-of-fine-performing-arts">School of Fine and Performing Arts</a></li>
+<li class="menu-11845"><a href="/academics/colleges-schools/westminster-college-of-the-arts/westminster-continuing-education">Westminster Continuing Education</a></li>
+<li class="menu-11846"><a href="/academics/colleges-schools/westminster-college-of-the-arts/westminster-conservatory-music">Westminster Conservatory</a></li>
+<li class="menu-12020 last"><a href="/academics/colleges-schools/westminster-college-of-the-arts/performance-management">Performance Management</a></li>
+</ul></li>
+<li class="menu-3571"><a href="/events" title="">Events</a></li>
+<li class="menu-3631"><a href="/news" title="">News</a></li>
+<li class="menu-13878 last"><a href="/updates" title="">Campus Updates</a></li>
+</ul>			</div>
+			</div>
+</div>
+</div>
+<div id="page">
+<div id="page-top">
+	<div class="rider-sticky-header">
+	  <header role="banner">
+	  <div id="header" class="header wrap clearfix">
+		
+		
+				
+		  <div class="header__region region region-header">
+    <div id="block-block-311" class="block block-block first last odd">
 
-   
-  
-</div></div> <!-- /node-inner, /node -->
-					</div>
+    
 
+  <div class="content">
+    <div class="rider-block-content">
+      <div id="logo"><a href="/"><img alt="RIDER UNIVERSITY - 1865" src="/sites/default/files/header-logo-whitebg-360x96.png" style="width: 180px; height: 48px;"></a></div>
+
+<div id="logo-150"><a href="/150"><img alt="150th Anniversary" src="/sites/default/files/header-150-redbg-175x150.png" style="width: 88px; height: 75px;"></a></div>
+    </div>
+  </div>
+</div>
+  </div>
+	  		<div id="navigation" class="">
+		  						<div id="navigation-links" class="plain-menu-wrapper ">
+			<ul class="links sf-menu"><li class="menu-13395 first haschildren"><a href="/about-rider">About</a>
+<ul class="links"><li class="menu-13404 first"><a href="/about-rider/administration">Administration</a></li>
+<li class="menu-13402"><a href="/about-rider/facts-figures">Facts &amp; Figures</a></li>
+<li class="menu-13403 haschildren"><a href="/about-rider/historic-rider">Historic Rider</a>
+<ul class="links"><li class="menu-15656 first"><a href="/about-rider/historic-rider/historic-timeline">Historic Timeline</a></li>
+<li class="menu-11320"><a href="/about-rider/historic-rider/past-presidents">Past Presidents</a></li>
+<li class="menu-12278 last"><a href="/about-rider/historic-rider/awards-and-honors">Awards and Honors</a></li>
+</ul></li>
+<li class="menu-13405 haschildren"><a href="/about-rider/sustainability-rider">Sustainability at Rider</a>
+<ul class="links"><li class="menu-10701 first"><a href="/about-rider/sustainability-rider/mission-and-goals">Mission and Goals</a></li>
+<li class="menu-12323"><a href="/about-rider/sustainability-rider/sustainable-campus">Sustainable Campus</a></li>
+<li class="menu-16851"><a href="/about-rider/sustainability-rider/projects-and-events">Projects and Events</a></li>
+<li class="menu-17831"><a href="/about-rider/sustainability-rider/recyclemania">Recyclemania</a></li>
+<li class="menu-10704"><a href="/about-rider/sustainability-rider/external-project-and-links">External Project and Links</a></li>
+<li class="menu-10706"><a href="/about-rider/sustainability-rider/steering-committee">Steering Committee</a></li>
+<li class="menu-17836"><a href="/about-rider/sustainability-rider/eco-representatives">Eco-Representatives</a></li>
+<li class="menu-12627 last"><a href="/about-rider/sustainability-rider/green-partners">Green Partners</a></li>
+</ul></li>
+<li class="menu-13209"><a href="/about-rider/consumer-information">Consumer Information</a></li>
+<li class="menu-12198 haschildren"><a href="/about-rider/local-information">Local Information</a>
+<ul class="links"><li class="menu-12346 first"><a href="/about-rider/contact-us/local-information/restaurants">Restaurants</a></li>
+<li class="menu-12345"><a href="/about-rider/contact-us/local-information/coffee-ice-cream">Coffee &amp; Ice Cream</a></li>
+<li class="menu-12344"><a href="/about-rider/contact-us/local-information/theaters">Theaters</a></li>
+<li class="menu-12343"><a href="/about-rider/contact-us/local-information/recreation/areas-interest">Recreation / Areas of Interest</a></li>
+<li class="menu-12342"><a href="/about-rider/contact-us/local-information/shopping">Shopping</a></li>
+<li class="menu-12341"><a href="/about-rider/contact-us/local-information/radio-stations">Radio Stations</a></li>
+<li class="menu-12340 last"><a href="/about-rider/contact-us/local-information/night-life">Night Life</a></li>
+</ul></li>
+<li class="menu-13407 last haschildren"><a href="/about-rider/contact-us">Contact Us</a>
+<ul class="links"><li class="menu-15666 first"><a href="/about-rider/contact-us/important-campus-contacts">Important Campus Contacts</a></li>
+<li class="menu-13887"><a href="/about-rider/contact-us/request-information-about-rider">Request for Information</a></li>
+<li class="menu-15661"><a href="/about-rider/contact-us/lawrenceviile-campus-map">Lawrenceville Campus Map</a></li>
+<li class="menu-11581"><a href="/about-rider/contact-us/lawrenceviile-directions">Lawrenceville Campus Directions</a></li>
+<li class="menu-11582"><a href="/about-rider/buildings-facilities">Lawrenceville Campus Buildings &amp; Facilities</a></li>
+<li class="menu-11948"><a href="/about-rider/contact-us/princeton-campus-map">Princeton Campus Map</a></li>
+<li class="menu-11947"><a href="/about-rider/contact-us/princeton-campus-directions">Princeton Campus Directions</a></li>
+<li class="menu-11949 last"><a href="/about-rider/contact-us/princeton-campus-buildings-resources">Princeton Campus Buildings &amp; Resources</a></li>
+</ul></li>
+</ul></li>
+<li class="menu-13396 haschildren"><a href="/academics">Academics</a>
+<ul class="links"><li class="menu-13422 first"><a href="/academics/majors-minors-programs">Majors, Minors, Certificates, and Programs</a></li>
+<li class="menu-13822 haschildren"><a href="/academics/colleges-schools">Colleges and Schools</a>
+<ul class="links"><li class="menu-13397 first"><a href="/academics/colleges-schools/college-business-administration">College of Business Administration</a></li>
+<li class="menu-13419"><a href="/academics/colleges-schools/college-liberal-arts-education-sciences">College of Liberal Arts, Education, and Sciences</a></li>
+<li class="menu-16916"><a href="/academics/colleges-schools/college-liberal-arts-education-sciences/school-of-education" title="">School of Education</a></li>
+<li class="menu-13420"><a href="/academics/colleges-schools/college-continuing-studies">College of Continuing Studies</a></li>
+<li class="menu-13421 last"><a href="/academics/colleges-schools/westminster-college-of-the-arts">Westminster College of the Arts</a></li>
+</ul></li>
+<li class="menu-16091 haschildren"><a href="/academics/online-programs-and-courses">Online Programs and Courses</a>
+<ul class="links"><li class="menu-21031 first last"><a href="/academics/online-programs-and-courses/online-programs-orientation">Online Programs: Orientation</a></li>
+</ul></li>
+<li class="menu-13424 haschildren"><a href="/academics/academic-programs">Academic Programs and Opportunities</a>
+<ul class="links"><li class="menu-13425 first"><a href="/academics/academic-programs/honors-programs">Honors Programs</a></li>
+<li class="menu-13426"><a href="/academics/academic-programs/study-abroad">Study Abroad</a></li>
+<li class="menu-13427"><a href="/academics/academic-programs/internships-co-ops">Internships &amp; Co-Ops</a></li>
+<li class="menu-13428 last"><a href="/academics/academic-programs/research-opportunities">Research Opportunities</a></li>
+</ul></li>
+<li class="menu-13423"><a href="/outcomes" title="">Outcomes of a Rider Education</a></li>
+<li class="menu-13430"><a href="/academics/academic-calendars" title="">Academic Calendars</a></li>
+<li class="menu-13431"><a href="/academics/catalog">Academic Catalogs</a></li>
+<li class="menu-13433"><a href="/academics/libraries">Libraries</a></li>
+<li class="menu-10827 haschildren"><a href="/academics/academic-support-services">Academic Support Services</a>
+<ul class="links"><li class="menu-13432 first"><a href="/careerservices" title="">Career Services</a></li>
+<li class="menu-12184"><a href="/academics/academic-support-services/registrar">Registrar</a></li>
+<li class="menu-11094"><a href="/academics/academic-support-services/student-support-services">Student Support Services</a></li>
+<li class="menu-11092"><a href="/academics/academic-support-services/student-success-center">Student Success Center</a></li>
+<li class="menu-16086"><a href="/academics/academic-support-services/services-students-disabilities">Services for Students with Disabilities</a></li>
+<li class="menu-11276"><a href="/academics/academic-support-services/math-skills-lab">Math Skills Lab</a></li>
+<li class="menu-11277"><a href="/academics/academic-support-services/reading-courses">Reading Courses</a></li>
+<li class="menu-11093 last"><a href="/academics/academic-support-services/academic-support-wcc">Academic Support at WCC</a></li>
+</ul></li>
+<li class="menu-10830 last"><a href="/academics/faculty-directory" title="">Faculty Directory</a></li>
+</ul></li>
+<li class="menu-13398 haschildren"><a href="/admissions">Admissions</a>
+<ul class="links"><li class="menu-13408 first haschildren"><a href="/admissions/undergraduate">Undergraduate</a>
+<ul class="links"><li class="menu-13113 first"><a href="/admissions/undergraduate/request-more-information" title="">Request More Information</a></li>
+<li class="menu-10942"><a href="/admissions/undergraduate/how-to-apply">How to Apply</a></li>
+<li class="menu-16116"><a href="/admissions/undergraduate/apply">Apply to Rider</a></li>
+<li class="menu-15331"><a href="/admissions/undergraduate/visits">Visit Options</a></li>
+<li class="menu-16251"><a href="/admissions/undergraduate/admitted-students">Admitted Students</a></li>
+<li class="menu-16941 last"><a href="/admissions/undergraduate/contact-counselor">Contact a Counselor</a></li>
+</ul></li>
+<li class="menu-13438 haschildren"><a href="/admissions/transfer">Transfer</a>
+<ul class="links"><li class="menu-14646 first"><a href="/admissions/transfer/how-to-apply">How to Apply</a></li>
+<li class="menu-16541"><a href="/admissions/transfer/apply">Apply to Rider</a></li>
+<li class="menu-14651"><a href="/admissions/transfer/transfer-your-credits">Transfer Your Credits</a></li>
+<li class="menu-15326"><a href="/admissions/transfer/visits">Visit Options</a></li>
+<li class="menu-16561 last"><a href="/admissions/transfer/visit-your-campus">Rider's Visiting Your Campus</a></li>
+</ul></li>
+<li class="menu-13409 haschildren"><a href="/admissions/graduate">Graduate</a>
+<ul class="links"><li class="menu-13326 first"><a href="/admissions/graduate/request-more-information" title="">Request More Information</a></li>
+<li class="menu-11652"><a href="/admissions/graduate/how-apply">How to Apply</a></li>
+<li class="menu-11667"><a href="/admissions/graduate/apply">Apply to Rider</a></li>
+<li class="menu-15321"><a href="/admissions/graduate/visits">Visit Options</a></li>
+<li class="menu-16306"><a href="/admissions/graduate/admitted-students">Admitted Students</a></li>
+<li class="menu-17726 last"><a href="/admissions/graduate/contact">Contact Us</a></li>
+</ul></li>
+<li class="menu-13410 haschildren"><a href="/admissions/adult-learners">Adult Learners</a>
+<ul class="links"><li class="menu-12899 first"><a href="/admissions/adult-learners/request-information" title="">Request Information</a></li>
+<li class="menu-16361"><a href="/admissions/adult-learners/how-to-apply">How to Apply</a></li>
+<li class="menu-16386"><a href="/admissions/adult-learners/apply">Apply to Rider</a></li>
+<li class="menu-16371"><a href="/admissions/adult-learners/visits">Visit Options</a></li>
+<li class="menu-16391"><a href="/admissions/adult-learners/admitted-students">Admitted Students</a></li>
+<li class="menu-16401 last"><a href="/admissions/adult-learners/contact">Contact an Advisor</a></li>
+</ul></li>
+<li class="menu-15366 haschildren"><a href="/admissions/international">International</a>
+<ul class="links"><li class="menu-15376 first"><a href="/admissions/international/how-to-apply">How to Apply</a></li>
+<li class="menu-16536"><a href="/admissions/international/apply">Apply to Rider</a></li>
+<li class="menu-15381"><a href="/admissions/international/faqs">Frequently Asked Questions</a></li>
+<li class="menu-16526 last"><a href="/admissions/international/admitted-students">Admitted Students</a></li>
+</ul></li>
+<li class="menu-16111"><a href="/admissions/apply-now">Apply Now</a></li>
+<li class="menu-15336"><a href="/admissions/visit">Visit Options</a></li>
+<li class="menu-25081"><a href="/virtual-tour" title="">Virtual Tour</a></li>
+<li class="menu-16121 last"><a href="/admissions/contact">Contact Admissions</a></li>
+</ul></li>
+<li class="menu-13399 haschildren"><a href="/student-life">Student Life</a>
+<ul class="links"><li class="menu-20326 first"><a href="/student-life/housing-dining">Housing and Dining</a></li>
+<li class="menu-20331"><a href="/student-life/activities-organizations" title="">Activities and Organizations</a></li>
+<li class="menu-20336"><a href="/student-life/arts-culture" title="">Arts and Culture</a></li>
+<li class="menu-13413"><a href="/student-life/recreational-sports" title="">Recreational Sports</a></li>
+<li class="menu-20341"><a href="/student-life/health-wellness" title="">Health and Wellness</a></li>
+<li class="menu-20346"><a href="/student-life/campus-traditions" title="">Campus Traditions</a></li>
+<li class="menu-20351"><a href="/student-life/student-engagement" title="">Student Engagement</a></li>
+<li class="menu-20356 last"><a href="/student-life/campus-life-office" title="">Campus Life Office</a></li>
+</ul></li>
+<li class="menu-18021"><a href="/athletics">Athletics</a></li>
+<li class="menu-13401 last haschildren"><a href="/support-rider">Support Rider</a>
+<ul class="links"><li class="menu-23451 first"><a href="https://alumni.rider.edu/give" title="">Donate</a></li>
+<li class="menu-10682"><a href="/support-rider/ways-give">Ways to Give</a></li>
+<li class="menu-15591 haschildren"><a href="/support-rider/annual-giving">Annual Giving</a>
+<ul class="links"><li class="menu-10678 first"><a href="/support-rider/annual-giving/faculty-staff-campaign">Faculty &amp; Staff Campaign</a></li>
+<li class="menu-17841"><a href="/support-rider/annual-giving/graduating-class-gift">Graduating Class Gifts</a></li>
+<li class="menu-17846"><a href="/support-rider/annual-giving/parents-council">Parents Council</a></li>
+<li class="menu-17851 last"><a href="/support-rider/annual-giving/phonathon">Phonathon</a></li>
+</ul></li>
+<li class="menu-12693"><a href="/support-rider/recurring-gift-program">Recurring Gift Program</a></li>
+<li class="menu-10679 haschildren"><a href="/support-rider/corporate-foundation-relations">Corporate and Foundation Relations</a>
+<ul class="links"><li class="menu-15596 first"><a href="/support-rider/corporate-foundation-relations/partners">Corporate and Foundation Partners</a></li>
+<li class="menu-12985 last"><a href="/support-rider/corporate-foundation-relations/grants-research">Grants and Research at Rider University</a></li>
+</ul></li>
+<li class="menu-15601 haschildren"><a href="/support-rider/donor-recognition-societies">Donor Recognition Societies</a>
+<ul class="links"><li class="menu-15606 first"><a href="/support-rider/donor-recognition-societies/1865-society">The 1865 Society</a></li>
+<li class="menu-15611"><a href="/support-rider/donor-recognition-societies/presidents-society-of-donors">The President’s Society of Donors</a></li>
+<li class="menu-15616 last"><a href="/support-rider/donor-recognition-societies/leonard-olsen-legacy-society">Leonard Olsen Legacy Society</a></li>
+</ul></li>
+<li class="menu-10681"><a href="/support-rider/leadership-giving">Leadership Giving</a></li>
+<li class="menu-15621 haschildren"><a href="/support-rider/womens-leadership-council">Rider Women's Leadership Council</a>
+<ul class="links"><li class="menu-12920 first"><a href="/support-rider/womens-leadership-council/application" title="">Rider Women’s Leadership Council Associate Membership Application</a></li>
+<li class="menu-15626"><a href="/support-rider/womens-leadership-council/mentoring-program">Mentoring Program</a></li>
+<li class="menu-15631 last"><a href="/support-rider/womens-leadership-council/scholarship-challenge">Scholarship Challenge</a></li>
+</ul></li>
+<li class="menu-14616 haschildren"><a href="/support-rider/scholarships-stewardship">Scholarships and Stewardship</a>
+<ul class="links"><li class="menu-15636 first"><a href="/support-rider/scholarships-stewardship/endowed-named-scholarships">Endowed Named Scholarships</a></li>
+<li class="menu-15641 last"><a href="/support-rider/scholarships-stewardship/scholarship-luncheon">Scholarship Luncheon</a></li>
+</ul></li>
+<li class="menu-15646 last haschildren"><a href="/support-rider/contact-university-advancement">Contact University Advancement</a>
+<ul class="links"><li class="menu-14591 first"><a href="/support-rider/contact-university-advancement/advancement-services-staff">Advancement Services Staff</a></li>
+<li class="menu-14596"><a href="/support-rider/contact-university-advancement/development-staff">Development Staff</a></li>
+<li class="menu-10686"><a href="/support-rider/contact-university-advancement/alumni-relations-staff">Alumni Relations Staff</a></li>
+<li class="menu-14601"><a href="/support-rider/contact-university-advancement/development-staff-at-princeton">Development Staff, Princeton Campus</a></li>
+<li class="menu-12435 last"><a href="/support-rider/contact-university-advancement/university-communications-staff">University Communications Staff</a></li>
+</ul></li>
+</ul></li>
+</ul>						</div>
+		</div>
+	  	  	  </div>
+	  </header>
+	</div><!-- end .rider-sticky-header -->
+		<div id="highlighted">
+		  <div id="highlighted_inner" class="clearfix wrap">
+		  		  </div>
+		</div>
+  </div>
+  <div id="main" class="clearfix wrap">
+	  <div class="region region-title-top">
+    <div id="block-addtoany-addtoany-button" class="block block-addtoany first last odd">
+
+    
+
+  <div class="content">
+    <div class="rider-block-content">
+      <span class="a2a_kit a2a_kit_size_32 a2a_target addtoany_list" id="da2a_3">
+      
+      <a class="a2a_dd addtoany_share_save" href="https://www.addtoany.com/share_save#url=http%3A%2F%2Fwww.rider.edu%2Fprivacy-policy&amp;title=Privacy%20Policy%20%7C%20Rider%20University"><img src="/sites/all/themes/rider_zen/share.png" alt="Share"></a>
+      
+    </span>
+        </div>
+  </div>
+</div>
+  </div>
+  <div id="page-title-wrapper">
+    	<h1 class="page__title title" id="page-title">Privacy Policy</h1>
+      </div>
+<!-- ShareThis buttons -->
+                <div id="share-buttons">
+                        			
+                        <span class="st_facebook_button" displaytext="Facebook"></span>
+                        <span class="st_twitter_button" displaytext="Tweet"></span>
+                        <span class="st_email_button" displaytext="E-mail"></span>
+                </div>
+
+	  <div class="region region-title-bottom">
+    <div id="block-easy-breadcrumb-easy-breadcrumb" class="block block-easy-breadcrumb first last odd">
+
+    
+
+  <div class="content">
+    <div class="rider-block-content">
+      <div class="easy-breadcrumb"><a href="/" class="easy-breadcrumb_segment easy-breadcrumb_segment-front">Home</a><span class="easy-breadcrumb_segment-separator"> / </span><span class="easy-breadcrumb_segment easy-breadcrumb_segment-title">Privacy Policy</span></div>    </div>
+  </div>
+</div>
+  </div>
+    <div id="content" class="column clearfix" role="main">
+      <a id="main-content"></a>
+	  <div id="messages-wrapper">
+			  </div>
+	  
 						
-	</div>
+		
+                  	  <div id="content-top">
+      <div class="region-content-top"></div><div class="region-content">
+
+
+<div class="ds-1col node node-page view-mode-full clearfix">
+
+  
+  <div class="field field-name-body field-type-text-with-summary field-label-hidden">
+    <div class="field-items">
+          <div class="field-item even"><h3>Rider University is committed to protecting your privacy.</h3><p>The <a href="/">Rider.edu</a> Web site is provided to support Rider University’s mission and to be of service to students, parents, faculty, staff, alumni, friends, supporters, and the public. Use of this site for any purposes other than that for which it is intended is unauthorized and prohibited.</p><p><strong>Data Collection and Use of Cookies</strong></p><p>We collect general, statistical information about visitors to our site for the purpose of facilitating communication and conducting business between the college and users of the site. &nbsp;Rider University also makes use of cookies to improve our visitor’s Web experience. A cookie is a piece of data stored by a Web site on a user's hard drive, which contains information about the user. Rider University employs cookies to keep track of user names and passwords, as well as to personalize your experience at Rider.edu. While Rider may use data to provide information about its     programs, no information will be used to permit targeting of any     website visitor for contact or marketing by any person or entity     other than Rider. &nbsp;You can set your browser to decline or accept cookies, though if you choose not to accept cookies, some parts of the Rider.edu site may function less efficiently.</p><p><strong>Security</strong></p><p>Rider University provides a secure server to protect your information from being viewed by an outside user. The technology transmits and receives scrambled data, which is decoded on the server side.</p><p><strong>Surveys and E-mail</strong></p><p>Rider University may request information through surveys, which users may choose to participate in on a voluntary basis. Information gathered may be used for marketing and promotional purposes or to notify you of new content, among other uses. If you e-mail us with questions or comments, we may use your personal information in order to respond to you. We may also share your information with a third party to assist in our response. We may file your comments for future reference, or we may discard the information after we have reviewed it. Under no circumstances do we share information about visitors with external organizations.</p><p><strong>Interactive Features</strong></p><p>While Rider University and Rider.edu strive to protect users' personal information and privacy, we cannot guarantee the security of any information you disclose online through interactive features such as forums, message boards, chat rooms, or similar services. Please keep in mind that you disclose information at your own risk.</p><p><strong>Links to third-party sites</strong></p><p>This site may contain links to sites owned or operated by parties other than Rider University. Rider University does not control outside sites and is not responsible for their content. Inclusion of links to an outside site does not imply any endorsement of the material on the site or, unless expressly stated otherwise, any sponsorship, affiliation, or association with its owner, operator, or sponsor.</p><p><strong>Exceptions</strong></p><p>In certain circumstances we will release specific information about you or your account to comply with any valid legal process such as a search warrant, subpoena, statute, or court order, or in other special cases, such as an attempted breach of the Rider.edu security, without notice to you.</p><p><strong>Copyright</strong></p><p>This site and all information and images within it are copyright Rider University, unless otherwise noted. U.S. copyright law protects all materials on this site. All rights reserved. Anyone wishing to obtain permission to reproduce any materials appearing on this site should contact <a href="mailto:webcontent@rider.edu">webcontent@rider.edu</a>.</p><p><strong>Disclaimer</strong></p><p>The information on this site is provided "as is," and no representations or warranties of any kind are made regarding it. Our policy is not to be applied in any manner contrary to applicable law or governmental regulation. Rider University reserves the right to make changes to this policy at any time. Please check this page periodically for updates.</p></div>
+      </div>
+</div>
 </div>
 
+</div>
 
-<!-- Bottom links -->
-	<div id="bottom-links"><div class="container">
-		
-    <div id="block-menu-menu-footer-1" class="block block-menu region-odd even region-count-1 count-2 "><div class="block-inner">
-
-                                            <h2 class="title">Site Help</h2>
-                                    <div class="content"><ul class="menu"><li class="leaf first"><a href="/offices">Offices &amp; Services: A to Z Index</a></li>
-<li class="leaf"><a href="http://directory.rider.edu" target="_blank">directory.rider.edu</a></li>
-<li class="leaf"><a href="/contact-us">Contact Us</a></li>
-<li class="leaf"><a href="/about-rider/contact-us/request-information">Request Information</a></li>
-<li class="leaf"><a href="https://spreadsheets.google.com/viewform?formkey=dGhKWDlHWWVyY2MybUVtR3haMjNUdUE6MQ" target="_blank">Web site Feedback</a></li>
-<li class="leaf last active-trail"><a href="/privacy-policy" class="active">Privacy Policy</a></li>
-</ul></div>
-        
-            </div></div> <!-- /block-inner, /block -->
-
-    <div id="block-menu-menu-footer-2" class="block block-menu region-even odd region-count-2 count-3 "><div class="block-inner">
-
-                                            <h2 class="title">Visiting Rider</h2>
-                                    <div class="content"><ul class="menu"><li class="leaf first"><a href="/admissions/campus-visits-and-events">Campus Visits &amp; Events</a></li>
-<li class="leaf"><a href="/contact-us">Directions</a></li>
-<li class="leaf"><a href="/about-rider/maps">Maps</a></li>
-<li class="leaf"><a href="/about-rider/buildings-facilities">Buildings &amp; Facilities</a></li>
-<li class="leaf last"><a href="/virtual-tour">Virtual Tour</a></li>
-</ul></div>
-        
-            </div></div> <!-- /block-inner, /block -->
-
-    <div id="block-menu-menu-footer-3" class="block block-menu region-odd even region-count-3 count-4 "><div class="block-inner">
-
-                                            <h2 class="title">Engage With Rider</h2>
-                                    <div class="content"><ul class="menu"><li class="leaf first"><a href="/alumni">Alumni Portal</a></li>
-<li class="leaf"><a href="/ridermagazine" target="_blank">Alumni Magazine</a></li>
-<li class="leaf"><a href="/give">Giving to Rider</a></li>
-<li class="leaf"><a href="/library">Libraries</a></li>
-<li class="leaf"><a href="/outcomes" title="Outcomes of a Rider Education:  Recent Alumni Success Stories">Recent Alumni Success Stories</a></li>
-<li class="leaf"><a href="http://rider.peopleadmin.com/" target="_blank">Rider Jobs</a></li>
-<li class="leaf last"><a href="/conservatory" title="Community Music School">Westminster Conservatory</a></li>
-</ul></div>
-        
-            </div></div> <!-- /block-inner, /block -->
-
-    <div id="block-menu-menu-footer-4" class="block block-menu region-even odd region-count-4 count-5 "><div class="block-inner">
-
-                                            <h2 class="title">Stay Informed</h2>
-                                    <div class="content"><ul class="menu"><li class="leaf first"><a href="/about/administration/presidential-search">Presidential Search</a></li>
-<li class="leaf"><a href="/news" target="_blank">News@Rider</a></li>
-<li class="leaf"><a href="/news/about-university-communications">University Communications &amp; Marketing</a></li>
-<li class="leaf"><a href="http://www.rider.edu/calendar" target="_blank">Event Calendars</a></li>
-<li class="leaf"><a href="/wca/events">Performances &amp; Events (WCA)</a></li>
-<li class="leaf last"><a href="/updates" title="">Campus Alerts / Rider Alert</a></li>
-</ul></div>
-        
-            </div></div> <!-- /block-inner, /block -->
-	</div></div>
+	  </div>
+          </div>
+    
 
 
-<!-- Global footer -->
-	<div id="footer"><div class="container">
-		
-		<div id="footer-logo"><a href="/"><img src="/sites/all/modules/rider/rider_core/footer/logo_rider@2x.png" alt="Rider University" width="226" height="60"></a></div>
+  </div>
 
-		<div id="footer-wrapper">
-			<div id="footer-social">
-					<h2 class="hide">Find Rider University at</h2>
-					<ul>
+  </div>
+
+
+<div id="global-footer-wrapper">
+			<div id="footer-top-wrapper">
+			<div class="wrap clearfix">
+			  <div class="region region-footer-top">
+    <div id="block-menu-menu-footer-1" class="block block-menu first odd" role="navigation">
+
+    <h2 class="block__title block-title">Site Help</h2>
+  
+
+  <div class="content">
+    <div class="rider-block-content">
+      <ul class="menu"><li class="menu__item is-leaf first leaf"><a href="/offices-services" title="" class="menu__link">Offices and Services</a></li>
+<li class="menu__item is-leaf leaf"><a href="/about-rider/contact-us" class="menu__link">Contact Us</a></li>
+<li class="menu__item is-leaf leaf"><a href="http://directory.rider.edu" class="menu__link">directory.rider.edu</a></li>
+<li class="menu__item is-active-trail is-leaf last leaf active-trail"><a href="/privacy-policy" class="menu__link is-active-trail active-trail active">Privacy Policy</a></li>
+</ul>    </div>
+  </div>
+</div>
+<div id="block-menu-menu-footer-2" class="block block-menu even" role="navigation">
+
+    <h2 class="block__title block-title">Visit</h2>
+  
+
+  <div class="content">
+    <div class="rider-block-content">
+      <ul class="menu"><li class="menu__item is-leaf first leaf"><a href="/admissions/visit" class="menu__link">Campus Visits &amp; Events</a></li>
+<li class="menu__item is-leaf leaf"><a href="/about-rider/contact-us" class="menu__link">Directions</a></li>
+<li class="menu__item is-leaf leaf"><a href="/about-rider/contact-us/lawrenceviile-campus-map" class="menu__link">Maps</a></li>
+<li class="menu__item is-leaf leaf"><a href="/about-rider/buildings-facilities" class="menu__link">Buildings &amp; Facilities</a></li>
+<li class="menu__item is-leaf last leaf"><a href="/virtual-tour" class="menu__link">Virtual Tour</a></li>
+</ul>    </div>
+  </div>
+</div>
+<div id="block-menu-menu-footer-3" class="block block-menu odd" role="navigation">
+
+    <h2 class="block__title block-title">Engage</h2>
+  
+
+  <div class="content">
+    <div class="rider-block-content">
+      <ul class="menu"><li class="menu__item is-leaf first leaf"><a href="/alumni" class="menu__link">Alumni Portal</a></li>
+<li class="menu__item is-leaf leaf"><a href="/academics/libraries" class="menu__link">Libraries</a></li>
+<li class="menu__item is-leaf leaf"><a href="http://myrider.rider.edu" title="" class="menu__link">myRider</a></li>
+<li class="menu__item is-leaf leaf"><a href="/outcomes" class="menu__link">Recent Alumni Success Stories</a></li>
+<li class="menu__item is-leaf leaf"><a href="/support-rider" title="" class="menu__link">Support Rider</a></li>
+<li class="menu__item is-leaf leaf"><a href="http://rider.peopleadmin.com/" class="menu__link">Rider Jobs</a></li>
+<li class="menu__item is-leaf last leaf"><a href="/academics/colleges-schools/westminster-college-of-the-arts/westminster-conservatory-music" class="menu__link">Westminster Conservatory</a></li>
+</ul>    </div>
+  </div>
+</div>
+<div id="block-menu-menu-footer-4" class="block block-menu last even" role="navigation">
+
+    <h2 class="block__title block-title">Stay Informed</h2>
+  
+
+  <div class="content">
+    <div class="rider-block-content">
+      <ul class="menu"><li class="menu__item is-leaf first leaf"><a href="/updates" title="" class="menu__link">Campus Updates / Rider Alert</a></li>
+<li class="menu__item is-leaf leaf"><a href="/events" title="" class="menu__link">Events &amp; Performances</a></li>
+<li class="menu__item is-leaf leaf"><a href="/arts" title="" class="menu__link">The Arts at Rider</a></li>
+<li class="menu__item is-leaf leaf"><a href="/news" title="" class="menu__link">News</a></li>
+<li class="menu__item is-leaf leaf"><a href="/news/about-university-communications" class="menu__link">University Communications &amp; Marketing</a></li>
+<li class="menu__item is-leaf last leaf"><a href="/ridermagazine" title="" class="menu__link">Alumni Magazine</a></li>
+</ul>    </div>
+  </div>
+</div>
+  </div>
+			</div>
+		</div>
+				<div id="footer-wrapper">
+			<div role="contentinfo" id="globalfooter">
+		<div class="wrap clearfix">
+			<div id="footer-logo" class="foot-col">
+				<a href="/" id="foot-rider-logo-link"><img id="foot-rider-logo-img" width="226" alt="Rider University" src="/sites/all/modules/custom/rider_core/img/footer/logo_rider@2x.png"></a>
+			</div>
+			<div class="foot-col location">
+				<a href="/"><strong>Lawrenceville Campus</strong></a><br>
+				2083 Lawrenceville Road<br>
+				Lawrenceville, NJ 08648<br>
+				<br>
+				609-896-5000 <span>(Main)</span><br>
+				800-257-9026 <span>(Admissions)</span><br>
+				<a href="/">www.rider.edu</a>
+			</div>
+			<div class="foot-col location">
+				<a href="/wcc"><strong>Princeton Campus</strong></a><br>
+				101 Walnut Lane<br>
+				Princeton, NJ 08540<br>
+				<br>
+				609-921-7100 <span>(Main)</span><br>
+				800-962-4647 <span>(Admissions)</span><br>
+				<a href="/wcc">www.rider.edu/wcc</a>
+				<br><br>
+				<span>Home of</span><br>
+				<a href="/wcc" id="foot-wcc-logo-link"><img id="foot-wcc-logo-img" width="175" alt="Westminister Choir College" src="/sites/all/modules/custom/rider_core/img/footer/logo_wcc@2x.png"></a>
+			</div>
+			<div class="foot-col social-items">
+				<h2 class="hide">Find Rider University at</h2>
+					<ul id="social">
 					<li><a id="footer-facebook" href="http://www.facebook.com/RiderUniversity" target="_blank">Facebook</a></li>
 					<li><a id="footer-twitter" href="http://twitter.com/RiderUniversity" target="_blank">Twitter</a></li>
 					<li><a id="footer-youtube" href="http://www.youtube.com/RiderUniversityWeb" target="_blank">YouTube</a></li>
@@ -308,38 +574,35 @@ window.google_analytics_uacct = "UA-10880414-1";
 					<li><a id="footer-instagram" href="http://instagram.com/rider_university" target="_blank">Instagram</a></li>
 					</ul>
 			</div>
-
-			<div id="footer-locations">
-				<h2 class="hide">Locations</h2>
-
-				<div id="footer-lawrenceville">
-					<p><strong><a href="/">Lawrenceville Campus</a></strong><br>
-					2083 Lawrenceville Road<br>
-					Lawrenceville, NJ 08648</p>
-
-					<p>609-896-5000 <small>(Main)</small><br>
-					800-257-9026 <small>(Admissions)</small><br>
-					<a href="/">www.rider.edu</a></p>
-				</div>
-
-				<div id="footer-princeton">
-					<p><strong><a href="/wcc">Princeton Campus</a></strong><br>
-					101 Walnut Lane<br>
-					Princeton, NJ 08540</p>
-
-					<p>609-921-7100 <small>(Main)</small><br>
-					800-962-4647 <small>(Admissions)</small><br>
-					<a href="/wcc">www.rider.edu/wcc</a></p>
-
-					<div class="footer-wcc"><span>Home of </span><a href="/wcc"><img src="/sites/all/modules/rider/rider_core/footer/logo_wcc@2x.png" alt="Westminster Choir College" width="175" height="35"></a></div>
-				</div>
-			</div>
 		</div>
-		</div></div>
-
-
-
-
+	</div>
+<script type="text/javascript">
+adroll_adv_id = "YXXLLEZKVVDT3HE3D27DXK";
+adroll_pix_id = "Y36TLQN73FCT5PWK5WFMRI";
+(function () {
+var oldonload = window.onload;
+window.onload = function(){
+   __adroll_loaded=true;
+   var scr = document.createElement("script");
+   var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com");
+   scr.setAttribute('async', 'true');
+   scr.type = "text/javascript";
+   scr.src = host + "/j/roundtrip.js";
+   ((document.getElementsByTagName('head') || [null])[0] ||
+    document.getElementsByTagName('script')[0].parentNode).appendChild(scr);
+   if(oldonload){oldonload()}};
+}());
+</script>
+        <a id="totop" href="#top">Back to Top</a>
+		</div>
+			
+	</div>
+</div>
+  <script>da2a.targets=[
+{title:'Privacy Policy | Rider University',url:'http://www.rider.edu/privacy-policy'},
+{title:'Privacy Policy | Rider University',url:'http://www.rider.edu/privacy-policy'},
+{title:'Privacy Policy | Rider University',url:'http://www.rider.edu/privacy-policy'}];
+da2a.html_done=true;if(da2a.script_ready&&!da2a.done)da2a.init();da2a.script_load();</script>
 <!-- Google Code for Remarketing Tag -->
 		<!--------------------------------------------------
 		Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. See more information and instructions on how to setup the tag on: http://google.com/ads/remarketingsetup
@@ -353,14 +616,6 @@ window.google_analytics_uacct = "UA-10880414-1";
 		</script>
 		<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js"></script>
 		<noscript><div style="display:inline"><img height="1" width="1" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1062670749/?value=0&amp;guid=ON&amp;script=0"/></div></noscript>
-<script type="text/javascript">
-<!--//--><![CDATA[//><!--
-var _gaq = _gaq || [];_gaq.push(["_setAccount", "UA-10880414-1"]);var pluginUrl = '//www.google-analytics.com/plugins/ga/inpage_linkid.js';
-_gaq.push(['_require', 'inpage_linkid', pluginUrl]);
-_gaq.push(['_setDomainName', 'rider.edu']);
-_gaq.push(['_setAllowLinker', true]);_gaq.push(["_trackPageview"]);(function() {var ga = document.createElement("script");ga.type = "text/javascript";ga.async = true;ga.src = ("https:" == document.location.protocol ? "https://" : "http://") + "stats.g.doubleclick.net/dc.js";var s = document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ga, s);})();
-//--><!]]>
-</script>
 
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"5764d3277c","applicationID":"4959544","transactionName":"MQFUN0sCChFWB0BdCwhLdwBNCgsMGApbUAE5FFcEXDwSC1IT","queueTime":0,"applicationTime":577,"ttGuid":"","agentToken":"","atts":"HUZXQQMYGR8=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-632.min.js"}</script>
+
 </body></html>
