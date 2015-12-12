@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rustoleum.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315005950id_/http%3A//www.rustoleum.com/en/pages/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rustoleum.com privacy policy that was archived on 2015-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151212023116id_/http%3A//www.rustoleum.com/pages/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
