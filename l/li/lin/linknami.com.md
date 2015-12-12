@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the linknami.com privacy policy that was archived on 2015-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150418062012id_/http%3A//www.linknami.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linknami.com privacy policy that was archived on 2015-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151212192237id_/http%3A//www.linknami.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy - Linknami
 
