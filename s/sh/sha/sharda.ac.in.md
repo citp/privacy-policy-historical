@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sharda.ac.in privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626023327id_/http%3A//www.sharda.ac.in/privacy.aspx%3Fmpgid%3D146%26pgid%3D146) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sharda.ac.in privacy policy that was archived on 2015-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151213003642id_/http%3A//www.sharda.ac.in/privacy.aspx%3Fmpgid%3D146%26pgid%3D146) for the most accurate reproduction.*
 
 # Privacy Policy | Sharda University
 
