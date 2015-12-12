@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rom.on.ca privacy policy that was archived on 2015-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150613145121id_/http%3A//www.rom.on.ca/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rom.on.ca privacy policy that was archived on 2015-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151212182933id_/http%3A//www.rom.on.ca/en/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Royal Ontario Museum
 
@@ -18,18 +18,16 @@ The ROM may collect information in a non-identifying and aggregate form to enhan
 
 The ROM does not automatically gather your personal information. You may anonymously access our website. Personal information is only obtained if you supply it voluntarily when using our website, i.e. contacting us via e-mail, entering a contest, making a purchase, subscribing to our e-newsletter or registering for programs. In general, it will be obvious when the ROM is collecting your personal information because you will have to fill out a form.
 
-The ROM uses personal information in a limited number of ways, foremost to complete transactions, deliver the selected product or service and to respond to questions or comments. _The ROM will not sell or rent your personal information_. We may share your information in the following situations:
+The ROM uses personal information in a limited number of ways, foremost to complete transactions, deliver the selected product or service and to respond to questions or comments. The ROM will not sell or rent your personal information. We may share your information in the following situations:
 
   * To those suppliers or companies hired to deliver the ROM’s products or services, for example a shipping company that delivers a package.
-
   * In some instances, for example online registration for programs, visitors may be asked to submit credit card information for payment. Credit card transactions are managed by payment processing companies with whom the ROM has partnered. The ROM will not authorize these companies to use the information except for the express purpose for which it was provided.
 
 
 
+In certain circumstances, the ROM may use your contact information to inform you of other ROM products and services. In addition, you may be provided the opportunity to be informed of the products and services of affiliated organizations and other carefully selected cultural institutions. You will have an opportunity at the time we collect the information to indicate your preference for receiving additional information from the ROM and/or affiliated organizations, and where applicable, for inclusion in information exchanges with other cultural institutions. If you do not wish to have your information used for these or other identified purposes, tell us and we will respect your wishes. The ROM will seek to require that such affiliated organizations and/or cultural organizations maintain appropriate privacy policies.
 
-In certain circumstances, the ROM may use your contact information to inform you of other ROM products and services. In addition, you may be provided the opportunity to be informed of the products and services of affiliated organizations and other carefully selected cultural institutions. You will have an opportunity at the time we collect the information to indicate your preference for receiving additional information from the ROM and/or affiliated organizations, and where applicable, for inclusion in information exchanges with other cultural institutions. _If you do not wish to have your information used for these or other identified purposes, tell us and we will respect your wishes_. The ROM will seek to require that such affiliated organizations and/or cultural organizations maintain appropriate privacy policies.
-
-All personal information you provide is protected under the Government of Ontario’s _Freedom of Information and Protection of Privacy Act_.
+All personal information you provide is protected under the Government of Ontario’s  _Freedom of Information and Protection of Privacy Act_.
 
 ###  Security
 
@@ -41,20 +39,11 @@ Children should use the ROM’s website with the approval of a parent or guardia
 
 ###  Information collected by technology
 
-The nature of the Internet requires specific information to be exchanged between a Web visitor/user and the ROM’s website. The information collected does not identify you personally and includes:
+To better server you and improve the visitor experience on our website, the ROM’s website collects some information about our visitors and uses web analytics services including Google Analytics. These tools use cookies to anonymously collect and generate information about your visit to our sites (including your IP address). This information may be used by the ROM to identify system problems and monitor network traffic. No personal information is collected through these tools that would allow the ROM or our service provider to indentify individuals.
 
-  * Your IP (Internet protocol) address, a number automatically assigned to your computer when you visit the website.
-  * Your Internet Service Provider (ISP).
-  * Your type of operating system (Windows, Macintosh etc).
-  * Your Web browser (Netscape, Internet Explorer etc.).
+Your Web browser can be set to detect or reject cookies.  Instructions can be found in your browsers help menu. Some parts of the ROM website may run slower if cookies are disabled. 
 
-
-
-This information is used by the ROM as an administrative tool for identifying system problems and monitoring network traffic. The ROM does not attempt to link this information with the identity of the individual visiting our website, except when necessary to protect our service, site, visitors, or others.
-
-Parts of the ROM’s website use cookies. Cookies facilitate the exchange of information from your Web browser to our Web server. Cookies enable you to use our online registration service and can tell us how you navigate within our site, which facilitates the improvement of the site based on user-activity trends. The ROM does not use cookies to obtain any personal information about you, including contact information. Your Web browser can be set to detect or reject cookies. However, note that some parts of the ROM website will not function properly or may be slower if you refuse cookies.
-
-The ROM may use third parties to collect conversion tracking data and/or data for remarketing purposes (for example, tailored ads). This is for advertising purposes only. All data is anonymous: you will not be personally identified through this data and the ROM does not see any data or contact information on an individual level. These third parties may include, but may not be limited to, Facebook and/or Twitter. These services recommend that if you wish to limit access to this data as much as possible, enable Do Not Track (DNT) in your browser,  and/or opt-out of  tailored ads in your account settings, and/or adjust your privacy controls in each account.
+The ROM may use third parties to collect conversion tracking data and/or data for remarketing purposes (for example, tailored ads). This is for advertising purposes only. All data is anonymous: you will not be personally identified through this data and the ROM does not see any data or contact information on an individual level. These third parties may include, but may not be limited to, Facebook and/or Twitter. These services recommend that if you wish to limit access to this data as much as possible, enable Do Not Track (DNT) in your browser, and/or opt-out of  tailored ads in your account settings, and/or adjust your privacy controls in each account.
 
 ##  Additional Information
 
@@ -67,6 +56,6 @@ Toronto, ON
 M5S 2C6
 
 Tel: 416.586.5868  
-E-mail: [jmpoon@rom.on.ca](mailto:dianes@rom.on.ca)
+E-mail:  **[jmpoon@rom.on.ca](mailto:dianes@rom.on.ca)**
 
-The ROM is accountable for its privacy practices on this website. If you are not satisfied with our response to your privacy concerns, you may wish to contact the Information and Privacy Commissioner of Ontario (e-mail: [info@ipc.on.ca](mailto:info@ipc.on.ca) and telephone: 1.800.387.0073).
+The ROM is accountable for its privacy practices on this website. If you are not satisfied with our response to your privacy concerns, you may wish to contact the Information and Privacy Commissioner of Ontario (e-mail: [ **info@ipc.on.ca**](mailto:info@ipc.on.ca) and telephone: 1.800.387.0073).
