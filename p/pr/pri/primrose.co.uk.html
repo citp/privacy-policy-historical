@@ -1,0 +1,2075 @@
+<!--The following is the downloaded HTML source of the primrose.co.uk privacy policy that was archived on 2015-12-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151212081829id_/http%3A//www.primrose.co.uk/privacy.php%3Fsrc%3Dfooter) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html dir="ltr" lang="en" xmlns:fb="http://ogp.me/ns/fb#"><head><script type="text/javascript" async="" src="https://vmss.boldchat.com/aid/6711119041261025017/bc.vms4/vms.js"></script><script type="text/javascript" async="" src="https://www.googlecommerce.com/trustedstores/api/js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-TB2V"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VwABVl5SGwAAV1RbAAE="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),u=c.length,f=i(a,o,r),d=0;u>d;d++)c[d].apply(f,n);return f}function a(t,e){u[t]=s(t).concat(e)}function s(t){return u[t]||[]}function c(){return n(e)}var u={};return{on:a,emit:e,create:c,listeners:s,_events:u}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(u){try{r("ierr",[u,(new Date).getTime(),!0])}catch(f){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(5),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,window.onerror=e;try{throw new Error}catch(u){"stack"in u&&(t(3),t(4),"addEventListener"in window&&t(1),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(2),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:4,2:7,3:6,4:5,5:20,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],4:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:20,2:21,ee:"QJf3ax",gos:"7eSDFh"}],5:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:21,2:20,ee:"QJf3ax"}],6:[function(t,e){function n(t,e,n){var r=t[0];"string"==typeof r&&(r=new Function(r)),t[0]=o(r,"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:21,2:20,ee:"QJf3ax"}],7:[function(t,e){function n(){c.inPlace(this,d,"fn-")}function r(t,e){c.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}var i=t("ee").create(),a=t(1),s=t(2),c=s(i),u=s(a),f=window.XMLHttpRequest,d=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=i,window.XMLHttpRequest=function(t){var e=new f(t);try{i.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",function(t,e){return e}),e.addEventListener("readystatechange",n,!1)}catch(r){try{i.emit("internal-error",[r])}catch(o){}}return e},window.XMLHttpRequest.prototype=f.prototype,c.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),i.on("send-xhr-start",r),i.on("open-xhr-start",r)},{1:4,2:21,ee:"QJf3ax"}],8:[function(t){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,u="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(u);if(f&&(r.rxSize=f),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(n.cat=d.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r,this.startTime])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,u=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var u=e(o);u&&(r.txSize=u)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",[e])}catch(r){}}};for(var f=0;c>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:9,3:7,4:4,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],9:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],10:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","trackUserAction","finished","traceEvent","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:19,2:20,handle:"D5DuLP"}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],G9z0Bl:[function(t,e){function n(){var t=l.info=NREUM.info;if(t&&t.licenseKey&&t.applicationID&&u&&u.body){s(h,function(e,n){e in t||(t[e]=n)}),l.proto="https"===p.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=u.createElement("script");e.src=l.proto+t.agent,u.body.appendChild(e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=(t(2),window),u=c.document,f="addEventListener",d="attachEvent",p=(""+location).split("?")[0],h={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-536.min.js"},l=e.exports={offset:i(),origin:p,features:{}};u[f]?(u[f]("DOMContentLoaded",o,!1),c[f]("load",n,!1)):(u[d]("onreadystatechange",r),c[d]("onload",n)),a("mark",["firstbyte",i()])},{1:19,2:10,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],19:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],20:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],21:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,u;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){f([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return u=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,u],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,u(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,u="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,u?s+o:o,i,s,t))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){f([o,e,n,r])}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){f([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function f(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:20,ee:"QJf3ax"}]},{},["G9z0Bl",3,8]);</script>
+
+    <base href="http://www.primrose.co.uk/">
+    <script src="//cdn.optimizely.com/js/6072097.js"></script>
+    <link rel="shortcut icon" href="/favicon.ico">
+    <title> Primrose Privacy Policy </title>
+
+
+            <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+            <meta name="keywords" content="primrose, privacy">
+                    <meta name="description" content="Find out the full information on how we use and store your details for deliveries and advertising at Primrose.">
+                    <link rel="canonical" href="http://www.primrose.co.uk/privacy.php">
+            
+
+        <link rel="stylesheet" type="text/css" href="normal.css?_=20151208">
+                                            <link rel="stylesheet" type="text/css" href="styles/review_blogs_guides.css">
+                                    
+
+    </head>
+<body class=" layout--tables">
+
+
+        <!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-TB2V"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-TB2V');</script>
+<!-- End Google Tag Manager -->
+
+<!-- FB Like JS SDK code -->
+<!--    <div id="fb-root"></div>
+      <script type="text/javascript" async>
+          /*<![CDATA[*/
+          (function(d, s, id) {
+          var js, fjs = d.getElementsByTagName(s)[0];
+          if (d.getElementById(id)) return;
+          js = d.createElement(s); js.id = id;
+          js.src = "//connect.facebook.net/en_GB/all.js#xfbml=1&appId=404466569609492";
+          js.async = "async";
+          fjs.parentNode.insertBefore(js, fjs);
+          }(document, 'script', 'facebook-jssdk'));
+          /*]]>*/
+      </script>
+  --><script src="http://www.google.com/jsapi" type="text/javascript"></script>
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.5.2/jquery.min.js"></script>
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.2/jquery-ui.min.js"></script>
+
+<link rel="stylesheet" href="/js/pz-js/supermenu.3733cdb5.css" type="text/css">
+<script src="/includes_shared/module_boxes/js/jquery.hoverIntent.min.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+var menu_wide = 250;
+var menu_large = 500;
+var default_hide = false
+
+$(document).ready(function(){
+  $('#nav_menu_btn').click(function(){
+    $('#nav_menu_drop').slideToggle("fast", function(){
+      $(this).parent('#nav_menu').toggleClass('selected');
+    });
+  });
+
+  //Hide menu when anything else is clicked
+	$('html').click(function() {
+		$('#nav_menu_drop').slideUp();
+		$('#nav_menu').removeClass('selected');
+	});
+	//Ignore button from above
+	$('#nav_menu').click(function(event){
+	    event.stopPropagation();
+	});
+});
+
+</script>
+
+<script src="/js/pz-js/" type="text/javascript"></script><form method="post" action="/privacy.php?src=footer">
+  <input type="hidden" value="large" name="page_style">
+</form>
+
+
+
+
+
+
+
+
+<div id="siteHeader">
+
+    <div class="rowBackground">
+        <div class="responsiveContainer">
+            <div id="nav_menu">
+              <div id="nav_menu_btn">
+                <div id="burger_icon"></div>
+              </div>
+              <div id="nav_menu_drop" style="display: none;">
+                <a class="nav_menu_drop-home" href="/?src=m_nav">Home</a>
+                <a class="nav_menu_drop-basket" href="basket.mvc?src=m_nav">Your Basket</a>
+                <a class="nav_menu_drop-search" href="search.mvc?src=m_nav">Search</a>
+                <a class="nav_menu_drop-contact" href="contact_us.php?src=m_nav">Contact Us</a>
+                <a class="nav_menu_drop-delivery" href="delivery.php?src=m_nav">Delivery &amp; Returns</a>
+                                    <a class="nav_menu_drop-login" href="account.mvc/login?src=m_nav">Log In</a>
+                                </div>
+            </div>
+
+            <a class="logo_m" href="/?src=logo_m">
+              <img src="images/prim_siteHeader_logotext.png" alt="Primrose - everything garden">
+            </a>
+
+            <div id="HeaderTopRight">
+              <div id="HeaderTopRight_contact">
+                              <a class="top_mini_navlink" href="http://www.primrose.co.uk/account.mvc/login?src=header" rel="noindex" style="margin-left:0px;">
+                  Log In
+                </a>
+                                <a class="top_mini_navlink" href="/about_us.php?src=header">About Us</a><a class="top_mini_navlink" href="/media.php?src=header">TV</a>
+                <span class="top_mini_navlink">
+      <!-- BoldChat Live Chat Button HTML v5.00 (Type=HTML,ChatWindow=Primrose.co.uk,Department=UK CS,Website=Primrose.co.uk) -->
+      <script type="text/javascript">
+        var bccbId = Math.random(); document.write(unescape('%3Cdiv id=' + bccbId + '%3E%3C/div%3E'));
+        window._bcvma = window._bcvma || [];
+        _bcvma.push(["setAccountID", "6711119041261025017"]);
+        _bcvma.push(["setParameter", "WebsiteID", "3761965485514772984"]);
+        _bcvma.push(["setParameter", "CustomUrl", ""])
+        _bcvma.push(["setParameter", "WindowParameters", "vr=&vi=&ve=&vp=&vn=&lc="])
+        _bcvma.push(["addText", {type: "chat", department: "2746996629078589204", window: "8536351946110624837", available: "Chat Live", unavailable: "", id: bccbId}]);
+        var bcLoad = function(){
+          if(window.bcLoaded) return; window.bcLoaded = true;
+          var vms = document.createElement("script"); vms.type = "text/javascript"; vms.async = true;
+          vms.src = ('https:'==document.location.protocol?'https://':'http://') + "vmss.boldchat.com/aid/6711119041261025017/bc.vms4/vms.js";
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(vms, s);
+        };
+        if(window.pageViewer && pageViewer.load) pageViewer.load();
+        else if(document.readyState=="complete") bcLoad();
+        else if(window.addEventListener) window.addEventListener('load', bcLoad, false);
+        else window.attachEvent('onload', bcLoad);
+      </script><div id="0.2049434502066687"></div>
+      <!-- /BoldChat Live Chat Button HTML v5.00 --><!-- freshchat disabled -->
+                </span>
+                
+                <!-- CS Phone Number -->
+                <a id="header_phone_number" href="/contact_us.php?src=telephoneheader">
+                  0118 903 5210                </a>
+              </div>
+
+              <div id="HeaderTopRight_icons">
+                <!-- Review Count -->
+                                                <a id="review_count_header" href="a-selection-of-product-reviews.php?src=reviewsheader">
+                  <span>128k</span>
+                </a>
+                
+                <!-- Facebook Like -->
+                <div id="facebook_header">
+                  <!--                    <div class="fb-like" data-href="https://www.facebook.com/Primrose.co.uk" data-layout="button_count"
+                      data-action="like" data-show-faces="false" data-share="false">
+                    </div>
+                  -->                </div>
+
+                <!-- AMAZON checkout -->
+                                <script type="text/javascript">
+                  /*<![CDATA[*/
+                  $(document).ready(function() {
+                    $('#amazon_checkout_header').click(function(e){
+                      e.preventDefault();
+                      url = $(this).attr('href');
+                      window.open(url,"Amazon Checkout Information",'width=450,height=500,left=100,top=50,scrollbars=1');
+                    });
+                  });
+                  /*]]>*/
+                </script>
+                
+                <div style="clear:both;"></div>
+                                <a class="amazon_checkout_header" id="amazon_checkout_header_1" href="/basket.mvc/amazon/info?src=amazon_header" target="_blank">
+                </a>
+                
+                <!-- PayPal -->
+                <a id="paypal_checkout_header" href="http://www.primrose.co.uk/help.php?src=paypal_icon_header#howtopay">
+                </a>
+
+                <!-- MasterCard Visa -->
+                <a id="creditcard_checkout_header" href="http://www.primrose.co.uk/help.php?src=ccard_icon_header#howtopay">
+                </a>
+              </div>
+            </div>
+            <!-- End of Top Right Header -->
+
+            <div class="logoLink" itemscope="" itemtype="http://schema.org/Organization">
+                <a href="/?src=logo" itemprop="url">
+                    <img alt="Primrose" itemprop="logo" src="/images/primrose_co_uk_logo.png" style="height:120px; width:120px;" title="Primrose">
+                    </a>
+                <span class="handwritten TextGreen" style="font-size:1.2em; cursor:default"> everything garden </span>
+                </div>
+
+            <div class="bannerWrap">
+                                    <a href="/delivery.php#returns" target="_blank" title="2 year warranty and 60 days to return">
+                        <img alt="2 year warranty and 60 days to return" src="/images/2_year_60_days_header_banner_nostar_3.png">
+                        </a>
+                                                        <a href="http://www.primrose.co.uk/delivery.php?src=top_banner">
+                        <img alt="Same day dispatch on most items. Check product description" src="/images/same_day_banner_lineUnder.png">
+                        </a>
+                                    </div>
+            </div>         </div> <!-- End of .rowBackground -->
+
+    <div class="rowSearch clearfix navigationBackground">
+        <div class="responsiveContainer">
+            <div class="searchFieldWrap">
+                <script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js" type="text/javascript"></script>
+<script type="text/javascript">
+    var primroseFramework147 = window.primroseFramework147 || {};
+    primroseFramework147.jquery = $.noConflict( true );
+</script>
+
+
+<script type="text/javascript">
+    window.flat_suggest = true;
+    </script>
+
+<link href="/js/pz-js/suggest.bd72cf61.css" rel="stylesheet">
+<script src="/js/pz-js/suggest.920acb76.js" type="text/javascript"></script>
+
+
+<script type="text/javascript">
+    $( function() {
+        primroseFramework147.search.init( {
+            getURI              : "/search.mvc/ajax/suggest/",
+            outputElement       : ".response",
+            searchInputElement  : ".search",
+            wholeSearchWrapper  : "#searchForm"
+            } );
+        } );
+    </script>
+
+<form accept-charset="UTF-8" action="/search.mvc" id="searchForm" method="GET">
+    <input name="pz_enc" type="hidden" value="l">
+
+    
+    <input class="submit smallSubmit" type="submit" value="">
+    <input class="submit largeSubmit" type="submit" value="Search">
+
+    <div class="searchAndSuggest">
+        <div class="chipAndInput">
+            
+            <div class="tfWrap">
+                <input autocomplete="off" class="search" name="search_term" placeholder="Water Features, Plants, Greenhouses..." type="search">
+                </div>
+            </div>
+        <div class="response"></div>
+        </div>
+</form>
+                </div>
+
+                            <div id="view_basket_container">
+                    <a rel="noindex" href="http://www.primrose.co.uk/shopping_cart.php?src=view_basket_header" class="infoButton" id="view_basket">
+                        <span class="basketText">Your Basket</span>
+                                                    <img src="images/shopping_cart_webshop_default.png" alt="">
+                                                </a>
+                    </div>
+                            <div id="headingTopBarNavLinks">
+                <a href="http://www.primrose.co.uk/contact_us.php?src=topbar" class="headerNavigation">Contact Us                    </a>
+                <a href="http://www.primrose.co.uk/delivery.php?src=topbar" class="headerNavigation">Delivery &amp; Returns                    </a>
+                </div>
+            </div>
+        </div>
+
+    <div class="subnavBackground" id="headingTopTabsContainer">
+        <div class="responsiveContainer">
+            
+    <ul class="subNav">
+      <li class="Everything_List_Header subHeadingNav" id="subHeadingNav-everything">
+          <a href="/?src=top_link">
+            <!--<img class="home_button" src="images/home_icon.png" alt="Home">-->
+            &nbsp;All Categories          </a>
+                    <ul class="subNav_list" id="subNav_list-everything">
+            <div class="subNavArrowUp"></div>
+            
+    <div class="everythingSection everythingSection_aboutUs">
+        <a href="about_us.php?src=toplink_eftg">
+            <img alt="Primrose" src="product_thumb.php?img=images/wf7003CUTOUTsml.jpg&amp;w=75&amp;h=110" style="float:right;">
+            <span class="sectionTitle">About Us</span>
+            <span style="font-style:italic; color:#999">The biggest range at the best prices for your home and garden</span>
+            </a>
+
+                  <br>
+          <br>
+          <a href="a-selection-of-product-reviews.php?src=eftg" style="display:block; margin:0 auto; width:130px; text-align:center; margin-bottom:23px;">
+            Testimonials:
+            <br>
+            <img src="/images/feefo-images/1.ohgFeefo5.png">          </a>
+                <span style="font-size:0.8em;color:#666;">Visit our other sites:</span>
+        <a class="everythingSection_othersites" href="http://www.primrose-awnings.co.uk?src=supermenu_eftg_prim-lon" target="_blank">
+            <img src="product_thumb.php?img=images/awnings_logo_green.png&amp;w=30&amp;h=30" alt="Primrose Awnings logo">
+            <span style="font-size:0.8em;">Primrose Awnings</span>
+            </a>
+        <a class="everythingSection_othersites" href="http://www.primrose-marquees.co.uk?src=supermenu_eftg_prim-lon" target="_blank">
+            <img src="product_thumb.php?img=images/primroseMarquees_logo.png&amp;w=30&amp;h=30" alt="Primrose Marquees logo">
+            <span style="font-size:0.8em;">Primrose Marquees</span>
+            </a>
+                    </div>
+
+    <div class="everythingSection">
+      <span class="sectionTitle">Grow in your garden</span>
+      <ul><li><a href="http://www.primrose.co.uk/greenhouses-c-696.html?src=toplink_eftg">Greenhouses</a></li><li><a href="http://www.primrose.co.uk/plants-c-7767_4561.html?src=toplink_eftg">Plants</a></li><li><a href="http://www.primrose.co.uk/trees-c-7767_7660.html?src=toplink_eftg">Trees</a></li><li><a href="http://www.primrose.co.uk/flower-bulbs-c-5605.html?src=toplink_eftg">Flower Bulbs</a></li><li><a href="http://www.primrose.co.uk/grow-your-own-c-734.html?src=toplink_eftg">Grow Your Own</a></li><li><a href="http://www.primrose.co.uk/compost-bins-c-38.html?src=toplink_eftg">Compost Bins</a></li><li><a href="http://www.primrose.co.uk/tools-and-equipment-c-32.html?src=toplink_eftg">Tools and Equipment</a></li><li><a href="http://www.primrose.co.uk/planters-c-2.html?src=toplink_eftg">Planters</a></li><li><a href="http://www.primrose.co.uk/watering-and-irrigation-c-32_967.html?src=toplink_eftg">Watering and Irrigation</a></li></ul></div><div class="everythingSection">
+      <span class="sectionTitle">Build in your garden</span>
+      <ul><li><a href="http://www.primrose.co.uk/garden-buildings-c-2714.html?src=toplink_eftg">Garden Buildings</a></li><li><a href="http://www.primrose.co.uk/garden-bridges-c-53.html?src=toplink_eftg">Garden Bridges</a></li><li><a href="http://www.primrose.co.uk/canopies-c-1153.html?src=toplink_eftg">Canopies</a></li><li><a href="http://www.primrose.co.uk/fencing-c-3155.html?src=toplink_eftg">Fencing</a></li><li><a href="http://www.primrose.co.uk/garden-screening-c-318.html?src=toplink_eftg">Garden Screening</a></li><li><a href="http://www.primrose.co.uk/willow-hazel-hurdles-c-65.html?src=toplink_eftg">Willow &amp; Hazel Hurdles</a></li><li><a href="http://www.primrose.co.uk/lawn-edging-c-66.html?src=toplink_eftg">Lawn Edging</a></li><li><a href="http://www.primrose-awnings.co.uk?src=prim_toplink_eftg" target="_blank">Patio Awnings</a></li><li><a href="http://www.primrose-marquees.co.uk?src=prim_toplink_eftg" target="_blank">Marquees and Party Tents</a></li></ul></div><div class="everythingSection">
+      <span class="sectionTitle">Entertain in your garden</span>
+      <ul><li><a href="http://www.primrose.co.uk/bbq-c-2035.html?src=toplink_eftg">BBQ</a></li><li><a href="http://www.primrose.co.uk/led-battery-candles-c-1208.html?src=toplink_eftg">LED Battery Candles</a></li><li><a href="http://www.primrose.co.uk/outdoor-heating-c-1299.html?src=toplink_eftg">Outdoor Heating</a></li><li><a href="http://www.primrose.co.uk/garden-furniture-c-3238.html?src=toplink_eftg">Garden Furniture</a></li><li><a href="http://www.primrose.co.uk/gazebos-c-4708.html?src=toplink_eftg">Gazebos</a></li><li><a href="http://www.primrose.co.uk/garden-lighting-c-28.html?src=toplink_eftg">Garden Lighting</a></li><li><a href="http://www.primrose-marquees.co.uk?src=prim_toplink_eftg" target="_blank">Marquees and Party Tents</a></li></ul></div><div class="everythingSection">
+      <span class="sectionTitle">Relax in your garden</span>
+      <ul><li><a href="http://www.primrose.co.uk/sail-shades-c-85.html?src=toplink_eftg">Sail Shades</a></li><li><a href="http://www.primrose.co.uk/water-features-c-1.html?src=toplink_eftg">Water Features</a></li><li><a href="http://www.primrose.co.uk/garden-mirrors-c-83.html?src=toplink_eftg">Garden Mirrors</a></li><li><a href="http://www.primrose.co.uk/outdoor-clocks-c-136.html?src=toplink_eftg">Outdoor Clocks</a></li><li><a href="http://www.primrose.co.uk/statues-garden-art-ornaments-c-43.html?src=toplink_eftg">Statues, Garden Art &amp; Ornaments</a></li><li><a href="http://www.primrose-awnings.co.uk?src=prim_toplink_eftg" target="_blank">Patio Awnings</a></li></ul></div><div class="everythingSection">
+      <span class="sectionTitle">Wildlife in your garden</span>
+      <ul><li><a href="http://www.primrose.co.uk/wild-bird-care-c-1191.html?src=toplink_eftg">Wild Bird Care</a></li><li><a href="http://www.primrose.co.uk/bird-baths-c-1_134.html?src=toplink_eftg">Bird Baths</a></li><li><a href="http://www.primrose.co.uk/pond-care-accessories-c-22_9139.html?src=toplink_eftg">Pond Care &amp; Accessories</a></li><li><a href="http://www.primrose.co.uk/view-all-pond-oxygenators-c-22_9139_2311.html?src=toplink_eftg">View All Pond Oxygenators</a></li><li><a href="http://www.primrose.co.uk/pond-plants-c-7767_4561_4632_4667.html?src=toplink_eftg">Pond Plants</a></li><li><a href="http://www.primrose.co.uk/pest-control-c-24.html?src=toplink_eftg">Pest Control</a></li></ul></div><div class="everythingSection">
+      <span class="sectionTitle">When you're not in your garden</span>
+      <ul><li><a href="http://www.primrose.co.uk/heated-gloves-clothing-c-37.html?src=toplink_eftg">Heated Gloves &amp; Clothing</a></li><li><a href="http://www.primrose.co.uk/indoor-clocks-c-721.html?src=toplink_eftg">Indoor Clocks</a></li><li><a href="http://www.primrose.co.uk/solar-blinds-c-664.html?src=toplink_eftg">Solar Blinds</a></li><li><a href="http://www.primrose.co.uk/window-films-c-751.html?src=toplink_eftg">Window Films</a></li><li><a href="http://www.primrose.co.uk/gardening-gifts-c-3.html?src=toplink_eftg">Gardening Gifts</a></li><li><a href="http://www.primrose.co.uk/cast-iron-doormats-and-accessories-c-64.html?src=toplink_eftg">Cast Iron Doormats and Accessories</a></li><li><a href="http://www.primrose.co.uk/cast-iron-umbrella-stands-c-979.html?src=toplink_eftg">Cast Iron Umbrella Stands</a></li><li><a href="http://www.primrose.co.uk/exshowroom-discontinued-damaged-stock-c-520.html?src=toplink_eftg">Ex-showroom/ Discontinued/ Damaged Stock</a></li><li><a class="TextRed" href="specials.php?src=toplink_eftg">Special Offers</a></li></ul></div>          </ul>
+                </li>
+
+      <li class="subHeadingNav orangeHighlighter" id="subHeadingNav-37">
+                   <a class="SuperListHeader" href="http://www.primrose.co.uk/heated-gloves-clothing-c-37.html?src=top_link">
+                      Heated Clothing
+                   </a>
+                   <ul class="subNav_list" id="subNav_list-37">
+      <div class="subNavArrowUp"></div>
+        <li>
+            <a href="http://www.primrose.co.uk/heated-gloves-clothing-c-37.html?src=supermenu_hc" class="headLink">View all Heated Clothing</a>
+            </li>
+        <li>
+            <a href="http://www.primrose.co.uk/heated-gloves-mittens-liners-c-37_1189.html?src=supermenu_hc" class="spriteLink c1189">Heated Gloves, Mittens &amp; Liners</a>
+            </li>
+        <li>
+            <a href="http://www.primrose.co.uk/heated-socks-insoles-slippers-c-37_1263.html?src=supermenu_hc" class="spriteLink c1263">Heated Socks, Insoles &amp; Slippers</a>
+            </li>
+        <li>
+            <a href="http://www.primrose.co.uk/heated-gilets-jackets-c-37_753.html?src=supermenu_hc" class="spriteLink c753">Heated Gilets &amp; Jackets</a>
+            </li>
+        <li>
+            <a href="http://www.primrose.co.uk/heated-scarves-warmers-c-37_3515.html?src=supermenu_hc" class="spriteLink c3515">Heated Scarves &amp; Warmers</a>
+            </li>
+        <li>
+            <a href="http://www.primrose.co.uk/dual-fuel-heated-clothing-c-37_10473.html?src=supermenu_hc" class="spriteLink c10473">Dual Fuel Heated Clothing</a>
+            </li>
+        <li>
+            <a href="http://www.primrose.co.uk/warmawear-c-37_1192.html?src=supermenu_hc" class="spriteLink c1192">Warmawear</a>
+            </li>
+        <li>
+            <a href="http://www.primrose.co.uk/heated-gloves-clothing-c-37.html?src=supermenu_hc_btm" class="viewAll">View all categories</a>
+            </li>
+    </ul>
+              </li><li class="subHeadingNav " id="subHeadingNav-1299">
+                   <a class="SuperListHeader" href="http://www.primrose.co.uk/outdoor-heating-c-1299.html?src=top_link">
+                      Outdoor Heating
+                   </a>
+                   <ul class="subNav_list" id="subNav_list-1299">
+      <div class="subNavArrowUp"></div>
+        <li>
+            <a href="http://www.primrose.co.uk/outdoor-heating-c-1299.html?src=supermenu_oh" class="headLink">View all Outdoor Heating</a>
+            </li>
+        <li>
+            <a href="http://www.primrose.co.uk/patio-heaters-c-1299_1300.html?src=supermenu_oh" class="spriteLink c1300">Patio Heaters</a>
+            </li>
+        <li>
+            <a href="http://www.primrose.co.uk/electric-patio-heaters-c-1299_1300_10433.html?src=supermenu_oh" class="spriteLink c10433">Electric Patio Heaters</a>
+            </li>
+        <li>
+            <a href="http://www.primrose.co.uk/gas-patio-heaters-c-1299_1300_5556.html?src=supermenu_oh" class="spriteLink c5556">Gas Patio Heaters</a>
+            </li>
+        <li>
+            <a href="http://www.primrose.co.uk/fire-bowls-pits-baskets-and-braziers-c-1299_87.html?src=supermenu_oh" class="spriteLink c87">Fire Bowls, Pits, Baskets, and Braziers</a>
+            </li>
+        <li>
+            <a href="http://www.primrose.co.uk/chimineas-c-1299_1169.html?src=supermenu_oh" class="spriteLink c1169">Chimineas</a>
+            </li>
+        <li>
+            <a href="http://www.primrose.co.uk/outdoor-fireplaces-c-1299_1186.html?src=supermenu_oh" class="spriteLink c1186">Outdoor Fireplaces</a>
+            </li>
+        <li>
+            <a href="http://www.primrose.co.uk/outdoor-heating-c-1299.html?src=supermenu_oh_btm" class="viewAll">View all categories</a>
+            </li>
+    </ul>
+              </li><li class="subHeadingNav " id="subHeadingNav-318">
+                   <a class="SuperListHeader" href="http://www.primrose.co.uk/garden-screening-c-318.html?src=top_link">
+                      Garden Screening
+                   </a>
+                   <ul class="subNav_list" id="subNav_list-318">
+      <div class="subNavArrowUp"></div>
+        <li>
+            <a href="http://www.primrose.co.uk/garden-screening-c-318.html?src=supermenu_screen" class="headLink">View all Garden Screening</a>
+            </li>
+        <li>
+            <a href="http://www.primrose.co.uk/willow-screening-c-318_67.html?src=supermenu_screen" class="spriteLink c67">Willow Screening</a>
+            </li>
+        <li>
+            <a href="http://www.primrose.co.uk/bamboo-cane-screening-c-318_319.html?src=supermenu_screen" class="spriteLink c319">Bamboo Cane Screening</a>
+            </li>
+        <li>
+            <a href="http://www.primrose.co.uk/thick-bamboo-screening-c-318_1376.html?src=supermenu_screen" class="spriteLink c1376">Thick Bamboo Screening</a>
+            </li>
+        <li>
+            <a href="http://www.primrose.co.uk/brushwood-screening-c-318_317.html?src=supermenu_screen" class="spriteLink c317">Brushwood Screening</a>
+            </li>
+        <li>
+            <a href="http://www.primrose.co.uk/reed-screening-c-318_320.html?src=supermenu_screen" class="spriteLink c320">Reed Screening</a>
+            </li>
+        <li>
+            <a href="http://www.primrose.co.uk/fern-screening-c-318_321.html?src=supermenu_screen" class="spriteLink c321">Fern Screening</a>
+            </li>
+        <li>
+            <a href="http://www.primrose.co.uk/bark-screening-c-318_372.html?src=supermenu_screen" class="spriteLink c372">Bark Screening</a>
+            </li>
+        <li>
+            <a href="http://www.primrose.co.uk/artificial-screening-c-318_2315.html?src=supermenu_screen" class="spriteLink c2315">Artificial Screening</a>
+            </li>
+        <li>
+            <a href="http://www.primrose.co.uk/willow-hazel-hurdles-c-65.html?src=supermenu_screen" class="spriteLink c65">Willow &amp; Hazel Hurdles</a>
+            </li>
+        <li>
+            <a href="http://www.primrose.co.uk/garden-screening-c-318.html?src=supermenu_screen_btm" class="viewAll">View all categories</a>
+            </li>
+    </ul>
+              </li><li class="subHeadingNav " id="subHeadingNav-3">
+                   <a class="SuperListHeader" href="http://www.primrose.co.uk/gardening-gifts-c-3.html?src=top_link">
+                      Gardening Gifts
+                   </a>
+                   <ul class="subNav_list" id="subNav_list-3">
+      <div class="subNavArrowUp"></div>
+        <li>
+            <a href="http://www.primrose.co.uk/gardening-gifts-c-3.html?src=supermenu_gg" class="headLink">View all Gardening Gifts</a>
+            </li>
+        <li>
+            <a href="http://www.primrose.co.uk/gifts-for-her-c-3_13.html?src=supermenu_gg" class="spriteLink c13">Gifts For Her</a>
+            </li>
+        <li>
+            <a href="http://www.primrose.co.uk/gifts-for-him-c-3_10.html?src=supermenu_gg" class="spriteLink c10">Gifts For Him</a>
+            </li>
+        <li>
+            <a href="http://www.primrose.co.uk/outdoor-gifts-c-3_1895.html?src=supermenu_gg" class="spriteLink c1895">Outdoor Gifts</a>
+            </li>
+        <li>
+            <a href="http://www.primrose.co.uk/make-personal-c-3_9569.html?src=supermenu_gg" class="spriteLink c9569">Make It Personal</a>
+            </li>
+        <li>
+            <a href="http://www.primrose.co.uk/gifts-under-25-c-3_14.html?src=supermenu_gg" class="spriteLink c14">Gifts Under £25</a>
+            </li>
+        <li>
+            <a href="http://www.primrose.co.uk/gifts-under-50-c-3_11.html?src=supermenu_gg" class="spriteLink c11">Gifts Under £50</a>
+            </li>
+        <li>
+            <a href="http://www.primrose.co.uk/gardening-gifts-c-3.html?src=supermenu_gg_btm" class="viewAll">View all categories</a>
+            </li>
+    </ul>
+              </li><li class="subHeadingNav " id="subHeadingNav-1">
+                   <a class="SuperListHeader" href="http://www.primrose.co.uk/water-features-c-1.html?src=top_link">
+                      Water Features
+                   </a>
+                   <ul class="subNav_list" id="subNav_list-1">
+      <div class="subNavArrowUp"></div>
+        <li>
+            <a href="http://www.primrose.co.uk/water-features-c-1.html?src=supermenu_wf" class="headLink">View all Water Features</a>
+            </li>
+        <li>
+            <a href="http://www.primrose.co.uk/solar-water-features-c-1_108.html?src=supermenu_wf" class="spriteLink c108">Solar Water Features</a>
+            </li>
+        <li>
+            <a href="http://www.primrose.co.uk/bird-baths-c-1_134.html?src=supermenu_wf" class="spriteLink c134">Bird Baths</a>
+            </li>
+        <li>
+            <a href="http://www.primrose.co.uk/stainless-steel-water-features-c-1_9.html?src=supermenu_wf" class="spriteLink c9">Stainless Steel Water Features</a>
+            </li>
+        <li>
+            <a href="http://www.primrose.co.uk/rock-cascade-fountains-c-1_747_11347.html?src=supermenu_wf" class="spriteLink c11347">Rock Cascade Fountains</a>
+            </li>
+        <li>
+            <a href="http://www.primrose.co.uk/sphere-water-features-c-1_214.html?src=supermenu_wf" class="spriteLink c214">Sphere Water Features</a>
+            </li>
+        <li>
+            <a href="http://www.primrose.co.uk/tiered-water-fountains-c-1_121.html?src=supermenu_wf" class="spriteLink c121">Tiered Water Fountains</a>
+            </li>
+        <li>
+            <a href="http://www.primrose.co.uk/water-feature-special-offers-c-1_145.html?src=supermenu_wf" class="spriteLink c145">Water Feature Special Offers</a>
+            </li>
+        <li>
+            <a href="http://www.primrose.co.uk/view-all-pumps-c-1_213.html?src=supermenu_wf" class="spriteLink c213">View All Pumps</a>
+            </li>
+        <li>
+            <a href="http://www.primrose.co.uk/misters-c-1_213_192.html?src=supermenu_wf" class="spriteLink c192">Misters</a>
+            </li>
+        <li>
+            <a href="http://www.primrose.co.uk/water-features-c-1.html?src=supermenu_wf_btm" class="viewAll">View all categories</a>
+            </li>
+    </ul>
+              </li><li class="subHeadingNav " id="subHeadingNav-2">
+                   <a class="SuperListHeader" href="http://www.primrose.co.uk/planters-c-2.html?src=top_link">
+                      Planters
+                   </a>
+                   <ul class="subNav_list" id="subNav_list-2">
+      <div class="subNavArrowUp"></div>
+        <li>
+            <a href="http://www.primrose.co.uk/planters-c-2.html?src=supermenu_p" class="headLink">View all Planters</a>
+            </li>
+        <li>
+            <a href="http://www.primrose.co.uk/large-planters-51cm-c-2_11727_816.html?src=supermenu_p" class="spriteLink c816">Large Planters 51cm - 1m</a>
+            </li>
+        <li>
+            <a href="http://www.primrose.co.uk/trough-planters-c-2_11728_802.html?src=supermenu_p" class="spriteLink c802">Trough Planters</a>
+            </li>
+        <li>
+            <a href="http://www.primrose.co.uk/metal-planters-c-2_10809_818.html?src=supermenu_p" class="spriteLink c818">Metal Planters</a>
+            </li>
+        <li>
+            <a href="http://www.primrose.co.uk/stone-planters-c-2_10809_821.html?src=supermenu_p" class="spriteLink c821">Stone Planters</a>
+            </li>
+        <li>
+            <a href="http://www.primrose.co.uk/wood-planters-c-2_10809_813.html?src=supermenu_p" class="spriteLink c813">Wood Planters</a>
+            </li>
+        <li>
+            <a href="http://www.primrose.co.uk/fibreglass-planters-c-2_10809_10175.html?src=supermenu_p" class="spriteLink c10175">Fibreglass Planters</a>
+            </li>
+        <li>
+            <a href="http://www.primrose.co.uk/tall-flared-square-planters-c-2_11728_800.html?src=supermenu_p" class="spriteLink c800">Tall / Flared Square Planters</a>
+            </li>
+        <li>
+            <a href="http://www.primrose.co.uk/square-cube-planters-c-2_11728_801.html?src=supermenu_p" class="spriteLink c801">Square / Cube Planters</a>
+            </li>
+        <li>
+            <a href="http://www.primrose.co.uk/planters-clearance-c-2_1767.html?src=supermenu_p" class="spriteLink c1767">Planters Clearance</a>
+            </li>
+        <li>
+            <a href="http://www.primrose.co.uk/planters-c-2.html?src=supermenu_p_btm" class="viewAll">View all categories</a>
+            </li>
+    </ul>
+              </li><li class="subHeadingNav " id="subHeadingNav-85">
+                   <a class="SuperListHeader" href="http://www.primrose.co.uk/sail-shades-c-85.html?src=top_link">
+                      Shade Sails
+                   </a>
+                   <ul class="subNav_list" id="subNav_list-85">
+      <div class="subNavArrowUp"></div>
+        <li>
+            <a href="http://www.primrose.co.uk/sail-shades-c-85.html?src=supermenu_sail" class="headLink">View all Shade Sails</a>
+            </li>
+        <li>
+            <a href="http://www.primrose.co.uk/woven-waterproof-shade-sails-c-85_768.html?src=supermenu_sail" class="spriteLink c768">Woven Waterproof Shade Sails</a>
+            </li>
+        <li>
+            <a href="http://www.primrose.co.uk/woven-water-resistant-shade-sails-c-85_768_8238.html?src=supermenu_sail" class="spriteLink c8238">Woven Water Resistant Shade Sails</a>
+            </li>
+        <li>
+            <a href="http://www.primrose.co.uk/breathable-shade-sails-c-85_4842.html?src=supermenu_sail" class="spriteLink c4842">Breathable Shade Sails</a>
+            </li>
+        <li>
+            <a href="http://www.primrose.co.uk/breathable-party-shade-sails-c-85_4842_4811.html?src=supermenu_sail" class="spriteLink c4811">Breathable Party Shade Sails</a>
+            </li>
+        <li>
+            <a href="http://www.primrose.co.uk/portable-shade-sail-kits-c-85_4754.html?src=supermenu_sail" class="spriteLink c4754">Portable Shade Sail Kits</a>
+            </li>
+        <li>
+            <a href="http://www.primrose.co.uk/shade-sail-poles-and-fittings-c-85_1102.html?src=supermenu_sail" class="spriteLink c1102">Shade Sail Poles and Fittings</a>
+            </li>
+        <li>
+            <a href="http://www.primrose.co.uk/sail-shades-c-85.html?src=supermenu_sail_btm" class="viewAll">View all categories</a>
+            </li>
+    </ul>
+              </li><li class="subHeadingNav " id="subHeadingNav-awn">
+                   <a class="SuperListHeader" href="http://www.primrose-awnings.co.uk?src=top_link" target="_blank">
+                      Awnings
+                   </a>
+                   <ul class="subNav_list" id="subNav_list-awn"><div class="subNavArrowUp"></div>
+        <li>
+            <a href="http://www.primrose-awnings.co.uk/?supermenu_awn" class="headLinkWithSprite awnings" target="_blank">Primrose Awnings</a>
+            </li>
+        <li>
+            <a href="http://www.primrose.co.uk/awning-accessories-c-149_305.html?src=supermenu_awn" class="spriteLink c305" target="_blank">Awning Accessories</a>
+            </li>
+        <li>
+            <a href="http://www.primrose.co.uk/sail-shades-c-85.html?src=supermenu_awn" class="spriteLink c85">Sail Shades</a>
+            </li>
+        <li>
+            <a href="http://www.primrose.co.uk/portable-shade-sail-kits-c-85_4754.html?src=supermenu_awn" class="spriteLink c4754">Portable Shade Sail Kits</a>
+            </li>
+        <li>
+            <a href="http://www.primrose.co.uk/wind-break-awnings-c-149_2817.html?src=supermenu_awn" class="spriteLink c2817" target="_blank">Wind Break Awnings</a>
+            </li>
+        <li>
+            <a href="http://www.primrose.co.uk/canopies-c-1153.html?src=supermenu_awn" class="spriteLink c1153">Canopies</a>
+            </li>
+        <li>
+            <a href="http://www.primrose.co.uk/gazebos-c-4708.html?src=supermenu_awn" class="spriteLink c4708">Gazebos</a>
+            </li>
+        <li>
+            <a href="http://www.primrose-awnings.co.uk/?src=supermenu_awn_btm" class="viewAll" target="_blank">View all categories</a>
+            </li></ul>
+              </li><li class="subHeadingNav " id="subHeadingNav-marq">
+                   <a class="SuperListHeader" href="http://www.primrose-marquees.co.uk?src=top_link" target="_blank">
+                      Marquees
+                   </a>
+                   <ul class="subNav_list" id="subNav_list-marq"><div class="subNavArrowUp"></div>
+        <li>
+            <a href="http://www.primrose-marquees.co.uk/?src=supermenu_marq" class="headLinkWithSprite marquees" target="_blank">Primrose Marquees</a>
+            </li>
+        <li>
+            <a href="http://www.primrose.co.uk/gazebos-c-4708.html?src=supermenu_marq" class="spriteLink cGaze">Pop-up Gazebos</a>
+            </li>
+        <li>
+            <a href="http://www.primrose-marquees.co.uk/budget_marquees-c-1532.html?src=supermenu_marq" class="spriteLink cTent" target="_blank">Party Tents</a>
+            </li>
+        <li>
+            <a href="http://www.primrose-marquees.co.uk/marquees_furniture_table_chairs-c-1307.html?src=supermenu_marq" class="spriteLink cFurn" target="_blank">Marquee Furniture</a>
+            </li>
+        <li>
+            <a href="http://www.primrose-marquees.co.uk/?src=supermenu_marq_btm" class="viewAll" target="_blank">View all categories</a>
+            </li></ul>
+              </li><li class="subHeadingNav " id="subHeadingNav-24">
+                   <a class="SuperListHeader" href="http://www.primrose.co.uk/pest-control-c-24.html?src=top_link">
+                      Pest Control
+                   </a>
+                   <ul class="subNav_list" id="subNav_list-24">
+      <div class="subNavArrowUp"></div>
+        <li>
+            <a href="http://www.primrose.co.uk/pest-control-c-24.html?src=supermenu_pest" class="headLink">View all Pest Control</a>
+            </li>
+        <li>
+            <a href="http://www.primrose.co.uk/mouse-and-rat-deterrents-c-24_25.html?src=supermenu_pest" class="spriteLink c25">Mouse and Rat Deterrents</a>
+            </li>
+        <li>
+            <a href="http://www.primrose.co.uk/stop-dog-barking-c-24_119.html?src=supermenu_pest" class="spriteLink c119">Stop Dog Barking</a>
+            </li>
+        <li>
+            <a href="http://www.primrose.co.uk/cat-deterrents-c-24_312.html?src=supermenu_pest" class="spriteLink c312">Cat Deterrents</a>
+            </li>
+        <li>
+            <a href="http://www.primrose.co.uk/spider-deterrents-c-24_147.html?src=supermenu_pest" class="spriteLink c147">Spider Deterrents</a>
+            </li>
+        <li>
+            <a href="http://www.primrose.co.uk/mole-deterrent-c-24_300.html?src=supermenu_pest" class="spriteLink c300">Mole Deterrent</a>
+            </li>
+        <li>
+            <a href="http://www.primrose.co.uk/fox-repellers-c-24_197.html?src=supermenu_pest" class="spriteLink c197">Fox Repellers</a>
+            </li>
+        <li>
+            <a href="http://www.primrose.co.uk/squirrel-deterrents-c-24_26.html?src=supermenu_pest" class="spriteLink c26">Squirrel Deterrents</a>
+            </li>
+        <li>
+            <a href="http://www.primrose.co.uk/bird-repellers-c-24_127.html?src=supermenu_pest" class="spriteLink c127">Bird Repellers</a>
+            </li>
+        <li>
+            <a href="http://www.primrose.co.uk/deer-repellent-c-24_174.html?src=supermenu_pest" class="spriteLink c174">Deer Repellent</a>
+            </li>
+        <li>
+            <a href="http://www.primrose.co.uk/pest-control-c-24.html?src=supermenu_pest_btm" class="viewAll">View all categories</a>
+            </li>
+    </ul>
+              </li><li class="subHeadingNav " id="subHeadingNav-3238">
+                   <a class="SuperListHeader" href="http://www.primrose.co.uk/garden-furniture-c-3238.html?src=top_link">
+                      Garden Furniture
+                   </a>
+                   <ul class="subNav_list" id="subNav_list-3238">
+      <div class="subNavArrowUp"></div>
+        <li>
+            <a href="http://www.primrose.co.uk/garden-furniture-c-3238.html?src=supermenu_gf" class="headLink">View all Garden Furniture</a>
+            </li>
+        <li>
+            <a href="http://www.primrose.co.uk/dining-sets-c-3238_3244_7758.html?src=supermenu_gf" class="spriteLink c7758">Dining Sets</a>
+            </li>
+        <li>
+            <a href="http://www.primrose.co.uk/sofa-sets-c-3238_3244_5259.html?src=supermenu_gf" class="spriteLink c5259">Sofa Sets</a>
+            </li>
+        <li>
+            <a href="http://www.primrose.co.uk/metal-furniture-sets-c-3238_7753_7754.html?src=supermenu_gf" class="spriteLink c7754">Metal Furniture Sets</a>
+            </li>
+        <li>
+            <a href="http://www.primrose.co.uk/wooden-furniture-sets-c-3238_7753_7755.html?src=supermenu_gf" class="spriteLink c7755">Wooden Furniture Sets</a>
+            </li>
+        <li>
+            <a href="http://www.primrose.co.uk/rattan-weave-furniture-sets-c-3238_7753_7756.html?src=supermenu_gf" class="spriteLink c7756">Rattan Weave Furniture Sets</a>
+            </li>
+        <li>
+            <a href="http://www.primrose.co.uk/benches-c-3238_3244_3251.html?src=supermenu_gf" class="spriteLink c3251">Benches</a>
+            </li>
+        <li>
+            <a href="http://www.primrose.co.uk/furniture-covers-parasols-and-accessories-c-3238_3323.html?src=supermenu_gf" class="spriteLink c3323">Furniture Covers, Parasols and Accessories</a>
+            </li>
+        <li>
+            <a href="http://www.primrose.co.uk/cushions-c-3238_3323_3325.html?src=supermenu_gf" class="spriteLink c3325">Cushions</a>
+            </li>
+        <li>
+            <a href="http://www.primrose.co.uk/swing-seats-c-3238_3244_3256.html?src=supermenu_gf" class="spriteLink c3256">Swing Seats</a>
+            </li>
+        <li>
+            <a href="http://www.primrose.co.uk/garden-furniture-c-3238.html?src=supermenu_gf_btm" class="viewAll">View all categories</a>
+            </li>
+    </ul>
+              </li><li class="subHeadingNav " id="subHeadingNav-2035">
+                   <a class="SuperListHeader" href="http://www.primrose.co.uk/bbq-c-2035.html?src=top_link">
+                      Barbecues
+                   </a>
+                   <ul class="subNav_list" id="subNav_list-2035">
+      <div class="subNavArrowUp"></div>
+        <li>
+            <a href="http://www.primrose.co.uk/bbq-c-2035.html?src=supermenu_bbq" class="headLink">View all Barbecues</a>
+            </li>
+        <li>
+            <a href="http://www.primrose.co.uk/gas-bbq-c-2035_7359.html?src=supermenu_bbq" class="spriteLink c7359">Gas BBQ</a>
+            </li>
+        <li>
+            <a href="http://www.primrose.co.uk/charcoal-bbq-c-2035_7360.html?src=supermenu_bbq" class="spriteLink c7360">Charcoal BBQ</a>
+            </li>
+        <li>
+            <a href="http://www.primrose.co.uk/masonry-bbq-c-2035_7902_7474.html?src=supermenu_bbq" class="spriteLink c7474">Masonry BBQ</a>
+            </li>
+        <li>
+            <a href="http://www.primrose.co.uk/portable-bbqs-c-2035_7902_7484.html?src=supermenu_bbq" class="spriteLink c7484">Portable BBQs</a>
+            </li>
+        <li>
+            <a href="http://www.primrose.co.uk/smokers-c-2035_7902_7486.html?src=supermenu_bbq" class="spriteLink c7486">Smokers</a>
+            </li>
+        <li>
+            <a href="http://www.primrose.co.uk/bbq-covers-c-2035_2177_7655.html?src=supermenu_bbq" class="spriteLink c7655">BBQ Covers</a>
+            </li>
+        <li>
+            <a href="http://www.primrose.co.uk/bbq-special-offers-c-2035_7684.html?src=supermenu_bbq" class="spriteLink c7684">BBQ Special Offers</a>
+            </li>
+        <li>
+            <a href="http://www.primrose.co.uk/bbq-accessories-c-2035_2177.html?src=supermenu_bbq" class="spriteLink c2177">BBQ Accessories</a>
+            </li>
+        <li>
+            <a href="http://www.primrose.co.uk/barbecue-fuel-c-2035_7654.html?src=supermenu_bbq" class="spriteLink c7654">Barbecue Fuel</a>
+            </li>
+        <li>
+            <a href="http://www.primrose.co.uk/bbq-c-2035.html?src=supermenu_bbq_btm" class="viewAll">View all categories</a>
+            </li>
+    </ul>
+              </li><li class="subHeadingNav " id="subHeadingNav-65">
+                   <a class="SuperListHeader" href="http://www.primrose.co.uk/willow-hazel-hurdles-c-65.html?src=top_link">
+                      Willow/Hazel Hurdles
+                   </a>
+                   <ul class="subNav_list" id="subNav_list-65">
+      <div class="subNavArrowUp"></div>
+        <li>
+            <a href="http://www.primrose.co.uk/willow-hazel-hurdles-c-65.html?src=supermenu_hurdle" class="headLink">View all Willow/Hazel Hurdles</a>
+            </li>
+        <li>
+            <a href="http://www.primrose.co.uk/willow-hurdles-c-65_1314.html?src=supermenu_hurdle" class="spriteLink c1314">Willow Hurdles</a>
+            </li>
+        <li>
+            <a href="http://www.primrose.co.uk/willow-bunch-weave-hurdles-c-65_1315.html?src=supermenu_hurdle" class="spriteLink c1315">Willow Bunch Weave Hurdles</a>
+            </li>
+        <li>
+            <a href="http://www.primrose.co.uk/framed-hurdles-c-65_1317.html?src=supermenu_hurdle" class="spriteLink c1317">Framed Hurdles</a>
+            </li>
+        <li>
+            <a href="http://www.primrose.co.uk/hazel-hurdles-c-65_1316.html?src=supermenu_hurdle" class="spriteLink c1316">Hazel Hurdles</a>
+            </li>
+        <li>
+            <a href="http://www.primrose.co.uk/contemporary-split-hazel-hurdles-c-65_1313.html?src=supermenu_hurdle" class="spriteLink c1313">Contemporary Split Hazel Hurdles</a>
+            </li>
+        <li>
+            <a href="http://www.primrose.co.uk/willow-hazel-hurdles-c-65.html?src=supermenu_hurdle_btm" class="viewAll">View all categories</a>
+            </li>
+    </ul>
+              </li><li class="subHeadingNav " id="subHeadingNav-32">
+                   <a class="SuperListHeader" href="http://www.primrose.co.uk/tools-and-equipment-c-32.html?src=top_link">
+                      Tools
+                   </a>
+                   <ul class="subNav_list" id="subNav_list-32">
+      <div class="subNavArrowUp"></div>
+        <li>
+            <a href="http://www.primrose.co.uk/tools-and-equipment-c-32.html?src=supermenu_tool" class="headLink">View all Tools</a>
+            </li>
+        <li>
+            <a href="http://www.primrose.co.uk/garden-hand-tools-and-wheelbarrows-c-32_98.html?src=supermenu_tool" class="spriteLink c98">Garden Hand Tools and Wheelbarrows</a>
+            </li>
+        <li>
+            <a href="http://www.primrose.co.uk/garden-power-tools-c-32_4420.html?src=supermenu_tool" class="spriteLink c4420">Garden Power Tools</a>
+            </li>
+        <li>
+            <a href="http://www.primrose.co.uk/lawn-mowers-strimmers-trimmers-c-32_2375.html?src=supermenu_tool" class="spriteLink c2375">Lawn Mowers, Strimmers &amp; Trimmers</a>
+            </li>
+        <li>
+            <a href="http://www.primrose.co.uk/garden-tidy-c-32_33.html?src=supermenu_tool" class="spriteLink c33">Garden Tidy</a>
+            </li>
+        <li>
+            <a href="http://www.primrose.co.uk/garden-tool-accessories-c-32_4427.html?src=supermenu_tool" class="spriteLink c4427">Garden Tool Accessories</a>
+            </li>
+        <li>
+            <a href="http://www.primrose.co.uk/watering-and-irrigation-c-32_967.html?src=supermenu_tool" class="spriteLink c967">Watering and Irrigation</a>
+            </li>
+        <li>
+            <a href="http://www.primrose.co.uk/storage-racks-c-32_9985.html?src=supermenu_tool" class="spriteLink c9985">Storage Racks</a>
+            </li>
+        <li>
+            <a href="http://www.primrose.co.uk/logkindling-baskets-c-32_10315.html?src=supermenu_tool" class="spriteLink c10315">Log/Kindling Baskets</a>
+            </li>
+        <li>
+            <a href="http://www.primrose.co.uk/wood-treatment-c-32_10330.html?src=supermenu_tool" class="spriteLink c10330">Wood Treatment</a>
+            </li>
+        <li>
+            <a href="http://www.primrose.co.uk/tools-and-equipment-c-32.html?src=supermenu_tool_btm" class="viewAll">View all categories</a>
+            </li>
+    </ul>
+              </li><li class="subHeadingNav " id="subHeadingNav-734">
+                   <a class="SuperListHeader" href="http://www.primrose.co.uk/grow-your-own-c-734.html?src=top_link">
+                      Grow Your Own
+                   </a>
+                   <ul class="subNav_list" id="subNav_list-734">
+      <div class="subNavArrowUp"></div>
+        <li>
+            <a href="http://www.primrose.co.uk/grow-your-own-c-734.html?src=supermenu_hc" class="headLink">View all Grow Your Own</a>
+            </li>
+        <li>
+            <a href="http://www.primrose.co.uk/frost-protection-c-734_738.html?src=supermenu_hc" class="spriteLink c738">Frost Protection</a>
+            </li>
+        <li>
+            <a href="http://www.primrose.co.uk/raised-grow-beds-c-734_737.html?src=supermenu_hc" class="spriteLink c737">Raised Grow Beds</a>
+            </li>
+        <li>
+            <a href="http://www.primrose.co.uk/potato-barrels-c-734_755.html?src=supermenu_hc" class="spriteLink c755">Potato Barrels</a>
+            </li>
+        <li>
+            <a href="http://www.primrose.co.uk/herb-planters-c-734_757.html?src=supermenu_hc" class="spriteLink c757">Herb Planters</a>
+            </li>
+        <li>
+            <a href="http://www.primrose.co.uk/tomato-planters-c-734_852.html?src=supermenu_hc" class="spriteLink c852">Tomato Planters</a>
+            </li>
+        <li>
+            <a href="http://www.primrose.co.uk/strawberry-barrels-c-734_756.html?src=supermenu_hc" class="spriteLink c756">Strawberry Barrels</a>
+            </li>
+        <li>
+            <a href="http://www.primrose.co.uk/watering-and-irrigation-c-32_967.html?src=supermenu_hc" class="spriteLink c967">Watering and Irrigation</a>
+            </li>
+        <li>
+            <a href="http://www.primrose.co.uk/plant-supports-c-734_3989.html?src=supermenu_hc" class="spriteLink c3989">Plant Supports</a>
+            </li>
+        <li>
+            <a href="http://www.primrose.co.uk/grow-your-own-c-734.html?src=supermenu_hc_btm" class="viewAll">View all categories</a>
+            </li>
+    </ul>
+              </li><li class="subHeadingNav " id="subHeadingNav-136">
+                   <a class="SuperListHeader" href="http://www.primrose.co.uk/outdoor-clocks-c-136.html?src=top_link">
+                      Outdoor Clocks
+                   </a>
+                   <ul class="subNav_list" id="subNav_list-136">
+      <div class="subNavArrowUp"></div>
+        <li>
+            <a href="http://www.primrose.co.uk/outdoor-clocks-c-136.html?src=supermenu_clo" class="headLink">View all Outdoor Clocks</a>
+            </li>
+        <li>
+            <a href="http://www.primrose.co.uk/double-sided-station-clocks-c-136_702.html?src=supermenu_clo" class="spriteLink c702">Double Sided Station Clocks</a>
+            </li>
+        <li>
+            <a href="http://www.primrose.co.uk/large-clocks-plus-c-136_10812_713.html?src=supermenu_clo" class="spriteLink c713">Large Clocks - 23" plus</a>
+            </li>
+        <li>
+            <a href="http://www.primrose.co.uk/radio-controlled-clocks-c-136_8344_714.html?src=supermenu_clo" class="spriteLink c714">Radio Controlled Clocks</a>
+            </li>
+        <li>
+            <a href="http://www.primrose.co.uk/clocks-with-thermometers-c-136_715.html?src=supermenu_clo" class="spriteLink c715">Clocks With Thermometers</a>
+            </li>
+        <li>
+            <a href="http://www.primrose.co.uk/illuminated-outdoor-clocks-c-136_8344_1282.html?src=supermenu_clo" class="spriteLink c1282">Illuminated Outdoor Clocks</a>
+            </li>
+        <li>
+            <a href="http://www.primrose.co.uk/copper-brass-effect-clocks-c-136_725.html?src=supermenu_clo" class="spriteLink c725">Copper / Brass Effect Clocks</a>
+            </li>
+        <li>
+            <a href="http://www.primrose.co.uk/slate-slate-effect-clocks-c-136_726.html?src=supermenu_clo" class="spriteLink c726">Slate/ Slate Effect Clocks</a>
+            </li>
+        <li>
+            <a href="http://www.primrose.co.uk/indoor-clocks-c-721.html?src=supermenu_clo" class="spriteLink c721">Indoor Clocks</a>
+            </li>
+        <li>
+            <a href="http://www.primrose.co.uk/kids-clocks-c-721_1869.html?src=supermenu_clo" class="spriteLink c1869">Kids Clocks</a>
+            </li>
+        <li>
+            <a href="http://www.primrose.co.uk/outdoor-clocks-c-136.html?src=supermenu_clo_btm" class="viewAll">View all categories</a>
+            </li>
+    </ul>
+              </li><li class="subHeadingNav " id="subHeadingNav-1208">
+                   <a class="SuperListHeader" href="http://www.primrose.co.uk/led-battery-candles-c-1208.html?src=top_link">
+                      LED Battery Candles
+                   </a>
+                   <ul class="subNav_list" id="subNav_list-1208">
+      <div class="subNavArrowUp"></div>
+        <li>
+            <a href="http://www.primrose.co.uk/led-battery-candles-c-1208.html?src=supermenu_can" class="headLink">View all LED Battery Candles</a>
+            </li>
+        <li>
+            <a href="http://www.primrose.co.uk/candle-gift-ideas-c-1208_3487.html?src=supermenu_can" class="spriteLink c3487">Candle Gift Ideas</a>
+            </li>
+        <li>
+            <a href="http://www.primrose.co.uk/candle-sets-c-1208_3378.html?src=supermenu_can" class="spriteLink c3378">Candle Sets</a>
+            </li>
+        <li>
+            <a href="http://www.primrose.co.uk/tealights-c-1208_1254.html?src=supermenu_can" class="spriteLink c1254">Tealights</a>
+            </li>
+        <li>
+            <a href="http://www.primrose.co.uk/votives-c-1208_1255.html?src=supermenu_can" class="spriteLink c1255">Votives</a>
+            </li>
+        <li>
+            <a href="http://www.primrose.co.uk/church-pillar-candles-c-1208_1256.html?src=supermenu_can" class="spriteLink c1256">Church Pillar Candles</a>
+            </li>
+        <li>
+            <a href="http://www.primrose.co.uk/wax-candles-c-1208_1258.html?src=supermenu_can" class="spriteLink c1258">Wax Candles</a>
+            </li>
+        <li>
+            <a href="http://www.primrose.co.uk/rechargeable-candles-c-1208_1259.html?src=supermenu_can" class="spriteLink c1259">Rechargeable Candles</a>
+            </li>
+        <li>
+            <a href="http://www.primrose.co.uk/remote-controlled-candles-c-1208_2059.html?src=supermenu_can" class="spriteLink c2059">Remote Controlled Candles</a>
+            </li>
+        <li>
+            <a href="http://www.primrose.co.uk/led-battery-candles-c-1208.html?src=supermenu_can_btm" class="viewAll">View all categories</a>
+            </li>
+    </ul>
+              </li><li class="subHeadingNav " id="subHeadingNav-83">
+                   <a class="SuperListHeader" href="http://www.primrose.co.uk/garden-mirrors-c-83.html?src=top_link">
+                      Garden Mirrors
+                   </a>
+                   <ul class="subNav_list" id="subNav_list-83">
+      <div class="subNavArrowUp"></div>
+        <li>
+            <a href="http://www.primrose.co.uk/garden-mirrors-c-83.html?src=supermenu_mir" class="headLink">View all Garden Mirrors</a>
+            </li>
+        <li>
+            <a href="http://www.primrose.co.uk/acrylic-mirror-sheets-c-83_8023_920.html?src=supermenu_mir" class="spriteLink c920">Acrylic Mirror Sheets</a>
+            </li>
+        <li>
+            <a href="http://www.primrose.co.uk/illusion-mirrors-c-83_8023_292.html?src=supermenu_mir" class="spriteLink c292">Illusion Mirrors</a>
+            </li>
+        <li>
+            <a href="http://www.primrose.co.uk/gothic-mirrors-c-83_8023_291.html?src=supermenu_mir" class="spriteLink c291">Gothic Mirrors</a>
+            </li>
+        <li>
+            <a href="http://www.primrose.co.uk/shuttered-mirrors-c-83_8023_8071.html?src=supermenu_mir" class="spriteLink c8071">Shuttered Mirrors</a>
+            </li>
+        <li>
+            <a href="http://www.primrose.co.uk/mirror-gifts-c-3_8090.html?src=supermenu_mir" class="spriteLink c8090">Mirror Gifts</a>
+            </li>
+        <li>
+            <a href="http://www.primrose.co.uk/garden-mirrors-c-83.html?src=supermenu_mir_btm" class="viewAll">View all categories</a>
+            </li>
+    </ul>
+              </li><li class="subHeadingNav " id="subHeadingNav-38">
+                   <a class="SuperListHeader" href="http://www.primrose.co.uk/compost-bins-c-38.html?src=top_link">
+                      Compost Bins
+                   </a>
+                   <ul class="subNav_list" id="subNav_list-38">
+      <div class="subNavArrowUp"></div>
+        <li>
+            <a href="http://www.primrose.co.uk/compost-bins-c-38.html?src=supermenu_clo" class="headLink">View all Compost Bins</a>
+            </li>
+        <li>
+            <a href="http://www.primrose.co.uk/wooden-compost-bins-c-38_7854.html?src=supermenu_clo" class="spriteLink c7854">Wooden Compost Bins</a>
+            </li>
+        <li>
+            <a href="http://www.primrose.co.uk/easyload-composters-c-38_7855.html?src=supermenu_clo" class="spriteLink c7855">Easy-Load Composters</a>
+            </li>
+        <li>
+            <a href="http://www.primrose.co.uk/plastic-composters-c-38_7856.html?src=supermenu_clo" class="spriteLink c7856">Plastic Composters</a>
+            </li>
+        <li>
+            <a href="http://www.primrose.co.uk/metal-composters-c-38_7857.html?src=supermenu_clo" class="spriteLink c7857">Metal Composters</a>
+            </li>
+        <li>
+            <a href="http://www.primrose.co.uk/garden-composters-c-38_7862.html?src=supermenu_clo" class="spriteLink c7862">Garden Composters</a>
+            </li>
+        <li>
+            <a href="http://www.primrose.co.uk/kitchen-indoor-compost-bins-c-38_7858.html?src=supermenu_clo" class="spriteLink c7858">Kitchen / Indoor Compost Bins</a>
+            </li>
+        <li>
+            <a href="http://www.primrose.co.uk/composting-accessories-c-38_7859.html?src=supermenu_clo" class="spriteLink c7859">Composting Accessories</a>
+            </li>
+        <li>
+            <a href="http://www.primrose.co.uk/compost-bins-c-38.html?src=supermenu_clo_btm" class="viewAll">View all categories</a>
+            </li>
+    </ul>
+              </li><li class="subHeadingNav " id="subHeadingNav-2714">
+                   <a class="SuperListHeader" href="http://www.primrose.co.uk/garden-buildings-c-2714.html?src=top_link">
+                      Garden Buildings
+                   </a>
+                   <ul class="subNav_list" id="subNav_list-2714">
+      <div class="subNavArrowUp"></div>
+        <li>
+            <a href="http://www.primrose.co.uk/garden-buildings-c-2714.html?src=supermenu_bui" class="headLink">View all Garden Buildings</a>
+            </li>
+        <li>
+            <a href="http://www.primrose.co.uk/garden-sheds-c-2714_2720.html?src=supermenu_bui" class="spriteLink c2720">Garden Sheds</a>
+            </li>
+        <li>
+            <a href="http://www.primrose.co.uk/log-cabins-c-2714_2715.html?src=supermenu_bui" class="spriteLink c2715">Log Cabins</a>
+            </li>
+        <li>
+            <a href="http://www.primrose.co.uk/log-stores-c-2714_7649.html?src=supermenu_bui" class="spriteLink c7649">Log Stores</a>
+            </li>
+        <li>
+            <a href="http://www.primrose.co.uk/canopies-and-pergolas-c-734_3989_8842.html?src=supermenu_bui" class="spriteLink c8842">Canopies and Pergolas</a>
+            </li>
+        <li>
+            <a href="http://www.primrose.co.uk/arbours-c-734_3989_8835.html?src=supermenu_bui" class="spriteLink c8835">Arbours</a>
+            </li>
+        <li>
+            <a href="http://www.primrose.co.uk/arches-c-734_3989_8836.html?src=supermenu_bui" class="spriteLink c8836">Arches</a>
+            </li>
+        <li>
+            <a href="http://www.primrose.co.uk/canopies-c-1153.html?src=supermenu_bui" class="spriteLink c1153">Canopies</a>
+            </li>
+        <li>
+            <a href="http://www.primrose.co.uk/greenhouses-c-696.html?src=supermenu_bui" class="spriteLink c696">Greenhouses</a>
+            </li>
+        <li>
+            <a href="http://www.primrose.co.uk/garden-buildings-c-2714.html?src=supermenu_bui_btm" class="viewAll">View all categories</a>
+            </li>
+    </ul>
+              </li><li class="subHeadingNav " id="subHeadingNav-43">
+                   <a class="SuperListHeader" href="http://www.primrose.co.uk/statues-garden-art-ornaments-c-43.html?src=top_link">
+                      Statues &amp; Garden Art
+                   </a>
+                   <ul class="subNav_list" id="subNav_list-43">
+      <div class="subNavArrowUp"></div>
+        <li>
+            <a href="http://www.primrose.co.uk/statues-garden-art-ornaments-c-43.html?src=supermenu_stat" class="headLink">View all Statues &amp; Garden Art</a>
+            </li>
+        <li>
+            <a href="http://www.primrose.co.uk/statues-c-43_82.html?src=supermenu_stat" class="spriteLink c82">Statues</a>
+            </li>
+        <li>
+            <a href="http://www.primrose.co.uk/wall-art-c-43_2302.html?src=supermenu_stat" class="spriteLink c2302">Wall Art</a>
+            </li>
+        <li>
+            <a href="http://www.primrose.co.uk/the-animal-kingdom-c-43_81.html?src=supermenu_stat" class="spriteLink c81">The Animal Kingdom</a>
+            </li>
+        <li>
+            <a href="http://www.primrose.co.uk/stone-art-c-43_8207_8222.html?src=supermenu_stat" class="spriteLink c8222">Stone Art</a>
+            </li>
+        <li>
+            <a href="http://www.primrose.co.uk/cast-bronze-art-c-43_8207_8221.html?src=supermenu_stat" class="spriteLink c8221">Cast Bronze Art</a>
+            </li>
+        <li>
+            <a href="http://www.primrose.co.uk/topiary-c-7767_9820.html?src=supermenu_stat" class="spriteLink c9820">Topiary</a>
+            </li>
+        <li>
+            <a href="http://www.primrose.co.uk/bird-baths-c-1_134.html?src=supermenu_stat" class="spriteLink c134">Bird Baths</a>
+            </li>
+        <li>
+            <a href="http://www.primrose.co.uk/garden-lighting-c-28.html?src=supermenu_stat" class="spriteLink c28">Garden Lighting</a>
+            </li>
+        <li>
+            <a href="http://www.primrose.co.uk/statues-garden-art-ornaments-c-43.html?src=supermenu_stat_btm" class="viewAll">View all categories</a>
+            </li>
+    </ul>
+              </li>    </ul>
+
+        <div id="supermenu_view_more">
+      <div id="subNav_list-everything_end">
+        <div class="subNavArrowUp"></div>
+        
+    <div class="everythingSection everythingSection_aboutUs">
+        <a href="about_us.php?src=toplink_eftg">
+            <img alt="Primrose" src="product_thumb.php?img=images/wf7003CUTOUTsml.jpg&amp;w=75&amp;h=110" style="float:right;">
+            <span class="sectionTitle">About Us</span>
+            <span style="font-style:italic; color:#999">The biggest range at the best prices for your home and garden</span>
+            </a>
+
+                  <br>
+          <br>
+          <a href="a-selection-of-product-reviews.php?src=eftg" style="display:block; margin:0 auto; width:130px; text-align:center; margin-bottom:23px;">
+            Testimonials:
+            <br>
+            <img src="/images/feefo-images/1.ohgFeefo5.png">          </a>
+                <span style="font-size:0.8em;color:#666;">Visit our other sites:</span>
+        <a class="everythingSection_othersites" href="http://www.primrose-awnings.co.uk?src=supermenu_eftg_prim-lon" target="_blank">
+            <img src="product_thumb.php?img=images/awnings_logo_green.png&amp;w=30&amp;h=30" alt="Primrose Awnings logo">
+            <span style="font-size:0.8em;">Primrose Awnings</span>
+            </a>
+        <a class="everythingSection_othersites" href="http://www.primrose-marquees.co.uk?src=supermenu_eftg_prim-lon" target="_blank">
+            <img src="product_thumb.php?img=images/primroseMarquees_logo.png&amp;w=30&amp;h=30" alt="Primrose Marquees logo">
+            <span style="font-size:0.8em;">Primrose Marquees</span>
+            </a>
+                    </div>
+
+    <div class="everythingSection">
+      <span class="sectionTitle">Grow in your garden</span>
+      <ul><li><a href="http://www.primrose.co.uk/greenhouses-c-696.html?src=toplink_eftg">Greenhouses</a></li><li><a href="http://www.primrose.co.uk/plants-c-7767_4561.html?src=toplink_eftg">Plants</a></li><li><a href="http://www.primrose.co.uk/trees-c-7767_7660.html?src=toplink_eftg">Trees</a></li><li><a href="http://www.primrose.co.uk/flower-bulbs-c-5605.html?src=toplink_eftg">Flower Bulbs</a></li><li><a href="http://www.primrose.co.uk/grow-your-own-c-734.html?src=toplink_eftg">Grow Your Own</a></li><li><a href="http://www.primrose.co.uk/compost-bins-c-38.html?src=toplink_eftg">Compost Bins</a></li><li><a href="http://www.primrose.co.uk/tools-and-equipment-c-32.html?src=toplink_eftg">Tools and Equipment</a></li><li><a href="http://www.primrose.co.uk/planters-c-2.html?src=toplink_eftg">Planters</a></li><li><a href="http://www.primrose.co.uk/watering-and-irrigation-c-32_967.html?src=toplink_eftg">Watering and Irrigation</a></li></ul></div><div class="everythingSection">
+      <span class="sectionTitle">Build in your garden</span>
+      <ul><li><a href="http://www.primrose.co.uk/garden-buildings-c-2714.html?src=toplink_eftg">Garden Buildings</a></li><li><a href="http://www.primrose.co.uk/garden-bridges-c-53.html?src=toplink_eftg">Garden Bridges</a></li><li><a href="http://www.primrose.co.uk/canopies-c-1153.html?src=toplink_eftg">Canopies</a></li><li><a href="http://www.primrose.co.uk/fencing-c-3155.html?src=toplink_eftg">Fencing</a></li><li><a href="http://www.primrose.co.uk/garden-screening-c-318.html?src=toplink_eftg">Garden Screening</a></li><li><a href="http://www.primrose.co.uk/willow-hazel-hurdles-c-65.html?src=toplink_eftg">Willow &amp; Hazel Hurdles</a></li><li><a href="http://www.primrose.co.uk/lawn-edging-c-66.html?src=toplink_eftg">Lawn Edging</a></li><li><a href="http://www.primrose-awnings.co.uk?src=prim_toplink_eftg" target="_blank">Patio Awnings</a></li><li><a href="http://www.primrose-marquees.co.uk?src=prim_toplink_eftg" target="_blank">Marquees and Party Tents</a></li></ul></div><div class="everythingSection">
+      <span class="sectionTitle">Entertain in your garden</span>
+      <ul><li><a href="http://www.primrose.co.uk/bbq-c-2035.html?src=toplink_eftg">BBQ</a></li><li><a href="http://www.primrose.co.uk/led-battery-candles-c-1208.html?src=toplink_eftg">LED Battery Candles</a></li><li><a href="http://www.primrose.co.uk/outdoor-heating-c-1299.html?src=toplink_eftg">Outdoor Heating</a></li><li><a href="http://www.primrose.co.uk/garden-furniture-c-3238.html?src=toplink_eftg">Garden Furniture</a></li><li><a href="http://www.primrose.co.uk/gazebos-c-4708.html?src=toplink_eftg">Gazebos</a></li><li><a href="http://www.primrose.co.uk/garden-lighting-c-28.html?src=toplink_eftg">Garden Lighting</a></li><li><a href="http://www.primrose-marquees.co.uk?src=prim_toplink_eftg" target="_blank">Marquees and Party Tents</a></li></ul></div><div class="everythingSection">
+      <span class="sectionTitle">Relax in your garden</span>
+      <ul><li><a href="http://www.primrose.co.uk/sail-shades-c-85.html?src=toplink_eftg">Sail Shades</a></li><li><a href="http://www.primrose.co.uk/water-features-c-1.html?src=toplink_eftg">Water Features</a></li><li><a href="http://www.primrose.co.uk/garden-mirrors-c-83.html?src=toplink_eftg">Garden Mirrors</a></li><li><a href="http://www.primrose.co.uk/outdoor-clocks-c-136.html?src=toplink_eftg">Outdoor Clocks</a></li><li><a href="http://www.primrose.co.uk/statues-garden-art-ornaments-c-43.html?src=toplink_eftg">Statues, Garden Art &amp; Ornaments</a></li><li><a href="http://www.primrose-awnings.co.uk?src=prim_toplink_eftg" target="_blank">Patio Awnings</a></li></ul></div><div class="everythingSection">
+      <span class="sectionTitle">Wildlife in your garden</span>
+      <ul><li><a href="http://www.primrose.co.uk/wild-bird-care-c-1191.html?src=toplink_eftg">Wild Bird Care</a></li><li><a href="http://www.primrose.co.uk/bird-baths-c-1_134.html?src=toplink_eftg">Bird Baths</a></li><li><a href="http://www.primrose.co.uk/pond-care-accessories-c-22_9139.html?src=toplink_eftg">Pond Care &amp; Accessories</a></li><li><a href="http://www.primrose.co.uk/view-all-pond-oxygenators-c-22_9139_2311.html?src=toplink_eftg">View All Pond Oxygenators</a></li><li><a href="http://www.primrose.co.uk/pond-plants-c-7767_4561_4632_4667.html?src=toplink_eftg">Pond Plants</a></li><li><a href="http://www.primrose.co.uk/pest-control-c-24.html?src=toplink_eftg">Pest Control</a></li></ul></div><div class="everythingSection">
+      <span class="sectionTitle">When you're not in your garden</span>
+      <ul><li><a href="http://www.primrose.co.uk/heated-gloves-clothing-c-37.html?src=toplink_eftg">Heated Gloves &amp; Clothing</a></li><li><a href="http://www.primrose.co.uk/indoor-clocks-c-721.html?src=toplink_eftg">Indoor Clocks</a></li><li><a href="http://www.primrose.co.uk/solar-blinds-c-664.html?src=toplink_eftg">Solar Blinds</a></li><li><a href="http://www.primrose.co.uk/window-films-c-751.html?src=toplink_eftg">Window Films</a></li><li><a href="http://www.primrose.co.uk/gardening-gifts-c-3.html?src=toplink_eftg">Gardening Gifts</a></li><li><a href="http://www.primrose.co.uk/cast-iron-doormats-and-accessories-c-64.html?src=toplink_eftg">Cast Iron Doormats and Accessories</a></li><li><a href="http://www.primrose.co.uk/cast-iron-umbrella-stands-c-979.html?src=toplink_eftg">Cast Iron Umbrella Stands</a></li><li><a href="http://www.primrose.co.uk/exshowroom-discontinued-damaged-stock-c-520.html?src=toplink_eftg">Ex-showroom/ Discontinued/ Damaged Stock</a></li><li><a class="TextRed" href="specials.php?src=toplink_eftg">Special Offers</a></li></ul></div>      </div>
+    </div>
+                </div>
+        </div>
+
+    </div>
+
+
+                                            <script src="js/carousel.lib.js"></script>
+                                <script src="js/colorbox-min.js"></script>
+                                <script src="scripts/reviews_blogs_guides.js"></script>
+                                    
+
+        
+                    <table width="100%" height="347" border="0" cellpadding="3" cellspacing="3">
+                <tbody><tr>
+
+                                            <td width="125" valign="top">
+                            <table border="0" width="125" cellspacing="0" cellpadding="2">
+                                <tbody><tr>
+                                    <td>
+                                        <div class="lhcSpacer"></div>
+<style type="text/css">
+    ul.main_menu {
+        list-style-type     : none;
+        margin              : 0px;
+        padding             : 0px;
+        width               : 150px;
+        }
+    ul.main_menu li {
+        border-top          : 1px solid #eee;
+        }
+    ul.main_menu li a {
+        color               : #333;
+        display             : block;
+        padding             : 0.4em 0.5em;
+        }
+    ul.main_menu li a::before {
+        color               : #999;
+        content             : "\25b8";
+        }
+    ul.main_menu li a:hover {
+        background-color    : rgba( 0, 0, 0, 0.05 );
+        }
+</style>
+
+<h2> More Categories </h2>
+<ul class="main_menu">
+            <li>
+            <a href="http://www.primrose.co.uk/arbours-c-734_3989_8835.html?src=lhc_special_offers">
+                Arbours                </a>
+            </li>
+                <li>
+            <a href="http://www.primrose.co.uk/arches-c-734_3989_8836.html?src=lhc_special_offers">
+                Arches                </a>
+            </li>
+                <li>
+            <a href="http://www.primrose.co.uk/bbq-c-2035.html?src=lhc_special_offers">
+                BBQ                </a>
+            </li>
+                <li>
+            <a href="http://www.primrose.co.uk/bird-baths-c-129.html?src=lhc_special_offers">
+                Bird Baths                </a>
+            </li>
+                <li>
+            <a href="http://www.primrose.co.uk/boot-scrapers-brushes-storage-c-44_10627.html?src=lhc_special_offers">
+                Boot Scrapers, Brushes &amp; Storage                </a>
+            </li>
+                <li>
+            <a href="http://www.primrose.co.uk/canopies-and-pergolas-c-734_3989_8842.html?src=lhc_special_offers">
+                Canopies and Pergolas                </a>
+            </li>
+                <li>
+            <a href="http://www.primrose.co.uk/cast-iron-doormats-and-accessories-c-64.html?src=lhc_special_offers">
+                Cast Iron Doormats and Accessories                </a>
+            </li>
+                <li>
+            <a href="http://www.primrose.co.uk/cast-iron-umbrella-stands-c-979.html?src=lhc_special_offers">
+                Cast Iron Umbrella Stands                </a>
+            </li>
+                <li>
+            <a href="http://www.primrose.co.uk/compost-bins-c-38.html?src=lhc_special_offers">
+                Compost Bins                </a>
+            </li>
+                <li>
+            <a href="http://www.primrose.co.uk/fencing-c-3155.html?src=lhc_special_offers">
+                Fencing                </a>
+            </li>
+                <li>
+            <a href="http://www.primrose.co.uk/garden-bridges-c-53.html?src=lhc_special_offers">
+                Garden Bridges                </a>
+            </li>
+                <li>
+            <a href="http://www.primrose.co.uk/garden-buildings-c-2714.html?src=lhc_special_offers">
+                Garden Buildings                </a>
+            </li>
+                <li>
+            <a href="http://www.primrose.co.uk/garden-carpet-outdoor-rugs-c-44_10312.html?src=lhc_special_offers">
+                Garden Carpet / Outdoor Rugs                </a>
+            </li>
+                <li>
+            <a href="http://www.primrose.co.uk/garden-hand-tools-and-wheelbarrows-c-32_98.html?src=lhc_special_offers">
+                Garden Hand Tools and Wheelbarrows                </a>
+            </li>
+                <li>
+            <a href="http://www.primrose.co.uk/garden-lighting-c-28.html?src=lhc_special_offers">
+                Garden Lighting                </a>
+            </li>
+                <li>
+            <a href="http://www.primrose.co.uk/garden-mirrors-c-83.html?src=lhc_special_offers">
+                Garden Mirrors                </a>
+            </li>
+                <li>
+            <a href="http://www.primrose.co.uk/garden-power-tools-c-32_4420.html?src=lhc_special_offers">
+                Garden Power Tools                </a>
+            </li>
+                <li>
+            <a href="http://www.primrose.co.uk/grow-your-own-c-734.html?src=lhc_special_offers">
+                Grow Your Own                </a>
+            </li>
+                <li>
+            <a href="http://www.primrose.co.uk/growing-propagation-c-734_100.html?src=lhc_special_offers">
+                Growing &amp; Propagation                </a>
+            </li>
+                <li>
+            <a href="http://www.primrose.co.uk/indoor-clocks-c-721.html?src=lhc_special_offers">
+                Indoor Clocks                </a>
+            </li>
+                <li>
+            <a href="http://www.primrose.co.uk/lawn-edging-c-66.html?src=lhc_special_offers">
+                Lawn Edging                </a>
+            </li>
+                <li>
+            <a href="http://www.primrose.co.uk/led-battery-candles-c-1208.html?src=lhc_special_offers">
+                LED Battery Candles                </a>
+            </li>
+                <li>
+            <a href="http://www.primrose.co.uk/logkindling-baskets-c-32_10315.html?src=lhc_special_offers">
+                Log/Kindling Baskets                </a>
+            </li>
+                <li>
+            <a href="http://www.primrose.co.uk/outdoor-clocks-c-136.html?src=lhc_special_offers">
+                Outdoor Clocks                </a>
+            </li>
+                <li>
+            <a href="http://www.primrose.co.uk/outdoor-living-c-44.html?src=lhc_special_offers">
+                Outdoor Living                </a>
+            </li>
+                <li>
+            <a href="http://www.primrose.co.uk/patio-paving-c-44_10478.html?src=lhc_special_offers">
+                Patio Paving                </a>
+            </li>
+                <li>
+            <a href="http://www.primrose.co.uk/pond-cleaners-c-158.html?src=lhc_special_offers">
+                Pond Cleaners                </a>
+            </li>
+                <li>
+            <a href="http://www.primrose.co.uk/pond-oxygenators-c-2256.html?src=lhc_special_offers">
+                Pond Oxygenators                </a>
+            </li>
+                <li>
+            <a href="http://www.primrose.co.uk/sale-offers-c-6597.html?src=lhc_special_offers">
+                Sale Offers                </a>
+            </li>
+                <li>
+            <a href="http://www.primrose.co.uk/solar-blinds-c-664.html?src=lhc_special_offers">
+                Solar Blinds                </a>
+            </li>
+                <li>
+            <a href="http://www.primrose.co.uk/statues-garden-art-ornaments-c-43.html?src=lhc_special_offers">
+                Statues, Garden Art &amp; Ornaments                </a>
+            </li>
+                <li>
+            <a href="http://www.primrose.co.uk/storage-racks-c-32_9985.html?src=lhc_special_offers">
+                Storage Racks                </a>
+            </li>
+                <li>
+            <a href="http://www.primrose.co.uk/tools-and-equipment-c-32.html?src=lhc_special_offers">
+                Tools and Equipment                </a>
+            </li>
+                <li>
+            <a href="http://www.primrose.co.uk/trellises-c-734_3989_8840.html?src=lhc_special_offers">
+                Trellises                </a>
+            </li>
+                <li>
+            <a href="http://www.primrose.co.uk/watering-and-irrigation-c-32_967.html?src=lhc_special_offers">
+                Watering and Irrigation                </a>
+            </li>
+                <li>
+            <a href="http://www.primrose.co.uk/weathervane-c-44_8843.html?src=lhc_special_offers">
+                Weathervane                </a>
+            </li>
+                <li>
+            <a href="http://www.primrose.co.uk/wheelbarrows-trollies-and-carts-c-32_98_2224.html?src=lhc_special_offers">
+                Wheelbarrows, Trollies and Carts                </a>
+            </li>
+                <li>
+            <a href="http://www.primrose.co.uk/wild-bird-care-c-1191.html?src=lhc_special_offers">
+                Wild Bird Care                </a>
+            </li>
+                <li>
+            <a href="http://www.primrose.co.uk/willow-hazel-hurdles-c-65.html?src=lhc_special_offers">
+                Willow &amp; Hazel Hurdles                </a>
+            </li>
+                <li>
+            <a href="http://www.primrose.co.uk/window-films-c-751.html?src=lhc_special_offers">
+                Window Films                </a>
+            </li>
+            </ul>
+</td></tr><tr><td>
+<hr class="navdiv" style="margin:10px 0px; clear:both;">
+<div style="text-align: center; white-space: nowrap;">
+    <!-- BoldChat Live Chat Button HTML v5.00 (Type=Web,ChatButton=Primrose UK,Website=Primrose.co.uk) -->
+    <script type="text/javascript">
+      var bccbId = Math.random(); document.write(unescape('%3Cdiv id=' + bccbId + '%3E%3C/div%3E'));
+      window._bcvma = window._bcvma || [];
+      _bcvma.push(['setAccountID', '6711119041261025017']);
+      _bcvma.push(['setParameter', 'WebsiteID', '3761965485514772984']);
+      _bcvma.push(['setParameter', 'CustomUrl', ''])
+      _bcvma.push(['setParameter', 'WindowParameters', 'vr=&vi=&ve=&vp=&vn=&lc='])
+      _bcvma.push(['addStatic', {type: 'chat', bdid: '1764402786891959761', id: bccbId}]);
+      var bcLoad = function(){
+        if(window.bcLoaded) return; window.bcLoaded = true;
+        var vms = document.createElement('script'); vms.type = 'text/javascript'; vms.async = true;
+        vms.src = ('https:'==document.location.protocol?'https://':'http://') + 'vmss.boldchat.com/aid/6711119041261025017/bc.vms4/vms.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(vms, s);
+      };
+      if(window.pageViewer && pageViewer.load) pageViewer.load();
+      else if(document.readyState=='complete') bcLoad();
+      else if(window.addEventListener) window.addEventListener('load', bcLoad, false);
+      else window.attachEvent('onload', bcLoad);
+    </script><div id="0.02605807522638881"></div>
+    <!-- /BoldChat Live Chat Button HTML v5.00 --><!-- freshchat disabled --></div>
+
+</td></tr>
+                                        
+                                    
+                                </tbody></table>
+                            </td>
+                        <td width="25" background="images/default/vertline.gif">
+                            <img alt="" height="20" src="images/default/spacer.gif" width="25" border="0">
+                            </td>
+                        
+                    <td width="100%" valign="top">
+                        <table border="0" width="100%" cellspacing="0" cellpadding="0">
+                            <tbody><tr>
+                                <td class="maintext" id="mainBody"> 
+<div class="main">
+In order to process your order we need to ask for your name, address and contact details.
+We keep these details on file so that we know who our customers are and we can deal with any service queries or returns.
+<br><br>
+When you place your order you are given the choice about whether or not you would like us to contact you
+with email newsletters detailing product launches and special offers, and whether or
+not you would like to join our catalogue mailing list.
+<p>
+We may use third-party advertising companies to serve ads when you visit our website.
+These companies may use information (not including your name, address, email address or telephone number)
+about your visits to this and other websites in order
+to provide advertisements about goods and services of interest to you.
+If you would like more information about this practice and would like to
+know your options in relation to not having this information used by these companies, <a href="http://www.google.com/privacy_ads.html" target="blank">click here</a>.
+</p><p>
+
+<b>Cookies</b><br>
+We use cookies on Primrose.co.uk to maximise your shopping experience by providing you with personalised features (like products you may be interested in based on what you've viewed previously). Your browser will need to accept cookies, as we can only provide you with these features by using them.
+<br><br>
+<a href="privacy_cookies.php" style="font-size:12px;">View more information about Cookies and our Cookies Policy</a>
+
+<br><br>
+If you have concerns about our privacy policy, please <a href="http://www.primrose.co.uk/contact_us.php">contact us</a>.
+</p></div>
+
+
+ </td>
+                                </tr>
+                            <tr>
+                                <td> <img src="images/pixel_trans.gif" width="100%" height="10" border="0" alt=""> </td>
+                                </tr>
+                            </tbody></table>
+                        </td>
+
+                                            <td width="25" background="images/default/vertline.gif">
+                            <img alt="" height="20" src="images/default/spacer.gif" width="25" border="0">
+                            </td>
+                        <td width="125" valign="top">
+                            <table border="0" width="125" cellspacing="0" cellpadding="2">
+                                <tbody><tr>
+                                    <td>
+                                        <style type="text/css">
+  .rhc_connect_link {
+    border-bottom       : 1px solid #ddd;
+    display             : block;
+    min-height          : 60px;
+    margin-bottom       : 6px;
+    overflow            : hidden;
+    padding-bottom      : 2px;
+    text-align          : center;
+  }
+  .rhc_connect_link .icon_container {
+    float               : left;
+    width               : 60px;
+  }
+  .rhc_connect_link .arrow {
+    float               : right;
+    margin              : 25px 0px 0px 2px;
+  }
+  .rhc_connect_link span {
+    color               : #666;
+    display             : block;
+    overflow            : hidden;
+    padding-top         : 6px;
+  }
+  .rhc-social-media {
+    display: inline-block;
+    position: relative;
+    width: 150px;
+  }
+  .rhc-social-media .iconsList {
+    display: block;
+    margin: 0px auto;
+    width: 100%;
+    text-align:center;
+  }
+  .rhc-social-media .iconsList > a {
+    display: inline-block;
+  }
+  .rhc-social-media .iconsList > a > img {
+    height: 32px;
+    width: 32px;
+  }
+</style>
+
+<link rel="stylesheet" type="text/css" href="includes_shared/ajax_basket/rhc_basket.css">
+
+    <style type="text/css">
+        .windowBoxCart {
+          display:none;
+        }
+        #ajaxBasket-seperator {
+          display: none;
+        }
+    </style><div class="windowBoxCart">
+  <a class="windowTitleCart" href="shopping_cart.php?src=basket_rhc_head">
+    Your Basket  </a>
+
+	<div class="windowContentCart">
+		<a class="items_in_cart" href="shopping_cart.php?src=basket_rhc_items">
+     items in basket    </a>
+
+		<hr class="basket_separator">
+
+		<div class="windowBoxCart_totals_checkout">
+			Subtotal:&nbsp;
+      <span class="windowBoxCart_subtotal">
+        £0.00      </span><br>
+			<span class="windowBoxCart_delivery">
+        Delivery: Free      </span><br>
+			<a class="windowBoxCart_editBasket" href="shopping_cart.php?src=checkout_RHC_text">
+         <img src="product_thumb.php?img=images/arrow_right_whiteGrey_stroke.png&amp;w=14&amp;h=14">
+        Edit Basket      </a>
+			<a class="infoButton" id="rhc_addtobasketbtn" style="margin-top:6px;" href="shopping_cart.php?src=checkout_RHC_pink">
+        Checkout      </a>
+		</div>
+	</div>
+	<!-- POPUP cart -->
+	<div class="windowContentCartPopup">
+	    <hr class="navdiv">
+
+    <div class="basket_pop_total_qty">
+       items in basket    </div>
+  	<div class="basket_pop_subtotal_delivery">
+        <span class="basket_pop_subtotal">
+          Subtotal: £0.00        </span><br>
+        <span class="basket_pop_delivery">Delivery: Free</span>
+  		</div>
+    </div> <!-- end of popup -->
+</div><a style="display:block; margin: 6px 0; text-align:center;" href="http://www.primrose.co.uk/sale-offers-c-6597.html?src=rcol">
+     <img src="images/EndofSeason_149px_2015.jpg" alt="Primrose - Special Offers" title="">
+</a>
+<a style="display:block; margin: 6px 0; text-align:center;" href="https://gardens.primrose.co.uk/" target="_blank" onclick="dataLayer.push({'eventCategory' : 'outbound link', 'eventAction' : 'gardens.primrose.co.uk', 'eventLabel' : 'outbound link Primrose Garden App', 'eventValue' : '', 'event' : 'outboundLink'});">
+   <img src="images/RHC_app_ad.jpg" alt="Create a gorgeous free website with our new garden app">
+</a>
+
+<hr class="navdivGrey">
+
+<style type="text/css">
+#primrose_promise_container{
+    position:relative;
+}
+
+#primrose_promise_container img {
+    margin-right:-2px;
+    z-index:-1;
+}
+
+#primrose_promise_image {
+    border-radius:10px;
+    /*margin-top:-122px;*/
+    margin-left:3px;
+    width:142px;
+    /*height:205px;*/
+    background-color:white;
+    position:relative;
+}
+
+#our_promise {
+    color: #666;
+    font-family: Tahoma, Verdana, Arial, sans-serif;
+    font-size: 22px;
+    padding-bottom: 0px;
+    /*margin-top: -55px;*/
+    /*margin-left: -9px;*/
+    margin-top: 30px;
+    width: 80px;
+    text-align: center;
+}
+.promise-container-border {
+    border: 1px solid #adadad;
+    border-radius: 5px 5px 5px 5px;
+    padding: 5px;
+    width: 133px;
+    box-shadow: 0px 0px 10px #d6d6d6;
+    margin-top: 0px;
+ background:white;
+}
+.primrose_promise_judith_img {
+    background-image:url('images/primrose_promise.jpg');
+    background-repeat: no-repeat;
+    height: 100%;
+    width: 100%;
+}
+.primrose_promise_links_container {
+    font-family: Tahoma, Verdana, Arial, sans-serif;
+    font-size:11px;
+    padding-left:4px;
+    padding-top:9px;
+    width: 147px;
+}
+
+#promise_tick img {
+    float:left;
+}
+
+.primrose_promise_links {
+    margin-left:20px;
+    /*position:absolute;*/
+    position: relative;
+}
+.tick_link_line {
+    margin-bottom:12px;
+    width: 134px;
+}
+
+.promise_phone_number{
+    color:#666;
+    font-family: Tahoma, Verdana, Arial, sans-serif;
+    font-size:20px;
+    text-align:center;
+    margin-top:0px;
+}
+.call_us{
+    color:black;
+    font-family: Tahoma, Verdana, Arial, sans-serif;
+    font-size:10px;
+    text-align:center;
+    padding-bottom:5px;
+}
+</style>
+
+
+
+
+
+<div id="primrose_promise_container">
+    <div class="primrose_promise_judith_img primrose_promise_links_container">
+        <div id="our_promise"> &nbsp;Our <br>Promise </div>
+        <div class="promise-container-border">
+                                                <div class="tick_link_line">
+                        <img alt="tick" height="16" src="/images/default/checkmark.gif" style="float:left;" width="16">
+                        <div class="primrose_promise_links">
+                            <a href="/delivery.php?src=rhc_promise#Faults"> Minimum 2 year warranty on everything                                <br>
+                                </a>
+                            </div>
+                        </div>
+                                        <div class="tick_link_line">
+                        <img alt="tick" height="16" src="/images/default/checkmark.gif" style="float:left;" width="16">
+                        <div class="primrose_promise_links">
+                            <a href="/delivery.php?src=rhc_promise#returns"> 60 days to return                                <br>
+                                </a>
+                            </div>
+                        </div>
+                                        <div class="tick_link_line">
+                        <img alt="tick" height="16" src="/images/default/checkmark.gif" style="float:left;" width="16">
+                        <div class="primrose_promise_links">
+                            <a href="/delivery.php?src=rhc_promise#NextDayDelivery"> Next Day Delivery<br><span style="font-size:10px; color:#666;">
+                                on most products - see item description</span>                                <br>
+                                </a>
+                            </div>
+                        </div>
+                                        <div class="tick_link_line">
+                        <img alt="tick" height="16" src="/images/default/checkmark.gif" style="float:left;" width="16">
+                        <div class="primrose_promise_links">
+                            <a href="/pricematch.php?src=rhc_promise"> Best price guarantee                                <br>
+                                </a>
+                            </div>
+                        </div>
+                                                <div class="promise_phone_number">
+                0118 903 5210                </div>
+            <div class="call_us"> Call us for advice<br>and help with any problems! </div>
+        </div>
+    </div>
+    <div id="primrose_promise_image"></div>
+    </div>  <a href="/mail/subscribe.php?src=rhc" class="rhc_connect_link">
+    <div class="icon_container">
+      <img src="images/RHC_email_subscribe_link.jpg" border="0">
+    </div>
+    <img class="arrow" alt=">" src="product_thumb.php?img=images/arrow_right_whiteGrey_stroke.png&amp;w=12&amp;h=12">
+  	<span>Get our email newsletter deals!</span>
+  </a>
+    <a href="submit_images.php?src=rhc" class="rhc_connect_link">
+    <div class="icon_container">
+      <img src="images/RHC_pound_symbol.jpg" border="0">
+    </div>
+    <img class="arrow" alt=">" src="product_thumb.php?img=images/arrow_right_whiteGrey_stroke.png&amp;w=12&amp;h=12">
+  	<span>Get paid for your photos!</span>
+  </a>
+    <a href="gardening_questions.php?src=rhc" class="rhc_connect_link">
+    <div class="icon_container">
+      <img src="images/RHC_questionmark_symbol.jpg" border="0">
+    </div>
+    <img class="arrow" alt=">" src="product_thumb.php?img=images/arrow_right_whiteGrey_stroke.png&amp;w=12&amp;h=12">
+  	<span>Ask our expert your gardening questions</span>
+  </a>
+    <a style="display:block; font-family:Arial,Tahoma,Verdana,sans-serif; position:relative; padding: 3px 3px 25px" href="http://www.primrose.co.uk/a-selection-of-product-reviews.php?src=rhc">
+    <div class="column_products_details_header">Our customer reviews</div>
+    <div style="color:#666; font-style:italic; text-align:center;">
+      Fast delivery as promised    </div>
+    <span style="display:block; position:absolute; right:0; bottom:0; font-weight:bold; padding:3px;">
+      More      <img src="/product_thumb.php?img=images/arrow_right_whiteGrey_stroke.png&amp;w=13&amp;h=13" border="0">
+    </span>
+  </a>
+<div class="Maintext" align="center" style="text-align:center; margin: 10px 0px; vertical-align: top;">
+<a id="feefologoa" title="Independent customer reviews by Feefo - click to view" href="http://www.feefo.com/feefo/viewvendor.jsp?logon=www.primrose.co.uk%2FPrimrose" target="_blank"><img src="/images/feefo-images/1.service-stars-white-125x125_en.png" border="0"></a></div>
+
+
+<hr class="navdivGrey">
+
+
+
+<!-- Social Media Icons -->
+  <div class="rhc-social-media">
+    <div class="column_products_details_header">Follow Us</div>
+    <div class="iconsList">
+            <a href="https://www.facebook.com/Primrose.co.uk" target="_blank" rel="nofollow">
+        <img src="images/social-icons/facebook_icon_50x50.png" alt="Facebook" title="Find us on Facebook">
+      </a>
+            <a href="http://twitter.com/PrimroseUK" target="_blank" rel="nofollow">
+        <img src="images/social-icons/twitter_icon_50x50.png" alt="Twitter" title="Follow us on Twitter">
+      </a>
+            <a href="http://blog.primrose.co.uk" target="_blank" rel="nofollow">
+        <img src="images/social-icons/wordpress_icon_50x50.png" alt="Blog" title="Read our blog">
+      </a>
+            <a href="https://www.youtube.com/user/primrosevideos" target="_blank" rel="nofollow">
+        <img src="images/social-icons/youtube_icon_50x50.png" alt="YouTube" title="Watch our videos on YouTube">
+      </a>
+            <a href="https://plus.google.com/107592062111586729000/posts" target="_blank" rel="nofollow">
+        <img src="images/social-icons/googleplus_icon_50x50.png" alt="Google+" title="Follow us on Google+">
+      </a>
+            <a href="https://instagram.com/primrose.co.uk/" target="_blank" rel="nofollow">
+        <img src="images/social-icons/instragram_icon_50x50.png" alt="Instagram" title="Follow us on Instagram">
+      </a>
+            <a href="https://www.pinterest.com/primroseuk/" target="_blank" rel="nofollow">
+        <img src="images/social-icons/pinterest_icon_50x50.png" alt="Pinterest" title="Follow us on Pinterest">
+      </a>
+            <a href="http://www.houzz.co.uk/pro/primroseuk/primrose" target="_blank" rel="nofollow">
+        <img src="images/social-icons/houzz_icon_50x50.png" alt="Houzz" title="Follow us on Houzz">
+      </a>
+        </div>
+</div>
+                                        </td>
+                                    </tr>
+                                </tbody></table>
+                            </td>
+                        
+                    </tr>
+                </tbody></table>
+            
+        
+
+        <div class="footer_container">
+        
+<style type="text/css">
+#store_footer {
+    background-color    : #ddd;
+    border-top          : 1px solid #bbb;
+    clear               : both;
+    margin-top          : -2px;
+    padding             : 0 0 18px;
+    position            : relative;
+    width               : 100%;
+    }
+#footer_link_container {
+    margin              : 20px 20px 0;
+    text-align          : center;
+    }
+.footer_link_box {
+    clear               : right;
+    display             : inline-block;
+    margin              : 0em 1em;
+    text-align          : left;
+    vertical-align      : top;
+    width               : 170px;
+    }
+.footer_link_box a {
+    color               : #333;
+    }
+.footer_link_box a:hover {
+    color               : #063;
+    }
+.footer_link_box ul {
+    font-size           : 1.1em;
+    margin              : 0px;
+    padding-left        : 0;
+    vertical-align      : top;
+    }
+.footer_link_box ul[data-title]::before {
+    content             : attr( data-title );
+    background-color    : #333;
+    border-radius       : 2px;
+    color               : #FFF;
+    display             : block;
+    font-size           : 1.3em;
+    margin-bottom       : 4px;
+    padding             : 4px;
+    text-align          : center;
+}
+.footer_link_box ul a {
+    display             : list-item;
+    list-style-type     : none;
+    margin-bottom       : 2px;
+    }
+.footer_link_box#couriers_box {
+    display             : none;
+    text-align          : center;
+    width               : 100%;
+    }
+.footer_link_box#couriers_box ul[data-title]::before {
+    display             : none;
+    }
+.footer_link_box#social_box .footer_link_newsletters {
+    display             : block;
+    margin-bottom       : 10px;
+    }
+.footer_link_box#social_box .footer_link_newsletters a {
+    display             : inline-block;
+    }
+.footer_link_box#social_box a {
+    display             : inline-block;
+    vertical-align      : top;
+    }
+.footer_link_box#social_box img {
+    height              : 32px;
+    padding             : 2px;
+    width               : 32px;
+    }
+.footer_link_box#couriers_box img {
+    background-color    : #FFF;
+    margin              : 2px;
+    padding             : 2px;
+    }
+/** Back to top btn **/
+.scrollupWrap {
+    bottom              : 40px;
+    display             : none; /* overridden by JS check */
+    height              : 90px;
+    position            : fixed;
+    right               : 2px;
+    z-index             : 1000000;
+    }
+.scrollupWrap a {
+    color               : #333;
+    display             : block;
+    height              : 90px;
+    text-align          : center;
+    text-decoration     : none;
+    text-transform      : uppercase;
+    transition          : 1s;
+    width               : 108px;
+    }
+.scrollupWrap a:hover {
+    color               : #000;
+    }
+.scrollupWrap span {
+    background          : url('../images/mobile/mob_elements_sprite.png') no-repeat 30px -85px;
+    display             : block;
+    height              : 50px;
+    margin-bottom       : 7px;
+    opacity             : 0.3;
+    transition          : 1s;
+    width               : 108px;
+    }
+#footer_link_container .footer_community,
+#footer_link_container .footer_payments {
+    display             : none;
+    margin              : 2em 0em 1em 0em;
+    }
+#footer_link_container .footer_community .community-sprite {
+    background-image    : url('../images/footer_community_sprite.png');
+    background-repeat   : no-repeat;
+    display             : inline-block;
+    height              : 40px;
+    margin-right        : 2em;
+    }
+#footer_link_container .footer_payments .footer_payments_title {
+    color               : #666;
+    font-size           : 1.2em;
+    margin-bottom       : 12px;
+    }
+#footer_link_container .footer_payments a {
+    display             : inline-block;
+    margin              : 0 1.2% 4px;
+    vertical-align      : top;
+    }
+#footer_link_container .disclaimer {
+    clear               : both;
+    color               : #909090;
+    margin              : 3px 0;
+    text-align          : center;
+    }
+#GoogleCertifiedShopContainer {
+    display             : inline-block;
+    text-align          : center;
+    }
+@media only screen and (min-width:860px) {
+    .scrollupWrap {
+        bottom              : auto;
+        display             : block;
+        height              : auto;
+        padding             : 0 10px 0;
+        overflow            : hidden;
+        position            : relative;
+        right               : auto;
+        text-align          : right;
+        text-transform      : none;
+        z-index             : 1;
+        }
+    .scrollupWrap a {
+        color               : #063;
+        float               : right;
+        font                : inherit;
+        height              : auto;
+        transition          : none;
+        width               : auto;
+        }
+    .scrollupWrap a:hover {
+        color               : #063;
+        }
+    .scrollupWrap span {
+        display             : none;
+        }
+    #back-top {
+        display             : none;
+        }
+    #footer_link_container #couriers_box,
+    #footer_link_container .footer_community,
+    #footer_link_container .footer_payments {
+        display             : block;
+        }
+}
+</style>
+
+
+<script>
+$(document).ready(function(){
+  $( function() {
+    $( '#scrollup' ).click( function () {
+      $( 'html, body' ).animate( {
+        scrollTop: 0
+      }, 600);
+      return false;
+    } );
+  } );
+
+  var pageHeight = $(document).height()-700;
+  $(window).scroll(function () {
+    if ( ($(this).scrollTop() > 200) ) {
+      $('.scrollupWrap').fadeIn();
+    } else {
+      $('.scrollupWrap').fadeOut();
+    }
+  });
+
+  /* AMAZON checkout */
+  $('#amazon_footer').click(function(e){
+    e.preventDefault();
+    url = $(this).attr('href');
+    window.open(url,"Amazon Checkout Information",'width=450,height=500,left=100,top=50,scrollbars=1');
+  });
+});
+</script>
+
+
+<footer id="store_footer">
+
+  <div id="footer_link_container" class="clearfix">
+
+    <div class="scrollupWrap">
+      <a href="#" id="scrollup">
+         <span></span>
+         Back to top      </a>
+    </div>
+
+  <section class="footer_link_box">
+    <ul data-title="Customer Service">
+      <a href="http://www.primrose.co.uk/contact_us.php?src=footer">Contact Us</a>
+      <a href="http://www.primrose.co.uk/delivery.php?src=footer">Delivery &amp; Returns</a>
+                  <a href="http://www.primrose.co.uk/delivery.php?src=footer">Track Your Order</a>
+                  <a href="http://www.primrose.co.uk/help.php?src=footer">Help</a>
+            <a href="trade.php?src=footer">Trade Customers</a>
+            <br>
+      0118 903 5210      <a href="mailto:info@primrose.co.uk">info@primrose.co.uk</a>
+      <br>
+      Office Hours:<br>9am - 5pm weekdays<br><br>
+
+            <!-- BoldChat Live Chat Button HTML v5.00 (Type=HTML,ChatWindow=Primrose.co.uk,Department=UK CS,Website=Primrose.co.uk) -->
+      <div style="white-space: nowrap; margin-top:10px;">
+            <!-- BoldChat Live Chat Button HTML v5.00 (Type=HTML,ChatWindow=Primrose.co.uk,Department=UK CS,Website=Primrose.co.uk) -->
+      <script type="text/javascript">
+        var bccbId = Math.random(); document.write(unescape('%3Cdiv id=' + bccbId + '%3E%3C/div%3E'));
+        window._bcvma = window._bcvma || [];
+        _bcvma.push(["setAccountID", "6711119041261025017"]);
+        _bcvma.push(["setParameter", "WebsiteID", "3761965485514772984"]);
+        _bcvma.push(["setParameter", "CustomUrl", ""])
+        _bcvma.push(["setParameter", "WindowParameters", "vr=&vi=&ve=&vp=&vn=&lc="])
+        _bcvma.push(["addText", {type: "chat", department: "2746996629078589204", window: "8536351946110624837", available: "Chat Live", unavailable: "", id: bccbId}]);
+        var bcLoad = function(){
+          if(window.bcLoaded) return; window.bcLoaded = true;
+          var vms = document.createElement("script"); vms.type = "text/javascript"; vms.async = true;
+          vms.src = ('https:'==document.location.protocol?'https://':'http://') + "vmss.boldchat.com/aid/6711119041261025017/bc.vms4/vms.js";
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(vms, s);
+        };
+        if(window.pageViewer && pageViewer.load) pageViewer.load();
+        else if(document.readyState=="complete") bcLoad();
+        else if(window.addEventListener) window.addEventListener('load', bcLoad, false);
+        else window.attachEvent('onload', bcLoad);
+      </script><div id="0.2841714124880259"></div>
+      <!-- /BoldChat Live Chat Button HTML v5.00 --><!-- freshchat disabled -->      </div>
+      <!-- /BoldChat Live Chat Button HTML v5.00 -->
+          </ul>
+  </section>
+
+
+
+
+  <section class="footer_link_box">
+    <ul data-title="About Us">
+      <a href="http://www.primrose.co.uk/about_us.php?src=footer">About Us</a>
+      <a href="http://www.primrose.co.uk/a-selection-of-product-reviews.php?src=footer">Our customer reviews</a>
+            <a href="media.php?src=footer">Primrose in the Media</a>
+      <a href="pricematch.php?src=footer">Price Match</a>
+      
+      <a href="http://www.primrose.co.uk/privacy.php?src=footer">Privacy Policy</a>
+      <a href="http://www.primrose.co.uk/conditions.php?src=footer">Terms &amp; Conditions</a>
+      <a href="http://www.primrose.co.uk/guarantee.php?src=footer">Guarantee</a>
+      <a href="http://www.primrose.co.uk/security.php?src=footer">Security</a>
+      <a href="http://www.primrose.co.uk/copyright.php?src=footer">Copyright</a>
+      <a href="privacy_cookies.php?src=footer">Cookies Policy</a>
+    </ul>
+  </section>
+
+
+
+
+    <section class="footer_link_box">
+    <ul data-title="Your Account">
+      <a rel="noindex" href="http://www.primrose.co.uk/account.mvc/login?src=footer">Log in / Register</a>
+      <a rel="noindex" href="http://www.primrose.co.uk/account.mvc/login?src=footer">Your Account</a>
+      <a rel="noindex" href="http://www.primrose.co.uk/account.mvc/login?src=footer">Your Order History</a>
+      <a rel="noindex" href="shopping_cart.php?src=footer">Your Basket</a>
+
+            <a href="http://www.primrose.co.uk/delivery.php?src=footer">Track Your Order</a>
+          </ul>
+  </section>
+    <section class="footer_link_box" id="social_box">
+    <ul data-title="Follow Us">
+            <div class="footer_link_newsletters">
+        <a rel="nofollow" href="/mail/subscribe.php?src=footer">Sign up for our newsletter and be first to hear about our latest offers</a>
+      </div>
+            <a rel="nofollow" href="https://www.facebook.com/Primrose.co.uk" target="_blank">
+        <img src="product_thumb.php?img=images/social-icons/facebook_icon_50x50.png" alt="Facebook?" title="Find us on Facebook">
+      </a>
+            <a rel="nofollow" href="http://twitter.com/PrimroseUK" target="_blank">
+        <img src="product_thumb.php?img=images/social-icons/twitter_icon_50x50.png" alt="Twitter?" title="Follow us on Twitter">
+      </a>
+            <a rel="nofollow" href="http://blog.primrose.co.uk" target="_blank">
+        <img src="product_thumb.php?img=images/social-icons/wordpress_icon_50x50.png" alt="Blog?" title="Read our blog">
+      </a>
+            <a rel="nofollow" href="https://www.youtube.com/user/primrosevideos" target="_blank">
+        <img src="product_thumb.php?img=images/social-icons/youtube_icon_50x50.png" alt="YouTube?" title="Watch our videos on YouTube">
+      </a>
+            <a rel="nofollow" href="https://plus.google.com/107592062111586729000/posts" target="_blank">
+        <img src="product_thumb.php?img=images/social-icons/googleplus_icon_50x50.png" alt="Google+?" title="">
+      </a>
+            <a rel="nofollow" href="https://instagram.com/primrose.co.uk/" target="_blank">
+        <img src="product_thumb.php?img=images/social-icons/instragram_icon_50x50.png" alt="Instagram?" title="">
+      </a>
+            <a rel="nofollow" href="https://www.pinterest.com/primroseuk/" target="_blank">
+        <img src="product_thumb.php?img=images/social-icons/pinterest_icon_50x50.png" alt="Pinterest?" title="">
+      </a>
+            <a rel="nofollow" href="http://www.houzz.co.uk/pro/primroseuk/primrose" target="_blank">
+        <img src="product_thumb.php?img=images/social-icons/houzz_icon_50x50.png" alt="Houzz?" title="">
+      </a>
+          </ul>
+  </section>
+  
+
+
+
+
+      <div class="footer_community">
+      <a href="http://www.primrose.co.uk/about_us.php?src=footer" style="color:#333;">
+                    <span class="community-sprite" style="background-position: -455px; width: 217px;"></span>
+                    <span class="community-sprite" style="background-position: -195px; width: 253px;"></span>
+                    <span class="community-sprite" style="background-position: 0px; width: 190px;"></span>
+              </a>
+    </div>
+    
+
+
+
+  <div class="footer_payments">
+    <a id="amazon_footer" href="cba_amazon.php?utm_source=internal_referral&amp;utm_medium=banner&amp;utm_campaign=amazon_header" target="_blank">
+              <img src="images/amazon_payments_footer_transback.png" width="224" height="40" border="0" alt="Amazon Payments" title="Amazon Payments">
+           </a><a href="https://www.paypal.com/EN/webapps/mpp/pay-online" target="blank" onclick="javascript:window.open('https://www.paypal.com/webapps/mpp/paypal-popup','WIPaypal','toolbar=no, location=no, directories=no, status=no, menubar=no, scrollbars=yes, resizable=yes, width=1060, height=700');">
+              <img src="images/paypal_footer_transback.png" width="145" height="40" border="0" alt="PayPal" title="PayPal">
+          </a><a rel="nofollow" href="help.php">
+              <img src="images/sagepay_footer_cards_transback.png" width="289" height="40" border="0" alt="Sagepay" title="Sagepay">
+           </a>    <div id="GoogleCertifiedShopContainer">
+        <!-- Google Certified shops badge will be injected here-->
+    </div>
+  </div>
+
+
+
+
+  <div class="disclaimer">
+    * Saving when compared to Recommended Retail Price<br>
+    Primrose is the trading name of Meika Ltd (registration no: 4756556), registered at 44 Portman Road, Reading, RG30 1EA. VAT Number GB945691778  </div>
+
+</div></footer>
+
+
+
+    <!-- BEGIN: Google Certified Shops -->
+    <script type="text/javascript">
+      var gts = gts || [];
+
+      gts.push(["id", "52707"]);
+      gts.push(["badge_position","USER_DEFINED"]);
+      gts.push(["badge_container","GoogleCertifiedShopContainer"]);
+      gts.push(["locale", "en_GB"]);
+      
+      gts.push(["google_base_subaccount_id", "375660"]);
+      gts.push(["google_base_country", "GB"]);
+      gts.push(["google_base_language", "en"]);
+
+      (function() {
+        var scheme = (("https:" == document.location.protocol) ? "https://" : "http://");
+        var gts = document.createElement("script");
+        gts.type = "text/javascript";
+        gts.async = true;
+        gts.src = scheme + "www.googlecommerce.com/trustedstores/api/js";
+        var s = document.getElementsByTagName("script")[0];
+        s.parentNode.insertBefore(gts, s);
+      })();
+    </script>
+    <!-- END: Google Certified Shops --><!-- freshchat disabled -->        </div>
+
+
+        <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"03f3aa8c0a","applicationID":"3035970,3035971,3035960","transactionName":"NVJbZ0JTXUsCARVYXgwYbEFZHUNKChQAUkhMR1FD","queueTime":0,"applicationTime":91,"ttGuid":"","agentToken":"","userAttributes":"","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-536.min.js"}</script>
+
+
+
+<script src="https://js-agent.newrelic.com/nr-536.min.js"></script></body></html>
