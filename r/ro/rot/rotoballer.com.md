@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rotoballer.com privacy policy that was archived on 2015-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150622095836id_/http%3A//www.rotoballer.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rotoballer.com privacy policy that was archived on 2015-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151212085328id_/http%3A//www.rotoballer.com/privacy-policy) for the most accurate reproduction.*
 
 # RotoBaller Privacy Policy | RotoBaller
 
@@ -6,7 +6,7 @@
 
 RotoBaller knows that you care about how your personal information is used and shared, and we take your privacy very seriously. Please read the following to learn more about our privacy policy. By visiting our website, you are accepting the practices outlined in this Privacy Policy.
 
-This Privacy Policy covers RotoBaller’s treatment of personal information that RotoBaller gathers when you are on the RotoBaller website and when you use RotoBaller services. This policy does not apply to the practices of third parties that RotoBaller does not own or control, or to individuals that RotoBaller does not employ or manage.
+This Privacy Policy covers RotoBaller's treatment of personal information that RotoBaller gathers when you are on the RotoBaller website and when you use RotoBaller services. This policy does not apply to the practices of third parties that RotoBaller does not own or control, or to individuals that RotoBaller does not employ or manage.
 
 Information Collected by RotoBaller
 
@@ -16,21 +16,21 @@ We only collect personal information that is relevant to the purpose of our webs
 
 2\. Automatic Information:
 
-We receive and store certain types of information whenever you interact with us. RotoBaller and its authorized agents automatically receive and record certain “traffic data” on their server logs from your browser including your IP address, RotoBaller cookie information, and the page you requested. RotoBaller uses this traffic data to help diagnose problems with its servers, analyze trends and administer the website.  
+We receive and store certain types of information whenever you interact with us. RotoBaller and its authorized agents automatically receive and record certain "traffic data" on their server logs from your browser including your IP address, RotoBaller cookie information, and the page you requested. RotoBaller uses this traffic data to help diagnose problems with its servers, analyze trends and administer the website.  
 o RotoBaller may collect and, on any page, display the total counts that page has been viewed.
 
 Many companies offer programs that help you to visit websites anonymously. While RotoBaller will not be able to provide you with a personalized experience if we cannot recognize you, we want you to be aware that these programs are available.
 
 E-mail Communications  
-RotoBaller is very concerned about your privacy and we will never provide your email address to a third party without your explicit permission, as detailed in the “Sharing Your Information” section below. RotoBaller may send out e-mails with RotoBaller-related news, products, offers, surveys or promotions.
+RotoBaller is very concerned about your privacy and we will never provide your email address to a third party without your explicit permission, as detailed in the "Sharing Your Information" section below. RotoBaller may send out e-mails with RotoBaller-related news, products, offers, surveys or promotions.
 
 Cookies
 
-Cookies are alphanumeric identifiers that we transfer to your computer’s hard drive through your Web browser to enable our systems to recognize your browser and tell us how and when pages in our website are visited and by how many people. RotoBaller cookies do not collect personal information, and we do not combine information collected through cookies with other personal information to tell us who you are or what your screen name or e-mail address is.
+Cookies are alphanumeric identifiers that we transfer to your computer's hard drive through your Web browser to enable our systems to recognize your browser and tell us how and when pages in our website are visited and by how many people. RotoBaller cookies do not collect personal information, and we do not combine information collected through cookies with other personal information to tell us who you are or what your screen name or e-mail address is.
 
-The “help” portion of the toolbar on the majority of browsers will direct you on how to prevent your browser from accepting new cookies, how to command the browser to tell you when you receive a new cookie, or how to fully disable cookies. We recommend that you leave the cookies activated because cookies allow you to use some of RotoBaller’s coolest features.
+The "help" portion of the toolbar on the majority of browsers will direct you on how to prevent your browser from accepting new cookies, how to command the browser to tell you when you receive a new cookie, or how to fully disable cookies. We recommend that you leave the cookies activated because cookies allow you to use some of RotoBaller's coolest features.
 
-RotoBaller’s advertising partners may place a cookie on your browser that makes it possible to collect anonymous non-personally identifiable information that ad delivery systems use to present more relevant ads. If you would prefer to opt-out of this standard practice, please visit our advertising partner Platform-A’s privacy policy and opt-out page.
+RotoBaller's advertising partners may place a cookie on your browser that makes it possible to collect anonymous non-personally identifiable information that ad delivery systems use to present more relevant ads. If you would prefer to opt-out of this standard practice, please visit our advertising partner Platform-A's privacy policy and opt-out page.
 
 Sharing Your Information
 
@@ -48,7 +48,7 @@ With Your Consent: Except as noted above, we will contact you when your personal
 
 Children Under 18 Years of Age
 
-You must be 13 years and older to register to use the RotoBaller website. As a result, RotoBaller does not specifically collect information about children. If we learn that RotoBaller has collected information from a child under the age of 13, we will delete that information as quickly as possible. We recommend that minors between the ages of 13 and 18 ask and receive their parents’ permission before using RotoBaller or sending information about themselves or anyone else over the Internet.
+You must be 13 years and older to register to use the RotoBaller website. As a result, RotoBaller does not specifically collect information about children. If we learn that RotoBaller has collected information from a child under the age of 13, we will delete that information as quickly as possible. We recommend that minors between the ages of 13 and 18 ask and receive their parents' permission before using RotoBaller or sending information about themselves or anyone else over the Internet.
 
 Changes to this Privacy Policy
 
@@ -96,11 +96,11 @@ Information about Users that is maintained on Company’s systems is protected u
 
 **Correcting, Updating, Accessing or Removing Personal Information**
 
-If a User’s personally identifiable information changes (such as a User’s zip code), or if a User no longer desires to receive non-account specific information from Company, Company will endeavor to provide a way to correct, update and/or remove that User’s previously-provided personal data. This can be done by emailing a request to Company at [info@rotoballer.com](mailto:info@rotoballer.com?offer_id+15&aff_id=1027) Additionally, you may request access to the personally identifiable information as collected by Company by sending a request to Company as set forth above. Please note that in certain circumstances, Com pany may not be able to completely remove a User’s information from its systems. For example, Company may retain a User’s personal information for legitimate business purposes, if it may be necessary to prevent fraud or future abuse, for account recovery purposes, if required by law or as retained in Company’s data backup systems or cached or archived pages. All retained personally identifiable information will continue to be subject to the terms of the Privacy Policy to which the User has previously agreed. Please note that you may access and manage your account via the “My Account” link  available on the Website.
+If a User’s personally identifiable information changes (such as a User’s zip code), or if a User no longer desires to receive non-account specific information from Company, Company will endeavor to provide a way to correct, update and/or remove that User’s previously-provided personal data. This can be done by emailing a request to Company at [info@rotoballer.com](mailto:info@rotoballer.com) Additionally, you may request access to the personally identifiable information as collected by Company by sending a request to Company as set forth above. Please note that in certain circumstances, Com pany may not be able to completely remove a User’s information from its systems. For example, Company may retain a User’s personal information for legitimate business purposes, if it may be necessary to prevent fraud or future abuse, for account recovery purposes, if required by law or as retained in Company’s data backup systems or cached or archived pages. All retained personally identifiable information will continue to be subject to the terms of the Privacy Policy to which the User has previously agreed. Please note that you may access and manage your account via the “My Account” link  available on the Website.
 
 **Contacting Company**
 
-If you have any questions or comments about this Privacy Policy, you may contact Company via email: [info@rotoballer.com](mailto:info@rotoballer.com?offer_id+15&aff_id=1027)
+If you have any questions or comments about this Privacy Policy, you may contact Company via email: [info@rotoballer.com](mailto:info@rotoballer.com)
 
 **Your California Privacy Rights**
 
