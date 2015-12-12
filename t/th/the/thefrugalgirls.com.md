@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thefrugalgirls.com privacy policy that was archived on 2015-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150512160336id_/http%3A//thefrugalgirls.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thefrugalgirls.com privacy policy that was archived on 2015-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151212070225id_/http%3A//thefrugalgirls.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy Statement
+# Privacy Policy Statement - The Frugal Girls
 
 This privacy policy sets out how The Frugal Girls uses and protects any information that you give while using www.TheFrugalGirls.com.  Your privacy is important to us. We will never sell or provide your email address to anyone.
 
@@ -50,5 +50,3 @@ All giveaways hosted at TheFrugalGirls.com are open to U.S. residents age 18 and
 The Frugal Girls may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes.
 
 _This policy was last updated: December 2, 2014_
-
-[](http://www.printfriendly.com/print?url=http%3A%2F%2Fthefrugalgirls.com%2Fprivacy-policy)
