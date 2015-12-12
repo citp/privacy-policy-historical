@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the bam.org privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608211502id_/http%3A//www.bam.org/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bam.org privacy policy that was archived on 2015-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151212162905id_/http%3A//www.bam.org/about/privacy-policy) for the most accurate reproduction.*
 
 # BAM | Privacy Policy
-
-Effective: Nov 10, 2010
 
   
 The Brooklyn Academy of Music (BAM) is committed to protecting your privacy. This policy describes the personal information we collect about you, the security measures we take to protect your information, the ways we use your information, and the limited situations in which we may share your information with third parties. Our policy also describes the choices you can make about how we collect and use your information. We encourage you to read the complete privacy policy; use of BAM's family of websites (e.g., BAM.org and BAMNextStage.org) constitutes your acceptance of this policy. 
@@ -37,16 +35,6 @@ BAM.org has redundant, dedicated firewalls that protect both its transactional s
    
 We use your personal information for the following purposes: 
 
--To improve site functionality, relevance, and security 
-
--To deliver personalized services such as e-newsletters and postal mailings 
-
--To help us create and publish content most relevant to you
-
--To allow you access to a personalized ticketing service area 
-
--To support strategic development
-
 Occasionally, BAM may make some personal information available to select third party organizations, including but not limited to: nonprofit arts organizations, affiliated organizations, and companies or organizations with whom we have a contractual or sponsor relationship. This information generally consists of your name and mailing address. We do not share your email address or telephone number. You can request at anytime that we do not share your name and address with such third parties. 
 
 Performances at BAM are often produced or presented by other organizations. When you make a purchase for a performance presented or produced by one of these organizations, BAM may provide them with information regarding your purchase. This information may include, but shall not be limited to, your name, address, telephone number, and email address, as well as general details of your purchase, which may include, but shall not be limited to, the date of your purchase, any offer you responded to, and the dollar amount of your transaction. 
@@ -68,4 +56,4 @@ BAM will occasionally update this privacy statement. When we do, we will revise 
    
 BAM welcomes your comments regarding this privacy statement. Please email info@BAM.org, call 718.636.4100 (press 1), or write to us at: Ticket Services, 30 Lafayette Avenue, Brooklyn, NY 11217. 
 
-Effective: Nov 10, 2010
+Last Updated: May 3, 2014
