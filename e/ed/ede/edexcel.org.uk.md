@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the edexcel.org.uk privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627135925id_/http%3A//uk.pearson.com/pearson-privacy/policy/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edexcel.org.uk privacy policy that was archived on 2015-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151212132937id_/http%3A//uk.pearson.com/pearson-privacy/policy/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy : Pearson UK
 
@@ -122,9 +122,9 @@ If you have any questions about our Privacy Policy or the data we hold about you
 
 Data Protection Officer   
 Pearson   
-190 High Holborn  
+80 Strand  
 London  
-WC1V 7BH  
+WC2R 0RL  
 United Kingdom 
 
 \- or email us at [ **UKDataProtection@pearson.com**](mailto:UKDataProtection@pearson.com).
