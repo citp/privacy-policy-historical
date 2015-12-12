@@ -1,14 +1,12 @@
-> *The following text is extracted and transformed from the tjx.com privacy policy that was archived on 2015-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150321132241id_/http%3A//www.tjx.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tjx.com privacy policy that was archived on 2015-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151212141600id_/http%3A//www.tjx.com/privacy.html) for the most accurate reproduction.*
 
-# Privacy Notice
+# Privacy - The TJX Companies, Inc.
 
-**Effective Date: June 2013**
+Effective Date: June 2013
 
-### Tjx.com Website Privacy Notice 
+Welcome to the TJX Corporate Website ("the website"), the website for The TJX Companies, Inc. ("TJX"). TJX, T.J. Maxx, Marshalls, HomeGoods, Sierra Trading Post, Derailed and other affiliates are the "TJX Businesses." This Privacy Notice describes the type of personal information we collect on the website, how we may use that information, with whom we share that information, how we protect that information and how you can access and update your employment profile.
 
-Welcome to the TJX Corporate Website ("the website"), the website for The TJX Companies, Inc. ("TJX"). TJX, T.J. Maxx, Marshalls, HomeGoods, Sierra Trading Post, Derailed and other affiliates are the "TJX Businesses." This Privacy Notice describes the type of personal information we collect on the website, how we may use that information, with whom we share that information, how we protect that information and how you can access and update your employment profile. 
-
-#### Information We Collect
+## Information We Collect
 
 _Request Current Investor Information Online_
 
@@ -38,7 +36,7 @@ If you would like to send a job listing you found on the website to a friend, we
 
 We may also collect certain computer and browser information through automated technologies such as cookies. A "cookie" is a file that a website sends to a visitor's computer or other Internet-connected device to identify the browser or to store information or settings in the browser. If you do not wish to receive cookies, you can set up your browser to refuse some or all cookies. However, disabling our cookies may impact certain functionalities of the website.
 
-#### How We Use the Information We Collect
+## How We Use the Information We Collect
 
   * Review and process your application for the position you posted for and if applicable, shared for other job opportunities
   * Respond to your comments and inquiries
@@ -52,7 +50,7 @@ We may also collect certain computer and browser information through automated t
 
 
 
-#### With Whom We Share Your Information
+## With Whom We Share Your Information
 
 _TJX Businesses_ \- We may share your information among TJX Businesses (which are affiliates owned by TJX, including T.J. Maxx, Marshalls, HomeGoods, Sierra Trading Post, Derailed, Winners, HomeSense, and T.K. Maxx). They may use this information to process your application or request and communicate with you the status of your application or request.
 
@@ -62,32 +60,29 @@ _Legal and Compliance_ – We may disclose information about you as is required 
 
 _Sale of Business_ \- Your information may also be transferred as an asset in connection with a merger or sale (including any transfer made as part of insolvency or bankruptcy proceedings) involving all or part of TJX Businesses or as part of a corporate reorganization, stock sale or other change in corporate control.
 
-#### How We Protect Your Information
+## How We Protect Your Information
 
 We maintain administrative, technical and physical safeguards designed to protect against loss, misuse or unauthorized access, disclosure, alteration or destruction of your information.
 
 Online access to certain personal information may be protected with a password you select. We strongly recommend that you do not disclose your password to anyone, and we will never ask you for your password in an unsolicited communication.
 
-#### Your Rights and Choices
+## Your Rights and Choices
 
-To view or update your profile, you can log in to your account to make your changes. You can also ask us to remove your information from our systems by contacting us as described in the Contact Information section. 
+To view or update your profile, you can log in to your account to make your changes. You can also ask us to remove your information from our systems by contacting us as described in the Contact Information section.
 
-#### Changes to Our Notice
+## Changes to Our Notice
 
-This privacy notice may be updated periodically and without prior notice to you to reflect changes in our online privacy practices relating to the site. We will post a prominent notice on the site to notify you of any significant changes to our Privacy Notice and indicate when it was most recently updated. 
+This privacy notice may be updated periodically and without prior notice to you to reflect changes in our online privacy practices relating to the site. We will post a prominent notice on the site to notify you of any significant changes to our Privacy Notice and indicate when it was most recently updated.
 
-#### Contact Information
+## Contact Information
 
 If you have any questions or comments regarding this Privacy Notice, or if you wish to update the information you have provided us, you may do so by:
 
-  * Writing to us at the following address:
-
+  * Writing to us at the following address:  
 The TJX Companies, Inc.  
 770 Cochituate Road  
 Framingham, MA 01701  
 Attn: Customer Service - Privacy Notice
-
-  * Calling Customer Service Monday – Friday 9:00 AM – 5:00 PM (Eastern Time) at the following toll-free number:  
-1-800-926-6299.
+  * Calling Customer Service Monday – Friday 9:00 AM – 5:00 PM (Eastern Time) at the following toll-free number: 1-800-926-6299.
 
 
