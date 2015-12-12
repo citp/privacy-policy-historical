@@ -1,95 +1,115 @@
-<!--The following is the downloaded HTML source of the akc.org privacy policy that was archived on 2015-06-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150630061614id_/http%3A//www.akc.org/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the akc.org privacy policy that was archived on 2015-12-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151212164828id_/http%3A//www.akc.org/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html class="no-js" lang="en"><!--<![endif]--><head>
-	<meta charset="utf-8">
-	<meta http-equiv="X-UA-Compatible" content="IE=edge"><script src="https://js-agent.newrelic.com/nr-632.min.js"></script><script id="twitter-wjs" src="https://platform.twitter.com/widgets.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js#xfbml=1&amp;appId=289032854540019&amp;version=v2.0"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-M8LKJH"></script><script type="text/javascript" async="" src="https://oascentral.akc.org/om/1.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"XAcAV15UGwUJVFVVAwI="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),f=c.length,u=i(a,o,r),d=0;f>d;d++)c[d].apply(u,n);return u}function a(t,e){f[t]=s(t).concat(e)}function s(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:s,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:23,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(f){try{r("ierr",[f,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(5),window.onerror=e;try{throw new Error}catch(f){"stack"in f&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&t(4),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:10,2:9,3:7,4:11,5:3,6:24,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t){t("loader").features.ins=!0},{loader:"G9z0Bl"}],6:[function(t){function e(){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var n=t("ee"),r=t("handle"),o=t(1),i=t(2);t("loader").features.stn=!0,t(3),n.on("fn-start",function(t){var e=t[0];e instanceof Event&&(this.bstStart=Date.now())}),n.on("fn-end",function(t,e){var n=t[0];n instanceof Event&&r("bst",[n,e,this.bstStart,Date.now()])}),o.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),o.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),i.on("fn-start",function(){this.bstStart=Date.now()}),i.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),n.on("pushState-start",function(){this.time=Date.now(),this.startPath=location.pathname+location.hash}),n.on("pushState-end",function(){r("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.addEventListener("webkitresourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1),window.performance.addEventListener("resourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1)),document.addEventListener("scroll",e,!1),document.addEventListener("keypress",e,!1),document.addEventListener("click",e,!1)}},{1:10,2:9,3:8,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],7:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:24,2:25,ee:"QJf3ax",gos:"7eSDFh"}],8:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window.history,["pushState"],"-")},{1:25,2:24,ee:"QJf3ax"}],9:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:25,2:24,ee:"QJf3ax"}],10:[function(t,e){function n(t,e,n){t[0]=o(t[0],"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:25,2:24,ee:"QJf3ax"}],11:[function(t,e){function n(){f.inPlace(this,p,"fn-")}function r(t,e){f.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),f=c(a),u=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(i){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,f.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:7,2:25,ee:"QJf3ax"}],12:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var a=t.responseType,f="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,u=n(f);if(u&&(r.rxSize=u),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(e.cat=d.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,o("xhr",[e,r,this.startTime])}}}function n(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,f=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=e,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,e){var r=this.metrics,o=t[0],i=this;if(r&&o){var f=n(o);f&&(r.txSize=f)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{a.emit("internal-error",[n])}catch(r){}}};for(var u=0;c>u;u++)e.addEventListener(s[u],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:13,3:11,4:7,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],13:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],14:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:23,2:24,handle:"D5DuLP"}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info,e=f.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){s(d,function(e,n){e in t||(t[e]=n)});var n="https"===u.split(":")[0]||t.sslForHttp;p.proto=n?"https://":"http://",a("mark",["onload",i()]);var r=f.createElement("script");r.src=p.proto+t.agent,e.parentNode.insertBefore(r,e)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=(t(2),window),f=c.document,u=(""+location).split("?")[0],d={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-632.min.js"},p=e.exports={offset:i(),origin:u,features:{}};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),c.addEventListener("load",n,!1)):(f.attachEvent("onreadystatechange",r),c.attachEvent("onload",n)),a("mark",["firstbyte",i()])},{1:23,2:14,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],23:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],24:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],25:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,f;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){u([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return f=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,f],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,f(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){u([o,e,n,r])}}function f(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){u([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function u(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:24,ee:"QJf3ax"}]},{},["G9z0Bl",4,12,6,5]);</script>
+<!DOCTYPE html><html class="no-js" lang="en"><!--<![endif]--><!--// 7759181470 //--><!--// SUPPORT INFO
+domain: www.akc.org
+url: http://www.akc.org/privacy
+user: 
+ip: 10.30.42.12
+qs: 
+//--><!--// END 7759181470 //--><head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"><script src="https://js-agent.newrelic.com/nr-768.min.js"></script><script id="twitter-wjs" src="https://platform.twitter.com/widgets.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js#xfbml=1&amp;appId=289032854540019&amp;version=v2.0"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-M8LKJH"></script><script type="text/javascript" async="" src="https://oascentral.akc.org/om/1.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"XAcAV15UGwUJVFVVAwI="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),f=c.length,u=i(a,o,r),d=0;f>d;d++)c[d].apply(u,n);return u}function a(t,e){f[t]=s(t).concat(e)}function s(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:s,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:24,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(f){try{r("ierr",[f,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(5),window.onerror=e;try{throw new Error}catch(f){"stack"in f&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&t(4),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:11,2:10,3:8,4:12,5:3,6:25,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t){if(window.addEventListener){var e=t("handle"),n=t("ee");t(1),window.addEventListener("click",function(){e("inc",["ck"])},!1),window.addEventListener("hashchange",function(){e("inc",["hc"])},!1),n.on("pushState-start",function(){e("inc",["ps"])})}},{1:9,ee:"QJf3ax",handle:"D5DuLP"}],6:[function(t){t("loader").features.ins=!0},{loader:"G9z0Bl"}],7:[function(t){function e(){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var n=t("ee"),r=t("handle"),o=t(1),i=t(2);t("loader").features.stn=!0,t(3);var a=Event;n.on("fn-start",function(t){var e=t[0];e instanceof a&&(this.bstStart=Date.now())}),n.on("fn-end",function(t,e){var n=t[0];n instanceof a&&r("bst",[n,e,this.bstStart,Date.now()])}),o.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),o.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),i.on("fn-start",function(){this.bstStart=Date.now()}),i.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),n.on("pushState-start",function(){this.time=Date.now(),this.startPath=location.pathname+location.hash}),n.on("pushState-end",function(){r("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.addEventListener("webkitresourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1),window.performance.addEventListener("resourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1)),document.addEventListener("scroll",e,!1),document.addEventListener("keypress",e,!1),document.addEventListener("click",e,!1)}},{1:11,2:10,3:9,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],8:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=t("ee").create(),i=t(1)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t,e){function n(){return s}if(t[1]){var r=t[1];if("function"==typeof r){var s=a(r,"nr@wrapped",function(){return i(r,"fn-",n,r.name||"anonymous")});this.wrapped=t[1]=s,o.emit("initEventContext",[t,e],this.wrapped)}else"function"==typeof r.handleEvent&&i.inPlace(r,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:26,ee:"QJf3ax",gos:"7eSDFh"}],9:[function(t,e){var n=t("ee").create(),r=t(1)(n);e.exports=n,r.inPlace(window.history,["pushState","replaceState"],"-")},{1:26,ee:"QJf3ax"}],10:[function(t,e){var n=t("ee").create(),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:26,ee:"QJf3ax"}],11:[function(t,e){function n(t,e,n){t[0]=i(t[0],"fn-",null,n)}function r(t,e,n){function r(){return a}this.ctx={};var a={"nr@context":this.ctx};o.emit("initTimerContext",[t,n],a),t[0]=i(t[0],"fn-",r,n)}var o=t("ee").create(),i=t(1)(o);e.exports=o,i.inPlace(window,["setTimeout","setImmediate"],"setTimer-"),i.inPlace(window,["setInterval"],"setInterval-"),i.inPlace(window,["clearTimeout","clearImmediate"],"clearTimeout-"),o.on("setInterval-start",n),o.on("setTimer-start",r)},{1:26,ee:"QJf3ax"}],12:[function(t,e){function n(){f.inPlace(this,p,"fn-",o)}function r(t,e){f.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),f=c(a),u=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),e.hasOwnProperty("addEventListener")&&u.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(i){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,f.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:8,2:26,ee:"QJf3ax"}],13:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var a=t.responseType,f="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,u=n(f);if(u&&(r.rxSize=u),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(e.cat=d.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,o("xhr",[e,r,this.startTime])}}}function n(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,f=t(1),u=window.XMLHttpRequest;t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=e,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,e){var r=this.metrics,o=t[0],i=this;if(r&&o){var f=n(o);f&&(r.txSize=f)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{a.emit("internal-error",[n])}catch(r){}}};for(var u=0;c>u;u++)e.addEventListener(s[u],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof u&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof u&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof u&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:14,3:12,4:8,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],14:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],15:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:24,2:25,handle:"D5DuLP"}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):void(r.q&&(r.q[t]||(r.q[t]=[]),r.q[t].push(e)))}var r=t("ee").create();e.exports=n,n.ee=r,r.q={}},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info,e=f.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){s(d,function(e,n){e in t||(t[e]=n)});var n="https"===u.split(":")[0]||t.sslForHttp;p.proto=n?"https://":"http://",a("mark",["onload",i()]);var r=f.createElement("script");r.src=p.proto+t.agent,e.parentNode.insertBefore(r,e)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=window,f=c.document;t(2);var u=(""+location).split("?")[0],d={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-768.min.js"},p=e.exports={offset:i(),origin:u,features:{}};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),c.addEventListener("load",n,!1)):(f.attachEvent("onreadystatechange",r),c.attachEvent("onload",n)),a("mark",["firstbyte",i()])},{1:24,2:15,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],24:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],25:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],26:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@original",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,f;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){u([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return f=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,f],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=t,f(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){u([o,e,n,r])}}function f(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){u([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function u(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:25,ee:"QJf3ax"}]},{},["G9z0Bl",4,13,7,6,5]);</script>
+  <!--// main //-->
+  <!--// 1143254003 //-->
+
+<!--// Production //-->
+
+<meta property="fb:app_id" content="530726673730940">
+<!--// Add any additional page-based meta tags here //-->
+  
+  
+<!--// END 1143254003 //-->
 
 	<title>Website Privacy Statement - American Kennel Club</title>
-	<meta name="title" content="Website Privacy Statement - American Kennel Club">
-	<meta name="description" content="AKC Website Privacy Statement">
-	<meta name="keywords" content="AKC Website Privacy Statement">
-	<meta name="author" content="American Kennel Club">
+    <meta name="description" content="AKC Website Privacy Statement">
+    <meta name="keywords" content="">
+    <meta name="author" content="American Kennel Club">
 
-	
-	
-	<meta property="og:url" content="https://www.akc.org/privacy/">
-	<meta property="og:title" content="Website Privacy Statement - American Kennel Club">
-	<meta property="og:description" content="Discover more things to enjoy with your dog with AKC.org. Find information on dog breeds, dog ownership, dog training, health, nutrition, exercise, care and grooming.">
-	<meta property="og:image" content="http://cdn.akc.org/Earthdog/FBopengraph2.jpg">
+    
+    
+    <meta property="og:url" content="http://www.akc.org/privacy/">
+    <meta property="og:title" content="Website Privacy Statement">
+    <meta property="og:description" content="Discover more things to enjoy with your dog with AKC.org. Find information on dog breeds, dog ownership, dog training, health, nutrition, exercise, care and grooming.">
+    <meta property="og:image" content="http://cdn.akc.org/Earthdog/FBopengraph2.jpg">
 
-	
-	<meta itemprop="name" content="Website Privacy Statement - American Kennel Club">
-	<meta itemprop="description" content="Discover more things to enjoy with your dog with AKC.org. Find information on dog breeds, dog ownership, dog training, health, nutrition, exercise, care and grooming.">
-	<meta itemprop="image" content="http://cdn.akc.org/Earthdog/FBopengraph2.jpg">
+    
+    <meta itemprop="name" content="Website Privacy Statement">
+    <meta itemprop="description" content="Discover more things to enjoy with your dog with AKC.org. Find information on dog breeds, dog ownership, dog training, health, nutrition, exercise, care and grooming.">
+    <meta itemprop="image" content="http://cdn.akc.org/Earthdog/FBopengraph2.jpg">
+    
 
-	
-	<meta name="twitter:card" content="summary">
-	<meta name="twitter:site" content="@akcdoglovers">
-	<meta name="twitter:title" content="Website Privacy Statement - American Kennel Club">
-	<meta name="twitter:description" content="AKC.org offers information on dog breeds, dog ownership, dog training, health, nutrition, exercise &amp; grooming, registering your dog, AKC competition events and affiliated clubs to help you discover more things to enjoy with your dog.">
-	<meta name="twitter:image" content="http://cdn.akc.org/Earthdog/FBopengraph2.jpg">
+    
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:site" content="@akcdoglovers">
+    <meta name="twitter:title" content="Website Privacy Statement">
+    <meta name="twitter:description" content="AKC.org offers information on dog breeds, dog ownership, dog training, health, nutrition, exercise &amp; grooming, registering your dog, AKC competition events and affiliated clubs to help you discover more things to enjoy with your dog.">
+    <meta name="twitter:image" content="http://cdn.akc.org/Earthdog/FBopengraph2.jpg">
 
-	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+    
+    <meta name="thumbnail" content="http://cdn.akc.org/Earthdog/FBopengraph2.jpg">
+    
+    <meta name="headline" content="Website Privacy Statement">
 
-	<link rel="icon" href="/favicon-16x16.png" sizes="16x16">
-	<link rel="icon" href="/favicon-32x32.png" sizes="32x32">
-	<link rel="icon" href="/favicon-96x96.png" sizes="96x96">
-	<link rel="icon" href="/favicon-160x160.png" sizes="160x160">
-	<link rel="icon" href="/favicon-192x192.png" sizes="192x192">
-	<link rel="apple-touch-icon" href="/apple-touch-icon-57x57.png" sizes="57x57">
-	<link rel="apple-touch-icon" href="/apple-touch-icon-60x60.png" sizes="60x60">
-	<link rel="apple-touch-icon" href="/apple-touch-icon-72x72.png" sizes="72x72">
-	<link rel="apple-touch-icon" href="/apple-touch-icon-76x76.png" sizes="76x76">
-	<link rel="apple-touch-icon" href="/apple-touch-icon-114x114.png" sizes="114x114">
-	<link rel="apple-touch-icon" href="/apple-touch-icon-120x120.png" sizes="120x120">
-	<link rel="apple-touch-icon" href="/apple-touch-icon-144x144.png" sizes="144x144">
-	<link rel="apple-touch-icon" href="/apple-touch-icon-152x152.png" sizes="152x152">
-	<meta name="msapplication-TileColor" content="#603cba">
-	<meta name="msapplication-TileImage" content="/mstile-144x144.png">
+  <meta name="viewport" content="initial-scale=1.0001, minimum-scale=1.0001, maximum-scale=1.0001, user-scalable=no">
 
-	
+  <link rel="icon" href="/favicon-16x16.png" sizes="16x16">
+    <link rel="icon" href="/favicon-32x32.png" sizes="32x32">
+    <link rel="icon" href="/favicon-96x96.png" sizes="96x96">
+    <link rel="icon" href="/favicon-160x160.png" sizes="160x160">
+    <link rel="icon" href="/favicon-192x192.png" sizes="192x192">
+    <link rel="apple-touch-icon" href="/apple-touch-icon-57x57.png" sizes="57x57">
+    <link rel="apple-touch-icon" href="/apple-touch-icon-60x60.png" sizes="60x60">
+    <link rel="apple-touch-icon" href="/apple-touch-icon-72x72.png" sizes="72x72">
+    <link rel="apple-touch-icon" href="/apple-touch-icon-76x76.png" sizes="76x76">
+    <link rel="apple-touch-icon" href="/apple-touch-icon-114x114.png" sizes="114x114">
+    <link rel="apple-touch-icon" href="/apple-touch-icon-120x120.png" sizes="120x120">
+    <link rel="apple-touch-icon" href="/apple-touch-icon-144x144.png" sizes="144x144">
+    <link rel="apple-touch-icon" href="/apple-touch-icon-152x152.png" sizes="152x152">
+    <meta name="msapplication-TileColor" content="#603cba">
+    <meta name="msapplication-TileImage" content="/mstile-144x144.png">
 
-		
-			<link rel="canonical" href="http://www.akc.org/privacy/">
+    
 
-	
-	
-	
+    
+    <link rel="canonical" href="http://www.akc.org/privacy/">
 
-
-	<link href="//fonts.googleapis.com/css?family=Lato:400,700|Montserrat:400,700|Crimson+Text:600italic" rel="stylesheet" type="text/css">
-	<link href="/dist/css/main.css" rel="stylesheet" type="text/css">
-	<link href="/dist/css/gigya.css" rel="stylesheet" type="text/css">
-	<!--[if lte IE 9]>
-		<link href="/dist/css/shame-ie9.css" rel="stylesheet" type="text/css">
-	<![endif]-->
-	<!--[if lt IE 9]>
-		<link href="/dist/css/shame.css" rel="stylesheet" type="text/css">
-		<script src="/bower_components/respond/dest/respond.min.js"></script>
-		<script src="/dist/js/polyfill.js"></script>
-		<script>
-			svgeezy.init('nocheck', 'png');
-		</script>
-	<![endif]-->
-
+    
+    
+    
+    <link href="//fonts.googleapis.com/css?family=Lato:400,700|Montserrat:400,700|Crimson+Text:600italic" rel="stylesheet" type="text/css">
+    <link href="/dist/css/main.css?v=20151120" rel="stylesheet" type="text/css">
+    <link href="/dist/css/gigya.css?v=20151120" rel="stylesheet" type="text/css">
+    <link href="/dist/css/pagination.css?v=20151120" rel="stylesheet" type="text/css">
+    <link href="/assets/css/ebooks.css?v=20151120" rel="stylesheet" type="text/css">
+    <!--[if lte IE 9]>
+    <link href="/assets/css/ie_hack.css?v=20151120" rel="stylesheet" type="text/css">
+    <link href="/dist/css/shame-ie9.css?v=20151120" rel="stylesheet" type="text/css">
+    <![endif]-->
+    <!--[if lt IE 9]>
+    <link href="/dist/css/shame.css?v=20151120" rel="stylesheet" type="text/css">
+    <script src="/bower_components/respond/dest/respond.min.js?v=20151120"></script>
+    <script src="/dist/js/polyfill.js?v=20151120"></script>
+    <script>
+        svgeezy.init('nocheck', 'png');
+    </script>
+    <![endif]-->
 <script type="text/javascript" async="" src="//munchkin.marketo.net/munchkin.js"></script></head>
-<body>
+<body class="layout-main not-learn-page  privacy ">
+
 <!--[if lt IE 9]>
-	<div class="ienag">
-		Your browser is out of date. <a href="https://whatbrowser.org/" target="_blank">Please upgrade today to enjoy all the features of AKC.org to their fullest!</a>
-	</div>
+<div class="ienag">
+    Your browser is out of date. <a href="https://whatbrowser.org/" target="_blank">Please upgrade today to enjoy all the features of AKC.org to their fullest!</a>
+</div>
 <![endif]-->
 
+<!--// 2689776370 //-->
 
-
-
-	
 
 <nav class="mobile-nav">
 	<ul class="mobile-nav-list">
 		<li class="mobile-nav-search">
-		<form class="search-small" method="post" action="https://www.akc.org/">
+		<form class="search-small" method="post" action="http://www.akc.org/">
 <div class="hiddenFields">
 <input type="hidden" name="ACT" value="119">
 <input type="hidden" name="RP" value="search/">
@@ -101,7 +121,7 @@
 			<button type="submit" name="submit" value=""><span class="icon-search"></span></button>
 		</form>
 		</li>
-		<li><a href="https://www.akc.org/" class="home">Home</a></li>
+		<li><a href="http://www.akc.org/" class="home">Home</a></li>
 	</ul>
 	<section class="mobile-nav-steps">
 		<div class="mobile-nav-step-1">
@@ -153,7 +173,7 @@
 						</li>
 					
 						<li>
-							<a href="#" data-step="3|List Dogs in OBC">List Dogs in OBC</a>
+							<a href="#" data-step="3|List Your Litter in OBC">List Your Litter in OBC</a>
 						</li>
 					
 					
@@ -304,11 +324,13 @@
 							<a data-step="2">Help Me Choose</a>
 						</li>
 						
-							<li><a href="https://www.akc.org/find-a-match/">Breed Selector</a></li>
+							<li><a href="http://www.akc.org/find-a-match/">Breed Selector</a></li>
 						
-							<li><a href="https://www.akc.org/you-vs-breed/">You vs. Breed</a></li>
+							<li><a href="http://www.akc.org/you-vs-breed/">You vs. Breed</a></li>
 						
-							<li><a href="https://www.akc.org/find-a-match/compare-breeds/">Compare Breeds</a></li>
+							<li><a href="http://www.akc.org/find-a-match/compare-breeds/">Compare Breeds</a></li>
+						
+							<li><a href="http://www.akc.org/dog-breeds/">Browse All Breeds </a></li>
 						
 					</ul>
 				
@@ -317,7 +339,7 @@
 							<li class="colhead">
 								<a data-step="2">Browse All Breeds</a>
 							</li>
-							<li><a href="https://www.akc.org/dog-breeds/">All Breeds</a></li>
+							<li><a href="http://www.akc.org/dog-breeds/">All Breeds</a></li>
 						
 					</ul>
 				<ul class="mobile-nav-list" data-step-target="Browse All Breeds">
@@ -331,27 +353,29 @@
 						
 							<li><a href="//apps.akc.org/apps/classified/search/landing_breed.cfm">Find a Puppy </a></li>
 						
-							<li><a href="https://www.akc.org/dog-breeds/rescue-network/">AKC Rescue Network</a></li>
+							<li><a href="http://www.akc.org/dog-breeds/rescue-network/">AKC Rescue Network</a></li>
 						
 							<li><a href="//apps.akc.org/apps/breederinfo/breeder_search.cfm">Breeder Referral Search</a></li>
+						
+							<li><a href="http://www.akc.org/press-center/facts-stats/responsible-breeders/">Find a Responsible Breeder</a></li>
 						
 					</ul><ul class="mobile-nav-list" data-step-target="Learn About Breeding">
 						<li class="colhead">
 							<a data-step="2">Learn About Breeding</a>
 						</li>
 						
-							<li><a href="https://www.akc.org/dog-breeders/breeder-education/">Breeder Education</a></li>
+							<li><a href="http://www.akc.org/dog-breeders/breeder-education/">Breeder Education</a></li>
 						
-							<li><a href="https://www.akc.org/dog-breeders/breeder-education/canine-health/">Canine Health</a></li>
+							<li><a href="http://www.akc.org/dog-breeders/breeder-education/canine-health/">Canine Health</a></li>
 						
 					</ul>
 				
-					<ul class="mobile-nav-list" data-step-target="List Dogs in OBC">
+					<ul class="mobile-nav-list" data-step-target="List Your Litter in OBC">
 						<li class="colhead">
-							<a data-step="2">List Dogs in OBC</a>
+							<a data-step="2">List Your Litter in OBC</a>
 						</li>
 						
-							<li><a href="//apps.akc.org/apps/classified/create/index.cfm?useraction=main">Online Breeder Classifieds</a></li>
+							<li><a href="//apps.akc.org/apps/classified/create/">Online Breeder Classifieds</a></li>
 						
 					</ul>
 				
@@ -361,13 +385,13 @@
 								<a data-step="2">Register a Purebred Puppy</a>
 							</li>
 							
-								<li><a href="https://www.akc.org/register/?pre=breeder&amp;activity=puppy">Register Online</a></li>
+								<li><a href="http://www.akc.org/register/?pre=breeder&amp;activity=puppy">Register Online</a></li>
 							
-								<li><a href="https://www.akc.org/register/registering-a-dog/">Register By Mail</a></li>
+								<li><a href="http://www.akc.org/register/registering-a-dog/">Register By Mail</a></li>
 							
-								<li><a href="https://www.akc.org/register/open-registration/">Open Registration</a></li>
+								<li><a href="http://www.akc.org/register/open-registration/">Open Registration</a></li>
 							
-								<li><a href="https://www.akc.org/rules/special-registry-services/">Foreign Registration</a></li>
+								<li><a href="http://www.akc.org/rules/special-registry-services/">Foreign Registration</a></li>
 							
 						
 					</ul><ul class="mobile-nav-list" data-step-target="Register a Purebred Litter">
@@ -376,11 +400,11 @@
 								<a data-step="2">Register a Purebred Litter</a>
 							</li>
 							
-								<li><a href="https://www.akc.org/register/?pre=breeder&amp;activity=litter">Register Online</a></li>
+								<li><a href="http://www.akc.org/register/?pre=breeder&amp;activity=litter">Register Online</a></li>
 							
-								<li><a href="https://www.akc.org/register/register-litter-by-mail/">Register By Mail</a></li>
+								<li><a href="http://www.akc.org/register/register-litter-by-mail/">Register By Mail</a></li>
 							
-								<li><a href="https://www.akc.org/apps/form_status/index.cfm">Registration Status Check</a></li>
+								<li><a href="http://www.akc.org/apps/form_status/index.cfm">Registration Status Check</a></li>
 							
 						
 					</ul>
@@ -390,9 +414,9 @@
 								<a data-step="2">Breeder Tools and Programs</a>
 							</li>
 							
-								<li><a href="https://www.akc.org/dog-breeders/breeder-of-merit/">Breeder of Merit Program</a></li>
+								<li><a href="http://www.akc.org/dog-breeders/breeder-of-merit/">Breeder of Merit Program</a></li>
 							
-								<li><a href="https://www.akc.org/dog-breeders/bred-with-heart/">Bred with H.E.A.R.T.</a></li>
+								<li><a href="http://www.akc.org/dog-breeders/bred-with-heart/">Bred with H.E.A.R.T.</a></li>
 							
 								<li><a href="//apps.akc.org/apps/store/index.cfm">AKC Store</a></li>
 							
@@ -404,24 +428,24 @@
 							<a data-step="2">Breeder Resources</a>
 						</li>
 						
-							<li><a href="https://www.akc.org/government-relations/">Government Relations</a></li>
+							<li><a href="http://www.akc.org/government-relations/">Government Relations</a></li>
 						
-							<li><a href="https://www.akc.org/register/online-pedigree/">Ordering an Online Pedigree</a></li>
+							<li><a href="http://www.akc.org/register/online-pedigree/">Ordering an Online Pedigree</a></li>
 						
-							<li><a href="https://www.akc.org/register/certified-pedigree/">Ordering a Certified Pedigree</a></li>
+							<li><a href="http://www.akc.org/register/certified-pedigree/">Ordering a Certified Pedigree</a></li>
 						
-							<li><a href="https://www.akc.org/dna/resource-center/">DNA Resource Center</a></li>
+							<li><a href="http://www.akc.org/dna/resource-center/">DNA Resource Center</a></li>
 						
-							<li><a href="https://www.akc.org/about/inside-akc/departments/investigations-and-inspections/">Inspections</a></li>
+							<li><a href="http://www.akc.org/about/inside-akc/departments/investigations-and-inspections/">Inspections</a></li>
 						
 					</ul><ul class="mobile-nav-list" data-step-target="Register Your Purebred">
 						<li class="colhead">
 							<a data-step="2">Register Your Purebred</a>
 						</li>
 						
-							<li><a href="https://www.akc.org/register/?pre=owner&amp;activity=puppy">Register Online</a></li>
+							<li><a href="http://www.akc.org/register/?pre=owner&amp;activity=puppy">Register Online</a></li>
 						
-							<li><a href="https://www.akc.org/register/registering-a-dog/">Register By Mail</a></li>
+							<li><a href="http://www.akc.org/register/registering-a-dog/">Register By Mail</a></li>
 						
 					</ul>
 				
@@ -430,7 +454,7 @@
 							<a data-step="2">Register Your Purebred Alternative Listing</a>
 						</li>
 						
-							<li><a href="https://www.akc.org/register/purebred-alternative-listing/">Register By Mail</a></li>
+							<li><a href="http://www.akc.org/register/purebred-alternative-listing/">Register By Mail</a></li>
 						
 					</ul>
 				
@@ -440,7 +464,7 @@
 								<a data-step="2">Register Your Mixed Breed Dog</a>
 							</li>
 							
-								<li><a href="https://www.akc.org/dog-owners/canine-partners/">Canine Partners Program</a></li>
+								<li><a href="http://www.akc.org/dog-owners/canine-partners/">Canine Partners Program</a></li>
 							
 						
 					</ul><ul class="mobile-nav-list" data-step-target="AKC Store">
@@ -451,7 +475,7 @@
 							
 								<li><a href="//apps.akc.org/apps/store/index.cfm">AKC Store</a></li>
 							
-								<li><a href="//apps.akc.org//apps/store/index.cfm?view=category&amp;cde_category=PED&amp;cde_product=PEDX04?utm_source=menu&amp;utm_medium=header&amp;utm_campaign=pedigree_test&amp;utm_content=your-dogs-pedogree">Your Dog's Pedigree</a></li>
+								<li><a href="//apps.akc.org//apps/store/index.cfm?view=category&amp;cde_category=PED&amp;cde_product=PED?utm_source=menu&amp;utm_medium=header&amp;utm_campaign=pedigree_test&amp;utm_content=your-dogs-pedigree">Your Dog's Pedigree</a></li>
 							
 						
 					</ul><ul class="mobile-nav-list" data-step-target="Enroll in Lost &amp; Found">
@@ -460,7 +484,7 @@
 								<a data-step="2">Enroll in Lost &amp; Found</a>
 							</li>
 							
-								<li><a href="https://www.akc.org/lost-and-found/">AKC Reunite</a></li>
+								<li><a href="http://www.akc.org/lost-and-found/">AKC Reunite</a></li>
 							
 						
 					</ul>
@@ -470,15 +494,15 @@
 								<a data-step="2">Training &amp; Socialization</a>
 							</li>
 							
-								<li><a href="https://www.akc.org/dog-owners/training/canine-good-citizen/">AKC Canine Good Citizen®</a></li>
+								<li><a href="http://www.akc.org/dog-owners/training/canine-good-citizen/">AKC Canine Good Citizen®</a></li>
 							
 								<li><a href="//apps.akc.org/classic/events/cgc/cgc_schedule.cfm">CGC Classes and Tests (CGC,STAR,CGCA, CGCU)</a></li>
 							
 								<li><a href="//apps.akc.org/apps/helpline/index.cfm">AKC GoodDog Helpline</a></li>
 							
-								<li><a href="https://www.akc.org/events/training-clubs/">AKC Training Clubs</a></li>
+								<li><a href="http://www.akc.org/events/training-clubs/">AKC Training Clubs</a></li>
 							
-								<li><a href="https://www.akc.org/dog-owners/training/akc-therapy-dog-program/">AKC Therapy Dog™ Program</a></li>
+								<li><a href="http://www.akc.org/dog-owners/training/akc-therapy-dog-program/">AKC Therapy Dog™ Program</a></li>
 							
 						
 					</ul>
@@ -488,9 +512,9 @@
 							<a data-step="2">Responsible Dog Ownership</a>
 						</li>
 						
-							<li><a href="https://www.akc.org/dog-owners/responsible-dog-ownership/">Be a Responsible Dog Owner</a></li>
+							<li><a href="http://www.akc.org/dog-owners/responsible-dog-ownership/">Be a Responsible Dog Owner</a></li>
 						
-							<li><a href="https://www.akc.org/classic/clubs/rdod/events/index.cfm">Responsible Dog Ownership Day Events</a></li>
+							<li><a href="http://www.akc.org/classic/clubs/rdod/events/index.cfm">Responsible Dog Ownership Day Events</a></li>
 						
 					</ul>
 				
@@ -499,11 +523,11 @@
 							<a data-step="2">Care for Your Dog</a>
 						</li>
 						
-							<li><a href="https://www.akc.org/learn/dog-health/">AKC Health</a></li>
+							<li><a href="http://www.akc.org/learn/dog-health/">AKC Health</a></li>
 						
 							<li><a href="http://www.akcpethealthcare.com/" target="_blank">AKC Pet Insurance</a></li>
 						
-							<li><a href="https://www.akc.org/apps/vetnet/index.cfm?action=">AKC Veterinary Network</a></li>
+							<li><a href="http://www.akc.org/apps/vetnet/index.cfm?action=">AKC Veterinary Network</a></li>
 						
 					</ul><ul class="mobile-nav-list" data-step-target="Find a Club">
 						<li class="colhead">
@@ -519,7 +543,7 @@
 							<a data-step="2">Form a Club</a>
 						</li>
 						
-							<li><a href="https://www.akc.org/clubs/manage/policies/">Club Policies</a></li>
+							<li><a href="http://www.akc.org/clubs/manage/policies/">Club Policies</a></li>
 						
 							<li><a href="//images.akc.org/pdf/acnew1(0999).pdf" target="_blank">New Club Profile Form</a></li>
 						
@@ -533,11 +557,11 @@
 								<a data-step="2">Manage a Club</a>
 							</li>
 							
-								<li><a href="https://www.akc.org/clubs/manage/about-club-relations/">About Club Relations</a></li>
+								<li><a href="http://www.akc.org/clubs/resources/">All Breed Club Resources</a></li>
 							
-								<li><a href="https://www.akc.org/rules/">Rules and Regulations</a></li>
+								<li><a href="http://www.akc.org/rules/">Rules and Regulations</a></li>
 							
-								<li><a href="https://www.akc.org/clubs/manage/breed-fliers/">Parent Club Breed Flier Program</a></li>
+								<li><a href="http://www.akc.org/clubs/manage/about-club-relations/">About Club Relations</a></li>
 							
 								<li><a href="//apps.akc.org/apps/club_membership/index.cfm">Club Membership Upload</a></li>
 							
@@ -553,15 +577,15 @@
 								<a data-step="2">Promote a Club</a>
 							</li>
 							
-								<li><a href="https://www.akc.org/clubs/promote/media-resources/">Media Resources</a></li>
+								<li><a href="http://www.akc.org/clubs/promote/media-resources/">Media Resources</a></li>
 							
-								<li><a href="https://www.akc.org/press-center/">Press Center</a></li>
+								<li><a href="http://www.akc.org/press-center/">Press Center</a></li>
 							
-								<li><a href="https://www.akc.org/public-education/">Public Education</a></li>
+								<li><a href="http://www.akc.org/public-education/">Public Education</a></li>
 							
 								<li><a href="http://www.akchumanefund.org" target="_blank">AKC Humane Fund</a></li>
 							
-								<li><a href="https://www.akc.org/clubs/promote/akc-outstanding-sportsmanship-award/">Outstanding Sportsmanship Award</a></li>
+								<li><a href="http://www.akc.org/clubs/promote/akc-outstanding-sportsmanship-award/">Outstanding Sportsmanship Award</a></li>
 							
 						
 					</ul>
@@ -571,34 +595,34 @@
 							<a data-step="2">Delegates</a>
 						</li>
 						
-							<li><a href="https://www.akc.org/delegate/">Delegates</a></li>
+							<li><a href="http://www.akc.org/delegate/">Delegates</a></li>
 						
 							<li><a href="http://cdn.akc.org/Delegates_Portal_PDFs/Meeting_Calendar.pdf" target="_blank">Delegates Meeting Dates</a></li>
 						
 							<li><a href="//apps.akc.org/apps/insideAKC/delegates/delegates_search.cfm">Delegate Directory &amp; Search</a></li>
 						
-							<li><a href="https://www.akc.org/delegate/standing-committees/">Delegate Standing Committees</a></li>
+							<li><a href="http://www.akc.org/delegate/standing-committees/">Delegate Standing Committees</a></li>
 						
 					</ul><ul class="mobile-nav-list" data-step-target="Learn About Events">
 						<li class="colhead">
 							<a data-step="2">Learn About Events</a>
 						</li>
 						
-							<li><a href="https://www.akc.org/events/">All Events</a></li>
+							<li><a href="http://www.akc.org/events/">All Events</a></li>
 						
-							<li><a href="https://www.akc.org/events/conformation-dog-shows/">Conformation Dog Shows</a></li>
+							<li><a href="http://www.akc.org/events/conformation-dog-shows/">Conformation Dog Shows</a></li>
 						
-							<li><a href="https://www.akc.org/events/obedience/">Obedience</a></li>
+							<li><a href="http://www.akc.org/events/obedience/">Obedience</a></li>
 						
-							<li><a href="https://www.akc.org/events/rally/">AKC Rally</a></li>
+							<li><a href="http://www.akc.org/events/rally/">AKC Rally</a></li>
 						
-							<li><a href="https://www.akc.org/events/agility/">Agility</a></li>
+							<li><a href="http://www.akc.org/events/agility/">Agility</a></li>
 						
-							<li><a href="https://www.akc.org/events/tracking/">Tracking</a></li>
+							<li><a href="http://www.akc.org/events/tracking/">Tracking</a></li>
 						
-							<li><a href="https://www.akc.org/events/field-events/">Field Events</a></li>
+							<li><a href="http://www.akc.org/events/field-events/">Field Events</a></li>
 						
-							<li><a href="https://www.akc.org/events/4-6-puppy/">4 to 6 Puppy</a></li>
+							<li><a href="http://www.akc.org/events/4-6-puppy/">4 to 6 Puppy</a></li>
 						
 					</ul>
 				
@@ -608,19 +632,19 @@
 								<a data-step="2">Learn About Events</a>
 							</li>
 							
-								<li><a href="https://www.akc.org/events/coursing-ability-test/">Coursing Ability Test</a></li>
+								<li><a href="http://www.akc.org/events/coursing-ability-test/">Coursing Ability Test</a></li>
 							
-								<li><a href="https://www.akc.org/events/earth-dog/">Earthdog</a></li>
+								<li><a href="http://www.akc.org/events/earth-dog/">Earthdog</a></li>
 							
-								<li><a href="https://www.akc.org/events/herding/">Herding</a></li>
+								<li><a href="http://www.akc.org/events/herding/">Herding</a></li>
 							
-								<li><a href="https://www.akc.org/events/lure-coursing/">Lure Coursing</a></li>
+								<li><a href="http://www.akc.org/events/lure-coursing/">Lure Coursing</a></li>
 							
-								<li><a href="https://www.akc.org/events/nohs/">Owner-Handled Series</a></li>
+								<li><a href="http://www.akc.org/events/nohs/">Owner-Handled Series</a></li>
 							
-								<li><a href="https://www.akc.org/events/junior-showmanship/">Junior Showmanship</a></li>
+								<li><a href="http://www.akc.org/events/junior-showmanship/">Junior Showmanship</a></li>
 							
-								<li><a href="https://www.akc.org/events/title-recognition-program/">Title Recognition Program</a></li>
+								<li><a href="http://www.akc.org/events/title-recognition-program/">Title Recognition Program</a></li>
 							
 								<li><a href="http://akcwinners.com/results" target="_blank">Live Show Results</a></li>
 							
@@ -634,9 +658,13 @@
 							
 								<li><a href="//apps.akc.org/apps/events/search/index.cfm">Event Calendar</a></li>
 							
-								<li><a href="https://www.akc.org/events/cancellations/">Event Cancellations</a></li>
+								<li><a href="http://www.akc.org/events/cancellations/">Event Cancellations</a></li>
 							
-								<li><a href="https://www.akc.org/events/responsible-dog-ownership-days/">Responsible Dog Ownership Days</a></li>
+								<li><a href="http://www.akc.org/events/responsible-dog-ownership-days/">Responsible Dog Ownership Days</a></li>
+							
+								<li><a href="http://www.akc.org/meet-the-breeds/">Meet The Breeds NYC </a></li>
+							
+								<li><a href="http://www.akc.org/events/aenc/">AKC Eukanuba Championship</a></li>
 							
 						
 					</ul>
@@ -652,9 +680,9 @@
 						
 							<li><a href="//apps.akc.org/apps/eventplans/index.cfm">Online Event Management</a></li>
 						
-							<li><a href="https://www.akc.org/rules/">Rules and Regulations</a></li>
+							<li><a href="http://www.akc.org/rules/">Rules and Regulations</a></li>
 						
-							<li><a href="https://www.akc.org/downloadable-forms/">Downloadable Forms</a></li>
+							<li><a href="http://www.akc.org/downloadable-forms/">Downloadable Forms</a></li>
 						
 							<li><a href="//apps.akc.org/apps/store/index.cfm?view=product&amp;cde_category=DOG&amp;cde_product=CMPREC&amp;external=yes/">Points and Awards</a></li>
 						
@@ -663,9 +691,9 @@
 							<a data-step="2">News</a>
 						</li>
 						
-							<li><a href="https://www.akc.org/news/">AKC News</a></li>
+							<li><a href="http://www.akc.org/news/">AKC News</a></li>
 						
-							<li><a href="https://www.akc.org/akc-dog-lovers/">AKC Dog Lovers Blog</a></li>
+							<li><a href="http://www.akc.org/akc-dog-lovers/">AKC Dog Lovers Blog</a></li>
 						
 					</ul>
 				
@@ -674,15 +702,15 @@
 							<a data-step="2">Health</a>
 						</li>
 						
-							<li><a href="https://www.akc.org/learn/dog-health/care/">Care</a></li>
+							<li><a href="http://www.akc.org/learn/dog-health/care/">Care</a></li>
 						
-							<li><a href="https://www.akc.org/learn/dog-health/nutrition/">Nutrition</a></li>
+							<li><a href="http://www.akc.org/learn/dog-health/nutrition/">Nutrition</a></li>
 						
-							<li><a href="https://www.akc.org/learn/dog-health/fitness/">Fitness</a></li>
+							<li><a href="http://www.akc.org/learn/dog-health/fitness/">Fitness</a></li>
 						
-							<li><a href="https://www.akc.org/learn/dog-health/preventative-health/">Preventative Health</a></li>
+							<li><a href="http://www.akc.org/learn/dog-health/preventative-health/">Preventative Health</a></li>
 						
-							<li><a href="https://www.akc.org/learn/dog-health/breeder-education/">Breeder Education</a></li>
+							<li><a href="http://www.akc.org/learn/dog-health/breeder-education/">Breeding</a></li>
 						
 					</ul>
 				
@@ -692,15 +720,13 @@
 								<a data-step="2">Training</a>
 							</li>
 							
-								<li><a href="https://www.akc.org/learn/akc-training/fun-with-your-dog/">Fun With Your Dog</a></li>
+								<li><a href="http://www.akc.org/learn/akc-training/fun-with-your-dog/">Fun With Your Dog</a></li>
 							
-								<li><a href="https://www.akc.org/learn/akc-training/obedience/">Obedience</a></li>
+								<li><a href="http://www.akc.org/learn/akc-training/puppy-training/">Puppy Training</a></li>
 							
-								<li><a href="https://www.akc.org/learn/akc-training/puppy-training/">Puppy Training</a></li>
+								<li><a href="http://www.akc.org/learn/akc-training/behavior/">Behavior</a></li>
 							
-								<li><a href="https://www.akc.org/learn/akc-training/behavior/">Behavior</a></li>
-							
-								<li><a href="https://www.akc.org/learn/akc-training/dr-mary-burch/">Dr. Mary Burch</a></li>
+								<li><a href="http://www.akc.org/learn/akc-training/dr-mary-burch/">Dr. Mary Burch</a></li>
 							
 						
 					</ul>
@@ -710,15 +736,15 @@
 								<a data-step="2">Family Dog</a>
 							</li>
 							
-								<li><a href="https://www.akc.org/learn/family-dog/new-puppy/">New Puppy</a></li>
+								<li><a href="http://www.akc.org/learn/family-dog/new-puppy/">New Puppy</a></li>
 							
-								<li><a href="https://www.akc.org/learn/family-dog/life-with-dogs/">Life With Dogs</a></li>
+								<li><a href="http://www.akc.org/learn/family-dog/life-with-dogs/">Life With Dogs</a></li>
 							
-								<li><a href="https://www.akc.org/learn/family-dog/the-active-dog/">The Active Dog</a></li>
+								<li><a href="http://www.akc.org/learn/family-dog/the-active-dog/">The Active Dog</a></li>
 							
-								<li><a href="https://www.akc.org/learn/family-dog/healthy-happy/">Healthy &amp; Happy</a></li>
+								<li><a href="http://www.akc.org/learn/family-dog/healthy-happy/">Healthy &amp; Happy</a></li>
 							
-								<li><a href="https://www.akc.org/learn/family-dog/why-does-my-dog/">Why Does My Dog?</a></li>
+								<li><a href="http://www.akc.org/learn/family-dog/why-does-my-dog/">Why Does My Dog?</a></li>
 							
 						
 					</ul>
@@ -728,15 +754,15 @@
 							<a data-step="2">AKC Gazette</a>
 						</li>
 						
-							<li><a href="https://www.akc.org/learn/akc-gazette/times-past/">Times Past</a></li>
+							<li><a href="http://www.akc.org/learn/akc-gazette/times-past/">Times Past</a></li>
 						
-							<li><a href="https://www.akc.org/learn/akc-gazette/ring-field/">Ring &amp; Field</a></li>
+							<li><a href="http://www.akc.org/learn/akc-gazette/ring-field/">Ring &amp; Field</a></li>
 						
-							<li><a href="https://www.akc.org/learn/akc-gazette/breed-columns/">Breed Columns</a></li>
+							<li><a href="http://www.akc.org/learn/akc-gazette/breed-columns/">Breed Columns</a></li>
 						
-							<li><a href="https://www.akc.org/learn/akc-gazette/breeders-forum/">Breeders' Forum</a></li>
+							<li><a href="http://www.akc.org/learn/akc-gazette/breeders-forum/">Breeders' Forum</a></li>
 						
-							<li><a href="https://www.akc.org/learn/akc-gazette/dog-photo-archive/">Dog Photo Archive</a></li>
+							<li><a href="http://www.akc.org/learn/akc-gazette/dog-photo-archive/">Dog Photo Archive</a></li>
 						
 					</ul>
 		</div>
@@ -747,9 +773,10 @@
 
 
 
+
 <header class="nav-container ">
 	<nav class="main-nav">
-		<a href="http://www.akc.org/" class="logo teal icon-akc-logo"></a>
+		<a href="http://www.akc.org/" class="logo teal icon-akc-logo menu-secondary-link"></a>
 		<div class="hamburger">
 			<a href="#">
 				<span class="patty"></span>
@@ -759,22 +786,40 @@
 		</div>
 
 		<ul class="top-level-nav">
-			<li class="primary-nav-element ">
+			
+                
+                
+				<li class="primary-nav-element ">
 					<a href="/dog-breeds/" data-dropdown="breeds">Breeds</a>
-				</li><li class="primary-nav-element ">
+				</li>
+                
+                
+				<li class="primary-nav-element ">
 					<a href="/dog-breeders/" data-dropdown="breeders">Breeders</a>
-				</li><li class="primary-nav-element ">
+				</li>
+                
+                
+				<li class="primary-nav-element ">
 					<a href="/dog-owners/" data-dropdown="owners">Owners</a>
-				</li><li class="primary-nav-element ">
-					<a href="/clubs/" data-dropdown="clubs">Clubs</a>
-				</li><li class="primary-nav-element ">
+				</li>
+                
+                
+				<li class="primary-nav-element ">
+					<a href="http://www.akc.org/clubs/" data-dropdown="clubs">Clubs</a>
+				</li>
+                
+                
+				<li class="primary-nav-element ">
 					<a href="/events/" data-dropdown="events">Events</a>
-				</li><li class="primary-nav-element ">
+				</li>
+                
+                
+				<li class="primary-nav-element ">
 					<a href="/learn/" data-dropdown="learn">Learn</a>
 				</li>
+
 			
-			
-				<li class="my-akc-nav">
+				<li class="my-akc-nav menu-secondary-link">
 					<a id="my-akc-nav-sign-in" href="javascript:void(0)" onclick="showPopups({
 							onAfterSubmit:loginSuccessCallback,
 							onLoginError:loginFailureCallback,
@@ -784,22 +829,20 @@
 						Sign In
 					</a>
 					
-					<a href="#" data-dropdown="my-akc" style="display: none; postion:relative;" "="">
+					<a href="#" data-dropdown="my-akc" style="display: none; postion:relative;">
 						<span id="avatar-wrapper">
 							<div id="avatar-container"><img id="avatar" src="/assets/default-avatar.png"></div>
-							My AKC
+							<span class="my-akc-loggedin" id="gigya-screen-name">MY AKC</span>
 						</span>
 					</a>
 				</li>
 			
 		</ul>
-
-		<div class="nav-search">
-			<a href="#" class="nav-search-anchor"><span class="icon-search"></span></a>
+		<div class="nav-search menu-secondary-link">
+			<a href="#" class="nav-search-anchor">Search</a>
 		</div>
-
 		<div class="nav-searchbar">
-		<form class="search-small" method="post" action="https://www.akc.org/">
+		<form class="search-small" method="post" action="http://www.akc.org/">
 <div class="hiddenFields">
 <input type="hidden" name="ACT" value="119">
 <input type="hidden" name="RP" value="search/">
@@ -826,11 +869,13 @@
 									
 								</li>
 								
-									<li><a href="https://www.akc.org/find-a-match/">Breed Selector</a></li>
+									<li><a href="http://www.akc.org/find-a-match/">Breed Selector</a></li>
 								
-									<li><a href="https://www.akc.org/you-vs-breed/">You vs. Breed</a></li>
+									<li><a href="http://www.akc.org/you-vs-breed/">You vs. Breed</a></li>
 								
-									<li><a href="https://www.akc.org/find-a-match/compare-breeds/">Compare Breeds</a></li>
+									<li><a href="http://www.akc.org/find-a-match/compare-breeds/">Compare Breeds</a></li>
+								
+									<li><a href="http://www.akc.org/dog-breeds/">Browse All Breeds </a></li>
 								
 							</ul>
 					</li>
@@ -844,6 +889,7 @@
 								
 									
 	<li class="chosen" data-chosen-redirect="/dog-breeds/%VALUE%/">
+		<!--googleoff: index-->
 		<select class="chosen-select full" name="allbreedsbyname">
 			<option disabled="" selected="">By Dog Breed</option>
 			
@@ -1279,6 +1325,8 @@
 				
 					<option value="slovensky-cuvac">Slovensky Cuvac</option>
 				
+					<option value="slovensky-kopov">Slovensky Kopov</option>
+				
 					<option value="small-munsterlander-pointer">Small Munsterlander Pointer</option>
 				
 					<option value="smooth-fox-terrier">Smooth Fox Terrier</option>
@@ -1349,6 +1397,7 @@
 				
 					<option value="yorkshire-terrier">Yorkshire Terrier</option>
 		</select>
+		<!--googleon: index-->
 	</li>
 
 								
@@ -1363,543 +1412,27 @@
 								</li>
 								
 									
-	<li class="chosen" data-chosen-redirect="http://www.akc.org/dog-breeds/%VALUE%/">
-		<select class="chosen-select full" name="allbreedsbygroup">
-			<option disabled="" selected="">By Dog Group</option>
-			
-					<optgroup label="Herding Group">
-						
-							<option value="australian-cattle-dog" data-name="Australian Cattle Dog">Australian Cattle Dog</option>
-						
-							<option value="australian-shepherd" data-name="Australian Shepherd">Australian Shepherd</option>
-						
-							<option value="bearded-collie" data-name="Bearded Collie">Bearded Collie</option>
-						
-							<option value="beauceron" data-name="Beauceron">Beauceron</option>
-						
-							<option value="belgian-malinois" data-name="Belgian Malinois">Belgian Malinois</option>
-						
-							<option value="belgian-sheepdog" data-name="Belgian Sheepdog">Belgian Sheepdog</option>
-						
-							<option value="belgian-tervuren" data-name="Belgian Tervuren">Belgian Tervuren</option>
-						
-							<option value="bergamasco" data-name="Bergamasco">Bergamasco</option>
-						
-							<option value="berger-picard" data-name="Berger Picard">Berger Picard</option>
-						
-							<option value="border-collie" data-name="Border Collie">Border Collie</option>
-						
-							<option value="bouvier-des-flandres" data-name="Bouvier des Flandres">Bouvier des Flandres</option>
-						
-							<option value="briard" data-name="Briard">Briard</option>
-						
-							<option value="canaan-dog" data-name="Canaan Dog">Canaan Dog</option>
-						
-							<option value="cardigan-welsh-corgi" data-name="Cardigan Welsh Corgi">Cardigan Welsh Corgi</option>
-						
-							<option value="collie" data-name="Collie">Collie</option>
-						
-							<option value="entlebucher-mountain-dog" data-name="Entlebucher Mountain Dog">Entlebucher Mountain Dog</option>
-						
-							<option value="finnish-lapphund" data-name="Finnish Lapphund">Finnish Lapphund</option>
-						
-							<option value="german-shepherd-dog" data-name="German Shepherd Dog">German Shepherd Dog</option>
-						
-							<option value="icelandic-sheepdog" data-name="Icelandic Sheepdog">Icelandic Sheepdog</option>
-						
-							<option value="miniature-american-shepherd" data-name="Miniature American Shepherd">Miniature American Shepherd</option>
-						
-							<option value="norwegian-buhund" data-name="Norwegian Buhund">Norwegian Buhund</option>
-						
-							<option value="old-english-sheepdog" data-name="Old English Sheepdog">Old English Sheepdog</option>
-						
-							<option value="pembroke-welsh-corgi" data-name="Pembroke Welsh Corgi">Pembroke Welsh Corgi</option>
-						
-							<option value="polish-lowland-sheepdog" data-name="Polish Lowland Sheepdog">Polish Lowland Sheepdog</option>
-						
-							<option value="puli" data-name="Puli">Puli</option>
-						
-							<option value="pyrenean-shepherd" data-name="Pyrenean Shepherd">Pyrenean Shepherd</option>
-						
-							<option value="shetland-sheepdog" data-name="Shetland Sheepdog">Shetland Sheepdog</option>
-						
-							<option value="spanish-water-dog" data-name="Spanish Water Dog">Spanish Water Dog</option>
-						
-							<option value="swedish-vallhund" data-name="Swedish Vallhund">Swedish Vallhund</option>
-						
-					</optgroup>
-				
-					<optgroup label="Hound Group">
-						
-							<option value="afghan-hound" data-name="Afghan Hound">Afghan Hound</option>
-						
-							<option value="american-english-coonhound" data-name="American English Coonhound">American English Coonhound</option>
-						
-							<option value="american-foxhound" data-name="American Foxhound">American Foxhound</option>
-						
-							<option value="basenji" data-name="Basenji">Basenji</option>
-						
-							<option value="basset-hound" data-name="Basset Hound">Basset Hound</option>
-						
-							<option value="beagle" data-name="Beagle">Beagle</option>
-						
-							<option value="black-and-tan-coonhound" data-name="Black and Tan Coonhound">Black and Tan Coonhound</option>
-						
-							<option value="bloodhound" data-name="Bloodhound">Bloodhound</option>
-						
-							<option value="bluetick-coonhound" data-name="Bluetick Coonhound">Bluetick Coonhound</option>
-						
-							<option value="borzoi" data-name="Borzoi">Borzoi</option>
-						
-							<option value="cirneco-delletna" data-name="Cirneco dell'Etna">Cirneco dell'Etna</option>
-						
-							<option value="dachshund" data-name="Dachshund">Dachshund</option>
-						
-							<option value="english-foxhound" data-name="English Foxhound">English Foxhound</option>
-						
-							<option value="greyhound" data-name="Greyhound">Greyhound</option>
-						
-							<option value="harrier" data-name="Harrier">Harrier</option>
-						
-							<option value="ibizan-hound" data-name="Ibizan Hound">Ibizan Hound</option>
-						
-							<option value="irish-wolfhound" data-name="Irish Wolfhound">Irish Wolfhound</option>
-						
-							<option value="norwegian-elkhound" data-name="Norwegian Elkhound">Norwegian Elkhound</option>
-						
-							<option value="otterhound" data-name="Otterhound">Otterhound</option>
-						
-							<option value="petit-basset-griffon-vendeen" data-name="Petit Basset Griffon Vendeen">Petit Basset Griffon Vendeen</option>
-						
-							<option value="pharaoh-hound" data-name="Pharaoh Hound">Pharaoh Hound</option>
-						
-							<option value="plott" data-name="Plott">Plott</option>
-						
-							<option value="portuguese-podengo-pequeno" data-name="Portuguese Podengo Pequeno">Portuguese Podengo Pequeno</option>
-						
-							<option value="redbone-coonhound" data-name="Redbone Coonhound">Redbone Coonhound</option>
-						
-							<option value="rhodesian-ridgeback" data-name="Rhodesian Ridgeback">Rhodesian Ridgeback</option>
-						
-							<option value="saluki" data-name="Saluki">Saluki</option>
-						
-							<option value="scottish-deerhound" data-name="Scottish Deerhound">Scottish Deerhound</option>
-						
-							<option value="treeing-walker-coonhound" data-name="Treeing Walker Coonhound">Treeing Walker Coonhound</option>
-						
-							<option value="whippet" data-name="Whippet">Whippet</option>
-						
-					</optgroup>
-				
-					<optgroup label="Miscellaneous">
-						
-							<option value="american-hairless-terrier" data-name="American Hairless Terrier">American Hairless Terrier</option>
-						
-							<option value="azawakh" data-name="Azawakh">Azawakh</option>
-						
-							<option value="belgian-laekenois" data-name="Belgian Laekenois">Belgian Laekenois</option>
-						
-							<option value="dogo-argentino" data-name="Dogo Argentino">Dogo Argentino</option>
-						
-							<option value="grand-basset-griffon-vendeen" data-name="Grand Basset Griffon Vendeen">Grand Basset Griffon Vendeen</option>
-						
-							<option value="nederlandse-kooikerhondje" data-name="Nederlandse Kooikerhondje">Nederlandse Kooikerhondje</option>
-						
-							<option value="norrbottenspets" data-name="Norrbottenspets">Norrbottenspets</option>
-						
-							<option value="peruvian-inca-orchid" data-name="Peruvian Inca Orchid">Peruvian Inca Orchid</option>
-						
-							<option value="portuguese-podengo" data-name="Portuguese Podengo">Portuguese Podengo</option>
-						
-							<option value="pumi" data-name="Pumi">Pumi</option>
-						
-							<option value="sloughi" data-name="Sloughi">Sloughi</option>
-						
-					</optgroup>
-				
-					<optgroup label="Non Sporting Group">
-						
-							<option value="american-eskimo-dog" data-name="American Eskimo Dog">American Eskimo Dog</option>
-						
-							<option value="bichon-frise" data-name="Bichon Frise">Bichon Frise</option>
-						
-							<option value="boston-terrier" data-name="Boston Terrier">Boston Terrier</option>
-						
-							<option value="bulldog" data-name="Bulldog">Bulldog</option>
-						
-							<option value="chinese-shar-pei" data-name="Chinese Shar-Pei">Chinese Shar-Pei</option>
-						
-							<option value="chow-chow" data-name="Chow Chow">Chow Chow</option>
-						
-							<option value="coton-de-tulear" data-name="Coton de Tulear">Coton de Tulear</option>
-						
-							<option value="dalmatian" data-name="Dalmatian">Dalmatian</option>
-						
-							<option value="finnish-spitz" data-name="Finnish Spitz">Finnish Spitz</option>
-						
-							<option value="french-bulldog" data-name="French Bulldog">French Bulldog</option>
-						
-							<option value="keeshond" data-name="Keeshond">Keeshond</option>
-						
-							<option value="lhasa-apso" data-name="Lhasa Apso">Lhasa Apso</option>
-						
-							<option value="lowchen" data-name="Lowchen">Lowchen</option>
-						
-							<option value="norwegian-lundehund" data-name="Norwegian Lundehund">Norwegian Lundehund</option>
-						
-							<option value="poodle" data-name="Poodle">Poodle</option>
-						
-							<option value="schipperke" data-name="Schipperke">Schipperke</option>
-						
-							<option value="shiba-inu" data-name="Shiba Inu">Shiba Inu</option>
-						
-							<option value="tibetan-spaniel" data-name="Tibetan Spaniel">Tibetan Spaniel</option>
-						
-							<option value="tibetan-terrier" data-name="Tibetan Terrier">Tibetan Terrier</option>
-						
-							<option value="xoloitzcuintli" data-name="Xoloitzcuintli">Xoloitzcuintli</option>
-						
-					</optgroup>
-				
-					<optgroup label="Sporting Group">
-						
-							<option value="american-water-spaniel" data-name="American Water Spaniel">American Water Spaniel</option>
-						
-							<option value="boykin-spaniel" data-name="Boykin Spaniel">Boykin Spaniel</option>
-						
-							<option value="brittany" data-name="Brittany">Brittany</option>
-						
-							<option value="chesapeake-bay-retriever" data-name="Chesapeake Bay Retriever">Chesapeake Bay Retriever</option>
-						
-							<option value="clumber-spaniel" data-name="Clumber Spaniel">Clumber Spaniel</option>
-						
-							<option value="cocker-spaniel" data-name="Cocker Spaniel">Cocker Spaniel</option>
-						
-							<option value="corgi" data-name="Corgi - test data - do not use">Corgi - test data - do not use</option>
-						
-							<option value="curly-coated-retriever" data-name="Curly-Coated Retriever">Curly-Coated Retriever</option>
-						
-							<option value="english-cocker-spaniel" data-name="English Cocker Spaniel">English Cocker Spaniel</option>
-						
-							<option value="english-setter" data-name="English Setter">English Setter</option>
-						
-							<option value="english-springer-spaniel" data-name="English Springer Spaniel">English Springer Spaniel</option>
-						
-							<option value="field-spaniel" data-name="Field Spaniel">Field Spaniel</option>
-						
-							<option value="flat-coated-retriever" data-name="Flat-Coated Retriever">Flat-Coated Retriever</option>
-						
-							<option value="german-shorthaired-pointer" data-name="German Shorthaired Pointer">German Shorthaired Pointer</option>
-						
-							<option value="german-wirehaired-pointer" data-name="German Wirehaired Pointer">German Wirehaired Pointer</option>
-						
-							<option value="golden-retriever" data-name="Golden Retriever">Golden Retriever</option>
-						
-							<option value="gordon-setter" data-name="Gordon Setter">Gordon Setter</option>
-						
-							<option value="irish-red-and-white-setter" data-name="Irish Red and White Setter">Irish Red and White Setter</option>
-						
-							<option value="irish-setter" data-name="Irish Setter">Irish Setter</option>
-						
-							<option value="irish-water-spaniel" data-name="Irish Water Spaniel">Irish Water Spaniel</option>
-						
-							<option value="labrador-retriever" data-name="Labrador Retriever">Labrador Retriever</option>
-						
-							<option value="lagotto-romagnolo" data-name="Lagotto Romagnolo">Lagotto Romagnolo</option>
-						
-							<option value="nova-scotia-duck-tolling-retriever" data-name="Nova Scotia Duck Tolling Retriever">Nova Scotia Duck Tolling Retriever</option>
-						
-							<option value="pointer" data-name="Pointer">Pointer</option>
-						
-							<option value="spinone-italiano" data-name="Spinone Italiano">Spinone Italiano</option>
-						
-							<option value="sussex-spaniel" data-name="Sussex Spaniel">Sussex Spaniel</option>
-						
-							<option value="vizsla" data-name="Vizsla">Vizsla</option>
-						
-							<option value="weimaraner" data-name="Weimaraner">Weimaraner</option>
-						
-							<option value="welsh-springer-spaniel" data-name="Welsh Springer Spaniel">Welsh Springer Spaniel</option>
-						
-							<option value="wirehaired-pointing-griffon" data-name="Wirehaired Pointing Griffon">Wirehaired Pointing Griffon</option>
-						
-							<option value="wirehaired-vizsla" data-name="Wirehaired Vizsla">Wirehaired Vizsla</option>
-						
-					</optgroup>
-				
-					<optgroup label="Terrier Group">
-						
-							<option value="airedale-terrier" data-name="Airedale Terrier">Airedale Terrier</option>
-						
-							<option value="american-staffordshire-terrier" data-name="American Staffordshire Terrier">American Staffordshire Terrier</option>
-						
-							<option value="australian-terrier" data-name="Australian Terrier">Australian Terrier</option>
-						
-							<option value="bedlington-terrier" data-name="Bedlington Terrier">Bedlington Terrier</option>
-						
-							<option value="border-terrier" data-name="Border Terrier">Border Terrier</option>
-						
-							<option value="bull-terrier" data-name="Bull Terrier">Bull Terrier</option>
-						
-							<option value="cairn-terrier" data-name="Cairn Terrier">Cairn Terrier</option>
-						
-							<option value="cesky-terrier" data-name="Cesky Terrier">Cesky Terrier</option>
-						
-							<option value="dandie-dinmont-terrier" data-name="Dandie Dinmont Terrier">Dandie Dinmont Terrier</option>
-						
-							<option value="glen-of-imaal-terrier" data-name="Glen of Imaal Terrier">Glen of Imaal Terrier</option>
-						
-							<option value="irish-terrier" data-name="Irish Terrier">Irish Terrier</option>
-						
-							<option value="kerry-blue-terrier" data-name="Kerry Blue Terrier">Kerry Blue Terrier</option>
-						
-							<option value="lakeland-terrier" data-name="Lakeland Terrier">Lakeland Terrier</option>
-						
-							<option value="manchester-terrier" data-name="Manchester Terrier">Manchester Terrier</option>
-						
-							<option value="miniature-bull-terrier" data-name="Miniature Bull Terrier">Miniature Bull Terrier</option>
-						
-							<option value="miniature-schnauzer" data-name="Miniature Schnauzer">Miniature Schnauzer</option>
-						
-							<option value="norfolk-terrier" data-name="Norfolk Terrier">Norfolk Terrier</option>
-						
-							<option value="norwich-terrier" data-name="Norwich Terrier">Norwich Terrier</option>
-						
-							<option value="parson-russell-terrier" data-name="Parson Russell Terrier">Parson Russell Terrier</option>
-						
-							<option value="rat-terrier" data-name="Rat Terrier">Rat Terrier</option>
-						
-							<option value="russell-terrier" data-name="Russell Terrier">Russell Terrier</option>
-						
-							<option value="scottish-terrier" data-name="Scottish Terrier">Scottish Terrier</option>
-						
-							<option value="sealyham-terrier" data-name="Sealyham Terrier">Sealyham Terrier</option>
-						
-							<option value="skye-terrier" data-name="Skye Terrier">Skye Terrier</option>
-						
-							<option value="smooth-fox-terrier" data-name="Smooth Fox Terrier">Smooth Fox Terrier</option>
-						
-							<option value="soft-coated-wheaten-terrier" data-name="Soft Coated Wheaten Terrier">Soft Coated Wheaten Terrier</option>
-						
-							<option value="staffordshire-bull-terrier" data-name="Staffordshire Bull Terrier">Staffordshire Bull Terrier</option>
-						
-							<option value="welsh-terrier" data-name="Welsh Terrier">Welsh Terrier</option>
-						
-							<option value="west-highland-white-terrier" data-name="West Highland White Terrier">West Highland White Terrier</option>
-						
-							<option value="wire-fox-terrier" data-name="Wire Fox Terrier">Wire Fox Terrier</option>
-						
-					</optgroup>
-				
-					<optgroup label="Toy Group">
-						
-							<option value="affenpinscher" data-name="Affenpinscher">Affenpinscher</option>
-						
-							<option value="brussels-griffon" data-name="Brussels Griffon">Brussels Griffon</option>
-						
-							<option value="cavalier-king-charles-spaniel" data-name="Cavalier King Charles Spaniel">Cavalier King Charles Spaniel</option>
-						
-							<option value="chihuahua" data-name="Chihuahua">Chihuahua</option>
-						
-							<option value="chinese-crested" data-name="Chinese Crested">Chinese Crested</option>
-						
-							<option value="english-toy-spaniel" data-name="English Toy Spaniel">English Toy Spaniel</option>
-						
-							<option value="havanese" data-name="Havanese">Havanese</option>
-						
-							<option value="italian-greyhound" data-name="Italian Greyhound">Italian Greyhound</option>
-						
-							<option value="japanese-chin" data-name="Japanese Chin">Japanese Chin</option>
-						
-							<option value="maltese" data-name="Maltese">Maltese</option>
-						
-							<option value="miniature-pinscher" data-name="Miniature Pinscher">Miniature Pinscher</option>
-						
-							<option value="papillon" data-name="Papillon">Papillon</option>
-						
-							<option value="pekingese" data-name="Pekingese">Pekingese</option>
-						
-							<option value="pomeranian" data-name="Pomeranian">Pomeranian</option>
-						
-							<option value="pug" data-name="Pug">Pug</option>
-						
-							<option value="shih-tzu" data-name="Shih Tzu">Shih Tzu</option>
-						
-							<option value="silky-terrier" data-name="Silky Terrier">Silky Terrier</option>
-						
-							<option value="toy-fox-terrier" data-name="Toy Fox Terrier">Toy Fox Terrier</option>
-						
-							<option value="yorkshire-terrier" data-name="Yorkshire Terrier">Yorkshire Terrier</option>
-						
-					</optgroup>
-				
-					<optgroup label="Working Group">
-						
-							<option value="akita" data-name="Akita">Akita</option>
-						
-							<option value="alaskan-malamute" data-name="Alaskan Malamute">Alaskan Malamute</option>
-						
-							<option value="anatolian-shepherd-dog" data-name="Anatolian Shepherd Dog">Anatolian Shepherd Dog</option>
-						
-							<option value="bernese-mountain-dog" data-name="Bernese Mountain Dog">Bernese Mountain Dog</option>
-						
-							<option value="black-russian-terrier" data-name="Black Russian Terrier">Black Russian Terrier</option>
-						
-							<option value="boerboel" data-name="Boerboel">Boerboel</option>
-						
-							<option value="boxer" data-name="Boxer">Boxer</option>
-						
-							<option value="bullmastiff" data-name="Bullmastiff">Bullmastiff</option>
-						
-							<option value="cane-corso" data-name="Cane Corso">Cane Corso</option>
-						
-							<option value="chinook" data-name="Chinook">Chinook</option>
-						
-							<option value="doberman-pinscher" data-name="Doberman Pinscher">Doberman Pinscher</option>
-						
-							<option value="dogue-de-bordeaux" data-name="Dogue de Bordeaux">Dogue de Bordeaux</option>
-						
-							<option value="german-pinscher" data-name="German Pinscher">German Pinscher</option>
-						
-							<option value="giant-schnauzer" data-name="Giant Schnauzer">Giant Schnauzer</option>
-						
-							<option value="great-dane" data-name="Great Dane">Great Dane</option>
-						
-							<option value="great-pyrenees" data-name="Great Pyrenees">Great Pyrenees</option>
-						
-							<option value="greater-swiss-mountain-dog" data-name="Greater Swiss Mountain Dog">Greater Swiss Mountain Dog</option>
-						
-							<option value="komondor" data-name="Komondor">Komondor</option>
-						
-							<option value="kuvasz" data-name="Kuvasz">Kuvasz</option>
-						
-							<option value="leonberger" data-name="Leonberger">Leonberger</option>
-						
-							<option value="mastiff" data-name="Mastiff">Mastiff</option>
-						
-							<option value="neapolitan-mastiff" data-name="Neapolitan Mastiff">Neapolitan Mastiff</option>
-						
-							<option value="newfoundland" data-name="Newfoundland">Newfoundland</option>
-						
-							<option value="portuguese-water-dog" data-name="Portuguese Water Dog">Portuguese Water Dog</option>
-						
-							<option value="rottweiler" data-name="Rottweiler">Rottweiler</option>
-						
-							<option value="samoyed" data-name="Samoyed">Samoyed</option>
-						
-							<option value="siberian-husky" data-name="Siberian Husky">Siberian Husky</option>
-						
-							<option value="st-bernard" data-name="St. Bernard">St. Bernard</option>
-						
-							<option value="standard-schnauzer" data-name="Standard Schnauzer">Standard Schnauzer</option>
-						
-							<option value="tibetan-mastiff" data-name="Tibetan Mastiff">Tibetan Mastiff</option>
-						
-					</optgroup>
-				
-					<optgroup label="FSS">
-						
-							<option value="american-leopard-hound" data-name="American Leopard Hound">American Leopard Hound</option>
-						
-							<option value="appenzeller-sennenhunde" data-name="Appenzeller Sennenhunde">Appenzeller Sennenhunde</option>
-						
-							<option value="barbet" data-name="Barbet">Barbet</option>
-						
-							<option value="basset-fauve-de-bretagne" data-name="Basset Fauve de Bretagne">Basset Fauve de Bretagne</option>
-						
-							<option value="biewer-terrier" data-name="Biewer Terrier">Biewer Terrier</option>
-						
-							<option value="bolognese" data-name="Bolognese">Bolognese</option>
-						
-							<option value="bracco-italiano" data-name="Bracco Italiano">Bracco Italiano</option>
-						
-							<option value="braque-du-bourbonnais" data-name="Braque du Bourbonnais">Braque du Bourbonnais</option>
-						
-							<option value="broholmer" data-name="Broholmer">Broholmer</option>
-						
-							<option value="catahoula-leopard-dog" data-name="Catahoula Leopard Dog">Catahoula Leopard Dog</option>
-						
-							<option value="caucasian-ovcharka" data-name="Caucasian Ovcharka">Caucasian Ovcharka</option>
-						
-							<option value="central-asian-shepherd-dog" data-name="Central Asian Shepherd Dog">Central Asian Shepherd Dog</option>
-						
-							<option value="czechoslovakian-vlcak" data-name="Czechoslovakian Vlcak">Czechoslovakian Vlcak</option>
-						
-							<option value="danish-swedish-farmdog" data-name="Danish-Swedish Farmdog">Danish-Swedish Farmdog</option>
-						
-							<option value="deutscher-wachtelhund" data-name="Deutscher Wachtelhund">Deutscher Wachtelhund</option>
-						
-							<option value="drentsche-patrijshond" data-name="Drentsche Patrijshond">Drentsche Patrijshond</option>
-						
-							<option value="drever" data-name="Drever">Drever</option>
-						
-							<option value="dutch-shepherd" data-name="Dutch Shepherd">Dutch Shepherd</option>
-						
-							<option value="estrela-mountain-dog" data-name="Estrela Mountain Dog">Estrela Mountain Dog</option>
-						
-							<option value="eurasier" data-name="Eurasier">Eurasier</option>
-						
-							<option value="french-spaniel" data-name="French Spaniel">French Spaniel</option>
-						
-							<option value="german-longhaired-pointer" data-name="German Longhaired Pointer">German Longhaired Pointer</option>
-						
-							<option value="german-spitz" data-name="German Spitz">German Spitz</option>
-						
-							<option value="hamiltonstovare" data-name="Hamiltonstovare">Hamiltonstovare</option>
-						
-							<option value="hovawart" data-name="Hovawart">Hovawart</option>
-						
-							<option value="jindo" data-name="Jindo">Jindo</option>
-						
-							<option value="kai-ken" data-name="Kai Ken">Kai Ken</option>
-						
-							<option value="karelian-bear-dog" data-name="Karelian Bear Dog">Karelian Bear Dog</option>
-						
-							<option value="kishu-ken" data-name="Kishu Ken">Kishu Ken</option>
-						
-							<option value="kromfohrlander" data-name="Kromfohrlander">Kromfohrlander</option>
-						
-							<option value="lancashire-heeler" data-name="Lancashire Heeler">Lancashire Heeler</option>
-						
-							<option value="mudi" data-name="Mudi">Mudi</option>
-						
-							<option value="perro-de-presa-canario" data-name="Perro de Presa Canario">Perro de Presa Canario</option>
-						
-							<option value="portuguese-pointer" data-name="Portuguese Pointer">Portuguese Pointer</option>
-						
-							<option value="portuguese-sheepdog" data-name="Portuguese Sheepdog">Portuguese Sheepdog</option>
-						
-							<option value="pyrenean-mastiff" data-name="Pyrenean Mastiff">Pyrenean Mastiff</option>
-						
-							<option value="rafeiro-do-alentejo" data-name="Rafeiro do Alentejo">Rafeiro do Alentejo</option>
-						
-							<option value="russian-toy" data-name="Russian Toy">Russian Toy</option>
-						
-							<option value="russian-tsvetnaya-bolonka" data-name="Russian Tsvetnaya Bolonka">Russian Tsvetnaya Bolonka</option>
-						
-							<option value="slovensky-cuvac" data-name="Slovensky Cuvac">Slovensky Cuvac</option>
-						
-							<option value="small-munsterlander-pointer" data-name="Small Munsterlander Pointer">Small Munsterlander Pointer</option>
-						
-							<option value="spanish-mastiff" data-name="Spanish Mastiff">Spanish Mastiff</option>
-						
-							<option value="stabyhoun" data-name="Stabyhoun">Stabyhoun</option>
-						
-							<option value="swedish-lapphund" data-name="Swedish Lapphund">Swedish Lapphund</option>
-						
-							<option value="thai-ridgeback" data-name="Thai Ridgeback">Thai Ridgeback</option>
-						
-							<option value="tornjak" data-name="Tornjak">Tornjak</option>
-						
-							<option value="tosa" data-name="Tosa">Tosa</option>
-						
-							<option value="transylvanian-hound" data-name="Transylvanian Hound">Transylvanian Hound</option>
-						
-							<option value="working-kelpie" data-name="Working Kelpie">Working Kelpie</option>
-						
-					</optgroup>
-		</select>
-	</li>
+<li class="chosen" data-chosen-redirect="http://www.akc.org/dog-breeds/groups/%VALUE%/">
+    <!--googleoff: index-->
+    <select class="chosen-select full" name="allbreedsbygroup">
+        <option disabled="" selected="">By Dog Group</option>
+        
+        <option value="herding" data-name="Herding Group">Herding Group</option>
+        
+        <option value="hound" data-name="Hound Group">Hound Group</option>
+        
+        <option value="non-sporting" data-name="Non Sporting Group">Non Sporting Group</option>
+        
+        <option value="sporting" data-name="Sporting Group">Sporting Group</option>
+        
+        <option value="terrier" data-name="Terrier Group">Terrier Group</option>
+        
+        <option value="toy" data-name="Toy Group">Toy Group</option>
+        
+        <option value="working" data-name="Working Group">Working Group</option>
+    </select>
+    <!--googleon: index-->
+</li>
 
 								
 							</ul>
@@ -1914,9 +1447,11 @@
 								
 									<li><a href="//apps.akc.org/apps/classified/search/landing_breed.cfm">Find a Puppy </a></li>
 								
-									<li><a href="https://www.akc.org/dog-breeds/rescue-network/">AKC Rescue Network</a></li>
+									<li><a href="http://www.akc.org/dog-breeds/rescue-network/">AKC Rescue Network</a></li>
 								
 									<li><a href="//apps.akc.org/apps/breederinfo/breeder_search.cfm">Breeder Referral Search</a></li>
+								
+									<li><a href="http://www.akc.org/press-center/facts-stats/responsible-breeders/">Find a Responsible Breeder</a></li>
 								
 							</ul>
 					</li>
@@ -1931,18 +1466,18 @@
 									
 								</li>
 								
-									<li><a href="https://www.akc.org/dog-breeders/breeder-education/">Breeder Education</a></li>
+									<li><a href="http://www.akc.org/dog-breeders/breeder-education/">Breeder Education</a></li>
 								
-									<li><a href="https://www.akc.org/dog-breeders/breeder-education/canine-health/">Canine Health</a></li>
+									<li><a href="http://www.akc.org/dog-breeders/breeder-education/canine-health/">Canine Health</a></li>
 								
 							</ul><ul>
 								<li class="colhead">
 									
-										<a>List Dogs in OBC</a>
+										<a>List Your Litter in OBC</a>
 									
 								</li>
 								
-									<li><a href="//apps.akc.org/apps/classified/create/index.cfm?useraction=main">Online Breeder Classifieds</a></li>
+									<li><a href="//apps.akc.org/apps/classified/create/">Online Breeder Classifieds</a></li>
 								
 							</ul>
 					</li>
@@ -1950,18 +1485,18 @@
 						<ul>
 								<li class="colhead">
 									
-										<a href="https://www.akc.org/register/?pre=breeder&amp;activity=puppy">Register a Purebred Puppy</a>
+										<a href="http://www.akc.org/register/?pre=breeder&amp;activity=puppy">Register a Purebred Puppy</a>
 									
 								</li>
 								
 									
-										<li><a href="https://www.akc.org/register/?pre=breeder&amp;activity=puppy">Register Online</a></li>
+										<li><a href="http://www.akc.org/register/?pre=breeder&amp;activity=puppy">Register Online</a></li>
 									
-										<li><a href="https://www.akc.org/register/registering-a-dog/">Register By Mail</a></li>
+										<li><a href="http://www.akc.org/register/registering-a-dog/">Register By Mail</a></li>
 									
-										<li><a href="https://www.akc.org/register/open-registration/">Open Registration</a></li>
+										<li><a href="http://www.akc.org/register/open-registration/">Open Registration</a></li>
 									
-										<li><a href="https://www.akc.org/rules/special-registry-services/">Foreign Registration</a></li>
+										<li><a href="http://www.akc.org/rules/special-registry-services/">Foreign Registration</a></li>
 									
 								
 							</ul><ul>
@@ -1972,11 +1507,11 @@
 								</li>
 								
 									
-										<li><a href="https://www.akc.org/register/?pre=breeder&amp;activity=litter">Register Online</a></li>
+										<li><a href="http://www.akc.org/register/?pre=breeder&amp;activity=litter">Register Online</a></li>
 									
-										<li><a href="https://www.akc.org/register/register-litter-by-mail/">Register By Mail</a></li>
+										<li><a href="http://www.akc.org/register/register-litter-by-mail/">Register By Mail</a></li>
 									
-										<li><a href="https://www.akc.org/apps/form_status/index.cfm">Registration Status Check</a></li>
+										<li><a href="http://www.akc.org/apps/form_status/index.cfm">Registration Status Check</a></li>
 									
 								
 							</ul>
@@ -1990,9 +1525,9 @@
 								</li>
 								
 									
-										<li><a href="https://www.akc.org/dog-breeders/breeder-of-merit/">Breeder of Merit Program</a></li>
+										<li><a href="http://www.akc.org/dog-breeders/breeder-of-merit/">Breeder of Merit Program</a></li>
 									
-										<li><a href="https://www.akc.org/dog-breeders/bred-with-heart/">Bred with H.E.A.R.T.</a></li>
+										<li><a href="http://www.akc.org/dog-breeders/bred-with-heart/">Bred with H.E.A.R.T.</a></li>
 									
 										<li><a href="//apps.akc.org/apps/store/index.cfm">AKC Store</a></li>
 									
@@ -2007,15 +1542,15 @@
 									
 								</li>
 								
-									<li><a href="https://www.akc.org/government-relations/">Government Relations</a></li>
+									<li><a href="http://www.akc.org/government-relations/">Government Relations</a></li>
 								
-									<li><a href="https://www.akc.org/register/online-pedigree/">Ordering an Online Pedigree</a></li>
+									<li><a href="http://www.akc.org/register/online-pedigree/">Ordering an Online Pedigree</a></li>
 								
-									<li><a href="https://www.akc.org/register/certified-pedigree/">Ordering a Certified Pedigree</a></li>
+									<li><a href="http://www.akc.org/register/certified-pedigree/">Ordering a Certified Pedigree</a></li>
 								
-									<li><a href="https://www.akc.org/dna/resource-center/">DNA Resource Center</a></li>
+									<li><a href="http://www.akc.org/dna/resource-center/">DNA Resource Center</a></li>
 								
-									<li><a href="https://www.akc.org/about/inside-akc/departments/investigations-and-inspections/">Inspections</a></li>
+									<li><a href="http://www.akc.org/about/inside-akc/departments/investigations-and-inspections/">Inspections</a></li>
 								
 							</ul>
 					</li>
@@ -2030,9 +1565,9 @@
 									
 								</li>
 								
-									<li><a href="https://www.akc.org/register/?pre=owner&amp;activity=puppy">Register Online</a></li>
+									<li><a href="http://www.akc.org/register/?pre=owner&amp;activity=puppy">Register Online</a></li>
 								
-									<li><a href="https://www.akc.org/register/registering-a-dog/">Register By Mail</a></li>
+									<li><a href="http://www.akc.org/register/registering-a-dog/">Register By Mail</a></li>
 								
 							</ul><ul>
 								<li class="colhead">
@@ -2041,7 +1576,7 @@
 									
 								</li>
 								
-									<li><a href="https://www.akc.org/register/purebred-alternative-listing/">Register By Mail</a></li>
+									<li><a href="http://www.akc.org/register/purebred-alternative-listing/">Register By Mail</a></li>
 								
 							</ul>
 					</li>
@@ -2054,7 +1589,7 @@
 								</li>
 								
 									
-										<li><a href="https://www.akc.org/dog-owners/canine-partners/">Canine Partners Program</a></li>
+										<li><a href="http://www.akc.org/dog-owners/canine-partners/">Canine Partners Program</a></li>
 									
 								
 							</ul><ul>
@@ -2067,7 +1602,7 @@
 									
 										<li><a href="//apps.akc.org/apps/store/index.cfm">AKC Store</a></li>
 									
-										<li><a href="//apps.akc.org//apps/store/index.cfm?view=category&amp;cde_category=PED&amp;cde_product=PEDX04?utm_source=menu&amp;utm_medium=header&amp;utm_campaign=pedigree_test&amp;utm_content=your-dogs-pedogree">Your Dog's Pedigree</a></li>
+										<li><a href="//apps.akc.org//apps/store/index.cfm?view=category&amp;cde_category=PED&amp;cde_product=PED?utm_source=menu&amp;utm_medium=header&amp;utm_campaign=pedigree_test&amp;utm_content=your-dogs-pedigree">Your Dog's Pedigree</a></li>
 									
 								
 							</ul><ul>
@@ -2078,7 +1613,7 @@
 								</li>
 								
 									
-										<li><a href="https://www.akc.org/lost-and-found/">AKC Reunite</a></li>
+										<li><a href="http://www.akc.org/lost-and-found/">AKC Reunite</a></li>
 									
 								
 							</ul>
@@ -2092,15 +1627,15 @@
 								</li>
 								
 									
-										<li><a href="https://www.akc.org/dog-owners/training/canine-good-citizen/">AKC Canine Good Citizen®</a></li>
+										<li><a href="http://www.akc.org/dog-owners/training/canine-good-citizen/">AKC Canine Good Citizen®</a></li>
 									
 										<li><a href="//apps.akc.org/classic/events/cgc/cgc_schedule.cfm">CGC Classes and Tests (CGC,STAR,CGCA, CGCU)</a></li>
 									
 										<li><a href="//apps.akc.org/apps/helpline/index.cfm">AKC GoodDog Helpline</a></li>
 									
-										<li><a href="https://www.akc.org/events/training-clubs/">AKC Training Clubs</a></li>
+										<li><a href="http://www.akc.org/events/training-clubs/">AKC Training Clubs</a></li>
 									
-										<li><a href="https://www.akc.org/dog-owners/training/akc-therapy-dog-program/">AKC Therapy Dog™ Program</a></li>
+										<li><a href="http://www.akc.org/dog-owners/training/akc-therapy-dog-program/">AKC Therapy Dog™ Program</a></li>
 									
 								
 							</ul>
@@ -2113,9 +1648,9 @@
 									
 								</li>
 								
-									<li><a href="https://www.akc.org/dog-owners/responsible-dog-ownership/">Be a Responsible Dog Owner</a></li>
+									<li><a href="http://www.akc.org/dog-owners/responsible-dog-ownership/">Be a Responsible Dog Owner</a></li>
 								
-									<li><a href="https://www.akc.org/classic/clubs/rdod/events/index.cfm">Responsible Dog Ownership Day Events</a></li>
+									<li><a href="http://www.akc.org/classic/clubs/rdod/events/index.cfm">Responsible Dog Ownership Day Events</a></li>
 								
 							</ul><ul>
 								<li class="colhead">
@@ -2124,11 +1659,11 @@
 									
 								</li>
 								
-									<li><a href="https://www.akc.org/learn/dog-health/">AKC Health</a></li>
+									<li><a href="http://www.akc.org/learn/dog-health/">AKC Health</a></li>
 								
 									<li><a href="http://www.akcpethealthcare.com/" target="_blank">AKC Pet Insurance</a></li>
 								
-									<li><a href="https://www.akc.org/apps/vetnet/index.cfm?action=">AKC Veterinary Network</a></li>
+									<li><a href="http://www.akc.org/apps/vetnet/index.cfm?action=">AKC Veterinary Network</a></li>
 								
 							</ul>
 					</li>
@@ -2152,7 +1687,7 @@
 									
 								</li>
 								
-									<li><a href="https://www.akc.org/clubs/manage/policies/">Club Policies</a></li>
+									<li><a href="http://www.akc.org/clubs/manage/policies/">Club Policies</a></li>
 								
 									<li><a href="//images.akc.org/pdf/acnew1(0999).pdf" target="_blank">New Club Profile Form</a></li>
 								
@@ -2169,11 +1704,11 @@
 								</li>
 								
 									
-										<li><a href="https://www.akc.org/clubs/manage/about-club-relations/">About Club Relations</a></li>
+										<li><a href="http://www.akc.org/clubs/resources/">All Breed Club Resources</a></li>
 									
-										<li><a href="https://www.akc.org/rules/">Rules and Regulations</a></li>
+										<li><a href="http://www.akc.org/rules/">Rules and Regulations</a></li>
 									
-										<li><a href="https://www.akc.org/clubs/manage/breed-fliers/">Parent Club Breed Flier Program</a></li>
+										<li><a href="http://www.akc.org/clubs/manage/about-club-relations/">About Club Relations</a></li>
 									
 										<li><a href="//apps.akc.org/apps/club_membership/index.cfm">Club Membership Upload</a></li>
 									
@@ -2193,15 +1728,15 @@
 								</li>
 								
 									
-										<li><a href="https://www.akc.org/clubs/promote/media-resources/">Media Resources</a></li>
+										<li><a href="http://www.akc.org/clubs/promote/media-resources/">Media Resources</a></li>
 									
-										<li><a href="https://www.akc.org/press-center/">Press Center</a></li>
+										<li><a href="http://www.akc.org/press-center/">Press Center</a></li>
 									
-										<li><a href="https://www.akc.org/public-education/">Public Education</a></li>
+										<li><a href="http://www.akc.org/public-education/">Public Education</a></li>
 									
 										<li><a href="http://www.akchumanefund.org" target="_blank">AKC Humane Fund</a></li>
 									
-										<li><a href="https://www.akc.org/clubs/promote/akc-outstanding-sportsmanship-award/">Outstanding Sportsmanship Award</a></li>
+										<li><a href="http://www.akc.org/clubs/promote/akc-outstanding-sportsmanship-award/">Outstanding Sportsmanship Award</a></li>
 									
 								
 							</ul>
@@ -2214,13 +1749,13 @@
 									
 								</li>
 								
-									<li><a href="https://www.akc.org/delegate/">Delegates</a></li>
+									<li><a href="http://www.akc.org/delegate/">Delegates</a></li>
 								
 									<li><a href="http://cdn.akc.org/Delegates_Portal_PDFs/Meeting_Calendar.pdf" target="_blank">Delegates Meeting Dates</a></li>
 								
 									<li><a href="//apps.akc.org/apps/insideAKC/delegates/delegates_search.cfm">Delegate Directory &amp; Search</a></li>
 								
-									<li><a href="https://www.akc.org/delegate/standing-committees/">Delegate Standing Committees</a></li>
+									<li><a href="http://www.akc.org/delegate/standing-committees/">Delegate Standing Committees</a></li>
 								
 							</ul>
 					</li>
@@ -2235,21 +1770,21 @@
 									
 								</li>
 								
-									<li><a href="https://www.akc.org/events/">All Events</a></li>
+									<li><a href="http://www.akc.org/events/">All Events</a></li>
 								
-									<li><a href="https://www.akc.org/events/conformation-dog-shows/">Conformation Dog Shows</a></li>
+									<li><a href="http://www.akc.org/events/conformation-dog-shows/">Conformation Dog Shows</a></li>
 								
-									<li><a href="https://www.akc.org/events/obedience/">Obedience</a></li>
+									<li><a href="http://www.akc.org/events/obedience/">Obedience</a></li>
 								
-									<li><a href="https://www.akc.org/events/rally/">AKC Rally</a></li>
+									<li><a href="http://www.akc.org/events/rally/">AKC Rally</a></li>
 								
-									<li><a href="https://www.akc.org/events/agility/">Agility</a></li>
+									<li><a href="http://www.akc.org/events/agility/">Agility</a></li>
 								
-									<li><a href="https://www.akc.org/events/tracking/">Tracking</a></li>
+									<li><a href="http://www.akc.org/events/tracking/">Tracking</a></li>
 								
-									<li><a href="https://www.akc.org/events/field-events/">Field Events</a></li>
+									<li><a href="http://www.akc.org/events/field-events/">Field Events</a></li>
 								
-									<li><a href="https://www.akc.org/events/4-6-puppy/">4 to 6 Puppy</a></li>
+									<li><a href="http://www.akc.org/events/4-6-puppy/">4 to 6 Puppy</a></li>
 								
 							</ul>
 					</li>
@@ -2262,19 +1797,19 @@
 								</li>
 								
 									
-										<li><a href="https://www.akc.org/events/coursing-ability-test/">Coursing Ability Test</a></li>
+										<li><a href="http://www.akc.org/events/coursing-ability-test/">Coursing Ability Test</a></li>
 									
-										<li><a href="https://www.akc.org/events/earth-dog/">Earthdog</a></li>
+										<li><a href="http://www.akc.org/events/earth-dog/">Earthdog</a></li>
 									
-										<li><a href="https://www.akc.org/events/herding/">Herding</a></li>
+										<li><a href="http://www.akc.org/events/herding/">Herding</a></li>
 									
-										<li><a href="https://www.akc.org/events/lure-coursing/">Lure Coursing</a></li>
+										<li><a href="http://www.akc.org/events/lure-coursing/">Lure Coursing</a></li>
 									
-										<li><a href="https://www.akc.org/events/nohs/">Owner-Handled Series</a></li>
+										<li><a href="http://www.akc.org/events/nohs/">Owner-Handled Series</a></li>
 									
-										<li><a href="https://www.akc.org/events/junior-showmanship/">Junior Showmanship</a></li>
+										<li><a href="http://www.akc.org/events/junior-showmanship/">Junior Showmanship</a></li>
 									
-										<li><a href="https://www.akc.org/events/title-recognition-program/">Title Recognition Program</a></li>
+										<li><a href="http://www.akc.org/events/title-recognition-program/">Title Recognition Program</a></li>
 									
 										<li><a href="http://akcwinners.com/results" target="_blank">Live Show Results</a></li>
 									
@@ -2292,9 +1827,13 @@
 									
 										<li><a href="//apps.akc.org/apps/events/search/index.cfm">Event Calendar</a></li>
 									
-										<li><a href="https://www.akc.org/events/cancellations/">Event Cancellations</a></li>
+										<li><a href="http://www.akc.org/events/cancellations/">Event Cancellations</a></li>
 									
-										<li><a href="https://www.akc.org/events/responsible-dog-ownership-days/">Responsible Dog Ownership Days</a></li>
+										<li><a href="http://www.akc.org/events/responsible-dog-ownership-days/">Responsible Dog Ownership Days</a></li>
+									
+										<li><a href="http://www.akc.org/meet-the-breeds/">Meet The Breeds NYC </a></li>
+									
+										<li><a href="http://www.akc.org/events/aenc/">AKC Eukanuba Championship</a></li>
 									
 								
 							</ul>
@@ -2313,9 +1852,9 @@
 								
 									<li><a href="//apps.akc.org/apps/eventplans/index.cfm">Online Event Management</a></li>
 								
-									<li><a href="https://www.akc.org/rules/">Rules and Regulations</a></li>
+									<li><a href="http://www.akc.org/rules/">Rules and Regulations</a></li>
 								
-									<li><a href="https://www.akc.org/downloadable-forms/">Downloadable Forms</a></li>
+									<li><a href="http://www.akc.org/downloadable-forms/">Downloadable Forms</a></li>
 								
 									<li><a href="//apps.akc.org/apps/store/index.cfm?view=product&amp;cde_category=DOG&amp;cde_product=CMPREC&amp;external=yes/">Points and Awards</a></li>
 								
@@ -2328,30 +1867,30 @@
 						<ul>
 								<li class="colhead">
 									
-										<a href="https://www.akc.org/news/">News</a>
+										<a href="http://www.akc.org/news/">News</a>
 									
 								</li>
 								
-									<li><a href="https://www.akc.org/news/">AKC News</a></li>
+									<li><a href="http://www.akc.org/news/">AKC News</a></li>
 								
-									<li><a href="https://www.akc.org/akc-dog-lovers/">AKC Dog Lovers Blog</a></li>
+									<li><a href="http://www.akc.org/akc-dog-lovers/">AKC Dog Lovers Blog</a></li>
 								
 							</ul><ul>
 								<li class="colhead">
 									
-										<a href="https://www.akc.org/learn/dog-health/">Health</a>
+										<a href="http://www.akc.org/learn/dog-health/">Health</a>
 									
 								</li>
 								
-									<li><a href="https://www.akc.org/learn/dog-health/care/">Care</a></li>
+									<li><a href="http://www.akc.org/learn/dog-health/care/">Care</a></li>
 								
-									<li><a href="https://www.akc.org/learn/dog-health/nutrition/">Nutrition</a></li>
+									<li><a href="http://www.akc.org/learn/dog-health/nutrition/">Nutrition</a></li>
 								
-									<li><a href="https://www.akc.org/learn/dog-health/fitness/">Fitness</a></li>
+									<li><a href="http://www.akc.org/learn/dog-health/fitness/">Fitness</a></li>
 								
-									<li><a href="https://www.akc.org/learn/dog-health/preventative-health/">Preventative Health</a></li>
+									<li><a href="http://www.akc.org/learn/dog-health/preventative-health/">Preventative Health</a></li>
 								
-									<li><a href="https://www.akc.org/learn/dog-health/breeder-education/">Breeder Education</a></li>
+									<li><a href="http://www.akc.org/learn/dog-health/breeder-education/">Breeding</a></li>
 								
 							</ul>
 					</li>
@@ -2359,42 +1898,18 @@
 						<ul>
 								<li class="colhead">
 									
-										<a href="https://www.akc.org/learn/akc-training/">Training</a>
+										<a href="http://www.akc.org/learn/akc-training/">Training</a>
 									
 								</li>
 								
 									
-										<li><a href="https://www.akc.org/learn/akc-training/fun-with-your-dog/">Fun With Your Dog</a></li>
+										<li><a href="http://www.akc.org/learn/akc-training/fun-with-your-dog/">Fun With Your Dog</a></li>
 									
-										<li><a href="https://www.akc.org/learn/akc-training/obedience/">Obedience</a></li>
+										<li><a href="http://www.akc.org/learn/akc-training/puppy-training/">Puppy Training</a></li>
 									
-										<li><a href="https://www.akc.org/learn/akc-training/puppy-training/">Puppy Training</a></li>
+										<li><a href="http://www.akc.org/learn/akc-training/behavior/">Behavior</a></li>
 									
-										<li><a href="https://www.akc.org/learn/akc-training/behavior/">Behavior</a></li>
-									
-										<li><a href="https://www.akc.org/learn/akc-training/dr-mary-burch/">Dr. Mary Burch</a></li>
-									
-								
-							</ul>
-					</li>
-					<li class="column">
-						<ul>
-								<li class="colhead">
-									
-										<a href="https://www.akc.org/learn/family-dog/">Family Dog</a>
-									
-								</li>
-								
-									
-										<li><a href="https://www.akc.org/learn/family-dog/new-puppy/">New Puppy</a></li>
-									
-										<li><a href="https://www.akc.org/learn/family-dog/life-with-dogs/">Life With Dogs</a></li>
-									
-										<li><a href="https://www.akc.org/learn/family-dog/the-active-dog/">The Active Dog</a></li>
-									
-										<li><a href="https://www.akc.org/learn/family-dog/healthy-happy/">Healthy &amp; Happy</a></li>
-									
-										<li><a href="https://www.akc.org/learn/family-dog/why-does-my-dog/">Why Does My Dog?</a></li>
+										<li><a href="http://www.akc.org/learn/akc-training/dr-mary-burch/">Dr. Mary Burch</a></li>
 									
 								
 							</ul>
@@ -2403,19 +1918,41 @@
 						<ul>
 								<li class="colhead">
 									
-										<a href="https://www.akc.org/learn/akc-gazette/">AKC Gazette</a>
+										<a href="http://www.akc.org/learn/family-dog/">Family Dog</a>
 									
 								</li>
 								
-									<li><a href="https://www.akc.org/learn/akc-gazette/times-past/">Times Past</a></li>
+									
+										<li><a href="http://www.akc.org/learn/family-dog/new-puppy/">New Puppy</a></li>
+									
+										<li><a href="http://www.akc.org/learn/family-dog/life-with-dogs/">Life With Dogs</a></li>
+									
+										<li><a href="http://www.akc.org/learn/family-dog/the-active-dog/">The Active Dog</a></li>
+									
+										<li><a href="http://www.akc.org/learn/family-dog/healthy-happy/">Healthy &amp; Happy</a></li>
+									
+										<li><a href="http://www.akc.org/learn/family-dog/why-does-my-dog/">Why Does My Dog?</a></li>
+									
 								
-									<li><a href="https://www.akc.org/learn/akc-gazette/ring-field/">Ring &amp; Field</a></li>
+							</ul>
+					</li>
+					<li class="column">
+						<ul>
+								<li class="colhead">
+									
+										<a href="http://www.akc.org/learn/akc-gazette/">AKC Gazette</a>
+									
+								</li>
 								
-									<li><a href="https://www.akc.org/learn/akc-gazette/breed-columns/">Breed Columns</a></li>
+									<li><a href="http://www.akc.org/learn/akc-gazette/times-past/">Times Past</a></li>
 								
-									<li><a href="https://www.akc.org/learn/akc-gazette/breeders-forum/">Breeders' Forum</a></li>
+									<li><a href="http://www.akc.org/learn/akc-gazette/ring-field/">Ring &amp; Field</a></li>
 								
-									<li><a href="https://www.akc.org/learn/akc-gazette/dog-photo-archive/">Dog Photo Archive</a></li>
+									<li><a href="http://www.akc.org/learn/akc-gazette/breed-columns/">Breed Columns</a></li>
+								
+									<li><a href="http://www.akc.org/learn/akc-gazette/breeders-forum/">Breeders' Forum</a></li>
+								
+									<li><a href="http://www.akc.org/learn/akc-gazette/dog-photo-archive/">Dog Photo Archive</a></li>
 								
 							</ul>
 					</li>
@@ -2460,7 +1997,7 @@
 									<li><a href="//apps.akc.org/apps/store/index.cfm">AKC Store</a></li><li><a href="//apps.akc.org/apps/online_accounts/address_management/index.cfm?get_template=get_default&amp;v_role=G">Contact Management</a></li><li><a href="//apps.akc.org/apps/online_accounts/account_management/index.cfm">Account Management</a></li><li><a href="//apps.akc.org/apps/online_accounts/account_history/index.cfm">Account History</a></li><li><a href="//apps.akc.org/apps/online_accounts/address_book/index.cfm">Address Book</a></li><li>
 												<form method="post" class="logout" action="/?ACT=115">
 													<button type="submit" data-sign-out="">Sign Out</button>
-													<input type="hidden" name="return_to" value="https%3A%2F%2Fwww.akc.org%2Fprivacy">
+													<input type="hidden" name="return_to" value="http%3A%2F%2Fwww.akc.org%2Fprivacy">
 												</form>
 											</li>
 								</ul>
@@ -2511,34 +2048,35 @@
 			</nav>
 	</div>
 </header>
+<!--// END 2689776370 //-->
+
+
+
+<!--// 7766349118 //-->
 
 
 
 
 
 
+<main class="main-page fixed-footer akc-events akc-breeds" data-ad-slots="x01,x05,x11" data-ad-site-page="/privacy" data-ad-query="privacy,privacy" style="margin-bottom: 449px;">
 
-
-
-<main class="main-page fixed-footer akc-events" data-ad-slots="x01,x05,x11" data-ad-site-page="/privacy" data-ad-query="privacy,privacy">
-
-
-
- 
 <section class="mast-cont">
-    <section class="photo-masthead" style="background: url('//cdn.akc.org/Random_Images_For_Hero/20141103_AKC_2453.jpg') no-repeat center center;background-size:cover;">
-        
-    </section>
+    
+    <section class="photo-masthead" style="background: url('//s3-us-west-2.amazonaws.com/akccontentimages/UnHero_grey.png') no-repeat center center;background-size:cover;"></section>
+    
 </section>
 
 
-<section class="breadcrumbs">
+<section class="breadcrumbs blog-crumbs">
     <article>
-        <ul>
+        <!--// 3391345766 //-->
+<ul vocab="http://schema.org/" typeof="BreadcrumbList">
 	
-	    <li class="last">Website Privacy Statement</li>
+	    <li property="itemListElement" typeof="ListItem" class="last">Website Privacy Statement<meta property="position" content="1"></li>
 	
 </ul>
+<!--// END 3391345766 //-->
 
     </article>
 </section>
@@ -2617,16 +2155,16 @@
 <p>You can always choose whether or not to provide information on the Site. However, if you choose not to disclose certain information, you will not be able to create an account on the Site, which may limit your access to certain portions of the Site or your ability to conduct certain transactions on the Site.</p>
 
 <h3>B. Communications From Us</h3>
-<p>If at any time you decide that you no longer wish to receive notices from us regarding the Site, you may indicate this preference by clicking on the unsubscribe links appearing in one of our emails, by <a href="https://www.akc.org/account/">updating your AKC account</a>, or you may <a href="https://www.akc.org/support/unsubscribe.cfm">click here</a>.</p>
+<p>If at any time you decide that you no longer wish to receive notices from us regarding the Site, you may indicate this preference by clicking on the unsubscribe links appearing in one of our emails, by <a href="http://www.akc.org/account/">updating your AKC account</a>, or you may <a href="http://www.akc.org/support/unsubscribe.cfm">click here</a>.</p>
 
 <h3>C. Updating Information</h3>
-<p>We encourage registered users of the Site to keep their personal information current. You may access, edit or delete personal information you have provided about you by <a href="https://www.akc.org/account/">updating your My AKC account</a> or by updating your WOOFipedia account. For magazine subscribers, you may edit your postal mailing address at the <a href="https://ssl.palmcoastd.com/10803/apps/-173534">Change My Address page</a>.</p>
+<p>We encourage registered users of the Site to keep their personal information current. You may access, edit or delete personal information you have provided about you by <a href="http://www.akc.org/account/">updating your My AKC account</a> or by updating your WOOFipedia account. For magazine subscribers, you may edit your postal mailing address at the <a href="https://ssl.palmcoastd.com/10803/apps/-173534">Change My Address page</a>.</p>
 
 <p>If you register a dog or litter using the Site and wish that your name and address not be shared with third parties, you must contact AKC customer service at <a href="mailto:info@akc.org">info@akc.org</a> or 919-233-9767 to request that your name and address not be shared with third parties<strong>, </strong>provided, however, that if you co-own a dog or a litter, your name and address may be shared with other co-owners of the same dog or litter.</p>
 
 <p>You may indicate your preference that AKC not release to third parties personal information collected when you subscribe to our magazines by checking the appropriate box on the subscription invoice form or subscription renewal form that we mail to you.</p>
 
-<p>If you prefer that AKC not share certain other personal information that you voluntarily submit to us, you may indicate your preference that we not share such personal information you have provided through the Site to third parties by <a href="https://www.akc.org/account/">updating your AKC account</a>.</p>
+<p>If you prefer that AKC not share certain other personal information that you voluntarily submit to us, you may indicate your preference that we not share such personal information you have provided through the Site to third parties by <a href="http://www.akc.org/account/">updating your AKC account</a>.</p>
 
 <h2>VII. Information Storage and Security</h2>
 <p>We employ reasonable security precautions to protect personal information about you. The Site is operated from a secure environment with integrated security measures to help protect against the loss, misuse, and alteration of personal information provided on or through the Site. We use secure socket layer (SSL) software to encrypt certain types of information, such as payment card information, when transmitting information between your browser and the Site. No method of transmitting or storing data is completely secure. As a result, although we strive to protect personal information about you, we cannot guarantee the security of any information you transmit to us through or in connection with the Site. If you have reason to believe that personal information is no longer secure, please notify us immediately by contacting us in accordance with the last section below.</p>
@@ -2648,6 +2186,8 @@
 <p>If you have any questions or comments regarding this Privacy Policy, please send us an email to <a href="mailto:info@akc.org">info@akc.org</a>.</p>
 
 <p>Last Updated: November 14, 2013</p>
+
+        
 
         
     </div>
@@ -2680,15 +2220,18 @@
 
 </main>
 
+<!--// END 7766349118 //-->
 
-	<footer class="footer-container fixed-footer">
+
+<!--// 5130192501 //-->
+<footer class=" footer-container fixed-footer">
 	
 	<div class="footer-inner">
 		<div class="footer-column  ">
 				<ul>
 					<li class="colhead has-link " data-nav-accordion="">
 							
-								<a href="https://www.akc.org/about/">About AKC</a>
+								<a href="http://www.akc.org/about/">About AKC</a>
 							
 							<span class="icon-arrow icon-up-arrow-bo"></span>
 						</li>
@@ -2696,25 +2239,28 @@
 							<ul>
 							<li>
 									
-									<a href="https://www.akc.org/about/mission/">Mission Statement</a>
+									<a href="http://www.akc.org/about/mission/">Mission Statement</a>
 								</li><li>
 									
-									<a href="https://www.akc.org/about/awards-and-honors/">Awards &amp; Honors</a>
+									<a href="http://www.akc.org/about/awards-and-honors/">Awards &amp; Honors</a>
 								</li><li>
 									
-									<a href="https://www.akc.org/about/officers/">Officers &amp; Board of Directors</a>
+									<a href="http://www.akc.org/about/officers/">Officers &amp; Board of Directors</a>
 								</li><li>
 									
-									<a href="https://www.akc.org/about/minutes-reports/">Minutes &amp; Reports</a>
+									<a href="http://www.akc.org/about/minutes-reports/">Minutes &amp; Reports</a>
 								</li><li>
 									
-									<a href="https://www.akc.org/about/job-opportunities/">Job Opportunities</a>
+									<a href="http://a40015.eos-intl.net/A40015/OPAC/Index.aspx">AKC Online Library</a>
+								</li><li>
+									
+									<a href="http://www.akc.org/about/job-opportunities/">Job Opportunities</a>
 								</li><li>
 									
 									<a href="//apps.akc.org/general/visa/?utm_source=Footer&amp;utm_campaign=Visa">AKC Visa® Card</a>
 								</li><li>
 									
-									<a href="https://www.akc.org/rules/">Rules and Regulations</a>
+									<a href="http://www.akc.org/rules/">Rules and Regulations</a>
 								</li>
 							</ul>
 						</li>
@@ -2723,7 +2269,7 @@
 				<ul>
 					<li class="colhead has-link " data-nav-accordion="">
 							
-								<a href="https://www.akc.org/support/">Support</a>
+								<a href="http://www.akc.org/support/">Support</a>
 							
 							<span class="icon-arrow icon-up-arrow-bo"></span>
 						</li>
@@ -2731,25 +2277,25 @@
 							<ul>
 							<li>
 									
-									<a href="https://www.akc.org/additional-resources/">Additional Resources</a>
+									<a href="http://www.akc.org/1/additional-resources/">Additional Resources</a>
 								</li><li>
 									
-									<a href="https://www.akc.org/contact/">Contact Us</a>
+									<a href="http://www.akc.org/contact/">Contact Us</a>
 								</li><li>
 									
-									<a href="https://www.akc.org/about/site/">Website Info &amp; FAQs</a>
+									<a href="http://www.akc.org/about/site/">Website Info &amp; FAQs</a>
 								</li><li>
 									
-									<a href="https://www.akc.org/about/site/linking-policy/">Linking Policy</a>
+									<a href="http://www.akc.org/about/site/linking-policy/">Linking Policy</a>
 								</li><li>
 									
-									<a href="https://www.akc.org/about/site/reproduction-policy/">Material Reproduction Policy</a>
+									<a href="http://www.akc.org/about/site/reproduction-policy/">Material Reproduction Policy</a>
 								</li><li>
 									
 									<a href="//apps.akc.org/apps/contact/answer_center/index.cfm">The Answer Center</a>
 								</li><li>
 									
-									<a href="https://www.akc.org/downloadable-forms/">Downloadable Forms</a>
+									<a href="http://www.akc.org/downloadable-forms/">Downloadable Forms</a>
 								</li>
 							</ul>
 						</li>
@@ -2758,7 +2304,7 @@
 				<ul>
 					<li class="colhead has-link " data-nav-accordion="">
 							
-								<a href="https://www.akc.org/government-relations/">Government Relations</a>
+								<a href="http://www.akc.org/government-relations/">Government Relations</a>
 							
 							<span class="icon-arrow icon-up-arrow-bo"></span>
 						</li>
@@ -2766,16 +2312,16 @@
 							<ul>
 							<li>
 									
-									<a href="https://www.akc.org/government-relations/">AKC GR Home</a>
+									<a href="http://www.akc.org/government-relations/">AKC GR Home</a>
 								</li><li>
 									
-									<a href="https://www.akc.org/government-relations/legislative-alerts/">Legislative Alerts</a>
+									<a href="http://www.akc.org/government-relations/legislative-alerts/">Legislative Alerts</a>
 								</li><li>
 									
 									<a href="http://cqrcengage.com/akc/lac" target="_blank">Legislative Action Center</a>
 								</li><li>
 									
-									<a href="https://www.akc.org/government-relations/position-statements/">Legislation Position Statements</a>
+									<a href="http://www.akc.org/government-relations/position-statements/">Legislation Position Statements</a>
 								</li>
 							</ul>
 						</li>
@@ -2784,7 +2330,7 @@
 				<ul>
 					<li class="colhead has-link " data-nav-accordion="">
 							
-								<a href="https://www.akc.org/press-center/">Press</a>
+								<a href="http://www.akc.org/press-center/">Press</a>
 							
 							<span class="icon-arrow icon-up-arrow-bo"></span>
 						</li>
@@ -2792,28 +2338,28 @@
 							<ul>
 							<li>
 									
-									<a href="https://www.akc.org/press-center/press-releases/">Press Releases</a>
+									<a href="http://www.akc.org/press-center/press-releases/">Press Releases</a>
 								</li><li>
 									
-									<a href="https://www.akc.org/news/the-most-popular-dog-breeds-in-america/">Most Popular Dog Breeds in America</a>
+									<a href="http://www.akc.org/news/the-most-popular-dog-breeds-in-america/">Most Popular Dog Breeds in America</a>
 								</li><li>
 									
-									<a href="https://www.akc.org/press-center/communications-department/">Communications Staff</a>
+									<a href="http://www.akc.org/press-center/communications-department/">Communications Staff</a>
 								</li><li>
 									
-									<a href="https://www.akc.org/press-center/akc-syndicate/">AKC Syndicate</a>
+									<a href="http://www.akc.org/press-center/akc-syndicate/">AKC Syndicate</a>
 								</li><li>
 									
-									<a href="https://www.akc.org/learn/dog-health/">Health</a>
+									<a href="http://www.akc.org/learn/dog-health/">Health</a>
 								</li><li>
 									
-									<a href="https://www.akc.org/learn/akc-training/">Training</a>
+									<a href="http://www.akc.org/learn/akc-training/">Training</a>
 								</li><li>
 									
-									<a href="https://www.akc.org/learn/family-dog/">Family Dog</a>
+									<a href="http://www.akc.org/pubs/">Family Dog</a>
 								</li><li>
 									
-									<a href="https://www.akc.org/learn/akc-gazette/">AKC Gazette</a>
+									<a href="http://www.akc.org/pubs/gazette/">AKC Gazette</a>
 								</li>
 							</ul>
 						</li>
@@ -2866,14 +2412,14 @@
 											<img src="http://cdn.akc.org/icon-mag.png?pid=9251">
 										</div>
 									
-									<a href="https://www.akc.org/pubs/">Family Dog Magazine</a>
+									<a href="http://www.akc.org/pubs/">Family Dog Magazine</a>
 								</li><li>
 									
 										<div class="icon">
 											<img src="http://cdn.akc.org/icon-newsletter.png?pid=9252">
 										</div>
 									
-									<a href="http://pages.akc.org/ManagePreferences.html">Email Newsletter</a>
+									<a href="http://www.akc.org/subscription/">Email Newsletter</a>
 								</li><li>
 									
 										<div class="icon">
@@ -2913,10 +2459,12 @@
 		</div>
 	</div>
 </footer>
+<!--// END 5130192501 //-->
 
 
 
 
+<!--// 2918617541 //-->
 <script>
 	// check for ye olde IE and include jQuery 1/2 accordingly
 	var oldieCheck = Boolean(document.getElementsByTagName('html')[0].className.match(/oldie/g));
@@ -3140,8 +2688,11 @@
 	AKC.memberId = /*$.cookie('member_id') ||*/ parseInt('0', 10);
 	AKC.memberGroupTitle = 'Guests';
 </script>
+<!--// END 2918617541 //-->
 
 
 
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"2e4fe043d3","applicationID":"6904743","transactionName":"NARVNhZTCBZZV0RcDA1OdBcXRgkIF0RCXBUCAk4=","queueTime":0,"applicationTime":3214,"atts":"GENWQF5JGxg=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-632.min.js"}</script>
-</body></html>
+
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"2e4fe043d3","applicationID":"6904743","transactionName":"NARVNhZTCBZZV0RcDA1OdBcXRgkIF0RCXBUCAk4=","queueTime":0,"applicationTime":3227,"atts":"GENWQF5JGxg=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-768.min.js"}</script>
+
+<!--// END 4885147557 //--></body></html>
