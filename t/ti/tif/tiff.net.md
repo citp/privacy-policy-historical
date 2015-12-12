@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tiff.net privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627173714id_/http%3A//tiff.net/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tiff.net privacy policy that was archived on 2015-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151212141729id_/http%3A//tiff.net/privacypolicy) for the most accurate reproduction.*
 
 # TIFF.net | Privacy Policy
 
