@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the patchworkposse.com privacy policy that was archived on 2015-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150613170531id_/http%3A//www.patchworkposse.com/privacy-policies-disclosures) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the patchworkposse.com privacy policy that was archived on 2015-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151212193517id_/http%3A//www.patchworkposse.com/privacy-policies-disclosures) for the most accurate reproduction.*
 
 # Privacy Policies and Disclosures -
 
