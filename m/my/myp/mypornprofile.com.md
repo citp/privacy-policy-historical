@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mypornprofile.com privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612014634id_/http%3A//www.mypornprofile.com/misc/page/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mypornprofile.com privacy policy that was archived on 2015-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151212204555id_/http%3A//www.mypornprofile.com/misc/page/Privacy) for the most accurate reproduction.*
 
 # Privacy Policy | MyPornProfile
 
@@ -12,7 +12,7 @@ We know that you care how your information is used, and we appreciate your trust
 
 2\. How Do We Use Your Information?
 
-* Law Enaskment. If we receive a lawful court order to release account or other personal information then we will comply with the law. We will also release information when necessary to protect the life, safety or property of others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction.
+* Law Enforcement. If we receive a lawful court order to release account or other personal information then we will comply with the law. We will also release information when necessary to protect the life, safety or property of others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction.
 
 3\. How Do We Protect the Security of Your Information?
 
