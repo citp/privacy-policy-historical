@@ -1,20 +1,22 @@
-> *The following text is extracted and transformed from the sofrep.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629040031id_/http%3A//sofrep.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sofrep.com privacy policy that was archived on 2015-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151212152512id_/http%3A//sofrep.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | SOFREP
 
-**Effective Date: October 13, 2014**
+**Effective Date: July 22, 2015**
 
-Force12 Media (“Force12″) values your privacy and Force12 desires to ensure your experience with Force12 and its subsidiaries and related companies (collectively “Force12″, “we,” “our” or “us”) and all our websites and all our related subdomains (the “Sites”) and all our products, mobile applications, software, blogs, forums, channels and sharing and quizzing services (collectively with the Sites, the “Services”) are as satisfying and safe as possible. In that regard, we have established for the Sites and/or Services the following privacy policy to explain and describe what personal information Force12 collects on our Sites and/or Services, how Force12 uses it and your options regarding information Force12 may collect about you. By accepting this Privacy Policy, you expressly consent to the information handling practices described in this Policy. This Privacy Policy is a part of and incorporated into Force12’s Terms of Use and End user License Agreements associated with its Sites and/or Services. In addition, by accepting this Privacy Policy you expressly represent: (a) that you are over the age of 18 and/or not considered a minor in the jurisdiction for which you reside; or (b) that you are a parent or guardian of a minor child and you who have expressly consented to handling of the minor’s personal information as described in this Policy; or (c) that you are a school, district and/or teacher which has contracted with Force12 to collect Personal Information of your students. Your continued use of our Sites and/or Services or any other content, products or other services covered by this Policy constitutes your acceptance and agreement to this Policy and any updates.
+Force12 Media (“Force12”) values your privacy and Force12 desires to ensure your experience with Force12 and its subsidiaries and related companies (collectively “Force12”, “we,” “our” or “us”) and all our websites and all our related subdomains (the “Sites”) and all our products, mobile applications, software, blogs, forums, channels and sharing and quizzing services (collectively with the Sites, the “Services”) are as satisfying and safe as possible. In that regard, we have established for the Sites and/or Services the following privacy policy to explain and describe what personal information Force12 collects on our Sites and/or Services, how Force12 uses it and your options regarding information Force12 may collect about you. By accepting this Privacy Policy, you expressly consent to the information handling practices described in this Policy. This Privacy Policy is a part of and incorporated into Force12’s Terms of Use and End user License Agreements associated with its Sites and/or Services. In addition, by accepting this Privacy Policy you expressly represent: (a) that you are over the age of 18 and/or not considered a minor in the jurisdiction for which you reside; or (b) that you are a parent or guardian of a minor child and you who have expressly consented to handling of the minor’s personal information as described in this Policy; or (c) that you are a school, district and/or teacher which has contracted with Force12 to collect Personal Information of your students. Your continued use of our Sites and/or Services or any other content, products or other services covered by this Policy constitutes your acceptance and agreement to this Policy and any updates.
 
 ### Contacting Us
 
-If you have questions about this policy, please feel free to contact us at: 
+If you have questions about this policy, please feel free to contact us at:
 
-Force12 Media   
-930 Tahoe Blvd.   
-Suite 802-543   
-Incline Village, NV 89451 USA  
-Toll-free: (877) 256-7813 (U.S. Only)   
+Force12 Media  
+Suite 860,  
+101 San Patricio Avenue  
+Guaynabo 00968  
+Puerto Rico  
+USA  
+Toll-free: (877) 256-7813 (U.S. Only)  
 [support@force12media.com](mailto:support@force12media.com)
 
 * * *
@@ -33,49 +35,49 @@ Please be aware that we are prohibited from conditioning a child’s participati
 
 We may receive passively-collected information through a variety of methods including but not limited to:
 
-#### Cookies 
+#### Cookies
 
 We may use a variety of methods, including “cookies” to collect information.
 
-#### What is a cookie? 
+#### What is a cookie?
 
 Cookies are text files containing small amounts of information which are downloaded to your device when you visit a website. Cookies are then sent back to the originating website on each subsequent visit, or to another website that recognizes that cookie. Cookies are useful because they allow a website to recognize a user’s device. You can find more information about cookies at: [www.allaboutcookies.org](http://www.allaboutcookies.org/).
 
-Cookies do lots of different jobs, like letting you navigate between pages efficiently, remembering your preferences, and generally improving your user experience. They can also help to ensure that advertisements you see online are more relevant to you and your interests. 
+Cookies do lots of different jobs, like letting you navigate between pages efficiently, remembering your preferences, and generally improving your user experience. They can also help to ensure that advertisements you see online are more relevant to you and your interests.
 
-The cookies used on our Sites and/or Services have been categorized based on the categories found in the ICC UK Cookie guide. A list of all the cookies used on our Sites and/or Services by category is set out below. 
+The cookies used on our Sites and/or Services have been categorized based on the categories found in the ICC UK Cookie guide. A list of all the cookies used on our Sites and/or Services by category is set out below.
 
-#### Performance Cookies 
+#### Performance Cookies
 
-Force12 collects cookies on our Sites and/or Services to capture information about page visits (e.g. “performance cookies.”) This information is anonymous and Force12 uses this information only internally – to deliver the most effective content to our visitors. Information from the cookie is used to gauge page popularity, analyze traffic patterns on our Sites and/or Services and guide development of other improvements to our Sites and/or Services. 
+Force12 collects cookies on our Sites and/or Services to capture information about page visits (e.g. “performance cookies.”) This information is anonymous and Force12 uses this information only internally – to deliver the most effective content to our visitors. Information from the cookie is used to gauge page popularity, analyze traffic patterns on our Sites and/or Services and guide development of other improvements to our Sites and/or Services.
 
 #### Targeting, Performance, and Functionality Cookies
 
-In our email programs, Force12 employs some tracking methods (e.g. “targeting, performance, and functionality cookies”). We track “opens” via a tracking pixel in the email- meaning we track who opens our e-mail messages and when you open our e-mail messages; and we track “clicks” via encoded URLs-meaning we track whether you click on the links contained in our e-mail messages. This information is used internally only to help us deliver relevant messaging, and is not shared with any third parties. 
+In our email programs, Force12 employs some tracking methods (e.g. “targeting, performance, and functionality cookies”). We track “opens” via a tracking pixel in the email- meaning we track who opens our e-mail messages and when you open our e-mail messages; and we track “clicks” via encoded URLs-meaning we track whether you click on the links contained in our e-mail messages. This information is used internally only to help us deliver relevant messaging, and is not shared with any third parties.
 
 #### Functionality and Necessary Cookies
 
-Force12 does not require that you accept cookies and/or you may withdraw your consent to our use of cookies at any time by adjusting your browser’s privacy settings, however, some functionality on our Sites (e.g. “functionality cookies”), our product or service check-out process, and Services may be disabled if you decline to accept cookies ( e.g. “necessary cookies”). 
+Force12 does not require that you accept cookies and/or you may withdraw your consent to our use of cookies at any time by adjusting your browser’s privacy settings, however, some functionality on our Sites (e.g. “functionality cookies”), our product or service check-out process, and Services may be disabled if you decline to accept cookies ( e.g. “necessary cookies”).
 
-#### Opting Out of Cookies 
+#### Opting Out of Cookies
 
-You can set your browser to notify you when you receive a cookie, giving you the chance to decide whether or not to accept it. You may also change your cookie settings through preference options in our Sites and/or Services, where applicable. We will indicate that upon selecting your preferences, that we will use a cookie to remember your preferences. 
+You can set your browser to notify you when you receive a cookie, giving you the chance to decide whether or not to accept it. You may also change your cookie settings through preference options in our Sites and/or Services, where applicable. We will indicate that upon selecting your preferences, that we will use a cookie to remember your preferences.
 
 Force12 never gives away information about our users. If you choose to provide Personal Information about yourself, Force12 will use this information only to communicate directly with you. Force12 will not sell, rent or otherwise disclose that information to third parties unless such disclosure is necessary for the purposes set forth in this Policy, by law or a policy or notice contained or associated with a specific Site(s) and/or Service(s).
 
-#### Location-Based Services 
+#### Location-Based Services
 
-We may collect, use, and share (with Force12 partners, service providers and licensees) precise location data, including the real-time location of your mobile or fixed location device. 
+We may collect, use, and share (with Force12 partners, service providers and licensees) precise location data, including the real-time location of your mobile or fixed location device.
 
-#### Analytics Tools 
+#### Analytics Tools
 
 We use analytics tools and other third party technologies, such as Google Analytics and DoubleClick Cookies, to collect non-personal information in the form of various usage and user metrics when you use our online Sites and/or Services. These tools and technologies collect and analyze certain types of information, including cookies, IP addresses, device and software identifiers, referring and exit URLs, onsite behavior and usage information, feature use metrics and statistics, usage and purchase history, MAC Address, mobile unique device ID, and other similar information.
 
 The third party analytics companies who collect information on our Sites and/or Services and other online products and/or services may combine the information collected with other information they have independently collected from other websites and/or other online or mobile products and services relating to your activities across their network of websites as well as online and/or mobile products and services. Many of these companies collect and use information under their own privacy policies.
 
-In addition to our use of technologies as described herein, we may permit certain third party companies to help us tailor advertising that we think may be of interest to you based on your use of Force12 Sites and/or Services and to otherwise collect and use data about your use of Force12 Sites and/or Services. For more information about this practice, please see the “Third Party Advertising Technologies” section below. 
+In addition to our use of technologies as described herein, we may permit certain third party companies to help us tailor advertising that we think may be of interest to you based on your use of Force12 Sites and/or Services and to otherwise collect and use data about your use of Force12 Sites and/or Services. For more information about this practice, please see the “Third Party Advertising Technologies” section below.
 
-You may opt out of the DoubleClick cookie by visiting the [Google advertising opt-out page](http://www.google.com/policies/technologies/ads) or you may opt out of Google Analytics by visiting the [Google Analytics opt-out page](http://tools.google.com/dlpage/gaoptout). 
+You may opt out of the DoubleClick cookie by visiting the [Google advertising opt-out page](http://www.google.com/policies/technologies/ads) or you may opt out of Google Analytics by visiting the [Google Analytics opt-out page](http://tools.google.com/dlpage/gaoptout).
 
 Google has additional information available about their [Remarketing Privacy Guidelines](http://adwords.google.com/support/aw/bin/answer.py?hl=en&answer=100746), and [Restrictions](http://adwords.google.com/support/aw/bin/answer.py?hl=en&answer=178363).
 
@@ -83,7 +85,7 @@ Google has additional information available about their [Remarketing Privacy Gui
 
 Generally, we use Personal Information to establish and enhance our relationship with our users through four main categories: (1) Communication; (2) Optimization; (3) Advertising; and (4) Sharing Features. Below, we provide some specific examples of how we use the Personal Information and other information we collect.
 
-### Communication and Responding to Requests 
+### Communication and Responding to Requests
 
 We use your information, including Personal Information to provide you with customer support, process transactions, respond to users’ requests, send newsletters and updates, send special offers and advertisements, seek your opinions and feedback, and connect users to Force12 Sites and/or Services, and to products and services of our partners and licensees.
 
@@ -91,11 +93,11 @@ We use your information, including Personal Information to provide you with cust
 
 We use user information, including Personal Information, behavioral metrics, and other non-personally identifiable information to operate, provide, improve, and maintain our Sites and Services, to develop new products and services, to prevent abuse and fraud, to personalize and display advertisements and other content for you, and for other administrative and internal business purposes.
 
-### Advertising 
+### Advertising
 
 We use user information, including Personal Information, behavioral metrics, geo-location data, demographic data and marketing preferences to personalize and display advertisements and other content for you.
 
-### Sharing Features 
+### Sharing Features
 
 We use your information, including Personal Information and any other information you submit directly or through passive means to provide you with various ways to connect and share content (e.g., web content, user generated videos, text, drawings, and screen and lecture captures, and quizzing features, media, tools, services and other products) with third parties. For example, we may provide you with the opportunity to email a link to certain content to another person. To use this feature, we may require you to provide certain Personal Information including your email address and the email address of each person to whom you send the link.
 
@@ -131,13 +133,13 @@ In addition to using cookies and related technologies as described above, we als
 
 ## 5\. Children Under 13
 
-We do not knowingly seek or collect Personal Information from users under the age of 13, except to the extent that Force12 may collect limited personal information from students (but not their email addresses), **but only where that student’s school, district, and/or teacher has contracted with Force12 to collect the personal information from students for the use and benefit of the learning environment.** Children under 13 years old are not allowed to create an account without a parent’s or guardian’s express consent. We recommend that minors over the age of 13 ask their parents for permission before sending any information about themselves to anyone over the Internet. 
+We do not knowingly seek or collect Personal Information from users under the age of 13, except to the extent that Force12 may collect limited personal information from students (but not their email addresses), **but only where that student’s school, district, and/or teacher has contracted with Force12 to collect the personal information from students for the use and benefit of the learning environment.** Children under 13 years old are not allowed to create an account without a parent’s or guardian’s express consent. We recommend that minors over the age of 13 ask their parents for permission before sending any information about themselves to anyone over the Internet.
 
-We require schools, districts, and/or teachers to obtain parental or guardian consent from a students’ parent or guardian before collecting any such student Personal Information. If you are a student, please do not send any Personal Information about yourself to us, other than what we request from you when you sign up for any of our Sites and/or Services. In the event that we learn that we have collected personal information from a student without parental consent being obtained by his or her school, district, and/or teacher, or if we learn a student has provided us Personal Information beyond what we request when he or she signs up for any of our Sites and/or Services, we will delete that information as quickly as possible. If you believe that a student may have provided us Personal Information beyond what is requested when signing up for any of our Sites and/or Services, or that a student’s school, district, or teacher has not obtained parental consent, please contact us at [support@force12media.com](mailto:support@force12media.com). 
+We require schools, districts, and/or teachers to obtain parental or guardian consent from a students’ parent or guardian before collecting any such student Personal Information. If you are a student, please do not send any Personal Information about yourself to us, other than what we request from you when you sign up for any of our Sites and/or Services. In the event that we learn that we have collected personal information from a student without parental consent being obtained by his or her school, district, and/or teacher, or if we learn a student has provided us Personal Information beyond what we request when he or she signs up for any of our Sites and/or Services, we will delete that information as quickly as possible. If you believe that a student may have provided us Personal Information beyond what is requested when signing up for any of our Sites and/or Services, or that a student’s school, district, or teacher has not obtained parental consent, please contact us at [support@force12media.com](mailto:support@force12media.com).
 
-Notwithstanding anything to the contrary contained in this Policy, if you are a student as described above, and your parent or guardian signed up for our Sites and/or Service with a password or access ID provided by your teacher, you understand that your parent or guardian may be able to view all information within or associated with your account, including, without limitation, messages between you and your teacher and grades you received on your assignment. 
+Notwithstanding anything to the contrary contained in this Policy, if you are a student as described above, and your parent or guardian signed up for our Sites and/or Service with a password or access ID provided by your teacher, you understand that your parent or guardian may be able to view all information within or associated with your account, including, without limitation, messages between you and your teacher and grades you received on your assignment.
 
-Users under 13 years of age who are not students as described above, your continued use of the Site and/or Service will be considered by Force12 as confirmation that your parent or guardian has expressly consented to the handling of your personal information as described in this Policy as further indicated in the opening paragraph of this Policy. 
+Users under 13 years of age who are not students as described above, your continued use of the Site and/or Service will be considered by Force12 as confirmation that your parent or guardian has expressly consented to the handling of your personal information as described in this Policy as further indicated in the opening paragraph of this Policy.
 
 ## 6\. Your Choices
 
@@ -175,7 +177,7 @@ You may view, correct, or delete the Personal Information Force12 stores about y
 
 We may permit users with accounts on certain third party services, including but not limited to, social networking, search, sharing, and other services delivered by third-parties, to bypass the standard applicable registration process. If you connect through an authorized third party service, you will be able to use your third party login information to log in to your Force12 account or access Force12 content, Sites and/or Services. We are not responsible for the sharing, posting, commenting, or other content and information gathering practices of any third party services that may be triggered by using these third party login services. Please review their terms of service and privacy policies carefully before using third party login functionality to access any Force12 Sites and/or Services.
 
-By using any third party services to log in to your Force12 account or access Force12 Sites and/or Services, you permit us to access, store and use all information related to your third party account that may be accessible to us through the third party service, including through its application programming interface (API), pursuant to this Policy. 
+By using any third party services to log in to your Force12 account or access Force12 Sites and/or Services, you permit us to access, store and use all information related to your third party account that may be accessible to us through the third party service, including through its application programming interface (API), pursuant to this Policy.
 
 ## 11\. Third Party Services and Links
 
@@ -191,16 +193,16 @@ We may update this Policy from time to time. If we do, we will update the “eff
 
 We encourage you to review this Policy periodically to stay informed about our collection, use and disclosure of Personal Information. Your continued use of our Sites and/or Services or any other content, products or other services covered by this Policy constitutes your agreement to this Policy and any updates.
 
-## 14\. International Users & U.S.-EU Switzerland Safe Harbor 
+## 14\. International Users & U.S.-EU Switzerland Safe Harbor
 
-Force12 Sites and/or Services may be hosted in the United States. If you utilize our Sites and/or Services from the European Union or Switzerland, or any other region with laws governing data collection and use that may differ from U.S. law, please note that you are transferring your personal data outside of those jurisdictions to the United States. The United States does not have the same data protection laws as the European Union, Switzerland and other regions. By providing Personal Information under this Policy, you consent to the use of your Personal Information in accordance with this Policy and the transfer of your Personal Information to the United States. 
+Force12 Sites and/or Services may be hosted in the United States. If you utilize our Sites and/or Services from the European Union or Switzerland, or any other region with laws governing data collection and use that may differ from U.S. law, please note that you are transferring your personal data outside of those jurisdictions to the United States. The United States does not have the same data protection laws as the European Union, Switzerland and other regions. By providing Personal Information under this Policy, you consent to the use of your Personal Information in accordance with this Policy and the transfer of your Personal Information to the United States.
 
-The Personal Information practices set out in this Privacy Policy apply to all Force12 Sites and/or Services, and customers worldwide. You have a right of access and to correct such data and/or Personal Information. To exercise these rights, or for other data privacy questions, please contact/send an email to [support@force12media.com](mailto:support@force12media.com). 
+The Personal Information practices set out in this Privacy Policy apply to all Force12 Sites and/or Services, and customers worldwide. You have a right of access and to correct such data and/or Personal Information. To exercise these rights, or for other data privacy questions, please contact/send an email to [support@force12media.com](mailto:support@force12media.com).
 
-## 15\. Enforcement 
+## 15\. Enforcement
 
-Force12 regularly reviews its compliance with this Privacy Policy. Please feel free to direct any questions or concerns regarding this Policy or Force12’s treatment of Personal Information by contacting us through this Site at support@force12media.com or by writing to us at Force12 Media, 930 Tahoe Blvd. Suite 802-543, Incline Village, NV 89451, USA. When Force12 receives a formal written complaint at this address, it is Force12’s policy to contact the complaining party regarding his or her concerns. Force12 will cooperate with the appropriate regulatory authorities, including local data protection authorities, to resolve any complaints regarding the transfer of personal data that cannot be resolved by Force12 and an individual. 
+Force12 regularly reviews its compliance with this Privacy Policy. Please feel free to direct any questions or concerns regarding this Policy or Force12’s treatment of Personal Information by contacting us through this Site at support@force12media.com or by writing to us at Force12 Media, 930 Tahoe Blvd. Suite 802-543, Incline Village, NV 89451, USA. When Force12 receives a formal written complaint at this address, it is Force12’s policy to contact the complaining party regarding his or her concerns. Force12 will cooperate with the appropriate regulatory authorities, including local data protection authorities, to resolve any complaints regarding the transfer of personal data that cannot be resolved by Force12 and an individual.
 
-## 16\. No Error Free Performance 
+## 16\. No Error Free Performance
 
 Force12 does not guarantee error-free performance under this Privacy Policy. Force12 will use reasonable efforts to comply with this Privacy Policy and will take prompt corrective action when Force12 learns of any failure to comply with our Privacy Policy. Force12 shall not be liable for any incidental, consequential or punitive damages relating to this Privacy Policy. This Privacy Policy shall be governed by the laws of the State of Nevada and the United States, to the extent applicable.
