@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the autosmo.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627161256id_/http%3A//autosmo.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the autosmo.com privacy policy that was archived on 2015-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151212011427id_/http%3A//autosmo.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
