@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cryengine.com privacy policy that was archived on 2015-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150512130645id_/http%3A//www.crytek.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cryengine.com privacy policy that was archived on 2015-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151212233643id_/http%3A//www.crytek.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Crytek
 
