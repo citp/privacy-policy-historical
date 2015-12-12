@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the articlegeek.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609232527id_/http%3A//www.articlegeek.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articlegeek.com privacy policy that was archived on 2015-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151212081536id_/http%3A//www.articlegeek.com/privacy_policy.htm) for the most accurate reproduction.*
 
 # ArticleGeek Privacy Policy
 
