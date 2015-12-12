@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the transport.qld.gov.au privacy policy that was archived on 2015-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150613191501id_/http%3A//www.tmr.qld.gov.au/Help/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the transport.qld.gov.au privacy policy that was archived on 2015-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151212182824id_/http%3A//www.tmr.qld.gov.au/Help/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy (Department of Transport and Main Roads)
 
@@ -23,6 +23,20 @@ For information to be personal information 2 criteria must be satisfied.
 
 To download a copy of this Act, please click on [Information Privacy Act 2009 (PDF, 845 KB)](http://www.legislation.qld.gov.au/LEGISLTN/CURRENT/I/InfoPrivA09.pdf).
 
+### Online services
+
+#### Driver licences
+
+When you use an online service in relation to your driver licence the department collects the information you provide under the provisions of the _Transport Operations (Road Use Management) Act 1995_ , so that you may apply for a licensing product or complete a transaction. The department may use this information in its communications with you and may disclose the information to interstate and overseas licensing authorities, and the Queensland Police Service. If you renew, replace or upgrade your licence the department’s licence production contractor will have controlled access to your information, digitised signature and digital photo to make your licence. Your information will not be disclosed to any other third party without your consent unless required or authorised by law.
+
+#### Registration
+
+When you use an online service in relation to vehicle registration the department collects the information you provide to maintain the vehicle/vessel registration register as required under the _Transport Operations (Road Use Management) Act 1995_. The department or its agents/contractors may use this information in its communications with you and may disclose some of the information to vehicle insurers, statutory entities, insolvency entities, lawyers, person's involved in vehicle incidents/accidents, vehicle manufacturers, third parties who are involved in or intend to commence legal proceedings, tolling entities, law enforcement agencies and interstate registering authorities. Your information will not be disclosed to any other third party without your consent unless authorised or required by law.
+
+#### Accreditations
+
+When you use an online service to apply for an accreditation the department collects information you provide under the provisions of the _Transport Operations (Road Use Management) Act 1995_. The department may use this information in its communications with you and may disclose the information to interstate and federal authorities, authorised departmental officers, and other Qld State government agencies, including the Queensland Police Service. The department’s licence and accreditation production contractor will have controlled access to your information, digitised signature and digital photo to make your product. Your information will not be disclosed to any other third party without your consent unless required or authorised by law.
+
 ### When using online services
 
 When you visit this website, our server makes a record of your visit and logs the following information for statistical purposes only:
@@ -36,17 +50,17 @@ When you visit this website, our server makes a record of your visit and logs th
 
 
 
-No attempt will be made to identify users or their browsing activities except in the unlikely event of an investigation, where a law enforcement agency may request inspection of the activity logs, through appropriate legal processes.
+Unless you provide your personal information as part of the online service, no attempt will be made to identify users or their browsing activities except in the unlikely event of an investigation, where a law enforcement agency may request inspection of the activity logs, through appropriate legal processes.
 
-**Please note:** if you notify us of a change of address, this information may also be applied to any other authority that you had that has been issued by us. For example, an adult proof of age card or marine licence.
+**Please note:** if you notify us of a change of address and/or e-contact details, this information will change the addresses recorded for your Queensland driver licence, marine licence, industry authority, adult proof of age card and/or vehicles or vessels registered in Queensland.
 
-### Your emails
+### Emails and mobile phone/SMS device numbers
 
-If you choose to supply an email address and/or mobile phone/SMS device number, you consent to the use of that information for the purposes for which you provided it including:
+If you choose to supply an email address and/or mobile phone/SMS device number, you also consent to the use of that information for the following purposes:
 
-  * issuing you with an online access code 
-  * responding to your enquiries 
-  * processing your transaction 
+  * issuing you with an online access code when you request it
+  * responding to your enquiries
+  * processing your transaction
   * sending you information, notices, reminders or updates on Transport and Main Roads products and services. 
 
 
@@ -54,8 +68,6 @@ If you choose to supply an email address and/or mobile phone/SMS device number, 
 Email correspondence sent to this site will be treated as a public record and will be retained as required by relevant legislation.
 
 Email messages may be monitored by the department's web team for system troubleshooting and maintenance purposes.
-
-Your name and address details will not be disclosed to a third party without your consent unless required or authorised to do so by law.
 
 ### Cookies
 
