@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the manufacturers.com.tw privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611135822id_/http%3A//www.manufacturers.com.tw/help/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the manufacturers.com.tw privacy policy that was archived on 2015-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151212163437id_/http%3A//www.manufacturers.com.tw/help/privacy-policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - B2BManufactures.com
 
