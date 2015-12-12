@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ecostsoftware.com privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612004935id_/http%3A//www.ecostsoftware.com/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ecostsoftware.com privacy policy that was archived on 2015-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151212033939id_/http%3A//www.ecostsoftware.com/help/privacy) for the most accurate reproduction.*
 
 # Privacy Policy : Help Portal :: eCostSoftware.com - UK Software Supplier
 
@@ -18,10 +18,9 @@ This privacy policy applies to the website of:
 
 eCost Software  
 4 Lion Centre  
-Hanworth Trading Estate  
-Hampton Road West  
-Feltham  
-TW13 6DS  
+86-90 Paul Street  
+London  
+EC2A 4NE  
 Tel: 0800 328 8311  
 Email: info@ecostsoftware.com
 
