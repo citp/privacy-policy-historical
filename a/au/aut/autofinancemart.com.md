@@ -1,67 +1,65 @@
-> *The following text is extracted and transformed from the autofinancemart.com privacy policy that was archived on 2012-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121108151300id_/http%3A//www.autofinancemart.com/legal/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the autofinancemart.com privacy policy that was archived on 2015-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151212162327id_/http%3A//www.autofinancemart.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | AutoFinanceMart
 
-Basics of Car loan
+This Privacy Policy is in application to AutoFinanceMart. This would impart how AutoFinanceMart collects uses and shares the information from or regarding you as you visit a site, gives information on how advertisements are done, both on AutoFinanceMart and other websites, and how information is collected based on interactions with the online ads. In addition to the Notice, depending on the relationship with AutoFinanceMart, you may receive and be under the coverage of AutoFinanceMart, other privacy disclosures within account opening documents and other privacy and security rules as applicable to the relevant affiliate.
 
-[Auto Car Loans](https://web.archive.org/web/20121108151300id_/http%3A//www.autofinancemart.com/car-finance-articles/what-is-car-finance.php)  
-[Car Financing](https://web.archive.org/web/20121108151300id_/http%3A//www.autofinancemart.com/car-finance-articles/finance-a-new-car.php)  
-[Cheap Car loans](https://web.archive.org/web/20121108151300id_/http%3A//www.autofinancemart.com/car-finance-articles/cheap-car-loans.php)  
-[Best Car loans](https://web.archive.org/web/20121108151300id_/http%3A//www.autofinancemart.com/car-finance-articles/best-car-loans.php)  
-[Loan Sources](https://web.archive.org/web/20121108151300id_/http%3A//www.autofinancemart.com/car-finance-articles/car-finance-loan.php)  
-[Online Car loan](https://web.archive.org/web/20121108151300id_/http%3A//www.autofinancemart.com/car-finance-articles/car-finance-online.php)  
-[UK car Finance](https://web.archive.org/web/20121108151300id_/http%3A//www.autofinancemart.com/car-finance-articles/uk-car-finance.php)  
-[US car finance](https://web.archive.org/web/20121108151300id_/http%3A//www.autofinancemart.com/car-finance-articles/car-finance-loan-us.php)  
-[Auto Loan Application](https://web.archive.org/web/20121108151300id_/http%3A//www.autofinancemart.com/car-finance-articles/auto-loan-application.php)  
-[Auto Loan Quotes](https://web.archive.org/web/20121108151300id_/http%3A//www.autofinancemart.com/car-finance-articles/auto-finance-quotes.php)
+**Information Gathering**
 
-Types of Car loans
+When you visit AutoFinanceMart, categories of information may be gathered, including personal information that are provided via forms, applications, surveys, or other online fields. We can also collect information about you from online browsing and transactions, including preferences pages visited and technical information regarding your settings. Personal information means identifiable information and does not include aggregated date that the site could create or compile from various sources, including transactions and accounts. This information which does not single out individual customers is used by our site business purposes, including offering services or products, research, marketing or analyzing market trends and other purposes in congruence to existing laws.
 
-[Used Car Loans](https://web.archive.org/web/20121108151300id_/http%3A//www.autofinancemart.com/car-finance-articles/used-car-loans.php)  
-[Financing a leased car](https://web.archive.org/web/20121108151300id_/http%3A//www.autofinancemart.com/car-finance-articles/car-lease-finance.php)  
-[No credit Car loans](https://web.archive.org/web/20121108151300id_/http%3A//www.autofinancemart.com/car-finance-articles/no-credit-car-loan.php)  
-[Classic Car Loans](https://web.archive.org/web/20121108151300id_/http%3A//www.autofinancemart.com/car-finance-articles/classic-car-loans.php)  
-[No Down payment loans](https://web.archive.org/web/20121108151300id_/http%3A//www.autofinancemart.com/car-finance-articles/no-down-payment-car-loan.php)  
-[Car Title loans](https://web.archive.org/web/20121108151300id_/http%3A//www.autofinancemart.com/car-finance-articles/car-title-loans.php)  
-[Car Loans Interest Rates](https://web.archive.org/web/20121108151300id_/http%3A//www.autofinancemart.com/car-finance-articles/interest-rates-on-car-loans.php)  
-[Auto Financing](https://web.archive.org/web/20121108151300id_/http%3A//www.autofinancemart.com/car-finance-articles/auto-finance.php)  
-[Military Car Loans](https://web.archive.org/web/20121108151300id_/http%3A//www.autofinancemart.com/car-finance-articles/military-car-loans.php)  
-[Best UK Car Loan Finance](https://web.archive.org/web/20121108151300id_/http%3A//www.autofinancemart.com/car-finance-articles/uk-car-loan-finances.php)  
-[Student Car loan](https://web.archive.org/web/20121108151300id_/http%3A//www.autofinancemart.com/car-finance-articles/student-car-loans.php)  
-[Car Loan Comparison](https://web.archive.org/web/20121108151300id_/http%3A//www.autofinancemart.com/car-finance-articles/compare-car-loan-rates.php)  
-[English New York](https://web.archive.org/web/20121108151300id_/http%3A//www.autofinancemart.com/car-finance-articles/english-new-york.php)  
-[Car Rentals](https://web.archive.org/web/20121108151300id_/http%3A//www.autofinancemart.com/car-finance-articles/car-rentals.php)
+**Cookies**
 
-Useful Articles
+These are pieces of information stored on the computer upon use. AutoFinanceMart or the third party service providers, as well as advertising service providers, may place cookies or flash objects on the hard drive for security purposes for the facilitation of site navigation and personalization of the experience.
 
-[Refinancing Car loan](https://web.archive.org/web/20121108151300id_/http%3A//www.autofinancemart.com/car-finance-articles/refinancing-car-loan.php)  
-[Guaranteed Car Finance](https://web.archive.org/web/20121108151300id_/http%3A//www.autofinancemart.com/car-finance-articles/guaranteed-car-finance.php)  
-[Car Insurance rates](https://web.archive.org/web/20121108151300id_/http%3A//www.autofinancemart.com/car-finance-articles/car-insurance-rates.php)  
-[Wells Forgo loans](https://web.archive.org/web/20121108151300id_/http%3A//www.autofinancemart.com/car-finance-articles/wells-fargo-car-loans.php)  
-[Bad Credit Car Loans](https://web.archive.org/web/20121108151300id_/http%3A//www.autofinancemart.com/car-finance-articles/bad-credit-car-loans.php)  
-[Car Loan Calculator](https://web.archive.org/web/20121108151300id_/http%3A//www.autofinancemart.com/car-finance-articles/car-loan-calculator.php)  
-[Bad Credit Auto Loans](https://web.archive.org/web/20121108151300id_/http%3A//www.autofinancemart.com/car-finance-articles/bad-credit-auto-loans.php)  
-[Bankruptcy Auto Loans](https://web.archive.org/web/20121108151300id_/http%3A//www.autofinancemart.com/car-finance-articles/auto-loans-bankruptcy.php)  
-[Amortization Schedule](https://web.archive.org/web/20121108151300id_/http%3A//www.autofinancemart.com/car-finance-articles/amortization-schedule.php)  
-[Car Safety](https://web.archive.org/web/20121108151300id_/http%3A//www.autofinancemart.com/car-finance-articles/car-safety.php)  
-[Car title payday loans](https://web.archive.org/web/20121108151300id_/http%3A//www.autofinancemart.com/car-finance-articles/payday-loans.php)
+In visiting AutoFinanceMart, we use cookies to go over your experience of the site. In applying for a product on one of our sites, we would use cookies to remember you and to provide information on products and services best fitting your needs. If you have an account with us and you access your accounts online, we will maintain the information about your visits to personalize your browsing experience, and the services and products offered. If you do not have an account with us and wish not for us to maintain the information, delete the cookies. For this, you would need to follow the browsers instructions for deleting and disabling cookies.
 
-Free News Letter
+**IP Addresses**
 
-Stay updated, sign up for our free newsletter to receive useful tips
+The IP address is a number assigned to the Internet accessing network or computer. Visitors IP addresses are stored in our log as they visit the site. These IP address are collected for administration of the system, reporting aggregate information, and auditing Site visits. In addition, some features of our site display IP address together with name and message, like on forums.
 
-Full Name  
-Email Id  
-[]() |  We take your privacy seriously and it is our sole duty to take care of your personal information. Your personal information is the information about you that is personally identifiable like your name, email address, and that will not be publicly available and we guarantee that your privacy information will not be sold out to any company for marketing and promotion purpose.
+**Advertising**
 
-We will not collect any of your personal information without your approval and you can simply navigate our website without revealing any personal information. You can submit your personal information like your name, email address etc only when you have any queries and/or suggestions. So it lies your own discretion to submit your personal information or not. 
+The site advertises on pages within the site as well as other websites not affiliated with AutoFinanceMart. Information collected in our advertising service providers though cookies and other technologies would include the number of people who look at each page on the site, browsing patterns within the site, search engine referrals, browsing patterns in AutoFinanceMart and responses to promotions and advertisements on the sites where we advertise.
 
-All information gathered will be stored using firewall software in order to ensure that your information is secure and safe. And further to bring it to your notice you're your information is treated with utmost care and secrecy and it may be used by [ www.autofinancemart.com](https://web.archive.org/web/20121108151300id_/http%3A//www.autofinancemart.com/index.php) for the intent of business communication if needed.
+**Online Surveys**
 
-We request you to review the policy from time to time because it is in our sole discretion that we may amend and/or append our policy at any time. 
+Time to time, you can be asked to do online surveys. You do not have the requirement to do such; but these are used to gather information to better address your needs. Based on this, we can keep you updated on account and service.
 
-| 
+**Planning Tools**
 
-Suggest an Article
+AutoFinanceMart gives users visiting websites with many planning tools, including mortgage, savings and plans for retirement. The information placed into these tools could be used for future access and use. We will inform you when the information is to be planned to stored, and you can have the option for this information not to be saved.
 
-Haven´t found the article you are looking for, please suggest your article. We value all your suggestions and comments. [](https://web.archive.org/web/20121108151300id_/http%3A//www.autofinancemart.com/forms/article-suggest.php)
+**Using and Sharing Information**
+
+There would be times that AutoFinanceMart could make information available to third parties that could be companies not related through common ownership or control, including service providers, insurance agencies, credit bureaus, retailers, membership organizations, government agencies, legal investigators, courts and other non-affiliated third parties as requested by you or your authorized representative, or otherwise when required or allowed by law. Unless differently describe in the Notice, for US account holders, we will use and share any information collected from or about you covered by the Notice in keeping with the Privacy Notice , providing consumers additional direct marketing choices.
+
+**Social Media Connection**
+
+AutoFinanceMart provides experiences on social media platforms, enabling online sharing and collaboration with users. Any content posted, including pictures, information, opinions and other personal information made available to these platforms is subject to the Terms of Use and Privacy Policies of the Platforms. Kindly refer to these to understand you rights in keeping with the content.
+
+**Accuracy of Information**
+
+Keeping account information accurate and updated is essential. If the account information is inaccurate or incomplete, kindly use the Contact Us link on our site, call to inform us at the correct address or telephone numbers for changes in the account statements, records, online or other account materials.
+
+**Linking to Other Sites**
+
+We could provide link to sites not related to our service, including merchants and credit bureaus. If you follow links to websites not controlled by AutoFinanceMart, you should go over the privacy policies and other terms, as they could diverge from other sites. AutoFinanceMart will not guarantee and will not be responsible for the security or privacy of the said websites, including the completeness or accuracy of said information.
+
+**Children’s Privacy**
+
+Most of our publications and web sites are intended for adults. Some web sites and publications, however, are intended for teens 13 and older but may include features or material that may be appealing to children under the age of 13. We are strongly committed to protecting the safety and privacy of children who visit our Web sites. We do not knowingly collect personal information online from children under 13. Many of our sites include bulletin boards and other features that we believe are unsuitable for children under 13 and which are not necessarily monitored. We encourage all parents to talk to their kids about online safety and to monitor their children’s use of the Internet.
+
+**Change in Company’s Ownership**
+
+If by chance another company obtains the assets in the business of AutoFinanceMart, we reserve inclusion of the stored personal identification information along with the assets transferred to the new corporate owners.
+
+**Service Customization**
+
+Target advertising to users is provided by the information collected about users. This is to allow all the pertinent advertising to be displayed. Customization of certain website features we provide is done with the information that is collected.
+
+**Third-Parties**
+
+Third-parties are contracted for specific services such as credit card processing and list generation. Any information that is required to perform these services is provided to the service provider.
+
+We use third-party advertising companies to serve ads and collect data when you visit our website. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site, other sites, and other forms of media about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: [http://www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/choices/)
