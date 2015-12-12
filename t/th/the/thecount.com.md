@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thecount.com privacy policy that was archived on 2015-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150617221422id_/http%3A//thecount.com/disclaimer) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thecount.com privacy policy that was archived on 2015-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151212192439id_/http%3A//thecount.com/disclaimer) for the most accurate reproduction.*
 
-# Privacy | Contact TheCount - TheCount.com
+# Privacy | Contact TheCount
 
 Anyone viewing TheCount.com does so at their own risk. The information included in or available through TheCount.com, sites/services may include inaccuracies or typographical errors.
 
