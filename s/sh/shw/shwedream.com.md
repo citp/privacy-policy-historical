@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the shwedream.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607033509id_/http%3A//www.shwedream.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shwedream.com privacy policy that was archived on 2015-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151212013412id_/http%3A//www.shwedream.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Myanmar Multimedia Entertainment
+# Privacy Policy - Shwe Dream
 
 Welcome to ShweDream.com (“Website”), an interactive online service operated by The Smart Dreams Inc and its subsidiaries (“us”, “we”, or “our”). Please read the following to learn more about our Privacy Policy, which includes compliance with California Privacy Rights (see also http://www.privacyprotection.ca.gov).
 
