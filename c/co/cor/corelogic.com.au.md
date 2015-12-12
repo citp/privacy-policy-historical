@@ -1,11 +1,12 @@
-> *The following text is extracted and transformed from the corelogic.com.au privacy policy that was archived on 2015-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150613210322id_/http%3A//www.corelogic.com.au/about-us/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the corelogic.com.au privacy policy that was archived on 2015-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151212171903id_/http%3A//www.corelogic.com.au/about-us/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | CoreLogic RP Data
 
-RP Data Pty Ltd trading as CoreLogic (ABN 67 087 759 171) and its related and associated bodies corporate ( **us, we, our, CoreLogic** ) maintain a policy of strict confidence concerning your (you, your) personal information ( **Privacy Policy** ). This Privacy Policy has been developed in accordance with the Privacy Act 1988 (Cth) ( **Privacy Act** ) and the Australian Privacy Principals ( **APPs** ) made under that Act. The Privacy Policy applies to the collection, storage, use and disclosure of your personal information by us. By accessing the following websites and platforms ( **Sites** ), you accept the terms of this Privacy Policy: 
+RP Data Pty Ltd trading as CoreLogic Asia Pacific ABN 67 087 759 171) and its related and associated bodies corporate ( **us, we, our, CoreLogic** ) maintain a policy of strict confidence concerning your (you, your) personal information ( **Privacy Policy** ). This Privacy Policy has been developed in accordance with the Privacy Act 1988 (Cth) ( **Privacy Act** ) and the Australian Privacy Principals ( **APPs** ) made under that Act. The Privacy Policy applies to the collection, storage, use and disclosure of your personal information by us. By accessing the following websites and platforms ( **Sites** ), you accept the terms of this Privacy Policy: 
 
   * [www.corelogic.com.au](http://corelogic.com.au/)
   * [www.myrp.com.au](http://myrp.com.au/)
+  * [www.propertyvalue.com.au](http://propertyvalue.com.au/)
   * [www.cityscopeonline.com.au](http://cityscopeonline.com.au/)
   * [vx.valex.com.au](http://vx.valex.com.au/)
   * [evrui.corelogic.com.au](http://evrui.corelogic.com.au/)
@@ -317,7 +318,7 @@ When contacting us or using our products and services, you have the option to ei
 
 ## 15\. General
 
-This Privacy Policy is effective as at 17 November 2014. 
+This Privacy Policy is effective as at 12 June 2015. 
 
 CoreLogic may vary this Privacy Policy from time to time. CoreLogic will notify you of these changes by publishing them on our websites. The current version of this Privacy Policy is located at: <http://www.corelogic.com.au/about-us/privacy-policy.html>
 
