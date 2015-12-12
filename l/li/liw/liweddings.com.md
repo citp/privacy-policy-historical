@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the liweddings.com privacy policy that was archived on 2015-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150613170340id_/http%3A//www.liweddings.com/pages/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the liweddings.com privacy policy that was archived on 2015-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151212193431id_/http%3A//www.liweddings.com/pages/privacy.aspx) for the most accurate reproduction.*
 
 # LIWeddings.com Internet Privacy Policy
 
