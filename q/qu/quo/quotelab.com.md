@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the quotelab.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608011954id_/http%3A//www.quotelab.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quotelab.com privacy policy that was archived on 2015-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151212101622id_/http%3A//www.quotelab.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - QuoteLab.com
 
@@ -42,55 +42,83 @@ All Service Providers in our network have entered into agreements with us which 
 Here's the full list of Service Providers currently in our network: 
 
   * 21st Century
-  * AIG Direct
+  * AAA
+  * AgileHealthInsurance.com
   * AIS
   * All Web Leads
+  * Alliance
   * Allstate
-  * American Family
+  * American Online Benefits Group
   * Answer Financial
-  * Auto Insurance Guide
+  * Art Institute
+  * Astoria Company
+  * Avenge Digital
   * Benepath
   * CompareInsuranceQuotes
   * Datalot
+  * DataWerx
+  * Debt.com
   * Direct General
-  * efinancial
+  * Efinancial
   * Encharter Insurance
+  * EPIQ
+  * Florida Blue
   * Fortegra
   * Freeway Insurance Services
   * GEICO
-  * Get Seen Media
+  * Go Direct Lead Gen
   * GoHealthInsurance
+  * Goji
   * Good2Go
+  * Health Benefit Center
+  * Health Choice One
+  * Health Plans of America
+  * HealthMarkets
   * HealthPlanOne
   * Home Insurance King
+  * HyperTarget Marketing
   * Inside Response
   * InsuraMatch
-  * Insurance Care Direct
   * Insurance Quotes Now
+  * iWebQuotes
+  * Kelly Klee
+  * Leadnomics
   * Liberty Mutual
+  * Lighthouse Insurance
   * MassNexus
   * MatchMedia
-  * Mercury
   * Moss
-  * Nations Health Insurance
   * Nationwide
   * NetQuote
+  * Nexus Enterprise Solutions
+  * Outlook Advisors
+  * Parasol Leads
   * Pay Per Call Market
   * PEMCO
   * Ping Leads
+  * Platform Advertising
   * Plymouth Rock
+  * Precise Leads
   * Precursor Media
+  * Progressive
+  * QA Test Advertiser
+  * Quinstreet
   * Quote Engine
   * QuoteWizard
+  * Red Ventures
   * RevPoint
-  * SelectQuote
   * State Farm
+  * Texas State Low Cost
   * The Insurance Center
+  * The Lead Republic
   * Torchlight Technology Group
   * Torchmark
   * Tranzact
   * Travelers
   * Underground Elephant
+  * United Medicare Advisors
+  * Velapoint
+  * ZQ Auto Insurance
 
 
 
