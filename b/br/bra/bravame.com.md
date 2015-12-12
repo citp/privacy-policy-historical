@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bravame.com privacy policy that was archived on 2015-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150619000747id_/http%3A//bravame.com/pages/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bravame.com privacy policy that was archived on 2015-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151212130624id_/http%3A//bravame.com/pages/about/privacy) for the most accurate reproduction.*
 
 # About bravame
 
@@ -6,7 +6,7 @@
 
 Effective as of May 11th, 2012
 
-We at MTI USA, Inc. d/b/a Bravame (“Bravame,” “we,” “us,” or “our”) have created this privacy policy (this “Privacy Policy”) because we know that you care about how information you provide to us is used and shared. This Privacy Policy relates to the information collection and use practices of Bravame in connection with our online services (the “Services”), which are made available to you through a variety of platforms, such as through our network of websites, including, without limitation, http://www.Bravame.com (collectively, the “Websites”) and through Facebook, Twitter, and other social media (collectively, “Social Media”). The Websites and our Social Media pages are collectively referred to as the “Platforms.”
+We at MTI USA, Inc. d/b/a bravame (“bravame,” “we,” “us,” or “our”) have created this privacy policy (this “Privacy Policy”) because we know that you care about how information you provide to us is used and shared. This Privacy Policy relates to the information collection and use practices of bravame in connection with our online services (the “Services”), which are made available to you through a variety of platforms, such as through our network of websites, including, without limitation, http://www.bravame.com (collectively, the “Websites”) and through Facebook, Twitter, and other social media (collectively, “Social Media”). The Websites and our Social Media pages are collectively referred to as the “Platforms.”
 
 By visiting our Websites and/or using our Services on any of the Platforms, you are agreeing to the terms of this Privacy Policy and the accompanying Terms of Use.
 
@@ -38,7 +38,7 @@ We may share Other Information about your activity on the Platforms with third p
 
 ### Accessing and Modifying Personal Information and Communication Preferences
 
-If you have registered for the Services, you may access, review, and make changes to your Personal Information and Billing Information by (i) e-mailing us at fr@Bravame.com, or (ii) following the instructions found on the applicable Platform. In addition, you may manage your receipt of marketing and non-transactional communications by clicking on the “unsubscribe” link located on the bottom of any Bravame marketing email. Registered Users cannot opt out of receiving transactional e-mails related to their account. We will use commercially reasonable efforts to process such requests in a timely manner. You should be aware, however, that it is not always possible to completely remove or modify information in our subscription databases.
+If you have registered for the Services, you may access, review, and make changes to your Personal Information and Billing Information by (i) e-mailing us at fr@bravame.com, or (ii) following the instructions found on the applicable Platform. In addition, you may manage your receipt of marketing and non-transactional communications by clicking on the “unsubscribe” link located on the bottom of any bravame marketing email. Registered Users cannot opt out of receiving transactional e-mails related to their account. We will use commercially reasonable efforts to process such requests in a timely manner. You should be aware, however, that it is not always possible to completely remove or modify information in our subscription databases.
 
 ### How We Use and Share the Information
 
@@ -49,7 +49,7 @@ We use the Personal Information, the Billing Information, and the Other Informat
   * In an ongoing effort to better understand our users and our Services, we might analyze the Other Information in aggregate form in order to operate, maintain, manage, and improve the Services. This aggregate information does not identify you personally. We may share this aggregate data with our affiliates, agents, and business partners. We may also disclose aggregated user statistics in order to describe our products and Services to current and prospective business partners and to other third parties for other lawful purposes.
   * We may employ other companies and individuals to perform functions on our behalf. Examples may include providing marketing assistance, information technology support, and customer service. These other companies will have access to the Personal Information, the Billing Information, and the Other Information only as necessary to perform their functions and to the extent permitted by law. 
   * If we or all or substantially all of our assets are acquired, we expect that the Personal Information, the Billing Information, and the Other Information would be transferred along with the other business assets. 
-  * To the extent permitted by law, we may also disclose Personal Information, the Billing Information, and the Other Information when required by law, court order, or other government or law enforcement authority or regulatory agency, or whenever we believe that disclosing the such Information is necessary or advisable, for example, to protect the rights, property, or safety of Bravame or others.
+  * To the extent permitted by law, we may also disclose Personal Information, the Billing Information, and the Other Information when required by law, court order, or other government or law enforcement authority or regulatory agency, or whenever we believe that disclosing the such Information is necessary or advisable, for example, to protect the rights, property, or safety of bravame or others.
 
 
 
@@ -67,16 +67,16 @@ We do not knowingly collect Personal Information from children under the age of 
 
 ### California Residents
 
-Under California Civil Code Section 1798.83, California residents who have an established business relationship with Bravame may choose to opt out of our sharing your Personal Information with third parties for direct marketing purposes. If you are a California resident and (1) you wish to opt out; or (2) you wish to request certain information regarding our disclosure of your Personal Information to third parties for the direct marketing purposes, please send an e-mail to fr@Bravame.com or write to us at:
+Under California Civil Code Section 1798.83, California residents who have an established business relationship with bravame may choose to opt out of our sharing your Personal Information with third parties for direct marketing purposes. If you are a California resident and (1) you wish to opt out; or (2) you wish to request certain information regarding our disclosure of your Personal Information to third parties for the direct marketing purposes, please send an e-mail to fr@bravame.com or write to us at:
 
-Bravame  
+bravame  
 20 West 20th Street  
 Suite 1003  
 New York, New York 10011
 
 ### External Websites
 
-The Websites and the Services may contain links to third-party websites. Bravame has no control over the privacy practices or the content of any of our business partners, advertisers, sponsors, or other websites to which we provide links. As such, we are not responsible for the content or the privacy policies of those third-party websites. You should check the applicable third-party privacy policy and terms of use when visiting any other websites. 
+The Websites and the Services may contain links to third-party websites. bravame has no control over the privacy practices or the content of any of our business partners, advertisers, sponsors, or other websites to which we provide links. As such, we are not responsible for the content or the privacy policies of those third-party websites. You should check the applicable third-party privacy policy and terms of use when visiting any other websites. 
 
 ### Changes to This Privacy Policy
 
@@ -84,15 +84,15 @@ This Privacy Policy is effective as of the date stated at the top of this Privac
 
 ### How to Contact Us
 
-If you have questions about this Privacy Policy, please e-mail us at fr@Bravame.com or call us at 646-485-8792 ext. 3.
+If you have questions about this Privacy Policy, please e-mail us at fr@bravame.com or call us at 646-485-8792 ext. 3.
 
 ### Employment
 
-Bravame promotes a diverse workplace and is an equal opportunity employer. It is the policy of the Bravame company to employ the man or woman best qualified for the job regardless of race, color, religion, age, sex, sexual orientation, national origin, disability (handicap) or marital status.
+bravame promotes a diverse workplace and is an equal opportunity employer. It is the policy of the bravame company to employ the man or woman best qualified for the job regardless of race, color, religion, age, sex, sexual orientation, national origin, disability (handicap) or marital status.
 
 ### COPYRIGHT
 
-Unlike many other distributors, Bravame DOES NOT take the copyright from filmmakers. Bravame offers you a non-exclusive license, and you retain ownership. It is our belief that, as an alternative distributor, the filmmaker knows best what to do with his/her copyright.
+Unlike many other distributors, bravame DOES NOT take the copyright from filmmakers. bravame offers you a non-exclusive license, and you retain ownership. It is our belief that, as an alternative distributor, the filmmaker knows best what to do with his/her copyright.
 
   * Third party vendors, including Google, show our ads on sites on the internet.
   * Third party vendors, including Google, use cookies to serve ads based on your prior visits to this website.
