@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the amf.com privacy policy that was archived on 2015-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150613133054id_/http%3A//amf.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amf.com privacy policy that was archived on 2015-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151212182736id_/http%3A//www.amf.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | AMF Bowling Centers
+# Privacy Policy | The AMF Bowling Co.
 
 Bowlmor AMF Corp, AMF Bowling Centers Inc. d/b/a Bowlmor AMF Centers, its affiliates and its properties ("Company" or "we," "our," or "us") respects the privacy of our users. This Privacy Policy will tell you how and what information we may receive about you, and how we may use your information when providing you our tools, products and services. Please read this Privacy Policy carefully. Please consult our **[Terms of Use Agreement](https://web.archive.org/terms.aspx "Terms")** for additional terms and conditions that apply to your use of and access to the Site.
 
@@ -110,7 +110,7 @@ We may receive information about you or others on your behalf under this policy 
 
 ## 5\. Children
 
-We are committed to protecting the privacy of children. Neither Company nor any of its services are designed or intended to attract children under the age of 13. We do not collect Personal Information from any person we actually know is under the age of 13\. Although not recommended, a parent or guardian, however, may use our Web Sites for the benefit of a minor. The parent or guardian is solely responsible for providing supervision and care of the use for the benefit of such minor. The parent or guardian assumes full responsibility for ensuring that any information shared is kept secure and that the information submitted is accurate. The parent or guardian also assumes full responsibility for the interpretation and use of any information or tools provided through us.  Any parent or guardian may review and delete such information by contacting us at the information below. 
+We are committed to protecting the privacy of children. Neither Company nor any of its services are designed or intended to attract children under the age of 13. We do not collect Personal Information from any person we actually know is under the age of 13. Although not recommended, a parent or guardian, however, may use our Web Sites for the benefit of a minor. The parent or guardian is solely responsible for providing supervision and care of the use for the benefit of such minor. The parent or guardian assumes full responsibility for ensuring that any information shared is kept secure and that the information submitted is accurate. The parent or guardian also assumes full responsibility for the interpretation and use of any information or tools provided through us.  Any parent or guardian may review and delete such information by contacting us at the information below. 
 
 ## 6\. Accuracy and Security of Personal Information
 
