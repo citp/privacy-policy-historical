@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the answerkeycutoffmarks.in privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612215434id_/http%3A//answerkeycutoffmarks.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the answerkeycutoffmarks.in privacy policy that was archived on 2015-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151212022409id_/http%3A//answerkeycutoffmarks.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - All Exams Answer Key & Cutoff Marks
 
@@ -20,7 +20,7 @@ Our Site may use “cookies” to enhance User experience. User’s web browser 
 
 Resultsnjobs.in collects and uses Users personal information for the following purposes:
 
-\- To improve our Site  
+– To improve our Site  
 We continuously strive to improve our website offerings based on the information and feedback we receive from you.  
 – To improve customer service  
 Your information helps us to more effectively respond to your customer service requests and support needs.
@@ -45,7 +45,7 @@ Protecting the privacy of the very young is especially important. For that reaso
 
 **Changes To This Privacy Policy**
 
-Resultsnjobs.in has the discretion to update this privacy policy at any time. When we do, we will post a [notification](http://answerkeycutoffmarks.in/category/notification/ "notification") on the main page of our Site. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
+Resultsnjobs.in has the discretion to update this privacy policy at any time. When we do, we will post a notification on the main page of our Site. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
 
 **Your Acceptance Of These Terms**
 
