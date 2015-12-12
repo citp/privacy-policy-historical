@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the mtvu.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607164635id_/http%3A//www.mtvu.com/about/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mtvu.com privacy policy that was archived on 2015-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151212183713id_/http%3A//www.mtvu.com/about/privacy_policy) for the most accurate reproduction.*
 
 # PRIVACY POLICY AND YOUR CALIFORNIA PRIVACY RIGHTS | mtvu.com
 
-Last Modified: December 29, 2014
+Last Modified: November 16, 2015
 
 Go to [Terms of Use Agreement](http://www.mtvu.com/about/terms_of_use/)
 
@@ -132,13 +132,9 @@ For other purposes disclosed at the time you provide the Other Information.
 
 **a. Opting-Out of Certain Uses of Personal Information.**
 
-**i. In Connection with Marketing and Promotional Email and Offers.**
+**i. In Connection with Marketing and Promotional Email and Offers.** You may “opt-out” of receiving marketing and promotional e-mails from us at any time by using the opt-out mechanism that is contained in each such e-mail. Please note that when you opt-out of receiving marketing and promotional e-mails from us, you are not opting out of receiving newsletters from us that you have requested. Further, when you use the opt-out mechanism that is contained in an e-mail, you are not opting out of receiving marketing and promotional e-mails from other VMN brands. Please see _Section 4.a.ii_ below for your newsletter options.
 
-You may “opt-out” of receiving marketing and promotional e-mails from us at any time by using the Sites preference management page associated with your User ID account to opt-out of receiving such emails or messages from the Site, the Parent Companies, Affiliates and/or third parties] [by going to the Sites home page, clicking the “Your Account” link, to (1) un-register your account, or (2) change or edit your preferences.
-
-In the event that we, or our Affiliates, unknowingly sends an email or text message to a child (a person under the age of 16 years) who has registered with the Site in violation of the Sites Agreement, the child or the childs parent or legal guardian always have the right to unsubscribe (opt-out) from receiving future emails or text messages via the unsubscribe mechanism contained in the email or message, or to request termination of the childs registration and status as a registered user with the Site. The same unsubscribe process is available to a parent or legal guardian of a minor (a person under the age of 18 years old, or the age of majority in your state). Please see the Update, or Delete Your Personal Information Section for details.
-
-**ii. In Connection with Wireless Marketing Services.** See **Termination of Wireless Services by Users** under the Wireless Marketing Services and Associated Promotional Opportunities Section for more information on how you may unsubscribe from receiving text messages.
+**ii. In connection with Newsletters and other Editorial-based E-mails.** To the extent the applicable Site offers newsletters or other editorial-based e-mails, you may “opt-out” of receiving any newsletter e-mail by using the opt-out mechanism that is contained in each such newsletter e-mail. Please note that when you opt-out of receiving any or all newsletters and other editorial-based e-mails from us, you are not opting out of receiving marketing and promotional e-mails from us. Please see _Section 4.a.i_ above for your marketing and promotional e-mail options.
 
 **iii. Certain Continuing Rights Regardless of Opt-Outs**. However, even if you exercise your opt-out rights above, **** we, or our Parent Companies or Affiliates, may continue to contact you for the other purposes described in the **Use of Information** Section above, such as for maintenance and administrative purposes. ****
 
@@ -146,7 +142,7 @@ In the event that we, or our Affiliates, unknowingly sends an email or text mess
 
 **i. Tracking Technologies Set By Third Party Advertising Service Providers and Advertisers.** With respect to the Tracking Technologies set by Third Party Advertising Service Providers and Advertisers, you have a number of options:
 
-With respect to the serving of ads by DoubleClick to you, please visit [**www.google.com/privacy_ads.html**](https://web.archive.org/web/20150607164635id_/http://www.mtvu.com/about/privacy_policy/www.google.com/privacy_ads.html)for your options (other than for Flash cookies) and for further information on renewing your opt-outs or opting-out again if you subsequently delete the Tracking Technologies. 
+With respect to the serving of ads by DoubleClick to you, please visit [**www.google.com/privacy_ads.html**](https://web.archive.org/web/20151212183713id_/http://www.mtvu.com/about/privacy_policy/www.google.com/privacy_ads.html)for your options (other than for Flash cookies) and for further information on renewing your opt-outs or opting-out again if you subsequently delete the Tracking Technologies. 
 
 See below for more information on removing Flash cookies.
 
