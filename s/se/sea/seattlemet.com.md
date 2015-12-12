@@ -1,13 +1,12 @@
-> *The following text is extracted and transformed from the seattlemet.com privacy policy that was archived on 2015-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150410000219id_/http%3A//www.seattlemet.com/site/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seattlemet.com privacy policy that was archived on 2015-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151212013325id_/http%3A//www.seattlemet.com/pages/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Seattle Met
 
-_Effective January 12, 2009_  
-_
+_Effective January 12, 2009_
 
 Your privacy is important to us, and we are committed to protecting all users’ privacy in accordance with the following policies. The term “users” includes registered members of our website and non-registered visitors that access our web pages. Please carefully read our privacy policy as outlined below.
 
-_
+## About Seattlemet.com
 
 SagaCity Media Inc owns and operates the Seattlemet.com website (hereby referred to as “SM.com” or “we”). Please contact us directly if you have any questions or concerns about our privacy policies. We can be reached at:
 
