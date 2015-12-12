@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sfbg.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626023124id_/http%3A//www.sfbg.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sfbg.com privacy policy that was archived on 2015-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151212142358id_/http%3A//www.sfbg.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy/Comment Policy | SF Bay Guardian
 
