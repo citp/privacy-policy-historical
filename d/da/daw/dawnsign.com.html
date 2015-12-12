@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the dawnsign.com privacy policy that was archived on 2015-06-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150609065103id_/http%3A//www.dawnsign.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the dawnsign.com privacy policy that was archived on 2015-12-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151212081050id_/http%3A//www.dawnsign.com/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -10,8 +10,9 @@
 <link rel="icon" type="image/ico" href="http://www.dawnsign.com/favicon.ico">
 <link href="http://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700" rel="stylesheet" type="text/css">
 <link href="http://fonts.googleapis.com/css?family=Lobster" rel="stylesheet" type="text/css">
-<link rel="stylesheet" type="text/css" href="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.18/themes/cupertino/jquery-ui.css">
+<link rel="stylesheet" type="text/css" href="http://www.dawnsign.com/css/jquery-ui.css">
 <link rel="stylesheet" type="text/css" href="http://www.dawnsign.com/css/style.css">
+
 
 
 <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
@@ -224,6 +225,9 @@ com.processForm = function (form)
                                 <p class="article widget_title">Articles</p>
                 	<ul class="article_list">
                 	                    	                        	    <li>
+                	        <strong><a href="http://www.dawnsign.com/articles/dawnsignpressamprsquos-once-upon-a-sign-wins-best-of-2015-award/82">DawnSignPress’s Once Upon A Sign Wins Best of 2015 Award</a></strong>
+                	                        	    </li>    
+                	                        	    <li>
                 	        <strong><a href="http://www.dawnsign.com/articles/learning-american-sign-language/81">Learning American Sign Language</a></strong>
                 	                        	    </li>    
                 	                        	    <li>
@@ -286,6 +290,7 @@ com.processForm = function (form)
 	                            }
 	                            else {
 	                                data = jQuery.parseJSON(data);
+					if(data !== null){
 	                                for(var i=0;i<data.length;i++) {
 	                                    var date = data[i]['date'];
 	                                    var status = data[i]['status'];
@@ -295,6 +300,7 @@ com.processForm = function (form)
 	                                    jQuery('.facebook_list').append('<li><span>' + date + '</span> ' + status + '</li>');
 	                                }
 	                                jQuery('.facebook_list').append('<li></li>');
+					}/* data !== null*/
 	                            }
 	                    }
 	            });
