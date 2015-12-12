@@ -1,25 +1,15 @@
-> *The following text is extracted and transformed from the zippymoviez.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315032316id_/http%3A//www.zippymoviez.com/forum/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zippymoviez.com privacy policy that was archived on 2015-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151212082047id_/http%3A//www.zippymoviez.cc/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - ZippyMoviez.Com - Non Stop Entertainment
+# Privacy Policy - ZippyMovieZ.CC
 
-  
-  
+**Your Privacy**  
+We respect your privacy and we are committed to protect it. We don't sell, share, and show your personal information without your prior permission or written consent or unless required by law. We never collect any information about you except those specifically provided by you or limited information that the browser made available when you visited our site, for example, the IP address while you are on the site, visiting time, the link clicked, the browser type, and cookies.
 
+ **Third Party Websites**  
+We cooperate with third-party companies even when you visit our site. We need these companies to provide us with some site audience and visits details, and they may see and use information about your visits. It bears no relation to your personal data, such as your name, email address or telephone number.
 
-Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available in our footer and at every point where personally identifiable information may be requested.
+ **Third Party Cookies**  
+We use cookies to store your choices and preferences.
 
-Log files are maintained and analysed of all requests for files on this website's web servers. Log files do not capture personal information but do capture the user's IP address, which is automatically recognised by our web servers.
-
-**Our Commitment to Children's Privacy**  
-Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our website from those we actually know are under 13, and no part of our website is structured to attract anyone under 13.
-
-**Cookies**  
-This website does not store any information that would, on its own, allow us to identify individual users of this service without their permission. Any cookies that may be used by this website are used either solely on a per session basis or to maintain user preferences. Cookies are not shared with any third parties. 
-
-  1.  
-  2. [Privacy Policy](http://www.zippymoviez.com/forum/privacypolicy/)
-  3. [Rules](http://www.zippymoviez.com/forum/index.php?app=forums&module=extras&section=boardrules "Rules") · 
-
-** BitCoin : 16Tb2PQ8CT5a193bJ3xpg3EsuxfKTLxFP9**   
-**© 2015 ZippyMovieZ.Com**   
-
+ **Privacy Policy Changes**  
+We have all rights to change, alter or modify our privacy policy at any time without prior notice. We will immediately post changes on this page and let you get acquainted with them.
