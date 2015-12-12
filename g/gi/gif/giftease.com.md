@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the giftease.com privacy policy that was archived on 2015-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150503041529id_/http%3A//www.giftease.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the giftease.com privacy policy that was archived on 2015-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151212142648id_/http%3A//www.giftease.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Giftease
+# Privacy Policy
 
 **Giftease values the privacy of your personal information. We do not sell, or otherwise share your personally identifiable information with any third parties, except as may be necessary to provide the services which you have requested for, or for promoting a safe and improved experience on the Website, in accordance with this policy.**
 
