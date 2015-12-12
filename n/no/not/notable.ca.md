@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the notable.ca privacy policy that was archived on 2015-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150407235825id_/http%3A//notable.ca/nationwide/stuff/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the notable.ca privacy policy that was archived on 2015-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151212033256id_/http%3A//notable.ca/privacy-policy) for the most accurate reproduction.*
 
 # Notable.ca | Privacy Policy
 
