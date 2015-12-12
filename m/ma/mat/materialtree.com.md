@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the materialtree.com privacy policy that was archived on 2015-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150613092302id_/http%3A//www.materialtree.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the materialtree.com privacy policy that was archived on 2015-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151212191239id_/http%3A//www.materialtree.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Materialtree.com
 
 Your privacy is very important to us.  This privacy policy of materialtree.com ("materialtree"), a trademark of Live More Services Pvt Ltd, Bangalore, India, describes the information we gather, how we share that information and what we do to protect your information on our website, [www.materialtree.com](http://www.materialtree.com/).
 
-Use of the site indicates agreement with this privacy policy. This privacy policy was last updated 6th  December 2013. If you have questions or complaints regarding our privacy policy or practices, please contact us at [info@materialtree.com](mailto:info@materialtree.com) or +91 96327 88890
+Use of the site indicates agreement with this privacy policy. This privacy policy was last updated 6th  December 2013. If you have questions or complaints regarding our privacy policy or practices, please contact us at [enquiry@materialtree.com](mailto:enquiry@materialtree.com) or +91 96327 88890
 
 **WHAT INFORMATION DO WE GATHER?**
 
@@ -38,7 +38,7 @@ Materialtree uses the information we gather to put buyers and sellers into conta
 
 **Other communications:**  Materialtree may send you email and other communications related to this site, your use of our services and the status of your account, which may include site updates and responses to your inquiries. In addition, materialtree sends periodic surveys and other communications, all of which you can opt out of receiving by changing your notification preferences as described below.
 
-**Third Party Offers:**  We also may use your information to send you e-mail and other communications on behalf of third parties. Each of these communications will include instructions for opting out of receiving future third party offers from us. You may also opt out of receiving third party offers from this Site at any time by sending an e-mail to [info@materialtree.com](mailto:info@materialtree.com) with the subject line "opt out- third party."
+**Third Party Offers:**  We also may use your information to send you e-mail and other communications on behalf of third parties. Each of these communications will include instructions for opting out of receiving future third party offers from us. You may also opt out of receiving third party offers from this Site at any time by sending an e-mail to [enquiry@materialtree.com](mailto:enquiry@materialtree.com) with the subject line "opt out- third party."
 
 **HOW DO WE SHARE YOUR INFORMATION WITH OTHERS?**
 
@@ -48,7 +48,7 @@ Our customer information is an important part of our business. As a result, we o
 
 To facilitate order processing and delivery, we will share you contact details to our vendors / suppliers  and other parties who will assist in delivery of the ordered items. This includes your basic contact information like name, billing / shipping address, telephone and email contacts.
 
-**Advertisers:**  We may provide your information to third party advertisers (and/or to their service providers on their behalf) to market their products or services under contractual requirement to keep your personally identifiable information confidential and use it only to market and provide (directly and through third parties engaged by them for such purpose) their products or services. You may opt out of such disclosures by sending an e-mail to [info@materialtree.com](mailto:info@materialtree.com) with the subject line: "do **not share.** " We also aggregate information about our collective users for potential advertisers who are interested in understanding whether their offering would be suitable to our audience. This information does not include personally identifiable information like your company name or email address.
+**Advertisers:**  We may provide your information to third party advertisers (and/or to their service providers on their behalf) to market their products or services under contractual requirement to keep your personally identifiable information confidential and use it only to market and provide (directly and through third parties engaged by them for such purpose) their products or services. You may opt out of such disclosures by sending an e-mail to [enquiry@materialtree.com](mailto:enquiry@materialtree.com) with the subject line: "do **not share.** " We also aggregate information about our collective users for potential advertisers who are interested in understanding whether their offering would be suitable to our audience. This information does not include personally identifiable information like your company name or email address.
 
 **Business Transfers:**  It is possible that our business may be merged with or sold to another business entity. During such a transaction, business information is typically one of the assets shared in the combined entity. In the event that this occurs, your personal information will be protected by the materialtree privacy policy in effect at the time. If your personal information will be used contrary to this policy, you will receive notice as described in the "Notification of Changes" section below.
 
@@ -62,11 +62,11 @@ Your information is stored on servers that are protected against unauthorized ac
 
 Materialtree provides a number of ways for you to manage your personal information.
 
-**Account information:**  If you need to update your account information, such as your contact email address, you may do so by contacting our Customer Care department at [info@materialtree.com](mailto:info@materialtree.com). Or login to your account and change your profile.
+**Account information:**  If you need to update your account information, such as your contact email address, you may do so by contacting our Customer Care department at [enquiry@materialtree.com](mailto:enquiry@materialtree.com). Or login to your account and change your profile.
 
-**Notification Preferences:**  You have the ability to "opt out" or unsubscribe from certain e-mail communications, such as periodic surveys and our monthly email newsletter, that are not related to a requested service and/or the status of your account. To update your communication preferences, contact our Customer Care department at [info@materialtree.com](mailto:info@materialtree.com). If you do contact the Customer Care department, please be sure to specify the type of email communication(s) from which you would like to opt out. Information about how to unsubscribe is also included in every communication we send.
+**Notification Preferences:**  You have the ability to "opt out" or unsubscribe from certain e-mail communications, such as periodic surveys and our monthly email newsletter, that are not related to a requested service and/or the status of your account. To update your communication preferences, contact our Customer Care department at [enquiry@materialtree.com](mailto:enquiry@materialtree.com). If you do contact the Customer Care department, please be sure to specify the type of email communication(s) from which you would like to opt out. Information about how to unsubscribe is also included in every communication we send.
 
-**Password:**  Materialtree suppliers may be issued a User ID and password to access their account. As a supplier, you are responsible for all actions taken with your user ID and password, including fees charged to your account. Do not share your password with any third parties, as you may be legally liable for any fees that are incurred. If you believe that your password has been compromised, you should immediately change your password or contact Customer Care at [care@materialtree.com](mailto:care@materialtree.com)
+**Password:**  Materialtree suppliers may be issued a User ID and password to access their account. As a supplier, you are responsible for all actions taken with your user ID and password, including fees charged to your account. Do not share your password with any third parties, as you may be legally liable for any fees that are incurred. If you believe that your password has been compromised, you should immediately change your password or contact Customer Care at [enquiry@materialtree.com](mailto:enquiry@materialtree.com)
 
 **Data Rentention.**  We will retain your information to continue to offer you products and services. Please contact us if you wish to cancel or request that we no longer use your information this way. We will also retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
@@ -94,10 +94,8 @@ We may amend this privacy policy for minor changes at any time by posting the am
 
 If you have any additional questions or comments about materialtree's privacy statement, please contact us:
 
-**Live More Services Pvt Ltd**  
- **  
-**
+**Live More Services Pvt Ltd**
 
-#28/20, HIG, N V Arcade 2nd Stage, 1st Cross, KHB Colony, Basaveshwarnagar, Bangalore- 560 079
+**Reg Office:** #28/20, HIG, N V Arcade 2nd Stage, 1st Cross, KHB Colony, Basaveshwarnagar, Bangalore- 560 079
 
-[info@materialtree.com](mailto:info@materialtree.com) / +96327 88890
+[enquiry@materialtree.com](mailto:enquiry@materialtree.com) / +96327 88890
