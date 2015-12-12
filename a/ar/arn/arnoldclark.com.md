@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the arnoldclark.com privacy policy that was archived on 2015-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150613021114id_/http%3A//www.arnoldclark.com/cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arnoldclark.com privacy policy that was archived on 2015-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151212141308id_/http%3A//www.arnoldclark.com/cookies) for the most accurate reproduction.*
 
 # Cookies policy | Arnold Clark
 
