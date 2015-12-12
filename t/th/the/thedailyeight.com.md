@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thedailyeight.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607195542id_/http%3A//thedailyeight.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thedailyeight.com privacy policy that was archived on 2015-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151212054453id_/http%3A//thedailyeight.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - The Daily 8
+# Privacy Policy | The Daily 8
 
 Your privacy on the Internet is of the utmost importance to us. We want to make your experience online satisfying and safe.Because we gather certain types of information about our users, we feel you should fully understand our policy and the terms and conditions surrounding the capture and use of that information. This privacy statement discloses what information we gather and how we use it.
 
