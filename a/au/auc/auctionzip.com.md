@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the auctionzip.com privacy policy that was archived on 2015-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150319173714id_/http%3A//www.auctionzip.com/agreements/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the auctionzip.com privacy policy that was archived on 2015-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151212074407id_/http%3A//www.auctionzip.com/agreements/privacy.html) for the most accurate reproduction.*
 
 # AuctionZip, LLC Privacy Policy
 
 ## AUCTIONZIP PRIVACY POLICY
 
-AuctionZip, LLC ("AuctionZip") is a Delaware Limited Liability Company based in Bedford, Pennsylvania.   AuctionZip provides database and software services to parties who participate in, or have an interest in the antiques, art, and traditional auction markets. 
+AuctionZip, LLC ("AuctionZip") is a Delaware Limited Liability Company based in Boston, Massachusetts. AuctionZip provides database and software services to parties who participate in, or have an interest in the antiques, art, and traditional auction markets. 
 
 Our policies have been developed with the recognition that Internet technologies and underlying business models are rapidly evolving.   Accordingly, our policies are subject to change. Any such changes will be posted on this page. If the changes represent a material departure from our current practices with respect to the use of personal information, the changes will be posted on this page thirty days prior to taking effect, and registered users will be notified as appropriate. 
 
@@ -44,7 +44,7 @@ At present, personally identifiable information about users is collected only th
 
  _A Note on Cookies_
 
-A "cookie" is a small amount of data that is sent to your browser from a web server and is sometimes stored on your computer's hard drive, although not always. Our cookies contain unique numbers that allow our site to recognize your computer as you move about our site during a session or period of use. As an example benefit of cookies, you only need to sign-in once at the start of a session; after that, we recognize you as a subscriber. We do not use cookies to store any information beyond a session identifier.
+A "cookie" is a small amount of data that is sent to your browser from a web server and is sometimes stored on your computer's hard drive, although not always. Our cookies contain unique numbers that allow our site to recognize your computer as you move about our site during a session or period of use. As an example benefit of cookies, you only need to sign-in once at the start of a session; after that, we recognize you as a subscriber.
 
 The help function on most browsers contains information on how to set your browser to notify you before accepting cookies or to disable cookies entirely. However, if you don't accept cookies, you won't be able to use any feature that requires registration or subscription.
 
@@ -88,6 +88,10 @@ AuctionZip will share some or all of your personal information with another busi
 
 If it is clear from the information that you provide us that you are a member of the antiques, art, auction or related trades we may, in our sole discretion list you in directories, or other areas of our site, and may use the name of your firm and your relationship to us in marketing or advertising on our site, or in our promotional materials, paid advertising, or other media in order to promote our services. We will not display the content of your email submissions about our services as testimonials for promotional purposes without your express permission.
 
+ _Advertising_
+
+We allow third-party companies to collect certain information when you visit our web site. These companies may utilize cookies, pixels or other technologies to collect and use both personally identifiable information (e.g., your name, physical or electronic address) and non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other web sites in order to provide advertisements about goods and services likely to be of greater interest to you. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit the websites of the Digital Advertising Alliance at [www.aboutads.info](http://www.aboutads.info/) or Networking Advertising Initiative at [www.networkadvertising.org/choices](http://www.networkadvertising.org/choices).
+
 ## **3) HOW YOU CAN CORRECT INFORMATION**
 
 Except for tracking and aggregated information, or as outlined in the section 5) below on Security and Protection of Your Information, all your information is available to you for review and update through your AuctionZip Home and AuctionZip User Home page. 
@@ -126,8 +130,8 @@ If you feel that we have not followed our privacy policy, or if you have any que
 
 AuctionZip, LLC
 
-113 West Pitt St, Suite C
+38 Everett St STE 101
 
-Bedford, PA 15522 
+Boston, MA 02134
 
-This policy document was last revised 12/03/2010. 
+This policy document was last revised 09/10/2015. 
