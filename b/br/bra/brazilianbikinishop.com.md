@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brazilianbikinishop.com privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611142015id_/http%3A//www.brazilianbikinishop.com/pages.php%3FpID%3D41%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brazilianbikinishop.com privacy policy that was archived on 2015-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151212171833id_/http%3A//www.brazilianbikinishop.com/en/viewpage/terms-and-conditions-41.html) for the most accurate reproduction.*
 
 # Terms and Conditions
 
@@ -48,6 +48,7 @@ We are not responsible for any delay in delivery caused by the unavailability of
 
 Payment for goods can be made by one of the following payment methods  
 \- Bank Payment  
+\- Visa, MasterCard, American Express  
 \- PayPal  
 \- Credit card through Paypal  
 \- Debit card through Paypal  
@@ -66,15 +67,15 @@ If you are in possession of the goods you are under the duty to retain them and 
 You must send the goods back to us in their original condition to our contact address at your own cost (unless we delivered the item to you in error or the item is damaged or defective) as soon as possible once you have cancelled the contract.  
 We reserve the right to make a charge not exceeding our direct costs of recovering the goods if you do not return the goods or return them at our expense.
 
-Once you have notified us that you wish to cancel the contract, any sum debited to us will be refunded to you as soon as possible and in any event within 30 days of your cancellation.
+Once you have notified us that you wish to cancel the contract, any sum debited to us will be refunded to you as soon as possible and in any event within 14 days of your cancellation.
 
 ### **8\. REFUNDS POLICY**
 
-When you return goods to us because you have cancelled the contract between us during the cooling-off period we will process the refund due to you as soon as possible and, in any case, within 30 days of the day you have given notice of your cancellation. We will refund the price of the goods in full, including the cost of sending the item to you. However, you will be responsible for the cost of returning the item to us.  
+When you return goods to us because you have cancelled the contract between us during the cooling-off period we will process the refund due to you as soon as possible and, in any case, within 14 days of the day you have given notice of your cancellation. We will refund the price of the goods in full, including the cost of sending the item to you. However, you will be responsible for the cost of returning the item to us.  
 If you are not satisfied with a product for any reason e.g. if it is not what you ordered, it is damaged or defective, or we have delivered an incorrect quantity, please return the product to us. Once we have confirmed the product defect or other problem, we will:  
 \- provide a full refund for any goods that are damaged or defective, if this is within a reasonable time following the sale; or  
 \- at your option, repair or replace the goods at our cost (including the cost of postage), unless this would not be possible or would be disproportionately costly in the circumstances, in which case we will refund to you the amount paid by you for the goods in question.  
-We will notify you of your refund via e-mail within a reasonable period of time. We will usually process the refund due to you as soon as possible and, in any case, within 30 days of the day we confirmed to you via e-mail that you were entitled to a refund for defective goods.  
+We will notify you of your refund via e-mail within a reasonable period of time. We will usually process the refund due to you as soon as possible and, in any case, within 14 days of the day we confirmed to you via e-mail that you were entitled to a refund for defective goods.  
 We will usually refund any money received from you using the same method originally used by you to pay for your purchase.
 
 ### 9\. CANCELLATION BY US
