@@ -1,14 +1,15 @@
-> *The following text is extracted and transformed from the audiosparx.com privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612214243id_/http%3A//www.audiosparx.com/sa/legal/privacy_policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the audiosparx.com privacy policy that was archived on 2015-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151212192514id_/http%3A//www.audiosparx.com/sa/legal/privacy_policy.cfm) for the most accurate reproduction.*
 
 # AudioSparx Privacy Policy
 
----  
-  
-**Privacy Policy of AudioSparx  **
+We know that you care how your information is used, and we appreciate your trust that we will use it carefully and sensibly. This notice describes our privacy policy. **
 
-We know that you care how your information is used, and we appreciate your trust that we will use it carefully and sensibly. This notice describes our privacy policy. **By visiting us, you are accepting the privacy policy described below.**
+By using this website, you are tacitly accepting the privacy policy described below.
 
-** 1.  What Personal Information Do We Collect and Save?**
+**   
+ 
+
+ ** 1.  What Personal Information Do We Collect and Save?**
 
   * **Information You Provide.**  We receive and store information you enter.  For example, when you search for or buy a product, or when you supply information such as your address, phone number or credit card.  You can choose not to provide certain information, but then you might not be able to take advantage of some of our features.  We collect and save the information that you provide for such purposes as responding to your requests, customizing future shopping for you, improving our website, and communicating with you.    
  
@@ -19,7 +20,8 @@ We know that you care how your information is used, and we appreciate your trust
 
 
 
-** 2.  How Do We Use Your Information?**
+**   
+2.  How Do We Use Your Information?**
 
   * **Customized Shopping.   **We use your information to better serve you by providing a customized shopping experience. We operate multiple different web sites which all share a common database, hence information you enter on one web site will be available for your immediate use on the other web sites as applicable.  This includes client sign-in account information, credit card information, shipping information and various other relevant information.    
  
@@ -37,7 +39,8 @@ We know that you care how your information is used, and we appreciate your trust
 
 
 
-** 3.  How Do We Protect the Security of Your Information?**
+**   
+3.  How Do We Protect the Security of Your Information?**
 
   * We work to protect the security of your information during transmission by using Secure Sockets Layer (SSL) software, which encrypts information you input.   
  
@@ -57,28 +60,36 @@ We know that you care how your information is used, and we appreciate your trust
 
 
 
-**4.   Your Choice:  Opt-in or Opt-out.**
+**  
+4.   Your Choice:  Opt-in or Opt-out.**
 
-> It is your choice whether to receive emails or special offers from us about sales promotions and new music libraries that are added to our site.  
->  By default, newly registered clients are opted-in.  During registration, to not receive the emails, please opt-out.
+It is your choice whether to receive emails or special offers from us about sales promotions and new music libraries that are added to our site.  By default, newly registered clients are opted-in.  During registration, to not receive the emails, please opt-out.
 
-** 5.  Children**
+**   
+5.  Children  
+ **
 
->  We do not sell products or services to children. If you are under 18, you may use this site only with involvement of a parent or guardian.
+We do not sell products or services to children. If you are under 18, you may use this site only with involvement of a parent or guardian.  
+ 
 
-** 6.  Other Websites**
+**   
+6.  Other Websites  
+ **
 
-> Various Web sites may be linked to from this site.  If you click through to another web site, your privacy depends on the policy of that site.  We strongly urge you to check their privacy policy.  Not all sites guarantee that they will not share your personally identifiable information with others.  You may also wish to consult privacy guidelines such as those recommended by the Online Privacy Alliance ([www.privacyalliance.org](http://www.privacyalliance.org/)).
+Various Web sites may be linked to from this site.  If you click through to another web site, your privacy depends on the policy of that site.  We strongly urge you to check their privacy policy.  Not all sites guarantee that they will not share your personally identifiable information with others.  You may also wish to consult privacy guidelines such as those recommended by the Online Privacy Alliance ([www.privacyalliance.org](http://www.privacyalliance.org/)).  
+ 
 
-** 7.  Contact Us**
+**   
+7.  Contact Us  
+ **
 
-> If you ever need assistance with the features, products or services offered on this web site, please contact us at [ info@audiosparx.com](mailto:info@audiosparx.com) and we will be happy to assist you. 
+If you ever need assistance with the features, products or services offered on this web site, please contact us at [ info@audiosparx.com](mailto:info@audiosparx.com) and we will be happy to assist you.    
+ 
 
-** 8.  Reserved Rights**
+**   
+8.  Reserved Rights  
+ **
 
-> We reserve the right to modify this policy in the future.
+We reserve the right to modify this policy in the future.
 
-*************************************  
-  
-  
-
+*************************************
