@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the drugstorenews.com privacy policy that was archived on 2015-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150613165637id_/http%3A//www.drugstorenews.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drugstorenews.com privacy policy that was archived on 2015-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151212142400id_/http%3A//www.drugstorenews.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Drug Store News
 
@@ -22,7 +22,7 @@ Using the e-mail addresses provided at registration, Lebhar-Friedman, Inc. perio
 
 3\. With whom does Lebhar-Friedman, Inc. share the information it gathers/tracks?
 
-Lebhar-Friedman, Inc. may share information with carefully selected companies who we think can offer services and products of interest to you. If you do not wish to have your information shared with these companies, write to us at [webmaster@lf.com](mailto:webmaster@lf.com).
+Lebhar-Friedman, Inc. may share information with carefully selected companies who we think can offer services and products of interest to you. If you do not wish to have your information shared with these companies, write to us at [webmaster@lf1925.com](mailto:webmaster@lf1925.com).
 
 Although we will only share information with carefully selected companies, we cannot guarantee that your personal information will never be disclosed to other third parties. By way of example, without limiting the foregoing, we may be forced to disclose information to the government under certain circumstances, or third parties may unlawfully intercept or access transmissions or private communications, or might disclose your information to other sites as part of offering additional functionality to you. Additionally, we can (and you authorize us to) disclose your personal information to private entities, law enforcement or other government officials as we, in our sole discretion, believe necessary or appropriate. Therefore, we do not promise that your personal information will remain private.
 
@@ -52,4 +52,4 @@ If your children disclose information about themselves in our public discussion 
 
 This Privacy Policy may be modified from time to time; notice of changes will appear on this page, so check back often. Any such changes will be prospective, never retroactive.
 
-If you have concerns or questions about any aspect of this policy, please e-mail our Privacy Policy Coordinator at [webmaster@lf.com](mailto:webmaster@lf.com). We welcome your feedback.
+If you have concerns or questions about any aspect of this policy, please e-mail our Privacy Policy Coordinator at [webmaster@lf1925.com](mailto:webmaster@lf1925.com). We welcome your feedback.
