@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the download-youtube-videos.org privacy policy that was archived on 2015-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150407185358id_/http%3A//vixy.net/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the download-youtube-videos.org privacy policy that was archived on 2015-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151212232157id_/http%3A//vixy.net/privacy_policy.php) for the most accurate reproduction.*
 
 # Vixy Privacy Policy
 
