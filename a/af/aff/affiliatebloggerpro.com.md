@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the affiliatebloggerpro.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607130556id_/http%3A//affiliatebloggerpro.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the affiliatebloggerpro.com privacy policy that was archived on 2015-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151212213131id_/http%3A//affiliatebloggerpro.com/privacy-statement) for the most accurate reproduction.*
 
-# Rosalind Gardner's Academy » Privacy Statement
+# Affiliate Blogger PRO » Privacy
 
 Thank you for visiting AffiliateBloggerPro (“Affiliate Blogger Pro”) e-commerce Internet web site (“Site”) located at the URL www.affiliatebloggerpro.com. This Privacy Policy details certain policies implemented throughout Affiliate Blogger Pro governing Affiliate Blogger Pro’s use of personally identifiable information provided to Affiliate Blogger Pro via this Site.
 
