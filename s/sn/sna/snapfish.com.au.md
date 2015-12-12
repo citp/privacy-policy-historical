@@ -1,183 +1,130 @@
-> *The following text is extracted and transformed from the snapfish.com.au privacy policy that was archived on 2011-03-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110301094741id_/http%3A//www.snapfish.com.au/snapfishau/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the snapfish.com.au privacy policy that was archived on 2015-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151212141400id_/http%3A//www.snapfish.com.au/snapfishau/privacy) for the most accurate reproduction.*
 
-# Privacy
+# PrivacyStatement
 
-  
+Snapfish takes your privacy very seriously. This Privacy Policy describes exactly how Snapfish uses the Customer Information, defined below, that we collect from our customers. For the purposes of this Privacy Policy, "Snapfish" means Snapfish2 LLC and any successors to the assets or business of Snapfish2 LLC and a "customer" is a person who uses the Snapfish Service (as defined below) or engages with us via our web site, located at [www.snapfish.com.au](http://www.snapfish.com.au/), our native apps and any mobile platform (the "Site"). If you have questions or concerns regarding this statement, you should first contact our [Customer Service](http://snapfish-au.custhelp.com/app/home/brand/55/brand_host/www4.snapfish.com.au) department. This Privacy Policy is effective as of June 1, 2015.
 
+By using the services made available by Snapfish via the Site ("Snapfish Service"), you consent to the collection, use and disclosure of information in the manner described below. If we decide to change the manner in which we use Customer Information, we will notify you via a post on this page. Please check this page from time to time for changes to make sure you are kept up-to-date on our use of the information collected from our customers.
 
-* * *
+**What Customer Information does Snapfish collect?**
 
-HP respects your privacy
+Customer Information is defined as identifiable information regarding our customers, such as name, address, or email address. The type of information we request depends upon the type of service you are using.
 
-HP and its subsidiaries respect your privacy. This Privacy Statement informs you of our privacy practices and of the choices you can make about the way your information is collected online and how that information is used. This statement is readily available on our home page and at the bottom of every HP Web page. Some HP Web pages are [P3P-enabled](http://welcome.hp.com/country/au/en/privacy/p3p_popup.html), which allows you additional control over your personal information.
+For example:
 
-HP is a founding sponsor of the Council of Better Business Bureau's [BBBOnLine](http://www.bbb.org/online/) Privacy Program for privacy certification. HP privacy practices meet the requirements of the Privacy Program and we are proud to display the BBBOnLine Privacy Seal. 
+When you want to upload digital pictures or view others' pictures on the Site, we will ask you to provide your first and last name, an email address and a password. We will use this information to create your account so that you can maintain all of your Snapfish activity in a centralized area. 
 
-[](http://www.bbb.org/online/)
+We will collect the pictures that you upload from your computer or from your social media pages, as well as the information about your social media pages.
 
-HP has also self-certified its privacy practices as consistent with U.S.-E.U. Safe Harbor principles: Notice, Choice, Onward Transfer, Access and Accuracy, Security, and Oversight/Enforcement. More information about the U.S. Department of Commerce Safe Harbor Program can be found at <http://www.export.gov/safeharbor/>
+When you want to share your pictures with others ("Invitees"), we will ask for email addresses and mobile phone numbers of your Invitees. You must ensure that all images shared comply with our [Terms of Use](https://web.archive.org/termsAndConditions). Namely, you must only share photos where you have the appropriate rights to the images and you have reasonable grounds for believing that the people pictured in the photos would consent to their images being shared. Further, you must only provide the email addresses and mobile phone numbers of your Invitees when you have the Invitees' consent or your relationship is such that the Invitee would consent to receiving the email or being contacted by phone. 
 
-HP is a licensee of the TRUSTe Web Privacy Seal Program. TRUSTe is a worldwide, independent, organization whose mission is to build user's trust and confidence in the Internet by promoting the use of fair information practices. Because HP wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.  
+When you complete a purchase from Snapfish, we will ask you to provide shipping and billing information so that we can fulfill your request. 
 
+When you contact us, we will collect your name and e-mail address in order to respond to your questions or concerns.
 
-[](http://www.truste.org/ivalidate.php?companyName=Hewlett-Packard&sealid=101&lang=en)
+You also give information when you answer survey questions and organize your photos on Snapfish with titles, captions, categories, etc.
 
-The TRUSTe program only covers the information that is collected through the Web site at [www.hp.com](http://www.hp.com/) and [www.hewlettpackard.com](http://www.hewlettpackard.com/). The TRUSTe program **does not** cover information that may be collected through any software downloaded from this Web site.
+We or our service providers may also collect information relating to your devices, including your device model, operating system, browser type, unique device identifier, IP address, mobile phone number, mobile network carrier, location, and event information (such as application installations). This information may be personally identifiable, or non-personally identifiable. 
 
-If you have questions or concerns regarding this statement, you should first contact HP using the contact information included at the end of this statement. If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you may contact TRUSTe at <http://www.truste.com/consumers/watchdog_complaint.php> non-HP site . TRUSTe will then serve as a liaison with HP to resolve your concerns.
+Snapfish may receive information about you from third parties. For example, if you access the Site through a third-party connection or log in, for example, that third party may pass certain information about your use of its service to Snapfish. As mentioned below, any information that you submit to a third party would be subject to the policies of that party.
 
-  1. Sites covered by this Privacy Statement
-  2. Collection of personal information
-  3. How we use your information
-  4. How we share your information
-  5. Children's privacy
-  6. Your choices and selecting your privacy preferences
-  7. Access to and accuracy of your information
-  8. Keeping your information secure
-  9. Changes to this statement
-  10. Contacting us
+**How does Snapfish use Customer Information?**
 
+Our primary goal in collecting your Customer Information is to provide you with a personalized, relevant, user-friendly experience. Here are the ways we use Customer Information to enhance this experience:
 
+**Complete a Transaction: We use Customer Information to complete a transaction requested by you or perform after-sales services.** We also may use this information to keep track of your purchases or notify you of any product or service that we believe may be of interest to you. 
 
-How HP uses automatic data collection tools:
+**Customer Communication: We use Customer Information to communicate with you and we consider this communication to be an integral part of the Snapfish Service.** We use your email, mailing address and mobile number to inform you of Site improvements, feature announcements, newsletters, Snapfish promotional offers, and occasional third-party promotional offers that may be of interest to you. We use mobile phone numbers to share pictures to mobile phones or to enable access to customer accounts from mobile phones. Only Snapfish (or agents working on behalf of Snapfish under confidentiality agreements) will send you these mailings or use your mobile phone numbers for these purposes. 
 
-  * [Cookies](http://welcome.hp.com/country/au/en/privacy/cookies_beacons.html#cookies)
-[ ](http://welcome.hp.com/country/au/en/privacy/cookies_beacons.html#cookies)
-  * [](http://welcome.hp.com/country/au/en/privacy/cookies_beacons.html#cookies)[Web beacons](http://welcome.hp.com/country/au/en/privacy/cookies_beacons.html#wb)
-[ ](http://welcome.hp.com/country/au/en/privacy/cookies_beacons.html#wb)
-  * [](http://welcome.hp.com/country/au/en/privacy/cookies_beacons.html#wb)[Embedded web links](http://welcome.hp.com/country/au/en/privacy/cookies_beacons.html#ewl)
-[ ](http://welcome.hp.com/country/au/en/privacy/cookies_beacons.html#ewl)
-  * [](http://welcome.hp.com/country/au/en/privacy/cookies_beacons.html#ewl)[HP ads on third party websites](http://welcome.hp.com/country/au/en/privacy/cookies_beacons.html#hptpw)
-[ ](http://welcome.hp.com/country/au/en/privacy/cookies_beacons.html#hptpw)
-  * [](http://welcome.hp.com/country/au/en/privacy/cookies_beacons.html#hptpw)[Information gathering tools](http://welcome.hp.com/country/au/en/privacy/cookies_beacons.html#igt)
-[ ](http://welcome.hp.com/country/au/en/privacy/cookies_beacons.html#igt)
+**Customer Satisfaction: We use Customer Information to make your Snapfish experience enjoyable.** For example, because we know who you are after you log in, we can present you with the right set of albums in your password-protected account. We also know where to email you to let you know your photos are ready for viewing online. In addition, we may use your photos in emails we send to you to inspire you to explore old or discover new creative ideas.
 
+**Social Media: We may use Customer Information to connect you with external applications, such as social media web sites or platforms.**
 
-[ ](http://welcome.hp.com/country/au/en/privacy/cookies_beacons.html#igt) **1\. Sites covered by this Privacy Statement**  
-HP is a global organization, with legal entities, business processes, management structures, and technical systems that cross borders. This Privacy Statement applies to all HP-owned websites and domains and the websites and domains of our wholly owned subsidiaries ("HP website"), except that a privacy policy or statement posted on HP websites specific to a particular HP program or service will apply instead of this Privacy Statement. 
+**Customer Convenience: We use Customer Information to provide you with the convenience of easy access to the services you request.** We may collect information during the shopping experience to make purchasing an easier and better experience for you. For example, if you give us permission to keep your billing information, you won't have to fill out the shipping and billing address each and every time you purchase. For a merchandise purchase, we will ask for final confirmation before charging your credit card. 
 
-**Links to non-HP websites:**  
-The HP website may provide links to third-party websites for your convenience and information. If you access those links, you will leave the HP website. HP does not control those sites or their privacy practices, which may differ from HP's practices. We do not endorse or make any representations about third-party websites. The personal data you choose to provide to or that is collected by these third parties is not covered by the HP Privacy Statement. We encourage you to review the privacy policy of any company before submitting your personal information.
+**With whom does Snapfish share Customer Information?**
 
-**2\. Collection of personal information**  
-To serve you better and understand your needs and interests, HP collects, exports, and uses personal information with adequate notice and consent, along with required filings with data protection authorities, when applicable. For example, when you order products or services, apply for instant credit, request information, subscribe to marketing or support materials, register yourself or your HP products, enter contests or participate in surveys, or apply for a job at HP, we will ask you to provide personal information to complete these transactions. The types of personal information you provide to us on these pages may include contact information such as your name, address, telephone number, and email address; financial information such as your credit card number; and other unique information such as user IDs and passwords, billing and transaction information, product and service preferences, contact preferences, educational and employment background, and job interest data. If you apply for instant credit, we will ask you to provide additional sensitive personal information such as salary, Social Security number and banking information. This information will be used by our financial services providers in determining whether to extend you credit.
+Snapfish shares Customer Information with third party intermediaries (for example, credit card authorization companies, photo processing labs, merchandise distributors, vendors processing our outbound email communication, etc.) who help us run the Snapfish Service and Site. Your Customer Information is provided to these third parties solely for the purpose of providing you the services you request at the time that you request them. Third party intermediaries do not store, retain, access or otherwise use your Customer Information other than as necessary to provide you with the Snapfish Service. In the case where Snapfish operates a "co-branded" website or marketing initiative with a Partner, which may be a third party that is joining Snapfish on a customer offer, then Snapfish reserves the right to share basic information such as email address and other contact information with the Partner. 
 
-If you choose to use a tell-a-friend program on our site, we will ask you for your friend's e-mail address and automatically send your friend a one-time e-mail inviting your friend to visit the site. HP uses and stores this information only for the purpose of sending this one-time e-mail and to provide tell-a-friend message blocking, where available.
+We may disclose Customer Information to a third party to (a) comply with laws or respond to lawful requests and legal process, (b) to protect Snapfish, and our agents, customers, and others from legal claims or actions, including claims of fraud or to enforce our agreements, policies and terms of use or (c) in the good faith belief that disclosure is needed to respond to an emergency, or protect the personal safety of any person. 
 
-In addition to the information you provide, HP may also collect information during your visit to an HP website through our Automatic Data Collection Tools, which include Web beacons, cookies, embedded Web links, and other commonly used information-gathering tools. These tools collect certain standard information that your browser sends to our website such as your browser type and language, access times, and the address of the website from which you arrived at an HP website. They may also collect information about your Internet Protocol (IP) address, clickstream behavior (i.e. the pages you view, the links you click, and other actions you take in connection with HP websites) and product information. An IP address is a number that is automatically assigned to your computer whenever you are surfing the Web, allowing Web servers to locate and identify your computer. Computers use IP addresses to communicate on the Internet, allowing users to browse and shop. HP may also use some of these Automatic Data Collection Tools in connection with certain emails sent from HP and therefore may collect information using these tools when you open the email or click on a link contained in the email. To learn more, read [How HP uses automatic data collection tools.](http://welcome.hp.com/country/au/en/privacy/cookies_beacons.html)
+From time to time, the Site may include collaboration features that by their nature support sharing Customer Information with Invitees that you identify. Those users can see your name, email address, information you add to your profile, and any files you choose to share; and they can post comments and email you.
 
-HP also collects information from commercially available sources that it deems credible. Such information may include your name, address, email address and demographic data. The information HP collects from its commercial sources may be used along with the information HP collects when you visit HP's websites. For example, HP may compare the geographic information acquired from commercial sources with the IP address collected by Automatic Data Collection Tools to derive your general geographic area.
+We may share Customer Information in connection with an acquisition, merger, or sale of all or a substantial portion of our business, with or to another company. In any such event, you will receive notice if your Customer Information is transferred and becomes subject to a substantially different privacy policy. In the event that all or part of our assets are sold or acquired by another party, or in the event of a merger, you grant us the right to assign the Customer Information collected via the Site.
 
-**3\. How we use your information**  
-The information HP collects to understand your needs and interests helps HP deliver a consistent and personalized experience. For example, HP may use your information to 
+We may have to share your Customer Information with unaffiliated third-party service providers, agents or independent contractors who help us maintain the Site and provide other administrative services to us (including, but not limited to providing customer service, maintaining and analyzing data, sending customer communications on our behalf, and entry collection, winner selection and prize fulfillment for contests, sweepstakes and other promotions). We seek to ensure that these unaffiliated third parties will not use the Customer Information for any other purpose than to provide the administrative services for which they are responsible.
 
-  * assist you in completing a transaction or order;
-  * prevent and detect fraud or other malicious activity;
-  * communicate with you about products and services;
-  * provide service and support;
-  * update you on new services and benefits;
-  * provide personalized promotional offers;
-  * select content to be communicated to you;
-  * personalize some HP websites;
-  * allow you to participate in contests and surveys; and
-  * contact you for market research regarding HP products or services.
+Other than as described in the previous paragraphs, Snapfish will not sell, rent or otherwise share Customer Information with a third party without your knowledge and consent. If you do not want your Customer Information shared in such an instance we will provide you with the option of telling us not to share it.
 
+**Who sees your photos after they have been posted online?**
 
+You, your Invitees and their Invitees can see your albums online. An "Invitee" is defined as anyone who is invited to the Site to see an album. Anyone who is invited to see an album online must provide an email address and a password to access the Site and view a shared album. When you choose to share your online images with Invitees, those individuals will be able to view your album. If you don't want your Invitees to invite other people to see the album, you can restrict their ability to do so on the album invitation. That will prohibit them from re-sharing the album from within their account on the Site. However, as with any email, your Invitees could forward the email invitation to others, who will then be able to click on the link to the album within the email, and see the pictures too.
 
-We will give you the opportunity to choose your privacy preferences regarding the communications we send (see Your choices and selecting your privacy preferences).
+Snapfish employees or employees of partner companies that provide services to Snapfish may see your photos while they printed and packaged. In addition, your photos or personal account information may be seen by Snapfish employees or service providers in order to evaluate, validate, or correct problems with your account.
 
-The testimonials posted on our Web site are only posted with the expressed permission of the individual or company who provided that testimonial.
+**Does Snapfish send text messages?**
 
-Credit card information is used only for payment processing and fraud prevention. Credit card information and other sensitive personal information required to process a credit decision is not used for any other purpose by our financial services providers or HP and will not be kept longer than necessary for providing the services, unless you ask us to retain your credit card information for future purchases. 
+Yes! By using the Site and providing your mobile phone number, you hereby consent to receive autodialed and/or pre-recorded text messages from or on behalf of us at the mobile number that you provide at sign-up. You understand that consent to receiving messages on your mobile device is not a condition of purchase and understand that message and data rates may apply. Additionally, should you choose to stop receiving such messages, you can contact us directly at [support@snapfish.com.au](mailto:support@snapfish.com.au) or reply STOP to a text messages once it is received. However, you hereby consent to receiving a confirmatory message in response to your STOP request.
 
-**4\. How we share your information**  
-HP will not sell, rent or lease your personal information to others except as described in this Statement. HP shares personal information in the following ways:
+**Does Snapfish use non-personally identifiable information?**
 
-HP retains service providers and suppliers to deliver complete products, services and customer solutions and to assist HP with marketing and communication initiatives. These providers and suppliers include, for example, credit card processors, providers of customer support and live-help, email service providers, automated data processors, and shipping agents. Suppliers and service providers are required by contract to keep confidential the information received on behalf of HP and may not use it for any purpose other than to carry out the services they are performing for HP. 
+Yes, Snapfish uses non-personally identifiable information as follows:
 
-From time to time, HP participates in marketing initiatives with other companies. As part of these initiatives, certain HP services and marketing communications are delivered at the same time as those from other companies. Some of these services and communications offer you the option to share personal information with both HP and the other companies participating in these initiatives. For example, you may receive marketing communications from HP and other companies or have the opportunity to register online for software products from multiple companies. If you choose to provide personal information only to HP, HP will not share this information with the other companies participating in that marketing initiative. If you choose to provide personal information to the other companies, that personal information will be handled according to the privacy policy of those companies. 
+_**IP Addresses:**_ An IP address is literally your computer's address and is a unique identifier, allowing online information to be sent to the right place. We use IP addresses to better understand the customer database. We use your IP address to help diagnose problems with our server and to administer the Site. Your IP address is also used to gather broad demographic information such as geographic distribution of our members. We do not intentionally link your IP address to your personally identifiable information.
 
-HP will require the export of your personal information to other HP-owned business entities in the US and Worldwide in accordance with this Statement to satisfy your request. Such export is a requirement of providing the information to HP.
+_**Snapfish Cookies:**_ The job of a cookie is to record only information you volunteer to us upon registering or visiting the site. Cookies are tiny files placed onto the hard drive of your computer the first time you visit the Site that enable our server to recognize or "remember" who you are next time you come back. Snapfish cookies are not tied to personally identifiable information. Currently, Snapfish intends to make only limited use of cookies for the purpose of delivering content and ads specific to your interests. For instance cookies may be used to retain your personal preferences, hold session information for a "shopping cart" or save your password so it doesn't have to be re-entered each time you log in.
 
-Except as described in this Statement, HP will not share the personal information you provide to HP with non-HP third parties without your permission, unless to: (i)respond to duly authorized information requests of police and governmental authorities; (ii)comply with any law, regulation, subpoena, or court order; (iii)help prevent fraud or to enforce or protect the rights and properties of HP or its subsidiaries; or (iv)protect the personal safety of HP employees and third parties on HP property.   
-Circumstances may arise where, whether for strategic or other business reasons, HP decides to sell, buy, merge or otherwise reorganize businesses in some countries. Such a transaction may involve the disclosure of personal information to prospective or actual purchasers, or the receipt of it from sellers. It is HP's practice to seek appropriate protection for information in these types of transactions.
+_Advice on Limiting Cookies:_ You have a choice with respect to cookies. By modifying your browser preferences, you can accept all cookies, be notified when a cookie is set or reject all cookies. If you choose to reject all cookies, you may be unable to use certain services. Please consult your browser instructions for information on how to modify your choices about cookies.
 
-**5\. Children's privacy**  
-HP does not knowingly collect information from children under the age of 13 and does not target its websites to children under 13. We encourage parents and guardians to take an active role in their children's online activities and interests. 
+**Clear Gifs (Web Beacons/Web Bugs):** We use a software technology called clear gifs (a.k.a. Web Beacons/Web Bugs) to help us better manage content on the Site by informing us what content is effective. Clear gifs are tiny graphics with a unique identifier that are used to track the online movements of Web users. Clear gifs are not tied to users' personally identifiable information.
 
-**6\. Your choices and selecting your privacy preferences**  
-HP gives you the choice of receiving a variety of information that complements our products and services. You can subscribe to receive certain product- and service-specific information and also choose to receive HP general communications. We give you a choice regarding delivery of HP general communications by postal mail, email and telephone. 
+**Non Personally Identifiable Information used through Affiliate Programs.** Snapfish uses clear gifs in combination with cookies to support affiliate programs administered by 3rd party companies. These programs allow other web services to offer special Snapfish deals to their customers. When a customer signs-up for the Snapfish service via an affiliate link on a non-Snapfish web site, we display a clear gif which causes a cookie to be passed to the 3rd party administrator for accounting purposes.
 
-You can make or change your choices about receiving either subscription or general communications at the data collection point or by using other methods, which are listed in the following sections. This option does not apply to communications primarily for the purpose of administering order completion, contracts, support, product safety warnings, driver updates, or other administrative and transactional notices as the primary purpose of these communications is not promotional in nature. 
+That means, for example, that if a person visited "www.companyX.com" and from "www.companyX.com" clicked on a "Sign-up for Snapfish" link and completed the Snapfish sign-up process, we would display a clear gif causing a cookie to be transferred to the affiliate program administrator. This cookie contains an ID number that tells the 3rd party administrator that a new user was sent to Snapfish from "www.companyX.com" The clear gif and the cookie are not tied to users' personally identifiable information.
 
-The email communications that you receive from HP will be provided in accordance with this statement. Some email communications may utilize automatic data collection tools. To learn more, read [How HP uses automatic data collection tools](http://welcome.hp.com/country/au/en/privacy/cookies_beacons.html). 
+**HTML Newsletters**  
+We use clear gifs in our HTML-based emails to let us know which emails have been opened by the recipients. This allows us to gauge the effectiveness of certain communications and the effectiveness of our marketing campaigns. If users would like to opt-out of these emails, please see the Opt-out section.
 
-**Subscription communications:**  
-Subscription communications include email newsletters, software updates, etc. that may be expressly requested by you or which you consented to receive. After you request such communications, you may opt out of receiving them by using one of the following methods:
+**Device Identifiers**  
+When you access the service through a mobile device, we may access, collect, monitor and/or remotely store such device identifiers as "universally unique identifiers (UUID)". These are small data files stored on or associated with your mobile device. This may be used to help you log in faster and enhance your navigation of the Snapfish Service.
 
-  * Select the email "opt out" or "unsubscribe" link, or follow the opt-out instructions included in each subscription communication.
-  * Return to the Web page(s) where you originally registered your preferences and follow the opt-out instructions. Access to many HP subscriptions is available at the [Subscriber's Choice web page](http://www.hp.com/united-states/subscribe/gateway/).
-  * Write to the [HP Privacy Office](http://welcome.hp.com/country/us/en/privacy/privacy_contact.html). Be sure to provide your name, email and postal address, and specific relevant information about the HP subscriptions that you no longer wish to receive.
+**What are the safeguards and security procedures in place to protect your information from loss, misuse, or alteration?**
 
+Your Customer Information on the Snapfish Service is password-protected. We strongly recommend that you do not give your password to anyone and that you change it every 3 months. You may edit your Snapfish account information by using your Snapfish member name and password.
 
+If you are using a public computer (public library, school computer, etc.) or a shared computer (family computer, roommate's computer, etc.), we strongly recommend that you sign out of your Snapfish account and close your browser before getting up and moving away from the computer. This will prevent others from accessing your account and personal information. Please note that because our company is particularly sensitive to protecting information about children on the Internet, kids under 13 are not eligible to be members of Snapfish. However, we encourage parents to use our service as a family activity with their children and to carefully monitor any Internet activities (including use of the Snapfish Service) engaged in by their kids. Snapfish employs SSL - a specialized encryption and security technology -- to protect your Customer Information. We understand that this is especially important when there is an exchange of credit card, billing and password information. In addition, we limit access of Customer Information to only those employees who need it to carry out their jobs.
 
-Please be aware that when you opt out of receiving certain subscription communications, it may affect the services you have chosen to receive from HP where accepting the communications is a condition of receiving the services. 
+**Snapfish will never ask you for your password in an unsolicited phone call, an unsolicited email, or SMS.** You will only be asked for your member name and password when you initiate the contact and only if the member name and password are necessary to correct a service problem.
 
-**HP general communications:**  
-HP general communications provide information about products, services, and/or support. This may include new product information, special offers, or invitations to participate in market research. 
+**How can you update or correct Customer Information?**
 
-You will often be able to use [HP Passport](https://passport2.hp.com/hppcf/modifyuser.do?lang=en&cc=au&hpappid=privacy) to indicate whether you want to receive general communications from HP. HP Passport is a single-login service that lets you register with HP Passport-enabled websites using a single-user identifier and password of your choice. HP Passport uses cookies to store your basic personal information so you don't have to retype it when you return to one of HP's many websites in the future. HP Passport also allows you to set your privacy preferences. Your preferences will apply across HP websites, email, and other communication vehicles that use HP Passport.
+Customer Information that you provide during registration is available in your Snapfish online account. To edit your Customer Information, you must enter your email address and password to access your account. You may edit your account information at any time.
 
-If you are unable to use HP Passport, you may opt out of receiving these general communications by using one of the following methods:
+You can also cancel your Snapfish membership by contacting support@snapfish.com.au. If you request cancellation of your account, Snapfish may (but is not required to) remove any and all content (photos) or other personal information from the Site, and your photos may not be accessible to you even if you choose to rejoin or reactivate your account at a later date. Information necessary for the purposes of maintaining business records regarding a cancelled account, including records of credit transactions and account ownership, will be retained in accordance with applicable law.
 
-  * Select the email "opt out" or "unsubscribe" link, or follow the opt-out instructions included in each communication.
-  * Write to the [HP Privacy Office](http://welcome.hp.com/country/us/en/privacy/privacy_contact.html). Be sure to provide your name, email and postal address, and specific relevant information about your privacy preferences.
+**What about International visitors or transfers of information?**
 
+If you choose to provide us with your Customer Information, Snapfish may transfer that information to affiliates, partners, or to other third parties, across borders, and from your country or jurisdiction to other countries or jurisdictions around the world. If you are visiting from the European Union or other regions with laws governing data collection and use that may differ from U.S. law, please note that you are transferring your Customer Information to the United States which does not have the same data protection laws as the EU and by providing your Customer Information you consent to:
 
+  * • the use of your Customer Information for the uses identified above in accordance with this privacy policy; and 
+• the transfer of your Customer Information to the United States as indicated above. 
 
-**7\. Access to and accuracy of your information**  
-HP strives to keep your personal information accurately recorded. We have implemented technology, management processes and policies to help maintain data accuracy. HP provides individuals with reasonable access to personal information that they provided to HP and the reasonable ability to review and correct it or ask for anonymization, blockage, or deletion, as applicable. To protect your privacy and security, we will also take reasonable steps to verify your identity, such as requiring a password and user ID, before granting access to your data. To view and change the personal information that you directly provided to HP you can return to the Web page where you originally submitted your data and follow the instructions on that Web page, use [HP Passport](https://passport2.hp.com/hppcf/modifyuser.do?lang=en&cc=au&hpappid=privacy) where enabled, or contact the [HP Privacy Office](http://welcome.hp.com/country/us/en/privacy/privacy_contact.html). 
 
-**8\. Keeping your personal information secure**  
-HP takes seriously the trust you place in us. To prevent unauthorized access or disclosure, to maintain data accuracy, and to ensure the appropriate use of the information, HP utilizes appropriate physical, technical and administrative procedures to safeguard the information we collect. 
+**Other Information for our visitors:**
 
-When collecting or transferring sensitive information such as credit card information we use a variety of security technologies and procedures to help protect your personal information from unauthorized access, use, or disclosure. The personal information you provide us is stored on computer systems located in controlled facilities which have limited access. When we transmit highly confidential information (such as credit card number or password) over the internet, we protect it through the use of encryption, such as the Secure Socket Layer (SSL) protocol.
+**Links from the Snapfish Site:** If you leave the Site to visit the site of any third party advertiser or sponsor, you may be asked for your credit card or other personal information in order to purchase or use products and services offered. These companies have their own privacy and data collection practices. As described above, Snapfish has no responsibility or liability for these independent policies. You should therefore review their privacy policies carefully if you have concerns about how your information may be used.
 
-Credit card numbers are used only for processing payments and are not used for other purposes. As part of real-time payment processing, HP subscribes to a fraud management service. This service gives you and HP an extra level of security to guard against credit card fraud and to protect your financial data. 
+**How We Respond To Do Not Track Signals:** Please note that the Site does not support "Do Not Track" browser settings and we do not currently participate in any "Do Not Track" frameworks that would allow us to respond to signals or other mechanisms from you regarding the collection of your information.
 
-**9\. Changes to this statement**  
-If we change our privacy statement, we will post the revised statement here, with an updated revision date. If we make significant changes to our statement, we may also notify you by other means, such as sending an email or posting a notice on our home page.
+**Notification of Change:** If we are going to use your Customer Information in a manner that is materially different from that stated at the time of collection, we will notify you via email. In addition, if we make any material changes in our privacy practices that do not affect user information already stored in our database, we will notify you of the change. In some cases where we post the notice, we will also email users who have opted to receive communications from us, notifying them of the changes in our privacy practices.
 
-**10\. Contacting us**  
-We value your opinions. If you have comments or questions about our privacy statement, please send them to the [HP Privacy Office](http://welcome.hp.com/country/us/en/privacy/privacy_contact.html) or write to us at the following address:
+**Choice of Law & Arbitration: **This Privacy Policy is governed by and construed in accordance with the laws of the State of California, in the United States, exclusive of its choice of law rules. Further, except where prohibited, you agree that: (1) any and all disputes, claims and causes of action arising out of your use of this Privacy Policy will be resolved individually, without resort to any form of class action, and shall be submitted to the alternative dispute resolution service, JAMS, for binding arbitration under its rules then in effect in the California area and determined by one (1) arbitrator to be mutually agreed upon by both parties, with the parties agreeing to share equally in the arbitration costs; (2) any and all claims, judgments and awards shall be limited to actual out-of-pocket costs incurred, including costs associated with use of the Snapfish web site and services, but in no event attorneys' fees; and (3) under no circumstances will you be permitted to obtain awards for, and, by using the Snapfish web site and services, you waive all rights to claim, indirect, punitive, incidental and consequential damages and any other damages, other than for actual out-of-pocket expenses, and any and all rights to have damages multiplied or otherwise increased. Please note that this arbitration provision shall survive the termination of your relationship with us. If, for any reason, this arbitration provision is not upheld, the exclusive forum and venue to resolve any disputes arising out of or otherwise relating to this Privacy Policy or the Snapfish web site or services will be in the state and federal courts of California.
 
-**Canada, Latin America, and United States:**  
-HP Privacy Mailbox   
-11445 Compaq Center Drive W.  
-MS 040307   
-Houston, Texas 77070  
-USA 
+**Contacting Snapfish:** If you have any questions about our Privacy Policy, the practices of this site, or your dealings with this Web site, you can contact us at:
 
-**Europe, Middle East, and Africa:**  
-EMEA Privacy Office  
-Hewlett Packard  
-MS 250  
-1 Avenue du Canada  
-HP Les Ulis -91947 - France
+Snapfish Privacy  
+303 Second Street  
+South Tower, Suite 500  
+San Francisco, CA 94107
 
-**Asia-Pacific and Japan:**  
-HP APJ Privacy Office  
-Hewlett Packard  
-PO Box 384   
-Concord West, NSW 2138  
-Australia 
-
-**Rev. March 2008**
-
-© 2008 Hewlett-Packard Development Company, L.P.
-
-  
-
-
-  
-
+[Customer Service](http://snapfish-au.custhelp.com/app/home/brand/55/brand_host/www4.snapfish.com.au)
