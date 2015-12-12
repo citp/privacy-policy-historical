@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the icetemplates.com privacy policy that was archived on 2015-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150314234521id_/http%3A//icetemplates.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the icetemplates.com privacy policy that was archived on 2015-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151212170532id_/http%3A//icetemplates.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | IceTemplates – Wordpres Themes, Website Templates, Bootstrap Themes
+# Privacy Policy - IceTemplates
 
 General Privacy Policies
 
