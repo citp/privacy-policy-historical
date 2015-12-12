@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bloggersideas.com privacy policy that was archived on 2015-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150515053820id_/http%3A//www.bloggersideas.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bloggersideas.com privacy policy that was archived on 2015-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151213003328id_/http%3A//www.bloggersideas.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Bloggers Ideas
 
@@ -75,5 +75,3 @@ Contact Number: +918800446103
 ](http://www.bloggersideas.com/wp-content/uploads/2014/02/Jitendra-Vaswani-Signature.png)
 
 This Document was last Updated on 1/2/2015
-
-No related posts.
