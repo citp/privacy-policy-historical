@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the menakacard.in privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610082722id_/http%3A//menakacard.in/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the menakacard.in privacy policy that was archived on 2015-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151212033904id_/http%3A//menakacard.in/privacypolicy.php) for the most accurate reproduction.*
 
 # Menaka Card - Online Wedding Card Shop | Hindu Wedding Card|Christian Wedding Card|Muslim Wedding Card|Indian Wedding Card Portal
 
