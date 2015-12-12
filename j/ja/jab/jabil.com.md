@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the jabil.com privacy policy that was archived on 2015-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150511204128id_/http%3A//www.jabil.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jabil.com privacy policy that was archived on 2015-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151212044720id_/http%3A//www.jabil.com/privacy.html) for the most accurate reproduction.*
 
-# Jabil | Supply Chain Management, Design Services and Global Manufacturing Partner
+# Jabil | Safe Harbor and Online Users Privacy Policy Jabil Circuit, Inc.
 
 ## 1\. Purpose
 
