@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the activewin.com privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611092251id_/http%3A//www.activewin.com/terms/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the activewin.com privacy policy that was archived on 2015-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151212134153id_/http%3A//www.activewin.com/terms/privacy.shtml) for the most accurate reproduction.*
 
 # ActiveWin: Privacy Policy
 
@@ -198,8 +198,8 @@ Awards
   
 ** Credits**  
 ©1997-2012, Active Network, Inc. All Rights Reserved.  
-Please click [here](http://www.activewin.com/terms/index.shtml) for full terms of use and restrictions or read our [Privacy Statement](http://www.activewin.com/terms/privacy.shtml).  
-[here](http://www.replica-watch.us/ "Replica Watch")  
+Please click [here](http://www.activewin.com/terms/index.shtml) for full terms of use and restrictions or read our [**Light Tower**](http://www.valiantsolarlighttower.com/) [Privacy Statement](http://www.activewin.com/terms/privacy.shtml).  
+[here](http://www.watchesdish.com/ "Replica Watches")  
   
 [ ](http://www.amazon.com/exec/obidos/redirect-home/activedvd-20)
 
