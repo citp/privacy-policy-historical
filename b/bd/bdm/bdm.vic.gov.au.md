@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the bdm.vic.gov.au privacy policy that was archived on 2015-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150613192542id_/http%3A//www.bdm.vic.gov.au/footer/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bdm.vic.gov.au privacy policy that was archived on 2015-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151212074437id_/http%3A//www.bdm.vic.gov.au/footer/privacy) for the most accurate reproduction.*
 
 # Privacy - Births, Deaths & Marriages Victoria
 
 ## You are here:
 
-This page contains BDM's Website privacy statement. You can also read BDM's [Privacy policy](https://web.archive.org/utility/about+us/legislation+and+policies/privacy+policy/privacy+policy).  
+This page contains BDM's Website privacy statement. You can also read BDM's [Privacy policy](https://web.archive.org/utility/about+bdm/legislation+and+policies/privacy+policy/privacy+policy).  
  
 
 * * *
