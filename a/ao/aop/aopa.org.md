@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aopa.org privacy policy that was archived on 2015-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150613021620id_/http%3A//www.aopa.org/Privacy-Policy-Statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aopa.org privacy policy that was archived on 2015-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151212141443id_/http%3A//www.aopa.org/Privacy-Policy-Statement) for the most accurate reproduction.*
 
 # Privacy Policy - AOPA
 
@@ -19,11 +19,9 @@ AOPA has a dedicated Privacy Officer. If you ever have a question about this Pri
   * We collect medical information you provide to the Medical Department when you request assistance with medical certification issues.
   * We collect credit card information to process the orders you request such as membership and additional services.
   * We collect demographic information to help us learn member characteristics and needs.
-  * We monitor our website traffic and analyze which pages are popular, which are not, what areas of the country or the world our traffic is coming from, and the like, using “Cookies and Tracking Pixels.”4
+  * We monitor our website traffic and analyze which pages are popular, which are not, what areas of the country or the world our traffic is coming from, and the like, using “Cookies and Tracking Pixels.”4 The information we collect may help us deliver targeted advertising and communicate better with you.
 
 
-
-The information we collect helps us better communicate with you.
 
 #### Children's Privacy Policy
 
@@ -140,7 +138,7 @@ Please let us know your preferences by calling us at 800/USA-AOPA (872-2672), [u
 
 #### Affiliated companies1
 
-  * Companies related to Aircraft Owners and Pilots Association by common ownership or control.  They include companies with an “AOPA” name; such as The AOPA Foundation, Inc. (“AFI”), AOPA Service Corporation; AOPA Flight Technologies, Inc.; and AOPA Holdings Corporation. 
+  * Companies related to Aircraft Owners and Pilots Association by common ownership or control. They include companies with an “AOPA” name; such as The AOPA Foundation, Inc. (“AFI”), and AOPA Holdings Corporation. 
   * AOPA has two other Affiliated Companies that are required by law to have their own privacy policies. They are the AOPA Insurance Agency, Inc., an insurance brokerage company (not an insurance carrier) and the AOPA Aviation Finance Company, LLC, an aviation loan broker (not a lender).  You may view their privacy policies on their websites: [
     * AOPA Insurance Agency, Inc. privacy policy »
 ](http://insurance.aopa.org/about/legal)
@@ -162,9 +160,9 @@ Please let us know your preferences by calling us at 800/USA-AOPA (872-2672), [u
 
 #### Cookies and Tracking Pixels4
 
-  * Cookies are small files that your Web browser places on your computer’s hard drive. They allow us to see the time and date you visited, your IP address, the type of Internet browser you used, and what pages you viewed.  At no point does your actual identity become known. Most Web browsers allow you to decline to accept cookies.
+  * Cookies are small files that your Web browser places on your computer’s hard drive. They allow us to see the time and date you visited, your IP address, the type of Internet browser you used, and what pages you viewed.  At no point does your actual identity become known.  This information may be collected by or shared with third-party vendors and partners, such as Google.  AOPA may use tools, such as Google Analytics for Display Advertising and Remarketing. These tools allow AOPA to promote our products and services to website visitors after they have visited the AOPA website. Most Web browsers allow you to decline to accept cookies.
   * This site employs the use of tracking pixels, also known as a Web beacon.  A Web beacon is a small image which is attached to a Web page or link, but is not visible to the user. When a Web beacon enabled Web page is loaded, or link is clicked, the Web beacon reports that activity to the organizations Web activity system. No personally identifiable information is collected through the use of Web beacons. 
 
 
 
-**_This policy is effective 5/13/2013. AOPA may from time to time update this policy. When that occurs, we will notify you by posting the changes to this page.   _****_AOPA encourages you to periodically review this policy to be informed of how we are protecting your information._**
+**_This policy is effective 8/10/2015. AOPA may from time to time update this policy. When that occurs, we will notify you by posting the changes to this page.   _****_AOPA encourages you to periodically review this policy to be informed of how we are protecting your information._**
