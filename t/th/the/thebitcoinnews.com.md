@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thebitcoinnews.com privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630160552id_/http%3A//thebitcoinnews.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thebitcoinnews.com privacy policy that was archived on 2015-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151212192624id_/http%3A//thebitcoinnews.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Bitcoin News - Decentralised Bitcoin and Crypto News
 
@@ -80,16 +80,5 @@ Bahia del Segura ( Centro Comercial )
 Spain
 
 **2.10.2014**
-
-Do you wanna earn some Bitcoins?
-
-Ok you are just one step away!  
-Just give us your email at first!
-
-Great, now you have qualified to join our 10 Level Affiliate program!
-
-Just sign up, share your Matrix link and earn Bitcoins!
-
-[Yeahh sign me up...](http://thebitcoinnews.com/matrix/)
 
 Scroll to top
