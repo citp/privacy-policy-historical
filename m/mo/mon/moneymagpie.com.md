@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the moneymagpie.com privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612083009id_/http%3A//www.moneymagpie.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moneymagpie.com privacy policy that was archived on 2015-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151212183658id_/http%3A//www.moneymagpie.com/privacy-statement) for the most accurate reproduction.*
 
-# Privacy Statement & Cookies | Moneymagpie | Make Money, Save Money and more
+# Moneymagpie | Make Money, Save Money and more
 
 Privacy Statement & Cookies
 
@@ -20,21 +20,73 @@ Privacy Statement & Cookies
 
 ### Cookies
 
-Cookies are small amounts of data that are sent to your browser from our web server and are stored on your computer’s hard drive, not on our site. The Moneymagpie website implements 3rd party services by Google which generate cookies that allow us to track site usage anonymously, in order to monitor and improve our web services. If you do not wish to accept cookies on to your machine you can disable them by adjusting the settings on your browser. However this will affect the functionality of the websites you visit.
+Cookies are small amounts of data sent to your browser from our web server and are stored on your computer’s hard drive, not on our site. Moneymagpie uses several ‘1st Party’ cookies, that we set to allow the site to function. These are deleted when you quit your browser. These are anonymous, and do not store any personally identifiable data on you.
 
-### Cookies that are required for the site to function properly
+Cookie Name | 
 
-Cookie Name | Expires After | Purpose  
----|---|---  
-wordpress_test_cookie | When you quit your browser | Tests whether WordPress is able to set cookies on your browser so the software can adjust accordingly  
-signup_split | After 6 months | Used to allow us to make tweaks to the layout of our signup form and track which design versions are most effective  
-Cart66DBSID | When you quit your browser | Used by our shopping cart system to keep track of the items in your basket.  
+Purpose
+
+| 
+
+Retention
+
+| 
+
+Optional  
   
-### Cookies used to remember your cookie preferences and for site analytics
+---|---|---|---  
+PHPSESSID | 
 
-Cookie Name | Expires After | Purpose  
----|---|---  
-___utma | 2 years from set/update. | Google Analytics: This cookie is typically written to the browser upon the first visit to your site from that web browser. If the cookie has been deleted by the browser operator, and the browser subsequently visits your site, a new __utma cookie is written with a different unique ID. This cookie is used to determine unique visitors to your site and it is updated with each page view. Additionally, this cookie is provided with a unique ID that Google Analytics uses to ensure both the validity and accessibility of the cookie as an extra security measure.  
-___utmb | 30 minutes from set/update. | Google Analytics: This cookie is used to establish and continue a user session with your site. When a user views a page on your site, the Google Analytics code attempts to update this cookie. If it does not find the cookie, a new one is written and a new session is established. Each time a user visits a different page on your site, this cookie is updated to expire in 30 minutes, thus continuing a single session for as long as user activity continues within 30-minute intervals. This cookie expires when a user pauses on a page on your site for longer than 30 minutes.  
-___utmc | When you quit your browser | Google Analytics: Used in conjunction with the __utmb cookie to determine whether or not to establish a new session for the user.  
-___utmz | 6 months from set/update. | Google Analytics: This cookie stores the type of referral used by the visitor to reach your site, whether via a direct method, a referring link, a website search, or a campaign such as an ad or an email link. It is used to calculate search engine traffic, ad campaigns and page navigation within your own site. The cookie is updated with each page view to your site.
+Maintain state between pages
+
+| 
+
+Deleted on browser close
+
+| 
+
+No  
+  
+wordpress_logged_in
+
+| 
+
+To maintain your logged in state, only created if you have logged into our site.
+
+| 
+
+Deleted on browser close
+
+| 
+
+Yes  
+  
+wordpress_test_cookie
+
+| 
+
+To ensure browser compatibility with our site
+
+| 
+
+Deleted on browser close
+
+| 
+
+No  
+  
+We also partner with several third party services to provide interactive elements on the site, or to allow us to provide a better service. We have listed these partners below, and where possible linked to their own privacy policies. These partners may use cookies for the purposes listed below.
+
+Name | Purpose | Site | Data Collected  
+---|---|---|---  
+AddThis | For social media sharing | [Http://www.addthis.com](http://www.addthis.com/) | Anonymous (Analytics, Browser Information, Date/Time, Demographic Data, Page Views ), Pseudonymous (IP Address (EU PII), Search History)  
+Crazy Egg | To analyse your usage of the site | http://www.crazyegg.com/privacy | Anonymous (Browser Information, Date/Time, Hardware/Software Type, Page Views ), Pseudonymous (IP Address (EU PII), Location Based Data, Device ID (EU PII))  
+DoubleClick | To track advertising across multiple pages and sites | http://www.google.com/intl/en/policies/privacy/ | Anonymous (Ad Views, Analytics, Browser Information, Cookie Data , Date/Time, Demographic Data, Hardware/Software Type, Interaction Data , Page Views , Serving Domains), Pseudonymous (IP Address (EU PII), Search History, Location Based Data, Device ID (EU PII)), PII (Phone Number)  
+Facebook | To provide social widgets that link into our own facebook page | http://www.facebook.com/about/privacy/ | Anonymous (Browser Information, Date/Time, Demographic Data, Hardware/Software Type, Page Views ), Pseudonymous (IP Address (EU PII))  
+Google Adsense | To track advertising across multiple pages and sites | http://www.google.com/intl/en/policies/privacy/ | Anonymous (Ad Views, Analytics, Browser Information, Cookie Data , Date/Time, Demographic Data, Hardware/Software Type, Interaction Data , Page Views , Serving Domains), Pseudonymous (IP Address (EU PII), Search History, Location Based Data, Device ID (EU PII))  
+Google Analytics | Provide pseudonymous statistics to us | http://www.google.com/intl/en/policies/privacy/ | Anonymous (Ad Views, Analytics, Browser Information, Cookie Data , Date/Time, Demographic Data, Hardware/Software Type, Interaction Data , Page Views , Serving Domains), Pseudonymous (IP Address (EU PII), Search History, Location Based Data, Device ID (EU PII)) , PII (Phone Number)  
+Google Tag Manager | To allow us to manage dynamic elements within pages | http://www.google.com/intl/en/policies/privacy/ | Anonymous (Browser Information, Cookie Data , Date/Time, Demographic Data, Hardware/Software Type, Internet Service Provider, Interaction Data ), Pseudonymous (IP Address (EU PII), Search History, Location Based Data, Device ID (EU PII), PII (Phone Number)  
+Gravatar | Provide consistant avatars (user images) across multiple sites | http://automattic.com/privacy/ | Anonymous (Browser Information, Date/Time, Demographic Data, Serving Domains), Pseudonymous (IP Address (EU PII))  
+Twitter | Provide a twitter feed from our own twitter page on the site | https://twitter.com/privacy | Anonymous (Browser Information, Cookie Data , Date/Time, Demographic Data, Hardware/Software Type, Internet Service Provider, Interaction Data , Page Views ), Pseudonymous (IP Address (EU PII), Search History, Device ID (EU PII))  
+  
+Please also note that Moneymagpie partners with advertising companies to enable us to continue to offer great articles for free. These partners change on a regular basis, and to assist in serving relevant adverts to you, these partners may also use cookies. If you wish to stop seeing specific adverts or advertisers on this site, we recommend a product such as https://www.ghostery.com/en/try-us/download-add-on/, which will allow you to block advertisers directly from your web browser.
