@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the performbetter.com privacy policy that was archived on 2014-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141126201904id_/http%3A//www.performbetter.com/webapp/wcs/stores/servlet/PBOnePieceView%3FstoreId%3D10151%26catalogId%3D10751%26languageId%3D-1%26pagename%3D41) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the performbetter.com privacy policy that was archived on 2015-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151213003806id_/http%3A//www.performbetter.com/webapp/wcs/stores/servlet/PBOnePieceView%3FstoreId%3D10151%26catalogId%3D10751%26pagename%3D41) for the most accurate reproduction.*
 
 # Perform Better Privacy Policy
 
@@ -109,8 +109,8 @@ This policy was last modified on **November 24, 2013**
 
 If there are any questions regarding this privacy policy you may contact us using the information below. 
 
-11 Amflex Drive  
-Cranston, RI, 02921  
+1600 Division Road  
+West Warwick, RI 02893  
 USA  
 [performbetter@mfathletic.com](mailto:performbetter@mfathletic.com)  
 888-556-7464
