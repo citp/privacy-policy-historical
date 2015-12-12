@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pabo.com privacy policy that was archived on 2015-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150429094035id_/http%3A//www.pabo.com/aboutcookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pabo.com privacy policy that was archived on 2015-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151212132038id_/http%3A//www.pabo.com/aboutcookies) for the most accurate reproduction.*
 
-# 
+# about_cookies
 
 **PABO UK Privacy Policy** 1.  We will treat all your personal information as confidential. It will be kept on a secure server and we will fully comply with all applicable UK Data Protection and consumer legislation.
 
