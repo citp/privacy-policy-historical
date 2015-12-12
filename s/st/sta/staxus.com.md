@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the staxus.com privacy policy that was archived on 2015-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150529053205id_/http%3A//staxus.com/tour/pages.php%3Fid%3Dprivacy%26lang%3D0) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the staxus.com privacy policy that was archived on 2015-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151212192228id_/http%3A//staxus.com/trial/pages.php%3Fid%3Dprivacy%26lang%3D0) for the most accurate reproduction.*
 
 # Staxus.com - Tour Area
 
