@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the creationsrewards.net privacy policy that was archived on 2014-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141218100131id_/http%3A//www.creationsrewards.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the creationsrewards.net privacy policy that was archived on 2015-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151212180525id_/http%3A//www.creationsrewards.net/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | CreationsRewards Online Rewards Program
 
 CreationsRewards abides by the Privacy Policy listed below.
 
@@ -28,22 +28,22 @@ If a member would like to opt-out of CreationsRewards, it is very easy, and ther
 
 **Outside Links**
 
-CreationsRewards links to other websites on the Internet, and we are not responsible for the content or privacy policies of such websites. Members should be aware when they leave our website to read the privacy policies contained on other websites. The privacy policy on this page is only applied to CreationsRewards.Net.
+CreationsRewards links to other websites on the Internet, and we are not responsible for the content or privacy policies of such websites. Members should be aware when they leave our website to read the privacy policies contained on other websites. The privacy policy on this page is only applied to CreationsRewards.Net. 
 
 **Security**
 
-CreationsRewards takes every action to protect members information. We require you to set a password to access your data on our website, and offer you the ability to login every time you visit the website. We protect your data offline as well. CreationsRewards employees are only given access to personal data to handle a customer care inquiry or redemption. Otherwise, employees are not permitted to access personal data on members. CreationsRewards servers are also maintained in a secure and professional environment.
+CreationsRewards takes every action to protect members information. We require you to set a password to access your data on our website, and offer you the ability to login every time you visit the website. We protect your data offline as well. CreationsRewards employees are only given access to personal data to handle a customer care inquiry or redemption. Otherwise, employees are not permitted to access personal data on members. CreationsRewards servers are also maintained in a secure and professional environment. 
 
 **Updating Information**
 
-CreationsRewards members can update their personal information at any time by logging into CreationsRewards.Net and clicking on the My Account link at the top of any page. In this area, members can access the Update Account Information link to make changes to their information, such as E-Mail address or mailing address. In order to verify the identity of a member, the member will need to enter in their CreationsRewards.Net account password to validate the update request. Members can also manually E-Mail account updates to the customer care team at helpdesk (at) creationsrewards.net.
+CreationsRewards members can update their personal information at any time by logging into CreationsRewards.Net and clicking on the My Account link at the top of any page. In this area, members can access the Update Account Information link to make changes to their information, such as E-Mail address or mailing address. In order to verify the identity of a member, the member will need to enter in their CreationsRewards.Net account password to validate the update request. Members can also manually E-Mail account updates to the customer care team at helpdesk (at) creationsrewards.net. 
 
 **Contacting CreationsRewards**
 
-CreationsRewards can be contacted via E-Mail at helpdesk (at) creationsrewards.net or by postal mail at:
+CreationsRewards can be contacted via E-Mail at helpdesk (at) creationsrewards.net or by postal mail at: 
 
 CreationsRewards.Net  
-116 S. 19th Ave.  
+118 S. 19th Ave.  
 Manville, NJ 08835
 
 Privacy Policy Effective: May 2011
