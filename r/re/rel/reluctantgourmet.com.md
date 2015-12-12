@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reluctantgourmet.com privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612091238id_/http%3A//www.reluctantgourmet.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reluctantgourmet.com privacy policy that was archived on 2015-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151213000416id_/http%3A//www.reluctantgourmet.com/privacy-statement) for the most accurate reproduction.*
 
 # The Reluctant Gourmet Privacy Policy : The Reluctant Gourmet
 
