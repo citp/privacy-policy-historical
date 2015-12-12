@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the nmc.org.uk privacy policy that was archived on 2015-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150613171838id_/http%3A//www.nmc.org.uk/privacy-terms-of-use-and-cookies/website-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nmc.org.uk privacy policy that was archived on 2015-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151212144026id_/http%3A//www.nmc.org.uk/privacy-terms-of-use-and-cookies/website-privacy-policy) for the most accurate reproduction.*
 
 # Website privacy policy
 
-This Privacy Policy sets out the data processing practices carried out through the use of the Internet and any other electronic communications networks by the Nursing and Midwifery Council (“NMC”) including at www.nmc.org.uk (the “Website”). It forms part of the Website terms of use. If you have any requests concerning your personal information or any queries with regard to these practices please contact us at [foi&dparequest@nmc-uk.org](mailto:foi&dparequest@nmc-uk.org).
+This Privacy Policy sets out the data processing practices carried out through the use of the Internet and any other electronic communications networks by the Nursing and Midwifery Council (“NMC”) including at www.nmc.org.uk (the “Website”). It forms part of the Website terms of use. If you have any requests concerning your personal information or any queries with regard to these practices please contact us at [FOIandDPArequest@nmc-uk.org](mailto:FOIandDPArequest@nmc-uk.org).
 
 For more information about how we use personal data, refer to our Data Protection policy.
 
