@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the world-newspapers.com privacy policy that was archived on 2015-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150613124427id_/http%3A//www.world-newspapers.com/disclaimer.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the world-newspapers.com privacy policy that was archived on 2015-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151212141927id_/http%3A//www.world-newspapers.com/disclaimer.html) for the most accurate reproduction.*
 
 # World-Newspapers.com - Privacy Policy
-
-[World-Newspapers](http://www.world-newspapers.com/index.html) >
-
-### Privacy Policy
 
 World-Newspapers.com is committed to maintaining your confidence and trust, and accordingly maintains the following privacy policy to protect personal information which you provide online. 
 
@@ -41,4 +37,7 @@ We can also allow ad companies to use cookies to help serve advertisments. They 
 We cannot be responsible for the content of sites that world-newspapers.com links to. If inappropropriate content is added to the site after we have linked to the site please contact us and inform about the linked site. 
 
 If you feel that this site is not following its stated information policy, please contact:   
+
+
+
 
