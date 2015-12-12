@@ -1,974 +1,871 @@
-<!--The following is the downloaded HTML source of the diamonds.net privacy policy that was archived on 2015-06-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150629184028id_/http%3A//www.diamonds.net/Legal/PrivacyPolicy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the diamonds.net privacy policy that was archived on 2015-12-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151212205510id_/http%3A//www.diamonds.net/Legal/PrivacyPolicy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><title>
 	Diamonds.Net - Privacy Policy
 </title><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta property="fb:app_id" content="203230413170905"><meta name="application-name" content="Rapaport Diamonds.Net"><meta name="msapplication-TileColor" content="#d2002d"><meta name="msapplication-TileImage" content="Images/Win8Tiles/DnetTile.png"><meta name="keywords" content=""><meta name="description" content=""><link rel="SHORTCUT ICON" href="../Favicon.ico">
-	
-	<script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-RRST"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script src="/(S(hofddd55e2zsxt3k0rlkms45))/Javascripts/jquery-1.7.2.min.js" type="text/javascript" language="javascript"> </script>
-	<link href="../Styles/Dnet.css" rel="stylesheet" type="text/css">
-	<!--[if IE]>
+    
+    <script id="twitter-wjs" src="//platform.twitter.com/widgets.js"></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-RRST"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script src="/Javascripts/jquery-1.7.2.min.js" type="text/javascript" language="javascript"> </script>
+    <link href="../Styles/Dnet.css" rel="stylesheet" type="text/css">
+    <!--[if IE]>
 	<link href="../Styles/ieDnet.css" rel="stylesheet" type="text/css" />
 	<![endif]-->
-	<script type="text/javascript" language="javascript">
+    <script type="text/javascript" language="javascript">
 
-		/****************************************************************************/
-		//Input functions
+        /****************************************************************************/
+        //Input functions
 
-		function ActivateClearInput() {
-			$(".ClearInput").css("color", "#6C6C6C");
+        function ActivateClearInput() {
+            $(".ClearInput").css("color", "#6C6C6C");
 
-			$(".ClearInput").focusin(function () {
-				var Value = $(this).val();
+            $(".ClearInput").focusin(function () {
+                var Value = $(this).val();
 
-				if (!$(this).hasClass("Clicked")) {
-					$(this).val("");
-					$(this).addClass("Clicked");
-					$(this).css("color", "");
+                if (!$(this).hasClass("Clicked")) {
+                    $(this).val("");
+                    $(this).addClass("Clicked");
+                    $(this).css("color", "");
 
-					$(this).blur(function () {
-						if ($(this).val() == "") {
-							$(this).val(Value);
-							$(this).removeClass("Clicked");
-							$(this).css("color", "#6C6C6C");
-						}
-					});
-				}
-			});
-		}
+                    $(this).blur(function () {
+                        if ($(this).val() == "") {
+                            $(this).val(Value);
+                            $(this).removeClass("Clicked");
+                            $(this).css("color", "#6C6C6C");
+                        }
+                    });
+                }
+            });
+        }
 
-		/****************************************************************************/
+        /****************************************************************************/
 
-		var isInsideLogin = false;
+        var isInsideLogin = false;
 
-		function SetPageFadeVisible(fadeSwitch) {
-			if (fadeSwitch) {
-				$('body').append('<div id="WindowFade"></div>');
-				$('#WindowFade').css({ 'filter': 'alpha(opacity=40)' }).fadeIn(500);
-			} else {
-				$("#WindowFade").remove();
-			}
-		}
+        function SetPageFadeVisible(fadeSwitch) {
+            if (fadeSwitch) {
+                $('body').append('<div id="WindowFade"></div>');
+                $('#WindowFade').css({ 'filter': 'alpha(opacity=40)' }).fadeIn(500);
+            } else {
+                $("#WindowFade").remove();
+            }
+        }
 
-		function ShowLoginLightBox() {
-			$(".LoginUsername").focus();
-			var popupPage = "Login.aspx";
-			ShowInlineModalWindow("", popupPage, 550, 300, false, true, null, null);
-		}
+        function ShowLoginLightBox() {
+            $(".LoginUsername").focus();
+            var popupPage = "Login.aspx";
+            ShowInlineModalWindow("", popupPage, 550, 300, false, true, null, null);
+        }
 
-		function ShowTopLoginBox() {
-			$("#TopLoginBox").show();
-			$("#ctl00_ContentPlaceHolderTopNavigation_txtUserName").focus();
-		}
+        function ShowTopLoginBox() {
+            $("#TopLoginBox").show();
+            $("#ctl00_ContentPlaceHolderTopNavigation_txtUserName").focus();
+        }
 
-		function GoogleSearch() {
-			var searchText = $('input[name="TopSearchBox"]').val();
-			if (searchText != "") {
-				$("#TopSearchBox").stop();
-				window.open("/(S(hofddd55e2zsxt3k0rlkms45))/SiteSearch/Search.aspx?q=" + searchText, "_self");
-			}
-		}
+        function GoogleSearch() {
+            var searchText = $('input[name="TopSearchBox"]').val();
+            if (searchText != "") {
+                $("#TopSearchBox").stop();
+                window.open("/SiteSearch/Search.aspx?q=" + searchText, "_self");
+            }
+        }
 
-		function PostUserPass(username, password, remember) {
-			var un = $("#" + username).val();
-			var ps = $("#" + password).val();
-			var rem = $("#" + remember).is(':checked');
+        function PostUserPass(username, password, remember) {
+            var un = $("#" + username).val();
+            var ps = $("#" + password).val();
+            var rem = $("#" + remember).is(':checked');
 
-			$.support.cors = true;
-			post_to_url("https://www.diamonds.net/(S(hofddd55e2zsxt3k0rlkms45))/Login/LoginPage.aspx", { 'username': un, 'password': ps, 'remember': rem }, "post");
-		}
+            $.support.cors = true;
+            post_to_url("https://www.diamonds.net/Login/LoginPage.aspx", { 'username': un, 'password': ps, 'remember': rem }, "post");
+        }
 
-		function post_to_url(path, params, method) {
-			method = method || "post";
-			// Set method to post by default, if not specified.
-			// The rest of this code assumes you are not using a library.
-			// It can be made less wordy if you use one.
-			var form = document.createElement("form");
-			form.setAttribute("method", method);
-			form.setAttribute("action", path);
-			for (var key in params) {
-				var hiddenField = document.createElement("input");
-				hiddenField.setAttribute("type", "hidden");
-				hiddenField.setAttribute("name", key);
-				hiddenField.setAttribute("value", params[key]);
-				form.appendChild(hiddenField);
-			}
-			document.body.appendChild(form);
-			form.submit();
-		}
+        function post_to_url(path, params, method) {
+            method = method || "post";
+            // Set method to post by default, if not specified.
+            // The rest of this code assumes you are not using a library.
+            // It can be made less wordy if you use one.
+            var form = document.createElement("form");
+            form.setAttribute("method", method);
+            form.setAttribute("action", path);
+            for (var key in params) {
+                var hiddenField = document.createElement("input");
+                hiddenField.setAttribute("type", "hidden");
+                hiddenField.setAttribute("name", key);
+                hiddenField.setAttribute("value", params[key]);
+                form.appendChild(hiddenField);
+            }
+            document.body.appendChild(form);
+            form.submit();
+        }
 
-		var clockDateTime = new Date(parseInt("1435588828426.09"));
+        var clockDateTime = new Date(parseInt("1449935709748.4"));
 		var tick;
 
 		$(document).ready(function () {
-			ActivateClearInput();
-			UpdateClock();
+		    ActivateClearInput();
+		    UpdateClock();
 
-			$("#TopLoginBox").hover(function () {
-				isInsideLogin = true;
-			}, function () {
-				isInsideLogin = false;
-			});
+		    $("#TopLoginBox").hover(function () {
+		        isInsideLogin = true;
+		    }, function () {
+		        isInsideLogin = false;
+		    });
 
-			$(".CloseLoginForm").click(function () {
-				$(".CloseLoginFormButton").click();
-			});
+		    $(".CloseLoginForm").click(function () {
+		        $(".CloseLoginFormButton").click();
+		    });
 
-			SetDefaultButton("#TopSearchBox", "#TopSearchBoxIcon");
-			SetDefaultButton("#ctl00_ContentPlaceHolderTopNavigation_txtPassword", "#TopLoginButton");
+		    SetDefaultButton("#TopSearchBox", "#TopSearchBoxIcon");
+		    SetDefaultButton("#ctl00_ContentPlaceHolderTopNavigation_txtPassword", "#TopLoginButton");
 
 			$("#BlackLoginTab").click(function () {
-				$("#TopLoginBox").hide();
+			    $("#TopLoginBox").hide();
 			});
 
 			$("body").mouseup(function () {
-				if (!isInsideLogin) $("#TopLoginBox").hide();
+			    if (!isInsideLogin) $("#TopLoginBox").hide();
 			});
 
 			$(".SocialboxWrapper").hover(function () {
-				$(this).find(".Socialbox").show();
+			    $(this).find(".Socialbox").show();
 			}, function () {
-				$(this).find(".Socialbox").hide();
+			    $(this).find(".Socialbox").hide();
 			});
 
 			$("#TopSearchBox").focus(function () {
 
 
-				$(this).animate({ "width": "120px" }, "slow");
-				$(this).width(120);
+			    $(this).animate({ "width": "120px" }, "slow");
+			    $(this).width(120);
 			});
 
 			$("#TopSearchBox").blur(function () {
 
 
-				$(this).animate({ "width": "120px" }, "slow");
-				$(this).width(120);
+			    $(this).animate({ "width": "120px" }, "slow");
+			    $(this).width(120);
 			});
 
 			$('.OpenInlineModalWindow').click(function () {
-				var openingLink = $(this);
-				var iFramePage = openingLink.attr('ref');
-				var refreshOnClose = false;
-				var showCloseButton = true;
+			    var openingLink = $(this);
+			    var iFramePage = openingLink.attr('ref');
+			    var refreshOnClose = false;
+			    var showCloseButton = true;
 
-				if (iFramePage.indexOf("RefreshOnClose=true") != -1)
-					refreshOnClose = true;
+			    if (iFramePage.indexOf("RefreshOnClose=true") != -1)
+			        refreshOnClose = true;
 
-				if (iFramePage.indexOf("ShowCloseButton=false") != -1)
-					showCloseButton = false;
-				ShowInlineModalWindow("", iFramePage, null, null, refreshOnClose, showCloseButton, openingLink, null);
+			    if (iFramePage.indexOf("ShowCloseButton=false") != -1)
+			        showCloseButton = false;
+			    ShowInlineModalWindow("", iFramePage, null, null, refreshOnClose, showCloseButton, openingLink, null);
 
-				return false;
+			    return false;
 			});
 
-			//Close Popups and Fade Layer
+		    //Close Popups and Fade Layer
 			$(document).bind('CloseInlineModalWindow', function () {
-				CloseInlineModalWindow(true, false);
+			    CloseInlineModalWindow(true, false);
 			});
 			$(".CloseInlineModalWindow").live("click", function () {
-				var refreshOnClose = false;
-				if ($(this).hasClass("RefreshOnClose")) {
-					refreshOnClose = true;
-				}
-				var redirectOnClose = false;
-				if ($(this).hasClass("RedirectOnClose")) {
-					redirectOnClose = true;
-				}
-				CloseInlineModalWindow(refreshOnClose, redirectOnClose);
+			    var refreshOnClose = false;
+			    if ($(this).hasClass("RefreshOnClose")) {
+			        refreshOnClose = true;
+			    }
+			    var redirectOnClose = false;
+			    if ($(this).hasClass("RedirectOnClose")) {
+			        redirectOnClose = true;
+			    }
+			    CloseInlineModalWindow(refreshOnClose, redirectOnClose);
 			});
 
 			window.___gcfg = { lang: 'en' };
 			(function () {
-				var po = document.createElement("script");
-				po.type = "text/javascript";
-				po.async = true;
-				po.src = "https://apis.google.com/js/plusone.js";
-				var s = document.getElementsByTagName("script")[0];
-				s.parentNode.insertBefore(po, s);
+			    var po = document.createElement("script");
+			    po.type = "text/javascript";
+			    po.async = true;
+			    po.src = "https://apis.google.com/js/plusone.js";
+			    var s = document.getElementsByTagName("script")[0];
+			    s.parentNode.insertBefore(po, s);
 			})();
 
 			!function (d, s, id) {
-				var js, fjs = d.getElementsByTagName(s)[0];
-				if (!d.getElementById(id)) {
-					js = d.createElement(s);
-					js.id = id;
-					js.src = "//platform.twitter.com/widgets.js";
-					fjs.parentNode.insertBefore(js, fjs);
-				}
-			} (document, "script", "twitter-wjs");
+			    var js, fjs = d.getElementsByTagName(s)[0];
+			    if (!d.getElementById(id)) {
+			        js = d.createElement(s);
+			        js.id = id;
+			        js.src = "//platform.twitter.com/widgets.js";
+			        fjs.parentNode.insertBefore(js, fjs);
+			    }
+			}(document, "script", "twitter-wjs");
 
 			$("#facebookContainer").attr("src", "https://www.facebook.com/plugins/likebox.php?href=https%3A%2F%2Fwww.facebook.com%2Frapaport&amp;width=200&amp;height=62&amp;colorscheme=light&amp;show_faces=false&amp;border_color&amp;stream=false&amp;header=false");
 		});
 
-		function SetDefaultButton(sender, button) {
-			if (sender != null) {
-				$(sender).keydown(function (e) {
-					if ((e.which && e.which == 13) || (e.keyCode && e.keyCode == 13)) {
-						$(button).click();
-						return false;
-					} else {
-						return true;
-					}
-				});
-			}
-		}
-		jQuery.fn.center = function () {
-			this.css("position", "absolute");
-			this.css("top", Math.max(0, (($(window).height() - this.outerHeight()) / 2) +
+        function SetDefaultButton(sender, button) {
+            if (sender != null) {
+                $(sender).keydown(function (e) {
+                    if ((e.which && e.which == 13) || (e.keyCode && e.keyCode == 13)) {
+                        $(button).click();
+                        return false;
+                    } else {
+                        return true;
+                    }
+                });
+            }
+        }
+        jQuery.fn.center = function () {
+            this.css("position", "absolute");
+            this.css("top", Math.max(0, (($(window).height() - this.outerHeight()) / 2) +
                                                             $(window).scrollTop()) + "px");
-			this.css("left", Math.max(0, (($(window).width() - this.outerWidth()) / 2) +
+            this.css("left", Math.max(0, (($(window).width() - this.outerWidth()) / 2) +
                                                             $(window).scrollLeft()) + "px");
-			return this;
-		}
-		function ShowInlineModalWindow(message, page, frameWidth, frameHeight, refreshOnClose, showCloseButton, sender, RedirectUrlOnClose, Button1, Button2) {
-			var openingLink = sender;
-			if (page == "" && message == "") {
-				alert("You must provide a URL or Message to show the Inline Modal Window");
-			}
-			if (page != "") {
-				$("#WindowFadeiFrame").attr("src", "/(S(hofddd55e2zsxt3k0rlkms45))/InlineModalWindows/" + page);
-				$("#WindowFadeiFrame").load(function () {
-					//This must be first to obtain the objects in it
-					$(".InlineModalWindow").show();
-					var width = frameWidth;
-					var height = frameHeight;
-					//Use .MainLayout to give the size of the innder layout if not found it will use the size of the body
-					if (frameWidth == null || frameHeight == null) {
-						width = $("#WindowFadeiFrame").contents().find(".MainLayout").width();
-						height = $("#WindowFadeiFrame").contents().find(".MainLayout").height();
-					}
-					if (width == null) {
-						width = $("#WindowFadeiFrame").contents().find("body").width();
-						height = $("#WindowFadeiFrame").contents().find("body").height();
-					}
-					if (width != null) {
-						//set size to fit with padding of the box
-						width = width + 40;
-						height = height + 10;
-						$("#WindowFadeiFrameContainer").css("width", width + "px");
-						$("#WindowFadeiFrameContainer").css("height", height + "px");
-					}
-					if (openingLink != null) {
-						$(".InlineModalWindow").css("top", openingLink.position().top);
-					}
-					else {
-						$(".InlineModalWindow").center();
+            return this;
+        }
+        function ShowInlineModalWindow(message, page, frameWidth, frameHeight, refreshOnClose, showCloseButton, sender, RedirectUrlOnClose, Button1, Button2) {
+            var openingLink = sender;
+            if (page == "" && message == "") {
+                alert("You must provide a URL or Message to show the Inline Modal Window");
+            }
+            if (page != "") {
+                $("#WindowFadeiFrame").attr("src", "/InlineModalWindows/" + page);
+			    $("#WindowFadeiFrame").load(function () {
+			        //This must be first to obtain the objects in it
+			        $(".InlineModalWindow").show();
+			        var width = frameWidth;
+			        var height = frameHeight;
+			        //Use .MainLayout to give the size of the innder layout if not found it will use the size of the body
+			        if (frameWidth == null || frameHeight == null) {
+			            width = $("#WindowFadeiFrame").contents().find(".MainLayout").width();
+			            height = $("#WindowFadeiFrame").contents().find(".MainLayout").height();
+			        }
+			        if (width == null) {
+			            width = $("#WindowFadeiFrame").contents().find("body").width();
+			            height = $("#WindowFadeiFrame").contents().find("body").height();
+			        }
+			        if (width != null) {
+			            //set size to fit with padding of the box
+			            width = width + 40;
+			            height = height + 10;
+			            $("#WindowFadeiFrameContainer").css("width", width + "px");
+			            $("#WindowFadeiFrameContainer").css("height", height + "px");
+			        }
+			        if (openingLink != null) {
+			            $(".InlineModalWindow").css("top", openingLink.position().top);
+			        }
+			        else {
+			            $(".InlineModalWindow").center();
 
-						//This must be first to obtain the objects in it
-						$(".InlineModalWindow").show();
-					}
-				});
+			            //This must be first to obtain the objects in it
+			            $(".InlineModalWindow").show();
+			        }
+			    });
 			} else {
-				$("#InlineModalWindowMessage").html(message);
-				$(".InlineModalWindow").show();
-				$("#WindowFadeiFrame").hide();
-				if (frameWidth != null && frameHeight != null) {
-					$("#WindowFadeiFrameContainer").css("width", frameWidth + "px");
-					$("#WindowFadeiFrameContainer").css("height", frameHeight + "px");
-				}
-				if (openingLink != null) {
-					$(".InlineModalWindow").css("top", openingLink.position().top);
-				}
-				else {
-					$(".InlineModalWindow").center();
+			    $("#InlineModalWindowMessage").html(message);
+			    $(".InlineModalWindow").show();
+			    $("#WindowFadeiFrame").hide();
+			    if (frameWidth != null && frameHeight != null) {
+			        $("#WindowFadeiFrameContainer").css("width", frameWidth + "px");
+			        $("#WindowFadeiFrameContainer").css("height", frameHeight + "px");
+			    }
+			    if (openingLink != null) {
+			        $(".InlineModalWindow").css("top", openingLink.position().top);
+			    }
+			    else {
+			        $(".InlineModalWindow").center();
 
-					//This must be first to obtain the objects in it
-					$(".InlineModalWindow").show();
-				}
-			}
-			
-			if (refreshOnClose)
-				$(".CloseInlineModalWindow").addClass("RefreshOnClose");
-			if (RedirectUrlOnClose != null && RedirectUrlOnClose.length > 0) {
-				$(".CloseInlineModalWindow").addClass("RedirectOnClose");
-				$("#spnRedirectUrlOnClose").html(RedirectUrlOnClose);
+			        //This must be first to obtain the objects in it
+			        $(".InlineModalWindow").show();
+			    }
 			}
 
-			if (showCloseButton == false) {
-				$(".CloseInlineModalWindow").addClass("ClosingStripDontShowButton");
-				$(".CloseInlineModalWindow").removeClass("ClosingStrip");
-				$(".CloseInlineModalWindow").removeClass("CloseInlineModalWindow");
-			}
-			else if ($(".InlineModalWindow").find(".ClosingStripDontShowButton").length > 0) {
-				$(".ClosingStripDontShowButton").addClass("ClosingStripDontShowButton");
-				$(".ClosingStripDontShowButton").addClass("ClosingStrip");
-				$(".ClosingStripDontShowButton").addClass("CloseInlineModalWindow");
+            if (refreshOnClose)
+                $(".CloseInlineModalWindow").addClass("RefreshOnClose");
+            if (RedirectUrlOnClose != null && RedirectUrlOnClose.length > 0) {
+                $(".CloseInlineModalWindow").addClass("RedirectOnClose");
+                $("#spnRedirectUrlOnClose").html(RedirectUrlOnClose);
+            }
 
-				$(".ClosingStripDontShowButton").removeClass("ClosingStripDontShowButton");
-			}
+            if (showCloseButton == false) {
+                $(".CloseInlineModalWindow").addClass("ClosingStripDontShowButton");
+                $(".CloseInlineModalWindow").removeClass("ClosingStrip");
+                $(".CloseInlineModalWindow").removeClass("CloseInlineModalWindow");
+            }
+            else if ($(".InlineModalWindow").find(".ClosingStripDontShowButton").length > 0) {
+                $(".ClosingStripDontShowButton").addClass("ClosingStripDontShowButton");
+                $(".ClosingStripDontShowButton").addClass("ClosingStrip");
+                $(".ClosingStripDontShowButton").addClass("CloseInlineModalWindow");
 
-			if (Button1) {
-				$("#InlineModalWindowButtons").show();
-				$("#InlineModalWindowButton1 input").val(Button1[0]);
-				$("#InlineModalWindowButton1").click(Button1[1]);
+                $(".ClosingStripDontShowButton").removeClass("ClosingStripDontShowButton");
+            }
 
-				if (Button2) {
-					$("#InlineModalWindowButton2").show();
-					$("#InlineModalWindowButton2 input").val(Button2[0]);
-					$("#InlineModalWindowButton2").click(Button2[1]);
-				}
-			}
+            if (Button1) {
+                $("#InlineModalWindowButtons").show();
+                $("#InlineModalWindowButton1 input").val(Button1[0]);
+                $("#InlineModalWindowButton1").click(Button1[1]);
 
-			//Fade in Background
-			$('body').append('<div id="WindowFade"></div>');
-			$('#WindowFade').css({ 'filter': 'alpha(opacity=40)' }).fadeIn(500);
-		}
+                if (Button2) {
+                    $("#InlineModalWindowButton2").show();
+                    $("#InlineModalWindowButton2 input").val(Button2[0]);
+                    $("#InlineModalWindowButton2").click(Button2[1]);
+                }
+            }
 
-		function CloseInlineModalWindow(refreshOnClose, redirectOnClose) {
-			if (refreshOnClose) {
-				document.location = document.location;
-				return false;
-			}
-			if (redirectOnClose) {
-				document.location = $("#spnRedirectUrlOnClose").html();
-				return false;
-			}
+		    //Fade in Background
+            $('body').append('<div id="WindowFade"></div>');
+            $('#WindowFade').css({ 'filter': 'alpha(opacity=40)' }).fadeIn(500);
+        }
 
-			$("#WindowFadeiFrameContainer").attr("width", "0");
-			$("#WindowFadeiFrameContainer").css("width", "0");
-			$("#WindowFadeiFrame").show();
-			$("#InlineModalWindowMessage").html("");
+        function CloseInlineModalWindow(refreshOnClose, redirectOnClose) {
+            if (refreshOnClose) {
+                document.location = document.location;
+                return false;
+            }
+            if (redirectOnClose) {
+                document.location = $("#spnRedirectUrlOnClose").html();
+                return false;
+            }
 
-			$("#WindowFadeiFrame").unbind("load");
-			//$("#WindowFadeiFrame").empty();
-			$("#WindowFadeiFrame").attr("src", "about:blank");
+            $("#WindowFadeiFrameContainer").attr("width", "0");
+            $("#WindowFadeiFrameContainer").css("width", "0");
+            $("#WindowFadeiFrame").show();
+            $("#InlineModalWindowMessage").html("");
 
-			$(".InlineModalWindow").hide();
-			$("#InlineModalWindowButtons").hide();
+            $("#WindowFadeiFrame").unbind("load");
+            //$("#WindowFadeiFrame").empty();
+            $("#WindowFadeiFrame").attr("src", "about:blank");
 
-			$("#WindowFade").fadeOut(function () {
-				$("#WindowFade").remove();
-			});
+            $(".InlineModalWindow").hide();
+            $("#InlineModalWindowButtons").hide();
 
-			return false;
-		}
+            $("#WindowFade").fadeOut(function () {
+                $("#WindowFade").remove();
+            });
 
-		var month_names = new Array();
-		month_names[month_names.length] = "Jan";
-		month_names[month_names.length] = "Feb";
-		month_names[month_names.length] = "Mar";
-		month_names[month_names.length] = "Apr";
-		month_names[month_names.length] = "May";
-		month_names[month_names.length] = "Jun";
-		month_names[month_names.length] = "Jul";
-		month_names[month_names.length] = "Aug";
-		month_names[month_names.length] = "Sep";
-		month_names[month_names.length] = "Oct";
-		month_names[month_names.length] = "Nov";
-		month_names[month_names.length] = "Dec";
+            return false;
+        }
 
-		var day_names = new Array();
-		day_names[day_names.length] = "Sun";
-		day_names[day_names.length] = "Mon";
-		day_names[day_names.length] = "Tue";
-		day_names[day_names.length] = "Wed";
-		day_names[day_names.length] = "Thu";
-		day_names[day_names.length] = "Fri";
-		day_names[day_names.length] = "Sat";
+        var month_names = new Array();
+        month_names[month_names.length] = "Jan";
+        month_names[month_names.length] = "Feb";
+        month_names[month_names.length] = "Mar";
+        month_names[month_names.length] = "Apr";
+        month_names[month_names.length] = "May";
+        month_names[month_names.length] = "Jun";
+        month_names[month_names.length] = "Jul";
+        month_names[month_names.length] = "Aug";
+        month_names[month_names.length] = "Sep";
+        month_names[month_names.length] = "Oct";
+        month_names[month_names.length] = "Nov";
+        month_names[month_names.length] = "Dec";
 
-		function FixTime(val) {
-			return (val < 10) ? "0" + val : val;
-		}
+        var day_names = new Array();
+        day_names[day_names.length] = "Sun";
+        day_names[day_names.length] = "Mon";
+        day_names[day_names.length] = "Tue";
+        day_names[day_names.length] = "Wed";
+        day_names[day_names.length] = "Thu";
+        day_names[day_names.length] = "Fri";
+        day_names[day_names.length] = "Sat";
 
-		function UpdateClock() {
-			clockDateTime.setSeconds(clockDateTime.getSeconds() + 1);
-			document.getElementById("divTopClock").innerHTML = month_names[clockDateTime.getMonth()] + " " + clockDateTime.getDate() + ", " + clockDateTime.getFullYear() + " " + FixTime(clockDateTime.getUTCHours()) + ":" + FixTime(clockDateTime.getMinutes()) + " NY";
-			tick = setTimeout('UpdateClock()', 1000);
-		}
+        function FixTime(val) {
+            return (val < 10) ? "0" + val : val;
+        }
 
-		function ShowSocialMedia(icon) {
-			alert($(icon).attr("src"));
-			$(icon).next().addClass("selected");
-		}
+        function UpdateClock() {
+            clockDateTime.setSeconds(clockDateTime.getSeconds() + 1);
+            document.getElementById("divTopClock").innerHTML = month_names[clockDateTime.getMonth()] + " " + clockDateTime.getDate() + ", " + clockDateTime.getFullYear() + " " + FixTime(clockDateTime.getUTCHours()) + ":" + FixTime(clockDateTime.getMinutes()) + " NY";
+            tick = setTimeout('UpdateClock()', 1000);
+        }
 
-		function ActivateClearInput() {
-			$(".ClearInput").focusin(function () {
-				var value = $(this).val();
+        function ShowSocialMedia(icon) {
+            alert($(icon).attr("src"));
+            $(icon).next().addClass("selected");
+        }
 
-				if (!$(this).hasClass("Clicked")) {
-					$(this).val("");
-					$(this).addClass("Clicked");
+        function ActivateClearInput() {
+            $(".ClearInput").focusin(function () {
+                var value = $(this).val();
 
-					$(this).blur(function () {
-						if ($(this).val() == "") {
-							$(this).val(value);
-							$(this).removeClass("Clicked");
-						}
-					});
-				}
-			});
-		}
-	</script>
-	
-	
-	<script type="text/javascript">
-		var _gaq = _gaq || [];
-		var pluginUrl = '//www.google-analytics.com/plugins/ga/inpage_linkid.js';
-		_gaq.push(['_require', 'inpage_linkid', pluginUrl]);
-		_gaq.push(['_setAccount', 'UA-1193854-1']);
-		_gaq.push(['_trackPageview']);
+                if (!$(this).hasClass("Clicked")) {
+                    $(this).val("");
+                    $(this).addClass("Clicked");
 
-		(function () {
-			var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-			ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
-			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-		})();
-	</script>
-	<!-- Google Tag Manager -->
-	<noscript>
-		<iframe src="//www.googletagmanager.com/ns.html?id=GTM-RRST" height="0" width="0"
-			style="display: none; visibility: hidden"></iframe>
-	</noscript>
-	<script>		(function (w, d, s, l, i) {
-			w[l] = w[l] || []; w[l].push({ 'gtm.start':
-new Date().getTime(), event: 'gtm.js'
-			}); var f = d.getElementsByTagName(s)[0],
+                    $(this).blur(function () {
+                        if ($(this).val() == "") {
+                            $(this).val(value);
+                            $(this).removeClass("Clicked");
+                        }
+                    });
+                }
+            });
+        }
+    </script>
+    
+    
+    <script type="text/javascript">
+        var _gaq = _gaq || [];
+        var pluginUrl = '//www.google-analytics.com/plugins/ga/inpage_linkid.js';
+        _gaq.push(['_require', 'inpage_linkid', pluginUrl]);
+        _gaq.push(['_setAccount', 'UA-1193854-1']);
+        _gaq.push(['_trackPageview']);
+
+        (function () {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    </script>
+    <!-- Google Tag Manager -->
+    <noscript>
+        <iframe src="//www.googletagmanager.com/ns.html?id=GTM-RRST" height="0" width="0"
+            style="display: none; visibility: hidden"></iframe>
+    </noscript>
+    <script>		(function (w, d, s, l, i) {
+		    w[l] = w[l] || []; w[l].push({
+		        'gtm.start':
+    new Date().getTime(), event: 'gtm.js'
+		    }); var f = d.getElementsByTagName(s)[0],
 j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
 '//www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
 		})(window, document, 'script', 'dataLayer', 'GTM-RRST');</script>
-	<!-- End Google Tag Manager -->
+    <!-- End Google Tag Manager -->
 <script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
 <body>
-	<form name="aspnetForm" method="post" action="PrivacyPolicy.aspx" id="aspnetForm">
-<div>
-<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="">
-<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJMTgxMjAzNjcwD2QWAmYPZBYEAgEPZBYEAgcPFgIeBFRleHQFIzxNRVRBIE5BTUU9ImtleXdvcmRzIiBDT05URU5UPSIiIC8+ZAIIDxYCHwAFJjxNRVRBIE5BTUU9ImRlc2NyaXB0aW9uIiBDT05URU5UPSIiIC8+ZAIDD2QWBAIED2QWBAIDDxYCHgdWaXNpYmxlaGQCDA8WAh8BaGQCBQ9kFgJmD2QWAgIBDzwrAAkBAA8WBB4IRGF0YUtleXMWAB4LXyFJdGVtQ291bnQCCmQWFGYPZBYCZg8VAcABPGEgY2xhc3M9J1RpY2tlcicgaHJlZj0nL05ld3MvTmV3c0l0ZW0uYXNweD9BcnRpY2xlSUQ9NTI2OTQmQXJ0aWNsZVRpdGxlPVBhcmFnb25zK0xvc3MrV2lkZW5zJTJjK1JldmVudWUrVGFyZ2V0K2ZvcisyMDE1K2lzKyUyNDM2TSsnPlBhcmFnb24ncyBMb3NzIFdpZGVucywgUmV2ZW51ZSBUYXJnZXQgZm9yIDIwMTUgaXMgJDM2TSA8L2E+ZAICD2QWAmYPFQHbATxhIGNsYXNzPSdUaWNrZXInIGhyZWY9Jy9OZXdzL05ld3NJdGVtLmFzcHg/QXJ0aWNsZUlEPTUyNjkzJkFydGljbGVUaXRsZT1QcmVzcytSZWxlYXNlJTNhK0tpcmFuK0dlbXMrUHJlc2VudHMrU2Nob2xhcnNoaXBzK2ZvcitGdXR1cmUrQWNoaWV2ZXJzKyc+UHJlc3MgUmVsZWFzZTogS2lyYW4gR2VtcyBQcmVzZW50cyBTY2hvbGFyc2hpcHMgZm9yIEZ1dHVyZSBBY2hpZXZlcnMgPC9hPmQCBA9kFgJmDxUBywE8YSBjbGFzcz0nVGlja2VyJyBocmVmPScvTmV3cy9OZXdzSXRlbS5hc3B4P0FydGljbGVJRD01MjY4NyZBcnRpY2xlVGl0bGU9QnJvYWQrRGlhbW9uZCtTY3JlZW5pbmcrVGVzdCtpbitJbmRpYStSZXN1bHRzK2luK05vK1N5bnRoZXRpY3MnPkJyb2FkIERpYW1vbmQgU2NyZWVuaW5nIFRlc3QgaW4gSW5kaWEgUmVzdWx0cyBpbiBObyBTeW50aGV0aWNzPC9hPmQCBg9kFgJmDxUB0wE8YSBjbGFzcz0nVGlja2VyJyBocmVmPScvTmV3cy9OZXdzSXRlbS5hc3B4P0FydGljbGVJRD01MjY4NiZBcnRpY2xlVGl0bGU9VS5TLitIdW1hbitSaWdodHMrUmVwb3J0K05vdGVzK0NoaWxkK0xhYm9yK2luK01hbnkrRGlhbW9uZCtSZWdpb25zJz5VLlMuIEh1bWFuIFJpZ2h0cyBSZXBvcnQgTm90ZXMgQ2hpbGQgTGFib3IgaW4gTWFueSBEaWFtb25kIFJlZ2lvbnM8L2E+ZAIID2QWAmYPFQHTATxhIGNsYXNzPSdUaWNrZXInIGhyZWY9Jy9OZXdzL05ld3NJdGVtLmFzcHg/QXJ0aWNsZUlEPTUyNjg1JkFydGljbGVUaXRsZT1BV0RDJTNhK0FudHdlcnArRGlhbW9uZCtCYW5rK3RvK0Nsb3NlK1JlbWFpbmluZytBY2NvdW50cytvbitKdW5lKzMwJz5BV0RDOiBBbnR3ZXJwIERpYW1vbmQgQmFuayB0byBDbG9zZSBSZW1haW5pbmcgQWNjb3VudHMgb24gSnVuZSAzMDwvYT5kAgoPZBYCZg8VAX88YSBjbGFzcz0nVGlja2VyJyBocmVmPScvTmV3cy9OZXdzSXRlbS5hc3B4P0FydGljbGVJRD01MjY4NCZBcnRpY2xlVGl0bGU9UmlvK1RpbnRvK0V4aXRzK1ppbWJhYndlJz5SaW8gVGludG8gRXhpdHMgWmltYmFid2U8L2E+ZAIMD2QWAmYPFQG7ATxhIGNsYXNzPSdUaWNrZXInIGhyZWY9Jy9OZXdzL05ld3NJdGVtLmFzcHg/QXJ0aWNsZUlEPTUyNjc0JkFydGljbGVUaXRsZT1Db25zdW1lcnMrRGVtYW5kaW5nK1Jlc3BvbnNpYmxlK1NvdXJjaW5nK0Zyb20rSmV3ZWxlcnMnPkNvbnN1bWVycyBEZW1hbmRpbmcgUmVzcG9uc2libGUgU291cmNpbmcgRnJvbSBKZXdlbGVyczwvYT5kAg4PZBYCZg8VAYUBPGEgY2xhc3M9J1RpY2tlcicgaHJlZj0nL05ld3MvTmV3c0l0ZW0uYXNweD9BcnRpY2xlSUQ9NTI2ODMmQXJ0aWNsZVRpdGxlPU1hcmtldCtDb21tZW50cys2JTJmMjUlMmYyMDE1Jz5NYXJrZXQgQ29tbWVudHMgNi8yNS8yMDE1PC9hPmQCEA9kFgJmDxUBkQE8YSBjbGFzcz0nVGlja2VyJyBocmVmPScvTmV3cy9OZXdzSXRlbS5hc3B4P0FydGljbGVJRD01MjY4MiZBcnRpY2xlVGl0bGU9UmFwYXBvcnQrVHJhZGVXaXJlK0p1bmUrMjYlMmMrMjAxNSc+UmFwYXBvcnQgVHJhZGVXaXJlIEp1bmUgMjYsIDIwMTU8L2E+ZAISD2QWAmYPFQGdATxhIGNsYXNzPSdUaWNrZXInIGhyZWY9Jy9OZXdzL05ld3NJdGVtLmFzcHg/QXJ0aWNsZUlEPTM0OTc3JkFydGljbGVUaXRsZT1SYXBhcG9ydCtEaWFtb25kK0luZHVzdHJ5K1N0b2NrK1RyYWNrZXInPlJhcGFwb3J0IERpYW1vbmQgSW5kdXN0cnkgU3RvY2sgVHJhY2tlcjwvYT5kGAEFHl9fQ29udHJvbHNSZXF1aXJlUG9zdEJhY2tLZXlfXxYBBTNjdGwwMCRDb250ZW50UGxhY2VIb2xkZXJUb3BOYXZpZ2F0aW9uJGNoa1JlbWVtYmVyTWUGBP7NDekYEuFUk+R4X5BEHnSvnA==">
-</div>
-
-<script type="text/javascript">
-//<![CDATA[
-var theForm = document.forms['aspnetForm'];
-if (!theForm) {
-    theForm = document.aspnetForm;
-}
-function __doPostBack(eventTarget, eventArgument) {
-    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
-        theForm.__EVENTTARGET.value = eventTarget;
-        theForm.__EVENTARGUMENT.value = eventArgument;
-        theForm.submit();
-    }
-}
-//]]>
-</script>
-
-
-<script src="/WebResource.axd?d=zD9ET07V6tekvZGeobLTup1pWR_YlZJnLt9A2IrazTTyOmYrJWY7Q8gKpymluwQLM_1faad0msOXc220e_LEieN3R3s1&amp;t=635586452020000000" type="text/javascript"></script>
+    <form name="aspnetForm" method="post" action="PrivacyPolicy.aspx" id="aspnetForm">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJMTgxMjAzNjcwD2QWAmYPZBYEAgEPZBYEAgcPFgIeBFRleHQFIzxNRVRBIE5BTUU9ImtleXdvcmRzIiBDT05URU5UPSIiIC8+ZAIIDxYCHwAFJjxNRVRBIE5BTUU9ImRlc2NyaXB0aW9uIiBDT05URU5UPSIiIC8+ZAIDD2QWBAIED2QWBAIDDxYCHgdWaXNpYmxlaGQCDQ8WAh8BaGQCBQ9kFgJmD2QWAgIBDzwrAAkBAA8WBB4IRGF0YUtleXMWAB4LXyFJdGVtQ291bnQCBGQWCGYPZBYCZg8VAdsBPGEgY2xhc3M9J1RpY2tlcicgaHJlZj0nLyhTKGo0d3ZjYW10cnBqczB2NTVsd2gycnZmaSkpL05ld3MvTmV3c0l0ZW0uYXNweD9BcnRpY2xlSUQ9NTQwODEmQXJ0aWNsZVRpdGxlPUFMUk9TQSUyYytBV0RDK0hvbGQrRXhjbHVzaXZlK05ldHdvcmtpbmcrRXZlbnQraW4rTW9zY293Jz5BTFJPU0EsIEFXREMgSG9sZCBFeGNsdXNpdmUgTmV0d29ya2luZyBFdmVudCBpbiBNb3Njb3c8L2E+ZAICD2QWAmYPFQHTATxhIGNsYXNzPSdUaWNrZXInIGhyZWY9Jy8oUyhqNHd2Y2FtdHJwanMwdjU1bHdoMnJ2ZmkpKS9OZXdzL05ld3NJdGVtLmFzcHg/QXJ0aWNsZUlEPTU0MDc4JkFydGljbGVUaXRsZT1XYWxtYXJ0K0FkZHMrSW4tU3RvcmUrUGF5bWVudCtGZWF0dXJlK3RvK01vYmlsZStBcHAnPldhbG1hcnQgQWRkcyBJbi1TdG9yZSBQYXltZW50IEZlYXR1cmUgdG8gTW9iaWxlIEFwcDwvYT5kAgQPZBYCZg8VAfUBPGEgY2xhc3M9J1RpY2tlcicgaHJlZj0nLyhTKGo0d3ZjYW10cnBqczB2NTVsd2gycnZmaSkpL05ld3MvTmV3c0l0ZW0uYXNweD9BcnRpY2xlSUQ9NTQwNzcmQXJ0aWNsZVRpdGxlPUFMUk9TQSt0bytTdGljayt0bytMb25nLVRlcm0rQ29udHJhY3RzK3RvK0Vuc3VyZStTdGFibGUrUm91Z2grU3VwcGx5Jz5BTFJPU0EgdG8gU3RpY2sgdG8gTG9uZy1UZXJtIENvbnRyYWN0cyB0byBFbnN1cmUgU3RhYmxlIFJvdWdoIFN1cHBseTwvYT5kAgYPZBYCZg8VAaECPGEgY2xhc3M9J1RpY2tlcicgaHJlZj0nLyhTKGo0d3ZjYW10cnBqczB2NTVsd2gycnZmaSkpL05ld3MvTmV3c0l0ZW0uYXNweD9BcnRpY2xlSUQ9NTQwNzUmQXJ0aWNsZVRpdGxlPVNvdGhlYnklZTIlODAlOTlzK1Rha2VzKyUyNDUyTSthdCtOZXcrWW9yaytBdWN0aW9uJTNiK1F1ZWVuK05hemxpK05lY2tsYWNlK0RyYXdzK01vcmUrVGhhbislMjQ0TSc+U290aGVieeKAmXMgVGFrZXMgJDUyTSBhdCBOZXcgWW9yayBBdWN0aW9uOyBRdWVlbiBOYXpsaSBOZWNrbGFjZSBEcmF3cyBNb3JlIFRoYW4gJDRNPC9hPmQYAQUeX19Db250cm9sc1JlcXVpcmVQb3N0QmFja0tleV9fFgEFM2N0bDAwJENvbnRlbnRQbGFjZUhvbGRlclRvcE5hdmlnYXRpb24kY2hrUmVtZW1iZXJNZegfVXHxtYKddRMH9a70GqVeP4YI">
 
 
 <script src="/ScriptResource.axd?d=JZNCx7E_3p0h3Tsamqe6vq6MnL3uNNZGnXaJY1nVLj8YK-Ef4GrYHqrhPVDCkvytZCpvck5IzhuBEbQc8HR21sJcBh9-6OuGnmoEevg4Ql23K9jRhZKyHrjkNnZ01ZxbYjOtudFBnXh0vlnXroBYo14S-N_dQJ1ylSqrxUcBEl5ourqy0&amp;t=7b689585" type="text/javascript"></script>
-<script src="/ScriptResource.axd?d=9G8wGeewSAMQFMykmbnWGOBVL2xICEsVjUoTNNxOC0pM8uq-UrXuXqGkCHxkCcsPkp46f5x_8yTam9EoIxCJPvKZTK2Kj7p3Ib6YIUujB1mx2zzW21rNtr8JTRZqtb32MA1lltVSwBDrNweppF1890OaHQ6mRmxDNMON-XZ8JIn9bKXh0&amp;t=7b689585" type="text/javascript"></script>
-<div>
-
-	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="86DE8B8D">
-	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAbY4PU/A0Zd+qpGOV/jxyYzn1RcjtHAj66REed34CUNnqUF4enLXO3emfMk8iBi1qtcfV3Vae6Tm9hxjZ4JZutGzrmHhOXCMrJJ0j5pqSHIhAUIV18bWJiIQ4bDrCzwKWLLyL5fMUTualF5XA1dk6Yt075kLA==">
-</div>
-	<script type="text/javascript">
-//<![CDATA[
-Sys.WebForms.PageRequestManager._initialize('ctl00$ScriptManager1', 'aspnetForm', [], [], [], 90, 'ctl00');
-//]]>
-</script>
-
-	<table cellspacing="0" cellpadding="0" width="100%" class="InlineModalWindow" border="0" style="margin: auto; position: absolute; display: none; z-index: 1000;">
-		<tbody><tr>
-			<td style="width: 50%; border-right: none;">
-				<img src="/(S(hofddd55e2zsxt3k0rlkms45))/Images/clear.gif" height="0" alt="">
-			</td>
-			<td>
-				<table width="1000" cellpadding="0" cellspacing="0" border="0">
-					<tbody><tr>
-						<td align="center" style="text-align: center; float: none;">
-							<table cellpadding="0" cellspacing="0" border="0" width="100%">
-								<tbody><tr>
-									<td align="center">
-										<table cellpadding="0" cellspacing="0" border="0">
-											<tbody><tr class="Top">
-												<td class="OpeningStrip">
-													<img src="/(S(hofddd55e2zsxt3k0rlkms45))/Images/clear.gif" height="1" alt="">
-												</td>
-												<td class="Center">
-													<img src="/(S(hofddd55e2zsxt3k0rlkms45))/Images/clear.gif" height="1" alt="">
-												</td>
-												<td class="ClosingStrip CloseInlineModalWindow">
-													<img src="/(S(hofddd55e2zsxt3k0rlkms45))/Images/clear.gif" height="1" alt="">
-												</td>
-											</tr>
-											<tr class="Middle">
-												<td class="OpeningStrip">
-													<img src="/(S(hofddd55e2zsxt3k0rlkms45))/Images/clear.gif" height="1" alt="">
-												</td>
-												<td class="Center" id="WindowFadeiFrameContainer" style="width: 500px; height: 300px;">
-													<iframe id="WindowFadeiFrame" height="100%" width="100%" scrolling="no" frameborder="0">
-													</iframe>
-													<div id="InlineModalWindowMessage" style="display: inline-block;">
-													</div>
-													<span id="spnRedirectUrlOnClose" style="display: none"></span>
-													<div id="InlineModalWindowButtons" style="padding-top: 15px; display: none;">
-														<center>
-															<span id="InlineModalWindowButton1">
-																<input type="submit" name="ctl00$Button1" value="" onclick="return false;" id="ctl00_Button1" class="GrayCssButton CssButton" style="font-size: 12px;">
-															</span><span>&nbsp;&nbsp;&nbsp; <span id="InlineModalWindowButton2" style="display: none;">
-																<input type="submit" name="ctl00$Button2" value="" onclick="return false;" id="ctl00_Button2" class="GrayCssButton CssButton" style="font-size: 12px;">
-															</span></span>
-														</center>
-													</div>
-												</td>
-												<td class="ClosingStrip">
-													<img src="/(S(hofddd55e2zsxt3k0rlkms45))/Images/clear.gif" height="1" alt="">
-												</td>
-											</tr>
-											<tr class="Bottom">
-												<td class="OpeningStrip">
-													<img src="/(S(hofddd55e2zsxt3k0rlkms45))/Images/clear.gif" height="1" alt="">
-												</td>
-												<td class="Center">
-													<img src="/(S(hofddd55e2zsxt3k0rlkms45))/Images/clear.gif" height="1" alt="">
-												</td>
-												<td class="ClosingStrip">
-													<img src="/(S(hofddd55e2zsxt3k0rlkms45))/Images/clear.gif" height="1" alt="">
-												</td>
-											</tr>
-										</tbody></table>
-									</td>
-								</tr>
-							</tbody></table>
-						</td>
-					</tr>
-				</tbody></table>
-			</td>
-			<td style="width: 50%; border-right: none;">
-				<img src="/(S(hofddd55e2zsxt3k0rlkms45))/Images/clear.gif" height="1" alt="">
-			</td>
-		</tr>
-	</tbody></table>
-	<div id="PageWrapper">
-		
-			<div id="TabWrapper" style="background-color: #D2D2D2;">
-				<div id="TabBar" class="clearfix">
-					<div style="float: left;">
-						<ul>
-							<li style="border-left: none;"></li>
-							<li class="TabDnet selected"><a href="http://www.diamonds.net/" title="Diamonds.Net" onclick=" _gaq.push(['_trackEvent', 'Tabbar', 'Clicks', 'Dnet']); "><span class="TabIcon">
-								</span>&nbsp;&nbsp;Diamonds.Net</a></li>
-							<li class="TabRapnet"><a href="http://member.rapnet.com/" title="RapNet" onclick=" _gaq.push(['_trackEvent', 'Tabbar', 'Clicks', 'RapNet']); ">
-								<span class="TabIcon"></span>&nbsp;&nbsp;RapNet</a></li>
-							<li class="TabAuction"><a href="http://www.rapaportauctions.com/" title="Rapaport Auctions" onclick=" _gaq.push(['_trackEvent', 'Tabbar', 'Clicks', 'Auctions']); "><span class="TabIcon">
-								</span>&nbsp;&nbsp;Rapaport Auctions</a></li>
-							<li class="TabFairtrade"><a href="http://www.rapaportfairtrade.com/" title="FairTrade" onclick=" _gaq.push(['_trackEvent', 'Tabbar', 'Clicks', 'Fairtrade']); "><span class="TabIcon">
-								</span>&nbsp;&nbsp;FairTrade</a></li>
-							<li class="TabMore">
-								<ul>
-									<li><a href="http://www.diamonds.net/LAB/" onclick=" _gaq.push(['_trackEvent', 'Tabbar', 'Clicks', 'Labs']); ">
-										Rapaport Laboratory Services</a></li>
-									<li><a href="http://technet.rapaport.com/" onclick=" _gaq.push(['_trackEvent', 'Tabbar', 'Clicks', 'Technet']); ">
-										Rapaport TechNet</a></li>
-                                    <li><a href="http://www.thediamondshow.net/" onclick=" _gaq.push(['_trackEvent', 'Tabbar', 'Clicks', 'DiamondShow']); ">
-                                        The Diamond Show</a></li>
-								</ul>
-								More<span class="TabIcon" style="display: inline-block; margin-right: 9px; width: 16px;
-									height: 16px; background-image: url('/(S(hofddd55e2zsxt3k0rlkms45))/Images/icons/HomePage/tab_bar_sprite_sheet.png');
-									background-repeat: no-repeat; background-position: -64px 0; margin-left: 6px;"></span>
-							</li>
-							<li style="border-right: none;"></li>
-						</ul>
-					</div>
-					<div style="float: right; position: relative; top: 1px; padding-top: 2px;">
-						<div class="SocialboxWrapper plusone">
-							<div style="padding-top: 30px; position: absolute; width: 20px;">
-								<div class="Socialbox" style="">
-									<g:plus href="https://plus.google.com/111832981791656527785" rel="author" width="260" height="69">
-										</g:plus>
-								</div>
-							</div>
-							<img src="/(S(hofddd55e2zsxt3k0rlkms45))/Images/Icons/HomePage/google_icon.png" alt="Google+">
-						</div>
-						<div class="SocialboxWrapper twitter">
-							<div style="padding-top: 30px; position: absolute; width: 20px;">
-								<div class="Socialbox" style="background-color: white; padding: 5px; border: 1px solid #DCDCDC">
-									<a style="white-space: nowrap;" href="https://twitter.com/rapaport" class="twitter-follow-button" data-show-count="false">Follow @rapaport</a>
-								</div>
-							</div>
-							<img src="/(S(hofddd55e2zsxt3k0rlkms45))/Images/Icons/HomePage/twitter_icon.png" alt="Twitter" style="margin-left: 3px;">
-							
-						</div>
-						<div class="SocialboxWrapper facebook">
-							<div style="padding-top: 30px; position: absolute; width: 20px;">
-								<div class="Socialbox" style="background-color: white; padding: 5px; border: 1px solid #DCDCDC">
-									<iframe id="facebookContainer" scrolling="no" frameborder="0" style="border: none;
-										overflow: hidden; width: 200px; height: 90px;" allowtransparency="true"></iframe>
-								</div>
-							</div>
-							<img src="/(S(hofddd55e2zsxt3k0rlkms45))/Images/Icons/HomePage/facebook_icon.png" alt="Facebook" style="margin-left: 3px;">
-						</div>
-						<div class="SocialboxWrapper">
-							<a href="/(S(hofddd55e2zsxt3k0rlkms45))/News/RssNews.aspx" style="vertical-align: middle;">
-								<img src="/(S(hofddd55e2zsxt3k0rlkms45))/Images/Icons/HomePage/rss_icon.png" style="border: none;
-									margin-left: 3px; height: 20px;" alt="RSS Feeds" title="RSS Feeds"></a>
-						</div>
-						<a href="/(S(hofddd55e2zsxt3k0rlkms45))/Mobile/" class="MobileButton">Mobile
-							<!-- <span class="dd-arrow" style="background-image:url(/Images/icons/dropdown.png); background-repeat:no-repeat; display:inline-block; width:10px; height:10px; margin: 0 6px; position:relative; top:1px;"></span>-->
-						</a>
-						<div style="white-space: nowrap; text-shadow: 0 1px white; font-weight: bold; margin-left: 10px;
-							float: left; padding-top: 4px;" id="divTopClock">
-						</div>
-						
-					</div>
-				</div>
-			</div>
-		
-		
-			<div id="HeaderWrapper" style="width: 1000px; margin: auto; padding-top: 7px; padding-bottom: 15px;">
-				<div style="text-align: right; padding-bottom: 7px;">
-					בס"ד</div>
-				<table border="0" cellpadding="0" cellspacing="0" width="100%" style="margin-bottom: 17px;">
-					<tbody><tr>
-						<td>
-							<a href="/(S(hofddd55e2zsxt3k0rlkms45))/" style="display: block;">
-								<img id="ctl00_ContentPlaceHolderTopNavigation_imgHeaderLogo" src="../Images/Masterpage/header_logo.gif" alt="Diamonds.Net" style="width:502px;border-width:0px;border: none;">
-							</a>
-						</td>
-						<td align="right" style="text-align: right;">
-							
-								<iframe id="ifrmResultsBanner" src="/(S(hofddd55e2zsxt3k0rlkms45))/Ads/PageBanner.aspx?BannerGroup=0" width="468" height="60" marginwidth="0" marginheight="0" frameborder="0" scrolling="no">
-								</iframe>
-							
-						</td>
-					</tr>
-				</tbody></table>
-				<div id="MainNavigation">
-					<ul>
-						<li id="ctl00_ContentPlaceHolderTopNavigation_liPricesGuest" class="GuestMenu"><a href="../Prices/" id="ctl00_ContentPlaceHolderTopNavigation_aPricesGuest">Diamond Prices</a>
-							<ul>
-								<li><a href="/(S(hofddd55e2zsxt3k0rlkms45))/Prices/">Rapaport Diamond Prices</a>
-									<div class="MenuSeparator">
-								</div></li>
-								<li><a href="/(S(hofddd55e2zsxt3k0rlkms45))/Prices/RapaportSpecs.aspx">Rapaport Diamond Specifications</a>
-									<div class="MenuSeparator">
-								</div></li>
-								<li><a href="/(S(hofddd55e2zsxt3k0rlkms45))/Prices/RapaportPriceLists.aspx">Rapaport Price Lists</a>
-									<div class="MenuSeparator">
-								</div></li>
-								<li><a href="/(S(hofddd55e2zsxt3k0rlkms45))/Prices/DiamondPriceCalculator.aspx">Price Calculator</a>
-									<div class="MenuSeparator">
-								</div></li>
-								<li><a href="/(S(hofddd55e2zsxt3k0rlkms45))/Prices/RapaportDiamondPrices.aspx">Real Time Price Data</a>
-									<div class="MenuSeparator">
-								</div></li>
-								<li><a href="/(S(hofddd55e2zsxt3k0rlkms45))/Prices/Mobile.aspx">Prices on your Mobile</a>
-									<div class="MenuSeparator">
-								</div></li>
-								<li><a href="/(S(hofddd55e2zsxt3k0rlkms45))/Prices/RapaportPriceGuide.aspx">All About Price Lists</a>
-									<div class="MenuSeparator">
-								</div></li>
-								<li><a href="/(S(hofddd55e2zsxt3k0rlkms45))/Subscribe/Subscription.aspx?ShowSubscription=PRICE_SHEET">
-									Subscribe</a>
-									<div class="MenuSeparator">
-								</div></li>
-								<li><a href="/(S(hofddd55e2zsxt3k0rlkms45))/Store/PriceLists.aspx">Buy Historical Price Lists</a></li>
-							</ul>
-						</li>
-						
-						<li><a href="../News/Articles.aspx" id="ctl00_ContentPlaceHolderTopNavigation_aNews">News</a>
-							<ul>
-								<li><a href="/(S(hofddd55e2zsxt3k0rlkms45))/News/Articles.aspx">Latest News</a>
-									<div class="MenuSeparator">
-								</div></li>
-								<li><a href="/(S(hofddd55e2zsxt3k0rlkms45))/News/Videos/">Videos</a>
-									<div class="MenuSeparator">
-								</div></li>
-								<li><a href="/(S(hofddd55e2zsxt3k0rlkms45))/News/Articles.aspx?AuthorSearch=Martin%20Rapaport&amp;FullSearch=true">
-									Martin Rapaport</a>
-									<div class="MenuSeparator">
-								</div></li>
-								<li><a href="/(S(hofddd55e2zsxt3k0rlkms45))/Calendar/">Trade Calendar</a>
-									<div class="MenuSeparator">
-								</div></li>
-								<li><a href="/(S(hofddd55e2zsxt3k0rlkms45))/WeeklyReport/">Weekly Report</a>
-									<div class="MenuSeparator">
-								</div></li>
-								<li><a href="/(S(hofddd55e2zsxt3k0rlkms45))/Tradewire/">TradeWire Email</a>
-									<div class="MenuSeparator">
-								</div></li>
-								<li><a href="/(S(hofddd55e2zsxt3k0rlkms45))/DailyEmail/Latest.aspx">NewsBrief Email</a>
-									<div class="MenuSeparator">
-								</div></li>
-								<li><a href="/(S(hofddd55e2zsxt3k0rlkms45))/NewsFeed/">News Feed</a>
-									<div class="MenuSeparator">
-								</div></li>
-								<li><a href="/(S(hofddd55e2zsxt3k0rlkms45))/Subscribe/Subscription.aspx?ShowSubscription=TRADEWIRE">
-									Subscribe</a></li>
-							</ul>
-						</li>
-						<li><a href="../Reports/" id="ctl00_ContentPlaceHolderTopNavigation_aReports">Reports</a>
-							<ul>
-								<li><a href="/(S(hofddd55e2zsxt3k0rlkms45))/Reports/">Reports Home</a>
-									<div class="MenuSeparator">
-								</div></li>
-								<li><a href="/(S(hofddd55e2zsxt3k0rlkms45))/WeeklyReport/Default.aspx">Rapaport Weekly Report</a>
-									<div class="MenuSeparator">
-								</div></li>
-								<li><a href="/(S(hofddd55e2zsxt3k0rlkms45))/Store/PriceReports.aspx?Report=2">Rapaport Monthly Report</a>
-									<div class="MenuSeparator">
-								</div></li>
-								<li><a href="/(S(hofddd55e2zsxt3k0rlkms45))/Store/PriceReports.aspx?Report=1">Annual Price Statistics</a>
-									<div class="MenuSeparator">
-								</div></li>
-								<li><a href="/(S(hofddd55e2zsxt3k0rlkms45))/Store/Reports.aspx">In-Depth Reports</a> 
-									<div class="MenuSeparator">
-                                </div></li>
-   								<li><a href="/(S(hofddd55e2zsxt3k0rlkms45))/Synthetics/Default.aspx">Special Reports</a> 
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="86DE8B8D">
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAbpurDq3W/oDCl1gqUQcCCKn1RcjtHAj66REed34CUNnqUF4enLXO3emfMk8iBi1qtcfV3Vae6Tm9hxjZ4JZutGzrmHhOXCMrJJ0j5pqSHIhAUIV18bWJiIQ4bDrCzwKWKKeOz1geK1uFHC7xmjneXlLr31Pg==">
+        
+        <table cellspacing="0" cellpadding="0" width="100%" class="InlineModalWindow" border="0" style="margin: auto; position: absolute; display: none; z-index: 1000;">
+            <tbody><tr>
+                <td style="width: 50%; border-right: none;">
+                    <img src="/Images/clear.gif" height="0" alt="">
+                </td>
+                <td>
+                    <table width="1000" cellpadding="0" cellspacing="0" border="0">
+                        <tbody><tr>
+                            <td align="center" style="text-align: center; float: none;">
+                                <table cellpadding="0" cellspacing="0" border="0" width="100%">
+                                    <tbody><tr>
+                                        <td align="center">
+                                            <table cellpadding="0" cellspacing="0" border="0">
+                                                <tbody><tr class="Top">
+                                                    <td class="OpeningStrip">
+                                                        <img src="/Images/clear.gif" height="1" alt="">
+                                                    </td>
+                                                    <td class="Center">
+                                                        <img src="/Images/clear.gif" height="1" alt="">
+                                                    </td>
+                                                    <td class="ClosingStrip CloseInlineModalWindow">
+                                                        <img src="/Images/clear.gif" height="1" alt="">
+                                                    </td>
+                                                </tr>
+                                                <tr class="Middle">
+                                                    <td class="OpeningStrip">
+                                                        <img src="/Images/clear.gif" height="1" alt="">
+                                                    </td>
+                                                    <td class="Center" id="WindowFadeiFrameContainer" style="width: 500px; height: 300px;">
+                                                        <iframe id="WindowFadeiFrame" height="100%" width="100%" scrolling="no" frameborder="0"></iframe>
+                                                        <div id="InlineModalWindowMessage" style="display: inline-block;">
+                                                        </div>
+                                                        <span id="spnRedirectUrlOnClose" style="display: none"></span>
+                                                        <div id="InlineModalWindowButtons" style="padding-top: 15px; display: none;">
+                                                            <center>
+                                                                <span id="InlineModalWindowButton1">
+                                                                    <input type="submit" name="ctl00$Button1" value="" onclick="return false;" id="ctl00_Button1" class="GrayCssButton CssButton" style="font-size: 12px;">
+                                                                </span><span>&nbsp;&nbsp;&nbsp; <span id="InlineModalWindowButton2" style="display: none;">
+                                                                    <input type="submit" name="ctl00$Button2" value="" onclick="return false;" id="ctl00_Button2" class="GrayCssButton CssButton" style="font-size: 12px;">
+                                                                </span></span>
+                                                            </center>
+                                                        </div>
+                                                    </td>
+                                                    <td class="ClosingStrip">
+                                                        <img src="/Images/clear.gif" height="1" alt="">
+                                                    </td>
+                                                </tr>
+                                                <tr class="Bottom">
+                                                    <td class="OpeningStrip">
+                                                        <img src="/Images/clear.gif" height="1" alt="">
+                                                    </td>
+                                                    <td class="Center">
+                                                        <img src="/Images/clear.gif" height="1" alt="">
+                                                    </td>
+                                                    <td class="ClosingStrip">
+                                                        <img src="/Images/clear.gif" height="1" alt="">
+                                                    </td>
+                                                </tr>
+                                            </tbody></table>
+                                        </td>
+                                    </tr>
+                                </tbody></table>
+                            </td>
+                        </tr>
+                    </tbody></table>
+                </td>
+                <td style="width: 50%; border-right: none;">
+                    <img src="/Images/clear.gif" height="1" alt="">
+                </td>
+            </tr>
+        </tbody></table>
+        <div id="PageWrapper">
+            
+                <div id="TabWrapper" style="background-color: #D2D2D2;">
+                    <div id="TabBar" class="clearfix">
+                        <div style="float: left;">
+                            <ul>
+                                <li style="border-left: none;"></li>
+                                <li class="TabDnet selected"><a href="http://www.diamonds.net/" title="Diamonds.Net" onclick=" _gaq.push(['_trackEvent', 'Tabbar', 'Clicks', 'Dnet']); "><span class="TabIcon"></span>&nbsp;&nbsp;Diamonds.Net</a></li>
+                                <li class="TabRapnet"><a href="http://www.rapnet.com/" title="RapNet.com" onclick=" _gaq.push(['_trackEvent', 'Tabbar', 'Clicks', 'RapNet']); ">
+                                    <span class="TabIcon"></span>&nbsp;&nbsp;RapNet.com</a></li>
+                                <li class="TabAuction"><a href="http://www.rapaportauctions.com/" title="Rapaport Auctions" onclick=" _gaq.push(['_trackEvent', 'Tabbar', 'Clicks', 'Auctions']); "><span class="TabIcon"></span>&nbsp;&nbsp;Rapaport Auctions</a></li>
+                                <li class="TabFairtrade"><a href="http://www.rapaportfairtrade.com/" title="FairTrade" onclick=" _gaq.push(['_trackEvent', 'Tabbar', 'Clicks', 'Fairtrade']); "><span class="TabIcon"></span>&nbsp;&nbsp;FairTrade</a></li>
+                                <li class="TabMore">
+                                    <ul>
+                                        <li><a href="http://www.diamonds.net/LAB/" onclick=" _gaq.push(['_trackEvent', 'Tabbar', 'Clicks', 'Labs']); ">Rapaport Laboratory Services</a></li>
+                                        <li><a href="http://technet.rapaport.com/" onclick=" _gaq.push(['_trackEvent', 'Tabbar', 'Clicks', 'Technet']); ">Rapaport TechNet</a></li>
+                                        <li><a href="http://www.thediamondshow.net/" onclick=" _gaq.push(['_trackEvent', 'Tabbar', 'Clicks', 'DiamondShow']); ">The Diamond Show</a></li>
+                                    </ul>
+                                    More<span class="TabIcon" style="display: inline-block; margin-right: 9px; width: 16px; height: 16px; background-image: url('/Images/icons/HomePage/tab_bar_sprite_sheet.png'); background-repeat: no-repeat; background-position: -64px 0; margin-left: 6px;"></span>
                                 </li>
-							</ul>
-						</li>
-						<li><a href="../Magazine/Default.aspx" id="ctl00_ContentPlaceHolderTopNavigation_aMagazine">Magazine</a>
-							<ul>
-								<li><a href="/(S(hofddd55e2zsxt3k0rlkms45))/Magazine/Default.aspx">Table of Contents</a>
-									<div class="MenuSeparator">
-								</div></li>
-								<li><a href="/(S(hofddd55e2zsxt3k0rlkms45))/Magazine/Flipbook.aspx">Flipbook</a>
-									<div class="MenuSeparator">
-								</div></li>
-								<li><a target="_blank" href="https://itunes.apple.com/us/app/rapaport-magazine/id531661584">
-									Magazine for iPad</a>
-									<div class="MenuSeparator">
-								</div></li>
-								<li><a href="/(S(hofddd55e2zsxt3k0rlkms45))/Magazine/About.aspx">About the Magazine</a>
-									<div class="MenuSeparator">
-								</div></li>
-								<li><a href="/(S(hofddd55e2zsxt3k0rlkms45))/Subscribe/Subscription.aspx?ShowSubscription=RDR">Subscribe</a>
-								</li>
-							</ul>
-						</li>
-						<li><a href="../Store/PriceStatistics2014.aspx" id="ctl00_ContentPlaceHolderTopNavigation_aStore">Store</a>
-							
-								
-							
-						</li>
-						<li><a href="../Trading/RapNet.aspx" id="ctl00_ContentPlaceHolderTopNavigation_aTrading">Trading</a>
-							<ul>
-								<li><a href="/(S(hofddd55e2zsxt3k0rlkms45))/Trading/RapNet.aspx">RapNet Diamond Trading Network</a>
-									<div class="MenuSeparator">
-								</div></li>
-								<li><a href="/(S(hofddd55e2zsxt3k0rlkms45))/Trading/RapaportAuctions.aspx">Rapaport Auctions</a>
-									<div class="MenuSeparator">
-								</div></li>
-								<li><a href="/(S(hofddd55e2zsxt3k0rlkms45))/Trading/InvestmentDiamonds.aspx">Investment Diamonds</a>
-									<div class="MenuSeparator">
-								</div></li>
-								<li><a href="/(S(hofddd55e2zsxt3k0rlkms45))/Trading/LabServices.aspx">Rapaport Laboratory Services</a>
-									<div class="MenuSeparator">
-								</div></li>
-								<li><a href="/(S(hofddd55e2zsxt3k0rlkms45))/Trading/InventoryLink.aspx">RapNet Inventory Link</a>
-									<div class="MenuSeparator">
-								</div></li>
-								<li><a href="/(S(hofddd55e2zsxt3k0rlkms45))/Subscribe/Subscription.aspx?ShowSubscription=RAPNET">
-									Join RapNet</a></li>
-							</ul>
-						</li>
-						<li><a href="../About/" id="ctl00_ContentPlaceHolderTopNavigation_aAbout">About Us</a>
-							<ul>
-								<li><a href="/(S(hofddd55e2zsxt3k0rlkms45))/About/">About Rapaport</a>
-									<div class="MenuSeparator">
-								</div></li>
-								<li><a href="/(S(hofddd55e2zsxt3k0rlkms45))/MediaCenter/">Media Center</a>
-									<div class="MenuSeparator">
-								</div></li>
-								<li><a href="/(S(hofddd55e2zsxt3k0rlkms45))/About/Events.aspx">Rapaport Events</a>
-									<div class="MenuSeparator">
-								</div></li>
-								<li><a href="/(S(hofddd55e2zsxt3k0rlkms45))/About/Conferences.aspx">Rapaport Conferences</a>
-									<div class="MenuSeparator">
-								</div></li>
-								<li><a href="/(S(hofddd55e2zsxt3k0rlkms45))/About/CorporateResponsibility.aspx">Corporate Responsibility</a>
-									<div class="MenuSeparator">
-								</div></li>
-								<li><a href="/(S(hofddd55e2zsxt3k0rlkms45))/About/HumanRights/">Ethical Diamonds &amp; Jewelry</a>
-									<div class="MenuSeparator">
-								</div></li>
-								<li><a href="/(S(hofddd55e2zsxt3k0rlkms45))/About/Careers.aspx">Careers</a>
-									<div class="MenuSeparator">
-								</div></li>
-								<li><a href="/(S(hofddd55e2zsxt3k0rlkms45))/About/Advertise.aspx">Advertise with Us</a>
-									<div class="MenuSeparator">
-								</div></li>
-								<li><a href="/(S(hofddd55e2zsxt3k0rlkms45))/GetFile.aspx?FileID=17" target="_blank">Rapaport Info
+                                <li style="border-right: none;"></li>
+                            </ul>
+                        </div>
+                        <div style="float: right; position: relative; top: 1px; padding-top: 2px;">
+                            <div class="SocialboxWrapper plusone">
+                                
+                                <a href="https://plus.google.com/111832981791656527785" target="_blank">
+                                    <img src="/Images/Icons/HomePage/google_icon.png" alt="Google+">
+                                </a>
+                            </div>
+                            <div class="SocialboxWrapper twitter">
+                                
+                                <a href="https://twitter.com/rapaport" target="_blank">
+                                    <img src="/Images/Icons/HomePage/twitter_icon.png" alt="Twitter" style="margin-left: 3px;"></a>
+
+                                
+                            </div>
+                            <div class="SocialboxWrapper facebook">
+                                
+                                 <a href="https://www.facebook.com/rapaport" target="_blank">
+                                    <img src="/Images/Icons/HomePage/facebook_icon.png" alt="Facebook" style="margin-left: 3px;"></a>
+
+
+                           
+                            </div>
+                            <div class="SocialboxWrapper">
+                                <a href="/NewsFeed/default.aspx" style="vertical-align: middle;">
+                                    <img src="/Images/Icons/HomePage/rss_icon.png" style="border: none; margin-left: 3px; height: 20px;" alt="RSS Feeds" title="RSS Feeds"></a>
+                            </div>
+                            
+                            <div style="white-space: nowrap; text-shadow: 0 1px white; font-weight: bold; margin-left: 10px; float: left; padding-top: 4px;" id="divTopClock">Dec 12, 2015 15:55 NY</div>
+                            
+                        </div>
+                    </div>
+                </div>
+            
+            
+                <div id="HeaderWrapper" style="width: 1000px; margin: auto; padding-top: 7px; padding-bottom: 15px;">
+                    <div style="text-align: right; padding-bottom: 7px;">
+                        בס"ד
+                    </div>
+                    <table border="0" cellpadding="0" cellspacing="0" width="100%" style="margin-bottom: 17px;">
+                        <tbody><tr>
+                            <td>
+                                <a href="/" style="display: block;">
+                                    <img id="ctl00_ContentPlaceHolderTopNavigation_imgHeaderLogo" src="../Images/Masterpage/header_logo.gif" alt="Diamonds.Net" width="502" border="0" style="border: none;">
+                                </a>
+                            </td>
+                            <td align="right" style="text-align: right;">
+                                
+                                    <iframe id="ifrmResultsBanner" src="/Ads/PageBanner.aspx?BannerGroup=0" width="468" height="60" marginwidth="0" marginheight="0" frameborder="0" scrolling="no"></iframe>
+                                
+                            </td>
+                        </tr>
+                    </tbody></table>
+                    <div id="MainNavigation">
+                        <ul>
+                            <li id="ctl00_ContentPlaceHolderTopNavigation_liPricesGuest" class="GuestMenu"><a href="../Prices/" id="ctl00_ContentPlaceHolderTopNavigation_aPricesGuest">Diamond Prices</a>
+                                <ul>
+                                    <li><a href="/Prices/">Rapaport Diamond Prices</a>
+                                        <div class="MenuSeparator">
+                                    </div></li>
+                                    <li><a href="/Prices/RapaportSpecs.aspx">Rapaport Diamond Specifications</a>
+                                        <div class="MenuSeparator">
+                                    </div></li>
+                                    <li><a href="/Prices/RapaportPriceLists.aspx">Rapaport Price Lists</a>
+                                        <div class="MenuSeparator">
+                                    </div></li>
+                                    <li><a href="/Prices/DiamondPriceCalculator.aspx">Price Calculator</a>
+                                        <div class="MenuSeparator">
+                                    </div></li>
+                                    <li><a href="/Prices/RapaportDiamondPrices.aspx">Real Time Price Data</a>
+                                        <div class="MenuSeparator">
+                                    </div></li>
+                                    
+                                    <li><a href="/Prices/RapaportPriceGuide.aspx">All About Price Lists</a>
+                                        <div class="MenuSeparator">
+                                    </div></li>
+                                    <li><a href="/Subscribe">Subscribe</a>
+                                        <div class="MenuSeparator">
+                                    </div></li>
+                                    <li><a href="/Store/PriceLists.aspx">Buy Historical Price Lists</a></li>
+                                </ul>
+                            </li>
+                            
+                            <li><a href="../News/Articles.aspx" id="ctl00_ContentPlaceHolderTopNavigation_aNews">News</a>
+                                <ul>
+                                    <li><a href="/News/Articles.aspx">Latest News</a>
+                                        <div class="MenuSeparator">
+                                    </div></li>
+                                    <li><a href="/News/Videos/">Videos</a>
+                                        <div class="MenuSeparator">
+                                    </div></li>
+                                    <li><a href="/News/Articles.aspx?AuthorSearch=Martin%20Rapaport&amp;FullSearch=true">Martin Rapaport</a>
+                                        <div class="MenuSeparator">
+                                    </div></li>
+                                    <li><a href="/Calendar/">Trade Calendar</a>
+                                        <div class="MenuSeparator">
+                                    </div></li>
+                                    
+                                    <li><a href="/Tradewire/">TradeWire Email</a>
+                                        <div class="MenuSeparator">
+                                    </div></li>
+                                    <li><a href="/DailyEmail/Latest.aspx">NewsBrief Email</a>
+                                        <div class="MenuSeparator">
+                                    </div></li>
+                                    <li><a href="/NewsFeed/">News Feed</a>
+                                        <div class="MenuSeparator">
+                                    </div></li>
+                                    <li><a href="/Subscribe/Subscription.aspx?ShowSubscription=TRADEWIRE">Subscribe</a></li>
+                                </ul>
+                            </li>
+                            <li><a href="../Reports/" id="ctl00_ContentPlaceHolderTopNavigation_aReports">Reports</a>
+                                <ul>
+                                    <li><a href="/Reports/">Reports Home</a>
+                                        <div class="MenuSeparator">
+                                    </div></li>
+                                    
+                                    <li><a href="/Store/PriceReports.aspx?Report=2">Rapaport Monthly Report</a>
+                                        <div class="MenuSeparator">
+                                    </div></li>
+                                    <li><a href="/Store/PriceReports.aspx?Report=1">Annual Price Statistics</a>
+                                        <div class="MenuSeparator">
+                                    </div></li>
+                                    <li><a href="/Store/Reports.aspx">In-Depth Reports</a>
+                                        <div class="MenuSeparator">
+                                    </div></li>
+                                    <li><a href="/Synthetics/Default.aspx">Special Reports</a>
+                                    </li>
+                                </ul>
+                            </li>
+                            <li><a href="../Magazine/Default.aspx" id="ctl00_ContentPlaceHolderTopNavigation_aMagazine">Magazine</a>
+                                <ul>
+                                    <li><a href="/Magazine/Default.aspx">Table of Contents</a>
+                                        <div class="MenuSeparator">
+                                    </div></li>
+                                    <li><a href="/Magazine/Flipbook.aspx">Flipbook</a>
+                                        <div class="MenuSeparator">
+                                    </div></li>
+                                    <li><a target="_blank" href="https://itunes.apple.com/us/app/rapaport-magazine/id531661584">Magazine for iPad</a>
+                                        <div class="MenuSeparator">
+                                    </div></li>
+                                    <li><a href="/Magazine/About.aspx">About the Magazine</a>
+                                        <div class="MenuSeparator">
+                                    </div></li>
+                                    <li id="ctl00_ContentPlaceHolderTopNavigation_liMagazineSubscribe"><a href="/Subscribe/">Subscribe</a>
+                                    </li>
+                                </ul>
+                            </li>
+                            <li><a href="../Store/AuctionResultsSpring2015.aspx" id="ctl00_ContentPlaceHolderTopNavigation_aStore">Store</a>
+                                
+                                
+                                
+                            </li>
+                            <li><a href="../Trading/RapNet.aspx" id="ctl00_ContentPlaceHolderTopNavigation_aTrading">Trading</a>
+                                <ul>
+                                    <li><a href="/Trading/RapNet.aspx">RapNet Diamond Trading Network</a>
+                                        <div class="MenuSeparator">
+                                    </div></li>
+                                    <li><a href="/Trading/RapaportAuctions.aspx">Rapaport Auctions</a>
+                                        <div class="MenuSeparator">
+                                    </div></li>
+                                    <li><a href="/Trading/InvestmentDiamonds.aspx">Investment Diamonds</a>
+                                        <div class="MenuSeparator">
+                                    </div></li>
+                                    <li><a href="/Trading/LabServices.aspx">Rapaport Laboratory Services</a>
+                                        <div class="MenuSeparator">
+                                    </div></li>
+                                    <li><a href="/Trading/InventoryLink.aspx">RapNet Instant Inventory</a>
+                                        <div class="MenuSeparator">
+                                    </div></li>
+                                    <li><a href="/Subscribe/">Join RapNet</a></li>
+                                </ul>
+                            </li>
+                            <li><a href="../About/" id="ctl00_ContentPlaceHolderTopNavigation_aAbout">About Us</a>
+                                <ul>
+                                    <li><a href="/About/">About Rapaport</a>
+                                        <div class="MenuSeparator">
+                                    </div></li>
+                                    <li><a href="/MediaCenter/">Media Center</a>
+                                        <div class="MenuSeparator">
+                                    </div></li>
+                                    <li><a href="/About/Events.aspx">Rapaport Events</a>
+                                        <div class="MenuSeparator">
+                                    </div></li>
+                                    <li><a href="/About/Conferences.aspx">Rapaport Conferences</a>
+                                        <div class="MenuSeparator">
+                                    </div></li>
+                                    <li><a href="/About/CorporateResponsibility.aspx">Corporate Responsibility</a>
+                                        <div class="MenuSeparator">
+                                    </div></li>
+                                    <li><a href="/About/HumanRights/">Ethical Diamonds &amp; Jewelry</a>
+                                        <div class="MenuSeparator">
+                                    </div></li>
+                                    <li><a href="/About/Careers.aspx">Careers</a>
+                                        <div class="MenuSeparator">
+                                    </div></li>
+                                    <li><a href="/About/Advertise.aspx">Advertise with Us</a>
+                                        <div class="MenuSeparator">
+                                    </div></li>
+                                    <li><a href="/GetFile.aspx?FileID=17" target="_blank">Rapaport Info
 									Kit (PDF)</a></li>
-							</ul>
-						</li>
-						<li><a href="../ContactUs/" id="ctl00_ContentPlaceHolderTopNavigation_aContactUS">Contact Us</a>
-							<ul>
-								<li><a href="/(S(hofddd55e2zsxt3k0rlkms45))/ContactUs/ContactForm.aspx">Customer Service</a>
-									<div class="MenuSeparator">
-								</div></li>
-								<li><a href="/(S(hofddd55e2zsxt3k0rlkms45))/ContactUs/Offices.aspx">Contact Regional Offices</a>
-									<div class="MenuSeparator">
-								</div></li>
-								<li><a href="/(S(hofddd55e2zsxt3k0rlkms45))/ContactUs/Representatives.aspx">Contact a Representative</a>
-								</li>
-							</ul>
-						</li>
-						<li></li>
-					</ul>
-					<div id="ctl00_ContentPlaceHolderTopNavigation_divLoginGuest" class="GuestMenu" style="position: absolute;
-						top: 0; right: 0;">
-						<div id="TopLoginBox" style="display: none; width: 320px; height: 200px; background-color: #777777;
-							position: absolute; margin-left: -190px; margin-top: 10px; border-radius: 1em 0 1em 1em;
-							top: 25px; right: 4px; z-index: 500;">
-							<div id="BlackLoginTab" style="cursor: pointer; margin-left: 52px; width: 86px; height: 35px;
-								background-color: #777777; margin-top: -32px; z-index: 500; border-radius: 0.5em 0.5em 0 0;
-								position: relative; float: right; color: #ffffff;">
-								<span style="display: inline-block; margin: auto; margin-left: 21px; margin-top: 4px;">
-									Login ▼</span>
-							</div>
-							<div style="position: relative; padding: 20px; color: White;">
-								<table border="0" cellpadding="0" cellspacing="0">
-									<tbody><tr>
-										<td>
-											<table border="0" cellpadding="0" cellspacing="0">
-												<tbody><tr>
-													<td style="padding-right: 10px; vertical-align: middle;">
-														Username:
-													</td>
-													<td>
-														<input name="ctl00$ContentPlaceHolderTopNavigation$txtUserName" type="text" id="ctl00_ContentPlaceHolderTopNavigation_txtUserName" style="height: 30px; width: 170px; border-radius: 1em;
-															color: #AAA; float: right; padding-left: 10px;">
-													</td>
-												</tr>
-												<tr>
-													<td style="padding-right: 10px; padding-top: 10px; vertical-align: middle;">
-														Password:
-													</td>
-													<td style="padding-top: 10px;">
-														<input name="ctl00$ContentPlaceHolderTopNavigation$txtPassword" type="password" id="ctl00_ContentPlaceHolderTopNavigation_txtPassword" style="float: right; height: 30px; width: 170px;
-															border-radius: 1em; color: #AAA; padding-left: 10px;">
-													</td>
-												</tr>
-											</tbody></table>
-										</td>
-									</tr>
-									<tr>
-										<td>
-											<table border="0" cellpadding="0" cellspacing="0" style="padding-top: 20px;" width="100%">
-												<tbody><tr>
-													<td style="vertical-align: middle;">
-														<a style="text-decoration: underline; color: #FFFFFF;" href="/(S(hofddd55e2zsxt3k0rlkms45))/Login/PasswordReminder.aspx">
-															Forgot your password? »</a>
-													</td>
-													<td align="right" style="text-align: right;">
-														<a id="TopLoginButton" style="padding: 0.7em 2em; color: #FFFFFF;" class="RedCssButton CssButton" onclick="  PostUserPass('ctl00_ContentPlaceHolderTopNavigation_txtUserName', 'ctl00_ContentPlaceHolderTopNavigation_txtPassword', 'ctl00_ContentPlaceHolderTopNavigation_chkRememberMe');">
-															Login</a>
-													</td>
-												</tr>
-											</tbody></table>
-										</td>
-									</tr>
-									<tr>
-										<td>
-											<table border="0" cellpadding="0" cellspacing="0" style="padding-top: 10px; font-size: 0.8em;" width="100%">
-												<tbody><tr>
-													<td style="white-space: nowrap; padding-right: 30px;">
-														<input id="ctl00_ContentPlaceHolderTopNavigation_chkRememberMe" type="checkbox" name="ctl00$ContentPlaceHolderTopNavigation$chkRememberMe"><label for="ctl00_ContentPlaceHolderTopNavigation_chkRememberMe">Remember me</label>
-													</td>
-													<td id="tdLoginMessage" style="display: none; padding-left: 16px; background-repeat: no-repeat;
-														background-image: url('/(S(hofddd55e2zsxt3k0rlkms45))/Images/Icons/HomePage/close_sign.png');">
-														<span id="ctl00_ContentPlaceHolderTopNavigation_lblLoginMessage" style="color: #f0888f; font-style: italic;"></span>
-													</td>
-												</tr>
-											</tbody></table>
-										</td>
-									</tr>
-								</tbody></table>
-							</div>
-						</div>
-						<a href="/(S(hofddd55e2zsxt3k0rlkms45))/Subscribe/" class="LoginJoinButton" style="margin-right: 5px;">
-							Join</a> <a class="LoginJoinButton" style="cursor: pointer; margin-right: 10px; padding-left: 10px;
-								padding-right: 6px;" onclick=" ShowTopLoginBox(); ">Login ▼</a>
-					</div>
-					
-				</div>
-			</div>
-		
-		
-			<div id="TickerWrapper" class="GlowingEdges">
-				<table border="0" cellpadding="0" cellspacing="0" style="height: 100%;">
-					<tbody><tr>
-						<td>
-							<div id="ctl00_ContentPlaceHolderTopTitleDate_panTicker" style="padding: 0 10px; line-height: 30px;">
+                                </ul>
+                            </li>
+                            <li><a href="../ContactUs/" id="ctl00_ContentPlaceHolderTopNavigation_aContactUS">Contact Us</a>
+                                <ul>
+                                    <li><a href="/ContactUs/ContactForm.aspx">Customer Service</a>
+                                        <div class="MenuSeparator">
+                                    </div></li>
+                                    <li><a href="/ContactUs/Offices.aspx">Contact Regional Offices</a>
+                                        <div class="MenuSeparator">
+                                    </div></li>
+                                    <li><a href="/ContactUs/Representatives.aspx">Contact a Representative</a>
+                                    </li>
+                                </ul>
+                            </li>
+                            <li></li>
+                        </ul>
+                        <div id="ctl00_ContentPlaceHolderTopNavigation_divLoginGuest" class="GuestMenu" style="position: absolute; top: 0; right: 0;">
+                            <div id="TopLoginBox" style="display: none; width: 320px; height: 200px; background-color: #777777; position: absolute; margin-left: -190px; margin-top: 10px; border-radius: 1em 0 1em 1em; top: 25px; right: 4px; z-index: 500;">
+                                <div id="BlackLoginTab" style="cursor: pointer; margin-left: 52px; width: 86px; height: 35px; background-color: #777777; margin-top: -32px; z-index: 500; border-radius: 0.5em 0.5em 0 0; position: relative; float: right; color: #ffffff;">
+                                    <span style="display: inline-block; margin: auto; margin-left: 21px; margin-top: 4px;">Login ▼</span>
+                                </div>
+                                <div style="position: relative; padding: 20px; color: White;">
+                                    <table border="0" cellpadding="0" cellspacing="0">
+                                        <tbody><tr>
+                                            <td>
+                                                <table border="0" cellpadding="0" cellspacing="0">
+                                                    <tbody><tr>
+                                                        <td style="padding-right: 10px; vertical-align: middle;">Username:
+                                                        </td>
+                                                        <td>
+                                                            <input name="ctl00$ContentPlaceHolderTopNavigation$txtUserName" type="text" id="ctl00_ContentPlaceHolderTopNavigation_txtUserName" style="height: 30px; width: 170px; border-radius: 1em; color: #AAA; float: right; padding-left: 10px;">
+                                                        </td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td style="padding-right: 10px; padding-top: 10px; vertical-align: middle;">Password:
+                                                        </td>
+                                                        <td style="padding-top: 10px;">
+                                                            <input name="ctl00$ContentPlaceHolderTopNavigation$txtPassword" type="password" id="ctl00_ContentPlaceHolderTopNavigation_txtPassword" style="float: right; height: 30px; width: 170px; border-radius: 1em; color: #AAA; padding-left: 10px;">
+                                                        </td>
+                                                    </tr>
+                                                </tbody></table>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td>
+                                                <table border="0" cellpadding="0" cellspacing="0" style="padding-top: 20px;" width="100%">
+                                                    <tbody><tr>
+                                                        <td style="vertical-align: middle;">
+                                                            <a style="text-decoration: underline; color: #FFFFFF;" href="/Login/PasswordReminder.aspx">Forgot your password? »</a>
+                                                        </td>
+                                                        <td align="right" style="text-align: right;">
+                                                            <a id="TopLoginButton" style="padding: 0.7em 2em; color: #FFFFFF;" class="RedCssButton CssButton" onclick="  PostUserPass('ctl00_ContentPlaceHolderTopNavigation_txtUserName', 'ctl00_ContentPlaceHolderTopNavigation_txtPassword', 'ctl00_ContentPlaceHolderTopNavigation_chkRememberMe');">Login</a>
+                                                        </td>
+                                                    </tr>
+                                                </tbody></table>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td>
+                                                <table border="0" cellpadding="0" cellspacing="0" style="padding-top: 10px; font-size: 0.8em;" width="100%">
+                                                    <tbody><tr>
+                                                        <td style="white-space: nowrap; padding-right: 30px;">
+                                                            <input id="ctl00_ContentPlaceHolderTopNavigation_chkRememberMe" type="checkbox" name="ctl00$ContentPlaceHolderTopNavigation$chkRememberMe"><label for="ctl00_ContentPlaceHolderTopNavigation_chkRememberMe">Remember me</label>
+                                                        </td>
+                                                        <td id="tdLoginMessage" style="display: none; padding-left: 16px; background-repeat: no-repeat; background-image: url('/Images/Icons/HomePage/close_sign.png');">
+                                                            <span id="ctl00_ContentPlaceHolderTopNavigation_lblLoginMessage" style="color: #f0888f; font-style: italic;"></span>
+                                                        </td>
+                                                    </tr>
+                                                </tbody></table>
+                                            </td>
+                                        </tr>
+                                    </tbody></table>
+                                </div>
+                            </div>
+                         <a href="/subscribe/default.aspx" class="LoginJoinButton" style="margin-right: 5px;">Join</a> <a class="LoginJoinButton" style="cursor: pointer; margin-right: 10px; padding-left: 10px; padding-right: 6px;" onclick=" ShowTopLoginBox(); ">Login ▼</a>
+                        </div>
+                        
+                    </div>
+                </div>
+            
+            
+                <div id="TickerWrapper" class="GlowingEdges">
+                    <table border="0" cellpadding="0" cellspacing="0" style="height: 100%;">
+                        <tbody><tr>
+                            <td>
+                                <div id="ctl00_ContentPlaceHolderTopTitleDate_panTicker" style="padding: 0 10px; line-height: 30px;">
 	
-								<!-- googleoff: all -->
-								<marquee width="800px" behavior="scroll" loop="-1" scrollamount="1" scrolldelay="40" truespeed="truespeed" onmouseover=" this.stop() " onmouseout=" this.start() " direction="left" style="font-size: 1.2em; cursor: pointer; font-family: arial;
-									text-align: left;">
-											<table id="ctl00_ContentPlaceHolderTopTitleDate_dlTicker" cellspacing="0" cellpadding="0" border="0" style="width:100%;border-collapse:collapse;">
+                                    <!-- googleoff: all -->
+                                    <marquee width="800px" behavior="scroll" loop="-1" scrollamount="1" scrolldelay="40" truespeed="truespeed" onmouseover=" this.stop() " onmouseout=" this.start() " direction="left" style="font-size: 1.2em; cursor: pointer; font-family: arial; text-align: left;">
+											<table id="ctl00_ContentPlaceHolderTopTitleDate_dlTicker" cellspacing="0" cellpadding="0" border="0" width="100%">
 		<tbody><tr>
 			<td>
-													<span style="white-space: nowrap;"><a class="Ticker" href="/News/NewsItem.aspx?ArticleID=52694&amp;ArticleTitle=Paragons+Loss+Widens%2c+Revenue+Target+for+2015+is+%2436M+">Paragon's Loss Widens, Revenue Target for 2015 is $36M </a></span>
-												</td><td style="white-space:nowrap;">
+													<span style="white-space: nowrap;"><a class="Ticker" href="/(S(j4wvcamtrpjs0v55lwh2rvfi))/News/NewsItem.aspx?ArticleID=54081&amp;ArticleTitle=ALROSA%2c+AWDC+Hold+Exclusive+Networking+Event+in+Moscow">ALROSA, AWDC Hold Exclusive Networking Event in Moscow</a></span>
+												</td><td nowrap="nowrap">
 													&nbsp;&nbsp;---&nbsp;&nbsp;
 												</td><td>
-													<span style="white-space: nowrap;"><a class="Ticker" href="/News/NewsItem.aspx?ArticleID=52693&amp;ArticleTitle=Press+Release%3a+Kiran+Gems+Presents+Scholarships+for+Future+Achievers+">Press Release: Kiran Gems Presents Scholarships for Future Achievers </a></span>
-												</td><td style="white-space:nowrap;">
+													<span style="white-space: nowrap;"><a class="Ticker" href="/(S(j4wvcamtrpjs0v55lwh2rvfi))/News/NewsItem.aspx?ArticleID=54078&amp;ArticleTitle=Walmart+Adds+In-Store+Payment+Feature+to+Mobile+App">Walmart Adds In-Store Payment Feature to Mobile App</a></span>
+												</td><td nowrap="nowrap">
 													&nbsp;&nbsp;---&nbsp;&nbsp;
 												</td><td>
-													<span style="white-space: nowrap;"><a class="Ticker" href="/News/NewsItem.aspx?ArticleID=52687&amp;ArticleTitle=Broad+Diamond+Screening+Test+in+India+Results+in+No+Synthetics">Broad Diamond Screening Test in India Results in No Synthetics</a></span>
-												</td><td style="white-space:nowrap;">
+													<span style="white-space: nowrap;"><a class="Ticker" href="/(S(j4wvcamtrpjs0v55lwh2rvfi))/News/NewsItem.aspx?ArticleID=54077&amp;ArticleTitle=ALROSA+to+Stick+to+Long-Term+Contracts+to+Ensure+Stable+Rough+Supply">ALROSA to Stick to Long-Term Contracts to Ensure Stable Rough Supply</a></span>
+												</td><td nowrap="nowrap">
 													&nbsp;&nbsp;---&nbsp;&nbsp;
 												</td><td>
-													<span style="white-space: nowrap;"><a class="Ticker" href="/News/NewsItem.aspx?ArticleID=52686&amp;ArticleTitle=U.S.+Human+Rights+Report+Notes+Child+Labor+in+Many+Diamond+Regions">U.S. Human Rights Report Notes Child Labor in Many Diamond Regions</a></span>
-												</td><td style="white-space:nowrap;">
-													&nbsp;&nbsp;---&nbsp;&nbsp;
-												</td><td>
-													<span style="white-space: nowrap;"><a class="Ticker" href="/News/NewsItem.aspx?ArticleID=52685&amp;ArticleTitle=AWDC%3a+Antwerp+Diamond+Bank+to+Close+Remaining+Accounts+on+June+30">AWDC: Antwerp Diamond Bank to Close Remaining Accounts on June 30</a></span>
-												</td><td style="white-space:nowrap;">
-													&nbsp;&nbsp;---&nbsp;&nbsp;
-												</td><td>
-													<span style="white-space: nowrap;"><a class="Ticker" href="/News/NewsItem.aspx?ArticleID=52684&amp;ArticleTitle=Rio+Tinto+Exits+Zimbabwe">Rio Tinto Exits Zimbabwe</a></span>
-												</td><td style="white-space:nowrap;">
-													&nbsp;&nbsp;---&nbsp;&nbsp;
-												</td><td>
-													<span style="white-space: nowrap;"><a class="Ticker" href="/News/NewsItem.aspx?ArticleID=52674&amp;ArticleTitle=Consumers+Demanding+Responsible+Sourcing+From+Jewelers">Consumers Demanding Responsible Sourcing From Jewelers</a></span>
-												</td><td style="white-space:nowrap;">
-													&nbsp;&nbsp;---&nbsp;&nbsp;
-												</td><td>
-													<span style="white-space: nowrap;"><a class="Ticker" href="/News/NewsItem.aspx?ArticleID=52683&amp;ArticleTitle=Market+Comments+6%2f25%2f2015">Market Comments 6/25/2015</a></span>
-												</td><td style="white-space:nowrap;">
-													&nbsp;&nbsp;---&nbsp;&nbsp;
-												</td><td>
-													<span style="white-space: nowrap;"><a class="Ticker" href="/News/NewsItem.aspx?ArticleID=52682&amp;ArticleTitle=Rapaport+TradeWire+June+26%2c+2015">Rapaport TradeWire June 26, 2015</a></span>
-												</td><td style="white-space:nowrap;">
-													&nbsp;&nbsp;---&nbsp;&nbsp;
-												</td><td>
-													<span style="white-space: nowrap;"><a class="Ticker" href="/News/NewsItem.aspx?ArticleID=34977&amp;ArticleTitle=Rapaport+Diamond+Industry+Stock+Tracker">Rapaport Diamond Industry Stock Tracker</a></span>
+													<span style="white-space: nowrap;"><a class="Ticker" href="/(S(j4wvcamtrpjs0v55lwh2rvfi))/News/NewsItem.aspx?ArticleID=54075&amp;ArticleTitle=Sotheby%e2%80%99s+Takes+%2452M+at+New+York+Auction%3b+Queen+Nazli+Necklace+Draws+More+Than+%244M">Sotheby’s Takes $52M at New York Auction; Queen Nazli Necklace Draws More Than $4M</a></span>
 												</td><td></td>
 		</tr>
 	</tbody></table>
 										</marquee>
-								<!-- googleoff: all -->
-							
+                                    <!-- googleoff: all -->
+                                
 </div>
-						</td>
-						
-						<td style="vertical-align: middle; text-align: right;" align="right" width="100%">
-							<div id="TopSearchBoxWrapper">
-								<input id="TopSearchBox" style="width: 120px;" class="ClearInput" value="Search" name="TopSearchBox" type="text">
-								<a id="TopSearchBoxIcon" onclick="GoogleSearch();">
-									<img alt="" src="/(S(hofddd55e2zsxt3k0rlkms45))/Images/clear.gif" style="border: 0px;"></a>
-							</div>
-						</td>
-						
-					</tr>
-				</tbody></table>
-			</div>
-		
-		<div id="MaincontentWrapper" class="GlowingEdges">
-			<table border="0" cellpadding="0" cellspacing="0" width="1000px">
-				<tbody><tr>
-					<td style="vertical-align: top;">
-						
+                            </td>
+                            
+                            <td style="vertical-align: middle; text-align: right;" align="right" width="100%">
+                                <div id="TopSearchBoxWrapper">
+                                    <input id="TopSearchBox" style="width: 120px;" class="ClearInput" value="Search" name="TopSearchBox" type="text">
+                                    <a id="TopSearchBoxIcon" onclick="GoogleSearch();">
+                                        <img alt="" src="/Images/clear.gif" style="border: 0px;"></a>
+                                </div>
+                            </td>
+                            
+                        </tr>
+                    </tbody></table>
+                </div>
+            
+            <div id="MaincontentWrapper" class="GlowingEdges">
+                <table border="0" cellpadding="0" cellspacing="0" width="1000px">
+                    <tbody><tr>
+                        <td style="vertical-align: top;">
+                            
 
-					</td>
-					<td id="MaintextWrapper" width="100%" style="width: 100%; line-height: 20px; padding: 20px;
-						vertical-align: top;">
-						
+                        </td>
+                        <td id="MaintextWrapper" width="100%" style="width: 100%; line-height: 20px; padding: 20px; vertical-align: top;">
+                            
 	<table cellpadding="0" cellspacing="0" border="0" width="85%">
 		<tbody><tr>
 			<td valign="top" align="left">
@@ -1270,143 +1167,133 @@ Sys.WebForms.PageRequestManager._initialize('ctl00$ScriptManager1', 'aspnetForm'
 		</tr>
 	</tbody></table>
 
-					</td>
-					<td style="vertical-align: top;">
-						
+                        </td>
+                        <td style="vertical-align: top;">
+                            
 	<br>
 
-					</td>
-				</tr>
-			</tbody></table>
-		</div>
-		
-			<div class="clearfix" id="FooterWrapper" style="width: 100%;">
-				<div class="Inner clearfix">
-					<ul class="FooterList">
-						<li><b><a href="/(S(hofddd55e2zsxt3k0rlkms45))/Prices/">Prices</a></b></li>
-						<li><a href="/(S(hofddd55e2zsxt3k0rlkms45))/Prices/RapaportPriceLists.aspx">Rapaport Prices</a></li>
-						<li><a href="/(S(hofddd55e2zsxt3k0rlkms45))/Prices/RapaportPriceLists.aspx#aRapNetPrices">RapNet
+                        </td>
+                    </tr>
+                </tbody></table>
+            </div>
+            
+                <div class="clearfix" id="FooterWrapper" style="width: 100%;">
+                    <div class="Inner clearfix">
+                        <ul class="FooterList">
+                            <li><b><a href="/Prices/">Prices</a></b></li>
+                            <li><a href="/Prices/RapaportPriceLists.aspx">Rapaport Prices</a></li>
+                            <li><a href="/Prices/RapaportPriceLists.aspx#aRapNetPrices">RapNet
 							Prices</a></li>
-						<li><a href="/(S(hofddd55e2zsxt3k0rlkms45))/Prices/RapaportPriceLists.aspx#aParcelPrices">Parcel
+                            <li><a href="/Prices/RapaportPriceLists.aspx#aParcelPrices">Parcel
 							Prices</a></li>
-						<li><a href="/(S(hofddd55e2zsxt3k0rlkms45))/Prices/RapaportPriceLists.aspx#aRupeePrices">Rupee Prices</a></li>
-						<li><a href="/(S(hofddd55e2zsxt3k0rlkms45))/Prices/RapaportDiamondPrices.aspx#aPriceCalculator">
-							Price Calculator</a></li>
-						<li><a href="/(S(hofddd55e2zsxt3k0rlkms45))/Subscribe/Subscription.aspx?ShowSubscription=PRICE_SHEET">
-							Subscribe to Prices</a></li>
-						<li><a href="/(S(hofddd55e2zsxt3k0rlkms45))/Store/PriceLists.aspx">Buy Price Lists</a></li>
-					</ul>
-					<img alt="" class="FooterSeperator" src="/(S(hofddd55e2zsxt3k0rlkms45))/Images/HomePage/seperator.png" width="2" height="234">
-					<ul class="FooterList">
-						<li><b><a href="/(S(hofddd55e2zsxt3k0rlkms45))/News/Articles.aspx">News</a></b></li>
-						<li><a href="/(S(hofddd55e2zsxt3k0rlkms45))/News/Articles.aspx">Latest News</a></li>
-						<li><a href="/(S(hofddd55e2zsxt3k0rlkms45))/News/Articles.aspx?CategoryType=2&amp;CategoryID=8&amp;Title=Videos">
-							Videos</a></li>
-						<li><a href="/(S(hofddd55e2zsxt3k0rlkms45))/Reports">Reports</a></li>
-						<li><a href="/(S(hofddd55e2zsxt3k0rlkms45))/Magazine/Default.aspx">Magazine</a></li>
-						<li><a href="/(S(hofddd55e2zsxt3k0rlkms45))/Subscribe/Subscription.aspx?ShowSubscription=TRADEWIRE">
-							Subscribe to News</a></li>
-						<li><a href="/(S(hofddd55e2zsxt3k0rlkms45))/Subscribe/Subscription.aspx?ShowSubscription=TRADEWIRE">
-							Free Newsletters</a></li>
-						<li><a href="/(S(hofddd55e2zsxt3k0rlkms45))/NewsFeed/">News Feed</a></li>
-					</ul>
-					<img alt="" class="FooterSeperator" src="/(S(hofddd55e2zsxt3k0rlkms45))/Images/HomePage/seperator.png" width="2" height="234">
-					<ul class="FooterList">
-						<li><b><a href="/(S(hofddd55e2zsxt3k0rlkms45))/Store/">Store</a></b></li>
-						<li><a href="/(S(hofddd55e2zsxt3k0rlkms45))/Store/PriceLists.aspx">Price Lists</a></li>
-						<li><a href="/(S(hofddd55e2zsxt3k0rlkms45))/Store/Reports.aspx">Reports</a></li>
-					</ul>
-					<img alt="" class="FooterSeperator" src="/(S(hofddd55e2zsxt3k0rlkms45))/Images/HomePage/seperator.png" width="2" height="234">
-					<ul class="FooterList">
-						<li><b><a href="/(S(hofddd55e2zsxt3k0rlkms45))/Trading/">Services</a></b></li>
-						<li><a href="/(S(hofddd55e2zsxt3k0rlkms45))/Trading/RapNet.aspx">RapNet Trading Network</a></li>
-						<li><a href="/(S(hofddd55e2zsxt3k0rlkms45))/Trading/RapaportAuctions.aspx">Rapaport Auctions</a></li>
-						<li><a href="/(S(hofddd55e2zsxt3k0rlkms45))/Trading/LabServices.aspx">Laboratory Services</a></li>
-						<li><a href="/(S(hofddd55e2zsxt3k0rlkms45))/Trading/InvestmentDiamonds.aspx">Investment Diamonds</a></li>
-					</ul>
-					<img alt="" class="FooterSeperator" src="/(S(hofddd55e2zsxt3k0rlkms45))/Images/HomePage/seperator.png" width="2" height="234">
-					<ul class="FooterList">
-						<li><b><a href="/(S(hofddd55e2zsxt3k0rlkms45))/About/">About Rapaport</a></b></li>
-						<li><a href="/(S(hofddd55e2zsxt3k0rlkms45))/About/">About Us</a></li>
-						<li><a href="/(S(hofddd55e2zsxt3k0rlkms45))/Calendar/">Calendar</a></li>
-						<li><a href="/(S(hofddd55e2zsxt3k0rlkms45))/About/Conferences.aspx">Conferences</a></li>
-						<li><a href="/(S(hofddd55e2zsxt3k0rlkms45))/MediaCenter/">Media Center</a></li>
-						<li><a href="/(S(hofddd55e2zsxt3k0rlkms45))/About/Careers.aspx">Careers</a></li>
-						<li><a href="/(S(hofddd55e2zsxt3k0rlkms45))/About/Advertise.aspx">Advertise with Us</a></li>
-						<li><a href="http://www.diamonds.net/getfile.aspx?FileID=17" target="_blank">Info Kit
+                            <li><a href="/Prices/RapaportPriceLists.aspx#aRupeePrices">Rupee Prices</a></li>
+                            <li><a href="/Prices/RapaportDiamondPrices.aspx#aPriceCalculator">Price Calculator</a></li>
+                            <li><a href="/Subscribe/Subscription.aspx?ShowSubscription=PRICE_SHEET">Subscribe to Prices</a></li>
+                            <li><a href="/Store/PriceLists.aspx">Buy Price Lists</a></li>
+                        </ul>
+                        <img alt="" class="FooterSeperator" src="/Images/HomePage/seperator.png" width="2" height="234">
+                        <ul class="FooterList">
+                            <li><b><a href="/News/Articles.aspx">News</a></b></li>
+                            <li><a href="/News/Articles.aspx">Latest News</a></li>
+                            <li><a href="/News/Articles.aspx?CategoryType=2&amp;CategoryID=8&amp;Title=Videos">Videos</a></li>
+                            <li><a href="/Reports">Reports</a></li>
+                            <li><a href="/Magazine/Default.aspx">Magazine</a></li>
+                            <li><a href="/Subscribe/Subscription.aspx?ShowSubscription=TRADEWIRE">Subscribe to News</a></li>
+                            <li><a href="/Subscribe/Subscription.aspx?ShowSubscription=TRADEWIRE">Free Newsletters</a></li>
+                            <li><a href="/NewsFeed/">News Feed</a></li>
+                        </ul>
+                        <img alt="" class="FooterSeperator" src="/Images/HomePage/seperator.png" width="2" height="234">
+                        <ul class="FooterList">
+                            <li><b><a href="/Store/">Store</a></b></li>
+                            <li><a href="/Store/PriceLists.aspx">Price Lists</a></li>
+                            <li><a href="/Store/Reports.aspx">Reports</a></li>
+                        </ul>
+                        <img alt="" class="FooterSeperator" src="/Images/HomePage/seperator.png" width="2" height="234">
+                        <ul class="FooterList">
+                            <li><b><a href="/Trading/">Services</a></b></li>
+                            <li><a href="/Trading/RapNet.aspx">RapNet Trading Network</a></li>
+                            <li><a href="/Trading/RapaportAuctions.aspx">Rapaport Auctions</a></li>
+                            <li><a href="/Trading/LabServices.aspx">Laboratory Services</a></li>
+                            <li><a href="/Trading/InvestmentDiamonds.aspx">Investment Diamonds</a></li>
+                        </ul>
+                        <img alt="" class="FooterSeperator" src="/Images/HomePage/seperator.png" width="2" height="234">
+                        <ul class="FooterList">
+                            <li><b><a href="/About/">About Rapaport</a></b></li>
+                            <li><a href="/About/">About Us</a></li>
+                            <li><a href="/Calendar/">Calendar</a></li>
+                            <li><a href="/About/Conferences.aspx">Conferences</a></li>
+                            <li><a href="/MediaCenter/">Media Center</a></li>
+                            <li><a href="/About/Careers.aspx">Careers</a></li>
+                            <li><a href="/About/Advertise.aspx">Advertise with Us</a></li>
+                            <li><a href="http://www.diamonds.net/getfile.aspx?FileID=17" target="_blank">Info Kit
 							(PDF)</a></li>
-					</ul>
-					<div style="float: right; margin-left: 60px;">
-						<a target="_blank" href="http://www.facebook.com/Rapaport" class="Followus" style="background-image: url('/(S(hofddd55e2zsxt3k0rlkms45))/Images/HomePage/follow_facebook_button.png');
-							background-repeat: no-repeat;"></a><a target="_blank" href="http://twitter.com/Rapaport" class="Followus" style="background-image: url('/(S(hofddd55e2zsxt3k0rlkms45))/Images/HomePage/follow_twitter_button.png');
-								background-repeat: no-repeat;"></a><a target="_blank" href="http://www.linkedin.com/company/rapaport" class="Followus" style="background-image: url('/(S(hofddd55e2zsxt3k0rlkms45))/Images/HomePage/follow_linkedin_button.png');
-									background-repeat: no-repeat;"></a><a target="_blank" href="https://plus.google.com/111832981791656527785/posts" class="Followus" style="background-image: url('/(S(hofddd55e2zsxt3k0rlkms45))/Images/HomePage/follow_google_button.png');
-										background-repeat: no-repeat;"></a>
-						<ul class="FooterList" style="margin-top: 15px;">
-							<li><b><a href="/(S(hofddd55e2zsxt3k0rlkms45))/Legal/TermsOfUse.aspx">Terms of Use</a></b></li>
-							<li><b><a href="/(S(hofddd55e2zsxt3k0rlkms45))/Legal/PrivacyPolicy.aspx">Privacy Policy</a></b></li>
-							<li><b><a href="/(S(hofddd55e2zsxt3k0rlkms45))/About/LinkToUs.aspx">Link to Us</a></b></li>
-						</ul>
-					</div>
-					<div style="margin: auto; clear: both; font-size: 0.75em; text-align: center; font-weight: bold;
-						padding-top: 20px;">
-						© Copyright 1978-2015
+                        </ul>
+                        <div style="float: right; margin-left: 60px;">
+                            <a target="_blank" href="http://www.facebook.com/Rapaport" class="Followus" style="background-image: url('/Images/HomePage/follow_facebook_button.png'); background-repeat: no-repeat;"></a><a target="_blank" href="http://twitter.com/Rapaport" class="Followus" style="background-image: url('/Images/HomePage/follow_twitter_button.png'); background-repeat: no-repeat;"></a><a target="_blank" href="http://www.linkedin.com/company/rapaport" class="Followus" style="background-image: url('/Images/HomePage/follow_linkedin_button.png'); background-repeat: no-repeat;"></a><a target="_blank" href="https://plus.google.com/111832981791656527785/posts" class="Followus" style="background-image: url('/Images/HomePage/follow_google_button.png'); background-repeat: no-repeat;"></a>
+                            <ul class="FooterList" style="margin-top: 15px;">
+                                <li><b><a href="/Legal/TermsOfUse.aspx">Terms of Use</a></b></li>
+                                <li><b><a href="/Legal/PrivacyPolicy.aspx">Privacy Policy</a></b></li>
+                                <li><b><a href="/About/LinkToUs.aspx">Link to Us</a></b></li>
+                            </ul>
+                        </div>
+                        <div style="margin: auto; clear: both; font-size: 0.75em; text-align: center; font-weight: bold; padding-top: 20px;">
+                            © Copyright 1978-2015
 						by Martin Rapaport. All rights reserved. Index®, RapNet®, Rapaport®, PriceGrid™,
 						Diamonds.Net™, and JNS®; are TradeMarks of Martin Rapaport.
 						<br>
-						While the information presented is from sources we believe reliable, we do not guarantee
+                            While the information presented is from sources we believe reliable, we do not guarantee
 						the accuracy or validity of any information presented by Rapaport or the views expressed
 						by users of our internet service.
-					</div>
-				</div>
-			</div>
-		
-	</div>
-	<!-- Quantcast Tag -->
-	<script type="text/javascript">
-		var _qevents = _qevents || [];
+                        </div>
+                    </div>
+                </div>
+            
+        </div>
+        <!-- Quantcast Tag -->
+        <script type="text/javascript">
+            var _qevents = _qevents || [];
 
-		(function () {
-			var elem = document.createElement('script');
-			elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
-			elem.async = true;
-			elem.type = "text/javascript";
-			var scpt = document.getElementsByTagName('script')[0];
-			scpt.parentNode.insertBefore(elem, scpt);
-		})();
+            (function () {
+                var elem = document.createElement('script');
+                elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+                elem.async = true;
+                elem.type = "text/javascript";
+                var scpt = document.getElementsByTagName('script')[0];
+                scpt.parentNode.insertBefore(elem, scpt);
+            })();
 
-		_qevents.push({
-			qacct: "p-f31rDeYFP1xNJ"
-		});
-	</script>
-	<noscript>
-		<div style="display: none;">
-			<img src="//pixel.quantserve.com/pixel/p-f31rDeYFP1xNJ.gif" border="0" height="1"
-				width="1" alt="Quantcast" />
-		</div>
-	</noscript>
-	<!-- End Quantcast tag -->
-         <!-- begin AdRoll Remarketing Pixel -->
-    <script type="text/javascript">
-        adroll_adv_id = "SI6RD65J2RDT3NU3QBMQNG";
-        adroll_pix_id = "5DHTRRCYXVFOPGHUVO77XC";
-        (function () {
-            var oldonload = window.onload;
-            window.onload = function () {
-                __adroll_loaded = true;
-                var scr = document.createElement("script");
-                var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com");
-                scr.setAttribute('async', 'true');
-                scr.type = "text/javascript";
-                scr.src = host + "/j/roundtrip.js";
-                ((document.getElementsByTagName('head') || [null])[0] ||
-    document.getElementsByTagName('script')[0].parentNode).appendChild(scr);
-                if (oldonload) { oldonload() }
-            };
-        } ());
-</script>
- <!-- end AdRoll Remarketing Pixel -->
-	</form>
+            _qevents.push({
+                qacct: "p-f31rDeYFP1xNJ"
+            });
+        </script>
+        <noscript>
+            <div style="display: none;">
+                <img src="//pixel.quantserve.com/pixel/p-f31rDeYFP1xNJ.gif" border="0" height="1"
+                    width="1" alt="Quantcast" />
+            </div>
+        </noscript>
+        <!-- End Quantcast tag -->
+        <!-- begin AdRoll Remarketing Pixel -->
+        <script type="text/javascript">
+            adroll_adv_id = "SI6RD65J2RDT3NU3QBMQNG";
+            adroll_pix_id = "5DHTRRCYXVFOPGHUVO77XC";
+            (function () {
+                var oldonload = window.onload;
+                window.onload = function () {
+                    __adroll_loaded = true;
+                    var scr = document.createElement("script");
+                    var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com");
+                    scr.setAttribute('async', 'true');
+                    scr.type = "text/javascript";
+                    scr.src = host + "/j/roundtrip.js";
+                    ((document.getElementsByTagName('head') || [null])[0] ||
+        document.getElementsByTagName('script')[0].parentNode).appendChild(scr);
+                    if (oldonload) { oldonload() }
+                };
+            }());
+        </script>
+        <!-- end AdRoll Remarketing Pixel -->
+    </form>
 
 
 </body></html>
