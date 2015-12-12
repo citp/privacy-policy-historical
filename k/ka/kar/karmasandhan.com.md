@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the karmasandhan.com privacy policy that was archived on 2015-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150613145207id_/http%3A//www.karmasandhan.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the karmasandhan.com privacy policy that was archived on 2015-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151212185549id_/http%3A//www.karmasandhan.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy|Karmasandhan.com: West Bengal & Central Govt. Recruitment News
+# Privacy Policy | Karmasandhan.com: West Bengal & Central Govt. Recruitment News
 
 At **www.karmasandhan.com** , we give extreme importance to privacy of our visitors. We do not do anything hidden without knowledge of our visitors because it’s your right to know how we treat your privacy and so we have clearly outlines the types of information we ([www.karmasandan.com/](http://www.karmasandan.com/)) received and collect and also how it is used. If you want more information, feel free to write us anytime at: moc.nahdnasamrak@noitamrofni
 
