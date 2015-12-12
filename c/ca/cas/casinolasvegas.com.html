@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the casinolasvegas.com privacy policy that was archived on 2015-05-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150526002633id_/http%3A//www.casinolasvegas.com/en/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the casinolasvegas.com privacy policy that was archived on 2015-12-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151212035729id_/http%3A//www.casinolasvegas.com/en/privacy-policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -21,78 +21,56 @@
 <script type="text/javascript" src="/scripts/jquery.cookies.js"></script>
 <script type="text/javascript" src="/scripts/trck.v1.js"></script>
 <script type="text/javascript" src="/scripts/common.js"></script>
-<script type="text/javascript" src="/scripts/jquery.exitunder.js"></script>
+<!--<script type="text/javascript" src="/scripts/jquery.exitunder.js"></script>-->
 <script type="text/javascript">
 
 	var _gaq = _gaq || [];
 
 	_gaq.push(['_setAccount', 'UA-11855968-1']);
-	
+
 	_gaq.push(['_setDomainName', '.casinolasvegas.com']);
 	_gaq.push(['_setAllowHash', false]);
 
-	/**
-	* Initializes or re-initializes the GATC (Google Analytics Tracker Code) object
-	*/
-
+	// Initialize Google Analytics
 	_gaq.push(['_initData']);
-
-	  (function() {
+	(function()
+	{
 	    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
 	    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
 	    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-	  })();
+	})();
 
-	  
+	var _lng_s	= 'en';
+	var _lng_l	= 'english';
+	var _domain	= 'casinolasvegas.com';
+	var _path	= window.location.pathname;
 
-			var _lng_s	= 'en';
-			var _lng_l	= 'english';
-			var _domain	= 'casinolasvegas.com';
-			var _path	= window.location.pathname;			
+	$(document).ready(function()
+	{
+		var cv = $.cookie('blockui');
 
-	$(document).ready(function(){
-
-				var cv = $.cookie('blockui');
-				
-				
-				cv='off';
-
-				if (cv != 'off'  ){
-
-					$.cookie('blockui', 'off', { expires: 1 });
-
-					$.blockUI({ message: $('#question'), css: { width: '490px' } });
-
-					$('#yes').bind( "mouseover", function() {
-						$(this).css( "cursor", "pointer" );
-					});
-
-					$('#yes').click(function() {
-						dwn('playbtn');
-						//setTimeout('redirect("/en/download.html")',3000);
-						//setTimeout('window.location = "/en/download.html"',1000);
-						$.unblockUI();
-					});
-
-					$('input[id|=no]').click(function() {
-						$.unblockUI();
-						return false;
-					});
-
-				}
-
+		cv='off';		if (cv != 'off')
+		{
+			$.cookie('blockui', 'off', { expires: 1 });
+			$.blockUI({ message: $('#question'), css: { width: '490px' } });
+			$('#yes').bind( "mouseover", function() {
+				$(this).css( "cursor", "pointer" );
+			});
+			$('#yes').click(function()
+			{
+				dwn('playbtn');
+				$.unblockUI();
+			});
+			$('input[id|=no]').click(function()
+			{
+				$.unblockUI();
+				return false;
+			});
+		}
 		trf_src();
 		flg_mn();
 		whichPage('en');
-
 	});
-</script>
-<script type="text/javascript">
-
-    $(function() {
-        $.popunder.helper.def.fs = '/scripts/jq-pu-toolkit.swf';
-        $.popunder([['/exit/']], '#no', '#no');
-    });
 </script>
 
 </head>
@@ -107,26 +85,14 @@
   <tr>
     <td colspan="3"><img src="/images/en/homepage/popup/middle.gif" alt="Secure Download - Casino Las Vegas" width="500" height="210"></td>
   </tr>
-  <tr> 
+  <tr>
     <td><img src="/images/en/homepage/popup/bottom_01.gif" alt="Casino Las Vegas" width="151" height="89"></td>
     <td><img id="yes" src="/images/en/homepage/popup/download_and_play.gif" width="203" height="89" alt="Download and Play - Casino Las Vegas" border="0">    </td>
     <td><img src="/images/en/homepage/popup/bottom_02.gif" alt="Casino Las Vegas" width="146" height="89"></td>
   </tr>
 </tbody></table>
-
-<!--<table width="340" height="240" border="0" align="center" cellpadding="0" cellspacing="0">
-  <tr>
-    <td colspan="2"><img src="/images/en/homepage/top.png" alt="Secure Download - Casino Las Vegas" width="340" height="129" /></td>
-  </tr>
-  <tr>
-    <td colspan="2"><img src="/images/en/homepage/middle.png" alt="Best Online Games - Casino Las Vegas" width="340" height="70"  /></td>
-  </tr>
-  <tr>
-    <td style="cursor:pointer"><input width="170" height="41" type="image" src="/images/en/homepage/cancel.png" id="no" value="No" /></td>
-    <td><img id="yes" src="/images/en/homepage/ok.png" width="170" height="41" alt="Play Now - Casino Las Vegas" border="0" /></td>
-  </tr>
-</table>-->
-</div><div id="content_container">
+</div>
+<div id="content_container">
     <div id="contentIn">
 
     <!-- Start Header -->
@@ -202,7 +168,6 @@ var bEnterOnQueuePage = false;
           <div class="top_menu_sep"></div>
           <div class="top_menu"><a href="/en/payments.html" id="payments">Deposit Options</a></div>
           <div class="top_menu_sep"></div>
-          <div class="top_menu"><a href="http://blog.casinolasvegas.com/" id="blog" target="_blank">Blog</a></div>
           <div class="top_menu_sep"></div><div class="top_menu"><div id="mobile_menu_icon"></div><a href="http://mobile.casinolasvegas.com" target="_blank"><span class="topMenu_current_pink">Mobile</span></a></div>
         </div>
 <div id="top_tab_download">
@@ -393,9 +358,9 @@ var bEnterOnQueuePage = false;
     </div>
     <div id="footer"> 
         <p class="copy">
-        ElectraWorks Limited, the provider of this website, is licensed and regulated by the UK Gambling Commission under the Gambling (Licensing and Advertising) Act 2014. ElectraWorks Limited has been granted an Operating Licence no. <a href="https://secure.gamblingcommission.gov.uk/gccustomweb/PublicRegister/PRSearch.aspx?ExternalAccountId=39011" target="_blank">000-039011-R-319371-001</a> for the operation of remote gambling in Britain.
-		<br>
-		ElectraWorks Limited, the provider of this website, is licensed by the Government of Gibraltar and regulated by the Gibraltar Gambling Commissioner under the Gambling Act 2005. ElectraWorks Limited has been granted a fixed-odds licence (RGL No. 051) and casino licence (RGL N0. 50) for the operation of remote gambling.</p>	
+        ElectraWorks Limited, the provider of this website, is licensed and regulated by the UK Gambling Commission under the Gambling (Licensing and Advertising) Act 2014. ElectraWorks Limited has been granted an Operating Licence no. <a href="https://secure.gamblingcommission.gov.uk/gccustomweb/PublicRegister/PRSearch.aspx?ExternalAccountId=39011" target="_blank">000-039011-R-319371-004</a> for the operation of remote gambling in Britain.</p><br>
+		<p>Furthermore, ElectraWorks Limited is licensed by the Government of Gibraltar and regulated by the Gibraltar Gambling Commissioner under the Gambling Act 2005. ElectraWorks Limited has been granted a fixed-odds licence (RGL No. 051) and casino licence (RGL N0. 50) for the operation of remote gambling.</p><br>
+	  <p>© 2015 ElectraWorks Limited Suite 6, Atlantic Suites, Europort Avenue, Gibraltar</p>	
     </div>
     
     <!--Footer payment begins -->
@@ -418,11 +383,12 @@ var bEnterOnQueuePage = false;
     <div id="footer_logos">    
         <a href="http://www.casinolasvegas.com/tst/payout_certificate.pdf" target="_blank"><img src="/images/footer/tst.png" border="0" alt="Certification - Casino Las Vegas"></a>
         <a href="/en/responsible-gaming.html"><img src="/images/footer/anti.png" border="0" alt="Gamble Responsibly - Casino Las Vegas"></a>
-        <a href="/en/fair-gaming.html"><img src="/images/footer/100-secure.png" border="0" alt="100% Safe and Secure - Casino Las Vegas"></a>
+        <a href="/en/fair-gaming.html"><img src="/images/footer/ecogra.png" border="0" alt="eCOGRA Safe and Fair - Casino Las Vegas"></a>
         <a href="/en/responsible-gaming.html"><img src="/images/footer/18.png" border="0" alt="Accepts Players 18+ - Casino Las Vegas"></a>
         <a href="http://www.playtech.com" target="_blank"><img src="/images/footer/playtech.png" border="0" alt="powered by Playtech - Casino Las Vegas"></a>
         <a rel="nofollow" href="http://www.gibraltar.gov.gi/remotegambling" target="_blank"><img src="/images/footer/gog.png" border="0" alt="Gambling License - Casino Las Vegas"></a>
         <a rel="nofollow" href="http://www.gamblingcommission.gov.uk/" target="_blank"><img src="/images/footer/ukgc.png" border="0" alt="Gambling Commission - Casino Las Vegas"></a>
+        <a rel="nofollow" href="http://www.gamcare.org.uk/" target="_blank"><img src="/images/footer/gamcare.png" border="0" alt="GamCare - Casino Las Vegas"></a>
         <a href="http://www.affclub.com/" target="_blank"><img src="/images/footer/affclub.png" border="0" alt="Affiliate Opportunities - Casino Las Vegas"></a><br>
     </div>
     
