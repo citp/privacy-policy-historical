@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hdwallpapersrocks.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607213310id_/http%3A//hdwallpapersrocks.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hdwallpapersrocks.com privacy policy that was archived on 2015-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151212012055id_/http%3A//hdwallpapersrocks.com/privacy-policy) for the most accurate reproduction.*
 
 # privacy policy | HD Wallpapers Rocks
 
@@ -12,7 +12,7 @@ hdwallpaperslarge.com does use cookies to store information about visitors prefe
 **DoubleClick DART Cookie**  
 Google, as a third party vendor, uses cookies to serve ads on hdwallpaperslarge.com.  
 Google’s use of the DART cookie enables it to serve ads to your users based on their visit to hdwallpaperslarge.com and other sites on the Internet.  
-Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL -  
+Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL –  
 Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include …….
 
 Google Adsense  
