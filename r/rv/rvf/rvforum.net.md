@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rvforum.net privacy policy that was archived on 2015-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150407165039id_/http%3A//www.rvforum.net/joomla/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D407%26Itemid%3D144) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rvforum.net privacy policy that was archived on 2015-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151213113412id_/http%3A//www.rvforum.net/joomla/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D407%26Itemid%3D144) for the most accurate reproduction.*
 
 # Privacy
 
