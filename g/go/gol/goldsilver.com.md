@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goldsilver.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610010222id_/http%3A//goldsilver.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goldsilver.com privacy policy that was archived on 2015-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151213151607id_/http%3A//goldsilver.com/privacy-policy) for the most accurate reproduction.*
 
 # GoldSilver.com's Privacy Policy - GoldSilver.com
 
