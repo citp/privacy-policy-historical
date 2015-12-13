@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jonasbrothersfan.com privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630084258id_/http%3A//www.fanlala.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jonasbrothersfan.com privacy policy that was archived on 2015-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151213164011id_/https%3A//www.fanlala.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Fanlala.com
 
