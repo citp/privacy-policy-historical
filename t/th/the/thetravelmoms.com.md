@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thetravelmoms.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120131036id_/http%3A//touristmeetstraveler.com/legal) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thetravelmoms.com privacy policy that was archived on 2015-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151213185616id_/http%3A//touristmeetstraveler.com/legal) for the most accurate reproduction.*
 
 # Privacy Policy - Tourist Meets Traveler
 
