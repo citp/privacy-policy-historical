@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rockler.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610053559id_/http%3A//www.rockler.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rockler.com privacy policy that was archived on 2015-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151213024730id_/http%3A//www.rockler.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -43,7 +43,7 @@ Customer Service
 4365 Willow Drive    
 Medina, MN 55340 
 
-Or, e-mail us your name and mailing address to [orders@rockler.com](mailto:orders@rockler.com)
+Or, e-mail us your name and mailing address to [customercare@rockler.com](mailto:customercare@rockler.com)
 
 Occasionally, we make a portion of our mailing list available to respectable organizations that may interest our customers.  If you do not wish to receive these mailings, please send us a note saying so, along with a copy of your mailing label to the address above - or send us the information in an e-mail to [orders@rockler.com](mailto:orders@rockler.com)
 
@@ -54,7 +54,7 @@ Occasionally, we make a portion of our mailing list available to respectable org
 
 ##### Your E-Mail Address
 
-If you supply us with your e-mail address in an online form, we may send you a periodic newsletter with information about our web site and other promotions.  In this newsletter are directions for removing your name and address from this list.  To be added to this list, please fill out our [subscriber form](http://www.rockler.com/log_on.cfm). We will not share your e-mail address with third parties.
+If you supply us with your e-mail address in an online form, we may send you a periodic newsletter with information about our web site and other promotions.  In this newsletter are directions for removing your name and address from this list.  To be added to this list, please fill out our [subscriber form](http://www.rockler.com/email-exclusives). We will not share your e-mail address with third parties.
 
 (back to top...)
 
@@ -83,7 +83,7 @@ Rockler and our partners also use cookies and other technologies to 'remember' h
 
 Our company and our trusted third parties may share with one another anonymous versions of user information collected at this site. We may use that information to link to and issue anonymous cookies containing demographic or intent-based data for online behavioral advertising purposes.  Such cookies do not contain personally identifiable information.  If you would like to opt out of online behavioral advertising, click on one of these links: 
 
-http://www.aboutads.info/choices or http://networkadvertising.org/choices. 
+<http://www.aboutads.info/choices> or <http://networkadvertising.org/choices>.
 
 As is true of most websites, our web servers gather some information automatically and store it in log files. This information includes Internet Protocol (IP) addresses, browser type and language, Internet service provider (ISP), referring and exit pages, operating system, date/time stamp, and clickstream data. We use this information to understand and analyze trends, to administer the site, to learn about user behavior on the site, and to gather demographic information about our user base as a whole. Rockler may use this information in our marketing and advertising services.
 
