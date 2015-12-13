@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mozello.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623184120id_/http%3A//www.mozello.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mozello.com privacy policy that was archived on 2015-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151213061506id_/http%3A//www.mozello.com/privacy) for the most accurate reproduction.*
 
 # Mozello - Privacy Policy
 
@@ -60,8 +60,8 @@ Cookies are small text files that are placed on your computer by websites that y
 
   * **Session cookies.** These cookies are essential in order to enable you to move around the website and use its features. Without these cookies, services you have asked for, like logging into your account, cannot be provided.
   * **Cookies that remember your choice.** Some cookies used on this website allow the website to remember choices you make (such as your preferred language).
-  * **Google Analytics cookies.** These cookies are used to collect information about how visitors use our site. We use this information to compile reports and to help us improve the site. The cookies collect information in an anonymous form.
-  * **Google Ads cookies.** These cookies simply note the fact that you visited our website. They are used by the Google advertising network to show you ads that are more relevant to your interests.
+  * **Google Analytics cookies.** These cookies are used to collect information about how visitors use our site. We use this information to compile reports and to help us improve the site. The cookies store information in an anonymous form.
+  * **Google advertising cookies.** These cookies are used to make advertising more effective and to show ads that are likely to be more relevant to you. For more information about how Google uses advertising cookies, visit the [Google Advertising Privacy FAQ](http://www.google.com/intl/en/policies/technologies/ads/). 
   * **Third party service provider cookies.** Cookies can be set by the following third party services used on this website: Google Analytics, Facebook Like Button, Twitter Follow button, Google +1 button, YouTube videos. Some of these cookies may be used to track your behaviour on other websites and we have no control over this as these cookies are not set by our own website.
 
 
@@ -74,11 +74,15 @@ You can usually modify your browser settings to disable cookies. However, by dis
 
 We use Google Analytics to understand how the site is being used in order to improve the user experience. User data is all anonymous. You can find out more about Google's position on privacy as regards its analytics service at [www.google.com](http://www.google.com/analytics/learn/privacy.html)
 
+We may use Google Analytics' Demographics and Interest Reporting features to view anonymous statistics about the demographics and interests of our visitors.
+
+To opt out of this behavior, install [Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout/).
+
 ## Google Ads Remarketing
 
 We may use Google Ads remarketing features to re-engage with our visitors via Google Display Network ads. This means that when you visit our page, Google will note this by saving a cookie in your web browser and then use it to serve more of our ads when you visit Google Display Network websites.
 
-You can opt out of this behavior by visiting [Google's Ads Settings](http://www.google.com/settings/ads) and using the interest-based ad opt-out features.
+To opt out of this behavior, visit [Google's Ads Settings](http://www.google.com/settings/ads).
 
 ## Data Storage
 
