@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the renewcanceltv.com privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612120136id_/http%3A//renewcanceltv.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the renewcanceltv.com privacy policy that was archived on 2015-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151213061357id_/http%3A//renewcanceltv.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - RenewCancelTV.com
 
@@ -42,6 +42,6 @@ RenewCancelTV.com participates in the Amazon affiliate advertising program desi
 
 RenewCancelTV.com may update its privacy policy from time to time at RenewCancelTV.com discretion. RenewCancelTV.com encourages visitors to regularly check this page for any changes, updates or amendments to the RenewCancelTV.com privacy policy. Your continued use of RenewCancelTV.com after any change will constitute acceptance of such change.
 
-If you would like to speak to RenewCancelTV.com about our Privacy Policy, please [contact](http://renewcanceltv.com/contact/ "contact") us using info [@] RenewCancelTV.com.
+If you would like to speak to RenewCancelTV.com about our Privacy Policy, please contact us using info [@] RenewCancelTV.com.
 
 Attribution for this Privacy Policy goes to the [Automatic Privacy Policy](http://automattic.com/privacy/), which is available under the[ Creative Commons Attribution-Share Alike 2.5 Generic License](http://go2.wordpress.com/?id=725X1342&site=automattic.wordpress.com&url=http%3A%2F%2Fcreativecommons.org%2Flicenses%2Fby-sa%2F2.5%2F&sref=http%3A%2F%2Fautomattic.com%2Fprivacy%2F).
