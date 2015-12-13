@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the profitguide.com privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626125800id_/http%3A//www.rogersmedia.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the profitguide.com privacy policy that was archived on 2015-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151213124036id_/http%3A//www.rogersmedia.com/privacy) for the most accurate reproduction.*
 
 # Rogers Media Privacy FAQ - Rogers Media Inc.
 
