@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lastpass.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629040517id_/https%3A//lastpass.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lastpass.com privacy policy that was archived on 2015-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151213204018id_/https%3A//lastpass.com/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement | LastPass
 
@@ -41,7 +41,7 @@ A cookie is a string of information that a website stores on a visitor’s compu
 
 Although most changes are likely to be minor, LastPass may change its Privacy Statement from time to time, and in LastPass’ sole discretion. LastPass encourages visitors to frequently check this page for any changes to its Privacy Statement.
 
-Marvasol Inc. DBA LastPass
+LogMeIn Inc. DBA LastPass
 
 * * *
 
