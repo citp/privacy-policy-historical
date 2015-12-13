@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 7theme.net privacy policy that was archived on 2015-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150622042344id_/http%3A//7theme.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 7theme.net privacy policy that was archived on 2015-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151213144518id_/http%3A//7theme.net/privacy) for the most accurate reproduction.*
 
 # Privacy Policy -
 
