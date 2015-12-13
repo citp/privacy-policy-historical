@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the footprintlive.com privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626072605id_/http%3A//www.footprintlive.com/about-footprint-credentials-and-contact/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the footprintlive.com privacy policy that was archived on 2015-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151213025304id_/http%3A//www.footprintlive.com/about-footprint-credentials-and-contact/privacy-policy.html) for the most accurate reproduction.*
 
 # Footprint Live - Footprint Privacy Statement
 
 ## Your privacy
 
-Most importantly: we will not sell, trade, give, etc., the statistics that we collect on your site to any third party, without your express permission. The data that we collect is not mined or used for marketing purposes in any way. The data that we collect is used solely for purposes of web metrics and traffic analysis by Footprint. Be assured that safeguarding the contents of your website traffic is our priority.
+Most importantly: we will not sell, trade, give, etc., the statistics that we collect on your [site](http://onlineslotsmob.com/) to any third party, without your express permission. The data that we collect is not mined or used for marketing purposes in any way. The data that we collect is used solely for purposes of web metrics and traffic analysis by Footprint. Be assured that safeguarding the contents of your website traffic is our priority.
 
 Footprint, is committed to safeguarding your privacy on-line. The following statement sets our privacy policy. For the purposes of this privacy statement "Footprint" shall mean Footprint. This policy may change from time to time so please re-read this policy periodically. 
 
