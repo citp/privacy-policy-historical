@@ -1,53 +1,168 @@
-> *The following text is extracted and transformed from the lesliespool.com privacy policy that was archived on 2015-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150513002053id_/http%3A//www.lesliespool.com/privacyandsecuritypolicies.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lesliespool.com privacy policy that was archived on 2015-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151213051751id_/http%3A//www.lesliespool.com/privacyandsecuritypolicies.htm) for the most accurate reproduction.*
 
 # Privacy & Security Policies
 
-## Privacy Policy
+_Last Updated May 20, 2015_
 
-Leslie’s Swimming Pool Supplies (“Leslie’s”) shares your concern about keeping your personal information confidential. To address that concern, we have adopted a comprehensive privacy policy, which is set forth in detail below. 
+## Introduction :
 
-## Registration
+Welcome to Leslie’s. As a customer of Leslie’s your trust is our most important asset. We take the protection and proper use of your personal information seriously and are committed to protecting your personal information in our possession. 
 
-While we encourage you to register with us when you place orders or otherwise visit our web site, registration is not required of anyone. The registration process simply helps us to provide you with a personalized shopping experience, and with much easier checkout options. On our “My Account” or “Catalog Request” forms, you will be asked to give us certain contact information, such as your name, a created password, a password hint (to help you if you can’t remember your password during future visits to the web site), and an e-mail address. If you would like, you can also complete a customer profile that you will use in “My Account” if you choose to set up such an account. We use some or all of that customer information to send you e-mail updates about any orders received or shipped, upcoming sales and promotions and product information. We also hope to learn more about our customers’ needs and wants to improve the Leslie’s shopping experience. In addition, we use that information, when necessary, to contact you concerning the status of an order or to answer any of your questions. You must be 13 years of age or older to register. At all times, you have the right to “opt out” from receiving future e-mail updates by simply following the unsubscribe links at the bottom of every Leslie’s email. We respect your right to privacy and will delete the requested email address from our site within 72 hours. 
+This privacy policy applies to all websites, call centers, commercial service centers and retail stores that are operated by Leslie’s Poolmart, Inc. or any of its divisions or affiliates (collectively, "Leslie’s", "we", “our” and "us"). Each such website is referred to in this privacy policy as a "Site". 
 
-## Order Information
+In this privacy policy, we describe Leslie’s practices for collecting, storing, using, and disclosing the personal (and other) information that we may obtain about you through any of the Sites. Please note that by using or accessing any of our Sites or shopping at our retail locations, you consent to the collection, storage, use and disclosure practices described in this privacy policy. 
 
-We provide an order form for you to use to request information or purchase products. When you place an order, we will collect certain personal information, such as your shipping and e-mail addresses, and we will place that information on a secured server. Your address and personal information is used to send orders and information about Leslie's to you, and to contact you when necessary. 
+## Information We Collect :
 
-## Use of Information
+  * _Online Purchases and Other Financial Transactions._ When you make a purchase or engage in any other financial transaction on one of our Sites, you will be asked to provide information necessary to facilitate the transaction, such as your credit card or debit card number, expiration date, associated security code, telephone number, billing address, email address, and shipping address. 
+  * _Program Registration._ In connection with your registration or other interaction online with one of our programs (such as our Leslie’s Rewards program), you may be asked to provide certain personal information, such as your name, email address, phone number, mailing address, and to generate a user name and password. 
+  * _Sign-Up for Emails, Newsletters or Other Correspondence._ If you sign up on one of our Sites to receive email communications, newsletters, or other correspondence from us, you may be asked to provide us with your name, email address, and/or mailing address, along with other information related to your subscription or correspondence. 
+  * _Contests, Sweepstakes, and Other Promotions._ We may collect information about you when you participate in a promotion that we sponsor, such as a contest or sweepstakes (which we may sponsor alone or co-sponsor with one or more third parties). To participate in one of our promotions, you may be asked to provide your name and your email address, mailing address and/or other contact information. For some promotions, we may request other information about you as well. Note that your participation will be subject to the official rules of the promotion (as well as this privacy policy and the privacy policy of any co-sponsor). 
+  * _Interactive Forums._ You and other users may be allowed to post comments and other content on certain portions of our Sites, such as on a discussion board, blog or other interactive forum. We may collect any information that you or another user posts about you on one of our Sites, including personal information about you, and it may be available to all users who have access to the Site. Please keep this in mind when considering what information to post to our Sites. 
+  * _Social Networking Activities._ Our Sites may include the ability for you and other users to link to one or more social networking platforms (such as Facebook, Instagram or Twitter). We may receive information about you when you choose to post or otherwise share information about us on any of these social networking platforms. Note that any information that you or others post to a social networking platform will be accessible by any users of such platform, subject to its terms of service and privacy policy. 
+  * _Usage Data._ When you use or access any of our Sites, we may collect certain usage data generated by your activities on the Sites, including your purchasing history, pages viewed, number of bytes transferred, hyperlinks clicked, and other actions you take on our Sites. Each of our Sites may also track the URL that you visited before you come to the Site, the URL to which you next go, and your Internet Protocol (IP) address or mobile device identifier. 
+  * _Location Data._ Some of our Sites may collect information about your location, such as the approximate location of your IP address. Unless you provide us with your permission, this location data is collected anonymously in a form that does not personally identify you. 
+  * _Online Information-Gathering Tools._ As with most websites, we use cookies, web beacons, and other online information-gathering tools in connection with our Sites. These tools are intended to make using our Sites easier by, among other things, saving your preferences for you. We may also use cookies to deliver content tailored to your interests. If your browser is set to reject cookies, or if your browser notifies you that you are about to receive a cookie and you reject it, then your use of our Site may not be as efficient as it would be if the cookie were enabled. 
+  * _Third-Party Integrated Services._ We may incorporate third-party ads and other third-party content on our Sites, and integrate other third-party offerings into the Sites, enabling certain such third parties to collect information about you or your online activities across other websites and over time through your use of our Sites. We may also incorporate Leslie’s ads and offerings onto third-party websites, enabling us to collect information about you or your online activities across other websites and over time through your use of websites with Leslie’s incorporated ads and/or offerings. Any information collected through such integrated technologies is collected directly by these third parties for use by such third parties and other authorized parties, subject to the privacy policies of those other parties. 
+  * _Online Inquiries and Correspondence._ When you submit an inquiry or otherwise correspond through one of our Sites, you may be asked to provide your name, email address, and/or other personal information to us. 
+  * _Careers._ When you use our Career Center (which is operated by a third party service provider) and create a profile to search for a job, we collect and keep the following information: (a) your name, telephone number, postal address, and any licensing, certification or other credentials you may have; (b) information about your education and qualifications, (c) your salary expectations, (d) your availability; and (e) other information relevant to your possible employment, as well as any other information you choose to submit. This information is made available only to our employees involved in the recruitment process, and it is used only for recruitment purposes. Employees of our third party service provider have access to your Personal Information, but they are subject to privacy protection requirements, and they may only use the information for the purpose of providing us with necessary services and support. 
 
-Leslie’s will not collect any information which is purely personal, such as your name, address, e-mail address, and telephone number, unless you specifically provide it to us when you visit our web site. We will not sell or share any personal information about you to or with any third party. At times, we may share aggregate, or summary information, such as statistics about our customers, sales traffic patterns and related site information to reputable third-party vendors. All such information, however, will not include any personally identifiable information about you. 
 
-## Updating Information
 
-From time to time, you may want to change or modify the information that was previously provided by you. In order to perform that function, access the “My Account” page and update your information using the options provided on that page. 
+We may keep indefinitely the information about you collected through our Sites. 
 
-## Option to Opt Out
+## How We Use Your Information :
 
-You can opt out of receiving email communications from us at any time. In order to remove your information from our database, simply follow the opt out / unsubscribe procedures contained at the bottom of every Leslie’s email or send an email to our Webmaster from the “Contact Us” section of this site with ‘Unsubscribe’ in the subject line and the email address you wish removed listed below . 
+We may use information about you collected through our Sites for a variety of commercial purposes. 
 
-## Security of Information
+Without limitation, we may use such information to: 
 
-Leslie’s has put variouis security measures into place to protect against the loss, misuse or alteration of your personal information. For example, we encrypt your personal information, including your credit card number, whenever that information is transmitted over the Internet using triple key encryption technology by Secure Server Certification Authority RSA Data Security Inc. US and a VeriSign SSL (Secure socket Layer), to safeguard your Internet transactions. VeriSign, Inc. is a leading provider of Public Key Infrastructure (PKI) and digital certificate solutions used by enterprises, web sites and consumers to conduct secure communications and transactions over the Internet and private networks. Browsers that allow for SSL Technology Ordering from our web site require the use of an SSL-compliant browser, such as Netscape 4.0 or later; Microsoft Internet Explorer 5.0 or later; 5.0 AOL client for PCs; or the 5.0 AOL client for Macs. You will not be able to use Secure Mode if you have an older version of an Internet browser that does not support secure transactions, of if your computer is located on a local area network (LAN) that uses a firewall that prohibits secure transactions. If Secure Mode is not possible, please select one of our off-line options to place your order. 
+  * administer and improve our Sites and businesses; 
+  * promote our products and services to you, as well as the products and services of our affiliates; 
+  * promote (and enable the promotion of) third-party products and services to you that we think you may find of interest; 
+  * deliver email communications, newsletters, and other correspondence to which you subscribe; 
+  * communicate with you about our contests, sweepstakes and other promotions; 
+  * conduct other marketing activities; 
+  * process and respond to your application for current or future career opportunities; 
+  * process membership requests when you apply or otherwise administer your participation in our programs; 
+  * communicate with you regarding your membership in one of our programs and facilitate the functioning of our programs; 
+  * respond to your inquiries and other correspondence, or request that you provide feedback to us; 
+  * we also use your personal information for our everyday business purposes such as security, payment processing, analytics, operations, fraud detection and prevention, reporting, making back-ups and legal compliance; and 
+  * fulfillment of orders placed through our Sites. 
 
-## Cookies
 
-When you access our database, Leslie’s may place a feature called a “cookie,” or small data file, on the hard drive of our computer. A cookie may contain certain information, such as a unique user session ID number, which is used to track the page(s) you visited. We do not store any personally identifiable information in your cookie. This unique number allows us to keep track of your order as you shop on our site. Cookies also allow us to recognize registered users when they visit, and they allow us to provide those customers with their account information. If you register with us or if you order from our site, we may use cookies to monitor and maintain information about how you use our site and what you buy. If you do not register or buy from the site, we may monitor and maintain information about your use of our web site in a manner that does not identify you. Cookies do not allow us to collect any additional information other than the information that was provided by you at the time of registration. Most web browsers automatically accept cookies, but you can usually change the configuration of your browser to prevent this from occurring. Even without a cookie, you can still take advantage of most of the features of our site, including making a purchase, but we will not be able to recognize you as a registered user. As a result, you will be unable to access (or change or delete) your account information. 
 
-## Contacting the Website
+## How We Share Your Information :
 
-If you have any questions or comments regarding this privacy statement, regarding our business practices, or regarding your dealings with this web site write to us at: 
+We disclose to third parties the personal (or other) information collected about you through any of our Sites either (i) when we have your permission to do so or (ii) in any of the following situations (without your permission): 
 
-Leslie’s Swimming Pool Supplies
+  * We may share the information collected about you within the Leslie’s family of companies, which means we may disclose the information collected about you to our affiliates (subject to the terms of this privacy policy). 
+  * We may disclose the information collected about you to our third-party contractors and partners in connection with their performing services or other activities in support of the Sites and/or our businesses (which may include, but is not limited to, verifying the accuracy of the information you provide to us, providing customer service, delivering email communications, newsletters, and other correspondence to which you subscribe), or their completing or confirming on our behalf a transaction or series of transactions that you conduct with us. 
+  * As noted above, information about you collected by third-party ads, content or technologies integrated with any of our Sites may be disclosed to such third parties. 
+  * We may disclose the results of aggregated data about you and other users of our Sites without restriction. In these situations, we do not disclose to these entities any information that could be used to personally identify you. 
+  * We may disclose to one or more third parties the information collected about you as part of a merger, acquisition or other sale or transfer of any of the assets or business of Leslie’s and/or of any of our affiliates. Please note that the entity receiving such information in connection with one of these transactions may not comply with all of the terms of this privacy policy. 
+  * We may disclose information about you to the government or to other third parties to comply with the law, applicable regulations, governmental and quasi-governmental requests, court orders, subpoenas or other legal process, such as in connection with suspected illegal activity associated with any of the Sites or our business. We reserve the right to release information collected through any of the Sites to law enforcement or other government officials, as we, in our sole discretion, deem necessary or appropriate. 
+  * We may also disclose information about you to third parties if needed to enforce any of the terms of use for one of our Sites or other agreements, or any investigation of potential violations thereof; to detect, prevent, or otherwise address fraud, security or technical issues; to protect against harm to any of the Sites; or to protect our rights, property or safety or the rights, property or safety of our users or others (e.g., to a consumer reporting agency for fraud protection). 
+  * We may also, in certain instances, disclose your personal information when we have reason to believe that it is necessary to identify you, contact you, to advise you of a product recall, detect and protect you or us from fraud or theft, manage information security or bring legal action to protect your rights or the rights of Leslie’s or others. 
 
-3925 E. Broadway Rd., Suite 100  
-Phoenix, AZ 85040
 
-Attn: General Counsel
 
-## External Links
+##  Updating Your Information :
 
-Our web site contains links to other sites. We are not responsible for the privacy practices or content of such other web sites. 
-  *[E.]: East
-  *[Rd.]: Road
-  *[AZ]: Arizona
+You may correct or update information collected about you through any of our Sites by contacting us at the email or mailing address noted below: 
+
+  * Call 1-800-537-5437 
+  * Email service@lesliespool.com 
+  * Mail your request to: Customer Service, 2005 E. Indian School Rd., Phoenix, AZ 85016 
+
+
+
+You may also access and update your information at any time by logging into your account at: https://www.lesliespool.com/myaccount.htm. 
+
+## Opting Out :
+
+When you receive sales flyers, advertisements, direct mail, and other promotional communications from us, including email, you will have the opportunity to “opt out” by following the “unsubscribe” instructions in the email you receive or by contacting us directly. We will use commercially reasonable efforts to update our files to reflect your request as promptly as possible. 
+
+## Security :
+
+We maintain physical, electronic and procedural safeguards to protect the confidentiality and security of personal information transmitted to us using the Sites. To help guard your information, our Sites use Secure Sockets Layer (SSL). SSL encrypts your credit card number, name and address so only Leslie’s is able to decode your information. Please note that email is not encrypted and is not considered to be a secure means of transmitting credit card information. 
+
+To be sure your connection is secure locate the lock icon on your browser window. If you see an unbroken key or a closed lock (depending on your browser) the SSL is active and your information is secure. Most browsers offer additional security alerts as well. If for some reason you are unable to connect to our secure server, please call us toll free at 1-800-537-5437. 
+
+We also ask customers to carefully review their accounts and immediately report any unexpected activity to Leslie’s and your issuing bank or credit card company. Additionally, we are asking all our customers to take measures to help protect personal information in their online accounts, including the following: 
+
+  * Install the latest security updates and anti-virus software on your computer to help prevent malware and viruses; 
+  * Reset your email account password; 
+  * Use complex passwords (a minimum of 7 alpha/numeric cAsE sEnsitive characters); 
+  * Do not use the same password on more than one website; 
+  * Do not share your password with others; 
+  * Password protect your personal mobile device(s); 
+  * Sign out/log off website sessions so that your session is closed and cannot be accessed by another user on the same computer, especially when using a public computer or terminal; and 
+  * Visit these additional resources: 
+  * https://www.us-cert.gov/ncas/tips 
+  * http://www.consumer.ftc.gov/topics/computer-security 
+  * http://www.microsoft.com/security/pc-security/protect-pc.aspx 
+  * http://www.clarkhoward.com/news/clark-howard/technology/clark-howards-virus-spyware-and-malware-protection/nFZJ 
+
+
+
+## Transfer of Data from Outside the United States :
+
+If you use any of our Sites from outside of the United States, information that we collect about you through the Site will be transferred to servers inside the United States and maintained indefinitely. By using the Site, you consent to the transfer of data about you into the United States, as well as the processing of such data in the United States. 
+
+## Cookies, Web Beacons, and Other Similar Technologies :
+
+Our Site uses "cookie" and "web beacon" technology. We use cookies and web beacons to identify your device, provide website user authentication, conduct fraud prevention and management services, distinguish you from other visitors, record your IP address and understand your use of our Site, and identify the name of the Web site from which you linked to Leslie’s. This information is used for fulfilling contracts with our business partners, and to help us serve you better by improving our website design, as well as our products, services, and promotions. We do not otherwise track any information about your use of other websites. Information obtained through cookies and web beacons may be shared with or obtained by service providers on our behalf. 
+
+A cookie is a small data file that is placed on the hard drive of your computer when you visit a website. A "session cookie" expires immediately when you end your session (i.e., close your browser). A "persistent cookie" stores information on the hard drive so when you end your session and return to the same website at a later date, the cookie information is still available. A web beacon is a small string of code that represents a clear graphic image and is used in conjunction with a cookie. 
+
+When you visit our Site, we may use both a session and a persistent cookie. This Leslie’s-placed cookie may contain information (such as a unique user ID) that is used to track your usage of our Site and in some cases, your email address. A web beacon allows us to capture certain additional types of information about a visitor's actions on a web site, such as a visitor's cookie number, the time, date, duration and number of page views, a description of the page where the Web beacon is placed, and details about any items that were purchased. 
+
+The Leslie’s-placed cookie allows us to recognize you when you return to our Site and provides you with access to your account information. If you save your information with or order from us, we may also use cookies to monitor and maintain information about your use of our Sites. If you have not saved your information with or ordered from us, we may monitor and maintain information about your use of our Sites in a manner that does not identify you. You can disable cookies at any time by using your browser options; however, if you turn off cookies, we will not be able to track your order or enable you to make a purchase from our Sites. In addition, we will not be able to recognize you as a registered user to allow you access to your account information. 
+
+We may use Flash Cookies (also known as Local Stored Objects) or other similar technologies. A Flash cookie is a small data file placed on a computer using Adobe Flash technology that may be built into your computer or downloaded by you to your computer. We use these technologies to personalize and enhance your online experience, facilitate processes, personalize and store your settings. Flash cookies may help our website visitors to, for example, set volume preference associated with a video experience, play games and perform surveys. They help us improve our sites by measuring which areas are of greatest interest to customers. We do not use Flash cookies for marketing or behavioral targeting purposes. Flash cookies are different from browser cookies and the cookie management tools provided by your browser will not remove Flash cookies. Learn how to manage privacy and storage settings for Flash cookies. If you disable Flash cookies or other similar technologies, please be aware that you may not have access to certain features and services that make your online experience more efficient and enjoyable. 
+
+_Browser Do Not Track Signals_  
+At this time, our Sites do not support "Do Not Track" preferences that may be available in your browser for letting websites know that you do not want them collecting certain kinds of information. Specifically, if you turn on the Do Not Track setting on your browser, our Sites are not currently capable of following whatever Do Not Track preferences you set. For more information about Do Not Track, visit donottrack.us. 
+
+## Children :
+
+Our Sites are not designed to appeal to persons under 13 years old ("children"). We do not knowingly collect or maintain personal information from children through our Sites, except for persistent identifiers that may be collected through children's sections of our Sites which (as permitted by applicable law) we will use solely to support the internal operations of the Sites. If we learn that any unauthorized personal information of a child has been collected, we will take appropriate steps to delete such information. If you are a parent or guardian and discover that your child has provided any such personal information to us, then you may contact us at the email or mailing address noted at the end of this privacy policy below and request that we delete that information from our systems. 
+
+## Links to Other Websites and Services :
+
+This privacy policy only addresses Leslie’s practices for the personal (and other) information that we may obtain about you through any of the Sites. Please be aware that when you use or access any of the Sites, you may be directed to other websites that are beyond our control, and Leslie’s is not responsible for the privacy practices of third parties or the content of linked websites. We would expect most, if not all, of these third parties will collect information about you when you use their offerings. However, Leslie’s is not responsible for the privacy practices of third parties, regardless whether they are linked or otherwise connected to our Sites. We encourage you to read the posted privacy policy and terms of use whenever interacting with any third-party website, app, or other offering. 
+
+## California Privacy Rights :
+
+California law entitles residents to ask us for a notice describing what categories of personal information we share with third parties or with corporate affiliates for those entities direct marketing purposes. Leslie’s does not provide any personal information to third parties for their own direct marketing purposes. If you want to request a notice or have any questions about Leslie’s privacy practices, please contact us at service@lesliespool.com. 
+
+## Video Recording :
+
+We conduct video surveillance at our stores for security, fraud and loss prevention purposes and for incident reporting purposes. We use the images and information from such videos only as required for such purposes and for certain operational purposes, such as to measure traffic patterns in our stores. 
+
+## Governing Law :
+
+By choosing to visit any of our Sites, you agree that any dispute over privacy or the terms contained in this privacy policy will be governed by the law of the State of Arizona, without reference to the choice of law or conflicts of law principles thereof, and will be subject to the dispute resolution clause contained in the terms of use applicable to the particular Site. You also agree to abide by any limitation on damages contained in the terms of use applicable to the Site or any other agreement that we have with you. 
+
+## Business Transitions :
+
+As we continue to develop our business, we may undergo a business transition such as acquiring another company, merging with an existing company, or selling a portion of our assets. In such transitions, customer information is typically one of the business assets that is transferred or acquired by a third party. In the unlikely event that Leslie’s or substantially all of its assets are acquired or enter a court proceeding, you acknowledge that such transfers may occur and that your personal information can continue to be used as set forth in this Privacy Policy. 
+
+## Additional Information :
+
+If you are not comfortable shopping online (and would prefer to make your purchase via telephone), just give us a call at 1-800-537-5437. Our Customer Service Representatives will be happy to assist you. 
+
+## Privacy Policy Updates :
+
+We reserve the right to make changes to this privacy policy at any time, with any such changes to be effective prospectively. Your continued use of our Sites, or your continued business with us at our retail stores, will indicate your acknowledgment of the changes and agreement to be bound by the terms and conditions of the Privacy Policy, as revised. 
+
+## Contact Us :
+
+If you have any questions or comments regarding this privacy policy or any of our Sites, you can contact us by: 
+
+  * Calling Customer Service at 1-800-537-5437 
+  * Emailing Customer Service at service@lesliespool.com 
+  * Writing us at: Leslie’s Poolmart, Inc., 2005 E. Indian School Rd., Phoenix, AZ 85016, Attn: Chief Information Officer/Privacy Policy 
+
+
