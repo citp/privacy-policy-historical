@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the iupsc.in privacy policy that was archived on 2013-07-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130730030812id_/http%3A//www.iupsc.in/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iupsc.in privacy policy that was archived on 2015-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151213034145id_/http%3A//www.iupsc.in/p/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy | iUPSC
-
-  
-
+# Privacy Policy | UPSC | Recruitment 2015 | RPSC | TNPSC| MPPSC | BPSC | APPSC | UPPSC| MPSC | Exam Results
 
 **Privacy Policy At www.iupsc.in**
 
@@ -30,7 +27,3 @@
 **You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. www.iupsc.in's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.**
 
 **If you wish to disable cookies, you may do so through yourindividual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites.  **
-
-[
-
-](http://www.iupsc.in/p/privacy-policy.html)
