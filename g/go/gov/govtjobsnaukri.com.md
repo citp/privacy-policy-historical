@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the govtjobsnaukri.com privacy policy that was archived on 2015-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150619100649id_/http%3A//www.govtjobsnaukri.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the govtjobsnaukri.com privacy policy that was archived on 2015-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151213022507id_/http%3A//www.govtjobsnaukri.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Latest Government Jobs | Sarkari Naukri in India
 
@@ -39,11 +39,3 @@ We take reasonable steps to secure your personally identifiable information agai
    
 `   
 [AdChoices](https://quantcast.com/adchoices-pub?pub=8sW_aAGGtNL9iA4g0vXXvw)`
-
-`
-
-#### Incoming search terms:
-
-  * [naukri @gmail com](http://www.govtjobsnaukri.com/privacy-policy/ "naukri @gmail com") (2)
-
-`
