@@ -1,6 +1,16 @@
-> *The following text is extracted and transformed from the frooition.com privacy policy that was archived on 2014-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141126063810id_/http%3A//www.frooition.com/us/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the frooition.com privacy policy that was archived on 2015-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151213080923id_/http%3A//www.frooition.com/us/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | eBay Store Design | eBay Shop Design | eBay Listing Template Design | eBay Templates by Frooition | US
+
+Frooition.com Located at 
+
+Unit E Silverend Business Park, Brettell Lane, Stourbridge, West Midlands. DY5 3LG. United Kingdom. 
+
+10474 Santa Monica Blvd, Suite 200, Stourbridge, Los Angeles. CA 90025. United States. 
+
+Phone: 01384 480810 Phone: 512 831 7600
+
+<http://www.frooition.com/>
 
 This service is maintained by Troubleshooter LLC doing business as Froo.com. Your privacy is important to us. We use the information we collect about you to provide an improved service for both our customers and visitors. We want to help you maintain your privacy on the internet.   
 This document explains our policy regarding any personal information which you might supply to us when you visit our site and associated services.
@@ -39,6 +49,8 @@ We have implemented security policies, rules and technical measures to protect t
 All our employees and data processors, who have access to, and are associated with the processing of personal data, are obliged to respect the confidentiality of our visitors' personal data.  
 We ensure that your personal data will not be disclosed to State institutions and authorities except if required by law or other regulation.  
 We will not transfer any personal data outside the European Economic Area without first obtaining your consent.
+
+We do not store credit card details nor do we share customer details with any 3rd parties.
 
 **1.5 Do you disclose the information to anyone else?**  
 Information that you provide to us will be used solely by us or a third party where necessary to compile profile information regarding users of the web site and their interests. Personal information regarding individuals will not be disclosed unless you have indicated that we may send you information about changes to the web site or new services and products.  
