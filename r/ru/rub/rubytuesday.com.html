@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the rubytuesday.com privacy policy that was archived on 2015-06-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150611094749id_/http%3A//www.rubytuesday.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the rubytuesday.com privacy policy that was archived on 2015-12-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151213061404id_/http%3A//www.rubytuesday.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><meta http-equiv="X-UA-Compatible" content="IE=Edge"><title>
 	
@@ -67,7 +67,7 @@
                        <li id="mainnav-locations"><span></span><a href="/locations">Locations</a><span class="end"></span></li>
                        <li id="mainnav-menu"><span></span><a href="/menu">The Menu</a><span class="end"></span></li>
                        <li id="mainnav-bar"><span></span><a href="/thebar">The Bar</a><span class="end"></span></li>
-                       <li id="mainnav-givingback"><span></span><a href="/giving-back">Giving Back</a><span class="end"></span></li>
+                       
                        <li id="mainnav-ourstory"><span></span><a href="/our-story">Our Story</a><span class="end"></span></li>
 					</ul>
 				</div><!-- /navigation -->
@@ -283,7 +283,7 @@ Certain of our other Web sites and mobile applications may have their own privac
     
     <script type="text/javascript" src="/Content/js/jquery.ui.datepicker.js"></script>
     <!-- Site specific javascript -->
-    <script type="text/javascript" src="/compressor.ashx?js=rt,tracking"></script> 
+    <script type="text/javascript" src="/compressor.ashx?js=rt,rt-gc-balance-checker,tracking"></script> 
     
         <script type="text/javascript">
         <!--
@@ -292,6 +292,144 @@ Certain of our other Web sites and mobile applications may have their own privac
         </script>
     
 
+<script>
+	var restart = function(){
+		$(".restart").click(function(){
+			$(".subMessages").hide();
+			$("#subscribe").show();
+		});
+		$(".restartBanner").click(function(){
+			$(".subMessages").hide();
+			$("#subscribeBanner").show();
+		});
+	};
+	
+	var closer = function(){
+		setTimeout(function(){
+			$("#fancybox-close").trigger("click");
+			$('#emailAddress').val("");
+		}, 5000);
+	};
+	
+	var backtoSignup = function(){
+		setTimeout(function(){
+			$('.subMessages').hide();
+			$('#subscribeForm button, #subscribeFormBanner button').attr('disabled', false).css('opacity', '1');
+			$("#subscribe, #subscribeBanner").show();
+		}, 5000);
+	};
+	
+    $(document).ready(function () {
+        $('.btn-viewonta').click(function (e) {
+            e.preventDefault();
+            var linkUrl = $(this).parent().children('div').find('a').attr('href');
+            window.open(linkUrl, "_tab");
+        });
+        $('.location-loc-tripadvisor .TA_logoWidget div a').each(function (i, u) {
+            var linkurl = $(this).attr('href');
+            $(this).parent().parent().parent().find('a.btn-viewonta').attr('href', linkurl);
+        });
+		// code in this callback
+		// function guaranteed to
+		// run after dom is ready
+		$('#placeholder, #placeholderBanner').click(function(){
+			$('#placeholder, #placeholderBanner').hide();
+		});
+		
+		$('#emailAddress, #emailAddressBanner').focusin(function(){
+			$('#placeholder, #placeholderBanner').hide();
+		});
+		$('#emailAddress, #emailAddressBanner').focusout(function(){
+			var emailAddress = $('#emailAddress').val();
+			var emailAddressBanner = $('#emailAddressBanner').val();
+			if(emailAddress == null || emailAddress == ''){
+				$('#placeholder').show();
+			}
+			if(emailAddressBanner == null || emailAddressBanner == ''){
+				$('#placeholderBanner').show();
+			}
+		});
+		$('#subscribeForm button, #subscribeFormBanner button').click(function(e){
+			var currentSignup = $(this).parent().attr('id');
+			e.preventDefault();
+			// Gather the form values
+			var emailAddress = $('#emailAddress').val() || $('#emailAddressBanner').val();
+			// Set the signup source in the form so this script can be used for multiple forms
+			var signupSource = (currentSignup == 'subscribeBanner') ? $('#signupSourceBanner').val(): $('#signupSource').val();
+			// Add email regex test to validate client-side here
+			var regex = /^[a-z0-9!#$%&'*+/=?^_`{|}~-]+(?:\.[a-z0-9!#$%&'*+/=?^_`{|}~-]+)*@([a-z0-9]([\-a-z])|([0-9])*)(\.[a-z0-9]|[a-z0-9])*\.[a-z]{2}([abfgilmoprstuvxz]|[abfgilmoprstuvxz][aeiopstv]|[abfgilmoprstuvxz][aeiopstv][^eu]|[abfgilmoprstuvxz][aeiopstv][^eu][^lm])?$/i;
+			// AJAX request to resend the message
+			// This MUST be a POST
+			var emailMatch = emailAddress.match(regex);
+			
+			if(emailAddress != null && emailAddress != '' && emailMatch != null){
+				$('#subscribeForm button, #subscribeFormBanner button').attr('disabled', true).css('opacity', '0.5');
+				$('#error, #errorBanner').hide();
+				$.ajax({
+					url: "http://pages.rubytuesdayrestaurants.com/page.aspx?QS=773ed3059447707d87481967d7cce9c1d666f09ac25d65870743b232c461a83c",
+					jsonp: "callback", // The ET landing page is looking for "callback"
+					dataType: "jsonp",
+					data: {
+						emailAddress: emailAddress,
+						signupSource: signupSource
+					},
+				 
+					// Work with the response
+					success: function( response ) {
+						$('#subscribeForm button, #subscribeFormBanner button').attr('disabled', false).css('opacity', '1');
+						if(currentSignup == 'subscribeBanner'){
+							$("#subscribeBanner").hide();
+						}else{
+							$("#subscribe").hide();
+						}
+						switch(response.status.toLowerCase()){
+							case "ok":
+								if(currentSignup == 'subscribeBanner'){
+									$("#thankYouBanner").show();
+									backtoSignup();
+								}else{
+									$("#thankYou").show();
+								}
+								closer();
+								var axel = Math.random() + "";
+								var a = axel * 10000000000000;
+								$('body').prepend('<iframe src="https://3508610.fls.doubleclick.net/activityi;src=3508610;type=signu0;cat=signu0;qty=1;cost=[Revenue];u1=[CouponID#];ord=' + a + '??" width="1" height="1" frameborder="0" style="display:none"></iframe>');
+								break;
+							case "already":
+								if(currentSignup == 'subscribeBanner'){
+									$("#alreadyBanner").show();
+									backtoSignup();
+								}else{
+									$("#already").show();
+								}
+								closer();
+								break;
+							case "error":
+								if(currentSignup == 'subscribeBanner'){
+									$("#errorWrapBanner").show();
+								}else{
+									$("#errorWrap").show();
+								}
+								restart();
+								break;
+							case "error_bad":
+								if(currentSignup == 'subscribeBanner'){
+									$("#errorBadWrapBanner").show();
+								}else{
+									$("#errorBadWrap").show();
+								}
+								restart();
+								break;
+						}
+					}
+				});
+			}else{
+				$('#error, #errorBanner').show();
+			}
+			return false;  // So the form doesn't actually post
+		}); // closes #emailResend.submit function
+    });
+</script>
 
     <!-- Google Code for All Site Visitors Remarketing List --> 
 	<!-- removing for now end of campaing per Tim "Please save comment out current code so we have an easy refresh back to original at the end of the campaign" -->
