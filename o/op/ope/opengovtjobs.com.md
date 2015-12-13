@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the opengovtjobs.com privacy policy that was archived on 2015-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150615002423id_/http%3A//www.opengovtjobs.com/privacy-policy-opengovtjobs-com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the opengovtjobs.com privacy policy that was archived on 2015-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151213164815id_/http%3A//www.opengovtjobs.com/privacy-policy-opengovtjobs-com) for the most accurate reproduction.*
 
 # Privacy Policy (OpenGovtJobs.Com) - Open Govt Jobs 2015
 
