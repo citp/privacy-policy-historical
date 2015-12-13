@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hollywoodcamerawork.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607183619id_/http%3A//www.hollywoodcamerawork.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hollywoodcamerawork.com privacy policy that was archived on 2015-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151213125254id_/http%3A//www.hollywoodcamerawork.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Hollywood Camera Work :: Main :: Privacy Policy
 
@@ -30,4 +30,4 @@ To prevent unauthorized access, maintain data accuracy, and ensure the correct u
 
 ####  How To Contact Us 
 
-Should you have other questions or concerns about these privacy policies, please contact us at any of the addresses or phone numbers listed on the [Contact Page](https://web.archive.org/web/20150607183619id_/http%3A//www.hollywoodcamerawork.com/contact.html). 
+Should you have other questions or concerns about these privacy policies, please contact us at any of the addresses or phone numbers listed on the [Contact Page](https://web.archive.org/web/20151213125254id_/http%3A//www.hollywoodcamerawork.com/contact.html). 
