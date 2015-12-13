@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brian-bagnall.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623172811id_/https%3A//brian-bagnall.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brian-bagnall.com privacy policy that was archived on 2015-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151213081607id_/http%3A//brian-bagnall.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy — Brian-Bagnall.com
 
