@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the workforcehosting.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607040714id_/http%3A//www.workforcesoftware.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the workforcehosting.com privacy policy that was archived on 2015-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151213020041id_/http%3A//www.workforcesoftware.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | WorkForce Software
 
@@ -121,8 +121,8 @@ WorkForce Software, LLC holds its employees and agents accountable for maintaini
 
 In the case that WorkForce Software, LLC obtains knowledge of use or disclosure of information not in accordance with the Web Privacy Policy, WorkForce Software, LLC will take the following reasonable steps to stop the use or disclosure:
 
-  1. WorkForce will formally contact the relevant party and instruct them to stop using the data inappropriately and/or destroy the data. WorkForce will advise the relevant party on appropriate use and disclosure of information in accordance with the Web Privacy Policy.
-  2. If the relevant party continues to use or disclose the information inappropriately, WorkForce will take legal actions to prevent the continued misuse of information. WorkForce will also remove the information from its database to prevent further misuse.”
+  1. WorkForce Software will formally contact the relevant party and instruct them to stop using the data inappropriately and/or destroy the data. WorkForce Software will advise the relevant party on appropriate use and disclosure of information in accordance with the Web Privacy Policy.
+  2. If the relevant party continues to use or disclose the information inappropriately, WorkForce Software will take legal actions to prevent the continued misuse of information. WorkForce Software will also remove the information from its database to prevent further misuse.”
 
 
 
@@ -153,4 +153,4 @@ Customers should seek independent legal counsel to determine what laws and regul
 
 ### Effective Date
 
-This Privacy Notice became effective January 1, 2012. It was last updated October 30, 2014.
+This Privacy Notice became effective January 1, 2012. It was last updated November 10, 2015.
