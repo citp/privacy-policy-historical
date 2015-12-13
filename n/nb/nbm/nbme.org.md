@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the nbme.org privacy policy that was archived on 2015-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150404094128id_/http%3A//www.nbme.org/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nbme.org privacy policy that was archived on 2015-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151213014650id_/http%3A//www.nbme.org/about/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | NBME
 
-Date Updated:  September 15, 2014
+Date Updated:  October 6, 2015
 
 National Board of Medical Examiners (NBME®) is committed to protecting your privacy and to maintaining the integrity and privacy of personal information that NBME collects through the NBME website (the "Site") located at [www.nbme.org ](http://www.nbme.org/). The following Privacy Policy ("Policy") explains NBME's information collection and dissemination practices in connection with the Site. Please review the Policy and feel free to contact us at [communications@nbme.org ](mailto:%63%6F%6D%6D%75%6E%69%63%61%74%69%6F%6E%73%40%6E%62%6D%65%2E%6F%72%67) if you have any questions. 
 
 ## TRUSTe Privacy Seal
 
-[](https://privacy.truste.com/privacy-seal/National-Board-of-Medical-Examiners/validation?rid=6317a366-df16-4f82-8b5b-35ac460d4da2 "TRUSTe online privacy certification")
+[](https://privacy.truste.com/privacy-seal/validation?rid=6317a366-df16-4f82-8b5b-35ac460d4da2 "TRUSTe Privacy Certification")
 
-NBME has received TRUSTe's privacy seal, signifying that this privacy statement and our practices have been reviewed for compliance with the TRUSTe program, viewable on the validation page available by clicking the TRUSTe seal. 
+NBME has received TRUSTe's privacy seal, signifying that this privacy statement and our practices have been reviewed for compliance with the TRUSTe program, viewable on the validation page available by clicking the TRUSTe seal. The TRUSTe program covers only information that is collected through this website, http://www.nbme.org, and does not cover information that may be collected through software downloaded from the website. 
 
 If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe at <https://feedback-form.truste.com/watchdog/request>. Please [click here](http://www.truste.com/about-TRUSTe/contact-us) for fax and postal mail information. TRUSTe's dispute resolution process is only available in English. 
 
@@ -71,8 +71,7 @@ As is true of most websites, we gather certain information automatically and sto
 
 We may combine this automatically collected log information with other information we collect about you. We do this to improve site functionality.
 
-We use local storage objects (LSOs) such as HTML5 or Flash to store content information and preferences. Various browsers may offer their own management tools for removing HTML5 LSOs. To manage Flash LSOs please click here:   
-<http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html>
+Third parties with whom we partner to provide certain features on our website also use HTML5 to collect and store information. Various browsers may offer their own management tools for removing HTML5 LSOs 
 
 ## 5.  Credit Card
 
