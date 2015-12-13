@@ -1,11 +1,9 @@
-> *The following text is extracted and transformed from the interflora.co.uk privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623204511id_/http%3A//www.interflora.co.uk/content/help-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the interflora.co.uk privacy policy that was archived on 2015-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151213122818id_/http%3A//www.interflora.co.uk/content/help-privacy-policy) for the most accurate reproduction.*
 
 # Interflora Help - Privacy Policy
 
-Security & Privacy \- Privacy Policy
-
- **Interflora British Unit  
-****Online Privacy Policy for the Website at www.interflora.co.uk**
+**Interflora British Unit**  
+**Online Privacy Policy for the Website at www.interflora.co.uk**
 
 The website at www.interflora.co.uk (the " **Website** ") is owned by Interflora British Unit (" **we/us** "). For the purposes of the Data Protection Act 1998, the data controller in respect of the Website is Interflora British Unit. We are committed to protecting the privacy of visitors to our Website and complying with all applicable laws in the use of the information we collect about you. 
 
