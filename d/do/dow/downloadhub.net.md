@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the downloadhub.net privacy policy that was archived on 2015-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150414234446id_/http%3A//www.downloadhub.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the downloadhub.net privacy policy that was archived on 2015-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151213030159id_/http%3A//www.downloadhub.net/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy Of Downloadhub.net
+# Privacy Policy | DownloadHub.Net
+
+## _**Privacy Policy**_
 
 ### **…::: Exclusive  On DownloadHub.Net Team :::…**
 
@@ -20,6 +22,6 @@ _**Log Files  – As with most other websites, we collect and use the data cont
 
 _**Cookies and Web Beacons  – We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and would like to know your options in relation to·not having this information used by these companies, click here.**_
 
-_**We can be reached via our contact e-mail to admin@downloadhub.net**_
+_**We can be reached via our contact e-mail to ** _[worldfree4u.es@gmail.com]_****_
 
 ### **…::: Exclusive  On DownloadHub.Net Team :::…**
