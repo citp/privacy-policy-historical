@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the envfor.nic.in privacy policy that was archived on 2014-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141006201257id_/http%3A//envfor.nic.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the envfor.nic.in privacy policy that was archived on 2015-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151213111747id_/http%3A//envfor.nic.in/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Ministry of Environment & Forests, Government of India
+# Privacy Policy | Ministry of Environment, Forest and Climate Change Government of India
 
 As a general rule, this website does not collect Personal Information about you when you visit the site. You can generally visit the site without revealing Personal Information, unless you choose to provide such information.
 
