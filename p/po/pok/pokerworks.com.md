@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pokerworks.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610060256id_/http%3A//pokerworks.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pokerworks.com privacy policy that was archived on 2015-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151213194220id_/http%3A//pokerworks.com/privacy-policy.html) for the most accurate reproduction.*
 
 # PokerWorks Privacy Policy | PokerWorks
 
