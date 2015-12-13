@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uoregon.edu privacy policy that was archived on 2015-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150615104256id_/http%3A//registrar.uoregon.edu/records-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uoregon.edu privacy policy that was archived on 2015-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151213175324id_/http%3A//registrar.uoregon.edu/records-privacy) for the most accurate reproduction.*
 
 # Student Records Privacy Policy | Office of the Registrar
 
@@ -42,7 +42,7 @@ Faculty and staff are responsible for protecting the identity of students and ke
 
 Some records created and maintained by the university, although not covered by FERPA, may be subject to other federal and state laws or regulations regarding disclosure.
 
-The exceptions under FERPA which allow the university to disclose personally identifiable information from your education record are stated in the [full text of the University of Oregon Student Records Policy](http://policies.uoregon.edu/sites/policies.uoregon.edu/files/uploads/OAR%20571%20-%20Division%2020.pdf "University of Oregon Student Records Policy"). The most common exceptions to disclosure restrictions are disclosures to university faculty or staff -- "School Officials” -- with a legitimate educational interest, or disclosure of personally identifiable information designated as Directory Information.
+The exceptions under FERPA which allow the university to disclose personally identifiable information from your education record are stated in the [full text of the University of Oregon Student Records Policy](http://policies.uoregon.edu/student-records-1 "University of Oregon Student Records Policy"). The most common exceptions to disclosure restrictions are disclosures to university faculty or staff -- "School Officials” -- with a legitimate educational interest, or disclosure of personally identifiable information designated as Directory Information.
 
 ### Definition of Directory Information
 
@@ -64,7 +64,7 @@ Directory information includes:
 
 Below is a quick reference of frequently asked-for data, and whether it is or is not Directory Information at the University of Oregon.
 
-[This chart is also available as a PDF download.](https://web.archive.org/sites/registrar2.uoregon.edu/files/pdf/UO_Directory_Information_Chart.pdf)
+[This chart is also available as a PDF download.](https://web.archive.org/sites/registrar1.uoregon.edu/files/pdf/UO_Directory_Information_Chart.pdf)
 
 DIRECTORY INFORMATION? | YES | NO  
 ---|---|---  
@@ -138,7 +138,7 @@ The restriction of information is permanent until you request, in writing, that 
 
 Students who request letters of reference or recommendation from University of Oregon faculty or staff members need to do so in writing. Such letters or statements are most effective if they contain specific information about your academic or work performance; this type of information is considered "non-directory" information and cannot be released without the signed written consent of the student, according to the Family Educational Rights and Privacy Act (FERPA) and the University of Oregon Student Records Policy.
 
-The Office of the Registrar has composed a FERPA-compliant authorization to release form that may be used when requesting references/recommendations. The completed and signed [Student Reference Request Form](https://web.archive.org/sites/registrar2.uoregon.edu/files/pdf/StudentReferenceRequestForm.pdf) may be mailed, faxed, or sent as a PDF to the faculty or staff member from whom you are requesting the reference/recommendation.
+The Office of the Registrar has composed a FERPA-compliant authorization to release form that may be used when requesting references/recommendations. The completed and signed [Student Reference Request Form](https://web.archive.org/sites/registrar1.uoregon.edu/files/pdf/StudentReferenceRequestForm.pdf) may be mailed, faxed, or sent as a PDF to the faculty or staff member from whom you are requesting the reference/recommendation.
 
 Your request should contain the following:
 
@@ -155,7 +155,7 @@ Some graduate programs, scholarships or job applications require the use of thei
 
 ### Student Record Policy of the University of Oregon
 
-The information provided on this web site is for informational purposes only. The complete text of the University of Oregon Student Records Policy, which takes precedence over all other published versions, is available at the [Oregon Secretary of State Archives Division](http://arcweb.sos.state.or.us/pages/rules/oars_500/oar_571/571_020.html).
+The information provided on this web site is for informational purposes only. The complete text of the University of Oregon Student Records Policy, which takes precedence over all other published versions, is available at the [University of Oregon's Policy Library](http://policies.uoregon.edu/student-records-1 " University of Oregon Policy Library").
 
 ### UO ID Number
 
@@ -171,7 +171,7 @@ FERPA was enacted by the U.S. Congress in 1974 and has since had many amendments
 
 Name | Description  
 ---|---  
-[Consent Form for Releasing Education Records](https://web.archive.org/sites/registrar2.uoregon.edu/files/pdf/Consent_to_Release_Educational_Records_0.pdf "Consent Form for Releasing Education Records") | For students requesting the release of _**non-directory information**_. Other written formats are acceptable if they include: 
+[Consent Form for Releasing Education Records](https://web.archive.org/sites/registrar1.uoregon.edu/files/pdf/Consent_to_Release_Educational_Records_0.pdf "Consent Form for Releasing Education Records") | For students requesting the release of _**non-directory information**_. Other written formats are acceptable if they include: 
 
   1. What information is to be released
   2. To whom the information is to be released
@@ -179,18 +179,18 @@ Name | Description
   4. Your signature and the date signed
 
   
-[Consent Form for Courses Using Blogs, Social Media or Other Publicly-accessible Communication Tools](https://web.archive.org/sites/registrar2.uoregon.edu/files/pdf/FERPA-Consent-Form-For-Course-Blog-and-Social-Media.pdf "Consent Form for Courses Using Blogs, Social Media or Other Publicly-accessible Communication Tools") | For faculty using blogs, social media or other publicly-accessible communication tools in courses, collect this form from each of your students.  
-[Consent Form for Requesting References/Recommendations](https://web.archive.org/sites/registrar2.uoregon.edu/files/pdf/StudentReferenceRequestForm.pdf) | For students requesting letters of reference or recommendation from University of Oregon faculty or staff members.  
-[Code of Responsibility for Education Records](https://web.archive.org/sites/registrar2.uoregon.edu/files/pdf/Ferpa-Code-of-Responsibility.pdf "Code of Responsibility for Education Records") | For departments to use when students/staff without access to systems are handling records.  
-[Consent Form for ePortfolio Participation](https://web.archive.org/sites/registrar2.uoregon.edu/files/pdf/ePortfolio_FERPA_Consent_Form.pdf "Consent Form for ePortfolio Participation") | For faculty using ePortfolio, collect and retain this form from each of your students.  
+[Consent Form for Courses Using Blogs, Social Media or Other Publicly-accessible Communication Tools](https://web.archive.org/sites/registrar1.uoregon.edu/files/pdf/FERPA-Consent-Form-For-Course-Blog-and-Social-Media.pdf "Consent Form for Courses Using Blogs, Social Media or Other Publicly-accessible Communication Tools") | For faculty using blogs, social media or other publicly-accessible communication tools in courses, collect this form from each of your students.  
+[Consent Form for Requesting References/Recommendations](https://web.archive.org/sites/registrar1.uoregon.edu/files/pdf/StudentReferenceRequestForm.pdf) | For students requesting letters of reference or recommendation from University of Oregon faculty or staff members.  
+[Code of Responsibility for Education Records](https://web.archive.org/sites/registrar1.uoregon.edu/files/pdf/Ferpa-Code-of-Responsibility.pdf "Code of Responsibility for Education Records") | For departments to use when students/staff without access to systems are handling records.  
+[Consent Form for ePortfolio Participation](https://web.archive.org/sites/registrar1.uoregon.edu/files/pdf/ePortfolio_FERPA_Consent_Form.pdf "Consent Form for ePortfolio Participation") | For faculty using ePortfolio, collect and retain this form from each of your students.  
 Banner form SWIFERP | A Banner form available to all Faculty and Staff with Banner access. If the student does not have a directory restriction, all information on this form is releasable to a third party with the exception of the student ID number.  
-[Consent Forms for Photos and Videos](http://digital.uoregon.edu/ferpa-releases "Consent Forms for Photos and Videos")
+Consent Forms for Photos and Videos 
 
-  * [Option #1](http://digital.uoregon.edu/sites/digital.wc-sites.uoregon.edu/files/uploads/FERPA%20Photograph%20Release%20%233.pdf "Consent Form for Photos and Videos Option #1")
-  * [Option #2](http://digital.uoregon.edu/sites/digital.wc-sites.uoregon.edu/files/uploads/FERPA%20Photograph%20Release.pdf "Consent Form for Photos and Videos Option #2")
+  * [Option #1](https://web.archive.org/sites/registrar1.uoregon.edu/files/pdf/ferpa_photograph_release.pdf "Consent Form for Photos and Videos Option #1")
+  * [Option #2](https://web.archive.org/sites/registrar1.uoregon.edu/files/pdf/ferpa_photograph_release_3.pdf "Consent Form for Photos and Videos Option #2")
 
 | Use when taking photos and videos of students for use on the web and in print. Use either waiver when producing content involving students.  
-[Consent Form for the Common Application](https://web.archive.org/sites/registrar2.uoregon.edu/files/pdf/Common-Application-Consent-to-Release-Education-Records.pdf) | For students requesting a [Common Application](https://web.archive.org/current-students/common-application "Common Application") "Transfer Registrar Report" to be completed by the Registrar's Office.  
+[Consent Form for the Common Application](https://web.archive.org/sites/registrar1.uoregon.edu/files/pdf/Common-Application-Consent-to-Release-Education-Records.pdf) | For students requesting a [Common Application](https://web.archive.org/current-students/common-application "Common Application") "Transfer Registrar Report" to be completed by the Registrar's Office.  
   
 ## Student Records Privacy Policy For Parents
 
@@ -240,7 +240,7 @@ Disclosure of information from education records is allowed under the University
 
 ### See Also
 
-  * [Full text of the University of Oregon Student Records Policy](http://policies.uoregon.edu/sites/policies.uoregon.edu/files/uploads/OAR%20571%20-%20Division%2020.pdf "Full text of the University of Oregon Student Records Policy")
+  * [Full text of the University of Oregon Student Records Policy](http://policies.uoregon.edu/student-records-1 "Full text of the University of Oregon Student Records Policy")
   * [Family Policy Compliance Office (FPCO)](http://www2.ed.gov/policy/gen/guid/fpco/index.html)
   * [More information about the federal Family Educational Rights and Privacy Act](http://www2.ed.gov/policy/gen/guid/fpco/ferpa/index.html "More information about the federal Family Educational Rights and Privacy Act")
   * [More information about the Family Policy Compliance Office (FPCO)](http://www2.ed.gov/policy/gen/guid/fpco/index.html "More information about the Family Policy Compliance Office \(FPCO\)")
@@ -267,7 +267,7 @@ Security and confidentiality are matters of concern to all University employees 
 
 Any knowledge of a violation of this code must be reported immediately to the violator's supervisor. Violations may lead to disciplinary action, including dismissal. Violations can also lead to action under the State of Oregon statutes pertaining to theft, alteration of public records, or other applicable sections.
 
-**_See also:_** [Code of Responsibility for Security and Confidentiality of Records and Files](https://web.archive.org/sites/registrar2.uoregon.edu/files/pdf/Ferpa-Code-of-Responsibility.pdf)
+**_See also:_** [Code of Responsibility for Security and Confidentiality of Records and Files](https://web.archive.org/sites/registrar1.uoregon.edu/files/pdf/Ferpa-Code-of-Responsibility.pdf)
 
 ### Definition of Education Records
 
@@ -285,7 +285,7 @@ The restriction is permanent until the student requests, in writing, that it be 
 
 #### Student Records Policy Directory Information Chart
 
-[This chart is also available as a PDF download.](https://web.archive.org/sites/registrar2.uoregon.edu/files/pdf/UO_Directory_Information_Chart.pdf)
+[This chart is also available as a PDF download.](https://web.archive.org/sites/registrar1.uoregon.edu/files/pdf/UO_Directory_Information_Chart.pdf)
 
 DIRECTORY INFORMATION? | YES | NO  
 ---|---|---  
@@ -338,7 +338,7 @@ Faculty and staff are responsible for protecting the identity of students and ke
 
 #### _See:_ [Random Number Generator](https://web.archive.org/faculty-staff/random-number-generator "Random Number Generator")
 
-To read the complete University of Oregon Student Records Policy, OAR 571-020-0100, go to the [Oregon Secretary of State Archives Division](http://arcweb.sos.state.or.us/pages/rules/oars_500/oar_571/571_020.html).
+To read the complete University of Oregon Student Records Policy, refer to the [Full text of the University of Oregon Student Records Policy](http://policies.uoregon.edu/student-records-1).
 
 Sue Eveland, University Registrar, is the designated Custodian of Student Records. Questions about the Student Records Policy or the information described above should be forwarded to Ms. Eveland (seveland@uoregon.edu) or (541) 346-3195.
 
@@ -346,7 +346,7 @@ Sue Eveland, University Registrar, is the designated Custodian of Student Record
 
 ## Privacy Related Resources
 
-### University of Oregon Directory Information Chart [(PDF download)](https://web.archive.org/sites/registrar2.uoregon.edu/files/pdf/UO_Directory_Information_Chart.pdf)
+### University of Oregon Directory Information Chart [(PDF download)](https://web.archive.org/sites/registrar1.uoregon.edu/files/pdf/UO_Directory_Information_Chart.pdf)
 
 Records defined as "Directory Information" may be released at any time without the express written permission of the student unless the student has filed a Restriction of Directory Information.
 
@@ -387,12 +387,12 @@ Whether a graduate student has a GTF appointment and their teaching assignment |
 
 ### University of Oregon Student Records Policy
 
-[Full text of the University of Oregon Student Records Policy](http://policies.uoregon.edu/sites/policies.uoregon.edu/files/uploads/OAR%20571%20-%20Division%2020.pdf)
+[Full text of the University of Oregon Student Records Policy](http://policies.uoregon.edu/student-records-1)
 
 ### Forms and Other Resources  
   
 Name | Description  
-[Consent Form for Releasing Education Records](https://web.archive.org/sites/registrar2.uoregon.edu/files/pdf/Consent_to_Release_Educational_Records_0.pdf) | For students requesting the release of _**non-directory information**_. Other written formats are acceptable if they include: 
+[Consent Form for Releasing Education Records](https://web.archive.org/sites/registrar1.uoregon.edu/files/pdf/Consent_to_Release_Educational_Records_0.pdf) | For students requesting the release of _**non-directory information**_. Other written formats are acceptable if they include: 
 
   1. What information is to be released 
   2. To whom the information is to be released 
@@ -400,15 +400,15 @@ Name | Description
   4. Your signature and the date signed
 
   
-[Consent Form for Courses Using Blogs, Social Media or Other Publicly-accessible Communication Tools](https://web.archive.org/sites/registrar2.uoregon.edu/files/pdf/FERPA-Consent-Form-For-Course-Blog-and-Social-Media.pdf "Consent Form for Courses Using Blogs, Social Media or Other Publicly-accessible Communication Tools") | For faculty using blogs, social media or other publicly-accessible communication tools in courses, collect this form from each of your students.  
-[Consent Form for Requesting References/Recommendations](https://web.archive.org/sites/registrar2.uoregon.edu/files/pdf/StudentReferenceRequestForm.pdf) | For students requesting letters of reference or recommendation from University of Oregon faculty or staff members.  
-[Code of Responsibility for Education Records](https://web.archive.org/sites/registrar2.uoregon.edu/files/pdf/Ferpa-Code-of-Responsibility.pdf "Code of Responsibility for Education Records") | For departments to use when students/staff without access to systems are handling records.  
-[Consent Form for ePortfolio Participation](https://web.archive.org/sites/registrar2.uoregon.edu/files/pdf/ePortfolio_FERPA_Consent_Form.pdf "Consent Form for ePortfolio Participation") | For faculty using ePortfolio, collect and retain this form from each of your students.  
+[Consent Form for Courses Using Blogs, Social Media or Other Publicly-accessible Communication Tools](https://web.archive.org/sites/registrar1.uoregon.edu/files/pdf/FERPA-Consent-Form-For-Course-Blog-and-Social-Media.pdf "Consent Form for Courses Using Blogs, Social Media or Other Publicly-accessible Communication Tools") | For faculty using blogs, social media or other publicly-accessible communication tools in courses, collect this form from each of your students.  
+[Consent Form for Requesting References/Recommendations](https://web.archive.org/sites/registrar1.uoregon.edu/files/pdf/StudentReferenceRequestForm.pdf) | For students requesting letters of reference or recommendation from University of Oregon faculty or staff members.  
+[Code of Responsibility for Education Records](https://web.archive.org/sites/registrar1.uoregon.edu/files/pdf/Ferpa-Code-of-Responsibility.pdf "Code of Responsibility for Education Records") | For departments to use when students/staff without access to systems are handling records.  
+[Consent Form for ePortfolio Participation](https://web.archive.org/sites/registrar1.uoregon.edu/files/pdf/ePortfolio_FERPA_Consent_Form.pdf "Consent Form for ePortfolio Participation") | For faculty using ePortfolio, collect and retain this form from each of your students.  
 Banner form SWIFERP | A Banner form available to all Faculty and Staff with Banner access. If the student does not have a directory restriction, all information on this form is releasable to a third party with the exception of the student ID number.  
-[Consent Forms for Photos and Videos](http://digital.uoregon.edu/ferpa-releases "Consent Forms for Photos and Videos")
+Consent Forms for Photos and Videos 
 
-  * [Option #1](http://digital.uoregon.edu/sites/digital.wc-sites.uoregon.edu/files/uploads/FERPA%20Photograph%20Release%20%233.pdf "Consent Form for Photos and Videos Option #1")
-  * [Option #2](http://digital.uoregon.edu/sites/digital.wc-sites.uoregon.edu/files/uploads/FERPA%20Photograph%20Release.pdf "Consent Form for Photos and Videos Option #2")
+  * [Option #1](https://web.archive.org/sites/registrar1.uoregon.edu/files/pdf/ferpa_photograph_release.pdf "Consent Form for Photos and Videos Option #1")
+  * [Option #2](https://web.archive.org/sites/registrar1.uoregon.edu/files/pdf/ferpa_photograph_release_3.pdf "Consent Form for Photos and Videos Option #2")
 
 | Use when taking photos and videos of students for use on the web and in print. Use either waiver when producing content involving students.  
-[Consent Form for the Common Application](https://web.archive.org/sites/registrar2.uoregon.edu/files/pdf/Common-Application-Consent-to-Release-Education-Records.pdf) | For students requesting a [Common Application](https://web.archive.org/current_students/common-application "Common Application") "Transfer Registrar Report" to be completed by the Registrar's Office.
+[Consent Form for the Common Application](https://web.archive.org/sites/registrar1.uoregon.edu/files/pdf/Common-Application-Consent-to-Release-Education-Records.pdf) | For students requesting a [Common Application](https://web.archive.org/current_students/common-application "Common Application") "Transfer Registrar Report" to be completed by the Registrar's Office.
