@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mysexchatroom.com privacy policy that was archived on 2015-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150615002946id_/http%3A//www.mysexchatroom.com/privacy.html%3F) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mysexchatroom.com privacy policy that was archived on 2015-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151213234810id_/http%3A//www.mysexchatroom.com/privacy.html%3F) for the most accurate reproduction.*
 
 # MySexChatroom - Privacy Policy
 
