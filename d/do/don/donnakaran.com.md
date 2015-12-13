@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the donnakaran.com privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611043046id_/http%3A//www.donnakaran.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the donnakaran.com privacy policy that was archived on 2015-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151213075544id_/http%3A//www.donnakaran.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
