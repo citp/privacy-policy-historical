@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cognizant.com privacy policy that was archived on 2015-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150504221125id_/http%3A//www.cognizant.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cognizant.com privacy policy that was archived on 2015-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151213134001id_/http%3A//www.cognizant.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Cognizant Technology Solutions
 
@@ -49,8 +49,6 @@ Cognizant will provide users with access to their data and, when appropriate, al
 Data transfers
 
 We may need to transfer your personal information to countries other than the ones in which your personal information was originally collected. Those countries may not have the same level of protection of personal information as the country in which your data was initially collected. Where Cognizant must transfer personal information to such countries, it will take appropriate steps to apply the same level of protection to the data being transferred as is described in this Policy, in accordance with applicable local law.
-
-Cognizant Technology Solutions U.S. Corporation and its US affiliates comply with the U.S.-EU safe harbor framework and the U.S.-Swiss safe harbor framework and have certified adherence to the safe harbor principles. For further information, please read Cognizant’s [ Safe Harbor Policy.](https://web.archive.org/SiteDocuments/Cognizant-safe-harbor-policy.pdf)
 
 Changes to this Privacy Policy
 
