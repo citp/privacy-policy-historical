@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the spoilednyc.com privacy policy that was archived on 2015-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150511161443id_/http%3A//spoilednyc.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spoilednyc.com privacy policy that was archived on 2015-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151213033237id_/http%3A//spoilednyc.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | spoiled nyc
+# Privacy Policy | spoiled NYC
 
 This privacy statement covers the website spoilednyc.com. Please read this statement carefully before proceeding to access spoilednyc.com. Your use of spoilednyc.com indicates your agreement to abide by the Terms in effect.
 
