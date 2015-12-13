@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the agaysex.com privacy policy that was archived on 2015-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150615002043id_/http%3A//www.agaysex.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the agaysex.com privacy policy that was archived on 2015-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151213170624id_/http%3A//www.agaysex.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | A Gay Sex
 
@@ -22,4 +22,4 @@ You can choose to disable or selectively turn off our cookies or third-party coo
 
 Deleting cookies does not mean you are permanently opted out of any advertising program. Unless you have settings that disallow cookies, the next time you visit a site running the advertisements, a new cookie will be added. 
 
-[](http://secure.extrabigdicks.com/track/cht122.2.6.6.0.0.0.0.0)
+[](http://www.nextdoortwink.com/track/go.php?pr=9&su=2&si=35&ad=223003)
