@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the briggsandstratton.com privacy policy that was archived on 2015-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150420002915id_/http%3A//www.briggsandstratton.com/us/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the briggsandstratton.com privacy policy that was archived on 2015-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151213013351id_/http%3A//www.briggsandstratton.com/us/en/privacy-policy) for the most accurate reproduction.*
 
 # Website Privacy Policy | Briggs & Stratton
 
-Last Updated 1/9/2014
+Last Updated 12/11/2015
 
 **PRIVACY POLICY  
 **We take your privacy seriously, and we want you to know how we collect, use, share and protect your personal information.
@@ -37,6 +37,10 @@ The information we collect from you may include :
 
 **Information From Other Sources**   
 We may receive information about you from third parties who help us update, expand and analyze our records, and improve our website experience. We do not use this information to identify you individually, but it does reflect some of your activities on the Internet, such as the web sites you visited immediately before visiting the Site or links available at other websites which directed you to the Site.
+
+**Briggs & Stratton SMS Alerts**  
+If you have opted-in to receive Briggs & Stratton SMS alerts, you can discontinue receiving SMS messages by texting **STOP** to 64586. For additional help, text **HELP** to 64586 or call us at 1-800-444-7774.  
+**Msg &Data Rates May Apply.**
 
 **Do We Use Cookies?  
 **Yes. Cookies are small files that a site or its service provider transfers to your computer’s hard drive through your Web browser (if you allow) that enables the site’s or service provider’s systems to recognize your browser and capture and remember certain information.
@@ -121,7 +125,7 @@ All of our users' information is restricted in our offices. Only employees who n
 1-800-444-7774
 
 **Online:  
-** [http://www.briggsandstratton.com/engines/support/frequently-asked-questions/contact/](http://www.briggsandstratton.com/engines/support/frequently-asked-questions/contact/http://)
+** <http://www.briggsandstratton.com/us/en/support/ask-briggs>
 
 **Mailing Address:**   
 Briggs & Stratton Corporate Headquarters   
