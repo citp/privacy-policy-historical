@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the citysports.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627040913id_/http%3A//www.citysports.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the citysports.com privacy policy that was archived on 2015-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151213160053id_/http%3A//www.citysports.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy at City Sports
 
