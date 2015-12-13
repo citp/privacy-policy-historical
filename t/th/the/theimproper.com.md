@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the theimproper.com privacy policy that was archived on 2015-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150613012451id_/http%3A//www.theimproper.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theimproper.com privacy policy that was archived on 2015-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151213064838id_/http%3A//www.theimproper.com/privacy) for the most accurate reproduction.*
 
-# Privacy
+# Privacy -
 
 Please read this statement carefully before accessing and using TheImproper.com. Your use of TheImproper.com indicates your agreement to abide by the Terms in effect.
 
