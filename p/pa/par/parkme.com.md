@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the parkme.com privacy policy that was archived on 2015-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150620100057id_/https%3A//www.parkme.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the parkme.com privacy policy that was archived on 2015-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151213153417id_/https%3A//www.parkme.com/privacy) for the most accurate reproduction.*
 
 # ParkMe - Privacy Policy
 
