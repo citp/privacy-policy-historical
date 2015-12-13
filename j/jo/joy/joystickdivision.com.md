@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the joystickdivision.com privacy policy that was archived on 2015-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150602183337id_/http%3A//www.villagevoice.com/about/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the joystickdivision.com privacy policy that was archived on 2015-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151213092351id_/http%3A//www.villagevoice.com/about/privacyPolicy) for the most accurate reproduction.*
 
-# New York Privacy Policy
+# Privacy Policy | New York News, Food, Culture and Events | Village Voice
 
 ### Village Voice, LLC
 
@@ -86,8 +86,8 @@ We use reasonable efforts to protect your personally identifiable information fr
 
 ### Updates and Changes to Your Information.
 
-If your personally identifiable information changes, you may correct and/or update it by sending us an email at [community@villagevoice.com](mailto:community@villagevoice.com). You may also view, correct and/or update your personally identifiable information by accessing your profile on the Site. 
+If your personally identifiable information changes, you may correct and/or update it by sending us [an email](https://web.archive.org/about/contact?category=community). You may also view, correct and/or update your personally identifiable information by accessing your profile on the Site. 
 
 ### More Questions? 
 
-If you have any questions about this privacy policy, please e-mail them to [privacyadministrator@voicemediagroup.com](mailto:privacyadministrator@voicemediagroup.com), and be sure to indicate the specific site you are visiting and the nature of your question or concern.
+If you have any questions about this privacy policy, please e-mail them to [privacyadministrator@villagevoice.com](mailto:privacyadministrator@villagevoice.com), and be sure to indicate the specific site you are visiting and the nature of your question or concern.
