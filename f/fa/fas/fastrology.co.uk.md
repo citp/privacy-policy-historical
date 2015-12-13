@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fastrology.co.uk privacy policy that was archived on 2015-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150428232053id_/http%3A//www.fastrology.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fastrology.co.uk privacy policy that was archived on 2015-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151213034715id_/http%3A//www.fastrology.co.uk/privacy) for the most accurate reproduction.*
 
 # Astrology & Horoscopes, including Star Signs, Daily & Free Horoscopes
 
