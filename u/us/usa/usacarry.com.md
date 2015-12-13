@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usacarry.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607152809id_/http%3A//www.usacarry.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usacarry.com privacy policy that was archived on 2015-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151213143018id_/http%3A//www.usacarry.com/privacy-policy.html) for the most accurate reproduction.*
 
 # USA Carry Privacy Policy
 
