@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the magsforeveryone.com privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331035655id_/https%3A//magsforeveryone.com/index.php%3Fukey%3Dauxpage_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the magsforeveryone.com privacy policy that was archived on 2015-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151213122312id_/http%3A//magsforeveryone.com/index.php%3Fukey%3Dauxpage_privacy) for the most accurate reproduction.*
 
-# Privacy Policy ― Mags For Everyone, 2012. All rights reserved
+# Privacy Policy ― Mags For Everyone, 2015. All rights reserved
 
 **MagsForEveryone.com** is committed to respect the privacy rights of visitors. If you have any questions, please call toll-free  **1- 888-520-3042** or email us at [support@magsforeveryone.com](mailto:support@magsforeveryone.com)
 
