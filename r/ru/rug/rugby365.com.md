@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the rugby365.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629055213id_/http%3A//www.rugby365.com/article/37704-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rugby365.com privacy policy that was archived on 2015-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151213170922id_/http%3A//www.rugby365.com/about/37704-privacy-policy) for the most accurate reproduction.*
 
 # Rugby365 | Privacy Policy
-
-#####  Contact Us 
-
-######  Tue, 09 Jan 2007 00:00 
 
 The following discloses the information gathering and dissemination practices for the Rugby365com website.
 
