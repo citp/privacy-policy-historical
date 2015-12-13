@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the pcadvisor.co.uk privacy policy that was archived on 2010-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100616205104id_/http%3A//www.pcadvisor.co.uk/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pcadvisor.co.uk privacy policy that was archived on 2015-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151214000111id_/http%3A//www.idg.co.uk/terms-and-conditions/privacy-policy) for the most accurate reproduction.*
 
-# Site Policy - PC Advisor
+# T&C | IDG UK
 
 ## Introduction – who we are
 
 This website is owned and operated by IDG Communications Limited of 101 Euston Road, London, NW1 2RA, United Kingdom, Reg. Co. No. 1197840, VAT No. GB-404696446 ("IDG UK").  IDG UK has notified as a data controller under the UK Data Protection Act 1998.
 
-IDG UK is the owner and operator of PC Advisor ([www.pcadvisor.co.uk](http://www.pcadvisor.co.uk/)), Macworld ([www.macworld.co.uk](http://www.macworld.co.uk/)), MacVideo ([www.macvideo.tv](http://www.macvideo.tv/)) and Digital Arts Online ([www.digitalartsonline.co.uk](http://www.digitalartsonline.co.uk/)) and sub-domains of these websites. IDG UK is a subsidiary of International Data Group, Inc.
+IDG UK is the owner and operator of CIO UK ([www.cio.co.uk](http://www.cio.co.uk/)), Techworld UK ([www.techworld.com](http://www.techworld.com/)), Computerworld UK ([www.computerworlduk.com](http://www.computerworlduk.com/)), PC Advisor ([www.pcadvisor.co.uk](http://www.pcadvisor.co.uk/)), Macworld ([www.macworld.co.uk](http://www.macworld.co.uk/)), MacVideo ([www.macvideo.tv](http://www.macvideo.tv/)), Digital Arts Online ([www.digitalartsonline.co.uk](http://www.digitalartsonline.co.uk/)), Tech Advisor ([www.techadvisor.co.uk](http://www.techadvisor.co.uk/)), Tech-Resources ([www.tech-resources.co.uk](http://www.tech-resources.co.uk/)) and sub-domains of these websites. IDG UK is a subsidiary of International Data Group, Inc.
 
 The International Data Group, Inc. (IDG) family of on-line and print publications consists of hundreds of award-winning titles from around the world including Connect.com, connect.co.uk, CIO, CSO, Game Pro, Network World, Macworld and PC World. The IDG Publishing Network is a growing collection of IDG web sites that presently includes cio.com, csoonline.com, infoworld.com, idgconnect.com, networkworld.com, macworld.com, pcworld.com and gamepro.com. A complete listing is available at [www.idg.com](http://www.idg.com/). The IDG Publishing Network is operated by our ultimate holding company International Data Group, Inc. together with its subsidiaries (“our Group”).
 
@@ -42,9 +42,7 @@ We may disclose your personal data if we are under a duty to disclose your perso
 
 ## Changing your details and unsubscribing
 
-At all times as a recipient of an IDG UK product and/or service or an IDG Publishing Network product and/or service you will have the opportunity to amend your contact details and/or to modify your opt-in/opt-out choices. We will not actually delete your record from the applicable database(s) as we would no longer be able to identify you, which could lead to you receiving information from us in the future.
-
-To action any of these requests please contact the relevant customer care department of the product/service you subscribe to.   
+At all times as a recipient of an IDG UK product and/or service or an IDG Publishing Network product and/or service you will have the opportunity to amend your contact details and/or to modify your opt-in/opt-out choices. We will not actually delete your record from the applicable database(s) as we would no longer be able to identify you, which could lead to you receiving information from us in the future. To action any of these requests please contact the relevant customer care department of the product/service you subscribe to.   
 If you submit your email address to sign up for any of our online offerings including our newsletter(s) on the website, then you can unsubscribe at any time by either contacting, as applicable, IDG UK and/or the IDG Publishing Network directly or via the unsubscribe facility included in communications sent to you.
 
 ## Access to Information
@@ -61,25 +59,11 @@ Please be aware that our Website may link to other web sites which may be access
 
 ## Cookies
 
-We may use cookies to provide you with a convenient means of access, without needing your password. Also to protect the integrity of registered user names and passwords and to limit access to 'paid for' services. We will not disclose personal data obtained by the use of cookies to third parties.
-
-Most web browsers automatically accept cookies, though you do not have to. The 'help' portion of the toolbar on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether.
-
-When you request a page from the Website's web server, the server automatically collects some information about your system, including your IP address. IDG UK collects the minimum information necessary to make the service work efficiently.
-
-## Third-Party Advertisement Servers
-
-In the UK, we use ADTECH’s industry leading technology to serve advertisements on the www.pcadvisor.co.uk website. You are able to opt out of the ADTECH ad-serving cookie via the ADTECH privacy policy which can be viewed [here](http://www.adtech.info/cookie_opt-out/).
-
-Furthermore, some advertisers may use third-party companies to track advertisements on our Website. Except as described above, we will not pass any personal data to them. Unless you visit the website of these companies and provide them with this information, those advertisers will not be able to identify who you are. This use of tracking technology by our advertisers is subject to their own privacy policies. IDG UK does not have control over the collection of information for advertising purposes.
+For information on what cookies we use on IDG UK websites and how to manage them, [click here](http://www.idg.co.uk/cookies/).
 
 ## Changes to the Policy
 
 IDG UK reviews its privacy and data protection policy periodically. We reserve the right to modify our privacy and data protection policy at any time without notice. Any changes to the policy will be posted on this page.
-
-## To update your details for this Website
-
-If your personal data changes you can update your profile for this Website when logged in to www.pcadvisor.co.uk.  To Login to the site, please visit our [Account Login Page](https://web.archive.org/account/login).
 
 ## Contact Us
 
@@ -91,6 +75,6 @@ IDG Communications Ltd
 London  
 NW1 2RA  
 United Kingdom  
-**Phone:** +44 (0) 20 7756 2800  
-**Email:**[webmaster@pcadvisor.co.uk](mailto:webmaster@pcadvisor.co.uk)   
+ **Phone:** +44 (0) 20 7756 2800  
+ **Email:**[webmaster@idg.co.uk](mailto:webmaster@idg.co.uk)  
 Last updated: May 09
