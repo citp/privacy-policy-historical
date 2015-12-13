@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mathblaster.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315230050id_/http%3A//www.mathblaster.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mathblaster.com privacy policy that was archived on 2015-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151213041541id_/http%3A//www.mathblaster.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - Math Blaster
 
