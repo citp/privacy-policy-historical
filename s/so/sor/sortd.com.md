@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sortd.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608002448id_/http%3A//www.sortd.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sortd.com privacy policy that was archived on 2015-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151213132357id_/http%3A//sortd.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Sortd
 
