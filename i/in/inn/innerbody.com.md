@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the innerbody.com privacy policy that was archived on 2015-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150531001251id_/http%3A//www.innerbody.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the innerbody.com privacy policy that was archived on 2015-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151213042951id_/http%3A//www.innerbody.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | InnerBody
 
@@ -36,7 +36,8 @@ Each time you visit the Website, your browser or internet session automatically 
     * Your Internet domain, e.g., Comcast, Verizon, AT&T, etc.,
     * You computer's operating system, e.g., Windows, Mac OS X, UNIX, Linux, etc.,
     * Your navigation path, i.e., the URLs of where you come to our site from, which of our pages you visit, and where you go as your leave (sometimes called “clickstream data”),
-    * Your computer’s IP Address, and
+    * Your computer’s IP Address,
+    * Certain non-identifying demographic and interest details, collected through Google Analytics, and
     * A date/time stamp.
 
 
