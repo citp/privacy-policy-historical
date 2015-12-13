@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the listenaminute.com privacy policy that was archived on 2015-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150414235100id_/http%3A//www.listenaminute.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the listenaminute.com privacy policy that was archived on 2015-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151213031335id_/http%3A//www.listenaminute.com/privacy.html) for the most accurate reproduction.*
 
 # Listen A Minute.com: Privacy
 
@@ -12,4 +12,4 @@ Users may opt out of the use of the DoubleClick cookie for interest-based advert
 
 * * *
 
-[Copyright](https://web.archive.org/web/20150414235100id_/http%3A//www.listenaminute.com/copyright.html) © 2009-2014 by [Sean Banville](http://seanbanville.com/about "About Sean Banville - The writer of these materials.") | [Links](https://web.archive.org/web/20150414235100id_/http%3A//www.listenaminute.com/links.html "More great sites.") | [Privacy Policy](https://web.archive.org/web/20150414235100id_/http%3A//www.listenaminute.com/privacy.html)
+[Copyright](https://web.archive.org/web/20151213031335id_/http%3A//www.listenaminute.com/copyright.html) © 2009-2014 by [Sean Banville](http://seanbanville.com/about "About Sean Banville - The writer of these materials.") | [Links](https://web.archive.org/web/20151213031335id_/http%3A//www.listenaminute.com/links.html "More great sites.") | [Privacy Policy](https://web.archive.org/web/20151213031335id_/http%3A//www.listenaminute.com/privacy.html)
