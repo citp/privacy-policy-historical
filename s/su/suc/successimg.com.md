@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the successimg.com privacy policy that was archived on 2015-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150414235029id_/http%3A//successimg.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the successimg.com privacy policy that was archived on 2015-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151213080312id_/http%3A//successimg.com/privacy) for the most accurate reproduction.*
 
 # Contact Success
 
