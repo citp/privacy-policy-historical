@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the localselfstorage.com privacy policy that was archived on 2015-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150213080156id_/http%3A//localselfstorage.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the localselfstorage.com privacy policy that was archived on 2015-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151213103223id_/http%3A//localselfstorage.com/privacy-policy) for the most accurate reproduction.*
 
 # Local Self Storage, Find Most Suitable Local Self Storage
 
