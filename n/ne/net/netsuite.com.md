@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the netsuite.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627043958id_/http%3A//www.netsuite.com/portal/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netsuite.com privacy policy that was archived on 2015-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151213121846id_/http%3A//www.netsuite.com/portal/privacy.shtml) for the most accurate reproduction.*
 
 # NetSuite Privacy Policy - Customer Relationship Management - eCommerce Solution
 
