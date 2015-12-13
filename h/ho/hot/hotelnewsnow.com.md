@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hotelnewsnow.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627182608id_/https%3A//www.hotelnewsnow.com/home/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotelnewsnow.com privacy policy that was archived on 2015-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151213061326id_/https%3A//www.hotelnewsnow.com/home/privacy) for the most accurate reproduction.*
 
 # Privacy
 
