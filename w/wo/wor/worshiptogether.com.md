@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worshiptogether.com privacy policy that was archived on 2015-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150615104215id_/http%3A//worshiptogether.com/modals/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worshiptogether.com privacy policy that was archived on 2015-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151213174755id_/http%3A//www.worshiptogether.com/modals/privacy-policy) for the most accurate reproduction.*
 
 # None
 
