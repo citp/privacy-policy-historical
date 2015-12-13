@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gamersfirst.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607172155id_/https%3A//gamersfirst.com%3Fq%3Den/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamersfirst.com privacy policy that was archived on 2015-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151213032846id_/http%3A//www.gamersfirst.com%3Fq%3Den/privacy) for the most accurate reproduction.*
 
 # GamersFirst – Free To Play Multiplayer Online Games, Free MMO, Action Based MMOTPS, Post-Apocalyptic MMO, Online FPS, Adventure, Shooting & Strategy Games Online
 
