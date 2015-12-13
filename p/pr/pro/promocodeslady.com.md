@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the promocodeslady.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610042839id_/http%3A//promocodeslady.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the promocodeslady.com privacy policy that was archived on 2015-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151213100259id_/http%3A//promocodeslady.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Promo Codes 2015
 
