@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the bizland.com privacy policy that was archived on 2015-06-12.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150612214348id_/http%3A//www.bizland.com/legal/legal_privacy.bml) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bizland.com privacy policy that was archived on 2015-12-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151213074346id_/http%3A//www.bizland.com/legal/legal_privacy.bml) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html class="no-js"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
@@ -12,7 +12,50 @@
 <link rel="shortcut icon" href="http://images.bizland.com/icons/favicon_bl.ico">
 <link rel="apple-touch-icon" href="http://images.bizland.com/icons/apple-touch-icons/apple-touch-icon-bizland.png">
 <link rel="stylesheet" type="text/css" href="/xslt/elements/generic_csscomponent.css">
-<script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-PPRPX8"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="/generalAppC/scriptcat/87ae207201c55b84c5270851159260e1.1"></script>
+
+
+<script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-PPRPX8"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script>
+window.V = window.V || {};
+V.cart = V.cart || {
+	items: []
+};
+
+V.grammar = V.grammar || {
+	chatserver: "chatserver.bizland.com"
+}
+// chat script
+V.chat = {
+  initialize: function () {
+    var _this = this;
+    if (V.grammar.chatserver) {
+      // bind chat links to chat function
+      var chatLinks = document.querySelectorAll('[href="#chat"]');
+			for (var i = 0; i < chatLinks.length; i++) {
+				chatLinks[i].addEventListener('click', function (e) {
+					return _this.popUp('https://' + V.grammar.chatserver, 500, 375);
+				});
+			}
+    }
+  },
+  popUp: function (url, width, height) {
+    var id = new Date();
+
+    width = width || 900;
+    height = height || 800;
+
+    window.open(
+      url,
+      id.toString(),
+      "toolbar=no,scrollbars=yes,location=no,statusbar=no,menubar=no,resizable=no,width=" + width + ",height=" + height
+    );
+  }
+}; // end V.chat
+
+window.addEventListener('load', function() { V.chat.initialize() }, false);
+</script>
+
+
+<script src="/generalAppC/scriptcat/87ae207201c55b84c5270851159260e1.1"></script>
 
 
 
@@ -50,7 +93,11 @@
 
 
 
-<script>dataLayer = [];</script>
+
+<script>dataLayer = [{"userType":"anonymous","pageType":"","userID":"","pageClass":"","step":"","flow":""}];</script>
+
+
+
 
 
 <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push(
@@ -67,7 +114,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <li><a class="cpbar-webmail icon" href="/mail/">WebMail</a></li>
 <li><a class="cpbar-file-manager icon" href="/controlpanel/FileManager/">FileManager</a></li>
 </ul>
-<div class="login-status login-form"><form method="post" enctype="application/x-www-form-urlencoded" action="https://secure.bizland.com/secureLogin"><input type="hidden" name="__token_timestamp__" value="1434145428"><input type="hidden" name="__token_val__" value="8f0a717086c4c65305552a38ecdf3f7a">
+<div class="login-status login-form"><form method="post" enctype="application/x-www-form-urlencoded" action="https://secure.bizland.com/secureLogin"><input type="hidden" name="__token_timestamp__" value="1449992626"><input type="hidden" name="__token_val__" value="2ff90197385b8fd26db943beb09930c6">
 <input type="hidden" name="destination" value="/controlpanel/"><ul>
 <li>
 <label>Username</label><input maxlength="50" size="15" name="credential_0" class="formfield">
@@ -82,7 +129,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <div id="hd">
 <h1><a href="/">BizLand</a></h1>
 <h2>Powerful Web Hosting and Domain Names for Home and Business</h2>
-<p class="support-chat"><a href="https://server.iad.liveperson.net/hc/66651396/?cmd=file&amp;file=visitorWantsToChat&amp;site=66651396&amp;byhref=1&amp;ref=chatbubble" target="chat66651396" onclick="javascript:window.open('http://server.iad.liveperson.net/hc/66651396/?cmd=file&amp;file=visitorWantsToChat&amp;site=66651396&amp;referrer='+escape(document.location),'chat66651396','width=472,height=320');return false;">Click here to chat with a live specialist.</a></p>
+<p class="support-chat"><a class="gtm_chat" href="#chat">Click here to chat with a live specialist.</a></p>
 <div class="support-phone">
 						Sales &amp; Support <a href="/support/contact.bml">866.599.9964</a>
 </div>
@@ -98,7 +145,6 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 </div>
 <div id="bd">
 <div id="navcomponent" class="yui-b">
-
 <div class="navblock">
 <h3><a href="/legal/index.bml">Terms of Service</a></h3>
 <ul>
