@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the weeklyvolcano.com privacy policy that was archived on 2013-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130424220410id_/http%3A//www.weeklyvolcano.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weeklyvolcano.com privacy policy that was archived on 2015-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151213222204id_/http%3A//www.northwestmilitary.com/privacy) for the most accurate reproduction.*
 
-# Privacy - Weekly Volcano - The alternative newsweekly for Tacoma and Olympia
+# Privacy Policy - Northwest Military - Home of The Ranger, NW Airlifter & Weekly Volcano
 
-The following statement explains how the Web sites operated by Swarner Communications, Inc. collect and use your personally identifiable information. These Web sites include: weeklyvolcano.com, weeklyvolcanospew.com, northwestmilitary.com and fortlewisblog.com.
+The following statement explains how the Web sites operated by Swarner Communications, Inc. collect and use your personally identifiable information. These Web sites include: [northwestmilitary.com](http://www.northwestmilitary.com/), [weeklyvolcano.com](http://www.weeklyvolcano.com/), [weeklyvolcanospew.com](http://www.weeklyvolcanospew.com/), and [fortlewisblog.com](http://www.fortlewisblog.com/).
 
 **The basic principle**
 
@@ -22,7 +22,7 @@ You must provide some personally identifiable information in order to use some f
   * Participating in online sweepstakes, contests and games
   * Participating in online forums
   * Placing an online classified ad of various types
-  * Creating a profile on WeeklyVolcano.com
+  * Creating a profile on NorthwestMilitary.com
   * Purchasing items such as event tickets and online photos
   * Participating in an online survey
 
@@ -55,7 +55,7 @@ Swarner Communications, Inc. collects some information automatically via server 
 
 **How do we use cookies and web beacons?**
 
-A cookie is a small file that stores information in your browser on your computer. Swarner Communications places cookies in your browser that contain some of the information you provide when you register with us and when you set up a personalized service such as a "favorites list." We do not store highly sensitive personal information such as your password, e-mail address or credit card number in cookies. Cookies enable us to summarize overall usage patterns for our analysis. We also use cookies to provide a more useful online experience — such as allowing you to quickly enter a sweepstakes if you're already logged on. And it can allow us to limit users to only one entry for an online poll.
+A cookie is a small file that stores information in your browser on your computer. Swarner Communications places cookies in your browser that contain some of the information you provide when you register with us and when you set up a personalized service such as a "favorites list." We do not store highly sensitive personal information such as your password, e-mail address or credit card number in cookies. Cookies enable us to summarize overall usage patterns for our analysis. We also use cookies to provide a more useful online experience - such as allowing you to quickly enter a sweepstakes if you're already logged on. And it can allow us to limit users to only one entry for an online poll.
 
 A Web beacon is an invisible graphic on a Web page that is programmed to collect non-personally identifiable information about your use of a given site. Like cookies, web beacons allow Swarner Communications, Inc. and its technology providers to summarize overall usage patterns for our analysis and provide personalized services. We do not share or provide personally identifiable information we may collect, such as names, e-mail addresses and phone numbers with our advertisers without your express permission.
 
@@ -88,10 +88,10 @@ We retain the right, at our discretion, to change any of these policies in the f
 
 If you have any questions about this privacy statement, the practices of our Web sites, or to resolve a dispute, you can contact us:
 
-  * By e-mail: [feedback@weeklyvolcano.com](mailto:feedback@weeklyvolcano.com) 
-  * By mail:  
-       Swarner Communications, Inc.  
-       P.O. Box 98801  
-       Lakewood, WA 98496
+By e-mail:  
+[feedback@ftlewisranger.com](mailto:feedback@ftlewisranger.com)
 
-
+By mail:     
+Swarner Communications, Inc.  
+P.O. Box 98801  
+Lakewood, WA 98496
