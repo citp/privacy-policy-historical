@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the visitmalta.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629174832id_/http%3A//www.visitmalta.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the visitmalta.com privacy policy that was archived on 2015-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151213052847id_/http%3A//www.visitmalta.com/en/privacy-policy) for the most accurate reproduction.*
 
 # Visitmalta - The official tourism website for Malta, Gozo and Comino.
 
