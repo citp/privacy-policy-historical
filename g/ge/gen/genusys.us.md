@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the genusys.us privacy policy that was archived on 2015-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150524011351id_/http%3A//genusys.us/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the genusys.us privacy policy that was archived on 2015-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151213105813id_/http%3A//www.genusys.us/privacy.php) for the most accurate reproduction.*
 
 # Genusys Inc.- Innovation in IP Technology
 
