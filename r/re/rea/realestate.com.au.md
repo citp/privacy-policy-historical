@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the realestate.com.au privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627160453id_/https%3A//about.realestate.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realestate.com.au privacy policy that was archived on 2015-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151213213315id_/https%3A//about.realestate.com.au/privacy) for the most accurate reproduction.*
 
 # About - realestate.com.au - Privacy Policy
 
@@ -33,7 +33,7 @@ In collecting and handling personal information, we are bound by the Privacy Act
 
 **THE PERSONAL INFORMATION WE COLLECT ABOUT YOU**
 
-realestate.com.au may collect personal information about you including, but not limited to your name, address, phone number, email, gender, occupation, personal interests and any other information provided. For some services and products, realestate.com.au may also collect your personal information to enable verification of your identity, including information from your passport, driver’s licence, and health care and concession cards.
+realestate.com.au may collect personal information about you including, but not limited to your name, address, phone number, email, gender, occupation, personal interests and any other information provided. For some services and products, realestate.com.au may also collect your personal information to enable verification of your identity, including information from your passport, driver’s licence, and health care and concession cards. If you access any of our services through a social network site such as Facebook, we will collect limited information provided to us by that social network site, such as user name, site ID and email address.
 
 If you are a shareholder of REA Group Ltd, REA Group (or its services providers) may collect information about your shareholdings, banking details and tax file numbers for payment of dividends and other amounts. If you subscribe to alert services on the REA Group Website, we may collect your name and email address.
 
@@ -81,7 +81,7 @@ More specifically, realestate.com.au may use personal information which it has c
 
   (b)  provide a better or more relevant service or product to you, for instance by automatically populating forms on the Websites when you make enquiries of selected estate agents;
 
-  (c)  combine your personal information with information that realestate.com.au has collected from its service providers, third parties, cookies or web beacons in order to provide you with a better or more relevant and personalised experience and to improve the quality of its services;
+  (c)  combine your personal information with information that realestate.com.au has collected from its service providers, third parties, cookies or web beacons in order to provide you with a better or more relevant and personalised experience and to improve the quality of its services and the services of third parties. For example, we may combine behavioural data we have collected about you through the use of cookies or web beacons and combine it with your personal information from requests you send to third parties through our website;
 
   (d)  personalise and customise your services, experience, advertising and content that you view and engage with on the Websites or the websites of realestate.com.au service providers and business partners
 
