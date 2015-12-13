@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whiteflowerfarm.com privacy policy that was archived on 2015-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150619143931id_/http%3A//www.whiteflowerfarm.com/security.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whiteflowerfarm.com privacy policy that was archived on 2015-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151213104254id_/http%3A//www.whiteflowerfarm.com/security.html) for the most accurate reproduction.*
 
 # Online Privacy & Security - White Flower Farm
 
