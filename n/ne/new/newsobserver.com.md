@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newsobserver.com privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628230606id_/http%3A//www.newsobserver.com/customer-service/privacy-policy/%23navlink%3Dmi_footer) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newsobserver.com privacy policy that was archived on 2015-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151213133424id_/http%3A//www.newsobserver.com/customer-service/privacy-policy/%23navlink%3Dmi_footer) for the most accurate reproduction.*
 
 # Find The News & Observer newspaper and NewsObserver.com's Privacy Policy. News & Observer
 
