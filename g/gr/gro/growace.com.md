@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the growace.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627030314id_/http%3A//growace.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the growace.com privacy policy that was archived on 2015-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151213044923id_/http%3A//growace.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy and Security | Privacy Policy | GrowAce.com
 
