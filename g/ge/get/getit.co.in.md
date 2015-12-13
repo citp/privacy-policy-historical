@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the getit.co.in privacy policy that was archived on 2015-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150618082629id_/http%3A//www.getit.in/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getit.co.in privacy policy that was archived on 2015-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151213050403id_/http%3A//www.getit.in/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Local Brand Search India, Local Business Brand Search, Online Brand Search, Online Business Brand Search, Local Search Engine, India
 
