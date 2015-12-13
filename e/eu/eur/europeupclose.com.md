@@ -1,33 +1,63 @@
-> *The following text is extracted and transformed from the europeupclose.com privacy policy that was archived on 2013-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131221132810id_/http%3A//www.europeupclose.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the europeupclose.com privacy policy that was archived on 2015-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151213072102id_/http%3A//europeupclose.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | EuropeUpClose.com
+# Privacy Policy - Europe Up Close
 
-We highly value your privacy and make this policy easily available throughout our site to assist you in understanding the handling of information in the course of using this site.
+## What information do we collect?
 
-**Log Files and Cookies**
+We collect information from you when you send a contact form, comment on a blog or subscribe to a newsletter. You may, however, visit this site anonymously.
 
-This website utilizes industry standard analytics packages which gathers limited information on visitors to our website automatically, and stores this anonymous information in server log files. This information may include IP addresses, browser type, basic IP information, referring pages, operating system used and date/time stamps. This information does not identify individual users; it is used only for site administration, as well as for analysis of website usage and trends.
+## What do we use your information for?
 
-Additionally, cookies may be used to provide easier and faster access to website features such as logins and/or repeat visits.  Cookies are very small text files that are stored on personal computers for reference purposes. We do not link the information we store in cookies to any personally indentifiable information you have submitted while on our site.
+Any of the information that is collected from you may be used in one of the following ways:
 
-**Links to Other Websites**
+  * To personalize your experience:  
+Your information helps us to better respond to your individual needs.
+  * To improve this website:  
+We continually strive to improve this website offerings based on the information and feedback we receive from you.
+  * To improve customer service:  
+Your information helps us to more effectively respond to your customer service requests and support needs.
+  * To process transactions:  
+Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
+  * To administer a contest, promotion, survey or other site feature.
+  * To send periodic emails:  
+The email address you provide for order processing will only be used to send you information and updates pertaining to your commission/order.
 
-This website contains links to other sites that are not controlled in any way by us. Please be aware of this when you click on any such links, we are not responsible for the privacy practices and/or policies of any website other than our own. Consequently, we strongly suggest that you  review the privacy policy of every website you visit, whether or not they are linked to by our own site.
 
-**Registration and Use of Personal Information**
 
-Registration is not required in order to use or access this website. However, this site may make forums, blogs, message boards or similar available to its users. You may be required to register for these features, particularly if you wish to leave comments or provide articles.
+**Note:** If at any time you would like to unsubscribe from receiving future emails, please respond to said email and indicate your request to “unsubscribe.”
 
-If you do register, and in the process provide us with personally identifiable information, rest assured that any such information you provide will not be shared with any third-party organization except with your express consent.
+## How do we protect your information?
 
-Please note that if you post comments or articles to any forum, blog or message board on this site, any personally identifiable information you provide in those comments or articles may be read, collated and used by anyone viewing them. As such, we are not responsible for personally identifiable information you may choose to make available through these channels.
+We implement a variety of security measures to maintain the safety of your personal information when you enter, submit, or access your personal information. We offer the use of a secure server (PayPal.com) when purchasing. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential. After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be stored on our servers.
 
-**Security**
+## Will any information be disclosed to outside parties?
 
-We follow accepted industry standards to protect any personal information you have provided to us. However, please be aware that no method of electronic storage can ever be 100% secure. Therefore, as is the case with any organization – we are not in a position to guarantee the absolute security of your information.
+We do not sell, trade, or otherwise transfer your personally identifiable information to outside parties. This does not include trusted third parties who assist us in operating this website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or other’s rights, property, or safety.
 
-**Contact Details**
+## Third party links
 
-If you have any questions or concerns regarding this privacy policy, please email us at editor@europeupclose.com.
+Occasionally, at our discretion, we may include or offer third party products or services on this website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of this site and welcome any feedback about these sites.
 
-This privacy policy was last updated on 02/01/2010.
+## California Online Privacy Protection Act Compliance
+
+Because we value your privacy, we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
+
+## Children’s Online Privacy Protection Act Compliance
+
+We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act). We do not collect any information from anyone under 13 years of age. This website, products and services are all directed to people who are 13 years of age or older
+
+## Online privacy policy only
+
+This online privacy policy applies only to information collected through this website and not to information collected offline.
+
+## Your consent
+
+By using this site, you consent to this Privacy Policy.
+
+## Changes to our Privacy Policy
+
+If we decide to change this Privacy Policy, we will post those changes on this page.
+
+## Contacting me
+
+If you have any questions regarding this privacy policy you may contact the website administrator [here](http://europeupclose.com/contact/).
