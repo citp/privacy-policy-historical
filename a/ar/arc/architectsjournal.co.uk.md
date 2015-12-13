@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the architectsjournal.co.uk privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627161014id_/http%3A//www.architectsjournal.co.uk/cookies-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the architectsjournal.co.uk privacy policy that was archived on 2015-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151213110539id_/http%3A//www.architectsjournal.co.uk/cookies-policy) for the most accurate reproduction.*
 
-# 
+# Architects Journal
 
 ## 1\. Introduction
 
