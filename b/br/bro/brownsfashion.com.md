@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brownsfashion.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629040059id_/http%3A//www.brownsfashion.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brownsfashion.com privacy policy that was archived on 2015-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151213085713id_/http%3A//www.brownsfashion.com/info/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | brownsfashion.com | The Finest Edit of Luxury Fashion | Clothes, Shoes, Bags and Accessories for Men & Women
 
