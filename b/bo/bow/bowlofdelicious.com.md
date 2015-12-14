@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bowlofdelicious.com privacy policy that was archived on 2015-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150614020151id_/http%3A//www.bowlofdelicious.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bowlofdelicious.com privacy policy that was archived on 2015-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151214054037id_/http%3A//www.bowlofdelicious.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | bowl of delicious!
 
