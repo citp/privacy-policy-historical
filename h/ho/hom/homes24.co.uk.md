@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the homes24.co.uk privacy policy that was archived on 2015-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150615103638id_/http%3A//www.homes24.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homes24.co.uk privacy policy that was archived on 2015-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151214230525id_/http%3A//www.homes24.co.uk/privacy) for the most accurate reproduction.*
 
 # Homes24 Privacy policy
 
@@ -33,7 +33,7 @@ If you prefer not to receive emails about our Services, you may opt out of such 
 
 We use third parties to serve advertisements on our website and these third parties may use parties or other means to help measure the effectiveness of their advertisements. Our website may also include links to other unrelated websites and/or contact forms to other unrelated parties which may collect personal information. Our privacy policy does not extend to these third parties or other websites and we recommend that users refer directly to these parties regarding their privacy policies before supplying personal details to these companies. [View our Cookie Policy](https://web.archive.org/privacy/cookies/)
 
-We may use your Personal Information to customise or enhance your experience on the Zoopla Property Group Network (including the display of advertisements) and communications related to our products or services or those of third parties. In addition, we may use other information we may have about you or your use of the Zoopla Property Group Network (such as which pages you have visited) for those purposes and for the purpose of facilitating the serving of targeted ads for the Zoopla Property Group Network on other Web sites.
+We may use your Personal Information to customise or enhance your experience on the Zoopla Property Group Network (including the display of advertisements) and communications related to our products or services or those of third parties. In addition, we may share other information we may have about you and your use of the Zoopla Property Group Network (such as which pages you have visited) with third parties for those purposes and for the purpose of facilitating the serving of targeted ads for the Zoopla Property Group Network on other Web sites.
 
 ## Opting Out of Collection of Information by Third Parties
 
