@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lifeandmyfinances.com privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626044125id_/http%3A//lifeandmyfinances.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lifeandmyfinances.com privacy policy that was archived on 2015-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151215001608id_/http%3A//lifeandmyfinances.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Life And My Finances
 
