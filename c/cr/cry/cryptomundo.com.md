@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cryptomundo.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627205639id_/http%3A//cryptomundo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cryptomundo.com privacy policy that was archived on 2015-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151214213454id_/http%3A//cryptomundo.com/privacy-policy) for the most accurate reproduction.*
 
 # Cryptomundo » Privacy Policy
 
