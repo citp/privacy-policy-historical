@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the crystalski.co.uk privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122163353id_/http%3A//www.crystalski.co.uk/our-policies/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crystalski.co.uk privacy policy that was archived on 2015-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151214145843id_/http%3A//www.crystalski.co.uk/our-policies/privacy-policy) for the most accurate reproduction.*
 
 # Data Protection | Crystal Ski
 
 TUI UK Limited's Privacy Policy sets out what information we collect, how we collect it, and what we do with it. Our Privacy Policy applies to you and is available on our website and through other channels. In all your dealings with us you must ensure that others you represent are aware of the content of our Privacy Policy and consent to your acting on their behalf.
+
+### INFORMATION ABOUT YOU
 
 ### Your Information
 
@@ -23,9 +25,8 @@ We will update your information whenever we can to keep it current, accurate and
 ### Marketing Material
 
   1. Using your information, we may from time to time contact you with or make available to you (directly or indirectly) information on offers of goods and services, brochures, new products, forthcoming events or competitions from our holiday divisions and our group companies. We will tailor the information you receive or see; this will enable us to make available to you more personalised and relevant communications. We may use innovative technologies and work with business partners to achieve this.
-  2. We will assume you agree to e-communications when you make an e-booking or provide us with your email in other situations such as in-store, competitions, promotions, prize draws and social media.
-  3. You may indicate your preference regarding receiving third party marketing material and contact. If you agree, you will establish new relationships with these third parties and deal with them directly.
-  4. If you do not wish to receive such information or would like to change your preference, please refer to point (2) of "Your Rights" below.
+  2. We will assume you agree to email when you make an e-booking or provide us with your email in other situations such as in-store, competitions, promotions, prize draws and social media.
+  3. If you do not wish to receive such information or would like to change your preference, please refer to point 2 of "Your Rights" below.
 
 
 
@@ -43,9 +44,9 @@ Please write to TUI UK Limited, Legal Department, TUI Travel House, Crawley Busi
 
 Outside the European Economic Area (EEA), data protection controls may not be as strong as the legal requirements in this country.
 
-### Use of tools/"cookies" and links to other websites
+### USE OF TOOLS/"COOKIES" AND LINKS TO OTHER WEBSITES
 
-If our contact and dealing with you is via our website(s) or other e-platforms where our advertising is displayed, cookies may be used. To find out more about the types of cookies on our website(s), how we use cookies, to disable them or to change your preference and more, please refer to the information provided on our website(s). Other e-platforms may have different options and instructions. By using our website(s), you consent to our use of cookies.
+If our contact and dealing with you is via our website(s) or other e-platforms where our advertising is displayed, cookies may be used. To find out more about the types of cookies on our website(s), how we use cookies, to disable them or to change your preference and more, please refer to the information provided on our website(s). Other e-platforms may have different options and instructions. **By using our website(s), you consent to our use of cookies**.
 
 Our website(s) may contain links to third party websites or micro-sites not controlled or owned by us. For example, reference sites or ancillary products and services sites or websites owned by our sister companies. It is your responsibility to check the status of these sites before using them. Please read their applicable terms and conditions, etc. carefully.
 
@@ -69,6 +70,8 @@ When you are on our website, we use cookies to provide you with a more personal 
 
 When you are online but not using our website, to help us deliver advertising effectively and avoid repeating adverts, we work with carefully selected third parties who we allow to employ cookies on our site, on our behalf. These cookies allow us to provide advertising on other websites that are more relevant to a user's interests. The information that we collect and share is anonymous and not personally identifiable. It does not contain a user's name, address, telephone number or email address.
 
+If you receive our emails, we tailor the information we send you based on the data our cookies have collected from your recent visits to our website. You can opt out of this in any marketing email we send.
+
 Cookie function | Cookie name | Description  
 ---|---|---  
 Application Cookies | BIGipServer | These cookies are generated by load balancers in our hosting cluster. They are used only to keep your site accesses on the same server in our cluster for the duration of your visit. This is a technical requirement relating to how our sites are constructed and is normal for many sites across the Internet.  
@@ -84,7 +87,7 @@ Site Functionality | WorldPay | Certain pages use the secure payment portal, Wor
 Site Functionality  | Desktop/Mobile | This cookie remembers which version of the website you are viewing, desktop or mobile.  
 Site Functionality | Feedback Survey | Similar to JSESSIONID this cookie is set when you arrive at the feedback part of the website. Without this cookie you will not be able to submit your feedback.  
 Site Functionality | sIFR Flash Fonts | sIFR fonts are used within Flash. The cookie, sifrFetch, is set to indicate whether the browser supports Flash or not and therefore if sIFR fonts will work or not.  
-Analytics | Adobe SiteCatalyst, comScore/Sitestat | These cookies enable us to collect anonymous, aggregated visitor information including the number of visits and page views that arise from marketing activity. The data stored in these cookies is only used internally.  
+Analytics | Adobe SiteCatalyst, comScore/Sitestat | These cookies enable us to collect aggregated visitor information including the number of visits and page views that arise from marketing activity. The data stored in these cookies is only used internally.  
 Analytics | Tealeaf | These cookies contain data to analyse a user's actions across our website. The data stored in these cookies is only used internally.  
 Analytics | ResponseTap (formerly Adinsight) | This cookie enables us to track the interaction between our website and sales centre to help us improve customer experience. The data collected is anonymous and only used internally.  
 Analytics | Yahoo | These cookies enable us to collect anonymous, aggregated visitor information including the number of visits and page views that arise from marketing activity. The data stored in these cookies is only used internally.  
@@ -107,23 +110,25 @@ For more information about cookies set by our display advertising partners pleas
 
 More information about cookies, including instructions to amend your browser settings to refuse them can be found at [www.allaboutcookies.org](http://www.allaboutcookies.org/).
 
-### Monitoring
+### MONITORING
 
 To ensure that we carry out your instructions accurately, improve our service and for security and fraud, we may review, monitor and/or record:
 
   1. telephone calls;
   2. activities using CCTV in and around our premises; 
   3. transactions and activities at all points of contact; and
-  4. web, social media and app traffic, activities, etc. All recordings and derivative materials are and shall remain our sole property.
+  4. web, social media and app traffic, activities, etc.
 
 
 
-### Security Statement
+All recordings and derivative materials are and shall remain our sole property.
 
-We have taken all reasonable steps and have in place appropriate security measures to protect your information.
+### SECURITY STATEMENT
 
-### Changes to this Policy
+We take security very seriously. We will never send emails requesting personal details (including your passport details) or payment card details. If you get a suspicious email, don't click on any links or open any attachments. Call **020 8939 0726** and we'll investigate.
+
+### CHANGES TO THIS POLICY
 
 Any changes to this Policy will be either posted on our website, brochure and/or made available on request.
 
-Privacy Policy: v June 2013
+Privacy Policy: v July 2015
