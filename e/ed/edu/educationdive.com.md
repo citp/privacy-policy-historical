@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the educationdive.com privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630195908id_/http%3A//www.industrydive.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the educationdive.com privacy policy that was archived on 2015-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151214214606id_/http%3A//www.industrydive.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Industry Dive
+# Privacy Policy - Industry Dive
+
+* * *
+
+IndustryDive.com Privacy Policy
 
 ### PRIVACY POLICY
 
@@ -8,10 +12,10 @@ When accessing our website, Industry Dive Inc. will learn certain information ab
 
 If you visit our site to read, download information, or sign-up for our newsletters, we collect and store only the following information about you:
 
-  1. The name of the domain from which you access our site
-  2. The date and time you access our site
-  3. The Internet address of the website you used to link directly to our site.
-  4. Your name, email, company name, and any other information you directly provide to us via registration form
+  * The name of the domain from which you access our site
+  * The date and time you access our site
+  * The Internet address of the website you used to link directly to our site.
+  * Your name, email, company name, and any other information you directly provide to us via registration form
 
 
 
