@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rantpets.com privacy policy that was archived on 2015-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150519024959id_/http%3A//www.rantpets.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rantpets.com privacy policy that was archived on 2015-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151214145640id_/http%3A//www.rantpets.com/privacy-policy) for the most accurate reproduction.*
 
 # RantPets
 
