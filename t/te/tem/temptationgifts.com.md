@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the temptationgifts.com privacy policy that was archived on 2015-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150615011513id_/http%3A//www.temptationgifts.com/privacy-cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the temptationgifts.com privacy policy that was archived on 2015-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151214140817id_/http%3A//www.temptationgifts.com/privacy-cookies) for the most accurate reproduction.*
 
 # Privacy & Cookies Policy | TemptationGifts.com
 
@@ -40,12 +40,10 @@ You can easily change the way cookies are handled on your computer by adjusting 
 
 There are many different internet browsers so we aren't able to give instructions on how to change the privacy and cookie settings in all of them, but we've provided links to the websites of the most popular browsers below. Please note: Blocking all cookies from TemptationGifts.com will prevent the Shopping Cart from functioning correctly and you will be unable to place an order through the website. You can still place an order over the phone with our Customer Service team on 01494 790424.
 
-Microsoft Internet Explorer 9-11 - <http://windows.microsoft.com/en-gb/internet-explorer/delete-manage-cookies#ie=ie-11>
-
-Microsoft Internet Explorer 7 or 8 - <http://windows.microsoft.com/en-us/windows/cookies-faq#1TC=windows-vista>
+Microsoft Internet Explorer - <http://windows.microsoft.com/en-gb/internet-explorer/delete-manage-cookies#ie=ie-11>
 
 Google Chrome - [https://support.google.com/chrome/answer/95647?hl=en-GB&p=cpn_cookies](https://support.google.com/chrome/answer/95647?hl=en-GB&p=cpn_cookies)
 
-Mozilla Firefox - <http://support.mozilla.org/en-US/kb/cookies-information-websites-store-on-your-computer#w_cookie-settings>
+Mozilla Firefox - [http://support.mozilla.org/en-US/kb/cookies-information-websites-store-on-your-computer#w_cookie-settings](https://support.mozilla.org/en-US/kb/cookies-information-websites-store-on-your-computer#w_cookie-settings)
 
-Apple Safari - <http://support.apple.com/kb/ph11913>
+Apple Safari - <https://support.apple.com/kb/PH19214>
