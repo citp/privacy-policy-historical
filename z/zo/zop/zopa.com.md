@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the zopa.com privacy policy that was archived on 2015-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150615034256id_/http%3A//www.zopa.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zopa.com privacy policy that was archived on 2015-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151214192638id_/https%3A//www.zopa.com/privacy-policy) for the most accurate reproduction.*
 
 # Zopa's privacy policy
-
-* * *
 
 ## Privacy and Data Protection
 
@@ -42,7 +40,7 @@
     4. to our agents and subcontractors, acting for us or for Lenders, to use for the purpose of operating the Lending Platform and obtaining payment;
     5. to investigate, prevent or detect fraud or carry out checks against money laundering;
     6. to share Information via an organisation which provides a centralised application matching service which it collects from and about mortgage and/or credit applications, for the purpose of preventing and detecting fraud;
-    7. to a reputable, licensed credit broker in the event that you apply to borrow money at Zopa, your application is declined or the loan monies are otherwise unavailable and we reasonably believe that the credit broker may be able to help you obtain a loan;
+    7. to a reputable, licensed credit broker or lender in the event that you apply to borrow money at Zopa, your application is declined or the loan monies are otherwise unavailable and we reasonably believe that the credit broker or lender may be able to help you obtain a loan. In these cases, the third party may use your personal information provided via the Zopa application to perform a soft search with a credit reference agency to check your eligibility for their products. A soft search will not impact your credit rating;
     8. to trace debtors and recover debt;
     9. to meet our obligations to any relevant regulatory authority or taxing authority;
     10. if we have to by law, the law allows it, or it is in the public interest;
