@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the iup.edu privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627194540id_/http%3A//www.iup.edu/WorkArea/linkit.aspx%3FLinkIdentifier%3Did%26ItemID%3D53143) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iup.edu privacy policy that was archived on 2015-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151214174508id_/http%3A//www.iup.edu/privacy) for the most accurate reproduction.*
 
-# Privacy Statement - Indiana University of Pennsylvania
+# Privacy Statement - Privacy - Indiana University of Pennsylvania
 
 ## Our Use of Cookies
 
@@ -24,7 +24,7 @@ Our search engine is powered by a piece of hardware supplied by Google (a Google
 
 Our [on-line directory service](http://search.people.iup.edu/ "Find People") provides only personal information that has been authorized by those listed.
 
-At your request, your address information can be changed, restricted, or removed from the on-line directory. Employees should contact the [Office of Human Resources](https://web.archive.org/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=7415 "Human Resources"); students can change their information by [logging into URSA](https://web.archive.org/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=9071 "URSA").
+At your request, your address information can be changed, restricted, or removed from the on-line directory. Employees should contact the [Office of Human Resources](https://web.archive.org/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=197983&libID=198000 "Human Resources"); students can change their information by [logging into URSA](https://web.archive.org/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=195450&libID=195467 "URSA").
 
 ## On-Line Forms
 
