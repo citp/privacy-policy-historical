@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wisestartupblog.com privacy policy that was archived on 2015-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150615124725id_/http%3A//wisestartupblog.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wisestartupblog.com privacy policy that was archived on 2015-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151214115857id_/http%3A//wisestartupblog.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Wise Startup Blog
+# Privacy Policy
 
 Life Tailored is committed to respecting the privacy rights of visitors and users of this website and its related subscription service. This Privacy Policy describes how we treat and use the information we collect when you uselifetailored.com or sign up for our newsletter(s).
 
@@ -14,10 +14,10 @@ When using our site, as appropriate, you may be asked to enter your name, email 
 
 We may use any of the information we collect from you in one or more of the following ways:
 
-  * **To personalize your experience:**  Your information helps us to better respond to your individual needs.
-  * **To improve our website:**  We continually strive to improve our website offerings based on the information and feedback we receive from you.
-  * **To administer a contest, promotion, survey or other site feature.**
-  * **To send periodic emails:  **The email address you provide may be used to send you occasional company news, updates, related product or service information, etc. If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
+  *  **To personalize your experience:**  Your information helps us to better respond to your individual needs.
+  *  **To improve our website:**  We continually strive to improve our website offerings based on the information and feedback we receive from you.
+  *  **To administer a contest, promotion, survey or other site feature.**
+  *  **To send periodic emails:  **The email address you provide may be used to send you occasional company news, updates, related product or service information, etc. If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
 
 
 
