@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the guess.ca privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612001840id_/http%3A//www.guess.ca/en/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guess.ca privacy policy that was archived on 2015-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151214033402id_/http%3A//www.guess.ca/en/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Effective Date: This Privacy Policy was last revised on May 8, 2014.
+Effective Date: This Privacy Policy was last revised on September 1, 2015.
 
 **Introduction**
 
@@ -153,11 +153,9 @@ To learn more about how these service providers use your information, cookies or
 
     * DoubleClick – click [here](https://www.google.com/settings/ads?hl=en&sig=ACi0TCi3R4mL7qb_WRaELD5Z_YPR5O5InCvFFgPTJ5jcWbHaE2tb_jOvoIkA5pP6F9oEvdNnVsMQuwj5HJV2Pg-6RADnzbP9mI_0dcxfwak_4v1_JeRylUrylqkCThZSDLaaI0iKKqsfaEE9pvltfXxOZH9ZarVDcsj6b7B5xIgS7XgzMgJjPq6m-L38v01JOJumwnkQh8Kt)
     * Olapic – click [here](https://www.olapic.com/privacy/)
-    * Uptown Treehouse – click [here](http://www.uptowntreehouse.com/)
+    * Chango/Rubicon – click [here](http://www.networkadvertising.org/choices/)
     * Curalate – click [here](http://www.curalate.com/privacy_policy.html)
-    * Nitrogram – click [here](http://nitrogr.am/privacy/)
-    * Ampush – click [here](http://www.ampush.com/privacy-policy/)
-    * Adobe Social – click [here](http://www.adobe.com/privacy.html)
+    * MediaForge/Rakuten – click [here](http://www.networkadvertising.org/choices/)
 
 To learn more about ad networks, including how to opt-out, please click [here](http://www.aboutads.info/choices)
 
