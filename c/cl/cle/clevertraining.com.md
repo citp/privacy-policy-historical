@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the clevertraining.com privacy policy that was archived on 2015-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150613125239id_/http%3A//www.clevertraining.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clevertraining.com privacy policy that was archived on 2015-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151214141404id_/http%3A//www.clevertraining.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Clever Training
+# Privacy Policy
 
 At Clever Training, your privacy is very important to us. To better protect your privacy, the following notice explains the information we collect, how it is used, how it is safeguarded, and how to contact us if you have any questions or comments.
 
