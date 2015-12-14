@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the prowrestlingscoops.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120004953id_/http%3A//www.prowrestlingscoops.com/site/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prowrestlingscoops.com privacy policy that was archived on 2015-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151214144914id_/http%3A//www.prowrestlingscoops.com/site/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Wrestling News, WWE News, TNA News - ProWrestlingScoops.com
 
@@ -16,9 +16,8 @@ Any of the information we collect from you may be used in one of the following w
 
 **Third Party Advertising**
 
-We use third-party advertising companies to serve ads when you visit our Website. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [](http://www.networkadvertising.org/managing/opt_out.asp)
-
-<http://www.networkadvertising.org/managing/opt_out.asp>
+We use third-party advertising companies to serve ads when you visit our Website. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [  
+http://www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp)
 
 **Do we use cookies?**
 
@@ -48,6 +47,5 @@ _This policy was last modified on September 7th, 2011_
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
-http://www.prowrestlingscoops.com
-
+http://www.prowrestlingscoops.com  
 webmaster@prowrestlingscoops.com
