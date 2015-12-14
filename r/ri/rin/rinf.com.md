@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rinf.com privacy policy that was archived on 2014-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141102011252id_/http%3A//rinf.com/alt-news/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rinf.com privacy policy that was archived on 2015-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151214134839id_/http%3A//rinf.com/alt-news/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -60,10 +60,8 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 Contacting us
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
-RINF Alternative News
-
-http://www.rinf.com
-
+RINF Alternative News  
+http://www.rinf.com  
 1 The Millrace  
 Damside St  
 Lancaster  
