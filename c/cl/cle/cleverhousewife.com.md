@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cleverhousewife.com privacy policy that was archived on 2015-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150614012215id_/http%3A//www.cleverhousewife.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cleverhousewife.com privacy policy that was archived on 2015-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151214145252id_/http%3A//www.cleverhousewife.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Clever Housewife
 
@@ -65,8 +65,7 @@ If we decide to change our privacy policy, we will post those changes on this pa
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
-http://cleverhousewife.com
-
+http://cleverhousewife.com  
 California  
 United States  
 emily@cleverhousewife.com  
