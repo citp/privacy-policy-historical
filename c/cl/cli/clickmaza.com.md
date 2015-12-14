@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clickmaza.com privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611053542id_/http%3A//www.clickmaza.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clickmaza.com privacy policy that was archived on 2015-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151214154940id_/http%3A//www.clickmaza.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - ClickMaza.com
 
