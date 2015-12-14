@@ -1,14 +1,10 @@
-> *The following text is extracted and transformed from the zerolag.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609023733id_/http%3A//www.zerolag.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zerolag.com privacy policy that was archived on 2015-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151214231142id_/http%3A//www.zerolag.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy, Managed Hosting Services - ZeroLag Hosting
 
 ### ZeroLag Communications Privacy Policy
 
 ZeroLag Communications, Inc. takes your privacy seriously, and has created this Privacy Policy in order to demonstrate our firm commitment to online privacy. Keep reading to learn more about our information gathering and dissemination practices, and our use of personally identifiable information.
-
-### Safe Harbor
-
-ZeroLag Communications, Inc. complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. ZeroLag Communications, Inc. has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view ZeroLag Communications, Inc.’s certification, please visit <http://www.export.gov/safeharbor/>
 
 ### IP Addresses
 
@@ -46,4 +42,4 @@ Beverly Hills, CA 90211
 
 If you have any questions about this privacy statement, the practices of this web site, or your dealings with this web site, please contact us via one of the methods above.
 
-_This Privacy Policy was last updated Oct 17, 2014_
+_This Privacy Policy was last updated Oct 14, 2015_
