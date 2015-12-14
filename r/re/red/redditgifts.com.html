@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the redditgifts.com privacy policy that was archived on 2015-04-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150411045959id_/http%3A//www.redditgifts.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the redditgifts.com privacy policy that was archived on 2015-12-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151214024341id_/http%3A//www.redditgifts.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" class="no-font"><head>
     
@@ -27,10 +27,16 @@
       </script>
 
       <script type="text/javascript">
-        function trackOutboundLink(link, category, action) {
-          try {
-            _gaq.push(['_trackEvent', category, action]);
-          } catch (err) {}
+        function trackOutboundLink(link, category, action, label) {
+          if (label) {
+            try {
+              _gaq.push(['_trackEvent', category, action, label]);
+            } catch (err) {}
+          } else {
+            try {
+              _gaq.push(['_trackEvent', category, action]);
+            } catch (err) {}
+          }
 
           setTimeout(function () {
             document.location.href = link.href;
@@ -78,7 +84,7 @@
 
     <link rel="icon" href="https://d2npbuaakacvlz.cloudfront.net/images/favicon.png">
 
-    <link rel="stylesheet" href="https://d2npbuaakacvlz.cloudfront.net/CACHE/css/34f2bdfe2839.css" type="text/css">
+    <link rel="stylesheet" href="https://d2npbuaakacvlz.cloudfront.net/CACHE/css/c781e178167b.css" type="text/css">
 
     <link href="https://netdna.bootstrapcdn.com/font-awesome/3.2.1/css/font-awesome.min.css" rel="stylesheet">
     <link href="https://d2npbuaakacvlz.cloudfront.net/gritter/css/jquery.gritter.css" rel="stylesheet" type="text/css" media="screen">
@@ -202,8 +208,7 @@
 <p class="terms__body-text"><em>Third-Party Analytics Services:</em> We also use third-party services like Google Analytics so that we can monitor aggregate usage, traffic information, an other analytics data on our Services. These services may run scripts and place cookies on your machine. They do not receive any personal information about you.</p>
 
 <h2 class="terms__sub-heading">Deleting Your Account</h2>
-<p class="terms__body-text">If you decide you would like to delete your account you must email us at support@redditgifts.com.<script cf-hash="f9e31" type="text/javascript">
-/* <![CDATA[ */!function(){try{var t="currentScript"in document?document.currentScript:function(){for(var t=document.getElementsByTagName("script"),e=t.length;e--;)if(t[e].getAttribute("cf-hash"))return t[e]}();if(t&&t.previousSibling){var e,r,n,i,c=t.previousSibling,a=c.getAttribute("data-cfemail");if(a){for(e="",r=parseInt(a.substr(0,2),16),n=2;a.length-n;n+=2)i=parseInt(a.substr(n,2),16)^r,e+=String.fromCharCode(i);e=document.createTextNode(e),c.parentNode.replaceChild(e,c)}}}catch(u){}}();/* ]]> */</script>  You must email us from the email address associated with your account and provide your reddit username.</p>
+<p class="terms__body-text">If you decide you would like to delete your account you must email us at support@redditgifts.com.  You must email us from the email address associated with your account and provide your reddit username.</p>
 
 <h2 class="terms__sub-heading">Third-Party Links</h2>
 <p class="terms__body-text">Sometimes you will find links to third-party sites on our Services, like on merchants' product or profile pages. If you click those links, you leave our Site and are subject to those third parties' privacy policies and other terms. redditgifts is not responsible for any such third party's activities. We encourage you to read their privacy policies, since they may differ from ours.</p>
@@ -218,8 +223,7 @@
 <p class="terms__body-text">We reserve the right to change this Policy, and we may do so when our Services change or for any other reason. If we do so, we will make reasonable efforts to notify you of material changes by email or by posting a notice on this page.</p>
 
 <h2 class="terms__sub-heading">Contact</h2>
-<p class="terms__body-text">If you have any concerns or questions about any aspect of this policy, please feel free to contact our Privacy Policy Coordinator at support@redditgifts.com.<script cf-hash="f9e31" type="text/javascript">
-/* <![CDATA[ */!function(){try{var t="currentScript"in document?document.currentScript:function(){for(var t=document.getElementsByTagName("script"),e=t.length;e--;)if(t[e].getAttribute("cf-hash"))return t[e]}();if(t&&t.previousSibling){var e,r,n,i,c=t.previousSibling,a=c.getAttribute("data-cfemail");if(a){for(e="",r=parseInt(a.substr(0,2),16),n=2;a.length-n;n+=2)i=parseInt(a.substr(n,2),16)^r,e+=String.fromCharCode(i);e=document.createTextNode(e),c.parentNode.replaceChild(e,c)}}}catch(u){}}();/* ]]> */</script></p>
+<p class="terms__body-text">If you have any concerns or questions about any aspect of this policy, please feel free to contact our Privacy Policy Coordinator at support@redditgifts.com.</p>
 
   </div>
 
@@ -291,7 +295,7 @@
 </script>
 
 
-    <script type="text/javascript" src="https://d2npbuaakacvlz.cloudfront.net/CACHE/js/0776507e8f6a.js"></script>
+    <script type="text/javascript" src="https://d2npbuaakacvlz.cloudfront.net/CACHE/js/491c9691cfeb.js"></script>
 
     
 
@@ -328,7 +332,7 @@
 
     
 
-    <input type="hidden" name="csrfmiddlewaretoken" value="BsL6eAtSUS9vCSwVcJm0J10vq2OxYf78">
+    <input type="hidden" name="csrfmiddlewaretoken" value="41cDGoXi2M01AplARPPL6Y4J62J6iXwZ">
 
 
 </body></html>
