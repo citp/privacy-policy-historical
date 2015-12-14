@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the ttpm.com privacy policy that was archived on 2015-06-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150627132955id_/http%3A//ttpm.com/legal/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ttpm.com privacy policy that was archived on 2015-12-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151214235343id_/http%3A//ttpm.com/legal/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# product: http://ogp.me/ns/product#">
 <title>Privacy Policy | Time to Play | Toys, Tots, Pets &amp; More</title>
@@ -31,8 +31,9 @@
 
 <link rel="stylesheet" type="text/css" href="https://timetoplay-css.s3.amazonaws.com/jquery/timetoplay3.1-jquery/jquery-ui-1.10.3.custom.min.css">
 <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
-<link rel="stylesheet" type="text/css" href="https://timetoplay-css.s3.amazonaws.com/global/global-201502171406.css">
+<link rel="stylesheet" type="text/css" href="https://timetoplay-css.s3.amazonaws.com/bootstrap.min.css">
 <link rel="stylesheet" type="text/css" href="https://timetoplay-js.s3.amazonaws.com/jquery/flexslider/flexslider-carousel.css">
+<link rel="stylesheet" type="text/css" href="https://timetoplay-css.s3.amazonaws.com/global/global-201509230000.css">
 
 <!-- Facebook Meta -->
 <meta property="og:url" content="http://ttpm.com/legal/privacy-policy/">
@@ -42,16 +43,23 @@
 <meta property="og:image" content="https://timetoplay-img.s3.amazonaws.com/logos/ttpm/ttpm_logo_500x500.png">
 <!-- /Facebook Meta -->
 
-<script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js#xfbml=1&amp;version=v2.3&amp;appId=326752470720492"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="http://www.google.com/jsapi"></script>
-<script type="text/javascript">google.load("jquery", "1");google.load("jqueryui", "1");google.load("swfobject", "2");google.load("webfont", "1");</script>
+<script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="https://www.youtube.com/iframe_api"></script>
+<script type="text/javascript" src="http://www.google.com/jsapi"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+<script src="https://timetoplay-js.s3.amazonaws.com/jquery/jquery-ui-1.11.4/jquery-ui.min.js"></script>
+<script type="text/javascript">google.load("swfobject", "2");google.load("webfont", "1");</script>
 
 <script src="https://timetoplay-js.s3.amazonaws.com/AC_RunActiveContent.js"></script>
 <script src="https://timetoplay-js.s3.amazonaws.com/jquery/jquery.easing.js"></script>
-<script src="https://timetoplay-js.s3.amazonaws.com/js/jquery.mousewheel.js"></script>
+<!-- <script src="https://timetoplay-js.s3.amazonaws.com/js/jquery.mousewheel.js"></script> -->
 
-<script src="https://timetoplay-js.s3.amazonaws.com/jquery/flexslider/jquery.flexslider-min.js"></script>
 <script src="https://timetoplay-js.s3.amazonaws.com/jquery/withinViewport.js"></script>
 <script src="https://timetoplay-js.s3.amazonaws.com/jquery/jquery.withinViewport.js"></script>
+<script src="https://timetoplay-js.s3.amazonaws.com/jquery/flexslider/jquery.flexslider-min.js"></script>
+<script src="https://timetoplay-js.s3.amazonaws.com/js/bootstrap.min.js"></script>
+<script src="https://timetoplay-js.s3.amazonaws.com/js/bootstrap-hover-dropdown.js"></script>
+
+
 
 <!-- Jquery Plugins -->
 
@@ -120,143 +128,149 @@
 <!-- *************** Facebook JS SDK *************** -->
 <script>
   window.fbAsyncInit = function() {
-    FB.init({
-      appId      : '197148034249',
-      xfbml      : true,
-      version    : 'v2.0'
-    });
+  FB.init({
+    appId      : '197148034249',
+    cookie     : true,  // enable cookies to allow the server to access 
+                        // the session
+    xfbml      : true,  // parse social plugins on this page
+    version    : 'v2.0' // use version 2.2
+  });
+
+  // Now that we've initialized the JavaScript SDK, we call 
+  // FB.getLoginStatus().  This function gets the state of the
+  // person visiting this page and can return one of three states to
+  // the callback you provide.  They can be:
+  //
+  // 1. Logged into your app ('connected')
+  // 2. Logged into Facebook, but not your app ('not_authorized')
+  // 3. Not logged into Facebook and can't tell if they are logged into
+  //    your app or not.
+  //
+  // These three cases are handled in the callback function
+
   };
-  (function(d, s, id){
-     var js, fjs = d.getElementsByTagName(s)[0];
-     if (d.getElementById(id)) {return;}
-     js = d.createElement(s); js.id = id;
-     js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.3&appId=326752470720492";
-     fjs.parentNode.insertBefore(js, fjs);
-   }(document, 'script', 'facebook-jssdk'));
+  function fb_login() {
+    FB.login(function(response){
+      if (response.status === 'connected') {
+        var fbid= response.authResponse.userID;
+        FB.api('/me', function(response) {
+          var email = response.email;
+          var fname = response.first_name;
+          var lname = response.last_name;
+          $.ajax({
+            url:'/account/register',
+            type: 'post',
+            data:{'facebook': true, 'fbid': fbid, 'fname':fname, 'lname':lname, 'email': email},
+            success: function(){
+            },
+
+          });
+          $.ajax({
+            url:"/account/signin/?return=http%3A%2F%2Fttpm.com%2Flegal%2Fprivacy-policy%2F",
+            type: 'post',
+            data:{'facebook': true, 'SignIn': true, 'username': email, 'fbid': fbid},
+            success: function(){  
+              window.location = "/legal/privacy-policy/";
+            },
+            error: function(){
+              alert();
+            }
+          });
+        });
+      } else if (response.status === 'not_authorized') {
+        // The person is logged into Facebook, but not your app.
+
+      } else {
+        // The person is not logged into Facebook, so we're not sure if
+        // they are logged into this app or not.
+      }
+    }, {
+      scope: "public_profile,email"
+    });
+   
+  }
+
+  // Load the SDK asynchronously
+  (function(d, s, id) {
+    var js, fjs = d.getElementsByTagName(s)[0];
+    if (d.getElementById(id)) return;
+    js = d.createElement(s); js.id = id;
+    js.src = "//connect.facebook.net/en_US/sdk.js";
+    fjs.parentNode.insertBefore(js, fjs);
+  }(document, 'script', 'facebook-jssdk'));
+
+  // Here we run a very simple test of the Graph API after login is
+  // successful.  See statusChangeCallback() for when this call is made.
+
 </script>
 <!-- *************** End Facebook JS SDK *************** -->
-
-
-<div id="header">
-
-	<div id="fluid_header">
-
-        <div id="header_logo">
-
-            <a href="http://ttpm.com/"><img src="https://timetoplay-img.s3.amazonaws.com/logos/ttpm/ttpm_logo_200x85.png" alt="TTPM" class="ttp_home_logo" id="timetoplay_logo"></a>
-
-            <a href="http://ttpm.com/"><img src="https://timetoplay-img.s3.amazonaws.com/logos/ttpm/ttpm_logo_100x100.png" alt="TTPM" class="ttp_home_logo" id="timetoplay_icon"></a>
-
-        </div>
-
-        <div id="header_search">
-
-            <form name="site_search" method="get" action="http://ttpm.com/search/">
-
-                <input name="q" type="text" class="header_search_text" value="" placeholder="">
-
-                <input name="submit" type="submit" class="header_search_submit" value="">
-
-            </form>
-
-        </div>
-
-        <div id="header_social">
-
-            <div id="social">
-
-                <a href="http://twitter.com/ttpm" class="social_button blue no-border twitter" target="_blank">Twitter</a>
-                <a href="http://www.facebook.com/timetoplaymag" class="social_button blue no-border facebook" target="_blank">Facebook</a>
-                <a href="http://www.youtube.com/c/ttpm" class="social_button blue no-border youtube" target="_blank">YouTube</a>
-                <a href="https://plus.google.com/+ttpm/" class="social_button blue no-border google" target="_blank">Google Plus</a>
-                <a href="https://www.pinterest.com/ttpmofficial/" class="social_button blue no-border pinterest" target="_blank">Pinterest</a>
-                <a href="http://instagram.com/timetoplaymag" class="social_button blue no-border instagram" target="_blank">Instagram</a>
-
-                
-                
-                    <a href="http://ttpm.com/account/signin/" class="social_button gray no-border member" id="member">Sign In</a>
-
-                    <div id="membership" class="logged_out">
-
-                        <h4>Sign In</h4>
-
-                        <form name="login" method="post" action="http://ttpm.com/account/signin/?return=http%3A%2F%2Fttpm.com%2Flegal%2Fprivacy-policy%2F">
-
-                            <ul class="sign_in_form">
-
-                                <li class="username">
-
-                                    <label for="nav_username" class="form">Email</label>
-                                    <input name="username" type="text" id="nav_username" class="text" placeholder="Email" required="">
-
-                                </li>
-
-                                <li class="password">
-
-                                    <label for="nav_password" class="form">Password</label>
-                                    <input name="password" type="password" id="nav_password" class="text" placeholder="Password" required="">
-
-                                </li>
-
-                                <li class="submit_form"><input type="submit" name="SignIn" class="submit" id="nav_login" value="Sign In"></li>
-
-                            </ul>
-
-                        </form>
-
-                        <p class="create_account">Don’t have an account?<br>
-                        <a href="http://ttpm.com/account/register/">Create one here.</a></p>
-
-                        <p class="forgot_password">Forgot your password?<br>
-                        <a href="http://ttpm.com/account/password/forgot/">Reset it here.</a></p>
-
-                    </div>
-
-                    <script>
-
-                        $('a#member').click(function(event) {
-                            event.preventDefault(event);
-                            $('#membership').slideToggle('slow', function() {
-                                return false;
-                            });
-                        });
-
-                    </script>
-
-                
-            </div>
-
-        </div>
-
+<nav class="navbar navbar-default navbar-fixed-top">
+  <div class="container-fluid nav-container">
+    <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navitems" aria-expanded="false" aria-controls="navbar">
+      <span class="sr-only">Toggle navigation</span>
+      <span class="icon-bar"></span>
+      <span class="icon-bar"></span>
+      <span class="icon-bar"></span>
+    </button>
+    <div class="header-logo">
+      <a class="navbar-brand" href="http://ttpm.com/"><img style="height:50px;" src="https://timetoplay-img.s3.amazonaws.com/global/header/nav/ttpm_flatlogo.png" alt="TTPM" class="ttp_home_logo" id="timetoplay_logo"></a>
     </div>
+    <div class="login-container nav navbar-nav navbar-right">
+                    <a href="http://ttpm.com/account/signin/" class="sign-in" data-toggle="popover" data-placement="bottom" data-content="" id="login">LOG IN</a>
+        <div id="login_content" class="logged_out">
+          <a href="#" onclick="fb_login();"><img src="https://timetoplay-img.s3.amazonaws.com/global/header/nav/login_fb.png" border="0" alt=""></a>
+          <div class="login-or-thingy"><div class="sideline"></div><div class="or">OR</div><div class="sideline"></div></div>
+          <form name="login" method="post" action="http://ttpm.com/account/signin/?return=http%3A%2F%2Fttpm.com%2Flegal%2Fprivacy-policy%2F">
+            <ul class="sign_in_form">
+              <li class="username">
+                <input name="username" type="text" id="nav_username" class="text" placeholder="Email" required="">
+              </li><li>
+              </li><li class="password">
+                <input name="password" type="password" id="nav_password" class="text" placeholder="Password" required="">
+              </li>
+              <li class="submit_form">
+                <input type="submit" name="SignIn" class="submit" id="nav_login" value="Sign In">
+              </li>
+            </ul>
+          </form>
+          <p class="create_account">Don’t have an account?<br>
+            <a href="http://ttpm.com/account/register/">Create one here.</a>
+          </p>
+          <p class="forgot_password">Forgot your password?<br>
+            <a href="http://ttpm.com/account/password/forgot/">Reset it here.</a>
+          </p>    
+        </div>
 
-    <ul id="nav">
-
-        <li class="parent" id="nav_toys">
-
-            <a href="http://ttpm.com/toys/">Toys</a>
-
-            <ul id="toys">
-
-                <li class="featured_cat">
-
-                    <a href="http://ttpm.com/trending/">Trending Reviews</a>
-
-                </li>
-
-                <li class="featured_cat">
-
-                    <a href="http://ttpm.com/new/">Newest Reviews</a>
-
-                </li>
-
-                <li class="featured_cat">
-
-                    <a href="http://www.timetoplaymag.com/toyadvisor/">Search by age</a>
-
-                </li>
-
-				
+        <script>
+          $('a#login').click(function(event) {
+            event.preventDefault(event);
+          });
+        </script>
+          </div>
+    <div class="search-container">
+      <form id="searchForm" class="search-form" name="site_search" method="get" action="http://ttpm.com/search/">
+        <a href="#" class="search-icon" onclick=""><i class="fa fa-search"></i></a>
+        <input type="text" name="q" class="search-txt-input" value="" placeholder="Search">    
+      </form>
+    </div>    
+    <div id="navitems" class="navbar-collapse collapse nav-list">
+      <ul class="desktop-nav nav navbar-nav">
+          <li class="nav-item toy" id="nav_toys"><a href="http://ttpm.com/toys/" class="" data-target="#toyCollapse" data-toggle="collapse" role="button" aria-expanded="false">TOYS</a>
+          </li><li class="nav-item baby" id="nav_baby"><a href="http://ttpm.com/baby/" class="" data-target="#babyCollapse" data-toggle="collapse" role="button" aria-expanded="false">BABY</a></li>
+          <li class="nav-item pet" id="nav_pets"><a href="http://ttpm.com/pets/" class="" data-target="#petCollapse" data-toggle="collapse" role="button" aria-expanded="false">PETS</a></li>
+          <li class="nav-item giveaways" id="nav_giveaways"><a href="http://ttpm.com/giveaway/" class="" data-target="#giveawaysCollapse" data-toggle="collapse" role="button" aria-expanded="false">GIVEAWAYS</a></li>
+          <li class="nav-item videoreviews last" id="nav_videos"><a href="http://ttpm.com/video/" class="" data-target="#videoCollapse" data-toggle="collapse" role="button" aria-expanded="false">VIDEOS</a></li>
+      </ul>
+      <ul class="mobile-nav nav navbar-nav">
+          <li class="nav-item mobile toy" id="nav_toys">
+            <a href="http://ttpm.com/toys/" class="dd-1" data-isopen="false">TOYS</a>
+            <ul class="dd-menu-1">
+              <li class="toy-nav">
+                <a href="http://ttpm.com/toys/" class="dd-2" data-isopen="false">
+                  All Toys
+                </a>
+                <ul class="dd-menu-2 toy all-toy-dropdowns nav2-dropdowns">
+                  
             <li><a href="http://ttpm.com/c/1/action-figures/">Action Figures</a></li>
 
 
@@ -297,11 +311,6 @@
 
 
     
-            <li><a href="http://ttpm.com/c/6/boys-toys/">Boys Toys</a></li>
-
-
-
-    
             <li><a href="http://ttpm.com/c/35/collectible-toys/">Collectible Toys</a></li>
 
 
@@ -337,27 +346,12 @@
 
 
     
-            <li><a href="http://ttpm.com/c/15/girls-toys/">Girls Toys</a></li>
-
-
-
-    
             <li><a href="http://ttpm.com/c/36/goody-bags-items/">Goody Bags Items</a></li>
 
 
 
     
-            <li><a href="http://ttpm.com/c/67/halloween/">Halloween</a></li>
-
-
-
-    
             <li><a href="http://ttpm.com/c/240/kids-decor-and-furniture/">Kids Décor and Furniture</a></li>
-
-
-
-    
-            <li><a href="http://ttpm.com/movies">Movie Toys</a></li>
 
 
 
@@ -462,89 +456,18 @@
 
 
     
-            <li><a href="http://ttpm.com/c/244/ttpm-summer-play-list/">TTPM Summer Play List</a></li>
-
-
-
-    
             <li><a href="http://ttpm.com/c/45/water-toys/">Water Toys</a></li>
 
 
 
-    
-            </ul>
-
-        </li>
-
-        <li class="parent" id="nav_baby">
-
-            <a href="http://ttpm.com/baby/">Baby</a>
-
-            <ul>
-                
-                
-            <li><a href="http://ttpm.com/c/99/all-baby-products/">All Baby Products</a></li>
-
-
-
-    
-            <li><a href="http://ttpm.com/c/253/baby-feeding/">Baby Feeding</a></li>
-
-
-
-    
-            <li><a href="http://ttpm.com/c/171/baby-gear/">Baby Gear</a></li>
-
-
-
-    
-            <li><a href="http://ttpm.com/c/16/baby-toys/">Baby Toys</a></li>
-
-
-
-    
-            <li><a href="http://ttpm.com/c/107/baby-bed-bath/">Baby Bed &amp; Bath</a></li>
-
-
-
-    
-            </ul>
-
-        </li>
-
-        <li class="parent" id="nav_pets">
-
-            <a href="http://ttpm.com/pets/">Pet Toys</a>
-
-            <ul>
-
-            	
-            <li><a href="http://ttpm.com/c/230/cat-toys/all-cat-toys/">All Cat Toys</a></li>
-
-
-
-    
-            <li><a href="http://ttpm.com/c/229/dog-toys/all-dog-toys/">All Dog Toys</a></li>
-
-
-
-    
-            <li><a href="http://ttpm.com/c/231/all-pet-toys/">All Pet Toys</a></li>
-
-
-
-    
-            </ul>
-
-        </li>
-
-        <li class="parent" id="nav_sporting_goods">
-
-            <a href="http://ttpm.com/sportinggoods/">Sporting Goods</a>
-
-            <ul>
-
-                
+                    </ul>
+              </li>
+              <li class="toy-nav">
+                <a href="http://ttpm.com/sportinggoods/" class="dd-3" data-isopen="false">
+                  Sporting Goods 
+                </a>
+                <ul class="dd-menu-3 toy all-toy-dropdowns nav2-dropdowns">
+                  
             <li><a href="http://ttpm.com/c/103/all-sporting-goods/">All Sporting Goods</a></li>
 
 
@@ -589,18 +512,14 @@
 
 
 
-    
-            </ul>
-
-        </li>
-
-        <li class="parent" id="nav_video_games">
-
-            <a href="http://ttpm.com/videogames/">Video Games</a>
-
-            <ul>
-
-                
+                    </ul>
+              </li>
+              <li class="toy-nav">
+                <a href="http://ttpm.com/videogames/" class="dd-4" data-isopen="false">
+                  Video Games 
+                </a>
+                <ul class="dd-menu-4 toy all-toy-dropdowns nav2-dropdowns">
+                  
             <li><a href="http://ttpm.com/c/30/all-childrens-video-games/">All Children's Video Games</a></li>
 
 
@@ -645,18 +564,14 @@
 
 
 
-    
-            </ul>
-
-        </li>
-
-        <li class="parent" id="nav_kids_electronics">
-
-            <a href="http://ttpm.com/kidselectronics/">Kids Electronics</a>
-
-            <ul>
-
-            	
+                    </ul>
+              </li>
+              <li class="toy-nav">
+                <a href="http://ttpm.com/kidselectronics/" class="dd-5" data-isopen="false">
+                  Kids Electronics 
+                </a>
+                <ul class="dd-menu-5 toy all-toy-dropdowns nav2-dropdowns">
+                  
             <li><a href="http://ttpm.com/c/17/kids-electronics/all-kids-electronics/">All Kids Electronics</a></li>
 
 
@@ -681,18 +596,14 @@
 
 
 
-    
-            </ul>
-
-        </li>
-
-        <li class="parent" id="nav_books">
-
-            <a href="http://ttpm.com/books/">Books</a>
-
-            <ul>
-
-            	
+                    </ul>
+              </li>
+              <li class="toy-nav">
+                <a href="http://ttpm.com/books/" class="dd-6" data-isopen="false">
+                  Books
+                </a>
+                <ul class="dd-menu-6 toy all-toy-dropdowns nav2-dropdowns">
+                  
             <li><a href="http://ttpm.com/c/5/books/all-childrens-book-reviews/">All Children's Book Reviews</a></li>
 
 
@@ -722,78 +633,820 @@
 
 
 
+                    </ul>
+              </li>
+            </ul>
+          </li>
+          <li class="nav-item mobile baby" id="nav_baby">
+            <a href="http://ttpm.com/baby/" class="dd-7" data-isopen="false">
+              BABY
+            </a>
+            <ul class="dd-menu-7 baby nav2-dropdowns">
+              
+            <li><a href="http://ttpm.com/c/298/baby-gear/">Baby Gear</a></li>
+
+
+
     
+            <li><a href="http://ttpm.com/c/99/all-baby-products/">All Baby Products</a></li>
+
+
+
+    
+            <li><a href="http://ttpm.com/c/253/baby-feeding/">Baby Feeding</a></li>
+
+
+
+    
+            <li><a href="http://ttpm.com/c/16/baby-toys/">Baby Toys</a></li>
+
+
+
+    
+            <li><a href="http://ttpm.com/c/107/baby-bed-bath/">Baby Bed &amp; Bath</a></li>
+
+
+
+                </ul>
+          </li>
+          <li class="nav-item mobile pet" id="nav_pets">
+            <a href="http://ttpm.com/pets/" class="dd-8" data-isopen="false">
+              PETS
+            </a>
+            <ul class="dd-menu-8 pet nav2-dropdowns">
+              
+            <li><a href="http://ttpm.com/c/347/pet-gear/">All Pet Gear</a></li>
+
+
+
+    
+            <li><a href="http://ttpm.com/c/230/cat-toys/all-cat-toys/">All Cat Toys</a></li>
+
+
+
+    
+            <li><a href="http://ttpm.com/c/229/dog-toys/all-dog-toys/">All Dog Toys</a></li>
+
+
+
+    
+            <li><a href="http://ttpm.com/c/231/all-pet-toys/">All Pet Toys</a></li>
+
+
+
+                </ul>
+          </li>
+          <li class="nav-item mobile giveaways" id="nav_giveaways">
+            <a href="http://ttpm.com/giveaway/" class="dd-9" data-isopen="false">
+              GIVEAWAYS
+            </a>
+            <ul class="dd-menu-9 giveaways nav2-dropdowns">
+              <li><a href="http://ttpm.com/giveaway/daily/">Daily Giveaway</a></li>
+              <li><a href="http://ttpm.com/baby/giveaway/">Baby Gear Giveaway</a></li>
+              <li><a href="http://ttpm.com/showdown/">Showdown Sweeps</a></li>
+              <li><a href="http://ttpm.com/ttpmlive/">#TTPMlive</a></li>
+              <li><a href="http://ttpm.com/playdate/">The Playdate</a></li>
             </ul>
-
-        </li>
-
-        
-        <li class="parent" id="nav_giveaways">
-
-            <a href="http://ttpm.com/giveaway/">Giveaways</a>
-
-            <ul>
-
-                <li><a href="http://ttpm.com/giveaway/daily/">Daily Giveaway</a></li>
-                
-                <li><a href="http://ttpm.com/baby/giveaway/">Baby Gear Giveaway</a></li>
-
-                <li><a href="http://ttpm.com/showdown/">Showdown Sweeps</a></li>
-
-                <li><a href="http://ttpm.com/ttpmlive/">#TTPMlive</a></li>
-
-                <li><a href="http://ttpm.com/playdate/">The Playdate</a></li>
-
-                
-            </ul>
-
-        </li>
-
-        <!-- <li class="parent" id="nav_kbc"><a href="http://ttpm.com/kidsbirthdaycentral/">Birthdays</a></li> -->
-
-        <li class="parent" id="nav_videos">
-
-            <a href="http://ttpm.com/video/">Videos</a>
-
-            <ul>
-
-                <li><a href="http://ttpm.com/video/new-popular/">New &amp; Popular</a></li>
-                
-                <li><a href="http://ttpm.com/video/play-lab/">Play Lab</a></li>
-
-                <li><a href="http://ttpm.com/video/playing-around/">Playing Around</a></li>
-
-                <li><a href="http://ttpm.com/video/sneak-peek/">Sneak Peek</a></li>
-
-                <li><a href="http://ttpm.com/video/the-toy-guy-on-tour/">The Toy Guy on Tour</a></li>
-                
-                <li><a href="http://ttpm.com/video/top-10/">Top 10</a></li>
-                
-                <!--<li><a href="http://ttpm.com/video/toy-fair/">Toy Fair</a></li>-->
+          </li>
+          <li class="nav-item mobile videoreviews last" id="nav_videos">
+            <a href="" class="dd-10" data-isopen="false">
+              VIDEOS
+            </a>
+            <ul class="dd-menu-10 videoreviews nav2-dropdowns">
+              <li><a href="http://ttpm.com/video/new-popular/">New &amp; Popular</a></li>                
+              <li><a href="http://ttpm.com/video/play-lab/">Play Lab</a></li>
+              <li><a href="http://ttpm.com/video/top-10/">Top 10</a></li>
+              <li><a href="http://ttpm.com/video/top-5-baby/">Top 5 Baby</a></li>
+              <!--\<li><a href="http://ttpm.com/video/playing-around/">Playing Around</a></li>!-->
+              <li><a href="http://ttpm.com/video/sneak-peek/">Sneak Peek</a></li>
+              <li><a href="http://ttpm.com/video/the-toy-guy-on-tour/">The Toy Guy on Tour</a></li>
+              <li><a href="http://ttpm.com/playdate/">The Playdate</a></li>
 
             </ul>
+          </li>
+      <ul>
+    </ul></ul></div>
+		
+		<ul class="nav nav-tabs nav2 collapse" id="toyCollapse">
+			<li class="dropdown toy-nav">
+				<a href="#" class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown" data-delay="0" data-hoverdelay="500">
+					All Toys
+				</a>
+				<ul class="dropdown-menu toy all-toy-dropdowns nav2-dropdowns">
+					
+            <li><a href="http://ttpm.com/c/1/action-figures/">Action Figures</a></li>
 
-        </li>
 
+
+    
+            <li><a href="http://ttpm.com/c/3/activity-toys/">Activity Toys</a></li>
+
+
+
+    
+            <li><a href="http://ttpm.com/c/116/app-accessories/">App Accessories</a></li>
+
+
+
+    
+            <li><a href="http://ttpm.com/c/92/app-toys/">App Toys</a></li>
+
+
+
+    
+            <li><a href="http://ttpm.com/c/4/arts-and-crafts/">Arts &amp; Crafts</a></li>
+
+
+
+    
+            <li><a href="http://ttpm.com/c/61/back-to-school/">Back to School</a></li>
+
+
+
+    
+            <li><a href="http://ttpm.com/c/121/english-spanish-bilingual-toys/">English-Spanish Bilingual Toys</a></li>
+
+
+
+    
+            <li><a href="http://ttpm.com/c/181/birthday-party-products/">Birthday Party Products</a></li>
+
+
+
+    
+            <li><a href="http://ttpm.com/c/35/collectible-toys/">Collectible Toys</a></li>
+
+
+
+    
+            <li><a href="http://ttpm.com/c/7/construction-toys/">Construction Toys</a></li>
+
+
+
+    
+            <li><a href="http://ttpm.com/c/8/dolls/">Dolls</a></li>
+
+
+
+    
+            <li><a href="http://ttpm.com/c/9/dress-up-toys/">Dress Up Toys</a></li>
+
+
+
+    
+            <li><a href="http://ttpm.com/c/96/eco-friendly-toys/">Eco-Friendly Toys</a></li>
+
+
+
+    
+            <li><a href="http://ttpm.com/c/10/educational-toys/">Educational Toys</a></li>
+
+
+
+    
+            <li><a href="http://ttpm.com/c/11/games/">Games</a></li>
+
+
+
+    
+            <li><a href="http://ttpm.com/c/36/goody-bags-items/">Goody Bags Items</a></li>
+
+
+
+    
+            <li><a href="http://ttpm.com/c/240/kids-decor-and-furniture/">Kids Décor and Furniture</a></li>
+
+
+
+    
+            <li><a href="http://ttpm.com/c/69/music-toys/">Music Toys</a></li>
+
+
+
+    
+            <li><a href="http://ttpm.com/c/18/outdoor-toys/">Outdoor Toys</a></li>
+
+
+
+    
+            <li><a href="http://ttpm.com/c/46/pool-toys/">Pool Toys</a></li>
+
+
+
+    
+            <li><a href="http://ttpm.com/c/104/pop-culture-collectibles/">Pop Culture &amp; Collectibles</a></li>
+
+
+
+    
+            <li><a href="http://ttpm.com/c/20/preschool-toys/">Preschool Toys</a></li>
+
+
+
+    
+            <li><a href="http://ttpm.com/c/70/puppets/">Puppets</a></li>
+
+
+
+    
+            <li><a href="http://ttpm.com/c/21/puzzles/">Puzzles</a></li>
+
+
+
+    
+            <li><a href="http://ttpm.com/c/22/radio-control-toys/">Radio Control Toys</a></li>
+
+
+
+    
+            <li><a href="http://ttpm.com/c/23/riding-toys/">Riding Toys</a></li>
+
+
+
+    
+            <li><a href="http://ttpm.com/c/24/role-play-toys/">Role Play Toys</a></li>
+
+
+
+    
+            <li><a href="http://ttpm.com/c/25/science-toys/">Science Toys</a></li>
+
+
+
+    
+            <li><a href="http://ttpm.com/c/64/seasonal-toys/">Seasonal Toys</a></li>
+
+
+
+    
+            <li><a href="http://ttpm.com/c/72/special-needs/">Special Needs</a></li>
+
+
+
+    
+            <li><a href="http://ttpm.com/c/27/sports-toys/">Sports Toys</a></li>
+
+
+
+    
+            <li><a href="http://ttpm.com/c/28/stuffed-animals/">Stuffed Animals</a></li>
+
+
+
+    
+            <li><a href="http://ttpm.com/c/29/tech-toys/">Tech Toys</a></li>
+
+
+
+    
+            <li><a href="http://ttpm.com/c/42/toy-cars/">Toy Cars</a></li>
+
+
+
+    
+            <li><a href="http://ttpm.com/c/44/toy-trains/">Toy Trains</a></li>
+
+
+
+    
+            <li><a href="http://ttpm.com/c/43/toy-trucks/">Toy Trucks</a></li>
+
+
+
+    
+            <li><a href="http://ttpm.com/c/60/travel-toys/">Travel Toys</a></li>
+
+
+
+    
+            <li><a href="http://ttpm.com/c/45/water-toys/">Water Toys</a></li>
+
+
+
+    				</ul>
+			</li>
+			<li class="toy-nav">
+				<a href="?php echo $GLOBALS['ttpm_rs']; ?&gt;/sportinggoods/" class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown" data-delay="0" data-hoverdelay="500">
+          Sporting Goods 
+        </a>
+        <ul class="dropdown-menu toy nav2-dropdowns">
+          
+            <li><a href="http://ttpm.com/c/103/all-sporting-goods/">All Sporting Goods</a></li>
+
+
+
+    
+            <li><a href="http://ttpm.com/c/206/baseball/">Baseball</a></li>
+
+
+
+    
+            <li><a href="http://ttpm.com/c/208/basketball/">Basketball</a></li>
+
+
+
+    
+            <li><a href="http://ttpm.com/c/213/fishing/">Fishing</a></li>
+
+
+
+    
+            <li><a href="http://ttpm.com/c/207/football/">Football</a></li>
+
+
+
+    
+            <li><a href="http://ttpm.com/c/212/golf/">Golf</a></li>
+
+
+
+    
+            <li><a href="http://ttpm.com/c/205/soccer/">Soccer</a></li>
+
+
+
+    
+            <li><a href="http://ttpm.com/c/209/tennis/">Tennis</a></li>
+
+
+
+    
+            <li><a href="http://ttpm.com/c/211/volleyball/">Volleyball</a></li>
+
+
+
+            </ul>
+			</li>
+			<li class="toy-nav">
+        <a href="http://ttpm.com/videogames/" class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown" data-delay="0" data-hoverdelay="500">
+          Video Games 
+        </a>
+        <ul class="dropdown-menu toy nav2-dropdowns">
+          
+            <li><a href="http://ttpm.com/c/30/all-childrens-video-games/">All Children's Video Games</a></li>
+
+
+
+    
+            <li><a href="http://ttpm.com/c/117/all-ages-video-games/">All Ages Video Games</a></li>
+
+
+
+    
+            <li><a href="http://ttpm.com/c/144/multi-player-games/">Multi-Player Games</a></li>
+
+
+
+    
+            <li><a href="http://ttpm.com/c/148/non-competitive-games/">Non-Competitive Games</a></li>
+
+
+
+    
+            <li><a href="http://ttpm.com/c/145/party-games/">Party Games</a></li>
+
+
+
+    
+            <li><a href="http://ttpm.com/c/147/physically-active-games/">Physically Active Games</a></li>
+
+
+
+    
+            <li><a href="http://ttpm.com/c/146/puzzle-solving-games/">Puzzle-Solving Games</a></li>
+
+
+
+    
+            <li><a href="http://ttpm.com/c/143/single-player-games/">Single-Player Games</a></li>
+
+
+
+    
+            <li><a href="http://ttpm.com/c/118/teen-and-up-video-games/">Teen and Up Video Games</a></li>
+
+
+
+            </ul>
+      </li>
+			<li class="toy-nav">
+				<a href="http://ttpm.com/kidselectronics/" class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown" data-delay="0" data-hoverdelay="500">
+          Kids Electronics 
+        </a>
+        <ul class="dropdown-menu toy nav2-dropdowns">
+          
+            <li><a href="http://ttpm.com/c/17/kids-electronics/all-kids-electronics/">All Kids Electronics</a></li>
+
+
+
+    
+            <li><a href="http://ttpm.com/c/68/kids-electronics/apps-for-kids/">Apps for Kids</a></li>
+
+
+
+    
+            <li><a href="http://ttpm.com/c/115/kids-electronics/educational-apps-for-kids/">Educational Apps for Kids</a></li>
+
+
+
+    
+            <li><a href="http://ttpm.com/c/214/kids-electronics/kids-audio/">Kids Audio</a></li>
+
+
+
+    
+            <li><a href="http://ttpm.com/c/135/kids-electronics/tablets-for-kids/">Tablets for Kids</a></li>
+
+
+
+            </ul>  
+      </li>
+			<li class="toy-nav">
+				<a href="http://ttpm.com/books/" class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown" data-delay="0" data-hoverdelay="500">
+          Books
+        </a>
+        <ul class="dropdown-menu toy nav2-dropdowns">
+          
+            <li><a href="http://ttpm.com/c/5/books/all-childrens-book-reviews/">All Children's Book Reviews</a></li>
+
+
+
+    
+            <li><a href="http://ttpm.com/c/173/books/activity-books/">Activity Books</a></li>
+
+
+
+    
+            <li><a href="http://ttpm.com/c/172/books/board-books/">Board Books</a></li>
+
+
+
+    
+            <li><a href="http://ttpm.com/c/170/books/chapter-books/">Chapter Books</a></li>
+
+
+
+    
+            <li><a href="http://ttpm.com/c/169/books/picture-books/">Picture Books</a></li>
+
+
+
+    
+            <li><a href="http://ttpm.com/c/137/books/popular-character-books/">Popular Character Books</a></li>
+
+
+
+            </ul>
+			</li>
     </ul>
 
-</div>
+		<ul class="nav nav-tabs nav2 collapse" id="babyCollapse">
+			<li class="baby-nav">
+				<a href="http://ttpm.com/c/99/all-baby-products/">
+					All Baby Products
+				</a>
+			</li><li class="baby-nav">
+        <a href="http://ttpm.com/c/106/strollers/">
+          Strollers
+        </a>
+      </li>
+      <li class="baby-nav">
+        <a href="http://ttpm.com/c/302/baby-gear/car-seats/">
+          Car Seats
+        </a>
+      </li>
+      <li class="baby-nav">
+        <a href="http://ttpm.com/c/107/baby-bed-bath/">
+          Baby Bed &amp; Bath
+        </a>
+      </li>
+      <li class="baby-nav">
+        <a href="http://ttpm.com/c/253/baby-feeding/">
+          Baby Feeding
+        </a>
+      </li>
+      <li class="baby-nav">
+        <a href="http://ttpm.com/c/171/all-baby-gear/">
+          Baby Gear
+        </a>
+      </li>
+      <li class="baby-nav">
+        <a href="http://ttpm.com/c/303/safety-gear/">
+          Safety
+        </a>
+      </li>
+      <li class="baby-nav">
+        <a href="http://ttpm.com/c/16/baby-toys/">
+          Baby Toys
+        </a>
+      </li>
+      <li class="baby-nav">
+        <a href="http://ttpm.com/c/301/diaper-bags/">
+          Diaper Bags
+        </a>
+      </li>
+    </ul>
+
+    <ul class="nav nav-tabs nav2 collapse" id="petCollapse">
+      
+            <li><a href="http://ttpm.com/c/347/pet-gear/">All Pet Gear</a></li>
+
+
+
+    
+            <li><a href="http://ttpm.com/c/230/cat-toys/all-cat-toys/">All Cat Toys</a></li>
+
+
+
+    
+            <li><a href="http://ttpm.com/c/229/dog-toys/all-dog-toys/">All Dog Toys</a></li>
+
+
+
+    
+            <li><a href="http://ttpm.com/c/231/all-pet-toys/">All Pet Toys</a></li>
+
+
+
+        </ul>
+    
+    <ul class="nav nav-tabs nav2 collapse" id="giveawaysCollapse">
+      <li class="giveaways-nav">
+        <a href="http://ttpm.com/giveaway/daily/">
+          Daily Giveaways
+        </a>
+      </li>
+      <li class="giveaways-nav">
+        <a href="http://ttpm.com/baby/giveaway/">
+          Baby Gear Giveaway
+        </a>
+      </li>
+      <li class="giveaways-nav">
+        <a href="http://ttpm.com/showdown/">
+          Showdown Sweeps
+        </a>
+      </li>
+      <li class="giveaways-nav">
+        <a href="http://ttpm.com/ttpmlive/">
+          #TTPM LIVE
+        </a>
+      </li>
+      <li class="giveaways-nav">
+        <a href="http://ttpm.com/playdate/">
+          The Playdate
+        </a>
+      </li>
+    </ul>
+    <ul class="nav nav-tabs nav2 collapse" id="videoCollapse">
+      <li class="video-nav">
+        <a href="http://ttpm.com/video/new-popular/">
+          New &amp; Popular
+        </a>
+      </li>
+      <li class="video-nav">
+        <a href="http://ttpm.com/video/play-lab/">
+          Play Lab
+        </a>
+      </li>
+      <li class="video-nav">
+        <a href="http://ttpm.com/video/top-10/">
+          Top 10
+        </a>
+      </li>
+      <li class="video-nav">
+        <a href="http://ttpm.com/video/top-5-baby/">
+          Top 5 Baby
+        </a>
+      </li>
+      <!--<li class="video-nav">
+        <a href="http://ttpm.com/video/playing-around/">
+          Playing Around
+        </a>
+      </li>!-->
+      <li class="video-nav">
+        <a href="http://ttpm.com/video/sneak-peek/">
+          Sneak Peek
+        </a>
+      </li>
+      <li class="video-nav">
+        <a href="http://ttpm.com/video/the-toy-guy-on-tour/">
+          The Toy Guy On Tour
+        </a>
+      </li>
+      <li class="video-nav">
+        <a href="http://ttpm.com/playdate/">
+          The Playdate
+        </a>
+      </li>
+    </ul>
+		<!--
+    <div class="social-container">
+    LOG IN SHIT HERE
+    </div>
+		!-->
+        <!--
+        <div id="header_social">
+
+            <div id="social">
+
+                <a href="http://twitter.com/ttpm" class="social_button blue no-border twitter" target="_blank">Twitter</a>
+                <a href="http://www.facebook.com/TTPMOfficial" class="social_button blue no-border facebook" target="_blank">Facebook</a>
+                <a href="http://www.youtube.com/c/ttpm" class="social_button blue no-border youtube" target="_blank">YouTube</a>
+                <a href="https://plus.google.com/+ttpm/" class="social_button blue no-border google" target="_blank">Google Plus</a>
+                <a href="https://www.pinterest.com/TTPMofficial/" class="social_button blue no-border pinterest" target="_blank">Pinterest</a>
+                <a href="http://instagram.com/TTPMOfficial" class="social_button blue no-border instagram" target="_blank">Instagram</a>
+
+                
+                
+                    <a href="http://ttpm.com/account/signin/" class="social_button gray no-border member" id="member">Sign In</a>
+
+                    <div id="membership" class="logged_out">
+
+                        <h4>Sign In</h4><fb:login-button scope="public_profile,email" onlogin="checkLoginState();"></fb:login-button>
+        
+                        <form name="login" method="post" action="http://ttpm.com/account/signin/?return=http%3A%2F%2Fttpm.com%2Flegal%2Fprivacy-policy%2F">
+
+                            <ul class="sign_in_form">
+
+                                <li class="username">
+
+                                    <label for="nav_username" class="form">Email</label>
+                                    <input name="username" type="text" id="nav_username" class="text" placeholder="Email" required />
+
+                                </li>
+
+                                <li class="password">
+
+                                    <label for="nav_password" class="form">Password</label>
+                                    <input name="password" type="password" id="nav_password" class="text" placeholder="Password" required />
+
+                                </li>
+
+                                <li class="submit_form"><input type="submit" name="SignIn" class="submit" id="nav_login" value="Sign In" /></li>
+
+                            </ul>
+
+                        </form>
+
+                        <p class="create_account">Don&#8217;t have an account?<br />
+                        <a href="http://ttpm.com/account/register/">Create one here.</a></p>
+
+                        <p class="forgot_password">Forgot your password?<br />
+                        <a href="http://ttpm.com/account/password/forgot/">Reset it here.</a></p>
+                        
+                    </div>
+
+                    <script>
+
+                        $('a#member').click(function(event) {
+                            event.preventDefault(event);
+                            $('#membership').slideToggle('slow', function() {
+                                return false;
+                            });
+                        });
+
+                    </script>
+
+                
+            </div>
+
+        </div>
+
+    </div>!-->
+
+  </div><!-- /.container-fluid -->
+</nav>
 
 <script type="text/javascript">
+$(function() {
+  //mobile flag
+  var isMobile;
+
+  if(window.innerWidth > 768){
+    isMobile=false;
+  }
+  else{
+    isMobile=true;
+  }
+
+  $(window).resize(function(){
+    if(window.innerWidth > 768) {
+      isMobile=false;
+    }
+    else{
+      isMobile=true;
+      //changeNavHTML("desktopToMobile");
+    }
+  });
+
+  //new nav scripts
+
+  //this stops collapse event from occuring on the nav-items on click
+  $('ul.desktop-nav>li.nav-item>a').on("click",function(e){
+    e.stopPropagation();
+  });
+  //hover behavior
+  $(".nav-item>a").hover(
+		function(e){
+      if(isMobile==false){
+  			var thisdiv = jQuery(this).attr("data-target");
+
+        if($(thisdiv).attr("aria-expanded")=='true'){
+        }
+        else if($(".nav-item>a[aria-expanded='false']").length == $(".nav-item>a").length){
+          $(this).attr("aria-expanded","true");
+          $(thisdiv).attr("aria-expanded","true");
+          $(thisdiv).show();
+        }
+        else {
+          var visibleItem = $(".nav2:visible");
+          $(".nav-item>a[aria-expanded='true']").attr("aria-expanded","false");
+          $(visibleItem).attr("aria-expanded","false");
+          $(visibleItem).hide();    
+          $(thisdiv).show();
+          $(thisdiv).attr("aria-expanded", "true");
+          $(this).attr("aria-expanded", "true");
+        }
+      }
+      else{
+        e.stopPropagation;
+      }        
+		},
+		function(){
+			//var thisdiv = jQuery(this).attr("data-target");
+			//jQuery(thisdiv).collapse("hide");
+		}
+	);
+  //collapse nav when mouse leaves
+  $(".navbar-default").mouseleave(function(){
+    var $el = this;
+      var timeoutId = setTimeout(function(){
+      var visibleItem = $(".nav2:visible");
+      $(".nav-item>a[aria-expanded='true']").attr("aria-expanded","false");
+      $(visibleItem).attr("aria-expanded","false");
+      $(visibleItem).hide();    
+    },1000);
+    $(this).data('timeoutId',timeoutId);
+  });
+  $(".navbar-default").mouseenter(function(){
+    clearTimeout($(this).data('timeoutId'));
+  });
+  //login popover
+  $('.sign-in').popover({
+    html:true,
+    content: function(){
+      return $("#login_content").html();
+    }
+  }); 
+  $('.member').popover({
+    html:true,
+    content: function(){
+      return $("#membership_content").html();
+    }
+  }); 
+  $('.member').on('shown.bs.popover', function(){
+    $('.popover').addClass('member-pop');
+  });
+  //SEARCH ANIMATION
+  $('.search-icon').on('click', function(e) {
+
+    e.preventDefault();
+    $('.search-txt-input').animate({width: 'toggle'}).focus();
+    //document.getElementById('searchForm').submit()
+
+  });
+  //wrote a super awesome script for cascading dropdowns in the mobile nav
+  $("a[class^='dd-']").each(function(){
+    var el = $(this);
+    var classAttr = el.attr('class');
+    var hyphenPos = classAttr.search("-");
+    var dropdownId = classAttr.slice(hyphenPos+1);
+    var target = $(".dd-menu-"+dropdownId);
+      el.click(function(){
+        if(el.data("isopen")==false){
+          el.data("isopen",true);
+          el.addClass("isOpen");
+          target.slideDown();
+        }
+        else{
+          el.data("isopen",false);
+          el.removeClass("isOpen");
+          target.slideUp();
+        }
+      });
+    });
+  });
+
+	
 	$("#nav").addClass("js");
 	$("#header_social").addClass("js1");
 	$("#header_search").before('<div id="menu"></div>');
 	$("#menu").click(function(){
 		$("#nav").slideToggle();
-		if(window.innerWidth < 768) {
-			$("#header_search").hide();
+		if(window.innerWidth < 769) {
 		}
 	});
-	$(window).resize(function(){
-		if(window.innerWidth > 768) {
-			$("#nav").removeAttr("style");
-		}
-	});
+
 </script>
 
 <script type="text/javascript">
@@ -801,13 +1454,13 @@
 	$("#header_search").before('<div id="search_menu"></div>');
 	$("#search_menu").click(function(){
 		$("#header_search").slideToggle();
-		if(window.innerWidth < 768) {
+		if(window.innerWidth < 769) {
 			$("#nav").hide();
 		}
 	});
 	$(window).resize(function(){
-		if(window.innerWidth > 768) {
-			$("#header_search").removeAttr("style");
+		if(window.innerWidth > 769) {
+
 		}
 	});
 </script>
@@ -822,12 +1475,12 @@ $(window).scroll(function(e) {
     // Check if the user has scrolled and the current position is after the scroller start location and if its not already fixed at the top
     if ($(this).scrollTop() >= scroller_anchor)
     {    // Change the CSS of the scroller to hilight it and fix it at the top of the screen.
-        $('#header').css({
-			'box-shadow':         '-2px 2px 10px rgba(50, 50, 50, 0.75)',
+      $('#header').css({
+			  'box-shadow':         '-2px 2px 10px rgba(50, 50, 50, 0.75)',
 				'-webkit-box-shadow': '-2px 2px 10px rgba(50, 50, 50, 0.75)',
 				'-moz-box-shadow':    '-2px 2px 10px rgba(50, 50, 50, 0.75)',
 				'background-color': '#ffffff'
-        });
+      });
         // Changing the height of the scroller anchor to that of scroller so that there is no change in the overall height of the page.
         //$('.original_header').css('height', '50px');
     }
@@ -848,44 +1501,6 @@ $(window).scroll(function(e) {
 });
 </script>
 
-<script>
-
-              $(document).ready(function()
-
-              {
-
-                      $('li').hover(function(){
-
-                        var timer = $(this).data('timer');
-
-                        if(timer) clearTimeout(timer);
-
-                        $(this).addClass('over');
-
-                      },function(){
-
-                        var li = $(this);
-
-                        li.data('timer', setTimeout(function(){ li.removeClass('over'); }, 500));
-
-                      });
-
-              });
-
-          </script>
-
-
-
-<script>
-$('li').each(function(){
-   $(this).bind('mouseover',function(){
-      $(this).find('ul').show();
-   });
-   $(this).bind('mouseout',function(){
-      $(this).find('ul').hide();
-   });
-});
-</script>
 
 
     
@@ -953,25 +1568,24 @@ $('li').each(function(){
         
     </div>
     
-    <div id="footer">
+    <div id="footer" class=" fluid-type">
     
     <div id="fluid_footer">
-            
-        <div class="section" id="translate">
-        
-        	<h4>View TTPM in: <div id="google_translate_element"></div></h4>
-                
-			<script type="text/javascript">
-                function googleTranslateElementInit() {
-                  new google.translate.TranslateElement({pageLanguage: 'en', layout: google.translate.TranslateElement.InlineLayout.SIMPLE, gaTrack: true, gaId: 'UA-5190624-2'}, 'google_translate_element');
-                }
-            </script>
-            
-            <script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
-            
-        </div>
-        
          <div class="section">
+            <div class="footer_links">
+                <h3>REVIEWS</h3>
+                <ul class="links">
+                    <li><a href="http://ttpm.com/toys/">Toy Reviews</a></li>
+                    <li><a href="http://ttpm.com/baby/">Baby Product Reviews</a></li>
+                    <li><a href="http://ttpm.com/videogames/">Video Game Reviews</a></li>
+                    <li><a href="http://ttpm.com/sportinggoods/">Sporting Goods Reviews</a></li>
+                    <li><a href="http://ttpm.com/pets/">Pet Toy Reviews</a></li>
+                    <li><a href="http://ttpm.com/kidselectronics/">Kids Electronics Reviews</a></li>
+                    <li><a href="http://ttpm.com/books/">Book Reviews</a></li>
+                    <!--<li><a href="http://ttpm.com/movies/">Movie Reviews</a></li>-->
+                </ul>
+
+            </div>
         
             <div class="footer_links">
             
@@ -981,10 +1595,9 @@ $('li').each(function(){
                 
                     <li><a href="http://ttpm.com/about/">About</a></li>
                     <li><a href="http://ttpm.com/about/#contact">Contact</a></li>
-                    <li><a href="http://timetoplaymag.com/manufacturers/">Manufacturers List</a></li>
+                    <!--<li><a href="http://timetoplaymag.com/manufacturers/">Manufacturers List</a></li>-->
                     <li><a href="http://ttpm.com/newsroom/">Newsroom</a></li>
                     <li><a href="http://ttpm.com/legal/privacy-policy/">Privacy Policy</a></li>
-                    <li><a href="http://ttpm.com/sitemap/">Site Map</a></li>
                     <li><a href="http://ttpm.com/legal/terms-of-use/">Terms of Use</a></li>
                     <li><a href="http://ttpm.com/safety/">Toy Safety Tips</a></li>
                     
@@ -1014,7 +1627,6 @@ $('li').each(function(){
                 <ul class="links">
                 
                     <li><a href="http://ttpm.com/playforum/">The PlayForum</a></li>
-                    <li><a href="http://ttpm.com/guestbloggers/">Guest Bloggers</a></li>
                 
                 </ul>
             
@@ -1023,212 +1635,18 @@ $('li').each(function(){
             <div class="footer_links">
             
                 <h3>Find Us</h3>
-            
-                <ul class="links">
-                
-                    <li><a href="http://www.facebook.com/timetoplaymag" target="_blank">Facebook</a></li>
-                    <li><a href="http://plus.google.com/+ttpm" target="_blank">Google+</a></li>
-                    <li><a href="http://www.instagram.com/timetoplaymag" target="_blank">Instagram</a></li>
-                    <li><a href="https://www.pinterest.com/ttpmofficial/" target="_blank">Pinterest</a></li>
-                    <li><a href="http://www.twitter.com/ttpm" target="_blank">Twitter</a></li>
-                    <li><a href="http://www.youtube.com/c/ttpm target=" _blank"="">YouTube</a></li>
-        
-                </ul>
+                <div class="social-container">
+                    <a href="http://www.facebook.com/TTPMOfficial" target="_blank"><div class="social-sprite fb"></div></a>
+                    <a href="http://plus.google.com/+ttpm" target="_blank"><div class="social-sprite gg"></div></a>
+                    <a href="http://www.instagram.com/TTPMOfficial" target="_blank"><div class="social-sprite in"></div></a>
+                    <a href="https://www.pinterest.com/ttpmofficial/" target="_blank"><div class="social-sprite pin"></div></a>
+                    <a href="http://www.twitter.com/ttpm" target="_blank"><div class="social-sprite tw"></div></a>
+                    <a href="http://www.youtube.com/c/ttpm" target="_blank"><div class="social-sprite yt"></div></a>
+                </div>
+
             
             </div>
             
-        </div>
-        
-        <div class="section" id="reviews">
-            
-                    
-        	<h3><a href="http://ttpm.com/toys/">Toy Reviews</a></h3><p>
-                        <a href="http://ttpm.com/c/1/action-figures/">Action Figures</a>, 
-                
-                        <a href="http://ttpm.com/c/3/activity-toys/">Activity Toys</a>, 
-                
-                        <a href="http://ttpm.com/c/116/app-accessories-for-kids/">App Accessories for Kids</a>, 
-                
-                        <a href="http://ttpm.com/c/92/app-toys/">App Toys</a>, 
-                
-                        <a href="http://ttpm.com/c/4/arts-and-crafts/">Arts &amp; Crafts</a>, 
-                
-                        <a href="http://ttpm.com/c/61/back-to-school/">Back to School</a>, 
-                
-                        <a href="http://ttpm.com/c/121/english-spanish-bilingual-toys/">English-Spanish Bilingual Toys</a>, 
-                
-                        <a href="http://ttpm.com/c/181/birthday-party-activities/">Birthday Party Activities</a>, 
-                
-                        <a href="http://ttpm.com/c/6/boys-toys/">Boys Toys</a>, 
-                
-                        <a href="http://ttpm.com/c/35/collectible-toys/">Collectible Toys</a>, 
-                
-                        <a href="http://ttpm.com/c/7/construction-toys/">Construction Toys</a>, 
-                
-                        <a href="http://ttpm.com/c/8/dolls/">Dolls</a>, 
-                
-                        <a href="http://ttpm.com/c/9/dress-up-toys/">Dress Up Toys</a>, 
-                
-                        <a href="http://ttpm.com/c/96/eco-friendly-toys/">Eco-Friendly Toys</a>, 
-                
-                        <a href="http://ttpm.com/c/10/educational-toys/">Educational Toys</a>, 
-                
-                        <a href="http://ttpm.com/c/11/games/">Games</a>, 
-                
-                        <a href="http://ttpm.com/c/15/girls-toys/">Girls Toys</a>, 
-                
-                        <a href="http://ttpm.com/c/36/goody-bags-items/">Goody Bags Items</a>, 
-                
-                        <a href="http://ttpm.com/c/240/kids-rooms/">Kids' Rooms</a>, 
-                
-                        <a href="http://ttpm.com/c/69/music-toys/">Music Toys</a>, 
-                
-                        <a href="http://ttpm.com/c/18/outdoor-toys/">Outdoor Toys</a>, 
-                
-                        <a href="http://ttpm.com/c/46/pool-toys/">Pool Toys</a>, 
-                
-                        <a href="http://ttpm.com/c/104/pop-culture-collectibles/">Pop Culture &amp; Collectibles</a>, 
-                
-                        <a href="http://ttpm.com/c/20/preschool-toys/">Preschool Toys</a>, 
-                
-                        <a href="http://ttpm.com/c/70/puppets/">Puppets</a>, 
-                
-                        <a href="http://ttpm.com/c/21/puzzles/">Puzzles</a>, 
-                
-                        <a href="http://ttpm.com/c/22/radio-control-toys/">Radio Control Toys</a>, 
-                
-                        <a href="http://ttpm.com/c/23/riding-toys/">Riding Toys</a>, 
-                
-                        <a href="http://ttpm.com/c/24/role-play-toys/">Role Play Toys</a>, 
-                
-                        <a href="http://ttpm.com/c/25/science-toys/">Science Toys</a>, 
-                
-                        <a href="http://ttpm.com/c/200/seasonal-toys/">Seasonal Toys</a>, 
-                
-                        <a href="http://ttpm.com/c/72/special-needs/">Special Needs</a>, 
-                
-                        <a href="http://ttpm.com/c/27/sports-toys/">Sports Toys</a>, 
-                
-                        <a href="http://ttpm.com/c/28/stuffed-animals/">Stuffed Animals</a>, 
-                
-                        <a href="http://ttpm.com/c/29/tech-toys/">Tech Toys</a>, 
-                
-                        <a href="http://ttpm.com/c/42/toy-cars/">Toy Cars</a>, 
-                
-                        <a href="http://ttpm.com/c/44/toy-trains/">Toy Trains</a>, 
-                
-                        <a href="http://ttpm.com/c/43/toy-trucks/">Toy Trucks</a>, 
-                
-                        <a href="http://ttpm.com/c/60/travel-toys/">Travel Toys</a>, 
-                
-                        <a href="http://ttpm.com/c/45/water-toys/">Water Toys</a>
-                </p><h3><a href="http://ttpm.com/baby/">Baby Product Reviews</a></h3><p>
-                        <a href="http://ttpm.com/c/99/all-baby-products/">All Baby Products</a>, 
-                
-                        <a href="http://ttpm.com/c/171/baby-gear/">Baby Gear</a>, 
-                
-                        <a href="http://ttpm.com/c/16/baby-toys/">Baby Toys</a>, 
-                
-                        <a href="http://ttpm.com/c/107/baby-bed-bath/">Baby Bed &amp; Bath</a>, 
-                
-                        <a href="http://ttpm.com/c/142/rattles-teethers/">Rattles &amp; Teethers</a>, 
-                
-                        <a href="http://ttpm.com/c/106/strollers-and-carriers/">Strollers and Carriers</a>
-                </p><h3><a href="http://ttpm.com/videogames/">Video Game Reviews</a></h3><p>
-                        <a href="http://ttpm.com/c/30/all-childrens-video-games/">All Children's Video Games</a>, 
-                
-                        <a href="http://ttpm.com/c/117/all-ages-video-games/">All Ages Video Games</a>, 
-                
-                        <a href="http://ttpm.com/c/144/multi-player-games/">Multi-Player Games</a>, 
-                
-                        <a href="http://ttpm.com/c/148/non-competitive-games/">Non-Competitive Games</a>, 
-                
-                        <a href="http://ttpm.com/c/145/party-games/">Party Games</a>, 
-                
-                        <a href="http://ttpm.com/c/147/physically-active-games/">Physically Active Games</a>, 
-                
-                        <a href="http://ttpm.com/c/146/puzzle-solving-games/">Puzzle-Solving Games</a>, 
-                
-                        <a href="http://ttpm.com/c/143/single-player-games/">Single-Player Games</a>, 
-                
-                        <a href="http://ttpm.com/c/118/teen-and-up-video-games/">Teen and Up Video Games</a>
-                </p><h3><a href="http://ttpm.com/sportinggoods/">Sporting Goods Reviews</a></h3><p>
-                        <a href="http://ttpm.com/c/103/all-sporting-goods/">All Sporting Goods</a>, 
-                
-                        <a href="http://ttpm.com/c/206/baseball/">Baseball</a>, 
-                
-                        <a href="http://ttpm.com/c/208/basketball/">Basketball</a>, 
-                
-                        <a href="http://ttpm.com/c/213/fishing/">Fishing</a>, 
-                
-                        <a href="http://ttpm.com/c/207/football/">Football</a>, 
-                
-                        <a href="http://ttpm.com/c/212/golf/">Golf</a>, 
-                
-                        <a href="http://ttpm.com/c/205/soccer/">Soccer</a>, 
-                
-                        <a href="http://ttpm.com/c/209/tennis/">Tennis</a>, 
-                
-                        <a href="http://ttpm.com/c/211/volleyball/">Volleyball</a>
-                </p><h3><a href="http://ttpm.com/pets/">Pet Toy Reviews</a></h3><p>
-                        <a href="http://ttpm.com/c/231/all-pet-toys/">All Pet Toys</a>, 
-                
-                        <a href="http://ttpm.com/c/230/cat-toys/">Cat Toys</a>, 
-                
-                        <a href="http://ttpm.com/c/229/dog-toys/">Dog Toys</a>
-                </p><h3><a href="http://ttpm.com/kidselectronics/">Kids Electronics Reviews</a></h3><p>
-                        <a href="http://ttpm.com/c/17/all-kids-electronics/">All Kids Electronics</a>, 
-                
-                        <a href="http://ttpm.com/c/68/apps-for-kids/">Apps for Kids</a>, 
-                
-                        <a href="http://ttpm.com/c/115/educational-apps-for-kids/">Educational Apps for Kids</a>, 
-                
-                        <a href="http://ttpm.com/c/214/kids-audio/">Kids Audio</a>, 
-                
-                        <a href="http://ttpm.com/c/135/tablets-for-kids/">Tablets for Kids</a>
-                </p><h3><a href="http://ttpm.com/books/">Book Reviews</a></h3><p>
-                        <a href="http://ttpm.com/c/5/all-childrens-book-reviews/">All Children's Book Reviews</a>, 
-                
-                        <a href="http://ttpm.com/c/173/activity-books/">Activity Books</a>, 
-                
-                        <a href="http://ttpm.com/c/172/board-books/">Board Books</a>, 
-                
-                        <a href="http://ttpm.com/c/170/chapter-books/">Chapter Books</a>, 
-                
-                        <a href="http://ttpm.com/c/169/picture-books/">Picture Books</a>, 
-                
-                        <a href="http://ttpm.com/c/137/popular-character-books/">Popular Character Books</a>
-                </p><h3><a href="http://ttpm.com/movies/">Movie Reviews</a></h3><p>
-                        <a href="http://ttpm.com/c/232/the-amazing-spider-man-2/">The Amazing Spider-Man 2</a>, 
-                
-                        <a href="http://ttpm.com/c/225/captain-america:-the-winter-soldier/">Captain America: The Winter Soldier</a>, 
-                
-                        <a href="http://ttpm.com/c/165/frozen/">Frozen</a>, 
-                
-                        <a href="http://ttpm.com/c/234/godzilla/">Godzilla</a>, 
-                
-                        <a href="http://ttpm.com/c/250/guardians-of-the-galaxy/">Guardians of the Galaxy</a>, 
-                
-                        <a href="http://ttpm.com/c/239/how-to-train-your-dragon-2/">How to Train Your Dragon 2</a>, 
-                
-                        <a href="http://ttpm.com/c/238/legends-of-oz-dorothys-return/">Legends of Oz: Dorothy's Return</a>, 
-                
-                        <a href="http://ttpm.com/c/242/maleficent/">Maleficent</a>, 
-                
-                        <a href="http://ttpm.com/c/236/mr-peabody-sherman/">Mr. Peabody &amp; Sherman</a>, 
-                
-                        <a href="http://ttpm.com/c/235/muppets-most-wanted/">Muppets Most Wanted</a>, 
-                
-                        <a href="http://ttpm.com/c/243/planes-fire-and-rescue/">Planes: Fire And Rescue</a>, 
-                
-                        <a href="http://ttpm.com/c/237/rio-2/">Rio 2</a>, 
-                
-                        <a href="http://ttpm.com/c/227/robocop/">RoboCop</a>, 
-                
-                        <a href="http://ttpm.com/c/252/teenage-mutant-ninja-turtles/">Teenage Mutant Ninja Turtles</a>, 
-                
-                        <a href="http://ttpm.com/c/233/transformers:-age-of-extinction/">Transformers: Age of Extinction</a>
-                </p>            
         </div>
         
         <div class="section" id="copyright">
@@ -1243,7 +1661,7 @@ $('li').each(function(){
 </div>
 
 <!-- SERVER IP ADDRESS - NEW SERVER
-10.0.1.8-->    
+10.0.2.147-->    
     <!-- *************** star tooltip *************** -->
 
 
@@ -1290,6 +1708,7 @@ $(document).ready(function() {
 	    $('.tooltip').css({"top": y, "left": x});//weird website is weird: body tag starts 120 pixels below the top of the window
 		
 	});  
+	/*
 	$('.star').hover(function(){
 		var tooltipHTML;
 		if($(this).parent(".rating").parent("li").children(".rating_title").text() == "Assembly & Instructions"){ 
@@ -1318,6 +1737,7 @@ $(document).ready(function() {
 	}, function(){
 		$('.tooltip').remove();
 	});
+	*/
 });
 </script>
 
@@ -1356,7 +1776,9 @@ qacct:"p-rCwDpveygV1uQ"
 </script>
 <!-- *************** End Google Analytics Facebook Like Tracker *************** -->
 
-
+<!--- Social buttons -->
+<script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>
+<script type="text/javascript">stLight.options({publisher: "806a6eeb-1774-46b4-8da3-0d125caab69c", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>
 
 <!-- *************** External Link Icons *************** -->
 <script>
