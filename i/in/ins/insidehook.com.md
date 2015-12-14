@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the insidehook.com privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628215637id_/http%3A//www.insidehook.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insidehook.com privacy policy that was archived on 2015-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151214174046id_/http%3A//www.insidehook.com/privacy-policy) for the most accurate reproduction.*
 
 # InsideHook | Travel, News, Health & Fashion for Men in New York, LA, SF, Chicago & the Nation
 
@@ -37,3 +37,26 @@ Escapist Media Inc., the owner of InsideHook, appreciates your trust in letting 
 **Contact Us:** If you have any questions about this policy or our site in general, please contact [contact@insidehook.com  
 ](mailto:contact@insidehook.com)  
 **Effective Date:** February 15, 2012
+
+## Join Us.
+
+### Live a more interesting life.
+
+#### Sign up to get the best of InsideHook   
+delivered straight to your inbox every weekday.
+
+×
+
+## Manage this.
+
+#### Enter your email to access member services 
+
+×
+
+### Thank You 
+
+### Welcome to the FAM 
+
+You've successfully subscribed to the New York edition of InsideHook. Perhaps you want more? 
+
+×
