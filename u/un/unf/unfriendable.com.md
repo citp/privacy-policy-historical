@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the unfriendable.com privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702152245id_/http%3A//www.unfriendable.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unfriendable.com privacy policy that was archived on 2015-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151214165443id_/http%3A//www.unfriendable.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - Public Displays of Fail - Unfriendable
 
