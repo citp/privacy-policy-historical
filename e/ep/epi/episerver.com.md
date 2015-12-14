@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the episerver.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623104322id_/http%3A//www.episerver.com/legal/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the episerver.com privacy policy that was archived on 2015-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151214191726id_/http%3A//www.episerver.com/legal/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement - EPiServer
 
@@ -24,7 +24,7 @@ A cookie is a small text file that visited websites save on your computer. Cooki
 
 Name | Domain | Purpose  
 ---|---|---  
-EPiServer.CMO.LPO | [www.episerver.com](http://www.episerver.com/) | Visitor behaviour and navigation for [EPiServer CMO](https://web.archive.org/add-on-store/EPiServer-CMO/)  
+EPiServer.CMO.LPO | [www.episerver.com](http://www.episerver.com/) | Visitor behaviour and navigation for [EPiServer CMO](https://web.archive.org/add-on-store/Episerver-CMO/)  
 ASP.NET_SessionId | [www.episerver.com](http://www.episerver.com/) | This session cookie is essential for the website to operate and is set upon your arrival to the site. This cookie is deleted when you close the browser.  
 BIGipServerwww.episerver.com  
 _HTTP_Pool | [www.episerver.com](http://www.episerver.com/) | Used for load balancing purposes.  
@@ -66,7 +66,7 @@ Google can transfer the collected information to a third party if it is required
 
 ### EPiServer CMO
 
-To be able to optimize the content of the website we are using [EPiServer CMO](https://web.archive.org/add-on-store/EPiServer-CMO/) for campaign handling and optimization. EPiServer CMO collect information in an anonymous form (aggregated) about how visitors use the website, for example, the number of page views, how visitors have arrived at the website, and the number of visits.
+To be able to optimize the content of the website we are using [EPiServer CMO](https://web.archive.org/add-on-store/Episerver-CMO/) for campaign handling and optimization. EPiServer CMO collect information in an anonymous form (aggregated) about how visitors use the website, for example, the number of page views, how visitors have arrived at the website, and the number of visits.
 
 ## Changes to this Privacy Statement
 
