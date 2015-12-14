@@ -1,87 +1,70 @@
-> *The following text is extracted and transformed from the indiainfoline.com privacy policy that was archived on 2010-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100618064718id_/http%3A//www.indiainfoline.com/PrivacyPolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indiainfoline.com privacy policy that was archived on 2015-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151214192910id_/http%3A//www.indiainfoline.com/PrivacyPolicy) for the most accurate reproduction.*
 
-# Privacy Policy >> Indiainfoline.com
+# Disclaimer >> Indiainfoline.com
 
-**Privacy Policy**  
-  
-Our business has been built on trust between our customers and ourselves. To preserve the confidentiality of all information you provide to us, we maintain the following privacy principles:  
-  
-1\. We only collect personal information that we believe to be relevant and required to understand your financial needs and to conduct our business.   
-  
-2\. We use your personal information to provide you with better customer services and products.   
-  
-3\. We may pass your personal information to other Group companies or agents, as permitted by law.   
-  
-4\. We will not disclose your personal information to any external organization unless we have your consent or are required by law or have previously informed you.   
-  
-5\. We may be required from time to time to disclose your personal information to Governmental or judicial bodies or agencies or our regulators, but we will only do so under proper authority.   
-  
-6\. We aim to keep your personal information on our records accurate and up-to-date.  
-  
-7\. We maintain strict security systems designed to prevent unauthorized access to your personal information by anyone, including our staff.  
-  
-8\. All Group companies, all our staff and all third parties with permitted access to your information are specifically required to observe our confidentiality obligations.  
-  
-By maintaining our commitment to these principles, we at India Infoline will ensure that we respect the inherent trust that you place in us.  
-  
-**Your privacy matters to us**  
-  
-This section provides specific details of how we treat any personal information you might wish to provide us when you visit this site.  
-  
-**Data Security**  
-* Security is our top priority. India Infoline will strive at all times to ensure that your personal data will be protected against unauthorized or accidental access, processing or erasure. We maintain this commitment to data security by implementing appropriate physical, electronic and managerial measures to safeguard and secure your personal data.  
-  
-* Our web servers are protected behind "firewalls" and our systems are monitored to prevent any unauthorized access. We will not send personal information to you by ordinary email. As the security of ordinary email cannot be guaranteed, you should only send email to us using the secure email facility on our website. All practical steps will be taken to ensure that personal data will not be kept longer than necessary and that the India Infoline will comply with all statutory and regulatory requirements concerning the retention of personally identifiable information.  
-  
-**Collection of Personal Information**  
-* **Use of "cookies".**  
-Your visit to this site may be recorded for analysis on the number of visitors to the site and general usage patterns. Some of this information will be gathered through the use of "cookies". Cookies are small bits of information that are automatically stored on a person's web browser in their computer that can be retrieved by this site. Should you wish to disable these cookies you may do so by changing the setting on your browser.  
-  
-* **Marketing Promotions Occasionally.**  
-We may collect personal information from visitors to this site and those individuals that participate in a contest or promotion (online or over the telephone, or at one of our branches). Such information is only collected from individuals who voluntarily provide us with their personal information. We may use this information to advise them of products, services and other marketing materials, which we think, may be of interest to them. We may also invite visitors to this site to participate in market research and surveys and other similar activities.   
-  
-If we do ask you to provide personal information, we will always specify the purpose for which such personal information is collected and ensure that it is only used for the purpose specified at the time of collection.   
-  
-**Our Information Collection Statement**  
-  
-The Statement is intended to notify you why personal data is collected, how it will be used and to whom data access requests are to be addressed.   
-  
-**a.** Why we collect your data - we collect your personal information to carry out and administer our services to you and in an effort to improve your customer experience. Without such data India Infoline may be unable to open or continue accounts or establish or continue lending facilities or provide lending services.  
-  
-**b.** Data is also collected from customers in the ordinary course of business to continue the relationship, for example, when customers write cheques   
-  
-**c.** How your data may be used - Data relating to a customer may be used to:   
-  
-I. Facilitate the daily operation of the services and credit facilities provided to customers;   
-  
-II. Conduct credit checks;   
-  
-III. Assist other financial institutions to conduct credit checks and collect debts;   
-  
-IV. Ensure ongoing credit worthiness of customers;   
-  
-V. Design financial services or related products for customers' use;   
-  
-VI. Market financial services or related products;   
-  
-VII. Determine the amount of indebtedness owed to or by customers;   
-  
-VIII. collect amounts outstanding from customers and those providing security for customers' obligations;   
-  
-IX. Meet the disclosure requirements of any law binding on India Infoline or any of its branches;   
-  
-X. Enable an actual or proposed assignee of India Infoline, or participant or sub-participant of the India Infoline’s rights in respect of the customer to evaluate the transaction intended to be the subject of the assignment, participation or sub-participation to fulfill any other purposes relating thereto.   
-  
-**d.** Disclosure of your personal information - Information held by India Infoline relating to a customer will be kept confidential but India Infoline may provide such information to the following parties for the purposes set out in paragraph (c):   
-  
-I. Any agent, contractor or third party service provider who provides administrative, telecommunications, computer, payment or securities clearing or other services to India Infoline in connection with the operation of its business;   
-  
-II. Any other person under a duty of confidentiality to India Infoline including a group company which has undertaken to keep such information confidential;   
-  
-III. The drawee bank providing a copy of a paid cheque (which may contain information about the payee) to the drawer;   
-  
-IV. Any person to whom India Infoline is under an obligation to make disclosure under the requirements of any law binding on India Infoline or any of its branches and   
-  
-V. Any actual or proposed assignee of India Infoline or participant or sub-participant or transferee of the India Infoline's rights in respect of the customer.   
-  
-**e.** India Infoline retains the right to charge a reasonable fee for the processing of any data access request.
+Privacy Policy
+
+Welcome to India Infoline Limited. The domain name www.indiainfoline.com (hereinafter referred to as "Website") is owned by India Infoline Ltd a company incorporated under the Companies Act, 1956 with its registered office at IIFL House, Sun Infotech Park, Road No 16V and Plot No. B 23, MIDC, Thane Industrial Area, Wagle Estate, Thane -400 604 (hereinafter referred to as “IIFL”).
+
+For the purpose of this Privacy Policy, wherever the context so requires the term "You" or "User" shall mean any natural or legal person including Online and offline clients and the term "We", "Us", "Our" shall mean India Infoline Limited.
+
+We at IIFL respect the privacy of everyone who visits this website and are committed to maintaining the privacy and security of the personal information of all visitors to this Website.
+
+We view protection of your privacy as a very important principle. We understand clearly that You and Your Personal Information is one of our most important assets. We store and process Your Information including any sensitive financial information collected (as defined under the Information Technology Act, 2000), if any, on computers that may be protected by physical as well as reasonable technological security measures and procedures in accordance with Information Technology Act 2000 and Rules there under. If You object to Your Information being transferred or used in this way, please do not provide the details of your information on the Website.
+
+We and our affiliates will share/sell/transfer / license / convey some or all of your personal information with another business entity to carry out any business activity or re-organization, amalgamation, restructuring of business or for any other reason whatsoever. Once you provide your information to us, you provide such information to us and our affiliate and we and our affiliate may use such information to provide you various services with respect to your transaction conducted on www.indiainfoline.com.
+
+Our policy on the collection and use of personal information and other information is outlined below.
+
+Collection of Sensitive Personal Data or Information
+
+IIFL may for the purpose of rendering its services, collect personal information such as:
+
+  * name, gender, residential / correspondence address, telephone number, date of birth, marital status, email address or other contact information;
+  * PAN, KYC Status, Signature and Photograph;
+  * Bank account or other payment instrument details;
+  * any other detail for providing services
+
+
+
+IIFL offers online platform System for carrying out trade transaction that collects such personal data or information to process your financial and non financial transaction requests. The information so collected may be shared with SEBI/ NSE/ BSE/ MCX /Asset Management Companies of Mutual Funds / Registrar and transfer Agents / Collecting Banks / KYC Registration Agencies (KRAs) etc. solely for the purpose of processing your transaction requests or serving you better.
+
+IIFL or its authorized agents shall not retain or store that information for longer than is required for the purposes except when the information may lawfully be used or is otherwise required under any other law for the time being in force.
+
+The information collected shall be used for the purpose for which it has been collected.
+
+By agreeing to avail the service offered by IIFL you have agreed to the collection and use of your Sensitive Personal Data or Information by IIFL. You always have the right to refuse or withdraw your consent to share/dissemination of your Sensitive Personal Data or Information by contacting the customer care. However, in such an event, you would no longer avail the services of IIFL.
+
+Communications
+
+When You use the Website or send emails or other data, information or communication to us, You agree and understand that You are communicating with Us through electronic records and You consent to receive communications via electronic records from Us periodically and as and when required. We may communicate with you by email or by such other mode of communication, electronic or otherwise.
+
+Log File Information Collected and Stored Automatically
+
+If you visit/ log into our website just to browse, read pages or download information, we gather and store certain information about your visit automatically. This information cannot and does not identify you personally.
+
+When you register with or view our site, our servers automatically record certain information that your web browser sends whenever you visit our website. The kind of information that is gathered automatically include the type of browser you are using (e.g. Internet Explorer, Firefox, etc.), the type of Operating System you are using (e.g. Windows or Mac OS) and the domain name of your Internet Service Provider, the date and time of your visit and the pages on our website. We sometimes use this information to improve our website(s) design, content and primarily to give you a better browsing experience.
+
+This notice / policy is not intended to and do not create any contractual or other legal rights in favour of any user or viewer of www.indiainfoline.com or on behalf of any other party. However, users and viewers are informed that by using the website www.indiainfoline.com, they are deemed to have consented to the collection and use of information by IIFL as stated above.
+
+Updating or Reviewing Your Sensitive Personal Data or Information
+
+You may upon written request to us review the sensitive personal data or information provided. IIFL shall ensure that any personal information or sensitive personal data or information found to be inaccurate or deficient shall be corrected or amended as feasible.
+
+Reasonable Security Practices for Protecting Information
+
+IIFL uses commercially reasonable physical, managerial, and technical safeguards to preserve the integrity and security of your personal information. IIFL cannot, however, ensure or warrant the security of any information you transmit to IIFL and you do so at your own risk. Once we receive your transmission of information, IIFL makes commercially reasonable efforts to ensure the security of our systems. However, please note that this is not a guarantee that such information may not be accessed, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards.
+
+To protect your privacy and security, IIFL take reasonable steps (such as requesting a unique password) to verify your identity before granting you access to your account. You are responsible for maintaining the secrecy of your unique password and account information, and for controlling access to your email communications from IIFL, at all times.
+
+Links to Other Web Sites
+
+Our website sometimes has links to other website(s) in the World Wide Web. The privacy policies of these website(s) are not under our control. Once you leave our servers, use of any information you provide is governed by the privacy policy of the operator of the site you are visiting. It is advisable to read their privacy policies for further information. Your browsing and interaction on any other Web site, including those that have a link on our Web site, is subject to that Web site's own rules and policies. It is advisable to read their privacy policies for further information.
+
+Notification Procedures
+
+IIFL provide notifications, whether such notifications are required by law or are for marketing or other business related purposes, to you via email notice, written or hard copy notice, or through conspicuous posting of such notice on our Website page, as determined by IIFL in its sole discretion. IIFL reserve the right to determine the form and means of providing notifications to you, provided that you may opt out of certain means of notification as described in this Privacy Policy.
+
+Changes to Our Privacy Policy
+
+Please note that this policy may change from time to time. If IIFL change its privacy policies and procedures, IIFL will post those changes on IIFL website to keep you/users aware of what information IIFL collect, how IIFL use it and under what circumstances IIFL may disclose it. Changes to this Privacy Policy are effective when they are posted on this page. Please visit our website to keep yourself abreast of any changes to this policy.
