@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trailspace.com privacy policy that was archived on 2015-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150613231805id_/http%3A//www.trailspace.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trailspace.com privacy policy that was archived on 2015-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151214145912id_/http%3A//www.trailspace.com/about/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Trailspace.com
 
