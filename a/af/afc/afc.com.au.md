@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the afc.com.au privacy policy that was archived on 2014-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140609230714id_/http%3A//www.afc.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the afc.com.au privacy policy that was archived on 2015-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151214112230id_/http%3A//www.afc.com.au/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - AFC.com.au
+
+## AFL and AFL Club Privacy Policy
 
 **1\. Protecting Privacy**
 
@@ -32,16 +34,11 @@ When you visit and browse AFL Online, our website host and some third party serv
 
 Subject to the terms of this privacy policy, this information is used to administer and improve the performance of AFL Online and will not be used to identify you. The information may include:
 
-  * the number of users visiting our website and the number of pages viewed;  
-
-  * the date, time and duration of a visit;  
-
-  * visiting patterns of individuals accessing AFL Online;  
-
-  * the IP address of your computer; and  
-
-  * the path taken through our website.  
-
+  * the number of users visiting our website and the number of pages viewed;
+  * the date, time and duration of a visit;
+  * visiting patterns of individuals accessing AFL Online;
+  * the IP address of your computer; and
+  * the path taken through our website.
 
 
 
@@ -55,17 +52,13 @@ Generally, the AFL and the AFL Clubs collect personal information directly from 
 
 your name, address, email address, gender, occupation, contact information and your favourite AFL Club;
 
-  * information about dealings with us and AFL Clubs, including membership history, and subscriptions for AFL services;  
-
-  * your AFL game attendance history where you purchase a ticket or use your AFL or AFL Club membership to obtain entry into a venue;  
-
-  * your IP address and geolocation; and  
-
+  * information about dealings with us and AFL Clubs, including membership history, and subscriptions for AFL services;
+  * your AFL game attendance history where you purchase a ticket or use your AFL or AFL Club membership to obtain entry into a venue;
+  * your IP address and geolocation; and
   * information derived from the use of "cookies".
 
 
 
-  
 In addition, you may also provide to us and we may collect and hold additional personal information, such as:
 
   * your credit card information; and
@@ -95,22 +88,14 @@ You agree to the disclosure and use of such personal information in accordance w
 
 The AFL and AFL Clubs collect, hold, use and disclose your personal information for purposes including, without limitation:
 
-  * to verify your identity;  
-
-  * to improve AFL Online;  
-
-  * to provide, and to assist AFL Clubs with providing products and services to you, to manage and account for the products and services, and to improve the products and services;  
-
-  * to manage AFL and AFL Club's relationship(s) with you;  
-
-  * to provide you with information about events, products and/or services that may interest you;  
-
-  * to facilitate the internal business operations of the AFL and the AFL's Clubs;  
-
-  * to promote and market AFL events, products or services;  
-
-  * to enable corporate partners and sponsors of the AFL, including AFL Clubs and the AFL's digital rights partner Telstra, as well as their related bodies corporate, to market and promote their products and services to you; and  
-
+  * to verify your identity;
+  * to improve AFL Online;
+  * to provide, and to assist AFL Clubs with providing products and services to you, to manage and account for the products and services, and to improve the products and services;
+  * to manage AFL and AFL Club's relationship(s) with you;
+  * to provide you with information about events, products and/or services that may interest you;
+  * to facilitate the internal business operations of the AFL and the AFL's Clubs;
+  * to promote and market AFL events, products or services;
+  * to enable corporate partners and sponsors of the AFL, including AFL Clubs and the AFL's digital rights partner Telstra, as well as their related bodies corporate, to market and promote their products and services to you; and
   * to our third party service providers in connection with any of the above.
 
 
@@ -119,7 +104,7 @@ The AFL and AFL Clubs may also disclose personal information where it is otherwi
 
 Where you provide your personal information directly to one AFL Club, although it may be disclosed to the AFL, that personal information will not ordinarily be shared with a different AFL Club. However, there may be some circumstances where this personal information is shared between AFL Clubs. For example, if in a transaction you purchase merchandise relating to two AFL Clubs, that transaction may be disclosed to both AFL Clubs.
 
-You consent to the AFL and AFL Clubs using your personal Information for sending you information, including promotional material, about the AFL or AFL Clubs, or AFL's or AFL Clubs' products and services, as well as the products and services of third parties, now and in the future. You also consent to us sending you such information by means of direct mail, email, SMS and MMS messages. You can contact us using the contact details specified in paragraph 9 if you do not want to receive marketing information from us.
+You consent to the AFL and AFL Clubs using your personal Information for sending you information, including promotional material, about the AFL or AFL Clubs, or AFL's or AFL Clubs' products and services, as well as the products and services of third parties, now and in the future. You also consent to us contacting you with such information by means of direct mail, email, SMS and MMS messages and via telephone. You can contact us using the contact details specified in paragraph 9 if you do not want to receive marketing information from us.
 
 The AFL and AFL Clubs do not otherwise disclose personal information without your permission, unless the disclosure is:
 
@@ -147,20 +132,20 @@ by contacting the AFL at [privacy.officer@afl.com.au](mailto:privacy.officer@afl
 
 **Club** | **Contact**  
 ---|---  
-Adelaide Football Club | [privacy.officer@afc.com.au ](mailto:privacy.officer@afc.com.au)__  
-Brisbane Lions Football Club | [privacy@lions.com.au](mailto:privacy@lions.com.au) __  
-Essendon Football Club | [privacy.officer@essendonfc.com.au](mailto:privacy@essendonfc.com.au) __  
-Carlton Football Club | [privacy.officer@carltonfc.com.au](mailto:privacy.officer@carltonfc.com.au) __  
-Collingwood Football Club | [privacy.officer@collingwoodfc.com.au](mailto:privacy.officer@collingwoodfc.com.au) __  
-Fremantle Football Club | [privacy.officer@fremantlefc.com.au](mailto:privacy.officer@fremantlefc.com.au) __  
-Geelong Football Club | [privacy.officer@geelongcats.com.au ](mailto:privacy.officer@geelongcats.com.au)__  
-Gold Coast Suns Football Club | [privacy.officer@goldcoastfc.com.au](mailto:privacy.officer@goldcoastfc.com.au) __  
-Western Sydney Football Club | [privacy.officer@gwsgiants.com.au ](mailto:privacy.officer@gwsgiants.com.au)__  
+Adelaide Football Club | [privacy.officer@afc.com.au ](mailto:privacy.officer@afc.com.au)  
+Brisbane Lions Football Club | [privacy@lions.com.au](mailto:privacy@lions.com.au)  
+Essendon Football Club | [privacy.officer@essendonfc.com.au](mailto:privacy@essendonfc.com.au)  
+Carlton Football Club | [privacy.officer@carltonfc.com.au](mailto:privacy.officer@carltonfc.com.au)  
+Collingwood Football Club | [privacy.officer@collingwoodfc.com.au](mailto:privacy.officer@collingwoodfc.com.au)  
+Fremantle Football Club | [privacy.officer@fremantlefc.com.au](mailto:privacy.officer@fremantlefc.com.au)  
+Geelong Football Club | [privacy.officer@geelongcats.com.au ](mailto:privacy.officer@geelongcats.com.au)  
+Gold Coast Suns Football Club | [privacy.officer@goldcoastfc.com.au](mailto:privacy.officer@goldcoastfc.com.au)  
+Western Sydney Football Club | [privacy.officer@gwsgiants.com.au ](mailto:privacy.officer@gwsgiants.com.au)  
 Hawthorn Football Club Limited | [privacy.officer@hawthornfc.com.au](mailto:privacy.officer@hawthornfc.com.au)  
 Melbourne Football Club | [privacy.officer@afl.com.au](mailto:privacy.officer@afl.com.au)  
 North Melbourne Football Club | [privacy.officer@nmfc.com.au](mailto:privacy.officer@nmfc.com.au)  
 Port Adelaide Football Club | [privacy.officer@afl.com.au](mailto:privacy.officer@afl.com.au)  
-Richmond Football Club | [privacy.officer@richmondfc.com.au](mailto:privacy.officer@richmondfc.com.au) __  
+Richmond Football Club | [privacy.officer@richmondfc.com.au](mailto:privacy.officer@richmondfc.com.au)  
 St Kilda Saints Football Club | [privacy.officer@afl.com.au](mailto:privacy.officer@afl.com.au)  
 Sydney Swans Football Club | [enquiries@sydneyswans.com.au](mailto:enquiries@sydneyswans.com.au)  
 West Coast Eagles Football Club | [privacy.officer@westcoasteagles.com.au](mailto:privacy.officer@westcoasteagles.com.au)  
@@ -200,14 +185,10 @@ For the purpose of this policy, "AFL Clubs" means each of the following:
   * Melbourne Football Club Limited ACN 005 686 902;
   * North Melbourne Football Club Limited ACN 006 468 962;
   * Port Adelaide Football Club Limited ACN 068 839 547;
-  * Richmond Football Club Limited ACN 065 563 011;  
-
-  * St Kilda Saints Football Club Limited ACN 005 174 836;  
-
-  * Sydney Swans Limited ACN 063 349 708;  
-
-  * West Coast Eagles a division of Indian Pacific Ltd ACN 009 178 894; and  
-
+  * Richmond Football Club Limited ACN 065 563 011;
+  * St Kilda Saints Football Club Limited ACN 005 174 836;
+  * Sydney Swans Limited ACN 063 349 708;
+  * West Coast Eagles a division of Indian Pacific Ltd ACN 009 178 894; and
   * Footscray Football Club Limited t/a Western Bulldogs ACN 005 226 595
 
 
