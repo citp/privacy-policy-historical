@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ucoz.com privacy policy that was archived on 2015-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150601152959id_/http%3A//www.ucoz.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ucoz.com privacy policy that was archived on 2015-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151214224742id_/http%3A//www.ucoz.com/privacy) for the most accurate reproduction.*
 
-# uCoz - Login to the System
+# uCoz - Privacy Policy
 
   
 This site is owned and operated by uCoz Company. Your privacy on the Internet is of the utmost importance to us, because we want to make your experience online satisfying and safe. 
