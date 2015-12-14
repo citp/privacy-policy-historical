@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the foodviva.com privacy policy that was archived on 2012-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120928023120id_/http%3A//foodviva.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foodviva.com privacy policy that was archived on 2015-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151214163811id_/http%3A//foodviva.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy -
 
 **Foodviva.com** is committed to maintain and protect your privacy. This policy aims to explain you what information we require, how it is protected, how we use it and with whom it is shared in order to provide you an effective and satisfactory service. By using our service, you agree to the terms of this Privacy Policy. **What information do we collect?**
 
   *  **Foodviva.com** collects information from you when you register on the site, place an order, enter a contest or sweepstakes, respond to a survey or communication such as e-mail, register for news letter or participate in another site feature.
-  * When ordering or registering,  **Foodviva.com** may ask you for your name, e-mail address, mailing address, phone number or other information. You may, however, visit our site anonymously.
+  * When ordering or registering, **Foodviva.com** may ask you for your name, e-mail address, mailing address, phone number or other information. You may, however, visit our site anonymously.
   *  **Foodviva.com** also collects information about gift recipients so that we can fulfill the gift purchase. The information we collect about gift recipients is not used for marketing purposes.
-  * Like many websites,  **Foodviva.com** uses “cookies” to enhance your experience and gather information about visitors and visits to our websites. Please refer to the “Do we use ‘cookies’?” section below for information about cookies and how we use them.
+  * Like many websites, **Foodviva.com** uses “cookies” to enhance your experience and gather information about visitors and visits to our websites. Please refer to the “Do we use ‘cookies’?” section below for information about cookies and how we use them.
 
 
 
@@ -25,22 +25,35 @@
 
  **Do we use “cookies”?** Yes. Cookies are small files that a site or its service provider transfers to your computer’s hard drive through your Web browser (if you allow) that enables the site’s or service provider’s systems to recognize your browser and capture and remember certain information. For instance, we use cookies to help us remember and process the items in your shopping cart. They are also used to help us understand your preferences based on previous or current site activity, which enables us to provide you with improved services. We also use cookies to help us compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business.
 
-We also use third party advertisements on Foodviva.com to support our site.  Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site, which will also send these advertisers (such as Google through the Google AdSense program) information including your IP address, your ISP, the browser you used to visit our site, and in some cases, whether you have Flash installed.  This is generally used for geotargeting purposes (showing New York real estate ads to someone in New York, for example) or showing certain ads based on specific sites visited (such as showing cooking ads to someone who frequents cooking sites). Google may use and disclose this data subject to the terms of [Google’s advertising privacy policies](http://www.google.com/intl/en/privacy/ads/privacy-policy.html) and any applicable laws, rules and regulations
+  * We also use third party and Google advertisements on Foodviva.com to support our site.
+
+  * Third party vendors, including Google, use cookies to serve ads based on a user’s prior visits to your website.
+
+  * Google’s use of the DoubleClick cookie enables it and its partners to serve ads to you based on your visit to foodviva.com and/or other sites on the Internet.
+
+  * You may opt out of the use of the DoubleClick cookie for interest-based advertising by visiting [Ads Settings.](http://www.google.com/ads/preferences/) (Alternatively, you can also opt out of a third-party vendor’s use of cookies for interest based advertising by visiting [aboutads.info.](http://www.aboutads.info/)
+
+  * The cookies of other third-party vendors or ad networks may also be used to serve ads on foodviva.com. To see the complete list of third party vendors please [click here.](https://docs.google.com/spreadsheet/pub?key=0AvJCQ77K4A0xdFZodUs1c0p4UnkxXzQ5eGs1ZHA4dHc&output=html)
+
+  * You may visit websites listed in [this document](https://docs.google.com/spreadsheet/pub?key=0AvJCQ77K4A0xdFZodUs1c0p4UnkxXzQ5eGs1ZHA4dHc&output=html) to opt out of the use of cookies for interest-based advertising. Alternatively, you can visit [aboutads.info](http://www.aboutads.info/) to opt out of some third-party vendor’s use of cookies for interest-based advertising.
+
+
+
 
 You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser (like Netscape Navigator or Internet Explorer) settings. Each browser is a little different, so look at your browser Help menu to learn the correct way to modify your cookies. If you turn cookies off, you won’t have access to many features that make your site experience more efficient and some of our services will not function properly. However, you can still place orders over the telephone by contacting customer service.
 
- **Do we disclose the information we collect to outside parties?** We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information unless we provide you with advance notice, except as described below. The term “outside parties” does not include  **Foodviva.com**. It also does not include website hosting partners and other parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others’ rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+ **Do we disclose the information we collect to outside parties?** We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information unless we provide you with advance notice, except as described below. The term “outside parties” does not include **Foodviva.com**. It also does not include website hosting partners and other parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others’ rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
 
  **How can you opt-out, remove or modify information you have provided to us?** To modify your e-mail subscriptions, please let us know by modifying your preferences in the “My Account” section. Please note that due to email production schedules you may receive any emails already in production. To delete all of your online account information from our database, sign into the “My Account” section of our site and remove your shipping addresses and billing addresses. Please note that we may maintain information about an individual sales transaction in order to service that transaction and for record keeping.
 
  **Third party links:** In an attempt to provide you with increased value, we may include third party links on our site. These linked sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these linked sites (including if a specific link does not work).
 
- **Changes to our policy:** If we decide to change our privacy policy, we will post those changes on this page. Policy changes will apply only to information collected after the date of the change. **This policy was last modified on December 25, 2011.**
+ **Changes to our policy:** If we decide to change our privacy policy, we will post those changes on this page. Policy changes will apply only to information collected after the date of the change. **This policy was last modified on September 21, 2013.**
 
  **Questions and feedback:** We welcome your questions, comments, and concerns about privacy. Please send us any and all feedback pertaining to privacy, or any other issue at [support@foodviva.com](mailto:support@foodviva.com).
 
  **Online Policy Only:** This online privacy policy applies only to information collected through our website and not to information collected offline.
 
- **Terms and Conditions:** Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website.
+ **Terms and Conditions:** Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website.
 
- **Your consent:** By using our site  **Foodviva.com** , you consent to our privacy policy.
+ **Your consent:** By using our site **Foodviva.com** , you consent to our privacy policy.
