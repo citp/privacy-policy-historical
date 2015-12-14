@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the healthambition.com privacy policy that was archived on 2015-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150615003921id_/http%3A//www.healthambition.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthambition.com privacy policy that was archived on 2015-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151214105739id_/http%3A//www.healthambition.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy & Cookie Policy
 
 Health Ambition takes your privacy seriously. This privacy policy describes what personal information we collect and how we use it. See this [privacy policy primer](http://cybec.com/what-is-a-privacy-policy/) to learn more about privacy policies in general.
 
@@ -22,14 +22,10 @@ Note that you can change your browser settings to disable cookies if you have pr
 
 Any advertisements served by Google, Inc., and affiliated companies may be controlled using cookies. These cookies allow Google to display ads based on your visits to this site and other sites that use Google advertising services. Learn how to [opt out of Google’s cookie usage](http://www.google.com/privacy_ads.html). As mentioned above, any tracking done by Google through cookies and other mechanisms is subject to Google’s own privacy policies.
 
-## **Amazon Disclosure**
-
-HealthAmbition.com is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by linking to Amazon.com.
-
 ## Collected contact information
 
 We will not sell or share your personal information with third parties. We will use the information to respond to inquiries. From time to time, we may contact you about new content, products, services or events that are relevant to your interests.
 
 ## Contact Information
 
-Concerns or questions about this privacy policy can be directed to gael@higherclick.com for further clarification.
+Concerns or questions about this privacy policy can be directed to mark@healthambition.com for further clarification.
