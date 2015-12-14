@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the bankofengland.co.uk privacy policy that was archived on 2015-06-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150614001556id_/http%3A//www.bankofengland.co.uk/Pages/PrivacyPolicy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bankofengland.co.uk privacy policy that was archived on 2015-12-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151214170755id_/http%3A//www.bankofengland.co.uk/Pages/PrivacyPolicy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en-us" dir="ltr"><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><meta http-equiv="Expires" content="0"><meta http-equiv="X-UA-Compatible" content="IE=8">        
         <meta name="description" content="">
@@ -12,7 +12,7 @@
 <link rel="stylesheet" type="text/css" href="/Style%20Library/BOECustom/Styles/rte.css">
 <link rel="stylesheet" type="text/css" href="/Style%20Library/BOECustom/Styles/boe_cms_styles_v1.css">
 
-    <script type="text/javascript" async="" src="//statse.webtrendslive.com/dcs222l0kk050ealyvu7jfiin_3p4w/wtid.js?callback=Webtrends.dcss.dcsobj_0.dcsGetIdCallback"></script><script type="text/javascript" src="//web.archive.org/web/20141007095253/http://s.webtrends.com/js/webtrends.yt.js"></script><script type="text/javascript" src="//web.archive.org/web/20141007095253/http://s.webtrends.com/js/webtrends.fb.js"></script><script type="text/javascript" src="//web.archive.org/web/20141007095253/http://s.webtrends.com/js/webtrends.hm.js"></script><script async="" src="/Style Library/BOECustom/Scripts/webtrends.js"></script><script src="//www.youtube.com/iframe_api"></script><script type="text/javascript">
+    <script type="text/javascript" async="" src="//statse.webtrendslive.com/dcs222l0kk050ealyvu7jfiin_3p4w/wtid.js?callback=Webtrends.dcss.dcsobj_0.dcsGetIdCallback"></script><script type="text/javascript" src="//web.archive.org/web/20141007095253/http://s.webtrends.com/js/webtrends.yt.js"></script><script type="text/javascript" src="//web.archive.org/web/20141007095253/http://s.webtrends.com/js/webtrends.fb.js"></script><script type="text/javascript" src="//web.archive.org/web/20141007095253/http://s.webtrends.com/js/webtrends.hm.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-5H35J9"></script><script async="" src="/Style Library/BOECustom/Scripts/webtrends.js"></script><script src="//www.youtube.com/iframe_api"></script><script type="text/javascript">
         var _fV4UI = true;
     </script>
     <script type="text/javascript">
@@ -51,13 +51,32 @@ document.write('<script type="text/javascript" src="/_layouts/blank.js?rev=QGOYA
 			background:transparent none repeat scroll 0 0;
 			margin-left:155px; 
 		}	
+        a.skip-main
+        {
+            position:absolute; 
+            left:-10000px; 
+            top:auto; 
+            width:1px; 
+            height:1px; 
+            overflow:hidden;
+        }
+        .standardFont {
+			font-size: 12px;
+			color: #404041;
+			font-weight: normal;
+		}
+        hr.lineAfterH1 {
+			 border: 0;
+			height: 2px;
+			background: #333;
+		}
 	</style>
     
     <script type="text/javascript">
         function ProcessImn() { }
         function ProcessImnMarkers() { }	
     </script>
-    <script src="/Style Library/BOECustom/Scripts/jquery-1.6.1.min.js" type="text/javascript"></script>
+    <script src="/Style Library/BOECustom/Scripts/jquery-1.6.1.min.js" type="text/javascript"></script>    
     <script src="/Style Library/BOECustom/Scripts/footer.js" type="text/javascript"></script>
     <script src="/Style Library/BOECustom/Scripts/swfobject.js" type="text/javascript"></script>
     <script src="/Style Library/BOECustom/Scripts/jquery.coda-slider-2.0.js" type="text/javascript"></script>
@@ -71,6 +90,67 @@ document.write('<script type="text/javascript" src="/_layouts/blank.js?rev=QGOYA
        tag.src = "//www.youtube.com/iframe_api";
        var firstScriptTag = document.getElementsByTagName('script')[0];
        firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
+
+       $(document).keydown(function (e) {
+                    if (e.which == 9) {							
+				        if ($('#homePageContent').length > 0) {
+				        $('html, body').animate({
+						        scrollTop: $("#homePageContent").offset().top
+					        }, 100);
+				        }
+				        else{
+				        $('html, body').animate({
+						        scrollTop: $("#cms_main_content").offset().top
+					        }, 100);
+				        }	
+                    }
+                });
+
+       function printDiv(divName) {	            
+				 var printContents = $("."+divName).html();
+                 var originalContents = document.body.innerHTML;
+
+                 document.body.innerHTML = printContents;
+				 
+				 $("div.divAllShares_outer").hide();
+				 
+				 $("div").each(function() {
+					$(this).removeClass();
+					$(this).css("height","auto");
+					$(this).addClass("standardFont");
+			     });
+				 
+				 $("a.boenew_morelink").each(function() {
+					$(this).hide();					
+			     });				 
+				 
+				 $("h1").each(function() {
+					$(this).after("<hr class='lineAfterH1'>");
+			     });		
+				 
+				 $("h2").each(function() {
+					$(this).css("padding-top","20px");
+			     });		
+
+				 $("ul").each(function() {
+					//$(this).removeClass();		
+					$(this).css("padding-left","17px");					
+					$(this).addClass("standardFont");
+					//$(this).css("font-size","12px");
+			     });	
+				 
+				 $("li").each(function() {
+					//$(this).removeClass();					
+			     });	
+				 
+				 $("table").each(function() {
+					$(this).css("width","100%");
+			     });
+				 
+                 window.print();
+				 
+                 document.body.innerHTML = originalContents;				                  		 
+            }	
      </script>
     <meta name="WT.cg_n" content="Home">    
     <script src="/Style Library/BOECustom/Scripts/webtrends.load.js" type="text/javascript"></script>
@@ -79,7 +159,7 @@ document.write('<script type="text/javascript" src="/_layouts/blank.js?rev=QGOYA
 
 </title>
 
-    <form name="aspnetForm" method="post" action="/web/20150614001556id_/http%3A//www.bankofengland.co.uk/Pages/PrivacyPolicy.aspx" id="aspnetForm">
+    <form name="aspnetForm" method="post" action="/web/20151214170755id_/http%3A//www.bankofengland.co.uk/Pages/PrivacyPolicy.aspx" id="aspnetForm">
 <input type="hidden" name="MSOWebPartPage_PostbackSource" id="MSOWebPartPage_PostbackSource" value="">
 <input type="hidden" name="MSOTlPn_SelectedWpId" id="MSOTlPn_SelectedWpId" value="">
 <input type="hidden" name="MSOTlPn_View" id="MSOTlPn_View" value="0">
@@ -87,7 +167,7 @@ document.write('<script type="text/javascript" src="/_layouts/blank.js?rev=QGOYA
 <input type="hidden" name="MSOGallery_SelectedLibrary" id="MSOGallery_SelectedLibrary" value="">
 <input type="hidden" name="MSOGallery_FilterString" id="MSOGallery_FilterString" value="">
 <input type="hidden" name="MSOTlPn_Button" id="MSOTlPn_Button" value="none">
-<input type="hidden" name="__REQUESTDIGEST" id="__REQUESTDIGEST" value="0xC92FBCA5826CEF0EC24255B7058CB7422918F206414CB05B49E27DF7CE456718751A2142734B0E120DACBF543C9ABDECD6FA9AED18FB28486709E59A823BADCB,13 Jun 2015 23:31:54 -0000">
+<input type="hidden" name="__REQUESTDIGEST" id="__REQUESTDIGEST" value="0x84F70036C7DB8E4D6E044376FADBE063BAFA9616DAE94EEEE2E9A32364E2B037C3B057F3DB2C510671F9F952D3011A08572EEA2DB5079B46156252D9B20A9603,14 Dec 2015 16:55:23 -0000">
 <input type="hidden" name="ctl00_ScriptManager_HiddenField" id="ctl00_ScriptManager_HiddenField" value="">
 <input type="hidden" name="MSOSPWebPartManager_DisplayModeName" id="MSOSPWebPartManager_DisplayModeName" value="Browse">
 <input type="hidden" name="MSOSPWebPartManager_ExitingDesignMode" id="MSOSPWebPartManager_ExitingDesignMode" value="false">
@@ -99,7 +179,7 @@ document.write('<script type="text/javascript" src="/_layouts/blank.js?rev=QGOYA
 <input type="hidden" name="MSOSPWebPartManager_OldDisplayModeName" id="MSOSPWebPartManager_OldDisplayModeName" value="Browse">
 <input type="hidden" name="MSOSPWebPartManager_StartWebPartEditingName" id="MSOSPWebPartManager_StartWebPartEditingName" value="false">
 <input type="hidden" name="MSOSPWebPartManager_EndWebPartEditing" id="MSOSPWebPartManager_EndWebPartEditing" value="false">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJOTMxNTM3Njk4D2QWAmYPZBYCAgEPZBYEAgEPZBYCAhcPFgIeBFRleHQFJjxNRVRBIG5hbWU9IldULmNnX24iIGNvbnRlbnQ9IkhvbWUiIC8+ZAIDD2QWBgIHD2QWAgIDD2QWBGYPZBYCAgEPFgIeB1Zpc2libGVoFgJmD2QWBAICD2QWBgIBDxYCHwFoZAIDDxYIHhNDbGllbnRPbkNsaWNrU2NyaXB0BXJqYXZhU2NyaXB0OkNvcmVJbnZva2UoJ1Rha2VPZmZsaW5lVG9DbGllbnRSZWFsJywxLCA1MywgJ2h0dHA6XHUwMDJmXHUwMDJmd3d3LmJhbmtvZmVuZ2xhbmQuY28udWsnLCAtMSwgLTEsICcnLCAnJykeGENsaWVudE9uQ2xpY2tOYXZpZ2F0ZVVybGQeKENsaWVudE9uQ2xpY2tTY3JpcHRDb250YWluaW5nUHJlZml4ZWRVcmxkHgxIaWRkZW5TY3JpcHQFIlRha2VPZmZsaW5lRGlzYWJsZWQoMSwgNTMsIC0xLCAtMSlkAgUPFgIfAWhkAgMPDxYKHglBY2Nlc3NLZXkFAS8eD0Fycm93SW1hZ2VXaWR0aAIFHhBBcnJvd0ltYWdlSGVpZ2h0AgMeEUFycm93SW1hZ2VPZmZzZXRYZh4RQXJyb3dJbWFnZU9mZnNldFkC6wNkZAIBD2QWBAIFD2QWAgIBDxAWAh8BaGQUKwEAZAIHD2QWAmYPZBYCZg8UKwADZGRkZAIJD2QWCgIED2QWAgIBD2QWAmYPZBYCAgEPFgIfAAWRAlRoaXMgd2Vic2l0ZSBzZXRzIGNvb2tpZXMgb24geW91ciBkZXZpY2UuIFRvIGZpbmQgb3V0IG1vcmUgYWJvdXQgaG93IHdlIHVzZSBjb29raWVzIHBsZWFzZSByZWZlciB0byBvdXIgPGEgaHJlZj0nL1BhZ2VzL1ByaXZhY3lQb2xpY3kuYXNweCc+UHJpdmFjeSBhbmQgQ29va2llIFBvbGljeTwvYT4uIEJ5IGNvbnRpbnVpbmcgdG8gdXNlIHRoZSBzaXRlLCB3ZeKAmWxsIGFzc3VtZSB0aGF0IHlvdSBhcmUgY29udGVudCBmb3IgdXMgdG8gc2V0IHRoZXNlIG9uIHlvdXIgZGV2aWNlLmQCCg9kFgJmD2QWAmYPZBYEAgEPD2QWBB4Hb25mb2N1cwVAU2V0U2VhcmNoQm94VGV4dCgnY3RsMDBfY3RsMzFfdHh0TWFzdGVyU2VhcmNoJywndHJ1ZScsJ1NlYXJjaCcpOx4Gb25ibHVyBUFTZXRTZWFyY2hCb3hUZXh0KCdjdGwwMF9jdGwzMV90eHRNYXN0ZXJTZWFyY2gnLCdmYWxzZScsJ1NlYXJjaCcpO2QCBQ8PFgIeDEluaXRpYWxWYWx1ZQUGU2VhcmNoZGQCEg9kFgICAQ8WAh8BaBYCAgEPFgIeE1ByZXZpb3VzQ29udHJvbE1vZGULKYgBTWljcm9zb2Z0LlNoYXJlUG9pbnQuV2ViQ29udHJvbHMuU1BDb250cm9sTW9kZSwgTWljcm9zb2Z0LlNoYXJlUG9pbnQsIFZlcnNpb249MTQuMC4wLjAsIEN1bHR1cmU9bmV1dHJhbCwgUHVibGljS2V5VG9rZW49NzFlOWJjZTExMWU5NDI5YwEWAmYPD2RkZAIYD2QWAgIHD2QWCgIDDxYCHw4LKwQBZAIHDxYCHw4LKwQBZAIJDxYCHw4LKwQBZAILDxYCHw4LKwQBZAITD2QWAmYPZBYGAgYPFgIfAWgWAgIBDxYCHw4LKwQBFgJmDw9kZGQCCA8WAh8BaBYCAgEPFgIfDgsrBAEWAmYPD2RkZAIKDxYCHwFoFgICAQ8WAh8OCysEARYCZg8PZGRkAhwPZBYCZg9kFgICAQ8WAh4LXyFJdGVtQ291bnQCARYCAgEPZBYCZg8VAcAYPHN0eWxlPg0KLkR5bmFtaWNGb290ZXINCntib3JkZXItYm90dG9tOnRyYW5zcGFyZW50IDFweCBzb2xpZDtib3JkZXItbGVmdDp0cmFuc3BhcmVudCAxcHggc29saWQ7bWluLWhlaWdodDoxMDBweDtoZWlnaHQ6YXV0bztib3JkZXItdG9wOnRyYW5zcGFyZW50IDFweCBzb2xpZDtib3JkZXItcmlnaHQ6dHJhbnNwYXJlbnQgMXB4IHNvbGlkO30NCi5EeW5hbWljRm9vdGVyIFVMDQp7cGFkZGluZy1ib3R0b206MHB4O2xpc3Qtc3R5bGUtdHlwZTpub25lO21hcmdpbjowcHg7cGFkZGluZy1sZWZ0OjBweDtwYWRkaW5nLXJpZ2h0OjBweDtsaXN0LXN0eWxlLWltYWdlOm5vbmU7cGFkZGluZy10b3A6MHB4O30NCi5jb2wNCnt3aWR0aDoyNSU7ZmxvYXQ6bGVmdDt9DQoucm93IExJDQp7YmFja2dyb3VuZC1jb2xvcjpyZWQ7ZGlzcGxheTppbmxpbmU7fQ0KLmNvbCBMSQ0Ke3BhZGRpbmctYm90dG9tOjBweDtsaXN0LXN0eWxlLXR5cGU6bm9uZTttYXJnaW46MHB4O3BhZGRpbmctbGVmdDowcHg7cGFkZGluZy1yaWdodDowcHg7bGlzdC1zdHlsZS1pbWFnZTpub25lO3BhZGRpbmctdG9wOjBweDt9DQo8L3N0eWxlPjxkaXYgY2xhc3M9IkR5bmFtaWNGb290ZXIiIGlkPSJEaXYxIj48ZGl2IGNsYXNzPSJjb2wiPjxiPlF1aWNrIExpbmtzPC9iPiA8dWwgY2xhc3M9Iml0ZW0iPjxsaT48YSBocmVmPSIvZWR1Y2F0aW9uL1BhZ2VzL2NjYnMvZGVmYXVsdC5hc3B4Ij5DZW50cmUgZm9yIENlbnRyYWwgQmFua2luZyBTdHVkaWVzPC9hPjwvbGk+CjxsaT48YSBocmVmPSIvYWJvdXQvUGFnZXMvd2Vsc2gvZGVmYXVsdC5hc3B4Ij5DeW1yYWVnPC9hPjwvbGk+CjxsaT48YSBocmVmPSIvZmluYW5jaWFsc3RhYmlsaXR5L1BhZ2VzL2ZtaXMvZGVmYXVsdC5hc3B4Ij5NYXJrZXQgSW5mcmFzdHJ1Y3R1cmUgU3VwZXJ2aXNpb248L2E+PC9saT4KPGxpPjxhIGhyZWY9Ii9wdWJsaWNhdGlvbnMvUGFnZXMvbmV3cy9kZWZhdWx0LmFzcHgiPk5ld3MgUmVsZWFzZXM8L2E+PC9saT4KPGxpPjxhIGhyZWY9Ii9maW5hbmNpYWxzdGFiaWxpdHkvUGFnZXMvcm9sZS9yaXNrX3JlZHVjdGlvbi9zcnIvZGVmYXVsdC5hc3B4Ij5SZXNvbHV0aW9uPC9hPjwvbGk+CjxsaT48YSBocmVmPSIvcHVibGljYXRpb25zL1BhZ2VzL3NwZWVjaGVzL2RlZmF1bHQuYXNweCI+U3BlZWNoZXMgYW5kIEFydGljbGVzPC9hPjwvbGk+CjxsaT48YSBocmVmPSIvYmFua25vdGVzL1BhZ2VzL2N1cnJlbnQvZGVmYXVsdC5hc3B4Ij5Lbm93IHlvdXIgQmFua25vdGVzPC9hPjwvbGk+CjxsaT48YSBocmVmPSIvbW9uZXRhcnlwb2xpY3kvUGFnZXMvYWdlbmNpZXMvZGVmYXVsdC5hc3B4Ij5UaGUgQmFuaydzIEFnZW5jaWVzPC9hPjwvbGk+PC91bD48L2Rpdj4KPGRpdiBjbGFzcz0iY29sIj48Yj5MZWdhbDwvYj4gPHVsIGNsYXNzPSJpdGVtIj48bGk+PGEgaHJlZj0iL1BhZ2VzL2Rpc2NsYWltZXIuYXNweCI+RGlzY2xhaW1lcjwvYT48L2xpPgo8bGk+PGEgaHJlZj0iL1BhZ2VzL2ZvaS5hc3B4Ij5GcmVlZG9tIG9mIEluZm9ybWF0aW9uPC9hPjwvbGk+CjxsaT48YSBocmVmPSIvYWJvdXQvUGFnZXMvbW91cy9kZWZhdWx0LmFzcHgiPk1vVXM8L2E+PC9saT4KPGxpPjxhIGhyZWY9Ii9QYWdlcy9wcml2YWN5cG9saWN5LmFzcHgiPlByaXZhY3kgYW5kIENvb2tpZXMgUG9saWN5PC9hPjwvbGk+CjxsaT48YSBocmVmPSIvYWJvdXQvUGFnZXMvcHJvY3VyZW1lbnQvZGVmYXVsdC5hc3B4Ij5Qcm9jdXJlbWVudDwvYT48L2xpPgo8bGk+PGEgaHJlZj0iL1BhZ2VzL3B1YmxpY3NlY3RvcmluZm9ybWF0aW9uLmFzcHgiPlJlLXVzZSBvZiBwdWJsaWMgc2VjdG9yIGluZm9ybWF0aW9uPC9hPjwvbGk+CjxsaT48YSBocmVmPSIvUGFnZXMvZnJhdWR3YXJuaW5nLmFzcHgiPkZyYXVkIFdhcm5pbmc8L2E+PC9saT4KPGxpPjxhIGhyZWY9Ii9QYWdlcy93aGlzdGxlYmxvd2luZy5hc3B4Ij5XaGlzdGxlYmxvd2luZzwvYT48L2xpPjwvdWw+PC9kaXY+CjxkaXYgY2xhc3M9ImNvbCI+PGI+UHJ1ZGVudGlhbCBSZWd1bGF0aW9uIEF1dGhvcml0eSAoUFJBKTwvYj4gPHVsIGNsYXNzPSJpdGVtIj48bGk+PGEgaHJlZj0iL3ByYS9QYWdlcy9hdXRob3Jpc2F0aW9ucy9kZWZhdWx0LmFzcHgiPkF1dGhvcmlzYXRpb25zPC9hPjwvbGk+CjxsaT48YSBocmVmPSJodHRwOi8vd3d3LmZzYS5nb3YudWsvcmVnaXN0ZXIvaG9tZS5kbyIgdGFyZ2V0PSJfYmxhbmsiPkZpbmFuY2lhbCBTZXJ2aWNlcyBSZWdpc3RlcjwvYT48L2xpPgo8bGk+PGEgaHJlZj0iaHR0cDovL2ZzaGFuZGJvb2suaW5mby9GUy9odG1sL1BSQSIgdGFyZ2V0PSJfYmxhbmsiPlBSQSBIYW5kYm9vazwvYT48L2xpPgo8bGk+PGEgaHJlZj0iL3ByYS9QYWdlcy9wdWJsaWNhdGlvbnMvZGVmYXVsdC5hc3B4Ij5QUkEgUHVibGljYXRpb25zPC9hPjwvbGk+CjxsaT48YSBocmVmPSIvcHJhL1BhZ2VzL3JlZ3VsYXRvcnlkYXRhL2RlZmF1bHQuYXNweCI+UmVndWxhdG9yeSBSZXBvcnRpbmcgSW5mb3JtYXRpb248L2E+PC9saT48L3VsPjwvZGl2Pgo8ZGl2IGNsYXNzPSJjb2wiPjxiPkFib3V0IHVzPC9iPiA8dWwgY2xhc3M9Iml0ZW0iPjxsaT48YSBocmVmPSIvYWJvdXQvUGFnZXMvY29tcGxhaW50cy9kZWZhdWx0LmFzcHgiPkNvbXBsYWludHM8L2E+PC9saT4KPGxpPjxhIGhyZWY9Ii9wYWdlcy9jb250YWN0LmFzcHgiPkNvbnRhY3QgVXM8L2E+PC9saT4KPGxpPjxhIGhyZWY9Ii9hYm91dC9QYWdlcy9odW1hbnJlc291cmNlcy9kaXZlcnNpdHkuYXNweCI+RGl2ZXJzaXR5IGFuZCBJbmNsdXNpb248L2E+PC9saT4KPGxpPjxhIGhyZWY9Ii9QYWdlcy9hY2Nlc3NpYmlsaXR5LmFzcHgiPkFjY2Vzc2liaWxpdHkgYW5kIHVzYWJpbGl0eTwvYT48L2xpPgo8bGk+PGEgaHJlZj0iL2VkdWNhdGlvbi9QYWdlcy9kZWZhdWx0LmFzcHgiPk11c2V1bTwvYT48L2xpPgo8bGk+PGEgaHJlZj0iL1BhZ2VzL3NpdGVtYXAuYXNweCI+U2l0ZSBNYXA8L2E+PC9saT4KPGxpPjxhIGhyZWY9Ii9QYWdlcy9hcmNoaXZlLmFzcHgiPlRoZSBOYXRpb25hbCBBcmNoaXZlczwvYT48L2xpPgo8bGk+PGEgaHJlZj0iL2Fib3V0L1BhZ2VzL3Zpc2l0b3JzL2RlZmF1bHQuYXNweCI+VmlzaXRvcnM8L2E+PC9saT48L3VsPjwvZGl2Pgo8ZGl2IGNsYXNzPSJjbGVhciI+wqA8L2Rpdj48L2Rpdj4KPGRpdj7CoDwvZGl2PmQCDQ9kFgICAQ9kFgJmD2QWAgIDD2QWAgIFDw8WBB4GSGVpZ2h0GwAAAAAAAHlAAQAAAB4EXyFTQgKAAWQWAgIBDzwrAAkBAA8WBB4NUGF0aFNlcGFyYXRvcgQIHg1OZXZlckV4cGFuZGVkZ2RkZGW80qObsqKfd3WJYTfOkv8nmDpc">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJOTMxNTM3Njk4D2QWAmYPZBYCAgEPZBYEAgEPZBYCAhcPFgIeBFRleHQFJjxNRVRBIG5hbWU9IldULmNnX24iIGNvbnRlbnQ9IkhvbWUiIC8+ZAIDD2QWBgIHD2QWAgIDD2QWBGYPZBYCAgEPFgIeB1Zpc2libGVoFgJmD2QWBAICD2QWBgIBDxYCHwFoZAIDDxYIHhNDbGllbnRPbkNsaWNrU2NyaXB0BXJqYXZhU2NyaXB0OkNvcmVJbnZva2UoJ1Rha2VPZmZsaW5lVG9DbGllbnRSZWFsJywxLCA1MywgJ2h0dHA6XHUwMDJmXHUwMDJmd3d3LmJhbmtvZmVuZ2xhbmQuY28udWsnLCAtMSwgLTEsICcnLCAnJykeGENsaWVudE9uQ2xpY2tOYXZpZ2F0ZVVybGQeKENsaWVudE9uQ2xpY2tTY3JpcHRDb250YWluaW5nUHJlZml4ZWRVcmxkHgxIaWRkZW5TY3JpcHQFIlRha2VPZmZsaW5lRGlzYWJsZWQoMSwgNTMsIC0xLCAtMSlkAgUPFgIfAWhkAgMPDxYKHglBY2Nlc3NLZXkFAS8eD0Fycm93SW1hZ2VXaWR0aAIFHhBBcnJvd0ltYWdlSGVpZ2h0AgMeEUFycm93SW1hZ2VPZmZzZXRYZh4RQXJyb3dJbWFnZU9mZnNldFkC6wNkZAIBD2QWBAIFD2QWAgIBDxAWAh8BaGQUKwEAZAIHD2QWAmYPZBYCZg8UKwADZGRkZAIJD2QWCgIED2QWAgIBD2QWAmYPZBYCAgEPFgIfAAWRAlRoaXMgd2Vic2l0ZSBzZXRzIGNvb2tpZXMgb24geW91ciBkZXZpY2UuIFRvIGZpbmQgb3V0IG1vcmUgYWJvdXQgaG93IHdlIHVzZSBjb29raWVzIHBsZWFzZSByZWZlciB0byBvdXIgPGEgaHJlZj0nL1BhZ2VzL1ByaXZhY3lQb2xpY3kuYXNweCc+UHJpdmFjeSBhbmQgQ29va2llIFBvbGljeTwvYT4uIEJ5IGNvbnRpbnVpbmcgdG8gdXNlIHRoZSBzaXRlLCB3ZeKAmWxsIGFzc3VtZSB0aGF0IHlvdSBhcmUgY29udGVudCBmb3IgdXMgdG8gc2V0IHRoZXNlIG9uIHlvdXIgZGV2aWNlLmQCCg9kFgJmD2QWAmYPZBYEAgEPD2QWBB4Hb25mb2N1cwVAU2V0U2VhcmNoQm94VGV4dCgnY3RsMDBfY3RsMzFfdHh0TWFzdGVyU2VhcmNoJywndHJ1ZScsJ1NlYXJjaCcpOx4Gb25ibHVyBUFTZXRTZWFyY2hCb3hUZXh0KCdjdGwwMF9jdGwzMV90eHRNYXN0ZXJTZWFyY2gnLCdmYWxzZScsJ1NlYXJjaCcpO2QCBQ8PFgIeDEluaXRpYWxWYWx1ZQUGU2VhcmNoZGQCEg9kFgICAQ8WAh8BaBYCAgEPFgIeE1ByZXZpb3VzQ29udHJvbE1vZGULKYgBTWljcm9zb2Z0LlNoYXJlUG9pbnQuV2ViQ29udHJvbHMuU1BDb250cm9sTW9kZSwgTWljcm9zb2Z0LlNoYXJlUG9pbnQsIFZlcnNpb249MTQuMC4wLjAsIEN1bHR1cmU9bmV1dHJhbCwgUHVibGljS2V5VG9rZW49NzFlOWJjZTExMWU5NDI5YwEWAmYPD2RkZAIYD2QWBAIBD2QWAgIBD2QWAgIBDzwrAAUBAA8WAh4XUmVuZGVyQ3VycmVudE5vZGVBc0xpbmtoZGQCBw9kFgoCAw8WAh8OCysEAWQCBw8WAh8OCysEAWQCCQ8WAh8OCysEAWQCCw8WAh8OCysEAWQCEw9kFgJmD2QWBgIODxYCHwFoFgICAQ8WAh8OCysEARYCZg8PZGRkAhIPFgIfAWgWAgIBDxYCHw4LKwQBFgJmDw9kZGQCFg8WAh8BaBYCAgEPFgIfDgsrBAEWAmYPD2RkZAIcD2QWAmYPZBYCAgEPFgIeC18hSXRlbUNvdW50AgEWAgIBD2QWAmYPFQGiJjxzdHlsZT4NCi5EeW5hbWljRm9vdGVyDQp7Ym9yZGVyLXRvcDp0cmFuc3BhcmVudCAxcHggc29saWQ7aGVpZ2h0OmF1dG87Ym9yZGVyLXJpZ2h0OnRyYW5zcGFyZW50IDFweCBzb2xpZDtib3JkZXItYm90dG9tOnRyYW5zcGFyZW50IDFweCBzb2xpZDttaW4taGVpZ2h0OjEwMHB4O2JvcmRlci1sZWZ0OnRyYW5zcGFyZW50IDFweCBzb2xpZDt9DQouRHluYW1pY0Zvb3RlciBVTA0Ke2xpc3Qtc3R5bGUtdHlwZTpub25lO3BhZGRpbmctYm90dG9tOjBweDtwYWRkaW5nLXRvcDowcHg7cGFkZGluZy1sZWZ0OjBweDttYXJnaW46MHB4O2xpc3Qtc3R5bGUtaW1hZ2U6bm9uZTtwYWRkaW5nLXJpZ2h0OjBweDt9DQouY29sMQ0Ke3dpZHRoOjMwJTtmbG9hdDpsZWZ0O30NCi5jb2wyDQp7d2lkdGg6MjElO2Zsb2F0OmxlZnQ7fQ0KLmNvbDMNCnt3aWR0aDoyNSU7ZmxvYXQ6bGVmdDt9DQouY29sNA0Ke3dpZHRoOjI0JTtmbG9hdDpsZWZ0O30NCi5yb3cgTEkNCntkaXNwbGF5OmlubGluZTtiYWNrZ3JvdW5kLWNvbG9yOnJlZDt9DQouY29sIExJDQp7bGlzdC1zdHlsZS10eXBlOm5vbmU7cGFkZGluZy1ib3R0b206MHB4O3BhZGRpbmctdG9wOjBweDtwYWRkaW5nLWxlZnQ6MHB4O21hcmdpbjowcHg7bGlzdC1zdHlsZS1pbWFnZTpub25lO3BhZGRpbmctcmlnaHQ6MHB4O30NCjwvc3R5bGU+PGRpdiBjbGFzcz0iRHluYW1pY0Zvb3RlciIgaWQ9IkRpdjEiPjxkaXYgY2xhc3M9ImNvbDEiPjxoMz5CYW5rIG9mIEVuZ2xhbmQ8L2gzPgo8dWwgY2xhc3M9Iml0ZW0iPjxsaT48c3Ryb25nPjxmb250IGNvbG9yPSIjZWVlZWVlIj5UaHJlYWRuZWVkbGUgU3RyZWV0LCBMb25kb24sIEVDMlIgOEFIIDwvZm9udD48L3N0cm9uZz48L2xpPgo8bGk+PHN0cm9uZz48Zm9udCBjb2xvcj0iI2VlZWVlZSI+U3dpdGNoYm9hcmQ6ICs0NCAoMCkyMCA3NjAxIDQ0NDQgPC9mb250Pjwvc3Ryb25nPjxiciAvPjwvbGk+CjxsaT48c3Ryb25nPjxmb250IGNvbG9yPSIjZWVlZWVlIj5HZW5lcmFsIEVucXVpcmllczogKzQ0ICgwKTIwIDc2MDEgNDg3OCA8L2ZvbnQ+PC9zdHJvbmc+PGJyIC8+PGJyIC8+PGgzPkJhbmsgb2YgRW5nbGFuZCBNdXNldW0gPC9oMz4KPHVsIGNsYXNzPSJpdGVtIj48c3Ryb25nPjxmb250IGNvbG9yPSIjZWVlZWVlIj5CYXJ0aG9sb21ldyBMYW5lLCBMb25kb24sIEVDMlIgOEFIIDwvZm9udD48L3N0cm9uZz48L3VsPjwvbGk+Cjx1bCBjbGFzcz0iaXRlbSI+PHN0cm9uZz48Zm9udCBjb2xvcj0iI2VlZWVlZSI+PGEgaHJlZj0iL2VkdWNhdGlvbi9QYWdlcy9tdXNldW0vdmlzaXRpbmcvZGVmYXVsdC5hc3B4Ij48aW1nIGFsaWduPSJtaWRkbGUiIGFsdD0iTXVzZXVtIiBzcmM9Ii9QdWJsaXNoaW5nSW1hZ2VzL2ljb25zL211c2V1bTMuanBnIiAvPiBWaXNpdCB0aGUgTXVzZXVtPC9hPjwvZm9udD48L3N0cm9uZz48L3VsPgo8cD7CoDwvcD4KPHN0eWxlPg0KLmZvb3Rlcmljb25zIGltZw0Ke21heC1oZWlnaHQ6MzBweDttYXgtd2lkdGg6MzBweDt9DQo8L3N0eWxlPjxkaXYgY2xhc3M9ImZvb3Rlcmljb25zIj48YSB0aXRsZT0iVHdpdHRlciIgaHJlZj0iaHR0cHM6Ly90d2l0dGVyLmNvbS9iYW5rb2ZlbmdsYW5kIiB0YXJnZXQ9Il9ibGFuayI+PGltZyB3aWR0aD0iNDUiIGhlaWdodD0iNDUiIGFsdD0iVHdpdHRlciIgc3JjPSIvUHVibGlzaGluZ0ltYWdlcy9pY29ucy9ibGFjay90d2l0dGVyLnBuZyIgYm9yZGVyPSIwIiAvPjwvYT4gPGEgdGl0bGU9IkxpbmtlZEluIiBocmVmPSJodHRwczovL3d3dy5saW5rZWRpbi5jb20vY29tcGFueS9iYW5rLW9mLWVuZ2xhbmQiIHRhcmdldD0iX2JsYW5rIj48aW1nIHdpZHRoPSI0NSIgaGVpZ2h0PSI0NSIgYWx0PSJMaW5rZWRJbiIgc3JjPSIvUHVibGlzaGluZ0ltYWdlcy9pY29ucy9ibGFjay9saW5rZWRpbi5wbmciIGJvcmRlcj0iMCIgLz48L2E+IDxhIHRpdGxlPSJZb3VUdWJlIiBocmVmPSJodHRwczovL3d3dy55b3V0dWJlLmNvbS91c2VyL2JhbmtvZmVuZ2xhbmR1ayIgdGFyZ2V0PSJfYmxhbmsiPjxpbWcgd2lkdGg9IjQ1IiBoZWlnaHQ9IjQ1IiBhbHQ9IllvdVR1YmUiIHNyYz0iL1B1Ymxpc2hpbmdJbWFnZXMvaWNvbnMvYmxhY2sveW91dHViZS5wbmciIGJvcmRlcj0iMCIgLz48L2E+IDxhIHRpdGxlPSJGbGlja3IiIGhyZWY9Imh0dHBzOi8vd3d3LmZsaWNrci5jb20vcGhvdG9zL2JhbmtvZmVuZ2xhbmQvYWxidW1zIiB0YXJnZXQ9Il9ibGFuayI+PGltZyB3aWR0aD0iNDUiIGhlaWdodD0iNDUiIGFsdD0iRmxpY2tyIiBzcmM9Ii9QdWJsaXNoaW5nSW1hZ2VzL2ljb25zL2JsYWNrL2ZsaWNrci5wbmciIGJvcmRlcj0iMCIgLz48L2E+IDxhIHRpdGxlPSJGYWNlYm9vayIgaHJlZj0iaHR0cHM6Ly93d3cuZmFjZWJvb2suY29tL2JhbmtvZmVuZ2xhbmQuY28udWsiIHRhcmdldD0iX2JsYW5rIj48aW1nIHdpZHRoPSI0NSIgaGVpZ2h0PSI0NSIgYWx0PSJGYWNlYm9vayIgc3JjPSIvUHVibGlzaGluZ0ltYWdlcy9pY29ucy9ibGFjay9mYWNlYm9vay5wbmciIGJvcmRlcj0iMCIgLz48L2E+IDxhIHRpdGxlPSJQZXJpc2NvcGUiIGhyZWY9Imh0dHBzOi8vd3d3LnBlcmlzY29wZS50di9iYW5rb2ZlbmdsYW5kIiB0YXJnZXQ9Il9ibGFuayI+PGltZyB3aWR0aD0iNDUiIGhlaWdodD0iNDUiIGFsdD0iUGVyaXNjb3BlIiBzcmM9Ii9QdWJsaXNoaW5nSW1hZ2VzL2ljb25zL2JsYWNrL3BlcmlzY29wZS5wbmciIGJvcmRlcj0iMCIgLz48L2E+IDxhIHRpdGxlPSJFbWFpbCBBbGVydHMiIGhyZWY9Ii9QYWdlcy9zdWJzY3JpYmUuYXNweCI+PGltZyB3aWR0aD0iNDUiIGhlaWdodD0iNDUiIGFsdD0iRW1haWwgQWxlcnRzIiBzcmM9Ii9QdWJsaXNoaW5nSW1hZ2VzL2ljb25zL2JsYWNrL21haWwucG5nIiBib3JkZXI9IjAiIC8+PC9hPiA8L2Rpdj4KPHA+wqA8L3A+PC91bD48L2Rpdj4KPGRpdiBjbGFzcz0iY29sMiI+PHN0cm9uZz5BYm91dCBVcyA8L3N0cm9uZz48dWwgY2xhc3M9Iml0ZW0iPjxsaT48YSBocmVmPSIvUGFnZXMvYWNjZXNzaWJpbGl0eS5hc3B4Ij5BY2Nlc3NpYmlsaXR5IGFuZCB1c2FiaWxpdHk8L2E+PC9saT4KPGxpPjxhIGhyZWY9Ii9wYWdlcy9jb250YWN0LmFzcHgiPjwvYT48L2xpPgo8bGk+PGEgaHJlZj0iL2NhcmVlcnMvUGFnZXMvZGVmYXVsdC5hc3B4Ij5DYXJlZXJzPC9hPjwvbGk+CjxsaT48YSBocmVmPSIvYWJvdXQvUGFnZXMvaHVtYW5yZXNvdXJjZXMvZGl2ZXJzaXR5LmFzcHgiPkRpdmVyc2l0eSBhbmQgaW5jbHVzaW9uPC9hPjwvbGk+CjxsaT48YSBocmVmPSIvZWR1Y2F0aW9uL1BhZ2VzL3Jlc291cmNlcy9kZWZhdWx0LmFzcHgiPkVkdWNhdGlvbmFsIHJlc291cmNlczwvYT48L2xpPgo8bGk+PGEgaHJlZj0iL2Fib3V0L1BhZ2VzL3Blb3BsZS9kZWZhdWx0LmFzcHgiPk91ciBwZW9wbGU8L2E+PC9saT4KPGxpPjxhIGhyZWY9Ii9QYWdlcy9zaXRlbWFwLmFzcHgiPlNpdGUgbWFwPC9hPjwvbGk+CjxsaT48YSBocmVmPSIvYWJvdXQvUGFnZXMvdmlzaXRvcnMvZGVmYXVsdC5hc3B4Ij5WaXNpdGluZyB1czwvYT48L2xpPjwvdWw+PC9kaXY+CjxkaXYgY2xhc3M9ImNvbDMiPjxzdHJvbmc+TGVnYWwgPC9zdHJvbmc+PHVsIGNsYXNzPSJpdGVtIj48bGk+PGEgaHJlZj0iL1BhZ2VzL2Rpc2NsYWltZXIuYXNweCI+RGlzY2xhaW1lcjwvYT48L2xpPgo8bGk+PGEgaHJlZj0iL1BhZ2VzL2ZyYXVkd2FybmluZy5hc3B4Ij5GcmF1ZCB3YXJuaW5nPC9hPjwvbGk+CjxsaT48YSBocmVmPSIvUGFnZXMvZm9pLmFzcHgiPkZyZWVkb20gb2YgSW5mb3JtYXRpb248L2E+PC9saT4KPGxpPjxhIGhyZWY9Ii9hYm91dC9QYWdlcy9tb3VzL2RlZmF1bHQuYXNweCI+TWVtb3JhbmRhIG9mIFVuZGVyc3RhbmRpbmc8L2E+PC9saT4KPGxpPjxhIGhyZWY9Ii9QYWdlcy9wcml2YWN5cG9saWN5LmFzcHgiPlByaXZhY3kgYW5kIENvb2tpZXMgUG9saWN5PC9hPjwvbGk+CjxsaT48YSBocmVmPSIvYWJvdXQvUGFnZXMvcHJvY3VyZW1lbnQvZGVmYXVsdC5hc3B4Ij5Qcm9jdXJlbWVudDwvYT48L2xpPgo8bGk+PGEgaHJlZj0iL1BhZ2VzL3B1YmxpY3NlY3RvcmluZm9ybWF0aW9uLmFzcHgiPlJlLXVzZSBvZiBwdWJsaWMgc2VjdG9yIGluZm9ybWF0aW9uPC9hPjwvbGk+CjxsaT48YSBocmVmPSIvUGFnZXMvd2hpc3RsZWJsb3dpbmcuYXNweCI+V2hpc3RsZWJsb3dpbmc8L2E+PC9saT48L3VsPjwvZGl2Pgo8ZGl2IGNsYXNzPSJjb2w0Ij48c3Ryb25nPlF1aWNrIExpbmtzPC9zdHJvbmc+IDx1bCBjbGFzcz0iaXRlbSI+PGxpPjxhIGhyZWY9Ii9iYW5rbm90ZXMvUGFnZXMvZGVmYXVsdC5hc3B4Ij5CYW5rbm90ZXM8L2E+PC9saT4KPGxpPjxhIGhyZWY9Imh0dHA6Ly9iYW5rdW5kZXJncm91bmQuY28udWsvIiB0YXJnZXQ9Il9ibGFuayI+QmFuayBVbmRlcmdyb3VuZDwvYT48L2xpPgo8bGk+PGEgaHJlZj0iL2VkdWNhdGlvbi9QYWdlcy9jY2JzL2RlZmF1bHQuYXNweCI+Q2VudHJlIGZvciBDZW50cmFsIEJhbmtpbmcgU3R1ZGllczwvYT48L2xpPgo8bGk+PGEgaHJlZj0iL2Fib3V0L1BhZ2VzL3dlbHNoL2RlZmF1bHQuYXNweCI+Q3ltcmFlZzwvYT48L2xpPgo8bGk+PGEgaHJlZj0iaHR0cHM6Ly9yZWdpc3Rlci5mY2Eub3JnLnVrLyIgdGFyZ2V0PSJfYmxhbmsiPkZpbmFuY2lhbCBTZXJ2aWNlcyBSZWdpc3RlcjwvYT48L2xpPgo8bGk+PGEgaHJlZj0iaHR0cDovL3d3dy5wcmFydWxlYm9vay5jby51ay8iIHRhcmdldD0iX2JsYW5rIj5QUkEgUnVsZWJvb2s8L2E+PC9saT4KPGxpPjxhIGhyZWY9Ii9wdWJsaWNhdGlvbnMvUGFnZXMvY2FsZW5kYXIvZGVmYXVsdC5hc3B4Ij5QdWJsaWNhdGlvbnMgQ2FsZW5kYXI8L2E+PC9saT4KPGxpPjxhIGhyZWY9Ii9QYWdlcy9hcmNoaXZlLmFzcHgiPlRoZSBOYXRpb25hbCBBcmNoaXZlczwvYT48L2xpPjwvdWw+PC9kaXY+CjxkaXYgY2xhc3M9ImNsZWFyIj7CoDwvZGl2PjwvZGl2Pgo8ZGl2PsKgPC9kaXY+ZAIND2QWAgIBD2QWAmYPZBYCAgMPZBYCAgUPDxYEHgZIZWlnaHQbAAAAAAAAeUABAAAAHgRfIVNCAoABZBYCAgEPPCsACQEADxYEHg1QYXRoU2VwYXJhdG9yBAgeDU5ldmVyRXhwYW5kZWRnZGRkrMRU3dTBAjWVWNy4AKBfLc2jJU0=">
 
 
 <script type="text/javascript">
@@ -123,7 +203,7 @@ var _fV4UI=true;var _spPageContextInfo = {webServerRelativeUrl: "\u002f", webLan
 <script type="text/javascript">
 //<![CDATA[
 function _spNavigateHierarchy(nodeDiv, dataSourceId, dataPath, url, listInContext, type) {
-    CoreInvoke('ProcessDefaultNavigateHierarchy', nodeDiv, dataSourceId, dataPath, url, listInContext, type, document.forms.aspnetForm, "", "\u002fPages\u002fprivacypolicy.aspx");
+    CoreInvoke('ProcessDefaultNavigateHierarchy', nodeDiv, dataSourceId, dataPath, url, listInContext, type, document.forms.aspnetForm, "", "\u002fpages\u002fprivacypolicy.aspx");
 
 }
 //]]>
@@ -135,7 +215,20 @@ if (typeof(DeferWebFormInitCallback) == 'function') DeferWebFormInitCallback();/
 </script>
 
 <input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="4263A233">
-<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWAwK/gtpOAtbOvL4OAv+2hb0OyN/JbAB89nAFuH0EK6pImQZXNwY=">
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWAwKowrbYBwLWzry+DgL/toW9Dqtjhy846t093cRFI02YYzJQ5Lmf">
+
+    <!-- Google Tag Manager -->
+    <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-5H35J9"
+    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-5H35J9');</script>
+    <!-- End Google Tag Manager -->
+
+
+    <a class="skip-main" href="#cms_main_content">Skip to main content</a>
     
     
     
@@ -206,7 +299,7 @@ if (typeof(DeferWebFormInitCallback) == 'function') DeferWebFormInitCallback();/
                         <div id="header" class="s4-notdlg">
                             <div id="headerleft">
                                 <a id="ctl00_MainHeaderImage" href="/">
-                                    <img src="/Style%20Library/BOECustom/Images/header-.jpg" alt="Home" border="0">
+                                    <img src="/Style%20Library/BOECustom/Images/homepage8.jpg" alt="Home" border="0">
                                 </a>
                             </div>
                             <div id="headerright">
@@ -227,7 +320,7 @@ if (typeof(DeferWebFormInitCallback) == 'function') DeferWebFormInitCallback();/
                                     <a href="/pages/search.aspx?showadvanced=1">Advanced Search</a> | <a href="/Pages/SearchHelp.aspx" target="_self">Search Help</a></p>
                                 <ul id="headerlinks">
                                     <li><a href="/pages/contact.aspx" title="Contact Us">Contact Us</a></li>
-                                    <li><a href="javascript:window.print();" onclick="dcsMultiTrack('WT.dl','99','WT.z_printPage','1');" title="Print this page">Print this page</a></li>
+                                    <li><a href="#" onclick="printDiv('BOEPageHolder'); dcsMultiTrack('WT.dl','99','WT.z_printPage','1');" title="Print this page">Print this page</a></li>
                                     <li><a href="/Pages/subscribe.aspx" title="Subscribe to email alerts">Subscribe to alerts</a></li>
                                     <li><a href="/pages/feedback.aspx" title="Feedback">Feedback</a></li>
                                 </ul>
@@ -256,22 +349,42 @@ if (typeof(DeferWebFormInitCallback) == 'function') DeferWebFormInitCallback();/
                                 </div>
                             </div>
                         </div>
-                        <div class="s4-ca">
-                            
-                                <div class="s4-notdlg">
-                                    
-                                        <div id="BOE_Breadcrumb">
-                                            <a class="breadcrumbRootNode" href="/Pages/home.aspx">Home</a><span class="breadcrumbNode"> &gt; </span><span class="breadcrumbCurrentNode">Privacy and Cookie Policy</span>
-                                            
-                                            <div id="BOE_BreadcrumbBorder" style="display: block;">
-                                                &nbsp;</div>
-                                        </div>
-                                    
-                                    
-                                </div>
+
+                        
+                            <div class="s4-ca">
                                 
-                                <div class="BOEPageHolder">
+                                    <div class="s4-notdlg">
+                                        
+                                            <div id="BOE_Breadcrumb">
+                                                
+
+    <style type="text/css">
+    #BOE_Breadcrumb A:link
+    {
+        color: #999999;
+    }
+    #BOE_Breadcrumb A:visited
+    {
+        color: #999999;
+    }
+</style>
+
+    <div class="BOE_Breadcrumb">
+    <span id="ctl00_PlaceHolderPageFullRight_PlaceHolderPageBreadcrumbInTitleArea_boeBreadCrumb_ContentMap123"><span><a class="ms-sitemapdirectional" href="/Pages/home.aspx">Home</a></span><span> &gt; </span><span class="ms-sitemapdirectional">Privacy and Cookie Policy</span></span>
+</div>
+
+                                                
+                                                <div id="BOE_BreadcrumbBorder" style="display: block;">
+                                                    &nbsp;</div>
+                                            </div>
+                                        
+                                        
+                                    </div>
                                     
+
+                                    <div id="cms_main_content" tabindex="-1"><!-- addedd this for the skip to the main functionality -->
+                                        <div class="BOEPageHolder">
+                                            
 
 
 
@@ -288,59 +401,89 @@ if (typeof(DeferWebFormInitCallback) == 'function') DeferWebFormInitCallback();/
 
 		    <div class="article-content">
 
-		        <div id="ctl00_PlaceHolderPageFullRight_PlaceHolderMain_RichHtmlField2_label" style="display:none">Page Content</div><div id="ctl00_PlaceHolderPageFullRight_PlaceHolderMain_RichHtmlField2__ControlWrapper_RichHtmlField" class="ms-rtestate-field" style="display:inline" aria-labelledby="ctl00_PlaceHolderPageFullRight_PlaceHolderMain_RichHtmlField2_label"><div><div><div><span lang="EN-US">This policy applies to the website (www.bankofengland.co.uk) for the Bank of England (the ‘Bank’), including the Prudential Regulation Authority (‘PRA’), as well as for the Bank’s careers website (www.boe-careers.co.uk) (collectively, ‘our websites’).<span>&nbsp; </span>It does not cover links within these to any other websites.<span>&nbsp; </span></span></div>
-<div><span lang="EN-US"><span></span></span>&nbsp;</div>
-<p><span><span><strong>Privacy</strong></span></span></p>
-<div><span lang="EN-US"><strong>How we use your information</strong></span></div>
-<div><span lang="EN-US">This policy tells you what to expect when the Bank receives personal information through our websites. You may, for example, be asked to provide personal information in order to take advantage of a particular service we offer, or because you are applying for a job at the Bank.</span></div>
-<div><span lang="EN-US">In any instance where you provide personal information to us, we will only use it to deliver the services you have requested.<br></span></div>
-<div><span lang="EN-US">Our websites do not automatically capture or store personal information about users, other than IP addresses and limited session information such as the duration of visits and type of browser used. This information is anonymised and used to produce statistical reports to allow us to evaluate how our websites are used.</span></div>
-<div><span lang="EN-US"></span>&nbsp;</div>
-<div><div><span><span lang="EN-US"><strong>How do I make a request for my personal information (Subject Access Request) under the Data Protection Act 1998?</strong></span></span><span lang="EN-US"><br>The Data Protection Act 1998 provides individuals with the right to ask any organisation, including the Bank and PRA, for a copy of the personal data processed about them.<br><br></span><span lang="EN-US">To make a request for the personal information we hold about you, please contact:<br><br></span><span lang="EN-US">The Information Compliance Team (TS-Mz)</span></div>
+		        <div id="ctl00_PlaceHolderPageFullRight_PlaceHolderMain_RichHtmlField2_label" style="display:none">Page Content</div><div id="ctl00_PlaceHolderPageFullRight_PlaceHolderMain_RichHtmlField2__ControlWrapper_RichHtmlField" class="ms-rtestate-field" style="display:inline" aria-labelledby="ctl00_PlaceHolderPageFullRight_PlaceHolderMain_RichHtmlField2_label"><div><div><div><p class="boe-rteElement-P"><span lang="EN-US">This policy applies to the website (www.bankofengland.co.uk) for the Bank of England (the ‘Bank’), including the Prudential Regulation Authority (‘PRA’), as well as for the Bank’s careers website (www.boe-careers.co.uk) (collectively, ‘our websites’).<span>&nbsp; </span>It does not cover links within these to any other websites.</span></p>
+<h3 class="boe-rteElement-H3"><span lang="EN-US">Privacy<br><br>How we use your information</span></h3>
+<p class="boe-rteElement-P">This policy tells you what to expect when we receive personal data through our websites.<br><br><span lang="EN">When someone visits our websites we use a third party service, Google Analytics, to collect standard internet log information (such as IP address and type of browser they’re using) and details of visitor behaviour patterns.<span>&nbsp; </span>We do this to allow us to keep track of the number of visitors to the various parts of the site and understand how our websites are used. This information is only processed in a way which does not identify anyone. We do not make, and do not allow Google to make, any attempt to find out the identities of those visiting our website. You can find out more about how we use cookies, including Google analytics, in the section marked ‘Cookies’ below.<br><br></span><span>In any instance where we collect personal data through our websites, we will make this clear and will set out how we will use this. We will only use your personal data in a way that is compatible with the uses outlined to you, except where it’s necessary for us to do otherwise - for example, where we have a legal obligation to disclose this. &nbsp;We won’t share your information with any other organisations for marketing, market research or commercial purposes and we don’t pass on your details to other websites.</span></p>
+<h3 class="boe-rteElement-H3"><span>How can I find out what information you hold about me?</span></h3>
+<div>The Data Protection Act 1998 provides individuals with the right to ask any organisation, including the Bank and PRA, for a copy of the personal data processed about them.<span> <span lang="EN-US"><span>&nbsp;</span>This is sometimes known as a ‘Subject Access Request’.<br><br></span></span><span lang="EN-US">To make a request for the personal data we hold about you, please contact:<br><br></span><span lang="EN-US">The Information Access Team (HO-M)</span></div>
 <div><span lang="EN-US">Bank of England</span></div>
 <div><span lang="EN-US">Threadneedle Street</span></div>
 <div><span lang="EN-US">London</span></div>
-<div><span lang="EN-US">EC2R 8AH</span></div>
-<div><span lang="EN-US">&nbsp;</span></div>
-<div><span lang="EN-US">Telephone: 020 7601 4878</span></div>
-<div><span lang="EN-US">Email: </span><a href="mailto:enquiries@bankofengland.co.uk"><span lang="EN-US">enquiries@bankofengland.co.uk</span></a><span lang="EN-US"> </span></div>
-<div><span lang="EN-US"></span>&nbsp;</div>
-<div><div><strong>Cookies</strong></div>
+<div><span lang="EN-US">EC2R 8AH<br><br></span><span lang="EN-US">Telephone: 020 7601 4878<br><br></span><span lang="EN-US">Email: </span><a href="mailto:enquiries@bankofengland.co.uk"><span lang="EN-US"></span></a><a href="mailto:enquiries@bankofengland.co.uk">enquiries@bankofengland.co.uk</a><strong></strong></div>
 <div><strong></strong>&nbsp;</div>
-<div><span lang="EN-US"><strong>What are cookies?</strong></span></div>
-<div><span lang="EN-US">A cookie is a small text file that is placed on your computer, smartphone or other device when you visit a website. <span>&nbsp;</span>Cookies are used for a number of purposes, including to make some parts of a website work or work more efficiently, as well as to provide information to the owners of a site about how it is used.<br></span></div>
-<span lang="EN-US">Some of the cookies our websites use are essential for them to function properly, but we also use some non-essential cookies that help us to improve these.<span>&nbsp; </span>The table below sets out a full list of the cookies used on our websites and what we use these for. </span></div>
+<h2 class="boe-rteElement-H2">Cookies</h2></div>
+<div><div><h3 class="boe-rteElement-H3"><span lang="EN-US">What are cookies?</span></h3>
+<div><span lang="EN-US">A cookie is a small text file that is placed on your computer, smartphone or other device when you visit a website. Cookies are used for a number of purposes, including to make some parts of a website work or work more efficiently, as well as to provide information to the owners of a site about how it is used.<br><br></span><span lang="EN-US">Some of the cookies our websites use are essential for them to function properly, but we also use some non-essential cookies that help us to improve these. The table below sets out a full list of the cookies used on our websites and what we use these for. </span></div></div>
 <div>&nbsp;</div>
 <div><table width="100%" class="boe-rteTable-default" cellspacing="0" style="font-size:1em"><tbody><tr class="boe-rteTableEvenRow-default" style="text-align:left"><td class="boe-rteTableEvenCol-default" rowspan="1" colspan="1" style="width:95px"><strong>​</strong><span lang="EN-US"><strong>Cookie</strong></span></td>
-<td class="boe-rteTableOddCol-default" rowspan="1" colspan="1"><strong>​Name</strong></td>
-<td class="boe-rteTableEvenCol-default" rowspan="1" colspan="1" style="width:279px"><strong>Purpose</strong>​</td></tr>
+<td class="boe-rteTableOddCol-default" rowspan="1" colspan="3"><strong>​Name</strong></td>
+<td class="boe-rteTableEvenCol-default" rowspan="1" colspan="2" style="width:279px"><strong>Purpose</strong>​</td>
+<td class="boe-rteTableOddCol-default" rowspan="1" colspan="1" style="width:59px">​<strong>Expiry</strong></td></tr>
 <tr class="boe-rteTableOddRow-default"><td class="boe-rteTableEvenCol-default" rowspan="1" colspan="1" style="width:95px">​<font color="#000000">Cookie Banner</font></td>
-<td class="boe-rteTableOddCol-default">​<span>BoEAccptedCookie</span></td>
-<td class="boe-rteTableEvenCol-default" style="width:279px">​<span lang="EN">You may see a pop-up welcome message when you first visit our websites. We’ll store a cookie so that your computer knows you’ve seen it and knows on any subsequent visits not to show it again. This is stored for 365 days.</span></td></tr>
+<td class="boe-rteTableOddCol-default" colspan="3">​<span>BoEAccptedCookie</span></td>
+<td class="boe-rteTableEvenCol-default" colspan="2" style="width:279px">​<span lang="EN">You may see a pop-up welcome message when you first visit our websites. We’ll store a cookie so that your computer knows you’ve seen it and knows on any subsequent visits not to show it again.</span></td>
+<td class="boe-rteTableOddCol-default" colspan="1" style="width:59px">​365 days</td></tr>
 <tr class="boe-rteTableEvenRow-default"><td class="boe-rteTableEvenCol-default" rowspan="1" colspan="1" style="width:95px">​Load Balancing</td>
-<td class="boe-rteTableOddCol-default">​<span lang="EN-US">ROUTEID</span><div><span lang="EN-US">JSESSIONID</span></div>
+<td class="boe-rteTableOddCol-default" colspan="3">​<span lang="EN-US">ROUTEID</span> <div><span lang="EN-US">JSESSIONID</span></div>
 <div><span lang="EN-US">JsessionIDForms</span></div>
 <div><span lang="EN-US">JSessionIDOAFM</span></div></td>
-<td class="boe-rteTableEvenCol-default" style="width:279px">​<span lang="EN-US">These cookies help us to balance the workload by, for example, recording which server a user’s browsing session has been allocated to in order to ensure they only deal with a single server for the duration of their session.<span>&nbsp; </span>These are deleted once the browsing session ends.</span></td></tr>
+<td class="boe-rteTableEvenCol-default" colspan="2" style="width:279px">​<span lang="EN-US">These cookies help us to balance the workload by, for example, recording which server a user’s browsing session has been allocated to in order to ensure they only deal with a single server for the duration of their session.</span></td>
+<td class="boe-rteTableOddCol-default" colspan="1" style="width:59px">​End of session</td></tr>
 <tr class="boe-rteTableOddRow-default"><td class="boe-rteTableEvenCol-default" rowspan="1" colspan="1" style="width:95px">​BoE Careers</td>
-<td class="boe-rteTableOddCol-default">​<span lang="EN-US">$ {Instance Name} (default value)</span><span lang="EN-US">Oracle.uix</span></td>
-<td class="boe-rteTableEvenCol-default">​<span lang="EN-US">These cookies identify whether the user is currently logged-in or is a ‘guest’ user, expiring once the user’s session ends. They also remember time zone and accessibility preferences that users have applied.</span></td></tr>
+<td class="boe-rteTableOddCol-default" colspan="3">​<span lang="EN-US">$ {Instance Name} (default value)</span><span lang="EN-US">Oracle.uix</span></td>
+<td class="boe-rteTableEvenCol-default" colspan="2">​<span lang="EN-US">These cookies identify whether the user is currently logged-in or is a ‘guest’ user, expiring once the user’s session ends. They also remember time zone and accessibility preferences that users have applied.</span></td>
+<td class="boe-rteTableOddCol-default" colspan="1" style="width:59px">​End of session</td></tr>
 <tr class="boe-rteTableEvenRow-default"><td class="boe-rteTableEvenCol-default" rowspan="1" colspan="1" style="width:95px">​YouTube</td>
-<td class="boe-rteTableOddCol-default">​</td>
-<td class="boe-rteTableEvenCol-default" style="width:279px">​<span>We embed videos from our official YouTube channel using YouTube’s privacy-enhanced mode. This mode may set cookies on your computer once you click on the YouTube video player, but YouTube will not store personally-identifiable cookie information for playbacks of embedded </span><span>videos.</span><span>Read</span><span></span><span></span><span></span><span></span><span></span><span></span><span> more at </span><span><a title="External link" href="http://www.google.com/support/youtube/bin/answer.py?hl=en-GB&amp;answer=171780" target="_blank"><span>YouTube’s embedding videos information page</span></a>.</span></td></tr>
-<tr class="boe-rteTableFooterRow-default"><td class="boe-rteTableFooterEvenCol-default" rowspan="1" colspan="1" style="width:95px">​Website analytics</td>
-<td class="boe-rteTableFooterOddCol-default" rowspan="1"><p>​ACOOKIE<br>WT_FPC</p></td>
-<td class="boe-rteTableFooterEvenCol-default" rowspan="1" style="width:279px"><p>​<span>We use a web analytics service to analyse how visitors use our website. </span></p>
+<td class="boe-rteTableOddCol-default" colspan="3">​</td>
+<td class="boe-rteTableEvenCol-default" colspan="2" style="width:279px">​<span>We embed videos from our official YouTube channel using YouTube’s privacy-enhanced mode. This mode may set cookies on your computer once you click on the YouTube video player, but YouTube will not store personally-identifiable cookie information for playbacks of embedded </span><span>videos.<br><br></span><span>Read</span><span></span><span></span><span></span><span></span><span></span><span></span><span> more at </span><span><a title="External link" href="http://www.google.com/support/youtube/bin/answer.py?hl=en-GB&amp;answer=171780" target="_blank"><span>YouTube’s embedding videos information page</span></a>.</span></td>
+<td class="boe-rteTableOddCol-default" colspan="1" style="width:59px">​</td></tr>
+<tr class="boe-rteTableOddRow-default"><td class="boe-rteTableEvenCol-default" rowspan="1" colspan="1" style="width:95px">​Share option</td>
+<td class="boe-rteTableOddCol-default" rowspan="1" colspan="3">​</td>
+<td class="boe-rteTableEvenCol-default" rowspan="1" colspan="2" style="width:279px">​<span lang="EN-US">When users click on the icons you are simply linked to the social network site, no personally- identifiable cookie information is transferred to these sites. We encourage you to read the privacy statements on the other websites you visit.<br></span><div><span lang="EN-US">Please see below for relevant links:<br></span></div>
+<div><span lang="EN-US"><a href="https://twitter.com/privacy?lang=en" target="_blank">Twitter Privacy Policy</a></span><span lang="EN-US"></span></div>
+<div><a href="https://www.linkedin.com/legal/privacy-policy" target="_blank"><span lang="EN-US">Linkedin Privacy Policy</span></a><span><span lang="EN-US"></span></span></div>
+<div><a href="https://www.facebook.com/policy.php" target="_blank"><span lang="EN-US">Facebook Privacy Policy</span></a><span><span lang="EN-US"></span></span></div>
+<span><a href="http://www.google.com/policies/privacy/" target="_blank"><span lang="EN-US">Google Privacy Policy</span></a></span></td>
+<td class="boe-rteTableOddCol-default" rowspan="1" colspan="1" style="width:59px">​</td></tr>
+<tr class="boe-rteTableEvenRow-default"><td class="boe-rteTableEvenCol-default" rowspan="1" colspan="1" style="width:95px">WebTrends analytics</td>
+<td class="boe-rteTableOddCol-default" rowspan="1" colspan="3"><p>​ACOOKIE<br>WT_FPC</p></td>
+<td class="boe-rteTableEvenCol-default" rowspan="1" colspan="2" style="width:279px"><p>​<span>We use a web analytics service to analyse how visitors use our website. </span></p>
 <p><span></span><span>These cookies are used for visitor identification and recording interaction with our website.&nbsp; </span></p>
 <ul><li><span>ACOOKIE - is a persisted third party cookie. </span></li>
-<li><span></span><span>WT_FPC&nbsp;- is set by the Javascript. It is a persisted first party cookie.<br></span></li></ul>
-<span>Both cookies expire 2 years from creation.&nbsp;</span></td></tr></tbody></table>
+<li><span></span><span>WT_FPC&nbsp;- is set by the Javascript. It is a persisted first party cookie.</span></li></ul></td>
+<td class="boe-rteTableOddCol-default" rowspan="1" colspan="1" style="width:59px">​2 years</td></tr>
+<tr class="boe-rteTableOddRow-default"><td class="boe-rteTableEvenCol-default" rowspan="2" colspan="1" style="width:95px">​Google Analytics</td>
+<td class="boe-rteTableOddCol-default" rowspan="2">​Analytics.js</td>
+<td class="boe-rteTableEvenCol-default" rowspan="1" colspan="2">​_ga</td>
+<td class="boe-rteTableOddCol-default" rowspan="1" colspan="2" style="width:279px">​<span>This cookie is used to help us count how many people visit the website by identifying whether you’ve visited us before</span></td>
+<td class="boe-rteTableEvenCol-default" rowspan="1" colspan="1" style="width:59px">​2 years</td></tr>
+<tr class="boe-rteTableEvenRow-default"><td class="boe-rteTableEvenCol-default" rowspan="1" colspan="2">​_gat</td>
+<td class="boe-rteTableOddCol-default" rowspan="1" colspan="2" style="width:279px">​<span>This cookie is used to manage the rate at which page view requests are made</span></td>
+<td class="boe-rteTableEvenCol-default" rowspan="1" colspan="1" style="width:59px">10 minutes​</td></tr>
+<tr class="boe-rteTableOddRow-default"><td class="boe-rteTableEvenCol-default" rowspan="6" colspan="1" style="width:95px">​Google Analytics</td>
+<td class="boe-rteTableOddCol-default" rowspan="6" colspan="1">​ga.js ​ ​</td>
+<td class="boe-rteTableEvenCol-default" rowspan="1" colspan="2">​ ​_utma</td>
+<td class="boe-rteTableOddCol-default" rowspan="1" colspan="2" style="width:279px">​<span>This cookie is used to count how many unique visitors there are to the website</span></td>
+<td class="boe-rteTableEvenCol-default" rowspan="1" colspan="1" style="width:59px">​2 years</td></tr>
+<tr class="boe-rteTableEvenRow-default"><td class="boe-rteTableEvenCol-default" rowspan="1" colspan="2">​_utmt</td>
+<td class="boe-rteTableOddCol-default" rowspan="1" colspan="2">​<span>This cookie is used to record the rate at which page view requests are made</span></td>
+<td class="boe-rteTableEvenCol-default" rowspan="1" colspan="1" style="width:59px">​10 minutes</td></tr>
+<tr class="boe-rteTableOddRow-default"><td class="boe-rteTableEvenCol-default" rowspan="1" colspan="2">​_utmb</td>
+<td class="boe-rteTableOddCol-default" rowspan="1" colspan="2" style="width:279px">​<span>This works with _utmc to determine whether a visit has timed out and to track activity during your visit</span></td>
+<td class="boe-rteTableEvenCol-default" rowspan="1" colspan="1" style="width:59px">​30 minutes</td></tr>
+<tr class="boe-rteTableEvenRow-default"><td class="boe-rteTableEvenCol-default" rowspan="1" colspan="2">​_utmc</td>
+<td class="boe-rteTableOddCol-default" rowspan="1" colspan="2" style="width:279px">​<span>This cookie works with _utmb to calculate when you close your browser</span></td>
+<td class="boe-rteTableEvenCol-default" rowspan="1" colspan="1" style="width:59px">​Whewn you close your browser</td></tr>
+<tr class="boe-rteTableOddRow-default"><td class="boe-rteTableEvenCol-default" rowspan="2" colspan="2">​_utmz</td>
+<td class="boe-rteTableOddCol-default" rowspan="2" colspan="2" style="width:279px"><span>This tells us how you reached our website</span></td>
+<td class="boe-rteTableEvenCol-default" rowspan="2" colspan="1" style="width:59px">​6 months</td></tr></tbody></table>
 &nbsp;</div>
-<div><div><span lang="EN-US">You can find more information about cookies, including how to control the use of these through your browser settings, at: </span></div>
-<div><a title="All about cookies" href="http://www.allaboutcookies.org/" target="_blank"><span lang="EN-US">http://www.allaboutcookies.org/ </span></a><span lang="EN-US"><span>&nbsp;&nbsp;</span></span><span></span></div>
+<div><div><span lang="EN-US">You can find more information about cookies, including how to control the use of these through your browser settings, at </span><span lang="EN-US"><a href="http://www.allaboutcookies.org/" target="_blank">http://www.allaboutcookies.org/</a></span></div>
 <div><span lang="EN-US"></span>&nbsp;</div>
-<div><span lang="EN-US"><strong>Changes to this policy</strong></span></div>
-<div><span lang="EN-US">We keep our cookies and privacy policy under regular review.<span>&nbsp; </span>This policy was last reviewed in February 2014.</span></div></div>
+<div><div><span lang="EN-US">You can also opt out of Googles Analytics Cookies by following </span><a href="https://tools.google.com/dlpage/gaoptout" target="_blank"><span lang="EN-US">this link.</span></a><span></span></div></div>
+<div><span lang="EN-US"></span>&nbsp;</div>
+<h3 class="boe-rteElement-H3"><span lang="EN-US">Changes to this policy</span></h3>
+<div><span lang="EN-US"></span><span lang="EN-US">We keep our cookies and privacy policy under regular review.<span> </span>This policy was last reviewed in September 2015.</span></div></div>
 <div>&nbsp;</div>
 <div>&nbsp;</div></div></div></div></div>
                 
@@ -389,9 +532,27 @@ if (typeof(DeferWebFormInitCallback) == 'function') DeferWebFormInitCallback();/
         the_url = replaceAll(":", "%3A", the_url);
         the_url = replaceAll("/", "%2F", the_url);
         the_url = url.replace("page_url", the_url);
-        the_url = the_url.replace("page_title", document.title);
-        the_url = the_url.replace("|", "%7C");
-        var w = window.open(the_url, "Share", "resizable,scrollbars");	
+        var the_title = document.title;
+        the_title = the_title.replace(/\u00A3/g, "");
+        the_title = the_title.replace("%", "");
+        the_title = the_title.replace("&", "");
+        the_title = the_title.replace("$", "");
+        the_title = the_title.replace("*", "");
+        the_title = the_title.replace("^", "");
+        the_title = the_title.replace("(", "");
+        the_title = the_title.replace(")", "");
+        the_title = the_title.replace("=", "");
+        the_title = the_title.replace("+", "");
+        the_title = the_title.replace(/\u20ac/g, "");
+        the_title = the_title.replace(/['"]+/g, "");
+        the_title = the_title.replace("-", "");
+        the_title = the_title.replace("!", "");
+        the_title = the_title.replace("?", "");
+        the_title = the_title.replace("%", "");
+        the_title = the_title.replace("  ", " ");
+        the_title = the_title.replace("|", "%7C");        
+        the_url = the_url.replace("page_title", the_title);
+        var w = window.open(the_url, "Share", "resizable,scrollbars");
     }
 </script>
 <style type="text/css">
@@ -447,14 +608,38 @@ if (typeof(DeferWebFormInitCallback) == 'function') DeferWebFormInitCallback();/
 </div>
 
 
-        <div id="ctl00_PlaceHolderPageFullRight_PlaceHolderMain_ucRightControlsHolder"><div id="ctl00_PlaceHolderPageFullRight_PlaceHolderMain_ctl00_divNews" class="boe_wpz_News">
-						
+        <div id="ctl00_PlaceHolderPageFullRight_PlaceHolderMain_ucRightControlsHolder"><div id="ctl00_PlaceHolderPageFullRight_PlaceHolderMain_ctl00_divKeyNotes1" class="boe_wpz_News">
+			
 	<menu class="ms-SrvMenuUI">
 	<ie:menuitem id="MSOMenu_Help" iconsrc="/_layouts/images/HelpIcon.gif" onmenuclick="MSOWebPartPage_SetNewWindowLocation(MenuWebPart.getAttribute('helpLink'), MenuWebPart.getAttribute('helpMode'))" text="Help" type="option" style="display:none">
 
 	</ie:menuitem>
 </menu>
+		
+</div>	
+
+<div id="ctl00_PlaceHolderPageFullRight_PlaceHolderMain_ctl00_divNews" class="boe_wpz_News">
 						
+	
+						
+</div>
+
+<div id="ctl00_PlaceHolderPageFullRight_PlaceHolderMain_ctl00_divKeyNotes2" class="boe_wpz_News">
+			
+	
+		
+</div>	
+
+<div class="boe_wpz_KeyFacts">
+			
+	
+		
+</div>	
+
+<div id="ctl00_PlaceHolderPageFullRight_PlaceHolderMain_ctl00_divKeyNotes3" class="boe_wpz_News">
+			
+	
+		
 </div>
 
 <div class="boe_wpz_KeyFacts">
@@ -463,17 +648,35 @@ if (typeof(DeferWebFormInitCallback) == 'function') DeferWebFormInitCallback();/
 		
 </div>	
 
-<div class="boe_wpz_KeyFacts">
+<div id="ctl00_PlaceHolderPageFullRight_PlaceHolderMain_ctl00_divKeyNotes4" class="boe_wpz_News">
 			
 	
 		
-</div>	
+</div>
 		
 		
-				
+
+<div id="ctl00_PlaceHolderPageFullRight_PlaceHolderMain_ctl00_divKeyNotes5" class="boe_wpz_News">
+			
 	
 		
+</div>
+				
+	
+
+<div id="ctl00_PlaceHolderPageFullRight_PlaceHolderMain_ctl00_divKeyNotes6" class="boe_wpz_News">
+			
+	
 		
+</div>
+		
+		
+
+<div id="ctl00_PlaceHolderPageFullRight_PlaceHolderMain_ctl00_divKeyNotes7" class="boe_wpz_News">
+			
+	
+		
+</div>
 </div>        
 					
     </div>
@@ -483,12 +686,15 @@ if (typeof(DeferWebFormInitCallback) == 'function') DeferWebFormInitCallback();/
 </div>
 
 
-                                </div>
-                            
-                            <div id="DeveloperDashboard" class="ms-developerdashboard">
+                                        </div>
+                                    </div>
+
                                 
-                            </div>
-                        </div>
+                                <div id="DeveloperDashboard" class="ms-developerdashboard">
+                                    
+                                </div>
+                            </div>                        
+
                     </div>
                     <div style="clear: both">
                     </div>
@@ -499,44 +705,57 @@ if (typeof(DeferWebFormInitCallback) == 'function') DeferWebFormInitCallback();/
 
 <style>
 .DynamicFooter
-{border-bottom:transparent 1px solid;border-left:transparent 1px solid;min-height:100px;height:auto;border-top:transparent 1px solid;border-right:transparent 1px solid;}
+{border-top:transparent 1px solid;height:auto;border-right:transparent 1px solid;border-bottom:transparent 1px solid;min-height:100px;border-left:transparent 1px solid;}
 .DynamicFooter UL
-{padding-bottom:0px;list-style-type:none;margin:0px;padding-left:0px;padding-right:0px;list-style-image:none;padding-top:0px;}
-.col
+{list-style-type:none;padding-bottom:0px;padding-top:0px;padding-left:0px;margin:0px;list-style-image:none;padding-right:0px;}
+.col1
+{width:30%;float:left;}
+.col2
+{width:21%;float:left;}
+.col3
 {width:25%;float:left;}
+.col4
+{width:24%;float:left;}
 .row LI
-{background-color:red;display:inline;}
+{display:inline;background-color:red;}
 .col LI
-{padding-bottom:0px;list-style-type:none;margin:0px;padding-left:0px;padding-right:0px;list-style-image:none;padding-top:0px;}
-</style><div class="DynamicFooter" id="Div1"><div class="col"><b>Quick Links</b> <ul class="item"><li><a href="/education/Pages/ccbs/default.aspx">Centre for Central Banking Studies</a></li>
-<li><a href="/about/Pages/welsh/default.aspx">Cymraeg</a></li>
-<li><a href="/financialstability/Pages/fmis/default.aspx">Market Infrastructure Supervision</a></li>
-<li><a href="/publications/Pages/news/default.aspx">News Releases</a></li>
-<li><a href="/financialstability/Pages/role/risk_reduction/srr/default.aspx">Resolution</a></li>
-<li><a href="/publications/Pages/speeches/default.aspx">Speeches and Articles</a></li>
-<li><a href="/banknotes/Pages/current/default.aspx">Know your Banknotes</a></li>
-<li><a href="/monetarypolicy/Pages/agencies/default.aspx">The Bank's Agencies</a></li></ul></div>
-<div class="col"><b>Legal</b> <ul class="item"><li><a href="/Pages/disclaimer.aspx">Disclaimer</a></li>
+{list-style-type:none;padding-bottom:0px;padding-top:0px;padding-left:0px;margin:0px;list-style-image:none;padding-right:0px;}
+</style><div class="DynamicFooter" id="Div1"><div class="col1"><h3>Bank of England</h3>
+<ul class="item"><li><strong><font color="#eeeeee">Threadneedle Street, London, EC2R 8AH </font></strong></li>
+<li><strong><font color="#eeeeee">Switchboard: +44 (0)20 7601 4444 </font></strong><br></li>
+<li><strong><font color="#eeeeee">General Enquiries: +44 (0)20 7601 4878 </font></strong><br><br><h3>Bank of England Museum </h3>
+<ul class="item"><strong><font color="#eeeeee">Bartholomew Lane, London, EC2R 8AH </font></strong></ul></li>
+<ul class="item"><strong><font color="#eeeeee"><a href="/education/Pages/museum/visiting/default.aspx"><img align="middle" alt="Museum" src="/PublishingImages/icons/museum3.jpg"> Visit the Museum</a></font></strong></ul>
+<p>&nbsp;</p>
+<style>
+.footericons img
+{max-height:30px;max-width:30px;}
+</style><div class="footericons"><a title="Twitter" href="https://twitter.com/bankofengland" target="_blank"><img width="45" height="45" alt="Twitter" src="/PublishingImages/icons/black/twitter.png" border="0"></a> <a title="LinkedIn" href="https://www.linkedin.com/company/bank-of-england" target="_blank"><img width="45" height="45" alt="LinkedIn" src="/PublishingImages/icons/black/linkedin.png" border="0"></a> <a title="YouTube" href="https://www.youtube.com/user/bankofenglanduk" target="_blank"><img width="45" height="45" alt="YouTube" src="/PublishingImages/icons/black/youtube.png" border="0"></a> <a title="Flickr" href="https://www.flickr.com/photos/bankofengland/albums" target="_blank"><img width="45" height="45" alt="Flickr" src="/PublishingImages/icons/black/flickr.png" border="0"></a> <a title="Facebook" href="https://www.facebook.com/bankofengland.co.uk" target="_blank"><img width="45" height="45" alt="Facebook" src="/PublishingImages/icons/black/facebook.png" border="0"></a> <a title="Periscope" href="https://www.periscope.tv/bankofengland" target="_blank"><img width="45" height="45" alt="Periscope" src="/PublishingImages/icons/black/periscope.png" border="0"></a> <a title="Email Alerts" href="/Pages/subscribe.aspx"><img width="45" height="45" alt="Email Alerts" src="/PublishingImages/icons/black/mail.png" border="0"></a> </div>
+<p>&nbsp;</p></ul></div>
+<div class="col2"><strong>About Us </strong><ul class="item"><li><a href="/Pages/accessibility.aspx">Accessibility and usability</a></li>
+<li><a href="/pages/contact.aspx"></a></li>
+<li><a href="/careers/Pages/default.aspx">Careers</a></li>
+<li><a href="/about/Pages/humanresources/diversity.aspx">Diversity and inclusion</a></li>
+<li><a href="/education/Pages/resources/default.aspx">Educational resources</a></li>
+<li><a href="/about/Pages/people/default.aspx">Our people</a></li>
+<li><a href="/Pages/sitemap.aspx">Site map</a></li>
+<li><a href="/about/Pages/visitors/default.aspx">Visiting us</a></li></ul></div>
+<div class="col3"><strong>Legal </strong><ul class="item"><li><a href="/Pages/disclaimer.aspx">Disclaimer</a></li>
+<li><a href="/Pages/fraudwarning.aspx">Fraud warning</a></li>
 <li><a href="/Pages/foi.aspx">Freedom of Information</a></li>
-<li><a href="/about/Pages/mous/default.aspx">MoUs</a></li>
+<li><a href="/about/Pages/mous/default.aspx">Memoranda of Understanding</a></li>
 <li><a href="/Pages/privacypolicy.aspx">Privacy and Cookies Policy</a></li>
 <li><a href="/about/Pages/procurement/default.aspx">Procurement</a></li>
 <li><a href="/Pages/publicsectorinformation.aspx">Re-use of public sector information</a></li>
-<li><a href="/Pages/fraudwarning.aspx">Fraud Warning</a></li>
 <li><a href="/Pages/whistleblowing.aspx">Whistleblowing</a></li></ul></div>
-<div class="col"><b>Prudential Regulation Authority (PRA)</b> <ul class="item"><li><a href="/pra/Pages/authorisations/default.aspx">Authorisations</a></li>
-<li><a href="http://www.fsa.gov.uk/register/home.do" target="_blank">Financial Services Register</a></li>
-<li><a href="http://fshandbook.info/FS/html/PRA" target="_blank">PRA Handbook</a></li>
-<li><a href="/pra/Pages/publications/default.aspx">PRA Publications</a></li>
-<li><a href="/pra/Pages/regulatorydata/default.aspx">Regulatory Reporting Information</a></li></ul></div>
-<div class="col"><b>About us</b> <ul class="item"><li><a href="/about/Pages/complaints/default.aspx">Complaints</a></li>
-<li><a href="/pages/contact.aspx">Contact Us</a></li>
-<li><a href="/about/Pages/humanresources/diversity.aspx">Diversity and Inclusion</a></li>
-<li><a href="/Pages/accessibility.aspx">Accessibility and usability</a></li>
-<li><a href="/education/Pages/default.aspx">Museum</a></li>
-<li><a href="/Pages/sitemap.aspx">Site Map</a></li>
-<li><a href="/Pages/archive.aspx">The National Archives</a></li>
-<li><a href="/about/Pages/visitors/default.aspx">Visitors</a></li></ul></div>
+<div class="col4"><strong>Quick Links</strong> <ul class="item"><li><a href="/banknotes/Pages/default.aspx">Banknotes</a></li>
+<li><a href="http://bankunderground.co.uk/" target="_blank">Bank Underground</a></li>
+<li><a href="/education/Pages/ccbs/default.aspx">Centre for Central Banking Studies</a></li>
+<li><a href="/about/Pages/welsh/default.aspx">Cymraeg</a></li>
+<li><a href="https://register.fca.org.uk/" target="_blank">Financial Services Register</a></li>
+<li><a href="http://www.prarulebook.co.uk/" target="_blank">PRA Rulebook</a></li>
+<li><a href="/publications/Pages/calendar/default.aspx">Publications Calendar</a></li>
+<li><a href="/Pages/archive.aspx">The National Archives</a></li></ul></div>
 <div class="clear">&nbsp;</div></div>
 <div>&nbsp;</div>
 
@@ -664,4 +883,4 @@ Sys.Application.initialize();
     
 
 
-<!-- Rendered using cache profile:Public Internet (Purely Anonymous) at: 2015-06-14T00:31:54 --></body></html>
+<!-- Rendered using cache profile:Public Internet (Purely Anonymous) at: 2015-12-14T16:55:23 --></body></html>
