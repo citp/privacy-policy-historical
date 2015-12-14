@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the middleeasteye.net privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630110733id_/http%3A//www.middleeasteye.net/privacy-policy-1507814569) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the middleeasteye.net privacy policy that was archived on 2015-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151214202532id_/http%3A//www.middleeasteye.net/privacy-policy-1507814569) for the most accurate reproduction.*
 
-# Privacy policy | Middle East Eye - focusing on the Middle East and North Africa
+# Privacy policy | Middle East Eye
 
 **Personal identification information**  
 We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, register on the site, and in connection with other activities, services, features or resources we make available on our Site. Users may be asked for, as appropriate, name, email address. Users may, however, visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
@@ -30,9 +30,4 @@ Middle East Eye has the discretion to update this privacy policy at any time. We
 By using this Site, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes
 
  **Contacting us**  
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
-Middle East Eye  
-[www.middleeasteye.net](http://www.middleeasteye.net/)  
-Middle East Eye is registered as M.E.E. Limited. Registered in England & Wales, Number: 08803692. Registered Office: 1st Floor Scottish Provident House 76-80 College Road Harrow Middx HA1 1BQ 
-
-This document was last updated on April 11, 2014
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at: [info@middleeasteye.org](mailto:info@middleeasteye.org)
