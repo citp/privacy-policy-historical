@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the readersdigest.co.nz privacy policy that was archived on 2014-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141207191536id_/http%3A//www.readersdigest.co.nz/privacy-policy%253Ficm%253Dfooter%252526icn%253DPrivacy%252BPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the readersdigest.co.nz privacy policy that was archived on 2015-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151214134844id_/https%3A//www.readersdigest.co.nz/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Reader's Digest
+# Privacy Policy | Reader's Digest New Zealand
+
+## TO SERVE YOU BETTER... 
 
 **General statement**
 
@@ -55,7 +57,7 @@ We secure the personal information you provide to us on servers located in contr
 
 **Protection of Credit Card Information**
 
-On our website, when you begin to place credit card details on the RD Online Store, a secure system software called "socket security layer" (SSL) encrypts all information you input before it is sent to us.
+On our website, when you begin to place credit card details on the RD Online Store, a secure system software called "Secure Sockets Layer" (SSL) encrypts all information you input before it is sent to us.
 
 **Third party websites**
 
@@ -69,7 +71,7 @@ At any time that your personal information is transferred to overseas recipients
 
 **Information by mail**
 
-Reader's Digest appreciates that some people may not wish to submit information via email or the Internet. If you do not wish to submit personal information to RD through our websites or via email, you can write to Customer Service Office, Reader's Digest (New Zealand) Limited, PO Box 90489 Victoria Street West Auckland 1142
+Reader's Digest appreciates that some people may not wish to submit information via email or the Internet. If you do not wish to submit personal information to RD through our websites or via email, you can write to Customer Service Office, Reader's Digest (New Zealand) Limited, PO Box 90489 Victoria Street West Auckland 1142.
 
 **How can you access, update or correct information that is held in your Reader's Digest customer file?**
 
@@ -86,7 +88,7 @@ PO Box 90489 Victoria Street West Auckland 1142
 **Email**  
 [privacy.nz@readersdigest.com](mailto:privacy.nz@readersdigest.com)
 
-**Our privacy Hotline**  
+**Our Privacy Hotline**  
 0800 445 184
 
 _Our Privacy Office will deal with any queries or complaints as soon as is practicable during business hours. Each communication with the Privacy Office will be dealt with as efficiently as possible to ensure that RD continues to be a privacy compliant company._
