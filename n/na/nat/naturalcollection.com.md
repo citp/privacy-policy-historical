@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the naturalcollection.com privacy policy that was archived on 2015-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150614011952id_/http%3A//www.naturalcollection.com/help-privacy-and-security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the naturalcollection.com privacy policy that was archived on 2015-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151215003619id_/http%3A//www.naturalcollection.com/help-privacy-and-security) for the most accurate reproduction.*
 
-# Help - Privacy & Security
+# Help - Privacy & Security - Natural Collection
 
 ### Privacy Policy
 
@@ -10,7 +10,7 @@ From time to time, we may add or change functions, features or products to the S
 
 Please to refer to the Privacy Policy within the Terms and conditions regularly to review any amendments. 
 
-[back to questions](http://www.naturalcollection.com/help/)
+[back to questions](https://web.archive.org/help/)
 
 ### Verified by Visa
 
@@ -24,7 +24,7 @@ If you have already registered, you will be required to use your password on fut
 
 If you would like to learn more about these services or have any difficulty with the process, please contact your card issuer who should be able to assist you, as NaturalCollection.com are unfortunately not able to help. Alternatively, you can always place your order by calling our Customer service team. 
 
-[back to questions](http://www.naturalcollection.com/help/)
+[back to questions](https://web.archive.org/help/)
 
 ### Email Subscription and Mailing Preferences
 
@@ -63,7 +63,7 @@ We take the security of your personal information very seriously. We want you to
 
 
 
-[back to questions](http://www.naturalcollection.com/help/)
+[back to questions](https://web.archive.org/help/)
 
 ### Cookies 
 
