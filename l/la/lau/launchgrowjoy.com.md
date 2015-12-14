@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the launchgrowjoy.com privacy policy that was archived on 2015-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150408085734id_/http%3A//www.launchgrowjoy.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the launchgrowjoy.com privacy policy that was archived on 2015-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151214180851id_/http%3A//www.launchgrowjoy.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Launch Grow Joy
 
@@ -53,7 +53,6 @@ This policy was last modified on October 8, 2013
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
-http://www.launchgrowjoy.com
-
+http://www.launchgrowjoy.com  
 PO Box 456, Boulder, CO 80306 USA  
 303.482.2988
