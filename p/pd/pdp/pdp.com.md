@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the pdp.com privacy policy that was archived on 2015-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150428140803id_/http%3A//www.pdp.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pdp.com privacy policy that was archived on 2015-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151214211215id_/http%3A//www.pdp.com/pages/privacy-policy) for the most accurate reproduction.*
 
-# PDP Store: Help > Privacy, Security & Accessibility
+# Privacy Policy – Performance Designed Products
 
-PDP understands that you care how information about you is used and shared, and that you want us to do so carefully and sensibly. This notice describes PDP’s privacy policy. This policy is shared across any website run as part of the PDP Network including [www.pdp.com](http://www.pdp.com/), [www.afterglowgaming.com](http://www.afterglowgaming.com/), [www.pdpmobile.com](http://www.pdpmobile.com/) and any future websites PDP adds to the PDP Network.
+PDP understands that you care how information about you is used and shared, and that you want us to do so carefully and sensibly. This notice describes PDP’s privacy policy. This policy is shared across any website run as part of the PDP Network including [www.pdp.com](http://www.pdp.com/) and any future websites PDP adds to the PDP Network.
 
 This privacy policy describes what information PDP collects when you visit any of the websites in the PDP network and how we can use that information. By accessing and using a PDP Network websites, you accept the terms and practices set forth in this Privacy Policy (as updated from time to time), and to PDP's use of the personal information we collect. You also consent to our sharing of this information with third parties, as described further herein.
 
-## What information do we collect?
+## What Information Do We Collect?
 
 The information we collect from customers helps us learn about our customers' needs, and helps us to improve our websites and your shopping experience. Here are the types of information we gather:
 
@@ -22,13 +22,13 @@ We use your Internet protocol address to help identify you and your shopping car
 
 Our websites may use cookies to keep track of the items in your shopping cart so you don't have to re-enter them each time you visit. Acceptance of cookies is not a requirement to browse our websites, however our shopping cart does require the acceptance of cookies to work properly, and thus you must accept cookies to place orders on our websites. Cookies are not used to store sensitive customer information such as names, addresses, passwords or credit card numbers.
 
-## E-mail
+## E-MAIL
 
 Customer e-mails provided as part of the order process or account creation are retained in a database and are subject to the use and sharing outlined above. These e-mail addresses may be used for marketing purposes subject to all relevant laws and statutes in the United States of America.
 
 PDP has an "e-mail to a friend" feature on our websites that allows you to share product or other information about our websites or products with your friends. Any e-mail addresses provided to us in the use of these features are used for direction of the e-mail communication. These e-mails are not retained in our database, nor are they used for communication other than for the purpose for which they are originally entered. PDP has an e-mail notification program that informs customers when a particular product is available for purchase. Emails provided for this service are used only for the purpose of sending the notification e-mail and are eliminated after use.
 
-## Social Media
+## SOCIAL MEDIA
 
 The websites that make up the PDP Network may have social media buttons that allow users to share product information, articles or other information with friends via social media networks such as Twitter and Facebook. PDP retains no information about your social networks and runs its social media marketing operations in compliance with all relevant requirements imposed by said social networks.
 
