@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the joomlaextensions.co.in privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612053714id_/http%3A//joomlaextensions.co.in/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the joomlaextensions.co.in privacy policy that was archived on 2015-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151214175918id_/http%3A//joomlaextensions.co.in/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -19,7 +19,7 @@ We do not sell, trade, or otherwise transfer to outside parties your personally 
 **Third party links**  
 Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.  
 **Terms and Conditions**  
-Please also visit our [Terms and Conditions](http://www.joomlaextensions.co.in/terms-and-condition) section establishing the use, disclaimers, and limitations of liability governing the use of our website.
+Please also visit our [Terms and Conditions](http://joomlaextensions.co.in/terms-and-condition.html) section establishing the use, disclaimers, and limitations of liability governing the use of our website.
 
 ### Your Consent
 
