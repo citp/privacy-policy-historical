@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the globalwebindex.net privacy policy that was archived on 2015-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150615103617id_/https%3A//www.globalwebindex.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globalwebindex.net privacy policy that was archived on 2015-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151214230730id_/https%3A//www.globalwebindex.net/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | GlobalWebIndex - Know Your Audience™
-
-This policy (together with our terms and conditions for use of our GlobalWebIndex service (including trial service) and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
 
 Trendstream Limited ( **we** , **us** or **our** ) are committed to protecting and respecting your privacy.
 
@@ -19,7 +17,7 @@ We may collect and process the following data about you:
   * We may also ask you to complete surveys that we use for research purposes, although you do not have to respond to them.
   * Details of your visits to our site (including, but not limited to, traffic data, location data, weblogs and other communication data, whether this is required for our own billing purposes or otherwise) and the resources that you access.
   * Location of usage of, frequency of access to, data used from and the details of the person who logs in to use our products or services.
-
+  *   *   * 
 
 
 **IP addresses and cookies**
@@ -52,7 +50,7 @@ The domain names for our cookies are as follows:
 
 
 
-To opt out of our tracking by our GWIQ analytics service, please [visit this webpage](https://www.globalwebindex.net/gwiq/opt-out).
+To opt out of our tracking by our GWIQ analytics service, please [visit this webpage](http://optout.globalwebindex.net/).
 
 You may also refuse to accept cookies by activating the setting on your browser which allows you to refuse the setting of cookies. However, if you select this setting you may be unable to access certain parts of our site. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies when you log on to our site.
 
@@ -92,7 +90,7 @@ We may disclose your personal information to third parties:
   * In the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets.
   * If Trendstream Limited or substantially all of its assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets.
   * If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our Terms & Conditions and other agreements; or to protect the rights, property, or safety of Trendstream Limited, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
-
+  * 
 
 
 **Your rights**  
