@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the inthepowderroom.com privacy policy that was archived on 2015-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150615093131id_/http%3A//inthepowderroom.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inthepowderroom.com privacy policy that was archived on 2015-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151214153419id_/http%3A//inthepowderroom.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - In the Powder Room
+# Privacy Policy | In the Powder Room
 
 ### Your Privacy and the Security of Your Personal Information Is Very Important to Us
 
