@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thepihut.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608041851id_/http%3A//thepihut.com/pages/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thepihut.com privacy policy that was archived on 2015-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151214054840id_/http%3A//thepihut.com/pages/privacy-statement) for the most accurate reproduction.*
 
-# Privacy Statement | The Pi Hut
+# Privacy Statement – The Pi Hut
 
 **SECTION 1 - WHAT DO WE DO WITH YOUR INFORMATION?**  
 When you purchase something from our store, as part of the buying and selling process, we collect the personal information you give us such as your name, address and email address. 
