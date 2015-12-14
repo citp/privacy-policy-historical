@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the airtkt.com privacy policy that was archived on 2015-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150615100606id_/http%3A//www.airtkt.com/privacy-policy-AirTkt) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the airtkt.com privacy policy that was archived on 2015-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151214134004id_/http%3A//www.airtkt.com/privacy-policy-AirTkt) for the most accurate reproduction.*
 
 # Privacy Policy, Flights, Airline Tickets, Cheap Flights, Last Minute Flights - AirTkt
 
@@ -11,6 +11,44 @@ November 8th, 2008
 Please read this Privacy Policy carefully. You can access the Privacy Policy any time at <http://www.airtkt.com/privacy-policy-AirTkt>. Your use of and/or registration on any aspect of the Website will constitute your agreement to this Privacy Policy. 
 
 The following Privacy Policy summarizes the various ways that www.Airtkt.com ("Service Provider," "we", "Website") will treat the information you provide while using our website. It is our goal to bring you information that is tailored to your individual needs and, at the same time, protect your privacy. 
+
+## Purchasing airline tickets and related services
+
+In order to purchase airline tickets and related services through our website, you must provide us with certain personal information such as your name, your credit card number and expiration date, your credit card billing address, your telephone number, your e-mail address and the name or names of those traveling, if not you. We require this information so that we can process, fulfill and confirm your reservations and transactions and keep you informed of each transaction's status. If you are making a reservation for one or more travelers other than yourself, you will need to make sure that each of these other travelers agrees, in advance, that you may disclose their personal information to us.
+
+In order to purchase airline tickets and related services through the our website, you must provide us with certain personal information such as your name, your credit card number and expiration date, your credit card billing address, your telephone number, your e-mail address and the name or names of those traveling, if not you. In case the ticket is booked using an international credit or debit card, card holder is required to provide a scan copy of the card and his passport. We require this information so that we can process, fulfill and confirm your reservations and transactions and keep you informed of each transaction's status.
+
+Once the booking is complete, we will immediately display your itinerary for you to print or email, with a six digit Airtkt.com booking number. Please save the booking number for future reference.
+
+Once ticket issued, we will send you the E-Ticket Confirmation Number via email. Please allow us 3 business hours to Issue the E-tickets.
+
+Current reservations can be viewed at any time by accessing the Check Your Booking section of our website using the [airtkt.com](http://www.airtkt.com/) booking number and name of first passenger.
+
+Bookings are not guaranteed until a ticket is issued (since the airline can change prices anytime) & you receive an airline e-ticket conformation number. If required we will send you the Paper Ticket via overnight mail once the ticket is issued. We will mail the ticket to the address given. If your mailing address is different please call and inform our agent.
+
+When purchasing airline tickets or paying for hotel booking for someone other than yourself, or when credit card holder is traveling with passengers that have a different last name, the credit card holder must authorize the charge by completing the Credit Card Authorization Form and faxed or email to us same day or within 12 hours of purchasing the tickets. Failure to that may result in cancellation of reservations at the company's discretion. Our agent may call you to verify the Credit Card holder's information for Credit Card security reasons. As an added security step we may call your credit card company on a three way call to verify the transition.
+
+We also advise all customers, please confirm your flights at least 24 hours before each departure by calling the airline directly. Airlines will occasionally change flight schedules and it is the travelers' responsibility to be aware of these changes. Click here for airline contact information. 
+
+[](https://web.archive.org/privacy-policy-AirTkt#top)
+
+## Becoming a registered member of Airtkt.com
+
+If you become a registered member of Airtkt.com, you must provide your name, e-mail address, country, member login password. This information is collected on the registration form for several reasons including:    
+
+  * To complete air, hotel, car and other reservations. 
+  
+
+  * To allow us to contact you for customer service purposes, if necessary specific needs.
+  
+
+  * We need your e-mail address to confirm each reservation you transact on our web site.
+
+
+
+Most Important tip for buying tickets on our website is to become Member of (MY Eros Family). Our membership is free and members can get the Special Sale fare from our website and save more on their travel. Those special fares are only available to members only; our advice is please sign in as a member before you search. To become a registered member of airtkt.com, you must provide your name, e-mail address, country, member login password. 
+
+[](https://web.archive.org/privacy-policy-AirTkt#top)
 
 As a traveler we realize that you also want to be in control of all your personal information. Airtkt.com has become the leader in online travel by earning and maintaining our customers' trust. That is our first priority and responsibility.
 
@@ -76,44 +114,6 @@ In addition, as our business changes, we may buy or sell various assets. In the 
 
 [](https://web.archive.org/privacy-policy-AirTkt#top)
 
-## Purchasing airline tickets and related services
-
-In order to purchase airline tickets and related services through our website, you must provide us with certain personal information such as your name, your credit card number and expiration date, your credit card billing address, your telephone number, your e-mail address and the name or names of those traveling, if not you. We require this information so that we can process, fulfill and confirm your reservations and transactions and keep you informed of each transaction's status. If you are making a reservation for one or more travelers other than yourself, you will need to make sure that each of these other travelers agrees, in advance, that you may disclose their personal information to us.
-
-In order to purchase airline tickets and related services through the our website, you must provide us with certain personal information such as your name, your credit card number and expiration date, your credit card billing address, your telephone number, your e-mail address and the name or names of those traveling, if not you. In case the ticket is booked using an international credit or debit card, card holder is required to provide a scan copy of the card and his passport. We require this information so that we can process, fulfill and confirm your reservations and transactions and keep you informed of each transaction's status.
-
-Once the booking is complete, we will immediately display your itinerary for you to print or email, with a six digit Airtkt.com booking number. Please save the booking number for future reference.
-
-Once ticket issued, we will send you the E-Ticket Confirmation Number via email. Please allow us 3 business hours to Issue the E-tickets.
-
-Current reservations can be viewed at any time by accessing the Check Your Booking section of our website using the [airtkt.com](http://www.airtkt.com/) booking number and name of first passenger.
-
-Bookings are not guaranteed until a ticket is issued (since the airline can change prices anytime) & you receive an airline e-ticket conformation number. If required we will send you the Paper Ticket via overnight mail once the ticket is issued. We will mail the ticket to the address given. If your mailing address is different please call and inform our agent.
-
-When purchasing airline tickets or paying for hotel booking for someone other than yourself, or when credit card holder is traveling with passengers that have a different last name, the credit card holder must authorize the charge by completing the Credit Card Authorization Form and faxed or email to us same day or within 12 hours of purchasing the tickets. Failure to that may result in cancellation of reservations at the company's discretion. Our agent may call you to verify the Credit Card holder's information for Credit Card security reasons. As an added security step we may call your credit card company on a three way call to verify the transition.
-
-We also advise all customers, please confirm your flights at least 24 hours before each departure by calling the airline directly. Airlines will occasionally change flight schedules and it is the travelers' responsibility to be aware of these changes. Click here for airline contact information. 
-
-[](https://web.archive.org/privacy-policy-AirTkt#top)
-
-## Becoming a registered member of Airtkt.com
-
-If you become a registered member of Airtkt.com, you must provide your name, e-mail address, country, member login password. This information is collected on the registration form for several reasons including:    
-
-  * To complete air, hotel, car and other reservations. 
-  
-
-  * To allow us to contact you for customer service purposes, if necessary specific needs.
-  
-
-  * We need your e-mail address to confirm each reservation you transact on our web site.
-
-
-
-Most Important tip for buying tickets on our website is to become Member of (MY Eros Family). Our membership is free and members can get the Special Sale fare from our website and save more on their travel. Those special fares are only available to members only; our advice is please sign in as a member before you search. To become a registered member of airtkt.com, you must provide your name, e-mail address, country, member login password. 
-
-[](https://web.archive.org/privacy-policy-AirTkt#top)
-
 We rely on our users to be truthful in responding to the question of age. We do not sell travel or any related services for purchase by children. Should a child whom we know to be under 13 send personal information to us, we will use that information only to respond directly to that child to inform him or her that we must have parental consent before receiving his or her personal information. Airtkt.com will not provide any personally identifying information about users under the age of 13, regardless of its source, to any third party for any purpose whatsoever without first requesting parental permission.
 
 When search our site, you are not required to provide any personal information until you choose to make a purchase. We do not knowingly permit the site to be used by any person under the age of eighteen and we do not knowingly collect any personal information from children under thirteen years of age. A valid credit card is required to make a purchase on our site. Purchase also can be made by visiting our office or sending money via Western Union.
@@ -147,11 +147,12 @@ Customer support 24/7
 
 [](https://web.archive.org/privacy-policy-AirTkt#top)
 
-Protect Your Trip | Accredited Agent | 100% Secure Site | Accredited Agency | Cards Accepted  
----|---|---|---|---  
+Protect Your Trip | Accredited Agent | 100% Secure Site | Accredited Agency | Cards Accepted | Member  
+---|---|---|---|---|---  
   
 |   
-|  |  |   
+|  |  |  |    
+  
   
 * Discount is applicable on unrestricted published airfare of most major scheduled airlines. These offers are good on major airlines to all destinations world wide. All fares are subject to availability.Discount may vary based on availability, season, travel dates, advance notice, minimum maximum stay, black out travel dates and may change without any prior notice.Additional restrictions may apply. This site pays most careful attention in providing information and data, but it does not guarantee the correctness, completeness, and the usefulness of its contents. 
 
