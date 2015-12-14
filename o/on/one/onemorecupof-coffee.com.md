@@ -1,10 +1,24 @@
-> *The following text is extracted and transformed from the onemorecupof-coffee.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609091924id_/http%3A//onemorecupof-coffee.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onemorecupof-coffee.com privacy policy that was archived on 2015-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151214145644id_/http%3A//onemorecupof-coffee.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 *As a special note to my visitors,, I will NOT give any of your information to anyone, for any reason. You can opt into my email lists to receive updates and training, otherwise I will not send you any BS to your inbox.
 
 *Sometimes if you comment and I feel that it is not appropriate for the post, but needs to be addressed, I’ll send you an email. This is the email address you submit when you leave the comment. I will not add you to any list, this is just meant as a courtesy, ie your comment will not get published but we can talk over email.
+
+#### Google Analytics Advertising
+
+_The Google Analytics Advertising Features  we’ve implemented_
+
+We have enabled “Remarking” and “Advertising Reporting Features”. This basically means that Google collects data about you anonymously. They might know you are a 30-year old male from Florida, but they don’t know your name or address.
+
+_How we  and third-party vendors use first-party cookies (such as the Google Analytics cookie) or other first-party identifiers, and third-party cookies (such as Google advertising cookies) or other third-party identifiers together._
+
+We don’t personally use any cookies, but affiliate programs participate in may use cookies to help track sales or provide you with a better shopping experience. We check out analytics data to see what type of person is reading our website so we can tailor our content accordingly, but have no idea of your actual identity.
+
+_How visitors can opt-out of the Google Analytics Advertising Features you use, including through Ads Settings, Ad Settings for mobile apps, or any other available means (for example, the NAI’s consumer opt-out)._
+
+You can opt out of all this by downloading the [Chrome Opt Out Extension](https://tools.google.com/dlpage/gaoptout/).
 
 Below is the rest of the PP. It’s just a bunch of standard legal jargon.
 
