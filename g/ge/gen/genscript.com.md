@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the genscript.com privacy policy that was archived on 2015-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150616005102id_/http%3A//www.genscript.com/privacy_policy.html%3Fsrc%3Dpullmenu) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the genscript.com privacy policy that was archived on 2015-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151214142528id_/http%3A//www.genscript.com/privacy_policy.html%3Fsrc%3Dpullmenu) for the most accurate reproduction.*
 
-# Privacy Policy - GenScript- Make Research Easy
+# Privacy Policy - GenScript
 
 | 
 
@@ -114,6 +114,6 @@ The Policy is written in English. If this Policy appears in another language, th
 If you have any requests, questions, concerns or suggestions about this Policy or our treatment of your personal information, please contact us:
 
   * by email to [bhamap@genscript.com](mailto:bhamap@genscript.com); or
-  * by post to Customer Relations, GenScript USA Inc., 860 Centennial Avenue, Piscataway, NJ 08854, USA.
+  * by post to Customer Relations, GenScript Inc., 860 Centennial Avenue, Piscataway, NJ 08854, USA.
 
 
