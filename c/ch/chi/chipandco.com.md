@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chipandco.com privacy policy that was archived on 2015-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150615005714id_/http%3A//www.chipandco.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chipandco.com privacy policy that was archived on 2015-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151214183559id_/http%3A//www.chipandco.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -31,20 +31,26 @@ Contact Information
 
 Concerns or questions can be directed to chip@chipandco.com for further clarification.
 
+* * *
+
+_Thank you for visiting Chip and Co. Be sure to sign up for our[Daily Newsletter](http://www.chipandco.com/subscribe/) where we deliver the best in Disney News & Planning Tips to your inbox! You can find us all over the internet at [Twitter](http://www.twitter.com/chipandcompany), [Facebook](https://www.facebook.com/chipandco), [Instagram](http://instagram.com/chipandco), [Pinterest](http://www.pinterest.com/chipandco), [Google+](http://plus.google.com/+Chipandco), [Tumblr](http://chipandco.tumblr.com/), and even our [Tee Public Store](http://shrsl.com/?~8esm)!
+
+[](http://www.worldofmagictravel.com/chip-and-co-free-vacation-quote/)
+
   * About
   * Latest Posts
 
 
 
-[](http://www.chipandco.com/ "Chip Confer")
+[](http://www.chipandco.com/ "Chip")
 
-### [Chip Confer](http://www.chipandco.com/)
+### [Chip](http://www.chipandco.com/)
 
 Chip C is owner of [Chip and Co](http://www.chipandco.com/) \- Your source for Disney Park News, Planning Tips, Giveaways, and More. When he is not writing about [Disney News](http://www.chipandco.com/category/news/), or [Planning Tips](http://www.chipandco.com/category/views/planning/), you will find him counting down the days to his next Disney Vacation. Be sure to follow Chip using one of the buttons to the right -->
 
-[](http://www.chipandco.com/ "Chip Confer")
+[](http://www.chipandco.com/ "Chip")
 
-#### Latest posts by Chip Confer ([see all](http://www.chipandco.com/author/overburnz/))
+#### Latest posts by Chip ([see all](http://www.chipandco.com/author/overburnz/))
 
   
-
+_
