@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the toshiba.ca privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626131420id_/http%3A//www.toshiba.ca/Privacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toshiba.ca privacy policy that was archived on 2015-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151215001858id_/http%3A//www.toshiba.ca/Privacy_Policy) for the most accurate reproduction.*
 
 # Toshiba of Canada Limited
 
@@ -115,8 +115,8 @@ All comments, questions, concerns or complaints regarding your Personal Informat
 > In writing:   
 > Privacy Officer   
 > Toshiba of Canada Limited   
-> 191 McNabb Street   
-> Markham, ON L3R 8H2    
+> 75 Tiverton Court  
+> Markham, ON L3R 4M8    
 > Email: [privacyofficer@toshiba.ca](mailto:privacyofficer@toshiba.ca) 
 
 Copyright© 2013 Toshiba of Canada Limited, Inc. All rights reserved.
