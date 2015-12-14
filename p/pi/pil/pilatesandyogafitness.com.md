@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the pilatesandyogafitness.com privacy policy that was archived on 2015-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150515063156id_/http%3A//pilatesandyogafitness.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pilatesandyogafitness.com privacy policy that was archived on 2015-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151214132359id_/http%3A//pilatesandyogafitness.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy » Pilates & Yoga Fitness
 
-This Privacy Policy governs the manner in which [Pilates](http://pilatesandyogafitness.com/pilates/ "Pilates") and Yoga [Fitness](http://pilatesandyogafitness.com/fitness/ "Fitness") collects, uses, maintains and discloses information collected from users (each, a “User”) of the http://www.pilatesandyogafitness.com website (“Site”). This privacy policy applies to the Site and all products and services offered by Pilates and Yoga Fitness.
+This Privacy Policy governs the manner in which Pilates and Yoga [Fitness](http://pilatesandyogafitness.com/fitness/ "Fitness") collects, uses, maintains and discloses information collected from users (each, a “User”) of the http://www.pilatesandyogafitness.com website (“Site”). This privacy policy applies to the Site and all [products](http://pilatesandyogafitness.com/products/ "products") and services offered by Pilates and Yoga Fitness.
 
 **Personal identification information**
 
@@ -53,7 +53,7 @@ Ads appearing on our site may be delivered to Users by advertising partners, who
 
 **Google Adsense**
 
-Some of the ads may be served by Google. Google’s use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses “non personally identifiable information” and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at http://www.google.com/privacy_ads.html
+Some of the ads may be served by Google. Google’s use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses “non personally identifiable information” and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at http://www.google.com/policies/technologies/ads/.
 
 **Changes to this privacy policy**
 
@@ -67,4 +67,4 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please [contact](http://pilatesandyogafitness.com/contact/ "contact") us at: [info@pilatesandyogafitness.com](mailto:info@pilatesandyogafitness.com)
 
-This document was last updated on November 25, 2013
+This document was last updated on July 25, 2015
