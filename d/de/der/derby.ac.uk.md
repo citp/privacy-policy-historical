@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the derby.ac.uk privacy policy that was archived on 2015-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150621162121id_/http%3A//www.derby.ac.uk/styleassets/footerlinks/privacyandcookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the derby.ac.uk privacy policy that was archived on 2015-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151214132446id_/http%3A//www.derby.ac.uk/styleassets/footerlinks/privacyandcookies) for the most accurate reproduction.*
 
-# Privacy and cookies - University of Derby
+# 
 
 ## What is a cookie?
 
@@ -16,34 +16,6 @@ Most web browsers allow you to control most cookies through browser settings. To
 
 Cookies| Purpose| More information  
 ---|---|---  
-  
-**PHPSESSID**
-
-| 
-
-General purpose session cookies, essential for the site to function
-
-| 
-
-These cookies are used by people logging in to our Content Mangement System. They're also used to remember whether you've already ordered a prospectus.  
-  
-**TAOS_TRACK_SESSION**
-
-| 
-
-Required for login and other features to work.  
-  
-**TAOS_PAGE_NO**
-
-| 
-
-Remembers how many pages have been viewed.  
-  
-**TAOS_LAST_NODE**
-
-| 
-
-Remembers the last page viewed.  
   
 **Google Analytics**
 
