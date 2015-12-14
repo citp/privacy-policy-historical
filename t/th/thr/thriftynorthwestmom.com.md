@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thriftynorthwestmom.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607123531id_/http%3A//www.thriftynorthwestmom.com/contact/disclosure-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thriftynorthwestmom.com privacy policy that was archived on 2015-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151214155051id_/http%3A//www.thriftynorthwestmom.com/contact/disclosure-privacy-policy) for the most accurate reproduction.*
 
 # Disclosure & Privacy Policy - Thrifty NW Mom
 
@@ -6,7 +6,7 @@
 
  **This policy is valid from 30 November 2009**
 
-This blog is a personal blog written and edited by me (Jennifer Dotson).  I make every attempt to post information that is both accurate & timely; however I am human & do make mistakes.  Therefore, I am not responsible for typographical errors made by within the post or by the company I’ve written about. I am also not responsible for an incorrect link to a product or an offer that lapses before a reader has had a chance to participate.  For questions about this blog, please contact thriftynwmom (at) gmail (dot) com.
+This blog is a personal blog written and edited by us (Jennifer Dotson and Sia Hills).  We make every attempt to post information that is both accurate & timely; however we am human & do make mistakes.  Therefore, we am not responsible for typographical errors made by within the post or by the company We’ve written about. We are also not responsible for an incorrect link to a product or an offer that lapses before a reader has had a chance to participate.  For questions about this blog, please contact thriftynwmom (at) gmail (dot) com.
 
 This blog accepts forms of cash advertising, sponsorship, paid insertions or other forms of compensation. Blog posts may contain affiliate links. Using these links & working with advertisers or ad networks helps support the time & effort that I put into making this site a helpful resource for my readers.
 
