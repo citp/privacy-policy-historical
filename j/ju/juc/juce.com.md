@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the juce.com privacy policy that was archived on 2015-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150615110636id_/http%3A//www.juce.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the juce.com privacy policy that was archived on 2015-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151214192604id_/http%3A//www.juce.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | JUCE C++ Library
+# Privacy Policy | JUCE
 
 Your privacy is important to us! This privacy statement provides information about the personal information that ROLI Ltd collects, and the ways in which that personal information is used.
 
