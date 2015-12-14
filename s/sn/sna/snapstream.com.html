@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the snapstream.com privacy policy that was archived on 2015-06-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150607014843id_/http%3A//www.snapstream.com/enterprise/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the snapstream.com privacy policy that was archived on 2015-12-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151214203946id_/http%3A//www.snapstream.com/enterprise/privacy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
   <title> Privacy Policy | SnapStream</title>
@@ -20,7 +20,7 @@
       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
     <![endif]-->
     <link href="/includes/enterpriseMobile.css" rel="stylesheet">
-  </head>
+  <script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
   <body id="overview" class="bgGradient">
 	<div class="navbar-wrapper">
 	<nav class="navbar navbar-inverse navbar-fixed-top navbarOverride" role="navigation">
@@ -32,8 +32,9 @@
 					<span class="icon-bar"></span>
 					<span class="icon-bar"></span>
 				</button>
-				<a class="btn btn-deafult navbar-toggle collapsed contactUsAnchor navbarContact" id="contactUsAnchor" href="/enterprise/ContactUs.asp"><strong>Email Us</strong></a>
-				<a class="navbar-brand" href="/"><img src="/images/enterprise/snapstreamCleanLogo.png"></a>
+				<a class="btn btn-deafult navbar-toggle collapsed contactUsAnchor navbarContact hidden-xs" id="contactUsAnchor" href="/enterprise/ContactUs.asp"><strong>Contact Us</strong></a>
+				<a class="btn btn-deafult navbar-toggle collapsed contactUsAnchor navbarContact" id="contactUsAnchor" href="/enterprise/ContactUs.asp"><strong>Contact</strong></a>
+				<a class="navbar-brand" href="/"><img src="/images/enterprise/snapstreamCleanLogo.png" alt="SnapStream logo"></a>
 			</div>
 			<div class="navbar-collapse collapse">
 				<ul class="nav navbar-nav">
@@ -42,39 +43,53 @@
 						<a href="#" data-href="/enterprise/features.asp" class="dropdown-toggle hidden-md hidden-lg visible-mobile" data-toggle="dropdown" data-hover="dropdown" data-delay="300" data-close-others="false">Features<span class="caret"></span></a>
 						<a href="/enterprise/features.asp" class="dropdown-toggle hidden-xs hidden-sm hidden-mobile" data-hover="dropdown" data-delay="300" data-close-others="false">Features<span class="caret"></span></a>
 						<ul class="dropdown-menu" role="menu">
-							<li class="navbar-recording"><a href="/enterprise/features/recording.asp">TV Recording</a></li>
-							<li class="navbar-search"><a href="/enterprise/features/search.asp">TV Search</a></li>
-							<li class="navbar-socialtv"><a href="/enterprise/features/socialTV.asp">Social TV (new)</a></li>
-							<li class="navbar-webplayer"><a href="/enterprise/features/webPlayer.asp">TV over LAN</a></li>
-							<li class="navbar-clipping"><a href="/enterprise/features/clipping.asp">Create TV Clips</a></li>
-							<li class="navbar-showsqueeze"><a href="/enterprise/features/showsqueeze.asp">Transcoding &amp; Workflows</a></li>
-							<li class="navbar-products"><a href="/enterprise/features.asp#alerts">Email Alerts</a></li>
-							<li class="navbar-products"><a href="/enterprise/features.asp#SmartChapter">Detect Commercials</a></li>
-							<li class="navbar-clustering"><a href="/enterprise/features/clustering.asp">Clustering</a></li>
-							<li class="navbar-api"><a href="/enterprise/features/api.asp">API</a></li>
+							<li class="navbar-recording"><a href="/enterprise/features/recording.asp">Record TV</a></li>
+							<li class="navbar-search"><a href="/enterprise/features/tv-search.asp">Search TV</a></li>
+							<li><a href="/enterprise/features/social-TV.asp" class="tvTwitter">TV to Twitter</a></li>
+							<li><a href="/enterprise/features/social-TV.asp" class="tvFacebook">TV to Facebook</a></li>
+							<li class="navbar-clipping"><a href="/enterprise/features/clipping.asp">Clip TV</a></li>
+							<li class="navbar-webplayer"><a href="/enterprise/features/webPlayer.asp">Watch TV</a></li>
+							<li class="divider"></li>
+							<li class="dropdown-submenu" role="menu">
+								<a tabindex="-1" href="#">More</a>
+								<ul class="dropdown-menu">
+									<li><a tabindex="-1" href="/enterprise/features/showsqueeze.asp">ShowSqueeze</a></li>
+									<li><a tabindex="-1" href="/enterprise/features/clustering.asp">Clustering</a></li>
+									<li><a tabindex="-1" href="/enterprise/features/api.asp">API</a></li>
+								</ul>
+							</li>
 						</ul>
 					</li>
 					<li class="dropdown navbar-appliance navbar-cloud navbar-howitworks hidden-sm">
 					<a href="#" data-href="/enterprise/howitworks.asp" class="dropdown-toggle hidden-xs hidden-sm hidden-md hidden-lg visible-mobile" data-toggle="dropdown" data-hover="dropdown" data-delay="300" data-close-others="false">How it Works<span class="caret"></span></a>
 					<a href="/enterprise/howitworks.asp" class="dropdown-toggle hidden-xs hidden-sm hidden-md hidden-mobile" data-hover="dropdown" data-delay="300" data-close-others="false">How it Works<span class="caret"></span></a>
 						<ul class="dropdown-menu" role="menu">
-							<li class="navbar-appliance"><a href="/enterprise/howitworks.asp#appliance">Local Appliance</a>
-							</li><li class="navbar-cloud"><a href="/enterprise/howitworks.asp#cloud">Cloud</a>
-						</li></ul>				
+							<li class="navbar-appliance"><a href="/enterprise/howitworks.asp">Local Appliance</a></li>
+							<li class="navbar-cloud"><a href="/enterprise/howitworks.asp#cloud">Cloud</a></li>
+						</ul>				
 					</li>
-					<li class="navbar-customers navbar-emerson navbar-miami navbar-rodeo hidden-sm"><a href="/enterprise/customers.asp">Customers</a></li>
+					<!--<li class="navbar-customers navbar-emerson navbar-miami navbar-rodeo hidden-sm"><a href="/enterprise/customers.asp">Customers</a></li>-->
 					<li class="navbar-pricing"><a href="/enterprise/buynow/pricing.asp">Pricing</a></li>
-					<li class="navbar-support hidden-sm"><a href="/enterprise/support/default.asp">Support</a></li>
+					<li class="dropdown navbar-release notes navbar-upgrade navbar-how tos navbar-support">
+						<a href="#" data-href="/enterprise/support/default.asp" class="dropdown-toggle hidden-md hidden-lg visible-mobile" data-toggle="dropdown" data-hover="dropdown" data-delay="300" data-close-others="false">Support<span class="caret"></span></a>
+						<a href="/enterprise/support/default.asp" class="dropdown-toggle hidden-xs hidden-sm hidden-mobile" data-hover="dropdown" data-delay="300" data-close-others="false">Support<span class="caret"></span></a>
+						<ul class="dropdown-menu" role="menu">
+							<li class="navbar-contact support"><a href="/enterprise/support/default.asp">Contact Support</a></li>
+							<li class="navbar-release notes"><a href="/enterprise/support/releasenotes.asp">Release Notes (6.6)</a></li>
+							<li class="navbar-upgrade"><a href="/enterprise/upgrade.asp">Why Upgrade?</a></li>
+							<li class="navbar-how tos"><a href="/enterprise/support/howtos/default.asp">How Tos</a></li>
+						</ul>
+					</li>
 					<li><a class="hidden-sm hidden-md hidden-lg" id="navbarSearchButton" href="#searchModal" data-toggle="modal"><span class="nav-search-button glyphicon glyphicon-search"></span> Search</a></li>
 				</ul>
 				<div class="navbar-left hidden-xs hidden-sm">
-					<a class="btn btn-default navbar-button contactUsAnchor navbarContact" id="contactUsAnchor" href="/enterprise/ContactUs.asp"><strong>Email Us</strong></a>
+					<a class="btn btn-default navbar-button contactUsAnchor navbarContact" id="contactUsAnchor" href="/enterprise/ContactUs.asp"><strong>Contact Us</strong></a>
 				</div>
 				<div class="navbar-right hidden-xs hidden-sm">
 					<a class="btn btn-default navbar-button" id="navbarSearchButton" href="#searchModal" data-toggle="modal"><span class="nav-search-button glyphicon glyphicon-search"></span></a>
 				</div>
 				<div class="navbar-right hidden-xs hidden-md hidden-lg">
-					<a class="btn btn-default navbar-button contactUsAnchor navbarContact" id="contactUsAnchor" style="margin-right:15px;" href="/enterprise/ContactUs.asp"><strong>Email Us</strong></a>
+					<a class="btn btn-default navbar-button contactUsAnchor navbarContact" id="contactUsAnchor" style="margin-right:15px; font-size:13px;" href="/enterprise/ContactUs.asp"><strong>Contact</strong></a>
 					<a class="btn btn-default navbar-button" id="navbarSearchButton" href="#searchModal" data-toggle="modal"><span class="nav-search-button glyphicon glyphicon-search"></span></a>
 				</div>
 			</div>
@@ -82,7 +97,7 @@
 	</nav>
 
 <!--MailChimp Goal Tracking-->
-<script async="" src="//www.google-analytics.com/analytics.js"></script><script id="twitter-wjs" src="https://platform.twitter.com/widgets.js"></script><script type="text/javascript" async="" src="https://www.google.com/cse/cse.js?cx=017643444788069204610:4gvhea_mvga"></script><script type="text/javascript" async="" defer="" src="https://s3.amazonaws.com/downloads.mailchimp.com/js/goal.min.js"></script><script type="text/javascript">
+<script id="hs-analytics" src="//js.hs-analytics.net/analytics/1580398500000/1754575.js"></script><script type="text/javascript" async="" src="//storage.googleapis.com/code.snapengage.com/js/0f87df1b-a78c-444b-9eb7-da9e73e90e84.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script id="twitter-wjs" src="https://platform.twitter.com/widgets.js"></script><script type="text/javascript" async="" src="https://www.google.com/cse/cse.js?cx=017643444788069204610:4gvhea_mvga"></script><script async="" src="//connect.facebook.net/en_US/fbds.js"></script><script type="text/javascript" async="" defer="" src="https://s3.amazonaws.com/downloads.mailchimp.com/js/goal.min.js"></script><script type="text/javascript">
 	var $mcGoal = {'settings':{'uuid':'98416c9d5545fe1ce070b1623','dc':'us1'}};
 	(function() {
 		 var sp = document.createElement('script'); sp.type = 'text/javascript'; sp.async = true; sp.defer = true;
@@ -91,6 +106,57 @@
 	})(); 
 </script>
 <!--MailChimp Ends-->
+
+<!--Facebook custom audience-->
+<script>(function() {
+var _fbq = window._fbq || (window._fbq = []);
+if (!_fbq.loaded) {
+var fbds = document.createElement('script');
+fbds.async = true;
+fbds.src = '//connect.facebook.net/en_US/fbds.js';
+var s = document.getElementsByTagName('script')[0];
+s.parentNode.insertBefore(fbds, s);
+_fbq.loaded = true;
+}
+_fbq.push(['addPixelId', '1825300184363063']);
+})();
+window._fbq = window._fbq || [];
+window._fbq.push(['track', 'PixelInitialized', {}]);
+</script>
+<noscript><img height="1" width="1" alt="" style="display:none" src="https://www.facebook.com/tr?id=1825300184363063&amp;ev=PixelInitialized" /></noscript>
+<!--Facebook ends-->
+
+<!-- Facebook Conversion Code for Leads on snapstream.com -->
+<script>
+	(function() {
+		var _fbq = window._fbq || (window._fbq = []);
+		if (!_fbq.loaded) {
+			var fbds = document.createElement('script');
+			fbds.async = true;
+			fbds.src = '//connect.facebook.net/en_US/fbds.js';
+			var s = document.getElementsByTagName('script')[0];
+			s.parentNode.insertBefore(fbds, s);
+			_fbq.loaded = true;
+		}
+	})();
+	window._fbq = window._fbq || [];
+</script>
+<!--Facebook ends-->	
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+
+<!-- GA event tracking code -->
+<script type="text/javascript">        
+	$(document).ready(function() {
+		$('.tvTwitter').on('click', function() {
+							ga('send', 'event', 'link', 'click', 'TV to Twitter');
+					});
+		$('.tvFacebook').on('click', function() {
+							ga('send', 'event', 'link', 'click', 'TV to Facebook');
+					});
+	});
+</script>
+<!-- GA event tracking code ends -->
 
 </div>
 
@@ -199,6 +265,9 @@
 			<div class="footerNav col-md-2 col-centered">
 				<a href="http://tvsearcher.snapstream.com/">Blog</a>
 			</div>
+			<div class="footerNav col-md-2 col-centered">
+				<a href="/enterprise/press.asp">Press</a>
+			</div>
 		<div class="row row-centered">
 		</div>
 			<div class="footerNav col-md-2 col-centered">
@@ -250,6 +319,58 @@ twttr.conversion.trackPid('l4eum');</script>
 <img height="1" width="1" style="display:none;" alt="" src="https://analytics.twitter.com/i/adsct?txn_id=l4eum&p_id=Twitter" />
 <img height="1" width="1" style="display:none;" alt="" src="//t.co/i/adsct?txn_id=l4eum&p_id=Twitter" /></noscript>
 
+
+<!--Ad Roll tracking pixel-->
+<script type="text/javascript">
+    adroll_adv_id = "SDBCM2LANFCIPCKK6ALOGA";
+    adroll_pix_id = "UFNWQKGXCFAJLJEDXEGN6T";
+    (function () {
+        var _onload = function(){
+            if (document.readyState && !/loaded|complete/.test(document.readyState)){setTimeout(_onload, 10);return}
+            if (!window.__adroll_loaded){__adroll_loaded=true;setTimeout(_onload, 50);return}
+            var scr = document.createElement("script");
+            var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com");
+            scr.setAttribute('async', 'true');
+            scr.type = "text/javascript";
+            scr.src = host + "/j/roundtrip.js";
+            ((document.getElementsByTagName('head') || [null])[0] ||
+                document.getElementsByTagName('script')[0].parentNode).appendChild(scr);
+        };
+        if (window.addEventListener) {window.addEventListener('load', _onload, false);}
+        else {window.attachEvent('onload', _onload)}
+    }());
+</script>
+
+
+<!-- begin SnapEngage code -->
+<script type="text/javascript">
+  (function() {
+    var se = document.createElement('script'); se.type = 'text/javascript'; se.async = true;
+    se.src = '//storage.googleapis.com/code.snapengage.com/js/0f87df1b-a78c-444b-9eb7-da9e73e90e84.js';
+    var done = false;
+    se.onload = se.onreadystatechange = function() {
+      if (!done&&(!this.readyState||this.readyState==='loaded'||this.readyState==='complete')) {
+        done = true;
+        /* Place your SnapEngage JS API code below */
+        /* SnapEngage.allowChatSound(true); Example JS API: Enable sounds for Visitors. */
+      }
+    };
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(se, s);
+  })();
+</script>
+<!-- end SnapEngage code -->
+
+
+<!-- Start of Async HubSpot Analytics Code -->
+    <script type="text/javascript">
+        (function(d,s,i,r) {
+            if (d.getElementById(i)){return;}
+            var n=d.createElement(s),e=d.getElementsByTagName(s)[0];
+            n.id=i;n.src='//js.hs-analytics.net/analytics/'+(Math.ceil(new Date()/r)*r)+'/1754575.js';
+            e.parentNode.insertBefore(n, e);
+        })(document,"script","hs-analytics",300000);
+    </script>
+<!-- End of Async HubSpot Analytics Code -->
 	</div>
 
     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
