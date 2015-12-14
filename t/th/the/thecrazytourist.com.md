@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thecrazytourist.com privacy policy that was archived on 2015-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150603141409id_/http%3A//www.thecrazytourist.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thecrazytourist.com privacy policy that was archived on 2015-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151214140554id_/http%3A//www.thecrazytourist.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - The Crazy Tourist
 
@@ -12,4 +12,4 @@ Like many other Web sites we makes use of log files. The information inside the 
 
 We use cookies to store information about visitors preferences, record user-specific information on which pages the user accesses or visits, customize Web page content based on visitors browser type or other information that the visitor sends via their browser. For more information about cookies please visit: <http://en.wikipedia.org/wiki/HTTP_cookie>
 
-If you would have any more questions you can contact us directly.
+If you would have any more questions you can [contact us](http://www.thecrazytourist.com/about/) directly.
