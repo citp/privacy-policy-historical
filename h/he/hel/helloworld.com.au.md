@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the helloworld.com.au privacy policy that was archived on 2015-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150616082947id_/http%3A//www.helloworld.com.au/info/win%3Fid%3DPrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the helloworld.com.au privacy policy that was archived on 2015-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151214142353id_/http%3A//www.helloworld.com.au/info/win%3Fid%3DPrivacyPolicy) for the most accurate reproduction.*
 
 # 
 
@@ -32,9 +32,9 @@ We may use your personal information to:
   * assist in arrangements and reservations with suppliers (such as airlines, tour operators, car hire operators, hotels and insurance providers) in relation to the provision of a product or service;
   * collect and process payments, though us or a third party;
   * perform all other administrative and operational tasks (including risk management, systems development and testing, staff training, and market or customer satisfaction research);
-  * to facilitate your participation in loyalty programs; 
+  * to facilitate your participation in loyalty programs;
   * analyse how our products and services (including any websites) are used;
-  * personalise the service or communication we provide to you, tailor your experience on our website or other websites to your interests and make more appropriate travel recommendations; and 
+  * personalise the service or communication we provide to you, tailor your experience on our website or other websites to your interests and make more appropriate travel recommendations; and
   * investigate, detect and protect us and other third parties against, negligence, breach of contract, fraud, theft and other illegal activities;
 
 
@@ -51,7 +51,7 @@ We may disclose your personal information to:
   * third party sponsors or co-sponsors of promotions on our website.  Only information collected during a promotion will be disclosed to these parties;
   * third parties when we contract out some of our functions and activities, such as our call centre operator and mailing house. In these circumstances, we prohibit third parties from using your personal information, except for the specific purpose for which we supply it;
   * government authorities in the event of an accident, disaster or emergency; and
-  * others where we are authorised or required by law to do so. 
+  * others where we are authorised or required by law to do so.
 
 
 
@@ -85,7 +85,7 @@ We store personal information in a combination of secure computer storage facili
 
 We will endeavour to take all reasonable precautions to maintain the security of the information in our systems. We use a combination of security measures to prevent the unauthorised access of our servers and regularly review our security policies. Your personal information will be stored in secured locations and on servers controlled by helloworld, located either at our offices or at the offices of our service providers.
 
-The payment pages on this website are encrypted using the internationally accepted security system SSL (Secure Sockets Layer) to encrypt all credit card payments over the web. This means that the information from these pages are sent back to our server in a secure fashion and cannot be intercepted.
+The payment pages on this website are encrypted using the internationally accepted security system SSL (Secure Sockets Layer) to encrypt all credit card payments over the web. This means that the information from these pages are sent back to our server in a secure fashion and adequately protected against known interception schemes.
 
 **ACCESSING AND UPDATING YOUR PERSONAL INFORMATION**
 
@@ -131,7 +131,7 @@ Our website includes social plug-ins, such as the Facebook or Twitter button, an
 
 If you wish to complain about our handling of your personal information, please contact our Privacy Officer using the details below.
 
-We will investigate all complaints and respond to you as soon as practicable. If we find a complaint justified, we will resolve it. If necessary, we will changes our policies and procedures to maintain our high standards of performance, service and customer care.
+We will investigate all complaints and respond to you as soon as practicable. If we find a complaint justified, we will resolve it. If necessary, we will change our policies and procedures to maintain our high standards of performance, service and customer care.
 
 If your complaint is not satisfactorily resolved, you may lodge a complaint with the Federal Privacy Commissioner. For more information on privacy, you can contact the Office of the Australian Information Commissioner’s ( **OAIC'** s) hotline service on 1300 363 992 or visit the OAIC 's website at [www.oaic.gov.au](http://www.oaic.gov.au/).
 
@@ -145,10 +145,12 @@ Phone:         02 8229 4000
 
 Address:      Privacy Officer
 
-                      Helloworld Limited
+                      Level 14,
 
-                      77 Berry Street
+                      80 Pacific Highway
 
-                      North Sydney NSW 2060
+                      North Sydney, NSW 2060
 
-Last Updated 06 March 2014.
+                      Australia
+
+Last Updated 4 December 2015.
