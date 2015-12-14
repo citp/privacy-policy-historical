@@ -1,8 +1,12 @@
-> *The following text is extracted and transformed from the mmtimes.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627182633id_/http%3A//www.mmtimes.com/index.php/component/content/article%3Fid%3D2799) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mmtimes.com privacy policy that was archived on 2015-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151214132825id_/http%3A//www.mmtimes.com/index.php/component/content/article%3Fid%3D2799) for the most accurate reproduction.*
 
 # The Myanmar Times
 
 ##  Privacy Policy 
+
+  * [](http://www.mmtimes.com/index.php/imimobile-smsc/celebrity-news/2799-privacy-policy.html?tmpl=component&print=1&layout=default&page= "Print")
+
+
 
      By The Myanmar Times   |   Monday, 01 October 2012 
 
