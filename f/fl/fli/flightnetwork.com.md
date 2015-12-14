@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flightnetwork.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610045232id_/http%3A//www.flightnetwork.com/pages/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flightnetwork.com privacy policy that was archived on 2015-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151214140533id_/http%3A//www.flightnetwork.com/pages/privacy.shtml) for the most accurate reproduction.*
 
 # Privacy Policy - FlightNetwork.com
 
