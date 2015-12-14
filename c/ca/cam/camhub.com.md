@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the camhub.com privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611080509id_/http%3A//www.camhub.com/privacy.html%3F) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the camhub.com privacy policy that was archived on 2015-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151214145002id_/http%3A//www.camhub.com/privacy.html%3F) for the most accurate reproduction.*
 
 # CamHub - Privacy Policy
 
