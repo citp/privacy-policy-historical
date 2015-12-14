@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the kiz10.com privacy policy that was archived on 2015-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150613192448id_/http%3A//kiz10.com/privacity) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kiz10.com privacy policy that was archived on 2015-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151214162509id_/http%3A//kiz10.com/privacity) for the most accurate reproduction.*
 
-# Divercion games free online kiz10 - KIZ
+# Privacy at Kiz10 - KIZ
 
 ### PRIVACY KIZ10
 
@@ -64,4 +64,4 @@ Our advertisers and payment services providers  could also send you cookies. Mo
 
 (10) Updating Information. Please, kindly let us know if your personal information we have collected needs to be amended or updated.
 
-�                    Contact. If you have some question about this privacy policy or your personal data treatment, please, contact us through the Contact Form. Google, as associated provider, use cookies to publish announcements in our website. Use of Google's DART cookie, allows to serve announcements(advertisements)  to our users based on their visit to our site and others sites on the internet. Users can disable the use oDART cookie through the announcement and the content network privacy policy.
+*                    Contact. If you have some question about this privacy policy or your personal data treatment, please, contact us through the Contact Form. Google, as associated provider, use cookies to publish announcements in our website. Use of Google's DART cookie, allows to serve announcements(advertisements)  to our users based on their visit to our site and others sites on the internet. Users can disable the use oDART cookie through the announcement and the content network privacy policy.
