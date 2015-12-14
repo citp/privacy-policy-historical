@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cafepharma.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627174402id_/http%3A//www.cafepharma.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cafepharma.com privacy policy that was archived on 2015-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151214225427id_/http%3A//www.cafepharma.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Cafepharma
 
