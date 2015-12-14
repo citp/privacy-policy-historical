@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the openstack.org privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628232936id_/http%3A//openstack.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the openstack.org privacy policy that was archived on 2015-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151215003613id_/http%3A//openstack.org/privacy) for the most accurate reproduction.*
 
 # OpenStack Privacy Policy » OpenStack Open Source Cloud Computing Software
 
