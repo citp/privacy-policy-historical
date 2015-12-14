@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the askaprice.com privacy policy that was archived on 2015-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150614233652id_/http%3A//www.askaprice.com/about/privacy-cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the askaprice.com privacy policy that was archived on 2015-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151214143430id_/http%3A//www.askaprice.com/about/privacy-cookies) for the most accurate reproduction.*
 
 # Askaprice.com Privacy Statement & Cookie Policy
 
@@ -50,17 +50,17 @@ By using this Website, you signify your acceptance of this policy. If you do not
 If you have any questions about this Privacy Policy, please contact us at: 
 
 [Askaprice.com](https://web.archive.org/)  
-1st Floor   
-Beetham Plaza  
-25 The Strand  
+13th Floor   
+Unity Building  
+20 Chapel Street  
 Liverpool  
-L2 0XJ 
+L3 9AG 
 
 0151 2219881 
 
 [info@askaprice.com](mailto:info@askaprice.com)
 
-This document was last updated on January 9th, 2014 
+This document was last updated on August 10th, 2015 
 
 The following lists the levels of cookie use you can select for the Askaprice.com website. This Website uses cookies to track your visit to the site for the purpose of monitoring its success and to guide improvements and to allow for integration with social media such as Facebook etc. 
 
@@ -68,7 +68,7 @@ You do, however, have a choice regarding the type of cookies we can use so pleas
 
 ##  Cookie Settings
 
-The following lists the levels of cookie use you can select for the Perrys Leasing website. This website uses cookies to track your visit to the site for the purpose of monitoring its success and to guide improvements and to allow for integration with social media such as Facebook etc.
+The following lists the levels of cookie use you can select for the Askaprice website. This website uses cookies to track your visit to the site for the purpose of monitoring its success and to guide improvements and to allow for integration with social media such as Facebook etc.
 
 You do, however, have a choice regarding the type of cookies we can use so please select a level below. Please note that you may not switch off all cookies as the website requires some use of cookies in order to function.
 
