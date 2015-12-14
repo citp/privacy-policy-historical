@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the topfashionwear.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610062135id_/http%3A//www.topfashionwear.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the topfashionwear.com privacy policy that was archived on 2015-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151214134952id_/http%3A//www.topfashionwear.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy — Top Fashion Wear
+# Privacy Policy - Top Fashion WearTop Fashion Wear
 
 Our team here at Top Fashion Wear is fully committed to protecting all our users privacy online. By continuing to use this site, you acknowledge that you have read and agree to all terms stated in this policy.
 
