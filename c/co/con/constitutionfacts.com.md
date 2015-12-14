@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the constitutionfacts.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609032118id_/https%3A//www.constitutionfacts.com%3Fsection%3DaboutUs%26page%3DprivacyNotice.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the constitutionfacts.com privacy policy that was archived on 2015-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151214062617id_/http%3A//www.constitutionfacts.com%3Fsection%3DaboutUs%26page%3DprivacyNotice.cfm) for the most accurate reproduction.*
 
 # ConstitutionFacts.com - Learn about the U.S. Constitution, the Bill of Rights, the Declaration of Independence and much more!
 
@@ -8,7 +8,7 @@ Constitutionfacts.com knows that you care how information about you is used and 
 
 What personal information about customers does Constitutionfacts.com gather?
 
-  * Information You Give Us: We receive and store any information you enter on our Web site or give us in any other way. We use the information that you provide for such purposes as responding to your requests and communicating with you. 
+  * Information You Give Us: We receive information you enter on our Web site or give us in any other way. We use the information that you provide for such purposes as responding to your requests and communicating with you. 
 
 
 
@@ -27,7 +27,7 @@ How secure is information about me?
 
 What choices do I have?
 
-  * You can always choose not to provide information, even though it might be needed to make a purchase, and instead order by phone at 1-800-887-6661, or mail orders to Oak Hill Publishing Company, Box 6473, Naperville, IL 60567, or fax an order to 630-904-2737. 
+  * You can always choose not to provide information, even though it might be needed to make a purchase, and instead order by phone at 1-800-887-6661, or mail orders to Oak Hill Publishing Company, Box 6473, Naperville, IL 60567, or fax an order to 888-250-7144. 
 
 
 
