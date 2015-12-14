@@ -1,67 +1,148 @@
-> *The following text is extracted and transformed from the spill.com privacy policy that was archived on 2013-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131005090641id_/http%3A//spill.hollywood.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spill.com privacy policy that was archived on 2015-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151214165850id_/http%3A//www.hollywood.com/privacy) for the most accurate reproduction.*
 
-# Spill.com Privacy Policy
+# Privacy Policy | Hollywood.com
 
-Welcome to Spill.com! We deliver entertaining and informative content while maintaining the most professional service standards. This means we are dedicated to protecting and handling any personal information you provide with care and respect. 
+Updated December 2014
 
-We would encourage anyone using [Spill](https://web.archive.org/Default.aspx) or other websites owned or operated by Spill.com (the "Sites") to make educated decisions about their online practices. To help them do so, this Privacy Policy details the important information that will help answer any questions regarding personal privacy in relation to our Sites, services software. 
+Hollywood.com, LLC (“Hollywood.com” or “we”) knows that you care how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly. Hollywood.com strives to respect and protect the privacy of individuals that visit our web sites. This notice constitutes our Privacy Policy.
 
-Please note that any video, image, information or other content becomes published content when posted onto the Spill.com Sites at the direction of anyone using the Sites and will not be considered Personal Information subject to this Privacy Policy. Also, this Privacy Policy is incorporated into and is subject to the [Spill Terms of Service](https://web.archive.org/Terms.aspx); your use of the Spill.com Sites and any Personal Information you provide on the Sites remains subject to both the terms of this Privacy Policy and our  [Terms of Service](https://web.archive.org/Terms.aspx). 
+By using our services, you expressly consent this Privacy Policy and our Terms of Use, including our use and disclosure of your personal information in the manner described in this Privacy Policy. This Privacy Policy is incorporated into and subject to our Terms of Use.
 
-### The Information Spill.com Collects:
+No Hollywood.com services are directed to children under 13. Federal law requires that Hollywood.com may not collect any personally identifiable information from persons under 13 years of age. If you are under 13 years of age, you may not register for any Hollywood.com services or provide any of your personal information to Hollywood.com.
 
-When this Privacy Policy uses the term "Personal Information," we mean information that identifies a particular individual, such as the individual's name, postal address, e-mail address, and telephone number. When other information, such as, for example, consumer product preferences, or number of children, is directly associated with Personal Information, this other information also becomes Personal Information for purposes of this Privacy Policy. 
+This Privacy Policy applies to the all of the following web sites and services of Hollywood.com and all of its sub-domains.
 
-We use both your Personal Information and certain non-personally-identifiable information (such as anonymous user usage data, cookies, IP addresses, browser type, clickstream data, etc.) to improve the quality and design of the Spill.com Sites and to create new features, promotions, functionality, and services by storing, tracking, and analyzing user preferences and trends. 
+**What Information We Collect and For What Purposes**
 
-  * **User Provided Information:**   You provide certain Personal Information (such as your name and email address) to Spill.com when choosing to participate in various activities on the Spill.com Sites including, without limitation, uploading videos, posting messages or comments, entering contests or sweepstakes, taking advantage of promotions, responding to surveys, or subscribing to newsletters or other mailing lists. 
-  * **Cookies:**   We place cookies on your computer. Our cookies are very small and harmless pieces of code. They allow us to provide custom, personalized content and they remember your information so that you don't have to re-enter it during your visits to the Spill.com Sites. They are stored on your hard drive and communicate with our servers only when you are visiting the Spill.com Sites. 
-  * **Log File Information:**   Spill.com may log information that is generally available to every website you visit. These logs may include your web request, IP address, browser type, browser language, platform type, the date and time of your request, number of clicks within our environment, page views and perhaps the amount of time spent on our particular pages. This information is entirely anonymous and cannot be used to personally identify you but may become personally identifiable when you share User Provided Information, as described above. 
+To most effectively offer our services, we may collect information from you in the following ways:
 
+– Information You Provide to Register for Services. If you wish to register for the Hollywood.com newsletter or to participate in a contest or giveaway, we request you to provide your email address and zip code (or foreign postal area). You may also include any additional information in a space provided. You are not required to provide this information, but then you may not receive the services.
 
+– Server Log Information. Our servers automatically log certain basic technical information when a user accesses the website, which may include your Internet Protocol (IP) address, your browser’s request to the Hollywood.com server, the date and time of the request, the language and type of browser you use, the referring web page, your computer’s operating system, and any Hollywood.com cookies associated with your browser.
 
-### Children Under 13
+– Communications From You to Us. If you send correspondence or email to us or otherwise communicate with us, we may retain copies of the communications to assist you or for our records.
 
-Spill.com does not knowingly collect Personal Information from persons under 13 years of age, and no part of our Sites or service are directed to persons under 13. If you are under 13 years of age, then please do not use the Spill.com Sites. If Spill.com learns that Personal Information of persons under 13 years of age has been collected on the Spill.com Sites without verified parental consent, then Spill.com will take the appropriate steps to delete this information. 
+– Cookies. When you browse to www.hollywood.com, our system sends a small file called a “cookie” to your computer that identifies your browser. This allows us to recognize you for purposes of saving your preferences or providing personalized service. We use cookies to record session information, record user-specific information on what pages users access or visit, or customize Web page content based on visitors’ browser type or other information that the visitor sends. Since we use cookies to make your web site visit more user friendly, please be aware that refusing cookies may not allow you to take full advantage of some our web site features.
 
-### The Way Spill Uses Informationm
+– Social Networking. We allow you to sign into social networking and other online profiles through Hollywood.com so you can interact with our services using those accounts. Hollywood.com can only recognize you through these accounts if you specifically agree to share that information by signing in.
 
-As described in detail below, Spill.com may use your Personal Information in various ways, including sending you communications that directly promote the use of our Spill.com Sites, products or services ("promotional materials"). You may, of course, decline to submit Personal Information through the Spill.com Sites, in which case Spill.com may not be able to provide certain services to you. 
+– Demographic Data. We may access information about you from third-party sources and platforms (such as databases, online marketing firms, and ad targeting firms) including your age range, gender, location, and interests.
 
-  * If you submit Personal Information to us through the Spill.com Sites, we may use your personal information to operate, maintain, and provide to you the certain features and functionality of the Spill.com Sites that require such information. 
-  * Personal Information collected under this Privacy Policy is shared among and is used by Spill.com and Hollywood Spill, LLC (its parent company), including all of its subsidiaries and affiliated entities (collectively "Hollywood"). For example, Hollywood, including Spill.com, may use your Personal Information to send you promotional materials about goods and services (including special offers and promotions) either offered by Hollywood or by third parties. For purposes of clarity, we do not share your Personal Information with third parties unless otherwise authorized by you but you may see such third party promotional material offered through Spill.com. 
-  * We may use your information to complete transactions requested by you (such as your purchase of a product or services offered on our Sites), or to send you administrative communications either about your account with us or about features of our Sites, including any future changes to this Privacy Policy. 
-  * Spill.com may take your Personal Information and make it non-personally identifiable, either by combining it with information about other individuals (aggregating your information with information about other individuals), or by removing characteristics (such as your name) that make the information personally identifiable to you (de-personalizing your information). Given the nature of this information, there are no restrictions under this Privacy Policy upon the right of Spill.com to aggregate or de-personalize your Personal Information, and Spill.com may use and/or share with third parties the resulting non-personal information in any way. 
+The only purposes for which Hollywood.com processes personal information are those stated in this Privacy Policy, including the above, and the following purposes:
 
+– To assist the technical support of our system
 
+– To maintain and improve the quality of our services through auditing, research and analysis
 
-### Information Spill.com Discloses
+– To develop new services or enhance existing service.
 
-We provide Personal Information and non-personally-identifiable information to our subsidiaries, affiliated companies, or other businesses or persons for the purpose of processing such information on our behalf. For example, we may use a payment vender to take and process credit card payments, or share your address with a shipping company if we needed to mail you an order. We require that these parties agree to process such information in compliance with our privacy policy and are allowed to gather, receive, and use your information only for the purposes for which their services are intended. 
+– To communicate with you or respond to a request.
 
-Spill.com will not share your Personal Information with third parties for promotional purposes, except when you clearly consent to such sharing; for example, by purchasing products or services labeled and offered by a third party or electing to receive information or communications from a third party. When you do so authorize Spill.com to share your Personal Information or when you share Personal Information with a third party through our Sites yourself (e.g. with an advertiser at one of our Sites), your Personal Information will become permanently subject to the terms & privacy practices of the third party, and the third party will not be restricted by this Privacy Policy with respect to its use and further sharing of your Personal Information. 
+– To better understand, market to and serve our membership.
 
-Your account name (not your email address) may be displayed to other users when you upload videos or send messages through the Spill.com Sites and other users may be able to contact you through message boards and/or posted comments. Any videos, content or messages that you submit to the Spill.com Sites may be redistributed through the internet and other media channels, and may be viewed by the general public without being subject to this Privacy Policy. Please note that media files uploaded by users to the Spill.com Sites cannot be removed and remain subject to our Terms of Use. 
+– To protect the rights of property or safety of Hollywood.com or its members.
 
-Finally, Spill.com will disclose personal information when it believes in good faith that such disclosures (a) are required by law, including, for example, to comply with a court order or subpoena, or (b) will help to: enforce our Terms of Use or any other posted rules or policies; protect your safety or security, including the safety and security of property that belongs to you; and/or, protect the safety and security of our Sites, Spill.com, Hollywood and/or third parties, including the safety and security of property that belongs to Spill.com or third parties. 
+– To run contests or giveaways. We may run contests on our sites in which we ask visitors for contact information (such as their name and email address) and demographic information (such as their zip code or foreign postal area). The user’s contact information is used to contact the user when necessary, such as if they win a contest or to notify users of upcoming contests.
 
-### Security of Your Information
+**Information You Reveal to the Hollywood.com or Publish or Post is Public**
 
-The security and confidentiality of your information is extremely important to us. We have implemented technical, administrative, and physical security measures to protect guest information from unauthorized access and improper use. From time to time, we review our security procedures in order to consider appropriate new technology and methods. Please be aware though that, despite our best efforts, no security measures are impenetrable and any Personal Information you choose to transmit to Spill.com is done at your own risk. 
+Any information you contribute as a “comment” to an article or feature on Hollywood.com is public. Once you post information as a “comment,” Hollywood.com cannot prevent others from reviewing it.
 
-To protect your privacy and security, we take reasonable steps (such as requesting a unique password) to verify your identity before granting you profile access or making corrections. You are responsible for maintaining the secrecy of your unique password and account information at all times. 
+**NOTICE: CALIFORNIA MINORS (CALIFORNIA RESIDENTS UNDER AGE 18)**
 
-### Changes and Updates to this Privacy Policy
+If you are a California resident under age 18 you may request Hollywood.com remove comments previously posted by you from public view on Hollywood.com. If you’d like to request removal of a comment, please email [membership@hollywood.com](mailto:membership@hollywood.com) with the following information: the URL where the content exists and the exact content you would like to remove. Please include “request for removal” in the subject of the email.
 
-This Privacy Policy may be revised periodically and this will be reflected by the "effective date" below. Please revisit this page to stay aware of any changes. In general, we only use your Personal Information in the manner described in the Privacy Policy as it exists upon the Effective Date that the Personal Information you provided was received. Your continued use of the Spill.com Sites constitutes your agreement to this Privacy Policy and any future revisions. 
+**Where Information is Processed**
 
-### Contact Information:
+Hollywood.com processes personal information on the secure servers of a hosting service located in the United States of America.
 
-If you have any questions or concerns about this Spill.com Privacy Policy or its implementation please contact us at the following addresses:   
-[Support@spill.com](mailto:Support@spill.com)   
-Spill.com   
-Attention: Chief Privacy Officer   
-729 7th Ave, Floor #7   
-New York, NY 10019 
+**Sharing of Information**
 
-**Effective Date:**  October 16, 2007 
+Hollywood.com will not share your personal information with third parties unless:
+
+– You give consent.
+
+– The information is shared on a need-to-know basis with a person or company engaged as our agent to perform, or contribute to, our services, provided such person or company complies with this Privacy Policy. The information is shared on a need-to-know basis with a person or company engaged as our agent to perform, or contribute to, our services, provided such person or company complies with this Privacy Policy. In the case of contests or giveaways that you participate in, we may share information with a third party who runs the contest, or for shipping purposes.
+
+– We believe in good faith that use or disclosure of the information is reasonably necessary to: (1) detect or prevent fraud or security issues; (2) comply with any law, regulation, legal process or government order; (3) protect the rights of property or safety of Hollywood.com or its members; or (4) to enforce Hollywood.com’s website policies or investigate potential violations thereof.
+
+**Use of Non-Personal Information**
+
+Hollywood.com may share with third parties certain pieces of aggregated demographic data that will not identify you or anyone personally, such as the number of users who viewed a particular page in a given time-period, or geographic statistics about our members.
+
+Ads appearing on this web site are displayed on your screen by either (a) one of our web advertising partners or (b) by us. Information about your visit to this site, such as the number of times you have viewed an ad, your browser, the type of computer operating system you use, and whether or not you responded to the ad delivered, (but not your name, address, phone number or other personally identifying information), is used to serve advertisements to your screen. We may use your zip code or geographical location information to serve appropriate advertisements. In the course of serving advertisements to this site, our third party advertiser may place or recognize a unique cookie on your browser.
+
+We may also use third party advertisements placed by ad networks to support our Site. Some of these advertisers and ad networks may use your zip code or geographic location and technology including, but not limited to, cookies or web beacons when they advertise on our Site. These advertisers and ad networks may collect and use the non-personal information described above to provide you with relevant advertisements based on your online behavior, activities on our Site and other third party sites, demographic information, or information relevant to your general location so that the advertising you see on our Site more closely reflects your interests. If you would like more information about this practice or to opt-out of this type of advertising, please [click here](http://www.networkadvertising.org/choices/).
+
+**Information Security**
+
+Any of your personal information that is stored is kept securely on servers maintained by Hollywood.com’s hosting provider Industry-standard encryption technologies are used when transferring and receiving consumer data exchanged with our site, which encrypts information you input, except for domain name data.
+
+You are solely responsible for the confidentiality of your password, if any. We suggest you do not share your password with anyone.
+
+Unfortunately, no data transmission over the Internet or any wireless network can be guaranteed to be 100% secure. As a result, while we strive to protect your personal information, Hollywood.com cannot ensure or warrant the security of any information you transmit to us or from our online products or services, and you do so at your own risk.
+
+**Leaving Hollywood.com**
+
+By clicking on any outbound links or advertisements on Hollywood.com, you are leaving the Hollywood.com website, and any transfers of information between your computer and the non-Hollywood.com website or service you navigate to are not subject to this Privacy Policy.
+
+**Mergers or Acquisitions**
+
+If Hollywood.com becomes involved in a merger, acquisition, or other sale of its assets, we will ensure the confidentiality of any personal information involved in the transactions and notify you before the information is transferred or becomes subject to a different privacy policy.
+
+**Accessing or Updating Your Information**
+
+Our site also provides users the opportunity to decline to receive communications from us and our partners at the point where we request information about the visitor.
+
+To correct, update, or remove information from our records and databases, or to unsubscribe from services, users have the following options:
+
+– Users may send a request by email to [membership@hollywood.com](mailto:membership@hollywood.com)
+
+– Users may unsubscribe to the Hollywood.com newsletter via the link within it (each time it is sent), or by sending email to the above email address or U.S. mail to the below address.
+
+– Users may send mail to the following postal address: Membership Information, Hollywood.com, LLC, 560 Broadway, Suite 404, New York, New York 10012
+
+**California Residents**
+
+It is not Hollywood.com’s practice to disclose your personal information to any third parties that use your information for direct marketing purposes. However, as required by California law, upon letter or email request by any California resident with whom Hollywood.com has an established business relationship, Hollywood.com will disclose to you each instance, if any, in the immediately preceding calendar year in which Hollywood.com disclosed your personal information to a third party that Hollywood.com knows or has reason to know used your personal information for direct marketing purposes. See California Civil Code § 1798.83.
+
+Please address such requests to:
+
+California Privacy Matters, Hollywood.com, LLC, 560 Broadway, Suite 404, New York, New York 10012
+
+**Changes to this Privacy Policy**
+
+This Privacy Policy may change from time to time. Please check here for the most recent update.
+
+**Choice / Opt-Out**
+
+Users of our site may opt out of their information being (1) disclosed to third parties; or (2) used for a purpose that is incompatible with the purpose(s) for which it was originally collected or subsequently authorized by a user. To opt-out, please submit your request to [membership@hollywood.com](mailto:membership@hollywood.com)
+
+Sensitive personal information will never be disclosed to third parties or used for a purpose that is incompatible with the purpose(s) for which it was originally collected or subsequently authorized by a user, unless you expressly grant permission for the use.
+
+**Safe Harbor Framework Notice**
+
+Hollywood.com, LLC complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. Hollywood.com, LLC has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Hollywood.com, LLC’s certification, please visit <http://export.gov/safeharbor/>. The company’s privacy policies are set forth at <http://www.hollywood.com/privacy>.
+
+Recourse Mechanisms. If you have any complaints regarding the compliance of Hollywood.com, LLC with the Safe Harbor Framework, you may direct your complaint to our compliance representative:
+
+Steven Marder  
+Hollywood.com, LLC  
+560 Broadway, Suite 404  
+New York, NY 10012  
+(212) 817-9105 Phone  
+[safeharbor@hollywood.com](mailto:safeharbor@hollywood.com)
+
+If you are unable to resolve any such complaints by dealing with our compliance representative, Hollywood.com, LLC agrees to arbitrate such unresolved complaints through JAMS at its Los Angeles, or Miami offices (www.jamsadr.com) pursuant to its JAMS Policy on Consumer Arbitrations Pursuant to Pre-Dispute Clauses. No complaint may be brought to JAMS for arbitration until ten days have elapsed from the rejection of your claim by our compliance representative.
+
+**Questions**
+
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this website, you can contact:
+
+Privacy Matters  
+Hollywood.com, LLC  
+560 Broadway  
+Suite 404  
+New York, New York 10012
+
+or email us at [membership@hollywood.com](mailto:membership@hollywood.com)
