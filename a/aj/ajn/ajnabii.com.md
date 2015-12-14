@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ajnabii.com privacy policy that was archived on 2015-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150523044557id_/http%3A//ajnabii.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ajnabii.com privacy policy that was archived on 2015-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151214205157id_/http%3A//ajnabii.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -27,7 +27,7 @@ Any advertisements served by Google, Inc., and affiliated companies may be contr
 
 About Google advertising: What is the DoubleClick DART cookie? The DoubleClick DART cookie is used by Google in the ads served on publisher websites displaying AdSense for content ads. When users visit an AdSense publisher’s website and either view or click on an ad, a cookie may be dropped on that end user’s browser. The data gathered from these cookies will be used to help AdSense publishers better serve and manage the ads on their site(s) and across the web. [Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
 
-Some third-party advertisers used by Google may use a different cookie. You may opt out of most third-party advertising cookies by [following this link  and visiting the Network Advertising Initiative opt-out page](http://www.networkadvertising.org/managing/opt_out.asp), or [by visiting this Consumers page to opt out of all advertising cookies](http://www.evidon.com/consumers/profile_manager#tab3).
+Some third-party advertisers used by Google may use a different cookie. You may opt out of most third-party advertising cookies by [following this link  and visiting the Network Advertising Initiative opt-out page](http://www.networkadvertising.org/managing/opt_out.asp), or by visiting this Consumers page to opt out of all advertising cookies.
 
 **External Links**
 
