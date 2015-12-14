@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the investingnote.com privacy policy that was archived on 2015-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150615160543id_/http%3A//www.investingnote.com/static/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the investingnote.com privacy policy that was archived on 2015-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151214140907id_/http%3A//www.investingnote.com/static/privacy.html) for the most accurate reproduction.*
 
 # InvestingNote.com - Privacy Policy
 
-This Privacy Policy was last modified on September 17, 2013.
+This Privacy Policy was last modified on September 17, 2014.
 
 Investing Note ("us", "we", or "our") operates http://investingnote.com (the "Site"). This page informs you of our policies regarding the collection, use and disclosure of Personal Information we receive from users of the Site.
 
