@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hiltongrandvacations.com privacy policy that was archived on 2015-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150614082802id_/http%3A//www1.hilton.com/en_US/hi/customersupport/privacy-policy.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hiltongrandvacations.com privacy policy that was archived on 2015-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151214012413id_/http%3A//www1.hilton.com/en_US/hi/customersupport/privacy-policy.do) for the most accurate reproduction.*
 
 # Hilton Worldwide, Inc. Global Privacy Policy
 
