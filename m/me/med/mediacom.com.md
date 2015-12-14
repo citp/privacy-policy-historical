@@ -1,97 +1,120 @@
-> *The following text is extracted and transformed from the mediacom.com privacy policy that was archived on 2015-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150619031754id_/http%3A//www.mediacom.com/en/hygiene/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mediacom.com privacy policy that was archived on 2015-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151214144959id_/http%3A//www.mediacom.com/en/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy :: MediaCom
 
-You have sucessfully opted out of tracking
+This website is operated by MediaCom ("we" or "us").  **By using and visiting our website and by submitting your personal information to us you agree to us using your personal information as set out in this privacy policy.**  
 
-MediaCom Holdings Ltd. ("MediaCom") is a part of GroupM Worldwide, Inc., and has adopted these privacy principles for the website located at www.mediacom.com. This Privacy Policy applies only to the website on which it appears, and not to any other MediaCom, GroupM or other website or service. This Privacy Policy also provides information about activities we undertake across internet websites on behalf of MediaCom clients.
+[If you just want to know about how we use cookies please click here](http://www.wpp.com/wpp/cookies.htm). 
 
-MediaCom is firmly committed to protecting the privacy of Internet users and fostering user confidence in the Internet, Internet advertising and direct marketing. Accordingly, we are committed to observing applicable industry guidelines including those established jointly by the Interactive Advertising Bureau, American Association of Advertising Agencies and Direct Marketing Association. We continually evaluate innovative ways to protect online user privacy while also seeking to deliver relevant advertising and custom online experiences on behalf of our clients. MediaCom provides services for its clients such as media planning and buying, marketing communications planning, campaign analytics and research, paid search placement and search engine optimisation, branded entertainment as well as sports sponsorships ("Services").
+We respect the privacy of users of our website and recognise that when you choose to provide us with information about yourself, you trust us to act in a responsible manner with that information. This privacy policy contains important information about how we use your personal information.  
 
-The purpose of this privacy policy is to provide clear notice about the user information we may collect online in connection with our Services and on our own website.
+**What information do we collect?   **
 
-The next few sections below describe how we collect user information in connection with the operation of our Services for our clients, such as through advertisements that may appear on various websites on the Internet. Therefore, certain information collection by MediaCom through the use of cookies used in the Services, as described below, may occur on numerous websites across the Internet.
+At times we may request that you voluntarily supply us with personal information.  Generally this information is requested when you want us to provide you with information. 
 
-For information on how we collect and use information that is collected directly on this website (as opposed to through the Services), please see the section entitled "Your Correspondence on this Website."
+We may gather the following information about you: 
 
-## Information We Collect Through our Services
+Name
 
-We do not collect personally identifiable information ("PII") from users online through advertisements we manage on behalf of our clients unless users affirmatively and deliberately choose to release that information by submitting it, in a text field for example. PII generally refers to identifying information such as an individual's name, mailing address, phone number or e-mail address.
+Email address 
 
-## Non-Personal Information Collected by our Services
+Telephone number
 
-We do collect non-personally identifiable information ("Non-PII) to identify computers that we have interacted with before. For instance, by using Non-PII, we may be able to identify a computer that has previously seen an advertisement we launched on behalf of a client. In the context of Non-PII, whenever we refer to 'you' or 'yours,' please remember that we may be referring to a computer and not an identifiable person since we generally do not know who is using a computer at any particular time.
+IP address (a unique identifier for your computer or other device)
 
-Through the collection and use of Non-PII, we offer a range of Services to allow advertisers to show you the most useful and relevant online advertisements across numerous websites and to prevent excessive or repeated deliveries of the same advertisements. For example, if we think that a user is interested in apparel options, then our Services may help our clients deliver interest-based online advertisements to you about a particular type of apparel. You can learn more about such advertising practices by visiting [www.iab.net/privacymatters](http://www.iab.net/privacymatters).
+Mobile device ID 
 
-We may collect Non-PII regarding your web browsing, usage or interactions with advertisements we manage on behalf of our clients. We do this to better customise the sort of advertisements you see on various websites and for other purposes such as research and analysis. Non-PII may include information such as the type of Internet browser used by an online user, the type of computer operating system used, the computer's Internet protocol ("IP") address, the domain name of the websites visited before and after viewing an advertisement, as well as information related to websites and web pages a user is viewing when an advertisement is shown.
+Information provided by you in relation to submitting a job application to us (this may include sensitive personal information e.g. ethnic origin)
 
-We collect Non-PII through the use of cookies, pixels and related technologies. A cookie is a file on your browser that uniquely identifies your browser and computer. A pixel is a line of code which is used by a website or third party t to assign online activities to a computer or browser. The use of a pixel allows websites and us to record, for example, that a user has visited a particular web page. Additional Non-PII from an earlier period or interaction may be included in the pixel. Though Non-PII does not personally identify anyone, we are still committed to giving users the opportunity to exercise choice about the Non-PII we collect. See Section titled: **User Choice - Opting Out of Receiving Cookies**
+**How do we use it?**
 
-**Europe**
+We will use this information in the following ways: 
 
-Please note - in some countries an IP address is considered PII by applicable law. If we conduct business in such countries and we know that you are located in such a country, we will treat your IP address as PII.
+  * to provide you with information that you have requested e.g. a newsletter, bulletins;
+  * to respond to specific queries you may raise regarding WPP and its operating companies;
+  * to provide you with better ways of accessing information from this website;
+  * to process and consider your job application; 
+  * to allow you to submit articles to the WPP Reading Room;
 
-In such countries we interpose a "black box" which is operated by an independent third party and which separates the user's IP address from other data we collect. If your browser does not accept cookies or if the opt-out-cookie is set, no tracking takes place.
 
-targ.ad 2.0 is a service of ours which places a cookie on your computer for the purpose of interest-based marketing as described above. This service is primarily used Europe. The service has been certified with the Data Privacy Seal issued by the Independent Data Protection Authority of the Federal State Schleswig-Holstein in Germany in March 2010. You may opt-out of the targ.ad 2.0 cookie by following the instructions in the Section titled: **User Choice - Opting Out of Receiving Cookies.**
 
-## Disclosure of Information to Third Parties
+For how we use your information that is collected using cookies and similar technologies please see the "Cookies" [here](http://www.wpp.com/wpp/cookies.htm).
 
-We do not collect PII via our clients' advertisements, and therefore, we do not sell, rent, or share PII collected on our or other websites to non-affiliated third parties. If you affirmatively and deliberately provide PII via one of our client's advertisements who was identified to you at the time of collection, then that PII will be provided to such client, and such PII shall be subject to that client's privacy policy.
+**Do we pass your information to third parties?**
 
-We may disclose Non-PII collected through our Services, and information derived from it, to our clients and vendors. This Non-PII may be used by our clients to deliver tailored ads to users on participating websites and for other purposes as described above. This information does not include any PII that can be used to contact or identify any person individually. Further, we encourage our clients, as applicable, to use any Non-PII they receive in compliance with applicable laws and regulations and to publish privacy policies that tell you about how the information they are gathering is being used. We urge you to always read the privacy policies of the websites you visit to understand issues relating to your online privacy.
+We may send your personal information to other group companies, affiliates and third parties to help us process your personal information for the purposes set out in this policy. 
 
-We may disclose a user's Non-PII to third parties when we reasonably believe we are obligated to do so by law, and in order to investigate, prevent, or take action regarding suspected or actual prohibited activities, including, but not limited to, fraud and situations involving potential threats to the physical safety of any person. In addition and if permitted by applicable law, we may also disclose and provide access to a user's PII and Non-PII to our vendors and contractors who are performing services on our behalf. However, such vendors and contractors are not permitted to use such user information for any purpose other than providing services to us.
+We may disclose your personal information if we or any of our assets are the subject of a sale or similar corporate transaction. We will ensure that the third parties who receive your personal information are required to keep it confidential. 
 
-## User Choice - Opting Out of Receiving Cookies
+We may disclose personal information to third parties when we reasonably believe we are required by law, and in order to investigate, prevent, or take action regarding suspected or actual unlawful or otherwise prohibited activities, including, but not limited to, fraud. 
 
-We use technology, which includes cookies, in the delivery of our Services. We believe that the use of these tools enables us and our advertiser clients to provide users with a more meaningful web experience.
+**How do we use your information for marketing?**
 
-At all times, you may adjust your computer's web browser settings to refuse all cookies. However, by doing so, you may not be able to use certain features on the websites you visit or take full advantage of all the website offerings and interest-based advertising. You can remove cookies by following directions provided in your Internet browser's "help" file.
+We will only provide information to you that you have asked for via the website. 
 
-You may also choose to opt out of us (MediaCom) collecting Non-PII in connection with the advertisements we manage on behalf of our clients. Of course, doing this means that you would no longer receive customised advertisements delivered through our MediaCom proprietary technology. To opt-out of our Non-PII collection, click here:
+**Where do we send your information?**
 
-Despite opting-out of our customised advertisements by following the process above, you may still receive tailored advertisements as a result of Non-PII collected (using cookies) by other parties not affiliated with, or controlled by us. To opt-out of non-PII collection for tailored online advertising from numerous other providers, you can visit the website of the [Network Advertising Initiative](http://www.networkadvertising.org/) to learn more and to make choices accordingly.
+We are a global company and therefore we may transfer your personal information to countries around the world including the US and other countries outside Europe. We will, where necessary, put in place appropriate safeguards to ensure your information is protected.
 
-Our opt-out cookies are programmed to expire 10 years after they are initially issued. However, if you buy a new computer, upgrade or change web browsers or take any action which results in the deletion of this "opt out" cookie, you will need to perform this opt-out process again. In order for the opt-out to work, your browser must be set to accept third party cookies.
+**How long do we keep your information?**
 
-## Data Retention
+We will keep your information for a reasonable period for the purposes set out above.
 
-We may use our anonymous cookie information for advertising purposes for up to 13 months. Aggregate reports generated from this information may be kept longer.
+**Cookies**
 
-## Information Security
+**What are cookies?**
 
-We follow generally accepted industry standards to protect against the unauthorised access to, retention of, and disclosure of information. This includes undertaking necessary physical, electronic, and management activities required to protect information integrity, access, and use. Any information that is stored on our server is treated as confidential information. Please keep in mind, however, that despite these reasonable efforts to protect information on our servers, no method of transmission over the Internet is guaranteed to be secure. Therefore, while we strive to protect your information at all times, we cannot guarantee its absolute security.
+We may use information obtained from cookies or similar technology. Cookies are text files containing small amounts of information which we download onto your computer or device when you visit our website. Therefore, when we refer to "you" in this section we mean your computer. We can recognise these cookies on subsequent visits and they allow us to remember you. 
 
-## Change to this Privacy Policy
+Cookies come in many forms. We have set out below the main types and categories of cookies that are used. This section refers to all types and categories of cookies and not just those we use on our website.
 
-Please note that because of the changing nature of privacy laws, user needs, and our business, we may modify this Privacy Policy from time to time by providing advance notice on our website before implementing such modifications. Accordingly, since we want to help you clearly understand our Privacy Policy, and any pertinent revisions, we encourage you to review our Privacy Policy periodically to become aware of any changes that may have occurred.
+**First and third-party cookies** \- whether a cookie is first-party or third-party refers to the domain placing the cookie. First-party cookies are those set by a website that is being visited by the user, the website displayed in the URL window e.g. [www.mediacom.com](http://www.wpp.com/) . Third-Party cookies are cookies that are set by a domain other than that of the website being visited by the user. If a user visits a website and another entity sets a cookie through that website this would be a third-party cookie.
 
-## Information We Collect Through Your Correspondence on this Website
+**Persistent cookies** – these cookies remain on a user's device for the period of time specified in the cookie. They are activated each time that the user visits the website that created that particular cookie. 
 
-If you provide us information through our "Network & Contacts, Headquarters" page on this website, sign up to receive our marketing emails or newsletters, submit information in connection with an employment inquiry, expressly enter information into a text field or otherwise submit information to us, we will keep a record of the information you provide including your email address and any other PII you provide solely for the purpose of responding to your inquiry or to provide you with requested marketing materials or newsletters. Except as set forth in this Privacy Policy, this information will never be shared with third parties without your consent. MediaCom may pass your PII to our subsidiaries and affiliated companies so that they may contact you in connection with the objective of your inquiry. Where we pass your PII to our subsidiary or affiliated companies in another country, we will make sure that they apply the same level of protection to your information as we do. We may also disclose your information to third parties in the event of suspected fraud, legal requirement or in connection with our vendors and contractors, all as described above.
+**Session cookie** – these cookies allow website operators to link the actions of a user during a browser session. A browser session starts when a user opens the browser window and finishes when they close the browser window. Session cookies are created temporarily. Once you close the browser, all session cookies are deleted. 
 
-MediaCom may use cookies to tailor your experience on our website (this website) and to help provide a better service to you. You may opt out of cookies used on our websites through the instructions provided above.
+**What do we use cookies for?**
 
-If you would like us to remove your information from our marketing e-mails or newsletters, please contact us at [privacy.global@mediacom.com](mailto:privacy.global@mediacom.com) . Be sure to include your name, username and clear instructions regarding any change to your PII including email address or if you would like us to unsubscribe you from our database.
+Cookies fall into one or more of the categories set out below. This website uses cookies that fall into all the categories. Also we use data from targeting cookies placed on your computer by third parties when you have visited other websites. 
 
-## Children's Privacy
+**1\. Strictly necessary cookies – These cookies enable services you have specifically asked for.**
 
-We are sensitive to the issue of children's privacy. Therefore, our website and Services are neither developed for, nor directed at, children. If you believe your child has provided us with PII, and you would like to have the information removed, please contact us at [privacy.global@mediacom.com](mailto:privacy.global@mediacom.com) .
+These cookies are essential in order to enable you to move around the website and use its features, such as accessing secure areas of the website. Without these cookies certain services you have asked for cannot be provided.  e,g, the **ASP.NET** cookie. 
 
-## Linking to Other Websites
+**2\. Performance cookies – These cookies collect information on the pages visited.**
 
-A link from our own website to another website does not imply our endorsement of that website. We do not control the websites to which we link and assume no responsibility for their content or privacy policies. Therefore, you should carefully review the privacy policies that apply to any websites you access from our website.
+These cookies collect information about how users use a website, for instance which pages users go to most often, and if they get error messages from web pages. These cookies don't collect information that identifies a visitor. All information these cookies collect is aggregated and therefore anonymous. They are only used to improve how the website works. 
 
-## Transfer of Data upon Change of Control
+**3\. Functionality cookies – These cookies remember choices you make to improve your experience.**
 
-In the event that another company acquires all or substantially all of the assets of our business through a consolidation, merger, asset purchase, or other transaction, we reserve the right to transfer all information (including any PII a user may have provided through the "Network & Contacts/Headquarters" page) that is in our possession or under our control to such acquiring party.
+These cookies allow the website to remember choices you make and provide enhanced, more personal features. For instance, e.g. the **AddThis** cookie that is used in WPP’s corporate reports. The **AddThis** cookie provides ‘share this page’ functionality, where a user can email a link from a report to their friends. They may also be used to help provide services you have asked for such as watching a video or commenting on a blog. The information these cookies collect may be anonymised and they cannot track your browsing activity to other websites. 
 
-## Data Storage - United Kingdom, United States & Germany
+**4\. Targeting cookies or advertising cookies – these cookies collect information about your browsing habits in order to make advertising relevant to you and your interests.**
 
-Our website and databases are maintained in the United KIngdom, United States of America and Germany. By using the website or our Services, you freely and specifically give us your consent to collect and store, your information in the United States and Germany and to use your information as specified within this Privacy Policy.
+These cookies are used to deliver adverts more relevant to you and your interests. They are also used to limit the number of times you see an advertisement as well as help measure the effectiveness of the advertising campaign. They are usually placed by advertising networks with the website operator's permission. They remember that you have visited a website and this information is shared with other organisation such as advertisers. Quite often targeting or advertising cookies will be linked to site functionality provided by the other organisation. 
 
-## Questions or Comments about this Privacy Policy
+If you want to delete any cookies that may already be on your computer or device, please refer to the instructions for your file management software to locate the file or directory that stores cookies.  If you want to stop cookies being stored on your computer in future, please refer to your browser manufacturer’s instructions by clicking “Help” in your browser menu.  Further information on cookies is available at www.allaboutcookies.org. By deleting our cookies or disabling future cookies you may not be able to access certain areas or features of our website.
 
-If you have questions or concerns regarding this statement, you should contact us through email or by mail. You can address your general questions and comments by e-mail to [privacy.global@mediacom.com](mailto:privacy.global@mediacom.com) or by mail: GroupM, 498 7th Avenue, 7th Floor, New York, New York 10018, Attn: Privacy Officer.
+**Third Party Websites**
+
+Our website links to third party sites which we do not operate or endorse. These websites may use cookies and collect your personal information in accordance with their own privacy policies. This privacy policy does not apply to third party websites and we are not responsible for third party websites.
+
+**How do we protect your information?**
+
+We take appropriate measures to ensure that your personal information disclosed to us is kept secure, accurate and up to date and kept only for so long as is necessary for the purposes for which it is used. 
+
+**Under 13 year olds**  
+This web site is not intended or designed to attract children under the age of 13. We do not knowingly collect personal information from or about any person under the age of 13. If you are under 13 years old and wish to ask a question or use this site in any way which requires you to submit your personal information, please get your parent or guardian to do so on your behalf.
+
+**How to obtain a copy of your information**
+
+You are entitled to ask for a copy of the information we hold about you (for which we may charge a small fee) and to have any inaccuracies in your information corrected. Please contact us using the details set out below.
+
+**How to contact us if your information or choices change**
+
+If your personal information or your preferences change, you don't want us to send you the information you have requested or if you have any queries about how we use your personal information, please let us know by contacting our Compliance Officer.
+
+**Changes to this privacy policy**
+
+We reserve the right, at our discretion, to change, modify, add, or remove portions from this privacy policy at any time. You are encouraged to review this privacy policy from time to time. 
