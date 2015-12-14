@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the videowood.tv privacy policy that was archived on 2015-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150526000355id_/http%3A//videowood.tv/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the videowood.tv privacy policy that was archived on 2015-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151214203322id_/http%3A//videowood.tv/privacy-policy) for the most accurate reproduction.*
 
 # VideoWood.tv - Host and Watch Videos Online
 
@@ -33,7 +33,7 @@ Videowood may use your personal information to:
 Your private information will be also shared when the following conditions are met:
 
   * User uploads prohibited content (See Terms and Conditions for Definition);
-  * User exploits DropVideo for illegitimate purposes;
+  * User exploits VideoWood for illegitimate purposes;
   * User used stolen payment credentials
 
 
