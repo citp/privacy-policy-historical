@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the progarchives.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627094910id_/http%3A//www.progarchives.com/PrivacyPolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the progarchives.com privacy policy that was archived on 2015-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151214165357id_/http%3A//www.progarchives.com/PrivacyPolicy.asp) for the most accurate reproduction.*
 
 # Progarchives.com Privacy Policy
 
