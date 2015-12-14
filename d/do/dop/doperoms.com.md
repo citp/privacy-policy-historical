@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the doperoms.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607140133id_/http%3A//www.doperoms.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the doperoms.com privacy policy that was archived on 2015-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151214214916id_/http%3A//www.doperoms.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Doperoms.com
 
@@ -33,6 +33,4 @@ Doperoms.com does not guarantee any files linked on doperoms.com are clean and v
 
   
 Copyright DopeROMS.com 2015 All Rights Reserved | Content Copyright Respective Owners   
-Server 1 | Compression: No | Cache: On | Database: Off | 0 Queries Used | 0.2046 Seconds.
-
-[Donate Bitcoins](https://www.coinbase.com/checkouts/4b715d7c60d5bb29df3304251c319625)
+Server 1 | Compression: No | Cache: On | Database: Off | 0 Queries Used | 0.02331 Seconds.
