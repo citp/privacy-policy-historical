@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the nootropicsdepot.com privacy policy that was archived on 2015-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150407124617id_/http%3A//nootropicsdepot.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nootropicsdepot.com privacy policy that was archived on 2015-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151214043659id_/http%3A//nootropicsdepot.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. This notice applies to all information collected from or submitted to Parmatrix, Inc. (NootropicsDepot.com) web site. Our web site may contain links to other web sites operated by third parties. NootropicsDepot.com is not responsible for the privacy practices or policies of such third party web sites.
+Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. This notice applies to all information collected from or submitted to NootropicsDepot.com web site. Our web site may contain links to other web sites operated by third parties. NootropicsDepot.com is not responsible for the privacy practices or policies of such third party web sites.
 
 **The Information We Collect**
 
