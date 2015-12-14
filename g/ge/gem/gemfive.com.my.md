@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gemfive.com.my privacy policy that was archived on 2015-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150504004957id_/http%3A//www.gemfive.com.my/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gemfive.com.my privacy policy that was archived on 2015-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151214224431id_/http%3A//www.gemfive.com.my/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - GEMFIVE Malaysia
 
@@ -63,7 +63,7 @@ GEM may disclose data to any or all of the parties stated above notwithstanding 
 
 **Controlling your data**
 
-If you have previously agreed to us using your data for direct marketing purposes, you may change your mind at any time by emailing us at privacy@gemfive.com or writing to The Data Protection Officer at GuoLine eMarketing Sdn Bhd, Level 8, Wisma Hong Leong, 18 Jalan Perak, 50450 Kuala Lumpur. No fee will be charged.  
+If you have previously agreed to us using your data for direct marketing purposes, you may change your mind at any time by emailing us at privacy@gemfive.com or writing to The Data Protection Officer at GuoLine eMarketing Sdn Bhd, Level 2, Block B, HP Towers, 12 Jalan Gelenggang, Bukit Damansara, 50490 Kuala Lumpur, Wilayah Persekutuan, Malaysia. No fee will be charged.  
 You may also request access to any data we hold about you at any time by contacting us at the above address. Where we hold information that you are entitled to access, we will provide you with suitable means of accessing it. A reasonable fee may be charged for processing each data access request.  
 To help GEM to provide a better service to you, please ensure that your personal data such as contact details including your home and office addresses, your telephone numbers (including your mobile telephone number), email address and other details registered with us are up to date.  
 If you have any questions or concerns about this Privacy Policy, please contact us at the above address. 
@@ -83,85 +83,3 @@ You can choose to accept or decline cookies. Most web browsers automatically acc
 **Links to other websites**
 
 Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any data which you provide whilst visiting such sites and such sites are not governed by this Privacy Policy. You should exercise caution and look at the privacy statement applicable to the website in question.
-
-#### _Dasar Privasi_
-
-  
-Undang-undang Malaysia menguasai pungutan, kegunaan dan peyimpanan informasi peribadi (“data”). Dasar Privasi ini menggariskan cara GuoLine eMarketing Sdn Bhd (No. Syarikat: 1112819-T) (“GEM”) menggunakan dan melindungi sebarang data yang anda berikan kepada GEM apabila anda menggunakan laman web ini.  
-GEM berkomited dalam memastikan privasi anda dilindungi. Jika kami meminta sebarang informasi untuk mengenalpasti anda semasa melanggani laman web kami, informasi anda hanya akan digunakan untuk tujuan yang digariskan dalam Dasar Privasi ini.  
-Anda akan berkemungkinan diminta untuk memberi data kepada GEM untuk kegunaan berkenaan aplikasi laman web ini dan/atau selama anda berurusan dengan GEM. Kami akan menyimpan data anda selama ia diperlukan untuk memenuhi syarat yang digariskan dalam Dasar Privasi ini, melainkan ia diperlukan untuk tempoh lebih lanjut atau yang dibenarkan oleh undang-undang. 
-
-Dasar Privasi ini menentukan sebahagian terma dan syarat,dan juga perjanjian yang anda sudah atau akan dilakukan dengan GEM. Jika apa-apa ketidakselarasan didapati,, peruntukkan Dasar Privasi ini akan diguna pakai.
-
-**Perubahan kepada Dasar Privasi**
-
-GEM berhak untuk mengubahsuai Dasar Privasi ini pada bila-bila masa. Sebarang perubahan terhadap dasar ini akan disiarkan di laman web kami. Anda dinasihati untuk membaca Dasar Privasi ini dari masa ke semasa untuk mengetahui sebarang pengubahan. Dasar Privasi ini berkuatkuasa mulai 1 Mac 2015.
-
-**Data yang kami kumpulkan**
-
-Kami akan mengumpul data yang berikutyang termasuk tetapi tidak terhad kepada:  
-• Nama, tarikh lahir, nombor IC/nombor paspot (bagi warga asing), status perkahwinan dan jantina;  
-• Maklumat kenalan, termasuk alamat rumah, alamat emel dan nombor telefon;  
-• Maklumat berkenaan keluarga dan rakan-rakan anda seperti nama, alamat surat menyurat, alamat emel dan nombor telefon untuk memenuhi syarat permintaan/pembelian sijil hadiah;  
-• Maklumat demografi seperti bayaran pos, bil dan maklumat lain untuk memudahkan kiriman barang yang dibeli;  
-• Maklumat kewangan seperti kad kredit atau nombor akaun bank;  
-• Maklumat transaksi berkaitan dengan aktiviti anda dilaman web kami;  
-• Maklumat berkaitan interaksi anda, perkhidmatan, kandungan dan pengiklanan dilaman web kami;  
-• Maklumat lain buat pengesahan diri anda dilaman web kami; dan  
-• Maklumat lain yang diperlukan mengikut undang-undang dari masa kesemasa.
-
-Anda bertanggungjawab untuk menyediakan data yang dikenal pasti sebagai mandatori. Manakala, berkenaan dengan data dikenal pasti sebagai pilihan, penyediaan data tersebut oleh anda adalah secara sukarela . Jika anda tidak membekalkan data seperti yang dikenal pasti sebagai mandatori, ini boleh menyebabkan penyekatan perkhidmatan atau selainnya oleh GEM berurusan dengan anda.
-
-**Apa yang kami lakukan dengan data yang dikumpulkan**
-
-Kami memerlukan data ini bagi memahami keperluan anda sebagai pengguna dan untuk memberi perkhidmatan yang memuaskan. Data anda boleh digunakan oleh GEM atau bagi pihak miliknya untuk tujuan-tujuan berikut:   
-• Menjalani arahan, membekal produk atau perkhidmatan (iaitu oleh GEM, syarikat bersehubung dengan GEM, atau pihak ketiga) dan juga membalas segala pertanyaan pengguna atau yang dibuat bagi pihaknya;  
-• Untuk penyelidikan, rekaan, pelancaran dan pemasaran produk baru, perkhidmatan, rebat atau maklumat tentang GEM dan parti ketiga (termasuk tetapi tidak terhad kepada menyediakan data kepada pekongsi perniagaan dan untuk mencipta senarai pemasaran untuk kongsian dengan perniagaan kongsi GEM) dan mengawasi perundangan, operasi dan penggunaan produk atau perkhidmatan tertentu;   
-• Rujukan perundangan (pertanyaan status tempahan);  
-• Untuk verifikasi dan pengesahan identiti pengguna bagi memberi perkhidmatan yang tepat;  
-• Menghantar notis-notis penting seperti penukaran polisi GEM, terma dan syarat, dan butiran tempahan anda;  
-• Pengesahan butiran kewangan yang dihutangkan kepada atau oleh anda, pembayaran atau pungutan kewangan dari anda atau sesiapa individu yang bertanggungjawab keatas anda, dan memproseskan transaksi tersebut;  
-• Menghantar bahan publisiti atau maklumat berkenaan tentang GEM;  
-• Penguatkuasaan keatas kewajipan anda terhadap jumlah kewangan yang belum dijelas dengan penuh;  
-• Mengemas-kini rekod kami;  
-• Menggunakan data anda untuk memperbaiki produk-produk dan aliran perkhidmatan kami;  
-• Menghantar bahan pemasaran dan/atau promosi berkala tentang produk baru, tawaran istimewa atau maklumat yang kami anggap relevan tentang GEM, anak syarikat GEM atau pihak ketiga yang terlibat dari masa kesemasa kepada alamat emel yang anda sediakan;  
-• Memenuhi sebarang aspek undang-undang, Kerajaan atau mana-mana pihak dan/atau bidang berkuasa di Malaysia yang diperlukan, termasuk pendedahan informasi atau pemberitahuan;  
-• Membantu sesiapa yang memperolehi atau mengambil bahagian dalam mana-mana perjanjian kontrak diantara GEM dan anda untuk menilai transaksi bagi tempahan anda;  
-• Dari masa kesemasa kami akan menggunakan data yang disediakan untuk menghubungi anda melalui emel, telefon, faks atau mel bagi memenuhi criteria kajian pasaran dan mengubah-suai laman web kami mengikut kegemaran anda; dan  
-• Mana-mana tujuan yang berkaitan supaya GEM boleh menjalani perniagaannya dengan lancar dan/atau berhubung dengan sebarang perkara yang berkaitan di atas.  
-Data yang diadakan berkaitan dengan anda akan dirahsiakan tetapi ia akan juga diperuntukkan untuk:-
-
-• any person under a duty of confidentiality to GEM or to companies related to or affiliated to GEM;  
-• Bagi individu dikuatkuasakan secara sulit oleh GEM atau mana-mana syarikat yang terlibat dengan GEM;  
-• Mana-mana agen, kontraktor atau pihak ketiga yang relevan yang menyediakan perkhidmatan administratif, hubungan, telekomunikasi, komputer, transaksi dan sekuriti;  
-• Mana-mana institusi kewangan yang anda memilih untuk mewakili segala transaksi online anda;  
-• Sesiapa individu atau syarikat dimana GEM memindah obligasinya yang berkenaan dengan anda atau mana-mana produk atau perkhidmatan yang diberikan kepada anda;  
-• Mana-mana penama, pemegang amanah, pemegang amanah bersama, depositori sekuriti pusat atau pendaftar, penjaga, syarikat insurans, ejen hartanah, peguam, penasihat cukai, juruaudit, penasihat profesional lain atau individu yang terlibat secara terus dengan penyediaan perkhidmatan atau produk GEM kepada anda;  
-• Mana-mana individu oleh siapa GEM dikehendaki oleh undang-undang, kerajaan atau pihak berkuasa untuk mendedahkan data atau;  
-• Mana-mana individu lain yang memerlukan perkara yang sama bagi menjalani perniagaan GEM. 
-
-GEM boleh mendedahkan data kepada mana-mana pihak atau semua pihak diatas walaupun tempat perniagaan pihak tersebut di luar negara Malaysia, atau bahawa pendedahan maklumat seperti berikut dikumpulkan, dipegang atau digunakan oleh penerima itu secara keseluruhan atau sebahagiannya di luar Malaysia.
-
-**Mengawal data anda**
-
-Jika anda telah bersetuju memberikan GEM kuasa untuk menggunakan data anda bagi tujuan pemasaran langsung, anda boleh menukar fikiran pada bila-bila masa dengan menghantar emel kepada privacy@gemfive.com, atau menulis surat kepada The Data Protection Officer di GuoLine eMarketing Sdn Bhd, Level 8, Wisma Hong Leong, 18 Jalan Perak, 50450 Kuala Lumpur. Tiada sebarang yuran yang dikenakan.  
-Anda juga boleh memohon akses pada data anda yang kami simpan pada bila-bila masa dengan menghubungi kami di alamat diatas. , Kami akan menyediakan cara yang sesuai kepada maklumat yang anda layak diberi akses. Yuran yang munasabah boleh dikenakan untuk memproses setiap permintaan akses kepada data.  
-Sila pastikan maklumat hubungan yang anda sediakan telah dikemaskini seperti alamat rumah dan pejabat, nombor telefon dan telefon bimbit, alamat emel termasuk butiran lain bagi membantu GEM menawarkan perkhidmatan yang lebih baik.  
-Jikalau anda ada sebarang pertanyaan atau kebimbangan mengenai Kenyataan Privasi ini, sila hubungi kami di alamat diatas. 
-
-**Keselamatan**
-
-GEM memang komited dalam memastikan data anda selamat, dengan mengekalkan pentadbiran yang sesuai dengan perlindungan fizikal dan teknikal bagi membantu melindungi keselamatan, dan integriti maklumat para pelanggan kami untuk mengelak kehilangan, akses yang tidak dibenarkan, modifikasi atau pendedahan. Kami menggunakan sudut penyulitan berlapisan untuk melindungi maklumat penting dan sentiasa memantau dan memperbaiki aplikasi, sistem dan proses untuk penentuan keselamatan.   
-Vendor IT GEM tiada hubungan langsung dengan individu yang menyediakan data mereka dan vendor IT kami tidak boleh mengumpul maklumat peribadi bagi pihak kami. Vendor IT kami juga tidak boleh tentukan cara kami menggunakan maklumat peribadi tersebut. Tambahan lagi, kontrak GEM dengan vendor IT dilarang vendor-vendor lain untuk mengakses maklumat pelanggan kecuali untuk keadaan tertentu.
-
-**Bagaimana kami menggunakan ‘Cookies’**
-
-‘Cookies’ adalah fail kecil yang meminta kebenaran untuk disimpan dalam cakera keras komputer anda. ‘Cookies’ itu pula akan menganalisa trafik web atau memberitahu anda apabila melanggani sesebuah laman web. ‘Cookies’ juga membernarkan aplikasi web bertindak balas dengan anda secara individu; jadi aplikasi web itu boleh menyesuaikan operasinya mengikut keperluan dan kegemaran anda melalui proses pengumpulan dan penyimpanan informasi pilihan anda.   
-Kami menggunakan ‘traffic log cookies’ untuk mengenalpasti jenis laman web yang dilanggani. Process ini membolehkan kami analisasi data tentang kegunaan laman web untuk menyesuaikannya kepada keperluan pelanggan. Kami hanya akan menggunakan informasi ini bagi menganalisasi statistik dan menyingkirkan data tersebut dari sistem apabila ia selesai.  
-Secara keseluruhannya, ‘cookies’ menyenangkan pihak kami kenalpasti mana-mana laman web yang anda gemari bagi menaik-taraf laman web GEM sendiri. ‘Cookies’ tidak sekalipun memberi akses kepada komputer atau informasi yang disimpan dalam komputer anda, selain data yang diberi oleh anda.  
-Anda boleh memilih untuk menerima atau menolak ‘cookies’, dan walaupun kebanyakan pelayar web menerima ‘cookies’ secara automatik, anda masih boleh memilih untuk menukar tetapan pelayar web anda. Walaubagaimanapun, tindakan ini boleh menghalang anda dari mengambil kesempatan penuh sesebuah laman web dan beberapa ciri-ciri laman web kami tidak boleh didapati jika ‘cookies’ tidak aktif.
-
-**Pautan ke laman web lain**
-
-Laman web kami juga mengandungi pautan ke laman-laman web lain yang berkenaan. Walaubagaimanapun, kami tidak ada sebarang kuasa atas laman web lain sesudah anda meninggalkan laman web GEM. Oleh itu, kami tidak bertanggungjawab keatas keselamatan dan privasi bagi mana-mana data yang anda beri waktu melayari laman web lain kerana ia tidak dirangkumi dalam Dasar Privasi ini. Anda perlu berhati-hati dan memerhati dasar atau polisi privasi laman web tersebut. 
