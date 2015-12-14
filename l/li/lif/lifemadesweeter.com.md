@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lifemadesweeter.com privacy policy that was archived on 2015-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150614040329id_/http%3A//lifemadesweeter.com/policies-terms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lifemadesweeter.com privacy policy that was archived on 2015-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151214190150id_/http%3A//lifemadesweeter.com/policies-terms) for the most accurate reproduction.*
 
 # Privacy Policy - Life Made Sweeter
 
