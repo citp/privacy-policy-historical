@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oipolloi.com privacy policy that was archived on 2015-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150615054604id_/http%3A//www.oipolloi.com/pages/cookies-and-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oipolloi.com privacy policy that was archived on 2015-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151214165238id_/http%3A//www.oipolloi.com/pages/cookies-and-privacy) for the most accurate reproduction.*
 
 # Cookies and Privacy – Oi Polloi
 
@@ -29,7 +29,7 @@ As we’ve explained, without cookies our website wouldn’t work properly so if
 
 ### Oi Polloi’s Privacy Policy
 
-This store is owned and managed by Oi Polloi. You can find our full contact details on [our contact page](https://web.archive.org/web/20150615054604id_/http%3A//www.oipolloi.com/pages/pages/contact).
+This store is owned and managed by Oi Polloi. You can find our full contact details on [our contact page](https://web.archive.org/web/20151214165238id_/http%3A//www.oipolloi.com/pages/pages/contact).
 
 This policy covers how Oi Polloi treats personal information collected on this and other websites, including information related to your past use of our website such as previous order details.
 
