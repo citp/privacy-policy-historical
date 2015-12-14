@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the affinnova.com privacy policy that was archived on 2015-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150613232001id_/http%3A//www.affinnova.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the affinnova.com privacy policy that was archived on 2015-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151214232843id_/http%3A//www.affinnova.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Affinnova
 
