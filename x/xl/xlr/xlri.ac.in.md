@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xlri.ac.in privacy policy that was archived on 2015-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150415033519id_/http%3A//www.xlri.ac.in/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xlri.ac.in privacy policy that was archived on 2015-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151214031126id_/http%3A//www.xlri.ac.in/privacy.html) for the most accurate reproduction.*
 
 # Untitled Document
 
