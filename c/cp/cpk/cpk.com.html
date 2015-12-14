@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the cpk.com privacy policy that was archived on 2015-06-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150622010608id_/http%3A//www.cpk.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the cpk.com privacy policy that was archived on 2015-12-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151214152431id_/http%3A//www.cpk.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
 		<!-- =========== BEGIN MOBILE SNIPPET ================= -->
@@ -105,7 +105,7 @@
 							<div id="header-search-wrap">
 								<div id="map-canvas"></div>
 								<form action="/locations/">
-									<input type="search" id="header-bar" placeholder="Enter Zip Code, City or State" value="">
+									<input type="search" id="header-bar" placeholder="Enter Zip Code or City, State" value="">
 									<input type="search" name="q" id="header-search" value="">
 									<input type="image" src="http://d149n29we98a20.cloudfront.net/static/img/reskin/global/search-submit.png" class="geoCodeIt" id="presearch-submit" data-bar-name="header">
 									<input type="image" value="submit" src="http://d149n29we98a20.cloudfront.net/static/img/reskin/global/search-submit.png" id="header-submit">
@@ -209,7 +209,7 @@
 							<li><a href="https://cpkstore.wgiftcard.com/">Gift Cards</a></li>
 							<li><a href="http://webhost.cpk.com/bog/">Be Our Guest Cards</a></li>
 							<li><a href="http://www.cpk.com/pizzadough/">Pizza Dough® Rewards Loyalty Cards</a></li>
-							<li><a href="http://webhost.cpk.com/promobalance/">$20 Promotional Card</a></li>
+							<!-- <li><a href="http://webhost.cpk.com/promobalance/">$20 Promotional Card</a></li> -->
 						</ul>
 					</div>
 				</div>
@@ -426,6 +426,7 @@
 		
 		<!-- JavaScript at the bottom for fast page loading -->
 		<div class="hidden scripts">
+			<!-- DO NOT CHANGE VERSION OF JQUERY FOR ANY REASON! ITS NOT A GOOD TIME! -->
 			<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
 			<script type="text/javascript" src="//maps.googleapis.com/maps/api/js?v=3.exp&amp;signed_in=true"></script>
 			<script type="text/javascript" src="https://www.youtube.com/iframe_api"></script>
@@ -453,6 +454,23 @@
 			<img src="http://d149n29we98a20.cloudfront.net/static/img/reskin/global/body2.jpg">
 		</div>
 		
+		<script>
+		window.fbAsyncInit = function() {
+			FB.init({
+				appId      : '130228180664435',
+				xfbml      : true,
+				version    : 'v2.4'
+			});
+		};
+
+		(function(d, s, id){
+			var js, fjs = d.getElementsByTagName(s)[0];
+			if (d.getElementById(id)) {return;}
+			js = d.createElement(s); js.id = id;
+			js.src = "//connect.facebook.net/en_US/sdk.js";
+			fjs.parentNode.insertBefore(js, fjs);
+		}(document, 'script', 'facebook-jssdk'));
+		</script>
 	
 
 </body></html>
