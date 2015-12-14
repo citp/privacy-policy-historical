@@ -1,20 +1,20 @@
-> *The following text is extracted and transformed from the freedownloadcenter.com privacy policy that was archived on 2015-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150531232416id_/http%3A//www.freedownloadscenter.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freedownloadcenter.com privacy policy that was archived on 2015-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151214202314id_/http%3A//www.freedownloadscenter.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy policy
 
 | 
 
-[Free Video Slideshow Maker ](http://www.freedownloadscenter.com/Reviews/r9591.html)
+[Import MBOX to Outlook ](http://www.freedownloadscenter.com/Reviews/r9985.html)
 
-[](http://www.freedownloadscenter.com/Reviews/r9591.html)
+[](http://www.freedownloadscenter.com/Reviews/r9985.html)
 
-**Free Video Slideshow Maker** creates dynamic video presentations and video slide shows effortlessly. 
+**Import MBOX to Outlook** is a professional application with the capabilities to import MBOX files to Outlook PST files. 
 
-[Notes to PST Conversion ](http://www.freedownloadscenter.com/Reviews/r9592.html)
+[NOV User Interface for .NET ](http://www.freedownloadscenter.com/Reviews/r9986.html)
 
-[](http://www.freedownloadscenter.com/Reviews/r9592.html)
+[](http://www.freedownloadscenter.com/Reviews/r9986.html)
 
-**Notes to PST Conversion** is a professional tool with the capabilities to migrate Lotus Notes NSF files or Domino Server to Outlook PST files or Exchange Server. 
+**NOV User Interface for .NET** this is an advanced and effective toolkit for Cross-Platform and LOB applications with .NET. 
 
 Reviews newsletter 
 
