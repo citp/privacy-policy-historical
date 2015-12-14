@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gujaratrojgar.org privacy policy that was archived on 2015-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150613232356id_/http%3A//www.gujaratrojgar.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gujaratrojgar.org privacy policy that was archived on 2015-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151214150523id_/http%3A//www.gujaratrojgar.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Gujarat Rojgar
 
@@ -40,6 +40,6 @@ By using this Site, you signify your acceptance of this policy and terms of serv
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, you can contact with us.  
 **Gujaratrojgar.org**  
-Chirag  
+Yogesh Lathiya  
 Gujarat India.  
-Emails: admin@gujaratrojgar.org | chirageng007@gmail.com
+Emails: admin@gujaratrojgar.org
