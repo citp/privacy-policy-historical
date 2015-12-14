@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the hayden-mcneil.com privacy policy that was archived on 2014-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141215205146id_/http%3A//www.hmpublishing.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hayden-mcneil.com privacy policy that was archived on 2015-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151214151327id_/http%3A//www.hmpublishing.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
-_Effective Date:   May 06, 2009_
+_Effective Date:   November 11, 2015_
 
 We at Hayden-McNeil, LLC ("we" or "HM") respect your concerns about privacy and value the relationship we have with you.  This Privacy Notice describes the types of personal information we collect on our Web sites, how we may use that information, and with whom we may share it. Our Privacy Notice also describes the measures we take to protect the security of the information.  In addition, we describe the choices you can make about how we use the information you provide to us.  We also tell you how you can reach us to update your contact information, contact us with general questions or comments, inquire about our company and its products and services, or answer any questions you may have about our privacy practices.
 
@@ -91,7 +91,7 @@ We give you the option of requesting that we not share personal information abou
 
 Please be aware that we are able to effectuate an opt-out only for a specific e-mail address, or for a name and address or other identifying information. For example, we are unable to opt out "John Smith" by name alone, because of the large number of persons by that name in our databases. So, if you have more than one e-mail address, if you move or change jobs, or if the information you provide us when opting out doesn't match the information in our databases, your opt out request may not be effectuated properly. If you believe you have opted out, but continue to receive e-mails from us, please contact us by one of the means listed under "How to Contact Us", below, and we will endeavor to resolve the issue.
 
-We may change or update portions of this Privacy Notice at any time and without prior notice to you.  Please check back from time to time so you are aware of any changes or updates to the Notice.  We will indicate above the effective date of the Notice.
+Changes to this Online Privacy Notice will become effective when those changes are posted to our sites. If we make any material changes to the information practices described in this Online Privacy Notice, we will first provide you with a prominent notice. We will not materially reduce your rights under this Online Privacy Notice without first obtaining your consent. Your continued use of the sites subsequent to any change to this Online Privacy Notice constitutes your acceptance of the change. Please review this statement periodically to ensure you are aware of any changes or updates to this Online Privacy Notice. We indicate the effective date of this Online Privacy Notice (and any updates) at the top of the Notice.
 
 If you would like to update your contact information, click here. If you have any questions about our information practices or our products or services, please contact us by [clicking here](http://www.hmpublishing.com/contact-hayden-mcneil.html) or writing us at:
 
