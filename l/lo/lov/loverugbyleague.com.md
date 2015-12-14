@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the loverugbyleague.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627163321id_/http%3A//www.loverugbyleague.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loverugbyleague.com privacy policy that was archived on 2015-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151214205207id_/http%3A//www.loverugbyleague.com/privacy-policy) for the most accurate reproduction.*
 
-# Love Rugby League | Live Rugby League Scores | Rugby League Fixtures
+# Love Rugby League | Live Rugby League Scores | Rugby Leagueï¿½Fixtures
 
 Love Rugby League values the contributions of our users and we strive to provide them with a platform that they are comfortable using.
 
