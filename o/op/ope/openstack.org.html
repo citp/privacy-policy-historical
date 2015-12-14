@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the openstack.org privacy policy that was archived on 2015-06-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150628232936id_/http%3A//openstack.org/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the openstack.org privacy policy that was archived on 2015-12-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151215003613id_/http%3A//openstack.org/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html lang="en"><head>
     <meta charset="utf-8">
@@ -18,18 +18,6 @@
         <script src="//oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
         <script src="//oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
     <![endif]-->
-
-    <!-- hack for h1 titles until bootstrap conversion - issue #8841 -->
-    
-        <style type="text/css">
-            h1 {
-                text-align: center !important;
-                margin: 40px 0 !important;
-            }
-        </style>
-    
-    <!-- end hack - issue #8841 -->
-
 
     <script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script type="text/javascript" async="" src="https://www.google.com/cse/cse.js?cx=000108871792296872333:noj9nikm74i"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript">
 
@@ -61,9 +49,12 @@ function recordOutboundLink(link, category, action) {
 
 
 
-  <link rel="stylesheet" type="text/css" href="/themes/openstack/_combinedfiles/base_theme.css?m=1435259386">
+  <link rel="stylesheet" type="text/css" href="/themes/openstack/css/bootstrap.min.css?m=1450132923">
+<link rel="stylesheet" type="text/css" href="/themes/openstack/css/font-awesome.min.css?m=1450132923">
+<link rel="stylesheet" type="text/css" href="/themes/openstack/css/combined.css?m=1450132923">
+<link rel="stylesheet" type="text/css" href="/themes/openstack/css/navigation_menu.css?m=1450132923">
+<link rel="stylesheet" type="text/css" href="/themes/openstack/css/dropdown.css?m=1450132923">
 <link rel="stylesheet" type="text/css" media="stylesheet" href="//fonts.googleapis.com/css?family=Open+Sans:300,400,700">
-<link rel="stylesheet" type="text/css" href="/themes/openstack/_combinedfiles/old.css?m=1435259387">
 </head>
 
   <body id="privacy">
@@ -73,8 +64,8 @@ function recordOutboundLink(link, category, action) {
 <div class="top-site-banner">
     <div class="container">
         <p>
-            Want to speak at the next OpenStack Summit? Submit a talk before July 15! &nbsp; &nbsp;
-            <a href="https://www.openstack.org/summit/tokyo-2015/call-for-speakers/" class="top-site-banner-button">SUBMIT A TALK</a>
+            <span>Liberty offers greater manageability, scalability and extensibility, making OpenStack the integration engine for cloud services</span> &nbsp; &nbsp;
+            <a href="https://www.openstack.org/software/liberty/" class="top-site-banner-button">Learn more</a>
         </p>
     </div>
 </div>
@@ -94,13 +85,13 @@ function recordOutboundLink(link, category, action) {
             <div class="brand-wrapper">
                 <a class="navbar-brand" href="/"></a>
             </div>
-            <div class="search-icon show"><i class="fa fa-search"></i> Search</div>
+            <div class="search-icon show"><i class="fa fa-search"></i> <span class="header-search-text">Search</span></div>
         </div>
         <!-- Collect the nav links, forms, and other content for toggling -->
         <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
             <div class="search-container tiny">
                <div id="gcse">
-	<script type="text/javascript" src="/themes/openstack/_combinedfiles/jquery_base.js?m=1435259386"></script><script type="text/javascript" src="/themes/openstack/_combinedfiles/base_page.js?m=1435259386"></script><script type="text/javascript">//<![CDATA[
+	<script type="text/javascript" src="/themes/openstack/javascript/jquery.min.js?m=1450132923"></script><script type="text/javascript" src="/themes/openstack/javascript/jquery-migrate-1.2.1.min.js?m=1450132923"></script><script type="text/javascript" src="/themes/openstack/javascript/jquery.cookie.js?m=1450132923"></script><script type="text/javascript" src="/themes/openstack/javascript/querystring.jquery.js?m=1450132923"></script><script type="text/javascript" src="/themes/openstack/javascript/shadowbox/shadowbox.js?m=1450132923"></script><script type="text/javascript" src="/themes/openstack/javascript/jquery.ticker.js?m=1450132923"></script><script type="text/javascript" src="/themes/openstack/javascript/jquery.tools.min.js?m=1450132923"></script><script type="text/javascript" src="/themes/openstack/javascript/jcarousellite.min.js?m=1450132923"></script><script type="text/javascript" src="/themes/openstack/javascript/bootstrap.min.js?m=1450132923"></script><script type="text/javascript" src="/themes/openstack/javascript/navigation.js?m=1450132923"></script><script type="text/javascript" src="/themes/openstack/javascript/filetracking.jquery.js?m=1450132923"></script><script type="text/javascript">//<![CDATA[
 jQuery(document).ready(function($) {
 
     var d = new Date();
@@ -109,14 +100,15 @@ jQuery(document).ready(function($) {
 
     $('body').filetracking();
 
-    $('.outbound-link').live('click',function(event){
+    $(document).on("click", ".outbound-link", function(event){
         var href = $(this).attr('href');
         recordOutboundLink(this,'Outbound Links',href);
         event.preventDefault();
         event.stopPropagation()
         return false;
     });
-    var use_shadow_box = 0;
+
+    var use_shadow_box = false;
     if(use_shadow_box)
         Shadowbox.init();
 });
@@ -144,163 +136,90 @@ jQuery(document).ready(function($) {
 </div>
 
             </li>
-            <li>
-                <a href="/software/" class="drop" id="dropdownMenuSoftware">Software <i class="fa fa-caret-down"></i></a><i class="mobile-expand"></i>
-                <ul class="dropdown-menu dropdown-hover" role="menu" aria-labelledby="dropdownMenuSoftware">
-                    <li role="presentation"><a role="menuitem" tabindex="-1" href="/software/">Overview</a></li>
-                    <li role="presentation" class="divider"></li>
-
-                    <li role="presentation"><a role="menuitem" tabindex="-1" href="/software/openstack-compute/">Compute</a></li>
-
-
-
-                    <li role="presentation"><a role="menuitem" tabindex="-1" href="/software/openstack-storage/">Storage</a></li>
-
-
-
-                    <li role="presentation"><a role="menuitem" tabindex="-1" href="/software/openstack-networking/">Networking</a></li>
-
-
-
-                    <li role="presentation"><a role="menuitem" tabindex="-1" href="/software/openstack-dashboard/">Dashboard</a></li>
-
-
-
-                    <li role="presentation"><a role="menuitem" tabindex="-1" href="/software/openstack-shared-services/">Shared Services</a></li>
-
-
-
-                    <li role="presentation" class="divider"></li>
-
-
-
-                    <li role="presentation"><a role="menuitem" tabindex="-1" href="/software/start/">Get Started</a></li>
-
-
-                </ul>
-
-            </li>
 
             <li>
-
-                <a href="/user-stories/" class="drop" id="dropdownMenuUsers">Users <i class="fa fa-caret-down"></i></a><i class="mobile-expand"></i>
-                <ul class="dropdown-menu dropdown-hover" role="menu" aria-labelledby="dropdownMenuUsers">
-
-
-                    <li role="presentation"><a role="menuitem" tabindex="-1" href="/user-stories/">Overview</a></li>
-
-
-
-                    <li role="presentation" class="divider"></li>
-
-                    <li role="presentation"><a role="menuitem" tabindex="-1" href="http://www.openstack.org/enterprise/">OpenStack in the Enterprise</a></li>
-
-                    <li role="presentation"><a role="menuitem" tabindex="-1" href="//superuser.openstack.org/">Superuser Magazine</a></li>
-
-
-
-                </ul>
-
-            </li>
-
-            <li>
-
-                <a href="/community/" class="drop" id="dropdownMenuCommunity">Community <i class="fa fa-caret-down"></i></a><i class="mobile-expand"></i>
-                <ul class="dropdown-menu dropdown-hover" role="menu" aria-labelledby="dropdownMenuCommunity">
-
-
-                    <li role="presentation"><a role="menuitem" tabindex="-1" href="/community/">Welcome! Start Here</a></li>
-
-
-
-                    <li role="presentation"><a role="menuitem" tabindex="-1" href="//ask.openstack.org/">Ask A Technical Question</a></li>
-
-
-
-                    <li role="presentation"><a role="menuitem" tabindex="-1" href="//wiki.openstack.org/wiki/Main_Page">OpenStack Wiki</a></li>
-
-
-
-                    <li role="presentation"><a role="menuitem" tabindex="-1" href="/community/events/">Community Events</a></li>
-
-
-
-                    <li role="presentation"><a role="menuitem" tabindex="-1" href="/foundation/">Openstack Foundation</a></li>
-
-
-
-                    <li role="presentation"><a role="menuitem" tabindex="-1" href="//wiki.openstack.org/wiki/Getting_The_Code">Source Code</a></li>
-
-
-
-                    <li role="presentation" class="divider"></li>
-
-
-
-                    <li role="presentation"><a role="menuitem" tabindex="-1" href="/foundation/companies/">Supporting Companies</a></li>
-
-
-
-                    <li role="presentation"><a role="menuitem" tabindex="-1" href="/community/jobs/">Jobs</a></li>
-
-
-
-                    <li role="presentation" class="divider"></li>
-
-
-
-                    <li role="presentation"><a role="menuitem" tabindex="-1" href="/join/">Join The Community</a></li>
-
-
-                </ul>
-
-            </li>
-
-            <li>
-
-                <a href="/marketplace/">Marketplace</a>
-
-            </li>
-
-            <li>
-
-                <a href="/events/" class="drop" id="dropdownMenuEvents">Events <i class="fa fa-caret-down"></i></a><i class="mobile-expand"></i>
-                <ul class="dropdown-menu dropdown-hover" role="menu" aria-labelledby="dropdownMenuEvents">
-
-
-                    <li role="presentation"><a role="menuitem" tabindex="-1" href="/community/events/">Overview</a></li>
-
-
-
-                    <li role="presentation"><a role="menuitem" tabindex="-1" href="/summit/">The OpenStack Summit</a></li>
-
-
-
-                    <li role="presentation"><a role="menuitem" tabindex="-1" href="/community/events/">More OpenStack Events</a></li>
-
-
-                </ul>
-
-            </li>
-
-            <li>
-
-                <a href="/blog/">Blog</a>
-
-            </li>
-
-            <li>
-
-                <a href="http://docs.openstack.org/">Docs</a>
-
-            </li>
+    <a href="http://www.openstack.org/software/" class="drop" id="dropdownMenuSoftware">Software <i class="fa fa-caret-down"></i></a><i class="mobile-expand"></i>
+    <ul class="dropdown-menu dropdown-hover" role="menu" aria-labelledby="dropdownMenuSoftware">
+        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://www.openstack.org/software/">Overview</a></li>
+        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://www.openstack.org/software/project-navigator/">Project Navigator</a></li>
+        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://www.openstack.org/software/sample-configs/">Sample Configs</a></li>
+        <li role="presentation" class="divider"></li>
+        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://www.openstack.org/software/start/">Get Started</a></li>
+        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://www.openstack.org/software/roadmap/">Roadmap</a></li>
+        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://www.openstack.org/software/latest-release/">Latest Release</a></li>
+        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://www.openstack.org/software/sourcecode/">Source Code</a></li>
+    </ul>
+</li>
+<li>
+    <a href="http://www.openstack.org/user-stories/" class="drop" id="dropdownMenuUsers">Users <i class="fa fa-caret-down"></i></a><i class="mobile-expand"></i>
+    <ul class="dropdown-menu dropdown-hover" role="menu" aria-labelledby="dropdownMenuUsers">
+        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://www.openstack.org/user-stories/">Overview</a></li>
+        <li role="presentation" class="divider"></li>
+        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://www.openstack.org/enterprise/">OpenStack in the Enterprise</a></li>
+        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://www.openstack.org/appdev/">Application Developers</a></li>
+        <li role="presentation"><a role="menuitem" tabindex="-1" href="//superuser.openstack.org/">Superuser Magazine</a></li>
+        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://www.openstack.org/surveys/landing">User Survey</a></li>
+    </ul>
+</li>
+<li>
+    <a href="http://www.openstack.org/community/" class="drop" id="dropdownMenuCommunity">Community <i class="fa fa-caret-down"></i></a><i class="mobile-expand"></i>
+    <ul class="dropdown-menu dropdown-hover" role="menu" aria-labelledby="dropdownMenuCommunity">
+        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://www.openstack.org/community/">Welcome! Start Here</a></li>
+        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://www.openstack.org/foundation/">OpenStack Foundation</a></li>
+        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://wiki.openstack.org">OpenStack Wiki</a></li>
+        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://groups.openstack.org">User Groups</a></li>
+        <li role="presentation" class="divider"></li>
+        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://www.openstack.org/foundation/companies/">Supporting Companies</a></li>
+        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://www.openstack.org/community/jobs/">Jobs</a></li>
+        <li role="presentation" class="divider"></li>
+        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://www.openstack.org/join/">Join The Community</a></li>
+    </ul>
+</li>
+<li>
+    <a href="http://www.openstack.org/marketplace/">Marketplace</a>
+</li>
+<li>
+    <a href="http://www.openstack.org/events/" class="drop" id="dropdownMenuEvents">Events <i class="fa fa-caret-down"></i></a><i class="mobile-expand"></i>
+    <ul class="dropdown-menu dropdown-hover" role="menu" aria-labelledby="dropdownMenuEvents">
+        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://www.openstack.org/community/events/">Overview</a></li>
+        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://www.openstack.org/summit/">The OpenStack Summit</a></li>
+        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://www.openstack.org/community/events/#openstack_days">OpenStack Days</a></li>
+    </ul>
+</li>
+<li>
+    <a href="http://www.openstack.org/learn/" class="drop" id="dropdownMenuLearn">Learn <i class="fa fa-caret-down"></i></a><i class="mobile-expand"></i>
+    <ul class="dropdown-menu dropdown-hover" role="menu" aria-labelledby="dropdownMenuEvents">
+        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://www.openstack.org/marketplace/training/">Training</a></li>
+        <li role="presentation"><a role="menuitem" tabindex="-1" href="//superuser.openstack.org">Superuser Magazine</a></li>
+        <li role="presentation"><a role="menuitem" tabindex="-1" href="//ask.openstack.org">Ask a Technical Question</a></li>
+        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://www.openstack.org/news/">News</a></li>
+        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://www.openstack.org/blog/">Blog</a></li>
+        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://www.openstack.org/summit/tokyo-2015/summit-videos/">Summit Videos</a></li>
+    </ul>
+</li>
+<li>
+    <a href="http://docs.openstack.org/">Docs</a>
+</li>
+<li>
+
+</li>
 
 
             <li>
             
-                <a class="sign-in-btn" href="/Security/login/?BackURL=/privacy/">Sign In</a>
+                </li><li class="join-nav-section">
+                    <a href="#" id="dropdownMenuJoin">Join <i class="fa fa-caret-down"></i></a>
+                    <ul class="dropdown-menu dropdown-hover" role="menu" aria-labelledby="dropdownMenuJoin" style="display: none;">
+                        <li role="presentation"><a role="menuitem" tabindex="-1" href="/join/register/?membership-type=foundation">Sign up for Foundation Membership</a></li>
+                        <li role="presentation"><a role="menuitem" tabindex="-1" href="/join/#sponsor">Sponsor the Foundation</a></li>
+                        <li role="presentation"><a role="menuitem" tabindex="-1" href="/foundation">More about the Foundation</a></li>
+                    </ul>
+                </li>
+                <li>
+                    <a href="/Security/login/?BackURL=/privacy/" class="sign-in-btn">Log In</a>
+                </li>
             
-            </li>
+            
         </ul>
     </div>
     <!-- /.navbar-collapse -->
@@ -355,17 +274,14 @@ jQuery(document).ready(function($) {
 <p>Should you breach our Website Terms of Use, or if we are under a duty to disclose or share your personal data in order to comply with any legal obligation, we may disclose your information to a relevant authority.  This may include exchanging information with other companies and organizations for the purposes of fraud protection and credit risk reduction.  In particular, we may release the information we collect to third parties when we believe it is appropriate to comply with the law, to enforce our legal rights, to protect the rights and safety of others, or to assist with industry efforts to control fraud, spam or other undesirable conduct.</p>
 <h2>5.	YOUR CHOICES ABOUT RECEIVING E-MAIL and OPTING OUT OF COMMUNICATIONS</h2>
 <p>OpenStack gives you an opportunity to opt-in and opt-out of receiving communications from OpenStack or opting-out of personal data being disclosed to third parties for a purpose incompatible with the purpose for which it was originally collected (except for meeting applicable legal requirements or permitting third party service providers who perform functions on our behalf as described in Section 4 of this Privacy Policy), including your opting out of receiving future marketing mailings.</p>
-<p>We will not use your contact information to correspond with you about our services if you ask us not to.  Please send your request to privacy@rackspace.com<script cf-hash="f9e31" type="text/javascript">
-/* <![CDATA[ */!function(){try{var t="currentScript"in document?document.currentScript:function(){for(var t=document.getElementsByTagName("script"),e=t.length;e--;)if(t[e].getAttribute("cf-hash"))return t[e]}();if(t&&t.previousSibling){var e,r,n,i,c=t.previousSibling,a=c.getAttribute("data-cfemail");if(a){for(e="",r=parseInt(a.substr(0,2),16),n=2;a.length-n;n+=2)i=parseInt(a.substr(n,2),16)^r,e+=String.fromCharCode(i);e=document.createTextNode(e),c.parentNode.replaceChild(e,c)}}}catch(u){}}();/* ]]> */</script> or write us at Compliance Officer, Rackspace US, Inc., 5000 Walzem Road, San Antonio, TX 78218.  Please note that it may take up to ten days to remove your contact information from our marketing communications lists, so you may receive correspondence from us for a short time after you make your request.</p>
+<p>We will not use your contact information to correspond with you about our services if you ask us not to.  Please send your request to privacy@rackspace.com or write us at Compliance Officer, Rackspace US, Inc., 5000 Walzem Road, San Antonio, TX 78218.  Please note that it may take up to ten days to remove your contact information from our marketing communications lists, so you may receive correspondence from us for a short time after you make your request.</p>
 <h2>6.	SECURITY OF YOUR INFORMATION</h2>
 <p>We use various security measures to protect your personal information (including, preventing the loss, misuse, unauthorized access, disclosure, alteration and destruction of your personal information).  We store information you provide to us on a computer system located in a controlled facility with a limited access.</p>
 <p>If you use a password on the Website, you are responsible for keeping it confidential.  Do not share it with any other person.  If you believe your password has been misused, please notify us immediately.</p>
 <h2>7.	RIGHT TO ACCESS YOUR PERSONAL INFORMATION</h2>
-<p>If you believe that any personal information we have about you is incorrect, or is, has been, or might be used inappropriately, please contact us at <a href="mailto:privacy@rackspace.com">privacy@rackspace.com<script cf-hash="f9e31" type="text/javascript">
-/* <![CDATA[ */!function(){try{var t="currentScript"in document?document.currentScript:function(){for(var t=document.getElementsByTagName("script"),e=t.length;e--;)if(t[e].getAttribute("cf-hash"))return t[e]}();if(t&&t.previousSibling){var e,r,n,i,c=t.previousSibling,a=c.getAttribute("data-cfemail");if(a){for(e="",r=parseInt(a.substr(0,2),16),n=2;a.length-n;n+=2)i=parseInt(a.substr(n,2),16)^r,e+=String.fromCharCode(i);e=document.createTextNode(e),c.parentNode.replaceChild(e,c)}}}catch(u){}}();/* ]]> */</script></a> and we will take steps to correct or delete the information, or restrict its use, as appropriate.</p>
+<p>If you believe that any personal information we have about you is incorrect, or is, has been, or might be used inappropriately, please contact us at <a href="mailto:privacy@rackspace.com">privacy@rackspace.com</a> and we will take steps to correct or delete the information, or restrict its use, as appropriate.</p>
 <h2>8.	INQUIRIES OR COMPLAINTS</h2>
-<p>If you have a question or complaint about this Privacy Policy or our information collection practices, please contact us at privacy@rackspace.com<script cf-hash="f9e31" type="text/javascript">
-/* <![CDATA[ */!function(){try{var t="currentScript"in document?document.currentScript:function(){for(var t=document.getElementsByTagName("script"),e=t.length;e--;)if(t[e].getAttribute("cf-hash"))return t[e]}();if(t&&t.previousSibling){var e,r,n,i,c=t.previousSibling,a=c.getAttribute("data-cfemail");if(a){for(e="",r=parseInt(a.substr(0,2),16),n=2;a.length-n;n+=2)i=parseInt(a.substr(n,2),16)^r,e+=String.fromCharCode(i);e=document.createTextNode(e),c.parentNode.replaceChild(e,c)}}}catch(u){}}();/* ]]> */</script> or write us at Compliance Officer, Rackspace US, Inc., 5000 Walzem Road, San Antonio, TX 78218. We will investigate the matter and are committed to resolve any privacy concerns that you may have.</p>
+<p>If you have a question or complaint about this Privacy Policy or our information collection practices, please contact us at privacy@rackspace.com or write us at Compliance Officer, Rackspace US, Inc., 5000 Walzem Road, San Antonio, TX 78218. We will investigate the matter and are committed to resolve any privacy concerns that you may have.</p>
 <h2>9.	CHANGES</h2>
 <p>We may change this Privacy Policy from time to time.  You should check our website frequently to see recent changes; however, we will never materially change our policies and practices to make them less protective of personal information collected in the past without your prior consent. This Privacy Policy was last updated on January 13, 2014</p>
 <p>January 13, 2014</p>
@@ -413,7 +329,7 @@ jQuery(document).ready(function($) {
                         <li><a href="http://openstack.org/brand/">Logos &amp; Guidelines</a></li>
                         <li><a href="http://openstack.org/brand/openstack-trademark-policy/">Trademark Policy</a></li>
                         <li><a href="http://openstack.org/privacy/">Privacy Policy</a></li>
-                        <li><a href="https://wiki.openstack.org/wiki/How_To_Contribute#Contributors_License_Agreement">OpenStack CLA</a></li>
+                        <li><a href="https://wiki.openstack.org/wiki/How_To_Contribute#Contributor_License_Agreement">OpenStack CLA</a></li>
                     </ul>
                 </div>
                 <div class="col-lg-4 col-sm-4">
@@ -443,7 +359,7 @@ jQuery(document).ready(function($) {
         <div>
             <fieldset class="footer-feedback-fieldset">
                 <input class="feedback-input" type="input" placeholder="Give Us Your Feedback On This Page" id="FeedbackForm_FeedbackForm_Content" name="Content">
-                <input type="hidden" name="SecurityID" value="61272af4305c3ef3c169795d5862106ceaf7cbe3" class="hidden" id="FeedbackForm_FeedbackForm_SecurityID">
+                <input type="hidden" name="SecurityID" value="9eef68c089b6e0fbff9bbc4b11a0054dd6658475" class="hidden form-control" id="FeedbackForm_FeedbackForm_SecurityID">
 
                 <button type="submit" class="feedback-btn" id="FeedbackForm_FeedbackForm_action_submitFeedback" name="action_submitFeedback">Submit</button>
             </fieldset>
