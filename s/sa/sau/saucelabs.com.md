@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the saucelabs.com privacy policy that was archived on 2015-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150414021316id_/https%3A//saucelabs.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the saucelabs.com privacy policy that was archived on 2015-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151214231808id_/https%3A//saucelabs.com/privacy) for the most accurate reproduction.*
 
-# Sauce Labs: Privacy Policy
+# Privacy
 
 Information You Give Us: You provide most such information when you search, post, participate in a questionnaire, or communicate with customer service. For example, you provide information when you search for a product; place an order through saucelabs.com; provide information in Your Account (and you might have more than one if you have used more than one e-mail address when dealing with us) or Your Profile; communicate with us by phone, e-mail, or otherwise; complete a questionnaire; provide employer information when opening a corporate account; participate in Discussion Boards or other community features; provide and rate Answers. As a result of those actions, you might supply us with such information as your name, address, and phone numbers; credit card information.
 
