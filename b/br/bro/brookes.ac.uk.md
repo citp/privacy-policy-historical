@@ -1,16 +1,20 @@
-> *The following text is extracted and transformed from the brookes.ac.uk privacy policy that was archived on 2014-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140512022543id_/http%3A//www.brookes.ac.uk/About-Brookes/Structure-and-governance/Policies/Privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brookes.ac.uk privacy policy that was archived on 2015-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151214143514id_/http%3A//www.brookes.ac.uk/About-Brookes/Structure-and-governance/Policies/Privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy - Oxford Brookes University
 
-This website is operated by Oxford Brookes University. As a provider of education and related services and facilities the university may collect and store personal information which you submit to the university via this website or via other means. This privacy policy explains how we use the personal information we collect.
+  * This website is operated by Oxford Brookes University. As a provider of education and related services and facilities the university may collect and store personal information which you submit to the university via this website or via other means. This privacy policy explains how we use the personal information we collect.
 
 ## What information do we collect about you?
 
 We collect information about you when you visit this website and voluntarily provide us with personal details in order to enquire about, apply for or access the courses, services and facilities we offer. You may choose to provide these personal details by completing an online form or by contacting us by email or by other means.
 
-### Cookies
+**Cookies**
 
 Information about your usage of our website is collected using cookies. See our [cookie policy](https://web.archive.org/About-Brookes/Structure-and-governance/Policies/Cookie-policy/ "cookies policy") for further details.
+
+ **Phone**
+
+When you contact the University by telephone we may record or monitor your telephone call for training and quality purposes. 
 
 ## How will we use the information about you?
 
@@ -33,3 +37,6 @@ Our website contains links to other websites. This privacy policy only applies t
 ## Changes to our privacy policy
 
 We keep our privacy policy under regular review and we will place any updates on this web page. This privacy policy was last updated on 24 May 2011.
+
+
+
