@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the browardpalmbeach.com privacy policy that was archived on 2015-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150510065639id_/http%3A//www.browardpalmbeach.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the browardpalmbeach.com privacy policy that was archived on 2015-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151214171117id_/http%3A//www.browardpalmbeach.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Broward/Palm Beach News and Events | New Times Broward-Palm Beach
 
@@ -90,4 +90,4 @@ If your personally identifiable information changes, you may correct and/or upda
 
 ### More Questions? 
 
-If you have any questions about this privacy policy, please e-mail them to [privacyadministrator@voicemediagroup.com](mailto:privacyadministrator@voicemediagroup.com), and be sure to indicate the specific site you are visiting and the nature of your question or concern.
+If you have any questions about this privacy policy, please e-mail them to [privacyadministrator@browardpalmbeach.com](mailto:privacyadministrator@browardpalmbeach.com), and be sure to indicate the specific site you are visiting and the nature of your question or concern.
