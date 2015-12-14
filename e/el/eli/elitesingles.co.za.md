@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the elitesingles.co.za privacy policy that was archived on 2015-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150407190355id_/http%3A//www.elitesingles.co.za/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elitesingles.co.za privacy policy that was archived on 2015-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151214181533id_/http%3A//www.elitesingles.co.za/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | ELITESINGLES
 
@@ -72,7 +72,7 @@ If you have questions or concerns on this, our customer service is at your dispo
 
 **10999 Berlin, Germany**
 
-**Fax: +49 (0)1805 - 777 449**
+Fax: +49 30 991 949 5 32  ****
 
 **email: info@elitesingles.co.za**
 
@@ -316,7 +316,7 @@ To revoke consent or make an objection a simple message to us is sufficient. For
 
 **E-Mail: info@elitesingles.co.za**
 
-**Fax: 01805 – 777 449**
+Fax: +49 30 991 949 5 32 
 
 Please note that in case of an objection against the use of certain personal information we require to provide our services, it may be impossible to provide some or all of the services we offer on the ELITESINGLES platform. We are at your disposal for any questions about this.
 
@@ -338,7 +338,7 @@ For information, correction or deletion requests please contact us with your nam
 
 **email: info@ELITESINGLES.co.za**
 
-**Fax: +49 (0)1805 - 777 449**
+Fax: +49 30 991 949 5 32 
 
 Much of the information you can also see yourself directly and conveniently in your account and those that you see you can also change or delete yourself.
 
