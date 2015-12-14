@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the 1aauto.com privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612032848id_/http%3A//www.1aauto.com/customer_service/privacy_statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 1aauto.com privacy policy that was archived on 2015-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151214145700id_/http%3A//www.1aauto.com/customer_service/privacy_statement) for the most accurate reproduction.*
 
-# 1A Auto | Privacy Statement
+# 1A Auto : Aftermarket Auto Parts, Car Body Parts, Replacement & New Automobile and Truck Parts | Buy Discount Car & Auto Parts Online org.broadleafcommerce.common.page.dto.PageDTO@226bfa53
 
 Due to various transgressions and violations of unethical businesses, privacy has been a major concern of late. 1A Auto, Inc. (1A Auto) is committed to taking the steps necessary for preserving your confidentiality. The statements below outline the policies that 1A Auto has adopted to protect your information as well as your rights as a consumer. 
 
