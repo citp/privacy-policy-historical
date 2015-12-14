@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the timetoplaymag.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627132955id_/http%3A//ttpm.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the timetoplaymag.com privacy policy that was archived on 2015-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151214235343id_/http%3A//ttpm.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Time to Play | Toys, Tots, Pets & More
 
