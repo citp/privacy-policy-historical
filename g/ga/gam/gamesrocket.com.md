@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gamesrocket.com privacy policy that was archived on 2015-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150616001801id_/http%3A//www.gamesrocket.com/Privacy-Policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamesrocket.com privacy policy that was archived on 2015-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151214141449id_/http%3A//www.gamesrocket.com/Privacy-Policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - Games Download, Game to Download, PC, Mac - Gamesrocket
 
