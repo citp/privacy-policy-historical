@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the weddingbycolor.com privacy policy that was archived on 2015-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150615004016id_/http%3A//www.weddingbycolor.com/legals/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weddingbycolor.com privacy policy that was archived on 2015-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151215064644id_/http%3A//www.weddingbycolor.com/legals/privacy) for the most accurate reproduction.*
 
 # Wedding By Color- Free Wedding Blogs & Brides' Online Community
 
