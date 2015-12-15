@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the atlantablackstar.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629093504id_/http%3A//atlantablackstar.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the atlantablackstar.com privacy policy that was archived on 2015-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151215033320id_/http%3A//atlantablackstar.com/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement - Atlanta Blackstar
 
@@ -61,6 +61,10 @@ We will not disclose personally identifiable information we collect from you to 
 � To respond to legal process or comply with law, or
 
 � In connection with a merger, acquisition, or liquidation of the company.
+
+d. Third Party Advertisig
+
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: http://www.networkadvertising.org/managing/opt_out.asp
 
 4\. Use of Web Beacons or GIF files
 
