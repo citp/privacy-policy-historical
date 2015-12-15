@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the keypoint-media.com privacy policy that was archived on 2015-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150601102201id_/http%3A//keypoint-media.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the keypoint-media.com privacy policy that was archived on 2015-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151215135709id_/http%3A//keypoint-media.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - KPM – Programmatic Platform for Display Optimization
 
