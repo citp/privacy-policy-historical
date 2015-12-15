@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the connect6.com privacy policy that was archived on 2015-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150520130547id_/http%3A//www.connect6.com/Home/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the connect6.com privacy policy that was archived on 2015-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151215094340id_/http%3A//www.connect6.com/Home/Privacy) for the most accurate reproduction.*
 
 # Connect6° | Privacy Policy
 
