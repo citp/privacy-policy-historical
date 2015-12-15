@@ -1,57 +1,57 @@
-> *The following text is extracted and transformed from the gnaukri.in privacy policy that was archived on 2015-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150614020410id_/http%3A//www.gnaukri.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gnaukri.in privacy policy that was archived on 2015-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151215080341id_/http%3A//www.gnaukri.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - GNaukri.in
 
-**1\. Our Commitment to Privacy**. This notice describes our Privacy Policy. Our Privacy Policy is designed to advise you about how we collect, use, and protect the Personally Identifiable Information you provide. By visiting this site, you are accepting the practices described in this Privacy Policy.
+_The privacy of our visitors is important to us._
 
- **2\. What Information is Collected.**
+We recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use and visit this website, and how we safeguard your information. We never sell your personal information to third parties.
 
-(a) Information You Provide to Us:
+ **Log Files**
 
-We collect the Personally Identifiable Information you choose to enter on various pages of our site, or that you may choose to give us in some other way (such as by email, physical mail, or by telephone). For example, you will be asked to provide Personally Identifiable Information when you register for access to certain portions of our site, sign up for newsletters or mailings, or make a purchase.
+   As with most other websites, we collect and use the data contained in log files. The information in the log files include your IP (internet protocol) address, your ISP (internet service provider, such as AOL or Shaw Cable), the browser you used to visit our site (such as Internet Explorer or Firefox), the time you visited our site and which pages you visited throughout our site.
 
-The categories of Personally Identifiable Information we collect are your first and last name, e-mail address, physical address, and telephone number.
+ **Cookies**
 
-You can choose not to provide certain information, but you may not be able to take advantage of our services and features.
+   To make this site work properly, we sometimes place small data files called cookies on your device. Most big websites do this too.
 
-(b) Automatic Information:
+ **What are cookies?**
 
-When you visit a website, you disclose certain information, such as your Internet Protocol (IP) address and the time of your visit. This site, like many other sites, records this basic information about visits to our site.
+   A cookie is a small text file that a website saves on your computer or mobile device when you visit the site. It enables the website to remember your actions and preferences (such as login, language, font size and other display preferences) over a period of time, so you don’t have to keep re-entering them whenever you come back to the site or browse from one page to another.
 
-(c) “Cookies”:
+Enabling these cookies is not strictly necessary for the website to work but it will provide you with a better browsing experience. You can delete or block these cookies, but if you do that some features of this site may not work as intended.
 
-Cookies are pieces of information that are transferred to your computer from a web server.
+The cookie-related information is not used to identify you personally and the pattern data is fully under our control. These cookies are not used for any purpose other than those described here.
 
-We use cookies to store visitor preferences, record session information (such as items that you add to your shopping cart) record user-specific information on what pages users access or visit, alert visitors to new areas that we think might be of interest to them when they return to our site, record past activity at a site in order to provide better service when visitors return to our site, ensure that visitors are not repeatedly sent the same banner ads, and to customize Web page content based on visitors’ browser type or other information that the visitor sends.
+ **How to control cookies**
 
-Most browsers are set up to accept cookies, but you can change your settings to have your browser notify you when you receive a new cookie or you can change your settings to refuse to accept cookies.
+                You can control and/or delete cookies as you wish – for details, see aboutcookies.org. You can delete all cookies that are already on your computer and you can set most browsers to prevent them from being placed. If you do this, however, you may have to manually adjust some preferences every time you visit a site and some services and functionalities may not work.
 
- **3\. How and When the Information is Used.** The information we collect is used for administering our business activities as follows:
+ **How do we use cookies?**
 
-(a) to improve the content of our site;
+   _Cookies and Web Beacons_
 
-(b) to customize the content and/or layout of site pages for each individual visitor;
+   We do use cookies to store information, such as your personal preferences when you visit our site. This could include only showing you a popup once in your visit, or the ability to login to some of our features, such as forums.
 
-(c) used to notify consumers about updates to our Web site;
+   We also use third party advertisements to support our site. Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site, which will also send these advertisers (such as Google through the Google AdSense program) information including your IP address, your ISP , the browser you used to visit our site, and in some cases, whether you have Flash installed. This is generally used for geotargeting purposes (showing New York real estate ads to someone in New York, for example) or showing certain ads based on specific sites visited (such as showing cooking ads to someone who frequents cooking sites).
 
-(d) shared with other reputable organizations to help them contact consumers for marketing purposes;
+   _DoubleClick DART cookies_
 
-(e) used by us to contact consumers for marketing purposes.
+   We also may use DART cookies for ad serving through Google’s DoubleClick, which places a cookie on your computer when you are browsing the web and visit a site using DoubleClick advertising (including some Google AdSense advertisements). This cookie is used to serve ads specific to you and your interests (”interest based targeting”).
 
- **4\. How We Protect Your Information.** The privacy and protection of your information is important to us. We offer some of our services in connection with other web sites. The affiliated sites may have different privacy practices and we encourage you to read their privacy policies. Your access to some services and content is password protected. We advise that you do not disclose your password to anyone. In addition, we recommend you sign out of password-protected services at the end of your session. You should also be aware that if you voluntarily disclose Personally Identifiable Information on message boards or in chat areas, that information can be viewed publicly and can be collected and used by third parties without our knowledge and may result in unsolicited messages from other individuals or third parties. Such activities are beyond our control and this policy.
+   The ads served will be targeted based on your previous browsing history (For example, if you have been viewing sites about visiting Las Vegas, you may see Las Vegas hotel advertisements when viewing a non-related site, such as on a site about hockey). DART uses “non personally identifiable information”. It does NOT track personal information about you, such as your name, email address, physical address, telephone number, social security numbers, bank account numbers or credit card numbers.
 
- **5\. Who Has Access to the Information.** Information about our users is important to us. Access to your information may be provided to third parties who provide technical support for the operation of our site. In addition, we may sell our business or buy, merge or partner with other companies or businesses. In such transactions, user information may be transferred along with other assets. We may also disclose your information in response to a court order and we may disclose your information when we believe we are required to do so by law. We may disclose your information in connection with the collection of amounts you may owe to us and to law enforcement authorities whenever we deem it appropriate or necessary. Please note we may not provide you with notice prior to disclosure.
+   You can opt-out of this ad serving on all sites using this advertising by visiting
 
- **6\. Methods We Use to Protect Your Information.** We use security software to protect the confidentiality of your personal information. In addition, our business practices are reviewed periodically for compliance with policies and procedures governing the security and confidentiality of our information. Our business practices limit employee access to confidential information, and limit the use and disclosure of such information to authorized persons.
+<http://www.doubleclick.com/privacy/dart_adserving.aspx>
 
- **7\. Children.** This website does not provide services or sell products to children under the age of 18. If we discover we have received any information from a child under the age of 18 in violation of this policy, we will delete that information immediately. If you believe we have received any information from or about anyone under the age of 18, please contact us at the address listed below.
+   You can choose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security. However, this can affect how you are able to interact with our site as well as other websites. This could include the inability to login to services or programs, such as logging into forums or accounts.
 
- **8\. How You Can Access Your Information.** You can request access to all your personally identifiable information maintained by us by sending an e-mail to us at the address listed below. Upon request we offer you the ability to have inaccuracies corrected in your personally identifiable information. You can have this information corrected by sending us an e-mail at the address listed below.
+   Deleting cookies does not mean you are permanently opted out of any advertising program. Unless you have settings that disallow cookies, the next time you visit a site running the advertisements, a new cookie will be added.
 
- **9\. Consent.** By using our website, you consent to the collection and use of your personal information as described in this Privacy Policy.
+You can find more about Google Privacy Policy here:
 
- **10\. Changes to Privacy Policy.** If our Privacy Policy or procedures change, we will immediately post those changes to our website. Any such changes will be effective immediately upon being posted, unless otherwise stated in the change.
+<http://www.google.com/intl/en/policies/privacy/>
 
- **11\. Effective Date.** This Privacy Policy is effective as of January 21, 2015.
+ **How You Can Access Your Information**
 
- **12\. Contact E-Mail.** You may contact us concerning this Privacy Policy by using any of the contact options show on this site.
+You can request access to all your personal information maintained by us. Upon request we offer you the ability to have inaccuracies corrected in your personal information. You can have this information deleted or corrected contacting us using the **_“Contact us” page_** on this website.
