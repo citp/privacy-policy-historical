@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the techatlast.com privacy policy that was archived on 2015-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150615022241id_/http%3A//techatlast.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techatlast.com privacy policy that was archived on 2015-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151215050316id_/http%3A//techatlast.com/about/privacy-policy) for the most accurate reproduction.*
 
 # TechAtLast Privacy Policy for Content Readers & Advertisers
 
