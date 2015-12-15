@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the freakoutnation.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627151919id_/http%3A//freakoutnation.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freakoutnation.com privacy policy that was archived on 2015-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151215113806id_/http%3A//freakoutnation.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | FreakOutNation
+
+  
+Privacy Policy – http://freakoutnation.com/  
+
 
 Privacy Policy for http://freakoutnation.com/ 
 
