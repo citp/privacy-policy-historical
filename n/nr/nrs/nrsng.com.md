@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nrsng.com privacy policy that was archived on 2015-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150531195425id_/http%3A//www.nrsng.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nrsng.com privacy policy that was archived on 2015-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151215091352id_/http%3A//www.nrsng.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | NRSNG | Where Nurses Learn
+# Privacy Policy | NRSNG | I Help Nursing Students Succeed. Period.
 
 Effective Date: February 25, 2015
 
@@ -62,7 +62,7 @@ We reserve the right, at any time, to add to, change, update, or modify this Pol
 
 (a) If you have signed up for email communications from us, we will notify you of the privacy policy changes by email as well.
 
-_All Images Purchased From[FOTOLIA.com](https://web.archive.org/web/20150531195425id_/http://www.nrsng.com/privacy-policy/FOTOLIA.com) or Work of Author Unless Other Noted_
+_All Images Purchased From[FOTOLIA.com](https://web.archive.org/web/20151215091352id_/http%3A//www.nrsng.com/FOTOLIA.com) or Work of Author Unless Other Noted_
 
 _NCLEX®, -RNNCLEX® are registered trademarks of the National Council of State Boards of Nursing, INC. and hold no affiliation with NRSNG or TazKai LLC_
 
