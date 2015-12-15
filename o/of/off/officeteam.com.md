@@ -1,11 +1,8 @@
-> *The following text is extracted and transformed from the officeteam.com privacy policy that was archived on 2015-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150408145741id_/http%3A//www.roberthalf.com/officeteam/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the officeteam.com privacy policy that was archived on 2015-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151215012507id_/http%3A//www.roberthalf.com/officeteam/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | OfficeTeam
 
-Officeteam Website Privacy Policy  
----  
-  
-Welcome to [www.officeteam.com](https://web.archive.org/officeteam/Home) (the "Site"). This website privacy policy ("Policy") describes how Robert Half International Inc. and its subsidiaries ("We", "we", or "RHI") may use and disclose personally identifiable information that we may collect about you through the Site ("Personal Information").
+Welcome to [www.roberthalf.com/officeteam](http://www.roberthalf.com/officeteam) (the "Site"). This website privacy policy ("Policy") describes how Robert Half International Inc. and its subsidiaries ("We", "we", or "RHI") may use and disclose personally identifiable information that we may collect about you through the Site ("Personal Information").
 
 #### Collections and Uses of Personal Information
 
@@ -15,7 +12,7 @@ We use Personal Information and other data collected through the Site to registe
 
 #### Disclosures of Personal Information
 
-As described in Section 4 of the Terms of Use, RHI may disclose Personal Information to third parties. The disclosure to third parties would occur in the following circumstances:
+As described in Section 4 of the [Terms of Use](https://web.archive.org/officeteam/TermsofUse), RHI may disclose Personal Information to third parties. The disclosure to third parties would occur in the following circumstances:
 
   * We will disclose information to our clients where necessary and appropriate in connection with the provision of staffing services.
   * We may disclose information to companies and individuals we employ to perform business functions and services on our behalf. Such functions may include, for example, hosting our Web servers, analyzing data, providing legal, accounting and marketing services.
@@ -25,7 +22,7 @@ As described in Section 4 of the Terms of Use, RHI may disclose Personal Informa
 
 #### Revisions to the Policy
 
-If we change this privacy policy we will post any updates here for your review. If we change material terms in this Policy, we will provide notice of the revised policy for 30 days on the home page at [www.officeteam.com](https://web.archive.org/officeteam/Home) with a link back to this page.
+If we change this privacy policy we will post any updates here for your review. If we change material terms in this Policy, we will provide notice of the revised policy for 30 days on the home page at [www.roberthalf.com/officeteam](http://www.roberthalf.com/officeteam) with a link back to this page.
 
 This Policy is effective as of July 1, 2004. If you have any questions about our website privacy policies, please contact us at:
 
