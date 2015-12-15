@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the visualdna.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627152214id_/https%3A//www.visualdna.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the visualdna.com privacy policy that was archived on 2015-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151215232337id_/http%3A//www.visualdna.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - VisualDNA
 
-**Updated 2 June 2015**
+**Updated 10 Nov  2015**
 
-“We” are Imagini Europe Limited (Company Registration Number 05565112) with registered office at 90 Fetter Lane, London, EC4A 1EQ. Our trading name is VisualDNA and our principal place of business is at 31 Old Nichol Street, London E2 7HR.  We are committed to protecting your privacy and are registered under the Data Protection Act 1998 (number Z9712306).  We provide various data analytics and targeted content and advertising services (“Services”) and devise image-based quizzes (“Quizzes”) for our clients and business partners, which include website owners and advertisers (“Clients”) under the VisualDNA, Youniverse and Imagini brands.  We also operate a number of websites, including http://www.visualdna.com, http://www.youniverse.com, my.visualdna.com, http://valuable.me (the “Sites”).
+“We” are Imagini Europe Limited (Company Registration Number 05565112) with registered office at 54 – 56 Camden Lock Place, London, NW1 8AF. Our trading name is VisualDNA and our principal place of business is at 31 Old Nichol Street, London E2 7HR.  We are committed to protecting your privacy and are registered under the Data Protection Act 1998 (number Z9712306).  We provide various data analytics and targeted content and advertising services (“Services”) and devise image-based quizzes (“Quizzes”) for our clients and business partners, which include website owners and advertisers (“Clients”) under the VisualDNA, Youniverse and Imagini brands.  We also operate a number of websites, including http://www.visualdna.com, http://www.youniverse.com, my.visualdna.com, http://valuable.me (the “Sites”).
 
 This Privacy Policy sets out the data processing practices, including how and for what purposes we use the information collected about you or that you provide to us or our Clients through the use of/or in connection with the provision of our Sites, Quizzes and Services, or your use of the Internet and any other electronic communications networks.  Where our Quizzes appear on third party websites or we are providing our Services on behalf of our Clients (unless otherwise expressly indicated) any personal information collected may be provided to the owner of the website and its use governed by the website’s Terms and Conditions and Privacy Policy.  Please review all third party websites’ Privacy Policies carefully as we are not responsible for the practices of such parties.
 
-If you have any queries or comments about our use of your information, please get in touch with us by emailing us at [contact@imagini.net](mailto:contact@imagini.net) or writing to Customer Support, Imagini Europe Limited, 31 Old Nichol Street, London 2 7HR.
+If you have any queries or comments about our use of your information, please get in touch with us by emailing us at [contact@imagini.net](mailto:contact@imagini.net) or writing to Customer Support, Imagini Europe Limited, 31 Old Nichol Street, London E2 7HR.
 
 ## 1\. Information Collected
 
@@ -59,7 +59,7 @@ We may also use the information collected automatically, such as your IP address
 ## 4\. Can I remove my information?
 
   * Absolutely, we believe that you should be in control of your data and should be able to delete it at any time. To do this simply visit http://my.visualdna.com where you’ll be able to delete (opt out of) your entire profile.  You can also find out how to block cookies [here](https://web.archive.org/cookie-policy/ "Cookie Policy").
-  * You also may at any time request access to all personal information we hold on you, by writing to Customer Support, Imagini Europe Limited at 31 Old Nichol Street, London 2 7HR. We will provide this information within 40 days of a written request for a small administrative charge.
+  * You also may at any time request access to all personal information we hold on you, by writing to Customer Support, Imagini Europe Limited at 31 Old Nichol Street, London E2 7HR. We will provide this information within 40 days of a written request for a small administrative charge.
 
 
 
@@ -86,6 +86,6 @@ We may also use the information collected automatically, such as your IP address
 
 ## 8\. Contact
 
-  * If you have questions or concerns regarding this Policy, you should email us at contact@imagini.net or write to: Customer Support, Imagini Europe Limited, 31 Old Nichol Street, London 2 7HR.
+  * If you have questions or concerns regarding this Policy, you should email us at contact@imagini.net or write to: Customer Support, Imagini Europe Limited, 31 Old Nichol Street, London E2 7HR.
 
 
