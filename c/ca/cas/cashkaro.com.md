@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cashkaro.com privacy policy that was archived on 2015-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150523130406id_/http%3A//cashkaro.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cashkaro.com privacy policy that was archived on 2015-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151215174727id_/http%3A//cashkaro.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy of CashKaro
 
@@ -15,7 +15,11 @@ We may request further personal information from you on occasion in order for us
 
 We contract with third parties to serve ads on our behalf across the Internet and sometimes on this site. They may collect information about your visits to our website, and your interaction with our products and services. They may also use information about your visits to this and other websites to target advertisements for goods and services. This information is collected through the use of a pixel tag, which is industry standard technology used by most major websites. Such third parties are not permitted to sell or share your personally identifiable information as part of this process.
 
-Google, as a third party vendor, uses cookies to serve ads on your site. Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
+Third party vendors, including Google, use cookies to serve ads based on a user's prior visits to your website.
+
+Google's use of the DoubleClick cookie enables it and its partners to serve ads to your users based on their visit to your sites and/or other sites on the Internet.
+
+Users may opt out of the use of the DoubleClick cookie for interest-based advertising by visiting [Ads Settings.](http://www.google.com/ads/preferences/) (Alternatively, you can direct users to opt out of a third-party vendor's use of cookies for interest based advertising by visiting [aboutads.info.](http://www.aboutads.info/))
 
   
 ******The use of Email**
