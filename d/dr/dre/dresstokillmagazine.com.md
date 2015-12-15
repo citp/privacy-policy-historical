@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the dresstokillmagazine.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120060952id_/http%3A//dresstokillmagazine.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dresstokillmagazine.com privacy policy that was archived on 2015-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151215220013id_/http%3A//dresstokillmagazine.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Fashion Magazine - Dress To Kill
+# Privacy Policy | Dress To Kill - Canadian Fashion Magazine
 
-Your use of any part of the [**Dress to Kill**](http://dresstokillmagazine.com/denis-gagnon-dream-dress-kill-magazine/ "Denis Gagnon & the Dream that is Dress to Kill magazine! #GalleryDTK") [**Website**](http://dresstokillmagazine.com/aritzia/ "Aritzia") will constitute your agreement to this Privacy Policy. If you disagree with the terms and conditions of this Privacy Policy, please do not use the Website. This policy can change without prior notice.
+Your use of any part of the Dress to Kill Website will constitute your agreement to this Privacy Policy. If you disagree with the terms and conditions of this Privacy Policy, please do not use the Website. This policy can change without prior notice.
 
 THE TYPE OF THE INFORMATION WE COLLECT:  
-This site does not collect any information without your consent. Any personal information you submit i.e. to subscribe to our magazine, to be on our mailing [**list**](http://dresstokillmagazine.com/category/list/ "list"), surveys and contests will not be transferred to a third party without prior consent.  
+This site does not collect any information without your consent. Any personal information you submit i.e. to subscribe to our magazine, to be on our mailing list, surveys and contests will not be transferred to a third party without prior consent.  
 We may also automatically collect information about your computer when you visit the Website, including the type of browser you use, the operating system you are running, the Website that referred you, and your Internet Protocol (“IP”) address. Your IP address is usually associated with the place from which you enter the Internet and does not refer to your exact location or civic address.
 
 HOW WE WILL USE THE INFORMATION:  
