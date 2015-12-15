@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clocklink.com privacy policy that was archived on 2015-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150615004100id_/http%3A//www.pspinc.com/eng/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clocklink.com privacy policy that was archived on 2015-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151215220532id_/http%3A//www.pspinc.com/eng/page/privacy) for the most accurate reproduction.*
 
 # Seattle Domain, Web & Email Hosting : Privacy Policy
 
@@ -52,8 +52,8 @@ If you have questions or suggestions, please contact us at:
 
 PSPINC  
 Pacific Software Publishing, Inc.  
-1404 140th Place NE,  
+1404 140th Place N.E.,  
 Bellevue, WA 98007 USA  
-(425) 957-0808
+Phone: 425-957-0808
 
 This policy was created on August 16, 2004
