@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the robotentertainment.com privacy policy that was archived on 2015-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150613131152id_/http%3A//origin-www.robotentertainment.com/robot-entertainment-privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the robotentertainment.com privacy policy that was archived on 2015-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151215130550id_/http%3A//origin-www.robotentertainment.com/robot-entertainment-privacy-statement) for the most accurate reproduction.*
 
 # Robot Entertainment Privacy Policy | Robot Entertainment
 
