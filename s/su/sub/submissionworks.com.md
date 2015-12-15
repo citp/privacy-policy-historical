@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the submissionworks.com privacy policy that was archived on 2015-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150421142107id_/http%3A//www.submissionworks.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the submissionworks.com privacy policy that was archived on 2015-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151215024307id_/http%3A//www.submissionworks.com/privacy.html) for the most accurate reproduction.*
 
 # 
 
