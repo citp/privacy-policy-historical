@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aia.com.my privacy policy that was archived on 2014-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141116174314id_/http%3A//www.aia.com.my/en/privacy-statement/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aia.com.my privacy policy that was archived on 2015-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151215072837id_/http%3A//www.aia.com.my/en/privacy-statement/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement | AIA Malaysia
 
@@ -81,6 +81,13 @@ require AIA to correct any personal data relating to you which is inaccurate; an
 enquire about AIA’s policies and practices in relation to personal data.
 
 Requests for access, correction or other queries relating to your personal data should be addressed to our Customer Care Unit.:
+
+Customer Relations Unit  
+Menara AIA, 99 Jalan Ampang  
+50450 Kuala Lumpur  
+P.O. Box 10140  
+50704 Kuala Lumpur  
+Tel No: 1300 88 1899
 
 AIA has the right to charge costs which are directly related to and necessary for the processing of any personal data access request.
 
