@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ebird.org privacy policy that was archived on 2015-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150617022010id_/http%3A//ebird.org/content/ebird/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebird.org privacy policy that was archived on 2015-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151215230636id_/http%3A//ebird.org/content/ebird/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | eBird
 
