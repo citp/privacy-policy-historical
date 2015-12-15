@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the myreviews411.com privacy policy that was archived on 2015-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150508171752id_/http%3A//poshmoma.com/about-me/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myreviews411.com privacy policy that was archived on 2015-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151215122125id_/http%3A//poshmomma.com/about-me/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy ⋆ Posh Moma | Formerly Reviews 411
+# Privacy Policy ⋆ Posh MommaPosh Momma
 
 **What information do we collect?**
 
@@ -75,7 +75,7 @@ This online privacy policy applies only to information collected through our web
 
 **Terms and Conditions**
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at <http://poshmoma.com/terms>
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at <http://poshmomma.com/terms>
 
 **Your Consent**
 
@@ -91,7 +91,7 @@ This policy was last modified on 12/22/2014
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
-http://poshmoma.com  
+http://poshmomma.com  
 P.O. Box 4014  
 Spring Hill, Florida 34611  
 United States  
