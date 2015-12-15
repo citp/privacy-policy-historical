@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yac.mx privacy policy that was archived on 2015-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150519073642id_/http%3A//www.yac.mx/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yac.mx privacy policy that was archived on 2015-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151215091633id_/http%3A//www.yac.mx/privacy-policy) for the most accurate reproduction.*
 
 # Free download Virus Remover,Malware Removal,Antispyware, Antivirus tools for XP, Vista or Windows 7
 
