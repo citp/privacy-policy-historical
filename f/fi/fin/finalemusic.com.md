@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the finalemusic.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627143550id_/http%3A//www.makemusic.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the finalemusic.com privacy policy that was archived on 2015-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151215172159id_/http%3A//www.makemusic.com/privacy) for the most accurate reproduction.*
 
 # Privacy Statement for MakeMusic
 
@@ -49,7 +49,7 @@ Each time a computer visits one of our Services to read or download information,
 
 
 
-In our mobile applications, we use Flurry Analytics (“Flurry”) to collect, monitor and analyze non-personal information in order to increase the Services’ functionality and user-friendliness, and to better tailor our Services to our users’’ needs. Accordingly, non-personal information is shared with Flurry, which has its own privacy policy (accessible at <http://www.flurry.com/privacy-policy.html>) addressing how these parties use such information. You may opt out of Flurry Analytics tracking and personalized ads/recommendations from Flurry by clicking [here](http://www.flurry.com/resources/privacy.html). Please note that the opt-out is specific to Flurry activities and does not affect the activities of other ad networks or analytics providers.
+In our mobile applications, we use Flurry Analytics (“Flurry”) to collect, monitor and analyze non-personal information in order to increase the Services’ functionality and user-friendliness, and to better tailor our Services to our users’ needs. Accordingly, non-personal information is shared with Flurry, which has its own privacy policy (accessible at <http://www.flurry.com/privacy-policy.html>) addressing how these parties use such information. You may opt out of Flurry Analytics tracking and personalized ads/recommendations from Flurry by clicking [here](http://www.flurry.com/resources/privacy.html). Please note that the opt-out is specific to Flurry activities and does not affect the activities of other ad networks or analytics providers.
 
 **NON-PERSONAL INFORMATION DOES NOT TELL US WHO YOU ARE**
 
@@ -74,7 +74,7 @@ Our Services may contain links to other sites. We provide these links for your c
 We care about protecting the online privacy of children. We may collect certain information about children for the purpose of providing our educational services as described in the sections above regarding enrollment information.  When we collect enrollment information, we ask for a student’s birthdate to determine whether the student is a child under the age of 13. Other than enrollment information, we collect information from children under 13 only with the prior consent of a parent or guardian. If you believe that we have improperly collected information from a person under the age of 13, please send us a letter by First Class Postage Prepaid U.S. Mail or overnight courier to the following address:
 
 MakeMusic, Inc.  
-7007 Winchester Circle, Suit 140  
+7007 Winchester Circle, Suite 140  
 Boulder, CO 80301  
 USA
 
@@ -95,7 +95,7 @@ For Finale® users who would like to opt-out of our usage of your non-personal i
 If you have questions or comments about this Privacy Statement, please visit us on-line at http://support.makemusic.com, or send us a letter addressed by First Class Postage Prepaid U.S. Mail or overnight courier to the following address:
 
 MakeMusic, Inc.  
-7007 Winchester Circle, Suit 140  
+7007 Winchester Circle, Suite 140  
 Boulder, CO 80301  
 USA
 
