@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the cyclechat.net privacy policy that was archived on 2015-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150616052038id_/http%3A//www.cyclechat.net/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cyclechat.net privacy policy that was archived on 2015-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151215143702id_/http%3A//www.cyclechat.net/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | CycleChat Cycling Forum
 
-> CycleChat is owned and operated by Clickfinity and ("we") are committed to protecting and respecting your privacy whilst using any of our websites, products and services and any information provided by you, by which you can be identified, will only be used in accordance with this privacy policy.
+> CycleChat is owned and operated by Cycling Tribe and ("we") are committed to protecting and respecting your privacy whilst using any of our websites, products and services and any information provided by you, by which you can be identified, will only be used in accordance with this privacy policy.
 > 
 > We may change this policy as and when necessary. It is your responsibility to check this privacy policy periodically to ensure you agree with any changes.
 > 
@@ -58,14 +58,14 @@
 > 
 > ## Links to other websites
 > 
-> Our website and any associated websites and sub-domains, may contain links to other websites. These websites may or may not be affiliated with Clickfinity.
+> Our website and any associated websites and sub-domains, may contain links to other websites. These websites may or may not be affiliated with Cycling Tribe.
 > 
-> We have no control over any external websites therefore clicking any link which results in you visiting an external website will result in this privacy policy no longer applying and Clickfinity cannot be held responsible for the protection and privacy of any information which you provide whilst visiting such sites.
+> We have no control over any external websites therefore clicking any link which results in you visiting an external website will result in this privacy policy no longer applying and Cycling Tribe cannot be held responsible for the protection and privacy of any information which you provide whilst visiting such sites.
 > 
 > ## Controlling your personal information
 > 
 > When using this website, you may choose to limit public viewing of applicable personal information through the settings located in the Privacy section of your account.
 > 
-> We will not sell, distribute or lease your personal information to third parties unless we have your explicit permission or are required by law to do so. We may use your personal information to send you security information, product updates, or other information pertaining to Clickfinity, or your account.
+> We will not sell, distribute or lease your personal information to third parties unless we have your explicit permission or are required by law to do so. We may use your personal information to send you security information, product updates, or other information pertaining to Cycling Tribe or your account.
 > 
 > If you discover any of the information we hold for you is incorrect or incomplete, that you are unable to change yourself, please contact us as soon as possible so the necessary changes can be made.
