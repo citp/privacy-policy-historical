@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dogspot.in privacy policy that was archived on 2015-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150430030233id_/http%3A//www.dogspot.in/shop-policy.php%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dogspot.in privacy policy that was archived on 2015-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151216002943id_/http%3A//www.dogspot.in/shop-policy.php%23privacy) for the most accurate reproduction.*
 
 # DogSpot Shop Policy | Cancellation |Refund and Return | Privacy Policy
 
@@ -7,7 +7,7 @@
 
 ### Privacy Policy 
 
-PetsGlam Service Pvt Ltd or DogSpot.in (“DogSpot)” will only disclose your Personal Information in accordance with this Privacy Policy. If you decline to submit personal information to us, then we will unfortunately not be in a position to provide the Services to you. 
+PetsGlam Services Pvt Ltd or DogSpot.in (“DogSpot)” will only disclose your Personal Information in accordance with this Privacy Policy. If you decline to submit personal information to us, then we will unfortunately not be in a position to provide the Services to you. 
 
 Any of your personal information which you provide when you use DogSpot.in in an unencrypted manner and/or to an open, public environment or forum including (without limitation) any blog, chat room, albums, community, classifieds or discussion board, is not confidential, does not constitute Personal Information, and is not subject to protection under Privacy Policy.
 
@@ -49,9 +49,9 @@ We may collect information about your computer, including where available your I
 **Contact Us**  
 If there are any questions regarding this privacy policy you may contact us using the information below:  
 PetsGlam Services Pvt Ltd   
-Plot no - 545, S.Lal Tower  
-Sector - 20, Dundahera  
-Gurgaon 122016  
+2017, Near Atul Kataria Chowk,  
+Old Delhi Gurgaon Road,  
+Gurgaon : 122 001  
 Haryana, India   
 Telephone No.: +91-9212196633  
 E-Mail ID: contact@dogspot.in
@@ -69,12 +69,12 @@ While **Dogspot.in** strives to provide accurate product and pricing information
 
 ### Shipping & Delivery Policy for Products 
 
-We ship only in India and for domestic (India) buyers, orders are shipped through registered domestic courier companies and /or speed post only. Orders are shipped within 10 working days or as per the delivery date agreed at the time of order confirmation and delivering of the shipment subject to Courier Company / post office norms. PetsGlam Services Pvt Ltd (DogSpot.in) is not liable for any delay in delivery by the courier company / postal authorities and only guarantees to hand over the consignment to the courier company or postal authorities within 10 working days from the date of the order and payment or as per the delivery date agreed at the time of order confirmation. Delivery of all orders will be to registered address of the buyer as per the credit/debit card only at all times (Unless specified at the time of Order). PetsGlam Services Pvt Ltd (DogSpot.in) is in no way responsible for any damage to the order while in transit to the buyer. 
+We ship only in India and for domestic (India) buyers, orders are shipped through registered domestic courier companies and /or speed post only. Orders are shipped within 10 working days or as per the delivery date agreed at the time of order confirmation and delivering of the shipment subject to Courier Company / post office norms. Radox Trading & Marketing Pvt Ltd (DogSpot.in) is not liable for any delay in delivery by the courier company / postal authorities and only guarantees to hand over the consignment to the courier company or postal authorities within 10 working days from the date of the order and payment or as per the delivery date agreed at the time of order confirmation. Delivery of all orders will be to registered address of the buyer as per the credit/debit card only at all times (Unless specified at the time of Order). Radox Trading & Marketing Pvt Ltd(DogSpot.in) is in no way responsible for any damage to the order while in transit to the buyer. 
 
-Shipping Charge of Rs.49 is applicable on every order.  
-Rs. 50  applicable  for Cash On Delivery (COD) payment method.  
+Shipping Charge of Rs.99 is applicable on every order.  
+Rs. 99  applicable  for Cash On Delivery (COD) payment method.  
 In India, some state governments levies the Octroi charges when the product enters the state.   
-Dear Customer: COD facility is available for Order Value under INR 8000/-   
+Dear Customer: COD facility is available for Order Value under INR 3000/-   
 **The Octroi charge is payable by the recipient at the time of delivery**. The courier will collect the Octroi amount from the recipient at the time of delivery.
 
 * * *
@@ -123,9 +123,10 @@ The following RULES apply to this Policy:
 
 Please note that the product should be unused and should be sent back along with original box and invoice to:  
 **Customer care**  
-**DogSpot.in, Plot no - 545, S.Lal Tower.**  
-**Sector - 20, Dundahera**  
-**Gurgaon 122016**  
+**Radox Trading & Marketing Private Limited**  
+**2017, Near Atul Kataria Chowk,**  
+**Old Delhi Gurgaon Road,**  
+**Gurgaon : 122 001**  
 **Haryana, India**
 
 The refund process will be initiated once we have received the product(s). Typically refunds are processed in less than 10 working days but in case of payments by Cheque or DD, it may take a few extra days for the cheque to be delivered to your billing address, and for the funds to be credited to your account, once you deposit the cheque.
