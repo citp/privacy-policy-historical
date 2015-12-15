@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the innovation-village.com privacy policy that was archived on 2014-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141106221501id_/http%3A//innovation-village.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the innovation-village.com privacy policy that was archived on 2015-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151215221625id_/http%3A//innovation-village.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy : Innovation-Village
+# Privacy policy : Innovation-village
 
-We take your privacy very seriously and are committed to being transparent with how we use your information. This website and any of our services and sites directing you to this Privacy Policy are controlled by TenthCode Media Limited (Collectively “we” or “us”)
+We take your privacy very seriously and are committed to being transparent with how we use your information. This website and any of our services and sites directing you to this Privacy Policy are controlled by [TenthCode Media Limited](http://www.tenthcodemedia.com/) (Collectively “we” or “us”)
 
 Our Privacy Policy explains:
 
@@ -12,7 +12,7 @@ Our Privacy Policy explains:
 
 
 
-If you have any questions about this Privacy Policy, please contact us at: [info@innovation-village.com](http://info@innovation-village.com/).
+If you have any questions about this Privacy Policy, please contact us at: admin@innovation-village.com
 
 ## Information we collect
 
@@ -77,7 +77,7 @@ We regularly review our compliance with our Privacy Policy. When we receive form
 
 ## **Children Under 13**
 
-Our site is not directed toward children under 13 and we will not knowingly collect information for any child under the age of 13. If you are the parent of a child under the age of 13 and have a concern regarding your child’s information on our site, please contact us at [support@innovation-village.com](http://support@innovation-village.com/)
+Our site is not directed toward children under 13 and we will not knowingly collect information for any child under the age of 13. If you are the parent of a child under the age of 13 and have a concern regarding your child’s information on our site, please contact us at admin@innovation-village.com
 
 **Changes**
 
