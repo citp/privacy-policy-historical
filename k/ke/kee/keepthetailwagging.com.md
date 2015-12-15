@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the keepthetailwagging.com privacy policy that was archived on 2015-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150616132748id_/http%3A//www.keepthetailwagging.com/keep-the-tail-wagging-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the keepthetailwagging.com privacy policy that was archived on 2015-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151215115433id_/http%3A//keepthetailwagging.com/keep-the-tail-wagging-privacy-policy) for the most accurate reproduction.*
 
 # Keep the Tail Wagging Privacy Policy | Keep the Tail Wagging
 
