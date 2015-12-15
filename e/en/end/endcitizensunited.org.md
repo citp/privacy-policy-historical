@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the endcitizensunited.org privacy policy that was archived on 2015-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150625150037id_/http%3A//endcitizensunited.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the endcitizensunited.org privacy policy that was archived on 2015-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151215184822id_/http%3A//www.endcitizensunited.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - End Citizens United
 
@@ -38,7 +38,7 @@ _To Support Democratic Candidates and Organizations._  We may disclose selected
 
 **Cookies**
 
-We may automatically collect information using “cookies” or cookie-like files called Local Shared Objects (Flash cookies).  Cookies are small data files stored on your hard drive by a Web site.  Local Shared Objects are larger data files stored on your hard drive.  Among other things, cookies and Local Shared Objects help us improve our site and your experience, count visits to our site and to tailor your experience on our site according to which areas you have visited on our site and the preferences you have specified, and to save you the effort of having to log in or provide information each time you visit our Web site.  These cookies and Local Shared Objects may be linked to your personal information.  Most Web browsers are set to accept cookies by default. If you prefer, you can usually choose to set your browser to remove cookies and to reject cookies.  If you choose to remove cookies or reject cookies, this could affect certain features or services of our site.  Browser settings will not affect Local Shared Objects. 
+We may automatically collect information using “cookies” or cookie-like files called Local Shared Objects (Flash cookies).  Cookies are small data files stored on your hard drive by a Web site.  Local Shared Objects are larger data files stored on your hard drive.  Among other things, cookies and Local Shared Objects help us improve our site and your experience, count visits to our site and to tailor your experience on our site according to which areas you have visited on our site and the preferences you have specified, and to save you the effort of having to log in or provide information each time you visit our Web site.  These cookies and Local Shared Objects may be linked to your personal information.  Most Web browsers are set to accept cookies by default. If you prefer, you can usually choose to set your browser to remove cookies and to reject cookies.  If you choose to remove cookies or reject cookies, this could affect certain features or services of our site.  Browser settings will not affect Local Shared Objects.
 
 **Web Beacons**
 
@@ -65,6 +65,5 @@ We may revise or update this policy if our practices change, as we change existi
 If you have any questions, comments or concerns, please contact us by e-mail at [admin@endcitizensunited.org](mailto:admin@endcitizensunited.org), or at the mailing address listed below:
 
 End Citizens United  
-1050 17th Street, NW  
-Suite 590  
-Washington, DC   20036
+PO Box 66005  
+Washington, DC   20035
