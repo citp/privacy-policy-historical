@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ibpsexamadda.org.in privacy policy that was archived on 2015-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150621142539id_/http%3A//www.ibpsexamadda.org.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ibpsexamadda.org.in privacy policy that was archived on 2015-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151215093635id_/http%3A//www.ibpsexamadda.org.in/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - IBPS Exam Adda
+# Privacy Policy
 
 This privacy policy is reviewed and revised from time to time. You may wish to revisit it regularly. Your use of this site and/or your registration for any of our products or services constitutes an acceptance of this privacy policy.
 
