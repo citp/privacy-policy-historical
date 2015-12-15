@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the cash2flow.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607071820id_/http%3A//www.cash2flow.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cash2flow.com privacy policy that was archived on 2015-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151215124335id_/http%3A//www.cash2flow.com/privacypolicy.html) for the most accurate reproduction.*
 
 # 
 
-**What kind of personal information cash2flow.com collects and how it is collected** ::
+**What kind of personal information Cash2Flow.com collects and how it is collected** ::
 
 The **cash2flow.com** **Network (heretofore referred to simply as** cash2flow.com **)** **** collects personal information from prospective members via a 100% voluntary double opt-in lists and and voluntary submission of information of members or prospective members. 
 
