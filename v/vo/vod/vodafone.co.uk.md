@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the vodafone.co.uk privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623181148id_/http%3A//www.vodafone.co.uk/about-this-site/our-privacy-policy/index.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vodafone.co.uk privacy policy that was archived on 2015-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151216001528id_/https%3A//www.vodafone.co.uk/about-this-site/our-privacy-policy/index.htm) for the most accurate reproduction.*
 
 # Privacy policy - Vodafone
 
 ## How we use your information
 
-Our privacy policy explains how we collect, use, share and protect your personal information. If we update this policy, we’ll post any changes on our website.
+Our privacy policy (last updated 20/07/15) explains how we collect, use, share and protect your personal information. If we update this policy, we’ll post any changes on our website.
 
 
 
@@ -79,6 +79,7 @@ We may use and analyse your information to:
   * Understand how you use our network, products and services. That way, we can develop more interesting and relevant products and services, as well as personalising the products and services we offer you
   * Carry out research and statistical analysis including to monitor how customers use our network, products and services on an anonymous or personal basis
   * Prevent and detect fraud or other crimes, recover debts or trace those who owe us money
+  * Provide aggregated reports to third parties (such reports do not contain any information which may identify you as an individual). For more information on Vodafone Analytics or to opt out please [click here](https://web.archive.org/about-this-site/our-privacy-policy/vodafone-analytics/index.htm "click here").
 
 
 
@@ -131,7 +132,7 @@ You can write to us at any time to get a copy of the personal information we hol
 
 If you believe we’re holding inaccurate information about you, please contact our customer services team (through the ‘Contact Us’ page on our website) so we can correct it.
 
-If you no longer want to receive marketing messages from us, please contact our customer services team and you’ll be ‘opted out’. (You can get in touch with customer services through the [Contact Us](http://help.vodafone.co.uk/system/selfservice.controller?CONFIGURATION=1000&PARTITION_ID=1&CMD=STARTPAGE&USERTYPE=1&LANGUAGE=en&COUNTRY=us&requestedPage=ContactUs "Contact Us") page on our site.)
+If you no longer want to receive marketing messages from us, please contact our customer services team and you’ll be ‘opted out’. (You can get in touch with customer services through the [Contact Us](https://www.vodafone.co.uk/contact-us/ "Contact Us") page on our site.)
 
 You can choose to opt out of all marketing communications or to opt out of marketing in one of several ways (such as email, text, phone or post).
 
