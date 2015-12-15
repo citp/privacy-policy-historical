@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the china-direct-buy.com privacy policy that was archived on 2015-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150616131859id_/http%3A//www.china-direct-buy.com/v/4/doc/privacyPolicy/Privacy_Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the china-direct-buy.com privacy policy that was archived on 2015-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151215103930id_/http%3A//www.china-direct-buy.com/v/4/doc/privacyPolicy/Privacy_Policy.html) for the most accurate reproduction.*
 
 # China-Direct-Buy.com - Buy Direct from China
-
-## Privacy Policy
 
 The Privacy Policy below governs your DIYTrade.com ("DIYTrade") account and any information you provide on this website, please read carefully! By accepting the Term of Service of DIYTrade, you consent to the collection of use of your personal information. This Policy being part of the above agreement.
 
