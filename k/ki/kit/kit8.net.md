@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kit8.net privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630183554id_/http%3A//kit8.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kit8.net privacy policy that was archived on 2015-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151215224653id_/http%3A//kit8.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy
 
