@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the npl.co.uk privacy policy that was archived on 2015-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150616144553id_/http%3A//www.npl.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the npl.co.uk privacy policy that was archived on 2015-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151215123104id_/http%3A//www.npl.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy : National Physical Laboratory
 
@@ -16,20 +16,16 @@ E-mail: [datapro@npl.co.uk](mailto:datapro@npl.co.uk)
 ##   
 Cookies on the NPL site
 
-We do not store any personally identifiable information about our visitors via cookies.
-
 **When you visit the NPL website, if your browser is using the standard settings and it is accepting cookies, you are giving consent for cookies on the NPL site to be stored on your computer. If you do not wish for this to happen, you can disable them in the settings of your browser.**
 
 ### What are cookies?
 
 The NPL website uses cookies. Cookies are small, text-only strings of data which store information on the hard drive of your local computer or mobile device. Some cookies store data just for the time you are on the site. These are called session cookies and are not stored on your computer after you have left the site.
 
-**These cookies do not contain any personal data about you individually.** Most internet browsers are pre-set to accept cookies but if you prefer not to receive cookies, you can adjust your browser to refuse cookies, or to warn you when they are being used. Visit [http://www.aboutcookies.org](http://www.aboutcookies.org/) for more information on managing cookies.
+Most internet browsers are pre-set to accept cookies but if you prefer not to receive cookies, you can adjust your browser to refuse cookies, or to warn you when they are being used. Visit [http://www.aboutcookies.org](http://www.aboutcookies.org/) for more information on managing cookies.
 
 ##   
 Cookies set on the NPL site
-
-In the light of new legislation NPL is providing a register of the cookies which are currently deployed on our site:
 
 ### Google Analytics:
 
@@ -118,61 +114,6 @@ project.npl.co.uk
   
 You can opt out of Google Analytics monitoring [here](https://tools.google.com/dlpage/gaoptout)
 
-### Kiss metrics
-
-We use this software to run surveys on the NPL site occasionally. This information allows us to monitor and improve the features on our site. Any data collected by these surveys is anonymous and no-one can be personally identified from it.
-
-**Name**
-
-| 
-
-**Description**
-
-| 
-
-**Longevity**
-
-| 
-
-**Domain**  
-  
----|---|---|---  
-  
-**ki_u**
-
-| 
-
-Stores non-personal data about responses to site surveys
-
-| 
-
-Long-term typically 20 years
-
-| 
-
-npl.co.uk  
-resource.npl.co.uk  
-project.npl.co.uk  
-  
-**ki_t**
-
-| 
-
-Stores non-personal data about responses to site surveys
-
-| 
-
-Long-term typically 4 years
-
-| 
-
-npl.co.uk  
-resource.npl.co.uk  
-project.npl.co.uk  
-  
-  
-You can view Kiss Insights' Privacy Policy [here](http://www.kissinsights.com/privacy)
-
 ### Session cookie
 
 A cookie is set by our content management system to manage some of the user data for the session only.
@@ -238,6 +179,40 @@ Cookie set when signing up to download NPL PDFs. Allows user to download PDFs wi
 | 
 
 publications.npl.co.uk  
+  
+###  Marketo marketing activity
+
+**Name**
+
+| 
+
+**Description**
+
+| 
+
+**Longevity**
+
+| 
+
+**Domain**  
+  
+---|---|---|---  
+  
+** _mkto_trk**
+
+| 
+
+Marketo's cookie allows us to track repeated visits to the website, and link each visit to the information voluntarily provided by the visitor.
+
+[Privacy Policy](http://uk.marketo.com/trust/legal/privacy/ "Marketo privacy policy")
+
+| 
+
+Long term
+
+| 
+
+npl.co.uk  
   
 ##   
 Cookies set by third-party services
