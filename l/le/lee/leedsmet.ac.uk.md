@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the leedsmet.ac.uk privacy policy that was archived on 2015-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150514044913id_/http%3A//www.leedsbeckett.ac.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leedsmet.ac.uk privacy policy that was archived on 2015-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151215105939id_/http%3A//www.leedsbeckett.ac.uk/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Leeds Beckett University
 
@@ -6,7 +6,7 @@
 
 ### Privacy Statement
 
-This privacy statement covers the information services relating to the website provided by Leeds Beckett University (Leeds Beckett) as www.leedsmet.ac.uk (the Leeds Beckett website). 
+This privacy statement covers the information services relating to the website provided by Leeds Beckett University (Leeds Beckett) as www.leedsbeckett.ac.uk (the Leeds Beckett website). 
 
 The purpose of this statement is to inform users of the Leeds Beckett website about what information is collected about them when they visit this site, how this information is used, any disclosure to third parties and the ways in which users' privacy is protected.
 
@@ -63,8 +63,6 @@ Cookies are pieces of data created when you visit a site and are stored in the c
 For example, they may enable you to return directly to a particular part of the site by 'remembering' where you last accessed. If you choose not to accept the cookies (by setting your browser to reject them), this should not affect your access to the majority of facilities available on our website.
 
 ### Where cookies are used
-
-See our [Cookie Policy](https://web.archive.org/cookie-policy/) for more information.
 
 ### Linking to other sites from the Leeds Beckett website
 
