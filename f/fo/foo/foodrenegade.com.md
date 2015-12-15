@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the foodrenegade.com privacy policy that was archived on 2015-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150504095007id_/http%3A//www.foodrenegade.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foodrenegade.com privacy policy that was archived on 2015-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151215053833id_/http%3A//www.foodrenegade.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Food Renegade
 
@@ -91,5 +91,3 @@ kristenmichaelis@gmail.com
 7135018799
 
 This policy is powered by Trust Guard [PCI compliance](http://www.trust-guard.com/PCI-Compliance-s/65.htm) scans.
-
-[](http://www.printfriendly.com/print?url=http%3A%2F%2Fwww.foodrenegade.com%2Fabout%2Fprivacy-policy%2F)
