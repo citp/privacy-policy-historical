@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the mofuse.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607073902id_/http%3A//mofuse.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mofuse.com privacy policy that was archived on 2015-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151215155052id_/http%3A//mofuse.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | MoFuse, Inc
 
-This Privacy Policy describes the policies and procedures of The Search Agency, Inc. (“The Search Agency”, “we”, “our” or “us”) on the collection, use and disclosure of your personal information on [http://www.mofuse.com](http://www.mofuse.com/)  (the “Site”) through the services, features, content or applications we offer, such as our mobile website content management platform and fast on-boarders (collectively with the Sites, the “Services”). We receive personal information about you from various sources, including: (i) if you register for the Sites and the Services, through your user account on the Services (your “Account”); (ii) your use of the Services generally; and (iii) from third party websites and services. When you use the Services, you are consenting to the collection, transfer, manipulation, storage, disclosure and other uses of your personal information as described in this Privacy Policy.
+This Privacy Policy describes the policies and procedures of AdMax Local, LLC (“AdMax Local”, “we”, “our” or “us”) on the collection, use and disclosure of your personal information on [http://www.mofuse.com](http://www.mofuse.com/)  (the “Site”) through the services, features, content or applications we offer, such as our mobile website content management platform and fast on-boarders (collectively with the Sites, the “Services”). We receive personal information about you from various sources, including: (i) if you register for the Sites and the Services, through your user account on the Services (your “Account”); (ii) your use of the Services generally; and (iii) from third party websites and services. When you use the Services, you are consenting to the collection, transfer, manipulation, storage, disclosure and other uses of your personal information as described in this Privacy Policy.
 
 **What does this privacy policy cover?**
 
@@ -12,7 +12,7 @@ This Privacy Policy does not apply to the practices of third parties that we do 
 
 **What Personal Information do we collect?**
 
-We collect Personal Information from you when you register on any of our sites including [www.mofuse.com](http://www.mofuse.com/), *.mofuselocal.com and other related sites.
+We collect Personal Information from you when you register on any of our sites including [www.mofuse.com](http://www.mofuse.com/), [*.mofuselocal.com](http://mofuse.com/privacy-policy/) and other related sites.
 
 The Personal Information we gather enables us to personalize, improve and continue to operate the Services. In connection with certain aspects of the Services, we may request, collect and/or display some of your Personal Information. We collect the following types of Personal Information from our users.
 
@@ -20,7 +20,7 @@ _Account Information:_
 
 When you create an Account, you will provide information that could be Personal Information, such as your username, password and email address. You acknowledge that this information may be personal to you, and by creating an account on the Services and providing Personal Information to us, you allow others, including us, to identify you and therefore you may not be anonymous. We may use your contact information to send you information about our Services, but only rarely when we feel such information is important.
 
-_User Content:_
+_  User Content:_
 
 Some features of the Services allow you to provide content to the Services, such as text, images and video for your mobile website. All content submitted by you to the Services may be retained by us indefinitely, even after you terminate your account.
 
@@ -32,7 +32,7 @@ Any of the Personal Information we collect from you may be used in one of the fo
 
 To process transactions.
 
-To communicate with you from time to time. We enroll you to receive our quarterly email newsletter. You may opt out of receiving this newsletter at any time. From time to time there may be an email sent to your account email address because there is an important business need to do so.
+To communicate with you from time to time. We enroll you to receive our periodic email newsletter. You may opt out of receiving this newsletter at any time. From time to time there may be an email sent to your account email address because there is an important business need to do so.
 
 We may also use Personal Information and other information collected through the Service to the extent required by law or legal process, to resolve disputes, to enforce our agreements (including this Privacy Policy and our Terms of Service) with you, or if in our reasonable discretion use is necessary to protect our legal rights or to protect third parties.
 
@@ -40,7 +40,7 @@ We may also use Personal Information and other information collected through the
 
 We implement a variety of security measures to maintain the safety of your Personal Information when you place an order.
 
-We offer the use of a secure server. All supplied sensitive/credit card information is input directly to our PCI Compliant partner, Chargify hosted pages. This data is fully encrypted and shared with our Payment gateway provider database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential. At no time does The Search Agency, Inc. store credit card data in any of its computers, offices or hosting providers. All credit card data is stored by our PCI compliant partner, Chargify and other merchant services entities.
+We offer the use of a secure server. All supplied sensitive/credit card information is input directly to our PCI Compliant partner, Chargify hosted pages. This data is fully encrypted and shared with our Payment gateway provider database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential. **At no time does AdMax Local, LLC store credit card data in any of its computers, offices or hosting providers. All credit card data is stored by our PCI compliant partner, Chargify and other merchant services entities.**
 
 **Do we use cookies?**
 
@@ -58,11 +58,11 @@ If you are a registered user, you can access Personal Information associated wit
 
 California Privacy Rights: Under California Civil Code sections 1798.83-1798.84, California residents are entitled to ask us for a notice identifying the categories of personal customer information which we share with our affiliates and/or third parties for marketing purposes, and providing contact information for such affiliates and/or third parties. If you are a California resident and would like a copy of this notice, please submit a written request to the following address:
 
-The Search Agency, Inc.  
+AdMax Local, LLC  
 11150 W. Olympic Boulevard., Suite 600  
-Los Angeles, CA  90064
+Los Angeles, CA  90064 ****
 
-**Attention Privacy Department**
+**Attention: Privacy Department**
 
 **Children’s Online Privacy Protection Act Compliance**
 
@@ -74,28 +74,26 @@ This online privacy policy applies only to information collected through our web
 
 **Terms and Conditions**
 
-Your use of the Service is subject to our Terms of Service , which are available at <http://mofuse.com/terms-of-service> . This Privacy Policy forms part of our Terms and Conditions.
+Your use of the Service is subject to our Terms of Service, which are available at <http://mofuse.com/terms-of-service> . This Privacy Policy forms part of our Terms and Conditions.
 
 **Your Consent**
 
-By using our sites, you consent to our privacy policy.
+By using our sites and platforms, you consent to our privacy policy.
 
 **Changes to our Privacy Policy**
 
 If we decide to change our privacy policy, we will update the Privacy Policy modification date below.
 
-This policy was last modified on October 26, 2014.
+This policy was last modified on May 10, 2015.
 
-**Contacting Us**
-
+**Contacting Us**  
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
-[www.mofuse.com](http://www.mofuse.com/)
+[Support@mofuse.com](mailto:Support@mofuse.com)  
+[Info@admaxlocal.com](mailto:Info@admaxlocal.com)  
+[mofuse.com/contact-us](http://mofuse.com/contact-us "mofuse.com/contact-us")
 
-www.thesearchagaency.com  
-The Search Agency, Inc.
-
+AdMax Local, LLC  
 11150 W. Olympic Boulevard, Suite 600  
 Los Angeles, CA  90064  
-USA  
-[support@mofuse.com](mailto:support@mofuse.com)
+USA
