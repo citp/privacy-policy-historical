@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the streammate.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609044527id_/http%3A//www.streamate.com/privacy.html%3F) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the streammate.com privacy policy that was archived on 2015-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151215182433id_/http%3A//www.streamate.com/privacy.html%3F) for the most accurate reproduction.*
 
 # Streamate - Privacy Policy
 
