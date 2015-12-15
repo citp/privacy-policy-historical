@@ -1,16 +1,14 @@
-> *The following text is extracted and transformed from the artsonia.com privacy policy that was archived on 2015-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150614000609id_/http%3A//www.artsonia.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the artsonia.com privacy policy that was archived on 2015-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151215144913id_/http%3A//www.artsonia.com/privacy.asp) for the most accurate reproduction.*
 
 # Artsonia - Privacy Policy
 
-| 
-
 #### Privacy Policy
 
-At Artsonia, we are committed to protecting every User's privacy. We use the information we collect to process orders and to provide a more personalized service. Artsonia's Privacy Policy, set forth below, is designed to use the information we collect about visitors with the utmost care and responsibility. All capitalized terms that are not defined in the Privacy Policy below shall have the meanings given in the [Terms and Conditions of Use](https://web.archive.org/web/20150614000609id_/http%3A//www.artsonia.com/terms.asp). 
+At Artsonia, we are committed to protecting every User's privacy. We use the information we collect to process orders and to provide a more personalized service. Artsonia's Privacy Policy, set forth below, is designed to use the information we collect about visitors with the utmost care and responsibility. All capitalized terms that are not defined in the Privacy Policy below shall have the meanings given in the [Terms and Conditions of Use](https://web.archive.org/web/20151215144913id_/http%3A//www.artsonia.com/terms.asp). 
 
 **1\. Information Provided By All Users of the Website**
 
-The information Users provide to Artsonia through Artsonia.com or through certain mobile applications created by Artsonia (collectively referred to as the "Website") is used to process orders, to provide enhanced and more personalized service, and to properly index and display artwork, lesson plans, and other materials. The data in Artsonia's databases is protected against unauthorized access through state-of-the-art security procedures and software. 
+The information Users provide to Artsonia through Artsonia.com or through certain mobile applications created by Artsonia (collectively referred to as the "Website") is used to process orders, to provide enhanced and more personalized service, and to properly index and display artwork, lesson plans, and other materials. 
 
 The information Users provide to Artsonia is solely for Artsonia's internal business use. We do not sell this information to anyone. 
 
@@ -53,13 +51,15 @@ Artsonia's policy is not to collect any more information from kids than is neces
 
 
 
-**Artwork Submission:** Kids under 18 years of age are allowed to submit artwork for publication via the Parent who has logged in to their Parents login area or via the Classroom Mode feature. Therefore, it is the Parent's responsibility to review and approve all artwork submissions entered via the Parents login area, and to abide by the provisions set forth in the Terms and Conditions with respect to such submissions. Likewise, it is the Teacher's responsibility to review and approve all artwork submissions entered via the Classroom Mode feature, and to abide by the provisions set forth in the Terms and Conditions with respect to such submissions. 
+**Artwork Submission:** Kids under 18 years of age are allowed to submit artwork for publication via the Classroom Mode feature. Therefore, it is the Teacher's responsibility to review and approve all artwork submissions entered via the Classroom Mode feature, and to abide by the provisions set forth in the Terms and Conditions with respect to such submissions. 
 
 **Fan Club Membership:** Fan Club members receive email alerts when an Artist for which they are a Fan Club member publishes new artwork, adds or updates an Artist statement or receives a Comment, and the first name of the Fan Club member is publicly listed in the Artist's gallery. Kids under 13 years of age are allowed to join another Artist's Fan Club. When joining a Fan Club, Artsonia asks for the child's first name, their relationship to the Artist (i.e. friend, cousin, brother, sister), their email address and their Parent's email address. Upon joining the Fan Club, the Parent is sent an email announcing their child's Fan Club membership and is given a simple opt-out unsubscribe option. If the Parent unsubscribes, then their child's Fan Club registration is terminated. 
 
 **Comments:** Kids under 13 years of age are allowed to leave a Comment for an Artist. However, if the person who submits a Comment is under 13 years old, we require that a Parent's email address be provided. When posting the Comment on the Website, Artsonia sends an email alert to the email address of the commenting child's Parent that includes the Comment itself and directions to delete it should the Parent desire to do so. In addition, the Comment is not posted until the Parent of the Artist who is receiving the Comment officially approves it. Artsonia sends an email to the Artist's Parent alerting them of a new Comment, and the Comment is not posted publicly until that Parent views and approves the Comment for posting. In other words, when a child under 13 leaves a Comment for another child, the Parent of the commenter is alerted via email with an option to delete the Comment, AND the Parent of the Artist that received the Comment is alerted via email to approve and post the Comment. Therefore, it is the responsibility of the Parent of the Artist that received the Comment to review and approve such Comments, and to abide by the provisions set forth in the Terms and Conditions with respect to such Comments. 
 
-**Artist Statements:** Kids under 13 years of age are allowed to leave an Artist statement about their artwork. However, they can only do so via the Parent who has logged in to their Parents login area or via the Classroom Mode feature (as defined in the Terms and Conditions). Therefore, it is the Parent's responsibility to review and approve all Artist Statement submissions entered via the Parents login area, and to abide by the provisions set forth in the Terms and Conditions with respect to such submissions. Likewise, it is the Teacher's responsibility to review and approve all Artist statement submissions entered via the Classroom Mode feature, and to abide by the provisions set forth in the Terms and Conditions with respect to such submissions. 
+**Artwork Titles:** Kids under 13 years of age are allowed to leave an artwork title about their artwork. However, they can only do so via the Classroom Mode feature (as defined in the Terms and Conditions). Therefore, it is the Teacher's responsibility to review and approve all artwork title submissions entered via the Classroom Mode feature, and to abide by the provisions set forth in the Terms and Conditions with respect to such submissions. 
+
+**Artist Statements:** Kids under 13 years of age are allowed to leave an Artist statement about their artwork. However, they can only do so via the Classroom Mode feature (as defined in the Terms and Conditions). Therefore, it is the Teacher's responsibility to review and approve all Artist statement submissions entered via the Classroom Mode feature, and to abide by the provisions set forth in the Terms and Conditions with respect to such submissions. 
 
 **5\. Personally Identifiable Information About Artists**
 
@@ -83,7 +83,15 @@ Artsonia may report aggregate statistics about visitors, traffic patterns, elect
 
 Artsonia provides Users with the opportunity to opt-out of receiving any future communications from Artsonia and its partners at any time. If a User wants to remove their information from Artsonia's database and not receive future communications, please contact Artsonia at [info@artsonia.com](mailto:info@artsonia.com). 
 
-**10\. Additional Information**
+**10\. How Artsonia Protects Your Privacy Internally**
+
+Artsonia wants your information to remain as secure as reasonably possible. We combine industry-standard technical safeguards with a code of conduct for those employees that are permitted to access our customers' business information. 
+
+Artsonia's Website is hosted on servers that are co-located at a third party facility, with whom we have a contract providing for enhanced security measures. For example, your student information is stored on a server equipped with industry standard firewalls. In addition, the hosting facility provides a 24 X 7 security system, camera surveillance, and locked cage areas. 
+
+On the employee side, every Artsonia employee with access to data is trained on our privacy and security procedures. Only authorized Artsonia employees, agents or independent contractors are permitted to access your account information or student data, and all such employees, agents or independent contractors must agree in writing to abide by our Privacy Policy. Those employees that violate our Privacy Policy are subject to disciplinary action, up to and including termination. 
+
+**11\. Additional Information**
 
 For more information about Artsonia's privacy policy or questions and comments, please contact [info@artsonia.com](mailto:info@artsonia.com) or write Artsonia at: 
 
@@ -91,6 +99,3 @@ For more information about Artsonia's privacy policy or questions and comments, 
 >  Attn: Member Services  
 >  1350 Tri-State Parkway, Ste 106  
 >  Gurnee, IL 60031 
-
-|   
----|---|---
