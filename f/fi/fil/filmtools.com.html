@@ -1,35 +1,39 @@
-<!--The following is the downloaded HTML source of the filmtools.com privacy policy that was archived on 2015-06-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150616165125id_/http%3A//www.filmtools.com/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the filmtools.com privacy policy that was archived on 2015-12-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151215145740id_/http%3A//www.filmtools.com/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><script src="https://js-agent.newrelic.com/nr-632.min.js"></script><script type="text/javascript" async="" src="https://www.googlecommerce.com/trustedstores/api/js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VwIEWFJaGwEDVllSAgc="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),u=c.length,f=i(a,o,r),d=0;u>d;d++)c[d].apply(f,n);return f}function a(t,e){u[t]=s(t).concat(e)}function s(t){return u[t]||[]}function c(){return n(e)}var u={};return{on:a,emit:e,create:c,listeners:s,_events:u}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:20,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(u){try{r("ierr",[u,(new Date).getTime(),!0])}catch(f){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(3),window.onerror=e;try{throw new Error}catch(u){"stack"in u&&(t(4),t(5),"addEventListener"in window&&t(1),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&t(2),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:8,3:3,4:7,5:6,6:21,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:21,2:22,ee:"QJf3ax",gos:"7eSDFh"}],6:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:22,2:21,ee:"QJf3ax"}],7:[function(t,e){function n(t,e,n){t[0]=o(t[0],"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:22,2:21,ee:"QJf3ax"}],8:[function(t,e){function n(){u.inPlace(this,p,"fn-")}function r(t,e){u.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),u=c(a),f=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),f.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(i){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,u.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:5,2:22,ee:"QJf3ax"}],9:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var a=t.responseType,u="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=n(u);if(f&&(r.rxSize=f),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(e.cat=d.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,o("xhr",[e,r,this.startTime])}}}function n(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,u=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=e,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,e){var r=this.metrics,o=t[0],i=this;if(r&&o){var u=n(o);u&&(r.txSize=u)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{a.emit("internal-error",[n])}catch(r){}}};for(var f=0;c>f;f++)e.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:10,3:8,4:5,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],10:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],11:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:20,2:21,handle:"D5DuLP"}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info,e=u.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){s(d,function(e,n){e in t||(t[e]=n)});var n="https"===f.split(":")[0]||t.sslForHttp;p.proto=n?"https://":"http://",a("mark",["onload",i()]);var r=u.createElement("script");r.src=p.proto+t.agent,e.parentNode.insertBefore(r,e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=(t(2),window),u=c.document,f=(""+location).split("?")[0],d={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-632.min.js"},p=e.exports={offset:i(),origin:f,features:{}};u.addEventListener?(u.addEventListener("DOMContentLoaded",o,!1),c.addEventListener("load",n,!1)):(u.attachEvent("onreadystatechange",r),c.attachEvent("onload",n)),a("mark",["firstbyte",i()])},{1:20,2:11,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],20:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],21:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],22:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,u;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){f([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return u=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,u],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,u(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,u="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,u?s+o:o,i,s))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){f([o,e,n,r])}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){f([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function f(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:21,ee:"QJf3ax"}]},{},["G9z0Bl",4,9]);</script>
+<!DOCTYPE html><html class="no-js offcanvas" xml:lang="en" lang="en"><!--<![endif]--><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <title>Privacy Policy Filmtools</title>
 <meta name="description" content="Filmtools is Hollywood's source for  Motion Picture and Digital Video Equipment and Supplies">
 <meta name="keywords" content="cameras, lighting, grip, electrical, sound, expendable supplies">
 <meta name="robots" content="INDEX,FOLLOW">
-<meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta property="og:url" content="http://www.filmtools.com/privacy-policy-cookie-restriction-mode">
 <meta property="og:type" content="website">
 <meta property="og:title" content="Privacy Policy Filmtools">
 <meta property="og:description" content="Filmtools is Hollywood's source for  Motion Picture and Digital Video Equipment and Supplies">
-<meta property="og:updated_time" content="1434473484">
-<link rel="icon" href="http://www.filmtools.com/skin/frontend/enterprise/filmtools/favicon.ico" type="image/x-icon">
-<link rel="shortcut icon" href="http://www.filmtools.com/skin/frontend/enterprise/filmtools/favicon.ico" type="image/x-icon">
+<meta property="og:updated_time" content="1450169201">
+<link rel="icon" type="image/png" href="http://pull02.moviola.netdna-cdn.com/skin/frontend/filmtools/default/images/favicon.png">
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://pull02.moviola.netdna-cdn.com/skin/frontend/filmtools/default/images/apple-touch-icon-144x144-precomposed.png">
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="http://pull02.moviola.netdna-cdn.com/skin/frontend/filmtools/default/images/apple-touch-icon-114x114-precomposed.png">
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="http://pull02.moviola.netdna-cdn.com/skin/frontend/filmtools/default/images/apple-touch-icon-72x72-precomposed.png">
+<link rel="apple-touch-icon-precomposed" href="http://pull02.moviola.netdna-cdn.com/skin/frontend/filmtools/default/images/apple-touch-icon-57x57-precomposed.png">
 <!--[if lt IE 7]>
 <script type="text/javascript">
 //<![CDATA[
-    var BLANK_URL = 'http://www.filmtools.com/js/blank.html';
-    var BLANK_IMG = 'http://www.filmtools.com/js/spacer.gif';
+    var BLANK_URL = 'http://pull02.moviola.netdna-cdn.com/js/blank.html';
+    var BLANK_IMG = 'http://pull02.moviola.netdna-cdn.com/js/spacer.gif';
 //]]>
 </script>
 <![endif]-->
-<link rel="stylesheet" type="text/css" href="http://www.filmtools.com/media/css/5655f0bace4b15dc77ff3987c0a701ac.css" media="all">
-<script type="text/javascript" src="http://www.filmtools.com/media/js/582795eb7e08e2e16b2f142241017785.js"></script>
-<!--[if lt IE 8]>
-<link rel="stylesheet" type="text/css" href="http://www.filmtools.com/media/css/0c9a4b3fb881145d6f7e2fd6183214b6.css" media="all" />
-<![endif]-->
+<script type="text/javascript" async="" src="https://www.googlecommerce.com/trustedstores/api/js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_GB/sdk.js#xfbml=1&amp;version=v2.4"></script><script type="text/javascript" src="http://pull02.moviola.netdna-cdn.com/skin/frontend/filmtools/default/js/modernizr.js"></script>
+<script type="text/javascript" src="http://pull02.moviola.netdna-cdn.com/skin/frontend/filmtools/default/js/jquery.min.js"></script>
+<script type="text/javascript" src="http://pull02.moviola.netdna-cdn.com/skin/frontend/filmtools/default/js/noConflict.js"></script>
+<link rel="stylesheet" type="text/css" href="http://pull02.moviola.netdna-cdn.com/media/css/88b33028cd565b4247d1f0b616dc5121.css" media="all">
+<script type="text/javascript" src="http://pull02.moviola.netdna-cdn.com/media/js/bd914931ac44dbc43b03bd12bb37758c.js"></script>
+<link rel="canonical" href="http://www.filmtools.com/privacy-policy-cookie-restriction-mode">
 <!--[if lt IE 7]>
-<script type="text/javascript" src="http://www.filmtools.com/media/js/d3179dbd69483866f5e2d4c367f1cea0.js"></script>
+<script type="text/javascript" src="http://pull02.moviola.netdna-cdn.com/media/js/bef78bddc622b7c797035d2587a3403d.js"></script>
 <![endif]-->
 
 <script type="text/javascript">
@@ -68,6 +72,44 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(lc
 
 <meta name="google-site-verification" content="nisLiG-TJqPF49BG8uJJOtUxX1yH6a9z9eX-FNoMxzI"></head>
 <body class=" cms-page-view cms-privacy-policy-cookie-restriction-mode">
+<div id="fb-root"></div>
+<script>
+(function(d, s, id) {
+	var js, fjs = d.getElementsByTagName(s)[0];
+	if (d.getElementById(id)) return;
+	js = d.createElement(s); js.id = id;
+	js.src = "//connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v2.4";
+	fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+</script>
+<!-- 
+<script>
+window.twttr = (function(d, s, id) {
+	var js, fjs = d.getElementsByTagName(s)[0],t = window.twttr || {};
+	if (d.getElementById(id)) return t;
+	js = d.createElement(s);
+	js.id = id;
+	js.src = "https://platform.twitter.com/widgets.js";
+	fjs.parentNode.insertBefore(js, fjs);
+	t._e = [];
+	t.ready = function(f) {
+		t._e.push(f);
+	};
+	return t;
+}(document, "script", "twitter-wjs"));
+</script>
+<script>
+twttr.widgets.createFollowButton(
+	'Filmtools',
+	document.getElementById('twitter-follow'),
+	{
+		size: 'large'
+	}
+);
+</script>
+-->
+<script src="https://apis.google.com/js/platform.js" async="" defer=""></script>
+<script type="text/javascript" async="" defer="" src="//assets.pinterest.com/js/pinit.js"></script>
 <!-- BEGIN GOOGLE ANALYTICS CODEs -->
 <script type="text/javascript">
 //<![CDATA[
@@ -85,8 +127,9 @@ _gaq.push(['_trackPageview']);
 //]]>
 </script>
 <!-- END GOOGLE ANALYTICS CODE -->
-<div class="wrapper">
-        <noscript>
+
+
+	    <noscript>
         <div class="global-site-notice noscript">
             <div class="notice-inner">
                 <p>
@@ -95,1145 +138,211 @@ _gaq.push(['_trackPageview']);
             </div>
         </div>
     </noscript>
-    <div class="page">
-        <div class="header-container">    
-    <div class="header">
-        <div class="branding">
-                    <a href="http://www.filmtools.com/" title="Filmtools" class="logo"><strong>Filmtools</strong><img src="http://www.filmtools.com/skin/frontend/enterprise/filmtools/images/filmtools-logo-Moviola-tagline.jpg" alt="Filmtools"></a>
-                        
-                    </div>
-        <div class="header-content">
-            <div class="header-panel">
-                <p class="welcome-msg"><!--{WELCOME_f61743d3e031d1bbddf5132b78b18e91}--><!--/{WELCOME_f61743d3e031d1bbddf5132b78b18e91}--></p>
-                <!--{ACCLINKS_d5953f649466859eca5a4f0abd896881}--><ul class="links">
-                        <li class="first"><a href="https://www.filmtools.com/customer/account/login/" title="Login">Login</a></li>
-                                <li class=" last"> / <a href="https://www.filmtools.com/customer/account/create/" title="Register">Register</a></li>
-            </ul>
-<!--/{ACCLINKS_d5953f649466859eca5a4f0abd896881}-->                <span class="split">|</span>
-                <ul class="links">
-                        <li class="first last"><a href="https://www.filmtools.com/customer/account/" title="My Account">My Account</a></li>
-            </ul>
-                <span class="split">|</span>       
-                <ul class="links">
-                                        <li class="first"><a href="javascript:void(0);" onclick="popWin('http://www.filmtools.com/catalog/product_compare/index/uenc/aHR0cDovL3d3dy5maWxtdG9vbHMuY29tL3ByaXZhY3ktcG9saWN5LWNvb2tpZS1yZXN0cmljdGlvbi1tb2Rl/','compare','top:0,left:0,width=820,height=600,resizable=yes,scrollbars=yes')" title="My Compare">My Compare</a></li>
-                    <span class="split">|</span>
-                    <li><a target="_blank" href="http://filmtoolsrentals.com/" title="RENTALS">RENTALS</a></li>
-                    <span class="split">|</span>
-                     <li><a target="_blank" href="http://blog.filmtools.com/" title="BLOG">BLOG</a></li>
-                    <span class="split">|</span> 
-                    <li class=" last"><a href="/filmtools-1400-w-burbank.html" title="Store Location Hours">Store Location &amp; Hours</a></li>
-                </ul>
-                <strong class="hotline">1.888.807.1900</strong>
-            </div>
-            <!--{CART_SIDEBAR_eb51c8f564649254546cfde828cce43b}-->
-<div class="top-cart">
-        <div class="block-title no-items">
-        <div class="cart-title">
-            <strong id="cartHeader"><span>0</span> item in cart</strong>
-                                                        <em>Add <span class="price">$50.00</span> for FREE Shipping!</em>
-                                    </div>        
-    </div>
-    <div id="topCartContent" class="block-content" style="display:none">
-        <div class="inner-wrapper">                            <p class="block-subtitle">
-                <span onclick="Enterprise.TopCart.hideCart()" class="close-btn">Close</span>
-                Recently added item(s)            </p>
-            <p class="cart-empty">
-                You have no items in your shopping cart.            </p>
-                                    </div>
-    </div>
-<script type="text/javascript">
-    Enterprise.TopCart.initialize('topCartContent');
-    // Below can be used to show minicart after item added
-    // Enterprise.TopCart.showCart(7);
-</script>
-</div>
-<!--/{CART_SIDEBAR_eb51c8f564649254546cfde828cce43b}--> 
-            <form id="search_mini_form" action="http://www.filmtools.com/catalogsearch/result/" method="get">
-<div class="form-search clearfix">
-    <label for="search">Search site:</label><input id="search" type="text" name="q" value="" class="input-text" maxlength="128"><button type="submit" title="Go" class="button">search</button>
-    <!-- <div id="search_autocomplete" class="search-autocomplete"></div> -->
-    <script type="text/javascript">
-    //<![CDATA[
-        // var searchForm = new Varien.searchForm('search_mini_form', 'search', 'Enter search keyword');
-        // searchForm.initAutocomplete('http://www.filmtools.com/catalogsearch/ajax/suggest/', 'search_autocomplete');
-    //]]>
-    </script>
-</div>
-<div id="adsearch"><a href="http://www.filmtools.com/catalogsearch/advanced/">Advanced Search</a></div>
-</form>
-                        
-        </div>
-        <div class="header-content-mobile respond">
-            <ul class="header-navigation clearfix">
-                <li class="mobile-cart menu"><!--{CART_SIDEBAR_d2a8945d4479957e3c15241b3822262e}--><a class="top-menu" href="http://www.filmtools.com/checkout/cart/"><img class="bt-img" src="http://www.filmtools.com/skin/frontend/enterprise/filmtools/images/bt-mobile-topcart.png" alt="shopping cart" width="77" height="77"></a><span>0</span>
-<!--/{CART_SIDEBAR_d2a8945d4479957e3c15241b3822262e}--></li>
-                <li class="mobile-search menu"><a id="mobile-topsearch" class="top-menu" href="#"><img class="bt-img" src="http://www.filmtools.com/skin/frontend/enterprise/filmtools/images/bt-mobile-topsearch.png" alt="search" width="77" height="77"></a></li>
-                <li class="mobile-nav menu"><a id="mobile-topmenu" class="top-menu" href="#"><img class="bt-img" src="http://www.filmtools.com/skin/frontend/enterprise/filmtools/images/bt-mobile-topmenu.png" alt="navigation" width="77" height="77"></a></li>
-            </ul>
-        </div>
-        <div class="clear"></div>
-        <div class="header-panel-mobile respond">
-            <ul class="links">
-                <li class="first"><a href="https://www.filmtools.com/customer/account/login/">Login</a></li>
-                <span class="split">|</span>
-                <li class=" last"><a href="/filmtools-1400-w-burbank.html" title="Store Location Hours">Store Location &amp; Hours</a></li>
-            </ul>
-            <strong class="hotline">1.888.807.1900</strong>
-        </div>
-    </div>
-            	
-				            <div class="nav-container" style="width:100%px; height:px"><div class="nav-corner"><div class="top-navigation"><ul class="megamenu" id="megamenu"><li class="level0 nav-1 level-top  left category-menu" style="height:px; position:relative"><a href="http://www.filmtools.com/cameradept/camera-accessories/digial-storage.html" class="level0 parent" style="line-height:px"><span>Digital Media Storage</span></a><div class="dropdown-container left" style="width:546px; top:px"><div class="dropdown dropdown-category col2"><div class="col"><div class="category-list"><div class="sub-column"><div class="sub-categories clearfix" id="category-72"><div class="category-thumbnail"><img src="https://www.filmtools.com/skin/frontend/enterprise/filmtools/images/pixel.gif" style="background:url(https://www.filmtools.com/skin/frontend/enterprise/filmtools/images/img-loader.gif) no-repeat center;" data-url="/media/catalog/category/memory-cards-and-readers.jpg" alt="" width="80" height="80"></div><ul><li class="level1">
-<a class="level1" href="http://www.filmtools.com/cameradept/camera-accessories/digial-storage/memory-cards.html">
-Memory Cards &amp; Memory Card Readers
-</a>
-<ul>
-<li class="level2">
-<a class="level2" href="http://www.filmtools.com/cameradept/camera-accessories/digial-storage/memory-cards/compact-flash-memory-cards.html">
-Compact Flash Memory Cards
-</a>
-</li><li class="level2">
-<a class="level2" href="http://www.filmtools.com/cameradept/camera-accessories/digial-storage/memory-cards/sd-microsd-memory-cards.html">
-SD Memory Cards
-</a>
-</li><li class="level2">
-<a class="level2" href="http://www.filmtools.com/cameradept/camera-accessories/digial-storage/memory-cards/memory-card-readers.html">
-Memory Card Readers
-</a>
-</li><li class="level2">
-<a class="level2" href="http://www.filmtools.com/cameradept/camera-accessories/digial-storage/memory-cards/memory-card-cases.html">
-Memory Card Cases
-</a>
-</li><li class="level2">
-<a class="level2" href="http://www.filmtools.com/cameradept/camera-accessories/digial-storage/memory-cards/cfast.html">
-CFAST
-</a>
-</li><li class="level2">
-<a class="level2" href="http://www.filmtools.com/cameradept/camera-accessories/digial-storage/memory-cards/sxs.html">
-SxS
-</a>
-</li><li class="level2">
-<a class="level2" href="http://www.filmtools.com/cameradept/camera-accessories/digial-storage/memory-cards/xqd.html">
-XQD
-</a>
-</li>
-</ul>
-</li></ul></div><div class="sub-categories clearfix" id="category-73"><div class="category-thumbnail"><img src="https://www.filmtools.com/skin/frontend/enterprise/filmtools/images/pixel.gif" style="background:url(https://www.filmtools.com/skin/frontend/enterprise/filmtools/images/img-loader.gif) no-repeat center;" data-url="/media/catalog/category/video-tape.jpg" alt="" width="80" height="80"></div><ul><li class="level1">
-<a class="level1" href="http://www.filmtools.com/cameradept/camera-accessories/digial-storage/videotape-opticaldiscs.html">
-Video Tape &amp; Optical Discs
-</a>
-<ul>
-<li class="level2">
-<a class="level2" href="http://www.filmtools.com/cameradept/camera-accessories/digial-storage/videotape-opticaldiscs/dv.html">
-DV
-</a>
-</li><li class="level2">
-<a class="level2" href="http://www.filmtools.com/cameradept/camera-accessories/digial-storage/videotape-opticaldiscs/betacam.html">
-Betacam
-</a>
-</li><li class="level2">
-<a class="level2" href="http://www.filmtools.com/cameradept/camera-accessories/digial-storage/videotape-opticaldiscs/digital-betacam.html">
-Digital Betacam
-</a>
-</li><li class="level2">
-<a class="level2" href="http://www.filmtools.com/cameradept/camera-accessories/digial-storage/videotape-opticaldiscs/hdcam.html">
-HDCAM
-</a>
-</li><li class="level2">
-<a class="level2" href="http://www.filmtools.com/cameradept/camera-accessories/digial-storage/videotape-opticaldiscs/8mm.html">
-8mm
-</a>
-</li><li class="level2">
-<a class="level2" href="http://www.filmtools.com/cameradept/camera-accessories/digial-storage/videotape-opticaldiscs/dat-tape.html">
-DAT Tape
-</a>
-</li>
-</ul>
-</li></ul></div><div class="sub-categories clearfix" id="category-961"><div class="category-thumbnail"><img src="https://www.filmtools.com/skin/frontend/enterprise/filmtools/images/pixel.gif" style="background:url(https://www.filmtools.com/skin/frontend/enterprise/filmtools/images/img-loader.gif) no-repeat center;" data-url="/media/catalog/category/usb-flash-drives.jpg" alt="" width="80" height="80"></div><ul><li class="level1">
-<a class="level1" href="http://www.filmtools.com/cameradept/camera-accessories/digial-storage/flash-drives.html">
-USB Flash Drives
-</a>
-</li></ul></div></div><div class="sub-column"><div class="sub-categories clearfix" id="category-70"><div class="category-thumbnail"><img src="https://www.filmtools.com/skin/frontend/enterprise/filmtools/images/pixel.gif" style="background:url(https://www.filmtools.com/skin/frontend/enterprise/filmtools/images/img-loader.gif) no-repeat center;" data-url="/media/catalog/category/digital-recorders.jpg" alt="" width="80" height="80"></div><ul><li class="level1">
-<a class="level1" href="http://www.filmtools.com/cameradept/camera-accessories/digial-storage/digital-recorders.html">
-Digital Recorders
-</a>
-</li></ul></div><div class="sub-categories clearfix" id="category-71"><div class="category-thumbnail"><img src="https://www.filmtools.com/skin/frontend/enterprise/filmtools/images/pixel.gif" style="background:url(https://www.filmtools.com/skin/frontend/enterprise/filmtools/images/img-loader.gif) no-repeat center;" data-url="/media/catalog/category/hard-drives.jpg" alt="" width="80" height="80"></div><ul><li class="level1">
-<a class="level1" href="http://www.filmtools.com/cameradept/camera-accessories/digial-storage/hard-drives-raid-storage.html">
-Hard Drives &amp; RAID Storage
-</a>
-<ul>
-<li class="level2">
-<a class="level2" href="http://www.filmtools.com/cameradept/camera-accessories/digial-storage/hard-drives-raid-storage/portable-drives.html">
-Portable Drives
-</a>
-</li><li class="level2">
-<a class="level2" href="http://www.filmtools.com/cameradept/camera-accessories/digial-storage/hard-drives-raid-storage/desktop-drives.html">
-Desktop Drives
-</a>
-</li><li class="level2">
-<a class="level2" href="http://www.filmtools.com/cameradept/camera-accessories/digial-storage/hard-drives-raid-storage/raid-drives.html">
-RAID Drives
-</a>
-</li><li class="level2">
-<a class="level2" href="http://www.filmtools.com/cameradept/camera-accessories/digial-storage/hard-drives-raid-storage/ssd-solid-state-drives.html">
-SSD Solid State Drives
-</a>
-</li>
-</ul>
-</li></ul></div></div></div><div class="clearer"></div></div></div></div></li><li class="level0 nav-2 level-top  left category-menu" style="height:px; position:relative"><a href="http://www.filmtools.com/gripdept.html" class="level0 parent" style="line-height:px"><span>Grip &amp; Electrical</span></a><div class="dropdown-container left" style="width:819px; top:px"><div class="dropdown dropdown-category col3"><div class="col"><div class="category-list"><div class="sub-column"><div class="sub-categories clearfix" id="category-171"><div class="category-thumbnail"><img src="https://www.filmtools.com/skin/frontend/enterprise/filmtools/images/pixel.gif" style="background:url(https://www.filmtools.com/skin/frontend/enterprise/filmtools/images/img-loader.gif) no-repeat center;" data-url="/media/catalog/category/clamps-clips_1.JPG" alt="" width="80" height="80"></div><ul><li class="level1">
-<a class="level1" href="http://www.filmtools.com/gripdept/gripclipandc.html">
-Grip Clamps &amp; Clips
-</a>
-<ul>
-<li class="level2">
-<a class="level2" href="http://www.filmtools.com/gripdept/gripclipandc/cardellini-clamps-cardellini-com.html">
-Cardellini Clamps
-</a>
-</li><li class="level2">
-<a class="level2" href="http://www.filmtools.com/gripdept/gripclipandc/macl.html">
-Mathellini Clamps
-</a>
-</li><li class="level2">
-<a class="level2" href="http://www.filmtools.com/gripdept/gripclipandc/c-clamps.html">
-C Clamps
-</a>
-</li><li class="level2">
-<a class="level2" href="http://www.filmtools.com/gripdept/gripclipandc/maferclamps.html">
-Mafer Clamps
-</a>
-</li><li class="level2">
-<a class="level2" href="http://www.filmtools.com/gripdept/gripclipandc/clamps-and-clips.html">
-Clamps and Clips
-</a>
-</li><li class="level2">
-<a class="level2" href="http://www.filmtools.com/gripdept/gripclipandc/pony-clamps-3201-3020-3203-com.html">
-Pony Clamps
-</a>
-</li><li class="level2">
-<a class="level2" href="http://www.filmtools.com/gripdept/gripclipandc/furniture-clamps.html">
-Furniture Clamps (Jorgensen)
-</a>
-</li><li class="level2">
-<a class="level2" href="http://www.filmtools.com/gripdept/gripclipandc/clothespins-c-47.html">
-Clothespins C-47
-</a>
-</li>
-</ul>
-</li></ul></div><div class="sub-categories clearfix" id="category-189"><div class="category-thumbnail"><img src="https://www.filmtools.com/skin/frontend/enterprise/filmtools/images/pixel.gif" style="background:url(https://www.filmtools.com/skin/frontend/enterprise/filmtools/images/img-loader.gif) no-repeat center;" data-url="/media/catalog/category/hardware_1.jpg" alt="" width="80" height="80"></div><ul><li class="level1">
-<a class="level1" href="http://www.filmtools.com/gripdept/hardware.html">
-Hardware
-</a>
-<ul>
-<li class="level2">
-<a class="level2" href="http://www.filmtools.com/gripdept/hardware/filmtools-nuts-and-bolts.html">
-Nuts, Bolts &amp; Screws
-</a>
-</li><li class="level2">
-<a class="level2" href="http://www.filmtools.com/gripdept/hardware/knobs.html">
-Knobs
-</a>
-</li><li class="level2">
-<a class="level2" href="http://www.filmtools.com/gripdept/hardware/ladders.html">
-Ladders
-</a>
-</li><li class="level2">
-<a class="level2" href="http://www.filmtools.com/gripdept/hardware/cameratools.html">
-Tools
-</a>
-</li><li class="level2">
-<a class="level2" href="http://www.filmtools.com/gripdept/hardware/crutchtips.html">
-Crutch Tips
-</a>
-</li>
-</ul>
-</li></ul></div><div class="sub-categories clearfix" id="category-22"><div class="category-thumbnail"><img src="https://www.filmtools.com/skin/frontend/enterprise/filmtools/images/pixel.gif" style="background:url(https://www.filmtools.com/skin/frontend/enterprise/filmtools/images/img-loader.gif) no-repeat center;" data-url="/media/catalog/category/grip-ac-pouches_2.jpg" alt="" width="80" height="80"></div><ul><li class="level1">
-<a class="level1" href="http://www.filmtools.com/gripdept/belandpouc.html">
-Grip &amp; AC Pouches
-</a>
-<ul>
-<li class="level2">
-<a class="level2" href="http://www.filmtools.com/gripdept/belandpouc/grip-pouches.html">
-Grip Pouches
-</a>
-</li><li class="level2">
-<a class="level2" href="http://www.filmtools.com/gripdept/belandpouc/tool-pouches-holsters.html">
-Tool Pouches &amp; Holsters
-</a>
-</li><li class="level2">
-<a class="level2" href="http://www.filmtools.com/gripdept/belandpouc/radio-holsters.html">
-Radio Holsters, Pouches &amp; Cases
-</a>
-</li><li class="level2">
-<a class="level2" href="http://www.filmtools.com/gripdept/belandpouc/pouches-cell-phone-tablet.html">
-Cell Phone Pouches &amp; Holsters
-</a>
-</li><li class="level2">
-<a class="level2" href="http://www.filmtools.com/gripdept/belandpouc/ac-pouches.html">
-AC Pouches
-</a>
-</li>
-</ul>
-</li></ul></div></div><div class="sub-column"><div class="sub-categories clearfix" id="category-120"><div class="category-thumbnail"><img src="https://www.filmtools.com/skin/frontend/enterprise/filmtools/images/pixel.gif" style="background:url(https://www.filmtools.com/skin/frontend/enterprise/filmtools/images/img-loader.gif) no-repeat center;" data-url="/media/catalog/category/carts-dollies_1.GIF" alt="" width="80" height="80"></div><ul><li class="level1">
-<a class="level1" href="http://www.filmtools.com/gripdept/carts-dollies.html">
-Carts &amp; Dollies
-</a>
-<ul>
-<li class="level2">
-<a class="level2" href="http://www.filmtools.com/gripdept/carts-dollies/lighting-carts.html">
-Lighting Carts
-</a>
-</li><li class="level2">
-<a class="level2" href="http://www.filmtools.com/gripdept/carts-dollies/equipmentcarts.html">
-Grip Carts
-</a>
-</li><li class="level2">
-<a class="level2" href="http://www.filmtools.com/gripdept/carts-dollies/electrical-carts.html">
-Electrical Carts
-</a>
-</li><li class="level2">
-<a class="level2" href="http://www.filmtools.com/gripdept/carts-dollies/filversounan.html">
-Vertical Sound &amp; Video Carts
-</a>
-</li><li class="level2">
-<a class="level2" href="http://www.filmtools.com/gripdept/carts-dollies/filmtools-converted-carts.html">
-Converted Carts
-</a>
-</li><li class="level2">
-<a class="level2" href="http://www.filmtools.com/gripdept/carts-dollies/tr04.html">
-TR-04 Carts
-</a>
-</li><li class="level2">
-<a class="level2" href="http://www.filmtools.com/gripdept/carts-dollies/crafserandpr.html">
-Craft Service &amp; Prop Carts
-</a>
-</li><li class="level2">
-<a class="level2" href="http://www.filmtools.com/gripdept/carts-dollies/steadsupeq.html">
-Steadicam Carts
-</a>
-</li><li class="level2">
-<a class="level2" href="http://www.filmtools.com/gripdept/carts-dollies/camera-assistant-camera-case-cart.html">
-Camera Assistant's Camera Case Carts
-</a>
-</li><li class="level2">
-<a class="level2" href="http://www.filmtools.com/gripdept/carts-dollies/fillibjunhan.html">
-Junior Convertible Hand Carts 
-</a>
-</li><li class="level2">
-<a class="level2" href="http://www.filmtools.com/gripdept/carts-dollies/fillibsrhana.html">
-Senior Convertible Carts
-</a>
-</li><li class="level2">
-<a class="level2" href="http://www.filmtools.com/gripdept/carts-dollies/unacforallma.html">
-Cart Accessories
-</a>
-</li>
-</ul>
-</li></ul></div><div class="sub-categories clearfix" id="category-272"><div class="category-thumbnail"><img src="https://www.filmtools.com/skin/frontend/enterprise/filmtools/images/pixel.gif" style="background:url(https://www.filmtools.com/skin/frontend/enterprise/filmtools/images/img-loader.gif) no-repeat center;" data-url="/media/catalog/category/stands-booms-jibs_1.JPG" alt="" width="80" height="80"></div><ul><li class="level1">
-<a class="level1" href="http://www.filmtools.com/gripdept/stands-booms-jibs.html">
-Stands, Booms &amp; Jibs
-</a>
-<ul>
-<li class="level2">
-<a class="level2" href="http://www.filmtools.com/gripdept/stands-booms-jibs/jibs.html">
-Jibs
-</a>
-</li><li class="level2">
-<a class="level2" href="http://www.filmtools.com/gripdept/stands-booms-jibs/stands.html">
-Grip Stands
-</a>
-</li>
-</ul>
-</li></ul></div><div class="sub-categories clearfix" id="category-135"><div class="category-thumbnail"><img src="https://www.filmtools.com/skin/frontend/enterprise/filmtools/images/pixel.gif" style="background:url(https://www.filmtools.com/skin/frontend/enterprise/filmtools/images/img-loader.gif) no-repeat center;" data-url="/media/catalog/category/electrical_1.JPG" alt="" width="80" height="80"></div><ul><li class="level1">
-<a class="level1" href="http://www.filmtools.com/gripdept/electrical.html">
-Electrical
-</a>
-<ul>
-<li class="level2">
-<a class="level2" href="http://www.filmtools.com/gripdept/electrical/electrical-cables-distribution.html">
-Electrical Cables &amp; Distribution
-</a>
-</li><li class="level2">
-<a class="level2" href="http://www.filmtools.com/gripdept/electrical/ext.html">
-Stingers &amp; Extension Cords
-</a>
-</li>
-</ul>
-</li></ul></div></div><div class="sub-column"><div class="sub-categories clearfix" id="category-260"><div class="category-thumbnail"><img src="https://www.filmtools.com/skin/frontend/enterprise/filmtools/images/pixel.gif" style="background:url(https://www.filmtools.com/skin/frontend/enterprise/filmtools/images/img-loader.gif) no-repeat center;" data-url="/media/catalog/category/rigging-equipment_1.jpg" alt="" width="80" height="80"></div><ul><li class="level1">
-<a class="level1" href="http://www.filmtools.com/gripdept/grip-rigging-hardware.html">
-Rigging Equipment
-</a>
-<ul>
-<li class="level2">
-<a class="level2" href="http://www.filmtools.com/gripdept/grip-rigging-hardware/cheeseplates.html">
-Cheese Plates
-</a>
-</li><li class="level2">
-<a class="level2" href="http://www.filmtools.com/gripdept/grip-rigging-hardware/hangers-tiedowns.html">
-Hangers &amp; Tiedowns
-</a>
-</li><li class="level2">
-<a class="level2" href="http://www.filmtools.com/gripdept/grip-rigging-hardware/mat58babstan.html">
-Baby - 5/8" Accessories
-</a>
-</li><li class="level2">
-<a class="level2" href="http://www.filmtools.com/gripdept/grip-rigging-hardware/mat118junhar.html">
-Junior 1-1/8" Accessories
-</a>
-</li><li class="level2">
-<a class="level2" href="http://www.filmtools.com/gripdept/grip-rigging-hardware/3-8-weenie-grip-hardware.html">
-Teenie Weenie - 3/8" Accessories
-</a>
-</li><li class="level2">
-<a class="level2" href="http://www.filmtools.com/gripdept/grip-rigging-hardware/speedrail.html">
-Speed Rail
-</a>
-</li><li class="level2">
-<a class="level2" href="http://www.filmtools.com/gripdept/grip-rigging-hardware/sucuvcu.html">
-Suction Cups
-</a>
-</li><li class="level2">
-<a class="level2" href="http://www.filmtools.com/gripdept/grip-rigging-hardware/rigging-adapters.html">
-Rigging Adapters
-</a>
-</li><li class="level2">
-<a class="level2" href="http://www.filmtools.com/gripdept/grip-rigging-hardware/rigging-hardware.html">
-Rigging Hardware
-</a>
-</li>
-</ul>
-</li></ul></div><div class="sub-categories clearfix" id="category-183"><div class="category-thumbnail"><img src="https://www.filmtools.com/skin/frontend/enterprise/filmtools/images/pixel.gif" style="background:url(https://www.filmtools.com/skin/frontend/enterprise/filmtools/images/img-loader.gif) no-repeat center;" data-url="/media/catalog/category/grip-essentials_1.JPG" alt="" width="80" height="80"></div><ul><li class="level1">
-<a class="level1" href="http://www.filmtools.com/gripdept/grip-essentials.html">
-Grip Essentials
-</a>
-<ul>
-<li class="level2">
-<a class="level2" href="http://www.filmtools.com/gripdept/grip-essentials/gloves.html">
-Gloves
-</a>
-</li><li class="level2">
-<a class="level2" href="http://www.filmtools.com/gripdept/grip-essentials/tool-belts.html">
-Tool Belts
-</a>
-</li><li class="level2">
-<a class="level2" href="http://www.filmtools.com/gripdept/grip-essentials/appleboxes.html">
-Apple Boxes
-</a>
-</li><li class="level2">
-<a class="level2" href="http://www.filmtools.com/gripdept/grip-essentials/milk-crates.html">
-Milk Crates
-</a>
-</li><li class="level2">
-<a class="level2" href="http://www.filmtools.com/gripdept/grip-essentials/sanandshotba.html">
-Sandbags &amp; Shotbags
-</a>
-</li><li class="level2">
-<a class="level2" href="http://www.filmtools.com/gripdept/grip-essentials/blankets.html">
-Blankets
-</a>
-</li>
-</ul>
-</li></ul></div></div></div><div class="clearer"></div></div></div></div></li><li class="level0 nav-3 level-top  left category-menu" style="height:px; position:relative"><a href="http://www.filmtools.com/ligdep.html" class="level0 parent" style="line-height:px"><span>Lighting </span></a><div class="dropdown-container left" style="width:819px; top:px"><div class="dropdown dropdown-category col3"><div class="col"><div class="category-list"><div class="sub-column"><div class="sub-categories clearfix" id="category-223"><div class="category-thumbnail"><img src="https://www.filmtools.com/skin/frontend/enterprise/filmtools/images/pixel.gif" style="background:url(https://www.filmtools.com/skin/frontend/enterprise/filmtools/images/img-loader.gif) no-repeat center;" data-url="/media/catalog/category/light-fixtures-kits_1.JPG" alt="" width="80" height="80"></div><ul><li class="level1">
-<a class="level1" href="http://www.filmtools.com/ligdep/lighting-equipment.html">
-Lighting Equipment
-</a>
-<ul>
-<li class="level2">
-<a class="level2" href="http://www.filmtools.com/ligdep/lighting-equipment/light-fixtures-kits.html">
-Lighting Fixtures &amp; Kits
-</a>
-</li>
-</ul>
-</li></ul></div><div class="sub-categories clearfix" id="category-247"><div class="category-thumbnail"><img src="https://www.filmtools.com/skin/frontend/enterprise/filmtools/images/pixel.gif" style="background:url(https://www.filmtools.com/skin/frontend/enterprise/filmtools/images/img-loader.gif) no-repeat center;" data-url="/media/catalog/category/lighting-stands_1.jpg" alt="" width="80" height="80"></div><ul><li class="level1">
-<a class="level1" href="http://www.filmtools.com/ligdep/lightstands.html">
-Lighting Stands &amp; Booms
-</a>
-<ul>
-<li class="level2">
-<a class="level2" href="http://www.filmtools.com/ligdep/lightstands/jusest.html">
-Junior &amp; Senior Light Stands
-</a>
-</li><li class="level2">
-<a class="level2" href="http://www.filmtools.com/ligdep/lightstands/mat58babstan-1.html">
-Baby Stands
-</a>
-</li><li class="level2">
-<a class="level2" href="http://www.filmtools.com/ligdep/lightstands/combostands-1.html">
-Combo Stands
-</a>
-</li><li class="level2">
-<a class="level2" href="http://www.filmtools.com/ligdep/lightstands/lightbooms.html">
-Light Booms
-</a>
-</li>
-</ul>
-</li></ul></div><div class="sub-categories clearfix" id="category-216"><ul><li class="level1">
-<a class="level1" href="http://www.filmtools.com/ligdep/light-control-accessories.html">
-Lighting Control Accessories
-</a>
-<ul>
-<li class="level2">
-<a class="level2" href="http://www.filmtools.com/ligdep/lighting-control/light-control-accessories/lightmeters.html">
-Light Meters &amp; Accessories
-</a>
-</li>
-</ul>
-</li></ul></div></div><div class="sub-column"><div class="sub-categories clearfix" id="category-209"><div class="category-thumbnail"><img src="https://www.filmtools.com/skin/frontend/enterprise/filmtools/images/pixel.gif" style="background:url(https://www.filmtools.com/skin/frontend/enterprise/filmtools/images/img-loader.gif) no-repeat center;" data-url="/media/catalog/category/lighting-control_1.JPG" alt="" width="80" height="80"></div><ul><li class="level1">
-<a class="level1" href="http://www.filmtools.com/ligdep/lighting-control.html">
-Lighting Control
-</a>
-<ul>
-<li class="level2">
-<a class="level2" href="http://www.filmtools.com/ligdep/lighting-control/flagcutandfl.html">
-Scrims &amp; Flags
-</a>
-</li><li class="level2">
-<a class="level2" href="http://www.filmtools.com/ligdep/lighting-control/blacfoilblac.html">
-Foil
-</a>
-</li><li class="level2">
-<a class="level2" href="http://www.filmtools.com/ligdep/lighting-control/reflectors.html">
-Reflectors
-</a>
-</li><li class="level2">
-<a class="level2" href="http://www.filmtools.com/ligdep/lighting-control/ovbufreaco.html">
-Overhead Fabrics &amp; Frames
-</a>
-</li><li class="level2">
-<a class="level2" href="http://www.filmtools.com/ligdep/lighting-control/soft-boxes-light-banks-egg-crates.html">
-Chimeras &amp; Softboxes
-</a>
-</li><li class="level2">
-<a class="level2" href="http://www.filmtools.com/ligdep/lighting-control/fogfluidspray.html">
-Special Effects &amp; Fog
-</a>
-</li>
-</ul>
-</li></ul></div><div class="sub-categories clearfix" id="category-167"><div class="category-thumbnail"><img src="https://www.filmtools.com/skin/frontend/enterprise/filmtools/images/pixel.gif" style="background:url(https://www.filmtools.com/skin/frontend/enterprise/filmtools/images/img-loader.gif) no-repeat center;" data-url="/media/catalog/category/green-screen-chroma-key_1.JPG" alt="" width="80" height="80"></div><ul><li class="level1">
-<a class="level1" href="http://www.filmtools.com/ligdep/chromkeyfab.html">
-Green Screen/Backdrops
-</a>
-<ul>
-<li class="level2">
-<a class="level2" href="http://www.filmtools.com/ligdep/chromkeyfab/backdrops.html">
-Backdrops
-</a>
-</li><li class="level2">
-<a class="level2" href="http://www.filmtools.com/ligdep/chromkeyfab/green-screen.html">
-Green Screen Fabric
-</a>
-</li><li class="level2">
-<a class="level2" href="http://www.filmtools.com/ligdep/chromkeyfab/green-screen-paint.html">
-Green Screen Paint
-</a>
-</li><li class="level2">
-<a class="level2" href="http://www.filmtools.com/ligdep/chromkeyfab/blue-screen.html">
-Blue Screen
-</a>
-</li><li class="level2">
-<a class="level2" href="http://www.filmtools.com/ligdep/chromkeyfab/green-screen-apparel.html">
-Green Screen Apparel
-</a>
-</li>
-</ul>
-</li></ul></div></div><div class="sub-column"><div class="sub-categories clearfix" id="category-154"><div class="category-thumbnail"><img src="https://www.filmtools.com/skin/frontend/enterprise/filmtools/images/pixel.gif" style="background:url(https://www.filmtools.com/skin/frontend/enterprise/filmtools/images/img-loader.gif) no-repeat center;" data-url="/media/catalog/category/gels-diffusion_1.JPG" alt="" width="80" height="80"></div><ul><li class="level1">
-<a class="level1" href="http://www.filmtools.com/ligdep/rosliggel.html">
-Gels &amp; Diffusion
-</a>
-<ul>
-<li class="level2">
-<a class="level2" href="http://www.filmtools.com/ligdep/rosliggel/color-effect.html">
-Color Effect
-</a>
-</li><li class="level2">
-<a class="level2" href="http://www.filmtools.com/ligdep/rosliggel/diffusion.html">
-Diffusion
-</a>
-</li><li class="level2">
-<a class="level2" href="http://www.filmtools.com/ligdep/rosliggel/party-colors.html">
-Party Colors
-</a>
-</li><li class="level2">
-<a class="level2" href="http://www.filmtools.com/ligdep/rosliggel/acrylic-panels.html">
-Acrylic Panels
-</a>
-</li><li class="level2">
-<a class="level2" href="http://www.filmtools.com/ligdep/rosliggel/color-correction.html">
-Color Correction
-</a>
-</li><li class="level2">
-<a class="level2" href="http://www.filmtools.com/ligdep/rosliggel/lighting-gel-frames.html">
-Gel Frames
-</a>
-</li><li class="level2">
-<a class="level2" href="http://www.filmtools.com/ligdep/rosliggel/gels.html">
-Gels
-</a>
-</li><li class="level2">
-<a class="level2" href="http://www.filmtools.com/ligdep/rosliggel/neutral-density.html">
-Neutral Density
-</a>
-</li><li class="level2">
-<a class="level2" href="http://www.filmtools.com/ligdep/rosliggel/lighting-gel-sheets.html">
-Gel Sheets
-</a>
-</li><li class="level2">
-<a class="level2" href="http://www.filmtools.com/ligdep/rosliggel/lighting-gel-rolls.html">
-Gell Rolls
-</a>
-</li><li class="level2">
-<a class="level2" href="http://www.filmtools.com/ligdep/rosliggel/lighting-gel-sheet-combo-packs.html">
-Gel Sheet Combo Packs
-</a>
-</li>
-</ul>
-</li></ul></div><div class="sub-categories clearfix" id="category-24"><div class="category-thumbnail"><img src="https://www.filmtools.com/skin/frontend/enterprise/filmtools/images/pixel.gif" style="background:url(https://www.filmtools.com/skin/frontend/enterprise/filmtools/images/img-loader.gif) no-repeat center;" data-url="/media/catalog/category/bags-cases_1.JPG" alt="" width="80" height="80"></div><ul><li class="level1">
-<a class="level1" href="http://www.filmtools.com/ligdep/lighting-cases.html">
-Lighting Bags &amp; Cases
-</a>
-</li></ul></div></div></div><div class="clearer"></div></div></div></div></li><li class="level0 nav-4 level-top  left category-menu" style="height:px; position:relative"><a href="http://www.filmtools.com/expendables.html" class="level0 parent" style="line-height:px"><span>Expendables</span></a><div class="dropdown-container right" style="width:546px; top:px"><div class="dropdown dropdown-category col2"><div class="col"><div class="category-list"><div class="sub-column"><div class="sub-categories clearfix" id="category-150"><ul><li class="level1">
-<a class="level1" href="http://www.filmtools.com/expendables/fabric.html">
-Textiles (Fabric &amp; Plastic)
-</a>
-</li></ul></div><div class="sub-categories clearfix" id="category-193"><ul><li class="level1">
-<a class="level1" href="http://www.filmtools.com/expendables/ropelinecord.html">
-Ropes, Chain, Line
-</a>
-</li></ul></div><div class="sub-categories clearfix" id="category-149"><ul><li class="level1">
-<a class="level1" href="http://www.filmtools.com/expendables/adhesivetapes.html">
-Gaffer Tape
-</a>
-</li></ul></div><div class="sub-categories clearfix" id="category-143"><ul><li class="level1">
-<a class="level1" href="http://www.filmtools.com/expendables/liqadglu.html">
-Glue &amp; Adhesives
-</a>
-</li></ul></div><div class="sub-categories clearfix" id="category-145"><ul><li class="level1">
-<a class="level1" href="http://www.filmtools.com/expendables/paintall.html">
-Paint
-</a>
-</li></ul></div><div class="sub-categories clearfix" id="category-147"><ul><li class="level1">
-<a class="level1" href="http://www.filmtools.com/expendables/safetyproducts.html">
-Safety &amp; First Aid Products
-</a>
-</li></ul></div><div class="sub-categories clearfix" id="category-151"><ul><li class="level1">
-<a class="level1" href="http://www.filmtools.com/expendables/ties-zip-ties.html">
-Ties &amp; Zip Ties
-</a>
-</li></ul></div></div><div class="sub-column"><div class="sub-categories clearfix" id="category-139"><ul><li class="level1">
-<a class="level1" href="http://www.filmtools.com/expendables/batteries.html">
-Batteries
-</a>
-</li></ul></div><div class="sub-categories clearfix" id="category-141"><ul><li class="level1">
-<a class="level1" href="http://www.filmtools.com/expendables/cleaning-supplies.html">
-Cleaning Supplies
-</a>
-</li></ul></div><div class="sub-categories clearfix" id="category-142"><ul><li class="level1">
-<a class="level1" href="http://www.filmtools.com/expendables/foamcore.html">
-Foam Core
-</a>
-</li></ul></div><div class="sub-categories clearfix" id="category-146"><ul><li class="level1">
-<a class="level1" href="http://www.filmtools.com/expendables/marking-writing-utensils.html">
-Marking/Writing Utensils
-</a>
-</li></ul></div><div class="sub-categories clearfix" id="category-148"><ul><li class="level1">
-<a class="level1" href="http://www.filmtools.com/expendables/seamlesspaper.html">
-Seamless Paper
-</a>
-</li></ul></div><div class="sub-categories clearfix" id="category-321"><ul><li class="level1">
-<a class="level1" href="http://www.filmtools.com/expendables/c47s-clothespins.html">
-Clothespins
-</a>
-</li></ul></div><div class="sub-categories clearfix" id="category-144"><ul><li class="level1">
-<a class="level1" href="http://www.filmtools.com/expendables/officesupplies.html">
-Office Supplies
-</a>
-</li></ul></div></div></div><div class="clearer"></div></div></div></div></li><li class="level0 nav-5 level-top  left category-menu" style="height:px; position:relative"><a href="http://www.filmtools.com/cameradept.html" class="level0 parent" style="line-height:px"><span>Camera </span></a><div class="dropdown-container left" style="width:819px; top:px"><div class="dropdown dropdown-category col3"><div class="col"><div class="category-list"><div class="sub-column"><div class="sub-categories clearfix" id="category-116"><div class="category-thumbnail"><img src="https://www.filmtools.com/skin/frontend/enterprise/filmtools/images/pixel.gif" style="background:url(https://www.filmtools.com/skin/frontend/enterprise/filmtools/images/img-loader.gif) no-repeat center;" data-url="/media/catalog/category/9897506_max_1.jpg" alt="" width="80" height="80"></div><ul><li class="level1">
-<a class="level1" href="http://www.filmtools.com/cameradept/camera-equipment.html">
-Cameras
-</a>
-<ul>
-<li class="level2">
-<a class="level2" href="http://www.filmtools.com/cameradept/camera-equipment/compact-cameras.html">
-Action Cameras
-</a>
-</li><li class="level2">
-<a class="level2" href="http://www.filmtools.com/cameradept/camera-equipment/camcorders.html">
-Camcorders
-</a>
-</li><li class="level2">
-<a class="level2" href="http://www.filmtools.com/cameradept/camera-equipment/dslr-cameras-and-accessories.html">
-DSLR Cameras
-</a>
-</li>
-</ul>
-</li></ul></div><div class="sub-categories clearfix" id="category-197"><div class="category-thumbnail"><img src="https://www.filmtools.com/skin/frontend/enterprise/filmtools/images/pixel.gif" style="background:url(https://www.filmtools.com/skin/frontend/enterprise/filmtools/images/img-loader.gif) no-repeat center;" data-url="/media/catalog/category/Lenses-Optics.jpg" alt="" width="80" height="80"></div><ul><li class="level1">
-<a class="level1" href="http://www.filmtools.com/cameradept/camera-lenses.html">
-Lenses &amp; Optics
-</a>
-<ul>
-<li class="level2">
-<a class="level2" href="http://www.filmtools.com/cameradept/camera-lenses/lensfilters.html">
-Filters &amp; Accessories
-</a>
-</li><li class="level2">
-<a class="level2" href="http://www.filmtools.com/cameradept/camera-lenses/lenses.html">
-Lenses
-</a>
-</li><li class="level2">
-<a class="level2" href="http://www.filmtools.com/cameradept/camera-lenses/lens-accessories.html">
-Lens Accessories
-</a>
-</li><li class="level2">
-<a class="level2" href="http://www.filmtools.com/cameradept/camera-lenses/lens-converters-adapters.html">
-Converters &amp; Adapters
-</a>
-</li>
-</ul>
-</li></ul></div><div class="sub-categories clearfix" id="category-369"><ul><li class="level1">
-<a class="level1" href="http://www.filmtools.com/cameradept/red-one-camera-outfitters.html">
-RED Camera Accessories
-</a>
-</li></ul></div></div><div class="sub-column"><div class="sub-categories clearfix" id="category-84"><div class="category-thumbnail"><img src="https://www.filmtools.com/skin/frontend/enterprise/filmtools/images/pixel.gif" style="background:url(https://www.filmtools.com/skin/frontend/enterprise/filmtools/images/img-loader.gif) no-repeat center;" data-url="/media/catalog/category/Camera-Support.JPG" alt="" width="80" height="80"></div><ul><li class="level1">
-<a class="level1" href="http://www.filmtools.com/cameradept/movcamsupeq.html">
-Camera Support
-</a>
-<ul>
-<li class="level2">
-<a class="level2" href="http://www.filmtools.com/cameradept/movcamsupeq/camera-handles-grips-cages.html">
-Camera Cages &amp; Handles
-</a>
-</li><li class="level2">
-<a class="level2" href="http://www.filmtools.com/cameradept/movcamsupeq/bridge-plates-adapters.html">
-Bridge Plates &amp; Adapters
-</a>
-</li><li class="level2">
-<a class="level2" href="http://www.filmtools.com/cameradept/movcamsupeq/camera-straps-84.html">
-Camera Straps
-</a>
-</li><li class="level2">
-<a class="level2" href="http://www.filmtools.com/cameradept/movcamsupeq/carmounts.html">
-Car Mounts
-</a>
-</li><li class="level2">
-<a class="level2" href="http://www.filmtools.com/cameradept/movcamsupeq/silders.html">
-Sliders, Dollies &amp; Jibs
-</a>
-</li><li class="level2">
-<a class="level2" href="http://www.filmtools.com/cameradept/movcamsupeq/spreadtripca.html">
-Tripods &amp; Monopods
-</a>
-</li>
-</ul>
-</li></ul></div><div class="sub-categories clearfix" id="category-11"><div class="category-thumbnail"><img src="https://www.filmtools.com/skin/frontend/enterprise/filmtools/images/pixel.gif" style="background:url(https://www.filmtools.com/skin/frontend/enterprise/filmtools/images/img-loader.gif) no-repeat center;" data-url="/media/catalog/category/Camera-Bags-Cases.jpg" alt="" width="80" height="80"></div><ul><li class="level1">
-<a class="level1" href="http://www.filmtools.com/cameradept/dittybags.html">
-Camera Bags &amp; Cases
-</a>
-<ul>
-<li class="level2">
-<a class="level2" href="http://www.filmtools.com/cameradept/dittybags/camera-bags-cases-11.html">
-Hard Cases
-</a>
-</li><li class="level2">
-<a class="level2" href="http://www.filmtools.com/cameradept/dittybags/camera-bags-soft-cases.html">
-Soft Cases
-</a>
-</li><li class="level2">
-<a class="level2" href="http://www.filmtools.com/cameradept/dittybags/camera-backpacks.html">
-Backpacks
-</a>
-</li><li class="level2">
-<a class="level2" href="http://www.filmtools.com/cameradept/dittybags/camera-holsters-pouches.html">
-Waist Packs
-</a>
-</li><li class="level2">
-<a class="level2" href="http://www.filmtools.com/cameradept/dittybags/camera-equipment-cases.html">
-Rolling Cases
-</a>
-</li><li class="level2">
-<a class="level2" href="http://www.filmtools.com/cameradept/dittybags/camera-tape-lanyards-straps.html">
-Bag Accessories
-</a>
-</li><li class="level2">
-<a class="level2" href="http://www.filmtools.com/cameradept/dittybags/pelicancases1.html">
-Pelican Cases
-</a>
-</li>
-</ul>
-</li></ul></div></div><div class="sub-column"><div class="sub-categories clearfix" id="category-33"><div class="category-thumbnail"><img src="https://www.filmtools.com/skin/frontend/enterprise/filmtools/images/pixel.gif" style="background:url(https://www.filmtools.com/skin/frontend/enterprise/filmtools/images/img-loader.gif) no-repeat center;" data-url="/media/catalog/category/Camera-Accessories.jpg" alt="" width="80" height="80"></div><ul><li class="level1">
-<a class="level1" href="http://www.filmtools.com/cameradept/camera-accessories.html">
-Camera Accessories
-</a>
-<ul>
-<li class="level2">
-<a class="level2" href="http://www.filmtools.com/cameradept/camera-accessories/camera-calibration-charts.html">
-Camera Calibration Charts
-</a>
-</li><li class="level2">
-<a class="level2" href="http://www.filmtools.com/cameradept/camera-accessories/camera-remote-controls.html">
-Camera Remote Controls
-</a>
-</li><li class="level2">
-<a class="level2" href="http://www.filmtools.com/cameradept/camera-accessories/tablet-phone-accessories-mounting.html">
-Tablet &amp; Phone Accessories &amp; Mounting
-</a>
-</li><li class="level2">
-<a class="level2" href="http://www.filmtools.com/cameradept/camera-accessories/matteboxes.html">
-Matte Boxes &amp; Accessories
-</a>
-</li><li class="level2">
-<a class="level2" href="http://www.filmtools.com/cameradept/camera-accessories/wireless-video-transmitters.html">
-Wireless Video Transmitters
-</a>
-</li><li class="level2">
-<a class="level2" href="http://www.filmtools.com/cameradept/camera-accessories/monitors-viewfinders.html">
-Monitors &amp; Viewfinders
-</a>
-</li><li class="level2">
-<a class="level2" href="http://www.filmtools.com/cameradept/camera-accessories/camera-protection.html">
-Camera Protection
-</a>
-</li>
-</ul>
-</li></ul></div><div class="sub-categories clearfix" id="category-330"><ul><li class="level1">
-<a class="level1" href="http://www.filmtools.com/cameradept/canon-c300-cameras-aks.html">
-Canon Cinema EOS C100, C300 &amp; C500 Cameras &amp; Accessories
-</a>
-<ul>
-<li class="level2">
-<a class="level2" href="http://www.filmtools.com/cameradept/canon-c300-cameras-aks/recommended-tripods-heads-c300-camera.html">
-Tripods &amp; Heads
-</a>
-</li>
-</ul>
-</li></ul></div></div></div><div class="clearer"></div></div></div></div></li><li class="level0 nav-6 level-top  left category-menu" style="height:px; position:relative"><a href="http://www.filmtools.com/sounddept.html" class="level0 parent" style="line-height:px"><span>Sound</span></a><div class="dropdown-container left" style="width:546px; top:px"><div class="dropdown dropdown-category col2"><div class="col"><div class="category-list"><div class="sub-column"><div class="sub-categories clearfix" id="category-248"><div class="category-thumbnail"><img src="https://www.filmtools.com/skin/frontend/enterprise/filmtools/images/pixel.gif" style="background:url(https://www.filmtools.com/skin/frontend/enterprise/filmtools/images/img-loader.gif) no-repeat center;" data-url="/media/catalog/category/mics-accessories_1.jpg" alt="" width="80" height="80"></div><ul><li class="level1">
-<a class="level1" href="http://www.filmtools.com/sounddept/pro-audio-mic-aks.html">
-Mics &amp; Accessories
-</a>
-<ul>
-<li class="level2">
-<a class="level2" href="http://www.filmtools.com/sounddept/pro-audio-mic-aks/microphones.html">
-Microphones
-</a>
-</li><li class="level2">
-<a class="level2" href="http://www.filmtools.com/sounddept/pro-audio-mic-aks/microphone-shock-mounts-clips.html">
-Windscreens &amp; Attenuators
-</a>
-</li><li class="level2">
-<a class="level2" href="http://www.filmtools.com/sounddept/pro-audio-mic-aks/shock-mounts.html">
-Shock Mounts
-</a>
-</li><li class="level2">
-<a class="level2" href="http://www.filmtools.com/sounddept/pro-audio-mic-aks/boom-poles.html">
-Boom Poles
-</a>
-</li><li class="level2">
-<a class="level2" href="http://www.filmtools.com/sounddept/pro-audio-mic-aks/microphone.html">
-Microphone Stands &amp; Rigging
-</a>
-</li>
-</ul>
-</li></ul></div><div class="sub-categories clearfix" id="category-6"><div class="category-thumbnail"><img src="https://www.filmtools.com/skin/frontend/enterprise/filmtools/images/pixel.gif" style="background:url(https://www.filmtools.com/skin/frontend/enterprise/filmtools/images/img-loader.gif) no-repeat center;" data-url="/media/catalog/category/cables-connectors_1.JPG" alt="" width="80" height="80"></div><ul><li class="level1">
-<a class="level1" href="http://www.filmtools.com/sounddept/audio-cables.html">
-Audio Cables &amp; Connectors
-</a>
-<ul>
-<li class="level2">
-<a class="level2" href="http://www.filmtools.com/sounddept/audio-cables/miccabbycann.html">
-Microphone Cables
-</a>
-</li><li class="level2">
-<a class="level2" href="http://www.filmtools.com/sounddept/audio-cables/rca-cables.html">
-RCA Cables &amp; Connectors
-</a>
-</li><li class="level2">
-<a class="level2" href="http://www.filmtools.com/sounddept/audio-cables/2-5-3-5-mm-mini-audio-cables.html">
-2.5mm &amp; 3.5mm Mini Jack Audio Cables
-</a>
-</li>
-</ul>
-</li></ul></div><div class="sub-categories clearfix" id="category-348"><ul><li class="level1">
-<a class="level1" href="http://www.filmtools.com/sounddept/soundepcar.html">
-Sound Carts
-</a>
-</li></ul></div></div><div class="sub-column"><div class="sub-categories clearfix" id="category-7"><div class="category-thumbnail"><img src="https://www.filmtools.com/skin/frontend/enterprise/filmtools/images/pixel.gif" style="background:url(https://www.filmtools.com/skin/frontend/enterprise/filmtools/images/img-loader.gif) no-repeat center;" data-url="/media/catalog/category/audio-recorders-mixers_1.jpg" alt="" width="80" height="80"></div><ul><li class="level1">
-<a class="level1" href="http://www.filmtools.com/sounddept/audio-mixers.html">
-Audio Recorders/Mixers
-</a>
-</li></ul></div><div class="sub-categories clearfix" id="category-27"><div class="category-thumbnail"><img src="https://www.filmtools.com/skin/frontend/enterprise/filmtools/images/pixel.gif" style="background:url(https://www.filmtools.com/skin/frontend/enterprise/filmtools/images/img-loader.gif) no-repeat center;" data-url="/media/catalog/category/sound-bags-cases.JPG" alt="" width="80" height="80"></div><ul><li class="level1">
-<a class="level1" href="http://www.filmtools.com/sounddept/sound-bags-cases.html">
-Sound Bags &amp; Cases
-</a>
-</li></ul></div><div class="sub-categories clearfix" id="category-196"><div class="category-thumbnail"><img src="https://www.filmtools.com/skin/frontend/enterprise/filmtools/images/pixel.gif" style="background:url(https://www.filmtools.com/skin/frontend/enterprise/filmtools/images/img-loader.gif) no-repeat center;" data-url="/media/catalog/category/headphones-monitors_3.jpg" alt="" width="80" height="80"></div><ul><li class="level1">
-<a class="level1" href="http://www.filmtools.com/sounddept/monitoring.html">
-Headphones &amp; Monitors
-</a>
-</li></ul></div></div></div><div class="clearer"></div></div></div></div></li><li class="level0 nav-7 level-top  left category-menu" style="height:px; position:relative"><a href="http://www.filmtools.com/apparel.html" class="level0 parent" style="line-height:px"><span>Apparel</span></a><div class="dropdown-container right" style="width:546px; top:px"><div class="dropdown dropdown-category col2"><div class="col"><div class="category-list"><div class="sub-column"><div class="sub-categories clearfix" id="category-5"><ul><li class="level1">
-<a class="level1" href="http://www.filmtools.com/apparel/filmtools-swag.html">
-Filmtools Swag
-</a>
-</li></ul></div><div class="sub-categories clearfix" id="category-332"><ul><li class="level1">
-<a class="level1" href="http://www.filmtools.com/apparel/belts.html">
-Belts &amp; Suspenders
-</a>
-</li></ul></div><div class="sub-categories clearfix" id="category-754"><ul><li class="level1">
-<a class="level1" href="http://www.filmtools.com/apparel/green-screen-apparel-1.html">
-Green Screen Apparel
-</a>
-</li></ul></div><div class="sub-categories clearfix" id="category-350"><ul><li class="level1">
-<a class="level1" href="http://www.filmtools.com/apparel/vests.html">
-Vests
-</a>
-</li></ul></div><div class="sub-categories clearfix" id="category-386"><ul><li class="level1">
-<a class="level1" href="http://www.filmtools.com/apparel/lanyards-straps.html">
-Clips, Lanyards &amp; Straps
-</a>
-</li></ul></div></div><div class="sub-column"><div class="sub-categories clearfix" id="category-331"><ul><li class="level1">
-<a class="level1" href="http://www.filmtools.com/apparel/hats.html">
-Hats
-</a>
-</li></ul></div><div class="sub-categories clearfix" id="category-333"><ul><li class="level1">
-<a class="level1" href="http://www.filmtools.com/apparel/gloves.html">
-Gloves
-</a>
-</li></ul></div><div class="sub-categories clearfix" id="category-334"><ul><li class="level1">
-<a class="level1" href="http://www.filmtools.com/apparel/shirts.html">
-Shirts
-</a>
-</li></ul></div><div class="sub-categories clearfix" id="category-352"><ul><li class="level1">
-<a class="level1" href="http://www.filmtools.com/apparel/photo-video-jackets.html">
-Jackets
-</a>
-</li></ul></div></div></div><div class="clearer"></div></div></div></div></li><li class="level0 nav-8 level-top  left category-menu" style="height:px; position:relative"><a href="http://www.filmtools.com/shopbytrade.html" class="level0 parent" style="line-height:px"><span>Shop by Trade</span></a><div class="dropdown-container right" style="width:546px; top:px"><div class="dropdown dropdown-category col2"><div class="col"><div class="category-list"><div class="sub-column"><div class="sub-categories clearfix" id="category-322"><ul><li class="level1">
-<a class="level1" href="http://www.filmtools.com/shopbytrade/directors.html">
-Directors
-</a>
-</li></ul></div><div class="sub-categories clearfix" id="category-367"><ul><li class="level1">
-<a class="level1" href="http://www.filmtools.com/shopbytrade/camassup.html">
-Camera Assistants
-</a>
-</li></ul></div><div class="sub-categories clearfix" id="category-370"><ul><li class="level1">
-<a class="level1" href="http://www.filmtools.com/shopbytrade/lighting-tools-accessories.html">
-Gaffers
-</a>
-</li></ul></div><div class="sub-categories clearfix" id="category-372"><ul><li class="level1">
-<a class="level1" href="http://www.filmtools.com/shopbytrade/boom-operators-tools.html">
-Boom Operators
-</a>
-</li></ul></div></div><div class="sub-column"><div class="sub-categories clearfix" id="category-335"><ul><li class="level1">
-<a class="level1" href="http://www.filmtools.com/shopbytrade/studentstore.html">
-Student Store
-</a>
-</li></ul></div><div class="sub-categories clearfix" id="category-368"><ul><li class="level1">
-<a class="level1" href="http://www.filmtools.com/shopbytrade/dptools.html">
-Cinematographers
-</a>
-</li></ul></div><div class="sub-categories clearfix" id="category-371"><ul><li class="level1">
-<a class="level1" href="http://www.filmtools.com/shopbytrade/camopsup.html">
-Camera Operators
-</a>
-</li></ul></div><div class="sub-categories clearfix" id="category-375"><ul><li class="level1">
-<a class="level1" href="http://www.filmtools.com/shopbytrade/infihe.html">
-Independent Filmmakers
-</a>
-</li></ul></div></div></div><div class="clearer"></div></div></div></div></li><li class="level0 nav-9 level-top  left category-menu" style="height:px; position:relative"><a href="http://www.filmtools.com/other-departments.html" class="level0 parent" style="line-height:px"><span>Other</span></a><div class="dropdown-container right" style="width:819px; top:px"><div class="dropdown dropdown-category col3"><div class="col"><div class="category-list"><div class="sub-column"><div class="sub-categories clearfix" id="category-29"><ul><li class="level1">
-<a class="level1" href="http://www.filmtools.com/other-departments/books.html">
-Books &amp; DVDs
-</a>
-<ul>
-<li class="level2">
-<a class="level2" href="http://www.filmtools.com/other-departments/books/filmmaking-books.html">
-Books
-</a>
-</li><li class="level2">
-<a class="level2" href="http://www.filmtools.com/other-departments/books/training-dvds.html">
-DVDs
-</a>
-</li><li class="level2">
-<a class="level2" href="http://www.filmtools.com/other-departments/books/software.html">
-Software
-</a>
-</li><li class="level2">
-<a class="level2" href="http://www.filmtools.com/other-departments/books/magazines.html">
-Magazines
-</a>
-</li>
-</ul>
-</li></ul></div><div class="sub-categories clearfix" id="category-166"><ul><li class="level1">
-<a class="level1" href="http://www.filmtools.com/other-departments/filgifcer1.html">
-Gift Certificates
-</a>
-</li></ul></div></div><div class="sub-column"><div class="sub-categories clearfix" id="category-256"><ul><li class="level1">
-<a class="level1" href="http://www.filmtools.com/other-departments/locations.html">
-On-Location
-</a>
-<ul>
-<li class="level2">
-<a class="level2" href="http://www.filmtools.com/other-departments/locations/communication-accessories.html">
-Communication Accessories
-</a>
-</li><li class="level2">
-<a class="level2" href="http://www.filmtools.com/other-departments/locations/tents-shelters.html">
-Tents &amp; Shelters
-</a>
-</li><li class="level2">
-<a class="level2" href="http://www.filmtools.com/other-departments/locations/floor-protection.html">
-Floor Protection
-</a>
-</li><li class="level2">
-<a class="level2" href="http://www.filmtools.com/other-departments/locations/tarps.html">
-Tarps
-</a>
-</li><li class="level2">
-<a class="level2" href="http://www.filmtools.com/other-departments/locations/silica-gel.html">
-Silica Gel
-</a>
-</li><li class="level2">
-<a class="level2" href="http://www.filmtools.com/other-departments/locations/water-bottles.html">
-Water Bottles &amp; Pouches
-</a>
-</li><li class="level2">
-<a class="level2" href="http://www.filmtools.com/other-departments/locations/schedule-wallets.html">
-Schedule Wallets &amp; Log Booklets
-</a>
-</li>
-</ul>
-</li></ul></div></div><div class="sub-column"><div class="sub-categories clearfix" id="category-284"><ul><li class="level1">
-<a class="level1" href="http://www.filmtools.com/other-departments/studio-production-supplies.html">
-Studio/Production
-</a>
-<ul>
-<li class="level2">
-<a class="level2" href="http://www.filmtools.com/other-departments/studio-production-supplies/professional-teleprompters.html">
-Teleprompters
-</a>
-</li><li class="level2">
-<a class="level2" href="http://www.filmtools.com/other-departments/studio-production-supplies/chromkeyfab-1.html">
-Green Screen &amp; Blue Screen
-</a>
-</li><li class="level2">
-<a class="level2" href="http://www.filmtools.com/other-departments/studio-production-supplies/backdrops-1.html">
-Backdrops
-</a>
-</li>
-</ul>
-</li></ul></div></div></div><div class="clearer"></div></div></div></div></li></ul></div></div></div><script>
-jQuery(document).ready(function(){
-    jQuery('.level0 .parent span').mouseover(function(){jQuery(this).parent().parent().find('.category-thumbnail img').scrollLoading();});
-});
-</script>
-
-    <div class="announce">
-    <ul>
-<li><span style="color: #ffffff;"><a href="/customer-service.html#shipping09"><strong>Free Delivery on Orders $50.00+</strong></a></span></li>
-<li><span style="color: #ffffff;"><strong>I</strong></span></li>
-<li><span style="color: #ffffff;"><a title="Same day local delivery on orders $250.00+" href="http://www.filmtools.com/local-delivery" target="_self"><strong>Same day local delivery on orders $250.00+</strong></a></span></li>
-<li><span style="color: #ffffff;"><strong>I</strong></span></li>
-<li><span style="color: #ffffff;"><strong>No tax outside of CA</strong></span></li>
-</ul>    </div>
-    <div class="announce-mobile">
-        </div>
-    <!--{TOPMENU_f26ad04e824c843dbba88cad9eb2566d}--><div class="nav-container-mobile respond">
-    <ul id="nav-mobile" style="display: none;">
-    <!-- <ul id="nav-mobile"> -->
-        <li class="level0 nav-1 first level-top parent"><a href="http://www.filmtools.com/cameradept.html" class="level-top"><span>Camera</span></a><ul class="level0"><li class="level1 nav-1-1 first"><a href="http://www.filmtools.com/cameradept/camera-equipment.html"><span>Cameras</span></a></li><li class="level1 nav-1-2"><a href="http://www.filmtools.com/cameradept/movcamsupeq.html"><span>Camera Support</span></a></li><li class="level1 nav-1-3"><a href="http://www.filmtools.com/cameradept/camera-accessories.html"><span>Camera Accessories</span></a></li><li class="level1 nav-1-4"><a href="http://www.filmtools.com/cameradept/camera-lenses.html"><span>Lenses &amp; Optics</span></a></li><li class="level1 nav-1-5"><a href="http://www.filmtools.com/cameradept/dittybags.html"><span>Camera Bags &amp; Cases</span></a></li><li class="level1 nav-1-6"><a href="http://www.filmtools.com/cameradept/canon-c300-cameras-aks.html"><span>Canon Cinema EOS C100, C300 &amp; C500 Cameras &amp; Accessories</span></a></li><li class="level1 nav-1-7 last"><a href="http://www.filmtools.com/cameradept/red-one-camera-outfitters.html"><span>RED Camera Accessories</span></a></li></ul></li><li class="level0 nav-2 level-top parent"><a href="http://www.filmtools.com/ligdep.html" class="level-top"><span>Lighting</span></a><ul class="level0"><li class="level1 nav-2-1 first"><a href="http://www.filmtools.com/ligdep/lighting-equipment.html"><span>Lighting Equipment</span></a></li><li class="level1 nav-2-2"><a href="http://www.filmtools.com/ligdep/lighting-control.html"><span>Lighting Control</span></a></li><li class="level1 nav-2-3"><a href="http://www.filmtools.com/ligdep/rosliggel.html"><span>Gels &amp; Diffusion</span></a></li><li class="level1 nav-2-4"><a href="http://www.filmtools.com/ligdep/lightstands.html"><span>Lighting Stands &amp; Booms</span></a></li><li class="level1 nav-2-5"><a href="http://www.filmtools.com/ligdep/chromkeyfab.html"><span>Green Screen/Backdrops</span></a></li><li class="level1 nav-2-6"><a href="http://www.filmtools.com/ligdep/lighting-cases.html"><span>Lighting Bags &amp; Cases</span></a></li><li class="level1 nav-2-7 last"><a href="http://www.filmtools.com/ligdep/light-control-accessories.html"><span>Lighting Control Accessories</span></a></li></ul></li><li class="level0 nav-3 level-top parent"><a href="http://www.filmtools.com/gripdept.html" class="level-top"><span>Grip &amp; Electrical</span></a><ul class="level0"><li class="level1 nav-3-1 first"><a href="http://www.filmtools.com/gripdept/gripclipandc.html"><span>Grip Clamps &amp; Clips</span></a></li><li class="level1 nav-3-2"><a href="http://www.filmtools.com/gripdept/carts-dollies.html"><span>Carts &amp; Dollies</span></a></li><li class="level1 nav-3-3"><a href="http://www.filmtools.com/gripdept/grip-rigging-hardware.html"><span>Rigging Equipment</span></a></li><li class="level1 nav-3-4"><a href="http://www.filmtools.com/gripdept/hardware.html"><span>Hardware</span></a></li><li class="level1 nav-3-5"><a href="http://www.filmtools.com/gripdept/stands-booms-jibs.html"><span>Stands, Booms &amp; Jibs</span></a></li><li class="level1 nav-3-6"><a href="http://www.filmtools.com/gripdept/grip-essentials.html"><span>Grip Essentials</span></a></li><li class="level1 nav-3-7"><a href="http://www.filmtools.com/gripdept/belandpouc.html"><span>Grip &amp; AC Pouches</span></a></li><li class="level1 nav-3-8 last"><a href="http://www.filmtools.com/gripdept/electrical.html"><span>Electrical</span></a></li></ul></li><li class="level0 nav-4 level-top parent"><a href="http://www.filmtools.com/sounddept.html" class="level-top"><span>Sound</span></a><ul class="level0"><li class="level1 nav-4-1 first"><a href="http://www.filmtools.com/sounddept/pro-audio-mic-aks.html"><span>Mics &amp; Accessories</span></a></li><li class="level1 nav-4-2"><a href="http://www.filmtools.com/sounddept/audio-mixers.html"><span>Audio Recorders/Mixers</span></a></li><li class="level1 nav-4-3"><a href="http://www.filmtools.com/sounddept/audio-cables.html"><span>Audio Cables &amp; Connectors</span></a></li><li class="level1 nav-4-4"><a href="http://www.filmtools.com/sounddept/sound-bags-cases.html"><span>Sound Bags &amp; Cases</span></a></li><li class="level1 nav-4-5"><a href="http://www.filmtools.com/sounddept/soundepcar.html"><span>Sound Carts</span></a></li><li class="level1 nav-4-6 last"><a href="http://www.filmtools.com/sounddept/monitoring.html"><span>Headphones &amp; Monitors</span></a></li></ul></li><li class="level0 nav-5 level-top parent"><a href="http://www.filmtools.com/expendables.html" class="level-top"><span>Expendables</span></a><ul class="level0"><li class="level1 nav-5-1 first"><a href="http://www.filmtools.com/expendables/fabric.html"><span>Textiles (Fabric &amp; Plastic)</span></a></li><li class="level1 nav-5-2"><a href="http://www.filmtools.com/expendables/batteries.html"><span>Batteries</span></a></li><li class="level1 nav-5-3"><a href="http://www.filmtools.com/expendables/ropelinecord.html"><span>Ropes, Chain, Line</span></a></li><li class="level1 nav-5-4"><a href="http://www.filmtools.com/expendables/cleaning-supplies.html"><span>Cleaning Supplies</span></a></li><li class="level1 nav-5-5"><a href="http://www.filmtools.com/expendables/adhesivetapes.html"><span>Gaffer Tape</span></a></li><li class="level1 nav-5-6"><a href="http://www.filmtools.com/expendables/foamcore.html"><span>Foam Core</span></a></li><li class="level1 nav-5-7"><a href="http://www.filmtools.com/expendables/liqadglu.html"><span>Glue &amp; Adhesives</span></a></li><li class="level1 nav-5-8"><a href="http://www.filmtools.com/expendables/marking-writing-utensils.html"><span>Marking/Writing Utensils</span></a></li><li class="level1 nav-5-9"><a href="http://www.filmtools.com/expendables/paintall.html"><span>Paint</span></a></li><li class="level1 nav-5-10"><a href="http://www.filmtools.com/expendables/seamlesspaper.html"><span>Seamless Paper</span></a></li><li class="level1 nav-5-11"><a href="http://www.filmtools.com/expendables/safetyproducts.html"><span>Safety &amp; First Aid Products</span></a></li><li class="level1 nav-5-12"><a href="http://www.filmtools.com/expendables/fog.html"><span>Fog</span></a></li><li class="level1 nav-5-13"><a href="http://www.filmtools.com/expendables/c47s-clothespins.html"><span>Clothespins</span></a></li><li class="level1 nav-5-14"><a href="http://www.filmtools.com/expendables/ties-zip-ties.html"><span>Ties &amp; Zip Ties</span></a></li><li class="level1 nav-5-15"><a href="http://www.filmtools.com/expendables/officesupplies.html"><span>Office Supplies</span></a></li><li class="level1 nav-5-16"><a href="http://www.filmtools.com/expendables/sound-blankets-furniture-pads.html"><span>Blankets</span></a></li><li class="level1 nav-5-17"><a href="http://www.filmtools.com/expendables/showcard.html"><span>Showcards</span></a></li><li class="level1 nav-5-18"><a href="http://www.filmtools.com/expendables/tracing-paper-vellum.html"><span>Tracing Paper</span></a></li><li class="level1 nav-5-19 last"><a href="http://www.filmtools.com/expendables/labels-letters.html"><span>Stick-On Labels</span></a></li></ul></li><li class="level0 nav-6 level-top parent"><a href="http://www.filmtools.com/apparel.html" class="level-top"><span>Apparel</span></a><ul class="level0"><li class="level1 nav-6-1 first"><a href="http://www.filmtools.com/apparel/filmtools-swag.html"><span>Filmtools Swag</span></a></li><li class="level1 nav-6-2"><a href="http://www.filmtools.com/apparel/hats.html"><span>Hats</span></a></li><li class="level1 nav-6-3"><a href="http://www.filmtools.com/apparel/belts.html"><span>Belts &amp; Suspenders</span></a></li><li class="level1 nav-6-4"><a href="http://www.filmtools.com/apparel/gloves.html"><span>Gloves</span></a></li><li class="level1 nav-6-5"><a href="http://www.filmtools.com/apparel/green-screen-apparel-1.html"><span>Green Screen Apparel</span></a></li><li class="level1 nav-6-6"><a href="http://www.filmtools.com/apparel/shirts.html"><span>Shirts</span></a></li><li class="level1 nav-6-7"><a href="http://www.filmtools.com/apparel/vests.html"><span>Vests</span></a></li><li class="level1 nav-6-8"><a href="http://www.filmtools.com/apparel/photo-video-jackets.html"><span>Jackets</span></a></li><li class="level1 nav-6-9 last"><a href="http://www.filmtools.com/apparel/lanyards-straps.html"><span>Clips, Lanyards &amp; Straps</span></a></li></ul></li><li class="level0 nav-7 level-top parent"><a href="http://www.filmtools.com/other-departments.html" class="level-top"><span>Other</span></a><ul class="level0"><li class="level1 nav-7-1 first"><a href="http://www.filmtools.com/other-departments/books.html"><span>Books &amp; DVDs</span></a></li><li class="level1 nav-7-2"><a href="http://www.filmtools.com/other-departments/locations.html"><span>On-Location</span></a></li><li class="level1 nav-7-3 last"><a href="http://www.filmtools.com/other-departments/studio-production-supplies.html"><span>Studio/Production</span></a></li></ul></li><li class="level0 nav-8 level-top parent"><a href="http://www.filmtools.com/shopbytrade.html" class="level-top"><span>Shop by Trade</span></a><ul class="level0"><li class="level1 nav-8-1 first"><a href="http://www.filmtools.com/shopbytrade/directors.html"><span>Directors</span></a></li><li class="level1 nav-8-2"><a href="http://www.filmtools.com/shopbytrade/studentstore.html"><span>Student Store</span></a></li><li class="level1 nav-8-3"><a href="http://www.filmtools.com/shopbytrade/camassup.html"><span>Camera Assistants</span></a></li><li class="level1 nav-8-4"><a href="http://www.filmtools.com/shopbytrade/dptools.html"><span>Cinematographers</span></a></li><li class="level1 nav-8-5"><a href="http://www.filmtools.com/shopbytrade/lighting-tools-accessories.html"><span>Gaffers</span></a></li><li class="level1 nav-8-6"><a href="http://www.filmtools.com/shopbytrade/camopsup.html"><span>Camera Operators</span></a></li><li class="level1 nav-8-7"><a href="http://www.filmtools.com/shopbytrade/boom-operators-tools.html"><span>Boom Operators</span></a></li><li class="level1 nav-8-8 last"><a href="http://www.filmtools.com/shopbytrade/infihe.html"><span>Independent Filmmakers</span></a></li></ul></li><li class="level0 nav-9 level-top parent"><a href="http://www.filmtools.com/more.html" class="level-top"><span>More</span></a><ul class="level0"><li class="level1 nav-9-1 first last"><a href="http://www.filmtools.com/more/bags-cases.html"><span>Bags </span></a></li></ul></li><li class="level0 nav-10 level-top parent"><a href="http://www.filmtools.com/newitems.html" class="level-top"><span>New Items</span></a><ul class="level0"><li class="level1 nav-10-1 first"><a href="http://www.filmtools.com/newitems/newest-arrivals-camera.html"><span>Camera</span></a></li><li class="level1 nav-10-2"><a href="http://www.filmtools.com/newitems/newest-arrivals-lighting.html"><span>Lighting</span></a></li><li class="level1 nav-10-3"><a href="http://www.filmtools.com/newitems/newest-arrivals-grip.html"><span>Grip</span></a></li><li class="level1 nav-10-4"><a href="http://www.filmtools.com/newitems/newest-arrivals-electrical.html"><span>Electrical</span></a></li><li class="level1 nav-10-5"><a href="http://www.filmtools.com/newitems/newest-arrivals-sound.html"><span>Sound</span></a></li><li class="level1 nav-10-6"><a href="http://www.filmtools.com/newitems/newest-arrivals-directors.html"><span>Directors</span></a></li><li class="level1 nav-10-7"><a href="http://www.filmtools.com/newitems/newest-arrivals-books-dvds.html"><span>Books &amp; DVDs</span></a></li><li class="level1 nav-10-8"><a href="http://www.filmtools.com/newitems/newest-arrivals-studio-production.html"><span>Studio &amp; Production</span></a></li><li class="level1 nav-10-9"><a href="http://www.filmtools.com/newitems/newest-arrivals-expendables.html"><span>Expendables</span></a></li><li class="level1 nav-10-10"><a href="http://www.filmtools.com/newitems/newest-arrivals-on-location.html"><span>On Location</span></a></li><li class="level1 nav-10-11 last"><a href="http://www.filmtools.com/newitems/newest-arrivals-apparel.html"><span>Apparel</span></a></li></ul></li><li class="level0 nav-11 level-top parent"><a href="http://www.filmtools.com/open-box-film-equipment.html" class="level-top"><span>Open Box &amp; Discount Deals</span></a><ul class="level0"><li class="level1 nav-11-1 first"><a href="http://www.filmtools.com/open-box-film-equipment/open-box-camera-equipment.html"><span>Camera Dept.</span></a></li><li class="level1 nav-11-2"><a href="http://www.filmtools.com/open-box-film-equipment/open-box-apparel-movie-sets.html"><span>Apparel</span></a></li><li class="level1 nav-11-3"><a href="http://www.filmtools.com/open-box-film-equipment/discount-expendables.html"><span>Expendables</span></a></li><li class="level1 nav-11-4"><a href="http://www.filmtools.com/open-box-film-equipment/discount-books-dvds.html"><span>Books &amp; DVDs</span></a></li><li class="level1 nav-11-5"><a href="http://www.filmtools.com/open-box-film-equipment/open-box-sound-gear.html"><span>Sound Dept.</span></a></li><li class="level1 nav-11-6"><a href="http://www.filmtools.com/open-box-film-equipment/open-box-bags-cases.html"><span>Bags &amp; Cases</span></a></li><li class="level1 nav-11-7 last"><a href="http://www.filmtools.com/open-box-film-equipment/open-box-electrical-gear.html"><span>Electrical</span></a></li></ul></li><li class="level0 nav-12 level-top"><a href="http://www.filmtools.com/clearance-1.html" class="level-top"><span>Clearance Open Box Items</span></a></li><li class="level0 nav-13 level-top"><a href="http://www.filmtools.com/rainy-day-essentials.html" class="level-top"><span>Rainy Day Essentials</span></a></li><li class="level0 nav-14 last level-top"><a href="http://www.filmtools.com/seed-spark-kits.html" class="level-top"><span>Seed &amp; Spark Kits</span></a></li>    </ul>
-</div>
-
-<script type="text/javascript">
-    jQuery(function($) {
-    	var oMobileNav = $("#nav-mobile");
-    	$("#mobile-topmenu").click(function(event) {
-    		oMobileNav.slideToggle(400);
-    		return false;
-    	});
-        var oMobileListLT = oMobileNav.find("li.level0");
-        oMobileListLT.append("<span class='expand'>expand</span>");
-    	var oMobileNavExpandBt = oMobileNav.find("span.expand");
-    	oMobileNavExpandBt.click(function(event) {
-    		var oLiLevelTop = $(this).parent('li.level-top');
-    		if ($(this).hasClass('open')) {
-    			oLiLevelTop.find("ul.level0").slideUp(300);
-    			$(this).removeClass('open');
-    		}
-    		else{
-    			oLiLevelTop.find("ul.level0").slideDown(300);
-	    		oLiLevelTop.siblings().find('ul.level0').slideUp(300); 
-	    		oLiLevelTop.siblings().find('span.open').removeClass('open');
-	    		$(this).addClass('open');	    		
-    		};    		
-    		return false;
-    	});    	
-	});
-    </script><!--/{TOPMENU_f26ad04e824c843dbba88cad9eb2566d}-->    <form id="search_mini_form_mobile" action="http://www.filmtools.com/catalogsearch/result/" method="get" class="respond">
-<div class="form-search">
-    <input id="search" type="text" name="q" value="" class="input-text" maxlength="128">
-    <button type="submit" title="Go" class="button">search</button>
-    <!-- <a href="">Advanced Search</a> -->
-    <!-- <div id="search_autocomplete" class="search-autocomplete"></div> -->
-    <script type="text/javascript">
-    //<![CDATA[
-        // var searchForm = new Varien.searchForm('search_mini_form', 'search', 'Enter search keyword');
-        // searchForm.initAutocomplete('http://www.filmtools.com/catalogsearch/ajax/suggest/', 'search_autocomplete');
-    //]]>
-    jQuery(function($) {
-    	var oFormMobileSearch = $("#search_mini_form_mobile");
-    	$("#mobile-topsearch").click(function(event) {
-    		oFormMobileSearch.slideToggle(400);
-    		return false;
-    	});
-	});
-    </script>
-</div>
-</form>
+	<div class="wrapper off-canvas-wrap" data-offcanvas="">
+		<div class="inner-wrap">
+						<div class="contain-to-grid">
+	<nav class="top-bar hide-for-small" data-topbar="">
+		<section class="top-bar-section">
+			<ul class="links left">
+				<li>
+					<a href="tel:+888.807.1900" class="phone">888.807.1900</a>
+				</li>
+			</ul>
+		</section>
+		<section class="top-bar-section">
+			<ul class="links right">
+							<li><a href="http://blog.filmtools.com" title="Blog" target="_blank">Blog</a></li>
+								<li><a href="http://filmtoolsrentals.com" title="Rentals" target="_blank">Rentals</a></li>
+								<li><a href="/filmtools-1400-w-burbank.html" title="Store Location &amp; Hours">Store Location &amp; Hours</a></li>
+								<li><a href="https://www.filmtools.com/customer/account/login/" title="Register/Login">Register/Login</a></li>
+								
+    <li class="last">
     
-        <div class="manufacturer_sort">
-    <h6>ALPHABETICAL BRAND INDEX:</h6>
-    <ul id="manufacturer_char_filter">
-        <li><a href="http://www.filmtools.com/brands.html?start=*">#</a></li>
-                        <li class=""><a href="http://www.filmtools.com/brands.html?start=A">A</a></li>
-    	                <li class=""><a href="http://www.filmtools.com/brands.html?start=B">B</a></li>
-    	                <li class=""><a href="http://www.filmtools.com/brands.html?start=C">C</a></li>
-    	                <li class=""><a href="http://www.filmtools.com/brands.html?start=D">D</a></li>
-    	                <li class=""><a href="http://www.filmtools.com/brands.html?start=E">E</a></li>
-    	                <li class=""><a href="http://www.filmtools.com/brands.html?start=F">F</a></li>
-    	                <li class=""><a href="http://www.filmtools.com/brands.html?start=G">G</a></li>
-    	                <li class=""><a href="http://www.filmtools.com/brands.html?start=H">H</a></li>
-    	                <li class=""><a href="http://www.filmtools.com/brands.html?start=I">I</a></li>
-    	                <li class=""><a href="http://www.filmtools.com/brands.html?start=J">J</a></li>
-    	                <li class=""><a href="http://www.filmtools.com/brands.html?start=K">K</a></li>
-    	                <li class=""><a href="http://www.filmtools.com/brands.html?start=L">L</a></li>
-    	                <li class=""><a href="http://www.filmtools.com/brands.html?start=M">M</a></li>
-    	                <li class=""><a href="http://www.filmtools.com/brands.html?start=N">N</a></li>
-    	                <li class=""><a href="http://www.filmtools.com/brands.html?start=O">O</a></li>
-    	                <li class=""><a href="http://www.filmtools.com/brands.html?start=P">P</a></li>
-    	                <li class=""><a href="http://www.filmtools.com/brands.html?start=Q">Q</a></li>
-    	                <li class=""><a href="http://www.filmtools.com/brands.html?start=R">R</a></li>
-    	                <li class=""><a href="http://www.filmtools.com/brands.html?start=S">S</a></li>
-    	                <li class=""><a href="http://www.filmtools.com/brands.html?start=T">T</a></li>
-    	                <li class=""><a href="http://www.filmtools.com/brands.html?start=U">U</a></li>
-    	                <li class=""><a href="http://www.filmtools.com/brands.html?start=V">V</a></li>
-    	                <li class=""><a href="http://www.filmtools.com/brands.html?start=W">W</a></li>
-    	                <li class=""><a href="http://www.filmtools.com/brands.html?start=X">X</a></li>
-    	                <li class=""><a href="http://www.filmtools.com/brands.html?start=Y">Y</a></li>
-    	                <li class=""><a href="http://www.filmtools.com/brands.html?start=Z">Z</a></li>
-    	    </ul>
+<a href="#" onclick="return fblogin();">
+    <img src="http://pull02.moviola.netdna-cdn.com/skin/frontend/base/default/images/belvg/fb.gif&#10;                " alt="Connect with Facebook">
+</a>
+    </li>
+				</ul>
+		</section>
+	</nav>
+</div>
+<nav class="tab-bar show-for-small">
+	<section class="left-small">
+		<a class="left-off-canvas-toggle menu-icon" href="#"><span></span></a>
+	</section>
+
+	<section class="middle tab-bar-section">
+		<a href="http://www.filmtools.com/" title="Filmtools" class="logo"><img src="http://pull02.moviola.netdna-cdn.com/skin/frontend/filmtools/default/images/FilmtoolsSnow-small.png" alt="Filmtools"></a>
+	</section>
+
+	<section class="right-small">
+		<a class="right-off-canvas-toggle menu-icon" href="#"><span></span></a>
+	</section>
+</nav>
+<!-- Off canvas - left -->
+<aside class="left-off-canvas-menu">
+	
+<ul class="off-canvas-list">
+
+	<li><label>Categories</label></li>
+			<li>
+			<a href="http://www.filmtools.com/gripdept.html">
+				Grip &amp; Electrical			</a>
+		</li>
+			<li>
+			<a href="http://www.filmtools.com/carts-dollies-1.html">
+				Carts &amp; Dollies			</a>
+		</li>
+			<li>
+			<a href="http://www.filmtools.com/digital-storage.html">
+				Storage 			</a>
+		</li>
+			<li>
+			<a href="http://www.filmtools.com/ligdep.html">
+				Lighting			</a>
+		</li>
+			<li>
+			<a href="http://www.filmtools.com/sounddept.html">
+				Sound			</a>
+		</li>
+			<li>
+			<a href="http://www.filmtools.com/cameradept.html">
+				Camera &amp; Accessories			</a>
+		</li>
+			<li>
+			<a href="http://www.filmtools.com/expendables.html">
+				Expendables			</a>
+		</li>
+			<li>
+			<a href="http://www.filmtools.com/tapesandadhesives.html">
+				Tapes &amp; Adhesives			</a>
+		</li>
+			<li>
+			<a href="http://www.filmtools.com/filmtools-exclusives.html">
+				Filmtools Exclusives			</a>
+		</li>
+			<li>
+			<a href="http://www.filmtools.com/more.html">
+				More			</a>
+		</li>
+	
+	<li><label>More Information</label></li>
+						<li><a href="http://blog.filmtools.com" title="Blog" target="_blank">Blog</a></li>
+								<li><a href="http://filmtoolsrentals.com" title="Rentals" target="_blank">Rentals</a></li>
+								<li><a href="/filmtools-1400-w-burbank.html" title="Store Location &amp; Hours">Store Location &amp; Hours</a></li>
+								<li><a href="https://www.filmtools.com/customer/account/login/" title="Register/Login">Register/Login</a></li>
+			
+</ul>
+</aside>
+<!-- Off canvas - right -->
+<aside class="right-off-canvas-menu">
+	<ul class="off-canvas-list">
+	<li><label>Cart</label></li>
+		<li><div class="cart-no-items">You have no items in your cart</div></li>
+	</ul>
+</aside>
+<form id="search_mini_form_mobile" class="show-for-small-only" action="http://www.filmtools.com/catalogsearch/result/" method="get">
+	<div class="row collapse">
+		<div class="small-10 large-10 columns">
+			<input id="search_mobile" type="search" name="q" value="" class="input-text" maxlength="128" placeholder="Search by Keyword or Item #">
+		</div>
+		<div class="small-2 large-2 columns">
+			<input type="submit" value="" class="button postfix">
+		</div>
+	</div>
+</form>
+<div class="header-container">
+	<div class="row header hide-for-small">
+		<div class="medium-6 columns">
+					<a href="http://www.filmtools.com/" title="Filmtools" class="logo"><img src="http://pull02.moviola.netdna-cdn.com/skin/frontend/filmtools/default/images/FilmtoolsSnow-small.png" alt="Filmtools"></a>
+				</div>
+		<div class="medium-4 columns">
+			<form id="search_mini_form" action="http://www.filmtools.com/catalogsearch/result/" method="get">
+	<div class="row collapse">
+		<div class="small-10 large-10 columns">
+			<input type="search" id="search" name="q" value="" class="input-text" maxlength="128" placeholder="Search by Keyword or Item #">
+		</div>
+		<div class="small-2 large-2 columns">
+			<input type="submit" value="" class="button postfix">
+		</div>
+	</div>
+	<div id="search_autocomplete" class="search-autocomplete"></div>
+</form>
+		</div>
+		<div class="medium-2 columns" style="padding: 0;">
+							<a class="cart-link" href="http://www.filmtools.com/checkout/cart/" data-dropdown="header-cart" aria-controls="header-cart" aria-expanded="false">
+			<div class="cart-container">
+				<span class="cart-icon"></span>
+				<span class="cart-count">0</span>
+			</div>
+			<span class="price">$0.00</span>		</a>
+	
+		<div id="header-cart" data-dropdown-content="" aria-hidden="true" tabindex="-1">
+										<p class="empty">You have no items in your shopping cart.</p>
+						<div class="actions">
+							<a class="button" href="http://www.filmtools.com/checkout/cart/">Shopping Cart</a>
+			</div>
+			<div class="till-free-shipping">
+																		Add Only <span class="price">$50.00</span> for FREE Shipping!										</div>
+		</div>
+		</div>
+	</div>
+		<div class="nav-container hide-for-small">
+		<div class="row">
+			<ul id="nav" data-equalizer="">
+				<li class="level0 nav-1 first level-top parent category-node-289"><a href="http://www.filmtools.com/gripdept.html" class="item"><div class="item-name" data-equalizer-watch=""><span>Grip &amp; Electrical</span></div></a></li><li class="level0 nav-2 level-top parent category-node-120"><a href="http://www.filmtools.com/carts-dollies-1.html" class="item"><div class="item-name" data-equalizer-watch=""><span>Carts &amp; Dollies</span></div></a></li><li class="level0 nav-3 level-top parent category-node-69"><a href="http://www.filmtools.com/digital-storage.html" class="item"><div class="item-name" data-equalizer-watch=""><span>Storage </span></div></a></li><li class="level0 nav-4 level-top parent category-node-288"><a href="http://www.filmtools.com/ligdep.html" class="item"><div class="item-name" data-equalizer-watch=""><span>Lighting</span></div></a></li><li class="level0 nav-5 level-top parent category-node-287"><a href="http://www.filmtools.com/sounddept.html" class="item"><div class="item-name" data-equalizer-watch=""><span>Sound</span></div></a></li><li class="level0 nav-6 level-top parent category-node-286"><a href="http://www.filmtools.com/cameradept.html" class="item"><div class="item-name" data-equalizer-watch=""><span>Camera &amp; Accessories</span></div></a></li><li class="level0 nav-7 level-top parent category-node-138"><a href="http://www.filmtools.com/expendables.html" class="item"><div class="item-name" data-equalizer-watch=""><span>Expendables</span></div></a></li><li class="level0 nav-8 level-top parent category-node-1069"><a href="http://www.filmtools.com/tapesandadhesives.html" class="item"><div class="item-name" data-equalizer-watch=""><span>Tapes &amp; Adhesives</span></div></a></li><li class="level0 nav-9 level-top parent category-node-1064"><a href="http://www.filmtools.com/filmtools-exclusives.html" class="item"><div class="item-name" data-equalizer-watch=""><span>Filmtools Exclusives</span></div></a></li><li class="level0 nav-10 last level-top parent category-node-290"><a href="http://www.filmtools.com/more.html" class="item"><div class="item-name" data-equalizer-watch=""><span>More</span></div></a></li>			</ul>
+		</div>
+	</div>
+   <!--  <div class="announce">
+        </div> -->
+			<div class="manufacturer-sort hide-for-small">
+	<div class="row">
+		<h6>ALPHABETICAL BRAND:</h6>
+		<ul id="manufacturer_char_filter">
+			<li><a href="http://www.filmtools.com/brands.html?start=*">#</a></li>
+									<li class=""><a href="http://www.filmtools.com/brands.html?start=A">A</a></li>
+									<li class=""><a href="http://www.filmtools.com/brands.html?start=B">B</a></li>
+									<li class=""><a href="http://www.filmtools.com/brands.html?start=C">C</a></li>
+									<li class=""><a href="http://www.filmtools.com/brands.html?start=D">D</a></li>
+									<li class=""><a href="http://www.filmtools.com/brands.html?start=E">E</a></li>
+									<li class=""><a href="http://www.filmtools.com/brands.html?start=F">F</a></li>
+									<li class=""><a href="http://www.filmtools.com/brands.html?start=G">G</a></li>
+									<li class=""><a href="http://www.filmtools.com/brands.html?start=H">H</a></li>
+									<li class=""><a href="http://www.filmtools.com/brands.html?start=I">I</a></li>
+									<li class=""><a href="http://www.filmtools.com/brands.html?start=J">J</a></li>
+									<li class=""><a href="http://www.filmtools.com/brands.html?start=K">K</a></li>
+									<li class=""><a href="http://www.filmtools.com/brands.html?start=L">L</a></li>
+									<li class=""><a href="http://www.filmtools.com/brands.html?start=M">M</a></li>
+									<li class=""><a href="http://www.filmtools.com/brands.html?start=N">N</a></li>
+									<li class=""><a href="http://www.filmtools.com/brands.html?start=O">O</a></li>
+									<li class=""><a href="http://www.filmtools.com/brands.html?start=P">P</a></li>
+									<li class=""><a href="http://www.filmtools.com/brands.html?start=Q">Q</a></li>
+									<li class=""><a href="http://www.filmtools.com/brands.html?start=R">R</a></li>
+									<li class=""><a href="http://www.filmtools.com/brands.html?start=S">S</a></li>
+									<li class=""><a href="http://www.filmtools.com/brands.html?start=T">T</a></li>
+									<li class=""><a href="http://www.filmtools.com/brands.html?start=U">U</a></li>
+									<li class=""><a href="http://www.filmtools.com/brands.html?start=V">V</a></li>
+									<li class=""><a href="http://www.filmtools.com/brands.html?start=W">W</a></li>
+									<li class=""><a href="http://www.filmtools.com/brands.html?start=X">X</a></li>
+									<li class=""><a href="http://www.filmtools.com/brands.html?start=Y">Y</a></li>
+									<li class=""><a href="http://www.filmtools.com/brands.html?start=Z">Z</a></li>
+					</ul>
+	</div>
 </div>
 
-    </div>
-        <!--{GLOBAL_MESSAGES_aae3749ba9c2e308ffa9c240ac185959}--><!--/{GLOBAL_MESSAGES_aae3749ba9c2e308ffa9c240ac185959}-->        <div class="breadcrumbs">
-    <ul>
-                    <li class="home">
-                            <a href="http://www.filmtools.com/" title="Go to Home Page">Home</a>
-                                        <span>|</span>
-                        </li>
-                    <li class="cms_page">
-                            <strong>Privacy Policy</strong>
-                                    </li>
-            </ul>
 </div>
-        <div class="main col1-layout">
-            <div class="col-main">
-                    <div class="page-title">
+			<a class="exit-off-canvas"></a>
+			<section role="main" class="main-container">
+				<div class="row main">
+					<div class="small-12 columns">
+												<nav class="breadcrumbs hide-for-small-only" role="menubar" aria-label="breadcrumbs">
+					<a href="http://www.filmtools.com/" title="Go to Home Page">Home</a>
+							<a href="#" class="current">Privacy Policy</a>
+			</nav>
+						    <div class="page-title">
         <h1>Privacy Policy</h1>
     </div>
-<div class="std"><!--{MESSAGES_3f9737c153d854d9f0c5395ce4cdb394}--><!--/{MESSAGES_3f9737c153d854d9f0c5395ce4cdb394}--><p style="color: #ff0000; font-weight: bold; font-size: 13px;">Privacy Policy for Filmtools.com</p>
+<div class="std"><p style="color: #ff0000; font-weight: bold; font-size: 13px;">Privacy Policy for Filmtools.com</p>
 <p>We at Filmtools respect your privacy and are committed to protecting it. The following privacy policy applies only to Filmtool's retail Web site (www.filmtools.com). We will not sell, trade or rent any of your personal information to any third parties.</p>
 <p>We collect customer information when you purchase online and when an account is established or updated. The information we collect is to improve our customer's shopping experience and to communicate with our customers about new products, services and promotions. In addition, customers who supply us with their telephone numbers will only receive telephone contact from us with information regarding orders they have placed online. If you prefer to have your contact information removed, you may contact us at&nbsp;818-845-8066 or email us at customerservice@filmtools.com.</p>
 <p><strong>With respect to Cookies and Ad Servers:</strong>&nbsp;A cookie is a piece of data stored on the user's hard drive containing information about the user. Usage of a cookie is in no way linked to any personally identifiable information while on our site. We use cookies to store visitors' preferences and store visitor information for checkout and site improvement purposes. We do not partner with or have special relationships with any ad server companies.</p>
@@ -1254,90 +363,171 @@ jQuery(document).ready(function(){
 <li>1400 W. Burbank Blvd.</li>
 <li>Burbank, CA 91506</li>
 </ul>
-</ol></div>            </div>
-        </div>
-                <div class="footer-container">
-    <div class="footer">
-    	<div class="content clearfix">
-            <div class="links-container content-block">
-<h5>Help</h5>
-<ul class="links">
-<li><a title="Shipping Information" href="/customer-service.html#shipping01">Shipping Information</a></li>
-<li><a href="/customer-service.html#shipping09" target="_self">Free Shipping Offer</a></li>
-<li><a title="Order Tracking" href="/sales/order/history/">Order Tracking</a></li>
-<li><a title="Cancel/Change Order" href="/sales/order/history/">Cancel/Change Order</a></li>
-<li><a title="Return Policy" href="/customer-service.html#returns01">Return Policy</a></li>
-<li><a title="Unsubscribe" href="/customer-service.html#company04">Unsubscribe</a></li>
-<li><a title="F.A.Q." href="/customer-service.html">F.A.Q.</a></li>
-<li><a title="Contact Us" href="/contactus.html">Contact Us</a></li>
-</ul>
+</ol></div>					</div>
+				</div>
+			</section>
+						<div class="footer-container">
+	<div class="footer row">
+		<div class="small-12 columns footer-newsletter">
+	<div class="row">
+		<div class="title small-12 medium-8 columns">
+			<h3>Enter your e-mail address to get the Latest Deals and Special Offers</h3>
+		</div>
+		<div class="small-12 medium-4 columns">
+			<form action="https://www.filmtools.com/newsletter/subscriber/new/" method="post" id="newsletter-validate-detail">
+				<div class="row">
+					<div class="small-12 columns">
+						<div class="row collapse">
+							<div class="small-7 medium-8 large-9 columns">
+							   <input type="email" name="email" id="newsletter" title="Subscribe for Special Offers and News" class="input-text required-entry validate-email" placeholder="E-Mail Address">
+							</div>
+							<div class="small-5 medium-4 large-3 columns">
+								<input type="submit" title="SUBSCRIBE" class="button postfix" value="Sign Up">
+							</div>
+						</div>
+					</div>
+				</div>
+			</form>
+		</div>
+		<script type="text/javascript">
+		//<![CDATA[
+			var newsletterSubscriberFormDetail = new VarienForm('newsletter-validate-detail');
+		//]]>
+		</script>
+	</div>
 </div>
-<div class="links-container content-block">
-<h5>Company</h5>
-<ul class="links">
-<li><a title="About Us" href="/aboutus">About Us</a></li>
-<li><a title="Store Location" href="/filmtools-1400-w-burbank.html">Store Location</a></li>
-<li><a title="Events" href="/events.html">Events</a></li>
-<li><a title="Career Opportunities" href="/jobs">Career Opportunities</a></li>
-<li><a title="Privacy Policy" href="/privacy-policy-cookie-restriction-mode">Privacy Policy</a></li>
-<li><a title="Filmtools Swag" href="/apparel/filmtools-swag.html">Filmtools Swag</a></li>
-<li><a title="Filmtools is UpFront" href="http://www.thefind.com/store/about-filmtools">Filmtools is UpFront</a></li>
-<li><a title="My Account" href="/customer/account/">My Account</a></li>
-<li><a title="Rentals" href="http://filmtoolsrentals.com/">Rentals</a></li>
-<li><a title="Blog" href="http://blog.filmtools.com/">Blog</a></li>
-</ul>
-</div>            <div class="footer-links-mobile respond"><select onchange="window.location.href=this.value;"> <optgroup label="Help"> <option value="/aboutus">Shipping Information</option> <option value="/sales/order/history">Order Tracking</option> <option value="/sales/order/history">Cancel/Change Order</option> <option value="/customer-service.html#returns01">Return Policy</option> <option value="/customer-service.html#company04">Unsubscribe</option> <option value="/customer-service.html">F.A.Q.</option> <option value="/emailus.html">Contact Us</option> <option value="/customer/account">My Account</option> </optgroup> <optgroup label="Company"> <option value="/aboutus">About Us</option> <option value="/customer/account">Store Location</option> <option value="/events">Events</option> <option value="/jobs">Career Opportunities</option> <option value="/privacy-policy-cookie-restriction-mode">Privacy Policy</option> <option value="/apparel/filmtools-swag.html">Filmtools Swag</option> <option value="http://www.thefind.com/store/about-filmtools">Filmtools is UpFront</option> </optgroup> </select></div>    		    		<div class="social-links-container content-block">
-    			<h5>Follow Us!</h5>
-    			<ul class="links">
-    				<li class="google"><a href="https://plus.google.com/+filmtools" title="Google+"><img src="http://www.filmtools.com/skin/frontend/enterprise/filmtools/images/footer/social/google.jpg" alt="Google +" width="49" height="48"></a></li>
-    				<li class="facebook"><a href="https://www.facebook.com/filmtools" title="Facebook"><img src="http://www.filmtools.com/skin/frontend/enterprise/filmtools/images/footer/social/facebook.jpg" alt="facebook" width="49" height="48"></a></li>
-    				<li class="twitter"><a href="https://twitter.com/Filmtools" title="Twitter"><img src="http://www.filmtools.com/skin/frontend/enterprise/filmtools/images/footer/social/twitter.jpg" alt="twitter" width="48" height="48"></a></li>
-    				<li class="youtube"><a href="http://www.youtube.com/user/filmtools?3e3ea140" title="YouTube"><img src="http://www.filmtools.com/skin/frontend/enterprise/filmtools/images/footer/social/youtube.jpg" alt="youtube" width="48" height="48"></a></li>
-    				<li class="imdb"><a href="http://www.imdb.com/company/co0244588/" title="IMDB"><img src="http://www.filmtools.com/skin/frontend/enterprise/filmtools/images/footer/social/imdb.jpg" alt="imdb" width="48" height="48"></a></li>
-	    		</ul>
-	    		<div class="blog"><a href="http://blog.filmtools.com" title="Read the Filmtools Blog Here">Read the Filmtools Blog Here</a></div>
-    		</div>
-    		<div class="sign-up-container content-block">
-    			<form action="https://www.filmtools.com/newsletter/subscriber/new/" method="post" id="newsletter-validate-detail">
-    <div class="form-subscribe">
-    <div class="form-subscribe-header">
-        <label for="newsletter">Get Special Offers and News - Sign Up Now!</label>
-    </div>
-    <div class="form-subscribe-input clearfix">
-    	<input name="email" type="text" id="newsletter" value="Enter your email address" onclick="this.value=='Enter your email address'?this.value='':''" onblur="this.value==''?this.value='Enter your email address':''" class="input-text required-entry validate-email">
-        <button type="submit" class="button" title="SIGN UP!"><span><span>SIGN UP!</span></span></button>
-    </div>        
-    </div>
-</form>
+		<div class="small-12 columns">
+			<ul class="small-block-grid-2 medium-block-grid-4" data-equalizer="">
+				<li data-equalizer-watch="">
+					<dl>
+						<dt>Company</dt>
+						<dd><a href="http://www.filmtools.com/aboutus">About Us</a></dd>
+						<dd><a href="http://www.filmtools.com/filmtools-1400-w-burbank.html">Store Location</a></dd>
+						<dd><a href="http://www.filmtools.com/events.html">Events</a></dd>
+						<dd><a href="http://www.filmtools.com/jobs">Career Opportunities</a></dd>
+						<dd><a href="http://www.filmtools.com/privacy-policy-cookie-restriction-mode">Privacy Policy</a></dd>
+						<dd><a href="http://blog.filmtools.com/" target="_blank">Blog</a></dd>
+						<dd><a href="http://moviola.com/">Training Center</a></dd>
+					</dl>
+				</li>
+				<li data-equalizer-watch="">
+					<dl>
+						<dt>Help</dt>
+						<dd><a href="http://www.filmtools.com/customer-service.html#shipping01">Shipping Information</a></dd>
+						<dd><a href="http://www.filmtools.com/sales/order/history/">Order Tracking</a></dd>
+						<dd><a href="http://www.filmtools.com/customer-service.html#returns01">Return Policy</a></dd>
+						<dd><a href="http://www.filmtools.com/customer-service.html">F.A.Q.</a></dd>
+						<dd><a href="http://www.filmtools.com/contactus.html">Contact Us</a></dd>
+					</dl>
+				</li>
+				<li class="why-shop" data-equalizer-watch="">
+					<dl>
+						<dt>Why Shop Filmtools?</dt>
+						<dd><span class="filmmakers">Because we're Filmmakers too!</span></dd>
+						<dd><span class="google-trusted">Google Trusted Store</span></dd>
+						<dd><span class="same-day">Same-Day Shipping</span></dd>
+						<dd><span class="moviola">Free Training on moviola.com</span></dd>
+						<dd><span class="shipping">Fast &amp; Free shipping</span></dd>
+						<dd><span class="no-tax">No Sales Tax outside California</span></dd>
+						<dd><span class="items-instock">Over 5000 items in stock</span></dd>
+					</dl>
+				</li>
+				<li class="social" data-equalizer-watch="">
+					<dl>
+						<dt>Connect With Us</dt>
+						<dd><a href="https://www.facebook.com/filmtools"><span class="facebook"></span>Facebook</a></dd>
+						<dd><a href="https://twitter.com/Filmtools"><span class="twitter"></span>Twitter</a></dd>
+						<dd><a href="http://www.youtube.com/user/filmtools?3e3ea140"><span class="youtube"></span>Youtube</a></dd>
+						<dd><a href="https://instagram.com/filmtools/"><span class="instagram"></span>Instagram</a></dd>
+						<dd><a href="https://plus.google.com/+filmtools"><span class="googleplus"></span>Google+</a></dd>
+						<dd><a href="http://www.imdb.com/company/co0244588/"><span class="imdb"></span>IMDb</a></dd>
+					</dl>
+				</li>
+			</ul>
+<!-- 
+			<div class="row social-payment-container">
+				<div class="small-12 medium-7 large-8 columns">
+					<ul class="small-block-grid-3 medium-block-grid-6">
+							<li><div class="fb-like" data-href="https://www.facebook.com/filmtools" data-layout="button" data-action="like" data-show-faces="false" data-share="true"></div></li>
+							<li><div id="twitter-follow"></div></li>
+							<li><div class="g-follow" data-href="https://plus.google.com/+filmtools" data-annotation="none" rel="publisher"></div></li>
+							<li><a data-pin-do="buttonFollow" href="http://www.pinterest.com/FilmtoolsPins/">Follow Filmtools</a></li>
+							<li>IMDb</li>
+							<li>You Tube</li>
+					</ul>
+				</div>
+				<div class="small-12 medium-5 large-4 columns">
+					<ul class="inline-list payment-methods text-right">
+						<li><img src="http://pull02.moviola.netdna-cdn.com/skin/frontend/filmtools/default/images/american-express.png"></li>
+						<li><img src="http://pull02.moviola.netdna-cdn.com/skin/frontend/filmtools/default/images/discover.png"></li>
+						<li><img src="http://pull02.moviola.netdna-cdn.com/skin/frontend/filmtools/default/images/master-card.png"></li>
+						<li><img src="http://pull02.moviola.netdna-cdn.com/skin/frontend/filmtools/default/images/paypal.png"></li>
+						<li><img src="http://pull02.moviola.netdna-cdn.com/skin/frontend/filmtools/default/images/visa.png"></li>
+					</ul>
+				</div>
+			</div>
+-->
+			<!-- <div style="text-align:center;"><img src="http://pull02.moviola.netdna-cdn.com/skin/frontend/filmtools/default/images/footer-pics.png"></div> -->
+								</div>
+	</div>
+</div>
+<div class="copyright-container">
+	<div class="row">
+		<div class="small-12 columns">
+			<div class="copyright">
+				<p>Copyright © 2015 Filmtools, a Magnasync/Moviola Company. </p>
+			</div>
+		</div>
+	</div>
+</div>
+		</div>
+	</div>
+			<div id="fb-root"></div>
 <script type="text/javascript">
-//<![CDATA[
-    var newsletterSubscriberFormDetail = new VarienForm('newsletter-validate-detail');
-//]]>
-</script>
-    			<div class="icons clearfix">
-                    <div class="secured"><a href=""><img src="http://www.filmtools.com/skin/frontend/enterprise/filmtools/images/footer/safe/secured.jpg" alt="" width="47" height="76"></a></div>
-                    <div class="norton">
-<span id="siteseal"><script type="text/javascript" src="https://seal.godaddy.com/getSeal?sealID=AdTeLgE8deczima3xvHiRO61UyW9OyW5BGIJlGO309HYKNlNyKBW"></script></span>
-</div>
-    				<ul class="pay">
-    					<li><a href=""><img src="http://www.filmtools.com/skin/frontend/enterprise/filmtools/images/footer/pay/visa.jpg" alt="" width="27" height="16"></a></li>
-    					<li><a href=""><img src="http://www.filmtools.com/skin/frontend/enterprise/filmtools/images/footer/pay/mc.jpg" alt="" width="29" height="16"></a></li>
-    					<li><a href=""><img src="http://www.filmtools.com/skin/frontend/enterprise/filmtools/images/footer/pay/dor.jpg" alt="" width="28" height="16"></a></li>
-		                <li><a href=""><img src="http://www.filmtools.com/skin/frontend/enterprise/filmtools/images/footer/pay/jcb.jpg" alt="" width="30" height="16"></a></li>
-    					<li><a href=""><img src="http://www.filmtools.com/skin/frontend/enterprise/filmtools/images/footer/pay/paypal.jpg" alt="" width="35" height="16"></a></li>    
-    				</ul>   				
-    			</div>
-    		</div>
-    		<div class="clear"></div>
-    		        	
-    	</div> 
-        <address class="copyright">Copyright © 2015 Filmtools, a Magnasync/Moviola Company. </address>      
-    </div>
-</div>
-<a href="javascript:void(0)" class="splitshipments" style="display: none;"></a>
-<a class="fancybox-result" href="" style="display: none;"></a>
+    window.fbAsyncInit = function() {
+        FB.init({
+            appId: '1675208379413181', // App ID
+            status: true, // check login status
+            version:'v2.5',
+            cookie: true, // enable cookies to allow the server to access the session
+            xfbml: true  // parse XFBML
+        });
 
-        <!--{WISHLISTS_d6769d83192e1c77ec5198ac3fec7a63}--><!--/{WISHLISTS_d6769d83192e1c77ec5198ac3fec7a63}-->
+    };
+
+    // Load the SDK Asynchronously
+    (function(d) {
+        var js, id = 'facebook-jssdk', ref = d.getElementsByTagName('script')[0];
+        if (d.getElementById(id)) {
+            return;
+        }
+        js = d.createElement('script');
+        js.id = id;
+        js.async = true;
+        js.src = "//connect.facebook.net/en_US/all.js";
+        ref.parentNode.insertBefore(js, ref);
+    }(document));
+
+    function fblogin() {
+        try {
+            FB.login(function(response) {
+                if (response.status == 'connected') {
+                    var url = 'http://www.filmtools.com/facebook/customer/login/referer/aHR0cDovL3d3dy5maWxtdG9vbHMuY29tL3ByaXZhY3ktcG9saWN5LWNvb2tpZS1yZXN0cmljdGlvbi1tb2Rl/';
+                    setLocation(url);
+                } else if (response.status === 'not_authorized') {
+                    alert('Please, approve our application');
+                } else {
+                    // user is not logged in
+                    window.location.reload();
+                }
+            }, {scope: 'email,user_birthday'});
+        } catch (err) {
+            fblogin();
+        }
+        return false;
+    }
+</script>
+
 <!-- BEGIN: Google Trusted Stores -->
 <script type="text/javascript">
 var gts = gts || [];
@@ -1361,8 +551,6 @@ gts.push(["google_base_language", "en"]);
 </script>
 <!-- END: Google Trusted Stores -->
 
-    </div>
-</div>
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"2791e591b5","applicationID":"2328056","transactionName":"MQQENxdRV0AFUEBcDQhOJwARWVZdS1BZRk0WAAEGSkZQVhM=","queueTime":0,"applicationTime":617,"ttGuid":"","agentToken":"","atts":"HUMHQV9LRE4=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-632.min.js"}</script>
+
 
 </body></html>
