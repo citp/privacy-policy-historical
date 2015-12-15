@@ -1,8 +1,11 @@
-> *The following text is extracted and transformed from the buyersresourcecentre.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230054530id_/http%3A//www.redcross.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buyersresourcecentre.com privacy policy that was archived on 2015-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151215112046id_/http%3A//www.redcross.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | American Red Cross
 
-The American Red Cross respects the privacy of every visitor to our website. Your privacy is a priority, and we go to great lengths to protect it. This Internet Site Privacy Policy explains our online information practices. This Policy may be changed or updated from time to time. By visiting the Red Cross at [www.redcross.org](http://www.redcross.org/), you accept the practices described in this Policy.
+  * [ Home ](https://web.archive.org/) ›
+  * Privacy Policy 
+
+
 
 Through our website, we offer convenient online access to our services and communicate with you about important opportunities and events. We will not collect personal information from you when you visit our website unless you provide the information to us voluntarily and knowingly.
 
