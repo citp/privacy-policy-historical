@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the theinfong.com privacy policy that was archived on 2015-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150617234810id_/http%3A//theinfong.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theinfong.com privacy policy that was archived on 2015-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151215222750id_/http%3A//theinfong.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - TheInfoNG.com
 
-[](http://theinfong.com/wp-content/uploads/2015/01/THEINFONG-NEW-DP2.png)
+[](http://i0.wp.com/theinfong.com/wp-content/uploads/2015/01/THEINFONG-NEW-DP2.png)
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at **[theinfong@gmail.com](mailto:theinfong@gmail.com "Send Email")**. At theinfong.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information received and collected by TheInfoNG.com and how it is used.
 
