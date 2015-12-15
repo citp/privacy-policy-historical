@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the capitalfm.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627005638id_/http%3A//www.capitalfm.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the capitalfm.com privacy policy that was archived on 2015-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151215214054id_/http%3A//www.capitalfm.com/privacy-policy) for the most accurate reproduction.*
 
 # Global Radio Privacy Policy - capitalfm.com - Capital FM
 
