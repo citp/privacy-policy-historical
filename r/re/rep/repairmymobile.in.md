@@ -1,10 +1,11 @@
-> *The following text is extracted and transformed from the repairmymobile.in privacy policy that was archived on 2015-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150617013433id_/http%3A//repairmymobile.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the repairmymobile.in privacy policy that was archived on 2015-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151215120346id_/http%3A//repairmymobile.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - RepairMyMobile.in
 
 http://repairmymobile.in/ has two sub-domain which are:-  
 i- http://forum.repairmymobile.in/  
-ii- http://directory.repairmymobile.in/  
+ii- http://directory.repairmymobile.in/
+
 **1- What information do we collect?**  
 We collect information from you when you register on our site, place an order, subscribe to our newsletter, respond to a survey or fill out a form. When ordering or registering on our site, as appropriate, you may be asked to enter your: name or e-mail address. You may, however, visit our site anonymously.
 
@@ -56,6 +57,11 @@ We can use your communication as per requirement from time to time. We also have
 **12- Warranty Disclaimer**
 
 We are not responsible for any Warranty issued by third party and if you are buying product from us and we have offered warranty on that product, then you have to courier the products with your cost with no physical damage.
+
+**13- Content Disclaimer on http://directory.repairmymobile.in  
+**
+
+We communicates information provided and created by advertisers, content partners, users, resellers and other third parties. Attempts are made to verify the authenticity of the shops and service center, the accuracy of such content, integrity or quality of such content and the information on our pages,  and we make no guarantees, nor can we be responsible for any such information, including its authenticity, content, quality, copyright compliance or legality, or any other intellectual property rights compliance, or any resulting loss or damage. Further, we are not liable for any kind of damages, losses or action arising directly or indirectly due to any content, including any errors or omissions in any content, access and/or use of the content on the Platforms or any of them including but not limited to content based decisions resulting in loss of data, revenue, profits, property, infection by viruses etc.
 
 **Your Consent**  
 By using our site, you consent to our websites privacy policy.
