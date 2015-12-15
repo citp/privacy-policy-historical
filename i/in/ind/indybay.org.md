@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indybay.org privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120202602id_/http%3A//www.indybay.org/news/2003/12/1665906.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indybay.org privacy policy that was archived on 2015-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151215120350id_/https%3A//www.indybay.org/news/2003/12/1665906.php) for the most accurate reproduction.*
 
 # Privacy Policy : Indybay
 
@@ -16,7 +16,7 @@ The SF Bay Area IMC web site contains links to other websites, whether controlle
 
 Currently, the SF Bay Area IMC uses personal information as a basis for identifying the authors of published articles, and in order to allow individual user login to certain site functions, including ratings and admin. Names (and additional information that a user may choose to post) are publicly available on the SF Bay Area IMC site.
 
-All e-mail sent to the SF Bay Area IMC is stored and publicly accessible at the [list archive](http://lists.indymedia.org/), including the sender's reported name and e-mail address.
+All e-mail sent to the SF Bay Area IMC is stored and accessible to members of Indybay's private email list, including the sender's reported name and e-mail address.
 
 #### CHOICE
 
@@ -27,7 +27,7 @@ Subscription-based News Emails
 Other Notification
     In order to arrange for the production of web content, print publications, and audio and video features, the SF Bay Area IMC may use personal information to contact users on an individual basis.
 Name, E-mail, Phone Number, Address Display
-    Users' personal information may be publicly available through a user's published articles. Users have the option to opt out of publicly displaying their real names by typing in a pseudonym; users may choose to not disclose address or telephone contact information at all. Requests to remove personal identifying information from published articles must be e-mailed to [sfbay-web@lists.indymedia.org](mailto:sfbay-web@lists.indymedia.org).
+    Users' personal information may be publicly available through a user's published articles. Users have the option to opt out of publicly displaying their real names by typing in a pseudonym; users may choose to not disclose address or telephone contact information at all. Requests to remove personal identifying information from published articles must be e-mailed to [indybay@lists.riseup.net](mailto:indybay@lists.riseup.net).
 General
     In cases where users voluntarily and publicly disclose personal information in conjunction with content published subject to the SF Bay Area IMC content usage policy, such personal information may or may not be disclosed as part of a non-commercial assemblage of Indymedia content, whether in print, electronic, audio or video. The producers of any such compilation will make every effort to contact the original author to determine whether credit/disclosure is desired.
 
@@ -37,7 +37,7 @@ The SF Bay Area IMC e-mail lists, hosted at lists.indymedia.org, are configured 
 
 #### ACCESS
 
-When technically feasible, users will be permitted to update their personal information directly through SF Bay Area IMC web site services. While such updating service is not technically feasible, the SF Bay Area IMC will make reasonable efforts to assist users in updating their personal information. Please e-mail [sfbay-web@lists.indymedia.org](mailto:sfbay-web@lists.indymedia.org) for assistance.
+When technically feasible, users will be permitted to update their personal information directly through SF Bay Area IMC web site services. While such updating service is not technically feasible, the SF Bay Area IMC will make reasonable efforts to assist users in updating their personal information. Please e-mail [indybay@lists.riseup.net](mailto:indybay@lists.riseup.net) for assistance.
 
 #### SECURITY
 
@@ -47,7 +47,7 @@ To secure site integrity, the SF Bay Area IMC employs measures including but not
 
 In the event that the SF Bay Area IMC becomes aware that site security is compromised or nonpublic user information has been disclosed to unrelated third parties as a result of external activity, including but not limited to law enforcement activities or external security attacks, the SF Bay Area IMC shall take reasonable measures which it deems appropriate, including internal investigation and, if required, cooperation with our web hosts.
 
-If the SF Bay Area IMC becomes aware that a user's personal information provided to the SF Bay Area IMC has been disclosed in a manner not permitted by this Privacy Policy, the SF Bay Area IMC shall make reasonable efforts to notify the affected user, as soon as reasonably possible, of what information has been disclosed, to the extent that the SF Bay Area IMC knows this information.
+If the SF Bay Area IMC becomes aware that a user's personal information provided to the SF Bay Area IMC has been disclosed in a manner not permitted by this Privacy Policy, the SF Bay Area IMC shall make reasonable efforts to notify the affected user, as soon as reasonably possible, of what information has been disclosed, to the extent that the SF Bay Area IMC knows this information. 
 
 #### SECURE HTTP
 
@@ -56,9 +56,8 @@ To browse or publish to Indybay using SSL encryption (HTTPS), please use <https:
 To better protect readers' and contributors' privacy, Indybay has implemented HTTP strict transport security, OCSP stapling and SSL forward secrecy.
 
 Users should verify that the site they are reading or publishing to really is Indybay by verifying the site's SSL certificate fingerprints in their browser:  
-SHA-256 Fingerprint 70 FD 23 FB 86 D6 2D D8 D1 C3 2F 59 5B 40 5C E8 4D E5 7D 63 FC 1C DE 1A EC 67 1F 12 98 8E 9C 50  
-SHA-1 Fingerprint 9C 33 E3 CE 50 A6 C1 38 FC C3 71 3C F7 BF C0 20 90 69 A5 BC
+SHA-256 Fingerprint 1F 6F BF 25 6C BE 89 2F DE 6D 6A 96 68 55 4E 28 3B C1 7D 25 1A D4 08 78 06 2E 32 23 FD 05 88 35
 
 #### UPDATES TO THE PRIVACY POLICY
 
-To update the privacy policy, we will post the changed version and its effective date at <http://www.indybay.org/>.
+To update the privacy policy, we will post the changed version and its effective date at <https://www.indybay.org/>.
