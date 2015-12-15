@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yha.org.uk privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609202849id_/http%3A//www.yha.org.uk/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yha.org.uk privacy policy that was archived on 2015-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151216005936id_/http%3A//www.yha.org.uk/privacy-statement) for the most accurate reproduction.*
 
 # Privacy statement
 
