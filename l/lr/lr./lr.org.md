@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the lr.org privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628210554id_/http%3A//www.lr.org/en/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lr.org privacy policy that was archived on 2015-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151215013204id_/http%3A//www.lr.org/en/privacy-policy.aspx) for the most accurate reproduction.*
 
-# Privacy policy
+# Privacy policy | Lloyd's Register
 
 Lloyd’s Register understands and respects individuals’ right to privacy and is committed to providing on-line data security.
 
@@ -20,7 +20,7 @@ Cookies we used and how we use them:
 
 **Used for?**
 
-|  **Where?** |  **Added to site**  
+| **Where?** | **Added to site**  
 ---|---|---|---  
   
 _utma    
@@ -100,11 +100,18 @@ We may change the content of service found on our site at anytime without notice
 
 You have the right to access personal data that is held about you. To obtain a copy of the personal information we hold about you please write to the address given below.
 
-The Data Protection officer    
-Lloyd's Register Group Services Limited   
-71 Fenchurch Street   
-London   
-EC3M 4BS   
-UK   
-E [chad.colby-blake@lr.org](mailto:chad.colby-blake@lr.org)  
-T +44 (0)20 7709 9166
+The Data Protection Officer (UK & Global),    
+C. Colby-Blake   
+Lloyd’s Register Group Services Ltd   
+71 Fenchurch Street, London EC3M 4BS, UK   
+E: [chad.colby-blake@lr.org](mailto:chad.colby-blake@lr.org)   
+T: +44 (0)20 7423 1724
+
+For Singapore:   
+The Data Protection Officer   
+Joyce Wun   
+Lloyd’s Register Asia   
+1 Fusionopolis place #9-11 Galaxis   
+Singapore 138522   
+E [joyce.wun@lr.org](mailto:joyce.wun@lr.org)   
+T +65 3163 0581
