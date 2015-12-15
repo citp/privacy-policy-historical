@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the exploratorium.edu privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628101930id_/http%3A//exploratorium.edu/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the exploratorium.edu privacy policy that was archived on 2015-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151215063902id_/http%3A//www.exploratorium.edu/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Exploratorium
 
@@ -128,7 +128,7 @@ Some features of the Services are provided by third parties. This includes shari
 
 ####  8.    Changes and Updates to This Policy
 
-We review our privacy policy periodically and may change the policy from time to time to address new issues and reflect changes to the manner in which we gather, use, and share information. If a change we make substantially alters your rights or obligations, we will make reasonable efforts to notify you, such as advising you by email that the policy has changed or posting a notice on our website. All changes to our privacy policy will be posted at [/about/privacy-policy](https://web.archive.org/about/privacy-policy).
+We review our privacy policy periodically and may change the policy from time to time to address new issues and reflect changes to the manner in which we gather, use, and share information. If a change we make substantially alters your rights or obligations, we will make reasonable efforts to notify you, such as advising you by email that the policy has changed or posting a notice on our website. All changes to our privacy policy will be posted at [http://www.exploratorium.edu/about/privacy-policy](https://web.archive.org/about/privacy-policy).
 
 ####  9.    How to Contact Us About Privacy Concerns 
 
