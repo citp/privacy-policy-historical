@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the picturequotes.com privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612233546id_/http%3A//www.picturequotes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the picturequotes.com privacy policy that was archived on 2015-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151215013607id_/http%3A//www.picturequotes.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Picture Quotes
 
@@ -6,11 +6,21 @@ This Privacy Policy governs the manner in which PictureQuotes.com collects, uses
 
 ### Personal identification information
 
-We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, register on the site, fill out a form, and in connection with other activities, services, features or resources we make available on our Site. Before or at the time of collecting personal information, we will identify the purposes for which information is being collected. We will collect and use of personal information solely with the objective of fulfilling those purposes specified by us and for other compatible purposes, unless we obtain the consent of the individual concerned or as required by law. We will only retain personal information as long as necessary for the fulfillment of those purposes. 
+We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, register on the site, fill out a form, and in connection with other activities, services, features or resources we make available on our Site. Before or at the time of collecting personal information, we will identify the purposes for which information is being collected. We will collect and use of personal information solely with the objective of fulfilling those purposes specified by us, unless we obtain the consent of the individual concerned or as required by law. We will only retain personal information as long as necessary for the fulfillment of those purposes. 
 
 ### Non-personal identification information
 
-We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information. We will not facilitate the merging of personally-identifiable information with non-personally identifiable information previously collected from Display Advertising features that is based on the DoubleClick cookie unless we have robust notice of, and the user's prior affirmative (i.e., opt-in) consent to, that merger.
+We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information.
+
+### Cookies And Web Beacons
+
+Our Site may use 'cookies' to enhance User experience. User's web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
+
+Third party vendors, including Google, use cookies to serve ads based on a user's prior visits to your website.
+
+Google's use of the DoubleClick cookie enables it and its partners to serve ads to your users based on their visit to your sites and/or other sites on the Internet.
+
+Users may opt out of the use of the DoubleClick cookie for interest-based advertising by visiting [Ads Settings](https://www.google.com/settings/ads). (Alternatively, you can direct users to opt out of a third-party vendor's use of cookies for interest based advertising by visiting [aboutads.info](http://www.aboutads.info/).)
 
 ### Google Analytics, Remarketing, Display Network Impression Reporting and Demographics and Interest Reporting
 
@@ -22,19 +32,17 @@ We encourage you to visit Google Analytics' [currently available opt-outs](https
 
 We use Remarketing with Google Analytics to advertise online.
 
-Third-party vendors, including Google, may show your ads on sites across the Internet.
+Third-party vendors, including Google, may show our ads on sites across the Internet.
 
 We and third-party vendors, including Google, use first-party cookies (such as the Google Analytics cookie) and third-party cookies (such as the DoubleClick cookie) together to inform, optimize, and serve ads based on someone's past visits to our website.
 
 We and third-party vendors, including Google, use first-party cookies (such as the Google Analytics cookies) and third-party cookies (such as the DoubleClick cookie) together to report how your ad impressions, other uses of ad services, and interactions with these ad impressions and ad services are related to visits to our site.
 
+To read more about Google's privacy policies please [click here](http://www.google.com/intl/en/policies/privacy/).
+
 ### Tracking ID's
 
 PictureQuotes.com uses tracking ID's in affiliate links so that [affiliated companies](http://www.picturequotes.com/disclosure) can track the sale of products or services that we refer to them.  Some links may also be shortened so that the tracking ID's are not visible.
-
-### Web browser cookies
-
-Our Site may use 'cookies' to enhance User experience. User's web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
 
 ### How we use collected information
 
@@ -62,6 +70,8 @@ PictureQuotes.com is a participant in the Amazon Services LLC Associates Program
 
 Amazon, the Amazon logo, AmazonSupply, and the AmazonSupply logo are trademarks of Amazon.com, Inc. or its affiliates.
 
+To see information about Amazon's privacy policy please visit the following links:  [Link 1](http://www.amazon.com/gp/help/customer/display.html?nodeId=468496)   [Link 2](http://www.amazon.com/b/?&node=5160028011)
+
 PictureQuotes.com is a participant in the eBay Partner Network Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to eBay.com. Please visit the following link to see eBay's privacy policy: [eBay Privacy Policy](http://pages.ebay.com/help/policies/privacy-policy.html?_trksid=m40)
 
 PictureQuotes.com is in association with Zazzle.
@@ -77,4 +87,4 @@ PictureQuotes.com has the discretion to update this privacy policy at any time.
 By using this Site, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
 
   
-This document was last updated on August 07, 2014
+This document was last updated on August 15, 2015
