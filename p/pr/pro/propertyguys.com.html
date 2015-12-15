@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the propertyguys.com privacy policy that was archived on 2015-06-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150607195913id_/http%3A//propertyguys.com/site/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the propertyguys.com privacy policy that was archived on 2015-12-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151215043848id_/http%3A//propertyguys.com/site/privacy) for the most accurate reproduction.-->
 
 <html><head>
 
@@ -48,7 +48,7 @@
 
 			
 			
-			<link rel="stylesheet" href="/css/frontend.css?72419">
+			<link rel="stylesheet" href="/css/frontend.css?14296">
 
 		
 				
@@ -138,7 +138,8 @@
 			googletag.cmd.push(function() {
 				
 			googletag.defineSlot('/117828906/300x250_ROS_Bottom', [300, 250], 'div-gpt-ad-1400156886399-0').addService(googletag.pubads());
-			googletag.defineSlot('/117828906/300x250_ROS_Top', [300, 250], 'div-gpt-ad-1400156886399-1').addService(googletag.pubads());
+			/* googletag.defineSlot('/117828906/300x250_ROS_Top', [300, 250], 'div-gpt-ad-1400156886399-1').addService(googletag.pubads()); */
+			 googletag.defineSlot('/117828906/300x250_ROS_Top', [[300, 250], [300, 600]], 'div-gpt-ad-1435085054501-0').addService(googletag.pubads());
 			/*googletag.defineSlot('/117828906/728x90_ROS', [728, 90], 'div-gpt-ad-1400156886399-2').addService(googletag.pubads());*/
 			googletag.defineSlot('/117828906/728x90Leaderboard', [728, 90], 'div-gpt-ad-1428943601854-0').addService(googletag.pubads());
 			 
@@ -308,15 +309,17 @@
 				<input type="hidden" id="propertyUses" name="pru" value="">
 				
 				
-				<input type="hidden" id="incArray" value=""> 
-				<input type="hidden" id="extArray"> 
-				<input type="hidden" id="intArray"> 
 				
-				<input type="hidden" id="incArrayWeights" value=""> 
-				<input type="hidden" id="extArrayWeights"> 
-				<input type="hidden" id="intArrayWeights"> 
+				
 				<input type="hidden" id="cityProfilesState" name="cps" value="">
 							</form>
+				
+				
+				<input type="hidden" id="extArrayWeights"> 
+				<input type="hidden" id="intArrayWeights">
+				<input type="hidden" id="extArray"> 			
+				<input type="hidden" id="intArray"> 
+				
 				
 				    <div class="input-group" style="padding-top: 10px;">
 				      <input type="text" class="form-control search-ico quicksearchbox" style="z-index: 1033;" placeholder="City, Town or Sign#" id="signnumber" value="">
@@ -334,7 +337,9 @@
         <li class="text-left"><a href="/sell" class="">Sellers</a></li>       
         <li class="text-left"><a href="/buy" class="">Buyers</a></li>
         <li class="text-left"><a href="/mortgage" class="">Mortgage</a></li>
-        <li class="text-left"><a href="/vacation-rentals" class="">Vacation Rentals</a></li>
+<!--         <li class="text-left"><a href="/vacation-rentals" class="">Vacation Rentals</a></li> -->
+         <li class="text-left"><a href="/franchise" class="">Franchise Opportunity</a></li>
+        
         
                  <li class="hidden-xs hidden-sm" style="padding-top: 18px;">|</li>
         <li class="text-left">
@@ -879,21 +884,20 @@ margin-left: 10px;
 									</select>
 								</div>
 								
-								<div class="form-group" style="display: none;">
+								<div class="form-group">
 									<label for="">Property Use</label><br>
-									<select id="search-propertyuse" class="selectpicker show-tick form-control" multiple="" data-live-search="false" title="All" data-width="175px">	
+									<select id="search-propertyuse" name="tmpUse" class="selectpicker show-tick form-control" multiple="" data-live-search="false" title="All" data-width="175px">	
 																				    									
 											<option value="3">Residential</option>
-											<option value="1">Recreational</option>
+											<option value="4">Recreational</option>
 											<option value="2">Commercial</option>
-											<option value="4">Agricultural</option>
+											<option value="1">Agricultural</option>
 										</select>
 								</div>
-
-								
-								<div class="form-group" style="display: none;">
+                                   								
+								<div class="form-group">
 									<label for="">Interior Options</label><br>
-									<select id="search-interior" class="selectpicker show-tick form-control" multiple="" data-live-search="false" data-size="8" title="All" data-width="200px">
+									<select id="search-interior" name="tmpInt" class="selectpicker show-tick form-control" multiple="" data-live-search="false" data-size="8" title="All" data-width="200px">
 											
 											<option value="120">Alternative Heating</option>
 											<option value="756">Propane Heating</option>
@@ -913,18 +917,18 @@ margin-left: 10px;
 									
 								</div>
 								
-								<div class="form-group" style="display: none;">
+								<div class="form-group">
 									<label for="">Exterior Options</label><br>
-									<select id="search-exterior" class="selectpicker show-tick form-control" multiple="" data-live-search="false" data-size="8" title="All" data-width="200px">
+									<select id="search-exterior" name="tmpExt" class="selectpicker show-tick form-control" multiple="" data-live-search="false" data-size="8" title="All" data-width="200px">
 													
-													<option value="361">Deck or Patio</option>
-													<option value="370">Pool</option>
-													<option value="364">Fenced Yard</option>
-													<option value="365">Garden</option>
-													<option value="373">Water Front</option>
-													<option value="366">Hot Tub</option>
-													<option value="374">Water View</option>																	
-													<option value="375">Wharf or Dock</option>
+											<option value="361">Deck or Patio</option>
+											<option value="370">Pool</option>
+											<option value="364">Fenced Yard</option>
+											<option value="365">Garden</option>
+											<option value="373">Water Front</option>
+											<option value="366">Hot Tub</option>
+											<option value="374">Water View</option>																	
+											<option value="375">Wharf or Dock</option>
 												
 											</select>
 									
@@ -1025,10 +1029,18 @@ margin-left: 10px;
 					console.log(url);
 					var name = $("#savedSearchName").val();
 					var user = '';
+
+					
+					var location =  $("#city").val();
+					var bedsmin  =  $("#bedroomsMinimum").val();
+					var bathsmin =  $("#bathroomsMinimum").val();
+					var pricemin =  $("#priceMinimum").val();
+					var pricemax =	$("#priceMaximum").val();
+					
 					 $.ajax({
 				            type: "POST",
 				            url: '/ajax/save-search/format/html/',
-				            data: { url: url, name: name, user: user},					            
+				            data: { url: url, name: name, user: user, city: location, bedsmin: bedsmin, bathsmin: bathsmin, pricemin: pricemin, pricemax: pricemax},					            
 				            success: function (txt) {
 
 					            if(txt=='Yes'){
@@ -2038,11 +2050,11 @@ $(document).ready(function() {
 				});
 </script><div class="modal" id="modalFreeQuote" tabindex="-1" role="dialog">
   <div class="modal-dialog">
-    <div class="modal-content">
+    <div class="modal-content blue-bg">
 
 	      <div class="modal-body">
 	      <button type="button" class="close" data-dismiss="modal" aria-label="Close"><img src="/images/panels/modal_close.png"></button>
-	         <h2 class="caption-title text-center"><span id="freequoteustitle">Request a Free Quote</span> <small id="locationtitle"></small></h2>	
+	         <h2 class="caption-title text-center modal-title"><span id="freequoteustitle">Request a Free Quote</span> <small id="locationtitle"></small></h2>	
 	        	
 	        	
 	        	<div class="alert alert-success alert-dismissible" role="alert" id="freequoteSuccessMessage">
@@ -2067,7 +2079,7 @@ $(document).ready(function() {
 					     <input type="hidden" id="subject" name="subject" value="6">
 					     
 					          	<div class="form-group">
-								    <label for="inputEmail3" class="col-sm-3 control-label">Name:</label>
+								    <label for="inputEmail3" class="col-sm-3 control-label whitetext">Name:</label>
 								    <div class="col-sm-4">
 								      <input type="text" class="form-control" id="freequoteFirstName" placeholder="Your First Name" value="" name="first_name">
 								    </div>
@@ -2077,7 +2089,7 @@ $(document).ready(function() {
 								 </div>
 								
 								<div class="form-group">
-								    <label for="inputEmail3" class="col-sm-3 control-label">Email:</label>
+								    <label for="inputEmail3" class="col-sm-3 control-label whitetext">Email:</label>
 								    <div class="col-sm-9">
 								      <input type="email" class="form-control" id="freequoteEmail" placeholder="Email Address" value="" name="email">
 								    </div>
@@ -2085,21 +2097,21 @@ $(document).ready(function() {
 								
 								
 								<div class="form-group">
-								    <label for="inputEmail3" class="col-sm-3 control-label">Phone:</label>
+								    <label for="inputEmail3" class="col-sm-3 control-label whitetext">Phone:</label>
 								    <div class="col-sm-9">
 								      <input type="text" class="form-control" id="freequotePhone" placeholder="Primary Phone Number" value="" name="phone">
 								    </div>
 								  	</div>
 								
 								<div class="form-group">
-								    <label for="inputEmail3" class="col-sm-3 control-label">Postal Code:</label>
+								    <label for="inputEmail3" class="col-sm-3 control-label whitetext">Postal Code:</label>
 								    <div class="col-sm-9">
 								      <input type="text" class="form-control" id="freequotePostal" placeholder="Postal Code" value="" data-bv-zipcode="true">
 								    </div>
 								 </div>
 					    
 					            <div class="form-group">
-						        	<label for="InputMessage" class="col-sm-3 control-label">Message:</label>
+						        	<label for="InputMessage" class="col-sm-3 control-label whitetext">Message:</label>
 						        	 	<div class="col-sm-9">
 							          		<textarea name="freequoteMessage" id="freequoteMessage" class="form-control" rows="3"></textarea>
 							          	</div>
@@ -2216,46 +2228,118 @@ $(document).ready(function() {
 			$("#freequoteErrorMessage").hide();
 	
 	});
-</script><!-- Free Offer Modal -->
+</script>
+<style>
+.downloadables-image {
+    border: 1px solid #e9e9e9;
+    border-radius: 4px;
+    width: 463px;
+}
+</style>
+<!-- Free Offer Modal -->
 <div class="modal" id="freeOfferModal" tabindex="-1" role="dialog">
-  <div class="modal-dialog">
-    <div class="modal-content">
+  <div class="modal-dialog modal-lg">
+    
+    
+    
+    
+    
+    <div class="modal-content blue-bg">
       <div class="modal-body">
-      
-      
-        	<button type="button" class="close" data-dismiss="modal" aria-label="Close"><img src="/images/panels/modal_close.png"></button>
-        		<h2 class="caption-title text-center">What's my house really worth?</h2> 
-        			<div class="caption-text"><p>With our pricing blueprint you can more easily establish your asking price in a way that helps you make more money. All we need is your email address and we'll send you a link to download a sample blueprint that shows you the value of our pricing strategy.</p></div>
-        				<div class="row clear-fix">
-		        			<div class="col-xs-12 col-md-6" style="padding-top: 25px;">   
-					        	<form class="form" role="form" id="frmPricePro">				        	
-						        	<input type="hidden" name="firstName_151" id="firstName_151" value="">
-						        	<input type="hidden" name="lastName_151" id="lastName_151" value="">				        	
-										  <div class="row padding-bottom-10">
-											  <div class="form-group">
-											    <label class="" for="exampleInputEmail2">Email Address</label>
-											    <input type="email" class="form-control" id="email_151" name="email_151" value="" placeholder="Email Address">
-													    		
-													<div class="checkbox">					    
-												        <label style="font-size: 11px;">
-												          <input type="checkbox" id="agree_151" name="agree_151" value="1">  I agree to receive email messages from PropertyGuys.com Inc. containing news, updates and promotions. I understand I can withdraw my consent at any time by using the "Unsubscribe" link contained in each email message. You can view the site <a href="/site/privacy">Privacy Policy here</a>.
-												        </label>
-											      	</div>
-											  </div>
-										  	</div>
-								  <div class="row text-center hidden-sm hidden-sm">
-								  	<div class="alert alert-success" role="alert" id="ppSuccess">Success! We've recieved your request, check your inbox for the download link.</div>
-				        	   		<div class="alert alert-warning" role="alert" id="ppError">Something went wrong. Check your email address and try again.</div>
-								  	<button type="submit" class="btn btn-green btn-block" id="btn_151">Send me a FREE sample!</button>
-								  </div>
-								</form>
-			        	</div>
+    <div class="col-md-12">
+    <button type="button" class="close" data-dismiss="modal" aria-label="Close"><img src="/images/panels/modal_close.png"></button>
+     <h2 class="caption-title text-center modal-title">What's my house really worth?</h2>
+     
+     </div>
+		<div class="row clearfix">
+			
+				<div class="col-md-7 col-xs-12">
+					<div class="alert alert-success alert-dismissible" role="alert" id="ppSuccess">
+				  <button type="button" class="close" data-dismiss="alert"><span aria-hidden="true">×</span><span class="sr-only">Close</span></button>
+				  <strong>Good news!</strong> Your message has been sent!
+				</div>
+				
+				<div class="alert alert-danger alert-dismissible" role="alert" id="ppError">
+				  <button type="button" class="close" data-dismiss="alert"><span aria-hidden="true">×</span><span class="sr-only">Close</span></button>
+				  <strong>Error.</strong> Something went wrong. Please check you information and try again.
+				</div>
+      	         
+      	         	
+                <div class="col-md-12 pull-right hidden-xs hidden-sm "><img class="downloadables-image" src="/images/panels/price-pro-overview.jpg"></div>
+					
 		        	
-		        	<div class="col-md-6 pull-right hidden-xs hidden-sm "><img class="downloadables-image" src="/images/panels/priceprosample.jpg" style="width: 200px;"></div>
-		        </div>
+				</div>
+				
+				
+				<div class="col-md-5 col-xs-12 well">
+				
+				
+				    <h4></h4>
+				<p>With our pricing blueprint you can more easily establish your asking price in a way that helps you make more money.All we need is some info and we'll send you a link to download a sample blueprint that shows you the value of our pricing strategy.</p> 
+					<form role="form" id="frmPricePro">
 
-      </div>
+						<input type="hidden" id="priceProcityprofile" name="priceProcityprofile" value="">
+						<input type="hidden" id="priceProprov" name="priceProprov" value="">
+						<input type="hidden" id="priceProprovinceid" name="priceProprovinceid" value="">
+						<input type="hidden" id="priceProuri" name="priceProuri" value="/site/privacy/">
+					    <input type="hidden" id="pricePromode" name="pricePromode" value="priceProCall"> 					    
+					    <input type="hidden" id="priceProzeemail" name="priceProzeemail" value="">    
+					    <input type="hidden" id="additionalData" name="additionalData" value=""> 
+					    <input type="hidden" id="subject" name="subject" value="6">
+					
+					
+					
+					<div class="form-group">
+                        <label for=""></label>
+                        <input type="text" class="form-control" id="firstName_151" placeholder="Your First Name" value="" name="firstName_151" required="" data-bv-notempty="true">
+                    </div>
+					
+					<div class="form-group">
+                        <label for=""></label>
+                        <input type="text" class="form-control" id="lastName_151" placeholder="Your Last Name" value="" name="lastName_151" required="" data-bv-notempty="true">
+                    </div>
+                    
+                    <div class="form-group">
+                        <label for=""></label>
+                        <input type="email" class="form-control" id="email_151" placeholder="Email Address" value="" name="email_151" required="" data-bv-notempty="true">
+                    </div>
+                    
+                    <div class="form-group">
+                        <label for=""></label>
+                        <input type="text" class="form-control" id="phone_151" placeholder="Phone Number" value="" name="phone">
+                    </div>
+                    
+                    <div class="form-group">
+                        <label for=""></label>
+                         <input type="text" class="form-control" id="postal_151" placeholder="Postal Code" value="" data-bv-zipcode="true" required="" data-bv-notempty="true">
+                    </div>
+                    <div class="form-group">
+					<div class="checkbox">					    
+    			        <label style="font-size: 11px;">
+    			          <input type="checkbox" id="agree_pricePro" name="agree_151" value="1" required="" data-bv-notempty="true">  I agree to receive email messages from PropertyGuys.com Inc. containing news, updates and promotions. I understand I can withdraw my consent at any time by using the "Unsubscribe" link contained in each email message. You can view the site <a href="/site/privacy">Privacy Policy here</a>.
+    			        </label>
+    		      	</div>
+						</div>					      	
+					
+					<div class="form-group text-center">
+				    
+				      <button type="submit" class="btn btn-green" id="btn_151">Send me a FREE sample!</button>
+				   
+				  </div>
+					
+
+					</form>
+					
+				</div>
+
+		</div><!-- /.container -->
+		
+
+    <!--// END Contact 2 -->
+      
+	   </div>
     </div><!-- /.modal-content -->
+
   </div><!-- /.modal-dialog -->
 </div><!-- /.modal -->
 
@@ -2267,11 +2351,6 @@ $(document).ready(function() {
 $('#frmPricePro')
 .formValidation({
 	framework: 'bootstrap',
-    icon: {
-        valid: 'glyphicon glyphicon-ok',
-        invalid: 'glyphicon glyphicon-remove',
-        validating: 'glyphicon glyphicon-refresh'
-    },
     fields: {
     	email_151: {
             validators: {
@@ -2300,16 +2379,17 @@ $('#frmPricePro')
     // Get the FormValidation instance
     var bv = $form.data('formValidation');
 	// AJAX
-    var firstname 	= $("#firstName_151").val();
+   			var firstname 	= $("#firstName_151").val();
 			var lastname 	= $("#lastName_151").val(); 
 			var email 		= $("#email_151").val(); 
-			var postal		= '';
+			var phone		= $("#phone_151").val();
+			var postal		= $("#postal_151").val();
 			var mode	 	= "pricePro"; 
 			
 		 $.ajax({
 	            type: "POST",
 	            url: '/ajax/contactus-form/format/html/',
-	            data: { first_name: firstname, last_name: lastname, email_address: email, contact_mode: mode, postal_code: postal },					            
+	            data: { first_name: firstname, last_name: lastname, email_address: email, contact_mode: mode, postal_code: postal, phone_number: phone },					            
 	            success: function (txt) {
 
 		            if(txt=='true'){
@@ -2337,30 +2417,60 @@ $(function(){
 });
 
 </script>
+<style>
+    .sevenminuteFont{
+
+    	   font-size: 18px;
+    	   color: #fff;
+
+    }
+    .blue-bg{
+    	background-color: #017cc1;
+    }
+    .modal-title{
+
+    color: #88d8f7;
+    font-size: 50px;
+    font-weight: 100;
+
+    }
+</style>
 <!-- Free Offer Modal -->
 <div class="modal" id="sevenMinModal" tabindex="-1" role="dialog">
-  <div class="modal-dialog">
-    <div class="modal-content">
+  <div class="modal-dialog modal-lg ">
+    <div class="modal-content blue-bg">
       <div class="modal-body">
-      
-      	  
-      		<button type="button" class="close" data-dismiss="modal" aria-label="Close"><img src="/images/panels/modal_close.png"></button>
-	        	<h2 class="caption-title text-center">Seven Minute Call</h2>
-		        	<div class="caption-text"><p>Seven minutes or less - that's all the time it usually takes for us to explain how you can make more money and sell faster using PropertyGuys.com. So why not contact us today? After all, it very well could be the most rewarding seven minutes you'll ever spend. </p></div>
-					<div class="caption-text"><p>A PropertyGuys.com representative will contact you to explain how everything works, discuss your listing options and answer any questions you may have. No high-pressure sales tactics. No obligation to buy a thing.</p></div>			
-					<div class="caption-text"><p>If you like what you hear, great! We'll schedule a convenient time for you to meet face-to-face with one of our representatives to review your options in even greater detail.</p></div>
-
-			        	<div class="alert alert-success alert-dismissible" role="alert" id="sevenMinuteSuccessMessage">
+    <div class="col-md-12">
+    <button type="button" class="close" data-dismiss="modal" aria-label="Close"><img src="/images/panels/modal_close.png"></button>
+     <h2 class="caption-title text-center modal-title">Seven Minute Call</h2>
+     
+     </div>
+		<div class="row clearfix">
+			
+				<div class="col-md-7 col-xs-12">
+					<div class="alert alert-success alert-dismissible" role="alert" id="sevenMinuteSuccessMessage" style="display: none;">
 				  <button type="button" class="close" data-dismiss="alert"><span aria-hidden="true">×</span><span class="sr-only">Close</span></button>
 				  <strong>Good news!</strong> Your message has been sent!
 				</div>
 				
-				<div class="alert alert-danger alert-dismissible" role="alert" id="sevenMinuteErrorMessage">
+				<div class="alert alert-danger alert-dismissible" role="alert" id="sevenMinuteErrorMessage" style="display: none;">
 				  <button type="button" class="close" data-dismiss="alert"><span aria-hidden="true">×</span><span class="sr-only">Close</span></button>
 				  <strong>Error.</strong> Something went wrong. Please ckeck you information and try again.
 				</div>
+      	  
+      		
+					
+		        	<div class="caption-text sevenminuteFont"><p>Seven minutes or less - that's all the time it usually takes for us to explain how you can make more money and sell faster using PropertyGuys.com. So why not contact us today? After all, it very well could be the most rewarding seven minutes you'll ever spend. </p></div>
+					<div class="caption-text sevenminuteFont"><p>A PropertyGuys.com representative will contact you to explain how everything works, discuss your listing options and answer any questions you may have. No high-pressure sales tactics. No obligation to buy a thing.</p></div>			
+					<div class="caption-text sevenminuteFont"><p>If you like what you hear, great! We'll schedule a convenient time for you to meet face-to-face with one of our representatives to review your options in even greater detail.</p></div>
 
-	        	<form class="form-horizontal" role="form" id="sevenMinuteForm">
+				</div>
+				
+				<div class="col-md-5 col-xs-12 well">
+				
+				    <h4>Tell us about yourself</h4>
+				
+					<form role="form" id="sevenMinuteForm">
 
 						<input type="hidden" id="sevenMinutecityprofile" name="sevenMinutecityprofile" value="">
 						<input type="hidden" id="sevenMinuteprov" name="sevenMinuteprov" value="">
@@ -2369,71 +2479,66 @@ $(function(){
 					    <input type="hidden" id="sevenMinutemode" name="sevenMinutemode" value="sevenMinuteCall"> 					    
 					    <input type="hidden" id="sevenMinutezeemail" name="sevenMinutezeemail" value="">    
 					    <input type="hidden" id="additionalData" name="additionalData" value=""> 
-					     <input type="hidden" id="subject" name="subject" value="6">
-					     
-					     
-					     
-					     
-					     <div class="form-group">
-							        
-							        <div class="col-md-12">
-							            <div class="form-group row">
-							                <label for="inputKey" class="col-md-2 control-label">First:</label>
-							                <div class="col-md-4">
-							                     <input type="text" class="form-control" id="sevenMinuteFirstName" placeholder="Your First Name" value="" name="first_name" required="" data-bv-notempty="true">
-							                </div>
-							                <label for="inputValue" class="col-md-2 control-label">Last:</label>
-							                <div class="col-md-4">
-							                   <input type="text" class="form-control" id="sevenMinuteLastName" placeholder="Your Last Name" value="" name="last_name" required="" data-bv-notempty="true">
-							                </div>
-							            </div>
-							        </div>
-							    </div><!-- End FForm Group -->
-					     
-					     
-					     <div class="col-xs-12">
-			    		 
-				    		 <div class="form-group">
-							   <div class="col-md-12">
-						            <div class="form-group row">
-						                <label for="inputKey" class="col-md-2 control-label">Email:</label>
-						                <div class="col-md-7">
-									      <input type="email" class="form-control" id="sevenMinuteEmail" placeholder="Email Address" value="" name="email" required="" data-bv-notempty="true">
-									    </div>
-							  		</div>
-				     			</div>
-				     		</div>
-					     
-					     </div>
-					        
-								
-								
-								
-								<div class="form-group">					        
-							        <div class="col-md-12">
-							            <div class="form-group row">
-							                <label for="inputKey" class="col-md-2 control-label">Phone:</label>
-							                <div class="col-md-4">
-							                     <input type="text" class="form-control" id="sevenMinutePhone" placeholder="Phone Number" value="" name="phone" required="" data-bv-notempty="true">
-							                </div>
-							                <label for="inputValue" class="col-md-2 control-label">Postal:</label>
-							                <div class="col-md-4">
-							                  <input type="text" class="form-control" id="sevenMinutePostal" placeholder="Postal Code" value="" data-bv-zipcode="true" required="" data-bv-notempty="true">
-							                </div>
-							            </div>
-							        </div>
-							    </div><!-- End Form Group -->
-								
-					            
-					            
-					            <div class="form-group">
-								    <div class="col-xs-12 text-center">
-								      <button type="submit" class="btn btn-green" id="btnsevenMinuteForm">Send Info</button>
-								    </div>
-								  </div>
-					        
-					    </form>
-				<div style="clear: both;"></div>
+					    <input type="hidden" id="subject" name="subject" value="6">
+					
+					
+					
+					<div class="form-group">
+                        <label for=""></label>
+                        <input type="text" class="form-control" id="sevenMinuteFirstName" placeholder="Your First Name" value="" name="first_name" required="" data-bv-notempty="true">
+                    </div>
+					
+					<div class="form-group">
+                        <label for=""></label>
+                        <input type="text" class="form-control" id="sevenMinuteLastName" placeholder="Your Last Name" value="" name="last_name" required="" data-bv-notempty="true">
+                    </div>
+                    
+                    <div class="form-group">
+                        <label for=""></label>
+                        <input type="email" class="form-control" id="sevenMinuteEmail" placeholder="Email Address" value="" name="email" required="" data-bv-notempty="true">
+                    </div>
+                    
+                    <div class="form-group">
+                        <label for=""></label>
+                        <input type="text" class="form-control" id="sevenMinutePhone" placeholder="Phone Number" value="" name="phone">
+                    </div>
+                    
+                    <div class="form-group">
+                        <label for=""></label>
+                         <input type="text" class="form-control" id="sevenMinutePostal" placeholder="Postal Code" value="" data-bv-zipcode="true" required="" data-bv-notempty="true">
+                    </div>
+                    <div class="form-group">
+					<div class="checkbox">					    
+    			        <label style="font-size: 11px;">
+    			          <input type="checkbox" id="agree_sevenMinute" name="agree_sevenMinute" value="1" required="" data-bv-notempty="true">  I agree to receive email messages from PropertyGuys.com Inc. containing news, updates and promotions. I understand I can withdraw my consent at any time by using the "Unsubscribe" link contained in each email message. You can view the site <a href="/site/privacy">Privacy Policy here</a>.
+    			        </label>
+    		      	</div>
+						</div>					      	
+					
+					<div class="form-group text-center">
+				    
+				      <button type="submit" class="btn btn-green" id="btnsevenMinuteForm">Send Info</button>
+				   
+				  </div>
+					
+
+					</form>
+					
+				</div>
+				
+				
+				
+			
+		</div><!-- /.container -->
+		
+
+    <!--// END Contact 2 -->
+                
+                
+                
+                
+                
+                
 	   </div>
     </div><!-- /.modal-content -->
   </div><!-- /.modal-dialog -->
@@ -2446,12 +2551,7 @@ $(document).ready(function() {
 	
 	$('#sevenMinuteForm')
     .formValidation({
-    	framework: 'bootstrap',
-        icon: {
-            valid: 'glyphicon glyphicon-ok',
-            invalid: 'glyphicon glyphicon-remove',
-            validating: 'glyphicon glyphicon-refresh'
-        }
+    	framework: 'bootstrap'
         })
     .on('success.form.fv', function(e) {
         // Prevent form submission
@@ -2489,8 +2589,7 @@ $(document).ready(function() {
 		            }else{
 		            	$("#sevenMinuteSuccessMessage").hide();
 		    			$("#sevenMinuteErrorMessage").show(); 			    			
-		            } 
-	            	  				    			
+		            } 	            	  				    			
 	            }
 	        });
         // AJAX Call Above	
@@ -2501,8 +2600,6 @@ $(document).ready(function() {
 
 	$(function(){
 
-			
-		
 			$("#subject").selectpicker();
 			$("#sevenMinuteSuccessMessage").hide();
 			$("#sevenMinuteErrorMessage").hide();
