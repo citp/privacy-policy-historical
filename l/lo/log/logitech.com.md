@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the logitech.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623205259id_/http%3A//logitech.com/en-us/footer/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the logitech.com privacy policy that was archived on 2015-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151215142706id_/http%3A//www.logitech.com/en-ca/footer/privacy) for the most accurate reproduction.*
 
 # YOUR PRIVACY & SECURITY
 
 As your privacy is important to us, Logitech has prepared this Statement of Privacy and Security (“Statement”) so that you may better understand how Logitech uses and protects the personal information collected on its website [www.logitech.com](http://www.logitech.com/) (“Site”). Please take the time to review this page and contact us at [support.logitech.com/response-center](http://support.logitech.com/response-center) with any questions or concerns.
 
-[](https://privacy.truste.com/privacy-seal/Logitech,-Inc/validation?rid=bef2dd75-99a2-4dcc-816a-e03643a9faee "TRUSTe European Safe Harbor certification")
+[](https://privacy.truste.com/privacy-seal/validation?rid=bef2dd75-99a2-4dcc-816a-e03643a9faee "TRUSTe Privacy Certification")
 
 COLLECTION OF INFORMATION  
 HOW WE USE YOUR INFORMATION   
@@ -12,9 +12,6 @@ CONTROL & REVIEW OF YOUR PERSONAL INFORMATION
 PROTECTION OF INFORMATION  
 CHANGES TO THIS STATEMENT  
 COOKIES
-
-  
-
 
 #### COLLECTION OF INFORMATION
 
@@ -49,9 +46,6 @@ Our shopping cart and checkout pages may have the look and feel of being on [www
 We recommend you read the privacy statement of our payment processor, viewable where your information is collected.
 
 Back to top
-
-  
-
 
 #### HOW WE USE YOUR INFORMATION
 
@@ -91,7 +85,8 @@ _Prohibited Disclosures_
 
 Except as set forth above, Logitech will not disclose your personal information to any third party, including advertisers, without your explicit consent.
 
-Back to top
+Back to top  
+
 
 #### CONTROL & REVIEW OF YOUR PERSONAL INFORMATION
 
@@ -107,7 +102,8 @@ You can also use these vehicles to request removal of your personal information 
 
 We provide you the opportunity to “opt-out” of having your personal information used for certain purposes whenever we ask for this information. We will retain your information for as long as your account is active or as needed to provide you services. We will retain and use your information as necessary to comply with our legal obligations, to resolve disputes, and to enforce our agreements.
 
-Back to top
+Back to top  
+
 
 #### PROTECTION OF INFORMATION
 
@@ -115,7 +111,8 @@ Logitech is committed to the protection of your personal information. We use a v
 
 Logitech has been awarded TRUSTe's Privacy Seal signifying that this privacy statement and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy-program-requirements/) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. The TRUSTe program covers only information that is collected through this Site, www.logitech.com. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy Trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy statement or practices, please contact us at [support.logitech.com/response-center](http://support.logitech.com/response-center). If you are not satisfied with our response you can contact [TRUSTe here](https://feedback-form.truste.com/watchdog/request).
 
-Back to top
+Back to top  
+
 
 #### CHANGES TO THIS STATEMENT
 
@@ -127,11 +124,11 @@ Thank you for your interest in Logitech and our products.
 
 Revised January 23, 2015
 
-[](https://web.archive.org/en-us/promotions/cookie-compliance)
+[](https://web.archive.org/en-ca/promotions/cookie-compliance)
 
 #### Cookies
 
-Our site uses "cookies," small text files that can be read by a web server in the domain that put the cookie on your hard drive. Click [here](https://web.archive.org/en-us/promotions/cookie-compliance) to learn more.
+Our site uses "cookies," small text files that can be read by a web server in the domain that put the cookie on your hard drive. Click [here](https://web.archive.org/en-ca/promotions/cookie-compliance) to learn more.
 
   
 
