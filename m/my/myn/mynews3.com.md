@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mynews3.com privacy policy that was archived on 2015-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150617002252id_/http%3A//www.news3lv.com/content/termsofuse/default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mynews3.com privacy policy that was archived on 2015-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151215124721id_/http%3A//www.news3lv.com/content/termsofuse/default.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - News3LV
 
