@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the arctic.ac privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607223053id_/http%3A//www.arctic.ac/worldwide_en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arctic.ac privacy policy that was archived on 2015-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151215124537id_/http%3A//www.arctic.ac/us_en/privacy-policy) for the most accurate reproduction.*
 
 # ARCTIC | Privacy Policy
 
