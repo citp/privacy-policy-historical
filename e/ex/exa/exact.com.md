@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the exact.com privacy policy that was archived on 2015-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150615033947id_/http%3A//www.exact.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the exact.com privacy policy that was archived on 2015-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151215142557id_/http%3A//www.exact.com/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement | Exact
 
 August 2013
 
- **Exact Holding N.V., a company registered in The Netherlands with registered number 27234422 whose registered office is at Molengraaffsingel 33, 2629 JD Delft, The Netherlands, along with its subsidiaries, divisions, and affiliates ("Exact"), understands the importance of protecting and safeguarding your privacy when you use our website. This privacy statement tells you about the information Exact may collect on this website, how the information is used, and how you can access and correct certain information that we may collect.**
+ **Exact Holding B.V., a company registered in The Netherlands with registered number 27234422 whose registered office is at Molengraaffsingel 33, 2629 JD Delft, The Netherlands, along with its subsidiaries, divisions, and affiliates ("Exact"), understands the importance of protecting and safeguarding your privacy when you use our website. This privacy statement tells you about the information Exact may collect on this website, how the information is used, and how you can access and correct certain information that we may collect.**
 
 If you as a visitor choose to register or submit information to Exact via this website (the “Site”), you agree to the use of such data in accordance with this privacy statement. Please note that this Site contains links to other websites, including, without limitation, websites maintained by Exact, and other affiliated entities of Exact. Also note that the Exact may use third parties to host all or portions of, or to assist in maintaining, the Exact websites.
 
