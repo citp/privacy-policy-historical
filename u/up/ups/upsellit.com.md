@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the upsellit.com privacy policy that was archived on 2015-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150619142729id_/https%3A//www.upsellit.com/policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the upsellit.com privacy policy that was archived on 2015-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151215102029id_/https%3A//www.upsellit.com/policy.jsp) for the most accurate reproduction.*
 
 # UpSellit | Privacy Policy
 
@@ -32,9 +32,9 @@ UpSellit LLC
 Westlake Village, CA 91362
 
 You may phone us:  
-1-866-504-9619
+[1-866-504-9619](tel:18665049619)
 
 You may email us:  
-info@upsellit.com
+[info@upsellit.com](mailto:info@upsellit.com)
 
 We may modify this Privacy Policy without prior notice to you. By visiting our website and/or using our products or services, you agree to inform yourself of modifications to our Privacy Policy by reviewing it on our website from time to time.
