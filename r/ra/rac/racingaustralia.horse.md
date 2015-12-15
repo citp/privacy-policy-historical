@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the racingaustralia.horse privacy policy that was archived on 2015-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150616094834id_/http%3A//www.racingaustralia.horse/AboutUs/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the racingaustralia.horse privacy policy that was archived on 2015-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151215014233id_/http%3A//racingaustralia.horse/AboutUs/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Racing Australia
 
