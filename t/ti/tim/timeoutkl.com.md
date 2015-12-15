@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the timeoutkl.com privacy policy that was archived on 2015-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150617014027id_/http%3A//www.timeout.com/kuala-lumpur/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the timeoutkl.com privacy policy that was archived on 2015-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151215214201id_/http%3A//www.timeout.com/kuala-lumpur/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy - Time Out Kuala Lumpur
 
 Time Out Kuala Lumpur ("TOKL") promises to serve its audience with integrity and honesty both in its published matter and online. The same is true now that we publish online. TOKL has developed this privacy policy to demonstrate our firm commitment to privacy and to disclose our information-gathering and -sharing practices for [www.timeoutkl.com](http://www.timeoutkl.com/ "Time Out Kuala Lumpur") (the "site"). By visiting the site, you are accepting the practices described in this privacy policy. Our site will develop and evolve over time, and this policy may change to reflect that.
 
-**TOKL privacy's promise**  
+ **TOKL privacy's promise**  
 We are absolutely committed to protecting your privacy. We are also committed to the following: (1) We will not pass on any individual user details unless we have your prior consent; and (2) if we don't have your consent to pass on individual user details, we will only give advertisers aggregate statistics about the number of users and their traffic patterns. However, if TOKL changes hands, TOKL reserves the right to transfer all information collected through this site to the new owner.
 
  **Personal information**  
