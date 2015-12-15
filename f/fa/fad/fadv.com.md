@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fadv.com privacy policy that was archived on 2015-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150511053740id_/http%3A//fadv.com/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fadv.com privacy policy that was archived on 2015-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151215213917id_/http%3A//fadv.com/Privacy-Policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -15,6 +15,14 @@ To request information or receive **help with data protection issues** , contact
 Bret Jardine, Esq.  
 Singapore: +1.678.710.7260 direct: +65 6534 3262  
 Canada: 800.833.7511
+
+**India - Grievance Officer**  
+As required under **The Information Technology Act of India** , the name and contact details of the **Grievance Officer for addressing discrepancies and grievances** are as under: 
+
+Anselm Pinto  
+Regional Compliance Officer   
+Phone: +91 8039909614  
+Email: privacy.napac@fadv.com
 
 **All other requests, including customer and job applicant, help, support or additional information please [visit our contact page](https://web.archive.org/our-company/contact-support.aspx) or call:**
 
