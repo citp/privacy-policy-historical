@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the hypermart.net privacy policy that was archived on 2015-05-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150509041558id_/https%3A//www.hypermart.net/about/privacy.bml) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the hypermart.net privacy policy that was archived on 2015-12-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151215184142id_/http%3A//www.hypermart.net/about/privacy.bml) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html class="no-js"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
@@ -13,7 +13,50 @@
 <meta name="distribution" content="Global">
 <link rel="stylesheet" type="text/css" href="/xslt/elements/hypermart_csscomponent.css">
 <link rel="stylesheet" type="text/css" href="/xslt/elements/shared_csscomponent.css">
-<script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-PPRPX8"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="/generalAppC/scriptcat/87ae207201c55b84c5270851159260e1.1"></script>
+
+
+<script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-PPRPX8"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script>
+window.V = window.V || {};
+V.cart = V.cart || {
+	items: []
+};
+
+V.grammar = V.grammar || {
+	chatserver: "chatserver.hypermart.net"
+}
+// chat script
+V.chat = {
+  initialize: function () {
+    var _this = this;
+    if (V.grammar.chatserver) {
+      // bind chat links to chat function
+      var chatLinks = document.querySelectorAll('[href="#chat"]');
+			for (var i = 0; i < chatLinks.length; i++) {
+				chatLinks[i].addEventListener('click', function (e) {
+					return _this.popUp('https://' + V.grammar.chatserver, 500, 375);
+				});
+			}
+    }
+  },
+  popUp: function (url, width, height) {
+    var id = new Date();
+
+    width = width || 900;
+    height = height || 800;
+
+    window.open(
+      url,
+      id.toString(),
+      "toolbar=no,scrollbars=yes,location=no,statusbar=no,menubar=no,resizable=no,width=" + width + ",height=" + height
+    );
+  }
+}; // end V.chat
+
+window.addEventListener('load', function() { V.chat.initialize() }, false);
+</script>
+
+
+<script src="/generalAppC/scriptcat/87ae207201c55b84c5270851159260e1.1"></script>
 
 
 
@@ -24,7 +67,7 @@
 
 
 
-		<script charset="UTF-8" src="https://lptag.liveperson.net/tag/tag.js?site=66651396"></script></head><body vlink="#666666" link="#003366" background="/images/backgrounds/bg_hy_squares.gif" leftmargin="0" topmargin="0" marginheight="0" marginwidth="0"><block>
+		<script charset="UTF-8" src="https://lptag.liveperson.net/tag/tag.js?site=66651396"></script></head><body background="/images/backgrounds/bg_hy_squares.gif" leftmargin="0" topmargin="0" marginheight="0" marginwidth="0"><block>
 			<style>
 				.quicklinks {width: 200px; float: right; margin: 0 0 2em 2em;}
 				.info_msg {width: 400px;}
@@ -51,7 +94,11 @@
 
 
 
-<script>dataLayer = [];</script>
+
+<script>dataLayer = [{"userType":"anonymous","pageClass":"","step":"","pageType":"","flow":"","userID":""}];</script>
+
+
+
 
 
 <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push(
@@ -66,10 +113,10 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <div id="hd">
 <h1><a href="/">HyperMart</a></h1>
 <h2>The right choice for your website.</h2>
-<p class="chat-btn"><a href="http://server.iad.liveperson.net/hc/66651396/?cmd=file&amp;file=visitorWantsToChat&amp;site=66651396&amp;byhref=1" target="chat66651396" onclick="javascript:window.open('http://server.iad.liveperson.net/hc/66651396/?cmd=file&amp;file=visitorWantsToChat&amp;site=66651396&amp;referrer='+escape(document.location),'chat66651396','width=472,height=320');return false;">Live Chat</a></p>
+<p class="chat-btn"><a class="gtm_chat" href="#chat">Live Chat</a></p>
 <p class="phone-support"><label>Sales &amp; Support: </label>877.287.5929</p>
 <div id="currency-dropdown">
-<form name="pick"><input type="hidden" name="__token_timestamp__" value="1431144957"><input type="hidden" name="__token_val__" value="f9cbc99706c5c014b06d5076894e7926"><p><label for="country" class="currency-label-country">Country:</label><img class="currency-flag" src="/images/icons/CountryFlags/USD-flag.gif" alt="flag"><select name="country" id="countrySelect" onchange="putCookie();"><option value="USD" selected="">
+<form name="pick"><input type="hidden" name="__token_timestamp__" value="1450204902"><input type="hidden" name="__token_val__" value="fc36d5ba72b047ca9f7989124f4fe9ae"><p><label for="country" class="currency-label-country">Country:</label><img class="currency-flag" src="/images/icons/CountryFlags/USD-flag.gif" alt="flag"><select name="country" id="countrySelect" onchange="putCookie();"><option value="USD" selected="">
 							United States</option>
 <option value="CAD">
 							Canada</option></select></p></form>
@@ -112,9 +159,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <tbody><tr><td class="spacer" colspan="3">&nbsp;</td></tr>
 
 
-
 </tbody></table></td></tr></tbody></table>
-<form method="post" style="margin-bottom: 0IN;" enctype="application/x-www-form-urlencoded" action="https://secure.hypermart.net/secureLogin"><input type="hidden" name="__token_timestamp__" value="1431144957"><input type="hidden" name="__token_val__" value="f9cbc99706c5c014b06d5076894e7926">
+<form method="post" style="margin-bottom: 0IN;" enctype="application/x-www-form-urlencoded" action="https://secure.hypermart.net/secureLogin"><input type="hidden" name="__token_timestamp__" value="1450204902"><input type="hidden" name="__token_val__" value="fc36d5ba72b047ca9f7989124f4fe9ae">
 <input type="hidden" name="destination" value="/controlpanel/index.bml"><table cellspacing="0" width="100%" border="0"><tbody><tr><td><table cellspacing="0" width="100%" background="/images/backgrounds/bg_hy_login.gif" style="border-top: 1px solid #CCCCCC; border-bottom: 1px solid #CCCCCC"><tbody>
 <tr><td colspan="2">
 <img height="6" src="http://images.hypermart.net/trans.gif" border="0"><br>
