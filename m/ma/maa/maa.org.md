@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the maa.org privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630080812id_/http%3A//www.maa.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maa.org privacy policy that was archived on 2015-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151216000634id_/http%3A//www.maa.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Mathematical Association of America
 
