@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the billingboss.com privacy policy that was archived on 2015-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150530172044id_/http%3A//na.sage.com/us/legal) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the billingboss.com privacy policy that was archived on 2015-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151215170741id_/http%3A//www.sage.com/us/legal) for the most accurate reproduction.*
 
 # Legal | Sage North America | U.S.
 
@@ -26,13 +26,13 @@ Sage One; Sage One Accounting; Sage One Accounting Standard; Sage One Invoicing;
 
 Sage 300 Construction and Real Estate; Sage 300 Construction and Real Estate Project Management; Sage 300 Trade Specialty; Sage 100 Contractor; Sage Construction Anywhere; Sage Estimating; Sage 300 Construction and Real Estate Office Connector; Sage 300 Office Connector Import; Sage 300 Office Connector Financials; Sage 300 Office Connector Query; Sage 300 Office Connector Write; Sage Paperless Construction; Sage Service Operations; Sage Service Operations for Technicians; Sage Service Operations for Customers; Sage Estimating eTakeoff Dimension; Sage Estimating eTakeoff Bridge; Sage Estimating Cut & Fill; Sage 300 Construction and Real Estate Document Management; Sage 300 Construction and Real Estate MyAssistant; Sage 300 Construction and Real Estate MyCommunicator for Outlook; PlanSwift for Sage; Sage Estimating ePlan Takeoff Integrator; Sage Bid Management; Sage Construction Project Management; Sage Estimating Advanced Assembly Databases; Sage Estimating Industry Databases; Sage Estimating Knowledgebases; Sage Estimating RSMeans Databases; Sage Construction and Real Estate Forms; Sage Academy; Sage Anytime Learning; Sage Realtime Learning; Sage Replay Learning.
 
-Sage 100 ERP; Sage 100 Standard ERP; Sage 100 Advanced ERP; Sage 100 Premium ERP; Sage 100 ERP Online; Sage 300 ERP; Sage 300 Standard ERP; Sage 300 Advanced ERP; Sage 300 Premium ERP; Sage 300 Online; Sage 300 ERP Online; Sage 500 ERP; Sage Mobile Sales; Sage Mobile Service; Sage Billing and Payment; Sage MAS 90; Sage MAS 200; Sage MAS 500.
+Sage 100; Sage 100 Standard ERP; Sage 100 Advanced ERP; Sage 100 Premium ERP; Sage 100 Online; Sage 300; Sage 300 Standard ERP; Sage 300 Advanced ERP; Sage 300 Premium ERP; Sage 300 Online; Sage 300 Online; Sage 500 ERP; Sage MAS 90; Sage MAS 200; Sage MAS 500.
 
 Sage Payment Solutions, Sage Exchange; Sage Merchant Account; Sage ACH Account; Sage Virtual Terminal; Sage Mobile Payments; Sage Virtual Check (ACH); Sage Point of Sale Check Conversion; Sage Check 21; Sage Gift Card; Sage Loyalty Card; Sage Small Business Loan; Sage International Payments; Sage Account Updater; Sage Chargeback Assistance Program; Sage Terminal Replacement Program.
 
 Sage Payroll Solutions, Sage Payroll Services; Sage Payroll Full Service, Sage Payroll Essentials; Sage Time; Sage BusinessVision; Sage BusinessWorks; Sage DacEasy; Sage Fixed Assets; Sage HRMS; Sage Timeslips; EasyChoice; Encore; Paychoice; Paychoice Connection; PeopleChoice HR; Payroll in a Flash; Online Employer; Paychoice Online; Sage Active Planner; Sage Source
 
-SageCRM; SageCRM.com; Sage ERP X3 
+SageCRM; SageCRM.com; Sage X3 
 
 #### Third-party trademarks
 
@@ -195,7 +195,7 @@ Occasionally, at our discretion, we may include or offer third party products or
 
 #### Terms and Conditions
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our OnlineEmployer.com website at [http://na.sage.com/us/legal/online](https://web.archive.org/us/legal/online).
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our OnlineEmployer.com website at [http://www.sage.com/us/legal/online](https://web.archive.org/us/legal/online).
 
 #### Your consent
 
