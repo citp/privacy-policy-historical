@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myza.co.za privacy policy that was archived on 2015-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150614034253id_/http%3A//mype.co.za/new/2011/02/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myza.co.za privacy policy that was archived on 2015-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151215030125id_/http%3A//mype.co.za/new/2011/02/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -15,7 +15,7 @@ We collect information from you when you register on our site, place an order or
 
 When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address or phone number. You may, however, visit our site anonymously.
 
-Google, as a third party vendor, uses cookies to serve ads on your site. Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
+Google, as a third party vendor, uses cookies to serve [ads](http://mypeads.co.za/ "ads") on your site. Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
 
 **What do we use your information for?**
 
@@ -45,7 +45,7 @@ We use cookies to help us remember and process the items in your shopping cart, 
 
 **Do we disclose any information to outside parties?**
 
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, [advertising](http://mypeads.co.za/ "advertising"), or other uses.
 
 **Third party links**
 
@@ -60,7 +60,7 @@ Occasionally, at our discretion, we may include or offer third party products or
 
 We use third-party advertising companies to serve ads when you visit our Website. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, <http://www.networkadvertising.org/managing/opt_out.asp>
 
-**Online Privacy Policy Only**
+**[Online](http://mypeads.co.za/ "Online") Privacy Policy Only**
 
 This online privacy policy applies only to information collected through our website and not to information collected offline.
 
@@ -97,7 +97,7 @@ www.MyPE.co.za (“MyPE”) offers on-line listing of commercial providers of go
 
   * Invoicing is on a calendar month option or on a discounted annual, bi-annual or quarterly payment option.
   * Monthly payments must be paid in advance, before the 1st of every month and no later than the 8th day of each respective month.
-  * MyPE reserves the right to deactivate your advert from the website for accounts in arrears of 30 days from the issuing of invoice, until payment of the full amount outstanding as well as proof thereof is received.
+  * MyPE reserves the right to deactivate your [advert](http://mypeads.co.za/ "advert") from the website for accounts in arrears of 30 days from the issuing of invoice, until payment of the full amount outstanding as well as proof thereof is received.
   * The onus is on the lister to alert MyPE to the fact that payment of arrears amounts have been made.
   * In the case of an Annual Advert being initiated after the 15th day of a particular month, invoicing will only commence with the next calendar month, i.e. the month of initiation will be deemed to be free.
   * Annual payments are payable up front and in full for a 12 month listing period.
@@ -123,6 +123,10 @@ www.MyPE.co.za (“MyPE”) offers on-line listing of commercial providers of go
   * Should the advertiser owe any monies to MyPE in lieu of fees for advertising, such amount will be payable to MyPE within one (1) week of notice of cancellation from MyPE, as described above.
 
 
+
+[](http://mype.co.za/new/mesmerizing-mumenschanz-mime-returns/1799/2011/02)
+
+[](http://mype.co.za/new/port-elizabeth-7-february-2011/1790/2011/02)
 
 The following two tabs change content below.
 
