@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the exoticindiaart.com privacy policy that was archived on 2015-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150616095107id_/http%3A//www.exoticindiaart.com/privacy_policy.php3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the exoticindiaart.com privacy policy that was archived on 2015-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151215014206id_/http%3A//www.exoticindiaart.com/privacy_policy.php3) for the most accurate reproduction.*
 
-# Indian Jewelry - Indian Artwork Buddha Statues & Hindu Books | Exotic India Art
+# Indian Artwork - Buddha Statues & Hindu Books - Exotic India Art
 
 [](https://privacy.truste.com/privacy-seal/Indian-Arts-and-Crafts,-LLC-/validation?rid=20ac32c0-32ab-4c2e-85e2-bef7d1ddea6a "TRUSTe online privacy certification")
 
 Indian Arts and Crafts LLC dba Exotic India has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for our website: www.exoticindiaart.com
 
-Indian Arts and Crafts LLC has been awarded TRUSTe's Privacy Seal signifying that this privacy statement and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy-program-requirements/) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. The TRUSTe program covers only information that is collected through this Web site, www.exoticindiaart.com. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions.
+Indian Arts and Crafts, LLC. has received TRUSTe's Privacy Seal signifying that this privacy statement and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal. The TRUSTe program covers only information that is collected through this Web site, www.exoticindiaart.com
 
-If you have questions or concerns regarding this statement, you should first contact Dr. S. K. Verma at privacy@exoticindiaart.com. If you are not satisfied with our response you can contact [TRUSTe here](https://feedback-form.truste.com/watchdog/request).
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe at <https://feedback-form.truste.com/watchdog/request>.
 
 ##  ** _Registration_**
 
@@ -32,7 +32,7 @@ If you wish to subscribe to our newsletter, we will use your name and email addr
 
 ###  **Links to Other Sites**
 
-If you click on a link to a third party site, including on an advertisement, you will leave the www.exoticindiaart.com site you are visiting and go to the site you selected. Because we cannot control the activities of third parties, we cannot accept responsibility for any use of your personally identifiable information by such third parties, and we cannot guarantee that they will adhere to the same privacy practices as www.exoticindiaart.com. We encourage you to review the privacy statements of any other service provider from whom you request services. If you visit a third party website that is linked to an www.exoticindiaart.com site, you should read that site’s privacy statement before providing any personally identifiable information.
+If you click on a link to a third party site, including on an advertisement, you will leave the www.exoticindiaart.com site you are visiting and go to the site you selected. Because we cannot control the activities of third parties, we cannot accept responsibility for any use of your personally identifiable information by such third parties, and we cannot guarantee that they will adhere to the same privacy practices as www.exoticindiaart.com. We encourage you to review the privacy statements of any other service provider from whom you request services. If you visit a third party website that is linked to a www.exoticindiaart.com site, you should read that site’s privacy statement before providing any personally identifiable information.
 
 ###  **Exoticindiaart.com does not share, sell, rent or trade your personal information with third parties other than as described within this privacy statement.**
 
@@ -43,28 +43,24 @@ We use other third parties such as a shipping company to fulfill orders, and a c
 
 These third parties are prohibited from using your personally identifiable information for promotional purposes.
 
-**Cookies**  
-A cookie is a small text file that is stored on a user’s computer for record-keeping purposes. We use cookies on this site. We do not link the information we store in cookies to any personally identifiable information you submit while on our site.
+As is true of most websites, we gather certain information automatically and store it in log files. This information may include Internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and/or clickstream data.
 
-We use both session ID cookies and persistent cookies. We use session cookies to make it easier for you to navigate our site. A session ID cookie expires when you close your browser. A persistent cookie remains on your hard drive for an extended period of time.
+We may combine this automatically collected log information with other information we collect about you. We do this [to improve services we offer you, to improve marketing, analytics, or site functionality.
 
-We set a persistent cookie to maintain items in your shopping cart, so you don’t have to build it more than once. Persistent cookies also enable us to track and target the interests of our users to enhance the experience on our site.
+Technologies such as: cookies, beacons, tags and scripts are used by Indian Arts and Crafts, LLC. and our marketing partners, affiliates, and analytics providers. These technologies are used in analyzing trends, administering the site, tracking users' movements around the site and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis.
 
-If you reject cookies, you may still use our site, but your ability to use some areas of our site, such as shopping cart, will be limited.
+We use cookies for our shopping cart, to remember user settings like language or currency preferences and to track user visits to product pages. Users can control the use of cookies at the individual browser level. If you reject cookies, you may still use our site, but your ability to use some features or areas of our site may be limited.
 
- _Third Party Cookies_
+We use Local Shared Objects, such as Local Storage, such as HTML5, to store content information and preferences. Various browsers may offer their own management tools for removing HTML5.
 
-The use of cookies by third parties is not covered by our privacy statement. We do not have access or control over these cookies.
-
-**Clear Gifs (Web Beacons/Web Bugs)**  
-Third parties employ a software technology called clear gifs (a.k.a. Web Beacons/Web Bugs), that help us better manage content on our site by informing us what content is effective. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users. In contrast to cookies, which are stored on a user’s computer hard drive, clear gifs are embedded invisibly on Web pages and are about the size of the period at the end of this sentence. We do not tie the information gathered by clear gifs to our customers’ personally identifiable information.
+We partner with a third party to either display advertising on our website or to manage our advertising on other sites. Our third party partner may use technologies such as cookies to gather information about your activities on this website and other sites in order to provide you advertising based upon your browsing activities and interests. If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by [clicking here](http://preferences-mgr.truste.com/) (or if located in the European Union [click here](http://www.youronlinechoices.eu/)). Please note this does not opt you out of being served ads. You will continue to receive generic ads.
 
 **Security**  
 The security of your personal information is important to us. When you enter sensitive information (such as credit card number and/or social security number, national ID, personal health information) on our registration or order forms, we encrypt that information using secure socket layer technology (SSL).
 
 We follow generally accepted industry standards to protect the personally identifiable information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
 
-If you have any questions about security on our Web site, you can email us at **privacy@exoticindiaart.com**
+If you have any questions about security on our Web site, you can email us at **privacy@**
 
 **Choice/Opt-Out**  
 Our site provides users the opportunity to opt-out of receiving newsletters from us at the point where we request information about the visitor.
@@ -77,9 +73,9 @@ This site gives users the following options for removing their information from 
 
 
 **Correct/Update/Delete/Remove**  
-If your personally identifiable information changes, or if you no longer desire our service, you may correct, delete/remove or update it by making the change within the “My Account” section of the site once you have logged in or by emailing our Customer Support at [info@exoticindiaart.com](mailto:info@exoticindiaart.com). We will respond to your access request within 30 days.
+If your personally identifiable information changes, or if you no longer desire our service, you may correct, delete/remove or update it by making the change within the “My Account” section of the site once you have logged in or by emailing our Customer Support at info@exoticindiaart.com. We will respond to your access request within 30 days.
 
-We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer user your information to provide you services contact us at info@exoticindia.com. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.   
+We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer user your information to provide you services contact us at info@exoticindiaart.com. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.   
 **Customer Testimonials/Comments**  
 We post customer testimonials/comments on our web site which may contain personally identifiable information. We do obtain the customer's consent via email prior to posting the testimonial or comment to post their name along with their testimonial or comment. To request removal of your personal information from our testimonials or comments, contact us at [privacy@exoticindiaart.com](mailto:privacy@). In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
 
@@ -109,4 +105,4 @@ Kapil Goel Exotic India Art Pvt Ltd. 63 Model Basti New Delhi 110005 **Tel:** +9
 
 [privacy@exoticindiaart.com](mailto:privacy@)
 
-Last Updated on December 30, 2013
+Last Updated on July 07, 2015
