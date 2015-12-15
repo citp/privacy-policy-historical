@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wholesaledeals.co.uk privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623203928id_/http%3A//www.wholesaledeals.co.uk/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wholesaledeals.co.uk privacy policy that was archived on 2015-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151215174952id_/http%3A//www.wholesaledeals.co.uk/privacy.php) for the most accurate reproduction.*
 
 # Wholesale Deals Privacy Policy
 
