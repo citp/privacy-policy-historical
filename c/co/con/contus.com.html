@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the contus.com privacy policy that was archived on 2015-06-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150614011753id_/http%3A//www.contus.com/privacy-policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the contus.com privacy policy that was archived on 2015-12-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151215185722id_/http%3A//www.contus.com/privacy-policy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -9,7 +9,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-KGF332"></script><script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
         <!--Styles-->
-        <link rel="icon" href="images/favicon.ico" type="image/x-icon">
+        <link rel="icon" href="http://img.contus.com/new_images/favicon.ico" type="image/x-icon">
         <link href="new_css/header_footer.css" rel="stylesheet" media="screen">
         <style>
         	.header-bg {background: #000;height: 80px;}
@@ -37,7 +37,86 @@
     </head>
     <body>
     	<!--Google Tag Manager--><noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-KGF332" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript><script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f)})(window,document,'script','dataLayer','GTM-KGF332');</script><!--End Google Tag Manager-->        <div class="container main-wrapper clearfix">
-           <script src="http://www.contus.com/new_js/common_functions.js" type="text/javascript"></script>
+           <script src="http://img.contus.com/new_js/common_functions.js" type="text/javascript"></script>
+<script>
+//Header Fixed
+
+(function($){
+	$.fn.tmStickUp=function(options){ 
+		
+		var getOptions = {
+			corectionValue: 0
+		}
+		$.extend(getOptions, options); 
+
+		var
+			_this = $(this)
+		,	_window = $(window)
+		,	_document = $(document)
+		,	thisOffsetTop = 0
+		,	thisOuterHeight = 0
+		,	thisMarginTop = 0
+		,	documentScroll = 0
+		,	pseudoBlock
+		,	lastScrollValue = 0
+		,	scrollDir = ''
+		,	tmpScrolled
+		,	gridWidth = 0
+		,	tmpTop = 0
+		;
+
+		init();
+		function init(){
+			parentContainer = _this.parent();
+			thisOffsetTop = parseInt(_this.offset().top);
+			thisMarginTop = parseInt(_this.css("margin-top"));
+			thisOuterHeight = parseInt(_this.outerHeight(true));
+			gridWidth = parseInt($('.container').width());
+
+			$('<div class="pseudoStickyBlock"></div>').insertAfter(_this);
+			pseudoBlock = $('.pseudoStickyBlock');
+			pseudoBlock.css({"position":"absolute", "display":"block"});
+
+			_this.on("rePosition",
+				function(e,d){
+					tmpTop = d;
+					_document.trigger('scroll');
+				}
+			)
+
+			addEventsFunction();
+		}//end init
+
+		function addEventsFunction(){
+			_document.on('scroll', function() {
+
+				tmpScrolled = $(this).scrollTop();
+					if (tmpScrolled > lastScrollValue){
+						scrollDir = 'down';
+					} else {
+						scrollDir = 'up';
+					}
+				lastScrollValue = tmpScrolled;
+
+				documentScroll = parseInt(_document.scrollTop());
+				if(thisOffsetTop-thisMarginTop < documentScroll){
+					_this.addClass('isStuck');
+					_this.css({position:"fixed",top:tmpTop, zIndex:9999999999, left:0, right:0, margin:"0 auto", padding:"0"})
+					pseudoBlock.css({"height":thisOuterHeight});
+				}else{
+					_this.removeClass('isStuck');
+					_this.css({position:"absolute", top: 0});
+					pseudoBlock.css({"height":0});
+				}
+				
+			}).trigger('scroll');
+		}
+	}//end tmStickUp function
+})(jQuery)
+$(document).ready(function(){  
+  $('#header_container').tmStickUp({});
+});
+</script>
 <script src="https://www.google.com/recaptcha/api.js?onload=CaptchaCallback&amp;render=explicit&amp;hl=en" async="" defer=""></script>
 <!-- Header starts -->
             <header>
@@ -54,19 +133,19 @@
 			                     <a href="http://www.contus.com/overview.php" id="companymenu1" class="companymenu dropdown-toggle brand" title="Company">Company</a>
 		                        </li>
 				                <li class="dropdown">
-			                     <a href="javascript:void(0)" id="companymenu2" class="companymenu dropdown-toggle brand" title="Services">Services <b class="caret headerfooter-sprite"></b><i class="caret-desk"></i></a>
+			                     <a id="companymenu2" class="companymenu dropdown-toggle brand" title="Services">Services <b class="caret headerfooter-sprite"></b><i class="caret-desk"></i></a>
 		                          <ul class="dropdown-menu services-menu" id="menu2">
 		                            <li><a href="http://www.contus.com/mobile-application-development.php" title="Mobile App Development">Mobile App Development</a></li>
 		                            <li><a href="http://www.contus.com/ecommerce-web-development.php" title="eCommerce Development">eCommerce Development</a></li>
-		                            <li><a href="http://www.contus.com/magento-development.php" title="Magento Development">Magento Development</a></li>
+		                            <li><a href="http://www.contus.com/magento-development.php" title="Magento Development">Magento® Development</a></li>
 		                            <li><a href="http://www.contus.com/web-development.php" class="border-none" title="Web Application Development">Web Application Development</a></li>
 		                            <li><a href="http://www.contus.com/cloud-solutions.php" class="border-none" title="Cloud Solutions">Cloud Solutions</a></li>
 		                          </ul>
 				                 </li>
 				                 <li class="dropdown">
-			                     <a href="javascript:void(0)" id="companymenu5" class="companymenu dropdown-toggle brand" title="Solutions">Solutions <b class="caret headerfooter-sprite"></b><i class="caret-desk"></i></a>
+			                     <a id="companymenu5" class="companymenu dropdown-toggle brand" title="Solutions">Solutions <b class="caret headerfooter-sprite"></b><i class="caret-desk"></i></a>
 		                          <ul class="dropdown-menu services-menu" id="menu5">
-		                            <li><a href="http://www.contus.com/mobile-commerce.php" title="Mobile Commerce Solutions">Contus M-comm</a></li>
+		                            <li><a href="http://www.contus.com/mobile-commerce.php" title="Mobile Commerce Solutions">Contus M-Comm</a></li>
 		                            <li><a href="http://www.contus.com/messaging-solutions.php" class="border-none" title="Messaging Solutions">Contus Fly</a></li>
 		                          </ul>
 				                 </li>
@@ -74,7 +153,7 @@
 				                   <a class="brand" href="http://www.contus.com/products.php" title="Products">Products</a>
 				                </li>
 				                <li class="dropdown resources-menu-main">
-			                      <a href="javascript:void(0)" class="companymenu dropdown-toggle brand" id="companymenu3" title="Resources">Resources <b class="caret headerfooter-sprite"></b><i class="caret-desk"></i></a>
+			                      <a class="companymenu dropdown-toggle brand" id="companymenu3" title="Resources">Resources <b class="caret headerfooter-sprite"></b><i class="caret-desk"></i></a>
 			                       <ul class="dropdown-menu resources-menu" id="menu3">
 				                       <li><a href="http://blog.contus.com/" target="_blank" title="Blog">Blog</a></li>
 				                       <li><a href="http://www.contus.com/casestudy.php" title="Case Studies">Case Studies</a></li>
@@ -91,7 +170,10 @@
 							</div>
 				         </nav>
 				   </div>
-				</header> 
+				</header>
+				<div id="pageclick">				
+<!--
+//-->		 
            <div class="header-bg"></div><!--header-bg--> 
             <div class="wrapper-content clearfix">
                 <div id="privacy-policy">
@@ -123,6 +205,8 @@
                 </div>
             </div>
                    <!-- footer starts -->
+     
+     </div><!-- page onclick header close -->
 			<div id="footer" class="clearfix footer">
 			 	<div class="footer-wrap">
 			 		<div class="footer-top clearfix">
@@ -176,18 +260,16 @@
 				</div>
 			  </div>
 		<!-- footer ends -->
-		<script type="text/javascript">
-		$(window).scroll(function() {    
-			var scroll = $(window).scrollTop();
-			if (scroll >= 30) {
-		        $(".header_container").addClass("fixed-tab");
-			}else{
-				 $(".header_container").removeClass("fixed-tab");
-			};
-		    ;
-		});
-		</script>
-		<script type="text/javascript" src="http://www.contus.com/new_js/common.js"></script>        </div>
+		<script type="text/javascript" src="http://img.contus.com/new_js/common.js"></script>		
+		
+		 <script>
+		 var windowWidthfull = $(window).width();
+		 if(windowWidthfull < 980){
+			 $('#pageclick').on('click', function(){
+		    	 jQuery("#nav").slideUp();
+		    	   });
+		 }       
+        </script>        </div>
     
 
 </body></html>
