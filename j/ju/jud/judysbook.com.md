@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the judysbook.com privacy policy that was archived on 2015-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150501195439id_/http%3A//www.judysbook.com/terms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the judysbook.com privacy policy that was archived on 2015-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151215103048id_/http%3A//www.judysbook.com/terms) for the most accurate reproduction.*
 
 # Terms of Use & Privacy - Judy's Book
 
@@ -30,7 +30,7 @@ You agree to comply with our site rules, including, specifically, the Judy's Boo
 
 **Content  
 **   
-Please choose carefully the information you post on Judy's Book and that you provide to other users. Your Judy's Book profile may not include the following items: telephone numbers, street addresses, photographs containing nudity, or obscene, lewd, excessively violent, harassing, sexually explicit or otherwise objectionable subject matter. Despite this prohibition, information provided by other Judy's Book Members (for instance, in their profile) may contain inaccurate, inappropriate, offensive or sexually explicit material, products or services, and Judy's Book assumes no responsibility or liability for this material. If you become aware of misuse of the Judy's Book site by any person, please contact Judy's Book at [info@judysbookteam.com](mailto:info@judysbookteam.com). 
+Please choose carefully the information you post on Judy's Book and that you provide to other users. Your Judy's Book profile may not include the following items: telephone numbers, street addresses, photographs containing nudity, or obscene, lewd, excessively violent, harassing, sexually explicit or otherwise objectionable subject matter. Despite this prohibition, information provided by other Judy's Book Members (for instance, in their profile) may contain inaccurate, inappropriate, offensive or sexually explicit material, products or services, and Judy's Book assumes no responsibility or liability for this material. If you become aware of misuse of the Judy's Book site by any person, please contact Judy's Book through the [Help](https://web.archive.org/help). 
 
 Judy's Book may delete any content that in the sole judgment of Judy's Book violates this agreement or which may be offensive, illegal or violate the rights, harm, or threaten the safety of any person. Judy's Book assumes no responsibility for monitoring the Judy's Book site for inappropriate content or conduct. If at any time Judy's Book chooses, in its sole discretion, to monitor the Judy's Book site, Judy's Book nonetheless assumes no responsibility for the content, no obligation to modify or remove any inappropriate content, and no responsibility for the conduct of the user submitting any such content. 
 
@@ -38,7 +38,7 @@ You are solely responsible for the content that you post on or through the Judy'
 
 You retain all ownership rights to content you publish on Judy's Book (your "Content"). However, you grant Judy's Book a nonexclusive, royalty-free, perpetual, irrevocable, and assignable right to use, reproduce, modify, adapt, publish, translate, create derivative works from, distribute, and display such Content throughout the world in any media. You grant Judy's Book and its affiliates and sublicensees the right to use the name that you submit in connection with such Content, if they choose. We can publish all or teaser portions of your Content online and offline and permit others to do the same. We ask that you refer or provide links to Judy's Book if you choose to republish your Content elsewhere and that you do not publish the same items of Content on both Judy's Book and other product or service review or recommendation sites. 
 
-If you believe content on Judy's Book infringes your copyright or other intellectual property rights, or is defamatory, you can contact our agent for service of notice at [info@judysbookteam.com](mailto:info@judysbookteam.com). Please make sure your notice meets the Digital Millennium Copyright Act requirements. 
+If you believe content on Judy's Book infringes your copyright or other intellectual property rights, or is defamatory, you can contact our agent for service of notice through the [Help](https://web.archive.org/help). Please make sure your notice meets the Digital Millennium Copyright Act requirements. 
 
 **Termination  
 **   
@@ -140,11 +140,15 @@ We encourage parents to take an active interest in their children's use of the I
 **   
 Our web site contains links to other web sites. Any personal information you provide on the linked pages is provided directly to that third party and is subject to that third party's privacy policy. Except as described above, we are not responsible for the content or privacy and security practices and policies of web sites to which we link. Links from our web site to third parties or to other sites are provided for your convenience. We encourage you to learn about their privacy and security practices and policies before providing them with personal information. 
 
+**Geocoding**
+
+Geocoding provided by [Texas A&M Geoservices](https://geoservices.tamu.edu/)
+
 **Your Comments or Concerns  
 **   
 We welcome your feedback. If you have any comments or concerns about this privacy policy or would like to contact us for any reason, you may reach us at:
 
-E-Mail: [info@judysbookteam.com](mailto:info@judysbookteam.com)
+Help: [Send feedback](https://web.archive.org/HelpPages/Custom/Cannot-find-what-I-am-looking-for.aspx)
 
 Postal Mail:  
 733 7th Ave, STE 212  
