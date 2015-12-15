@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the vivocha.com privacy policy that was archived on 2012-07-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120712154829id_/https%3A//www.vivocha.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vivocha.com privacy policy that was archived on 2015-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151215060259id_/http%3A//www.vivocha.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - VivochaVivocha | Vivocha
-
-[Vivocha](https://web.archive.org/) Skip to content
-
-of  **www.vivocha.com  **This website collects some Personal Data of its Users.
+# Vivocha - Privacy
 
 ## Personal Data
 
@@ -14,7 +10,7 @@ The Personal Data and Browser Data (hereinafter collectively referred to as “D
 
 ### Owner of the Data Processing System
 
-Vivocha s.r.l. – via Colomba Antonietti 3 09134  CAGLIARI (CA) \- Italy,  
+Vivocha S.p.A. – via Giotto 38 09121 CAGLIARI (CA) - Italy,  
 info@vivocha.com
 
 ## Kinds of Data
