@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the fibogroup.com privacy policy that was archived on 2014-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141206092507id_/http%3A//fibogroup.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fibogroup.com privacy policy that was archived on 2015-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151215032754id_/http%3A//fibogroup.com/privacy-policy) for the most accurate reproduction.*
 
-# FIBO Group Privacy Policy
+# Privacy policy - FIBO Group
 
-## General Provisions
+### General provisions
 
-The International Financial Holding FIBO Group (hereinafter referred to as “FIBO Group”) highly appreciates the relationships with the existing and potential clients (hereinafter referred to as “Clients”) and visitors of the FIBO Group Internet resources, and understands the importance of security and privacy of their personal data.
-
-FIBO Group operates in full compliance with the International Safe Harbour Privacy Principles and the existing legislation.
+The International Financial Holding FIBO Group (hereinafter referred to as “FIBO Group”) highly appreciates the relationships with the existing and potential clients (hereinafter referred to as “Clients”) and visitors of the FIBO Group Internet resources, and understands the importance of security and privacy of their personal data. FIBO Group operates in full compliance with the International Safe Harbour Privacy Principles and the existing legislation.
 
 We always pay a due attention to the privacy protection of your personal data. Visitors of the FIBO Group Internet resources can view most of the pages of our website, but the amount of the information that is being collected from the visitors does not exceed the volume of data that is normally collected at the work protocols of an average internet server. However, in order for us to provide you with the basic services, we may require some of your personal details. Any information received from you is used solely and exclusively for the purpose of improving the quality of our services and to make our services as well as the contents of the FIBO Group Internet resources simpler and more comfortable to use.
 
@@ -16,7 +14,7 @@ By accepting the terms and conditions of the Customer Agreement and/ or using th
 
 In case of non-acceptance of this Privacy Policy the use of the services of FIBO Group must be terminated.
 
-## The Internet resources that are under this Privacy Policy
+### The Internet resources that are under this Privacy Policy
 
 This Privacy Policy applies to all the Internet resources of FIBO Group (web sites, domains, as well as all subordinate objects that are owned or controlled, and / or managed by FIBO Group) and does not apply to the web sites of other (non-affiliated) companies connected with FIBO Group via hypertext links.
 
@@ -24,11 +22,11 @@ FIBO Group acts on the assumption that the user who resorts to the of FIBO Group
 
   * uses the Internet resources of FIBO Group on his or her own behalf and reliably states the personal data when it is needed;
   * defines and controls the settings of the software that is used;
-  * has the opportunity to get acquainted with this Privacy Policy by clicking on the hypertext link “[Privacy Policy](https://web.archive.org/privacy_policy.html)” from any page of the FIBO Group Internet resources.
+  * has the opportunity to get acquainted with this Privacy Policy by clicking on the hypertext link “Privacy Policy” from any page of the FIBO Group Internet resources.
 
 
 
-## Rights of Client concerning personal data
+### Rights of Client concerning personal data
 
 We guarantee to the Clients of FIBO Group that we comply with the following rights:
 
@@ -42,11 +40,9 @@ We guarantee to the Clients of FIBO Group that we comply with the following righ
 
 Client has right to disclose his/ her own personal information in any legitimate way. We are not responsible for any actions of the third parties, who may obtained access to the Client’s personal information as a result of the stated above distribution of the personal data, or obtained access to the Client’s personal data illegally.
 
-## Collection, storage, protection and use of personal data of Clients
+### Collection, storage, protection and use of personal data of Clients
 
-### Collection
-
-The following refers to personal data of Clients:
+**Collection**
 
   * personal information stated by Client when completing the electronic forms (registration of an account), as well as when writing messages to FIBO Group, requests via the form of the online chat on the FIBO Group Internet resources, etc. The information may include: name, date of birth, address, passport details, telephone, e-mail, trading experience etc;
   * financial documents provided by Client in order to confirm the fact of transaction: certified payment order, bank statements, copies of credit cards, etc:
@@ -55,7 +51,7 @@ The following refers to personal data of Clients:
 
 
 
-### Storage and protection
+**Storage and protection**
 
 We take all the necessary measures to protect personal data from unauthorized access, alteration, disclosure or destroying. These measures include, in particular, internal monitoring of the collection, storage and processing the data and the security measures, including appropriate encryption and physical protection of data in order to prevent unauthorized access to the personal database.
 
@@ -63,7 +59,7 @@ The company commits not to provide access to Clients’ personal data to anyone 
 
 FIBO Group is eligible to disclose the personal data of the Clients to the federal or state regulating and law enforcement authorities under which jurisdiction FIBO Group is located, as a response to appropriate legal requests to provide such information, as well as to disclose such information where requested by the Court Order.
 
-### Use of personal data of Clients
+**Use of personal data of Clients**
 
 FIBO Group uses personal data of Clients in order to provide high quality of products and services rendered, perfect execution of its contractual obligations with clients and, ultimately, the success of the business in general.
 
@@ -83,9 +79,9 @@ When going to another Internet resource by any of these links, you are moving aw
 
 The personal data that you give to other companies do not fall under the operation of this Privacy Policy. We recommend, therefore, that you familiarize yourself with privacy policies of other companies before providing them with your personal information.
 
-### Statement regarding under age persons.
+### Statement regarding under age persons
 
-FIBO Group admits the necessity of assuming a liability for the protection of information received from under age persons. We insistently recommend parents to instruct their children in such a manner that when using the Internet, the children never disclose their real names, addresses or phone numbers without prior permission of adults.
+FIBO Group admits the necessity of assuming a liability for the protection of information received from under age persons. We insistently recommend parents to instruct their children in such a manner that when using the Internet, the children never disclose their real names, addresses or phone numbers without prior permission of adults
 
 FIBO Group commits not to use the information provided by children under the age of 12 years old.
 
@@ -93,22 +89,21 @@ It is recommended for teenagers of 13-17 years old to familiarize themselves wit
 
 The persons under the age of 18 years old are not allowed to use any products and services of FIBO Group rendered via Internet, without the permission of their parents or tutors. We are addressing to the parents and tutors for vigilance in order to prevent access to the web sites and services which are not appropriate for minors.
 
-**The routine of correspondence sent to FIBO Group**
+### The routine of correspondence sent to FIBO Group
 
 All the correspondence (by post or e-mail, any comments on the Fibo Group materials) sent to us by the Clients or visitors of the FIBO Group Internet resources, is treated by FIBO Group as confidential and may only be published with the written consent of senders. The address, the phone number and other personal details of the sender cannot be used without his/ her consent for any purpose other than responding to the Client, and only regarding the matter, that the initial letter from the client was referring to.
 
-## Final Provisions
+### Final Provisions
 
-This Privacy Policy is an open document for general use. The current edition is available on our site and has a permanent address - <http://fibogroup.com/privacy_policy.html>.
+This Privacy Policy is an open document for general use. The current edition is available on our site and has a permanent address - <http://fibogroup.com/privacy_policy/> .
 
 FIBO Group reserves the right to change the Privacy Policy, notifying about any changes on the webpage situated at the above address. Date of the current edition would be indicated at the top of the page. Changes that are made in this Privacy Policy will be published on this page. In the case of significant changes to the Policy, we will notify you in more evident way (eg. by sending a newsletter via e-mail).
 
-Please send your comments on this Privacy Policy, to the e-mail addresses shown under the "Contacts" Section on the FIBO Group internet resources.
+Please send your comments on this Privacy Policy, to the e-mail addresses shown under the «Contacts» Section on the FIBO Group internet resources.
 
-## Special Notice
+### Special Notice
 
-This website uses Google Analytics, a web analysis service of Google Inc. («Google»). Google Analytics uses so-called «Cookies», text files that are stored in your computer which allow them to make an analysis of your use of the website. The cookies created with information about your use of this website are usually transferred to a Google server in the U.S. and it is stored there. Google uses this information on the instructions of the owner of the web site to analyze your preferences, compiling reports on activities related to the website as well as update other services related of the website and Internet.
+This website uses Google Analytics, a web analysis service of Google Inc. («Google»). Google Analytics uses so-called «Cookies», text files that are stored in your computer which allow them to make an analysis of your use f the website. The cookies created with information about your use of this website are usually transferred to a Google server in the U.S. and it is stored there. Google uses this information on the instructions of the owner of the web site to analyze your preferences, compiling reports on activities related to the website as well as update other services related of the website and Internet.
 
-The IP - address transmitted by your browser within Google Analytics is not merged with other data of Google. You can prevent the saving of Cookies configuring software on your browser. However we should warn you that in this case you may not be able to use the full functionality of this website. In addition, you can prevent data registration at Google, created by Cookies and related to the use of the website (including your IP- address) as well as the processing of the data by Google, if you download and install an integrated browser module in the link below:
-
-<https://tools.google.com/dlpage/gaoptout?hl=en>
+The IP - address transmitted by your browser within Google Analytics is not merged with other data of Google. You can prevent the saving of Cookies configuring software on your browser. However we should warn you that in this case you may not be able to use the full functionality of this website. In addition, you can prevent data registration at Google, created by Cookies and related to the use of the website (including your IP- address) as well as the processing of the data by Google, if you download and install an integrated browser module in the link below:  
+https://tools.google.com/dlpage/gaoptout?hl=en
