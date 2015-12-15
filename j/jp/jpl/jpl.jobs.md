@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the jpl.jobs privacy policy that was archived on 2014-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141219160708id_/http%3A//www.jpl.nasa.gov/copyrights.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jpl.jobs privacy policy that was archived on 2015-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151215130830id_/http%3A//www.jpl.nasa.gov/copyrights.php) for the most accurate reproduction.*
 
-# JPL | Copyrights
+# Copyrights
 
 Unless otherwise noted, Web sites in the domain **jpl.nasa.gov** are managed by the California Institute of Technology in support of the missions and research programs that its Jet Propulsion Laboratory conducts for NASA. This document describes Caltech/JPL's policies on privacy, security, accessibility, linking and copyright. 
 
