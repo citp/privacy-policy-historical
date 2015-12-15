@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the genechy.com privacy policy that was archived on 2015-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150616125705id_/http%3A//www.genechy.com/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the genechy.com privacy policy that was archived on 2015-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151215103655id_/http%3A//www.genechy.com/p/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - GeneChy
 
