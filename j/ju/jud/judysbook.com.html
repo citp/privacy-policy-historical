@@ -1,13 +1,66 @@
-<!--The following is the downloaded HTML source of the judysbook.com privacy policy that was archived on 2015-05-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150501195439id_/http%3A//www.judysbook.com/terms) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the judysbook.com privacy policy that was archived on 2015-12-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151215103048id_/http%3A//www.judysbook.com/terms) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml"><head id="ctl00_Head1"><title>
 	Terms of Use &amp; Privacy - Judy's Book
-</title><meta charset="utf-8"><link href="http://static2.judysbook.com/CSS/newJudyV17.css" rel="stylesheet" type="text/css"><link href="http://static2.judysbook.com/CSS/2011Rev1.css" rel="stylesheet" type="text/css"><link href="http://static2.judysbook.com/img/common/socialSearchIcons/lowCompat.css" rel="stylesheet" type="text/css"><link href="asb-includes/AutoSuggestBox.css" rel="stylesheet" type="text/css"><link href="http://static2.judysbook.com/CSS/KidScore.css" rel="stylesheet" type="text/css">           
+</title><meta charset="utf-8"><link href="http://static2.judysbook.com/CSS/newJudyV17.css" rel="stylesheet" type="text/css"><link href="http://static2.judysbook.com/CSS/2011Rev1.css" rel="stylesheet" type="text/css"><link href="http://static2.judysbook.com/img/common/socialSearchIcons/lowCompat.css" rel="stylesheet" type="text/css"><link href="http://static2.judysbook.com/CSS/KidScore.css" rel="stylesheet" type="text/css"><link href="http://static2.judysbook.com/CSS/flick/jquery-ui-1.8.18.custom.css" rel="stylesheet" type="text/css">
+        <script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script type="text/javascript" src="http://static2.judysbook.com/JS/Jquery/jquery-1.7.2.min.js"></script>
+        <script type="text/javascript" src="http://static2.judysbook.com/JS/Jquery/jquery-ui-1.8.18.custom.min.js"></script>
+        
+        
+        <script type="text/javascript">
+            if (!window.console) window.console = {};
+            if (!window.console.log) window.console.log = function () { };
 
-    <script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script type="text/javascript" src="http://static2.judysbook.com/JS/Jquery/jquery-1.4.1.js"></script>
-
-    <script type="text/javascript">
+            $(function () {
+                var availableTags = ["ActionScript", "AppleScript", "Asp", "BASIC", "C", "C++", "Clojure", "COBOL", "ColdFusion", ];
+                $("#TxtLocation").autocomplete({
+                    source: function (request, response) {
+                        $.ajax({
+                            url: "/Autocomplete/Autocomplete.asmx/getLocationAutocomplete",
+                            data: "{ 'locationStartsWith': '" + escape(request.term) + "' }",
+                            dataType: "json",
+                            type: "POST",
+                            contentType: "application/json; charset=utf-8",
+                            dataFilter: function (data) { return data; },
+                            success: function (data) {
+                                response(data.d);
+                            },
+                            error: function (XMLHttpRequest, textStatus, errorThrown) {
+                                //alert(textStatus + ", " + errorThrown + ", " + XMLHttpRequest );
+                                console.log(textStatus + ", " + errorThrown + ", " + XMLHttpRequest);
+                            }
+                        });
+                    },
+                    minLength: 2,
+                    autoFocus: false,
+                    delay: 200
+                });
+                $("#TxtKeyword").autocomplete({
+                    source: function (request, response) {
+                        $.ajax({
+                            url: "/Autocomplete/Autocomplete.asmx/getBusinessAutocomplete",
+                            data: "{ 'businessStartsWith': '" + escape(request.term) + "' }",
+                            dataType: "json",
+                            type: "POST",
+                            contentType: "application/json; charset=utf-8",
+                            dataFilter: function (data) { return data; },
+                            success: function (data) {
+                                response(data.d);
+                            },
+                            error: function (XMLHttpRequest, textStatus, errorThrown) {
+                                //alert(textStatus + ", " + errorThrown + ", " + XMLHttpRequest );
+                                console.log(textStatus + ", " + errorThrown + ", " + XMLHttpRequest);
+                            }
+                        });
+                    },
+                    minLength: 2,
+                    autoFocus: false,
+                    delay: 200
+                });
+            });	
+        </script>
+        <script type="text/javascript">
             function addLoadEvent(func) {
                 var oldonload = window.onload;
                 if (typeof window.onload != 'function') {
@@ -23,11 +76,11 @@
             }
 
             //addLoadEvent(showLocationBox);
-    </script>
+        </script>
 
-    <script type="text/javascript">
-        var googletag = googletag || {};
-        googletag.cmd = googletag.cmd || [];
+        <script type="text/javascript">
+            var googletag = googletag || {};
+            googletag.cmd = googletag.cmd || [];
             (function () {
                 var gads = document.createElement('script');
                 gads.async = true;
@@ -37,50 +90,52 @@
                 var node = document.getElementsByTagName('script')[0];
                 node.parentNode.insertBefore(gads, node);
             })();
-    </script>
+        </script>
+        <script type="text/javascript">
+            googletag.cmd.push(function () {
+                googletag.defineSlot('/1079665/Leaderboard', [728, 90], 'div-gpt-ad-1374691445255-0').addService(googletag.pubads());
+                googletag.pubads().enableSingleRequest();
+                googletag.enableServices();
+            });
+        </script>
 
-    <script type="text/javascript">
-        googletag.cmd.push(function () {
-            googletag.defineSlot('/1079665/Leaderboard', [728, 90], 'div-gpt-ad-1374691445255-0').addService(googletag.pubads());
-            googletag.pubads().enableSingleRequest();
-            googletag.enableServices();
-        });
-    </script>
+        
+        <script type="text/javascript" language="javascript">
+            var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+            document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+        </script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+        <script type="text/javascript" language="javascript">
+            var pageTracker = _gat._getTracker("UA-3696293-5");
+            pageTracker._initData();
+            pageTracker._trackPageview();
+        </script>
 
-    <script type="text/javascript" language="javascript">
-        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-    </script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-    <script type="text/javascript" language="javascript">
-        var pageTracker = _gat._getTracker("UA-3696293-5");
-        pageTracker._initData();
-        pageTracker._trackPageview();
-    </script>
+        
 
-    
-    <script src="//cdn.optimizely.com/js/45562692.js"></script>
+        
+        <script type="text/javascript" src="//cdn.optimizely.com/js/45562692.js"></script>
 
-    
-<meta name="description" content="Inverness Local Reviews &amp; Recommendations of Contractors, Plumbers, Home &amp; Garden, Lawyers, Doctors, Dentists, Kid Friendly Eateries, more."><script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js"></script></head>
-<body id="home" class="home">
-    <div id="fb-root">
-    </div>
-    <input name="ctl00$fbloggingin" type="hidden" id="ctl00_fbloggingin">
-    <input name="ctl00$fbloggingout" type="hidden" id="ctl00_fbloggingout">
-    
-    <form name="aspnetForm" method="post" action="/Terms" id="aspnetForm">
+        
+<meta name="description" content="Grand Junction Local Reviews &amp; Recommendations of Contractors, Plumbers, Home &amp; Garden, Lawyers, Doctors, Dentists, Kid Friendly Eateries, more."><script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js"></script></head>
+
+    <body id="home" class="home">
+        <div id="fb-root">
+        </div>
+        <input name="ctl00$fbloggingin" type="hidden" id="ctl00_fbloggingin">
+        <input name="ctl00$fbloggingout" type="hidden" id="ctl00_fbloggingout">
+        
+        <form name="aspnetForm" method="post" action="/terms" id="aspnetForm">
 <div>
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTY1NDU2MTA1Mg9kFgJmD2QWBmYPZBYEAgEPFgIeBFRleHQFKTxtZXRhIG5hbWU9Imdvb2dsZWJvdCIgY29udGVudD0ibm9pbmRleCI+ZAIMDxYCHgdjb250ZW50BYsBSW52ZXJuZXNzIExvY2FsIFJldmlld3MgJiBSZWNvbW1lbmRhdGlvbnMgb2YgQ29udHJhY3RvcnMsIFBsdW1iZXJzLCBIb21lICYgR2FyZGVuLCBMYXd5ZXJzLCBEb2N0b3JzLCBEZW50aXN0cywgS2lkIEZyaWVuZGx5IEVhdGVyaWVzLCBtb3JlLmQCAw8PFgIeB1Zpc2libGVoZGQCBBAWAh4GYWN0aW9uZGQWBAIBD2QWBAIBDw8WAh8ABQ1JbnZlcm5lc3MsIEZMZGQCAw9kFgRmD2QWBAIBDw8WAh4LTmF2aWdhdGVVcmwFGn4vbG9naW4/UmV0dXJuVXJsPSUyZlRlcm1zZGQCBQ9kFgJmDxYCHgVjbGFzcwUSc3BfYnRuX2ZiQ29ubmVjdExnFgICAQ8WAh8AZWQCAg9kFgICDw8PFgIfBAUfL2xvZ291dC5hc3B4P1JldHVyblVybD0lMmZUZXJtc2RkAgcPZBYCAgEPDxYCHwAFCUlOVkVSTkVTU2RkZJiFvCyZzjtZoJlHY3FUZAReVEfW">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTY1NDU2MTA1Mg9kFgJmD2QWBmYPZBYEAgEPFgIeBFRleHQFKTxtZXRhIG5hbWU9Imdvb2dsZWJvdCIgY29udGVudD0ibm9pbmRleCI+ZAIMDxYCHgdjb250ZW50BZABR3JhbmQgSnVuY3Rpb24gTG9jYWwgUmV2aWV3cyAmIFJlY29tbWVuZGF0aW9ucyBvZiBDb250cmFjdG9ycywgUGx1bWJlcnMsIEhvbWUgJiBHYXJkZW4sIExhd3llcnMsIERvY3RvcnMsIERlbnRpc3RzLCBLaWQgRnJpZW5kbHkgRWF0ZXJpZXMsIG1vcmUuZAIDDw8WAh4HVmlzaWJsZWhkZAIEEBYCHgZhY3Rpb25kZBYEAgEPZBYEAgMPDxYCHwAFEkdyYW5kIEp1bmN0aW9uLCBDT2RkAgUPZBYEZg9kFgICAQ8PFgIeC05hdmlnYXRlVXJsBSB+L1NpZ25Jbi5hc3B4P1JldHVyblVybD0lMmZ0ZXJtc2RkAgIPZBYCAg8PDxYCHwQFHy9sb2dvdXQuYXNweD9SZXR1cm5Vcmw9JTJmdGVybXNkZAIHD2QWAmYPDxYCHwAFDkdSQU5EIEpVTkNUSU9OZGRkcxNVbxgYX8v0uonXDZeuzhm7KoQ=">
 </div>
 
 <div>
 
-	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWBgLuwsnLDwLx25jDAwLa2+DmBwLCvtz+AQKqx5vPBgLShaXcCdn1+GmM/OmkebIUxFMhtdquUlh7">
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWBgKivZDNDwLx25jDAwLa2+DmBwLCvtz+AQLShaXcCQKqx5vPBm13BYxvjs0mz0OVEFUrYlrIBnmb">
 </div>
-    <input type="hidden" name="FBCALL" value="">
-    <input type="hidden" name="FBVALUE" value="">
-    
-    
+            <input type="hidden" name="FBCALL" value="">
+            <input type="hidden" name="FBVALUE" value="">
+            
 <script type="text/javascript">
     function toggleDiv() {
         var div = document.getElementById("hideDiv");
@@ -93,42 +148,42 @@
 </script>
 <div id="header">
 	<div class="wrapper">
-		<div id="logo">
-			<a href="/Default.aspx"><span>Judy's Book</span></a>
-		</div>
-		<div id="location-select">
-            <a href="javascript:toggleDiv();"><span>
-                <span id="ctl00_NavHome_currCityLabel">Inverness, FL</span></span></a>
-		</div>
-		<div id="write-review">
-			<a href="/post"><span>Write A Review</span></a>
-		</div>
-        
-        <div id="divSocialSearchLinks">                                        
-            <span id="spnSocialSearchLinks">                                  
-                <a id="fb_social_link" href="https://www.facebook.com/judysbook" target="_blank">
-                    <img id="img_fb_social_link" class="socialSearchIcons/Facebook.png" src="http://static2.judysbook.com/img/common/socialSearchIcons/blank.gif" style="border-width:0px;">
-                </a>                
-                <a id="tw_social_link" href="https://twitter.com/judysbook" target="_blank">
-                    <img id="img_tw_social_link" class="socialSearchIcons/Twitter.png" src="http://static2.judysbook.com/img/common/socialSearchIcons/blank.gif" style="border-width:0px;">
-                </a>                
-                <a id="ln_social_link" href="http://www.linkedin.com/company/judy's-book" target="_blank">
-                    <img id="img_ln_social_link" class="socialSearchIcons/LinkedIn.png" src="http://static2.judysbook.com/img/common/socialSearchIcons/blank.gif" style="border-width:0px;">
-                </a>                
-                <a id="pt_social_link" href="http://pintrest.com/judysbook" target="_blank">
-                    <img id="img_pt_social_link" class="socialSearchIcons/Pintrest.png" src="http://static2.judysbook.com/img/common/socialSearchIcons/blank.gif" style="border-width:0px;">
-                </a>                                                        
+        <span class="centerHelper"></span>
+        <div id="leftSection" class="centerItem">
+            <span class="centerHelper">        
             </span>
+		
+            <div id="logo" class="centerItem">			
+                <a href="/"><span>Judy's Book</span></a>
+		    </div>
+
+            
+
+
+    <div id="mainsearchBox" class="centerItem">
+    
+        <input name="ctl00$NavHome$searchControl$TxtKeyword" type="text" id="TxtKeyword" tabindex="1">
+        <span class="centerItem">near</span>
+        <input name="ctl00$NavHome$searchControl$TxtLocation" type="text" value="Grand Junction, CO" maxlength="100" id="TxtLocation" tabindex="2" autocomplete="off">        
+        <input type="submit" name="ctl00$NavHome$searchControl$ButtonGetstarted" value="" id="ButtonGetstarted" tabindex="3" class="genericButton orange">
+
+    </div>
+
+
+		    
+            <div id="location-select" style="display:none;">
+                <a href="javascript:toggleDiv();"><span>
+                    <span id="ctl00_NavHome_currCityLabel">Grand Junction, CO</span></span></a>
+		    </div>
+    
         </div>
 
-        <div id="ctl00_NavHome_membershipStatusControl_PnNotLogin" style="float:right;font-size:8pt;">
+
+        <div id="rightSection" class="centerItem">
+            <div id="ctl00_NavHome_membershipStatusControl_PnNotLogin" class="centerItem" style="font-size:8pt;">
         <ul>
-          <li style="display:inline; float:left; padding-top: 15px;"><a id="ctl00_NavHome_membershipStatusControl_HpkLogin" rel="nofollow" href="login?ReturnUrl=%2fTerms" style="font-size:8pt;padding: 0 12px 0 12px; color: #fff; font-weight: bold; font-size: 14px;">Login</a></li>
-          <li style="display:inline;float:left; padding-top: 15px;"> <a id="ctl00_NavHome_membershipStatusControl_HyperLink1" rel="nofollow" href="Join" style="font-size:8pt;padding: 0 12px 0 12px; color: #fff; font-weight: bold; font-size: 14px;">Signup</a> </li>
-          <li style="display:inline;float:left; padding-top: 10px;"><span style="font-size:8pt"> </span><a href="javascript:void(0);" id="ctl00_NavHome_membershipStatusControl_fbloginBtn_fbButton" onclick="FB.login(function(response){if(response.authResponse){
-document.forms[0].FBCALL.value = 'FBAuth';
-document.forms[0].FBVALUE.value = response.authResponse.accessToken;
-document.forms[0].submit();}},{scope:'email,publish_stream'});return false;" class="sp_btn_fbConnectLg"><span class="hide"></span></a></li>
+          <li style="display:inline; float:left;"><a id="ctl00_NavHome_membershipStatusControl_HpkLogin" rel="nofollow" href="SignIn.aspx?ReturnUrl=%2fterms" style="padding: 0 12px 0 12px; color: #fff; font-weight: bold; font-size: 16px; text-decoration:none;">Sign in</a></li>
+          
         </ul>
     </div>
     
@@ -137,6 +192,19 @@ document.forms[0].submit();}},{scope:'email,publish_stream'});return false;" cla
      
      
 
+
+            <a href="/BusinessCenter/ClaimBusiness.aspx" class="centerItem">
+                <div id="divBizOwnerCenter" class="genericButton lightGreen">
+                    Owners
+                </div>                
+            </a>
+
+           <div id="helpLink" class="centerItem">        
+                <a href="/help" style="padding: 0 10px; color: #fff; font-weight: bold; font-size: 16px; text-decoration:none;">Help</a> 
+            </div>
+
+        </div>
+        
 	</div>
     
 </div><!-- end #header -->
@@ -180,64 +248,35 @@ document.forms[0].submit();}},{scope:'email,publish_stream'});return false;" cla
     </div>
 </div>
 
-<div class="wrapper">
+
     
 
-    <div id="search">
-			<div class="spacing">
-                
-	            <input name="ctl00$NavHome$searchControl$TxtKeyword" type="text" id="ctl00_NavHome_searchControl_TxtKeyword" tabindex="1" class="large" style="height:20px;width:250px;">
-            	<span style="float:none; padding: 0 10px 0 10px;">near</span>
-                <div style="float:right; padding: 6px 30px 0 10px;">
-                    <a id="ctl00_NavHome_searchControl_topPlacesLink" tabindex="4" href="http://www.judysbook.com/Top-10-Inverness-Businesses-3795.htm" style="color:White;font-size:12px;">Top Places for This Location</a>
-                </div>
-                <div style="float:right;padding-right: 40px;"><input type="submit" name="ctl00$NavHome$searchControl$ButtonGetstarted" value="Search" id="ctl00_NavHome_searchControl_ButtonGetstarted" tabindex="3"></div>
-                <script language="javascript" type="text/javascript">
-<!--
-//Constants
-var ASB_GET_DATA_URL='/asb-includes/GetAutoSuggestData.aspx';
-//-->
-</script>
-<script type="text/javascript" language="JavaScript" src="/asb-includes/AutoSuggestBox.js"></script>
-<input name="ctl00$NavHome$searchControl$TxtLocation" type="text" value="Inverness, FL" maxlength="100" id="ctl00_NavHome_searchControl_TxtLocation" tabindex="2" class="small" onblur="asbHideDiv('divMenu_ctl00_NavHome_searchControl_TxtLocation');" onkeydown="asbOnKeyDown('ctl00_NavHome_searchControl_TxtLocation', 'divMenu_ctl00_NavHome_searchControl_TxtLocation', event);" onkeypress="return asbOnKeyPress(event);" onkeyup="asbOnKeyUp('ctl00_NavHome_searchControl_TxtLocation', 'divMenu_ctl00_NavHome_searchControl_TxtLocation', 'City', event);" style="height:20px;width:200px;"><br><div class="asbMenu" style="visibility:hidden" id="divMenu_ctl00_NavHome_searchControl_TxtLocation"></div>
-<input type="hidden" id="ctl00_NavHome_searchControl_TxtLocation_SelectedValue" name="ctl00$NavHome$searchControl$TxtLocation:SelectedValue" value="">
 
-                               
-				
-            </div> 
+            <div class="clear">
+            </div>
         
-	</div><!-- end #search -->
-
-</div>
-
-    <div class="clear">
-    </div>
-    <div>
-        <div id="ctl00_headerAdPanel" style="width:100%;">
+            <div>
+                <div id="ctl00_headerAdPanel" style="width:100%;">
 	
-            
-            
-            <script type="text/javascript"><!--
-                google_ad_client = "ca-pub-3883194289191197";
-                /* 728x90, created 8/9/11 */
-                google_ad_slot = "8929042226";
-                google_ad_width = 728;
-                google_ad_height = 90;
-            </script>
-            <script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
-            </script>
-
-            <!-- Leaderboard - DFP ad commented out for Adsense above -->
-            
-
-            
-            
-
-        
+                    
+                    <script type="text/javascript"><!--
+                        google_ad_client = "ca-pub-3883194289191197";
+                        /* 728x90, created 8/9/11 */
+                        google_ad_slot = "8929042226";
+                        google_ad_width = 728;
+                        google_ad_height = 90;
+                    </script>
+                    <script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+                    </script>
+                    <!-- Leaderboard - DFP ad commented out for Adsense above -->
+                    
+                    
+                    
+                
 </div>
-    </div>
-    <div class="wrapper">
-        
+            </div>
+            <div class="wrapper">
+                
 <div class="clear-10"></div>
 <div id="about">
 
@@ -286,8 +325,8 @@ Use of and membership of Judy's Book is void where prohibited. By using Judy's B
     <br>
     </b>
     <br>
-    Please choose carefully the information you post on Judy's Book and that you provide to other users. Your Judy's Book profile may not include the following items: telephone numbers, street addresses, photographs containing nudity, or obscene, lewd, excessively violent, harassing, sexually explicit or otherwise objectionable subject matter. Despite this prohibition, information provided by other Judy's Book Members (for instance, in their profile) may contain inaccurate, inappropriate, offensive or sexually explicit material, products or services, and Judy's Book assumes no responsibility or liability for this material. If you become aware of misuse of the Judy's Book site by any person, please contact Judy's Book at 
-    <a href="mailto:info@judysbookteam.com">info@judysbookteam.com</a>.
+    Please choose carefully the information you post on Judy's Book and that you provide to other users. Your Judy's Book profile may not include the following items: telephone numbers, street addresses, photographs containing nudity, or obscene, lewd, excessively violent, harassing, sexually explicit or otherwise objectionable subject matter. Despite this prohibition, information provided by other Judy's Book Members (for instance, in their profile) may contain inaccurate, inappropriate, offensive or sexually explicit material, products or services, and Judy's Book assumes no responsibility or liability for this material. If you become aware of misuse of the Judy's Book site by any person, please contact Judy's Book through the 
+    <a href="/help" target="_blank">Help</a>.
     <br>
     <br>
     Judy's Book may delete any content that in the sole judgment of Judy's Book violates this agreement or which may be offensive, illegal or violate the rights, harm, or threaten the safety of any person. Judy's Book assumes no responsibility for monitoring the Judy's Book site for inappropriate content or conduct. If at any time Judy's Book chooses, in its sole discretion, to monitor the Judy's Book site, Judy's Book nonetheless assumes no responsibility for the content, no obligation to modify or remove any inappropriate content, and no responsibility for the conduct of the user submitting any such content.
@@ -302,8 +341,8 @@ Use of and membership of Judy's Book is void where prohibited. By using Judy's B
 
     <br>
     <br>
-    If you believe content on Judy's Book infringes your copyright or other intellectual property rights, or is defamatory, you can contact our agent for service of notice at
-    <a href="mailto:info@judysbookteam.com">info@judysbookteam.com</a>. Please make sure your notice meets the Digital Millennium Copyright Act requirements.
+    If you believe content on Judy's Book infringes your copyright or other intellectual property rights, or is defamatory, you can contact our agent for service of notice through the
+    <a href="/help" target="_blank">Help</a>. Please make sure your notice meets the Digital Millennium Copyright Act requirements.
 
     <br>
     <br>
@@ -523,13 +562,19 @@ Judy's Book is committed to protecting the privacy of our users. This privacy po
 
     <br>
     <br>
+    <b>Geocoding</b><br><br>
+
+    Geocoding provided by <a href="https://geoservices.tamu.edu/">Texas A&amp;M Geoservices</a> 
+
+    <br>
+    <br>
     <b>Your Comments or Concerns
 
     <br>
     </b>
     <br>
     We welcome your feedback. If you have any comments or concerns about this privacy policy or would like to contact us for any reason, you may reach us at:<br><br>
-    E-Mail: <a href="mailto:info@judysbookteam.com">info@judysbookteam.com</a><br><br>
+    Help: <a href="/HelpPages/Custom/Cannot-find-what-I-am-looking-for.aspx">Send feedback</a><br><br>
     Postal Mail:<br>
     733 7th Ave, STE 212<br>
     Kirkland, WA 98037<br>
@@ -560,8 +605,9 @@ Judy's Book is committed to protecting the privacy of our users. This privacy po
 
 </div>
 
-    </div>
-    
+            </div>
+        
+            
 <div class="wrapper">
 <div id="footer">
 
@@ -569,8 +615,8 @@ Judy's Book is committed to protecting the privacy of our users. This privacy po
 		<li>
 			<ol>
 				<li><h1>ABOUT</h1></li>
-				<li><a href="http://www.judysbook.com/help">Help - FAQ</a></li>				
-                <li><a href="http://www.judysbook.com/contactUs">Contact Us</a></li>
+				<li><a href="http://www.judysbook.com/help">Help</a></li>				
+                
                 <li><a href="http://www.judysbook.com/About.aspx">About Us</a></li>
 				<li><a href="http://blog.judysbook.com/">Blog</a></li>				
 				<li><a href="http://www.judysbook.com/terms">Privacy Policy - Terms of Use</a></li>				                
@@ -579,8 +625,8 @@ Judy's Book is committed to protecting the privacy of our users. This privacy po
 		<li>
 			<ol>
 				<li><h1>OUR SERVICES</h1></li>
-				<li><a href="http://www.judysbook.com/Biz?source=footer">Business Owners</a></li>
-                <li><a href="http://www.judysbook.com/Business-Learning-Center/What-you-need-to-know-reviews">Business Learning Center</a></li>
+				<li><a href="http://www.judysbook.com/BusinessCenter/ClaimBusiness.aspx">Business Owners</a></li>
+                <li><a href="http://www.judysbook.com/BusinessCenter/LearningCenter.aspx">Learning Center</a></li>
                 
 				<li><a href="http://www.judysbook.com/merchant">Partners &amp; Publishers</a></li>
                 
@@ -593,22 +639,34 @@ Judy's Book is committed to protecting the privacy of our users. This privacy po
 		<li>
 			<ol>
 				<li><h1>MY ACCOUNT</h1></li>
-				<li><a href="http://www.judysbook.com/login">Sign In</a></li>
-				<li><a href="http://www.judysbook.com/join">Join</a></li>
+				<li><a href="http://www.judysbook.com/SignIn.aspx">Sign In</a></li>
+				
 				<li><a href="javascript:void(0);" onclick="FB.login(function(response){window.location.reload();},{perms:'email, publish_stream'});return false;">Login with Facebook Connect</a></li>
 				<li><a href="http://www.judysbook.com/post">Write A Review</a></li>
                 <li><a href="http://www.judysbook.com/ListIntro">Best or Worst Lists</a></li>
                 
 			</ol>
 		</li>
-		<!--<li>
+		<li>
 			<ol>
-				<li><h1>NEAT JUDY'S BOOK TOOLS &amp; FEATURES</h1></li>
-				<li><a id="ctl00_FooterHome_toolLink1"></a></li>
-				<li><a href="">Social Buzz</a></li>
-				<li><a href="">Lists</a></li>
+				<div id="divSocialSearchLinks">                                        
+                    <span id="spnSocialSearchLinks">                                  
+                        <a id="fb_social_link" href="https://www.facebook.com/judysbook" target="_blank">
+                            <img id="img_fb_social_link" class="socialSearchIcons/Facebook.png" src="http://static2.judysbook.com/img/common/socialSearchIcons/blank.gif" style="border-width:0px;">
+                        </a>                
+                        <a id="tw_social_link" href="https://twitter.com/judysbook" target="_blank">
+                            <img id="img_tw_social_link" class="socialSearchIcons/Twitter.png" src="http://static2.judysbook.com/img/common/socialSearchIcons/blank.gif" style="border-width:0px;">
+                        </a>                
+                        <a id="ln_social_link" href="http://www.linkedin.com/company/judy's-book" target="_blank">
+                            <img id="img_ln_social_link" class="socialSearchIcons/LinkedIn.png" src="http://static2.judysbook.com/img/common/socialSearchIcons/blank.gif" style="border-width:0px;">
+                        </a>                
+                        <a id="pt_social_link" href="http://pintrest.com/judysbook" target="_blank">
+                            <img id="img_pt_social_link" class="socialSearchIcons/Pintrest.png" src="http://static2.judysbook.com/img/common/socialSearchIcons/blank.gif" style="border-width:0px;">
+                        </a>                                                        
+                    </span>
+                </div>
 			</ol>
-		</li> -->
+		</li> 
 	</ul>	
 
 	<div class="section">
@@ -618,68 +676,68 @@ Judy's Book is committed to protecting the privacy of our users. This privacy po
         <li>
             <ol>
                 <li><h1>EXPLORE BY CATEGORY</h1></li>
-                <li><a href="http://www.judysbook.com/cities/inverness-fl/Automotive">
+                <li><a href="http://www.judysbook.com/cities/grandjunction-co/Automotive">
                     Automotive</a>
                     <ol>
-                        <li><a href="http://www.judysbook.com/cities/inverness-fl/Car-Dealers">
+                        <li><a href="http://www.judysbook.com/cities/grandjunction-co/Car-Dealers">
                             Car Dealers</a></li>
-                        <li><a href="http://www.judysbook.com/cities/inverness-fl/Towing">
+                        <li><a href="http://www.judysbook.com/cities/grandjunction-co/Towing">
                             Towing</a></li>
-                        <li><a href="http://www.judysbook.com/cities/inverness-fl/Auto-Repair-and-Service">
+                        <li><a href="http://www.judysbook.com/cities/grandjunction-co/Auto-Repair-and-Service">
                             Mechanics</a></li>
                     </ol>
                 </li>
-                <li><a href="http://www.judysbook.com/cities/inverness-fl/BtoB">
+                <li><a href="http://www.judysbook.com/cities/grandjunction-co/BtoB">
                     Business to Business</a>
                     <ol>
-                        <li><a href="http://www.judysbook.com/cities/inverness-fl/BtoB~Manufacturing">
+                        <li><a href="http://www.judysbook.com/cities/grandjunction-co/BtoB~Manufacturing">
                             Manufacturing</a></li>
-                        <li><a href="http://www.judysbook.com/cities/inverness-fl/BtoB~Business-Services">
+                        <li><a href="http://www.judysbook.com/cities/grandjunction-co/BtoB~Business-Services">
                             Business Services</a></li>
                     </ol>
                 </li>
-                <li><a href="http://www.judysbook.com/cities/inverness-fl/Civic-and-Community">
+                <li><a href="http://www.judysbook.com/cities/grandjunction-co/Civic-and-Community">
                     Civic &amp; Community </a>
                     <ol>
-                        <li><a href="http://www.judysbook.com/cities/inverness-fl/Libraries">
+                        <li><a href="http://www.judysbook.com/cities/grandjunction-co/Libraries">
                             Libraries</a></li>
                     </ol>
                 </li>
-                <li><a href="http://www.judysbook.com/cities/inverness-fl/Education-and-Instruction">
+                <li><a href="http://www.judysbook.com/cities/grandjunction-co/Education-and-Instruction">
                     Education &amp; Instruction </a>
                     <ol>
-                        <li><a href="http://www.judysbook.com/cities/inverness-fl/Elementary-Schools">
+                        <li><a href="http://www.judysbook.com/cities/grandjunction-co/Elementary-Schools">
                             Elementary Schools</a></li>
-                        <li><a href="http://www.judysbook.com/cities/inverness-fl/Colleges-and-Universities">
+                        <li><a href="http://www.judysbook.com/cities/grandjunction-co/Colleges-and-Universities">
                             Colleges &amp; Universities</a></li>
                     </ol>
                 </li>
-                <li><a href="http://www.judysbook.com/cities/inverness-fl/Entertainment-and-Arts">
+                <li><a href="http://www.judysbook.com/cities/grandjunction-co/Entertainment-and-Arts">
                     Entertainment &amp; Arts </a>
                     <ol>
-                        <li><a href="http://www.judysbook.com/cities/inverness-fl/Museums-and-Galleries">
+                        <li><a href="http://www.judysbook.com/cities/grandjunction-co/Museums-and-Galleries">
                             Museums &amp; Galleries</a></li>
                     </ol>
                 </li>
-                <li><a href="http://www.judysbook.com/cities/inverness-fl/Food-and-Dining">
+                <li><a href="http://www.judysbook.com/cities/grandjunction-co/Food-and-Dining">
                     Food &amp; Dining </a>
                     <ol>
-                        <li><a href="http://www.judysbook.com/cities/inverness-fl/Coffee-Shops">
+                        <li><a href="http://www.judysbook.com/cities/grandjunction-co/Coffee-Shops">
                             Coffee Shops</a></li>
-                        <li><a href="http://www.judysbook.com/cities/inverness-fl/Bakeries">
+                        <li><a href="http://www.judysbook.com/cities/grandjunction-co/Bakeries">
                             Bakeries</a></li>
-                        <li><a href="http://www.judysbook.com/cities/inverness-fl/Restaurants">
+                        <li><a href="http://www.judysbook.com/cities/grandjunction-co/Restaurants">
                             Restaurants</a></li>
                     </ol>
                 </li>
-                <li><a href="http://www.judysbook.com/cities/inverness-fl/Health-and-Medical">
+                <li><a href="http://www.judysbook.com/cities/grandjunction-co/Health-and-Medical">
                     Health &amp; Medical </a>
                     <ol>
-                        <li><a href="http://www.judysbook.com/cities/inverness-fl/Chiropractor">
+                        <li><a href="http://www.judysbook.com/cities/grandjunction-co/Chiropractor">
                             Chiropractors</a></li>
-                        <li><a href="http://www.judysbook.com/cities/inverness-fl/Dentists">
+                        <li><a href="http://www.judysbook.com/cities/grandjunction-co/Dentists">
                             Dentists</a></li>
-                        <li><a href="http://www.judysbook.com/cities/inverness-fl/Veterinarians">
+                        <li><a href="http://www.judysbook.com/cities/grandjunction-co/Veterinarians">
                             Veterinarians</a></li>
                     </ol>
                 </li>
@@ -687,77 +745,77 @@ Judy's Book is committed to protecting the privacy of our users. This privacy po
         </li>
         <li class="second">
             <ol>
-                <li><a href="http://www.judysbook.com/cities/inverness-fl/Other-Professional-Services">
+                <li><a href="http://www.judysbook.com/cities/grandjunction-co/Other-Professional-Services">
                     Other Professional Services</a></li>
-                <li><a href="http://www.judysbook.com/cities/inverness-fl/Animals-and-Pets">
+                <li><a href="http://www.judysbook.com/cities/grandjunction-co/Animals-and-Pets">
                     Animals &amp; Pets</a></li>
-                <li><a href="http://www.judysbook.com/cities/inverness-fl/Legal-and-Financial">
+                <li><a href="http://www.judysbook.com/cities/grandjunction-co/Legal-and-Financial">
                     Legal &amp; Financial </a>
                     <ol>
-                        <li><a href="http://www.judysbook.com/cities/inverness-fl/Law-Firms-and-Attorneys">
+                        <li><a href="http://www.judysbook.com/cities/grandjunction-co/Law-Firms-and-Attorneys">
                             Lawyers, Law Firms &amp; Attorneys</a></li>
-                        <li><a href="http://www.judysbook.com/cities/inverness-fl/Mortgages-and-Loans">
+                        <li><a href="http://www.judysbook.com/cities/grandjunction-co/Mortgages-and-Loans">
                             Mortgages &amp; Loans</a></li>
                     </ol>
                 </li>
-                <li><a href="http://www.judysbook.com/cities/inverness-fl/Home-and-Garden">
+                <li><a href="http://www.judysbook.com/cities/grandjunction-co/Home-and-Garden">
                     Home &amp; Garden </a>
                     <ol>
-                        <li><a href="http://www.judysbook.com/cities/inverness-fl/Electrical">
+                        <li><a href="http://www.judysbook.com/cities/grandjunction-co/Electrical">
                             Electricians</a></li>
-                        <li><a href="http://www.judysbook.com/cities/inverness-fl/Plumbing">
+                        <li><a href="http://www.judysbook.com/cities/grandjunction-co/Plumbing">
                             Plumbers</a></li>
-                        <li><a href="http://www.judysbook.com/cities/inverness-fl/Windows-and-Doors">
+                        <li><a href="http://www.judysbook.com/cities/grandjunction-co/Windows-and-Doors">
                             Windows &amp; Doors</a></li>
                     </ol>
                 </li>
-                <li><a href="http://www.judysbook.com/cities/inverness-fl/Personal-Care">
+                <li><a href="http://www.judysbook.com/cities/grandjunction-co/Personal-Care">
                     Personal Care </a>
                     <ol>
-                        <li><a href="http://www.judysbook.com/cities/inverness-fl/Beauty-Salons">
+                        <li><a href="http://www.judysbook.com/cities/grandjunction-co/Beauty-Salons">
                             Salons</a></li>
-                        <li><a href="http://www.judysbook.com/cities/inverness-fl/Day-Spas">
+                        <li><a href="http://www.judysbook.com/cities/grandjunction-co/Day-Spas">
                             Spas</a></li>
-                        <li><a href="http://www.judysbook.com/cities/inverness-fl/Massage">
+                        <li><a href="http://www.judysbook.com/cities/grandjunction-co/Massage">
                             Massage</a></li>
                     </ol>
                 </li>
-                <li><a href="http://www.judysbook.com/cities/inverness-fl/Real-Estate">
+                <li><a href="http://www.judysbook.com/cities/grandjunction-co/Real-Estate">
                     Real Estate </a></li>
-                <li><a href="http://www.judysbook.com/cities/inverness-fl/Retail-Shopping">
+                <li><a href="http://www.judysbook.com/cities/grandjunction-co/Retail-Shopping">
                     Retail Shopping </a>
                     <ol>
-                        <li><a href="http://www.judysbook.com/cities/inverness-fl/Apparel">
+                        <li><a href="http://www.judysbook.com/cities/grandjunction-co/Apparel">
                             Apparel</a></li>
                     </ol>
                 </li>
-                <li><a href="http://www.judysbook.com/cities/inverness-fl/Recreation-and-Sports">
+                <li><a href="http://www.judysbook.com/cities/grandjunction-co/Recreation-and-Sports">
                     Sports &amp; Recreation </a></li>
-                <li><a href="http://www.judysbook.com/cities/inverness-fl/Travel-and-Transportation">
+                <li><a href="http://www.judysbook.com/cities/grandjunction-co/Travel-and-Transportation">
                     Travel &amp; Transportation </a>
                     <ol>
-                        <li><a href="http://www.judysbook.com/cities/inverness-fl/Hotels-and-Lodging">
+                        <li><a href="http://www.judysbook.com/cities/grandjunction-co/Hotels-and-Lodging">
                             Hotels &amp; Lodging</a></li>
-                        <li><a href="http://www.judysbook.com/cities/inverness-fl/Moving">
+                        <li><a href="http://www.judysbook.com/cities/grandjunction-co/Moving">
                             Movers</a></li>
                     </ol>
                 </li>
-                <li><a href="http://www.judysbook.com/cities/inverness-fl/categories">
+                <li><a href="http://www.judysbook.com/cities/grandjunction-co/categories">
                     More...</a></li>
             </ol>
         </li>
         <li>
             <ol>
-                <li><h1>DEALS &amp; COUPONS FOR <span id="ctl00_FooterHome_cityName">INVERNESS</span></h1></li>
-                <li><a href="http://www.judysbook.com/searchresult/Inverness/FL/t1?q=deals&amp;afsq=now&amp;loc=">
+                <li><h1>DEALS &amp; COUPONS FOR <span id="ctl00_FooterHome_cityName">GRAND JUNCTION</span></h1></li>
+                <li><a href="http://www.judysbook.com/searchresult/Grand Junction/CO/t1?q=deals&amp;afsq=now&amp;loc=">
                     Now Deals</a></li>
-                <li><a href="http://www.judysbook.com/searchresult/Inverness/FL/t1?q=deals&amp;afsq=travel&amp;loc=">
+                <li><a href="http://www.judysbook.com/searchresult/Grand Junction/CO/t1?q=deals&amp;afsq=travel&amp;loc=">
                     Travel Deals</a></li>
-                <li><a href="http://www.judysbook.com/searchresult/Inverness/FL/t1?q=deals&amp;afsq=beauty&amp;loc=">
+                <li><a href="http://www.judysbook.com/searchresult/Grand Junction/CO/t1?q=deals&amp;afsq=beauty&amp;loc=">
                     Health &amp; Beauty Coupons</a></li>
-                <li><a href="http://www.judysbook.com/searchresult/Inverness/FL/t1?q=deals&amp;afsq=restaurant&amp;loc=">
+                <li><a href="http://www.judysbook.com/searchresult/Grand Junction/CO/t1?q=deals&amp;afsq=restaurant&amp;loc=">
                     Restaurant Deals</a></li>
-                <li><a href="http://www.judysbook.com/searchresult/Inverness/FL/t1?q=deals&amp;afsq=activity&amp;loc=">
+                <li><a href="http://www.judysbook.com/searchresult/Grand Junction/CO/t1?q=deals&amp;afsq=activity&amp;loc=">
                     Activity Deals</a></li>
             </ol>
         </li>
@@ -796,45 +854,46 @@ Judy's Book is committed to protecting the privacy of our users. This privacy po
 	</ul>
 </div><!-- end #footer -->
 </div>
+            
+
+        </form>
+        
+        <script type="text/javascript" src="http://www.google.com/jsapi?key=ABQIAAAA4lOyudiTt6f_1GDuMnh--xR6QL41MMUHluxTNAxOoHWVhT-sohTF2hFVbdBeSrG4w38JodafNaVSbQ"></script>
+        
+        <script type="text/javascript" src="http://static2.judysbook.com/JS/newJudyV5.js"></script>
+        <script language="javascript" type="text/javascript">
+            window.fbAsyncInit = function () {
+                FB.init({
+                    appId: '122403841122515', // App ID
+                    status: true, // check login status
+                    cookie: true, // enable cookies to allow the server to access the session
+                    xfbml: true,  // parse XFBML
+                    oauth: true // required for new OAuth functionality
+                });
+
+            };
+
+            // Load the SDK Asynchronously
+            (function (d) {
+                var js, id = 'facebook-jssdk'; if (d.getElementById(id)) { return; }
+                js = d.createElement('script'); js.id = id; js.async = true;
+                js.src = "//connect.facebook.net/en_US/all.js";
+                d.getElementsByTagName('head')[0].appendChild(js);
+            } (document));
+        </script>
+        
+        <!-- Compete XL Code for judysbook.com -->
+        <script type="text/javascript">
+            __compete_code = '0cc0e597013a9ad7989b1d5d61c00de8';
+            /* Set control variables below this line. */ 
+        </script>
+        <script type="text/javascript" src="//c.compete.com/bootstrap/s/0cc0e597013a9ad7989b1d5d61c00de8/judysbook-com/bootstrap.js"></script>
+        <noscript>
+            <img width="1" height="1" src="https://ssl-judysbook-com-0cc0e5.c-col.com" />
+        </noscript>
+        
+        
+        
     
-
-    </form>
-    <script type="text/javascript" src="http://www.google.com/jsapi?key=ABQIAAAA4lOyudiTt6f_1GDuMnh--xR6QL41MMUHluxTNAxOoHWVhT-sohTF2hFVbdBeSrG4w38JodafNaVSbQ"></script>
-    
-    <script type="text/javascript" src="http://static2.judysbook.com/JS/newJudyV5.js"></script>
-    <script language="javascript" type="text/javascript">
-        window.fbAsyncInit = function () {
-            FB.init({
-                appId: '122403841122515', // App ID
-                status: true, // check login status
-                cookie: true, // enable cookies to allow the server to access the session
-                xfbml: true,  // parse XFBML
-                oauth: true // required for new OAuth functionality
-            });
-
-        };
-
-        // Load the SDK Asynchronously
-        (function (d) {
-            var js, id = 'facebook-jssdk'; if (d.getElementById(id)) { return; }
-            js = d.createElement('script'); js.id = id; js.async = true;
-            js.src = "//connect.facebook.net/en_US/all.js";
-            d.getElementsByTagName('head')[0].appendChild(js);
-        } (document));
-    </script>
-
-    
-    
-    <!-- Compete XL Code for judysbook.com -->
-    <script type="text/javascript">
-        __compete_code = '0cc0e597013a9ad7989b1d5d61c00de8';
-        /* Set control variables below this line. */ 
-    </script>
-    <script type="text/javascript" src="//c.compete.com/bootstrap/s/0cc0e597013a9ad7989b1d5d61c00de8/judysbook-com/bootstrap.js"></script>
-    <noscript>
-        <img width="1" height="1" src="https://ssl-judysbook-com-0cc0e5.c-col.com"/>
-    </noscript>
-
-
 
 </body></html>
