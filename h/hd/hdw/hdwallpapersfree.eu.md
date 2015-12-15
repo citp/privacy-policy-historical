@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hdwallpapersfree.eu privacy policy that was archived on 2015-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150206213743id_/http%3A//hdwallpapersfree.eu/privacy-policies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hdwallpapersfree.eu privacy policy that was archived on 2015-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151215061534id_/http%3A//www.hdwallpapersfree.eu/privacy-policies) for the most accurate reproduction.*
 
 # Free HD Wallpapers - Free wallpapers
 
