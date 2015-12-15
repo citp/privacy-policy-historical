@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 300mbmovie.in privacy policy that was archived on 2015-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150615101330id_/http%3A//300mbmovie.in/privecy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 300mbmovie.in privacy policy that was archived on 2015-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151215043225id_/http%3A//300mbmovie.in/privecy-policy) for the most accurate reproduction.*
 
 # Privecy Policy - 300mbmovie.in
 
