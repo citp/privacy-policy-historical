@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lostateminor.com privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630014828id_/http%3A//www.lostateminor.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lostateminor.com privacy policy that was archived on 2015-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151215211927id_/http%3A//www.lostateminor.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy - Lost At E Minor: For creative people
 
@@ -177,9 +177,8 @@ Lost At E Minor welcomes any questions or comments you may have regarding this P
 
 Lost At E Minor  
 ATTN: Privacy  
-PO Box 225  
-The Junction  
-NSW 2291   Australia
+79 Commonwealth St  
+Surry Hills NSW 2010
 
 **Effective Date of this Privacy Policy**  
 This Privacy Policy is effective as of 27 March 2014.
