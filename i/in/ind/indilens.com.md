@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the indilens.com privacy policy that was archived on 2015-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150616105012id_/http%3A//indilens.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indilens.com privacy policy that was archived on 2015-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151215113714id_/http%3A//indilens.com/privacy-policy) for the most accurate reproduction.*
 
 # Indilens ! Live Daily News on India | Privacy Policy of Indilens ! Insights of India
 
-This Privacy Policy governs the manner in which **Indilens ! Insights of India** collects, uses, maintains and discloses information collected from users (each, a “User”) of the [http://indilens.com](http://indilens.com/) website (“Site”). This privacy policy applies to the Site and all products and services offered by Indilens ! Insights of India.
+This Privacy Policy governs the manner in which **Indilens News Team**  collects, uses, maintains and discloses information collected from users (each, a “User”) of the [http://indilens.com](http://indilens.com/) website (“Site”). This privacy policy applies to the Site and all products and services offered by **Indilens News Team**.
 
 **Indilens Content Policy:**
 
@@ -22,7 +22,7 @@ Our Site may use “cookies” to enhance User experience. User’s web browser 
 
 **How we use collected information**
 
-Indilens ! Insights of India may collect and use Users personal information for the following purposes:
+**Indilens News Team  ** may collect and use Users personal information for the following purposes:
 
   * _– To improve customer service_ Information you provide helps us respond to your customer service requests and support needs more efficiently.
   * _– To personalize user experience_ We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.
@@ -64,18 +64,18 @@ By using this Site, you signify your acceptance of this policy and [terms of ser
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:
 
-[Indilens ! Insights of India](http://indilens.com/)
+**Indilens News Team**
 
 [http://indilens.com](http://indilens.com/)
 
 Indilens Headquarter,  
-C/O- Focus A-Z Entertainment Private Limited  
+C/O- Main Uddin  
 Ward No. 2, Barpeta Road,  
 Assam, India  
 PIN- 781315
 
 Phone: +91-3666-296936
 
-mail: sultan@indilens.com
+mail: ceo@indilens.com
 
 _This Privacy Policy was last updated on May 25, 2014_
