@@ -1,22 +1,22 @@
-> *The following text is extracted and transformed from the jobs-in-my-area.net privacy policy that was archived on 2015-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150404101759id_/http%3A//www.jobs-in-my-area.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobs-in-my-area.net privacy policy that was archived on 2015-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151215123643id_/http%3A//jobs-in-my-area.net/privacy.php) for the most accurate reproduction.*
 
-# Jobs In My Area
+# Jobs-in-my-area.net
 
-PURPOSE OF POLICY. www.jobs-in-my-area.net (“us,” “we,” or “Company”) is committed to respecting the privacy rights of its customers, visitors, and other users of the Company Website (the “Site”) pursuant to the terms contained herein. We created this www.jobs-in-my-area.net Privacy Policy (this “Policy”) to give you notice of how your private information will be used as a result of submitting it to our Company. This Policy is only applicable to the Site, and not to any other websites that you may be able to access from the Site, each of which may have data collection and use practices and policies that differ materially from this Policy.
+PURPOSE OF POLICY. jobs-in-my-area.net (â€œus,â€ â€œwe,â€ or â€œCompanyâ€) is committed to respecting the privacy rights of its customers, visitors, and other users of the Company Website (the â€œSiteâ€) pursuant to the terms contained herein. We created this jobs-in-my-area.net Privacy Policy (this â€œPolicyâ€) to give you notice of how your private information will be used as a result of submitting it to our Company. This Policy is only applicable to the Site, and not to any other websites that you may be able to access from the Site, each of which may have data collection and use practices and policies that differ materially from this Policy.
 
-NOTICE CONCERNING CHILDREN. We are a general audience site, and do not direct any of our content specifically at children under 13 years of age. We understand and are committed to respecting the sensitive nature of children’s privacy online. If we learn or have reason to suspect that a Site user is under age 13, we will promptly delete any personal information in that user’s account.
+NOTICE CONCERNING CHILDREN. We are a general audience site, and do not direct any of our content specifically at children under 13 years of age. We understand and are committed to respecting the sensitive nature of childrenâ€™s privacy online. If we learn or have reason to suspect that a Site user is under age 13, we will promptly delete any personal information in that userâ€™s account.
 
 INFORMATION COLLECTION PRACTICES
 
-WHAT BASIC INFORMATION DOES THE COMPANY COLLECT? We collect certain personal information about our users that enables us and/or our affiliates and partners to identify or contact users, and includes, among other things, the user’s full name, address, telephone number and e-mail address, as well as other information we maintain about a person in identifiable form.
+WHAT BASIC INFORMATION DOES THE COMPANY COLLECT? We collect certain personal information about our users that enables us and/or our affiliates and partners to identify or contact users, and includes, among other things, the userâ€™s full name, address, telephone number and e-mail address, as well as other information we maintain about a person in identifiable form.
 
 WHAT ADDITIONAL INFORMATION DOES COMPANY COLLECT?
 
-(a) AUTOMATIC COLLECTION. Our servers automatically recognize visitors’ domain names and IP addresses (the number assigned to computers on the Internet). No personal information about you is revealed in this process. The Site may also gather anonymous “traffic data” that does not personally identify you, but that may be helpful for marketing purposes or for improving the services we offer.
+(a) AUTOMATIC COLLECTION. Our servers automatically recognize visitorsâ€™ domain names and IP addresses (the number assigned to computers on the Internet). No personal information about you is revealed in this process. The Site may also gather anonymous â€œtraffic dataâ€ that does not personally identify you, but that may be helpful for marketing purposes or for improving the services we offer.
 
 (b) COOKIES. From time to time, we may use the standard 'cookies' feature of major browser applications that allows us to store a small piece of data on your computer about your visit to our Web site. We do not set any personally identifiable information in cookies, nor do we employ any data capture mechanisms on our website other than cookies. Cookies help us learn which areas of our site are useful, which areas need improvement, and to deliver personalized advertisements on ours and other websites. The Help feature on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. Additionally, you can disable or delete similar data used by browser add-ons, such as Flash cookies, by changing the add-on's settings or visiting the Web site of its manufacturer. However, if you choose to disable this function, your experience at our Web site may be diminished and some features may not work as they were intended.
 
-Notwithstanding any other provision in this policy, in visiting this site, a third-party advertiser (or its partners) may place or recognize a unique cookie on your browser. These cookies enable more customized ads, content or services to be provided to you. To trigger these cookies, we may pass an encrypted or 'hashed' (non-human readable) identifier corresponding to your email address to a Web advertising partner, who may place a cookie on your computer. No personally identifiable information is on, or is connected to, these cookies. To opt-out of these cookies, please go to http://www.privacychoice.org/companies or http://www.aboutads.info/choices. 
+Notwithstanding any other provision in this policy, in visiting this site, a third-party advertiser (or its partners) may place or recognize a unique cookie on your browser. These cookies enable more customized ads, content or services to be provided to you. To trigger these cookies, we may pass an encrypted or 'hashed' (non-human readable) identifier corresponding to your email address to a Web advertising partner, who may place a cookie on your computer. No personally identifiable information is on, or is connected to, these cookies. To opt-out of these cookies, please go to http://www.privacychoice.org/companies or http://www.aboutads.info/choices.Â 
 
 USE AND SHARING OF INFORMATION
 
@@ -26,7 +26,7 @@ WHAT DOES COMPANY DO WITH COLLECTED INFORMATION?
 
 (b) ANONYMOUS INFORMATION. We use anonymous information to analyze our Site traffic, but we do not examine this information for individually identifying information. In addition, we may use anonymous IP addresses to help diagnose problems with our server, to administer our site, or to display the content according to your preferences. Traffic and transaction information may also be shared with business partners and advertisers on an aggregate and anonymous basis.
 
-(c) USE OF COOKIES. We may use cookies to deliver content specific to your interests, to save your password so you don’t have to re-enter it each time you visit our site, or for other purposes. Promotions or advertisements displayed on our site may contain cookies. We do not have access to or control over information collected by outside advertisers on our site.
+(c) USE OF COOKIES. We may use cookies to deliver content specific to your interests, to save your password so you donâ€™t have to re-enter it each time you visit our site, or for other purposes. Promotions or advertisements displayed on our site may contain cookies. We do not have access to or control over information collected by outside advertisers on our site.
 
 (d) DISCLOSURE OF PERSONAL INFORMATION. We may disclose personal information if required to do so by law or in the good-faith belief that such action is necessary to (1) conform to the edicts of the law or comply with legal process served on Company or its parent company, subsidiaries or affiliates, (2) protect and defend the rights or property of Company or the users of the Site, or (3) act under exigent circumstances to protect the safety of the public or users of the Site.
 
@@ -34,11 +34,11 @@ WHAT DOES COMPANY DO WITH COLLECTED INFORMATION?
 
 (f) ACCESS TO INFORMATION. Unfortunately, we do not maintain any procedures for you to review or request changes to the information that we collect about you, except that you may request that we remove all information about you from our database by contacting us in accordance with Section 6 below.
 
-(g) CHOICES FOR PERSONAL INFORMATION, By submitting personal information at the Website, you agree that such act constitutes an inquiry and/or application for purposes of the Amended Telemarketing Sales Rule (16 CFR §310 et seq.), as amended from time to time (the "Rule"). Notwithstanding that your telephone number may be listed at the Federal Trade Commission's Do-Not-Call List, you give us the right to contact you via telemarketing in accordance with the Rule.
+(g) CHOICES FOR PERSONAL INFORMATION, By submitting personal information at the Website, you agree that such act constitutes an inquiry and/or application for purposes of the Amended Telemarketing Sales Rule (16 CFR Â§310 et seq.), as amended from time to time (the "Rule"). Notwithstanding that your telephone number may be listed at the Federal Trade Commission's Do-Not-Call List, you give us the right to contact you via telemarketing in accordance with the Rule.
 
 4\. SECURITY. The Site has security measures in place to prevent the loss, misuse, and alteration of the information that we obtain from you, but we make no assurances about our ability to prevent any such loss, misuse, to you or to any third party arising out of any such loss, misuse, or alteration.
 
-5\. WEBSITE AREAS BEYOND COMPANY’S CONTROL
+5\. WEBSITE AREAS BEYOND COMPANYâ€™S CONTROL
 
 5.1 PUBLIC FORUMS. The Site may include interactive forums such as message boards and chat rooms. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information.
 
@@ -46,8 +46,8 @@ WHAT DOES COMPANY DO WITH COLLECTED INFORMATION?
 
 6\. POLICY UPDATES
 
-6.1 UPDATES AND CHANGES. We reserve the right, at any time, to add to, change, update, or modify this Policy, simply by posting such change, update, or modification on the Site and without any other notice to you. Any such change, update, or modification will be effective immediately upon posting on the Site. It is your responsibility to review this Policy from time to time to ensure that you continue to agree with all of its terms. All Content Copyright © 2014, www.jobs-in-my-area.net 
+6.1 UPDATES AND CHANGES. We reserve the right, at any time, to add to, change, update, or modify this Policy, simply by posting such change, update, or modification on the Site and without any other notice to you. Any such change, update, or modification will be effective immediately upon posting on the Site. It is your responsibility to review this Policy from time to time to ensure that you continue to agree with all of its terms. All Content Copyright © 2014, jobs-in-my-area.net 
 
-Click Here to [Contact Us](http://www.jobs-in-my-area.net/contact.php)
+Click Here to [Contact Us](https://web.archive.org/contact.php)
 
-Want to unsubscribe from our mailing list? [Click here](http://www.jobs-in-my-area.net/unsubscribe.php) to go to our unsubscribe page where you can unsubscribe from receiving any more email from us or any of our affiliates. 
+Want to unsubscribe from our mailing list? [Click here](http://jobs-in-my-area.net/unsubscribe.php) to go to our unsubscribe page where you can unsubscribe from receiving any more email from us or any of our affiliates. 
