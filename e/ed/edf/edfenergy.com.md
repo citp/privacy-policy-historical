@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the edfenergy.com privacy policy that was archived on 2015-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150615101354id_/http%3A//www.edfenergy.com/terms-conditions/privacy-cookie-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edfenergy.com privacy policy that was archived on 2015-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151215082711id_/http%3A//www.edfenergy.com/terms-conditions/privacy-cookie-policy) for the most accurate reproduction.*
 
 # Privacy and Cookie Policy | EDF Energy
 
 ## Privacy and Cookie Policy for www.edfenergy.com (the Website)
 
- **Last updated: 1 May 2015**
+ **Last updated: 16 November 2015**
 
 This Privacy and Cookie Policy tells you how we will use information provided by you or collected about you when you use the Website (which includes, but is not limited to, MyAccount and MyCampus). It also explains what cookies we use on this Website.
 
@@ -81,3 +81,5 @@ Please note that you may not be able to use many of the services on our Website 
 Our website currently uses cookies and some of our third party suppliers use our Website to set cookies on our behalf for internet marketing and performance optimisation.
 
 While on this Website your web browser may interact with content from different servers and therefore cookies from other sources may be set on your computer during a visit to this site.
+
+Use the tabs below to view a description of the types of cookie that are used, why they are used and details of the individual cookies.
