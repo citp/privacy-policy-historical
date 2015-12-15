@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the supersport.com privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626164058id_/http%3A//www.dstv.com/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the supersport.com privacy policy that was archived on 2015-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151215025005id_/http%3A//www.dstv.com/PrivacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
