@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the edarticle.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609043424id_/http%3A//www.edarticle.com/pages/1/privacy-and-cookie-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edarticle.com privacy policy that was archived on 2015-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151215045110id_/http%3A//www.edarticle.com/pages/1/privacy-and-cookie-policy) for the most accurate reproduction.*
 
 # Privacy And Cookie Policy | Edarticle
+
+Important Note: In order to view full articles, you must consent to receive first and third party cookies from navigating Edarticle.com. If you have not consented, you will see a notification at the top of the page and attempts to access article pages will send you here.
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at admin =at= edarticle =dot= com.
 
