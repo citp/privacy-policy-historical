@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the companiesintheuk.co.uk privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629011800id_/https%3A//www.companiesintheuk.co.uk/support/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the companiesintheuk.co.uk privacy policy that was archived on 2015-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151215144349id_/https%3A//www.companiesintheuk.co.uk/support/privacy) for the most accurate reproduction.*
 
 # Privacy
 
@@ -40,4 +40,6 @@ To protect your privacy and security, we take reasonable steps to verify your id
 
 Should you have other questions or concerns about these privacy policies, please call us at +44 20 3322 2744 or send us an email at support@companiesintheuk.co.uk 
 
-We use third-party advertising companies to serve ads when you visit our website. These companies may use information about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please visit http://networkadvertising.org/managing/opt_out.asp 
+### Google/Doubleclick
+
+We partner with Google/Doubleclick to display the advertising that pays for this website. For that to work effectively they will use cookies to store data and access data about your use of this website. You can learn more about how Google use this data and how to opt out if you choose here: <http://www.google.com/intl/en/policies/privacy/partners/>
