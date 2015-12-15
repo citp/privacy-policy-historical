@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sipc.org privacy policy that was archived on 2015-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150617094951id_/http%3A//www.sipc.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sipc.org privacy policy that was archived on 2015-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151215211031id_/http%3A//www.sipc.org/privacy-policy) for the most accurate reproduction.*
 
 # SIPC - Privacy Policy
 
