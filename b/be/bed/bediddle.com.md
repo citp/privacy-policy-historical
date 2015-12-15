@@ -1,33 +1,56 @@
-> *The following text is extracted and transformed from the bediddle.com privacy policy that was archived on 2011-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110525044453id_/http%3A//www.bediddle.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bediddle.com privacy policy that was archived on 2015-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151215172800id_/http%3A//bediddle.com/privacy-policy) for the most accurate reproduction.*
 
-# Bediddle.com - Privacy Policy
+# Privacy Policy
 
-At Bediddle, we are committed to protecting online user privacy. This "Privacy Policy" discloses the privacy practices governing our knowing collection, use, and disclosure of information. In order to ensure your privacy, information we collect is used only in the manner and for the purposes described below.
+This Privacy Policy governs the manner in which Specialty Styles collects, uses, maintains and discloses information collected from users (each, a "User") of the <http://specialtystyles.com/> website ("Site"). This privacy policy applies to the Site and all products and services offered by Specialty Styles.
 
-Anonymous User Information: Bediddle collects some anonymous information each time you visit Bediddle so we can improve the overall quality of your online experience. We collect your IP address, referral data, and browser and platform type. You do not have to register with Bediddle before we can collect this anonymous information. We do not collect any unique information about you (such as your name, e-mail address, etc.) except when you specifically and knowingly provide such information. Bediddle does not require you to share information that identifies you personally, such as your name or email address, in order for you to use the Bediddle search. Bediddle assigns an anonymous ID number to your requests and links the following additional data to that number: the date and time you visited Bediddle, your search terms, and the links upon which you choose to click. Like most standard Web site servers, we use log files to collect and store this anonymous user information. We analyze this information to examine trends, administer the site, track user's movement in the aggregate, and gather broad demographic information for aggregate use. Bediddle may present links in a format that enables us to understand whether they have been followed. We use this information to understand and improve the quality of the Bediddle search. 
+Personal identification information
 
-Cookies: We use a feature of Internet web browsers called a "cookie," which is a small file that is sent to your computer when you visit a website. This enables us to store user preferences and track user trends and search patterns. We use cookies to improve the quality of the Bediddle services and to better understand how users interact with us. We do not and cannot use Cookies to retrieve individual personally identifiable information about you from your computer unless you knowingly and willingly provided such information. The cookie technology we use cannot obtain information from your hard drive or pass on a computer virus. You can reset your browser to refuse all cookies or to indicate when a cookie is being sent. However, some Bediddle features or services may not function properly without cookies. 
+We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, subscribe to the newsletter, and in connection with other activities, services, features or resources we make available on our Site.. Users may visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
 
-Information security: We take appropriate security measures to protect against unauthorized access to or unauthorized alteration, disclosure or destruction of data. We restrict access to your personally identifying information to employees who need to know that information in order to operate, develop or improve our services. 
+Non-personal identification information
 
-Aggregated General Information: We may share aggregated general information about our site with our corporate partners or others. Examples of this include the number of users who searched for "Classic Cars", the daily number of unique visitors, or how many users clicked on a particular advertisement. Aggregated data does not contain any personally identifiable information that could be used to contact or identify you. Information sharing We may share personally identifying information to other companies or individuals in any of the following limited circumstances: 
+We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information.
 
-  * We have your consent. 
-  * We provide such information to trusted businesses or persons for the sole purpose of processing personally identifying information on our behalf. When this is done, it is subject to agreements that oblige those parties to process such information only on our instructions and in compliance with this Privacy Policy and appropriate confidentiality and security measures. 
-  * When required by law wherein we have a good-faith belief that such action is necessary to comply with a current judicial proceeding, a criminal investigation, a court order, or legal process served on our Web site. We may also share your personal information if we believe it is necessary in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of Bediddle's terms of use, or as otherwise required by law. 
-  * If you have an account, we may share the information submitted under your account among all of our services in order to provide you with a seamless experience and to improve the quality of our services. We will not disclose your account information to other people or non-affiliated companies, except in the limited circumstances described in this Policy or with your consent. 
-  * We may store and process personal information collected on our site in the United States or any other country in which Bediddle or its agents maintain facilities. By using our services, you consent to the transfer of your information among these facilities, including those located outside your country. 
-  * Bediddle may use third party service providers to serve ads and emails on our behalf. These companies may use technologies to measure the effectiveness of ads and emails and use information about your visits to Bediddle so that we can provide a better search experience to you. For this purpose, we may also provide these third parties service providers anonymous information about your site navigation. 
-  * We may share certain information about you with carefully selected business partners, including those who may offer services that complement those provided by us or which we believe may be of interest to you. We may also disclose information to third parties who assist us in providing our services to you. For example, we may engage third parties to make improvements on our site, to offer new products and to allow us to customize your experience on the Site. 
+Web browser cookies
 
+Our Site may use "cookies" to enhance User experience. User's web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
 
+How we use collected information
 
-Correspondence: If you contact Bediddle, we may keep a record of that correspondence and we may collect your email address. 
+Specialty Styles may collect and use Users personal information for the following purposes:  
+\- To improve customer service  
+Information you provide helps us respond to your customer service requests and support needs more efficiently.  
+\- To improve our Site  
+We may use feedback you provide to improve our products and services.  
+\- To run a promotion, contest, survey or other Site feature  
+To send Users information they agreed to receive about topics we think will be of interest to them.  
+\- To send periodic emails  
+We may use the email address to respond to their inquiries, questions, and/or other requests. If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email or User may contact us via our Site.  
+How we protect your information
 
-Third Party Information Gathering: Bediddle includes content and ads from third parties that may perform user activity tracking other than that described herein. These other sites may place their own cookies on your computer, collect data or solicit personal information. For more information about each third party content provider, cookies, and how to "opt-out", please refer to such third party advertiser's privacy policy Bediddle contains links to other sites on the Web. Please be aware that Bediddle is not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site. 
+We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.
 
-Children's Privacy: Bediddle does not knowingly request or collect personally identifiable information online or offline contact information from users under 13 years of age nor do we knowingly use or share personal information from users under 13 years of age with third parties. 
+Sharing your personal information
 
-Sale of Assets: In the event that another company acquires all or substantially all of the assets related to the business of Bediddle, we reserve the right to include any or all stored personal information among the assets transferred to the acquiring company. 
+We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above.
 
-Changes to Privacy Policy: We reserve the right to amend or revise this privacy policy from time to time. We will post these changes to this page. Use of information that we gather now is subject to the privacy policy in effect at the time the information is used.
+Changes to this privacy policy
+
+Specialty Styles has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
+
+Your acceptance of these terms
+
+By using this Site, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
+
+Contacting us
+
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
+Specialty Styles  
+<http://specialtystyles.com/>  
+1-800-616-4599  
+[Send us a Message ](http://bediddle.com/component/contact/contact/1?Itemid=291)
+
+This document was last updated on September 22, 2014
+
+Privacy policy created by Generate Privacy Policy
