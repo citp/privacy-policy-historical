@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coherent.com privacy policy that was archived on 2015-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150616060301id_/http%3A//www.coherent.com/Home/index.cfm%3Ffuseaction%3Dpopups.page_v3%26PageID%3D4) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coherent.com privacy policy that was archived on 2015-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151215152339id_/http%3A//www.coherent.com/Home/index.cfm%3Ffuseaction%3Dpopups.page_v3%26PageID%3D4) for the most accurate reproduction.*
 
 # 
 
