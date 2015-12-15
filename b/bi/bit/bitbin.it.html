@@ -1,107 +1,86 @@
-<!--The following is the downloaded HTML source of the bitbin.it privacy policy that was archived on 2015-06-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150629124821id_/http%3A//www.bitbin.it/privacypolicy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bitbin.it privacy policy that was archived on 2015-12-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151215231405id_/http%3A//bitbin.it/privacy_policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
     <meta charset="utf-8">
-    <title>BitBin</title>
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    
-    <style>
-        textarea#_paste_text{
-            font-family: Consolas, "DejaVu Sans Mono", "Lucida Console", Monaco, monospace;
-            font-size: 10pt;
-        }
-    </style>
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="propeller" content="900740549c35cf18387e86a394e6f0b9">
+	
+	<title>BitBin</title>
+	
+	<!-- Bootstrap core CSS -->
+	<link rel="shortcut icon" href="/static/ico/favicon.png">
+	<link href="/static/css/bootstrap.min.css" rel="stylesheet">
+	<link href="/static/css/pastebin-django.css" rel="stylesheet">
+	<link href="/static/css/pygments-style.css" rel="stylesheet">
+	
+	<!-- Padding to move content below the menubar -->
+	<style>
+	body {
+	  padding-top: 50px;
+	}
+	</style>
+	
+</head>
 
-        <meta name="description" content="BitBin allows you to earn bitcoins simply by posting and sharing your text pastes">
-    <meta name="keywords" content="bitbin,bitcoin,pastebin,text,code,source code,upload,submit,satoshi,nakamoto,free,bitcoins,earn,easy,technology,paste,upload,litecoin">
 
-<!-- Le styles -->
-    <link href="assets/css/bootstrap.css" rel="stylesheet">
-    <link href="assets/css/bitbin.css" rel="stylesheet">
-    <style>
-      body {
-        padding-top: 60px; /* 60px to make the container go all the way to the bottom of the topbar */
-      }
-      
-      /* Coolvetica Rg font by Typodermic Fonts Inc. 
-         http://typodermicfonts.com/              */
-      @font-face {
-        font-family: "Coolvetica Rg";
-        src: url("assets/coolvetica_rg-webfont.woff");
-        src: local("☺"),
-            url("assets/coolvetica_rg-webfont.woff") format("woff"),
-        }
-    </style>
-    
-    <script type="text/javascript" async="" src="https://d1ux67szpr7bp0.cloudfront.net/project-megaphone/widget.min.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
-  ga('create', 'UA-1103649-2', 'bitbin.it');
-  ga('send', 'pageview');
-
-</script>
-
-    <link href="assets/css/bootstrap-responsive.css" rel="stylesheet">
-
-    <!-- Le HTML5 shim, for IE6-8 support of HTML5 elements -->
-    <!--[if lt IE 9]>
-      <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
-    <![endif]-->
-
-    <!-- Le fav and touch icons -->
-    <link rel="shortcut icon" href="../assets/ico/favicon.png">
-    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="../assets/ico/apple-touch-icon-144-precomposed.png">
-    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="../assets/ico/apple-touch-icon-114-precomposed.png">
-    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="../assets/ico/apple-touch-icon-72-precomposed.png">
-    <link rel="apple-touch-icon-precomposed" href="../assets/ico/apple-touch-icon-57-precomposed.png">    
-  </head>
-
-  <body>
-
-    <div class="navbar navbar-fixed-top">
-      <div class="navbar-inner">
-        <div class="container">
-          <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-          </a>
-          <a class="brand" href="index.php"><img src="assets/img/logo_small.png" style="position: relative;"></a>
-          <div class="nav-collapse">
-            <ul class="nav" style="padding-top: 5px; font-size: 125%;">
-                            <li class="active"><a href="index.php">Home</a></li>
-              <li><a href="earnings.php">Earnings</a></li>
-              <li><a href="payments.php">Payments</a></li>
-              <li><a href="latest_pastes.php">Latest Pastes</a></li>
-              <li><a href="faq.php">FAQ</a></li>
+<body>
+	
+    <div class="navbar navbar-inverse navbar-fixed-top navbar-default" role="navigation">
+	<div class="container">
+	    <div class="navbar-header">
+	    	<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#main-navbar" aria-expanded="false">
+		        <span class="sr-only">Toggle navigation</span>
+		        <span class="icon-bar"></span>
+		        <span class="icon-bar"></span>
+		        <span class="icon-bar"></span>
+		      </button>
+            <a class="navbar-brand" href="/"><img style="margin-top: -5px;" src="/static/img/logo_small.png"></a>
+	    </div>
+	    <div class="collapse navbar-collapse" id="main-navbar">
+	    	<ul class="nav navbar-nav">
+		        <li><a href="/">Home</a></li>
+		        <li class=""><a href="/latest_pastes/">Latest pastes</a>
+		        </li><li class=""><a href="/faq/">FAQ</a>
+		        </li><li><a href="/random/">Random</a></li>
+		    </ul>
+            <ul class="nav navbar-nav navbar-right">
+            	
+            	
+                
+                <li class=""><a href="/users/register/">Register</a></li>
+                <li class=""><a href="/users/login/">Login</a></li>
+                
             </ul>
-              <ul class="nav pull-right" style="padding-top: 5px; font-size: 125%;">
-                  <li><a href="search.php">Search</a></li>
-                  <li class="divider-vertical"></li>
-                <li><a href="random_paste.php">Random Paste</a></li>
-              </ul>
-          </div><!--/.nav-collapse -->
-          </div>
-        </div>
-      </div>
-    <div class="container">
-        
-        <div class="row">
-                <div class="page-header">
-                    <h2>Privacy Policy</h2>
-                </div>
-            
-            <div class="container">
+	    </div><!--/.nav-collapse -->
+	</div>
+</div>
+    
+    
+    
+<div class="container">
+	<div class="row">
+		<div class="col-md-12">
+			<div class="page-header">
+				<h3>Privacy policy</h3>
+			</div>
+			<div class="container">
     <div class="row">
-        <div class="span5"><iframe data-aa="14508" src="//ad.a-ads.com/14508?size=468x60" scrolling="no" style="width:468px; height:60px; border:0px; padding:0;overflow:hidden" allowtransparency="true"></iframe></div>
-        <div class="span5"><iframe scrolling="no" style="border: 0; width: 234px; height: 60px;" src="http://coinurl.com/get.php?id=80"></iframe></div>
+    	<div class="col-md-1"></div>
+        <div class="col-md-5"><iframe data-aa="14508" src="//ad.a-ads.com/14508?size=468x60" scrolling="no" style="width:468px; height:60px; border:0px; padding:0;overflow:hidden" allowtransparency="true"></iframe></div>
+        <div class="col-md-5">
+        	<div style="text-align:center">
+			    <iframe scrolling="no" frameborder="0" src="//mellowads.com/view/605328F4B22A" style="overflow:hidden;width:468px;height:60px;"></iframe>
+			    <div>
+			        <a href="//mellowads.com/networkspace/605328F4B22A" target="_blank">Advertise here</a>
+			    </div>
+			</div>
+		</div>
     </div>
-</div>            
-            This Privacy Policy governs the manner in which BitBin collects, uses, maintains and discloses information collected from users (each, a "User") of the <a href="http://www.bitbin.it">http://www.bitbin.it</a> website ("Site"). This privacy policy applies to the Site and all products and services offered by BitBin.<br><br>
+</div>
+			This Privacy Policy governs the manner in which BitBin collects, uses, maintains and discloses information collected from users (each, a "User") of the <a href="http://www.bitbin.it">http://www.bitbin.it</a> website ("Site"). This privacy policy applies to the Site and all products and services offered by BitBin.<br><br>
 
             <b>Personal identification information</b><br><br>
 
@@ -156,34 +135,33 @@
             jannepulk@gmail.com<br>
             <br>
             This document was last updated on August 14, 2012<br><br>
-        
-            <hr>
-      <footer>
-        <p>© <a href="mailto:jannepulk@gmail.com">BitBin</a> 2013 | <a href="tos.php">Terms of Service</a> | <a href="privacypolicy.php">Privacy Policy</a> | <a href="assets.php">Credits</a> | 
-        Pastes uploaded: <b>106,815</b> | Paste hits: <b>352,905,653</b><br>Page generated in 0.000672 seconds.                    
-        </p></footer></div>
-            
-    </div> <!-- /container -->
+            <div style="text-align: center;"> 
+    <!-- BEGIN JS TAG - [bitbin.it] - 728x90 < - DO NOT MODIFY -->
+    <script src="http://ib.adnxs.com/ttj?id=3344500&amp;referrer=http://bitbin.it" type="text/javascript"></script>
+    <!-- END TAG -->
+</div>
+		</div>
+	</div>
+</div>
 
-    <!-- Le javascript
-    ================================================== -->
-    <!-- Placed at the end of the document so the pages load faster -->
-    <script src="assets/js/jquery.js"></script>
-    <script src="assets/js/bootstrap-transition.js"></script>
-    <script src="assets/js/bootstrap-alert.js"></script>
-    <script src="assets/js/bootstrap-dropdown.js"></script>
-    <script src="assets/js/bootstrap-tab.js"></script>
-    <script src="assets/js/bootstrap-collapse.js"></script>
-    <script src="assets/js/sjcl.js"></script>
-    <script src="assets/syntaxhighlighter/scripts/shCore.js"></script>
-    <!--[if !(lte IE 8)]><!-->
-<script> 
-  (function(){
-    var e = document.createElement('script'); e.type='text/javascript'; e.async = true;
-    e.src = document.location.protocol + '//d1ux67szpr7bp0.cloudfront.net/project-megaphone/widget.min.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(e, s);
-  })();
-</script>
-<!--<![endif]-->
-  
+    
+    
+    <div class="container">
+	<hr>
+	<footer>
+		<p>Pastes uploaded: <b>167,852</b> | Paste hits: <b>423,353,644</b> | <a href="/legacy_earnings/">Legacy earnings</a> | BitBin is based on <a href="https://github.com/Matoking/pastebin-django/">pastebin-django</a> | <a href="/privacy_policy/">Privacy policy</a> | <a href="/tos/">Terms of service</a></p>
+	</footer>
+</div>
+    
+    
+    <!-- Bootstrap core JavaScript
+	================================================== -->
+	<!-- Placed at the end of the document so the pages load faster -->
+	<script src="/static/js/jquery.min.js"></script>
+	<script src="/static/js/bootstrap.min.js"></script>
+	<script src="/static/js/jquery.readmore.min.js"></script>
+	
+
+
+
 </body></html>
