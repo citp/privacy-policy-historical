@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the henryford.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609200654id_/http%3A//www.henryford.com/body.cfm%3Fid%3D56405) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the henryford.com privacy policy that was archived on 2015-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151215133632id_/http%3A//www.henryford.com/body.cfm%3Fid%3D56405) for the most accurate reproduction.*
 
 # Privacy Policy and Patient Security Detroit, Michigan (MI) - Henry Ford Hospital
 
@@ -13,8 +13,10 @@ Protecting your patient information is our priority and if you have any question
   * Chief Privacy & Information Security Officer: [cipso@hfhs.org](mailto:cipso@hfhs.org)
   * Information Privacy & Security Office: [PrivacySecurity@hfhs.org](mailto:PrivacySecurity@hfhs.org)
   * Information Privacy & Security Office Helpline: 313-874-9561
-  * Integrity Hotline: 1-888-434-3044 or [www.mycompliancereport.com](http://www.mycompliancereport.com/) (Access: HFH) 
+  * Integrity Hotline: 1-888-434-3044 or [www.mycompliancereport.com](http://www.mycompliancereport.com/) (Access: HFH)
 
 
 
 ###### _  Note: Throughout these web pages on patient privacy you may click on any link to view the Adobe PDF version of a document or form._
+
+_Henry Ford Health System does not exclude, deny benefits to, restrict visitation, or otherwise discriminate against any person on the ground of race, color, national origin, religion, sex, height, weight, marital status, sexual orientation, gender identity, or on the basis of disability or age in admission to, participation in, or receipt of the services and benefits under any of its programs and activities._
