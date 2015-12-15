@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the buytimewarnercable.com privacy policy that was archived on 2015-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150619075948id_/http%3A//www.buytimewarnercable.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buytimewarnercable.com privacy policy that was archived on 2015-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151215060243id_/http%3A//www.buytimewarnercable.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - BuyTimeWarnerCable.com
 
