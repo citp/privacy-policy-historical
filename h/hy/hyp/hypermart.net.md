@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hypermart.net privacy policy that was archived on 2015-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150509041558id_/https%3A//www.hypermart.net/about/privacy.bml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hypermart.net privacy policy that was archived on 2015-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151215184142id_/http%3A//www.hypermart.net/about/privacy.bml) for the most accurate reproduction.*
 
 # HyperMart's Privacy Policy
 
