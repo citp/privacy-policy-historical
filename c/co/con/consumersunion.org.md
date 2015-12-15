@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the consumersunion.org privacy policy that was archived on 2015-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150622025953id_/http%3A//consumersunion.org/about/advocacy-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the consumersunion.org privacy policy that was archived on 2015-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151215114053id_/http%3A//consumersunion.org/about/advocacy-privacy-policy) for the most accurate reproduction.*
 
 # Advocacy Privacy Policy | Consumers Union
 
@@ -62,7 +62,7 @@ Email newsletters and action alerts: You may request updates or news about CU’
 
 #### Sharing With Affiliated Entities
 
-Consumers Union does not sell or rent any information provided by you via our Sites with any unaffiliated third party except as described in this privacy policy. Our affiliates include Consumers Union Action Fund, Inc. and Consumer Media LLC. Consumers Union Action Fund, Inc. (“CU Action Fund”) is a Section 501(c)(4) nonprofit consumer advocacy organization that works closely with CU to educate the public regarding consumer rights and consumer safety issues and to advocate policies, legislation and regulation that ensure a fair and safe marketplace for consumers. If you participate in one of our consumer advocacy campaigns, and as part of that participation you consent to receive electronic communications regarding our advocacy activities, we may share or rent your personally identifiable information with CU Action Fund. Consumer Media LLC is a nonprofit organization that owns and operates The Consumerist website at www.consumerist.com. We reserve the right to share your personal information with Consumer Media LLC.
+Consumers Union does not sell or rent any information provided by you via our Sites with any unaffiliated third party except as described in this privacy policy. Our affiliates include Consumers Union Action Fund, Inc. and Consumer Media LLC. Consumers Union Action Fund, Inc. (“CU Action Fund”) is a Section 501(c)(4) nonprofit consumer advocacy organization that works closely with CU to educate the public regarding consumer rights and consumer safety issues and to advocate policies, legislation and regulation that ensure a fair and safe marketplace for consumers. If you participate in one of our consumer advocacy campaigns, and as part of that participation you consent to receive electronic communications regarding our advocacy activities, we may share or rent your personally identifiable information with CU Action Fund. Consumer Media LLC is a nonprofit organization that owns and operates Consumerist website at www.consumerist.com. We reserve the right to share your personal information with Consumer Media LLC.
 
 #### Sharing with Unaffiliated Entities
 
@@ -187,7 +187,7 @@ If you have any questions or concerns about the Consumers Union Privacy Policy o
 
 If you feel that we have not followed our Consumers Union Privacy Policy please let us know by sending an email to actions@cu.consumer.org or calling us at 512-477-4431. Additionally, you may contact your state or local consumer protection office, the Better Business Bureau, or The Federal Trade Commission by phone at (202) 326-2222 and online at www.ftc.gov.
 
-If you are a subscriber to Consumer Reports or any of our other publications, [click here](https://web.archive.org/web/20150622025953id_/http%3A//consumersunion.org/about/If%20you%20are%20a%20subscriber%20to%20Consumer%20Reports%20or%20any%20of%20our%20other%20publications,%20click%20here%20%20%3Ca%20href=) to review the Consumer Reports privacy policy.
+If you are a subscriber to Consumer Reports or any of our other publications, [click here](https://web.archive.org/web/20151215114053id_/http%3A//consumersunion.org/about/If%20you%20are%20a%20subscriber%20to%20Consumer%20Reports%20or%20any%20of%20our%20other%20publications,%20click%20here%20%20%3Ca%20href=) to review the Consumer Reports privacy policy.
 
 ### 13\. CHANGES TO THIS PRIVACY POLICY
 
