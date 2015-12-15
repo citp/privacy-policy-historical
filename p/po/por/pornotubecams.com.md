@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pornotubecams.com privacy policy that was archived on 2015-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150616094717id_/http%3A//pornotubecams.com/privacy.html%3F) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pornotubecams.com privacy policy that was archived on 2015-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151215013753id_/http%3A//pornotubecams.com/privacy.html%3F) for the most accurate reproduction.*
 
 # PornoTubeCams - Privacy Policy
 
