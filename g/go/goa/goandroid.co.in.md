@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goandroid.co.in privacy policy that was archived on 2015-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150615113840id_/http%3A//www.goandroid.co.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goandroid.co.in privacy policy that was archived on 2015-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151215145256id_/http%3A//www.goandroid.co.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - GoAndroid
 
