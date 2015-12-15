@@ -1,14 +1,6 @@
-> *The following text is extracted and transformed from the pctechmag.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627200344id_/http%3A//pctechmag.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pctechmag.com privacy policy that was archived on 2015-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151215121312id_/http%3A//pctechmag.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | PC Tech Magazine
-
-Your ads will be inserted here by
-
- **Easy Plugin for AdSense**.
-
-Please go to the plugin admin page to  
- _Paste your ad code_ OR  
-_Suppress this ad slot_.
 
 This Privacy Policy governs the manner in which PC Tech Magazine collects, uses, maintains and discloses information collected from users (each, a “User”) of the [http://www.pctechmag.com](http://www.pctechmag.com/) website (“Site”). This privacy policy applies to the [PC Tech Magazine] Site and all products and services offered by PC Tech Group Ltd.
 
@@ -48,14 +40,6 @@ We adopt appropriate data collection, storage and processing practices and secur
 **Sharing your personal information**
 
 We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above.We may use third party service providers to help us operate our business and the Site or administer activities on our behalf, such as sending out newsletters or surveys. We may share your information with these third parties for those limited purposes provided that you have given us your permission.
-
-Your ads will be inserted here by
-
- **Easy Plugin for AdSense**.
-
-Please go to the plugin admin page to  
- _Paste your ad code_ OR  
-_Suppress this ad slot_.
 
 **Third party websites**
 
