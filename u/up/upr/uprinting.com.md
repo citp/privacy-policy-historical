@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uprinting.com privacy policy that was archived on 2015-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150503152305id_/http%3A//www.uprinting.com/site-policies.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uprinting.com privacy policy that was archived on 2015-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151216003104id_/http%3A//www.uprinting.com/site-policies.html) for the most accurate reproduction.*
 
 # UPrinting | Privacy Policy
 
