@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sojones.com privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611122254id_/http%3A//sojones.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sojones.com privacy policy that was archived on 2015-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151215043832id_/http%3A//sojones.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | SoJones
+# Privacy Policy - SoJones
 
 SOJONES.COM PRIVACY POLICY  
 Last Updated: May 2012
