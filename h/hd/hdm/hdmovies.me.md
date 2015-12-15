@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hdmovies.me privacy policy that was archived on 2015-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150622073832id_/http%3A//hdmovies.me/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hdmovies.me privacy policy that was archived on 2015-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151215121922id_/http%3A//hdmovies.me/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | HD Movies
+# Privacy Policy | HDMovies.Me
 
 ## Privacy Policy : Hdmovies.me
 
