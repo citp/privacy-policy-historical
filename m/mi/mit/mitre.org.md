@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mitre.org privacy policy that was archived on 2014-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140527055120id_/http%3A//www.mitre.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mitre.org privacy policy that was archived on 2015-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151215135123id_/http%3A//www.mitre.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The MITRE Corporation
 
@@ -6,11 +6,13 @@
 
 MITRE respects the privacy of its website users. This privacy policy explains the types of information collected from site visitors, and how MITRE uses that information. The use of the MITRE website constitutes acceptance of this policy.
 
-**Information Collected Automatically**
+**Information Collected from Web Traffic Reporting Tools**
 
-When users visit the MITRE website, the website server logs basic information about each visit. We process this information monthly via an automated software tool to identify any site performance issues, popular sections and content, and other important site characteristics. This information does not identify you personally. This information is used only as a source of anonymous statistical information. We may store such information ourselves or it may be included in databases owned and maintained by our service providers.
+When users visit the MITRE website, the website server logs basic information about each visit. We process this information monthly via an automated software tool to identify any site performance issues, popular sections and content, and other important site characteristics. This information does not identify you personally. This information is used only as a source of anonymous statistical information. We may store such information ourselves, or it may be included in databases owned and maintained by our service providers.
 
 MITRE employs cookies for collecting portions of this information. "Cookies" are data that may be sent to your web browser and stored on your computer. Most web browsers can be configured not to accept cookies, or to notify you if a cookie is sent to you. If you wish not to have cookies set during your visit to the MITRE website, you can disable them in your web browser. The raw log data is retained for a minimum of 90 days.
+
+MITRE also uses a free third party software service called Google Analytics® to capture and analyze website usage information. This service supplies us with additional non-personally identifiable information about MITRE's website users to help us create content that our users may find useful. Users that wish to have their non-personally identifiable information not collected by means of their visit to the MITRE website have the option to opt-out of the Google Analytics tracking service via this link: <https://tools.google.com/dlpage/gaoptout/>.
 
 **Information Collected from E-mail and Web Forms**
 
