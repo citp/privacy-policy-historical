@@ -1,18 +1,26 @@
-> *The following text is extracted and transformed from the postandcourier.com privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628211716id_/http%3A//www.postandcourier.com/section/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the postandcourier.com privacy policy that was archived on 2015-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151215030026id_/http%3A//www.postandcourier.com/section/privacy) for the most accurate reproduction.*
 
 # The Post and Courier | Charleston SC, News, Sports, Entertainment
 
+#### Latest News
+
+* * *
+
+[](http://www.postandcourier.com/article/20151214/PC1603/151219654/1031/joe-riley-puts-faith-in-learning-from-history-x2014-all-of-it-x2014-in-speech-to-usc-graduates "Joe Riley puts faith in learning from history — all of it — in speech to USC graduates")
+
+* * *
+
+[](http://www.postandcourier.com/article/20151214/PC1603/151219662/1031/trump-x2019-s-doctor-declares-gop-candidate-is-in-excellent-health "Trump’s doctor declares GOP candidate is in excellent health")
+
 #### Latest From Charleston Scene
 
-[](http://www.postandcourier.com/article/20150628/PC1201/150629447/1007/local-arts-in-brief-for-june-28-2015 "Local Arts in Brief for June 28, 2015")
+[](http://www.postandcourier.com/article/20151212/PC1201/151219868/1007/on-frank-sinatra-x2019-s-100th-birthday-local-woman-reminisces-about-her-lucky-encounter "On Frank Sinatra’s 100th birthday, local woman reminisces about her lucky encounter")
 
 * * *
 
-[](http://www.postandcourier.com/article/20150628/PC1201/150629448/1007/local-arts-in-brief-for-june-28-2015 "Local Arts in Brief for June 28, 2015")
-
 * * *
 
-[](http://www.postandcourier.com/article/20150626/PC12/150629518/1007/thomas-ravenel-says-he-x2019-s-getting-married-or-is-he "Thomas Ravenel says he’s getting married ... or is he?")
+[](http://www.postandcourier.com/article/20151212/PC11/151219897/1007/nyc-x2019-s-santacon-aims-to-put-an-end-to-naughty-or-nice-debate "NYC’s SantaCon aims to put an end to naughty-or-nice debate")
 
 ## PRIVACY STATEMENT
 
@@ -36,7 +44,11 @@ Personally identifiable information is collected when submitted by you – such 
 
 **1\. Personally identifiable information**. If you sign up for an account with us (which is required in order to view some content offered through the Services or to make certain submissions) or use Facebook Connect in conjunction with the Services, then we may use your personally identifiable information to maintain your account and to correspond with you. We may also use it to send you materials that we think would be of interest to you. We may also provide your personally identifiable information to advertisers or others. If you enter one of our contests, then we may use your personally identifiable information for purposes of the contest (such as to notify you if you win) and/or in accordance with the contest rules. We may also provide your personally identifiable information to the sponsor(s) of the contest, publish information concerning the winner of the contest, and/or for any other lawful purposes. If you email us, submit information to us, or ask to be placed on a mailing list that we maintain, then we may contact you and send information to you. If you register to purchase merchandise through the Services, then we may use your personally identifiable information to maintain your account and/or process your order. If we receive your personally identifiable information from a third party service provider, then we may use the information to contact you and to assist in performing the service for which you have registered with the third party. In addition to the uses listed above, we may use your personally identifiable information to improve our marketing and promotional efforts, as part of a statistical usage analysis, and/or to improve the features and content of the Services. We may also use your personally identifiable information to assist in delivery of content that is customized to your interests; and, other than your credit card information and account password, we may sell or license your personally identifiable information to third parties for their use. We do not collect personally identifiable information on an automatic basis, but we may combine non-personal information (which may be automatically collected) with your previously submitted personally identifiable information. We may also use your personally identifiable information as set forth elsewhere in this Privacy Statement.
 
-**2\. Non-personal information**. We may use your non-personal information to improve our marketing and promotional efforts, as part of a statistical usage analysis, to improve the features and content of the Services, and/or for other purposes to assist our business. We may share such information with advertisers and other third parties, typically in the aggregate. We may also use your non-personal information as set forth elsewhere in this Privacy Statement. We may use cookies, web beacons, and other technology to help us recognize your computer/device and help us understand where our users go and how much time they spend there. We may also use these technologies, as well as geo-location technologies, to deliver content that is customized to you. If you do not wish to have us collect and use information collected from cookies, you should disable cookies on your computer/device. We do not respond to web browser “do not track” signals or other similar mechanisms.
+**2\. Non-personal information**. We may use your non-personal information to improve our marketing and promotional efforts, as part of a statistical usage analysis, to improve the features and content of the Services, and/or for other purposes to assist our business. We may share such information with advertisers and other third parties, typically in the aggregate. We may also use your non-personal information as set forth elsewhere in this Privacy Statement. We may use cookies, web beacons, and other technology to help us recognize your computer/device and help us understand where our users go and how much time they spend there. We may also use these technologies, as well as geo-location technologies, to deliver content that is customized to you.
+
+If you do not wish to have us collect and use information collected from cookies, you should disable cookies on your computer/device. You should refer to your browser's help menu for up-to-date information on blocking cookies and other technologies. We do not respond to web browser "do not track" signals or other similar mechanisms.
+
+Specifically and among other methods, we use Google Analytics, which collect user information using first-party cookies (such as the Google Analytics cookie) or other first-party identifiers and third-party cookies (such as Google advertising cookies) and or other third-party identifiers. For more information about how Google collects and processes your data, please visit: <https://www.google.com/policies/privacy/partners/>. If you wish to opt-out of Google Analytics, we direct you to Google’s opt-out mechanism at <https://tools.google.com/dlpage/gaoptout/>.
 
 **3\. Links from the Site and other Services to advertisers and other third parties**. Please be aware that the Company's advertisers, business partners, sponsors, service providers, vendors and third parties accessible through the Services (such as via links from the Site and/or through Facebook Connect) may have their own privacy practices. The Company is not responsible for any actions or policies of such third parties. You should check the applicable privacy policies of the third parties when providing information to them. These third parties may provide the personally identifiable information and non-personal information that they collect to the Company and may also use the information in accordance with their own privacy practices. Financial institutions, such as those which process credit card orders, are subject to federal privacy laws.
 
@@ -88,4 +100,4 @@ Email: [privacy@eveningpostinteractive.com](mailto:privacy@eveningpostinteractiv
 
 The Company may have several operators collecting or maintaining personal information. The operator listed above, or his/her successor, is responsible for responding to privacy inquiries. Third parties accessible through the Services may have their own such operators.
 
-Copyright © 2013-2014, The Post and Courier, LLC, an Evening Post Industries company. All rights reserved.
+Copyright © 2013-2015, The Post and Courier, LLC, an Evening Post Industries company. All rights reserved.
