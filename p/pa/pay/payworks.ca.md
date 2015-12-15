@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the payworks.ca privacy policy that was archived on 2015-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150614094222id_/http%3A//www.payworks.ca/payworks-canada-privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the payworks.ca privacy policy that was archived on 2015-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151215043221id_/http%3A//www.payworks.ca/payworks-canada-privacy-policy.asp) for the most accurate reproduction.*
 
 # Privacy policy for Payworks Payroll Services Canada
 
@@ -9,8 +9,6 @@ Payworks is committed to providing the highest level of security and privacy reg
 ### Applicability
 
 Payworks respects and understands your concerns about privacy. Our goal is to provide you with the personal and financial information required to generate payroll and related transactions for your company. We hope that you will find the website useful and we provide you with this notice of our policy with respect to the information we may collect from you while you are using this site. Additionally, certain aspects of use of this site or information collected through this site may be covered by our contracts, if any, with customers.
-
-Additionally, certain aspects of use of this site or information collected through this site may be covered by our contracts, if any, with customers.
 
 ### Collection and Use of Personal Information
 
