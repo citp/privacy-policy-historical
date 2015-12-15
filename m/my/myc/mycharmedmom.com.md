@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mycharmedmom.com privacy policy that was archived on 2015-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150616124422id_/http%3A//mycharmedmom.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mycharmedmom.com privacy policy that was archived on 2015-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151215110539id_/http%3A//www.mycharmedmom.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - My Charmed Mom
 
@@ -56,7 +56,7 @@ This online privacy policy applies only to information collected through our web
 
 **Terms and Conditions**
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at <http://mycharmedmom.com/disclosure/>
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at <http://www.mycharmedmom.com/disclosure/>
 
 **Your Consent**
 
@@ -70,7 +70,7 @@ If we decide to change our privacy policy, we will post those changes on this pa
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
-http://mycharmedmom.com/  
+http://www.mycharmedmom.com/  
 1358 Oakland Rd #119  
 San Jose, California (CA) 95112  
 United States  
