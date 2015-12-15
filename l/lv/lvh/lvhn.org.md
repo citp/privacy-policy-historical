@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the lvhn.org privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316100638id_/http%3A//www.lvhn.org/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lvhn.org privacy policy that was archived on 2015-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151215152939id_/http%3A//www.lvhn.org/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy - Lehigh Valley Health Network - A Passion For Better Medicine
-
-Need Help?
-
-We can help you find the right doctor, or answer any questions you may have.
 
 ## Privacy Policy
 
