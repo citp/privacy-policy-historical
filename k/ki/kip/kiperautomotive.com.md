@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the kiperautomotive.com privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626070502id_/http%3A//www.kiperautomotive.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kiperautomotive.com privacy policy that was archived on 2015-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151215042043id_/http%3A//www.kiperautomotive.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | KiperAutomotive
+# Privacy Policy
 
 This Privacy Policy is in application to KiperAutomotive. This would impart how KiperAutomotive collects uses and shares the information from or regarding you as you visit a site, gives information on how advertisements are done, both on KiperAutomotive and other websites, and how information is collected based on interactions with the online ads. In addition to the Notice, depending on the relationship with KiperAutomotive, you may receive and be under the coverage of KiperAutomotive, other privacy disclosures within account opening documents and other privacy and security rules as applicable to the relevant affiliate.
 
