@@ -1,100 +1,146 @@
-> *The following text is extracted and transformed from the chinawomendating.asia privacy policy that was archived on 2012-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120314200414id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chinawomendating.asia privacy policy that was archived on 2015-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151215210509id_/http%3A//www.anastasiadate.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Legal Agreement
+# Privacy Policy
 
-**Go Daddy Respects Your Privacy**
+Depending on what you do when you visit any Web site, you are providing information about your visit to the site's owners. This includes AnastasiaDate.com. We value privacy and think you do too, so we want you to have the information you need to make your own decisions about your personal privacy. When you visit or supply information to any Web site, we think it's a good idea for you to first understand what that site's privacy policies are. If the site doesn't tell you, don't hesitate to ask.
 
-**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
+The bottom line at www.AnastasiaDate.com is that we only use the information that we get from your visit for internal tracking purposes, to make AnastasiaDate.com as useful and interesting to you as we can, and to respond to your requests for information or other services. Except for as specifically noted, we do not use your personal information for any other purpose; we never sell it to any third party; and we never share it with any third party. 
 
-**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
+Read more about how your personal information is managed:
 
-**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
+## I. Notice
 
-**Information Collection and Use**
+What personal information we collect and how we use your information. Our policy regarding information sharing.
 
-Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
+## II. Choice
 
-We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
+How you can decide what communication you'll receive from us
 
-We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
+## III. Access
 
-We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
+How you can control the use of your personal information
 
-We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
+## IV. Security
 
-Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
+How we protect the security of your personal information
 
-This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
+## V. Customer Service and Recourse
 
-**Security**
+Changes to the AnastasiaDate.com Privacy Policy
 
-This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.
+How to contact AnastasiaDate.com
 
-**Updating Your Information**
+## I. Notice
 
-You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
+### What personal information we collect:
 
-        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
+When you visit the AnastasiaDate.com Web site, we capture the Internet provider's domain name and country that you came from (e.g., 'aol.com') and the paths taken as you move from page to page (i.e., your "click stream" activity).
 
-       ii.      You may send mail to Go Daddy at the following postal address:   
-               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
+### Visitor Registration or Requests for Information:
 
-      iii.      You may call us at: (480) 505-8800
+AnastasiaDate.com only collects personal information that you choose to provide voluntarily when using or registering with the AnastasiaDate.com site. "Personal information" includes information that can identify you as a specific individual, such as your name or email address; and, in the case of affiliate agreements, your name and company name. While you can browse our site without registering, you will need to register in order to take advantage of certain features.
 
-       iv.      You may fax us at: (480) 505-8844
+### Browsing and the use of Cookies:
 
-**Sending Emails**
+AnastasiaDate.com uses cookie technology as part of our Web site's statistical reporting. A cookie is a small piece of information sent by a Web site that is saved on your hard disk by your computer's browser. It holds information a site may need to personalize your experience (i.e., rotating images on AnastasiaDate.com home page) and to gather Web site statistical data, such as which pages are visited, what is downloaded, the internet provider's domain name and country that our visitors come from (e.g. 'aol.com,' or 'umich.edu') and the addresses of sites visited immediately before, and after, coming to AnastasiaDate.com. However, none of this is associated with you as an individual. It is measured only in aggregate. The information in the cookies lets us trace your "click stream" activity (i.e., the paths taken by visitors to our site as they move from page to page. Cookies do not capture your individual email address or any private information about you.
 
-We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
+We also use standard Web server log files to help us count visitors and evaluate our site's technical capacity. We use this information to find out how many people visit AnastasiaDate.com, help us arrange the pages in the most user-friendly way, keep the site browser-friendly, and to make our pages more useful to our visitors. We record information on site traffic but not information on individual visitors to our site, so no information about you in particular will be kept or used.
 
-The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
+To browse without cookies, you can configure your browser to reject all cookies, or to notify you when a cookie is set. (Each browser is different, so check the "Help" menu of your browser to learn how to change your cookie preferences.)
 
-**Compliance with Laws and Law Enforcement**
+### How we may use information we collect
 
-We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
+We may use information to:
 
-**Third Party Service Providers**
+  * Arrange the Web site in the most user-friendly way;
+  * Fulfill your requests for products and services;
+  * Customize your browsing experience of this Web site;
+  * Communicate special offers and featured items to you, if you choose to receive such notices;
+  * Manage your account and your preferences;
+  * Analyze use of and improve our website, products and services;
+  * Identify and protect against fraudulent transactions and other misuses of our website;
+  * Respond to your question or suggestions;
 
-We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
 
-In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel gift or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
 
-**Supplementation of Information**
+### Email, Mailing Lists, and Other Services:
 
-In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
+When you send us an email, we use your email address to thank you for your comment and/or reply to your question, and we will store your communication and our reply in case we correspond further.
 
-**Contests/Surveys**
+You may also daily receive any combination of our email newsletters, account updates, or special offers targeted to your interests sent to you by AnastasiaGlobal.
 
-From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
+### Linking To Other Sites:
 
-We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
+Please remember that when you use a link to go from AnastasiaDate.com to another Web site, the AnastasiaDate.com Site Rules and this Privacy Policy are no longer in effect. Your browsing and interaction on any other Web site, including any site that has a link on AnastasiaDate.com, is subject to the rules and policies of that site. We encourage you to read the rules and policies of the sites you visit to further understand their procedures for collecting, using, and disclosing personal information.
 
-**Tell-A-Friend**
+### Our policy regarding sharing of information:
 
-If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
+Service Providers: We also may disclose information to outside companies that help us bring you the products and services we offer. For example, we may work with an outside company to: (a) manage a database of customer information; (b) assist us in distributing emails; (c) assist us with direct marketing and data collection; (d) provide us storage and analysis; (d) provide fraud prevention; and (e) provide other services designed to assist us in maximizing our business potential. We require that these outside companies agree to keep confidential all information we share with them and to use the information only to perform their obligations in our agreements with them.
 
-**What Happens to my Personal Information if I Opt Out?**
+Other Companies: We may provide information to carefully selected outside companies when we believe their products or services may be of interest to you.
 
-If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information as necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
+Business Transitions: We may transfer or share a copy of personal information about you in the event that AnastasiaDate.com or one of its properties, affiliates, or subsidiaries goes through a business transition, such as a merger, being acquired by another company, or selling a portion of its assets.
 
-**Transfer of Data Abroad**
+Compliance with Law: We may provide access to information when legally required to do so, to cooperate with police investigations or other legal proceedings, to protect against misuse or unauthorized use of our website, to limit our legal liability, and to protect our rights or to protect the rights, property, or safety of visitors of this website or the public.
 
-If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
+### Age Restrictions
 
-**Changes in Our Practices**
+Children under eighteen years of age are prohibited from using Our Websites. We do not target our sites or services to children under the age of 18, and in compliance with the Children’s Online Privacy Protection Act, any information we may receive from users we believe to be under the age of 18 will be purged from our database.
 
-We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+## II. Choice
 
-If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
+### Choice/Opt-Out
 
-**Contacting Our Site**
+AnastasiaDate.com may periodically send you email messages describing updates, new features, or promotional offers related to this Web site. You can choose to stop receiving this email at any time.
 
-If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
+To unsubscribe follow the instructions at <http://unsubscribe.anastasiadate.com/> or email us at [unsubscribe@anastasiadate.com](mailto:unsubscribe@anastasiadate.com). You can also follow the 'unsubscribe' instructions and link provided at the bottom with each email or as we otherwise provide.
 
-* * *
+## III. Access
 
-Go Daddy   
-ATTN: Web Team   
-14455 North Hayden Rd.   
-Suite 219   
-Scottsdale, AZ, 85260, U.S.A.
+### Updating Your Information
+
+To modify or delete your personal information, simply follow the instructions:
+
+  1. Log into your account
+  2. Select [My Account](https://web.archive.org/login/pages/home.aspx) on AnastasiaDate´s Main Page,
+  3. Scroll down and select [My Profile](https://web.archive.org/login/pages/client/profile.aspx),
+  4. Edit your personal information
+  5. Select **Save**.
+
+
+
+Also you can send your request to our [Support Team](https://web.archive.org/pages/customersupport/newquestion.aspx?categoryID=3), and we will make the requested changes.
+
+## IV. Security
+
+### Security
+
+The security of your personal information is very important to us and we are committed to protecting the information we collect. AnastasiaDate.com uses firewalls and has security measures in place at its physical facilities to protect against the loss, misuse, or alteration of information that we have collected from you at our Web site.
+
+AnastasiaDate.com has VeriSign and McAfee secure certificates demonstrating that the site is fully tested, approved and certified by these two leading security systems. You are protected from any virus, identity theft, credit card fraud, spyware, spam, or online scam on our site. 
+
+## V. Customer Service and Recourse
+
+### Contacting the Website
+
+Please note that whenever you submit any information to us in connection with any AnastasiaDate.com related services, you consent to AnastasiaDate’s processing of this information in the United States/Russia as necessary to provide the services in which you are participating.
+
+If you have any questions, comments or complaints about AnastasiaDate’s privacy policy and/or the way it affects you, please feel free to contact our [Customer Support](https://web.archive.org/pages/customersupport/questioncategories.aspx)
+
+**+1 (800) 356-3130**  
+**+1 (800) 234-0036**  
+
+
+### Acceptance of Privacy Statement
+
+Your use of our website, including any dispute concerning privacy, is subject to this privacy statement and the applicable Terms and Conditions. By using our website, you are accepting the practices set out in this privacy statement and the applicable Terms and Conditions.
+
+You represent and warrant that you will not create any databases, websites, software, legal entities and services competitive with Anastasiadate.com. Such activity will be investigated, and appropriate legal action will be taken, including without limitation, civil, criminal, and injunctive redress.
+
+AnastasiaDate.com reserves the right to change, modify or amend this policy at any time. We take privacy matters very seriously, and intend to stay at the forefront of privacy policy and protection matters. We will occasionally update our privacy policy and we will post those updates on this page. You are responsible for revisiting this page to review our privacy policy updates.
+
+### Effective Date
+
+This privacy statement was last revised on March 20, 2015.
+
+### Registered addresses:
