@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the safexbikes.com privacy policy that was archived on 2015-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150616235322id_/http%3A//www.safexbikes.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the safexbikes.com privacy policy that was archived on 2015-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151215135208id_/http%3A//www.safexbikes.com/privacypolicy.php) for the most accurate reproduction.*
 
-# Safe-x Motorcycle Fairings And Mudguards - Our Privacy Policy
+# Safexbikes Motorcycle Superstore - Our Privacy Policy
 
 This Privacy Policy governs the manner in which SZ Motorcycle Industries collects, uses, maintains and discloses information collected from users (each, a "User") of the safexbikes.com website ("Site"). This privacy policy applies to the Site and all products and services offered by sz motorcycle industries. 
 
@@ -58,11 +58,23 @@ If you have any questions about this Privacy Policy, the practices of this site,
 
   * SZ motorcycle industries
   * safexbikes.com
-  * SZ Motorcycle Industries, 185 A, NANGLI SAKRAWATI, NAJAFGARH, NEW DELHI
-  * 9873151505
+  * SZ Motorcycle Industries, 1529/27, Naiwala, Karol Bagh, NEW DELHI - 110005
+  * 9873151505,9210189229
   * info@safexbikes.com
 
 
+
+## Verified Parts
+
+_Get quality parts from trusted sellers only_
+
+## Best prices
+
+_Get maximum discounts offered in the market_
+
+## Fast Delivery
+
+_Get parts within 7-10 business days_
 
 Why shop at Safexbikes.com Motorcycle Superstore?
 
