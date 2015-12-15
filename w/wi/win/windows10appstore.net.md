@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the windows10appstore.net privacy policy that was archived on 2015-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150210114723id_/http%3A//ifreedownload.net/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the windows10appstore.net privacy policy that was archived on 2015-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151215101338id_/http%3A//ifreedownload.net/privacypolicy.html) for the most accurate reproduction.*
 
 # 
 
