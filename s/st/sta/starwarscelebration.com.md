@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the starwarscelebration.com privacy policy that was archived on 2014-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141202115845id_/http%3A//www.starwarscelebration.com/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the starwarscelebration.com privacy policy that was archived on 2015-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151215122017id_/https%3A//www.starwarscelebration.com/Privacy-Policy) for the most accurate reproduction.*
 
-# Privacy & Cookie Policy - Star Wars Celebration • April 16 - 19, 2015
+# Privacy & Cookie Policy - Star Wars Celebration • July 15 - 17, 2016
 
 Reed Exhibitions and _Star Wars_ Celebration respect the information provided by our customers. Because we gather certain types of information when our customers communicate with us, we believe you should fully understand the terms and conditions surrounding the information we capture and the use of that information. This privacy statement discloses the type of information we capture about our customers, how we use it to communicate with our customers, and how you can request to no longer receive communications from _Star Wars_ Celebration.
 
 ## US Policy
 
-_Star Wars_ Celebration is produced and managed by Reed Exhibitions (RX-US), a division of Reed Elsevier, Inc. This privacy policy applies to all RX-US offices and conforms to the spirit of the Reed Exhibitions Privacy Policy, which can be found at [www.reedexpo.com](http://www.reedexpo.com/).
+_Star Wars_ Celebration is produced and managed by Reed Exhibitions (RX-US), a division of the RELX Group. This privacy policy applies to all RX-US offices and conforms to the spirit of the Reed Exhibitions Privacy Policy, which can be found at [www.reedexpo.com](http://www.reedexpo.com/).
 
 ## Our Customers
 
@@ -86,6 +86,9 @@ url referrer | Reed Exhibitions | Session | If you have arrived at an RX website
 voviciSurvey_invitationDateTime | Reed Exhibitions | 60 minutes | This is another Vovici© cookie. It ensures that a survey is only served to you, after you have been on the site for more than two minutes.  
 voviciSurvey_noInvitations | Reed Exhibitions | 10 years | Vovici© is the company used by RX to supply website surveys, often to elicit feedback on the websites themselves. This cookie remembers when you have completed a survey and prevents it from being served to you again.  
 webtolead.site.[THIS SITE] | Reed Exhibitions | 1 Year | When you have: Submitted a request to attend, exhibit or advertise at an RX show OR Provided your details in order to access premium content on an RX site. This cookie remembers that you have already done so and ensures that you do not have to re-submit your request or re-enter your details.  
+f_hash  | Feathr  | 2 Years  | Feathr is an analytics and digital marketing solution. Feathr helps us determine which content is most active, and associates individuals with the content they consume. This cookie helps Feathr determine whether or not the visitor and page view represent legitimate traffic or potentially come from a bot or search engine crawler.   
+f_id  | Feathr  | 2 Years  | This is another Feathr cookie. It establishes a unique identification per user. It helps Feathr determine number of unique visitors to an RX site as well as to tailor marketing behavior by user.   
+f_opt_out  | Feathr  | 5 Years  | This is another Feathr cookie. It is set when you enable or disable a global opt-out of Feathr's behavioral tracking at <https://feathr.co/opt-out/>. If this cookie exists in the affirmative, all other Feathr cookies are either erased or ignored.   
   
 ## Policy Changes
 
