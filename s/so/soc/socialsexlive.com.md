@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the socialsexlive.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609012916id_/http%3A//www.socialsexlive.com/privacy.html%3F) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the socialsexlive.com privacy policy that was archived on 2015-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151215185710id_/http%3A//www.socialsexlive.com/privacy.html%3F) for the most accurate reproduction.*
 
 # SocialSexLive - Privacy Policy
 
