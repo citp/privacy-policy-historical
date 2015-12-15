@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ofree.net privacy policy that was archived on 2015-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150615113830id_/http%3A//www.ofree.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ofree.net privacy policy that was archived on 2015-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151216002231id_/http%3A//www.ofree.net/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy at ¤ Only Free at ¤ Only Free
 
