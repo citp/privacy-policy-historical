@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the socialmedia.biz privacy policy that was archived on 2015-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150616131819id_/http%3A//socialmedia.biz/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the socialmedia.biz privacy policy that was archived on 2015-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151215123020id_/http%3A//socialmedia.biz/privacy) for the most accurate reproduction.*
 
 # Privacy policy | Socialmedia.biz
-
-SOCIAL MEDIA   •   SOCIAL MARKETING   •   STRATEGIC COMMUNICATIONS   •   STORYTELLING   •   BUILDING COMMUNITY   •   CAMPAIGNS
 
 We respect your privacy.
 
