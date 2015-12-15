@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the beverlyhills-md.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627054834id_/http%3A//beverlyhills-md.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beverlyhills-md.com privacy policy that was archived on 2015-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151215211506id_/http%3A//beverlyhills-md.com/privacy.php) for the most accurate reproduction.*
 
 # Beverly Hills MD
 
@@ -23,6 +23,8 @@ The information we collect may used for the following, including (i) to verify w
 Cookies: To better serve the user and to (i) facilitate site navigation and (ii) personalize your experience, including but not limited tailoring advertisements we use Cookies. Cookies are data files placed on your computer or other device when it is used to visit the Site. If you prefer to not accept cookies, you may change your browser setting. Your settings can be adjusted to notify when you receive cookies, which you may choose to accept or reject. Please note that enabling a cookie blocker may alter or restrict certain features or services available on the Site.
 
 Third Party Cookies: This Site uses remarketing services such as Google Analytics Advertising Features and Google Ad Words. These services collect data pertaining to your past visits to this Site and use cookies to collectively present advertisements tailored to your interest (“Remarketed Ads”). These Remarketed Ads may appear on certain third party websites, including but not limited to, Google search results page, websites within the Google Display Network, or any other third party vendor network. If you prefer not to receive Remarketed Ads, you can set your preferences [HERE](http://www.google.com/settings/ads) or you can OPT-OUT of all Remarketed Ads by visiting [OPT-OUT](http://www.networkadvertising.org/choices/).
+
+Email Addresses: We will never sell any of your personal information. We could share your email with third parties to perform services on your behalf.
 
 Data You May Provide: We may collect personal information, such as your name, email, telephone number, home address, and payment information. This information is used to identify you as an individual. This information may be collect at the time of purchase or by opt-in from any of our registration forms found on the Site. The type of information we collect depends on your use of the Site. We may ask you to provide more information, such as opinions or statements relating to the product. 
 
