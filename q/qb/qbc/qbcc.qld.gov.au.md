@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the qbcc.qld.gov.au privacy policy that was archived on 2015-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150616172342id_/http%3A//www.qbcc.qld.gov.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qbcc.qld.gov.au privacy policy that was archived on 2015-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151215135032id_/http%3A//www.qbcc.qld.gov.au/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Queensland Building and Construction Commission
 
@@ -37,7 +37,9 @@ We may ask you to provide personal information if you submit feedback to this si
 
 
 
-If you have submitted an application, we may provide all or some of this information (if applicable) to your:
+#### Use and disclosure of personal information
+
+If you have submitted an application or complaint, we may provide all or some of this information (if applicable) to your:
 
   * contractor/client
   * members of our panel of technical consultants (includes licensed contractors, registered engineers, and industry specialists)
@@ -48,9 +50,11 @@ If you have submitted an application, we may provide all or some of this informa
 
 
 
-#### Use and disclosure of personal information
+We will not give your personal information to third parties without your consent, unless mentioned above or required by law.
 
-We will not add you to a mailing list, or give your personal information to third parties without your consent, unless required by law.
+At the conclusion of servicing your enquiry, we may use your email to email you a survey to help us measure your experience with QBCC. Home owners will then not receive any further communications from us.
+
+If you're a QBCC licensee, your email address may be used to send you important updates regarding legislation amendments, changes to policies and other such information pertaining to your licence. From time to time, we will also send you newsletters to keep you abreast of industry news, updates and information about upcoming seminars and events. You can unsubscribe from our newsletter and marking communications at any time, however, this option is not provided for the licensee updates.
 
 #### Emails
 
