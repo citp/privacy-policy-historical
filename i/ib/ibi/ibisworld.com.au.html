@@ -1,14 +1,15 @@
-<!--The following is the downloaded HTML source of the ibisworld.com.au privacy policy that was archived on 2015-06-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150616014238id_/http%3A//www.ibisworld.com.au/about/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ibisworld.com.au privacy policy that was archived on 2015-12-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151215120441id_/http%3A//www.ibisworld.com.au/about/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head id="Head1"><title>
 	IBISWorld Privacy Policy
 </title><meta name="Description" content="To protect your privacy, IBISWorld follows principles in accordance with worldwide practices for customer privacy and data protection."><meta name="Keywords" content="Privacy Policy, Market Research, Market Size, Industry Statistics, Industry Analysis, Industry Trends"><link href="/style/master.css" rel="stylesheet" type="text/css"><link href="/style/about.css" rel="stylesheet" type="text/css"></head>
 <body>
     <form method="post" action="" id="form1">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTEyNzAzMjczM2QYAQUeX19Db250cm9sc1JlcXVpcmVQb3N0QmFja0tleV9fFgQFGWN0cmxIZWFkZXIkYnRuTmF2SW5kdXN0cnkFGGN0cmxIZWFkZXIkYnRuTmF2Q29tcGFueQUeY3RybFNlYXJjaExvZ2luJGJ0blNlYXJjaElucHV0BRhjdHJsU2VhcmNoTG9naW4kYnRuTG9naW4=">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTEyNzAzMjczM2QYAQUeX19Db250cm9sc1JlcXVpcmVQb3N0QmFja0tleV9fFgQFGWN0cmxIZWFkZXIkYnRuTmF2SW5kdXN0cnkFGGN0cmxIZWFkZXIkYnRuTmF2Q29tcGFueQUeY3RybFNlYXJjaExvZ2luJGJ0blNlYXJjaElucHV0BRhjdHJsU2VhcmNoTG9naW4kYnRuTG9naW7z6dt6YBwbSaSFEVWfFl0hHFEjmnvUBZHc6QsDHpyJ+Q==">
 
-<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAgNYoY8arfjQGL+oyKdOOP75FKbIJuwz14P/XTm+WKulW46qF2u/q4jXdYmBBkphjVMWT1YBihddV2+iqW+tKTCTJczAutjLG97kN4F8hPUcd6vf5Vub0DIXK/kObE3Jn5TCdHAfG8PvZTwldQ+nXL3x5oW6BQopFAqyC+M690agA==">
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="2BE68C40">
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAg/vNLVp/eE7faz8lfIlM/e5FKbIJuwz14P/XTm+WKulW46qF2u/q4jXdYmBBkphjVMWT1YBihddV2+iqW+tKTCTJczAutjLG97kN4F8hPUcd6vf5Vub0DIXK/kObE3Jn5TCdHAfG8PvZTwldQ+nXL3x5oW6BQopFAqyC+M690agNtFUfAuE1q7FIYO4EvFkG5PGwaJ+wNVc0vmqJXNdy5l">
     <div class="Master_PageBorder">
 
         <link id="ctrlHeader_Link1" href="/style/header.css" rel="stylesheet" type="text/css">
@@ -26,7 +27,56 @@
     </div>      
 </div>
 
-        <div id="ctrlSearchLogin_dv1" style="height:40px;border-bottom:1px solid #333333;background-image:url(/img/searchbkgrd.jpg););">
+        
+
+<script async="" src="//www.google-analytics.com/analytics.js"></script><script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+<style>
+    #overlay {
+    position: fixed; 
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: #000;
+    opacity: 0.5;
+    filter: alpha(opacity=50);
+}
+
+        #modal {
+            
+    position:absolute;
+    background:url(tint20.png) 0 0 repeat;
+    background:rgba(0,0,0,0.2);
+    border-radius:14px;
+    padding:8px;
+}
+
+#content {
+    font-size: 16px;
+    width: 400px;
+    border-radius:8px;
+    background:#fff;
+    padding:20px;
+}
+
+#close {
+    position:absolute;
+    background:url(/img/close.png) 0 0 no-repeat;
+    width:24px;
+    height:27px;
+    display:block;
+    text-indent:-9999px;
+    top:-7px;
+    right:-7px;
+}
+
+   #content p {
+        text-align: center
+    }
+
+</style>
+
+<div id="ctrlSearchLogin_dv1" style="height:40px;border-bottom:1px solid #333333;background-image:url(/img/searchbkgrd.jpg););">
     <div style="float:left;padding-left:10px;">
         <div id="ctrlSearchLogin_pnlSearch" title="Search">
 	
@@ -53,9 +103,98 @@
     </div>
 </div>
 
+
+
+<div id="ctrlSearchLogin_modContent" style="display: none;"></div> 
+
+<script type="text/javascript">
+
+
+    var modal = (function () {
+        var
+        method = {},
+        $overlay,
+        $modal,
+        $content,
+        $close;
+
+
+        method.center = function () {
+            var top, left;
+
+            top = Math.max($(window).height() - 300, 0) / 2;
+            left = Math.max($(window).width() - 400, 0) / 2;
+
+            
+
+            $modal.css({
+                top: top + $(window).scrollTop(),
+                left: left + $(window).scrollLeft()
+            });
+        };
+
+        method.open = function (settings) {
+            $content.empty().append(settings.content);
+
+            $modal.css({
+                width: settings.width || 'auto',
+                height: settings.height || 'auto'
+            })
+
+            method.center();
+
+            $(window).bind('resize.modal', method.center);
+
+            $modal.show();
+            $overlay.show();
+        };
+
+        method.close = function () {
+            $modal.hide();
+            $overlay.hide();
+            $content.empty();
+            $(window).unbind('resize.modal');
+        };
+
+        $descBtn = $('<a href="#" class="ref-description">  (?)</a>')
+
+
+        $overlay = $('<div id="overlay"></div>');
+        $modal = $('<div id="modal"></div>');
+        $content = $('<div id="content"></div>');
+        $close = $('<a id="close" href="#">close</a>');
+
+        $modal.hide();
+        $overlay.hide();
+        $modal.append($content, $close);
+
+        $(document).ready(function () {
+            $('body').append($overlay, $modal);
+            $(".radio_button").append($descBtn)
+        });
+
+
+        $close.click(function (e) {
+            e.preventDefault();
+            method.close();
+        });
+        return method;
+    }());
+
+        
+
+        function myFunction () {
+            var data = $("#ctrlSearchLogin_modContent").html();
+            
+
+            modal.open({ content: data });
+        };
+
+    </script>
+
         <div id="About_LeftPanel">
             <link id="ctrlMenu_Link1" href="/style/menuabout.css" rel="stylesheet" type="text/css">
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script language="javascript" type="text/javascript">
+<script language="javascript" type="text/javascript">
     function findPos(obj) {
         var curleft = curtop = 0;
         if (obj.offsetParent) {
@@ -191,7 +330,7 @@
         <li><a href="/about/default.aspx" title="About IBISWorld">About IBISWorld</a></li>
         <li><a href="/about/clients.aspx" title="Our Clients">Our Clients</a></li>
         <li><a href="/about/who.aspx" title="Our Team">Our Team</a></li>
-        <li><a href="/about/chairman/default.aspx" title="Phil Ruthven">Phil Ruthven</a></li>
+        <li><a href="/about/philruthven/default.aspx" title="Phil Ruthven">Phil Ruthven</a></li>
         <li><a href="/careers/default.aspx" title="Careers at IBISWorld">Careers at IBISWorld</a></li>
     </ul>
 </div>
@@ -284,17 +423,15 @@
     </tbody></table>
 </div>
 
-<script type="text/javascript">
-var _gaq = _gaq || [];
-_gaq.push(['_setAccount', 'UA-1923371-2']);
-_gaq.push(['_setDomainName', 'ibisworld.com.au']);
-_gaq.push(['_setAllowLinker', true]);
-_gaq.push(['_trackPageview']);
-(function() {
-var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-})();
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-1923371-2', 'auto', {'allowLinker': true});
+ga('require', 'linker');
+ga('linker:autoLink', ['secure.ibisworld.com.au'] );
+ga('send', 'pageview');
 </script>
 
 <script language="JavaScript" type="text/javascript">if (self==top){document.write("<scr" + "ipt type='text/javascript' language='JavaScript' id='GeniusCode' src='" + location.protocol + '//fcihh.rsvpgenius.com/mgTrack1.js?mgcid=f269f9f' + "'><\/scr" + "ipt>");}</script><script type="text/javascript" language="JavaScript" id="GeniusCode" src="https://fcihh.rsvpgenius.com/mgTrack1.js?mgcid=f269f9f"></script>
