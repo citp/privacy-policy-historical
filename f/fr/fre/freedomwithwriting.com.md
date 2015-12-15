@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the freedomwithwriting.com privacy policy that was archived on 2015-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150521170605id_/http%3A//www.freedomwithwriting.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freedomwithwriting.com privacy policy that was archived on 2015-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151215201946id_/http%3A//www.freedomwithwriting.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
-(last update: Feb 2011)
+(last update: May 2015)
 
 ### Information we gather
 
@@ -32,3 +32,7 @@ Google, as a third party vendor, uses cookies to serve ads.
 Google's use of the DART cookie enables it to serve ads to visitors based on their visit to sites they visit on the Internet.
 
 Website visitors may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
+
+As a 3rd party service, Facebook also uses cookies on our website.
+
+You can opt-out of advertising based cookies [here.](http://www.aboutads.info/choices/)
