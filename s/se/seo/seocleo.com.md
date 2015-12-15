@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seocleo.com privacy policy that was archived on 2015-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150616224346id_/http%3A//www.seocleo.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seocleo.com privacy policy that was archived on 2015-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151215110443id_/http%3A//seocleo.com/privacy.php) for the most accurate reproduction.*
 
 # SEO CLEO – Privacy Policy
 
