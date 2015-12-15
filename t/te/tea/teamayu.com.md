@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teamayu.com privacy policy that was archived on 2015-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150615101619id_/http%3A//www.avex.co.jp/e_site/privacy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teamayu.com privacy policy that was archived on 2015-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151215071422id_/http%3A//www.avex.co.jp/e_site/privacy/index.html) for the most accurate reproduction.*
 
 # Privacy Policy | Avex Group
 
@@ -91,7 +91,7 @@ The Avex Group does not provide personal information to third parties except in 
 
 ###### 4\. Sharing Personal Data
 
-Please click [here](https://web.archive.org/web/20150615101619id_/http%3A//www.avex.co.jp/e_site/privacy/data.html) for information about the shared use of personal data.
+Please click [here](https://web.archive.org/web/20151215071422id_/http%3A//www.avex.co.jp/e_site/privacy/data.html) for information about the shared use of personal data.
 
 ###### 5\. Posting personal information on bulletin boards etc.
 
