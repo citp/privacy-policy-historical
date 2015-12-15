@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the copyright.gov privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623092817id_/http%3A//copyright.gov/about/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the copyright.gov privacy policy that was archived on 2015-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151215142258id_/http%3A//copyright.gov/about/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | U.S. Copyright Office
 
@@ -54,8 +54,6 @@ The U.S. Copyright Office posts comments and petitions collected in response to 
 
 
 ##### Pages for Children
-
-The U.S. Copyright Office maintains two webpages that offer educational content to children under the age of 13: [_Taking the Mystery Out of Copyright_](http://www.loc.gov/teachers/copyrightmystery/) and [_Copyright & Primary Sources_](http://www.loc.gov/teachers/professionaldevelopment/selfdirected/copyright/). On these webpages, children and their educational instructors can interactively learn about the importance of copyright protection. The Copyright Office does not request any personal information, and it does not retain any information during these learning sessions. A link to this privacy policy is available on each of these pages.
 
 Though not directed at children, the Copyright Office’s online copyright registration system (“Electronic Copyright Office” or “eCO”) may be used by children under the age of 13. All eCO users are advised that the submission of personal information on a registration application is voluntary and that any information provided becomes available to the public. The Copyright Office deletes extraneous personal information (i.e., information neither requested nor required on a copyright registration application), such as Social Security numbers, prior to and following registration, but it does not currently have a policy in place to delete from the public record other personal information, such as names, dates of birth, and email addresses, following registration. For more information see Copyright Records below and visit _Privacy: Copyright Public Records_.
 
