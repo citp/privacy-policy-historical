@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the posterrevolution.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609091753id_/http%3A//www.posterrevolution.com/content/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the posterrevolution.com privacy policy that was archived on 2015-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151215130549id_/http%3A//www.posterrevolution.com/content/privacy.cfm) for the most accurate reproduction.*
 
 # Poster Revolution Privacy Policy
 
-[show old policy](https://web.archive.org/web/20150609091753id_/http%3A//www.posterrevolution.com/content/privacy.cfm?showold)  
+[show old policy](https://web.archive.org/web/20151215130549id_/http%3A//www.posterrevolution.com/content/privacy.cfm?showold)  
 
 
 ### Privacy Policy
