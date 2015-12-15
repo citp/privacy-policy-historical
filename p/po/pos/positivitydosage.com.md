@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the positivitydosage.com privacy policy that was archived on 2015-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150310103851id_/http%3A//positivitydosage.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the positivitydosage.com privacy policy that was archived on 2015-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151215204126id_/http%3A//positivitydosage.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Positivity Dosage
+# Privacy Policy - Positivity Dosage
 
-### Privacy Policy:
+## Privacy Policy:
 
 Positivity Dosage (" **Positivity Dosage** ") operates positivitydosage.com and may operate other websites. It is Positivity Dosage policy to respect your privacy regarding any information we may collect while operating our websites.
 
