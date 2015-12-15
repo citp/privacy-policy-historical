@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mdis.edu.sg privacy policy that was archived on 2014-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141125110145id_/http%3A//www.mdis.edu.sg/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mdis.edu.sg privacy policy that was archived on 2015-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151215121725id_/http%3A//www.mdis.edu.sg/privacy-policy) for the most accurate reproduction.*
 
 # PRIVACY POLICY :: MDIS
 
