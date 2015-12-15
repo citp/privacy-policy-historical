@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the arcadehall.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607062927id_/http%3A//www.arcadehall.com/index.php%3Fa%3Dpage%26id%3D2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arcadehall.com privacy policy that was archived on 2015-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151215162641id_/http%3A//www.arcadehall.com/pages/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy - Arcadehall
 
@@ -73,13 +73,13 @@ We may present internal links (i.e. links to our own pages) or external links (i
 
 We protect personal information against such risks as loss or theft, unauthorized access, disclosure, copying, use, modification or destruction, through appropriate security measures. 
 
-**Use of Facebook and Google Social Plugins**
+**Use of Social Plugins**
 
 The responsible entity uses social plugins ("plugins") of the social networks Facebook and Google on its website from facebook.com, which is operated by Facebook Inc., 1601 S. California Ave, Palo Alto, CA 94304, United States ("Facebook"), twitter.com, which is operated by Twitter Inc. 795 Folsom Street, Suite 600, San Francisco, CA 94107, United States ("Twitter") and google.com, which is operated by Google Inc., 1600 Amphitheatre Parkway, Mountain View, California, 94043, United States ("Google+1"). The plugins are marked with their logos: Facebook, Twitter and Google+1. If a user visits a page on this website, which contains such a plugin, the browser builds up a direct link to the Facebook, Twitter or Google servers. The contents of the plugin is from Facebook, Twitter and Google directly to the browser of the customer and integrated into this website. By integrating these plugins Facebook, Twitter and Google receive information that the customer has visited this website. If the customer is logged into Facebook, Twitter or Google, these companies can assign the visit of the website to his or her Facebook/Twitter/Google account. When the customer interacts with the plugins, for example, the "Like" button, "Tweet" button, "+1 Button" or add a comment, the corresponding information from the client's browser is sent directly to Facebook, Twitter or Google and stored there. Purpose and scope of data collection and further processing and use of data through Facebook, Twitter or Google are related to the settings of the customer to protect his privacy, refer to the privacy policies of Facebook, Twitter or Google. 
 
 **Contact**
 
-If you have any questions about this privacy policy or our treatment of your personal data, please use our [contact-form.](http://www.arcadehall.com/index.php?a=page&id=6)
+If you have any questions about this privacy policy or our treatment of your personal data, please use our [contact-form.](http://www.arcadehall.com/pages/Contact)
 
 **Binding Agreement**
 
