@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zenodo.org privacy policy that was archived on 2015-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150617013028id_/https%3A//zenodo.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zenodo.org privacy policy that was archived on 2015-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151215121451id_/https%3A//zenodo.org/privacy-policy) for the most accurate reproduction.*
 
 # Zenodo
 
