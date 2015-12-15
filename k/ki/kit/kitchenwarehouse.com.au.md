@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kitchenwarehouse.com.au privacy policy that was archived on 2015-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150616083218id_/http%3A//www.kitchenwarehouse.com.au/_Security-Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kitchenwarehouse.com.au privacy policy that was archived on 2015-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151215143646id_/http%3A//www.kitchenwarehouse.com.au/_Security-Privacy) for the most accurate reproduction.*
 
 # Security & Privacy | Kitchen Warehouse
 
@@ -89,15 +89,8 @@ The Kitchen Warehouse Online web site allows our customers the following communi
   * Correcting or updating your information in the My Account area
   
 
-  * Contacting us via our contact form. You may also send postal mail to the following postal address:
-
-  
+  * Contacting us via our[ contact form](https://web.archive.org/_Customer-Service). 
 
 
-Kitchenwarehouse.com.au
-
-2a 50 William Street,
-
-Beckenham, WA 6107
 
 Alternatively, you can contact our Customer Service Department on 1 800 332 934 .
