@@ -1,0 +1,73 @@
+> *The following text is extracted and transformed from the wacom.co.jp privacy policy that was archived on 2015-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151215120419id_/http%3A//www.wacom.com/en-us/privacy) for the most accurate reproduction.*
+
+# Privacy | Wacom
+
+**Wacom Technology Corporation**  
+1311 SE Cardinal Court  
+Vancouver, WA 98683  
+USA 
+
+Mon-Fri
+    6am to 6pm (PST)
+
+**Wacom Technology Corporation, LLC**  
+1311 SE Cardinal Court  
+Vancouver, WA 98683  
+(360) 896-9833 
+
+Last Updated: 12 October 2015
+
+This Privacy Policy explains how information about you is collected, used and shared by Wacom Technology Corporation ("Wacom," "we," or "us"). This Privacy Policy applies to information we collect when you use our website and online products and services (collectively, the "Services") or when you otherwise interact with us. 
+
+  * **1\. Information Collection and Use**  
+We collect information from our users at several different points on our Services. 
+    * **Information that Is Automatically Collected when You Use the Services**  
+We automatically collect anonymous, aggregate information when you access or use our Services. We store information that we collect through log files to create a profile of our users. Log files record internet protocol (IP) addresses, browser types, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, administer the site, track a customer's movement in the aggregate, and gather broad demographic information for aggregate use. A profile stores information detailing how individual customers use our Services. This information is used to (a) provide, maintain and improve our Services; (b) monitor and analyze website trends, administer the website, track users' movements, and gather broad demographic information for aggregate use; (c) link or combine with information we get from others to help understand your needs and provide you with better service; and (d) carry out any other purpose for which the information was collected. 
+    * **Information that Is Collected by Cookies**  
+A cookie is a piece of data stored on a user's hard drive containing information about that user. Cookies enable us to track and target the interests of our users to enhance the experience on our Services, and provide advertisements, content or features that match user profiles or interests. For more information about how Wacom uses Cookies and your choices regarding Cookies, please see our Cookie policy here. 
+    * **Information You Submit to Wacom**  
+We collect information you provide to us. For example, we collect information when you create an account, participate in any interactive features of the Services, make a purchase, apply for a job, communicate with us via third party social media sites, register products you purchase from us, request customer support or otherwise communicate with us. The types of information we may collect include your name, address, phone number, email address, gender, ethnicity, veteran status, disability status, information regarding product you purchased, purchase transaction and any other information you choose to provide. We may use information you submit for various purposes, including to: (a) communicate with you by sending you technical notices, updates, security alerts and support and administrative messages; (b) respond to your comments, questions and requests and provide customer service; (c) fulfill and deliver your products and services orders, process transactions and send you related information; and (d) carry out any other purpose for which the information was collected. We use a third party payment processor to process purchase transactions. We do not collect or store financial information, such as credit card number or other payment methods. 
+    * **Information We Collect from Other Sources**  
+We may also obtain information from other sources and combine that with information we collect through our Services. For example, if you create or log into your account through a social media site, we will have access to certain information from that site, such as your name, account information and friends lists, in accordance with the authorization procedures determined by such social media site.
+    * **Tell-A-Friend**  
+If a user elects to use our referral service for informing a friend about our website, we ask them for the friend's name and email address. We will automatically send the friend an email inviting him/her to visit the website. We store this information for the purpose of sending this one-time email. The friend may contact us to request the removal of this information from this database. 
+    * **Promotions and News**  
+We may use information about you to communicate with you about products, services, offers, promotions, and events offered by Wacom and others, and provide news and information we think will be of interest to you. You may opt out of receiving promotional emails from us by following the instructions in those emails or by deactivating it within your My account/Manage profile/Manage preferences. If you opt out, we may still send you non-promotional communications, such as those about your account or our ongoing business relations.
+    * **Advertising and Analytics Services Provided by Others**  
+We may allow others to serve advertisements on our behalf across the Internet and to provide analytics services. These entities may use cookies, web beacons and other technologies to collect information about your use of the Services and other websites, including your IP address, web browser, pages viewed, time spent on pages, links clicked and conversion information. This information may be used by us and others to, among other things, analyze and track data, determine the popularity of certain content, deliver advertising and content targeted to your interests on our Services and other websites and better understand your online activity. For more information about interest-based ads, or to opt out of having your web browsing information used for behavioral advertising purposes, please visit [www.aboutads.info/choices](https://web.archive.org/web/20151215120419id_/http%3A//www.wacom.com/en-us/www.aboutads.info/choices). 
+Wacom is based in the United States and the information we collect is governed by U.S. law. By accessing or using the Services or otherwise providing information to us, you consent to the processing and transfer of information in and to the U.S. and other countries. 
+  * **2\. Information Sharing**  
+
+    * **Sharing of Your Personal Information**  
+Wacom does not sell, rent, or share customer information to or with any third party not affiliated with or owned by Wacom, except service providers, vendors and consultants who need access to such information to carry out work on our behalf. For instance, we may share information about you with other companies that use this information to help us and other companies prevent fraudulent transactions. We will never give or sell your personal information to be used for the purposes of sending you unsolicited commercial offers (such as spam) from any third party, without your consent.
+    * **Sharing of Your Personal Information As Required By Law**  
+We will disclose personal information when required by law, or if we have a good-faith belief that such action is necessary to: 
+      * comply with a current judicial proceeding, a court order or legal process served on us, or as otherwise required by any applicable law, rule or regulation;
+      * protect and defend our rights, including but not limited to our user agreements or policies; or
+      * protect the rights, property, safety and other interests of our users or others.
+      * Sharing of your Personal Information During Business Transitions
+  
+We may share information about you in connection with, or during negotiations of, any merger, sale of company assets, financing or acquisition of all or a portion of our business by another company.
+  * **3\. Links**  
+This Web site contains links to other sites. Wacom is not responsible for the privacy practices or content of these other sites. We encourage you to be aware when you leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information. This privacy statement applies solely to information collected by Wacom.
+  * **4\. Security**  
+Wacom takes reasonable measures to help protect information about you from loss, theft, misuse and unauthorized access, disclosure, alteration and disclosure. When registering for access to a secure area of the site, we will ask you to select a username and password. We recommend that you do not divulge your password to anyone. We will never ask you for your password in an unsolicited phone call or in an unsolicited email. Also, remember to sign out of the registered site and close your browser window when you have finished your work. This is to ensure that others cannot access your personal information and correspondence when accessing your computer. If you have any questions about the security at our site, you can send a message to the webmaster at [webmaster@wacom.com](mailto:webmaster@wacom.com).
+  * **5\. Correcting, Updating, Deleting and Deactivating Personal Information**  
+If your personally identifiable information changes, you may contact us at [insert email address] to correct, update, delete or deactivate our record of your personally identifiable information, but note that we may retain certain information as required by law or for legitimate business purposes. We may also retain cached or archived copies of information about you for a certain period of time.
+  * **6\. Changes and Notice of Changes**  
+We may change this Privacy Policy from time to time. If we make changes, we will notify you by revising the date at the top of the policy and, in some cases, we may provide you with additional notice (such as adding a statement to our homepage or sending you an email notification). We encourage you to review the Privacy Policy whenever you access the Services or otherwise interact with us to stay informed about our information practices and the ways you can help protect your privacy.
+  * **7\. Contact Us**  
+If you have any questions about this Privacy Policy, please contact us at: [webmaster@wacom.com](mailto:webmaster@wacom.com).
+
+
+
+Our cookie policy has changed. Review our [cookies policy](https://web.archive.org/web/20151215120419id_/http%3A//www.wacom.com/en-us/~/link.aspx?_id=611ACCD9E1384D6DB0FB4DC62CF82681&_z=z) for more details and to change your cookie preference.   
+By continuing to browse this site you are agreeing to our use of cookies.
+
+You accept the Terms and conditions of the cookies policy and do not want to see this message again.
+
+Close 
+
+Or sign-in with one click:
+
+This site uses cookies. By continuing to browse the site you are consenting to their use.
