@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the acherryontop.com privacy policy that was archived on 2015-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150616000208id_/http%3A//www.acherryontop.com/articles/help/1521) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acherryontop.com privacy policy that was archived on 2015-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151215014208id_/http%3A//www.acherryontop.com/articles/help/1521) for the most accurate reproduction.*
 
 # Privacy statement: A Cherry On Top
 
@@ -54,4 +54,4 @@ The email address you provide for order processing may be used to send you infor
 
   
 **Security**  
-We are committed to ensuring that your information is secure. When you place orders with us, we use a secure server. The secure server software (SSL) encrypts all information you input before it is sent to us. All of the customer data that we collect is protected against unauthorized access.  In order to prevent unauthorized access or disclosure we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.  Credit card information is not stored online nor do we keep a copy of it at our offices. A Cherry On Top is PCI DSS compliant. A Cherry On Top is tested daily by ScanAlert to verify Hacker Safe status.
+We are committed to ensuring that your information is secure. When you place orders with us, we use a secure server. The secure server software (SSL) encrypts all information you input before it is sent to us. All of the customer data that we collect is protected against unauthorized access.  In order to prevent unauthorized access or disclosure we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.  Credit card information is not stored online nor do we keep a copy of it at our offices. A Cherry On Top is PCI DSS compliant. A Cherry On Top is tested daily by TrustGuard to verify Hacker Safe status.
