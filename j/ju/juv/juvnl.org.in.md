@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the juvnl.org.in privacy policy that was archived on 2015-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150415222852id_/http%3A//www.juvnl.org.in/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the juvnl.org.in privacy policy that was archived on 2015-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151215184429id_/http%3A//www.juvnl.org.in/privacy.html) for the most accurate reproduction.*
 
 # Official Website Jharkhand Urja Vikash Nigam Ltd..
 
