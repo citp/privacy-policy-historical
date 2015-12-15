@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the edn.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629083922id_/http%3A//ubmcanon.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edn.com privacy policy that was archived on 2015-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151215204007id_/http%3A//ubmcanon.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy · UBM Canon
+# Privacy Policy · UBM
 
 Effective: November 22, 2013
 
