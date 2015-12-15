@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ipmart.com.my privacy policy that was archived on 2015-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150616095447id_/http%3A//www.ipmart.com.my/main/page_privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ipmart.com.my privacy policy that was archived on 2015-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151215120535id_/http%3A//www.ipmart.com.my/main/page_privacy_policy.php) for the most accurate reproduction.*
 
-# ipmart.com :: Privacy Policy
+# ipmart.com.my :: Privacy Policy
 
 Your privacy is important to us. We believe that by respecting your privacy we will earn the opportunity to build a lasting relationship with you, your business, your clients and your staff. Any information you provide to us will only be used for the purpose for which it was intended. We collect your information primarily for proof, contact and billing purposes. Under no circumstances will your information be shared with, or sold to, or disclosed to any third party, except where required by law. This Privacy Policy applies only to information gathered in connection with IPmart.com's consumer credit card accounts used for transactions at IPmart.com and applications for those accounts.
 
