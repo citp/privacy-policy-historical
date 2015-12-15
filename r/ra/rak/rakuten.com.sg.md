@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rakuten.com.sg privacy policy that was archived on 2015-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150616185858id_/http%3A//www.rakuten.com.sg/policy/privacy/%3Fl-id%3Dsg__footer_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rakuten.com.sg privacy policy that was archived on 2015-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151215140229id_/http%3A//www.rakuten.com.sg/policy/privacy/%3Fl-id%3Dsg__footer_privacy) for the most accurate reproduction.*
 
 # Rakuten Singapore: Privacy Policy
 
@@ -68,11 +68,11 @@ Contacting Rakuten
 If Users have any questions about this Privacy Policy, the practices of this service, or User’s dealings with this site, please contact Rakuten at: 
 
 Rakuten Asia Pte Ltd  
-One George Street #16-02  
-1 George Street  
-Singapore 049145
+CapitaGreen #32-01  
+138 Market Street  
+Singapore 048946
 
 Tel: 65-6226 2280  
 Email: [asia-inquiry@mail.rakuten.com](mailto:asia-inquiry@rakuten.com)
 
-**Last modifired: July 1st 2014**
+**Last modifired: Nov 13th 2015**
