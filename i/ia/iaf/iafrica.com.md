@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the iafrica.com privacy policy that was archived on 2015-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150614034144id_/http%3A//www.iafrica.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iafrica.com privacy policy that was archived on 2015-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151215120137id_/http%3A//www.iafrica.com/about/privacy) for the most accurate reproduction.*
 
 # iafrica.com
+
+__
 
 **PRIVACY POLICY**
 
@@ -24,6 +26,11 @@ If at any time you believe that iafrica.com has not adhered to these principles,
 
 This privacy statement applies specifically to the iafrica.com service. Questions regarding this statement should be directed to [development@primediaonline.co.za](mailto:development@primediaonline.co.za).
 
+**PAIA Manual**
+
+In terms of the Promotions of Access to Information Act 2 of 2000, and the Constitution, everyone has the right of access to any information held by any public and private body. In this regard and as required to in terms of S51 of the Act, the Company has prepared a consolidated manual for itself and its subsidiaries/divisions which contains the publication and availability of certain records.  
+Should you wish to view or download the updated Manual Access to Information, please click [here](http://www.primediaonline.co.za/wp-content/uploads/2015/11/Manual-Access-to-Information-20151.pdf "Manual Access to Information 2015").
+
 ### In Focus Today
 
   * News
@@ -32,16 +39,18 @@ This privacy statement applies specifically to the iafrica.com service. Question
 
 
 
-The ANC has defended Winnie Madikizela-Mandela's absence from Parliament following a report that she had not been seen in Parliament for a while.
+Which things do South Africans trust more than President Jacob Zuma? It turns out, a lot, including Eskom. 
 
-[Read more ›](https://web.archive.org/articles/996353.html)
+[Read more ›](https://web.archive.org/articles/1015418.html)
 
-With the shortage of property in the market at the moment, many homeowners may be tempted to sell and take advantage of the current conditions. But should they?
+The year 2015 was an eventful one in the markets, with investors being reminded by events in Greece and China how quickly seemingly calm seas can turn choppy.
 
-[Read more ›](https://web.archive.org/articles/996258.html)
+[Read more ›](https://web.archive.org/articles/1015328.html)
 
-The Cheetahs outplayed the Bulls in a high-scoring affair at Loftus Versfeld on Saturday.
+Jose Mourinho insists he will fight to stay as Chelsea manager after accusing his players of betraying him in their 2-1 defeat at Premier League leaders...
 
-[Read more ›](https://web.archive.org/articles/996389.html)
+[Read more ›](https://web.archive.org/articles/1015424.html)
 
 ### Subscribe to our Newsletters
+
+__
