@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mol.com privacy policy that was archived on 2015-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150616224232id_/https%3A//www.mol.com/Home/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mol.com privacy policy that was archived on 2015-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151216001616id_/https%3A//www.mol.com/Home/Privacy) for the most accurate reproduction.*
 
 # MOL - Money Online | Privacy Policy
 
