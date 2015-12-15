@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the vianet.com.np privacy policy that was archived on 2014-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140922135003id_/http%3A//www.vianet.com.np/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vianet.com.np privacy policy that was archived on 2015-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151215030719id_/http%3A//www.vianet.com.np/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Vianet Communications Pvt. Ltd.
 
-## Privacy Policy
+### Privacy Policy
 
 **We care about your Privacy**  
 Protecting your privacy is important to us. We hope the following statement will demonstrate our firm commitment to privacy and help you understand how Vianet collects, uses and safeguards any personal information you provide to us from this Web site.
@@ -30,11 +30,11 @@ VIANET sends no unsolicited or SPAM mail, and strongly despise anyone who does. 
 
 If you need to be removed from Internet service provider or other access provider’s mailing list you will need to contact us directly.
 
-If you continue to receive SPAM report it to [noc@vianet.com.np](mailto:noc@vianet.com.np).
+If you continue to receive SPAM report it to [noc@www.vianet.com.np](mailto:noc@www.vianet.com.np).
 
 Whenever you complain about spam, it’s important to include the full email header. The information in the header makes it possible for consumer protection agencies to follow up on your complaint.
 
-Send a copy of the spam to [noc@vianet.com.np](mailto:noc@vianet.com.np). By doing this, you can let us know about the spam problem on their system and help them to stop it in the future. Make sure to include a copy of the spam, along with the full email header. At the top of the message, state that you’re complaining about being spammed.
+Send a copy of the spam to [noc@www.vianet.com.np](mailto:noc@www.vianet.com.np). By doing this, you can let us know about the spam problem on their system and help them to stop it in the future. Make sure to include a copy of the spam, along with the full email header. At the top of the message, state that you’re complaining about being spammed.
 
 Most ISPs want to cut off spammers who abuse their system. Again, make sure to include a copy of the message and header information and state that you’re complaining about spam.
 
@@ -50,7 +50,7 @@ Please investigate any third party offers found here with their respective compa
 The privacy information contained here pertains exclusively to the VIANET web site
 
 **Contact Us**  
-If you have any questions pertaining to our privacy policy or what information we collect, and how we use such information, please feel free to contact us at 5546410 or you can email to [marketing@vianet.com.np](mailto:marketing@vianet.com.np)
+If you have any questions pertaining to our privacy policy or what information we collect, and how we use such information, please feel free to contact us at 5546410 or you can email to [marketing@www.vianet.com.np](mailto:marketing@www.vianet.com.np)
 
 **Vianet Service**  
 Vianet communicates with Users via email, regular mail and telephone on a regular basis to provide requested services and regarding issues related to User’s services.
