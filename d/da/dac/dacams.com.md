@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dacams.com privacy policy that was archived on 2014-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141124191857id_/http%3A//www.dacams.com/privacy.html%3F) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dacams.com privacy policy that was archived on 2015-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151215133635id_/http%3A//www.dacams.com/privacy.html%3F) for the most accurate reproduction.*
 
 # Privacy Policy - DaCams
 
@@ -50,4 +50,4 @@ The address for correspondence by post is
 ICF Technology, Inc.  
 PO Box 21508  
 Seattle, WA 98111  
-USA 
+USA
