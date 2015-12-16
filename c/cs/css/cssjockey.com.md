@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cssjockey.com privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225022221id_/http%3A//www.cssjockey.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cssjockey.com privacy policy that was archived on 2015-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151216193036id_/http%3A//cssjockey.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | CSSJockey.com
 
@@ -26,10 +26,10 @@ We respect your work and will only use it to assist you to achieve your goals an
 
 ### Got Questions?
 
-Feel free to [CONTACT US](http://www.cssjockey.com/get-in-touch "Contact Us") for any further assistance.
+Feel free to [CONTACT US](http://cssjockey.com/contact "Contact Us") for any further assistance.
 
-Content, Graphics, Themes and Files by [CSSJockey](http://www.cssjockey.com/) are licensed under a [Creative Commons Attribution-Noncommercial-No Derivative Works 2.5 India License](http://creativecommons.org/licenses/by-nc-nd/2.5/in/). Based on a work at [www.cssjockey.com](http://www.cssjockey.com/). Permissions beyond the scope of this license may be available at <http://www.cssjockey.com/get-in-touch>.
+Content, Graphics, Themes and Files by [CSSJockey](http://cssjockey.com/) are licensed under a [Creative Commons Attribution-Noncommercial-No Derivative Works 2.5 India License](http://creativecommons.org/licenses/by-nc-nd/2.5/in/). Based on a work at [www.cssjockey.com](http://cssjockey.com/). Permissions beyond the scope of this license may be available at <http://cssjockey.com/get-in-touch>.
 
 [](http://creativecommons.org/licenses/by-nc-nd/2.5/in/)
 
-**UPDATED: 04th January, 2010**
+**UPDATED: 26th April, 2013**
