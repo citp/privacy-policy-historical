@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the raw-anime.com privacy policy that was archived on 2015-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150617035136id_/http%3A//raw-anime.com/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the raw-anime.com privacy policy that was archived on 2015-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151216054620id_/http%3A//raw-anime.com/privacy-policy-2) for the most accurate reproduction.*
 
 # Privacy Policy | 東京 RAW アニメ無料ダウンロード
 
