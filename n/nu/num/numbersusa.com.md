@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the numbersusa.com privacy policy that was archived on 2014-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140928090451id_/https%3A//www.numbersusa.com/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the numbersusa.com privacy policy that was archived on 2015-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151216191537id_/https%3A//www.numbersusa.com/help/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -42,6 +42,6 @@ By using the interactive portions of this site, you consent to the collection an
 
 For more information, please contact:
 
-_1601 N. Kent Street  
-Suite 1100  
-Arlington, VA 22209_
+_1400 Crystal Drive  
+Suite 240  
+Arlington, VA 22202_
