@@ -1,8 +1,12 @@
-> *The following text is extracted and transformed from the thelamfoundation.org privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608224249id_/http%3A//www.thelamfoundation.org/about-lam-foundation/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thelamfoundation.org privacy policy that was archived on 2015-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151216205409id_/http%3A//www.thelamfoundation.org/about-lam-foundation/privacy-policy) for the most accurate reproduction.*
 
 # The LAM Foundation :: Privacy Policy
 
 We provide this notice explaining our information practices. Please note that by visiting this site you are accepting the practices described in this Privacy Policy.
+
+The LAM Foundation never shares, sells, or rents your contact or donor information collected offline or online that you provide. 
+
+By request, you may receive periodic emails from The LAM Foundation as a way to keep informed of recent developments or to make announcements; however, e-mail recipients have the option of not receiving this type of email by notifying The LAM Foundation and requesting removal from the distribution list.
 
 ### Information We Collect & How We Use It
 
@@ -43,3 +47,7 @@ Cincinnati, Ohio 45241
 ### Our Commitment to Data Security
 
 To prevent unauthorized access, maintain data accuracy and ensure the correct use of information, we strive to maintain physical, electronic and administrative safeguards to secure the information we collect online. This includes the use of the Secure Sockets Layer (SSL) and Blackbaud's Merchant system for processing contributions securely.
+
+### Copyright
+
+All materials posted to The _LAM Foundation_ website (www.thelamfoundation.org) are protected by federal and international copyright laws.
