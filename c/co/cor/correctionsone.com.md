@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the correctionsone.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629052609id_/http%3A//www.correctionsone.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the correctionsone.com privacy policy that was archived on 2015-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151216014623id_/http%3A//www.correctionsone.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
