@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the ccl.org privacy policy that was archived on 2015-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150616035748id_/http%3A//www.ccl.org/leadership/utilities/privacy.aspx%3Fcampaign%3DFooter0813) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ccl.org privacy policy that was archived on 2015-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151216120122id_/http%3A//www.ccl.org/leadership/utilities/privacy.aspx%3Fcampaign%3DFooter0813) for the most accurate reproduction.*
 
 # Privacy Policy - Center for Creative Leadership
 
 ## Content
 
-[](https://privacy.truste.com/privacy-seal/Center-for-Creative-Leadership/validation?rid=27ecdf62-c6b3-4e0f-ae1f-4778429678b0 "Validate TRUSTe privacy certification")
+[](https://privacy.truste.com/privacy-seal/validation?rid=81cc6d49-79eb-41b4-84cc-df2707672d59 "TRUSTe Privacy Certification")
 
   * Overview
   * Assessment & Research Data
@@ -18,25 +18,35 @@
 
 * * *
 
+**Effective Date: 09/29/2015**
+
 ## Overview
 
 This Privacy Policy covers and describes how Center for Creative Leadership® ("CCL") collects, uses and discloses information CCL® collects through its Web site [www.ccl.org](https://web.archive.org/leadership/index.aspx), myCCL service, and Internet Assessment System (IAS). The use of information collected through CCL systems shall be limited to the purpose of providing the service for which the Client has engaged CCL. 
 
 The Center for Creative Leadership ("CCL") is committed to respecting and protecting the privacy of our constituents. CCL subscribes to the American Psychological Association's code of ethics regarding the use of an individual's personal data for research; this code is particularly concerned with protecting the rights of the person.
 
+CCL is based in the United States and maintains its servers in the United States. If you are visiting from the regions outside the United States with laws governing data collection and use, please note that by using our site and services your personal information will be transferred to the United States for processing.
+
 CCL has received TRUSTe's Privacy Seal signifying that this privacy statement and our practices have been reviewed for compliance with the TRUSTe program. The details of the TRUSTe program are viewable by clicking the TRUSTe seal on CCL's Web sites or by [clicking here](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html).
 
-The TRUSTe program covers only information that is collected through [www.ccl.org](https://web.archive.org/leadership/index.aspx), myCCL and IAS. It does not cover information that may be collected through our mobile applications. 
+The TRUSTe program covers only information that is collected through [www.ccl.org](https://web.archive.org/leadership/index.aspx), myCCL and IAS. It does not cover information that may be collected through our mobile applications. The use of information collected through our service shall be limited to the purpose of providing the service for which the Client has engaged CCL.
+
+CCL will also comply with government laws and regulations related to data collected by CCL for the purposes of providing the service for which the Client has engaged CCL. This could require local data storage or duplication of data storage across geographic regions.
 
 Questions regarding our privacy policy or practices may be directed to us at [info@ccl.org](mailto:info@ccl.org). Unresolved privacy or data use concerns that CCL has not addressed satisfactorily should be directed to TRUSTe at <https://feedback-form.truste.com/watchdog/request>.
 
 ### Data Sharing
 
-CCL does not rent or sell information to any outside organizations. CCL also limits the information it collects to the minimum necessary to provide outstanding service. All financial information given to CCL is kept secure. CCL has partnerships with third parties where basic contact information and data are shared to deliver contracted services and research with CCL clients.
+CCL does not rent or sell information to any outside organizations. CCL will share your personal information with third parties only in the ways that are described in this privacy policy. CCL also limits the information it collects to the minimum necessary to provide outstanding service such as offering customer service or sending you marketing emails. All financial information given to CCL is kept secure. CCL has partnerships with third parties where basic contact information and data are shared to deliver contracted services and research with CCL clients. These companies are authorized to use your personal information only as necessary to provide these services to us.
+
+### Access
+
+Clients may correct, update, amend, delete/remove personal information, ask to have personal information removed from a public forum, directory or testimonial on our site or deactivate account by making the change on their account or by emailing CCL at [info@ccl.org](mailto:info@ccl.org). We will respond to your request within a reasonable timeframe. 
 
 ### Data Retention
 
-CCL will retain personal data for as long as it is needed to provide services to its Clients. CCL will retain and use this personal information as necessary to comply with legal obligations, resolve disputes, and enforce our agreements.
+CCL will retain personal data inluding data we process on behalf of our Clients for as long as it is needed to provide services to its Clients. CCL will retain and use this personal information as necessary to comply with legal obligations, resolve disputes, and enforce our agreements.
 
 ### General Legal Disclaimer
 
@@ -51,7 +61,7 @@ CCL may also disclose personal information:
 
 ### Changes To This Policy
 
-CCL may update this privacy policy to reflect changes to our information practices. If any material changes are made, users will be notified by email (sent to the e-mail address specified in their account) or by means of a notice on this Site prior to the change becoming effective. Users are encouraged to periodically review this page for the latest information on CCL's privacy practices.
+CCL may update this privacy policy to reflect changes to our information practices. If any material changes are made, users or our Client will be notified by email (sent to the e-mail address specified in their account) or by means of a notice on this Site prior to the change becoming effective. Users are encouraged to periodically review this page for the latest information on CCL's privacy practices.
 
 * * *
 
@@ -76,7 +86,7 @@ Since the organizations and people who participate in our training programs and 
 
 ## Access to Data Controlled by our Clients
 
-In many cases, CCL collects information under the direction of its Clients, and has no direct relationship with the individuals whose personal data it processes. 
+In many cases, CCL collects information under the direction of its Clients, and has no direct relationship with the individuals whose personal data it processes. If you are a customer of one of our Clients and would no longer like to be contacted by one of our Clients that use our service, please contact the client that you interact with directly.
 
 An individual who seeks access, or who seeks to correct, amend, or delete inaccurate data should direct his query to CCL's Client (the data controller). If the Client requests CCL to remove the data, a response will be provided within 30 business days of their request. 
 
@@ -146,7 +156,7 @@ As is true of most Web sites, CCL gathers certain information automatically and 
 
 ### Local Storage Objects (Flash/HTML5)
 
-CCL uses Local Storage Objects (LSOs) such as HTML5 or Flash to store content information and preferences. Various browsers may offer their own management tools for removing HTML5 LSOs. To manage Flash LSOs, please [click here](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html). 
+CCL uses Local Shared Objects (LSOs) such as Flash cookies, and Local Storage such as HTML5, to store content information and preferences. Third parties with whom we partner to provide certain features on our website or to display advertising based upon your web browsing activity also use Flash cookies or HTML5 to collect and store information. Various browsers may offer their own management tools for removing HTML5 LSOs. To manage Flash LSOs, please [click here](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html). 
 
 ### Links
 
