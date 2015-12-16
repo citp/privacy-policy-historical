@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sleeknote.com privacy policy that was archived on 2015-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150618153754id_/http%3A//sleeknote.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sleeknote.com privacy policy that was archived on 2015-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151216185308id_/http%3A//sleeknote.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | Sleeknote
 
@@ -12,8 +12,8 @@ Any and all communication with the visitor is a matter between you and your cust
 
 Considering the setup of the Sleeknote service, You guarantee towards Sleeknote that:
 
-\- You have obtained any necessary consent in order to transfer the information about Your customer from You to Sleeknote, and  
-\- You have obtained consent from each of Your customers to the data applications, processes and/or registrations made by Sleeknote. 
+– You have obtained any necessary consent in order to transfer the information about Your customer from You to Sleeknote, and  
+– You have obtained consent from each of Your customers to the data applications, processes and/or registrations made by Sleeknote. 
 
 Sleeknote is only processing data about your customers by your orders. You are the controller of the information while Sleeknote is the processor. 
 
