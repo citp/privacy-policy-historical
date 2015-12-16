@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the extratime.ie privacy policy that was archived on 2015-06-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150629153122id_/http%3A//www.extratime.ie/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the extratime.ie privacy policy that was archived on 2015-12-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151216014628id_/http%3A//extratime.ie/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml"><head><script src="https://js-agent.newrelic.com/nr-632.min.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_GB/all.js#xfbml=1&amp;appId=139780672702091"></script><script id="twitter-wjs" src="//platform.twitter.com/widgets.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UgAEUV5SGwAJVlVTBwQ="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),u=c.length,f=i(a,o,r),d=0;u>d;d++)c[d].apply(f,n);return f}function a(t,e){u[t]=s(t).concat(e)}function s(t){return u[t]||[]}function c(){return n(e)}var u={};return{on:a,emit:e,create:c,listeners:s,_events:u}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:20,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(u){try{r("ierr",[u,(new Date).getTime(),!0])}catch(f){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(3),window.onerror=e;try{throw new Error}catch(u){"stack"in u&&(t(4),t(5),"addEventListener"in window&&t(1),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&t(2),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:8,3:3,4:7,5:6,6:21,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:21,2:22,ee:"QJf3ax",gos:"7eSDFh"}],6:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:22,2:21,ee:"QJf3ax"}],7:[function(t,e){function n(t,e,n){t[0]=o(t[0],"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:22,2:21,ee:"QJf3ax"}],8:[function(t,e){function n(){u.inPlace(this,p,"fn-")}function r(t,e){u.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),u=c(a),f=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),f.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(i){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,u.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:5,2:22,ee:"QJf3ax"}],9:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var a=t.responseType,u="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=n(u);if(f&&(r.rxSize=f),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(e.cat=d.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,o("xhr",[e,r,this.startTime])}}}function n(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,u=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=e,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,e){var r=this.metrics,o=t[0],i=this;if(r&&o){var u=n(o);u&&(r.txSize=u)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{a.emit("internal-error",[n])}catch(r){}}};for(var f=0;c>f;f++)e.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:10,3:8,4:5,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],10:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],11:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:20,2:21,handle:"D5DuLP"}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info,e=u.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){s(d,function(e,n){e in t||(t[e]=n)});var n="https"===f.split(":")[0]||t.sslForHttp;p.proto=n?"https://":"http://",a("mark",["onload",i()]);var r=u.createElement("script");r.src=p.proto+t.agent,e.parentNode.insertBefore(r,e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=(t(2),window),u=c.document,f=(""+location).split("?")[0],d={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-632.min.js"},p=e.exports={offset:i(),origin:f,features:{}};u.addEventListener?(u.addEventListener("DOMContentLoaded",o,!1),c.addEventListener("load",n,!1)):(u.attachEvent("onreadystatechange",r),c.attachEvent("onload",n)),a("mark",["firstbyte",i()])},{1:20,2:11,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],20:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],21:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],22:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,u;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){f([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return u=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,u],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,u(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,u="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,u?s+o:o,i,s))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){f([o,e,n,r])}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){f([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function f(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:21,ee:"QJf3ax"}]},{},["G9z0Bl",4,9]);</script>
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml"><head><script src="https://js-agent.newrelic.com/nr-768.min.js"></script><script id="twitter-wjs" src="//platform.twitter.com/widgets.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UgAEUV5SGwAJVlVTBwQ="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),f=c.length,u=i(a,o,r),d=0;f>d;d++)c[d].apply(u,n);return u}function a(t,e){f[t]=s(t).concat(e)}function s(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:s,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:20,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(f){try{r("ierr",[f,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(3),window.onerror=e;try{throw new Error}catch(f){"stack"in f&&(t(4),t(5),"addEventListener"in window&&t(1),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&t(2),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:8,3:3,4:7,5:6,6:21,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=t("ee").create(),i=t(1)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t,e){function n(){return s}if(t[1]){var r=t[1];if("function"==typeof r){var s=a(r,"nr@wrapped",function(){return i(r,"fn-",n,r.name||"anonymous")});this.wrapped=t[1]=s,o.emit("initEventContext",[t,e],this.wrapped)}else"function"==typeof r.handleEvent&&i.inPlace(r,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:22,ee:"QJf3ax",gos:"7eSDFh"}],6:[function(t,e){var n=t("ee").create(),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:22,ee:"QJf3ax"}],7:[function(t,e){function n(t,e,n){t[0]=i(t[0],"fn-",null,n)}function r(t,e,n){function r(){return a}this.ctx={};var a={"nr@context":this.ctx};o.emit("initTimerContext",[t,n],a),t[0]=i(t[0],"fn-",r,n)}var o=t("ee").create(),i=t(1)(o);e.exports=o,i.inPlace(window,["setTimeout","setImmediate"],"setTimer-"),i.inPlace(window,["setInterval"],"setInterval-"),i.inPlace(window,["clearTimeout","clearImmediate"],"clearTimeout-"),o.on("setInterval-start",n),o.on("setTimer-start",r)},{1:22,ee:"QJf3ax"}],8:[function(t,e){function n(){f.inPlace(this,p,"fn-",o)}function r(t,e){f.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),f=c(a),u=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),e.hasOwnProperty("addEventListener")&&u.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(i){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,f.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:5,2:22,ee:"QJf3ax"}],9:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var a=t.responseType,f="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,u=n(f);if(u&&(r.rxSize=u),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(e.cat=d.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,o("xhr",[e,r,this.startTime])}}}function n(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,f=t(1),u=window.XMLHttpRequest;t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=e,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,e){var r=this.metrics,o=t[0],i=this;if(r&&o){var f=n(o);f&&(r.txSize=f)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{a.emit("internal-error",[n])}catch(r){}}};for(var u=0;c>u;u++)e.addEventListener(s[u],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof u&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof u&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof u&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:10,3:8,4:5,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],10:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],11:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:20,2:21,handle:"D5DuLP"}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):void(r.q&&(r.q[t]||(r.q[t]=[]),r.q[t].push(e)))}var r=t("ee").create();e.exports=n,n.ee=r,r.q={}},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info,e=f.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){s(d,function(e,n){e in t||(t[e]=n)});var n="https"===u.split(":")[0]||t.sslForHttp;p.proto=n?"https://":"http://",a("mark",["onload",i()]);var r=f.createElement("script");r.src=p.proto+t.agent,e.parentNode.insertBefore(r,e)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=window,f=c.document;t(2);var u=(""+location).split("?")[0],d={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-768.min.js"},p=e.exports={offset:i(),origin:u,features:{}};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),c.addEventListener("load",n,!1)):(f.attachEvent("onreadystatechange",r),c.attachEvent("onload",n)),a("mark",["firstbyte",i()])},{1:20,2:11,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],20:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],21:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],22:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@original",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,f;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){u([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return f=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,f],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=t,f(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){u([o,e,n,r])}}function f(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){u([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function u(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:21,ee:"QJf3ax"}]},{},["G9z0Bl",4,9]);</script>
     <!-- HTTP 1.1 -->
     <meta http-equiv="Cache-Control" content="no-store">
     <!-- HTTP 1.0 -->
@@ -67,10 +67,21 @@
 					</form>
 				</div>
 			
-				<div class="social">
-     			    <a target="_blank" href="http://www.youtube.com/user/ExtratimeVideo" alt="Join our Youtube"><img src="/media/images/youtube.gif" style="border:0" alt="Youtube Extratime.ie"></a>			
-					<a target="_blank" href="http://www.facebook.com/pages/Extratimeie/97289166532?ref=ts"><img src="/media/images/facebook.gif" style="border:0" alt="Facebook Extratime.ie"></a>			
-					<a target="_blank" href="http://twitter.com/extratimenews"><img src="/media/images/twitter.gif" style="border:0" alt="Twitter Extratime.ie"></a>
+<div class="social">
+<a target="_blank" href="http://twitter.com/extratimenews"><img src="/media/extratime/imageupload/twittergray.png" style="border:0" alt="Twitter Extratime.ie"></a>
+<a target="_blank" href="http://www.facebook.com/pages/Extratimeie/97289166532?ref=ts"><img src="/media/extratime/imageupload/facebookgray.png" style="border:0" alt="Facebook Extratime.ie"></a>
+<a target="_blank" href="https://instagram.com/extratimenews" alt="Follow our Instagram"><img src="/media/extratime/imageupload/instraramgray.png" style="border:0" alt="Instagram Extratime.ie"></a>
+<a target="_blank" href="http://www.youtube.com/user/ExtratimeVideo" alt="Join our Youtube"><img src="/media/extratime/imageupload/youtubegray.png" style="border:0" alt="Youtube Extratime.ie"></a>
+<a href="https://plus.google.com/116125405599042918139" rel="publisher"><img src="/media/extratime/imageupload/googlegray.png" style="border:0;" alt="Google Plus"></a>
+<a target="_blank" href="https://www.linkedin.com/company/2406986?trk=prof-exp-company-name" alt="Follow our Linkedin"><img src="/media/extratime/imageupload/linkedingray.png" style="border:0" alt="LinkedIn Extratime.ie"></a>
+</div>
+
+
+
+<!--				<div class="social">
+     			    <a target="_blank" href="http://www.youtube.com/user/ExtratimeVideo" alt="Join our Youtube"><img src="/media/images/youtube.gif" style="border:0" alt="Youtube Extratime.ie" /></a>			
+					<a target="_blank" href="http://www.facebook.com/pages/Extratimeie/97289166532?ref=ts"><img src="/media/images/facebook.gif" style="border:0" alt="Facebook Extratime.ie" /></a>			
+					<a target="_blank" href="http://twitter.com/extratimenews"><img src="/media/images/twitter.gif" style="border:0" alt="Twitter Extratime.ie" /></a>
 					<a href="https://twitter.com/ExtratimeNews" class="twitter-follow-button" data-show-count="false">Follow @ExtratimeNews</a>
 					<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>				
 <div id="fb-root"></div>
@@ -83,19 +94,35 @@
 }(document, 'script', 'facebook-jssdk'));</script>
 
 <div class="fb-like" data-href="https://www.facebook.com/pages/Extratimeie/97289166532?ref=ts" data-send="false" data-layout="button_count" data-width="450" data-show-faces="false"></div>									
-			    </div>
+			    </div>-->
+
+
+					<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>				
 			
 				<div class="search-form">
 					<fieldset>
-						<form action="http://www.google.ie/cse" id="cse-search-box">
+<form action="http://www.google.ie" id="cse-search-box">
+  <div>
+    <input type="hidden" name="cx" value="partner-pub-6746456258116134:7058255008">
+    <input type="hidden" name="ie" value="UTF-8">
+    <input type="text" name="q" size="55">
+    <input type="submit" name="sa" value="Search">
+  </div>
+</form>
+
+<script type="text/javascript" src="http://www.google.ie/coop/cse/brand?form=cse-search-box&amp;lang=en"></script>
+
+
+<!--						<form action="http://www.google.ie/cse" id="cse-search-box">
 						  <div>
-						    <input type="hidden" name="cx" value="partner-pub-9266736810960142:ut4el9q1sv8">
-						    <input type="hidden" name="ie" value="ISO-8859-1">
-						    <input type="text" name="q" size="25">
-						    <input type="submit" name="sa" value="Search">
+						    <input type="hidden" name="cx" value="partner-pub-9266736810960142:ut4el9q1sv8" />
+						    <input type="hidden" name="ie" value="ISO-8859-1" />
+						    <input type="text" name="q" size="25" />
+						    <input type="submit" name="sa" value="Search" />
 						  </div>
 						</form>
 						<script type="text/javascript" src="http://www.google.ie/cse/brand?form=cse-search-box&amp;lang=en"></script>
+-->
 											
 					</fieldset>
 				</div>
@@ -138,11 +165,37 @@
 
         <div class="dropdown_liveupdates"><!-- Begin 2 columns container -->
         
+			    
+						
+            <div class="col_liveupdates">
+                <p>Get live updates on what is happening in todays games.</p>                          
+
+				<p>
+					</p><table cellpadding="5px" cellspacing="15px">
+						<tbody><tr>
+							<td><b>Time</b></td>
+							<td><b>Comp</b></td>
+							<td><b>Home Team</b></td>
+							<td><b>Away Team</b></td>
+							<td></td>
+						</tr>
+
+					
+						<tr>
+						
+							<td>2 p.m. </td>
 			
-            <div class="col_liveupdates">                                          
-                <p>There are no games today that we are coverings.</p>
+							<td>WNL</td>			        					
+							<td>Cork City Women's FC </td>
+							<td>Shelbourne Ladies FC</td>
+							<td><a href="/fixtures/detail/28221/1/">Live Updates</a></td>
+						</tr>
+					
+					
+					</tbody></table>
+				<p></p>
+				
             </div>
-            
             
             
           
@@ -153,134 +206,139 @@
 
     <li><a href="http://extratime.ie/newsdesk/?f=articles" class="nodrop">NEWS</a></li>
 
+i<li><a href="http://extratime.ie/newsdesk/?f=articles" class="nodrop">TEAMS</a>
+<div class="dropdown_3columns_logo">
+<div class="col_2_logo"> 
+<img src="http://extratime.ie/media/extratime/images/badges/athlonetown.png" style="width:120px;"><br><strong>Athlone Town</strong><br>
+<a href="http://extratime.ie/squads/10/athlone-town/">Squad</a> | <a href="http://extratime.ie/fixtures/teams/team/10/">Fixtures</a><br><br>
 
-<li><a href="/" class="drop">LEAGUES</a>
-                <div class="dropdown_4columns">
+<img src="http://extratime.ie/media/extratime/images/badges/cobhramblers.gif" style="width:120px;"><br><strong>Cobh Ramblers</strong><br>
+<a href="http://extratime.ie/squads/12/cobh-ramblers/">Squad</a> | <a href="http://extratime.ie/fixtures/teams/team/12/">Fixtures</a><br><br>
+<img src="http://extratime.ie/media/extratime/images/badges/dundalk.png" style="width:120px;"><br><strong>Dundalk</strong><br>
+<a href="http://extratime.ie/squads/17/dundalk/">Squad</a> | <a href="http://extratime.ie/fixtures/teams/team/17/">Fixtures</a><br><br>
+<img src="http://extratime.ie/media/extratime/images/badges/longfordtown.png" style="width:120px;"><br><strong>Longford Town</strong><br>
+<a href="http://extratime.ie/squads/15/longford-town/">Squad</a> | <a href="http://extratime.ie/fixtures/teams/team/15/">Fixtures</a><br><br>
+<img src="http://extratime.ie/media/extratime/images/badges/stpats.png" style="width:120px;"><br><strong>St. Patrick's Athletic</strong><br>
+<a href="http://extratime.ie/squads/29/st-pats/">Squad</a> | <a href="http://extratime.ie/fixtures/teams/team/29/">Fixtures</a><br>
 
-                <div class="col_1">
-                                        <h2>Premier Division</h2>
-                                        <p><a style="display: inline;" href="http://extratime.ie/fixtures/future/100/">Fixtures</a> | <a style="display: inline;" href="http://www.extratime.ie/fixtures/played/100/">Results</a> | <a style="display: inline;" href="http://www.extratime.ie/leagues/2022/100/premier-division/">Table</a></p>
-                                        <p><a href="http://extratime.ie/squads/2/bohemians/"><img style="vertical-align:middle;" src="http://www.extratime.ie/media/extratime/imageupload/bohemians.png">&nbsp; Bohemians</a></p>
-                                        <p><a href="http://extratime.ie/squads/6/bray-wanderers/"><img style="vertical-align:middle;" src="http://www.extratime.ie/media/extratime/imageupload/braywanderers.png">&nbsp; Bray Wanderers</a></p>
-                                        <p><a href="http://extratime.ie/squads/30/cork-city/"><img style="vertical-align:middle;" src="http://www.extratime.ie/media/extratime/imageupload/corkcity.png">&nbsp; Cork City</a></p>
-                                        <p><a href="http://extratime.ie/squads/7/derry-city/"><img style="vertical-align:middle;" src="http://www.extratime.ie/media/extratime/imageupload/derrycity.png">&nbsp; Derry City</a></p>
-                                        <p><a href="http://extratime.ie/squads/16/drogheda-united/"><img style="vertical-align:middle;" src="http://www.extratime.ie/media/extratime/imageupload/droghedaunited.png">&nbsp; Drogheda United</a></p>
-                                        <p><a href="http://extratime.ie/squads/17/dundalk/"><img style="vertical-align:middle;" src="http://www.extratime.ie/media/extratime/imageupload/dundalk.png">&nbsp; Dundalk</a></p>
-                                        <p><a href="http://extratime.ie/squads/100504/galway/"><img style="vertical-align:middle;" src="http://www.extratime.com/media/extratime/imageupload/galway.png">&nbsp; Galway United</a></p>
-                        		<p><a href="http://extratime.ie/squads/21/limerick/"><img style="vertical-align:middle;" src="http://www.extratime.ie/media/extratime/imageupload/limerick.png">&nbsp; Limerick</a></p>
-                                        <p><a href="http://extratime.ie/squads/15/longford-town/"><img style="vertical-align:middle;" src="http://www.extratime.com/media/extratime/imageupload/longford.png">&nbsp; Longford Town</a></p>
-                                        <p><a href="http://extratime.ie/squads/3/shamrock-rovers/"><img style="vertical-align:middle;" src="http://www.extratime.ie/media/extratime/imageupload/shamrockrovers.png">&nbsp; Shamrock Rovers</a></p>
-                                        <p><a href="http://extratime.ie/squads/8/sligo-rovers/"><img style="vertical-align:middle;" src="http://www.extratime.ie/media/extratime/imageupload/sligorovers.png">&nbsp; Sligo Rovers</a></p>
-                                        <p><a href="http://extratime.ie/squads/29/st-pats/"><img style="vertical-align:middle;" src="http://www.extratime.ie/media/extratime/imageupload/stpats.png">&nbsp; St Pat's Athletic</a></p>
-                </div>
-                <div class="col_1">
-                                        <h2>First Division</h2>
-                                        <p><a style="display: inline;" href="http://www.extratime.ie/fixtures/future/101/">Fixtures</a> | <a style="display: inline;" href="http://www.extratime.ie/fixtures/played/101/">Results</a> | <a style="display: inline;" href="http://www.extratime.ie/leagues/2022/101/first-division/">Table</a></p>
-                                        <p><a href="http://extratime.ie/squads/10/athlone-town/"><img style="vertical-align:middle;" src="http://www.extratime.ie/media/extratime/imageupload/athlonetown.png">&nbsp; Athlone Town</a></p>
-                                        <p><a href="http://extratime.ie/squads/100602/cabinteely-fc/"><img style="vertical-align:middle;" src="http://www.extratime.ie/media/extratime/imageupload/cabinteely.png">&nbsp; Cabinteely FC</a></p>
-					<p><a href="http://extratime.ie/squads/12/cobh-ramblers/"><img style="vertical-align:middle;" src="http://www.extratime.com/media/extratime/imageupload/cobh.png">&nbsp; Cobh Ramblers</a></p>
-                                        <p><a href="http://extratime.ie/squads/13/finn-harps/"><img style="vertical-align:middle;" src="http://www.extratime.com/media/extratime/imageupload/finnharps.png">&nbsp; Finn Harps</a></p>
-                                        <p><a href="http://extratime.ie/squads/1/shelbourne/"><img style="vertical-align:middle;" src="http://www.extratime.com/media/extratime/imageupload/shelbourne.png">&nbsp; Shelbourne</a></p>
-                                        <p><a href="http://extratime.ie/squads/4/ucd/"><img style="vertical-align:middle;" src="http://www.extratime.ie/media/extratime/imageupload/ucd.png">&nbsp; UCD</a></p>
-                                        <p><a href="http://extratime.ie/squads/14/waterford-united/"><img style="vertical-align:middle;" src="http://www.extratime.com/media/extratime/imageupload/waterford.png">&nbsp; Waterford United</a></p>
-                                        <p><a href="http://extratime.ie/squads/109/wexford-youths/"><img style="vertical-align:middle;" src="http://www.extratime.com/media/extratime/imageupload/wexford.png">&nbsp; Wexford Youths</a></p>
-                </div>
 
-                <div class="col_1">
-                                        <h2>U19 Northern Elite</h2>
-                                        <p><a style="display: inline;" href="http://www.extratime.ie/fixtures/future/224/">Fixtures</a> | <a style="display: inline;" href="http://www.extratime.ie/fixtures/played/224/">Results</a> | <a style="display: inline;" href="http://www.extratime.ie/leagues/2021/224/u19-northern-elite-division/">Table</a></p>
-                                        <p><a href="http://extratime.ie/squads/100185/bohemians/"><img style="vertical-align:middle;" src="http://www.extratime.ie/media/extratime/imageupload/bohemians.png">&nbsp; Bohemians</a></p>
-                                        <p><a href="http://extratime.ie/squads/100173/derry-city/"><img style="vertical-align:middle;" src="http://www.extratime.ie/media/extratime/imageupload/derrycity.png">&nbsp; Derry City</a></p>
-                                        <p><a href="http://extratime.ie/squads/100192/drogheda-united/"><img style="vertical-align:middle;" src="http://www.extratime.ie/media/extratime/imageupload/droghedaunited.png">&nbsp; Drogheda United</a></p>
-                                        <p><a href="http://extratime.ie/squads/100172/dundalk/"><img style="vertical-align:middle;" src="http://www.extratime.ie/media/extratime/imageupload/dundalk.png">&nbsp; Dundalk</a></p>
-                                        <p><a href="http://extratime.ie/squads/100176/finn-harps/"><img style="vertical-align:middle;" src="http://www.extratime.ie/media/extratime/imageupload/finnharps.png">&nbsp; Finn Harps</a></p>
-                                        <p><a href="http://extratime.ie/squads/100422/letterkenny-rovers/"><img style="vertical-align:middle;" src="http://www.extratime.ie/media/extratime/imageupload/letterkennyrovers.png">&nbsp; Letterkenny Rovers</a></p>
-                                        <p><a href="http://extratime.ie/squads/100175/longford-town/"><img style="vertical-align:middle;" src="http://www.extratime.ie/media/extratime/imageupload/longford.png">&nbsp; Longford Town</a></p>
-                                        <p><a href="http://extratime.ie/squads/100190/shelbourne/"><img style="vertical-align:middle;" src="http://www.extratime.ie/media/extratime/imageupload/shelbourne.png">&nbsp; Shelbourne</a></p>
-                                        <p><a href="http://extratime.ie/squads/100177/sligo-rovers/"><img style="vertical-align:middle;" src="http://www.extratime.ie/media/extratime/imageupload/sligorovers.png">&nbsp; Sligo Rovers</a></p>
-                                        <p><a href="http://extratime.ie/squads/100189/st-pats/"><img style="vertical-align:middle;" src="http://www.extratime.ie/media/extratime/imageupload/stpats.png">&nbsp; St Pat's</a></p>
-                                        </div>
-                                        <div class="col_1_last">
-                                        <h2>U19 Southern Elite</h2>
-                                        <p><a style="display: inline;" href="http://www.extratime.ie/fixtures/future/225/">Fixtures</a> | <a style="display: inline;" href="http://www.extratime.ie/fixtures/played/225/">Results</a> | <a style="display: inline;" href="http://www.extratime.ie/leagues/2021/225/u19-southern-elite-division/">Table</a></p>
-                                        <p><a href="http://extratime.ie/squads/100182/athlone-town/"><img style="vertical-align:middle;" src="http://www.extratime.ie/media/extratime/imageupload/athlonetown.png">&nbsp; Athlone Town</a></p>
-                                        <p><a href="http://extratime.ie/squads/100188/bray-wanderers/"><img style="vertical-align:middle;" src="http://www.extratime.ie/media/extratime/imageupload/braywanderers.png">&nbsp; Bray Wanderers</a></p>
-                                        <p><a href="http://extratime.ie/squads/100179/cobh-ramblers/"><img style="vertical-align:middle;" src="http://www.extratime.ie/media/extratime/imageupload/cobh.png">&nbsp; Cobh Ramblers</a></p>
-                                        <p><a href="http://extratime.ie/squads/100187/cork-city/"><img style="vertical-align:middle;" src="http://www.extratime.ie/media/extratime/imageupload/corkcity.png">&nbsp; Cork City</a></p>
-                                        <p><a href="http://extratime.ie/squads/100184/limerick/"><img style="vertical-align:middle;" src="http://www.extratime.ie/media/extratime/imageupload/limerick.png">&nbsp; Limerick</a></p>
-                                        <p><a href="http://extratime.ie/squads/100194/mervue-united/"><img style="vertical-align:middle;" src="http://www.extratime.ie/media/extratime/imageupload/mervueunited.png">&nbsp; Mervue United</a></p>
-                                        <p><a href="http://extratime.ie/squads/100191/salthill-devon/"><img style="vertical-align:middle;" src="http://www.extratime.ie/media/extratime/imageupload/salthilldevon.png">&nbsp; Salthill Devon</a></p>
-                                        <p><a href="http://extratime.ie/squads/100193/shamrock-rovers/"><img style="vertical-align:middle;" src="http://www.extratime.ie/media/extratime/imageupload/shamrockrovers.png">&nbsp; Shamrock Rovers</a></p>
-                                        <p><a href="http://extratime.ie/squads/100186/ucd/"><img style="vertical-align:middle;" src="http://www.extratime.ie/media/extratime/imageupload/ucd.png">&nbsp; UCD</a></p>
-                                        <p><a href="http://extratime.ie/squads/100196/waterford-united/"><img style="vertical-align:middle;" src="http://www.extratime.ie/media/extratime/imageupload/waterford.png">&nbsp; Waterford United</a></p>
-                                        <p><a href="http://extratime.ie/squads/100195/wexford-youths/"><img style="vertical-align:middle;" src="http://www.extratime.ie/media/extratime/imageupload/wexford.png">&nbsp; Wexford Youths</a></p>
+</div>
+<div class="col_2_logo"> 
+<img src="http://extratime.ie/media/extratime/images/badges/bohs.png" style="width:120px;"><br><strong>Bohemians</strong><br>
+<a href="http://extratime.ie/squads/2/bohemians/">Squad</a> | <a href="http://extratime.ie/fixtures/teams/team/2/">Fixtures</a><br><br>
 
-                </div>
+<img src="http://extratime.ie/media/extratime/images/badges/corkcity.png" style="width:120px;"><br><strong>Cork City</strong><br>
+<a href="http://extratime.ie/squads/30/cork-city/">Squad</a> | <a href="http://extratime.ie/fixtures/teams/team/30/">Fixtures</a><br><br>
+<img src="http://extratime.ie/media/extratime/images/badges/finnharps.png" style="width:120px;"><br><strong>Finn Harps</strong><br>
+<a href="http://extratime.ie/squads/13/finn-harps/">Squad</a> | <a href="http://extratime.ie/fixtures/teams/team/13/">Fixtures</a><br><br>
+<img src="http://extratime.ie/media/extratime/images/badges/shamrockrovers.png" style="width:120px;"><br><strong>Shamrock Rovers</strong><br>
+<a href="http://extratime.ie/squads/3/shamrock-rovers/">Squad</a> | <a href="http://extratime.ie/fixtures/teams/team/3/">Fixtures</a><br><br>
+<img src="http://extratime.ie/media/extratime/images/badges/ucd.png" style="width:120px;"><br><strong>U.C.D</strong><br>
+<a href="http://extratime.ie/squads/4/ucd/">Squad</a> | <a href="http://extratime.ie/fixtures/teams/team/4/">Fixtures</a><br>
 
-                </div>
+</div>
+<div class="col_2_logo"> 
+<img src="http://extratime.ie/media/extratime/images/badges/braywanderers.png" style="width:120px;"><br><strong>Bray Wanderers</strong><br>
+<a href="http://extratime.ie/squads/6/bray-wanderers/">Squad</a> | <a href="http://extratime.ie/fixtures/teams/team/6/">Fixtures</a><br><br>
 
-    </li><!-- End 5 columns Item --><li><a href="/" class="drop">CUPS</a>
-		<div class="dropdown_3columns">
+<img src="http://extratime.ie/media/extratime/images/badges/derrycity.png" style="width:120px;"><br><strong>Derry City</strong><br>
+<a href="http://extratime.ie/squads/7/derry-city/">Squad</a> | <a href="http://extratime.ie/fixtures/teams/team/7/">Fixtures</a><br><br>
+<img src="http://extratime.ie/media/extratime/images/badges/galwayunitedfc_1.png" style="width:120px;"><br><strong>Galway United</strong><br>
+<a href="http://extratime.ie/squads/100504/galway/">Squad</a> | <a href="http://extratime.ie/fixtures/teams/team/100504/">Fixtures</a><br><br>
+<img src="http://extratime.ie/media/extratime/images/badges/shelbourne.png" style="width:120px;"><br><strong>Shelbourne</strong><br>
+<a href="http://extratime.ie/squads/1/shelbourne/">Squad</a> | <a href="http://extratime.ie/fixtures/teams/team/1/">Fixtures</a><br><br>
+<img src="http://extratime.ie/media/extratime/images/badges/waterfordunited.png" style="width:120px;"><br><strong>Waterford United</strong><br>
+<a href="http://extratime.ie/squads/14/waterford-united/">Squad</a> | <a href="http://extratime.ie/fixtures/teams/team/14/">Fixtures</a><br>
+</div>
+<div class="col_2_logo"> 
+<img src="http://extratime.ie/media/extratime/images/badges/cabinteely.png" style="width:120px;"><br><strong>Cabinteely</strong><br>
+<a href="http://extratime.ie/squads/100602/cabinteely-fc/">Squad</a> | <a href="http://extratime.ie/fixtures/teams/team/100602/">Fixtures</a><br><br>
+
+<img src="http://extratime.ie/media/extratime/images/badges/droghedaunited.png" style="width:120px;"><br><strong>Drogheda United</strong><br>
+<a href="http://extratime.ie/squads/16/drogheda-united/">Squad</a> | <a href="http://extratime.ie/fixtures/teams/team/16/">Fixtures</a><br><br>
+<img src="http://extratime.ie/media/extratime/images/badges/limerick.png" style="width:120px;"><br><strong>Limerick</strong><br>
+<a href="http://extratime.ie/squads/21/limerick/">Squad</a> | <a href="http://extratime.ie/fixtures/teams/team/21/">Fixtures</a><br><br>
+<img src="http://extratime.ie/media/extratime/images/badges/sligo2.png" style="width:120px;"><br><strong>Sligo Rovers</strong><br>
+<a href="http://extratime.ie/squads/8/sligo-rovers/">Squad</a> | <a href="http://extratime.ie/fixtures/teams/team/8/">Fixtures</a><br><br>
+<img src="http://extratime.ie/media/extratime/images/badges/wexfordyouths.png" style="width:120px;"><br><strong>Wexford Youths</strong><br>
+<a href="http://extratime.ie/squads/109/wexford-youths/">Squad</a> | <a href="http://extratime.ie/fixtures/teams/team/109/">Fixtures</a><br>
+</div>
+
+</div>
+</li>
+
+
+<li><a href="/" class="drop">COMPETITIONS</a>
+<div class="dropdown_3columns_logo_wide">
         
-                <div class="col_2">   
-				<a href="http://extratime.ie/fixtures/future/132/"><img src="http://www.extratime.ie/media/extratime/imageupload/faicup.jpg"></a>
-                </div>    
-                <div class="col_2">         
-				<a href="http://extratime.ie/fixtures/future/102/2017/"><img src="http://www.extratime.ie/media/extratime/imageupload/easportscup.jpg"></a>
-				</div>      
-				<div class="col_2_last">  
-				<a href="http://extratime.ie/fixtures/played/110/2017/"><img src="http://www.extratime.ie/media/extratime/imageupload/setantacup.jpg"></a>
-				</div>   
-				
-		</div>
+                <div class="col_2_logo_wide">  
+<div style="text-align: center;">
+<span style="font-weight: bold;color: #c01717;">Premier Division</span><a href="http://www.extratime.ie/fixtures/future/100/"><img src="http://extratime.ie/media/extratime/imageupload/menu-premier_1.png" style="width:120px;"></a><br>
+<a href="http://www.extratime.ie/leagues/2022/100/premier-division/">Table</a> | <a href="http://www.extratime.ie/topscorers/2022/100/premier-division/">Scorers</a><br><br><br>
+
+<span style="font-weight: bold;color: #c01717;">First Division</span><a href="http://www.extratime.ie/fixtures/future/101/"><img src="http://extratime.ie/media/extratime/imageupload/menu-first_1.png" style="width:120px;"></a><br>
+<a href="http://www.extratime.ie/leagues/2022/101/league-of-ireland-first-division-2015/">Table</a> | <a href="http://www.extratime.ie/topscorers/2022/101/first-division/">Scorers</a><br><br><br>
+
+<span style="font-weight: bold;color: #c01717;">Women's National League</span><a href="http://www.wnl.ie/"><img src="http://extratime.ie/media/extratime/imageupload/menu-wnl_1.png" style="width:120px;"></a><br>
+<a href="http://www.extratime.ie/leagues/2023/162/womens-national-league-2015-2016/">Table</a> | <a href="http://www.extratime.ie/topscorers/2023/162/wnl/">Scorers</a><br><br><br>
+
+</div></div>
+
+                <div class="col_2_logo_wide">  
+<div style="text-align: center;">
+<span style="font-weight: bold;color: #c01717;">FAI Cup</span><a href="http://www.extratime.ie/fixtures/future/132/"><img src="http://extratime.ie/media/extratime/imageupload/menu-faicup_1.png" style="width:120px;"></a><br>
+<a href="http://www.extratime.ie/fixtures/future/132/">Fixtures</a> | <a href="http://www.extratime.ie/topscorers/2022/132/fai-cup/">Scorers</a><br><br><br>
+
+<span style="font-weight: bold;color: #c01717;">EA Sports Cup</span><a href="http://www.extratime.ie/fixtures/future/102/"><img src="http://extratime.ie/media/extratime/imageupload/menu-easports_1.png" style="width:120px;"></a><br>
+<a href="http://www.extratime.ie/fixtures/future/102/">Fixtures</a> | <a href="http://www.extratime.ie/topscorers/2022/102/ea-sports-cup/">Scorers</a><br><br><br>
+
+<span style="font-weight: bold;color: #c01717;">Setanta Sports Cup</span><a href="http://www.extratime.ie/fixtures/future/110/"><img src="http://extratime.ie/media/extratime/imageupload/menu-setanta_1.png" style="width:120px;"></a><br>
+<a href="http://www.extratime.ie/fixtures/future/110/">Fixtures</a> | <a href="http://www.extratime.ie/topscorers/2022/110/setanta-sports-cup/">Scorers</a><br><br><br>
+
+
+</div></div>
+<div class="col_2_logo_wide">  
+<div style="text-align: center;">
+
+<span style="font-weight: bold;color: #c01717;">Euro 2016 Qualifiers</span><a href="http://www.extratime.ie/fixtures/future/231/"><img src="http://extratime.ie/media/extratime/imageupload/menu-euro2016_2.png" style="width:120px;"></a><br>
+<a href="http://www.extratime.ie/leagues/2021/231/2016-european-qualifiers-d-2014-2015/">Table</a> | <a href="http://www.extratime.ie/topscorers/2021/231/euro-group-d/">Scorers</a><br><br><br>
+
+<span style="font-weight: bold;color: #c01717;">Euro 2017 Qualifiers</span><a href="http://www.extratime.ie/fixtures/future/256/"><img src="http://extratime.ie/media/extratime/imageupload/menu-euro2017.png" style="width:120px;"></a><br>
+<a href="#">Table</a> | <a href="#">Scorers</a><br><br><br>
+
+<span style="font-weight: bold;color: #c01717;">World Cup 2018 Qualifiers</span><a href="#"><img src="http://extratime.ie/media/extratime/imageupload/menu-wc2018_2.png" style="width:120px;"></a><br>
+<a href="#">Table</a> | <a href="#">Scorers</a><br><br><br>
+
+</div>
+</div> 
+
+                <div class="col_2_logo">  
+<div style="text-align: center;">
+<img src="http://extratime.ie/media/extratime/imageupload/menu-u17_1.png" style="width:120px;"><br>
+<a href="http://www.extratime.ie/fixtures/future/249/">U17 League - Section 1</a><br>
+<a href="http://www.extratime.ie/leagues/2022/249/u17-national-league-section-1-2015/">Table</a> | <a href="#">Scorers</a><br><br>
+<a href="http://www.extratime.ie/fixtures/future/250/">U17 League - Section 2</a><br>
+<a href="http://www.extratime.ie/leagues/2022/250/u17-national-league-section-2-2015/">Table</a> | <a href="#">Scorers</a><br><br>
+<a href="http://www.extratime.ie/fixtures/future/251/">U17 League - Section 3</a><br>
+<a href="http://www.extratime.ie/leagues/2022/251/u17-national-league-section-3-2015/">Table</a> | <a href="#">Scorers</a><br><br>
+
+<img src="http://extratime.ie/media/extratime/imageupload/menu-u19_1.png" style="width:120px;"><br>
+<a href="http://www.extratime.ie/fixtures/future/247/">U19 League - Section 1</a><br>
+<a href="http://www.extratime.ie/leagues/2022/247/u19-national-league-section-1-2015/">Table</a> | <a href="#">Scorers</a><br><br>
+<a href="http://www.extratime.ie/fixtures/future/248/">U19 League - Section 2</a><br>
+<a href="http://www.extratime.ie/leagues/2022/248/u19-national-league-section-2-2015/">Table</a> | <a href="#">Scorers</a><br><br>
+<a href="http://www.extratime.ie/fixtures/future/252/">U19 League - Section 3</a><br>
+<a href="http://www.extratime.ie/leagues/2022/252/u19-national-league-section-3-2015/">Table</a> | <a href="#">Scorers</a><br><br>
+
+</div></div>
+
+</div>
     
     </li><!-- End 5 columns Item -->
 
-        <li><a href="/fixtures/" class="drop">FIXTURES</a>
-
-                <div class="dropdown_3columns">
-
-                <div class="col_1">
-                                        <h2>Premier Division</h2>
-                                        <p><a href="http://extratime.ie/fixtures/teams/team/2/2022/99999/"><img style="vertical-align:middle;" src="http://www.extratime.ie/media/extratime/imageupload/bohemians.png">&nbsp; Bohemians</a></p>
-                                        <p><a href="http://extratime.ie/fixtures/teams/team/6/2022/99999/"><img style="vertical-align:middle;" src="http://www.extratime.ie/media/extratime/imageupload/braywanderers.png">&nbsp; Bray Wanderers</a></p>
-                                        <p><a href="http://extratime.ie/fixtures/teams/team/30/2022/99999/"><img style="vertical-align:middle;" src="http://www.extratime.ie/media/extratime/imageupload/corkcity.png">&nbsp; Cork City</a></p>
-                                        <p><a href="http://extratime.ie/fixtures/teams/team/7/2022/99999/"><img style="vertical-align:middle;" src="http://www.extratime.ie/media/extratime/imageupload/derrycity.png">&nbsp; Derry City</a></p>
-                                        <p><a href="http://extratime.ie/fixtures/teams/team/16/2022/99999/"><img style="vertical-align:middle;" src="http://www.extratime.ie/media/extratime/imageupload/droghedaunited.png">&nbsp; Drogheda United</a></p>
-                                        <p><a href="http://extratime.ie/fixtures/teams/team/17/2022/99999/"><img style="vertical-align:middle;" src="http://www.extratime.ie/media/extratime/imageupload/dundalk.png">&nbsp; Dundalk</a></p>
-                                        <p><a href="http://extratime.ie/fixtures/teams/team/100504/2022/99999/"><img style="vertical-align:middle;" src="http://www.extratime.com/media/extratime/imageupload/galway.png">&nbsp; Galway United</a></p>
-                        		<p><a href="http://extratime.ie/fixtures/teams/team/21/2022/99999/"><img style="vertical-align:middle;" src="http://www.extratime.ie/media/extratime/imageupload/limerick.png">&nbsp; Limerick</a></p>
-                                        <p><a href="http://extratime.ie/fixtures/teams/team/15/2022/99999/"><img style="vertical-align:middle;" src="http://www.extratime.com/media/extratime/imageupload/longford.png">&nbsp; Longford Town</a></p>
-                                        <p><a href="http://extratime.ie/fixtures/teams/team/3/2022/99999/"><img style="vertical-align:middle;" src="http://www.extratime.ie/media/extratime/imageupload/shamrockrovers.png">&nbsp; Shamrock Rovers</a></p>
-                                        <p><a href="http://extratime.ie/fixtures/teams/team/8/2022/99999/"><img style="vertical-align:middle;" src="http://www.extratime.ie/media/extratime/imageupload/sligorovers.png">&nbsp; Sligo Rovers</a></p>
-                                        <p><a href="http://extratime.ie/fixtures/teams/team/29/2022/99999/"><img style="vertical-align:middle;" src="http://www.extratime.ie/media/extratime/imageupload/stpats.png">&nbsp; St Pat's Athletic</a></p>
-                </div>
-                <div class="col_1">
-                                        <h2>First Division</h2>
-                                        <p><a href="http://extratime.ie/fixtures/teams/team/10/2022/99999/"><img style="vertical-align:middle;" src="http://www.extratime.ie/media/extratime/imageupload/athlonetown.png">&nbsp; Athlone Town</a></p>
-                                        <p><a href="http://extratime.ie/fixtures/teams/team/100602/2022/99999/"><img style="vertical-align:middle;" src="http://www.extratime.ie/media/extratime/imageupload/cabinteely.png">&nbsp; Cabinteely FC</a></p>
-                                        <p><a href="http://extratime.ie/fixtures/teams/team/12/2022/99999/"><img style="vertical-align:middle;" src="http://www.extratime.com/media/extratime/imageupload/cobh.png">&nbsp; Cobh Ramblers</a></p>
-                                        <p><a href="http://extratime.ie/fixtures/teams/team/13/2022/99999/"><img style="vertical-align:middle;" src="http://www.extratime.com/media/extratime/imageupload/finnharps.png">&nbsp; Finn Harps</a></p>
-                                        <p><a href="http://extratime.ie/fixtures/teams/team/1/2022/99999/"><img style="vertical-align:middle;" src="http://www.extratime.com/media/extratime/imageupload/shelbourne.png">&nbsp; Shelbourne</a></p>
-                                        <p><a href="http://extratime.ie/fixtures/teams/team/4/2022/99999/"><img style="vertical-align:middle;" src="http://www.extratime.ie/media/extratime/imageupload/ucd.png">&nbsp; UCD</a></p>
-                                        <p><a href="http://extratime.ie/fixtures/teams/team/14/2022/99999/"><img style="vertical-align:middle;" src="http://www.extratime.com/media/extratime/imageupload/waterford.png">&nbsp; Waterford United</a></p>
-                                        <p><a href="http://extratime.ie/fixtures/teams/team/109/2022/99999/"><img style="vertical-align:middle;" src="http://www.extratime.com/media/extratime/imageupload/wexford.png">&nbsp; Wexford Youths</a></p>
-                </div>
-        
-
-
-		<div class="col_1">
-                                                <p><strong style="color: rgb(192, 23, 23);">OTHER</strong></p>
-                        <p><a href="/fixtures/">By Competition</a></p>
-                        <p><a href="/fixtures/teams/">By Club</a></p>
-                </div>
-        </div>
-
-        </li>
-
 	<li><a href="/players/" class="drop">PLAYERS</a></li>
 
-	<li><a href="/" class="drop">SOCIAL MEDIA</a>
+	<li><a href="/" class="drop">SOCIAL</a>
 		<div class="dropdown_2columns">
 			    <div class="col_1"> 
 					<h2>Social</h2>					
@@ -440,18 +498,18 @@ with this Website Privacy Policy you should not use this website.</p>
 					<div class="headlines-article-right">
 					
 						<div class="headlines-article-title">		
-						<h2><a href="/newsdesk/articles/14600/league-preview-bray-wanderers--v--sligo-rovers/">League Preview: Bray Wanderers -v- Sligo Rovers</a></h2>
+						<h2><a href="/newsdesk/articles/15617/republic-of-ireland-to-face-slovakia-in-may/">Republic of Ireland to face Slovakia in May</a></h2>
 						
-							<span class="author">by <a href="/reporter/246/ferdia-fallon-verbruggen/">Ferdia Fallon Verbruggen</a> on Sat, Jun 27 2015</span>
+							<span class="author">by <a href="/reporter/2/gareth-penrose/">Gareth Penrose</a> on Sun, Dec 13 2015</span>
 						
 						</div>
 
 						<div class="headlines-article-image">
 						
 							
-								<a href="/newsdesk/articles/14600/league-preview-bray-wanderers--v--sligo-rovers/">
+								<a href="/newsdesk/articles/15617/republic-of-ireland-to-face-slovakia-in-may/">
 								
-								<img border="0" src="/media/extratime/images/articles/Bray_Wanderers.jpg" width="150" alt="image description"></a>
+								<img border="0" src="/media/extratime/images/articles/el-doyleslovak.jpg" width="150" alt="image description"></a>
 								
 								<span class="author">Photographer: Eddie Lennon</span>
 								
@@ -468,9 +526,9 @@ with this Website Privacy Policy you should not use this website.</p>
 					<div class="headlines-article-right">
 					
 						<div class="headlines-article-title">		
-						<h2><a href="/newsdesk/articles/14599/in-pictures-shelbourne-3---2-finn-harps/"> In Pictures: Shelbourne 3 - 2 Finn Harps</a></h2>
+						<h2><a href="/newsdesk/articles/15615/sullivan-signs-for-galway-while-cantwell-re-signs/">Sullivan signs for Galway while Cantwell re-signs</a></h2>
 						
-							<span class="author">by <a href="/reporter/273/eoin-smith/">Eoin Smith</a> on Sat, Jun 27 2015</span>
+							<span class="author">by <a href="/reporter/268/josh-dolan/">Josh Dolan</a> on Sat, Dec 12 2015</span>
 						
 						</div>
 
@@ -479,11 +537,11 @@ with this Website Privacy Policy you should not use this website.</p>
 							
 						
 							
-								<a href="/newsdesk/articles/14599/in-pictures-shelbourne-3---2-finn-harps/">
+								<a href="/newsdesk/articles/15615/sullivan-signs-for-galway-while-cantwell-re-signs/">
 								
-								<img border="0" src="/media/extratime/images/articles/es-shelsharps2.jpg" width="150" alt="image description"></a>
+								<img border="0" src="/media/extratime/images/articles/23340537611_3dd719b191_z.jpg" width="150" alt="image description"></a>
 								
-								<span class="author">Photographer: Eoin Smith</span>
+								<span class="author">Photographer: Steve Alfred/pitchsidephoto.com</span>
 								
 								
 							
@@ -500,92 +558,92 @@ with this Website Privacy Policy you should not use this website.</p>
 				
 				
 					 
-						<li><a href="/newsdesk/articles/14598/in-pictures-bohemians-0---1-drogheda-united/">In Pictures: Bohemians 0 - 1 Drogheda United</a></li>												
+						<li><a href="/newsdesk/articles/15606/the-dennehy-brothers-sign-for-pats/">The Dennehy brothers sign for Pats</a></li>												
 							
 				
 				
 					 
-						<li><a href="/newsdesk/articles/14597/in-pictures-st-pats-3---0-longford-town/">In Pictures: St Pats 3 - 0 Longford ...</a></li>												
+						<li><a href="/newsdesk/articles/15613/is-it-time-for-the-womens-national-league-to-change-to-summer-football/">Is it time for the Women's National League ...</a></li>												
 							
 				
 				
 					 
-						<li><a href="/newsdesk/articles/14596/in-pictures-cabinteely-2---3-wexford-youths/">In Pictures: Cabinteely 2 - 3 Wexford Youths</a></li>												
+						<li><a href="/newsdesk/articles/15609/gearoid-morrissey-returns-to-ireland-and-signs-back-city/">Gearoid Morrissey returns to Ireland and signs back ...</a></li>												
 							
 				
 				
 					 
-						<li><a href="/newsdesk/articles/14601/youths-add-five-as-they-prepare-for-uefa-womens-champions-league-qualifiers/">Youths add five as they prepare for UEFA ...</a></li>												
+						<li><a href="/newsdesk/articles/15608/sean-maguire-signs-for-cork-city/">Sean Maguire signs for Cork City</a></li>												
 							
 				
 				
 					 
-						<li><a href="/newsdesk/articles/14595/confident-towell-insists-euro-lessons-have-been-learned-ahead-of-belarus-mission/">Confident Towell insists Euro lessons have been learned ...</a></li>												
+						<li><a href="/newsdesk/articles/15607/ledwith-and-friel-join-wexford-youths/">Ledwith and Friel join Wexford Youths</a></li>												
 							
 				
 				
 					 
-						<li><a href="/newsdesk/articles/14591/league-report-st-patricks-athletic-3-0-longford-town/">League Report: St. Patrick's Athletic 3-0 Longford Town</a></li>												
+						<li><a href="/newsdesk/articles/15605/curran-joins-finn-harps/">Curran joins Finn Harps</a></li>												
 							
 				
 				
 					 
-						<li><a href="/newsdesk/articles/14593/league-report-bohemians-0-1-drogheda-united/">League Report: Bohemians 0-1 Drogheda United</a></li>												
+						<li><a href="/newsdesk/articles/15604/odonnell-re-signs-cobh-for-2016/">O'Donnell re-signs with Cobh for 2016</a></li>												
 							
 				
 				
 					 
-						<li><a href="/newsdesk/articles/14583/forrester-eager-to-prove-worth-at-home-and-abroad/">Forrester eager to prove worth at home and ...</a></li>												
+						<li><a href="/newsdesk/articles/15603/galway-united-re-sign-melody-and-horgan/">Galway United re-sign Melody and Horgan</a></li>												
 							
 				
 				
 					 
-						<li><a href="/newsdesk/articles/14582/league-preview-derry-city--v--cork-city/">League Preview: Derry City -v- Cork City</a></li>												
+						<li><a href="/newsdesk/articles/15602/dundalk-sign-patrick-mceleney-from-derry-city/">Dundalk sign Patrick McEleney from Derry City</a></li>												
 							
 				
 				
 					 
-						<li><a href="/newsdesk/articles/14581/league-preview-cabinteely--v--wexford-youths/">League Preview: Cabinteely -v- Wexford Youths</a></li>												
+						<li><a href="/newsdesk/articles/15601/dundalk-sign-ucd-playmaker-robbie-benson/">Dundalk sign UCD playmaker Robbie Benson</a></li>												
 							
 				
 				
 					 
-						<li><a href="/newsdesk/articles/14580/league-preview-bohemians--v--drogheda-united/">League Preview: Bohemians -v- Drogheda United</a></li>												
+						<li><a href="/newsdesk/articles/15600/cork-retain-healy-as-gaynor-departs/">Cork retain Healy as Gaynor departs</a></li>												
 							
 				
 				
 					 
-						<li><a href="/newsdesk/articles/14579/league-of-ireland-predictions-gameweek-18/">League of Ireland Predictions – Gameweek 18</a></li>												
+						<li><a href="/newsdesk/articles/15599/grimes-signs-for-another-year-at-dundalk/">Grimes signs for another year at Dundalk</a></li>												
 							
 				
 				
 					 
-						<li><a href="/newsdesk/articles/14577/ireland-womens-under-17s-lose-narrowly-at-uefa-european-finals/">Ireland Women's Under 17s lose narrowly at UEFA ...</a></li>												
+						<li><a href="/newsdesk/articles/15598/fai-confirm-details-of-under-17-and-under-19-league-finals/">FAI confirm details of under-17 and under-19 league ...</a></li>												
 							
 				
 				
 					 
-						<li><a href="/newsdesk/articles/14574/tough-draw-for-youths-in-womens-champions-league/">Tough draw for Youths in Women's Champions League</a></li>												
+						<li><a href="/newsdesk/articles/15597/republic-of-ireland-confirm-a-second-home-friendly-in-march/">Republic of Ireland confirm a second home friendly ...</a></li>												
 							
 				
 				
 					 
-						<li><a href="/newsdesk/articles/14573/womens-world-cup---round-of-16-summary-and-quarter-final-fixtures/">Women's World Cup - Round of 16 Summary ...</a></li>												
+						<li><a href="/newsdesk/articles/15582/ian-turner-returns-to-turners-cross/">Ian Turner returns to Turners Cross</a></li>												
 							
 				
 				
 					 
-						<li><a href="/newsdesk/articles/14572/mid-season-report-card---waterford-united/">Mid Season Report Card - Waterford United</a></li>												
+						<li><a href="/newsdesk/articles/15550/holohan-re-signs-cork-city/">Holohan re-signs with Cork City</a></li>												
 							
 				
 				
 					 
-						<li><a href="/newsdesk/articles/14571/sse-airtricity-league-suspension-list---week-18/">SSE Airtricity League Suspension List - Week 18</a></li>												
+						<li><a href="/newsdesk/articles/15579/richie-towell-signs-for-brighton/">Richie Towell signs for Brighton</a></li>												
 							
 				
 				
 					 
-						<li><a href="/newsdesk/articles/14570/match-officials-appointed---week-18/">Match Officials Appointed - Week 18</a></li>												
+						<li><a href="/newsdesk/articles/15569/cork-citys-buckley-commits-for-two-more-years/">Cork City's Buckley commits for two more years</a></li>												
 							
 																	
 				</ul>
@@ -691,5 +749,5 @@ pageTracker._trackPageview();
 
 
 	
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","queueTime":0,"licenseKey":"507c12735c","agent":"js-agent.newrelic.com/nr-632.min.js","transactionName":"b1wBN0UDV0NSV0BZV1YWJRZZAU1ZXFobVUBMSwIXXg9cHkVdUUdLAkkRCkEDWkk=","applicationID":"3924105","errorBeacon":"bam.nr-data.net","applicationTime":5}</script>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","queueTime":0,"licenseKey":"507c12735c","agent":"js-agent.newrelic.com/nr-768.min.js","transactionName":"b1wBN0UDV0NSV0BZV1YWJRZZAU1ZXFobVUBMSwIXXg9cHkVdUUdLAkkRCkEDWkk=","applicationID":"3924105","errorBeacon":"bam.nr-data.net","applicationTime":18}</script>
 </body></html>
