@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the campbrainregistration.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607194538id_/http%3A//www.campbrain.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the campbrainregistration.com privacy policy that was archived on 2015-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151217005130id_/http%3A//www.campbrain.com/privacy) for the most accurate reproduction.*
 
 # Privacy | CampBrain
 
