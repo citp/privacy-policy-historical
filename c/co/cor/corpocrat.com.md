@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the corpocrat.com privacy policy that was archived on 2015-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150617025418id_/http%3A//corpocrat.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the corpocrat.com privacy policy that was archived on 2015-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151216194746id_/http%3A//corpocrat.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – Corpocrat
+# Privacy Policy – Corpocrat Magazine
 
 **PRIVACY POLICY**
 
