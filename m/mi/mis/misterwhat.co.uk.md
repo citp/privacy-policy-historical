@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the misterwhat.co.uk privacy policy that was archived on 2015-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150603003052id_/http%3A//www.misterwhat.co.uk/content/terms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the misterwhat.co.uk privacy policy that was archived on 2015-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151216155521id_/http%3A//www.misterwhat.co.uk/content/terms) for the most accurate reproduction.*
 
 # Terms of use | MisterWhat
 
@@ -6,7 +6,7 @@ Terms and Conditions of Use for the website www.misterwhat.co.uk , administered 
 
 ### 1\. Domain of application of Terms and Conditions
 
-1.1 Unless explicitely stated otherwise, these Terms and Conditions (hereinafter collectively referred to as "Terms") of www.misterwhat.co.uk (hereinafter "MISTERWHAT") apply to all services provided in the online business directory www.misterwhat.co.uk, in relation to the navigation on the Portal, the use of its Services and to all relationships and interactions between MISTERWHAT and the Users/Clients, unless special circumstances apply for a certain service. 
+1.1 Unless explicitly stated otherwise, these Terms and Conditions (hereinafter collectively referred to as "Terms") of www.misterwhat.co.uk (hereinafter "MISTERWHAT") apply to all services provided in the online business directory www.misterwhat.co.uk, in relation to the navigation on the Portal, the use of its Services and to all relationships and interactions between MISTERWHAT and the Users/Clients, unless special circumstances apply for a certain service. 
 
 1.2 (Definitions) 
 
@@ -158,4 +158,53 @@ You can disable or selectively turn off our cookies or third-party cookies in yo
 
 11.1 If some provisions of these Terms, in whole or in part, are no longer valid, or will lose their legal effect later, the validity of the Terms will not be affected more than that. Instead of the inefficient regulations the legal provisions will come in force automatically. The same applies in case of any possible omissions in the terms. 
 
-Pavia, 2014 - FABULABS S.p.A. - Via Ticinello 22 - 27100 Pavia - Italy 
+### 12\. Cookies
+
+This Cookie Policy explains what cookies are, the different types of cookies used on the MisterWhat Sites, and how you can change or delete them. We hope that this policy helps you understand our use of cookies. 
+
+### What are Cookies?
+
+Cookies are small text files that are stored on your computer or mobile device and hold data relating to a specific website. Cookies are placed on the user's computer or mobile device by that website and accessed each time a user browses the site. They are widely used in order to make websites work, or work in a better, more efficient way, to make websites easier to use, to support the provision of relevant functionalities to the user. Cookies enable websites to recognise you and remember important information that will make your use of a website more convenient, for example by remembering your user preferences. We primarily use cookies to collect data that help us improve our website by knowing which parts of the site are being visited, how users are accessing each page and what items on each page they prefer to click on. The types of information typically collected by cookies include information relating to your use of the MisterWhat Sites, your browser type, your device's IP address, how you arrived on one of the MisterWhat Sites etc.  
+Cookies come in different categories. By using this Site you accept our use of cookies. If you wish to restrict or block web browser cookies which are set on your device, You do this through your browser settings at any time. The Help function within your browser should tell you how. For further information on how to change your browser settings and on cookies in general, you may visit [www.aboutcookies.org](http://www.aboutcookies.org/), which contains comprehensive information on how to do this on a wide variety of desktop browsers. Please note that preventing the use of cookies is likely to impact the performance and functionality of this Site, or prevent you from using certain services provided by this Site. If you choose to prevent the use of cookies, we cannot guarantee that all services and functionalities provided by this Site will perform or work correctly during your visit. 
+
+### Types of Cookies used
+
+Further information about the types of cookies that are used on this Site can be found below. 
+
+#### Essential Cookies
+
+These cookies are strictly necessary to the MisterWhat Sites in order to enable you to navigate through the websites and to use their features. No information about your browsing habits is gathered by these cookies. Without these essential and absolutely necessary cookies, certain aspects of the Sites would not work. 
+
+#### Analytics Cookies
+
+Analytics cookies collect information about how users interact with the MisterWhat Sites, and enable us to improve the way the website works, provide better products and service to our users and identify any areas of the Sites that may need maintenance.  
+For example, analytics cookies show us which are the most frequently visited pages on the MisterWhat Sites, help us record any difficulties you have with the navigation, show us where error messages are delivered and whether advertising is effective or not. This allows us to see the main patterns of usage on the Sites. Some of the analytics cookies we use may be operated by trusted third parties. Accepting analytics cookies is a condition of using the MisterWhat Sites and by continuing to use the Sites, you agree we can place analytics cookies on your device.  
+These cookies are just used for statistics, they don't collect information that identifies individuals and we can't identify you personally through the use of these cookies. All information provided by these cookies is anonymous. 
+
+#### Functional Cookies
+
+We use functional cookies to remember how you use the MisterWhat Sites and the choices you make. For example, functional cookies allow this Site to remember your user name, log in details, and any customisations you make to the Sites during your visit. We can't identify you personally through the use of these cookies, nor do these cookies track your browsing habits, but they do help us serve you with ads. 
+
+#### Advertising or targeting cookies
+
+Targeting or advertising cookies collect information about your browsing behaviour and habits in order to make advertising more relevant to you and your interests and help measure the effectiveness of advertising on the Site.  
+We use third party cookies to make advertising relevant to the content/pages you are visiting and to your interests. The MisterWhat Sites uses targeting or advertising cookies to provide Google, Criteo and other advertising agencies and advertising networks with information on your visit so that they can present you with relevant advertising that you may find interesting; we link to social networking websites like Facebook, Twitter who may then use information about your visit to target advertising to you on other properties. 
+
+#### Other Cookies
+
+Some of the cookies on the MisterWhat Sites are operated by third parties, such as Google, Facebook and Twitter. We do not control these third parties or their use of cookies, and it is not possible for us to manage these cookies. Please visit the websites of those third parties for details on how they use cookies. 
+
+### How to control Cookies
+
+You are not obliged to accept cookies and may refuse to accept cookies from the MisterWhat Sites at any time by activating the setting on your browser which allows you to refuse cookies. Further information about the procedure to follow in order to disable cookies can be found on your Internet browser provider's website via your help screen. Please be aware that if cookies are disabled, not all functionalities of the MisterWhat Sites may function or operate as intended. 
+
+You may wish to refer to the resources listed below:  
+\- Terminology and definitions - For more information see <http://www.allaboutcookies.org/>  
+\- To learn more about how Google uses data when you use its partners' sites or apps, please visit <http://www.google.com/intl/en/policies/privacy/partners/>  
+\- For further information about DoubleClick cookies and how to opt out, please see <https://support.google.com/adsense/answer/2839090>  
+\- For further information about Google Analytics, including how to opt out, please see <https://support.google.com/analytics/answer/6004245> and <https://tools.google.com/dlpage/gaoptout>  
+\- For further information about Criteo's privacy policy, advertising practices, and for information on how to prevent being tracked for advertising purposes by Criteo, please see <http://www.criteo.com/us/privacy-policy>
+
+If you would like to learn more about advertising networks, affiliate programmes and how cookies are used for advertising purposes, please see [www.youronlinechoices.com/uk](http://www.youronlinechoices.com/uk). This is a useful portal run by IAB (Internet Advertising Bureau), provides all the information about online advertising and the choices available to you. To prevent being tracked by advertising networks and other organisations please see <http://www.youronlinechoices.com/uk/your-ad-choices>
+
+Pavia, 2015 - FABULABS S.p.A. - Via Ticinello 22 - 27100 Pavia - Italy 
