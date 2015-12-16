@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the teamunify.com privacy policy that was archived on 2015-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150618054750id_/http%3A//www.teamunify.com/__corp__/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teamunify.com privacy policy that was archived on 2015-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151216173832id_/http%3A//www.teamunify.com/__corp__/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Effective Date: January 8, 2013
+Effective Date: October 15th, 2015
 
 TeamUnify, LLC, together with its affiliates (“TeamUnify,” the “Company,” “us,” “our,” and “we”), is committed to protecting the privacy of individuals who visit the Company's website (the “TeamUnify Website,” described further below) and individuals who visit Swim Team Websites (defined below) operated by Company (collectively, “Visitors”), as well as entities and individuals who enter into agreements with Company for the purchase of services and/or products and/or register for accounts on the TeamUnify Website and/or Swim Team Websites (collectively, “Customers”). This Privacy Statement describes TeamUnify's information practices in relation to Visitors' and Customers' use of the TeamUnify Website and Swim Team Websites, as well as the purchase of products or services from Company and through the TeamUnify Website and Swim Team Websites. This Privacy Statement also applies to information collected by TeamUnify through offline contacts it may have with Customers and Visitors. Customers and Visitors may at times be referred to in this Privacy Statement as “you.” If you have any questions about this Privacy Statement, please contact TeamUnify at info@teamunify.com. 
 
@@ -16,7 +16,7 @@ We reserve the right to update and revise this Privacy Statement at any time. We
 
 ## Websites Covered
 
-This Privacy Statement covers the information practices of Websites owned and operated by TeamUnify, including: http://www.teamunify.com, http://www.teamunifygear.com, and http://www.getoutswim.com (collectively referred to as “TeamUnify's Website” or “the Company's Website”). Teamunify.com is a marketing and sales information source for Company's swim team management platform. Getoutswim.com and Teamunifygear.com are eCommerce websites through which Company sells swim suits, swim related gear and other products.
+This Privacy Statement covers the information practices of Websites owned and operated by TeamUnify, including: http://www.teamunify.com, https://www.touchpadlive.com and http://www.mainset.com, (collectively referred to as “TeamUnify's Website” or “the Company's Website”). Teamunify.com is a marketing and sales information source for Company's swim team management platform. Mainset.com is a website through which the Company promotes and sells mobile applications and a web based Workout and Practice Management platform. Touchpadlive.com is a web based platform for Meet Results posted from TeamUnify's TouchPad meet manager.
 
 TeamUnify is a developer of software that helps swim teams better manage themselves. As part of this effort, TeamUnify develops and maintains websites for such swim teams (collectively, “Swim Team Websites”). This Privacy Statement covers the information practices of Swim Team Websites that are operated by TeamUnify. You will know that this Privacy Policy covers the information practices of such Swim Team Websites because the websites will direct you to this Privacy Statement when you click on the privacy links on such websites.
 
@@ -32,9 +32,9 @@ As you navigate and browse the Company's Website and/or any Swim Team Websites, 
 
 ## Collection and Use of Personal Information
 
-Personal Information may be provided by you to us in several ways, including without limitation, when you contact us through the TeamUnify Website or a Swim Team Website, when you express an interest in obtaining additional information about the services we offer; when you create an account through the TeamUnify Website or any Swim Team Website, or when you purchase products through the TeamUnify Website or a Swim Team Website. In order to engage in any of the foregoing activities, you must provide us your Personal Information.
+Personal Information may be provided by you to us in several ways, including without limitation, when you contact us through the TeamUnify Website or a Swim Team Website, when you express an interest in obtaining additional information about the services we offer; when you create an account through the TeamUnify Website or any Swim Team Website, or when you register with a swim team through the TeamUnify Website. In order to engage in any of the foregoing activities, you must provide us your Personal Information.
 
-In order to use certain features of the TeamUnify Website and/or Swim Team Website, or to otherwise participate in the services we offer, you may be asked to provide Personal Information. YOU DO NOT HAVE TO PROVIDE US WITH YOUR PERSONAL INFORMATION TO BROWSE THE TEAMUNIFY WEBSITE OR ANY SWIM TEAM WEBSITE, AND WE ONLY COLLECT YOUR PERSONAL INFORMATION FROM YOU WHEN YOU VOLUNTARILY PROVIDE IT TO US. YOU ARE NEVER UNDER ANY OBLIGATION TO PROVIDE YOUR PSERONAL INFORMATION. However, if you do not provide your Personal Information, you may not be able to use certain features of the TeamUnify Website and Swim Team Websites. When you do provide us your Personal Information, you are authorizing us to use that information in accordance with the terms of this Privacy Statement.
+In order to use certain features of the TeamUnify Website and/or Swim Team Website, or to otherwise participate in the services we offer, you may be asked to provide Personal Information. YOU DO NOT HAVE TO PROVIDE US WITH YOUR PERSONAL INFORMATION TO BROWSE THE TEAMUNIFY WEBSITE OR ANY SWIM TEAM WEBSITE, AND WE ONLY COLLECT YOUR PERSONAL INFORMATION FROM YOU WHEN YOU VOLUNTARILY PROVIDE IT TO US. YOU ARE NEVER UNDER ANY OBLIGATION TO PROVIDE YOUR PERSONAL INFORMATION. However, if you do not provide your Personal Information, you may not be able to use certain features of the TeamUnify Website and Swim Team Websites. When you do provide us your Personal Information, you are authorizing us to use that information in accordance with the terms of this Privacy Statement.
 
 The Company uses Personal Information of TeamUnify Customers and Visitors to perform the services requested. For example, if you fill out a “Contact Me” web form or if you request a service demonstration, the Company will use the information provided to contact you about your interest in our services, or if you purchase a product, we will use your Personal Information to fulfill the order. We may also use your Personal Information to contact you regarding your account and use of the services.
 
@@ -42,7 +42,7 @@ The Company may also use Personal Information of TeamUnify Customers for marketi
 
 The Company uses financial information solely to collect payment for the services and/or products you purchase through the TeamUnify Website or any Swim Team Website.
 
-When you use our OnDeck™ software, we may receive information about your location and your mobile device, including a unique identifier for your device. We may use this information to provide you with location-based services, such as advertising, search results, and other personalized content. Most mobile devices allow you to turn off location services. Most likely, these controls are located in the device's settings menu. If you have questions about how to disable your device's location services, we recommend that you contact your device manufacturer or your mobile service carrier.
+When you use our OnDeck™ or MainSet™ Mobile applications, we may receive information about your location and your mobile device, including a unique identifier for your device. We may use this information to provide you with location-based services, such as advertising, search results, and other personalized content. Most mobile devices allow you to turn off location services. Most likely, these controls are located in the device's settings menu. If you have questions about how to disable your device's location services, we recommend that you contact your device manufacturer or your mobile service carrier.
 
 ## Collection and Use of Anonymous Information
 
@@ -80,7 +80,7 @@ From time-to-time, TeamUnify engages third parties to track and analyze usage an
 
 ### Public Forums, Refer a Friend, and Customer Testimonials
 
-TeamUnify may provide bulletin boards, blogs, chat rooms, or other areas where users can post information or content for public viewing, on the Company's Website and/or Swim Team Websites. Any Personal Information or other content you choose to submit in such a forum may be read, collected, or used by others who visit these forums, and may be used to send you unsolicited messages. Such information and content is not subject to this Privacy Statement; rather, such information and content is subject to Company's Website Terms and Conditions, [located here](https://web.archive.org/web/20150618054750id_/http%3A//www.teamunify.com/__corp__/termsandconditions.php). TeamUnify is not responsible for the Personal Information you choose to submit in these forums. You should be aware that such content and information may be made broadly available to the public.
+TeamUnify may provide bulletin boards, blogs, chat rooms, or other areas where users can post information or content for public viewing, on the Company's Website and/or Swim Team Websites. Any Personal Information or other content you choose to submit in such a forum may be read, collected, or used by others who visit these forums, and may be used to send you unsolicited messages. Such information and content is not subject to this Privacy Statement; rather, such information and content is subject to Company's Website Terms and Conditions, [located here](http://www.teamunify.com/__corp__/termsandconditions.php). TeamUnify is not responsible for the Personal Information you choose to submit in these forums. You should be aware that such content and information may be made broadly available to the public.
 
 Customers and Visitors may elect to use the Company's referral service to inform friends about the Company's Website. When using the referral service, the Company requests the friend's name and email address. TeamUnify will automatically send the friend a one-time email inviting him or her to visit the Company's Website. TeamUnify does not store this information.
 
@@ -89,8 +89,6 @@ TeamUnify posts a list of Customers and testimonials on the Company's Website th
 ## Sharing of Information Collected
 
 TeamUnify may share Personal Information about Customers and Visitors with the Company's agents so that these agents can contact Customers and Visitors who have provided contact information on our behalf to perform certain services for us, fulfill product orders, perform certain marketing on our behalf, and/or perform website analytics services, as described above. TeamUnify may also share Personal Information of our Customers and Visitors with the Company's agents to ensure the quality of information provided. TeamUnify does not share, sell, rent, or trade Personal Information with third parties for their promotional purposes. 
-
-We distribute products manufactured by TYR and The Finals. If you purchase TYR and/or The Finals products from the TeamUnify Website or any Swim Team Website, we will send your purchase request, along with Personal Information that you are required to submit to order the products, to TYR and/or The Finals, as applicable. These companies will use your Personal Information solely for the purpose of fulfilling your product order, and they will not use or disclose your Personal Information for marketing purposes or otherwise.
 
 TeamUnify uses a third-party intermediary to manage credit card processing. This intermediary is not permitted to store, retain, or use financial information or your other Personal Information except for the sole purpose of credit card processing on the Company's behalf. 
 
@@ -104,7 +102,7 @@ Notwithstanding anything to the contrary in this Privacy Statement, TeamUnify re
 
 TeamUnify Customers (and Visitors who have provided us their Personal Information, such as to contact us with a question) may update or change their Personal Information by editing their user or organization record, or by sending us an email request to info@teamunify.com.
 
-To update a billing profile, please visit your team's Swim Team Website, Sign In, and then click on “Billing Setup.” In addition to updating your billing information, you can also change the form of electronic payment processing you desire. 
+To update a billing profile, please visit your team's Swim Team Website, Sign In, and then under "Billing Admin" click on “Billing Setup.” In addition to updating your billing information, you can also change the form of electronic payment processing you desire. 
 
 If you request that your Personal Information be changed, we may still maintain your preexisting Personal Information for purposes of recordkeeping and to comply with our retention policy described below.
 
@@ -136,33 +134,33 @@ When we know we are going to collect Personal Information from a child under age
 
 ## Security
 
-TeamUnify uses commercially-reasonable physical, electronic, and managerial security measures to assist in protecting against the loss, misuse, and alteration of Personal Information that is under our control. When the TeamUnify Website and/or any Swim Team Websites are accessed using Internet Explorer version 6.0 or later, Firefox version 2.0 or later, or Safari version 3.0 or later, Secure Socket Layer (“SSL”) technology protects your Personal Information using both server authentication and data encryption. These technologies help ensure that your Personal Information is safe, secure, and only available to you through use of your username and password. TeamUnify hosts the TeamUnify Website and Swim Team Websites in a secure server environment that uses firewalls and other advanced technology to prevent interference or access from outside intruders. TeamUnify also offers enhanced security features that permit Customers to configure security settings to their level of comfort.
+TeamUnify uses commercially-reasonable physical, electronic, and managerial security measures to assist in protecting against the loss, misuse, and alteration of Personal Information that is under our control. When the TeamUnify Website and/or any Swim Team Websites are accessed using IE 10 or later, FF 35.0 or later, Chrome 35.0 or later, Safari 8.0 or later. A combination of Secure Socket Layer (“SSL”) technology and Transport Layer Security ("TLS") protects your Personal Information using both server authentication and data encryption. These technologies help ensure that your Personal Information is safe, secure, and only available to you through use of your username and password. TeamUnify hosts the TeamUnify Website and Swim Team Websites in a secure server environment that uses firewalls and other advanced technology to prevent interference or access from outside intruders. TeamUnify also offers enhanced security features that permit Customers to configure security settings to their level of comfort.
 
 Here are additional security measures we take:
 
-**Physical Security**  
+**Physical Security**   
 Our production equipment is collocated at a facility that provides 24-hour physical security, redundant electrical generators, and other backup equipment designed to keep servers continually up and running. 
 
-**Data Encryption**  
+**Data Encryption**   
 TeamUnify leverages encryption products to protect customer data and communications, including 128-bit Thawte SSL Certification. The lock icon in the browser indicates that data is shielded from access while in transit. 
 
-**Customer Authentication**  
-Customers access the TeamUnify Website and/or Swim Team Websites only with a valid and unique user name and password combination, which is encrypted via SSL while in transmission. Customers are prevented from choosing weak or obvious passwords. Customers must enter their user name and password for each log in.
+**Customer Authentication**   
+Customers access the TeamUnify Website and/or Swim Team Websites only with a valid and unique user name and password combination, which is encrypted via SSL while in transmission. Once authenticated, your connection to http://www.teamunify.com or http://www.mainset.com is encrypted using a modern cipher suite utilizing TLS 1.2. Customers are prevented from choosing weak or obvious passwords. Customers must enter their user name and password for each log in. 
 
 TeamUnify issues a session cookie only to record encrypted authentication information for the duration of a specific session. The session cookie does not include either the username or password of the Customer. TeamUnify does not use session cookies to store other Personal Information or session information, but instead implements more advanced security methods based on dynamic data and encoded session IDs.
 
-**Operating System Security**  
+**Operating System Security**   
 TeamUnify provides operating system-level security by using a minimal number of access points to all production servers. We protect all operating system accounts with strong passwords, and production servers do not share a master password database. All operating systems are maintained at each vendor's recommended patch levels for security and are hardened by disabling and/or removing any unnecessary users, protocols, and processes. 
 
-**Database Security**  
+**Database Security**   
 Whenever possible, database access is controlled at the operating system and database connection level for additional security. Access to production databases is limited to a number of points, and production databases do not share a master password database. 
 
-**Server Management Security**  
-TeamUnify employees do not have direct access to the TeamUnify production equipment, except where necessary for system management, maintenance, monitoring, and backups. The TeamUnify engineering team provides all system management, maintenance, monitoring, and backups.
+**Server Management Security**   
+TeamUnify employees do not have direct access to the TeamUnify production equipment, except where necessary for system management, maintenance, monitoring, and backups. The TeamUnify engineering team provides all system management, maintenance, monitoring, and backups. 
 
-Special notice regarding the security of TeamUnify's OnDeck software application 
+Special notice regarding the security of TeamUnify's OnDeck and MainSet software applications: 
 
-Data downloaded into the OnDeck application is not secure and is at risk for potential inadvertent use by a non-authorized person that takes possession of the device on which the OnDeck application has been installed. The OnDeck application requires that a User Login be entered every time a Customer wants to use the application to help improve protection of the data that is stored within the OnDeck application database that resides on the device. However, a Customer may set a preference once signed in that will remember the password by automatically populating the password field. Setting this preference is not recommended and will make the device less secure. Customers will be warned of this again when they go to set the user preference. Customers are solely responsible for protecting the security of their devices and the downloaded data on their device. TeamUnify is not responsible or liable for the loss of a device and the stored data and/or inadvertent use by another party.
+Data downloaded into either the MainSet and/or OnDeck applications is not secure and is at risk for potential inadvertent use by a non-authorized person that takes possession of the device on which one or both of the applications has been installed. Both OnDeck and MainSet application requires that a User Login be entered every time a Customer wants to use the application to help improve protection of the data that is stored within the OnDeck and/or MainSet application database that resides on the device. However, a Customer may set a preference once signed in that will remember the password by automatically populating the password field. Setting this preference is not recommended and will make the device less secure. Customers will be warned of this again when they go to set the user preference. Customers are solely responsible for protecting the security of their devices and the downloaded data on their device. TeamUnify is not responsible or liable for the loss of a device and the stored data and/or inadvertent use by another party.
 
 Unfortunately, no data storage system, or system of transmitting data over the Internet, can be guaranteed to be 100% secure. As a result, we cannot guarantee the security of our servers or any Personal Information provided to us in connection with your use of the TeamUnify Website or any Swim Team Website.
 
@@ -172,10 +170,10 @@ Security researchers seeking information on how to report security issues to Tea
 
 TeamUnify acknowledges the valuable role that independent security researchers play in Internet security. Keeping our Customers' and Visitors' data secure is important to us, and we encourage responsible reporting of any vulnerabilities that may be found in our services, the TeamUnify Website, and/or any Swim Team Website. TeamUnify is committed to working with the security community to verify and respond to any potential vulnerabilities that are reported to us. Additionally, TeamUnify pledges not to initiate legal action against security researchers for penetrating or attempting to penetrate our systems as long as they adhere to the following conditions.
 
-**Testing for Security Vulnerabilities**  
+**Testing for Security Vulnerabilities**   
 Conduct all vulnerability testing against demonstration websites of our online services to minimize the risk to our Customers' and Visitors' data. Contact and request domain names for demonstration websites at security@teamunify.com.
 
-**Reporting a Potential Security Issue**  
+**Reporting a Potential Security Issue**   
 Privately share details of the suspected vulnerability with TeamUnify by sending an email to security@teamunify.com. Provide full details of the suspected vulnerability so TeamUnify may validate and reproduce the issue.
 
 TeamUnify does not permit the following types of research:
@@ -196,7 +194,7 @@ To all security researchers who follow this TeamUnify Vulnerability Reporting Po
 
 
 
-**No Compensation**  
+**No Compensation**   
 TeamUnify does not compensate people for reporting a security vulnerability, and any requests for such compensation will be considered a violation of the conditions above. 
 
 ### Retention and Storage
@@ -213,6 +211,6 @@ If any part of this Privacy Statement is determined to be invalid or unenforceab
 
 ### Contacting Us
 
-Questions regarding this Privacy Statement or the information practices pertaining to the Company's Website and/or any Swim Team Websites should be directed to TeamUnify at PO Box 2321, Bend, OR 97709 or info@teamunify.com.
+Questions regarding this Privacy Statement or the information practices pertaining to the Company's Website and/or any Swim Team Websites should be directed to TeamUnify, LLC at PO Box 2321, Bend, OR 97709 or info@teamunify.com.
 
-© 2013 TeamUnify, LLC. All rights reserved.
+© 2015 TeamUnify, LLC. All rights reserved.
