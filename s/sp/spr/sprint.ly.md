@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sprint.ly privacy policy that was archived on 2015-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150407072110id_/http%3A//sprint.ly/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sprint.ly privacy policy that was archived on 2015-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151216091510id_/http%3A//sprint.ly/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - sprint.ly
 
