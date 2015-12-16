@@ -1,14 +1,6 @@
-> *The following text is extracted and transformed from the alton-towers.co.uk privacy policy that was archived on 2015-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150614033958id_/http%3A//www.altontowers.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alton-towers.co.uk privacy policy that was archived on 2015-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151216065633id_/http%3A//www.altontowers.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
-
-Menu
-
-## **
-
-Privacy Policy.
-
-**
 
 Merlin Entertainments Group Limited ("We") are committed to protecting and respecting your privacy.
 
@@ -156,9 +148,3 @@ CONTACT
 **
 
 Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to [comments@merlinentertainmenrts.biz](mailto:comments@merlinentertainmenrts.biz)
-
-## Sign up to our newsletter
-
-Sign up to receive our amazing email newsletters... and get great offers and discounts! [Terms and Conditions](https://web.archive.org/terms-and-conditions).
-
-## Thank you – you have successfully subscribed.
