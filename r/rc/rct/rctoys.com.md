@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rctoys.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607161256id_/http%3A//www.rctoys.com/draganfly-innovations-information/PRIVACY-POLICY.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rctoys.com privacy policy that was archived on 2015-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151216204938id_/http%3A//www.rctoys.com/draganfly-innovations-information/PRIVACY-POLICY.html) for the most accurate reproduction.*
 
 # Privacy Policy - Draganfly Innovations Inc. : RCToys.com
 
