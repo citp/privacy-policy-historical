@@ -1,29 +1,34 @@
-> *The following text is extracted and transformed from the snapsurveys.com privacy policy that was archived on 2015-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150617021346id_/http%3A//www.snapsurveys.com/privacy-policy-us) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the snapsurveys.com privacy policy that was archived on 2015-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151216030601id_/http%3A//www.snapsurveys.com/privacy-policy-us) for the most accurate reproduction.*
 
-# Privacy Policy » Snap Survey Software
+# Privacy Policy » Snap Surveys
 
 Snap Surveys Limited and Snap Surveys NH, Inc. are committed to protecting and respecting your privacy.
 
-This privacy policy applies to www.snapsurveys.com owned and operated by Snap Surveys Limited. Our privacy policy describes how we capture and use the personal information and data that we gather about visitors to this website.
+This privacy policy applies to [www.snapsurveys.com](http://www.snapsurveys.com/) owned and operated by Snap Surveys. Our privacy policy describes how we capture and use the personal information and data that we gather about visitors to this website and users of our services.
 
 Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it. By visiting [www.snapsurveys.com](http://www.snapsurveys.com/) you are accepting and consenting to the practices described in this policy.
 
 For the purposes of the Data Protection Act 1988, the data controller is Snap Surveys Limited (company number 01672722) of 5 Mead Court, Cooper Road, Thornbury, Bristol BS35 3UW in relation to all data (e.g. registration, billing and account information) other than data provided in a client survey. The data controller for client surveys is the client who has commissioned the survey, who determines how their survey questions and responses are to be used and disclosed to others. We will only process such client survey data in accordance with our client’s instructions and permissions.
 
-[](https://privacy.truste.com/privacy-seal/Snap-Surveys,-Ltd/validation?rid=bcb4b8db-4339-4fe8-a10d-c29d3d439ac6 "TRUSTe European Safe Harbor certification")
+Snap Surveys NH, Inc. complies with the U.S. – E.U. Safe Harbor framework and the U.S. – Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries and Switzerland. Snap Surveys NH, Inc. has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Snap Surveys NH, Inc’s certification, please visit <http://www.export.gov/safeharbor/>.
 
-Snap Surveys Limited has been awarded TRUSTe’s Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe’s program requirements](http://www.truste.com/privacy-program-requirements/ "TRUSTe's program requirements") including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. This privacy statement covers the website www.snapsurveys.com. TRUSTe’s mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions.
-
-If you have questions, comments or complaints regarding our privacy policy or practices, please contact us at one of the following addresses;
+If you have questions, comments or complaints regarding our privacy policy or practices, please  
+contact us at one of the following addresses;
 
   * **UK address** : 5 Mead Court, Cooper Road, Thornbury, Bristol BS35 3UW, UK
   * **US address** : 210 Commerce Way, Suite 200, Portsmouth, NH 03801, USA
 
 
 
-or at [privacy@snapsurveys.com](mailto:privacy@snapsurveys.com). If you are not satisfied with our response you can contact [TRUSTe here](https://feedback-form.truste.com/watchdog/request "TRUSTe").
+or at [privacy@snapsurveys.com](mailto:privacy@snapsurveys.com).
 
-Snap Surveys Limited complies with the U.S. – E.U. Safe Harbor framework and the U.S. – Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries and Switzerland. Snap Surveys Limited has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Snap Surveys Limited certification, please visit <http://www.export.gov/safeharbor/>
+[](http://privacy.truste.com/privacy-seal/Snap-Surveys-NH,-Inc-/validation?rid=83e67561-162a-4aca-8bcb-eb12ada01455 "TRUSTe Privacy Certification")
+
+Snap Surveys NH, Inc. has obtained TRUSTe’s Privacy Certification signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with TRUSTe’s Privacy Certification Standards including transparency, accountability and choice regarding the collection and use of your personal information.
+
+The TRUSTe program covers only information that is collected through this website www.snapsurveys.com, and does not cover information that may be collected through software downloaded from the website www.snapsurveys.com.
+
+In order to view our relationship with TRUSTe please visit the validation page visible by clicking on the TRUSTe seal. If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe at <https://feedback-form.truste.com/watchdog/request.>
 
 ### Information We May Collect From You
 
@@ -40,9 +45,9 @@ Our services enable our clients to create and administer their surveys. We may h
 
 
 
-but as explained below we do not use this data ourselves or provide it to third parties, except in the limited circumstances described below.
+but as explained below we do not use the survey data or contact information ourselves or provide it to third parties, except in the limited circumstances described below.
 
-If you are a respondent to a client survey we will collect and store the responses that you submit, and may carry out analysis of this data to produce a report to our client. Please note that our client remains responsible for this data and its management, as explained below in ‘How We Use the Information’.
+If you are a respondent to a client survey we will collect and store the responses that you submit, and may carry out an analysis of this data to produce a report to our client. Please note that our client remains responsible for this data and its management, as explained below in ‘How We Use the Information’.
 
 #### Information that we collect about you
 
@@ -70,7 +75,7 @@ To administer our website and for internal operations, including troubleshooting
 
 **Use of client survey data – clients** : we will use your survey data to hold, store and process it in accordance with your instructions. We use the survey data purely to provide survey services for you and will only use it for our own purposes if you have made your survey responses public, or you have given us your express consent, or we are required to do so by law.
 
-**Use of client survey data – respondents** : all information that you provide in response to a client survey will be provided to our client. Please be aware that our clients control the surveys and what happens to the survey data, which may include using that data for research purposes or making the survey responses public. We recommend that you contact the client running the survey to understand how they will use your survey responses. The client may provide you with their own separate privacy policy governing the use of your survey data. We will not provide any information that you submit in response to the survey, nor your contact details, to third parties (unless you have given us your express consent, or we are required to do so by law). Further, we will not use your contact details to contact you for any purpose outside of operating the survey.
+**Use of client survey data – respondents** : all information that you provide in response to a client survey will be provided to our client. Please be aware that our clients control the surveys and what happens to the survey data, which may include using that data for research purposes or making the survey responses public. We recommend that you contact the client running the survey to understand how they will use your survey responses. The client may provide you with their own separate privacy policy governing the use of your survey data. We will not provide any information that you submit in response to the survey, nor your contact details, to third parties other than our client (unless you have given us your express consent, or we are required to do so by law). Further, we will not use your contact details to contact you for any purpose outside of operating the survey.
 
 We may aggregate survey data from a number of surveys to produce overall statistics and benchmarks. Any such information will not be correlated with data about individuals and it will not be possible to identify any individual from the aggregated results.
 
@@ -82,7 +87,7 @@ We will not sell your information to third parties or otherwise disclose your in
 
 We will only disclose your personal information in the circumstances described below.
 
-We may provide your personal information to companies that provide services to help us with our business activities such as shipping your order, assessing your credit score (where this is a condition of us entering into a contract with you) or offering customer service. These companies are authorised to use your personal information only as necessary to providethese services to us.
+We may provide your personal information to companies that provide services to help us with our business activities such as shipping your order, assessing your credit score, hosting your survey or offering customer service. These companies are authorised to use your personal information only as necessary to provide these services to us.
 
 We may disclose aggregated survey data to third parties for benchmarking purposes and to publish overall statistics. Any such information will not be correlated with data about individuals and it will not be possible to identify any individual from the aggregated results.
 
@@ -90,7 +95,7 @@ We may disclose your information to analytics and search engine providers that a
 
 We may also disclose your personal information:
 
-  * if we are under a duty to disclose or share your personal data in order to comply with any legal obligation or respond to a request from the government or a regulatory body
+  * if we are under a duty to disclose or share your personal data in order to comply with any legal obligation such as a subpoena or respond to a request from a government or a regulatory body
   * in order to enforce or apply our website terms of use, software licences or other agreements, and to protect the rights (including intellectual property rights), property or safety of Snap Surveys Limited or Snap Surveys NH, Inc., our customers or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction
   * if we are involved in a merger, acquisition, or sale of all or a portion of our assets, you will be notified via email and/or a prominent notice on our website of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information. If we or a substantial proportion of our assets are acquired by a third party, personal data held by us about our clients will be one of the transferred assets
   * if you choose to make your survey responses public
@@ -100,7 +105,7 @@ We may also disclose your personal information:
 
 ### Updating your Information
 
-If you wish to update or amend your personally identifiable information or data you may do so by making the change within your account once logged in or by emailing our Customer Support at [customerservices@snapsurveys.com](mailto:info@snapsurveys.com?subject=Privacy%20Policy%20Question). We will respond to your request within 30 days.
+If you wish to update or amend your personal information or data you may do so by making the change within your account once logged in or by emailing our Customer Support at [customerservices@snapsurveys.com](mailto:customerservices@snapsurveys.com). We will respond to your request within 30 days.
 
 ### Data Retention
 
@@ -110,44 +115,40 @@ We will retain and use your information as necessary to comply with our legal ob
 
 Please note that as our clients control their survey data, if you are a respondent to a client survey you will need to contact them directly to amend or delete anything in your survey responses.
 
-### Cookies
+### Cookies and other Tracking Technologies
 
-Our website uses cookies to distinguish you from other users of our website. This helps us to improve our website’s performance and your experience of using our website. For detailed information on the cookies we use and the purposes for which we use them see [‘Cookies used by Snap Surveys’](http://www.snapsurveys.com/cookies/ "Cookies used by Snap Surveys").
+We and our partners, affiliates, or analytics or service providers use technologies such as cookies, beacons, tags, and scripts, to analyze trends, administer the website and track users’ movements around the website. We may receive reports based on the use of these technologies by these companies on an individual and aggregated basis. Please note that we do not currently process or comply with any web browser’s ‘do not track’ signal or other similar mechanism that indicates a request to disable online tracking of individual users who visit our website.
 
-### Web Beacons
+We use cookies to distinguish you from other users of our website. This helps us to improve our website’s performance and your experience of using our website. Users can control the use of cookies at the individual browser level. If you reject cookies, you may still use our website, but your ability to use some features or areas of our website may be limited. For more information on the cookies we use and the purposes for which we use them see ‘[Cookies used by Snap Surveys](http://www.snapsurveys.com/cookies/)‘.
 
-We use Web Beacons to help us better manage content on our website by informing us what content is effective. Web Beacons are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of web users. In contrast to cookies, which are stored on a user’s computer hard drive, Web Beacons are embedded invisibly on web pages and are about the size of the full stop at the end of this sentence. Web Beacons collect information such as cookie identifiers, IP addresses, times and dates of pages being viewed and the URL of the page on which the Web Beacon appears. The data that we collect is aggregated and anonymised and we do not tie the information gathered by Web Beacons on our website to any personally identifiable information.
+When we send you emails, we may include a web beacon to allow us to determine the number of people who open our emails and information such as when and how many times the email was viewed, whether any links were clicked on and whether the email was forwarded. When you click on a link in an email, we may record this individual response to customise our offerings to you. Web beacons can be refused when delivered via email. If you do not wish to receive web beacons via email, you will need to disable HTML images or refuse HTML emails via your email software, but please note that this is likely to reduce the functionality of such emails.
 
-When we send you emails, we may include a Web Beacon to allow us to determine the number of people who open our emails and information such as when and how many times the email was viewed, whether any links were clicked on and whether the email was forwarded. When you click on a link in an email, we may record this individual response to customise our offerings to you. Web Beacons can be refused when delivered via email. If you do not wish to receive Web Beacons via email, you will need to disable HTML images or refuse HTML emails via your email software, but please note that this is likely to reduce the functionality of such emails.
-
-### Web-tracking
-
-We employ a web-tracking system to track visitor traffic patterns throughout the website. We collect the visitor’s domain name, referral data, browser, platform type and duration of the visit. The information gathered is used to produce overall usage statistics about our website, which we use to evaluate the website. We do not correlate this information with data about individuals. Please note that we do not currently process or comply with any web browser’s ‘do not track’ signal or other similar mechanism that indicates a request to disable online tracking of individual users who visit our website.
+We use Local Shared Objects, such as Flash cookies and Local Storage, such as HTML5, to store content information and preferences. Third parties with whom we partner to provide certain features on our website or to display advertising based upon your web browsing activity also use HTML5 to collect and store information. Various browsers may offer their own management tools for removing HTML5. To manage Flash cookies, please [click here](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html).
 
 ### Forums/Private Messages
 
-If you use the forums or Private Messages on this website, you should be aware that any personally identifiable information you submit there can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages. We are not responsible for the personally identifiable information you choose to submit in these forums or private messages. Please note that you have the ability to hide your e-mail address within the forum section by clicking on “Board Settings” and then going to “privacy settings”. To request removal of your personal information from our blog or community forum, contact us at [privacy@snapsurveys.com](mailto:privacy@snapsurveys.com). In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
+If you use the forums or Private Messages on this website, you should be aware that any personal information you submit there can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages. We are not responsible for the personal information you choose to submit in these forums or private messages. Please note that you have the ability to hide your e-mail address within the forum section by clicking on “Board Settings” and then going to “privacy settings”. To request removal of your personal information from our blog or community forum, contact us at [privacy@snapsurveys.com](mailto:privacy@snapsurveys.com). In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
 
 You have the option of receiving email notifications each time someone replies to the threads or boards you add to your notify list. If you no longer wish to receive these types of notifications simply login to your forum account and modify your notifications.
 
 ### Links to Other Websites
 
-Our website may contain links to and from third party websites, including those of advertisers and our affiliates. If you click on a link to those websites you will leave our website go to the website that you selected. Please note that we cannot accept responsibility or liability for any use of your personally identifiable information by such third parties, and we cannot guarantee that they will adhere to the same privacy practices as us. We encourage you to review the privacy policies of any third party before you submit any personal data to them.
+Our website may contain links to and from third party websites, including those of advertisers and our affiliates. If you click on a link to those websites you will leave our website to go to the website that you selected. Please note that we cannot accept responsibility or liability for any use of your personal information by such third parties, and we cannot guarantee that they will adhere to the same privacy practices as us. We encourage you to review the privacy policies of any third party before you submit any personal data to them.
 
 ### Social Media Features and Widgets
 
-Our website includes Social Media Features, such as the Facebook Like button and Widgets, and the Share this button or interactive mini-programs that run on our website. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our website. Your interactions with these Features are governed by the privacy policy of the company providing it and we cannot accept any liability or responsibility for the use of your information by them.
+Our website includes Social Media Features, such as the Facebook Like button and Widgets, and the Share this button or interactive mini-programs that run on our website. These features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our website. Your interactions with these features are governed by the privacy policy of the company providing them and we cannot accept any liability or responsibility for the use of your information by them.
 
 ### Storage and Security
 
-The information that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area (“EEA”). It may also be processed by staff operating outside the EEA who work for us or one of our suppliers. Such staff may be engaged in, for example, providing you with our services or processing your payment details. By submitting your personally identifiable information and data you agree to this transfer, storing or processing. The security of your personal information is important to us and we will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy.
+The information that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area (“EEA”). It may also be processed by staff operating outside the EEA who work for us or one of our suppliers. Such staff may be engaged in, for example, providing you with our services or processing your payment details. By submitting your personal information and data you agree to this transfer, storing or processing. The security of your personal information is important to us and we will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy.
 
-All information that you provide to us is stored on secure servers. When you enter personal information within the customer login area of the site, we encrypt that information using secure socket layer technology (SSL). Where you use a password to access certain areas of our website you are responsible for keeping this password confidential and must not share it with anyone.
+All information that you provide to us is stored on secure servers. When you enter personal information within the customer login area of the site, we encrypt that information using secure socket layer technology (SSL). Where you use a password to access certain areas of our website and services you are responsible for keeping this password confidential and must not share it with anyone.
 
-We follow generally accepted industry standards to protect the personally identifiable information and data submitted to us, both during transmission and once we receive it. No method of transmission over the internet, or method of electronic storage, is 100% secure, however. Therefore, while we will do our best to protect your personal information, we cannot guarantee its absolute security, and any transmission of data to our website is at your own risk. Once we have received your information, we wil use strict procedures and security features to try to prevent unauthorised access.
+We follow generally accepted industry standards to protect the personal information and data submitted to us, both during transmission and once we receive it. No method of transmission over the internet, or method of electronic storage, is 100% secure, however. Therefore, while we will do our best to protect your personal information, we cannot guarantee its absolute security, and any transmission of data to our website is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access.
 
 ### Changes to Our Privacy Policy
 
 Any changes we may make to this policy in the future will be posted on this page and, where the changes are material, notified to you by email or by means of a notice on our home page, prior to the changes becoming effective. Please check back frequently to see any updates or changes to our privacy policy. You will be deemed to have expressly consented to any change if you continue to use our website and services after the date on which the change becomes effective.
 
-Last Updated 26th February 2014
+Last Updated 2 September 2015
