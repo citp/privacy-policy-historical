@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dedicatedornot.com privacy policy that was archived on 2015-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150616193950id_/http%3A//dedicatedornot.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dedicatedornot.com privacy policy that was archived on 2015-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151216015201id_/http%3A//dedicatedornot.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Dedicated Webserver or Not
 
@@ -49,11 +49,11 @@ Shared web hosting, sometimes called a virtual host, multi-host, or self-serve w
 
 ## Updated Queries
 
-  1. [oscarotero.com](http://oscarotero.com.dedicatedornot.com/)
-  2. [bjdays.com](http://bjdays.com.dedicatedornot.com/)
-  3. [gbfmt.co.jp](http://gbfmt.co.jp.dedicatedornot.com/)
-  4. [arteamal.com](http://arteamal.com.dedicatedornot.com/)
-  5. [plataformac.com](http://plataformac.com.dedicatedornot.com/)
-  6. [ciete.es](http://ciete.es.dedicatedornot.com/)
+  1. [diannaimage.gr](http://diannaimage.gr.dedicatedornot.com/)
+  2. [barkingowl.com](http://barkingowl.com.dedicatedornot.com/)
+  3. [www.khcampsite.co.uk](http://www.khcampsite.co.uk.dedicatedornot.com/)
+  4. [www.petesmusic.net](http://www.petesmusic.net.dedicatedornot.com/)
+  5. [kyonan.net](http://kyonan.net.dedicatedornot.com/)
+  6. [naslovnica.info](http://naslovnica.info.dedicatedornot.com/)
 
 
