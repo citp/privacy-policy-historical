@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the justoneeye.com privacy policy that was archived on 2015-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150615030311id_/http%3A//justoneeye.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the justoneeye.com privacy policy that was archived on 2015-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151216181456id_/http%3A//justoneeye.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy justoneeye.com
 
 At Just One Eye, we make the safety of your shopping experience our highest priority. We have implemented the latest and most comprehensive safeguards to make your transactions secure in every way. While it is necessary for us to collect certain personal information in the course of doing business, we closely guard the privacy of your personal information, from browsing history to payment method. We protect your right to privacy as set forth in this Privacy Policy, which applies to this Site but not other sites to which we link. You agree that your use of the Site constitutes your assent to this Privacy Policy.
 
