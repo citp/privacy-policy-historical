@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the inventorspot.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629111715id_/http%3A//inventorspot.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inventorspot.com privacy policy that was archived on 2015-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151216130617id_/http%3A//inventorspot.com/privacypolicy) for the most accurate reproduction.*
 
 # InventorSpot.com Privacy Policy
 
