@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teapplix.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607193506id_/http%3A//www.teapplix.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teapplix.com privacy policy that was archived on 2015-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151216092204id_/http%3A//www.teapplix.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -24,7 +24,7 @@ By submitting personal information to us or using our site, you agree that we ma
 
 ### Removal from our Database
 
-To request removal from the database, simply [contact us](http://www.teapplix.com/contact.html) and we will be happy to remove your information immediately. Every email sent to you from Teapplix will also include a link to remove your email address from the mail server. If you request that we modify or remove all of your personal information, we will promptly do so, to the extent possible. Once your personal information has been removed you will not be able to use our services unless you re-register. 
+To request removal from the database, simply [contact us](https://web.archive.org/contact.html) and we will be happy to remove your information immediately. Every email sent to you from Teapplix will also include a link to remove your email address from the mail server. If you request that we modify or remove all of your personal information, we will promptly do so, to the extent possible. Once your personal information has been removed you will not be able to use our services unless you re-register. 
 
 ### Changing of personal information
 
@@ -32,4 +32,4 @@ You may edit your personal information at any time by clicking on the “My Acco
 
 ### Questions, comments, concerns
 
-All questions, comments and concerns can be submitted via the [contact us form](http://www.teapplix.com/contact.html). You will receive an answer as soon as possible.
+All questions, comments and concerns can be submitted via the [contact us form](https://web.archive.org/contact.html). You will receive an answer as soon as possible.
