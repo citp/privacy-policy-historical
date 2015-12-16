@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the slco.org privacy policy that was archived on 2015-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150618082041id_/http%3A//www.slco.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the slco.org privacy policy that was archived on 2015-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151216170208id_/http%3A//slco.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy- | Salt Lake County
 
@@ -58,4 +58,4 @@ Visitors may also wish to consult privacy guidelines such as those recommended b
 
 #### Contacting Us Regarding Your Personally Identifiable Information
 
-If you have submitted personally identifiable information through a SLCo website or if someone else has submitted your personally identifiable information through a Salt Lake County website, and you would like to have that information deleted from our databases, please contact us at [webadmin@slco.org](http://slco.org/tools/mail/mail.cfm?PID=150&OID=14100&CC=0 "Email Webadmin").
+If you have submitted personally identifiable information through a SLCo website or if someone else has submitted your personally identifiable information through a Salt Lake County website, and you would like to have that information deleted from our databases, please contact us at [webHelp@slco.org](http://slco.org/tools/mail/mail.cfm?PID=150&OID=14100&CC=0 "Email WebHelp").
