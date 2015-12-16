@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the givex.com privacy policy that was archived on 2015-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150614224720id_/http%3A//web1.givex.com/corporate/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the givex.com privacy policy that was archived on 2015-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151216053656id_/http%3A//web1.givex.com/corporate/privacy) for the most accurate reproduction.*
 
 # Privacy | Givex - Gift Cards, Cloud-based POS, Loyalty | US + Canada
 
@@ -44,6 +44,6 @@ We use state-of-the-art technology to keep your Personal Information as secure a
 Givex reserves the right to change or remove this Privacy Policy at our discretion. Whenever we make any alteration to this Privacy Policy, we will post the changes here. We encourage you to visit this area frequently to stay informed.
 
   **WHO TO CONTACT**  
-Please write to us at [privacy-officer@givex.com](mailto:privacy-officer@givex.com) or Attention: Privacy Officer, Givex, c/o 400-366 Adelaide St. W., Toronto, Ontario, M5V 1R9 if you have any comments or questions about this Privacy Policy, or to do any of the following:
+Please write to us at [privacy-officer@givex.com](mailto:privacy-officer@givex.com) or Attention: Privacy Officer, Givex, c/o 134 Peter St, Suite 1400, Toronto, Ontario, M5V 2H2 if you have any comments or questions about this Privacy Policy, or to do any of the following:
 
 Again, Givex is committed to protecting your privacy in connection with this web site. Please do not hesitate to contact us if you have any questions, comments or concerns about this Privacy Policy.
