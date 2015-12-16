@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the statefarm.com privacy policy that was archived on 2015-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150616222357id_/https%3A//www.statefarm.com/customer-care/privacy-security/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the statefarm.com privacy policy that was archived on 2015-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151216085941id_/https%3A//www.statefarm.com/customer-care/privacy-security/privacy) for the most accurate reproduction.*
 
 # State Farm Privacy Policy – State Farm®
 
 PRIVACY & SECURITY
 
 ## State Farm® Family of Companies**
-
-Click to view: [Privacy Notice - Canada](https://www.statefarm.ca/customer-care/privacy-security/privacy)
 
 We value your privacy. This policy describes how we handle personally identifiable information and is provided the first time we do business with you and every year you are a State Farm customer.
 
@@ -30,4 +28,4 @@ We maintain physical, electronic, and procedural safeguards to protect nonpublic
 ©Copyright, State Farm Mutual Automobile Insurance Company, 2015   
 Home Offices: Bloomington, IL 61710-0001
 
-Last Updated 1/15©
+Last Updated 7/15
