@@ -1,36 +1,138 @@
-> *The following text is extracted and transformed from the superbuy.my privacy policy that was archived on 2014-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141216010303id_/http%3A//www.superbuy.my/shop/t-privacyandsecurity.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the superbuy.my privacy policy that was archived on 2015-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151216151540id_/http%3A//www.superbuy.my/shop/t-privacyandsecurity.aspx) for the most accurate reproduction.*
 
 # Privacy & Security
 
-**Overview  
-**Your privacy is important to us, so we have created the following Privacy and Security Policy to let you know what information is collected when you visit www.superbuy.my, why it is collected and how we use it. This Privacy and Security Policy also addresses our data security practices, the options you have to access and control any personally identifiable information you provide to us, and other matters.This Privacy and Security Policy is governed by our _Terms of Use_. We may occasionally make changes to this Privacy and Security Policy which will be included on this page in part or as a whole. It is your responsibility to review this Privacy and Security Policy frequently and remain informed about its content.Please contact us if you have any questions related to our Security & Privacy Policy. **Collecting Personal Information  
-**Superbuy does not collect personal information from you (your name, addresses, e.g.) when you visit our website. If you choose to provide this information to us, it is only used to fulfill your request for information or your consent to receive communication from Superbuy. Such communication can include: electronic newsletters, offline mailings, notification of new product arrivals, promotions, contests and customer service calls regarding orders you have placed. We will not contact you for any marketing or promotional purposes.If you place an order on our website, we will collect your first and last name, home or other address, telephone number, email address and billing, payment and financial information. If you do not provide such information, we will be unable to complete your purchase. We use this information to complete, support and analyze your purchases from superbuy.my.This information may also be used for internal purposes and to comply with any requirements of This information may be disclosed to our staff and to third parties involved in the completion of your transaction (credit card provider, e.g.) the delivery of your order (supplier, shipping carrier, e.g.) or the analysis and support of your use of the superbuy.my website.  
+As part of Superbuy.my's compliance to The Personal Data Protection Act 2010 (PDPA) and commitment towards protecting of our member's personal information, Superbuy.my has put in place a personal data protection and compliance principles which Superbuy.my stands guided by in the provision of our products and services to our members/customers. 
+
+Please read Superbuy.my Privacy Statement to understand how we use the personal data which we may collect from you. By providing your Personal Information to us, you are consenting to this Privacy Statement, and the collection, the use, the access, the transfer, the storage, and the processing of your personal information as describe in this Privacy Statement. 
+
+1\. What does this Privacy Statement About 
+
+This Privacy Statement is about: 
+
+  * What kind of your personal information we collect
+  * How your personal information is collected
+  * How we use your personal information
+  * When we disclose your personal information
+  * When we transfer your personal information
+  * Your right to access and correct your personal data
 
 
-**Collecting Technical Information**  
 
-_Superbuy.my_ uses cookies to keep track of what you have in your shopping cart and to remember you when you return to our store. Cookies are very tiny files that are stored on your computer when you visit certain web pages that record your preferences. They cannot harm your computer and they do not contain any personal or private information. You must accept cookies to make a purchase at Superbuy.my.   
-  
-As you browse our website, we may gather navigational and clickstream data that shows what pages are visited and how long various features are used. This information will not reveal your identity or be linked to you personally. We use this information to complete, analyze and support your purchases from superbuy.my and use of the web site to comply with any requirements of law and to determine the commissions for our Affiliates. 
+2\. What is Personal Data 
 
-We 
+Personal data is any information which relates directly or indirectly to you. This includes any information which can be used to identify or contact you. 
 
-may use third-party advertising companies to serve ads on our behalf. These companies may employ cookies and action tags to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous.
+3\. What are the kind of Personal Information We Collect 
 
-**Sharing Personal and/or Technical Information**  
+In order for us to provide you with our Products and Services, and to operate in an efficient and effective manner, we need to collect relevant personal information from you. The personal information collected by us may include (but is not limited to) the following:- 
 
-We take your privacy seriously. We only share your personal information when it is necessary to complete your order (submitting your address to a supplier and/or shipping carrier, e.g.) or to fulfill a legal requirement or request if we have belief that such action is necessary. 
+  * contact information such as your full name, supporting documents (including MyKad/NRIC/Passport, statements, etc) date of birth, gender, nationality and race, preferred language, current private and/or business address, telephone number, email address
+  * credit card information and bank account details
+  * the status of the services you have subscribed from us
+  * your personal interests and preferences to help us to better improve our Products and Services
+  * how you use the Products and Services
+  * the equipment you use when accessing our Websites, Products and/or Services (such as your handphone, your computer system and platform) to customize the service for you
 
-We may disclose your information if necessary to protect our legal rights, if the information relates to actual or threatened harmful conduct, or superbuy.my has good faith belief that such action is necessary to (1) conform to the requirements of law or comply with governmental orders, court orders, or legal process served on superbuy.my or (2) to protect and defend the property or rights of superbuy.my, the users of its website or the public. This includes exchanging information with other companies and organizations for fraud protection and credit risk protection. If superbuy.my should ever file for bankruptcy or merge with another company, we may sell the information you provide to Superbuy to a third party or share your personal information with the company we merge with.  
 
 
-**Links**  
+4\. When and How we collect your personal data? 
 
-Superbuy website may contain links to other sites. Superbuy is not responsible for the privacy practices or the content of such sites. This Privacy & Security Policy applies solely to information collected on superbuy.my. 
+We may collect your personal data from your when you:- 
 
-**Security**  
+  * you register/subscribe as as new member
+  * you use our Products and/or Services
+  * participate in any of our surveys
+  * participate in any of our marketing campaign and/or promotions
+  * enter and/or participate in any contests, loyalty programmes, competition run/organized by us
+  * response to any marketing materials we send out (newsletter, etc)
+  * visit or browse our websites
+  * lodge a complaint with us
+  * provide feedback and/or suggestions to us (via our website or in hard copy)
 
-We offer secure web pages to collect certain kinds of user information, and we store certain kinds of data in encrypted form. We follow reasonable technical and management practices to help protect the confidentiality, security and integrity of data stored on our system. While no computer system is completely secure, we believe the measures implemented by our website reduce the likelihood of security problems to a level appropriate to the type of data involved.Superbuy.my servers use Secure Sockets Layer (SSL), an encryption technology that works with Microsoft Internet Explorer, Firefox, Safari, and AOL's browser, so that only superbuy.my can read a customer's personal information.We generally keep user data on our server or in our archives for as long as we deem reasonable. We may alter this practice according to changing requirements. We may keep other data for longer periods if the law requires it. Additionally, information posted in a public forum (such as a frequently asked question, article comment, or product review) could stay in the public domain indefinitely.  
-**Your Consent to this Policy  
-**By using the superbuy.my websitel you are agreeing to this Privacy and Security Policy.  Our Terms of Use take precedence over any conflicting Policy provision. We may change our Privacy and Security Policy by posting a new version of the policy on this page which is your responsibility to review frequently.  
 
+
+When you access our websites, please be aware that: 
+
+  * your IP address and information about your visit (such as time stamp, date, duration etc) will be automatically picked up by Superbuy.my's systems.
+  * a "cookie" may be attached when you enter. Cookies are pieces of information that websites transfer to your computer's hard drive for record-keeping purposes. The use of cookies is now an industry standard, and you will find them used on most major web sites and in fact, most browsers are initially set up to accept cookies. If you prefer, you can reset your browser either to notify you when you have received a cookie, or to refuse to accept cookies. Please also note that your user experience will be affected and areas of certain sites will not function properly if you set your browser to not accept cookies.
+  * our websites may contain links to third parties sites and Superbuy.my will always try to make it clear when you leave our sites as Superbuy.my is not responsible for 
+    1. such third parties sites and
+    2. information which you made available at such third parties sites
+
+
+
+As such, it would be prudent for you to check on the privacy policy of such third parties before disclosing your personal information to such third parties and/or sites. 
+
+5\. How We Use Your Personal Information 
+
+The mandatory personal information we collect from you will be used and or shared within our corporate group and to third parties for one or the following purposes:-
+
+  * to verify your identity
+  * to assess and process your application(s) /request(s) for our Products and/or Services
+  * to provide you with the Products and/or Services you have requested
+  * to administer and manage the Products and/or Services we provide you (including charging, billing, facilitating payments)
+  * to investigate and resolve any service issues, billing and fees queries, complaints or other inquiries that you submit to us regarding our Products and Services
+  * to detect and prevent fraudulent activity
+  * to keep in contact with you and provide you with any information you have requested
+  * to engage in business transactions in respect of Products and/or Services to be offered and provided to you
+  * to establish and better manage any business relationship we may have with you
+  * to process any communications you send us (for example, answering any queries and dealing with any complaints and feedback)
+  * to help us monitor and improve the performance of our Products and Services, our customer support/relations teams and to make these more efficient
+  * to maintain and develop our business systems and infrastructure, including testing and upgrading of these systems
+  * to manage staff training and quality assurance
+  * to notify you about benefits and changes to the features of our Products and/or Services
+  * to determine how can we improve services to you
+  * to investigate, respond to, or defend claims made against, or involving Interbase Resources
+  * to conduct marketing activities (for example, market research)
+
+
+
+6\. Disclosure of Your Personal Information 
+
+As a part of providing you with our Products and/or Services and the management and/or operation of the same, we may be required or need to disclose information about you to the following third parties: 
+
+  * law enforcement agencies
+  * government agencies
+  * companies and/or organizations that act as our agents, contractors, service providers and/or professional advisers
+  * other parties in respect of whom you have given your express or implied consent
+  * customer inquiry and other customer related services (including telemarketing);
+  * data processing services
+  * information technology services
+  * media and marketing services (including advertising)
+  * market research and website usage analysis services
+
+
+
+subject at all times to any laws (including regulations, guidelines and/or obligations) applicable to Interbase Resources. 
+
+7\. If Your Personal Information Provided Is Incomplete 
+
+Where indicated (for example in registration/application forms), it is obligatory you provide your personal information to us to enable us to process your application for our Products and/or Services. 
+
+Should you decline to provide such obligatory personal information or wish to limit the processing of your personal information, we may not be able to process your application/request or provide you with our products or services
+
+8\. Access to Your Personal Data 
+
+We can assist you to access, and correct and limit the processing of your personal information held by us. 
+
+If you wish to have access to your personal information in our possession, or where you are of the opinion that such personal information held by us is inaccurate, incomplete, misleading or where relevant, not up-to-date or should you wish to limit the processing of your personal information including personal data relating to other persons who may be identified from that personal data, you may make a request to us by email our Feedback department. You should quote your UserID, full name, email address, mailing/billing address and handphone/ fixed phone number and provide brief details of the information you want a copy of in any such request. We shall charge a processing fee for searching for and providing you with access to your personal information to cover administration costs. 
+
+We will use reasonable efforts to comply with your request to access or correct or limit the processing of your personal information within 21 days of receiving your request and the relevant processing fee. 
+
+Please note that we may have to withhold access to your personal information in certain situations, for example when we are unable to confirm your identity or where information requested for is of a confidential commercial nature or in the event we receive repeated requests for the same information. Nevertheless, we will notify you of the reasons for not being able to accede to your request.
+
+9\. Your Obligations as A Member 
+
+You are responsible for providing accurate and complete information to us about yourself and any other person whose personal information you provide us and for updating this personal information as and when it becomes incorrect or out of date by contacting Superbuy.my via the contact details provided below. This obligation is a condition to the provision of our Products and/or Services to you and/or any other person authorised or permitted by you or your organisation/company to use the Products and/or Services. 
+
+In the event you may need to provide us with personal information relating to third parties (for example about your business partner, spouse or children or where you are the designated person in charge (from an organisation or company) for dealing with us, if you are acquiring and are responsible for a service and/or product that they will use), you confirm that you have (i) obtained their consent or otherwise entitled to provide their personal information to us and for us to use accordingly, and (ii) informed them to read this Privacy Statement at our website at www.superbuy.my/shop/t-privacyandsecurity.aspx
+
+10\. Updates To Our Privacy Statement 
+
+We may be required to revise and/or modify this Privacy Statement from time to time and the updated version shall apply and supersede any and all previous versions, including but not limited to, booklets, leaflets or hard copy versions. By continuing to use Superbuy.my's Products and Services after the communication of such revision and/or modification, you are accepting and consenting to such revision and/or modification.   
+Please check our website and/or our Announcement site for information on our most up-to-date practices. 
+
+11\. Our Contact Details 
+
+If you are not satisfied with the way in which we handle your enquiry or complaint, please don't hesitate to contact Customer Service at sales@superbuy.my.
