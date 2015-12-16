@@ -1,6 +1,16 @@
-> *The following text is extracted and transformed from the icicibank.co.uk privacy policy that was archived on 2014-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141031230600id_/http%3A//www.icicibank.co.uk/personal/faqs/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the icicibank.co.uk privacy policy that was archived on 2015-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151216024627id_/http%3A//www.icicibank.co.uk/personal/faqs/privacy-policy.page) for the most accurate reproduction.*
 
-# ICICI Bank UK – retail, business, corporate and investment banking
+# Privacy Policy-Banking Security,Protection Policies-ICICI Bank UK
+
+## Frequently asked questions
+
+Here you can quickly find answers to our customers’ most common questions.
+
+  * Like to know more about managing one of your accounts?
+  * Need additional information about a product or service?
+  * You can call us 24/7 on 0344 412 4444 (Calls to this number use free plan minutes if available, otherwise they cost the same as 01/02 prefix calls) 
+
+
 
 Data Protection: ICICI Bank UK PLC (ICICI Bank) is committed to keeping your information private. This Policy together with ICICI Bank’s Website Terms of Use sets out the basis on which any personal information ("your information") we collect from you or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal information and how we will treat it. For the purpose of the Data Protection Act 1998 ("the Act") ICICI Bank is the data controller of your information.
 
@@ -39,7 +49,7 @@ We will not disclose any of your information outside the Group except:
 
 
 
-Please contact us at 0844 412 4444 (calls cost 5 pence per minute plus your phone company's access charge) if you want to receive details of the relevant fraud prevention agencies. 
+Please contact us at 0344 412 4444 (Calls to this number use free plan minutes if available, otherwise they cost the same as 01/02 prefix calls) if you want to receive details of the relevant fraud prevention agencies.
 
   * to government entities and regulatory bodies in order that those entities may discharge their responsibilities and obligations or exercise their powers or functions.
   * To persons who act as our agents and service providers. Where we use agents and service providers this will be under a strict code of confidentiality and we will ensure that they have adequate security measures in place to safeguard your information; 
@@ -49,24 +59,20 @@ Please contact us at 0844 412 4444 (calls cost 5 pence per minute plus your phon
 
 
 
-We and other organisations may access and use from other countries the information recorded by fraud prevention agencies. 
+We and other organisations may access and use from other countries the information recorded by fraud prevention agencies.
 
-We will use your information to inform you by mail, telephone or email about products and services that may be of interest to you. You can tell us if you don’t want to receive such marketing information. 
+We will use your information to inform you by mail, telephone or email about products and services that may be of interest to you. You can tell us if you don’t want to receive such marketing information.
 
-Use of cookies
+## Use of cookies
 
-We obtain information about your general internet usage through a cookie file which is stored on the hard drive of your computer. Cookies contain information that is transferred to your computer's hard drive. They help us to improve our website and to deliver a better and more personalised service. 
+We obtain information about your general internet usage through a cookie file which is stored on the hard drive of your computer. Cookies contain information that is transferred to your computer's hard drive. They help us to improve our website and to deliver a better and more personalised service.
 
 ICICI Bank currently uses the following cookies on its websites –
 
-  
-**Cookie** | **Type of cookie** | 
-
-**Current use**  
-  
+Cookie | Type of cookie |  Current use   
 ---|---|---  
   
-inifinity.icicibank.co.uk 
+inifinity.icicibank.co.uk
 
 | 
 
@@ -74,7 +80,7 @@ Persistent
 
 | 
 
-This cookie is used for your protection and helps prevent unauthorised access to your Internet Banking account. This is required for our Internet Banking Service to operate with a high-level of security.   
+This cookie is used for your protection and helps prevent unauthorised access to your Internet Banking account. This is required for our Internet Banking Service to operate with a high-level of security.  
   
 ui.tabs.js
 
@@ -84,7 +90,7 @@ Session
 
 | 
 
-This is a Java Script file which defines the behavior of the top navigation of our website and is used for faster loading and effective representation of information on it, enabling our site to function as intended.   
+This is a Java Script file which defines the behavior of the top navigation of our website and is used for faster loading and effective representation of information on it, enabling our site to function as intended.  
   
 ga.js
 
@@ -94,7 +100,7 @@ ga.js
 
 3)_utmz
 
-4)_utmc 
+4)_utmc
 
 | 
 
@@ -102,9 +108,9 @@ Persistent / Session
 
 | 
 
-These cookies are used by Google Analytics and give us information about how visitors use our website. The cookies collect information in an anonymous form, including the number of visitors to the site, how visitors were directed to the website, and the pages they have visited. They are used across _[www.icicibank.co.uk](http://www.icicibank.co.uk/)_ and _[www.onlinetravelmoney.co.uk](http://www.onlinetravelmoney.co.uk/)_ .
+These cookies are used by Google Analytics and give us information about how visitors use our website. The cookies collect information in an anonymous form, including the number of visitors to the site, how visitors were directed to the website, and the pages they have visited. They are used across [www.icicibank.co.uk](https://web.archive.org/) and [www.onlinetravelmoney.co.uk](http://www.onlinetravelmoney.co.uk/) .
 
-Click here for an overview of the privacy policy at Google ([http://www.google.co.uk/intl/en/analytics/privacyoverview.html](https://web.archive.org/web/20141031230600id_/http%3A//www.icicibank.co.uk/personal/faqs/cookies_google_popup.html?&height=300&width=500&modal=true "Cookies"))  
+Click here for an overview of the privacy policy at Google ([http://www.google.co.uk/intl/en/analytics/privacyoverview.html](https://web.archive.org/personal/faqs/cookies_google_popup.page?))  
   
 REALURLMEDOC%23onlinetravelmoney
 
@@ -116,29 +122,29 @@ Persistent / Session
 
 This cookie is required for completing e-commerce transactions on www.onlinetravelmoney.co.uk.  
   
-You may refuse to accept cookies by activating the setter on your browser which allows you to refuse the setting of cookies. However, if you select this setting you may be unable to access certain parts of our website. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies when you log on to our site. Please note that our advertisers may also use cookies over which we have no control. For information on how to control and/or disable your cookies please [click here](https://web.archive.org/web/20141031230600id_/http%3A//www.icicibank.co.uk/personal/faqs/cookies_popup.html?&height=300&width=500&modal=true "Cookies")
+You may refuse to accept cookies by activating the setter on your browser which allows you to refuse the setting of cookies. However, if you select this setting you may be unable to access certain parts of our website. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies when you log on to our site. Please note that our advertisers may also use cookies over which we have no control. For information on how to control and/or disable your cookies please [click here](https://web.archive.org/personal/faqs/cookies_popup.page?)
 
-Telephone banking 
+## Telephone banking
 
 When you call the telephone banking service, we will verify your identity by asking you a number of questions based on information known to us about you and the transactions on your account. We may record your calls for training, quality and security purposes.
 
-Customer email and internet communication
+## Customer email and internet communication
 
 We may communicate with you via electronic mail (e-mail). We will never ask you for your password or account number. We are committed to keep your information confidential at all times.
 
-**Retention and disposal of data and output**
+## Retention and disposal of data and output
 
 We adhere to the Act and relevant regulatory requirements pertaining to retention of your information and we will ensure that your information is securely disposed of at the end of the appropriate retention period.
 
-Storage of your personal information
+## Storage of your personal information
 
-All information you provide to us is stored in our secure servers. Where we have given you (or where you have chosen) a password which enables you to access certain parts of our website, you are responsible for keeping this password confidential. We ask you not to share your password with anyone. 
+All information you provide to us is stored in our secure servers. Where we have given you (or where you have chosen) a password which enables you to access certain parts of our website, you are responsible for keeping this password confidential. We ask you not to share your password with anyone.
 
 Unfortunately, the transfer of information via the internet is not completely secure. Although we will do our best to protect your information, we cannot guarantee the security of your information transmitted to our site. Once we have received your information we will use strict procedures and security features to try to prevent unauthorized access.
 
 There is a separate section on our site relating to online security which we recommend you read.
 
-Access to your information 
+## Access to your information
 
 You may access your information (in return for a fee of £10) and request details of the entities with whom we have shared your information by writing to Manager- Service Quality, ICICI Bank UK PLC, 2nd Floor, One Thomas More square, London, E1W 1YN. You may ask us to make changes in your personal information to ensure that it is accurate and up-to-date. To protect your privacy and security, we may take reasonable steps to verify your identity before providing you with the details.
 
@@ -147,5 +153,3 @@ Questions, comments and requests regarding this Policy are welcomed and should b
   * [ukservice@icicibank.com](mailto:ukservice@icicibank.com "mailto:ukservice@icicibank.com") (For Branch Banking Customers) or [ukdirect@icicibank.com](mailto:ukdirect@icicibank.com) (For HiSAVE Customers)
 
 
-
-Back to top
