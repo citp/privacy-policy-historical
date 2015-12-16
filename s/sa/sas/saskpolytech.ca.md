@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the saskpolytech.ca privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612015718id_/http%3A//saskpolytech.ca/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the saskpolytech.ca privacy policy that was archived on 2015-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151216202002id_/http%3A//saskpolytech.ca/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy
 
@@ -133,7 +133,6 @@ Links to FAQ's relating to a number of the policies are provided in the electron
 
 Questions about this privacy statement or concerns about your privacy or about access to information may be directed, in writing, to Saskatchewan Polytechnic's Privacy Head at the following address: 
 
-_Sylvia J. Dycer - Privacy Head_  
 Saskatchewan Polytechnic Administrative Offices   
 400 - 119 4th Ave. S  
 Saskatoon SK S7K 5X2  
@@ -141,8 +140,8 @@ Saskatoon SK S7K 5X2
 
 **Additional Resources** **** _Office of the Saskatchewan Information and Privacy Commissioner  _  
 503 - 1801 Hamilton Street  
-Regina, Saskatchewan S4P 4B4  Telephone:  (306) 787-8350  
+Regina, Saskatchewan S4P 4B4  Telephone:  306-787-8350  
 Toll Free Telephone (within Saskatchewan): 1-877-748-2298  
-Facsimile:  (306) 798-1603  
+Fax:  306-798-1603  
 E-mail:  [webmaster@oipc.sk.ca](mailto:webmaster@oipc.sk.ca?destined_for=OIPC&subject=OIPC%20Webmaster)  
 Website: [www.oipc.sk.ca/default.htm](http://www.oipc.sk.ca/default.htm)
