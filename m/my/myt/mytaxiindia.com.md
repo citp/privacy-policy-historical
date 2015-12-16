@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mytaxiindia.com privacy policy that was archived on 2015-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150615103843id_/http%3A//www.mytaxiindia.com/privacy_and_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mytaxiindia.com privacy policy that was archived on 2015-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151216173317id_/http%3A//www.mytaxiindia.com/privacy_and_policy.php) for the most accurate reproduction.*
 
-# Privacy and Policy | My Taxi India
+# myTaxiIndia
 
 This privacy policy sets out how **My Taxi India** uses and protects any information that you give **My Taxi India** when you use this website.
 
@@ -8,7 +8,7 @@ This privacy policy sets out how **My Taxi India** uses and protects any informa
 
 **My Taxi India** may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from 20 December 2012.
 
-### What we collect :
+#### What we collect :
 
 **We may collect the following information-**
 
@@ -17,9 +17,10 @@ This privacy policy sets out how **My Taxi India** uses and protects any informa
   * Demographic information such as postcode, preferences and interests.
   * Other information relevant to customer surveys and/or offers.
 
+  
 
 
-### What we do with the information we gather :
+#### What we do with the information we gather :
 
 **We require this information to understand your needs and provide you with a better service, and in particular for the following reasons:**
 
@@ -28,13 +29,14 @@ This privacy policy sets out how **My Taxi India** uses and protects any informa
   * We may periodically send promotional emails about new products, special offers or other information which we think you may find interesting using the email address which you have provided.
   * From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail. We may use the information to customise the website according to your interests.
 
+  
 
 
-### Security :
+#### Security :
 
 We are committed to ensuring that your information is secure. In order to prevent unauthorized access or disclosure we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.
 
-### How we use cookies :
+#### How we use cookies :
 
 A cookie is a small file which asks permission to be placed on your computer's hard drive. Once you agree, the file is added and the cookie helps analyze web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.
 
@@ -44,11 +46,11 @@ Overall, cookies help us provide you with a better website, by enabling us to mo
 
 You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.
 
-### Links to other websites :
+#### Links to other websites :
 
 Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
 
-### Controlling your personal information :
+#### Controlling your personal information :
 
 **You may choose to restrict the collection or use of your personal information in the following ways-**
 
@@ -63,11 +65,11 @@ You may request details of personal information which we hold about you under th
 
 If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.
 
-### Contacting Us :
+#### Contacting Us :
 
 **If there are any questions regarding this privacy policy you may contact us using the information below :**
 
 **Company Name :** My Taxi India  
-**Address :** 17A/22 Second Floor, Azmal Khan Road, Karolbagh, New Delhi - 110005(INDIA)  
-**Telephone No. :** +91-11-4505 8964  
-**E-Mail ID :** info@mytaxiindia.com
+**Address :** 25B, GROUND FLOOR, TOWER B, SPAZE I-Tech PARK, SECTOR-49, SOHNA ROAD, GURGAON(INDIA)-122001  
+**Telephone No. :** +91-124-4225722  
+**E-Mail ID :** booking@mytaxiindia.com
