@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the websiteclosers.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609092042id_/http%3A//www.websiteclosers.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the websiteclosers.com privacy policy that was archived on 2015-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151216171700id_/http%3A//www.websiteclosers.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy |
 
@@ -90,17 +90,17 @@ Every business acquisition is different, which means the methods used to acquire
 
 We offer a FREE Seller Consultation, so it costs you nothing upfront to learn what we can do for you. We encourage you to give us a call, talk to our team, and we will prove that we have the experience, skills and drive to sell your business using our professional sales strategies.
 
-  * 3Jun
+  * 14Dec
 
-## [Marketing Trends Online to Change the Essence of Inbound Marketing](http://www.websiteclosers.com/marketing-trends-online-to-change-the-essence-of-inbound-marketing/)
+## [Increase Your Social Media Traffic](http://www.websiteclosers.com/increase-your-social-media-traffic/)
 
-Remember the phrase, “Never leave home without it?” That phrase, coined by American Express several decades ago ...
+Social media is relatively new, of course, and you want to make the most of it with your blog content and twitter ...
 
-  * 25May
+  * 4Dec
 
-## [Make Sure the “Commerce” Gets into Your Ecommerce Website](http://www.websiteclosers.com/make-sure-the-commerce-gets-into-your-ecommerce-website/)
+## [Increase Your Website Value by Increasing the Power of Personal Connections](http://www.websiteclosers.com/increase-your-website-value-by-increasing-the-power-of-personal-connections/)
 
-Whether you have recently purchased an eCommerce site through an eCommerce business broker, or you are trying to ...
+Sure, the internet is worldwide, which means you’ll never, ever, meet all of your customers. But what about the ...
 
   * 
 
