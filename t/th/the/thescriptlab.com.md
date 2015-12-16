@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thescriptlab.com privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628012803id_/http%3A//thescriptlab.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thescriptlab.com privacy policy that was archived on 2015-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151216204148id_/http%3A//thescriptlab.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - The Script Lab
 
@@ -83,17 +83,17 @@ By using our site, you consent to our [online privacy policy](http://thescriptla
 
 If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below. 
 
-This policy was last modified on 02/25/2010
+**_This policy was last modified on December 14, 2015._**
 
  **Contacting Us**
 
 If there are any questions regarding this privacy policy you may contact us using the information below. 
 
 TSL Media Inc.  
-3370 N Hayden Rd., Suite #123-722  
-Scottsdale, AZ 85251  
+8228 Sunset Boulevard, Suite #106  
+West Hollywood, CA 90046  
 USA  
-[info@thescriptlab.com](mailto:info@thescriptlab.com)  
+[help@thescriptlab.com](mailto:help@thescriptlab.com?subject=Privacy%20Inquiry)  
 
 
 * * *
