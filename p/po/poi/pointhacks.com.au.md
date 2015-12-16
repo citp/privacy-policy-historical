@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pointhacks.com.au privacy policy that was archived on 2015-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150617113816id_/http%3A//www.pointhacks.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pointhacks.com.au privacy policy that was archived on 2015-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151216021957id_/http%3A//www.pointhacks.com.au/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Point Hacks
 
@@ -8,10 +8,10 @@ Point Hacks ABN 76161153603 (“Point Hacks”) realises the importance of prote
 
 We collect information from you when you:
 
-  * register as a member of the Point Hacks Community;
-  * sign up to our newsletter or other notifications;
+  * register as a member of the Point Hacks Community; 
+  * sign up to our newsletter or other notifications; 
   * respond to a survey or fill out a form; and
-  * communicate with us by phone or email in relation to your access to and use of the Website or the information contained therein.
+  * communicate with us by phone or email in relation to your access to and use of the Website or the information contained therein. 
 
 
 
@@ -55,7 +55,7 @@ You can contact us to access or correct your personal information using the cont
 
 If there are any questions regarding this privacy policy or if you would like to submit a complaint relating to the way we have handled your personal information, you may contact us using the information below.
 
-Point Hacks support: [http://feedback.pointhacks.com.au](http://feedback.pointhacks.com.au/)
+Point Hacks support: [assist@pointhacks.com.au](mailto:assist@pointhacks.com.au)
 
 If you have a complaint, you also have the right to complain to the Office of the Australian Privacy Commissioner, tel: 1300 363 992 or email: privacy@privacy.gov.au.
 
