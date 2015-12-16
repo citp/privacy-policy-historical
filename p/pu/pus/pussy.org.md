@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pussy.org privacy policy that was archived on 2015-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150617234545id_/http%3A//www.pussy.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pussy.org privacy policy that was archived on 2015-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151216070902id_/http%3A//www.pussy.org/privacy.html) for the most accurate reproduction.*
 
 # Pussy.org - Pussy.org - Free Sexy porn photos and Video galleries to watch online
 
