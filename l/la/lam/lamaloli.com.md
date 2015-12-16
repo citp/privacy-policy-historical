@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lamaloli.com privacy policy that was archived on 2015-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150617013219id_/http%3A//lamaloli.com/en/privacy_notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lamaloli.com privacy policy that was archived on 2015-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151216224724id_/http%3A//lamaloli.com/en/privacy_notice) for the most accurate reproduction.*
 
 # LamaLoLi - Pages
 
@@ -90,10 +90,7 @@ Rheinpromenade 6
 
 40789 Monheim am Rhein
 
-Phone:
-
-UK customers: + 44 333 400 0415  
-Non UK customers: +44 203 514 0700
+Phone: +44 203 514 0700
 
 E-Mail:
 
