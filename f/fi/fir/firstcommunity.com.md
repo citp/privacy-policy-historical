@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the firstcommunity.com privacy policy that was archived on 2015-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150323000422id_/https%3A//www.firstcommunity.com/custom/fi/fccuchesterfieldmo/fb/disclosure/annual_privacy_notice.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the firstcommunity.com privacy policy that was archived on 2015-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151216010120id_/https%3A//www.firstcommunity.com/custom/fi/fccuchesterfieldmo/fb/disclosure/annual_privacy_notice.pdf) for the most accurate reproduction.*
 
 # FACTS
 
