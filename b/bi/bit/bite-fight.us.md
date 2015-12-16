@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bite-fight.us privacy policy that was archived on 2015-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150616095559id_/http%3A//agbserver.gameforge.com/rewrite.php%3Fgame%3Dbitefight%26page%3Dprivacy%26lang%3Dus) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bite-fight.us privacy policy that was archived on 2015-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151216080429id_/http%3A//agbserver.gameforge.com/rewrite.php%3Fgame%3Dbitefight%26page%3Dprivacy%26lang%3Dus) for the most accurate reproduction.*
 
 # Gameforge
 
