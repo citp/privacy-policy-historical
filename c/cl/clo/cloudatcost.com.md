@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cloudatcost.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610154447id_/http%3A//www.cloudatcost.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cloudatcost.com privacy policy that was archived on 2015-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151216134507id_/http%3A//www.cloudatcost.com/privacy.php) for the most accurate reproduction.*
 
 # Cloudatcost - You don't have to pay sky high prices to be in the Cloud.
 
