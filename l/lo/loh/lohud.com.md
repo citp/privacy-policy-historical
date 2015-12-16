@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lohud.com privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628213710id_/http%3A//static.lohud.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lohud.com privacy policy that was archived on 2015-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151216190044id_/http%3A//static.lohud.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | lohud
 
