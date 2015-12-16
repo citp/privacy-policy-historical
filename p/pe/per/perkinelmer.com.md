@@ -1,43 +1,27 @@
-> *The following text is extracted and transformed from the perkinelmer.com privacy policy that was archived on 2014-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141016020747id_/http%3A//www.perkinelmer.com/OurCompany/AboutUs/Legal/PrivacyPolicy/default.xhtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the perkinelmer.com privacy policy that was archived on 2015-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151216014616id_/http%3A//www.perkinelmer.com/corporate/policies) for the most accurate reproduction.*
 
-# Privacy Policy | PerkinElmer
+# Policies | PerkinElmer
 
-PerkinElmer respects your privacy. We want to make use of personal identification information that you provide to us for purposes of serving you better. "Personal identification information" is information that lets us identify you, such as your email address, name and address. PerkinElmer uses the personal identification information to selectively send you communications that may be of interest to you. PerkinElmer's policy regarding use of your personal identification information supplied to us or collected via your experience at our online web site covers these areas:
+###  [ Privacy Policy __](https://web.archive.org/corporate/policies/privacy-policy.html)
 
-### 1\. Notice and Disclosure
+PerkinElmer respects your privacy. We want to make use of personal identification information that you provide to us for purposes of serving you better. "Personal identification information" is information that lets us identify you, such as your email address, name and address. PerkinElmer uses the personal identification information to selectively send you communications that may be of interest to you.
 
-This Privacy Policy is made available to you in order to make you aware of how PerkinElmer collects and uses personal identification information of visitors to PerkinElmer's web site.
+Updated on October 31, 2014 
 
-In general, you can visit PerkinElmer on the Web without identifying yourself or revealing any personal information. Visitors who register at the site may volunteer information, such as your name, address and email address. If you establish a credit account with PerkinElmer, we collect some additional information, including billing address, credit card number and credit card expiration date and tracking information from checks or money orders.
+###  [ Terms & Conditions __](https://web.archive.org/corporate/policies/terms-conditions.html)
 
-This site uses ClickTale web analytics service. ClickTale may record mouse clicks, mouse movements, scrolling activity as well as any text you type in this website. ClickTale does not collect personally identifiable information that you do not voluntarily enter in this website. ClickTale does not track your browsing habits across web sites which do not use ClickTale services. For more information see Privacy Policy for Information Collected by the ClickTale Web Analytics Service. We are using the information collected by ClickTale service to analyze user interaction and increase site usability. You can choose to disable the Service at <http://www.clicktale.net/disable.html>. 
+This Web site is provided by PerkinElmer, Inc., and its affiliate companies and subsidiaries (hereinafter, "PerkinElmer") and is provided for informational purposes only. By using this site or downloading materials from this site, you agree to these terms and conditions. If you do not agree to be bound by these terms and conditions, please do not use this site or download materials from this site.
 
-PerkinElmer will make some personal identification information available to a limited number of PerkinElmer employees or business affiliates for the purpose of improving products and support.
+Updated on October 31, 2014 
 
-PerkinElmer will not give or sell personal identification information to third parties.
+###  [ Safe Harbor Privacy Policy __](https://web.archive.org/corporate/policies/safe-harbor-privacy-policy.html)
 
-### 2\. Choice/Consent
+PerkinElmer, Inc., together with its predecessors, successors, assignees, subsidiaries, divisions and groups (“PerkinElmer” or the “Company”) strives to collect, use and disclose personal information in a manner consistent with the laws of the countries in which it does business, and has a tradition of upholding high ethical standards in its business practices. PerkinElmer abides by the Safe Harbor Principles developed by the U.S. Department of Commerce and the European Commission and the Frequently Asked Questions (“FAQs”) issued by the Department of Commerce on July 21, 2000. This Applicant Privacy Policy (the "Policy") sets forth the privacy principles that PerkinElmer follows with respect to transfers of Personal Information pertaining to PerkinElmer employees from the European Economic Area (“EEA”) (which includes the fifteen member states of the European Union) to the United States.
 
-Registrants to PerkinElmer's web site have the choice to opt out of having personal identification information provided in the registration process used for any purpose unrelated to the purpose for which the information was provided to us. Visitors may request to be removed from PerkinElmer's information database. Visitors may choose not to receive informational email messages from PerkinElmer. You can choose to disable the ClickTale service at <http://www.clicktale.net/disable.html>.
+Updated on October 31, 2014 
 
-### 3\. Data Accuracy and Updates
+###  [ Additional Privacy Guide __](https://web.archive.org/corporate/policies/additional-privacy-guide.html)
 
-The accuracy of your personal identification information is important to PerkinElmer. Registered PerkinElmer web site users can update their personal identification information online or by writing an email message to the PerkinElmer web site administrator.
+PerkinElmer is committed to protecting any personally identifiable information (i.e., any information by which you can be identified) that you provide to us. We have prepared this Online Privacy Statement to refer you to our [Privacy Policy](https://web.archive.org/corporate/policies/privacy-policy.html) and to explain how you can make the choices about the way your information is collected and used.
 
-### 4\. Cookies
-
-A cookie is a small piece of information that tells a web site you have visited there before.
-
-PerkinElmer sends a small piece of information (the cookie) to your web browser. With your permission, the cookie is stored on your computer's hard drive, taking up less than 100 bytes of disk space. The cookie acts like an identity card every time you visit the PerkinElmer web site. Only PerkinElmer can read the cookie. PerkinElmer cannot read cookies set by other sites.
-
-Cookies save you time. If you have enabled Automatic Logins for your profile, you will not have to provide your name and password when visiting the parts of our site that use PerkinElmer registration.
-
-Cookies also allow PerkinElmer to customize the pages you visit based on previous pages that you've visited.
-
-Cookies help us help you. We learn what is important to our visitors. This allows us to focus our efforts on the information you need.
-
-Much of PerkinElmer can be accessed with cookies disabled. However your visit will be significantly enhanced if cookies are enabled. As time goes on, more and more pages on our site will have the capability to be personalized, which will depend on the existence of a PerkinElmer cookie.
-
-You can set your browser to notify you when you receive a cookie, giving you the chance to decide whether to accept it. Please see the "Help" menu for your browser.
-
-If you want to learn more about cookies, [Cookie Central](http://www.cookiecentral.com/) is an excellent resource.
+Updated on October 31, 2014 
