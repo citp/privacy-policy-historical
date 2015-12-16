@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dish.com privacy policy that was archived on 2015-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150528051524id_/http%3A//www.dish.com/downloads/legal/Website_Privacy_Statement%25203_1_15_final.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dish.com privacy policy that was archived on 2015-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151216061301id_/http%3A//www.dish.com/downloads/legal/Website_Privacy_Statement%25203_1_15_final.pdf) for the most accurate reproduction.*
 
 # DISH Websites Privacy Statement
 
