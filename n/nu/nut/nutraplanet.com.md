@@ -1,83 +1,109 @@
-> *The following text is extracted and transformed from the nutraplanet.com privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611010403id_/http%3A//www.nutraplanet.com/company/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nutraplanet.com privacy policy that was archived on 2015-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151216053942id_/http%3A//nutraplanet.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - NutraPlanet
 
-At NutraPlanet, we recognize the importance of preserving and protecting your privacy. This document outlines the types of personal information we receive and collect when you use our web site and our services, as well as some of the steps we take to safeguard your information.
+This privacy policy sets out how SmartPowders.com uses and protects any information that you give SmartPowders.com when you use this website. SmartPowders.com is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement. SmartPowders.com may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes.
 
-To request a correction or deletion of your private information, or if you have any questions and general comments about this privacy policy, please contact us at [support@nutraplanet.com](mailto:support@nutraplanet.com)
+## What we collect
 
-**Contact Information**
+We may collect the following information:
 
-NutraPlanet  
-111 Bethea Rd Ste 101  
-Fayetteville, GA 30214
-
-phone: 770-460-1365
-
-support email: [support@nutraplanet.com](mailto:support@nutraplanet.com)
-
-**What Information Do We Collect?**
-
-  * NutraPlanet collects personal information when you register for a service or otherwise voluntarily provide such information. We may combine personal information collected from you with information from other services or third parties to provide a better user experience, including customizing content for you.
-  * NutraPlanet uses cookies and other technologies to enhance your online experience and to learn about how you use our services in order to improve overall quality.
-  * NutraPlanet servers automatically record information when you visit our website or use some of our products, including the URL, IP address, browser type and language, and the date and time of your request.
+  * name
+  * contact information including email address
+  * demographic information such as postcode, preferences and interests
+  * other information relevant to customer surveys and/or offers
 
 
 
-**Registration Information**
+For the exhaustive list of cookies we collect see the List of cookies we collect section.
 
-You will provide us information about yourself, your firm or company, and your practices when you register to be a user of our services, register for certain services, or register for email newsletters and alerts.
+## What we do with the information we gather
 
-**Email Information**
+We require this information to understand your needs and provide you with a better service, and in particular for the following reasons:
 
-If you choose to correspond with us through email, we may retain the content of your email messages together with your email address and our responses. If you use our "Email this page" feature to send a copy of that page to someone else, your email address will appear as the sender of the email. Both your email address and the recipient's email address will not be used for any other purpose.
+  * Internal record keeping.
+  * We may use the information to improve our products and services.
+  * We may periodically send promotional emails about new products, special offers or other information which we think you may find interesting using the email address which you have provided.
+  * From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail. We may use the information to customise the website according to your interests.
 
-**How Do We Use the Information That You Provide to Us?**
 
-Generally, we use personal information for purposes of managing and expanding our business activities, providing customer service and making available other products and services to our customers and prospective customers. Occasionally, we may also use the information we collect to notify you about important changes to our Web site, new services and special offers we think you will find valuable.
 
-**Choice/Opt-out**
+## Security
 
-We allow you the choice to opt-out of having your information used for purposes not directly related to our site, when we ask for the information.
+We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure, we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.
 
-Until you explicitly opt-in for the first time we consider you in the opt-out category. We always notify our customers when their information is being collected by any outside parties. We do this so our users can make an informed choice as to whether or not they should proceed with services that require an outside party.
+## How we use cookies
 
-If you do not wish to receive any promotional or marketing e-mails and/or surface mail marketing letters, you may opt-out of receiving those communications by using the opt-out mechanism on the User Account Settings Web page.
+A cookie is a small file which asks permission to be placed on your computer’s hard drive. Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.
 
-**What Are Cookies?**
+We use traffic log cookies to identify which pages are being used. This helps us analyse data about web page traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system.
 
-A cookie is a very small text document, which often includes an anonymous unique identifier. When you visit a Web site, that site's computer asks your computer for permission to store this file in a part of your hard drive specifically designated for cookies. Each Web site can send its own cookie to your browser if your browser's preferences allow it, but (to protect your privacy) your browser only permits a Web site to access the cookies it has already sent to you, not the cookies sent to you by other sites.
+Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us. You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.
 
-**How Do We Use Information We Collect from Cookies?**
+## Links to other websites
 
-As you visit our Web site, the site uses its cookies to differentiate you from other customers. In some cases, we also use cookies to prevent you from seeing unnecessary advertisements or requiring you to log in more than is necessary for security.
+Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
 
-Cookies, in conjunction with our Web server's log files, allow us to calculate the aggregate number of people visiting our Web site and which parts of the site are most popular. This helps us gather feedback in order to constantly improve our Web site and better serve our customers. Cookies do not allow us to gather any personal information about you and we do not generally store any personal information that you provided to us in your cookies.
+## Controlling your personal information
 
-**Sharing Information with Third Parties**
+You may choose to restrict the collection or use of your personal information in the following ways:
 
-We may enter into alliances, partnerships or other business arrangements with third parties who may be given access to personal information including your name, address, and email for the purpose of providing you valuable products and services that we think will be of interest to you.
+  * whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes
+  * if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at sales@nutralive.wpengine.com
 
-When we use third parties to assist us in processing and servicing our customers, we require that they comply with our Privacy Policy and any other appropriate confidentiality and security measures.
 
-**How Do We Protect Your Information?**
 
-_Secure Information Transmissions_
+We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.
 
-Email is not recognized as a secure medium of communication. For this reason, we request that you do not send private information to us by email. Some of the information you may enter on our Web site may be transmitted securely via Secure Sockets Layer SSL, 128 bit encryption services. Pages utilizing this technology will have URLs that start with HTTPS instead of HTTP. Please contact us if you have any questions or concerns.
+You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please write to 1130 Cherry Lane Graham, NC. 27253.
 
-**How Can You Access and Correct Your Information?**
+If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.
 
-You may request access to all your personally identifiable information that we collect online and maintain in our database by contact us, see the above contact information.
+## List of cookies we collect
 
-**What About Other Web Sites Linked to Our Web Site?**
+The table below lists the cookies we collect and what information they store.
 
-We are not responsible for the practices employed by Web sites linked to or from our Web site nor the information or content contained therein. Often links to other Web sites are provided solely as pointers to information on topics that may be useful to the users of our Web site. Please remember that when you use a link to go from our Web site to another Web site, our Privacy Policy is no longer in effect. Your browsing and interaction on any other Web site, including Web sites which have a link on our Web site, is subject to that Web site's own rules and policies. Please read over those rules and policies before proceeding.
+COOKIE name COOKIE Description  
+CART The association with your shopping cart.  
+CATEGORY_INFO Stores the category info on the page, that allows to display pages more quickly.  
+COMPARE The items that you have in the Compare Products list.  
+CURRENCY Your preferred currency  
+CUSTOMER An encrypted version of your customer id with the store.  
+CUSTOMER_AUTH An indicator if you are currently logged into the store.  
+CUSTOMER_INFO An encrypted version of the customer group you belong to.  
+CUSTOMER_SEGMENT_IDS Stores the Customer Segment ID  
+EXTERNAL_NO_CACHE A flag, which indicates whether caching is disabled or not.  
+FRONTEND You sesssion ID on the server.  
+GUEST-VIEW Allows guests to edit their orders.  
+LAST_CATEGORY The last category you visited.  
+LAST_PRODUCT The most recent product you have viewed.  
+NEWMESSAGE Indicates whether a new message has been received.  
+NO_CACHE Indicates whether it is allowed to use cache.  
+PERSISTENT_SHOPPING_CART A link to information about your cart and viewing history if you have asked the site.  
+POLL The ID of any polls you have recently voted in.  
+POLLN Information on what polls you have voted on.  
+RECENTLYCOMPARED The items that you have recently compared.  
+STF Information on products you have emailed to friends.  
+STORE The store view or language you have selected.  
+USER_ALLOWED_SAVE_COOKIE Indicates whether a customer allowed to use cookies.  
+VIEWED_PRODUCT_IDS The products that you have recently viewed.  
+WISHLIST An encrypted list of products added to your Wishlist.  
+WISHLIST_CNT The number of items in your Wishlist.
 
-**Your Consent**
+## Third Party Cookies
 
-By using our Web site you consent to our collection and use of your personal information as described in this Privacy Policy. If we change our privacy policies and procedures, we will post those changes on our Web site to keep you aware of what information we collect, how we use it and under what circumstances we may disclose it. At any time you may request to view any and all changes and updates, via surface mail.
+The following Third-party social networks, advertisers or analytic providers may install cookies as well:
 
-**Notification of Changes**
+  * Google Analytics
+  * Google Commerce
+  * Google Adwords
+  * Bing Advertising
+  * Shopzilla
+  * Facebook
+  * Twitter
+  * AddThis
+  * AdRoll
 
-The Privacy Policy is subject to periodic review and change. In order to view the current Privacy Policy, simply check this section of the website.
+
+
+We currently engage in remarketing with Google Analytics and Adroll to advertise online. Third-party vendors, including Google & AdRoll, show our ads on sites across the Internet. Third-party vendors, including Google & Adrool, use first-party cookies (such as the Google Analytics cookie) and third-party cookies (such as the DoubleClick cookie) together to inform, optimize, and serve ads based on our customers past visits to this website.
