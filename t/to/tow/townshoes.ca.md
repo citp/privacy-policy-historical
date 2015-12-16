@@ -1,45 +1,45 @@
-> *The following text is extracted and transformed from the townshoes.ca privacy policy that was archived on 2013-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131223085509id_/http%3A//www.townshoes.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the townshoes.ca privacy policy that was archived on 2015-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151216094129id_/http%3A//ts.townshoes.ca/store/townShoes/en/privacyPolicy) for the most accurate reproduction.*
 
-# Privacy Policy ‹ Town Shoes › For the Love of Shoes
+# Privacy Policy | Town Shoes
 
-##### Privacy at Town Shoes
+We are 100% committed to upholding your privacy. This privacy policy tells you how we use personal information collected at this site.   
+Please read this privacy policy before using the site or submitting any personal information. By using the site, you are accepting the practices   
+described in this privacy policy. These practices may be changed, but any changes will be posted and changes will only apply to activities   
+and information on a going forward, not retroactive basis. You are encouraged to review the privacy policy whenever you visit the site to  
+make sure that you understand how any personal information you provide will be used. 
 
-Town Shoes is committed to protecting the privacy of our web site visitors and clients. We uphold the highest industry standards in online privacy and permission marketing. 
+Note, the privacy practices set forth in this privacy policy are for this website only. If you link to other websites, please review the privacy   
+policies posted at those sites.
 
-##### Confessions Program Submission
+### Collection of Information
 
-Any communication or material you transmit to the Site by electronic mail or otherwise, including any data, questions, comments, suggestions or the like is, and will be treated as, non-confidential and nonproprietary. Anything you transmit or post becomes the property of Town Shoes Limited or its affiliates and may be used for any purpose, including, but not limited to, reproduction, disclosure, transmission, publication, broadcast and posting. Furthermore, Town Shoes Limited is free to use, without compensation to you, any ideas, concepts, know-how, or techniques contained in any communication you send to the Site for any purpose whatsoever. 
+We collect personally identifiable information, like names, postal addresses, email addresses, etc., when voluntarily submitted by our visitors.   
+The information you provide is used to fulfill your specific request. This information is only used to fulfill your specific request, unless you give   
+us permission to use it in another manner, for example to add you to one of our mailing lists.
 
-##### Security and Privacy
+### Cookie/Tracking Technology
 
-Town Shoes's web site uses security measures to protect against the loss, misuse, and alteration of the information under our control. We store the information in a database in a secure environment at our data center. 
+The site may use cookie and tracking technology depending on the features offered. Cookie and tracking technology are useful for gathering   
+information such as browser type and operating system, tracking the number of visitors to the site, and understanding how visitors use the site.  
+Cookies can also help customize the site for visitors. Personal information cannot be collected via cookies and other tracking technology,   
+however, if you previously provided personally identifiable information, cookies may be tied to such information. Aggregate cookie and tracking  
+information may be shared with third parties.
 
-We will never share, sell, or rent individual personal information with anyone without your advance permission or unless ordered by a court of law. Information submitted to us is only available to employees managing this information for purposes of contacting you or sending you e-mails based on your requesting information. 
+### Distribution of Information
 
-##### Choice Opt-in
+We may share information with governmental agencies or other companies assisting us in fraud prevention or investigation. We may do so when:   
+(1) permitted or required by law; or, (2) trying to protect against or prevent actual or potential fraud or unauthorized transactions; or, (3) investigating  
+fraud which has already taken place. The information is not provided to these companies for marketing purposes.
 
-Our members and their subscribers are given the opportunity to 'opt-in' to having their information used for purposes not directly related to our site at the point where we ask for the information. 
+### Commitment to Data Security
 
-Users of our site will always be notified if their information is being collected by any outside parties. We do this to ensure that our users can make an informed choice as to whether or not they should proceed with services that require an outside party. 
+Your personally identifiable information is kept secure. Only authorized employees, agents and contractors (who have agreed to keep information  
+secure and confidential) have access to this information. All emails and newsletters from this site allow you to opt out of further mailings.
 
-##### Information Tracked
+### Privacy Contact information
 
-At times we will use your IP address to help diagnose problems with our server and to administer our web site. We also may track browser types to help us understand our visitors' needs related to our web site design. 
+If you have any questions, concerns, or comments about our privacy policy you may contact us using the information below: 
 
-There is an optional section of our web site where input forms require your name, company, and e-mail address. This form provides the ability to opt-in to receiving future emails of any sort from Town Shoes. If you opt-in to receiving email communications from us, then we may send information to you on our products or services. 
+Call toll free to 1-888-874-6326 from 9am-5pm ET Monday to Friday or email us at [service@townshoes.ca](mailto:service@townshoes.ca)
 
-You may review and change your information with us at any time by clicking on the "modify profile" link or similar found at the bottom of emails sent via our system, or by contacting us at [fortheloveofshoes@TownShoes.com](mailto:fortheloveofshoes@TownShoes.com)
-
-##### Cookies
-
-Client-side cookies are used to verify the login status of customers using products or services linked directly with our website. Usage of a cookie is in no way linked to any personally identifiable information while on our site. If a user rejects the cookie, they may still use our site; however, the user may not be able to access all areas of our site. 
-
-##### Links to other Websites
-
-Town Shoes is not responsible for the privacy practices or the content of any other web sites to which we link. 
-
-##### Notification of Changes
-
-Town Shoes will notify its members and users via email if we make any changes to our privacy policy. Any new policy will be posted on our site at least one week prior to its taking effect. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users by way of an email. Users will have a choice as to whether or not we use their information in this different manner. 
-
-If you have any questions about this privacy statement or this web site, please contact us at: [fortheloveofshoes@TownShoes.com](mailto:fortheloveofshoes@TownShoes.com). 
+We reserve the right to make changes to this policy. Any changes to this policy will be posted.
