@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the simplyathomemom.com privacy policy that was archived on 2015-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150507061621id_/http%3A//simplyathomemom.com/sample-page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simplyathomemom.com privacy policy that was archived on 2015-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151216214017id_/http%3A//simplyathomemom.com/sample-page/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -78,7 +78,6 @@ This policy was last modified on October 2013
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
-http://simplyathomemom.com/
-
+http://simplyathomemom.com/  
 simplyathomemom@gmail.com  
 
