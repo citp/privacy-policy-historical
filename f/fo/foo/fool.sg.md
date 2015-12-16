@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the fool.sg privacy policy that was archived on 2015-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150504110043id_/http%3A//www.fool.sg/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fool.sg privacy policy that was archived on 2015-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151216011500id_/https%3A//www.fool.sg/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Motley Fool Singapore
-
-## Privacy Policy
 
 The Motley Fool Singapore Pte. Ltd. (“The Motley Fool”) is committed to protecting and respecting your privacy.   This Privacy Policy describes how we may collect, use and disclose personal information of our users, readers and subscribers.
 
@@ -10,22 +8,27 @@ The Motley Fool Singapore Pte. Ltd. (“The Motley Fool”) is committed to pro
 
 **The Information We Collect**
 
-  * **Email Address:** When you register with The Motley Fool, subscribe to our products and services, or sign up to receive a special report, we ask for your email address. We usually also capture your Internet Protocol address (“IP address”) at the time you register.
-  * **Information We Automatically Track:** While on Fool.sg, we automatically log certain information about how you’re using our site. This information may include the URL that you just came from, your IP address and the pages you visit while on our site. Only anonymous information is collected, and it cannot, by itself or in combination, be tracked to you or any specific individual.
+  * **Email Address:  **When you register with The Motley Fool, subscribe to our products and services, or sign up to receive a special report, we ask for your email address. We usually also capture your Internet Protocol address (“IP address”) at the time you register.
+
+
+  * **Information We Automatically Track:  **While on Fool.sg, we automatically log certain information about how you’re using our site. This information may include the URL that you just came from, your IP address and the pages you visit while on our site. Only anonymous information is collected, and it cannot, by itself or in combination, be tracked to you or any specific individual.
+  * **Specific information when you sign up for our products and services:** When you subscribe to individual products and services, we will ask you for specific information about yourself.
 
 
 
-**Where Your Information is Processed and Stored**
+**Where your Information is Collected, Processed and Stored**
 
-The information outlined above is processed and stored in the United States.  As a result, your information may be subject to US law and jurisdiction.   The Motley Fool takes steps to ensure that your information is treated securely and in accordance with this Privacy Policy and applicable law.
+The information outlined above is collected through The Motley Fool, which is incorporated in Singapore and hence subject to the requirements of the Personal Data Protection Act 2012. This information is then processed and stored in the United States, which is a jurisdiction with a comparable level of personal data protection to Singapore. As a result of this, your information may also be subject to US law and jurisdiction.   The Motley Fool takes steps to ensure that your information is treated securely and in accordance with this Privacy Policy and applicable law.
 
 **Our Use of this Information**
 
-  * **More Customised Service:** The Motley Fool collects personal information to provide you with the best and most personalised Web experience possible. In short, by knowing a little about you, The Motley Fool can deliver more relevant content and provide you with a more efficient, customise and seamless experience when using our services.
+  * **More Customised Service:  **The Motley Fool collects personal information to provide you with the best and most personalised Web experience possible. In short, by knowing a little about you, The Motley Fool can deliver more relevant content and provide you with a more efficient, customise and seamless experience when using our services.
   * **Internal Research:** Cookies and the other information we automatically track are used to help us better understand how our audience uses our site as well as for internal research on their  interests. Each browser accessing The Motley Fool is given a unique cookie which is then used to determine usage patterns.
   * **To Contact You:** We may subsequently email you about our various products and services, or other products and services we feel may interest you. If you’d rather not receive these subsequent communications, [unsubscribe here](http://www.fool.sg/unsubscribe).
 
 
+
+Sometimes, you might want to find out specifically how your information has been used over the past year.  We will do our best to give you this information on request.
 
 **Our Use of IP Addresses and Cookies**
 
@@ -41,7 +44,7 @@ We may use IP addresses for various purposes, including:
 
 
 
-**Cookies:**   If your browser is set up to accept them, we also use a feature known as a cookie. Cookies contain bits of information that Web sites transfer to your computer’s hard drive for record keeping purposes. Cookies can make the Web more useful by storing information about your preferences on a particular site such as ours.
+**Cookies:**  If your browser is set up to accept them, we also use a feature known as a cookie. Cookies contain bits of information that Web sites transfer to your computer’s hard drive for record keeping purposes. Cookies can make the Web more useful by storing information about your preferences on a particular site such as ours.
 
 At The Motley Fool cookies are used in the following ways:
 
@@ -70,9 +73,17 @@ The Motley Fool takes reasonable steps to ensure that your information is treate
 
 While we do our best to protect your personal information, The Motley Fool cannot ensure or warrant the security of any information you transmit to us, and you do so at your own risk. What does all this mean? Just as in the investing world, you must protect yourself. You are responsible for maintaining the secrecy of any passwords and account information you reveal on the internet.
 
-**Access to Your Information**
+**Access to and Amending Your Information**
 
-Upon written request, The Motley Fool may provide you access to the personal information we hold about you.   Provision of such information may be subject to a fee.
+Upon written request, The Motley Fool may provide you access to the personal information we hold about you.   Provision of such information may be subject to a reasonable fee.
+
+Please ensure that the personal information that you have actively provided to us is correct, complete and not misleading.  In the event that you would like to make a correction to the personal information that you provided previously (through your oversight or otherwise), we will be able to do to so, subject to a reasonable fee.
+
+**Retaining Your Information**
+
+The Motley Fool may retain your information for as long as we need to provide services to you or as otherwise required by law.
+
+Once it is no longer necessary for us to retain your personal information, we will dispose of this information in a permanent and secure manner.
 
 **Links to Other Websites   **
 
