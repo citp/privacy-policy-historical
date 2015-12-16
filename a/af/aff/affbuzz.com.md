@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the affbuzz.com privacy policy that was archived on 2015-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150613025037id_/http%3A//affbuzz.com/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the affbuzz.com privacy policy that was archived on 2015-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151216100903id_/http%3A//affbuzz.com/page/privacy) for the most accurate reproduction.*
 
 # AffBuzz.com : Privacy Policy
 
