@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bookboon.com privacy policy that was archived on 2015-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150617001218id_/http%3A//bookboon.com/blog/en/about-the-website/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bookboon.com privacy policy that was archived on 2015-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151216100948id_/http%3A//bookboon.com/blog/en/about-the-website/privacy-statement) for the most accurate reproduction.*
 
-# Privacy statementDatenschutzerklärungConfidentialitéSekretesspolicyPrivacy statementPrivacy statementPersonvern
+# Privacy statement | Bookboon Blog
 
 **Bookboon.com Ltd.** (the “Company”) recognizes that its customers, visitors, users, and others who use www.bookboon.com or other web sites owned or operated by the Company (the “Websites”) (collectively or individually “Users”) value their privacy. This Privacy Notice details important information regarding the use and disclosure of User information collected on the Websites. Company provides this Privacy Notice to help you make an informed decision about whether to use or continue using the Websites.
 
@@ -62,7 +62,7 @@ This Privacy Notice may be revised periodically and this will be reflected by th
 For revisions to this Privacy Notice that may be materially less restrictive on our use or disclosure of the personal information you have already provided to us, we will attempt to obtain your consent before implementing such revisions with respect to such information.
 
 **Date Last Modified:**  
-This Privacy Notice was last modified July 1, 2010
+This Privacy Notice was last modified July 1, 2015
 
 **Contact Information:**  
 Please contact the Company with any questions or comments about this Privacy Notice using this email address public@bookboon.com.
