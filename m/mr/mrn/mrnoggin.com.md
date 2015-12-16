@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mrnoggin.com privacy policy that was archived on 2015-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150616193713id_/http%3A//www.mrnoggin.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mrnoggin.com privacy policy that was archived on 2015-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151216130004id_/http%3A//www.mrnoggin.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - MrNoggin.com
 
@@ -104,6 +104,14 @@ Most browsers allow you to change your cookie settings. Users can usually set th
 Please note that if you choose to block cookies, this may interfere with certain functionality on our website.  Also, if you have disabled one or more cookies, we may still use information collected from cookies prior to your disabled preference being set; however, we will stop using the disabled cookie to collect any further information.
 
 Third parties whose products or services are accessible or advertised through the Services, including social networking services, may also use cookies or similar tools, and we advise you to check their privacy policies for information about their cookies and other practices.  We do not control the practices of such partners and their privacy policies govern their interactions with you.  We encourage you to read their privacy policies.
+
+**European Cookie Consent:  **We use cookies to personalize content and ads, to provide social media features and to analyse our traffic. We also share information about your use of our site with our social media, advertising and analytics partners. For more information on how Google uses data when you use our partner’ sites or apps, visit this link: <http://www.google.com/intl/en/policies/privacy/partners/>
+
+  * Third party vendors, including Google, and other ad networks use cookies to serve ads based on a user’s prior visits to our website.
+  * Google’s use of the DoubleClick cookie enables it and its partners to serve ads to our users based on their visit to our sites and/or other sites on the Internet.
+  * Users may opt out of the use of the DoubleClick cookie for interest-based advertising by visiting [Ads Settings](http://www.google.com/ads/preferences/). You can also check: <http://www.aboutads.info/> on how to opt out of third-party vendor’s use of cookies for interest-based advertising
+
+
 
 **Online Behavioral Advertising and Mobile.**   Advertisers and advertising networks place ads (including sponsored links in search results) on our website and in our mobile applications. These companies, as well as data analytics companies who service them, may use cookies, pixel tags, mobile device IDs and other similar technologies to collect data about you when you visit our site.  They use the data to enable them to track your activity across various sites where they display ads and record your activities, so they can show ads that they consider relevant to you.
 
