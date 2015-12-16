@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scrubsmag.com privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611123822id_/http%3A//scrubsmag.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scrubsmag.com privacy policy that was archived on 2015-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151216180648id_/http%3A//scrubsmag.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Scrubs – The Leading Lifestyle Nursing Magazine Featuring Inspirational and Informational Nursing Articles
 
@@ -6,7 +6,7 @@ SCRUBSMAG.COM PRIVACY POLICY
 
 PLEASE READ THIS PRIVACY CAREFULLY BEFORE USING THIS SITE.
 
-Thank you for your interest in our website www.scrubsmag.com (the “Site”) owned, operated, licensed or controlled by Strategic Media Group, Strategic Partners, LLC,  Scrubsmag.com, and Mind Over Media, LLC (collectively, the “Company”).
+Thank you for your interest in our website www.scrubsmag.com (the “Site”) owned, operated, licensed or controlled by Strategic Media Group, Strategic Partners, LLC, (the “Company”).
 
 This Privacy Policy covers how the Company will use its users’ personally identifiable information (“Personal Data”) as well as general demographic and behavioral information (“Demographic Data”) that Company gathers when users access, register for and use this Site, when users use or view our Content.  Capitalized terms contained herein shall have the same meanings ascribed to them in the Site’s Terms.
 
@@ -76,13 +76,7 @@ In some instances, users may request more information from these third parties c
 
 (b)       Personal Data. The Site gives users the opportunity to opt-out to receive communications from the Company and its third party advertisers when the user registers his/her Personal Data on the Site.  This Site also gives users the opportunity to stop receiving these communications at any time by an opt-out option at the bottom of all communications, or they may write or email to the Company at the below address to opt out of future communications not directly related to the user’s access to the Site and their account:
 
-Mind Over Media
-
-Attn: Privacy / Opt Out
-
-702 16th Street
-
-Santa Monica, CA 90402
+Strategic Media Group, 9800 De Soto Avenue, Chatsworth, California 91311
 
 or
 
@@ -104,12 +98,6 @@ The Company may amend this Privacy Policy from time to time and will provide not
 
 The Company considers the privacy of its users of utmost importance, and welcomes any feedback from its users regarding privacy concerns. In the event of any issues or complaints regarding the Company’s alleged violation of this Privacy Policy, users may contact the Company via regular mail at:
 
-Mind Over Media
-
-Attn: Privacy Department
-
-702 16th Street
-
-Santa Monica, CA 90402
+Strategic Media Group, 9800 De Soto Avenue, Chatsworth, California 91311
 
 The Company will use all reasonable efforts to resolve user complaints in this regard.
