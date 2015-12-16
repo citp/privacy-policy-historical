@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the nulledcode.net privacy policy that was archived on 2015-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150618092040id_/http%3A//www.nulledcode.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nulledcode.net privacy policy that was archived on 2015-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151216163932id_/http%3A//www.nulledcode.net/privacy.html) for the most accurate reproduction.*
 
 # NulledCode.net Privacy Policy
-
-### Advertise
-
-[ ](http://goo.gl/foKMPN)
 
 [NulledCode](http://www.nulledcode.net/) » NulledCode.net Privacy Policy
 
