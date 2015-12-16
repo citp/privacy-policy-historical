@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tieto.com privacy policy that was archived on 2015-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150617174922id_/http%3A//www.tieto.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tieto.com privacy policy that was archived on 2015-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151216082206id_/http%3A//www.tieto.com/privacy-statement) for the most accurate reproduction.*
 
 # Tieto website privacy statement
 
@@ -78,6 +78,10 @@ We may use your e-mail address to send you electronic marketing information. You
 
 Tieto uses third-party service providers to display advertisements on behalf of Tieto across the Internet. These service providers may use cookies to collect information about your visits to our Website in order to display ads while you are visiting other websites; this information cannot be used to identify you individually. Such information is anonymous; however, your IP address may be collected. 
 
+#### REMARKETING
+
+Tieto also uses 3rd party vendor re-marketing tracking cookies, including Google Adwords tracking cookie. This allows us to make special offers and continue to market our services to those who have shown interest in our service. We respect your privacy and are not collecting any identifiable information through the use of Google’s or any other 3rd party remarketing system.
+
 #### Website analytics
 
 This Website uses services such as Google Analytics, a web analytics service provided by Google Inc. Data collected by cookies about your use of the Website (including your IP address) will be transmitted to and stored by Google and other website analytics service providers, on behalf of Tieto.
@@ -96,7 +100,7 @@ You may block cookies by activating the setting on your browser that allows you 
 
 ## File descriptions and contacting Tieto
 
-If you have any questions regarding this Privacy Statement or if you are concerned about how your personal data is processed by Tieto, please send an e-mail to [webmaster@tieto.com](mailto:webmaster@tieto.com) or contact Calle Lindahl.
+If you have any questions regarding this Privacy Statement or if you are concerned about how your personal data is processed by Tieto, please send an e-mail to [webmaster@tieto.com](mailto:webmaster@tieto.com) or contact Kristina Westerlind.
 
 File descriptions related to processing of personal data under this Website for [marketing](http://www.tieto.com/sites/default/files/files/description-of-the-file-marketing.pdf), [recruitment and human resources](http://www.tieto.com/sites/default/files/atoms/files/file_description_careers_recruitment.pdf) purposes are available on this page.
 
