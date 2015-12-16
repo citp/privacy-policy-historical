@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the extratime.ie privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629153122id_/http%3A//www.extratime.ie/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the extratime.ie privacy policy that was archived on 2015-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151216014628id_/http%3A//extratime.ie/privacy) for the most accurate reproduction.*
 
 # Extratime.ie - Newsdesk - breaking news, features and reports
 
