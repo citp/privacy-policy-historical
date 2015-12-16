@@ -1,0 +1,82 @@
+> *The following text is extracted and transformed from the kentico.com privacy policy that was archived on 2015-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151216172508id_/http%3A//www.kentico.com/Kentico-com-Privacy-Policy) for the most accurate reproduction.*
+
+# Privacy policy | Kentico CMS for ASP.NET
+
+The following statement outlines the privacy policy of Kentico software and its affiliated entities (hereafter "Kentico"). All data collection, storage and processing falls under Czech law no. 101/2000 Code (Protection of private information).
+
+Please forward any comments you may have regarding this policy to [info@kentico.com](mailto:info@kentico.com)
+
+## Information collected by Kentico software
+
+When you visit our web pages, the following access information is **automatically collected** :
+
+  * The Internet domain, registered company (if applicable), GeoIP information and Internet address of the computer you are using
+  * Identification of the page or service you are requesting
+  * The type of browser and operating system you are using
+  * Date and time of access
+  * The Internet address of the website from which you arrived at our website
+  * Cookie information
+
+
+
+No other information is automatically collected through the Kentico website.
+
+However, when you intentionally send information, **the following will be collected:**
+
+### Contacting us by e-mail:
+
+  * E-mail address
+  * Name
+  * Content of E-mail
+
+
+
+### Site interaction:
+
+  * Any content entered into our forms, polls, questionnaires, comment fields or forums.
+
+
+
+### How we use information
+
+Our goal is to provide our visitors with quality information and resources while preserving individual anonymity and personal privacy.
+
+All information is used by Kentico software for the operation and quality maintenance of our service, for ascertaining site trends and gathering statistics.
+
+The information enables us to provide services or information more tailored to your needs, and also allows us to plan website improvements. We may use your personal information to offer you additional assistance or to deliver services, such as newsletters, events, training and software that you have requested or purchased. We may also use the information to deliver our customer support to you.
+
+Out of respect for your privacy and **we do not sell, rent, or give your personal information to any third party**. We do not use your information for any purpose other than communicating with you in the most efficient manner.
+
+### Data security
+
+Any information you provide to us is safeguarded and secure. To prevent unauthorized access, maintain data accuracy, and ensure correct usage of information, we have put in place appropriate physical, electronic, and managerial procedures.
+
+Access to your personal information is restricted to those Kentico software employees who need to know that information in order to process it and provide personalized customer support to you. These individuals are bound by confidentiality obligations and may be subject to disciplinary action, including job contract termination, if they fail to meet those obligations.
+
+### Use of cookies
+
+To make Kentico.com and its subdomains work properly, we sometimes place small data files called cookies on your device. Most big websites do this too. A cookie is a small text file that a website saves on your computer or mobile device when you visit the site, respond to surveys, or participate in polls. It enables our website to remember your actions and preferences (such as login, language, font size, and other display preferences) over a period of time, so you don’t have to keep re-entering them whenever you come back to the site or browse from one page to another.
+
+Cookies do not give us access to your personally-identifiable information. We can use them to identify your computer, and information like this from you and users like you helps us analyze traffic patterns on our site and can help us provide you with a better experience by improving content and making the site easier to use. If you do not want Kentico Software to use cookies in your browser, you can set your browser to reject cookies or to notify you when a website tries to put a cookie in your browser software. If you choose not to accept cookies from Kentico, you can still access the majority of our website; however, your ability to use some of the services may be affected. You can find a list of cookies we use and what they do [here](http://www.kentico.com/Cookie-Usage).
+
+### Use of third party analytics
+
+Side by side with our great [Kentico Online Marketing Solution](http://www.kentico.com/KenticoEMS), we use [Google Analytics](http://www.google.com/analytics/); a web analytics service provided by Google, Inc.
+
+Google Analytics uses cookies to help us analyze how visitors use our sites. The information generated by the cookie about your use of the website includes your IP address and will be transmitted to and stored by Google, on its servers.
+
+Google will use this information for the purpose of evaluating your use of the website, creating reports on website activity and providing other services relating to Internet usage. Google may also pass this information on to third parties when required to do so by law, or when such third parties process the information on Google’s behalf. Google will not associate your IP address with any other data held by Google.
+
+By using this website, you consent to the processing of data about your visit by Google in the manner and for the purposes set out above.
+
+If you so choose, you can opt out by turning off cookies in the preferences settings in your browser, or by downloading and installing the Google Analytics Opt-out Browser Add-on from <http://tools.google.com/dlpage/gaoptout>.
+
+We also use [Hotjar](https://web.archive.org/web/20151216172508id_/http%3A//www.kentico.com/hotjar.com) and [Intercom](https://www.intercom.io/) in order to improve the experience of our websites and web services to provide support and monitor usage.
+
+### Links to Third party sites
+
+You may find links to other companies on our site with whom we have a relationship. Kentico software is not responsible for the privacy practices of these third parties; therefore we encourage you to read their privacy statements, as they may differ from ours.
+
+### How to contact us
+
+Should you have any questions or concerns regarding our privacy policy and practices, please contact us at [info@kentico.com](mailto:info@kentico.com).
