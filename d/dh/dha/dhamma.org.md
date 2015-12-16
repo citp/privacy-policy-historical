@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dhamma.org privacy policy that was archived on 2015-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150616163404id_/http%3A//www.dhamma.org/en/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dhamma.org privacy policy that was archived on 2015-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151216081026id_/http%3A//www.dhamma.org/en/about/privacy) for the most accurate reproduction.*
 
 # Vipassana Meditation
 
@@ -33,7 +33,7 @@ A "cookie" is a text file containing a small amount of information which our ser
 
 ### Children's Privacy
 
-Our Vipassana organizations do not specifically collect information about children, but we are concerned about the safety of children and their use of the Internet. Therefore, in accordance with the U.S. Children's Online Privacy Protection Act of 1998 (and comparable legislation of other countries), we will never knowingly request or solicit personally identifiable information from anyone under the age of 13 without verifiable parental consent. In the event we receive actual knowledge that we have collected such personal information without the requisite and verifiable parental consent, we will delete that information from our database as quickly as is practical.
+In accordance with the U.S. Children's Online Privacy Protection Act of 1998 (and comparable legislation of other countries), we will never knowingly request or solicit personally identifiable information from anyone under the age of 13 without verifiable parental consent. In the event we receive actual knowledge that we have collected such personal information without the requisite and verifiable parental consent, we will delete that information from our database as quickly as is practical.
 
 ### Country Specific Privacy Requirements
 
