@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the beijingiphonerepair.com privacy policy that was archived on 2015-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150616152615id_/http%3A//www.beijingiphonerepair.com/resources/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beijingiphonerepair.com privacy policy that was archived on 2015-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151216024451id_/http%3A//www.beijingiphonerepair.com/resources/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Beijing iPhone Repair
 
