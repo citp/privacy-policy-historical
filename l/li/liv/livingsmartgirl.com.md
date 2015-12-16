@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the livingsmartgirl.com privacy policy that was archived on 2015-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150617014602id_/http%3A//www.livingsmartgirl.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livingsmartgirl.com privacy policy that was archived on 2015-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151216132909id_/http%3A//www.livingsmartgirl.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Living Smart Girl
 
@@ -22,17 +22,12 @@ Any of the information we collect from you may be used in one of the following w
 ; To improve customer service  
 (your information helps us to more effectively respond to your customer service requests and support needs)
 
-; To process transactions
-
-> Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
-
+; To process transactions  
+Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.  
 ; To administer a contest, promotion, survey or other site feature
 
-; To send periodic emails
-
-> The email address you provide for order processing, will only be used to send you information and updates pertaining to your order.
-
-Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
+; To send periodic emails  
+The email address you provide for order processing, will only be used to send you information and updates pertaining to your order.Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
 
 **How do we protect your information?**
 
@@ -68,7 +63,7 @@ This online privacy policy applies only to information collected through our web
 
 **Your Consent**
 
-By using our site, you consent to our [websites privacy policy](http://www.freeprivacypolicy.com/).
+By using our site, you consent to our websites privacy policy.
 
 **Changes to our Privacy Policy**
 
@@ -81,8 +76,13 @@ This policy was last modified on 07/11/11
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
 http://www.livingsmartgirl.com  
-Living Smart Girl  
 8847 Pequaywan Lake Road  
 Duluth, Mn 55803  
 USA  
 sheilarae71@gmail.com
+
+To learn more about this behavioral advertising practice visit the NAI at [http://www.networkadvertising.org](http://www.networkadvertising.org/)
+
+To opt-out of this type of advertising, you can visit <http://www.aboutads.info/choices>.
+
+Privacy Policy Created by Free Privacy Policy
