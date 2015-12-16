@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mobilesiri.com privacy policy that was archived on 2015-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150617033624id_/http%3A//mobilesiri.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobilesiri.com privacy policy that was archived on 2015-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151216023543id_/http%3A//mobilesiri.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | MobileSiri
 
