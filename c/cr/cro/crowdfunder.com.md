@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the crowdfunder.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316032817id_/https%3A//www.crowdfunder.com/blog/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crowdfunder.com privacy policy that was archived on 2015-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151216013048id_/https%3A//www.crowdfunder.com/blog/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – Crowdfunder Blog
+# Crowdfunder Blog | Privacy Policy
 
 **Last Updated November 14, 2012**
 
 crowdfunder.com is committed to respecting your privacy and using your information carefully and sensibly. This Privacy Policy describes what information we may collect about you and the ways we may use or share such information. By using crowdfunder.com (the “Site”), you accept all of the practices described in this Privacy Policy, as they may be updated by us from time to time in our sole discretion.
 
 If you have questions about the Privacy Policy or would like to suggest improvements, please contact us at [info@crowdfunder.com](mailto:info@crowdfunder.com).  
- **  
+**  
 Information We Accumulate**
 
 User-Provided Data: You provide us information about yourself, such as your name and e-mail address, when you register with the Service. If you correspond with us by email, we may retain the content of your email messages, your email address and our responses.
@@ -27,10 +27,10 @@ Any personal information or content that you voluntarily disclose for posting to
 By providing crowdfunder.com your email address you consent to our using the email address to send you Service-related notices, including any notices required by law, in lieu of communication by postal mail. You may not opt out of some Service-related communications. We may also use your email address to send you other messages, including changes to features of the Service and special offers. If you do not want to receive such email messages, you may opt out at any time by clicking “Unsubscribe” in any e-mail we send you.If you e-mail us directly, we may e-mail you back and keep records of all of our correspondence.
 
 Opting out may prevent you from receiving email messages regarding updates, improvements, or offers.  
- **  
+**  
 ** crowdfunder.com may use certain information about you and/or your User Content. We do this for purposes such as analyzing how the Service is used, diagnosing service or technical problems, maintaining security, and personalizing advertisements and promotions.
 
-crowdfunder.com reserves the right, but has no obligation, to monitor the User Content you post on the site. crowdfunder.com has the right to remove any such information or material for any reason or no reason, including without limitation, if in its sole opinion, such information or material violates, or may violate, any applicable law or our[ Terms of Use](http://www.indiegogo.com/about/terms) agreement or to protect or defend its rights or property or those of any third party. crowdfunder.com also reserves the right to remove information upon the request of any third party.
+crowdfunder.com reserves the right, but has no obligation, to monitor the User Content you post on the site. crowdfunder.com has the right to remove any such information or material for any reason or no reason, including without limitation, if in its sole opinion, such information or material violates, or may violate, any applicable law or our[ Terms of Use](https://www.crowdfunder.com/blog/terms-of-use/) agreement or to protect or defend its rights or property or those of any third party. crowdfunder.com also reserves the right to remove information upon the request of any third party.
 
 We use cookies, clear gifs, and log file information to: (a) remember information so that you will not have to re-enter it during your visit or the next time you visit the site; (b) provide custom, personalized content and information and services; (c) monitor the effectiveness of our service; (d) monitor aggregate metrics such as total number of visitors and traffic; (e) diagnose or fix technology problems reported by our users or engineers that are associated with the IP addresses controlled by a specific web company or ISP; and (f) help you efficiently access your information after you sign in. ****
 
@@ -38,7 +38,7 @@ How We Disclose Your Information
 
 Personally Identifiable Information:  crowdfunder.com may share your personally identifiable information with third parties for the purpose of providing services to you. We may store personal information in locations outside the direct control of crowdfunder.com (for instance, on servers or databases co-located with hosting providers).
 
-As we develop our business, we may buy or sell assets or business offerings. Customer, email, and visitor information is generally one of the transferred business assets in these types of transactions. We may also transfer such information in the course of corporate divestitures, mergers, or dissolution.  
+As we develop our business, we may buy or sell assets or business offerings. Customer, email, and visitor information is generally one of the transferred business assets in these types of transactions. We may also transfer such information in the course of corporate divestitures, mergers, or dissolution.
 
 We may share your personal information with business partners who assist us by performing services such as hosting, fulfillment, or data storage and security related to our operation of the Site. Those business partners have all agreed to uphold the same standards of security and confidentiality that we’ve promised to you in this Privacy Policy, and they will only use your information to carry out their specific business obligations to crowdfunder.
 
@@ -55,7 +55,7 @@ We may access certain information of yours that exists on third party sites such
 If you sign a petition on our Site, we may deliver the petition including whatever personal information you provided us in signing the petition to the designated recipient(s) of the petition.
 
 Non-personal information may be collected about your usage of the Site and aggregated with data from other users (“Aggregate Data”). This Aggregate Data is anonymous. Aggregate Data is collected to build higher quality, more useful services by performing statistical analyses of the collective characteristics and behavior of our users. We may provide statistical information based on this data to advertisers and other current and potential business partners.  
- **  
+**  
 How We Protect Your Information**
 
 crowdfunder.com uses commercially reasonable physical, managerial, and technical safeguards to preserve the integrity and security of your personal information. We cannot, however, ensure or warrant the security of any information you transmit to crowdfunder.com and you do so at your own risk. Please note that we cannot guarantee the security of account information. Unauthorized entry or use, hardware or software failure, and other factors may compromise the security of user information at any time; there is no guarantee that such information may not be accessed, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards.
