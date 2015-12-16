@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 10best.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608120006id_/http%3A//www.10best.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 10best.com privacy policy that was archived on 2015-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151216013128id_/http%3A//www.10best.com/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | 10Best
 
