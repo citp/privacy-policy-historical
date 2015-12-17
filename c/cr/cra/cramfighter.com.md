@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cramfighter.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607070454id_/http%3A//cramfighter.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cramfighter.com privacy policy that was archived on 2015-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151217020619id_/http%3A//cramfighter.com/privacy) for the most accurate reproduction.*
 
 # Cram Fighter Privacy Policy
 
