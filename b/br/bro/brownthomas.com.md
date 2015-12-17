@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the brownthomas.com privacy policy that was archived on 2015-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150617192914id_/http%3A//www.brownthomas.com/about-brown-thomas/privacy%2Bcookie-policy/page/brownthomasprivacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brownthomas.com privacy policy that was archived on 2015-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151217031843id_/http%3A//www.brownthomas.com/about-brown-thomas/privacy%2Bcookie-policy/page/brownthomasprivacypolicy) for the most accurate reproduction.*
 
 # Privacy & Cookie Policy at Brown Thomas
-
-__Navigation
 
   1. We really value your privacy and would like to outline our website’s Privacy Policy so you understand how we will use any personal information. By using the Brown Thomas website or by registering as a user of any services provided by Brown Thomas you agree to our use of your data as set out below.
   2. We will respect your right to privacy. We will treat as confidential all of the personal information you give to us when you register with us using the facility on this website. This includes your name, address, email address, telephone contact number(s) and gender, date of birth, Brown Thomas MasterCard details, loyalty card details and payment details.
