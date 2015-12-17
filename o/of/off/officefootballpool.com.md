@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the officefootballpool.com privacy policy that was archived on 2015-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150407141529id_/http%3A//www.officefootballpool.com/w3c/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the officefootballpool.com privacy policy that was archived on 2015-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151217052049id_/http%3A//www.officefootballpool.com/w3c/policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -8,9 +8,9 @@ This privacy statement applies to the website of:
 
 Office Football Pool.com   
 John Cranston - Website Manager   
-Englewood, CO 80112   
+Castle Rock, CO 80108   
 US   
-1-303-483-7560   
+1-303-222-0030   
 [privacy@officefootballpool.com](mailto:privacy@officefootballpool.com)
 
 We respect your privacy. This is why we have taken the time to disclose our information collection practices and our privacy policy. Please take the time to review this document. 
@@ -25,7 +25,7 @@ We keep track of when you log into the website and when you enter picks and we m
 
 We track the number of visits to every page on our website but we don't track who visited that page. When you are browsing the website, you are anonymous. 
 
-To log into your account on our website, your browser must accept cookies from the website. Cookies are necessary to maintain your session and stay logged in. Generally, we assign 3 cookies to your browser. Two are called CFID and CFTOKEN. The other is named something like this: Coyote-2-a500132. 
+To log into your account on our website, your browser must accept cookies from the website. Cookies are necessary to maintain your session and stay logged in. Generally, we assign 3 cookies to your browser. Two are called CFID and CFTOKEN. The other is named something like this: BNI_OFPLB. 
 
 **Collecting information provides specific benefits to our website visitors:**
 
