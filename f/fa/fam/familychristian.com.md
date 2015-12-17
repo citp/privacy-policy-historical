@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the familychristian.com privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628144224id_/http%3A//www.familychristian.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the familychristian.com privacy policy that was archived on 2015-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151217224718id_/http%3A//www.familychristian.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -58,6 +58,13 @@ If you use one of the following browsers then SSL encryption is protecting your 
 
 
 While we at FamilyChristian.com consider online security a priority, we cannot provide absolute assurances against, and will not be liable for, any breaches of confidentiality due to system failures or unauthorized access by third parties.
+
+  
+
+
+## Mobile Giving
+
+A one-time donation of $10.00 will be added to your mobile phone bill or deducted from your prepaid balance. Donor must be age 18+ and all donations must be authorized by the account holder (e.g. parents). By texting YES, the user agrees to the terms and conditions. All charges are billed by and payable to your mobile service provider. Service is available on most carriers. Donations are collected for the benefit of Family Christian Ministries by the Mobile Giving Foundation and subject to the terms found at [www.hmgf.org/t](http://www.hmgf.org/t). Message & Data Rates May Apply. You can unsubscribe at any time by texting STOP to short code “91011”; text HELP to “91011” for help.
 
   
 
