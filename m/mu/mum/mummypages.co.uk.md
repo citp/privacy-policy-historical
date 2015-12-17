@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mummypages.co.uk privacy policy that was archived on 2015-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150619040010id_/http%3A//www.mummypages.co.uk/privacy-cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mummypages.co.uk privacy policy that was archived on 2015-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151217164839id_/http%3A//www.mummypages.co.uk/privacy-cookies) for the most accurate reproduction.*
 
 # MummyPages® is Britain's chirpiest website for mums and...
 
