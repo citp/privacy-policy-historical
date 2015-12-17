@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the btobonline.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629160038id_/http%3A//adage.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the btobonline.com privacy policy that was archived on 2015-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151217112208id_/http%3A//www.btobonline.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Advertising Age
 
