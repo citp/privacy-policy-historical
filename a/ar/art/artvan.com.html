@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the artvan.com privacy policy that was archived on 2015-06-12.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150612174910id_/http%3A//www.artvan.com/Furniture/Store/Content_PrivacyPolicy_10001_10052_-1_N%3FICID%3Dfooter) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the artvan.com privacy policy that was archived on 2015-12-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151217013108id_/http%3A//www.artvan.com/Furniture/Store/Content_PrivacyPolicy_10001_10052_-1_N%3FICID%3Dfooter) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html class=" ext-strict"><head><script async="" src="https://artvan.collect.igodigital.com/igdrta.js?_=1582533125842"></script>
+<!DOCTYPE html><html class=" ext-strict"><head><script src="//artvan.collect.igodigital.com/igdrta.js"></script>
 <title>Privacy Policy &amp; Terms of Use</title>
 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 <meta charset="utf-8">
@@ -57,7 +57,7 @@ function gup( name )
 		}
 	}
 </script>
-<script charset="UTF-8" src="https://lptag.liveperson.net/tag/tag.js?site=29161993"></script><script type="text/javascript" charset="iso-8859-1" src="https://server.iad.liveperson.net/hcp/html/mTag.js?site=29161993"></script></head>
+<script type="text/javascript" charset="iso-8859-1" src="https://server.iad.liveperson.net/hcp/html/mTag.js?site=29161993"></script></head>
 <body onload="moveWindow();" class="  ext-safari ext-linux">
 
 <!-- StaticContentDisplay.jsp --><!-- BEGIN LayoutContainerTop.jspf --><!-- Layout enclosing table -->
@@ -133,9 +133,9 @@ function gup( name )
 </script>
 
 <!-- END overlayCount logic --><!-- End - JSP File name:  style3/NotCachedHomeHeaderDisplay.jsp --><!-- END overlayCount logic --><!-- BEGIN cookie logic --><!-- END cookie logic --><!-- Start - JSP File name:  style1/CachedHeaderDisplay.jsp -->
-
 <script type="text/javascript" language="javascript" src="/Furniture/ConsumerDirectStorefrontAssetStore/javascript/ext.js"></script>
 <script type="text/javascript" language="javascript" src="/Furniture/ConsumerDirectStorefrontAssetStore/javascript/site.js"></script>
+
 <link rel="stylesheet" href="../../Furniture/Store/ArtVan/upload/webjs/jquery-ui-1.11.1.custom/jquery-ui.min.css">
 <script src="../../Furniture/Store/ArtVan/upload/webjs/jquery-ui-1.11.1.custom/jquery-ui.min.js"></script>
 <link rel="stylesheet" href="../../Furniture/Store/ArtVan/upload/webcss/megaNavigationStyles.css">
@@ -170,41 +170,42 @@ function entsub(e, form) {
 <script type="text/javascript">
 $(function() {
     
-    function stickyWidgetNoDisplay() {
-            $('.stickyWidget').css('display','none');
-            $('.stickyWidgetWeeklyAd').css('display','none');
-    };
-    
-    $('#closeMe').on('click', function(e) {
-            stickyWidgetNoDisplay();
-            e.preventDefault();
-            setCookie("stickyWidget", "closed", 1);
-    });
-    
-    var stickyWidgetCookieVal = getCookie('stickyWidget');
+        var stickyWidgetCookieVal = getCookie('stickyWidget');
 //    console.log(stickyWidgetCookieVal);
     
-if ( stickyWidgetCookieVal === "closed" ) {
+    if ( stickyWidgetCookieVal === "closed" ) {
            stickyWidgetNoDisplay();
     } else {
         $('.stickyWidget').show();
         $('.stickyWidgetWeeklyAd').show();
     };
 
-    var getCurrentPosition = $('.stickyWidgetWeeklyAd').css('right');
-    var resetStickyWidgetPosition = getCurrentPosition;
     
-    $('.stickyWidgetTabOpen').on('click', function() {
-        
-        if( $('.stickyWidgetWeeklyAd').hasClass('stickyWidgetDisplayed') ) {
-            $('.stickyWidgetWeeklyAd').removeClass('stickyWidgetDisplayed');
-        } else {
-            $('.stickyWidgetWeeklyAd').addClass('stickyWidgetDisplayed');
-        }
-
+    function stickyWidgetNoDisplay() {
+            $('.stickyWidget').css('display','none');
+            $('.stickyWidgetWeeklyAd').css('display','none');
+    };
+    
+    $('#closeStickyWidget > a').on('click', function(e) {
+            e.preventDefault();
+            setCookie("stickyWidget", "closed", 1);
+            stickyWidgetNoDisplay();
     });
-});
+    
 
+//    var getCurrentPosition = $('.stickyWidgetWeeklyAd').css('right');
+//    var resetStickyWidgetPosition = getCurrentPosition;
+//    
+//    $('.stickyWidgetTabOpen').on('click', function() {
+//        
+//        if( $('.stickyWidgetWeeklyAd').hasClass('stickyWidgetDisplayed') ) {
+//            $('.stickyWidgetWeeklyAd').removeClass('stickyWidgetDisplayed');
+//        } else {
+//            $('.stickyWidgetWeeklyAd').addClass('stickyWidgetDisplayed');
+//        }
+//
+//    });
+});
 
 function setCookie(c_name,value,exdays)
  {
@@ -244,74 +245,35 @@ return c_value;
 
 </script>
 
-
-
-<style type="text/css">
-    @font-face {
-    font-family: 'LibreBaskerville';
-    src: url('/Furniture/Store/ArtVan/upload/webfonts/libre-baskerville/LibreBaskerville-Regular.otf') format('truetype');
-    }
-    @font-face {
-    font-family: 'LibreBaskerville-Italic';
-    src: url('/Furniture/Store/ArtVan/upload/webfonts/libre-baskerville/LibreBaskerville-Italic.otf') format('truetype');
-    }
-</style>
-
 <!--START HEADER-->
-<div id="headerWrap">
-        <div id="topHeaderBanner">          
-          <div id="theBanner">
-            <a href="https://etail.mysynchrony.com/eapply/eapply.action?uniqueId=31D87EA3090740298142BE9198BD17C034276C609AD5D346&amp;client=Art%20Van%20Furniture" target="_blank" name="topBanner" class="bannerClickPoint"><span style="font-family: Helvetica; font-size: 16px; padding: 10px 0; color: #000;"><strong>The New Art Van Signature Card</strong>&nbsp;-</span> <span class="bannerClickPoint" style="font-size: 16px; color: #b30838; font-family: Georgia; font-style: oblique;">&nbsp;Apply Now</span></a>
+<script src="../../Furniture/Store/ArtVan/upload/webjs/jquery-ui-1.11.1.custom/jquery-ui.min.js"></script><link rel="stylesheet" href="../../Furniture/Store/ArtVan/upload/webcss/megaNavigationStyles.css">
 
-          </div>
+                                                                         
                 
-            <div id="topHeaderBannerExpand">
 
-              <span id="topBannerClose">
-                X
-              </span>
-                  
-            </div>
-        </div>
- 
+<div id="headerWrap">
+        <div id="topHeaderBanner">
+            <div class="brandTabs">
+                <span class="avbtn AVisActive"><a href="ArtVanHomeView?storeId=10052&amp;catalogId=10051&amp;langId=-1&amp;?ICID=brandTab">Art Van Furniture</a></span>
+                <span class="psbtn"><a href="PureSleep_10001_10052_-1?ICID=brandTab">Art Van PureSleep</a></span>
+                
+           
 
-    
-    <div id="header">
-      <div id="headerBgWrap">
-        <!-- Content Spot TopHeaderBanner for global ad banner that sits at the top -->
-                <div id="topHeaderExpandBtn" style="cursor: pointer;">
-                    <img src="/Furniture/Store/ArtVan/upload/topBannerExpandBtn.png" id="thisExpandBtn">
-                </div>
-
-	               <!-- Content Spot AVFLOGO contains log, title text, tagline & phone number--><span><a class="avlogo" href="ArtVanHomeView?storeId=10052&amp;catalogId=10051&amp;langId=-1"><img src="ConsumerDirectStorefrontAssetStore/images/artvan_logo.png" alt="Art Van Furniture"></a>
-</span> 
-
-
-               <div class="megaNavTopNav">
-                    <ul>
-                        <li class="dblLine"><a href="Content_aboutUs_10001_10052_-1_N?ICID=glblhdr">Our<br>Story</a></li>
-                        <li class="dblLine"><a href="Content_customizeInspire_10001_10052_-1_N?ICID=glblhdr">Customize<br><span class="baskI">&amp;</span> Inspire</a></li>
-                        <li class="dblLine"><a href="Content_TopBrands_10001_10052_-1_N?ICID=glblhdr">Exclusively<br>at Art Van</a></li>
-                        <li class="dblLine">
-                          <a id="currentSaleLink" href="CurrentOffers_10001_10052_-1?ICID=glblhdr">Today's<br>Sale</a>
- 
-                        </li>
-                    </ul>
-                </div>
-       
-                <div id="headerRight">
+<div id="headerRight">
 	            <div id="myNavigation">
-                    <ul class="m_top"> 
-                     <!-- Sign In Nav --> 
+                    <ul class="m_top">   
 	            	<li class="accountNavItem navItem">
 	            	
-	            		<ul class="empty"><!-- left empty until needed --></ul>
-	            		<a href="LogonForm?langId=-1&amp;storeId=10052&amp;catalogId=10051" title="Sign In" class="m_top_link"><i class="fa fa-sign-in"></i> Sign In</a>
-	            	
+	            	<ul class="empty"><!-- left empty until needed --></ul>
+	            		<a href="LogonForm?langId=-1&amp;storeId=10052&amp;catalogId=10051" class="m_top_link"><i class="fa fa-sign-in"></i> Sign In</a>
+	            		
 	            	
 	            	</li>
   
-	             <!-- Stores and Hours Nav -->
+	               
+          
+
+                  
 
 <script>
         // non-cacheable vars for Exact Target
@@ -332,66 +294,84 @@ return c_value;
 
 <li class="globalNavItemStore navItem"><a href="Content_storeLocator_10051_10052_-1_N" class="theseStoreHours"><i class="fa fa-map-marker"></i> Stores &amp; Hours</a>
     <ul class="findAStore">
-	<span class="currentTab"></span>
-	<span class="storeMap">
-	  <img src="/Furniture/Store/ArtVan/upload/webimages/storeLocMap.png"><br><a href="Content_storeLocator_10051_10052_-1_N"><i class="fa fa-map-marker"></i> Store Locator</a>
-	</span>
-	 <div style="clear:both;"></div>
+       <div class="storeHoursContent">
+
 
 	<li id="theseHoursTop">
 	<div id="myStoreHours">
 
-	  <ul id="storeHoursList">
+<ul id="storeHoursList">
 <p class="theseHoursNav">Store Hours</p>
+<br>
 
 <li class="storeHoursItem">
 <span class="day">Monday</span>
 <span class="normHours">10am - 9pm</span>
 </li>
 
+<br>
+
 <li class="storeHoursItem">
 <span class="day">Tuesday</span>
 <span class="normHours">10am - 9pm</span>
 </li>
 
+<br>
+
 <li class="storeHoursItem">
 <span class="day">Wednesday</span>
-<span class="normHours">9am - 11pm</span>
+<span class="normHours">10am - 10pm</span>
 </li>
+
+<br>
 
 <li class="storeHoursItem">
 <span class="day">Thursday</span>
 <span class="normHours">10am - 9pm</span>
 </li>
 
+<br>
+
 <li class="storeHoursItem">
 <span class="day">Friday</span>
 <span class="normHours">10am - 9pm</span>
 </li>
+
+<br><br>
+
 
 <li class="storeHoursItem">
 <span class="day">Saturday</span>
 <span class="normHours">9am - 9pm</span>
 </li>
 
+<br>
+
 <li class="storeHoursItem">
 <span class="day">Sunday</span>
 <span class="normHours">11am - 9pm</span>
 </li>
+</ul>
 
-<!--<p class="theseHoursNav extended">Extended Hours</p>
-<li class="storeHoursItem">
-<span class="day">Wednesday</span>
-<span class="normHours">9am - 11pm</span>
-</li>-->
 
-</ul> 
+	  
 	</div>
 	</li>
+      
+      	<span class="storeMap">
+      <span class="theseHoursNav">Store Locator</span>
+	  <img src="/Furniture/Store/ArtVan/upload/webimages/storeLocMap.png">
+	  <a href="Content_storeLocator_10051_10052_-1_N">Find the store<br>nearest you <i class="fa fa-caret-right"></i></a>
+	</span>
+       </div>
+
     </ul>
 </li>
 
-<!-- Cart Nav -->
+
+
+
+
                   <li class="globalNavShoppingCart navItem"><!-- Start - JSP File Name: MiniShopCartDisplay.jsp -->
 		<a href="OrderCalculate?URL=OrderItemDisplay&amp;storeId=10052&amp;catalogId=10051&amp;orderId=." class="cart" id="cart">
 
@@ -399,7 +379,6 @@ return c_value;
 	</a>
 	
                     <ul class="thisShopCart">
-                      <span class="currentTab"></span>
                        <!-- Shopping Cart dropdown-->    
                        <div id="myCart">
                         <!-- Start - JSP File Name: MiniShopCartDisplay.jsp -->
@@ -418,30 +397,27 @@ return c_value;
                        </div>
                      </ul>
                     </li>
+                    
 
-                    <!-- Need Help Nav -->
-                    <li class="globalNavItem navItem">
-                       <a href="#" class="topMenu"><i class="fa fa-question-circle"></i> Need Help?</a>
+                    <li class="globalNavItem navItem"><a href="#" class="topMenu"><i class="fa fa-question-circle"></i> Need Help?</a>
                         <ul class="helpMenu">
-                            <span class="currentTab"></span>
-                            <span class="csrImage"><img src="/Furniture/Store/ArtVan/upload/webimages/csrImage.jpg"></span>
-                            <li id="helpTitle">How Can I Help?</li>
+                            <script src="../../Furniture/Store/ArtVan/upload/webjs/chatwithus.js"></script>
+
+                            <span class="csrImage"><img src="/Furniture/Store/ArtVan/upload/webimages/csrImage.png"></span>
+                            <li id="helpTitle">How can I help?</li>
                             
-                           
-        <li class="helpOption helpChat">
-            <a href="https://server.iad.liveperson.net/hc/29161993/?cmd=file&amp;file=visitorWantsToChat&amp;site=29161993&amp;byhref=1&amp;imageUrl=https://server.iad.liveperson.net/hcp/Gallery/ChatButton-Gallery/English/General/1a/" target="chat29161993" onclick="window.open('https://server.iad.liveperson.net/hc/29161993/?cmd=file&amp;file=visitorWantsToChat&amp;site=29161993&amp;imageUrl=https://server.iad.liveperson.net/hcp/Gallery/ChatButton-Gallery/English/General/1a/&amp;referrer='+escape(document.location),'chat29161993','width=475,height=400,resizable=yes'); return false;"><i class="fa fa-comments"></i> Online Chat</a>
+                            <li class="helpOption helpChat">
+                            <a href="https://server.iad.liveperson.net/hc/29161993/?cmd=file&amp;file=visitorWantsToChat&amp;site=29161993&amp;byhref=1&amp;imageUrl=https://server.iad.liveperson.net/hcp/Gallery/ChatButton-Gallery/English/General/1a/" target="chat29161993" onclick="window.open('https://server.iad.liveperson.net/hc/29161993/?cmd=file&amp;file=visitorWantsToChat&amp;site=29161993&amp;imageUrl=https://server.iad.liveperson.net/hcp/Gallery/ChatButton-Gallery/English/General/1a/&amp;referrer='+escape(document.location),'chat29161993','width=475,height=400,resizable=yes'); return false;"><i class="fa fa-comments"></i> Online Chat</a>
                             </li> 
                             
-  
+                       
+              
                             <li class="helpOption helpEmail"><a href="GuestServiceForm?storeId=10052&amp;catalogId=10001&amp;langId=-1"><i class="fa fa-envelope"></i> Email Us</a></li>
-                            <li class="helpOption helpCall"><span id="callUs">or Call Us</span><i class="fa fa-phone"></i> (888)4ARTVAN</li>
+                            <li class="helpOption helpCall"><span id="callUs">or call us!</span><i class="fa fa-phone"></i> (888)&nbsp;4&nbsp;ARTVAN</li>
                             
-                
                             
-                                
-                                 <p id="chatAvail"><span id="callUs">We'd love to hear from you!</span></p> <p id="callUsp">We are available to take your call or <a class="lookImALink" href="https://server.iad.liveperson.net/hc/29161993/?cmd=file&amp;file=visitorWantsToChat&amp;site=29161993&amp;byhref=1&amp;imageUrl=https://server.iad.liveperson.net/hcp/Gallery/ChatButton-Gallery/English/General/1a/" target="chat29161993" onclick="window.open('https://server.iad.liveperson.net/hc/29161993/?cmd=file&amp;file=visitorWantsToChat&amp;site=29161993&amp;imageUrl=https://server.iad.liveperson.net/hcp/Gallery/ChatButton-Gallery/English/General/1a/&amp;referrer='+escape(document.location),'chat29161993','width=475,height=400,resizable=yes'); return false;">chat online</a> during <a class="lookImALink" href="Content_storeLocator_10051_10052_-1_N">store hours</a>.</p>
-                                                                
-
+                            
+                                 <p id="chatAvail"><span id="callUs">We'd love to hear from you.</span></p> <p id="callUsp">We are available to take your call or <a class="lookImALink" href="https://server.iad.liveperson.net/hc/29161993/?cmd=file&amp;file=visitorWantsToChat&amp;site=29161993&amp;byhref=1&amp;imageUrl=https://server.iad.liveperson.net/hcp/Gallery/ChatButton-Gallery/English/General/1a/" target="chat29161993" onclick="window.open('https://server.iad.liveperson.net/hc/29161993/?cmd=file&amp;file=visitorWantsToChat&amp;site=29161993&amp;imageUrl=https://server.iad.liveperson.net/hcp/Gallery/ChatButton-Gallery/English/General/1a/&amp;referrer='+escape(document.location),'chat29161993','width=475,height=400,resizable=yes'); return false;">chat online</a> during <a class="lookImALink" href="Content_storeLocator_10051_10052_-1_N">store hours</a>.</p>
                         </ul>
                     </li>  
 	            </ul>
@@ -449,7 +425,62 @@ return c_value;
   
                 </div>
 
-				   
+				
+            </div> <!--end header right -->
+            </div>   
+        </div>
+ 
+
+    
+    <div id="header">
+      <div id="headerBgWrap">
+
+
+	               <!-- Content Spot AVFLOGO contains logo -->
+
+      
+                
+                   <div class="logoAndExtHours">
+                       
+                    <style>
+    #header a.avlogo {
+        top: 21px !important;
+        position: relative;
+        display: inline-block;
+        left: 0;
+    }
+</style>
+<a class="avlogo" href="ArtVanHomeView?storeId=10052&amp;catalogId=10051&amp;langId=-1"><img src="ConsumerDirectStorefrontAssetStore/images/artvan_logo.png" alt="Art Van Furniture"></a>
+
+                
+          
+                <span class="extHoursContent">
+                    <style>
+.extHoursContent {
+display: inline-block;
+  width: 195px;
+  text-align: left;
+font-weight: normal;
+vertical-align: bottom;
+margin-left: 10px;
+}
+.theseExtendedHours {font-size: 1.2em; color: #282828; text-align: right;}
+.pslogo + .extHoursContent{position: relative; top: 28px;}
+.pslogo + .extHoursContent > .theseExtendedHours, .pslogo + .extHoursContent > .theseExtendedHours > .storeLocsAndHoursLink {color: #fff;}
+.storeLocsAndHoursLink {font-size: .9em}
+.storeArrow {vertical-align: middle;}
+.fancyAmp {font-family: "LibreBaskerville-Italic", Georgia;}
+
+</style>
+<p class="theseExtendedHours">Wednesday 10am to 10pm<br>
+  <a href="Content_storeLocator_10051_10052_-1_N?ICID=glblheader" class="storeLocsAndHoursLink">Store Locations <span class="fancyAmp">&amp;</span> Hours</a>&nbsp;<i class="fa fa-caret-right storeArrow"></i></p>
+                </span>
+                    
+                    </div>
+
+				
+
+<div class="headerSearch">   
 	            <!-- begin search -->
 					
                         <div id="search">
@@ -464,328 +495,626 @@ return c_value;
                             <input type="hidden" name="D" value="">
                                 
                             <div id="searchBox">
-                                        
+                                       
                                         <input class="select" id="WC_CachedHeaderDisplay_FormInput_searchTerm_In_CatalogSearchForm_1" type="text" size="40" maxlength="50" name="Ntt" placeholder="Search the Midwest's #1 Furniture &amp; Mattress Store">
                                    
-                                       <span id="searchButton"> <a href="javascript:;" onclick="submitSearchForm(document.CatalogSearchForm);return false" id="WC_CachedHeaderDisplay_Link_3_1" class="button">
-                                            <img src="/Furniture/ConsumerDirectStorefrontAssetStore/images/nav_search.gif" title="Search" class="searchBtn"></a>
-                                           </span>
+                                       <span id="searchButton">
+                                <a href="javascript:;" onclick="submitSearchForm(document.CatalogSearchForm);return false" id="WC_CachedHeaderDisplay_Link_3_1">
+                                    <i class="fa fa-search searchBtn"></i>
+                                </a>
+                            </span>
                             </div>
 						            </form>
 	             	       </div>
 				<!-- end search -->
-	                    
-            </div> <!--end header right --><!-- Recently Viewed Items Dropdown--><!-- Shopping Cart dropdown-->
-                    
-          </div>
+				
+				<div class="socialIcons">
+				    <ul class="socialMediaList">
+                        <a href="http://www.facebook.com/art.van.furniture" target="_blank"><li class="socialIcon"><i class="fa fa-facebook"></i></li></a>
+				        <a href="http://twitter.com/ArtVan" target="_blank"><li class="socialIcon"><i class="fa fa-twitter"></i></li></a>
+				        <a href="http://instagram.com/artvanfurniture" target="_blank"><li class="socialIcon"><i class="fa fa-instagram"></i></li></a>
+				        <a href="https://plus.google.com/u/0/114812919316244889297/posts" target="_blank"><li class="socialIcon"><i class="fa fa-google-plus offsetIcon"></i></li></a>
+				        <a href="EmailUpdateFormView?langId=-1&amp;storeId=10052&amp;catalogId=10001&amp;ICID=Footer-EmailSignUp" target="_blank"><li class="socialIcon"><i class="fa fa-envelope socialEnvelope"></i></li></a>
+				        <a href="http://pinterest.com/artvan/" target="_blank"><li class="socialIcon"><i class="fa fa-pinterest-p offsetIcon"></i></li></a>
+				    </ul>
+				</div><!-- end social -->
+            </div>  <!-- end headersearch -->   
+            
+              <div class="headerSigCardOffer">
+                            
+                    <style>
+.sigCardImg>img {
+padding: 5px 0 0 10px;
+}
+</style>
+<a class="sigCardImg" href="https://etail.mysynchrony.com/eapply/eapply.action?uniqueId=31D87EA3090740298142BE9198BD17C034276C609AD5D346&amp;client=Art%20Van%20Furniture" target="_blank"><img src="/Furniture/Store/ArtVan/upload/webimages/header-assets/AV-Signature-Card.png"></a>
+                            
+                            
+                            
+              </div>
+                  
+          </div><!-- endf header bg wrap -->
      </div> <!-- end header --><!-- mega nav -->
 <div id="nav">
 <div id="megaNavWrap">
 
   <div id="parentLevelWrap">
-    <ul id="parentLevel"><!-- start main -->
-
-      <li id="avfshowroom" class="parent withChild"> <!-- begin avf showroom -->
-        <a href="ArtVan__10001_10052_?ICID=glblnav" class="parentCatTitle">FURNITURE
+    <ul id="parentLevel"><!-- start main --><!-- begin avf showroom -->
+      <li id="avfshowroom" class="parent withChild"> 
+        <a href="ArtVan__10001_10052_?ICID=glblnav" class="parentCatTitle">Furniture
         </a>
 
 
           <ul id="avfShowrmSub" class="childLevel">
 
-           <span class="subCat">
-            <a href="#"><li class="child catTitle noTopBorder">Shop by Style</li></a>
-            <a href="Content_urbanliving_10001_10052_-1_N?ICID=glblnav"><li class="child">Urban</li></a>
-            <a href="Content_casual_10001_10052_-1_N?ICID=glblnav"><li class="child">Casual</li></a>
-            <a href="Content_rustic_10001_10052_-1_N?ICID=glblnav"><li class="child">Rustic</li></a>
-            <a href="Content_traditional_10001_10052_-1_N?ICID=glblnav"><li class="child">Traditional</li></a>
-<!--            <a href="Content_contemporary_10001_10052_-1_N?ICID=glblnav"><li class="child">Art Van Contemporary</li></a>-->
-            
-            
-            
-            <a href="ArtVanCategoryDisplayView?keyword=Living Rooms&amp;catalogId=10051&amp;storeId=10052&amp;langId=-1&amp;N=141+78&amp;?ICID=glblnav"><li class="child catTitle">Living Rooms</li></a>
-            <a href="ArtVanCategoryDisplayView?keyword=Fabric%20Furniture%20Sets&amp;catalogId=10051&amp;storeId=10052&amp;langId=-1&amp;N=141+87&amp;?ICID=glblnav"><li class="child">Fabric Furniture Sets</li></a>
-            <a href="ArtVanCategoryDisplayView?keyword=Leather%20Furniture%20Sets&amp;catalogId=10051&amp;storeId=10052&amp;langId=-1&amp;N=141+88&amp;?ICID=glblnav"><li class="child">Leather Furniture Sets</li></a>
-            <a href="ArtVanCategoryDisplayView?keyword=Reclining%20Sofas&amp;catalogId=10051&amp;storeId=10052&amp;langId=-1&amp;N=141+90&amp;?ICID=glblnav"><li class="child">Reclining Sofas</li></a>
-            <a href="ArtVanCategoryDisplayView?keyword=Sectionals&amp;catalogId=10051&amp;storeId=10052&amp;langId=-1&amp;N=141+238&amp;?ICID=glblnav"><li class="child">Sectionals</li></a>
-            <a href="ArtVanCategoryDisplayView?keyword=Sleepers&amp;catalogId=10051&amp;storeId=10052&amp;langId=-1&amp;N=141+239&amp;?ICID=glblnav"><li class="child">Sleepers</li></a>
-            <a href="ArtVanCategoryDisplayView?keyword=Recliners&amp;catalogId=10051&amp;storeId=10052&amp;langId=-1&amp;N=141+89&amp;?ICID=glblnav"><li class="child">Recliners</li></a>
-            <a href="ArtVanCategoryDisplayView?keyword=Chairs%20and%20Ottomans&amp;catalogId=10051&amp;storeId=10052&amp;langId=-1&amp;N=141+91&amp;?ICID=glblnav"><li class="child">Chairs &amp; Ottomans</li></a>
-            <a href="ArtVanCategoryDisplayView?keyword=Living%20Room%20Tables&amp;catalogId=10051&amp;storeId=10052&amp;langId=-1&amp;N=141+92&amp;?ICID=glblnav"><li class="child">Living Room Tables</li></a>
-            <a href="Content_customorder_10001_10052_-1_N?ICID=glblnav"><li class="child">Custom Order</li></a>
-          </span>
-
           <span class="subCat">
-            <a href="ArtVanCategoryDisplayView?keyword=Bedrooms&amp;catalogId=10051&amp;storeId=10052&amp;langId=-1&amp;N=141+79&amp;?ICID=glblnav"><li class="child catTitle noTopBorder">Bedrooms</li></a>
-            <a href="ArtVanCategoryDisplayView?keyword=Master%20Bedroom&amp;catalogId=10051&amp;storeId=10052&amp;langId=-1&amp;N=141+93&amp;?ICID=glblnav"><li class="child">Master Bedroom</li></a>
-            <a href="KidsAndTeens_10001_10052_-1?ICID=glblnav"><li class="child">Kids &amp; Teens</li></a>
-            <a href="Content_Youth-Headboards_10001_10052_-1_N?ICID=glblnav"><li class="child">Design Your Headboard</li></a>
-            <a href="ArtVanCategoryDisplayView?keyword=Daybeds&amp;catalogId=10051&amp;storeId=10052&amp;langId=-1&amp;N=141+95&amp;?ICID=glblnav"><li class="child">Daybeds</li></a>
-            <a href="ArtVanCategoryDisplayView?keyword=Metal%20Beds&amp;catalogId=10051&amp;storeId=10052&amp;langId=-1&amp;N=141+96&amp;?ICID=glblnav"><li class="child">Metal Beds</li></a>
-            <a href="ArtVanCategoryDisplayView?keyword=Upholstered%20Beds&amp;catalogId=10051&amp;storeId=10052&amp;langId=-1&amp;N=141+236&amp;?ICID=glblnav"><li class="child">Upholstered Beds</li></a>
-            <a href="Content_Fuse_10001_10052_-1_N?ICID=glblnav"><li class="child">Fuse</li></a>
-            <a href="ArtVanCategoryDisplayView?keyword=Youth%20Accents&amp;catalogId=10051&amp;storeId=10052&amp;langId=-1&amp;N=141+251&amp;?ICID=glblnav"><li class="child">Youth Accents</li></a>
+            
+            <a href="Search?catalogId=10051&amp;langId=-1&amp;storeId=10052&amp;Ntt=New+Arrivals&amp;N=141&amp;ICID=glblnav"><li class="child catTitle noTopBorder">New Arrivals</li></a>
 
-            <a href="ArtVanCategoryDisplayView?keyword=Recliners&amp;catalogId=10051&amp;storeId=10052&amp;langId=-1&amp;N=141+84&amp;?ICID=glblnav"><li class="child catTitle">Recliners</li></a>
-            <a href="ArtVanCategoryDisplayView?keyword=Fabric%20Recliners&amp;catalogId=10051&amp;storeId=10052&amp;langId=-1&amp;N=141+114&amp;?ICID=glblnav"><li class="child">Fabric</li></a>
-            <a href="ArtVanCategoryDisplayView?keyword=Leather%20Recliners&amp;catalogId=10051&amp;storeId=10052&amp;langId=-1&amp;N=141+226&amp;?ICID=glblnav"><li class="child">Leather</li></a>
-            <a href="ArtVanCategoryDisplayView?keyword=Lift%20Chairs&amp;catalogId=10051&amp;storeId=10052&amp;langId=-1&amp;N=141+115&amp;?ICID=glblnav"><li class="child">Lift Chairs</li></a>
-            <a href="ArtVanCategoryDisplayView?keyword=Robotic%20Massage%20Recliners&amp;catalogId=10051&amp;storeId=10052&amp;langId=-1&amp;N=141+116&amp;?ICID=glblnav"><li class="child">Robotic Massage</li></a>
-            <a href="ArtVanCategoryDisplayView?keyword=European%20Recliners&amp;catalogId=10051&amp;storeId=10052&amp;langId=-1&amp;N=141+227&amp;?ICID=glblnav"><li class="child">European</li></a>
-            <a href="ArtVanCategoryDisplayView?keyword=Push%20Back%20Recliners&amp;catalogId=10051&amp;storeId=10052&amp;langId=-1&amp;N=141+228&amp;?ICID=glblnav"><li class="child">Push Back</li></a>
-            <a href="ArtVanCategoryDisplayView?keyword=All%20Recliners&amp;catalogId=10051&amp;storeId=10052&amp;langId=-1&amp;N=141+248&amp;?ICID=glblnav"><li class="child">All</li></a>
+           
+            <a href="ArtVanCategoryDisplayView?keyword=Living%20Rooms&amp;catalogId=10051&amp;storeId=10052&amp;langId=-1&amp;N=141+78&amp;?ICID=glblnav"><li class="child catTitle">Living Rooms</li></a>
+            <a href="ArtVanCategoryDisplayView?catalogId=10051&amp;langId=-1&amp;storeId=10052&amp;N=141+78+143&amp;?ICID=glblnav"><li class="child">Sofas</li></a>
+            <a href="ArtVanCategoryDisplayView?catalogId=10051&amp;langId=-1&amp;storeId=10052&amp;N=141+78+144&amp;?ICID=glblnav"><li class="child">Loveseats</li></a>
+            <a href="Search?catalogId=10051&amp;langId=-1&amp;storeId=10052&amp;N=141+146&amp;?ICID=glblnav"><li class="child">Ottomans</li></a>
+            <a href="ArtVanCategoryDisplayView?catalogId=10051&amp;langId=-1&amp;storeId=10052&amp;N=141+145&amp;?ICID=glblnav"><li class="child">Chairs</li></a>
+            <a href="ArtVanCategoryDisplayView?catalogId=10051&amp;langId=-1&amp;storeId=10052&amp;N=141+78+177&amp;?ICID=glblnav"><li class="child">Sectionals</li></a>
+            <a href="ArtVanCategoryDisplayView?catalogId=10051&amp;langId=-1&amp;storeId=10052&amp;N=141+156&amp;?ICID=glblnav"><li class="child">Sleepers</li></a>
+            <a href="ArtVanCategoryDisplayView?catalogId=10051&amp;langId=-1&amp;storeId=10052&amp;N=141+90+143&amp;?ICID=glblnav"><li class="child">Reclining Sofas</li></a>
+            <a href="ArtVanCategoryDisplayView?catalogId=10051&amp;langId=-1&amp;storeId=10052&amp;N=141+78+279&amp;?ICID=glblnav"><li class="child">Reclining Sectionals</li></a>
+            <a href="ArtVanCategoryDisplayView?catalogId=10051&amp;langId=-1&amp;storeId=10052&amp;N=141+90+144&amp;?ICID=glblnav"><li class="child">Reclining Loveseats</li></a>
+            <a href="ArtVanCategoryDisplayView?catalogId=10051&amp;langId=-1&amp;storeId=10052&amp;N=141+147&amp;?ICID=glblnav"><li class="child">Recliners</li></a>
+            <a href="ArtVanCategoryDisplayView?keyword=Living%20Room%20Tables&amp;catalogId=10051&amp;storeId=10052&amp;langId=-1&amp;N=141+92&amp;?ICID=glblnav"><li class="child">Cocktail &amp; Accent Tables</li></a>
+            <a href="ArtVanCategoryDisplayView?keyword=Fireplaces&amp;catalogId=10051&amp;storeId=10052&amp;langId=-1&amp;N=141+122&amp;?ICID=glblnav"><li class="child">Fireplaces</li></a>
+         
+           
+            <a href="ArtVanCategoryDisplayView?keyword=Media/TV%20Centers&amp;catalogId=10051&amp;storeId=10052&amp;langId=-1&amp;N=141+81&amp;?ICID=glblnav"><li class="child catTitle">Entertainment Centers</li></a>
+            <a href="ArtVanCategoryDisplayView?catalogId=10051&amp;langId=-1&amp;storeId=10052&amp;N=141+186&amp;?ICID=glblnav"><li class="child">Entertainment Centers</li></a>
+            <a href="ArtVanCategoryDisplayView?catalogId=10051&amp;langId=-1&amp;storeId=10052&amp;N=141+81+187&amp;?ICID=glblnav"><li class="child">TV Stands</li></a>
+            
+              </span>
+              
+            <span class="subCat">
+            
+           <a href="ArtVanCategoryDisplayView?keyword=Home%20Office%20Furniture&amp;catalogId=10051&amp;storeId=10052&amp;langId=-1&amp;N=141+83&amp;?ICID=glblnav"><li class="child catTitle noTopBorder">Home Office</li></a>
+            <a href="ArtVanCategoryDisplayView?catalogId=10051&amp;langId=-1&amp;storeId=10052&amp;N=141+184&amp;?ICID=glblnav"><li class="child">Home Office Sets</li></a>
+            <a href="ArtVanCategoryDisplayView?catalogId=10051&amp;langId=-1&amp;storeId=10052&amp;N=141+185&amp;?ICID=glblnav"><li class="child">Desks</li></a>
+            <a href="ArtVanCategoryDisplayView?catalogId=10051&amp;langId=-1&amp;storeId=10052&amp;N=141+215&amp;?ICID=glblnav"><li class="child">Desk Chairs</li></a>
+            <a href="ArtVanCategoryDisplayView?catalogId=10051&amp;langId=-1&amp;storeId=10052&amp;N=141+216&amp;?ICID=glblnav"><li class="child">File Cabinets</li></a>
+            <a href="ArtVanCategoryDisplayView?catalogId=10051&amp;langId=-1&amp;storeId=10052&amp;N=141+212&amp;?ICID=glblnav"><li class="child">Bookcases</li></a>
+                        
+            <a href="ArtVanCategoryDisplayView?keyword=Bedrooms&amp;catalogId=10051&amp;storeId=10052&amp;langId=-1&amp;N=141+79&amp;?ICID=glblnav"><li class="child catTitle">Bedrooms</li></a>
+            <a href="ArtVanCategoryDisplayView?catalogId=10051&amp;langId=-1&amp;storeId=10052&amp;N=141+79+158&amp;?ICID=glblnav"><li class="child">Beds &amp; Headboards</li></a>
+            <a href="ArtVanCategoryDisplayView?catalogId=10051&amp;langId=-1&amp;storeId=10052&amp;N=141+79+164&amp;?ICID=glblnav"><li class="child">Daybeds</li></a>
+            <a href="ArtVanCategoryDisplayView?catalogId=10051&amp;langId=-1&amp;storeId=10052&amp;N=141+79+159&amp;?ICID=glblnav"><li class="child">Dressers</li></a>
+            <a href="ArtVanCategoryDisplayView?catalogId=10051&amp;langId=-1&amp;storeId=10052&amp;N=141+79+160&amp;?ICID=glblnav"><li class="child">Chests</li></a>
+            <a href="ArtVanCategoryDisplayView?catalogId=10051&amp;langId=-1&amp;storeId=10052&amp;N=141+79+161&amp;?ICID=glblnav"><li class="child">Nightstands</li></a>
+            <a href="ArtVanCategoryDisplayView?catalogId=10051&amp;langId=-1&amp;storeId=10052&amp;N=141+79+162&amp;?ICID=glblnav"><li class="child">Bedroom Mirrors</li></a>
+                        <a href="ArtVanCategoryDisplayView?keyword=Bed%20Linens&amp;catalogId=10051&amp;storeId=10052&amp;langId=-1&amp;N=141+125&amp;?ICID=glblnav"><li class="child">Bed Linens</li></a>
+
+            
+            <a href="ArtVanCategoryDisplayView?catalogId=10051&amp;langId=-1&amp;storeId=10052&amp;N=141+94&amp;?ICID=glblnav"><li class="child catTitle">Kids &amp; Teens</li></a>
+            <a href="ArtVanCategoryDisplayView?No=0&amp;catalogId=10051&amp;langId=-1&amp;Nrp=57&amp;storeId=10052&amp;N=141+94+158&amp;?ICID=glblnav"><li class="child">Beds &amp; Headboards</li></a>
+            <a href="ArtVanCategoryDisplayView?catalogId=10051&amp;langId=-1&amp;storeId=10052&amp;N=141+79+166&amp;?ICID=glblnav"><li class="child">Bunkbeds</li></a>
+            <a href="ArtVanCategoryDisplayView?catalogId=10051&amp;langId=-1&amp;storeId=10052&amp;N=141+79+217&amp;?ICID=glblnav"><li class="child">Loft Beds</li></a>
+            <a href="ArtVanCategoryDisplayView?catalogId=10051&amp;langId=-1&amp;storeId=10052&amp;N=141+79+164&amp;?ICID=glblnav"><li class="child">Daybeds</li></a>
+            <a href="ArtVanCategoryDisplayView?catalogId=10051&amp;langId=-1&amp;storeId=10052&amp;N=141+94+159&amp;?ICID=glblnav"><li class="child">Dressers</li></a>
+            <a href="ArtVanCategoryDisplayView?catalogId=10051&amp;langId=-1&amp;storeId=10052&amp;N=141+94+160&amp;?ICID=glblnav"><li class="child">Chests</li></a>
+            <a href="ArtVanCategoryDisplayView?catalogId=10051&amp;langId=-1&amp;storeId=10052&amp;N=141+94+161&amp;?ICID=glblnav"><li class="child">Nightstands</li></a>
+            <a href="ArtVanCategoryDisplayView?keyword=Youth%20Accents&amp;catalogId=10051&amp;storeId=10052&amp;langId=-1&amp;N=141+251&amp;?ICID=glblnav"><li class="child">Youth Accents</li></a>
+                        
           </span>
 
     
           <span class="subCat">
-            <a href="ArtVanCategoryDisplayView?keyword=Dining Rooms&amp;catalogId=10051&amp;storeId=10052&amp;langId=-1&amp;N=141+80&amp;?ICID=glblnav"><li class="child catTitle noTopBorder">Dining Rooms</li></a>
-            <a href="ArtVanCategoryDisplayView?keyword=Formal%20Dining&amp;catalogId=10051&amp;storeId=10052&amp;langId=-1&amp;N=141+97&amp;?ICID=glblnav"><li class="child">Formal Dining</li></a>
-            <a href="ArtVanCategoryDisplayView?keyword=Casual%20Dining&amp;catalogId=10051&amp;storeId=10052&amp;langId=-1&amp;N=141+98&amp;?ICID=glblnav"><li class="child">Casual Dining</li></a>
-            <a href="ArtVanCategoryDisplayView?keyword=Dinettes&amp;catalogId=10051&amp;storeId=10052&amp;langId=-1&amp;N=141+99&amp;?ICID=glblnav"><li class="child">Dinettes</li></a>
-            <a href="ArtVanCategoryDisplayView?keyword=Gathering%20Height&amp;catalogId=10051&amp;storeId=10052&amp;langId=-1&amp;N=141+100&amp;?ICID=glblnav"><li class="child">Gathering Height</li></a>
-            <a href="ArtVanCategoryDisplayView?keyword=Bars,%20Barstools%20&amp;%20Bistro&amp;catalogId=10051&amp;storeId=10052&amp;langId=-1&amp;N=141+101&amp;?ICID=glblnav"><li class="child">Bars, Barstools &amp; Bistro</li></a>
+           
+            <a href="ArtVanCategoryDisplayView?keyword=Rugs&amp;catalogId=10051&amp;storeId=10052&amp;langId=-1&amp;N=141+120&amp;?ICID=glblnav"><li class="child catTitle noTopBorder">Rugs</li></a>
+            <a href="ArtVanCategoryDisplayView?catalogId=10051&amp;langId=-1&amp;storeId=10052&amp;N=141+243&amp;?ICID=glblnav"><li class="child">2 x 8</li></a>
+            <a href="Search?catalogId=10051&amp;langId=-1&amp;storeId=10052&amp;N=141+245&amp;?ICID=glblnav"><li class="child">5 x 8</li></a>
+            <a href="Search?catalogId=10051&amp;langId=-1&amp;storeId=10052&amp;N=141+246&amp;?ICID=glblnav"><li class="child">8 x 10</li></a>
+            
+                                  
+            <a href="ArtVanCategoryDisplayView?keyword=Dining%20Rooms&amp;catalogId=10051&amp;storeId=10052&amp;langId=-1&amp;N=141+80&amp;?ICID=glblnav"><li class="child catTitle">Dining Rooms</li></a>
+            <a href="ArtVanCategoryDisplayView?catalogId=10051&amp;langId=-1&amp;storeId=10052&amp;N=141+80+172&amp;?ICID=glblnav"><li class="child">Dining Tables</li></a>
+            <a href="ArtVanCategoryDisplayView?catalogId=10051&amp;langId=-1&amp;storeId=10052&amp;N=141+80+151&amp;?ICID=glblnav"><li class="child">Dining Chairs</li></a>
+            <a href="ArtVanCategoryDisplayView?catalogId=10051&amp;langId=-1&amp;storeId=10052&amp;N=141+80+171&amp;?ICID=glblnav"><li class="child">Dining Room Sets</li></a>
+            <a href="ArtVanCategoryDisplayView?catalogId=10051&amp;langId=-1&amp;storeId=10052&amp;N=141+80+173&amp;?ICID=glblnav"><li class="child">Bar Stools</li></a>
+            <a href="Search?catalogId=10051&amp;langId=-1&amp;storeId=10052&amp;Ntt=bar+&amp;N=267&amp;?ICID=glblnav"><li class="child">Bar Storage</li></a>
+            <a href="ArtVanCategoryDisplayView?catalogId=10051&amp;langId=-1&amp;storeId=10052&amp;N=141+101+172&amp;?ICID=glblnav"><li class="child">Bistros &amp; Game Tables</li></a>
+            <a href="ArtVanCategoryDisplayView?catalogId=10051&amp;langId=-1&amp;storeId=10052&amp;N=141+80+174&amp;?ICID=glblnav"><li class="child">China Cabinets &amp; Hutches</li></a>
+            <a href="ArtVanCategoryDisplayView?catalogId=10051&amp;langId=-1&amp;storeId=10052&amp;N=141+80+176&amp;?ICID=glblnav"><li class="child">China Buffets</li></a>
+            <a href="ArtVanCategoryDisplayView?catalogId=10051&amp;langId=-1&amp;storeId=10052&amp;N=141+80+152&amp;?ICID=glblnav"><li class="child">Dining Benches</li></a>
+            <a href="ArtVanCategoryDisplayView?catalogId=10051&amp;langId=-1&amp;storeId=10052&amp;N=141+214&amp;?ICID=glblnav"><li class="child">Curios</li></a>
             <a href="Content_table-protectors_10001_10052_-1_N?ICID=glblnav"><li class="child">Table Protectors</li></a>
 
-
-            <a href="ArtVanCategoryDisplayView?keyword=Home Office Furniture&amp;catalogId=10051&amp;storeId=10052&amp;langId=-1&amp;N=141+83&amp;?ICID=glblnav"><li class="child catTitle">Home Office</li></a>
-            <a href="ArtVanCategoryDisplayView?keyword=Desks&amp;catalogId=10051&amp;storeId=10052&amp;langId=-1&amp;N=141+111&amp;?ICID=glblnav"><li class="child">Desks</li></a>
-            <a href="ArtVanCategoryDisplayView?keyword=Home%20Office%20Chairs&amp;catalogId=10051&amp;storeId=10052&amp;langId=-1&amp;N=141+112&amp;?ICID=glblnav"><li class="child">Home Office Chairs</li></a>
-            <a href="ArtVanCategoryDisplayView?keyword=Bookcases&amp;catalogId=10051&amp;storeId=10052&amp;langId=-1&amp;N=141+113&amp;?ICID=glblnav"><li class="child">Bookcases</li></a>
-            <a href="ArtVanCategoryDisplayView?keyword=Media/TV Centers&amp;catalogId=10051&amp;storeId=10052&amp;langId=-1&amp;N=141+81&amp;?ICID=glblnav"><li class="child catTitle">Media/TV Centers</li></a>
-
           </span>
+          
 
+          
           <span class="subCat lastCat">
-            <a href="ArtVanCategoryDisplayView?keyword=Accessories&amp;catalogId=10051&amp;storeId=10052&amp;langId=-1&amp;N=141+85&amp;?ICID=glblnav"><li class="child catTitle noTopBorder">Accessories</li></a>
-            <a href="ArtVanCategoryDisplayView?keyword=Arf%20Van%20-%20Pet%20Products&amp;catalogId=10051&amp;storeId=10052&amp;langId=-1&amp;N=141+232&amp;?ICID=glblnav"><li class="child">Pet Products</li></a>
-            <a href="ArtVanCategoryDisplayView?keyword=Lamps&amp;catalogId=10051&amp;storeId=10052&amp;langId=-1&amp;N=141+121&amp;?ICID=glblnav"><li class="child">Lamps</li></a>
-            <a href="ArtVanCategoryDisplayView?keyword=Rugs&amp;catalogId=10051&amp;storeId=10052&amp;langId=-1&amp;N=141+120&amp;?ICID=glblnav"><li class="child">Rugs</li></a>
-            <a href="ArtVanCategoryDisplayView?keyword=Bed%20Linens&amp;catalogId=10051&amp;storeId=10052&amp;langId=-1&amp;N=141+125&amp;?ICID=glblnav"><li class="child">Bed Linens</li></a>
-            <a href="ArtVanCategoryDisplayView?keyword=Clocks&amp;catalogId=10051&amp;storeId=10052&amp;langId=-1&amp;N=141+118&amp;?ICID=glblnav"><li class="child">Clocks</li></a>
-            <a href="ArtVanCategoryDisplayView?keyword=Curios&amp;catalogId=10051&amp;storeId=10052&amp;langId=-1&amp;N=141+119&amp;?ICID=glblnav"><li class="child">Curios</li></a>
-            <a href="ArtVanCategoryDisplayView?keyword=Decorative%20Furniture&amp;catalogId=10051&amp;storeId=10052&amp;langId=-1&amp;N=141+123&amp;?ICID=glblnav"><li class="child">Decorative Furniture</li></a>
-            <a href="ArtVanCategoryDisplayView?keyword=Fireplaces&amp;catalogId=10051&amp;storeId=10052&amp;langId=-1&amp;N=141+122&amp;?ICID=glblnav"><li class="child">Fireplaces</li></a>
-            <a href="ArtVanCategoryDisplayView?keyword=Living%20Room%20Tables&amp;catalogId=10051&amp;storeId=10052&amp;langId=-1&amp;N=141+117&amp;?ICID=glblnav"><li class="child">Living Room Tables</li></a>
-            <a href="ArtVanCategoryDisplayView?keyword=Mirrors&amp;catalogId=10051&amp;storeId=10052&amp;langId=-1&amp;N=141+127&amp;?ICID=glblnav"><li class="child">Mirrors</li></a>
-            <!-- a href="ArtVanCategoryDisplayView?keyword=Small%20Indulgences&catalogId=10051&storeId=10052&langId=-1&N=141+237&?ICID=glblnav"><li class="child">Life Chest</li></a -->
+          
+          <a href="ArtVanCategoryDisplayView?keyword=Accessories&amp;catalogId=10051&amp;storeId=10052&amp;langId=-1&amp;N=141+85&amp;?ICID=glblnav"><li class="child catTitle noTopBorder">Accessories</li></a>
+            <a href="Search?catalogId=10051&amp;langId=-1&amp;storeId=10052&amp;N=141+188&amp;?ICID=glblnav"><li class="child">Table Lamps</li></a>
+            <a href="Search?catalogId=10051&amp;langId=-1&amp;storeId=10052&amp;N=141+240&amp;?ICID=glblnav"><li class="child">Buffet Lamps</li></a>
+            <a href="Search?catalogId=10051&amp;langId=-1&amp;storeId=10052&amp;N=141+189&amp;?ICID=glblnav"><li class="child">Floor Lamps</li></a>
+            <a href="Search?catalogId=10051&amp;langId=-1&amp;storeId=10052&amp;N=85+257&amp;?ICID=glblnav"><li class="child">Ceiling Lights</li></a>
             <a href="ArtVanCategoryDisplayView?keyword=Wall%20Decor&amp;catalogId=10051&amp;storeId=10052&amp;langId=-1&amp;N=141+124&amp;?ICID=glblnav"><li class="child">Wall Décor</li></a>
-            <a href="ArtVanCategoryDisplayView?keyword=Youth%20Accents&amp;catalogId=10051&amp;storeId=10052&amp;langId=-1&amp;N=141+251&amp;?ICID=glblnav"><li class="child">Youth Accents</li></a>          
-          </span>
+            <a href="Search?catalogId=10051&amp;langId=-1&amp;storeId=10052&amp;N=141+192&amp;?ICID=glblnav"><li class="child">Wall Mirrors</li></a>
+            <a href="ArtVanCategoryDisplayView?catalogId=10051&amp;langId=-1&amp;storeId=10052&amp;N=141+123&amp;?ICID=glblnav"><li class="child">Decorative Furniture</li></a>  
+            
+           
+        <a href="ArtVanCategoryDisplayView?keyword=Arf%20Van%20-%20Pet%20Products&amp;catalogId=10051&amp;storeId=10052&amp;langId=-1&amp;N=141+232&amp;?ICID=glblnav"><li class="child catTitle">Pet Products</li></a>
 
+           
+           
+            <a href="Content_TopBrands_10001_10052_-1_N?ICID=glblhdr"><li class="child catTitle">Art Van Exclusives</li></a>
+            <a href="Content_Roma2_10001_10052_-1_N?ICID=glblnav"><li class="child">Roma Leather Living Room</li></a>
+            <a href="ArtVanCategoryDisplayView?catalogId=10051&amp;langId=-1&amp;storeId=10052&amp;N=141+4294954883&amp;?ICID=glblnav"><li class="child">Style Collection Living Room</li></a>
+            <a href="ArtVanCategoryDisplayView?catalogId=10051&amp;langId=-1&amp;storeId=10052&amp;N=141+4294953648&amp;?ICID=glblnav"><li class="child">Thread &amp; Feather Living Room</li></a>
+            <a href="Content_Youth-Headboards_10001_10052_-1_N?ICID=glblnav"><li class="child">Design Your Headboard</li></a>
+            <a href="Content_Fuse_10001_10052_-1_N?ICID=glblnav"><li class="child">Fuse Bedroom</li></a>
+            <a href="Content_alacarte_10001_10052_-1_N?ICID=glblnav"><li class="child">A La Carte Dining Room</li></a>
+
+           
+            <a href="#"><li class="child catTitle">Shop by Style</li></a>
+            <a href="Content_urbanliving_10001_10052_-1_N?ICID=glblnav"><li class="child">Urban</li></a>
+            <a href="Content_modern_10001_10052_-1_N?ICID=glblnav"><li class="child">Modern</li></a>
+            <a href="Content_casual_10001_10052_-1_N?ICID=glblnav"><li class="child">Casual</li></a>
+            <a href="Content_traditional_10001_10052_-1_N?ICID=glblnav"><li class="child">Traditional</li></a>
+            <a href="Content_rustic_10001_10052_-1_N?ICID=glblnav"><li class="child">Rustic</li></a>
+            
+            <a href="Search?catalogId=10051&amp;langId=-1&amp;storeId=10052&amp;N=4294950577&amp;?ICID=glblnav">
+            <li class="child catTitle">Last Chance</li></a>
+
+            
+          </span>
 
           <span class="subCat adSpot">
             <div class="catAdSpot">
-            <div id="megaNavShowroomContent">
-<img src="/Furniture/Store/ArtVan/upload/webimages/_ShortTerm/globnavCSimg/0611-GN/GlobalNavSRb.png" usemap="#SRMap" border="0">
 
-<map name="SRMap">
-  <area shape="rect" coords="-3,2,212,131" href="Product_Milano-II-95--Sofa_10051_10052_-1_300202718_30001_30000&amp;?ICID=glblnav">
-  <area shape="rect" coords="3,132,213,279" href="CurrentOffers_10001_10052_-1?ICID=glblnav">
-</map>
-</div>    
+                    <style>
+	.sr_bg {
+		padding: 10px;
+		text-align: center;
+	}
+	
+	.sr_bg p {
+		color: black;
+	}
+	
+	.sr_bg p.down a {
+		padding-top: 1em;
+		font-size: 1em;
+	}
+	
+	.sr_bg p.offer {
+		font-weight: bold;
+		font-size: 3em;
+		font-family: sans-serif;
+	}
+	
+	.sr_bg p.offer-view {
+		padding-top: 2em;
+	}
+	
+	.sr_bg p.offer-plus {
+		font-size: 1.6em;
+	}
+	
+	.subCat .sr_bg a:hover {
+		text-decoration: none;
+	}
+	
+	.sr_bg .subCat p.item a {
+		color: black;
+		margin-top: -20px;
+		font-size: .8em!important;
+	}
+	
+	.sr_bg .psMegaNavLink,
+	.psMegaNavTxt>.fa-caret-right {
+		font-size: 1em!important;
+	}
+</style>
+<div class="sr_bg">
+	<a href="Product_Brighton-Sofa_10051_10052_-1_300215545_30001_30000?N=0&amp;?ICID=glblnav" class="psMegaNavLink">
+		<img src="/Furniture/Store/ArtVan/upload/webimages/_ShortTerm/globnavCSimg/0804-GN/SRMegaNav.png">
+		</a><p class="item"><a href="Product_Brighton-Sofa_10051_10052_-1_300215545_30001_30000?N=0&amp;?ICID=glblnav" class="psMegaNavLink">Brighton Sofa&nbsp;<i class="fa fa-caret-right"></i>
+	</a>
+	<a href="CurrentOffers_10001_10052_-1?ICID=glblnav">
+		</a></p><p class="down"><a href="CurrentOffers_10001_10052_-1?ICID=glblnav">TAKE AN EXTRA</a></p><a href="CurrentOffers_10001_10052_-1?ICID=glblnav">
+		<p class="offer">20% OFF</p>
+		<p class="offer-plus">OR 0% APR UNTIL JAN 2019</p>
+		<p class="offer-view">View All Offers &nbsp;<i class="fa fa-caret-right"></i></p>
+	</a>
+</div>
             </div>
-          </span>   
+          </span>    
 
           </ul>
-      </li> <!-- end avf showroom -->
-                        
-                        
-                        
-            <li id="puresleep" class="parent withChild"><!-- begin puresleep -->
-        <a href="PureSleep_10001_10052_-1?ICID=glblnav" class="parentCatTitle">MATTRESSES &amp; MORE
-        </a>
-          <ul id="pureSleepSub" class="childLevel">
-
-          <span class="subCat">
-            <a href="PureSleep_10001_10052_-1?ICID=glblnav"><li class="child">Mattresses</li></a>
-            <a href="Content_Pillows_10001_10052_-1_N?ICID=glblnav"><li class="child">Pillows</li></a>
-            <a href="Content_MattressProtectors_10001_10052_-1_N?ICID=glblnav"><li class="child">Mattress Protectors</li></a>
-            <a href="Content_AdjustableBases_10001_10052_-1_N?ICID=glblnav"><li class="child">Adjustable Bases</li></a>      
-            <a href="ArtVanCategoryDisplayView?keyword=Bed%20Frames&amp;catalogId=10051&amp;storeId=10052&amp;langId=-1&amp;N=141+108&amp;?ICID=glblnav"><li class="child">Bed Frames</li></a>
-            <a href="ArtVanCategoryDisplayView?keyword=Bed%20Linens&amp;catalogId=10051&amp;storeId=10052&amp;langId=-1&amp;N=141+125&amp;?ICID=glblnav"><li class="child">Bed Linens</li></a>
-            <a href="Content_ExperiencePureSleep_10001_10052_-1_N?ICID=glblnav"><li class="child">What is PureSleep?</li></a>   
-            <a class="psEdgeStyle" href="Content_PureSleep-Edge_10001_10052_-1_N?ICID=glblnav"><li class="child"><span>PureSleep Edge<br>Rewards Program</span></li></a>    
-          </span>
-
-          <span class="subCat">
-            <a href="#"><li class="child catTitle noTopBorder">Mattress Price</li></a>
-            <a href="ArtVanCategoryDisplayView?langId=-1&amp;storeId=10052&amp;N=141+82+17&amp;catalogId=10051&amp;?ICID=glblnav"><li class="child">$250-$500</li></a>
-            <a href="ArtVanCategoryDisplayView?langId=-1&amp;storeId=10052&amp;N=141+82+18&amp;catalogId=10051&amp;?ICID=glblnav"><li class="child">$500-$1000</li></a>
-            <a href="ArtVanCategoryDisplayView?langId=-1&amp;storeId=10052&amp;N=141+82+16&amp;catalogId=10051&amp;?ICID=glblnav"><li class="child">$1000-$1500</li></a>
-            <a href="ArtVanCategoryDisplayView?langId=-1&amp;storeId=10052&amp;N=141+82+19&amp;catalogId=10051&amp;?ICID=glblnav"><li class="child">$1500-$2000</li></a>
-            <a href="ArtVanCategoryDisplayView?langId=-1&amp;storeId=10052&amp;N=141+82+21&amp;catalogId=10051&amp;?ICID=glblnav"><li class="child">$2000 or more</li></a>
-            <br>
+      </li> 
+        <!-- end avf showroom --><!-- begin puresleep --><!--
+            <li id="puresleep" class="parent">
+                <a href="PureSleep_10001_10052_-1?ICID=glblnav" class="parentCatTitle">Mattresses & More</a>
+            </li>
+-->
             
-            <a href="Content_ExperiencePureSleep_10001_10052_-1_N?ICID=glblnav"><li class="child catTitle noTopBorder">Comfort Level</li></a>
-            <a href="ArtVanCategoryDisplayView?catalogId=10051&amp;langId=-1&amp;storeId=10052&amp;N=141+230+4294947633&amp;?ICID=glblnav"><li class="child">Soft Support</li></a>
-            <a href="ArtVanCategoryDisplayView?catalogId=10051&amp;langId=-1&amp;storeId=10052&amp;N=141+230+4294947635&amp;?ICID=glblnav"><li class="child">Medium Support</li></a>
-            <a href="ArtVanCategoryDisplayView?catalogId=10051&amp;langId=-1&amp;storeId=10052&amp;N=141+230+4294947634&amp;?ICID=glblnav"><li class="child">Firm Support</li></a>
+            
+                                  
+    <li id="puresleep" class="parent withChild psMegaNav psAVside">
+        <a href="PureSleep_10001_10052_-1?ICID=glblnav" class="parentCatTitle">Mattresses &amp; More</a>
+            <ul id="psMegaNav2Sub" class="childLevel avDisplay">
+            
+            <span class="subCat">
+            <li class="child catTitle noTopBorder psTitle">Products</li>
+            <a href="ArtVanCategoryDisplayView?catalogId=10051&amp;langId=-1&amp;storeId=10052&amp;N=141+230&amp;?ICID=glblnav"><li class="child">Mattresses</li></a>
+            <a href="ArtVanCategoryDisplayView?catalogId=10051&amp;langId=-1&amp;storeId=10052&amp;N=141+82+218&amp;?ICID=glblnav"><li class="child">Pillows</li></a>
+            <a href="ArtVanCategoryDisplayView?catalogId=10051&amp;langId=-1&amp;storeId=10052&amp;N=141+82+204&amp;ICID=glblnav"><li class="child">Mattress Protectors</li></a>
+            <a href="ArtVanCategoryDisplayView?catalogId=10051&amp;langId=-1&amp;storeId=10052&amp;N=141+134&amp;?ICID=glblnav"><li class="child">Adjustable Bases</li></a>
+
+            <a href="ArtVanCategoryDisplayView?catalogId=10051&amp;langId=-1&amp;storeId=10052&amp;N=141+108&amp;?ICID=glblnav"><li class="child">Bed Frames</li></a>
+            <a href="ArtVanCategoryDisplayView?catalogId=10051&amp;langId=-1&amp;storeId=10052&amp;N=141+254&amp;?ICID=glblnav"><li class="child">Bed Linens</li></a>
+          </span>
           
+            <span class="subCat">            
+            <li class="child catTitle noTopBorder psTitle">Size</li>
+            <a href="ArtVanCategoryDisplayView?catalogId=10051&amp;langId=-1&amp;storeId=10052&amp;N=141+230+4294960512&amp;?ICID=glblnav"><li class="child">California King</li></a>
+            <a href="ArtVanCategoryDisplayView?catalogId=10051&amp;langId=-1&amp;storeId=10052&amp;N=141+230+4294965756&amp;?ICID=glblnav"><li class="child">King</li></a>
+            <a href="ArtVanCategoryDisplayView?catalogId=10051&amp;langId=-1&amp;storeId=10052&amp;N=141+230+4294965757&amp;?ICID=glblnav"><li class="child">Queen</li></a>
+            <a href="ArtVanCategoryDisplayView?catalogId=10051&amp;langId=-1&amp;storeId=10052&amp;N=141+230+4294965759&amp;?ICID=glblnav"><li class="child">Full</li></a>
+            <a href="ArtVanCategoryDisplayView?catalogId=10051&amp;langId=-1&amp;storeId=10052&amp;N=141+230+4294960506&amp;?ICID=glblnav"><li class="child">Full Extra Long</li></a>
+            <a href="ArtVanCategoryDisplayView?catalogId=10051&amp;langId=-1&amp;storeId=10052&amp;N=141+230+4294965758&amp;?ICID=glblnav"><li class="child">Twin</li></a>
+            <a href="ArtVanCategoryDisplayView?catalogId=10051&amp;langId=-1&amp;storeId=10052&amp;N=141+230+4294960511&amp;?ICID=glblnav"><li class="child">Twin Extra Long</li></a>
           </span>
-
-          <span class="subCat">
-            <a href="#"><li class="child catTitle noTopBorder">Mattress Size</li></a>
-            <a href="ArtVanCategoryDisplayView?langId=-1&amp;storeId=10052&amp;N=141+4294960512&amp;catalogId=10051&amp;?ICID=glblnav"><li class="child">California King</li></a>
-            <a href="ArtVanCategoryDisplayView?langId=-1&amp;storeId=10052&amp;N=141+4294965756&amp;catalogId=10051&amp;?ICID=glblnav"><li class="child">King</li></a>
-            <a href="ArtVanCategoryDisplayView?langId=-1&amp;storeId=10052&amp;N=141+4294965757&amp;catalogId=10051&amp;?ICID=glblnav"><li class="child">Queen</li></a>
-            <a href="ArtVanCategoryDisplayView?langId=-1&amp;storeId=10052&amp;N=141+4294965759&amp;catalogId=10051&amp;?ICID=glblnav"><li class="child">Full</li></a>  
-            <!--<a href="ArtVanCategoryDisplayView?langId=-1&storeId=10052&N=141+4294960506&catalogId=10051&?ICID=glblnav"><li class="child">Full Extra Long</li></a>-->
-            <a href="ArtVanCategoryDisplayView?langId=-1&amp;storeId=10052&amp;N=141+4294965758&amp;catalogId=10051&amp;?ICID=glblnav"><li class="child">Twin</li></a>
-            <a href="ArtVanCategoryDisplayView?catalogId=10051&amp;langId=-1&amp;storeId=10052&amp;N=141+4294960511+205+230&amp;?ICID=glblnav"><li class="child">Twin Extra Long</li></a> 
-          </span>
-
+          
           <span class="subCat lastCat">
-            <a href="#"><li class="child catTitle noTopBorder">Mattress Brand</li></a>
-            <a href="ArtVanCategoryDisplayView?catalogId=10051&amp;langId=-1&amp;storeId=10052&amp;N=141+82+4294965765&amp;?ICID=glblnav"><li class="child">Sealy</li></a>
-            <a href="ArtVanCategoryDisplayView?catalogId=10051&amp;langId=-1&amp;storeId=10052&amp;N=141+82+4294965766&amp;?ICID=glblnav"><li class="child">Beautyrest</li></a>
-            <a href="ArtVanCategoryDisplayView?catalogId=10051&amp;langId=-1&amp;storeId=10052&amp;N=141+82+4294965763&amp;?ICID=glblnav"><li class="child">Stearns &amp; Foster</li></a>
-            <a href="ArtVanCategoryDisplayView?langId=-1&amp;storeId=10052&amp;N=141+4294965761&amp;catalogId=10051&amp;?ICID=glblnav"><li class="child">Sleep to Live</li></a> 
-            <a href="ArtVanCategoryDisplayView?catalogId=10051&amp;langId=-1&amp;storeId=10052&amp;N=141+82+4294965762&amp;ICID=glblnav"><li class="child">King Koil</li></a>
-            <a href="Content_Tempur-Pedic_10001_10052_-1_N?ICID=glblnav"><li class="child">Tempur-Pedic</li></a> 
-            <a href="ArtVanCategoryDisplayView?catalogId=10051&amp;langId=-1&amp;storeId=10052&amp;N=141+82+4294943886&amp;?ICID=glblnav"><li class="child">iComfort</li></a>
-            <a href="ArtVanCategoryDisplayView?catalogId=10051&amp;langId=-1&amp;storeId=10052&amp;N=141+82+4294943748&amp;?ICID=glblnav"><li class="child">iSeries</li></a>
-            <a href="ArtVanCategoryDisplayView?catalogId=10051&amp;langId=-1&amp;storeId=10052&amp;N=141+82+4294943553&amp;?ICID=glblnav"><li class="child">Perfect Sleeper</li></a>
-
+            <li class="child catTitle noTopBorder psTitle">Brand</li>
+            <a href="ArtVanCategoryDisplayView?catalogId=10051&amp;langId=-1&amp;storeId=10052&amp;N=141+230+4294965770&amp;?ICID=glblnav"><li class="child">Tempur-Pedic</li></a>
+            <a href="ArtVanCategoryDisplayView?catalogId=10051&amp;langId=-1&amp;storeId=10052&amp;N=141+230+4294965765&amp;?ICID=glblnav"><li class="child">Sealy</li></a>
+            <a href="ArtVanCategoryDisplayView?catalogId=10051&amp;langId=-1&amp;storeId=10052&amp;N=141+230+4294965766&amp;?ICID=glblnav"><li class="child">Simmons</li></a>
+            <a href="ArtVanCategoryDisplayView?catalogId=10051&amp;langId=-1&amp;storeId=10052&amp;N=141+230+4294965763&amp;?ICID=glblnav"><li class="child">Stearns &amp; Foster</li></a>
+            <a href="ArtVanCategoryDisplayView?catalogId=10051&amp;langId=-1&amp;storeId=10052&amp;N=141+230+4294943555&amp;?ICID=glblnav"><li class="child">Serta</li></a>
+            <a href="ArtVanCategoryDisplayView?catalogId=10051&amp;langId=-1&amp;storeId=10052&amp;N=141+230+4294943886&amp;?ICID=glblnav"><li class="child">iComfort</li></a>
+            <a href="ArtVanCategoryDisplayView?catalogId=10051&amp;langId=-1&amp;storeId=10052&amp;N=141+230+4294943748&amp;?ICID=glblnav"><li class="child">iSeries</li></a>
+            <a href="ArtVanCategoryDisplayView?langId=-1&amp;storeId=10052&amp;N=141+4294965761&amp;catalogId=10051&amp;?ICID=glblnav"><li class="child">Sleep to Live</li></a>
+            <a href="ArtVanCategoryDisplayView?catalogId=10051&amp;langId=-1&amp;storeId=10052&amp;N=141+230+4294965762&amp;?ICID=glblnav"><li class="child">King Koil</li></a>
           </span>
-
-
+          
+            
           <span class="subCat adSpot">
             <div class="catAdSpot">
+                    <style>
+	.ps_bg {
+		background-image: url(/Furniture/Store/ArtVan/upload/webimages/_ShortTerm/globnavCSimg/0804-GN/PureSleepMegaNav.jpg);
+		background-repeat: no-repeat;
+		background-size: cover;
+		padding: 10px;
+		width: 262px;
+		height: 320px;
+		text-align: center;
+	}
+	
+	.ps_bg p {
+		font-size: 1.2em;
+		color: white;
+	}
+	
+	.subCat .ps_bg a:hover {
+		text-decoration: none;
+	}
+	
+	p.top_p {
+		padding-top: 8.5em;
+	}
+</style>
+<div class="ps_bg">
+	<a href="PureSleep-CurrentOffers_10001_10052_-1?ICID=PSNav" class="psMegaNavLink">
+		<p class="top_p">UP TO AN EXTRA</p>
+		<p style="font-family: sans-serif;"><b>25% OFF PLUS</b></p>
+		<p><b>50 MONTHS</b></p>
+		<p><b>INTEREST FREE FINANCING</b></p>
+	</a>
+</div>
+<p style="text-align: center; padding-top: 2em;"><a href="PureSleep-CurrentOffers_10001_10052_-1?ICID=PSNav" class="offer-view">View all Offers</a>&nbsp;
+	<i class="fa fa-caret-right"></i>
+</p>           
+           
+            </div>
+          </span> 
+            </ul>
+    </li>
+            
+            
+        <!-- end puresleep --><!-- begin clearance center -->
+      <li id="avfcc" class="parent withChild">
+        <a href="ClearanceCenter_10001_10052_-1?ICID=glblnav" class="parentCatTitle">Clearance Center
+        </a>
+          <ul id="avfCCSub" class="childLevel">
+
+          <span class="subCat">
+           
+        <a href="Search?catalogId=10051&amp;langId=-1&amp;storeId=10052&amp;Ntt=New+Arrivals&amp;N=140&amp;ICID=glblnav"><li class="child catTitle noTopBorder">New Arrivals</li></a>
+           
+            <a href="ArtVanCategoryDisplayView?keyword=Living%20Rooms&amp;catalogId=10051&amp;storeId=10052&amp;langId=-1&amp;N=140+78&amp;?ICID=glblnav"><li class="child catTitle">Living Rooms</li></a>
+            <a href="ArtVanCategoryDisplayView?catalogId=10051&amp;langId=-1&amp;storeId=10052&amp;N=140+143&amp;?ICID=glblnav"><li class="child">Sofas</li></a>
+            <a href="ArtVanCategoryDisplayView?catalogId=10051&amp;langId=-1&amp;storeId=10052&amp;N=140+144&amp;?ICID=glblnav"><li class="child">Loveseats</li></a>
+            <a href="ArtVanCategoryDisplayView?catalogId=10051&amp;langId=-1&amp;storeId=10052&amp;N=140+238&amp;?ICID=glblnav"><li class="child">Sectionals</li></a>
+            <a href="ArtVanCategoryDisplayView?catalogId=10051&amp;langId=-1&amp;storeId=10052&amp;N=140+145&amp;?ICID=glblnav"><li class="child">Chairs</li></a>
+            <a href="Search?catalogId=10051&amp;langId=-1&amp;storeId=10052&amp;N=140+84&amp;?ICID=glblnav"><li class="child">Recliners</li></a>
+            <a href="ArtVanCategoryDisplayView?catalogId=10051&amp;langId=-1&amp;storeId=10052&amp;N=140+146&amp;?ICID=glblnav"><li class="child">Ottomans</li></a>
+            <a href="ArtVanCategoryDisplayView?catalogId=10051&amp;langId=-1&amp;storeId=10052&amp;N=140+156&amp;?ICID=glblnav"><li class="child">Sleepers</li></a>
+            <a href="ArtVanCategoryDisplayView?catalogId=10051&amp;langId=-1&amp;storeId=10052&amp;N=140+92&amp;?ICID=glblnav"><li class="child">Cocktail &amp; Accent Tables</li></a>
+            
+            
+            
+            <a href="ArtVanCategoryDisplayView?keyword=Media/TV%20Centers&amp;catalogId=10051&amp;storeId=10052&amp;langId=-1&amp;N=140+81&amp;?ICID=glblnav"><li class="child catTitle">Entertainment Centers</li></a>
+            
+            
+            
+            <a href="ArtVanCategoryDisplayView?catalogId=10051&amp;langId=-1&amp;storeId=10052&amp;N=140+83&amp;?ICID=glblnav"><li class="child catTitle">Home Office</li></a>
+            <a href="ArtVanCategoryDisplayView?catalogId=10051&amp;langId=-1&amp;storeId=10052&amp;N=140+185&amp;?ICID=glblnav"><li class="child">Desks</li></a>
+            <a href="ArtVanCategoryDisplayView?catalogId=10051&amp;langId=-1&amp;storeId=10052&amp;N=140+212&amp;?ICID=glblnav"><li class="child">Bookcases</li></a>
+            <a href="ArtVanCategoryDisplayView?catalogId=10051&amp;langId=-1&amp;storeId=10052&amp;N=140+83+216&amp;?ICID=glblnav"><li class="child">File Cabinets</li></a>
+            
+          </span>
+          
+          
+        <span class="subCat">
+            <a href="Search?catalogId=10051&amp;langId=-1&amp;storeId=10052&amp;N=140+79&amp;?ICID=glblnav"><li class="child catTitle noTopBorder">Bedrooms</li></a>
+            <a href="ArtVanCategoryDisplayView?catalogId=10051&amp;langId=-1&amp;storeId=10052&amp;N=140+79+158&amp;?ICID=glblnav"><li class="child">Beds &amp; Headboards</li></a>
+            <a href="ArtVanCategoryDisplayView?catalogId=10051&amp;langId=-1&amp;storeId=10052&amp;N=140+79+169&amp;?ICID=glblnav"><li class="child">Bedroom Sets</li></a>
+            <a href="ArtVanCategoryDisplayView?catalogId=10051&amp;langId=-1&amp;storeId=10052&amp;N=140+79+159&amp;?ICID=glblnav"><li class="child">Dressers</li></a>
+            <a href="ArtVanCategoryDisplayView?catalogId=10051&amp;langId=-1&amp;storeId=10052&amp;N=140+79+160&amp;?ICID=glblnav"><li class="child">Chests</li></a>
+            <a href="ArtVanCategoryDisplayView?catalogId=10051&amp;langId=-1&amp;storeId=10052&amp;N=140+79+161&amp;?ICID=glblnav"><li class="child">Nightstands</li></a>
+            <a href="ArtVanCategoryDisplayView?catalogId=10051&amp;langId=-1&amp;storeId=10052&amp;N=140+79+162&amp;?ICID=glblnav"><li class="child">Bedroom Mirrors</li></a>
             
 
-﻿<div id="megaNavShowroomContent">
-<a href="PureSleep_10001_10052_-1?ICID=megaNav">
-<img src="/Furniture/Store/ArtVan/upload/webimages/_ShortTerm/globnavCSimg/0611-GN/GlobalNavPSb.png" usemap="#PSMap" border="0">
+            <a href="ArtVanCategoryDisplayView?catalogId=10051&amp;langId=-1&amp;storeId=10052&amp;N=140+94&amp;?ICID=glblnav"><li class="child catTitle">Kids &amp; Teens</li></a>
+            <a href="ArtVanCategoryDisplayView?catalogId=10051&amp;langId=-1&amp;storeId=10052&amp;N=140+94+158&amp;?ICID=glblnav"><li class="child">Beds &amp; Headboards</li></a>
+            <a href="ArtVanCategoryDisplayView?catalogId=10051&amp;langId=-1&amp;storeId=10052&amp;N=140+94+166&amp;?ICID=glblnav"><li class="child">Bunkbeds</li></a>
+            <a href="ArtVanCategoryDisplayView?catalogId=10051&amp;langId=-1&amp;storeId=10052&amp;N=140+94+159&amp;?ICID=glblnav"><li class="child">Dressers</li></a>
+            <a href="ArtVanCategoryDisplayView?catalogId=10051&amp;langId=-1&amp;storeId=10052&amp;N=140+94+160&amp;?ICID=glblnav"><li class="child">Chests</li></a>
+            <a href="ArtVanCategoryDisplayView?catalogId=10051&amp;langId=-1&amp;storeId=10052&amp;N=140+94+161&amp;?ICID=glblnav"><li class="child">Nightstands</li></a>
+            <a href="ArtVanCategoryDisplayView?catalogId=10051&amp;langId=-1&amp;storeId=10052&amp;N=140+94+162&amp;?ICID=glblnav"><li class="child">Bedroom Mirrors</li></a>
+          </span>
+          
+          
+          
+        <span class="subCat lastCat">
+            <a href="Search?catalogId=10051&amp;langId=-1&amp;storeId=10052&amp;N=140+80&amp;?ICID=glblnav"><li class="child catTitle noTopBorder">Dining Rooms</li></a>
+            <a href="ArtVanCategoryDisplayView?catalogId=10051&amp;langId=-1&amp;storeId=10052&amp;N=140+172&amp;?ICID=glblnav"><li class="child">Dining Tables</li></a>
+            <a href="ArtVanCategoryDisplayView?catalogId=10051&amp;langId=-1&amp;storeId=10052&amp;N=140+151&amp;?ICID=glblnav"><li class="child">Dining Chairs</li></a>
+            <a href="ArtVanCategoryDisplayView?catalogId=10051&amp;langId=-1&amp;storeId=10052&amp;N=140+171&amp;?ICID=glblnav"><li class="child">Dining Room Packages</li></a>
+            <a href="ArtVanCategoryDisplayView?catalogId=10051&amp;langId=-1&amp;storeId=10052&amp;N=140+173&amp;?ICID=glblnav"><li class="child">Bar Stools</li></a>
+            
+            <a href="ArtVanCategoryDisplayView?keyword=Accessories&amp;catalogId=10051&amp;storeId=10052&amp;langId=-1&amp;N=140+85&amp;?ICID=glblnav"><li class="child catTitle">Accessories</li></a>
+                        
+                        
+            <a href="#"><li class="child catTitle">Rugs</li></a>
+            <a href="ArtVanCategoryDisplayView?catalogId=10051&amp;langId=-1&amp;storeId=10052&amp;N=140+85+244&amp;?ICID=glblnav"><li class="child">4 x 6</li></a>
+            <a href="ArtVanCategoryDisplayView?catalogId=10051&amp;langId=-1&amp;storeId=10052&amp;N=140+85+245&amp;?ICID=glblnav"><li class="child">5 x 8</li></a>
 
-<map name="PSMap">
-  <area shape="rect" coords="2,2,210,128" href="/Furniture/Store/PureSleep_10001_10052_-1?ICID=glblnav">
-  <area shape="rect" coords="2,131,211,281" href="CurrentOffers_10001_10052_-1?ICID=glblnav">
-</map>
-</a>
-</div>    
+            <a href="#"><li class="child catTitle">Exclusives</li></a>
+            <a href="Content_mySofa_10001_10052_-1_N?ICID=glblnav"><li class="child">MySofa</li></a>
+            
+            <a href="Search?catalogId=10051&amp;langId=-1&amp;storeId=10052&amp;N=4294950577&amp;?ICID=glblnav">
+            <li class="child catTitle">Last Chance</li></a>
+          </span>
+          
+          
+          <span class="subCat adSpot">
+            <div class="catAdSpot">           
+                    <style>
+	.cc_bg {
+		padding: 10px;
+		text-align: center;
+	}
+	
+	.cc_bg p {
+		color: black;
+	}
+	
+	.cc_bg p.down a {
+		padding-top: 1em;
+		font-size: 1em;
+	}
+	
+	.cc_bg p.offer {
+		font-weight: bold;
+		font-size: 3.5em;
+		font-family: sans-serif;
+	}
+	
+	.cc_bg p.offer-view {
+		padding-top: 2em;
+	}
+	
+	.cc_bg p.offer-plus {
+		font-size: 1.2em;
+	}
+	
+	.subCat .cc_bg a:hover {
+		text-decoration: none;
+	}
+	
+	.cc_bg .subCat p.itemAC a {
+		color: black;
+		margin-top: -20px;
+		font-size: .8em!important;
+	}
+	
+	.cc_bg .psMegaNavLink,
+	.psMegaNavTxt>.fa-caret-right {
+		font-size: 1em!important;
+	}
+</style>
+<div class="cc_bg">
+	<a href="Product_Saxon-Navy-Sofa_10051_10052_-1_300204818_30001_30000?N=0&amp;?ICID=glblnav" class="psMegaNavLink">
+		<img src="/Furniture/Store/ArtVan/upload/webimages/_ShortTerm/globnavCSimg/01001-GN/CCMegaNav.png">
+		</a><p class="item"><a href="Product_Saxon-Navy-Sofa_10051_10052_-1_300204818_30001_30000?N=0&amp;?ICID=glblnav" class="psMegaNavLink">Saxon Navy Sofa &nbsp;<i class="fa fa-caret-right"></i>
+	</a>
+	<a href="CurrentOffers_10001_10052_-1?ICID=glblnav">
+		</a></p><p class="down"><a href="CurrentOffers_10001_10052_-1?ICID=glblnav">TAKE AN EXTRA</a></p><a href="CurrentOffers_10001_10052_-1?ICID=glblnav">
+		<p class="offer">10% OFF</p>
+		<p class="offer-plus">PLUS NO INTEREST IF PAID IN FULL</p>
+		<p class="offer-plus">WITHIN 12 MONTHS</p>
+		<p class="offer-view">View All Offers &nbsp;<i class="fa fa-caret-right"></i></p>
+	</a>
+</div>            
             </div>
-          </span>   
+          </span>            
 
-          </ul>     
+        </ul>     
       </li>
-        <!-- end puresleep --><!-- begin Luxury -->
-      <li id="ssiLuxury" class="parent withChild">
-        <a href="ScottShuptrineInteriors_10001_10052_-1?ICID=glblnav" class="parentCatTitle">LUXURY
-        </a>  
-         <ul id="LuxurySub" class="childLevel">
+      <!-- end clearance center --><!-- begin luxury -->
+      <li id="ssi" class="parent withChild">
+<!--        <a href="ScottShuptrineInteriors_10001_10052_-1?ICID=glblnav" class="parentCatTitle">Luxury</a>-->
+                 <a href="ScottShuptrineInteriors_10001_10052_-1?ICID=glblnav" class="parentCatTitle">Luxury</a>
+
+          <ul id="ssiSub" class="childLevel">
+        
           <span class="subCat lastCat">
            
-            <a href="Content_SSGallery_10001_10052_-1_N?ICID=glblnav"><li class="child catTitle lessPad">The Gallery</li></a>
+            <a href="Content_SSGallery_10001_10052_-1_N?ICID=glblnav"><li class="child catTitle noTopBorder">The Gallery</li></a>
             <a href="Content_SSCollections_10001_10052_-1_N?ICID=glblnav"><li class="child catTitle lessPad">The Collections</li></a>
-                        <a href="Content_SSDesigners_10001_10052_-1_N?ICID=glblnav"><li class="child catTitle lessPad">Designers</li></a>  
-            <a href="http://scottshuptrine.icovia.com/icovia.aspx" target="_blank"><li class="child catTitle lessPad">Room Planner</li></a>  
+            <a href="Content_SSDesigners_10001_10052_-1_N?ICID=glblnav"><li class="child catTitle lessPad">Designers</li></a>
+            <a href="http://scottshuptrine.icovia.com/icovia.aspx" target="_blank"><li class="child catTitle lessPad">Room Planner</li></a>
             <a href="ScottShuptrineOptInForm?storeId=10052&amp;catalogId=10001&amp;langId=-1&amp;?ICID=glblnav"><li class="child catTitle lessPad">The Loop</li></a>  
-            
-            <a href="#"><li class="child catTitle">Find Your Style</li></a>
+            <a href="Content_Scotts-Attic_10001_10052_-1_N?ICID=glblnav"><li class="child catTitle lessPad">Scott's Attic</li></a>              
+            <li class="child catTitle ssiTitle">Find Your Style</li>
             <a href="Content_style-quiz_10001_10052_-1_N?ICID=glblnav"><li class="child">Style Quiz</li></a>
             <a href="Content_SSEclecticLoft_10001_10052_-1_N?ICID=glblnav"><li class="child">Eclectic Loft</li></a>
             <a href="Content_SSTraditional_10001_10052_-1_N?ICID=glblnav"><li class="child">Traditional</li></a>
-            <a href="Content_SSTransitional_10001_10052_-1_N?ICID=glblnav"><li class="child">Transitional</li></a> 
+            <a href="Content_SSTransitional_10001_10052_-1_N?ICID=glblnav"><li class="child">Transitional</li></a>
             <a href="Content_SSVintageModern_10001_10052_-1_N?ICID=glblnav"><li class="child">Vintage Modern</li></a>
-    
-          </span>
+            </span>
+          
 
           <span class="subCat adSpot">
-            <div class="catAdSpot">
-            <a href="#"><img src="/Furniture/Store/ArtVan/upload/webimages/_ShortTerm/globnavCSimg/0609-GN/GlobalNavSS.png"></a>  
+            <div class="catAdSpot">           
+                    <a href="#"><img src="/Furniture/Store/ArtVan/upload/webimages/_ShortTerm/globnavCSimg/0609-GN/GlobalNavSS.png"></a>           
+           
             </div>
-          </span> 
-          </ul>    
-        </li>
-        <!-- end Luxury --><!-- begin aby -->
+          </span>            
+
+        </ul>     
+      </li>
+      <!-- end luxury --><!-- begin aby --><!--
       <li id="aby" class="parent withChild"> 
-        <a href="ArtsBackyard_10001_10052_-1?ICID=glblnav" class="parentCatTitle">OUTDOOR
+        <a href="ArtsBackyard_10001_10052_-1?ICID=glblnav" class="parentCatTitle">Outdoor
         </a>
           <ul id="abySub" class="childLevel">
 
           <span class="subCat lastCat">
-              <a href="Search?catalogId=10051&amp;langId=-1&amp;storeId=10052&amp;sid=1487A74855A5&amp;N=86"><li class="child catTitle lessPad">Shop All</li></a>
-            <a href="ArtVanCategoryDisplayView?keyword=Seating&amp;catalogId=10051&amp;storeId=10052&amp;langId=-1&amp;N=141+128&amp;?ICID=glblnav"><li class="child catTitle lessPad">Seating</li></a>
-            <a href="ArtVanCategoryDisplayView?keyword=Dining&amp;catalogId=10051&amp;storeId=10052&amp;langId=-1&amp;N=141+129&amp;?ICID=glblnav"><li class="child catTitle lessPad">Dining</li></a>
-            <a href="ArtVanCategoryDisplayView?keyword=Firepits&amp;catalogId=10051&amp;storeId=10052&amp;langId=-1&amp;N=141+130&amp;?ICID=glblnav"><li class="child catTitle lessPad">Firepits</li></a>
-            <a href="ArtVanCategoryDisplayView?keyword=Umbrellas&amp;catalogId=10051&amp;storeId=10052&amp;langId=-1&amp;N=141+131&amp;?ICID=glblnav"><li class="child catTitle lessPad">Umbrellas</li></a>
-            <a href="ArtVanCategoryDisplayView?keyword=Accessories&amp;catalogId=10051&amp;storeId=10052&amp;langId=-1&amp;N=141+229&amp;?ICID=glblnav"><li class="child catTitle lessPad">Accessories</li></a>
-            <a href="ArtVanCategoryDisplayView?keyword=Grills&amp;catalogId=10051&amp;storeId=10052&amp;langId=-1&amp;N=141+250&amp;?ICID=glblnav"><li class="child catTitle lessPad">Grills</li></a>
-            <a href="Search?catalogId=10051&amp;langId=-1&amp;storeId=10052&amp;sid=144D1798AB54&amp;Ntt=last+chance&amp;N=86&amp;?ICID=glblnav"><li class="child catTitle lessPad">Last Chance</li></a> 
+           
+            <a href="Search?Nty=1&catalogId=10051&Ns=P_Date+added%7c1%7c%7cP_Name%7c0&langId=-1&storeId=10052&N=0&?ICID=glblnav"><li class="child catTitle noTopBorder">New Arrivals</li></a>
+             
+            <a href=" Search?catalogId=10051&langId=-1&storeId=10052&N=86&?ICID=glblnav"><li class="child catTitle lessPad">Shop All</li></a>
+           
+            <a href="ArtVanCategoryDisplayView?keyword=Seating&catalogId=10051&storeId=10052&langId=-1&N=141+128&?ICID=glblnav"><li class="child catTitle lessPad">Seating</li></a>
+            <a href="ArtVanCategoryDisplayView?keyword=Dining&catalogId=10051&storeId=10052&langId=-1&N=141+129&?ICID=glblnav"><li class="child catTitle lessPad">Dining</li></a>
+            <a href="ArtVanCategoryDisplayView?keyword=Firepits&catalogId=10051&storeId=10052&langId=-1&N=141+130&?ICID=glblnav"><li class="child catTitle lessPad">Firepits</li></a>
+            <a href="ArtVanCategoryDisplayView?keyword=Umbrellas&catalogId=10051&storeId=10052&langId=-1&N=141+131&?ICID=glblnav"><li class="child catTitle lessPad">Umbrellas</li></a>
+            <a href="ArtVanCategoryDisplayView?keyword=Accessories&catalogId=10051&storeId=10052&langId=-1&N=141+229&?ICID=glblnav"><li class="child catTitle lessPad">Accessories</li></a>
+            <a href="ArtVanCategoryDisplayView?keyword=Grills&catalogId=10051&storeId=10052&langId=-1&N=141+250&?ICID=glblnav"><li class="child catTitle lessPad">Grills</li></a>
+            <a href="Search?catalogId=10051&langId=-1&storeId=10052&N=86+4294950577&?ICID=glblnav"><li class="child catTitle lessPad">Last Chance</li></a> 
+         </span>   
+
+          <span class="subCat adSpot">
+            <div class="catAdSpot">           
+                     
+            </div>
+          </span>    
+
+          </ul>     
+      </li>
+-->
+      <!-- end aby --><!-- begin flooring --><!-- #d11d44 -->
+      <li id="avfFlooring" class="parent withChild">
+        <a href="ArtVanFlooring_10001_10052_-1?ICID=glblnav" class="parentCatTitle">Flooring</a>
+        <ul id="avfFlooringSub" class="childLevel">
+
+          <span class="subCat lastCat">
+           
+            <a href="http://www.artvanfloors.com/shop-at-home.php" target="_blank"><li class="child catTitle noTopBorder">Shop at Home</li></a>
+             
+            <a href="/Furniture/Store/Content_storeLocator_10051_10052_-1_N?ICID=glblnav"><li class="child catTitle lessPad">Find a Store</li></a>
+           
+            <a href="/Furniture/Store/ArtVanCategoryDisplayView?keyword=Rugs&amp;catalogId=10051&amp;storeId=10052&amp;langId=-1&amp;N=120&amp;?ICID=glblnav"><li class="child catTitle">Rugs</li></a>
+            <a href="/Furniture/Store/ArtVanCategoryDisplayView?catalogId=10051&amp;langId=-1&amp;storeId=10052&amp;N=141+243&amp;?ICID=glblnav"><li class="child">2 x 8</li></a>
+            <a href="/Furniture/Store/Search?catalogId=10051&amp;langId=-1&amp;storeId=10052&amp;N=141+245&amp;?ICID=glblnav"><li class="child">5 x 8</li></a>
+            <a href="/Furniture/Store/Search?catalogId=10051&amp;langId=-1&amp;storeId=10052&amp;N=141+246&amp;?ICID=glblnav"><li class="child">8 x 10</li></a>
+            <li class="child catTitle avFlooringTitle">Learn More</li>
+            <a href="http://www.artvanfloors.com/hardwood-flooring.php" target="_blank"><li class="child">Wood</li></a>
+            <a href="http://www.artvanfloors.com/laminate.php" target="_blank"><li class="child">Laminate</li></a> 
+            <a href="http://www.artvanfloors.com/carpet.php" target="_blank"><li class="child">Carpet</li></a> 
+            <a href="http://www.artvanfloors.com/vinyl.php" target="_blank"><li class="child">Vinyl</li></a> 
+
          </span>   
 
           <span class="subCat adSpot">
             <div class="catAdSpot">
-            
-﻿<div id="megaNavShowroomContent">
-<a href="ArtsBackyard_10001_10052_-1?ICID=megaNav">
-<img src="/Furniture/Store/ArtVan/upload/webimages/_ShortTerm/globnavCSimg/0611-GN/GlobalNavABY.png" usemap="#ABYMap" border="0">
-
-<map name="ABYMap">
-  <area shape="rect" coords="4,2,214,141" href="Product_Heritage-Gas-Firepit_10051_10052_-1_550003743_40003_40000?N=0&amp;?ICID=glblnav">
-  <area shape="rect" coords="8,148,215,278" href="CurrentOffers_10001_10052_-1?ICID=glblnav">
-</map>
-</a>
-</div>
-  
+           
+                    <style>
+	.fl_bg {
+		padding: 10px;
+		text-align: center;
+	}
+	
+	.fl_bg p {
+		color: black;
+	}
+	
+	p.down {
+		padding-top: 1em;
+		font-size: 1.5em;
+	}
+	
+	p.offer {
+		font-weight: bold;
+		font-size: 3.0em;
+		font-family: sans-serif;
+	}
+	
+	p.add-offer {
+		font-weight: bold;
+		font-size: 1.65em;
+	}
+	
+	p.plus-offer {
+		font-size: 1.7em;
+	}
+	
+	p.offer-view {
+		padding-top: 2em;
+	}
+	
+	.subCat .fl_bg a:hover {
+		text-decoration: none;
+	}
+</style>
+<div class="fl_bg">
+	<a href="CurrentOffers_10001_10052_-1?ICID=glblnav" class="psMegaNavLink">
+		<img src="/Furniture/Store/ArtVan/upload/webimages/_ShortTerm/globnavCSimg/0804-GN/FlooringMegaNav.png">
+	</a>
+	<a href="CurrentOffers_10001_10052_-1?ICID=glblnav">
+		<p class="down">TAKE AN EXTRA</p>
+		<p class="offer">20% OFF</p>
+		<p class="add-offer">OR 0% APR UNTIL JAN 2019</p>
+		<p class="offer-view">View All Offers &nbsp;<i class="fa fa-caret-right"></i></p>
+	</a>
+</div> 
             </div>
-          </span>     
+          </span>    
 
           </ul>     
       </li>
-      <!-- end aby -->
-
-
-      <li id="avfcc" class="parent withChild"><!-- begin clearance center -->
-        <a href="ClearanceCenter_10001_10052_-1?ICID=glblnav" class="parentCatTitle">CLEARANCE CENTER
-        </a>
-          <ul id="avfCCSub" class="childLevel">
-
-          <span class="subCat lastCat">
-            <a href="ArtVanCategoryDisplayView?keyword=Living%20Rooms&amp;catalogId=10051&amp;storeId=10052&amp;langId=-1&amp;N=140+78&amp;?ICID=glblnav"><li class="child catTitle lessPad">Living Rooms</li></a>
-            <a href="ArtVanCategoryDisplayView?keyword=Bedrooms&amp;catalogId=10051&amp;storeId=10052&amp;langId=-1&amp;N=140+79&amp;?ICID=glblnav"><li class="child catTitle lessPad">Bedrooms</li></a>
-            <a href="ArtVanCategoryDisplayView?keyword=Dining%20Rooms&amp;catalogId=10051&amp;storeId=10052&amp;langId=-1&amp;N=140+80&amp;?ICID=glblnav"><li class="child catTitle lessPad">Dining Rooms</li></a>
-            <a href="ArtVanCategoryDisplayView?keyword=Media/TV%20Centers&amp;catalogId=10051&amp;storeId=10052&amp;langId=-1&amp;N=140+81&amp;?ICID=glblnav"><li class="child catTitle lessPad">Media/TV Centers</li></a>
-<!--            <a href="Content_realdeal_10001_10052_-1_N?ICID=glblnav"><li class="child catTitle lessPad">TV Packages</li></a>-->
-            <a href="ArtVanCategoryDisplayView?keyword=Recliners&amp;catalogId=10051&amp;storeId=10052&amp;langId=-1&amp;N=140+84&amp;?ICID=glblnav"><li class="child catTitle lessPad">Recliners</li></a>
-            <a href="ArtVanCategoryDisplayView?keyword=Home%20Office%20Furniture&amp;catalogId=10051&amp;storeId=10052&amp;langId=-1&amp;N=140+83&amp;?ICID=glblnav"><li class="child catTitle lessPad">Home Office</li></a>
-            <a href="ArtVanCategoryDisplayView?keyword=Accessories&amp;catalogId=10051&amp;storeId=10052&amp;langId=-1&amp;N=140+85&amp;?ICID=glblnav"><li class="child catTitle lessPad">Accessories</li></a>
-<!--            <a href="Content_mySofa_10001_10052_-1_N?ICID=glblnav"><li class="child catTitle lessPad">MySofa</li></a>-->
-          </span>
-
-
-          <span class="subCat adSpot">
-            <div class="catAdSpot">
-            <div id="megaNavShowroomContent">
-<a href="ClearanceCenter_10001_10052_-1?ICID=megaNav">
-<img src="/Furniture/Store/ArtVan/upload/webimages/_ShortTerm/globnavCSimg/0611-GN/GlobalNavCC.png" usemap="#CCMap" border="0">
-
-<map name="CCMap">
-  <area shape="rect" coords="3,1,213,133" href="Product_Soho-2-Piece-Sectional_10051_10052_-1_300140203_30008_30000?N=0&amp;?ICID=glblnav">
-  <area shape="rect" coords="3,135,212,294" href="CurrentOffers_10001_10052_-1?ICID=glblnav">
-</map>
-</a>
-</div>
+      <!-- end flooring --><!-- begin Todays Sale -->
+        <li id="todaysSale" class="parent">
+            <a href="CurrentOffers_10001_10052_-1?ICID=glblnav" class="parentCatTitle">TODAY'S SALE
+        </a>  
   
-            </div>
-          </span>           
-
-        </ul>     
-      </li><!-- end clearance center --><!--
-      <li id="holiday" class="parent" style="width: 100px; position: relative; margin-right: 5px;">
-          <img src="/Furniture/Store/ArtVan/upload/lilPrezzie.png" width="49" height="49" style="position: absolute; top: -5px; left: 5px;"/><a href="Content_holiday2014_10001_10052_-1_N?ICID=glblhdr" class="parentCatTitle" style="color: #98002e !important; position: relative; left: 25px;">HOLIDAY</a>
-      </li>
--->
-
-      
-     
-
-      <li id="wof" class="parent"><!-- begin flooring -->
-        <a href="WorldOfFloors_10001_10052_-1?ICID=glblnav" class="parentCatTitle">FLOORING</a>
-          <!--<ul id="WofOffer" class="childLevelRight">
-            <img src="../../Furniture/Store/ArtVan/upload/webimages/_ShortTerm/LP-WOF/offer.jpg" alt="World of Floors offer" title="This week's offer at World of Floors" />
-          </ul> -->     
-      </li><!-- end flooring -->
-
+        </li>
+        <!-- end Todays Sale -->
 
 
     </ul> <!-- end main -->
@@ -796,16 +1125,18 @@ return c_value;
 
 </div><!-- end mega nav -->
 </div><!-- end nav wrap -->
+	      	             
 	
 
 </div><!-- header wrap -->
+
 <script src="../../Furniture/Store/ArtVan/upload/webjs/globalHeaderFunctions.js"></script>
 <!--END HEADER--><!-- End - JSP File name:  style3/CachedHeaderDisplay.jsp -->
-<div id="rndmGBanner" style="border-left: 2px solid #d2d1cf; border-right: 2px solid #d2d1cf; margin: 0; padding: 3px 0; text-align: center; width: 947px; background-color: #fff; *padding: 0;*margin-left: 1px;">
-	<div style="margin:-40px 0px 0px 0px;">
-<img src="/Furniture/Store/ArtVan/upload/webimages/globalBanners/Banner0611.gif">
-</div>
 
+
+
+<div id="rndmGBanner" style="border-left: 2px solid #d2d1cf; border-right: 2px solid #d2d1cf; margin: 0; padding: 3px 0; text-align: center; width: 947px; background-color: #fff; *padding: 0;*margin-left: 1px;">
+	 
 
 	
 </div>
@@ -814,9 +1145,7 @@ return c_value;
     </td>
   </tr>
   <tr> 
-    <td height="100%" valign="top">
-	<!-- Sidebar --><!-- BEGIN SidebarDisplay.jspf --><!-- Start - JSP File name:  style1/SidebarDisplay.jsp --><!--START SIDEBAR NAVIGATION--><!--END SIDEBAR NAVIGATION--><!-- End - JSP File name:  style1/SidebarDisplay.jsp --><!-- END SidebarDisplay.jspf --><!-- /Sidebar -->
-    </td>
+    <!-- td height="100%"  valign="top" --><!-- Sidebar --><!-- /Sidebar --><!-- /td -->
     <td width="100%" height="100%" valign="top" align="center"> 
       <!-- Content Container --><!-- BEGIN ContentContainerTop.jsp -->
 
@@ -831,6 +1160,7 @@ return c_value;
 <div id="body">
 
 	<div id="bodyContentNoLeft">	
+<div class="privacyPolicy">
 <h2 style="color:#333;font-size:20px;margin-bottom:12px;display:block;border-bottom:1px solid #666;">Privacy Policy &amp; Terms of Use</h2>
 
 <p class="staticContentText">By accepting these Privacy and Terms of Use through your use of the artvan.com Web site, you certify that you are 18 years of age or older. If you are under the age of 18 you may use artvan.com only under the supervision of a parent or legal guardian who agrees to be bound by this document. If you do not agree to (or cannot comply with) any statement listed, do not use this Web site.</p>
@@ -883,6 +1213,7 @@ return c_value;
 
 <p class="staticContentText"><span style="font-size:14px;font-weight:bold;color:#333;">Changes to the Privacy and Terms of Use Policy</span></p>
 <p class="staticContentText">We reserve the right to change, modify or amend this policy at any time without notice. Please check our Privacy and Terms of Use Policy periodically for changes. Use of this artvan.com Web site after modification implies that you consent to this Privacy Policy as modified.</p>
+</div>
 	</div>
 <!-- BEGIN LayoutContainerBottom.jspf --><!-- /Content --><!-- BEGIN ContentContainerBottom.jsp --><!-- This file is empty. Add content here that you want as a common wrapper for your main content. -->
 
@@ -899,6 +1230,7 @@ return c_value;
 
 <!-- END ContentContainerBottom.jsp --><!-- /Content Container--><!-- Footer --><!-- BEGIN FooterDisplay.jspf --><!-- Start - JSP File name:  style1/CachedFooterDisplay.jsp -->
 
+
 <script language="javascript">
 
 function submitEmail(form)
@@ -914,176 +1246,216 @@ function submitEmail(form)
 <!--end Endeca Accordian -->
 
 <div id="footer">
-	<div id="footerSig"><img src="ArtVan/upload/webimages/artvan-footer-sig.png" alt="Art Van Furniture. Established in 1959." title="Art Van Furniture. Established in 1959."></div>
+<span class="footerNavigation footer1">
+           		<div style="width:1090px; margin:auto; position:relative; margin-top:34px; margin-bottom:34px">
+	<a href="http://www.artvan.com/Furniture/Store/ArtVan/upload/parade/wonderland.html"><img src="//s7d3.scene7.com/is/image/ArtVanFurniture/WonderlandBanner?scl=1"></a>
+</div>
+
+			</span>
 
 <div id="footerWrapper">
 
-	<div id="socialMediaIcons">
-			<ul id="socMedList">
-			<li class="socMedItem"><a href="http://www.facebook.com/art.van.furniture" target="_blank"><img src="ArtVan/upload/webimages/footer-images/64-facebook.png" alt="Facebook" title="Find Us on Facebook"></a></li>
-			<li class="socMedItem"><a href="http://pinterest.com/artvan/" target="_blank"><img src="ArtVan/upload/webimages/footer-images/64-pinterest.png" alt="Pinterest" title="Join Us on Pinterest"></a></li>
-			<li class="socMedItem"><a href="http://twitter.com/ArtVan" target="_blank"><img src="ArtVan/upload/webimages/footer-images/64-twitter.png" alt="Twitter" title="Follow Us on Twitter"></a></li>
-	            <br>
-	        <li class="socMedItem"><a href="https://plus.google.com/u/0/114812919316244889297/posts" target="_blank"><img src="ArtVan/upload/webimages/footer-images/64-googleplus.png" alt="Google+" title="+1 Us on Google+"></a></li>
-			<li class="socMedItem"><a href="http://instagram.com/artvanfurniture" target="_blank"><img src="ArtVan/upload/webimages/footer-images/64-instagram.png" alt="Instagram" title="Follow Us on Instagram"></a></li>
-			<li class="socMedItem"><a href="EmailUpdateFormView?langId=-1&amp;storeId=10052&amp;catalogId=10001&amp;ICID=Footer-EmailSignUp"><img src="ArtVan/upload/webimages/footer-images/64-email.png" alt="Our email list" title="Sign Up to receive promotional emails and save!"></a></li>
-	
-			</ul>
-	
-			<div style="clear:both;"></div>
-	
-			<p><span id="socMedTitle">Socialize with Us</span><br><span id="socMedSubTitle">and Save!</span></p>
-	</div>
 
 		<div id="linkListWrap">
-			<span class="footerNavigation footer1">
-           		<style type="text/css">
+			
+			
+			<span class="footerNavigation footer2">
 
-.f_title {font-weight: normal; font-family: Georgia}
+				
+				<style>
+.footer1Options {width: 100%; margin: auto; text-align: center;}
+.f1Option {display: inline-block; text-align: center; vertical-align: middle; width: 500px; padding: 25px; text-align: left; position: relative;}
+.f1OptionMiddle {border-left: 2px solid #fff;}
+.f1Option>img {float: left; padding-right: 20px;}
+.f1OptionLink {color: #9e2628; font-size: 1.09em; font-family: Helvetica; display: block; padding: 3px 0;}
+.f1OptionCTA {margin-top: 10px;}
+.f1Title {display: block; font-size: 1.4em; position: relative;}
+.f1SubTitle {font-size: .71em; color: #7f7f7f; font-family: Helvetica; display: inline-block; position: relative; left: 0;} 
+.f1LearnMore {padding-top: 5px;}
+@media(max-width: 1121px){.f1Option{width: 490px}}
 
 </style>
 
-<ul>
+<ul class="footer1Options">
+<li class="f1Option">
+<img class="financeOptionImg" src="/Furniture/Store/ArtVan/upload/webimages/footer-images/signature_card.png" alt="Art Van Signature Card" title="Art Van Signature Card">
+<div class="f1OptionCTA">
+<span class="f_link f1Title">Art Van Signature Card
+<span class="f1SubTitle">by Synchrony</span></span>
+<a href="Content_creditInfo_10001_10052_-1_N?ICID=footer" class="f1OptionLink f1LearnMore">
+Learn More <i class="fa fa-caret-right"></i></a>
+<a href="https://etail.mysynchrony.com/eapply/eapply.action?uniqueId=31D87EA3090740298142BE9198BD17C034276C609AD5D346&amp;client=Art%20Van%20Furniture" target="_blank" class="f1OptionLink">
+Apply Now <i class="fa fa-caret-right"></i></a>
+<a href="https://www.mysynchrony.com/merchants/cmp-index.html?market=homefurnishings&amp;store=artvan" target="_blank" class="f1OptionLink">
+    Manage Account / Pay Bill <i class="fa fa-caret-right"></i></a>
+</div>
+</li>
+
+<li class="f1Option f1OptionMiddle">
+<img class="financeOptionImg" src="/Furniture/Store/ArtVan/upload/webimages/footer-images/better_than_rent_03.gif" alt="No Credit Check 90 Day Option" title="No Credit Check 90 Day Option">
+<div class="f1OptionCTA">
+<span class="f_link f1Title">Credit Not Required | 90 Day Option
+<!--<span class="f1SubTitle">by Progressive</span>--></span>
+<a href="Content_creditInfo_10001_10052_-1_N?ICID=footer" class="f1OptionLink f1LearnMore">
+Learn More <i class="fa fa-caret-right"></i></a>
+<a href="https://www.progressivelp.com/onlineapplication/onlineapplication.aspx?sid=ArtVa5869392100" target="_blank" class="f1OptionLink">Apply Now <i class="fa fa-caret-right"></i></a>
+<a href="https://www.progressivelp.com/SPNEW/StorePortal/User/Logon" target="_blank" class="f1OptionLink">Manage Account / Pay Bill <i class="fa fa-caret-right"></i></a>
+</div>
+</li>
+
+</ul>
+				
+			</span>		
+			</div>
+			
+			<style>
+                #footerWrapper {
+                    position: relative!important;
+                }
+                 .reservedForNorton {
+                     display: block;
+                     width: 135px;
+                     height: 107px;
+                     z-index: 1000;
+                     bottom: 15px;
+                     right: 350px;
+                     text-align: center;
+                    margin: auto;
+                    margin-top: 20px;
+                 } 
+                .veryBtm {
+                    width:100%; 
+                    margin: auto; 
+                    padding: 20px 0; 
+                    border-top: 2px solid #fff; 
+                    color: #7f7f7f; 
+                    text-align: center; 
+                    position: relative;
+                }
+                .copyYear {
+                    display: inline-block;
+                }
+            </style>
+
+
+		</div><!-- end footerWrapper -->
+			<div class="anchorContent">
+            <span class="footerNavigation footer3">
+
+				<style type="text/css">
+
+.f_title {font-weight: normal; font-family: Helvetica; text-transform: uppercase;}
+.f2Options {display: inline-block; padding: 25px 130px 0 10px; vertical-align: top; text-align: left!important;}
+.f2Options li {margin: 10px 0;}
+.avf1959 {background:url(/Furniture/Store/ArtVan/upload/webimages/footer-images/HomepageMockupDraftSliced_10.png) no-repeat right; display: inline-block; width: 497px; height: 332px; vertical-align: top; position: absolute; right: 0;}
+.anchorContent {width: 1090px; margin: auto; min-height: 333px;}
+
+</style>
+
+<ul class="f2Options">
 
   <li class="f_title">Let Us Help</li>
   <li><a href="Content_storeLocator_10051_10052_-1_N?ICID=footer" title="Stores &amp; Hours" class="f_link">Stores &amp; Hours</a></li>
   <li><a href="Content_contactUs_10001_10052_-1_N?ICID=footer" title="Contact Us" class="f_link">Contact Us</a></li>
-    <li><a href="Content_weeklyAd_10051_10052_-1_N?ICID=footer" title="Weekly Ads" class="f_link">Weekly Ads</a></li>
+  <li><a href="Content_weeklyAd_10051_10052_-1_N?ICID=footer" title="Weekly Ads" class="f_link">Weekly Ads</a></li>
   <li><a href="Content_TSG_10001_10052_-1_N?ICID=footer" title="Returns &amp; Exchanges" class="f_link">Returns &amp; Exchanges</a></li>
   <li><a href="Content_delivery_10001_10052_-1_N?ICID=footer" title="Delivery, Returns &amp; Service" class="f_link">Delivery, Returns &amp; Service</a></li>
   <li><a href="Content_your-new-furniture_10001_10052_-1_N?ICID=footer" title="Warranty, Care &amp; Protection" class="f_link">Warranty, Care &amp; Protection</a></li>
   <li><a href="Content_FAQ_10001_10052_-1_N?ICID=footer" title="Frequently Asked Questions" class="f_link">Frequently Asked Questions</a></li>
   <li><a href="Product_Gift%20Cards_10051_10052_-1_810001000_30000_?ICID=FT-GiftCards" title="Gift Cards" class="f_link">Gift Cards</a></li>
-  <li><a href="Content_roomPlanner_10001_10052_-1_N?ICID=footer" title="Gift Cards" class="f_link">Room Planner</a></li>
+  <li><a href="Content_roomPlanner_10001_10052_-1_N?ICID=footer" title="Room Planner" class="f_link">Room Planner</a></li>
 
 </ul>
-			</span>
-			<span class="footerNavigation footer2">
-          		<ul>
+
+
+
+<ul class="f2Options">
   <li class="f_title">About Art Van</li>
   <li><a href="Content_aboutUs_10001_10052_-1_N?ICID=footer" title="Our Story" class="f_link">Our Story</a></li>
-  
   <li><a href="Content_Million-Dollar-Grant-Challenge_10001_10052_-1_N?ICID=footer" title="In Our Community" class="f_link">In Our Community</a></li>
-  
   <li><a href="Content_events_10001_10052_-1_N?ICID=footer" title="Events" class="f_link">Events</a></li>
-  
-  <li><a href="http://jobs.artvan.com/" title="Careers" target="_blank" class="f_link"><span style="color: #dd1426;">Careers - <strong>Now Hiring!</strong></span></a></li>
-  
+  <li><a href="http://jobs.artvan.com/" target="_blank" title="Careers" class="f_link">Careers</a></li>
   <li><a href="http://www.artvanmedia.com/" target="_blank" title="Media &amp; Press" class="f_link">Media &amp; Press</a></li>
-  
-  <li><a href="http://www.artvanfranchising.com/" target="_blank" title="Franchising" class="f_link">Franchising</a></li>
-  
-  <li><a href="http://www.scottshuptrine.com" target="_blank" title="Scott Shuptrine Interiors" class="f_link">Scott Shuptrine Interiors</a></li>
-  
+  <!--<li><a href="http://www.artvanfranchising.com/" target="_blank" title="Franchising" class="f_link">Franchising</a></li>-->
+  <!-- li><a href="http://www.scottshuptrine.com" target="_blank" title="Scott Shuptrine Interiors" class="f_link">Scott Shuptrine Interiors</a></li> -->
   <li><a href="http://artvancleanteam.com/" target="_blank" title="Art Van CleanTeam" class="f_link">Art Van CleanTeam</a></li>
-  
-  <li><a href="Content_PrivacyPolicy_10001_10052_-1_N?ICID=footer" title="Privacy Policy" class="f_link">Privacy Policy</a></li>
-    
+ <li><a href="Content_PrivacyPolicy_10001_10052_-1_N?ICID=footer" title="Privacy Policy" class="f_link">Privacy Policy</a></li>
 </ul>
-			</span>
-			<span class="footerNavigation footer3">
-          		<style>
- .financeOptionImg {
-vertical-align: middle;
-}
-</style>
 
-<ul>
-<li class="f_title">Apply Now</li>
-<li>
-<a href="https://etail.mysynchrony.com/eapply/eapply.action?uniqueId=31D87EA3090740298142BE9198BD17C034276C609AD5D346&amp;client=Art%20Van%20Furniture" target="_blank" class="f_link">
-<img class="financeOptionImg" src="/Furniture/Store/ArtVan/upload/webimages/sm-sigcard.png" alt="Art Van Signature Card" title="Art Van Signature Card">&nbsp;&nbsp;Art Van Signature Card</a>
-</li>
-<li>
-<a href="https://www.progressivelp.com/onlineapplication/onlineapplication.aspx?sid=ArtVa5869392100" target="_blank" class="f_link">
-<img class="financeOptionImg" src="/Furniture/Store/ArtVan/upload/webimages/sm-progressive.png" alt="Credit Not Required. 90 Day Option" title="No Credit Check 90 Day Option">&nbsp;&nbsp;Credit Not Required</a>
-</li>
- <li>	
-<a href="Content_creditInfo_10001_10052_-1_N?ICID=footer" class="f_link"><img class="financeOptionImg" src="/Furniture/Store/ArtVan/upload/webimages/learnmorecard.png" alt="Learn More About Financing Options" title="Learn More About Financing Options">&nbsp;&nbsp;Learn More/Manage Account</a>
-</li>
-</ul>
-			</span>
-			<span class="footerNavigation footer4">
-				
+<span class="avf1959">
+</span>
 			</span>
 			</div>
-		</div><!-- end footerWrapper --><!-- this css/html is specific to the weekly ad sticky widget only -->
-<style>   
-.stickyWidgetWeeklyAd {
-    position: fixed;
-    right: -138px;
-    bottom: 25%;
-    z-index: 9999999;
-    text-align: right;
-}
-.stickyWidgetTab, .stickyWidgetContent {
-    display: inline-block;
-}
-.stickyWidgetTab {
-    position: relative;
-    right: -3px;
-}
-.stickyWidgetTab:hover {
-    cursor: pointer;
-}
-.stickyWidgetContent #stickWidgetImage {
-    top: 0;
-    padding: 0;
-    margin: 0;
-    border: 0;
-}
+                    <div class="veryBtm">
+    Copyright © <span class="copyYear">2020</span>. Art Van Furniture
+            <div class="reservedForNorton" title="Click to Verify - This site chose Symantec SSL for secure e-commerce and confidential communications.">
+            <script type="text/javascript" src="https://seal.websecurity.norton.com/getseal?host_name=www.artvan.com&amp;size=S&amp;use_flash=NO&amp;use_transparent=YES&amp;lang=en"></script><br>
+            <a href="http://www.symantec.com/ssl-certificates" target="_blank" style="color:#000000; text-decoration:none; font:bold 7px verdana,sans-serif; letter-spacing:.5px; text-align:center; margin:0px; padding:0px;">ABOUT SSL CERTIFICATES</a>
+ 			</div> <!-- end reservedForNorton -->
+                    </div>
+                    <script>
+                        var fetchYear = new Date().getFullYear();
+                        $('.copyYear').html(fetchYear);
+                    </script>
+
+    <style>
+    .stickyWidget {
+        position: fixed;
+        bottom: 0;
+        width: 100%;
+        z-index: 9999995;
+        left: 0;
+        text-align: center;
+        background-color: #1a5269;
+        height: 40px;
+    }
     
-.stickyWidgetContent > span#closeMe {
-    position: absolute;
-    top: 255px;
-    left: 101px;
-    width: 70px; 
-    background-color: #bdbabb;
-    text-align: center;
-    opacity: 1;
-    border-radius: 0 0 0 10px;
-    padding: 5px 0 5px 10px;
-    height: auto;
-}
-
-.stickyWidgetContent > #closeMe a {
-    color: #fff !important;
-    font-size: 12px;
-    font-weight: bold;
-    position: relative;
-    letter-spacing: .09em;
-}
-
-.stickyWidgetDisplayed {
-    right: 0;
-}
-
+    .stickyWidgetContent {
+        position: relative;
+        bottom: -8px;
+        text-align: center;
+        min-width: 1090px;
+        left: -47px
+    }
+    
+    span#closeStickyWidget {
+        position: relative;
+        bottom: 25px !important;
+        opacity: .6 !important;
+        width: 27px !important;
+        height: 27px !important;
+        display: inline-block;
+        z-index: 1010105;
+        padding: 1px;
+        left: 108px;
+        top: -7px;
+        border-radius: 40px !important;
+        background-color: #FFF !important;
+        
+    }
+    
+    #closeStickyWidget a {
+        color: #1a5269 !important;
+        font-size: 20px !important;
+        font-weight: bolder !important;
+        position: relative;
+        bottom: -3px;
+        text-decoration: none!important
+    }
 </style>
-<!--[if IE 8]>
-<style>   
-.stickyWidgetContent > span#closeMe {
-    top: 240px;
+<div class="stickyWidget">
+    <div class="stickyWidgetContent">
+        <a href="/Furniture/Store/LogonForm?storeId=10052&amp;langId=-1&amp;catalogId=10051&amp;krypto=%2BACTY0VS7GKN4etd7uqgFi2BRE8U3q%2FF9sC4Ng6vn0VX74I6LPSrufHhSYYd7MQ3n8AKI%2B4lpwTWujTVIaJTm5GcNKoo5ZJJayPncoIxKdk%3D&amp;ddkey=http%3ALogonForm?ICID=RoomServiceBottomBar"><img src="//s7d3.scene7.com/is/image/ArtVanFurniture/RoomServiceSticky?hei=25&amp;fmt=png-alpha" id="stickWidgetImage" border="0"></a>
+        <span id="closeStickyWidget"><a href="#">X</a></span>
 
-}
-</style>
-<![endif]-->
-
-<div class="stickyWidgetWeeklyAd">
-   <div class="stickyWidgetTab">
-    <span class="stickyWidgetTabOpen">
-    <img src="/Furniture/Store/ArtVan/upload/webimages/stickywidget/assets/Tab.jpg" border="0">     </span>   
     </div>
-   <div class="stickyWidgetContent">
-   <!-- URL to weekly ad page -->
-    <a href="Content_weeklyAd_10051_10052_-1_N?ICID=stickyWidget">
-    <!-- Image source path of weekly ad page -->
-    <img src="/Furniture/Store/ArtVan/upload/webimages/stickywidget/StickyWidget0611.jpg" id="stickWidgetImage" border="0">
-    </a>
-    <span id="closeMe"><a href="#">REMOVE</a></span>
-   </div>
-</div> 
 
 </div>
+
+</div>
+
+
+
 <!-- BEGIN LivePerson Monitor. --><script language="javascript"> var lpMTagConfig = {'lpServer' : "server.iad.liveperson.net",'lpNumber' : "29161993",'lpProtocol' : "https"}; function lpAddMonitorTag(src){if(typeof(src)=='undefined'||typeof(src)=='object'){src=lpMTagConfig.lpMTagSrc?lpMTagConfig.lpMTagSrc:'/hcp/html/mTag.js';}if(src.indexOf('http')!=0){src=lpMTagConfig.lpProtocol+"://"+lpMTagConfig.lpServer+src+'?site='+lpMTagConfig.lpNumber;}else{if(src.indexOf('site=')<0){if(src.indexOf('?')<0)src=src+'?';else src=src+'&';src=src+'site='+lpMTagConfig.lpNumber;}};var s=document.createElement('script');s.setAttribute('type','text/javascript');s.setAttribute('charset','iso-8859-1');s.setAttribute('src',src);document.getElementsByTagName('head').item(0).appendChild(s);} if (window.attachEvent) window.attachEvent('onload',lpAddMonitorTag); else window.addEventListener("load",lpAddMonitorTag,false);</script><!-- END LivePerson Monitor. --><!-- End - JSP File name:  style3/CachedFooterDisplay.jsp -->
 
 <div id="igdRTA">
@@ -1152,4 +1524,4 @@ var google_remarketing_only = true;
 
 
 
-<div id="fancybox-tmp"></div><div id="fancybox-loading"><div></div></div><div id="fancybox-overlay"></div><div id="fancybox-wrap"><div id="fancybox-outer"><div class="fancybox-bg" id="fancybox-bg-n"></div><div class="fancybox-bg" id="fancybox-bg-ne"></div><div class="fancybox-bg" id="fancybox-bg-e"></div><div class="fancybox-bg" id="fancybox-bg-se"></div><div class="fancybox-bg" id="fancybox-bg-s"></div><div class="fancybox-bg" id="fancybox-bg-sw"></div><div class="fancybox-bg" id="fancybox-bg-w"></div><div class="fancybox-bg" id="fancybox-bg-nw"></div><div id="fancybox-content"></div><a id="fancybox-close"></a><div id="fancybox-title"></div><a href="javascript:;" id="fancybox-left"><span class="fancy-ico" id="fancybox-left-ico"></span></a><a href="javascript:;" id="fancybox-right"><span class="fancy-ico" id="fancybox-right-ico"></span></a></div></div><script language="javascript" type="text/javascript" src="//static.chartbeat.com/js/chartbeat.js"></script></body></html>
+<script language="javascript" type="text/javascript" src="//static.chartbeat.com/js/chartbeat.js"></script></body></html>
