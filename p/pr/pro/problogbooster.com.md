@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the problogbooster.com privacy policy that was archived on 2015-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150619115930id_/http%3A//www.problogbooster.com/2009/09/privacy-policy-statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the problogbooster.com privacy policy that was archived on 2015-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151218005936id_/http%3A//www.problogbooster.com/2009/09/privacy-policy-statement.html) for the most accurate reproduction.*
 
 # Privacy Policy Statement - ProBlogBooster
 
