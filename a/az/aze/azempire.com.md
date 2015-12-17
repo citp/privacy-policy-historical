@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the azempire.com privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611132707id_/http%3A//azempire.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the azempire.com privacy policy that was archived on 2015-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151217161047id_/http%3A//azempire.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Azon Empire
+# Privacy Policy | Azon Empire
 
 The privacy of our visitors is of extreme importance to us. This privacy policy document is designed to advise you about how we collect, use, and protect the Personally Identifiable Information (hereinafter defined) that you provide to us through our website. By visiting this website, you are accepting the practices described in this Privacy Policy. 
 
