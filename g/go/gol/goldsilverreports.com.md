@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the goldsilverreports.com privacy policy that was archived on 2015-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150617033427id_/http%3A//www.goldsilverreports.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goldsilverreports.com privacy policy that was archived on 2015-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151217133708id_/http%3A//www.goldsilverreports.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Gold Silver Reports | Neal Bhai
-
-It's only fair to share...000000
 
 This website is administered by GoldSilverreports.com. We want you to feel secure when visiting our site and are committed to maintaining your privacy when doing so. The following provides an overview of how we protect your privacy during your visit to our site.
 
@@ -19,5 +17,3 @@ As a commited organization, the data we collect will not be leaked outside our o
 ## Personal Data
 
 We are committed to protecting your personal information and do so with certain physical and technological procedures. However, we cannot ensure the security of the information as you transmit it to us, and so we urge you to take every precaution to protect your personal data when you are on the Internet. This includes using a secure browser like Mozilla Firefox, Google Chrome, Sea Monkey, Netscape or Opera where applicable. We do not recommend Internet Explorer.
-
-## Everything Is Possible, Dream, Believe, Act And Achieve.
