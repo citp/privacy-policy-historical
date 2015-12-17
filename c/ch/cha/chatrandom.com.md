@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chatrandom.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623195549id_/http%3A//chatrandom.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chatrandom.com privacy policy that was archived on 2015-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151217082827id_/http%3A//chatrandom.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - ChatRandom.com
 
@@ -91,3 +91,5 @@ We may occasionally update this Privacy Policy. When we do, we will indicate the
 11.Contacting ChatRandom.
 
 If you have any questions regarding this Privacy Policy, please [contact us by clicking here](https://web.archive.org/contactus/)
+
+/var/www/sites/www.chatrandom.com/html/privacy 
