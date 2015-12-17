@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the recipedelish.com privacy policy that was archived on 2015-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150617032502id_/http%3A//www.recipedelish.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the recipedelish.com privacy policy that was archived on 2015-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151217202550id_/http%3A//www.recipedelish.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | RecipeDelish
 
@@ -60,3 +60,6 @@ Online Media Group, LLC. may amend this Privacy Policy from time to time, at its
 Conditions of Use
 
 If you decide to visit the RecipeDelish.com website, your visit and any possible dispute over privacy is subject to thisPrivacy Policy and our Terms of Use, including limitations on damages, arbitration of disputes, and application of California state law.
+
+  
+
