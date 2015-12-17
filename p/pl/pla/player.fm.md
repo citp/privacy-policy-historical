@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the player.fm privacy policy that was archived on 2014-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141203065233id_/https%3A//player.fm/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the player.fm privacy policy that was archived on 2015-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151217035723id_/https%3A//player.fm/privacy) for the most accurate reproduction.*
 
-# Privacy
+# 
 
 #### General
 
