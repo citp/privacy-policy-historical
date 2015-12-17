@@ -1,26 +1,54 @@
-<!--The following is the downloaded HTML source of the nornar.com privacy policy that was archived on 2015-06-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150607140316id_/http%3A//nornar.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the nornar.com privacy policy that was archived on 2015-12-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151217193021id_/http%3A//nornar.com/privacy.html) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html dir="ltr"><head>
-<title>Nornar.com - Easy way to share your files</title>
-<link rel="stylesheet" type="text/css" href="http://nornar.com/mega.css">
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script language="JavaScript" type="text/javascript" charset="UTF-8" src="http://nornar.com/jquery-1.9.1.min.js"></script>
-<script language="JavaScript" type="text/javascript" charset="UTF-8" src="http://nornar.com/xupload.js?"></script>
-<!-- <script language="JavaScript" type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.1/jquery.min.js"></script> -->
-<meta http-equiv="Content-Type" content="text-html; charset=UTF-8">
-<meta name="description" content="Nornar.com - Free file upload service">
-<meta name="keywords" content="file upload,share files,free upload, free download, make money, earn money, file download">
+<html dir="ltr"><head>
+    <meta charset="UTF-8">
+    <meta http-equiv="content-Type" content="text-html; charset=UTF-8">                                                                     
+    <meta name="description" content="Nornar.com - Free file upload service">
+    <meta name="keywords" content="file upload,share files,free upload">
+    <title>Nornar.com - Easy way to share your files</title>
+    <link rel="icon" href="images/favicon.gif" type="image/x-icon">
+    <link rel="shortcut icon" href="favicon.ico" type="image/x-icon"> 
+    <link rel="stylesheet" type="text/css" href="http://nornar.com/css/style.css">
+    <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script language="JavaScript" type="text/javascript" charset="UTF-8" src="http://nornar.com/js/jquery-1.9.1.min.js"></script>
+    <script type="text/javascript" src="http://nornar.com/js/jquery.paging.js"></script> 
+    <script type="text/javascript" src="http://nornar.com/js/jquery.cookie.js"></script> 
+    <script type="text/javascript" src="http://nornar.com/js/paging.js"></script> 
+    <script type="text/javascript">
+    $(document).ready(function() {
+           $("#showallarch").click(function() {
+               $(this).css('display', 'none'),
+            $("#fileinfoarch").css('height', '100%'),
+            $("#grad").css('display', 'none');
+           });
+       });
+   </script> 
+   <script type="text/javascript">
+      (function($) {
+   $(function() {
 
-<script type="text/javascript">
-if (top !== self) top.location.href = self.location.href;
-</script>
+      $('ul.tabs').on('click', 'li:not(.current)', function() {
+         var section = $(this).parents('div.section:first');
+         var idx = $(this).index();
 
-<script>
-$(document).ready(function() {
-        $('body').width($('body').width()+1).width('auto')
-});
-</script>
-<meta content="1" name="xfsme">
+         $(this).addClass('current').siblings().removeClass('current');
+         $(section).find('> div.box').eq(idx).fadeIn(150).siblings('div.box').hide();
+         $.cookie($(section).attr('id') + 'tab', idx);
+      });
+
+      $('.section').each(function(i, e) {
+         if(!e.id) return;
+
+         var idx;
+         if(idx = $.cookie(e.id + 'tab'))
+         {
+            $(e).find('> ul > li').eq(idx).click();
+         }
+      });
+
+   })
+   })(jQuery)
+    </script>      
 
 <script type="text/javascript">
 
@@ -36,83 +64,127 @@ $(document).ready(function() {
 
 </script>
 
-<style type="text/css">
-.banner{background:none;
-}
-</style>
 </head>
 <body>
+<div class="wrapper">
+   <div id="header">
+      <div class="container1">
+         <div id="logo" style="float: left;" onclick="location.href='http://nornar.com';"><!--start logo-->
+         </div><!--end logo-->
+         <div id="mainmenu"><!--start main menu-->
+            <ul>
+               
+               
+               <li><a href="http://nornar.com/money.html">Make Money</a></li>
+               <li><a href="http://nornar.com/login.html">Login</a>&nbsp; &nbsp;</li>
+               <li><a class="btn_blue" href="http://nornar.com/?op=registration">Sign Up</a>&nbsp; &nbsp;</li>
+               <li><a href="http://nornar.com/?op=forgot_pass">Forgot your password?</a></li>
+               
+               
+            </ul>
+            <div id="language">
+               <ul>
+                  <li>
+                     <a>
+                        <span class="trf trf-english"></span>
+                     </a>
+                     <ul>
+                        
+                        <li>
+                           <a href="http://nornar.com/?op=change_lang&amp;lang=russian">
+                              <span class="trf trf-russian"></span><span class="langname">Russian</span>
+                           </a>
+                        </li>
+                        
+                        <li>
+                           <a href="http://nornar.com/?op=change_lang&amp;lang=german">
+                              <span class="trf trf-german"></span><span class="langname">German</span>
+                           </a>
+                        </li>
+                        
+                        <li>
+                           <a href="http://nornar.com/?op=change_lang&amp;lang=french">
+                              <span class="trf trf-french"></span><span class="langname">French</span>
+                           </a>
+                        </li>
+                        
+                        <li>
+                           <a href="http://nornar.com/?op=change_lang&amp;lang=arabic">
+                              <span class="trf trf-arabic"></span><span class="langname">Arabic</span>
+                           </a>
+                        </li>
+                        
+                        <li>
+                           <a href="http://nornar.com/?op=change_lang&amp;lang=turkish">
+                              <span class="trf trf-turkish"></span><span class="langname">Turkish</span>
+                           </a>
+                        </li>
+                        
+                        <li>
+                           <a href="http://nornar.com/?op=change_lang&amp;lang=polish">
+                              <span class="trf trf-polish"></span><span class="langname">Polish</span>
+                           </a>
+                        </li>
+                        
+                        <li>
+                           <a href="http://nornar.com/?op=change_lang&amp;lang=thai">
+                              <span class="trf trf-thai"></span><span class="langname">Thai</span>
+                           </a>
+                        </li>
+                        
+                        <li>
+                           <a href="http://nornar.com/?op=change_lang&amp;lang=spanish">
+                              <span class="trf trf-spanish"></span><span class="langname">Spanish</span>
+                           </a>
+                        </li>
+                        
+                        <li>
+                           <a href="http://nornar.com/?op=change_lang&amp;lang=japan">
+                              <span class="trf trf-japan"></span><span class="langname">Japan</span>
+                           </a>
+                        </li>
+                        
+                        <li>
+                           <a href="http://nornar.com/?op=change_lang&amp;lang=hungary">
+                              <span class="trf trf-hungary"></span><span class="langname">Hungary</span>
+                           </a>
+                        </li>
+                        
+                        <li>
+                           <a href="http://nornar.com/?op=change_lang&amp;lang=indonesia">
+                              <span class="trf trf-indonesia"></span><span class="langname">Indonesia</span>
+                           </a>
+                        </li>
+                        
+                        <li>
+                           <a href="http://nornar.com/?op=change_lang&amp;lang=dutch">
+                              <span class="trf trf-dutch"></span><span class="langname">Dutch</span>
+                           </a>
+                        </li>
+                        
+                        <li>
+                           <a href="http://nornar.com/?op=change_lang&amp;lang=hebrew">
+                              <span class="trf trf-hebrew"></span><span class="langname">Hebrew</span>
+                           </a>
+                        </li>
+                        
+                     </ul>
+                  </li>
+               </ul>
+            </div>
+         </div>   
+      </div><!--end main menu-->   
+   </div> <!--end header-->
+   
+   <div class="clear"></div>
+   
+   
+   
+   <div class="clear"></div>
+   <div id="container">
+   
 
-
-
-
-<div style="position:relative;width:100%;margin: 0 auto 0px auto; text-align: left;">
-	    	<div class="navbar-inner">
-	        	<div class="container">
-					<a href="http://nornar.com" class="logo"><img src="http://nornar.com/images_mega/logo.png" alt="nornar.com"></a>
-						
-	<!-- <input type="search" class="search-bar-input" /> -->
-
-		<div class="nav nav-menu">
-	      	<ul class="pull-right">
-
-
-
-<li><a href="http://nornar.com/money.html">Make Money</a></li>
-<li><a href="http://nornar.com/login.html">Login</a>&nbsp; &nbsp;</li>
-<li><a href="http://nornar.com/?op=registration">Sign Up</a>&nbsp; &nbsp;</li>
-<!--<li><a href="http://nornar.com/?op=forgot_pass">Forgot your password?</a></li>-->
-
-
-
-<li id="lang">
-<ul>
-<li class="top"><a href="http://nornar.com/?op=change_lang&amp;lang=english"><!--<span class="trf trf-english"></span>-->English</a></li>
-<span class="dropdown">
-
-<li><a href="http://nornar.com/?op=change_lang&amp;lang=russian"><!--<span class="trf trf-russian"></span>-->Russian</a></li>
-
-<li><a href="http://nornar.com/?op=change_lang&amp;lang=german"><!--<span class="trf trf-german"></span>-->German</a></li>
-
-<li><a href="http://nornar.com/?op=change_lang&amp;lang=french"><!--<span class="trf trf-french"></span>-->French</a></li>
-
-<li><a href="http://nornar.com/?op=change_lang&amp;lang=arabic"><!--<span class="trf trf-arabic"></span>-->Arabic</a></li>
-
-<li><a href="http://nornar.com/?op=change_lang&amp;lang=turkish"><!--<span class="trf trf-turkish"></span>-->Turkish</a></li>
-
-<li><a href="http://nornar.com/?op=change_lang&amp;lang=polish"><!--<span class="trf trf-polish"></span>-->Polish</a></li>
-
-<li><a href="http://nornar.com/?op=change_lang&amp;lang=thai"><!--<span class="trf trf-thai"></span>-->Thai</a></li>
-
-<li><a href="http://nornar.com/?op=change_lang&amp;lang=spanish"><!--<span class="trf trf-spanish"></span>-->Spanish</a></li>
-
-<li><a href="http://nornar.com/?op=change_lang&amp;lang=japan"><!--<span class="trf trf-japan"></span>-->Japan</a></li>
-
-<li><a href="http://nornar.com/?op=change_lang&amp;lang=hungary"><!--<span class="trf trf-hungary"></span>-->Hungary</a></li>
-
-<li><a href="http://nornar.com/?op=change_lang&amp;lang=indonesia"><!--<span class="trf trf-indonesia"></span>-->Indonesia</a></li>
-
-<li><a href="http://nornar.com/?op=change_lang&amp;lang=dutch"><!--<span class="trf trf-dutch"></span>-->Dutch</a></li>
-
-<li><a href="http://nornar.com/?op=change_lang&amp;lang=hebrew"><!--<span class="trf trf-hebrew"></span>-->Hebrew</a></li>
-
-<!--img src="http://nornar.com/images/flag-.gif" alt=" language"-->
-</span>
-</ul>
-</li>
-	      	</ul><!--/ .pull-right -->
-	    </div><!--/ .nav .nav-menu -->
-			    </div><!--/ .container -->
-		    </div><!--/ .navbar-inner -->
-	    </div><!--/ .navbar -->
-
-<div class="banner">
-<div class="inner">
-
-
-
-
-
+   
 
 <div style="text-align:left;width:800px">
 <ul>
@@ -204,46 +276,34 @@ $(document).ready(function() {
 
 </div>
 </div>
-</div>
+   </div>
+   
+<div class="page-buffer"></div>
+<div class="clear"></div>
+<footer>
+   <div class="container1">
+      <div style="float: left;">
+         <p style="line-height: 50px;">© 2015  <a href="http://nornar.com">Nornar</a></p> 
+      </div>
+      <div id="fmenu"><!--start footer menu-->
+            <ul>
 
-<div class="footer">
-<div style="width:1040px;">
-<div style="float:right">
-<ul>
-	<li class="head">Information</li>
-	<li><a href="http://nornar.com/faq.html">FAQ</a></li>
-	<li><a href="http://nornar.com/tos.html">Terms of service</a></li>
-	<li><a href="http://nornar.com/privacy.html">Privacy Policy</a></li>
-	<li><a href="http://nornar.com/?op=news">News</a></li>
-</ul>
-<ul>
-	<li class="head">Contacts</li>
-	<li><a href="http://nornar.com/contact.html">Contact Us</a></li>
-	<li><a href="http://nornar.com/dmca.html">DMCA</a></li>
-	<li><a href="http://nornar.com/abuse.html">Abuse</a></li>
-	<li><a href="http://nornar.com/money.html">Make Money</a></li>
-</ul>
-<ul>
-	<li class="head">Tools</li>
-	<li><a href="http://nornar.com/links.html">Links</a></li>
-	<li><a href="http://nornar.com/?op=checkfiles">Link Checker</a></li>
-	
-</ul>
-<ul>
-	<li class="head">Social</li>
-	<li><a href="#"><img src="../images_mega/ico_fb.png" align="center" alt="nornar.com"></a>
-	<a href="https://twitter.com/NornarCom"><img src="../images_mega/ico_tr.png" align="center" alt="nornar.com"></a>
-	<a href="#"><img src="../images_mega/ico_gp.png" align="center" alt="nornar.com"></a></li>
-</ul>
-</div>
-<div style="color:#373330;font-size:12px; float:left;">
-<div align="center"><img src="../images_mega/map.png" align="center" alt="nornar.com"></div>
-© 2015 Nornar.com, All Rights Reserved
-</div>
-</div>
-</div>
-
-
+               <li><a href="http://nornar.com">Home</a></li>
+               <li><a href="http://nornar.com/money.html">Make Money</a></li>
+               <li><a href="http://nornar.com/?op=news">News</a></li>
+               
+               <li><a href="http://nornar.com/faq.html">FAQ</a></li>
+               <li><a href="http://nornar.com/tos.html">Terms of service</a></li>
+               <li><a href="http://nornar.com/premium.html">Premium</a>  </li>
+               <li><a href="http://nornar.com/?op=checkfiles">Link Checker</a></li>
+               <li><a href="http://nornar.com/links.html">Links</a></li>
+               <li><a href="http://nornar.com/contact.html">Contact Us</a></li>
+               
+            </ul>
+      </div>
+      
+   </div>
+</footer>
 
 
 </body></html>
