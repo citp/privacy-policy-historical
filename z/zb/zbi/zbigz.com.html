@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the zbigz.com privacy policy that was archived on 2015-05-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150517003904id_/https%3A//www.zbigz.com/page-privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the zbigz.com privacy policy that was archived on 2015-12-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151218000753id_/https%3A//www.zbigz.com/page-privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
 		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -14,7 +14,7 @@
 <link rel="stylesheet" href="/css/hint.min.css" type="text/css" media="screen">
 
 
-<link rel="stylesheet" href="css/style.css?v=1.10" type="text/css" media="screen">
+<link rel="stylesheet" href="css/style.css?v=1.30" type="text/css" media="screen">
 <link rel="stylesheet" href="css/royalslider.css">
 <link rel="stylesheet" href="css/royalslider-skins/iskin/iskin.css">
 
@@ -25,9 +25,10 @@
 <script type="text/javascript" src="js/jquery.easing.1.3.min.js"></script>
 <script type="text/javascript" src="js/jquery-ui-1.8.18.custom.min.js"></script>
 <script type="text/javascript" src="js/royal-slider-8.1.min.js"></script>
+<script type="text/javascript" src="js/jquery.filtertable.js"></script>
 <script src="js/smartajax/load.smartajax.js"></script>-->
 
-<script type="text/javascript" async="" src="//cdn.mxpnl.com/libs/mixpanel-2-latest.min.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/js/script.min.js?v=1.14"></script>
+<script type="text/javascript" async="" src="//cdn.mxpnl.com/libs/mixpanel-2-latest.min.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/js/script.min.js?v=1.30"></script>
 <script src="/js/smartajax/load.smartajax.js"></script>
 
 <script>
@@ -119,7 +120,10 @@ SmartAjax_load('/js/smartajax/', function(){
                 }
         });
         }, true);
-</script>
+</script><script src="/js/smartajax/libs/historyjs/amplify.store.js"></script><div style="display: none;"></div><script src="/js/smartajax/libs/historyjs/history.adapter.jquery.js"></script><script src="/js/smartajax/libs/historyjs/history.js"></script><script src="/js/smartajax/libs/historyjs/history.html4.js"></script><script src="/js/smartajax/smartajax.js"></script>
+
+
+<script src="https://d29l98y0pmei9d.cloudfront.net/js/widget.min.js?k=Y2xpZW50SWQ9NjUmaG9zdE5hbWU9emJpZ3ouc3VwcG9ydGhlcm8uaW8="></script>
                 <script type="text/javascript">
 
                 var _gaq = _gaq || [];
@@ -136,10 +140,12 @@ SmartAjax_load('/js/smartajax/', function(){
                                 var localUploadsPath = 'http://isd2ws.zbigz.com/upload1';
                 var localUploadsHost = 'isd2ws.zbigz.com';
 
+                var uid = 0;
                 </script>
                 <!-- start Mixpanel --><script type="text/javascript">(function(f,b){if(!b.__SV){var a,e,i,g;window.mixpanel=b;b._i=[];b.init=function(a,e,d){function f(b,h){var a=h.split(".");2==a.length&&(b=b[a[0]],h=a[1]);b[h]=function(){b.push([h].concat(Array.prototype.slice.call(arguments,0)))}}var c=b;"undefined"!==typeof d?c=b[d]=[]:d="mixpanel";c.people=c.people||[];c.toString=function(b){var a="mixpanel";"mixpanel"!==d&&(a+="."+d);b||(a+=" (stub)");return a};c.people.toString=function(){return c.toString(1)+".people (stub)"};i="disable track track_pageview track_links track_forms register register_once alias unregister identify name_tag set_config people.set people.set_once people.increment people.append people.union people.track_charge people.clear_charges people.delete_user".split(" ");
                 for(g=0;g<i.length;g++)f(c,i[g]);b._i.push([a,e,d])};b.__SV=1.2;a=f.createElement("script");a.type="text/javascript";a.async=!0;a.src="undefined"!==typeof MIXPANEL_CUSTOM_LIB_URL?MIXPANEL_CUSTOM_LIB_URL:"//cdn.mxpnl.com/libs/mixpanel-2-latest.min.js";e=f.getElementsByTagName("script")[0];e.parentNode.insertBefore(a,e)}})(document,window.mixpanel||[]);
                 mixpanel.init("599ddee3554f67e8bb5293e8b4e8672c");</script><!-- end Mixpanel -->   
+                
                 
                 <script src="https://www.google.com/recaptcha/api.js"></script>
 	</head>
@@ -147,9 +153,9 @@ SmartAjax_load('/js/smartajax/', function(){
 		<!-- statusbar -->
 <div id="statusbar" class=""> <!-- class="login-yes"  class="premium-yes"-->
 	<ul>
-		<li class="separator-inverse"></li>
+		<li class="separator"></li>
 
-		<li id="sb-main" class="active"><a href="/" rel="ajax">Main</a></li>
+		<li id="sb-main" class=""><a href="/" rel="ajax">Main</a></li>
 
 		<li class="separator" id="before-mf"></li>
 
@@ -161,7 +167,13 @@ SmartAjax_load('/js/smartajax/', function(){
 
 		<li class="separator"></li>
 
-		<li class="navigation" id="sb-premium"><a href="">Premium is</a></li>
+                <li class="navigation" id="sb-premium">
+                    <a href="">Premium is</a>
+                </li>
+<!--		<li class="separator"></li>
+                <li class="navigation" id="nav-substr" onclick="window.open('pay/paypro/pay.php?pid=526&substr=1');mixpanel.track('click paypro subscription');">
+                    <div class="subscr-img1 enabled"></div>
+                    <img class="subscr-img2" src="/img/subscr/turnonauto.png">                </li>-->
 
 		<li class="separator"></li>
 
@@ -214,11 +226,11 @@ SmartAjax_load('/js/smartajax/', function(){
 	</div>
 </div>
 <form id="load-main-in-backgrond" class="login-forms" method="post" action="/"></form>
-<div id="shadow">
+<div id="shadow" style="height: 768px;">
 
 </div>
 
-<div id="alert">
+<div id="alert" class="ui-draggable">
 	<div id="alert-title">
 		<div id="close-alert"></div>
 		<span> Alert </span>
@@ -332,7 +344,7 @@ SmartAjax_load('/js/smartajax/', function(){
 	</ul>
 </div>
 
-<div id="buy-premium">
+<div id="buy-premium" class="ui-draggable">
 	<div id="buy-premium-title">
 		<div id="close-premium"></div>
 		<span class="blue-title"> Get premium </span>
@@ -344,8 +356,60 @@ SmartAjax_load('/js/smartajax/', function(){
 	</div>
 </div>
 
+<div id="activated-window" class="activated-popup">
+	<div id="help-window-title">
+		<div id="close-activated" class="close-window"></div>
+	</div>
+        <div id="main-help" style="line-height: 30px;color: #afafaf;
+                                  font-size: 16px;
+                                  font-family: Helvetica, Verdana, Arial, sans-serif;">
+                    <h4 id="inner-activated-title" style="top: 25px;">Please verify your account. </h4>
 
-<div id="login-window"> <!-- class="logined" -->
+                    <div id="input-wrapper-0" style="top: 70px;">
+                        <p>Activation link was sent to your email: <br><span id="email"></span></p>
+                        <p>If you did not receive the email:</p>
+                        <p>1. Be sure that you set the right address</p>
+                        <p>2. Check your Spam folder</p>
+                        <p>3. Click <a onclick="send_new_activation()" style="cursor: pointer; color: #1d8dff;">here</a> to request the new activation email</p>
+                    </div>
+	</div>
+</div>
+
+<div id="payfs-window" class="activated-popup">
+	<div id="help-window-title">
+		<div id="close-payfs" class="close-window"></div>
+	</div>
+        <div id="main-help" style="line-height: 30px;color: #afafaf;
+                                  font-size: 16px;
+                                  font-family: Helvetica, Verdana, Arial, sans-serif;">
+                    <div id="input-wrapper-0" style="top: 90px;">
+                        <p>
+                            <!--<a href="">-->
+                            <img style="cursor: pointer;" onclick="window.open('tombx_premium.php?url=', '_blank')" src="/img/proceedToCheckout.gif">
+                            <!--</a>-->
+                                                    </p>
+                    </div>
+	</div>
+</div>
+<div id="payvpn-window" class="activated-popup">
+	<div id="help-window-title">
+            <div id="close-payvpn" class="close-window"></div>
+	</div>
+        <div id="main-help" style="line-height: 30px;color: #afafaf;
+                                  font-size: 16px;
+                                  font-family: Helvetica, Verdana, Arial, sans-serif;">
+                    <div id="input-wrapper-0" style="top: 90px;">
+                        <p>
+                            <!--<a href="">-->
+                                <img style="cursor: pointer;" onclick="ShowNewPage('https://vpnium.com/paypremium?uid='+uid+'&amp;email='+userEmail,1065,756)" src="/img/proceedToCheckout.gif">
+                            <!--</a>-->
+                                                    </p>
+                    </div>
+	</div>
+</div>
+
+
+<div id="login-window" class="ui-draggable"> <!-- class="logined" -->
 	<div id="login-title">
 		<span id="user-email">free</span>
 		<span id="title-of-login">Please Log In or Register</span>
@@ -440,6 +504,7 @@ SmartAjax_load('/js/smartajax/', function(){
 						<span class="input-title2"> Retype: </span><input class="input" id="" title="" name="password1" type="password">
 					</label>
 				</div>
+                                <input class="input" id="topaypro" title="" value="0" name="topaypro" type="hidden">
 				<div id="input-wrapper-3">
 					<label>
 						<input class="checkbox" id="" value="" title="" name="tofu" type="checkbox"> <span class="input-title3"> I agree with <a target="_blank" href="/page-terms-of-use"> Terms of Use </a></span>
@@ -450,51 +515,51 @@ SmartAjax_load('/js/smartajax/', function(){
                     </form>
 		</div>
 
-		<div id="login-layout">
-			<form name="login-form" class="login-forms" method="post" action="/login.php"> 
-			<h4 id="inner-login-title">Enter your E-mail and password and click Log In.</h4>
-				<div id="input-wrapper-4">
-					<label>
-						<span class="input-title0"> E-mail: </span><input class="input" id="" title="" name="e-mail" type="text">
-					</label>
-				</div>
-				<div id="input-wrapper-5">
-					<label>
-						<span class="input-title1"> Password: </span><input class="input" id="" title="" name="password" type="password">
-					</label>
-				</div>
-			</form>
-		</div>
+                    <div id="login-layout">
+                            <form name="login-form" class="login-forms" method="post" action="/login.php"> 
+                            <h4 id="inner-login-title">Enter your E-mail and password and click Log In.</h4>
+                                    <div id="input-wrapper-4">
+                                            <label>
+                                                    <span class="input-title0"> E-mail: </span><input class="input" id="" title="" name="e-mail" type="text">
+                                            </label>
+                                    </div>
+                                    <div id="input-wrapper-5">
+                                            <label>
+                                                    <span class="input-title1"> Password: </span><input class="input" id="" title="" name="password" type="password">
+                                            </label>
+                                    </div>
+                            </form>
+                    </div>
 
-		<div id="forgot-password-layout">
-			<form name="email-form" class="login-forms" method="post" action="remind.php"> 
-				<h4 id="inner-forgot-title">Please enter your E-mail.<br> We will send you instructions.</h4>
-				<div id="input-wrapper-6">
-					<label>
-						<span class="input-title0"> E-mail: </span><input class="input" id="" title="" name="e-mail" type="text">
-					</label>
-				</div>
-			</form>
-		</div>
+                    <div id="forgot-password-layout">
+                            <form name="email-form" class="login-forms" method="post" action="remind.php"> 
+                                    <h4 id="inner-forgot-title">Please enter your E-mail.<br> We will send you instructions.</h4>
+                                    <div id="input-wrapper-6">
+                                            <label>
+                                                    <span class="input-title0"> E-mail: </span><input class="input" id="" title="" name="e-mail" type="text">
+                                            </label>
+                                    </div>
+                            </form>
+                    </div>
 
-		<div id="login-btns">
-			<div id="login-btn"></div>
-			<div id="register-btn"></div>
-			<div id="send-btn"></div>
-			<p id="forgot-btn">Forgot&nbsp;&nbsp; <br> password ?</p>
-			<p id="new-member-btn">New&nbsp;&nbsp; <br> member ?</p>
-			<p id="already-member-btn">Already&nbsp;&nbsp; <br>a member ?</p>
-			<p id="back-to-login-btn">Back <br> to login</p>
-			<span class="prldr"></span>
-		</div>
+                    <div id="login-btns">
+                            <div id="login-btn"></div>
+                            <div id="register-btn"></div>
+                            <div id="send-btn"></div>
+                            <p id="forgot-btn">Forgot&nbsp;&nbsp; <br> password ?</p>
+                            <p id="new-member-btn">New&nbsp;&nbsp; <br> member ?</p>
+                            <p id="already-member-btn">Already&nbsp;&nbsp; <br>a member ?</p>
+                            <p id="back-to-login-btn">Back <br> to login</p>
+                            <span class="prldr"></span>
+                    </div>
 	</div>
 </div>
-<div id="support-window">
+<div id="support-window" class="ui-draggable">
 	<div id="help-window-title">
 		<span> Support </span>
 		<div id="close-help"></div>
 	</div>
-	<div id="help-label"></div>
+	<div id="help-label" onclick="window.supportHeroWidget.show();wProp();"></div>
 	<div id="main-help">
 		<form name="support-form" class="login-forms" method="post" action="support.php">
 			<textarea name="message" id="help-textarea" cols="" rows="" placeholder="Type your message here..."></textarea>
@@ -523,9 +588,6 @@ SmartAjax_load('/js/smartajax/', function(){
         $('#newpayment-window').css({'z-index': 0}).animate({'top': '50%', 'left': '100%', 'margin-left': '10px'},{duration:700, easing:'easeOutExpo'});
     }
     
-    $('#g-recaptcha-response').bind('change', function() {
-        alert('sdfsdf');
-    });
     
 </script>
 <style>
@@ -652,8 +714,61 @@ We hope you will like it. Please let us know if you faced with ANY problems rega
             </div>
         </form>
 </div>
-		<div id="content">
-            <br>
+
+<!--<div id="needpay" class="container" style="margin-bottom: 20px;">
+    <div class="row">
+        <div class="informblock">
+            <div onclick="$('#needpay').hide();" class="close-window" style="position: initial;float: right;"></div>
+            <p>Your Premium has been turned off.</p>
+            <p>Your payment was refunded, sorry for inconvenience. Please resubscribe through our trusted partners and get VPN service for free!</p>
+            <p class="text-center" style="padding-top: 5px;">
+                <a class="btn btn-primary" onclick="mixpanel.track('click resubscribe');ShowNewPage('https://vpnium.com/paypremium?uid='+uid+'&email='+userEmail,1065,756)">GET PREMIUM</a>
+                <span style="display: block; margin-top: 10px;">
+                    <img style="width: 70px;" src="/img/paypal-logo.png">
+                    <img style="width: 70px;" src="/img/bitcoin-logo.png">
+                </span>
+            </p>
+        </div>-->
+<!--        <div class="informblock">
+            <div onclick="$('#needpay').hide();" class="close-window" style="position: initial;float: right;"></div>
+            <p>Hello there!</p> 
+            <p>This is Peter, Founder of ZbigZ.</p>
+            <br />
+            <p>We’ve just changed our payment processor with a new one. We prefer to provide to our users most secure and simple payment solutions.</p>
+            <p>Also we made a refund of your last order and funds will be available at your credit card or paypal account in a few days or sooner.</p>
+
+            <p class="text-center" style="padding: 5px;">
+                <img style="width: 50px" src="/img/resubscribe_orders/gift_flat_gift_icon_gift_png_web_icon_png.png">
+            </p>
+            <p>Please resubscribe to save your premium through our partners. If you make it today all your previous Premium days will be there</p> 
+            <p>for <b>FREE</b> plus you will get <b>FREE</b> Premium account on VPNium.com.</p>
+            <p class="text-center" style="padding-top: 5px;">
+                <a class="btn btn-primary" onclick="mixpanel.track('click resubscribe');ShowNewPage('https://vpnium.com/paypremium?type=&uid='+uid+'&email='+userEmail,1065,756)">RESUBSCRIBE FOR  MONTH</a>
+                <span style="display: block; margin-top: 10px;">
+                    <img style="width: 70px;" src="/img/paypal-logo.png">
+                    <img style="width: 70px;" src="/img/bitcoin-logo.png">
+                </span>
+            </p>
+        </div>-->
+<!--        <div class="peter-loyd-block float-right">
+            <div class="peter-loyd-name">
+                <p>Peter Loyd</p>
+                <p>Founder of ZbigZ.com</p>
+            </div>
+            <img style="width: 80px;" src="/img/resubscribe_orders/Peter.png">
+        </div>-->
+<!--    </div>
+</div>-->
+
+<!--<div id="subscription">
+    <div class="row" style="margin-top: 7px;">
+        <img class="day5-img" src="/img/ZbigZ 5 day free.png">
+        <a -->
+                         <!--class="btn btn-success" style="margin-top: -35px">Start Free Trial</a>-->
+<!--    </div>
+</div>-->
+		<div id="content" style="width: 90%; margin-left: -45%; min-height: 358px;">
+                    <br>
 <div class="content-style">
 
 
@@ -691,18 +806,32 @@ Zbigz.com may update this privacy policy at any time without additional notifica
 					
 					
 </script> 
-            <script>
-                resizeOnLoad ();
-                                    
-
+                    <script>
+                        resizeOnLoad ();
                                                     
-                    
-                   
-                                function regPayClk(t) {
-                    return _gaq.push(['_trackEvent', 'Payment btn click '+t,t]);
-                }       
-                
-            </script>
+
+                        
+                                //                    viewActivatedWindow();
+                        
+                                                                            
+                            
+                           
+                                                function regPayClk(t) {
+                            return _gaq.push(['_trackEvent', 'Payment btn click '+t,t]);
+                        }       
+
+                        function wProp() {
+                            setTimeout(function(){
+                                if (window.supportHeroWidget) {
+                                    var properties = {
+                                        custom: {
+                                                                                    }
+                                    };
+                                    window.supportHeroWidget.track(properties);
+                                }
+                            }, 1000);
+                        }
+                    </script>
 		</div>
         <!-- footer -->
 <div id="footer">
@@ -721,7 +850,7 @@ Zbigz.com may update this privacy policy at any time without additional notifica
                 <ul id="ul-documents">
                         <li class="li-hr">Documents</li>
                         <li id="page-copyright"><a href="/page-copyright">Copyright </a></li>
-                        <li id="page-privacy"><a href="/page-privacy">Privacy policy</a></li>
+                        <li id="page-privacy" class="active"><a href="/page-privacy">Privacy policy</a></li>
                         <li id="page-affiliate"><a href="/affiliate" style="color: red;">Trackers affiliate program</a></li>
                         <li><a href="/page-become-a-reseller">Become a reseller</a></li>
                 </ul>
