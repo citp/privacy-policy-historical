@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the crystalmathlabs.com privacy policy that was archived on 2014-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140903002508id_/http%3A//www.crystalmathlabs.com/tracker/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crystalmathlabs.com privacy policy that was archived on 2015-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151217224955id_/http%3A//crystalmathlabs.com/tracker/privacy.php) for the most accurate reproduction.*
 
-# Privacy Policy - Crystal Math Labs
+# Privacy Policy - Old School RuneScape - Crystal Math Labs
+
+## Privacy Policy - Crystal Math Labs
 
 This Privacy Policy governs the manner in which Crystal Math Labs collects, uses, maintains and discloses information collected from users (each, a "User") of the crystalmathlabs.com website ("Site"). This privacy policy applies to the Site and all products and services offered by Crystal Math Labs. 
 
@@ -38,7 +40,7 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 
 ### Contacting us
 
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us [here](https://web.archive.org/web/20140903002508id_/http%3A//www.crystalmathlabs.com/tracker/contact.php).   
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us [here](https://web.archive.org/web/20151217224955id_/http%3A//crystalmathlabs.com/tracker/contact.php).   
 Crystal Math Labs   
 crystalmathlabs.com 
 
