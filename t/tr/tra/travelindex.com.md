@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the travelindex.com privacy policy that was archived on 2015-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150619071800id_/http%3A//www.travelindex.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travelindex.com privacy policy that was archived on 2015-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151217072355id_/http%3A//www.travelindex.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Travel Index | Travel Directory | Connecting Travel People | Search results
 
