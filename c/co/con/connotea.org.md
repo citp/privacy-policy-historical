@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the connotea.org privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626202816id_/http%3A//www.nature.com/info/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the connotea.org privacy policy that was archived on 2015-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151217182733id_/http%3A//www.nature.com/info/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy : Nature.com
 
@@ -163,8 +163,8 @@ or
 Customer Service Department  
 Nature Publishing Group
 
-Floor 9  
-75 Varick Street  
-New York NY 10013
+One New York Plaza  
+Suite 4500  
+New York NY 10004-1562
 
 USA
