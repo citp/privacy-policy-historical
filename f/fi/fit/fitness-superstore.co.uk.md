@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fitness-superstore.co.uk privacy policy that was archived on 2015-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150618091555id_/http%3A//www.fitness-superstore.co.uk/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fitness-superstore.co.uk privacy policy that was archived on 2015-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151217234212id_/http%3A//www.fitness-superstore.co.uk/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
 
 # Fitness Superstore | Privacy Policy
 
@@ -40,7 +40,7 @@ This online privacy policy applies only to information collected through our web
 
 ### **Terms and Conditions**
 
-See our [Terms and Conditions](https://web.archive.org/terms-and-conditions "Terms and conditions") establishing the use, disclaimers and limitations of liability governing the use of our website.
+See our [Terms and Conditions](https://web.archive.org/terms-and-conditions/ "Terms and conditions") establishing the use, disclaimers and limitations of liability governing the use of our website.
 
 ### **Your Consent**
 
@@ -52,7 +52,7 @@ If we decide to change our privacy policy, we will update the modification date 
 
 ### Competitions
 
-Unless any Specific Terms tell you otherwise, we will always be the promoter of Competitions. All prize winners will be notified that they have won a prize no later than 5 days of the closing date of the competition via emai. We will not be liable for any prizes which are lost, delayed or damaged in the post for reasons beyond our control. Prizes will only be delivered to an address within the UK. Should a prize winner’s contact details change, it is their responsibility to notify us or the contact persons for the relevant competition. If a prize winner does not take any element of a prize at the time stipulated by us then that element of the prize will be forfeited by the winner. No expenses or additoinal costs are included in any prize unless stated. For example, the costs of transport to and from an event are not included. By entering a prize draw, you are opting in to our email database to receive marketing offers by email. We will not pass on your details to any third parties. 
+Unless any Specific Terms tell you otherwise, we will always be the promoter of Competitions. All prize winners will be notified that they have won a prize no later than 5 days of the closing date of the competition via emai. We will not be liable for any prizes which are lost, delayed or damaged in the post for reasons beyond our control. Prizes will only be delivered to an address within the UK. Should a prize winner’s contact details change, it is their responsibility to notify us or the contact persons for the relevant competition. If a prize winner does not take any element of a prize at the time stipulated by us then that element of the prize will be forfeited by the winner. No expenses or additional costs are included in any prize unless stated. For example, the costs of transport to and from an event are not included. By entering a prize draw, you are opting in to our email database to receive marketing offers by email. We will not pass on your details to any third parties. 
 
   
 This policy was last modified on 07/08/2014.
