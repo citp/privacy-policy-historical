@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the shareably.net privacy policy that was archived on 2015-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150625045909id_/http%3A//www.shareably.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shareably.net privacy policy that was archived on 2015-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151217232715id_/http%3A//shareably.net/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Shareably
+# Shareably - We are the next generation of storytellers.
 
 **PRIVACY POLICY**
 
