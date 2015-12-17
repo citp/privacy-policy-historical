@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the cartoonstock.com privacy policy that was archived on 2015-06-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150610000328id_/http%3A//www.cartoonstock.com/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the cartoonstock.com privacy policy that was archived on 2015-12-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151217023102id_/http%3A//www.cartoonstock.com/privacy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
 		<meta charset="utf-8">
@@ -75,22 +75,44 @@
 		<div class="searchBox">
 		<div class="socialMedia">
 		<a href="https://twitter.com/share" class="twitter-share-button" data-url="www.cartoonstock.com" data-align="right" data-text="Explore the universe's largest cartoon database at www.CartoonStock.com" data-width="300px" data-count="horizontal" data-via="CartoonStock"></a><script type="text/javascript" src="https://platform.twitter.com/widgets.js"></script><div class="fb-like" style="display:inline-block;height:21px;width:90px;" data-href="http://www.facebook.com/CartoonStockLtd" data-send="false" data-layout="button_count" data-width="50" data-show-faces="false" data-font="arial"></div><div class="g-plusone" data-size="medium"></div>		</div>
-			<form name="search_top" action="/sitesearch.asp" method="get">
+			<form name="search_top" action="/sitesearch.asp" method="get" id="searchFormInHeader">
 				<input type="hidden" value="All Categories" name="categories">
 				<input type="hidden" value="All Artists" name="artists">
 				<input type="hidden" value="mainArchive" name="mainArchive">
 				<input type="hidden" value="newsCartoon" name="newsCartoon">
 				<input type="hidden" value="vintage" name="vintage">
-				<input class="searchBoxBar" name="ANDkeyword" type="text" placeholder="Find your cartoon">
+				<input class="searchBoxBar" name="ANDkeyword" type="text" placeholder="Find your cartoon" id="autocomplete" autocomplete="off">
 				<input class="searchBoxButton" name="searchBoxButton" type="submit" value="SEARCH">
 			</form>
 			<p>Search by Search ID or Tag or use the <a href="/sitesearch.asp">Advanced Search</a></p>
-		</div><!-- search box -->
-	</div>			<div id="contentPages">
+		</div><!-- search box -->	
+		
+		<script type="text/javascript" src="/javascript/autocomplete/src/jquery.autocomplete.js"></script>
+		
+				<script>
+			$( document ).ready(function() {			 
+				$('#autocomplete').autocomplete({
+					serviceUrl: '/json/search_suggestions.php?performSearch=TRUE' + $('#autocomplete').val(),
+					onSelect: function (suggestion) {
+						$( "#searchFormInHeader" ).submit();
+					}
+				});			 
+			});
+		</script>
+		
+		<style>
+			.autocomplete-suggestions { border: 1px solid #999; background: #FFF; overflow: auto; cursor: pointer;}
+			.autocomplete-suggestion { padding: 2px 5px; white-space: nowrap; overflow: hidden; }
+			.autocomplete-selected { background: #F0F0F0; }
+			.autocomplete-suggestions strong { font-weight: normal; color: #ff5e0e; }
+			.autocomplete-group { padding: 2px 5px; }
+			.autocomplete-group strong { display: block; border-bottom: 1px solid #000; }		
+		</style>				
+			</div>			<div id="contentPages">
 					<div id="container2">
 						<div id="container1">
 							<div id="leftColumn">
-								<span style="text-align: right;float: right;position: absolute;right: 10px;top: 0px;"><img src="//siteimages.cartoonstock.com/splat_abstract.png"></span>
+								<span style="text-align: right;float: right;position: absolute;right: 10px;top: 0px;"><img src="//s3.amazonaws.com/siteimages.cartoonstock.com/splat_abstract.png"></span>
 
 <div id="leftColumnBody">
 
@@ -122,10 +144,10 @@ Other Countries: +44 1225 789600<br>
 <a href="/privacy.asp">Privacy Policy</a><br>
 	<div class="leftColumnHead"><span class="headingWhite">Mobile</span> <span class="headingBlack">Apps</span></div>
 <strong><a href="https://itunes.apple.com/us/app/cartoonstock/id742317263?ls=1&amp;mt=8">iOS</a></strong><br>
-<a href="https://itunes.apple.com/us/app/cartoonstock/id742317263?ls=1&amp;mt=8"><img src="//siteimages.cartoonstock.com/ios_left.png" alt="App Store" title="App Store"></a>
+<a href="https://itunes.apple.com/us/app/cartoonstock/id742317263?ls=1&amp;mt=8"><img src="//s3.amazonaws.com/siteimages.cartoonstock.com/ios_left.png" alt="App Store" title="App Store"></a>
 <br><br>
 <strong><a href="https://play.google.com/store/apps/details?id=com.cartoonstock">Android</a></strong><br>
-<a href="https://play.google.com/store/apps/details?id=com.cartoonstock"><img src="//siteimages.cartoonstock.com/android_left.png" alt="Android" title="Android"></a>
+<a href="https://play.google.com/store/apps/details?id=com.cartoonstock"><img src="//s3.amazonaws.com/siteimages.cartoonstock.com/android_left.png" alt="Android" title="Android"></a>
 <br><br>
 <a href="/mobile">CartoonStock Apps</a>
 
@@ -181,6 +203,6 @@ Other Countries: +44 1225 789600<br>
 						</div><!-- container 1 -->
 					</div><!-- container 2 -->
 			</div><!-- content -->
-				<footer><div id="footerLinks"><p class="bottom"><strong>Customer Home</strong><br><a href="/login.asp" title="Log in">Log in</a><br><a href="/myaccount.asp" title="My Account">My Account</a><br><a href="/lightboxes.asp" title="My Lightboxes">My Lightboxes</a><br><a href="/pricing.asp" title="Pricing">Pricing</a><br><a href="/licenseagreement.asp" title="Licensing Agreement">Licensing Agreement</a><br></p><p class="bottom2"><strong>Cartoons</strong><br><a href="/cartoonists.asp" title="Cartoonists">Cartoonists</a><br><a href="/categories.asp" title="Categories">Categories</a><br><a href="/keywords.asp" title="Keywords">Keywords</a><br><a href="/sitesearch.asp" title="Search">Search</a><br><a href="/mobile" title="Mobile">Mobile</a><br></p><p class="bottom3"><strong>Need Help?</strong><br><a href="/contact_new.asp" title="Contact Us">Contact Us</a><br><a href="/faq.asp" title="FAQ">FAQ</a><br><a href="/searchtips.asp" title="Search Tips">Search Tips</a><br><a href="/about.asp" title="About Us">About Us</a><br><a href="/terms.asp" title="Terms &amp; Conditions">Terms &amp; Conditions</a><br><a href="/content_policy.asp" title="Content Policy">Content Policy</a><br><a href="/privacy.asp" title="Privacy Policy">Privacy Policy</a><br></p><div class="copyright"><p>© CartoonStock Ltd. 2015<br>All Rights Reserved.</p><div class="footerLogo"><a href="/" title="CartoonStock"><img src="//siteimages.cartoonstock.com/splat_white.png" alt="CartoonStock"></a></div></div><div class="acceptedPayments"><img src="//siteimages.cartoonstock.com/creditCardImages.png" height="64" width="444"></div></div><br></footer><script type="text/javascript" src="/javascript/jquery.cookiebar.js"></script><link rel="stylesheet" type="text/css" href="/javascript/jquery.cookiebar.css"><script>$(document).ready(function(){	$.cookieBar({fixed: true, append: true, bottom: true});});</script>			</div><!-- wrapper -->
+				<footer><div id="footerLinks"><p class="bottom"><strong>Customer Home</strong><br><a href="/login.asp" title="Log in">Log in</a><br><a href="/myaccount.asp" title="My Account">My Account</a><br><a href="/lightboxes.asp" title="My Lightboxes">My Lightboxes</a><br><a href="/pricing.asp" title="Pricing">Pricing</a><br><a href="/licenseagreement.asp" title="Licensing Agreement">Licensing Agreement</a><br></p><p class="bottom2"><strong>Cartoons</strong><br><a href="/cartoonists.asp" title="Cartoonists">Cartoonists</a><br><a href="/categories.asp" title="Categories">Categories</a><br><a href="/keywords.asp" title="Keywords">Keywords</a><br><a href="/sitesearch.asp" title="Search">Search</a><br><a href="/mobile" title="Mobile">Mobile</a><br></p><p class="bottom3"><strong>Need Help?</strong><br><a href="/contact_new.asp" title="Contact Us">Contact Us</a><br><a href="/faq.asp" title="FAQ">FAQ</a><br><a href="/searchtips.asp" title="Search Tips">Search Tips</a><br><a href="/about.asp" title="About Us">About Us</a><br><a href="/terms.asp" title="Terms &amp; Conditions">Terms &amp; Conditions</a><br><a href="/content_policy.asp" title="Content Policy">Content Policy</a><br><a href="/privacy.asp" title="Privacy Policy">Privacy Policy</a><br></p><div class="copyright"><p>© CartoonStock Ltd. 2015<br>All Rights Reserved.</p><div class="footerLogo"><a href="/" title="CartoonStock"><img src="//s3.amazonaws.com/siteimages.cartoonstock.com/splat_white.png" alt="CartoonStock"></a></div></div><div class="acceptedPayments" style="text-align: right;"><img src="//s3.amazonaws.com/siteimages.cartoonstock.com/creditCardImages.png" height="64" width="444"><br><a href="https://www.securitymetrics.com/site_certificate?id=1309086&amp;tk=87ef1dd041a03aab512f0d1189335a23" target="_blank" style="margin-right: 6px;position: relative;top: -5px;"><img src="https://www.securitymetrics.com/static/img/site_certified_logos/Credit_Card_Safe_dark.png" alt="SecurityMetrics Credit Card Safe"></a></div></div><br></footer><script type="text/javascript" src="/javascript/jquery.cookiebar.js"></script><link rel="stylesheet" type="text/css" href="/javascript/jquery.cookiebar.css"><script>$(document).ready(function(){	$.cookieBar({fixed: true, append: true, bottom: true});});</script>			</div><!-- wrapper -->
 	
-<div id="cookie-bar" class="fixed bottom"><p>CartoonStock uses cookies to improve your user experience.<a href="" class="cb-enable">I Understand</a></p></div></body></html>
+<div class="autocomplete-suggestions" style="position: absolute; display: none;"></div></body></html>
