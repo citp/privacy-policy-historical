@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bhfo.com privacy policy that was archived on 2015-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150617034915id_/http%3A//www.bhfo.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bhfo.com privacy policy that was archived on 2015-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151217025412id_/http%3A//www.bhfo.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | BHFO
 
