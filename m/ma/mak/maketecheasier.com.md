@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the maketecheasier.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629210403id_/http%3A//www.maketecheasier.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maketecheasier.com privacy policy that was archived on 2015-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151217185453id_/https%3A//www.maketecheasier.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy For MakeTechEasier.com
 
@@ -17,3 +17,16 @@ Cookies may also be used by third party content providers such as newsfeeds and 
 We use third-party advertising companies to serve ads and collect information when users visit our site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements on our site, other websites and other forms of media about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, check out <http://www.networkadvertising.org/managing/opt_out.asp>.
 
 Also keep in mind that third party ads served on MakeTechEasier.com (i.e. from Google Adsense) are likely to be customised to reflect user’s (in this case you) interests. Please contact those vendors and others directly if you have any questions about their privacy policies.
+
+We welcome all kinds of comments and thoughts- supportive, dissenting, critical or otherwise. However, we do moderate, filter or delete comment that is
+
+  * abusive
+  * off-topic
+  * contains ad-hominem attacks
+  * promotes hate of any kind
+  * uses excessively foul language
+  * blatantly spam
+
+
+
+All comments are filtered through spam filtering technology; The spam-filtering technology isn’t perfect and it would flag legitimate comment from time to time. If you find that your comment isn’t immediately showing up, it may have been erroneously flagged as spam. Please [contact us](https://www.maketecheasier.com/contact/) to follow up on the status of your comment if it hasn’t shown up after 24 hours and we will do our best to sort it out.
