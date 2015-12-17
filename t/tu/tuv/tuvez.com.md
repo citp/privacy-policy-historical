@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tuvez.com privacy policy that was archived on 2015-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150619052009id_/http%3A//www.tuvez.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tuvez.com privacy policy that was archived on 2015-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151217172134id_/http%3A//www.tuvez.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy » TuVez
 
