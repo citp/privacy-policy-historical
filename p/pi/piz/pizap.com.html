@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the pizap.com privacy policy that was archived on 2015-06-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150615140654id_/http%3A//www.pizap.com/privacypolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the pizap.com privacy policy that was archived on 2015-12-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151217035422id_/http%3A//www.pizap.com/privacypolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://ogp.me/ns/fb#"><head prefix="og: http://ogp.me/ns# test_photo_editor: http://ogp.me/ns/apps/test_photo_editor#">
     <!--  -->
@@ -25,13 +25,13 @@
 
     <link rel="image_src" href="http://static.pizap.com/pizapfiles/icons/512x512.png">
 
-    <link href="http://static.pizap.com/pizapfiles/css/app.min.css" rel="stylesheet" type="text/css">
+    <link href="/css/pizap_0003.css" rel="stylesheet" type="text/css">
 
     <!--[if lt IE 9]>
       <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
       <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
     <![endif]-->
-
+    
     <script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script charset="UTF-8">
       var fbAppId        = '158391354186658';
       var fbNamespace    = 'pizap_photo_editor';
@@ -43,6 +43,11 @@
       var editorPage     = false;
       var editorPageName = '';
       var homePage       = false;
+      var recurlySubDomain = 'pizap';
+        var postLoginUrl = null;
+            var proPurchased = false;
+      
+      function logError(source, message){}
     </script>
 
           <script charset="UTF-8">
@@ -96,78 +101,27 @@
         scpt.parentNode.insertBefore(elem, scpt);
       })();
     </script>
-
-    <style type="text/css">
-      #mobilePopup {
-        position:absolute;
-        width:1000px;
-        height:538px;
-        z-index:1000;
-        left:50%;
-        margin-left:-500px;
-        top:50%;
-        margin-top:-292px;
-      }
-        .navbar-logo{
-            width: 140px;
-        }
-      .navbar-logo .logo-social{
-          left:160px;
-      }
-    </style>
-  </head>
+      </head>
   <body>
   <div id="fb-root"></div>
   <script src="https://connect.facebook.net/en_US/sdk.js" id="facebook-jssdk" charset="UTF-8"></script>
-  <script charset="UTF-8">
-      try {
-          FB.init({
-              appId: fbAppId,
-              status: true, // check login status
-              cookie: true, // enable cookies to allow the server to access the session
-              xfbml: true,  // parse XFBML
-              version: 'v2.0'
-          });
-          FB.Event.subscribe('auth.authResponseChange', function (response) {
-              try {
-                  if (response.status === 'connected') {
-                      PizapLogin.handleFBLoginResponse(response);
-                  } else if (response.status === 'not_authorized') {
-                      if (isPizapBook && !displayPublic) {
-                          top.location.href = 'https://www.facebook.com/appcenter/' + fbNamespace + "?redirect_uri=" + encodeURI(window.location);
-                      }
-                  } else {
-                      if (isPizapBook && !displayPublic) {
-                          top.location.href = 'https://www.facebook.com/appcenter/' + fbNamespace + "?redirect_uri=" + encodeURI(window.location);
-                      }
-                  }
-                  if (isPizapBook)
-                      FB.Canvas.scrollTo(0, 0);
-                  if (window.self !== window.top)
-                      FB.Canvas.setAutoGrow();
-                  try {
-                      page_defer();
-                  } catch (e) {
-                  }
-              } catch (err) {
-                  logError("authResponseChange", err);
-              }
-          });
-
-      }catch(err){
-          logError("FB.init", err);
-      }
-  </script>
 
   
     
 
-        
-
-    
-
-    
-    <div class="headerpart">
+        <div style="background-color:#f8f8f8;color:#000000;padding:5px;display:none" id="chromeExt">
+    <table width="800" border="0" cellspacing="0" cellpadding="0" align="center">
+      <tbody>
+      <tr>
+        <td width="35" align="center"><a href="https://chrome.google.com/webstore/detail/pizap/okkhakdhndfahinanaadokakjeeobdak?hl=en" target="_blank"><img src="http://cdn.pizap.com/pizapfiles/images/google_chrome_logo.png" alt="" width="35" height="35"></a></td>
+        <td width="347" align="center"><span style="font-size:24px">NEW! piZap Chrome Extension</span></td>
+        <td width="225" align="center"><a href="https://chrome.google.com/webstore/detail/pizap/okkhakdhndfahinanaadokakjeeobdak?hl=en" target="_blank"><img src="http://cdn.pizap.com/pizapfiles/images/pizap_chrome_extention.png" alt="" width="115" height="42"></a></td>
+        <td width="193" align="center"><a href="https://chrome.google.com/webstore/detail/pizap/okkhakdhndfahinanaadokakjeeobdak?hl=en" target="_blank"><img src="http://cdn.pizap.com/pizapfiles/images/pizap_chrome_extention_button.png" alt="" width="183" height="32"></a></td>
+      </tr>
+      </tbody>
+    </table>
+  </div>
+          <div class="headerpart">
                         <div class="adbar">
             <div class="ad-content" id="headerad">
                         <script charset="UTF-8">
@@ -179,7 +133,7 @@
               <div class="navbar ">
           <div class="navbar-stopper">
             <div class="navbar-logo">
-              <a href="/"><img src="/images/piZap-logo-small.png" alt="piZap photo editor collage maker">
+              <a href="/"><img src="http://static.pizap.com/pizapfiles/images/pizap_photo_editor_logo_white.png" alt="piZap photo editor collage maker">
                                 </a>
               <div class="logo-social">
                 <fb:like href="http://www.facebook.com/pages/piZapcom/138161468666" layout="button_count" show_faces="false" width="90" height="35" action="like" colorscheme="light" font="trebuchet ms" allowtransparency="true" fb-xfbml-state="rendered" class="fb_edge_widget_with_comment fb_iframe_widget headerlike"></fb:like>
@@ -187,12 +141,14 @@
             </div>
                           <label class="navbar-menu-btn" for="navbar-toggler"><i class="icon icon-menu"></i></label>
               <input type="checkbox" id="navbar-toggler">
-              <div class="navbar-menu">
+              <div class="navbar-menu" id="userMenu">
                                   <span class="menu-item"><a href="javascript:;" onclick="PizapLogin.showLoginDialog();">Sign Up</a></span>
                   <span class="menu-item"><a href="javascript:;" onclick="PizapLogin.showLoginDialog();">Sign In</a></span>
-                                <label class="navbar-menu-overlay" for="navbar-toggler"></label>
+                                <span class="menu-item"><a href="http://blog.pizap.com/">Blog</a></span>
+                <span class="menu-item"><a href="https://pizapsupport.zendesk.com/hc/en-us" target="_blank">Help</a></span>
+                <label class="navbar-menu-overlay" for="navbar-toggler"></label>
               </div>
-              <div class="navbar-actions">
+              <div class="navbar-actions" id="menuActions">
                                   <span class="actions-item login"><a href="javascript:;" onclick="PizapLogin.showLoginDialog();">Sign In</a></span>
                   <span class="actions-item actions-item-free"><span class="item-free"><a href="/pizap">FREE</a> No Sign Up Required</span></span>
                                 <span class="actions-item start"><a class="btn btn-green" href="/pizap">Start</a></span>
@@ -202,13 +158,6 @@
       
       
           </div>
-
-    
-
-
-
-
-    
     
       <div id="content" class="contentpart">
     <div class="contentpart-stopper">
@@ -217,6 +166,7 @@
         <div class="termspart-header">
           <h1>piZap Privacy Policy &amp; Terms of Use</h1>
 
+            <p>jump to <a href="#refund">Cancellation and refund policy</a></p>
           <p>jump to <a href="#terms">Terms of Use</a></p>
         </div>
         
@@ -325,11 +275,20 @@
 
           <p>Your information may be transferred to — and maintained on — computers located outside of your state, province,  country or other governmental jurisdiction where the privacy laws may not be as  protective as those in your jurisdiction. If you are located outside the United  States and choose to provide information to PiZap, please be advised that we  transfer Personal Information to the United States and process it there. Your  consent to this Privacy Policy followed by your submission of such information  represents your agreement to that transfer.</p>
 
-          <p>PiZap is owned and operated by Digital Palette LLC Based in Los Gatos, CA. Please <a href="/contact_us">contact us</a> with any concerns or questions about our site. Thank You :)<a name="terms" id="terms"></a></p>
+          <p>PiZap is owned and operated by Digital Palette LLC Based in Los Gatos, CA. Please <a href="/contact_us">contact us</a> with any concerns or questions about our site. Thank You :)</p>
         </div>
 
         <div class="termspart-part">
-          <h1>piZap Terms of Use</h1>
+            <a name="refund" id="refund"></a>
+            <h1>Cancel / Refund Policy</h1>
+            <p>1.	To enjoy additional editing tools and features, you may upgrade to a piZap PRO membership. PRO Users are subject to a monthly or an annual fee, depending on the membership plan you have chosen. You may not authorize others to use your account, and you may not assign or otherwise transfer your account to any other person or entity. You are entirely responsible for any and all activities that occur under your account. You agree to notify piZap immediately of any unauthorized use of your account or any other breach of security. PiZap will not be liable for any loss that you may incur as a result of someone else using your account, either with or without your knowledge. However, you could be held liable for losses incurred by piZap or another party due to someone else using your account.</p>
+            <p>2.	Cancellations and Refunds Policy. We endeavor to treat our PRO customers fairly. You can easily cancel online 24 hours a day. There are no cancellation fees although there are no refunds for partial months (if on a Monthly plan) or years (if on an Annual plan).</p>
+            <p>3.	Ongoing Monthly Membership. If you have chosen a monthly term, your piZap membership will continue month-to-month unless and until you cancel your membership or we terminate it. You must cancel your membership before it renews each month in order to avoid billing of the next month's membership fees to your Payment Method. Monthly renewals occur on the "month anniversary" of your initial purchase date. We will bill the monthly membership fee to the Payment Method you provide to us during registration (or to a different Payment Method if you change your account information). Membership fees are fully earned upon payment.</p>
+            <p>4.	Ongoing Annual Membership. If you have chosen an annual (yearly) term, your piZap membership will continue year-to-year unless and until you cancel your membership or we terminate it. You must cancel your membership before it renews each year in order to avoid billing of the next year's membership fees to your Payment Method. Annual renewals occur on the "year anniversary" of your initial purchase date. We will bill the annual membership fee to the Payment Method you provide to us during registration (or to a different Payment Method if you change your account information). Membership fees are fully earned upon payment.</p>
+        </div>
+        <div class="termspart-part">
+            <a name="terms" id="terms"></a>
+            <h1>piZap Terms of Use</h1>
           
           <h2>Privacy Policy</h2>
 
@@ -401,24 +360,20 @@
     </div>
   </div>
   
-
-    
-
-
-
-
-    
           <div class="footerpart">
         <div class="footerpart-stopper">
           <div class="footerpart-social">
             <a href="https://twitter.com/pizap"><i class="icon icon-twitter"></i></a>
             <a href="http://pizap.tumblr.com/"><i class="icon icon-tumblr"></i></a>
             <a href="https://instagram.com/pizap"><i class="icon icon-instagram"></i></a>
+            
           </div>
           <div class="footerpart-menu">
             <a href="/contact_us">Contact</a>
             <a href="/privacypolicy">Privacy &amp; Terms</a>
             <a href="/thankyou">Thanks</a>
+             <a href="/pro_details">piZap PRO</a>
+            <a href="https://pizapsupport.zendesk.com/hc/en-us" target="_blank">Help</a>
           </div>
           <div class="footerpart-apps">
             <a href="https://itunes.apple.com/us/app/pizap/id642936943?mt=8" target="_blank"><i class="icon icon-iosapp"></i>iOS App</a>
@@ -435,11 +390,69 @@
         })();
       </script>
     
-    
+  <div id="store-overlay" class="store-overlay"></div>
+  <div id="store-dialog" class="store-dialog">
+    <div class="store-content">
+      <div id="store-pages" class="store-content-inner store-pages">
+        <div id="store-page-overview" class="store-page active">
+          <div id="store-overview-list"><div class="store-overview" data-type-id="102">
+              <div class="store-page-trial">
+                <span class="store-page-flag">Free trial</span>
+                <span class="store-page-limited">Limited time</span>
+              </div>
+              <div class="store-logo"></div>
+              <div id="storeOptions">
+                <div class="store-overview-list">
+                  <div class="list-item"><img src="http://cdn.pizap.com/pizapfiles/images/pro/thumbs/pro_thumb_0001.png"></div>
+                  <div class="list-item"><img src="http://cdn.pizap.com/pizapfiles/images/pro/thumbs/pro_thumb_0002.png"></div>
+                  <div class="list-item"><img src="http://cdn.pizap.com/pizapfiles/images/pro/thumbs/pro_thumb_0003.png"></div>
+                  <div class="list-item"><img src="http://cdn.pizap.com/pizapfiles/images/pro/thumbs/pro_thumb_0004.png"></div>
+                  <div class="list-item"><img src="http://cdn.pizap.com/pizapfiles/images/pro/thumbs/pro_thumb_0005.png"></div>
+                  <div class="list-item"><img src="http://cdn.pizap.com/pizapfiles/images/pro/thumbs/pro_thumb_0006.png"></div>
+                  <div class="list-item"><img src="http://cdn.pizap.com/pizapfiles/images/pro/thumbs/pro_thumb_0007.png"></div>
+                  <div class="list-item"><img src="http://cdn.pizap.com/pizapfiles/images/pro/thumbs/pro_thumb_0008.png"></div>
+                  <div class="list-item"><img src="http://cdn.pizap.com/pizapfiles/images/pro/thumbs/pro_thumb_0009.png"></div>
+                  <div class="list-item"><img src="http://cdn.pizap.com/pizapfiles/images/pro/thumbs/pro_thumb_0010.png"></div>
+                  <div class="list-item"><img src="http://cdn.pizap.com/pizapfiles/images/pro/thumbs/pro_thumb_0011.png"></div>
+                  <div class="list-item"><img src="http://cdn.pizap.com/pizapfiles/images/pro/thumbs/pro_thumb_0012.png"></div>
+                  <div class="list-item"><img src="http://cdn.pizap.com/pizapfiles/images/pro/thumbs/pro_thumb_0013.png"></div>
+                  <div class="list-item"><img src="http://cdn.pizap.com/pizapfiles/images/pro/thumbs/pro_thumb_0014.png"></div>
+                  <div class="list-item"><img src="http://cdn.pizap.com/pizapfiles/images/pro/thumbs/pro_thumb_0015.png"></div>
+                  <div class="list-item"><img src="http://cdn.pizap.com/pizapfiles/images/pro/thumbs/pro_thumb_0016.png"></div>
+                  <div class="list-item"><img src="http://cdn.pizap.com/pizapfiles/images/pro/thumbs/pro_thumb_0017.png"></div>
+                </div>
+                <div class="overview-buy-options">
+                  <div>
+                    <div class="white_heading">30 day FREE trial then $3.99/month</div>
+                    <div class="store_blue_button"><a nohref="" onclick="purchasePRO('monthly');">Start my free trial</a></div>
+                    <div class="white_heading">More Options:</div>
 
+                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                      <tbody><tr>
+                        <td><div class="store_green_button"><a nohref="" onclick="purchasePRO('yearly');">$29.99 / year</a></div>
+                          <div class="store_sub_text">save $10/year, free trial</div>
+                        </td>
+                        <td><div class="store_purple_button"><a nohref="" onclick="purchasePRO('lifetime');">$69.99 / Lifetime</a></div>
+                          <div class="store_sub_text">one-time payment</div>
+                        </td>
+                      </tr>
+                    </tbody></table>
+                  </div>
+                </div>
+              </div>
+              <div class="store-unlock" id="store-unlock">
+                <span>Not interested in PRO?  You can unlock this content for a single session by watching a short video:</span>
+                <div class="store_blue_button" style="margin-top:20px;"><a nohref="" onclick="consumeOffer(0);hidePRODialog();hidePROOverlay();"><img src="http://cdn.pizap.com/pizapfiles/images/lock-icon2.png" style="padding-right: 10px;">Unlock this feature</a></div>
+              </div>
 
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="store-close-btn" id="store-close-btn">×</div>
+  </div>
 
-    
           <div class="overlaypart" id="sign-overlay"></div>
 
       <div class="popuppart popuppart-signpopup" id="sign-popup">
@@ -535,603 +548,8 @@
         <div class="popuppart-close" onclick="PizapLogin.hideLoginDialog(); return false;">×</div>
       </div>
     
-    
-
-    <script charset="UTF-8">
-    function isVisible(obj)
-    {
-        if (obj == document) return true;
-
-        if (!obj) return false;
-        if (!obj.parentNode) return false;
-        if (obj.style) {
-            if (obj.style.display == 'none') return false;
-            if (obj.style.visibility == 'hidden') return false;
-        }
-
-        //Try the computed style in a standard way
-        if (window.getComputedStyle) {
-            var style = window.getComputedStyle(obj, "");
-            if (style.display == 'none') return false;
-            if (style.visibility == 'hidden') return false;
-        }
-
-        //Or get the computed style using IE's silly proprietary way
-        var style = obj.currentStyle;
-        if (style) {
-            if (style['display'] == 'none') return false;
-            if (style['visibility'] == 'hidden') return false;
-        }
-
-        return isVisible(obj.parentNode);
-    }
-
-    function getJSON(url, methodType, myData, successHandler, errorHandler)
-    {
-        var xhr = typeof XMLHttpRequest != 'undefined'
-                ? new XMLHttpRequest()
-                : new ActiveXObject('Microsoft.XMLHTTP');
-        xhr.open(methodType, url, true);
-        xhr.onreadystatechange = function() {
-            var status;
-            var data;
-            // http://xhr.spec.whatwg.org/#dom-xmlhttprequest-readystate
-            if (xhr.readyState == 4) { // `DONE`
-                status = xhr.status;
-                if (status == 200) {
-                    try{
-                        data = JSON.parse(xhr.responseText);
-                        successHandler && successHandler(data);
-                    }catch(e){
-                        successHandler && successHandler(xhr.responseText);
-                    }
-                } else {
-                    errorHandler && errorHandler(status);
-                }
-            }
-        };
-        xhr.setRequestHeader("Content-type", "application/x-www-form-urlencoded; charset=UTF-8");
-        if(myData != null)
-            xhr.send(myData);
-        else
-            xhr.send();
-    }
-
-    function openIframeDiv(url){
-
-    }
-    </script>
-
-        <script charset="UTF-8">
-            function getFlashMovieObject2(movieName){
-                if (window.document[movieName]){
-                    return window.document[movieName];
-                }
-                if (navigator.appName.indexOf("Microsoft Internet")==-1){
-                    if (document.embeds && document.embeds[movieName])
-                        return document.embeds[movieName];
-                }
-                else{
-                    return document.getElementById(movieName);
-                }
-            }
-        </script>
-
-    <script charset="UTF-8">
-    //(function() {
-      function activate(id) {
-        var el = document.getElementById(id);
-        
-        if (! el) { return null; }
-
-        el.className = el.className.replace('active', '') + ' active';
-      }
-
-      function deactivate(id) {
-        var el = document.getElementById(id);
-        
-        if (! el) { return null; }
-
-        el.className = el.className.replace('active', '');
-      }
-
-      function show(id) {
-        var el = document.getElementById(id);
-
-        if (! el) { return null; }
-
-        el.style.display = '';
-      }
-
-      function hide(id) {
-        var el = document.getElementById(id);
-
-        if (! el) { return null; }
-
-        el.style.display = 'none';
-      }
-
-      function hideAll() {
-        hide('sign-popup-in');
-        hide('sign-popup-up');
-        hide('sign-popup-restore');
-      }
-
-      var Sign = {
-        showLoginDialog: function(network, permission)
-        {
-          activate('sign-popup');
-          activate('sign-overlay');
-          hideAll();
-          show('sign-popup-in');
-
-          switch (network) {
-            case 'facebook':
-              if (permission) { 
-                Sign.showFacebook(permission);
-              } else {
-                Sign.showFacebook();
-              }
-              break;
-            case 'twitter':
-              Sign.showTwitter();
-              break;
-            case 'google':
-              Sign.showGoogle();
-              break;
-          }
-        },
-
-        hideLoginDialog: function()
-        {
-          deactivate('sign-popup');
-          deactivate('sign-overlay');
-          hideAll();
-        },
-
-        showRegisterDialog: function()
-        {
-          activate('sign-popup');
-          activate('sign-overlay');
-          hideAll();
-          show('sign-popup-up');
-        },
-
-        passwordReset: function()
-        {
-          activate('sign-popup');
-          activate('sign-overlay');
-          hideAll();
-          show('sign-popup-restore');
-        },
-
-        getUser: function(callback)
-        {
-          if (typeof callback !== 'function') {
-            return;
-          }
-
-          getJSON('/me', 'GET', null, callback);
-        },
-
-        resetLogin: function()
-        {
-          var signInForm = document.getElementById('sign-in-form');
-          var signUpForm = document.getElementById('sign-up-form');
-          var signRestoreForm = document.getElementById('sign-restore-form');
-
-          if (signInForm) {
-            signInForm.reset();
-          }
-
-          if (signUpForm) {
-            signUpForm.reset();
-          }
-
-          if (signRestoreForm) {
-            signRestoreForm.reset();
-          }
-        },
-
-        pizapLogin: function()
-        {
-          var form = document.getElementById('sign-in-form');
-
-          if (! form.checkValidity()) {
-            return;
-          }
-
-          var username = document.getElementById('sign-in-username');
-          var password = document.getElementById('sign-in-password');
-
-          var myData = 'isajax=1&username='
-                    + encodeURIComponent(username.value)
-                    + '&password=' + encodeURIComponent(password.value);
-
-          getJSON('/login', 'POST', myData, function(data){
-            if (typeof data.Error !== 'undefined' && data.Error) {
-              alert(data.Error);
-              return;
-            }
-
-            Sign.hideLoginDialog();
-            Sign.resetLogin();
-
-            if (editorPage == true) {
-              Sign.updateHeader(data);
-              return;
-            }
-
-            if (isPizapBook) {
-              top.location.href='//apps.facebook.com/' + fbNamespace + "/gallery/following";
-            }else{
-              window.location.href = "/gallery/following";
-            }
-          });
-
-          return false;
-        },
-
-        restore: function()
-        {
-          var username = document.getElementById('sign-restore-username');
-
-          var myData = 'isajax=1&username=' + encodeURIComponent(username.value);
-          
-          getJSON('/change_password', 'POST', myData, function(data) {
-            if (data.Error) {
-              alert(data.Error);
-              return;
-            }
-            
-            alert(data.Success);
-            Sign.hideLoginDialog();
-            Sign.resetLogin();
-          });
-        },
-
-        register: function(){
-          var username     = document.getElementById('sign-up-username');
-          var password     = document.getElementById('sign-up-password');
-          var email        = document.getElementById('sign-up-email');
-          var emailconfirm = document.getElementById('sign-up-emailconfirm');
-
-          var myData = 'isajax=1&username=' + encodeURIComponent(username.value)
-                      + '&password=' + encodeURIComponent(password.value)
-                      + '&email=' + encodeURIComponent(email.value)
-                      + '&email_c=' + encodeURIComponent(emailconfirm.value)
-                      + '&password_c=' + encodeURIComponent(password.value);
-
-          getJSON('/register', 'POST', myData, function(data){
-            if (typeof data.Error !== 'undefined' && data.Error){
-                alert(data.Error);
-                typeof console !== 'undefined' && console.log(data.Error);
-                return;
-            }
-            
-            Sign.hideLoginDialog();
-            Sign.resetLogin();
-
-            if (editorPage == true) {
-                Sign.updateHeader(data);
-                return;
-            }
-
-            if (isPizapBook) {
-                top.location.href = '//apps.facebook.com/' + fbNamespace + "/gallery/following";
-            } else {
-                window.location.href = "/gallery/following";
-            }
-          });
-        },
-
-        updateHeader: function(data)
-        {
-          var userMenu = document.getElementById('userMenu');
-
-          if (userMenu){
-            var name = data.Name ? data.Name: data.UserName;
-
-            var c = "<table style='cursor: pointer;' onclick='showHeaderMenu()' id='accountMenu'><tr><td><span style='font-size: 14px;color:#FFF;padding-right:15px;'>"+name+"</span></td></tr></table>";
-            
-            userMenu.innerHTML = c;
-          }
-
-          var flashMovie = getFlashMovieObject('flashContent');
-
-            if (flashMovie) {
-                try {
-                    FB.api('/me/permissions', function (response) {
-                        if (flashMovie) {
-                            try {
-                                data.permissions = response;
-                                flashMovie.userLoggedIn(data);
-                            } catch (e) {
-                            }
-                        }
-                    });
-                } catch (e) {
-                    try {
-                        flashMovie.userLoggedIn(data);
-                    } catch (e) {
-                    }
-                }
-            }
-        },
-
-        facebookPermission:function()
-        {
-          var flashMovie = getFlashMovieObject("flashContent");
-
-          FB.getLoginStatus(function(response) {
-            if (response.status === 'connected') {
-              FB.api('/me/permissions', function(response){
-                if(flashMovie){
-                  try {
-                    flashMovie.facebookPermissionResponse(response);
-                  } catch (e) { typeof console !== 'undefined' && console.log(e); }
-                }
-              });
-            } else if (response.status === 'not_authorized') {
-              if(flashMovie){
-                try {
-                  flashMovie.facebookPermissionResponse(response);
-                } catch (e) { typeof console !== 'undefined' && console.log(e); }
-              }
-            } else {
-              if (flashMovie) {
-                try {
-                  flashMovie.facebookPermissionResponse(response);
-                } catch (e) { typeof console !== 'undefined' && console.log(e); }
-              }
-            }
-          });
-        },
-
-        showTwitter: function()
-        {
-          var left = (screen.width/2)-(400);
-          var top = (screen.height/2)-(300);
-          var win = window.open("/twitter/login?dialog=true",'','width=800,height=500,top='+top+',left='+left);
-        },
-
-        showFacebook: function(permission)
-        {
-          if(permission) {
-            FB.login(function(response) {}, {scope: 'email,' + permission});
-          } else {
-            FB.login(function(response) {}, {scope: 'email'});
-          }
-        },
-
-        showGoogle: function()
-        {
-          var left = (screen.width/2)-(400);
-          var top = (screen.height/2)-(300);
-          var win = window.location.href = "/gpluslogin?dialog=true";
-        },
-
-        setTwitterData: function(username, name)
-        {
-          Sign.hideLoginDialog();
-          Sign.resetLogin();
-
-          if (editorPage) {
-            Sign.getUser(Sign.updateHeader);
-
-            var flashMovie=getFlashMovieObject("flashContent");
-            
-            if (flashMovie) {
-              try {
-                flashMovie.twitterAuthenticated(username);
-              } catch(e) { }
-            }
-          } else {
-            if (isPizapBook) {
-              top.location.href='//apps.facebook.com/' + fbNamespace + "/gallery/following";
-            } else {
-              window.location.href = "/gallery/following";
-            }
-          }
-        },
-
-        setGPlusData: function(name)
-        {
-            Sign.hideLoginDialog();
-            Sign.resetLogin();
-
-            if (editorPage) {
-              Sign.getUser(Sign.updateHeader);
-            } else {
-              if (isPizapBook){
-                top.location.href='//apps.facebook.com/' + fbNamespace + "/gallery/following";
-              } else {
-                window.location.href = "/gallery/following";
-              }
-            }
-        },
-
-        handleFBLoginResponse: function(response)
-        {
-          if (response.status !== 'connected') {
-            return;
-          }
-
-          FB.api('/'+response.authResponse.userID, function(data) {
-              var email = "";
-              if (data.email)
-                  email = data.email;
-
-            Sign.hideLoginDialog();
-            Sign.resetLogin();
-
-            var myData = 'name=' + encodeURIComponent(data.name)
-                        + '&id='+encodeURIComponent(data.id)
-                        + '&email='+encodeURIComponent(email)
-                        + '&gender='+encodeURIComponent(data.gender)
-                        + '&token='+response.authResponse.accessToken;
-
-
-            var xmlhttp = new XMLHttpRequest();
-
-            xmlhttp.onload = function() {
-              if (! homePage){
-                Sign.getUser(Sign.updateHeader);
-                return;
-              }
-
-              if (username != '') {
-                return;
-              }
-
-              if (isPizapBook) {
-                top.location.href='//apps.facebook.com/' + fbNamespace + "/gallery/following";
-              } else {
-                window.location.href = "/gallery/following";
-              }
-            };
-
-            xmlhttp.open("POST","/process_facebook",true);
-            xmlhttp.setRequestHeader("Content-type", "application/x-www-form-urlencoded; charset=UTF-8");
-            xmlhttp.send(myData);
-          });
-        }
-      };
-
-      window.PizapLogin = Sign;
-    //})();
-    </script>
-
-    <script charset="UTF-8">
-        if(isPizapBook && !displayPublic){
-            var container = document.getElementById("container");
-            if(container){
-                FB.Canvas.scrollTo(0,0);
-                FB.Canvas.setAutoGrow();
-                var interval = setInterval(function(){
-                    FB.Canvas.getPageInfo(
-                            function(info) {
-                                var frameHeight = document.documentElement.clientHeight;
-                                var offsetTop = info.offsetTop;
-                                var scrollTop = info.scrollTop;
-                                var fbTollernce = 1500;
-
-                                if ((scrollTop + offsetTop >= frameHeight - fbTollernce)) {
-                                    infiniteScroll();
-                                }
-                            });
-
-                }, 100);
-            }
-        }
-
-
-
-    var isMobile = {
-        Android: function() {
-            return navigator.userAgent.match(/Android/i);
-        },
-        BlackBerry: function() {
-            return navigator.userAgent.match(/BlackBerry/i);
-        },
-        iOS: function() {
-            return navigator.userAgent.match(/iPhone|iPad|iPod/i);
-        },
-        Opera: function() {
-            return navigator.userAgent.match(/Opera Mini/i);
-        },
-        Windows: function() {
-            return navigator.userAgent.match(/IEMobile/i);
-        },
-        any: function() {
-            return (isMobile.Android() || isMobile.BlackBerry() || isMobile.iOS() || isMobile.Opera() || isMobile.Windows());
-        }
-    };
-
-
-    if(document.getElementById('login-username')){
-        document.getElementById('login-username').onkeyup = function(e){
-            if(e.which == 13) {
-                PizapLogin.pizapLogin();
-            }
-        };
-        document.getElementById('login-password').onkeyup = function(e){
-            if(e.which == 13) {
-                PizapLogin.pizapLogin();
-            }
-        };
-    }
-
-    if(isMobile.iOS())
-    {
-        var diviphone = document.getElementById("diviphone");
-        if(diviphone)
-            diviphone.style.visibility = "visible";
-    }
-    if(isMobile.Android())
-    {
-        var divandroid = document.getElementById("divandroid");
-        if(divandroid)
-            divandroid.style.visibility = "visible";
-    }
-    if( isMobile.any() )
-    {
-        var tdInviteFriends = document.getElementById("tdInviteFriends");
-        var tdFBShare = document.getElementById("tdFBShare");
-        if(tdFBShare)
-            tdFBShare.innerHTML = "";
-        if(tdInviteFriends)
-            tdInviteFriends.innerHTML = "";
-    }
-
-    if(document.getElementById("searchheader")){
-        document.getElementById("searchheader").addEventListener('keyup', function(e) {
-            if(e.which == 13) {
-                _gaq.push(['_trackEvent', 'search', 'search', document.getElementById("searchheader").value]);
-                if(isPizapBook){
-                    top.location.href='//apps.facebook.com/' + fbNamespace + "/search/" + encodeURI(document.getElementById("searchheader").value);
-                }else{
-                    window.location.href = "/search/" + encodeURI(document.getElementById("searchheader").value);
-                }
-            }
-        });
-    }
-    if(document.getElementById("goheader")){
-        document.getElementById("goheader").addEventListener('click', function(e) {
-            if(isPizapBook){
-                top.location.href='//apps.facebook.com/' + fbNamespace + "/search/" + encodeURI(document.getElementById("searchheader").value);
-            }else{
-                window.location.href = "/search/" + encodeURI(document.getElementById("searchheader").value);
-            }
-        });
-    }
-
-    if(document.getElementById("searchtags")){
-        document.getElementById("searchtags").onkeypress = function(e) {
-            if(e.which == 13) {
-                if(isPizapBook){
-                    top.location.href='//apps.facebook.com/' + fbNamespace + "/search/" + encodeURI(document.getElementById("searchtags").value);
-                }else{
-                    window.location.href = "/search/" + encodeURI(document.getElementById("searchtags").value);
-                }
-            }
-        };
-    }
-    if(document.getElementById("go")){
-        document.getElementById("go").onclick = function(){
-            if(isPizapBook){
-                top.location.href='//apps.facebook.com/' + fbNamespace + "/search/" + encodeURI(document.getElementById("searchtags").value);
-            }else{
-                window.location.href = "/search/" + encodeURI(document.getElementById("searchtags").value);
-            }
-        };
-    }
-    </script>
-
-
-    <script src="/scripts/pizap-2015-02-06.js" charset="UTF-8"></script>
-    <link href="/css/store-2015-05-13.min.css" rel="stylesheet" type="text/css">
-    <script src="/scripts/store-2015-05-13.min.js"></script>
+        <script src="/scripts/pizap_0005.js" charset="UTF-8"></script>
+    <link href="/css/store-2015-10-30.min.css" rel="stylesheet" type="text/css">
 
     
 
@@ -1139,6 +557,30 @@
     <!-- Quantcast Tag, part 2 -->
     <script charset="UTF-8">
       _qevents.push({qacct:"p-J5uK9ftFHeS0P"});
+      if(window.chrome){
+        var hasExtension = false;
+        var extensionId = "okkhakdhndfahinanaadokakjeeobdak";
+        var requiredVersion = 0;
+        if(chrome.runtime && chrome.runtime.sendMessage) {
+          chrome.runtime.sendMessage(extensionId, {message: "version"},
+                  function (reply) {
+                    if (reply) {
+                      if (reply.version) {
+                        if (reply.version >= requiredVersion) {
+                          hasExtension = true;
+                        } else {
+                          document.getElementById("chromeExt").style.display = "block";
+                        }
+                      } else {
+                        document.getElementById("chromeExt").style.display = "block";
+                      }
+                    } else {
+                      document.getElementById("chromeExt").style.display = "block";
+                    }
+                  });
+        }
+      }
+
     </script>
     <noscript>
       <div style="display: none;">
@@ -1146,6 +588,15 @@
       </div>
     </noscript>
 
-        
+      <script>
+    var $buoop = {c:2};
+    function $buo_f(){
+      var e = document.createElement("script");
+      e.src = "//browser-update.org/update.min.js";
+      document.body.appendChild(e);
+    };
+    try {document.addEventListener("DOMContentLoaded", $buo_f,false)}
+    catch(e){window.attachEvent("onload", $buo_f)}
+  </script>
   
-</body></html>
+<script src="//browser-update.org/update.min.js"></script></body></html>
