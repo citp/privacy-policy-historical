@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tellynagari.com privacy policy that was archived on 2015-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150407234132id_/http%3A//www.tellynagari.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tellynagari.com privacy policy that was archived on 2015-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151217125255id_/http%3A//www.tellynagari.com/privacy-policy) for the most accurate reproduction.*
 
-# » Privacy Policy » Complete Indian Television Portal – TellyNagari
+# Privacy Policy | TellyNagari – Complete Indian Television Portal
 
 **Effective from May/01/2005**  
 _Updated on Jun/20/2010_
@@ -23,7 +23,7 @@ We use the information you provide about yourself when registering in the forum 
 
 We use non-identifying and aggregate information to better design our website and to share with advertisers. For example, we may tell an advertiser that X number of individuals visited a certain area on our website, or that Y number of men and Z number of women filled out our registration form, but we would not disclose anything that could be used to identify those individuals. 
 
-We use third-party advertising companies to serve ads when you visit our Website. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here. 
+We use third-party advertising companies to serve ads when you visit our Website. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/). 
 
 Finally, we never use or share the personally identifiable information provided to us online in ways unrelated to the ones described above without also providing you an opportunity to opt-out or otherwise prohibit such unrelated uses. 
 
