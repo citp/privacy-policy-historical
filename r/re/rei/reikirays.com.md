@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the reikirays.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610152051id_/http%3A//reikirays.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reikirays.com privacy policy that was archived on 2015-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151217013018id_/http%3A//reikirays.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Reiki Rays
+# Privacy Policy - Reiki Rays
 
 WEBSITE PRIVACY POLICY for REIKIRAYS.COM
 
@@ -10,7 +10,7 @@ Your privacy is important to us. We are committed to safeguarding the privacy of
 
 Collection of your information
 
-**REIKIRAYS.COM** **** is the sole owner of information collected on this website. We will not share, sell, or trade this information to third parties in ways different from what is disclosed in this Privacy Policy.
+**REIKIRAYS.COM** **** is the owned and managed by **ACORN GECKO SRL** (“the company”), a Romanian company registered under the EU VAT number RO32893426. The company is the sole owner of information collected on this website. We will not share, sell, or trade this information to third parties in ways different from what is disclosed in this Privacy Policy.
 
 We may collect, store and use the following kinds of data/information:
 
@@ -24,33 +24,31 @@ Confidentiality of your personal information
 
 Personal information means any information that may be used to identify the client or his company including, but not limited to, User name, telephone number, e-mail address, street address, occupation, and/or industry.
 
-By giving personal information, the client gives REIKI RAYS consent to collect and use it in accordance with this agreement.
+By giving personal information, the client gives the company consent to collect and use it in accordance with this agreement.
 
   * **Information disclosure and sharing**
 
 
 
-While, client’s personal information is never shared outside the scope of REIKI RAYS business without prior permission, however client’s personal information may be stored and/or processed with supporting companies/services as requested.
+While, client’s personal information is never shared outside the scope of the company’s business without prior permission, however client’s personal information may be stored and/or processed with supporting companies/services as requested.
 
   * ******Security of your personal data**
 
 
 
-We will take reasonable technical and organizational precautions to prevent the loss, misuse or alteration of your personal information. However, you are responsible for keeping your password and user details confidential. We will not ask you for your password. Please do not share your password with others. Change your password regularly.
+We will take reasonable technical and organizational precautions to prevent the loss, misuse or alteration of your personal information. However, you are responsible for keeping your password and user details confidential. We will not ask you for your password. Please do not share your password with others. Change your passwords regularly.
 
-We may also notify you of changes to our privacy policy by email.
-
-  * ******Your rights**
+  * **Your rights**
 
 
 
 You may instruct us to provide you with any personal information we hold about you.
 
-  * ******Control of Your Password**
+  * ******Control of Your Passwords**
 
 
 
-You are responsible for all actions taken with your User ID and password. Therefore we do not recommend that you disclose your (ACCOUNT) password to any third parties. If you choose to share your User ID and password or your personal information with third parties, you are responsible for all actions taken with your account and therefore you should review that third party’s privacy policy. If you lose control of your password, you may lose substantial control over your personal information and may be subject to legally binding actions taken on your behalf.
+You are responsible for all actions taken with your User IDs and passwords. Therefore we do not recommend that you disclose your passwords to any third parties. If you choose to share your User ID and passwords or your personal information with third parties, you are responsible for all actions taken with your account and therefore you should review that third party’s privacy policy. If you lose control of your passwords, you may lose substantial control over your personal information and may be subject to legally binding actions taken on your behalf.
 
   * ******Updating information**
 
@@ -64,7 +62,7 @@ Your Information  and your activities on the Site shall not: (a) be false, inac
 
 License
 
-Solely to enable Reiki Rays to use the information you supply us with, so that we are not violating any rights you might have in that information, you agree to grant us a non-exclusive, worldwide, perpetual, irrevocable, royalty-free, sub licensable (through multiple tiers) right to exercise the copyright, publicity, and database rights (but no other rights) you have in Your Information, in any media now known or not currently known, with respect to Your Information. We will only use Your Information in accordance with our Privacy Policy.
+Solely to enable the company to use the information you supply us with, so that we are not violating any rights you might have in that information, you agree to grant us a non-exclusive, worldwide, perpetual, irrevocable, royalty-free, sub licensable (through multiple tiers) right to exercise the copyright, publicity, and database rights (but no other rights) you have in Your Information, in any media now known or not currently known, with respect to Your Information. We will only use Your Information in accordance with our Privacy Policy.
 
 Our Use of Your Information
 
@@ -80,7 +78,7 @@ We use cookies on this website. A cookie is a text file sent by a web server to 
 
 Advertisers
 
-We aggregate (gather up data across all user accounts) personal information and disclose such information in a non-personally identifiable manner to advertisers and other third parties for their marketing and promotional purposes. However, in these situations, we do not disclose to these entities any information that could be used to identify you personally. Certain information, such as your name, password, credit card number, and bank account number, are not disclosed to these third parties in a personally identifiable manner without your explicit consent.
+We aggregate (gather up data across all user accounts) personal information and may disclose such information to advertisers and other third parties for their marketing and promotional purposes.
 
 Reiki Rays Community
 
@@ -88,12 +86,14 @@ Your User ID or name if you provide it when commenting is displayed throughout t
 
 Legal Requests
 
-Reiki Rays cooperates with law enforcement inquiries, as well as other third parties to enforce laws, such as: intellectual property rights, fraud and other rights, to help protect you and Reiki Rays community from bad actors. Therefore, in response to a verified request by law enforcement or other government officials relating to a criminal investigation or alleged illegal activity, we can (and you authorize us to) disclose your name, city, state, telephone number, email address, User ID history, fraud complaints, and bidding and listing history without a subpoena. Without limiting the above, in an effort to respect your privacy and our ability to keep the community free from bad actors, we will not otherwise disclose your personal information to law enforcement or other government officials without a subpoena, court order or substantially similar legal procedure, except when we believe in good faith that the disclosure of information is necessary to: prevent imminent physical harm or financial loss; or report suspected illegal activity. Further, we can (and you authorize us to) disclose your name, address, city, postal code, country, phone number, email, and company name to other participants under confidentiality agreement, as we in our sole discretion believe necessary or appropriate in connection with an investigation of fraud, intellectual property infringement, piracy, or other unlawful activity. Again, Due to the existing regulatory environment, we cannot ensure that all of your private communications and other personal information will never be disclosed in ways not otherwise described in this Privacy Policy. By way of example (without limiting the foregoing), we may be forced to disclose personal information to the government or third parties under certain circumstances, third parties may unlawfully intercept or access transmissions or private communications, or users may abuse or misuse your personal information that they collect from the Site. Therefore, although we use industry standard practices to protect your privacy, we do not promise, and you should not expect, that your personal information or private communications will always remain private.
+The company cooperates with law enforcement inquiries, as well as other third parties to enforce laws, such as: intellectual property rights, fraud and other rights, to help protect you and Reiki Rays community from bad actors. Therefore, in response to a verified request by law enforcement or other government officials relating to a criminal investigation or alleged illegal activity, we can (and you authorize us to) disclose your name, city, state, telephone number, email address, User ID history, fraud complaints, and bidding and listing history without a subpoena. Without limiting the above, in an effort to respect your privacy and our ability to keep the community free from bad actors, we will not otherwise disclose your personal information to law enforcement or other government officials without a subpoena, court order or substantially similar legal procedure, except when we believe in good faith that the disclosure of information is necessary to: prevent imminent physical harm or financial loss; or report suspected illegal activity. Further, we can (and you authorize us to) disclose your name, address, city, postal code, country, phone number, email, and company name to other participants under confidentiality agreement, as we in our sole discretion believe necessary or appropriate in connection with an investigation of fraud, intellectual property infringement, piracy, or other unlawful activity. Again, Due to the existing regulatory environment, we cannot ensure that all of your private communications and other personal information will never be disclosed in ways not otherwise described in this Privacy Policy. By way of example (without limiting the foregoing), we may be forced to disclose personal information to the government or third parties under certain circumstances, third parties may unlawfully intercept or access transmissions or private communications, or users may abuse or misuse your personal information that they collect from the Site. Therefore, although we use industry standard practices to protect your privacy, we do not promise, and you should not expect, that your personal information or private communications will always remain private.
 
 Notice
 
-We may amend this Privacy Policy at any time by posting the amend terms on the Site. All amended terms shall automatically be effective 30 days after they are initially posted on the Site.
+We may amend this Privacy Policy at any time without any notice. Please check back regularly.
 
 Contact
 
 If you have any questions about this privacy policy or our treatment of your personal data, please contact us using the Contact form on this website.
+
+Read also the [Terms and Conditions](http://reikirays.com/terms-and-conditions/) and the [Legal Notice](http://reikirays.com/legal-notice/).
