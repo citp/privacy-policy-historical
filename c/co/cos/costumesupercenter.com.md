@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the costumesupercenter.com privacy policy that was archived on 2015-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150617060721id_/http%3A//www.costumesupercenter.com/privacy-security.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the costumesupercenter.com privacy policy that was archived on 2015-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151217080808id_/http%3A//www.costumesupercenter.com/privacy-security.html) for the most accurate reproduction.*
 
-# Costumes for Halloween for Kids & Adults Buy From Costume SuperCenter.com
+# Halloween Costumes for Kids & Adults Buy From Costume SuperCenter.com
 
 **At CostumeSuperCenter.com** we are committed to protecting your privacy online. Below is a brief overview of the highlights of our Privacy & Security Policy. This will give you a summary of how information is collected from you and how it is used.
 
