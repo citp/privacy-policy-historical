@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mathantics.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607150903id_/http%3A//mathantics.com/index.php/help/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mathantics.com privacy policy that was archived on 2015-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151217070147id_/http%3A//mathantics.com/index.php/help/page/privacy) for the most accurate reproduction.*
 
 # Math Antics - Math Video Lessons for Free plus more
 
