@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the furtadosonline.com privacy policy that was archived on 2015-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150618012639id_/http%3A//www.furtadosonline.com/privacyPolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the furtadosonline.com privacy policy that was archived on 2015-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151217060507id_/http%3A//furtadosonline.com/privacyPolicy.php) for the most accurate reproduction.*
 
-# Furtadosonline.com : Privacy Policy
+# www.furtadosonline.com : Privacy Policy
 
   
 The security of personal information about you is our priority. We protect this information by maintaining physical, electronic, and procedural safeguards that meet applicable law. We train our employees in the proper handling of personal information. We do not sell or rent your personal information to third parties for their marketing purposes without your explicit consent. Please read this privacy policy to learn more about the ways in which we use and protect your personal information. 
