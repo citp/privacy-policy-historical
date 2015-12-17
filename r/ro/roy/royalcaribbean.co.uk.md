@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the royalcaribbean.co.uk privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626051905id_/http%3A//www.royalcaribbean.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the royalcaribbean.co.uk privacy policy that was archived on 2015-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151217031818id_/http%3A//www.royalcaribbean.co.uk/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -71,7 +71,7 @@ Unfortunately, we cannot guarantee that data transmitted over the Internet will 
 
 ### How do I change my personally identifiable information or tell you that I don't want to be contacted?
 
-Our websites sometimes provide you the opportunity to choose to receive communications from us when we request information from you. You always have the option of removing your name from our e-mail mailing list(s) so that you will not receive further e-mail promotional communications from us. In order to ensure immediate removal from any list, it is best to follow the specific instructions outlined within the communications you receive from us, since we operate numerous sites and e-mail lists. If you are unable to complete the process indicated in such communications, send us an e-mail ([https://www.royalcaribbean.co.uk/email-us/](https://web.archive.org/web/20150626051905id_/http://www.royalcaribbean.co.uk/email-us/Default.aspx)) or write to The Marketing Department (Royal Caribbean International at the address set out at the beginning of this policy. 
+Our websites sometimes provide you the opportunity to choose to receive communications from us when we request information from you. You always have the option of removing your name from our e-mail mailing list(s) so that you will not receive further e-mail promotional communications from us. In order to ensure immediate removal from any list, it is best to follow the specific instructions outlined within the communications you receive from us, since we operate numerous sites and e-mail lists. If you are unable to complete the process indicated in such communications, send us an e-mail ([https://www.royalcaribbean.co.uk/email-us/](https://web.archive.org/web/20151217031818id_/http://www.royalcaribbean.co.uk/email-us/Default.aspx)) or write to The Marketing Department (Royal Caribbean International at the address set out at the beginning of this policy. 
 
 You are also entitled to ask us by writing to the Legal Department at the address stated at the beginning of this privacy policy what personal details of yours are being held or processed, for what purpose and to whom they may be or have been disclosed. We are entitled to charge a fee to respond to such a request (presently a maximum of £10). We promise to respond to your request within 40 days of receiving your written request and fee. In certain limited circumstances, we are entitled to refuse your request. If you believe that any of your personal details, which we are processing, are inaccurate or incorrect please contact us immediately. 
 
@@ -90,6 +90,6 @@ By using our websites, you signify your acceptance of this Privacy Policy. We re
 
 ### Questions or Comments
 
-If you have any further questions or comments regarding our Privacy Policy, please send us an e-mail with your questions or comments ([https://www.royalcaribbean.co.uk/email-us/](https://web.archive.org/web/20150626051905id_/http://www.royalcaribbean.co.uk/email-us/Default.aspx)) 
+If you have any further questions or comments regarding our Privacy Policy, please send us an e-mail with your questions or comments ([https://www.royalcaribbean.co.uk/email-us/](https://web.archive.org/web/20151217031818id_/http://www.royalcaribbean.co.uk/email-us/Default.aspx)) 
 
 This privacy policy was last modified on the 9th June 2014 
