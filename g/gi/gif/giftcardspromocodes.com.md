@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the giftcardspromocodes.com privacy policy that was archived on 2015-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150617001117id_/http%3A//giftcardspromocodes.com/sample-page) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the giftcardspromocodes.com privacy policy that was archived on 2015-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151217044749id_/http%3A//giftcardspromocodes.com/sample-page) for the most accurate reproduction.*
 
-# Privacy Policy - Gift Card Free Promo Codes
+# Privacy Policy | Amazon Gift Card Free Promo Codes
 
 Welcome to the Privacy Policy page for [GiftCardsPromoCodes.com](http://giftcardspromocodes.com/). The privacy of our visitors to our is very much important to us.
 
@@ -18,4 +18,4 @@ In case of any question regarding our privacy policy or term of condition then y
 
 Updated:- 4th March, 2015
 
-## Learn to get Free Gift Cards, vouchers, coupon codes and promotional offers from thousands of eCommerce site and local store of US, Canada and UK.
+## Learn to get Free Gift Cards, vouchers, coupon codes and promotional offers from Amazon and eCommerce and local stores of US, Canada and UK.
