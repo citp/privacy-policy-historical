@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the milesplit.us privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231020337id_/http%3A//www.milesplit.com/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the milesplit.us privacy policy that was archived on 2015-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151217050445id_/http%3A//www.milesplit.com/support/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - MileSplit United States
+# Privacy Policy
 
-[](https://web.archive.org/fb/connect "Login to MileSplit with your Facebook account")
-
-Updated: February 20, 2013
+Updated: April 2, 2015
 
 MileSplit takes user privacy very seriously. Absolutely no information submitted to MileSplit via membership, feedback form, or mailing list will be given out, sold, or distributed to any outside organization. 
 
@@ -18,6 +16,6 @@ These companies may use aggregated information (not including your name, address
 
 **Third Party Links** : Our site may contain links to other third-party sites or utilize affiliate link programs. We are in no way responsible for the content of these websites. Please be sure to read their Privacy Policies and terms of use for information regarding those particular sites. 
 
-**Children** : If you are under 13 years of age, please do not access Flotrack or download, install or use the Flotrack Mobile Application. Flotrack and the Flotrack Mobile Application are not intended for children under 13, and BIM will not knowingly collect any information from any children under the age of 13. If we discover that we have collected any personally-identifying information from a child under the age of 13, we will promptly remove that information from our database. 
+**Children** : If you are under 13 years of age, please do not access MileSplit. MileSplit is not intended for children under 13. If we discover that we have collected any personally-identifying user data from a child under the age of 13, we will promptly remove that information from our database. 
 
 **Changes to policy** : MileSplit may change in its own discretion change the privacy policy from time to time. This may be due to changes in technology, partners, business model, or new features launched. Please review this policy periodically to review the most up-to-date version. The last updated date appears at the top of the document. 
