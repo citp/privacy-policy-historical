@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trackinggo.com privacy policy that was archived on 2015-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150502193220id_/http%3A//www.trackinggo.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trackinggo.com privacy policy that was archived on 2015-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151217122257id_/http%3A//www.trackinggo.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -8,7 +8,7 @@ Last Modified: 09 March 2015
   
 This privacy policy discloses the privacy practices for www.TrackingGo.com. This privacy policy applies solely to information collected by this web site. 
 
-We use your Personal Information only for providing and improving our website. By using this website, you agree to the collection and use of information in accordance with this policy
+We use your Personal Information only for providing and improving our website. By using this website, you agree to the collection and use of information in accordance with this policy.
 
 ###### Information Collection, Use, and Sharing
 
@@ -34,7 +34,7 @@ Our Privacy Policy may change from time to time and all updates will be posted o
 
 ###### Contact Us
 
-If you have any questions about this Privacy Policy, please contact us via email at [support(AT)trackinggo(DOT)com.](mailto:tracking-express@outlook.com)
+If you have any questions about this Privacy Policy, please contact us via email at [trackinggo(DOT)outlook.com.](mailto:trackinggo@outlook.com)
 
   
 
