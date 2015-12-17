@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the adppayroll.com.au privacy policy that was archived on 2015-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150503014502id_/http%3A//www.adppayroll.com.au/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adppayroll.com.au privacy policy that was archived on 2015-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151217114925id_/http%3A//www.adppayroll.com.au/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy | ADP Payroll Solutions
-
-**Go Back To:**    |  [Home](https://web.archive.org/en-au.aspx)
 
 ** Application of this Statement **
 
@@ -43,7 +41,7 @@ ADP collects and holds personal information that is reasonably necessary to prov
 
 > • **Applicants for jobs at ADP** : ADP collects contact details, employment history and other background information as required and as permitted by law. 
 
-Some personal information collected by ADP may be sensitive information as defined in the Act; for instance, membership of a trade union (where ADP pays trade union membership fees on behalf of an employee), or biometric identification (via clocks used for ADP’s ezLaborManager and RosterLive services). Any biometric information collected is immediately converted to an encrypted format so that the biometric information originally collected is not stored by ADP.
+Some personal information collected by ADP may be sensitive information as defined in the Act; for instance, membership of a trade union (where ADP pays trade union membership fees on behalf of an employee), or biometric identification (via clocks used for ADP’s ezLaborManager and EmpLive services). Any biometric information collected is immediately converted to an encrypted format so that the biometric information originally collected is not stored by ADP.
 
 **How does ADP collect and hold personal information?**
 
