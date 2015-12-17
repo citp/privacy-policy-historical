@@ -1,28 +1,32 @@
-> *The following text is extracted and transformed from the livetechnews.com privacy policy that was archived on 2013-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131112012429id_/http%3A//livetechnews.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livetechnews.com privacy policy that was archived on 2015-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151217132256id_/http%3A//www.jasonschober.net/privacy.php) for the most accurate reproduction.*
 
-# Privacy Policy | Live Tech News
+# Privacy - Jason Schober Media Inc
 
-**Your Privacy**  
-Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
+### Jason Schober Media Inc Privacy
 
-**Google AdSense and the DoubleClick DART Cookie**  
-Google, as a third party advertisement vendor, uses cookies to serve ads on this site. The use of DART cookies by Google enables them to serve adverts to visitors that are based on their visits to this website as well as other sites on the internet.
+This page describes our privacy practices with respect to [Jason Schober Media Inc Weather](http://www.jasonschober.net/).
 
-To opt out of the DART cookies you may visit the Google ad and content network privacy policy at the following url http://www.google.com/privacy_ads.html Tracking of users through the DART cookie mechanisms are subject to Google’s own privacy policies.
+**Information Collection and Use Practices**
 
-Other Third Party ad servers or ad networks may also use cookies to track user’s activities on this website to measure advertisement effectiveness and other reasons that will be provided in their own privacy policies. Rip Tide Digital Inc. has no access or control over these cookies that may be used by third party advertisers.
+  * Jason Schober Media Inc. Weather uses your location, in accordance with our [Location Privacy practices](http://www.jasonschober.net/privacy.php), to serve local weather information, photos and other information to you.
+  * Mobile phone identifiers, model information, and operating systems may be collected for purposes of internal analytics, or to provide the service with the best possible experience.
+  * If you are a registered user and logged in, locations that you have “Saved” within Jason Schober Media Inc Weather will be associated with your Jason Schober Media Inc account.
+  * If you are a registered user and logged in, Jason Schober Media Inc may use some of your “Favorite Locations” from the [Location Settings page](http://www.jasonschober.net/?location=Los%20Angeles,US) to personalize your Jason Schober Media Inc Weather experience.
+  * Jason Schober Media Inc Weather may offer you the opportunity to log in using Facebook. Jason Schober Media Inc uses this sign-in information to identify the user and may associate that information to an existing Jason Schober Media Inc profile to allow a single-sign on experience. Once signed in, Jason Schober Media Inc may configure your weather cities based on the location of your social graph. Jason Schober Media Inc may store your Facebook information on our servers.
 
-**Our Commitment To Children’s Privacy**  
-Protecting the privacy of the very young is especially important. For that reason, financedtoday.com will never collect or maintain information at our website from those we actually know are under 18, and no part of our website is structured to attract anyone under 18.  
-Under our Terms of Service, children under 18 are not allowed to access our service.
 
-**Collection of Personal Information**  
-When visiting financedtoday.com, the IP address used to access the site will be logged along with the dates and times of access. This information is purely used to analyse trends, administer the site, track user’s movement and gather broad demographic information for internal use. Most importantly, any recorded IP addresses are not linked to personally identifiable information.
 
-**Links to third party Websites**  
-We have included links on this site for your use and reference. We are not responsible for the privacy policies on these websites. You should be aware that the privacy policies of these sites may differ from our own.
+**Practices Regarding Your Ability to Update and Delete Information**
 
-**Changes to this Privacy Statement**  
-The contents of this statement may be altered at any time, at our discretion.
+  * You can access and manage your locations through the “Edit” link in the web-based version or the “Edit Locations” link in the mobile app version of Jason Schober Media Inc Weather.
+  * You can also visit the [Location Settings page](http://www.jasonschober.net/?location=Los%20Angeles,US) to view, add, and delete your location information.
+  * For some versions of Jason Schober Media Inc Weather, you may share a screenshot of the weather using Mail, Messages, Facebook or Twitter. The screenshot is retained in your device photo library.
 
-**Contact us for more information:  <http://riptidedigital.com/>**
+
+
+**Other**
+
+
+
+
+For additional information on how how Forecasts Weather treats your personal information, please visit our [Privacy Policy](http://www.jasonschober.net/privacy.php) and [Jason Schober Media Inc Terms of Service](http://www.jasonschober.net/terms.php).
