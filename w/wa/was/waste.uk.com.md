@@ -1,33 +1,57 @@
-> *The following text is extracted and transformed from the waste.uk.com privacy policy that was archived on 2013-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130805122313id_/http%3A//www.waste.uk.com/Store/PrivacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the waste.uk.com privacy policy that was archived on 2015-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151217082808id_/http%3A//store.wasteheadquarters.com/index.php/privacy-policy) for the most accurate reproduction.*
 
-# w.a.s.t.e. Digital Download advice
+# Privacy Policy
 
-[](http://www.waste.uk.com/)
+**What This Privacy Policy Covers**
 
-Privacy Policy
+This policy covers how Sandbag treats personal information that they collect on this and other web sites, including information related to your past use of the site such as previous order details.
 
-PRIVACY POLICY
+Personal information is personally identifiable information about you such as your name, address, email address, phone number and so on, that is not normally publically available.
 
-1\. This Privacy Policy sets out how we (Waste, our representatives and any organisation affiliated to us) will treat the personal information which you provide to us while using the website located at http://www.waste.uk.com(the â€œSiteâ€) and/or the goods/services provided from it from time to time (the â€œGoods/Servicesâ€). We may change this Privacy Policy from time to time and such changes will take effect from the date and time the revised Privacy Policy is available on the Site.
+This policy does not apply to companies that Sandbag does not control, or to any third parties that Sandbag does not employ or manage. In particular, This site may have links to external sites that Sandbag does not own or control and you should look at each such site's own privacy policy to see how your personal information is managed.
 
-2\. To provide the Site and the Goods/Services, it is necessary for us to hold and process certain personal information. We take reasonable care in keeping this information secure and preventing any unauthorised access or unlawful use of it. All personal information is processed by us in accordance with data protection legislation applicable in the UK.
+**Information Collection and Use**
 
-3\. From time to time, we may ask you to provide some or all of the following: details of your name, your company and/or trading name, address, telephone/facsimile number(s), e-mail address. This personal information will be stored together with any additional information you may provide to us from time to time, and will be used to provide you with the Goods/Services and other activities associated with them. We may also use your personal information:-  
-â€¢ To facilitate our provision of the Goods/Services to you;  
-â€¢ To analyse use of the Site; and  
-â€¢ To keep you up-to-date with Goods/Services which we think may be of interest to you. If you do not want to receive future mail-outs about our Goods/Services, [click here](https://web.archive.org/Mail/QuickUnsubscribe.html)
+Sandbag collects personal information when you register with Sandbag and when you use Sandbag's site.
 
-We shall not offer goods and services from any third parties, including any trusted partners. Furthermore, we shall not sell your data to any third parties.
+When you register we ask for information such as your name, email address, birth date, gender, zip code. Once you register with Sandbag **and** sign in to our services, you are not anonymous to us.
 
-4\. We will only keep your personal information for as long as is necessary for the purposes for which that personal information was given to us. 
+Sandbag collects information about your transactions with us.
 
-5\. We may use 'cookies' while you access the Site to avoid the need to re-enter details on different occasions. If you do not wish to receive â€˜cookiesâ€™,  
+Sandbag automatically receives and records information on our server logs from your browser, including your IP address, Sandbag cookie information, and the page you request.
 
+Sandbag uses information for the following general purposes: to fulfill your requests for products and services, improve our services, contact you, conduct research, and provide **anonymous** reporting for our Management team and or our Web team.
 
-you may change the settings on your computer or browser accordingly.
+**Information Sharing and Disclosure**
 
-6\. Please note that, from time to time, we may transfer your personal data for internal business purposes to locations outside the European Economic Area, some of which may have different data protection laws to the UK, or no data protection laws. Note that in respect of information transmitted to the US, we shall only transmit such information to entities that comply with suitable policies. 
+Sandbag does not rent, sell, or share personal information about you with other people or companies except to provide products or services you've requested from our site(s), when we have your permission, or under the following circumstances:
 
-7\. If you do not want us to retain or use your personal information in any way, please do not provide the data to us or, if you have already provided personal information and wish to withdraw your consent, please [click here](https://web.archive.org/Mail/QuickUnsubscribe.html) or you can contact us at stuff@waste.uk.com or by post at: Waste C/O SANDBAG PO Box 2656 READING RG1 8XR.
+We respond to subpoenas, court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims
 
-If you have any queries about this Privacy Policy or wish to resume receiving information which you may have previously opted out of receiving, please contact us at stuff@waste.uk.com or by post at: Waste , C/O SANDBAG, PO Box 2656 READING RG1 8XR
+We believe it is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of Sandbag's terms of use, or as otherwise required by law.
+
+If Sandbag is acquired by or merged with another company, Sandbag will notify you before information about you is transferred and becomes subject to a different privacy policy.
+
+**Cookies**
+
+Sandbag may set and access Sandbag cookies on your computer and uses cookies in connection with Sandbag's site for your benefit.
+
+**Your Ability to Edit and Delete Your Account Information and Preferences**
+
+You can edit your Sandbag account Information, including your address and contact details at any time. You cannot directly change the name, address, contact details and other details of existing orders, but can contact Sandbag to change order details if you need to.
+
+We reserve the right to send you certain communications relating to the Sandbag Store such as relevant service announcements and administrative messages, that are considered part of your Sandbag account, without offering you the opportunity to opt-out of receiving them. You can remove your Sandbag Account which will stop you being sent these messages. Please note that if you place an order with the site, that Sandbag will keep a permanent record of your details as entered at the time of the order.
+
+**Confidentiality and Security**
+
+We limit access to personal information about you to employees who we believe reasonably need to come into contact with that information to provide products or services to you or in order to do their jobs.  
+We have physical, electronic, and procedural safeguards to protect personal information about you. We also comply fully with the UK Data Protection Act.
+
+**Changes to this Privacy Policy**
+
+Sandbag may update this policy at any time. We will notify you about significant changes in the way we treat personal information by sending a notice to the primary email address specified in your Sandbag account or by placing a prominent notice on our site. If Sandbag choose to send an email, you will be sent the email even if you are unsubscribed from receiving general emails from us.
+
+**Questions and Suggestions**
+
+If you have questions or suggestions on how Sandbag may improve, please contact:  
+[info@sandbag.uk.com](mailto:info@sandbag.uk.com)
