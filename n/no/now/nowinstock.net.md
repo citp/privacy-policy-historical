@@ -1,12 +1,16 @@
-> *The following text is extracted and transformed from the nowinstock.net privacy policy that was archived on 2015-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150625040250id_/http%3A//www.nowinstock.net/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nowinstock.net privacy policy that was archived on 2015-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151217231215id_/http%3A//www.nowinstock.net/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy - NowInStock.net
 
 NowInStock.net has drafted this document, which details how we gather and disseminate information, in an effort to demonstrate our strong commitment to online privacy. Please contact us if you have any questions about our privacy policy.
 
+### Full Commercial Disclosure
+
+NowInStock.net is partnered with most retailers tracked on this site via affiliate programs. As a result, our site contains affiliate links to aid in funding the site. This is NOT an endorsement of these retailers. 
+
 ### Use of Cookies and Flash Stored Objects
 
-NowInStock.net rarely uses cookies. When cookies are implemented by NowInStock.net directly, we do not monitor your site usage other than for web analytics or to store account preferences. However, our partners/affiliate advertisers, my use cookies to trap information. Below we have broken out the different types of cookies and user tracking systems which you may encounter by visiting the pages of NowInStock.net: 
+NowInStock.net uses cookies. When cookies are implemented by NowInStock.net directly, we do not monitor your site usage other than for web analytics or to store account preferences. However, our partners/affiliate advertisers, my use cookies to trap information. Below we have broken out the different types of cookies and user tracking systems which you may encounter by visiting the pages of NowInStock.net:
 
   * **NowInStock.net:**
     * User information cookies - these allow you to remain logged into our account management system. Since you are only signing up with an email address, this is the only information that is ever accessible to us. For TXT alerts, we need to store your phone number so we can direct TXT message to you. We NEVER share your information with anyone, ever, PERIOD.
@@ -18,7 +22,8 @@ NowInStock.net rarely uses cookies. When cookies are implemented by NowInStock.n
     * **Twitter** \- "Twitter Button" is used on NowInStock.net to allow for easy 'tweeting' of pages on our site. To see Twitter's privacy policy please visit: <http://twitter.com/privacy>
     * **Google+** \- "+1 Button" is used to allow easy sharing of pages on our site with your Google+ account. To review the Google+ privacy policy, please visit: <http://www.google.com/policies/privacy/>
   * **Advertising:**
-    * NowInStock.net is partnered with several advertisers in order support the site and to allow it to continue as a FREE service to you the users. These partners/advertisers are typically part of larger management services which use what are called Third-Party elements or cookies. The typical collection of data by these companies is anonymous, however if you are concerned, then by all means please feel free to investigate further. Below you will find a list of the management companies which you may encounter on NowInStock.net and links to their respective privacy information pages. 
+    * NowInStock.net is partnered with several advertisers via affiliate programs in order support the site and to allow it to continue as a FREE service to you the users. These partners/advertisers are typically part of larger management services which use what are called Third-Party elements or cookies. The typical collection of data by these companies is anonymous, however if you are concerned, then by all means please feel free to investigate further. Below you will find a list of the management companies which you may encounter on NowInStock.net and links to their respective privacy information pages. 
+      * [Amazon](http://www.amazon.com/gp/help/customer/display.html?nodeId=468496)
       * [LinkShare](http://www.linkshare.com/legal/privacy/)
       * [Commission Junction](http://www.cj.com/privacy_web_user.html)
       * [Google Affiliate Network](http://www.google.com/policies/privacy/ads/)
@@ -92,4 +97,4 @@ We continually add new products, let us know if you have any you would like to s
 
 #### Testimonials
 
-"I just wanted to thank you for this site! It's brilliant!" -Vanessa
+"I just want to say Thank You!!! I have been searching high and low...up all hours of the night and have unsuccessfully gotten a LeapPad for my son. Then I found your website. 5 hours later, I got him a leap pad!!! Thank you so much!!! BEST SERVICE EVER!!!" -Jessica F
