@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the easypolicy.com privacy policy that was archived on 2015-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150622015757id_/http%3A//www.easypolicy.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the easypolicy.com privacy policy that was archived on 2015-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151217014746id_/http%3A//www.easypolicy.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Insurance Services - Easypolicy Customer Privacy Policy
 
@@ -26,7 +26,7 @@ As the internet is an ever evolving medium, we may change our privacy policy fro
 
 ####  Contact Information
 
-Sonnen Insurance.  
+Easypolicy Insurance Web Aggregators Pvt. Ltd.  
 C-56A/13, 5th Floor, Sec-62,   
 Noida-201301, Uttar Pradesh, India.  
 Email: help@easypolicy.com 
