@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the foodchannel.com privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612174840id_/http%3A//www.foodchannel.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foodchannel.com privacy policy that was archived on 2015-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151217013048id_/http%3A//www.foodchannel.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -13,6 +13,8 @@ Food Channel is committed to safeguarding the information Users entrust to Food 
 Food Channel may collect personally identifiable information from Users in a variety of ways. Personally identifiable information may include, without limitation, (i) contact data (such as a User’s name, mailing and e-mail addresses); (ii) demographic data (such as a User’s zip code, age and income); (iii) financial information collected to process purchases made from Food Channel via the Web Site or otherwise (such as credit card, debit card or other payment information); and (iv) other information requested during the account registration process. If a User communicates with Food Channel by e-mail or otherwise, post User Content (as defined in the Web Site Terms of Use) to the Web Site, post messages to any forums, complete online forms, surveys or entries or otherwise interact with or use the features on the Web Site, any information provided in such communications may be collected by Food Channel. Food Channel may also collect information about how Users use the Web Site, for example, by tracking the number of unique views received by the pages of the Web Site, or the domains and IP addresses from which Users originate. While not all of the information that Food Channel collects from Users is personally identifiable, it may be associated with personally identifiable information that Users provide Food Channel through the Web Site or otherwise.
 
 Food Channel may use “cookies” or “web beacons” to track how Users use the Web Site. A cookie is a piece of software that a web server can store on Users’ PCs and use to identify Users should they visit the Web Site again. Users may adjust their web browser software if they do not wish to accept cookies. Food Channel may use third party advertising networks to serve advertisements on the Web Site. The cookies received with banner advertisements served by these networks are used to collect and build anonymous behavioral profiles by these companies to deliver targeted advertisements and tracking referrals, and Food Channel generally does not have access to this information.
+
+For information about opting out of Gourmet Ads and ad serving partners please visit <http://www.gourmetads.com/about/privacy-policy>.
 
 ### How Food Channel Uses Information
 
