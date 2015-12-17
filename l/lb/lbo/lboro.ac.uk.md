@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the lboro.ac.uk privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611005057id_/http%3A//www.lboro.ac.uk/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lboro.ac.uk privacy policy that was archived on 2015-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151217025812id_/http%3A//www.lboro.ac.uk/privacy.html) for the most accurate reproduction.*
 
-# Loughborough University | Contact
+# Loughborough University
 
 At Loughborough University we believe strongly in protecting our users' privacy. We will not wilfully disclose information about our users to any third party without first receiving our users' consent.
 
