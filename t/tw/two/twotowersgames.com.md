@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the twotowersgames.com privacy policy that was archived on 2015-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150617020850id_/http%3A//twotowersgames.com/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the twotowersgames.com privacy policy that was archived on 2015-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151217225125id_/http%3A//twotowersgames.com/page/privacy-policy) for the most accurate reproduction.*
 
 # Free Flash Online Games: PRIVACY-POLICY of site Two Towers Games
 
