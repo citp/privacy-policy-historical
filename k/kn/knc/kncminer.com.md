@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kncminer.com privacy policy that was archived on 2015-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150514063254id_/http%3A//www.kncminer.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kncminer.com privacy policy that was archived on 2015-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151218000510id_/http%3A//www.kncminer.com/policy) for the most accurate reproduction.*
 
 # KnCMiner AB
 
