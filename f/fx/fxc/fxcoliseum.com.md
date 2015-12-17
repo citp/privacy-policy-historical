@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the fxcoliseum.com privacy policy that was archived on 2015-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150529042547id_/http%3A//fxcoliseum.com/html/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fxcoliseum.com privacy policy that was archived on 2015-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151217215055id_/http%3A//fxcoliseum.com/html/privacy-policy.php) for the most accurate reproduction.*
 
-# Privacy Policy | FXCOLISEUM
+# Privacy Policy - fxcoliseum.com
 
 #### Security and Disclosure
 
-FX-Coliseum considers your privacy as our upmost concerns and we respect each individual's right of privacy. We value our relationship with you, and we take pride in maintaining loyalty and respect with each individual client by providing you with security. The provisions of this notice apply to former clients as well as our current clients. 
+FX-Coliseum considers your privacy as our upmost concerns and we respect each individual's right of privacy. We value our relationship with you, and we take pride in maintaining loyalty and respect with each individual Customer by providing you with security. The provisions of this notice apply to former Customers as well as our current Customers. 
 
 #### Personal Information
 
@@ -12,15 +12,15 @@ When you apply for or maintain a live account with FX-Coliseum, we have to colle
 
   * Application information:
 
-Information you provide to us on applications and other forms, such as your name, address, birth date, Social Security number, occupation, assets, and income.
+Information you provide to us on applications and other forms, such as your name, address, birth date, Social Security number, occupation, assets, and income. 
 
   * Transaction information:
 
-Information about your transactions with us and with our affiliates as well as information about our communications with you. Examples include your account balances, trading activity, your inquiries, and our responses.
+Information about your transactions with us and with our affiliates as well as information about our communications with you. Examples include your account balances, trading activity, your inquiries, and our responses. 
 
   * Verification information:
 
-Information necessary to verify your identity, such as a passport or driver's license. Examples also include background information about you we receive from public records or from other entities not affiliated with FX-Coliseum.
+This relates to Information necessary to verify your identity such as passport or driver's license. Examples also include background information about you we receive from public records or from other entities not affiliated with FX-Coliseum. 
 
 
 
