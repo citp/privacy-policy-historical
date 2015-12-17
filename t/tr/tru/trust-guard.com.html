@@ -1,8 +1,10 @@
-<!--The following is the downloaded HTML source of the trust-guard.com privacy policy that was archived on 2015-06-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150618110820id_/http%3A//www.trust-guard.com/terms_privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the trust-guard.com privacy policy that was archived on 2015-12-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151217072848id_/http%3A//www.trust-guard.com/terms_privacy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
     
+
+
 
 
 
@@ -15,8 +17,8 @@
     <meta name="apple-mobile-web-app-capable" content="yes">
     <meta name="language" content="English">
 
-    <link rel="stylesheet" type="text/css" href="/Templates/2.0/css/style.css?150618060820">
-    <link rel="stylesheet" type="text/css" href="/Templates/2.0/css/style-responsive.css?150618060820">
+    <link rel="stylesheet" type="text/css" href="/Templates/2.0/css/style.css?151217012848">
+    <link rel="stylesheet" type="text/css" href="/Templates/2.0/css/style-responsive.css?151217012848">
     <link href="/Templates/2.0/css/tmbslider.css" rel="stylesheet" type="text/css">
     <link href="/Templates/2.0/css/flexslider.css" rel="stylesheet" type="text/css">
 
@@ -31,7 +33,7 @@
     <link rel="icon" type="image/x-icon" href="/Templates/2.0/images/tgfavicon.png">
 
     <!-- Bootstrap -->
-    <link href="/Templates/2.0/css/bootstrap.css?150618060820" rel="stylesheet">
+    <link href="/Templates/2.0/css/bootstrap.css?151217012848" rel="stylesheet">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
     <script src="/Templates/2.0/js/bootstrap.min.js"></script>
     <script src="/Templates/2.0/js/bootstrap-collapse.js"></script>
@@ -188,7 +190,7 @@
 
 
 
-            <span class="col-lg-1 col-md-1 col-sm-2 col-xs-4 col-xxs-4 no-pad text-center"><a href="/cartorder.htm?security" class="btn btn-orange" style="position: relative;left:15px;top: 10px;padding:5px;">Order Now!</a></span>
+            <span class="col-lg-1 col-md-1 col-sm-2 col-xs-4 col-xxs-4 no-pad text-center"><a href="/cartorder.htm?security" id="order-now" class="btn btn-orange" style="position: relative;left:15px;top: 10px;padding:5px;">Order Now!</a></span>
 
 
             <div class="col-lg-2  col-md-2 col-sm-2  col-xs-4 col-xxs-4 text-center center-block menu-nav" style="margin:15px 0;">
@@ -287,6 +289,8 @@
                 </script>
 
             </div>
+
+
 
           </div>
     </div>
@@ -399,10 +403,8 @@
                     298 24th St, STE 470<br>
                     Ogden Utah, 84401<br><br>
 
-                    Support@trustguard.com<script cf-hash="f9e31" type="text/javascript">
-/* <![CDATA[ */!function(){try{var t="currentScript"in document?document.currentScript:function(){for(var t=document.getElementsByTagName("script"),e=t.length;e--;)if(t[e].getAttribute("cf-hash"))return t[e]}();if(t&&t.previousSibling){var e,r,n,i,c=t.previousSibling,a=c.getAttribute("data-cfemail");if(a){for(e="",r=parseInt(a.substr(0,2),16),n=2;a.length-n;n+=2)i=parseInt(a.substr(n,2),16)^r,e+=String.fromCharCode(i);e=document.createTextNode(e),c.parentNode.replaceChild(e,c)}}}catch(u){}}();/* ]]> */</script><br>
-                    Sales@trustguard.com<script cf-hash="f9e31" type="text/javascript">
-/* <![CDATA[ */!function(){try{var t="currentScript"in document?document.currentScript:function(){for(var t=document.getElementsByTagName("script"),e=t.length;e--;)if(t[e].getAttribute("cf-hash"))return t[e]}();if(t&&t.previousSibling){var e,r,n,i,c=t.previousSibling,a=c.getAttribute("data-cfemail");if(a){for(e="",r=parseInt(a.substr(0,2),16),n=2;a.length-n;n+=2)i=parseInt(a.substr(n,2),16)^r,e+=String.fromCharCode(i);e=document.createTextNode(e),c.parentNode.replaceChild(e,c)}}}catch(u){}}();/* ]]> */</script><br><br>
+                    Support@trustguard.com<br>
+                    Sales@trustguard.com<br><br>
 
                     Toll Free <b>877-848-2731</b><br>
                 </p>
@@ -748,45 +750,87 @@
 
 <div class="hidden-xs">
 
-
 <script type="text/javascript">
-    rsShowTab = 'chat';
-    /* Chat Settings & Customization */
+    var rsJQ;
     rsContactInfo = {};
-    rsContactInfo['rsHelpDeskURL'] = "http://support.trust-guard.com";
-    rsContactInfo['rsCreateTicketText'] = "Contact Us";
-    rsContactInfo['rsLiveChatText'] = "Live Chat";
-    rsContactInfo['rsKnowledgeBaseText'] = "View Knowledge Base";
-    rsContactInfo['rsTheme'] = 'theme1';
-    rsContactInfo['rsExpandKnowledgeBase'] = 1;
     rsContactInfo['rsWebsite'] = 35;
-    rsContactInfo['rsBoxWidth'] = 410;
-    rsContactInfo['rsBoxTicketHeight'] = 360;
-    rsContactInfo['rsButtonTextColor'] = '#FFF'; // Color of the text on the tab
-    rsContactInfo['rsButtonHoverTextColor'] = 'green'; // Color of the text on the tab when hovered over
+    rsContactInfo['rsDomain'] = 'trustguard';
+    rsContactInfo['rsHelpDeskURL'] = 'http://support.trust-guard.com/helpdesk.htm#ticket';
+    /* Chat Settings & Customization */
 
-    rsContactInfo['rsChatTabColorText'] = 'white'; // Navigation Tab Links
-    rsContactInfo['rsChatTabColorTextHover'] = 'green'; // Navigation Tab Links Hover
+    rsContactInfo['name'] = '';
+    rsContactInfo['emailAddress'] = '';
 
-    rsContactInfo['chatPosition'] = 'bottom';
-    rsContactInfo['distanceFromRight'] = 20;
+    rsContactInfo['rsBoxWidth'] = '400';
 
-    //Note if this is set then the default tab will disappear
-//    rsContactImage = {};
-//    rsContactImage['position'] = 'left';
-//    rsContactImage['top'] = '120';
+    rsContactInfo['displayTab'] = 'chat';
 
-    rsContactInfo['showChat'] = 30; //Chat will popup after x amount of seconds
-    rsContactInfo['showChatOnlineText'] = "<img src='https://www.trust-guard.com/Templates/Clean/Images/tg-logo.png' style='width:280px;' alt=''><br /><br /><strong>Got questions about PCI Scanning or Conversion?</strong><br /><br />We can help. Please feel free to chat with us or call us at <strong>877-848-2731</strong>.";
-    rsContactInfo['alwaysShowChatOnlineText'] = true; // Makes it always display the custom text instead of the default
-    /* End Chat Settings & Customization */
-    //var rsBoxTicketHeight = 560;
-    //var rsShowTab = "ticket";
+    rsContactInfo['departmentList'] = '';
+
+    rsContactInfo['chatPosition'] = 'side';
+    rsContactInfo['distanceFromLeft'] = 20;
+
+    rsContactInfo['rsChatTabColor'] = '#0E99F0';
+    rsContactInfo['rsChatBoxBackground'] = '#EBEBEB';
+
+    rsContactInfo['rsChatTabColorText'] = '#FFFFFF';
+    rsContactInfo['rsChatTabColorTextHover'] = '#FFA500';
+
+    if (rsContactInfo['chatPosition'] == "side") {
+        /* --- Side Tab Area --- */
+        rsContactImage = {}; // If this is set then the default tab will disappear
+        rsContactImage['onlineURL'] = 'http://www.trust-guard.com/Images/imgon.jpg';
+        rsContactImage['onlineHoverURL'] = 'http://www.trust-guard.com/Images/imgon.jpg';
+        rsContactImage['offlineURL'] = 'http://www.trust-guard.com/Images/imgo.jpg';
+        rsContactImage['offlineHoverURL'] = 'http://www.trust-guard.com/Images/imgo.jpg';
+        rsContactImage['position'] = 'Left';
+        rsContactImage['top'] = '100';
+    }
+    else {
+        rsContactInfo['rsOnlineChatText'] = 'Live Chat';
+        rsContactInfo['rsOfflineChatText'] = 'Contact Us';
+    }
+
+    rsContactInfo['rsButtonTextColor'] = '#FFFFFF';
+    rsContactInfo['rsButtonHoverTextColor'] = '#D9D9D9';
+
+    rsContactInfo['rsButtonTop'] = '#0C151E';
+    rsContactInfo['rsButtonBottom'] = '#0C151E';
+
+    rsContactInfo['rsChatBoxTextColor'] = '#333333';
+    rsContactInfo['rsChatBoxLinkColor'] = '#5A5A5A';
+    rsContactInfo['rsChatBoxLinkColorHover'] = '#FFA500';
+
+    rsContactInfo['rsNavigationBoxSeparatorSize'] = '2px';
+    rsContactInfo['rsNavigationBoxSeparator'] = '#0084FF';
+
+    rsContactInfo['rsAddButtonGlow'] = false;
+    rsContactInfo['rsTheme'] = 'theme1';
+
+    rsContactInfo['hideChatLink'] = false;
+    rsContactInfo['hideKBLink'] = false;
+    rsContactInfo['hideTicketLink'] = false;
+    //rsContactInfo['rsHideChatTab'] = true;
+
+    rsContactInfo['showChat'] = 0;
+    rsContactInfo['showChatOnlineText'] = '<img style=\'max-width:315px;\' src=\'https://www.trust-guard.com/Images/tgl1.jpg\' alt=\'Trust Guard\' /><br />Got questions on increasing your sales or becoming PCI compliant?<br /><br />Please don`t hesitate to ask. We are ready to help.';
+    rsContactInfo['alwaysShowChatOnlineText'] = true;
 
     function rsLoadScript(url, callback) { var head = document.getElementsByTagName('head')[0]; var script = document.createElement('script'); script.type = 'text/javascript'; script.src = url; if (script.readyState) { script.onreadystatechange = function () { if (script.readyState == 'loaded' || script.readyState == 'complete') { script.onreadystatechange = null; callback(); } }; } else { script.onreadystatechange = callback; script.onload = callback; } head.appendChild(script); }
     var rsLoadChatScript = function () { rsJQ = $.noConflict(true); rsJQ.getScript('https://s3.amazonaws.com/RSI/LiteChat.js', function () { }); }; rsLoadScript('https://code.jquery.com/jquery-1.10.1.min.js', rsLoadChatScript);
 
 </script>
+
+
+
+
+
+
+
+
+
+
+
 
 
 </div>
@@ -813,6 +857,7 @@
         '//www.shopperapproved.com/schema/'+i+'.js';f.parentNode.insertBefore(j,f);
     } )(window,document,'script','saData','10534-cP7Q6');</script>
 <!-- End SA Schema -->
+
 
 
 
@@ -956,17 +1001,29 @@
 </script>
 
 
-    <span style="opacity:0;max-height:5pz;">
+    <style>
+    .schemaBox a
+    {
+        color:#555;
+    }
+    .schemaBox a:link
+    {
+        color:#000;
+    }
+</style>
+<span class="schemaBox" style="color:#000; text-align:center;">
     
+<!-- Cached 2015-12-16 22:58:29 -->
 
-<a href="http://www.shopperapproved.com/certificates/trust-guard.com/" rel="nofollow" target="shopperapproved">
+
+<a href="http://www.shopperapproved.com/certificates/Trust-Guard.com/" rel="nofollow" target="shopperapproved">
 <span itemscope="" itemtype="http://schema.org/Product">
-  <span itemprop="name">trust-guard.com</span>
-  <meta itemprop="url" content="trust-guard.com">
+  <span itemprop="name">Trust-Guard.com</span>
+  <meta itemprop="url" content="Trust-Guard.com">
   has a Shopper Approved rating of
   <span itemprop="aggregateRating" itemscope="" itemtype="http://schema.org/AggregateRating">
     <span itemprop="ratingValue">4.6</span>/<span itemprop="bestRating">5</span>
-    based on <span itemprop="ratingCount">844</span> ratings and reviews
+    based on <span itemprop="ratingCount">864</span> ratings and reviews
     
     
   </span>
@@ -1010,9 +1067,10 @@
                         </div>
                     </div>
                     <div class="col-md-4 col-sm-4 col-xs-4 col-xxs-4 no-pad">
-                        &nbsp;<input type="button" onclick="sendEmailForm();" class="btn btn-success btn-float-opt" value="Download Now">
+                        &nbsp;<input type="button" onclick="sendEmailForm();" class="btn btn-success btn-float-opt" value="Sign Up">
+
                     </div>
-                    <!--<img id="tg-optin-showhide" src="/Templates/2.0/images/tg-hide-btn.png" alt="TG hide button" class="optinbtn" style="position:relative;top:5px;">-->
+                    <img id="tg-optin-showhide" onclick="$('.floating-optin').slideUp(100);$('.floating-optin2').slideDown(100);" src="/Templates/2.0/images/tg-hide-btn.png" alt="TG hide button" class="optinbtn" style="position:relative;top:5px;">
                 </form>
             </div>
 
@@ -1021,17 +1079,19 @@
     <div class="floating-optin2">
         <div class="col-md-12">
             <div class="col-lg-1 col-md-3 text-left pull-right">
-                <img id="tg-optin-showhide2" src="/Templates/2.0/images/tg-show.png" alt="TG show button" class="optinbtn " style="position:relative;top:13px;left:-35px;">
+                <img id="tg-optin-showhide2" onclick="$('.floating-optin').slideDown(100);$('.floating-optin2').slideUp(100);" src="/Templates/2.0/images/tg-show.png" alt="TG show button" class="optinbtn visible-md visible-lg" style="position:relative;top:13px;right:-40px;">
             </div>
         </div>
     </div>
 
     <script>
-        $(window).scroll(function() {
+        $(window).one('scroll',function() {
 
             if ($(window).scrollTop() >= 100) {
+
                 $(".floating-optin").slideDown();
                 $(".floating-optin2").hide();
+
             }
             else {
                 $(".floating-optin2").hide();
@@ -1039,22 +1099,12 @@
 
             }
         });
-        $(function(){
-            $('#tg-optin-showhide').click(function(){
 
-                $('.floating-optin').hide();
-                $('.floating-optin2').show();
-            })
-            $('#tg-optin-showhide2').click(function(){
-                $('.floating-optin2').hide();
-                $('.floating-optin').show();
-            })
-        })
 
         function sendEmailForm()
         {
             $('#optInFrame').attr('src', '/AJAX/9wayoptin.php?name='+$('#tg-opt-name').val()+'&email='+$('#tg-opt-email').val());
-            $.post("/AJAX/FillFirstForm.php", {id : 191407, name : $('#tg-opt-name').val(), email : $('#tg-opt-email').val(), url : window.location.href }, function(data){
+            $.post("/AJAX/FillFirstForm.php", {id : , name : $('#tg-opt-name').val(), email : $('#tg-opt-email').val(), url : window.location.href }, function(data){
 
                 if(data.indexOf("captcha" != "-1"))
                 {
@@ -1066,6 +1116,7 @@
 
     </script>
     
+
 
 
 
