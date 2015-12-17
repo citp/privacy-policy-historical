@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wonderyard.com privacy policy that was archived on 2015-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150621204541id_/http%3A//www.wonderyard.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wonderyard.com privacy policy that was archived on 2015-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151217032411id_/http%3A//www.wonderyard.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | WonderYard
 
