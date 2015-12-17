@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ugo.co.ug privacy policy that was archived on 2015-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150617190404id_/http%3A//ugo.co.ug/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ugo.co.ug privacy policy that was archived on 2015-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151217020835id_/http%3A//ugo.co.ug/privacy-policy) for the most accurate reproduction.*
 
 # UGO Privacy Policy - UGO Uganda
 
