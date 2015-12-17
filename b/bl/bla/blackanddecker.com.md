@@ -1,116 +1,261 @@
-> *The following text is extracted and transformed from the blackanddecker.com privacy policy that was archived on 2015-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150518001832id_/http%3A//www.blackanddecker.com/en-us/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blackanddecker.com privacy policy that was archived on 2015-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151217153636id_/http%3A//www.blackanddecker.com/en-us/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 **Privacy Policy**
 
-The Privacy Policy outlined below explains how Stanley Black & Decker may gather and use the information you provide. This Privacy Policy applies only to the information collected online through websites, microsites, mobile sites or mobile apps that expressly adopt, and display or link to this Privacy Policy and that are owned, operated or controlled by Stanley Black & Decker, Inc. or any of its Affiliates (all of these collectively referred to as our “Websites”).
+**Scope**. This Privacy Policy applies to personal information collected, used and disclosed by Stanley Black & Decker, Inc. and its affiliates including Stanley, Stanley FatMax, Black+Decker, DEWALT, Porter-Cable, Bostitch, Proto, Emglo, Powers, ABMAST, Elco, Lista and Vidmar (collectively referred to as “Stanley Black & Decker”) in connection with its websites, microsites, mobile sites or mobile apps that expressly adopt, display or link to this Privacy Policy (collectively referred to as our “Sites”).  It also applies to personal information we collect, use and disclose in connection with Stanley Black & Decker pages on social media sites, such as Facebook, Twitter, Google Plus or others (collectively referred to as our “Social Media Pages”). 
 
-**This policy provides the following:**
+**NOTE:** Stanley Black & Decker licenses the use of its trademarks to unrelated third parties which operate websites independently from Stanley Black & Decker.  This Privacy Policy **does not cover** the websites of these third parties.  These third parties have separate and independent privacy policies which we recommend you read carefully. 
 
-1\. What information does Stanley Black & Decker collect and how does Stanley Black & Decker use this information?
+**This Privacy Policy answers the following questions** :
 
-2\. What information is collected by Stanley Black & Decker on its social media pages?
-
-3\. Does Stanley Black & Decker share your information with other third parties?
-
-4\. How do I stop Stanley Black & Decker from sending me marketing email in the future?
-
-5\. What about Stanley Black & Decker's links to other sites?
-
-6\. Will this Privacy Policy change?
-
-7\. How do we secure your information on our Websites?
-
-8\. Where should you direct your questions?
-
-**What information does Stanley Black & Decker collect and how does Stanley Black & Decker use this information?**
-
-Of course by visiting our Websites, you are under no obligation to provide any personal information to Stanley Black & Decker. However the information we learn from customers helps us personalize and continually improve your experience on our Websites.
-
-Personal Information:
-
-You may choose not to provide certain requested information, but then you might not be able to take advantage of some of our features.
-
-  * The type of personal information we request from you may include your name, address, email address, telephone number, as well as information related to customer satisfaction surveys, customer purchasing habits and other purchasing information, including registration of products purchased. If you are using one of our websites, microsites or mobile apps that allows purchases and you decide to make a purchase, we also collect credit card information so that we can complete your purchase.
-  * The email address you provide when making a purchase will be used both to send you a confirmation and to send you marketing emails as well. If you do not want to receive marketing email from us, please see “How do I stop Stanley Black & Decker from sending me marketing email in the future?” discussed below.
-  * Our Websites allow you to contact us directly with questions or comments regarding our products, services, Websites, warranty registration, surveys, contests, polls and emails. This process requires you to give certain personal information so that we may address your inquiry.
-  * We may conduct promotional sweepstakes or other contests on our Websites, which require personal information to be provided to qualify for participation in the promotion or contest.
-  * In an effort to continually improve our products and services, we may use your personal information to conduct Stanley Black & Decker market research and online surveys. This may include contacting recent and/or past visitors of our Websites who have provided personal information to Stanley Black & Decker.
-  * And we may receive information about you from other sources and add it to our account information so we can personalize your experience with us and our communications to you. We also sometimes receive updated delivery and address information from our shippers or other sources so that we can correct our records and deliver your next purchase or communication more easily.
+  1. What information does Stanley Black & Decker collect about you on our Sites and Social Media Pages?
+  2. How do we use the information we collect about you?
+  3. How is technology used to serve our advertisements on other Sites and what choices do you have?
+  4. Does Stanley Black & Decker share your information with third parties? 
+  5. What choices do you have over how Stanley Black & Decker uses your information? 
+  6. How does Stanley Black & Decker secure your information on its Sites? 
+  7. Will this Privacy Policy change? 
+  8. How can I contact Stanley Black & Decker?
 
 
 
-Personal Information Collected If You Allow Us to Access Your Personal Information Through One of Your Social Media Accounts On Social Media Sites such as Facebook, Twitter, Google Plus or Others (“Personal Social Media Accounts”)
+**1.        ****What information does Stanley Black & Decker collect about you on our Sites and Social Media Pages?**
 
-  * Stanley Black & Decker may allow you to use your Personal Social Media Account information to provide us information requested when you participate in features on our Website, but we will specifically ask your permission prior to use of such information. If you chose to provide us information through your Personal Social Media Accounts, Stanley Black & Decker could collect some, and possibly all, of the data indicated on the Request for Permission screen that you click to grant us permission to collect this information.
+We may collect information about you from a variety of sources, including when: 
 
-
-
-This information could include: your name, profile picture, gender, networks, user ID, list of friends, birthday, likes, education history, work history, current city, hometown, interests, relationship status, and any other information you have shared with everyone on your Personal Social Media Accounts. Please keep in mind that your Personal Social Media Accounts may change the types of information that may be accessed when you use this process to provide us information, so you should carefully review the Request for Permission from your Personal Social Media Accounts prior to using this method of providing information to our Website. It is also possible that Stanley Black & Decker will be able to continue to collect this information from your Personal Social Media Accounts should the information be revised by you later.
-
-Information Observed or Collected Through Technology:
-
-  * We collect navigational information such as browser type and version; the service provider used to access our Websites; whether visitors arrived through a link for our Websites; and for visitors using a mobile version of our Websites, technical information about the device used, such as screen size, cookie support by the device and how images may appear.
-  * We receive and store certain types of information whenever you interact with us. For example, like many websites, we use “cookies” and we obtain certain types of information when your Web browser accesses our Websites. We may also use pixel tags (also known as web beacons, web bugs, and clear GIFs) on the Websites and in emails. A pixel tag is a nearly invisible pixel-sized graphic image on a webpage or in an email message and is used to collect the same type of information as collected by cookies.
-  * We may receive a confirmation through use of technology when you open email from us, including the time you open the email and whether you click on any links in the email. This helps us make our emails more useful and interesting.
-  * Our web servers may automatically monitor the number of visitors, the average time spent on the site, the popularity of our Websites, and any programming errors or failures on any of our Websites in order to determine the effectiveness of the Stanley Black & Decker Websites.
+  * you provide us information 
+  * we observe or collect information through technology 
+  * we receive information about you from third parties; and
+  * we collect information on our Social Media Pages.
 
 
 
-How We Use Information Gathered Through Technology:
+See the sections below for more information.
 
-  * Information gathered through technology allows us to determine such things as which parts of our Websites are most visited or used, what products are browsed and/or purchased, the effectiveness of our Websites, and difficulties visitors may experience in accessing our Websites. Cookies are also used to keep track of items you put into your shopping cart, and to tell us whether you have visited our Websites in the past.
-  * With knowledge we obtain through technology, we can improve the quality of our visitors’ experience on our Websites and through our emails by recognizing and delivering more of the most desired features and information, determining how to best direct visitors to our Websites, and, in some cases, resolving access difficulties. Information we collect through cookies or technology may be combined with other personal information you provide to us on our Websites.
+**Information You Provide**
+
+We may ask you to provide information about yourself directly to our Sites, such as the following: 
+
+  * name 
+  * address
+  * email address 
+  * telephone number
+  * username and password
+  * personal preferences
+  * purchase and order information
+
+| 
+
+  * credit card number
+  * demographic information
+  * information related to customer satisfaction surveys
+  * purchasing habits and other information, including registration of products purchased ****
+  * resume, cover letter and similar employment-related materials
+
+  
+---|---  
+  
+We may allow you to use your personal social media account **,** on social media sites (“Personal Social Media Account”), to provide information to us when you participate in certain features on our Sites, but we will ask your permission prior to doing so.  This information may include information such as the following:
+
+  * your name
+  * profile picture
+  * gender
+  * networks
+  * user ID
+  * list of friends
+  * language
+
+| 
+
+  * birthday
+  * education
+  * work history
+  * address
+  * interests
+  * likes
+  * country
+
+  
+---|---  
+  
+It is also possible that we will be able to continue collecting this information from your Personal Social Media Accounts should the information be revised by you later.
+
+You may choose not to provide us with certain requested information, but then you might not be able to take advantage of some of our Site features.  
+
+**Information Observed or Collected Through Technology**
+
+a.    Navigational Information.  Navigational information, such as the following, is collected by us and our third party service providers when you use our Sites:
+
+  * browser type and version
+  * operating system
+  * the Internet service provider used to access our Sites
+  * IP Address
+  * use of links to arrive at our Sites and the IP address from which you arrived
+  * web pages requested and viewed
+  * time spent on our Sites
+  * for our mobile websites and apps, technical information about the device used, such as screen size, cookie support by the device and how images may appear
+
+
+  1. Location Information.  Our Sites and emails include features that may require collecting different types of location information **(such as IP address and postal code)** that we then use for the specific feature you have selected, such as:
+
+
+  * _Where to Buy and Store Locator_.  Our Sites may allow you to search for the nearest store that offers the Stanley Black & Decker product that you want and whether such nearby stores have certain of our items in stock.  If you access one of our Sites through a mobile device and you have enabled location-based services, specific location information may be collected for these features.  If you access these features through a desktop device, you may be able to choose to have your browser provide us your location information to respond to your request. The specificity of the desktop device location information can vary depending on the browser you are using and how you are connected to the internet.
+  * _Email_.  Our emails may use your IP Address to determine the postal code where you are located when you open the email.  This allows us to tailor content to you, such as a map of nearby stores carrying our products. The specificity of the location can vary depending on the device used to open our emails.
 
 
 
-**What information is collected on Stanley Black & Decker’s social media pages?**
+If you do not consent to have your browser provide location information or you disable location-based services on your mobile device, we may ask you to manually select the region where you are located, or to enter your zip or postal code; if you chose not to provide this information **you may not be provided with content specific to your location** and some features of the Sites may not be available.  See the “What choices do you have over how Stanley Black & Decker uses your information?” section below for the choices you have regarding collection of location information.
 
-  * Personal information may be collected directly by Stanley Black & Decker through Social Media Pages and may also be collected by the social media site hosting the Stanley Black & Decker Social Media Page.
-  * Personal Information collected directly by Stanley Black & Decker: The collection and use of personal information directly by Stanley Black & Decker on its Social Media Pages will include the type of information addressed under “What information does Stanley Black & Decker collect and how does Stanley Black & Decker use this information?" above. Examples of how personal information may be directly collected on Stanley Black & Decker Social Media Pages include providing information through an application or form (for example, used for a contest or sweepstakes) which has a link to this privacy policy.
-  * Personal Information collected by the social media sites: This privacy policy does not cover the privacy and security practices of the social media sites on which Stanley Black & Decker has Social Media Pages. Please review privacy policies and terms of service on the social media sites if you have any questions about their privacy or security practices.
-  * The social media sites where Stanley Black & Decker has its Social Media Pages may provide aggregate information and analysis to Stanley Black & Decker about visitors to our Social Media Pages. This allows us to better understand and analyze our user growth, general demographic information about the users of our Social Media Pages, and interaction with content on our Social Media Pages. Overall, this information may be used to help us understand the types of visitors and users of our Social Media Pages and use of the content.
+  1. Cookies and other similar technology.  We and our third party service providers use “cookies.”  Cookies assign a unique identification to your device and are typically stored on your device by your web browser. We may also use pixel tags (also known as web beacons, web bugs, and clear GIFs) on the Sites and in emails. A pixel tag is a nearly invisible pixel-sized graphic image on a webpage or in an email message. 
 
 
 
-**  
-Does Stanley Black & Decker share your information with other third parties?**
+The information we and our third party service providers collect through cookies, pixel tags and similar technology includes the following:
 
-We do not sell, rent, or trade your personal information to unrelated third parties, except as noted here. We do share personal information with our affiliates so that they can provide information to you about their products. 
+  * your interactions with our Sites and with our advertisements
+  * the time of your visit to our Sites
+  * items you put into your shopping cart and whether you purchase any or all of those items
+  * confirmation when you open email from us, including the time you open the email and whether you click on any links in the email
+  * sites you visit after visiting one of our Sites 
 
-We also use and disclose your information to third party service providers in order to facilitate your purchase, to assist in servicing your products, to help you exchange your products, and to provide and improve our communications with you. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction. 
 
-Stanley Black & Decker may share aggregate data about our sales, customers, traffic patterns, and other related site information with third parties. None of this data is connected to an individual’s personal information.
 
-Please note that Stanley Black & Decker may be required to cooperate with a court order or other legal process and will provide your personal information to the extent required in any legal proceeding. We also release account and other personal information when we believe such release is appropriate to protect the rights, property or safety of our Websites, our users or others.
+For additional information on the use of cookies for advertising, see “3.  How is technology used to serve our advertisements on other websites and what choices do you have?”).
 
-If Stanley Black & Decker were ever merged with or acquired by another company, or if it acquires another business entity or is involved in a corporate reorganization or other change of control or if we sell substantially all the assets of a division, some or all of the personal information collected about you could be shared with this entity, and it may also be retained by Stanley Black & Decker.
+**Information Obtained From Third parties**
 
-**How do I stop Stanley Black & Decker from sending me marketing email in the future?**
+We may combine information about you from other sources with the information we have collected about you on our Sites or Social Media Pages.  For example, we use a third party to collect and process job applicant profiles and preferences, monitor website activity, maintain our customer database based in the U.S.A. and provide plug-ins (such as LinkedIn).
 
-If you have previously given your personal information to us and no longer want to be contacted by Stanley Black & Decker via email for marketing purposes, you may opt-out by following the instructions listed in the email that you received. Please be aware, however, even if you opt-out you may still receive emails related to operational or transactional messages or surveys, such as email confirmations of your online orders or customer service communications.
+**Information Collected on Stanley Black & Decker’s Social Media Pages**
 
-**What about Stanley Black & Decker’s links to other sites?**
+Personal information may be collected directly by us through our Social Media Pages.  The type of information we would collect is similar to what is described above under “Information You Provide.”  Personal information may also be collected by the social media site hosting our Social Media Pages.  Our Privacy Policy does not cover the privacy and security practices of the social media sites on which Stanley Black & Decker has its Social Media Pages.
 
-We may add external links to other Websites. We do not evaluate and are not responsible for the privacy practices or content that may be on such linked sites. Additionally, the existence of any external link does not suggest that Stanley Black & Decker endorses the linked company, product or service.
+### 2.       How do we use the information we collect about you?
 
-**Will this Privacy Policy change?**
+The information we learn from you helps us personalize your experience with us and our communications to you, and helps us continually improve your experience on our Websites. 
 
-Stanley Black & Decker may change this policy at any time, so please review this policy periodically. Should there be a material change to our information collection, use or disclosure practices, it will be applied only to information collected on a going forward basis, and we will update this privacy policy statement.
+We use the information you provide, information collected through your Personal Social Media Accounts and information collected on our Social Media Pages for things like:
 
-**How do we secure your information on our Websites?**
+  * processing your order 
+  * opening an online account
+  * improving and developing our products
+  * servicing our customers
+  * advertising and marketing, including emails and postal mail
+  * personalizing your experience when visiting our Sites
+  * responding to your inquiries 
+    * market research and surveys
+    * conducting events, promotions, contests
 
-We take the following security measures:. If you are using one of our Websites with an online store, we designed our online store to accept orders only from Web browsers that permit communication through Secure Socket Layer (SSL) technology, which encrypts your information while it is being transmitted to us. Browsers that do not meet this requirement will be prevented from navigating the online store section of our Websites. We also use firewalls and other technical, administrative and physical measures to protect the information that you provide to us.
+| 
 
-While we implement the above security measures on this site, you should be aware that 100% security is not always possible.  
-**  
-**
+   and sweepstakes
 
-**Where should you direct your questions?**
+  * warranty and product registration
+  * facilitating recalls
+  * using product registration to provide additional services you may select
+  * processing job applications
 
-If you have questions or concerns with respect to our Privacy Policy, please contact us through either of the following means: 
+  
+---|---  
+  
+We use navigational information gathered through technology for determining things like:
 
-Click [here](http://bdk.force.com/FAQ/PKB_SubmitCase?brand=Black_Decker) and enter your question. Or call 800-544-6986 | Mon-Fri 8AM-5PM EST
+  * which parts of our Sites are most visited or used
+  * what products are browsed 
+  * how to improve and better transact business
+  * the effectiveness of our Sites
+  * difficulties visitors may experience in accessing our Sites
+  * monitoring the number of visitors to our Sites
+  * average time spent on our Sites
+  * any programming errors or failures on any of our Sites
 
-Last Updated: July 2013
+|   
+---|---  
+  
+We use information collected through cookies and similar technology to determine many of the same things listed for navigational information above.  In addition cookies and similar technology are used for things like:
+
+  * personalizing your experience on our Sites
+  * serving tailored ads on other sites, as described below
+  * tailoring email marketing to you based on your use of our Sites 
+  * determining return visitors
+  * keeping track of items in your cart
+  * measuring the effectiveness of our advertising
+
+
+
+Similar to the navigational information described above, the social media sites where we have our Social Media Pages may provide aggregate information and analysis to us about visitors to our Social Media Pages.  This allows us to better understand and analyze our user growth, general demographic information about the users of, and interaction with content on, our Social Media Pages.
+
+### 3.       How is technology used to serve our advertisements on other websites that you visit and what choices do you have?
+
+We contract with third party advertising companies to tailor online advertising to be directed to you on other websites.  These third party advertising companies place, use, or rely on technology, such as cookies and pixel tags, to obtain information about your interactions with our Sites as well as with other websites.  This information helps us select advertising to serve to you and where to serve it based on your experience on our Sites and other sites that you visit.
+
+For information about opt out programs that these third party advertising companies participate in, and the effect of opting out, click any of the following:  DAA Opt Out [click here](http://www.aboutads.info/choices/) and the DAAC Opt Out [click here](http://youradchoices.ca/choices).  By clicking either of these links, you will then leave our Site for other online sites where you may specify your preferences under those opt-out programs.  You can also click the preference icon that may appear on some of our advertising served through these technologies.
+
+You should also note that our systems may not recognize “Do Not Track” headers from some or all browsers.
+
+**4.        ****Does Stanley Black & Decker Share Your Information With Third Parties?**
+
+We do not sell, rent, or trade your personal information to unrelated third parties.  We may share your personal information with the following:
+
+  * where permitted by law, to our affiliates and brands so that they can provide information to you about their products, which includes the affiliates listed under “Scope” above and those specified at <http://www.stanleyblackanddecker.com/contact/contact-us>.
+  * our affiliates and third party service providers in the US and Canada in order to perform tasks on our behalf such as the following: 
+    * facilitating your purchase
+    * assisting in servicing our products
+    * helping you exchange products
+    * providing and improving our communications with you
+    * responding to requests to our investor relations
+
+
+
+For additional information about the way in which our third party service providers treat your personal information, contact us as set out below.
+
+  * as required to cooperate with a search warrant or other legally valid inquiry, court order or other legal process, to an investigative body in the case of breach of an agreement or contravention of law or as required or permitted by applicable Canadian, U.S.A. or other law. 
+  * to protect the rights, property or safety of our Sites, our users or others, including where necessary for the establishment, exercise or defence of legal claims. 
+
+
+
+If Stanley Black & Decker were ever merged with or acquired by another company, or if we acquire another business entity or are involved in a corporate reorganization or other change of control, or if we sell substantially all the assets of a division, affiliate or subsidiary, some or all of the personal information collected about you could be shared with the acquiring or acquired company.
+
+We may also share aggregate data about our sales, customers, traffic patterns, and other related Site information with third parties, but none of this data is connected to an individual’s personal information. 
+
+**5.        ****What choices do you have over how Stanley Black & Decker uses your information? **
+
+We give you choices about the information we collect and how we communicate with you. 
+
+a.    **Email:**   You may opt-out of our marketing emails by following the instructions listed in the email that you received.  However, even if you opt-out you may still receive non-marketing emails, such as order/shipping confirmations or customer service communications.
+
+b.    **Location Information:**
+
+(i)    Mobile Device Location Information. Your mobile device settings may allow you to disable location-based services, which will prevent our Sites from accessing your precise mobile device location information.  We recommend you review the help or user manual provided with your device for instructions.
+
+(ii)   Desktop Device Location Information.  Your desktop web browser may allow you to remove permission you granted through your desktop device for our Sites to access your location information and/or completely block requests for location information.  We recommend you review the help or user manual provided with your browser for instructions.
+
+(iii)   Email Location Information. Your email program may allow you to prevent the pixel tags or images in the emails you receive from us from downloading, which will also prevent our service provider from accessing your location information.  You can also unsubscribe from receiving our emails, as described in the "Email" section above.
+
+  1. **Postal Marketing** **:**   If you no longer want to receive marketing materials from us via regular postal mail, please email us at <http://www.blackanddecker.com/Customer-Service.aspx> and tell us that you want to be removed from the Stanley Black & Decker postal mailing list, including the postal address you wish to have removed.
+
+
+
+d.    **Cookies:   **You may set your web browser to notify you when you receive a cookie or to not accept certain cookies. However, if you decide not to accept cookies from our Sites, you may not be able to take advantage of all of the features of our Sites.  For information on how to opt-out of the use of cookies for online behavioural advertising, see “3.  How is technology used to serve our advertisements on other websites that you visit and what choices do you have?”). ****
+
+**6.        ****How does Stanley Black & Decker secure your information on its Websites?**
+
+If you are using one of our Sites with an online store, we designed our online store to accept orders only from Web browsers that permit communication through Secure Socket Layer (SSL) technology, which encrypts your information while it is being transmitted to us.  Browsers that do not meet this requirement will be prevented from navigating the online store section of our Sites.  We also use firewalls and have implemented other reasonable technical, administrative and physical measures designed to protect the personal information in our custody or control from unauthorized access, use, modification and disclosure. 
+
+While we implement the above security measures on our Websites, you should be aware that 100% security is not always possible.
+
+**7.        ****How can I access my personal information?**
+
+You have the right to access, update, and correct inaccuracies in your personal information in our custody and control, subject to certain exceptions prescribed by law. You may access, update and correct inaccuracies in certain personal information through your account.  You may request access, updating and correction of inaccuracies in other personal information we have about you by emailing or writing to us at the contact information set out below. We may request certain personal information for the purposes of verifying the identity of the individual seeking access to their personal information records.
+
+**8.        ****Will this Privacy Policy change?**
+
+We may make changes to this Privacy Policy at any time, so please review it periodically.  If we make a material change to our information collection, use or disclosure practices specified in this Privacy Policy, it will be applied only to information collected on a going forward basis.  We will update the effective date of the Privacy Policy at the time a change is made. 
+
+**9.        ****How can I contact Stanley Black & Decker?**
+
+If you have questions or concerns with respect to our Privacy Policy, please contact the Privacy Policy Manager by sending an email to:  [PrivacyPolicyManager@sbdinc.com](mailto:PrivacyPolicyManager@sbdinc.com) and include your question. 
+
+This Privacy Policy is effective:  June __, 2015. 
