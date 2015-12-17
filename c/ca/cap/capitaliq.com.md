@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the capitaliq.com privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630052916id_/http%3A//profile.standardandpoors.com/content/SP_Global_PII_Privacy_Form) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the capitaliq.com privacy policy that was archived on 2015-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151217222738id_/http%3A//profile.standardandpoors.com/content/SP_Global_PII_Privacy_Form) for the most accurate reproduction.*
 
 # Privacy Notice for S&P Capital IQ and S&P Indices
 
@@ -20,7 +20,6 @@ To provide you with information about services and products that we believe may 
 **HOW DOES SPCIQ AND S PDJI SHARE YOUR PII?**
 
   * With our vendors to perform services on our behalf; 
-  * With Standard & Poor’s Ratings Services;
   * With other parts of McGraw Hill Financial whose services and products might be of interest to you;
   * Potentially in conjunction with a sale or similar transfer of a business; and
   * When legally compelled or for other legal purposes.
@@ -100,6 +99,6 @@ To review and confirm the accuracy of your PII, or to contact us with concerns o
 
 [Click here](https://www.mhfi.com/privacy?elqaid=3899&elqat=2&elqTrackId=78836df4e7144cacbf7cefa3f91db1c4) for more information about McGraw Hill Financial's Customer Privacy Policy.
 
-Last updated: June 2015. Future revisions to this Privacy and Cookie Notice will be posted at this location.
+Last updated: October 2015. Future revisions to this Privacy and Cookie Notice will be posted at this location.
 
 | 
