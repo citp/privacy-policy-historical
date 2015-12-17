@@ -1,10 +1,14 @@
-<!--The following is the downloaded HTML source of the postcrossing.com privacy policy that was archived on 2015-05-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150529033027id_/https%3A//www.postcrossing.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the postcrossing.com privacy policy that was archived on 2015-12-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151217022718id_/https%3A//www.postcrossing.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
     <title>Privacy Policy</title>
     <meta charset="utf-8">
 
+    <link rel="dns-prefetch" href="//s3.amazonaws.com">
+            <link rel="dns-prefetch" href="//www.google-analytics.com">
+                <link rel="dns-prefetch" href="//www.googletagservices.com">
+    
             <script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script>
             var googletag = googletag || {};
             googletag.cmd = googletag.cmd || [];
@@ -38,11 +42,12 @@
     ga('send', 'pageview');
 </script>
     
-    <link rel="stylesheet" type="text/css" media="all" href="//static1.postcrossing.com/css/style-min.v-98abf1defd040ff13066d2544b09cb23.css">
+    <link rel="stylesheet" type="text/css" media="all" href="//static1.postcrossing.com/css/style-min.v-ad5f6cf86ff1b7d028bf667402539abb.css">
+<!--[if lt IE 9]><link rel="stylesheet" type="text/css" media="all" href="//static1.postcrossing.com/images/themes/winter/winter-ie78.css" /><![endif]-->
     
     
         <meta name="robots" content="noindex">
-<meta name="description" content="A postcards exchange project that invites everyone to send and receive postcards from random places in the world. For free!">
+<meta name="description" content="A postcard exchange project that invites everyone to send and receive postcards from random places in the world. For free!">
 <meta name="keywords" content="postcards,postcard,mail,post,postal,exchange,stamps,deltiology">
 <meta name="pinterest" content="nopin">
         <meta name="referrer" content="origin">
@@ -95,10 +100,9 @@
         </li>
         <li>
             <a class="dir" onclick="return false" href="/more">Do More</a>            <ul>
-                <li class="first"><a href="/go/to/meetups">Meetups</a></li>
+                <li class="first"><a href="/events/meetups">Meetups calendar</a></li>
                 <li><a href="/green">Go Green</a></li>
                 <li><a href="/invite">Invite friends</a></li>
-                <li><a href="/more/linkToUs">Link to us</a></li>
                 <li class="last"><a href="/advertisers">Advertisers</a></li>
             </ul>
         </li>
@@ -129,9 +133,9 @@
     </noscript>
     <div id="loginContainer">
                                         <form action="https://www.postcrossing.com/login" method="post">
-            <input type="hidden" name="signin[_csrf_token]" value="33a4753d9fe610c68f164da23ce3ab07" id="signin__csrf_token">            <div id="usernameContainer">
+            <input type="hidden" name="signin[_csrf_token]" value="52b5f97c3dbcd78fe7db3628a078ab9d" id="signin__csrf_token">            <div id="usernameContainer">
                 <label for="username">Username or email:</label>
-                <input type="text" name="signin[username]" id="username" class="username text" autofocus="autofocus" placeholder="Username or email" required="required">                            </div>
+                <input type="text" name="signin[username]" id="username" class="username text" autofocus="autofocus" placeholder="Username or email" required="required">            </div>
             <div id="passwordContainer">
                 <label for="password">Password:</label>
                 <input type="password" name="signin[password]" id="password" class="password text" placeholder="Password" required="required">            </div>
@@ -154,16 +158,38 @@ if (!("autofocus" in document.createElement("input"))) {
     document.getElementById("username").focus();
   }
 </script>            </div>
-                    </div>
+                                        <img style="display:block;border:0;margin:15px auto 0 auto" src="//static1.postcrossing.com/images/themes/winter/winter_stamp_mark.png" alt="Season's greetings from Postcrossing!" title="Season's greetings from Postcrossing!">                    </div>
 
         <div id="mainContainer">
             <a id="top"></a>
-            <div id="main">
+            <div id="cookieNotice" class="legalNotice">
+    <button type="submit" class="button" onclick="return hideCookieNotice()">
+        <span style="color:#5492B3;">✓</span> Ok, got it!
+    </button>
+    <p class="last" style="font-size:12px">Postcrossing uses cookies to help deliver its services.<br>By using this website, you agree to its use of cookies. <a href="/cookies">Learn more</a>.</p>
+
+    <script>
+        function hideCookieNotice() {
+            // prevent it from showing again
+            var d = new Date();
+            d.setUTCFullYear(d.getUTCFullYear() + 10);
+            document.cookie = "cookie-notice" + "=" + Date.now() + "; expires=" + d.toUTCString() +"; path=/";
+
+            // close notice
+            var e = document.getElementById('cookieNotice');
+            e.parentNode.removeChild(e);
+
+            return false;
+        }
+    </script>
+</div>
+                        <div id="main">
                                 
 <div class="sectionedContainer">
 
     <h1>Postcrossing Privacy Policy</h1>
 
+    
     <div id="gist" class="success">
         <h4 style="margin-bottom: 1em;text-align:center">Your personal information is important to us.</h4>
 
@@ -211,7 +237,6 @@ if (!("autofocus" in document.createElement("input"))) {
             Like most websites today, our web servers keep log files that record data each time a device accesses those servers.
             The log files contain data about the nature of each access, including originating IP addresses.
             We use these log files for purposes such as system administration and maintenance, record keeping, tracking referring web sites and for security purposes (e.g. controlling abuse, spam and DDOS attacks).
-            This website and its data is hosted in servers located physically in the U.S.A.
         </dd>
 
         <dt>Other data you intentionally share</dt>
@@ -269,14 +294,14 @@ if (!("autofocus" in document.createElement("input"))) {
     </p>
 
     <h2>Questions?</h2>
-    <p>If you have any questions that are not answered in this Privacy Policy or on our <a href="/help">F.A.Q.</a>, you can reach us through our <a href="/contact">contact form</a> at any time.</p>
+    <p>If you have any questions that are not answered in this Privacy Policy or on our <a href="/help">F.A.Q.</a>, you can reach us through our <a href="/contact?category=legal">contact form</a> at any time.</p>
 
     <div style="margin: 5% 8% 0% 5%" class="success">
-        If you feel that this website is not following its Privacy Policy, please <a href="/contact">contact us</a>.
+        If you feel that this website is not following its Privacy Policy, please <a href="/contact?category=legal">contact us</a>.
     </div>
 </div>                <br style="clear:both">
                 <div id="copyright">
-                    Postcrossing Project © Copyright 2004-2015 by Paulo Magalhães
+                    © 2004-2015 Postcrossing Lda
                 </div>
             </div>
         </div>
@@ -293,18 +318,19 @@ if (!("autofocus" in document.createElement("input"))) {
                 <div style="margin-top: 0.75em">
                     <p style="text-align:center"><a style="color: #3475B9;font-family:&quot;Lucida Grande&quot;,Helvetica,Arial,sans-serif" href="/advertisers">Advertise here</a></p>
                 </div>
-                    </div>
-
+                                    </div>
     </div>
 
+    <div class="clear"></div>
     <div id="footerContainer">
         <a href="/about">About</a> •
 <a href="/tos">Terms of Service</a> •
 <a href="/privacy">Privacy Policy</a> •
+<a href="/cookies">Cookies</a> •
 <a href="/about/guidelines">Guidelines</a> •
 <a href="/presskit">Press</a> •
 <a href="/advertisers">Advertise</a> •
-<a href="/about/impressum">Imprint</a>    </div>
+<a href="/about/impressum">Impressum</a>    </div>
 
         
 
