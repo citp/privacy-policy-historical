@@ -1,87 +1,28 @@
-<!--The following is the downloaded HTML source of the myweboxi.net privacy policy that was archived on 2015-05-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150520161018id_/http%3A//www.myweboxi.net/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the myweboxi.net privacy policy that was archived on 2015-12-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151217050650id_/http%3A//www.wboxi.com/privacy-policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml"><head><meta charset="utf-8"><meta name="viewport" content="width = 650"><meta name="viewport" content="width = device-width"><meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no"><title>
 
 </title><link href="/img/favicon.ico" rel="shortcut icon"><link rel="stylesheet" type="text/css" href="/css/sifirlama.css"><link rel="stylesheet" type="text/css" href="/css/sitil.css"><link rel="stylesheet" type="text/css" href="/css/prettyPhoto.css"><link rel="stylesheet" type="text/css" href="/css/jqtransform.css"><link rel="stylesheet" type="text/css" href="/css/ui.css">
     <script async="" src="//www.google-analytics.com/analytics.js"></script><script src="/js/jquery-1.8.3.min.js"></script>
     <script type="text/javascript" src="http://code.jquery.com/ui/1.10.3/jquery-ui.min.js"></script>
-    <script type="text/javascript" src="/js/jquery.nicescroll.js"></script>
-    <script type="text/javascript" src="/js/genel.js"></script>
-    <script type="text/javascript" src="/js/jquery.prettyphoto.js"></script>
-    <script type="text/javascript" src="/js/jquery.jqtransform.js"></script>
-    <script type="text/javascript" src="/js/easing.js"></script>
-    <script type="text/javascript" src="/js/jcarousel.js"></script>
-    <script type="text/javascript" src="/js/arma.js"></script>
     
 </head>
 <body>
-    <form method="post" action="privacy-policy.html" id="form1">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="yKmsxdAaTZSt8CLkJijpfm/M3Qxy+pOXz7UC2R+SV/FKK9SFjDGsSY/6BsYJdy3ql/qoJOzkjIGxdmS66DP5IH8jfG9TTH9IsoGev9UgSUM=">
+    <form method="post" action="./privacy-policy.html" id="form1">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="vgr2RZlOA7OhYje4+tZ9Km9Hdb2/m4rGT6IdrvkwvbiKgUL+WRxl0x2+yklr4yAuxBQCZN0dK25xtigKntsRSskKJ1ARPAC7REZYkgXA+Cw=">
 
 <input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="2927320D">
-        <div style="width: 100%; height: 36px; background: #102C36;">
+        <div style="width: 100%; height: 46px; background: #102C36;">
             
 <script type="text/javascript">
     $(document).ready(function () {
-        $('#btnLogin').click(function () {
-
-            var email = $('#txtLoginEmail').val();
-            var pass = $('#txtLoginPass').val();
-            if (email.toString().length > 4 & email.toString().indexOf("@") > -1 & pass.toString().length > 4) {
-                var url = "/Controls/Login.aspx?email=" + email + "&pass=" + pass;
-
-                $.ajax({
-                    type: "POST", url: url, success: function (ret) {
-                        if (ret == "1") {
-                            window.location = window.location.pathname;
-                        }
-                    }
-                });
-            }
-        });
+        $("#btnLogin").click(function () { var n = $("#txtLoginEmail").val(), t = $("#txtLoginPass").val(); if (n.toString().length > 4 & n.toString().indexOf("@") > -1 & t.toString().length > 4) { var i = "/Controls/Login.aspx?email=" + n + "&pass=" + t; $.ajax({ type: "POST", url: i, success: function (n) { "1" === n && (window.location = window.location.pathname) } }) } });
         
-        $('#btnAccont').click(function () {
-            var name = $('#txtAccountName').val();
-            var email = $('#txtAccountEmail').val();
-            var pass1 = $('#txtAccountPass1').val();
-            var pass2 = $('#txtAccountPass2').val();
-
-            if (
-                name.toString().length > 4
-                & email.toString().length > 4
-                & email.toString().indexOf("@") > -1
-                & pass1.toString().length > 4
-                & pass1.toString() == pass2.toString()
-                ) {
-
-                var url = "/Controls/Create_Account.aspx?email=" + email + "&name=" + name + "&pass=" + pass1;
-                $.ajax({
-                    type: "POST", url: url, success: function (ret) {
-                        if (ret == "1") {
-                            url = "/Controls/Login.aspx?email=" + email + "&pass=" + pass1;
-                            $.ajax({
-                                type: "POST", url: url, success: function (ret1) {
-                                    if (ret1 == "1") {
-                                        window.location = window.location.pathname;
-                                    }
-                                }
-                            });
-                        }
-                        else {
-                            alert("registration could not be completed");
-                        }
-                    }
-                });
-            }
-            else {
-                alert("Enter all the fields.");
-            }
-        });
+        $("#btnAccont").click(function () { var t = $("#txtAccountName").val(), n = $("#txtAccountEmail").val(), a = $("#txtAccountPass1").val(), o = $("#txtAccountPass2").val(); if (t.toString().length > 4 & n.toString().length > 4 & n.toString().indexOf("@") > -1 & a.toString().length > 4 & a.toString() === o.toString()) { var e = "/Controls/Create_Account.aspx?email=" + n + "&name=" + t + "&pass=" + a; $.ajax({ type: "POST", url: e, success: function (t) { "1" == t ? (e = "/Controls/Login.aspx?email=" + n + "&pass=" + a, $.ajax({ type: "POST", url: e, success: function (t) { "1" == t && (window.location = window.location.pathname) } })) : alert("registration could not be completed") } }) } else alert("Enter all the fields.") });
         
     });
 </script>
-<!-- Üye Başvurusu -->
 <div class="acilirPencere acUyeOl" style="display: none">
     <div class="acilir-ic uye-islem frmSitil">
         <div class="acilir-baslik">
@@ -114,10 +55,6 @@
         </div>
     </div>
 </div>
-<!--/ Üye Başvurusu  /-->
-
-
-<!-- Üye Girişi -->
 <div class="acilirPencere acUyeGirisi" style="display: none">
     <div class="acilir-ic uye-islem frmSitil">
         <div class="acilir-baslik">
@@ -141,14 +78,13 @@
         </div>
     </div>
 </div>
-<!--/ Üye Girişi /-->
-
-<!-- ÜST ALAN -->
 <div class="resUst" style="display: none">
     <a href="/">
-        <img src="/img/logo.png" style="display: none; width: 90px; padding: 10px;  margin-left: 13px;" class="logo respMenu"></a>
+        <img src="/img/logo.png" style="display: none; width: 90px; padding: 10px; margin-left: 13px;" class="logo respMenu" alt="">
+    </a>
     <a href="javascript:void(0)" style="display: none" class="mobileA respMenu">
-        <img src="http://urladviser.com/images/menu2.png"></a>
+        <img src="http://urladviser.com/images/menu2.png" alt="">
+    </a>
 </div>
 <div class="mobileMenuDiv" style="display: none;">
     <ul class="mobileMenu">
@@ -180,14 +116,12 @@
     </div>
 </div>
 
-<!--/ ÜST ALAN /-->
-
             
             <div id="wrap" class="ustReklamKapsul">
                 <div class="ustReklam">
                     <script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- Weboxi - 970x90 -->
-<ins class="adsbygoogle" style="display:inline-block;width:970px;height:90px" data-ad-client="ca-pub-2507800347875519" data-ad-slot="5382203490"></ins>
+<!-- Wboxi - 970x90 -->
+<ins class="adsbygoogle" style="display:inline-block;width:970px;height:90px" data-ad-client="ca-pub-2507800347875519" data-ad-slot="7586805093"></ins>
 <script>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
@@ -206,10 +140,11 @@
                 <div class="sayfalar" style="margin: 0;">
                     <div class="domain-arama" style="border: 0; margin-left: auto; margin-right: auto; z-index: 999999; width: 970px; height: 90px; margin-top: 2px; padding: 0 0 1px 0 !important;">
                         <script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-                        <ins class="adsbygoogle" style="display: inline-block; width: 970px; height: 90px" data-ad-client="ca-pub-2507800347875519" data-ad-slot="7078363899"></ins>
-                        <script>
-                            (adsbygoogle = window.adsbygoogle || []).push({});
-                        </script>
+<!-- Wboxi - 970x90 -->
+<ins class="adsbygoogle" style="display:inline-block;width:970px;height:90px" data-ad-client="ca-pub-2507800347875519" data-ad-slot="7586805093"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
                     </div>
                 </div>
             </div>
@@ -220,75 +155,48 @@
                     
     <div class="domain-arama">
         <div class="domain">
-          <h1>Privacy Policy</h1>
+            <h1>Privacy Policy</h1>
         </div>
         
-<script type="text/javascript">
-    $(document).ready(function () {
-        
-        $('.arama input[type="submit"]').click(function () {
-            
-            return GoogleSearch();
-        });
-        $('.arama input[name="q"]').keypress(function (e) {
-            if (e.which == 13) {
-                return GoogleSearch();
-            }
-        });
-    });
-    function GoogleSearch() {
-        var cx = $('.google-search input[name="cx"]').val();
-        var cof = $('.google-search input[name="cof"]').val();
-        var ie = $('.google-search input[name="ie"]').val();
-        var val = $('.google-search input[name="q"]').val();
-        var siteurl = document.URL;
-        var ref = document.createElement('a');
-        ref.href = siteurl;
-        var url = '/search.aspx?cx=' + cx + '&cof=' + cof + '&ie=' + ie + '&q=' + val + '&sa=Search&siteurl=' + encodeURIComponent(siteurl) + '&ref=' + encodeURIComponent(ref.host);
-        window.location = url;
-        return false;
-    }
-</script>
+<script>function GoogleSearch() { var e = $('.google-search input[name="cx"]').val(), n = $('.google-search input[name="cof"]').val(), o = $('.google-search input[name="ie"]').val(), a = $('.google-search input[name="q"]').val(), c = document.URL, r = document.createElement("a"); r.href = c; var t = "/search.aspx?cx=" + e + "&cof=" + n + "&ie=" + o + "&q=" + a + "&sa=Search&siteurl=" + encodeURIComponent(c) + "&ref=" + encodeURIComponent(r.host); return window.location = t, !1 } $(document).ready(function () { $('.arama input[type="submit"]').click(function () { return GoogleSearch() }), $('.arama input[name="q"]').keypress(function (e) { return 13 === e.which ? GoogleSearch() : null }) });</script>
 <div class="arama">
-    <div class="input-arka google-search">
-        <span class="slayt-input AutoComplete">
-            <input type="hidden" name="cx" value="partner-pub-2507800347875519:2512239099">
-            <input type="hidden" name="cof" value="FORID:10">
-            <input type="hidden" name="ie" value="UTF-8">
-            <input type="text" name="q" size="55" placeholder="http://www.domainname.com">
-            <br>
-            <span class="AutoCompleteList"></span>
-        </span>
-        <span class="slayt-sorgula">
-            <input type="submit" name="sa" value="Search" id="btnSearchDomain">
-        <i class="s1"></i>
-        </span>
-    </div>
+    
+        <div class="input-arka google-search">
+            <span class="slayt-input AutoComplete">
+                <input type="hidden" name="cx" value="partner-pub-2507800347875519:7168002698">
+                <input type="hidden" name="cof" value="FORID:10">
+                <input type="hidden" name="ie" value="UTF-8">
+                <input type="text" name="q" size="55" placeholder="http://www.domainname.com">
+                <br>
+                <span class="AutoCompleteList"></span>
+            </span>
+            <span class="slayt-sorgula">
+                <input type="submit" name="sa" value="Search" id="btnSearchDomain">
+                <i class="s1"></i>
+            </span>
+        </div>
+    
+    <script type="text/javascript" src="http://www.google.com/coop/cse/brand?form=cse-search-box&amp;lang=en"></script>
 </div>
-      </div>
 
-      <div class="hakkinda">
-            <p><b>Advertising</b></p>
-          
-          <p>We use 3rd-party for to serve ads to make it more accessible what you want when you visit our website. The ad companies we work with (yet only Google) sometimes may use information (not any personal information contains your name, password, address, email address, telephone number or any other kind of personal information). We assure you these informations may only about your visits and it is only because to provide advertisements about what you may be interested in. We never share any kind of personal information and you will be never asked for your password except signing in process. All users are responsible for their own password security, they are not allowed to share their passwords/accounts with any other person.</p>
-          <br>
-          <p><b>Storing Data</b></p>
-          <p>Our website displays ads and some external links to 3rd-party websites offered through Google AdSense and the websites we preview. Our ads work with the DoubleClick DART cookie. Cookies are tiny information files which is stored in your computer during a visit a website. Only information will be stored is about your visit, which ad you clicked, which ad you viewed, etc. These cookies help us and Google to provide you more useful information.</p>
-          <p>For more information about DART cookie, you can visit official Google ad and content privacy policy.</p>
-          <br>
-          <p><b>External Links</b></p>
-          <p>Weboxy is not and will not (unless it is stated here) be affiliated with any other advertisers than Google on our website. Links or references to individuals or companies do not constitute an endorsement of any information, product or service you may receive from such sources. Clicking on advertisements or links that take you off our website is done at your own risk - we are not responsible for any issues resulting from interactions with advertisers, their websites, or their affiliates.</p>
-
-
-      </div>
-
+    </div>
+    <div class="hakkinda">
+        <p><b>Advertising</b></p>
+        <p>We use 3rd-party for to serve ads to make it more accessible what you want when you visit our website. The ad companies we work with (yet only Google) sometimes may use information (not any personal information contains your name, password, address, email address, telephone number or any other kind of personal information). We assure you these informations may only about your visits and it is only because to provide advertisements about what you may be interested in. We never share any kind of personal information and you will be never asked for your password except signing in process. All users are responsible for their own password security, they are not allowed to share their passwords/accounts with any other person.</p>
+        <br>
+        <p><b>Storing Data</b></p>
+        <p>Our website displays ads and some external links to 3rd-party websites offered through Google AdSense and the websites we preview. Our ads work with the DoubleClick DART cookie. Cookies are tiny information files which is stored in your computer during a visit a website. Only information will be stored is about your visit, which ad you clicked, which ad you viewed, etc. These cookies help us and Google to provide you more useful information.</p>
+        <p>For more information about DART cookie, you can visit official Google ad and content privacy policy.</p>
+        <br>
+        <p><b>External Links</b></p>
+        <p>Weboxy is not and will not (unless it is stated here) be affiliated with any other advertisers than Google on our website. Links or references to individuals or companies do not constitute an endorsement of any information, product or service you may receive from such sources. Clicking on advertisements or links that take you off our website is done at your own risk - we are not responsible for any issues resulting from interactions with advertisers, their websites, or their affiliates.</p>
+    </div>
 
                 </div>
             </div>
-        </div>
+        </div></form>
         <div class="cf"></div>
         
-<!-- ALT ALAN -->
 <div class="alt-alan">
     <div class="alt-alanic">
         <div class="alt-alan-ust">
@@ -343,7 +251,6 @@
             <a href="/new.html">New Web Sites</a>
             <a href="/privacy-policy.html">Advertise</a>
             <a href="/privacy-policy.html">Privacy Policy</a>
-
         </div>
     </div>
     <div style="width: 100%; float: left; background-color: #0F2B35; border-top: 1px solid #243d46;">
@@ -355,42 +262,22 @@
         </div>
     </div>
 </div>
-<!--/ ALT ALAN /-->
 
-        <script src="//code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
-        <script>
-            var wrap = $("#wrap");
-
-            wrap.on("scroll", function (e) {
-                if (this.scrollTop > 147) {
-                    wrap.addClass("fix-search");
-                } else {
-                    wrap.removeClass("fix-search");
-                }
-            });
-        </script>
-        <script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-        <script type="text/javascript">
-            $(document).ready(function () {
-                $(document).scroll(function () {
-                });
-            });
-            (function (i, s, o, g, r, a, m) {
-                i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
-                    (i[r].q = i[r].q || []).push(arguments)
-                }, i[r].l = 1 * new Date(); a = s.createElement(o),
-                m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
-            })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
-            ga('create', 'UA-46791315-3', 'auto');
-            ga('send', 'pageview');
-
-            $(document).ready(function () {
-                $(".mobileA").click(function () {
-                    $(".mobileMenuDiv").slideToggle();
-                });
-            });
-        </script>
-    </form>
+    
+    <script src="//code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
+    <script src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+    <script src="/js/jquery.nicescroll.js"></script>
+    <script src="/js/genel.js"></script>
+    <script src="/js/jquery.prettyphoto.js"></script>
+    <script src="/js/jquery.jqtransform.js"></script>
+    <script src="/js/easing.js"></script>
+    <script src="/js/jcarousel.js"></script>
+    <script src="/js/arma.js"></script>
+    <script>
+        $(document).ready(function () { $(".mobileA").click(function () { $(".mobileMenuDiv").slideToggle() }) });
+        (function (i, s, o, g, r, a, m) { i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () { (i[r].q = i[r].q || []).push(arguments) }, i[r].l = 1 * new Date(); a = s.createElement(o), m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m) })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga'); ga('create', 'UA-46791315-3', 'auto'); ga('send', 'pageview');
+        var wrap = $("#wrap"); wrap.on("scroll", function () { this.scrollTop > 147 ? wrap.addClass("fix-search") : wrap.removeClass("fix-search") });
+    </script>
 
 
 </body></html>
