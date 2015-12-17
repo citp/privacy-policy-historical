@@ -1,49 +1,66 @@
-> *The following text is extracted and transformed from the foreverymom.com privacy policy that was archived on 2015-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150624093658id_/http%3A//www.foreverymom.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foreverymom.com privacy policy that was archived on 2015-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151217104626id_/http%3A//www.foreverymom.com/privacy) for the most accurate reproduction.*
 
-# Privacy & Terms of Use - For Every Mom
+# Privacy Policy - For Every Mom
 
-## Privacy
+Here at ForEveryMom (a project of Outreach, Inc.), we understand and respect your concerns about the use of your personal information. We believe that you should know what information about you we collect, as well as how that information is used, maintained, and, in some cases, shared. The following sets forth our privacy practices and policies.  
+We will collect information about you when you subscribe to our newsletter(s), answer our surveys, fill out our surveys, register to receive email updates or information from us in addition to making purchases from the site, when you transmit information to us via our website or by email, and when you otherwise use this website.  By doing any of the foregoing, you assent to this privacy policy. If you do not agree with the terms of this policy, please do not engage in any of these activities.
 
-ForEveryMom.com respects the privacy of its subscribers, those who respond to polls, add comments and subscribe to newsletters. It is the policy of ForEveryMom.com:
+##  **IT IS OUR POLICY** :
 
-  * To respect the purpose for which site visitors give us information and to protect that information on their behalf.
-  * Not to sell or rent contact information lists to third parties for the purposes of e-mail marketing. ForEveryMom.com may sell advertising in its e-mail publications to other companies.
-  * To send periodicals and e-mail communications only to those who request them. Sometimes people subscribe for their friends, and while this cannot be prevented, every issue of the free newsletter explains how to unsubscribe.
-
-
-
-Cookies & Tracking Pixels: We collect non-personally identifiable information through the use of tracking pixels. A tracking pixel is a transparent graphic image (usually 1 pixel x 1 pixel) that is placed on a web page and, in combination with a cookie, allows for the collection of information regarding the use of the web page that contains the tracking pixel. We use tracking pixels to tell when an advertisement has been clicked on or otherwise interacted with.
-
-Notwithstanding any other provision, we may also engage a data provider who may collect web log data from you (including IP address and information about your browser or operating system) or place or recognize a unique cookie on your browser to enable you to receive customized ads or content. These cookies contain no personally identifiable information. The cookies may reflect de-identified demographic or other data linked to data you voluntarily have submitted to us, e.g., your email address, that we may share with a data provider solely in hashed, non-human readable form. To opt-out of these data provider cookies, please go to <http://www.aboutads.info/choices>.
-
-Questions or concerns regarding ForEveryMom.com’s privacy policy may be directed to our Managing Editor, ForEveryMom.com, 5550 Tech Center Drive, Colorado Springs, CO 80919, (800) 991-6011, support@ForEveryMom.com.
-
-## Terms of Use
-
-The content and software on this site is the property of ForEveryMom.com and/or its contributors and is protected by international intellectual property laws. Accordingly, you agree that you will not copy, reproduce, alter, modify, create derivative works or publicly display any content (except for your own non-commercial use in your church) from ForEveryMom.com. You also agree that you will not use any robot, spider, other automated device or manual process to monitor or copy any content from ForEveryMom.com.
-
-ForEveryMom.com is provided to you for your own personal use, and it may not be used for any commercial purpose. If you wish to use any portion of ForEveryMom.com for a commercial purpose, please contact us for more information. Any use of the site that infringes upon ForEveryMom.com’s intellectual property rights or that is for commercial purposes will be considered a legal violation, and ForEveryMom.com maintains the right to take appropriate civil and criminal legal action.
-
-Requests for permission to reproduce or distribute materials found on this site can be made by contacting our Managing Editor, ForEveryMom.com, 5550 Tech Center Drive, Colorado Springs, CO 80919, (800) 991-6011, support@foreverymom.com.
-
-## Comments
-
-ForEveryMom.com does not endorse or represent the content of the comments submitted by users. User comments are not necessarily reviewed by ForEveryMom.com before posting.
-
-ForEveryMom.com reserves the right to prevent users from submitting comments and to edit, restrict or remove such comments for any reason at any time.
-
-In submitting comments, users agree to strictly limit themselves to discussions about the subject matter for which the comment was intended. Users agree they will not submit comments that:
-
-  * Are illegal, obscene, offensive or contrary to orthodox Christian beliefs and doctrine;
-  * Violate intellectual property rights of any other person;
-  * Improperly assume or claim the identity of another person;
-  * Are intended for spamming;
-  * Are off-topic;
-  * Are unhelpful and lead the discussion in an uncivil discourse;
-  * Contain any virus or other component harmful to users’ computers or equipment;
-  * Are libelous or an invasion of privacy or publicity; or
-  * Are primarily intended for promotional, commercial, advertising or solicitation purposes.
+  * To respect the purpose for which our site visitors and you gave us information.  We may use your data to provide you with information about goods, services or events which may be of interest to you and we may contact you about these by email, post or telephone.
+  * Not to sell or rent our lists to third parties for email marketing.  Of course, we may sell advertising in our email publications to other companies.
+  * To send our periodicals only to those who request them.  Sometimes people subscribe for their friends, and while we cannot prevent that, every issue of our free newsletter explains how to unsubscribe.
 
 
 
-Any comment submitted by a user becomes the property of ForEveryMom.com and may be used, displayed or deleted as ForEveryMom.com sees fit.
+## **INFORMATION COLLECTED ABOUT YOU AND OUR USE OF SUCH INFORMATION**
+
+The following describes the types of personal and other information we may collect about you, and how we use and maintain that information:  
+_Information We May Collect From You._  
+In general, you may visit our website without revealing any personal information other than technology-related information described in the section below.  However, certain sections and features of our website are only available to registered users of our website, who must enter a unique user ID and password.  We collect and store personal information related to each user ID when you register for an account and use our website.  We also collect and store any personal information and other data you have provided to us via our website, filling in forms, subscribing to our newsletters, requesting information from us, provided by email, information provided upon request in reporting a problem with the site, correspondence with us, or otherwise.  Specifically, we collect and store in a database your name, mailing address, and email address, and may also collect and store your phone number, date of birth and other information you may provide to us.  We use Lyris Enterprise Level Software owned and operated  by us as our email processor and utilize Google Analytics in analyzing information and use of our website.  We use Authorize.net for payment processing so none of the payment information comes through our website.  
+We use this information to ask you if you want to receive information, participate in exchange of material on ForEveryMom, ask you to complete surveys for research purposes and to otherwise communicate with you about other features of ForEveryMom.  We also use this information to respond to any inquiries you may submit to us, to track and monitor usage of our website and to communicate with you about your account and your use of our website.  In addition, we may use this information to send you periodic publications associated with ForEveryMom, unless you inform us that you opt out from receiving such communications via email.  We also use this information to operate this website; in particular, to facilitate postings on our discussion forums.  We also use this information for targeted advertising and other marketing purposes.
+
+_Website Information_   
+Our website collects and stores information that is generated automatically as you navigate through the website.  This aggregate information is collected site-wide, and includes anonymous website statistics. Our website also employs browser cookies to store users’ preferences and record session information.  “Cookies” are bits of information that are stored by your browser on your hard drive.  This technology allows for the storage of user preferences, user ID and password, if applicable, and remembers you when you take action on our website.  You can turn off the “cookie” function through most standard browsers; however, some features on our website may not function properly if the ability to accept cookies is disabled.    
+In addition, when you visit our website our system automatically collects non-personally identifiable information through the use of tracking pixels.  A tracking pixel is a transparent graphic image (usually 1 pixel x 1 pixel) that is placed on a web page and, in combination with a cookie, allows for the collection of information regarding the use of the web page that contains the tracking pixel.  We use tracking pixels to tell when an advertisement has been clicked on or otherwise interacted with.  
+Our system automatically collects non-personally identifiable information such as your web request, Internet Protocol (“IP”) address, browser type, browser language, domain names, referring and exit pages and URLs, platform type, number of clicks, landing pages, pages viewed and the order of these page views, the amount of time spent on particular pages, the date and time of your request and one or more cookies that may uniquely identify your browser, and information automatically collected by Google for its Google Analytics.  This information is used to analyze trends, estimate our audience size and usage pattern, speed up a user’s searches, administer the website, improve the design of our website, recognize users when they return to our site, track user movement, store information about users’ preferences, and to allow us to customize our site and user experience according to individual interest, and otherwise enhance the services we provide.   
+To opt-out of the data provider cookies, please go to http://www.aboutads.info/choices.  
+_Credit Card Information_  
+For users that subscribe to or purchase from the site, we collect credit card information.  We use Authorize.net for processing your payments.  While we would only reveal the last four digits of your credit card numbers when confirming an order, of course, the entire credit card number is transmitted to the appropriate credit card company during order processing as authorized and handled by Authorize.net.   
+_Other Information_   
+We may retain any data you provide to us in an email or other inquiry, to track the types of questions we receive, analyze trends, administer the websites and services we offer, improve the design of our websites and services we offer, track user movement, and otherwise enhance the services we provide.
+
+##  **WHEN YOUR INFORMATION WILL BE SHARED OR DISCLOSED**
+
+We may disclose your personal information to any division of our company.  We may also disclose information to other companies that we contract with to support or manage our website if necessary, including the use of information to gather your customer feedback through a third party customer feedback partner.   
+We will comply with any subpoenas, court orders or other legal processes for any of the information about you in our possession, and we may use such information to establish or exercise our legal rights, or to defend against legal claims.  We reserve the right to disclose information about you, including data on which pages you have visited, to third parties if we feel it is necessary to protect our systems, website, business, users or others.  
+In addition, information about you in our possession may be disclosed as part of any merger, acquisition, sale of company assets, or transition of service to another provider, as well as in the unlikely event of insolvency, bankruptcy, or receivership in which your personal information would be transferred as one of the business assets of the company. ForEveryMom does not guarantee that any entity receiving such information in connection with one of these transactions will comply with all terms of this policy.
+
+##  **OPT OUT**
+
+As noted, once you register with ForEveryMom, we may send you administrative-related emails, as well as emails to facilitate your access to ForEveryMom’s services, including providing you with related updates.  We may not offer you the opportunity to opt out of receiving these communications.  
+However, we provide you with the opportunity to elect not to receive other types of communications, including emails informing you about ForEveryMom’s services, marketing and other offerings that we think will interest you.  If you want to stop receiving these communications, forms provided will normally have a box to check to prevent such processing.  You can also update your privacy preferences, available in MyOutreach, click on the “Unsubscribe” link in any such email, or contacting us via email at [support@ForEveryMom.com ](mailto:support@sermoncentral.com). 
+
+##  **SECURITY**
+
+Whenever ForEveryMom handles information that you disclose on our website, regardless of where this occurs, we take steps to ensure that your information is treated securely and in accordance with this privacy policy.  ForEveryMom uses commercially reasonable physical, managerial and technical safeguards to preserve the integrity and security of your personal information. **  **Information transmitted through our website is encrypted using Secure Sockets Layer (SSL) technology.  Unfortunately, we cannot ensure or warrant the security of any information you transmit to us, and you do so at your own risk.  Once we receive your transmission, we make our best effort to ensure its security on our systems but we do not accept liability for unintentional disclosure. 
+
+## **CHILDREN’S PRIVACY**
+
+Although our website may be accessed by children under the age of 13, we will not knowingly collect, maintain or use any personal information from such children, and no part of ForEveryMom’s services are directed to persons under the age of 13.  In fact, you must be at least 13 years of age to set up an account with us.  IF YOU ARE UNDER 13 YEARS OF AGE, PLEASE DO NOT USE OR ACCESS FOREVERYMOM’S SERVICES AT ANY TIME OR IN ANY MANNER.  If we become aware that we have collected any personal information from children under 13, we will promptly delete such information from our databases.  If you are a parent or guardian and discover that your child under the age of 13 has obtained a ForEveryMom account, then you may alert ForEveryMom at [support@ForEveryMom.com](mailto:support@outreach.com) and request that we delete that child’s personal information from our systems.
+
+##  **OTHER WEBSITES**
+
+For your convenience, this website may contain links to other websites, or you may be otherwise referred to other websites. This privacy policy does not apply to these linked websites. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies.  Each website should be checked for its own privacy policy before you submit any personal data to these websites. 
+
+## **CHANGES TO THIS POLICY**
+
+ForEveryMom may from time to time update this privacy policy. In the event that ForEveryMom merges with, or is acquired by another company, a change to this privacy policy may result. Whenever a change to this policy is significant, we will place a prominent notice on this website. 
+
+##  **GOVERNING LAW**
+
+Our website is controlled by ForEveryMom from our offices within the State of Colorado, United States of America. By choosing to visit this website or otherwise provide information to ForEveryMom, you agree that any dispute over privacy or the terms contained in this privacy policy will be governed by the law of the State of Colorado.  If you are accessing our website from any region with regulations or laws governing personal data collection, use or disclosure that differ from United States laws or regulations, please note that through your continued use of our website, which is governed by the laws of the State of Colorado and the United States of America, this privacy policy [and our Terms of Use language to add when TOU are added (available  [here](http://www.foreverymom.com/terms-of-use/) and/or at <http://www.foreverymom.com/terms-of-use/>), you are transferring personal information to the United States of America and you consent to that transfer.  You also consent to the adjudication of any disputes arising in connection with our website in the federal and state courts in the State of Colorado.  You also agree to arbitrate such disputes and to abide by any limitation on damages contained in our Terms of Use or other agreement we have with you.
+
+##  **UPDATE INFORMATION / SUGGESTIONS**
+
+If you would like to update or correct any information that you have provided to ForEveryMom through your use of this website or otherwise, or you have questions concerning or suggestions for improving this privacy policy, please send an email to [support@foreverymom.com](mailto:support@foreverymom.com). 
