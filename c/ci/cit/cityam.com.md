@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cityam.com privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630132511id_/http%3A//www.cityam.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cityam.com privacy policy that was archived on 2015-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151217025700id_/http%3A//www.cityam.com/privacy-policy%3FITO%3Dnav-mobile-privacy) for the most accurate reproduction.*
 
 # Privacy Policy | City A.M.
 
@@ -8,11 +8,16 @@ For the purpose of the Data Protection Act 1998 (the Act), the data controller i
 
 INFORMATION WE MAY COLLECT FROM YOU
 
-We may collect and process the following data about you:  
-• Information that you provide by filling in forms on our site. This includes information provided at the time of registering to use our site. We may also ask you for information when you report a problem with our site.  
-• If you contact us, we may keep a record of that correspondence.  
-• We may also ask you to complete surveys that we use for research purposes, although you do not have to respond to them.  
-• Details of transactions you carry out through our site and of the fulfilment of your orders.  
+We may collect and process the following data about you:
+
+• Information that you provide by filling in forms on our site. This includes information provided at the time of registering to use our site. We may also ask you for information when you report a problem with our site.
+
+• If you contact us, we may keep a record of that correspondence.
+
+• We may also ask you to complete surveys that we use for research purposes, although you do not have to respond to them.
+
+• Details of transactions you carry out through our site and of the fulfilment of your orders.
+
 • Details of your visits to our site including, but not limited to, traffic data, location data, weblogs and other communication data, whether this is required for our own billing purposes or otherwise and the resources that you access.
 
 IP ADDRESSES
@@ -27,7 +32,9 @@ If you register with us or if you continue to use our site, you agree to our use
 
 Please note that some of our business partners (e.g. advertisers) may also use cookies, over which we have no control. 
 
-To opt out from data being used by Google Analytics, [you can download and install the add-on for your web browser here](https://tools.google.com/dlpage/gaoptout/).
+Additionally, emails we send may contain a bit of code known as a "web beacon". This code allows us to understand the time and date of when a user has opened an email and when he/she has utilised a link within the email to visit a website. Our web beacons do not collect personally identifiable information. Users wishing to disable our web beacons should do so by turning images "off" in their email client (e.g., Outlook, Outlook Express). Please see your email client for more information. 
+
+To opt out from data being used by Google Analytics, you can download and install the add-on for your web browser here.
 
 WHERE WE STORE YOUR PERSONAL DATA
 
@@ -39,18 +46,24 @@ Unfortunately, the transmission of information via the internet is not completel
 
 USES MADE OF THE INFORMATION
 
-We use information held about you in the following ways:  
-• To ensure that content from our site is presented in the most effective manner for you and for your computer.  
-• To provide you with the information, products or services on our site or that you request from us or that we feel may interest you, where you have consented to be contacted for such purposes.  
-• To carry out our obligations arising from any contracts entered into between you and us.  
+We use information held about you in the following ways:
+
+• To ensure that content from our site is presented in the most effective manner for you and for your computer.
+
+• To provide you with the information, products or services on our site or that you request from us or that we feel may interest you, where you have consented to be contacted for such purposes.
+
+• To carry out our obligations arising from any contracts entered into between you and us.
+
 • To notify you about changes to our service.
 
 We do not disclose information about identifiable individuals to our advertisers, but we may provide them with aggregate information about our users. We may also use such aggregate information to help advertisers reach the kind of audience they want to target. We may make use of the personal data we have collected from you to enable us to comply with our advertisers' wishes by displaying their advertisement to that target audience.
 
 DISCLOSURE OF YOUR INFORMATION
 
-We may disclose your personal information to third parties:  
-• In the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets.  
+We may disclose your personal information to third parties:
+
+• In the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets.
+
 • If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply these Terms and other agreements; or to protect the rights, property, or safety of City AM Ltd, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
 
 PERSONAL INFORMATION MANAGEMENT
@@ -59,7 +72,7 @@ We gather personal information from you when you send text messages, complete re
 
 YOUR RIGHTS
 
-You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing by checking certain boxes on the forms we use to collect your data. You can also exercise the right at any time by contacting us at 3rd Floor, Fountain House, 130 Fenchurch Street, London EC3M 5DJ or [cityam.admin@cityam.com](mailto:cityam.admin@cityam.com).
+You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing by checking certain boxes on the forms we use to collect your data. You can also exercise the right at any time by contacting us at 3rd Floor, Fountain House, 130 Fenchurch Street, London EC3M 5DJ or [feedback@cityam.com](mailto:feedback@cityam.com).
 
 Our site may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies. Please check these policies before you submit any personal data to these websites.
 
@@ -73,4 +86,4 @@ Any changes we may make to our privacy policy in the future will be posted on th
 
 CONTACT
 
-Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to City AM Ltd of 3rd Floor, Fountain House, 130 Fenchurch Street, London EC3M 5DJ or [cityam.admin@cityam.com](mailto:cityam.admin@cityam.com).
+Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to City AM Ltd of 3rd Floor, Fountain House, 130 Fenchurch Street, London EC3M 5DJ or [feedback@cityam.com](mailto:feedback@cityam.com).
