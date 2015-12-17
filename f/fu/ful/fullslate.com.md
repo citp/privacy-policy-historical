@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the fullslate.com privacy policy that was archived on 2015-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150425133701id_/http%3A//www.fullslate.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fullslate.com privacy policy that was archived on 2015-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151217205055id_/http%3A//www.fullslate.com/privacy) for the most accurate reproduction.*
 
 # 
 
 ### Effective Date: October 21, 2013
 
-At **Full Slate** , we respect your right to privacy and we understand that users need to control the uses of their personal information. Full Slate, Inc. (“Full Slate”, “we”, “us” or “our”) owns and operates various websites and internet-based applications that facilitate appointment scheduling, customer relationship management, marketing, promotions, and resource management (collectively, the “Services”) for service providers and their clients. This privacy policy describes our policies with respect to personal information we receive from businesses and individuals who provide services (“Service Providers”), from individuals who use the Services to schedule appointments and otherwise interact with Service Providers (“Clients”), and from visitors to our websites.
+At **Full Slate** , we respect your right to privacy and we understand that users need to control the uses of their personal information. Full Slate (“Full Slate”, “we”, “us” or “our”) owns and operates various websites and internet-based applications that facilitate appointment scheduling, customer relationship management, marketing, promotions, and resource management (collectively, the “Services”) for service providers and their clients. This privacy policy describes our policies with respect to personal information we receive from businesses and individuals who provide services (“Service Providers”), from individuals who use the Services to schedule appointments and otherwise interact with Service Providers (“Clients”), and from visitors to our websites.
 
 ## Information Collection & Use
 
