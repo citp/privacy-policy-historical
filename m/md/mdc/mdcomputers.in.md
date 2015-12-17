@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the mdcomputers.in privacy policy that was archived on 2015-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150617002647id_/http%3A//mdcomputers.in/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mdcomputers.in privacy policy that was archived on 2015-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151217041012id_/http%3A//mdcomputers.in/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
-[ ]()
+[ ](http://mdcomputers.in/)
 
 Your shopping cart is empty!
 
