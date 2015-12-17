@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the escapewizard.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609030127id_/http%3A//www.escapewizard.com/pripolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the escapewizard.com privacy policy that was archived on 2015-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151217180522id_/http%3A//www.escapewizard.com/pripolicy.php) for the most accurate reproduction.*
 
 # Escape Wizard
 
