@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the jollychic.com privacy policy that was archived on 2015-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150503225655id_/http%3A//www.jollychic.com/privacy-policy-a11.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jollychic.com privacy policy that was archived on 2015-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151217204239id_/http%3A//www.jollychic.com/privacy-policy-a11.html) for the most accurate reproduction.*
 
 # Privacy Policy
-
-_►_ Privacy Policy
 
 Privacy policy
 
