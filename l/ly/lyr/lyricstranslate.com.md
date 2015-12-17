@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the lyricstranslate.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627212149id_/http%3A//lyricstranslate.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lyricstranslate.com privacy policy that was archived on 2015-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151217104914id_/http%3A//lyricstranslate.com/en/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | LyricsTranslate.com
+# Privacy Policy | Lyrics Translate
 
 The following policy is intended to explain how your personal information will be treated when you use our site. Personal information includes your name, e-mail addresses, click-through activity and any other personal information you may provide here.
 
@@ -18,7 +18,7 @@ Each time a visitor comes to a LyricsTranslate.com Web site, our server logs som
 
  **Cookies**
 
-Companies which place advertising on our site have the ability to assign cookies to you. We may use cookies in some parts of our site (in forms to remember nickname and e-mail you used last time), but we cannot control that cookies coming with banner ads.
+Companies which place advertising on our site have the ability to assign cookies to you. We may use cookies in some parts of our site (in forms to remember nickname and e-mail you used last time), but we cannot control that cookies coming with banner ads. [read more](https://web.archive.org/en/cookies-policy)
 
  **Other sites**
 
