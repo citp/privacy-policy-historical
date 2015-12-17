@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zappclassifieds.com privacy policy that was archived on 2015-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150617232600id_/http%3A//www.zappclassifieds.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zappclassifieds.com privacy policy that was archived on 2015-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151217013814id_/http%3A//www.zappclassifieds.com/privacy.php) for the most accurate reproduction.*
 
 # Free Classifieds - Free Online Classified Advertisements - Privacy Policy
 
