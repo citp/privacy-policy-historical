@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the eglobaldigitalcameras.com.au privacy policy that was archived on 2015-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150615052130id_/http%3A//www.eglobaldigitalcameras.com.au/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eglobaldigitalcameras.com.au privacy policy that was archived on 2015-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151217050134id_/http%3A//www.eglobaldigitalcameras.com.au/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - eGlobaL Store Co.
 
-** ** Last updated: 14/03/2011   
+Last updated: 14/03/2011   
 
-Your privacy is important to eGlobaL.  This privacy statement provides information about the personal information that eGlobaL collects, and the ways in which eGlobaL uses that personal information.
+Your privacy is important to eGlobaL. This privacy statement provides information about the personal information that eGlobaL collects, and the ways in which eGlobaL uses that personal information.
 
 **Personal information collection**
 
-eGlobaL  may collect and use the following kinds of personal information:
+eGlobaL may collect and use the following kinds of personal information:
 
         information about your use of this website (including to process the order and to deliver the goods ordered);
 
