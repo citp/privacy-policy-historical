@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the esl-kids.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607035214id_/http%3A//esl-kids.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the esl-kids.com privacy policy that was archived on 2015-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151217234315id_/http%3A//esl-kids.com/privacy.html) for the most accurate reproduction.*
 
 # ESL-Kids - Flashcards, Worksheets, Games and Songs
 
