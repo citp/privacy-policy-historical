@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ultimatehandyman.co.uk privacy policy that was archived on 2014-08-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140808103735id_/http%3A//www.ultimatehandyman.co.uk/how-to/ultimate-handyman-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ultimatehandyman.co.uk privacy policy that was archived on 2015-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151217084740id_/http%3A//www.ultimatehandyman.co.uk/how-to/ultimate-handyman-privacy-policy) for the most accurate reproduction.*
 
 # Ultimate Handyman Privacy Policy
 
@@ -22,7 +22,7 @@ Google Analytics cookies, Google analytics is our primary web statistics softwar
 **_Google Advertising_**
 
   * Google, as a third-party vendor, uses cookies to serve ads on our site/s.
-  * Google's use of the DART cookie enables it to serve ads to your users based on their visit to these sites and other sites on the Internet. 
+  * Google's use of the DART cookie enables it to serve ads to your users based on their visit to these sites and other sites on the Internet.
   * Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.co.uk/privacy_ads.html). 
 
 
@@ -39,15 +39,17 @@ These sites use cookies and sessions for tracking identifiable data about a mach
 
 If you require information or believe an error has been made within this document you should in the first instance contact [info@ultimatehandyman.co.uk](mailto:info@ultimatehandyman.co.uk) or via a letter to-
 
-Ultimate Handyman Limited
-
-10 Borough Road  
-Darwen  
-Lancashire  
-BB3 1PL
+  
+Ultimate Handyman Limited  
+Vantage House   
+East Terrace Business Park   
+Euxton Lane   
+Euxton   
+Lancashire   
+PR7 6TB
 
  ** _Address_**
 
-If you feel the matter has not be dealt with correctly you can contact the [Information Commissioner's Office](http://www.ico.gov.uk/)
+If you feel the matter has not be dealt with correctly you can contact the [Information Commissioner's Office](https://ico.org.uk/)
 
 We take your privacy seriously and do not sell or use your data in a way that could be considered inappropriate both morally and in the eyes of the governing laws. 
