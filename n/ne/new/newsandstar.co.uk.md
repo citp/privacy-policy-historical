@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the newsandstar.co.uk privacy policy that was archived on 2015-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150518003224id_/http%3A//www.newsandstar.co.uk/1.930532) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newsandstar.co.uk privacy policy that was archived on 2015-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151217101739id_/http%3A//www.newsandstar.co.uk/1.930532) for the most accurate reproduction.*
 
 # News & Star | Privacy Policy
 
-Published at 10:57, Friday, 02 March 2012  
+Last updated at 16:28, Tuesday, 20 October 2015  
 
 
 We are committed to protecting your privacy. This policy explains how and for what purposes we use the information collected about you via this website Please read this privacy policy carefully. By using this Site and any services we offer via this Site, you are agreeing to be bound by this policy in respect of the information collected about you via this Site.
@@ -22,6 +22,13 @@ In general, we use the information we collect about you to:
 
 
 When you visit, register or use the services on this Site, you may be asked to provide certain information about yourself, including your name and your contact details. We may also collect information about your use of this Site as well as information about you from the emails or letters sent to you.
+
+**Credit cards**
+
+We do not store credit card details nor do we share customer details with any 3rd parties.
+
+**Refund policy**  
+You have the right to cancel this contract within 14 days without giving any reason. The cancellation period will expire after 14 days from the date of conclusion of this contract. To exercise the right to cancel, you must inform us: Cumbrian Newspapers Ltd, Newspaper House, Dalston Road, Carlisle, CA2 5UA. Tel: 0808 144 8 144. e-mail: cnsubs@cnmedia.co.uk of your decision to cancel this contract by a clear statement (e.g. a letter sent by post, or email). If you cancel this contract, we will reimburse you all payments received from you, if you requested us to begin the performance of services during the cancellation period, you shall pay us an amount which is in proportion to what has been performed until you have communicated us your cancellation from this contract and returned the goods to us, in comparison with the full coverage of the contract. We will make the reimbursement without undue delay and not later than 14 days after the day on which we are informed about your decision to cancel this contract. We will make the reimbursement using the same means of payment as you used for the initial transaction, unless you have expressly agreed otherwise; in any event you will not incur any fees as a result of the reimbursement.
 
 **Information collection and use**
 
@@ -58,4 +65,13 @@ All of the information we collect or record is restricted to our offices. Only e
 
 We may change this policy from time to time as we add new services or features or in response to changes in the law or our commercial arrangements. Any changes to this policy will be posted on this Site.
 
+**Registered address**
+
+Cumbrian Newspapers Limited  
+Newspaper House,   
+Dalston Road,   
+Carlisle,   
+CA2 5UA
+
+First published at 10:57, Friday, 02 March 2012  
 Published by [http://www.newsandstar.co.uk](http://www.newsandstar.co.uk/)
