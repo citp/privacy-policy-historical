@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the postcrossing.com privacy policy that was archived on 2015-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150529033027id_/https%3A//www.postcrossing.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the postcrossing.com privacy policy that was archived on 2015-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151217022718id_/https%3A//www.postcrossing.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -21,7 +21,7 @@ Email address
 IP Address and browser
      We may also collect the IP Address and browser information with which you access the website. We use these to improve your usage experience (for example, by pre-filling your country in forms) and also to improve the website for the community who uses it. 
 Website usage data
-     We collect website usage data whenever you interact with our services. Like most websites today, our web servers keep log files that record data each time a device accesses those servers. The log files contain data about the nature of each access, including originating IP addresses. We use these log files for purposes such as system administration and maintenance, record keeping, tracking referring web sites and for security purposes (e.g. controlling abuse, spam and DDOS attacks). This website and its data is hosted in servers located physically in the U.S.A. 
+     We collect website usage data whenever you interact with our services. Like most websites today, our web servers keep log files that record data each time a device accesses those servers. The log files contain data about the nature of each access, including originating IP addresses. We use these log files for purposes such as system administration and maintenance, record keeping, tracking referring web sites and for security purposes (e.g. controlling abuse, spam and DDOS attacks). 
 Other data you intentionally share
      We may collect other information or data that you intentionally share. For example, if you provide us with a testimonial, write a blog comment or leave postcard comment for others to see. 
 
@@ -57,6 +57,6 @@ If our information practices should change at some time in the future, we will p
 
 ## Questions?
 
-If you have any questions that are not answered in this Privacy Policy or on our [F.A.Q.](https://web.archive.org/help), you can reach us through our [contact form](https://web.archive.org/contact) at any time.
+If you have any questions that are not answered in this Privacy Policy or on our [F.A.Q.](https://web.archive.org/help), you can reach us through our [contact form](https://web.archive.org/contact?category=legal) at any time.
 
-If you feel that this website is not following its Privacy Policy, please [contact us](https://web.archive.org/contact). 
+If you feel that this website is not following its Privacy Policy, please [contact us](https://web.archive.org/contact?category=legal). 
