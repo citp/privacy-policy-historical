@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hslda.org privacy policy that was archived on 2015-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150505225343id_/http%3A//hslda.org/pdef/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hslda.org privacy policy that was archived on 2015-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151217212205id_/http%3A//hslda.org/pdef/privacypolicy.asp) for the most accurate reproduction.*
 
 # HSLDA | Privacy Policy
 
