@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hiddenbrains.com privacy policy that was archived on 2015-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150527032632id_/http%3A//www.hiddenbrains.com/privacy-statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hiddenbrains.com privacy policy that was archived on 2015-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151217132053id_/http%3A//www.hiddenbrains.com/privacy-statement.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -57,7 +57,7 @@ Further, once you provide information at the Hidden Brains site, you will have t
 
 Hidden Brains has implemented stringent, reasonably acceptable standards of technology and operational security in order to protect personally identifiable information from loss, misuse, alteration or destruction. The data resides behind a firewall, with access restricted to authorized Hidden Brains personnel.
 
-Hidden Brains has implemented “Reasonable Security Practices” as required by the Information Technology Act, 2000 rules including any amendment in the said Act and its rules. By complying with such provisions, Hidden Brains assures proper care and control over its I.T. and Security operations under sections 43, 43A, 45 & Section 85 of I.T. Act, 2000 including related rules and thus you agree and acknowledge that Hidden Brains shall not be held responsible for any cybercrime activity relating to your data. 
+Hidden Brains has implemented “Reasonable Security Practices” as required by the Information Technology Act, 2000 rules including any amendment in the said Act and its rules. By complying with such provisions, Hidden Brains assures proper care and control over its I.T. and Security operations under sections 43, 43A, 45 & Section 85 of I.T. Act, 2000 including related rules and thus you agree and acknowledge that Hidden Brains shall not be held responsible for any cybercrime activity relating to your data.
 
 By using this site you agree and acknowledge that Hidden Brains shall not be held responsible for any uncontrollable security attack and in such cases you agree that Hidden Brains shall not be held responsible for any type of financial, opportunity, legal, business (lost profits) and reputation losses that may occur to you under the Provisions of Section 43, 43A and 45 of Information Technology Act, 2000 and including any amendments in the said Act.
 
