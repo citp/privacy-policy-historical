@@ -1,135 +1,180 @@
-> *The following text is extracted and transformed from the printme.com privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606121045id_/http%3A//www.printme.com/admin/popup/TOU.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the printme.com privacy policy that was archived on 2015-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151217125731id_/http%3A//product-redirect.efi.com/privacy) for the most accurate reproduction.*
 
-# 
+# EFI - Privacy
 
-Your privacy is important to us. Electronics For Imaging, Inc. and its affiliates (collectively the "Company") has prepared this privacy notice ("Notice") to describe the type of information that the Company collects about you and how that information may be used and disclosed when you access or use any of the Company's products or services via the Internet or through any device or service that allows Internet access or uses the Internet to deliver products or services. This Notice is incorporated into the applicable terms of use (the "Terms of Use") of the Company's web site and/or individual product or service purchased or used by You. This Notice does not apply to any information or data that may be collected from you offline. The Company may revise or update this Notice from time to time, so you should refer back to this page often for the latest information.
+**Privacy Statement of Electronics For Imaging, Inc. and its corporate affiliates,
 
-WHAT IS "PERSONALLY IDENTIFIABLE INFORMATION"? 
+including subsidiaries (collectively referred to herein as “EFI”)
 
-  
-"Personally Identifiable Information" is information that can be directly associated with a specific person such as a name, address, telephone number or e-mail address. If you are an individual user of the Service, your name, address, telephone number and e-mail address are Personally Identifiable Information. This Notice will govern how we treat your Personally Identifiable Information. 
+In this Privacy Statement, we describe:
 
-Whenever a business entity subscribes to our services or purchases a product and provides such services or product to its employees (e.g., if your company subscribes to the service or product on your behalf), this Notice generally will govern how we treat the employees' Personally Identifiable Information. However, we view the business entity as the subscriber or end-user and our service or product agreement with the business entity may require that we provide access to or disclose Personally Identifiable Information about an employee's use of the service such as service usage or location information. In that case, the subscriber company's own privacy policy will govern how it treats that information. If you are an employee of the subscriber or purchaser of the service or product, you should be aware that your employer has the right to access information about your usage of the service or product and any transactions you undertake through use of the service or product. 
+**
 
-WHAT IS AGGREGATE INFORMATION? 
+  * Our Commitment to Privacy
+  * The Information We Collect
+  * How We Collect Information
+  * How We Use Information
+  * How We Share Your Information
+  * Our Commitment to Data Security
+  * Third Party Links
+  * Users Outside the United States
+  * Our Commitment to Children’s Privacy
+  * How You Can Access and Correct Your Information
+  * How You Can Opt-Out
+  * How to Contact Us
+  * Privacy Statement Updates
 
-  
-The Company's definition of Personally Identifiable Information does not include "Aggregate Information." Aggregate information is data the Company collects about a group of individuals or category of services or subscribers from which individual subscriber identities have been removed. Aggregate Information could include data on how you use the service or product. This information may be collected by the Company and combined with information about how others use the service or products, but no Personally Identifiable Information will be included in the resulting data. The Company uses Aggregate Information to help it understand demographic trends and user needs so that it can better serve your needs and the way in which you use the services or products. 
 
-WHEN AND HOW IS INFORMATION COLLECTED? 
 
-  
-The Company collects information about you in a variety of ways: 
+**Our Commitment to Privacy**
 
-Information You Give Us: 
+Your privacy is important to us. To better protect your privacy, we provide this Privacy Statement to explain how your information is collected (both on-line and off-line) and used, and to explain the choices you can make about the way your information is shared. To make this notice easy to find, we make it available by a web link on our homepage.
 
-The Company collects information you give it when you sign up for, use, or request information about the Company's services or products or otherwise communicate with the Company through the Internet or any device that allows Internet access. Such information may include your contact information as well as your billing address and credit card information when you sign up for services or purchase a product. When you sign up or register for such products or services, the Company may advise you of your options regarding the type of information that is collected, how it is used, and the manner in which you would like the Company to communicate with you. 
+EFI does not sell or share the Personal Information (defined herein) it collects from you with third parties except as described in this Privacy Statement. This Privacy Statement covers the information practices of EFI and applies to information submitted and collected online by, through, or via an EFI website which includes a reference to this Privacy Statement on the applicable homepage (collectively, “EFI Websites” or individually, an “EFI Website”) and to information collected off-line by EFI. This Privacy Statement may be subject to any specific and applicable EFI affiliate privacy statement and our privacy practices may vary as required by local law.
 
-Automatically Collected Information: 
+Back to top »
 
-The Company automatically receives certain types of information whenever you interact with the Company or use its products or services. For example, the Company obtains certain types of information when your Web browser accesses the Company's web site, including your IP address and the type of browser you use. The Company also receives similar information when you use products or services that require that a mobile or other device access the Company's computer systems. 
+**The Information We Collect**
 
-Information from Other Sources: 
+Personal Information: If you wish to contact EFI, we typically ask you to provide personally identifiable information, such as your name, address, contact phone numbers, and email address. This information helps us to reply to you. To use certain parts of the EFI Websites, you may be required to complete a registration form and provide contact information (such as name and email address). If you are making a purchase online, we will also require your credit/debit card information, expiration date, billing address, shipping address and related information. We also may ask for your date of birth to register for online forums. You may also provide additional personally identifiable information that you choose to include in an email that you send to us, via an EFI Website or through a resume you submit in connection with your interest in working for EFI. All of the above personally identifiable information, as well as any other such personally identifiable information that you choose to provide to us, is collectively referred to as “Personal Information” in this Privacy Statement. If you refuse to provide the Personal Information that EFI requires in order for EFI to provide you with a product, service or information, you may not receive the product, service or information.
 
-The Company may receive information about you from other sources, such as credit and/or credit card information from third party sources before initiating service. We may also buy marketing information from others to help us better inform you about new products or services that we think will interest you. 
+Non-Personal Information: You may provide certain non-personal information to us, such as the products you are using, your company name, your role with your company, electronic information collected through cookies or other similar means, other information in connection with a support request for one of our products, or any other information that you provide or we collect that is not Personal Information. All of this information is collectively referred to as “Non-Personal Information” in this Privacy Statement.
 
-Cookies: 
+Back to top »
 
-Cookies are text files that are placed on your hard drive by a web site when you visit that web site. Cookies identify your computer and record your preferences and other data about your visit to that site so that when you return to the site, the site knows who you are and can personalize your visit. Cookies also enable a Web site shopping cart to function so that you only have to check out once. The Company may use cookies in general to collect information to determine how to improve our sites by seeing which areas, features and products are most popular; to personalize the site and make recommendations based on products you have liked in the past as well as to improve the site experience; and to complete transactions you have requested. Advertisers that serve ads on our Web sites may also use their own cookies. 
+**How We Collect Information**
 
-Web Beacons: 
+There are a number of ways in which EFI may collect Personal Information from you. Personal Information may be collected if you provide Personal Information in connection with using an EFI Website, including ordering a product or service, a webinar registration, EFI Website forms, faxes, surveys, product registrations, such as registrations associated with the installation of software, responses to mailed materials, subscription to our newsletter and other publications, participation in contests, telephone calls, EFI Website forums and message boards, and in person, such as at trade shows or other events. In addition, EFI may collect aggregate Non-Personal Information on the EFI Websites that customers access or visit through the use of cookies, clear GIFs and website logs, as described below.
 
-Web beacons, also called single-pixel gifs, are electronic images that are placed on web pages or in an email message. These web beacons are designed to monitor who is reading a web page or email message. They are often invisible to the user because they are typically very small. Web beacons are not used to access your Personally Identifiable Information. They are only used to compile aggregate statistics about usage. Some sites accessible through the Company web site or through use of its products or services may contain web beacons be placed there by the Company's advertisers or third party service providers to collect the same type of aggregate information. 
+_Cookies:_ EFI may collect Non-Personal Information through the use of cookies. A cookie is a small file that a website puts on a user's hard drive. This file identifies specific information about previous visits to the website. The cookie may store the user's country, language, an assigned random session ID, name and address information or the Internet Protocol (“IP”) address associated with a user’s computer. EFI may use cookies for a variety of purposes, including without limitation: (i) to track the number of users to an EFI Website over time; (ii) recognize repeat visits to an EFI Website; (iii) to facilitate online navigation and online shopping; (iv) track pages visited during a single online session, analyze trends and gather broad demographic information; (v) adjust the presentation of an EFI Website to make it more effective; (vi) store user preferences; (vii) record session information, user-specific information (such as the pages the user accesses or visits) and past activity at an EFI Website; (viii) alert users to new areas of an EFI Website that we think might be of value; and (ix) market products and services to users. EFI may link the information it collects by the use of cookies to specific Personal Information. Some of our partners may use cookies on the EFI Websites. However, we have no access to or control over those cookies.
 
-HOW DOES THE COMPANY USE PERSONALLY IDENTIFIABLE INFORMATION? 
+Most browser applications allow you to block or limit the use of cookies. Consult the help menu of your browser application for details. If you block the use of cookies, you may not be able to use some of the features on an EFI Website.
 
-  
-The Company uses Personally Identifiable Information for billing purposes, to market and provide services, to resolve problems with your product or service, and to create and inform you of products or services that better meet your needs. This information allows the Company to understand how you use the Company's web site, product or services and in some cases enables the Company to customize and personalize your experience. 
+_Clear GIFs:_ Clear GIFs are small graphic images (in GIF or other image format) placed on a webpage, web-based document, or in an email message. Clear GIFs are invisible to the user because they are typically very small (e.g., only 1-by-1 pixel) and either transparent or the same color as the background of the webpage, document or email message. We do not use clear GIFs to collect Personal Information about you. We may, however, use clear GIFs to capture Non-Personal Information, such as statistical usage information for pages, features or other elements on the EFI Websites or through EFI email messages that are delivered to you. We may correlate this information to a user to personalize user experience and for statistical analysis of user experiences on the EFI Websites or in our emails.
 
-HOW WILL PERSONALLY IDENTIFIABLE INFORMATION BE DISCLOSED? 
+_Website Logs:_ EFI may collect Non-Personal Information in the form of website logs (collectively “Logs”). These Logs are files that record activity on the EFI Websites and gather statistics about users’ activities, such as how many users have visited the EFI Websites, how often, how many “hits” a particular webpage has received, type and quality of the user’s Internet connection to the EFI Websites, and identification of the user’s hardware and software. The entries comprising the Logs may contain IP addresses, user IDs, and identification of the Internet service provider that provides your connection to the Internet. Generally, we use the Logs to operate and improve the EFI Websites, to identify the popularity of certain features, to assist with internal marketing and demographic studies, and to enable us to assess overall efficiency and activity on the EFI Websites.
 
-  
-The Company does not sell Personally Identifiable Information to others and we disclose Personally Identifiable Information only in the following ways: 
+_Communications Within EFI Websites:_ EFI may collect information that you submit when posting messages in an EFI Website forum. Any user communications within the EFI Websites, such as on the forums, should not be considered private and such communications may be viewed and saved by others. EFI is under no obligation to monitor user communications but reserves the right to act on reports of misconduct or abuse of communications privileges. Because communications may be widely viewed and/or heard, we caution users to avoid revealing any Personal Information on the EFI Website forums.
 
-With Your Consent 
+Back to top »
 
-  
-The Company may request your consent to disclose your Personally Identifiable Information in a number ways: in writing, online by clicking a button, verbally, in person or over the telephone, or at the time of initiation or use of any service when your consent is part of the required terms and conditions to use a service or product. 
+**How We Use Information**
 
-To Complete Your Service Requests or Transactions 
+Information that we collect may be used for the purposes described in this Privacy Statement. If we wish to use your Personal Information for purposes that are different than those described in the Privacy Statement, we will provide you with notice of these new purposes. See Privacy Statement Updates for more information on how we provide notice if our privacy practices change.
 
-  
-The Company discloses Personally Identifiable Information to third parties as necessary to complete a transaction or perform a service on your behalf, for example, charging your credit card for product or service purchased. When the Company does disclose your Personally Identifiable Information for such a purpose, that third party will not be permitted to disclose Personally Identifiable Information to another third party without your consent. 
+When you provide us with your Personal Information or Non-Personal Information, we may use such information for a number of purposes including to:
 
-The Company's services may let you take advantage of services and products offered by other companies, either by electing to receive information about those services and products or by directing you to third party web sites. In those cases, information about you received by those third parties will be governed by their privacy policies. For example, when you purchase a product or service from a merchant through the Company's web site or through a wireless service, you may provide Personally Identifiable Information to that entity and some information may automatically be passed to the site as well, such as your source IP address or other device identifier. Whenever you use the products or services of third parties, their privacy policies will control their use of your information. 
+  * Process an order you place for a product or service;
+  * Respond to your questions;
+  * Provide technical and customer support;
+  * Provide you with product news, promotions, and newsletters, including information about events, seminars, updates and helpful tips regarding the products and services of EFI and its partners. Such messages may be provided by email, over the telephone and direct mail. And, if you agree beforehand, via SMS text messaging or social media, such as Facebook or Twitter;
+  * Enable online shopping;
+  * Enable you to participate in contests;
+  * Send you special promotions and commercial advertisements;
+  * Contact you with surveys to help us improve the way we do business;
+  * Send you information regarding the products and services of EFI and its partners;
+  * Allow you to sign up for online services and register products;
+  * Create and maintain reseller partnerships;
+  * Notify you about administrative matters relating to the EFI Websites and the products and services of EFI and its partners;
+  * Improve the products and services of EFI and its partners and the way we do business;
+  * Review and, if appropriate, respond to a request to work for EFI; and
+  * Improve the functionality and performance of the EFI Websites and services through the use of cookies, clear GIFs and website logs as described above.
 
-For Your Protection and the Protection of the Company and Others 
 
-  
-The Company will release Personally Identifiable Information and other account information when the Company believes it is necessary or appropriate to comply with the law, to enforce the Company's end user terms or customer agreements, to initiate, render, bill, and collect for products or services, to protect the Company's rights or property, or to protect other users from fraudulent, abusive, or unlawful use of the Company's products or services; or if the Company reasonably believes that an emergency involving immediate danger of death or serious physical injury to any person requires disclosure of communications or justifies disclosure of such records. 
 
-WHAT ABOUT LOCATION-BASED SERVICES AND INFORMATION? 
+Personal Information may be combined with Non-Personal Information. Information collected on-line may be combined with information collected off-line. Personal Information may be enhanced or merged with data from third parties for the purposes of marketing products or services that may be of interest to you.
 
-  
-If your product or service incorporates or consists of a mobile device, the Company's network generally knows its "location." This location capability makes wireless communications possible and enables the Company to properly bill for services. 
+Back to top »
 
-Currently, the Company discloses location information to third parties when required to do so to provide services, or in emergency situations to provide such information to emergency medical services providers, fire or law enforcement officials. The law also permits the Company to disclose location information without consent to inform a user's legal guardian or members of a user's immediate family of the user's location in an emergency situation, or to providers or managers of information in order to assist in the delivery of emergency services, or to government agencies if the Company reasonably believes that an emergency involving immediate danger of death or serious physical injury justifies disclosure without delay. 
+EFI may share your information, including Personal Information, within EFI or with any unaffiliated third party, including EFI’s partners, as described in this section. EFI’s partners include independent vendors, suppliers, licensors, contractors, distributors, resellers, dealers, OEMs and other parties who have a business relationship or a potential business relationship with EFI.
 
-WHAT ABOUT USE IN ON-LINE SHOPPING? 
+Fulfillment of Products and/or Services Provided by or for EFI: EFI may retain other companies and individuals to perform certain functions on our behalf. Examples include, but are not limited to: (i) companies that help to administer the EFI Websites; (ii) companies that help to process an order for a product, which may include completing the order, obtaining export clearance, or arranging for shipping and handling; (iii) companies that provide payment and billing services; (iv) companies that conduct surveys or assist EFI in its promotional activities such as contacting you by email or over the telephone; (v) shipping companies that deliver products, third party advertisers or promotional partners who provide a product or service to you; (vi) customer support specialists; (vii) web hosting and internet service providers; and (viii) data analysis firms. Any such third parties who are involved in these activities are authorized to use the information that is collected by and/or disclosed to them for purposes of fulfilling their contractual obligations to EFI, fulfilling any obligations owed to you and to the other individuals who access and use the EFI Websites or services, or as otherwise permitted in this Privacy Statement. EFI requires that any such third parties protect the confidentiality of Personal Information they collect or have access to in the course of their engagement by EFI.
 
-  
-Through some of the Company's products and service, you may be able to purchase products or services or register to receive materials such as newsletters, catalogs and new product and service updates. In many cases you will be asked to provide contact information and possibly credit card information. If you complete an order for someone else, such as an online gift order to be sent directly to a recipient, you may be asked to provide information about that recipient. You should be aware that the Company has no control over third parties' use of any information you provide to such a third party when placing an order. Please exercise caution when doing so. If you order products or service directly from the Company, your Personally Identifiable Information will be subject to this Notice and the Company will only use your Personally Identifiable Information to process such order and in the other ways described in this Notice. 
+Marketing Materials: From time to time, EFI may share your Personal Information with other companies, so that these third parties may provide you with a special offer or promotion that we think you may find valuable. Unless you specifically tell us that you do not want to receive these special offers, we may share your Information. See How You Can Opt-Out to tell us that you do not want us to share your Personal Information for these purposes.
 
-WHAT ABOUT VOLUNTARY CUSTOMER SURVEYS? 
+Sale or Transfer of Information: In the event of a merger, acquisition, spin-off or other transaction related to EFI, an EFI business unit or a portion of EFI’s assets, EFI may transfer the information collected from you, including Personal Information, to the surviving party, acquiring party or other party related to the transaction. You consent to the sale and transfer of your information as described in this paragraph.
 
-  
-The Company may periodically conduct customer surveys. We encourage you to participate in these surveys because they provide us and our partners and affiliates with important information that helps us improve the types of services and product we offer. We take the information we receive from an individual completing a customer survey and combine it with information we receive from other individuals to create broader, generic responses to the survey questions. We consider the resulting information to be aggregate information that may be shared with third parties. This aggregate information will not contain Personally Identifiable Information. 
+Compliance with Law and Fraud Protection: EFI reserves the right to disclose the information it collects from you if EFI believes in good faith that such disclosure is necessary to comply with applicable law or legal process, to avoid liability for EFI and/or its agents and partners, and/or to protect the rights and property (including intellectual property) of EFI and others, including EFI’s agents, partners and customers. Further, EFI may disclose the information it collects if EFI suspects that an individual or entity has provided fraudulent or illegal information, has committed an illegal, fraudulent or wrongful act or omission, has attempted to pose as someone else, or has attempted an unauthorized use or access of any computer system or website.
 
-WHAT KIND OF SECURITY DOES THE COMPANY USE FOR PERSONALLY IDENTIFIABLE INFORMATION? 
+Back to top »
 
-  
-The Company maintains physical, electronic, and procedural safeguards for information collected through the use of its Web site that is consistent with industry standards and applicable federal regulations. However, you should be aware that the Company has no control over the security of other sites that you visit on the Internet, or from which you buy products or services. 
+**Our Commitment to Data Security**
 
-WHAT ABOUT YOUR COMMUNICATIONS ON OR WITH THE COMPANY'S WEB SITE OR SERVICES? 
+While EFI cannot guarantee complete security of the information we collect from you, we have implemented commercially reasonable physical, electronic and managerial procedures to aid in the prevention of unauthorized access to and improper use of the information we collect from you and to aid in the accurate maintenance of this information. You should be aware, however, that EFI has no control over the security of other websites or services on the Internet that you might visit even when a link may appear to direct you to websites and services from EFI. We want you to feel confident using the EFI Websites; however, no system, can be completely secure. Therefore, although we take commercially reasonable steps to secure your information, we do not promise, and you should not expect, that your Personal Information, other communications or content always will remain secure.
 
-  
-Except as stated in this Notice with respect to Personally Identifiable Information, or the Terms of Use for the applicable product or service, transmissions and other voluntary submissions of your information to and from the Company's web site or through the use of other services are not confidential, and you should be aware that your transmissions may be read or intercepted by others. These transmissions may include emails, posting to public bulletin boards or chat rooms, and submissions or contributions of text or scanned images. You acknowledge that except as stated in this Notice, the applicable Terms of Use, and any other policies posted or provided to you by the Company, there is no confidential, fiduciary or contractual relationship, either implied or explicit, created between you and the Company with respect to these submissions. 
+Back to top »
 
-WHAT ABOUT INFORMATION PROVIDED IN PUBLIC FORUMS? 
+**Third Party Links**
 
-  
-Any information that is disclosed in public areas of the Company web site or public areas offered through any of the Company's products or services will become public information. The Company cannot control the use of information disclosed in Public Forums, such as bulletin boards and chat rooms. You should exercise caution when disclosing information in these public areas and should refrain from disclosing Personally Identifiable Information. 
+The EFI Websites contain links to other websites. Please be aware that EFI cannot control and is not responsible for the information collection practices of such websites, which may differ from those of EFI. When you leave an EFI Website, we encourage you to read the privacy policies of each website that you visit before providing any information to such websites.
 
-HOW CAN A USER HELP TO PROTECT HIS OR HER PERSONALLY IDENTIFIABLE INFORMATION? 
+Back to top »
 
-  
-An important part of protecting the security of Personally Identifiable Information is your efforts to protect against unauthorized access to your product or service, wireless device, user name and password, and computer. You should not share your user information, identification and password with others. You should also make certain to sign off your computer and/or any product or service when you are finished. Always make certain to log out of any site when you are finished viewing personal account information. 
+**Users Outside the United States**
 
-Except as stated in this Notice and in the applicable Terms of Use, the Company makes no representations or warranties about the security of any wireless or web services or that your use will be error-free, uninterrupted, or free of infection by viruses or other malicious codes or acts of third parties. 
+The information that EFI collects from you may be collected, transferred to, stored and processed in the United States and any other country in which EFI and its agents and partners maintain facilities. The data protection and other laws of the United States and other applicable countries might not be as comprehensive as those in your country. By using an EFI Website or providing your information to EFI or its agents and partners, you consent to your information being collected, transferred to, stored and processed in the United States and other applicable countries. If you do not agree to this provision, do not provide information to us.
 
-HOW DOES THIS PRIVACY POLICY APPLY TO CHILDREN? 
+Back to top »
 
-  
-The Company recognizes that parents may purchase products and services for family use, including for use by minors. Any information collected from such usage will appear to be that of the subscriber (the parent) and be treated as such under this Notice. Further, in accordance with the Children's Online Privacy Protection Act and this Notice, the Company does not design or intend for its products or services to collect Personally Identifiable Information from children under the age of 13. If the Company's policies change in that regard, it will obtain verifiable parental consent before any collection, use or disclosure of such information. However, if a child under 13 uses a service or product with or without your permission to access a site on the Internet, that site's privacy policy will govern that child's use of the site, including treatment of information your child provides to that site. Such use of information is outside the control of the Company, but we encourage you to be involved in the online activities of your children to ensure that no information is collected from a child under 13 without parental permission. 
+**Our Commitment to Children's Privacy**
 
-HOW CAN YOU CHECK ACCOUNT INFORMATION OR CHANGE YOUR PROFILE? 
+Protecting the privacy of the very young is especially important. For that reason, we do not collect or maintain information at the EFI Websites from those we actually know are under 13, and no part of the EFI Websites are structured to attract anyone under 13. If EFI becomes aware that any person submitting Personal Information to us is under the age of 13, we will delete that Personal Information.
 
-  
-If you are registered, you may change your password, and certain other information by logging into your account at www.printme.com. You may also contact a service representative for assistance. 
+Back to top »
 
-WHAT ABOUT DISPUTES? 
+**How You Can Access and Correct Your Information**
 
-  
-Any dispute over this Notice or its application to you is subject the terms of the applicable Terms of Use. 
+You can request access to correct your Personal Information by contacting us at the following:
 
-WILL THIS NOTICE BE CHANGED IN THE FUTURE? 
+Email: [efi@efi.com](mailto:efi@efi.com)  
+Telephone: 1-877-541-2345  
+Mail Address:  
+Electronics For Imaging, Inc.  
+Attention: Privacy Policy  
+40 24th Street  
+Pittsburgh, PA 15222
 
-  
-The Company may update this Notice in the future for a variety of reasons including, but not limited to, changes in the products or service offering, changes in the technology or the way services are provided or due to the introduction of new services. The Company may also update this Notice and/or change the way Personally Identifiable Information and/or other information is collected and used due to changes in state and federal regulations. You should refer back to this page often for the latest information. 
+You may correct factual errors in your Personal Information by sending us a request that credibly shows error. EFI reserves the right to verify your identity before granting access to this information or making corrections, and reserves the right to deny access to anyone who does not confirm their identity to EFI’s satisfaction.
 
-HOW CAN YOU CONTACT US? 
+Back to top »
 
-  
-The Company is committed to the policies set forth in this Notice. If you have any questions, comments or concerns about this Notice, please contact the Company at Electronics For Imaging, Inc., 303 Velocity Way, Foster City, CA 94404. You may also contact us with any other questions about your service or account by e-mail at support@printme.com. 
+**How You Can Opt-Out**
 
-* * *
+You have choices about how your information is used by EFI and shared with third parties. For any commercial emails that you receive from EFI, you have the option to unsubscribe to those messages by following the instructions in the applicable email. Please note that if you unsubscribe, but later request to receive commercial emails from EFI, you will receive these commercial emails and be subject to this Privacy Statement, but will continue to have the right to unsubscribe again if you desire.
+
+You also may contact us as described below to unsubscribe from receiving commercial emails from EFI.
+
+If you do not want EFI to share your Personal Information with third parties so that they may send you information concerning products or services that we believe may be of interest, you may opt-out as described below.
+
+To opt-out, please send an email to [efi@efi.com](mailto:efi@efi.com) as follows:
+
+  * To opt-out of receiving commercial email messages from EFI, include in the subject line of your message: “Remove EFI.”
+  * To opt-out of having your information shared with third parties, include in the subject line of your message: “Remove Third Parties.”
+
+
+
+Please note that your opt-out rights only apply as described above. EFI may still use and share your information as described in this Privacy Policy to, for example, send you administrative, transactional or relationship messages concerning a product or service you order, otherwise fulfill orders you make or as required by law. See How We Share Your Information for further details. In addition, if your information already has been shared with a third party, like an EFI partner, and you no longer wish to receive commercial emails from that party, you must follow the unsubscribe instructions from the applicable third party.
+
+Back to top »
+
+ **How to Contact Us**
+
+We welcome questions or comments about our Privacy Statement. You may also contact us if you feel that your information is used in a way inconsistent with this Privacy Statement. You can do this by contacting us as follows:
+
+Email: [efi@efi.com](mailto:efi@efi.com)  
+Telephone: 1-877-541-2345  
+Mail Address:  
+Electronics For Imaging, Inc.  
+Attention: Privacy Policy  
+40 24th Street  
+Pittsburgh, PA 15222
+
+Back to top »
+
+**Privacy Statement Updates**
+
+EFI may revise its Privacy Statement from time to time. Please revisit this site on a regular basis to check for any revisions and EFI’s then-current Privacy Statement. When we post changes to this Privacy Statement, we will revise the updated date at the bottom of this Privacy Statement.
+
+Date of this Last Policy Update: October 29, 2010
+
+Back to top »
