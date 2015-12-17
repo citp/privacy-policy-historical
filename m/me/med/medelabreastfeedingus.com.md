@@ -1,8 +1,13 @@
-> *The following text is extracted and transformed from the medelabreastfeedingus.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607215034id_/http%3A//www.medelabreastfeedingus.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the medelabreastfeedingus.com privacy policy that was archived on 2015-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151217222351id_/http%3A//www.medelabreastfeedingus.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Medela
 
-[Home](https://web.archive.org/) > Privacy Policy
+## Breadcrumb navigation
+
+  1. [Home](https://web.archive.org/)
+  2. Privacy Policy
+
+
 
 Medela, Inc. has created this privacy policy (“Privacy Policy”) in order to demonstrate our firm commitment to adhering to federal and state privacy laws and industry guidelines in order to protect your privacy.  This Privacy Policy discloses our information gathering and dissemination practices for the site available at [www.Medela.com](http://www.medela.com/) and any related services or applications owned by Medela, Inc. (this “Site”).  This Privacy Policy applies only to this Site, not to any other web sites that may be accessible from here.  Please note that when you access any external links from this Site, they may have different privacy policies specific to those sites. We encourage you to read all applicable privacy policies.
 
@@ -255,7 +260,7 @@ You should review this Privacy Policy carefully, because if you do not agree wit
 
 Our Site provides users the opportunity to opt-out of receiving communications from us at the point where we request information about the visitor.  If you have submitted personally identifiable information through the Site, or if someone else has submitted your Personally Identifiable Information through the Site, and you would like to have that information deleted from our marketing databases, please contact us via email.  We will then use reasonable efforts to remove your personally identifiable information from our files.  You also may contact us to request the Personally Identifiable Information that Medela, Inc. has collected about you through the Site.  Medela, Inc. will use commercially reasonable efforts to supply you with this information and correct any factual inaccuracies in this information.  You have the following options for reviewing or removing your information from our database to no longer receive communication from us.  If you request your account information be deleted from our database, we may maintain information about individual sales transactions for recordkeeping and servicing.
 
-1.     You can send email to [privacy@Medela.com](mailto:privacy@Medela.com).
+1.     You can send an email from our [Privacy Email Submission Form](https://www.medelabreastfeedingus.com/privacy-policy-email).
 
 2.     You can send mail to the following postal address:
 
@@ -273,6 +278,6 @@ This Site is not intended for children under the age of 13.  We will not knowin
 **  
 ****Questions About Our Privacy Policy**
 
-If you have questions about our Site and our Privacy Policy or [Terms and Conditions of Use](https://web.archive.org/terms-and-conditions), please feel free to contact us at [privacy@Medela.com](mailto:privacy@Medela.com).  The revised Privacy Policy will be posted on this Site If the Privacy Policy changes.  Please check back periodically, and especially before you provide any Personally Identifiable Information.  Changes will not apply retroactively to personal information that was collected before the changes to the Privacy Policy, except as may be required by law.
+If you have questions about our Site and our Privacy Policy or [Terms and Conditions of Use](https://web.archive.org/terms-and-conditions), please feel free to contact us by filling out our [Privacy Email Submission Form](https://www.medelabreastfeedingus.com/privacy-policy-email).  The revised Privacy Policy will be posted on this Site If the Privacy Policy changes.  Please check back periodically, and especially before you provide any Personally Identifiable Information.  Changes will not apply retroactively to personal information that was collected before the changes to the Privacy Policy, except as may be required by law.
 
 DP 64.01.0502, Privacy Policy & Notice of Privacy Practices, Rev. D, May 1, 2015
