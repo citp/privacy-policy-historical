@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the trudog.com privacy policy that was archived on 2015-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150619033120id_/http%3A//trudog.com/home/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trudog.com privacy policy that was archived on 2015-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151217032033id_/http%3A//trudog.com/home/privacy-policy) for the most accurate reproduction.*
 
-# TruDog® » Privacy Policy
+# Privacy Policy – TruDog®
 
 **What information do we collect?**
 
@@ -67,9 +67,9 @@ This online privacy policy applies only to information collected through our web
 
  **Terms and Conditions**
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at <http://trudog.com/termsandconditions>
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [http://trudog.com/home/terms-and-conditions/](http://trudog.com/termsandconditions)
 
-**Your Consent**
+ **Your Consent**
 
 By using our site, you consent to our [websites privacy policy](http://www.freeprivacypolicy.com/).
 
@@ -84,10 +84,11 @@ This policy was last modified on March 6th, 2014
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
 [Contact Us!](http://trudog.com/home/contact-us/)  
-100 Technecenter ste 210  
-Milford, OH 45150  
-United States  
+TruPet  
+4025 Tampa Rd  
+Suite 1117  
+Oldsmar, FL 34677  
 support@trudog.com  
-1-800-476-8808
+1-844-259-2763
 
 This policy is powered by Trust Guard, your [PCI compliance](http://www.trust-guard.com/PCI-Compliance-s/65.htm) authority.
