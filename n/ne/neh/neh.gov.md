@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the neh.gov privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629164012id_/http%3A//www.neh.gov/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the neh.gov privacy policy that was archived on 2015-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151217180753id_/https%3A//www.neh.gov/privacy) for the most accurate reproduction.*
 
-# NEH.gov Privacy Policy | National Endowment for the Humanities
+# NEH.gov Privacy Policy and Terms of Use | National Endowment for the Humanities
 
   1. Privacy Statement
   2. Personal Information
@@ -22,13 +22,13 @@ TOP
 
 ###  PERSONAL INFORMATION
 
-If you provide us with information about yourself via e-mail or our website, your information will be used only for the purposes described at the point of collection, such as to send you information or to respond to your questions or comments. If you provide contact information, NEH staff or our contractors or partners may contact you to clarify your comment or question, or to learn about your satisfaction with our services.
+If you provide us with information about yourself via e-mail or our website, we will only use your information for the purposes described at the point of collection, such as to send you information or to respond to your questions or comments. If you provide contact information, NEH staff or our contractors or partners may contact you to clarify your comment or question, or to learn about your satisfaction with our services.
+
+We also may share information you give us with another government agency if your inquiry relates to that agency. In other limited circumstances, such as responses to requests from Congress and private individuals, we may be required by law to disclose information you submit.
 
 We do not sell any personal information to third parties. We never collect information or create individual profiles for commercial or marketing purposes.
 
-If you apply online to NEH programs, we use the information you submit to determine eligibility, assist reviewers in evaluating the application, select successful applicants, and administer the award program. Some of the reviewers will be outside the agency; we will take appropriate security measures with the information that we share with them. The information otherwise would be disclosed only for a governmental purpose or as required by law.
-
-We also may share information you give us with another government agency if your inquiry relates to that agency. In other limited circumstances, such as responses to requests from Congress and private individuals, we may be required by law to disclose information you submit.
+If you apply online to NEH programs, we use the information you submit to determine eligibility, assist reviewers in evaluating the application, select successful applicants, and administer the award program. Some of the reviewers will be outside the agency; we will take appropriate security measures with the information that we share with them. NEH may disclose or transfer information you submit in connection with an application for a governmental purpose or when required by law.
 
 TOP
 
@@ -80,7 +80,7 @@ TOP
 
 ###  THIRD-PARTY WEBSITES AND APPLICATIONS
 
-We use third-party websites and applications to publicize agency events, increase awareness of NEH programs, and interact with those interested in the agency work. We do not use third-party websites and applications to solicit and collect personally identifiable information (PII) from individuals, and we do not transmit or store any PII collected by third party websites and applications. Unless required for law enforcement purposes or by statute, no PII will be disclosed, sold or transferred to any other entity outside NEH.
+We use third-party websites and applications to publicize agency events, increase awareness of NEH programs, and interact with those interested in the agency work. We do not use third-party websites and applications to solicit and collect personally identifiable information (PII) from individuals, and we do not transmit or store any PII collected by third party websites and applications.
 
 TOP
 
@@ -92,9 +92,9 @@ We do not guarantee that external websites comply with the requirements of Secti
 
 Once you link to another website, you are subject to the privacy policy and terms and conditions of the new website. We encourage you to read the privacy policies of any website you link to from ours, especially if you share any personal information. Be informed. You are the person best qualified to protect your own privacy.
 
-External links on this website are intended to support NEH's mission. They are not intended to support private or commercial organizations or businesses. Links to .org, .gov, .edu, .mil or other non-profit websites that share interests inherent to NEH's mission are encouraged because of their general non-commercial, public-interest nature. Links to .com, .net, and other commercial domains are acceptable if supportive of users' needs and relevant to NEH's mission. However, be advised that we cannot support a volume or constant update of changing external links that exceed our resources for this maintenance.
+External links on this website are intended to support NEH's mission. They are not intended to support private or commercial organizations or businesses. NEH may use links to .org, .gov, .edu, .mil or other non-profit websites that share interests consistent with NEH's mission because of their general non-commercial, public-interest nature. NEH may use links to .com, .net, and other commercial domains if they support users' needs and are relevant to NEH's mission. NEH may add external links to or remove external links from its website at any time, in its sole discretion.
 
-We reserve the right to review links and add or remove links at any time for any reason consistent with Federal policy or NEH guidance. Links to external websites may be removed if the websites lobby or solicit the Federal government on positions of fiscal or political nature, or if they receive funds or revenue for volume of traffic delivered from NEH to the external site where the site is not an official partner of NEH. Except for partnerships, NEH does not agree to reciprocal link arrangements.
+Except for partnerships, NEH does not agree to reciprocal link arrangements.
 
 TOP
 
@@ -106,7 +106,7 @@ Images of artworks and other materials on this website are protected by copyrigh
 
 _COMMERICAL USE IS RESTRICTED_
 
-Unauthorized commercial publication or exploitation of protected text, images, content or other materials from our website is specifically prohibited. Anyone wishing to use any of the protected materials on our website for commercial use, publication, or any purpose other than fair use as defined by law, must request and receive prior written permission from the individual intellectual property rights holder(s). Please note that it is your responsibility to identify the individual intellectual property rights holder(s) and to obtain permission before making use of this material in any way.
+NEH strictly prohibits unauthorized commercial publication or exploitation of protected text, images, content or other materials from our website. Anyone wishing to use any of the protected materials on our website for commercial use, publication, or any purpose other than fair use as defined by law, must request and receive prior written permission from the individual intellectual property rights holder(s). Please note that it is your responsibility to identify the individual intellectual property rights holder(s) and to obtain permission before making use of this material in any way.
 
 _WARRANTY_
 
