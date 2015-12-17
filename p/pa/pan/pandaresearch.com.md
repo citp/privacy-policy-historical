@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pandaresearch.com privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612165720id_/http%3A//www.pandaresearch.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pandaresearch.com privacy policy that was archived on 2015-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151217071141id_/http%3A//www.pandaresearch.com/privacy) for the most accurate reproduction.*
 
 # Panda Research Privacy Policy
 
@@ -56,7 +56,7 @@ PandaResearch does not rent, sell, or share User information, except in the foll
 
 (e) We provide User information to trusted partners in order to enhance the service provided to our Users
 
-(f) All emails you receive from Pandaresearch will come from Pandaresearch, so you may easily distinguish our emails. We will never share your email with third party marketing companies. Your email will only be shared with All Inbox, LLC, Restoration Media for Job Alerts, Pandaresearch mailing partners. 
+(f) All emails you receive from Pandaresearch will come from Pandaresearch, so you may easily distinguish our emails. We will never share your email with third party marketing companies. 
 
   * **III. CO-REGISTRATION**
     1. **Definition**
