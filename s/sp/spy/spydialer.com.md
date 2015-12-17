@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spydialer.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608065125id_/http%3A//www.spydialer.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spydialer.com privacy policy that was archived on 2015-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151217202428id_/http%3A//www.spydialer.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | Spy Dialer
 
@@ -10,7 +10,7 @@ Effective Date: August 6, 2014
 
 1.1. PURPOSE OF POLICY. SpyDialer.com (“us,” “we,” or “Company”) is committed to respecting the privacy rights of users of http://www.spydialer.com (the “Site”). We created this Privacy Policy (this “Policy”) so you can understand our information collection, storage and use policies. 
 
-1.2. OPT OUT. You may opt your cell phone out of being spy dialed, free of charge, by visiting out [opt-out page](https://web.archive.org/web/20150608065125id_/http%3A//www.spydialer.com/OptOut.aspx). 
+1.2. OPT OUT. You may opt your cell phone out of being spy dialed, free of charge, by visiting out [opt-out page](https://web.archive.org/web/20151217202428id_/http%3A//www.spydialer.com/OptOut.aspx). 
 
 1.3. NOTICE CONCERNING CHILDREN. This Site is not targeted towards children under the age of 13 nor intended to be used by them in any manner whatsoever. Should you be aware of any child under 13 using the Site, please contact us so that we may terminate their account. 
 
@@ -61,7 +61,7 @@ We also store email messages you send to us. This information may not be edited 
 
 B. Credit Card Information. We do not store credit card information you provide with orders. However, our credit card processing company authorize.net does. Their privacy policy can be seen at <http://www.authorize.net/company/privacy/>
 
-C. Modification or Removal Process. If you wish to remove or modify any of your personally identifiable information, please login to your account and do so. Cell phone numbers previously spy dialed cannot be edited or removed. Said information in older data backups may not be deleted or modified. If you wish to remove your cell phone number from being spy dialed, visit our [opt-out page](https://web.archive.org/web/20150608065125id_/http%3A//www.spydialer.com/OptOut.aspx). 
+C. Modification or Removal Process. If you wish to remove or modify any of your personally identifiable information, please login to your account and do so. Cell phone numbers previously spy dialed cannot be edited or removed. Said information in older data backups may not be deleted or modified. If you wish to remove your cell phone number from being spy dialed, visit our [opt-out page](https://web.archive.org/web/20151217202428id_/http%3A//www.spydialer.com/OptOut.aspx). 
 
 D. Privacy Policy Modifications and Updates. If we modify or update this privacy policy, we will notify you by posting a notice on the Site for 30 days. 
 
@@ -89,7 +89,7 @@ B. ANONYMOUS INFORMATION. We use anonymous information to analyze our Site traff
 
 C. DISCLOSURE OF PERSONAL INFORMATION. We may disclose personal information if required to do so by law or in the good-faith belief that such action is necessary to (1) conform to the edicts of the law or comply with legal process served on Company or its parent company, subsidiaries or affiliates, (2) protect ours or others rights, property or safety, or (3) act under exigent circumstances to protect the safety of the public or users of the Site. 
 
-D. ADDRESS BOOK INFORMATION. When a user submits their address book, we add the information to our website database to provide search results to other users. By submitting your address book to us, you transfer any and all legal rights to said information in consideration of being allowed to make additional spy dials. We reserve the right to store, use, rent, lease, and sell this information in our sole discretion to associated people/phone search services including SkipSmasher.com. At no time will the address book information be used for marketing or spam. 
+D. ADDRESS BOOK INFORMATION. When a user submits their address book, we add the information to our website database to provide search results to other users. By submitting your address book to us, you transfer any and all legal rights to said information in consideration of being allowed to make additional spy dials. We reserve the right to store, use, rent, lease, and sell this information in our sole discretion to associated people/phone search services. At no time will the address book information be used for marketing or spam. 
 
 4\. SECURITY 
 
@@ -103,4 +103,4 @@ D. ADDRESS BOOK INFORMATION. When a user submits their address book, we add the 
 
 6.1. CONTACTING US. If you have any questions about this Policy or our practices related to this Site please contact us by accessing the “Contact” link at the bottom of each Site page. 
 
-6.2 LEGAL NOTICES. Any legal notices must be sent to Skip Smasher, Inc., Attn: Legal Dept., PO Box 890370, Temecula, CA 92589 
+6.2 LEGAL NOTICES. Any legal notices must be sent to Spy Dialer, Inc., Attn: Legal Dept., PO Box 890370, Temecula, CA 92589 
