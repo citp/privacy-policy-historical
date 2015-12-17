@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the photonics.com privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612122414id_/http%3A//www.photonics.com/Article.aspx%3FAID%3D35715) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the photonics.com privacy policy that was archived on 2015-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151217160807id_/http%3A//www.photonics.com/Article.aspx%3FAID%3D35715) for the most accurate reproduction.*
 
-# Privacy Policy | Dec 2013 | Sponsored Content
+# Privacy Policy | Photonics Media
 
 Laurin Publishing Co., Inc. is firmly committed to protecting the privacy of those who visit our websites. Because we do gather certain types of information regarding our visitors, we want you to fully understand the terms and conditions surrounding the gathering and use of that information. This Privacy Policy explains what information we collect, how we use it, and how our visitors can correct or change it.
 
