@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iuniverse.com privacy policy that was archived on 2015-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150617233024id_/http%3A//www.iuniverse.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iuniverse.com privacy policy that was archived on 2015-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151217195929id_/http%3A//www.iuniverse.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy -- iUniverse
 
