@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nileshopper.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627063911id_/http%3A//www.nileshopper.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nileshopper.com privacy policy that was archived on 2015-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151217210203id_/http%3A//www.nileshopper.com/privacy-policy) for the most accurate reproduction.*
 
 # NileShopper |
 
