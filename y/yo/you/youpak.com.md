@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the youpak.com privacy policy that was archived on 2015-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150529034821id_/http%3A//www.youpak.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the youpak.com privacy policy that was archived on 2015-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151217213910id_/http%3A//www.youpak.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - youpak.com
+# Privacy Policy - YouPak.com
 
 ### What information do we collect?
 
@@ -28,4 +28,4 @@ If we decide to change our privacy policy, we will post those changes on this pa
 
 ### Contacting Us
 
-If there are any questions regarding this privacy policy you may contact us by using [this contact form](https://web.archive.org/web/20150529034821id_/http%3A//www.youpak.com/contact).
+If there are any questions regarding this privacy policy you may contact us by using [this contact form](https://web.archive.org/web/20151217213910id_/http%3A//www.youpak.com/contact).
