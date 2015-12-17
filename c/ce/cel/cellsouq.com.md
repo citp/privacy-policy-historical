@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cellsouq.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608173439id_/http%3A//www.cellsouq.com/about%3Fn%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cellsouq.com privacy policy that was archived on 2015-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151217015503id_/http%3A//www.cellsouq.com/about%3Fn%3Dprivacy) for the most accurate reproduction.*
 
 # Privacy Policy | CellSouq.com
 
