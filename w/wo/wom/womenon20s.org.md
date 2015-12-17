@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the womenon20s.org privacy policy that was archived on 2015-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150618180629id_/http%3A//www.womenon20s.org/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the womenon20s.org privacy policy that was archived on 2015-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151217054653id_/http%3A//www.womenon20s.org/privacy_policy) for the most accurate reproduction.*
 
-# Privacy Policy - Women on 20s - Virtual March May 11
+# Privacy Policy - Women on 20s
 
 #### LAST REVISED: AUGUST 30,2014
 
