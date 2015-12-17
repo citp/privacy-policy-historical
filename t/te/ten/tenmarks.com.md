@@ -1,140 +1,94 @@
-> *The following text is extracted and transformed from the tenmarks.com privacy policy that was archived on 2015-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150613062344id_/https%3A//www.tenmarks.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tenmarks.com privacy policy that was archived on 2015-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151217105611id_/http%3A//www.tenmarks.com/privacy-policy) for the most accurate reproduction.*
 
 # TenMarks Privacy Policy
 
 ### Privacy Policy
 
-#### Acceptance
+#### Last Modified: July 31, 2015
 
-TenMarks Education, LLC. (TenMarks) feels strongly about protecting your privacy and the privacy of a student. TenMarks WILL NOT sell, trade, or assign any unaggregated, personally-identifiable personal information that it collects to third parties outside of TenMarks. If you have any questions, concerns or comments regarding this privacy policy, you may contact us at the email and address posted at the end of this policy statement. We are committed to addressing your privacy or security questions or concerns.
+At TenMarks Education LLC, we understand how important privacy is to our customers, and we are committed to providing a safe and secure learning experience for students, educators, and parents who use our websites, services, and software (collectively, our "Programs"). As a subsidiary of Amazon.com, Inc., the information we receive is subject to the Amazon.com Privacy Notice at <http://www.amazon.com/privacy> (as supplemented by this policy).
 
-  
+We provide additional privacy safeguards to the students who use our Programs, and we have signed the [Student Privacy Pledge](http://studentprivacypledge.org/).
 
-
-#### 1\. Information Collected by TenMarks
-
-In order for you to participate in the TenMarks Beta Program, the TenMarks Free Trial Program, and/or other TenMarks products (the "Programs"), you must register on TenMarks. This registration process will require you to provide your name, email addresses, phone number, school and grade level information of the students you're registering, and, if payment will be required for the Programs, your credit card information, including billing address. We call this information "Registration Information."
+This policy describes our privacy practices for Student Information we receive about a student's use of our Programs. We use the term "Student Information" in this policy to refer to information that personally identifies a student and other information we receive about a student that is linked to information that personally identifies a student. Student Information does not include de-identified or aggregated information that does not personally identify an individual student.
 
 * * *
 
-  
+#### What Types of Student Information Does TenMarks Receive?
 
-
-#### 2\. How TenMarks will use the information collected from you
-
-Mailing Address: Your mailing address may be used to allow TenMarks to mail you various Program materials and payment receipts. 
+We receive Student Information for educational or school purposes, or as authorized by an educator, parent, or student. This includes, for example, the following types of Student Information:
 
   
-**Email Address** : Email addresses will serve as your username on TenMarks. The email addresses may be used to send a confirmation email at registration, as well as information and updates to the Programs. We will also email reports, with further information about the progress students are making on the Programs. We may use the email addresses as an additional means of communicating with you and your students about the Programs and TenMarks, including notifying you of updates to the Web Site or its related policies. Credit Card Information: With your consent, we may use and save your credit card information to bill you for the Programs. 
 
-  
-**Phone Number** : Your phone number will serve as an alternate way of contacting you for the same purposes as the email address. 
 
+  * **Student Information Provided by Educators or Parents:** We receive information that an educator or parent gives us about a student. This may include, for example, a student's name or identifier and grade level provided by an educator or parent when they register a student for our Programs.
   
-**StudentName** : A student's name will be used to generate their username, passwords, and customize a student's participation in the Programs, as well as to personalize the reports and updates about the student's progress in the Programs. 
 
+  * **Student Information Provided by Students:** Student interactions with our Programs generate data we refer to as "Performance Data." Performance Data may include, for example, the lessons a student chooses to play, when a student starts and stops a lesson, and student responses in the lesson.
   
-**Relationship to Student** : A parent/teacher's relationship to the student will be used for profile and tracking purposes and to personalize the student's reports. 
 
-  
-**Student's School Grade Level** : We will use a student grade level to group Performance Data of students of similar grade levels so we can assess performance by grade level, and improve the program. 
+  * **Student Information We Automatically Receive From the Student's Device:** We receive technical information from the computer or mobile device a student uses to interact with our Programs. This technical information may include, for example, the device operating system, web browser type, and IP address.
 
-  
-**Secondary Uses** : Registration Information and other information may be used by us for demographic profiling, statistical analysis, and targeted advertising, although in such cases, the information will be aggregated as ANONYMOUS statistical information. 
 
-  
-**Participation History** : The details of any order you place and the Programs you or a student choose will be collected for customer service, marketing and business purposes. 
 
 * * *
 
+#### How Does TenMarks Use the Student Information It Receives?
+
+We use Student Information for educational or school purposes, or as authorized by a parent or student. In general, we use Student Information to provide students the best possible educational experience on our Programs. For example, we use Student Information:
+
   
 
 
-#### 3\. Information TenMarks collects directly from a student
+  * **To Customize and Personalize Our Programs:** We use Student Information to provide access to and to customize and personalize our Programs. For example, we may use a student's Performance Data to adapt our Programs to a student's unique needs, make adaptive learning recommendations, and to personalize the reports and updates about a student's progress we send to educators and parents.
+  
 
-TenMarks collects information directly from a student, over the Internet, in the form of the interactions that a student makes when participating in the Programs. We refer to the data resulting from such participation, which includes but is not limited to data on when a student starts and stops a lesson, the responses a student makes to questions asked, the timing of a student's student, a student's choice of character and customizations, and the choice of lessons to play as "Performance Data." We will use Performance Data to (1) measure a student's performance in each lesson of the TenMarks Programs and to adapt the Programs to his or her education needs, (2) analyze a student's Performance Data, and provide the student and the associated parent/educator with periodic progress reports about a student's performance in the Programs, and (3) improve the Programs. If we ever need to collect information that is not Performance Data directly from a student, TenMarks will seek your authorization prior to collecting such additional information from a student. In addition, we may aggregate a student's Performance Data with the Performance Data of other students participating in the Programs for marketing and other business related purposes. Aggregate information will be ANONYMOUS and will not identify a student.
+  * **To Assess Student Performance:** We use Student Information to assess student performance and provide updates and reports about a student's progress to educators and parents. For example, we may group Performance Data of similar students to assess performance by level.
+  
+
+  * **To Support, Provide, and Improve Our Programs and Offerings:** We use Student Information to support, provide, and improve our Programs and offerings. For example, we may use Student Information to provide technical and customer support.
+
+
 
 * * *
 
-  
+#### Does TenMarks Share Student Information?
 
-
-#### 4\. Opting-out of providing the information we request
-
-Because the TenMarks Programs are individualized and customized for each student, all the information we request from you and students are required for you and a student to participate in the Programs, with the exception of certain information to be used for our marketing purposes to you only. At any time, you may revoke your consent to allowing a student to participate in the TenMarks Programs or refuse to allow TenMarks to further use or collect a student's personal information. Any ANONYMOUS performance data will be retained, but we will no longer use any identifiable information regarding you or a student that you have provided. However, if you do any of the foregoing, you and a student will not be able to participate in the Programs.
-
-#### 5\. Reviewing and changing your informationt
-
-You may review and modify your Registration Information at any time by accessing our website using your password, and sending us a support mail with a request to change it.
-
-#### 6\. Consent
-
-In order to use the Programs, you and/or your student(s)are asked to submit certain personal information about yourselves and to authorize TenMarks to use that information in a limited number of ways. We ask you and/or the student to ensure that the Parent/Educator has reviewed and submitted a Consent as part of the registration process, which will require you to consent to our collection and use of information directly from a student over the Internet as described above.
-
-#### 7\. Password Protection
-
-You and your students will be assigned a password each to access the Programs through our website, and this password will be used to allow you and the students to use the Programs. The passwords should be kept confidential. Your password will also allow you to review and change the information we collect about you and students. 
-
-#### 8\. Protecting your information
-
-No data transmissions over the Internet can be guaranteed to be 100% secure. Consequently, we cannot ensure or warrant the security of any information you transmit to us and you do so at your own risk. TenMarks has multiple security measures in place to protect the loss, misuse or alteration of information under our control. Please note that this Program is hosted in North America. If you are visiting from the European Union or other regions with laws governing data collection and use that may differ from U.S./Canadian laws, please note that you are transferring your personal data to the United States/Canada, which does not have the same data protection laws as the EU or other regions and by providing your personal data you consent to the use of your personal data for the uses identified above in accordance with this Privacy Policy; and the transfer of your personal data to the United States/Canada as indicated above.
-
-#### 9\. Your information and third parties
-
-Except as provided in this Privacy Policy, TenMarks WILL NOT disclose the information that it obtains from you to third parties without your express written permission, or where we believe, in good faith, that the law requires us to disclose the information. TenMarks WILL NOT sell, trade, or assign any unaggregated personal information that it collects to third parties outside of TenMarks. We, however, may aggregate the information that we collect from users of our website to create demographic profiles and performance profiles regarding the progress of students who use the Programs. TenMarks may share aggregated information with marketing professionals, or potential investors. This aggregated information will be compiled and reported in the form of ANONYMOUS group statistics only. Notwithstanding anything to the contrary, as TenMarks continues to develop its business, it might sell some or all of its assets. In such transactions, customer information is generally one of the transferred business assets. An acquiring company would be required to protect all information that TenMarks collects from users of our website and Programs in accordance with the terms of this Privacy Policy.
-
-#### 10\. Unsolicited third-party promotional emails
-
-TenMarks will not send you unsolicited third-party promotional emails.
-
-#### 11\. Use of cookies
-
-As a standard practice, TenMarks uses "cookies". A cookie is a small amount of data sent to your browser from our web server and stored on your computer, then sent back to the server by your browser each time you access our website. Cookies enable us to track usage of our website. In addition, cookies are required for the operation of the Programs. Please note that if you refuse the TenMarks cookie (by turning cookies off in your browser or by clicking "don't accept" if you have set your browser to warn you before accepting cookies), our Programs will not work. Cookies cannot be used to gather personal information from your computer.
-
-#### 12\. Children's Online Privacy Protection Act
-
-Congress has enacted a law called the Children's Online Privacy Protection Act of 1998 (COPPA) which is designed to protect children's privacy during use of the Internet. TenMarks has implemented practices consistent with the guidelines provided by the Federal Trade Commission to date. TenMarks will never knowingly request personally identifiable information or private content from anyone under the age of 13 without parental or educator consent. TENMARKS DOES NOT SHARE CHILDRENS PERSONALLY IDENTIFIABLE INFORMATION WITH THIRD PARTIES. If you are a parent, legal guardian, or educator of a user under 13 you may, at any time, revoke your consent to allow a student to use the Programs under your subscription, refuse to allow TenMarks to further use or collect a student's personal information, or direct TenMarks to delete all identifiable information regarding a student that you have provided. To do so, please contact our Privacy Officer at the contact information below. However, if you do any of the foregoing, a student will not be able to use the Programs. If you would like more information about COPPA, please go to <http://www.ftc.gov/enforcement/rules/rulemaking-regulatory-reform-proceedings/childrens-online-privacy-protection-rule>. 
-
-#### 13\. The Children's Internet Protection Act
-
-The Children's Internet Protection Act (CIPA) is a federal law enacted by Congress in December 2000 to address concerns about access to offensive content over the Internet on school and library computers. CIPA imposes certain types of requirements on any school or library that receives funding support for Internet access or internal connections from the "E-rate" program - a program that makes certain technology more affordable for eligible schools and libraries. Our Programs do not provide links to external resources or chat rooms, and do not contain any offensive or inappropriate matter. As a result, any school or library that uses TenMarks Programs will be fully compliant with CIPA. If you would like more information about CIPA, please go to <http://www.fcc.gov/cgb/consumerfacts/cipa.html>. 
-
-#### 14\. The Family Educational Rights and Privacy Act
-
-The Family Educational Rights and Privacy Act (FERPA) is a Federal law that protects the privacy of student education records. The law applies to all schools that receive funds under an applicable program of the U.S. Department of Education. FERPA gives parents certain rights with respect to their children's education records. These rights transfer to the student when he or she reaches the age of 18 or attends a school beyond the high school level. TenMarks is fully compliant with FERPA. Specifically: 
-
-  
-1) Any sensitive online information is transmitted over secure channels. 
-
-  
-2) All student data are stored in ways that are not publicly accessible. 
-
-  
-3) Security audits are regularly performed to ensure data integrity. 
-
-  
-TenMarks does not share student information with any third parties. If a school requests that student data should be sent to a third party, with parental consent, TenMarks would send the data to the school and never directly to the third party. If you would like more information about FERPA, please go to <http://www.ed.gov/policy/gen/guid/fpco/ferpa/index.html>. 
-
-#### 15\. Amendments
-
-TenMarks may amend this Privacy Policy from time to time. We may notify you by email regarding any material changes to our privacy and security practices. Please review all revisions to the Privacy Policy. Your continued use of our website(s) and the Programs after the date TenMarks has updates such policies will be deemed to be your agreement to the changed terms.
+We do not sell Student Information to third parties. We will share Student Information only as described below.
 
   
 
 
-#### 16\. Contact Us
+  1. **Educational Institutions, Educators, and Parents:** We provide educational institutions, educators, and parents with progress reports, updates, and other information about their students. These reports and updates may be personalized about an individual student and may include Student Information.
+  
 
-Contact: 
+  2. **Third-Party Service Providers:** We employ other companies and individuals to perform functions on our behalf. Examples include analyzing data and providing customer service. They may have access to Student Information needed to perform their functions, but may not use it for any other purposes.
+  
 
-The Privacy Officer 
+  3. **Business Transfers:** As we continue to develop our business, we might merge with other businesses or sell substantially all of our assets. In such transactions, Student Information would be one of the transferred business assets, but will remain subject to the promises made in this policy.
+  
 
-TenMarks, Education LLC. 
+  4. **Protection of TenMarks and Others:** We release Student Information when we believe release is appropriate to comply with the law; enforce or apply our Terms of Use and other agreements; or protect the rights, property, or safety of TenMarks, our customers, or others.
+  
 
-1633 Bayshore Hwy, Suite 234 
+  5. **Affiliated Businesses:** To provide you the best possible educational experience, we may work closely with Amazon.com, Inc. and the subsidiaries it controls. We may share Student Information with these affiliated businesses, but their use of the Student Information will be subject to the restrictions of this policy.
+  
 
-Burlingame, CA 94010
+  6. **As Authorized:** We may share Student Information with additional third parties for authorized educational or school purposes, or as authorized by the educator, parent, or by the student as permitted by applicable laws and regulations.
 
-Or email us at: [privacy@tenmarks.com](mailto:privacy@tenmarks.com)
+
+
+* * *
+
+#### Can a Student, Educator, or Parent Opt-Out of Providing Student Information?
+
+Our Programs are individualized and customized for each student, so the Student Information we receive is required for a student to use our Programs. At any time, a student, educator, or parent may revoke consent to allowing a student to use our Programs. At a student's, educator's, or parent's request, we will remove, de-identify, or anonymize the Student Information in our Programs, and the student will no longer be able to use our Programs.
+
+* * *
+
+#### Contact us
+
+If you have a comment or question about this Privacy Policy, please contact us at [privacy@tenmarks.com](mailto:privacy@tenmarks.com).
 
   
 
