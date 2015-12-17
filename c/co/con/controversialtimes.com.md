@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the controversialtimes.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627194106id_/http%3A//controversialtimes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the controversialtimes.com privacy policy that was archived on 2015-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151217154707id_/http%3A//controversialtimes.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Controversial Times
+# Privacy Policy and Cookie Usage | Controversial Times
+
+We recommend users visit [AboutCookies.org](http://www.aboutcookies.org/) to learn what cookies are, what they are used for, and how to control cookie access on your own computer or mobile device.
 
 **What information do we collect?**
 
@@ -8,17 +10,25 @@ We collect information from you when you fill out a form. This information inclu
 
 We collect information when you comment on an article. This information includes any fields filled out on the form as well as your IP address. Your name and comment content will be displayed publicly.
 
-_Google_
+**Google**
 
 Google, as a third party vendor, uses cookies to serve ads on your site.  
 Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet.  
 Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
 
+**Third Party Advertisers**
+
+Third party advertisers may use tracking cookies to track non identifying information about your visit to this website and to display the most relevant advertisements possible. 
+
+**Facebook**
+
+We use Facebook’s Open Graph to allow users to easily Like, Share and Comment on our content. Facebook may use its own cookies to allow you, this website, and the Facebook service to interact together.
+
 **What do we use your information for?**
 
 Any of the information we collect from you may be used in one of the following ways:
 
-  * To improve our website  _(we continually strive to improve our website offerings based on the information and feedback we receive from you)_
+  * To improve our website (we continually strive to improve our website offerings based on the information and feedback we receive from you)
   * To respond to requests submitted by you such as requests for contact or advertising
   * When using our commenting system, your name and comment content will be displayed publicly. Your email address and IP address will be stored privately, in our database.
 
@@ -33,6 +43,8 @@ We implement a variety of security measures to maintain the safety of your perso
 Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information
 
 We use cookies to keep track of advertisements and make sure redundant information is not displayed.
+
+We recommend users visit [AboutCookies.org](http://www.aboutcookies.org/) to learn what cookies are, what they are used for, and how to control cookie access on your own computer or mobile device.
 
 **Do we disclose any information to outside parties?**
 
@@ -71,6 +83,7 @@ By using our site, you consent to our privacy policy and terms of use. These ter
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
 ControversialTimes.com  
-2126 Easy Victory Dr. Suite 138  
-Savannah, GA 31401  
+1000 N West St  
+STE 1501  
+Wilmington, DE 19801-1050  
 admin@ControversialTimes.com
