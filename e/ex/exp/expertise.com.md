@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the expertise.com privacy policy that was archived on 2015-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150619072812id_/http%3A//www.expertise.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the expertise.com privacy policy that was archived on 2015-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151217235708id_/http%3A//www.expertise.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Expertise
 
