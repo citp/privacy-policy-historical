@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the powerofpinning.com privacy policy that was archived on 2015-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150619001712id_/http%3A//powerofpinning.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the powerofpinning.com privacy policy that was archived on 2015-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151217051711id_/http%3A//powerofpinning.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Power of Pinning
 
