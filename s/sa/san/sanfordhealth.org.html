@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the sanfordhealth.org privacy policy that was archived on 2015-03-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150330025537id_/http%3A//www.sanfordhealth.org/Privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the sanfordhealth.org privacy policy that was archived on 2015-12-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151217054741id_/http%3A//www.sanfordhealth.org/Privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js"><!--<![endif]--><head><meta http-equiv="X-UA-Compatible" content="IE=9;IE=8;IE=7"><meta http-equiv="Content-Type" content="application/xhtml+xml; charset=utf-8"><meta http-equiv="Content-Language" content="en-us"><meta http-equiv="imagetoolbar" content="false"><meta name="MSSmartTagsPreventParsing" content="true"><meta name="viewport" content="width=device-width"><meta name="google-site-verification" content="bIK0JMb59Ha-wByPrqcx03gIJx10vnT2jvJ0XtQBB-4"><meta name="msvalidate.01" content="30CD41A0693271FAE50E0E20ED521F72">
     
@@ -25,7 +25,9 @@
     
         
     <style type="text/css">
-        #bodyBackdrop { background: white url(/images/backgrounds/legal.jpg) no-repeat 50% 0%; }
+        #bodyBackdrop {
+            background: white url(/images/backgrounds/legal.jpg) no-repeat 50% 0%;
+        }
     </style>
 
     
@@ -95,10 +97,11 @@
                                         <div class="third-width">
                                             <h3 class="patients-visitors-sprite online-services">Online Services</h3>
                                             <ul>
-                                                <li><a rel="external" href="https://www.mysanfordchart.org/mychart">Log in to My Sanford Chart</a></li>
-                                                <li><a rel="external" href="https://www.mysanfordchart.org/mychart">Schedule appointment online</a></li>
-                                                <li><a rel="external" href="https://www.mysanfordchart.org/mychart">View your test results</a></li>
-                                                <li><a href="/forms/BillPay">Pay your bill online</a></li>
+                                                <li><a href="https://www.mysanfordchart.org/mychart" rel="external">Log in to My Sanford Chart</a></li>
+                                                <li><a href="https://www.mysanfordchart.org/mychart" rel="external">Schedule Appointment Online</a></li>
+                                                <li><a href="https://www.mysanfordchart.org/mychart" rel="external">View Your Test Results</a></li>
+                                                <li><a href="/forms/BillPay">Pay Your Bill Online</a></li>
+                                                <li><a href="https://www.mysanfordchart.org/" rel="external">Request a Video Visit</a></li>
                                             </ul>
                                         </div>
                                         <div class="clear"></div>
@@ -148,10 +151,16 @@
                                             <input type="hidden" id="doctors-locations-find-a-doctor-zip" name="zipcode" value="">
                                             <input type="hidden" id="doctors-locations-find-a-doctor-city" name="city" value="">
                                             <input type="hidden" id="doctors-locations-find-a-doctor-state" name="state" value="">
+                                            <input type="hidden" id="doctors-locations-find-a-doctor-country" name="country" value="">
+                                            <input type="hidden" id="doctors-locations-find-a-doctor-onlyPrimarySpecialty" name="onlyPrimarySpecialty" value="">
                                             <ul>
                                                 <li>
                                                     <input type="radio" name="specialtySearchId" value="825428011" id="doctors-locations-family-practice-physician">
                                                     <label for="doctors-locations-family-practice-physician">Family Practice Physician</label>
+                                                </li>
+                                                <li>
+                                                    <input type="radio" name="specialtySearchId" value="1107467253" data-onlyprimaryspecialty="true" id="doctors-locations-internal-medicine-physician">
+                                                    <label for="doctors-locations-internal-medicine-physician">Internal Medicine Physician</label>
                                                 </li>
                                                 <li>
                                                     <input type="radio" name="specialtySearchId" value="1853046246" id="doctors-locations-ob-gyn-physician">
@@ -202,8 +211,7 @@
                                             <button type="submit" class="go">Go</button>
                                         </form>
                                         <div class="clear"></div>
-                                        <a href="/Find-A-Doctor/Search?forceResults=true&amp;page=1">Browse All Providers</a><br>
-                                        <a href="/Find-A-Doctor/Search">Advanced Search</a>
+                                        <a href="/Find-A-Doctor/Search">Browse All Providers</a>
                                     </div>
                                     <div class="third-width box smallTopMargin">
                                         <h3 class="doctors-locations-sprite location-pin">Find a location</h3>
@@ -213,13 +221,14 @@
                                             <input type="hidden" id="doctors-locations-facility-zip" name="zipcode" value="">
                                             <input type="hidden" id="doctors-locations-facility-city" name="city" value="">
                                             <input type="hidden" id="doctors-locations-facility-state" name="state" value="">
+                                            <input type="hidden" id="doctors-locations-facility-country" name="country" value="">
                                             <input type="text" id="doctors-locations-facility-zip-or-city" data-placeholder="ZIP code or City (Optional)" value="ZIP code or City (Optional)" onfocus="if(this.value === $(this).data().placeholder){this.value='';}">
                                             <select id="doctors-locations-facility-type" name="locationTypeSearchId"></select>
                                             <button type="submit" class="go">Go</button>
                                         </form>
                                         <div class="clear"></div>
-                                        <a href="/Locations/Search?forceResults=true&amp;page=1">Browse All Locations</a><br>
-                                        <a href="/Locations/Search">Advanced Search</a>
+                                        <a href="/Locations/Search">Browse All Locations</a><br>
+                                        <a href="/Locations/Search?country=GHA&amp;country=CHN">International Locations</a>
                                     </div>
                                     <div class="third-width box smallTopMargin last">
                                         <h3>Emergency? Call 911</h3>
@@ -270,7 +279,7 @@
                                         <li><a href="/services/weightlossmanagement">Weight Management</a></li>
                                         <li><strong><a href="/MedicalServices/COE/Womens">Women's Health/Ob-Gyn</a></strong></li>
                                         <li></li>
-                                        <li><a class="medical-services-sprite programs-of-distinction" href="/MedicalServices/ProgramsOfDistinction">Programs of Distinction</a></li>
+                                        <li><a class="medical-services-sprite programs-of-distinction" href="/Services/ProgramsOfDistinction">Programs of Distinction</a></li>
                                     </ul>
                                     <div class="clear"></div>
                                     <a href="/services" class="view-all smallTopMargin">View All</a>
@@ -304,7 +313,7 @@
                                                         <label for="health-information-parenting">Parenting</label>
                                                     </li>
                                                     <li>
-                                                        <input type="radio" name="url" value="/MedicalServices/Mom2Be" id="health-information-pregnancy">
+                                                        <input type="radio" name="url" value="/sioux-falls/services/mom2be" id="health-information-pregnancy">
                                                         <label for="health-information-pregnancy">Pregnancy</label>
                                                     </li>
                                                     <li>
@@ -312,7 +321,7 @@
                                                         <label for="health-information-sports-medicine">Sports Medicine</label>
                                                     </li>
                                                     <li>
-                                                        <input type="radio" name="url" value="/MedicalServices/Specialties/WeightLossSurgery" id="health-information-weight-management">
+                                                        <input type="radio" name="url" value="/services/weightlosssurgery" id="health-information-weight-management">
                                                         <label for="health-information-weight-management">Weight Management</label>
                                                     </li>
                                                     <li>
@@ -486,47 +495,102 @@
         
             
     <!-- ##Layout:A -->
-     <h1>
-        Privacy Statement</h1>
+    <h1>Privacy Statement</h1>
+
+    <p>Sanford Health acknowledges and respects any individual's right to privacy. We take your concerns related to privacy and security seriously. We therefore want you to know how we may collect, use, share, and protect your information. In addition to this Privacy Statement, visitors to the Sanford Health website should consult the Sanford Health website <a href="/TermsConditions">Terms &amp; Conditions</a> as well as any product or service specific terms and conditions that may apply. The Sanford Health <a href="/PrivacyOfHealth">Notice of Privacy Practices</a> is a separate document which references how patient medical information (protected health information) may be used or disclosed.</p>
+
+    <p>This Privacy Statement applies to sanfordhealth.org and other websites under Sanford Health control which we will refer to as our "website".</p>
+
+    <h2>Information We Collect and How It Is Used</h2>
+
+    <p>Visitors can browse all Sanford Health websites without providing any personal information. Certain pages contain forms that give visitors the option of providing us with contact information including name, physical address, phone, and email address if you choose to contact us. Providing this information is voluntary. The information you submit is shared internally with Sanford Health employees who need this information to help respond to your request or improve Sanford Health operations. Information submitted may be also be used to evaluate the technical functionality of our website. Information provided may also be utilized to address inappropriate use or communications associated with our website.</p>
+
+    <h2>Newsletters, Email Communications, and Other Related Services</h2>
+
+    <p>Sanford Health offers you with the opportunity to receive e-newsletters and e-publications related to Sanford Health services, news and announcements. You can sign up for free and can unsubscribe at any time through the contact information contained in those communications.</p>
+
+    <p>Other communications that you send to us via email may be shared with a customer service representative, employee, medical expert or other Sanford Health employee that is best able to respond to your inquiry. Email communications are not completely secure or confidential. It is possible that an email may be accessed or ready by other Internet users. Please do not use email for communications you wish to keep protected and secure.</p>
+
+    <h2>IP Addresses</h2>
+
+    <p>Our Internet server automatically tracks the Internet Protocol (IP) address of the computers that access our site. An IP address is a number that is assigned to your computer when you access the Internet. IP addresses are not personally identifiable information because different individuals may use the same computer to access the Internet. Sanford Health may use this information to evaluate how visitors navigate our websites and help improve the content.</p>
+
+    <h2>Tracking Technologies</h2>
+
+    <p>Sanford Health, or any third party advertising partners we choose to work with, may employ various tracking technologies such as cookies, web beacons and analytics software. These tools help us manage the content on our websites by informing us what content is useful to visitors.</p>
+
+    <h3>Cookies</h3>
+
+    <p>When you visit our website we send one or more "cookies" to your computer or other internet browsing device. Cookies are alphanumeric identifiers stored on your computer through your web browser and are used by most websites to help personalize your browsing experience. Cookies may facilitate additional website features for enhanced performance of your web experience such as remembering preferences, allowing social interactions, analyzing usage for website optimization, providing custom content, allowing third parties to provide social sharing tools, and delivering images or videos from third party websites. Some features of our website will not function if you do not allow cookies. We may link the information we store in cookies with any other information you submit while on our website.</p>
+
+    <p>We may use both session ID cookies and persistent cookies. A session ID cookie expires when you close your internet browser. A persistent cookie is stored on your computer. Cookies enable us to track and target the interest of our visitors to enhance your experience on our website. You can learn how to remove persistent cookies by following the directions provided in the "Help" portion of your Internet browser.</p>
+
+    <h3>Web Beacons</h3>
+
+    <p>We may use Web Beacons alone or with cookies to collection information about our website content. Web Beacons are tiny graphic objects that are embedded in a web page or email and are usually invisible to the user but allows verification that a user has viewed the web page or email. Web Beacons may be used to track web page visits or form submissions. In some cases the Web Beacon may be tied to the information submitted by visitors to our website. This technology allows us to evaluate the effectiveness of our website and any Sanford Health advertising or marketing campaigns.</p>
+
+    <h3>Third Party Tracking Technologies</h3>
+
+    <p>The use of cookies or web beacons by any third party service provider is not covered by our Privacy Statement. We do not have access or control over these technologies utilized by third parties.</p>
+
+    <h2>Analytics Software</h2>
+
+    <p>We and any third party tracking-utility parties we partner with may use log files on our website to gather certain information automatically and store for analytical purposes. This information includes internet (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data. We use this information to track and compile non-personal information to analyze trends, monitor visitor traffic within our website content, and gather aggregate demographic information about our visitors. We may combine this log file information with other information we collect from or about you to help improve the services we offer, our marketing, analytics or website functionality.</p>
+
+    <h2>Social Media Features and Widgets</h2>
+
+    <p>Our website contains various features that allow visitors to interact with our website content via their chosen social media platform, such as the Facebook "Like" or "Share" buttons. Use of these interactive widgets or mini-programs on our website is voluntary. These services are provided to enhance your browsing experience and ability to communicate information from our website to the audience of your choice. These social media features are hosted by a third party and governed by the Privacy Statement of the company providing those services.</p>
+
+    <p>You can log in to some of our website content using sign-in services such as ShareThis or Disqus. These services will authenticate your identity through the social media platform of your choice and provide you the option of sharing personal information with us such as your name and email address. These services give you the option to post information about your activities on our website to your social media page for sharing with others in your social media network. You may also be given the opportunity to comment on some of our website content or share information with others by accessing the contacts within your social media account.</p>
+
+    <p>We may provide you with the opportunity to share information from our website with a friend or make a referral by providing an email address or other contact information for that person. We will use that contact information to provide information about Sanford Health services.</p>
+
+    <h2>Links to Other Websites</h2>
+
+    <p>Our website content may contain links to other websites not owned by Sanford Health. These third party websites have different privacy notices and practices. If you submit any information to those websites, your information is governed by the Privacy Statement published on that website. We encourage you to carefully read the Privacy Statement for any website you visit.</p>
+
+    <h2>Public Forums</h2>
+
+    <p>Our website may offer publicly accessible blogs, community forums or message boards. Be aware that any personal information you disclose in those public forums may be collected and used by others outside the control of Sanford Health. Please contact the posted administrator of a particular forum to request removal of your personal information. In some cases we may not be able to remove your information.</p>
+
+    <h2>Legal Disclosure</h2>
+
+    <p>We reserve the right to disclose personal information as required by law, such as to respond to a subpoena or other mandatory legal process. We may disclose personal information when we believe in good faith that the disclosure is necessary to protect our rights, to protect the safety of others, investigate fraud, or respond to government requests.</p>
+
+    <h2>Data retention</h2>
+
+    <p>We will retain your information for as long as needed to provide you services, comply with our legal obligations, resolve disputes, and enforce our agreements.</p>
+
+    <h2>Sharing Information with Third Parties</h2>
+
+    <p>We do not share personal information with third parties unrelated to Sanford Health, except when required to for legal purposes or investigations. We may share your personal information with third parties who we have contracted with to help us provide services. We will ensure that these third parties have agreed not to use or disclose your personal information except to help us provide the services.</p>
+
+    <h2>Security of Your Information</h2>
+
+    <p>Sanford Health provides reasonable and appropriate security measures to protect our website content and any personal information you may provide against foreseeable hazards. When you enter sensitive information (such as a credit card number) on our forms, we encrypt the transmission of that information using secure socket layer technology (SSL). When you come across a web page that is secured, your browser will likely display a "closed lock" or other symbol to inform you that SSL has been enabled. The web address should start with "https://" rather than "http://". SSL allows a secure connection between your web browser and a web server. No computer system or information however can ever by fully protected from every possible threat or hazard and therefore we cannot warrant the security of any information you transmit to us, and you do so at your own risk.</p>
+
+    <h2>Protecting Children's Privacy</h2>
+
+    <p>Sanford Health is committed to protecting children's privacy on the Internet. We do not knowingly collect personal information from children.</p>
+
+    <h2>My Sanford Chart and Protected Health Information</h2>
+
+    <p>Sanford Health offers patients a secure online health connection knows as My Sanford Chart. Any personal information contained or entered within My Sanford Chart is considered Protected Health Information. How we collect, use and disclose Protected Health Information is referenced in Sanford Health's <a href="/PrivacyOfHealth">Notice of Privacy Practices</a>.</p>
+
+    <h2>Changes to the Privacy Statement</h2>
+
+    <p>We may change or update our Privacy Statement over time. Notification of material changes will be on our website. This Privacy Statement was last updated on September 30, 2015.</p>
+
+    <h2>Contact information</h2>
+
+    <p>If you have questions regarding this Privacy Statement you can contact us via email at <a href="mailto:privacyoffice@sanfordhealth.org">privacyoffice@sanfordhealth.org</a> or via mail at:</p>
+
     <p>
-        At Sanford, we vow to keep any information that we collect via our web site confidential.
-        This includes your name, address, email address and other information that you disclose.
-        The data you provide us is used to process the services in which you have requested
-        and is only accessed by authorized personnel.</p>
-    <p>
-        We will notify you whether the information you are providing is being submitted
-        through a secure or unsecured site. (When you come across a web page that is secured,
-        your browser will likely display a "closed lock" or other symbol to inform you that
-        SSL has been enabled. The web address should also now start with "https://" rather
-        than "http://". In a nutshell, SSL allows a secure connection between your web browser
-        and a web server. This secure information "tunnel" is being widely adopted by numerous
-        companies for client services. From credit card purchases to online banking transactions.)</p>
-    <p>
-        Sending an email directly to an email address that is found on our web site is not
-        considered secure. We have identified areas of the web site that are secure and
-        encourage you to only submit highly sensitive and/or personal information through
-        those sites. Those areas include Patient Pre-Registration, Online Gifts, Online
-        Applications, and My Sanford Chart.</p>
-    <p>
-        The information that is gathered through our web site is not shared with any entities
-        outside of Sanford, unless you have specifically authorized us to share that information
-        or, in Sanford's good-faith belief, it is required under the law.</p>
-    <p>
-        Please note that additional web sites are linked through our web site as a convenience
-        for our users. Sanford is not responsible for the privacy practices on other sites
-        and when you leave our web site, we encourage you to be aware and read the privacy
-        statements of those sites to ensure your privacy and confidentiality.</p>
-    <p>
-        By using our web site, you consent to the collection and use of your information
-        by Sanford as detailed in our Privacy Statement. If we ever make changes to our
-        Privacy Statement, we will post any changes on this page so that you are constantly
-        aware of the information we collect and the ways in which we use it. Sanford may
-        place a text file called a "cookie" in the browser files of your computer. The cookie
-        itself does not contain Personal Information although it will enable the Site to
-        relate your use of the Site to information that you have specifically and knowingly
-        provided to the Site. The site may also collect your IP address, which does not
-        contain Personal Information. The IP addresses will be used to monitor site usage
-        statistics.</p>
+        Sanford Health Chief Privacy Officer<br>
+        PO Box 5039<br>
+        Sioux Falls, SD 57117-5039
+    </p>
+
 
     
     </div>		
@@ -552,7 +616,7 @@
 
    <ul>
 
-        <li><a href="/Newsroom/Alerts/measles-information">2/9/2015 - Measles information</a></li>
+        <li><a href="/Newsroom/Alerts/south-dakota-closures-dec-16">12/16/2015 - South Dakota closures - Dec. 16</a></li>
    
    </ul><a class="newViewAll" href="/newsroom/alerts">View all alerts</a>
                 </div>
@@ -568,14 +632,14 @@
                                 <td id="twitterImage"><a href="http://twitter.com/sanfordalerts" class="twitterTitle" rel="external"></a></td>
                                 <td>
     <p class="removeBottomMargin">
-        Sanford Health Halstad Clinic in <a href="https://twitter.com/search?q=Minnesota" target="_blank">#Minnesota</a> will be closed Thursday, March 19. <a href="http://Alerts.sanfordhealth.org" target="_blank">http://t.co/I1pjy3BnqP</a>
+        Sanford Aberdeen Acute Care Clinic in <a href="https://twitter.com/search?q=SouthDakota" target="_blank">#SouthDakota</a> will be closed on Wednesday, Dec. 16, due to weather. <a href="http://alerts.sanfordhealth.org" target="_blank">https://t.co/SJdPqYopnC</a>
     </p>
     <br>
-    <span class="timestamp">09:03 AM Mar 19</span>
+    <span class="timestamp">01:09 PM Dec 16</span>
     <span class="twitterIntent">
-    <a href="https://twitter.com/intent/tweet?in_reply_to=578557347930345472" onclick="LoadAndFocusOnPopUp(this.href, '520','600');return false;"><span class="twitterReply"></span>Reply</a>
-    <a href="https://twitter.com/intent/retweet?tweet_id=578557347930345472" onclick="LoadAndFocusOnPopUp(this.href, '480','600');return false;"><span class="twitterRetweet"></span>Retweet</a>
-    <a href="https://twitter.com/intent/favorite?tweet_id=578557347930345472" onclick="LoadAndFocusOnPopUp(this.href, '480','600');return false;"><span class="twitterFavorite"></span>Favorite</a>
+    <a href="https://twitter.com/intent/tweet?in_reply_to=677203983514095618" onclick="LoadAndFocusOnPopUp(this.href, '520','600');return false;"><span class="twitterReply"></span>Reply</a>
+    <a href="https://twitter.com/intent/retweet?tweet_id=677203983514095618" onclick="LoadAndFocusOnPopUp(this.href, '480','600');return false;"><span class="twitterRetweet"></span>Retweet</a>
+    <a href="https://twitter.com/intent/favorite?tweet_id=677203983514095618" onclick="LoadAndFocusOnPopUp(this.href, '480','600');return false;"><span class="twitterFavorite"></span>Favorite</a>
     </span>
 </td>
                             </tr>
@@ -779,8 +843,14 @@
     <script type="text/javascript" src="//ajax.aspnetcdn.com/ajax/mvc/2.0/MicrosoftMvcAjax.js"></script>
     <script type="text/javascript" src="//ajax.aspnetcdn.com/ajax/jquery.cycle/2.88/jquery.cycle.all.min.js"></script>
     <script type="text/javascript" src="//ajax.aspnetcdn.com/ajax/jQuery.Validate/1.6/jQuery.Validate.min.js"></script>
-    <script src="/bundles/javascript/combinedSitewide?v=lQwyAKIPpGgL_dCgQGPRFRJTwX8cZDhtr7wJxbSjSIw1"></script>
+    <script src="/bundles/javascript/combinedSitewide?v=C_WlV38rYKXS17fIbzD4rhgVqsdSGkYcn7b_h0G-sYU1"></script>
 
+    <script type="text/javascript">
+        function googleTranslateElementInit() {
+            new google.translate.TranslateElement({pageLanguage: 'en-us'});
+        }
+    </script>
+    <script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
     
     
         
