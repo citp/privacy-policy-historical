@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the onrpg.com privacy policy that was archived on 2015-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150613124937id_/http%3A//www.onrpg.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onrpg.com privacy policy that was archived on 2015-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151218003244id_/http%3A//www.onrpg.com/privacy-policy) for the most accurate reproduction.*
 
 # OnRPG | Privacy Policy | Free Online MMORPG and MMO Games List - OnRPG
 
-### Privacy Policy for OnRPG (http://onrpg.com/)
+## Privacy Policy for OnRPG (http://onrpg.com/)
 
 The privacy of our visitors is of extreme importance to us at OnRPG. This privacy policy document outlines the types of personal information that is received and collected by OnRPG and related third-party advertisers and how it is used.
 
