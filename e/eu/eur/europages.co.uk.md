@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the europages.co.uk privacy policy that was archived on 2015-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150622092340id_/http%3A//corporate.europages.co.uk/terms-and-conditions/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the europages.co.uk privacy policy that was archived on 2015-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151217014918id_/http%3A//corporate.europages.co.uk/terms-and-conditions/privacy) for the most accurate reproduction.*
 
 # EUROPAGES privacy policy | Europages
 
@@ -6,7 +6,7 @@ EUROPAGES recognises the importance that must be given to protecting personal da
 
 Our Privacy Policy applies to all members and visitors. We collect data when you use our services so that we can offer you a personalised and relevant experience, including growing your network and enabling your business opportunities.
 
-The rules outlined below apply to all services offered by EUROPAGES on all the different language versions of the [www.europages.com](http://www.europages.com/ "Europages") website.
+The rules outlined below apply to all services offered by EUROPAGES on all the different language versions of the www.europages.com website.
 
 In order to offer the best possible protection of data concerning an identified or identifiable person collected on the europages.com website, EUROPAGES applies a strict policy for protecting personal data, including enforcing high security standards for the products and services offered directly on the europages.com website.
 
@@ -63,11 +63,11 @@ If you represent a company listed on EUROPAGES, we may contact you, including by
 
 ## 2\. Use of your personal data
 
-Pursuant to the French Data Protection Act, a declaration has been filed with the CNIL with regard to the processing of personal data on the [www.europages.com](http://www.europages.com/ "Europages") website. The declaration file reference is 718289. The CNIL ( _Commission nationale de l’informatique et des libertés)_ is the independent French administrative authority which ensures that computer technology does not harm human identity, human rights, privacy and both individual and public liberties.
+Pursuant to the French Data Protection Act, a declaration has been filed with the CNIL with regard to the processing of personal data on the www.europages.com website. The declaration file reference is 718289. The CNIL ( _Commission nationale de l’informatique et des libertés)_ is the independent French administrative authority which ensures that computer technology does not harm human identity, human rights, privacy and both individual and public liberties.
 
-EUROPAGES does not sell or rent personal data that it collects on the [www.europages.com](http://www.europages.com/ "Europages") website.
+EUROPAGES does not sell or rent personal data that it collects on the www.europages.com website.
 
- **2.1** EUROPAGES undertakes to process personal data gathered on its [www.europages.com](http://www.europages.com/ "Europages") website in accordance with the following specific aims:
+ **2.1** EUROPAGES undertakes to process personal data gathered on its www.europages.com website in accordance with the following specific aims:
 
   * general operation of the europages.com website;
   * operation of services for registered or subscribed Users;
@@ -114,7 +114,7 @@ We may provide third parties with information on users in the form of browsing s
 
 EUROPAGES reserves the right to disclose the personal data that it collects in the following cases:
 
-  * transmission of certain personal data to trustworthy sub-contractors and partners in order to provide certain functionalities of the [www.europages.com](http://www.europages.com/ "Europages") website;
+  * transmission of certain personal data to trustworthy sub-contractors and partners in order to provide certain functionalities of the www.europages.com website;
   * transmission of requests for information to its commercial partners;
 
 
@@ -149,7 +149,7 @@ Users are informed of the installation of cookies on their browser. The cookie s
 
  **5.1** A company whose details are given in the free listing section of the Directory has the right to access, rectify and delete its data according to the conditions described in Clause 4.4 below.
 
- **5.2** Any User of the [www.europages.com](http://www.europages.com/ "Europages") website may object to the processing of their personal data
+ **5.2** Any User of the www.europages.com website may object to the processing of their personal data
 
 If a User receives an e-mail or letter that they do not wish to receive, they may:
 
@@ -176,9 +176,9 @@ Such a company may, at any time, have access to the information given during the
 
  **6.1** EUROPAGE’s personal data protection policy does not apply to:
 
-  * websites independent from the [www.europages.com](http://www.europages.com/ "Europages") website that have established a hyperlink or search block directing Users to service offers;
-  * websites working in partnership with [www.europages.com](http://www.europages.com/ "Europages") that have integrated one of the services on their website (co-branding);
-  * websites working in partnership with [www.europages.com](http://www.europages.com/ "Europages") that are accessible through integration in one of the offered services (co-branded websites);
+  * websites independent from the www.europages.com website that have established a hyperlink or search block directing Users to service offers;
+  * websites working in partnership with www.europages.com that have integrated one of the services on their website (co-branding);
+  * websites working in partnership with www.europages.com that are accessible through integration in one of the offered services (co-branded websites);
   * websites belonging to EUROPAGES’ commercial partners.
 
 
