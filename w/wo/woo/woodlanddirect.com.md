@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the woodlanddirect.com privacy policy that was archived on 2015-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150613063300id_/http%3A//www.woodlanddirect.com/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the woodlanddirect.com privacy policy that was archived on 2015-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151217122738id_/http%3A//www.woodlanddirect.com/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -20,7 +20,6 @@ Commitment to Data Security**
 Your personally identifiable information is kept secure. Only authorized employees, agents and contractors (who have agreed to keep information secure and confidential) have access to this information. All emails and newsletters from this site allow you to opt out of further mailings.  
 **  
 Privacy Contact information**  
-If you have any questions, concerns, or comments about our privacy policy you may contact us using the information below:   
- By E-Mail: [webdirector@woodlanddirect.com](mailto:webdirector@woodlanddirect.com)  
- By Phone: 1-800-919-1904  
+If you would like to update your email subscription status or have any other questions, concerns, or comments about our privacy policy you may contact us using the information below:   
+Phone: 1-800-919-1904  
 We reserve the right to make changes to this policy. Any changes to this policy will be posted. 
