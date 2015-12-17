@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rakuten.co.uk privacy policy that was archived on 2015-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150615030721id_/http%3A//www.rakuten.co.uk/policy/privacy/%3Fl-id%3Dgb__footer_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rakuten.co.uk privacy policy that was archived on 2015-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151217222440id_/http%3A//www.rakuten.co.uk/policy/privacy/%3Fl-id%3Dgb__footer_privacy) for the most accurate reproduction.*
 
 # Rakuten.co.uk Shopping : Privacy Policy
 
