@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theugandanjobline.com privacy policy that was archived on 2015-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150618224304id_/http%3A//www.theugandanjobline.com/p/this-privacy-policy-sets-out-how-uses.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theugandanjobline.com privacy policy that was archived on 2015-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151217084304id_/http%3A//www.theugandanjobline.com/p/this-privacy-policy-sets-out-how-uses.html) for the most accurate reproduction.*
 
 # PRIVACY POLICY ~ Ugandan Jobline Jobs - The Best Uganda Jobs
 
