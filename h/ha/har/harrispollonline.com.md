@@ -1,109 +1,233 @@
-> *The following text is extracted and transformed from the harrispollonline.com privacy policy that was archived on 2015-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150625033715id_/http%3A//www.harrispollonline.com/PrivacyPolicy/tabid/1754/language/en-US/Default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the harrispollonline.com privacy policy that was archived on 2015-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151217124947id_/http%3A//www.harrispollonline.com/PrivacyPolicy/tabid/1754/language/en-US/Default.aspx) for the most accurate reproduction.*
 
 # Harris Poll Online: Privacy Policy
 
-_Updated and Effective as of: October 10, 2013_
+YOUR ACCEPTANCE OF THIS PRIVACY AND COOKIE NOTICE (“NOTICE”) AND HARRIS PANEL [TERMS OF USE ](http://www.harrispollonline.com/SiteTerms/tabid/1749/language/en-US/Default.aspx)(“TERMS OF USE”) WILL INDICATE YOUR COMPLETE AGREEMENT AS A CONDITION TO BECOMING A MEMBER OF THE HARRIS PANEL (THE “PANEL”), OWNED AND OPERATED BY THE NIELSEN COMPANY (US) LLC (COLLECTIVELY WITH ITS AFFILIATES, SUBSIDIARIES AND DIVISIONS, "NIELSEN" AND TOGETHER WITH THE PANEL, "WE" OR "US"), INCLUDING TO NIELSEN’S COLLECTION, USE, STORAGE, MAINTENANCE, DISCLOSURES AND OTHER PROCESSING OF YOUR PERSONAL IDENTYIFYING INFORMATION AND THE TRANSFER OF YOUR PERSONAL IDENTIFYING INFORMATION TO COUNTRIES OTHER THAN THE COUNTRY IN WHICH SUCH INFORMATION ORIGINALLY WAS COLLECTED IN THE MANNER AND FOR THE PURPOSES SET OUT IN THIS NOTICE AND THE TERMS OF USE. 
 
-Harris Interactive Inc. (collectively with its affiliates, subsidiaries and divisions, "Harris Interactive" or "we" or "us"), a leading market research company, is firmly committed to protecting your privacy. We routinely review our security features and privacy practices, and enhance them to better protect your privacy. This Privacy Policy explains in general terms how we collect, store, use, and disclose your Personal Information (as defined below) and certain other information that we receive from you.
+We take your privacy very seriously. We have created this Notice to help answer questions you may have about how we protect and use your personal identifying information. Please note that this Notice, available through [www.harrispollonline.com](http://www.harrispollonline.com/) or [www.join.harrispollonline.com](http://www.join.harrispollonline.com/) (collectively, our "Site"), applies only to your participation in the Panel, and not to any participation in any other panels or online services provided by Nielsen. ****
 
-You acknowledge your consent to this Privacy Policy if you:
+A. [What Information We Collect](http://www.harrispollonline.com/PrivacyPolicy/tabid/1754/language/en-US/Default.aspx#Information)
 
-  1. Use any of the following websites: [www.harrisinteractive.com](http://www.harrisinteractive.com/), www.harrispollonline.com, and [engage.harrisinteractive.com](http://engage.harrisinteractive.com/) (our "Websites"), 
-  2. Become a member (a "Panel Member") of any of the panels created, maintained, or operated by us, such as the Harris Poll OnlineSM panel or the Research LifestreamingSM panel (our "Panels"), or 
-  3. Participate in market research activities, including questionnaires, surveys, and online focus groups, offered, provided, hosted, or administered by us (collectively, "Research Activities"). 
+B. [How We Use the Information You Provide Us](http://www.harrispollonline.com/PrivacyPolicy/tabid/1754/language/en-US/Default.aspx#UseInformation)
 
+C. [When We Share Your Information](http://www.harrispollonline.com/PrivacyPolicy/tabid/1754/language/en-US/Default.aspx#ShareInformation)
 
+D. [Your Choices and Access](http://www.harrispollonline.com/PrivacyPolicy/tabid/1754/language/en-US/Default.aspx#Choices)
 
-[](http://www.casro.org/?page=CASROSeal)
+E. [About Children](http://www.harrispollonline.com/PrivacyPolicy/tabid/1754/language/en-US/Default.aspx#Children)
 
-We also participate in and adhere to the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of data from the European Union and Switzerland (the "Frameworks"). Information about the Safe Harbor program can be found at [www.export.gov/safeharbor](http://www.export.gov/safeharbor). Our compliance with the Frameworks may be limited in certain cases to the extent necessary to meet national security, public interest, or law enforcement requirements.
+F. [Cookies and Other Digital Technologies](http://www.harrispollonline.com/PrivacyPolicy/tabid/1754/language/en-US/Default.aspx#Cookies)
 
-#### What is Personal Information?
+G. [Third Party Sites](http://www.harrispollonline.com/PrivacyPolicy/tabid/1754/language/en-US/Default.aspx#ThirdParty)
 
-Personal Information is any information that is identifiable with you. Personal Information may include, but is not limited to, your name, date of birth, gender, mailing address, phone number, email address, identification numbers and, in certain circumstances, your opinions and individual preferences. Personal Information, however, does not include your name, business title, business address, business telephone number, business fax, or business email in your capacity as an employee of an organization, or, depending upon the jurisdiction, publicly available information. However, if you participate in Research Activities in your capacity as an employee of an organization, your responses will not be identified to you without your consent.
+H. [Data Security and Transfer](http://www.harrispollonline.com/PrivacyPolicy/tabid/1754/language/en-US/Default.aspx#DataSecurity)
 
-#### How Do We Collect Your Personal Information?
+I. [Data Retention](http://www.harrispollonline.com/PrivacyPolicy/tabid/1754/language/en-US/Default.aspx#DataRetention)
 
-We always will collect your Personal Information by fair and lawful means. For instance, we collect Personal Information from Panel Members when they register for a Panel, non-Panel Members when they participate in Research Activities ("Non-Panel Participants"), and other users of our Websites ("Site Users") when they request information regarding our products and services. We also obtain e-mail addresses of prospective Panel Members and Non-Panel Participants from providers of address lists who have assured us that such lists are comprised of individuals who have consented to be listed. Further, we may receive your email address from a third party if you indicate to the third party that you would like to join one of our Panels. In such case, we will send you a link to our registration page so that you can join the applicable Panel.
+J. [Updates to this Notice](http://www.harrispollonline.com/PrivacyPolicy/tabid/1754/language/en-US/Default.aspx#Updates)
 
-#### How Do We Use Your Personal Information?
+K. [Contacting Us](http://www.harrispollonline.com/PrivacyPolicy/tabid/1754/language/en-US/Default.aspx#Contact)
 
-We may use your Personal Information (i) to contact you and communicate with you about your Panel membership and/or your participation in Research Activities, (ii) to conduct Research Activities with you and provide you with the results of such Research Activities, (iii) to validate answers you provide us in connection with your participation in Research Activities, (iv) to notify you about new features on our Websites, or other products or services that we think you may be interested in, (v) to administer and manage our incentives programs and fulfill your requests for incentives, (vi) to allow you to participate in sweepstakes and to notify you if you are a sweepstakes winner, (vii) to update our records of your information, (viii) to provide service and support to you, (ix) to verify the integrity of submitted information, and (x) as otherwise permitted by law or authorized by you.
+**A.** **WHAT INFORMATION WE COLLECT**
 
-We may maintain your Personal Information in order to satisfy your requests and/or our business requirements. For instance, we may retain the email address of persons who opted out, or requested to be removed from, one of our Panels in order to ensure that we conform to such wish.
+  * **Information you give us.** During the recruitment process, the panel registration process, or as part of a research study or survey, you provide us with information. This may include: 
 
-We do not share your Personal Information with, or sell or rent your Personal Information to, third parties, except with your consent or as described in this Privacy Policy. We follow applicable laws and industry best practices with respect to the disclosure of Personal Information to third parties. We may disclose your Personal Information to third parties as follows:
+    * “Personal identifying information,” which means information by itself – like your first and last name, home postal address or personal email address – or in combination with other information, that could identify a specific individual. 
 
-  * In accordance with market research industry guidelines, we may provide your Personal Information to a third party, including the client who commissioned the Research Activity you participated in, so long as the third party is contractually bound to keep your Personal Information confidential and use it only for research or statistical purposes; 
-  * In connection with market research services, to our authorized and approved agents, contractors, or partners that facilitate such services, including, without limitation, incentive program and sweepstakes prize fulfillment, web hosting, list matching, quality control, and the like; provided, however, such parties may use your Personal Information only to provide services to Harris Interactive and may not share your Personal Information with any other third parties; 
-  * In response to the request or requirement of any law enforcement agency or governmental authority, to such government agencies or instrumentalities; 
-  * Pursuant to required legal process, to the related compelling party; 
-  * When necessary or desirable to exercise or preserve our legal rights; 
-  * When we believe disclosure is necessary or appropriate to prevent physical harm or financial loss or in connection with suspected or actual illegal activity; 
-  * In connection with a change of ownership, such as a merger or an acquisition or a sale of any or all of our business assets; or 
-  * As otherwise authorized by you. 
+    * Demographic information such as gender, marital status, occupation and other information. 
 
+    * Information in connection with your participation in surveys and/or studies. These surveys request additional information such as your behaviors and preferences and help us better understand consumer behavior, use, and trends. 
 
+    * Any content or material you choose to submit, upload or transmit, including without limitation, photos, videos, images, or the likeness of the individual submitting the content in connection with your participation in market research activities. 
 
-Our Websites may contain links to information on other websites. We do not have any control over these other websites, and therefore we cannot be responsible for the protection and privacy of any information that you provide while visiting those websites. Those websites are not governed by this Privacy Policy, and if you have questions about how another website uses your information, please consult that website’s privacy statement.
+    * You may be offered the opportunity to participate in market research activities through a third party service such as Facebook or Twitter. If you select such option, we may collect certain profile information stored in your social media platform account. 
 
-#### What Other Information Do We Collect And How Do We Use The Information?
+    * In addition to the above mentioned information, through certain surveys or studies, you may be asked to voluntarily provide or disclose Sensitive Information. “Sensitive information” means personal identifying information that discloses or reveals health or medical conditions, sexual orientation or sexual life, political opinions/views, race/ethnic origin, religious and philosophical beliefs and trade-union membership. 
 
-If you elect to register for one of our Panels and/or participate in Research Activities, we also may collect certain demographic information about you, including, without limitation, your income level, interests, hobbies, and product/technology usage. We collect this information so that we can invite you to participate in Research Activities that correspond with your interests and/or background. We also use this information to ensure that our Panel Members and Non-Panel Participants meet the demographic requirements for each Research Activity.
-
-We also may separately invite Panel Members and Non-Panel Participants to participate in a program where we will ask you to grant us permission to monitor certain of your conduct, behavior, interactions, communications, and/or exchanges, both online and offline, as part of certain Research Activities. Any information, including Personal Information, that we collect or receive in connection with your participation in any such program will be handled in accordance with this Privacy Policy and the applicable terms and conditions provided to you in connection with your invitation to participate in such program.
-
-Additionally, we may automatically collect a variety of machine readable information about you and/or use certain technologies when you participate in certain Research Activities, as discussed below.
-
-  * **Log Files.** As is true of most websites, our servers collect certain information automatically and store it in log files. This information includes your Internet Protocol (IP) address, your browser type, your Internet service provider (ISP), referring/exit pages, your operating system, and date/time stamp. We use this information for administration of our Websites, gathering demographic information about our Panel Members and Non-Panel Participants, monitoring compliance with our terms of use, troubleshooting, and investigating security breaches. We do not link this automatically-collected data to your Personal Information. 
-  * **Cookies.** Like many companies, we use browser cookies on our Websites. Browser cookies are bits of text that are placed on your computer’s hard drive when you visit certain websites. We use browser cookies to tell us, for example, whether you’ve visited us before or if you’re a new visitor, and to help us identify features on our Websites in which you may have the greatest interest. Browser cookies may enhance your online experience by saving your preferences while you are visiting our Websites. We and our authorized and approved agents, contractors, and partners also may use session ID cookies to make it easier for you to navigate our Websites. The "help" portion of the toolbar on most browsers will instruct you how to stop accepting new cookies, how to be notified when you receive a new cookie, and how to disable existing cookies. Remember though, without cookies, you may not be able to take full advantage of all of the features on our Websites or participate in certain Research Activities. We also may use Flash cookies (also known as a Local Shared Objects) for a variety of research purposes, including, without limitation, to enhance your online experience, help maintain the integrity of our research data, store certain of your preferences, display content based upon what you view, personalize your visit, track your behavior and activities across multiple visits to our Websites, detect duplicate Panel Members, and combat fraudulent participation in Research Activities. Flash cookies are similar to browser cookies, except that they can store data more complex than simple text. Flash cookies, by themselves, cannot do anything to or with the data on your computer. In addition, Flash cookies cannot access or remember your email address or other Personal Information unless you provide the information on our Websites. If you want to delete Flash cookies, you will need to access your Flash Player settings management tool available on Adobe’s website at [www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html). 
-  * **Web Beacons.** We as well as our clients and other third parties employ a software technology called web beacons (also known as Internet tags, pixel tags, and clear GIFs), which we use for market research purposes and to help us better manage content on our Websites by informing us what content is effective. Web beacons are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users. In contrast to cookies, which are stored on a user’s computer hard drive, web beacons are embedded invisibly on Web pages and are about the size of the period at the end of this sentence. Remember though, without web beacons, you may not be able to take full advantage of all of the features on our Websites or participate in certain Research Activities. In addition, web beacons do not access your Personal Information; however, we may tie the information gathered by web beacons to your Personal Information that we already collected or received from you. 
-  * **Digital Fingerprinting.** As a quality control measure to maintain the integrity of Internet-based research, we may use a digital fingerprinting technology, also known as "machine identification" technology, to gather certain information about your computer, including, without limitation, your IP address, the type of operating system type/version you are using, your browser type, version and parameter values, your computer configuration, the software and cookies residing on your computer, the display settings on your monitor, and the plug-ins residing on your computer. This information is sent to our trusted third-party partner who converts it into a unique serial number for your computer – the digital fingerprint – through use of a proprietary algorithm and determines if it matches any previous digital fingerprint. We use this technology to assist our clients in ensuring the integrity of our research by detecting duplicate Panel Members or Non-Panel Participants and combating fraudulent participation in Research Activities. Our third party partner also may store Flash cookies (which are discussed above) on your computer solely in connection with its efforts on our behalf to ensure the integrity of our research. We will not use this technology to collect any of your Personal Information, or track your online activities. Also, our use of this technology will not disrupt or interfere with your use or control of your computer, or alter, modify, or change the settings or functionality of your computer. In furtherance of our efforts to ensure the integrity of our research, we may link or associate a unique identifier to you and/or your Personal Information, share your unique identifier with our clients and with other sample or panel providers, and receive or obtain a unique identifier linked to you from a third party, including without limitation, a sample or panel provider or one of our clients. Any unique identifier(s) received or obtained by us and linked to you will be protected in accordance with this Privacy Policy. We will use commercially reasonable efforts to ensure that this technology that we use is safe, secure, and does not cause undue privacy or data security risks, and is conducted in a professional and ethical manner and in accordance with applicable industry standards and laws. If we discover that this technology is not being used in accordance with the foregoing, we will take prompt corrective action. 
-  * **Advertising Research Purposes.** We also may use browser cookies, Flash cookies, and web beacons for advertising research purposes by monitoring the types of online advertisements that you see on the websites that you visit (whether such websites are owned or operated by us or by unrelated third parties), the number of times that you see those ads, and the addresses of the websites where you saw those ads. Specifically, this technology will identify tags contained in certain online advertisements relating to our clients and will update us when you are exposed to these advertisements so that we can seek your participation in relevant Research Activities. This will not affect the performance of your computer; rather it will simply provide you with additional opportunities to receive invitations to participate in Research Activities related to your interests. The information collected will not be used to advertise or market products or services to you and will not include any Personal Information; however, we may tie the information gathered by this technology to your Personal Information that we already collected or received from you. If at any point you decide that you no longer wish to be monitored for online advertisement exposure, please submit a request [here](https://surveyhelp.hpolsurveys.com/support/?ls=HIR) and you will receive instructions on how to do so. 
-  * **Technology Used to Secure Images.** We occasionally employ technology to provide security of images displayed during Research Activities. A script embedded in certain pages displaying images prevents you from using your computer’s clipboard when you are on that page. The script is used only for certain images that are presented while you participate in applicable Research Activities. Information you may have copied to your clipboard is not captured or read, but is overwritten with blank data to prevent the secure images from being copied to your clipboard. We recommend that you paste any information that you have copied to your clipboard before commencing a Research Activity. 
+    * If you download our application software onto your mobile device, we will also receive data through the application, such as when you voluntarily provide us with access to the location of your device and activate hardware functions like your camera. 
 
 
 
-The use of browser cookies, Flash cookies, or web beacons by third parties on our Websites is not covered by this Privacy Policy, as we do not have access or control over their use. We recommend that you carefully read the privacy policies of each website that you visit for information on their privacy, security, data collection, and distribution policies.
 
-#### How Do You Access, Correct Or Update The Information You Provide Us?
+  * **Information collected from your use of our Site and software.** When you use our Site or any of our software, and participate in market research activities, we may collect information about your device, system and network. This includes information such as your Internet Protocol (IP) address, the type of browser you are using, the date and time of your visit, the web page you have visited immediately prior to visiting this Site, device identifier, device model, operating system, and language set. For information about cookies, pixel tags, web beacons, clear GIFs or other digital technologies that may be used in connection with your participation, please see section F on [Cookies and Other Digital Technologies ](http://www.harrispollonline.com/PrivacyPolicy/tabid/1754/language/en-US/Default.aspx#Cookies).
 
-We will store your Personal Information for as long as necessary to fulfill the purposes indicated in this Privacy Policy or as otherwise permitted or required by law. We will make available to you your Personal Information in our custody or control upon your written request, to the extent required and/or permitted by law. To request access to your Personal Information, please submit your request to us in writing at the applicable e-mail address or postal address shown below in the "How Do You Contact Us?" section of this Privacy Policy. We will attempt to fulfill your request within 30 days. However, we may not be able to provide you with access to all of your Personal Information if doing so would likely result in us revealing Personal Information about a third party or confidential commercial information, or if such Personal Information has been collected for the purposes of a legal investigation. If this is the case, we will advise you of the reason we are unable to accommodate your request.
 
-For Panel Members, not only is it important that you be able to correct or update information you provide to us, it is important to us as well. The results from our public studies (which report aggregate, non-identifiable information) often get reported by the media. We encourage Panel Members to keep their account profiles up-to-date, which can be done on the applicable Panel Website or by contacting us [here](https://surveyhelp.hpolsurveys.com/support/?ls=HIR), so that we continue to have accurate demographic information behind our results. For other Panel Members, Non-Panel Participants, and Site Users, you may correct or update any information that you have provided to us by contacting us [here](https://surveyhelp.hpolsurveys.com/support/?ls=HIR).
 
-#### What Is Our Opt-Out Policy?
 
-For Panel Members, you may terminate your membership in a Panel by filling out a request on the Member Services section [here](https://web.archive.org/Unsubscribe/tabid/1784/language/en-US/Default.aspx). For Panel Members of the Harris Poll OnlineSM Panel, you also may terminate your membership in such Panel by filling out a request on the Member Services section at www.harrispollonline.com. If you opt-out of any of our Panels, we will retain your information in our "unsubscribe" database for that Panel to ensure that we do not send you emails in the future inviting you to participate in Research Activities involving that Panel.
+> You may also be invited to participate in certain research studies or surveys that ask you to download software, and/or interact with other companies, websites or applications. In the event that additional information is collected, it will be disclosed to you prior to, or at the time of initial collection. You may also be asked to accept other terms in connection with your participation. 
 
-For Non-Panel Participants and Site Users, if you would like to be removed from our contact list, please contact us [here](https://surveyhelp.hpolsurveys.com/support/?ls=HIR).
+  * **Information we get from other sources.** After you agree to participate in our market research activities, **** we may receive additional information about you from other sources, including other Nielsen measurement products. This may include information such as what you watch or buy, and your exposure to advertising. We obtain this information from many sources, including outside sources. These include, for example: 
 
-#### What Safeguards Have We Implemented To Help Ensure The Security Of Your Information?
+    * census data,
 
-We have security measures in place on our Websites that are designed to prevent the loss, misuse, and alteration of the information under our custody or control. We will not activate a prospective Panel Member's account without confirmation. Once the registration process is completed, the prospective Panel Member will be sent an email that requests confirmation of registration. The account will not be activated until confirmation is received. Additionally, all Panel Members are required to use their passwords and usernames when registering, updating their contact information, or accessing "members only" sections of our Websites. If a Panel Member cannot remember his or her password, he or she can send a message to the Panel Website’s Help Desk to retrieve it. To protect the security of our Panel Members' contact information, requests to retrieve passwords must include certain information to allow us to verify the Panel Member's identity.
+    * the manufacturers and sellers of the products you purchase or use, 
 
-We maintain commercially reasonable technical, administrative, and physical safeguards to protect against unauthorized access to or unauthorized alteration, disclosure, or destruction of Personal Information. Additionally, only those authorized employees, contractors, and agents who have a need to know Personal Information in connection with the performance of their services are allowed to access this information. In addition, these individuals and or entities are required to be bound by confidentiality obligations and may be subject to disciplinary actions, including termination and criminal prosecution, if they fail to meet their confidentiality obligations. In the unlikely event that we suffer a breach of our security systems and an individual or entity gains unauthorized access to any Personal Information stored on our servers, we will immediately investigate such security breach, and will provide prompt notice to any individual whose Personal Information was affected.
+    * “loyalty” programs (like those that offer rewards and points), 
 
-Your Personal Information may be collected, stored, processed, used, and transferred by Harris Interactive affiliated companies or non-affiliated service providers in one or more countries outside your originating country. By using our Websites, becoming a Panel Member, or participating in Research Activities, you freely and specifically consent to the transfer, storage, use, and disclosure of your Personal Information among our affiliated companies and non-affiliated service providers, wherever located. Our service providers are contractually bound to respect the confidentiality of your Personal Information.
+    * organizations that collect online data, 
 
-While navigating our Websites you may be directed to content or functionality that is hosted by a third party supplier, not on a Harris Interactive owned domain. For example, this is done on our "Careers" webpage. When information is collected on behalf of us exclusively on one of our Websites, this Privacy Policy will be referenced on such Website and will govern how your information is used. For other websites, the website owner's privacy policy will be referenced and will govern how your information is used. We recommend that you carefully read the privacy policies of each website that you visit for information on their privacy, security, data collection, and distribution policies.
+    * data suppliers, 
 
-#### How Do We Notify You of Changes To This Privacy Policy?
+    * companies that combine purchase information, and
 
-We reserve the right, in our discretion, to modify our privacy practices and update and make changes to this Privacy Policy at any time. As we modify our Websites to accommodate changes in our business model, developments in our industry, and take advantage of technological advances, the practices described in this Privacy Policy may change. For this reason, we encourage you to refer to this Privacy Policy on an ongoing basis. This Privacy Policy is current as of the "last revised" date which appears at the top of this page. We will treat your Personal Information in a manner consistent with the version of this Privacy Policy under which it was collected, unless we have your consent via email, telephone or other appropriate means to treat it differently. By using our Websites, continuing as a Panel Member, or participating in Research Activities following any Privacy Policy change, you freely and specifically give us your consent to collect, use, transfer, and disclose your Personal Information in the manner specified in such then-current Privacy Policy.
+    * other entities that have a legal right to provide such information to us. 
 
-#### How Do You Contact Us?
 
-If you are a Panel Member and have questions or comments about this Privacy Policy or, as mentioned earlier, wish to correct, update or delete any of your information, please contact us as follows:
 
-Survey Help Desk
 
-60 Corporate Woods 
+> We may combine the information you provide with information from these additional sources. We will use the combined information only for the purposes described in this Notice. By participating in our market research, you agree that we may obtain this information about you and combine it in these ways. 
 
-Rochester, NY 14623-1457 USA
+**B.** **HOW WE USE THE INFORMATION YOU PROVIDE US**
 
-Research Activity Online Help, [here](https://surveyhelp.hpolsurveys.com/support/?ls=HIR)
+  * We use the information we collect to create a variety of research insights for our clients. **In research in which the participants are intended to remain anonymous,** **we use tools and methods to make sure that there is no reasonable possibility of identifying an individual participant in the reports that we create for our clients.** For example, we combine the responses we collect from you with the responses of others to produce “aggregated” reports. We also create scientific reports based upon modeled information. “Modeled information” is data we have developed based upon demographic and behavioral characteristics (like your gender, age, and purchasing habits) to predict what people with similar or matching characteristics would buy. For instance, this allows advertisers to identify the likely audience for a marketing campaign. 
 
-Telephone: (800) 600-2493 or (585) 214-7009
 
-If you are a Non-Panel Participant or Site User and have questions or comments about this Privacy Policy or, as mentioned earlier, wish to correct, update or delete any of your information, please contact us [here](https://surveyhelp.hpolsurveys.com/support/?ls=HIR). We will endeavor to respond to all inquiries via email or regular mail within 30 days of receipt.
+
+
+> Our research insights help our clients make choices about where and how they advertise, including on print, broadcast television, radio, online and mobile. Among other things, our solutions have helped clients:
+> 
+>     * understand the makeup of the audience that was shown an advertisement while surfing the internet or interacting with social media
+> 
+>     *  identify the types of products consumers in different demographic groups would be likely to buy
+> 
+>     * determine the audience that would be more likely to respond to a particular advertisement online, on a smartphone, or tablet
+> 
+>     * whether residents in a particular neighborhood would be likely to shop at a specialty store if it was nearby 
+> 
+>     * understand the media and purchasing habits of different types of potential voters
+> 
+> 
+
+
+  * We may use the information you give us to contact you. When we contact you – by phone, email, SMS, or postal mail depending on what information you provide to us – we will usually do so for one of the following reasons:
+
+    * to respond to your inquiries; 
+
+    * to validate answers you gave; 
+
+    * to update our records to ensure your information is correct; 
+
+    * to ensure that the software is working properly; 
+
+    * to send you information regarding your participation such as how to redeem awards; 
+
+    * to provide a statement regarding changes to our terms, conditions, and policies; 
+
+    * to tailor survey opportunities to you; or
+
+    * to offer you additional research opportunities through studies and surveys.
+
+
+
+
+> If you provide your phone number, you agree that we may call you, and for efficiency and accuracy, you agree that we may use an automatic telephone dialing system or prerecorded voice to do so. You also agree to receive “push” notifications through our software and to be contacted as described above. 
+
+  * We may also use the information for business purposes, such as data analysis, audits, developing new products, enhancing our Site or software, improving our services, identifying usage trends and determining the effectiveness of our communications. 
+
+
+
+
+> If we combine non-personal information with personal identifying information, the combined information will be treated by us as personal identifying information as long as it is combined.
+
+**C.** **WHEN WE SHARE YOUR INFORMATION**
+
+We may share your personal identifying information:
+
+  * With other members of the Nielsen family of companies for the purposes described in this Notice. 
+
+  * With third parties who provide services for us such as website application hosting; data analysis; infrastructure provision; IT services; email delivery service; credit card processing; auditing services; and reward, incentive, sweepstakes, and other similar services.
+
+  * With other companies for the purposes of data processing or market research product development purposes. These companies are contractually required to keep this information confidential and secure and are not permitted to use this information for any other purpose except to carry out the services that they are performing for us. 
+
+  * To other companies, including clients, in accordance with market research guidelines. If any such company receives your personal identifying information (whether provided by us to such company or collected by such company directly from you), such company will be bound to keep the information confidential and secure and use it only for research or statistical purposes. 
+
+  * To identify you to anyone to whom you send messages through the Site.
+
+  * In other ways for which we provide specific notice prior to, or at the time of initial collection. 
+
+  * To a third party in the event of any reorganization, merger, sale, joint venture, assignment, transfer or other disposition of all or any portion of our business, assets or stock (including in connection with any bankruptcy or similar proceedings).
+
+  * As we believe to be necessary or appropriate: (a) under applicable law; (b) to comply with legal process; (c) to respond to requests from public and government authorities including public and government authorities outside your country of residence; (d) to enforce our terms and conditions; (e) to protect our operations or those of any of our affiliates; (f) to protect our rights, privacy, safety or property, and/or that of our affiliates, you or others; or (g) to allow us to pursue available remedies or limit the damages that we may sustain. 
+
+
+
+
+**D.YOUR CHOICES AND ACCESS **
+
+Participation in the Panel is always voluntary. You can access, edit or correct the information in your profile on the panel member website at any time. 
+
+Panel members may terminate their panel membership by: (a) following the instructions set forth in the FAQs page available on the panel member website; (b) clicking on the unsubscribe link contained in a survey invitation and following the instructions on the “Unsubscribe” page; or (c) [contacting us ](http://www.harrispollonline.com/ContactUs/tabid/1744/language/en-US/Default.aspx)as set forth below.
+
+**E.ABOUT CHILDREN **
+
+The Site and our market research activities are not intended for children under the age of thirteen (13), and we request that children not provide personal identifying information through the Site. If we become aware that we have collected personal identifying information from a child under the age of 13, we will delete that information from our records.
+
+**F. COOKIES** **AND OTHER DIGITAL TECHNOLOGIES**
+
+We use long-standing digital technologies on our Site and in connection with our market research activities for the various purposes described below. 
+
+  * **Digital technologies.** We may use the cookies, pixel tags, web beacons, clear GIFs. Session cookies, persistent cookies, and Local Shared Objects (such as Flash cookies and HTML5) in connection with the Site and our research activities. These technologies are used for a variety of purposes, including, without limitation, to facilitate navigation, to display information more effectively, to better serve you with more tailored information, for security purposes such as to detect duplicate panel members and combat fraudulent participation, as well as for online tracking and monitoring for panelist online advertisement exposure. We may also use these technologies to gather statistical information about the usage of the Site in order to continually improve the design and functionality, to understand how users use the Site, and to assist us with resolving questions regarding the Site. For more information on the use of Flash cookies, please visit:  
+[www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html). 
+
+
+
+
+> We also use third parties to provide services to and certain functionality to us, including, without limitation, fraud detection services and member support services such as payment verification. 
+
+    * The cookies used on this Site and in connection with our market research activities may be grouped into the following types:
+
+
+
+
+> **_Essential cookies_** **** are strictly necessary in order for the Site to perform basic functions such as to prevent fraud and display the Site in the appropriate language. These cookies enable you to navigate around the Site and use the features that you have requested, such as accessing secure areas of the Site. Without these cookies, we cannot provide the services that allow this Site to operate.
+
+> **_Performance cookies_** collect anonymous information about how visitors use the Site. These cookies help us understand how visitors interact with the Site by providing information about the areas visited, the time spent on the Site, and any issues encountered, such as error messages. This information helps us improve the performance of the Site. We also use third party analytics providers such as Google Analytics to help us analyze how visitors use the Site.
+
+> **_Functionality cookies_** improve your experience at the site. These cookies can, for example, remember information such as your user name, language, or location preference. These cookies may be used to provide services you have requested such as watching a video, commenting on a blog, or interacting with third party services like social media features. Remembering your choices helps the Site provide enhanced, more personal features.
+
+> **_Ad effectiveness cookies_** will be used for research purposes by measuring the types of advertisements that you see on the websites or applications that you use (whether such websites or applications are owned or operated by us or by unrelated third parties), the number of times that you see those ads, and the addresses of the websites or the name of the application where you saw those ads. Specifically, this technology will identify tags contained in certain online or mobile advertisements relating to our clients and will update us when you are exposed to these advertisements so that we can seek your participation in relevant research activities. The information collected will not include any personal identifying information; however, we may tie the information gathered by the technology to your personal identifying information that we already collected or received from you.
+
+> **_Advertising cookies_** __ provide non-personally identifying preference information used by advertisers, publishers, and content providers, to specify an ad, a group of ads, or content to be displayed to a particular device. For more information, see [www.exelate.com](http://www.exelate.com/). 
+
+> To learn more about the use cookies in general, please visit <http://www.allaboutcookies.org/>, located outside the Site.
+
+    * **Device Fingerprinting.** As a quality control measure and to maintain the integrity of our digital research, we may use a digital fingerprinting technology, also known as "machine identification" technology, to gather certain information about your device. This information is sent to a trusted third party who converts it into a unique serial number for your computer – the digital fingerprint – through the use of a proprietary algorithm, and determines if it matches any previous digital fingerprint. This technology does not collect any of your personal identifying information or track your online activities. For more information, please visit: <http://imperium.com/services/relevantid-digital-fingerprinting.php>. 
+
+
+    * **Watermarking.** Watermarking involves placing a technology or file on your device to identify that it has previously been used in connection with our market research activities. Watermarking is used for quality control and validation purposes and fraud detection and/or prevention purposes. We may engage in watermarking activities directly or through a third party vendor. 
+
+
+    * **Technology Used to Secure Images.** We occasionally employ technology to provide security of images displayed during our research activities. A script embedded in certain pages displaying images prevents you from using your computer’s clipboard when you are on that page. The script is used only for certain images that are presented while you participate in applicable research activities. Information you may have copied to your clipboard is not captured or read, but is overwritten with blank data to prevent the secure images from being copied to your clipboard. We recommend that you paste any information that you have copied to your clipboard before commencing a research activity.
+
+
+
+
+> Please be aware that we do not respond to Do Not Track signals on our Site or in connection with our market research activities.
+
+> As a participant in our market research activities, you consent to the use of the above technologies, and we request that you do not opt out for the duration of your membership.
+
+**G.THIRD PARTY SITES **
+
+This Notice does not address, and we are not responsible for, the privacy, information or other practices of any third parties, including any third party vendors or those operating any site to which this Site contains a link. The inclusion of a link on the Site does not imply endorsement of the linked site by us or by our affiliates. If you import your information from a third party service like Facebook, you are subject to that site’s user agreement, located outside the Site. 
+
+**H.DATA SECURITY AND TRANSFER**
+
+We use reasonable organizational, technical and administrative measures to protect your personal identifying information under our control. We may store and process your personal identifying information in your home country and/or we may transfer and export that information outside of the European Economic Area to any country where we have facilities or in which we engage service providers and processors, including the United States and India. The data protection laws of other countries may differ from those in your home country. Please be aware that storage and communication of data cannot always be one-hundred percent secure. 
+
+By participating in our market research activities, you consent to transfer of personal identifying information to countries outside of your country of residence. By way of clarification, by voluntarily disclosing sensitive information to Nielsen, you expressly consent to the transfer of sensitive information by us to any country where we have facilities or in which we engage service providers and processors, including the United States and India. ****
+
+**I.DATA RETENTION**
+
+We will retain your personal identifying information for as long as long as needed for the purposes described in this Notice and in with accordance with law.
+
+**J.UPDATES TO THIS NOTICE**
+
+We may change this Notice. We will post a prominent notice on this web page to notify you of any significant changes to our Notice and indicate at the top of the page when the Notice was last revised. You may view the currently effective Notice at any time by checking the Notice posted on this Site. Your continued participation after the effective date of any changes will constitute your acceptance of all effective changes. 
+
+**K. CONTACTING US**
+
+If you have any questions about this Notice, please [contact us](http://www.harrispollonline.com/ContactUs/tabid/1744/language/en-US/Default.aspx). You can also write to us at Harris Panel, 155 Corporate Woods, Rochester, NY 14623, Attn: Privacy, or call us at: 1-800-600-2493
+
+Please note that online communications are not always secure; so please do not include sensitive information in your inquiry to us.
+
+**_This Notice replaces any other statement, whether written or oral, made to you about our practices with respect to the collection and use of your information._**
