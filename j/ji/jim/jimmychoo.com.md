@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the jimmychoo.com privacy policy that was archived on 2015-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150409151849id_/http%3A//us.jimmychoo.com/en/customer-service/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jimmychoo.com privacy policy that was archived on 2015-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151217152130id_/http%3A//www.jimmychoo.com/en/customer-services/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
+
+## PRIVACY POLICY
 
 J. Choo Limited (hereinafter referred to as (“JIMMY CHOO”) is registered in England and Wales under Company Number 03185783 whose registered office is at 10 Howick Place, London SW1P 1GW. JIMMY CHOO and its subsidiaries form part of the JAB Luxury GmbH group of companies (collectively the “Group Companies"). JAB Luxury GmbH whose registered office is in Caslano (Switzerland), Via Industria 1 (hereinafter referred to as “JAB Luxury”) is the controlling company of Group Companies which include Bally, Belstaff, Jimmy Choo, and Zagliani and LLX GBS. 
 
