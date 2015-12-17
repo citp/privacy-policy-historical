@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mygreencorner.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610001317id_/http%3A//www.mygreencorner.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mygreencorner.com privacy policy that was archived on 2015-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151217203256id_/http%3A//www.mygreencorner.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy policy
 
