@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the weboxi.net privacy policy that was archived on 2014-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140920222918id_/http%3A//www.weboxi.net/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weboxi.net privacy policy that was archived on 2015-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151217050650id_/http%3A//www.wboxi.com/privacy-policy.html) for the most accurate reproduction.*
 
 # 
 
