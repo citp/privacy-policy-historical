@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ato.gov.au privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630150933id_/https%3A//www.ato.gov.au/About-ATO/Access%2C-accountability-and-reporting/Your-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ato.gov.au privacy policy that was archived on 2015-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151217114529id_/https%3A//www.ato.gov.au/About-ATO/Access%2C-accountability-and-reporting/Your-privacy) for the most accurate reproduction.*
 
 # Your privacy | Australian Taxation Office
 
@@ -12,14 +12,21 @@ In general terms, the _Privacy Act 1988_ protects the personal information of in
 
 We comply with the _Privacy Act 1988_ , which contains provisions designed to safeguard personal information about you. The Privacy Act requires us to comply with privacy principles set out in that Act.
 
-The amended principles of the Privacy Act became effective on12 March 2014. As an individual, the Privacy Act gives you greater control over the way that your personal information is handled. The Privacy Act allows you to:
+The amended principles of the Privacy Act became effective on 12 March 2014. As an individual, the Privacy Act gives you greater control over the way that your personal information is handled. The Privacy Act allows you to:
 
   * know why your personal information is being collected, how it will be used and who it will be disclosed to
-  * ask for access to your records (including your sensitive information about you)
+  * ask for access to your records (including sensitive information about you)
   * correct inaccurate information about you
-  * make a complaint, if you think we have mishandled your personal information.
+  * make a complaint, if you think we have mishandled your personal information
+  * deal with us, in certain circumstances, without identifying yourself, such as when you make a general enquiry. 
 
 
+
+The new privacy law changes require us to treat appropriately any sensitive information and information that we have not requested.
+
+We will consider whether we need your consent to collect sensitive information. In other circumstances, where it is necessary and authorised by law, we may collect this information.
+
+When we receive information from you that has not been requested by us, we protect the information by placing it in a Commonwealth record. In some circumstances, we may need to destroy or de-identify the information as required by the privacy laws
 
 [Privacy notices for individuals](https://web.archive.org/About-ATO/Access,-accountability-and-reporting/Your-privacy/Privacy-notices-for-individuals/)  
 
@@ -51,7 +58,7 @@ We collect personal information when you interact with us using our online servi
 
 [When we collect information from others ](https://www.ato.gov.au/About-ATO/Access,-accountability-and-reporting/Your-privacy/When-we-collect-information-from-others/ "When we collect information from others ")
 
-We collect personal information from you directly as well as from other people and organisations, such as your employer, your bank, your superannuation fund and other Government agencies.
+We collect personal information from you directly, as well as from other people and organisations, such as your employer, your bank, your superannuation fund and other government agencies.
 
 [Secure and private information](https://web.archive.org/About-ATO/Access,-accountability-and-reporting/Your-privacy/Secure-and-private-information/)  
 
