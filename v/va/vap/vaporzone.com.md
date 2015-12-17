@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vaporzone.com privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630054510id_/http%3A//www.vaporfi.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vaporzone.com privacy policy that was archived on 2015-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151217103525id_/http%3A//www.vaporfi.com/privacy.html) for the most accurate reproduction.*
 
 # VaporFi | Privacy Policy
 
@@ -58,7 +58,7 @@ Information such as your computer’s IP address, the browser you use, and a nav
 
 *You have the option to alter, add to, or update certain information you send to us. Let it be known however, when information is updated we usually retain a copy of the original version in our records.
 
-*If you wish not to receive email communications or other mail from us, of if you want to check your personal information, please feel free to contact us via email at service@vaporfi.com
+*If you wish not to receive email communications or other mail from us, of if you want to check your personal information, please feel free to contact us via email at service
 
 #### Access to Your Personal Information. 
 
@@ -78,6 +78,6 @@ VaporFi Privacy Policy applies only to this website, however our website does co
 
 #### Questions Regarding This Privacy Policy. 
 
-Should you have any questions, concerns, or comments regarding our privacy practices, please do not hesitate to e-mail us at service@VaporFi.com
+Should you have any questions, concerns, or comments regarding our privacy practices, please do not hesitate to e-mail us at service
 
 This policy was last updated on September 1, 2013
