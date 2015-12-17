@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ad4game.com privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611182357id_/http%3A//ad4game.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ad4game.com privacy policy that was archived on 2015-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151217133338id_/http%3A//www.ad4game.com/privacy) for the most accurate reproduction.*
 
 # Ad4Game: Privacy Policy
 
