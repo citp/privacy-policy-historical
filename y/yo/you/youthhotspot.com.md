@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the youthhotspot.com privacy policy that was archived on 2015-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150510122219id_/http%3A//www.youthhotspot.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the youthhotspot.com privacy policy that was archived on 2015-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151217153148id_/http%3A//www.youthhotspot.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Youthhotspot.comYouthhotspot.com
 
@@ -6,7 +6,7 @@ If you require any more information or have any questions about our privacy poli
 
 At www.youthhotspot.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.youthhotspot.com and how it is used.
 
-View all the rights of the Domain Ownership at [here](http://www.youthhotspot.com/google/).
+View all the rights of the Domain Ownership at [here](https://web.archive.org/google/).
 
 **Log Files**
 
@@ -20,7 +20,7 @@ www.youthhotspot.com does use cookies to store information about visitors prefer
 
 .:: Google, as a third party vendor, uses cookies to serve ads on www.youthhotspot.com.  
 .:: Google’s use of the DART cookie enables it to serve ads to users based on their visit to www.youthhotspot.com and other sites on the Internet.  
-.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – <http://www.google.com/privacy_ads.html>
+.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – [http://www.google.com/privacy_ads.html](https://www.google.com/privacy_ads.html)
 
 Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include Google Adsense.
 
