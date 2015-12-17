@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the buyspares.co.uk privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626162936id_/http%3A//www.buyspares.co.uk/payment-security/help.pl) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buyspares.co.uk privacy policy that was archived on 2015-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151217114843id_/http%3A//www.buyspares.co.uk/payment-security/help.pl) for the most accurate reproduction.*
 
 # Terms & Conditions
 
@@ -83,10 +83,6 @@ We realise just how important it is to keep your personal and payment informatio
 Sensitive information that is transmitted to us online (such as credit card numbers) is encrypted and transmitted to us securely. You can check that you are shopping in a secure environment by looking for a locked padlock icon (Internet Explorer and Firefox) in the grey bar at the bottom of your screen. This will appear on any page where you are entering personal information (such as your credit card details). No other page will transmit information about you.
 
 Just to make things extra-safe, we restrict access to all of the information you submit, not just the sensitive information mentioned above. Additionally, the servers on which we store personally identifiable information are kept in a secure environment.
-
- 
-
-We are committed to keeping your data safe throughout every transaction and are fully PCI compliant. This means that we adhere to the PCI DSS requirements for security management, policies, procedures, network architecture, software design and other critical protective measures. Being PCI compliant is crucially important as it provides additional confidence and protection against data breaches.
 
 ##### Shopping Securely With Us
 
