@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tspscjobs.net privacy policy that was archived on 2015-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150616215754id_/http%3A//tspscjobs.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tspscjobs.net privacy policy that was archived on 2015-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151217094110id_/http%3A//tspscjobs.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Telangana TSPSC Notifications 2015 Telangana TSPSC Notifications 2015
 
