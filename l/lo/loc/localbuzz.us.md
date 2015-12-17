@@ -1,70 +1,84 @@
-> *The following text is extracted and transformed from the localbuzz.us privacy policy that was archived on 2014-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140617095327id_/http%3A//www.localbuzz.us/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the localbuzz.us privacy policy that was archived on 2015-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151217055116id_/http%3A//www.localbuzz.us/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy | LocalBuzz
+# Localbuzz.us
 
-## Privacy Notice 
+## Privacy Policy
 
-**Table Of Contents:**
+### Summary
 
-_*** Our Commitment To Privacy  
-* The Information We Collect  
-* How We Use Information  
-* Our Commitment To Data Security  
-* Our Commitment To Children's Privacy  
-* How To Access Or Correct Your Information  
-* How To Contact Us**_ ****
+This policy describes how Localbuzz.us collects, uses, shares, and secures information on our owned and operated websites, mobile applications and other properties, as well as the services we use to communicate with consumers and to facilitate communications between consumers and the businesses who advertise with us. Although you should read through the entire policy for complete information, the following provides a summary of some of the most important aspects of our privacy practices:
 
-**Our Commitment To Privacy**
+  * We use your personally-identifiable information to provide you with products, services, and information, including more relevant search results and advertising and to make sharing with others quicker and easier, while enabling you to maintain control of that sharing.
+  * We may share your personally-identifiable information with third parties in some situations, such as if you decide to communicate with a company that advertises through our application.
+  * We are committed to working with you to reach the right balance of what information we collect, use, and share, by providing you with ways to control information that we collect, through our opt-out mechanisms.
+  * We take reasonable measures to secure your sensitive personally-identifiable information, but we cannot promise, and you should not expect, that your sensitive personally-identifiable information will remain secure in all circumstances.
 
-Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
 
-**The Information We Collect:**
 
-This notice applies to all information collected or submitted on the Localbuzz.us website. On some pages, you can order products, make requests, and register to receive materials. The types of personal information collected at these pages are:
+### What information do we collect ?
 
-Name  
-Address  
-Email address  
-Phone number
+When we use the term “information” we are referring to both personally-identifiable information and non-personally-identifiable information that we collect about you. “Personally-identifiable information” refers to information that personally identifies you, or can reasonably be linked to you by us. Personally-identifiable information can either be “sensitive” or “non-sensitive.” “Sensitive personally-identifiable information” refers to information that is generally considered confidential such as your financial account number, billing information, social security number, and precise location. “Non-sensitive personally-identifiable information” refers to information that is generally not considered confidential such as your name, date of birth, mail or email address, telephone number, friends’ name or email address if you choose to refer them to us, general geographic information (e.g., your city or state), account preferences, and business information. “Non-personally-identifiable information” refers to information that does not specifically identify you, or has been processed so as to effectively prevent your identification, and may include data associated with a particular computer or device you are using that does not personally identify you.
 
-On some pages, you can submit information about other people. For example, if you order a gift online and want it sent directly to the recipient, you will need to submit the recipient's address. In this circumstance, the types of personal information collected are:
+### How do we use the information ?
 
-Name  
-Address  
-Phone Number
+Our primary purpose in collecting information about you is to provide you with products, services, information, and advertisements that match your interests and preferences. For example, we may use this information to fulfill your order, respond to your inquiries, administer your account, send marketing, assess your needs and interests in order to better tailor offers and/or advertising, improve our website and marketing, conduct research, display content based upon your interests, allow you to search information on our site, and/or list you in our search and directory services. We do this on behalf of ourselves and the businesses which advertise with us. We also use traffic data received through our technologies, in conjunction with third-party demographic and interest-based data, to provide services to our Customers such as tools to see how their website or mobile applications are used.
 
-**The Way We Use Information:**
+### What information do we collect?
 
-We use the information you provide about yourself when placing an order only to complete that order. We do not share this information with outside parties except to the extent necessary to complete that order.
+We collect information from you by asking that you provide it to us on-line, through a mobile application or device or via other means by which we communicate with you. We also collect information when you choose to communicate with us or when you choose to utilize our services to communicate with other users of our services or with the businesses who advertise with us. We also collect information about your interactions with third-party websites and applications that use our technologies, and may combine the information we collect about you with additional demographic and interest-based data from third-party providers. This may include:
 
-We use the information you provide about someone else when placing an order only to ship the product and to confirm delivery. We do not share this information with outside parties except to the extent necessary to complete that order.
+  1. Identification data (e.g. name, username, password, address, telephone number, mobile number, email address);
+  2. Profile information (e.g. age, gender, country of residence, language preference, MyBook business listings and any information that you choose to make available as part of your Localbuzz.us user profile or your MyBook);
+  3. Products or services ordered and delivered;
+  4. List of your contacts and related data (we will give you a choice as to when and whether you want Localbuzz.us to use contact lists from other services to populate your Localbuzz.us provided contacts list, such as MyBook);
+  5. The content of any communications you choose to have with us or with any of our other users or advertisers via the services we make available (e.g. reviews, e-mails, instant messages, recorded telephone calls (including those which we records or store on behalf of our advertisers), user-generated content, etc.); and
+  6. Data from surveys in which you participate.
 
-We offer gift-cards by which you can personalize a product you order for another person. Information you provide to us to create a gift-card is only used for that purpose, and it is only disclosed to the person receiving the gift.
 
-We use return email addresses to answer the email we receive. Such addresses are not used for any other purpose and are not shared with outside parties.
 
-You can register with our website if you would like to receive our catalog as well as updates on our new products and services. Information you submit on our website will not be used for this purpose unless you fill out the registration form.
+We may also collect information from you automatically. For instance, we, like many websites and applications, automatically collect information including the computer or wireless device you use, unique device identifier, location data, the type of browser and operating system that you use, the internet provider or wireless carrier you use, the webpages or applications you view, the time and duration of your visits, the search queries that you enter, and how you interact with advertising. Among other things, we use the following technologies to automatically collect information:
 
-We use non-identifying and aggregate information to better design our website and to share with advertisers. For example, we may tell an advertiser that X number of individuals visited a certain area on our website, or that Y number of men and Z number of women filled out our registration form, but we would not disclose anything that could be used to identify those individuals.
+  * “Cookies” are small data files placed on your computer by the websites you visit and the emails you read and can be used to help recognize you when you return to a website, or when you visit other sites. We, or third party service providers, may use cookies to, among other things, measure activity, personalize your experience, remember your viewing preferences, or track your status or progress when accessing our site. For some of these purposes our cookies may be tied to personally-identifiable information. If you choose, you can set your browser to reject cookies or you can manually delete individual or all of the cookies on your computer by following your browser’s help file directions. If your browser is set to reject cookies or you manually delete cookies, you may have trouble accessing and using some of the pages and features that are currently on our website, or that we may put on our website in the future. We do not operate the cookies or tracking technology used by our third party service providers.
+  * “Unique Identifiers” are unique strings of characters that are used to identify you, your computer, or your mobile device. Such identifiers may be preset on your computer or mobile device. We may use unique identifiers to recognize you when you visit our sites or use our mobile applications.
+  * “Local Shared Objects,” “LSO’s,” or “Flash Cookies” are data files similar to cookies, except that they can store more complex data. These are used to remember settings, preferences, and usage, particularly for video, interactive gaming, and other similar services. Cookie management tools provided by your browser will not remove them. To learn how to manage privacy and storage settings for LSO’s or Flash Cookies [click here](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html#117118).
+  * “Telephone Caller ID” refers to information automatically transmitted about you when you call someone. If you call a telephone number that we have provided to you, your caller ID may be recorded. Most telephone providers will, upon request, block your caller ID. Such services may not always be effective if you choose to call a pay-per-call (900) or toll-free number.
+  * “Web beacons” or “clear pixels” are small graphic images on a Web page or in an e-mail that can be used for such things as recording the pages and advertisements clicked on by users, or tracking the performance of e-mail marketing campaigns.
+  * A “web server log” is a record of activity created by the computer that delivers the webpages you request to your browser. For example, a web server log may record the search term you entered or the link you clicked to bring you the webpage. The Web server log also may record information about your browser, such as your IP address and the cookies set on your browser by the server.
+  * A “widget” is a program or application that can be embedded in a web page or mobile application. Widgets can provide real-time information, such as stock quotes or weather reports, or take information, such as restaurant reservations or online food orders. Widgets are often provided and hosted by a third party, and may allow that third party to collect data about users viewing that page or interacting with that widget, possibly subject to privacy policies other than Localbuzz.us’s. We also use Social Media Features such as the Facebook Like button. In addition to information you fill in, these features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the feature to function properly.
+  * You can log in to our site using “sign-in services” such as Facebook Connect or an Open ID provider. These services will authenticate your identity and provide you the option to share certain personally-identifiable information with us, such as your name and email address to pre-populate our sign up form, or to post information to your account.
+  * “Geo-location technologies” refers to technologies that permit us to determine your location. We may ask you to manually provide precise location information on our website, or to enable your mobile device to send us precise location information in order to provide you with relevant services in your area.
+  * We may also automatically use information from your web server or computer to determine general location information, such as the city in which you live.
 
-Finally, we never use or share the personally identifiable information provided to us online in ways unrelated to the ones described above without also providing you an opportunity to opt-out or otherwise prohibit such unrelated uses.
 
-**Our Commitment To Data Security**
 
-To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online.
+In addition to information that we collect from you, we may collect information about you from third parties for purposes such as ad targeting, optimization and reporting.
 
-**Our Commitment To Children's Privacy:**
+### With whom do we share information?
 
-Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our website from those we actually know are under 13, and no part of our website is structured to attract anyone under 13.
+We may share information about you with third parties in certain circumstances including in the following situations. 
 
-**How You Can Access Or Correct Your Information**
+**Advertisers**. If you decide to communicate with a company that advertises with us, for example by calling a telephone number or clicking a link that we provide for that advertiser, we may share non-sensitive personally-identifiable information with the advertiser, including non-sensitive personally-identifiable information that might help the advertiser to contact you, including device identifiers, names of applications associated with a click/install and click/install times. 
 
-You can access all your personally identifiable information that we collect online and maintain by [description of the company access procedure]. We use this procedure to better safeguard your information.
+**Advertising Networks**. A third party may use technology (e.g., a cookie) to collect non-sensitive personally-identifiable information about your use of our website or mobile applications so that they can provide advertising about products and services tailored to your interests. If you would like to opt-out of having third party advertising networks use information that Localbuzz.us has shared with them to target advertising to you please see the instructions in the section titled “What Privacy Choices Do I Have” below. 
 
-You can correct factual errors in your personally identifiable information by sending us a request that credibly shows error.
+**Affiliates**. We may share all types of information with the Localbuzz.us family of companies, including all companies doing business under the Localbuzz.us brand in the ordinary course of business, for the purpose of fulfilling the services that we provide to our customers and to customize your experience. 
 
-To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections.
+**Blogs, Online Postings, and Testimonials**. We may share with the public any information that you publish in conjunction with an on-line review, comment, blog, or message board. This may include non-sensitive personal information that identifies you. 
 
-**How To Contact Us**
+**Business Transition**. In the event that we, or part, or all, of our assets are acquired, we may share all types of information with the acquiring company. You will be notified via email or a notice on our website of any change in ownership or uses of your personally-identifiable information, as well as any choices you may have regarding your personally-identifiable information. 
 
-Should you have other questions or concerns about these privacy policies, please send us an email at [info@Localbuzz.us](https://web.archive.org/web/20140617095327id_/http%3A//www.localbuzz.us/info@localbuzz.us).
+**In-line Applications & Tools**. We may offer applications, tools, or widgets on our website or in our applications that indicate that they are “powered by” a third party. If you use those applications and tools we may share non-sensitive personally-identifiable information and any additional information you provide as part of that use with that third party. The third party’s use of that information is subject to their privacy policy. 
+
+**Law Enforcement**. We may report to law enforcement agencies any activities that we reasonably believe to be unlawful, or that we believe may aid a law enforcement investigation. In addition, we reserve the right to release all types of information to law enforcement agencies if we determine, in our sole judgment, that either you have violated our policies, or the release of information about you may protect the rights, property or safety of us or another person. 
+
+**Legal Processes**. We may share all types of information with others as required by, or permitted by, law. This may include sharing all types of information with governmental entities, or third parties in response to subpoenas, court orders, other legal process, or as we believe is necessary to exercise our legal rights, to defend against legal claims that have been brought against us, or to defend against possible legal claims that we determine in our sole discretion might be brought against us. 
+
+**Service Providers**. We share all types of information with people and companies that provide us with services. These services may include, among other things, helping us provide products or services that you request, create or maintain our databases, research or analyze the people who use our websites, a mapping service provider to provide a map of the location you are in, and/or process payment card information. Unless you consent, we do not permit our service providers to market their own products or services to you directly. We also require our service providers to agree to take reasonable steps to keep the personally-identifiable information that we provide to them secure. In some instances, we may maintain the look and feel of our site while you are on our service provider’s site. You should look for the “privacy policy” link of any page on which you are submitting information to determine if this privacy policy, or another company’s privacy policy, governs. 
+
+**Other Third Parties (without your consent)**. We may share non-personally-identifiable information with other third parties that are not described above. When we do so we endeavor to either aggregate or de-identify the information so that a third party would not be likely to link data to you, your computer, or your device. Aggregation means that we combine the non-personally-identifiable information of numerous people together so that the data does not relate to any one person. De-identify means that we remove or change (e.g., hash) certain pieces of information that might be used to link data to a particular person. 
+
+**Other Third Parties (with your consent)**. We may share any information, including sensitive personally-identifiable information, with other third parties that are not described above if you give us consent to do so.
+
+### How do we secure information ?
+
+We take our commitment to securing personally-identifiable information in our possession seriously. When you provide your credit card number or a social security number we protect your information during transmission and storage through the use of encryption. We also encrypt sensitive data such as geo-location information in transmission. For other types of information, we use reasonable measures to help prevent the information from becoming disclosed to individuals who are not described in this policy. It is important for you to protect against unauthorized access to your password and to your computer. No security measures are perfect and we cannot promise that the information about you will remain secure in all circumstances.
