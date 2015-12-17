@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freehostedscripts.net privacy policy that was archived on 2015-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150321100522id_/http%3A//freehostedscripts.net/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freehostedscripts.net privacy policy that was archived on 2015-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151217192559id_/http%3A//freehostedscripts.net/privacypolicy) for the most accurate reproduction.*
 
 # Free Hosted Scripts
 
@@ -12,7 +12,7 @@ At Freehostedscripts.net, we only compile your follower count and followers URL.
 We have implemented many security measures even though the data we have collected is not personally identifiable. 
 
 **Do we use cookies?**  
-Freehostedscripts.net does not use cookies. We do use session cookies to rate limit requests on certain functions of the site. We do display third party ads (Google Adsense). Google does use cookies to serve ads on www.freehostedscripts.net. To find out more about google ads visit http://www.google.com/privacy_ads.html 
+Freehostedscripts.net does not use cookies except to rate limit functions directly on FHS. As for the scripts we use a third party CDN. If you access the scripts directly the CDN places a security cookie but if our scripts are on a users website no cookie is placed. We do display third party ads (Google Adsense). Google does use cookies to serve ads on www.freehostedscripts.net. To find out more about google ads visit http://www.google.com/privacy_ads.html 
 
 **Third party links**  
 Any links that link outside of freehostedscripts.net we can't offer any guarantees they follow the same Privacy Policy above. 
