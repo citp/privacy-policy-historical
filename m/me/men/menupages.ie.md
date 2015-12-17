@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the menupages.ie privacy policy that was archived on 2015-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150616193853id_/http%3A//www.menupages.ie/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the menupages.ie privacy policy that was archived on 2015-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151218003440id_/http%3A//www.menupages.ie/privacypolicy) for the most accurate reproduction.*
 
 # Privacy and Security
 
@@ -39,6 +39,34 @@ MenuPages.ie gives you access to a broad range of information about your account
 As discussed above, you can always choose not to provide information, even though it might be needed to make a purchase or to take advantage of such MenuPages.ie features as your About You area, Wish Lists and Customer Reviews. You can add or update certain information on pages such as those listed in Which Information Can I Access?. When you update information, we usually keep a copy of the previous version for our records. If you do not want to receive e-mail or other mail from us, please adjust your Customer Communication Preferences. (If you do not want to receive Conditions of Use and other legal notices from us, such as this Privacy Notice, those notices will still govern your use of MenuPages.ie and orders placed with MenuPages.ie and MenuPages Jersey, and it is your responsibility to review them for changes.) The Help menu on the menu bar of most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie and how to disable cookies altogether. However, you will not be able to use such important features as 1-Click and New for You if you do not use cookies. Are Children Allowed to Use MenuPages.ie?
 
 MenuPages.ie does not sell products for purchase by children. We sell children's products for purchase by adults. If you are under 18, you may use MenuPages.ie only with the involvement of a parent or guardian.
+
+###  The types of personal information we collect and how we collect it:
+
+**Information you provide upon registration:** in order to make use of certain services provided through the website such as the forums and email newsletters you will provide us with information about yourself and you will be able to select how we use your information for marketing purposes; We will only use your information in accordance with your instructions and as set out in this privacy policy.
+
+**Demographic and other data:** this website uses cookies, web analytics and web logs to collect information about your use of our site, information about your computer such as your computer’s IP address and browser type, demographic data and, if you arrived at our site via a link from a third party site, the URL of the linking page. If you have registered an account with us, it may also collect your name and email address.
+
+**Email communications:** we use web beacons in our emails to track the success of our marketing campaigns. If you open an email from us, we can see which of the pages of our website you visited. Our web beacons don’t store any information on your computer but, by communicating with our cookies on your computer, they can tell us when you have opened an email from us. We may keep track of the emails that we send you. We also keep a record of what communications you have selected to receive or not to receive. If you would like to opt out of receiving such emails, please click the “unsubscribe” link in the email and follow the instructions.
+
+###  Who we may share your personal information with:
+
+**Agents:** we use third parties to perform certain functions on our behalf including fulfilling orders, sending emails, organising and managing competitions, promotions, surveys or polls, removing repetitive information from customer lists, comment hosting, website analysis, data analysis, translation services and processing credit card payments. They will have access to your personal information if necessary to perform their function but they cannot use it or disclose it for any other purpose, unless you have specifically given them consent to do so. 
+
+**Aggregate Information:** we may share aggregate, non-personally identifiable information, such as demographics and website usage statistics, with advertisers, sponsors and other organisations.
+
+**Third-Party Ad Serving and Audience and Traffic Measurement Services:** we may use a third-party network advertiser to serve the advertisements on this website or we may use an audience or traffic measurement service to analyse the traffic on this website. Network advertisers are third parties that display advertisements based on your visits to this website and other websites you have visited. Third-party ad serving enables us to target advertisements to you for products or websites you might be interested in. Audience and traffic measurement services allow us to collect anonymous traffic and behavioural information from the website by monitoring anonymous visitor activity. This website’s advertisers, sponsors and/or traffic measurement services may themselves set and access their own cookies on your computer if you choose to have your cookies enabled in your browser.
+
+###  Cookie Opt-Outs
+
+Some people find the idea of a website storing information on their device a little intrusive, in particular when the information is stored and used by a third party. For example, you may object to being served advertising which is targeted to your interests based on your browsing history. If you would prefer to opt out of cookies, it is possible to control cookies by following the steps below, however you should be aware that you might lose some features and functionality of the website if you do so
+
+Cookies, including those which have already been set, can be deleted from your hard drive. You can also change the preferences/settings in your web browser to control cookies. In some cases, you can choose to accept cookies from the primary site, but block them from third parties. In others, you can block cookies from specific advertisers, or clear out all cookies. Deleting or blocking cookies may reduce functionality of the site. To learn more about how to reject cookies, visit [www.allaboutcookies.org](http://www.allaboutcookies.org/) or go to the help menu within your internet browser.
+
+**Opting out of Behavioural Advertising Cookies:**
+
+If you would like to disable “third party” cookies generated by advertisers or providers of targeted advertising services, you can turn them off by going to the third party’s website and getting them to generate a one-time “no thanks” cookie that will stop any further cookies being written to your machine.
+
+You can find out how to decline online behavioural advertising by visiting:
 
 ###  Conditions of Use, Notices, and Revisions
 
