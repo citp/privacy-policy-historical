@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lloydstsb-offshore.com privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217070336id_/http%3A//international.lloydsbank.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lloydstsb-offshore.com privacy policy that was archived on 2015-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151217230642id_/http%3A//international.lloydsbank.com/privacy) for the most accurate reproduction.*
 
 # Privacy policy - Lloyds Bank International - Lloyds International
 
@@ -6,9 +6,9 @@
 
   * Your personal information will be held securely in Lloyds Banking Group systems (including systems in the UK) so that we and any other companies in our Group that you have dealings with, either now or in the future, can manage your relationship with us. This will include information you provide when you apply to us, and any additional information provided by you or others in various ways, including:
 
-    1. in applications, emails and letters, during telephone calls and conversations in branch, when registering for services, in customer surveys, when you participate in competitions and promotions, through Lloyds Banking Group company websites, and during financial reviews and interviews;
-    2. from analysis (for example, the amount, frequency, location, origin, and recipient) of your payments and other transactions, and your use of services involving other Lloyds Banking Group companies and what they know from operating your account; and
-    3. information Lloyds Banking Group companies receive from each other, from our business partners, and from other organisations such as credit reference agencies and fraud prevention agencies.
+    1. in applications, emails and letters, during telephone calls and conversations in branch, when registering for services, in customer surveys, when you participate in competitions and promotions, when using Lloyds Banking Group company websites, and during financial reviews and interviews;
+    2. from analysis (for example, the amount, frequency, location, origin, and recipient) of your payments and other transactions, and your use of services involving other Lloyds Banking Group companies and what they know from operating your account (including the creation of profiles used to uniquely identify you when you use our online, mobile and telephony services) which are used to help us combat fraud and other illegal activity; and
+    3. information Lloyds Banking Group companies receive from or through other organisations (for example card associations, credit reference agencies, insurance companies, retailers, comparison websites, social networks, and fraud prevention agencies) whether in the course of providing products and services to you or otherwise, and from information we gather from your use of and interaction with our internet and mobile banking services and the devices you use to access them. 
 
 We will not retain your personal information for longer than is necessary for the maintenance of your account, or for legal or regulatory requirements.
 
@@ -16,18 +16,19 @@ We will not retain your personal information for longer than is necessary for th
 
     1. providing you with products and services and notifying you about either important changes or developments to the features and operation of those products and services;
     2. responding to your enquiries and complaints;
-    3. administering offers, competitions, and promotions; and
-    4. undertaking financial reviews;
-and also for the following data sharing activities: 
-    5. updating, consolidating, and improving the accuracy of our records;
-    6. undertaking transactional analysis;
-    7. arrears and debt recovery activities;
-    8. testing new systems and checking upgrades to existing systems;
-    9. crime detection, prevention, and prosecution;
-    10. evaluating the effectiveness of marketing, and for market research and training;
-    11. customer modelling, statistical and trend analysis, with the aim of developing and improving products and services;
-    12. assessing lending and insurance risks across the Lloyds Banking Group; and
-    13. managing your relationship with the Lloyds Banking Group companies.
+    3. administering offers, competitions, and promotions;
+    4. undertaking financial reviews; and
+    5. facilitating the secure access to online platform;  
+and also for the following data sharing activities:
+    6. updating, consolidating, and improving the accuracy of our records;
+    7. undertaking transactional analysis;
+    8. arrears and debt recovery activities;
+    9. testing new systems and checking upgrades to existing systems;
+    10. crime detection, prevention, and prosecution;
+    11. evaluating the effectiveness of marketing, and for market research and training;
+    12. customer modelling, statistical and trend analysis, with the aim of developing and improving products and services;
+    13. assessing lending and insurance risks across the Lloyds Banking Group; and
+    14. managing your relationship with the Lloyds Banking Group companies.
 
 By sharing this information it enables us, and other companies in the Lloyds Banking Group, to better understand your needs and run your accounts in the efficient way that you expect.
 
@@ -64,7 +65,7 @@ We will always ensure your information remains safe and secure.
 
   * Sometimes, when you open a joint account or product, this may mean that your personal data will be shared with the other applicant. For example, transactions made by you will be seen by your joint account holder and vice versa.
 
-  * The Data Protection Regulations define certain information as ‘sensitive’ (racial or ethnic origin, political opinions, religious beliefs, trade union membership, physical or mental health, sexual life, criminal proceedings and offences). If you apply to us for insurance, a pension, health insurance or life assurance, we may ask you for some ‘sensitive’ details. We will only use this information to provide the service you require and we will ask for your explicit consent. As a customer, there may be times when you give us sensitive information. We may share it with other Lloyds Banking Group companies and our subcontractors to keep your records up to date.
+  * The Data Protection Regulations define certain information as ‘sensitive’ (racial or ethnic origin, political opinions, religious beliefs, trade union membership, physical or mental health, sexual life, criminal proceedings and offences). If you apply to us for insurance, a pension, health insurance, life assurance or investment advice, we may ask you for some ‘sensitive’ details. We will only use this information to provide the service you require and we will ask for your explicit consent. As a customer, there may be times when you give us sensitive information. We may share it with other Lloyds Banking Group companies and our subcontractors to keep your records up to date.
 
   * Some transactions that you or additional card holders make on a card account may cause sensitive or confidential details to appear on your statement. By using your card to make such transactions you give us your explicit consent to process this information.
 
@@ -105,9 +106,9 @@ We carry out most of our credit searches using Experian, but details of how you 
 
 For Channel Islands and Isle of Man their addresses are:
 
-    * Experian Consumer Help Service, PO Box 9000, Nottingham NG80 7WP or call 0844 481 8000 or log on to [www.experian.co.uk](http://www.experian.co.uk/ "www.experian.co.uk")
-    * Equifax plc, Credit File Advice Centre, PO Box 1140, Bradford BD1 5US or log on to [www.myequifax.co.uk](http://www.myequifax.co.uk/ "www.myequifax.co.uk")
-    * CallCredit, Consumer Services Team, PO Box 491, Leeds LS3 1WZ or call 0870 060 1414 or log on to [www.callcredit.plc.uk](http://www.callcredit.plc.uk/ "www.callcredit.plc.uk")
+    * Experian Consumer Help Service, PO Box 9000, Nottingham NG80 7WP or call 0344 481 8000 or log on to [www.experian.co.uk](http://www.experian.co.uk/ "www.experian.co.uk")
+    * Equifax plc, Credit File Advice Centre, PO Box 1140, Bradford BD1 5US or log on to [www.equifax.co.uk](https://www.equifax.co.uk/ "www.equifax.co.uk")
+    * CallCredit, Consumer Services Team, PO Box 491, Leeds LS3 1WZ or call 0870 060 1414 or log on to [www.callcredit.co.uk](http://www.callcredit.co.uk/ "www.callcredit.co.uk")
 
 For Jersey and Guernsey we may also use the following:
 
@@ -121,7 +122,7 @@ For Jersey and Guernsey we may also use the following:
     * checking details on proposals and claims for all types of insurance; and
     * checking details of job applicants and employees.
 
-Please contact us on **0845 602 7174** if you want to receive details of the relevant fraud prevention agencies. We and other organisations may access and use from other countries the information recorded by fraud prevention agencies.
+Please contact us on **0345 602 7174** if you want to receive details of the relevant fraud prevention agencies. We and other organisations may access and use from other countries the information recorded by fraud prevention agencies.
 
   * We may ask you to provide physical forms of identity verification when you open your account. Alternatively, we may search CRA files in assessing your application. The agency also gives us other details and information from the Electoral Register to verify your identity. The agency keeps a record of our search, whether or not your application proceeds. Our search is not seen or used by lenders to assess your ability to obtain credit.
 
@@ -156,10 +157,16 @@ We promise not to contact you about everything - only if we think it could be ap
 
 Visit our [cookie notice page](http://international.lloydsbank.com/cookies/ "cookie notice page") for access to our cookie notice.
 
-  *   *     * We keep our privacy statement under regular review and we will reflect any updates within this statement. This privacy statement was last updated on 08 September 2014. 
+  *   *     * We keep our privacy statement under regular review and we will reflect any updates within this statement. This privacy statement was last updated July 2015. 
 
 September 2014  
 “How we use Credit Reference Agencies”: The additional credit reference agencies that we may use in Jersey and Guernsey have changed as follows: TABS (Trades Advisory Bureau Services) and Chancellor’s Debt Recovery Limited are replaced with Integricheck. 
+
+May 2015  
+Remove company names: Lloyds Management (Channel Islands) Limited, Lloyds Trust Company (Channel Islands) Limited. 
+
+July 2015  
+To help us confirm your identity and protect your accounts, we’re improving the way we uniquely identify you based on how you use our Internet Banking service. We have updated the sections of our Privacy Statement that outline ‘where we obtain your information’ and ‘how we share your information’ to reflect changes. 
 
 
 
