@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seekingarrangement.com privacy policy that was archived on 2015-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150319140525id_/https%3A//www.seekingarrangement.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seekingarrangement.com privacy policy that was archived on 2015-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151217181349id_/https%3A//www.seekingarrangement.com/privacy) for the most accurate reproduction.*
 
 # Wealthy Dating | Privacy Policy | SeekingArrangement | The #1 Site for Mutually Beneficial Arrangements | SeekingArrangement.com
 
@@ -22,7 +22,7 @@ When you register as a member of SeekingArrangement.com, you are asked for a num
 
 ### Visitor Information
 
-We gather information about all users collectively, such as what areas users visits most frequently and what services users access the most. We only use such data anonymously and in the aggregate. This information helps us determine what is the most benefitial for our users and how we can continually create a better overall user experience. We may share this information with our partners, but only in the aggregate, so that they may also understand how our visitors use our website.
+We gather information about all users collectively, such as what areas users visits most frequently and what services users access the most. We only use such data anonymously and in the aggregate. This information helps us determine what is the most beneficial for our users and how we can continually create a better overall user experience. We may share this information with our partners, but only in the aggregate, so that they may also understand how our visitors use our website.
 
 ### Specific Information
 
@@ -51,6 +51,8 @@ SeekingArrangement.com allows you to change your personal information at any tim
 When you place an order online, your personal details and credit card information are encrypted using SSL encryption techology before being sent over the Internet. Although we cannot guarantee encryption or the privacy of your personal details, SSL makes it very difficult for your information to be stolen or intercepted while being transferred.
 
 Our credit card transactions are processed by [MultiCards](http://www.multicards.com/). All information sent to MultiCards is in the secure SSL environment, which will protect it against disclosure to third parties. When we receive your order, it is on an SSL server. For MultiCards' privacy statement, please click [HERE](https://www.multicards.com/en/privacy.html).
+
+At the point when an end-user wishes to make a payment, his registration details may be passed to Paymentwall that provides payment processing services, in order for Paymentwall to better protect service and end-users from unauthorized payments.
 
 ### Cookies
 
