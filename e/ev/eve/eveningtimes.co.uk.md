@@ -1,83 +1,61 @@
-> *The following text is extracted and transformed from the eveningtimes.co.uk privacy policy that was archived on 2012-02-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120211153508id_/http%3A//www.eveningtimes.co.uk/misc/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eveningtimes.co.uk privacy policy that was archived on 2015-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151217204751id_/http%3A//www.eveningtimes.co.uk/my/account/privacypolicy) for the most accurate reproduction.*
 
-# Evening Times | misc | Privacy Policy
+# Privacy Policy
 
-**Privacy Policy**
+Publishing companies in the Newsquest Media Group do not store or capture personal data about you when you visit one of our sites, other than to record the IP address of your computer or device, your web browser and the number of pages you view during a visit.
 
-This site is owned and operated by the Herald & Times Group. We are committed to protecting your right to personal privacy. That is why we have drafted this notice to explain the type of information we collect on this web site (the "Site") and how we use this information. This Policy also explains the choices that you can make about the way your information is collected and used.
+We use the information only for system administration and to help us evaluate use of the network of Newsquest websites so that we can continue to develop and improve our online services. In addition, the information is used anonymously in order to recommend to you and others content that may be of interest.
 
-By using this web site you are deemed as agreeing to use of these details as described in this Policy. We appreciate that this Policy may seem long, however, we have created a thorough privacy statement to fully explain our information handling practices. Should you have any questions however, please feel free to direct these to support@heraldandtimes.co.uk  
-**  
-Information we collect – personally identifiable information**
+Where any personal data, like your name and address, is requested you will always be advised why it is needed, what it will be used for and how you can contact us to have the details amended or deleted. Personal information can be collected by us from you when you register for a news, property or job alert by email; comment on an article; request services from us or third parties connected with us; email us; use our website; participate in promotions; enter competitions or otherwise provide your personal details.
 
-We request identifying information from you for specific purposes. Typically, identifying information is collected:
+For example, you would need to fill in your name and address for competition entries, letters to the editor, or when you are accessing transactional services like booking advertisements online. 
 
-  * For registration to certain areas of the Site;
-  * To allow us to respond to your enquiries for further information;
-  * To distribute requested materials;
-  * When you are submitting user generated content such as comments or photographs
-  * The type of personal information collected on the Site could include your name, address, email address, telephone number, user name and password.
+In these transactional environments, you will also need to have cookies enabled (see our **[cookies policy](https://web.archive.org/my/account/cookiespolicy/)** ). You can decide if you want to accept cookies by changing the settings on your computer. If you do not accept cookies some features on our sites will not work as intended and the services we can supply to you will be significantly reduced. For instance, this will affect the delivery of advertisements, pop-ups and sub-sites, as well as transactional elements of booking advertisements online. It will also affect the use of forums, reader comments and message boards. You can reset your browser to refuse all cookies, or allow your browser to show you when a cookie is being sent. For more information, read our **[cookies policy](https://web.archive.org/my/account/cookiespolicy/)**.
 
+Newsquest Media Group publishing companies are registered with the Data Protection Commission in the UK and we adhere to the Data Protection Act 1998.
 
+**1\. Personal responsibility and choice**
 
-**Information we collect – non-personally identifiable information**
+Disclosure of personal, private and confidential material is at your own risk. Any information you choose to disseminate on the website, community forums, reader comment pages or blogs becomes public information and, subject to our **[Terms](https://web.archive.org/my/account/termsandconditions/)** , remains online. We cannot control site users and advise you to exercise care in disclosing personal information on the internet. However, we shall take care of any personal information you supply to us as described in this policy in accordance with data protection legislation. Persons under 16 should not disclose to us any personal information without first getting the permission of a parent or guardian.
 
-We collect non-personally identifiable data, known as ‘click-stream data’, across the portfolio of web sites owned by the Herald and Times Group. This click stream data is anonymous, and includes information such as IP address, which pages have been visited and what actions have been taken.
+**2\. Our policy**
 
-We use cookies to collect this type of information. Cookies are files or pieces of information that may be stored on your computer's hard drive when you visit a site. The use of cookies is an industry standard and you will find them at most sites. Most browsers are initially set to accept cookies. However, you can set your browser to refuse cookies or to alert you when cookies are being sent so that you can flush them from your browser if you object to their presence.
+By registering or subscribing to this website, or otherwise providing personal information to us, you agree to the collection, retention, usage and distribution of your personal information under this policy and the **[Terms](https://web.archive.org/my/account/termsandconditions/)** of use of the website.
 
-**The way we use information**
+**3\. Changes of policy**
 
-We may occasionally request your postcode details in order to ensure that we only deliver information relevant to you and only where we have obtained your prior express permission to do so. We will NOT use your postcode information to generate a full postal address (where completion of full address fields are not requested), nor will we mail out literature related to our websites unless you specifically request us to do so.
+This policy may be revised or updated at any time and we encourage you to familiarise yourself with it and read it frequently to keep yourself updated.
 
-When you register with the Site, you can elect to receive information and updates on our products and services by email and SMS. Will not use these addresses for any other purpose unless you give us your express permission to do so.
+**4\. Use of your personal information**
 
-We use return email addresses to answer any emails that we receive, and we may use return email addresses to send you other information that you request. Such addresses are not used for any other purpose.
+Your personal information, including contact information such as postal and email addresses and telephone numbers, may be used by us or by one of our connected companies (as defined in section 9 of the **[Terms](https://web.archive.org/my/account/termsandconditions/)** ) for any of our internal purposes, including for instance, administration, site updates or upgrades. It may be used anonymously for statistical analysis, market research and evaluating the use of our websites. We may also use identifiable personal data for editorial purposes, promotions and marketing of goods and services, but you can indicate you do not wish to receive such information from us by editing your account preferences [here](https://web.archive.org/my/account/log-in/).
 
-We use the non-personally identifiable information we collect, including data collected by cookies, to track user trends – for example how users search for content – to provide you with a tailored experience and to improve the quality of our services. We may also use cookies to help speed up your future activities or to improve your user experience by remembering the information that you have already provided to us. If you have submitted personally identifiable information to one of our websites then we may combine this information with the non-personally identifiable information that we collect in order to further enhance the service that we provide.
+**5\. Disclosure of personal information to third parties**
 
-You will have the opportunity to forward pages or information on the Site to friends. The information you provide to facilitate this email communication is used on a one-time basis and is not collected or retained by us.
+Your personal information will be disclosed where we are obliged or permitted to do so by law, or in the circumstances described in paragraph 20 of the Terms. We may disclose non-personally identifiable data to commercial advertisers on our websites or any other of our commercial clients to help them understand and meet potential customer preferences and needs. We may disclose your personal information to selected third parties who may then send information to you about goods and services. You can indicate you do not wish to receive such information by editing your account preferences [here](https://web.archive.org/my/account/log-in/).
 
-We make every practical effort to avoid excessive or irrelevant collection of data. If you believe the Site has collected excessive information, we encourage you to contact us at support@heraldandtimes.co.uk
+**6\. Retention of personal information**
 
-**Unsubscribe / Delete**
+We will keep your personal information securely on our systems for as long as may be necessary for the purposes described in this policy. At any time you can tell us if you do not want us to continue to store and use your details and we will erase them and cancel your registration for the website, although we may need to keep for a minimum of 12 months thereafter any messaging transcript data in connection with the use of community forums, reader comments or blogs or any other part of the website.
 
-You have the right to access personal data which you have submitted through the Site. We give you the following options for managing or removing your information from our database:
+**7\. Other information**
 
-Manage Your Profile: Within the "my account" section you have the option to manage your personal profile. The management system allows you to update your information on our database. We also allow you to subscribe or unsubscribe to any of the email updates you've requested from the site.   
-Send us mail:  Herald & Times Group, 200 Renfield Street, Glasgow, G2 3QB, Scotland. Be sure to include your name and clear instructions on what you would like us to do.   
-Send us an email: at support@heraldandtimes.co.uk. Be sure to include your name and clear instructions on what you would like us to do.
+In addition to personal information we obtain, including your name, postal and email addresses and telephone numbers, we may also collect information that is in no way personally identifiable. This may include the operating system you are working on, the internet browser you are using, the domain name of your internet service provider and the websites you visit directly before and after your visit.
 
-**Our Privacy Practices with Third Parties**
+**8\. Cookies**
 
-It is our policy to only disclose information to third parties under the following circumstances:
+A "cookie" is a piece of software which can stick to a computer's hard drive and recalls details about how your computer operates. We reserve the right to use this information to track your movements through our website. Personal information about you is not collected during this process. You can disable the cookies if your browser allows this. For further information please see our **[cookies policy](https://web.archive.org/my/account/cookiespolicy/)**.
 
-  * As required by law
-  * When explicitly requested by a visitor
-  * When required to deliver products or services requested by a visitor
+**9\. Third party advertising companies**
 
+Newsquest uses third-party advertising companies such as Google to serve ads when you visit our websites. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and would like to know your options in relation to not having this information used by these companies, click [here](http://www.networkadvertising.org/).
 
+**10\. Data protection**
 
-We share aggregate, non-personally identifiable information about our users with advertisers, business partners, sponsors, and other third parties. Subject to the above three circumstances, we do not provide any identifiable personal information to any third party for any purpose whatsoever. For example, we may tell a business partner the number of men and the number of women that entered a competition, but we do not disclose anything that could be used to identify those individuals. Access by our employees and agents to your personally identifiable information are only on a need to know basis on the understanding that this is confidential business information.
+You are entitled to request personal data that we hold about you for a small charge. You can insist that we correct any information about you.
 
-Our intention is never to use or share personally identifiable information provided to us in ways that are different than the ways described above without also providing you with an opportunity to "unsubscribe" or prohibit such unrelated uses.
+**11\. Third party policies**
 
-**Links to Other Sites**
+Third parties and websites linked to our site may collect or use information about you. We are not liable for the information practices of unconnected companies or other persons except as may be required by law.
 
-Because we want your experience of the Site to be as informative and useful as possible, we provide a number of links to third party sites. Always be aware of where you end up. These other sites may send their own cookies to users, or otherwise collect data or solicit personal information. We assume no responsibility for the information practices of sites that you are able to access through ours, and we encourage you to review each site's privacy policy before disclosing any personally identifiable information.
-
-**Our Commitment to Data Security**
-
-We take reasonable precautions to keep your personal information secure. We have put in place appropriate physical, electronic, and managerial procedures to safeguard the information we collect. We cannot guarantee the security of any information you disclose online, and you do so at your own risk.
-
-**Changes in Our Policy**
-
-We reserve the right to change or remove this Privacy Policy at our discretion. If we decide to change our Privacy Policy we will post those changes here. We encourage you to visit this area frequently so as to stay informed. If there is any material change in the type of personally identifiable information we collect we will obtain your permission before we attempt to collect the additional personal information. We will not make any changes that allow us to give personal information to a third party without obtaining permission from you first.
-
-**Your Consent to this Privacy Policy**
-
-By using the Site, you signify your agreement to be bound by this Privacy Policy. If you do not agree with any term in this Policy, please do not use the Site or submit any personally identifiable information.  
-**  
-How to Contact Us**
-
-Should you have any questions or concerns about this Privacy Policy or the collection of information, please e-mail us at support@heraldandtimes.co.uk
+Remember that nothing in this Privacy Policy applies to the journalistic material published in our newspapers, whether in print or online. Such material will usually be exempt from the principles of data protection legislation.
