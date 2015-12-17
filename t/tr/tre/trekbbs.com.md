@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the trekbbs.com privacy policy that was archived on 2015-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150613125205id_/http%3A//www.trektoday.com/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trekbbs.com privacy policy that was archived on 2015-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151218003051id_/http%3A//www.trektoday.com/content/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy « TrekToday
+# Privacy Policy – TrekToday
 
-The following statements set out the privacy policy for TrekToday, Trek BBS, CSI Files and Talk CSI (the **“websites”** ).
+The following statements set out the privacy policy for TrekToday, The Trek BBS, CSI Files and Talk CSI (the **“websites”** ).
 
 ## Information we collect about you
 
@@ -12,6 +12,7 @@ In running and maintaining our websites we may collect and process the following
   * Information provided voluntarily by you. For example, when you register for our forums.
   * Information that you provide when you communicate with us by any means.
   * General aggregated visitor information about site usage through Google Analytics.
+  * Information regarding your advertising preferences and non-identifiable information to provide advertising to you.
 
 
 
@@ -37,11 +38,7 @@ We use third-party advertising companies to serve ads when you visit our web sit
 
 To view the privacy policy of our advertising partner OpenX please visit <http://www.openx.com/about/privacy-policy>
 
-To view the privacy policy of our advertising partner Skimlinks visit <http://skimlinks.com/privacy-policy>
-
 Our commenting system is powered by Disqus. To view Disqus’s privacy policy visit <http://help.disqus.com/customer/portal/articles/466259-privacy-policy>
-
-We use a cookie and a tag of a third-party service provider, VisualDNA, to collect information about users’ browsing activity on our website (not including users’ names, addresses or other personal information). VisualDNA’s cookie and tag allow us and VisualDNA to build profiles so that users’ online experience can be more relevant to their specific interests. You have the right to choose whether or not to accept VisualDNA’s cookie and tag by clicking here <http://www.visualdna.com/cookie-policy>. VisualDNA does not share users’ information with any third party, other than in anonymised, aggregated form. To learn more, visit VisualDNA’s privacy policy at <http://www.visualdna.com/>privacy-policy.
 
 ## Use of your information
 
@@ -55,7 +52,7 @@ We use the information that we collect from you to provide our services to you. 
 
 The only place that personal information is required and stored is at our forums, and this is limited to your email address. Any further information – such as your real name – is input entirely by your own choice.
 
-Any information you provide in a forum post you are posting openly, with no expectation of privacy, granting us permission to use on our sites how we sit for as long as we see fit. Posts may be stored indefinitely, and while we may consider requests to remove individual posts we are under no obligation to do so.
+Any information you provide in a forum post you are posting openly, with no expectation of privacy, granting us permission to use on our sites how we wish for as long as we see fit. Posts may be stored indefinitely, and while we may consider requests to remove individual posts we are under no obligation to do so.
 
 Messages sent privately via our forum system should not be considered private or secure. We have the ability to review private message content in the event of complaints, and our websites are not hosted on an encrypted connection. We make no claims on the security of our messaging system. As such users should not post anything sensitive or confidential.
 
@@ -83,11 +80,9 @@ On occasion we include links to third parties on our websites. Where we provide 
 
 Users may post links on our forums, but we are in no way responsible for their content.
 
-Skimlinks, one of our advertising partner, may automatically add links to forum posts. This does not indicate any form of endorsement by us or the original poster, and the disclaimers in the first paragraph of this section apply.
-
 ## Access to information
 
-In accordance with the Data Protection Act 1998 you have the right to access any information that we hold relating to you. Please note that we reserve the right to charge a fee of 10 GBP to cover costs incurred by us in providing you with the information.
+The websites are currently hosted in the UK for a Netherlands-based company. In accordance with the Data Protection rights you have the right to access any information that we hold relating to you. Please note that we reserve the right to charge a fee to cover costs incurred by us in providing you with the information.
 
 ## Contacting us
 
