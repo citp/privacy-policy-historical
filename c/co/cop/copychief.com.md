@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the copychief.com privacy policy that was archived on 2015-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150618092730id_/http%3A//copychief.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the copychief.com privacy policy that was archived on 2015-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151217032645id_/http%3A//copychief.com/privacy-policy) for the most accurate reproduction.*
 
 # Copy Chief – Privacy Policy
 
@@ -12,7 +12,7 @@ The following Privacy Policy governs the online information collection practices
 
 Please read this Privacy Policy carefully. By visiting and using the Site, you agree that your use of our Site, and any dispute over privacy, is governed by this Privacy Policy. Because the Web is an evolving medium, we may need to change our Privacy Policy at some point in the future, in which case we’ll post the changes to this Privacy Policy on this website and update the Effective Date of the policy to reflect the date of the changes. By continuing to use the Site after we post any such changes, you accept the Privacy Policy as modified.
 
-**How We Collect and Use Information**
+ **How We Collect and Use Information**
 
 We may collect and store personal or other information that you voluntarily supply to us online while using the Site (e.g., while on the Site or in responding via email to a feature provided on the Site). Copychief.com only contacts individuals who specifically request that we do so or in the event that they have signed up to receive our messaging, attended one of our events, or have purchased one of our products. Copychief.com collects personally identifying information from our users during online registration and online purchasing. Generally, this information includes name and e-mail address for registration or opt-in purposes and name, postal address, and credit card information when registering for our events or purchasing our products. All of this information is provided to us by you.
 
@@ -32,11 +32,11 @@ Be aware that we may occasionally release information about our visitors when re
 
 Please also note that as our business grows, we may buy or sell various assets. In the unlikely event that we sell some or all of our assets, or one or more of our websites is acquired by another company, information about our users may be among the transferred assets.
 
-**Your California Privacy Rights**
+ **Your California Privacy Rights**
 
 If you are a resident of the State of California, we provide you with information above on how to exercise your choice options such as your right to opt-out or opt-in for use of your Personal Information by third parties for marketing purposes. Therefore, pursuant to the California Civil Code, we are not required to maintain or disclose a list of the third parties that received your Personal Information for marketing purposes during the preceding year. If you are a California resident and wish to request information about how to exercise your third party disclosure choices or other rights afforded under the law of the State of California, please send a request by email to our Privacy Administrator at Support@Copychief.com. All requests must be labeled “Your California Privacy Rights” in the email subject line or on the envelope or post card. For all requests, please clearly state that the request is related to “Your California Privacy Rights,” include your name, street address, city, state, zip code and e-mail address (your street address is optional if you wish to receive a response to your request via email) and indicate your preference on how our response to your request should be sent (email or postal mail). We will not accept requests via the telephone or by fax. We are not responsible for notices that are not labeled or sent properly or that do not have complete information.
 
-**Children’s Privacy Statement**
+ **Children’s Privacy Statement**
 
 This children’s privacy statement explains our practices with respect to the online collection and use of personal information from children under the age of thirteen, and provides important information regarding their rights under federal law with respect to such information.
 
@@ -57,7 +57,7 @@ Your information is stored at the list server that delivers Copychief.com conten
 
 All of the messaging or emails that are sent to you by Copychief.com include an unsubscribe link in them. You can remove yourself at any time from our mailing list by clicking on the unsubscribe link that can be found in every communicaiton that we send you.
 
-**Disclaimer**
+ **Disclaimer**
 
 Although it is highly unlikely, This policy may be changed at any time at our discretion. If we should update this policy, we will post the updates to this page on our Website.
 
