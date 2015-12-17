@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myfoodandhappiness.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627011619id_/http%3A//www.myfoodandhappiness.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myfoodandhappiness.com privacy policy that was archived on 2015-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151217220508id_/http%3A//www.myfoodandhappiness.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - My Food & Happiness
 
@@ -38,6 +38,14 @@ Yes. Cookies are small files that a site or its service provider transfers to yo
 
 You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser (like Internet Explorer) settings. Each browser is a little different, so look at your browser’s Help menu to learn the correct way to modify your cookies.
 
+**Cookies opt out**
+
+One of our primary ad providers is Gourmet Ads, if you would like to opt out from their ad cookies please go to the following link: <http://www.gourmetads.com/about/privacy-policy>
+
+In addition you can opt out from Google ads cookies by going to the following page: [https://www.google.com/settings/ads/plugin/ ](https://www.google.com/settings/ads/plugin)
+
+Finally, you can choose to disable or selectively turn off cookies or third-party cookies in your browser settings.
+
 **Third Party Disclosure**
 
 We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information.
@@ -64,4 +72,4 @@ Users can set preferences for how Google advertises to you using the Google Ad S
 
 If there are any questions regarding this privacy policy you may contact us here.
 
-Last Edited on 2014-09-19
+Last Edited on 2014-10-11
