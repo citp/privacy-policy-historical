@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lebweb.com privacy policy that was archived on 2015-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150619033039id_/http%3A//www.lebweb.com/main/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lebweb.com privacy policy that was archived on 2015-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151217222045id_/http%3A//www.lebweb.com/main/privacy.asp) for the most accurate reproduction.*
 
 # LebWeb.com Privacy Policy
 
