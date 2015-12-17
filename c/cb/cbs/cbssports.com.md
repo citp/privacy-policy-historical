@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cbssports.com privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630065706id_/http%3A//legalterms.cbsinteractive.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cbssports.com privacy policy that was archived on 2015-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151218000635id_/https%3A//cbsi.secure.force.com/CBSi/articles/FAQ/Privacy-Policy-Highlights%3Ftemplate%3Dtemplate_mobilepp%26referer%3Dmobilepp.com) for the most accurate reproduction.*
 
 # CBSi Privacy Policy
 
