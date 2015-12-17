@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sparkfun.com privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630205343id_/https%3A//www.sparkfun.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sparkfun.com privacy policy that was archived on 2015-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151217225206id_/https%3A//www.sparkfun.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - SparkFun Electronics
 
@@ -75,7 +75,7 @@ We comply with United States export regulations and authorities. We use [Visual 
 
 Credit Card payments are processed through FirstData. All credit card data including the cardholder name, credit card number, expiration date, CVV, and full billing address are sent to FirstData via an API for processing. Details regarding what products a customer is purchasing and other demographic information are not sent to FirstData.
 
-Each transaction is logged by retaining the transaction amount, the cardholder name, the last four digits of the credit card, and the card expiration date. No other credit card data is stored at any point on SparkFun servers. This is in full compliance with the PCI-DSS, which you can read more about in our [Compliance Policy](https://web.archive.org/web/20150630205343id_/https%3A//www.sparkfun.com/compliance).
+Each transaction is logged by retaining the transaction amount, the cardholder name, the last four digits of the credit card, and the card expiration date. No other credit card data is stored at any point on SparkFun servers. This is in full compliance with the PCI-DSS, which you can read more about in our [Compliance Policy](https://web.archive.org/web/20151217225206id_/https%3A//www.sparkfun.com/compliance).
 
 PayPal is offered as a payment method. When using PayPal on sparkfun.com a user must provide their PayPal email address. The user will then be directed to paypal.com to complete their payment, after which they will be redirected to sparkfun.com to complete the order.
 
