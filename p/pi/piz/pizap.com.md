@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pizap.com privacy policy that was archived on 2015-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150615140654id_/http%3A//www.pizap.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pizap.com privacy policy that was archived on 2015-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151217035422id_/http%3A//www.pizap.com/privacypolicy) for the most accurate reproduction.*
 
 # piZap - free online photo editor - fun photo effects editor
 
@@ -96,6 +96,14 @@ All registered PiZap users may review, update, correct or delete the Personal In
 Your information may be transferred to — and maintained on — computers located outside of your state, province, country or other governmental jurisdiction where the privacy laws may not be as protective as those in your jurisdiction. If you are located outside the United States and choose to provide information to PiZap, please be advised that we transfer Personal Information to the United States and process it there. Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer.
 
 PiZap is owned and operated by Digital Palette LLC Based in Los Gatos, CA. Please [contact us](https://web.archive.org/contact_us) with any concerns or questions about our site. Thank You :)
+
+1\. To enjoy additional editing tools and features, you may upgrade to a piZap PRO membership. PRO Users are subject to a monthly or an annual fee, depending on the membership plan you have chosen. You may not authorize others to use your account, and you may not assign or otherwise transfer your account to any other person or entity. You are entirely responsible for any and all activities that occur under your account. You agree to notify piZap immediately of any unauthorized use of your account or any other breach of security. PiZap will not be liable for any loss that you may incur as a result of someone else using your account, either with or without your knowledge. However, you could be held liable for losses incurred by piZap or another party due to someone else using your account.
+
+2\. Cancellations and Refunds Policy. We endeavor to treat our PRO customers fairly. You can easily cancel online 24 hours a day. There are no cancellation fees although there are no refunds for partial months (if on a Monthly plan) or years (if on an Annual plan).
+
+3\. Ongoing Monthly Membership. If you have chosen a monthly term, your piZap membership will continue month-to-month unless and until you cancel your membership or we terminate it. You must cancel your membership before it renews each month in order to avoid billing of the next month's membership fees to your Payment Method. Monthly renewals occur on the "month anniversary" of your initial purchase date. We will bill the monthly membership fee to the Payment Method you provide to us during registration (or to a different Payment Method if you change your account information). Membership fees are fully earned upon payment.
+
+4\. Ongoing Annual Membership. If you have chosen an annual (yearly) term, your piZap membership will continue year-to-year unless and until you cancel your membership or we terminate it. You must cancel your membership before it renews each year in order to avoid billing of the next year's membership fees to your Payment Method. Annual renewals occur on the "year anniversary" of your initial purchase date. We will bill the annual membership fee to the Payment Method you provide to us during registration (or to a different Payment Method if you change your account information). Membership fees are fully earned upon payment.
 
 ## Privacy Policy
 
