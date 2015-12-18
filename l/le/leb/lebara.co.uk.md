@@ -1,128 +1,174 @@
-> *The following text is extracted and transformed from the lebara.co.uk privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607142721id_/http%3A//www.lebara.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lebara.co.uk privacy policy that was archived on 2015-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151218083656id_/http%3A//www.lebara.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Free SIM cards | Free pay as you go SIM cards & deals | Lebara
 
-In this privacy policy, if you are a user of   
-(i) Lebara Mobile Phone services, references to " **we** ", " **us** " and " **Lebara** " are to Lebara Mobile Ltd.  
-(ii) Lebara Money, references to " **we** ", " **us** " and " **Lebara** " are to Lebara Finance Ltd.
+  
+_1\. About Us_  
+_2\. Changes to this Privacy Policy_  
+_3\. Collection of data_   
+_4\. How is your personal data used?_   
+_5\. With whom is your personal data shared?_   
+_6\. The requirements of Data Protection Laws_   
+_7\. Use of cookies and web beacons_   
+_8\. Security_   
+_9\. Reviewing your personal data_   
+_10\. Children’s information_   
+_11\. Links to other websites_   
+_12\. Enforcement of this Privacy Policy_   
 
-The Lebara Group consists of Lebara B.V. and its subsidiary companies, which include Lebara Ltd, Lebara Mobile Ltd and Lebara Finance Limited.  
-Please read this Privacy Policy in conjunction with the applicable General Terms & Conditions and any other product or service terms of which you have been notified.
 
-1 **How We Collect Information about You**  
-1.1 We collect information directly from you when you are asked to provide personal details about yourself, including but not limited to when you:   
-i) purchase products or services from us whether in store, online, by phone or elsewhere;   
-ii) register to become a Lebara customer;   
-iii) submit enquiries to us or contact us;   
-iv) enter any promotions, competitions or prize draws;   
-v) use Lebara products and services;   
-vi) take part in market research; and/or   
-vii) when you terminate your account with us. 
+### 1\. About Us
 
-**1.2 We collect information indirectly from you when**  
-i) you choose to register with us and use our service, visit or browse this site or use our networks   
-ii) visit or browse this site or other Lebara Group websites;   
-iii) browse or otherwise access the Internet, WAP sites and/or the mobile internet via the services; or   
-iv) use our networks 
+**1.1** The Lebara Group consists of Lebara B.V. and its subsidiary companies, including (but not limited to) Lebara Limited, Lebara Mobile Limited, Lebara Services Limited and Lebara Media Services Limited.
 
-**1.3 We collect information about you from other sources** , including but not limited to credit reference agencies, fraud prevention agencies; and business directories and other commercially or publicly available sources. 
+**1.2** The Lebara Group offer a number of services, each of which is offered by the following specific member of the Lebara Group:
 
-2 **The Type of Information We Would Collect**  
-2.1 We collect such information as:   
-i) your name;  
-ii) billing address;   
-iii) delivery address;   
-iv) telephone number;   
-v) your use of products and services including but not limited to phone numbers and/or email addresses of calls, texts, MMS, emails and other communications made and received by you and the date, duration, time and cost of such communications, your searching, browsing history (including web sites you visit) and location data, address location for billing, delivery, installation or as provided by individual, phone location;   
-vi) how your conduct and manage your account(s) with us;  
-vii) your use of the Lebara Pay MonthlysService and/or Lebara Money products and card services, including but not limited to details of your ongoing payments and transactions, including those with retailers and our partners;  
-viii) debit or credit card details, banking details and other payment information; 
+  * **Lebara Mobile Phones:** provided by Lebara Mobile Limited.
+  * **Lebara Money:** provided by Lebara Services Limited.
+  * **Lebara Talk:** provided by Lebara Media Services Limited.
+  * **Lebara Play:** provided by Lebara Media Services Limited.
 
-3 **How We Use Your Information**  
-3.1 We may use and analyse information about you in order to:  
-i) provide you with access to parts of this site;   
-ii) process your order;   
-iii) supply services and products that you have ordered;   
-iv) contact you if necessary;   
-v) verify that you are an authorised user for security purposes;   
-vi) arrange for payment of goods or services purchased;   
-vii) inform you of any service related message or of any new services or functionality (e.g. the introduction of a new messaging service);   
-viii) assist us with crime and fraud prevention such as to check your identity;   
-ix) assist you with any product or services enquiries, including the investigation and resolution of service affecting issues and dealing with any billing queries you may have;   
-x) investigate any complaints or other enquiries that you submit to us;   
-xi) enhance and personalise the products and services that we offer you and to develop new products and services;   
-xii) analyse markets and produce reports, perform research and statistical analysis and to monitor usage behaviour (including when you are no longer a Lebara customer);   
-xiii) market our products and services generally   
-xiv) send information to you about our products and services from time to time by phone, post, email, text, MMS, automated dialing equipment or other means (subject to any objection or preference you may indicate when submitting your details to us);   
-xv) inform you of any products and services offered by other companies that we think may be of interest to you, provided that you choose to receive this information;   
-xvi) disclose your personal information or usage of our services to certain third parties. Please see Section 4 below;   
-xvii) assess applications for and make decisions about credit, credit-related services from you and members of your household;   
-xviii) debt tracing, debt recovery, credit management and crime, fraud and money laundering detection and prevention; and   
-xix) aggregate information about you, your spending and your use of the services with information about other users of the services in order to identify trends ("Aggregated Data"). We may pass Aggregated Data to third parties, such as advertisers, content providers and business partners or prospective business partners, to give them a better understanding of our business and to bring you a better service. Aggregated Data will not contain information from which you may be personally identified.   
-xx) analyse information about you including your calling, searching, browsing and location data on a personalised or aggregated basis. We may pass this data to the third parties and we may use this information to provide you with targeted Lebara or third party offers, promotions, adverts or commercial communications. 
 
-**4 Disclosure of your Information**  
-4.1 We may disclose your information:  
-i) to members of the Lebara Group, our partners, agents and subcontractors (including prospective partners, agents and subcontractors) who are involved in the delivery of providing products or services used or ordered by you;   
-ii) to other companies in the Lebara Group, including their respective partners, agents and sub contractors (including their prospective partners, agents and subcontractors);   
-iii) to credit reference agencies and fraud prevention agencies;   
-iv) to other communications companies;   
-v) to any relevant public authority or law enforcement agency;   
-vi) to third parties for checking details of job applicants and employees;   
-vii) to third parties from whom you have chosen to receive marketing information.   
-viii) where there is a change (or prospective change) in the ownership of Lebara, to new or prospective owners of Lebara. In these circumstances we would require them to keep it confidential.   
-ix) where required by law, regulation or legal proceedings;   
-x) where we believe it is necessary to protect Lebara or third party rights and property; or   
-xi) where you give us false or inaccurate information and we identify or suspect fraud.   
-xii) Where we, or an affiliate processing your data on our behalf, are compelled to do so by law;   
-xiii) in response to a valid, legally compliant request by a competent authority;   
-xiv) during emergencies when we believe physical safety is at risk;   
-xv) where the service is moderated; or   
-xvi) in response to a complaint that that there has been a breach of the services terms & conditions or any other product or service terms of which you have been notified.  
-4.2 Additional terms and conditions may be presented when signing up for specific products and services. 
 
-**5 Security Matters**  
-5.1 We recognise that you may be concerned about how we would protect your personal information from misuse and abuse. The Lebara Group has security teams who are constantly reviewing and enhancing our technical, physical and managerial procedures and rules to protect your personal data from unauthorised access, accidental loss and/or destruction.   
-5.2 Where we have contracted with a third party to provide some part of a service that you have requested, we will ensure that those agents, by written agreement, are required to implement similar security measures and will process your information only as authorised by Lebara to fulfil the service that they have been contracted to provide on our behalf. Those third parties will not be entitled to use your personal data for their own purposes.   
-5.3 Please be aware that communications over the Internet, such as emails/webmails, are not secure unless they have been encrypted. Your communications may route through a number of countries before being delivered - this is the nature of the World Wide Web/Internet. Lebara cannot accept responsibility for any unauthorised access or loss of personal information that is beyond our control.
+**1.3** Each service above shall be referred to as a Service, all or multiple services above shall be referred to as the Services. Each subsidiary of the Lebara Group listed above shall be referred to as we, us and our (both individually and collectively).
 
-**6 Retention of Information**  
-6.1 We retain information only for as long as we need it. In relation to the following information we are required to retain it for not less than six months and not more than two years in order to ensure that this information is available for the purpose of the investigation, detection and prosecution of serious crime:  
-i) User ID and telephone number allocated to any communication entering the public telephone network;   
-ii) Name and address of subscriber to whom an Internet Protocol (IP) address, user ID or telephone number was allocated at the time of a communication;   
-iii) User ID or telephone number of the recipient of an Internet telephony call;   
-iv) Name and address of subscriber and user ID of the intended recipient of a communication;   
-v) Date and time of log-in and log-off of our Internet access service, IP address and user ID of the subscriber;   
-vi) Internet service used;   
-vii) Calling telephone number for dial-up Internet access of the originator of a communication; and   
-viii) Digital Subscriber Line (DSL) or other end point of the originator of a communication. 
+**1.4** We are committed to protecting your privacy and personal data. This Privacy and Cookie Policy **(Privacy Policy)** details the steps we take to protect your personal data when you use any of our Services. It describes the personal data that we collect, the purposes for which we use such data, and your choices regarding our use of it.
 
-**7 Accessing your Information**  
-7.1 If you are a Lebara Registered Customer, you may verify, update or amend the personal information you have provided to Lebara online at any time by clicking on " **Edit User Profile** " under the website navigation heading " **My Lebara** ". The 'opt-in' on the website allows you to select whether you receive marketing information from Lebara only, or from our business partners. You can opt-out of either or both at any time.   
-7.2 You may request copies of your personal data held by Lebara by making a subject access request in writing using the form provided by Lebara upon request or available for download by [clicking here](https://web.archive.org/medias/sys_master/h3c/h00/8916354072606.doc). Your form, once completed should be addressed to Lebara’s Legal Department as set out in the standardised form and sent together with proof of your identity (such as a photocopy of your passport, birth certificate or driving licence) and a cheque for £10 to cover the administrative cost of supplying the requested information. Provision of such information will be made with 40 days of Lebara’s receipt of your request   
-**8 Changes to this Policy**  
-We will keep this policy under review and any changes made from time to time will be posted on this page.
+**1.5** In providing the Service to you our status is that of a data controller and in this capacity we will securely store and process your personal data which you have provided to us. Data controller is a legal term used in the Data Protection Act 1998 (the Act) to signify the person who controls what to do with any given personal data. As data controller we have registered with the Information Commissioner’s Office and our registration numbers are as follows:
 
-**9 Security and Protection of Customer Information**  
-9.1 Security   
-i) Passwords  
-You must not share your password for any message services or portal access. Your passwords and the answers to secret questions are your responsibility, and must not be disclosed to any third party. This is also important for your own protection.   
-ii) Data Security Procedures  
-We are constantly reviewing our procedures to protect your personal data from unauthorised access, accidental loss and/or destruction.  
-We may employ third parties, including members of the Lebara Group, to provide services on our behalf. In such cases, if they collect any data on their own behalf it will be covered by this policy unless they inform you that they provide their own privacy policy. We do endeavour to ensure that any partners we use apply the same high standards of privacy and security over your information. However, we advise you to read their policy carefully.   
-iii) Security of Communications  
-Please be aware that communications over the Internet, such as e-mails and Webmails, are not secure unless they have been encrypted. Your communications may route through a number of countries before being delivered - this is the nature of the World Wide Web/Internet. Lebara cannot accept responsibility for any unauthorised access or loss of personal information that is beyond our control.   
-iv) Media Messaging  
-If you are registered with [www.lebara.co.uk](http://www.lebara.co.uk/), any Media Messages you send to an email address, including Media Messages from your phone and messages from [www.lebara.co.uk](http://www.lebara.co.uk/), may include personal details such as your registered first name and last name, your phone number or email address which will be displayed in the " **from** " field of the message.   
-9.2 Users 16 and under  
-If you are aged 16 or under, please get your parent or guardian's permission before providing any personal information. Users without this consent are not allowed to provide us with personal information.   
-9.3 Co-Branded Micro Sites and Third Party Sites  
-Some web pages and Micro Websites included within Lebara’s websites may be co-branded with third party names, logos, or properties. These Micro Websites are operated or maintained by or on behalf of Lebara. While such third parties are sponsors of these web pages or Micro Websites, the third parties do not share in any personally identifiable information collected within those web pages or Micro Websites unless otherwise stated. Save for pages hosted by Lebara's payment processor, Mi-Pay Ltd (to whom this policy will apply), this policy does not apply to third party sites that you may access via our portals. You should therefore ensure that you are familiar with the applicable third party privacy policy before entering any personal information on a third party site   
-9.4 Non-EEA Use of Information  
-The information you provide to us may be passed to third parties located outside the European Economic Area. Countries outside the European Economic Area do not always have strong data protection laws. However we will always take steps to ensure that your information is used by third parties in accordance with this policy. Additional terms and conditions may be presented when signing up for specific products and services.   
-9.5 Marketing Information from Third Parties  
-If you choose to receive marketing information from other companies, we will only disclose your personal information to these companies where they have undertaken not to use your personal information for any purpose other than to provide information to you or other uses to which you have agreed. If you decide that you no longer want to receive information from a particular company, you should contact that company directly. You should be aware that if you subsequently give any personal information to another company, the uses to which that information may be put will be determined by that company's privacy policy.
+  * **Lebara Mobile Limited: Z1006140.**
+  * **Lebara Services Limited: ZA034904.**
+  * **Lebara Media Services Limited: ZA072052.**
 
- **10 Marketing Information from Third Parties**  
-10.1 If you choose to receive marketing information from other companies, we will only disclose your personal information to these companies where they have undertaken not to use your personal information for any purpose other than to provide information to you or other uses to which you have agreed. If you decide that you no longer want to receive information from a particular company, you should contact that company directly.   
-10.2 You should be aware that if you subsequently give any personal information to another company, the uses to which that information may be put will be determined by that company's privacy policy.
+
+
+**1.6** The steps we take to protect your personal data and how you can review and correct your personal data are also covered here. By accessing our Services, you are consenting to the data collection and use practices described in this Privacy Policy.
+
+**1.7** When reading this Privacy Policy references to us, we, our and Service will apply to the Service to which you receive and the related entity provided such Service.
+
+### 2\. Changes to this Privacy Policy
+
+**2.1** We may occasionally update this Privacy Policy. When we do, we will notify you. However, we recommend that you frequently check this Privacy Policy for any updates.
+
+### 3\. Collection of data
+
+**3.1** By using our Services, registering your details with us, contact us and by submitting personal data to us then this Privacy Policy will apply.
+
+**3.2** The personal data we collect from you may include:
+
+  * your name;
+  * billing address;
+  * home address;
+  * work address;
+  * telephone number;
+  * your use of our Services (including but not limited to your management of your account with us, communications made, online searches made, browsing history, web sites visited and location data);
+  * company/organisation name;
+  * email address;
+  * bank details; and
+  * •payment information.
+
+
+
+**3.3** You are not required to provide any of this data, but if you do not, we may not be able to provide you the requested services.
+
+**3.4** We may also collect data about your from third party agencies such as credit references agencies, fraud prevention agencies, commercially available directories and publicly available sources.
+
+### 4\. How is your personal data used?
+
+**4.1** We may use the personal data you provide to us to:
+
+  * provide you with the Services you have signed up for;
+  * complete any orders you make with us;
+  * contact you where necessary;
+  * verify you identity;
+  * confirm that you are an authorised user of our Services;
+  * inform you of Service related information such as updates and new features;
+  * assist us in crime and fraud prevention;
+  * process payments made by you;
+  * analyse your use to generate market reports and statistical analysis;
+  * market our products;
+  * improve our Services;
+  * recommend goods, services or promotions which may be of interest to you (but only where you have consented to be contacted for such purposes); and
+  * send out email alerts you may have signed up for.
+
+
+
+**4.2** In addition to the above, we may also share your personal data with other our partners as described below.
+
+### 5\. With whom is your personal data shared?
+
+**5.1** We may disclose your personal data in the following ways:
+
+  * to the Lebara Group, our partners, sub-contractors, agents and prospective partners who are involved in the provision of our Services;
+  * to third parties where you have consented to us doing so;
+  * to public bodies, government authorities or the legal industry where required by law, regulation or legal proceedings;
+  * to a buyer (or prospective buyer) of the Lebara Group or any of its entities; and
+  * to a third party when we are required by law to do so.
+
+
+
+**5.2** We may disclose depersonalised data (such as aggregated statistics) about the users of our Services in order to describe our sales, customers, traffic patterns and other Service information to prospective partners, advertisers, investors and other reputable third parties and for other lawful purposes, but these statistics will include no personally identifying data.
+
+### 6\. The requirements of Data Protection Laws
+
+**6.1** We regard the lawful and correct treatment of your personal data by us as very important to our successful operation, and to maintaining confidence between us and our users. We ensure that our organisation treats personal data lawfully and correctly. To this end we fully endorse and adhere to the 'Data Protection Principles' set out in the Act. In particular, without your consent or first amending this Privacy Policy to reflect any change in our usage of personal data:
+
+  * we will not use your personal data for any purpose that is incompatible with this Privacy Policy;
+  * we will only collect sufficient personal data for the uses set out above;
+  * we will endeavour to keep your personal data up-to-date;
+  * we will not retain your personal data longer than necessary unless required to do so by law;
+  * we will operate appropriate technical and organisational processes to protect your personal data against unauthorised or unlawful access or processing and against accidental loss or destruction. The detailed measures we take are described elsewhere in this Privacy Policy; and
+  * we will not transfer your personal data to a country outside the European Economic Area unless safeguards are in place to protect your personal data to the standards that apply within the EEA.
+
+
+
+### 7\. Use of cookies and web beacons
+
+**7.1** Cookies are small files that websites save to your hard drive or to your browser's memory. You have the ability to accept or decline cookies. Most Internet browsers automatically accept cookies, but you can usually modify your browser settings to decline cookies or to notify you when a cookie is being placed on your computer. If you choose to decline cookies, you may not be able to fully experience the features of our Services or other websites that you visit.
+
+**7.2** To learn more about cookies and how to disable them we recommend you visit the Information Commissioner’s website. Furthermore, whilst we do not use third party marketing cookies, you can learn more about these and how to delete them [_here_](https://web.archive.org/web/20151218083656id_/http%3A//www.lebara.co.uk/wwww.youronlinechoices.com).
+
+**7.3** By using our Services you consent to us using the following cookies:
+
+Cookie | Purpose | More Information  
+---|---|---  
+Google Analytics | Analytics | Google Analytics gives you insights into your website traffic and marketing effectiveness. We help you buy the right keywords, target your best markets, and engage and convert more customers. Find out more [_here_](http://www.google.com/intl/en/analytics/product.html).  
+Google Tag Manager | Tagging | Google Tag Manager is free and easy, leaving more time and money to spend on your marketing campaigns. You manage your tags yourself, with an easy-to-use web interface, rather than forcing you or your IT department to write or rewrite site code. Find out more [_here_](http://www.google.com/intl/en/about/).  
+Crazy Egg | Tracking | Crazy Egg shows you where people clicked on your site. Our servers will create a report that shows you the clicks on the pages you are tracking. Find out more [_here_](http://www.crazyegg.com/overview).  
+Optimizely | Analytics | Optimizely, Inc. offers a range of website analytics services for A/B and multivariate testing purposes. Optimizely partners implement Optimizely as a way to better understand how their website is used. Find out more [_here_](http://www.optimizely.com/about).  
+TagMan | Tagging | TagMan is the global leader in Tag Management, with the industry's most mature and proven platform for enterprise e-commerce. Since launching the first, independent Tag Management platform in 2007, TagMan has been helping over 100 customers solve tagging, site performance and attribution-related challenges. Find out more [_here_](http://www.tagman.com/about/).  
+Yieldify | Analytics | Yieldify is a simple to use software solution which allows you to maximise your opt-in rates and revenue from visitors leaving your website. Once you have decided the type of campaign you want to run, Yieldify uses its algorithm learning engine to optimise the Overlay (an interactive message) displayed to the user. The Yieldify Algorithm Learning Engine (Y.A.L.E.) precisely tracks the visitor's mouse movements, speed and user behaviour to determine the style and timing of the overlay. Find out more [_here_](http://www.yieldify.com/about).  
+Session Identifier | Tracking | This cookie allows us to track user who has logged in. The cookie expires when the user logs out.  
+Evercookie | Tracking | This is a persistent cookie which attempts to track a customer’s machine across all interactions with Lebara Money. It is used to detect multiple accounts being accessed from a single computer, which is usually fraud. This is the cookie which allows us to label devices as ‘ubiquitous’. Your legal team should probably take a look at this. Find out more [_here_](https://github.com/samyk/evercookie).  
+  
+### 8\. Security
+
+**8.1** We are committed to protecting the security of your personal data. We use a variety of security technologies and procedures to help protect your personal data from unauthorised access, use, or disclosure. For example, we store the personal data you provide on computer systems with limited access that are located in facilities to which access is limited. Additionally, we ensure that data-processors used by us implement appropriate security measurements.
+
+**8.2** Please always be aware that communications over the Internet are not always secure unless even when they have been encrypted. We cannot accept responsibility for any unauthorised access or loss of personal data that is beyond our control.
+
+**8.3** It is your responsibility to ensure the security of your password and not to reveal this information to others.
+
+### 9\. Reviewing your personal data
+
+**9.1** In some cases, you can review and correct personal data provided through our Service by going to the page on which you provided the data. You may also be able to update your marketing preferences.
+
+**9.2** If you are a Lebara Registered Customer, you may verify, update or amend the personal information you have provided to us at any time by clicking on "Edit User Profile" under the website navigation heading "My Lebara". The 'opt-out' on the website allows you to decline our offer to send you marketing information, or from our business partners. You can opt-in of either or both if you change your mind at any time.
+
+**9.3** You may request copies of your personal data held by us by making a subject access request in writing using the form provided by Lebara upon request or available for download [_here_](http://www.lebara.co.uk/medias/sys_master/h27/h18/8918702194718.pdf). Your form, once completed should be addressed to Lebara’s Legal Department as set out in the standardised form and sent together with proof of your identity (such as a photocopy of your passport, birth certificate or driving licence) and a cheque for £10 to cover the administrative cost of supplying the requested information. Provision of such information will be made with 40 days of our receipt of your request.
+
+**9.4** You can help us to maintain the accuracy of your data by notifying us of any change.
+
+### 10\. Children's information
+
+**10.1** We do not knowingly collect data from children and we do not target or direct our Services at children / We may collect children’s data. Where we do we will ensure that all processing and data provided is appropriate to the age of the child.
+
+### 11\. Links to other websites
+
+**11.1** Our Services may provide you with links to other websites. While we try to link only to websites that share our high standards and respect for privacy, we are not responsible for the content, security, or privacy practices employed by other websites.
+
+### 12\. Enforcement of this Privacy Policy
+
+**12.1** If you have questions regarding this policy or our handling of your personal data, please [_contact us_](https://www.lebara.com/uk/en/get-in-touch/contact). We will promptly address your concern and strive to reach a satisfactory resolution.
+
+Last updated 19 June 2015
