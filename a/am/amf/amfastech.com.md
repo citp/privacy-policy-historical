@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amfastech.com privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611233227id_/http%3A//www.amfastech.com/p/we-stay-with-our-policies.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amfastech.com privacy policy that was archived on 2015-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151218164329id_/http%3A//www.amfastech.com/p/we-stay-with-our-policies.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -75,11 +75,5 @@ By using this Site, you signify your acceptance of this policy and [terms of se
   
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
 [Amfas Tech](http://www.amfastech.com/)  
-[http://www.amfastech.com/](http://www.amfastech.com/)  
-Kavali, Andhra Pradesh,  
-India  
-Mobile Phone: 09912674745  
+<http://www.amfastech.com/>  
 amfastech@gmail.com
-
-  
-
