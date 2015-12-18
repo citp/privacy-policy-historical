@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the schoolofdragons.com privacy policy that was archived on 2014-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141204081146id_/http%3A//www.schoolofdragons.com/Help/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the schoolofdragons.com privacy policy that was archived on 2015-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151218143300id_/http%3A//www.schoolofdragons.com/Help/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - School of Dragons
 
@@ -334,6 +334,6 @@ This document is the sole statement of the Sites' Privacy Policy and no summary,
 ## IX. CONTACT US
 
 If you have any other questions about our information handling practices, including our practices with respect to children's personal information, please contact us at:  
-JumpStart Games, Inc., 2377 Crenshaw Blvd., Suite 302, Torrance, CA 90501. You can also contact us by e-mailing us at [](mailto:privacy@jumpstart.com).
+JumpStart Games, Inc., 2377 Crenshaw Blvd., Suite 302, Torrance, CA 90501. You can also contact us by either calling 310-533-3400 or e-mailing us at [](mailto:privacy@jumpstart.com).
 
 ________________________________________ 
