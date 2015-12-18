@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the globallogic.com privacy policy that was archived on 2015-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150318145635id_/https%3A//www.globallogic.com/landings/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globallogic.com privacy policy that was archived on 2015-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151218082640id_/https%3A//www.globallogic.com/landings/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | GlobalLogic
+# GlobalLogic | Privacy Policy
 
 **Last Updated: March 25, 2013**
 
-This Privacy Policy is an integral part of the agreement between you and us concerning the use of the Site(s). The other integral parts of such agreement are the [Terms of Service](http://www.globallogic.com/terms-of-service "Terms of Service") and any other legal notices that may be provided by GlobalLogic. All capitalized terms used herein that are not otherwise defined in this Privacy Policy shall be as defined in the [Terms of Service](http://www.globallogic.com/terms-of-service "Terms of Service").
+This Privacy Policy is an integral part of the agreement between you and us concerning the use of the Site(s). The other integral parts of such agreement are the [Terms of Service](https://www.globallogic.com/terms-of-service "Terms of Service") and any other legal notices that may be provided by GlobalLogic. All capitalized terms used herein that are not otherwise defined in this Privacy Policy shall be as defined in the [Terms of Service](https://www.globallogic.com/terms-of-service "Terms of Service").
 
 We reserve the right to amend the Privacy Policy at any time, for any reason. The date of the last revision to the Privacy Policy will be indicated by the “Last updated” date at the beginning of this page.
 
