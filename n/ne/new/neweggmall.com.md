@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the neweggmall.com privacy policy that was archived on 2015-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150409181846id_/http%3A//kb.newegg.com/Policies/Article/1166) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the neweggmall.com privacy policy that was archived on 2015-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151218045015id_/http%3A//kb.newegg.com/Policies/Article/1166) for the most accurate reproduction.*
 
 # Newegg.com - [Privacy Policy]
 
@@ -69,10 +69,10 @@ Newegg no longer supports the version 3.0 SSL protocol as of November 6, 2014.
 Please review your browser version to ensure it supports the latest secure protocols.
 
 Apple Safari: <http://support.apple.com/downloads/#safari>  
-Google Chrome: <https://www.google.com/chrome/>  
-Microsoft Internet Explorer: <https://www.microsoft.com/ie/>  
-Mozilla Firefox: <https://www.getfirefox.com/>  
-Opera: <https://www.opera.com/>
+Google Chrome: <https://www.google.com/chrome/>  
+Microsoft Internet Explorer: <https://www.microsoft.com/ie/>  
+Mozilla Firefox: <https://www.getfirefox.com/>  
+Opera: <https://www.opera.com/>
 
 Access to all of our users' information is restricted. Newegg.com operates in a secured and locked facility that requires all employees to check in and wear valid ID badges. Security cameras are positioned throughout the building in conjunction with multiple alarm systems. Only employees who need the information to perform a specific job are granted access to personally identifiable information. If you wish to have your financial information removed at the time of your order, you may opt to have your financial information deleted from our records upon completion of your order. Otherwise, you may contact us at [webmaster@newegg.com](mailto:webmaster@newegg.com), or call toll free 1-800-390-1119, to request that your information be deleted from our database. For future transactions, you will be required to re-enter your information.
 
@@ -94,7 +94,7 @@ Customers may change or review their stored account information such as street a
 
 ### Choice/Opt-out
 
-For customers who wish to opt-out and stop receiving Newegg.com special offers and related news, Newegg.com provides several ways to do so. Users who no longer wish to receive our newsletter or promotional materials may opt-out of receiving these communications by un-checking the "permission to send" field when processing their orders. They may also send e-mails to [webmaster@newegg.com](mailto:webmaster@newegg.com) with a request to be removed. Finally, they may use the link provided in all Newegg.com communications to automatically unsubscribe.
+For customers who wish to opt-out and stop receiving Newegg.com special offers and related news, Newegg.com provides several ways to do so. Users who no longer wish to receive our newsletter or promotional materials may opt-out of receiving these communications by clicking [here](https://secure.newegg.com/NewMyAccount/Subscriptions.aspx) to unsubscribe or by un-checking the "permission to send" field when processing their orders. They may also send e-mails to [webmaster@newegg.com](mailto:webmaster@newegg.com) with a request to be removed. Finally, they may use the link provided in all Newegg.com communications to automatically unsubscribe.
 
 ### Notification of Changes
 
@@ -111,3 +111,5 @@ The Privacy Policy contained herein became officially effective January 1, 2014.
 Newegg.com   
 9997 Rose Hills Road  
 Whittier, CA 90601
+
+ 
