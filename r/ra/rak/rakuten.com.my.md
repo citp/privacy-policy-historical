@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rakuten.com.my privacy policy that was archived on 2015-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150619135355id_/http%3A//www.rakuten.com.my/policy/privacy/%3Fl-id%3Dmy__footer_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rakuten.com.my privacy policy that was archived on 2015-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151218050511id_/http%3A//www.rakuten.com.my/policy/privacy/%3Fl-id%3Dmy__footer_privacy) for the most accurate reproduction.*
 
 # Rakuten Malaysia: Privacy Policy - Our Policies
 
