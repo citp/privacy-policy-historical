@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hsbc.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623205955id_/http%3A//www.hsbc.com/terms-and-conditions/privacy-policy%3FWT.ac%3DHGHQ_f8.2_On) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hsbc.com privacy policy that was archived on 2015-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151218075013id_/http%3A//www.hsbc.com/terms-and-conditions/privacy-policy%3FWT.ac%3DHGHQ_f8.2_On) for the most accurate reproduction.*
 
 # HSBC Holdings plc - Privacy policy
 
