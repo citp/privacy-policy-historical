@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the timesfull.com privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630055038id_/http%3A//www.timesfull.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the timesfull.com privacy policy that was archived on 2015-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151218212248id_/http%3A//www.timesfull.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - TimesFull
+# Privacy Policy
 
 The owners of www.timesfull.com follow a very strict privacy policy. Being an established health & beauty website, we cater to the needs of the users and do not meddle with their privacy in any form whatsoever.
 
