@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the giftster.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607142608id_/http%3A//www.giftster.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the giftster.com privacy policy that was archived on 2015-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151218083212id_/http%3A//www.giftster.com/privacy) for the most accurate reproduction.*
 
 # Giftster | privacy policy | gifts I want
 
@@ -20,6 +20,10 @@ Giftster uses a feature of your Internet Web browser called a "cookie" to assign
 
 Cookies help save and retrieve passwords used on the Giftster site and information on your past purchases and other preferences, so you don't have to re-enter this information every time you visit the Giftster Web site. Giftster cannot use cookies to retrieve any personal information about you unless you have previously purchased from or registered with Giftster. Giftster does not and cannot use cookies to retrieve personal information about you from any other location on your computer. 
 
-### Yahoo Third-Party Web Beacons
+### Monetization of Web Links
 
-We use third-party "web beacons" from Yahoo! to help analyze where visitors go and what they do while visiting our website. [Yahoo!](https://reports.web.analytics.yahoo.com/optout,OptOut.vm?domain=a.analytics.yahoo.com) may also use anonymous information about your visits to this and other websites in order to improve its products and services and provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by [Yahoo!](https://reports.web.analytics.yahoo.com/optout,OptOut.vm?domain=a.analytics.yahoo.com), click here. 
+Some links from Giftster to third party ecommerce sites are monetized by third party services. Giftster gets "credit" for its part in helping match the buyer with the right item from the right seller for the gift recipient. This monetization is automatic and transparent and does not affect the item price. This disclosure is provided in accordance with the United States Federal Trade Commission’s 16 CFR § 255.5
+
+### Usability Studies to Improve Giftster
+
+From time to time Giftster may record individual user interaction with various user interface elements within the service. This information is used internally to correct deficiencies and improve the member experience.
