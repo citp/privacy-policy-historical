@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nrastore.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627141113id_/http%3A//www.nrastore.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nrastore.com privacy policy that was archived on 2015-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151218182516id_/http%3A//www.nrastore.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy Official Store of the National Rifle Association
 
@@ -17,6 +17,8 @@ We gather certain broad information about website use including the number of un
 Most NRA sites and services are intended for general audiences and do not knowingly collect any personal information from children under 13 years of age. We are committed to complying fully with the Children's Online Privacy Protection Act of 1998. Of course, the NRA also encourages parents to discuss privacy issues with their children.
 
 We compile lists for communications and marketing purposes. We will provide that information to NRA affinity partners who we believe provide goods and/or services that might be useful to NRA members. Contracts with these companies require them to keep the member information strictly confidential and prohibit them from using it for any other purpose. You may ask us to remove you from the lists by: (1) emailing from our Contact Us page; (2) calling us at 1-800-672-3888; or (3) writing to us at National Rifle Association of America, 11250 Waples Mill Road; Fairfax, VA 22030. We do not provide member information to telemarketers, mailing list brokers, or other companies that are not offering NRA-endorsed services or benefits. Third parties do not collect personally identifiable information about the online activities of individuals who visit NRA sites.
+
+We may also disclose your personal information when release is required by law or is necessary for fraud protection.
 
 ### Cookies
 
