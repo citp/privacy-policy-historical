@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the tinyprints.com privacy policy that was archived on 2015-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150515185549id_/http%3A//www.shutterflyinc.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tinyprints.com privacy policy that was archived on 2015-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151218195721id_/https%3A//www.shutterflyinc.com/privacy.html) for the most accurate reproduction.*
 
 # Shutterfly, Inc. - Privacy Policy
 
-Last Updated: January 21, 2015
+Last Updated: July 23, 2015
 
 Shutterfly, Inc. and our family of brands take your privacy seriously. Please read the following to learn more about our privacy policy.
 
@@ -37,7 +37,7 @@ We or our third party service providers may also collect information relating to
 
 If you order products or pay for services, we will need your shipping address, billing name and address, as well as your credit card number and expiration date.
 
-If you tag yourself, friends, or family in pictures, we may use facial recognition technology to help you tag and organize your pictures.
+If you tag yourself, friends, family, or others in pictures, we may use facial recognition technology to help you tag and organize your pictures. These tags are based on the information you have provided to us and your recognition of individuals in certain photos. Using this information, we may suggest tags for your other photos. By using this tagging feature, you consent to receiving these suggestions. You, and not Shutterfly, are responsible for any tags you create.
 
 ## 2\. Cookies and Similar Technologies
 
@@ -65,9 +65,7 @@ Another example of how we use third party information you provide to us is Shutt
 
 If you use one of our referral programs to refer any of our family of brands to your friends and family, we will use their email addresses to send your invitation.
 
-If you send Treat Digital Cards to friends and family, we will use their email addresses to send your cards.
-
-Please be assured that we do not use the email addresses that you enter through email invitations, Shutterfly Share Sites, our referrals programs, Treat Digital Cards, or the address books of any of our Sites and Apps to send any type of direct marketing to your friends and family. (Of course, if a friend or family member signs up with any of our family of brands or we receive their email address from another unrelated source, we may communicate with them in accordance with this Privacy Policy.)
+Please be assured that we do not use the email addresses that you enter through email invitations, Shutterfly Share Sites, our referrals programs, or the address books of any of our Sites and Apps to send any type of direct marketing to your friends and family. (Of course, if a friend or family member signs up with any of our family of brands or we receive their email address from another unrelated source, we may communicate with them in accordance with this Privacy Policy.)
 
 Your accounts may also contain a calendar where you can store birthdays, anniversaries, and other key dates and details about friends and family. You can use this information to help keep in touch with friends and family on important dates. We may send you email reminders of the personalized dates you have entered in this calendar. Reminder information is highly confidential and will not be shared with any third parties.
 
@@ -125,7 +123,7 @@ ANY DISPUTE RESOLUTION PROCEEDINGS, WHETHER IN ARBITRATION OR COURT, WILL BE CON
 
 ## 13\. Questions and Suggestions
 
-If you have questions about this Privacy Policy, you can contact us through the [Contact Us](https://web.archive.org/web/20150515185549id_/http%3A//www.shutterflyinc.com/contact.html) page of any of our brands.
+If you have questions about this Privacy Policy, you can contact us through the [Contact Us](https://web.archive.org/web/20151218195721id_/https%3A//www.shutterflyinc.com/contact.html) page of any of our brands.
 
 ## 14\. Updates to Privacy Policy
 
