@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mtnfootball.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627162234id_/http%3A//mtnfootball.com//content/443252/Privacy-Statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mtnfootball.com privacy policy that was archived on 2015-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151218130150id_/http%3A//mtnfootball.com//content/443252/Privacy-Statement) for the most accurate reproduction.*
 
-# African Football - Privacy Statement
+# MTN Football - Privacy Statement
 
 'Personal identifiable information’ is information that can be used uniquely to identify you, such as your name, mailing address, email address, telephone numbers and credit card number. In order to provide you with service in this website, we may require that you provide us with personal identifiable information.
 
