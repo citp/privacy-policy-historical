@@ -1,10 +1,11 @@
-> *The following text is extracted and transformed from the cumfilledindiangirls.com privacy policy that was archived on 2014-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140820145125id_/http%3A//www.cumfilledindiangirls.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cumfilledindiangirls.com privacy policy that was archived on 2015-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151218060931id_/http%3A//www.cumfilledindiangirls.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
-YellowPlum Ltd.  
-Stasikratous, 16,   
-1065, Nicosia  
+YellowPlum Limited.  
+Avlonos 1,  
+Maria House,   
+1075, Nicosia  
 Cyprus
 
 We can be reached via e-mail at [ support@247mg.com](mailto:support@247mg.com)
