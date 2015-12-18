@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the philadelphiaweekly.com privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612175106id_/http%3A//www.philadelphiaweekly.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the philadelphiaweekly.com privacy policy that was archived on 2015-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151218235800id_/http%3A//www.philadelphiaweekly.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Philadelphia Weekly
+# Privacy Policy | Philly Weekly
 
 2\. PERSONAL INFORMATION WE COLLECT. We may collect Personal Information when You: (a) sign up as a subscriber; (b) make changes to Your subscriber profile information; and (c) send e-mail messages, forms, or other information to us or via the Service. When You sign up as a subscriber, we ask for Personal Information, such as an e-mail address, to allow us to create an account for You, respond to Your questions or contact You regarding Your account. We use the e-mail address You provide on the registration form as a primary user identifier to guarantee uniqueness across the Web. 
 
