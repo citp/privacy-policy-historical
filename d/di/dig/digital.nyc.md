@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the digital.nyc privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607014950id_/http%3A//www.digital.nyc/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digital.nyc privacy policy that was archived on 2015-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151218165453id_/http%3A//www.digital.nyc/privacy) for the most accurate reproduction.*
 
-# None
+# Privacy Policy | Digital.NYC
 
 Digital.NYC respects your privacy and is committed to protecting it. This Privacy Policy describes the policies and procedures that govern the collection, use and disclosure of your personal information when you use Digital.NYC. We will not use or share your confidential information with anyone except as described in this Privacy Policy. This Privacy Policy does not apply to information we collect from other sources.  Information that you submit to Digital.NYC may be publicly available and disclosed. Capitalized terms that are not defined in this Privacy Policy have the meaning given them in Digital.NYC’s [Terms of Service](https://web.archive.org/terms).   
 
