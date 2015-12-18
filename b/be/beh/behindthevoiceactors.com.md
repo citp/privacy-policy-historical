@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the behindthevoiceactors.com privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628231119id_/http%3A//www.behindthevoiceactors.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the behindthevoiceactors.com privacy policy that was archived on 2015-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151218153107id_/http%3A//www.behindthevoiceactors.com/privacy-policy) for the most accurate reproduction.*
 
 # Behind The Voice Actors - Privacy Policy
 
@@ -50,6 +50,9 @@ From time to time, we may host a contest, promotion or sweepstake on the site. Y
 
 2.10 Retention of Information.  
 We retain information for as long as required, allowed or we believe it useful, but do not undertake retention obligations. We may dispose of information in our discretion without notice, subject to applicable law that specifically requires the handling or retention of information. You must keep your own, separate back-up records. 
+
+2.11 Advertising  
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: http://www.networkadvertising.org/managing/opt_out.asp 
 
 **3\. Links to Other Sites**
 
