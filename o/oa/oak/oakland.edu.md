@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the oakland.edu privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607202944id_/http%3A//www.oakland.edu/web-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oakland.edu privacy policy that was archived on 2015-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151218203127id_/http%3A//www.oakland.edu/web-privacy) for the most accurate reproduction.*
 
-# OU Web Privacy Statement
+# OU Web Privacy Statement - Policies and Regulations - Oakland University
 
 At Oakland University, we strive to respect the privacy of our website visitors because your privacy is important to us. Using the Internet should be a pleasant experience, and we want to help you make it enjoyable. This privacy statement describes what information we collect and how that information is protected and used with those ideas in mind.
 
