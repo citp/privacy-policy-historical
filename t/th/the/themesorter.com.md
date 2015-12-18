@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the themesorter.com privacy policy that was archived on 2015-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150618085845id_/http%3A//themesorter.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the themesorter.com privacy policy that was archived on 2015-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151218144539id_/http%3A//themesorter.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - ThemeSorter
 
-DreamDolphin Media, LLC has created this privacy policy statement in order to demonstrate its firm commitment to the privacy of ThemeSorter users. The following discloses the information gathering and dissemination practices for this website. 
+Press Up Inc has created this privacy policy statement in order to demonstrate its firm commitment to the privacy of ThemeSorter users. The following discloses the information gathering and dissemination practices for this website. 
 
 ## Information Automatically Logged
 
@@ -20,7 +20,7 @@ We will not sell or distribute personal information, including e-mail addresses,
 
 We may send regular e-mail messages to users subscribed to our mailing list. A user can opt-out of regular mailings at any time by contacting ThemeSorter. Any regular mailings will contain detailed instructions so that users can unsubscribe at any time. 
 
-The information we collect is used to maintain user accounts, personalize user experience, contact users and improve the quality of our website. Non-personally identifying user information may be used by DreamDolphin Media, LLC for research, marketing and informational purposes. 
+The information we collect is used to maintain user accounts, personalize user experience, contact users and improve the quality of our website. Non-personally identifying user information may be used by Press Up Inc for research, marketing and informational purposes. 
 
 ## Security
 
@@ -32,7 +32,7 @@ Cookies are small files that a website or its service provider transfers to your
 
 ## External Links
 
-ThemeSorter contains links to other sites. DreamDolphin Media, LLC is not responsible for the privacy practices or the content of such websites. Users should access all external sites at their own risk. 
+ThemeSorter contains links to other sites. Press Up Inc is not responsible for the privacy practices or the content of such websites. Users should access all external sites at their own risk. 
 
 ## Data Access/Quality
 
@@ -62,13 +62,8 @@ By using our site, you consent to our privacy policy.
 
 If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below. It the user's responsibility to be aware of the current privacy policy of this website. 
 
-Last Update: January 2, 2013 
+Last Update: October 19, 2015 
 
 If you have any questions about this privacy policy statement, the practices of this website, your dealings with this website, or if you feel that this site is not following its stated information policy, you may contact us using the information below. 
 
 E-mail (Contact Form): [http://themesorter.com/contact](https://web.archive.org/contact)
-
-DreamDolphin Media, LLC  
-P.O. Box 126511  
-Benbrook, TX 76126  
-United States 
