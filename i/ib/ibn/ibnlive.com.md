@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ibnlive.com privacy policy that was archived on 2015-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150522005807id_/http%3A//www.ibnlive.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ibnlive.com privacy policy that was archived on 2015-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151218130002id_/http%3A//www.ibnlive.com/privacy_policy.php) for the most accurate reproduction.*
 
 # IBNLive-Privacy Policy
 
