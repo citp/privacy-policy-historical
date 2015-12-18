@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the drewrynewsnetwork.com privacy policy that was archived on 2015-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150619074240id_/http%3A//drewrynewsnetwork.com/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drewrynewsnetwork.com privacy policy that was archived on 2015-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151218192739id_/http%3A//drewrynewsnetwork.com/PrivacyPolicy) for the most accurate reproduction.*
 
-# Privacy Policy - www.DrewryNewsNetwork.com/register
+# Privacy Policy - http://www.DrewryNewsNetwork.com/register
 
 * * *
 
