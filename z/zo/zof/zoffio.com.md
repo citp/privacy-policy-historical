@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the zoffio.com privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611055326id_/http%3A//www.zoffio.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zoffio.com privacy policy that was archived on 2015-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151218105521id_/http%3A//www.zoffio.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy at Zoffio.com
+# Privacy Policy - Zoffio
 
-Team Zoffio considers personal privacy to be of paramount importance. It governs all its transactions with strict rules thereby ensuring customers with secure transactions that do not violate any privacy policy. As such Team Zoffio uses only customers name and personal information as directed by the Privacy Policy. We concentrate on collecting information that is relevant to our dealings with you. The collected information is retained with Team Zoffio for as long as required legally and as long as it is relevant for the purposes for which the data was collected. However, it has to be noted that the website allows free surfing and browsing of its contents without you having to provide your personal details.
+Team Zoffio considers personal privacy to be of paramount importance. It governs all its transactions with strict rules thereby ensuring customers with secure transactions that do not violate any privacy policy. As such Team Zoffio uses only customer's name and personal information as directed by the Privacy Policy. We concentrate on collecting information that is relevant to our dealings with you. The collected information is retained with Team Zoffio for as long as required legally and as long as it is relevant for the purposes for which the data was collected. However, it has to be noted that the website allows free surfing and browsing of its content without you having to provide your personal details.
 
 #### Contact Details
 
