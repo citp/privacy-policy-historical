@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the she.com.pk privacy policy that was archived on 2015-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150618044914id_/http%3A//shes.pk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the she.com.pk privacy policy that was archived on 2015-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151218162932id_/http%3A//shes.pk/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | It's All About Girls.
+# Privacy Policy
 
 Privacy Policy for she.com.pk
 
