@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the naijaecash.com privacy policy that was archived on 2015-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150517210543id_/http%3A//naijaecash.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the naijaecash.com privacy policy that was archived on 2015-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151218025653id_/http%3A//naijaecash.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Nigerian Entrepreneur
 
