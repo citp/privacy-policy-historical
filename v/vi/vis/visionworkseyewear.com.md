@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the visionworkseyewear.com privacy policy that was archived on 2015-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150510061504id_/http%3A//www.visionworks.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the visionworkseyewear.com privacy policy that was archived on 2015-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151218052944id_/http%3A//www.visionworks.com/privacy-policy) for the most accurate reproduction.*
 
 # Online Privacy Policy | Visionworks
 
@@ -92,11 +92,11 @@ Please read the Terms of Use governing the use of the Site and the Site Features
 
 (Updated August 27, 2013)
 
-[Click here](https://web.archive.org/web/20150510061504id_/http%3A//www.visionworks.com/legal_hipaa.pdf "HIPAA Privacy Notice") to download the HIPAA Privacy Notice pdf.
+[Click here](https://web.archive.org/web/20151218052944id_/http://www.visionworks.com/privacy-policy/legal_hipaa.pdf "HIPAA Privacy Notice") to download the HIPAA Privacy Notice pdf.
 
 This notice describes how Medical information about you may be used and disclosed and how you can get access to this information.
 
-[Click Here](https://web.archive.org/web/20150510061504id_/http%3A//www.visionworks.com/Protecting_Competitively_Sensitive_Information_4-24-14.pdf#zoom=100 "Protecting Competitively Sensitive Information Policy") to view Protecting Competitively Sensitive Information Policy pdf.
+[Click Here](https://web.archive.org/web/20151218052944id_/http://www.visionworks.com/privacy-policy/Protecting_Competitively_Sensitive_Information_4-24-14.pdf#zoom=100 "Protecting Competitively Sensitive Information Policy") to view Protecting Competitively Sensitive Information Policy pdf.
 
 [](http://get.adobe.com/reader/)Note: To view the PDF documents, you will need Acrobat Reader from Adobe. [Download Acrobat Read now](http://get.adobe.com/reader/ "Download Acrobat Read now.").
 
