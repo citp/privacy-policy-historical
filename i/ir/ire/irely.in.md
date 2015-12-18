@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the irely.in privacy policy that was archived on 2015-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150613022244id_/http%3A//www.irely.in/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the irely.in privacy policy that was archived on 2015-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151218013104id_/http%3A//www.irely.in/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
 
-# Privacy Policy - Buy Online in Hyderabad and Bangalore
+# Privacy Policy in Bangalore and Hyderabad - iRely.in
 
 Privacy Policy  
 This document is an electronic record in terms of Information Technology Act, 2000 and rules there under as applicable and the amended provisions pertaining to electronic records in various statutes as amended by the Information Technology Act, 2000. This electronic record is generated by a computer system and does not require any physical or digital signatures.  
