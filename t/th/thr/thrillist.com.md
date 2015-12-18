@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thrillist.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629064916id_/http%3A//www.thrillistmediagroup.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thrillist.com privacy policy that was archived on 2015-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151218041255id_/http%3A//www.thrillistmediagroup.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - Thrillist Media Group
 
