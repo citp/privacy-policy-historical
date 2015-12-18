@@ -1,26 +1,30 @@
-> *The following text is extracted and transformed from the jdsupra.com privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630002755id_/http%3A//www.jdsupra.com/terms/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jdsupra.com privacy policy that was archived on 2015-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151218013430id_/http%3A//www.jdsupra.com/terms/privacy.aspx) for the most accurate reproduction.*
 
 # JD Supra
 
-## Last updated: March 31, 2010:
+## Updated: October 8, 2015:
 
-JDSupra provides users with access to its legal industry publishing services (the “Service”) through [its website](https://web.archive.org/) (the “Website”) as well as through other sources. Our policies with regard to data collection and use of personal information of users of the Service, regardless of the manner in which users access the Service, and visitors to the Website are set forth in this statement (“Policy”). By using the Service, you signify your acceptance of this Policy. 
+JD Supra provides users with access to its legal industry publishing services (the "Service") through [its website](https://web.archive.org/) (the "Website") as well as through other sources. Our policies with regard to data collection and use of personal information of users of the Service, regardless of the manner in which users access the Service, and visitors to the Website are set forth in this statement ("Policy"). By using the Service, you signify your acceptance of this Policy. 
 
 ## Information Collection and Use by JD Supra
 
-JD Supra collects users’ e-mail address and profession to authenticate users and to send notifications to those users relating to the Service. We may also use a user's email address to send updates, a newsletter or news or information regarding the service if you opt in to receive these emails during registration. 
+JD Supra collects users’ names, companies, titles, e-mail address and industry. JD Supra also tracks the pages that users visit, logs IP addresses and aggregates non-personally identifiable user data and browser type. This data is gathered using cookies and other technologies. 
 
-JD Supra also logs IP addresses and aggregates non-personally identifiable user data and browser type from users of the Service and visitors to the Website. This data is used to manage the Service and Website, track usage and improve the Service. User IP addresses are recorded for security and monitoring purposes. This data is gathered using cookies and other technologies to customize the user’s experience and also provide us with information about how visitors use the Service and Website. If you prefer not to enable cookies, you may change your browser settings to disable cookies; however, please note that rejecting cookies while visiting the Website may result in certain parts of the Website not operating correctly or as efficiently as if cookies were allowed. 
+The information and data collected is used to authenticate users and to send notifications relating to the Service, including email alerts to which users have subscribed; to manage the Service and Website, to improve the Service and to customize the user’s experience. This information is also provided to the authors of the content to give them insight into their readership and help them to improve their content, so that it is most useful for our users. 
+
+JD Supra does not sell, rent or otherwise provide your details to third parties, other than to the authors of the content on JD Supra.
+
+If you prefer not to enable cookies, you may change your browser settings to disable cookies; however, please note that rejecting cookies while visiting the Website may result in certain parts of the Website not operating correctly or as efficiently as if cookies were allowed.
 
 ## Email Choice/Opt-out
 
-Users who opt in to receive emails during the registration process may choose to no longer receive e-mail updates and newsletters by selecting the “opt-out of future email” option in the email they receive from JD Supra or in their JD Supra account management screen. 
+Users who opt in to receive emails may choose to no longer receive e-mail updates and newsletters by selecting the "opt-out of future email" option in the email they receive from JD Supra or in their JD Supra account management screen. 
 
 ## Security
 
 JD Supra takes reasonable precautions to insure that user information is kept private. We restrict access to user information to those individuals who reasonably need access to perform their job functions, such as our third party email service, customer service personnel and technical staff. However, please note that no method of transmitting or storing data is completely secure and we cannot guarantee the security of user information. Unauthorized entry or use, hardware or software failure, and other factors may compromise the security of user information at any time. 
 
-If you have reason to believe that your interaction with us is no longer secure, you must immediately notify us of the problem by contacting us at [info@jdsupra.com](mailto:info@jdsupra.com). In the unlikely event that we believe that the security of your user information in our possession or control may have been compromised, we may seek to notify you of that development and, if so, will endeavor to do so as promptly as practicable under the circumstances. 
+If you have reason to believe that your interaction with us is no longer secure, you must immediately notify us of the problem by contacting us at [info@jdsupra.com](mailto:info@jdsupra.com). In the unlikely event that we believe that the security of your user information in our possession or control may have been compromised, we may seek to notify you of that development and, if so, will endeavor to do so as promptly as practicable under the circumstances.
 
 ## Sharing and Disclosure of Information JD Supra Collects
 
