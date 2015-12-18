@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ibps-recruitment.in privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607175402id_/http%3A//ibps-recruitment.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ibps-recruitment.in privacy policy that was archived on 2015-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151219005407id_/http%3A//ibps-recruitment.in/privacy-policy) for the most accurate reproduction.*
 
 # Your privacy is important to us-IBPS Recruitment
 
