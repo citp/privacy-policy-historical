@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whitneybank.com privacy policy that was archived on 2015-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150414130246id_/https%3A//whitneybank.com/home/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whitneybank.com privacy policy that was archived on 2015-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151218222039id_/https%3A//whitneybank.com/home/privacy-policy.asp) for the most accurate reproduction.*
 
 # Whitney Bank: Privacy Policy
 
@@ -146,7 +146,7 @@ A cookie is a small piece of information about an Internet session that may be c
 
 
 
-* **Except for Online Banking.** Please refer to [Online Banking FAQ](https://web.archive.org/web/20150414130246id_/https%3A//whitneybank.com/personal/eBanking/e-banking-faq.asp) for more information regarding the use of Cookies with Online Banking. 
+* **Except for Online Banking.** Please refer to [Online Banking FAQ](https://web.archive.org/web/20151218222039id_/https%3A//whitneybank.com/personal/eBanking/e-banking-faq.asp) for more information regarding the use of Cookies with Online Banking. 
 
 **Use of Information Collected**  
 Whitney Bank uses the information collected from visitors to its Web sites to address the specific needs of those visitors and to provide better customer service, including the provision of the latest information regarding Whitney Bank products. The information collected also is used to provide a record of communications between Whitney Bank and its Web site visitors and to comply with any applicable legal and/or regulatory requirements. 
@@ -155,7 +155,7 @@ Whitney Bank uses the information collected from visitors to its Web sites to ad
 Certain Whitney Bank employees will be provided with a visitor's information in order to respond to that visitor's needs and provide the visitor with information regarding specific products in which the visitor may have an interest. Whitney Bank employees are instructed to use strict standards of care in handling the personal, confidential information of Whitney Bank customers, and the handling of such information is dealt within Whitney Bank's Code of Conduct. Whitney Bank employees who do not conform to Whitney Bank's confidentiality rules are subject to disciplinary sanctions that include dismissal. 
 
 **Keeping Information Accurate**  
-Keeping your account information accurate and up-to-date is very important. If you ever find that our records are incomplete, inaccurate or not current, please call the telephone number on your account statement or email [customer service](https://web.archive.org/web/20150414130246id_/https%3A//whitneybank.com/home/home-contact.asp). We will correct the information as quickly as possible. 
+Keeping your account information accurate and up-to-date is very important. If you ever find that our records are incomplete, inaccurate or not current, please call the telephone number on your account statement or email [customer service](https://web.archive.org/web/20151218222039id_/https%3A//whitneybank.com/home/home-contact.asp). We will correct the information as quickly as possible. 
 
 **Children’s Online Privacy**  
 Whitney Bank does not collect information on our web sites from persons we actually know are under 13 years old, and no part of our web site is targeted toward any person under 13 years old. Parents can limit web site access by their children by installing programs that enable parental control of Internet access.
@@ -164,4 +164,4 @@ Children under the age of 13 are protected from the online collection of persona
 
 
 **Visitors**  
-Visitors having specific questions regarding any information may [e-mail](https://web.archive.org/web/20150414130246id_/https%3A//whitneybank.com/home/home-e-mail.asp) Whitney Bank.
+Visitors having specific questions regarding any information may [e-mail](https://web.archive.org/web/20151218222039id_/https%3A//whitneybank.com/home/home-e-mail.asp) Whitney Bank.
