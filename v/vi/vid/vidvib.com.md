@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vidvib.com privacy policy that was archived on 2015-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150619141031id_/http%3A//www.vidvib.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vidvib.com privacy policy that was archived on 2015-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151218163210id_/http%3A//www.vidvib.com/privacy.html) for the most accurate reproduction.*
 
 # 
 
@@ -51,4 +51,17 @@ vidvib has the discretion to update this privacy policy at any time. When we do,
 
  **Your acceptance of these terms**
 
-By using this Site, you signify your acceptance of this policy and [terms of service](https://web.archive.org/web/20150619141031id_/http%3A//www.vidvib.com/tou.htm). If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
+By using this Site, you signify your acceptance of this policy and [terms of service](https://web.archive.org/web/20151218163210id_/http%3A//www.vidvib.com/tou.htm). If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
+
+ **  
+
+
+### How to opt out of online advertising
+
+If you prefer to not receive Green Dot online ads in this manner, you can opt-out of some network advertising programs that use your information by tracking your browsing habits via cookies or other tracking devices. To do so you can use the Network Advertising Initiative (NAI) Opt-Out Tool. It shows you which advertising networks have placed cookies on your computer, and lets you opt-out of being tracked by them, should you wish to do so. To opt out of an NAI member�s advertising program, simply follow the steps below: 
+
+  1. Go to the NAI (Network Advertising Initiative) consumer opt-out page by clicking [here](http://www.networkadvertising.org/managing/opt_out.asp).
+  2. Check the box that corresponds to the company from which you wish to opt out. Alternatively, you can check the box labeled �Select All� and each member�s opt-out box will be checked for you. 
+  3. Next click the �Submit� button. The Tool will automatically replace the specified advertising cookie(s) and verify your opt-out status.
+
+Opting out of a network does not mean you will no longer receive online advertising. It only means that the network from which you opted out will no longer deliver ads tailored to your Web preferences and usage patterns.**
