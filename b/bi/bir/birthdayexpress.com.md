@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the birthdayexpress.com privacy policy that was archived on 2014-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141204215630id_/http%3A//www.birthdayexpress.com/info/610) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the birthdayexpress.com privacy policy that was archived on 2015-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151218120412id_/http%3A//www.birthdayexpress.com/info/610) for the most accurate reproduction.*
 
-# Birthday Party Supplies, Party Themes & Birthday Ideas
+# BirthdayExpress
 
 ## Do you have a security guarantee?
 
@@ -12,7 +12,7 @@ Follow the instructions below to remove yourself from any of our mailing lists:
 
 ### Our Email Lists
 
-On our [email preferences page](https://web.archive.org/profile/footeroremailsub), enter your email and select the "I do not wish to receive any e-mails from Birthday Express" option. 
+On our [email preferences page](https://www.birthdayexpress.com/profile/footeroremailunsub), enter your email and select the "I do not wish to receive any e-mails from Birthday Express" option. 
 
 ### Our Catalog Mailing Lists 
 
