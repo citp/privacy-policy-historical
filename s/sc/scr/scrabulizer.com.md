@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scrabulizer.com privacy policy that was archived on 2015-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150502063550id_/http%3A//www.scrabulizer.com/static/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scrabulizer.com privacy policy that was archived on 2015-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151218193528id_/http%3A//www.scrabulizer.com/static/policy) for the most accurate reproduction.*
 
 # Disclaimer, Privacy and Cookies Policy - Scrabulizer
 
@@ -20,7 +20,7 @@ Scrabble is a registered trademark of J.W. Spear & Sons Ltd, a Mattel company, a
 
 ### Personal Details
 
-Your email address is captured for password recovery purposes. Your password is stored using one way encryption, meaning we can not recover it from our database. 
+Your email address is captured for login and password recovery purposes. Your password is stored using one way encryption, meaning we can not recover it from our database. 
 
 We will not disclose your email address or any other details captured about you to any third party. Your username may be displayed on the site to other users so please make sure it does not contain any sensitive information. 
 
@@ -66,15 +66,16 @@ Scrabulizer use suppliers who may set their own cookies. Scrabulizer does not co
 
 Provider | Purpose | More Info  
 ---|---|---  
+AddThis |  Scrabulizer includes links provided by AddThis. Cookies set by AddThis are used to store your preferences relating to the AddThis service and to collect information about links shared on social network sites.  |  [AddThis Privacy Information](http://www.addthis.com/privacy)  
+CloudFlare |  Scrabulizer uses CloudFlare to optimize page load performance and protect our servers from online attacks. CloudFlare sets a cookie to help distinguish between legitimate Scrabulizer users and attackers.  |  [What does the CloudFlare cfduid cookie do?](https://support.cloudflare.com/hc/en-us/articles/200170156-What-does-the-CloudFlare-cfduid-cookie-do-)  
 Google Analytics |  Cookies set by Google Analytics are used to collect information about how visitors use Scrabulizer. We use the information to produce reports and to help make improvements to the site. The cookies collect information in an anonymous form. Information collected includes links that were followed to reach Scrabulizer, pages that were visited and the number of visitors to the site.  | 
 
 [Google Analytics Privacy](https://www.google.com/analytics/learn/privacy.html)
 
-[Cookies set by Google Analytics](https://developers.google.com/analytics/devguides/collection/analyticsjs/cookie-usage#gajs)  
+[Cookies set by Google Analytics](https://developers.google.com/analytics/devguides/collection/analyticsjs/cookie-usage#analyticsjs)  
   
-AddThis |  Scrabulizer includes links provided by AddThis. Cookie set by AddThis are used to store your preferences relating to the AddThis service and to collect information about links shared on social network sites.  |  [AddThis Privacy Information](http://www.addthis.com/privacy)  
-Twitter |  Scrabulizer includes widgets from Twitter. Twitter widgets use cookies to tailor content to you and to collect aggregated statistics relating to the use of Twitter services.  |  [Twitter Privacy Policy](https://twitter.com/privacy)  
 Third-Party Advertisers |  Scrabulizer shows advertising provided by third-party advertising companies. These companies may use cookies to track your preferences and usage patterns in order to tailor advertising to your interests.  |  [Digital Advertising Alliance - Understanding Online Advertising](http://www.aboutads.info/consumers)  
+Twitter |  Scrabulizer includes widgets from Twitter. Twitter widgets use cookies to tailor content to you and to collect aggregated statistics relating to the use of Twitter services.  |  [Twitter Privacy Policy](https://twitter.com/privacy)  
   
 ### Third-Party Advertising
 
@@ -82,7 +83,7 @@ We may use third-party advertising companies to serve ads when you visit our web
 
 ### Log Files
 
-We use log files to record visitors' use of the site. Information in the log files includes pages accessed, IP addresses, browser types, date and time stamps, and referring URLs. Log files are used to analyze trends, administer the site and to track user's movement around the site. IP addresses, and other such information are not linked to any information that is personally identifiable. We only retain the information from log files for as long as is necessary (typically less than a month). 
+We use log files to record visitors' use of the site. Information in the log files includes pages accessed, IP addresses, browser types, date and time stamps, and referring URLs. Log files are used to analyze trends, administer the site and to track the movement of users around the site. IP addresses and other such information are not linked to any information that is personally identifiable. We only retain the information from log files for as long as is necessary (typically less than a month). 
 
 ### Dictionaries
 
@@ -90,8 +91,8 @@ The dictionaries are to the best of our knowledge, genuine official Scrabble dic
 
 ### Our Rights
 
-We reserve the right to remove a user's account, blog comments or saved games and we may monitor user activity for maintenance purposes. 
+We reserve the right to remove a user's account, blog comments or saved content and we may monitor user activity for maintenance purposes. 
 
 ### Use of Scrabulizer Services
 
-Scrabulizer services may only be used through the Scrabulizer App and Scrabulizer.com website. 
+Scrabulizer services may only be used through the Scrabulizer.com website and Lexalizer iOS App. 
