@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the biotecnika.org privacy policy that was archived on 2015-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150615135751id_/http%3A//www.biotecnika.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the biotecnika.org privacy policy that was archived on 2015-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151218120359id_/http%3A//www.biotecnika.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | BioTecNika
 
@@ -34,4 +34,5 @@ For More contacts visit our [Contact Us](https://web.archive.org/contact-us/) pa
   * If you feel that this site is not following its stated information policy, you may contact us at the above said addresses.
 
 
+  
 
