@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the manytools.org privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610051128id_/http%3A//manytools.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the manytools.org privacy policy that was archived on 2015-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151218052716id_/http%3A//manytools.org/privacy-policy) for the most accurate reproduction.*
 
 # Manytools.org Privacy Policy
 
