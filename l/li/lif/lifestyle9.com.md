@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the lifestyle9.com privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626092750id_/http%3A//www.lifestyle9.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lifestyle9.com privacy policy that was archived on 2015-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151218120645id_/http%3A//lifestyle9.org/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Lifestyle9.com
+# Privacy Policy - LifeStyle9
 
-This privacy policy sets out how lifestyle9.com uses and protects any information that you give to lifestyle.com when you use this website.
+This privacy policy sets out how lifestyle9.org uses and protects any information that you give to lifestyle.com when you use this website.
 
 lifestyle.com is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
 
