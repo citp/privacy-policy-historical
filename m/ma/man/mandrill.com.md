@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mandrill.com privacy policy that was archived on 2015-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150619020411id_/http%3A//www.mandrill.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mandrill.com privacy policy that was archived on 2015-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151218042950id_/http%3A//www.mandrill.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Mandrill
 
@@ -127,7 +127,7 @@ MailChimp accounts require a username and password to log in. You must keep your
 
 ## 12\. Safe Harbor Certification
 
-MailChimp complies with the U.S.–E.U. and U.S.–Swiss Safe Harbor Framework, which is overseen by the U.S. Department of Commerce and covers the collection, use, and retention of personal data from European Union member countries and Switzerland. We certify that we follow the principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. A data processing agreement is available upon request, please contact [privacy@mailchimp.com](mailto:privacy@mailchimp.com).
+MailChimp complies with the U.S.–E.U. and U.S.–Swiss Safe Harbor Framework, which is overseen by the U.S. Department of Commerce and covers the collection, use, and retention of personal data from European Union member countries and Switzerland. We certify that we follow the principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. In light of a recent [European Court of Justice ruling](http://static.ow.ly/docs/schrems_3OHQ.pdf) users may request an updated data processing agreement which incorporates the [Standard Contractual Clauses](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2010:039:0005:0018:EN:PDF) [here](http://mailchimp.com/legal/forms/data-processing-agreement).
 
 ## 13\. Accuracy of Data, Transparency, and Choice
 
@@ -143,4 +143,4 @@ We and TRUSTe regularly review our compliance with this Privacy Policy. If we re
 
 Thanks for taking the time to learn about The Rocket Science Group’s privacy policy, and thanks for trusting us to handle your email.
 
- _Updated December 18, 2014_
+ _Updated October 9, 2015_
