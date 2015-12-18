@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blucigs.com privacy policy that was archived on 2015-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150617020905id_/http%3A//www.blucigs.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blucigs.com privacy policy that was archived on 2015-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151218225556id_/http%3A//www.blucigs.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | blu eCigs®
 
@@ -6,10 +6,10 @@
 
 **blu** has established a privacy policy with the mission of building member trust and confidence by promoting the use of fair information practices. If you have questions or concerns regarding this statement, you should first [submit an inquiry](https://forms.netsuite.com/app/site/crm/externalcasepage.nl?compid=3416361&formid=1&h=cbf461e72f309b43cfff&whence=&redirect_count=1&did_javascript_redirect=T).
 
-This site is owned and operated by LOEC, Inc dba **blu eCigs**
+This site is owned and operated by Fontem US, Inc. dba **blu eCigs**
 
 **blu eCigs**  
-LOEC  
+Fontem US, Inc.  
 10901 S. Commerce Blvd., Suite B  
 Charlotte, NC 28273
 
