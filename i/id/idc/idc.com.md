@@ -1,47 +1,72 @@
-> *The following text is extracted and transformed from the idc.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629193716id_/https%3A//www.idc.com/about/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the idc.com privacy policy that was archived on 2015-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151218160035id_/https%3A//www.idc.com/about/privacy.jsp) for the most accurate reproduction.*
 
 # IDC - Privacy Policy
 
 IDC Privacy Policy  
 
 
-At IDC, we are committed to protecting your privacy. We use the information we collect on our Web site to deliver services and to enhance your experience. Please read below for specific details on our policy.
+This website ("Website") and associated websites are maintained by:
+
+**IDC Research, Inc.  
+5 Speen St.  
+Framingham, MA 01701  
+U.S.A.**
+
+At IDC Research, Inc. ("IDC"), we are committed to protecting your privacy. We use the information we collect on our Website to deliver services and to enhance your experience. Please read below for specific details on our policy.
 
 Specifically:
 
   * We do not sell lists or usage information.
-  * We do not accept any advertising on our site and therefore have no information reporting requirements to any third party.
+  * We do not report usage or user information to any third party (except in connection with third party commissioned research and in such case, you expressly consent to the disclosure of such information).
+  * We do not accept any advertising on our Website and therefore have no information reporting requirements to any third party.
 
 
 
-Usage Tracking
+Collection and Use of Personal Data
 
-We track your behavior on our Web site such as search terms, documents accessed, and pages visited. If you are a registered user, this information is stored with your registration information. It is unique-number identifiable and is used to provide you with a personalized Web site experience. We also analyze this data to improve our research offerings and make enhancements to the Web site.
+Our Website requires that users provide an email address, and other personal data ("Personal Data"), as well as information about the user’s organization (if part of a Corporate Account). The email is used as the user’s log-in identity when registering for an account on our Website. This ensures a unique identity and provides IDC with a method to contact users about service-related issues, as well as receive additional communications about special IDC offers such as Web Conferences, special events, and newsletters,
 
-We aggregate statistics of the type of applications used to browse our Web site and the regional source of that browsing, among IDC and other IDG companies, for analysis. This information is not personally identifiable.
+**_IDC is a U.S.-based Company and you agree that your Personal Data will be stored on our servers in the U.S.A._**
 
-Corporate Administrators at our client organizations have access to usage statistics for their account base. If your user account is part of a corporate account, then a Corporate Administrator at your company may access your user and usage information.Corporate Administrators can access user information only for individuals within their corporate profile.
+Corporate Accounts
 
-Cookies
+Corporate administrators ("Corporate Administrators") at our client organizations have access to usage statistics for their organization’s account base. If your user account, including Personal Data, is part of a corporate account, then a Corporate Administrator at your organization may access your user data containing Personal Data and usage information. Corporate Administrators can access user information only for individuals within their corporate profile.
 
-Cookies are pieces of information that are placed on your device when you visit a Web site. We use several types of cookies, and each performs different functions. The information in the cookies may be linked to personally identifying information. Cookies allow you to navigate between pages efficiently, store your preferences, and generally improve your Web experience.
+Cookies and Usage Tracking
 
-You can change your browser settings to enable or disable cookies or to display a warning before accepting a cookie. However, keep in mind that deleting cookies will prevent you from using many of the features of the IDC Web site. We use cookies to maintain your log-in and access control as you move through the site. Cookies also enable us to personalize your preferences, including search, MyIDC, and "remember me."
+Cookies are pieces of information that are placed on your device when you visit a website. We use several types of cookies, and each performs different functions. The information in the cookies may be linked to Personal Data. Cookies allow you to navigate between pages efficiently, store your preferences, and generally improve your Web experience.
+
+You can change your browser settings to enable or disable cookies or to display a warning before accepting a cookie. However, keep in mind that deleting cookies will prevent you from using many of the features of the Website. We use cookies to maintain your log-in and access control as you move through the site. Cookies also enable us to personalize your preferences, including search, "myIDC", and "remember me."
+
+We track your behavior on our Website such as search terms, documents accessed, and pages visited. If you are a registered user, this information is stored with your registration information. It is unique-number identifiable and is used to provide you with a personalized Website experience. We also analyze this data to improve our research offerings and make enhancements to the Website.
+
+We aggregate statistics of the type of applications used to browse our Website and the regional source of that browsing, among IDC and other IDG companies, for analysis. This information is not personally identifiable.
 
 Purchases
 
-IDC employs secure server software (SSL) encryption on all credit card transactions. The SSL encrypts all information you input before you send it to us.
+IDC employs secure server software (SSL) encryption on all credit card transactions. The SSL encrypts all information you input before you send it to us, and IDC does not store any credit card data.
 
-Email
+Transfer of Information by IDC
 
-IDC.com requires that users provide an email address as their log-in identity when registering for an account on our Web site. This ensures a unique identity and provides IDC with a method to contact customers about service interruptions and other service-related issues.
+In the event that part or all of the ownership of IDC, or any of its products are sold or transferred, all lists and data that contains Personal Data, will be transferred to the new owner.
 
-During registration, new users may be added to the IDC.com subscriber list to receive additional communications about special IDC offers such as Web Conferences, special events, and newsletters, by checking the appropriate Contact boxes for email, phone, and/or mail. If you do not check any of the Contact boxes, you will not be included in the IDC.com subscriber list.
+We may use or disclose Personal Data if we have a good-faith belief that the disclosure is reasonably necessary (a) to satisfy applicable law, regulation, legal process, or enforceable governmental request, (b) to enforce agreements we have with you, (c) to address fraud or security issues, or (d) to protect against harm to the rights, property, or safety of IDC, or our employees or customers.
 
-Once you are on the IDC.com subscriber list, you may ask to be removed at any time. You may simply click on the link that appears at the bottom of the IDC email you receive. If you would like to resubscribe, you can add your email address to our list again by signing up to be contacted on your IDC.com Profile page, or by contacting IDC Technical Support at [idc_support@idc.com](mailto:idc_support@idc.com).
+Opting Out
 
-Unsubscribe requests or issues may also be sent via mail to any of our offices. A list of our worldwide offices is [here](https://web.archive.org/about/wwoffices.jsp).
+Once you are on the IDC.com subscriber list, you may ask to be removed at any time. You may simply click on the link that appears at the bottom of the IDC email you receive, or contact IDC Technical Support at: [idc_support@idc.com](mailto:idc_support@idc.com). Unsubscribe requests may also be sent via mail to any of our offices. A list of our worldwide offices is [here](http://www.idc.com/about/wwoffices.jsp). In such case, IDC will only contact you in connection with service related issues.
 
-Please check this page often as, from time to time, IDC may update this privacy policy without prior notice. All updates will display a posting date. If you have any questions or concerns, please contact us at any time. 
+Questions and Updating or Correcting your Personal Data
 
-**Last Updated:** 16-April-2015
+If you have any questions or concerns about the Website and/or the handling of your Personal Data, and/or to correct, amend, or delete that information where you believe that it is inaccurate, please contact us at any time:
+
+IDC Research, Inc.  
+5 Speen Street,  
+Framingham, MA 01701 U.S.A.  
+Email: [idc_support@idc.com](mailto:idc_support@idc.com)
+
+Updates
+
+Please check this page often as, from time to time, IDC may update this Privacy Policy. All updates will display a posting date.
+
+**Last Updated:** 19-October-2015
