@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moef.nic.in privacy policy that was archived on 2015-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150615061220id_/http%3A//www.moef.nic.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moef.nic.in privacy policy that was archived on 2015-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151218122547id_/http%3A//www.moef.nic.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Ministry of Environment, Forest and Climate Change Government of India
 
