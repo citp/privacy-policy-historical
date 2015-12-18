@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the madnews.in privacy policy that was archived on 2015-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150619120308id_/http%3A//madnews.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the madnews.in privacy policy that was archived on 2015-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151218021219id_/http%3A//madnews.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy of Madnews.in Website
 
-It's only fair to share...000
+It's only fair to share...20
 
 This Privacy Policy governs the manner in which Madnews.in collects, uses, maintains and discloses information collected from users (each, a “User”) of the <http://madnews.in/> website (“Site”). This privacy policy applies to the Site and all products and services offered by Madnews.in.
 
@@ -22,9 +22,9 @@ Our Site may use “cookies” to enhance User experience. User’s web browser 
 
 Madnews.in may collect and use Users personal information for the following purposes:
 
-  * _\- To improve our Site_  
+  * _– To improve our Site_  
 We may use feedback you provide to improve our products and services.
-  * _\- To send periodic emails_  
+  * _– To send periodic emails_  
 If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
 
 
@@ -73,4 +73,4 @@ madnewssite@gmail.com
 
 This document was last updated on February 15, 2015
 
-It's only fair to share...000
+It's only fair to share...20
