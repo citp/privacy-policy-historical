@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the themobiletracker.com privacy policy that was archived on 2015-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150616150618id_/http%3A//www.themobiletracker.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the themobiletracker.com privacy policy that was archived on 2015-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151218043157id_/http%3A//www.themobiletracker.com/privacy) for the most accurate reproduction.*
 
-# Privacy | TheMobileTracker.com
+# Privacy
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at info@themobiletracker.com. 
 
