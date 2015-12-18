@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the assteenmouth.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608105321id_/http%3A//assteenmouth.com/free_tour/en/support/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the assteenmouth.com privacy policy that was archived on 2015-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151218113611id_/http%3A//assteenmouth.com/free_tour/en/support/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
