@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the salvationarmyusa.org privacy policy that was archived on 2015-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150507101539id_/http%3A//www.salvationarmyusa.org/usn/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the salvationarmyusa.org privacy policy that was archived on 2015-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151218120532id_/http%3A//www.salvationarmyusa.org/usn/privacypolicy) for the most accurate reproduction.*
 
 # The Salvation Army - Privacy Policy
 
@@ -17,6 +17,8 @@ The Salvation Army recognizes the importance of protecting any information we ma
 Certain sections of The Salvation Army web sites may use "cookies" to store user information. A cookie is a small string of text that a web site can send to your browser that is intended to enhance your visit. A cookie cannot retrieve data from your hard drive, pass on computer viruses, or capture your email address. In general, cookies can securely store a user's ID and password specific to that web site, personalize home pages, identify which parts of a web site have been visited, or keep track of selections in a form or shopping cart.
 
 Cookies help us understand which parts of our web sites are the most popular, where our visitors are going, and how long they spend there. We use cookies to study traffic patterns on our web site so we can make suitable improvements to our web site and provide you with a better user experience. Our cookies will not provide The Salvation Army with any information not related to our web site. Your browser, however, does automatically tell us the type of computer and operating system you are using.
+
+Notwithstanding any other provision, we may also engage a third party partner for the purposes of recognizing users and delivering them internet-based content and advertisements. We may share information about you with our vendors such as your name, postal address, email, device ID, or other identifier encrypted, hashed or de-identified form. Our vendors also may collect information from you such as your IP address and information about your browser or operating system; may combine our personal and non-personal information about you with information from other data sharing cooperatives in which we participate; and may place or recognize a unique cookie on your browser. These cookies contain no personally identifiable information; they may contain demographic or other data in de-identifid form. To opt-out of third party cookies, please go to [ http://www.aboutads.info/choices](http://www.aboutads.info/choices).
 
   
 **Restrictions on Use of Materials**
