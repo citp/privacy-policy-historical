@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the opinionbar.com privacy policy that was archived on 2014-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141229171128id_/http%3A//www.opinionbar.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the opinionbar.com privacy policy that was archived on 2015-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151218205035id_/http%3A//www.opinionbar.com/privacy.aspx) for the most accurate reproduction.*
 
 # OpinionBar: Enjoy our online surveys and get paid! : Privacy
 
@@ -48,7 +48,7 @@ Our surveys often contain links to other sites. OpinionBar is not responsible fo
 OpinionBar/MetrixLab will, from time to time, use tags on websites to enable branding research on behalf of our clients. This tag will drop a cookie which enables us to measure the effect of advertising campaigns and the difference between groups which have been exposed to the ad and the group which have not been exposed to the ad.
 
 In case you do not want to receive ad cookies from MetrixLab / OpinionBar you can opt-out for receiving them. We will then place a new cookie which prevents future cookies from us to be stored on your computer. Please note that you need to opt-out again in case you delete all cookies using a removal program or via the 'delete cookies' function in your browser.  
-[Click here to opt-out for our ad cookies](https://web.archive.org/web/20141229171128id_/http%3A//www.opinionbar.com/opt_out.aspx)
+[Click here to opt-out for our ad cookies](https://web.archive.org/web/20151218205035id_/http%3A//www.opinionbar.com/opt_out.aspx)
 
 ### 3.1 Information collected from OpinionBar Subscribers
 
@@ -112,7 +112,7 @@ Visit www.esomar.org for more information on ESOMAR and the ICC/ESOMAR Internati
 
 The Guideline of the European Parliament and the EU Council with regard to the protection of individuals with regard to the processing of personal data and the free circulation thereof.
 
-Please contact us when you have questions about our privacy statment. You can write us at the address below, or send us a message through our [help desk](https://web.archive.org/web/20141229171128id_/http%3A//www.opinionbar.com/helpdesk.aspx)
+Please contact us when you have questions about our privacy statment. You can write us at the address below, or send us a message through our [help desk](https://web.archive.org/web/20151218205035id_/http%3A//www.opinionbar.com/helpdesk.aspx)
 
 > **MetrixLab**   
 >  Wilhelminakade 312  
