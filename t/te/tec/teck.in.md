@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teck.in privacy policy that was archived on 2015-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150518232644id_/http%3A//teck.in/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teck.in privacy policy that was archived on 2015-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151218114802id_/http%3A//teck.in/privacy) for the most accurate reproduction.*
 
 # TECK.IN | Privacy Policy
 
