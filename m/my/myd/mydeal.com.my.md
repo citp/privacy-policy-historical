@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mydeal.com.my privacy policy that was archived on 2015-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150531084249id_/http%3A//www.ensogo.com.my/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mydeal.com.my privacy policy that was archived on 2015-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151218171347id_/http%3A//www.ensogo.com.my/page/privacy-policy) for the most accurate reproduction.*
 
 # Deals Ensogo Malaysia | Save, Smile, Share!
 
