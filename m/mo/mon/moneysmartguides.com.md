@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moneysmartguides.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609223154id_/http%3A//www.moneysmartguides.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moneysmartguides.com privacy policy that was archived on 2015-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151218212210id_/http%3A//www.moneysmartguides.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - MoneySmartGuides.com
 
@@ -20,11 +20,11 @@ Your privacy is very important to MoneySmartGuides. The following is in-depth de
 
 
 
-**Log Files**
+ **Log Files**
 
 As with most other websites, I collect and use the data contained in log files.  The information in the log files include  your IP (internet protocol) address, your ISP (internet service provider, such as AOL or Shaw Cable), the browser you used to visit our site (such as Internet Explorer or Firefox), the time you visited our site and which pages you visited throughout our site.
 
-**Cookies and Web Beacons**
+ **Cookies and Web Beacons**
 
 MoneySmartGuides does use cookies to store information, such as your personal preferences when you visit the site.  This could include only showing you a popup once in your visit.
 
