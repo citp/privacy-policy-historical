@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the jackssmallengines.com privacy policy that was archived on 2015-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150407003535id_/http%3A//www.jackssmallengines.com/privacy_policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jackssmallengines.com privacy policy that was archived on 2015-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151218081733id_/http%3A//www.jackssmallengines.com/support/privacy-policy.aspx) for the most accurate reproduction.*
 
-# Jack's Small Engines Privacy Policy and Security Statement
+# Privacy Policy - Jacks Small Engines
+
+### Over 1,000,000 Orders Shipped Since 1997!
+
+## Jacks Small Engine & Generator Service, LLC
 
 _We will not give or sell your individual information to any outside company for its use in marketing or solicitation._
 
@@ -8,7 +12,7 @@ Jacks Small Engine & Generator Service, LLC and family of websites respects the 
 
 ## Opt-Out
 
-Jacks Small Engine & Generator Service, LLC may send you communications regarding its services. Jacks Small Engine & Generator Service, LLC provides you the opportunity to opt-out of receiving such communications by indicating your desire to opt-out. If you would like to opt out of receiving communications from us please use our [Contact Page](http://www.jackssmallengines.com/contact-us.aspx)
+Jacks Small Engine & Generator Service, LLC may send you communications regarding its services. Jacks Small Engine & Generator Service, LLC provides you the opportunity to opt-out of receiving such communications by indicating your desire to opt-out. If you would like to opt out of receiving communications from us please use our [Contact Page](https://web.archive.org/contact-us.aspx)
 
 To unsubscribe from The Jacks Small Engines Newsletter Email list: [Unsubscribe Here](http://jackssmallengines.us5.list-manage.com/unsubscribe?u=74b8acd1012ab13b7dd17ecc5&id=b9c41b695b). 
 
@@ -16,7 +20,7 @@ Even if you opt out of receiving marketing messages, we may still contact you fo
 
 ## Our Sites and Children
 
-Our websites and mobile applications are not created for children. To our knowledge we do not collect information online from children under 18. If you are a parent or guardian and think we have information about your child, please contact us by using our contact form on [http://www.jackssmallengines.com/customer-service.cfm](http://www.jackssmallengines.com/customer-service.cfm#Contact). To learn more about how to protect your child online, visit the FTC's [www.OnGuardOnline.gov](http://www.onguardonline.gov/). 
+Our websites and mobile applications are not created for children. To our knowledge we do not collect information online from children under 18. If you are a parent or guardian and think we have information about your child, please contact us by using our [Contact Form](https://web.archive.org/contact-us.aspx). To learn more about how to protect your child online, visit the FTC's [www.OnGuardOnline.gov](http://www.onguardonline.gov/). 
 
 ## Tracking Cookies
 
