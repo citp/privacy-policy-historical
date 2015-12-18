@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the playrix.com privacy policy that was archived on 2015-04-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150429045816id_/http%3A//www.playrix.com/policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the playrix.com privacy policy that was archived on 2015-12-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151218022917id_/http%3A//www.playrix.com/policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html xmlns:fb="http://www.facebook.com/2008/fbml"><head>
 <title>Privacy Policy - Playrix
@@ -18,7 +18,7 @@
 </style>
 <![endif]-->
 <link href="/static/css/clear.css" rel="stylesheet" type="text/css">
-<link href="/static/css/main.css?version-2014-04-09" rel="stylesheet" type="text/css">
+<link href="/static/css/main.css?version-2015-04-09" rel="stylesheet" type="text/css">
 		<link href="/rss.xml" rel="alternate" title="Playrix Games" type="application/rss+xml">
         <!--[if IE]>
             <link href="/static/css/main_ie.css" rel="stylesheet" type="text/css" />
@@ -54,9 +54,9 @@ try {
 </script>
 
 
-    <div style="display:none">
+<div style="display:none">
     </div>
-    <center><div style="position:absolute;z-index:10"><div id="job"></div></div><div id="background-body-center">
+<center><div style="position:absolute;z-index:10"><div id="job"></div></div><div id="background-body-center">
 		<div id="background-body-top">
 			<div id="background-body-bottom">
 				<div id="head_head">
@@ -152,6 +152,113 @@ try {
 		</div>
 		</div>
     </center>
+<style>
+.cookiewarneu
+{
+	display:none;
+	position:fixed;
+	left:0px;
+	top:0px;
+	width:100%;
+	background:#000;
+	opacity:0.8;
+	z-index:100000;
+}
+
+.cookiewarneu p
+{
+	opacity:1;
+	color:white;
+	text-align:center;
+	padding: 8px 0px 10px 0px;
+}
+
+.cookiewarneu p a
+{
+	color: white;
+}
+
+.cookiewarneu .close
+{
+	text-decoration:none;
+	cursor:pointer;
+}
+
+.cookiewarneu .close:hover
+{
+	text-decoration:underline;
+}
+</style>
+
+<script>
+var docCookies = {
+  getItem: function (sKey) {
+    if (!sKey) { return null; }
+    return decodeURIComponent(document.cookie.replace(new RegExp("(?:(?:^|.*;)\\s*" + encodeURIComponent(sKey).replace(/[\-\.\+\*]/g, "\\$&") + "\\s*\\=\\s*([^;]*).*$)|^.*$"), "$1")) || null;
+  },
+  setItem: function (sKey, sValue, vEnd, sPath, sDomain, bSecure) {
+    if (!sKey || /^(?:expires|max\-age|path|domain|secure)$/i.test(sKey)) { return false; }
+    var sExpires = "";
+    if (vEnd) {
+      switch (vEnd.constructor) {
+        case Number:
+          sExpires = vEnd === Infinity ? "; expires=Fri, 31 Dec 9999 23:59:59 GMT" : "; max-age=" + vEnd;
+          break;
+        case String:
+          sExpires = "; expires=" + vEnd;
+          break;
+        case Date:
+          sExpires = "; expires=" + vEnd.toUTCString();
+          break;
+      }
+    }
+    document.cookie = encodeURIComponent(sKey) + "=" + encodeURIComponent(sValue) + sExpires + (sDomain ? "; domain=" + sDomain : "") + (sPath ? "; path=" + sPath : "") + (bSecure ? "; secure" : "");
+    return true;
+  },
+  removeItem: function (sKey, sPath, sDomain) {
+    if (!this.hasItem(sKey)) { return false; }
+    document.cookie = encodeURIComponent(sKey) + "=; expires=Thu, 01 Jan 1970 00:00:00 GMT" + (sDomain ? "; domain=" + sDomain : "") + (sPath ? "; path=" + sPath : "");
+    return true;
+  },
+  hasItem: function (sKey) {
+    if (!sKey) { return false; }
+    return (new RegExp("(?:^|;\\s*)" + encodeURIComponent(sKey).replace(/[\-\.\+\*]/g, "\\$&") + "\\s*\\=")).test(document.cookie);
+  },
+  keys: function () {
+    var aKeys = document.cookie.replace(/((?:^|\s*;)[^\=]+)(?=;|$)|^\s*|\s*(?:\=[^;]*)?(?:\1|$)/g, "").split(/\s*(?:\=[^;]*)?;\s*/);
+    for (var nLen = aKeys.length, nIdx = 0; nIdx < nLen; nIdx++) { aKeys[nIdx] = decodeURIComponent(aKeys[nIdx]); }
+    return aKeys;
+  }
+};
+</script>
+
+<script>
+function closecookiewarn(_sender)
+{
+	$(".cookiewarneu").css("display", "none");
+	docCookies.setItem("disablecookiewarn", 1);
+
+	return false;
+}
+</script>
+<div class="cookiewarneu" style="display: block;"><p>
+<b>Information:</b> This site uses cookies. By continuing to browse this site you are consenting to our <a href="http://www.playrix.com/policy.html" target="_blank">use of cookies</a>. <a class="close" onclick="return closecookiewarn(this);">×</a>
+</p></div>
+<script>
+var rightNow = new Date();
+var jan1 = new Date(rightNow.getFullYear(), 0, 1, 0, 0, 0, 0);
+var temp = jan1.toGMTString();
+var jan2 = new Date(temp.substring(0, temp.lastIndexOf(" ")-1));
+var std_time_offset = (jan1 - jan2) / (1000 * 60 * 60);
+
+if(0 <= std_time_offset && std_time_offset < 3)
+{
+	if(!docCookies.hasItem("disablecookiewarn"))
+	{
+		$(".cookiewarneu").css("display", "block");
+	}
+}
+</script>
 
 
 </body></html>
