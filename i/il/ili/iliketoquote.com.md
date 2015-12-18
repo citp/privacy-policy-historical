@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the iliketoquote.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610000959id_/http%3A//www.iliketoquote.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iliketoquote.com privacy policy that was archived on 2015-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151218213804id_/http%3A//www.iliketoquote.com/privacy.php) for the most accurate reproduction.*
 
-# Positive Quotes, Flirty Quotes, Facebook Quotes, Friendship Quotes
+# Love Quotes, Positive Quotes, Friendship Quotes
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at support@iliketoquote.com. 
 
