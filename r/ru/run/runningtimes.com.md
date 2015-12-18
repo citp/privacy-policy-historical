@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the runningtimes.com privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628000414id_/http%3A//www.rodaleinc.com/your-privacy-rights) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the runningtimes.com privacy policy that was archived on 2015-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151218201109id_/http%3A//www.rodaleinc.com/your-privacy-rights) for the most accurate reproduction.*
 
 # Your Privacy Policy | Rodale Inc
 
@@ -8,16 +8,15 @@ June 26, 2015
 
 Protecting Your Privacy and Servicing Your Needs
 
-Rodale and its subsidiaries, (together "Rodale") the world's leading healthy lifestyle company, publishes some of the best-known health and wellness lifestyle magazines, including _Prevention_ , _Men's Health_ , _Women's Health_ , _Runner's World_ , _Running Times_ , _Bicycling_ , and _Organic Gardening_ , and is one of the largest independent book publishers in the United States. Rodale brings you the ideas, insights, and information that inspire and enable people to improve their lives and the world around them. 
+Rodale and its subsidiaries, (together "Rodale") the world's leading healthy lifestyle company, publishes some of the best-known health and wellness lifestyle magazines, including _Prevention_ , _Men's Health_ , _Women's Health_ , _Runner's World_ , _Running Times_ , _Bicycling_ , and _Rodale's Organic Life_ , and is one of the largest independent book publishers in the United States. Rodale brings you the ideas, insights, and information that inspire and enable people to improve their lives and the world around them. 
 
 [](http://www.menshealth.com/) | [](http://www.prevention.com/) | [](http://www.womenshealthmag.com/)  
 ---|---|---  
 [](http://www.runnersworld.com/) | [](http://www.runningtimes.com/) | [](http://www.bicycling.com/)  
-  | [](http://www.organicgardening.com/) |    
-[](http://www.rodalenews.com/) | [](http://www.rodales.com/signup/index) | [](http://www.fitbie.com/)  
+  | [](http://www.rodalenews.com/) | [](http://www.rodales.com/signup/index) | [](http://www.fitbie.com/)  
 [](http://www.rodalegrow.com/) | [](http://www.rodaleinc.com/products/events) | [](http://www2.rodaleinc.com/products/books)  
 [](http://www.rodalewellness.com/rodalewellness/index)| [](http://www.rodalesorganiclife.com/)| [](http://www.eatclean.com/)  
-[](https://www.rodaleu.com/)|  |    
+[](https://www.rodaleu.com/) | [](http://www.rodalesorganiclife.com/) |    
   
 This privacy policy applies to all information gathering activities of Rodale, on and offline. The policy describes how we handle information provided to us or collected on Internet sites where this privacy policy is posted. It also explains how we handle information provided to us or collected on applications we make available on or through third-party sites or platforms, if it is disclosed to you in connection with your use, purchase or download of the application. We may make changes to this policy. Please check back frequently for updates. Unless otherwise noted, any changes to this policy will take effect immediately upon being posted. Your continued use of Rodale sites, applications, products and services after the effective date of the changes constitutes your consent. 
 
@@ -70,7 +69,7 @@ As described above, from time to time, we make your PII available to third parti
 Upon request, we will update your personal account information (e.g., customer number), access your account status (outstanding balance), and update your contact information (i.e., name, address, phone number). For more information or to update an account, please visit <http://www.rodaleinc.com/customer-service>. If you prefer, you may write to us at Privacy Request, Rodale Inc., 400 South Tenth Street, Emmaus, PA 18098.
 
 **What if I don't want commercial/promotional e-mail from Rodale?**  
-If you do not want to receive commercial/promotional e-mail or online newsletters that you have subscribed to, please let us know by updating your email preferences at [preferences.rodale.com](http://preferences.rodale.com/pc/pcp/index), by utilizing the unsubscribe option available on commercial e-mail communications, by calling us at 866-387-0509, or by writing to us at Privacy Request, Rodale Inc., 400 South Tenth Street, Emmaus, PA 18098.
+If you do not want to receive commercial/promotional e-mail or online newsletters that you have subscribed to, please let us know by updating your email preferences at <http://e-rodalepartner.com/preference/welcome.jsp>, by utilizing the unsubscribe option available on commercial e-mail communications, by calling us at 866-387-0509, or by writing to us at Privacy Request, Rodale Inc., 400 South Tenth Street, Emmaus, PA 18098.
 
 **Transfers of Information for Legal Purposes**  
 Rodale may need to disclose certain information to comply with a legal requirement, such as a law, regulation, court order, subpoena, or search warrant, in the course of a legal proceeding. Rodale may also disclose information to assert or defend its legal rights or in response to a law enforcement agency request. If there is a change of control in Rodale's business (whether by merger, sale, or otherwise) or a sale or transfer of its assets, your information could be sold or transferred as part of that transaction and your PII and other information potentially used by the Purchaser or other recipient of said information.
