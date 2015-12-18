@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the computerhistory.org privacy policy that was archived on 2015-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150617005950id_/http%3A//www.computerhistory.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the computerhistory.org privacy policy that was archived on 2015-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151218085410id_/http%3A//www.computerhistory.org/privacy) for the most accurate reproduction.*
 
 # Privacy | Computer History Museum
 
