@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sosvox.org privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626195019id_/http%3A//www.sosvox.org/en/privacy-policies.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sosvox.org privacy policy that was archived on 2015-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151218225544id_/http%3A//www.sosvox.org/en/privacy-policies.html) for the most accurate reproduction.*
 
 # Privacy Policies
 
@@ -53,7 +53,7 @@ Sometimes, we share general information, demographics, or aggregates (non-person
 
 ## 4- SECURITY MEASURES 
 
-Our user's personal data are stored in a data base owned by **PUBLISUD S.A.** , which guarantees the correct technical and structural measures to preserve the integrity and security of the personal information provided, although it will not be responsible for said information, nor for damages produced, including our operator's negligence.  
+Our user's personal data are stored in a data base owned by **AURAT S.A.** , which guarantees the correct technical and structural measures to preserve the integrity and security of the personal information provided, although it will not be responsible for said information, nor for damages produced, including our operator's negligence.  
 
 No web site or Internet broadcast is completely safe. As a consequence, **SOSVOX.ORG** cannot guarantee that unauthorized access, data loss due to hacking, or other law breaking events will never take place. The use of **SOSVOX.ORG** shall be under your own risk and responsibility.
 
