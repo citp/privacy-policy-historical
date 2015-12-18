@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the opinionstage.com privacy policy that was archived on 2015-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150421205858id_/http%3A//www.opinionstage.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the opinionstage.com privacy policy that was archived on 2015-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151218074712id_/http%3A//www.opinionstage.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Opinion Stage
 
 We recognize that your privacy is very important and take it seriously. This Privacy Policy describes Opinion Stage's policies and procedures on the collection, use and disclosure of your information when you use the Opinion Stage Service. We will not use or share your information with anyone except as described in this Privacy Policy. This Privacy Policy does not apply to information we collect by other means (including offline) or from other sources. Capitalized terms that are not defined in this Privacy Policy have the meaning given them in our [Terms of Service](https://web.archive.org/tos). 
 
-**Information Collection and Use**
+##  Information Collection and Use 
 
 Opinion Stage uses information we collect to analyze how the Service is used, diagnose service or technical problems, maintain security, personalize content, remember information to help you efficiently access your account, monitor aggregate metrics such as total number of visitors, traffic, and demographic patterns, and track User Content and users as necessary to comply with the Digital Millennium Copyright Act and other applicable laws. 
 
@@ -22,7 +22,7 @@ If you choose to use our invitation service to invite a friend to the Service, w
 
 **Third Party Services:** ** ** Opinion Stage may use Google Analytics or Mixpanel to help understand use of the Service. Google Analytics and Mixpanel collect the information sent by your browser as part of a web page request, including cookies and your IP address. Google Analytics and Mixpanel also receive this information and their use of it is governed by their Privacy Policies. 
 
-**How We Share Your Information**
+##  How We Share Your Information 
 
 **Personally Identifiable Information:** ** ** Opinion Stage may share your personally identifiable information with third parties for the purpose of providing the Service to you. If we do this, such third parties' use of your information will be bound by this Privacy Policy. We may store personal information in locations outside the direct control of Opinion Stage (for instance, on servers or databases co-located with hosting providers). 
 
@@ -36,27 +36,30 @@ Opinion Stage may disclose your personal information if required to do so by law
 
 Opinion Stage may allow third-party ad servers or ad networks to serve advertisements on the Service. These third-party ad servers or ad networks use technology to send, directly to your browser, the advertisements and links that appear on Opinion Stage. They automatically receive your IP address when this happens. They may also use other technologies (such as cookies, JavaScript, or web beacons) to measure the effectiveness of their advertisements and to personalize the advertising content. Opinion Stage does not provide any personally identifiable information to these third-party ad servers or ad networks without your consent. However, please note that if an advertiser asks Opinion Stage to show an advertisement to a certain audience and you respond to that advertisement, the advertiser or ad server may conclude that you fit the description of the audience they are trying to reach. The Opinion Stage Privacy Policy does not apply to, and we cannot control the activities of, third-party advertisers. Please consult the respective privacy policies of such advertisers for more information. 
 
-**How We Protect Your Information**
+##  How We Protect Your Information 
 
 Opinion Stage uses commercially reasonable physical, managerial, and technical safeguards to preserve the integrity and security of your personal information. We cannot, however, ensure or warrant the security of any information you transmit to Opinion Stage or guarantee that your information on the Service may not be accessed, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards. 
 
 In the event that personal information is compromised as a result of a breach of security, Opinion Stage will promptly notify those persons whose personal information has been compromised, in accordance with the notification procedures set forth in this Privacy Policy, or as otherwise required by applicable law. 
 
-**Your Choices About Your Information**
+##  Your Choices About Your Information 
 
 You may, of course, decline to submit personally identifiable information through the Service, in which case Opinion Stage may not be able to provide certain services to you. You may update or correct your account information and email preferences at any time by logging in to your account. 
 
-**Children's Privacy**
+##  Children's Privacy 
 
 Protecting the privacy of young children is especially important. Opinion Stage does not knowingly collect or solicit personal information from anyone under the age of 13 or knowingly allow such persons to register with the Service. If we become aware that we have collected personal information from a child under age 13 without verification of parental consent, we take steps to remove that information. 
 
-**Links to Other Web Sites**
+##  Links to Other Websites 
 
 We are not responsible for the practices employed by websites linked to or from the Service, nor the information or content contained therein. Please remember that when you use a link to go from the Service to another website, our Privacy Policy is no longer in effect. Your browsing and interaction on any other website, including those that have a link on our website, is subject to that website's own rules and policies. 
 
-**Changes to Our Privacy Policy**
+##  Changes to Our Privacy Policy 
 
 If we change our privacy policies and procedures, we will post those changes on this page to keep you aware of what information we collect, how we use it and under what circumstances we may disclose it. Changes to this Privacy Policy are effective when they are posted on this page. 
+
+  
+
 
 If you have any questions about our practices or this privacy policy, please contact us at  [info@opinionstage.com](mailto:info@opinionstage.com)
 
