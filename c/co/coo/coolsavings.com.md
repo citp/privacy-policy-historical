@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coolsavings.com privacy policy that was archived on 2015-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150426095238id_/http%3A//www.coolsavings.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coolsavings.com privacy policy that was archived on 2015-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151218232643id_/http%3A//www.coolsavings.com/privacy-policy) for the most accurate reproduction.*
 
 # Grocery coupons, Printable Coupons, Online Coupon Codes, Daily Deals | CoolSavings
 
