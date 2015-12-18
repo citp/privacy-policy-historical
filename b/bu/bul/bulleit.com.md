@@ -1,10 +1,13 @@
-> *The following text is extracted and transformed from the bulleit.com privacy policy that was archived on 2015-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150510150642id_/http%3A//www.bulleit.com/privacy-policy-cookies-notice.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bulleit.com privacy policy that was archived on 2015-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151218172839id_/http%3A//www.bulleit.com/privacy-policy-cookies-notice.html) for the most accurate reproduction.*
 
-# BULLEIT FRONTIER WHISKEY - PRIVACY POLICY AND COOKIE NOTICE
+# Bulleit | Privacy policy cookies notice
 
-This **Privacy and Cookie Notice** provides a high-level overview of our full **Privacy and Cookie Notice** (click here to access). It summarises important information regarding how we collect, use, and share any personal information collected. This Privacy and Cookie Notice applies to personal information collected through this website [http://www.bulleit.com](http://www.bulleit.com/), which is operated by **Diageo plc** \- the world’s leading premium drinks business - or one of its group of companies **.** **Bulleit Bourbon** **is one of Diageo’s** outstanding collection of beverage alcohol brands.
+This **Privacy and Cookie Notice** provides a high-level overview of our full **Privacy and Cookie Notice** (click here to access). It summarises important information regarding how we collect, use, and share any personal information collected. This Privacy and Cookie Notice applies to personal information collected through this website [http://www.bulleit.com](http://www.bulleit.com/), which is operated by **Diageo plc** \- the world’s leading premium drinks business - or one of its group of companies **.** **Bulleit® Bourbon** **is one of Diageo’s** outstanding collection of beverage alcohol brands.
 
 At relevant points hyperlinks are provided that will take you directly to further information in this document. **Links in this Privacy and Cookie Notice will not take you to any external website or content.**
+
+  
+
 
 ### 1\. Introduction
 
@@ -30,7 +33,7 @@ At relevant points hyperlinks are provided that will take you directly to furthe
   * We collect personal information that you choose to provide. This includes information provided when registering with our websites, contacting us, completing surveys or questionnaires, entering competitions, and posting information on public areas of our websites.
   * Through your use of this and other Diageo websites (including by browsing such sites) you may provide us with personal information such as your name, contact details, personal preferences, and details of your website use.
   * By doing so, you are agreeing to our use of that information as set out in this Privacy and Cookie Notice and our full Privacy and Cookie Notice.
-  * **If you do not agree to these conditions, please do not provide us with this information, or please let us know your objections using the contact details below.**
+  *  **If you do not agree to these conditions, please do not provide us with this information, or please let us know your objections using the contact details below.**
 
 
 
@@ -52,7 +55,7 @@ We also collect information using common Internet technologies such as “ **coo
 
   * This may involve sharing your personal information with **non-Diageo companies** that provide services to Diageo companies and certain **other third parties** , but only where they offer adequate protection for your information and, in certain cases, only where you have provided your consent.
   * In some cases, this may involve **transferring your personal information to other countries** (including the U.K., the U.S., Canada and other countries inside and outside the European Economic Area) where Diageo or non-Diageo companies or other third parties operate and process your personal information.
-  * **By providing any personal information to us, you fully understand and clearly consent to such use and transfers as set out in this Privacy and Cookie Notice and our full Privacy and Cookie Notice.**
+  *  **By providing any personal information to us, you fully understand and clearly consent to such use and transfers as set out in this Privacy and Cookie Notice and our full Privacy and Cookie Notice.**
 
 
 
@@ -82,7 +85,7 @@ We also collect information using common Internet technologies such as “ **coo
 
 If you have any comments, queries, or complaints about our collection or use of personal information please contact us via:
 
-  * **Post:** Data Privacy Officer, Corporate Centre Legal Team, Diageo plc, Lakeside Drive, Park Royal, London, NW10 7HQ ****
+  *  **Post:** Data Privacy Officer, Corporate Centre Legal Team, Diageo plc, Lakeside Drive, Park Royal, London, NW10 7HQ ****
 
 
 
@@ -94,7 +97,7 @@ This website is operated by a member of the Diageo group of companies, the ultim
 
 All references to 'our', 'us', 'we', or ‘company’ within this policy and within the opt-in notice are deemed to refer to Diageo plc, its subsidiaries, affiliates, and/or associates, as appropriate.
 
-We endeavour to protect your personal privacy. We provide this Privacy and Cookie Notice to help you to understand what we may do with any personal information that we obtain from you. By providing your personal information to us, you signify your acceptance of our Privacy and Cookie Notice and agree that we may collect, use, and disclose your personal information as described in this Privacy and Cookie Notice. If you do not agree to this Notice, please do not provide your personal details to us. This Privacy and Cookie Notice is incorporated into, and part of, the [Terms and Conditions](https://web.archive.org/web/20150510150642id_/http%3A//www.bulleit.com/terms-conditions.aspx), that govern your use of the site in general. We will use your information only for the purposes set forth below. 
+We endeavour to protect your personal privacy. We provide this Privacy and Cookie Notice to help you to understand what we may do with any personal information that we obtain from you. By providing your personal information to us, you signify your acceptance of our Privacy and Cookie Notice and agree that we may collect, use, and disclose your personal information as described in this Privacy and Cookie Notice. If you do not agree to this Notice, please do not provide your personal details to us. This Privacy and Cookie Notice is incorporated into, and part of, the [Terms and Conditions](https://web.archive.org/web/20151218172839id_/http%3A//www.bulleit.com/terms-conditions.html), that govern your use of the site in general. We will use your information only for the purposes set forth below.
 
 We may need to update this Privacy and Cookie Notice from time to time. We recommend that you check this page regularly to ensure that you have read the most recent version.
 
@@ -104,21 +107,21 @@ Date last revised: September 30, 2013
 
 Description of substantive revisions:
 
-_Section 3 – Description of personal information_
+ _Section 3 – Description of personal information_
 
-_Section 4 – Description of how personal information is collected_
+ _Section 4 – Description of how personal information is collected_
 
-_Section 5 – Use of cookies and clear gifs_
+ _Section 5 – Use of cookies and clear gifs_
 
-_Section 6 – Description of how personal information is used_
+ _Section 6 – Description of how personal information is used_
 
-_Section 7 – Description of how personal information is shared_
+ _Section 7 – Description of how personal information is shared_
 
-_Section 8 – Posting of information in public forums_
+ _Section 8 – Posting of information in public forums_
 
-_Section 10 – Changes to your privacy preferences_
+ _Section 10 – Changes to your privacy preferences_
 
-_Section 12 – Description of use of links, references, interfaces, and content from third-party sites_
+ _Section 12 – Description of use of links, references, interfaces, and content from third-party sites_
 
 ### 2\. Legal purchase age
 
@@ -132,13 +135,13 @@ Personal information is information about an identifiable individual, as defined
 
 It is your choice to provide us with personal information.  We will only collect personal information that you choose to provide. In certain instances, we may provide you with the option to select whether you would like to receive information from us or from trusted third parties (for example, by choosing to opt in or opt out of receiving special promotional offers). In some circumstances, you will not have the option to opt out, such as when we are satisfying the obligations of a contract with you, administering a transaction requested by you, or required by law. ****
 
-You may choose to provide us with personal information if, for example, you: contact us with an enquiry; register on the site; forward an item to a friend; purchase an item; fill out a survey or other form with your personal information included; ask us to provide you with information; enter a competition; post information to public areas of the site; or take advantage of a promotion. 
+You may choose to provide us with personal information if, for example, you: contact us with an enquiry; register on the site; forward an item to a friend; purchase an item; fill out a survey or other form with your personal information included; ask us to provide you with information; enter a competition; post information to public areas of the site; or take advantage of a promotion.  
 
 By providing any personal information to us, you fully understand and clearly consent to the transfer of such personal information to, and the collection and processing of such information in, other countries or territories. Any such transfer and processing by us will be in accordance with this Privacy and Cookie Notice. ****
 
 ### 5\. Cookies
 
-Like many other websites, we use "cookies" to help us gather and store information about visitors to our websites. 
+Like many other websites, we use "cookies" to help us gather and store information about visitors to our websites.
 
 Cookies are text files containing small amounts of information which are downloaded to your device when you visit a website. Cookies are then sent back to the originating website on each subsequent visit, or to another website that recognises that cookie. Cookies are useful because they allow a website to recognise a user’s device.
 
@@ -148,7 +151,7 @@ You can find more information about cookies at: www.allaboutcookies.org. Cookies
 
 The cookies which may be used on this site have been categorised based on the categories set out in the International Chamber of Commerce UK Cookie guide as follows:
 
-##### Category 1: Strictly Necessary Cookies 
+##### Category 1: Strictly Necessary Cookies
 
 These cookies are essential in order to enable you to move around the website and use its features, such as accessing secure areas of the website. Without these cookies services you have asked for, like shopping baskets or e-billing, cannot be provided.
 
@@ -156,7 +159,7 @@ These cookies are essential in order to enable you to move around the website an
 
 Examples of Strictly Necessary Cookies we may use on this website include Content Management Cookies which are required by the site for the content management system to work and Template Preference Cookies which are necessary for mobile sites and enable the site to look and feel the way it is intended to.
 
-We may also use a Social Sharing Cookie. This is a cookie that identifies you with social networking sites such as Facebook and Twitter and allows interaction between your activity on social networking sites and on our website through your direction, and makes your transition between the sites more seamless. 
+We may also use a Social Sharing Cookie. This is a cookie that identifies you with social networking sites such as Facebook and Twitter and allows interaction between your activity on social networking sites and on our website through your direction, and makes your transition between the sites more seamless.
 
 ##### Category 2: Performance Cookies
 
@@ -210,13 +213,13 @@ If you are not using Microsoft Windows Explorer, then you should select 'cookies
 
 We may use personal information collected from you to provide specific services that you request, as well as to provide additional services that may be of interest.  For example, we may use your personal information in the following ways:
 
-_Marketing Communications_. We may use your personal information to communicate with you about our products and services, and those of our subsidiaries, affiliates, and parent companies, and any of their related businesses. 
+ _Marketing Communications_. We may use your personal information to communicate with you about our products and services, and those of our subsidiaries, affiliates, and parent companies, and any of their related businesses.
 
-_Marketing analysis_. We may use your personal information for internal marketing analysis, for example, to assess trends amongst our consumers or to measure the amount of traffic to our websites.
+ _Marketing analysis_. We may use your personal information for internal marketing analysis, for example, to assess trends amongst our consumers or to measure the amount of traffic to our websites.
 
-_Transactional purposes_. We may use your personal information to respond to your queries and requests, maintain your accounts, and manage transactions such as credit card payments for any goods that you order from us or our agents, or for the fulfilment of such transactions (e.g., delivery). 
+ _Transactional purposes_. We may use your personal information to respond to your queries and requests, maintain your accounts, and manage transactions such as credit card payments for any goods that you order from us or our agents, or for the fulfilment of such transactions (e.g., delivery).
 
-_Forward to a friend_.  When you provide us with information regarding another individual, such as when you request that we send someone information from one of our websites, we will send that individual only the information you specifically requested that we send. We will not send them additional communications based on your providing us with their information.  You must certify that your friend is of Legal Purchase Age in the jurisdiction where he/she is located in order for us to transmit the requested information.  
+ _Forward to a friend_.  When you provide us with information regarding another individual, such as when you request that we send someone information from one of our websites, we will send that individual only the information you specifically requested that we send. We will not send them additional communications based on your providing us with their information.  You must certify that your friend is of Legal Purchase Age in the jurisdiction where he/she is located in order for us to transmit the requested information.  
 
 
 ### 7\. Disclosure of personal information
@@ -234,7 +237,7 @@ We value your personal information and only share it with third parties that pro
 
 ### 8\. Public (or Interactive) areas of our websites
 
-Information that you post on or through the public areas of the site (e.g., chat rooms, bulletin boards, discussion groups, or Social Networking modules) generally is accessible to, and may be collected and used by, others, and may result in unsolicited messages or other contact from others. You should not provide personal information about yourself in public (or interactive) areas of the site.  Such personal information is not covered under this Privacy and Cookie Notice. 
+Information that you post on or through the public areas of the site (e.g., chat rooms, bulletin boards, discussion groups, or Social Networking modules) generally is accessible to, and may be collected and used by, others, and may result in unsolicited messages or other contact from others. You should not provide personal information about yourself in public (or interactive) areas of the site.  Such personal information is not covered under this Privacy and Cookie Notice.
 
 ### 9\. Security
 
@@ -242,13 +245,13 @@ We take security seriously and take precautions to keep your personal informatio
 
 In the unlikely event that we believe that the security of your personal information in our possession or control may have been compromised, we may seek to notify you of that development. If such a notification is appropriate, we will endeavour to do so as promptly as possible under the circumstances, and, to the extent we have your email address, we may notify you by email.
 
-You are reminded that, in accordance with the [Terms and Conditions](https://web.archive.org/web/20150510150642id_/http%3A//www.bulleit.com/terms-conditions.aspx) for this website, which include this Privacy and Cookie Notice, you are responsible for maintaining the strict confidentiality of your account password, and you are responsible for any activity under your account and password. It is your sole responsibility to control the dissemination and use of your password, control access to and use of your account, and notify us when you wish to cancel your account. We will not be responsible or liable for any loss or damage arising from your failure to comply with this obligation. 
+You are reminded that, in accordance with the [Terms and Conditions](https://web.archive.org/web/20151218172839id_/http%3A//www.bulleit.com/terms-conditions.html) for this website, which include this Privacy and Cookie Notice, you are responsible for maintaining the strict confidentiality of your account password, and you are responsible for any activity under your account and password. It is your sole responsibility to control the dissemination and use of your password, control access to and use of your account, and notify us when you wish to cancel your account. We will not be responsible or liable for any loss or damage arising from your failure to comply with this obligation.
 
 ### 10\. Unsubscribe, access, questions and further information
 
 At your request and where the law requires us to do so, if you contact us using the unsubscribe details provided below we will confirm what personal information we hold about you, update your information, remove your information, fulfil specific opt-out requests (including requests where you previously opted in with respect to the use of your personal information), and/or correct any inaccuracies in such personal information.
 
-If you would like to unsubscribe from Bulleit Bourbon communications, or from all communications about Diageo brands, please contact: [BulleitBourbon@consumer-care.net](mailto:BulleitBourbon@consumer-care.net)
+If you would like to unsubscribe from Bulleit® Bourbon communications, or from all communications about Diageo brands, please contact: [BulleitBourbon@consumer-care.net](mailto:BulleitBourbon@consumer-care.net)
 
 ### 11\. Portfolio permissions
 
@@ -262,7 +265,7 @@ If you have any privacy-related questions, concerns or complaints, please contac
 
 ### 12\. Interfaces with Third-Party Websites
 
-The site may contain links, references, and content from other websites outside of our control. Please be aware that we have limited or no control over these websites and our Privacy and Cookie Notice does not apply to these sites. We encourage you to read the Privacy and Cookie Notices and [Terms and Conditions](https://web.archive.org/web/20150510150642id_/http%3A//www.bulleit.com/terms-conditions.aspx) of any linked, referenced, or interfacing websites you enter.
+The site may contain links, references, and content from other websites outside of our control. Please be aware that we have limited or no control over these websites and our Privacy and Cookie Notice does not apply to these sites. We encourage you to read the Privacy and Cookie Notices and [Terms and Conditions](https://web.archive.org/web/20151218172839id_/http%3A//www.bulleit.com/terms-conditions.html) of any linked, referenced, or interfacing websites you enter.
 
 This Privacy and Cookie Notice will be supplemented by additional legal requirements in jurisdictions where we conduct business as required. Nothing in this Privacy and Cookie Notice or otherwise will create, or add to, any right or claim (whether legal, equitable, or otherwise) that any individual or person may have at law or otherwise against the company or any third party, or any of their respective directors, officers, employees, agents, or representatives (collectively the “Diageo Group”), nor will the existence of this Privacy and Cookie Notice or its application impose or add to any obligations upon or create any liability for the Diageo Group that it does not already otherwise have under law.
 
