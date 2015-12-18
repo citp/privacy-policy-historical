@@ -1,0 +1,622 @@
+<!--The following is the downloaded HTML source of the deusex.com privacy policy that was archived on 2015-12-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151218191500id_/http%3A//na.square-enix.com/us/documents/privacy) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en_US" lang="en_US" dir="ltr" xmlns:svg="http://www.w3.org/2000/svg" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://ogp.me/ns/fb#"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"><script src="https://js-agent.newrelic.com/nr-768.min.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="//connect.facebook.net/en_EN/all.js#xfbml=1&amp;appId=119657611400171" id="facebook-jssdk"></script><script src="//platform.twitter.com/widgets.js" id="twitter-wjs"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UQQBUVNACQcDUlFVAgA="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),f=c.length,u=i(a,o,r),d=0;f>d;d++)c[d].apply(u,n);return u}function a(t,e){f[t]=s(t).concat(e)}function s(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:s,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:24,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(f){try{r("ierr",[f,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(5),window.onerror=e;try{throw new Error}catch(f){"stack"in f&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&t(4),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:11,2:10,3:8,4:12,5:3,6:25,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t){if(window.addEventListener){var e=t("handle"),n=t("ee");t(1),window.addEventListener("click",function(){e("inc",["ck"])},!1),window.addEventListener("hashchange",function(){e("inc",["hc"])},!1),n.on("pushState-start",function(){e("inc",["ps"])})}},{1:9,ee:"QJf3ax",handle:"D5DuLP"}],6:[function(t){t("loader").features.ins=!0},{loader:"G9z0Bl"}],7:[function(t){function e(){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var n=t("ee"),r=t("handle"),o=t(1),i=t(2);t("loader").features.stn=!0,t(3);var a=Event;n.on("fn-start",function(t){var e=t[0];e instanceof a&&(this.bstStart=Date.now())}),n.on("fn-end",function(t,e){var n=t[0];n instanceof a&&r("bst",[n,e,this.bstStart,Date.now()])}),o.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),o.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),i.on("fn-start",function(){this.bstStart=Date.now()}),i.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),n.on("pushState-start",function(){this.time=Date.now(),this.startPath=location.pathname+location.hash}),n.on("pushState-end",function(){r("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.addEventListener("webkitresourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1),window.performance.addEventListener("resourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1)),document.addEventListener("scroll",e,!1),document.addEventListener("keypress",e,!1),document.addEventListener("click",e,!1)}},{1:11,2:10,3:9,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],8:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=t("ee").create(),i=t(1)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t,e){function n(){return s}if(t[1]){var r=t[1];if("function"==typeof r){var s=a(r,"nr@wrapped",function(){return i(r,"fn-",n,r.name||"anonymous")});this.wrapped=t[1]=s,o.emit("initEventContext",[t,e],this.wrapped)}else"function"==typeof r.handleEvent&&i.inPlace(r,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:26,ee:"QJf3ax",gos:"7eSDFh"}],9:[function(t,e){var n=t("ee").create(),r=t(1)(n);e.exports=n,r.inPlace(window.history,["pushState","replaceState"],"-")},{1:26,ee:"QJf3ax"}],10:[function(t,e){var n=t("ee").create(),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:26,ee:"QJf3ax"}],11:[function(t,e){function n(t,e,n){t[0]=i(t[0],"fn-",null,n)}function r(t,e,n){function r(){return a}this.ctx={};var a={"nr@context":this.ctx};o.emit("initTimerContext",[t,n],a),t[0]=i(t[0],"fn-",r,n)}var o=t("ee").create(),i=t(1)(o);e.exports=o,i.inPlace(window,["setTimeout","setImmediate"],"setTimer-"),i.inPlace(window,["setInterval"],"setInterval-"),i.inPlace(window,["clearTimeout","clearImmediate"],"clearTimeout-"),o.on("setInterval-start",n),o.on("setTimer-start",r)},{1:26,ee:"QJf3ax"}],12:[function(t,e){function n(){f.inPlace(this,p,"fn-",o)}function r(t,e){f.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),f=c(a),u=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),e.hasOwnProperty("addEventListener")&&u.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(i){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,f.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:8,2:26,ee:"QJf3ax"}],13:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var a=t.responseType,f="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,u=n(f);if(u&&(r.rxSize=u),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(e.cat=d.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,o("xhr",[e,r,this.startTime])}}}function n(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,f=t(1),u=window.XMLHttpRequest;t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=e,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,e){var r=this.metrics,o=t[0],i=this;if(r&&o){var f=n(o);f&&(r.txSize=f)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{a.emit("internal-error",[n])}catch(r){}}};for(var u=0;c>u;u++)e.addEventListener(s[u],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof u&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof u&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof u&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:14,3:12,4:8,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],14:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],15:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:24,2:25,handle:"D5DuLP"}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):void(r.q&&(r.q[t]||(r.q[t]=[]),r.q[t].push(e)))}var r=t("ee").create();e.exports=n,n.ee=r,r.q={}},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info,e=f.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){s(d,function(e,n){e in t||(t[e]=n)});var n="https"===u.split(":")[0]||t.sslForHttp;p.proto=n?"https://":"http://",a("mark",["onload",i()]);var r=f.createElement("script");r.src=p.proto+t.agent,e.parentNode.insertBefore(r,e)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=window,f=c.document;t(2);var u=(""+location).split("?")[0],d={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-768.min.js"},p=e.exports={offset:i(),origin:u,features:{}};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),c.addEventListener("load",n,!1)):(f.attachEvent("onreadystatechange",r),c.attachEvent("onload",n)),a("mark",["firstbyte",i()])},{1:24,2:15,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],24:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],25:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],26:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@original",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,f;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){u([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return f=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,f],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=t,f(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){u([o,e,n,r])}}function f(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){u([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function u(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:25,ee:"QJf3ax"}]},{},["G9z0Bl",4,13,7,6,5]);</script>
+	<title>SQUARE ENIX</title>
+
+	
+	<link href="http://na.square-enix.com/us/rss.xml" title="RSS" type="application/rss+xml" rel="alternate">
+
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<link rel="shortcut icon" href="/sites/all/themes/custom/bleach/favicon.ico" type="image/x-icon">
+	<link href="http://fonts.googleapis.com/css?family=Open+Sans:400,600" rel="stylesheet" type="text/css">
+	<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/custom/madmin/madmin_42.css?u">
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/custom/madmin/madmin_message.css?u">
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/custom/mtnc/mtnc-documents.css?u">
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/custom/bleach/css/modules/mtnc.css?u">
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/custom/bleach/css/modules/mainmenu.mobile.css?u">
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/custom/bleach/css/defaults.css?u">
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/custom/bleach/css/system-menus.css?u">
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/custom/bleach/css/system.css?u">
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/custom/bleach/css/user.css?u">
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/custom/bleach/css/normalize.css?u">
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/custom/bleach/css/layouts/responsive-sidebars.css?u">
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/custom/bleach/css/tabs.css?u">
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/custom/bleach/css/pages.css?u">
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/custom/bleach/css/blocks.css?u">
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/custom/bleach/css/navigation.css?u">
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/custom/bleach/css/node.css?u">
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/custom/bleach/css/comments.css?u">
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/custom/bleach/css/forms.css?u">
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/custom/bleach/css/membership-bar.css?u">
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/custom/bleach/css/footer.css?u">
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/custom/bleach/css/common.css?u">
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/custom/bleach/css/modules/mainmenu.css?u">
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/custom/bleach/css/typography.css?u">
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/custom/bleach/css/shame.css?u">
+	<script type="text/javascript" src="/sites/all/modules/jquery_update/replace/jquery/1.7/jquery.min.js?u"></script>
+<script type="text/javascript" src="/misc/drupal.js?u"></script>
+<script type="text/javascript" src="/sites/default/files/languages/en_US_7a2e9f8f4e5a7279b00681eafeb440c9.js?u"></script>
+<script type="text/javascript" src="/sites/all/modules/custom/mtnc/mtnc.js?u"></script>
+<script type="text/javascript" src="/sites/all/modules/custom/mainmenu/mainmenu.js?u"></script>
+<script type="text/javascript" src="/sites/all/modules/custom/msearch/jquery.drupalsearch.js?u"></script>
+<script type="text/javascript" src="/sites/all/themes/custom/bleach/scripts/first-word.js?u"></script>
+<script type="text/javascript" src="/sites/all/themes/custom/bleach/scripts/jquery.comments.length.js?u"></script>
+<script type="text/javascript" src="/sites/all/themes/custom/bleach/scripts/script.js?u"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, { "basePath": "/", "localeBasePath": "/us/", "theme_path": "/sites/all/themes/custom/ninesixty" });
+//--><!]]>
+</script>
+
+	<!--[If IE]>
+		<script src="/sites/all/themes/custom/bleach/scripts/trunk8.js" type="text/javascript"></script>
+		<script src="/sites/all/themes/custom/bleach/scripts/ie.fix.js" type="text/javascript"></script>
+<![endif]-->
+	<!--[if IE 8]><html class="lt-ie9">
+		<script src="/sites/all/themes/custom/bleach/scripts/respond.min.js" type="text/javascript"></script>
+		<script src="/sites/all/themes/custom/bleach/scripts/mobile_menu_ie.js" type="text/javascript"></script>
+	<![endif]-->
+	<!--[if (gte IE 9)|(gt IEMobile 7)]>
+	<![endif]-->
+
+	<script src="https://membership.square-enix.com/javascripts/membership_bar.js" type="text/javascript"></script>
+
+	<meta name="google-site-verification" content="_fOBVzV4vD7IHyGuY-MTpTgQGnuKRQZfDmt4phAESt0">
+	<meta name="msvalidate.01" content="484244919E1768B2874EFA00D9554F14">
+	<meta property="fb:page_id" content="301184507124">
+			<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1, user-scalable=no">
+		<script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>
+	<script type="text/javascript">
+		stLight.options({
+			publisher: "710ea2ed-8c4f-4a0c-834f-801d3ad5df77",
+			doNotHash: true,
+			doNotCopy: false,
+			hashAddressBar: false
+		});
+	</script>
+</head>
+
+<body class="not-front not-logged-in page-documents no-sidebars i18n-en_US">
+	<div style="display:none;"></div>
+	
+			<div class="block block-mainmenu" id="block-mainmenu-0">
+		<div class="content"><div id="mobile-menu">
+	<div class="menu-bar">
+		<input type="checkbox" id="menu-toggle">
+		<label for="menu-toggle" class="handler" onclick=""></label>
+		<div class="logo">
+			<img src="http://na.square-enix.com/sites/all/themes/custom/bleach/images/square_logo.png">
+		</div>
+		
+		<div class="content">
+
+			
+			<div class="main-menu">
+				<h3>MAIN MENU</h3>
+				<ul class="menu"><li class="leaf first"><a href="/us/home">Home</a></li>
+<li class="collapsed"><a href="/us/games">Games</a></li>
+<li class="leaf last"><a href="/us/blog">Blog</a></li>
+</ul>				<ul class="links"><li class="music first"><a href="/us/music">Music</a><ul class="submenu"><li><a href="/us/music/products">Music Products</a></li><li><a href="/us/music/concerts">Concerts</a></li><li><a href="/us/music/composers">Composers</a></li></ul></li><li class="forums"><a href="http://forums.na.square-enix.com/">Forum</a></li><li class="store last"><a href="http://store.na.square-enix.com">Shop</a></li></ul>			</div>
+			
+			<div class="user-menu">
+				<h3>USER SECTION</h3>
+				<ul class="links"><li class="login-link first"><a href="https://membership.square-enix.com/sso/login?service=http%3A%2F%2Fna.square-enix.com%2Fen_US%2Fsso%2Fcheck%3Fmret%3Ddocuments%2Fprivacy&amp;locale=en_US_EN_US&amp;src=seweb">Log in</a></li><li class="register-link last"><a href="https://membership.square-enix.com/register?service=http%3A%2F%2Fna.square-enix.com%2Fen_US%2Fsso%2Fcheck%3Fmret%3Ddocuments%2Fprivacy&amp;locale=en_US_EN_US&amp;src=seweb">Register</a></li></ul>			</div>
+			
+			<div class="language-selector">
+				<a href="/change/langs">
+					<span class="icon-lang us"></span>
+					<span class="text">English (US)</span>
+				</a>
+			</div>
+			
+			<div class="other-links">
+				<ul class="links"><li class="about-us first"><a href="/us/aboutus"><span>About us</span></a></li><li class="jobs"><a href="/us/jobs"><span>Jobs</span></a></li><li class="support"><a href="http://support.eu.square-enix.com/main.php?la=2&amp;id=1160"><span>Support</span></a></li><li class="global-site"><a href="http://www.square-enix.com/eu/global.html"><span>Global site</span></a></li><li class="terms-of-use"><a href="/us/documents/tnc"><span>Terms of Use</span></a></li><li class="unsolicited"><a href="/us/documents/unsol"><span>Unsolicited Content Policy</span></a></li><li class="privacy-policy active"><a href="/us/documents/privacy" class="active"><span>Privacy Policy</span></a></li><li class="cookie-policy"><a href="/us/documents/cookies"><span>Cookie Policy</span></a></li><li class="licensing"><a href="/us/documents/licensing"><span>Licensing</span></a></li><li class="material"><a href="/us/documents/materialusagepolicy"><span>Material Usage Policy</span></a></li><li class="press"><a href="http://press.na.square-enix.com/landing.asp" target="_blank"><span>Press</span></a></li><li class="rss-feed last"><a href="http://feeds.feedburner.com/square-enix/en_US"><span>RSS</span><span class="icon"></span></a></li></ul>				<span class="clear"></span>
+			</div>
+			<div class="footer-info">
+													<div class="esrb">
+						<a href="http://www.esrb.org/privacy/index.jsp" target="_blank">
+							<img src="/sites/all/themes/custom/bleach/images/privacy_certified_globe_bw.gif">
+						</a>
+					</div>
+								<div class="mobile-footer-text">
+					© 2015 SQUARE ENIX LTD. All Rights Reserved<br>SQUARE ENIX and the SQUARE ENIX logo are trademarks or registered trademarks of Square Enix Holdings Co., Ltd.<br>Square Enix, Inc., 999 N. Sepulveda Blvd., 3rd Floor, El Segundo, CA 90245.				</div>
+			</div>
+		</div>
+	</div>
+</div></div>
+</div>
+
+<div class="block block-SSO" id="block-SSO-0">
+		<div class="content"><center>
+
+<div id="membership-bar-header-bg">
+
+	<div id="membership-bar-header">
+		
+		<div id="se-logo">
+      <a href="//na.square-enix.com/us/"><img alt="SQUARE ENIX" border="0" src="http://na.square-enix.com/sites/all/themes/custom/bleach/images/square_logo.png" title="SQUARE ENIX"></a>
+		</div>
+
+
+      <div id="user-area">
+          <div class="register">
+            <a href="https://membership.square-enix.com/register?locale=en&amp;service=http%3A%2F%2Fna.square-enix.com%2Fus%2Fsso%2Fcheck%3Fmret%3Ddocuments%252Fprivacy&amp;src=seweb">Register</a>
+          </div>
+        <div class="login">
+          <a href="https://membership.square-enix.com/sso/login?locale=en&amp;service=http%3A%2F%2Fna.square-enix.com%2Fus%2Fsso%2Fcheck%3Fmret%3Ddocuments%252Fprivacy&amp;src=seweb">Log in</a>
+        </div>
+      </div>
+
+
+	</div>
+
+</div>
+
+</center>
+<!-- status: false -->
+</div>
+</div>
+
+	
+	
+	<div id="page">
+		<nav id="secondary-menu" role="navigation">
+			<form action="/us/search/" accept-charset="UTF-8" method="post" id="search-form" class="search-form">
+<div><div class="form-item" id="edit-keys-wrapper">
+ <div class="container-inline"><div class="form-item" id="edit-keys-wrapper">
+ <input type="text" maxlength="255" name="keys" id="edit-keys" size="40" value="" class="form-text">
+</div>
+<input type="submit" name="op" id="edit-submit" value="Search" class="form-submit">
+</div>
+</div>
+<input type="hidden" name="form_build_id" id="form-ICym5KWei143SkGtpCL48vxXwdebO37Pnv0l5RLHKOM" value="form-ICym5KWei143SkGtpCL48vxXwdebO37Pnv0l5RLHKOM">
+<input type="hidden" name="form_id" id="edit-search-form" value="search_form">
+
+</div></form>
+			<ul class="links main-menu"><li class="menu-home first"><a href="/us/home">Home</a></li><li class="menu-games"><a href="/us/games">Games</a></li><li class="menu-blog"><a href="/us/blog">Blog</a></li><li class="menu-music"><a href="/us/music">Music</a><ul class="submenu"><li><a href="/us/music/products">Music Products</a></li><li><a href="/us/music/concerts">Concerts</a></li><li><a href="/us/music/composers">Composers</a></li></ul></li><li class="forums"><a href="http://forums.na.square-enix.com/">Forum</a></li><li class="menu-store last"><a href="http://store.na.square-enix.com">Shop</a></li></ul>		</nav>
+
+		
+		
+
+		<div id="main">
+			
+			
+			
+			<div id="main-content" class="region">
+				<div class="block">
+		<div id="tnc" class="content tnc">
+		<h3>
+  <p class="underline center"><strong>SQUARE ENIX, INC.<br>PRIVACY POLICY</strong></p>
+</h3>
+ 
+ 
+<p class="center">Revised: February 14, 2014</p>
+<br>
+ 
+<h3>
+  <p class="center"><strong>OVERVIEW</strong></p>
+</h3>
+ 
+<p>Square Enix, Inc., (“Square Enix”) respects the privacy of our users and takes steps to protect your personal information. This Square Enix, Inc. Privacy Policy (“<strong>SEA Privacy Policy</strong>”) explains how your information is used and collected. Here is a quick summary of key points:</p>
+
+<ul>
+  <li>
+    <p>We ask you for, and use technology to detect, information about you.  Some of this information is shared with others, including advertisers. In addition, third parties, including advertisers and advertising services providers, may collect or be given information about you.  Here is some further detail:</p>
+    <ul class="circle">
+      <li>
+        <p>We use technology to collect in-game behavior to improve game performance and backup in-game purchases should they need to be restored or accessed on another device.</p>
+      </li>
+      <li>
+        <p>To provide relevant advertising, possibly including location-based advertising, we may share non-Personal Information (such as the location of your Device) with third parties.</p>
+      </li>
+      <li>
+        <p>We track media performance, which requires non-personal behavioral data be collected by third parties before the application or services is downloaded or used.</p>
+      </li>
+      <li>
+        <p>Although we may ask for Personal Information, we will not share such information, such as name and email address, with third parties other than our affiliates or business partners for the operation of the application or services, unless disclosed herein or you consent.</p>
+      </li>
+      <li>
+        <p>You may be served with targeted advertising, including location-based advertising.  By downloading or accessing one of our applications or services, you consent to the practices described in our SEA Privacy Policy.  If you wish to end your consent, uninstall mobile Services and discontinue accessing other Services.</p>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<p>Click <a href="#index">here</a> for an index of topics covered in our SEA Privacy Policy; click on any topic for more details.</p>
+<br>
+
+<h3>
+  <p class="underline center"><strong>Introduction</strong></p>
+</h3>
+<p>This SEA Privacy Policy only applies to the applications and services (“<strong>Services</strong>”) that is owned and/or operated by Square Enix, Inc., and its affiliates (collectively “<strong>Company</strong>” or “<strong>we</strong>,” “<strong>our</strong>” or “<strong>us</strong>”).  This SEA Privacy Policy governs the use of our Services, and also applies to all interactive elements accessed through our applications or services that we own or operate and make available (collectively, the “<strong>Services</strong>”), regardless of how you access or use them.</p>
+
+<p>Our SEA Privacy Policy covers only information collected through the Services directly by us or our affiliate Square Enix, Inc., and does not apply to information collected by third parties that may interact with our Services, or to our data collection activities outside of our Services (e.g., through websites that support specific products, which may have different privacy policies).  For information collected by third parties or outside of our Services, separate and additional terms shall cover such data collection, storage, sharing and use.</p>
+
+<p><strong>For your <a href="#3f">California Privacy Rights</a> and <a href="#3g">European Privacy Rights</a> click on these links.</strong></p>
+
+<p>In addition, please review the <a href="tnc">Square Enix, Inc. Terms of Service</a> (“SEA Terms of Service”), which governs your use of the Services.  <em>By using our Services, you consent to our SEA Privacy Policy and SEA Terms of Service and our collection, storage, sharing and use of your information and data, and other activities, as described.  <strong>If you wish to end your consent going forward, do not access the Services, and in the case of mobile applications, uninstall the mobile Services immediately.</strong></em></p>
+<br>
+
+<h3>
+  <p id="index" class="underline center"><strong>Table of Contents</strong></p>
+</h3>
+
+<p><strong>It is important that you read and understand the entire SEA Privacy Policy before using the Services.  However, this table of contents highlights key points. You must click on the headings for a more detailed explanation.</strong></p> 
+
+<ol>
+  <li><a href="#1"><strong>What Information Do the Services Collect?</strong></a></li>
+     
+    <ol>
+      <strong>(a)   <a href="#1a">Information You Choose to Provide to Us</a></strong>
+      <p>You may give us Personal Information and other information when you register or contact us. </p>
+       
+      <strong>(b)   <a href="#1b">Information We Collect as You Access and Use the Services</a></strong>      
+      <p>Tracking Technologies may collect Usage Information based on your Device Identifier.  This helps do things like deliver preferred content, track game play advancement, and send you relevant ads.  A link to certain privacy policies and opt-out options of some third-party Tracking Technologies may be included.  However, we may condition your use of these Services upon your not opting-out of such third-party Tracking Technologies. </p>  
+       
+      <strong>(c)    <a href="#1c">Information Third Parties Provide about You </a></strong>
+      <p>If you interact with third-party sites (such as using Facebook to log in), those sites may send us information about you or we may send them information about you.</p>  
+      
+      <strong>(d)   <a href="#1d">Information and Interacting with Third-Party Locations</a></strong>
+      <p>You should review the applicable third-party privacy policies before using third-party tools on our Services, and we are not responsible for these parties’ practices.  These include login and social communications tools. </p>
+       
+      <strong>(e)    <a href="#1e">Information You Provide about a Third Party</a></strong>
+      <p>You may give us information about others, such as when you send a friend a message.  We will not use their Personal Information to separately market to them unless they consent.</p>
+    </ol>
+   
+  <li><a href="#2"><strong>How Do We Use the Information We Collect?</strong></a></li>
+    <ol>
+      <strong>(a)   <a href="#2a">Use of Information by Us</a></strong>
+      <p>We may use your Personal Information, Demographic Information and Usage Information for a variety of purposes.</p> 
+       
+      <strong>(b)   <a href="#2b">Square Enix Account</a></strong>
+      <p>We may update your existing Square Enix account, or create one for you, with information collected via the Services. </p>
+    </ol>
+   
+  <li><a href="#3"><strong>How and When Do We Disclose Information to Third Parties?</strong></a></li>
+     
+   <p> We provide your information to third parties under various circumstances.  These include:</p>
+     
+    <ul class="empty">
+      <li>
+        <strong>(a)   <a href="#3a">When You Agree to Receive Information from Third Parties</a></strong>
+      </li>
+      <li>
+       <strong>(b)    <a href="#3b">Third Parties Providing Services on Our Behalf</a></strong>
+      </li>
+      <li>
+        <strong>(c)    <a href="#3c">Administrative and Legal Reasons</a></strong>
+      </li>
+      <li>
+        <strong>(d)   <a href="#3d">Business Transfer</a></strong>
+      </li>
+      <li>
+       <strong>(e)     <a href="#3e">Co-branded Areas</a></strong>
+      </li>
+      <li>
+        <strong>(f)     <a href="#3f">Your California Privacy Rights</a></strong>
+      </li>
+      <li>
+        <strong>(g)   <a href="#3g">Your European Privacy Rights</a></strong>
+      </li>
+    </ul>
+   
+  <li><a href="#4"><strong>What about Information I Disclose Publicly?</strong></a></li>
+     
+    <strong>(a)   <a href="#4a">User Generated Content and Public Information</a></strong>
+    <p>Posting content in public areas makes it available to others. </p> 
+    
+    <strong>(b)   <a href="#4b">Name and Likeness</a></strong>
+    <p>You grant us the right to use your name, likeness and/or usernames in connection with your posting and activities.</p> 
+   
+  <li><a href="#5"><strong>Do Third-Party Content and Links to Third Party Services Appear on the Services? </strong></a></li>
+     <p>We are not responsible for third-party websites or your interaction with third-party content.</p>
+   
+  <li><a href="#6"><strong>Do Third-Party Applications Appear on the Services?</strong></a></li>
+     <p>We are not responsible for your interaction with third-party applications.</p> 
+   
+  <li><a href="#7"><strong>What About Third-Party Ads Served on the Services?</strong></a></li>     
+    <p>We and third parties may send you targeted or untargeted ads based on your location and behavior.  If you object, uninstall and/or do not use our Services that contain advertising.</p> 
+   
+  <li><a href="#8"><strong>How Do I Change My Information and Communications Preferences?</strong></a></li>
+     <p>You may change certain account information and preferences.</p> 
+   
+ <li> <a href="#9"><strong>What about Transfer of Information?</strong></a></li>
+    <p>Data is transferred to Japan, as well as the United States.</p> 
+   
+  <li><a href="#10"><strong>What Should Parents Know about Children?</strong></a></li>
+     <p>All of our Services are targeted towards users 13 years old and up.  We do not intend to collect Personal Information from children under 13 years old.  If you think we have accidently collected Personal Information from a child under 13 years old, please let us know.</p> 
+   
+  <li><a href="#11"><strong>What about Security?</strong></a></li>
+     <p>No data security is absolute, but we take reasonable steps to secure data appropriately.</p> 
+   
+  <li><a href="#12"><strong>What if I have a Question or Complaint?</strong></a></li>
+    <p><a href="http://support.na.square-enix.com/index.php">Contact us here.</a></p>
+   
+  <li><a href="#13"><strong>What about Changes to the Privacy Policy?</strong></a></li>
+    <p>We may change this SEA Privacy Policy as explained <a href="#13">here</a>.</p>
+</ol>
+<br>
+ 
+
+ 
+<h3>
+  <p class="underline center"><strong>The Full Privacy Policy:</strong></p>
+</h3>
+ 
+<ol>
+  <li id="1">
+    <p><strong>What Information Do the Services Collect?</strong></p>
+
+    <p id="1a"><strong>(a)   Information You Choose to Provide to Us</strong></p>
+    <p>On the Services (or via websites or apps related to the Services), we may ask you to provide us with certain categories of information such as: (1) personally identifiable information, which is information that identifies you personally, such as your first and last name, e-mail address, and address/location (“<strong>Personal Information</strong>”); and (2) demographic information, such as information about gender, age, marital status, education level, and occupation (“<strong>Demographic Information</strong>”).  We may collect this information through various forms and in various places on the Services, including account registration forms and “contact-us” forms.  If we collect any persistent identifiers or combine Demographic Information with the Personal Information we collect directly from you on the Services, we will treat the combined data as Personal Information under this Privacy Policy.</p>   
+    
+    <p id="1b"><strong>(b)  Information We Collect as You Access and Use the Services</strong></p>
+    
+    <p>We and our third-party service providers may use a variety of technologies that passively collect certain non-personal information whenever you use the Services (“<strong>Usage Information</strong>”) via a device or browser used to interact with our Services (any, a “<strong>Device</strong>”).  This Usage Information may include the type or browser and/or platform that you are using, the location that referred you to our Services, the areas within our Services that you visit and your activities there, your Device location, your Device characteristics and certain Device data, and the time of day you access our Services, among other information.  We may use Usage Information for a variety of purposes, including assessing, enhancing or otherwise improving our Services or our activities in connection with them.  In addition, we may collect your IP address or other unique identifier, or assign one to your Device (each a “<strong>Device Identifier</strong>”), so that our computers can identify the Device.  We may access and use Device Identifiers that have already been associated with your Device, and may modify such identifiers to create a new identifier or associate a wholly new identifier with you or your Device.  Usage Information may be non-identifying or may be associated with you.  Neither Usage Information nor a Device Identifier is treated by us as Personal Information unless we combine it with Personal Information, in which case we will treat such combined data as Personal Information under this SEA Privacy Policy.</p>
+
+    <p>Some of our Services may collect and transmit precise, real-time information about the location of your Device.  For mobile games, you are made aware of this at the time you first open the Services with this functionality.  Unless it is needed for operation or monetization of the Services, the Services may give you the option to turn location tracking on or off or otherwise manage location services.  <strong>You can always terminate our location tracking by uninstalling the Services.</strong></p>
+
+    <p>We may use various now, and later, developed technologies to collect Device Identifiers, Usage Information and Demographic Information about you (“<strong>Tracking Technologies</strong>”).  A few of the methods that may be used to collect such data include, without limitation, the following (and subsequent technology and methods later developed):</p>
+
+    <p><strong>Cookies.</strong>  A cookie is a data file placed on a Device when it is used to visit the Services (“<strong>Cookies</strong>”).  Cookies may be used for many purposes described in our <a href="cookies">Square Enix, Inc. Cookie Policy</a>, including, without limitation, remembering you and your preferences and tracking your visits to and activities on the Services.  <strong>Some features of the Services may not function properly if you choose to disable Cookies, and some types of Flash and HTML5 Cookies may not be disabled using browsers.  In some instances, especially with respect to mobile, we may require you to uninstall / not use the Services rather than have a poor experience from disabling Cookies.</strong></p>
+
+    <p><strong>Embedded Scripts.</strong>  An embedded script is programming code that is designed to collect information about your interactions with the Services, such as the links you click on.  The code is temporarily downloaded onto your Device from our web server or a third-party service provider, is active only while you are connected to the Services, and is deactivated or deleted thereafter.</p>
+
+    <p><strong>Web Beacons.</strong>  Small graphic images or other web programming code called web beacons (also known as “1x1 GIFs” or “clear GIFs”) may be included in our Services’ pages and messages.  Web beacons may be invisible to you, but any electronic image or other web programming code inserted into a page or e-mail can act as a web beacon.  Web beacons or similar technologies may be used for a number of purposes, including, without limitation, to count visitors to the Services, to monitor how users navigate the Services, to count how many e-mails that were sent were actually opened, or to count how many particular articles or links were actually viewed.</p>
+
+    <p><strong>ETag, or entity tag.</strong>  A feature of the cache in browsers, an ETag is an opaque identifier assigned by a web server to a specific version of a resource found at a URL.  If the resource content at that URL ever changes, a new and different ETag is assigned.  Used in this manner, ETags are a form of Device Identifier.  ETag tracking may generate unique tracking values even where the consumer blocks HTTP, Flash, and HTML5 cookies.</p>
+
+    <p>Third parties may use Tracking Technologies with our Services.  We may not control those third-party Tracking Technologies and in such event, we are not responsible for them.  <strong>However, you consent to potentially encountering third-party Tracking Technologies in connection with the use of our Services, and accept that our representations under this SEA Privacy Policy do <span class="underline">not</span> apply to the Tracking Technologies or practices of such third parties</strong>.  This applies even if they share the collected data with us, except that if we combine that data with Personal Information we have collected on the Services, we will treat it as Personal Information under this SEA Privacy Policy.</p>
+
+    <p>For more information on advertising and related Tracking Technologies, click <a href="cookies">here</a></p>
+
+    <p>Certain third parties that associate Tracking Devices with our Services have given us notice of their privacy policies, some of which include the ability to exercise certain opt-out elections and other choices.  <strong>Please note that opting-out may require you to uninstall or otherwise stop using the Services.</strong>  We do not represent the completeness or accuracy of the information they provide or their compliance with their representations.</p>
+    
+    <p id="1c"><strong>(c)        Information Third Parties Provide About You</strong></p>
+    <p>We may, from time to time, supplement the information we collect directly from you on our Services with outside records from third parties for various purposes, including to enhance our ability to serve you, to tailor content and ads to you, and to offer you opportunities that may be of interest to you.  To the extent we combine such information we receive from those sources with your Personal Information we collect on the Services, it will be treated as Personal Information and we will apply this SEA Privacy Policy to such combined information, unless we have disclosed otherwise.  In no other circumstances do our representations under this SEA Privacy Policy apply to information we receive about you from third parties, even if they have used our technology to collect it and share it with us.</p>
+    
+    <p id="1d"><strong>(d)        Information from and Interacting with Third-Party Locations</strong></p>
+    
+    <p>The Services may include functionality that allows certain kinds of interactions between the Services and your account on a third-party web site or application.  Here are two examples:</p>
+
+    <p>(1) <strong>Login</strong>. We may provide an option to use your Facebook, Google or other account provided by a third-party site or application to facilitate the registration and login or transaction process on the Services.  If you choose to use such options to access our Services, the third-party site or application may send Personal Information about you to the Services.  If so, we will then treat it as Personal Information under this SEA Privacy Policy.</p>
+
+    <p>(2) <strong>Social Communication</strong>. You can also engage with our content on or through third-party social networking sites, such as Facebook and Twitter (or third-party social media plug-ins and applications).  When you engage with our content on or through third-party social networking sites, plug-ins and applications, you may allow us to have access to certain information from your social media profile (e.g., name, e-mail address, photo, gender, birthday, location, your list of friends, people you follow and/or who follow you, the posts or the ‘likes’ you make) to deliver the content or as part of the operation of the application. When you provide information from your social media account, it can help enable us to do things like (1) give you exclusive content, (2) personalize your online experience with us within and outside our websites (and/or applications), and (3) contact you through the social networking sites or directly by sending you the latest news, special offerings, and rewards.  By doing so, you consent to the use of the information you provided in accordance with this SEA Privacy Policy. However, please be aware that we may not control or have access to your communications through these third parties, these third parties may retain any information used or provided in any such communications or activities, and these third parties are not subject to this SEA Privacy Policy. You should review the applicable third party privacy policies before using such third party tools on our Services, and we are not responsible for these third parties’ practices.</p>
+
+    <p>For more information about how social networking sites handle your personal information, please refer to their privacy policies and terms of use. For a list of third party privacy polices please click <a href="thirdpartyprivacypolicy">here</a>.</p>
+     
+    <p id="1e"><strong>(e)        Information You Provide About a Third Party</strong></p>
+    <p>You may send someone else a communication from the Services, such as sending an invitation or message to a friend.  If so, the information you provide about them (names, e-mail addresses, etc.) is used to facilitate the communication and is not used by us for any other marketing purpose unless we obtain consent from that person or we explicitly say otherwise.  Please be aware that when you use any “send-to-a-friend” functionality on our Services, your Personal Information may be included in the communication sent to your addressee(s).  Some of these tools may be third-party tools subject to third-party privacy policies, as further detailed in <span class="underline">Section 1(d)</span> above.</p>
+  </li>
+  
+  <li id="2">
+    <p><strong>How Do We Use The Information We Collect?</strong></p>
+    
+    <p id="2a"><strong>(a)        Use of Information by Us</strong>.   We may use your Personal Information, Demographic Information or Usage Information that is subject to this SEA Privacy Policy: (1) to provide you with information or services or process transactions that you have requested or agreed to receive, including electronic newsletters, special offers, or promotional materials on behalf of us or third parties; (2) to enable you to participate in a variety of the Services’ features; (3) to process your registration with the Services, including verifying your information is active and valid; (4) to create a Square Enix Members Account to provide you access to the Square Enix Account Service; (5) to improve the Services, to customize your experience on the Services, or to serve you specific content that is relevant to you, including targeted advertising; (5) to contact you with regard to your use of the Services and, in our discretion, changes to the Services and/or Services’ policies; (6) for internal business purposes; and (7) for purposes otherwise disclosed at the time you provide your information or as otherwise set forth in this SEA Privacy Policy.</p>
+    <p id="2b"><strong>(b)         Square Enix Account.</strong> Upon your installation of the Services and acceptance of this SEA Privacy Policy and the <a href="tnc">SEA Terms of Service</a>, information collected via the Services may be used to create a new, or update your existing, <a href="http://www.square-enix.com/na/account" target="_blank">Square Enix Account</a>, which is also subject to this SEA Privacy Policy.</p>
+    <p>Please note that information submitted to the Services via a “contact us” or other similar function will not be used to contact you for marketing purposes unrelated to your inquiry unless you agree otherwise.</p>
+  </li>
+  
+  <li>
+    <p id="3"><strong>How and When Do We Disclose Information to Third Parties?</strong></p>
+    
+    <p>We may share non-Personal Information, such as aggregated user statistics, with third parties.  We may share your Device Identifiers with third parties along with data related to you and your activities.  We do not share your Personal Information that we have collected directly from you with third parties for those third parties’ marketing purposes unless you consent to such sharing, which may be sought and obtained as part of the installation or registration process for some of our Services or at the time you provide your Personal Information.  We and/or third parties may collect, and share with others, your Device Identifiers and Usage Information in connection with advertising as more fully explained in Section 7.  In addition, we may share the information we have collected about you, including Personal Information, as disclosed at the time you provide your information or as described in this SEA Privacy Policy.</p>
+    
+    <p id="3a"><strong>(a)        When You Agree To Receive Information From Third Parties.</strong>  You may be presented with an option on our Services to receive certain information and/or marketing offers directly from third parties.  If you choose to do so, your Personal Information will be disclosed to such third parties and all information you disclose will be subject to the third-party privacy policies and practices of such third parties.  We are not responsible for such third-party privacy policies and practices of such third parties and, therefore, you should review such third-party privacy policies and practices of such third parties prior to agreeing to receive such information from them.  If you later decide that you no longer want to receive communications from one of these third parties, you will need to contact that third party directly.</p>
+    <p id="3b"><strong>(b)        Third Parties Providing Administrative Services on Our Behalf</strong>.  We may use third-party vendors to perform certain services on behalf of us or the Services, such as hosting the Services, developing, designing and/or operating the Services’ features, tracking the Services’ activities and analytics, and enabling us to send you special offers or perform other administrative services.  These vendors may be granted access to user information, including Device Identifiers and Personal Information, to carry out the services they are performing for you or for us.  Third-party analytics service providers may set and access their own Tracking Technologies on your Device and they may otherwise collect or have access to information about you, potentially including Personal Information, about you.  We are not responsible for those third-party technologies or activities arising out of them and our representations under this SEA Privacy Policy do not apply to them.</p>
+    <p id="3c"><strong>(c)        Administrative and Legal Reasons.</strong>  We may access, use, preserve, transfer and disclose your information (including Device Identifiers and Personal Information), to third parties: (i) to satisfy any applicable law, regulation, subpoenas, governmental requests or legal process, if in our good faith opinion such is required or permitted by law; (ii) to protect and/or defend the Services’ <a href="tnc">SEA Terms of Service</a> or other policies applicable to the Services, including investigation of potential violations thereof; (iii) to protect the safety, rights, property or security of the Services, our staff, or any third party; and/or (iv) to detect, prevent or otherwise address fraud, security or technical issues.  Further, we may use IP addresses or other Device Identifiers to identify users, and may do so in cooperation with third parties such as copyright and trademark owners, internet service providers, wireless service providers and/or law enforcement agencies, including disclosing such information to such third parties, all in our discretion, subject to applicable law.  Such disclosures may be carried out without notice to you.</p>
+    <p id="3d"><strong>(d)        Business Transfer.</strong>  We may share your information, including your Device Identifiers and Personal Information, Demographic Information and Usage Information with our parent, subsidiaries and affiliates within and outside of the United States.  We also reserve the right to disclose and transfer all such information: (i) to a subsequent owner, co-owner or operator of the Services or applicable database; or (ii) in connection with a merger, consolidation, restructuring, the sale of substantially all of our interests and/or assets or other corporate change, including during the course of any related due diligence process.</p>
+    <p id="3e"><strong>(e) Co-Branded Areas.</strong>  Certain areas of the Services may be provided to you in association with third parties (“<strong>Co-Branded Areas</strong>”) such as licensors, sponsors or charities and may require you to disclose Personal Information to them.  Such Co-Branded Areas will identify the third party and indicate if they have a privacy policy that applies to their collection and use of you information.  If you elect to register for their products and/or services, communicate with such third parties or download their content or applications, at Co-Branded Areas, you may be providing your information to both us and the third party.  Further, if you sign-in to a Co-Branded Area with a username and password obtained on the Services, your Personal Information may be disclosed to the identified third parties for that Co-Branded Area.  We are not responsible for such third party’s data collection or practices and you should look to such third-party privacy policies for more information.</p>
+    <p id="3f"><strong>(f)        Your California Privacy Rights.</strong>  California Civil Code Section 1798.83 permits California residents who have supplied “personal information,” as defined in the statute, to the Services to (under certain circumstances) request and obtain certain information regarding our disclosure, if any, of certain information to third parties for their direct marketing purposes.  We comply with this law by having you consent to this SEA Privacy Policy before we collect any of your personal information.</p>
+    <p id="3g"><strong>(g)       Your European Privacy Rights.</strong>  If you are a resident of Europe and do not consent to our SEA Privacy Policy or Terms of Use, or would like to ask us not to process your personal data (or not to provide it to third parties to process) for marketing purposes, please stop using the Service, or in the case of a mobile game Service, uninstall the Service.</p>
+   </li>
+  
+  <li>
+    <p id="4"><strong>What About Information I Disclose Publicly?</strong></p>
+    
+    <p id="4a"><strong>(a)        User Generated Content and Public Information.</strong>  The Services may permit you to submit text, dialogue, ideas, photographs, user profiles, writings, music, video, audio recordings, computer graphics, pictures, data, questions, comments, suggestions, content created using an in-game tool, or other content, including Personal Information (collectively, “<strong>User Content</strong>”) on blogs, message boards, through game-play or other channels.  We or others may store, display, reproduce, publish, distribute or otherwise use User Content online or offline in any media or format (currently existing or later developed) and may or may not attribute it to you.  Others may have access to this User Content and may have the ability to share it with third parties.  Please think carefully before deciding what information you share, including Personal Information, in connection with your User Content.  Please note that Company does not control who will have access to the information that you choose to make public, and cannot ensure that parties who have access to such publicly available information will respect your privacy or keep it secure.  Our representations under this SEA Privacy Policy do not apply to any information that you disclose publicly, share with others or otherwise upload onto the publicly accessible locations in our Services.  We are not responsible for the accuracy, use or misuse of any User Content that you disclose or receive from third parties through the Services.</p>
+    <p id="4b"><strong>(b)        Name and Likeness.</strong>  We may also publish your name, voice, likeness and other Personal Information that is part of your User Content, and we may use the content, or any portion of the content, for advertising, marketing, publicity and promotional activities.</p>
+  </li>
+  
+  <li>
+    <p id="5"><strong>Do Third-Party Content And Links To Third-Party Services Appear on the Services?</strong></p> 
+    <p>The Services may contain content that is supplied by a third party, and those third parties may collect Usage Information and your Device Identifier when web pages from the Services are served to you.  In addition, when you are on the Services, you may be directed to other sites that are operated and controlled by third parties that we do not control, which may collect Personal Information.  We are not responsible for the data collection and privacy practices employed by any of these third parties or their sites.  For example, if you “click” on a link, the “click” may take you off the Services onto a different site.  These other sites may associate their Tracking Technologies with you, independently collect data about you, including Personal Information, and may or may not have their own published privacy policies.  We encourage you to note when you leave our Services and to review the third-party privacy policies of all third-party locations and exercise caution in connection with them.</p>
+  </li>
+  
+  <li>
+    <p id="6"><strong>What About Third-Party Applications That Appear on the Services? </strong></p>
+    <p>Third-party applications may be available via the Services (such as in-game advertising for other applications that can be accessed by you).  The owners of these applications (“<strong>Third-Party Owners</strong>”) may collect Personal Information and other data from you and may have their own policies and practices.  We are not responsible for how Third-Party Owners or their applications collect or use your information.  These Third-Party Owners may have their own terms of service, privacy policies or other policies and ask you to agree to the same.  We are not responsible for these third-party privacy policies or the practices of Third-Party Owners.  Be sure to review any available policies before submitting any personally identifiable information to a third-party application or otherwise interacting with it and exercise caution in connection with these applications.</p>
+  </li>
+  
+  <li>
+    <p id="7"><strong>What About Third-Party Ads Served On The Services?</strong></p>
+     
+    <p>The Services may use third parties such as network advertisers and ad exchanges to serve targeted advertisements on the Services based on your behavior on and off of our Services, and may use third-party analytics service providers to evaluate and provide us and/or third parties with information about the use of the Services and viewing of ads and of our content.  By installing and using our Services, you consent to these practices, including the sharing of data about you with these third parties and their own collection of such data as discussed further below.  <em>If you object, uninstall / do not use our Services</em>.</p>
+
+    <p>Network advertisers are third parties that display advertisements, which may be based on your visits to the Services and other locations you have visited.  Third-party ad serving enables us and others to target advertisements to you for products and services in which you might be interested.  The Services’ third-party ad network providers, the advertisers, the sponsors and/or traffic measurement services may themselves set and access their own Cookies and other Tracking Technologies on your Device and track certain behavioral information regarding users of your Device via a Device Identifier.  These third-party Tracking Technologies may be set to, among other things: (a) help deliver advertisements to you that you might be interested in; (b) prevent you from seeing the same advertisements too many times; and (c) understand the usefulness to you of the advertisements that have been delivered to you.  You acknowledge and agree that associated technology may access and use your Device and may set or change settings on your Device in connection with the associated operations.  Note that any images (or any other parts of content) served by third parties in association with third-party ads or other content may serve as web beacons, which enable third parties to carry out the previously described activities.  Third-party Cookies (including flash cookies) and other Tracking Technologies are governed by each third-party’s specific privacy policy, not this one.  Our representations regarding our practices in this SEA Privacy Policy do not extend to the practices of these third-party advertisers and others or the use of the information that such third parties collect.  We make no representations regarding the policies or practices of third-party advertisers or advertising networks.</p>
+
+    <p>We use third parties analytics tools in order to develop and analyze the use of the Services.  For more information and the options they may make available to you, please review this <span class="underline">page</span>.</p>
+  </li>
+  
+  <li>
+    <p id="8"><strong>How Do I Change My Information and Communications Preferences?</strong></p>
+     
+    <p>You are responsible for maintaining the accuracy of the information you submit to us, such as your contact information provided as part of registration.  The Services may allow you to review, correct or update Personal Information you have provided by logging in to Square Enix Members and/or the third-party service used to login (such as Facebook or Gamecenter).  European residents should also see <a href="#3g">Section 3(g)</a> above.  If so, we will make good faith efforts to make requested changes in our then-active databases as soon as reasonably practical.  <strong>You can prospectively stop all collection of information by our Services by uninstalling and/or ceasing to use the Services.</strong>  With respect to mobile, you may use the standard uninstall process available as part of your applicable Device or via the appropriate application or app marketplace.  Please note that it is not always possible to completely remove or delete all of your information from our databases and that residual data may remain on backup media or for other reasons.  Also, if you have made any public postings on the Services such as in forums or blogs, these communications generally cannot be removed.  When you edit your Personal Information or change your preferences on the Services, information that you remove may persist internally for Company’s administrative purposes.  You may cancel or modify our e-mail marketing communications you receive from us by following the instructions contained within our promotional e-mails or where applicable, by logging into an account you have created for our services.  This will not affect subsequent access to the Services and your opt-out may be limited to certain types of e-mails.</p>
+
+    <p>Please note that we reserve the right to send you certain communications relating to your account or use of our Services, such as administrative and service announcements, and you will continue to receive these transactional account messages even if you opt-out from receiving our marketing communications.</p>
+
+    <p>If you have any questions about the SEA Privacy Policy or practices describe in it, you should contact us by sending a letter here:  Square Enix, Inc., Attn: SEA Privacy Policy Administrator, 999 N. Sepulveda Blvd., 3rd Floor, El Segundo, CA 90245.  You can also contact us by e-mailing us at na.privacypolicy@square-enix.com.</p>
+  </li>
+  
+  <li>
+    <p id="9"><strong>What About data transferred to the United States?</strong></p>
+    
+    <p>Square Enix, Inc’s Services are operated in the United States.  If you are located outside of the United States, please be aware that information we collect, including Personal Information, will be transferred to, and processed, stored and used in the United States, Japan and the United Kingdom.  The data protection laws in the United States may differ from those of the country in which you are located, and your Personal Information may be subject to access requests from governments, courts, or law enforcement in Japan as well as the United States according to local laws.  By using the Services, or providing us with any information, you consent to the transfer to, and processing, usage, sharing and storage of your information, including Personal Information, in Japan, the United Kingdom and the United States as set forth in this <a href="privacy">SEA Privacy Policy</a>.</p>
+
+    <p>Company <span class="underline">complies</span> with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland.  Company has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement.  To learn more about the Safe Harbor Program, and to view Company’s certification, please visit <a href="http://www.export.gov/safeharbor/" target="_blank">http://www.export.gov/safeharbor/</a>.</p>
+  </li>
+  
+  <li>
+    <p id="10"><strong>What Should Parents Know About Children?</strong></p>
+    
+    <p>The Services are general audience games and we do not knowingly collect any personal information from children younger than the age of 13 as required by U.S. law.  If you are a parent or guardian of a child under the age of 13, and believe he or she has disclosed personal information to us, please contact us at Square Enix, Inc., Attn: SEA Privacy Policy Administrator - COPPA, 999 N. Sepulveda Blvd., 3rd Floor, El Segundo, CA 90245.  You can also contact us by e-mailing us at <a href="mailto:na.privacypolicy@square-enix.com">na.privacypolicy@square-enix.com</a>.  </p>
+  </li>
+  
+  <li>
+    <p id="11"><strong>What About Security?</strong></p> 
+    <p>We incorporate commercially reasonable safeguards to help protect and secure your Personal Information.  However, no data transmission over the Internet, mobile networks, wireless transmission or electronic storage of information can be guaranteed to be 100% secure.  Please note that we cannot ensure the security of any information you transmit to us, and you use our Services and provide us with your information at your own risk.</p>
+  </li>
+  
+  <li>
+    <p id="12"><strong>What if I have a question or complaint?</strong></p>
+    <p>If you have any questions or wish to file a complaint, please feel free to e-mail us at <a href="mailto:na.privacypolicy@square-enix.com">na.privacypolicy@square-enix.com</a>, or send a letter addressed to Square Enix, Inc., Attn: SEA Privacy Policy Administrator, 999 N. Sepulveda Blvd., 3rd Floor, El Segundo, CA 90245.</p>
+  </li>
+  
+  <li>
+    <p id="13"><strong>What About Changes to the SEA Privacy Policy?</strong></p>
+    
+    <p>We reserve the right to change this <a href="privacy">SEA Privacy Policy</a> at any time without notice to you.  Any changes will be effective immediately upon the posting of the revised SEA Privacy Policy.  However, we will require you to opt-in upon sign-in if we make material changes.</p>
+
+    <p>To the extent any provision of this Privacy Policy is found by a competent tribunal to be invalid or unenforceable, such provision shall be severed to the extent necessary for the remainder to be valid and enforceable.</p>
+  </li>
+</ol>
+<br><br>	</div>
+</div>
+			</div>
+
+					</div>
+
+		<div id="footer" class="container-20">
+			<div class="footer-links">
+	<div class="footer-content">
+		<div class="links">
+			<ul>
+				<li>
+					<a href="/us/aboutus">
+						About us					</a>
+				</li>
+				<span>·</span>
+				<li>
+					<a href="/us/jobs">
+						Jobs					</a>
+				</li>
+				<span>·</span>
+				<li>
+																<a href="http://support.na.square-enix.com/" target="_blank">
+											Support					</a>
+				</li>
+				<span>·</span>
+				<li>
+					<a href="http://www.square-enix.com/eu/global.html" target="_blank">
+						Global site					</a>
+				</li>
+			<ul>
+			<ul>
+				<li>
+					<a href="/us/documents/tnc">
+						Terms of Use					</a>
+				</li>
+					<span>·</span>
+									<li>
+						<a href="/us/documents/privacy">
+							Privacy Policy						</a>
+					</li>
+					<span>·</span>
+								<li>
+					<a href="/us/documents/unsol">
+						Unsolicited Content Policy					</a>
+				</li>
+			<span>·</span>
+				<li>
+					<a href="/us/documents/cookies">
+						Cookie Policy					</a>
+				</li>
+									<span>·</span>
+					<li>
+						<a href="/us/documents/materialusagepolicy">
+							Material Usage Policy 						</a>
+					</li>
+					<span>·</span>
+					<li>
+						<a href="http://press.na.square-enix.com/landing.asp" target="_blank">
+							Press						</a>
+					</li>
+					<span>·</span>
+					<li>
+						<a href="/us/documents/licensing">
+							Licensing						</a>
+					</li>
+									<span>·</span>
+				<li>
+					<a href="/us/mobile">
+						SE Mobile Site					</a>
+				</li>
+					<span>·</span>
+				<li>
+					<a class="feed" href="http://feeds.feedburner.com/square-enix/en_US" target="_blank">
+						<span>RSS</span>
+					</a>
+				</li>
+			</ul>
+		</ul></ul></div>
+
+		<div class="langs">
+			<span class="flags en_US"></span>
+			<a href="/us/change/langs">English (US)</a>		</div>
+	</div>
+</div>
+
+<div class="footer-text">
+	© 2015 SQUARE ENIX LTD. All Rights Reserved<br>SQUARE ENIX and the SQUARE ENIX logo are trademarks or registered trademarks of Square Enix Holdings Co., Ltd.<br>Square Enix, Inc., 999 N. Sepulveda Blvd., 3rd Floor, El Segundo, CA 90245.		<div class="esrb">
+		<a href="http://www.esrb.org/privacy/index.jsp" target="_blank">
+			<img src="/sites/all/themes/custom/bleach/images/privacy_certified_globe_bw.gif">
+		</a>
+		</div>
+</div>
+					</div>
+	</div>
+
+
+<div id="fb-root"></div>
+
+<script type="text/javascript">
+(function(doc, script) {
+		var js,
+				fjs = doc.getElementsByTagName(script)[0],
+				add = function(url, id) {
+						if (doc.getElementById(id)) {return;}
+						js = doc.createElement(script);
+						js.src = url;
+						id && (js.id = id);
+						fjs.parentNode.insertBefore(js, fjs);
+				};
+
+		// Google Analytics
+		//add(('https:' == location.protocol ? '//ssl' : '//www') + '.google-analytics.com/ga.js', 'ga');
+		// Facebook SDK
+		add('//connect.facebook.net/en_EN/all.js#xfbml=1&appId=119657611400171', 'facebook-jssdk');
+		// Twitter SDK
+		add('//platform.twitter.com/widgets.js', 'twitter-wjs');
+}(document, 'script'));
+</script>
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+
+  _gaq.push(['_setAccount', 'UA-8719677-3']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"ffc36bd837","applicationID":"14360751","transactionName":"NgZTbBNVDRJQAhUPVg9McFsVXQwPHgwVCFo+B15b","queueTime":0,"applicationTime":309,"atts":"GkFQGltPHhw=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-768.min.js"}</script>
+
+</body></html>
