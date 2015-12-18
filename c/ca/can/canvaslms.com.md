@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the canvaslms.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623015143id_/http%3A//www.canvaslms.com/policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the canvaslms.com privacy policy that was archived on 2015-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151218234913id_/http%3A//www.canvaslms.com/policies/privacy) for the most accurate reproduction.*
 
 # Privacy
 
@@ -73,7 +73,7 @@ When you visit the Site, we and others give you the following choices about use 
   * Most web browsers are set to accept cookies by default. If you prefer, you can typically remove and reject cookies from our Site with your browser settings. If you remove or reject our cookies, it will affect how our Site and Services work for you.
   * You may also render some web beacons unusable by rejecting their associated cookies. If you choose to decline cookies, certain features of the Sites and Services that placed the cookie may not function properly or at all as a result.
   * If you do not wish for us to track emails we send you, some email services allow you to adjust your display to turn off HTML or disable download of images which should effectively disable our email tracking, or you may unsubscribe from our marketing emails as described above.
-  * You may opt out of tracking of certain information collected by Google Analytics, one of our analytics providers as discussed above, on the Sites by clicking here.
+  * You may opt out of tracking of certain information collected by Google Analytics, one of our analytics providers as discussed above, on the Sites by [clicking here](https://tools.google.com/dlpage/gaoptout).
 
 
 
