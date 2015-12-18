@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mtv.tv privacy policy that was archived on 2015-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150622202202id_/http%3A//www.socialproject.com/UserAgreements/EnUS/PrivacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mtv.tv privacy policy that was archived on 2015-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151218082015id_/http%3A//www.socialproject.com/UserAgreements/EnUS/PrivacyPolicy.html) for the most accurate reproduction.*
 
 # Social Project - Privacy Policy
 
