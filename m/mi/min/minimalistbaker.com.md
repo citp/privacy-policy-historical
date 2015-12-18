@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the minimalistbaker.com privacy policy that was archived on 2015-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150613081110id_/http%3A//minimalistbaker.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the minimalistbaker.com privacy policy that was archived on 2015-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151218084309id_/http%3A//minimalistbaker.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Minimalist Baker
 
@@ -8,15 +8,15 @@ By visiting **minimalistbaker.com** , you are consenting to our privacy policy.
 
 ### Overview
 
-Simple Streams llc is committed to protecting your privacy online. This Privacy Policy describes the personal information we collect through this website at minimalistbaker.com ** ** (the “Site”), and how we collect and use that information.
+Minimalist Baker llc is committed to protecting your privacy online. This Privacy Policy describes the personal information we collect through this website at minimalistbaker.com ** ** (the “Site”), and how we collect and use that information.
 
-The terms “we,” “us,” and “our” refers to Simple Streams llc. The terms “user,” “you,” and “your” refer to site visitors, customers, and any other users of the site.
+The terms “we,” “us,” and “our” refers to Minimalist Baker llc. The terms “user,” “you,” and “your” refer to site visitors, customers, and any other users of the site.
 
 The term “personal information” is defined as information that you voluntarily provide to us that personally identifies you and/or your contact information, such as your name, phone number, and email address.
 
 The term “Service” refers to all resource pages available and membership to minimalistbaker.com.
 
-Use of minimalistbaker.com, including all materials presented herein and all online services provided by Simple Streams llc is subject to the following Privacy Policy. This Privacy Policy applies to all site visitors, customers, and all other users of the site. By using the Site or Service, you agree to this Privacy Policy, without modification, and acknowledge reading it.
+Use of minimalistbaker.com, including all materials presented herein and all online services provided by Minimalist Baker llc is subject to the following Privacy Policy. This Privacy Policy applies to all site visitors, customers, and all other users of the site. By using the Site or Service, you agree to this Privacy Policy, without modification, and acknowledge reading it.
 
 ### Information We Collect
 
