@@ -1,15 +1,23 @@
-> *The following text is extracted and transformed from the gmpartsdirect.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607015303id_/http%3A//www.gmpartsdirect.com/site_policies/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gmpartsdirect.com privacy policy that was archived on 2015-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151218035438id_/http%3A//www.gmpartsdirect.com/privacy-policy) for the most accurate reproduction.*
 
-# GM Parts Direct: Your direct source for Genuine GM Parts
+# Privacy Policy
 
-| Privacy Statement
+Your privacy is our priority
 
-* * *  
-  
----  
-  
-  * It is www.gmpartsdirect.com policy that personal information, such as your name, postal and e-mail address or telephone number, is private and confidential. Accordingly, the personal information you provide is accessible only by designated staff, and is used only for the purposes for which you provide the information (such as to reply to your request or enquiry). 
-  * Personal information will not be released to third parties, except if release is required by law or is pertinent to judicial or governmental investigations or proceedings. There are no other circumstances under which we will provide or sell personal information to third parties. 
-  * www.gmpartsdirect.com uses WebTrends to analyze traffic to this web site. WebTrends does not create individual profiles for visitors. Unlike some tracking services WebTrends does not have a database of individual profiles for each visitor. WebTrends only collects aggregate data.
+We will never share your information or email addresses with vendors, business partners or other organizations. 
 
+### What Information is Collected?
 
+The information we learn from visitors, helps us to personalize and continually improve our site. Basically, you can visit our web pages without telling us who you are or revealing any personal information about yourself but we do collect statistics on the amount of traffic and traffic patterns on this site. 
+
+Our Site's Staff does obtain and retain certain information as you email us directly and whenever you respond to website questions. We may analyze this data for marketing and technical purposes. 
+
+### Links to Third Party Sites
+
+Our site may include links to other web sites that are not under our control. You should review those policies before visiting those websites. 
+
+### Policy Changes
+
+This policy is subject to change. If we decide to change our privacy policy in whole or in part, we will inform you by posting a notice on this privacy policy page. 
+
+If you have any questions you can contact us at customerservice[at]gmpartsdirect.com.
