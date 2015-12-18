@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the filmingcops.com privacy policy that was archived on 2015-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150615024450id_/http%3A//filmingcops.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the filmingcops.com privacy policy that was archived on 2015-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151218012303id_/http%3A//filmingcops.com/privacy-policy-2) for the most accurate reproduction.*
 
-# PRIVACY POLICY | Declare War on Police Brutality
+# Privacy Policy | Declare War on Police Brutality
 
 This Privacy Policy governs the manner in which www.FilmingCops.com collects, uses, maintains and discloses information collected from users (“Users”; each, a “User”) of the [www.FilmingCops.com](http://www.generateprivacypolicy.com/account/policies/edit/www.FilmingCops.com) website (“Site”). This privacy policy applies to the Site and all products and services it offers.
 
