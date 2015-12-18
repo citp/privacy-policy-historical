@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the greenheartgames.com privacy policy that was archived on 2015-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150619141039id_/http%3A//www.greenheartgames.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greenheartgames.com privacy policy that was archived on 2015-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151218035106id_/http%3A//www.greenheartgames.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Greenheart GamesGreenheart Games
+# Privacy Policy - Greenheart Games
 
 This Privacy Policy governs the manner in which Greenheart Games Pty. Ltd. collects, uses, maintains and discloses information collected from users (each, a “User”) of the www.greenheartgames.com website (“Site”) and Greenheart Games applications and games. This privacy policy applies to the Site and all products and services offered by Greenheart Games Pty. Ltd..
 
@@ -57,12 +57,8 @@ By using this Site, you signify your acceptance of this policy and [terms of se
 
 **Contacting us**
 
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
-Greenheart Games Pty. Ltd.  
-www.greenheartgames.com  
-89 Manchester Tce.  
-Indooroopilly Brisbane  
-QLD 4068  
-support@greenheartgames.com
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:
 
-This document was last updated on September 16, 2012
+[legal@greenheartgames.com](mailto:legal@greenheartgames.com?Subject=Privacy%20Policy)
+
+This document was last updated on August 11, 2015
