@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marijuanapackaging.com privacy policy that was archived on 2015-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150615143914id_/http%3A//www.marijuanapackaging.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marijuanapackaging.com privacy policy that was archived on 2015-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151218200256id_/http%3A//www.marijuanapackaging.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -37,7 +37,7 @@ You can choose to have your computer warn you each time a cookie is being sent, 
 
 Do we disclose the information we collect to outside parties?
 
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information unless we provide you with advance notice, except as described below. The term "outside parties" does not include A&A Global Imports. It also does not include website hosting partners and other parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others' rights, property, or safety.
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information unless we provide you with advance notice, except as described below. The term "outside parties" does not include Marijuana Packaging. It also does not include website hosting partners and other parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others' rights, property, or safety.
 
 However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
 
@@ -61,7 +61,7 @@ We welcome your questions, comments, and concerns about privacy. Please send us 
 
 Online Policy Only
 
-This online privacy policy applies only to information collected through our website and not to information collected offline. 
+This online privacy policy applies only to information collected through our website and not to information collected offline.
 
 Terms and Conditions
 
