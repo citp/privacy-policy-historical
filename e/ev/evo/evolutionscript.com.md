@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the evolutionscript.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607015717id_/http%3A//www.evolutionscript.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the evolutionscript.com privacy policy that was archived on 2015-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151218130708id_/http%3A//www.evolutionscript.com/privacy) for the most accurate reproduction.*
 
 # EvolutionScript.com - GPT/PTC Software
 
