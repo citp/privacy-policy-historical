@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onlykent.com privacy policy that was archived on 2015-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150503062445id_/http%3A//www.onlykent.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlykent.com privacy policy that was archived on 2015-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151218201054id_/http%3A//www.onlykent.com/privacy) for the most accurate reproduction.*
 
 # Privacy
 
