@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the orgasmicchef.com privacy policy that was archived on 2015-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150618073934id_/http%3A//www.orgasmicchef.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the orgasmicchef.com privacy policy that was archived on 2015-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151218012311id_/http%3A//www.orgasmicchef.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy
+# Privacy - The Orgasmic Chef
 
 This privacy policy sets out how Orgasmic Chef uses and protects any information that you give while using www.orgasmicchef.com.  Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
 
