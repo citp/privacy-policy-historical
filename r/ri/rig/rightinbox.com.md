@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the rightinbox.com privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317120114id_/http%3A//www.rightinbox.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rightinbox.com privacy policy that was archived on 2015-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151218061820id_/http%3A//www.rightinbox.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Schedule emails to send later
+# Privacy Policy
 
 ### Privacy Policy
 
-Last updated: November 30, 2014
+Last updated: June 17, 2015
 
 Right Inbox (“us”, “we”, or “our”) operates the http://www.rightinbox.com/ website (the “Service”).
 
@@ -12,7 +12,7 @@ This page informs you of our policies regarding the collection, use and disclosu
 
 We will not use or share your information with anyone except as described in this Privacy Policy.
 
- **We use your Personal Information for providing and improving the Service. By using the Service, you agree to the collection and use of information in accordance with this policy.** Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, accessible at http://www.rightinbox.com/
+ **We use your Personal Information for providing and improving the Service. By using the Service, you agree to the collection and use of information in accordance with this policy.** Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, accessible at http://www.rightinbox.com/terms
 
  **Information Collection And Use**
 
@@ -29,6 +29,14 @@ In addition, we may use third party services such as Google Analytics that colle
 Cookies are files with small amount of data, which may include an anonymous unique identifier. Cookies are sent to your browser from a web site and stored on your computer’s hard drive.
 
 We use “cookies” to collect information. You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent. However, if you do not accept cookies, you may not be able to use some portions of our Service.
+
+ **Information sharing  
+**  
+In an effort to describe our Service to advertisers, potential partners and merchants and other third parties and for the other lawful uses, we may disclose aggregate statistics about visitors to our Service but these would include no personally identifiable information. Your personal information may be disclosed to any of our affiliates, vendors, event organizers, merchants or to our agents or contractors who assist us in providing our Service for processing purchases or other transactions, fulfilling requests for information, receiving and sending communications, updating marketing lists, analyzing data, or in other tasks supporting the Service.  
+**  
+Behavioral Remarketing**
+
+Right Inbox uses remarketing services to advertise on third party web sites to you after you visited our Service. We, and our third party vendors, use cookies to inform, optimize and serve ads based on your past visits to our Service. – Google Google AdWords remarketing service is provided by Google Inc. You can opt-out of Google Analytics for Display Advertising and customize the Google Display Network ads by visiting the Google Ads Settings page: http://www.google.com/settings/ads Google also recommends installing the Google Analytics Opt-out Browser Add-on – https://tools.google.com/dlpage/gaoptout – for your web browser. Google Analytics Opt-out Browser Add-on provides visitors with the ability to prevent their data from being collected and used by Google Analytics. For more information on the privacy practices of Google, please visit the Google Privacy & Terms web page: http://www.google.com/intl/en/policies/privacy/ – AdRoll AdRoll remarketing service is provided by Semantic Sugar, Inc. You can opt-out of AdRoll remarketing by visiting this AdRoll Advertising Preferences web page: http://info.evidon.com/pub_info/573?v=1&nt=1&nw=false For more information on the privacy practices of AdRoll, please visit the AdRoll Privacy Policy web page: http://www.adroll.com/about/privacy
 
  **Service Providers**
 
