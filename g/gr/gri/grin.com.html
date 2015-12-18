@@ -1,0 +1,910 @@
+<!--The following is the downloaded HTML source of the grin.com privacy policy that was archived on 2015-12-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151218050232id_/http%3A//www.grin.com/en/privacy.html) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html lang="en"><head>
+		
+		
+		
+	<link type="text/css" media="screen" href="http://cdn.grin.com/stylus/storefront/index.styl?brand_id=1&amp;r=80f563" rel="stylesheet">
+	<link type="text/css" media="screen" href="http://cdn.grin.com/combine.css?file=grin-custom.css;grin-frameset.css;grin.css&amp;type=brand&amp;brand_id=1&amp;r=80f563" rel="stylesheet">
+
+
+		
+		<title>
+			
+				GRIN |  Privacy
+			
+		</title>
+	
+		
+	<link rel="shortcut icon" href="http://cdn.grin.com/images/brand-static/1/favicon.ico">
+
+	<!-- Apple Favicons
+	================================================== -->
+	<link rel="apple-touch-icon" href="http://cdn.grin.com/images/brand/1/apple-touch-icon.png">
+	<link rel="apple-touch-icon" sizes="72x72" href="http://cdn.grin.com/images/brand/1/apple-touch-icon-72x72.png">
+	<link rel="apple-touch-icon" sizes="114x114" href="http://cdn.grin.com/images/brand/1/apple-touch-icon-114x114.png">
+
+
+		
+
+	
+	
+	
+
+
+	
+		<meta property="og:site-name" content="Publish your eBook as eBook and book">
+	
+		<meta property="og:image" content="">
+	
+		<meta http-equiv="expires" content="0">
+	
+		<meta name="robots" content="index,follow">
+	
+
+	
+	
+		
+	
+		
+	
+		
+	
+		
+			<link rel="canonical" href="http://www.grin.com/en/privacy.html">
+		
+	
+
+
+	
+	
+		
+		<link rel="alternate" media="only screen and (max-device-width: 640px)" href="https://m.grin.com/">
+		<script type="text/javascript" charset="utf-8" async="" src="//widgets.trustedshops.com/js/X1098E55B93A58BF003CB4E90E5AF4E73.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-N4P5KV"></script><script>
+			(function() {
+				var mobile_redirect_cookie_name = 'grin-live-force-storefront';
+				if( matchMedia('only screen and (max-device-width: 640px)').matches
+					&& document.cookie.indexOf(mobile_redirect_cookie_name + '=desktop') == -1)
+				{
+					document.location.href = 'https://m.grin.com/';
+				}
+			}());
+		</script>
+	
+
+
+
+		
+	
+	<script type="text/javascript">
+		
+
+		
+		var global = this;
+		Grin = {Loader: {}};
+		Grin.Loader.active_combine_groups = {};
+		Grin.Loader.waiting_combine_fns = {};
+		Grin.Loader.combine_dependencies = {};
+		Grin.Loader.requested_groups = {};
+
+		Grin.Loader.activate_group = function(group_name) {
+			/*console.log("Activate " + group_name); //greetings to IE, who crashes when Entwicklertools are closed*/
+			Grin.Loader.waiting_combine_fns[group_name].call(global);
+			delete Grin.Loader.waiting_combine_fns[group_name];
+			delete Grin.Loader.combine_dependencies[group_name];
+			Grin.Loader.active_combine_groups[group_name] = true;
+
+			for(var key in Grin.Loader.combine_dependencies) {
+				var dep_arr = Grin.Loader.combine_dependencies[key];
+				var idx = dep_arr.indexOf(group_name);
+				if(idx != -1) {
+					dep_arr.splice(idx,1);
+				}
+				if (!dep_arr.length) {
+					Grin.Loader.activate_group(key);
+				}
+			}
+		};
+
+		Grin.Loader.request_activation = function(group_name, dependencies, group_fn)
+		{
+			if(Grin.Loader.requested_groups[group_name]) {
+				throw "group already requested: " + group_name;
+			}
+			Grin.Loader.requested_groups[group_name] = true;
+			Grin.Loader.waiting_combine_fns[group_name] = group_fn;
+			Grin.Loader.combine_dependencies[group_name] = [];
+
+			var must_wait = false;
+			for(var i = 0; i< dependencies.length; ++i) {
+				var dep = dependencies[i];
+				if(!Grin.Loader.active_combine_groups[dep]) {
+					Grin.Loader.combine_dependencies[group_name].push(dep);
+					must_wait = true;
+				}
+			}
+
+			if(!must_wait) {
+				Grin.Loader.activate_group(group_name);
+			}
+		};
+
+		Grin.Ready = function(fn) {
+			if(Grin.Ready.ready_triggered) {
+				fn();
+			}
+			else {
+				Grin.Ready.ready_queue.push(fn);
+			}
+		};
+		Grin.Ready.ready_queue = [];
+		Grin.Ready.dependencies = [];
+		
+	</script>
+
+
+	
+
+	
+
+    <script async="" type="text/javascript" src="http://cdn.grin.com/group/js/libs.js?brand_id=1&amp;r=80f563"></script>
+<script type="text/javascript">Grin.Ready.dependencies.push('libs.js');</script>
+	<script async="" type="text/javascript" src="http://cdn.grin.com/group/js/core.js?brand_id=1&amp;r=80f563"></script>
+<script type="text/javascript">Grin.Ready.dependencies.push('core.js');</script>
+
+    <script async="" type="text/javascript" src="http://cdn.grin.com/basedata.js?lang=en&amp;brand_id=1&amp;gtpl-template-scope=storefront&amp;r=80f563"></script>
+<script type="text/javascript">Grin.Ready.dependencies.push('basedata.js');</script>
+
+    
+
+    
+	
+	
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+	
+	<script src="//cdn.optimizely.com/js/2466641553.js"></script>
+
+
+	
+		<script async="" type="text/javascript" src="http://cdn.grin.com/group/js/world.js?brand_id=1&amp;r=80f563"></script>
+<script type="text/javascript">Grin.Ready.dependencies.push('world.js');</script>
+	
+
+	
+		
+		
+	
+
+		
+	</head>
+	<body class="other_browser other_os handler-cms    page-cms  testgroupA protocol-http" data-grin-handler="cms">
+		
+	
+	
+	<script>
+		dataLayer = [{
+			'test_group': 'A',
+			'test_gang': 'WEST',
+			'test_bunch': '1'
+		}];
+	</script>
+
+	
+	
+		<!-- Google Tag Manager -->
+		<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-N4P5KV"
+		height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+		
+			<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+			new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+			j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+			'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+			})(window,document,'script','dataLayer','GTM-N4P5KV');</script>
+		
+		<!-- End Google Tag Manager -->
+	
+
+
+
+		
+	
+	
+	
+		<div id="register-login-popup" class="popup" data-foldable-container="" data-foldable-id="register-login-popup" data-no-slide="">
+			
+				<div class="popup-overlay"></div>
+			
+			<div class="popup-content">
+				<span class="close-icon close" data-foldable-trigger="" data-foldable-id="register-login-popup"></span>
+				
+	<div class="itemTitle popupHeader">Register or log in</div>
+	<div class="cbox register">
+		
+	<div class="itemTitle">New here?</div>
+	<p class="info newauthors">For new authors:<br>free, easy and fast</p>
+	<form id="register-form" onsubmit="return false;">
+		<div class="required-fields-hint">* Required Fields</div>
+		<br>
+		<input type="hidden" name="language" value="en">
+		<div class="form-row first_name">
+			<label>First Name*</label>
+			<input type="text" name="first_name">
+		</div>
+		<div class="form-row last_name">
+			<label>Last Name*</label>
+			<input type="text" name="last_name">
+		</div>
+		<div class="form-row email">
+			<label>E-Mail*</label>
+			<input type="email" name="email">
+		</div>
+		<div class="form-row password">
+			<label>Password*</label>
+			<input type="password" name="password">
+		</div>
+
+		
+
+	<div class="form-row ambassador">
+		<label>Optional: Ambassador code</label>
+		<input type="text" name="ambassador">
+		<input type="hidden" name="amb-strict" value="yes">
+	</div>
+
+	<div class="form-row infomail">
+			<div data-widget="Hint" class="hint hint-icon">
+			<div class="hint-target"></div>
+			<div data-hint-text="" class="hint-text">
+				Our newsletter keeps you up to date with all new papers in your subjects
+			</div>
+		</div>
+
+		<input type="checkbox" id="loginpopup-infomail" name="infomail" data-datatype="YES_NO">
+		<label for="loginpopup-infomail" class="info1">
+				Get information via e-mail
+		</label>
+		<div class="info2">
+				You can unsubscribe any time
+		</div>
+	</div>
+
+
+		<div class="button-form-row">
+			<button type="submit" name="submit">
+				<span>Register</span>
+			</button>
+		</div>
+	</form>
+
+	</div>
+	<div class="cbox login">
+		
+	<div class="itemTitle">Login</div>
+	<p class="info existing-authors">For registered authors</p>
+	<form id="login-form" onsubmit="return false;">
+		<div class="required-fields-hint">* Required Fields</div>
+		<br>
+
+		<div class="form-row email">
+			<label>E-Mail*</label>
+			<input type="email" name="username">
+		</div>
+		<div class="form-row password">
+			<label>Password*</label>
+			<input type="password" name="password">
+		</div>
+		<p class="lost-password-link">
+			<a id="goto-lost-password" href="javascript:void(0);">Forgot Password?</a>
+		</p>
+		<div class="button-form-row">
+			<button type="submit" name="submit">
+				<span>Login</span>
+			</button>
+		</div>
+	</form>
+
+	</div>
+	
+		<div class="cbox social-connect">
+			
+	
+		<div class="itemTitle">The alternative</div>
+		<div class="facebook-connect-area">
+			<a id="facebook-connect" class="cursor-pointer fb_button">
+				<img class="fb_image_large" src="http://cdn.grin.com/images/icons/facebook_icon_large.jpg" alt="">
+				<span class="fb_button_text">Connect with Facebook</span>
+			</a>
+		</div>
+	
+
+			
+	
+		<div class="google-connect-area">
+			<a id="google-connect" class="cursor-pointer google_button">
+				<img class="google_image" src="http://cdn.grin.com/images/icons/google.gif" alt="Google icon">
+				<span class="google_button_text">Connect with Google</span>
+			</a>
+		</div>
+	
+
+		</div>
+	
+
+			</div>
+		</div>
+	
+
+
+	
+	
+	
+		<div id="lost-password-popup" class="popup" data-foldable-container="" data-foldable-id="lost-password-popup" data-no-slide="">
+			
+				<div class="popup-overlay"></div>
+			
+			<div class="popup-content">
+				<span class="close-icon close" data-foldable-trigger="" data-foldable-id="lost-password-popup"></span>
+				
+	<h2 class="itemTitle">Forgot Password?</h2>
+	<div class="cbox lostpassword">
+		
+	<div class="itemTitle">Request a new password via email.</div>
+	<form id="lost-password-form" onsubmit="return false;">
+		<input type="hidden" name="language" value="en">
+		<div class="form-row email">
+			<label>E-Mail</label>
+			<input type="text" name="email">
+		</div>
+		<div class="button-form-row">
+			<button type="submit" name="submit">
+				<span>Send</span>
+			</button>
+		</div>
+	</form>
+
+	</div>
+
+			</div>
+		</div>
+	
+
+
+		
+      <div class="notifications"></div>
+      <div class="notifications shorties"></div>
+
+
+		
+	
+		
+		<div id="contentWrapper" style="z-index:1; position: absolute; margin-top: 90px">
+	
+
+	<div class="header">
+		<div class="identity">
+			
+				<a href="http://www.grin.com/"><img src="http://cdn.grin.com/images/brand/1/grin-logo-en.png" class="" alt="English Logo Alt" border="0"></a>
+			
+
+		</div>
+		
+	<div id="userinfo" data-editor="Gtpl_Editor" data-template="Widget.UserInfo.Main" data-template-namespaces="Widget.UserInfo" data-no-redraw="" data-no-fx="" data-skip-first-draw="">
+		
+	<div class="top-info">
+			<a class="etrusted" href="http://www.grin.com/en/help/buyers#payment">
+				<img src="http://cdn.grin.com/images/brand/1/trusted-shops.png" class="etrusted-logo" alt="http://cdn.grin.com/images/brand/1/trusted-shops.png" border="0">
+			</a>
+
+		
+	
+
+
+		
+	
+		<div class="top-shopping-cart with-small-rounded-corners" style="cursor:default;">
+	
+	<span class="shopping-cart-info">
+		<span class="p5px-right" style="display: block;">
+			
+				<span class="wk-link"><a href="https://www.grin.com/shoppingcart">Shopping cart</a></span>
+				0 Items&nbsp;|&nbsp;US$ 0.00
+			<br>
+		</span> 
+	</span> 
+	
+		</div>
+	
+
+
+		<div class="user-info">
+			 
+				
+	<span data-widget="LanguageSelector" id="language-select-span" class="top-dropdown-menu"> 
+		<a href="javascript:void(0);" id="language-select-trigger">English</a>
+		<ul id="language-selector" style="display:none;">
+			
+				<li><a href="javascript:void(0);" data-grin-lang="de">Deutsch</a></li>
+			
+			
+			
+				<li><a href="javascript:void(0);" data-grin-lang="es">Español</a></li>
+			
+			
+				<li><a href="javascript:void(0);" data-grin-lang="fr">Français</a></li>
+			
+		</ul>
+	</span>
+
+			
+
+			
+				<span class="top-login m2px-top" style="right: -30px;">
+					
+	<a href="javascript:void(0);" class="login-trigger">Login</a>
+
+				</span>
+			
+		</div>
+	</div>
+
+	</div>
+
+	</div>
+	
+	<div class="nav">
+		<div class="main-menu">
+			<ul>
+				
+                <li class="nav_left">
+				<a href="http://www.grin.com/">Home</a>
+				
+                <div class="arrow-bottom">
+				</div>
+					
+                	</li><li class="nav_main">
+					<a href="http://www.grin.com/en/catalog/">Catalog</a>
+					
+                	<div class="arrow-bottom"> 
+					</div>
+				</li>
+				
+						
+	                	<li class="nav_main">
+						<a href="http://www.grin.com/en/help/author">Help</a>
+						
+                		<div class="arrow-bottom"></div>
+					</li>
+				
+			</ul>
+		</div>
+		<div class="nav_bg">
+			<div class="search">
+				
+	
+	
+	
+		
+	<form class="search" action="http://www.grin.com/search">
+		<div class="main-search-widget">
+			<input data-widget="SearchTagAutocomplete" type="text" class="search-input" name="searchstring" value="" placeholder="170,558 eBooks &amp; books">
+			<input class="main-magnifier-trigger" type="submit" value=""> 
+		</div>
+		
+		
+	<input name="product" type="hidden" value="ebook">
+	<input name="source_type" type="hidden" value="document">
+
+
+		<button class="search-button" type="submit">
+			<span>Search</span>
+		</button>
+	</form>
+
+
+			</div>
+			<div class="header-items">
+				
+					<a href="http://www.grin.com/en/upload" class="uploadBtn  gradient"><span class="button-text">Upload papers</span><span class="button-icon"></span></a>
+				
+			</div>
+		</div>
+		<div class="nav_right">
+		</div>
+	</div>
+
+		
+		
+	<div class="page right-sidebar " data-guid="cms_content.283">
+		
+			
+				<div class="heading page-wrapper">
+					
+	
+
+				</div>
+			
+			<div class="main page-wrapper">
+				
+	
+
+		
+		
+
+		
+	<div class="plainhtml plainhtml-1146">
+		
+		
+<div class="article">
+  <div class="cbox">
+    <span class="static-heading">
+Privacy
+</span>
+    <p>Protecting the security and privacy of your personal data is important to GRIN Verlag / Open Publishing GmbH, Nymphenburger Str. 86, 80636 München, Germany; therefore, we conduct our business in compliance with applicable laws on data privacy protection. Personal data on this website will only be collected to the extend as it is technically essential.
+We will never sell your personal data or pass it on to third parties for any other reason.
+<br><br>The adjacent policy describes the ways we collect, store, use and protect your personal information.<br><br>
+* Data Processing on this website<br><br>
+GRIN collects and stores information for each visitor of our website in its server log files, our web servers automatically recognize data that are sent by your browser. These are the following:<br><br>
+- Browser type/ version<br>
+- Operating system running on your PC<br>
+- Referrer URL (the pre-visited site)<br>
+- Hostname of the accessing system (IP address)<br>
+- Time of the server request<br><br>
+These data are not assignable to personal data,  if users do not log in. A migration of these data with other data will not be done.<br><br>
+* Cookies<br><br>
+Our website uses a couple of so called „cookies”. These are used to improve and secure our services, or to customize the content of our site for more user-friendliness.
+Cookies are small data files which record information, and are stored on your hard drive while you are browsing our site. <br>
+Most of the used cookies are “session cookies”. The information we collect is used for internal review and is then automatically discarded. <br>
+Once you log out or close your browser, most of these cookies expire and no longer have any effect. Cookies do not damage or harm your computer and do not contain viruses.<br><br>
+* Newsletter<br><br>To receive the newsletter offered on our website we additionally need a valid e-mail address from you as well as information allowing us to check that you are the owner of the stated e-mail address and whether or not the owner agrees to receiving the newsletter. The given consent to save your data and e-mail address and using it for sending the newsletter can be retracted anytime.<br><br>
+* Right to Access<br><br>Anytime you have the right to request information as to your stored personal data, its source and addresses as well as the purpose of storage.
+For any questions regarding the processing of your personal data, please contact our data protection commissioner at info(at)grin.com
+<br><br>* More information<br><br>
+Hoping you will continue to favour us we will gladly answer your questions concerning the handling of your personal data.
+If you have any further questions regarding the processing of your personal data you do not find answered herein or you wish to receive more detailed information about, please feel free to contact our data protection commissioner of GRIN at info(at)grin.com
+<br><br>* Adserver/ Advertising<br><br>
+Our sites use third-party advertising technology (AdServer) to serve ads when you visit our website and sites upon which we advertise. This technology uses non-personal-related information about your visits to this website and the sites upon which we advertise, to serve our ads to you. In the course of serving our advertisements to you, a third-party cookie may be placed on your browser. </p>
+  </div>
+</div>
+
+	</div>
+
+
+	
+	
+	
+
+
+			</div>
+			<div class="sidebar page-wrapper">
+				
+		
+	
+
+	
+		
+		
+		
+	<div class="cbox box-22">
+		
+			
+			
+
+
+<div class="sidebar-heading">Upload Papers,<br>win an iPhone 6s</div>
+
+<div>All GRIN-authors participate in our quarterly drawing to win an iPhone 6s. <b>Each text counts as one lot!</b><br><br>
+<center><a href="http://www.grin.com/en/upload?amb=iphone6"><img src="http://cdn.grin.com/images/cms/297/iPhone6small.png" class="" alt="iPhone6small.png">
+</a></center>
+</div>
+
+
+
+		
+	</div>
+
+	
+		
+		
+		
+	<section class="htmlblock-23">
+		
+			
+			
+<iframe style="width:300px; height:250px; padding: 0px 5px; outline: medium none; border: medium none; margin-bottom: 10px;" scrolling="no" frameborder="0" allowtransparency="true" src="http://cdn.grin.com/ad_mirror?brand=grin&amp;areas=sidebar&amp;hostpage=cms&amp;sector=">
+	</iframe>
+
+		
+	</section>
+
+	
+		
+		
+		
+	<section class="sidebar-video cbox">
+		<div class="sidebar-heading">Publish now - it's free</div>
+		
+	
+	
+		<div data-foldable="">
+			<span data-foldable-trigger="" class="popup-trigger">
+				
+		<span data-poi="CLICK_YOUTUBE_VIDEO_SIDEBAR_cms">
+			<img src="http://cdn.grin.com/images/brand/1/grin_yt_video.png" class="youtube-sidebar" alt="http://cdn.grin.com/images/brand/1/grin_yt_video.png" border="0">
+		</span>
+		
+			</span>
+			<div class="popup hidden" data-foldable-container="" id="" data-no-slide="">
+				<div class="popup-overlay" data-foldable-trigger=""></div>
+				<div class="popup-content ">
+					<span class="close-icon close" data-foldable-trigger=""></span>
+					
+			<div class="video cbox">
+				<h3>Publish now - it's free</h3>
+				<p>
+					<iframe width="565" height="348" src="https://www.youtube.com/embed/Tc6QT7DDnG4?rel=0&amp;wmode=transparent&amp;controls=0&amp;showinfo=0" frameborder="0" allowfullscreen="allowfullscreen">
+					</iframe>
+				</p>
+			</div>
+		
+				</div>
+			</div>
+		</div>
+	
+
+		
+	</section>
+
+	
+		
+		
+		
+	
+
+	
+		
+		
+		
+	
+
+	
+		
+		
+		
+	
+
+	
+
+	
+
+			</div>
+			<div class="clear-all"></div>
+	</div>
+
+		
+	<div class="footer">
+		<div class="column">
+			<div class="footer-1st-element">General</div>
+			<ul>
+				<li><a href="http://www.grin.com/en/">Home</a></li>
+				<li><a href="http://www.grin.com/en/upload">Upload papers</a></li>
+				<li><a href="http://www.grin.com/en/catalog/">Catalog</a></li>
+				<li><a href="http://www.grin.com/new.html">Recommendations</a></li>
+			</ul>
+			<ul>
+				<li><a href="http://www.grin.com/network">Network</a></li>
+			</ul>
+			<ul>
+				<li><a href="http://www.grin.com/en/quality.html">Quality guidelines</a></li>
+			</ul>
+			<ul>
+				<li><a href="http://www.grin.com/en/about.html">About us</a></li>
+				<li><a href="http://www.grin.com/team-grin.html">Team</a></li>
+				<li><a href="http://www.grin.com/en/jobs.html">Jobs</a></li>
+				<li><a href="http://www.grin.com/press">Press</a></li>
+				<li><a href="http://www.grin.com/en/partners.html">Partners + Projects</a></li>
+				<li><a href="http://www.grin.com/en/privacy.html">Privacy</a></li>
+				<li><a href="http://www.grin.com/en/contact.html">Imprint</a></li>
+			</ul>
+		</div>
+		<div class="column">
+			<div class="footer-1st-element">Authors</div>
+			<ul>
+				<li><a href="http://www.grin.com/en/help/author">Becoming author</a></li>
+				<li><a href="http://www.grin.com/en/help/author#options">Your Options</a></li>
+				<li><a href="http://www.grin.com/en/help/author#channels">The channels</a></li>
+				<li><a href="http://www.grin.com/en/help/author#premium">Premium Services</a></li>
+				<li><a href="http://www.grin.com/en/help/author#formats">Types of texts + formats</a></li>
+				<li><a href="http://www.grin.com/en/help/author#royalties">Royalties</a></li>
+				<li><a href="http://www.grin.com/en/help/author#series">Services for publishers, universities, companies</a></li>
+			</ul>
+			<div class="footer-1st-element">Premium Services</div>
+		<ul>
+				<li><a href="http://www.grin.com/en/help/premium">Premium Cover</a></li>
+				<li><a href="http://www.grin.com/en/help/premium#ebook">EPUB/MOBI Conversion</a></li>
+				<li><a href="http://www.grin.com/en/help/premium#marketing">Marketing Packages</a></li>
+				<li><a href="http://www.grin.com/en/help/premium#translation">Translation</a></li>
+				<li><a href="http://www.grin.com/en/help/premium#layout">Premium Layout</a></li>
+				<li><a href="http://www.grin.com/en/help/premium#proofreading">Proofreading</a></li>
+			</ul>
+			<div class="footer-1st-element">FAQ</div>
+			<ul>
+				<li><a href="http://www.grin.com/en/help/faq#faqauthor">For Authors</a></li>
+				<li><a href="http://www.grin.com/en/help/faq#faqbuyer">For Buyers</a></li>
+				<li><a href="http://www.grin.com/en/help/faq#faqpartner">Affiliate Program</a></li>
+				<li><a href="http://www.grin.com/en/help/faq#faqlogin">My Author's Account</a></li>
+			</ul>
+
+		</div>
+		<div class="column">
+			<div class="footer-1st-element">Marketing</div>
+			<ul>
+				<li><a href="http://www.grin.com/en/help/marketing">Reach more readers</a></li>
+				<li><a href="http://www.grin.com/en/help/marketing#you">Become active yourself</a></li>
+				<li><a href="http://www.grin.com/en/help/marketing#affiliates">Affiliate Programs</a></li>
+				<li><a href="http://www.grin.com/en/help/marketing#partners">Become Ambassador</a></li>
+			</ul>
+			<div class="footer-1st-element">Dissertations</div>
+			<ul>
+				<li><a href="http://www.grin.com/en/help/dissertation#dissertation">Publish your dissertation for free</a></li>
+				<li><a href="http://www.grin.com/en/help/dissertation#premium">Premium Services</a></li>
+				<li><a href="http://www.grin.com/en/help/dissertation#copies">Order author's copies at a reduced price</a></li>
+			</ul>
+			<div class="footer-1st-element">Readers&nbsp;&amp;&nbsp;Buyers</div>
+			<ul>
+				<li><a href="http://www.grin.com/en/help/buyers#buyers">Find knowledge</a></li>
+				<li><a href="http://www.grin.com/en/help/buyers#ebooks">eBooks</a></li>
+				<li><a href="http://www.grin.com/en/help/buyers#books">Books</a></li>
+				<li><a href="http://www.grin.com/en/help/buyers#payment">Buying + Payment</a></li>
+				<li><a href="http://www.grin.com/en/help/buyers#legal">Legal / Terms</a></li>
+				<li><a href="http://www.grin.com/en/help/buyers#plagiarism">Copyright / Plagiarism</a></li>
+			</ul>
+		</div>
+		<div class="column">
+			<div class="footer-1st-element">Copyright</div>
+			<ul>
+				<li>© GRIN Verlag / <br>Open Publishing GmbH.</li>
+<li>All content copyright restricted. Copying and distribution prohibited.</li>
+<li><a href="mailto:info@grin.com">info@grin.com</a></li>
+<li><a href="http://www.grin.com/en/termsofservice.html">Terms</a></li>
+<li><a href="http://www.openpublishing.com" target="_blank">Open Publishing</a></li>
+			</ul>
+		</div>
+		<div class="column-big">
+			<div class="footer-1st-element">About GRIN</div>
+<p>
+GRIN Publishing, located in Munich, Germany, has specialized since its foundation in 1998 in the publication of academic ebooks and books. The publishing website GRIN.com offer students, graduates and university professors the ideal platform for the presentation of scientific papers, such as research projects, theses, dissertations, and academic essays to a wide audience.
+</p>
+<p>
+Free Publication of your term paper, essay, interpretation, bachelor's thesis, master's thesis, dissertation or textbook - <a href="http://www.grin.com/en/upload">upload now!</a>
+</p>
+
+			
+				<br>
+				<a href="https://m.grin.com/">Go to mobile version</a>
+			
+			<div class="social-buttons">
+				Follow GRIN on
+				<a href="https://plus.google.com/u/0/104119599352556600480/" target="_blank"><img src="http://cdn.grin.com/images/brand/1/grin_gplus.png" class="" alt="http://cdn.grin.com/images/brand/1/grin_gplus.png" border="0"></a>
+				<a href="http://www.facebook.com/grincom" target="_blank"><img src="http://cdn.grin.com/images/brand/1/grin_fb.png" class="" alt="http://cdn.grin.com/images/brand/1/grin_fb.png" border="0"></a>
+				<a href="http://www.twitter.com/grin_com" target="_blank"><img src="http://cdn.grin.com/images/brand/1/grin_twitter.png" class="" alt="http://cdn.grin.com/images/brand/1/grin_twitter.png" border="0"></a>
+			</div>
+		</div>
+		<div class="clear-all"></div>
+		<ul class="hidden schema-org_data" itemscope="" itemtype="http://schema.org/Organization">
+			<li class="companyName" itemprop="name">GRIN Verlag GmbH</li>
+			<li itemprop="address" itemscope="" itemtype="http://schema.org/PostalAddress">
+				<ul>
+					<li class="address" itemprop="streetAddress">Nymphenburger Str. 86</li>
+					<li class="zip" itemprop="postalCode">80636</li>
+					<li class="city" itemprop="addressLocality">Munich, Deutschland</li>
+				</ul>
+			</li>
+			<li class="phone" itemprop="telephone">+49 89-550559-0</li>
+			<li class="fax" itemprop="faxNumber">+49 89-550559-10</li>
+			<li class="email" itemprop="email">info@grin.com</li>
+			<li class="logo" itemprop="logo" itemscope="" itemtype="http://schema.org/ImageObject">
+			<img src="http://cdn.grin.com/images/brand/1/grin-logo-de.png" class="" alt="http://cdn.grin.com/images/brand/1/grin-logo-de.png" border="0" itemprop="contentURL">
+			</li>
+		</ul>
+	</div>
+
+		
+
+
+		
+	
+		
+		</div>
+		
+	<iframe style="position:absolute; z-index: 0; left:0px; top:0px; width: 1190px; height:717px; outline: medium none; border: medium none; background: none" class="admirror" scrolling="no" frameborder="0" allowtransparency="true" src="http://cdn.grin.com/ad_mirror?brand=grin&amp;areas=banner;skyscraper&amp;hostpage=cms&amp;sector=">
+	</iframe>
+
+	
+	
+<script type="text/javascript">
+  (function () {
+    var _tsid = 'X1098E55B93A58BF003CB4E90E5AF4E73';
+    _tsConfig = {
+
+      'yOffset': '0', /* offset from page bottom */
+      'variant': 'default', /* text, default, small, reviews, custom, custom_reviews */
+      'customElementId': '', /* required for variants custom and custom_reviews */
+      'trustcardDirection': '', /* for custom variants: topRight, topLeft, bottomRight, bottomLeft */
+      'customBadgeWidth': '45', /* for custom variants: 40 - 90 (in pixels) */
+      'customBadgeHeight': '45', /* for custom variants: 40 - 90 (in pixels) */
+      'disableResponsive': 'false', /* deactivate responsive behaviour */
+      'disableTrustbadge': 'true', /* deactivate trustbadge */
+      'trustCardTrigger': 'mouseenter', /* set to 'click' if you want the trustcard to be opened on click instead */
+      'customCheckoutElementId': 'customCheckoutDiv'
+    };
+    var _ts = document.createElement('script');
+    _ts.type = 'text/javascript';
+    _ts.charset = 'utf-8';
+    _ts.async = true;
+    _ts.src = '//widgets.trustedshops.com/js/' + _tsid + '.js';
+    var __ts = document.getElementsByTagName('script')[0];
+    __ts.parentNode.insertBefore(_ts, __ts);
+  })();
+</script>
+
+	
+
+	
+
+
+
+		
+
+		
+	
+	
+	
+
+
+	<script type="text/javascript">
+		Grin.Loader.request_activation('grinenv.js', [], function() {
+			global.GrinEnv = {"language_id":3,"lang":"en","country_id":231,"country":"US","region":"world","one_time_royalty":"US$ 10.-","provision_book_processing_fee":"US$ -50.-","currency_id":2,"currency":"USD","affiliate_programm_provision":"US$ 3.-","realm":"grin","realm_id":1,"brand":"grin","brand_id":1,"i_am_grin":true,"request_url":"http://www.grin.com/en/privacy.html","request_hostname":"www.grin.com","request_path":"/en/privacy.html","request_path_info":"","request_full_path":"/en/privacy.html","request_query_string":"","request_protocol":"http","handler":"cms","partner_id":0,"test_group":"A","test_gang":"WEST","test_bunch":1,"revision_number":"80fb32dc2bb53829ffa5db4cf5ee0ebdd870286c","revision_version":"6.14.1 (Tag)","revision_buildtimestamp":"1449061563","revision_hash":"80f563","gtpl_template_scope":"storefront","i_am_mobile_scope":false,"i_am_mobile_device":false,"has_mobile_storefront":true,"livehost":true,"testhost":"live","userAgent":"ia_archiver","browser":"other_browser","os":"other_os","i_am_server":true};
+			global.GrinEnv.i_am_client = true;
+			global.GrinEnv.Login = {"shoppingcart_account":null,"is_superuser":false,"is_admin":false,"auth_method":"NONE"};
+			
+			
+			global.GrinCtx=global.GrinCtx || {};
+			delete global.GrinEnv.i_am_server;
+			
+			
+		});
+	</script>
+
+	<script type="text/javascript">
+		
+			Grin.Loader.request_activation('ready.js', Grin.Ready.dependencies, function() {
+				jQuery(function() {
+					for(var i = 0; i< Grin.Ready.ready_queue.length; ++i) {
+						Grin.Ready.ready_queue[i].call(this);
+					}
+					Grin.Ready.ready_triggered=true;
+				});
+			});
+		
+	</script>
+
+	
+
+</body></html>
