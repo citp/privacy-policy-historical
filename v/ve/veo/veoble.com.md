@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the veoble.com privacy policy that was archived on 2015-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150413051012id_/http%3A//veoble.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the veoble.com privacy policy that was archived on 2015-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151218051014id_/http%3A//veoble.com/privacy) for the most accurate reproduction.*
 
 # Veoble - Black Google Search
 
@@ -41,5 +41,3 @@ Contact Us
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
 Email: contact@veoble.com
-
-Tags: Black Google, Google Black, Dark Google, Black Google Search, Energy Saving Search
