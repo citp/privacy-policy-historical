@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the springfieldspringfield.co.uk privacy policy that was archived on 2015-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150424054412id_/http%3A//www.springfieldspringfield.co.uk/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the springfieldspringfield.co.uk privacy policy that was archived on 2015-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151219002733id_/http%3A//www.springfieldspringfield.co.uk/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy | Springfield! Springfield!
 
