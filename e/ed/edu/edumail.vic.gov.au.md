@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the edumail.vic.gov.au privacy policy that was archived on 2015-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150420050741id_/http%3A//www.education.vic.gov.au/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edumail.vic.gov.au privacy policy that was archived on 2015-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151218112822id_/http%3A//www.education.vic.gov.au/privacy.htm) for the most accurate reproduction.*
 
 # Privacy
 
