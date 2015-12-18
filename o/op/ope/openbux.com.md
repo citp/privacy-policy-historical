@@ -1,29 +1,16 @@
-> *The following text is extracted and transformed from the openbux.com privacy policy that was archived on 2014-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140914213016id_/http%3A//www.openbucks.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the openbux.com privacy policy that was archived on 2015-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151218164158id_/http%3A//www.openbucks.com/privacy.html) for the most accurate reproduction.*
 
-# Openbucks - The gift card payment network - Privacy Policy
+# Openbucks® - Privacy Policy
 
-[ ]( "Back to home")
-
-  * [Home](http://www.openbucks.com/ "Home")
-  * [For Retailers](http://www.openbucks.com/retailers.html "For Retailers")
-  * [For Merchants](http://www.openbucks.com/for-merchants.html "For Merchants")
-  * [About Us](http://www.openbucks.com/about-us.html "Our Mission")
-  * [Contact Us](http://www.openbucks.com/contact-us.html "Contact Us")
-  * [Jobs](http://www.openbucks.com/jobs.html "Jobs")
-
-
-
-(Last updated: March 30, 2011)
+(Last updated: October 26, 2015)
 
 This Privacy Policy describes the types of personal information we collect through the Openbucks Service, how we use such information and to whom and under what circumstances we may disclose it. This Privacy Policy is incorporated into, and made a part of, the Openbucks Terms of Use, and capitalized terms used and not defined in this policy have the meaning given to them in the Terms. By using the Openbucks Service, you agree to the collection, use and disclosure of your information as described in this Privacy Policy. If you do not agree to the terms of this Privacy Policy, please do not use the Openbucks Service.
 
-## Information Collection
-
-### Information You Provide To Us
+## Information You Provide To Us
 
 We collect personal information and non-public personal information from you when you affirmatively provide it to us, such as when you provide information on an Openbucks Merchant interface, register at the Openbucks Site or contact us. “Nonpublic personal information” is generally information about you that we may obtain in connection with providing you the Openbucks Service and that is not available in public records. You may provide us with both publically accessible and non-public personal information including your name, address, email address, telephone number, cell phone number, payment information including credit card and/or Gift Card details, and/or Openbucks login and password information. We may combine the information you provide us with information we receive about you from other online and offline sources.
 
-### Information We Collect Automatically
+## Information We Collect Automatically
 
 When you use the Openbucks Service, we collect certain information from you, including but not limited to your browser type, operating system, IP address, device ID, Internet service provider, search query you may have used to find Openbucks through a search engine, and the web site access immediately before and after the Openbucks Service. In addition, we may collect information about your browsing behavior, such as the date and time you access the Openbucks Service, the amount of time you spend using the Openbucks Service, the number of times you return to the Openbucks Service and other clickstream information. We may combine this information with the personal information you provide to us.
 
@@ -31,19 +18,15 @@ We (or service providers working on our behalf) may use cookies and web beacons 
 
 We may also use third-party advertising service providers, who may use cookies and web beacons to track your behavior on the Openbucks Service. These service providers may use this information, together with anonymous information about you that they receive from us, to deliver targeted advertisements to you when you are on this Openbucks Service or one or more of the other websites where they deliver targeted advertisements.
 
-### Information Collected by Third Parties
+## Information Collected by Third Parties
 
 We may collect information from you when you use our services through the Openbucks Merchant Interface or on another company’s website or on a co-branded website. All information that we collect through such websites is subject to this Privacy Policy. All of the information collected is owned and controlled by Openbucks. We may share some of your transactional information and your name and email address in order for our partner to fulfill all or part of your order. Please note that the information you submit on such a website may alternatively be subject to the privacy policy applicable to that site.
 
-### Accessing Your Personal Information
+## Accessing Your Personal Information
 
 If you register as a user at the Openbucks Site, you may change or update the personal information we have collected from you by going to the My Account page and clicking the “Edit Account Info” button or by emailing us at [support@openbucks.com](mailto:support@openbucks.com). Choosing to withhold or remove certain information may interfere with your ability to utilize the Openbucks Service to its fullest potential. While changes you make will be reflected in active user databases promptly, we reserve the right to retain any information you provide for a variety of reasons, including fraud and abuse prevention, archival backups, and data analytics.
 
-## Information Use
-
 We or service providers working on our behalf may use the information we collect from and about you for any of the following purposes: (1) to communicate with you regarding our services and regarding your use of the Openbucks Service; (2) to otherwise fulfill your requests for products and services purchased from Openbucks Merchants; (3) to respond to your inquiries; (4) to provide you with targeted content, offers and advertising, such as special offers from Openbucks Merchants or that you have purchased through the Openbucks Service; (5) to contact you when necessary; (6) to ensure that Openbucks Service users are adults and otherwise comply with the Terms; (7) to review Openbucks Service usage and operations and conduct internal marketing and operational research; (8) to address problems with the Openbucks Service, our business or our products and services; and (9) to protect the security or integrity of the Openbucks Service and our business, including detecting and addressing fraud and abuse. We or our service providers may also use the information we have collected from and about you to contact you with promotional materials and offers from us, as well as from our related companies, marketing partners, advertisers and other third parties.
-
-## Information Disclosure
 
 We care about your privacy, and we will not share your personal information with any third parties without your permission. We do not rent, sell, trade or share your personal information with third parties for their promotional purposes. We may share the information we collect from and about you with third parties in the following instances:
 
@@ -56,11 +39,7 @@ We care about your privacy, and we will not share your personal information with
 
 
 
-## Opting Out of Marketing Communications
-
 You may opt-out of being an Openbucks user at any time by emailing us at [support@openbucks.com](mailto:support@openbucks.com).
-
-## Our Commitment to Data Security
 
 We use certain physical, managerial, and technical safeguards to preserve the integrity and security of your personal information. We cannot, however, ensure or warrant against all risks with regards to the security of any information you transmit to us, and so of necessity you do so at your own risk. Once we receive your transmission of information, we again take steps to ensure the security of your information on our systems. However, please note that this is not a guarantee that such information may not be accessed, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards.
 
@@ -70,27 +49,26 @@ To protect your privacy and security, we take reasonable steps (such as requesti
 
 If you have any questions about security on our Web site, you can contact us at [support@openbucks.com](mailto:support@openbucks.com).
 
-## Additional Policy Information
-
-### Customer Testimonials/Comments/Reviews
+## Customer Testimonials/Comments/Reviews
 
 From time to time, we may post customer testimonials/comments/reviews on our website which may contain personally identifiable information. We do obtain the customer’s consent via email prior to posting the testimonial to post their name along with their testimonial.
 
-### External Links
+## External Links
 
 The Openbucks Service may contain links to third-party websites, which may have privacy policies that differ from ours. Please be aware that Openbucks exercises no control over linked sites and is not responsible for their privacy practices or content. Accordingly, we recommend that you review the privacy policy and terms of use of any website that you access through the Openbucks Service.
 
-### Children
+## Children
 
-Protecting the privacy of young children is especially important. For that reason, we do not knowingly collect or maintain personally identifiable information from persons under 13 years-of-age, and no part of the Openbucks Service is directed to persons under 13, which is expressly limited to use by persons 18 years of age or above. IF YOU ARE UNDER 13 YEARS OF AGE, THEN PLEASE DO NOT USE OR ACCESS THE OPENBUCKS SERVICE AT ANY TIME OR IN ANY MANNER. If we learn that personally identifiable information of persons less than 13-years-of-age has been collected on the Openbucks Service without verifiable parental consent, then we will take the appropriate steps to delete this information. If you are a parent or guardian and discover that your child under the age of 13 has obtained an account on the Openbucks Service, then you may alert us at support@openbucks.com and request that we delete that child’s personal information from our systems.
+Protecting the privacy of young children is especially important. For that reason, we do not knowingly collect or maintain personally identifiable information from persons under 13 years-of-age, and no part of the Openbucks Service is directed to persons under 13, which is expressly limited to use by persons 18 years of age or above. IF YOU ARE UNDER 13 YEARS OF AGE, THEN PLEASE DO NOT USE OR ACCESS THE OPENBUCKS SERVICE AT ANY TIME OR IN ANY MANNER. If we learn that personally identifiable information of persons less than 13-years-of-age has been collected on the Openbucks Service without verifiable parental consent, then we will take the appropriate steps to delete this information. If you are a parent or guardian and discover that your child under the age of 13 has obtained an account on the Openbucks Service, then you may alert us at [support@openbucks.com](mailto:support@openbucks.com) and request that we delete that child’s personal information from our systems.
 
-## Changes to this Privacy Policy
+We may change this Privacy Policy from time to time. If we make material changes to this statement, we will notify you here, by email, or by means of a notice on our homepage. 
 
-We may change this Privacy Policy from time to time. If we make material changes to this statement, we will notify you here, by email, or by means of a notice on our homepage. Contact Us If you have questions or concerns about this Privacy Policy, please contact us at:
+## Contact Us 
+
+If you have questions or concerns about this Privacy Policy, please contact us at:
 
 Openbucks Corp.   
 2700 Augustine Dr, Suite 100  
 Santa Clara, CA 95054  
-(650) 492-6092
-
+(650) 492-6092  
 Email: [contact@openbucks.com](mailto:contact@openbucks.com)
