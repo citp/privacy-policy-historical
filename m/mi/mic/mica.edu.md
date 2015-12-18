@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mica.edu privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626213303id_/http%3A//www.mica.edu/About_MICA/Policies_and_Handbooks/Additional_Policies/Privacy_Statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mica.edu privacy policy that was archived on 2015-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151218170903id_/https%3A//www.mica.edu/About_MICA/Policies_and_Handbooks/Additional_Policies/Privacy_Statement.html) for the most accurate reproduction.*
 
-# Privacy Statement
+# Privacy Statement | MICA
 
 Maryland Institute College of Art respects your privacy and the privacy and security of the information you provide the College.  MICA and its service providers do not sell to entities outside the College your name, mailing address, telephone number, e-mail address, or other information you provide.  If a visitor chooses to share personal information with MICA by sending a message or filling out an electronic form with personal information, the College will use the information only for the purposes intended. This information may only be released if legally mandated by law enforcement investigators, required by court proceedings, or necessary to internal investigations of violations of College rules and regulations.
 
