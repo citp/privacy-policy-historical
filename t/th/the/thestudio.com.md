@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thestudio.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623001809id_/http%3A//www.thestudio.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thestudio.com privacy policy that was archived on 2015-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151218061416id_/http%3A//www.thestudio.com/privacy) for the most accurate reproduction.*
 
 # Privacy - The/Studio - Custom Patches Made To Order
 
