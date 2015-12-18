@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the orlandocitysc.com privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626122943id_/http%3A//www.mlssoccer.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the orlandocitysc.com privacy policy that was archived on 2015-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151218132238id_/http%3A//www.mlssoccer.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | MLSsoccer.com
 
@@ -97,7 +97,7 @@ The Web Site may make chat rooms, forums, blogs, message boards and other commun
 
 We may allow other companies (e.g., 24/7 Real Media) that are presenting advertisements or providing services on our pages to set and access cookies and other tracking technologies on your computer. These companies may collect information about your visits to the Web Site in order to measure and assess the effectiveness of online advertising and to provide and better target advertisements about goods and services of interest to you. While the information collected by these third parties from you while you are visiting our Web Site is not personally identifiable, some of these third parties may also combine such non-personally identifiable information with other information they have collected from various other sources, such as their own past online and/or offline purchase information and Web usage from other sites.Such other information may include Personally Identifiable Information, as well as demographic and behavioral information. Those companies’ use of cookies, and the information collected therethrough, will be covered by their own privacy policies, not ours.
 
-Examples of some of the third parties that collect information from users of this Web Site are ad networks, some of which are members of the Network Advertising Initiative, an industry group which offers a single location to opt out of its members’ cookies.For more information about these practices in general, we encourage you to visit the Network Advertising Initiative’s consumer web site, at <http://www.networkadvertising.org/consumer/>. 
+Examples of some of the third parties that collect information from users of this Web Site are ad networks, some of which are members of the Network Advertising Initiative, an industry group which offers a single location to opt out of its members’ cookies.For more information about these practices in general, we encourage you to visit the Network Advertising Initiative’s consumer web site, at http://www.networkadvertising.org/consumer/. 
 
 ### SHORT MESSAGE SERVICE 
 
@@ -113,7 +113,7 @@ The security of your Personally Identifiable Information is important to us.Your
 
 If you contact us by e-mail, via a messaging feature, or by a "contact us" or similar feature on the Web Site, you should be aware that your transmission might not be secure.A third party could view information you send by these methods in transit.We will have no liability for disclosure of your information due to errors or unauthorized acts of third parties during or after transmission.
 
-In the unlikely event that we believe that the security of any user’s Personally Identifiable Information in our possession or control may have been compromised, we may seek to notify such user of that development.If a notification is appropriate, we would endeavor to do so as promptly as possible under the circumstances, and, to the extent we have your e-mail address, we may notify you by e-mail.You consent to our use of e-mail as the means of such notification.However, if you do not want to be notified by e-mail for this purpose, please contact us at [privacy@mlssoccer.com](mailto:privacy@mlssoccer.com).
+In the unlikely event that we believe that the security of any user’s Personally Identifiable Information in our possession or control may have been compromised, we may seek to notify such user of that development.If a notification is appropriate, we would endeavor to do so as promptly as possible under the circumstances, and, to the extent we have your e-mail address, we may notify you by e-mail.You consent to our use of e-mail as the means of such notification.However, if you do not want to be notified by e-mail for this purpose, please contact us at privacy@mlssoccer.com.
 
 ### ACCESSING, REVIEWING, UPDATING OR CORRECTING YOUR PERSONALLY IDENTIFIABLE INFORMATION
 
@@ -152,6 +152,6 @@ Major League Soccer
 New York, NY 10018-0223  
 Attention: Privacy Administrator/Legal Department  
 Phone: 212-450-1200  
-E-mail: [privacy@mlssoccer.com](mailto:privacy@mlssoccer.com)
+E-mail: privacy@mlssoccer.com
 
 ### _Last Updated: April 29, 2013_
