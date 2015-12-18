@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the leesgardens.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607144307id_/http%3A//www.leesgardens.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leesgardens.com privacy policy that was archived on 2015-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151218122548id_/http%3A//www.leesgardens.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | leesgardens
+# Privacy Policy – leesgardens
 
 This Privacy Policy is in application to LeesGardens. This would impart how LeesGardens collects uses and shares the information from or regarding you as you visit a site, gives information on how advertisements are done, both on LeesGardens and other websites, and how information is collected based on interactions with the online ads. In addition to the Notice, depending on the relationship with LeesGardens, you may receive and be under the coverage of LeesGardens, other privacy disclosures within account opening documents and other privacy and security rules as applicable to the relevant affiliate.
 
