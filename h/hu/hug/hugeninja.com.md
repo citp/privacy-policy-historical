@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hugeninja.com privacy policy that was archived on 2015-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150507010119id_/http%3A//hugeninja.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hugeninja.com privacy policy that was archived on 2015-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151218023309id_/http%3A//hugeninja.com/privacy-policy) for the most accurate reproduction.*
 
 # HugeNinja - Privacy Policy
 
