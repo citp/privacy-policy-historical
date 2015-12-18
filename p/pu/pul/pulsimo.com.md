@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pulsimo.com privacy policy that was archived on 2015-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150525183128id_/http%3A//www.pulsimo.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pulsimo.com privacy policy that was archived on 2015-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151218231219id_/http%3A//www.pulsimo.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Pulsimo.com
 
