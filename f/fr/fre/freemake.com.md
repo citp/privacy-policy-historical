@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the freemake.com privacy policy that was archived on 2015-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150615063034id_/http%3A//www.freemake.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freemake.com privacy policy that was archived on 2015-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151218083510id_/http%3A//www.freemake.com/privacy_policy) for the most accurate reproduction.*
 
 # Freemake.com privacy policy
 
 ## Introduction
 
-We at Ellora Assets Corporation are committed to respecting your online privacy and recognize your need for appropriate protection and management of any personally identifiable information ("Personal Information") you share with us. Ellora Assets Corporation has established this Online Privacy Policy so that you can understand the care with which we intend to treat your Personal Information. For the purposes of this statement, "Personal Information" means any information that may be used to identify an individual, including, but not limited to, a first and last name, a home or other physical address and an email address or other contact information, whether at work or at home. 
+We at Freemake are committed to respecting your online privacy and recognize your need for appropriate protection and management of any personally identifiable information ("Personal Information") you share with us. Freemake has established this Online Privacy Policy so that you can understand the care with which we intend to treat your Personal Information. For the purposes of this statement, "Personal Information" means any information that may be used to identify an individual, including, but not limited to, a first and last name, a home or other physical address and an email address or other contact information, whether at work or at home. 
 
-The following discloses our information gathering and dissemination practices for Ellora Assets Corporation website [www.freemake.com](http://www.freemake.com/)
+The following discloses our information gathering and dissemination practices for Freemake website [www.freemake.com](http://www.freemake.com/)
 
 ## Information Collection
 
@@ -22,11 +22,11 @@ When a user submits personal information, it is kept on a private server not acc
 
 ## Use of personal information
 
-Ellora Assets Corporation software does not intend to transfer Personal Information without your consent to third parties who are not bound to act on Ellora Assets Corporation behalf unless such transfer is legally required. Similarly, it is against Ellora Assets Corporation policy to sell Personal Information collected online without consent. In short, Ellora Assets Corporation does not sell registrant information to lists. In some cases, Ellora Assets Corporation may use a visitor's personal information to understand overall patterns for site usage, to contact the user for clarification on inaccurate information, or to follow up on a customer service issue. Personal information may include name, address, telephone number, etc.
+Freemake software does not intend to transfer Personal Information without your consent to third parties who are not bound to act on Freemake behalf unless such transfer is legally required. Similarly, it is against Freemake policy to sell Personal Information collected online without consent. In short, Freemake does not sell registrant information to lists. In some cases, Freemake may use a visitor's personal information to understand overall patterns for site usage, to contact the user for clarification on inaccurate information, or to follow up on a customer service issue. Personal information may include name, address, telephone number, etc.
 
 ## Links to other sites
 
-This site contains links to other sites. Please be aware that Ellora Assets Corporation is not responsible for the privacy practices or the content of such Web Sites as well as any information they might collect, even though our name or logo may appear on those sites. We encourage you to be aware when you leave our site and to read the Privacy Statements of each and every Web site that you visit, as the privacy policy of those sites may differ from ours. Our Privacy Statement applies solely to [www.freemake.com](http://www.freemake.com/)
+This site contains links to other sites. Please be aware that Freemake is not responsible for the privacy practices or the content of such Web Sites as well as any information they might collect, even though our name or logo may appear on those sites. We encourage you to be aware when you leave our site and to read the Privacy Statements of each and every Web site that you visit, as the privacy policy of those sites may differ from ours. Our Privacy Statement applies solely to [www.freemake.com](http://www.freemake.com/)
 
 ## Third-party ads
 
@@ -44,10 +44,10 @@ If you use the Internet Explorer to surf the net: In the "Tools" menu, click "In
 
 ## Children's Privacy
 
-Ellora Assets Corporation website is not structured to attract children. Accordingly, we do not intend to collect Personal Information from anyone we know to be under 13 years of age.
+Freemake website is not structured to attract children. Accordingly, we do not intend to collect Personal Information from anyone we know to be under 13 years of age.
 
 ## Your Consent
 
-By using this Web site, you consent to the terms of our Online Privacy Policy and to Ellora Assets Corporation's processing of Personal Information for the purposes given above. Should the Online Privacy Policy change, we intend to take every reasonable step to ensure that these changes are brought to your attention by posting all changes prominently on our web site for a reasonable period of time.
+By using this Web site, you consent to the terms of our Online Privacy Policy and to Freemake's processing of Personal Information for the purposes given above. Should the Online Privacy Policy change, we intend to take every reasonable step to ensure that these changes are brought to your attention by posting all changes prominently on our web site for a reasonable period of time.
 
 If you have any comments or questions regarding our Online Privacy Policy, please [contact us](mailto:%22freemake@freemake.com%22). While we cannot guarantee privacy perfection, we will address any issue to the best of our abilities as soon as possible.
