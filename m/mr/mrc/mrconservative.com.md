@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mrconservative.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627191403id_/http%3A//mrconservative.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mrconservative.com privacy policy that was archived on 2015-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151219001644id_/http%3A//mrconservative.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | MrConservative.com | Mr. Conservative is the top website for news, political cartoons, breaking news, republican election news, conservative facts and commentary on political elections
 
