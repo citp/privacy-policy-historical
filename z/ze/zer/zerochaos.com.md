@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the zerochaos.com privacy policy that was archived on 2015-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150405023454id_/https%3A//www.zerochaos.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zerochaos.com privacy policy that was archived on 2015-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151218053219id_/http%3A//www.zerochaos.com/privacy.php) for the most accurate reproduction.*
 
-# ZEROCHAOS | Privacy
+# Privacy - ZeroChaos
 
 ZeroChaos is committed to maintaining the privacy and integrity of all information gathered for its users. We adhere to the following guidelines in the collection, storage, tracking, usage, and dissemination of your personal information.
 
