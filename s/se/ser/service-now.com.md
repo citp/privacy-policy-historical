@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the service-now.com privacy policy that was archived on 2015-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150625035739id_/http%3A//www.servicenow.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the service-now.com privacy policy that was archived on 2015-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151218141104id_/http%3A//www.servicenow.com/privacy-policy.html) for the most accurate reproduction.*
 
 # ServiceNow | Privacy Policy | IT Service Management Software, SaaS
 
@@ -6,11 +6,11 @@
 
 **Effective as of October 16, 2014**
 
-## **Purpose**
+##  **Purpose**
 
 ServiceNow, Inc. ("ServiceNow", "we" or "us") respects the privacy of its customers, business partners and visitors to its Website (as defined below).  The ServiceNow Privacy Policy (the "Policy") describes the information that we collect, how we obtain the information, and how we may use or disclose that information. This Policy also describes the measures we take to protect the security of the information and how individuals can contact us about our privacy practices.
 
-## **Scope**
+##  **Scope**
 
 This Policy only covers our privacy practices with respect to the collection, use, and disclosure of information obtained through the ServiceNow websites at www.servicenow.com, wiki.servicenow.com, community.servicenow.com, it3dot0.com and it3-0.com (collectively, our "Website") and in connection with the use of our hosted and mobile software applications (the "Subscription Service") and related support services ("Support Services"), as well as expert services, including professional services, training and certification (the "Expert Services") that we provide to Customers. In this Policy, the Subscription Service, Support Services and the Expert Services are collectively referred to as the "Service."
 
@@ -22,7 +22,7 @@ _"Customer"_  means any entity that purchases the Service.
 
 " _Visitor"_  means a visitor of the Website.
 
-## **Website**
+##  **Website**
 
 **How We Obtain Information**
 
@@ -61,7 +61,7 @@ We use “cookies” to help us improve our Website. A cookie is a small file st
 
 
 
-ServiceNow’s third parties may use JavaScript to collect IP addresses from our Visitors and our hosting provider may also collect server logs. Information gathered through these automated means may be associated with the personal information you previously submitted on our Website.
+ServiceNow’s third parties may use JavaScript to collect IP addresses from our Visitors and our hosting provider may also collect server logs. Information gathered through these automated means may be associated with the personal information you previously submitted on our Website. ****
 
 **How We Use Information Collected**
 
@@ -107,7 +107,7 @@ Your User Contributions (as defined in the [Website Terms of Use](http://www.se
 
 **International Transfer of Data**
 
-ServiceNow may store and process any information collected in connection with the Website in any country where we have facilities or in which we engage service providers. A list of ServiceNow’s global offices is available [here](http://info.servicenow.com/contact-us). By using our Website, you consent to the collection, storage, transfer and processing of information outside of your country of residence, including in the United States.
+ServiceNow may store and process any information collected in connection with the Website in any country where we have facilities or in which we engage service providers. A list of ServiceNow’s global offices is available [here](http://info.servicenow.com/contact-us). By using our Website, you consent to the collection, storage, transfer and processing of information outside of your country of residence, including in the United States. ****
 
 **Communication Preferences and Choices**
 
@@ -129,7 +129,7 @@ You should review this Policy carefully, because if you do not agree with our pr
 
 You may send us an e-mail at [privacy@servicenow.com](mailto:privacy@servicenow.com) to request access to, correct or delete any personal information that you have provided to us in connection with the Website. We will use reasonable efforts to respond to such requests for correction or updates to personal information.
 
-## **Services**
+##  **Services**
 
 **How We Obtain Information**
 
@@ -185,9 +185,9 @@ To access or correct any personal information Customer has provided as part of t
 
 **_Cookies_**
 
-Cookies must be enabled in order to use the Subscription Service. You may however, refuse to accept the “remember me” cookie, which will then require you to provide your username and password to log into the Subscription Service.
+Cookies must be enabled in order to use the Subscription Service. You may however, refuse to accept the “remember me” cookie, which will then require you to provide your username and password to log into the Subscription Service. __
 
-## **General**
+##  **General**
 
 **Safe Harbor Statement  **
 
@@ -215,10 +215,10 @@ ServiceNow, Inc
 
 Attn: Privacy Officer 
 
-3260 Jay Street
+2225 Lawson Lane
 
 Santa Clara, CA 95054
 
 All other feedback, comments, requests for technical support and other communications relating to the Website should be directed to: [marketing@servicenow.com](mailto:marketing@servicenow.com).
 
-This website is operated by ServiceNow, Inc., a Delaware corporation located at 3260 Jay Street, Santa Clara, CA 95054. 
+This website is operated by ServiceNow, Inc., a Delaware corporation located at 2225 Lawson Lane, Santa Clara, CA 95054. 
