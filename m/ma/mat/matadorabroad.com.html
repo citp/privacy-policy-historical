@@ -1,74 +1,97 @@
-<!--The following is the downloaded HTML source of the matadorabroad.com privacy policy that was archived on 2014-12-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141231025048id_/http%3A//matadornetwork.com/content/privacypolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the matadorabroad.com privacy policy that was archived on 2015-12-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151218100030id_/http%3A//matadornetwork.com/content/privacypolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en-US"><!--<![endif]--><head>
-	<!-- Load the Content Experiment JavaScript API client for the experiment -->
-	<script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-59BP9J"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript" async="async" src="http://widgets.outbrain.com/outbrain.js"></script>
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta charset="UTF-8">
 	<title>Privacy Policy - Matador Network</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-	<!--[if IE 8]>
-	<script type="text/javascript" src="http://matadornetwork.com/wp-content/themes/matador-network/js/respond.min.js"></script>
-	<![endif]-->
 	<link rel="Shortcut Icon" href="/favicon.ico" type="image/x-icon">
 	
-<!-- This site is optimized with the Yoast WordPress SEO plugin v1.5.3.3 - https://yoast.com/wordpress/plugins/seo/ -->
+<!-- This site is optimized with the Yoast SEO plugin v3.0.4 - https://yoast.com/wordpress/plugins/seo/ -->
 <link rel="canonical" href="http://matadornetwork.com/privacypolicy/">
-<!-- / Yoast WordPress SEO plugin. -->
+<!-- / Yoast SEO plugin. -->
 
-<link rel="stylesheet" id="mn-css" href="http://matadornetwork.com/wp-content/themes/matador-network/css/mn.css?ver=4.1" type="text/css" media="all">
-<script type="text/javascript" src="//code.jquery.com/jquery-1.11.1.min.js?ver=4.1"></script>
-<script type="text/javascript">
-var mfajaxurl = 'http://matadornetwork.com/wp-content/plugins/matador-framework/request/ajax.php';
-</script>
-<style type="text/css">
-.wp-polls .pollbar {
-	margin: 1px;
-	font-size: 6px;
-	line-height: 8px;
-	height: 8px;
-	background-image: url('http://matadornetwork.com/wp-content/plugins/wp-polls/images/default/pollbg.gif');
-	border: 1px solid #c8c8c8;
-}
-</style>
-	<meta property="og:site_name" content="Matador Network">
+<link rel="stylesheet" id="dashicons-css" href="http://matadornetwork.com/wp-includes/css/dashicons.min.css?ver=4.3.1" type="text/css" media="all">
+<link rel="stylesheet" id="mn-css" href="http://matadornetwork.com/wp-content/themes/matador-network/css/mn.css?ver=20150805" type="text/css" media="all">
+<script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-59BP9J"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="//code.jquery.com/jquery-1.11.1.min.js?ver=4.3.1"></script>
+<!-- MN Header HTML --><!-- END MN Header HTML -->	<script type="text/javascript">
+	var mnajaxurl = 'http://matadornetwork.com/wp-content/plugins/matadornetwork/mn-ajax.php';
+	</script>
+		<meta property="og:site_name" content="Matador Network">
 	<meta property="og:title" content="Privacy Policy">
 	<meta property="og:url" content="http://matadornetwork.com/privacypolicy/">
 	<meta property="og:description" content="">
     <meta property="og:image" content="http://matadornetwork.com/wp-includes/images/media/default.png">
 
 	<meta property="fb:app_id" content="393539850705752">
-<script type="text/javascript">
-var ajaxurl = 'https://matadornetwork.com/wp-admin/admin-ajax.php';
-var mnajaxurl = 'http://matadornetwork.com/wp-content/plugins/matadornetwork/mn-ajax.php';
-</script>
-<script type="text/javascript">
-	var _gaq = _gaq || [];
-	_gaq.push(['_setAccount', 'UA-1248498-8']);
-  _gaq.push(['_trackPageview']);
 
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-	ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+function allGa() {
+  var args = [].slice.call(arguments),
+      method = args[0];
+      ga = window.ga;
+
+  if(method.indexOf('.') > 0) {
+    // We only want to pass to 1 tracker
+    ga.apply(ga, arguments);
+  }
+  else {
+    // Grab all of the trackers
+    ga(function() {
+      var trackers = ga.getAll();      
+      for (var i=0; i<trackers.length; ++i) {
+        try {
+          var name = trackers[i].get('name'),
+              argsLocal = args.slice();
+
+          // Change the tracker name to the prefixed version
+          argsLocal[0] = name + '.' + argsLocal[0];
+
+          // Call the tracking call for this tracker
+          ga.apply(ga, argsLocal);
+        }
+        catch(e) {
+          console.error(e.msg);
+        }
+      }
+    });
+  }
+}
 </script>
-	<script type="text/javascript">
-	(function() {
-	var useSSL = 'https:' == document.location.protocol;
-	var src = (useSSL ? 'https:' : 'http:') +
-	'//www.googletagservices.com/tag/js/gpt.js';
-	document.write('<scr' + 'ipt src="' + src + '"></scr' + 'ipt>');
-	})();
-	</script><script src="https://www.googletagservices.com/tag/js/gpt.js"></script>
-	<script>
-		googletag.pubads().enableSingleRequest();
-	googletag.pubads().enableSyncRendering();
+<script type="text/javascript">
+	ga('create', 'UA-1248498-8', 'auto');  // Replace with your property ID.
+	allGa('send', 'pageview');
+</script>
+<script type="text/javascript">
+	  var googletag = googletag || {};
+	  googletag.cmd = googletag.cmd || [];
+	  (function() {
+	    var gads = document.createElement("script");
+	    gads.async = true;
+	    gads.type = "text/javascript";
+	    var useSSL = "https:" == document.location.protocol;
+	    gads.src = (useSSL ? "https:" : "http:") + "//www.googletagservices.com/tag/js/gpt.js";
+	    var node =document.getElementsByTagName("script")[0];
+	    node.parentNode.insertBefore(gads, node);
+	   })();
+</script>
+<script>
+	googletag.cmd.push(function() {
+		googletag.pubads().collapseEmptyDivs();
+	googletag.pubads().enableSingleRequest();
 	googletag.enableServices();
+ });
 	</script>
-		<meta property="twitter:account_id" content="16744558">
-<script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
+		<!--[if IE 8]>
+	<script type="text/javascript" src="http://matadornetwork.com/wp-content/themes/matador-network/js/respond.min.js"></script>
+	<![endif]-->
+	<meta property="twitter:account_id" content="16744558">
+<script async="" type="text/javascript" src="//matadornetwork.disqus.com/count.js"></script></head>
 <body class="page page-id-179867 page-template-default">
 <!-- Google Tag Manager -->
 <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-59BP9J"
@@ -81,26 +104,23 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <!-- End Google Tag Manager -->
 <div class="page-header-wrapper">
 	<div class="page-header container">
-		<a class="page-header-brand" href="http://matadornetwork.com">Matador Network</a>
+	    <button id="menu-toggle" class="page-header-menu-btn"></button>
+	    <a class="page-header-brand" href="http://matadornetwork.com">
+		    <picture>
+			    <source type="image/svg+xml" srcset="http://matadornetwork.com/wp-content/themes/matador-network/images/matador-logo.svg">
+			    <img src="http://matadornetwork.com/wp-content/themes/matador-network/images/matador-logo.png" alt="Matador Network" width="284" height="30">
+			</picture>
+		</a>
 		<button class="page-header-search-btn">Search</button>
 				<ul class="mn-social-menu menu">
 									<li class="facebook menu-item"><a href="https://www.facebook.com/matadornetwork" target="_blank">Facebook</a></li>
 												<li class="twitter menu-item"><a href="https://twitter.com/MatadorNetwork" target="_blank">Twitter</a></li>
-																	<li class="google-plus menu-item"><a href="https://plus.google.com/+MatadorNetworkTravel" target="_blank">Google Plus</a></li>
+												<li class="pinterest menu-item"><a href="https://www.pinterest.com/matadornetwork" target="_blank">Pinterest</a></li>
+												<li class="google-plus menu-item"><a href="https://plus.google.com/+MatadorNetworkTravel" target="_blank">Google Plus</a></li>
 												<li class="instagram menu-item"><a href="http://instagram.com/matadornetwork" target="_blank">Instagram</a></li>
 												<li class="youtube menu-item"><a href="http://www.youtube.com/user/MATADORnetwork?sub_confirmation=1" target="_blank">Youtube</a></li>
 							</ul>
-				<ul id="menu-header-main" class="page-header-main-menu menu clearfix"><li id="menu-item-124366" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-124366"><a href="#">Resources</a>
-<ul class="sub-menu">
-	<li id="menu-item-113968" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-113968"><a href="/content/travel-insurance">Travel Insurance</a></li>
-	<li id="menu-item-169353" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-169353"><a href="/content/contributors-and-job-applicants/">Contribute</a></li>
-	<li id="menu-item-113967" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-113967"><a href="/destinations/">Destinations</a></li>
-	<li id="menu-item-113966" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-113966"><a href="/topics/">Topics</a></li>
-	<li id="menu-item-339656" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-339656"><a href="/content/about">About Matador</a></li>
-</ul>
-</li>
-<li id="menu-item-253949" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-253949"><a href="http://matadoru.com/">University</a></li>
-</ul>	</div>
+					</div>
 </div>
 <div class="page-section container">
 	<div class="row">
@@ -209,20 +229,38 @@ New York, NY 10003-1502<br>
 <li><a href="/content/about/contact">Contact</a></li>
 </ul></div>
 		</div><div id="text-24" class="widget_text widget"><h3>Become a Contributor</h3>			<div class="textwidget"><ul>
-<li><a href="/content/contributors-and-job-applicants">Contributor Guidelines</a></li><li><a href="/content/contributors-and-job-applicants/submit">Submit Your Article</a></li>
-<li><a href="/content/contributors-and-job-applicants/submit-video/">Submit Your Video</a></li>
+<li><a href="/content/contributors-and-job-applicants">Contributor Guidelines</a></li><li><a href="/content/contributors-and-job-applicants/submit">Submit Your Work</a></li>
 <li><a href="/content/contributors-and-job-applicants/authors-rights">Author's Rights</a></li>
-
-<li><a href="/content/contributors-and-job-applicants/network-overview/&#10;">Network Overview</a></li>
-
-
 </ul></div>
-		</div><div id="text-25" class="widget_text widget"><h3>Projects</h3>			<div class="textwidget"><a href="http://matadoru.com">MatadorU</a> - Learn travel writing and photography.<br><br>
-
-<a href="/content/breaking-free/">Breaking Free</a> - New web-series about expats living abroad and following their dreams.</div>
+		</div><div id="text-25" class="widget_text widget"><h3>Education</h3>			<div class="textwidget"><a href="http://matadoru.com">MatadorU</a> - Learn travel writing, photography, and filmmaking.<br><br></div>
 		</div>		</div>
 	</div>
 </div>
+    <div id="sidebar-wrapper" class="sidebar-wrapper">
+        <div class="sidebar-nav">
+            <a id="menu-close" href="#" class="btn btn-default btn-lg pull-right toggle close-btn mn-remove"></a>
+            				<div id="nav_menu-9" class="widget_nav_menu widget"><div class="menu-hamburger-container"><ul id="menu-hamburger" class="menu"><li id="menu-item-360855" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-360855"><a href="http://matadoru.com">University</a></li>
+<li id="menu-item-360877" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-360877"><a href="/content/contributors-and-job-applicants/">Contribute</a></li>
+<li id="menu-item-360857" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-360857"><a href="/topics/">Topics</a>
+<ul class="sub-menu">
+	<li id="menu-item-360858" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-360858"><a href="/topics/trip-planning/family-kids/">Family &amp; Kids</a></li>
+	<li id="menu-item-360859" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-360859"><a href="/topics/trip-planning/luxury-high/">Luxury &amp; High End</a></li>
+	<li id="menu-item-360860" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-360860"><a href="/topics/sports-adventure/">Sports &amp; Adventure</a></li>
+	<li id="menu-item-360861" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-360861"><a href="/topics/culture-religion/">Culture &amp; Religion</a></li>
+	<li id="menu-item-360862" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-360862"><a href="/topics/language-study-abroad/">Language &amp; Study</a></li>
+	<li id="menu-item-360863" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-360863"><a href="/topics/trip-planning/">Trip Planning</a></li>
+</ul>
+</li>
+<li id="menu-item-360864" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-360864"><a href="/destinations/">Destinations</a></li>
+<li id="menu-item-360878" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-360878"><a href="/content/travel-insurance/">Travel Insurance</a></li>
+<li id="menu-item-360879" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-360879"><a href="/content/about/">About Matador</a></li>
+<li id="menu-item-360880" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-360880"><a href="/content/about/contact/">Contact</a></li>
+</ul></div></div>			    	</div>
+	</div>
+
+	<div id="menu-close-background" class="menu-close-background">
+	</div>
+
 	<div class="footer-wrapper">
 		<div class="footer container">
 			<div class="row">
@@ -234,25 +272,37 @@ New York, NY 10003-1502<br>
 				<div class="footer-nav col-sm-3">
 									<div id="matador_traverse_widget-14" class="matador_traverse_widget widget">	<div class="matador-traverse--small matador-traverse">
 		<h3>Subscribe to Matador</h3>
-		<div class="call-out">The best travel articles each week. No spam.</div>
-		<form action="http://MatadorNetwork.us7.list-manage2.com/subscribe/post?u=7d1b4f7cf931b2f6854bdacbd&amp;id=c4e20459d5" method="post" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate="">
+		<form action="http://MatadorNetwork.us7.list-manage2.com/subscribe/post?u=7d1b4f7cf931b2f6854bdacbd&amp;id=c4e20459d5" method="post" name="mc-embedded-subscribe-form" class="validate" target="_blank" id="newsletter-signup-widget-small-bottom" novalidate="">
 			<input type="hidden" name="MMERGE1" value="Weekly">
+			<div>
+				<input type="checkbox" value="" name="agree-terms" class="required below-content-email" id="small-widget-email-terms"> <label for="small-widget-email-terms">I agree to the <a href="http://matadornetwork.com/content/tos/" target="_blank">Terms of Service</a></label>
+			</div>
 			<div class="af-element">
 				<input type="email" value="" name="EMAIL" class="required email sidebar-email" placeholder="Enter Your Email">
 			</div>
 			<div class="af-element buttonContainer">
 				<div style="position: absolute; left: -5000px;"><input type="text" name="b_7d1b4f7cf931b2f6854bdacbd_c4e20459d5" value=""></div>
-				<input type="submit" value="I'm in!" name="subscribe" style="float: none;" data-box-type="sidebar">
+				<input type="submit" value="I'm in!" name="subscribe" class="traverse-submit" style="float: none;" data-box-type="sidebar">
 			</div>
 		</form>
-		<div class="facebook">
-			<iframe src="http://www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Ffacebook.com%2Fmatadornetwork&amp;width=292&amp;colorscheme=light&amp;show_faces=false&amp;stream=false&amp;header=false&amp;height=62" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:292px; height:62px;" allowtransparency="true"></iframe>
-		</div>
 	</div>
+	<script type="text/javascript">
+		jQuery("document").ready(function($) {
+			$("#newsletter-signup-widget-small-bottom").submit(function(e) {
+				if (!$("#small-widget-email-terms").prop("checked")) {
+					e.preventDefault();
+					alert("In order to sign up for our newsletter, you are required to agree to our Terms of Service");
+					return false;
+				}
+			});
+		});
+	</script>
+
 	</div><div id="mn_social_menu-2" class="widget_mn_social_menu widget"><h3>Follow Matador</h3>		<ul class="mn-social-menu menu">
 									<li class="facebook menu-item"><a href="https://www.facebook.com/matadornetwork" target="_blank">Facebook</a></li>
 												<li class="twitter menu-item"><a href="https://twitter.com/MatadorNetwork" target="_blank">Twitter</a></li>
-																	<li class="google-plus menu-item"><a href="https://plus.google.com/+MatadorNetworkTravel" target="_blank">Google Plus</a></li>
+												<li class="pinterest menu-item"><a href="https://www.pinterest.com/matadornetwork" target="_blank">Pinterest</a></li>
+												<li class="google-plus menu-item"><a href="https://plus.google.com/+MatadorNetworkTravel" target="_blank">Google Plus</a></li>
 												<li class="instagram menu-item"><a href="http://instagram.com/matadornetwork" target="_blank">Instagram</a></li>
 												<li class="youtube menu-item"><a href="http://www.youtube.com/user/MATADORnetwork?sub_confirmation=1" target="_blank">Youtube</a></li>
 							</ul>
@@ -268,12 +318,12 @@ New York, NY 10003-1502<br>
 </ul></div></div>								</div>
 				<div class="footer-nav col-sm-3">
 									<div id="mn_instagram-2" class="widget_mn_instagram widget"><h3>#travelstoke Feed</h3>		<div class="mn-instagram-post-list">
-									<a href="http://instagram.com/p/xQOQJGnFRP/" target="_blank"><img src="http://scontent-b.cdninstagram.com/hphotos-xfa1/t51.2885-15/10865111_1530015983919485_938130963_s.jpg" width="150" height="150" alt=""></a>
-												<a href="http://instagram.com/p/xQOPyYyzHt/" target="_blank"><img src="http://scontent-a.cdninstagram.com/hphotos-xaf1/t51.2885-15/10890739_1058226884203115_306447090_s.jpg" width="150" height="150" alt=""></a>
-												<a href="http://instagram.com/p/xP_6ZkQQ9v/" target="_blank"><img src="http://scontent-a.cdninstagram.com/hphotos-xaf1/t51.2885-15/10903429_584674748331621_808334683_s.jpg" width="150" height="150" alt=""></a>
-												<a href="http://instagram.com/p/xQNHPeSk9o/" target="_blank"><img src="http://scontent-a.cdninstagram.com/hphotos-xaf1/t51.2885-15/10890831_1417234671902147_245636678_s.jpg" width="150" height="150" alt=""></a>
-												<a href="http://instagram.com/p/xQN1FRlWka/" target="_blank"><img src="http://scontent-a.cdninstagram.com/hphotos-xpa1/t51.2885-15/924083_1030885503605306_804446775_s.jpg" width="150" height="150" alt=""></a>
-												<a href="http://instagram.com/p/xQNrugA9H0/" target="_blank"><img src="http://scontent-a.cdninstagram.com/hphotos-xaf1/t51.2885-15/10903776_747747438640508_759895057_s.jpg" width="150" height="150" alt=""></a>
+									<a href="https://www.instagram.com/p/_bO8T1MKyI/" target="_blank"><img src="https://scontent.cdninstagram.com/hphotos-xaf1/t51.2885-15/s150x150/e35/12132678_440409229487152_1424543911_n.jpg" width="150" height="150" alt=""></a>
+												<a href="https://www.instagram.com/p/_bO04fHZIo/" target="_blank"><img src="https://scontent.cdninstagram.com/hphotos-xpa1/t51.2885-15/s150x150/e35/c166.0.667.667/12362221_174659549555132_797702705_n.jpg" width="150" height="150" alt=""></a>
+												<a href="https://www.instagram.com/p/_bOl8YGbFb/" target="_blank"><img src="https://scontent.cdninstagram.com/hphotos-xfa1/t51.2885-15/s150x150/e35/12362475_535973239893915_1578830528_n.jpg" width="150" height="150" alt=""></a>
+												<a href="https://www.instagram.com/p/_bOk9SLjUC/" target="_blank"><img src="https://scontent.cdninstagram.com/hphotos-xta1/t51.2885-15/s150x150/e35/c0.0.1079.1079/12331518_1037312989665890_2078520931_n.jpg" width="150" height="150" alt=""></a>
+												<a href="https://www.instagram.com/p/_bOkH8wd8X/" target="_blank"><img src="https://scontent.cdninstagram.com/hphotos-xta1/t51.2885-15/s150x150/e35/c0.80.640.640/12345918_451089221742515_381089811_n.jpg" width="150" height="150" alt=""></a>
+												<a href="https://www.instagram.com/p/_bOhgDB-mB/" target="_blank"><img src="https://scontent.cdninstagram.com/hphotos-xft1/t51.2885-15/s150x150/e35/c0.135.1080.1080/10561132_496004563936656_613608818_n.jpg" width="150" height="150" alt=""></a>
 							</div>
 		</div>								</div>
 			</div>
@@ -283,7 +333,7 @@ New York, NY 10003-1502<br>
 		<div class="footer-legal container">
 			<div class="row">
 				<div class="footer-copyright col-sm-4">
-					Matador Network © 2006-2014				</div>
+					Matador Network © 2006-2015				</div>
 				<div class="footer-legal-nav col-sm-8">
 					<ul id="menu-footer-legal" class="footer-legal-menu menu clearfix"><li id="menu-item-248886" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-248886"><a href="/content/tos">Terms of Service</a></li>
 <li id="menu-item-248887" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item menu-item-248887"><a href="/content/privacypolicy">Privacy Policy</a></li>
@@ -291,11 +341,12 @@ New York, NY 10003-1502<br>
 			</div>
 		</div>
 	</div>
-	<div class="mega-search" style="display:none">
+<script type="text/html" id="mega-search-html">
+	<div class="mega-search--overlay mega-search" style="display:none">
 		<div class="mega-search-inner">
 			<form class="mega-search-form">
 				<div class="autocomplete-wrapper container">
-					<input name="search-query" type="text" placeholder="Search">
+					<input name="search-query" type="text" placeholder="Search" />
 				</div>
 			</form>
 			<div class="mega-search-results">
@@ -306,55 +357,39 @@ New York, NY 10003-1502<br>
 			</div>
 		</div>
 	</div>
-<script type="text/javascript">
-jQuery(document).ready(function($) {
-	var megasearch = $().mnmegasearch({ 
-		serviceUrl: mnajaxurl,
-		searchParams: { component:'megabar', 'action':'megabar_search_posts' }
-	});
-
-	var autocomplete = $('.mega-search-form input').autocomplete({
-		appendTo: '.mega-search-form .autocomplete-wrapper',
-		serviceUrl: mnajaxurl,
-		params: { component:'autocomplete', action:'autocomplete_get_destinations' },
-		onSelect: function(suggestion) {
-			megasearch.search(suggestion.data);
-		}
-	});
-
-	$('.page-header-search-btn').click(function(e) {
-		megasearch.open();
-	});
-});
 </script>
-<script type="text/javascript">
-adroll_adv_id = "E4V3AYVWEBAP7EZUIG3AF4";
-adroll_pix_id = "RBIJ5GSRAVBANDWXQQ7BQ7";
-(function () {
-var oldonload = window.onload;
-window.onload = function(){
-   __adroll_loaded=true;
-   var scr = document.createElement("script");
-   var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com");
-   scr.setAttribute('async', 'true');
-   scr.type = "text/javascript";
-   scr.src = host + "/j/roundtrip.js";
-   ((document.getElementsByTagName('head') || [null])[0] ||
-    document.getElementsByTagName('script')[0].parentNode).appendChild(scr);
-   if(oldonload){oldonload()}};
-}());
-</script>
-<script type="text/javascript">
+        <script type="text/javascript">
+        // <![CDATA[
+        var disqus_shortname = 'matadornetwork';
+        (function () {
+            var nodes = document.getElementsByTagName('span');
+            for (var i = 0, url; i < nodes.length; i++) {
+                if (nodes[i].className.indexOf('dsq-postid') != -1) {
+                    nodes[i].parentNode.setAttribute('data-disqus-identifier', nodes[i].getAttribute('data-dsqidentifier'));
+                    url = nodes[i].parentNode.href.split('#', 1);
+                    if (url.length == 1) { url = url[0]; }
+                    else { url = url[1]; }
+                    nodes[i].parentNode.href = url + '#disqus_thread';
+                }
+            }
+            var s = document.createElement('script'); 
+            s.async = true;
+            s.type = 'text/javascript';
+            s.src = '//' + disqus_shortname + '.disqus.com/count.js';
+            (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
+        }());
+        // ]]>
+        </script>
+        <script type="text/javascript">
 jQuery(document).ready(function($) {
 	$('.lazy').lazyload({ threshold : 400 });
 });
 </script>
-<script src="http://popup.kawo.com/matador.js" type="text/javascript"></script>
 	<script type="text/javascript">
 	jQuery(document).ready(function($) {
 		$(".traverse-submit").click(function(e) {
 			e.preventDefault();
-			if (_gaq && _gaq.push) _gaq.push(['_trackEvent', 'Traverse', 'User Subscribed '  + $(this).data("box-type"), $('.'+$(this).data("box-type")+'-email').val() ]);
+			allGa('send', 'event', 'Traverse', 'User Subscribed ' + $(this).data("box-type"), $('.'+$(this).data("box-type")+'-email').val(), 0, {'nonInteraction': 1});
 			var traverse_form = $(this).closest("form");
 			setTimeout(function() {
 				$(traverse_form).submit();
@@ -363,14 +398,11 @@ jQuery(document).ready(function($) {
 
 	});
 	</script>
-	<link rel="stylesheet" id="slickquiz_css-css" href="http://matadornetwork.com/wp-content/plugins/slickquiz/slickquiz/css/slickQuiz.css?ver=4.1" type="text/css" media="all">
-<link rel="stylesheet" id="slickquiz_front_css-css" href="http://matadornetwork.com/wp-content/plugins/slickquiz/css/front.css?ver=4.1" type="text/css" media="all">
-<script type="text/javascript" src="http://matadornetwork.com/wp-content/themes/matador-network/js/mn.js?ver=4.1"></script>
-<script type="text/javascript" src="http://matadornetwork.com/wp-content/plugins/slickquiz/slickquiz/js/slickQuiz.js?ver=4.1"></script>
-<script type="text/javascript" src="http://platform.twitter.com/widgets.js?ver=4.1"></script>
+	<script type="text/javascript" src="http://matadornetwork.com/wp-content/themes/matador-network/js/mn.js?ver=20150805"></script>
 
 
-<!-- Dynamic page generated in 0.201 seconds. -->
-<!-- Cached page generated by WP-Super-Cache on 2014-12-30 18:31:15 -->
+
+<!-- Dynamic page generated in 0.361 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2015-12-18 00:24:04 -->
 
 <!-- super cache --></body></html>
