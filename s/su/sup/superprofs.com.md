@@ -1,30 +1,30 @@
-> *The following text is extracted and transformed from the superprofs.com privacy policy that was archived on 2015-02-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150224234915id_/http%3A//superprofs.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the superprofs.com privacy policy that was archived on 2015-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151218182559id_/http%3A//superprofs.com/company/privacy-policy) for the most accurate reproduction.*
 
-# Online Classes - From India's Best Professors | Privacy Policy
+# About SuperProfs – Privacy
 
-WHAT INFORMATION THIS PRIVACY POLICY COVERS
+#### WHAT INFORMATION THIS PRIVACY POLICY COVERS
 
-Some of our Site's functionality can be used without revealing any personal information, though for features or services related to the Online Course, personal information is required. If you do not use these specific features or services on the Site, then the only information we collect will be "Non-Personal Information" (i.e., information that cannot be used to identify you). Non-Personal Information includes information such as the web pages that you have viewed. In order to access certain features and benefits on our Site, you may need to submit "Personally Identifiable Information" (i.e., information that can be used to identify you). Personally Identifiable Information can include information such as your name and email address, among other things. You are responsible for ensuring the accuracy of the Personally Identifiable Information you submit to SuperProfs. Inaccurate information may affect your ability to use the Site, the information you receive when using the Site, and our ability to contact you. For example, your email address should be kept current because that is one of the primary manners in which we communicate with you.
+Some of our Site’s functionality can be used without revealing any personal information, though for features or services related to the Online Course, personal information is required. If you do not use these specific features or services on the Site, then the only information we collect will be “Non-Personal Information” (i.e., information that cannot be used to identify you). Non-Personal Information includes information such as the web pages that you have viewed. In order to access certain features and benefits on our Site, you may need to submit “Personally Identifiable Information” (i.e., information that can be used to identify you). Personally Identifiable Information can include information such as your name and email address, among other things. You are responsible for ensuring the accuracy of the Personally Identifiable Information you submit to SuperProfs. Inaccurate information may affect your ability to use the Site, the information you receive when using the Site, and our ability to contact you. For example, your email address should be kept current because that is one of the primary manners in which we communicate with you.
 
-WHAT YOU CONSENT TO BY USING OUR SITE
+#### WHAT YOU CONSENT TO BY USING OUR SITE
 
-Please understand that by submitting any Personally Identifiable Information, including but not limited to your e-mail id and phone number, to us, you consent and authorize us, our affiliates & our associate partners to contact you via email or phone call or sms and offer you our services,imparting product knowledge, offer promotional offers running on website & offers offered by the associated third parties etc. And Irrespective of the fact if also you have registered yourself under DND or DNC or NCPR service, you still authorize us to give you a call from SuperProfs.com & associate partners for the above mentioned purposes. You further authorize us to send sms/email alerts to you for your login details and any other service requirements or some advertising messages/emails from us. 
+Please understand that by submitting any Personally Identifiable Information, including but not limited to your e-mail id and phone number, to us, you consent and authorize us, our affiliates & our associate partners to contact you via email or phone call or sms and offer you our services,imparting product knowledge, offer promotional offers running on website & offers offered by the associated third parties etc. And Irrespective of the fact if also you have registered yourself under DND or DNC or NCPR service, you still authorize us to give you a call from SuperProfs.com & associate partners for the above mentioned purposes. You further authorize us to send sms/email alerts to you for your login details and any other service requirements or some advertising messages/emails from us.
 
-Please note that if you do not agree with these terms, then please do not provide any Personally Identifiable Information to us. If you refuse or withdraw your consent, or if you choose not to provide us with any required Personally Identifiable Information, we may not be able to provide with the services that can be offered on our Site. 
+Please note that if you do not agree with these terms, then please do not provide any Personally Identifiable Information to us. If you refuse or withdraw your consent, or if you choose not to provide us with any required Personally Identifiable Information, we may not be able to provide with the services that can be offered on our Site.
 
-WHAT INFORMATION WE COLLECT
+#### WHAT INFORMATION WE COLLECT
 
 We gather two types of information about users through the Site:
 
-Non-Personal Information. When users come to our Site, we may track, collect and aggregate Non-Personal Information indicating, among other things, which pages of our Site were visited, the order in which they were visited, when they were visited, and which hyperlinks were "clicked." We also collect information from the URLs from which you linked to our Site. Collecting such information may involve logging the IP address, operating system and browser software used by each user of the Site. Although such information is not Personally Identifiable Information, we may be able to determine from an IP address a user's Internet Service Provider and the geographic location of his or her point of connectivity.
+Non-Personal Information. When users come to our Site, we may track, collect and aggregate Non-Personal Information indicating, among other things, which pages of our Site were visited, the order in which they were visited, when they were visited, and which hyperlinks were “clicked.” We also collect information from the URLs from which you linked to our Site. Collecting such information may involve logging the IP address, operating system and browser software used by each user of the Site. Although such information is not Personally Identifiable Information, we may be able to determine from an IP address a user’s Internet Service Provider and the geographic location of his or her point of connectivity.
 
-You should be able to control how and whether cookies will be accepted by your web browser. Most browsers offer instructions on how to reset the browser to reject cookies in the "Help" section of the toolbar. If you reject our cookies, many functions and conveniences of this Site may not work properly.
+You should be able to control how and whether cookies will be accepted by your web browser. Most browsers offer instructions on how to reset the browser to reject cookies in the “Help” section of the toolbar. If you reject our cookies, many functions and conveniences of this Site may not work properly.
 
 Personally Identifiable Information. We collect Personally Identifiable Information that you provide to us when you sign-up for email updates or Online Courses, participate in our public forums, send us email messages, and/or participate in Online Courses or other services on our Site. Among other things, we may use the Personally Identifiable Information that you provide to respond to your questions, provide you the specific course and/or services you select, send you updates about Online Courses offered by SuperProfs or other SuperProfs events, and send you email messages about Site maintenance or updates, among other things.
 
 Updates. SuperProfs may offer you the ability to receive updates either via email or by posting on portions of the Site only accessible to registered users. In order to subscribe to these services, you may be required to provide us with Personally Identifiable Information such as your name and email address.
 
-Forums. SuperProfs may offer public forums from time to time (the "Forums") where you can share comments and thoughts. In order to participate in the Forums, you may be required to register with us and/or provide us with Personally Identifiable Information such as your name and email address. Personally Identifiable Information shall not include any information posted or sent by or to you via any public Forum.
+Forums. SuperProfs may offer public forums from time to time (the “Forums”) where you can share comments and thoughts. In order to participate in the Forums, you may be required to register with us and/or provide us with Personally Identifiable Information such as your name and email address. Personally Identifiable Information shall not include any information posted or sent by or to you via any public Forum.
 
 Participation in Online Courses. From time to time, SuperProfs may offer you the opportunity to participate in an Online Course on or through the Site. If you desire to participate in a course, you will be asked to provide us with certain information necessary to conduct such a course. This information may include, among other things, your name and email address.
 
@@ -36,7 +36,7 @@ Third Party Sites. We may receive Personally Identifiable Information when you a
 
 Partner sites providing Online Course related tools and services to SuperProfs users may collect nonfinancial individual level user data regarding the individual’s use of that partner site while engaged with such Online Course related activities, and the partner sites may share that data with SuperProfs for the purpose of improving SuperProfs’s services, the partner site’s services, and the individual’s education experience. This data includes information such as the amount of time spent on the partner site and pages viewed.
 
-HOW WE USE THE INFORMATION
+#### HOW WE USE THE INFORMATION
 
 Please take some time to familiarize yourself with the different ways SuperProfs uses the information that we gather.
 
@@ -64,15 +64,15 @@ Disclosure to Acquirers. SuperProfs may disclose and/or transfer your Personally
 
 In addition to above, SuperProfs, at its sole discretion, may use or share video and/or audio interaction between instructor & user(s) or between users, for or with other users of the system including the Instructors or the participating institutes, or even publicly for purposes it may deem fit.
 
-EXTERNAL LINKS
+#### EXTERNAL LINKS
 
-For your convenience we may provide links to sites operated by organizations other than SuperProfs ("Third Party Sites") that we believe may be of interest to you. We do not disclose your Personally Identifiable Information to these Third Party Sites without obtaining your consent. We do not endorse and are not responsible for the privacy practices of these Third Party Sites. If you choose to click on a link to one of these Third Party Sites, you should review the privacy policy posted on the other site to understand how that Third Party Site collects and uses your Personally Identifiable Information.
+For your convenience we may provide links to sites operated by organizations other than SuperProfs (“Third Party Sites”) that we believe may be of interest to you. We do not disclose your Personally Identifiable Information to these Third Party Sites without obtaining your consent. We do not endorse and are not responsible for the privacy practices of these Third Party Sites. If you choose to click on a link to one of these Third Party Sites, you should review the privacy policy posted on the other site to understand how that Third Party Site collects and uses your Personally Identifiable Information.
 
-CONFIDENTIALITY & SECURITY OF PERSONALLY IDENTIFIABLE INFORMATION
+#### CONFIDENTIALITY & SECURITY OF PERSONALLY IDENTIFIABLE INFORMATION
 
 We consider the confidentiality and security of your information to be of the utmost importance. We will use commercially reasonable efforts to keep your Personally Identifiable Information private and will not share it with third parties, except as otherwise provided in this Privacy Policy, or unless we have good faith belief that such disclosure is necessary in special cases, such as a physical threat to you or others. SuperProfs takes reasonable measures to protect your Personally Identifiable Information from disclosure to or access by third parties. Please note that we do not guarantee the security of Personally Identifiable Information, and there is some risk that an unauthorized third party may find a way to circumvent our security systems or that transmission of your information over the Internet will be intercepted.
 
-UPDATING OR DELETING YOUR PERSONALLY IDENTIFIABLE INFORMATION
+#### UPDATING OR DELETING YOUR PERSONALLY IDENTIFIABLE INFORMATION
 
 We maintain a procedure in order to help you confirm that your Personally Identifiable Information remains correct and up-to-date or choose whether or not you wish to receive material from us or some of our partners.
 
@@ -80,15 +80,15 @@ You may also update your Personally Identifiable Information by logging into the
 
 If you have any privacy-related questions or unresolved problems, you may contact us via care@superprofs.com.
 
-CHANGING OUR PRIVACY POLICY
+#### CHANGING OUR PRIVACY POLICY
 
-Please note that we review our privacy practices from time to time, and that these practices are subject to change. Any change, update, or modification will be effective immediately upon posting on our Site. We will notify you of any material change to this Privacy Policy by posting a notice on our Site's homepage for a reasonable period of time following such update, and by changing the effective date (located at the bottom of this page). Be sure to return to this page periodically to ensure familiarity with the most current version of this Privacy Policy.
+Please note that we review our privacy practices from time to time, and that these practices are subject to change. Any change, update, or modification will be effective immediately upon posting on our Site. We will notify you of any material change to this Privacy Policy by posting a notice on our Site’s homepage for a reasonable period of time following such update, and by changing the effective date (located at the bottom of this page). Be sure to return to this page periodically to ensure familiarity with the most current version of this Privacy Policy.
 
-PROTECTING CHILDREN'S PRIVACY
+PROTECTING CHILDREN’S PRIVACY
 
 SuperProfs strongly believes in protecting the privacy of children. In line with this belief, we do not knowingly collect or maintain Personally Identifiable Information on our Site from persons under 13 years of age, and no part of our Site is directed to persons under 13 years of age. If you are under 13 years of age, then please do not use or access this Site at any time or in any manner. We will take appropriate steps to delete any Personally Identifiable Information of persons less than 13 years of age that has been collected on our Site without verified parental consent upon learning of the existence of such Personally Identifiable Information.
 
-Honor Code
+#### HONOR CODE
 
 All students participating in the class must agree to abide by the following code of conduct:
 
