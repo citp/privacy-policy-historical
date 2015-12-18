@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the worldofwatches.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608222815id_/http%3A//www.worldofwatches.com/cust/privacypolicy.asp%3Fd%3D0) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldofwatches.com privacy policy that was archived on 2015-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151218141841id_/http%3A//www.worldofwatches.com/privacy-policy) for the most accurate reproduction.*
 
-# Discount Watches | Men's, Women's Brand Name Watches | WorldofWatches | US
+# Privacy Policy | WorldofWatches | US
 
 **Last Updated: July 16, 2008**
 
@@ -10,13 +10,13 @@
 
 This privacy statement discloses the privacy practices for WorldofWatches.com. We are committed to protecting your privacy and encourage you to periodically review this page to be informed of how we protect the information you disclose to us. 
 
-If you believe that WorldofWatches.com is not abiding by our posted privacy policy, please contact us at 1-866-961-TIME(8463) or email us at customerservice@WorldofWatches.com 
+If you believe that WorldofWatches.com is not abiding by our posted privacy policy, please contact us at 1-866-961-TIME(8463) or 954-983-2181 or email us at customerservice@WorldofWatches.com 
 
 **Information Collection and Use**  
 WorldofWatches.com collects information from our users at several different points on our website.
 
 **My Account**  
-When you make a purchase on our site, you will have the option to create an account. By creating an account, the system will remember your personal and purchase information and the checkout process on future purchases will be fast, easy and [secure](https://web.archive.org/web/20150608222815id_/http%3A//www.worldofwatches.com/cust/secure.asp?d=0). At your option, your account can also store important dates such as birthdays or anniversaries and allow you to subscribe to receive promotional emails and announcements from us (see "Electronic Mailings" below).
+When you make a purchase on our site, you will have the option to create an account. By creating an account, the system will remember your personal and purchase information and the checkout process on future purchases will be fast, easy and [secure](https://web.archive.org/web/20151218141841id_/http%3A//cust/secure.asp?d=0%3C%=stringGen%%3E). At your option, your account can also store important dates such as birthdays or anniversaries and allow you to subscribe to receive promotional emails and announcements from us (see "Electronic Mailings" below).
 
 Creating an account is also fast and easy: simply enter your personal information once and select your very own username and password. Then during checkout on your next purchase, just login and the system will take care of the rest. At all times, your personal information is accessible to you to review, edit, or update as necessary by clicking on the "My Account" link. 
 
@@ -59,8 +59,6 @@ Our customers can use the special request page to inquire about products that th
 **Security**  
 WorldofWatches.com takes precautions to protect our users' information. When our registration/order form asks users to enter sensitive information (such as credit card number and/or social security number), that information is encrypted and is protected with the Secure Socket Layers (SSLs)encryption software. While on a secure page, such as our order form, a lock icon appears on the bottom of your Web browser. When you are not on a secure page, no lock icon will appear. To learn more about SSL, click here. In addition, the servers that we store personally identifiable information on are kept in a secure environment under restricted access.
 
-If you have any questions about the security at our website, send us an [Online Inquiry](https://web.archive.org/web/20150608222815id_/http%3A//www.worldofwatches.com//cust/contactus.asp?d=0) for more info.
-
 **Supplementation of Information**  
 In order for WorldofWatches.com to properly fulfill its obligation to our customers, it is necessary for us to supplement the information we receive with information from third party sources. When a user makes a purchase from any of these companies, the companies collect and share that purchase information with us so we can tailor the site to our users' preferences.
 
@@ -68,8 +66,7 @@ In order for WorldofWatches.com to properly fulfill its obligation to our custom
 Established members will occasionally receive information on products, services, special offers and a newsletter. Out of respect for the privacy of our users, we present the option to not receive these types of communications. Please see our choice and opt-out below.
 
 **Correcting/Updating/Deleting/Deactivating**  
-If a user's personally identifiable information changes (such as your zip code, phone, email or postal address), or if a user no longer desires our service, we provide a way to correct, update or delete/deactivate that user's personally identifiable information provided to us. This can be done by using the unsubscribe feature in our communication or by sending us an   
-[Online Inquiry](https://web.archive.org/web/20150608222815id_/http%3A//www.worldofwatches.com/cust/contactus.asp?d=0).
+If a user's personally identifiable information changes (such as your zip code, phone, email or postal address), or if a user no longer desires our service, we provide a way to correct, update or delete/deactivate that user's personally identifiable information provided to us. This can be done by using the unsubscribe feature in our communication .
 
 **Choice/Opt-Out**  
 Our users are given the opportunity to 'opt-out' of having their information used for purposes not directly related to our site at the point where we ask for the information. For example, our order form has an 'opt-out' mechanism so users who buy a product from us, but don't want any marketing material, can keep their email address off of our lists.
