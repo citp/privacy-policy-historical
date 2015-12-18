@@ -1,98 +1,77 @@
-> *The following text is extracted and transformed from the eyeslipsface.co.uk privacy policy that was archived on 2015-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150504195637id_/http%3A//eyeslipsface.co.uk/en/restofworld/help/security-and-privacy/page/securityandprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eyeslipsface.co.uk privacy policy that was archived on 2015-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151218175403id_/http%3A//www.eyeslipsface.co.uk/privacy_policy) for the most accurate reproduction.*
 
-# Security and Privacy at e.l.f.
+# Makeup and Cosmetics | elf Cosmetics | EyesLipsFace.com | Privacy Policy
 
-### INTRODUCTION
+**e.l.f. Cosmetics Privacy Policy**
 
-Distribeauty U.K. Ltd (we and us) are committed to protecting your privacy.
+**This Privacy Policy was last updated on: 15 September 2015**
 
-This privacy policy (together with our [Website Terms and Conditions and our Website Use Terms and Acceptable Use Policy.](http://eyeslipsface.co.uk/en/restofworld/help/terms-and-conditions/page/terms)) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
+www.eyeslipsface.co.uk (the Website) is brought to you by J.A. Cosmetics US, Inc. ("we"). This Privacy Policy describes the types of personal and other information we collect on the Website, how we use such information and to whom and under what circumstances we may disclose it. By accessing the Website on any computer, mobile phone, tablet, or other device (collectively, “Device”), you agree to the terms of this Privacy Policy and acknowledge that your information will be collected by J.A. Cosmetics US, Inc. a company established in the United States. If you do not agree to the policy, please do not use the Website.
 
-For the purpose of the Data Protection Act 1998 (the Act), the data controller is Distribeauty U.K. Ltd., whose registered office is at Phoenix Way, Garngoch Industrial Estate, Gorseinon, Swansea, United Kingdom SA4 9WF.
+We may modify this Privacy Policy at any time. If we decide to change this Privacy Policy, we will post those changes on our Website. We encourage you to periodically review our Privacy Policy to stay informed about how we are using the information we collect.
 
-Our nominated representative for the purpose of the Act is Jo Westlake.
+**COLLECTION OF INFORMATION**
 
-### INFORMATION THAT WE MAY COLLECT FROM YOU
+**Personal Information**
 
-We may collect and process the following data about you:
+We collect personal information from you when you submit it to us, including by: (1) registering on the Website; (2) placing an order; (3) signing up for our newsletter; (4) contacting us; or (5) participating in a Website promotion or survey. This information may include, for example, your name, email address, mailing address, billing address, telephone number, date of birth, and credit or debit card information. We may combine the information we collect from you with information we receive about you from other sources, such as address update services.
 
-  * details of transactions you carry out through this website (the Site) and of the fulfilment of your orders;
-  * information that you provide by filling in forms on the Site www.eyeslipsface.co.uk, including, but not limited to, information provided at the time of requesting or subscribing to any service or becoming a registered user, or posting material or request for further services, or if you enter any competition or promotion sponsored by us;
-  * information if you choose to complete one of our on-line questionnaires which run on the Site from time to time;
-  * communications you send to us, for example to report a problem with the Site or to submit comments or suggestions; and
-  * details of your visits to the Site, including, but not limited to, traffic data, location data, web logs and the resources that you access.
+We also allow users to provide us with their friend’s email addresses through the Website's refer-a-friend mechanism, so that we can send them information about our products and promotions.  You must ensure that before you provide us with personal information about another person (including e-mail addresses), you have their agreement to do so and that they are aware of the ways in which we use personal information as set out in this Privacy Policy.
 
+We may collect personal information from you when you write a review on our site. However, we do not ask, and you should not enter, your full name anywhere in your review.
 
+**Other Information**
 
-We may collect information about your computer, including where available your IP address, operating system and browser type, for system administration and to report aggregate information to our advertisers. This is statistical data about our users’ browsing actions and patterns, and does not identify any individual.
+When you visit the Website, we may collect certain other information from you, including your Internet Protocol (IP) address, browser type, operating system, the specific web pages visited during your connection, and the domain name from which you accessed the Website. In addition, we may collect information about your browsing behaviour, such as the date and time you visit the Website, the areas or pages of the Website that you visit, the amount of time you spend viewing the Website, the number of times you return to the Website and other clickstream data. We may also use non-personal information for statistical analysis, research, and other purposes.
 
-### COOKIES
+_Cookies and Web beacons_
 
-We currently use cookies on this Site to store your language and currency selections for your convenience. This helps us to provide you with a good experience when you browse our website and also allows us to improve our site. This information is not used in any other way. For detailed information on the purpose for which we use cookies please see our [Cookies policy](http://eyeslipsface.co.uk/en/restofworld/page/cookieinfo).
+By using this Website you agree to our use of cookies. Like many commercial websites, we analyse how visitors use our Website through what is known as "cookie" technology. A cookie is a small text file that is placed on your computer when you access the Website and allows us to recognize you each time you visit the Website. We may use cookies to: (1) allow you to use the Website without having to re-enter your user name and password; (2) enhance or personalize your Website usage and shopping experience; (3) monitor Website usage; (4) manage the Website; (5) improve the Website and our products and services; and (6) deliver adverts more relevant to you and your interests . If you choose, you can set your browser to reject cookies or you can manually delete individual or all of the cookies on your computer by following your browser’s help file directions. For more information about how to do this, and about cookies in general, you can visit: [www.allaboutcookies.org](http://www.allaboutcookies.org/). However, if your browser is set to reject cookies or you manually delete cookies, you may have some trouble accessing and using some of the pages and features that are currently on our Website, or that we may put on our Website in the future.
 
-### HOW WE PROCESS AND STORE YOUR INFORMATION
+We may also use web beacons on the Website, in our emails and in our advertisements on other websites. Web beacons are tiny graphic images that are used to collect information about your Website visit, such as the pages you view and the features you use, as well as information about whether you open and/or act upon one of our emails or advertisements. We may also collect the URL of the website you visited immediately before coming to the Website. Web beacons help us analyse our Website visitors' behaviour and measure the effectiveness of the Website and our advertising. We may work with service providers that help us track, collect and analyse this information.
 
-The data that we collect from you is processed by staff who work either for us or one of our group companies or for one of our service providers. Such staff may be engaged in, among other things, the fulfilment of your order, the processing of your payment details and the provision of support services. Any personal information you provide will be held securely on our systems. Any payment transactions will be encrypted using secure sockets layer (SSL) technology.  
-Your data may be transferred to, and stored at, a destination outside the European Economic Area (EEA). It may also be processed by staff operating outside the EEA who work for us or one of our suppliers. Such staff may be engaged in, among other things, the fulfilment of your order, the processing of your payment details and the provision of support services. By submitting your personal data, you agree to this transfer, storing and/or processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy.  
-Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to the Site; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access. 
+We may combine the non-personal information we collect through cookies and web beacons with other information we have collected from you.
 
-### USES MADE OF YOUR INFORMATION
+**Use of Information**
 
-We use information held about you in the following ways:
+We may use the information we collect from and about you for any of the following purposes: (1) to fulfil your requests for products; (2) to respond to your inquiries; (3) to review Website usage and operations; (4) to address problems with the Website, our business or our services; (5) to protect the security or integrity of the Website and our business; (6) to monitor the Website for compliance with our Terms of Use and the law; and (7) to contact you with Website updates, newsletters and other informational and promotional materials from us and third party marketing offers from our trusted partners, as well as from other companies.
 
-  * to carry out our obligations arising from any contracts entered into between you and us, for example to fulfil your orders;
-  * to provide you with information, products or services that you request from us or which we feel may interest you, where you have indicated that you wish to be contacted for such purposes by post, email, SMS, telephone or other means of electronic communication;
-  * to ensure that content from the Site is presented in the most effective manner for you and for your computer;
-  * to allow you to participate in any interactive features of our services, when you choose to do so; and
-  * to notify you about changes to our services.  
-We may also use your data, or permit selected third parties to use your data, to provide you with information about third party goods and services which may be of interest to you and we or they may contact you about these, where you have indicated that you wish to be contacted for such purposes by post, email, SMS, telephone or other means of electronic communication. 
+If you do not wish to receive communications from us about special offers and promotions, you can opt-out of receiving these communications by following the instructions contained in the messages you receive. Even if you opt-out of receiving these messages, we reserve the right to send you certain communications relating to the services we provide, and we may send you service announcements and administrative messages. We do not offer you the opportunity to opt-out of receiving those communications.
 
+**Disclosure of Information**
 
+We may disclose information collected from and about you as follows: (1) to our related companies and service providers, to perform a business, professional or technical support function for us; (2) to our marketing partners, advertisers or other third parties in an aggregated and anonymised form; (3) as necessary if we believe that there has been a violation of the Website Terms of Use or of our rights or the rights of any third party; (4) to respond to legal process (such as a search warrant, subpoena or court order) and provide information to law enforcement agencies or in connection with an investigation on matters related to public safety, as permitted by law, or otherwise as required by law; and (5) in the event that our company or substantially all of its assets are acquired, your personal information may be one of the transferred assets. We may also disclose your personal information with your express consent. We may share aggregate, non-personally identifiable information about Website users with third parties.
 
-### DISCLOSURE OF YOUR INFORMATION
+Please note that if you voluntarily submit any personal information for posting on the Website, such as a review or a blog post, the information becomes publicly available and can be collected and used by others, so you should use care before posting information about yourself online.
 
-We may disclose your personal information to any affiliated company within our group.  
-We may also disclose your personal information to third parties:
+**Access to Your Personal Information**
 
-  * if you have indicated that you wish to be contacted by selected third parties with information about those third parties' goods and services;
-  * in the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets;
-  * if we or substantially all of our assets are acquired by a third party, in which case personal data held by us about our customers will be one of the transferred assets; or
-  * if we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our Terms & Conditions or other agreements; or to protect our rights, property, or safety or those of our customers or other third parties. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
+You may access your personal information by signing into your account. From there, you can correct or modify your information. Please ensure that you keep your personal and contact details up to date by signing into your account and making changes when required.
 
+**Security**
 
+We maintain reasonable and appropriate measures designed to maintain information we collect in a secure manner. We have taken certain physical, electronic, and administrative steps to safeguard and secure the information we collect from Website visitors.
 
-### YOUR RIGHTS
+Even though we follow reasonable procedures to try to protect the information in our possession, no security system is perfect and we cannot promise, and you should not expect, that your information will be secure in all circumstances. The transmission of information via the internet is not completely secure; this risk is common across the internet and not specific to our Website. We cannot guarantee the security of your data (including your personal information) transmitted to our Website; any transmission is at your own risk.
 
-You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing by checking or un-checking (as directed) certain boxes on the forms we use to collect your data or by opting to 'unsubscribe' as directed within relevant communications we send to you. You can also exercise the right at any time by contacting us as shown in the Contact Us section.  
-The Site may, from time to time, contain hyperlinks to and from internet sites operated by other organisations. If you follow a hyperlink to any of these sites, please note that they will have their own privacy policies and that we do not accept any responsibility or liability for these policies. Please check these policies before you submit any personal data to such sites. 
+It is important for you to protect against unauthorized access to your password and to your computing device. Be sure to sign off and close your browser when you have finished your user session. This will help to ensure that others do not access your personal information if you share your computing device or use a computing device in a public place such as a library or internet café.
 
-### ACCESS TO YOUR INFORMATION
+**Children**
 
-You have the right under the Data Protection Act 1998 to request a copy of the personal data, which we hold with reference to you. We reserve the right to charge a reasonable fee (not exceeding £10) for the provision of a copy of such data. You also have the right to have any inaccuracies in your personal data corrected.
+We do not direct the Website to, nor do we knowingly collect any personal information from, children under the age of thirteen. In accordance with our terms and conditions of sale you must be at least eighteen years of age to order products from the Website.
 
-### UPDATES
+**Third Party Websites**
 
-We may amend this privacy policy from time to time by changing it on the Site. If we make any substantial changes in the way we use your personal information we will notify you by email. This privacy policy was last updated in July 2012.
+The Website may contain links to third-party websites, such as social media sites like Facebook and Twitter, which may have privacy policies that differ from our own. We are not responsible for the activities and practices that take place on these sites. Accordingly, we recommend that you review the privacy policy posted on any external site before disclosing any personal information. Please contact those websites directly if you have any questions about their privacy policies.
 
-### CONTACT US
+**Interest Based Advertising**
 
-Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to:  Jo Westlake, Distribeauty U.K. Ltd., Phoenix Way, Garngoch Industrial Estate, Gorseinon, Swansea, United Kingdom SA4 9WF.
+We may use third-party advertising companies that use tracking technologies to serve our advertisements across the Internet. These companies may collect anonymous information about your visits to the Website and other websites and your interaction with our advertising and other communications. These advertising companies serve ads on behalf of us and others on non-affiliated sites, and some of those ads may be personalized, meaning that they are intended to be relevant to you based on information collected about your visits to this site and elsewhere over time. Other companies may also use such technology to advertise on our Website.
 
-The Payment Card Industry Data Security Standard (PCI DSS) is a security standard which at Tier 1 Certification and compliance ensures unbeatable security and protection of sensitive customer information including credit cards.
+**Changes to This Privacy Policy**
 
-The requirements for Tier 1 Certification include:
+We may change this privacy policy from time to time. When we do, we will post the change(s) on our Website. If we change the policy in a material way, we will provide appropriate online notice to you. Please check back frequently to see any updates or changes to our privacy policy.
 
-  * Security management policies;
-  * Security policies;
-  * Security procedures;
-  * Network architecture;
-  * Software Design;
-  * Critical Protective Measures.
+**Contact Us**
 
-
-
-Websites go through a rigorous INDEPENDENT audit and significant investment to attain Tier 1 PCI DSS certification. The purpose is to ensure that their customers' data is as safe as possible when they purchase products online.
-
-Venda is the only global website provider to provide enterprise wide PCI DSS Tier 1 Certification. Visit [www.venda.com](http://www.venda.com/) for more information.
-
-Verified by Visa, also known as 3-D Secure, is an extra level of security developed by Visa and MasterCard to improve the security of payments and transactions offered to customers over the Internet. When you initiate a transaction using one of these card issuers you will be redirected to the website of your card-issuing bank to authorise the transaction. You will have to enter your password, or create one if you don’t already have one, which will then redirect you back to our site to complete your order. If you are creating a password, you can then use this password on any other site that uses 3-D Secure technology. Please note: this password is separate from the one you use to log in to our site. 
+If you have questions or concerns about this Privacy Policy, you can contact us by emailing us using the form at www.eyeslipsface.co.uk/contactus. If we need, or are required, to contact you concerning any event that involves your information, we may do so by email, telephone, or mail.
