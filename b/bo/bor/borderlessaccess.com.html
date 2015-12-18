@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the borderlessaccess.com privacy policy that was archived on 2015-06-12.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150612091753id_/http%3A//www.borderlessaccess.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the borderlessaccess.com privacy policy that was archived on 2015-12-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151218013558id_/http%3A//www.borderlessaccess.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <base href="http://www.borderlessaccess.com/">
@@ -118,7 +118,7 @@
                   </tr>
                   <tr>
                     <td align="right" width="30%" height="30">Security Question: </td>
-                    <td align="left" width="70%" style="padding-left:25px;"><span id="SecQues" style="font-weight:bold; font-size:14px;"></span> &nbsp; <input type="text" name="captcha" class="txtbx validate[required, ajax[captcha]]" id="captcha-form"></td>
+                    <td align="left" width="70%" style="padding-left:25px;"><span class="SecQues" style="font-weight:bold; font-size:14px;"></span> &nbsp; <input type="text" name="captcha" class="txtbx validate[required, ajax[captcha]]" id="captcha-form"></td>
                   </tr>
                   <tr>
                     <td align="right" colspan="2" width="100%" height="45" valign="middle">
@@ -138,7 +138,7 @@ function LoadConfMessage() {
 	//$.fn.colorbox({iframe:true, innerWidth:'650', innerHeight:'100', scrolling:false, title:'Message Sent.', href:"requestForm-confirm-message.php"});
 }
 function LoadCaptcha() {
-	$.post("libs/GenCaptcha.php", function(data) {$('#SecQues').text(data);});
+	$.post("libs/GenCaptcha.php", function(data) {$('.SecQues').text(data);});
 };
 function requestForm() {
 	if($("#requestFormCommon").validationEngine('validate')) {
@@ -146,7 +146,7 @@ function requestForm() {
 		var CurrTime=new Date();
 		$('input[name=submittedat]').val(CurrTime);
 		$("#requestFormCommon").submit();
-		$("#requestFormButton").trigger('click');
+		//$("#requestFormButton").trigger('click');
 		$("#requestFormCommon input").val('');
 		$("#requestFormCommon select").val('');
 		$("#requestFormCommon input:checked").attr('checked',false);
@@ -184,7 +184,7 @@ $(function() {
 		<ul>
 	    	<li><a href="index.php">Home</a></li>
 	        <li class="separator">&nbsp;</li>
-	        <li><a href="Javascript:#">Expertise</a><div class="subLinks"><a href="online-panels">Online Panels</a><a href="mobile-survey-capability">Mobile Survey Capability</a><a href="emerging-markets">Emerging Markets</a><a href="other-services">Other Services</a></div></li><li class="separator">&nbsp;</li><li><a href="Javascript:#">Innovation</a><div class="subLinks"><a href="market-research-mobile-apps">InstaBid</a><a href="multi-modal-verification">Multi Modal Verification</a><a href="community-and-panel-management">SmartSight</a></div></li><li class="separator">&nbsp;</li><li><a href="Javascript:#">Company</a><div class="subLinks"><a href="aboutus">About Us</a><a href="leadership">Leadership</a><a href="awards">Awards &amp; Affiliations</a><a href="press-and-media">Media</a><a href="news-and-events">Events</a></div></li><li class="separator">&nbsp;</li><li><a href="Javascript:#">Resources</a><div class="subLinks"><a href="market-research-whitepapers">Whitepapers</a><a href="newsletters">Newsletters</a><a href="case-studies">Case Studies</a><a href="infographics">Infographics</a><a href="emerging-markets-handbook">Emerging Markets Handbook</a></div></li><li class="separator">&nbsp;</li><li><a href="careers">Careers</a></li><li class="separator">&nbsp;</li><li><a href="contact-us">Contact</a></li></ul>
+	        <li><a href="Javascript:#">Expertise</a><div class="subLinks"><a href="online-panels">Online Panels</a><a href="mobile-survey-capability">Mobile Survey Capability</a><a href="emerging-markets">Emerging Markets</a><a href="other-services">Other Services</a></div></li><li class="separator">&nbsp;</li><li><a href="Javascript:#">Innovation</a><div class="subLinks"><a href="instabid">InstaBid</a><a href="BehavioralProfiling">Behavioral Profiling</a><a href="multi-modal-verification">Multi Modal Verification</a><a href="community-and-panel-management">SmartSight</a></div></li><li class="separator">&nbsp;</li><li><a href="Javascript:#">Company</a><div class="subLinks"><a href="aboutus">About Us</a><a href="leadership">Leadership</a><a href="awards">Awards &amp; Affiliations</a><a href="press-and-media">Media</a><a href="news-and-events">Events</a></div></li><li class="separator">&nbsp;</li><li><a href="Javascript:#">Resources</a><div class="subLinks"><a href="case-studies">Case Studies</a><a href="newsletters">Newsletters</a><a href="infographics">Infographics</a><a href="emerging-markets-handbook">Emerging Markets Handbook</a></div></li><li class="separator">&nbsp;</li><li><a href="careers">Careers</a></li><li class="separator">&nbsp;</li><li><a href="contact-us">Contact</a></li></ul>
             	</div>
         	</div>
     	</div>
@@ -244,7 +244,7 @@ We may revise this Privacy Policy. As we may make changes at any time without no
 
 <div class="right" style="position:relative; top:-5px;">
 	<span style="position:relative; top:5px;"><strong>Follow Us</strong></span>  &nbsp; 
-	<a href="http://www.linkedin.com/company/borderless-access-panels-pvt-ltd." target="_blank" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image1','','CMS/images/social/4_h_inico_h.png',1)"><img src="CMS/images/social/4_inico.png" alt="Find Me On LinkedIn" title="Find Me On LinkedIn" width="31" height="31" border="0" align="middle" id="Image1"></a>&nbsp;<a href="https://twitter.com/borderlessxs" target="_blank" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image2','','CMS/images/social/2_h_twitterico_h.png',1)"><img src="CMS/images/social/2_twitterico.png" alt="Follow Me On Twitter" title="Follow Me On Twitter" width="31" height="31" border="0" align="middle" id="Image2"></a>&nbsp;<a href="http://www.facebook.com/pages/Borderless-Access-Panels/399490003400763" target="_blank" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image3','','CMS/images/social/1_h_fbico_h.png',1)"><img src="CMS/images/social/1_fbico.png" alt="Visit My Facebook Page" title="Visit My Facebook Page" width="31" height="31" border="0" align="middle" id="Image3"></a>&nbsp;<a href="https://plus.google.com/108450984353765424512" target="_blank" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image4','','CMS/images/social/3_h_gplusico_h.png',1)"><img src="CMS/images/social/3_gplusico.png" alt="Visit My Google Plus Page" title="Visit My Google Plus Page" width="31" height="31" border="0" align="middle" id="Image4"></a>&nbsp;<a href="http://www.slideshare.net/BorderlessAccessPanels/" target="_blank" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image5','','CMS/images/social/5_h_slideico_h.png',1)"><img src="CMS/images/social/5_slideico.png" alt="SlideShare" title="SlideShare" width="31" height="31" border="0" align="middle" id="Image5"></a>&nbsp;<a href="http://visual.ly/users/borderlessaccess" target="_blank" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image6','','CMS/images/social/7_h_visually-icon6.png',1)"><img src="CMS/images/social/7_visuallyiconwhite.png" alt="Visual.ly" title="Visual.ly" width="31" height="31" border="0" align="middle" id="Image6"></a>&nbsp;<a href="http://www.youtube.com/user/BorderlessAccess" target="_blank" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image7','','CMS/images/social/6_h_youtubeico_h.png',1)"><img src="CMS/images/social/6_youtubeico.png" alt="Subscribe To My YouTube Channel" title="Subscribe To My YouTube Channel" width="31" height="31" border="0" align="middle" id="Image7"></a>&nbsp;
+	<a href="https://www.linkedin.com/company/borderless-access-panels-pvt-ltd-" target="_blank" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image1','','CMS/images/social/4_h_inico_h.png',1)"><img src="CMS/images/social/4_inico.png" alt="Find Me On LinkedIn" title="Find Me On LinkedIn" width="31" height="31" border="0" align="middle" id="Image1"></a>&nbsp;<a href="https://twitter.com/borderlessxs" target="_blank" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image2','','CMS/images/social/2_h_twitterico_h.png',1)"><img src="CMS/images/social/2_twitterico.png" alt="Follow Me On Twitter" title="Follow Me On Twitter" width="31" height="31" border="0" align="middle" id="Image2"></a>&nbsp;<a href="http://www.facebook.com/pages/Borderless-Access-Panels/399490003400763" target="_blank" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image3','','CMS/images/social/1_h_fbico_h.png',1)"><img src="CMS/images/social/1_fbico.png" alt="Visit My Facebook Page" title="Visit My Facebook Page" width="31" height="31" border="0" align="middle" id="Image3"></a>&nbsp;<a href="https://plus.google.com/108450984353765424512" target="_blank" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image4','','CMS/images/social/3_h_gplusico_h.png',1)"><img src="CMS/images/social/3_gplusico.png" alt="Visit My Google Plus Page" title="Visit My Google Plus Page" width="31" height="31" border="0" align="middle" id="Image4"></a>&nbsp;<a href="http://www.slideshare.net/BorderlessAccessPanels/" target="_blank" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image5','','CMS/images/social/5_h_slideico_h.png',1)"><img src="CMS/images/social/5_slideico.png" alt="SlideShare" title="SlideShare" width="31" height="31" border="0" align="middle" id="Image5"></a>&nbsp;<a href="http://visual.ly/users/borderlessaccess" target="_blank" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image6','','CMS/images/social/7_h_visually-icon6.png',1)"><img src="CMS/images/social/7_visuallyiconwhite.png" alt="Visual.ly" title="Visual.ly" width="31" height="31" border="0" align="middle" id="Image6"></a>&nbsp;<a href="http://www.youtube.com/user/BorderlessAccess" target="_blank" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image7','','CMS/images/social/6_h_youtubeico_h.png',1)"><img src="CMS/images/social/6_youtubeico.png" alt="Subscribe To My YouTube Channel" title="Subscribe To My YouTube Channel" width="31" height="31" border="0" align="middle" id="Image7"></a>&nbsp;
 </div>
 
            
@@ -353,7 +353,7 @@ $(function() {
    var aoCookieDomain = 'borderlessaccess.com';
    var aoServerContext = 'http://marketing.borderlessaccess.com/acton';
    /* ]]> */
- </script><img src="http://marketing.borderlessaccess.com/acton/bn/10580/visitor.gif?ts=1580507417691&amp;ref=">
+ </script><img src="http://marketing.borderlessaccess.com/acton/bn/10580/visitor.gif?ts=1580507418153&amp;ref=">
 
 
 </div></body></html>
