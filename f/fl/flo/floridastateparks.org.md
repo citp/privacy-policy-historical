@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the floridastateparks.org privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315050426id_/https%3A//www.floridastateparks.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the floridastateparks.org privacy policy that was archived on 2015-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151218170700id_/https%3A//www.floridastateparks.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Florida State Parks
 
