@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the ketubanjiwa.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608120318id_/http%3A//www.ketubanjiwa.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ketubanjiwa.com privacy policy that was archived on 2015-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151218202233id_/http%3A//www.ketubanjiwa.com/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement
 
 ****PRIVACY STATEMENT** **
 
-By visiting or using any document or resouce contained on this website – hereafter to be read as “ **http://ketubanjiwa.com/** ” – you agree to be bound by the provisions of these Privacy & User Policies. If at any time you have questions or concerns regarding the information provided by this document, please forward all such discourse to **webmaster** **@ketubanjiwa.com** where the appropriate administrator will respond to you as quickly as possible. **ketubanjiwa.com** reserves the right to modify, add, or remove portions of these policies at any time; it is therefore in your best interest to review this document periodically.
+By visiting or using any document or resouce contained on this website – hereafter to be read as “ **http://www.ketubanjiwa.com/** ” – you agree to be bound by the provisions of these Privacy & User Policies. If at any time you have questions or concerns regarding the information provided by this document, please forward all such discourse to **Contact Us Page** ****where the appropriate administrator will respond to you as quickly as possible. **ketubanjiwa.com** reserves the right to modify, add, or remove portions of these policies at any time; it is therefore in your best interest to review this document periodically.
 
 *** Information We Collect**
 
