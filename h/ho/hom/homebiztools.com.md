@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the homebiztools.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608041800id_/http%3A//homebiztools.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homebiztools.com privacy policy that was archived on 2015-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151218104330id_/http%3A//homebiztools.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Statement for Home Biz Tools
 
@@ -49,7 +49,7 @@ This site gives users the following options for changing and modifying informati
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can:
 
 Use the online form at:  
-[http://www.homebiztools.com/contact.htm](https://web.archive.org/web/20150608041800id_/http%3A//homebiztools.com/contact.htm)
+[http://www.homebiztools.com/contact.htm](https://web.archive.org/web/20151218104330id_/http%3A//homebiztools.com/contact.htm)
 
 Write to us at:
 
