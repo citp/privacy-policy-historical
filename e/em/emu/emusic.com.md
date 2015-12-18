@@ -1,14 +1,16 @@
-> *The following text is extracted and transformed from the emusic.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629120558id_/http%3A//www.emusic.com/info/help/privacy-policy-us) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emusic.com privacy policy that was archived on 2015-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151218112130id_/http%3A//www.emusic.com/info/help/privacy-policy-us) for the most accurate reproduction.*
 
 # Privacy Policy | Stimulating Curious Musical Minds | eMusic
 
-**eMusic.com Privacy Policy**
+**Privacy Policy**
 
-**Last updated as of February 10, 2014**
+_Last updated and effective as of November 4, 2015_
+
+*EFFECTIVE SEPTEMBER 10, 2015, EMUSIC.COM, INC. IS A WHOLLY OWNED SUBSIDIARY OF TRIPLAY, INC. THEREFORE, ALL USER DETAILS AND INFORMATION ARE NOW OWNED BY TRIPLAY, INC.
 
 eMusic.com Inc. (“eMusic, we, our, us”) is focused on providing you with innovative online music and audiobook services. Furthermore, we are committed to transparency regarding how we collect, use, and maintain information from and about users (“you, your, users”) of our services. This privacy policy explains our privacy practices and will inform you as to:
 
-The types of information we collect from you and how that information is collected;
+The types of information we collect from you and how that information is collected:
 
   * How we use such information;
   * The circumstances under which we disclose such information to others;
@@ -39,9 +41,10 @@ We use your information to facilitate the provision of services you request. Whe
 
 We may also use the information we collect about you to analyze Site usage, improve our content and product offerings, customize the Site’s content, layout, and services, update you about our products or services, or to contact you about offers of new products or services that we believe may be of interest to you.
 
-eMusic does not rent or sell subscriber email addresses to third parties.
+eMusic does not rent or sell End User email addresses to third parties.
 
-**Our Disclosure of Your Information**  
+**Our Disclosure of Your Information**
+
 We may make your information available to others:
 
   * Who provide information, products, goods or services that you have requested via the Site;
@@ -51,53 +54,64 @@ We may make your information available to others:
   * If we believe such disclosure is necessary to comply with any applicable laws or regulations, to enforce or apply the terms of our Site Terms of Use or any of our terms and conditions and policies relating to specific promotions, programs, product offerings or any other features or functions of the Site, or to protect and/or defend the rights, property or safety of eMusic, its suppliers, advertisers, other customers or users, or any other party;
   * Who are parent companies, affiliates, subsidiaries or joint ventures;
   * When you use co-branded services, in which case you are giving us permission to share information (but not credit card information) you provide in the context of our co-branding and marketing relationship, with our co-branding partner(s). Use of such information by co-branding partners is subject to their own respective privacy policies;
-  * Who are trusted third parties (e.g., promotional partners and advertisers) so that they can promote their products and services and those of their affiliates and partners based on your preferences and interests. You may “opt out” of such disclosure(s) to the extent they include your personally identifiable information by sending an email at any time to [service@emusic.com](https://web.archive.org/web/20150629120558id_/http://www.emusic.com/info/help/privacy-policy-us/%E2%80%9Cmailto:service@emusic.com%E2%80%9D) indicating your intent. If you do not opt out and we share your personally identifiable information (but not emails) with such trusted third parties, their use of such information is subject to their own privacy policies; and/or
+  * Who are trusted third parties (e.g., promotional partners and advertisers) so that they can promote their products and services and those of their affiliates and partners based on your preferences and interests. You may “opt out” of such disclosure(s) to the extent they include your personally identifiable information by sending an email at any time to [service@emusic.com](http://www.emusic.com/info/help/privacy-policy-us/%E2%80%9Cmailto:service@emusic.com%E2%80%9D) indicating your intent. If you do not opt out and we share your personally identifiable information (but not emails) with such trusted third parties, their use of such information is subject to their own privacy policies; and/or
   * In the event of a bankruptcy, or a merger, acquisition, joint venture or other business combination involving us.
 
 
 
-**Our Response to Do Not Track Mechanisms**  
-The Site does not respond to, or change its behavior in response to, any “Do Not Track” signals (including HTTP header requests). Additionally, to the extent that any third party tracking pixels are employed as described in this Privacy Policy, eMusic has no control over the response of those tracking pixels to Do Not Track signals; such response is solely controlled by the respective third party. To learn more about Do Not Track, please click [here](http://www.networkadvertising.org/managing/index.asp "Network Advertising").
+**Our Response to Do Not Track Mechanisms**
 
-**Safeguarding Your Personally Identifiable Information**  
+The Site does not respond to, or change its behavior in response to, any “Do Not Track” signals (including HTTP header requests). Additionally, to the extent that any third party tracking pixels are employed as described in this Privacy Policy, eMusic has no control over the response of those tracking pixels to Do Not Track signals; such response is solely controlled by the respective third party. To learn more about Do Not Track, please click [here](http://www.networkadvertising.org/managing/index.asp "Network Advertising").
+
+**Safeguarding Your Personally Identifiable Information**
+
 eMusic uses industry-standard security precautions, including physical, electronic, and administrative procedures, designed to safeguard and help prevent unauthorized access to, disclosure, and use of your personally identifiable information. For example, when you provide credit or debit card information through the Site, we use secure socket layer (“SSL”) encryption to protect that data.
 
 However, although we use such precautions to protect your information, we cannot guarantee complete security because no computer, system, or exchange of data via the Internet is 100% secure from intrusion. You acknowledge and agree that you provide your personally identifiable information to us at your own risk.
 
 Please help protect the security of your information by taking measures such as installing the latest computer security updates, using anti-virus software, keeping your password private, and signing out of your account when you are finished with a session, especially when using a public or shared computer.
 
-**Reviewing/Changing Your Personally Identifiable Information & Opting Out**  
-You can access, review, update, and correct personally identifiable information you have provided to us by clicking on the My Account section of the Site. If you prefer, you can also contact us by sending an email to  
-[service@emusic.com](https://web.archive.org/web/20150629120558id_/http://www.emusic.com/info/help/privacy-policy-us/%E2%80%9Cmailto:service@emusic.com%E2%80%9D) and explaining how you would like to modify your preferences. You must promptly update the information contained in the My Account section of the Site if it changes or is inaccurate. However, you may not be able to change or remove any public postings made by you on the Site, including on our message boards, once that information has been posted.
+**Reviewing/Changing Your Personally Identifiable Information & Opting Out**
 
-You have the option to receive fewer or no communications in the future from us by opting out. You may opt out by following the instructions included in the specific communication that you no longer wish to receive, or by sending an email at any time to [service@emusic.com](https://web.archive.org/web/20150629120558id_/http://www.emusic.com/info/help/privacy-policy-us/%E2%80%9Cmailto:service@emusic.com%E2%80%9D) and explaining how you would like to modify your preferences.
+You can access, review, update, and correct personally identifiable information you have provided to us by clicking on the My Account section of the Site. If you prefer, you can also contact us by sending an email to  
+[service@emusic.com](http://www.emusic.com/info/help/privacy-policy-us/%E2%80%9Cmailto:service@emusic.com%E2%80%9D) and explaining how you would like to modify your preferences. You must promptly update the information contained in the My Account section of the Site if it changes or is inaccurate. However, you may not be able to change or remove any public postings made by you on the Site, including on our message boards, once that information has been posted.
+
+You have the option to receive fewer or no communications in the future from us by opting out. You may opt out by following the instructions included in the specific communication that you no longer wish to receive, or by sending an email at any time to [service@emusic.com](http://www.emusic.com/info/help/privacy-policy-us/%E2%80%9Cmailto:service@emusic.com%E2%80%9D) and explaining how you would like to modify your preferences.
 
 If you would like to opt out from any or all information collection on the eMusic software application, you must uninstall the eMusic software application.
 
-**Children’s Privacy**  
+**Children’s Privacy**
+
 The Site is a general audience web site that does not target content to children under 13 years of age. Our Terms of Use require that registered members be at least 18 years of age and provide valid credit or debit card information. Accordingly, eMusic does not knowingly collect personal information or accept registration of accounts from children under 13 years of age. If, however, we become aware that any personal information has been collected from, or accounts have been created for, children under 13 years of age, we will promptly delete the information and cancel the account, as applicable.
 
-**Message Boards, Friends, and Chat**  
+**Message Boards, Friends, and Chat**
+
 We are happy to offer our users value-added features such as message boards, a friends feature, and chat functions that enhance the overall eMusic experience. However, you are solely responsible for the content you post through these interactions. You should be aware that when you voluntarily disclose personally identifiable information to your profile, on any message boards, or through chat services, that information can be read, collected, and used by other users of these services and may result in unsolicited messages, both commercial and otherwise. You agree that you will not use such features for any purpose that is unlawful or prohibited by our Terms of Use or any other eMusic terms and conditions, policies, or guidelines that may be in effect from time to time. We reserve the right to terminate your access to the Site or to take other protective steps if you violate these terms.
 
-**“Refer A Friend” Interactions**  
+**“Refer A Friend” Interactions**
+
 We hope that you enjoy our services so much that you’ll want to spread the word about eMusic to your friends and family. That’s why we may choose to offer you a “Refer A Friend” program, powered by a trusted third party provider and available using email and Facebook.
 
 Referrals via email: If you use email to refer friends through the Refer A Friend program, you may have the option of connecting to your web-based email account to send the referral emails. If you choose this option, you will be asked to log in to your email account through the program and give permission for the program to access your email address book so that you can select which friends will receive the email. Your password will not be saved, your address book will not be copied or stored, and no emails will be sent to your friends without your consent. Alternatively, you may have the option to copy and paste a unique URL link, which you can email to friends without connecting to your email account through the program. In either instance, your friends’ email addresses will not be used for any other purposes and your friends will only receive additional emails from eMusic if they provide consent for those.
 
 Referrals via Facebook: If you use Facebook to refer friends through the Refer A Friend program, you will be able to post to your Facebook Wall and tag the friends whom you wish to refer. If you choose this option, you will be asked to log in to your Facebook account through the program and select which friends you want to tag in your Wall post. Your Wall post will be viewable by anyone who is able to view your Wall, subject to your Facebook privacy settings and Facebook’s privacy policy (over which eMusic has no control). Please visit Facebook’s privacy policy for information regarding Facebook’s specific privacy practices.
 
-**Social Media Interactions**  
+**Social Media Interactions**
+
 eMusic encourages you to interact with us through our social media accounts, including through Facebook and Twitter. Please keep in mind, however, that information that you choose to share through social media platforms is subject to your individual privacy settings and the privacy policy of each respective platform (over which eMusic has no control). Please visit the privacy policy of each social media platform for information regarding its specific privacy practices.
 
-**Links to Other Sites**  
+**Links to Other Sites**
+
 Our Site may contain links to web sites and services owned or maintained by third parties. We are not responsible for, and have no control over, the privacy and data collection policies and practices implemented by such third parties, some of which may be substantially different from our own policies and practices. We encourage you to carefully review the respective privacy policies of these third parties and ask questions directly of them in this regard.
 
-**How to Contact Us**  
-If you have any questions or complaints about our Privacy Policy, you can contact our customer service department at [service@emusic.com](https://web.archive.org/web/20150629120558id_/http://www.emusic.com/info/help/privacy-policy-us/%E2%80%9Cmailto:service@emusic.com%E2%80%9D). When we receive such inquiries about our Privacy Policy, we will use your personally identifiable information to the extent necessary to respond to your question or comment. However, if your question raises one or more issues that affect our promotional partners, we may also share your question and/or information with them in order to provide a response.
+**How to Contact Us**
 
-**Changes in This Privacy Policy**  
+If you have any questions or complaints about our Privacy Policy, you can contact our customer service department at [service@emusic.com](http://www.emusic.com/info/help/privacy-policy-us/%E2%80%9Cmailto:service@emusic.com%E2%80%9D). When we receive such inquiries about our Privacy Policy, we will use your personally identifiable information to the extent necessary to respond to your question or comment. However, if your question raises one or more issues that affect our promotional partners, we may also share your question and/or information with them in order to provide a response.
+
+**Changes in This Privacy Policy**
+
 We reserve the right to modify, alter, or otherwise update this Privacy Policy at any time, so we encourage you to review this Privacy Policy from time to time. When we make changes, we will notify you in this space. We may also, in our discretion, notify you of any such changes to our privacy practices via email or by placing a notice on our home page.
 
-**Acceptance of This Privacy Policy**  
+**Acceptance of This Privacy Policy**
+
 By using this Site, you consent to the collection, use, and disclosure of your information in accordance with this Privacy Policy.
