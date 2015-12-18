@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the elistr.com privacy policy that was archived on 2015-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150209062405id_/https%3A//www.elistr.com/index.php%3Fa%3D28%26b%3D145) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elistr.com privacy policy that was archived on 2015-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151218222526id_/https%3A//www.elistr.com/index.php%3Fa%3D28%26b%3D145) for the most accurate reproduction.*
 
-# Free Classified Ads : World Wide | elistr.com
-
-   |    |    |    |    
-
+# Post a Free Ad in Vehicles, Jobs, Real Estate, Animals, and more with Free Featured Ads.
 
 Privacy Policy
 
@@ -87,5 +84,3 @@ We will provide you with the means to ensure that personally identifiable inform
 * * *
 
 We are committed to conducting our business in accordance with these principles in order to ensure that the confidentiality of personal information is protected and maintained at all times. 
-
-|    |    |    |    | 
