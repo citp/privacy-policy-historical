@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the luckyregister.com privacy policy that was archived on 2015-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150214073713id_/http%3A//secure.luckyregister.com/Agreements/Privacy.aspx%3Fprog_id%3DLuckyregister) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the luckyregister.com privacy policy that was archived on 2015-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151218215342id_/http%3A//secure.luckyregister.com/Agreements/Privacy.aspx%3Fprog_id%3DLuckyregister) for the most accurate reproduction.*
 
 # LuckyRegister - Cheap Domain Registration, Domain Hosting Services - Privacy Policy | LuckyRegister - Cheap Domain Registration, Domain Hosting Services - Respects Your Privacy
+
+**Last Revised: March 10, 2015**
 
 LuckyRegister - Cheap Domain Registration, Domain Hosting Services - Respects your privacy
 
