@@ -1,1127 +1,647 @@
-<!--The following is the downloaded HTML source of the dealmates.com.my privacy policy that was archived on 2014-06-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140625121046id_/http%3A//www.dealmates.com.my/pages/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the dealmates.com.my privacy policy that was archived on 2015-12-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151218171347id_/http%3A//www.ensogo.com.my/page/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html xmlns:fb="http://ogp.me/ns/fb#"><head>
-   <title>Privacy Policy</title>
-   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
-   <link type="image/x-icon" rel="icon" href="/images/favicon.ico">
-   <link type="text/css" rel="stylesheet" href="/content/bootstrap.css">
-   <link type="text/css" rel="stylesheet" href="/content/bootstrap_dm.css">
-   <link type="text/css" rel="stylesheet" href="/content/base.css?20140308">
-   <link type="text/css" rel="stylesheet" href="/content/responsive.css">
-   <link type="text/css" rel="stylesheet" href="/content/fonts.css">
-   <link type="text/css" rel="stylesheet" href="/content/font-awesome/css/font-awesome.min.css">
-   <link type="text/css" rel="stylesheet" href="/content/scrollup/css/scrollup.css">
-   <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js#xfbml=1&amp;appId=162802183749925"></script><script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
-   <script type="text/javascript" src="http://ajax.microsoft.com/ajax/jquery.validate/1.7/jquery.validate.min.js"></script>
-   
-   <script type="text/javascript" src="/scripts/jquery.color.js"></script>
-   <script type="text/javascript" src="/scripts/dm.js"></script>
-   <script src="http://l.tbcdn.cn/apps/top/x/sdk.js?appkey=21706843"></script>
-   <script type="text/javascript" src="/scripts/jquery.scrollUp.min.js"></script>
-   <script type="text/javascript" src="/scripts/fastclick.js"></script>
-   <script type="text/javascript">
-      $(document).ready(function () {
-         FastClick.attach(document.body);
-
-         hovermenu($('.header_signin'), $('#ddLogin'));
-         hovermenu($('.header_register'), $('#ddSignUp'));
-         hovermenu($('.header_mydealmates'), $('#ddAccount')); 
-
-         hovermenu($('.changecity'), $('.cityDropDown'));
-         $('#ddLogin').css('cursor', 'default');
-         $('#ddAccount').css('cursor', 'default');
-         $('#ddSignUp').css('cursor', 'default');
-         $('#login-menubar').click(function () {
-            var useremail = $('#user-email-menubar').val();
-            var userpassword = $('#user-passwd-menubar').val();
-            var rememberme = $('#remember-me-menubar').is(':checked');
-            if ($('#user-email-menubar').valid() && $('#user-passwd-menubar').valid()) {
-               $.post('/users/ajaxlogin',
-                        { 'UserEmail': useremail, 'UserPasswd': userpassword, 'UserIsRemembered': rememberme },
-                        function (data) {
-                           if (data.status == 1) {
-                              window.location.reload();
-                           }
-                           if (data.status == 0) {
-                              $('#login-msg').fadeIn(1000).delay(5000).slideUp().fadeOut(5000);
-                              $('#login-msg').html(data.message);
-                           }
-                        }
-               );
-            }
-         });
-
-         $("#user-passwd-menubar").keypress(function (e) {
-            if (e.which == 13) $("#login-menubar").click();
-         });
-
-         $('#login-form').validate({
-            rules: {
-               'user-email-menubar': { required: true, email: true },
-               'user-passwd-menubar': { required: true, minlength: 6 }
-            },
-            messages: {
-               'user-email-menubar': { required: "Email Address is required" },
-               'user-passwd-menubar': { required: "Password is required" }
-            }
-         });
-
-         $('#headerWrapper').delegate('li', 'hover', function() {
-            $(this).parent().parent().find('li').removeClass('active');
-            $(this).addClass('active');
-         });
-
-         
-
-//         $(window).bind("load", function() { 
-//       
-//                var footerHeight = 0,
-//                    footerTop = 0,
-//                    $footer = $("#headerWrapper");
-//           
-//                positionFooter();
-//       
-//                function positionFooter() {
-//       
-//                         footerHeight = $footer.height();
-//                         footerTop = ($(window).scrollTop()+$(window).height()-footerHeight)+"px";
-//       
-//                        if ( ($(document.body).height()+footerHeight) < $(window).height()) {
-//                            $footer.css({
-//                                 position: "absolute"
-//                            }).animate({
-//                                 top: footerTop
-//                            })
-//                        } else {
-//                            $footer.css({
-//                                 position: "static"
-//                            })
-//                        }
-//               
-//                }
-
-//                $(window)
-//                        .scroll(positionFooter)
-//                        .resize(positionFooter)
-//               
-//         });
-
-
-         $.scrollUp({ scrollText: "" });
-      });
-   </script>
-
-   
-   
-   
-   
-</head>
-<body>
-   <div class="snap-drawers">
-      <ul>
-         <li>
-<form action="/mall/search" id="search_form_mobile" method="get">               <input type="text" id="top_search" name="q" placeholder="Search">
-               <button id="btnSearch" type="submit">
-                  <img src="/images/asset/search.png" alt="">
-               </button>
-</form>         </li>
-                <li><a href="/users/login">Sign In</a> </li>
-                <li><a href="/users/register">Register</a> </li>
-            <li><a href="/kuala-lumpur/deals/all">ALL</a></li>
-                <li><a class="parentcat" href="/kuala-lumpur/deals/best-sellers">BEST SELLERS<i class="fa fa-chevron-right"></i></a>
-                        <ul>
-                            <li><a href="#">Today's Flash Sales</a><i class="fa fa-chevron-right"></i>
-                                <ul>
-                                </ul>
-                            </li>
-                                <li><a href="#">Categories</a><i class="fa fa-chevron-right"></i>
-                                    <ul>
-                                    </ul>
-                                </li>
-                            <li><a href="#">Hot Deals</a><i class="fa fa-chevron-right"></i>
-                            </li>
-                        </ul>
-                </li>
-                <li><a class="parentcat" href="/kuala-lumpur/deals/women">WOMEN<i class="fa fa-chevron-right"></i></a>
-                        <ul>
-                            <li><a href="#">Today's Flash Sales</a><i class="fa fa-chevron-right"></i>
-                                <ul>
-                                             <li><a href="/deals/june-2-way-maternity-supporting-belt-bc52449">2-way Maternity Supporting Belt</a> </li>
-                                             <li><a href="/deals/june-korean-3-way-multipurpose-foldable-tote-bc52330">Korean 3-Way Multipurpose Foldable Tote</a> </li>
-                                             <li><a href="/deals/june-chic-round-neck-metallic-dress-bc51955">Chic Round Neck Metallic Dress</a> </li>
-                                             <li><a href="/deals/june-elastic-yoga-pants-bc51957">Elastic Yoga Pants</a> </li>
-                                             <li><a href="/deals/june-heart-print-lightweight-outerwear-2-colours-bc51979">Heart Print Lightweight Outerwear/ 2 colours</a> </li>
-                                             <li>
-                                                <a href="/kuala-lumpur/deals/women" style="color: #900;font-weight:bold;">
-                                                   View More
-                                                </a>
-                                             </li> 
-                                </ul>
-                            </li>
-                                <li><a href="#">Categories</a><i class="fa fa-chevron-right"></i>
-                                    <ul>
-                                            <li><a href="/mall/department/women-accessories">Accessories</a> </li>
-                                            <li><a href="/mall/department/women-clothing">Clothing</a> </li>
-                                            <li><a href="/mall/department/women-handbags">Handbags</a> </li>
-                                            <li><a href="/mall/department/women-jewelry-watches">Jewelry &amp; Watches</a> </li>
-                                            <li><a href="/mall/department/women-shoes">Shoes</a> </li>
-                                    </ul>
-                                </li>
-                            <li><a href="#">Hot Deals</a><i class="fa fa-chevron-right"></i>
-                                    <ul>
-                                            <li><a href="/deals/june-2-way-maternity-supporting-belt-bc52449">2-way Maternity Supporting Belt</a> </li>
-                                            <li><a href="/deals/june-korean-3-way-multipurpose-foldable-tote-bc52330">Korean 3-Way Multipurpose Foldable Tote</a> </li>
-                                            <li><a href="/deals/june-chic-round-neck-metallic-dress-bc51955">Chic Round Neck Metallic Dress</a> </li>
-                                            <li><a href="/deals/june-elastic-yoga-pants-bc51957">Elastic Yoga Pants</a> </li>
-                                            <li><a href="/deals/june-heart-print-lightweight-outerwear-2-colours-bc51979">Heart Print Lightweight Outerwear/ 2 colours</a> </li>
-                                    </ul>
-                            </li>
-                        </ul>
-                </li>
-                <li><a class="parentcat" href="/kuala-lumpur/deals/men">MEN<i class="fa fa-chevron-right"></i></a>
-                        <ul>
-                            <li><a href="#">Today's Flash Sales</a><i class="fa fa-chevron-right"></i>
-                                <ul>
-                                </ul>
-                            </li>
-                                <li><a href="#">Categories</a><i class="fa fa-chevron-right"></i>
-                                    <ul>
-                                            <li><a href="/mall/department/men-accessories">Accessories</a> </li>
-                                            <li><a href="/mall/department/men-clothing">Clothing</a> </li>
-                                            <li><a href="/mall/department/men-shoes">Shoes</a> </li>
-                                    </ul>
-                                </li>
-                            <li><a href="#">Hot Deals</a><i class="fa fa-chevron-right"></i>
-                            </li>
-                        </ul>
-                </li>
-                <li><a class="parentcat" href="/kuala-lumpur/deals/luxury">LUXURY<i class="fa fa-chevron-right"></i></a>
-                        <ul>
-                            <li><a href="#">Today's Flash Sales</a><i class="fa fa-chevron-right"></i>
-                                <ul>
-                                             <li><a href="/deals/june-salvatore-ferragamo-quilted-shoulder-clutch-in-black-22c150-587825-rm1774">Salvatore Ferragamo Quilted Shoulder Clutch in Black 22C150 587825</a> </li>
-                                             <li><a href="/deals/june-salvatore-ferragamo-vara-bow-long-wallet-in-nero-22b559-588261-rm1146">Salvatore Ferragamo Vara Bow Long Wallet in Nero 22B559 588261</a> </li>
-                                             <li><a href="/deals/june-salvatore-ferragamo-vara-bow-long-wallet-in-storm-22b559-593428-rm1146">Salvatore Ferragamo Vara Bow Long Wallet in STORM 22B559 593428</a> </li>
-                                             <li><a href="/deals/june-salvatore-ferragamo-vara-flag-shoulder-bag-in-grape-21d855-584498-rm2066">Salvatore Ferragamo Vara Flag Shoulder Bag in GRAPE 21D855 584498</a> </li>
-                                             <li><a href="/deals/june-yslsaint-laurent-leather-y-clutch-in-yellow-311213-bj50j-7111-rm2701">YSL/Saint Laurent Leather  Y Clutch in Yellow 311213 BJ50J 7111</a> </li>
-                                             <li><a href="/deals/june-yslsaint-laurent-leather-y-clutch-in-marine-311213-bj50j-4136-rm2860">YSL/Saint Laurent Leather Y Clutch in Marine 311213 BJ50J 4136</a> </li>
-                                             <li><a href="/deals/june-yslsaint-laurent-leather-y-clutch-in-terra-311213-bj50j-2034-rm2860">YSL/Saint Laurent Leather Y Clutch in Terra 311213 BJ50J 2034</a> </li>
-                                             <li>
-                                                <a href="/kuala-lumpur/deals/luxury" style="color: #900;font-weight:bold;">
-                                                   View More
-                                                </a>
-                                             </li> 
-                                </ul>
-                            </li>
-                            <li><a href="#">Hot Deals</a><i class="fa fa-chevron-right"></i>
-                                    <ul>
-                                            <li><a href="/deals/june-armani-exchange-fashion-sunglasses-4-styles-rm229">Armani Exchange Fashion Sunglasses, 4 styles</a> </li>
-                                            <li><a href="/deals/june-bally-bi-fold-leather-wallet-in-black-6166596001-tye290-rm668">Bally Bi-fold Leather Wallet in Black 6166596001 TYE/290</a> </li>
-                                            <li><a href="/deals/june-bally-bi-fold-leather-wallet-in-chocolate-6166595001-tye271-rm668">Bally Bi-fold Leather Wallet in Chocolate 6166595001 TYE/271</a> </li>
-                                            <li><a href="/deals/june-bally-lollten-leather-wallet-in-new-blue-6178246001-lollten14-rm668">Bally LOLLTEN Leather Wallet in NEW BLUE 6178246001 LOLLTEN/14</a> </li>
-                                            <li><a href="/deals/june-bally-lollten-leather-wallet-in-new-blue-6178246001-lollten34-rm668">Bally LOLLTEN Leather Wallet in NEW BLUE 6178246001 LOLLTEN/34</a> </li>
-                                    </ul>
-                            </li>
-                        </ul>
-                </li>
-                <li><a class="parentcat" href="/kuala-lumpur/deals/babies-kids">BABIES &amp; KIDS<i class="fa fa-chevron-right"></i></a>
-                        <ul>
-                            <li><a href="#">Today's Flash Sales</a><i class="fa fa-chevron-right"></i>
-                                <ul>
-                                             <li><a href="/deals/june-baby-car-seat-bc52307">Baby Car Seat</a> </li>
-                                             <li><a href="/deals/june-absorbent-cartoon-sweat-cloth-2-pcs-bc51964">Absorbent Cartoon Sweat Cloth, 2 Pcs</a> </li>
-                                             <li><a href="/deals/june-cartoon-animals-storage-basket--7-patterns-bc51963">Cartoon Animals Storage Basket / 7 patterns</a> </li>
-                                             <li><a href="/deals/june-childrens-4-fold-play--rest-mat-bc51983">Children's 4-Fold Play / Rest Mat</a> </li>
-                                             <li><a href="/deals/june-cupcake-land-glow-in-the-dark-wall-decals-bc51982">Cupcake Land Glow in the Dark Wall Decals</a> </li>
-                                             <li>
-                                                <a href="/kuala-lumpur/deals/babies-kids" style="color: #900;font-weight:bold;">
-                                                   View More
-                                                </a>
-                                             </li> 
-                                </ul>
-                            </li>
-                                <li><a href="#">Categories</a><i class="fa fa-chevron-right"></i>
-                                    <ul>
-                                            <li><a href="/mall/department/babies-kids-accessories">Accessories</a> </li>
-                                            <li><a href="/mall/department/babies-kids-clothing">Clothing</a> </li>
-                                            <li><a href="/mall/department/babies-kids-maternity">Maternity</a> </li>
-                                            <li><a href="/mall/department/babies-kids-shoes">Shoes</a> </li>
-                                            <li><a href="/mall/department/babies-kids-toys-games-books">Toys, Games, &amp; Books</a> </li>
-                                    </ul>
-                                </li>
-                            <li><a href="#">Hot Deals</a><i class="fa fa-chevron-right"></i>
-                                    <ul>
-                                            <li><a href="/deals/june-baby-car-seat-bc52307">Baby Car Seat</a> </li>
-                                            <li><a href="/deals/june-absorbent-cartoon-sweat-cloth-2-pcs-bc51964">Absorbent Cartoon Sweat Cloth, 2 Pcs</a> </li>
-                                            <li><a href="/deals/june-cartoon-animals-storage-basket--7-patterns-bc51963">Cartoon Animals Storage Basket / 7 patterns</a> </li>
-                                            <li><a href="/deals/june-childrens-4-fold-play--rest-mat-bc51983">Children's 4-Fold Play / Rest Mat</a> </li>
-                                            <li><a href="/deals/june-cupcake-land-glow-in-the-dark-wall-decals-bc51982">Cupcake Land Glow in the Dark Wall Decals</a> </li>
-                                    </ul>
-                            </li>
-                        </ul>
-                </li>
-                <li><a class="parentcat" href="/kuala-lumpur/deals/dining">DINING<i class="fa fa-chevron-right"></i></a>
-                        <ul>
-                            <li><a href="#">Today's Flash Sales</a><i class="fa fa-chevron-right"></i>
-                                <ul>
-                                </ul>
-                            </li>
-                            <li><a href="#">Hot Deals</a><i class="fa fa-chevron-right"></i>
-                            </li>
-                        </ul>
-                </li>
-                <li><a class="parentcat" href="/kuala-lumpur/deals/beauty">BEAUTY<i class="fa fa-chevron-right"></i></a>
-                        <ul>
-                            <li><a href="#">Today's Flash Sales</a><i class="fa fa-chevron-right"></i>
-                                <ul>
-                                             <li><a href="/deals/june-clarins-extra-firming-eye-lift-perfecting-serum-15ml-rm123">CLARINS Extra-Firming Eye Lift Perfecting Serum 15ml</a> </li>
-                                             <li><a href="/deals/june-clarins-extra-firming-eye-wrinkle-smoothing-cream-15ml-rm114">CLARINS Extra-Firming Eye Wrinkle Smoothing Cream 15ml</a> </li>
-                                             <li><a href="/deals/june-clarins-gentle-peeling-smooth-away-cream-50ml-rm69">CLARINS Gentle Peeling Smooth Away Cream 50ml</a> </li>
-                                             <li><a href="/deals/june-clarins-gentle-refiner-exfoliating-cream-50ml-rm69">CLARINS Gentle Refiner Exfoliating Cream 50ml</a> </li>
-                                             <li><a href="/deals/june-clarins-hydraquench-cream-mask-75ml-rm76">CLARINS HydraQuench Cream-Mask 75ml</a> </li>
-                                             <li><a href="/deals/june-clarins-skin-smoothing-eye-mask-30ml-rm94">CLARINS Skin Smoothing Eye Mask 30ml</a> </li>
-                                             <li><a href="/deals/june-clarins-water-comfort-one-step-cleanser-200ml-rm71">CLARINS Water Comfort One-Step Cleanser 200ml</a> </li>
-                                             <li><a href="/deals/june-clarins-water-purify-one-step-cleanser-200ml-rm71">CLARINS Water Purify One-Step Cleanser 200ml</a> </li>
-                                             <li><a href="/deals/june-shiseido-revital-wrinklelift-retino-science-aa-eye-masks-rm156">SHISEIDO Revital Wrinklelift Retino Science AA Eye Masks</a> </li>
-                                             <li>
-                                                <a href="/kuala-lumpur/deals/beauty" style="color: #900;font-weight:bold;">
-                                                   View More
-                                                </a>
-                                             </li> 
-                                </ul>
-                            </li>
-                                <li><a href="#">Categories</a><i class="fa fa-chevron-right"></i>
-                                    <ul>
-                                            <li><a href="/mall/department/beauty-accessories">Accesories</a> </li>
-                                            <li><a href="/mall/department/beauty-cosmetics">Cosmetics</a> </li>
-                                            <li><a href="/mall/department/beauty-fragrances">Fragrances</a> </li>
-                                            <li><a href="/mall/department/beauty-body">Nails, Hair &amp; Body</a> </li>
-                                            <li><a href="/mall/department/beauty-skin-care">Skin Care</a> </li>
-                                    </ul>
-                                </li>
-                            <li><a href="#">Hot Deals</a><i class="fa fa-chevron-right"></i>
-                                    <ul>
-                                            <li><a href="/deals/june-clarins-extra-firming-eye-lift-perfecting-serum-15ml-rm123">CLARINS Extra-Firming Eye Lift Perfecting Serum 15ml</a> </li>
-                                            <li><a href="/deals/june-clarins-extra-firming-eye-wrinkle-smoothing-cream-15ml-rm114">CLARINS Extra-Firming Eye Wrinkle Smoothing Cream 15ml</a> </li>
-                                            <li><a href="/deals/june-clarins-body-shaping-cream-200ml-rm119">CLARINS Body Shaping Cream 200ml</a> </li>
-                                            <li><a href="/deals/june-clarins-gentle-foaming-cleanser-cottonseed-rm71">CLARINS Gentle Foaming Cleanser Cottonseed</a> </li>
-                                            <li><a href="/deals/june-clarins-contour-body-treatment-oil-100ml-rm103">CLARINS Contour Body Treatment Oil 100ml</a> </li>
-                                    </ul>
-                            </li>
-                        </ul>
-                </li>
-                <li><a class="parentcat" href="/kuala-lumpur/deals/home">HOME<i class="fa fa-chevron-right"></i></a>
-                        <ul>
-                            <li><a href="#">Today's Flash Sales</a><i class="fa fa-chevron-right"></i>
-                                <ul>
-                                             <li><a href="/deals/june-6-tier-stainless-steel-stackable-shoe-rack-bc52391">6-Tier Stainless Steel Stackable Shoe Rack</a> </li>
-                                             <li><a href="/deals/june-adjustable-10-tier-shoe-rack-with-cover-bc52313">Adjustable 10-Tier Shoe Rack with Cover</a> </li>
-                                             <li><a href="/deals/june-automatic-handsfree-soap-dispenser-bc52290">Automatic Handsfree Soap Dispenser</a> </li>
-                                             <li><a href="/deals/june-collapsible-stainless-steel-cooking-basket-bc51966">Collapsible Stainless Steel Cooking Basket</a> </li>
-                                             <li><a href="/deals/june-cook-shape-kitchen-timer-3-colours-bc51981">Cook shape Kitchen timer/ 3 colours</a> </li>
-                                             <li>
-                                                <a href="/kuala-lumpur/deals/home" style="color: #900;font-weight:bold;">
-                                                   View More
-                                                </a>
-                                             </li> 
-                                </ul>
-                            </li>
-                                <li><a href="#">Categories</a><i class="fa fa-chevron-right"></i>
-                                    <ul>
-                                            <li><a href="/mall/department/home-bathroom">Bathroom</a> </li>
-                                            <li><a href="/mall/department/home-bedroom">Bedroom</a> </li>
-                                            <li><a href="/mall/department/home-decor">Decor</a> </li>
-                                            <li><a href="/mall/department/home-essentials">Essentials</a> </li>
-                                            <li><a href="/mall/department/home-garden">Garden</a> </li>
-                                            <li><a href="/mall/department/home-storage">Home Storage</a> </li>
-                                            <li><a href="/mall/department/home-kitchen-dining">Kitchen</a> </li>
-                                            <li><a href="/mall/department/home-living-room">Living Room</a> </li>
-                                            <li><a href="/mall/department/home-pets">Pet</a> </li>
-                                    </ul>
-                                </li>
-                            <li><a href="#">Hot Deals</a><i class="fa fa-chevron-right"></i>
-                                    <ul>
-                                            <li><a href="/deals/june-6-tier-stainless-steel-stackable-shoe-rack-bc52391">6-Tier Stainless Steel Stackable Shoe Rack</a> </li>
-                                            <li><a href="/deals/june-adjustable-10-tier-shoe-rack-with-cover-bc52313">Adjustable 10-Tier Shoe Rack with Cover</a> </li>
-                                            <li><a href="/deals/june-automatic-handsfree-soap-dispenser-bc52290">Automatic Handsfree Soap Dispenser</a> </li>
-                                            <li><a href="/deals/june-collapsible-stainless-steel-cooking-basket-bc51966">Collapsible Stainless Steel Cooking Basket</a> </li>
-                                            <li><a href="/deals/june-cook-shape-kitchen-timer-3-colours-bc51981">Cook shape Kitchen timer/ 3 colours</a> </li>
-                                    </ul>
-                            </li>
-                        </ul>
-                </li>
-                <li><a class="parentcat" href="/kuala-lumpur/deals/tech-gadgets">GADGETS<i class="fa fa-chevron-right"></i></a>
-                        <ul>
-                            <li><a href="#">Today's Flash Sales</a><i class="fa fa-chevron-right"></i>
-                                <ul>
-                                             <li><a href="/deals/june-3rd-generation-xiaomi-hezi-set-top-box--accessories-bc52302">3rd-generation Xiaomi Hezi Set-top Box + accessories</a> </li>
-                                             <li><a href="/deals/june-digital-arm-blood-pressure-monitor-bc52400">Digital Arm Blood Pressure Monitor</a> </li>
-                                             <li><a href="/deals/june-foldable-laptop-desk-bc52408">Foldable Laptop Desk</a> </li>
-                                             <li><a href="/deals/june-hands-free-book-stand-bc52259">Hands Free Book Stand</a> </li>
-                                             <li>
-                                                <a href="/kuala-lumpur/deals/tech-gadgets" style="color: #900;font-weight:bold;">
-                                                   View More
-                                                </a>
-                                             </li> 
-                                </ul>
-                            </li>
-                                <li><a href="#">Categories</a><i class="fa fa-chevron-right"></i>
-                                    <ul>
-                                            <li><a href="/mall/department/tech-gadgets-audio-visual">Audio Visual</a> </li>
-                                            <li><a href="/mall/department/tech-gadgets-cameras">Cameras</a> </li>
-                                            <li><a href="/mall/department/tech-gadgets-computers-tablets">Computer &amp; Tablets</a> </li>
-                                            <li><a href="/mall/department/tech-gadgets-mobile-phones">Mobile Phones</a> </li>
-                                            <li><a href="/mall/department/tech-gadgets-speakers-headphones">Speaker &amp; Headphones</a> </li>
-                                    </ul>
-                                </li>
-                            <li><a href="#">Hot Deals</a><i class="fa fa-chevron-right"></i>
-                                    <ul>
-                                            <li><a href="/deals/june-3rd-generation-xiaomi-hezi-set-top-box--accessories-bc52302">3rd-generation Xiaomi Hezi Set-top Box + accessories</a> </li>
-                                            <li><a href="/deals/june-digital-arm-blood-pressure-monitor-bc52400">Digital Arm Blood Pressure Monitor</a> </li>
-                                            <li><a href="/deals/june-foldable-laptop-desk-bc52408">Foldable Laptop Desk</a> </li>
-                                            <li><a href="/deals/june-hands-free-book-stand-bc52259">Hands Free Book Stand</a> </li>
-                                    </ul>
-                            </li>
-                        </ul>
-                </li>
-                <li><a class="parentcat" href="/kuala-lumpur/deals/lifestyle">LIFESTYLE<i class="fa fa-chevron-right"></i></a>
-                        <ul>
-                            <li><a href="#">Today's Flash Sales</a><i class="fa fa-chevron-right"></i>
-                                <ul>
-                                             <li><a href="/deals/june-4-wheel-hand-truck-2-colours-bc52402">4-Wheel Hand Truck, 2 Colours</a> </li>
-                                             <li><a href="/deals/june-in-car-insulated-cabinet-bc52420">In-car Insulated Cabinet</a> </li>
-                                             <li><a href="/deals/june-professional-hole-punch-tool-bc52390">Professional Hole Punch Tool</a> </li>
-                                             <li><a href="/deals/june-versatile-twistable-pillow-bc52262">Versatile Twistable Pillow</a> </li>
-                                             <li>
-                                                <a href="/kuala-lumpur/deals/lifestyle" style="color: #900;font-weight:bold;">
-                                                   View More
-                                                </a>
-                                             </li> 
-                                </ul>
-                            </li>
-                                <li><a href="#">Categories</a><i class="fa fa-chevron-right"></i>
-                                    <ul>
-                                            <li><a href="/mall/department/lifestyle-auto">Auto</a> </li>
-                                            <li><a href="/mall/department/lifestyle-books">Books</a> </li>
-                                            <li><a href="/mall/department/lifestyle-costumes">Costumes</a> </li>
-                                            <li><a href="/mall/department/lifestyle-fun">Fun</a> </li>
-                                            <li><a href="/mall/department/lifestyle-gifts">Gift</a> </li>
-                                            <li><a href="/mall/department/lifestyle-outdoor">Outdoor</a> </li>
-                                            <li><a href="/mall/department/lifestyle-sports">Sports</a> </li>
-                                            <li><a href="/mall/department/lifestyle-stationery">Stationary</a> </li>
-                                            <li><a href="/mall/department/lifestyle-travel">Travel</a> </li>
-                                    </ul>
-                                </li>
-                            <li><a href="#">Hot Deals</a><i class="fa fa-chevron-right"></i>
-                                    <ul>
-                                            <li><a href="/deals/june-4-wheel-hand-truck-2-colours-bc52402">4-Wheel Hand Truck, 2 Colours</a> </li>
-                                            <li><a href="/deals/june-in-car-insulated-cabinet-bc52420">In-car Insulated Cabinet</a> </li>
-                                            <li><a href="/deals/june-professional-hole-punch-tool-bc52390">Professional Hole Punch Tool</a> </li>
-                                            <li><a href="/deals/june-versatile-twistable-pillow-bc52262">Versatile Twistable Pillow</a> </li>
-                                    </ul>
-                            </li>
-                        </ul>
-                </li>
-                <li><a class="parentcat" href="/kuala-lumpur/deals/treats">TRAVEL &amp; TREATS<i class="fa fa-chevron-right"></i></a>
-                </li>
-            <li><a class="parentcat" href="#">XPRESS<i class="fa fa-chevron-right"></i></a>
-                <ul>
-                    <li><a href="#">Today Flash Sales</a><i class="fa fa-chevron-right"></i>
-                            <ul>
-                                <li><a href="/kuala-lumpur/deals/xpress" style="color: #900; font-weight: bold;">View
-                                    More</a></li>
-                            </ul>
-                    </li>
-                    <li><a href="#">Hot Deals</a><i class="fa fa-chevron-right"></i>
-                    </li>
-                </ul>
-            </li>
-        </ul>
-   </div>
-   <div id="slidingContent" data-snap-ignore="true">
-      <div id="headerWrapper">
-    <div id="headerTop">
-        <div id="header" class="mobile-hidden">
-            <div id="header_nav">
-                <ul class="hnav_ul">
-                        <li class="hnav_li" style="margin-right: -2px;"><a href="/users/login" class="header_signin">
-                            <span class="header_label">SIGN IN</span></a></li>
-                        <li class="hnav_li" style="margin-right: -1px;"><a href="/users/register" class="header_register">
-                            <span class="header_label">REGISTER</span></a></li>
-                    <li class="hnav_li"><a href="http://www.mydeal.com.my/deals/dealmates/connect?utm_source=dealmates&amp;utm_medium=button&amp;utm_campaign=DMMY" target="_blank" class="header_mydeal"><img src="/images/asset/mydeal_rewards.png" style="height:32px;"></a></li>
-                    <li class="hnav_li"><a href="/cart" class="header_cart"><span class="header_label">0</span></a></li>
-                </ul>
-                    <div id="ddLogin" class="ddMenubar">
-                        <div>
-                            <a href="https://www.facebook.com/dialog/oauth?client_id=162802183749925&amp;redirect_uri=http%3a%2f%2fwww.dealmates.com.my%2ffblogin%2freg-t1&amp;scope=email,user_birthday,offline_access,publish_stream" style="width:230px;">
-                                <span class="header_fb_login"></span></a>
-                        </div>
-                        <div style="background: url('/images/asset/dd_or_divider.jpg') no-repeat; width: 240px;
-                            height: 15px; margin: 7px 0 7px 0;">
-                        </div>
-                        <div id="login-msg" class="hide">
-                        </div>
-                        <form id="login-form" action="/" method="post">
-                        <div class="form-group">
-                            <input type="text" id="user-email-menubar" name="user-email-menubar" class="form-control" placeholder="Email Address"></div>
-                        <div class="form-group">
-                            <input type="password" id="user-passwd-menubar" name="user-passwd-menubar" class="form-control" placeholder="Password"></div>
-                        
-                        <div class="checkbox">
-                            <label>
-                                <input type="checkbox" id="remember-me-menubar" name="remember-me-menubar" checked="checked" style="margin-top:1px">Remember
-                                me on this computer
-                            </label>
-                        </div>
-                        <div style="text-align: center">
-                            <a href="/users/forgotpassword" style="font-size: 11px; color: #99C5C4;">Forgot Your
-                                Password?</a> | <a href="/users/register" style="font-size: 11px; color: #99C5C4;">REGISTER</a></div>
-                        <div style="height: 35px; text-align: right;">
-                            <button value="Login" type="button" id="login-menubar">
-                            </button>
-                        </div>
-                        </form>
-                    </div>
-                    <div id="ddSignUp" class="ddMenubar">
-                        <div class="signup">
-                            <div>
-                                <a href="https://www.facebook.com/dialog/oauth?client_id=162802183749925&amp;redirect_uri=http%3a%2f%2fwww.dealmates.com.my%2ffblogin%2freg-t2&amp;scope=email,user_birthday,offline_access,publish_stream" style="width:206px;">
-                                    <span class="header_fb_login"></span></a>
-                                <div style="font-size: 11px; color: white; font-family: Arial; padding: 6px 0 0 0;">
-                                    *we don't post anything without your permission.</div>
-                            </div>
-                            <div>
-                                <iframe src="//www.facebook.com/plugins/facepile.php?appId=162802183749925&amp;size=small&amp;max_rows=1&amp;width=206&amp;colorscheme=dark&amp;" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:206px;height: 57px;" allowtransparency="true">
-                                </iframe>
-                            </div>
-                            <div style="background: url('/images/asset/dd_or_divider.jpg') no-repeat; width: 240px;
-                                height: 15px; margin: 7px 0 7px 0;">
-                            </div>
-                            <div class="customSignUp">
-                                <a href="/users/register" id="register-menubar"><span style="font-size: 11px; color: #99C5C4;
-                                    font-family: Arial;">Create an account with your email address</span></a></div>
-                        </div>
-                    </div>
-            </div>
-        </div>
-      <div id="header_toStick">
-         <table id="header_table">
-            <tbody><tr>
-               <td>
-                  <a href="/"><img src="/images/asset/dealmates_logo.png" class="header_logo" alt="Dealmates.com"></a>
-                  <a href="http://mydeal.com.my"><img src="/images/asset/mydeal_partnership_logo.png" class="header_logo mobile-hidden" alt="myDeal Partnership"></a>
-               </td>
-               <td>
-                  <div id="headerRight">
-                     <div id="mobileCart">
-                        <a href="/cart">
-                           <span>0</span>
-                        </a>
-                     </div>
-                     <div id="nav_btn">
-                        <a href="#"><span></span><span></span><span></span></a>
-                     </div>
-                  </div>
-                  <div class="fr">
-<form action="/mall/search" class="mobile-hidden" id="search_form" method="get">                        <input type="text" id="top_search" name="q" placeholder="Search" class="search">
-                        <button id="btnSearch" class="searchBtn" type="submit">
-                           <img src="/images/asset/search.png" alt="" style="width: 20px;">
-                        </button>
-</form>                  </div>
-               </td>
-            </tr>
-         </tbody></table>
-      </div>
-   </div>
-   <div class="navbar">
-      <ul class="nav">
-         <li class="dropdown"><a class="aTop" href="/kuala-lumpur/deals/all"><span>ALL</span></a></li>
-            <li class="dropdown"><a class="aTop" href="/kuala-lumpur/deals/best-sellers"><span>BEST SELLERS</span></a>
-                  
-                     <div class="fulldrop ">
-                        <div class="column" style="background-color: #FFFFFF; box-shadow: 5px -46px 15px 0 rgba(0, 0, 0, 0.07)">
-                              <h3>
-                                 Today's Flash Sales</h3>
-                              <ul>
-                                                 <li><a href="http://www.dealmates.com.my/mydealredirect?r=http%3a%2f%2fwww.mydeal.com.my%2fdeals%2fkuala-lumpur%2f500-thread-count-bed-sheet-set-single-queen-king-available-17-designs-includes-de%3fa_aid%3ddealmates%26PartnerId%3ddealmates" target="_blank">500 Thread-Count Bed Sheet Set for Single / Queen / King (available in 17 designs) - Includes Delivery</a></li>
-                                                 <li><a href="http://www.dealmates.com.my/mydealredirect?r=http%3a%2f%2fwww.mydeal.com.my%2fdeals%2fkuala-lumpur%2fcartoon-vacuum-thermal-bottle-available-7-designs-includes-delivery%3fa_aid%3ddealmates%26PartnerId%3ddealmates" target="_blank">Cartoon Vacuum Thermal Bottle (available in 7 designs) - Includes Delivery</a></li>
-                                                 <li><a href="http://www.dealmates.com.my/mydealredirect?r=http%3a%2f%2fwww.mydeal.com.my%2fdeals%2fkuala-lumpur%2fexpress-delivery-24k-gold-face-slimming-beauty-bar%3fa_aid%3ddealmates%26PartnerId%3ddealmates" target="_blank">Express Delivery! 24K Gold Face Slimming Beauty Bar</a></li>
-                                                 <li><a href="http://www.dealmates.com.my/mydealredirect?r=http%3a%2f%2fwww.mydeal.com.my%2fdeals%2fkuala-lumpur%2fexpress-delivery-cartoon-inspired-flask%3fa_aid%3ddealmates%26PartnerId%3ddealmates" target="_blank">Express Delivery! Cartoon Inspired Flask</a></li>
-                                                 <li><a href="http://www.dealmates.com.my/mydealredirect?r=http%3a%2f%2fwww.mydeal.com.my%2fdeals%2fkuala-lumpur%2fexpress-delivery-2-pairs-strutz-cushioned-arch-support%3fa_aid%3ddealmates%26PartnerId%3ddealmates" target="_blank">Express Delivery! 2 Pairs of Strutz Cushioned Arch Support</a></li>
-                                                 <li><a href="http://www.dealmates.com.my/mydealredirect?r=http%3a%2f%2fwww.mydeal.com.my%2fdeals%2fkuala-lumpur%2fexpress-delivery-pan-tree-cookware-organizer-1%3fa_aid%3ddealmates%26PartnerId%3ddealmates" target="_blank">Express Delivery! Pan Tree Cookware Organizer</a></li>
-                                                 <li><a href="http://www.dealmates.com.my/mydealredirect?r=http%3a%2f%2fwww.mydeal.com.my%2fdeals%2fkuala-lumpur%2fexpress-delivery-philips-cordless-2-razor-heads-shaver%3fa_aid%3ddealmates%26PartnerId%3ddealmates" target="_blank">Express Delivery! Philips Cordless 2 Razor Heads Shaver</a></li>
-                                                 <li><a href="http://www.dealmates.com.my/mydealredirect?r=http%3a%2f%2fwww.mydeal.com.my%2fdeals%2fkuala-lumpur%2fpower-supply-ultra-slim-titanium-30000mah-universal-dual-port-power-bank-availabl%3fa_aid%3ddealmates%26PartnerId%3ddealmates" target="_blank">Power Supply Ultra Slim Titanium 30,000mAh Universal Dual-Port Power Bank (available in 4 colours) - Includes Delivery</a></li>
-                                                 <li><a href="http://www.dealmates.com.my/mydealredirect?r=http%3a%2f%2fwww.mydeal.com.my%2fdeals%2fkuala-lumpur%2fwaterproof-smartphone-case-available-6-colours-includes-delivery-0%3fa_aid%3ddealmates%26PartnerId%3ddealmates" target="_blank">Waterproof Smartphone Case (available in 6 colours) - Includes Delivery</a></li>
-                                                 <li><a href="http://www.dealmates.com.my/mydealredirect?r=http%3a%2f%2fwww.mydeal.com.my%2fdeals%2fkuala-lumpur%2fkorean-style-fashionable-backpack-available-4-colours-includes-delivery%3fa_aid%3ddealmates%26PartnerId%3ddealmates" target="_blank">Korean Style Fashionable Backpack (available in 4 colours) - Includes Delivery</a></li>
-                                   <li><a href="/kuala-lumpur/deals/best-sellers" style="color: #900;font-weight:bold;">View More</a></li> 
-                                 
-                              </ul>
-                        </div>
-                        <div>
-                              
-                        </div>
-                     </div>
-                                 
-                  
-            </li>
-            <li class="dropdown"><a class="aTop" href="/kuala-lumpur/deals/women"><span>WOMEN</span></a>
-                  
-                     <div class="fulldrop ">
-                        <div class="column" style="background-color: #FFFFFF; box-shadow: 5px -46px 15px 0 rgba(0, 0, 0, 0.07)">
-                              <h3>
-                                 Today's Flash Sales</h3>
-                              <ul>
-                                            <li><a href="/deals/june-2-way-maternity-supporting-belt-bc52449">2-way Maternity Supporting Belt</a> </li>
-                                            <li><a href="/deals/june-korean-3-way-multipurpose-foldable-tote-bc52330">Korean 3-Way Multipurpose Foldable Tote</a> </li>
-                                            <li><a href="/deals/june-chic-round-neck-metallic-dress-bc51955">Chic Round Neck Metallic Dress</a> </li>
-                                            <li><a href="/deals/june-elastic-yoga-pants-bc51957">Elastic Yoga Pants</a> </li>
-                                            <li><a href="/deals/june-heart-print-lightweight-outerwear-2-colours-bc51979">Heart Print Lightweight Outerwear/ 2 colours</a> </li>
-                                   <li><a href="/kuala-lumpur/deals/women" style="color: #900;font-weight:bold;">View More</a></li> 
-                                 
-                              </ul>
-                        </div>
-                        <div>
-                              
-                                  <div class="column">
-                                     <h3>Hot Deals</h3>
-                                        <ul>
-                                                 <li><a href="/deals/june-2-way-maternity-supporting-belt-bc52449">2-way Maternity Supporting Belt</a></li>
-                                                 <li><a href="/deals/june-korean-3-way-multipurpose-foldable-tote-bc52330">Korean 3-Way Multipurpose Foldable Tote</a></li>
-                                                 <li><a href="/deals/june-chic-round-neck-metallic-dress-bc51955">Chic Round Neck Metallic Dress</a></li>
-                                                 <li><a href="/deals/june-elastic-yoga-pants-bc51957">Elastic Yoga Pants</a></li>
-                                                 <li><a href="/deals/june-heart-print-lightweight-outerwear-2-colours-bc51979">Heart Print Lightweight Outerwear/ 2 colours</a></li>
-                                        </ul>
-                                  </div>
-                        </div>
-                     </div>
-                                 
-                  
-            </li>
-            <li class="dropdown"><a class="aTop" href="/kuala-lumpur/deals/men"><span>MEN</span></a>
-                  
-                     <div class="fulldrop ">
-                        <div class="column" style="background-color: #FFFFFF; box-shadow: 5px -46px 15px 0 rgba(0, 0, 0, 0.07)">
-                              <h3>
-                                 Today's Flash Sales</h3>
-                              <ul>
-                                   <li><a href="/kuala-lumpur/deals/men" style="color: #900;font-weight:bold;">View More</a></li> 
-                                 
-                              </ul>
-                        </div>
-                        <div>
-                              
-                        </div>
-                     </div>
-                                 
-                  
-            </li>
-            <li class="dropdown"><a class="aTop" href="/kuala-lumpur/deals/luxury"><span>LUXURY</span></a>
-                  
-                     <div class="fulldrop ">
-                        <div class="column" style="background-color: #FFFFFF; box-shadow: 5px -46px 15px 0 rgba(0, 0, 0, 0.07)">
-                              <h3>
-                                 Today's Flash Sales</h3>
-                              <ul>
-                                            <li><a href="/deals/june-salvatore-ferragamo-quilted-shoulder-clutch-in-black-22c150-587825-rm1774">Salvatore Ferragamo Quilted Shoulder Clutch in Black 22C150 587825</a> </li>
-                                            <li><a href="/deals/june-salvatore-ferragamo-vara-bow-long-wallet-in-nero-22b559-588261-rm1146">Salvatore Ferragamo Vara Bow Long Wallet in Nero 22B559 588261</a> </li>
-                                            <li><a href="/deals/june-salvatore-ferragamo-vara-bow-long-wallet-in-storm-22b559-593428-rm1146">Salvatore Ferragamo Vara Bow Long Wallet in STORM 22B559 593428</a> </li>
-                                            <li><a href="/deals/june-salvatore-ferragamo-vara-flag-shoulder-bag-in-grape-21d855-584498-rm2066">Salvatore Ferragamo Vara Flag Shoulder Bag in GRAPE 21D855 584498</a> </li>
-                                            <li><a href="/deals/june-yslsaint-laurent-leather-y-clutch-in-yellow-311213-bj50j-7111-rm2701">YSL/Saint Laurent Leather  Y Clutch in Yellow 311213 BJ50J 7111</a> </li>
-                                            <li><a href="/deals/june-yslsaint-laurent-leather-y-clutch-in-marine-311213-bj50j-4136-rm2860">YSL/Saint Laurent Leather Y Clutch in Marine 311213 BJ50J 4136</a> </li>
-                                            <li><a href="/deals/june-yslsaint-laurent-leather-y-clutch-in-terra-311213-bj50j-2034-rm2860">YSL/Saint Laurent Leather Y Clutch in Terra 311213 BJ50J 2034</a> </li>
-                                   <li><a href="/kuala-lumpur/deals/luxury" style="color: #900;font-weight:bold;">View More</a></li> 
-                                 
-                              </ul>
-                        </div>
-                        <div>
-                              
-                                  <div class="column">
-                                     <h3>Hot Deals</h3>
-                                        <ul>
-                                                 <li><a href="/deals/june-armani-exchange-fashion-sunglasses-4-styles-rm229">Armani Exchange Fashion Sunglasses, 4 styles</a></li>
-                                                 <li><a href="/deals/june-bally-bi-fold-leather-wallet-in-black-6166596001-tye290-rm668">Bally Bi-fold Leather Wallet in Black 6166596001 TYE/290</a></li>
-                                                 <li><a href="/deals/june-bally-bi-fold-leather-wallet-in-chocolate-6166595001-tye271-rm668">Bally Bi-fold Leather Wallet in Chocolate 6166595001 TYE/271</a></li>
-                                                 <li><a href="/deals/june-bally-lollten-leather-wallet-in-new-blue-6178246001-lollten14-rm668">Bally LOLLTEN Leather Wallet in NEW BLUE 6178246001 LOLLTEN/14</a></li>
-                                                 <li><a href="/deals/june-bally-lollten-leather-wallet-in-new-blue-6178246001-lollten34-rm668">Bally LOLLTEN Leather Wallet in NEW BLUE 6178246001 LOLLTEN/34</a></li>
-                                        </ul>
-                                  </div>
-                        </div>
-                     </div>
-                                 
-                  
-            </li>
-            <li class="dropdown"><a class="aTop" href="/kuala-lumpur/deals/babies-kids"><span>BABIES &amp; KIDS</span></a>
-                  
-                     <div class="fulldrop ">
-                        <div class="column" style="background-color: #FFFFFF; box-shadow: 5px -46px 15px 0 rgba(0, 0, 0, 0.07)">
-                              <h3>
-                                 Today's Flash Sales</h3>
-                              <ul>
-                                            <li><a href="/deals/june-baby-car-seat-bc52307">Baby Car Seat</a> </li>
-                                            <li><a href="/deals/june-absorbent-cartoon-sweat-cloth-2-pcs-bc51964">Absorbent Cartoon Sweat Cloth, 2 Pcs</a> </li>
-                                            <li><a href="/deals/june-cartoon-animals-storage-basket--7-patterns-bc51963">Cartoon Animals Storage Basket / 7 patterns</a> </li>
-                                            <li><a href="/deals/june-childrens-4-fold-play--rest-mat-bc51983">Children's 4-Fold Play / Rest Mat</a> </li>
-                                            <li><a href="/deals/june-cupcake-land-glow-in-the-dark-wall-decals-bc51982">Cupcake Land Glow in the Dark Wall Decals</a> </li>
-                                   <li><a href="/kuala-lumpur/deals/babies-kids" style="color: #900;font-weight:bold;">View More</a></li> 
-                                 
-                              </ul>
-                        </div>
-                        <div>
-                              
-                                  <div class="column">
-                                     <h3>Hot Deals</h3>
-                                        <ul>
-                                                 <li><a href="/deals/june-baby-car-seat-bc52307">Baby Car Seat</a></li>
-                                                 <li><a href="/deals/june-absorbent-cartoon-sweat-cloth-2-pcs-bc51964">Absorbent Cartoon Sweat Cloth, 2 Pcs</a></li>
-                                                 <li><a href="/deals/june-cartoon-animals-storage-basket--7-patterns-bc51963">Cartoon Animals Storage Basket / 7 patterns</a></li>
-                                                 <li><a href="/deals/june-childrens-4-fold-play--rest-mat-bc51983">Children's 4-Fold Play / Rest Mat</a></li>
-                                                 <li><a href="/deals/june-cupcake-land-glow-in-the-dark-wall-decals-bc51982">Cupcake Land Glow in the Dark Wall Decals</a></li>
-                                        </ul>
-                                  </div>
-                        </div>
-                     </div>
-                                 
-                  
-            </li>
-            <li class="dropdown"><a class="aTop" href="/kuala-lumpur/deals/dining"><span>DINING</span></a>
-                  
-                     <div class="fulldrop ">
-                        <div class="column" style="background-color: #FFFFFF; box-shadow: 5px -46px 15px 0 rgba(0, 0, 0, 0.07)">
-                              <h3>
-                                 Today's Flash Sales</h3>
-                              <ul>
-                                        <li><a href="http://www.dealmates.com.my/mydealredirect?r=http%3a%2f%2fwww.mydeal.com.my%2fdeals%2fkuala-lumpur%2frm30-cash-vouchers-food-drinks-kansas-city-steak-ribs-puchong%3fa_aid%3ddealmates%26PartnerId%3ddealmates" target="_blank">From RM30 for Cash Vouchers for Food amp; Drinks at Kansas City Steak amp; Ribs, Puchong</a></li>
-                                        <li><a href="http://www.dealmates.com.my/mydealredirect?r=http%3a%2f%2fwww.mydeal.com.my%2fdeals%2fkuala-lumpur%2frm25-rm35-pax-buffet-dinner-ramadan-period-ahmad-al-bab-restaurant-seri-kembangan%3fa_aid%3ddealmates%26PartnerId%3ddealmates" target="_blank">From RM25-RM35 per pax for a Buffet Dinner for Ramadan Period at Ahmad Al-BaB Restaurant, Seri Kembangan, Selangor</a></li>
-                                        <li><a href="http://www.dealmates.com.my/mydealredirect?r=http%3a%2f%2fwww.mydeal.com.my%2fdeals%2fkuala-lumpur%2fonly-rm55-all-you-can-eat-international-buffet-dinner-or-weekend-high-tea-hotel-0%3fa_aid%3ddealmates%26PartnerId%3ddealmates" target="_blank">Only RM55 for All-You-Can-Eat International Buffet Dinner OR Weekend High-Tea at Hotel Istana, KL</a></li>
-                                        <li><a href="http://www.dealmates.com.my/mydealredirect?r=http%3a%2f%2fwww.mydeal.com.my%2fdeals%2fkuala-lumpur%2frm40-cash-voucher-worth-rm70-food-drinks-korean-bbq-seoul-palace-4-locations%3fa_aid%3ddealmates%26PartnerId%3ddealmates" target="_blank">RM40 Cash Voucher worth RM70 for Food amp; Drinks at Korean BBQ Seoul Palace (4 locations)</a></li>
-                                        <li><a href="http://www.dealmates.com.my/mydealredirect?r=http%3a%2f%2fwww.mydeal.com.my%2fdeals%2fkuala-lumpur%2fcountdown-special-mystery-buffet-deal-so-stick-around-23%3fa_aid%3ddealmates%26PartnerId%3ddealmates" target="_blank">Countdown To A Special MYSTERY BUFFET DEAL, So Stick Around!</a></li>
-                                        <li><a href="http://www.dealmates.com.my/mydealredirect?r=http%3a%2f%2fwww.mydeal.com.my%2fdeals%2fkuala-lumpur%2fcountdown-special-mystery-buffet-deal-so-stick-around-22%3fa_aid%3ddealmates%26PartnerId%3ddealmates" target="_blank">Countdown To A Special MYSTERY BUFFET DEAL, So Stick Around!</a></li>
-                                        <li><a href="http://www.dealmates.com.my/mydealredirect?r=http%3a%2f%2fwww.mydeal.com.my%2fdeals%2fkuala-lumpur%2fcountdown-special-mystery-buffet-deal-so-stick-around-21%3fa_aid%3ddealmates%26PartnerId%3ddealmates" target="_blank">Countdown To A Special MYSTERY BUFFET DEAL, So Stick Around!</a></li>
-                                        <li><a href="http://www.dealmates.com.my/mydealredirect?r=http%3a%2f%2fwww.mydeal.com.my%2fdeals%2fkuala-lumpur%2fcountdown-special-mystery-buffet-deal-so-stick-around-20%3fa_aid%3ddealmates%26PartnerId%3ddealmates" target="_blank">Countdown To A Special MYSTERY BUFFET DEAL, So Stick Around!</a></li>
-                                        <li><a href="http://www.dealmates.com.my/mydealredirect?r=http%3a%2f%2fwww.mydeal.com.my%2fdeals%2fkuala-lumpur%2fcountdown-special-mystery-buffet-deal-so-stick-around-19%3fa_aid%3ddealmates%26PartnerId%3ddealmates" target="_blank">Countdown To A Special MYSTERY BUFFET DEAL, So Stick Around!</a></li>
-                                        <li><a href="http://www.dealmates.com.my/mydealredirect?r=http%3a%2f%2fwww.mydeal.com.my%2fdeals%2fkuala-lumpur%2fcountdown-special-mystery-buffet-deal-so-stick-around-18%3fa_aid%3ddealmates%26PartnerId%3ddealmates" target="_blank">Countdown To A Special MYSTERY BUFFET DEAL, So Stick Around!</a></li>
-                                   <li><a href="/kuala-lumpur/deals/dining" style="color: #900;font-weight:bold;">View More</a></li> 
-                                 
-                              </ul>
-                        </div>
-                        <div>
-                              
-                        </div>
-                     </div>
-                                 
-                  
-            </li>
-            <li class="dropdown"><a class="aTop" href="/kuala-lumpur/deals/beauty"><span>BEAUTY</span></a>
-                  
-                     <div class="fulldrop ">
-                        <div class="column" style="background-color: #FFFFFF; box-shadow: 5px -46px 15px 0 rgba(0, 0, 0, 0.07)">
-                              <h3>
-                                 Today's Flash Sales</h3>
-                              <ul>
-                                            <li><a href="/deals/june-clarins-extra-firming-eye-lift-perfecting-serum-15ml-rm123">CLARINS Extra-Firming Eye Lift Perfecting Serum 15ml</a> </li>
-                                            <li><a href="/deals/june-clarins-extra-firming-eye-wrinkle-smoothing-cream-15ml-rm114">CLARINS Extra-Firming Eye Wrinkle Smoothing Cream 15ml</a> </li>
-                                            <li><a href="/deals/june-clarins-gentle-peeling-smooth-away-cream-50ml-rm69">CLARINS Gentle Peeling Smooth Away Cream 50ml</a> </li>
-                                            <li><a href="/deals/june-clarins-gentle-refiner-exfoliating-cream-50ml-rm69">CLARINS Gentle Refiner Exfoliating Cream 50ml</a> </li>
-                                            <li><a href="/deals/june-clarins-hydraquench-cream-mask-75ml-rm76">CLARINS HydraQuench Cream-Mask 75ml</a> </li>
-                                            <li><a href="/deals/june-clarins-skin-smoothing-eye-mask-30ml-rm94">CLARINS Skin Smoothing Eye Mask 30ml</a> </li>
-                                            <li><a href="/deals/june-clarins-water-comfort-one-step-cleanser-200ml-rm71">CLARINS Water Comfort One-Step Cleanser 200ml</a> </li>
-                                            <li><a href="/deals/june-clarins-water-purify-one-step-cleanser-200ml-rm71">CLARINS Water Purify One-Step Cleanser 200ml</a> </li>
-                                            <li><a href="/deals/june-shiseido-revital-wrinklelift-retino-science-aa-eye-masks-rm156">SHISEIDO Revital Wrinklelift Retino Science AA Eye Masks</a> </li>
-                                   <li><a href="/kuala-lumpur/deals/beauty" style="color: #900;font-weight:bold;">View More</a></li> 
-                                 
-                              </ul>
-                        </div>
-                        <div>
-                              
-                                  <div class="column">
-                                     <h3>Hot Deals</h3>
-                                        <ul>
-                                                 <li><a href="/deals/june-clarins-extra-firming-eye-lift-perfecting-serum-15ml-rm123">CLARINS Extra-Firming Eye Lift Perfecting Serum 15ml</a></li>
-                                                 <li><a href="/deals/june-clarins-extra-firming-eye-wrinkle-smoothing-cream-15ml-rm114">CLARINS Extra-Firming Eye Wrinkle Smoothing Cream 15ml</a></li>
-                                                 <li><a href="/deals/june-clarins-body-shaping-cream-200ml-rm119">CLARINS Body Shaping Cream 200ml</a></li>
-                                                 <li><a href="/deals/june-clarins-gentle-foaming-cleanser-cottonseed-rm71">CLARINS Gentle Foaming Cleanser Cottonseed</a></li>
-                                                 <li><a href="/deals/june-clarins-contour-body-treatment-oil-100ml-rm103">CLARINS Contour Body Treatment Oil 100ml</a></li>
-                                        </ul>
-                                  </div>
-                        </div>
-                     </div>
-                                 
-                  
-            </li>
-            <li class="dropdown"><a class="aTop" href="/kuala-lumpur/deals/home"><span>HOME</span></a>
-                  
-                     <div class="fulldrop ">
-                        <div class="column" style="background-color: #FFFFFF; box-shadow: 5px -46px 15px 0 rgba(0, 0, 0, 0.07)">
-                              <h3>
-                                 Today's Flash Sales</h3>
-                              <ul>
-                                            <li><a href="/deals/june-6-tier-stainless-steel-stackable-shoe-rack-bc52391">6-Tier Stainless Steel Stackable Shoe Rack</a> </li>
-                                            <li><a href="/deals/june-adjustable-10-tier-shoe-rack-with-cover-bc52313">Adjustable 10-Tier Shoe Rack with Cover</a> </li>
-                                            <li><a href="/deals/june-automatic-handsfree-soap-dispenser-bc52290">Automatic Handsfree Soap Dispenser</a> </li>
-                                            <li><a href="/deals/june-collapsible-stainless-steel-cooking-basket-bc51966">Collapsible Stainless Steel Cooking Basket</a> </li>
-                                            <li><a href="/deals/june-cook-shape-kitchen-timer-3-colours-bc51981">Cook shape Kitchen timer/ 3 colours</a> </li>
-                                   <li><a href="/kuala-lumpur/deals/home" style="color: #900;font-weight:bold;">View More</a></li> 
-                                 
-                              </ul>
-                        </div>
-                        <div>
-                              
-                                  <div class="column">
-                                     <h3>Hot Deals</h3>
-                                        <ul>
-                                                 <li><a href="/deals/june-6-tier-stainless-steel-stackable-shoe-rack-bc52391">6-Tier Stainless Steel Stackable Shoe Rack</a></li>
-                                                 <li><a href="/deals/june-adjustable-10-tier-shoe-rack-with-cover-bc52313">Adjustable 10-Tier Shoe Rack with Cover</a></li>
-                                                 <li><a href="/deals/june-automatic-handsfree-soap-dispenser-bc52290">Automatic Handsfree Soap Dispenser</a></li>
-                                                 <li><a href="/deals/june-collapsible-stainless-steel-cooking-basket-bc51966">Collapsible Stainless Steel Cooking Basket</a></li>
-                                                 <li><a href="/deals/june-cook-shape-kitchen-timer-3-colours-bc51981">Cook shape Kitchen timer/ 3 colours</a></li>
-                                        </ul>
-                                  </div>
-                        </div>
-                     </div>
-                                 
-                  
-            </li>
-            <li class="dropdown"><a class="aTop" href="/kuala-lumpur/deals/tech-gadgets"><span>GADGETS</span></a>
-                  
-                     <div class="fulldrop ">
-                        <div class="column" style="background-color: #FFFFFF; box-shadow: 5px -46px 15px 0 rgba(0, 0, 0, 0.07)">
-                              <h3>
-                                 Today's Flash Sales</h3>
-                              <ul>
-                                            <li><a href="/deals/june-3rd-generation-xiaomi-hezi-set-top-box--accessories-bc52302">3rd-generation Xiaomi Hezi Set-top Box + accessories</a> </li>
-                                            <li><a href="/deals/june-digital-arm-blood-pressure-monitor-bc52400">Digital Arm Blood Pressure Monitor</a> </li>
-                                            <li><a href="/deals/june-foldable-laptop-desk-bc52408">Foldable Laptop Desk</a> </li>
-                                            <li><a href="/deals/june-hands-free-book-stand-bc52259">Hands Free Book Stand</a> </li>
-                                   <li><a href="/kuala-lumpur/deals/tech-gadgets" style="color: #900;font-weight:bold;">View More</a></li> 
-                                 
-                              </ul>
-                        </div>
-                        <div>
-                              
-                                  <div class="column">
-                                     <h3>Hot Deals</h3>
-                                        <ul>
-                                                 <li><a href="/deals/june-3rd-generation-xiaomi-hezi-set-top-box--accessories-bc52302">3rd-generation Xiaomi Hezi Set-top Box + accessories</a></li>
-                                                 <li><a href="/deals/june-digital-arm-blood-pressure-monitor-bc52400">Digital Arm Blood Pressure Monitor</a></li>
-                                                 <li><a href="/deals/june-foldable-laptop-desk-bc52408">Foldable Laptop Desk</a></li>
-                                                 <li><a href="/deals/june-hands-free-book-stand-bc52259">Hands Free Book Stand</a></li>
-                                        </ul>
-                                  </div>
-                        </div>
-                     </div>
-                                 
-                  
-            </li>
-            <li class="dropdown"><a class="aTop" href="/kuala-lumpur/deals/lifestyle"><span>LIFESTYLE</span></a>
-                  
-                     <div class="fulldrop last">
-                        <div class="column" style="background-color: #FFFFFF; box-shadow: 5px -46px 15px 0 rgba(0, 0, 0, 0.07)">
-                              <h3>
-                                 Today's Flash Sales</h3>
-                              <ul>
-                                            <li><a href="/deals/june-4-wheel-hand-truck-2-colours-bc52402">4-Wheel Hand Truck, 2 Colours</a> </li>
-                                            <li><a href="/deals/june-in-car-insulated-cabinet-bc52420">In-car Insulated Cabinet</a> </li>
-                                            <li><a href="/deals/june-professional-hole-punch-tool-bc52390">Professional Hole Punch Tool</a> </li>
-                                            <li><a href="/deals/june-versatile-twistable-pillow-bc52262">Versatile Twistable Pillow</a> </li>
-                                   <li><a href="/kuala-lumpur/deals/lifestyle" style="color: #900;font-weight:bold;">View More</a></li> 
-                                 
-                              </ul>
-                        </div>
-                        <div>
-                              
-                                  <div class="column">
-                                     <h3>Hot Deals</h3>
-                                        <ul>
-                                                 <li><a href="/deals/june-4-wheel-hand-truck-2-colours-bc52402">4-Wheel Hand Truck, 2 Colours</a></li>
-                                                 <li><a href="/deals/june-in-car-insulated-cabinet-bc52420">In-car Insulated Cabinet</a></li>
-                                                 <li><a href="/deals/june-professional-hole-punch-tool-bc52390">Professional Hole Punch Tool</a></li>
-                                                 <li><a href="/deals/june-versatile-twistable-pillow-bc52262">Versatile Twistable Pillow</a></li>
-                                        </ul>
-                                  </div>
-                        </div>
-                     </div>
-                                 
-                  
-            </li>
-            <li class="dropdown"><a class="aTop" href="/kuala-lumpur/deals/treats"><span>TRAVEL &amp; TREATS</span></a>
-                  
-                     <div class="fulldrop last">
-                        <div class="column" style="background-color: #FFFFFF; box-shadow: 5px -46px 15px 0 rgba(0, 0, 0, 0.07)">
-                              <h3>
-                                 Today's Flash Sales</h3>
-                              <ul>
-                                        <li><a href="http://www.dealmates.com.my/mydealredirect?r=http%3a%2f%2fwww.mydeal.com.my%2fdeals%2fkuala-lumpur%2f5mil-or-6mil-us-made-security-film-car-tinting-10-year-warranty-free-1-set-wiper%3fa_aid%3ddealmates%26PartnerId%3ddealmates" target="_blank">5mil OR 6mil US-Made Security Film Car Tinting + 10-Year Warranty + FREE 1 Set Wiper</a></li>
-                                        <li><a href="http://www.dealmates.com.my/mydealredirect?r=http%3a%2f%2fwww.mydeal.com.my%2fdeals%2fkuala-lumpur%2fdiscover-malaysia-2d1n-3d2n-stay-family-apartment-genting-view-resort-5-person%3fa_aid%3ddealmates%26PartnerId%3ddealmates" target="_blank">Discover Malaysia! 2D1N / 3D2N Stay in Family Apartment at Genting View Resort for 5 person</a></li>
-                                        <li><a href="http://www.dealmates.com.my/mydealredirect?r=http%3a%2f%2fwww.mydeal.com.my%2fdeals%2fkuala-lumpur%2fdiscover-malaysia-perak-2d1n-stay-2pax-hotel-shangg%3fa_aid%3ddealmates%26PartnerId%3ddealmates" target="_blank">Discover Malaysia! Perak: 2D1N Stay for 2Pax at Hotel Shangg</a></li>
-                                        <li><a href="http://www.dealmates.com.my/mydealredirect?r=http%3a%2f%2fwww.mydeal.com.my%2fdeals%2fkuala-lumpur%2frm18-1-visit-fun-children-activities-book-n-joy-publika-solaris-dutamas%3fa_aid%3ddealmates%26PartnerId%3ddealmates" target="_blank">From RM18 for 1 Visit to Fun Children Activities at Book n Joy, Publika Solaris Dutamas</a></li>
-                                        <li><a href="http://www.dealmates.com.my/mydealredirect?r=http%3a%2f%2fwww.mydeal.com.my%2fdeals%2fkuala-lumpur%2frm38-2hr-oxy-7s-light-double-machine-face-spa-fleurs-beauty-institute-kepong%3fa_aid%3ddealmates%26PartnerId%3ddealmates" target="_blank">From RM38 for 2Hr Oxy 7S Light Double Machine Face Spa at Fleurs Beauty Institute, Kepong</a></li>
-                                        <li><a href="http://www.dealmates.com.my/mydealredirect?r=http%3a%2f%2fwww.mydeal.com.my%2fdeals%2fkuala-lumpur%2frm38-session-intensive-tummy-lipo-ginger-fat-burning-glow-glamour-slimming-and-be%3fa_aid%3ddealmates%26PartnerId%3ddealmates" target="_blank">From RM38 per session for Intensive Tummy Lipo Ginger Fat Burning - at Glow amp; Glamour Slimming and Beauty (Available at 6 Outlets)</a></li>
-                                        <li><a href="http://www.dealmates.com.my/mydealredirect?r=http%3a%2f%2fwww.mydeal.com.my%2fdeals%2fkuala-lumpur%2frm48-unlimited-belly-dancing-lessons-1-month-or-2-months-publika-kl%3fa_aid%3ddealmates%26PartnerId%3ddealmates" target="_blank">From RM48 For Unlimited Belly Dancing Lessons For 1 Month OR 2 Months at Publika, KL</a></li>
-                                        <li><a href="http://www.dealmates.com.my/mydealredirect?r=http%3a%2f%2fwww.mydeal.com.my%2fdeals%2fkuala-lumpur%2frm96-natures-holistic-colon-health-care-colon-hydro-therapy-natures-holistic-cent%3fa_aid%3ddealmates%26PartnerId%3ddealmates" target="_blank">From RM96 for Natures Holistic Colon amp; Health Care-Colon Hydro Therapy at Natures Holistic Centre, Petaling Jaya</a></li>
-                                        <li><a href="http://www.dealmates.com.my/mydealredirect?r=http%3a%2f%2fwww.mydeal.com.my%2fdeals%2fkuala-lumpur%2fhair-scalp-treatment-hair-cut-wash-blow-or-japanese-4-step-hair-treatment-wash-bl%3fa_aid%3ddealmates%26PartnerId%3ddealmates" target="_blank">Hair / Scalp Treatment + Hair Cut + Wash + Blow OR Japanese 4-Step Hair Treatment + Wash + Blow OR Hair Chemical + Hair Trim + Hair Treatment + Wash + Blow at Lavish Hair amp; Beauty Studio, Kepong</a></li>
-                                        <li><a href="http://www.dealmates.com.my/mydealredirect?r=http%3a%2f%2fwww.mydeal.com.my%2fdeals%2fkuala-lumpur%2fonly-rm38-1hr-45min-anti-aging-hydrating-anti-oxidant-facial-origin-cottage-salon%3fa_aid%3ddealmates%26PartnerId%3ddealmates" target="_blank">Only RM38 for 1Hr 45Min Anti-Aging / Hydrating / Anti-Oxidant Facial at Origin Cottage Salon</a></li>
-                                   <li><a href="/kuala-lumpur/deals/treats" style="color: #900;font-weight:bold;">View More</a></li> 
-                                 
-                              </ul>
-                        </div>
-                        <div>
-                              
-                        </div>
-                     </div>
-                                 
-                  
-            </li>
-         <li class="dropdown"><a class="aTop" href="/kuala-lumpur/deals/xpress"><span>XPRESS</span></a>
-            <div class="fulldrop last">
-                  <div class="column" style="background-color: #FFFFFF; box-shadow: 5px -46px 15px 0 rgba(0, 0, 0, 0.07)">
-                     <h3>
-                        Today's Flash Sales</h3>
-                     <ul>
-                              <li><a href="/kuala-lumpur/deals/xpress" style="color: #900; font-weight: bold;">View
-                                 More</a></li> 
-                     </ul>
-                  </div>
-                  <div>
-                     <div class="column">
-                        <h3>
-                              Hot Deals</h3>
-                     </div>
-                  </div>
-            </div>
-         </li>
-      </ul>
-   </div>
-   <div id="successMessage" class="infomsg hide"></div>
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:og="http://ogp.me/ns#"><head><title>Deals Ensogo Malaysia | Save, Smile, Share!</title><meta charset="utf8"><meta content="IE=Edge,chrome=1" http-equiv="X-UA-Compatible">
+<script src="https://js-agent.newrelic.com/nr-768.min.js"></script><script id="scarab-js-api" src="https://recommender.scarabresearch.com/js/18E6CD0F155D93C6/scarab-v2.js"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-N6HP6R"></script><script async="" src="//connect.facebook.net/en_US/fbds.js"></script><script async="" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"09b22a5b2f","applicationID":"4986176","transactionName":"JV4KEEZeWwgHShcSWAFUSxdcXkA=","queueTime":0,"applicationTime":214,"ttGuid":"","agentToken":null,"agent":"js-agent.newrelic.com/nr-768.min.js","extra":""}</script>
+<script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o||n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({QJf3ax:[function(e,n){function t(e){function n(n,t,a){e&&e(n,t,a),a||(a={});for(var u=c(n),f=u.length,s=i(a,o,r),p=0;f>p;p++)u[p].apply(s,t);return s}function a(e,n){f[e]=c(e).concat(n)}function c(e){return f[e]||[]}function u(){return t(n)}var f={};return{on:a,emit:n,create:u,listeners:c,_events:f}}function r(){return{}}var o="nr@context",i=e("gos");n.exports=t()},{gos:"7eSDFh"}],ee:[function(e,n){n.exports=e("QJf3ax")},{}],3:[function(e,n){function t(e){return function(){r(e,[(new Date).getTime()].concat(i(arguments)))}}var r=e("handle"),o=e(1),i=e(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(e,n){window.NREUM[n]=t("api-"+n)}),n.exports=window.NREUM},{1:12,2:13,handle:"D5DuLP"}],gos:[function(e,n){n.exports=e("7eSDFh")},{}],"7eSDFh":[function(e,n){function t(e,n,t){if(r.call(e,n))return e[n];var o=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return e[n]=o,o}var r=Object.prototype.hasOwnProperty;n.exports=t},{}],D5DuLP:[function(e,n){function t(e,n,t){return r.listeners(e).length?r.emit(e,n,t):void(r.q&&(r.q[e]||(r.q[e]=[]),r.q[e].push(n)))}var r=e("ee").create();n.exports=t,t.ee=r,r.q={}},{ee:"QJf3ax"}],handle:[function(e,n){n.exports=e("D5DuLP")},{}],XL7HBI:[function(e,n){function t(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:i(e,o,function(){return r++})}var r=1,o="nr@id",i=e("gos");n.exports=t},{gos:"7eSDFh"}],id:[function(e,n){n.exports=e("XL7HBI")},{}],G9z0Bl:[function(e,n){function t(){var e=d.info=NREUM.info,n=f.getElementsByTagName("script")[0];if(e&&e.licenseKey&&e.applicationID&&n){c(p,function(n,t){n in e||(e[n]=t)});var t="https"===s.split(":")[0]||e.sslForHttp;d.proto=t?"https://":"http://",a("mark",["onload",i()]);var r=f.createElement("script");r.src=d.proto+e.agent,n.parentNode.insertBefore(r,n)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=e("handle"),c=e(1),u=window,f=u.document;e(2);var s=(""+location).split("?")[0],p={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-768.min.js"},d=n.exports={offset:i(),origin:s,features:{}};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),u.addEventListener("load",t,!1)):(f.attachEvent("onreadystatechange",r),u.attachEvent("onload",t)),a("mark",["firstbyte",i()])},{1:12,2:3,handle:"D5DuLP"}],loader:[function(e,n){n.exports=e("G9z0Bl")},{}],12:[function(e,n){function t(e,n){var t=[],o="",i=0;for(o in e)r.call(e,o)&&(t[i]=n(o,e[o]),i+=1);return t}var r=Object.prototype.hasOwnProperty;n.exports=t},{}],13:[function(e,n){function t(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(0>o?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=t},{}]},{},["G9z0Bl"]);</script><meta content="width=device-width, initial-scale=0.65, maximum-scale=0.75" name="viewport"><meta content="Ensogo Malaysia Deals, Ensogo is one of the top e-commerce platforms in Malaysia, which offers crazy discounts on selected items and services. Daily offers include (but are not limited to) fine dining, entertainment, beauty and more.  Ensogo's daily offer numbers are the biggest in Malaysia." name="description"><meta content="index,follow" name="robots"><meta content="7973144AEA39595F95616A437A4F662C" name="msvalidate.01"><link href="http://www.ensogo.com.my/page/privacy-policy" hreflang="en" rel="alternate"><link href="http://www.ensogo.com.my/page/privacy-policy" rel="canonical"><meta content="death-star.ensogo.com.my" name="esg:api_server"><meta content="//static.ensogo.com.my" name="esg:assets_server"><meta content="302542033280239" name="esg:fb_app_id"><meta contnt="true" name="esg:utm_tracking"><meta content="2" name="esg:currency_precision"><meta content="RM" name="esg:currency_symbol"><meta content="en" name="esg:locale"><link href="/assets/application-a969f0e2311f439760112bed0be1ab1b.css" media="screen" rel="stylesheet" type="text/css"><link href="/assets/new_design/manifest-98018a71dbb1890c8cbeeb2746274f66.css" media="all" rel="stylesheet" type="text/css"><script>var api_server = 'death-star.ensogo.com.my';
+var static_server_url = '//static.ensogo.com.my';
+var fb_login_app_id = '302542033280239';
+var utm_tracking = true;
+var pageview_tracking = true;</script><script src="/assets/new_design/manifest-2cc922dd0f8e4781545893928025a755.js" type="text/javascript"></script><script src="/assets/application-1cfb892cbfab0267f7af389bb678f6c3.js" type="text/javascript"></script><link href="/assets/favicon-48188b3a1f4bbc682aaeb382b1a151cb.ico" rel="shortcut icon" type="image/vnd.microsoft.icon"><meta content="authenticity_token" name="csrf-param">
+<meta content="rocz/bS8DV6NZmmz0fhnl4gcphU+kdYns2sfZF9C0+U=" name="csrf-token"><script async="true" src="//static.criteo.net/js/ld/ld.js" type="text/javascript"></script>
+<!--[if lt IE 9]>
+<script src="//content.ensogo.com.my/sites/beecrazy_newdesign/assets/js/html5shiv.js" type="text/javascript"></script>
+<![endif]-->
+<link href="//fonts.googleapis.com/css?family=Oxygen" media="screen" rel="stylesheet" type="text/css">
+<script src="//content.ensogo.com.my/sites/beecrazy_newdesign/assets/js/jquery.countdown.min.js" type="text/javascript"></script>
+<script>
+  var dealids = dealids || [];
+  var orderid = 0;
+  var orderprice = 0;
+  var ScarabQueue = ScarabQueue || [];
+  var _paq = _paq || [];
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-56699460-1']);
+  _gaq.push(['_setDomainName', 'ensogo.com.my']);
+  _gaq.push(['_trackPageview']);
+</script>
+<script>
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+  (function(){
+    var gads = document.createElement('script');
+    gads.async = true;
+    var useSSL = 'https:' == document.location.protocol;
+    gads.src = (useSSL ? 'https:' : 'http:') + '//www.googletagservices.com/tag/js/gpt.js';
+    var node = document.getElementsByTagName('script')[0];
+    node.parentNode.insertBefore(gads, node);
+  })();
+</script>
+<script>
+  googletag.cmd.push(function() {
+    googletag.pubads().enableSingleRequest();
+    googletag.pubads().disableInitialLoad();
+    googletag.enableServices();
+  });
+</script>
+<script>
+  (function() {
+    var _fbq = window._fbq || (window._fbq = []);
+    if (!_fbq.loaded) {
+      var fbds = document.createElement('script');
+      fbds.async = true;
+      fbds.src = '//connect.facebook.net/en_US/fbds.js';
+      var s = document.getElementsByTagName('script')[0];
+      s.parentNode.insertBefore(fbds, s);
+      _fbq.loaded = true;
+    }
+    _fbq.push(['addPixelId', '657014281092227']);
+  })();
+  window._fbq = window._fbq || [];
+  window._fbq.push(['track', 'PixelInitialized', {}]);
+</script>
+<script>
+  $(document).ready(function($) {
+    //console.log(EnsogoTracker);
+    EnsogoTracker.campaign();
+  });
+</script>
+</head><body class="en my esg-application" ng-app="ensogo"><script>
+  dataLayer = [];
+  user_id = 0;
+</script>
+<script>
+  dataLayer.push({'user_id': user_id});
+</script>
+<script>
+  // Google Tag Manager
+  (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-N6HP6R');
+</script>
+<noscript>
+<iframe height='0' src='//www.googletagmanager.com/ns.html?id=GTM-N6HP6R' style='display:none;visibility:hidden' width='0'></iframe>
+</noscript>
+<div id="fb-root"></div>
+<!--[if IE 6]>
+<div id='upgrade-browser'>
+Your browser is no longer supported. Please upgrade to a modern browser.
 </div>
-<script type="text/javascript">
-    $(function () {
-        $("#btnSearch").keypress(function (e) {
-            // Enter pressed?
-            if (e.which == 10 || e.which == 13) {
-                $("#search_form").submit();
-            }
-        });
-        $("#btnSearch").keypress(function (e) {
-            $("#search_form").submit();
-        });
+<![endif]-->
+<script>
+  criteo_items =[];
+  criteo_cart_items = [];
+</script>
+<div class="site-wrapper" style=""><div id="site-top-banner" style="background-color:#b42450"><div class="narrow-banner"><a href="http://www.ensogo.com.my/categories/groceries/flash-sale/ensogo-warehouse-clearance-sales-good-deals-fashion-beauty-appliances-baby-brands" target="_blank"><img alt="Banner_5199c1dbc090_en" src="http://static2.ensogo.com.my/sites/beecrazy_newdesign/assets/images/banners/banner_5199c1dbc090_en.jpg?ts=1450345510"></a></div></div><div class="esg-status-bar"><div class="esg-status-content"><ul class="esg-region-status"><li class="esg-region-title" data-dropdown-trigger="" data-dropdowner=""><img class="esg-status-icon esg-status-country-flag" src="//static.ensogo.com.my/sites/ensogo/assets/images/flag-my.png"><span class="hide-for-tablet">Malaysia</span><ul class="esg-region-list" data-dropdownee=""><li class="esg-region-item"><a class="esg-region-list-anchor" href="http://www.beecrazy.hk"><img class="esg-status-icon esg-status-country-flag" src="//static.ensogo.com.my/sites/ensogo/assets/images/flag-hk.png">Hong Kong</a></li><li class="esg-region-item"><a class="esg-region-list-anchor" href="http://www.ensogo.co.id"><img class="esg-status-icon esg-status-country-flag" src="//static.ensogo.com.my/sites/ensogo/assets/images/flag-id.png">Indonesia</a></li><li class="esg-region-item"><a class="esg-region-list-anchor" href="http://www.ensogo.com.ph"><img class="esg-status-icon esg-status-country-flag" src="//static.ensogo.com.my/sites/ensogo/assets/images/flag-ph.png">Philippines</a></li><li class="esg-region-item"><a class="esg-region-list-anchor" href="http://www.deal.com.sg"><img class="esg-status-icon esg-status-country-flag" src="//static.ensogo.com.my/sites/ensogo/assets/images/flag-sg.png">Singapore</a></li><li class="esg-region-item"><a class="esg-region-list-anchor" href="http://www.ensogo.co.th"><img class="esg-status-icon esg-status-country-flag" src="//static.ensogo.com.my/sites/ensogo/assets/images/flag-th.png">Thailand</a></li></ul></li></ul><ul class="esg-user-status"><li class="esg-cs-phone"><img src="//static.ensogo.com.my/sites/ensogo/assets/images/icon-phone.png"><span class="hide-for-tablet">+603 2022 0080</span></li><li class="esg-cs-email"><a class="esg-status-bar-anchor" href="mailto:my.help@ensogo.com"><img src="//static.ensogo.com.my/sites/ensogo/assets/images/icon-email.png"><span class="hide-for-tablet">my.help@ensogo.com</span></a></li><li class="esg-fb-likes"><div class="fb-like" data-href="http://www.facebook.com/ensogo.malaysia" data-layout="button_count" data-send="false" data-show-faces="false" data-width="200"></div></li><li class="esg-user-sign-in"><a class="login-modal reg top-pills" data-target="#login-box" data-toggle="modal"><span>Hello, Sign in</span></a><div class="popup-main"><div class="popup-content"><button type="submit">Sign In<p>New customer?</p><a href="#">Start here</a></button></div></div></li><li class="esg-user-cart"><a href="/en/checkout/one"><img src="//static.ensogo.com.my/sites/ensogo/assets/images/icon-cart.png"><span class="esg-number-badge">0</span></a></li></ul></div></div><header class="esg-logo-search-section"><a href="/en"><img class="esg-logo" src="//static.ensogo.com.my/sites/ensogo/assets/images/logo-ensogo.png"></a><div class="esg-logo-banner"><a href="http://www.ensogo.com.my/page/everyone-can-sell"><img src="http://static2.ensogo.com.my/sites/beecrazy_newdesign/assets/images/banners/banner_4c2ef3c70d3d_en.jpg?ts=1450063228"></a></div><form action="/deals/search" class="esg-search-form"><input autocomplete="off" class="esg-search-input" data-search-input="" name="q" type="text"><button class="esg-search-button" type="submit">Search</button></form><ol class="esg-top-searches"><li class="esg-top-search-word"><a href="/en/deals/search?q=Blender">Blender</a></li><li class="esg-top-search-word"><a href="/en/deals/search?q=Philips">Philips</a></li><li class="esg-top-search-word"><a href="/en/deals/search?q=Luggage">Luggage</a></li></ol></header><div class="esg-search-results-container"><ul class="esg-search-results" data-search-results=""></ul></div><nav class="esg-navigation"><ul class="esg-nav-menu"><li class="esg-nav-item shop-by-cat active" data-dropdown-hamburger="#esg-nav-hamburger" data-dropdown-root="" data-dropdown-trigger="mouseenter" data-dropdowner=""><div id="esg-nav-hamburger"><span></span><span></span><span></span><span></span></div><span>Shop by Category</span><ol class="esg-nav-categories" data-dropdownee="" data-dropdownee-sticky="" style="display: none;"><li class="esg-nav-category-item" data-dropdown-trigger="mouseenter" data-dropdowner=""><a href="/categories/fashion"><img class="esg-nav-category-item-icon" data-out-img="//static.ensogo.com.my/sites/ensogo/assets/images/floors/icons/fashion.png" data-over-img="//static.ensogo.com.my/sites/ensogo/assets/images/floors/icons/fashion-w.png" src="//static.ensogo.com.my/sites/ensogo/assets/images/floors/icons/fashion.png">Fashion</a><ol class="esg-nav-subcategories wide" data-dropdownee="" style="background-image: url('http://static1.ensogo.com.my/sites/beecrazy_newdesign/assets/images/category_featured_banners/504/banner1_en.jpg?ts=1449021780');"><li class="esg-nav-subcategory-item"><a href="/categories/fashion">All</a></li><li class="esg-nav-subcategory-item"><a href="/en/categories/fashion/section/baby-kids-fashion">Baby &amp; Kids Fashion</a></li><li class="esg-nav-subcategory-item"><a href="/en/categories/fashion/section/bags-accessories">Bags &amp; Accessories</a></li><li class="esg-nav-subcategory-item"><a href="/en/categories/fashion/section/luxury-goods">Luxury Goods</a></li><li class="esg-nav-subcategory-item"><a href="/en/categories/fashion/section/mens-clothing">Men's Clothing</a></li><li class="esg-nav-subcategory-item"><a href="/en/categories/fashion/section/mens-shoes">Men's Shoes</a></li><li class="esg-nav-subcategory-item"><a href="/en/categories/fashion/section/sports-shoes">Sports Shoes</a></li><li class="esg-nav-subcategory-item"><a href="/en/categories/fashion/section/sportswear">Sportswear</a></li><li class="esg-nav-subcategory-item"><a href="/en/categories/fashion/section/underwear-sleepwear">Underwear &amp; Sleepwear</a></li><li class="esg-nav-subcategory-item"><a href="/en/categories/fashion/section/watches-jewelry-sunglasses">Watches, Jewelry &amp; Sunglasses</a></li><li class="esg-nav-subcategory-item"><a href="/en/categories/fashion/section/womens-clothing">Women's Clothing</a></li><li class="esg-nav-subcategory-item"><a href="/en/categories/fashion/section/womens-shoes">Women's Shoes</a></li></ol><a class="esg-nav-subcategories-banner" data-dropdownee="" href="http://www.ensogo.com.my/deals/2182599"></a></li><li class="esg-nav-category-item" data-dropdown-trigger="mouseenter" data-dropdowner=""><a href="/categories/beauty"><img class="esg-nav-category-item-icon" data-out-img="//static.ensogo.com.my/sites/ensogo/assets/images/floors/icons/beauty.png" data-over-img="//static.ensogo.com.my/sites/ensogo/assets/images/floors/icons/beauty-w.png" src="//static.ensogo.com.my/sites/ensogo/assets/images/floors/icons/beauty.png">Beauty</a><ol class="esg-nav-subcategories wide" data-dropdownee="" style="background-image: url('http://static2.ensogo.com.my/sites/beecrazy_newdesign/assets/images/category_featured_banners/502/banner1_en.jpg?ts=1445313846');"><li class="esg-nav-subcategory-item"><a href="/categories/beauty">All</a></li><li class="esg-nav-subcategory-item"><a href="/en/categories/beauty/section/best-sellers-beauty">Best Sellers</a></li><li class="esg-nav-subcategory-item"><a href="/en/categories/beauty/section/basic-cosmetics">Basic Cosmetics</a></li><li class="esg-nav-subcategory-item"><a href="/en/categories/beauty/section/cleansing">Cleansing</a></li><li class="esg-nav-subcategory-item"><a href="/en/categories/beauty/section/hair">Hair</a></li><li class="esg-nav-subcategory-item"><a href="/en/categories/beauty/section/hand-body">Hand &amp; Body</a></li><li class="esg-nav-subcategory-item"><a href="/en/categories/beauty/section/luxury-cosmetics">Luxury Cosmetics</a></li><li class="esg-nav-subcategory-item"><a href="/en/categories/beauty/section/makeup-nails">Makeup &amp; Nails</a></li><li class="esg-nav-subcategory-item"><a href="/en/categories/beauty/section/mens-cosmetics">Men's Cosmetics</a></li><li class="esg-nav-subcategory-item"><a href="/en/categories/beauty/section/new_perfume">Perfume</a></li><li class="esg-nav-subcategory-item"><a href="/en/categories/beauty/section/beauty-men-s-grooming">Men's Grooming</a></li><li class="esg-nav-subcategory-item"><a href="/en/categories/beauty/section/beauty-fragrance">Fragrance</a></li></ol><a class="esg-nav-subcategories-banner" data-dropdownee="" href="http://www.ensogo.com.my/deals/fifth-avenue-125ml-edp-spray-1444881408"></a></li><li class="esg-nav-category-item" data-dropdown-trigger="mouseenter" data-dropdowner=""><a href="/categories/baby-maternity"><img class="esg-nav-category-item-icon" data-out-img="//static.ensogo.com.my/sites/ensogo/assets/images/floors/icons/baby-maternity.png" data-over-img="//static.ensogo.com.my/sites/ensogo/assets/images/floors/icons/baby-maternity-w.png" src="//static.ensogo.com.my/sites/ensogo/assets/images/floors/icons/baby-maternity.png">Baby &amp; Maternity</a><ol class="esg-nav-subcategories wide" data-dropdownee="" style="background-image: url('http://static2.ensogo.com.my/sites/beecrazy_newdesign/assets/images/category_featured_banners/501/banner1_en.jpg?ts=1446460072');"><li class="esg-nav-subcategory-item"><a href="/categories/baby-maternity">All</a></li><li class="esg-nav-subcategory-item"><a href="/en/categories/baby-maternity/section/best-sellers-baby-maternity">Best Sellers</a></li><li class="esg-nav-subcategory-item"><a href="/en/categories/baby-maternity/section/bath-skincare">Bath &amp; Skincare</a></li><li class="esg-nav-subcategory-item"><a href="/en/categories/baby-maternity/section/diapers">Diapers</a></li><li class="esg-nav-subcategory-item"><a href="/en/categories/baby-maternity/section/feeding-nursing">Feeding &amp; Nursing</a></li><li class="esg-nav-subcategory-item"><a href="/en/categories/baby-maternity/section/furniture-safety">Furniture &amp; Safety</a></li><li class="esg-nav-subcategory-item"><a href="/en/categories/baby-maternity/section/maternity-needs">Maternity Needs</a></li><li class="esg-nav-subcategory-item"><a href="/en/categories/baby-maternity/section/milk-baby-food">Milk &amp; Baby Food</a></li><li class="esg-nav-subcategory-item"><a href="/en/categories/baby-maternity/section/strollers-gear">Strollers &amp; Gear</a></li><li class="esg-nav-subcategory-item"><a href="/en/categories/baby-maternity/section/toys-games">Toys &amp; Games</a></li></ol><a class="esg-nav-subcategories-banner" data-dropdownee="" href="http://www.ensogo.com.my/deals/philips-avent-manual-breast-pump-scf330-20"></a></li><li class="esg-nav-category-item" data-dropdown-trigger="mouseenter" data-dropdowner=""><a href="/categories/groceries"><img class="esg-nav-category-item-icon" data-out-img="//static.ensogo.com.my/sites/ensogo/assets/images/floors/icons/groceries.png" data-over-img="//static.ensogo.com.my/sites/ensogo/assets/images/floors/icons/groceries-w.png" src="//static.ensogo.com.my/sites/ensogo/assets/images/floors/icons/groceries.png">Groceries</a><ol class="esg-nav-subcategories wide" data-dropdownee="" style="background-image: url('http://static2.ensogo.com.my/sites/beecrazy_newdesign/assets/images/category_featured_banners/505/banner1_en.jpg?ts=1449485875');"><li class="esg-nav-subcategory-item"><a href="/categories/groceries">All</a></li><li class="esg-nav-subcategory-item"><a href="/en/categories/groceries/section/best-sellers-groceries">Best Sellers</a></li><li class="esg-nav-subcategory-item"><a href="/en/categories/groceries/section/drinks-snacks">Drinks &amp; Snacks</a></li><li class="esg-nav-subcategory-item"><a href="/en/categories/groceries/section/healthy-diet-food">Healthy &amp; Diet Food</a></li><li class="esg-nav-subcategory-item"><a href="/en/categories/groceries/section/packaged-food">Packaged Food</a></li></ol><a class="esg-nav-subcategories-banner" data-dropdownee="" href="http://www.ensogo.com.my/deals/2182221"></a></li><li class="esg-nav-category-item" data-dropdown-trigger="mouseenter" data-dropdowner=""><a href="/categories/kitchen-living"><img class="esg-nav-category-item-icon" data-out-img="//static.ensogo.com.my/sites/ensogo/assets/images/floors/icons/kitchen-living.png" data-over-img="//static.ensogo.com.my/sites/ensogo/assets/images/floors/icons/kitchen-living-w.png" src="//static.ensogo.com.my/sites/ensogo/assets/images/floors/icons/kitchen-living.png">Kitchen &amp; Living</a><ol class="esg-nav-subcategories wide" data-dropdownee="" style="background-image: url('http://static2.ensogo.com.my/sites/beecrazy_newdesign/assets/images/category_featured_banners/508/banner1_en.jpg?ts=1445831064');"><li class="esg-nav-subcategory-item"><a href="/categories/kitchen-living">All</a></li><li class="esg-nav-subcategory-item"><a href="/en/categories/kitchen-living/section/gardening-home-improvement">Gardening &amp; Home Improvement</a></li><li class="esg-nav-subcategory-item"><a href="/en/categories/kitchen-living/section/best-sellers-kitchen-living">Best Sellers</a></li><li class="esg-nav-subcategory-item"><a href="/en/categories/kitchen-living/section/bathroom-toiletries">Bathroom &amp; Toiletries</a></li><li class="esg-nav-subcategory-item"><a href="/en/categories/kitchen-living/section/books-hobbies">Books &amp; Hobbies</a></li><li class="esg-nav-subcategory-item"><a href="/en/categories/kitchen-living/section/cleaning-laundry">Cleaning &amp; Laundry</a></li><li class="esg-nav-subcategory-item"><a href="/en/categories/kitchen-living/section/kitchenware">Kitchenware</a></li><li class="esg-nav-subcategory-item"><a href="/en/categories/kitchen-living/section/new_pets">Pets</a></li><li class="esg-nav-subcategory-item"><a href="/en/categories/kitchen-living/section/storage-household-goods">Storage &amp; Household Goods</a></li></ol><a class="esg-nav-subcategories-banner" data-dropdownee="" href="http://www.ensogo.com.my/deals/2165762"></a></li><li class="esg-nav-category-item" data-dropdown-trigger="mouseenter" data-dropdowner=""><a href="/categories/furniture-home-decor"><img class="esg-nav-category-item-icon" data-out-img="//static.ensogo.com.my/sites/ensogo/assets/images/floors/icons/furniture-home-decor.png" data-over-img="//static.ensogo.com.my/sites/ensogo/assets/images/floors/icons/furniture-home-decor-w.png" src="//static.ensogo.com.my/sites/ensogo/assets/images/floors/icons/furniture-home-decor.png">Furniture &amp; Home Decor</a><ol class="esg-nav-subcategories wide" data-dropdownee="" style="background-image: url('http://static3.ensogo.com.my/sites/beecrazy_newdesign/assets/images/category_featured_banners/506/banner1_en.jpg?ts=1445831016');"><li class="esg-nav-subcategory-item"><a href="/categories/furniture-home-decor">All</a></li><li class="esg-nav-subcategory-item"><a href="/en/categories/furniture-home-decor/section/best-sellers-furniture-home-decor">Best Sellers</a></li><li class="esg-nav-subcategory-item"><a href="/en/categories/furniture-home-decor/section/baby-kids">Baby &amp; Kids</a></li><li class="esg-nav-subcategory-item"><a href="/en/categories/furniture-home-decor/section/bedding-carpets">Bedding &amp; Carpets</a></li><li class="esg-nav-subcategory-item"><a href="/en/categories/furniture-home-decor/section/bedroom-cabinet">Bedroom &amp; Cabinet</a></li><li class="esg-nav-subcategory-item"><a href="/en/categories/furniture-home-decor/section/home-deco2">Home Decor</a></li><li class="esg-nav-subcategory-item"><a href="/en/categories/furniture-home-decor/section/living-room-kitchen">Living Room &amp; Kitchen</a></li></ol><a class="esg-nav-subcategories-banner" data-dropdownee="" href="http://www.ensogo.com.my/deals/2173693"></a></li><li class="esg-nav-category-item" data-dropdown-trigger="mouseenter" data-dropdowner=""><a href="/categories/electronics-appliances"><img class="esg-nav-category-item-icon" data-out-img="//static.ensogo.com.my/sites/ensogo/assets/images/floors/icons/electronics-appliances.png" data-over-img="//static.ensogo.com.my/sites/ensogo/assets/images/floors/icons/electronics-appliances-w.png" src="//static.ensogo.com.my/sites/ensogo/assets/images/floors/icons/electronics-appliances.png">Electronics &amp; Appliances</a><ol class="esg-nav-subcategories wide" data-dropdownee="" style="background-image: url('http://static3.ensogo.com.my/sites/beecrazy_newdesign/assets/images/category_featured_banners/503/banner1_en.jpg?ts=1447385884');"><li class="esg-nav-subcategory-item"><a href="/categories/electronics-appliances">All</a></li><li class="esg-nav-subcategory-item"><a href="/en/categories/electronics-appliances/section/best-sellers-electronics-appliances">Best Sellers</a></li><li class="esg-nav-subcategory-item"><a href="/en/categories/electronics-appliances/section/gadgets">Gadgets</a></li><li class="esg-nav-subcategory-item"><a href="/en/categories/electronics-appliances/section/beauty-appliances">Beauty Appliances</a></li><li class="esg-nav-subcategory-item"><a href="/en/categories/electronics-appliances/section/cameras-projectors">Cameras &amp; Projectors</a></li><li class="esg-nav-subcategory-item"><a href="/en/categories/electronics-appliances/section/computer-tablet">Computer &amp; Tablet</a></li><li class="esg-nav-subcategory-item"><a href="/en/categories/electronics-appliances/section/health-personal-care">Health &amp; Personal Care</a></li><li class="esg-nav-subcategory-item"><a href="/en/categories/electronics-appliances/section/heating-cooling">Heating &amp; Cooling</a></li><li class="esg-nav-subcategory-item"><a href="/en/categories/electronics-appliances/section/household-appliances">Household Appliances</a></li><li class="esg-nav-subcategory-item"><a href="/en/categories/electronics-appliances/section/kitchen-appliances">Kitchen appliances</a></li><li class="esg-nav-subcategory-item"><a href="/en/categories/electronics-appliances/section/mobile-phone-digital-accessories">Mobile Phone &amp; Digital Accessories</a></li><li class="esg-nav-subcategory-item"><a href="/en/categories/electronics-appliances/section/tv-audio">TV &amp; Audio</a></li></ol><a class="esg-nav-subcategories-banner" data-dropdownee="" href="http://www.ensogo.com.my/deals/pineng-pn-968-10-000mah-powerbank-orange-1446479746?preview=d416f618c9ac9744a7ae1c322c8c18b9"></a></li><li class="esg-nav-category-item" data-dropdown-trigger="mouseenter" data-dropdowner=""><a href="/categories/health-diet"><img class="esg-nav-category-item-icon" data-out-img="//static.ensogo.com.my/sites/ensogo/assets/images/floors/icons/health-diet.png" data-over-img="//static.ensogo.com.my/sites/ensogo/assets/images/floors/icons/health-diet-w.png" src="//static.ensogo.com.my/sites/ensogo/assets/images/floors/icons/health-diet.png">Health &amp; Diet</a><ol class="esg-nav-subcategories wide" data-dropdownee="" style="background-image: url('http://static1.ensogo.com.my/sites/beecrazy_newdesign/assets/images/category_featured_banners/507/banner1_en.jpg?ts=1445999716');"><li class="esg-nav-subcategory-item"><a href="/categories/health-diet">All</a></li><li class="esg-nav-subcategory-item"><a href="/en/categories/health-diet/section/best-sellers-health-diet">Best Sellers</a></li><li class="esg-nav-subcategory-item"><a href="/en/categories/health-diet/section/diet-fitness">Diet &amp; Fitness</a></li><li class="esg-nav-subcategory-item"><a href="/en/categories/health-diet/section/vitamins-supplements">Vitamins &amp; Supplements</a></li></ol><a class="esg-nav-subcategories-banner" data-dropdownee="" href="http://www.ensogo.com.my/deals/2157842-1441097410"></a></li><li class="esg-nav-category-item" data-dropdown-trigger="mouseenter" data-dropdowner=""><a href="/categories/sports-leisure"><img class="esg-nav-category-item-icon" data-out-img="//static.ensogo.com.my/sites/ensogo/assets/images/floors/icons/sports-leisure.png" data-over-img="//static.ensogo.com.my/sites/ensogo/assets/images/floors/icons/sports-leisure-w.png" src="//static.ensogo.com.my/sites/ensogo/assets/images/floors/icons/sports-leisure.png">Sports &amp; Leisure</a><ol class="esg-nav-subcategories wide" data-dropdownee="" style="background-image: url('http://static3.ensogo.com.my/sites/beecrazy_newdesign/assets/images/category_featured_banners/509/banner1_en.jpg?ts=1445495884');"><li class="esg-nav-subcategory-item"><a href="/categories/sports-leisure">All</a></li><li class="esg-nav-subcategory-item"><a href="/en/categories/sports-leisure/section/best-sellers-sports-leisure">Best Sellers</a></li><li class="esg-nav-subcategory-item"><a href="/en/categories/sports-leisure/section/automotive2">Automotive</a></li><li class="esg-nav-subcategory-item"><a href="/en/categories/sports-leisure/section/sports-outdoors">Sports &amp; Outdoors</a></li><li class="esg-nav-subcategory-item"><a href="/en/categories/sports-leisure/section/travel-products">Travel Products</a></li><li class="esg-nav-subcategory-item"><a href="/en/categories/sports-leisure/section/sports-leisure-travel-luggage">Travel &amp; Luggage</a></li></ol><a class="esg-nav-subcategories-banner" data-dropdownee="" href="http://www.ensogo.com.my/deals/2106123"></a></li><li class="esg-nav-category-item" data-dropdown-trigger="mouseenter" data-dropdowner=""><a href="/categories/dining"><img class="esg-nav-category-item-icon" data-out-img="//static.ensogo.com.my/sites/ensogo/assets/images/floors/icons/dining.png" data-over-img="//static.ensogo.com.my/sites/ensogo/assets/images/floors/icons/dining-w.png" src="//static.ensogo.com.my/sites/ensogo/assets/images/floors/icons/dining.png">Dining</a><ol class="esg-nav-subcategories wide" data-dropdownee="" style="background-image: url('http://static3.ensogo.com.my/sites/beecrazy_newdesign/assets/images/category_featured_banners/512/banner1_en.jpg?ts=1447477853');"><li class="esg-nav-subcategory-item"><a href="/categories/dining">All</a></li><li class="esg-nav-subcategory-item"><a href="/en/categories/dining/section/best-sellers-dining">Best Sellers</a></li><li class="esg-nav-subcategory-item"><a href="/en/categories/dining/section/new_buffet">Buffet</a></li><li class="esg-nav-subcategory-item"><a href="/en/categories/dining/section/new_dessert">Dessert</a></li><li class="esg-nav-subcategory-item"><a href="/en/categories/dining/section/new_japanese">Japanese</a></li><li class="esg-nav-subcategory-item"><a href="/en/categories/dining/section/new_chinese">Chinese</a></li><li class="esg-nav-subcategory-item"><a href="/en/categories/dining/section/new_international">International</a></li><li class="esg-nav-subcategory-item"><a href="/en/categories/dining/section/dining-local">Local</a></li><li class="esg-nav-subcategory-item"><a href="/en/categories/dining/section/dining-western">Western</a></li><li class="esg-nav-subcategory-item"><a href="/en/categories/dining/section/dining-indian">Indian</a></li><li class="esg-nav-subcategory-item"><a href="/en/categories/dining/section/dining-korean">Korean</a></li><li class="esg-nav-subcategory-item"><a href="/en/categories/dining/section/dining-asian-other">Asian(other)</a></li></ol><a class="esg-nav-subcategories-banner" data-dropdownee="" href="http://www.ensogo.com.my/deals/international-hi-tea-buffet-at-flavors-restaurant-at-swiss-garden-hotel-and-residences"></a></li><li class="esg-nav-category-item" data-dropdown-trigger="mouseenter" data-dropdowner=""><a href="/categories/beauty-services"><img class="esg-nav-category-item-icon" data-out-img="//static.ensogo.com.my/sites/ensogo/assets/images/floors/icons/beauty-services.png" data-over-img="//static.ensogo.com.my/sites/ensogo/assets/images/floors/icons/beauty-services-w.png" src="//static.ensogo.com.my/sites/ensogo/assets/images/floors/icons/beauty-services.png">Beauty Services</a><ol class="esg-nav-subcategories wide" data-dropdownee="" style="background-image: url('http://static2.ensogo.com.my/sites/beecrazy_newdesign/assets/images/category_featured_banners/511/banner1_en.jpg?ts=1447319074');"><li class="esg-nav-subcategory-item"><a href="/categories/beauty-services">All</a></li><li class="esg-nav-subcategory-item"><a href="/en/categories/beauty-services/section/new_body">Body</a></li><li class="esg-nav-subcategory-item"><a href="/en/categories/beauty-services/section/facial">Facial</a></li><li class="esg-nav-subcategory-item"><a href="/en/categories/beauty-services/section/hair-service">Hair Service</a></li><li class="esg-nav-subcategory-item"><a href="/en/categories/beauty-services/section/hair-removal">Hair Removal</a></li><li class="esg-nav-subcategory-item"><a href="/en/categories/beauty-services/section/massage">Massage</a></li><li class="esg-nav-subcategory-item"><a href="/en/categories/beauty-services/section/slimming">Slimming</a></li><li class="esg-nav-subcategory-item"><a href="/en/categories/beauty-services/section/beauty-services-skin-facial%C2%A0">Skin &amp; Facial&nbsp;</a></li><li class="esg-nav-subcategory-item"><a href="/en/categories/beauty-services/section/beauty-services-spa-massage%C2%A0">Spa &amp; Massage&nbsp;</a></li><li class="esg-nav-subcategory-item"><a href="/en/categories/beauty-services/section/beauty-services-others">Others</a></li></ol><a class="esg-nav-subcategories-banner" data-dropdownee="" href="http://www.ensogo.com.my/deals/2177488"></a></li><li class="esg-nav-category-item" data-dropdown-trigger="mouseenter" data-dropdowner=""><a href="/categories/activities"><img class="esg-nav-category-item-icon" data-out-img="//static.ensogo.com.my/sites/ensogo/assets/images/floors/icons/activities.png" data-over-img="//static.ensogo.com.my/sites/ensogo/assets/images/floors/icons/activities-w.png" src="//static.ensogo.com.my/sites/ensogo/assets/images/floors/icons/activities.png">Activities</a><ol class="esg-nav-subcategories wide" data-dropdownee="" style="background-image: url('http://static1.ensogo.com.my/sites/beecrazy_newdesign/assets/images/category_featured_banners/510/banner1_en.jpg?ts=1447319043');"><li class="esg-nav-subcategory-item"><a href="/categories/activities">All</a></li><li class="esg-nav-subcategory-item"><a href="/en/categories/activities/section/new_classes">Classes</a></li><li class="esg-nav-subcategory-item"><a href="/en/categories/activities/section/new_recreational">Recreational</a></li><li class="esg-nav-subcategory-item"><a href="/en/categories/activities/section/activities-activities">Activities</a></li><li class="esg-nav-subcategory-item"><a href="/en/categories/activities/section/activities-photography">Photography</a></li></ol><a class="esg-nav-subcategories-banner" data-dropdownee="" href="http://www.ensogo.com.my/deals/2177479"></a></li></ol></li><li class="esg-nav-item float_left"><a href="/en/flash-sale/10am"><img class="esg-nav-item-icon" src="/assets/ico_menu_flashsales_white-885e0a642d761c7d657fba7f53ed4025.png"><span>10AM Flash Sales<span class="flashsale-bubble">upcoming</span></span></a></li><li class="esg-nav-item float_left hide"><a href="/en/flash-sale/8pm"><img class="esg-nav-item-icon" src="/assets/ico_menu_flashsales_white-885e0a642d761c7d657fba7f53ed4025.png"><span>8PM Flash Sales<span class="flashsale-bubble">upcoming</span></span></a></li><li class="esg-nav-item float_left"><a href="/en/categories/new-today"><img class="esg-nav-item-icon" src="/assets/ico_menu_newarrivals_white-0b8c5587613219456f9c7c51d219b365.png"><span>New Arrivals</span></a></li><li class="esg-nav-item float_left"><a href="/en/flash-sale/today-only"><img class="esg-nav-item-icon" src="/assets/ico_menu_todayonly_white-41b5afb4caa7e814bdef558ef5fcdbf9.png"><span>Today Only</span></a></li><li class="esg-nav-item float_left"><a href="/en/categories/bestsellers"><img class="esg-nav-item-icon" src="/assets/ico_menu_bestseller_white-f62c153383411a228cba41b5e7d94def.png"><span class="small-m">Best Sellers</span></a></li></ul><div class="backdrop" data-dropdown-backdrop="" style="display: none;"></div></nav><style>
+  .alert { margin-bottom: 0px; }
+</style>
+<script>
+  jQuery(function() {
+    $('.alert').bind('closed', function () {
+      $('.remove-me').remove();
     });
+  });
+</script>
+<div class="modal hide fade in" id="login-box">
+<div class="header">
+<a class="close" data-dismiss="modal">
+<i class="icon-remove icon-white"></i>
+</a>
+</div>
+<div class="modal-content content">
+<div class="login-form-col">
+<div id="login-form-container">
+<div class="login-heading">
+SIGN IN
+</div>
+<form accept-charset="UTF-8" action="/en/users/login" id="login-form" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"><input name="authenticity_token" type="hidden" value="rocz/bS8DV6NZmmz0fhnl4gcphU+kdYns2sfZF9C0+U="></div>
+<div class="inputs-row">
+Email
+<br>
+<input name="email" required="" type="text">
+<br>
+Password
+<br>
+<input name="password" required="" type="password">
+<br>
+<div class="login-btn-row">
+<button class="button-red" id="login-btn" type="submit">
+Sign In
+</button>
+<a class="forgot-password" id="forgot_password">
+Forgot Password?
+</a>
+</div>
+</div>
+<h6>
+<span>
+or
+</span>
+</h6>
+<a class="fb-btn" href="javascript:void(0);" onclick="$('#login-box').modal('hide'); fbLoginPopup(''); return false;">
+<div class="facebook-icon">
+<span>
+<div class="icon-facebook icon-2x"></div>
+</span>
+</div>
+<div class="facebook-text">Connect with Facebook</div>
+</a>
+</form>
+
+</div>
+<div class="hide" id="signup-form-container">
+<div class="login-heading">
+SIGN UP
+</div>
+<form accept-charset="UTF-8" action="/en/users/register" id="signup-form" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"><input name="authenticity_token" type="hidden" value="rocz/bS8DV6NZmmz0fhnl4gcphU+kdYns2sfZF9C0+U="></div>
+<div class="inputs-row">
+Email
+<br>
+<input autocomplete="off" name="email" required="" type="text">
+<br>
+Password
+<br>
+<input autocomplete="off" name="password" required="" type="password">
+<br>
+Confirm Password
+<br>
+<input autocomplete="off" name="password_confirmation" required="" type="password">
+<br>
+First Name
+<br>
+<input id="signup_first_name" name="first_name" required="" type="text">
+<br>
+Last Name
+<br>
+<input id="signup_last_name" name="last_name" required="" type="text">
+<br>
+Mobile
+<br>
+<input id="signup_mobile" name="mobile" required="" type="text">
+<br>
+<div class="terms">
+By signing up you agree to our
+<a href="/page/legal" target="_blank">
+terms
+</a>
+</div>
+</div>
+<div class="signup-btn-row">
+<button class="button-red" id="signup-btn" type="submit">
+Shop Now!
+</button>
+</div>
+</form>
+
+</div>
+<div class="hide" id="forgot-password-form-container">
+<div class="login-heading">
+Forgot Password
+</div>
+<form accept-charset="UTF-8" action="/en/users/forgot_password" id="forgot-password-form" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"><input name="authenticity_token" type="hidden" value="rocz/bS8DV6NZmmz0fhnl4gcphU+kdYns2sfZF9C0+U="></div>
+<div class="inputs-row">
+<div class="forgot-password-instruction">
+Enter your Email, and we will send you instructions for resetting your password.
+</div>
+<div class="forgot-password-email">
+Email
+<br>
+<input autocomplete="off" name="email" required="" type="email">
+</div>
+<div class="forgot-password-btn-row">
+<button class="button-red" id="forgot-password-btn" type="submit">
+Send
+</button>
+<a class="toggle-login" href="javascript:void(0);">
+Back
+</a>
+</div>
+</div>
+</form>
+
+</div>
+</div>
+<div class="register-col">
+<div class="register-heading">
+SIGN UP
+</div>
+<div id="new-to-us">
+Are you new here?
+<button class="register-btn button-red" id="register-toggle">
+Sign Up
+</button>
+</div>
+<div class="hide" id="re-login-container">
+<div class="register-instructions en">
+Only alphabet letters and 0-9 numbers are allowed. Must start with an alphabet. Must be minimum of 3 characters and maximum of 20 characters. No special characters and spaces allowed.
+</div>
+Already have an account?
+<br>
+<a class="toggle-login" href="javascript:void(0);">
+Click here to Sign in!
+</a>
+</div>
+</div>
+<div class="alert hide" id="login-message">
+<a class="close" href="javascript:void(0);" onclick="$('#login-message').hide();return false">
+x
+</a>
+<div id="login-message-content"></div>
+</div>
+<div class="caring hide" style="height:47px;width:184px;float:right;margin:15px;">
+<img alt="Caringbestlogo-b" src="//static.ensogo.com.my/sites/ensogo/assets/images/caringbestlogo-b.png">
+</div>
+</div>
+</div>
+<div class="container" id="pages-about-the-deals">
+<div class="static-page-container">
+<div class="static-page-heading-wrapper">
+<div class="static-page-heading-dark-bg">
+<span class="static-page-title" title="Privacy Policy">
+Privacy Policy
+</span>
+</div>
+</div>
+<div class="static-page-content-wrapper">
+<div id="privacy-policy">
+<div id="privacy-policy" style="padding:20px"><p>This Ensogo Malaysia privacy policy (the "Privacy
+Policy") is intended to inform you of our policies and practices regarding
+the collection, use and disclosure of any information you submit to us through Ensogo
+Malaysia. This includes "Personal Information," which is information
+about you that is personally identifiable such as your name, e-mail address,
+user ID number, delivery and billing addresses and other non-public information
+that is associated with the foregoing, as well as "Anonymous
+Information," which is information that is not associated with or linked
+to your Personal Information and does not permit the identification of
+individual persons.</p>
+
+<p><b>User
+Consent</b></p>
+
+<p>By accessing or otherwise using Ensogo Malaysia, you
+agree to the terms and conditions of this Privacy Policy, which is incorporated
+into and forms a part of the Ensogo Malaysia terms of service. You expressly
+consent to the processing of your Personal Information and Anonymous
+Information according to this Privacy Policy.</p>
+
+<p>Your Personal Information may be processed and stored
+in other where laws regarding processing of Personal Information may be less
+stringent than the laws in your country. Your Personal Information will not,
+however, be used or disclosed for purposes for which you have not given consent
+or which are not permitted under applicable law.</p>
+
+<p><b>Regarding
+Children</b></p>
+
+<p>Children under the age of 18 are not permitted to use Ensogo
+Malaysia and we do not intentionally collect or maintain Personal Information
+from those who are under 18 years old. Protecting the privacy of children is
+very important to us. Thus, if we obtain actual knowledge that a user is under
+18, we will take steps to remove that user's Personal Information permanently
+from our databases. We recommend that children between the ages of 13 and 18
+obtain their parent’s permission before submitting information over the
+internet. By using Ensogo Malaysia, you are representing that you are at least
+18 years old, or that you are at least 13 years old and have a parent’s or
+guardian’s permission to use Ensogo Malaysia.</p>
+
+<p>&nbsp;</p>
+
+<p><b>Collection
+of Information</b></p>
+
+<p><b>Personal
+Information That You Provide</b></p>
+
+<p>In general, we collect Personal Information that you
+submit to us voluntarily through Ensogo Malaysia. We also collect information
+that you submit in the process of creating or editing your account and user
+profile on Ensogo Malaysia. For example, our registration and login process
+requires you to provide us with your name, valid email address and password of
+your choice. When you personalize your profile and use the features of Ensogo
+Malaysia, we will collect any information you voluntarily provide, and we may
+also request optional information to support your use of Ensogo Malaysia, such
+as your year of birth, gender and other demographic information. We collect
+information in the form of the content that you submit during your use of Ensogo
+Malaysia, such as photos, reviews, ratings and other information you choose to
+submit. We may also collect information about you and your friends who use Ensogo
+Malaysia, from any social network you may have connected from, in order to
+provide you with a more personalized experience. For instance, we may collect
+your user ID or profile information that you have permitted to be displayed
+through Ensogo Malaysia in order to display you as a friend or in association
+with your profile and collections. When you purchase a Deal or an Ensogo
+Malaysia Product, you may need to submit your credit card or other payment
+information so that our service providers can process your payment for the Deal
+or Ensogo Malaysia Product. When you sign up for, or win, any contests,
+sweepstakes, or other activities that we make available on Ensogo Malaysia, we
+will collect the information designated along with such activity, which may
+include your contact information such as your address and phone number. If you
+choose to sign up to receive information about products or services that may be
+of interest to you, we will collect your email address and other related
+information. Additionally, we collect any information that you voluntarily
+enter, including Personal Information, into any postings, comments, or forums
+within the Ensogo community.</p>
+
+<p><b>Personal
+Information From Other Sources</b></p>
+
+<p>We may receive Personal Information about you from
+other sources with which you have registered, companies who we have partnered
+with (collectively, "Partners") or other third parties. We may
+associate this information with the other Personal Information we have
+collected about you.</p>
+
+<p><b>E-Mail
+And E-Mail Addresses</b></p>
+
+<p>If you send an e-mail to us, or fill out our
+"Feedback" form through Ensogo Malaysia, we will collect your e-mail
+address and the full content of your e-mail, including attached files, and
+other information you provide. We may use and display your full name and email
+address when you send an email notification to a friend through Ensogo Malaysia
+or the social network from which you have connected to Ensogo Malaysia &nbsp;(such as in an invitation, or when sharing
+your content). Additionally, we use your email address to contact you on behalf
+of your friends (such as when someone sends you a personal message) or
+notifications from a social network or other website with whom you have
+registered to receive such notifications. We may use this e-mail address to
+contact you, for things such as notifications of limited edition shop sales and
+other related information. You may indicate your preference to stop receiving
+further promotional communications as further detailed below.</p>
+
+<p><b>Information
+Collected Via Technology</b></p>
+
+<p>As you use Ensogo Malaysia, certain information may
+also be passively collected and stored on our or our service providers’ server
+logs, including your Internet protocol address, browser type, and operating
+system. We also use Cookies and navigational data like Uniform Resource
+Locators (URL) to gather information regarding the date and time of your visit
+and the solutions and information for which you have browsed, tagged to your
+account and/or purchased or on which of the advertisements displayed on Ensogo Malaysia
+you clicked. This type of information is collected to make Ensogo Malaysia and
+solutions more useful to you and to tailor the experience with Ensogo Malaysia
+to meet your special interests and needs.</p>
+
+<p>We engage in remarketing to market our sites across
+the web. When a user visits our site, a cookie is dropped on the user. Users
+with this cookie may be targeted across advertising networks to receive
+relevant advertisements. You may opt out of this ad serving using the Network
+Advertising Initiative (NAI) opt-out page (<a target="_blank" rel="nofollow" href="http://www.networkadvertising.org/managing/opt_out.asp">http://www.networkadvertising.org/managing/opt_out.asp</a>).</p>
+
+<p>An "Internet protocol address" or "IP
+Address" is a number that is automatically assigned to your computer when
+you use the Internet. In some cases your IP Address stays the same from browser
+session to browser session; but if you use a consumer internet access provider,
+your IP Address probably varies from session to session. For example, we, or
+our service providers, may track your IP Address when you access Ensogo to
+assist with ad targeting.</p>
+
+<p>"Cookies" are small pieces of information
+that a website sends to your computer’s hard drive while you are viewing a
+website. We may use both session Cookies (which expire once you close your web
+browser) and persistent Cookies (which stay on your computer until you delete
+them) to provide you with a more personal and interactive experience with Ensogo
+Malaysia. Persistent Cookies can be removed by following your Internet browser
+help file directions. In order to use our services offered through Ensogo
+Malaysia, your web browser must accept Cookies. If you choose to disable
+Cookies, some aspects of Ensogo Malaysia may not work properly, and you may not
+be able to receive our services.</p>
+
+<p>We may also enable advertisers and ad servers to
+promote third-party products and/or services by placing advertisements on Ensogo
+Malaysia. These advertisers and ad servers may use Cookies and/or "Web
+Beacons" (which are usually small, transparent graphic images) in order to
+monitor information related to served advertisements. Clicking on such
+advertisements will direct you to the website of a third-party and the
+advertiser. This Privacy Policy does not cover the privacy practices of any
+advertisers or ad servers.</p>
+
+<p><b>Use and
+Disclosure of Information</b></p>
+
+<p>Except as otherwise stated in this Privacy Policy, we
+do not sell, trade, rent, or otherwise share for marketing purposes the
+Personal Information that we collect with third parties, unless you ask or
+authorize us to do so.</p>
+
+<p>In general, Personal Information you submit to us is
+used by us to provide you access to Ensogo Malaysia to process your Ensogo Malaysia
+orders, to improve Ensogo Malaysia, to better tailor the features, performance,
+and support of Ensogo Malaysia &nbsp;and to
+offer you additional information, opportunities, promotions and functionality
+from us, our partners or our advertisers at your request. Additionally, we do
+share your content preferences and other information with the social network
+with which you have connected to Ensogo Malaysia, along with those companies
+and persons you have asked us to share your information with.</p>
+
+<p>We may disclose your Personal Information to other
+businesses within the Ensogo group, and to reputable third parties who will help
+process your order. Ensogo Malaysia requires all such third parties to treat
+your personal information as fully confidential and to fully comply with all
+applicable Malaysian personal data protection and consumer legislation from
+time to time in place. We may provide your Personal Information to third-party
+service providers who work on behalf of or with us to provide some of the
+services and features of Ensogo Malaysia and to help us communicate with you
+and manage Ensogo Products via the Marketplace (for example process your orders
+and returns). Examples of such services include sending email, analyzing data,
+providing marketing assistance, processing payments (including credit card
+payments), delivering Ensogo Products and providing customer service. We
+require our third-party service providers to promise not to use such
+information except as necessary to provide the relevant services to us. We may
+share some or all of your Personal Information (other than credit card information)
+with Merchants whose Deals you have purchased for their commercial purposes and
+to provision the Deal... If you do not want us to use or disclose Personal
+Information collected about you in the manner identified in this Privacy
+Policy, you may not use Ensogo Malaysia.</p>
+
+<p>We also process your payment card details in order to
+complete any purchase that you make through our Site and, in certain instances,
+disclose your personal data to third party credit reference agencies to perform
+credit checks against you. When you place an order with us, we may offer to
+retain your payment card details for your convenience to save you having to
+re-enter these details on a future occasion. However, if you prefer that we do
+not maintain these details, you can go to 'My Account', click on ‘edit or
+delete’ and delete any card information that we hold about you.</p>
+
+<p>Additionally, we may create Anonymous Information
+records from Personal Information by excluding information (such as your name)
+that would otherwise make the Anonymous Information personally identifiable to
+you. Generally, we aggregate this information and use it in statistical
+analysis to help us analyze patterns in the use of Ensogo. This Privacy Policy
+does not limit our use or disclosure of any Anonymous Information in any way,
+and we reserve the right to use and disclose Anonymous Information to our
+partners, advertisers and other third parties in our discretion.</p>
+
+<p>We may share some or all of your Personal Information
+with Ensogo Malaysia affiliated and group companies that are under a common
+control, so that they may send daily deal e-mails to you, in which case we will
+require them to honor this Privacy Policy. Some of those companies may be
+located in countries that do not require an equivalent or greater level of
+protection of Personal Information.</p>
+
+<p>In the event we go through a business transition such
+as a merger, acquisition by another company, or sale of all or a portion of our
+assets, your Personal Information may be among the assets transferred. You acknowledge
+that such transfers may occur and are permitted by this Privacy Policy, and
+that any acquirer of ours or that acquirer’s assets may continue to process
+your Personal Information as set forth in this Privacy Policy.</p>
+
+<p>We may disclose your Personal Information if we
+believe in good faith that such disclosure is necessary to (a) comply with
+relevant laws or to respond to subpoenas or warrants served on us; or (b) to
+protect and defend our rights or property, you, or third parties. You hereby
+consent to us sharing your Personal Information under the circumstances
+described herein.</p>
+
+<p>Please note that your personal information may be
+transferred, stored and processed outside Malaysia.</p>
+
+<p><b>The
+Ability Of Others To View Your Information</b></p>
+
+<p>Helping you to protect your information is a vital
+part of our mission. It is up to you to make sure you are comfortable with the
+information you choose to provide us and the information you choose to publish.
+You understand that when you use Ensogo Malaysia, certain information you post
+or provide through Ensogo Malaysia, such as your name, profile, comments,
+collections and reviews, may be shared with other users and posted on publicly
+available portions of Ensogo Malaysia, including without limitation, social
+media applications and other public forums in which you choose to participate.
+Please keep in mind that if you choose to disclose Personal Information when
+posting comments or other information or content through Ensogo Malaysia, this
+information may become publicly available and may be collected and used by
+others, including people outside the Ensogo community. We will not have any
+obligations with respect to any information that you post to parts of Ensogo available
+to others, and recommend that you use caution when giving out personal
+information to others through social media networks or otherwise.</p>
+
+<p><b>Third
+Party Sites And Advertising</b></p>
+
+<p>Ensogo Malaysia may contain links to other websites.
+Please be aware that we are not responsible for the privacy practices or the
+content of such other websites. We encourage our users to read the privacy
+statements of each and every website they visit. This Privacy Policy applies
+solely to information collected by us through Ensogo Malaysia and does not
+apply to these third-party websites. The ability to access information of
+third-parties from Ensogo Malaysia, or links to other websites or locations, is
+for your convenience and does not signify our endorsement of such
+third-parties, their products, their services, other websites, locations or
+their content.</p>
+
+<p>Your Choices Regarding Your Personal Information</p>
+
+<p>We offer you choices regarding the collection, use,
+and sharing of your Personal Information. You have a right at any time to stop
+us from contacting you for marketing purposes. When you receive promotional
+communications from us, you may indicate a preference to stop receiving further
+promotional communications from us and you will have the opportunity to
+"opt-out" by following the unsubscribe instructions provided in the
+promotional e-mail you receive or by contacting us directly at&nbsp;my.help.ensogo.com.</p>
+
+<p>Despite your indicated email marketing preferences, we
+may send you administrative emails regarding Ensogo Malaysia, including, for
+example, administrative and transactional confirmations, and notices of updates
+to our Privacy Policy if we choose to provide such notices to you in this
+manner.</p>
+
+<p>We want to make sure that your information is accurate
+and up-to-date. You may ask us to correct or remove information which you think
+is inaccurate. You may change any of your profile information by editing it in
+the profile settings page.</p>
+
+<p><b>Feedback</b></p>
+
+<p>If you provide feedback to us, we may use and disclose
+such feedback for any purpose, provided we do not associate such feedback with
+your Personal Information. We will collect any information contained in such
+feedback and will treat the Personal Information in it in accordance with this
+Privacy Policy. You agree that any such comments and any email we receive
+becomes our property. We may use feedback for marketing purposes or to add to
+or modify our services without paying any royalties or other compensation to
+you.</p>
+
+<p><b>Security</b></p>
+
+<p>We are committed to protecting the security of your
+Personal Information. We use a variety of industry-standard security
+technologies and procedures to help protect your Personal Information from
+unauthorized access, use, or disclosure. Even though we have taken significant
+steps to protect your Personal Information, no company, including us, can fully
+eliminate security risks associated with Personal Information.</p>
+
+<p><b>Contact and
+Revisions</b></p>
+
+<p>If you have questions or concerns about our Privacy
+Policy, please contact us at:&nbsp;my.help@ensogo.com.</p>
+
+<p>This Privacy Policy is subject to occasional revision
+at our discretion, and if we make any substantial changes in the way we use
+your Personal Information, we will post an alert on this page. If you object to
+any such changes, you must cease using Ensogo. Continued use of Ensogo Malaysia
+following notice of any such changes shall indicate your acknowledgement of
+such changes and agreement to be bound by the terms and conditions of such
+changes.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="esg-promotion-for-join"><div class="esg-promotion-row"><img src="http://static2.ensogo.com.my/sites/beecrazy_newdesign/assets/images/banners/banner_de0d49ced73f_en.png?ts=1448950540"><div class="esg-lets-sign-up"><h1>sign up &amp; save</h1><p>Subscribe and receive RM10 cash voucher via email for your first purchase!</p><form class="subscription-form"><input id="input-subscription-email" placeholder="Enter your email address" type="text"><button id="btn-subscription" type="submit">CLAIM RM10</button></form></div></div></div><footer><div class="esg-footer-links-row"><div class="esg-footer-links"><div class="esg-footer-need-help"><div class="esg-footer-title">Need Help?</div><ul><li>Call us at</li><li class="esg-footer-phone">+603 2022 0080</li><li>or email us at</li><li><a class="esg-footer-email" href="mailto:my.help@ensogo.com">my.help@ensogo.com</a></li></ul></div><div class="esg-footer-customer-service"><div class="esg-footer-title">Useful Links</div><ul><li><a href="/page/about-us">About Ensogo</a></li><li><a href="/page/careers">Careers</a></li><li><a href="/page/contact-us">FAQ &amp; Support Center</a></li><li><a href="/page/privacy-policy">Security &amp; Privacy Policy</a></li><li><a href="/page/term-and-conditions">Terms &amp; Condition</a></li><li><a href="/page/affiliate-program">Affiliate Program</a></li></ul></div><div class="esg-footer-social-networks"><div class="esg-footer-title">Connect with Us</div><table><tbody><tr><td><a href="https://www.facebook.com/ensogo.malaysia?fref=ts" target="_blank"><img src="//static.ensogo.com.my/sites/ensogo/assets/images/footer/icon_footer_facebook.png"></a></td></tr></tbody></table></div></div><div class="esg-footer-dl-mobile-app"><a href="/page/all-new-mobile-app"><img src="//static.ensogo.com.my/sites/ensogo/assets/images/banners/footer_promo_en_3.png"></a></div></div><div class="esg-footer-bottom-icons"><h4>Payment Methods</h4><div class="esg-payment-icons"><img src="//static.ensogo.com.my/sites/ensogo/assets/images/payment_types/pay-pp.jpg"><img src="//static.ensogo.com.my/sites/ensogo/assets/images/payment_types/pay-vs.jpg"><img src="//static.ensogo.com.my/sites/ensogo/assets/images/payment_types/pay-mc.jpg"><img src="//static.ensogo.com.my/sites/ensogo/assets/images/payment_types/cod.png"><img src="//static.ensogo.com.my/sites/ensogo/assets/images/payment_types/online-banking-rhb.png"><img src="//static.ensogo.com.my/sites/ensogo/assets/images/payment_types/online-banking-maybank.png"><img src="//static.ensogo.com.my/sites/ensogo/assets/images/payment_types/online-banking-hlb.png"><img src="//static.ensogo.com.my/sites/ensogo/assets/images/payment_types/online-banking-fpx.png"><img src="//static.ensogo.com.my/sites/ensogo/assets/images/payment_types/online-banking-cimb.png"><img src="//static.ensogo.com.my/sites/ensogo/assets/images/payment_types/online-banking-bsn.png"><img src="//static.ensogo.com.my/sites/ensogo/assets/images/payment_types/online-banking-ambank.png"><img src="//static.ensogo.com.my/sites/ensogo/assets/images/payment_types/online-banking-affinbank.png"></div><img class="esg-footer-bottom-icons-norton" src="//static.ensogo.com.my/sites/ensogo/assets/images/trust_badge.jpg"></div></footer><div id="esg-sticky-bar"><div class="sticky-bar-upper-group"><div class="sticky-bar-item" data-yet-another-search-bar-shower=""><img class="sticky-icon-normal" src="/assets/icon_search-f7f758ba34fa7e8e491485803dbcc15f.png"><img class="sticky-icon-hover" src="/assets/icon_search_hover-091685c1eb6385ab83f069e836b7148b.png"><input class="input-search" data-yet-another-search-bar=""></div><a class="login-modal reg" data-target="#login-box" data-toggle="modal"><div class="sticky-bar-item"><img class="sticky-icon-normal" src="/assets/icon_profile-1781496f1af7f230cdf04f6b43408846.png"><img class="sticky-icon-hover" src="/assets/icon_profile_hover-4d16581af7dfed9fd7d06da33745c02b.png"></div></a><div class="sticky-bar-item sticky-bar-item-cart"><img class="sticky-icon-normal" src="/assets/icon_cart-efe4ae7dab62ae94a8c5289d8d10eeab.png"><img class="sticky-icon-hover" src="/assets/icon_cart_hover-8ff1f73c1b8d24c0c9449b4ec0d0d84a.png"><div class="floating-cart-quantity hide">0</div><div class="sticky-bar-item-content sticky-bar-item-content-cart"><div class="cart_added hide"> Added</div><div class="cart_added_product_image hide"><img src=""></div><ul><li class="cart_checkout last"><a href="/en/checkout/one"> Checkout</a></li></ul></div></div></div><div class="sticky-bar-space"></div><div class="sticky-bar-lower-group"><a href="tel:+603 2022 0080"><div class="sticky-bar-item"><img class="sticky-icon-normal" src="/assets/icon_contact-d7dc81d0ca580a5b64ae0539ab3832dd.png"><img class="sticky-icon-hover" src="/assets/icon_contact_hover-404d1adb06abf115e67ad71b998e4eb0.png"><div class="sticky-bar-item-content sticky-bar-item-content-contact">+603 2022 0080</div></div></a><div class="sticky-bar-item" data-goes-back-to-top=""><img class="sticky-icon-normal" src="/assets/icon_backtotop-a3baa210091e135d5dd0927574227657.png"><img class="sticky-icon-hover" src="/assets/icon_backtotop_hover-2b9c03cfbbf5796270aca1eff0e9984f.png"></div></div></div></div><script>
+  currency_symbol = 'RM';
+  current_user = "";
+  nav_sub_scrollable = false;
+  show_popup_47501 = false;
+</script>
+<script src="//content.ensogo.com.my/sites/beecrazy_newdesign/assets/js/jquery.lazyload-ensogo.js" type="text/javascript"></script>
+<script src="//content.ensogo.com.my/sites/beecrazy_newdesign/assets/js/bootstrap.min.js" type="text/javascript"></script>
+<script src="/assets/application-1cfb892cbfab0267f7af389bb678f6c3.js" type="text/javascript"></script>
+<script src="//content.ensogo.com.my/sites/beecrazy_newdesign/assets/js/emstrack.js" type="text/javascript"></script>
+<script>
+  emsSetEnv("login");
+  emsTracking(112645434, "ensogo.com.my");
 </script>
 
-         <div id="body">
-            
-            
-
-            <div class="container center">
-               <div class="row">
-                  
-<div id="page">
-	<div class="box">
-  <div class="header"><h3>Privacy Policy</h3></div>
-  <div class="body">
-		<div class="content">
-			<p></p><p class="p1"><em>Last updated August 7, 2012</em></p><p class="p1"></p><p class="p1"></p><p class="p1">This Privacy Policy discloses the privacy practices for the Dealmates website (collectively, the “Website” located at www.dealmates.com.my). Dealmates, the provider of the Website (referred to as “us” or “we”), is committed to protecting your privacy online. Please read the following to learn what information we collect from you (the “User” or the “End User”) and how we use that information. If you have any questions about our privacy policy, please email us.</p><p class="p1"><strong></strong></p><p class="p1"><strong>PLEASE READ THIS PRIVACY POLICY CAREFULLY. BY ACCESSING OR USING OUR WEBSITE, YOU ACKNOWLEDGE THAT YOU HAVE READ, UNDERSTAND, AND AGREE TO BE BOUND TO ALL THE TERMS OF THIS PRIVACY POLICY AND OUR WEBSITE TERMS OF USE. IF YOU DO NOT AGREE TO THESE TERMS, EXIT THIS PAGE AND DO NOT ACCESS OR USE THE WEBSITE.</strong></p><p class="p1"></p><p class="p1">1.&nbsp;<strong>Changes to Privacy Policy</strong></p><p class="p1">If we decide to change our privacy policy, we will post those changes to this privacy statement, the home page, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.</p><p class="p1">We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make substantial (to which degree is at the sole discretion of the Dealmates team) changes to this policy, we will notify you here, by email, or by means of notice on our home page.</p><p class="p1">2.&nbsp;<strong>Types of Information Collected and Uses of Collected Information</strong></p><p class="p1">We collect two types of information about our Website Users: Personally Identifiable Information and Non-Personally Identifiable Information.</p><p class="p1"><strong>Personally Identifiable Information</strong>. Personally Identifiable Information is information that pertains to a specific End User. When you engage in certain activities on the Website, such as creating an account, ordering a product or service from us or our partners, submitting content and/or posting content in discussion forums, entering a contest or sweepstakes sponsored by us or our partners, filling out a survey, posting a review, sending us or our partners feedback, requesting information about our services, submitting an affiliate agreement, applying for a job, posting a video or signing up for special offers from third parties through the Website (collectively, “Identification Activities”), we may ask you to provide certain information about yourself. It is optional for you to engage in an Identification Activity. If you elect to engage in an Identification Activity, however, we may ask you to provide us with certain personal information about yourself, such as your first and last name, mailing address (including postal code), email address, telephone number and date of birth. When you order products or services, we may also ask you to provide us with your credit card number, expiration date and authentication codes or related information. Depending on the activity, some of the information we ask you to provide is identified as mandatory and some is identified as voluntary. If you do not provide the mandatory information for a particular activity that requires it, you will not be permitted to engage in that activity.</p><p class="p1"><strong>Share/Buy it for a Friend</strong>. If you choose to use our referral service or buy a deal for a friend, we will ask you for your friend's name and email address. We will automatically send your friend a one-time email with the gift you bought for them or inviting him or her to visit the site. Dealmates stores this information for the sole purpose of sending this one-time email, sending their gift, and tracking the success of our referral program. Your friend may contact us at support@dealmates.com to request that we remove this information from our database. We use Personally Identifiable Information to provide products and services to you, administer sweepstakes and contests, enhance the operation of the Website, improve our marketing and promotional efforts, analyze Website use, improve our product and service offerings, and to tailor your experience with third parties as provided in Item 3 of this Privacy Policy. For example, if you send our customer service an email we may use your comments and feedback to tell others about our services, and may post your comment in our marketing materials or on our Website. Your comments may contain personal information such as your name, we will obtain consent from you to post your name along with your comment prior to posting your comment for public view. In addition, if you use our Website to send information or a product to another person, we may store your personal information. We may also use Personally Identifiable Information to troubleshoot, resolve disputes, accomplish administrative tasks, contact you, enforce our agreements with you, including our Website Terms of Use and this Privacy Policy, comply with applicable law, and cooperate with law enforcement activities.</p><p class="p1"><strong>Non-Personally Identifiable Information</strong>. Non-Personally Identifiable Information is information that does not identify a specific End User. This type of information may include things like the Uniform Resource Locator (“URL”) of the website you visited before coming to our Website, the URL of the website you visit after leaving our Website, the type of browser you are using and your Internet Protocol (“IP”) address. We, and/or our authorized Third Party Service Providers and Advertisers, may automatically collect this information when you visit our Website through the use of electronic tools like Cookies and Web beacons or Pixel tags, as described in Items 4 and 8 of this Privacy Policy. We use Non-Personally Identifiable Information to troubleshoot, administer the Website, analyze trends, gather demographic information, comply with applicable law, and cooperate with law enforcement activities. We may also share this information with our authorized Third Party Service Providers and Advertisers to measure the overall effectiveness of our online advertising, content, and programming.</p><p class="p1">3.&nbsp;<strong>Release of Personally Identifiable Information</strong></p><p class="p1">We will not share, sell, rent, or trade your Personally Identifiable Information with other parties except as provided below:</p><p class="p1"><strong>We may share your information with Dealmates Merchants</strong>. From time to time, we provide offers from particular merchants (referred to as “Dealmates Merchants”) who, as part of the offer, request information on Dealmates customers who purchased the offer in order to aid redemption. In those cases, we share some of your Personally Identifiable Information with Dealmates Merchants. Sharing this Information may allow a Dealmates Merchant to market directly to you should they choose to do so. However, we will only share Personally Identifiable Information with a Dealmates Merchant if you engage in an Identification Activity, and then only to the Dealmates Merchant involved in that Identification Activity. We specifically disclaim any responsibility or liability for the actions of such Dealmates Merchant. While we inform them that they are only permitted to communicate with you for the purposes of the specific promotion with Dealmates, we do not have any responsibility for the actions of the Dealmates Merchant, and the actions of the Dealmates Merchant are not in our control.</p><p class="p1"><strong>We may share your information with Authorized Third Party Service Providers</strong>. We provide services and products through third parties. These “Third Party Service Providers” perform functions on our behalf, like sending out and distributing our administrative and promotional emails. We may share your Personally Identifiable Information with such Service Providers to fulfill orders, deliver packages, send postal or email, administer contests or sweepstakes, remove repetitive information on customer lists, analyze data, provide marketing assistance, provide search results and links, process credit card payments, operate the Website, troubleshoot, and provide customer service. We may also collect personal information from individuals and companies (“Affiliates”) with whom we have business relationships and may share your information with Service Providers to accomplish our administrative tasks. For example, when you order a service, we release your credit card information to the card-issuing bank to confirm payment for the service and, if applicable, release your address to the delivery service to deliver the service. Likewise, we may release an Affiliate's information to our bank to send out a payment. We encourage Dealmates Merchants and Third Party Service Providers to adopt and post privacy policies. However, the use of your Personally Identifiable Information by such parties is governed by the privacy policies of such parties and is not subject to our control.</p><p class="p1"><strong>We may remarket your information</strong>. Remarketing is a way for us to connect with users, based upon your past interactions with the Dealmates website. Third-party marketing vendors may be hired by Dealmates to perform remarketing services. As a result, third-party vendors, including Google, may show Dealmates ads on sites on the internet. Third-party vendors, including Google, use cookies to serve ads based on a user's prior visits to Dealmates's website. Users may opt out of Google's use of cookies by visiting the Google advertising opt-out page at http://www.google.com/privacy_ads.html. This information is used only for remarketing purposes and will not be used by them for any other purpose.</p><p class="p1"><strong>We may share your information in a Business Transfer</strong>. As with any other business, we could merge with, or be acquired by another company. If this occurs, the successor company would acquire the information we maintain, including Personally Identifiable Information. However, Personally Identifiable Information would remain subject to this Privacy Policy.</p><p class="p1"><strong>We may share your information for our Protection and the Protection of Others</strong>. We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or comply with a judicial proceeding, court order, or legal process served on our Website; enforce or apply this Privacy Policy, our Website Terms of Use or other agreements; or protect the rights, property or safety of the Website, its Users or others.</p><p class="p1">4.&nbsp;<strong>Release of Non-Personally Identifiable Information</strong></p><p class="p1">We may disclose or share Non-Personally Identifiable Information with Partners, Affiliates and Advertisers. For example, we may share aggregated demographic information (which does not include any Personally Identifiable Information) with “Third Party Advertisers” or “Third Party Advertising Companies” and other parties as provided below:</p><p class="p1">We use Third Party Advertising Companies to serve ads when you visit our Website. These companies may use Non-Personally Identifiable Information about your visits to this and other websites in order to provide, through the use of network tags, advertisements about goods and services that may be of interest to you. Some of these Third Party Advertising Companies may be advertising networks that are members of the Network Advertising Initiative (“NAI”). If you would like more information about any NAI member company, or you would like to opt-out of targeted advertising from any NAI member company, click here:</p><p class="p1">http://www.networkadvertising.org/consumer/opt_out.asp</p><p class="p1">We also use Third Party Service Providers to track and analyze Non-Personally Identifiable usage and volume statistical information from our Users to administer our Website and constantly improve its quality. We may also publish this information for promotional purposes or as a representative audience for Advertisers. Please note that this is not Personally Identifiable Information, only general summaries of the activities of our Users. Such data is collected on our behalf, and is owned and used by us.</p><p class="p1">5.&nbsp;<strong>Updating and Correcting Information</strong></p><p class="p1">We believe that you should have the ability to access and edit the Personally Identifiable Information you provide us. You may change any of your Personally Identifiable Information by logging into your account and accessing the "my account" section of the site, sending us an email at support@dealmates.com or writing to us at No 15-2, The Boulevard, Mid Valley City, 59200 Kuala Lumpur. Please indicate your name, address and email address, and what information you would like to update when you contact us. We encourage you to promptly update your Personally Identifiable Information if it changes. You may ask to have the information on your account deleted or removed; however, because we keep track of past transactions, you cannot delete information associated with past transactions on the Website. In addition, in may be impossible for us to completely delete all of your information because we periodically backup information.</p><p class="p1">6.&nbsp;<strong>User Choices on Collection and Use of Information</strong></p><p class="p1">As discussed above, you can always choose not to provide information, although it may be required to engage in a certain activity on the Website. As a condition of purchase of our products and services, we will send you Administrative and Promotional emails. We will send you information regarding your account activity and purchases as well as updates about our products and promotional offers. You cannot opt-out of Administrative Emails. “Administrative Emails” relate to a User's activity on the Website, and include emails regarding a particular User's account, requests or inquiries, and purchases of products and services. In contrast to Administrative Emails, however, you do have a choice with respect to Promotional Emails. Promotional Emails advertise our products and services, including exclusive sales and other offers, and/or the products and services of our Advertisers and Affiliates. If you do not want to receive Promotional Emails from us, you may elect to opt-out of receiving Promotional Emails at any time after registering by e-mailing us at support@dealmates.com, by writing to us at the address contained herein, or by hitting the “unsubscribe” button at the bottom of any of our e-mails. When contacting us, please indicate your name, address, email address, and what Promotional Emails you do not want to receive.</p><p class="p1">7.&nbsp;<strong>Security of Information</strong></p><p class="p1">We take security seriously and take numerous precautions to protect the security of Personally Identifiable Information. You can access your Personally Identifiable Information on our Website through a password and your email address. This password is encrypted. We recommend that you do not share your password with anyone. In addition, your Personally Identifiable Information resides on a secure server that only selected personnel and contractors have access to. We encrypt certain sensitive information (such as credit card information) using Secure Socket Layer (SSL) technology to ensure that your Personally Identifiable Information is safe as it is transmitted to us. Unfortunately, no data transmission over the Internet or any wireless network can be guaranteed to be 100% secure. As a result, while we employ commercially reasonable security measures to protect data and seek to partner with companies which do the same, we cannot guarantee the security of any information transmitted to or from the Website, and are not responsible for the actions of any third parties that may receive any such information.</p><p class="p1">8.&nbsp;<strong>Data Tracking</strong></p><p class="p1"><strong>&nbsp;Cookies</strong>. To facilitate and customize your experience with the Website, we store cookies on your computer. A cookie is a small text file that is stored on a User's computer for record-keeping purposes which contains information about that User. We use cookies to save you time while using the Website, remind us who you are, and track and target User interests in order to provide a customized experience. Cookies also allow us to collect Non-Personally Identifiable Information from you, like which pages you visited and what links you clicked on. Use of this information helps us to create a more user-friendly experience for all visitors. In addition, we may use Third Party Advertising Companies to display advertisements on our Website. As part of their service, they may place separate cookies on your computer. We have no access to or control over these cookies. This Privacy Policy covers the use of cookies by our Website only and does not cover the use of cookies by any Advertiser. Most browsers automatically accept cookies, but you may be able to modify your browser settings to decline cookies. Please note that if you decline or delete these cookies, some parts of the Website may not work properly.</p><p class="p1"><strong>Other Tracking Devices</strong>. We may use other industry standard technologies like pixel tags and web beacons to track your use of our Website pages and promotions, or we may allow our Third Party Service Providers to use these devices on our behalf. Pixel tags and web beacons are tiny graphic images placed on certain pages on our Website, or in our emails that allow us to determine whether you have performed a specific action. When you access these pages or open or click an email, pixel tags and web beacons generate a Non-Personally Identifiable notice of that action. Pixel tags allow us to measure and improve our understanding of visitor traffic and behavior on our Website, as well as give us a way to measure our promotions and performance. We may also utilize pixel tags and web beacons provided by our Affiliates and/or Marketing Partners for the same purposes.</p><p class="p1">9.&nbsp;<strong>Privacy Policies of Third Party Websites</strong></p><p class="p1">This Privacy Policy only addresses the use and disclosure of information we collect from you on www.dealmates.com. Other websites that may be accessible through this Website have their own privacy policies and data collection, use and disclosure practices. If you link to any such website, we urge you review the website's privacy policy. We are not responsible for the policies or practices of third parties.</p><p class="p1">10.&nbsp;<strong>Miscellaneous Privacy Issues</strong></p><p class="p1"><strong>Children</strong>. Minors under the age of 18 may not use the Website. We do not knowingly collect personal information from anyone under the age of 18, and no part of the Website is designed to attract anyone under the age of 18. Dealmates does not sell products for purchase by children. In certain instances, we sell children's products for purchase by adults.</p><p class="p1"><strong>Public Areas</strong>. We may provide areas on our Website where you can publicly post information about yourself, can communicate with others such as discussion boards or blogs, or can review products, restaurants, and submit media content. This information may be accessible by other consumers and companies and may appear on other websites or web searches, and therefore this information could be read, collected, and used by others. For example, if you post your email address along with a public restaurant review, you may receive unsolicited messages. We have no control over who reads your postings or what other users may do with the information you voluntarily post, so please use caution when posting any personal information. We do obtain consent from our users to post their name along with their reviews.</p><p class="p1"><strong>Facebook Connect</strong>. The Dealmates Site allows users to access Facebook Connect to interact with friends and to share on Facebook through Wall and friends' News Feeds. If you are logged into Dealmates and Facebook, when you click on "Connect with Facebook" your profiles will merge if the email addresses match. If the email addresses don't match, we ask you if you want to merge them and you must enter your Dealmates password to validate that they control that account. If you are already logged into Dealmates but not logged into Facebook, when you click on "Connect with Facebook" you will be prompted to enter your Facebook credentials or to "Sign up for Facebook." By proceeding you are allowing the Dealmates Site to access your information and you are agreeing to the Facebook Terms of Use in your use of Dealmates Sites. Conversely, if you are not currently registered as a Dealmates user and you click on "Sign in Using Facebook," you will first be asked to enter your Facebook credentials and then be given the option to register and join Dealmates. Once you register on the Dealmates site and Connect with Facebook, you will be able to automatically post recent activity back to Facebook. You have the option to disable Facebook Connect at any time by logging into "My Profile" and clicking on "My Facebook Profile." Further, you can edit privacy settings for the reviews that appear on Facebook or disconnect this service by visiting the Facebook Application Settings page.</p><p class="p1"><strong></strong></p><p class="p1"><strong>Deal Mates Sdn Bhd (891933-K) (Formerly know as Virtual Accent Sdn. Bhd.)</strong><br>Unit 15-01, 15th Floor</p><p class="p1">Menara Multi-Purpose,&nbsp;</p><p class="p1">No. 8 Jalan Munshi Abdullah</p><p class="p1">50100 Kuala Lumpur</p><p class="p1">Malaysia.<br><br>Email: support@dealmates.com</p><p class="p1"><span style="letter-spacing:1px;line-height:normal;">Tel: 03 2691 8100</span></p><p class="p2"></p><div><p></p></div>
-		</div>
-		<div class="shadowblk">
-			<div class="shadow">
-			</div>
-		</div>
-    </div>
-	</div>
+<script>
+  I18n.locale = 'en';
+</script>
+<script>
+  // Analytics
+  
+  // Google
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    //ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+<script>
+  // scarabresearch.com
+  ScarabQueue.push(['go']);
+  //console.log('ScarabQueue', ScarabQueue);
+  (function(subdomain, id) {
+    if (document.getElementById(id)) return;
+    var js = document.createElement('script'); 
+    js.id = id;
+    //js.async = true;
+    js.src = subdomain + '.scarabresearch.com/js/18E6CD0F155D93C6/scarab-v2.js';
+    var fs = document.getElementsByTagName('script')[0];
+    fs.parentNode.insertBefore(js, fs);
+  })('https:' == document.location.protocol ? 'https://recommender' : 'http://cdn', 'scarab-js-api');
+</script>
+<script>
+  /* <![CDATA[ */
+  var google_conversion_id = 980526262;
+  var google_custom_params = window.google_tag_params;
+  var google_remarketing_only = true;
+  /* ]]> */
+</script>
+<div style="display:none">
+<script src="//www.googleadservices.com/pagead/conversion.js" type="text/javascript"></script>
 </div>
-
-               </div>
-
-               
-            </div>
-            <div class="footer-body">
-   <div class="footer-wrap container box-shadow">
-      <div class="promise_tab mobile-hidden">
-         <a class="promise0" href="http://www.dealmates.com.my/pages/delivery-page"></a>
-         <a class="promise1" href="http://www.dealmates.com.my/pages/promise"></a>
-         <a class="promise2" href="http://www.dealmates.com.my/pages/promise"></a>
-      </div>
-      <div class="preferred mobile-hidden">
-         PREFFERED PAYMENT
-         <br>
-         <br>
-         <img src="/images/asset/payment.png" width="258px" height="90px" alt="">
-      </div>
-      <div class="preferred mobile-hidden">
-         SAFE &amp; SECURED
-         <br>
-         <br>
-         <img src="/images/asset/secured.png" width="258px" height="64px" alt="">
-      </div>
-      <div class="preferred no-border mobile-hidden">
-         PREFFERED DELIVERY
-         <br>
-         <br>
-         <img src="/images/asset/pref_delivery.png" width="258px" height="64px" alt="">
-      </div>
-      <div class="hr_line mobile-hidden">
-         <hr style="border: 1px dotted #ddd">
-      </div>
-      <div class="customer_care mobile-hidden">
-         CUSTOMER CARE
-         <div class="customer_care_text">
-               Do you have a question or problem that you need our help with? We're here for you!<br>
-               <br>
-               <img src="/images/asset/time_icon.png" width="14px" height="14px" style="vertical-align: middle" alt="">&nbsp;&nbsp;9.30am
-               - 5.00pm (Monday to Friday)<br>
-               <img src="/images/asset/email_icon.png" width="14px" height="9px" style="vertical-align: middle" alt="">&nbsp;&nbsp;support@dealmates.com<br>
-               <br>
-               <b>Headquarters:</b><br>
-               Unit 15-01, 15th Floor
-               <br>
-               Menara Multi-Purpose
-               <br>
-               No.8 Jalan Munshi Abdullah
-               <br>
-               50100 Kuala Lumpur<br>
-               <br>
-               <br>
-               Tel: 03 2691 8100
-               <br>
-               Monday to Friday : 9:30am - 6.00pm<br>
-         </div>
-      </div>
-      <div class="social mobile-hidden">
-         CONNECT WITH US
-         <div class="social_text">
-            <img src="/images/asset/facebook_icon.png" width="20px" height="20px" style="vertical-align: middle" alt="">
-            &nbsp;&nbsp;
-            <a href="http://www.facebook.com/dealmates" target="_blank" style="vertical-align: middle">Facebook</a><br>
-            <br>
-            <img src="/images/asset/twitter_icon.png" width="20px" height="20px" style="vertical-align: middle" alt="">
-            &nbsp;&nbsp;
-            <a href="http://twitter.com/#!/dealmates" target="_blank" style="vertical-align: middle">Twitter</a>
-         </div>
-         <div class="fb-like" data-href="http://www.facebook.com/dealmates" data-width="200" data-height="100%" data-colorscheme="light" data-layout="standard" data-action="like" data-show-faces="true" data-send="false">
-         </div>
-      </div>
-      <div class="about_us mobile-hidden">
-         ABOUT US
-         <div class="about_us_text">
-            <a href="http://www.dealmates.com.my/pages/about">About</a>
-         </div>
-         <div class="about_us_text">
-            <a href="http://www.dealmates.com.my/pages/contact">Contact Us</a>
-         </div>
-         <div class="about_us_text">
-            <a href="http://www.dealmates.com.my/pages/contact">FAQ</a>
-         </div>
-         <div class="about_us_text">
-            <a href="http://www.dealmates.com.my/pages/getfeatured">Feature Your Business</a>
-         </div>
-         <div class="about_us_text">
-            <a href="http://www.dealmates.com.my/pages/terms">Terms &amp; Policies</a>
-         </div>
-         <div class="about_us_text">
-            <a href="http://www.dealmates.com.my/pages/privacy">Privacy Policy</a>
-         </div>
-         <div class="about_us_text">
-            <a href="http://www.dealmates.com.my/pages/referrals">Referral Program</a>
-         </div>
-         <div class="about_us_text">
-            <a href="http://www.dealmates.com.my/pages/affiliates">Affiliate Program</a>
-         </div>
-         <div class="about_us_text">
-            <a href="http://www.dealmates.com.my/pages/api">Developers/API</a>
-         </div>
-      </div>
-      <div class="referral mobile-hidden">
-         <a href="http://www.dealmates.com.my/pages/referrals">
-            <img src="/images/asset/referral.png" width="200px" height="250px" alt="">
-         </a>
-      </div>
-      <div class="footer">
-         ©Copyright 2014 Deal Mates Sdn Bhd. All Rights Reserved.
-      </div>
-   </div>
+<noscript>
+<div style='display:none'>
+<img alt='' height='1' src='//googleads.g.doubleclick.net/pagead/viewthroughconversion/980526262/?value=0&amp;amp;guid=ON&amp;amp;script=0' style='border-style:none;' width='1'>
+<img height='1' src='https://www.facebook.com/tr?id=657014281092227&amp;amp;ev=PixelInitialized' style='display:none' width='1'>
 </div>
-
-         </div>
-
-            <!-- facebook start -->
-            <div id="fb-root"></div>
-            <!-- Postclick Tracking Tag Start -->
-            <!-- Postclick Tracking Tag End -->
-            
-
-            <script type="text/javascript">
-               window.fbAsyncInit=function(){
-                  FB.init({
-                     appId:'162802183749925',status:true,cookie:true,xfbml:true,oauth:true,
-                  });
-               };
-               (function (d, s, id) {
-                  var js, fjs = d.getElementsByTagName(s)[0];
-                  if (d.getElementById(id)) return;
-                  js = d.createElement(s); js.id = id; js.async = true;
-                  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=162802183749925";
-                  fjs.parentNode.insertBefore(js, fjs);
-               } (document, 'script', 'facebook-jssdk'));
-            </script>
-            <!-- facebook end -->
-            <!-- GA Tracking start -->
-            <script type="text/javascript">
-
-                var _gaq = _gaq || [];
-                _gaq.push(['_setAccount', 'UA-19639245-2']);
-                _gaq.push(['_trackPageview']);
-
-                (function () {
-                    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-                    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-                    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-                })();
-
-            </script>
-            <!-- GA Tracking end -->
-            <!-- Google Code for Remarketing tag -->
-            <!-- Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. For instructions on adding this tag and more information on the above requirements, read the setup guide: google.com/ads/remarketingsetup -->
-            <script type="text/javascript">
-/* <![CDATA[ */
-var google_conversion_id = 996533957;
-var google_conversion_label = "Gfy_CKvK-wMQxc2X2wM";
-var google_custom_params = window.google_tag_params;
-var google_remarketing_only = true;
-/* ]]> */
-            </script>
-            <script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
-            </script>
-            <noscript>
-                <div style="display: inline;">
-                    <img height="1" width="1" style="border-style: none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/996533957/?value=0&amp;label=Gfy_CKvK-wMQxc2X2wM&amp;guid=ON&amp;script=0" />
-                </div>
-            </noscript>
-            <!-- Zendesk start -->
-            <script type="text/javascript" src="//asset0.zendesk.com/external/zenbox/v2.5/zenbox.js"></script>
-            <style type="text/css" media="screen, projection">
-            @import url(//asset0.zendesk.com/external/zenbox/v2.5/zenbox.css);
-            </style>
-            <!-- Zendesk end -->
-            <script type="text/javascript" src="/Scripts/snap.js"></script>
-            <script type="text/javascript" src="/Scripts/responsive-function.js"></script>
-            <script type="text/javascript" src="/Scripts/response.min.js"></script>
-            <script type="text/javascript">
-                $(function () {
-                    if (Response.viewportW() > 1007) {
-                        if (typeof (Zenbox) !== "undefined") {
-                            Zenbox.init({
-                                dropboxID: "20101550",
-                                url: "https://dealmates.zendesk.com",
-                                tabID: "Support",
-                                tabColor: "#3CA395",
-                                tabPosition: "Right"
-                            });
-                        }
-                    }
-                });
-            </script>
-
-   </div>
-
-
+</noscript>
 </body></html>
