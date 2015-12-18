@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the broadridge.com privacy policy that was archived on 2015-06-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150629133417id_/http%3A//www.broadridge.com/privacy/english) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the broadridge.com privacy policy that was archived on 2015-12-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151218215028id_/http%3A//www.broadridge.com/privacy/english) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><!--<![endif]--><head>
     <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1"> 
@@ -23,8 +23,10 @@
     <!--[if lt IE 8]>
 	<script src="http://ie7-js.googlecode.com/svn/version/2.1(beta4)/IE8.js"></script>
     <![endif]-->
-	  <link rel="stylesheet" type="text/css" href="http://www.broadridge.com/includes/37d464cf883c98bb5f6cd3dd1260ab24/screen.css" media="screen">
-  <link rel="stylesheet" type="text/css" href="http://www.broadridge.com/includes/37d464cf883c98bb5f6cd3dd1260ab24/screen.css" media="print">
+	  <link rel="stylesheet" type="text/css" href="http://www.broadridge.com/includes/5c774d631c3b20ee2f7aa70e8249abe6/screen.css" media="screen">
+  <link rel="stylesheet" type="text/css" href="http://www.broadridge.com/includes/5c774d631c3b20ee2f7aa70e8249abe6/screen.css" media="print">
+  
+  
       
     <!--[if lte IE 6]>
     <link rel="stylesheet" type="text/css" href="http://www.broadridge.com/includes/ac21a95c2cf9c20d9382b53064fd3a7b/upgrade.css" media="screen" />
@@ -47,7 +49,7 @@
     <script src="http://www.broadridge.com/includes/4dc5d2da6da838ad1d36b890e3cbb839/accordion.js"></script>
     <script src="http://www.broadridge.com/includes/cf478894af35658348ad364ac3e86bae/jquery.tipTip.minified.js"></script>
     <script src="http://www.broadridge.com/includes/55da86cbeca01522fd8314d36204a1eb/jquery.flexslider-min.js"></script>
-    <script src="http://www.broadridge.com/includes/a21abfb523c283e08c5d0581f3fbe5e0/forms.js"></script>
+    <script src="http://www.broadridge.com/includes/4e3e4e191622cce6fb1ca75f3425d609/forms.js"></script>
     <script src="http://www.broadridge.com/includes/a3cc72f03f2b315cec4efe7f9759760a/BR_FormHandler.js"></script>
    <script src="http://www.broadridge.com/includes/48c8558d23ca0b8f75ad4fa142b0fb21/placeholder.min.js"></script>
    
@@ -64,7 +66,7 @@
 				
 	</script>
     
-    <script src="http://www.broadridge.com/includes/jquery.tweet.js?c=n&amp;rand=18375"></script>
+    <script src="http://www.broadridge.com/includes/jquery.tweet.js?c=n&amp;rand=36711"></script>
     <script src="http://www.broadridge.com/includes/jquery.tinyscrollbar.js"></script>
     <script type="text/javascript">
         jQuery(function($){
@@ -143,6 +145,193 @@
 
 	      
     </script>	
+
+
+
+<script type="text/javascript">// <![CDATA[
+		var accordionItems = new Array();
+               $(document).ready(function () {
+               
+       var divs = document.getElementsByTagName( 'div' );
+      for ( var i = 0; i < divs.length; i++ ) {
+        if ( divs[i].className == 'accordionItem' ) accordionItems.push( divs[i] );
+      }
+
+      // Assign onclick events to the accordion item headings
+      for ( var i = 0; i < accordionItems.length; i++ ) {
+        var h3 = getFirstChildWithTagName( accordionItems[i], 'H3' );
+        h3.onclick = toggleItem;
+      }
+
+
+      // Hide all accordion item bodies except the first
+      for ( var i = 0; i < accordionItems.length; i++ ) {
+     
+      var child = getFirstChildWithTagName( accordionItems[i], 'DIV' );
+      
+      
+        child.className = 'accordionDetails hide';
+        
+      }
+
+});
+ 
+    function toggleItem() {
+     
+      
+      var current = $(this).closest('.accordionItem').children('.accordinDetails');
+        var test = this.parentNode.className;
+        var img = $(this).closest('.accordionItem').children('.header_group').children('.toggle_image');
+        var heading = $(this).closest('.l_group').children('.header_group').children('.toggle_text');
+   
+  
+   
+      var itemClass = this.parentNode.className;
+
+var accordionItems = new Array();
+               
+       var divs = document.getElementsByTagName( 'div' );
+      for ( var i = 0; i < divs.length; i++ ) {
+        if ( divs[i].className == 'accordionItem' ) accordionItems.push( divs[i] );
+      }
+ for ( var i = 0; i < accordionItems.length; i++ ) {
+     if(this.parentNode != accordionItems[i]){
+        var child = getFirstChildWithTagName( accordionItems[i], 'DIV' );
+      
+     
+        }
+      }
+var child2 = getFirstChildWithTagName( this.parentNode, 'DIV' );
+
+if(child2.className == 'accordionDetails hide' ) {
+
+child2.className = 'accordionDetails';
+
+var child3 = getSecondChildWithTagName( this.parentNode, 'DIV' );
+
+			
+			
+			 $(this).closest('.accordionItem').children('#summary').hide();
+			 
+            img.attr("src", "https://media.broadridge.com/images/Accordion-Opened-white.jpg");
+           
+
+}
+else{
+
+child2.className = 'accordionDetails hide';
+heading.text('expand');
+				$(this).closest('.accordionItem').children('#summary').show();
+img.attr("src", "https://media.broadridge.com/images/Accordion-Closed-white.jpg");
+				
+				
+}
+      
+    }
+
+    function getFirstChildWithTagName( element, tagName ) {
+      for ( var i = 0; i < element.childNodes.length; i++ ) {
+        if ( element.childNodes[i].nodeName == tagName ) return element.childNodes[i];
+      }
+    }
+
+    function getSecondChildWithTagName( element, tagName ) {
+      for ( var i = 1; i < element.childNodes.length; i++ ) {
+        if ( element.childNodes[i].nodeName == tagName && element.childNodes[i].className != "accordionDetails"  ) return element.childNodes[i];
+      }
+}
+// ]]></script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -313,7 +502,8 @@ display:none;
   <!-- Demandbase -->
   <script src="http://www.broadridge.com/includes/demandbaseIntegration.js"></script>
   <script src="http://www.broadridge.com/includes/Optimizely.js"></script>
- 
+   <script src="http://www.broadridge.com/includes/idio.js"></script> 
+  <script src="http://www.broadridge.com/includes/custom-Idio.js"></script> 
 <script src="http://www.broadridge.com/includes/EloquaTrackingCode.js"></script>
 
     <script type="text/javascript" language="JavaScript"><!--//
@@ -347,6 +537,7 @@ display:none;
  <link rel="stylesheet" type="text/css" href="http://www.broadridge.com/includes/Fancybox-21.5">
 
 </head>
+
 <body style="display: block;">
     <script language="Javascript">var js="0.0";</script><script language="Javascript1.0">js="1.0";</script><script language="Javascript1.1">js="1.1";</script><script language="Javascript1.2">js="1.2";</script><script language="Javascript1.3">js="1.3";</script><script language="Javascript1.4">js="1.4";</script><script language="Javascript1.5">js="1.5";</script><script language="Javascript1.6">js="1.6";</script><script language="Javascript1.7">js="1.7";</script><script language="Javascript1.8">js="1.8";</script><script language="Javascript1.9">js="1.9";</script><script language="javascript1.1" type="text/javascript"> 
 <!-- 
@@ -354,7 +545,7 @@ var bb=new Image();var _ti=910;var _q="";var na=(navigator.appName=="Netscape");
 function setonclicks(a,b){var i=0;var retval=true;while(document.links[i]!=a){i++;}if(b.li[i])retval=b.li[i].oldonclick();bye(a);return retval;}
 function newonld(){if(hasonload)oldonld();lnks=new Object();var sze=document.links.length;lnks.li=new Array(sze);for (var i=0; i<sze; i++){if(document.links[i].onclick){lnks.li[i]=document.links[i];lnks.li[i].oldonclick=document.links[i].onclick;}eval("document.links[i].onclick=function(){return setonclicks(this,lnks);}");}}function bye(a){if(a.href.toLowerCase().indexOf('http')!=0)return true;if(getdomain(location)==getdomain(a))return true;if(a.href.toLowerCase().indexOf('http')!=0)return true;var _qc="http://s.clickability.com/s?19=912";_qc+="&6=901309731";_qc+="&7=1309731";_qc+="&18="+encodeURIComponent(Math.random());_qc+="&100="+a.href;_qc+="&101="+encodeURIComponent(a.text);var cc=new Image();if(na){cc.src=_qc;pc(100);}else cc.src=_qc;return true;}function pc(a){d = new Date(); while (1){m =new Date(); df = m-d;if( df > a ) {break;}}}function getdomain(a){var i=a.host.indexOf(":");return (i>=0)?a.host.substring(0,i):a.host;}if(self['setupalready']){var dosetup = false;alert('There are two $imware.tracker calls on this page. Please alert Client Services');}else{var dosetup = true;var hasonload=false;}if(dosetup && ((window.screen)||((new Array()).toSource)||((new Array()).shift&&ns))&&(navigator.userAgent.indexOf('Mac')<0)){if(window.onload){oldonld=window.onload;hasonload=true;}window.onload=newonld;var setupalready = true;}//-->
 </script><noscript>
-<img width="1" height="1" src="http://s.clickability.com/s?19=990&14=0&6=901309731&7=1309731&25=0&18=0.29518933892103516">
+<img width="1" height="1" src="http://s.clickability.com/s?19=990&14=0&6=901309731&7=1309731&25=0&18=0.18546054384971644">
 </noscript>
 
     
@@ -1026,6 +1217,8 @@ function newonld(){if(hasonload)oldonld();lnks=new Object();var sze=document.lin
       }
     </script>
     <!--startclickprintinclude-->
+
+
 		<!-- START New Top Nav - added 14th Feb 2013-->
 	<div id="disclaim_bar" class="disclaim_bar" style="display: none;">
 		<div style="width:998px; margin: 0px auto;">
@@ -1057,6 +1250,7 @@ function newonld(){if(hasonload)oldonld();lnks=new Object();var sze=document.lin
 		</div>
 	</div>
 	<![endif]-->
+
 	  <!-- END New Top Nav - added 14th Feb 2013 -->
       <header id="global_header">
       <div class="content_wrapper clrfx">
@@ -1075,13 +1269,19 @@ function newonld(){if(hasonload)oldonld();lnks=new Object();var sze=document.lin
 		</li>
                     
                                     
-                                	<li onclick="ga('send','event','Broadridge Utility','click','Contact Link');"><a href="contact" title="Contact">Contact</a></li>
+                                    <!-- <li><a href="/templates/BR Contact Form?campaign=&source=&dimension=&position=" class="open_contact" title="Contact">Contact</a></li>-->
+
+					<li onclick="ga('send','event','Broadridge Utility','click','Contact Link');"><a href="/contact" title="Contact">Contact</a></li>
+
                                                  
                                     
                 <li class="drop_down">
                 <a href="#"><img src="http://media.broadridge.com/designimages/CORE-downarrow-blue.png" align="left">About Broadridge</a>
                 <div> 
                     <ul>
+                                                 
+                                    
+                                    <li><a href="/careers " title="Careers" target="_blank">Careers</a></li>
                                                  
                                     
                                     <li><a href="/company-information/about/overview" title="Overview">Overview</a></li>
@@ -1184,7 +1384,7 @@ function newonld(){if(hasonload)oldonld();lnks=new Object();var sze=document.lin
       </div>
     </header><!-- /#global_header -->
     
-                                                                                                                                                                    <nav id="global_nav">
+                                                                                                                                                              <nav id="global_nav">
     <ul class="clrfx">
           
            <li>
@@ -1214,7 +1414,6 @@ function newonld(){if(hasonload)oldonld();lnks=new Object();var sze=document.lin
 							<li><a href="http://www.broadridge.com/templates/pound-down?section=1221836">Investment Management Solutions</a></li>
 			                                        
 							<a class="no-pound hoverthis" style="border-left: none; color:#00578E;clear: both; display: inline-block; font-size: 12px; height: auto; padding: 10px 14px 10px 30px; width: 262px; background: none repeat scroll 0% 0% transparent; border-bottom: 1px solid rgb(232, 232, 232);" href="http://rev-exp.broadridge.com/contact-us" target="_blank" id="mfa47">Expense Management</a>
-			
 			                                        
 							<li><a href="http://www.broadridge.com/templates/pound-down?section=1268255">Reconciliations &amp; Process Control</a></li>
 			                                        
@@ -1229,13 +1428,17 @@ function newonld(){if(hasonload)oldonld();lnks=new Object();var sze=document.lin
               <ul>
                               
 							<a class="no-pound hoverthis" style="border-left: none; color:#00578E;clear: both; display: inline-block; font-size: 12px; height: auto; padding: 10px 14px 10px 30px; width: 262px; background: none repeat scroll 0% 0% transparent; border-bottom: 1px solid rgb(232, 232, 232);" href="http://www.broadridge.com/mutual-fund-retirement-solutions/retirement-services" id="mfa47">Retirement Services</a>
+
+
+
+			                                        
+							<li><a href="http://www.broadridge.com/templates/pound-down?section=2715961">Health &amp; Benefits Communications</a></li>
 			                                        
 							<li><a href="http://www.broadridge.com/templates/pound-down?section=1268345">Mutual Fund Trade Processing</a></li>
 			                                        
 							<li><a href="http://www.broadridge.com/templates/pound-down?section=1268355">Enterprise Data Management, Analysis &amp; Reporting</a></li>
 			                                        
 							<a class="no-pound hoverthis" style="border-left: none; color:#00578E;clear: both; display: inline-block; font-size: 12px; height: auto; padding: 10px 14px 10px 30px; width: 262px; background: none repeat scroll 0% 0% transparent; border-bottom: 1px solid rgb(232, 232, 232);" href="http://rev-exp.broadridge.com/contact-us" target="_blank" id="mfa47">Revenue &amp; Expense Management</a>
-			
 			                                        
 							<li><a href="http://www.broadridge.com/templates/pound-down?section=1268365">Marketing &amp; Customer Communications</a></li>
 			                                        
@@ -1265,14 +1468,12 @@ function newonld(){if(hasonload)oldonld();lnks=new Object();var sze=document.lin
                     <a href="/advisor-wealth-solutions" title="Advisor &amp; Wealth Solutions"><div>Advisor &amp; Wealth Solutions</div></a>
               <ul>
                               
-							<li><a href="http://www.broadridge.com/templates/pound-down?section=1269625">Practice Management Solutions</a></li>
+							<a class="no-pound hoverthis" style="border-left: none; color:#00578E;clear: both; display: inline-block; font-size: 12px; height: auto; padding: 10px 14px 10px 30px; width: 262px; background: none repeat scroll 0% 0% transparent; border-bottom: 1px solid rgb(232, 232, 232);" href="http://www.broadridge.com/advisor-wealth-solutions/advisor-solutions" id="mfa47">Advisor Solutions</a>
+			
 			                                        
 							<li><a href="http://www.broadridge.com/templates/pound-down?section=1269635">Wealth Management Solutions</a></li>
 			                                        
 							<a class="no-pound hoverthis" style="border-left: none; color:#00578E;clear: both; display: inline-block; font-size: 12px; height: auto; padding: 10px 14px 10px 30px; width: 262px; background: none repeat scroll 0% 0% transparent; border-bottom: 1px solid rgb(232, 232, 232);" href="http://rev-exp.broadridge.com/contact-us" target="_blank" id="mfa47">Revenue &amp; Expense Management</a>
-			
-			                                        
-							<li class="end"><a href="http://www.broadridge.com/templates/pound-down?section=1269645">Data &amp; Reporting Services</a></li>
 			                          </ul>
       </li>
         </ul>
@@ -1330,7 +1531,7 @@ function newonld(){if(hasonload)oldonld();lnks=new Object();var sze=document.lin
             <li class="end" onclick="document.getElementById('social_holder').style.display='block';"><a class="share" onclick="ga('send','event','Broadridge','Share-Clicked','Privacy Statement - English');">Share</a></li>
           </ul>
         </nav>
-        <div id="social_holder" class="clrfx" style="width:118px;"><!-- The 'social_holder' div is the popup containing the  facebook share button -->
+        <div id="social_holder" class="clrfx" style="width:100px;"><!-- The 'social_holder' div is the popup containing the  facebook share button -->
         <!-- the close box and link for the social holder -->
           <div class="close_box" onclick="document.getElementById('social_holder').style.display='none';"></div>
                <!-- LinkedIn Share button -->
@@ -1354,10 +1555,7 @@ function newonld(){if(hasonload)oldonld();lnks=new Object();var sze=document.lin
           <div class="button_holder">
           <a href="http://www.facebook.com/sharer.php" id="facebook_button" class="social_button"><img style="width:16px;height:16px;" src="http://media.broadridge.com/designimages/facebook.gif"></a>
           </div>
-     	<!-- Google Plus -->
-     	<div class="button_holder">
-		<a href="https://plus.google.com/+broadridge" id="googleplus_button" class="social_button"><img src="http://media.broadridge.com/designimages/icon_googleplus.png" width="15" height="15"></a>
-	</div>
+     	
         </div><!-- close social holder -->
       </div><!-- close 'action_holder' -->
     </div> <!-- close 'Title_holder' -->
@@ -1444,9 +1642,13 @@ function newonld(){if(hasonload)oldonld();lnks=new Object();var sze=document.lin
 
             
 		            </div><!-- end liquid center -->
-            	
+             			
+
 <div class="right_rail">
+
 						
+		
+		
 		
 													
 			<div class="automatedForm" style="float:left; margin-bottom: 5px;width:100%;background:#d96c1c;margin-bottom:12px;overflow:visible !important;">
@@ -1459,7 +1661,7 @@ function newonld(){if(hasonload)oldonld();lnks=new Object();var sze=document.lin
 	  			
 		   
 </div><!-- this ends the right rail -->
-            </section>
+	             </section>
           </div> <!-- End of Section -->
         </div><!-- /#page -->
       
@@ -1529,7 +1731,7 @@ function newonld(){if(hasonload)oldonld();lnks=new Object();var sze=document.lin
 		  <div class="social_icon"><a href="http://www.linkedin.com/company/broadridge-financial-solutions/products" target="_blank"><img src="http://media.broadridge.com/designimages/footer-icon-linkedin.png" alt="LinkedIn" width="21" height="21"></a></div>
 		  <div class="social_txt"><a href="http://www.linkedin.com/company/broadridge-financial-solutions/products" target="_blank">LinkedIn</a></div>
 		  <div class="rr_clrfx"></div>
-		  <div class="social_icon"><a href="https://twitter.com/broadridge" target="_blank"><img src="https://media.broadridge.com/designimages/footer-icon-twitter.png" alt="Twitter" width="21" height="21"></a></div>
+		  <div class="social_icon"><a href="https://twitter.com/broadridge" target="_blank"><img src="http://media.broadridge.com/designimages/footer-icon-twitter.png" alt="Twitter" width="21" height="21"></a></div>
 		  <div class="social_txt"><a href="https://twitter.com/broadridge" target="_blank">Twitter</a></div>
 		  <div class="rr_clrfx"></div>
 		  <div class="social_icon"><a href="https://www.facebook.com/BroadridgeCareers" target="_blank"><img src="http://media.broadridge.com/designimages/footer-icon-facebook.png" alt="Facebook" width="21" height="21"></a></div>
@@ -1537,9 +1739,6 @@ function newonld(){if(hasonload)oldonld();lnks=new Object();var sze=document.lin
 		  <div class="rr_clrfx"></div>
 		  <div class="social_icon"><a href="http://www.youtube.com/broadridgeinsights" target="_blank"><img src="http://media.broadridge.com/designimages/footer-icon-youtube.png" alt="YouTube" width="21" height="21"></a></div>
 		  <div class="social_txt"><a href="http://www.youtube.com/broadridgeinsights" target="_blank">YouTube</a></div>
-		  <div class="rr_clrfx"></div>
-		  <div class="social_icon"><a href="https://plus.google.com/+broadridge" target="_blank"><img src="http://media.broadridge.com/designimages/footer-icon-googleplus.png" alt="Google+" width="21" height="21"></a></div>
-		  <div class="social_txt"><a href="https://plus.google.com/+broadridge" target="_blank">Google+</a></div>
 		</div>
 	</div>
 	<div class="sub-footer clrfx">
@@ -1592,14 +1791,14 @@ function newonld(){if(hasonload)oldonld();lnks=new Object();var sze=document.lin
 	</ul>
 	<!-- CLOSE NEW FOOTER WITH THE SWOOOSH -->
 	
-		<script src="http://www.broadridge.com/includes/5443637fe3ddae395ae8860e45b5921d/main.js" defer=""></script>
-        <script src="http://www.broadridge.com//templates/available-tags.js" defer=""></script>
-        <script src="http://www.broadridge.com/includes/2d34c4ef9a58fc040fdc488102cb8873/print.js" defer=""></script>
+		<script src="http://www.broadridge.com/includes/5443637fe3ddae395ae8860e45b5921d/main.js"></script>
+        <script src="http://www.broadridge.com//templates/available-tags.js"></script>
+        <script src="http://www.broadridge.com/includes/2d34c4ef9a58fc040fdc488102cb8873/print.js"></script>
         
 		<script type="text/javascript" src="http://tags.crwdcntrl.net/c/4580/cc.js" id="LOTCC_4580"></script>
 		<script type="text/javascript" language="javascript">_cc4580.bcp();</script>
 		
-		<script src="http://www.broadridge.com/includes/MKTG-TS-Fancybox-New" defer=""></script>
+		<script src="http://www.broadridge.com/includes/MKTG-TS-Fancybox-New"></script>
 		<script type="text/javascript">
 		//jQuery.noConflict();
 		// **************** Type Ahead Search  ***********************
@@ -1644,10 +1843,21 @@ function newonld(){if(hasonload)oldonld();lnks=new Object();var sze=document.lin
 	<script src="http://www.broadridge.com/includes/2c04f8da85b33c7767d750c7d09c2ae3/upgrade.js"></script>
 	<![endif]-->
 	<!--endclickprintinclude-->
-	    <script src="http://www.broadridge.com/includes/8301335b8cac1ba95d2c6a6c77eca2fe/jquery.scrolldepth.min.js" defer=""></script>
+	    <script src="http://www.broadridge.com/includes/8301335b8cac1ba95d2c6a6c77eca2fe/jquery.scrolldepth.min.js"></script>
     <script>
     $(function() { jQuery.scrollDepth(); });
 </script>
+<script type="text/javascript">
+	$(document).ready(function() {	
+	$("#proxyPulseAugWave_BI").click(function(){
+	
+	$('body').append('<img src="http://app.go.broadridge.com/e/f2.aspx?elqFormName=ProxyPulseAugWave&elqSiteID=1756&emailAddress=&firstName=&lastName=&company=&assetType=BroadridgeInsightsButton&id=00203PPR15auusaw7130&so=bi&po=bl&di=bb&ct=aw&ot=rp&mt=au&yr=15&rg=us&on=&ep=" width="1" height="1">');
+	});
+		
+		
+	});
+	
+	</script>
 	 <script type="text/javascript">   _bizo_data_partner_id = "6886"; </script> <script type="text/javascript"> (function() {   var s = document.getElementsByTagName("script")[0];   var b = document.createElement("script");   b.type = "text/javascript";   b.async = true;   b.src = (window.location.protocol === "https:" ? "https://sjs" : "http://js") + ".bizographics.com/insight.min.js";   s.parentNode.insertBefore(b, s); })(); </script> <noscript>   <img height="1" width="1" alt="" style="display:none;" src="//www.bizographics.com/collect/?pid=6886&fmt=gif" /> </noscript>       
 <script>
   
