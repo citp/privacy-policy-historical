@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the epichosts.co.uk privacy policy that was archived on 2015-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150621025447id_/http%3A//www.epichosts.co.uk/legal.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the epichosts.co.uk privacy policy that was archived on 2015-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151218091408id_/http%3A//epichosts.co.uk/legal.htm) for the most accurate reproduction.*
 
 # EpicHosts - UK's #1 Budget Host :: Get ANYTHING hosted NOW! Games, Websites, Radio Stations, and more!
 
-This Privacy Policy governs the manner in which EpicHosts collects, uses, maintains and discloses information collected from users (each, a "User") of the http://www.epichosts.co.uk website ("Site"). This privacy policy applies to the Site and all products and services offered by EpicHosts.
+This Privacy Policy governs the manner in which EpicHosts collects, uses, maintains and discloses information collected from users (each, a "User") of the https://www.epichosts.co.uk website ("Site"). This privacy policy applies to the Site and all products and services offered by EpicHosts.
 
 #### Personal identification information
 
@@ -64,7 +64,7 @@ EpicHosts has the discretion to update this privacy policy at any time. When we 
 
 By using this Site, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
 
-This document was last updated on July 20, 2013.
+This document was last updated on February 5, 2013.
 
 By placing an order with EpicHosts, in sole agreement upon submitting a transaction (once you press the 'Pay Now' button when using PayPal for example, or once a transaction is complete) and tick the agreement confirmation checkbox if applicable, you confirm that you are bound in agreement to the terms and conditions written below:
 
@@ -84,13 +84,15 @@ All interactive chat web applications are not allowed to be hosted on our web ho
 
 #### Refunds
 
-This genuine host accepts a 7 day money-back guarantee for non-processed services ONLY, within reason. If you are not satisfied we may ask how we can improve our services to convince you of our true services that you may not have experienced, in case one has misunderstood or gotten frustrated. We may also use your information for future purposes to help improve our support of hosting. The decision to whether you are applicable to a refund is always down to the administrator.
+This genuine host accepts a 7 day money-back guarantee, within reason. If you are not satisfied we may ask for your opinion on improving our services, or assure you of our true services that you may not have experienced, in case one has misunderstood or became frustrated. We may also use any non-personal information given through any communication method or dispute for training purposes, to help improve our support of hosting and other future purposes.
 
-The customer is responsible for the understanding of a service, and the necessity of a service. Funds are held with us until a professional agreement is made for the outcome of the refund and/or request.
+The decision to whether you are eligible to a refund is always down to the staff of EpicHosts.
 
-A surcharge (processing fee) of 7% will be deducted from all refunds and transactions sent from us to a customer as per PayPal fees (if applicable), setup fees and other charges that may have been obtained during the funding of the mentioned service.
+The customer is responsible for the understanding of a properly described service, and the necessity of a service. Funds are held with us until a professional agreement is made with the outcome of the refund and/or request.
 
-Please note that Renewals, VPSes, Pre-installed services, Exchanged services, Domain names, Dedicated servers, Backups and/or any of the hosting addons/plan-upgrades are non-refundable. This is due to the funds being forwarded for promotional reasons, licenses, IP rental and other sorts of additions used within your process that are funded by the customer.
+A surcharge (processing fee) of 7% will be deducted from all refunds and transactions sent from us to a customer as per PayPal fees (if applicable), setup fees and other charges that may have been obtained during the handling and funding of the mentioned service.
+
+Please note that Renewals, VPSes, Pre-installed services, Web Hosting services, Exchanged services, Domain names, Dedicated servers/machines, Backups and/or any of the hosting addons/plan-upgrades are non-refundable. This is due to the funds being forwarded for promotional reasons, licenses, IP rental and other sorts of additions used within your process that are funded by the customer.
 
 #### Payment
 
@@ -100,15 +102,17 @@ We are entitled to recover (on a full indemnity basis) any costs and charges (in
 
 You acknowledge that should we not receive renewal payment prior to the date of expiry we reserve the right to suspend services immediately without notice. We may provide a 7 day grace period whereby we will hold your information and data on our servers, but should this period expire without payment we reserve the right to purge all data pertaining to your account with us.
 
-Any interlinking services, such as Domains linked to Web Hosting, will be held by us until renewal, as an interlinked service no longer belongs to a customer after expiration.
+Any interlinking services, such as Domains linked to Web Hosting, will be held by us until renewal or a relevant service has been purchased, as an interlinked service no longer belongs to a customer after expiration.
 
-Payments are controlled and serviced by PayPal. You do not need a PayPal account to purchase a service from us, however all payments received are held with us until complete satisfaction from the customer is approved, or until the service has expired or reached the money-back guarantee date. We will never demand a payment for the next cycle, as this is a non-subscription service.
+All payment methods shown on the footer of every page of our site are responsible for any errors in transaction and are absolutely out of our control. If you have an issue with a payment, it is recommended that you contact the payment provider for support. By default PayPal is a recommended method which accepts cards (without needing to sign up).
+
+All payments are a one-off unless described otherwise (subscriptions, contracts, etc) but we do not possess the ability to process transactions without access to the payment account itself. We will therefore not be responsible for any automated payments (subscriptions, contracts, etc) that are left unattended as we do not control such activity. Ensure you contact your payment provider to cancel or suspend any automated payments as renewals are strictly non-refundable (See 'Refunds')
 
 #### Server maintenance
 
 We might have, from time to time, to perform maintenance, upgrades or replacements of any hardware/software or content to our services and machines. We reserve the right to suspend access to any service during the required time to perform maintenance, upgrade or exchange the server, allowing us to quickly and safely finish the maintenance without any interruption or interference of a running service. Maintenance usually lasts no longer than 48 hours.
 
-In this event, customers will be informed via e-mail of any planned maintenance. Any unplanned/planned maintenance will be posted on our [Facebook page](http://www.facebook.com/EpicHosts).
+In this event, customers will be informed via e-mail of any planned maintenance. Any unplanned/planned maintenance will be posted on our [Facebook page](https://www.facebook.com/EpicHosts).
 
 #### Setup
 
@@ -121,18 +125,18 @@ It is our responsibility to ensure that any applied hosting package application 
 
 #### Termination and Suspension
 
-You may terminate your hosting at any time by advising us via a method of contact that you wish to do so. We will only process a refund if we find it's applicable to your current service's state.
+You may request to have your hosting terminated (cancelled) at any time by advising us via a method of contact on our site. We will only process a refund if we find it is applicable to the state of your current service(s) with us.
 
-We may suspend any or all of your services where we have reason to suspect a violation of our terms and conditions whilst we investigate the suspected violation. We may also suspend your services where we have reason to suspect any type of illegitimate activity including, but not limited to, copyright infringement, payment reversals, unfair usage and services affecting other customers or users on our servers. We reserve the full right to suspend a service at any time with the decision of its final status.
+We may suspend any or all of your services where we have reason to suspect a violation of our terms and conditions whilst we investigate the suspected violation. We may also suspend your services where we have reason to suspect any type of illegitimate activity including, but not limited to, overdue invoices (lack of payment on any invoice without a notification of cancellation), copyright infringement, payment reversals, unfair usage and services affecting other customers or users on our servers. We reserve the full right to suspend a service at any time with the decision of its final status. You may also be charged an overdue/outstanding 'non-cancellation' fee for any suspended services that do not have a written cancellation logged.
 
 #### Violations
 
-If a customer violate our terms and conditions we may terminate or suspend (temporarily or indefinitely) any services you have with us. In this case no refund will be given for any payments that have been, or are made by you to us.
+If a customer violates our terms and conditions we may terminate or suspend (temporarily or indefinitely) any services you have with us. In this case no refund will be given for any payments that have been, or are made, by the transactor to us.
 
 #### Changes to our Terms
 
 If we decide to change our terms, we will update accordingly along with the modification date below. We reserve the full right to make changes to our Terms & Conditions at any time, you also agree that all changes made to the terms are taken place immediately, without notification needed, towards all services.
 
-This document was last updated on April 03, 2013
+This document was last updated on April 2, 2015
 
 E-mail: [privacy@epichosts.co.uk](mailto:privacy@epichosts.co.uk)
