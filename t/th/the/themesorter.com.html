@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the themesorter.com privacy policy that was archived on 2015-06-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150618085845id_/http%3A//themesorter.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the themesorter.com privacy policy that was archived on 2015-12-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151218144539id_/http%3A//themesorter.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 <meta http-equiv="content-type" content="text/html; charset=utf-8">
@@ -8,7 +8,7 @@
 <title>Privacy Policy - ThemeSorter</title>
 <link rel="stylesheet" type="text/css" href="/css/master.css?v=1.3">
 <link rel="stylesheet" type="text/css" href="/css/magnific-popup.css">
-<script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js" type="text/javascript"></script>
+<script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js" type="text/javascript"></script>
 <script type="text/javascript" src="/js/master.js?v=1.3"></script>
 <script type="text/javascript" src="/js/jquery.magnific-popup.min.js"></script>
 
@@ -69,12 +69,8 @@
 <script>
 
 $( document ).ready(function() {
-
-	//$.cookie("ts_popup_closed", null);
-
 	// Do not nag if popup was closed already
 	if ( ! $.cookie("ts_popup_closed" ) ) {
-
 		$.magnificPopup.open({
 			items: {
 				src: '#popup',
@@ -84,21 +80,28 @@ $( document ).ready(function() {
 				afterClose: function() {
 					// Set cookie to keep popup from appearing again
 					var date = new Date();
-					date.setTime(date.getTime() + (45 * 1000) ); // don't show for 45 seconds
+					date.setTime(date.getTime() + (10 * 60 * 1000) ); // don't show for 10 minutes
 					$.cookie("ts_popup_closed", "1", { path: '/', expires: date });
 				},
 			}
 		});
-
 	}
 
 });
 
 </script>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
+  ga('create', 'UA-66273273-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
 </head>
 <body>
-
 
 <div id="ts-container">
 
@@ -108,7 +111,6 @@ $( document ).ready(function() {
 
 			<div id="header-top">
 
-				
 				<div id="logo"><a href="/"><img src="/img/header-logo.png" width="244" height="34" alt="ThemeSorter™"></a></div>
 
 				<div id="social-media">
@@ -130,20 +132,20 @@ $( document ).ready(function() {
 				</form>
 
 			<ul id="menu-left" class="menu">
-				<li style="margin-left:0px"><a href="/wordpress-themes">WordPress Themes</a> <span class="count">[1,085]</span></li>
-				<li><a href="/sellers" title="WordPress Theme Sellers">Sellers</a> <span class="count">[77]</span></li>
-				<li class="dropdown"><a href="/wordpress-themes/niches" rel="categories">Categories</a></li>
-				<li class="dropdown"><a href="/wordpress-themes/colors" rel="colors" title="WordPress Theme Colors">Colors</a></li>
-				<li class="dropdown"><a href="/wordpress-themes/styles" rel="styles" title="WordPress Theme Styles">Styles</a></li>
-				<li><a href="/wordpress-themes/popular" title="Most Popular Premium WordPress Themes">Most Popular</a></li>
-				<li style="margin-right:0px"><a href="/wordpress-theme-frameworks" title="WordPress Theme Frameworks">Frameworks</a></li>
-			</ul>
+	<li style="margin-left:0px"><a href="/wordpress-themes">WordPress Themes</a> <span class="count">[1,062]</span></li>
+	<li><a href="/sellers" title="WordPress Theme Sellers">Sellers</a> <span class="count">[77]</span></li>
+	<li class="dropdown"><a href="/wordpress-themes/niches" rel="categories">Categories</a></li>
+	<li class="dropdown"><a href="/wordpress-themes/colors" rel="colors" title="WordPress Theme Colors">Colors</a></li>
+	<li class="dropdown"><a href="/wordpress-themes/styles" rel="styles" title="WordPress Theme Styles">Styles</a></li>
+	<li><a href="/wordpress-themes/popular" title="Most Popular Premium WordPress Themes">Most Popular</a></li>
+	<li style="margin-right:0px"><a href="/wordpress-theme-frameworks" title="WordPress Theme Frameworks">Frameworks</a></li>
+</ul>
 
-			<ul id="menu-right" class="menu">
-				<li class="dropdown"><a href="/about" rel="about">About</a></li>
-				<li><a href="/blog">Blog</a></li>
-				<li><a href="/coupons-deals" class="highlight" title="Coupon Codes &amp; Deals for WordPress Themes">Coupons/Deals</a></li>
-			</ul>
+<ul id="menu-right" class="menu">
+	<li class="dropdown"><a href="/about" rel="about">About</a></li>
+	<li><a href="/blog">Blog</a></li>
+	<!-- <li><a href="/coupons-deals" class="highlight" title="Coupon Codes &amp; Deals for WordPress Themes">Coupons/Deals</a></li> -->
+</ul>
 			</div>
 
 		</div>
@@ -153,7 +155,7 @@ $( document ).ready(function() {
 
 <br>
 
-DreamDolphin Media, LLC has created this privacy policy statement in order to demonstrate its firm commitment to the privacy of ThemeSorter users. The following discloses the information gathering and dissemination practices for this website.
+Press Up Inc has created this privacy policy statement in order to demonstrate its firm commitment to the privacy of ThemeSorter users. The following discloses the information gathering and dissemination practices for this website.
 
 <br><br>
 
@@ -199,7 +201,7 @@ Any regular mailings will contain detailed instructions so that users can unsubs
 <br><br>
 
 The information we collect is used to maintain user accounts, personalize user experience, contact users and improve the quality of our website.
-Non-personally identifying user information may be used by DreamDolphin Media, LLC for research, marketing and informational purposes.
+Non-personally identifying user information may be used by Press Up Inc for research, marketing and informational purposes.
 
 <br><br>
 
@@ -229,7 +231,7 @@ We use cookies to track referring websites and advertising campaign leads/conver
 <br>
 
 ThemeSorter contains links to other sites.
-DreamDolphin Media, LLC is not responsible for the privacy practices or the content of such websites.
+Press Up Inc is not responsible for the privacy practices or the content of such websites.
 Users should access all external sites at their own risk.
 
 <br><br>
@@ -292,7 +294,7 @@ If we decide to change our privacy policy, we will post those changes on this pa
 
 <br><br>
 
-Last Update: January 2, 2013
+Last Update: October 19, 2015
 
 <br><br>
 
@@ -301,13 +303,6 @@ If you have any questions about this privacy policy statement, the practices of 
 <br><br>
 
 E-mail (Contact Form):  <a href="/contact" class="nonbold">http://themesorter.com/contact</a>
-
-<br><br>
-
-DreamDolphin Media, LLC<br>
-P.O. Box 126511<br>
-Benbrook, TX 76126<br>
-United States
 
 		</div>
 
@@ -334,19 +329,19 @@ United States
 		</div>
 
 		<div id="footer-copyright">
-			© 2015 <a href="http://www.dreamdolphin.com/" rel="external">DreamDolphin Media</a>. Icons by <a href="http://www.komodomedia.com/download/" rel="external">Komodo Media</a>.
+			© 2015 <a href="http://www.pressupinc.com/" rel="external">Press Up Inc</a>. Icons by <a href="http://www.komodomedia.com/download/" rel="external">Komodo Media</a>.
 					</div>
-
-		<div id="footer-iamsecond">
-			<a href="http://www.iamsecond.com/seconds/#featured"><img src="/img/iamsecond.png" width="262" height="50" alt="I Am Second"></a>
-		</div>
 
 		<div id="footer-links-right">
 			<a href="/terms">Terms</a> |
 			<a href="/privacy">Privacy</a> |
 			<a href="/copyright">Copyright</a> |
-			<a href="/contact">Contact</a>
-			&nbsp;&nbsp;&nbsp;Also see <a href="https://proplugindirectory.com">Pro Plugin Directory</a>
+			<a href="/contact">Contact</a> 
+			<br>
+			<br>
+			Other Great WordPress Sites:<br>
+			<a href="https://proplugindirectory.com">Pro Plugin Directory</a> | 
+			<a href="http://wpshout.com">WPShout</a>
 		</div>
 
 
@@ -366,7 +361,7 @@ United States
 	<div id="menu-categories-formats">
 		<div class="categories-title"><a href="/wordpress-themes/formats">Formats</a></div>
 		<div>
-<div class="format-column">	<div><a href="/wordpress-themes/formats/cms">CMS</a> <span class="theme-count"> [671]</span></div>	<div><a href="/wordpress-themes/formats/blog">Blog</a> <span class="theme-count"> [285]</span></div>	</div>	<div class="format-column">	<div><a href="/wordpress-themes/formats/gallery">Gallery</a> <span class="theme-count"> [136]</span></div>	<div><a href="/wordpress-themes/formats/magazine-news">Magazine/News</a> <span class="theme-count"> [130]</span></div>	</div>	<div class="format-column">	<div><a href="/wordpress-themes/formats/e-commerce">E-commerce</a> <span class="theme-count"> [63]</span></div>	<div><a href="/wordpress-themes/formats/directory">Directory</a> <span class="theme-count"> [26]</span></div>	</div>	<div class="format-column" style="margin-right:0px">	<div><a href="/wordpress-themes/formats/community">Community</a> <span class="theme-count"> [17]</span></div>	<div><a href="/wordpress-themes/formats/application">Application</a> <span class="theme-count"> [4]</span></div></div>
+<div class="format-column">	<div><a href="/wordpress-themes/formats/cms">CMS</a> <span class="theme-count"> [641]</span></div>	<div><a href="/wordpress-themes/formats/blog">Blog</a> <span class="theme-count"> [280]</span></div>	</div>	<div class="format-column">	<div><a href="/wordpress-themes/formats/gallery">Gallery</a> <span class="theme-count"> [129]</span></div>	<div><a href="/wordpress-themes/formats/magazine-news">Magazine/News</a> <span class="theme-count"> [129]</span></div>	</div>	<div class="format-column">	<div><a href="/wordpress-themes/formats/e-commerce">E-commerce</a> <span class="theme-count"> [59]</span></div>	<div><a href="/wordpress-themes/formats/directory">Directory</a> <span class="theme-count"> [26]</span></div>	</div>	<div class="format-column" style="margin-right:0px">	<div><a href="/wordpress-themes/formats/community">Community</a> <span class="theme-count"> [17]</span></div>	<div><a href="/wordpress-themes/formats/application">Application</a> <span class="theme-count"> [4]</span></div></div>
 		</div>
 		<div class="clear"></div>
 		<div class="select-multiple"><a href="/wordpress-themes?f=format">Select Multiple Formats</a></div>
@@ -375,7 +370,7 @@ United States
 	<div id="menu-categories-niches">
 		<div class="categories-title"><a href="/wordpress-themes/niches">Niches</a></div>
 		<div>
-<div class="niche-column">	<div><a href="/wordpress-themes/niches/affiliate-marketing">Affiliate Marketing</a> <span class="theme-count"> [9]</span></div>	<div><a href="/wordpress-themes/niches/animals">Animal/Pet</a> <span class="theme-count"> [1]</span></div>	<div><a href="/wordpress-themes/niches/answers">Answers</a> <span class="theme-count"> [3]</span></div>	<div><a href="/wordpress-themes/niches/apps">Apps</a> <span class="theme-count"> [9]</span></div>	<div><a href="/wordpress-themes/niches/art">Art</a> <span class="theme-count"> [122]</span></div>	<div><a href="/wordpress-themes/niches/auction">Auction</a> <span class="theme-count"> [1]</span></div>	<div><a href="/wordpress-themes/niches/automotive">Automotive</a> <span class="theme-count"> [6]</span></div>	<div><a href="/wordpress-themes/niches/band">Band/Musician</a> <span class="theme-count"> [5]</span></div>	<div><a href="/wordpress-themes/niches/beauty">Beauty</a> <span class="theme-count"> [6]</span></div>	<div><a href="/wordpress-themes/niches/books">Books</a> <span class="theme-count"> [2]</span></div>	<div><a href="/wordpress-themes/niches/business">Business</a> <span class="theme-count"> [434]</span></div>	<div><a href="/wordpress-themes/niches/business-listings">Business Listings</a> <span class="theme-count"> [3]</span></div>	<div><a href="/wordpress-themes/niches/car-dealer">Car Dealer</a> <span class="theme-count"> [4]</span></div>	<div><a href="/wordpress-themes/niches/children">Children</a> <span class="theme-count"> [4]</span></div>	</div>	<div class="niche-column">	<div><a href="/wordpress-themes/niches/church">Church</a> <span class="theme-count"> [20]</span></div>	<div><a href="/wordpress-themes/niches/classifieds">Classifieds</a> <span class="theme-count"> [5]</span></div>	<div><a href="/wordpress-themes/niches/coaching">Coaching</a> <span class="theme-count"> [1]</span></div>	<div><a href="/wordpress-themes/niches/coming-soon">Coming Soon</a> <span class="theme-count"> [15]</span></div>	<div><a href="/wordpress-themes/niches/coupons">Coupon</a> <span class="theme-count"> [2]</span></div>	<div><a href="/wordpress-themes/niches/crafts">Crafts</a> <span class="theme-count"> [7]</span></div>	<div><a href="/wordpress-themes/niches/ebook">E-book</a> <span class="theme-count"> [2]</span></div>	<div><a href="/wordpress-themes/niches/eco">Eco/Green</a> <span class="theme-count"> [6]</span></div>	<div><a href="/wordpress-themes/niches/education">Education</a> <span class="theme-count"> [12]</span></div>	<div><a href="/wordpress-themes/niches/employment">Employment</a> <span class="theme-count"> [7]</span></div>	<div><a href="/wordpress-themes/niches/events">Events</a> <span class="theme-count"> [9]</span></div>	<div><a href="/wordpress-themes/niches/family">Family</a> <span class="theme-count"> [6]</span></div>	<div><a href="/wordpress-themes/niches/fashion">Fashion</a> <span class="theme-count"> [3]</span></div>	<div><a href="/wordpress-themes/niches/feed-aggregation">Feed Aggregation</a> <span class="theme-count"> [3]</span></div>	</div>	<div class="niche-column">	<div><a href="/wordpress-themes/niches/fitness">Fitness</a> <span class="theme-count"> [1]</span></div>	<div><a href="/wordpress-themes/niches/food-drink">Food &amp; Drink</a> <span class="theme-count"> [32]</span></div>	<div><a href="/wordpress-themes/niches/freelance">Freelance</a> <span class="theme-count"> [282]</span></div>	<div><a href="/wordpress-themes/niches/gardening">Gardening</a> <span class="theme-count"> [3]</span></div>	<div><a href="/wordpress-themes/niches/general" class="highlight">General Use</a> <span class="theme-count"> [227]</span></div>	<div><a href="/wordpress-themes/niches/healthcare">Healthcare</a> <span class="theme-count"> [7]</span></div>	<div><a href="/wordpress-themes/niches/hotel">Hotel</a> <span class="theme-count"> [10]</span></div>	<div><a href="/wordpress-themes/niches/image">Image Gallery</a> <span class="theme-count"> [76]</span></div>	<div><a href="/wordpress-themes/niches/knowledge-base">Knowledge Base</a> <span class="theme-count"> [3]</span></div>	<div><a href="/wordpress-themes/niches/landing-page">Landing Page</a> <span class="theme-count"> [7]</span></div>	<div><a href="/wordpress-themes/niches/law">Law</a> <span class="theme-count"> [4]</span></div>	<div><a href="/wordpress-themes/niches/lifestream">Lifestream</a> <span class="theme-count"> [4]</span></div>	<div><a href="/wordpress-themes/niches/link-directory">Link Directory</a> <span class="theme-count"> [1]</span></div>	<div><a href="/wordpress-themes/niches/maps">Maps</a> <span class="theme-count"> [4]</span></div>	</div>	<div class="niche-column">	<div><a href="/wordpress-themes/niches/microblogging">Microblogging</a> <span class="theme-count"> [20]</span></div>	<div><a href="/wordpress-themes/niches/mommy-blog">Mommy Blog</a> <span class="theme-count"> [22]</span></div>	<div><a href="/wordpress-themes/niches/news">News</a> <span class="theme-count"> [132]</span></div>	<div><a href="/wordpress-themes/niches/nonprofit">Nonprofit</a> <span class="theme-count"> [39]</span></div>	<div><a href="/wordpress-themes/niches/online-store">Online Store</a> <span class="theme-count"> [36]</span></div>	<div><a href="/wordpress-themes/niches/personal">Personal</a> <span class="theme-count"> [264]</span></div>	<div><a href="/wordpress-themes/niches/photoblog">Photoblog</a> <span class="theme-count"> [40]</span></div>	<div><a href="/wordpress-themes/niches/photography">Photography</a> <span class="theme-count"> [149]</span></div>	<div><a href="/wordpress-themes/niches/political">Political</a> <span class="theme-count"> [6]</span></div>	<div><a href="/wordpress-themes/niches/portfolio">Portfolio</a> <span class="theme-count"> [354]</span></div>	<div><a href="/wordpress-themes/niches/product">Product Showcase</a> <span class="theme-count"> [33]</span></div>	<div><a href="/wordpress-themes/niches/real-estate">Real Estate</a> <span class="theme-count"> [14]</span></div>	<div><a href="/wordpress-themes/niches/recipe">Recipe</a> <span class="theme-count"> [7]</span></div>	<div><a href="/wordpress-themes/niches/restaurant">Restaurant</a> <span class="theme-count"> [24]</span></div>	</div>	<div class="niche-column" style="margin-right:0px">	<div><a href="/wordpress-themes/niches/resume">Resume/CV</a> <span class="theme-count"> [11]</span></div>	<div><a href="/wordpress-themes/niches/reviews">Reviews</a> <span class="theme-count"> [2]</span></div>	<div><a href="/wordpress-themes/niches/single-page">Single Page</a> <span class="theme-count"> [22]</span></div>	<div><a href="/wordpress-themes/niches/software">Software</a> <span class="theme-count"> [12]</span></div>	<div><a href="/wordpress-themes/niches/sports">Sports</a> <span class="theme-count"> [3]</span></div>	<div><a href="/wordpress-themes/niches/support">Support</a> <span class="theme-count"> [4]</span></div>	<div><a href="/wordpress-themes/niches/traditional-blog">Traditional Blog</a> <span class="theme-count"> [108]</span></div>	<div><a href="/wordpress-themes/niches/travel">Travel</a> <span class="theme-count"> [17]</span></div>	<div><a href="/wordpress-themes/niches/video">Video</a> <span class="theme-count"> [11]</span></div>	<div><a href="/wordpress-themes/niches/web-hosting">Web Hosting</a> <span class="theme-count"> [5]</span></div>	<div><a href="/wordpress-themes/niches/wedding">Wedding</a> <span class="theme-count"> [9]</span></div>	<div><a href="/wordpress-themes/niches/women">Women</a> <span class="theme-count"> [36]</span></div></div>
+<div class="niche-column">	<div><a href="/wordpress-themes/niches/affiliate-marketing">Affiliate Marketing</a> <span class="theme-count"> [9]</span></div>	<div><a href="/wordpress-themes/niches/answers">Answers</a> <span class="theme-count"> [3]</span></div>	<div><a href="/wordpress-themes/niches/apps">Apps</a> <span class="theme-count"> [8]</span></div>	<div><a href="/wordpress-themes/niches/art">Art</a> <span class="theme-count"> [116]</span></div>	<div><a href="/wordpress-themes/niches/auction">Auction</a> <span class="theme-count"> [1]</span></div>	<div><a href="/wordpress-themes/niches/automotive">Automotive</a> <span class="theme-count"> [6]</span></div>	<div><a href="/wordpress-themes/niches/band">Band/Musician</a> <span class="theme-count"> [5]</span></div>	<div><a href="/wordpress-themes/niches/beauty">Beauty</a> <span class="theme-count"> [6]</span></div>	<div><a href="/wordpress-themes/niches/books">Books</a> <span class="theme-count"> [2]</span></div>	<div><a href="/wordpress-themes/niches/business">Business</a> <span class="theme-count"> [415]</span></div>	<div><a href="/wordpress-themes/niches/business-listings">Business Listings</a> <span class="theme-count"> [3]</span></div>	<div><a href="/wordpress-themes/niches/car-dealer">Car Dealer</a> <span class="theme-count"> [4]</span></div>	<div><a href="/wordpress-themes/niches/children">Children</a> <span class="theme-count"> [4]</span></div>	<div><a href="/wordpress-themes/niches/church">Church</a> <span class="theme-count"> [19]</span></div>	</div>	<div class="niche-column">	<div><a href="/wordpress-themes/niches/classifieds">Classifieds</a> <span class="theme-count"> [5]</span></div>	<div><a href="/wordpress-themes/niches/coaching">Coaching</a> <span class="theme-count"> [1]</span></div>	<div><a href="/wordpress-themes/niches/coming-soon">Coming Soon</a> <span class="theme-count"> [14]</span></div>	<div><a href="/wordpress-themes/niches/coupons">Coupon</a> <span class="theme-count"> [2]</span></div>	<div><a href="/wordpress-themes/niches/crafts">Crafts</a> <span class="theme-count"> [6]</span></div>	<div><a href="/wordpress-themes/niches/ebook">E-book</a> <span class="theme-count"> [2]</span></div>	<div><a href="/wordpress-themes/niches/eco">Eco/Green</a> <span class="theme-count"> [6]</span></div>	<div><a href="/wordpress-themes/niches/education">Education</a> <span class="theme-count"> [12]</span></div>	<div><a href="/wordpress-themes/niches/employment">Employment</a> <span class="theme-count"> [7]</span></div>	<div><a href="/wordpress-themes/niches/events">Events</a> <span class="theme-count"> [8]</span></div>	<div><a href="/wordpress-themes/niches/family">Family</a> <span class="theme-count"> [6]</span></div>	<div><a href="/wordpress-themes/niches/fashion">Fashion</a> <span class="theme-count"> [3]</span></div>	<div><a href="/wordpress-themes/niches/feed-aggregation">Feed Aggregation</a> <span class="theme-count"> [3]</span></div>	<div><a href="/wordpress-themes/niches/fitness">Fitness</a> <span class="theme-count"> [1]</span></div>	</div>	<div class="niche-column">	<div><a href="/wordpress-themes/niches/food-drink">Food &amp; Drink</a> <span class="theme-count"> [31]</span></div>	<div><a href="/wordpress-themes/niches/freelance">Freelance</a> <span class="theme-count"> [265]</span></div>	<div><a href="/wordpress-themes/niches/gardening">Gardening</a> <span class="theme-count"> [3]</span></div>	<div><a href="/wordpress-themes/niches/general" class="highlight">General Use</a> <span class="theme-count"> [215]</span></div>	<div><a href="/wordpress-themes/niches/healthcare">Healthcare</a> <span class="theme-count"> [7]</span></div>	<div><a href="/wordpress-themes/niches/hotel">Hotel</a> <span class="theme-count"> [9]</span></div>	<div><a href="/wordpress-themes/niches/image">Image Gallery</a> <span class="theme-count"> [74]</span></div>	<div><a href="/wordpress-themes/niches/knowledge-base">Knowledge Base</a> <span class="theme-count"> [3]</span></div>	<div><a href="/wordpress-themes/niches/landing-page">Landing Page</a> <span class="theme-count"> [7]</span></div>	<div><a href="/wordpress-themes/niches/law">Law</a> <span class="theme-count"> [4]</span></div>	<div><a href="/wordpress-themes/niches/lifestream">Lifestream</a> <span class="theme-count"> [4]</span></div>	<div><a href="/wordpress-themes/niches/link-directory">Link Directory</a> <span class="theme-count"> [1]</span></div>	<div><a href="/wordpress-themes/niches/maps">Maps</a> <span class="theme-count"> [4]</span></div>	<div><a href="/wordpress-themes/niches/microblogging">Microblogging</a> <span class="theme-count"> [20]</span></div>	</div>	<div class="niche-column">	<div><a href="/wordpress-themes/niches/mommy-blog">Mommy Blog</a> <span class="theme-count"> [19]</span></div>	<div><a href="/wordpress-themes/niches/news">News</a> <span class="theme-count"> [131]</span></div>	<div><a href="/wordpress-themes/niches/nonprofit">Nonprofit</a> <span class="theme-count"> [38]</span></div>	<div><a href="/wordpress-themes/niches/online-store">Online Store</a> <span class="theme-count"> [32]</span></div>	<div><a href="/wordpress-themes/niches/personal">Personal</a> <span class="theme-count"> [256]</span></div>	<div><a href="/wordpress-themes/niches/photoblog">Photoblog</a> <span class="theme-count"> [40]</span></div>	<div><a href="/wordpress-themes/niches/photography">Photography</a> <span class="theme-count"> [143]</span></div>	<div><a href="/wordpress-themes/niches/political">Political</a> <span class="theme-count"> [6]</span></div>	<div><a href="/wordpress-themes/niches/portfolio">Portfolio</a> <span class="theme-count"> [334]</span></div>	<div><a href="/wordpress-themes/niches/product">Product Showcase</a> <span class="theme-count"> [32]</span></div>	<div><a href="/wordpress-themes/niches/real-estate">Real Estate</a> <span class="theme-count"> [14]</span></div>	<div><a href="/wordpress-themes/niches/recipe">Recipe</a> <span class="theme-count"> [6]</span></div>	<div><a href="/wordpress-themes/niches/restaurant">Restaurant</a> <span class="theme-count"> [23]</span></div>	<div><a href="/wordpress-themes/niches/resume">Resume/CV</a> <span class="theme-count"> [11]</span></div>	</div>	<div class="niche-column" style="margin-right:0px">	<div><a href="/wordpress-themes/niches/reviews">Reviews</a> <span class="theme-count"> [2]</span></div>	<div><a href="/wordpress-themes/niches/single-page">Single Page</a> <span class="theme-count"> [19]</span></div>	<div><a href="/wordpress-themes/niches/software">Software</a> <span class="theme-count"> [11]</span></div>	<div><a href="/wordpress-themes/niches/sports">Sports</a> <span class="theme-count"> [3]</span></div>	<div><a href="/wordpress-themes/niches/support">Support</a> <span class="theme-count"> [4]</span></div>	<div><a href="/wordpress-themes/niches/traditional-blog">Traditional Blog</a> <span class="theme-count"> [103]</span></div>	<div><a href="/wordpress-themes/niches/travel">Travel</a> <span class="theme-count"> [17]</span></div>	<div><a href="/wordpress-themes/niches/video">Video</a> <span class="theme-count"> [10]</span></div>	<div><a href="/wordpress-themes/niches/web-hosting">Web Hosting</a> <span class="theme-count"> [5]</span></div>	<div><a href="/wordpress-themes/niches/wedding">Wedding</a> <span class="theme-count"> [9]</span></div>	<div><a href="/wordpress-themes/niches/women">Women</a> <span class="theme-count"> [31]</span></div></div>
 			<div class="clear"></div>
 			<div class="select-multiple"><a href="/wordpress-themes?f=niche">Select Multiple Niches</a></div>
 		</div>
@@ -386,7 +381,7 @@ United States
 <div id="menu-colors">
 
 	<div class="boxes">
-<a href="/wordpress-themes/colors/red" style="background:#b50000" title="299 Red Themes"><img src="/img/menu-color-overlay.png" width="16" height="16" alt=""></a><a href="/wordpress-themes/colors/pink" style="background:#ef5e8a" title="135 Pink Themes"><img src="/img/menu-color-overlay.png" width="16" height="16" alt=""></a><a href="/wordpress-themes/colors/orange" style="background:#b74500" title="149 Orange Themes"><img src="/img/menu-color-overlay.png" width="16" height="16" alt=""></a><a href="/wordpress-themes/colors/yellow" style="background:#a99700" title="112 Yellow Themes"><img src="/img/menu-color-overlay.png" width="16" height="16" alt=""></a><a href="/wordpress-themes/colors/cream" style="background:#efe4ba" title="66 Cream Themes"><img src="/img/menu-color-overlay.png" width="16" height="16" alt=""></a><a href="/wordpress-themes/colors/green" style="background:#098500" title="339 Green Themes"><img src="/img/menu-color-overlay.png" width="16" height="16" alt=""></a><a href="/wordpress-themes/colors/teal" style="background:#008080" title="113 Teal Themes"><img src="/img/menu-color-overlay.png" width="16" height="16" alt=""></a><a href="/wordpress-themes/colors/blue" style="background:#0071d0" title="482 Blue Themes"><img src="/img/menu-color-overlay.png" width="16" height="16" alt=""></a><a href="/wordpress-themes/colors/purple" style="background:#620cba" title="209 Purple Themes"><img src="/img/menu-color-overlay.png" width="16" height="16" alt=""></a><a href="/wordpress-themes/colors/brown" style="background:#5a391e" title="210 Brown Themes"><img src="/img/menu-color-overlay.png" width="16" height="16" alt=""></a><a href="/wordpress-themes/colors/white" style="background:#ffffff" title="290 White Themes"><img src="/img/menu-color-overlay.png" width="16" height="16" alt=""></a><a href="/wordpress-themes/colors/gray" style="background:#7b7b7b" title="507 Gray Themes"><img src="/img/menu-color-overlay.png" width="16" height="16" alt=""></a><a href="/wordpress-themes/colors/black" style="background:#000000" title="287 Black Themes"><img src="/img/menu-color-overlay.png" width="16" height="16" alt=""></a>
+<a href="/wordpress-themes/colors/red" style="background:#b50000" title="295 Red Themes"><img src="/img/menu-color-overlay.png" width="16" height="16" alt=""></a><a href="/wordpress-themes/colors/pink" style="background:#ef5e8a" title="132 Pink Themes"><img src="/img/menu-color-overlay.png" width="16" height="16" alt=""></a><a href="/wordpress-themes/colors/orange" style="background:#b74500" title="145 Orange Themes"><img src="/img/menu-color-overlay.png" width="16" height="16" alt=""></a><a href="/wordpress-themes/colors/yellow" style="background:#a99700" title="108 Yellow Themes"><img src="/img/menu-color-overlay.png" width="16" height="16" alt=""></a><a href="/wordpress-themes/colors/cream" style="background:#efe4ba" title="61 Cream Themes"><img src="/img/menu-color-overlay.png" width="16" height="16" alt=""></a><a href="/wordpress-themes/colors/green" style="background:#098500" title="334 Green Themes"><img src="/img/menu-color-overlay.png" width="16" height="16" alt=""></a><a href="/wordpress-themes/colors/teal" style="background:#008080" title="109 Teal Themes"><img src="/img/menu-color-overlay.png" width="16" height="16" alt=""></a><a href="/wordpress-themes/colors/blue" style="background:#0071d0" title="474 Blue Themes"><img src="/img/menu-color-overlay.png" width="16" height="16" alt=""></a><a href="/wordpress-themes/colors/purple" style="background:#620cba" title="205 Purple Themes"><img src="/img/menu-color-overlay.png" width="16" height="16" alt=""></a><a href="/wordpress-themes/colors/brown" style="background:#5a391e" title="206 Brown Themes"><img src="/img/menu-color-overlay.png" width="16" height="16" alt=""></a><a href="/wordpress-themes/colors/white" style="background:#ffffff" title="279 White Themes"><img src="/img/menu-color-overlay.png" width="16" height="16" alt=""></a><a href="/wordpress-themes/colors/gray" style="background:#7b7b7b" title="490 Gray Themes"><img src="/img/menu-color-overlay.png" width="16" height="16" alt=""></a><a href="/wordpress-themes/colors/black" style="background:#000000" title="277 Black Themes"><img src="/img/menu-color-overlay.png" width="16" height="16" alt=""></a>
 	</div>
 
 	<div class="clear"></div>
@@ -396,7 +391,7 @@ United States
 </div>
 
 <div id="menu-styles">
-<div class="style-column">	<div><a href="/wordpress-themes/styles/3d">3D</a> <span class="theme-count"> [6]</span></div>	<div><a href="/wordpress-themes/styles/artistic">Artistic</a> <span class="theme-count"> [57]</span></div>	<div><a href="/wordpress-themes/styles/bold">Bold</a> <span class="theme-count"> [29]</span></div>	<div><a href="/wordpress-themes/styles/cartoon">Cartoon</a> <span class="theme-count"> [13]</span></div>	<div><a href="/wordpress-themes/styles/clean">Clean</a> <span class="theme-count"> [497]</span></div>	<div><a href="/wordpress-themes/styles/corporate">Corporate</a> <span class="theme-count"> [194]</span></div>	<div><a href="/wordpress-themes/styles/dark">Dark</a> <span class="theme-count"> [103]</span></div>	<div><a href="/wordpress-themes/styles/elegant">Elegant</a> <span class="theme-count"> [60]</span></div>	<div><a href="/wordpress-themes/styles/feminine">Feminine</a> <span class="theme-count"> [39]</span></div>	<div><a href="/wordpress-themes/styles/futuristic">Futuristic</a> <span class="theme-count"> [18]</span></div>	</div>	<div class="style-column" style="margin-right:0px">	<div><a href="/wordpress-themes/styles/grunge">Grunge</a> <span class="theme-count"> [15]</span></div>	<div><a href="/wordpress-themes/styles/lively">Lively</a> <span class="theme-count"> [45]</span></div>	<div><a href="/wordpress-themes/styles/minimalist">Minimalist</a> <span class="theme-count"> [138]</span></div>	<div><a href="/wordpress-themes/styles/modern">Modern</a> <span class="theme-count"> [498]</span></div>	<div><a href="/wordpress-themes/styles/natural">Natural</a> <span class="theme-count"> [9]</span></div>	<div><a href="/wordpress-themes/styles/neutral">Neutral</a> <span class="theme-count"> [205]</span></div>	<div><a href="/wordpress-themes/styles/real-world">Real-world</a> <span class="theme-count"> [97]</span></div>	<div><a href="/wordpress-themes/styles/retro">Retro</a> <span class="theme-count"> [9]</span></div>	<div><a href="/wordpress-themes/styles/trendy">Trendy</a> <span class="theme-count"> [150]</span></div>	<div><a href="/wordpress-themes/styles/urban">Urban</a> <span class="theme-count"> [8]</span></div></div>
+<div class="style-column">	<div><a href="/wordpress-themes/styles/3d">3D</a> <span class="theme-count"> [6]</span></div>	<div><a href="/wordpress-themes/styles/artistic">Artistic</a> <span class="theme-count"> [55]</span></div>	<div><a href="/wordpress-themes/styles/bold">Bold</a> <span class="theme-count"> [29]</span></div>	<div><a href="/wordpress-themes/styles/cartoon">Cartoon</a> <span class="theme-count"> [13]</span></div>	<div><a href="/wordpress-themes/styles/clean">Clean</a> <span class="theme-count"> [482]</span></div>	<div><a href="/wordpress-themes/styles/corporate">Corporate</a> <span class="theme-count"> [189]</span></div>	<div><a href="/wordpress-themes/styles/dark">Dark</a> <span class="theme-count"> [98]</span></div>	<div><a href="/wordpress-themes/styles/elegant">Elegant</a> <span class="theme-count"> [59]</span></div>	<div><a href="/wordpress-themes/styles/feminine">Feminine</a> <span class="theme-count"> [35]</span></div>	<div><a href="/wordpress-themes/styles/futuristic">Futuristic</a> <span class="theme-count"> [18]</span></div>	</div>	<div class="style-column" style="margin-right:0px">	<div><a href="/wordpress-themes/styles/grunge">Grunge</a> <span class="theme-count"> [15]</span></div>	<div><a href="/wordpress-themes/styles/lively">Lively</a> <span class="theme-count"> [45]</span></div>	<div><a href="/wordpress-themes/styles/minimalist">Minimalist</a> <span class="theme-count"> [133]</span></div>	<div><a href="/wordpress-themes/styles/modern">Modern</a> <span class="theme-count"> [471]</span></div>	<div><a href="/wordpress-themes/styles/natural">Natural</a> <span class="theme-count"> [9]</span></div>	<div><a href="/wordpress-themes/styles/neutral">Neutral</a> <span class="theme-count"> [196]</span></div>	<div><a href="/wordpress-themes/styles/real-world">Real-world</a> <span class="theme-count"> [90]</span></div>	<div><a href="/wordpress-themes/styles/retro">Retro</a> <span class="theme-count"> [8]</span></div>	<div><a href="/wordpress-themes/styles/trendy">Trendy</a> <span class="theme-count"> [143]</span></div>	<div><a href="/wordpress-themes/styles/urban">Urban</a> <span class="theme-count"> [8]</span></div></div>
 	<div class="clear"></div>
 	<div class="select-multiple"><a href="/wordpress-themes?f=style">Select Multiple Styles</a></div>
 </div>
@@ -436,8 +431,8 @@ United States
 <div id="popup" class="white-popup mfp-hide">
 
 <p>
-<b>ThemeSorter is no longer updated.</b>
-We recommend finding a new theme at...
+<b>ThemeSorter is undergoing renovations. The current data is a little stale.</b>
+While you wait for us, we recommend finding a new theme at...
 </p>
 
 
@@ -477,17 +472,6 @@ We recommend finding a new theme at...
     po.src = 'https://apis.google.com/js/plusone.js';
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
   })();
-</script>
-
-<script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
-  ga('create', 'UA-857191-16', 'auto');
-  ga('send', 'pageview');
-
 </script>
 
 
