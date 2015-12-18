@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the sweatybetty.com privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612181319id_/http%3A//www.sweatybetty.com/security-and-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sweatybetty.com privacy policy that was archived on 2015-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151219000011id_/http%3A//www.sweatybetty.com/security-and-privacy) for the most accurate reproduction.*
 
 # security & privacy
 
-##  security
+## security
 
 At Sweaty Betty, all online purchases take place safely, using the latest internet security technology to protect our customers. We accept orders only from web browsers that can use Secure Socket Layer (SSL) technology - this means you cannot inadvertently place an order through an unsecured connection. Most web browsers now support this.
 
@@ -13,10 +13,9 @@ We use Verified by Visa and Mastercard SecureCode on our website to give you add
 
 If you have questions regarding our credit card security policies, please email us at [customercare@sweatybetty.com](mailto:customercare@sweatybetty.com).
 
-  
+ 
 
-
-##  Privacy Policy
+## Privacy Policy
 
 At Sweaty Betty we take your privacy seriously. We also want to use this great technology to treat you as real customers in the old fashioned sense of the word. We have drawn up these brief guidelines so that you know your information is secure. However, Internet technologies are rapidly evolving so these guidelines are subject to change
 
@@ -32,17 +31,16 @@ At Sweaty Betty we take your privacy seriously. We also want to use this great t
   * \- credit card details
   * \- we may ask for some demographic information for user profiling in aggregate form.
 
-
+ 
 
 **We use this information for the following purposes:**  
 \- to send you the product that you have bought.  
 \- to send email or conventional mail to you, after you have purchased a product. - to text you with details about your order, or to call you (only) if we have a problem with your order.  
 \- to make it easier for you to shop next time you visit.
 
-  
+ 
 
-
-##  Data Collection and Protection
+## Data Collection and Protection
 
 Any personal information you provide to us is maintained on secure servers. We collect information when you register online or update your account, log-in, place an order, communicate online with our customer service representatives, opt-in to receive our emails, shop online, request a catalogue, participate in a sweepstakes, contest, promotion or survey, or join our social networking sites. We may also collect information from you through our catalogues or other marketing material. This information may include, but is not limited to, your contact information (for example, your name, email address, billing and shipping addresses and phone number). If you create an online account, you also have the option of providing your product preferences or interests.  
 There are limited circumstances where we may share some of your data with others and they are as follows: 
@@ -58,7 +56,7 @@ There are limited circumstances where we may share some of your data with others
 If you have questions about your personal data or our privacy policy, please contact us at [customercare@sweatybetty.com](mailto:customercare@sweatybetty.com).  
  
 
-##  Cookies and Web Beacons
+## Cookies and Web Beacons
 
 Cookies are small text files that websites send to your computer. A cookie can be thought of as an Internet user's identification card. They let the website know when the user has returned. This lets the site bring up information relevant to that user, for example your name, past orders, etc.  
 Cookies make the interaction between users and websites faster and easier. Without cookies, it would be very difficult for a website to allow a visitor to fill up a shopping basket or to remember the user's preferences or registration details for a future visit. The Sweaty Betty website uses cookies to allow customers to move from one part of the web site to another and to add items to the shopping basket without having to login repeatedly.
@@ -69,7 +67,7 @@ Cookies are not computer programs, and can't read other information saved on you
 
 For further information about managing and disabling cookies on your computer see www.allaboutcookies.org/manage-cookies. By using our websites, you consent to our placement of cookies on your computer. You may occasionally get cookies from our business partners or other third parties. We have no access to or control over these cookies. Most internet browsers automatically accept cookies, but if you do not wish to have cookies on your system, you can set your browser preferences to refuse them or to alert you when cookies are being sent. In order to disable cookies, please consult your browser's "help" section for instructions. Additionally, if you have an Adobe Flash player installed on your computer, your Flash player can be set to reject or delete Flash cookies. If you choose to decline cookies, you may not be able to fully experience the features of our websites. Web beacons are small strings of code that are placed in a web page or in an email message. They are sometimes called "clear GIFs" (Graphics Interchange Format) or "pixel tags". Web beacons are most often used in conjunction with cookies to track activity on our websites. When you visit a particular web page, web beacons notify us of your visit. Since web beacons are used in combination with cookies, if you disable cookies the web beacons will only detect an anonymous website visit. When used in an email, Web beacons enable us to know whether you have received the email.
 
-##  Data over the Internet
+## Data over the Internet
 
 We use reputable third-party service providers who perform services on our behalf. Sometimes these service providers need information about our customers in order to do their jobs, such as fulfil orders and promotions, maintain and manage our customer database and report on customer behaviour and/or preferences. When Sweaty Betty allows these service providers access to your information, we require them to maintain your information in the strictest confidence and we do not permit them to use it in any way other than to help us provide you with better service.
 
@@ -77,6 +75,6 @@ We currently use the services of a few carefully selected companies to help mana
 
 If you would like more information about this practice and to know your choices about not having this information used by our third party service provider, please contact us at: [customercare@sweatybetty.com](mailto:customercare@sweatybetty.com)You can also read more about online marketing practices and the technologies that support them by visiting the [Network Advertising Initiative’s website.](http://www.networkadvertising.org/)
 
-##  Privacy Policy Updates
+## Privacy Policy Updates
 
 We may update our privacy policy from time to time. Whenever we make a change, we will post the updated policy at this site and we encourage you to check our policy periodically. 
