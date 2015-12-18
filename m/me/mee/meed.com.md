@@ -1,11 +1,6 @@
-> *The following text is extracted and transformed from the meed.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629095017id_/http%3A//www.meed.com/privacy-and-cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the meed.com privacy policy that was archived on 2015-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151218044236id_/http%3A//www.meed.com/privacy-and-cookies) for the most accurate reproduction.*
 
 # MEED: Middle East business intelligence, news, data, analysis, reports, consulting and services
-
-  
-
-
-### Our Commitment To Your Privacy
 
 MEED and Emap Limited (Emap) are committed to protecting your privacy and security. From time to time we may invite you to supply personal information in order for us to provide you with services (such as access to subscriber-only services, our bulletin board, email newsletters and competitions).
 
@@ -45,7 +40,7 @@ Emap use cookies to:
   * store your product selections to the shopping basket;
   * collect statistical information about how our visitors use the website(s) so that we can improve the website(s) and learn which parts are most popular to visitors; and
   * Gather information through our advertising partners, about the pages on the Emap website(s) that you visit, and also other information about other websites that you visit, so as to place you in a “interest segment”. This information is then used to serve interest-based advertisements which it is believed will be targeted to your interests. For more information about this type of interest based advertising, and about how to turn this feature off please visit[ www.youronlinechoices.co.uk](http://www.youronlinechoices.co.uk/) or follow the link to the website of our advertising partners shown below. Without these cookies, advertisements you encounter will be less relevant to you and to your interests. 
-  * 
+
 
 
 Some of the cookies used by Emap websites are set by us, and some are set by third parties who are delivering services on our behalf. 
@@ -89,7 +84,7 @@ In addition to cookies, tracking gifs may be set by us or third parties in respe
 
 ### Feedback, Comments & Suggestions
 
-If you have any queries about Our Privacy Policy or any queries about the protection of personal information we hold about you, please do not hesitate to contact us. Our address is **Digital Department, MEED, 20th Floor, Al Thuraya Tower 1, Dubai Media City, UAE PO Box 25960**
+If you have any queries about Our Privacy Policy or any queries about the protection of personal information we hold about you, please do not hesitate to contact us. Our address is **Digital Department, MEED, 20th Floor, Al Thuraya Tower 1, Dubai Media City, UAE PO Box 25960.**
 
 ### Finally
 
