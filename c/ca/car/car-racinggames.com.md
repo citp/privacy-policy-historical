@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the car-racinggames.com privacy policy that was archived on 2015-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150424211111id_/http%3A//www.car-racinggames.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the car-racinggames.com privacy policy that was archived on 2015-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151218122717id_/http%3A//www.car-racinggames.com/privacy.html) for the most accurate reproduction.*
 
 # Car-RacingGames Privacy Policy - Car Racing Games
 
