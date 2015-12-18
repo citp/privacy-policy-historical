@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gamereplays.org privacy policy that was archived on 2015-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150618052328id_/http%3A//www.gamereplays.org/portals.php%3Fshow%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamereplays.org privacy policy that was archived on 2015-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151218031853id_/http%3A//www.gamereplays.org/portals.php%3Fshow%3Dprivacy) for the most accurate reproduction.*
 
 # GameReplays.org Privacy Policy - GameReplays.org
 
@@ -70,7 +70,7 @@ Although cookies do identify a user's computer, cookies do not personally identi
 
 **GameReplays.org** will not share, sell or rent your personal information to third parties. However, we may disclose your personal information to third party suppliers who provide services on our behalf.
 
-**GameReplays.org** may disclose aggregate statistics about our sales, our Web Sites� visitors in order to describe our services to prospective partners, advertisers and other reputable third parties and for other lawful purposes, but these statistics will not include personally identifying information.
+**GameReplays.org** may disclose aggregate statistics about our sales, our Web Sites’ visitors in order to describe our services to prospective partners, advertisers and other reputable third parties and for other lawful purposes, but these statistics will not include personally identifying information.
 
 **GameReplays.org may disclose personal information if required to do so by law or if it believes that such action is necessary to protect and defend the rights, property or personal safety of GameReplays.org and its Web Sites, visitors to the Web Sites and customers of our Services**.
 
