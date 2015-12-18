@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the theberrics.com privacy policy that was archived on 2015-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150622070242id_/http%3A//theberrics.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theberrics.com privacy policy that was archived on 2015-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151218073214id_/http%3A//theberrics.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Berrics
 
 ## PRIVACY POLICY
 
-The Berrics, LLC. (“Berrics”, "us", "we", or "our") operates [www.theberrics.com](https://web.archive.org/web/20150622070242id_/http%3A//theberrics.com/wwww.theberrics.com) (the "Site"). This page informs you of our policies regarding the collection, use, and disclosure of Personal Information we receive from users of the Site. 
+The Berrics, LLC. ("Berrics", "us", "we", or "our") operates [www.theberrics.com](https://web.archive.org/) (the "Site"). This page informs you of our policies regarding the collection, use, and disclosure of Personal Information we receive from users of the Site. 
 
-By using the Site, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, accessible at [www.theberrics.com/tos](https://web.archive.org/web/20150622070242id_/http%3A//theberrics.com/www.theberrics.com/tos).
+By using the Site, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms of Use, accessible at [www.theberrics.com/terms-use](https://web.archive.org/terms-use).
 
 ## INFORMATION COLLECTION AND USE
 
@@ -30,7 +30,7 @@ Our Site may contain links to other sites that are not operated by us. If you cl
 
 ## SOCIAL MEDIA WIDGETS
 
-This Website includes social media features, like the Facebook ‘Like’ button. These features may collect information about your IP address and which page you are visiting, and they may set a cookie to make sure the feature functions properly. Social media features and widgets are either hosted by a third party or hosted directly on our site. Your interactions with those features are governed by the privacy policies of the companies that provide them.
+This Website includes social media features, like the Facebook 'Like' button. These features may collect information about your IP address and which page you are visiting, and they may set a cookie to make sure the feature functions properly. Social media features and widgets are either hosted by a third party or hosted directly on our site. Your interactions with those features are governed by the privacy policies of the companies that provide them.
 
 ## CHANGES TO THIS PRIVACY POLICY
 
