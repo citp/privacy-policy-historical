@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ncbex.org privacy policy that was archived on 2015-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150613233757id_/http%3A//www.ncbex.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ncbex.org privacy policy that was archived on 2015-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151218173522id_/http%3A//www.ncbex.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - NCBE
 
@@ -10,7 +10,7 @@ The National Conference of Bar Examiners (NCBE) is committed to protecting your 
 
 ###### Personal Information
 
-You are not required to provide any personal information to browse or access the public area of the Site. However, to access or use certain services at the Site, you are required to provide personal information. “Personal information” is information that is unique to you, and includes, but is not limited to, your email address, telephone number, name, date of birth, Social Security or national identification number, and information regarding your legal education, background, credentials, and related matters. Information you supply when requesting ADA accommodations for the MPRE is subject to an additional privacy policy.
+You are not required to provide any personal information to browse or access the public area of the Site. However, to access or use certain services at the Site, you are required to provide personal information. “Personal information” is information that is unique to you, and includes, but is not limited to, your email address, telephone number, name, date of birth, Social Security or national identification number, and information regarding your legal education, background, credentials, and related matters. Information you supply when requesting ADA accommodations for the MPRE is subject to an [additional privacy policy](http://www.ncbex.org/exams/mpre/ada-accommodations/).
 
 Personal information is collected on the Site when you create an NCBE Account, register online for the MPRE, complete the NCBE Character and Fitness Application, request score services, send a message using the Contact Us form, purchase products through the NCBE Study Aids Store, or complete an optional survey related to the purchase of an Online Practice Exam. NCBE also collects information about changes made to your NCBE Account profile.
 
