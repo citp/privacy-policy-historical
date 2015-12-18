@@ -1,91 +1,200 @@
-> *The following text is extracted and transformed from the wholefoodsmarket.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627190259id_/http%3A//www.wholefoodsmarket.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wholefoodsmarket.com privacy policy that was archived on 2015-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151218062630id_/http%3A//www.wholefoodsmarket.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Whole Foods Market
 
-#### General
+## PRIVACY POLICY
 
-Whole Foods Market recognizes that the protection of privacy is a major concern to many of our customers and wants you to know how we acquire personal information through the Whole Foods Market website, WFM's mobile applications and WFM's social media (collectively this "website") and how we use, share and protect that information. By using our services and viewing this website, you are consenting to the information collection, use and disclosure practices described in this Privacy Policy. As used in this Privacy Policy, "Whole Foods Market", "us", or "we" refers to Whole Foods Market Services, Inc., and its subsidiaries and affiliates.
+Effective Date: December 17, 2015.
 
-#### Users Outside the United States
+### General
 
-Portions of this website may be hosted on our computer servers in the United States. If you are accessing this website from outside of the United States, any personal information collected through this website may be transferred to the United States or other countries whose privacy laws may be different from those of your home country. Your use of this website or submission of any personal information will therefore constitute your consent to the transfer of your personal information outside of your home country.
+This Privacy Policy applies to information we collect when you use [www.wholefoodsmarket.com](http://wholefoodsmarket.com/) and any other websites, mobile applications, or services that post a link to this Privacy Policy (collectively, the “Service”). This Privacy Policy describes how Whole Foods Market Services, Inc., 550 Bowie Street Austin, TX 78703-4644, United States and Fresh & Wild Limited, The Barkers Building, 63-97 Kensington High Street, London, W8 5SE, United Kingdom (“Whole Foods,” “Company,” “we,” or “us”) collect, use and share information about you.  
 
-#### Types of Information Gathered
+By using our Service, you agree to our [Terms of Service](http://www.wholefoodsmarket.com/terms-use) and consent to our collection, use and disclosure practices, and other activities as described in this Privacy Policy. 
 
-We may gather personal information (i) that you give to us voluntarily while using a feature of this website, for example, during a registration process as described in more detail in the section titled "Registration" below; (ii) when you purchase, order, return, exchange or request information about our products and services in our stores, website, mobile website or mobile applications; (iii) when you visit our website as described in the section titled "Cookies" below, or when you participate in interactive features of our website, mobile applications or social media pages; (iv) when you place online orders or purchase a gift cards from us; (v) when you conduct a transaction where we collect information required by law (for example, age-restricted purchases); (vi) when you sign up for our e-mails, mobile messages, or social media notifications as described in the section titled "Social Media Notification" below; (vii) when you enter a contest or sweepstakes, respond to one of our surveys, or participate in a focus group as described in more detail under the section titled "Surveys and Polls" below; or (viii) when you provide us with comments, suggestions, or other input. During such activities, we may collect personal information about you that is not publicly available and can identify you, such as your name, mailing address, email address and phone number, birth date, and financial information, such as credit card number.
+### Collection of Information
 
-##### Registration
+**Information You Provide to Us**
 
-In order for you to receive certain benefits of our website you may first be asked to supply certain information such as your zip code. We want to supply you with information that benefits you and the more relevant information we have about you the better we are able to do this.
+We collect information you provide directly to us. For example, we collect information when you use our Service, register for our Service, subscribe to our emails, mobile messages, push notifications, or social media notifications, post on our forums or blogs, participate in a sweepstakes, contest, promotion, survey, or poll, communicate with us via third party social media sites, shop our online store, order physical or digital gift cards, request customer support, apply for a job or otherwise communicate with us through the Service.
 
-We distribute an electronic newsletter and may launch similar products in the future. When you subscribe to our electronic newsletter, you will be asked for certain information so that we can customize your newsletter to suit your needs. Upon registering for the electronic newsletter, you will be asked for your name, email address, zip code, and other information specified in the enrollment process. You may be asked to tell us a little about your interests, including but not limited to, what sorts of articles you like to read, the sorts of wellness choices you currently make, and other questions of this nature. This information is used to deliver you a personalized electronic newsletter that we believe will be of interest to you. The more of this information you choose to share with us, the better we can craft a newsletter specifically for you.
+The types of information we may collect include Personal Information. "Personal Information" is information that can be used to identify you (whether alone or in combination), such as your first and last name, email address, zip code/post code, billing address, shipping address, phone number, payment card information, user name and password, product preferences, birth date, demographic information including gender, education, occupation, photo, and any other information you choose to provide. It also may include sensitive information, such as health and dietary information.  
 
-##### Social Media Notification
+**Information We Collect Automatically**
 
-To enable our push notification and other mobile communication services, we may collect and store device IDs to identify each unique mobile device that registers for our service, including for example, device tokens from iOS devices, Live IDs from Windows devices, and other similar identifications from devices running on other platforms. These IDs cannot be tracked back to you, but are tied to a specific device which may only be used by one person. We may collect information including what actions are taken by you on the website, location-related information, internet protocol addresses, mobile device models, carrier information, the operating system of your mobile devices and other non-personally identifiable information. 
+We and our service providers automatically collect certain information about you when you access or use our Service. This information may include demographic information; IP address; browser/device/hardware type; operating system characteristics; information about your use of our Service; and data regarding network connected hardware (e.g., computer or mobile device), such as unique device identifiers, type, model, version, MAC address, device or session ID, error related data status, capability, confirmation, functionality, performance data, and connection type. This information may also include clickstream data, which is information about the page-by-page paths you take as you browse through the Service.
 
-##### Surveys and Polls
+The methods that we and our service providers may use to automatically collect such information include:
 
-From time to time, users of the website may be asked to participate in voluntary surveys and polls. As a part of this process you may be asked to supply personal information such as demographic information and lifestyle preferences. These surveys will be strictly voluntary and you can choose to disclose this information or not.
+  * **Log Information** : We collect information about your use of our Service, such as the type of browser you use, access times, pages viewed, your IP address and the referring link through which you accessed our Service.
+  * **Information Collected by Cookies and Other Tracking Technologies** : We may use cookies, web beacons (also known as "tracking pixels") and other tracking technologies to collect information about you when you interact with our Service or emails, including information about your browsing and purchasing behavior. We may combine this information with other information we collect about you and use it for various purposes, such as improving our Service and your online experience, understanding which areas and features of our Service are popular, counting visits, understanding campaign effectiveness, tailoring our communications with you, determining whether an email has been opened and links within the email have been clicked and for other internal business purposes. 
+    * **Cookies** : Cookies are data files that are placed on a computer when it is used to visit a website. These cookies may be used for many purposes, including, without limitation, tracking user preferences or web pages visited while using our Service. Most web browsers are set to accept cookies by default. If you prefer, you can usually set your browser to remove or reject cookies, but note that doing so does not necessarily affect third party flash cookies used in connection with our websites. [View more information about disabling flash cookies](http://www.adobe.com/products/flashplayer/security). Please note that if you choose to remove or reject cookies, this could affect the availability and functionality of our Service. For example, cookies allow us to store items in your cart between visits.  In addition, please be aware that if you choose to block cookies, some advertising preferences that are dependent on cookies may not be able to be respected.  For further information on cookies, please visit our [Cookie Policy](http://www.wholefoodsmarket.com/cookie-policy).
+    * **Web Beacons:  **We may include small graphic images called web beacons, also known as "Internet tags" or "clear gifs," in our web pages and email messages. We may use web beacons or similar technologies for a number of purposes, including, without limitation, to count the number of visitors to our Service, to monitor how users navigate the Service, and to count how many emails that we sent were actually opened or how many particular articles or links were actually viewed.
+    * **Embedded Scripts:  **An embedded script is programming code that is designed to collect information about your interactions with the Service. It is temporarily downloaded onto your computer from our web server or a third party with whom we work, is active only while you are connected to the Service, and is deleted or deactivated thereafter.
+    * **Location-identifying Technologies** : We may use GPS (global positioning systems) software and other location-based technologies to locate you so we may verify your location, and deliver relevant content to you based on your location. 
 
-##### Cookies
 
-We use cookies, web beacons, and other technologies to receive and store certain types of information whenever you interact with our website through your computer or mobile device. This information, which includes the pages you visit on our site, which web address you came from, the type of browser/device/hardware you are using, purchase information and checkout process, search terms and IP-based geographic location, helps us customize your website experience and make our marketing messages more relevant. This information also allows us to provide features such as storage of items in your cart between visits. We will only use this type data in an aggregate form which does not identify you personally.
 
-##### In-Store Cameras
+Information we automatically collect about you, such as how you interact with our Service, may be combined with your Personal Information. If we associate any such automatically-collected information with Personal Information about you, we will treat the combined information as Personal Information.
 
-We use in-store cameras for security purposes and to facilitate store operation, such as tracking stocking levels and measuring traffic patterns.
+We and our business partners and other third parties may send you product promotions that are aligned with your purchase trends and/or interests identified through automatically-collected information. 
 
-#### Use of Information
+**Information We Collect From Our Partners and Other Sources**
 
-We may use information gathered through the website, mobile applications and social media to: (i) fulfill and manage purchases, orders, payments, returns, exchanges and requests for information; (ii) deliver coupons, mobile coupons, newsletters, in-store messages, emails and mobile messages including, for example, by push notification or other mobile communications; (iii) send marketing communications and other information regarding products, services and promotions; (iv) improve the effectiveness of our website, stores, mobile experience and marketing efforts; (v) conduct research and analysis, including focus groups and surveys; (vi) administer sweepstakes and contests; (vii) prevent fraudulent transactions and monitor against theft; and (viii) assist law enforcement and respond to subpoenas.
+We may also obtain information about you (such as email and address) from other sources and combine that with information we collect about you. If we receive Personal Information from a third party source and/or if we combine the information we receive from these third party sources with your Personal Information, we will treat that information as Personal Information. We are not responsible for the accuracy of the information provided by third parties or how such third parties collect, use and share such information.
 
-#### Sharing of Information
+**Advertising & Analytics Services and Online Tracking**
 
-We will not sell or otherwise share personally identifying information with other people or nonaffiliated companies except for those purposes described above, or as required by law. However, we will share this information with certain business partners to provide requested service that we do not provide directly, but we will only share personal information with these business partners if they agree not to disclose the information to other parties and agree not to use this information to solicit business from you.
+We engage third parties, such as Google’s DoubleClick, and others, to serve advertisements on our behalf across the Internet and to provide analytics about the use of our Service. In addition, we may participate in online advertising networks and exchanges that display relevant advertisements to our Service visitors based on their interests as reflected in their browsing of the Service and certain third party sites participating in the same networks and exchanges. These entities may use cookies, web beacons, pixels, embedded scripts, and other technologies to automatically collect information about your use of the Service, such as your IP address, web browser, pages viewed, time spent on pages, links clicked and conversion information. This information may be used by us and others to, among other things, analyze and track data, determine the popularity of certain content, deliver advertising and content targeted to your interests on the Service and other websites and better understand your online activity.
 
-In addition, we may share aggregate data collected through the website that does not personally identify any party with our research partner, and may from time to time share this type data with other business partners.
+This means that some information about your browsing of the Service and certain third party sites may be shared with these companies for the purpose of delivering ads to you on the Service and certain third party sites, and Whole Foods may receive from some of these companies information about third party sites that you have visited. This information is used for marketing purposes and the practice is sometimes termed "retargeting" to indicate that information from one retailer is used to suggest to you relevant products offered by another retailer. 
 
-Also, we may disclose specific information upon governmental request, in response to a court order, when required by law, or to protect our or others' rights, property, or safety. We do not provide information to these agencies or companies for marketing or commercial purposes.
+These and other third parties may also collect Personal Information about your online activities over time and across different websites when you use our Service. 
 
-#### Information from Public Forums
+We may also work with third parties to serve ads to you as part of a customized campaign on other websites or platforms.  
 
-Any information you submit in a blog, chat room, social network or other public forum can be read, collected, or used by us and others, including, for example, to personalize your experience on our website. You are responsible for the information you disclose in these forums and such information is not protected under this privacy policy.
+This Privacy Policy does not cover any use of information that such third parties themselves may have collected from you (e.g., type of browser, operating system, domain name, day and time of visit, page(s) visited) or the methods used by the third-parties to collect that information (e.g., cookies, web beacons and clear gifs). 
 
-#### Privacy of Mobile Applications
+Note that your browser settings may allow you to automatically transmit a “Do Not Track” signal to websites and online services you visit. There is no consensus among industry participants as to what “Do Not Track” means in this context. Like many websites and online services, Whole Foods currently does not alter its practices when it receives a “Do Not Track” signal from a visitor’s browser. To find out more about “Do Not Track,” you may wish to visit [http://www.allaboutdnt.com](http://www.allaboutdnt.com/).
 
-Our mobile applications may include functionality to allow you to create a shopping list, search or add products to a favorites list, check price or product availability, print coupons and engage in a wide variety of other activities and services. In addition, our mobile applications collect certain information automatically, such as the type of mobile device you use, the temporary or persistent unique device identifiers (sometimes called UDID) placed by us or our service providers, the unique identifier assigned by us to your device, the IP address of your mobile device, your mobile operating system, the type of mobile Internet browsers you use, and information about the way you use our mobile applications.
+### Use of Information
 
-Additionally, our mobile applications collect precise information about the location of your device. You must first provide permission through your device before our mobile applications obtain such location information from technologies like GPS, Wi-Fi, or cell tower proximity (or a combination of these technologies). We, and our service providers, may use and store this information, in combination with other location-based information such as IP address and billing or postal code provided by you at time of your mobile application registration, to provide enhanced location based services, such as store specific services, search results, and other content. You can stop all collection of information by our mobile applications easily by uninstalling the mobile applications. Also, you may at any time opt-out from further allowing us to have access to your location data by adjusting the permissions in your mobile device.
+We may use information about you for various purposes, including to:
 
-#### Updating Personal Information
+  * Facilitate and improve your online experience;
+  * Process your registration with our Service, including verifying that your email address(es) are active and valid;
+  * Manage your online account(s), including purchases, orders, payments, returns, exchanges, and forum and blog posts;
+  * Respond to your comments, questions and requests and provide customer service;
+  * Send you technical notices, updates, security alerts and support and administrative messages;
+  * Communicate with you about products, services, offers, promotions, coupons, newsletters, rewards and events and provide news and information we think will be of interest to you (for information about how to manage these communications, please see the Your Choices section below).
+  * Improve our Service or other Whole Foods websites, mobile applications, marketing efforts, products and services;
+  * Personalize your online experience and provide advertisements, content or features that match your profile and interests;
+  * Monitor and analyze trends, usage and activities;
+  * Process and deliver contest, promotion and sweepstakes entries and rewards;
+  * Process and track your redemption of digital coupons and associate those redemptions with your account;
+  * Link or combine with information we get from others to help understand your needs and provide you with better service; 
+  * Contact you regarding your use of our Service and, in our discretion, changes to our policies; 
+  * Provide you with notices related to our Service and other Whole Foods websites, products and services; 
+  * Conduct research and analysis, including focus groups and surveys, on our Service and other Whole foods websites, products and services; 
+  * Prevent fraudulent transactions and monitor against threats; and
+  * Carry out any other purpose disclosed elsewhere in this Privacy Policy, at the time you provide your Personal Information, or for which the information was collected.
 
-We understand that you may want to change or access your personal information. You may do so by sending an email to [privacyandterms@wholefoods.com](mailto:privacyandterms@wholefoods.com) requesting to opt-out. In addition, you have the ability to unsubscribe to our newsletter and promotional emails via the opt-out link in the email.
 
-#### Changes to Privacy Policy
 
-This document was last updated September, 2013. We may update this privacy policy at any time. If so, we will post the updated privacy policy on this website. We encourages you to review this privacy policy from time to time for any changes.
+### Sharing of Information
 
-#### California Residents
+Our agents, vendors, consultants and other service providers have access to Personal Information to carry out work on our behalf. These third party service providers and agents are prohibited from using your Personal Information for any purpose other than to provide this assistance.
 
-Under California law, California residents who have an established business relationship with us may opt out of our disclosing personal information about them to third parties for their marketing purposes. Under California law, third parties include our affiliates. If you do not want us to disclose your personal information to third parties, including our affiliates please email [privacyandterms@wholefoods.com](mailto:privacyandterms@wholefoods.com) to opt out.
+In addition, we may share information about you as follows:
 
-#### Children
+  * With our business partners, affiliates and other third parties for purposes of sending their own marketing unless you are a California customer and you opt out of this type of sharing by emailing us at [privacyandterms@wholefoods.com](mailto:privacyandterms@wholefoods.com);  
+  * To the maximum extent permitted by applicable law, in response to i) subpoenas or other legal process or if in our good faith opinion such disclosure is required or permitted by law; (ii) at the request of governmental authorities conducting an investigation;
+  * To defend the Terms of Service or other policies applicable to our Service;
+  * To protect the rights, property, life, health, security and safety of us or any third party; 
+  * To the maximum extent permitted by applicable law, we may also use IP addresses, mobile device identifiers or any other information we collect to identify users, and may do so in cooperation with copyright owners, Internet service providers, wireless service providers or law enforcement agencies in our discretion. Such disclosures may be carried out without notice to you;
+  * With our affiliates for internal business purposes; 
+  * Your redemption of digital coupons with our suppliers;
+  * In connection with, or during negotiations of, any proposed or actual merger, purchase, sale (including a liquidation, realization, foreclosure or repossession), lease, amalgamation or any other type of acquisition of all or any portion of Whole Foods assets, financing, disposal, conveyance or transfer of all or a portion of our business to another company; 
+  * For a purpose disclosed elsewhere in this Privacy Policy, or at the time you provide your Personal Information; and
+  * With your consent or at your direction.
 
-Parents should always supervise their children while online. Our website is not designed nor intended to collect personal information from children under the age of thirteen. So that we may comply with the Children's Online Privacy Protection Act, we ask that children under the age of thirteen not provide any personal information on this website. If a child under the age of thirteen has provided us with personal information, we ask that a parent or guardian contact us at [privacyandterms@wholefoods.com](mailto:privacyandterms@wholefoods.com). 
 
-#### Links
 
-This website contains several links to other websites that we do not control. We have attempted to choose our linked partners with great care. However, we are not responsible for the privacy practices of any linked site. You should read the privacy policy of each linked website to understand how it collects, stores and protects your personal information. This privacy policy applies solely to information collected through our website. In addition, when you browse, other websites may place their own cookies on your computer and we do not control cookies placed on your computer by third parties whose links appear on our website.
+In our sole discretion, we may also share aggregated or de-identified information that cannot reasonably be used to identify you with third parties or affiliates.
 
-#### Security
+### Information You Disclose Publicly or to Others
 
-We have attempted to take all reasonable steps to have physical, electronic and procedural safeguards in place to protect personal information gathered through this website. This includes compliance with related federal regulations and may include use of industry-standard Secure Socket Layer (SSL) encryption to prevent any loss, misuse, unauthorized access, disclosure, or modification of personal information. Unfortunately, no data transmission over the Internet can be guaranteed to be 100% secure. As a result, while we strive to protect your personal information, we cannot guarantee or warrant the security of any information you transmit to or from our web sites, and you do so at your own risk.
+The Service may permit you to submit ideas, photographs, user profiles, writings, music, video, audio recordings, computer graphics, pictures, data, questions, comments, suggestions or other content, including Personal Information (collectively, “User Content”), such as on blogs and forums, and in association with your account and user profile.  We or others may store, display, reproduce, publish, distribute or otherwise use User Content online or offline in any media or format (currently existing or hereafter developed) and may or may not attribute it to you.  Others may have access to this User Content and may have the ability to share it with third parties.  Please think carefully before deciding what information you share, including Personal Information, in connection with your User Content.  Please note that Whole Foods does not control who will have access to the information that you choose to make public, and cannot ensure that parties who have access to such publicly available information will respect your privacy or keep it secure.  We are not responsible for the privacy or security of any information that you make publicly available on the Service or what others do with information you share with them on the Service.  We are not responsible for the accuracy, use or misuse of any User Content that you disclose or receive from third parties through the Service.  We are not responsible for User Content you submit to third party services via our Service.
 
-#### Careers
+### Sweepstakes, Contests, Surveys, Polls, and Promotions
 
-You understand that any information you provide to us, or that you authorize others to provide to us in connection with your application for employment, may be reviewed by our Team Member Services (human resources) representatives. You further understand and agree that our Team Member Services representatives may share this information with others on a need-to-know basis including, but not limited to, sharing it with hiring managers considering you for employment.
+We may offer sweepstakes, contests, surveys, polls, and other promotions (each, a “Promotion”) that may require registration or for you to submit Personal Information. These Promotions are strictly voluntary.  If you choose to enter a Promotion, your Personal Information may be disclosed to third parties in connection with the administration of such Promotion, such as in connection with winner selection, prize fulfillment, and as required by law, such as on a winners list. By entering a Promotion, you are agreeing to the official rules that govern that Promotion, which may contain specific requirements of you, including, except where prohibited by law, allowing the sponsor and/or other parties to use your name, voice and/or likeness in advertising or marketing materials. Whole Foods may offer opportunities to enter a contest or sweepstakes or other feature that we offer jointly with a third party. As a result of your participation in such feature, your information may be shared with the third party that is jointly offering the feature, which will be disclosed at the time your information is collected.
 
-#### Questions and Comments
+### Social Features
 
-We are always interested in what our customers have to say. If you have any questions or concerns, please feel free to [contact us](http://www.wholefoodsmarket.com/customer-service).
+Certain functionality on the Service is specifically designed to permit interactions that you initiate between the Service and third party websites or services, including third party social networks (“Social Features”). Examples of Social Features include enabling you to transmit content to the Service from your account on a third party website or service; to “like” or “share” our Service content to other websites or services; to log-in to the Service using your username and password for a third party site or service; and to otherwise connect our Service to a third party website, application or service. 
+
+If you choose to use Social Features, information you post or provide access to, including User Consent, may be publicly displayed on our Service or by the provider of the Social Feature that you use. Similarly, if you post information on a third party platform that references our Service (e.g., by using a hashtag associated with Whole Foods in a tweet or status update), your post may be published on our Service in accordance with the terms of the third party website or service. Also, both Whole Foods and the third party may have access to certain information about you and your use of our Service and the third party site or service. In addition, we may receive information about you if other users of a third party website give us access to their profiles and you are one of their “connections,” or information about you is otherwise accessible through your “connections’” web pages, profile pages, or similar pages on a social networking or other third party website or interactive service.
+
+The information we collect in connection with Social Features is subject to this Privacy Policy. The information collected and stored by the third parties remains subject to those third parties’ privacy practices, including whether the third parties continue to share information with us, the types of information shared, and your choices with regard to what is visible to others on those third party websites or services.
+
+### Refer-a-Friend
+
+You may use a referral feature to inform a friend about our services. Whole Foods may use any email address provided when using this referral feature to send an email on your behalf to such designated recipients about the particular promotion, product, or service in which you indicated your "friend" may have an interest.  By using a referral feature, you represent that you and your friend are United States residents and that you have permission to provide your friend’s email address.
+
+### Third Party Websites
+
+The Service contains hyperlinks to other websites or locations, including our Career site, that we do not control and are operated and controlled by third parties ("Third Party Websites"). We make no representations and accept no responsibility or liablity regarding the policies or business practices of such Third Party Websites and encourage you to familiarize yourself with their privacy policies before providing them with your Personal Information.  Our Privacy Policy does not apply to these Third Party Websites.  You should read the privacy policy of each Third Party Website as these Third Party Websites may use their own cookies, web beacons and other technology to independently collect information about you. In addition, these Third Party Websites may solicit Personal Information from you. 
+
+### Your Choices
+
+**Profile and Apps**
+
+You are responsible for maintaining the accuracy of the information you submit to us, such as your contact information provided as part of registration.  The Service may allow you to review, correct or update Personal Information you have provided through the Service’s registration or otherwise, and you may provide registration updates and changes by contacting us through account settings or [privacyandterms@wholefoods.com](mailto:privacyandterms@wholefoods.com).  If so, we will make good faith efforts to make requested changes in our then-active databases as soon as reasonably practicable (but we may retain prior information as business records).  With respect to our mobile and other applications, you can prospectively stop all collection of information by the application by uninstalling the application.  Also, you may at any time opt-out from further allowing us to have access to your location data by adjusting the permissions in your mobile device.  Please note that it is not always possible to completely remove or delete all of your information from our databases and that residual data may remain on backup media or for other reasons.  Also, if you have made any public postings on the Service such as in forums or blogs, these communications cannot generally be removed, except California minors should see the Children section below.
+
+**Promotional Communications**
+
+You can opt out of receiving promotional email communications from us at any time by following the instructions provided in those communications or email us at [privacyandterms@wholefoods.com](mailto:privacyandterms@wholefoods.com).  You may also remove yourself from our email list by clicking on the unsubscribe link presented in all promotional emails, including newsletters, we send to our customers. Please note that even if you opt out of receiving promotional communications, we may continue to send you non-promotional emails, such as those about our ongoing business relations.
+
+Our mobile applications may send you notifications that may include alerts, sounds, and icon badges. These push notifications or in-app messages may include both operational messages and promotional messages regarding products, services and offers that may be of interest to you. These can be configured in Settings.  As with emails, even if you opt out of receiving promotional communications, we may continue to send you non-promotional push notifications, such as those about your use of the applications or our ongoing business relations.  
+
+**Analytics, Advertising, Online Tracking and Your Choices**
+
+Certain advertising networks and exchanges may participate in the Digital Advertising Alliance ("DAA") AdChoices Program and may display an Advertising Option Icon for interest-based ads. You can learn more about the DAA AdChoices Program at  <http://www.youradchoices.com/> and its opt-out program for mobile apps at <http://www.aboutads.info/appchoices>. In addition, certain advertising networks and exchanges may participate in the Network Advertising Initiative (NAI). The NAI has developed a tool that allows consumers to opt out of targeted advertising delivered by NAI members' ad networks. To learn more about opting out of targeted advertising or to use the tool, click here: <http://www.networkadvertising.org/choices/>. Please be aware that, even if you are able to opt out of certain kinds of targeted advertising, you will continue to receive generic ads.  We are not responsible for effectiveness of, or compliance with, any third-parties’ opt-out options or programs or the accuracy of their statements regarding their programs.
+
+### Users Outside the United States
+
+We are based in the United States and the information we collect is governed by U.S. law.  If you are accessing the Service from outside of the United States, please be aware that information collected through the Service will be transferred to, and processed, and used in the United States.  The data protection laws in the United States may be different from those of the country in which you are located. Your use of the Service or providing us with any information therefore constitutes your consent to the transfer to, and processing, usage, sharing and storage of your information, including personal information, in the United States as set forth in this Privacy Policy.  We will take reasonable care to ensure that your data is treated fairly and lawfully.  
+
+### Children
+
+Our Service is intended for a general audience and not directed to children under 13 years of age.  However, some portions of our Service may be intended as appropriate for all ages, or in other words a mixed audience of users under 13 years of age and users 13 and over, or for users under 13 years of age (e.g., a separate ‘Kids” section).  For further information on how we treat Children’s Personal Information in connection with any mixed-use portions of our Service (if any), please see our [Children’s Privacy Notice](http://www.wholefoodsmarket.com/childrens-privacy-notice), which will be deemed incorporated herein for purposes of that part of our Service.
+
+We do not intend to collect personal information as defined by the U.S. Children’s Privacy Protection Act (“COPPA”) (“Children’s Personal Information”) in a manner that is not permitted by COPPA, and for any children’s or mixed-use portions of our Service (if any) we will comply with COPPA.  If you are a parent or guardian and believe we have collected Children’s Personal Information in a manner not permitted by COPPA, please contact us at [privacyandterms@wholefoods.com](mailto:privacyandterms@wholefoods.com) and we will remove such data to the extent required by COPPA.  
+
+Any California or UK residents under the age of eighteen (18) who have registered to use the Service, and who have posted content or information on the Service, can request that such information be removed from the Service by contacting us at [privacyandterms@wholefoods.com](mailto:privacyandterms@wholefoods.com) or by sending a letter to Whole Foods Market Services, Inc., 550 Bowie Street, Austin, TX 78703-4644, United States (Attention: Legal Counsel) or Fresh & Wild Limited, The Barkers Building, 63-97 Kensington High Street, London, W8 5SE, United Kingdom (Attention: Legal Counsel), stating that they personally posted such content or information and detailing where the content or information is posted. We will make reasonable good faith efforts to remove the post from prospective public view or anonymize it so the minor cannot be individually identified. This removal process cannot ensure complete or comprehensive removal. For instance, third-parties may have republished the post and archived copies of it may be stored by search engines and others that we do not control.
+
+Parents may want to consider commercially available parental control protections to limit what minors can access online and/or monitor their minor children’s online activities.  Examples include:  [www.netnanny.com](http://www.netnanny.com/); [www.webwatcher.com](http://www.webwatcher.com/) and [www.sentrypc.com](http://www.sentrypc.com/).  We do not endorse these or other services and are not responsible for them.
+
+### Your California Privacy Rights
+
+California law permits customers in California to request certain details about how their information is shared with third parties and, in some cases, affiliates, for those third parties’ and affiliates’ own direct marketing purposes. Under the law, a business must either provide this information or permit California customers to opt in to, or opt out of, this type of sharing.  
+
+We may from time to time elect to share certain information about you collected by us on the Service with third parties or affiliates for those third parties’ or affiliates’ own direct marketing purposes.  If you are a California resident, you may opt out of such future sharing and/or request information about our compliance with this law by contacting us at [privacyandterms@wholefoods.com](mailto:privacyandterms@wholefoods.com) or by sending a letter to Whole Foods Market Services, Inc., 550 Bowie Street, Austin, TX 78703-4644, United States (Attention: Legal Counsel).  Any such request must include "California Privacy Rights Request" in the first line of the description and include your name, street address, city, state, and ZIP code.  Please note that we are only required to respond to one request per customer each year, and we are not required to respond to requests made by means other than through this email address or mail address.
+
+### Your UK Privacy Rights
+
+Users from the UK have the right to ask us not to process your personal data for marketing purposes. We will inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing by checking certain boxes on the forms we use to collect your data. You can also exercise the right at any time by contacting us at Fresh & Wild Limited, The Barkers Building, 63-97 Kensington High Street, London, W8 5SE, United Kingdom (Attention: Legal Counsel) or [privacyandterms@wholefoods.com](mailto:privacyandterms@wholefoods.com).
+
+Our site may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies. Please check these policies before you submit any personal data to these websites.
+
+The UK Data Protection Act 1998 ("the DPA 1998") gives users from the UK the right to access information held about you. Your right of access can be exercised in accordance with the DPA 1998. Any access request may be subject to a fee of £10 to meet our costs in providing you with details of the information we hold about you.
+
+### Data Security
+
+We take reasonable steps to have physical, electronic and procedural safeguards in place to help protect your Personal Information. This may include, in appropriate circumstances, use of Secure Socket Layer (SSL) encryption. Unfortunately, no data transmission over the Internet can be guaranteed to be 100% secure. As a result, while we strive to protect your Personal Information, we cannot guarantee or warrant the security of any information collected through our Service.
+
+### Changes to This Privacy Policy
+
+We may change this Privacy Policy from time to time. If we make changes, we will notify you by revising the date at the top of this Privacy Policy, and in some cases, we may provide you with additional notice (such as adding a statement to the homepages of our Service or sending you an email notification). If we make any material changes that apply to information previously collected we will notify you by email (sent to the email address specified in your account) or by means of a notice on our Service prior to the change becoming effective. We encourage you to review the Privacy Policy whenever you interact with us to stay informed about our information practices and the ways you can help protect your privacy. 
+
+### Contact Us
+
+We are always interested in what our customers have to say. If you have any questions or concerns about this Privacy Policy, please feel free to contact us at:
+
+For U.S. users:  
+Whole Foods Market Services, Inc.  
+550 Bowie Street  
+Austin, TX 78703-4644, United States  
+(Attention: Legal Counsel)  
+[privacyandterms@wholefoods.com](mailto:privacyandterms@wholefoods.com)
+
+For U.K. users:  
+Fresh & Wild Limited  
+The Barkers Building  
+63-97 Kensington High Street  
+London, W8 5SE, United Kingdom  
+(Attention: Legal Counsel)  
+[privacyandterms@wholefoods.com](mailto:privacyandterms@wholefoods.com)
+
+[The prior policy is available here](http://www.wholefoodsmarket.com/20131104privacy-policy-archived).
