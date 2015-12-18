@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the finspi.com privacy policy that was archived on 2015-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150423005755id_/http%3A//finspi.com/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the finspi.com privacy policy that was archived on 2015-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151218161155id_/http%3A//finspi.com/page/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy
 
@@ -34,7 +34,7 @@ Sometimes our partners may let us collect information when you use their service
 
 
 
-**How do we use the information we collect?**
+ **How do we use the information we collect?**
 
 We use the information we collect to provide our products to you and make them better, develop new products, and protect FINSPI and our users. For example, we may log how often people use two different versions of a product, which can help us understand which version is better.
 
@@ -58,7 +58,7 @@ We also use the information we collect to:
 
 The information we collect may be “personally identifiable” (meaning it can be used to specifically identify you as a unique person) or “non-personally identifiable” (meaning it can’t be used to specifically identify you). We use both types of information, and combinations of both types, as described above. We may use or store information wherever FINSPI does business, including countries outside your own.
 
-**What choices do you have about your information?**
+ **What choices do you have about your information?**
 
 Our goal is to give you simple and meaningful choices over your information. If you have a FINSPI account, many of the choices you have on FINSPI are built directly into the product or your account settings. For example, you can:
 
@@ -88,7 +88,7 @@ You may have choices available to you through the device or software you use to 
 
 To learn more about these choices, please see the information provided by the device or software provider.
 
-**How and when do we share information?**
+ **How and when do we share information?**
 
 FINSPI is a tool to help people share their experience and interests and our main goal is to help our users to meet new people according to their current interests. When you create public boards and add content, anyone can view them. You may also provide us with profile page information that anyone can view. The other limited instances where we may share your personal information include:
 
@@ -107,10 +107,10 @@ FINSPI is a tool to help people share their experience and interests and our mai
 
 We may also share aggregated or non-personally identifiable information with our partners, advertisers, or others. For example, we may tell an advertiser on FINSPI how many people add something they shared, or the percentage of people who click on a content after viewing it.
 
-**Our policy on children’s information**
+ **Our policy on children’s information**
 
 FINSPI is not directed to children under 13. If you learn that your minor child has provided us with personal information without your consent, please contact us.
 
-**How do we make changes to this policy?**
+ **How do we make changes to this policy?**
 
 We may change this policy from time to time, and if we do we’ll post any changes on this page. If you continue to use FINSPI after those changes are in effect, you agree to the revised policy. If the changes are significant, we may provide more prominent notice or get your consent as required by law.
