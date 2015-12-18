@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the psionline.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607194818id_/http%3A//corporate.psionline.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the psionline.com privacy policy that was archived on 2015-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151218085028id_/http%3A//corporate.psionline.com/about/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - PSI Services LLC
+# Privacy Policy | PSI Services LLC
 
 PSI Services LLC (“PSI”) recognizes that its customers, exam candidates, and PSI website (the “Site”) users value their privacy. PSI strives to protect personal information collected through its business or generated through the Site, and maintained in PSI’s business files, records, databases, or the Site (the “Files”). 
 
