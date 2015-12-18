@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the losangeles.com privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317221940id_/http%3A//www.losangeles.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the losangeles.com privacy policy that was archived on 2015-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151218092725id_/http%3A//www.losangeles.com/privacy.html) for the most accurate reproduction.*
 
 # Default site title
 
