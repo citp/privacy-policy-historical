@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the freearticlecollection.com privacy policy that was archived on 2013-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131228083720id_/http%3A//secure.luckyregister.com/Agreements/Privacy.aspx%3Fprog_id%3DLuckyregister) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freearticlecollection.com privacy policy that was archived on 2015-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151218215342id_/http%3A//secure.luckyregister.com/Agreements/Privacy.aspx%3Fprog_id%3DLuckyregister) for the most accurate reproduction.*
 
 # LuckyRegister - Cheap Domain Registration, Domain Hosting Services - Privacy Policy | LuckyRegister - Cheap Domain Registration, Domain Hosting Services - Respects Your Privacy
 
-**Last Revised: July 22, 2013**
+**Last Revised: March 10, 2015**
 
 LuckyRegister - Cheap Domain Registration, Domain Hosting Services - Respects your privacy
 
@@ -34,13 +34,15 @@ We follow generally accepted standards to protect the personal information submi
 
 **Sending Emails**
 
-We use emails to communicate with you, to confirm your placed orders, and to send information that you have requested. We also provide email links, as on our ["About Us"](https://secure.luckyregister.com/gdshop/about.asp?prog_id=Luckyregister) page, to allow you to contact us directly. We strive to promptly reply to your messages.
+We use emails to communicate with you, to confirm your placed orders, and to send information that you have requested. We also provide email links, as on our ["About Us"](https://www.securepaynet.net/gdshop/about.asp?prog_id=Luckyregister) page, to allow you to contact us directly. We strive to promptly reply to your messages.
 
 The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
 
 **Third Party Service Providers**
 
 We may at times provide information about you to third parties to provide various services on our behalf, such as processing credit card payments, serving advertisements, conducting contests or surveys, performing analyses of our products or customer demographics, shipping of goods or services, and customer relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
+
+We may also use a tool called TruEffect to place a cookie on our behalf.  This cookie collects anonymous data that helps us conduct targeted advertising and improve the performance of our advertising on other websites.  To opt-out of our use of TruEffect, click [here](http://media.godaddy.com/optout.html).
 
 In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel GIF or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
 
@@ -84,7 +86,7 @@ When your LuckyRegister - Cheap Domain Registration, Domain Hosting Services - a
 
 You may alter, update or deactivate your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
 
-  1. You may visit your online [Account Manager](https://secure.luckyregister.com/gdshop/shopper_lookup.asp?prog_id=Luckyregister)
+  1. You may visit your online Account
   2. You may send mail to LuckyRegister - Cheap Domain Registration, Domain Hosting Services - at the following postal address:   
 14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
 
