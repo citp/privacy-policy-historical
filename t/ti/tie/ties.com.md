@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ties.com privacy policy that was archived on 2015-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150423165514id_/http%3A//www.ties.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ties.com privacy policy that was archived on 2015-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151218020305id_/http%3A//www.ties.com/privacy-policy) for the most accurate reproduction.*
 
-# Ties.com - Privacy Policy
+# Privacy Policy | Ties.com
 
 At Ties.com we are committed to ensuring your privacy as a customer. We do not sell, trade, or rent your personal information to others. We are dedicated not only providing you, our customer, with the best possible shopping experience, but also to ensuring your complete privacy. Information we collect from you is used to process your orders with us and provide for you the best possible shopping experience. 
 
@@ -60,7 +60,7 @@ We will send you e-mail messages during the processing of your order to verify y
 
 ### Contacting Us
 
-You may contact us with any concerns you may have at 800-289-2843 or via e-mail at customerservice@ties.com. You may also send us correspondence via postal mail to the following address: 
+You may contact us with any concerns you may have at 1 (800) 289-2843 or via e-mail at customerservice@ties.com. You may also send us correspondence via postal mail to the following address: 
 
 Ties.com Customer Service  
 10372 Stanford Ave, Suite Q  
