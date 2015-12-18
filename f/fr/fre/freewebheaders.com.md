@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freewebheaders.com privacy policy that was archived on 2015-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150415035415id_/http%3A//www.freewebheaders.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freewebheaders.com privacy policy that was archived on 2015-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151218154150id_/http%3A//www.freewebheaders.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Free Web Headers
 
@@ -18,6 +18,6 @@ Note: If you have any questions about this privacy statement, the practices of t
 
  
 
- _Dear visitor, if  you download and use one of our headers on your website, or if you find our Website useful, it is always greatly appreciated to [link to us](http://www.freewebheaders.com/link-to-us/ "Link to us") OR you may consider making a [donation](http://www.freewebheaders.com/donate/ "Thank you for your donation and your kind support!") to the author to help support future updates and development .. Thank you!_
+_Dear visitor, if  you download and use one of our headers on your website, or if you find our Website useful, it is always greatly appreciated to [link to us](http://www.freewebheaders.com/link-to-us/ "Link to us") OR you may consider making a [donation](http://www.freewebheaders.com/donate/ "Thank you for your donation and your kind support!") to the author to help support future updates and development .. Thank you!_
 
  
