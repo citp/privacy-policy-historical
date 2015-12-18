@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tellymaza.com privacy policy that was archived on 2015-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150507080933id_/http%3A//tellymaza.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tellymaza.com privacy policy that was archived on 2015-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151218155945id_/http%3A//tellymaza.com/Privacy) for the most accurate reproduction.*
 
-# Privacy Policy of TellyMaza
+# Privacy Policy of Apne TV
 
 We are committed to ensure that privacy of a user is never compromised at TellyMaza. We take your right to privacy seriously, and wants you to feel comfortable using this web site. This privacy policy enlightens you with the personally-identifiable information (referred to as "data" below) that may be collected by this site, please read carefully and also free to contact us at _ **contact@apne.tv**_ for any additional questions.. This policy does not apply to other entities that are not owned or controlled by the site's owner, nor does it apply to persons that are not employees or agents of this website.
 
