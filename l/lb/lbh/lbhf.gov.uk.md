@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lbhf.gov.uk privacy policy that was archived on 2015-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150617000621id_/http%3A//www.lbhf.gov.uk/Directory/Links/40888_Privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lbhf.gov.uk privacy policy that was archived on 2015-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151218032213id_/http%3A//www.lbhf.gov.uk/Directory/Links/40888_Privacy_policy.asp) for the most accurate reproduction.*
 
 # Privacy policy and cookies - Hammersmith & Fulham
 
