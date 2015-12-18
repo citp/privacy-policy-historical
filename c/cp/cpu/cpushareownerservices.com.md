@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cpushareownerservices.com privacy policy that was archived on 2014-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141219010808id_/http%3A//www.computershare.com/us/help/Pages/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cpushareownerservices.com privacy policy that was archived on 2015-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151218210622id_/http%3A//www.computershare.com/us/help/Pages/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | Computershare United States
 
@@ -20,6 +20,10 @@ Please note that the websites to which this site may be linked may also make use
 
 Currently, Computershare does not respond to “Do Not Track” signals from browsers.
 
+If you access an online service maintained by Computershare or one of its subsidiaries (for example, Investor Center, which is maintained by Computershare Inc.) we may use a tool called “Google Analytics” which transmits website traffic data to Google servers in the United States. Google Analytics does not identify individual users or associate your IP address with any other data held by Google. We use the information we get from Google Analytics to help us understand website traffic and webpage usage. We do not combine the information collected through the use of Google Analytics with personally identifiable information. Google’s ability to use and share information collected by Google Analytics is restricted by the Google Analytics Terms of Use and the Google Privacy Policy. You can opt out of Google Analytics if you disable or refuse the cookie, disable JavaScript, or use the opt-out service provided by Google.
+
+We may share the information we collect via cookies and Google Analytics with our related entities within the Computershare Group including entities located outside of the United States who assist us in supplying our services including through data storage solutions, back-up services and IT support. These entities are generally located in Canada, New Zealand, the United Kingdom and Australia. We may also disclose it to others if required to do so by law.
+
 #### Third Party Collection of Personal Information
 
 Computershare does not permit third party collection of your personal information on this site. Links to third party websites may be provided on this site for informational or other purposes. Computershare is not responsible for any personal information you may choose to submit to a third party website accessed from this site.
@@ -40,4 +44,4 @@ This Statement only applies to Computershare websites and does not apply to any 
 
 Computershare may change this privacy policy from time to time. Each time you visit the website, please see the “Effective Date” to determine if it has been revised since the last time you entered the site. A “Revised” notation will serve as notice to you that a change has been made.
 
-Revised January 10, 2014
+Revised October 7, 2015
