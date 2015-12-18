@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the bmc-switzerland.com privacy policy that was archived on 2015-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150619033244id_/http%3A//www.bmc-switzerland.com/us-en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bmc-switzerland.com privacy policy that was archived on 2015-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151218122209id_/http%3A//www.bmc-switzerland.com/us-en/privacy) for the most accurate reproduction.*
 
 # Data privacy statement - BMC Switzerland
 
-The company **BMC Switzerland AG** , based in Grenchen (Switzerland), operates the website www.bmc-switzerland.com and the services offered there for the companies comprising the entire BMC group (hereinafter referred to as BMC). On this basis, BMC is responsible for the collection, processing, and usage of the user's personal information, as well as for the compliance of said data processing with Swiss law. 
+The company **BMC Switzerland AG** , based in Grenchen (Switzerland), operates the internet domain bmc-switzerland.com and the services offered there for the companies comprising the entire BMC group (hereinafter referred to as BMC). On this basis, BMC is responsible for the collection, processing, and usage of the user's personal information, as well as for the compliance of said data processing with Swiss law. 
 
 Based on Article 13 of the Swiss Federal Constitution and the federal provisions on data protection (Data Protection Act, [Datenschutzgesetz, DSG]), every person is entitled to protection of their privacy, as well as the protection against the misuse of their personal data. 
 
@@ -63,7 +63,7 @@ Furthermore, personal information may be disclosed to website hosting companies 
 
 BMC shall provide users access to the personal information BMC maintains about them so long as BMC has access to that information in a legible format. BMC shall also work with users to correct any personal information should it be inaccurate, or to delete it completely. It should be noted that for corrections and deletions, a written request must be sent to BMC headquarters in Grenchen (Switzerland), along with appropriate proof of identity.
 
-En estrecha cooperación con los proveedores del alojamiento web de BMC, BMC se esfuerza por proteger sus bases de datos lo mejor posible contra acceso externo, pérdida, malos usos o falsificación. BMC advierte de que la transferencia de datos por Internet (por ejemplo, al usar comunicación por correo electrónico o similar) puede estar expuesta a agujeros de seguridad. Una protección total de los datos contra el acceso por parte de terceros no es posible. Por tanto, la transmisión de datos personales se realiza bajo tu propio riesgo.
+BMC shall provide users access to the personal information BMC maintains about them so long as BMC has access to that information in a legible format. BMC shall also work with users to correct any personal information should it be inaccurate, or to delete it completely. It should be noted that for corrections and deletions, a written request must be sent to BMC headquarters in Grenchen (Switzerland), along with appropriate proof of identity.
 
 By registering for a BMC newsletter at [www.bmc-switzerland.com](http://www.bmc-switzerland.com/us-en/ "Home"), the user has agreed for BMC to process their registered personal data for promotion activities, such as sending out emails of a promotional nature, delivering customised advertising, etc. 
 
