@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wysada.com privacy policy that was archived on 2015-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150619220756id_/http%3A//wysada.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wysada.com privacy policy that was archived on 2015-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151218053510id_/http%3A//wysada.com/en/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - WYSADA
 
@@ -32,7 +32,7 @@ Any of the information we collect from you may be used in one of the following w
 
 
 
-Note: If at any time you would like to unsubscribe from Wysada emails, there are detailed unsubscribe instructions at the bottom of each email. 
+Note: If at any time you would like to unsubscribe from Wysada emails, there is a "one click unsubscribe" button vailable at every Wysada email. 
 
 **How we protect your information:**   
 We implement a variety of security measures to maintain the safety of your personal information, when you place an order with us, or enter, submit, or access your personal information. 
