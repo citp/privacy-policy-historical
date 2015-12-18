@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the skyeurope.com privacy policy that was archived on 2015-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150617025524id_/http%3A//www.skyeurope.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skyeurope.com privacy policy that was archived on 2015-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151218124339id_/http%3A//www.skyeurope.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Skyeurope - Privacy Policy
 
