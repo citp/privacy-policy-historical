@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eforchina.com privacy policy that was archived on 2015-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150619130011id_/http%3A//www.eforchina.com/base/doc%21view.do%3Fcode%3DReturn) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eforchina.com privacy policy that was archived on 2015-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151218235609id_/http%3A//www.eforchina.com/base/doc%21view.do%3Fcode%3DReturn) for the most accurate reproduction.*
 
 # eForChina - Help Center
 
