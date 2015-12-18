@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bluetoothinstaller.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608080409id_/http%3A//bluetoothinstaller.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bluetoothinstaller.com privacy policy that was archived on 2015-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151218085219id_/http%3A//bluetoothinstaller.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy policy of BluetoothInstaller.com
 
@@ -22,7 +22,7 @@ Note that you can change your browser settings to disable cookies if you have pr
 
 #### Special Note About Google Advertising
 
-Any advertisements served by Google, Inc., and affiliated companies may be controlled using cookies. These cookies allow Google to display ads based on your visits to this site and other sites that use Google advertising services. Learn how to [opt out of Google's cookie usage](http://www.google.com/privacy_ads.html). As mentioned above, any tracking done by Google through cookies and other mechanisms is subject to Google's own privacy policies. 
+Any advertisements served by Google, Inc., and affiliated companies may be controlled using cookies. These cookies allow Google to display ads based on your visits to this site and other sites that use Google advertising services. Learn [How Google uses data when you use its partners' sites or apps.](http://www.google.com/intl/en/policies/privacy/partners/). As mentioned above, any tracking done by Google through cookies and other mechanisms is subject to Google's own privacy policies. 
 
 #### Contact Information
 
@@ -32,5 +32,5 @@ Concerns or questions about this privacy policy can be directed to [info@bluetoo
 
 [Directory of Bluetooth Resources](https://web.archive.org/bluetooth-resources/) | [Bluetooth Command Line Tools](https://web.archive.org/bluetooth-command-line-tools/) | [Bluetooth Stack Switcher](http://bluetoothstackswitcher.com/)
 
-[Home](https://web.archive.org/) | [Privacy policy](https://web.archive.org/web/20150608080409id_/http%3A//bluetoothinstaller.com/privacy.html) | [Terms and conditions](https://web.archive.org/web/20150608080409id_/http%3A//bluetoothinstaller.com/terms.html)  
-Copyright © 2009-2014 BluetoothInstaller.com
+[Home](https://web.archive.org/) | [Privacy policy](https://web.archive.org/web/20151218085219id_/http%3A//bluetoothinstaller.com/privacy.html) | [Terms and conditions](https://web.archive.org/web/20151218085219id_/http%3A//bluetoothinstaller.com/terms.html)  
+Copyright © 2009-2015 BluetoothInstaller.com
