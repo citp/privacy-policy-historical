@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the taftclothing.com privacy policy that was archived on 2015-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150511144311id_/http%3A//taftclothing.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the taftclothing.com privacy policy that was archived on 2015-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151218162451id_/http%3A//taftclothing.com/pages/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | TAFT
+# Taft Clothing Privacy Policy – TAFT
 
 **Taft Clothing LLC Privacy Policy**
 
