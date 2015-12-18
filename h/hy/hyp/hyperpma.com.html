@@ -1,0 +1,816 @@
+<!--The following is the downloaded HTML source of the hyperpma.com privacy policy that was archived on 2015-12-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151218070917id_/http%3A//hyperpma.com/privacy) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+
+
+
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+
+
+
+        <meta name="description" content="HyperPMA.com | Intelligent Project Planning &amp; Management">
+
+        <meta name="keywords" content="HyperPMA.com | Intelligent Project Planning &amp; Management">
+
+        <title>HyperPMA.com | Intelligent Project Planning &amp; Management</title>
+
+
+
+        <link href="http://hyperpma.com/css/front/reset.css" rel="stylesheet" type="text/css">
+
+                	<link href="http://hyperpma.com/css/front/my_styles.css" rel="stylesheet" type="text/css">	
+        
+        <link href="http://hyperpma.com/css/front/popover.css" rel="stylesheet" type="text/css">
+
+		<link rel="stylesheet" type="text/css" href="http://hyperpma.com/js/jquery-ui-1.8.10.custom.css">
+
+        <link rel="stylesheet" type="text/css" href="http://hyperpma.com/css/validationEngine.jquery.css">	
+
+
+
+        <script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">
+
+            var site_url = 'http://hyperpma.com/';
+
+        </script>
+
+
+
+        <script type="text/javascript" src="http://hyperpma.com/js/jquery.min.js"></script>
+
+		<script type="text/javascript" src="http://hyperpma.com/js/jquery-ui-1.8.10.custom.min.js"></script>
+
+        <script type="text/javascript" src="http://hyperpma.com/js/jquery.simplemodal.js"></script>
+
+        <script type="text/javascript" src="http://hyperpma.com/js/jquery.blockUI.js"></script>
+
+		<script type="text/javascript" src="http://hyperpma.com/js/fancybox/jquery.fancybox-1.3.4.pack.js"></script>
+
+        <link href="http://hyperpma.com/js/fancybox/jquery.fancybox-1.3.4.css" rel="stylesheet" type="text/css">
+
+
+
+
+
+        <script src="http://hyperpma.com/js/jquery.validationEngine-en.js" type="text/javascript" charset="utf-8"></script>
+
+        <script src="http://hyperpma.com/js/jquery.validationEngine.js" type="text/javascript" charset="utf-8"></script>        
+
+		
+
+        <script type="text/javascript" src="http://hyperpma.com/js/front.js"></script>
+
+		<script type="text/javascript" src="http://hyperpma.com//js/ajaxfileupload.js"></script>
+		<script type="text/javascript" src="https://js.stripe.com/v1/"></script>
+		
+
+        <script type="text/javascript">
+
+		function openForm(url) 
+
+		{ 
+
+			$.ajax({
+
+		
+
+			   type: "POST",
+
+		
+
+			   url: url,
+
+		
+
+			   success: function(msg){
+
+				
+
+				$("#basic-modal-content").html(msg);
+
+				
+
+				var maskHeight = $(document).height();    
+
+				var maskWidth = $(window).width();  
+
+				$('#gray_bak').css({height:maskHeight, width:maskWidth}).show();  
+
+				$('#basic-modal-content').modal();
+
+				
+
+				}
+
+		
+
+			 });	   
+
+		}
+
+		
+
+		
+
+		function closePP()
+
+		{
+
+			$('#gray_bak').hide();
+
+			$.modal.close();
+
+		}
+
+			
+
+		</script>
+        
+        
+        <script src="http://hyperpma.com/js/tabcontent.js" type="text/javascript"></script>
+<!--
+<script src="http://hyperpma.com/js/jquery.customSelect.min.js"></script>
+<script type="text/javascript">
+
+$(document).ready(function(){
+$('form select').customSelect();
+$( window ).resize(function() {
+	var customWidth = $('span.customSelect').innerWidth();
+	$('select.hasCustomSelect').css('width', customWidth + 'px');
+});
+});
+</script>
+-->
+    </head>
+
+
+
+
+
+
+
+    <body class="home-new">
+
+<div id="gray_bak" style="display:none; position:absolute; margin: auto; top: 0; left: 0; width: 100%; height: 100%; z-index: 9;background-color: #7f7f7f; opacity:0.8; filter: alpha(opacity=80);overflow:auto" onclick="closePP();">&nbsp;</div>
+
+<div id="basic-modal-content" style="display:none;padding:8px; "></div>
+
+<!-- main wrapper starts here -->
+
+<div style="display:none">
+
+	<div id="modal_message"></div>
+
+	<div id="modal_message1"></div>
+
+	<a id="message_pp" href="#modal_message">View Message</a>
+
+	<a id="confirm_pp" href="">View Message</a>
+
+</div>
+
+     
+
+                <!-- header container starts here -->
+<script type="text/javascript">
+    function headerLogin(){
+        var err = '';
+        var email = $("#login_email").val();
+        var password = $("#login_password").val();
+    
+        if (email == '' || password == ''){
+            err = 'Please enter your email address and password!';
+        }
+    
+        if (err == ''){
+            //lets send the form through ajax
+            $.ajax({
+                type: "POST",
+                url: "http://hyperpma.com/login/in",
+                dataType: "json",
+                data: {email: email, password: password},
+                success: function(msg){				 
+                    if (msg.status == 'FAILED') {
+                       alert(msg.errors);	                        
+                   } else if (msg.status == 'SUCCESS') {	
+                       window.location = 'http://hyperpma.com/login/redirect';
+                   }   
+                }
+            });
+        } else {
+            alert(err);
+        }
+    
+    }
+    </script>
+   <script type="text/javascript">
+    function headerForgot(){
+        var err = '';
+        var email = $("#forgot_email").val();       
+    
+        if (email == ''){
+            err = 'Please enter your email address!';
+        }
+    
+        if (err == ''){
+            //lets send the form through ajax
+            $.ajax({
+                type: "POST",
+                url: "http://hyperpma.com/login/forgot",
+                dataType: "html",
+                data: {email: email},
+                success: function(msg){				 
+                    if (msg == 'FAILED') {				 	
+                        alert('Email address not found!');	                        
+                    } else if (msg == 'SUCCESS') {	
+                        alert('A new password has been sent to your email address!');
+						$('#forgot_cont').toggle(); 
+						$('#login_cont').toggle(); 						
+                    }
+    
+                }
+            });
+        } else {
+            alert(err);
+        }
+    
+    }
+    </script>
+    
+<div id="header_cont">
+  <div id="header">
+    <div class="left" id="logo"> <a href="http://hyperpma.com/"><img src="http://hyperpma.com/images/front/logo.png" alt="Advanced Project Management by developers. for developers." title="Advanced Project Management by developers. for developers."></a> </div>
+    <div class="header-icons" onclick="window.location='http://hyperpma.com/signup'" style="cursor:pointer">
+   <div class="left header-trial"><span>Free</span>15 day Trial!</div>
+<img src="http://hyperpma.com/images/front/icon-satisfaction.png" width="83" height="84" alt="" class="left"></div>
+    
+    <!-- end left container here -->
+    
+    <div class="right" id="right_header">
+      <div class="right" id="time_cont">December 18, 2015 <span>01:09:17</span></div>
+      <div class="clear"></div>
+      
+      
+      
+<div id="login_cont">
+
+	<script type="text/javascript">
+
+    function headerLogin(){
+
+        var err = '';
+
+        var email = $("#login_email").val();
+
+        var password = $("#login_password").val();
+
+    
+
+        if (email == '' || password == ''){
+
+            err = 'Please enter your email address and password!';
+
+        }
+
+    
+
+        if (err == ''){
+
+            //lets send the form through ajax
+
+            $.ajax({
+
+                type: "POST",
+
+                url: "http://hyperpma.com/login/in",
+
+                dataType: "json",
+
+                data: {email: email, password: password},
+
+                success: function(msg){				 
+
+                    if (msg.status == 'FAILED') {
+                        alert(msg.errors);	                        
+                    } else if (msg.status == 'SUCCESS') {	
+                        window.location = 'http://hyperpma.com/login/redirect';
+                    }   
+
+                }
+
+            });
+
+        } else {
+
+            alert(err);
+
+        }
+
+    
+
+    }
+
+    </script>
+
+    <form onsubmit="headerLogin(); event.returnValue=false; return false;" method="post" action="">
+
+        <div class="left">
+
+            <div class="header_form"><span>Email: </span><input name="email" id="login_email" type="text" class="h_input" value=""></div>
+
+            <div class="header_form" style="padding-bottom:4px;"><span>Password: </span><input name="password" id="login_password" type="password" class="h_input" value=""></div>
+
+        </div>
+
+        <div class="left" id="login_btn"><input name="" type="image" src="http://hyperpma.com/images/front/login.gif"></div>
+
+    </form>
+
+    <div class="clear"></div>
+
+    <div id="header_form_links" align="right"><a href="http://hyperpma.com/signup">Register New</a> | <a href="javascript:void(0);" onclick="$('#login_cont').toggle(); $('#forgot_cont').toggle(); ">Forgot Password?</a></div>
+
+</div>	<!-- end login container here -->
+
+
+
+<!-- forgot container starts here -->
+
+<div class="right" id="forgot_cont" style="display:none">
+
+<script type="text/javascript">
+
+    function headerForgot(){
+
+        var err = '';
+
+        var email = $("#forgot_email").val();       
+
+    
+
+        if (email == ''){
+
+            err = 'Please enter your email address!';
+
+        }
+
+    
+
+        if (err == ''){
+
+            //lets send the form through ajax
+
+            $.ajax({
+
+                type: "POST",
+
+                url: "http://hyperpma.com/login/forgot",
+
+                dataType: "html",
+
+                data: {email: email},
+
+                success: function(msg){				 
+
+                    if (msg == 'FAILED') {				 	
+
+                        alert('Email address not found!');	                        
+
+                    } else if (msg == 'SUCCESS') {	
+
+                        alert('A new password has been sent to your email address!');
+
+						$('#forgot_cont').toggle(); 
+
+						$('#login_cont').toggle(); 						
+
+                    }
+
+    
+
+                }
+
+            });
+
+        } else {
+
+            alert(err);
+
+        }
+
+    
+
+    }
+
+    </script>
+
+    <form onsubmit="headerForgot(); event.returnValue=false; return false;" method="post" action="">
+
+        <div class="left">
+
+        <p>Forgotten your password?</p>
+
+        <div class="header_form"><span>Email: </span><input name="forgot_email" id="forgot_email" type="text" class="h_input"></div>
+
+        </div>
+
+        <div class="left" id="login_btn" style="text-align:center"><input name="" type="image" src="http://hyperpma.com/images/front/submit.gif"><br><a href="javascript:void(0);" onclick="$('#login_cont').toggle(); $('#forgot_cont').toggle();" style="color:#00b3e3">Cancel</a></div>
+
+        </form></div>
+
+    
+
+<div class="clear"></div>
+
+<!-- end forgot container here -->
+
+      
+      
+      
+    </div>
+    <!-- end right header container here -->
+    
+    <div class="clear"></div>
+  </div>
+  <!-- header contents ends here --> 
+  
+</div>
+<!-- header container ends here -->
+
+<div id="main_nav_cont" class="home-nav">
+  <div id="nav_cont">
+    <div id="nav" class="left">
+      <ul>
+        <li><a href="http://hyperpma.com/home#top">Home</a></li>
+        <li><a href="http://hyperpma.com/home#demo">Schedule a Demo</a></li>
+        <li><a href="http://hyperpma.com/home#review">Reviews</a></li>
+        <li><a href="http://hyperpma.com/home#features">Features &amp; Benefits</a></li>
+        <li><a href="http://hyperpma.com/home#roles">Roles and Methods</a></li>
+        <li><a href="javascript:void(0)" onclick="showSupportForm();">Support</a></li>
+        <li><a href="http://hyperpma.com/blog">Blog</a></li>
+      </ul>
+      <div class="clear"></div>
+    </div>
+    <!-- end left container here -->
+    
+    <div class="right" id="social_cont"> <a href="https://www.facebook.com/hyperpma" target="_blank"><img src="http://hyperpma.com/images/front/socialcontant-1.png" alt="facebook" title="facebook"></a> <a href="https://twitter.com/gethyperpma" target="_blank"><img src="http://hyperpma.com/images/front/socialcontant-2.png" alt="twitter" title="twitter"></a> <a href="#"><img src="http://hyperpma.com/images/front/socialcontant-3.png" alt="linkedin" title="linkedin"></a> <a target="_blank" href="https://plus.google.com/b/109973216170280273290/109973216170280273290/posts"><img src="http://hyperpma.com/images/front/socialcontant-4.png" alt="Google+" title="Google+"></a></div>
+    <!-- end right container here -->
+    
+    <div class="clear"></div>
+  </div>
+  <!-- end nav contents here --> 
+  
+</div>
+<!-- end nav container here -->
+<div class="grayBG">
+
+
+                
+
+                
+
+
+                <style>
+h3{
+color: #00005a;
+font-family: "calibrilight";
+font-size: 24px;
+letter-spacing: -1px;
+margin: 0;
+padding-bottom: 5px;	
+font-weight:bold
+}
+
+h4{
+	color: #00005a;
+font-family: "calibrilight";
+letter-spacing: -1px;
+margin: 0;
+padding-bottom: 15px;	
+font-weight:bold
+}
+
+p{
+	padding:0px 0px 15px 0px;	
+}
+</style>
+
+<div id="page_body">
+
+<h2>Privacy Policy</h2>
+<h4>Effective:  April 29, 2015</h4>
+
+<h3>General</h3>
+<p>At HyperPMA Corporation, we respect your need for online privacy and protect any Personal Information that you may share with us, in an appropriate manner. Our practice with respect to use of your Personal Information is as set forth below in this Privacy Policy Statement. As a condition to use of HyperPMA Services, you consent to the terms of the Privacy Policy Statement as it may be updated from time to time. This Privacy Policy Statement applies exclusively to www.HyperPMA.com.  If you have questions or complaints regarding our privacy policy or practices, please contact us at admin@HyperPMAcorp.com or you can reach HyperPMA.</p>
+
+<h3>Children's Online Privacy Protection</h3>
+<p>HyperPMA does not knowingly collect Personal Information from users who are under 13 years of age.</p>
+
+<h3>Information Recorded and Use:</h3>
+
+<h3>Personal Information</h3>
+<p>During the Registration Process for creating a user account, we request for your name and email address. You will also be asked to choose a unique username and a password, which will be used solely for the purpose of providing access to your user account. Upon registration you will have the option of choosing a security question and an answer to the security question, which if given, will be used solely for the purpose of resetting your password. Your name and email address will be used to inform you regarding new services, releases, upcoming events and changes in this Privacy Policy Statement.</p>
+
+<p>HyperPMA will have access to third party personal information provided by you as part of using HyperPMA Services such as contacts in your HyperPMA Mail account. This information may include third party names, email addresses, phone numbers and physical addresses and will be used for servicing your requirements as expressed by you to HyperPMA and solely as part and parcel of your use of HyperPMA Services. We do not share this third party personal information with anyone for promotional purposes, nor do we utilize it for any purposes not expressly consented to by you. When you elect to refer friends to the website, we request their email address and name to facilitate the request and deliver a one time email. Your friend may contact us at admin@HyperPMAcorp.com to request that we remove this information from our database.</p>
+
+<p>We post user testimonials on our website. These testimonials may include names and other Personal Information and we acquire permission from our users prior to posting these on our website. HyperPMA is not responsible for the Personal Information users elect to post within their testimonials.</p>
+
+<h3>Usage Details</h3>
+<p>Your usage details such as time, frequency, duration and pattern of use, features used and the amount of storage used will be recorded by us in order to enhance your experience of the HyperPMA Services and to help us provide you the best possible service.</p>
+
+
+<h3>Contents of your User Account</h3>
+<p>We store and maintain files, documents, to-do lists, emails and other data stored in your user account at our facilities in the United States. In order to prevent loss of data due to errors or system failures, we also keep backup copies of data including the contents of your user account. Hence your files and data may remain on our servers even after deletion or termination of your user account. We may retain and use your Personal Information and data as necessary to comply with our legal obligations, resolve disputes, and enforce our rights. We assure you that the contents of your user account will not be disclosed to anyone and will not be accessible even to employees of HyperPMA except in circumstances specifically mentioned in this Privacy Policy Statement and Terms of Services. We also do not scan the contents of your user account for serving targeted advertisements.</p>
+
+<h3>Payment Information</h3>
+<p>In case of services requiring payment, we request credit card or other payment account information, which will be used solely for processing payments. Your financial information will not be stored by us except for the name and address of the card holder, the expiry date and the last four digits of the Credit Card number. Subject to your prior consent and where necessary for processing future payments, your financial information will be stored in encrypted form on secure servers of our reputed Payment Gateway Service Provider who is beholden to treating your Personal Information in accordance with this Privacy Policy Statement.</p>
+
+<h3>Visitor Details</h3>
+<p>We use the Internet Protocol address, browser type, browser language, referring URL, files accessed, errors generated, time zone, operating system and other visitor details collected in our log files to analyze the trends, administer the website, track visitor's movements and to improve our website. We link this automatically collected data to other information we collect about you.</p>
+
+<h3>Cookies and Other Tracking Technologies</h3>
+<p>We use temporary and permanent cookies to enhance your experience of our HyperPMA Services. Temporary cookies will be removed from your computer each time you close your browser. By selecting ‘keep me signed-in’ option in HyperPMA Services, a permanent cookie will be stored in your computer and you will not be required to sign-in by providing complete login information each time you return to our website. If you have turned cookies off, you may not be able to use registered areas of the website. We tie cookie information to your email address when you elect to remain logged in so as to maintain and recall your preferences within the website.</p>
+
+<p>Technologies such as: cookies, beacons, tags and scripts are used by HyperPMA Corporation and our partners [such as reseller partners], affiliates, or service providers [such as analytics service providers]. These technologies are used in analyzing trends, administering the site, tracking users’ movements around the site and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis.</p>
+
+<p>We use Local Storage Objects (LSOs) such as HTML5 to store content information and preferences. Third parties with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity use LSOs such as HTML 5 to collect and store information. Various browsers may offer their own management tools for removing HTML5 LSOs.</p>
+
+<h3>Links from our website</h3>
+<p>Some pages of our website contain external links. You are advised to verify the privacy practices of such other websites. We are not responsible for the manner of use or misuse of information made available by you at such other websites. We encourage you not to provide Personal Information, without assuring yourselves of the Privacy Policy Statement of other websites.</p>
+
+<h3>Federated Authentication</h3>
+<p>You can log in to our site using federated authentication providers such as Facebook Connect. These services will authenticate your identity and provide you the option to share certain Personal Information with us such as your name and email address to pre-populate our sign up form.</p>
+
+<h3>With whom we share Information</h3>
+<p>We may need to share your Personal Information and your data to our affiliates, resellers, service providers and business partners solely for the purpose of providing HyperPMA Services to you. The purposes for which we may disclose your Personal Information or data to our service providers may include, but are not limited to, data storage, database management, web analytics and payment processing. These service providers are authorized to use your Personal Information or data only as necessary to provide these services to us. In such cases HyperPMA will also ensure that such affiliates, resellers, service providers and business partners comply with this Privacy Policy Statement and adopt appropriate confidentiality and security measures. We will obtain your prior specific consent before we share your Personal Information or data to any person outside HyperPMA for any purpose that is not directly connected with providing HyperPMA Services to you. We will share your Personal Information with third parties only in the ways that are described in this Privacy Policy Statement. We do not sell your Personal Information to third parties. We may share generic aggregated demographic information not linked to any Personal Information regarding visitors and users with our business partners and advertisers. Please be aware that laws in various jurisdictions in which we operate may obligate us to disclose user information and the contents of your user account to the local law enforcement authorities under a legal process or an enforceable government request. In addition, we may also disclose Personal Information and contents of your user account to law enforcement authorities if such disclosure is determined to be necessary by HyperPMA in our sole and absolute discretion for protecting the safety of our users, employees, or the general public. If HyperPMA is involved in a merger, acquisition, or sale of all or a portion of its business or assets, you will be notified via email and/or a prominent notice on our website of any change in ownership or uses of your Personal Information, as well as any choices you may have regarding your Personal Information.</p>
+
+<h3>How secure is your Information</h3>
+<p>We adopt industry appropriate data collection, storage and processing practices and security measures, as well as physical security measures to protect against unauthorized access, alteration, disclosure or destruction of your Personal Information, username, password, transaction information and data stored in your user account. Access to your name and email address is restricted to our employees who need to know such information in connection with providing HyperPMA Services to you and are bound by confidentiality obligations.</p>
+
+<h3>Your Choice in Information Use</h3>
+<p>In the event we decide to use your Personal Information for any purpose other than as stated in this Privacy Policy Statement, we will offer you an effective way to opt out of the use of your Personal Information for those other purposes. From time to time, we may send emails to you regarding new services, releases and upcoming events. You may opt out of receiving newsletters and other secondary messages from HyperPMA by selecting the ‘unsubscribe’ function present in every email we send. However, you will continue to receive essential transactional emails.</p>
+
+<h3>Accessing, Updating and Removing Personal Information</h3>
+<p>Users who wish to correct, update or remove any Personal Information including those from a public forum, directory or testimonial on our site may do so either by accessing their user account or by contacting HyperPMA Customer Support Services at admin@HyperPMAcorp.com. Such changes may take up to 48 hours to take effect. We respond to all enquiries within 30 days.</p>
+
+<h3>Investigation of Illegal Activity</h3>
+<p>We may need to provide access to your Personal Information and the contents of your user account to our employees and service providers for the purpose of investigating any suspected illegal activity or potential violation of the terms and conditions for use of HyperPMA Services. However, HyperPMA will ensure that such access is in compliance with this Privacy Policy Statement and subject to appropriate confidentiality and security measures.</p>
+
+<h3>Enforcement of Privacy Policy</h3>
+<p>We make every effort, including periodic reviews to ensure that Personal Information provided by you is used in conformity with this Privacy Policy Statement. If you have any concerns regarding our adherence to this Privacy Policy Statement or the manner in which Personal Information is used for the purpose of providing HyperPMA Services, kindly contact HyperPMA Customer Support Services at admin@HyperPMAcorp.com. We will contact you to address your concerns and we will also co-operate with regulatory authorities in this regard if needed.</p>
+
+<h3>Notification of Changes</h3>
+<p>We may modify the Privacy Policy Statement upon notice to you at any time through a service announcement or by sending email to your primary email address. If we make significant changes in the Privacy Policy Statement that affect your rights, You will be provided with at least 30 days advance notice of the changes by email to your primary email address. You may terminate your use of HyperPMA Services by providing HyperPMA notice by email within 30 days of being notified of the availability of the modified Privacy Policy Statement if the Privacy Policy Statement is modified in a manner that substantially affects your rights in connection with use of HyperPMA Services. Your continued use of HyperPMA Services after the effective date of any change to the Privacy Policy Statement will be deemed to be your agreement to the modified Privacy Policy Statement. You will not receive email notification of minor changes to the Privacy Policy Statement. If you are concerned about how your Personal Information is used, you should check back at http://www.HyperPMA.com/privacy.html periodically.</p>
+
+<h3>Blogs and Forums</h3>
+<p>We provide the capacity for users to post information in blogs and forums for sharing information in a public space on the website. This information is publicly available to all users of these forums and visitors to our website. We require registration to publish information, but given the public nature of both platforms, any Personal Information disclosed within these forums may be used to contact users with unsolicited messages. We encourage users to be cautious in disclosure of Personal Information in public forums as HyperPMA is not responsible for the Personal Information users elect to disclose.</p>
+
+<p>HyperPMA also supports third party widgets such as Facebook and Twitter buttons on the website that allow users to share articles and other information on different platforms. These widgets may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the widgets to function properly. These widgets do not collect or store any Personal Information from users on the website and simply act as a bridge for your convenience in sharing information. Your interactions with these widgets are governed by the privacy policy of the company providing it.</p>
+
+<h3>END OF PRIVACY POLICY</h3>
+<p>If you have any questions or concerns regarding this Privacy Policy Statement, please contact us at admin@HyperPMAcorp.com. We shall respond to all inquiries within 30 days of receipt upon ascertaining your identity.</p>
+
+
+</div>	<!-- end page body container here -->
+
+
+
+                <!-- footer container starts here -->
+
+<div class="clear"></div>
+</div>
+
+
+<div id="footer_cont">
+  <div id="footer">
+    <div class="left"><a href="http://hyperpma.com/terms">Terms</a><span>-</span><a href="http://hyperpma.com/privacy">Privacy</a></div>
+    <div class="right">Copyright © 2015 HyperPMA. All Rights Reserved.</div>
+    <div class="clear"></div>
+  </div>
+  <!-- end footer contents here --> 
+  
+</div>
+<!-- footer container ends here -->
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-62866940-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+
+
+     
+
+     
+
+     
+
+     
+
+     
+
+     
+
+        
+			
+
+			
+			
+            
+
+            <div style="display: none">
+
+            <div id="system_message">
+
+                <div id="popover">
+
+                    <!-- pp header starts here -->
+
+                    <div id="pp_header">
+
+                        <div class="left" id="system_message_title">
+
+                            
+                        </div>
+
+                        <div class="right"><a class="close_confirm" href="javascript:void(0)"><img title="close" alt="close" src="http://hyperpma.com/images/admin/close.gif"></a></div>
+
+                        <div class="clear"></div>
+
+                    </div>	<!-- pp header starts here -->
+
+
+
+                    <div id="pp_contents">
+
+                        <p id="system_message_data" class="pp_msg2">
+
+                            
+                        </p>
+
+                        <div align="center">
+
+                        </div>	<!-- end pp contents here -->
+
+                        <div id="pp_bottom"></div>
+
+                    </div>
+
+
+
+                </div>
+
+            </div>
+
+
+
+
+
+        </div>
+
+        <div id="confirm_message" style="display: none">
+
+            <div id="popover">
+
+                <!-- pp header starts here -->
+
+                <div id="pp_header">
+
+                    <div class="left" id="confirm_message_title"></div>
+
+                    <div class="right"><a class="close_confirm" href="javascript:void(0)"><img title="close" alt="close" src="http://hyperpma.com/images/admin/close.gif"></a></div>
+
+                    <div class="clear"></div>
+
+                </div>	<!-- pp header starts here -->
+
+
+
+                <div id="pp_contents">
+
+                    <p id="confirm_message_data" class="pp_msg2"></p>
+
+                    <div align="center">
+
+                        <a id="confirm_message_link" href="#"><img title="confirm" alt="confirm" src="http://hyperpma.com/images/admin/confirm.gif"></a>&nbsp;&nbsp;&nbsp;
+
+                        <a class="close_confirm" href="javascript:void(0)"><img title="cancel" alt="cancel" src="http://hyperpma.com/images/admin/cancel.gif"></a></div>
+
+                </div>	<!-- end pp contents here -->
+
+                <div id="pp_bottom"></div>
+
+            </div>
+
+        </div>
+        
+        
+        
+        <script>
+		function showSupportForm(){
+			$("#supportForm").validationEngine('attach');
+			
+			$.fancybox({
+				href: '#support_page_popover', 
+				modal: true
+			});
+			
+		}
+		
+		function sendSupportRequest(){
+			var validated = $("#supportForm").validationEngine('validate');	
+			if (validated == true){
+				var supportName = $('#supportName').val();
+				var supportEmail = $('#supportEmail').val();				
+				var supportMessage = $('#supportMessage').val();
+				
+				//lets send the ajax request
+				var request = $.ajax({
+						url: "http://hyperpma.com/home/supportRequest",
+						type: "POST",
+						data: { supportName : supportName, supportEmail:supportEmail, supportMessage:supportMessage },
+						dataType: "html"
+						});
+						request.done(function( msg ) {				
+							if (msg == 'OK'){
+								$.fancybox.close(); 
+								$('#supportForm').validationEngine('hide');								
+								alert('Your message has been sent!');
+							} else {
+								alert(msg);
+							}
+						});
+						request.fail(function( jqXHR, textStatus ) {
+							alert('Error: '+textStatus);
+						});	
+								
+				}		
+			}
+			
+		
+		
+		</script>
+        
+        <style>
+        	#support_page_popover h1{
+				margin-bottom:15px;	
+			}
+			
+			#support_page_popover .input_field{
+				width:96%;	
+				margin-bottom:15px;
+			}
+			
+			#support_page_popover textarea{
+				height:175px;	
+			}
+			
+        </style>
+        <div style="display: none">
+            <div id="support_page_popover">
+                <div id="popover">
+                    <!-- pp header starts here -->
+                    <div id="pp_header">
+                        <div class="left" id="system_message_title">
+                            
+                        </div>
+                        <div class="right"><a onclick="$.fancybox.close(); $('#supportForm').validationEngine('hide');" href="javascript:void(0)" style="color:#FFFFFF">Close <span class="bold_txt" style="color:#FFFFFF; font-weight:bold;">(x)</span></a></div>
+                        <div class="clear"></div>
+                    </div>	<!-- pp header starts here -->
+        
+                    <div id="pp_contents">
+                        <div id="the_popover_data">
+                            <h1>Support Request</h1>
+                            <form name="supportForm" id="supportForm" onsubmit="return false;">
+                            <input type="text" class="input_field validate[required]" name="supportName" id="supportName" placeholder="Full Name">
+                            
+                            <input type="text" class="input_field validate[required,custom[email]]" name="supportEmail" id="supportEmail" placeholder="Email Address">
+                            
+                            <textarea class="input_field validate[required]" name="supportMessage" id="supportMessage" placeholder="Your Message"></textarea>
+                            <div align="center">
+                            	<input type="submit" class="link-btn" value="Submit" onclick="sendSupportRequest();" name="">
+                            </div>
+                            </form>
+                        </div>
+                        <div id="pp_bottom"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    
+
+
+
+
+
+
+
+</body></html>
