@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marketingvici.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608070132id_/http%3A//marketingvici.com/files/ViciPrivacyPolicy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marketingvici.com privacy policy that was archived on 2015-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151218215511id_/http%3A//marketingvici.com/files/ViciPrivacyPolicy.pdf) for the most accurate reproduction.*
 
 # Vici can ensure that personal data shared with us is protected from loss, misuse or illegal alterations. All users’ information is stored in an encrypted format.
 
