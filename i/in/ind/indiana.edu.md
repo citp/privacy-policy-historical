@@ -1,49 +1,60 @@
-> *The following text is extracted and transformed from the indiana.edu privacy policy that was archived on 2015-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150604174839id_/http%3A//www.iu.edu/comments/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indiana.edu privacy policy that was archived on 2015-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151218084608id_/https%3A//www.indiana.edu/privacy) for the most accurate reproduction.*
 
-# Privacy Notice: Comments: Indiana University
+# Privacy Notice: Indiana University Bloomington
 
-Effective: November 21, 2011
+Effective: 2015-06-30
 
-#### Applicability
+### Applicability
 
-This privacy notice applies only to the Indiana University Gateway Website (http://www.iu.edu/) and explains our practices concerning the collection, use, and disclosure of visitor information. Visitor information collected by Indiana University will be used only as outlined in this privacy notice.
+This privacy notice applies only to the Indiana University Bloomington gateway ([https://www.indiana.edu](https://www.indiana.edu/)) and explains our practices concerning the collection, use, and disclosure of visitor information. Visitor information collected by Indiana University Bloomington will be used only as outlined in this privacy notice.
 
-Other units at the university may collect and use visitor information in different ways. Therefore, visitors to other university websites should review the privacy notices for the particular sites they visit. Indiana University is not responsible for the content of other websites or for the privacy practices of websites outside the scope of this notice.
+Other units at the university may collect and use visitor information in different ways. Therefore, visitors to other university websites should review the privacy notices for the particular sites they visit. Indiana University Bloomington is not responsible for the content of other websites or for the privacy practices of websites outside the scope of this notice.
 
-#### Changes
+### Changes
 
-Because Internet technologies continue to evolve rapidly, Indiana University may make appropriate changes to this notice in the future. Any such changes will be consistent with our commitment to respecting visitor privacy and will be clearly posted in a revised privacy notice.
+Because Internet technologies continue to evolve rapidly, Indiana University Bloomington may make appropriate changes to this notice in the future. Any such changes will be consistent with our commitment to respecting visitor privacy, and will be clearly posted in a revised privacy notice.
 
-#### Collection and Use
+### Collection and Use
 
-##### Passive/Automatic Collection
+#### Passive/Automatic Collection
 
 When you view pages on our site, the web server automatically collects certain technical information from your computer and about your connection.
 
-This website is hosted on [Webserve](http://webmaster.iu.edu/account_info/webserve.shtml), a shared web hosting environment provided by IU's University Information Technology Services. For more information about privacy practices related to Webserve, read the [Webserve Privacy Notice Supplement](http://webmaster.iu.edu/privacy).
+This website is hosted on [Webserve](http://webmaster.iu.edu/account_info/webserve.shtml), a shared web–hosting environment provided by IU’s University Information Technology Services. For more information about privacy practices related to Webserve, read the [Webserve Privacy Notice Supplement](http://webmaster.iu.edu/privacy).
 
 In addition to any information collected by Webserve, our server and/or site collects the following:
 
+  * The domain name from which you visit our site
   * Aggregate information on pages visited
+  * The referring website
   * The date and time of visit
   * The duration of visit
   * Your browser type
   * Your screen resolution
+  * Aggregate information collected by Google Analytics
 
 
 
 Continued use of our website indicates consent to the collection, use, and disclosure of this information as described in this notice.
 
-Some technical information is retained in aggregate for up to 730 days. This information is: 
+Some technical information is retained in aggregate for up to 730 days.
+
+#### Active/Manual/Voluntary Collection
+
+Other than automatically collected technical information about your visit described above, or cookies and anonymous identifiers, described below, we may ask you to provide information voluntarily, such as through forms or other manual input—in order to make products and services available to you, to maintain and manage our relationship with you, including providing associated services or to better understand and serve your needs. This information is generally retained as long as you continue to maintain a relationship with us. Your providing this information is wholly voluntary. However, not providing the requested information (or subsequently asking that the data be removed) may affect our ability to deliver the products or service for which the information is needed. Providing the requested information indicates your consent to the collection, use, and disclosure of this information as described in this notice. Information we may actively collect could include information volunteered by the visitor, such as preferences, survey information, and/or site registrations.
+
+#### Information Usage
+
+This information is:
 
   * Used for internal review and is then discarded
-  * Used to improve the content of our site
+  * Used to customize the content of our site
 
 
 
-##### Information Sharing
+#### Information Sharing
 
-We may share aggregate, non-personally-identifiable information with other entities or organizations.
+We may share aggregate, non-personally identifiable information with other entities or organizations.
 
 We do not share any personally identifiable information with other entities or organizations, except when legally required to do so, at the request of governmental authorities conducting an investigation, to verify or enforce compliance with the policies governing our website and applicable laws, or to protect against misuse or unauthorized use of our website.
 
@@ -51,33 +62,34 @@ Except as described above, we will not share any information with any party for 
 
 Except as provided in the Disclosure of Information section below, we do not attempt to use the technical information discussed in this section to identify individual visitors.
 
-##### Active/Manual/Voluntary Collection
+#### Cookies and Anonymous Identifiers
 
-Other than the technical information collected automatically about your visit (described above, or cookies, described below), we may ask you to provide information voluntarily, such as through forms or other manual input—in order to make products and services available to you, to maintain and manage our relationship with you, including providing associated services, or to better understand and serve your needs. This information is generally retained as long as you continue to maintain a relationship with us. Your providing this information is wholly voluntary. However, not providing the requested information (or subsequently asking that the data be removed) may affect our ability to deliver the products or service for which the information is needed. Providing the requested information indicates your consent to the collection, use, and disclosure of this information as described in this notice. Information we may actively collect could include:
+A [cookie](https://kb.iu.edu/data/agwm.html) is a small data file that is written to your hard drive that contains information about your visit to a web page. If you prefer not to receive cookies, you may configure your browser not to accept them at all, or to notify and require approval before accepting new cookies. Some web pages/sites may not function properly if the cookies are turned off, or you may have to provide the same information each time you visit those pages.
 
-  * The email addresses of those who communicate with us via email
-  * Name
-  * Comments and questions about the website
+In order to customize the information and services offered to you, our site uses cookies to:
+
+  * Customize web page content on visitors’ browser type or other information that the visitor sends
+  * Record aggregate information collected by Google Analytics
 
 
 
-##### Cookies
+An anonymous identifier is a random string of characters that is used for the same purposes as a cookie on platforms, including certain mobile devices, where cookie technology is not available.
 
-A [cookie](https://kb.iu.edu/data/agwm.html) is a small data file that is written to your hard drive that contains information about your visit to a web page. If you prefer not to receive cookies, you may configure your browser to not to accept them at all, or to notify and require approval before accepting new cookies. Some web pages/sites may not function properly if the cookies are turned off, or you may have to provide the same information each time you visit those pages.
+#### Children
 
-In order to customize the information and services offered to you, our site uses cookies to record aggregate usage data via Google Analytics.
+This site is not directed to children under 13 years of age, does not sell products or services intended for purchase by children, and does not knowingly collect or store any personal information, even in aggregate, about children under the age of 13. We encourage parents and teachers to be involved in children’s Internet explorations. It is particularly important for parents to guide their children when they are asked to provide personal information online.
 
-##### Children
+#### Use of Third Party Services
 
-This site is not directed to children under 13 years of age, does not sell products or services intended for purchase by children, and does not knowingly collect or store any personal information, even in aggregate, about children under the age of 13. We encourage parents and teachers to be involved in children's Internet explorations. It is particularly important for parents to guide their children when they are asked to provide personal information online.
+This website uses Google Analytics, a web analytics service provided by Google, Inc. (“Google”). It also uses Google Analytics Demographics and Interest Reporting, part of a larger category of features known as Google Analytics Advertising Features. Google Analytics uses cookies (described above) to help the website analyze how users use the site. The information generated by the cookie about your use of the website (including possibly your IP address) will be transmitted to and stored by Google.
 
-##### Use of Third Party Services
+##### Opting Out of Google Analytics Advertising Features
 
-This website uses Google Analytics, a web analytics service provided by Google, Inc. ("Google"). Google Analytics uses "cookies" (described above) to help the website analyze how users use the site. The information generated by the cookie about your use of the website (including possibly your IP address) will be transmitted to and stored by Google.
+Users can opt out of Google Analytics for Display Advertising and customize Google Display Network ads by using [Google Ads Settings](https://www.google.com/settings/ads).
 
-For more information, please visit [Google's Privacy Center](http://www.google.com/privacy).
+For more information, please visit [Google’s Privacy Policy](http://www.google.com/policies/privacy).
 
-#### Disclosure of Information
+### Disclosure of Information
 
 Other than sharing your information with other appropriate university personnel and units to ensure the quality, functionality, and security of our website, or manage your relationship with us, we will not disclose personally identifiable information about your use of the site except under the following circumstances:
 
@@ -87,7 +99,7 @@ Other than sharing your information with other appropriate university personnel 
 
 
 
-#### Security
+### Security
 
 Due to the rapidly evolving nature of information technologies, no transmission of data over the Internet can be guaranteed to be completely secure. While we are committed to protecting the privacy of our visitors, we cannot guarantee the security of any information that you transmit to university websites, and you do so at your own risk. However, once we receive your information, we will use reasonable safeguards consistent with prevailing industry standards and commensurate with the sensitivity of the data being stored to maintain the security of that information on our systems.
 
@@ -95,16 +107,14 @@ In addition, we will comply with all applicable federal, state, and local laws r
 
 We have appropriate security measures in place in our physical facilities to protect against the loss, misuse, or alteration of information that we have collected from you at our site.
 
-#### Privacy Notice Changes
+### Privacy Notice Changes
 
 From time to time, we may use visitor information for new, unanticipated uses not previously disclosed in our privacy notice.
 
-  * Only data collected from the time of the policy change forward will be used for these new purposes. If you are concerned about how your information is used, you should check back at our website periodically.
+Only data collected from the time of the policy change forward will be used for these new purposes. If you are concerned about how your information is used, you should check back at our website periodically.
 
+### Contact Information
 
+If you have questions or concerns about this policy, please contact us via email at iubhome@indiana.edu.
 
-#### Contact Information
-
-If you have questions or concerns about this policy, please contact us via email at [iuhome@iu.edu](mailto:iuhome@iu.edu).
-
-If you feel that this site is not following its stated policy and communicating with the owner of this site does not resolve the matter, or if you have general questions or concerns about privacy or information technology policy at Indiana University, please contact the University Information Policy Office, 812-855-UIPO, [uipo@iu.edu](mailto:uipo@iu.edu).
+If you feel that this site is not following its stated policy and communicating with the owner of this site does not resolve the matter, or if you have general questions or concerns about privacy or information technology policy at Indiana University, please contact the chief privacy officer through the University Information Policy Office, 812-855-UIPO, privacy@iu.edu.
