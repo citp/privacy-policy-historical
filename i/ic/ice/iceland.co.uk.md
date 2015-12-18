@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iceland.co.uk privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607185739id_/https%3A//www.iceland.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iceland.co.uk privacy policy that was archived on 2015-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151218215829id_/https%3A//www.iceland.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Welcome to Iceland Foods
 
