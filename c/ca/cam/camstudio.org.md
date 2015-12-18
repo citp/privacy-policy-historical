@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the camstudio.org privacy policy that was archived on 2015-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150422003936id_/http%3A//camstudio.org/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the camstudio.org privacy policy that was archived on 2015-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151218124002id_/http%3A//camstudio.org/privacy.htm) for the most accurate reproduction.*
 
 # CamStudio - Our Privacy Policy
 
