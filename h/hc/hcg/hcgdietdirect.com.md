@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hcgdietdirect.com privacy policy that was archived on 2015-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150518155927id_/http%3A//www.hcgdietdirect.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hcgdietdirect.com privacy policy that was archived on 2015-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151218215145id_/http%3A//www.hcgdietdirect.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Lipoderms Privacy Policy
 
@@ -45,7 +45,7 @@ Only those employees that are responsible for handling your account have access 
 
 **CAN I CORRECT OR REMOVE INFORMATION FROM YOUR SITE?**
 
-You always have the option to view your account to make sure the information we have collected from you is indeed correct.  You also have the option of removing any information from your account that you wish to keep private.  However, please note that removing certain information such as your email address, contact information, and the like may greatly hinder our ability to effectively provide the service or products you have requested.  We recommend, that you [contact us ](https://web.archive.org/web/20150518155927id_/http%3A//www.hcgdietdirect.com/contactus.html)first to discuss which information you may remove without interrupting the quality of service we intend to provide for you. 
+You always have the option to view your account to make sure the information we have collected from you is indeed correct.  You also have the option of removing any information from your account that you wish to keep private.  However, please note that removing certain information such as your email address, contact information, and the like may greatly hinder our ability to effectively provide the service or products you have requested.  We recommend, that you [contact us ](https://web.archive.org/web/20151218215145id_/http%3A//www.hcgdietdirect.com/contactus.html)first to discuss which information you may remove without interrupting the quality of service we intend to provide for you. 
 
 **CAN I OPT OUT OF HAVING CERTAIN INFORMATION COLLECTED?**
 
