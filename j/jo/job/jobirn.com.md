@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the jobirn.com privacy policy that was archived on 2015-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150622062411id_/http%3A//www.jobs2careers.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobirn.com privacy policy that was archived on 2015-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151218234844id_/http%3A//www.jobs2careers.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy | Jobs2Careers
 
-Last update on: August 30th, 2014
+Last update on: November 2, 2015
 
 Jobs-to-Careers.com and Jobs2Careers.com ("Jobs2Careers" or "we") is a website owned by InsidersReferral.com Inc. We know you are concerned about your privacy, so we developed this Privacy Policy to explain how we collect, use, share and disclose personally identifiable information (referred to as "personal information" in this Privacy Policy.
 
