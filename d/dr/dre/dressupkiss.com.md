@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dressupkiss.com privacy policy that was archived on 2013-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130917095851id_/http%3A//www.dressupkiss.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dressupkiss.com privacy policy that was archived on 2015-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151218103818id_/http%3A//www.dressupkiss.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
