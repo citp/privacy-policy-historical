@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the autoportal.com privacy policy that was archived on 2015-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150506104905id_/http%3A//autoportal.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the autoportal.com privacy policy that was archived on 2015-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151219002218id_/http%3A//autoportal.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -205,9 +205,7 @@ If we decide to change our privacy policy, we will post those changes to this pr
 
 If we decide to make changes in our email practices, we will post those changes to this privacy policy, the homepage, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. If we decide to change our email practices, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
 
-Creative WebMedia Pvt. Ltd  
-562, Fifth Floor, Tower B1,  
-Spaze i-Tech Park, Sector 49,  
-Behind Omaxe City Centre, Sohna Road,  
-Gurgaon-122018, Haryana, India.  
-Phone: **+91 124-4309533**
+  
+**Creative WebMedia Pvt. Ltd  
+Ground Floor, Plot No 64, Sector-44,  
+Gurgaon-122003, Haryana, India.**
