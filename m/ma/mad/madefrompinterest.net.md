@@ -1,12 +1,6 @@
-> *The following text is extracted and transformed from the madefrompinterest.net privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608175011id_/http%3A//www.madefrompinterest.net/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the madefrompinterest.net privacy policy that was archived on 2015-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151218123820id_/http%3A//www.madefrompinterest.net/privacy-policy-2) for the most accurate reproduction.*
 
 # Privacy Policy - Made From Pinterest
-
-[ |   
----|---  
-](mailto:madefrompinterest@gmail.com)
-
-[
 
 Protecting your private information is our priority. This Statement of Privacy applies to MadeFromPinterest.net and governs data collection and usage. For the purposes of this Privacy Policy, unless otherwise noted, all references to Made From Pinterest  include www.madefrompinterest.net.  The Made From Pinterest website is a recipes and informational site. By using the Made From Pinterest website, you consent to the data practices described in this statement.
 
@@ -14,9 +8,7 @@ Collection of your Personal Information – We do not collect personally identif
 
 Use of Cookies – The Made From Pinterest website may use “cookies” to help you personalize your online experience. A cookie is a text file that is placed on your hard disk by a web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a web server in the domain that issued the cookie to you.One of the primary purposes of cookies is to provide a convenience feature to save you time. The purpose of a cookie is to tell the Web server that you have returned to a specific page. For example, if you personalize Made From Pinterest pages, or register with Made From Pinterest site or services, a cookie helps Made From Pinterest to recall your specific information on subsequent visits. This simplifies the process of recording your personal information, such as billing addresses, shipping addresses, and so on. When you return to the same Made From Pinterest website, the information you previously provided can be retrieved, so you can easily use the Made From Pinterest features that you customized.You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to decline cookies, you may not be able to fully experience the interactive features of the Made From Pinterest services or websites you visit.
 
-](mailto:madefrompinterest@gmail.com)
-
-[Third Parties – We use third-party advertising companies to serve ads when you visit Made From Pinterest. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see:](mailto:madefrompinterest@gmail.com)[http://www.networkadvertising.org/managing/opt_out.asp ](http://www.networkadvertising.org/managing/opt_out.asp)
+Third Parties – We use third-party advertising companies to serve ads when you visit Made From Pinterest. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see:[http://www.networkadvertising.org/managing/opt_out.asp ](http://www.networkadvertising.org/managing/opt_out.asp)
 
 Security of your Personal Information – To secure your personal information from unauthorized access, use or disclosure, Made From Pinterest uses the following:
 
