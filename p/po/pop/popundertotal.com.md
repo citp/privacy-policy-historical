@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the popundertotal.com privacy policy that was archived on 2015-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150616004846id_/http%3A//popundertotal.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the popundertotal.com privacy policy that was archived on 2015-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151218233609id_/http%3A//popundertotal.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
-
-Learn how we protect our members personal information.
 
 DRS Media Ltd. (PopUnderTOTAL) provides advertising technology solutions ("Technology") that enables media companies, online advertisers, and web publishers to buy, sell, and measure the the effectiveness of their advertising campaigns. This privacy policy ("Privacy Policy") explains how personal information is collected, used, and disclosed by PopUnderTOTAL with respect to your use of the websites located at http://PopUnderTOTAL.com (the "Site") and how personal information is collected, used, and processed through the Technology on behalf of the online advertisers, publishers, business partners, and other businesses that use PopUnderTOTAL's services ("Clients").
 
