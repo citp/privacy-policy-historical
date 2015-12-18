@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cpaaffiliatemastermind.com privacy policy that was archived on 2015-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150420072925id_/http%3A//www.cpaaffiliatemastermind.com/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cpaaffiliatemastermind.com privacy policy that was archived on 2015-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151218230311id_/http%3A//www.cpaaffiliatemastermind.com/legal/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - CPA Affiliate Mastermind
 
