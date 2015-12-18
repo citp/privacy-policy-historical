@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dnainfo.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627095914id_/https%3A//www.dnainfo.com/new-york/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dnainfo.com privacy policy that was archived on 2015-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151218065615id_/https%3A//www.dnainfo.com/new-york/about-us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - About Us - DNAinfo.com New York
 
@@ -48,8 +48,8 @@ If you have any questions or concerns about this Privacy Policy, the practices o
 Site, the content available on the Site or your interactions with the Site, you can contact:
 
 DNAinfo  
-1414 Avenue of the Americas  
-11th Floor  
+810 Seventh Avenue  
+8th Floor  
 New York, NY 10019
 
 [legal@DNAinfo.com](mailto:legal@DNAinfo.com)
