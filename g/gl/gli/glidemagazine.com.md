@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the glidemagazine.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627192255id_/http%3A//www.glidemagazine.com/glide/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the glidemagazine.com privacy policy that was archived on 2015-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151218120421id_/http%3A//www.glidemagazine.com/glide/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Glide Magazine
 
