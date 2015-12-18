@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iranian.com privacy policy that was archived on 2015-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150613174236id_/http%3A//iranian.com/index/page/name/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iranian.com privacy policy that was archived on 2015-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151218045527id_/http%3A//iranian.com/index/page/name/privacy) for the most accurate reproduction.*
 
 # Iranian.com - Iran News, Blogs and Community
 
