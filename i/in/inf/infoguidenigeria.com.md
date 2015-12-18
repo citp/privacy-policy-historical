@@ -1,50 +1,29 @@
-> *The following text is extracted and transformed from the infoguidenigeria.com privacy policy that was archived on 2013-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130814141027id_/http%3A//www.infoguidenigeria.com/data-protection-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the infoguidenigeria.com privacy policy that was archived on 2015-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151219000647id_/http%3A//infoguidenigeria.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy - InfoGuide Nigeria
+# Privacy Policy - Information Guide in Nigeria
 
-## Privacy Policy
+At http://infoguidenigeria.com/, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by http://infoguidenigeria.com/and how it is used.
 
-### General Information
+**Log Files**
 
- **InfoGuía Global** collects user information during the registration process. This information is archived under the tight security of our servers.
+Like many other Web sites, News.School.ng makes use of log files. The information inside the log files includes internet protocol (IP) addresses, type of browser, Internet Service Provider (ISP), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
 
-We use the information:
+**Cookies and Web Beacons**
 
-  * To enable us to process, validate, and verify registrations.
-  * To provide general information (never individual information) to our advertisers about users and user trends.
-  * To develop new products and services to meet the needs of our users.
-  * To contact users, via phone or mail, for suggestions or concerns regarding service, and also to inform users about new products and services. Users may notify us at any moment of their desire not to receive any information regarding **InfoGuía Global** products and services. 
-  * Information Collection
+http://infoguidenigeria.com/does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser.
 
+**DoubleClick DART Cookie**
 
-
-By registering as a user, you give us the authorization to receive information of products and services from **InfoGuía Global** and/or third party entities of similar business interests and to use your information for publicity purposes via fax or email.
-
-By registering as a user, you ensure that all of the information is truthful and precise, and that you will update or modify any and all information on the site.
-
-**InfoGuía Global** has the right to reject use of the site to anyone suspected of providing false, incorrect, dated, or incomplete information, or if the terms and conditions are not met by the user.
-
-### Cookies
-
-Please note that when users navigate through our directory, you are using a third party company, Google, which uses the DoubleClick DART cookie:
-
-  * Google, as a third party entity, uses cookies to advertize on their site.
-  * Use of the DART cookie permits Google to post ads to users who visit your site and other internet sites.
-  * Users can disable the DART cookie by going to the Google ad and accessing their privacy policy.
-  * For more information about this third party service, please visit: [www.google.com/privacy_ads.html](http://www.google.com/privacy_ads.html)
-In the even that you do not want to receive cookies, you can configure your browser to notify you and reject the installation of Cookies sent by the directory without affecting directory access. 
+  * Google, as a third party vendor, uses cookies to serve ads on News.School.ng.
+  * Google’s use of the DART cookie enables it to serve ads to users based on their visit to News.School.ng and other sites on the Internet.
+  * Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – <http://www.google.com/privacy_ads.html>.
 
 
-### Use of Information
 
-**InfoGuía Global** retains the right to use and disclose user information to third parties unless you specify otherwise. This information may be shared with parties of similar interests as yours for the purposes of obtaining new clients and related services. Information is disclosed as applicable by law.
+These third-party ad servers or ad networks use technology to the advertisements and links that appear on News.School.ng send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.
 
-### Minors
+http://infoguidenigeria.com has no access to or control over these cookies that are used by third-party advertisers.
 
-Users who participate in this website admit to being of legal age. Minors or anyone not of legal age require the authorization of their parents, guardians, or legal representatives who will assume responsibility for their use or participation with this website. Minors must seek and obtain the proper consent to use the website.
+You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices http://infoguidenigeria.com’s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
 
-### Security
-
-We are committed to protecting your privacy and the necessary measures to ensure that any and all information we collect is protected against unauthorized use, access, and disruption.
-
- **InfoGuía Global** is committed to protecting the privacy of all its website users and practices all reasonable measures to ensure that all user information is protected against unwarranted and unauthorized access. As no security system is entirely impenetrable, we cannot fully guarantee the security of our database. By using our services, you consent to all of these security provisions.
+If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browser’s respective websites
