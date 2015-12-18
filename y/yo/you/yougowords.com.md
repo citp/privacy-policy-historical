@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yougowords.com privacy policy that was archived on 2015-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150613013710id_/http%3A//www.yougowords.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yougowords.com privacy policy that was archived on 2015-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151218045727id_/http%3A//www.yougowords.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - You Go Words!
 
@@ -89,3 +89,12 @@ support@yougowords.com
 This document was last updated on October 24, 2014
 
 loading...
+
+  * Google+
+  * Page Specific
+
+
+
+Thank you for visting . I will be adding a comments tool for all members to comment, interact and associate with the pages on You Go Words!
+
+All comments will be moderated.
