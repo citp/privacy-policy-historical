@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the preservationnation.org privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607040757id_/http%3A//www.preservationnation.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the preservationnation.org privacy policy that was archived on 2015-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151218084914id_/http%3A//www.preservationnation.org/privacy) for the most accurate reproduction.*
 
 # Privacy Policy of the National Trust for Historic Preservation - National Trust for Historic Preservation
 
@@ -14,7 +14,7 @@ Security of your Credit Card Information
 
 Compliance with Federal Laws
 
-Questions
+Questions; Opt-out
 
 Changes in the Privacy Policy
 
@@ -93,7 +93,7 @@ The Co-Stewardship Historic Sites, affiliates, and subsidiaries may have and ope
 
 **Co-Branded Partners**
 
-From time to time, the National Trust may offer certain promotions, programs or activities on our Websites or on websites hosted or managed by the National Trust that are co-sponsored or co-branded by non-profit and/or for-profit partners, such as purchasing products or services offered by our partners, or electing to participate in advocacy campaigns, contests, sweepstakes, games or other programs sponsored in whole or in part by our partners, which will be subject to their own terms of use.  At the time of engagement, you will be offered an opportunity to choose to authorize the National Trust to share your information with our partners so you may receive information from the partners.  We do not control the privacy practices or terms of use of our co-branded partners; therefore, you should review their privacy practices before you choose to access their products or services.  You are entitled to opt-out from receiving any resulting information from the National Trust as set forth in this Privacy Policy at any time [include link to opt-out].  However, if at a later date, you decide to opt-out of receiving information from our partners, you will need to contact the partners directly.
+From time to time, the National Trust may offer certain promotions, programs or activities on our Websites or on websites hosted or managed by the National Trust that are co-sponsored or co-branded by non-profit and/or for-profit partners, such as purchasing products or services offered by our partners, or electing to participate in advocacy campaigns, contests, sweepstakes, games or other programs sponsored in whole or in part by our partners, which will be subject to their own terms of use.  At the time of engagement, you will be offered an opportunity to choose to authorize the National Trust to share your information with our partners so you may receive information from the partners.  We do not control the privacy practices or terms of use of our co-branded partners; therefore, you should review their privacy practices before you choose to access their products or services.  You are entitled to opt-out from receiving any resulting information from the National Trust as set forth in this Privacy Policy at any time.  However, if at a later date, you decide to opt-out of receiving information from our partners, you will need to contact the partners directly.
 
 **Licensees**
 
