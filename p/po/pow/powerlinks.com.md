@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the powerlinks.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607072323id_/http%3A//www.powerlinks.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the powerlinks.com privacy policy that was archived on 2015-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151218111824id_/http%3A//www.powerlinks.com/privacy-policy) for the most accurate reproduction.*
 
 # Powerlinks Privacy Policy - Powerlinks
 
-PowerLinks
-
-is committed to protecting and respecting your privacy.
+PowerLinks is committed to protecting and respecting your privacy.
 
 This policy (together with our Cookie Policy and any terms governing use of our sites or our services) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. 
 
