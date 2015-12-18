@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wfu.edu privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608002120id_/http%3A//www.wfu.edu/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wfu.edu privacy policy that was archived on 2015-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151219005331id_/http%3A//www.wfu.edu/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Wake Forest University
 
