@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the resultsncutoff.in privacy policy that was archived on 2015-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150621151927id_/http%3A//resultsncutoff.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the resultsncutoff.in privacy policy that was archived on 2015-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151220003148id_/http%3A//resultsncutoff.in/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - All Exam Results & Cutoff Marks Admit Card Answer key Cutoff Marks
+# Privacy Policy - All Exam Results
 
 This Privacy Policy governs the manner in which resultsncutoff.in/ collects, uses, maintains and discloses information collected from users (each, a User) of the  resultsncutoff.in/ ** ** website (Site). This privacy policy applies to the Site, all products and services offered by resultsncutoff.in .
 
@@ -23,7 +23,7 @@ Resultsnjobs.in collects and uses Users personal information for the following 
 – To improve our Site  
 We continuously strive to improve our website offerings based on the information and feedback we receive from you.  
 – To improve customer service  
-Your information helps us to more effectively respond to your customer service requests and support needs.
+Your information helps us to [more](http://resultsncutoff.in/category/more/ "more") effectively respond to your customer service requests and support needs.
 
 **How We Protect Your Information?**
 
