@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the sqlmaestro.com privacy policy that was archived on 2015-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150319094000id_/http%3A//www.sqlmaestro.com/contacts/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sqlmaestro.com privacy policy that was archived on 2015-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151219031743id_/http%3A//www.sqlmaestro.com/contacts/privacy) for the most accurate reproduction.*
 
-# Database management tools for MySQL, Oracle, SQL Server, DB2, SQL Anywhere, PostgreSQL, SQLite, Firebird and MaxDB by SQL Maestro Group
+# Database tools for MySQL, SQL Server, PostgreSQL, SQLite, Oracle, DB2, Firebird by SQL Maestro Group
 
 Partners
 
 Testimonials
 
-**Marco De Luca:** "I can handle now both version of SQLite Databases, 2.x and 3.x. Your SQLite PHP Generator is among the best tools I have seen".
+**Padster Reynolds:** "Good software that has become one of our must have tools - wouldn't like to be without it these days. Keep up the good work".
 
-**Steve Horne:** "All in all it's a great product, I used the freeware version for a while but purchased a commercial license recently as I am now using it for my work. The ability to query SharePoint lists using SQL makes my administration tasks much easier".
+**Marco De Luca:** "I can handle now both version of SQLite Databases, 2.x and 3.x. Your SQLite PHP Generator is among the best tools I have seen".
 
 [More](http://www.sqlmaestro.com/products/testimonials/)
 
@@ -69,26 +69,35 @@ If we decide to change our privacy policy, we will post those changes on our hom
 
 | 
 
+#### [Christmas Sale](http://www.sqlmaestro.com/purchase/)
+
+| [](http://www.sqlmaestro.com/purchase/)  
+---  
+  
+SQL Maestro Group wish you a **Merry  Christmas!**  
+  
+We're happy to grant you a [**25% discount**](http://www.sqlmaestro.com/purchase/) for all our products and bundles till **December 31!**  
+  
 Company news[](http://www.sqlmaestro.com/rss.xml)
 
-Mar 16, 2015
+Dec 10, 2015
 
-New version features an ability to select or disable certain synchronization operations, executing SQL scripts before and after processing each table, a brand new start page, connectivity enhancements, and some other useful things.
+This new and revolutionary, major release features state of the art 100% responsive design, PHP 7 support, enhanced Filter Builder, multi-column sorting, 18 color themes, top side drop-down menus, a number of new and updated controls, improved event model, and a lot of other time-saving features. 
 
-Jan 12, 2015
+Nov 16, 2015
 
-New version comes with support of user authentication and management, read-only database connections, colored tabs, and some other new features.
+New version introduces Firebird 3.0 RC1 compatibility, support of packages, DDL triggers and some other Firebird 3.0 features, improved Transaction Browser, new encryption algorithms in data grids, updated data export and data import tools and other useful things.
 
-Dec 12, 2014
+Jul 27, 2015
 
-This is MySQL Schema Browser: an application to investigate the structure of your MySQL databases.
+New version features support for Azure SQL Database and SQL Server 2016, updated data export/import tools, colored tabs, new encryption algorithms in data grids and some other useful things.
 
 Feature of the day
 
-[](http://www.sqlmaestro.com/products/db2/maestro/screenshots/getting_started/support_utf8/)
+[](http://www.sqlmaestro.com/products/mssql/compact_maestro/help/10_02_03_sql_editor_formatter/)
 
-DB2 Maestro supports UTF-8 data in grids.
+MS Compact Maestro allows you to tune up SQL scripts according to your preferences.
 
-[](http://www.sqlmaestro.com/products/postgresql/codefactory/screenshots/getting_started/sq_leditor/)
+[](http://www.sqlmaestro.com/products/firebird/phpgenerator/screenshots/common/security_options/)
 
-PostgreSQL Code Factory provides you with all the features (such as viewing, editing, grouping, sorting and filtering) to analyze the data in the most convenient way.
+PHP Generator allows you to protect the result script with a lot of security settings.
