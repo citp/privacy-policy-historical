@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gorealdose.com privacy policy that was archived on 2014-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141223150732id_/http%3A//gorealdose.com/common/info/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gorealdose.com privacy policy that was archived on 2015-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151219195132id_/http%3A//gorealdose.com/common/info/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -114,16 +114,19 @@ We may update this privacy policy to reflect changes to our information practice
 
 Any questions or concerns about this policy should be brought to our attention by sending an e-mail to [contactus@gorealdose.com](mailto:contactus@gorealdose.com) and providing us with information relating to your concern. 
 
-You may also mail your concerns to us at the following address: RealDose Nutrition LLC  
-22100 E 26th Avenue #100  
-Aurora, CO 80019  
-United States 
+You may also mail your concerns to us at the following address:  
+RealDose Nutrition LLC  
+1942 Broadway  
+Suite 314   
+Boulder, CO 80302 
 
 **CALIFORNIA PRIVACY RIGHTS**
 
-If you are a California resident and our customer, Cal. Civ. Code 1798.83 permits you to request certain information about our disclosure of personal information to third parties for their direct marketing purposes. To request this information, please send an e-mail to [contactus@gorealdose.com](mailto:contactus@gorealdose.com) or write us at the following address: RealDose Nutrition LLC  
-22100 E 26th Avenue #100  
-Aurora, CO 80019  
+If you are a California resident and our customer, Cal. Civ. Code 1798.83 permits you to request certain information about our disclosure of personal information to third parties for their direct marketing purposes. To request this information, please send an e-mail to [contactus@gorealdose.com](mailto:contactus@gorealdose.com) or write us at the following address:  
+RealDose Nutrition LLC  
+1942 Broadway  
+Suite 314   
+Boulder, CO 80302  
 United States 
 
 This privacy policy was last updated on 11-05-2014.
