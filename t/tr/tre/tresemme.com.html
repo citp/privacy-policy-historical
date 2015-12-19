@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the tresemme.com privacy policy that was archived on 2015-06-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150614044834id_/http%3A//www.unileverprivacypolicy.com/en_us/policy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the tresemme.com privacy policy that was archived on 2015-12-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151219232455id_/http%3A//www.unileverprivacypolicy.com/en_us/policy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -36,7 +36,25 @@ $(document).ready(function () {
         });
 </script>
 <div id="mainContainer">
-  <span><!-- Start SiteEdit Component Presentation: {"ID" : "cp_1", "ComponentID" : "tcm:774-557641", "ComponentTemplateID" : "tcm:774-557652-32", "ComponentVersion" : 3, "IsQueryBased" : false  } --><div class="header">
+  <span><!-- Start SiteEdit Component Presentation: {"ID" : "cp_1", "ComponentID" : "tcm:774-557641", "ComponentTemplateID" : "tcm:774-557652-32", "ComponentVersion" : 6, "IsQueryBased" : false  } --><script type="text/javascript">
+   function getUrlParameter()
+{
+    var sPageURL = window.location.search.substring(1);
+    return sPageURL ;
+}   
+  $(window).load(function() {
+      var param = getUrlParameter();
+      if (param !== "") {
+      var preHrefManagePrivacy = $('#ManagePrivacy').attr('href');
+      var preHrefUpdateProfile = $('#UpdateProfile').attr('href');
+      var queryHrefManagePrivacy = preHrefManagePrivacy + '&' + param; 
+      var queryHrefUpdateProfile = preHrefUpdateProfile + '&' + param; 
+      $('#ManagePrivacy').attr('href', queryHrefManagePrivacy );
+      $('#UpdateProfile').attr('href', queryHrefUpdateProfile );
+   }
+    });
+</script>
+<div class="header">
    <div class="logo">
 	  <img src="/Images/logo774-182581.png">
     </div>
@@ -61,7 +79,7 @@ a.btnStyle:hover {  color: #000;  background: #FFF; cursor: pointer;}
 			   
 					
 							
-						<a href="http://www.unileverus.com/en_us/remove.aspx" title="Do Not Contact" class="btnStyle">Do Not Contact</a>&nbsp; <a title="Update My Info" class="btnStyle" href="http://www.unileverus.com/en_us/update.aspx">Update My Info</a>
+          <a id="ManagePrivacy" href="https://preferencecenter.unileversolutions.com/Home.aspx?locale=en-US&amp;action=remove" title="Do Not Contact" class="btnStyle" name="ManagePrivacy">Do Not Contact</a>&nbsp; <a id="UpdateProfile" title="Update My Info" class="btnStyle" href="https://preferencecenter.unileversolutions.com/Home.aspx?locale=en-US&amp;action=update" name="UpdateProfile">Update My Info</a>
 					
 			   
 </p>
@@ -72,9 +90,9 @@ a.btnStyle:hover {  color: #000;  background: #FFF; cursor: pointer;}
          <div id="container">
             <div class="scroll-pane">
 		
-          <h2 align="center">
-            <u>UNILEVER PRIVACY PRINCIPLES</u>
-          </h2>
+						<h2 align="center">
+							<u>UNILEVER PRIVACY PRINCIPLES</u>
+						</h2>
 						<p>Unilever takes privacy seriously. The following five principles underpin our approach to respecting your privacy:</p>
 						<ol>
 							<li>We value the trust that you place in us by giving us your personal information. We will always use your personal information in a way that is fair and worthy of that trust.</li>
@@ -311,5 +329,5 @@ You should be aware that many countries do not afford the same legal protection 
 </div>
 </div>
 </span></div>
-<!-- SiteEdit Settings: { "PageID" : "tcm:774-557660-64", "PageVersion" : 1, "TargetTypeID" : "", "ComponentPresentationLocation" : 1} -->
+<!-- SiteEdit Settings: { "PageID" : "tcm:774-557660-64", "PageVersion" : 2, "TargetTypeID" : "", "ComponentPresentationLocation" : 1} -->
 </body></html>
