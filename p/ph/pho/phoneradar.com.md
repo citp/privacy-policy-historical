@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the phoneradar.com privacy policy that was archived on 2015-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150615004322id_/http%3A//phoneradar.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phoneradar.com privacy policy that was archived on 2015-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151219220111id_/http%3A//phoneradar.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy » PhoneRadar
-
-Share
+# Privacy Policy » Phone Radar
 
 [](http://i2.wp.com/phoneradar.com/wp-content/uploads/2014/05/Phoneradar-Privacy-Policy.png)PhoneRadar takes the privacy issues seriously, and the privacy of our visitors is very important to us. PhoneRadar is backed by Digital World Solutions, a company that owns a network of websites. We (PhoneRadar) do not use personal information of the users for any purpose, other than for the newsletters that we send, only if the user chooses to receive them.
 
@@ -43,3 +41,5 @@ We also may use DART cookies for ad serving through Google’s DoubleClick, whic
 PhoneRadar is not affiliated with any third party service, and is wholly owned by backed by Digital World Solutions. None of the phone manufacturers or the Operating system providers are behind this.
 
 Should you have any issues with our website or the privacy while visiting our website, contact us.
+
+Share
