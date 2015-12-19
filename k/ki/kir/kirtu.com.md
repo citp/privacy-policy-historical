@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kirtu.com privacy policy that was archived on 2014-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141208014528id_/http%3A//kirtu.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kirtu.com privacy policy that was archived on 2015-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151219070103id_/http%3A//kirtu.com/privacy.php) for the most accurate reproduction.*
 
 # Kirtu - Privacy Policy
 
