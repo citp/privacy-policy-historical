@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xxxlive.com privacy policy that was archived on 2014-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141107192413id_/http%3A//www.xxxlive.com/privacy.html%3F) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xxxlive.com privacy policy that was archived on 2015-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151219142937id_/http%3A//www.xxxlive.com/privacy.html%3F) for the most accurate reproduction.*
 
 # XXXLIVE - Privacy Policy
 
@@ -50,4 +50,4 @@ The address for correspondence by post is
 ICF Technology, Inc.  
 PO Box 21508  
 Seattle, WA 98111  
-USA 
+USA
