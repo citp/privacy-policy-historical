@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the switzer.com.au privacy policy that was archived on 2015-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150621025259id_/http%3A//switzer.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the switzer.com.au privacy policy that was archived on 2015-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151219025436id_/http%3A//www.switzer.com.au/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | Switzer
 
@@ -35,6 +35,8 @@ We collect personal information in a number of ways, including directly from you
 ##### To whom will we disclose your personal information?
 
 Where possible, we will inform you, at or before the time of collecting your personal information, the types of organisations that we intend to disclose your personal information to.
+
+Switzer will use personal information provided to it only for the purpose for which it was provided. Personal information will not be used for any other purpose without the consent of its provider unless Switzer is required by law to disclose that information. Switzer may be required to disclose personal information to third parties in order to provide a service requested. For example, when a user agrees to be contacted by a content partner of Switzer, disclosure will be necessary to fulfil the purpose for which the personal information was provided. Other than in circumstances such as these, Switzer will not disclose personal information provided, such as name, address, email address or telephone number, to any organisation or person outside Switzer unless the provider has authorised Switzer to do so.
 
 Sometimes we are required or authorised by law to disclose your personal information. Circumstances in which we may disclose your personal information would be to a Court or Tribunal in response to a request or in response to a subpoena or to the Australian Taxation Office.
 
