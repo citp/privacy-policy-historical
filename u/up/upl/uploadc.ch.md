@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uploadc.ch privacy policy that was archived on 2015-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150621154923id_/http%3A//www.uploadc.ch/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uploadc.ch privacy policy that was archived on 2015-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151219234314id_/http%3A//www.uploadc.ch/privacy_policy.html) for the most accurate reproduction.*
 
 # Uploadc - Dosya paylaЕџД±mД±nД±n en kolay yolu
 
