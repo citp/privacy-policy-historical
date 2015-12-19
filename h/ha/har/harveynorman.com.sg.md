@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the harveynorman.com.sg privacy policy that was archived on 2015-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150507213500id_/http%3A//www.harveynorman.com.sg/corporate-information/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the harveynorman.com.sg privacy policy that was archived on 2015-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151219182247id_/http%3A//www.harveynorman.com.sg/corporate-information/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Harvey Norman Singapore
 
