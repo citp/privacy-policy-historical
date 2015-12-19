@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trafficbrowser.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610054442id_/http%3A//www.trafficbrowser.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trafficbrowser.com privacy policy that was archived on 2015-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151219032236id_/http%3A//www.trafficbrowser.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy : Traffic Browser
 
