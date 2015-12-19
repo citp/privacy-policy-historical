@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the physicsforums.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627161700id_/https%3A//www.physicsforums.com/threads/physics-forums-privacy-policy.797829) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the physicsforums.com privacy policy that was archived on 2015-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151219054843id_/https%3A//www.physicsforums.com/threads/physics-forums-privacy-policy.797829) for the most accurate reproduction.*
 
-# Physics Forums Privacy Policy
+# Physics Forums Privacy Policy | Physics Forums - The Fusion of Science and Community
 
   1. > **Mission Statement**
 > 
