@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the kissthisguy.com privacy policy that was archived on 2015-06-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150629092010id_/http%3A//www.kissthisguy.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the kissthisguy.com privacy policy that was archived on 2015-12-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151219064403id_/http%3A//www.kissthisguy.com/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
 	<title>KissThisGuy.com Privacy Notice</title>
@@ -144,7 +144,7 @@
 		
 		
 		<div class="large-9 medium-12 column right">
-			<script id="twitter-wjs" src="//platform.twitter.com/widgets.js"></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script type="text/javascript"><!--
+			<script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js"></script><script id="twitter-wjs" src="//platform.twitter.com/widgets.js"></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script type="text/javascript"><!--
 			google_ad_client = "ca-pub-9194237860849089";
 			/* KTG V3 728x90 */
 			google_ad_slot = "0620814997";
@@ -264,7 +264,7 @@
 		
 	<!--<p style="font-size: 12px;"><a href="jimi.php">Click here</a> for the intriguing story on Jimi Hendrix and this "mishearance." </p>-->
 	<div id="NumberOfSubmissions">
-		<h4 style="margin: 0px; padding: 0px;">Total Submissions: 117,655 <a href="/submit.php">Submit Yours</a></h4>
+		<h4 style="margin: 0px; padding: 0px;">Total Submissions: 118,245 <a href="/submit.php">Submit Yours</a></h4>
 	</div><!--End NumberOfSubmissions-->
 	
 	<div id="SocialMediaNav">
@@ -441,6 +441,13 @@ jQuery(document).ready(function($){
 		</div><!--.row-->
 	</div><!--End BodyNoAds-->
 <!--End Outer-->
+<br>
+<script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- KTG Responsive Size -->
+<ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-9194237860849089" data-ad-slot="2190811074" data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script> 
 <div id="Footer">
 	<div class="row">
 		<div class="large-10 medium-12 column center">
@@ -548,11 +555,98 @@ fjs.parentNode.insertBefore(js, fjs);
 </script>
 <script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></script>-->
 
-<script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- KTG Responsive Size -->
-<ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-9194237860849089" data-ad-slot="2190811074" data-ad-format="auto"></ins>
 <script>
-(adsbygoogle = window.adsbygoogle || []).push({});
-</script> 
+  // This is called with the results from from FB.getLoginStatus().
+  function statusChangeCallback(response) {
+    //console.log('statusChangeCallback');
+    //console.log(response);
+    // The response object is returned with a status field that lets the
+    // app know the current login status of the person.
+    // Full docs on the response object can be found in the documentation
+    // for FB.getLoginStatus().
+    if (response.status === 'connected') {
+      // Logged into your app and Facebook.
+      runAPI();
+
+		
+    } else if (response.status === 'not_authorized') {
+      // The person is logged into Facebook, but not your app.
+      document.getElementById('status').innerHTML = 'Please log into this app.';
+    } else {
+      // The person is not logged into Facebook, so we're not sure if
+      // they are logged into this app or not.
+      document.getElementById('status').innerHTML = 'Please log into Facebook.';
+    }
+  }
+
+  // This function is called when someone finishes with the Login
+  // Button.  See the onlogin handler attached to it in the sample
+  // code below.
+  function checkLoginState() {
+    FB.getLoginStatus(function(response) {
+      statusChangeCallback(response);
+    });
+  }
+
+  window.fbAsyncInit = function() {
+  FB.init({
+    appId      : '1672499779652366',
+    cookie     : true,  // enable cookies to allow the server to access 
+                        // the session
+    xfbml      : true,  // parse social plugins on this page
+    version    : 'v2.2' // use version 2.2
+  });
+
+  // Now that we've initialized the JavaScript SDK, we call 
+  // FB.getLoginStatus().  This function gets the state of the
+  // person visiting this page and can return one of three states to
+  // the callback you provide.  They can be:
+  //
+  // 1. Logged into your app ('connected')
+  // 2. Logged into Facebook, but not your app ('not_authorized')
+  // 3. Not logged into Facebook and can't tell if they are logged into
+  //    your app or not.
+  //
+  // These three cases are handled in the callback function.
+
+  FB.getLoginStatus(function(response) {
+    statusChangeCallback(response);
+  });
+
+  };
+
+  // Load the SDK asynchronously
+  (function(d, s, id) {
+    var js, fjs = d.getElementsByTagName(s)[0];
+    if (d.getElementById(id)) return;
+    js = d.createElement(s); js.id = id;
+    js.src = "//connect.facebook.net/en_US/sdk.js";
+    fjs.parentNode.insertBefore(js, fjs);
+  }(document, 'script', 'facebook-jssdk'));
+
+  // Here we run a very simple test of the Graph API after login is
+  // successful.  See statusChangeCallback() for when this call is made.
+  function runAPI() {
+	
+   //console.log('Welcome!  Fetching your information.... ');
+	FB.api('/me', function(response) {
+      //console.log('Successful login for: ' + response.name);
+		var user_id = response.id;
+		//console.log(user_id);
+		// console.log(response);
+		FB.api('/'+user_id, function(response) {
+			//console.log('Successful login for: ' + response.name);
+			console.log(response);
+			//document.getElementById('status').innerHTML = 'Thanks for logging in, ' + response.name + '!';
+		});
+      document.getElementById('status').innerHTML = 'Thanks for logging in, ' + response.name + '!';
+   });
+	
+
+  }
+</script>
+
+
+
 
 </body></html>
