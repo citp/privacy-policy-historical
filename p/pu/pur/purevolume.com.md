@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the purevolume.com privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630081424id_/http%3A//www.buzz-media.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the purevolume.com privacy policy that was archived on 2015-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151219052013id_/http%3A//www.buzz-media.com/privacy-policy) for the most accurate reproduction.*
 
 # SpinMedia - Privacy Policy
 
