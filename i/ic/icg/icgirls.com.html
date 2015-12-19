@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the icgirls.com privacy policy that was archived on 2015-06-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150616014319id_/http%3A//www.icgirls.com/exec/privacy.jsp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the icgirls.com privacy policy that was archived on 2015-12-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151219044802id_/http%3A//www.icgirls.com/exec/privacy.jsp) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
 <meta charset="utf-8">
@@ -38,13 +38,13 @@
 
 
   <base href="http://www.icgirls.com/templates/cwh_icgirls/english/">
-  <link rel="stylesheet" href="styles/cache_main1.css?nc=1433850033000" type="text/css">
+  <link rel="stylesheet" href="styles/cache_main1.css?nc=1450435176000" type="text/css">
   <link rel="stylesheet" type="text/css" href="../../resources/jquery/nyroModal/nyroModal.min.css" media="screen">
   <!--[if lt IE 7]>
   <link rel="stylesheet" type="text/css" href="../../resources/jquery/nyroModal/i6fix.min.css" media="screen" />
   <link rel="stylesheet" href="styles/cache_ie6fix.css" type="text/css" />
   <![endif]-->
-  <script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1&amp;appId=596292207078202"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="scripts/cache_first1.js?nc=1433850035000"></script>
+  <script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1&amp;appId=596292207078202"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="scripts/cache_first1.js?nc=1450435176000"></script>
   <script type="text/javascript" src="/exec/scripts/dynamic.jsp"></script>
   <script type="text/javascript">
   <!--
@@ -60,11 +60,11 @@
   var isMobile = function() {
     //To dissable mobile version remove comment from the next line
     //return false;
-    return (/(iphone|ipod|ipad|android|blackberry|windows ce|palm|symbian)/i.test(navigator.userAgent) && $.cookie('stop_mobile') === undefined);
+    return (/(iphone|ipod|ipad|android|blackberry|windows ce|palm|symbian)/i.test(navigator.userAgent) && $.cookie('stop_mobile') == undefined);
   };
   var goMobile = function() {
     var host = location.hostname.split('.').slice(-2).join('.');
-    $.removeCookie('stop_mobile', {domain: host, path: '/' });
+    $.cookie('stop_mobile', null);
     window.location.href = "http://m.icgirls.com" + location.pathname;
     return false;
   };
@@ -235,7 +235,7 @@ var current_model = 0;
        function fblogin_customer() {
          FB.login(function(response) {
            if (response.status == 'connected') {
-             document.location.href = CustomerPerson.getFBConnectionUrl('','2055');
+             document.location.href = CustomerPerson.getFBConnectionUrl('','5555');
            }
          }, {perms:'email,user_birthday,user_about_me,user_photos,publish_stream'});
        }
@@ -391,6 +391,8 @@ var current_model = 0;
 </div>
 
 
+
+
       <div class="clear"></div>
     </section>
   </div>
@@ -408,7 +410,7 @@ var current_model = 0;
 
 
 
-<script type="text/javascript" src="scripts/cache_last1.js?nc=1433850034000"></script>
+<script type="text/javascript" src="scripts/cache_last1.js?nc=1450435176000"></script>
 <script type="text/javascript">
 <!--
 $(document).ready(function() {
