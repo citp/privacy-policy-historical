@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the torontovaporizer.ca privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609040459id_/http%3A//torontovaporizer.ca/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the torontovaporizer.ca privacy policy that was archived on 2015-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151219132732id_/https%3A//torontovaporizer.ca/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - TorontoVaporizer
 
@@ -24,11 +24,13 @@ We require this information to understand your needs and provide you with a bett
   * 1\. Internal record keeping.
   * 2\. Remarketing purposes.
   * 3\. We may use the information to improve our products and services.
-  * 4\. We may periodically send promotional emails about new products, special offers, etc., which we think you may find interesting, to the email address you have provided.
+  * 4\. We may periodically send marketing emails (CEMs) about new products, special offers, etc., which we think you may find interesting, to the email address you have provided.
   * 5\. From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail.
   * 6\. We may use the information to customise the website according to your interests.
 
 
+
+In accordance with CASL, the sending of marketing emails will only be done under the following conditions: you've given express consent via an opt-in form on our website or you've given implied consent via making a purchase on www.torontovaporizer.ca within the last two years. Please note that you can withdraw your consent at anytime by unsubscribing. To unsubscribe, simply click on the unsubscribe link at the bottom of any of our emails and you will be taken to a web page where you can unsubscribe. In addition, if we only have your implied consent, we will send you a request for express consent email prior to the two-year experation of our allowed interaction, to continue our relationship. If you have unsubscribed prior to this experation date, you will not receive this request email. TorontoVaporizer will use your information to 1) send you newsletters and other marketing related information and 2) for statistical purposes. Your information will never be sold and will remain confidential. Should you have any questions about TorontoVaporizer's marketing emails or the collection of information, please contact us directly.
 
 #### SECURITY
 
@@ -49,5 +51,3 @@ Our website may contain links to other websites of interest. However, once you h
 #### CONTROLLING YOUR INFORMATION
 
 We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen. You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please **[contact us](http://torontovaporizer.ca/contact-us "Contact")**. If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible to: cs@torontovaporizer.com. We will promptly correct any information found to be incorrect.
-
-[ ](https://web.archive.org/media/wysiwyg/TorontoVaporizer/ascent_vaporizer_.jpg "Ascent Vaporizer") [ ](https://web.archive.org/media/wysiwyg/TorontoVaporizer/mighty_vaporizer_.jpg "Mighty Vaporizer") [ ](https://web.archive.org/media/wysiwyg/TorontoVaporizer/vapirrise_vaporizer_.jpg "VapirRise Vaporizer") [ ](https://web.archive.org/media/wysiwyg/TorontoVaporizer/mflb_vaporizer_.jpg "MFLB Vaporizer") [ ](https://web.archive.org/media/wysiwyg/TorontoVaporizer/solo_vaporizer_.jpg "Arizer Solo Vaporizer") [ ](https://web.archive.org/media/wysiwyg/TorontoVaporizer/vapman_vaporizer_.jpg "Vapman Vaporizer")
