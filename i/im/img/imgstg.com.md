@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the imgstg.com privacy policy that was archived on 2015-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150426044707id_/http%3A//www.imgstg.com/About/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imgstg.com privacy policy that was archived on 2015-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151219224331id_/http%3A//www.imgstg.com/About/Privacy-Policy) for the most accurate reproduction.*
 
 # IMG Sports Technology Group Privacy Policy
 
