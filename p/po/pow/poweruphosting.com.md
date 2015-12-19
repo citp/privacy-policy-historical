@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the poweruphosting.com privacy policy that was archived on 2015-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150615130513id_/http%3A//poweruphosting.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the poweruphosting.com privacy policy that was archived on 2015-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151219091032id_/http%3A//poweruphosting.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - PowerUpHosting
+# Privacy Policy - PowerUpHostingPowerUpHosting
 
 This is the web site of Power Up Hosting.com (poweruphosting.com) For legal and privacy issues, our US address is:
 
