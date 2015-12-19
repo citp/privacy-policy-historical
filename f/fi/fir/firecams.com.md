@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the firecams.com privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612214727id_/http%3A//www.firecams.com/page/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the firecams.com privacy policy that was archived on 2015-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151219170126id_/http%3A//www.firecams.com/page/privacyPolicy) for the most accurate reproduction.*
 
-# 
+# Privacy Policy at FireCams | FireCams.com - Live Cam Sex
 
 ('We') [Bulova Invest Ltd](http://www.firecams.com/) are committed to protecting and respecting your privacy.   
 This policy (together with our [terms](https://web.archive.org/page/termsOfUse) and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
@@ -33,7 +33,7 @@ We use the information we hold about you in the following ways:
   * To answer any questions you may raise or respond to any comments you may send to us.
   * To notify you about changes to our service or the functionality of the Site.
   * To carry out market analysis and research.
-  * To ensure that you are complying with the [terms and conditions of use](https://web.archive.org/page/termsOfUse) and to comply with our statutory and regulatory obligations. 
+  * To ensure that you are complying with the [ Terms and conditions of use](https://web.archive.org/page/termsOfUse) and to comply with our statutory and regulatory obligations. 
 
 
 
@@ -117,4 +117,4 @@ We keep our privacy policy under regular review and will post any changes to it 
 
 If you have any questions about this privacy policy then please contact us at [FireCams](http://www.firecams.com/) or contact us through e-mail: [ support@firecams.com](mailto:support@firecams.com)
 
-Tel: +118008685182
+Tel: 1 8008685182
