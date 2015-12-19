@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the secure.serve.com privacy policy that was archived on 2015-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150516124834id_/http%3A//www.americanexpress.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the secure.serve.com privacy policy that was archived on 2015-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151219153324id_/http%3A//www.americanexpress.com/privacy) for the most accurate reproduction.*
 
 # American Express | US Online Privacy Statement
 
@@ -34,6 +34,6 @@ Card Members can log in to their Card accounts at [americanexpress.com](https://
 
   **Service Providers ** \-- any vendor, third party and/or company that performs business operations on our behalf, such as printing, mailing, and other communications services (email, direct mail, etc.), marketing, data processing, servicing, collections, or ad management. 
 
-**Targeted Advertising ** \-- ads we, or our Service Providers, or Third-Party Ad-Serversdisplay on websites outside the American Express Family of Companies based on the preferences or interests inferred from data collected from a particular computer or device regarding web viewing behaviors over time and across different websites 
+**Targeted Advertising ** \-- ads we, or our Service Providers, or Third-Party Ad-Servers display on websites or in apps outside the American Express Family of Companies based on the preferences or interests inferred from data collected from a particular computer or device regarding viewing behaviors over time and across different websites or apps. 
 
 **Third-Party Ad-Servers ** \-- companies that provide the technology to place ads on websites (and apps) and track how ads perform. These companies may also place and access cookies on your device. The information they collect from our websites is in a form that does not identify you personally. 
