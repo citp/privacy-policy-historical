@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bleachernation.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610002034id_/http%3A//www.bleachernation.com/privacy-policy-and-terms-of-use) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bleachernation.com privacy policy that was archived on 2015-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151219204633id_/http%3A//www.bleachernation.com/privacy-policy-and-terms-of-use) for the most accurate reproduction.*
 
 # Privacy Policy and Terms of Use | Bleacher Nation | Unofficial Chicago Cubs News, Rumors, and Commentary
 
@@ -8,7 +8,7 @@ Bleacher Nation knows that you care about how your personal information is used 
 
 This Privacy Policy covers Bleacher Nation’s treatment of personal information that Bleacher Nation gathers when you are on the Bleacher Nation website and when you use Bleacher Nation services. This policy does not apply to the practices of third parties that Bleacher Nation does not own or control, or to individuals that Bleacher Nation does not employ or manage.
 
-**Information Collected by Bleacher Nation**
+ **Information Collected by Bleacher Nation**
 
 We only collect personal information that is relevant to the purpose of our website. This information allows us to provide you with a customized and efficient experience. We do not process this information in a way that is incompatible with this objective. We collect the following types of information from our Bleacher Nation users:
 
@@ -22,11 +22,11 @@ We only collect personal information that is relevant to the purpose of our webs
 
 
 
-**E-mail Communications**
+ **E-mail Communications**
 
 Bleacher Nation will never provide your email address to a third party without your explicit permission, as detailed in the “Sharing Your Information” section below. Bleacher Nation may send out e-mails with Bleacher Nation-related news, products, offers, surveys or promotions.
 
-**Cookies**
+ **Cookies**
 
 Cookies are alphanumeric identifiers that we transfer to your computer’s hard drive through your Web browser to enable our systems to recognize your browser and tell us how and when pages in our website are visited and by how many people. Bleacher Nation cookies do not collect personal information, and we do not combine information collected through cookies with other personal information to tell us who you are or what your screen name or e-mail address is.
 
@@ -36,7 +36,7 @@ Bleacher Nation’s advertising partners may place a cookie on your browser that
 
 For more information on the collection and use of information for ad targeting, and how to opt out, [please see About Ads](http://www.aboutads.info/choices/).
 
-**Sharing Your Information**
+ **Sharing Your Information**
 
 Bleacher Nation will neither rent nor sell your personal information to anyone. We will share your personal information only as described below.
 
@@ -50,21 +50,21 @@ Syndication: Bleacher Nation allows for the RSS syndication of all of its public
 
 With Your Consent: Except as noted above, we will contact you when your personal information is shared with third parties or used for a purpose incompatible with the purpose(s) for which it was originally collected, and you will be able to opt out to prevent the sharing of this information.
 
-**Children Under 18 Years of Age**
+ **Children Under 18 Years of Age**
 
 You must be 13 years and older to register on Bleacher Nation. As a result, Bleacher Nation does not specifically collect information about children. If we learn that Bleacher Nation has collected information from a child under the age of 13, we will delete that information as quickly as possible. We recommend that minors between the ages of 13 and 18 ask and receive their parents’ permission before using Bleacher Nation or sending information about themselves or anyone else over the Internet.
 
-**Changes to this Privacy Policy**
+ **Changes to this Privacy Policy**
 
 Bleacher Nation may amend this Privacy Policy from time to time, at its sole discretion. Use of information we collect now is subject to the Privacy Policy in effect at the time such information is used. If we make changes to the Privacy Policy, we will notify you by posting an announcement on the Bleacher Nation website so you are always aware of what information we collect, how we use it, and under what circumstances if any, it is disclosed.
 
-**Conditions of Use**
+ **Conditions of Use**
 
 If you decide to visit Bleacher Nation, your visit and any possible dispute over privacy is subject to this Privacy Policy and our Terms of Use, including limitations on damages, arbitration of disputes, and application of Ohio state law.
 
-**Effective Date of this Privacy Policy**
+ **Effective Date of this Privacy Policy**
 
-This Privacy Policy is effective as of 5/17/2011 and last updated 2/06/2015.
+This Privacy Policy is effective as of 5/17/2011 and last updated 11/06/2015.
 
 ## Terms of Use and Commenting Policy
 
