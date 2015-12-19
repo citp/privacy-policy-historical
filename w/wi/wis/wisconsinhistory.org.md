@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wisconsinhistory.org privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628220939id_/http%3A//www.wisconsinhistory.org/Content.aspx%3FdsNav%3DN%3A4294963828-4294963805%26dsRecordDetails%3DR%3ACS4113) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wisconsinhistory.org privacy policy that was archived on 2015-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151219012230id_/http%3A//www.wisconsinhistory.org/Content.aspx%3FdsNav%3DN%3A4294963828-4294963805%26dsRecordDetails%3DR%3ACS4113) for the most accurate reproduction.*
 
 # Wisconsin Historical Society Website Privacy Policy | Wisconsin Historical Society
 
