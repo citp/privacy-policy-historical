@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the waymarking.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627223516id_/http%3A//www.geocaching.com/about/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the waymarking.com privacy policy that was archived on 2015-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151219103258id_/http%3A//www.geocaching.com/about/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Geocaching > Getting Started with Geocaching > Geocaching.com Privacy Policy
 
@@ -68,13 +68,13 @@ Groundspeak will use your information collected in connection with our services,
   4. To verify your identity.
   5. To provide customer service and review issues with your account or your use of our services. 
   6. To allow you to share your experiences using our services with others. 
-  7. To update you on changes to our services, this Privacy Policy or our [Terms of Use](https://web.archive.org/web/20150627223516id_/http%3A//www.geocaching.com/about/termsofuse.aspx) and other administrative communications. 
+  7. To update you on changes to our services, this Privacy Policy or our [Terms of Use](https://web.archive.org/web/20151219103258id_/http%3A//www.geocaching.com/about/termsofuse.aspx) and other administrative communications. 
   8. To authorize payment, whether through secure third party credit card processing gateways or through other payment methods. 
   9. To improve our products and services.
   10. To customize the content available through our services. 
   11. To allow you to login, share information or "like" us through a social network site account, such as Facebook and Twitter. 
   12. To create a convenient and easy-to-use shopping process on Shop.Geocaching.com that includes an online shopping cart. 
-  13. To restrict access to our services or communicate with users who have violated our [Terms of Use Agreement](https://web.archive.org/web/20150627223516id_/http%3A//www.geocaching.com/about/termsofuse.aspx) or otherwise violated our rights or the rights of others.
+  13. To restrict access to our services or communicate with users who have violated our [Terms of Use Agreement](https://web.archive.org/web/20151219103258id_/http%3A//www.geocaching.com/about/termsofuse.aspx) or otherwise violated our rights or the rights of others.
 
 
 
