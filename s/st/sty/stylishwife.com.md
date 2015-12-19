@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the stylishwife.com privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630225021id_/http%3A//stylishwife.com/our-privacy-policy-and-terms-of-use) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stylishwife.com privacy policy that was archived on 2015-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151219183421id_/http%3A//www.stylishwife.com/our-privacy-policy-and-terms-of-use) for the most accurate reproduction.*
 
-# Privacy Policy - Fashion 2015
+# Privacy Policy - Fashion 2016
 
 [Ekstrax.com](http://www.ekstrax.com/) uses features of latest web technology, to secure the data supplied by you, the visitor to our site.
 
