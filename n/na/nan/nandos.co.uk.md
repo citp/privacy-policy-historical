@@ -1,81 +1,155 @@
-> *The following text is extracted and transformed from the nandos.co.uk privacy policy that was archived on 2015-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150424162617id_/http%3A//www.nandos.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nandos.co.uk privacy policy that was archived on 2015-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151219135017id_/http%3A//www.nandos.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Nando's
 
 **Privacy Policy**
 
-In a nut shell we will retain any personal information you share with us, we won’t pass it onto anyone else and you can always contact us to find out what information we have about you.  If you want to know more you can read the legal stuff below …
+Last update: 30th July, 2015
 
-1\. Introduction and General Terms
+**Introduction and General Term:**  Thanks for visiting one of the Nando’s websites or for downloading and installing the Nando’s App. We want to make sure you feel reassured about what happens when you browse our website or give us any of your information. Formal’s not our style, so we’ve made this as easy to read as we can.
 
-2\. What information will Nando’s collect about me?
+Nando’s is registered as a company in the UK as Nando’s Chickenland Limited (UK). Our registered company number is 02580031. We are registered with the Information Commissioner's Office (Registration Number: Z9462934) under the Data Protection Act 1998.
 
-3\. What is Nando’s cookies policy?
+We’re committed to protecting your Personal Data (in future mentions, we’ll refer to this as your “Information”) when you’re using one of our websites or App. This Privacy Policy explains how Nando’s collects, records and uses information about you. It also explains the choices you can make about the way your information is collected and used. If you provide Nando’s with Personal Data, you are giving your consent to accepting this Privacy Policy. 
 
-4\. How will Nando’s use my Personal Data? 
+All information will be held and used in accordance with the Data Protection Act 1998 (the “ **Act** ”). If you want to read more about the “ **Act** ”, you can do so here: [https://www.gov.uk/data-protection/the-data-protection-act ](https://www.gov.uk/data-protection/the-data-protection-act%C2%A0)
 
-5\. What about Personal Data that is publicly available?
+Our websites in the UK and the Republic of Ireland are
 
-6\. Will my Personal Data be used for marketing purposes?
+[www.nandos.co.uk](http://www.nandos.co.uk/) [www.nandos.ie](http://www.nandos.ie/) <https://takeaway.nandos.co.uk/> and [https://takeaway.nandos.ie/Restaurant ](https://takeaway.nandos.ie/Restaurant%C2%A0)
 
-7\. What security measures are in place to protect my Personal Data?
+We’ll refer to these websites collectively as the “ **Site** ” in future mentions in this policy. 
 
-8\. How will Nando’s store my Personal Data?
+If you do not agree to anything set out in this Privacy Policy, you should not use the “ **Site** ” and/or you should delete our App.
 
-9\. Will my Personal Data be shared with anyone else?
+**1\. What information will Nando’s collect about me?  **
 
-10\. Links, advertisers, third party sponsors & ad-servers 
+When you visit our “ **Site** ” (on a mobile device, tablet or desktop) or download and use our app, you may provide us with information personal to you, such as your name, your address, your email address, your mobile phone number and your date of birth (your " **Information** "). You may provide additional “Information” if you wish.
 
-11\. Will my Personal Data be transferred out of the UK?
+You may provide us with “ **Information** ” in a number of ways:
 
-12\. How can I find out what Personal Data Nando’s holds about me?
+1) by registering your Nando’s Card (either online or using our App) or by subscribing to receive email, SMS or Push communications from us. To become a registered Nando’s Card holder you must provide us with your name, email address, date of birth and postcode, but you may provide us with additional information if you choose to do so.
 
-13\. Nando’s application and our use of Facebook user data
+2) by ordering a takeaway using our online ordering service or by using our App. When you place an takeaway order online we may collect information such as what items you’ve browsed, your favourite orders, if you’ve applied any dietary filters and if you have selected one of our restaurants as a favourite
 
-14\. What if I am under the age of 14?
+3) by inputting your credit or debit card details or PayPal account – but only in order to complete a transaction
 
-15\. Changes to this Privacy Policy
+4) by allowing us to collect your physical location through our app (if you have enabled Location Services and agreed to allow Nando’s to send you Push messages)
 
-16\. How can I contact Nando’s?
+5) by registering a Nando’s Gift Card online (in order to protect your balance).
 
-**1\. Introduction and General Terms:** Thank you for visiting the [www.nandos.co.uk](http://www.nandos.co.uk/) or [www.nandosrestaurant.ie](http://www.nandosrestaurant.ie/) websites. Nando’s is registered as Nando’s Chickenland Limited (UK) and is committed to protecting you and your children's Personal Data (as defined below) when using our websites. This Privacy Policy explains how Nando’s collect, record and use information about you and the choices you can make about the way such information is collected and used. By providing us with Personal Data, you are deemed to consent to this Privacy Policy.
+6) by corresponding with our Customer Experience team by email, live chat, in writing, on social media or telephone, in which case we may retain the content of your emails, letters or conversations together with your title, name, email address, the social media username that you’re using, telephone number and our responses. You may provide us with additional “ **Information** ” if you wish. 
 
-**2\. What information will Nando’s collect about me?** When you visit one of our websites, our web server automatically records the name of your ISP (Internet Service Provider), the website from which you visit us, the pages on our sites you visit and in what sequence, and the date and length of your visit. This information is aggregate and anonymous data and does not identify you specifically. We also store personal identifiable information if you volunteer it, for example in the context of online registration, competitions, message boards, surveys, polls, games, SMS, MMS and other mobile services, etc. Personal identifiable information is any information that can be used to identify a specific individual such as your first and last name, screen name, email address, postal address, telephone number, date of birth, details about your telephone device (e.g. mobile phone or PDA) and your telephone service provider and information related to providing products and services ("Personal Data"). We may also collect other information, including your interests, preferences, purchasing behaviour, transactional information, geographical location and demographics (e.g., age, gender, and income information). We may on occasion combine Personal Data we receive online with other records (such as those from telephone and direct purchases) to develop a customer profile relating to you.
+We also collect information about your device, including (where available) your IP address, operating system and browser type, the geographical location of your device, the pages on our “Site” or app that you visit and in what sequence, and the date and length of your visit. This information is aggregated and it does not identify you as an individual. We do this to help improve your experience on our “ **Site** ” and app. 
 
-**3\. What is Nando's cookies policy?** We, our third party service providers and our partners may send "cookies" to your computer or use similar technologies to enhance your online experience at our websites and across the Internet. "Cookies" are files that can identify you as a unique customer and store your personal preferences as product preferences to tells us which site pages you have visited and in what order. We use cookies and other technical information to personalise your visit to the website, to analyse traffic on the website and to track user trends, patterns and selections for authorised download and for technical reasons connected with your use of our site. Cookies can either be permanent (i.e., they remain on your computer until you delete them) or temporary (i.e. they last only until you close your browser). We may also use "web beacons" that monitor your use of our sites. Web beacons (or web bugs) are small strings of code that provide a method for delivering a graphic image on a web page for the purpose of transferring data, such as the IP (Internet Protocol) address of the computer that downloaded the page on which the web beacon appears, the URL (Uniform Resource Locator) of the page on which the web beacons appears, the time the page containing the web beacon was viewed, the types of browser that fetched the web beacon and the identification number of any cookie on the computer previously placed by that server. When corresponding with you via HTML capable e-mail, web beacons let us know whether you received and opened our email. On their own, cookies or web beacons do not contain or reveal any Personal Data. However, if you choose to provide us with Personal Data, it can be linked to the anonymous data stored in the cookies and/or web beacons. Most browsers are initially set to accept cookies. However, if you prefer, you may adjust your browser to reject cookies from us or from any other website. Additionally, by setting your web browser to display HTML emails as text only, you may be able to prevent the use of some web beacons. However, please note that certain areas of our sites can only be accessed in conjunction with cookies or similar devices. 
+**2\. What is Nando's cookies policy?**
 
-**4\. How will Nando’s use my Personal Data?** We collect information so we are able to: provide services or products you request (e.g. send you by email or other electronic means of our newsletters or other products or services in which you express an interest); allow you to participate in recreational activities on the site (e.g. participate in our message boards), to organise or carry out promotional activities, games or promotional events; inform you of changes made to our sites; inform you of products, services, promotions, offers and competitions which you may find interesting; respond to any queries you may have; develop a more direct relationship with you for the purposes described in this section; develop an online customer profile; and understand general customer trends and patterns so we can develop and support existing and ongoing marketing strategies for our products and services. Where you choose to receive mobile services and content via SMS, MMS and other mobile services, we use this information to deliver such mobile services and content to you, to carry out market research, to track sales data and to plan other promotional activities which may be of interest to you.
+**What are cookies?**
 
-**5\. What about Personal Data that is publicly available?** If at any time our sites offer any chat rooms, message boards, blogs, newsgroups or forums, etc., we collect the information that you disclose. Such information will be used in accordance with this Privacy Policy. Please note that we cannot be responsible for other parties' use of the Personal Data which you make available to such third parties through any chat room, message board, blog, newsgroup or forums, etc. on our sites.
+A cookie is a small file that’s typically made up of letters and numbers. It is downloaded on to your device when you browse certain websites. Cookies are then sent back to that website on each visit following that. Cookies are useful because they allow a website to recognise your device so that it can provide you with the best, most relevant experience. Many websites use cookies to help them to improve their website.
 
-**6\. Will my Personal Data be used for marketing purposes?** If we obtain your consent, we also may use your Personal Data for the purposes of: 
+**What information is collected and how do we use it?**
 
-6.1. Direct marketing of our own products and services and on behalf of other companies within the Nando’s.
+Two different types of cookie are used on our “ **Site** ”: Strictly Necessary Cookies and Performance Cookies.
 
-6.2. Direct marketing products and services on behalf of selected third parties; and if you have agreed to your details being passed onto 3rd parties.
+Strictly Necessary Cookies are essential for you to use our “ **Site** ”. They’ll only be stored for the duration of your visit. Without them, you may not be able to move around certain parts our “ **Site** ” or use some of its features. We use these cookies to:
 
-**7\. What security measures are in place to protect my Personal Data?** Although absolute security cannot be guaranteed on the Internet, please be assured that we have in place reasonable technical and organisational security measures to protect your Personal Data against accidental or intentional manipulation, loss, misuse, destruction or against unauthorised disclosure or access to the information we collect online. While we cannot ensure or warrant the security of any Personal Data you provide us, we will continue to maintain and improve these security measures over time in line with legal and technological developments.
+Allow your device to be recognised so that any page changes, items or data selections are remembered on your visit; and
 
-**8\. How will Nando’s store my Personal Data?** We store your Personal Data locally. We may also or alternatively store your Personal Data on and transfer your Personal Data to a central database located in the United Kingdom. Your information will not be stored for longer than is necessary for the purposes described in this Privacy Policy.
+Detect software on your device which enables certain content on our “ **Site** ”.
 
-**9.** **Will my Personal Data be shared with anyone else?**  
+Performance Cookies aren't essential but they provide us with useful anonymous information about how our customers use our “ **Site** ”. Without them, it would be difficult for us to understand how our “ **Site** ” is performing and we may miss out on the opportunity to make improvements that could make your user experience better. We use these cookies to:
 
-9.1. Nando’s entities: We may share your Personal Data with other entities within Nando’s. The entities within the Nando’s that have agreed to be bound by this Privacy Policy have access to your data and can use it for the purposes mentioned in this Privacy Policy. It is possible that we, or one of our divisions or affiliates, could merge with, be sold to or be acquired by a third party. To the extent legally permissible and in accordance with the conditions of this Privacy Policy, we may share your Personal Data with any successor entity.
+Obtain statistics about how our “Site” is used (including which pages are visited most often and how users came to visit our “ **Site** ”);
 
-9.2. Third parties: We may disclose Personal Data about you to other third parties to comply with applicable laws and regulations. We also reserve the right to disclose such Personal Data to third parties where a complaint arises concerning your use of our site and where we believe, in our sole discretion, that your use of our site is inconsistent with the Privacy Policy. We also share information about users of this site in an anonymous or aggregate form with third parties including advertisers and business partners, to understand customer trends and patterns and manage and improve our business relationships. We provide your Personal Data to third party processors to administer and process for the purposes notified to you in this Privacy Policy, and we may also share such details with third parties (such as auditors or legal advisors) to obtain professional advice. Any such processing will be governed by an agreement in the form required by law, preserving any and all of your statutory data protection rights. 
+Evaluate our “ **Site** ” performance; and
 
-**10\. Links, advertisers, third party sponsors & ad-servers:** Some of our sites contain links to other sites that are not covered by this Privacy Policy and where information practices may be different from ours. Users should consult the other sites' privacy policies on such third party sites before submitting any Personal Data, as we are not responsible for and have no control over Personal Data that is submitted to, or collected by, these third-party sites. On this site, we sometimes offer content or programs that are sponsored by or co-branded with identified third parties (e.g., competitions or promotions). These third parties can obtain Personal Data that you voluntarily submit to them to make use of the offer. We are not responsible for the collection and use of your Personal Data by these third parties. However, you will be informed, at the point of collection of such personally identifiable information, if these third parties will obtain such information, how it will be processed and to whom it will be transferred. At some of our sites, third parties may present or serve advertisements, provide us with data collection, reporting and ad response measurement, as well as assist with delivery of relevant marketing messages and advertisements. These third parties may view, edit, or set their own cookies. The use of these technologies by such third parties is subject to their own privacy policies and is not covered by this Privacy Policy. 
+Help us make sure that the content and features on our “ **Site** ” are relevant for your future visits.
 
-**11\. Will my Personal Data be transferred out of the UK?** As the Nando’s operates globally, it may be necessary to transfer your Personal Data internationally. In particular, your Personal Data may be transferred to and processed in the United Kingdom where the Nando’s central database is operated. The data protection and other laws of other countries, may not be as comprehensive as those in the European Economic Area. Please be assured that we take reasonable steps to ensure that your privacy is protected.
+The cookies on our “ **Site** ” only collect anonymised information and these cookies cannot be used to identify you as an individual.. We may use these cookies to target you with online advertising.
 
-**12\. How can I find out what Personal Data the Nando’s holds about me?** To see the Personal Data we have collected through this site that relates to you, to cancel it and/or to correct or update this Personal Data, please email us at the forms in the ‘Contact us’ section. In addition, we will always give you the opportunity to update your preferences regarding our use of your Personal Data. To protect your privacy and security we will take reasonable steps to verify your identity before granting access. If you have any additional questions about Personal Data we hold about you, please contact us or visit [www.nandos.co.uk/contactus. ](https://web.archive.org/contactus.%C2%A0)
+**How to reject, delete or accept cookies**
 
-**13\. Nando’s application and our use of Facebook user data** Nando’s has an official application for iPhone, iPad, iPod and Android, available for download via [/app](https://web.archive.org/app) This application will access information from user’s Facebook accounts once they give us permission to do so whilst using the Facebook-related functionality of the application. Once permission is granted, the Nando’s application accesses a user’s friends list and location only.
+If you use our “ **Site** ”, it means you agree with our collecting cookies. You can set your web browser to allow, switch off or delete cookies on ours and other websites. In a few cases, switching off or deleting cookies might reduce the functionality of or stop you accessing certain websites (including our “ **Site** ”).
 
- The Nando's "Find Yourself" Facebook application <https://apps.facebook.com/nandosfindyourself> will access information from users' Facebook accounts once they give us permission to do so. Once permission is granted, the application accesses a user's name, gender, birthday, locale, email address and spice result.
+We use a number of social media tools and external applications to enhance your interaction with our “ **Site** ”. For example, we sometimes embed videos from YouTube on our “ **Site** ”. As a result, you may be sent cookies from these third party websites. We do not control these cookies and we suggest you check these third party websites for more information about the cookies they use.
 
-**14\. What if I am under the age of 14?** It is important to us that children can enjoy our sites in a responsible fashion. We therefore require children under fourteen (14) years old to consult with their parents before providing Personal Data. We also encourage parents to supervise their children's online activities by, for example, adopting parental control tools available from online services and software manufacturers that help provide a child-friendly online environment. These tools can also prevent children from disclosing online their name, address, and other Personal Data without parental permission. Your child's privacy is important to us. We are committed to safeguarding children's Personal Data collected online, and to helping parents and their children learn how to exercise control over Personal Data while exploring the Internet. To this end, we take additional measures to protect the privacy of our younger users. Users of this site may participate in many activities without providing any Personal Data. However, if a user wants to participate in certain interactive features on our sites, we ask the user to provide us with certain information, such as the user's email address and age. When the user who registers indicates that he or she is under fourteen (14) years old, we will take one of four steps: (1) collect no information from that user; (2) require the user to provide a parent's verifiable consent; (3) collect only the user's email address to respond to the user's specific request; or (4) collect the email address of the user's parent in addition to the user's email address to seek the parent's verifiable consent or to notify them of their child's online activities. We also use the email addresses of parents to enable them to unsubscribe their child from a newsletter or other similar activity. We do not share Personal Data regarding users under the age of fourteen (14) with outside third parties not bound by this Privacy Policy without prior parental consent. Even with the parents' consent, if a user is under the age of fourteen (14), we will not condition his/her participation in an online activity on the disclosure of more information than is reasonably necessary to participate in the activity. While we want children to enjoy our websites, please note that, unless stated otherwise on this site, SMS, MMS and other mobile services are only available to users who are at least fourteen (14) years of age. We do not encourage users under the age of fourteen (14) to provide Personal Data to us (such as their mobile phone or PDA contact details) in order to subscribe to such services. However, if you are a parent and would like to review any Personal Data that we have collected online from your child, have this information deleted, and/or request that there be no further collection or use of your child's Personal Data or if you have any questions about our Privacy Policy or practices, you may contact us through the contact us forms on the website ([www.nandos.co.uk/contactus](https://web.archive.org/contactus)) or write to Nando’s Customer Care, Erico House, 93-99 Upper Richmond Road, Putney, London SW15 2TG.
+**3\. How will Nando’s use my “Information”?  **
 
-**15\. Changes to this Privacy Policy:** From time to time, we may revise this Privacy Policy to reflect company initiatives, changes in the law or technology or changes in our practices regarding the collection and use of Personal Data. If we decide to change this Privacy Policy, the changes will be posted on this site so that you are always informed of the latest version. The date of the most recent revisions will appear at the top of this page. We will not use or disclose Personal Data provided to us pursuant to this Privacy Policy in ways other than the ones described above, without informing you and providing you with the opportunity to consent to such modified conditions concerning the use and disclosure of your Personal Data. 
+We’ll take good care of any “ **Information** ” that you give us and we’ll use it in the following ways:
 
-**16\. How can I contact Nando’s?** If you have any questions or comments about this Privacy Policy please feel free to contact us via the contact us forms on our website ([www.nandos.co.uk/contactus](https://web.archive.org/contactus)) or write to Nando’s Customer Care, Erico House, 93-99 Upper Richmond Road, Putney, London SW15 2TG. If any provision of this Privacy Policy is judged to be illegal, void or unenforceable due to applicable law [or by order of a court of competent jurisdiction] it shall be deemed deleted and the continuation in full force and effect of the remainder of the provisions will not be prejudiced unless a court of competent jurisdiction determines that the substantive purpose of this Privacy Policy is then frustrated, in which case you may contact Nando’s at the above address in order to opt-out of the Privacy Policy.
+1) to allow you to register your Nando’s Card with us, subscribe to any other services available on our “ **Site** ” where you choose to do so, and to respond to any correspondence;
+
+2) to contact you with information about Nando’s products, services, news and special offers, if you’ve given your consent when you registered with us
+
+3) to make sure you get the best experience from our “ **Site** ” or App – depending on what computer or device that you’re using;
+
+4) if you’re using the App (and you have given us permission to do so by enabling this on your device) to send you ‘Push’ notifications containing information about our products and services and to provide you with information in the App
+
+5) to notify you about changes to any of our services.
+
+**4\. Do you share my “Information” with anyone else?**
+
+We treat your “ **Information** ” with the care and respect that we would our own. It is stored safely and securely. There are occasions when we might have to transfer “ **Information** ” to third parties. These include:
+
+**Nando’s entities:  **
+
+We’ll share your “ **Information** ” with people or departments within Nando’s but only if they have a need to access it. They’ve agreed to be bound by this Privacy Policy so that they can have access to your “ **Information** ” and are able to use it only for the purposes mentioned in this Privacy Policy. It’s possible that we, or one of our divisions, agencies or affiliates, could merge with, be sold to, or be acquired by a third party. In accordance with the conditions of this Privacy Policy, we may share your “ **Information** ” with any successor company.
+
+**Third parties:  **
+
+We may disclose “ **Information** ” about you to other third parties to comply with applicable laws and regulations. We also have the right to disclose such “ **Information** ” to third parties where there’s been a complaint concerning your use of our “ **Site** ” or App or where we believe that you haven’t complied with our Privacy Policy.
+
+We may also share “ **Information** ” with third parties for marketing, advertising and strategic development purposes to help us understand customer trends and patterns and to make sure that Nando’s is talking to you about the most relevant things. These third parties will comply fully with this Privacy Policy. We have Agreements in place that define what third parties can and cannot do with “ **Information** ” relating to Nando’s customers. We also conduct periodic reviews of third parties to ensure compliance.
+
+We may also share such details with auditors or legal professionals to obtain professional advice. If we do this, your statutory data protection rights will be preserved. 
+
+You should be aware that if we’re requested by the police, a regulatory or government authority in the investigation of suspected illegal activities to provide your “ **Information** ”, then we are entitled do so.
+
+Occasionally, we’ll ask to share your “ **Information** ” with third parties for marketing purposes. We’ll only do this when we have your explicit consent to do so (for example, when you enter a competition on our “ **Site** ” we’ll ask you to tick a box to consent). If you don’t give your consent, it won’t prejudice your chances in any competitions.
+
+**5\. What security measures are in place to protect my “Information”?  **
+
+The transmission of information via the internet is not completely secure. Although we take steps to protect your information, we can’t guarantee the security of your data transmitted to the “ **Site** ”; any transmission is at your own risk. We have strict security procedures and features to prevent unauthorised access once we have received your “ **Information** ”. We’ll continue to maintain and improve these security measures in line with legal and technological developments.
+
+**6\. How and where will Nando’s store my “Information”?  **
+
+Nando’s is a global company so the “ **Information** ” that you provide to us will be stored on our servers which might be in or outside the EEA (European Economic Area).  Access to your “ **Information** ” is limited to those who have a need to manage it. This could include our employees of our group companies, service providers or agencies) but your data will be protected in the same ways as outlined in this Privacy Policy. We’ll take all necessary and reasonable steps to ensure that any “Information” that we send to outside the EEA is protected by appropriate technical, physical, electronic, and organisational procedures in place to keep that “ **Information** ” and prevent the unauthorised or unlawful processing of your “ **Information** ”, and accidental loss or destruction of, or damage to, your “ **Information** ”. By submitting your “ **Information** ”, you consent to this.
+
+Where you’ve chosen a password which allows you to access certain parts of our “ **Site** ” or App, you’re responsible for keeping this password confidential. We recommend that you don’t share your password with anyone else. We recommend that your password is unique to your Nando’s account. We will not be liable for any unauthorised access or transactions entered into using your name and password where it has been shared with your permission or if you haven’t taken adequate steps to prevent it on either a desktop computer or another device. If you access our “ **Site** ” using a public computer, we advise you not to store your password and to log out of any parts of our “ **Site** ”. If you’re using a mobile phone or tablet to use our “ **Site** ” or App, we advise that you have an appropriate passcode. 
+
+**7\. Links, advertisers, third party sponsors & ad-servers**
+
+Some of our sites contain links to other sites that are not covered by this Privacy Policy and where information practices may be different from ours. You should consult the other sites' privacy policies on such third party sites before submitting any “ **Information** ”, as we are not responsible for and have no control over “ **Information** ” that is submitted to, or collected by, these third-party sites.  We sometimes offer content or programs that are sponsored by or co-branded with identified third parties (e.g., competitions or promotions). These third parties can obtain “Information” that you agree to submit to them to make use of the offer. We are not responsible for the collection and use of your “ **Information** ” by these third parties. However, at the point of collection of any personally identifiable “ **Information** ”, we’ll let you know if these third parties will obtain this and how it will be processed and used.
+
+On our “ **Site** ”, third parties may provide us with data collection and reporting about the use of our site, as well as assist delivering relevant marketing messages and advertisements. These third parties may view, edit, or set their own cookies. The use of these technologies by such third parties is subject to their own privacy policies and is not covered by this Privacy Policy.
+
+**8\. How can I find out what “Information” Nando’s holds about me?  **
+
+The “ **Act** ” gives you the right to access “Information” that is held about you. You can exercise your right to access this in accordance with the “ **Act** ”. To protect your privacy and security, we’ll take reasonable steps to verify your identity before providing copies of any relevant materials. We’re entitled to charge a fee for this service. You can request access to your “ **Information** ” that we hold about you by: 
+
+**Speaking**  to our Customer Experience team by telephoning 0800 975 8181 (Monday-Friday 9:00 – 17:30)
+
+**Chatting**  to us using the live chat function on our website
+
+**Emailing**  us at [customers@nandos.co.uk](mailto:customers@nandos.co.uk)
+
+**Writing**  to us at Nando’s Customer Experience, Erico House, 93-99 Upper Richmond Road, Putney, London SW15 2TG 
+
+**Messaging**  us on Facebook or Twitter (if you’re sending us your number or anything else personal to you then please only do this via a direct message).
+
+**9\. How long will Nando’s keep my information for?**
+
+We won’t keep your “ **Information** ” for longer than is necessary for our legitimate business purposes or than is required by law.
+
+**10\. The use of our site by under 14s**
+
+It’s important to us that children can enjoy our “ **Site** ” and “ **App** ” in a responsible fashion. Therefore, children under the age of fourteen (14) years old should have permission from a parent or guardian before providing “Information”. We encourage the supervision of children's online activities. For example, parental control tools which are available online to help provide a child-friendly online environment. These tools can also prevent children from disclosing their name, address, and other “Information” online without parental permission. Your child's privacy is important to us and we are committed to safeguarding children's “Information” collected online. Users of our “ **Site** ” may participate in many activities without providing any “ **Information** ”. However, if you’d like to participate in certain interactive features on our “ **Site** ”, we’ll ask you to provide us with certain information, such as your email address and age.
+
+Nando’s will not send any marketing communications to anyone who is aged under 16.  
+
+**11\. Changes to this Privacy Policy:**  From time to time, we may revise this Privacy Policy to reflect new company initiatives, services, changes in the law or technology. Any changes we make to this Privacy Policy will be posted on this site so that you are always informed of the latest version. We’ll also include the date of the most recent revisions at the top of this page.
+
+**12\. How can I contact Nando’s?**  If you have any questions or comments about this Privacy Policy please feel free to get in touch with us. You can write to us at: 
+
+Nando’s Customer Experience, Erico House, 93-99 Upper Richmond Road, Putney, London SW15 2TG. 
