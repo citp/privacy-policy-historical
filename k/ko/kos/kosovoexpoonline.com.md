@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kosovoexpoonline.com privacy policy that was archived on 2015-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150214123905id_/http%3A//kosovoexpoonline.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kosovoexpoonline.com privacy policy that was archived on 2015-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151219045221id_/http%3A//kosovoexpoonline.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy Overview
 
