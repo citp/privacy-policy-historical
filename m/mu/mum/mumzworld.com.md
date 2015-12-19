@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mumzworld.com privacy policy that was archived on 2012-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121211045751id_/http%3A//www.mumzworld.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mumzworld.com privacy policy that was archived on 2015-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151220005436id_/http%3A//www.mumzworld.com/en/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,7 +6,7 @@ Mumzworld.com (from here on referred to as ‘we’, ‘our’, ‘us’) is com
 
 **How we use your information**
 
-We only use your information to carry out your order and send you specially selected emails about deals that we think will interest you. We don’t sell your information to any third party organizations and only share it with our trusted partners who help make your experience on mumzworld what it is. It is our responsibility to protect your personal information from unauthorized access by third parties.
+We only use your information to carry out your order and send you specially selected emails about deals that we think will interest you. We don’t sell your information to any third party organizations and only share it with our trusted partners who help make your experience on mumzworld what it is. It is our responsibility to protect your personal information from unauthorized access by third parties. **The details collected from you do not include your credit card details.**
 
 **How we obtain your information**
 
@@ -25,9 +25,7 @@ All our registered users are asked to provide us with the following personal det
 
 
 
-When you complete an order you may also have to provide us with your credit/debit card details.
-
-Please note that we also store all personal details provided to us by non-registered users and use it in the same way we use the information provided to us by registered users.
+Please note that any credit card details collected from you will not be stored, sold, leased, rented or shared to any third parties. This information is not even available to our staff, even if we wanted access to it. In addition, your credit card transaction is managed by trusted, certified and legally authorized partners that ensure your credit card information is always secure during every transaction. We also store all personal details provided to us by non-registered users and use it in the same way we use the information provided to us by registered users. 
 
 Other information we might collect
 
@@ -38,6 +36,22 @@ We also record all telephone calls and save all email contact that our customers
 Cookies
 
 Cookies are small text files that gather information about non- personally identifiable visitors to websites. IP and ULR addresses are gathered through the use of Cookies- as well as the date and time of a visit to our site. Cookies help customize your Internet experience, and are used on most commercial sites. They allow us to help bring you the offers, advertisements and features that are most relevant to you and allow you to save personal details on your browser, such as your password, which will be accessible next time you visit our site. You can adjust your browser to alert you when a website is trying to send you cookies and also to block all cookies whilst visiting our site. Blocking cookies will mean that you are only able to use mumzworld for the purpose of browsing and research rather than purchasing products. Through the use of cookies, we can track previous websites that our visitors and other users of the IP address have been to as well as the search terms entered by users. Cookies are used purely for the purpose of statistical analysis of traffic flows for the improvement of our website, and are **never stored in a form in which individual users can be identified**. Therefore, they are not used to collect personal information about you. The statistical data collected as a result of Cookies is not transferred to our third party partners in a form that discloses any of your personal details in connection with them.  Please be aware that our providers of advertising and content on our site may also use cookies to collect data about traffic flows themselves. We make sure that all our partners follow stringent security and privacy procedures.
+
+Google
+
+This website uses Google Analytics, a web analytics service provided by Google, Inc. (“Google”). Google's advertising requirements can be summed up by Google's Advertising Principles. They are put in place to provide a positive experience for users. <https://support.google.com/adwordspolicy/answer/1316548?hl=en>
+
+Google services implemented on Mumzworld:
+
+      • Remarketing with Google AdSense
+
+      • Google Display Network Impression Reporting
+
+      • Demographics and Interests Reporting
+
+      • DoubleClick Platform Integration
+
+We along with third-party vendors, such as Google use first-party cookies (such as the Google Analytics cookies) and third-party cookies (such as the DoubleClick cookie) or other third-party identifiers together to compile data regarding user interactions with ad impressions, and other ad service functions as they relate to our website. 
 
 **Why we collect this information**
 
@@ -82,6 +96,8 @@ By joining and/or using mumzworld, you confirm that you do not consider the stat
 Mumzworld users are given the option of registering for our newsletter and other news about special offers and deals. If, at any time, you prefer not to receive email marketing information from us please follow the unsubscribe link at the bottom of each email OR contact us at [support@mumzworld.com](mailto:support@mumzworld.com) and instruct us to remove your email address from our database. For us to be able to do so, please include your email address in the body of your email and write "Unsubscribe" in the subject line." We will process your request as soon as we can. In this way you are modifying your mumzworld account settings, rather than cancelling your membership.
 
 If you wish to cancel your mumzworld account, please send our Customer Services department an email - with the words ‘Cancel Account’ in the title. Your account will be cancelled and we will delete all personal details that we have stored about you within 28 days. However, we are not responsible for contacting and/ or deleting the personal details about you that we have shared with our trusted partners.
+
+Users can set preferences for how Google advertises to you using the Google Ad Settings page. Alternatively, you can opt out by visiting the Network Advertising initiative opt out page or permanently using the [Google Analytics Opt Out Browser](https://tools.google.com/dlpage/gaoptout/) add on.
 
 **Contact Information**
 
