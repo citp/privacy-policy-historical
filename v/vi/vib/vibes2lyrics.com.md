@@ -1,6 +1,9 @@
-> *The following text is extracted and transformed from the vibes2lyrics.com privacy policy that was archived on 2015-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150621160246id_/http%3A//vibes2lyrics.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vibes2lyrics.com privacy policy that was archived on 2015-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151219235148id_/http%3A//vibes2lyrics.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - VIBES2LYRICS.COM NIGERIA
+
+**AD:-** **Promote Your Music On This Website For A Token[Click Here](http://goo.gl/hPZBao) For More Info. Tell/WhatsApp:- 08021253418; BBM PIN:59193665**  
+**Join Our BBM Channel For Hot Updates, PIN:**[ **C004AD282**](http://pin.bbm.com/C004AD282)
 
 ## Personal Information
 
@@ -37,14 +40,26 @@
 
 
 
-### [krimdelakrym](http://vibes2lyrics.com/blog/author/krimdelakrym/ "krimdelakrym")
+**SHOP KIDDIES CLOTHERS NOW**
 
-Tipped To Be The Next Bill-Gates!!!. WebSite Developer, Software Programmer and Blogger. Graduate Of Construction Technology and Brain Behind Vibes2Lyrics.com
+[](https://vibes2lyrics.com/apps)
 
-[More Posts](http://vibes2lyrics.com/blog/author/krimdelakrym/ "More posts by krimdelakrym") \- [Website](http://vibes2lyrics.com/ "krimdelakrym")
+**Download VIBES2LYRICS.COM APP NOW**
 
-Follow Me:  
-[](http://www.twitter.com/krimdelakrym)[](http://www.facebook.com/delakrymbaba)[](http://www.linkedin.com/in/krimdelakrym)[](http://www.pinterest.com/krimdelakrym)[](https://plus.google.com/109467250814554384721)
+  * About
+  * Latest Posts
+
+
+
+[](http://vibes2lyrics.com/ "krimdelakrym")
+
+### [krimdelakrym](http://vibes2lyrics.com/)
+
+Tipped To Be The Next Bill-Gates!!!. WebSite Developer, Software Programmer and Blogger. Graduate Of Construction Technology and Brain Behind VIBES2LYRICS.COM + many other regular website you use everyday.
+
+[](http://vibes2lyrics.com/ "krimdelakrym")
+
+#### Latest posts by krimdelakrym ([see all](http://vibes2lyrics.com/author/krimdelakrym/))
 
 ### Comments
 
