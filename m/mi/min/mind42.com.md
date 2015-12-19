@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mind42.com privacy policy that was archived on 2015-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150502154735id_/http%3A//mind42.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mind42.com privacy policy that was archived on 2015-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151219212137id_/http%3A//mind42.com/privacy) for the most accurate reproduction.*
 
 # Privacy policy - Mind42: Free online mind mapping software
 
