@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the z5traffic.com privacy policy that was archived on 2015-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150622100236id_/http%3A//z5traffic.com/general/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the z5traffic.com privacy policy that was archived on 2015-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151219074731id_/http%3A//www.z5traffic.com/general/privacy.php) for the most accurate reproduction.*
 
 # z5Traffic
 
