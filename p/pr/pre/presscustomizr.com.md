@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the presscustomizr.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629125917id_/http%3A//presscustomizr.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the presscustomizr.com privacy policy that was archived on 2015-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151219152109id_/http%3A//presscustomizr.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Press Customizr
 
@@ -6,23 +6,23 @@
 
 Press Customizr is a service offering of Press Customizr SARL, private company with a capital of € 30,000. The headquarters are located at 216 avenue de Fabron, le Fabrise C1, 06200 Nice, and references in this document to “us,” “our,” and “we” refer to Press Customizr :
 
-  *  **Headquarter address : 216 avenue de Fabron, le Fabrise C1, 06200 Nice, France**
-  *  **RCS registration number: 808 686 562**
-  *  **VAT number : FR70808686562**
-  *  **CNIL Declaration Number :  1852560 **( what is this ***** )
-  *  **Publication director: Nicolas Guillaume**
-  *  **E-mail: contact[at]presscustomizr.com**
-  *  **Hosting:  PlanetHoster, 4416 Louis B Mayer, Laval, Quebec, H7P 0G1, Canada**
+  * **Headquarter address : 216 avenue de Fabron, le Fabrise C1, 06200 Nice, France**
+  * **RCS registration number: 808 686 562**
+  * **VAT number : FR70808686562**
+  * **CNIL Declaration Number :  1852560 **( what is this ***** )
+  * **Publication director: Nicolas Guillaume**
+  * **E-mail: contact[at]presscustomizr.com**
+  * **Hosting:  PlanetHoster, 4416 Louis B Mayer, Laval, Quebec, H7P 0G1, Canada**
 
 
 
- **© 2015 Press Customizr  SARL**
+**© 2015 Press Customizr  SARL**
 
- **Press Customizr  is a registered trademark.**
+**Press Customizr  is a registered trademark.**
 
 ( ***** ) _The[Commission nationale de l’informatique et des libertés or CNIL](http://www.cnil.fr/english/the-cnil/ "CNIL website") (French pronunciation: ​[knil]; English: National Commission on Informatics and Liberty) is an independent French administrative regulatory body whose mission is to ensure that data privacy law is applied to the collection, storage, and use of personal data. Its existence was established by the French loi n° 78-17 on Information Technology, Data Files and Civil Liberty of 6 January 1978, and it is the national data protection authority for France. Source :  [CNILwikipedia](http://en.wikipedia.org/wiki/Commission_nationale_de_l%27informatique_et_des_libert%C3%A9s "CNIL")_
 
- _Since we collect private data (like emails) from our customers, Press Customizr must be registered to the CNIL to ensure that data privacy law is applied to the collection, storage, and use of your personal data._
+_Since we collect private data (like emails) from our customers, Press Customizr must be registered to the CNIL to ensure that data privacy law is applied to the collection, storage, and use of your personal data._
 
 ## Privacy Policy
 
@@ -34,10 +34,10 @@ When you visit our website you may provide us with two types of information: per
 
 ### 1\. PERSONAL INFORMATION YOU CHOOSE TO PROVIDE
 
- **Registration Information**  
+**Registration Information**  
 You will provide us information about yourself, and your practices when you purchase Press Customizr products and services, register for forum support, or register for email newsletters and alerts.
 
- **Email Information**  
+**Email Information**  
 If you choose to correspond with us through email, we may retain the content of your email messages together with your email address and our responses.
 
 ### 2\. WEBSITE USE INFORMATION
@@ -58,12 +58,12 @@ A cookie is a very small text document, which often includes an anonymous unique
 
 The types of cookies used on our site can generally be put into one of the following categories: strictly necessary; analytics; functionality; advertising; and social media. You can find out more about each of the cookie categories in the table below.
 
-Strictly Necessary Cookies| These cookies are essential to make our website work. They enable you to move around the site and use its features. Without these cookies, services that are necessary for you to be able to use our site such as accessing secure areas cannot be provided.  
+Strictly Necessary Cookies | These cookies are essential to make our website work. They enable you to move around the site and use its features. Without these cookies, services that are necessary for you to be able to use our site such as accessing secure areas cannot be provided.  
 ---|---  
-Analytics Cookies| These cookies collect information about how people are using our website, for example which pages are visited the most often, how people are moving from one link to another and if they get error messages from certain pages. These cookies don’t gather information that identifies you. All information these cookies collect is grouped together with information from other people’s use of our site on an anonymous basis. Overall, these cookies provide us with analytical information about how our site is performing and how we can improve it.  
-Functionality Cookies| These cookies allow us to remember choices you make and tailor our site to provide enhanced features and content to you. For example, these cookies can be used to remember your user name, language choice or country selection, they can also be used to remember changes you’ve made to text size, font and other parts of pages that you can customise.  
-Advertising Cookies| These cookies are used to deliver advertisements that are more relevant to you and your interests. They are also used to limit the number of times you see an advertisement as well as help measure the effectiveness of the advertising campaign. They remember that you have visited a website and this information may be shared with other organisations such as advertising partners. This means after you have been to our site you may see some advertisements about our services elsewhere on the Internet.  
-Social Media Cookies| In order to enhance your internet experience and to make the sharing of content easier, some of the pages on our website may contain tools or applications that are linked to third party social media service providers such as Facebook, Twitter or Google+. Through these tools or applications the social media service provider may set its own cookies on your device. We do not control these cookies and you should check the social media service provider’s website for further details about how they use cookies.  
+Analytics Cookies | These cookies collect information about how people are using our website, for example which pages are visited the most often, how people are moving from one link to another and if they get error messages from certain pages. These cookies don’t gather information that identifies you. All information these cookies collect is grouped together with information from other people’s use of our site on an anonymous basis. Overall, these cookies provide us with analytical information about how our site is performing and how we can improve it.  
+Functionality Cookies | These cookies allow us to remember choices you make and tailor our site to provide enhanced features and content to you. For example, these cookies can be used to remember your user name, language choice or country selection, they can also be used to remember changes you’ve made to text size, font and other parts of pages that you can customise.  
+Advertising Cookies | These cookies are used to deliver advertisements that are more relevant to you and your interests. They are also used to limit the number of times you see an advertisement as well as help measure the effectiveness of the advertising campaign. They remember that you have visited a website and this information may be shared with other organisations such as advertising partners. This means after you have been to our site you may see some advertisements about our services elsewhere on the Internet.  
+Social Media Cookies | In order to enhance your internet experience and to make the sharing of content easier, some of the pages on our website may contain tools or applications that are linked to third party social media service providers such as Facebook, Twitter or Google+. Through these tools or applications the social media service provider may set its own cookies on your device. We do not control these cookies and you should check the social media service provider’s website for further details about how they use cookies.  
   
 #### HOW DO WE USE INFORMATION WE COLLECT FROM COOKIES?
 
