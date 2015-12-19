@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the primarygames.com privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628052607id_/http%3A//www.primarygames.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the primarygames.com privacy policy that was archived on 2015-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151219113232id_/http%3A//www.primarygames.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - PrimaryGames - Play Free Kids Games Online
 
@@ -59,6 +59,8 @@ Driver Digital: <http://www.driverdigital.com/privacy>
 BatteryPOP: <http://www.batterypop.com/privacy-policy>
 
 SuperAwesome: <http://www.superawesome.tv/privacy_policy/>
+
+PlayWire: <http://playwiremedia.com/privacy/>
 
   
 
