@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the hosting.com privacy policy that was archived on 2015-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150621100413id_/http%3A//www.hosting.com/terms-and-conditions/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hosting.com privacy policy that was archived on 2015-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151219174736id_/http%3A//www.hosting.com/terms-and-conditions/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | HOSTING Managed Cloud Services
 
-At Hosting.Com, Inc. (“HOSTING”) we respect your privacy and know that you care about how your personal information is collected and used. We encourage you to read through our  
-information handling practices as described below so you understand our commitment to your privacy and how you can participate in the handling of your information.
+At Hosting.Com, Inc. (“HOSTING”) we respect your privacy and know that you care about how your personal information is collected and used. We encourage you to read through our information handling practices as described below so you understand our commitment to your privacy and how you can participate in the handling of your information.
 
-This Privacy Policy discusses how HOSTING collects, uses, maintains, and discloses information collected from our customers, visitors to our websites, individuals who contact us,  
-and visitors to our customers’ websites (“Users”).
+This Privacy Policy discusses how HOSTING collects, uses, maintains, and discloses information collected from our customers, visitors to our websites, individuals who contact us, and visitors to our customers’ websites (“Users”).
 
 Please review this Privacy Policy in conjunction with our Acceptable Use Policy (“AUP”) and the rest of your contract with us. The terms of this Privacy Policy are in addition to the terms of our AUP and the rest of your contract. We offer products and services that are provided by third parties (“Third Party Products”). These Third Party Products may collect and use information in ways that differ from those set out in this Privacy Policy. We have no responsibility for how these third parties treat your information; however, if we have access to their privacy policies, we will provide them to you on your request.
 
@@ -28,8 +26,7 @@ Customer Record – When Users become customers they provide us with informatio
 
 Inquiries – When Users contact us we may ask for information that allows us to contact them, validate the seriousness of their inquiry and request specific information related to the reason they have contacted us (“User Inquiry Information”). User Inquiry Information may be associated with other information, such as cookies and information from Tracking Software.
 
-Surveys – Users may be offered the opportunity to respond to surveys, questionnaires and other requests for information (“Survey Information”). The types of data that Users provide to us is set  
-out in the survey request.
+Surveys – Users may be offered the opportunity to respond to surveys, questionnaires and other requests for information (“Survey Information”). The types of data that Users provide to us is set out in the survey request.
 
 Statistical Information – All of our servers collect statistical information such as Users’ IP addresses, dates Users visit, computers Users are using, operating system, and other similar types of data (“Statistical Information”).
 
