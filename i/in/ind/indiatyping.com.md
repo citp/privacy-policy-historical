@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the indiatyping.com privacy policy that was archived on 2015-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150516222946id_/http%3A//indiatyping.com/index.php/component/content/article/2-uncategorised/124-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indiatyping.com privacy policy that was archived on 2015-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151220005253id_/http%3A//indiatyping.com/index.php/component/content/article/2-uncategorised/124-privacy-policy) for the most accurate reproduction.*
 
-# Hindi Typing Tutor for Deylys kruti Dev Font, Remington Hindi keyboard
+# India Typing
 
 **Cookies & 3rd Party Advertisements**
 
