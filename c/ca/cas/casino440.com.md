@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the casino440.com privacy policy that was archived on 2015-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150215062045id_/http%3A//www.casino440.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the casino440.com privacy policy that was archived on 2015-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151219213325id_/http%3A//www.casino440.com/privacy) for the most accurate reproduction.*
 
 # Casino privacy text - playing for real money or free in casino 440
 
