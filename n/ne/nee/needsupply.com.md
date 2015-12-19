@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the needsupply.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607142537id_/http%3A//needsupply.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the needsupply.com privacy policy that was archived on 2015-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151219195247id_/http%3A//needsupply.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy / Need Supply Co.
 
