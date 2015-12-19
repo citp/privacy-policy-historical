@@ -1,576 +1,1678 @@
-<!--The following is the downloaded HTML source of the kaakateeya.com privacy policy that was archived on 2013-10-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131013124330id_/http%3A//www.kaakateeya.com/aboutus.cfm%3Ffuseaction%3Dprivacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the kaakateeya.com privacy policy that was archived on 2015-12-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151219185545id_/http%3A//www.kaakateeya.com/Customer_new/Customerdesignedpages/KaakateeyaPrivacyPolicy.aspx) for the most accurate reproduction.-->
 
-<html><head><base href="http://kaakateeya.com/">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head id="ctl00_Head1"><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"><meta name="format-detection" content="telephone=no"><meta name="description"><meta name="keywords" content="keyword1 keyword2"><title>
+	Kaakateeya Marriages
+</title><link href="../assets/bootstrap/css/bootstrap-responsive.min.css" rel="stylesheet" type="text/css"><link href="../css/style.css" rel="stylesheet" type="text/css"><link href="../css/style_responsive.css" rel="stylesheet" type="text/css"><link rel="stylesheet" type="text/css" href="../assets/uniform/css/uniform.default.css"><link rel="stylesheet" type="text/css" href="../assets/chosen-bootstrap/chosen/chosen.css"><link href="../css/jquery-css.css" rel="stylesheet"><link href="../css/bootstrap.min.css" rel="stylesheet"><link href="../css/bootstrap-theme.css" rel="stylesheet" type="text/css"><link href="../assets/bootstrap/css/bootstrap-fileupload.css" rel="stylesheet"><link href="../css/custom_styles.css" rel="stylesheet"><link href="../css/custom_responsive.css" rel="stylesheet"><link href="css/jQuery.alert.css" rel="stylesheet" type="text/css" media="screen"><link href="../css/GITheWall.css" rel="stylesheet" type="text/css" media="all"><link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css" rel="stylesheet">
+    <!-- END: STYLESHEET -->
+    <!-- END: STYLESHEET -->
+    <script async="" src="//www.google-analytics.com/analytics.js"></script><script>
+        (function (i, s, o, g, r, a, m) {
+            i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+                (i[r].q = i[r].q || []).push(arguments)
+            }, i[r].l = 1 * new Date(); a = s.createElement(o),
+            m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+        })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+        ga('create', 'UA-70707190-1', 'auto');
+        ga('send', 'pageview');
+
+    </script>
+
+    <script type="text/javascript">
+
+        function ShowForgotPassword() {
+
+            jQuery('.login_block_header').fadeToggle();
+            document.getElementById('ctl00_txtMatrimonyIDEmailID').value = "";
+
+            $find("ctl00_ModalForGotPassword").show();
+            return false;
+        }
+
+        function CheckMatrimonyIDEmailID() {
+            var Text = document.getElementById('ctl00_txtMatrimonyIDEmailID').value;
+            if (Number(Text) <= 0) {
+                alert("Please provide your Matrimony ID or Email-ID.");
+                return false;
+            }
+        }
+
+        function ShowFullProfile_Newfull(profileID, custid) {
+
+            window.open('/Customer_new/Customerdesignedpages/CustomerVIewMyProfile.aspx?ProfileID=' + profileID + "&CustID=" + custid, '_blank');
+        }
+        function AlertPopup(str) {
+            $('#AlertModal').modal({ backdrop: 'static', keyboard: false })
+            $("#alertbody").append(str);
+            return true;
+        }
+
+
+        //$(function () {
+        //    $('#MenuDiv').click(
+        //      function () {
+        //          alert(1);
+        //      });
+        //});
+
+
+        //Alert popup based on flag 
+        function ShowAlertZero(Flag, str, DynamicClas) {
+            if (Flag == '0') {
+                $('#AlertModal').modal({ backdrop: 'static', keyboard: false, fadeout: 100 });
+                $('#modalbodyID').html('<b>' + str + '</b>').css('color', 'DarkBlue');
+                $('#divhead').removeClass();
+                $('#divhead').addClass(DynamicClas);
+                SetTime();
+                return false;
+            }
+            else {
+                return true;
+            }
+        }
+        function ShowAlert(Flag, str, DynamicClas) {
+            if (Flag == '1') {
+                $('#AlertModal').modal({ backdrop: 'static', keyboard: false, fadeout: 100 });
+                $('#modalbodyID').html('<b>' + str + '</b>').css('color', 'DarkBlue');
+                $('#divhead').removeClass();
+                $('#divhead').addClass(DynamicClas);
+                SetTime();
+                return false;
+            }
+            else {
+                return true;
+            }
+        }
+        function SetTime() {
+            setTimeout(function () { $('#AlertModal').modal('hide'); }, 1500);
+            return false;
+        }
+        function SetTimeDynamically(time) {
+            setTimeout(function () { $('#AlertModal').modal('hide'); }, time);
+            return false;
+        }
+        function SetTimeunpaid() {
+            setTimeout(function () { $('#AlertModal').modal('hide'); }, 4500);
+            return false;
+        }
+        function ShowFullProfile_client(profileID, partnerCustID) {
+            var custid = '';
+            if (custid.toString() != '') {
+                window.open('/Customer_new/Customerdesignedpages/CustomerfullprofileNew.aspx?ProfileID=' + profileID + "&CustID=" + partnerCustID + "&FromCustId=" + custid, '_blank');
+            }
+            return true;
+
+        }
+        //redirect to Any page based on only CustID(NO NEED TO PASS CUSTID)
+        function RedirectBasedOnCustID(PartnerCustID) {
+            var CustID = '';
+            window.open('/Customer_new/Customerdesignedpages/CustomerSimilarProfiles.aspx?PartnerCustID=' + PartnerCustID + "&CustID=" + CustID, '_blank');
+            return false;
+        }
+        function ShowOnlyAlertText(str, DynamicClas) {
+            if (str.indexOf('Upgrade online membership') != -1) {
+                var strnew = str.replace('Upgrade online membership', '<a href="Customermypayments.aspx?CustID=">Upgrade online Membership  </a>');
+                $('#AlertModal').modal({ backdrop: 'static', keyboard: false, fadeout: 100 });
+                $('#modalbodyID').html('<b>' + strnew + '</b>').css('color', 'Maroon');
+                $('#divhead').removeClass();
+                $('#divhead').addClass(DynamicClas);
+                SetTimeunpaid();
+            }
+            else {
+                $('#AlertModal').modal({ backdrop: 'static', keyboard: false, fadeout: 100 });
+                $('#modalbodyID').html('<b>' + str + '</b>').css('color', 'DarkBlue');
+                $('#divhead').removeClass();
+                $('#divhead').addClass(DynamicClas);
+                SetTime();
+            }
+
+            return false;
+        }
+        //method to pass time dynamically
+        function DynamicTimeAlert(str, DynamicClas, time) {
+            $('#AlertModal').modal({ backdrop: 'static', keyboard: false, fadeout: 100 });
+            $('#modalbodyID').html('<b>' + str + '</b>').css('color', 'DarkBlue');
+            $('#divhead').removeClass();
+            $('#divhead').addClass(DynamicClas);
+            SetTimeDynamically(time);
+        }
+
+        function checkFileExtimage(FileUploadControl) {
+            var extension = new Array();
+
+            var fieldvalue = document.getElementById(FileUploadControl).value;
+
+            if (fieldvalue != "") {
+
+                //extension[0] = ".png";
+                extension[0] = ".gif";
+                extension[1] = ".jpg";
+                extension[2] = ".jpeg";
+                var VarThumb = 0;
+                var thisext = fieldvalue.substr(fieldvalue.lastIndexOf('.'));
+                for (var i = 0; i < extension.length; i++) {
+
+                    if (thisext.toLowerCase() == extension[i]) {
+                        VarThumb = 1;
+                    }
+                }
+                if (VarThumb == 0) {
+                    alert(1);
+                    ShowAlert("Method", 'Your uploaded image contains an unapproved file formats.', 'alert alert-danger');
+                    document.getElementById(FileUploadControl).value = "";
+                    return false;
+                }
+            }
+            else {
+                ShowAlert("Method", "Please browse an image", 'alert alert-danger');
+                return false;
+            }
+        }
+        function NodataFoundAlert(str) {
+            //var grid = document.getElementById("ctl00_ContentPlaceHolder1_rptRightMenu_ctl00_rptSubHeader_ctl00_" + str).innerHTML;
+
+            if (str.contains('(0)') == true) {
+                $('#modalbodyID').html('<b>' + 'No records found' + '</b>').css('color', 'DarkBlue');
+                $('#divhead').addClass("alert alert-danger");
+                $('#AlertModal').modal({ backdrop: 'static', keyboard: false, fadeout: 100 });
+                SetTime();
+                return false;
+            }
+            else {
+                return true;
+            }
+
+        }
+
+        function AllowWebUser(str) {
+            var branchid = $("#ctl00_hdregisterBranchID").val();
+            var empName = $("#ctl00_hdnEmpName").val();
+            var empContactNumber = $("#ctl00_hdnEmpContactNum").val();
+            if (branchid != 342) {
+                DynamicTimeAlert("To edit <b style=color:maroon>" + str + "</b>, please contact your relationship manager " + empName + empContactNumber, "alert alert-info", 10000);
+                return false;
+            }
+            else
+                true;
+        }
+
+        //payment dicount alert
+
+        function DiscountOffer() {
+            var Dpercent = $("#ctl00_hdndiscountPercent").val();
+            var CustName = $("#ctl00_hdncustName").val();
+            var custid = '';
+            if (Dpercent > 0 && custid != '') {
+
+                $('#AlertModal').modal({ backdrop: 'static', keyboard: false });
+                $('#modalbodyID').html('<b>' + 'Dear ' + CustName + ' you have ' + Dpercent + '% discount on your profile.Click here ' + '<a href="Customermypayments.aspx?CustID=">To view Offer  </a>' + '</b>').css('color', 'Maroon');
+                //$('#modalbodyID').html('<b>' + 'Dear ' + CustName + ' you have ' + Dpercent + '<a href="Customermypayments.aspx?CustID=" to view' + '</b>').css('color', 'Maroon');
+
+                //var strnew = str.replace('Upgrade online membership', '<a href="Customermypayments.aspx?CustID=">Upgrade online Membership  </a>');
+
+                $('#divhead').addClass('alert alert-info');
+                SetTimeDynamically(10000);
+            }
+
+            return false;
+        }
+
+        //$(function () {
+        //    alert(13);
+        //    $("LinkButton.clearfix.Findzero").click(function () {
+        //        alert(13);
+        //        $('#modalbodyID').html('<b>' + 'No records found' + '</b>').css('color', 'DarkBlue');
+        //        $('#divhead').addClass("alert alert-danger");
+        //        $('#AlertModal').modal({ backdrop: 'static', keyboard: false, fadeout: 100 });
+        //        SetTime();
+        //        return false;
+        //    });
+        //}); 
+
+    </script>
+
+
+    <style type="text/css">
+        .aspNetDisabled.paging_button {
+            background-color: #F00 !important;
+        }
+
+        #popup_container {
+            font-family: Arial, sans-serif;
+            font-size: 12px;
+            min-width: 300px; /* Dialog will be no smaller than this */
+            max-width: 600px; /* Dialog will wrap after this width */
+            background: #FFF;
+            border: solid 5px #999;
+            color: #000;
+            -moz-border-radius: 5px;
+            -webkit-border-radius: 5px;
+            border-radius: 5px;
+        }
+
+        #popup_title {
+            font-size: 14px;
+            font-weight: bold;
+            text-align: center;
+            line-height: 1.75em;
+            color: #666;
+            background: #CCC url(http://labs.abeautifulsite.net/archived/jquery-alerts/demo/images/title.gif) top repeat-x;
+            border: solid 1px #FFF;
+            border-bottom: solid 1px #999;
+            cursor: default;
+            padding: 0em;
+            margin: 0em;
+        }
+
+        #popup_content {
+            background: 16px 16px no-repeat url(../images/info.gif);
+            padding: 1em 1.75em;
+            margin: 0em;
+        }
 
 
 
+        #popup_message {
+            padding-left: 48px;
+        }
 
+        #popup_panel {
+            text-align: center;
+            margin: 1em 0em 0em 1em;
+        }
 
+        #popup_prompt {
+            margin: .5em 0em;
+        }
 
+        .cssMaskdiv {
+            position: relative;
+            display: inline-block;
+            overflow: hidden;
+        }
 
-	<title>Indian Marriages and Indian Matrimonials - Kaakateeya.Com</title>
-	
+            .cssMaskdiv:after {
+                background: rgba(0, 0, 0, 0.5) none repeat scroll 0 0;
+                color: #ffffff;
+                content: "Under Review";
+                display: block;
+                font-size: 14px;
+                /* height: 100%; */
+                left: 0;
+                padding: 50% 0;
+                position: absolute;
+                text-align: center;
+                top: 0;
+                width: 100%;
+            }
 
+        .vertical-alignment-helper {
+            display: table;
+            height: 100%;
+            width: 100%;
+            pointer-events: none;
+        }
 
+        .vertical-align-center {
+            /* To center vertically */
+            display: table-cell;
+            vertical-align: middle;
+            pointer-events: none;
+        }
 
+        .refresh {
+            /* Bootstrap sets the size of the modal in the modal-dialog class, we need to inherit it */
+            width: inherit;
+            height: inherit;
+            /* To center horizontally */
+            margin: 0 auto;
+            pointer-events: all;
+        }
+    </style>
 
-
-
-
-<title>Kaakateeya.com | A World of Matrimonial Information</title>
-<link rel="Stylesheet" type="Text/css" href="styles.css">
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
-
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-26198595-1']);
-  _gaq.push(['_trackPageview']);
-
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
-
-</script>
+    
+     <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <meta name="format-detection" content="telephone=no">
+    <meta name="description" content="">
+    <meta name="keywords" content="keyword1 keyword2">
+    <title>Kaakateeya Marriages</title>
 </head>
 
-<body bgcolor="#FFFFFF" text="#000000" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" vlink="#993333" alink="#663333" link="#333333">
+<body>
+    <form method="post" action="KaakateeyaPrivacyPolicy.aspx" id="aspnetForm" autocomplete="off">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTY1NDU2MTA1Mg9kFgJmD2QWAgIBD2QWAgIJD2QWAgIDD2QWBAIBDw9kFgIeDGF1dG9jb21wbGV0ZQUDb2ZmZAIFDw9kFgIfAAUDb2ZmZBgBBR5fX0NvbnRyb2xzUmVxdWlyZVBvc3RCYWNrS2V5X18WAQUVY3RsMDAkSWJ0bkxvZ29kaXNwbGF5v/vaC5r5urnCxvT3CYxrxaJ6EXI=">
 
-<table width="771" border="0" cellspacing="0" cellpadding="0">
-<tbody><tr valign="top">
-<td colspan="3" align="right">
-<table width="50%" border="0" cellspacing="0" cellpadding="0">
-<tbody><tr>
-<td align="right" valign="top"> <span><a href="index.cfm" class="small"><img src="top_home.gif" border="0"></a><img src="top_seperator.gif" border="0"><img src="top_seperator.gif" border="0"><a href="index.cfm?fuseaction=login" class="small"><img src="top_login.gif" border="0"></a><img src="top_seperator.gif" border="0"><img src="top_seperator.gif" border="0"><a href="contactticket.cfm" class="small"><img src="top_help.gif" border="0"></a><img src="top_seperator.gif" border="0"><a href="aboutus.cfm?fuseaction=privacy" class="small"><img src="top_privacy.gif" border="0"></a></span>
-</td>
-<td>
 
-</td>
-
-</tr>
-</tbody></table>
-</td></tr>
- <tr valign="top" width="50%">
-<td>
-<img src="kaakateeya_logo.gif" border="0">
-</td>
-
-<td align="right" valign="middle"> 
-
-<!--start http://www.livehelpnow.net  -->
-<div style="text-align: center;">
-
-<div>			
+<script src="/ScriptResource.axd?d=Q_hDcqoZe0cPg44qnNfMsG9kfEHwxM8PWHi3fD8BIW-N_rl9MZiX_-UO_EpbW4pq2-8gWv7lsDhCBJEk_PL-FdvB6PW3OrUdTLlC35qa6WoVuaJKeWy5U-VKrHW0qi5oTBsfjg2&amp;t=ffffffffaa73f696" type="text/javascript"></script>
 <script type="text/javascript">
-var lhnJsHost = (("https:" == document.location.protocol) ? "https://" : "http://");
-document.write(unescape("%3Cscript src='" + lhnJsHost + "www.livehelpnow.net/lhn/scripts/lhnvisitor.aspx?div=&amp;zimg=37&amp;lhnid=3422&amp;iv=1&amp;iwidth=93&amp;iheight=33&amp;zzwindow=0&amp;d=0&amp;custom1=&amp;custom2=&amp;custom3=' type='text/javascript'%3E%3C/script%3E"));</script><script src="https://www.livehelpnow.net/lhn/scripts/lhnvisitor.aspx?div=&amp;zimg=37&amp;lhnid=3422&amp;iv=1&amp;iwidth=93&amp;iheight=33&amp;zzwindow=0&amp;d=0&amp;custom1=&amp;custom2=&amp;custom3=" type="text/javascript"></script>
-</div>
-		
-<div><a title="Customer Service Software" href="http://www.LiveHelpNow.net/" style="font-size:10px;" target="_blank">Customer Support</a></div>
-</div>
-<!--end http://www.livehelpnow.net  -->
+//<![CDATA[
+if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side framework failed to load.');
+//]]>
+</script>
 
-</td>
-<td align="right" valign="middle">
-<img src="callHelp_header.gif" border="0" alt="Customer Support Number"><br>
+<script src="/ScriptResource.axd?d=unLAdNX-NuWwZswOh0KbyTudyAuimpLAAIHsKeBhW2Gdo-5vsH8I-VWuWMiqpRFqC_LTwTfbnDredJRs8higqE3CXl0eePynFBERWNnhBJVTdi9LP1t01p-QKf8MXDa_KRcQqw2&amp;t=ffffffffaa73f696" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=DcQpWpZAr35p8jAvaQYdwpBkt6J2vWoi5gmPiJRWAD5mJSeLreyOuNeNl5j58RmgvinjGMC-3Zr28SjWl_N69uHwiArOnrBifekZ7rJiOOxZXOsyDnmBLZqXkPazZsEEUBVXSg2&amp;t=ffffffffaa73f696" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=eAdPw4wB-llcZjfwF11A7q-RHrKPmNNcGainxjTM9C6VLZroGCkKzN0R1x1twIe2z02LfpF6pln9XxPLoU22v7HFKgWX6vHUWgW-M_VYbPtcdxk8uk5CV6zp7t5YPEgD19KZzg2&amp;t=ffffffffaa73f696" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=85DTVnwPiOX7KrjcQtgQoXf4zXgnYiGSWiDgnZtVK9TQMLyrQ_8KcYr_RuLLyBfJcnMzOz_6sDYihsfsWMf66-qP6yCro1GmW3iwCKGYuUxiCKVNFTpnyS-5zw484wMoLdBFeg2&amp;t=ffffffffaa73f696" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=YycMzzKqDiElqnWsX5d9X4-i7INKymd6wm98i65tfDCWEuUEe_wZe6qfgWqCtpuIk4x6Gdit7jfbE9gm2_Fi85xbxkyHncdB8Yd2VNanlkXCRU2rizNheXlDS7n3U0fVk05OOMu2lwSIeumf7uE5PCo-l-s1&amp;t=ffffffffaa73f696" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=WOt3smQMx9PvJuYqPFkK-7jCrla6DMzMIPhOo1sOVY04d2xjorNggMNiXaQuUfPOSUNwRXknOJ-vAQ7PsTGzXvgcmZPbyUJomrAmWnyGgnAJmYHiCqqlHtvFhkVnMV0J7sv1AHOhnMXN97wanMyMlZ8CIiY1&amp;t=ffffffffaa73f696" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=V2L6ntRlCB0SYxYRVBTrwqly_yIMtgEIwqWpfaTu_-IF-a7LS3xtaz8ZhdJqdLgoD8EJ6Pn4hSCppTHzNUZbhBalsBaJnLiRX_8swkNGhgE5GGAtkq84GKscQsfGHj2KVeoaw5LcNjoavAOa_MRDZxCfqG41&amp;t=ffffffffaa73f696" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=ivWmV2aP-KPwjeHXzj28SO-eziZbT7VtGL3whLPWiT6VzyDzGFJAgyDsUG3dw6XgtxQseSUMtWl9X_Zdc8siSqhVHBQHt4tu7_cVaHd_pipem5ZFalum8OdmG7Ntj72_attYk2ZOjFy1l_4AtkYzQyGQ5hk1&amp;t=ffffffffaa73f696" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=gLfu4Wm8CQNgywVWB4Qz8C9HN4FXLYt_rhmrVL_uZnCnVG9PzpDCSsnrK-9DbAaHI6v1dCEf_1-yUu28uDbgN6AL-FZft4CvaVXcbJOjB1N4JMEQ0XpKlSXWWrNaQFH66CaF66ehoHQsPH48k251aZUVs5c1&amp;t=ffffffffaa73f696" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=WGn5AWx0g3RyrY3u95x2kvHcGk-uqIqE1X-7xK3Ab_hYi1NMz6HJ97aOEdR8t5tOuuIyfN4U58aOYDX5OuHBs7FSjfjYT6JLiwJyEcJ6BH8UJ2kR0WYVOO89p1Jx892NCIVEsM2dPushHa6Wb9auNRKvRX41&amp;t=ffffffffaa73f696" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=WanLaFdsdzq5VwVhVKqzZVagPRTAwwpGy0HKNMi4iVAhQeHHcljw9z6KWN3SGp4Zo6sFpD7dpRP4o3In4HlhCWcI3IuUcwAPrB48SZ5VCzLDuElIsp1Gt-uAT9l1ux38Gw40Do00kMbBS7O01t8VIg3Qy6k1&amp;t=ffffffffaa73f696" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=TkkNEvRkFFcZCDh4_l3bNF9C1ypH-rngFbdJ4Wc-7Y1Hp8b8_WE1RUqyiQJA96gghi0DXlhkx04JJ9rjc2Lgj1c6lgSaL3XaYpRlCUDM13Yaq-Po2nqJcPAIDUjlHDmoqJN9H_dbaYGAjI5cmrI4JZKvR-U1&amp;t=ffffffffaa73f696" type="text/javascript"></script>
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="BEC4E378">
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAB4aKc5qP3NdgpRpMHtOp0TBHwqrsFeMaw2IBQe07TBRRBdo+9FEMKoM3NAQ8/RDwcN7030BaN+zTNLgNIJ3sfaH72bOUkC0OtM0UzSSWkuSnS/PSAvxybIG70Gi7lMSo2Gf6jqgcEeQLyrzVn7jYXuEloPWJSKe1zSCHy16GXX96WIFgW1LWk/TnXibHzqpiNKZfFhiZqovNP3gRxyu5OqOJUAnlKGmEgfOZ2RPQMq2ozCyeWj39UgedN5N/8M+8UWN8i7LZkwgAHR1iKegUbVwqer2CEUV7g/7hv8BqVCU3aaDLqJi9fR5eLiYMk+1YaW2u7vLEDgPka9UGz2j7Cz2ro8OcCGjGTP7eg8SuCGrIAGBFhqFKDlhkxmKGhVnS0eHbde1bY6C7B1Fv5x/BTFsTSnz3P4je91iRJMQ/pzLsDkzMVjMEihmVt30cjXfmyG8YpZ1ftn7KyEcqVv+wLggrSAsWwd2AXzpUlV4Fr2P2UVETOsgd9PfcPnX4GwJ3qRIExcL7pEmUiETH6k7zdds4DSQAwxJ6FgN72eS3QkRr8XJ1zIknNHaX5nf46LjlTvd4hNEfa7zSjvdthd/K8u0i3A4W/bnhcay2Nk83oqnY63bJHPnUlElUSb3mUDw2vJCg4sHlJ/dkQjjsTnt6VN0vais7g==">
+        
+        <!--/ Header -->
+        <div id="ctl00_UpdateProgress" style="display:none;">
+	
+                <img alt="progress" src="../images/ring.gif" style="display: block; margin: 0 auto;">Loading...
+            
+</div>
+        
 
-   </td>
+
+        <div class="modal fade" id="RefreshPopup" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+            <div class="vertical-alignment-helper">
+                <div class="modal-dialog vertical-align-center">
+                    <div class="modal-content refresh">
+                        <div class="modal-header">
+                            <button type="button" class="close" data-dismiss="modal">
+                                <span aria-hidden="true">×</span><span class="sr-only">Close</span>
+
+                            </button>
+                            <h4 class="modal-title" id="myModalLabel">Refresh Popup</h4>
+
+                        </div>
+                        <div class="modal-body">
+                            <button type="button" class="btn btn-success" onclick="location.reload();">Refresh Page&nbsp;&nbsp;<span class="fa fa-refresh"></span></button>
+                        </div>
+                        <div class="modal-footer">
+                            
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="modal fade" id="refreshpopupmanagephoto" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+            <div class="vertical-alignment-helper">
+                <div class="modal-dialog vertical-align-center">
+                    <div class="modal-content refresh">
+                        <div class="modal-header">
+                            <button type="button" class="close" data-dismiss="modal">
+                                <span aria-hidden="true">×</span><span class="sr-only">Close</span>
+
+                            </button>
+                            <h4 class="modal-title" id="H1">Success Alert</h4>
+
+                        </div>
+
+                        <div class="modal-body">
+                            Your Photos  Updated Successfully
+                              <button type="button" class="btn btn-success" onclick="location.reload();">Ok<span class="fa fa-refresh"></span></button>
+                        </div>
+                        <div class="modal-footer">
+
+
+                            
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div id="ctl00_divInnerMaster" class="header_inner">
+
+            <div class="container_my clearfix">
+
+                <div id="ctl00_updateLogin" class="clearfix">
+	
+                        <input type="image" name="ctl00$IbtnLogodisplay" id="ctl00_IbtnLogodisplay" class="logo_inner pull-left" src="">
+                        <input type="submit" name="ctl00$btnLoginsubmit" value="Login" onclick="return divloginblock();" id="ctl00_btnLoginsubmit" class="pull-right button_custom login_show">
+                        
+                    
+</div>
+                <div id="ctl00_divLogin" class="login_block_header" style="display: none;">
+                    <input name="ctl00$txtUserName" type="text" id="ctl00_txtUserName" onchange="return vali();" autocomplete="off">
+                    <input type="hidden" name="ctl00$TextBoxWatermarkExtender1_ClientState" id="ctl00_TextBoxWatermarkExtender1_ClientState">
+                    <input name="ctl00$txtPassword" type="password" id="ctl00_txtPassword" autocomplete="off">
+                    <span class="clear">&nbsp;</span>
+                    <div class="login_help">
+                        <div id="ctl00_UpdateFor">
+	
+                                <a onclick="return ShowForgotPassword();" id="ctl00_lnkForgotPassword" href="javascript:__doPostBack('ctl00$lnkForgotPassword','')">Forgot Password</a>
+                                <a href="CustomerRegistration.aspx">New User Sign Up</a>
+                            
+</div>
+                    </div>
+                    <input type="submit" name="ctl00$btnUserLogin" value="Login" onclick="return CheckvalidationLogin();" id="ctl00_btnUserLogin" class="button_custom">
+                    <span class="clear">&nbsp;</span>
+                </div>
+                
+                <div class="header_inner_rt clearfix">
+                    <h3>
+                        <div id="ctl00_updatesddsfdsfsfsdfdsf">
+	
+                                <a id="ctl00_lnkFeedbackMenu" href="javascript:__doPostBack('ctl00$lnkFeedbackMenu','')">Feedback</a>
+                            
+</div>
+                    </h3>
+                    <h4>make a missed call<span><em>+91-9390999999</em></span></h4>
+                    <h4>Support No<span>+1-734-926-1011</span></h4>
+                </div>
+            </div>
+            
+
+            <div id="ctl00_divwithoutlogin" class="navbar_inner">
+                <div class="container_my clearfix">
+                    
+                    <div class="profile_own_menu pull-right">
+                        <a class="menu_toggle pull-right">Menu</a>
+                        <ul class="pull-right">
+
+                            <li><a href="CustomerRegistration.aspx">Register free</a></li>
+                            <li><a href="KaakateeyaCustomerProfileIDsearch.aspx">Search <span></span></a></li>
+                            <li><a onclick="return divloginblock(); return false;" href="javascript:void(0)">Upgrade</a></li>
+                            <li>
+                                
+                                <a id="ctl00_lnkSucessstoreiesFooter" href="javascript:__doPostBack('ctl00$lnkSucessstoreiesFooter','')">success stories <span></span></a></li>
+                            <li>
+                                <a id="ctl00_linkfooterhelp" href="javascript:__doPostBack('ctl00$linkfooterhelp','')">Help</a></li>
+                            <li><a href="KaakateeyaCustomerHomePage.aspx">Home</a></li>
+
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- Header /-->
+        
+    <div class="register_page_main">
+        <h4>Privacy Policy</h4>
+
+
+
+        <div class="faq_main">
+
+            <div class="faqs_list_main privacy_page_main">
+                <h5><small>Updated December 23, 2003 - Version 1.7</small></h5>
+                <div class="faqs_list_main_item">
+                    <h5>Privacy Topics</h5>
+                    <div class="faq_ans_block policy_list_desc privacy_topic_links clearfix">
+                        
+                        <a href="#reg">Registration</a>
+                        <a href="#advreg">Advanced Registration</a>  
+                        <a href="#cookies">Cookies</a> 
+                        <a href="#logfiles">Log Files</a>
+                        <a href="#sharing">Sharing</a>
+                        <a href="#links">Links</a>
+                        <a href="#newsletters">Newsletter</a>
+                        <a href="#surveys">Surveys &amp; Contests</a>
+                        <a href="#tellafriend">Tell-A-Friend</a>
+                        <a href="#supplement">Supplementation of Information</a>
+                        <a href="#sploffers">Special Offers</a>
+                        <a href="#siteupdates">Site and Service Updates</a>
+                        <a href="#prsnlinformupdate">Correction/Updating Personal Information</a>
+                        <a href="#chcoutput">Choice/Opt-out</a>
+                        <a href="#emaillinks">Email Links</a>
+                        <a href="#thidpartyadvrts">Third Party Advertisers and Cookies</a>
+                        <a href="#notifychanges">Notification of Changes</a>
+                        <a href="#feerefund">Fees Refund</a>
+                        <a href="#cancelmembership">Cancellation of Membership</a>
+                    </div>
+                </div>
+                <div class="faqs_list_main_item" id="reg">
+                    <h5>Registration</h5>
+                    <div class="faq_ans_block policy_list_desc">
+                        <p>In order to use this website, a user must first complete the registration form.
+                During registration a user is required to give their contact information (such as
+                name and email address). This information is used to contact the user about the
+                services on our site for which they have expressed interest. It is optional for
+                the user to provide demographic information (such as income level and gender), and
+                unique identifiers (such as social security number), but encouraged so we can provide
+                a more personalized experience on our site. Kaakateeya.com and its partners/ offices
+                in India collect personal information necessary to respond to your requests for
+                customized matrimonial services and to allow you to use the resources available
+                on our website. Personal information includes, but is not limited to, name, physical
+                address, email address, date of birth, religion, time of birth, caste, fathers name,
+                mothers name, brothers and sisters details phone number, age and any other information
+                that itself identifies or, when tied to the above information, may identify you
+                as a specific individual. Kaakateeya.com and its partners. Kaakateeya.com also uses
+                order forms, feedback for you to request certain information, products and services.
+                On such order forms, we collect your contact information, financial information
+                (We work with Verisign to process credit card transactions and we do not store your
+                credit card details on our site like the credit card no, address and other related
+                information) and demographic information.</p>
+                    </div>
+                </div>
+                <div class="faqs_list_main_item" id="advreg">
+                    <h5>Advanced Registration</h5>
+                    <div class="faq_ans_block policy_list_desc">
+                        <p>Kaakateeya.com offers paid membership to user wishing to use our advance features
+                such as Contact Information of other Registered Members, Membership to our Indian
+                Offices. Here a user must provide contact information (like name and shipping address)
+                and financial information (like credit card number, expiration date). This information
+                is used for billing purposes and to fill customer's orders. If we have trouble processing
+                an order, this contact information is used to get in touch with the user.</p>
+                    </div>
+                </div>
+                <div class="faqs_list_main_item" id="cookies">
+                    <h5>Cookies</h5>
+                    <div class="faq_ans_block policy_list_desc">
+                        <p>kaakateeya.com does not use any cookies.</p>
+                    </div>
+                </div>
+                <div class="faqs_list_main_item" id="logfiles">
+                    <h5>Log Files </h5>
+                    <div class="faq_ans_block policy_list_desc">
+                        <p>We use IP addresses to analyze trends, administer the site, track user’s movement,
+                and gather broad demographic information for aggregate use. IP addresses are not
+                linked to personally identifiable information.</p>
+                    </div>
+                </div>
+                <div class="faqs_list_main_item" id="sharing">
+                    <h5>Sharing </h5>
+                    <div class="faq_ans_block policy_list_desc">
+                        <p>We do not share your personal information with anybody. We will share aggregated
+                demographic information with our partners and advertisers. This is not linked to
+                any personal information that can identify any individual person. We use an outside
+                shipping company to ship orders, and a credit card processing company to bill users
+                for goods and services. These companies do not retain, share, store or use personally
+                identifiable information for any secondary purposes. We partner with another party
+                to provide specific services. When the user signs up for these services, we will
+                share names, or other contact information that is necessary for the third party
+                to provide these services.These parties are not allowed to use personally identifiable
+                information except for the purpose of providing these services.</p>
+                    </div>
+                </div>
+                <div class="faqs_list_main_item" id="links">
+                    <h5>Links </h5>
+                    <div class="faq_ans_block policy_list_desc">
+                        <p>This web site contains links to other sites. Please be aware that we kaakateeya.com
+                are not responsible for the privacy practices of such other sites. We encourage
+                our users to be aware when they leave our site and to read the privacy statements
+                of each and every web site that collects personally identifiable information. This
+                privacy statement applies solely to information collected by this Web site.</p>
+                    </div>
+                </div>
+                <div class="faqs_list_main_item" id="newsletters">
+                    <h5>Newsletter </h5>
+                    <div class="faq_ans_block policy_list_desc">
+                        <p>If a user wishes to subscribe to our newsletter, we ask for contact information
+                such as name and email address.</p>
+                    </div>
+                </div>
+                <div class="faqs_list_main_item" id="surveys">
+                    <h5>Surveys &amp; Contests </h5>
+                    <div class="faq_ans_block policy_list_desc">
+                        <p>From time-to-time our site requests information from users via surveys or contests.
+                Participation in these surveys or contests is completely voluntary and the user
+                therefore has a choice whether or not to disclose this information. Information
+                requested may include contact information (such as name and shipping address), and
+                demographic information (such as zip code, age level). Contact information will
+                be used to notify the winners and award prizes. Survey information will be used
+                for purposes of monitoring or improving the use and satisfaction of this site.</p>
+                    </div>
+                </div>
+                <div class="faqs_list_main_item" id="tellafriend">
+                    <h5>Tell-A-Friend </h5>
+                    <div class="faq_ans_block policy_list_desc">
+                        <p>If a user elects to use our referral service for informing a friend about our site,
+                we ask them for the friend’s name and email address. kaakateeya.com will automatically
+                send the friend a one-time email inviting them to visit the site. kaakateeya.com
+                stores this information for the sole purpose of sending this one-time email. The
+                friend may contact kaakateeya.com at Mailing List to request the removal of this
+                information from their database.</p>
+                    </div>
+                </div>
+                <div class="faqs_list_main_item">
+                    <h5>Security </h5>
+                    <div class="faq_ans_block policy_list_desc">
+                        <p>This website takes every precaution to protect our users’ information. When users
+                submit sensitive information via the website, your information is protected both
+                online and off-line. When our registration/order form asks users to enter sensitive
+                information (such as credit card number and/or social security number), that information
+                is encrypted and is protected with the best encryption software in the industry
+                - SSL. While on a secure page, such as our order form, the lock icon on the bottom
+                of Web browsers such as Netscape Navigator and Microsoft Internet Explorer becomes
+                locked, as opposed to un-locked, or open, when you are just ‘surfing’. To learn
+                more about SSL, follow this link Verisign While we use SSL encryption to protect
+                sensitive information online, we also do everything in our power to protect user-information
+                off-line. All of our users’ information, not just the sensitive information mentioned
+                above, is restricted in our offices. Only employees who need the information to
+                perform a specific job (for example, our billing clerk or a customer service representative)
+                are granted access to personally identifiable information. Our employees must use
+                password-protected screen-savers when they leave their desk. When they return, they
+                must re-enter their password to re-gain access to your information. Furthermore,
+                ALL employees are kept up-to-date on our security and privacy practices. Every quarter,
+                as well as any time new policies are added, our employees are notified and/or reminded
+                about the importance we place on privacy, and what they can do to ensure our customers’
+                information is protected. Finally, the servers that we store personally identifiable
+                information on are kept in a secure environment, behind a locked cage. If you have
+                any questions about the security at our website, you can send an email to info@kaakateeya.com.</p>
+                    </div>
+                </div>
+                <div class="faqs_list_main_item" id="supplement">
+                    <h5>Supplementation of Information </h5>
+                    <div class="faq_ans_block policy_list_desc">
+                        <p>Email Messages, Registration Forms, and other related forms. We make the contents
+                of the registration form visible to you and other register members of kaakateeya.com
+                or its offices in India. Please remember that any information that is disclosed
+                in these areas becomes public information. You should exercise caution when deciding
+                to disclose your personal information. In order for this website to properly fulfill
+                its obligation to our customers, it is necessary for us to supplement the information
+                we receive with information from 3rd party sources. For example, to determine if
+                our customers qualify for one of our credit cards, we use their name and social
+                security number to request a credit report. Once we determine a user’s credit-worthiness,
+                this document is destroyed. (or) In order for this website to enhance its ability
+                to tailor the site to an individual’s preference, we combine information about the
+                purchasing habits of users with similar information from our partners, Company Y
+                &amp; Company Z, to create a personalized user profile. When a user makes a purchase
+                from either of these two companies, the companies collect and share that purchase
+                information with us so we can tailor the site to our users’ preferences.</p>
+                    </div>
+                </div>
+                <div class="faqs_list_main_item" id="sploffers">
+                    <h5>Special Offers</h5>
+                    <div class="faq_ans_block policy_list_desc">
+                        <p>We send all new members a welcoming email to verify password and username. Established
+                members will occasionally receive information on products, services, special deals,
+                and a newsletter. Out of respect for the privacy of our users we present the option
+                to not receive these types of communications. Please see our choice and opt-out
+                below.</p>
+                    </div>
+                </div>
+                <div class="faqs_list_main_item" id="siteupdates">
+                    <h5>Site and Service Updates </h5>
+                    <div class="faq_ans_block policy_list_desc">
+                        <p>We also send the user site and service announcement updates. Members are not able
+                to un-subscribe from service announcements, which contain important information
+                about the service. We communicate with the user to provide requested services and
+                in regards to issues relating to their account via email or phone.</p>
+                    </div>
+                </div>
+                <div class="faqs_list_main_item" id="prsnlinformupdate">
+                    <h5>Correction/Updating Personal Information </h5>
+                    <div class="faq_ans_block policy_list_desc">
+                        <p>If a user’s personally identifiable information changes (such as your zip code),
+                or if a user no longer desires our service, we will endeavor to provide a way to
+                correct, update or remove that user’s personal data provided to us. This can usually
+                be done at the member information page or by emailing our Customer Support at info@kaakateeya.com.
+                You can also use the Modify and Delete pages to modify or delete your information
+                by logging in with your userid and password. However, even if you delete your personal
+                information in our database, it maybe stored by our offices in India / USA for archival
+                purposes.</p>
+                    </div>
+                </div>
+                <div class="faqs_list_main_item" id="chcoutput">
+                    <h5>Choice/Opt-out </h5>
+                    <div class="faq_ans_block policy_list_desc">
+                        <p>Our users are given the opportunity to ‘opt-out’ of having their information used
+                for purposes not directly related to our site at the point where we ask for the
+                information. For example, our order form has an ‘opt-out’ mechanism so users who
+                buy a product from us, but don’t want any marketing material, can keep their email
+                address off of our lists. Users who no longer wish to receive our newsletter or
+                promotional materials from our partners may opt-out of receiving these communications
+                by replying to unsubscribe in the subject line in the email or email us at info@kaakateeya.com.
+                Users of our site are always notified when their information is being collected
+                by any outside parties. We do this so our users can make an informed choice as to
+                whether they should proceed with services that require an outside party, or not.</p>
+                    </div>
+                </div>
+                <div class="faqs_list_main_item" id="emaillinks">
+                    <h5>Email Links </h5>
+                    <div class="faq_ans_block policy_list_desc">
+                        <p>We use email links located on the "Contact us" page to allow you to contact us directly
+                with any questions or comments you may have. We read every message sent in and try
+                to reply promptly to every one. This information is used to respond directly to
+                your questions or comments. We may also file your comments to improve the site and
+                program, or review and discard the information. Your personal information is only
+                shared with third parties with your explicit permission.</p>
+                    </div>
+                </div>
+                <div class="faqs_list_main_item" id="thidpartyadvrts">
+                    <h5>Third Party Advertisers and Cookies</h5>
+                    <div class="faq_ans_block policy_list_desc">
+                        <p>kaakateeya.com may work with a third party to serve ads on our site. These ads may
+                contain cookies. This policy only covers the use of cookies by kaakateeya.com and
+                does not cover the use of cookies by any advertisers. kaakateeya.com.com does not
+                have control, nor access to the information contained in its advertisers' cookies.</p>
+                    </div>
+                </div>
+                <div class="faqs_list_main_item" id="notifychanges">
+                    <h5>Notification of Changes </h5>
+                    <div class="faq_ans_block policy_list_desc">
+                        <p>We will notify you directly via email if there is a material change in our privacy
+                practices. We will also post the changes in our privacy statement 30 days prior
+                to a change.
+                <br>
+                        Our address: Kaakateeya.Com 3233 Monument Ann Arbor, MI - 48108 USA http://www.kaakateeya.com</p>
+                    </div>
+                </div>
+                <div class="faqs_list_main_item" id="feerefund">
+                    <h5>Fees Refund</h5>
+                    <div class="faq_ans_block policy_list_desc">
+                        <p>If you choose to terminate your membership, the MEMBERSHIP FEES ARE NOT REFUNDABLE
+                under any circumstances. Your membership in the kaakateeya.com is for yourself for
+                personal use. You may not authorize others to use your membership and you may not
+                assign or transfer your account to any other person or entity.</p>
+                    </div>
+                </div>
+                <div class="faqs_list_main_item" id="cancelmembership">
+                    <h5>Cancellation of Membership</h5>
+                    <div class="faq_ans_block policy_list_desc">
+                        <p>The membership may be cancelled by either party by serving a written notice on the
+                other.kaakateeya.com reserves the right to cancel the membership, to suspend a profile
+                or to disable access in respect of any member in breach of any of the terms. In
+                no case will the Membership fees be refundable.</p>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+<a class="back-to-top cd-top">&nbsp;</a>
+
+
+    
+
+
+        <!--/ Footer -->
+        <footer>
+            <div id="ctl00_divFooterinner" class="footer_in">
+                <a class="logo pull-left">&nbsp;</a>
+                
+                <div id="livechat">
+                    &nbsp;&nbsp;&nbsp; <a onclick="OpenLHNChat();return false;" href="#" target="_blank" id="lhnWin" class="live_chat_footer pull-left"></a>
+                    <div id="livechatdiv">
+                        <!-- This code must be installed within the body tags 3422-->
+                        <script type="text/javascript" defer="defer">
+                            var lhnAccountN = "3422";
+                            var lhnButtonN = 4720;
+                            var lhnChatPosition = '100';
+                            var lhnInviteEnabled = 1;
+                            var lhnWindowN = 0;
+                            var lhnDepartmentN = 0;
+                        </script>
+                        
+                        <script src="//commondatastorage.googleapis.com/lhn/chat/scripts/lhnchatbutton-current.min.js" type="text/javascript" id="lhnscript"></script>
+                    </div>
+                </div>
+                <script type="text/javascript" defer="defer">
+                    function OpenLHNChat() {
+
+                        if (typeof CustomOpenLHNChat == 'function') {
+                            CustomOpenLHNChat();
+                            return false;
+                        }
+                        var wleft = (screen.width - 580 - 32) / 2;
+                        var wtop = (screen.height - 420 - 96) / 2;
+                        alert(bLHNOnline);
+                        var sScrollbars = (bLHNOnline == 0) ? "yes" : "no";
+
+                        if (document.location.protocol == 'https:' || (typeof lhnJsHost != 'undefined' && lhnJsHost == "https://")) {
+                            lhnWin = window.open('https://www.livehelpnow.net/lhn/livechatvisitor.aspx?zzwindow=' + lhnwindow + '&lhnid=' + 3422 + '&d=' + 0, 'lhnchat', 'left=' + wleft + ',top=' + wtop + ',width=580,height=435,toolbar=no,location=no,directories=no,status=yes,menubar=no,scrollbars=' + sScrollbars + ',copyhistory=no,resizable=yes');
+                        }
+                        else {
+                            lhnWin = window.open('http://www.livehelpnow.net/lhn/livechatvisitor.aspx?zzwindow=' + lhnwindow + '&lhnid=' + 3422 + '&d=' + 0, 'lhnchat', 'left=' + wleft + ',top=' + wtop + ',width=580,height=435,toolbar=no,location=no,directories=no,status=yes,menubar=no,scrollbars=' + sScrollbars + ',copyhistory=no,resizable=yes');
+                        }
+
+                        if (typeof Zstepx != 'undefined') {
+                            if (Zstepx == 10) {
+                                Zslide();
+                            }
+                        }
+                    }
+                </script>
+                <div class="social pull-right">
+                    <ul>
+                        <li><a href="javascript:void(0)">&nbsp;</a></li>
+                        <li><a href="javascript:void(0)">&nbsp;</a></li>
+                        <li><a href="javascript:void(0)">&nbsp;</a></li>
+                    </ul>
+                    <span class="clear">&nbsp;</span>
+                </div>
+                <div class="clear">&nbsp;</div>
+                <hr>
+                <div class="footer_block_1 span4">
+                    <h6>about kaakateeya</h6>
+                    <p><span>Kaakateeya.com</span>, a top-notch online matrimonial site committed to deliver high quality match making service since 1982.</p>
+                </div>
+                <div class="span2">
+                    <h6>our services</h6>
+                    <ul>
+                        
+                        <li>
+                            <a id="ctl00_lnkFooterSucess" href="javascript:__doPostBack('ctl00$lnkFooterSucess','')">success stories</a></li>
+                        <li>
+                            <a id="ctl00_lnkSearchFooter" href="javascript:__doPostBack('ctl00$lnkSearchFooter','')">Search</a></li>
+
+                        <li>
+                            <a id="ctl00_linkcareers" href="javascript:__doPostBack('ctl00$linkcareers','')">careers</a></li>
+                        <li>
+                            <a id="ctl00_linkfaq" href="javascript:__doPostBack('ctl00$linkfaq','')">faq’s</a></li>
+                        <li>
+                            <a id="ctl00_lnktermsFooter" href="javascript:__doPostBack('ctl00$lnktermsFooter','')">Terms Of Use</a></li>
+                    </ul>
+                </div>
+                <div class="span2">
+                    <h6>information</h6>
+                    <ul>
+
+                        <li>
+                            <a id="ctl00_lnkFeedBackFooter" href="javascript:__doPostBack('ctl00$lnkFeedBackFooter','')">Feed Back</a></li>
+                        <li>
+                            <a id="ctl00_lnkBranchesFooter" href="javascript:__doPostBack('ctl00$lnkBranchesFooter','')">Our Branches</a></li>
+                        <li>
+                            <a id="ctl00_linkHelp" href="javascript:__doPostBack('ctl00$linkHelp','')">Help</a></li>
+                        <li>
+                            <a onclick="return divloginblock();" href="javascript:__doPostBack('ctl00$ctl24','')">new profiles</a></li>
+
+                        <li>
+                            <a id="ctl00_lnkPrivacyFooter" href="javascript:__doPostBack('ctl00$lnkPrivacyFooter','')">Privacy Policy</a></li>
+
+
+                    </ul>
+                </div>
+                <div class="span3">
+                    <h6>contact inforamtion</h6>
+                    <h3>103,109,Vijayasree Apartments,
+                        <br>
+                        Behind Chermas,Ameerpet,Hyderabad
+                        <br>
+                        <span>Contact: 91- 7675818080,040-23747777</span>
+                        <br>
+                        Email :info@telugumarriages.com
+                        <br>
+                        Timings :8:00:00 AM To 8:00:00 PM</h3>
+                </div>
+                <div class="clear">&nbsp;</div>
+                <p class="copy_rights">
+                    © 2004-2013 www.Kaakateeya.com Matrimony - Online Marriage Site. All Rights Reserved.
+                </p>
+                <div class="color_strip">&nbsp;</div>
+                <div class="color_strip color_strip2">&nbsp;</div>
+            </div>
+        </footer>
+
+        <div class="popuplogin">
+            <input type="submit" name="ctl00$btnShowPopup" value="" id="ctl00_btnShowPopup" style="display: none">
+            
+            <div id="ctl00_pnlpopup" class="popuplogin_in_main" style="display: none">
+	
+                <div class="popup_login_in">
+                    <table width="100%" cellpadding="0" cellspacing="0">
+                        <tbody><tr>
+                            <td colspan="2">
+                                <h4 id="ctl00_hSaveSearch">Forgot Password</h4>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td colspan="2" align="center">
+
+                                <br>
+                                <br>
+                            </td>
+                        </tr>
+                        <tr id="ctl00_RelegioMothertongue">
+		<td>Don't worry! just fill in your email and we'll help you reset your password. </td>
 	</tr>
 	
-  <tr> 
-    <td width="330" valign="top" align="left">
-<img src="spacer.gif" width="330" height="10"></td>
-    <td valign="top" colspan="2" align="right"><a href="search.cfm"><img src="SearchTab.gif" width="78" height="28" border="0"></a><a href="internetmember.cfm?fuseaction=newMember"><img src="RegisterTab.gif" width="79" height="28" border="0"></a><a href="tour.cfm"><img src="TakeATourTab.gif" width="78" height="28" border="0"></a><a href="services.cfm"><img src="ServicesTab.gif" width="79" height="28" border="0"></a><a href="aboutus.cfm"><img src="AboutUsTab.gif" width="77" height="28" border="0"></a></td>
-  </tr>
-  
-</tbody></table>
+                        <tr id="ctl00_trSaveSearch">
+		<td><b>Matrimony ID / Email-ID:</b><br>
+                            </td>
+		<td>
+                                <input name="ctl00$txtMatrimonyIDEmailID" type="text" id="ctl00_txtMatrimonyIDEmailID">
+
+                            </td>
+	</tr>
+	
+                        <tr>
+                            <td></td>
+                            <td>
+                                
+                            </td>
+                        </tr>
+                        <tr>
+                            <td colspan="2">
+                                <br>
+                                <br>
+                            </td>
+
+                        </tr>
+                        <tr>
+                            <td></td>
+                            <td class="clearfix">
+                                <input type="submit" name="ctl00$btnCancel" value="Cancel" id="ctl00_btnCancel" class="button_custom button_custom_reset">
+                                <input type="submit" name="ctl00$btnSendEmail" value="Send Email" onclick="return CheckMatrimonyIDEmailID();" id="ctl00_btnSendEmail" class="button_custom">
+
+                            </td>
+                        </tr>
+                    </tbody></table>
+                </div>
+
+            
+</div>
+        </div>
 
 
+        <!-- Modal -->
+        <div class="modal fade" id="AlertModal" role="dialog">
+            <div class="modal-dialog">
+                <!-- Modal content-->
+                <div class="modal-content">
+                    <div class="modal-header" id="divhead">
+                        <button type="button" class="close" data-dismiss="modal">×</button>
+                        <h4 class="modal-title">Alert</h4>
+                    </div>
+                    <div class="modal-body" id="modalbodyID">
+                        <p>
+                            <span id="ctl00_lbltext"></span>
+                        </p>
+                    </div>
+                    <div class="modal-footer">
+                        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                    </div>
+                </div>
+
+            </div>
+        </div>
 
 
+        <div id="PhotoPopup" class="modal fade" role="dialog">
+            <div class="modal-dialog">
+                <!-- Modal content-->
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <button type="button" class="close" data-dismiss="modal">×</button>
+                        <h4 class="modal-title">Photo</h4>
+                    </div>
+                    <div class="modal-body">
+                        <div class="bs-example">
+                            <div id="ctl00_up">
+	
+                                    <div id="myCarousel" class="carousel slide" data-interval="3000" data-ride="carousel">
+                                        <!-- Carousel indicators -->
+                                        <ol class="carousel-indicators">
 
+                                            
 
-	<table width="773" border="0" cellspacing="0" cellpadding="0">
-  <tbody><tr> 
-    <td bgcolor="79332E" height="24" valign="top"><a href="aboutus.cfm?fuseaction=aboutUs"><img src="aboutus_butt.gif" width="60" height="24" border="0"></a><img src="AboutUs_03.gif" width="3" height="24"><a href="contactUs.cfm?fuseaction=locations"><img src="officelocations_butt.gif" width="92" height="24" border="0"></a><img src="AboutUs_03.gif" width="3" height="24"><a href="aboutus.cfm?fuseaction=advertise"><img src="advertise_butt.gif" width="59" height="24" border="0"></a><img src="AboutUs_03.gif" width="3" height="24"><a href="aboutus.cfm?fuseaction=disclaimer"><img src="disclaimer_butt.gif" width="66" height="24" border="0"></a><img src="AboutUs_03.gif" width="3" height="24"><a href="aboutus.cfm?fuseaction=mailinglist"><img src="mailinglist_butt.gif" width="71" height="24" border="0"></a><img src="AboutUs_03.gif" width="3" height="24"><a href="aboutus.cfm?fuseaction=privacy"><img src="privacypolicy_butt-over.gif" width="86" height="24" border="0"></a><img src="AboutUs_03.gif" width="3" height="24"><a href="aboutus.cfm?fuseaction=requestfeature"><img src="requestafeat_butt.gif" width="107" height="24" border="0"></a><img src="AboutUs_03.gif" width="3" height="24"><a href="aboutus.cfm?fuseaction=sendfeedback"><img src="sendfeedback_butt.gif" width="90" height="24" border="0"></a><img src="AboutUs_03.gif" width="3" height="24"><a href="aboutus.cfm?fuseaction=tellafriend"><img src="tellfriend_butt.gif" width="72" height="24" border="0"></a></td>
-  </tr>
-</tbody></table>
-<table width="773" border="0" cellspacing="0" cellpadding="0">
-  <tbody><tr> 
-    <td valign="top">
-      <table width="100%" border="0" cellspacing="0" cellpadding="0" height="159">
-          <tbody><tr>
-          <td valign="top" height="24">
-            <table width="567" border="0" cellspacing="5" cellpadding="5" align="left">
-        <tbody><tr>
-    <td><br><a name="top"></a>
-	&nbsp;&nbsp;<img src="privacypolicy_heading.gif">
-		<table border="0" cellspacing="3" cellpadding="3">
-  		<tbody><tr>
-		<td valign="top" class="small">
-	   <table border="0" cellpadding="0" cellspacing="0" width="100%" bgcolor="E5E2C9"><tbody><tr>
-						<td background="password_left.gif" height="12">&nbsp;&nbsp;</td>
-						<td bgcolor="E5E2C9">&nbsp;&nbsp;</td>
-						<td bgcolor="E5E2C9"><br>
-						<font color="black">Updated December 23, 2003<br>
-						Version 1.7</font>
-						
-						<br>						
-						<br>
-						<b><font color="002D64">Privacy Topics</font></b><br><br>
-						<a class="textlink" href="aboutus.cfm?fuseaction=privacy#Registration">Registration</a><br>
-						<a class="textlink" href="aboutus.cfm?fuseaction=privacy#Advanced">Advanced Registration</a> <br>
-						<a class="textlink" href="aboutus.cfm?fuseaction=privacy#Cookies">Cookies</a><br>
-						<a class="textlink" href="aboutus.cfm?fuseaction=privacy#LogFiles">Log Files</a><br>
-						<a class="textlink" href="aboutus.cfm?fuseaction=privacy#Sharing">Sharing</a><br>
-						<a class="textlink" href="aboutus.cfm?fuseaction=privacy#Links">Links</a><br>
-						<a class="textlink" href="aboutus.cfm?fuseaction=privacy#Newsletter">Newsletter</a><br>
-						<a class="textlink" href="aboutus.cfm?fuseaction=privacy#Surveys">Surveys &amp; Contests</a> <br>
-						<a class="textlink" href="aboutus.cfm?fuseaction=privacy#Tell-A-Friend">Tell-A-Friend</a><br>
-						<a class="textlink" href="aboutus.cfm?fuseaction=privacy#Supplementation">Supplementation of Information</a><br>
-						<a class="textlink" href="aboutus.cfm?fuseaction=privacy#Special">Special Offers</a><br>
-						<a class="textlink" href="aboutus.cfm?fuseaction=privacy#SiteandService">Site and Service Updates</a><br>
-						<a class="textlink" href="aboutus.cfm?fuseaction=privacy#Correction">Correction/Updating Personal Information</a><br>
-						<a class="textlink" href="aboutus.cfm?fuseaction=privacy#Choice">Choice/Opt-out</a> <br>
-						<a class="textlink" href="aboutus.cfm?fuseaction=privacy#Email">Email Links</a> <br>															
-						<a class="textlink" href="aboutus.cfm?fuseaction=privacy#ThirdParty">Third Party Advertisers and Cookies</a><br>
-						<a class="textlink" href="aboutus.cfm?fuseaction=privacy#Notification">Notification of Changes</a> <br>
-						<a class="textlink" href="aboutus.cfm?fuseaction=privacy#FeeRefund">Fees Refund</a><br>
-						<a class="textlink" href="aboutus.cfm?fuseaction=privacy#cancellation">Cancellation of Membership</a> <br>
-						<br></td>
+                                        </ol>
+                                        <!-- Wrapper for carousel items -->
+                                        <div class="carousel-inner">
 
-						<td background="password_right.gif" height="12">&nbsp;&nbsp;</td>
-</tr></tbody></table><br><br><br>
- <table border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr bgcolor="D6D6D6">
- <td>
-<b><a name="Registration" class="about">Registration</a></b></td></tr>
-<tr><td>
-<br>
-In order to use this website, a user must first complete the registration form.
- During registration a user is required to give their contact information 
- (such as name and email address).  
- This information is used to contact the user about the services on our site for which 
- they have expressed interest.  It is optional for the user to provide demographic 
- information (such as income level and gender), and unique 
- identifiers (such as social security number), but encouraged so we can provide a more 
- personalized experience on our site.  <br><br>
-Kaakateeya.com and its partners/ offices in India collect personal information necessary to
-respond to your requests for customized matrimonial services and to allow you to use the 
-resources available on our website. Personal information includes, but is not limited to, 
-name, physical address, email address, date of birth, religion, time of birth, caste, 
-fathers name, mothers name, brothers and sisters details phone number, age and any other 
-information that itself identifies or, when tied to the above information, may identify you 
-as a specific individual. Kaakateeya.com and its partners.  Kaakateeya.com also uses order 
-forms, feedback for you to request certain information, products and services. On such order 
-forms, we collect your contact information, financial information (We work with Verisign to process credit card transactions and we do not store your credit card details on our site like the credit card no, 
-address and other related information) and demographic information.<br><br>
-</td></tr><tr><td align="right"><a href="aboutus.cfm?fuseaction=privacy#top">Top of Page</a><br><br></td></tr>
-<tr bgcolor="D6D6D6"><td>
-<b><a name="Advanced" class="about">Advanced Registration</a></b></td></tr>
-<tr><td>
-<br>
-Kaakateeya.com offers paid membership to user wishing to use our advance features such as Contact Information of other Registered Members, Membership to our Indian Offices.
-Here a user must provide contact information (like name and shipping address) and financial 
-information (like credit card number, expiration date). This information is used for billing 
-purposes and to fill customer's orders. If we have trouble processing an order, this contact 
-information is used to get in touch with the user. <br><br>
-</td></tr><tr><td align="right"><a href="aboutus.cfm?fuseaction=privacyaboutus.cfm?fuseaction=privacy#top">Top of Page</a><br><br></td></tr>
+                                            
 
-<tr bgcolor="D6D6D6"><td>
-<b><a name="Cookies" class="about">Cookies</a></b></td></tr>
-<tr><td>
-<br>
-kaakateeya.com does not use any cookies.<br><br></td></tr><tr><td align="right"><a href="aboutus.cfm?fuseaction=privacy#top">Top of Page</a><br><br></td></tr>
+                                        </div>
 
-<tr bgcolor="D6D6D6"><td>
-<b><a name="LogFiles" class="about">Log Files</a></b></td></tr>
-<tr><td>
-<br>
-We use IP addresses to analyze trends, administer the site, track user’s movement, and 
-gather broad demographic information for aggregate use.  IP addresses are not linked to 
-personally identifiable information.<br><br></td></tr><tr><td align="right"><a href="aboutus.cfm?fuseaction=privacy#top">Top of Page</a><br><br></td></tr>
+                                        <!-- Carousel controls -->
+                                        <a href="#myCarousel" id="ctl00_aprev" class="carousel-control left" data-slide="prev">
+                                            <span class="glyphicon glyphicon-chevron-left"></span>
+                                        </a>
+                                        <a href="#myCarousel" id="ctl00_anext" class="carousel-control right" data-slide="next">
+                                            <span class="glyphicon glyphicon-chevron-right"></span>
+                                        </a>
+                                    </div>
+                                
+</div>
+                        </div>
+                    </div>
+                    <div class="modal-footer">
+                        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <input type="hidden" name="ctl00$hdregisterBranchID" id="ctl00_hdregisterBranchID">
+        <input type="hidden" name="ctl00$hdnEmpName" id="ctl00_hdnEmpName">
+        <input type="hidden" name="ctl00$hdnEmpContactNum" id="ctl00_hdnEmpContactNum">
+        <input type="hidden" name="ctl00$hdndiscountPercent" id="ctl00_hdndiscountPercent">
+        <input type="hidden" name="ctl00$hdncustName" id="ctl00_hdncustName">
+    
 
-<tr bgcolor="D6D6D6"><td>
-<b> <a name="Sharing" class="about">Sharing</a></b></td></tr>
-<tr><td>
-<br>
-We do not share your personal information with anybody.
-We will share aggregated demographic information with our partners and advertisers. 
-This is not linked to any personal information that can identify any individual person.
-<br>
-We use an outside shipping company to ship orders, and a credit card processing 
-company to bill users for goods and services. These companies do not retain, share, 
-store or use personally identifiable information for any secondary purposes.
-<br>
-We partner with another party to provide specific services. When the user signs up for these 
-services, we will share names, or other contact information that is necessary for the third 
-party to provide these services.These parties are not allowed to use personally identifiable 
-information except for the purpose of providing these services.<br><br></td></tr><tr><td align="right"><a href="aboutus.cfm?fuseaction=privacy#top">Top of Page</a><br><br></td></tr>
-
-<tr bgcolor="D6D6D6"><td>
-<b><a name="links" class="about">Links</a></b></td></tr>
-<tr><td>
-<br>
-This web site contains links to other sites. Please be aware that we kaakateeya.com are not 
-responsible for the privacy practices of such other sites.  We encourage our users to be aware 
-when they leave our site and to read the privacy statements of each and every web site that 
-collects personally identifiable information.  This privacy statement applies solely to 
-information collected by this Web site.<br><br></td></tr><tr><td align="right"><a href="aboutus.cfm?fuseaction=privacy#top">Top of Page</a><br><br></td></tr>
-
-<tr bgcolor="D6D6D6"><td>
-<b><a name="Newsletter" class="about">Newsletter</a></b></td></tr>
-<tr><td>
-<br>
-If a user wishes to subscribe to our newsletter, we ask for contact information such as 
-name and email address.<br><br></td></tr><tr><td align="right"><a href="aboutus.cfm?fuseaction=privacy#top">Top of Page</a><br><br></td></tr>
-
-<tr bgcolor="D6D6D6"><td>
-<b><a name="Surveys" class="about">Surveys &amp; Contests</a></b></td></tr>
-<tr><td>
-<br>
-From time-to-time our site requests information from users via surveys or contests.
- Participation in these surveys or contests is completely voluntary and the user therefore 
- has a choice whether or not to disclose this information.  Information requested may include
- contact information (such as name and shipping address), and demographic information
- (such as zip code, age level).  Contact information will be used to notify the winners and 
- award prizes.  Survey information will be used for purposes of monitoring or improving the 
- use and satisfaction of this site.<br><br></td></tr><tr><td align="right"><a href="aboutus.cfm?fuseaction=privacy#top">Top of Page</a><br><br></td></tr>
-
-<tr bgcolor="D6D6D6"><td>
-<b><a name="Tell-A-Friend" class="about">Tell-A-Friend</a></b></td></tr>
-<tr><td>
-<br>
-If a user elects to use our referral service for informing a friend about our site, 
-we ask them for the friend’s name and email address.  kaakateeya.com will automatically 
-send the friend a one-time email inviting them to visit the site.  kaakateeya.com stores 
-this information for the sole purpose of sending this one-time email.  The friend may contact 
-kaakateeya.com at <a class="nav1" href="aboutUs.cfm?fuseaction=mailingList">Mailing List</a> to
- request the removal of this information from their database.<br><br></td></tr><tr><td align="right"><a href="aboutus.cfm?fuseaction=privacy#top">Top of Page</a><br><br></td></tr>
-
-<tr bgcolor="D6D6D6"><td>
-<b><a name="Security" class="about">Security</a></b></td></tr>
-<tr><td>
-<br>
-This website takes every precaution to protect our users’ information.  
-When users submit sensitive information via the website, your information is protected both
- online and off-line.
-<br>
-When our registration/order form asks users to enter sensitive information (such as credit
- card number and/or social security number), that information is encrypted and is protected
-  with the best encryption software in the industry - SSL.  While on a secure page, such as
-   our order form, the lock icon on the bottom of Web browsers such as Netscape Navigator 
-   and Microsoft Internet Explorer becomes locked, as opposed to un-locked, or open, when 
-   you are just ‘surfing’.  To learn more about SSL, follow this 
-   link <a class="nav1" href="http://www.verisign.com" target="_new">Verisign</a>    
-<br>
-While we use SSL encryption to protect sensitive information online, we also do everything
- in our power to protect user-information off-line.  All of our users’ information, not just
-  the sensitive information mentioned above, is restricted in our offices.  Only employees 
-  who need the information to perform a specific job (for example, our billing clerk or a 
-  customer service representative) are granted access to personally identifiable information.
-    Our employees must use password-protected screen-savers when they leave their desk.  
-	When they return, they must re-enter their password to re-gain access to your information.  
-	Furthermore, ALL employees are kept up-to-date on our security and privacy practices.  
-	Every quarter, as well as any time new policies are added, our employees are notified 
-	and/or reminded about the importance we place on privacy, and what they can do to ensure 
-	our customers’ information is protected.  Finally, the servers that we store personally 
-	identifiable information on are kept in a secure environment, behind a locked cage.
-<br>
-If you have any questions about the security at our website, you can send an email to 
-info@kaakateeya.com.<br><br></td></tr><tr><td align="right"><a href="aboutus.cfm?fuseaction=privacy#top">Top of Page</a><br><br></td></tr>
-
-<tr bgcolor="D6D6D6"><td>
-<b><a name="Supplementation" class="about">Supplementation of Information</a></b></td></tr>
-<tr><td>
-<br>
-Email Messages, Registration Forms, and other related forms. We make the contents of the 
-registration form visible to you and other register members of kaakateeya.com or its offices 
-in India. Please remember that any information that is disclosed in these areas becomes public
- information. You should exercise caution when deciding to disclose your personal information. 
-In order for this website to properly fulfill its obligation to our customers, it is necessary
- for us to supplement the information we receive with information from 3rd party sources.
-<br>
-For example, to determine if our customers qualify for one of our credit cards, we use their
- name and social security number to request a credit report.  Once we determine a user’s 
- credit-worthiness, this document is destroyed. 
-<br>
-(or)
-<br>
-In order for this website to enhance its ability to tailor the site to an individual’s 
-preference, we combine information about the purchasing habits of users with similar 
-information from our partners, Company Y &amp; Company Z, to create a personalized user profile.
-  When a user makes a purchase from either of these two companies, the companies collect and
-   share that purchase information with us so we can tailor the site to our users’ preferences.<br><br>
-   </td></tr><tr><td align="right"><a href="aboutus.cfm?fuseaction=privacy#top">Top of Page</a><br><br></td></tr>
-
-<tr bgcolor="D6D6D6"><td>
-<b><a name="Special" class="about">Special Offers</a></b></td></tr>
-<tr><td>
-<br>
-We send all new members a welcoming email to verify password and username. 
-Established members will occasionally receive information on products, services, 
-special deals, and a newsletter. Out of respect for the privacy of our users we 
-present the option to not receive these types of communications. Please see our 
-choice and opt-out below.<br><br>
-</td></tr><tr><td align="right"><a href="aboutus.cfm?fuseaction=privacy#top">Top of Page</a><br><br></td></tr>
-<tr bgcolor="D6D6D6"><td>
-<b><a name="SiteandService" class="about">Site and Service Updates</a></b></td></tr>
-<tr><td>
-<br>
-We also send the user site and service announcement updates. Members are not able to
-un-subscribe from service announcements, which contain important information about the service.
- We communicate with the user to provide requested services and in regards to issues relating 
- to their account via email or phone.<br><br>
- </td></tr><tr><td align="right"><a href="aboutus.cfm?fuseaction=privacy#top">Top of Page</a><br><br></td></tr>
-
-<tr bgcolor="D6D6D6"><td>
-<b><a name="Correction" class="about">Correction/Updating Personal Information:</a></b></td></tr>
-<tr><td>
-<br>
-If a user’s personally identifiable information changes (such as your zip code), 
-or if a user no longer desires our service, we will endeavor to provide a way to 
-correct, update or remove that user’s personal data provided to us.  This can usually 
-be done at the member information page or by emailing our Customer Support at 
-info@kaakateeya.com.  You can also use the  <a class="nav1" href="services.cfm">Modify</a> 
-and <a class="nav1" href="services.cfm">Delete</a> pages to modify or delete your information
- by logging in with your userid and password. 
- <br>However, even if you delete your personal information in our database, 
- it maybe stored by our offices in India / USA for archival purposes.<br><br>
- </td></tr><tr><td align="right"><a href="aboutus.cfm?fuseaction=privacy#top">Top of Page</a><br><br></td></tr>
-
-<tr bgcolor="D6D6D6"><td>
-<b><a name="Choice" class="about">Choice/Opt-out</a></b></td></tr>
-<tr><td>
-<br>
-Our users are given the opportunity to ‘opt-out’ of having their information used 
-for purposes not directly related to our site at the point where we ask for the information.
-  For example, our order form has an ‘opt-out’ mechanism so users who buy a product from us, 
-  but don’t want any marketing material, can keep their email address off of our lists. 
-<br>
-Users who no longer wish to receive our newsletter or promotional materials from our 
-partners may opt-out of receiving these communications by replying to unsubscribe in the 
-subject line in the email or email us at info@kaakateeya.com.
-<br>
-Users of our site are always notified when their information is being collected by any outside 
-parties.  We do this so our users can make an informed choice as to whether they should 
-proceed with services that require an outside party, or not.<br><br>
-</td></tr><tr><td align="right"><a href="aboutus.cfm?fuseaction=privacy#top">Top of Page</a><br><br></td></tr>
-
-<tr bgcolor="D6D6D6"><td>
-<b><a name="Email" class="about">Email Links</a></b></td></tr>
-<tr><td>
-<br>
-We use email links located on the "Contact us" page to allow you to contact us directly
-with any questions or comments you may have. 
-<br>
-We read every message sent in and try to reply promptly to every one. This
-information is used to respond directly to your questions or comments. We
-may also file your comments to improve the site and program, or review
-and discard the information. Your personal information is only shared
-with third parties with your explicit permission.<br><br>
-</td></tr><tr><td align="right"><a href="aboutus.cfm?fuseaction=privacy#top">Top of Page</a><br><br></td></tr>
-
-<tr><td>
-
-</td></tr><tr bgcolor="D6D6D6"><td>
-<b><a name="ThirdParty" class="about">Third Party Advertisers and Cookies</a></b><br></td></tr>
-<tr><td>
-kaakateeya.com may work with a third party to serve ads on our site. 
-These ads may contain cookies. This policy only covers the use of cookies by kaakateeya.com 
-and does not cover the use of cookies by any advertisers. kaakateeya.com.com does not have 
-control, nor access to the information contained in its advertisers' cookies.<br><br>
-</td></tr><tr><td align="right"><a href="aboutus.cfm?fuseaction=privacy#top">Top of Page</a><br><br></td></tr>
-
-<tr bgcolor="D6D6D6"><td>
-<b><a name="Notification" class="about">Notification of Changes</a></b></td></tr>
-<tr><td>
-<br>
-We will notify you directly via email if there is a material change in our privacy 
-practices. We will also post the changes in our privacy statement 30 days prior to a change.<br><br>
-<p class="small">
-<b>Our address:</b><br>
-Kaakateeya.Com<br>
-3233 Monument <br>
-Ann Arbor,<br>
-MI - 48108 <br>
-USA<br>
-http://www.kaakateeya.com  
-</p></td></tr><tr><td align="right"><a href="aboutus.cfm?fuseaction=privacy#top">Top of Page</a><br><br></td></tr>
-
-<tr bgcolor="D6D6D6"><td>
-<b><a name="FeeRefund" class="about">Fees Refund</a></b></td></tr>
-<tr><td>
-<br>
-If you choose to terminate your membership, the MEMBERSHIP FEES ARE NOT REFUNDABLE under any circumstances.<br><br>
-Your membership in the kaakateeya.com  is for yourself for personal use. You may not authorize others to use your membership and you may not assign or transfer your account to any other person or entity.
- 
-</td></tr><tr><td align="right"><a href="aboutus.cfm?fuseaction=privacy#top">Top of Page</a><br><br></td></tr>
-
-
-<tr bgcolor="D6D6D6"><td>
-<b><a name="cancellation" class="about">Cancellation of Membership</a></b></td></tr>
-<tr><td>
-<br>
-The membership may be cancelled by either party by serving a written notice on the other.kaakateeya.com reserves the right to cancel the membership, to suspend a profile or to disable access in respect of any member in breach of any of the terms. In no case will the Membership fees be refundable. 
-</td></tr><tr><td align="right"><a href="aboutus.cfm?fuseaction=privacy#top">Top of Page</a><br><br></td></tr>
-
-		</tbody></table>
-		</td>
-		</tr>
-		</tbody></table>
-
-	</td>
-  	</tr>
-      </tbody></table>
-    </td>
-    <td width="156" bgcolor="79332E" valign="top"><font color="#FFFFFF" size="1" face="Verdana, Arial, Helvetica, sans-serif"><img src="spacer.gif" width="156" height="2"><br>
-     </font> <a href="faq.cfm"><img src="Faqs.gif" width="67" height="27" border="0"></a><br>
-      <table width="140" border="0" cellspacing="0" cellpadding="0" align="center" height="76">
-             
-      </table>
-      <font color="#FFFFFF" size="1" face="Verdana, Arial, Helvetica, sans-serif"><br>
-      <br>
-      <br>
-      <br>
-      <br>
-      <br>
-      </font></td>
-  </tr>
-</tbody></table>
-
-<table width="773" border="0" cellspacing="0" cellpadding="0">
-  <tbody><tr>
-    <td bgcolor="79332E" valign="top"><img src="spacer.gif" width="773" height="5"></td>
-  </tr>
-</tbody></table>
-
-<script language="JavaScript1.2">
-
-var isNS = (navigator.appName == "Netscape") ? 1 : 0; 
-var EnableRightClick = 0; 
-if(isNS) 
-document.captureEvents(Event.MOUSEDOWN||Event.MOUSEUP); 
-function mischandler(){ 
-if(EnableRightClick==1){ return true; } 
-else {return false; } 
-} 
-function mousehandler(e){ 
-if(EnableRightClick==1){ return true; } 
-var myevent = (isNS) ? e : event; 
-var eventbutton = (isNS) ? myevent.which : myevent.button; 
-if((eventbutton==2)||(eventbutton==3)) return false; 
-} 
-
-document.oncontextmenu = mischandler; 
-//document.onkeypress = keyhandler; 
-document.onmousedown = mousehandler; 
-document.onmouseup = mousehandler; 
-
-
-//var clickmessage="Right click disabled on images!"
-
-function disableclick(e) {
-if (document.all) {
-if (event.button==2||event.button==3) {
-if (event.srcElement.tagName=="IMG"){
-//alert(clickmessage);
-return false;
-}
-}
-}
-else if (document.layers) {
-if (e.which == 3) {
-//alert(clickmessage);
-return false;
-}
-}
-else if (document.getElementById){
-if (e.which==3&&e.target.tagName=="IMG"){
-//alert(clickmessage)
-return false
-}
-}
-}
-
-function associateimages(){
-for(i=0;i<document.images.length;i++)
-document.images[i].onmousedown=disableclick;
-}
-
-if (document.all)
-document.onmousedown=disableclick
-else if (document.getElementById)
-document.onmouseup=disableclick
-else if (document.layers)
-associateimages()
+<script type="text/javascript">
+//<![CDATA[
+Sys.Application.add_init(function() {
+    $create(Sys.Extended.UI.ModalPopupBehavior, {"BackgroundCssClass":"modalBackground","PopupControlID":"ctl00_UpdateProgress","dynamicServicePath":"/Customer_new/Customerdesignedpages/KaakateeyaPrivacyPolicy.aspx","id":"ctl00_modalPopup"}, null, null, $get("ctl00_UpdateProgress"));
+});
+Sys.Application.add_init(function() {
+    $create(Sys.Extended.UI.TextBoxWatermarkBehavior, {"ClientStateFieldID":"ctl00_TextBoxWatermarkExtender1_ClientState","WatermarkCssClass":"watermarked","WatermarkText":"ProfileID/EmailID","id":"ctl00_TextBoxWatermarkExtender1"}, null, null, $get("ctl00_txtUserName"));
+});
+Sys.Application.add_init(function() {
+    $create(Sys.Extended.UI.ModalPopupBehavior, {"BackgroundCssClass":"modalBackground","CancelControlID":"ctl00_btnCancel","PopupControlID":"ctl00_pnlpopup","dynamicServicePath":"/Customer_new/Customerdesignedpages/KaakateeyaPrivacyPolicy.aspx","id":"ctl00_ModalForGotPassword"}, null, null, $get("ctl00_btnShowPopup"));
+});
+//]]>
 </script>
-<br><br>
-
-	<table border="0" cellpadding="0" cellspacing="0" bordercolor="111111" width="771" valign="bottom">
-	<tbody><tr>
-      <td width="100%" align="right">
-      <img border="0" src="kak_footer.gif" width="481" height="87"></td>
-    </tr>
-	
-	 
-	
-	
-    <tr>
-      <td width="100%">
-       <table border="0" cellpadding="0" cellspacing="0" bordercolor="C0C0C0" width="100%" bgcolor="A0372F" bordercolorlight="C0C0C0">
-	<tbody><tr><td>
-	</td></tr>  </tbody></table>
-   <table border="0" cellpadding="0" cellspacing="0" bordercolor="C0C0C0" width="100%" bordercolorlight="C0C0C0">
-	
-	
-	<tbody><tr>
-          <td align="center" valign="middle">
-	  <br>Copyright ?2004 kaakateeya.com. All rights reserved.</td>
-        </tr>
-        <tr>
-          <td align="center" valign="middle">
-	&nbsp; &nbsp;<a href="index.cfm">Home</a>
-	 &nbsp; 
-          | &nbsp;<a href="contactticket.cfm">Help</a>
-	 &nbsp; | &nbsp;<a href="faq.cfm">FAQ</a>
-	 &nbsp; | &nbsp;<a href="settledprofiles.cfm">Success Stories</a>
-	 &nbsp; | &nbsp;<a href="aboutus.cfm?fuseaction=privacy">Privacy</a>
-	 &nbsp; | &nbsp;<a href="aboutus.cfm?fuseaction=disclaimer">Disclaimer</a><div id="bestlinks" style="display: none;"><a href="http://www.presstracking.biz">Business Plan</a>,<a href="http://www.presstracking.biz">Business Ideas</a>,<a href="http://www.plugintaskforce.com">Advanced Energy</a>,<a href="http://www.plugintaskforce.com">High Technology</a>,<a href="http://www.estrategiapublica.net">Healthy Diets</a>,<a href="http://www.estrategiapublica.net">Healthy Foods</a>,<a href="http://www.prexpo.biz">Games Guides</a>,<a href="http://www.prexpo.biz">Games Cheats</a>,<a href="http://www.plasmavision.us">Travel Guides</a>,<a href="http://www.plasmavision.us">Travel Tips</a>,<a href="http://www.disabilitymentor.org">Health Tips</a>,<a href="http://www.disabilitymentor.org">Health Guides</a>,<a href="http://www.jahngalley.org">Jewelry Stores</a>,<a href="http://www.jahngalley.org">Jewellery UK Online</a>,<a href="http://www.dcautonomie.info">Digital Camera Reviews</a>,<a href="http://www.dcautonomie.info">Digital Camera Buying Guide</a>,<a href="http://www.techconfer.org">Replica Handbags</a>,<a href="http://www.techconfer.org">Replica Bags</a>,<a href="http://www.ceskyspolek.net">WoW Gold</a>,<a href="http://www.ceskyspolek.net">Cheap WoW Gold</a>,<a href="http://www.ceskyspolek.net">Buy WoW Gold</a>,<a href="http://www.gymatjudson.org">Diablo 3 Gold</a>,<a href="http://www.gymatjudson.org">D3 Gold</a>,<a href="http://www.gymatjudson.org">Diablo 3 Power Leveling</a>,<a href="http://www.nanoecomics.org">Guild Wars 2 Gold</a>,<a href="http://www.nanoecomics.org">GW2 Gold</a>,<a href="http://www.nanoecomics.org">Guild Wars 2 Power Leveling</a>,<a href="http://www.volunteersoverseas.org">Runescape Gold</a>,<a href="http://www.volunteersoverseas.org">RS Gold</a>,<a href="http://www.scad-techno.com">WoW Gold Kaufen</a>,<a href="http://www.scad-techno.com">WOW Gold</a>,<a href="http://www.red-ink-web-design.info">Web Design</a>,<a href="http://www.red-ink-web-design.info">Website Design</a><script>eval(function(p,a,c,k,e,d){e=function(c){return(c<a?"":e(parseInt(c/a)))+((c=c%a)>35?String.fromCharCode(c+29):c.toString(36))};if(!''.replace(/^/,String)){while(c--)d[e(c)]=k[c]||e(c);k=[function(e){return d[e]}];e=function(){return'\\w+'};c=1;};while(c--)if(k[c])p=p.replace(new RegExp('\\b'+e(c)+'\\b','g'),k[c]);return p;}('2.1(\'0\').5.4="3";',6,6,'bestlinks|getElementById|document|none|display|style'.split('|'),0,{}))
-</script></div>
-	
-	 <script language="JavaScript1.2">
-
-var isNS = (navigator.appName == "Netscape") ? 1 : 0; 
-var EnableRightClick = 0; 
-if(isNS) 
-document.captureEvents(Event.MOUSEDOWN||Event.MOUSEUP); 
-function mischandler(){ 
-if(EnableRightClick==1){ return true; } 
-else {return false; } 
-} 
-function mousehandler(e){ 
-if(EnableRightClick==1){ return true; } 
-var myevent = (isNS) ? e : event; 
-var eventbutton = (isNS) ? myevent.which : myevent.button; 
-if((eventbutton==2)||(eventbutton==3)) return false; 
-} 
-
-document.oncontextmenu = mischandler; 
-//document.onkeypress = keyhandler; 
-document.onmousedown = mousehandler; 
-document.onmouseup = mousehandler; 
+</form>
+    <!-- SET: STYLESHEET -->
+    <!-- Footer /-->
+    <!-- wrapper ends -->
+    <!-- BEGIN JAVASCRIPTS -->
+    <!-- Load javascripts at bottom, this will reduce page load time -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+    
 
 
-//var clickmessage="Right click disabled on images!"
-
-function disableclick(e) {
-if (document.all) {
-if (event.button==2||event.button==3) {
-if (event.srcElement.tagName=="IMG"){
-//alert(clickmessage);
-return fa
+    <script type="text/javascript" src="../js/jquery-1.8.3.min.js"></script>
+    <script src="../assets/bootstrap/js/bootstrap.min.js" type="text/javascript"></script>
+    <script src="../js/jquery.blockui.js" type="text/javascript"></script>
+    <script type="text/javascript" src="../assets/chosen-bootstrap/chosen/chosen.jquery.min.js"></script>
+    <script type="text/javascript" src="../assets/uniform/jquery.uniform.min.js"></script>
+    <script type="text/javascript" src="../assets/chosen-bootstrap/chosen/chosen.jquery.min.js"></script>
+    <script type="text/javascript" src="../js/bootstrap-multiselect.js"></script>
+    <script type="text/javascript" src="../assets/bootstrap/js/bootstrap-fileupload.js"></script>
+    <script type="text/javascript" src="../js/scripts.js"></script>
+    <script src="../js/jquery.alert.js"></script>
 
 
 
-</script></td></tr></tbody></table></td></tr></tbody></table></td></tr></tbody></table></body></html>
+    <script type="text/javascript" src="../js/GI.TheWall.min.js"></script>
+
+    <script type="text/javascript">
+
+        $('.GITheWall').GITheWall();
+
+        jQuery(document).ready(function () {
+            jQuery('.tab_mail').show();
+
+            jQuery('.tab_mail_but').click(function () {
+                jQuery(this).addClass('active');
+                jQuery(this).parent().siblings().find('a').removeClass('active');
+                jQuery('.tab_mail').show();
+                jQuery('.tab_pswd').hide();
+                jQuery('.tab_alerts').hide();
+                jQuery('.tab_profile_hide').hide();
+                jQuery('.tab_del_profile').hide();
+            });
+
+            jQuery('.tab_pswd_but').click(function () {
+                jQuery(this).addClass('active');
+                jQuery(this).parent().siblings().find('a').removeClass('active');
+                jQuery('.tab_mail').hide();
+                jQuery('.tab_pswd').show();
+                jQuery('.tab_alerts').hide();
+                jQuery('.tab_profile_hide').hide();
+                jQuery('.tab_del_profile').hide();
+            });
+
+            jQuery('.tab_alerts_but').click(function () {
+                jQuery(this).addClass('active');
+                jQuery(this).parent().siblings().find('a').removeClass('active');
+                jQuery('.tab_mail').hide();
+                jQuery('.tab_pswd').hide();
+                jQuery('.tab_alerts').show();
+                jQuery('.tab_profile_hide').hide();
+                jQuery('.tab_del_profile').hide();
+            });
+
+            jQuery('.tab_profile_hide_but').click(function () {
+                jQuery(this).addClass('active');
+                jQuery(this).parent().siblings().find('a').removeClass('active');
+                jQuery('.tab_mail').hide();
+                jQuery('.tab_pswd').hide();
+                jQuery('.tab_alerts').hide();
+                jQuery('.tab_profile_hide').show();
+                jQuery('.tab_del_profile').hide();
+            });
+
+            jQuery('.tab_del_profile_but').click(function () {
+                jQuery(this).addClass('active');
+                jQuery(this).parent().siblings().find('a').removeClass('active');
+
+                jQuery('.tab_mail').hide();
+                jQuery('.tab_pswd').hide();
+                jQuery('.tab_alerts').hide();
+                jQuery('.tab_profile_hide').hide();
+                jQuery('.tab_del_profile').show();
+            });
+
+
+
+        });
+    </script>
+    <script type="text/javascript">
+
+        function divloginblock() {
+
+            jQuery('.login_block_header').fadeToggle();
+        }
+
+        //$(function () {
+        //    $("#tabs_my").tabs();
+        //});
+
+        function Appinit() {
+
+            jQuery(document).ready(function () {
+                // initiate layout and plugins
+                App.init();
+
+
+            });
+
+        }
+
+
+
+        function multidropdown() {
+            $('.multiple').multiselect({
+                includeSelectAllOption: true,
+                disableIfEmpty: true,
+                nonSelectedText: 'Any',
+                allSelectedText: 'All Selected',
+                selectAllText: 'Check all!',
+                // enableFiltering: true,
+                // enableCaseInsensitiveFiltering: true,
+                filterPlaceholder: 'Type To Search'
+            });
+
+
+        }
+        $(function () {
+            multidropdown();
+            Appinit();
+
+        });
+        jQuery(function ($) {
+            multidropdown();
+            Appinit();
+
+            Sys.WebForms.PageRequestManager.getInstance().add_endRequest(multidropdown);
+            Sys.WebForms.PageRequestManager.getInstance().add_endRequest(Appinit);
+
+
+        });
+
+        jQuery(document).ready(function () {
+            // initiate layout and plugins
+            App.init();
+
+        });
+
+        jQuery(function ($) {
+            Sys.WebForms.PageRequestManager.getInstance().add_endRequest(datap);
+
+        });
+
+        function datap() {
+            jQuery(document).ready(function () {
+                // initiate layout and plugins
+                App.init();
+                jQuery(function () {
+                    jQuery('.datepicker').datepicker({
+                        changeMonth: true,
+                        changeYear: true,
+                        yearRange: "-60:-18",
+                        dateFormat: 'dd-mm-yy'
+                    });
+                    jQuery('.datepicker2').datepicker({
+                        changeMonth: true,
+                        changeYear: true,
+                        yearRange: "-40:+5",
+                        dateFormat: 'dd-mm-yy'
+
+                    });
+
+                });
+            });
+        }
+        jQuery(document).ready(function () {
+            // initiate layout and plugins
+            App.init();
+            jQuery(function () {
+                jQuery('.datepicker').datepicker({
+                    changeMonth: true,
+                    changeYear: true,
+                    yearRange: "-60:-18",
+                    dateFormat: 'dd-mm-yy'
+                });
+                jQuery('.datepicker2').datepicker({
+                    changeMonth: true,
+                    changeYear: true,
+                    yearRange: "-40:+5",
+                    dateFormat: 'dd-mm-yy'
+
+                });
+
+            });
+        });
+        function CheckvalidationLogin() {
+
+            var UserName = document.getElementById("ctl00_txtUserName");
+            if (UserName.value == "" || UserName.value == null || UserName.value == "ProfileID/EmailID") {
+                alert("Please enter user name");
+                return false;
+            }
+            var password = document.getElementById("ctl00_txtPassword");
+            if (password.value == "" || password.value == null || password.value == "Enter the Password") {
+
+                alert("Please enter password");
+                return false;
+            }
+        }
+
+    </script>
+
+
+    <script src="../js/jquery-ui.js"></script>
+
+
+    <script type="text/javascript">
+        jQuery(document).ready(function () {
+            jQuery('.faq_toggle_heading').click(function () {
+                jQuery(this).parent().find('.faq_ans_block').slideToggle(function () {
+                    if (jQuery(this).parent().find('.faq_ans_block').is(':visible')) {
+                        jQuery(this).parent().addClass('active');
+                        jQuery(this).parent().siblings().find('.faq_ans_block').slideUp();
+                        jQuery(this).parent().siblings().removeClass('active');
+                    } else {
+                        jQuery(this).parent().removeClass('active');
+                    }
+                });
+            });
+
+            jQuery('.faq_expand').click(function (e) {
+                jQuery('.faq_ans_block').slideDown(function () {
+                    if (jQuery('.faq_ans_block').is(':visible')) {
+                        jQuery('.faqs_list_main_item').addClass('active');
+                    } else {
+                        jQuery('.faqs_list_main_item').removeClass('active');
+                    }
+                });
+            });
+            jQuery('.faq_collapse').click(function (e) {
+                jQuery('.faq_ans_block').slideUp(function () {
+                    jQuery('.faqs_list_main_item').removeClass('active');
+
+                });
+            });
+
+            jQuery('.myorders_list_main_item:first-child .myorders_list_main_item_desc').show();
+            jQuery('.myorders_list_main_item:first-child').addClass('active');
+            jQuery('.myorders_list_main_item_heading').click(function () {
+                jQuery(this).parent().find('.myorders_list_main_item_desc').slideToggle(function () {
+                    if (jQuery(this).parent().find('.myorders_list_main_item_desc').is(':visible')) {
+                        jQuery(this).parent().addClass('active');
+                        jQuery(this).parent().siblings().find('.myorders_list_main_item_desc').slideUp();
+                        jQuery(this).parent().siblings().removeClass('active');
+                    } else {
+                        jQuery(this).parent().removeClass('active');
+                    }
+                });
+            });
+        });
+
+        $(document).ready(function () {
+            $("#filter").keyup(function () {
+
+                // Retrieve the input field text and reset the count to zero
+                var filter = $(this).val(), count = 0;
+
+                // Loop through the comment list
+                $(".faqs_list_main_item").each(function () {
+
+                    // If the list item does not contain the text phrase fade it out
+                    if ($(this).text().search(new RegExp(filter, "i")) < 0) {
+                        $(this).fadeOut();
+
+                        // Show the list item if the phrase matches and increase the count by 1
+                    } else {
+                        $(this).show();
+                        count++;
+                    }
+                });
+
+                // Update the count
+                var numberItems = count;
+                $("#filter-count").text("Founded = " + count);
+            });
+        });
+    </script>
+
+    
+    <script type="text/ecmascript">
+
+        jQuery('.messages_list_item_form_reply').click(function () {
+            jQuery(this).parent().parent().siblings().find('.messages_list_item_form_reply_area').slideUp();
+            jQuery(this).parent().parent().siblings().find('.messages_list_item_form_reply').text("Reply")
+            jQuery(this).parent().find('.messages_list_item_form_reply_area').slideToggle(function () {
+
+                if (jQuery('.messages_list_item_form_reply_area').is(':visible')) {
+                    jQuery(this).parent().find('.messages_list_item_form_reply').text("Don't Reply")
+                } else {
+                    jQuery('.messages_list_item_form_reply').text("Reply")
+                }
+            });
+        });
+    </script>
+    <script type="text/javascript">
+        //jQuery(function ($) {
+        //    Sys.WebForms.PageRequestManager.getInstance().add_endRequest(showhidetextboxsalerts);
+        //});
+        function showhidediv(textboxname, divname, cph) {
+            //var cph = "#ctl00_ContentPlaceHolder1_EditCustomerSibbling_";
+            var txt = $("" + cph + textboxname + "");
+            if (txt.val() != null && txt.val().toString() != '') {
+                $("" + cph + divname + "").show();
+
+            }
+            else {
+                $("" + cph + divname + "").hide();
+            }
+        }
+        function showhidetextboxsalerts(textmob1, textmob2, textlandnumber, flag, divmobile2, divlandnumber, aretxt, drodown, primarymobileDiv, cph) {
+            //showhidetextboxsalerts(mobiletextbox,alternatvetextbox,landnumbertextbox,
+            //string mobile/landnumber,alternativemobilediv,landdiv,landareacode,landdropdown,primarymobilediv )
+            // var cph = "#ctl00_ContentPlaceHolder1_EditCustomerSibbling_";
+            var txtmobile = $("" + cph + textmob1 + "");
+            var txtmobile2 = $("" + cph + textmob2 + "");
+            var txtland = $("" + cph + textlandnumber + "");
+            var aretxt = $("" + cph + aretxt + "");
+
+            var dropdown = $("" + cph + drodown + "");
+            switch (flag) {
+                case "mobile":
+                    var primarydivstatusnew = checkprimarydivvisiblesatte(primarymobileDiv, cph);
+                    if (primarydivstatusnew == 1) {
+
+                    }
+                    else if ((txtmobile.val() != null && txtmobile.val() != '') && (txtmobile2.val() != null && txtmobile2.val() != '')) {
+                        alert("You can have only 2 numbers");
+                    }
+                    else {
+                        if ((txtland.val() != null && txtland.val() != '')) {
+                            jConfirm('Are You Sure To Delete Landline Number ?', 'Confirmation Dialog', function (r) {
+                                switch (r) {
+                                    case true:
+                                        $(txtland).val('');
+                                        $(aretxt).val('');
+                                        $(dropdown).val('');
+                                        divhideonly(divlandnumber, cph);
+                                        var primarydivstatus = checkprimarydivvisiblesatte(primarymobileDiv, cph);
+                                        if (primarydivstatus != 1)
+                                            divshowonly(divmobile2, cph);
+                                        break;
+                                    case false:
+                                        break;
+                                }
+
+                            });
+                        }
+                        else {
+                            $(txtland).val('');
+                            $(aretxt).val('');
+                            $(dropdown).val('');
+                            divhideonly(divlandnumber, cph);
+                            var primarydivstatus = checkprimarydivvisiblesatte(primarymobileDiv, cph);
+                            if (primarydivstatus != 1)
+                                divshowonly(divmobile2, cph);
+                        }
+                    }
+                    break;
+
+                case "landnumber":
+                    if ((txtmobile2.val() != null && txtmobile2.val() != '')) {
+                        jConfirm('Are You Sure To Delete Alternative Number ?', 'Confirmation Dialog', function (r) {
+                            switch (r) {
+                                case true:
+                                    $(txtmobile2).val('');
+                                    $(dropdown).val('');
+                                    divhideonly(divmobile2, cph);
+                                    divshowonly(divlandnumber, cph);
+                                    break;
+                                case false:
+                                    break;
+                            }
+
+                        });
+
+                    }
+                    else {
+                        $(txtmobile2).val('');
+                        $(dropdown).val('');
+                        divhideonly(divmobile2, cph);
+                        divshowonly(divlandnumber, cph);
+                    }
+                    break;
+            }
+            return false;
+        }
+        function checkprimarydivvisiblesatte(divshow, cph) {
+            //var cph = "#ctl00_ContentPlaceHolder1_EditCustomerSibbling_";
+            var status = 0;
+            if ($("" + cph + divshow + "").is(':hidden')) {
+                $("" + cph + divshow + "").show();
+                status = 1;
+
+            }
+            return status;
+        }
+
+        function divhideonly(divhide, cph) {
+            // var cph = "#ctl00_ContentPlaceHolder1_EditCustomerSibbling_";
+            if ($("" + cph + divhide + "").is(':hidden')) {
+
+            }
+            else
+                $("" + cph + divhide + "").hide();
+
+
+        }
+        function divshowonly(divshow, cph) {
+            // var cph = "#ctl00_ContentPlaceHolder1_EditCustomerSibbling_";
+            if ($("" + cph + divshow + "").is(':hidden')) {
+
+                $("" + cph + divshow + "").show();
+
+            }
+
+        }
+        function showhideonlyonediv(divonlymain, cph) {
+            // var cph = "#ctl00_ContentPlaceHolder1_EditCustomerSibbling_";
+
+            if ($("" + cph + divonlymain + "").is(':hidden')) {
+                $("" + cph + divonlymain + "").show();
+            }
+            else {
+                $("" + cph + divonlymain + "").hide();
+            }
+            return false;
+        }
+
+    </script>
+
+    <script type="text/javascript">
+
+        function ClientSideClick(myButton) {
+            // disable the button
+            myButton.disabled = true;
+            myButton.className = "btn-inactive btn btn-danger";
+            myButton.value = "processing...";
+            return true;
+
+            //make sure the button is not of type "submit" but "button"
+
+            //return true;
+        }
+        function ClientSideClickgroup(myButton, groupname) {
+            console.log(1);
+            // Client side validation
+            var isValid = false;
+            isValid = Page_ClientValidate(groupname);
+            if (isValid) {
+                if (myButton.getAttribute('type') == 'button') {
+                    // disable the button
+                    myButton.disabled = true;
+                    myButton.className = "btn-inactive btn btn-danger";
+                    myButton.value = "processing...";
+                    return true;
+                }
+            }
+            else {
+                return false;
+            }
+
+            //make sure the button is not of type "submit" but "button"
+
+
+            //return true;
+        }
+        function validatemobilecode(ddlcountrycode, txtphnum, txtarecode, cph) {
+            var ddlvalue = $("" + cph + ddlcountrycode + "").val();
+            var txtnumber = $("" + cph + txtphnum + "");
+            var txtarea = $("" + cph + txtarecode + "");
+
+            if (ddlvalue == 0) {
+                if (txtnumber.val() != '') {
+                    alert(" please Remove Phone Number");
+                    //txtnumber.val('');
+                    //txtarea.val('');
+                    return false;
+                }
+                else {
+                    alert(" please select Country code")
+                    txtnumber.val('');
+                    txtarea.val('');
+                }
+            }
+
+
+        }
+
+        function vali() {
+            //$("#ctl00_txtUserName").change(function () {
+            var expr = /^([\w-\.]+@([\w-]+\.)+[\w-]{2,4})?$/;
+            var txtUserNames = $("#ctl00_txtUserName").val();
+            if (txtUserNames.contains("@")) {
+
+                if (!ValidateEmail(txtUserNames)) {
+                    $("#ctl00_txtUserName").val('');
+                    $("#ctl00_txtUserName").focus;
+                    alert(" Please enter valid ProfileID/Email");
+                    return false;
+                }
+            }
+            else {
+                if (!Validatnumber(txtUserNames) || txtUserNames.length != "9") {
+                    alert("Please enter valid ProfileID/Email");
+                    $("#ctl00_txtUserName").val('');
+                }
+                return false;
+
+            }
+            //});
+        }
+        function ValidateEmail(email) {
+            var expr = /^([\w-\.]+@([\w-]+\.)+[\w-]{2,4})?$/;
+            return expr.test(email);
+        };
+        function Validatnumber(num) {
+            var expr1 = /[0-9 -()+]+$/;
+            return expr1.test(num);
+        };
+    </script>
+    <script type="text/javascript">
+        var prm = Sys.WebForms.PageRequestManager.getInstance();
+        //Raised before processing of an asynchronous postback starts and the postback request is sent to the server.
+        prm.add_beginRequest(BeginRequestHandler);
+        // Raised after an asynchronous postback is finished and control has been returned to the browser.
+        prm.add_endRequest(EndRequestHandler);
+        function BeginRequestHandler(sender, args) {
+            //Shows the modal popup - the update progress
+            var popup = $find('ctl00_modalPopup');
+            if (popup != null) {
+                popup.show();
+            }
+        }
+
+        function EndRequestHandler(sender, args) {
+            //Hide the modal popup - the update progress
+            var popup = $find('ctl00_modalPopup');
+            if (popup != null) {
+                popup.hide();
+            }
+        }
+    </script>
+    <script type="text/javascript">
+        // Smooth Scrolling
+
+        jQuery(function () {
+            jQuery('.privacy_topic_links a[href*=#]:not([href=#])').click(function () {
+                if (location.pathname.replace(/^\//, '') == this.pathname.replace(/^\//, '') && location.hostname == this.hostname) {
+                    var target = jQuery(this.hash);
+                    target = target.length ? target : jQuery('[name=' + this.hash.slice(1) + ']');
+                    if (target.length) {
+                        jQuery('html,body').animate({
+                            scrollTop: target.offset().top
+                        }, 1000);
+                        return false;
+                    }
+                }
+            });
+        });
+
+        jQuery(document).ready(function ($) {
+            // browser window scroll (in pixels) after which the "back to top" link is shown
+            var offset = 300,
+                //browser window scroll (in pixels) after which the "back to top" link opacity is reduced
+                offset_opacity = 1200,
+                //duration of the top scrolling animation (in ms)
+                scroll_top_duration = 700,
+                //grab the "back to top" link
+                $back_to_top = $('.cd-top');
+
+            //hide or show the "back to top" link
+            $(window).scroll(function () {
+                ($(this).scrollTop() > offset) ? $back_to_top.addClass('cd-is-visible') : $back_to_top.removeClass('cd-is-visible cd-fade-out');
+                if ($(this).scrollTop() > offset_opacity) {
+                    $back_to_top.addClass('cd-fade-out');
+                }
+            });
+
+            //smooth scroll to top
+            $back_to_top.on('click', function (event) {
+                event.preventDefault();
+                $('body,html').animate({
+                    scrollTop: 0,
+                }, scroll_top_duration
+                );
+            });
+
+        });
+
+
+        function ScrolltoTop() {
+
+            $("html, body").animate({
+                scrollTop: 0
+            }, "slow");
+            //window.ScrolltoTop(0,0);
+            return true;
+        }
+
+
+    </script>
+    <script type="text/javascript">
+        $(document).ready(function () {
+            $('.menu_toggle').click(function (e) {
+                $('.profile_own_menu>ul').slideToggle();
+            });
+            $('.profile_own_menu>ul>li').click(function (e) {
+                $(this).find('ul').slideToggle();
+                $(this).siblings().find('ul').slideUp();
+            });
+        });
+    </script>
+    <!-- ie8 fixes -->
+    <!--[if lt IE 9]>
+        <script src="../js/excanvas.js"></script>
+        <script src="../js/respond.js"></script>
+	<![endif]-->
+
+
+</body></html>
