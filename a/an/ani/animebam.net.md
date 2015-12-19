@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the animebam.net privacy policy that was archived on 2015-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150615001952id_/http%3A//www.animebam.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the animebam.net privacy policy that was archived on 2015-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151219022729id_/http%3A//www.animebam.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
