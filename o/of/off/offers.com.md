@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the offers.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623060715id_/http%3A//www.offers.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the offers.com privacy policy that was archived on 2015-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151219055200id_/http%3A//www.offers.com/privacy) for the most accurate reproduction.*
 
 # Learn More about Offers.com Privacy Policy
 
