@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the audubon.org privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629114443id_/http%3A//audubon.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the audubon.org privacy policy that was archived on 2015-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151219010632id_/http%3A//audubon.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy for Online, Offline and Electronic Use | Audubon
 
@@ -75,7 +75,7 @@ We do not knowingly collect personal information from children under thirteen ye
 
 ### Data Security
 
-Audubon is committed to protecting all your information.  To this end, Audubon has in place commercially reasonable physical, technical and administrative controls to protect the information. 
+Audubon is committed to protecting all your information.  To this end, Audubon has in place commercially reasonable physical, technical and administrative controls to protect the information. Constituent data is stored in secure RDBM systems on the most secure servers behind firewalls and ID Systems. No data can be accessed by unauthorized personnel whose authorization rights are reviewed regularly. Any transfer of data to and from Audubon is done via a combination of encryption and SFTP.
 
 ### Changes to the Privacy Policy
 
