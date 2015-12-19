@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the raptureintheairnow.com privacy policy that was archived on 2015-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150616144536id_/http%3A//raptureintheairnow.com/%3Fpage_id%3D140) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the raptureintheairnow.com privacy policy that was archived on 2015-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151219024223id_/http%3A//raptureintheairnow.com/%3Fpage_id%3D140) for the most accurate reproduction.*
 
-# Our Privacy Policy | Rapture In The Air Now
+# Our Privacy Policy - Rapture In The Air Now
 
 Your privacy is very important to us. We want to make your experience on the Internet as enjoyable and rewarding as possible, and we want you to use the Internets vast array of information, tools, and opportunities with complete confidence.
 
@@ -91,5 +91,3 @@ We are not responsible for republished content from this website on other blogs 
 **Where to Direct Questions About Our Privacy Policy:** If you have any questions about this Privacy Policy or the practices described herein, you may contact us through the contact information provided on this Web site.
 
 **Revisions to This Policy:** Our company reserves the right to revise, amend, or modify this policy, our Terms Of Service agreement, and our other policies and agreements at any time and in any manner, by updating this posting. Your use of this site after such changes are implemented constitutes your acknowledgement and acceptance of these changes. Please consult this privacy statement prior to every use for any changes.
-
-## This is a Pre-Tribulation Rapture forum, and all are welcome who share their love for our Beloved’s return as He promised. There is no debating on this forum about the rapture or denominational issues. We are here for one another in friendship, love, and prayer as we watch together for Jesus’ soon return.
