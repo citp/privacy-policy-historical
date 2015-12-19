@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the miracletutorials.com privacy policy that was archived on 2015-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150620052011id_/http%3A//www.miracletutorials.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the miracletutorials.com privacy policy that was archived on 2015-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151219133750id_/http%3A//www.miracletutorials.com/about/privacy-policy) for the most accurate reproduction.*
 
-# Miracle Tutorials Privacy PolicyMiracle Tutorials | Miracle Tutorials
+# Miracle Tutorials Privacy Policy | Miracle Tutorials
 
 ### Effective as from 27 June 2012.
 
