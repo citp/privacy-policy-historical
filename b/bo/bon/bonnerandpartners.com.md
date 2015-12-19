@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bonnerandpartners.com privacy policy that was archived on 2015-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150502211512id_/http%3A//www.bonnerandpartners.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bonnerandpartners.com privacy policy that was archived on 2015-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151219220327id_/http%3A//bonnerandpartners.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Bonner & Partners
 
