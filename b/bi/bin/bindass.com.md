@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bindass.com privacy policy that was archived on 2015-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150617034632id_/http%3A//bindass.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bindass.com privacy policy that was archived on 2015-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151219212526id_/http%3A//www.disney.in/privacy) for the most accurate reproduction.*
 
-# 
+# Privacy Policy | Disney India
 
 The Walt Disney Company has a rich tradition of bringing great stories, characters and experiences to our guests around the world, and our sites and applications are created to entertain and connect guests with the best that Disney has to offer on the platforms and devices they prefer.
 
@@ -114,7 +114,7 @@ We provide you the ability to exercise certain controls and choices regarding ou
 * You may change your choices for subscriptions, newsletters and alerts
 * You may choose whether to receive from us offers and promotions for our products and services, or products and services that we think may be of interest to you
 * You may choose whether we share your _personal information_ with other companies so they can send you offers and promotions about their products and services
-* You may choose whether to receive targeted advertising from many ad networks, data exchanges, marketing analytics and other service providers [_here_](http://www.youronlinechoices.com/)
+* You may choose whether to receive targeted advertising from many ad networks, data exchanges, marketing analytics and other service providers [_here_](http://www.disney.in/DisneyOnline/j/redirect.jsp?redirectURL=http://www.youronlinechoices.com)
 * You may request access to the personal information we hold about you and that we amend or delete it and we request third parties with whom we have shared the information do the same
 
 You may exercise your controls and choices, or request access to your personal information, by contacting 
@@ -313,12 +313,13 @@ India:
 
 Guest Services
 
-GenX Entertainment Limited   
-Building No. 11, 7th Floor, Solitaire Corporate Park,  
-Guru Hargovindji Marg, Chakala, Andheri (E),  
-Mumbai 400 093, India
+The Walt Disney Company (India) Private Limited  
+4th Floor, Peninsula Tower No. 1,   
+Peninsula Corporate Park, G.K. Marg,   
+Lower Parel, Mumbai- 400013, India
 
-Telephone: +91 22 4098 1400, +91 22 4098 1450
+  
+
 
 United State of America:
 
@@ -332,11 +333,11 @@ United States of America
 
 Disney Interactive Media Group is a licensee of the TRUSTe Privacy Program in the United States. If you believe that Disney Interactive Media Group has not responded to your inquiry or your inquiry has not been satisfactorily addressed, you may contact TRUSTe 
 
-[_here_](http://watchdog.truste.com/pvr.php?page=complaint)
+[_here_](http://www.disney.in/DisneyOnline/j/redirect.jsp?redirectURL=http://watchdog.truste.com/pvr.php?page=complaint)
 
 or the United States Federal Trade Commission through its online consumer complaint form available 
 
-[_here_](https://www.ftccomplaintassistant.gov/)
+[_here_](http://www.disney.in/DisneyOnline/j/redirect.jsp?redirectURL=https://www.ftccomplaintassistant.gov/)
 
 .
 
@@ -368,11 +369,11 @@ Following our receipt of your request to cease using your personal information f
 
 In addition to the general marketing choices managed above, you may choose to subscribe or unsubscribe to a number of communications covering a variety of topics. Please click on the links below to learn about many of these communications and set your choices. 
 
-[_Click here_](https://web.archive.org/plans)
+_Click here_
 
 to subscribe to GoD packs 
 
-[_Click here_](https://web.archive.org/newsletters.jsp)
+_Click here_
 
 to unsubscribe newsletters 
 
@@ -395,7 +396,7 @@ using tracking technologies such as cookies, Flash cookies and Web beacons. Defi
 
 We may associate this tracking data with your registration account, in which case we will treat it as personal information. Service providers that collect tracking data on our behalf may provide an opportunity for you to choose not to be tracked online. Advertisers and third parties also may collect information about your activity on our sites and applications and on third-party sites and applications using tracking technologies. Tracking data collected by these advertisers and third parties is used to decide which ads you see both on our sites and applications and on third-party sites and applications, but does not identify you personally and is not associated with your registration account. You may choose not to receive targeted advertising from many ad networks, data exchanges, marketing analytics and other service providers 
 
-[_here._](http://www.youronlinechoices.com/)
+[_here._](http://www.disney.in/DisneyOnline/j/redirect.jsp?redirectURL=http://www.youronlinechoices.com/)
 
 In the United States, we adhere to the Digital Advertising Alliance’s Self-Regulatory Principles for Online Behavioral Advertising. 
 
@@ -404,7 +405,7 @@ In the United States, we adhere to the Digital Advertising Alliance’s Self-Reg
 Examples of online tracking technologies include:
 
   * Cookies. Cookies are pieces of information that a website places on the hard drive of your computer when you visit the website. Cookies may involve the transmission of information from us to you and from you directly to us, to another party on our behalf, or to another party in accordance with its privacy policy. We may use cookies to bring together information we collect about you. You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser settings. Each browser is a little different, so look at your browser Help menu to learn the correct way to modify your cookies. If you turn cookies off, you won’t have access to many features that make your guest experience more efficient and some of our services will not function properly.
-  * Flash cookies. We may use local shared objects, sometimes known as Flash cookies, to store your preferences or display content based upon what you view on our site to personalize your visit. Our advertisers and third-party service providers also may use Flash cookies to collect and store information. Flash cookies are different from browser cookies because of the amount of, type of, and how data is stored. Cookie management tools provided by your browser will not remove Flash cookies. To learn how to manage privacy and storage settings for Flash cookies, please [_click here._](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html) If you disable Flash cookies, you won’t have access to many features that make your guest experience more efficient and some of our services will not function properly.
+  * Flash cookies. We may use local shared objects, sometimes known as Flash cookies, to store your preferences or display content based upon what you view on our site to personalize your visit. Our advertisers and third-party service providers also may use Flash cookies to collect and store information. Flash cookies are different from browser cookies because of the amount of, type of, and how data is stored. Cookie management tools provided by your browser will not remove Flash cookies. To learn how to manage privacy and storage settings for Flash cookies, please [_click here._](http://www.disney.in/DisneyOnline/j/redirect.jsp?redirectURL=http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html) If you disable Flash cookies, you won’t have access to many features that make your guest experience more efficient and some of our services will not function properly.
   * Web beacons. Web beacons are small pieces of data that are embedded in images on the pages of sites. Web beacons may involve the transmission of information directly to us, to another party on our behalf, or to another party in accordance with its privacy policy. We may use web beacons to bring together information we collect about you.
 
 
