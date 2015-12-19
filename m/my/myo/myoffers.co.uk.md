@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myoffers.co.uk privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609221506id_/http%3A//myoffers.co.uk/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myoffers.co.uk privacy policy that was archived on 2015-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151219202754id_/http%3A//www.myoffers.co.uk/privacy-statement) for the most accurate reproduction.*
 
 # MyOffers Privacy Statement
 
@@ -133,7 +133,7 @@ Our third party advertising partner employs a software technology called clear g
 
 ## Use of Performance Cookies
 
-MyOffers uses website performance cookies (via Google Analytics; [click here](http://www.google.com/analytics/learn/privacy.html?rd=1) to review their Privacy Policy) to analyse traffic information such as the pages you visit, the time you spend on the site. These cookies are anonymous and we do not have a database of individual profiles for each visitor. The information collected using these cookies cannot track your browsing activity on other websites.
+MyOffers uses website performance cookies (via [Google Analytics](http://www.google.com/analytics/learn/privacy.html?rd=1) and [Hotjar.com](https://www.hotjar.com/privacy); to review their Privacy Policies) to analyse traffic information such as the pages you visit, the time you spend on the site. These cookies are anonymous and we do not have a database of individual profiles for each visitor. The information collected using these cookies cannot track your browsing activity on other websites.
 
 MyOffers also uses tracking pixels to measure visits to the site from one particular source (e.g. a specific banner or email campaign) and the response rates from these sources. These tracking pixels will not collect your browsing history and are used for website and traffic source performance purposes only.
 
@@ -149,10 +149,10 @@ MyOffers currently allows the organisations listed below (beside itself) to plac
 
 Organisation | For information please view the links below  
 ---|---  
-Google | <http://www.google.com/intl/en-GB/policies/technologies/cookies/>  
-Facebook | <http://en-gb.facebook.com/help/cookies/>  
+Google | <https://www.google.com/intl/en-GB/policies/technologies/cookies/>  
+Facebook | <https://en-gb.facebook.com/help/cookies/>  
 Twitter | <https://support.twitter.com/articles/20170514-twitters-use-of-cookies-and-similar-technologies#>  
-Visual DNA | <http://www.visualdna.com/cookie-policy/>  
+Visual DNA | <https://www.visualdna.com/cookie-policy/>  
   
 Please note that if you delete, block or otherwise restrict cookies, or if you use a different device or Internet browser, you may need to renew your opt-out choice. Alternatively, you can also delete these cookies directly within your browser options.
 
@@ -160,14 +160,14 @@ We also drop retargeting cookies. We currently allow;
 
 Google AdWords | For information please view the links below  
 ---|---  
-Google | <http://www.google.com/intl/en-GB/policies/technologies/cookies/>  
-Criteoemail | <http://privacy.criteoemail.com/gb/privacy-policy.html>  
-Acxiom | <http://www.acxiom.co.uk/about-acxiom/privacy/uk-privacy-policy/>  
-Mojn | <http://www.mojn.com/privacy>  
+Google | <https://www.google.com/intl/en-GB/policies/technologies/cookies/>  
+Criteoemail | <https://privacy.criteoemail.com/gb/privacy-policy.html>  
+Acxiom | <https://www.acxiom.co.uk/about-acxiom/privacy/uk-privacy-policy/>  
+Mojn | <https://www.mojn.com/privacy>  
   
 ## Your Consent
 
-This privacy statement covers the use of cookies by [http://www.myoffers.co.uk](http://www.myoffers.co.uk/) only and does not cover the use of cookies by any advertisers.
+This privacy statement covers the use of cookies by [https://www.myoffers.co.uk](https://www.myoffers.co.uk/) only and does not cover the use of cookies by any advertisers.
 
 By providing information at any of our sites, you agree to the terms of this cookie policy. However at any time, you can choose to disable our cookies by changing your browser settings. If you do not agree to this cookie policy, please do not use our site.
 
