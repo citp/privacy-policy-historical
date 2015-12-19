@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the viralchronicle.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608065446id_/http%3A//www.viralchronicle.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the viralchronicle.com privacy policy that was archived on 2015-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151219220547id_/http%3A//www.viralchronicle.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | ViralChronicle
 
@@ -8,7 +8,7 @@ Viral Chronicle LLC, contact@viralchronicle.com
 
 ## Types of Data collected
 
-Among the types of Personal Data that this Application collects, by itself or through third parties, there are: Cookie, Usage data, Geographic position and Email address. Other Personal Data collected may be described in other sections of this privacy policy or by dedicated explanation text contextually with the Data collection. The Personal Data may be freely provided by the User, or collected automatically when using this Application. Any use of Cookies – or of other tracking tools – by this Application or by the owners of third party services used by this Application, unless stated otherwise, serves to identify Users and remember their preferences, for the sole purpose of providing the service required by the User. Failure to provide certain Personal Data may make it impossible for this Application to provide its services. Users are responsible for any Personal Data of third parties obtained, published or shared through this Application and confirm that they have the third party’s consent to provide the Data to the Owner. 
+Among the types of Personal Data that this Application collects, by itself or through third parties, there are: Cookie, Usage data, Geographic position and Email address. Other Personal Data collected may be described in other sections of this privacy policy or by dedicated explanation text contextually with the Data collection. The Personal Data may be freely provided by the User, or collected automatically when using this Application. Any use of Cookies - or of other tracking tools - by this Application or by the owners of third party services used by this Application, unless stated otherwise, serves to identify Users and remember their preferences, for the sole purpose of providing the service required by the User. Failure to provide certain Personal Data may make it impossible for this Application to provide its services. Users are responsible for any Personal Data of third parties obtained, published or shared through this Application and confirm that they have the third party's consent to provide the Data to the Owner. 
 
 ## Mode and place of processing the Data
 
@@ -18,7 +18,7 @@ The Data Controller processes the Data of Users in a proper manner and shall tak
 
 ### Place
 
-The Data is processed at the Data Controller’s operating offices and in any other places where the parties involved with the processing are located. For further information, please contact the Data Controller. 
+The Data is processed at the Data Controller's operating offices and in any other places where the parties involved with the processing are located. For further information, please contact the Data Controller. 
 
 ### Retention time
 
@@ -134,7 +134,7 @@ Bugsnag is a monitoring service provided by Bugsnag Inc. Personal Data collected
 
 #### New Relic (New Relic)
 
-New Relic is a monitoring service provided by New Relic Inc. The way New Relic is integrated means that it filters all traffic of this Application, i.e., communication between the Application and the User’s browser or device, while also allowing analytical data on this Application to be collected. Personal Data collected: Various types of Data as specified in the privacy policy of the service. Place of processing : USA – [Privacy Policy](http://newrelic.com/privacy)
+New Relic is a monitoring service provided by New Relic Inc. The way New Relic is integrated means that it filters all traffic of this Application, i.e., communication between the Application and the User's browser or device, while also allowing analytical data on this Application to be collected. Personal Data collected: Various types of Data as specified in the privacy policy of the service. Place of processing : USA – [Privacy Policy](http://newrelic.com/privacy)
 
   * ### Interaction with external social networks and platforms
 
@@ -184,11 +184,11 @@ Twitter Remarketing is a Remarketing and Behavioral Targeting service provided b
 
   * ### Traffic optimization and distribution
 
-These services allow this Application to distribute their content using servers located across different countries and to optimize their performance. Which Personal Data are processed depends on the characteristics and the way these services are implemented. Their function is to filter communications between this Application and the User’s browser. Considering the widespread distribution of this system, it is difficult to determine the locations to which the contents that may contain Personal Information User are transferred. 
+These services allow this Application to distribute their content using servers located across different countries and to optimize their performance. Which Personal Data are processed depends on the characteristics and the way these services are implemented. Their function is to filter communications between this Application and the User's browser. Considering the widespread distribution of this system, it is difficult to determine the locations to which the contents that may contain Personal Information User are transferred. 
 
 #### CloudFlare (Cloudflare)
 
-CloudFlare is a traffic optimization and distribution service provided by CloudFlare Inc. The way CloudFlare is integrated means that it filters all the traffic through this Application, i.e., communication between this Application and the User’s browser, while also allowing analytical data from this Application to be collected. Personal Data collected: Various types of Data as specified in the privacy policy of the service. Place of processing : USA – [Privacy Policy](http://www.cloudflare.com/security-policy)
+CloudFlare is a traffic optimization and distribution service provided by CloudFlare Inc. The way CloudFlare is integrated means that it filters all the traffic through this Application, i.e., communication between this Application and the User's browser, while also allowing analytical data from this Application to be collected. Personal Data collected: Various types of Data as specified in the privacy policy of the service. Place of processing : USA – [Privacy Policy](http://www.cloudflare.com/security-policy)
 
 
 
@@ -232,9 +232,9 @@ Since the installation of third party Cookies and other tracking systems through
 
 ### Legal action
 
-The User’s Personal Data may be used for legal purposes by the Data Controller, in Court or in the stages leading to possible legal action arising from improper use of this Application or the related services. The User declares to be aware that the Data Controller may be required to reveal personal data upon request of public authorities. 
+The User's Personal Data may be used for legal purposes by the Data Controller, in Court or in the stages leading to possible legal action arising from improper use of this Application or the related services. The User declares to be aware that the Data Controller may be required to reveal personal data upon request of public authorities. 
 
-### Additional information about User’s Personal Data
+### Additional information about User's Personal Data
 
 In addition to the information contained in this privacy policy, this Application may provide the User with additional and contextual information concerning particular services or the collection and processing of Personal Data upon request. 
 
