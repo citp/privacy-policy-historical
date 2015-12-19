@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gamesdreams.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627195615id_/http%3A//gamesdreams.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamesdreams.com privacy policy that was archived on 2015-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151219010201id_/http%3A//gamesdreams.com/privacypolicy.php) for the most accurate reproduction.*
 
 # Games Dreams Privacy Policy
 
