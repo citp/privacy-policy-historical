@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thelollingtonpost.com privacy policy that was archived on 2015-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150617212916id_/http%3A//thelollingtonpost.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thelollingtonpost.com privacy policy that was archived on 2015-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151219151120id_/http%3A//thelollingtonpost.com/privacy-policy) for the most accurate reproduction.*
 
 # New Post!
 
