@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hqhair.com privacy policy that was archived on 2015-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150620231800id_/http%3A//www.hqhair.com/articles/privacy-policy.list) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hqhair.com privacy policy that was archived on 2015-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151219233409id_/http%3A//www.hqhair.com/articles/privacy-policy.list) for the most accurate reproduction.*
 
 # Privacy Policy |
 
@@ -14,7 +14,7 @@ For us to process your order, we need to know your name, email address, delivery
 
 Additionally, we will look at the products you buy, together with the way you view our site to enable us to send you information about products and services that you may be interested in. We will use this information to tailor your view of the site to make it more interesting and relevant in respect of the products and offers on view. 
 
-We collect information about our customers via server logs, cookies, order forms and competitions. A cookie is a file that your web browser places on your computer’s hard disk for record keeping purposes. The information collected in this way can be used to identify you unless you modify your browser settings. The cookie does not store any credit/debit card information nor password details. Please see our [ Cookie Policy ](https://web.archive.org/web/20150620231800id_/http%3A//www.hqhair.com/articles/%E2%80%9Dhttp://www.hqhair.com/articles/cookie-information.list%E2%80%9D) for further information. 
+We collect information about our customers via server logs, cookies, order forms and competitions. A cookie is a file that your web browser places on your computer’s hard disk for record keeping purposes. The information collected in this way can be used to identify you unless you modify your browser settings. The cookie does not store any credit/debit card information nor password details. Please see our [ Cookie Policy ](https://web.archive.org/web/20151219233409id_/http%3A//www.hqhair.com/articles/%E2%80%9Dhttp://www.hqhair.com/articles/cookie-information.list%E2%80%9D) for further information. 
 
 We have business and technical partners whom we share data with to handle orders, process credit and debit card payments and provide a range of services, including for fraud protection purposes. They are bound by Data Protection covenants and must process the personal information in accordance with this privacy policy. You should be aware that if we are requested by the police or any other regulatory authority investigating suspected illegal activities to provide your personal information, we are entitled to do so. 
 
