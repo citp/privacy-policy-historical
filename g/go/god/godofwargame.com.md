@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the godofwargame.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120200917id_/http%3A//uk.playstation.com/cookies/%23cookiesTsAndCsPageContent) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the godofwargame.com privacy policy that was archived on 2015-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151219020036id_/http%3A//uk.playstation.com/cookies/%23cookiesTsAndCsPageContent) for the most accurate reproduction.*
 
 # Cookie Settings
 
