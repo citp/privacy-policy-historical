@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cozycot.com privacy policy that was archived on 2015-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150324045416id_/https%3A//www.cozycot.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cozycot.com privacy policy that was archived on 2015-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151219201118id_/https%3A//www.cozycot.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | CozyCot
 
