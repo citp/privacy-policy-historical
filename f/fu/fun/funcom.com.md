@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the funcom.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629173921id_/http%3A//www.funcom.com/corporate/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the funcom.com privacy policy that was archived on 2015-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151219213348id_/http%3A//www.funcom.com/corporate/privacy_policy) for the most accurate reproduction.*
 
 # funcom.com | Funcom Privacy Policy
 
@@ -67,6 +67,7 @@ In the event Funcom decides to change the Privacy Policy you will receive notice
 ### How to access and rectify my information?
 
 If you wish to access or rectify the information which Funcom has stored about you, please contact:  
-Funcom Sales GmbH,  
-Neugutstrasse 66,  
-8600 Dübendorf Switzerland
+Funcom Oslo AS   
+Bestumstubben 11   
+N-0281 Oslo   
+Norway 
