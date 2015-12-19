@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bikesindia.org privacy policy that was archived on 2015-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150620233426id_/http%3A//www.bikesindia.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bikesindia.org privacy policy that was archived on 2015-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151219233346id_/http%3A//www.bikesindia.org/privacy) for the most accurate reproduction.*
 
 # Privacy Statement » BikesIndia.org
 
