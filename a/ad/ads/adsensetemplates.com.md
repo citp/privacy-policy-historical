@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adsensetemplates.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623235906id_/http%3A//xodoinc.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adsensetemplates.com privacy policy that was archived on 2015-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151219064103id_/http%3A//xodoinc.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
