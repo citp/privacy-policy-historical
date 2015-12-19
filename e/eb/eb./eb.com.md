@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eb.com privacy policy that was archived on 2015-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150503061821id_/http%3A//corporate.britannica.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eb.com privacy policy that was archived on 2015-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151219034047id_/http%3A//corporate.britannica.com/privacy.html) for the most accurate reproduction.*
 
 # Encyclopædia Britannica, Inc. Corporate Site
 
