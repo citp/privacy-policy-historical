@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bayer.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629132147id_/http%3A//www.bayer.com/en/privacy-statement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bayer.com privacy policy that was archived on 2015-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151219173133id_/http%3A//www.bayer.com/en/privacy-statement.aspx) for the most accurate reproduction.*
 
 # Privacy Statement - Bayer
 
@@ -8,7 +8,7 @@ Bayer is aware that the security of your private information from the use of our
 
 You can use our website without disclosing your personal data. You are not required to provide personal information as a condition of using our site, except as may be necessary to provide you a product or service at your request. When you use our website, data may be stored for various security purposes. This data may include the name of your internet service provider, the website that you used to link to our site, the websites that you visit from our site and your IP-Address. This data could possibly lead to your identification, but we do not use it to do so. We do use the data from time to time for statistical purposes, but maintain the anonymity of each individual user so that the person cannot be identified. In cases when personal data is provided to others to provide you products or services you have requested, or for other purposes you have authorized, we rely on technical and organizational means to assure that applicable data security regulations are followed.
 
-## Collection and processing of personal data
+## Collection and Processing of Personal Data
 
 We collect personal data only when you provide it to us, through registration, completion of forms or e-mails, as part of an order for products or services, inquiries or requests about materials being ordered and similar situations in which you have chosen to provide the information to us.
 
@@ -38,7 +38,7 @@ Cookies are small text files that are stored in the visitor's local browser cach
 
 Most browsers are configured to accept cookies automatically. You can configure your browser to reject them, or to inform you when they are being set.
 
-## Cookies used on this website
+## Cookies Used on This Website
 
 Name
 
