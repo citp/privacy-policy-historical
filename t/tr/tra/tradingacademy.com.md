@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tradingacademy.com privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611063923id_/http%3A//www.tradingacademy.com/policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tradingacademy.com privacy policy that was archived on 2015-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151219175937id_/http%3A//www.tradingacademy.com/policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | Online Trading Academy
 
@@ -10,11 +10,17 @@ We reserve the right to change this Privacy Policy at any time. Such changes, mo
 
 Further, each time you use our Site(s) and/or the Service you are consenting to our processing of your information as set forth in this Privacy Policy now and as amended by us. "Processing" means using cookies on a computer or using information in any way, including, but not limited to, collecting, storing, deleting, using, combining and disclosing information, all of which activities will take place in the United States.
 
-If you reside outside the U.S., your personally identifiable information will be transferred to the U.S., and processed and stored there under U.S. privacy standards. Each time you utilize the Site(s) and /or the Service and are providing information to us, you consent to such transfer to, and processing in, the U.S. If you have any questions or comments about this Privacy Policy or our use of your personally identifiable information, please contact us at [privacy@tradingacademy.com](mailto:privacy@tradingacademy.com).
+We are, and our service providers may be, located in the United States. You acknowledge that if you reside outside the U.S., your personally identifiable information will be transferred to the U.S., and processed and stored there under U.S. privacy standards. Each time you utilize the Site(s) and /or the Service and are providing information to us, you consent to such transfer to, and processing in, the U.S. and you acknowledge that the governments, courts or law enforcement or regulatory agencies in the U.S. may be able to obtain disclosure of that personal information through U.S. laws.
+
+If you have any questions or comments about this Privacy Policy or our use of your personally identifiable information, please contact our privacy officer at [privacy@tradingacademy.com](mailto:privacy@tradingacademy.com).
 
 #### Why do we gather information?
 
-We gather information that allows us to provide you the optimal experience with the Site(s) and the Service and to help us better understand what products and services you're most interested in. We also do this to communicate with you and to manage your User account if you have one. To do this, we collect information that helps us understand your needs and preferences.
+We gather, use and disclose information that allows us to: provide and administer the products and services that you request and enrolling you in programs you request and communicating with you about your use of our products and services; provide you the optimal experience with the Site(s) and the Service and to help us better understand what products and services you're most interested in.
+
+We also collect your personal information to communicate with you and to manage your User account if you have one. To do this, we collect information that helps us understand your needs and preferences.
+
+We will only use or disclose your personal information for the purposes set out in this policy and as otherwise authorized or required by law.
 
 #### What type of information do we collect and how is it used?
 
@@ -32,7 +38,7 @@ The types of information we collect include the following:
 
 We may collect this information when you register in our community at myota.tradingacademy.com, complete an Online Trading Academy Membership registration form, sign-up for a Power Trading Workshop, purchase audio or video content from us, or fill out any other form on any of the Site(s) or through the Service or provide such information to one of our Educational Counselors or Instructors. We may also collect information that you provide about others, such as through a refer-a-friend program or on a friend/spouse who may be attending a class or workshop with you.
 
-We may use your contact information to provide you information about our products, special offers from our marketing alliances, newsletters, updates about our company (including changes to our privacy policy) and other communications we think may be of value to you.
+We may use your contact information to provide you information about our products, special offers from our marketing alliances, newsletters, updates about our company (including changes to our privacy policy) and other communications we think may be of value to you. 
 
 If you provide us with your postal address, you may receive periodic mailings from us with information on new products and services or upcoming events. If you do not wish to receive such mailings, please let us know by sending us an email at [privacy@tradingacademy.com](mailto:privacy@tradingacademy.com) or by calling us toll-free at (866) 939-4958 or outside the U.S. at 011-949-608-7424.
 
@@ -50,13 +56,13 @@ When you visit the Site(s) and use the Service, our servers automatically record
 
 Again, we take your privacy very seriously and are committed to keeping your information safe and secure. We do not sell, license, lease or otherwise disclose your personal information to any third party for any reason except as noted earlier and as described below:
 
-  * Information may be shared with agents or contractors who assist in providing support for our internal operations.
+  * Information may be shared with agents or contractors who assist in providing support for our internal operations. We will take reasonable steps to ensure that agents or contractors adhere to privacy procedures and will keep your personal information confidential.
   * Information that you give us and information about your participation in the Site(s) and the Service may be combined with other personally identifiable information (such as demographic information and past purchase history) available from our records and other sources. This information will be used to make our future marketing efforts more efficient. This information may also be shared with other marketers to bring you offers of interest.
   * We subscribe to Google Analytics which is a web analysis service provided by Google Inc. (“Google”). This subscription allows Google to use Information about your participation in the Site(s) and the Service. Google utilizes the information collected to track and examine the use of the Site(s), to prepare reports on its activities and share them with other Google services (such as Google Remarketing and Demographics and Interest Reporting) and to contextualize and personalize the ads of its own advertising network. The aim of the tracking is to provide customized advertising that reflects your online preferences. You can opt-out of Google Analytics for Display Advertising using Google's [Ads Settings](https://www.google.com/settings/ads) or to opt-out of Google Analytics using the [Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout/). Third-party vendors, including Google, may show our ads on sites across the Internet and use first-party cookies (such as the Google Analytics cookie) and third-party cookies (such as the DoubleClick cookie) together to inform, optimize, and serve ads based on your past visits to the Site(s). 
 
 
 
-From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy policy. If our information practices materially change at some time in the future we will post the policy changes to the Site(s) and if requested we will provide you a copy of the revised privacy policy at the primary email address you provide to us. Every time you use or visit the Site(s) it will be presumed that you have reviewed and accepted the then current privacy policy.
+From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy policy. If our information practices materially change at some time in the future we will disclose the new purpose by posting the policy changes to the Site(s) and if requested providing you a copy of the revised privacy policy at the primary email address you provide to us, and we will seek your consent unless the use is authorized or required by law. Every time you use or visit the Site(s) it will be presumed that you have reviewed and accepted the then current privacy policy.
 
 The information we collect may be disclosed when we are legally required to do so, at the request of governmental authorities conducting an investigation, to verify or enforce compliance with the policies governing our website and applicable laws, or to protect against misuse or unauthorized use of our website.
 
@@ -80,4 +86,6 @@ If changes are made to this privacy policy, these changes will be promptly poste
 
 Neither the Site(s) nor the Service are directed to persons under 18. If a parent or guardian becomes aware that his or her child has provided us with personally identifiable information without their consent, he or she should contact us at [privacy@tradingacademy.com](mailto:privacy@tradingacademy.com). We do not knowingly collect personally identifiable information from children under 18 without parental consent. If we become aware that a child under 18 has provided us with personal identifiable information without parental consent, we will delete such information from our files and terminate that individual's use of the Service.
 
-Last updated 03/25/2015
+Any inquiries or questions regarding this Policy should be directed in writing to our privacy officer at [privacy@tradingacademy.com](mailto:privacy@tradingacademy.com).
+
+Last updated 08/25/2015
