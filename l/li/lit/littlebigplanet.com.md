@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the littlebigplanet.com privacy policy that was archived on 2013-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131212044119id_/http%3A//uk.playstation.com/cookies/%23tab-cookiesTsAndCsPageContent) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the littlebigplanet.com privacy policy that was archived on 2015-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151219020036id_/http%3A//uk.playstation.com/cookies/%23tab-cookiesTsAndCsPageContent) for the most accurate reproduction.*
 
 # Cookie Settings
 
