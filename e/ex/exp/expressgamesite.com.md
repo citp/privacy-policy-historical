@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the expressgamesite.com privacy policy that was archived on 2014-07-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140713091933id_/http%3A//xodoinc.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the expressgamesite.com privacy policy that was archived on 2015-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151219064103id_/http%3A//xodoinc.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
