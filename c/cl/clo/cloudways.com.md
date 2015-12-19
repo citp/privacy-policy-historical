@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cloudways.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610085505id_/http%3A//www.cloudways.com/en/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cloudways.com privacy policy that was archived on 2015-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151219183655id_/http%3A//www.cloudways.com/en/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy | Cloudways
 
