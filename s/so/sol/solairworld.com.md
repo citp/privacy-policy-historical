@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the solairworld.com privacy policy that was archived on 2015-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150603044950id_/http%3A//solairworld.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the solairworld.com privacy policy that was archived on 2015-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151219193426id_/http%3A//solairworld.com/privacy-policy) for the most accurate reproduction.*
 
 # Your right to privacy with Solair World
 
