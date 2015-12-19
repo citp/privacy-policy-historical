@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brainabundance.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607075117id_/http%3A//brainabundance.com/corp/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brainabundance.com privacy policy that was archived on 2015-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151219175108id_/http%3A//brainabundance.com/corp/privacyPolicy) for the most accurate reproduction.*
 
 # BrainAbundance :: Privacy Policy
 
