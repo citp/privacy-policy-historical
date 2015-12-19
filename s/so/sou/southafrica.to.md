@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the southafrica.to privacy policy that was archived on 2015-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150620173531id_/https%3A//www.southafrica.to/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the southafrica.to privacy policy that was archived on 2015-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151219204737id_/https%3A//www.southafrica.to/privacy.php) for the most accurate reproduction.*
 
 # SouthAfrica Travel Online Privacy Policy
 
