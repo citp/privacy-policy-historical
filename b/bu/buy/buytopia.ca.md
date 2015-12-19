@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the buytopia.ca privacy policy that was archived on 2015-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150524000741id_/https%3A//buytopia.ca/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buytopia.ca privacy policy that was archived on 2015-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151219141008id_/https%3A//buytopia.ca/page/privacy-policy) for the most accurate reproduction.*
 
-# Buytopia | Privacy Policy
+# Privacy Policy | Buytopia
 
 Buytopia.ca (“We”, “Us” , “Our Website” etc.) believes that your personal information deserves protection and We subscribe to the privacy principles set out in the Government of Canada’s Personal Information Protection and Electronic Documents Act. We have created this Privacy Policy to demonstrate our firm commitment to privacy and security. This Privacy Policy describes how Buytopia.ca collects information from all end users (“Users”) of buytopia.ca's Web site Services (the "Services"), what we do with the information we collect, and the choices Visitors and Customers have concerning the collection and use of such information. buytopia.ca requests that you read this Privacy Policy carefully.
 
