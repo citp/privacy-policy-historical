@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the examsalert.com privacy policy that was archived on 2015-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150504003245id_/http%3A//www.examsalert.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the examsalert.com privacy policy that was archived on 2015-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151219120141id_/http%3A//www.examsalert.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 Privacy Policy for www.Examsalert.com
 
   
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at arindam@Examsalert.com.
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at arindamplus@gmail.com .
 
   
 At www.Examsalert.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.Examsalert.com and how it is used.
