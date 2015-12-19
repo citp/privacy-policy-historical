@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the playbuzz.com privacy policy that was archived on 2015-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150501083038id_/http%3A//www.playbuzz.com/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the playbuzz.com privacy policy that was archived on 2015-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151219221927id_/http%3A//www.playbuzz.com/PrivacyPolicy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | PlayBuzz
 
 ## General
 
-Playbuzz Ltd. (referenced below as " **Playbuzz** " or " **We** ") is committed to protecting your privacy. This Privacy Policy explains our information-gathering and dissemination practices for our service. This Privacy Policy is part of our [End-User License Agreement](https://www.playbuzz.com/EULA) (" **EULA** "). By using Our services, you acknowledge that you have reviewed both our EULA and this Privacy Policy and agree to be bound by their terms and conditions.
+Playbuzz Ltd. (referenced below as " **Playbuzz** " or " **We** ") is committed to protecting your privacy. This Privacy Policy explains our information-gathering and dissemination practices for our service. This Privacy Policy is part of our [End-User License Agreement](https://www.playbuzz.com/EULA) (" **EULA** "). By using our services, you acknowledge that you have reviewed both our EULA and this Privacy Policy and agree to be bound by their terms and conditions.
 
 Please be aware that this Privacy Policy does not apply to the practices of entities playbuzz does not own or control, or to individuals whom playbuzz does not employ or manage, including any third parties to whom playbuzz may disclose Personal Information (as defined below) pursuant to the terms and conditions of this Privacy Policy.
 
@@ -12,13 +12,13 @@ Please be aware that this Privacy Policy does not apply to the practices of enti
 
   1. ### Registration Information
 
-With respect to users who voluntary register to our services (by logging in to their Facebook account, or registering for a playbuzz account), playbuzz may collect personally-identifying information that is unique to such users (such as their name, profile picture, gender, birthday, internet protocol (IP) address and such other personal information as set forth in our EULA) (" **Personal Information** ").
+With respect to users who voluntary register to our services (by logging in to their Facebook account, their Google Plus account or registering for a playbuzz account), playbuzz may collect personally-identifying information that is unique to such users (such as their name, profile picture, gender, birthday, internet protocol (IP) address and such other personal information as set forth in our EULA) (" **Personal Information** ").
 
   2. ### Other information
 
 We also receive and/or collect other types of data and information about users via our services, as follows:
 
-    * We regularly receive non-personally-identifying information about you or about the device you use to enhance our services, such as your browser type, language preference referring site and any other information automatically sent to playbuzz by the user's browser.
+    * We regularly receive non-personally-identifying information about you or about the device you use to enhance our services, such as your browser type, language preference, referring site and any other information automatically sent to playbuzz by the user's browser through the use of cookies.
 
     * We receive data about you whenever you use or interact with playbuzz, such as how and when you view, use or otherwise interact with content and materials in our WebSite. For example, we may infer data from your replies and answers to the quizzes in this WebSite or the results thereof, as further delineated below.
 
@@ -26,7 +26,7 @@ We also receive and/or collect other types of data and information about users v
 
     * Sometimes we get data from our partners, publishers, commercial customers and other third parties that helps us (or them) deliver ads, understand our users' online activities, provide with insight into what our users are interested in, maximize the effectiveness of ads, and generally make our services better.
 
-    * We receive data whenever you visit another website that uses our platform or which has embedded our content into its own website, blog or application. Such data includes the other websites you have visited and the type of data we receive about you while you use this Website as delineated hereunder
+    * We receive data whenever you visit another website that uses our platform or which has embedded our content into its own website, blog or application. Such data includes the other websites you have visited and the type of data we receive about you while you use this Website as delineated hereunder.
 
 
 
@@ -37,7 +37,7 @@ We store data for as long as it is necessary to provide products and services to
 
 We use the information and data We collect in connection with operation, maintenance and enhancement of our services and features, and for other administrative purposes or internal operations, such as communicating with our users, data analysis, testing and research.
 
-In addition, We may use the information and data we collect about you in order to measure and understand the effectiveness of our ads and other content and offer you tailored content, like giving you more relevant ads. For example, your birthday, gender and other demographic characteristics allow us to show you age-appropriate and gender-related content and advertisements. We may also examine and analyze your feedback and answers to the quizzes in our WebSite to serve ads that you may enjoy or find interesting. For example, if a user participates in content around new model cars, We may infer that this user is planning to purchase a new vehicle or that he/she recently purchased a new vehicle. Alternatively, if a user indicates in a quiz that he/she enjoys baseball, We may infer this user is a sport fan. Advertisers of either automotive or sports products may ask us to display advertisements to individuals that have an affinity towards their products.
+In addition, We may use the information and data we collect about you in order to measure and understand the effectiveness of ads and other content and offer you tailored content, like giving you more relevant ads. For example, your birthday, gender and other demographic characteristics allow us to show you age-appropriate and gender-related content and advertisements. We may also examine and analyze your feedback and answers to the quizzes in our WebSite to serve ads that you may enjoy or find interesting. For example, if a user participates in content around new model cars, We may infer that this user is planning to purchase a new vehicle or that he/she recently purchased a new vehicle. Alternatively, if a user indicates in a quiz that he/she enjoys baseball, We may infer this user is a sport fan. Advertisers of either automotive or sports products may ask us to display advertisements to individuals that have an affinity towards their products.
 
 Playbuzz processes Personal Information on its servers in many countries around the world. Such information may be stored on any of our servers, at any location.
 
@@ -47,7 +47,7 @@ Except as described hereunder, We do not share your Personal Information with th
 
   1. ### Sharing of Personal Information in the WebSite
 
-Some features of the services allow users to post contents and materials in, and create quizzes and other games through, the Website, as further delineated in our EULA. Any contents, materials and games which you have publicly posted or published on the WebSite or otherwise through our services shall be publicly available by default, and you may appear in the WebSite as the creator thereof. In addition, the username, the full name and the profile picture of any user who shall voluntary register to our services, as well as the list of recently played games by such user, shall be publicly available in the WebSite.
+Some features of the services allow users to post contents and materials in, and create quizzes and other games through, the WebSite, as further delineated in our EULA. Any contents, materials and games which you have publicly posted or published on the WebSite or otherwise through our services shall be publicly available by default, and you may appear in the WebSite as the creator thereof. In addition, the username, the full name and the profile picture of any user who shall voluntary register to our services, as well as the list of recently played games by such user, shall be publicly available in the WebSite.
 
   2. ### Compliance with Laws and Law Enforcement
 
@@ -63,7 +63,8 @@ Playbuzz may publish or share with third parties aggregate information for the p
 
   5. ### Cookies
 
-A cookie is a string of information that can be stored on your computer (if your web browser is set to permit storage of cookies). We may use such cookies to help us learn about how you use this WebSite and enhance your online experience.
+A cookie is a string of information that can be stored on your computer (if your web browser is set to permit storage of cookies).  
+Our service may include third party advertising and analytics cookies, which are placed by or on behalf of third-party advertisers who are placing advertisements through our service or on our WebSite. These cookies may be placed within an advertisement and elsewhere on our online assets. The information collected by these cookies is anonymous and cannot identify individuals. Rather, such cookies are used for statistical analysis as they allow the advertiser, for example, to count how many people have seen their advertisement or have seen it more than once. Such cookies also might also allow the advertiser to tailor advertising to you and to target you when you visit other websites. We have no control over such practices and over any information collected by such third parties. Note, the use of cookies by advertisers on our WebSite is subject to the privacy policies of those advertisers and is not covered by this Privacy Policy. If you wish to know more about this practice and related options, you may visit the Network Advertising Initiative (“NAI”) web-site: [http://www.networkadvertising.org](http://www.networkadvertising.org/), which is a cooperative of online advertising companies who are committed to responsible practices and consumer protection. Most web browsers can either alert you to the use of cookies or refuse to accept cookies entirely. You should be aware that if you elect not to accept cookies through the use of your browser, some parts of the WebSite may not function properly or permit access. You may also delete your computer or device's cookies at any time. If you would like to disable "third party" cookies generated by advertisers or providers of targeted advertising services, you can turn them off by going to the third party's website and getting them to generate a one-time "no thanks" cookie that will stop any further cookies being written to your machine. You can also visit the trade body representing these advertising companies. For more information on how to opt out of these cookies: [http://www.youronlinechoices.com](http://www.youronlinechoices.com/)
 
   6. ### Reorganization or Insolvency
 
@@ -91,3 +92,5 @@ Playbuzz reserves the right to update this Privacy Policy from time to time, wit
 ## Q&A
 
 If you have any questions or queries about this Privacy Policy or our Services in general, please do not hesitate to contact us at: [admin@playbuzz.com](mailto:admin@plabuzz.com)
+
+_Last revised on November 3rd, 2015_
