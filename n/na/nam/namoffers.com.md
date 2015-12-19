@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the namoffers.com privacy policy that was archived on 2015-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150619061936id_/http%3A//namoffers.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the namoffers.com privacy policy that was archived on 2015-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151219055218id_/http%3A//namoffers.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - NAMoffers
 
@@ -32,7 +32,7 @@ This online privacy policy applies only to information collected through our web
 
 ## Terms and Conditions
 
-Please also visit our [Affiliate](https://web.archive.org/affiliate-terms-and-conditions) and [Advertiser](https://web.archive.org/advertiser-terms-and-conditions) Terms and Conditions pages establishing the use, disclaimers, and limitations of liability governing the use of our website at www.namoffers.com.
+Please also visit our [Affiliate](http://namoffers.com/affiliate-terms/) and [Advertiser](http://namoffers.com/advertiser-terms) Terms and Conditions pages establishing the use, disclaimers, and limitations of liability governing the use of our website at www.namoffers.com.
 
 ## Your Consent
 
