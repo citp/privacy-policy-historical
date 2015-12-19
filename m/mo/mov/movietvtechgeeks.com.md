@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the movietvtechgeeks.com privacy policy that was archived on 2015-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150621234128id_/http%3A//movietvtechgeeks.com/movie-tv-tech-geeks-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the movietvtechgeeks.com privacy policy that was archived on 2015-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151219061305id_/http%3A//movietvtechgeeks.com/movie-tv-tech-geeks-privacy-policy) for the most accurate reproduction.*
 
 # Movie TV Tech Geeks Privacy Policy - Movie TV Tech Geeks News
 
@@ -10,7 +10,7 @@ MovieTVTechGeeks takes your privacy rights seriously and has posted this Privac
 
  **Acceptance of These Terms**
 
-This Privacy Policy is incorporated into and is subject to the MovieTVTechGeeks [Terms and Conditions](http://movietvtechgeeks.com/movie-tv-tech-geeks-privacy-policy/terms-and-conditions/ "Terms and Conditions") for use of the Site. If you do not agree to the terms of this Privacy Policy or the Terms and Conditions for use of the Site, please do not provide us with any information and do not use the Site. Your continued use of the Site in light of changes to this Privacy Policy will signify your acceptance of the changes for information gathered after the date of the change.
+This Privacy Policy is incorporated into and is subject to the MovieTVTechGeeks Terms and Conditions for use of the Site. If you do not agree to the terms of this Privacy Policy or the Terms and Conditions for use of the Site, please do not provide us with any information and do not use the Site. Your continued use of the Site in light of changes to this Privacy Policy will signify your acceptance of the changes for information gathered after the date of the change.
 
  **Does this Privacy Policy apply to you?**
 
