@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dlh.net privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612120010id_/http%3A//www.dlh.net/en/privacynotice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dlh.net privacy policy that was archived on 2015-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151219170619id_/http%3A//www.dlh.net/en/privacynotice) for the most accurate reproduction.*
 
 # Privacy Notice | DLH.NET The Gaming People
 
