@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the afreechat.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610161733id_/http%3A//afreechat.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the afreechat.com privacy policy that was archived on 2015-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151219222847id_/http%3A//afreechat.com/privacy) for the most accurate reproduction.*
 
 # afreechat - Privacy Policy
 
