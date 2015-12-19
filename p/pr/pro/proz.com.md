@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the proz.com privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630044011id_/http%3A//www.proz.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the proz.com privacy policy that was archived on 2015-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151219182617id_/http%3A//www.proz.com/privacy) for the most accurate reproduction.*
 
 # ProZ.com privacy policy
 
-[](https://privacy.truste.com/privacy-seal/ProZ-com/validation?rid=6750c86f-afac-40b8-a892-0c4cc92545e2 "TRUSTe European Safe Harbor certification")
+[](https://privacy.truste.com/privacy-seal/validation?rid=367db920-c6ec-43ce-b0ad-7268aa90b832 "TRUSTe Privacy Certification")
 
-Date effective: 6 January 2015 ([view past versions](https://web.archive.org/privacy?version=past)) 
+Date effective: 7 December 2015 ([view past versions](https://web.archive.org/privacy?version=past)) 
 
 This privacy policy describes the way that ProZ.com treats personal information that it collects. Personal information is information about an individual that is personal such as name, address, email address, or phone number. This policy covers the entire ProZ.com site. 
 
-ProZ.com has received TRUSTe's Privacy Seal signifying that this privacy policy and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal. The TRUSTe program covers only information that is collected through this Web site, http://proz.com. 
+ProZ.com has received TRUSTe's Privacy Seal signifying that this privacy policy and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal. The TRUSTe program covers only information that is collected through this Web site, http://proz.com, and does not cover any information that may be collected offline, or through any of the software that may be downloaded from the website. 
 
 If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe [here](http://watchdog.truste.com/pvr.php?page=complaint&url=). 
 
@@ -151,8 +151,8 @@ If your personal information changes or if you no longer wish to use any ProZ.co
 ProZ.com regularly reviews its compliance with this privacy policy. Please direct any questions or concerns regarding this privacy policy or ProZ.com's treatment of personal information to the ProZ.com IT/Security Manager by [submitting a support request](http://www.proz.com/support?mode=ask&type=privacy "http://www.proz.com/support") through the support center on this website, or by writing to: 
 
 ProZ.com  
-PO Box 903  
-Syracuse, NY 13201 USA 
+235 Harrison Street  
+Syracuse, NY 13202 USA 
 
 ProZ.com will investigate and attempt to resolve complaints and disputes regarding use and disclosure of personal information in accordance with the principles contained in this privacy policy. 
 
