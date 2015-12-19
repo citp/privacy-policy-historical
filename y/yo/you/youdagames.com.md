@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the youdagames.com privacy policy that was archived on 2013-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131230210301id_/http%3A//www.youdagames.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the youdagames.com privacy policy that was archived on 2015-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151219152548id_/http%3A//www.youdagames.com/en/privacy) for the most accurate reproduction.*
 
 # Privacy policy | Youdagames.com
 
