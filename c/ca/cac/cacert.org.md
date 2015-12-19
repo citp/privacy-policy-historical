@@ -1,13 +1,7 @@
-> *The following text is extracted and transformed from the cacert.org privacy policy that was archived on 2014-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141124165256id_/http%3A//www.cacert.org/policy/PrivacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cacert.org privacy policy that was archived on 2015-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151219121832id_/http%3A//www.cacert.org/policy/PrivacyPolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
-PP  |   |     
----|---|---  
-POLICY [m20060629](http://wiki.cacert.org/wiki/PolicyDecisions) |    |  20060629   
-COD5  |   |    
-  |  **Privacy  Policy** |    
-  
 ##  0\. Preliminaries 
 
 This policy discloses what information we gather about you when you visit any of our Web site, and when you issue or use our certificates. It describes how we use that information and how you can control it. 
@@ -62,3 +56,5 @@ CAcert Inc.
 PO Box 66   
 Oatley NSW 2223  
 Australia 
+
+[](http://validator.w3.org/check?uri=referer)
