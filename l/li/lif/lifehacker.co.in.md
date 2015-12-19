@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lifehacker.co.in privacy policy that was archived on 2015-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150602041840id_/http%3A//www.lifehacker.co.in/privacypolicy.cms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lifehacker.co.in privacy policy that was archived on 2015-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151219111335id_/http%3A//www.lifehacker.co.in/privacypolicy.cms) for the most accurate reproduction.*
 
 # Privacy Policy | Life Hacker India
 
@@ -53,7 +53,7 @@ In the event you have any questions or suggestions regarding our privacy policy 
 **Ms. Surbhi Chawla**  
 **Grievance Redressal Officer**  
 Lifehacker.co.in  
-Times Internet Limited Plot No. 391, Udyog Vihar, Phase - III, Gurgaon-122016 Haryana Phone: 0124-4518550 
+Times Internet Limited Plot No. 391, Udyog Vihar, Phase - III, Gurgaon-122016 Haryana Phone: 0124-4518550
 
 We request you to please provide the following information in your complaint:-  
 a) Identification of the information provided by you  
