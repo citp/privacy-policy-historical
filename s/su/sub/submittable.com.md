@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the submittable.com privacy policy that was archived on 2015-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150430093649id_/http%3A//www.submittable.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the submittable.com privacy policy that was archived on 2015-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151219152337id_/http%3A//www.submittable.com/privacy) for the most accurate reproduction.*
 
 # Submission Manager powered by Submittable: accept and manage content, applications, contest entries and resumes
 
