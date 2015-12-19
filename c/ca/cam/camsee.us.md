@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the camsee.us privacy policy that was archived on 2014-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141204062401id_/http%3A//www.camsee.us/privacy.html%3F) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the camsee.us privacy policy that was archived on 2015-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151219093619id_/http%3A//www.camsee.us/privacy.html%3F) for the most accurate reproduction.*
 
 # camsee.us - Privacy Policy
 
@@ -50,4 +50,4 @@ The address for correspondence by post is
 ICF Technology, Inc.  
 PO Box 21508  
 Seattle, WA 98111  
-USA 
+USA
