@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the quickheal.co.in privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607074029id_/http%3A//www.quickheal.co.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quickheal.co.in privacy policy that was archived on 2015-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151219175334id_/http%3A//www.quickheal.co.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 Privacy Policy
 
-The following statement discloses Quick Heal Technologies (P) Ltd.’s privacy policies for its web site. We do update our policy periodically without notice so please check occasionally for any changes.
+The following statement discloses Quick Heal Technologies Ltd. (Formerly Known as Quick Heal Technologies Pvt. Ltd.) privacy policies for its web site. We do update our policy periodically without notice so please check occasionally for any changes.
 
 What information we gather
 
-We at Quick Heal Technologies (P) Ltd. respect your desire to protect personal information. This page reveals what sort of information we may ask you for, and in what situations.
+We at Quick Heal Technologies Ltd. respect your desire to protect personal information. This page reveals what sort of information we may ask you for, and in what situations.
 
 We request personal information when you place an order, register a product, request a service, request for a trial copy of our software, correspond with us or engage in certain other activities on our website. For example:
 
@@ -39,27 +39,29 @@ The personal information that you have provided to us may be transferred to othe
 
 Statistical information
 
-We may track domain names, IP addresses, and browser types from people who visit our site. We use this information to produce traffic statistics for the Quick Heal Technologies (P) Ltd. sites. Such information is not co-related with any personal information.
+We may track domain names, IP addresses, and browser types from people who visit our site. We use this information to produce traffic statistics for the Quick Heal Technologies Ltd. sites. Such information is not co-related with any personal information.
 
 Privacy policy of other companies
 
-The Quick Heal Technologies (P) Ltd. sites contain links to site of companies with whom we have a relationship. Quick Heal Technologies (P) Ltd. is not responsible for the privacy practices of its business partners. We encourage you to read their privacy statements, as they may differ from ours.
+The Quick Heal Technologies Ltd. sites contain links to site of companies with whom we have a relationship. Quick Heal Technologies Ltd. is not responsible for the privacy practices of its business partners. We encourage you to read their privacy statements, as they may differ from ours.
 
 Contact information
 
 If you have any questions or comments, please contact us:
 
-**Company** | **:** | Quick Heal Technologies (P) Ltd.  
+**Company** | **:** | Quick Heal Technologies Ltd.  
 ---|---|---  
 **Address** | **:** | 
 
-603, Mayfair Towers-II, 
+Marvel Edge,Office No.7010 C & D,
 
-Wakdewadi, Shivajinagar  
+7th Floor, Viman Nagar  
   
 **City** | **:** | Pune  
-**Pincode** | **:** | 411005  
+**Pincode** | **:** | 411014  
 **State** | **:** | Maharashtra  
 **Country** | **:** | India  
 **Website** | **:** | [http://www.quickheal.com](http://www.quickheal.com/)   
-**Technical Assistance** | **:** | [ http://www.quickheal.co.in/submitticket](http://www.quickheal.co.in/submitticket) 
+**Technical Assistance** | **:** | [ http://www.quickheal.co.in/submitticket](http://www.quickheal.co.in/submitticket)   
+**Privacy Policy for Quick Heal Mobile Products (Android)** | **:** | [ http://www.quickheal.co.in/mobile-products-android-privacy-policy](http://www.quickheal.co.in/mobile-products-android-privacy-policy)   
+**Privacy Policy for Quick Heal Mobile Products (iOS)** | **:** | [ http://www.quickheal.co.in/mobile-products-ios-privacy-policy](http://www.quickheal.co.in/mobile-products-ios-privacy-policy) 
