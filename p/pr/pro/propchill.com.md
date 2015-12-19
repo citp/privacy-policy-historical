@@ -1,6 +1,14 @@
-> *The following text is extracted and transformed from the propchill.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609001243id_/http%3A//www.propchill.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the propchill.com privacy policy that was archived on 2015-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151220004238id_/http%3A//www.propchill.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy and Instructions for Website Users - PropChill
+
+**
+
+“We value the trust you have bestowed on us and is the single most important factor. Therefore, all our policies are governed and implemented keeping the same in mind.”
+
+Welcome to Propchill.com! Empowering the Investor.
+
+**
 
 This Privacy policy is subject to the terms of the Site Policy (User agreement) of this website.
 
