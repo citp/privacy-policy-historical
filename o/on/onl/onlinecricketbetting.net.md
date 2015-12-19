@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onlinecricketbetting.net privacy policy that was archived on 2015-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150620071406id_/http%3A//www.onlinecricketbetting.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlinecricketbetting.net privacy policy that was archived on 2015-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151219024504id_/http%3A//www.onlinecricketbetting.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Online Cricket Betting
 
