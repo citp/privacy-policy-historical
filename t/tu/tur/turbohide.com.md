@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the turbohide.com privacy policy that was archived on 2015-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150408034127id_/http%3A//turbohide.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the turbohide.com privacy policy that was archived on 2015-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151219015005id_/http%3A//www.turbohide.com/privacy.php) for the most accurate reproduction.*
 
 # Free Proxy Server :: TurboHide
 
@@ -24,11 +24,11 @@ The service we provide allows indirect browsing of third-party websites. A third
 
 * For more information on configuring your browser, see [AboutCookies.org](http://www.aboutcookies.org/Default.aspx?page=1) or the documentation for your browser. We are not responsible for the content of any third-party websites.
 
-  * [Home](https://web.archive.org/web/20150408034127id_/http%3A//turbohide.com/index.php)
-  * [Edit Browser](https://web.archive.org/web/20150408034127id_/http%3A//turbohide.com/edit-browser.php)
-  * [Manage Cookies](https://web.archive.org/web/20150408034127id_/http%3A//turbohide.com/cookies.php)
-  * [Privacy Policy](https://web.archive.org/web/20150408034127id_/http%3A//turbohide.com/privacy.php)
-  * [Disclaimer](https://web.archive.org/web/20150408034127id_/http%3A//turbohide.com/disclaimer.php)
-  * [Terms of Use](https://web.archive.org/web/20150408034127id_/http%3A//turbohide.com/terms.php)
+  * [Home](https://web.archive.org/web/20151219015005id_/http%3A//www.turbohide.com/index.php)
+  * [Edit Browser](https://web.archive.org/web/20151219015005id_/http%3A//www.turbohide.com/edit-browser.php)
+  * [Manage Cookies](https://web.archive.org/web/20151219015005id_/http%3A//www.turbohide.com/cookies.php)
+  * [Privacy Policy](https://web.archive.org/web/20151219015005id_/http%3A//www.turbohide.com/privacy.php)
+  * [Disclaimer](https://web.archive.org/web/20151219015005id_/http%3A//www.turbohide.com/disclaimer.php)
+  * [Terms of Use](https://web.archive.org/web/20151219015005id_/http%3A//www.turbohide.com/terms.php)
 
 
