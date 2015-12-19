@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the homegirlsparty.com privacy policy that was archived on 2015-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150619221855id_/http%3A//www.homegirlsparty.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homegirlsparty.com privacy policy that was archived on 2015-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151220003122id_/http%3A//www.homegirlsparty.com/privacy.php) for the most accurate reproduction.*
 
 # Our Commitment To Privacy - Home Girls Party
 
