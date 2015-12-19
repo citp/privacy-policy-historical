@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 3wj.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610045025id_/http%3A//www.3wj.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 3wj.com privacy policy that was archived on 2015-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151219144827id_/http%3A//www.3wj.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy on 3wj.com
 
