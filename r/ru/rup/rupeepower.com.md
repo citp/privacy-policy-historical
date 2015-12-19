@@ -1,15 +1,12 @@
-> *The following text is extracted and transformed from the rupeepower.com privacy policy that was archived on 2013-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131201071404id_/http%3A//www.rupeepower.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rupeepower.com privacy policy that was archived on 2015-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151219231344id_/http%3A//www.rupeepower.com/privacy-policy) for the most accurate reproduction.*
 
-# RupeePower: Get Cheapest Loan Rates and Insurance Quotes in India | Buy Car insurance online
+# Privacy Policy: Rupeepower.com
 
-Date Last Revised:  Monday, 18 April 2011
+Date Last Revised:  Thursday, 18 April 2013
 
 RupeePower.com is committed to maintaining the confidentiality, integrity and security of all the personal information of our users. This Privacy & Security Policy explains how we protect personal information provided through our websites such as [www.rupeepower.com](https://web.archive.org/) & our other co-branded sites (the “Site”) and how we use that information in connection with our service offered through the Site (the “Service”). “Personal information” for purposes of this Policy means information that identifies you, such as your name, address, phone number or email address.
 
 RupeePower.com applies high privacy and security standards to protect your personal information. We regularly re-evaluate our policies and adapt them as necessary to deal with new challenges.
-
-  
-
 
 ## Your personal information will never be sold
 
@@ -25,10 +22,7 @@ We will not sell or rent your personal information to anyone, for any reason, at
 
 
 
-In the event that you access the Service as brought to you by one of our co-brand partners, through a co-branded URL, your name, mail address, mobile number, date of birth, employment type, residency status, details of loan applied for and loan status may be provided to that co-brand partner when your application is submitted and whenever the status of application is upated. RupeePower.com has a business relationship with these co-brand partners and you may not opt-out of sharing your information with these co-brand partners if you have applied via a co-branded URL.
-
-  
-
+In the event that you access the Service as brought to you by one of our co-brand partners, through a co-branded URL, your name, mail address, mobile number, date of birth, employment type, residency status, details of loan applied for and loan status may be provided to that co-brand partner when your application is submitted and whenever the status of application is updated. RupeePower.com has a business relationship with these co-brand partners and you may not opt-out of sharing your information with these co-brand partners if you have applied via a co-branded URL.
 
 ## We limit the collection and use of personal information
 
@@ -43,15 +37,9 @@ From time to time we may request more personal information in order to provide y
 
 Such information does not identify you individually. Access to your Registration Information, Account Information and any other personal information you provide is strictly restricted and used only in accordance with specific internal procedures and safeguards governing access, in order to operate, develop or improve the Service. We may also use third party service providers to help us provide the Service to you, such as sending e-mail messages on our behalf or hosting and operating a particular feature or functionality of the Service. Our contracts with these third parties outline the appropriate use and handling of your information and prohibit them from using any of your personal information for purposes unrelated to the product or service they're providing. We require such third parties to maintain the confidentiality of the information we provide to them.
 
-  
-
-
 ## Changes to your registration information
 
 If your Registration Information provided when you applied for a product on Sites changes, you may update it whenever you apply for a new product such as a loan via the Service. To review and update your personal information to ensure it is accurate while your application is in process, contact us at [support@rupeepower.com](mailto:support@rupeepower.com). You will not be able to update the information you have provided in an application after a decision has already been made on it; however you may create and submit a new application with your updated information.
-
-  
-
 
 ## Session information is only used to improve your experience on the site
 
@@ -67,15 +55,9 @@ We may choose to use Google Analytics, a third-party tracking service, which use
 
 We may use additional third party service providers to help analyze certain online activities. We may permit these service providers to use cookies and other technologies to perform these services for RupeePower.com. We do not share personal information of our customers with these service providers, and they do not collect such information on our behalf. Our third party service providers are required to comply fully with this Privacy and Security Policy.
 
-  
-
-
 ## Third parties will not be given your personal information unless you ask us to do so
 
-There are a number of products and services, such as loans, credit cards & insurance, offered by third parties on our Site, such as lenders, banks, credit card issuers, insurers and brokerage institutions (collectively, “RupeePower.com Offers”). If you choose to apply for these separate products or services, disclose information to the providers, or grant them permission to collect information about you, then their use of your information is governed by their privacy policies. You should evaluate the practices of these external services providers before deciding to use their services. RupeePower.com is not responsible for their privacy practices.
-
-  
-
+There are a number of products and services, such as loans, credit cards & other personal finance products, offered by third parties on our Site, such as lenders, banks, credit card issuers, insurers and brokerage institutions (collectively, “RupeePower.com Offers”). If you choose to apply for these separate products or services, disclose information to the providers, or grant them permission to collect information about you, then their use of your information is governed by their privacy policies. You should evaluate the practices of these external services providers before deciding to use their services. RupeePower.com is not responsible for their privacy practices.
 
 ## Testimonials, Blogs and other forums on RupeePower.com
 
@@ -94,9 +76,6 @@ Facebook, Twitter, & Other Social Networking Media You can link to our site usin
 
 Like Button If you use the “Like” button to share something, that item will appear on your Facebook profile page and also on your friends’ news-feed, depending on your Facebook privacy settings. You may also receive updates in your Facebook newsfeed from this site or item in the future. Facebook also collects information such as which pages you have visited on this and other sites that have implemented the “Like” button.
 
-  
-
-
 ## Disclosure of your information to protect our rights or if required by law
 
 Notwithstanding the foregoing, RupeePower.com reserves the right (and you authorize RupeePower.com) to share or disclose your personal information when RupeePower.com determines, in its sole discretion, that the disclosure of such information is necessary or appropriate:
@@ -106,15 +85,11 @@ Notwithstanding the foregoing, RupeePower.com reserves the right (and you author
   * If RupeePower.com is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information,
   * To any other third party with your prior consent to do so.
 
-  
 
 
 ## Email & SMS communications from us
 
-We provide our registered customers with periodic emailers and email/SMS alerts. We also allow users to subscribe to email newsletters and from time to time may transmit emails promoting RupeePower.com or third-party goods or services. RupeePower.com subscribers may opt-out of receiving our promotional emails and terminate their newsletter subscriptions by following the instructions in the emails. Opting out in this manner will not end transmission of service-related emails/SMS, such as email/SMS alerts.
-
-  
-
+We provide our registered customers with periodic mailers and email/SMS alerts. We also allow users to subscribe to email newsletters and from time to time may transmit emails promoting RupeePower.com or third-party goods or services. RupeePower.com subscribers may opt-out of receiving our promotional emails and terminate their newsletter subscriptions by following the instructions in the emails. Opting out in this manner will not end transmission of service-related emails/SMS, such as email/SMS alerts.
 
 ## We keep your data secure
 
@@ -132,15 +107,9 @@ No employee may put any sensitive content on any insecure machine (i.e., nothing
 
 However, it is important to understand that these precautions apply only to our Site and systems.
 
-  
-
-
 ## All private information is encrypted and communicated securely
 
 All communications between your computer and RupeePower.com that contain any personal information are encrypted. This enables client and server applications to communicate in a way that is designed to prevent eavesdropping, tampering and message forgery.
-
-  
-
 
 ## You are responsible for maintaining the confidentiality of your login id and password
 
@@ -148,15 +117,9 @@ You are responsible for maintaining the security of your Login ID and Password, 
 
 If you have any security related concern, please contact us at [privacy@rupeepower.com](mailto:privacy@rupeepower.com). We will work closely with you to ensure a rapid and personal response to your concerns.
 
-  
-
-
 ## Whenever there is a change to our Privacy and Security Policy we post updates on our website
 
 We may update this privacy statement to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
-
-  
-
 
 ## Contact us with any questions or concerns
 
@@ -166,6 +129,3 @@ Plot No 68, Ground Floor, Near SBI Academy,
 Sector - 18, Gurgaon - 122001,  
 Phone No : 0124 - 4147280 Ext 109   
 Haryana, India 
-
-  
-
