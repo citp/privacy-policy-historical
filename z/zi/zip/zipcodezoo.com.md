@@ -1,23 +1,36 @@
-> *The following text is extracted and transformed from the zipcodezoo.com privacy policy that was archived on 2015-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150206120126id_/http%3A//zipcodezoo.com/About/Privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zipcodezoo.com privacy policy that was archived on 2015-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151219031312id_/http%3A//zipcodezoo.com/index.php/ZipcodeZoo%3APrivacy_policy) for the most accurate reproduction.*
 
-# ZipcodeZoo Privacy Highlights
+# ZipcodeZoo:Privacy policy - ZipcodeZoo
 
-## ZipcodeZoo Privacy Highlights
+Because we believe that you shouldn't have to provide personal information to participate in the free knowledge movement, you may: 
 
-Working to protect privacy, with the best possible user experience.
+  * Read or use any ZipcodeZoo Site (ZipcodeZoo.com, Lookup.Life) without registering an account.
+  * Register for an account without providing an email address or real name.
 
-At ZipcodeZoo we recognize that privacy is important. We work to protect your privacy while tailoring our services to your needs and interests.
 
-At ZipcodeZoo we recognize that privacy is important. This document outlines the types of personal information we receive and collect when you use ZipcodeZoo's services, as well as some of the steps we take to safeguard information. We hope this will help you make an informed decision about sharing personal information with us. 
 
-## Personal information and other data we collect
+  
+Because we want to understand how ZipcodeZoo Sites are used so we can make them better for you, we collect some information when you: 
 
-ZipcodeZoo collects personal information when you register for a ZipcodeZoo service or otherwise voluntarily provide such information. We may combine personal information collected from you with information from other ZipcodeZoo services or third parties to provide a better user experience, including customizing content for you. ZipcodeZoo uses cookies and other technologies to enhance your online experience and to learn about how you use ZipcodeZoo services in order to improve the quality of our services. ZipcodeZoo's servers automatically record information when you visit our website or use some of our products, including the URL, IP address, browser type and language, and the date and time of your request.
+  * Make public contributions.
+  * Register an account or update your user page.
+  * Use the Sites.
+  * Send us emails or participate in a survey or give feedback.
 
-## Uses
 
-We may use personal information to provide the services you've requested, including services that display customized content. We may also use personal information for auditing, research and analysis to operate and improve ZipcodeZoo technologies and services. We may share aggregated non-personal information with third parties outside of ZipcodeZoo. We may share information with third parties in limited circumstances, including when complying with legal process, preventing fraud or imminent harm, and ensuring the security of our network and services. ZipcodeZoo processes personal information on our servers in the United States of America.
 
-## Your choices
+  
+We are committed to: 
 
-We offer you choices when we ask for personal information, whenever reasonably possible. You can find more information about your choices in the privacy notices or FAQs for specific services. You may decline to provide personal information to us and/or refuse cookies in your browser, although some of our features or services may not function properly as a result. We make good faith efforts to provide you access to your personal information upon request and to let you correct such data if it is inaccurate and delete it, when reasonably possible.
+  * Describing how your information may be used or shared in this Privacy Policy. 
+  * Using reasonable measures to keep your information secure. 
+  * Never selling your information or sharing it with third parties for marketing purposes. 
+  * Only sharing your information in limited circumstances, such as to improve the ZipcodeZoo Sites, to comply with the law, or to protect you and others.
+  * Retaining your data for the shortest possible time that is consistent with maintaining, understanding, and improving the ZipcodeZoo Sites, and our obligations under law.
+
+
+
+  
+As part of our commitment to education and research around the world, we occasionally release public information and aggregated or non-personal information to the general public through data dumps and data sets. 
+
+For the protection of ZipcodeZoo and other users, if you do not agree with this Privacy Policy, you may not use the ZipcodeZoo Sites. 
