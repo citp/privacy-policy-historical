@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the busy-at-home.com privacy policy that was archived on 2015-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150624035223id_/http%3A//busy-at-home.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the busy-at-home.com privacy policy that was archived on 2015-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151219110618id_/http%3A//busy-at-home.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Busy-at-Home
 
@@ -14,7 +14,7 @@ We may collect non-personal identification information about Users whenever they
 
 **Web browser cookies**
 
-Our Site may use “cookies” to enhance User experience. User’s web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
+Our Site may use “cookies” to enhance User experience. User’s web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly. For information about opting out of Gourmet Ads and ad serving partners please visit <http://www.gourmetads.com/about/privacy-policy>.
 
 **How we use collected information**
 
