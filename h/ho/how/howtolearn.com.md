@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the howtolearn.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610043010id_/http%3A//www.howtolearn.com/about/copyright-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the howtolearn.com privacy policy that was archived on 2015-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151219222829id_/http%3A//www.howtolearn.com/about/copyright-privacy) for the most accurate reproduction.*
 
 # Copyright/Privacy Policy | HowToLearn.com
 
