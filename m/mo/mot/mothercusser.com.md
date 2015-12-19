@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mothercusser.com privacy policy that was archived on 2015-02-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150217115926id_/http%3A//www.mothercusser.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mothercusser.com privacy policy that was archived on 2015-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151219023043id_/http%3A//mothercusser.com/privacy.aspx) for the most accurate reproduction.*
 
 # Mother Cusser > Home
 
