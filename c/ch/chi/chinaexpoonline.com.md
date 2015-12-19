@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chinaexpoonline.com privacy policy that was archived on 2015-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150204171353id_/http%3A//www.chinaexpoonline.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chinaexpoonline.com privacy policy that was archived on 2015-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151219061231id_/http%3A//www.chinaexpoonline.com/en/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy Terms For China Expo
 
