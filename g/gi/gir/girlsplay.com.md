@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the girlsplay.com privacy policy that was archived on 2015-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150602131622id_/http%3A//www.girlsplay.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the girlsplay.com privacy policy that was archived on 2015-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151219175953id_/http%3A//www.girlsplay.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -43,14 +43,7 @@ You can choose to accept or decline cookies. Most web browsers automatically acc
 **Links to other websites**  
 Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question. 
 
-**Controlling your personal information**  
-You may choose to restrict the collection or use of your personal information in the following ways: 
-
-  * whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes
-  * if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at office@GirlsPlay.com
-
-
-
+**Personal information**  
 We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen. 
 
 GirlsPlay.com will not sell, distribute or lease your personal information to third parties, unless the member has not adhered to our terms and conditions (e.g. created a phishing site) or is required by law to do so. In such cases of abuse of the GirlsPlay.com services, each individual case will be reviewed and personal information may be passed on to the relevant company or person who is the victim of the abuse. 
