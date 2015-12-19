@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the okjay.com privacy policy that was archived on 2015-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150622140644id_/http%3A//okjay.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the okjay.com privacy policy that was archived on 2015-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151220005757id_/http%3A//okjay.com/privacy-policy) for the most accurate reproduction.*
 
 # OkJay - Privacy Policy
 
