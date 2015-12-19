@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zipcar.ca privacy policy that was archived on 2015-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150619115016id_/http%3A//members.zipcar.ca/site/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zipcar.ca privacy policy that was archived on 2015-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151219075524id_/http%3A//www.zipcar.ca/site/privacy) for the most accurate reproduction.*
 
 # Privacy Policy – Zipcar
 
@@ -88,7 +88,7 @@ Zipcar has established safeguards, such as SSL encryption, to help prevent unaut
 
 ## How might this privacy notice be changed?
 
-We may change this privacy notice from time to time, so it is advisable to review it frequently. We will advise you of changes to this privacy notice, and all amended terms shall automatically be effective as of the date of the amended notice. Your continued use of the Zipcar service or maintenance of a Zipcar account will be deemed to be acceptance of any revised privacy notice. 
+We may change this privacy notice from time to time, so it is advisable to review it frequently. We will advise you of material changes to this privacy notice through our website or other means, and all amended terms shall automatically be effective as of the date of the amended notice. Your continued use of the Zipcar service or maintenance of a Zipcar account will be deemed to be acceptance of any revised privacy notice. 
 
 ## Contact information
 
@@ -106,6 +106,6 @@ Zipcar Austria GmbH is located at Erdbergstraße 189-193, 1030 Vienna, Austria
 
 Catalunya Carsharing, S.A. (Avancar) is located at Travessera de Gràcia, 342, 8º 6ª, 08025, Barcelona, Spain. 
 
-This privacy notice was last revised in April 2015. 
+This privacy notice was last revised on August 19, 2015. 
 
 [ ](https://privacy.truste.com/privacy-seal/Zipcar,-Inc-/validation?rid=b3bd1b92-695d-4799-a3fd-a22f59b662d2 "TRUSTe European Safe Harbor certification")
