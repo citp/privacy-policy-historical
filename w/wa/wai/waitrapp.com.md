@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the waitrapp.com privacy policy that was archived on 2015-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150504194842id_/http%3A//waitrapp.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the waitrapp.com privacy policy that was archived on 2015-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151219100157id_/http%3A//waitrapp.com/privacy) for the most accurate reproduction.*
 
 # Waitr | Privacy - Waitr
 
