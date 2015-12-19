@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the titanbet.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316063615id_/http%3A//www.titanbet.com/help/privacy-security.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the titanbet.com privacy policy that was archived on 2015-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151219220508id_/http%3A//www.titanbet.com/help/privacy-security.html) for the most accurate reproduction.*
 
 # Titan Bet Security & Privacy Policy
 
@@ -47,7 +47,7 @@ We process your personal information for the purposes of:
 (g) our general regulatory compliance, crime prevention and prosecution of offenders including, where appropriate, dealing with requests for information by sports authorities or other authorised entities for the sharing of information;  
 (h) carrying out market research campaigns;  
 (i) providing you with information about and support for products and services;  
-(j) marketing our services or products or those of other entities within our group of companies; and  
+(j) offer additional or similar products, services or promotions relevant to you;  
 (k) supporting any of the intended purposes specifically stated at the time at which you provided the personal information.
 
 These are the **“Purposes”** for which we may collect personal data.
