@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the hachettebookgroup.com privacy policy that was archived on 2015-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150616153429id_/http%3A//www.hachettebookgroup.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hachettebookgroup.com privacy policy that was archived on 2015-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151219105334id_/http%3A//www.hachettebookgroup.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Hachette Book Group
 
 ## Hachette Book Group Privacy Policy
 
-This Web Site (“Web site”) is published and maintained by Hachette Book Group, Inc., with offices located at 237 Park Avenue , New York, NY 10017 (“HBG”). HBG is part of the Hachette Livre corporate family. HBG is referred to in this Privacy Policy as “we,” “us,” “our,” or similar pronouns.
+This Web Site (“Web site”) is published and maintained by Hachette Book Group, Inc., with offices located at 1290 Avenue of the Americas , New York, NY 10104 (“HBG”). HBG is part of the Hachette Livre corporate family. HBG is referred to in this Privacy Policy as “we,” “us,” “our,” or similar pronouns.
 
 This Privacy Policy governs your use of the HBG Web site on which this Privacy Policy is posted. By visiting this Web site, and/or using the services offered on or through this Web site, you agree to the terms of this Privacy Policy as they may be amended from time to time. As we update and expand our services, this Privacy Policy may change, so check back to this page from time to time.
 
@@ -18,7 +18,7 @@ Your privacy is a serious matter to us. In order to make your visits to our Web 
 
 ### Right to Opt Out
 
-You have the right to “opt-out” of certain of our uses of your Personal Information. For example, at the time you are requested to provide Personal Information on this Web site, you may have the opportunity to elect to, or not to receive correspondence from us. You may also make this request by visiting <https://secure.ztfsb.net/hbgsubs/php/newsletter.php> On this web page, you will be able to indicate whether: (i) you would like to opt-out of receiving promotional correspondence from HBG in general, or just via e-mail, short message service, instant messaging, fax, phone, or by communications that may be developed in the future, or (ii) you would only like to opt-out of certain of HBG’s e-newsletters or correspondence, and if so which ones You may also opt-out of HBG's promotional e-mails by clicking on an opt-out link within the e-mail you receive, or you may opt-out of HBG's SMS messages by texting the applicable "stop" message to the applicable SMS address as set forth in the terms and conditions of the SMS promotion in question. Please understand that if you opt-out of receiving correspondence from us, we may still contact you in connection with your relationship, activities, transactions and communications with us.
+You have the right to “opt-out” of certain of our uses of your Personal Information. For example, at the time you are requested to provide Personal Information on this Web site, you may have the opportunity to elect to, or not to receive correspondence from us. You may also make this request by visiting <https://www.hachettebookgroup.com/enewsletters> On this web page, you will be able to indicate whether: (i) you would like to opt-out of receiving promotional correspondence from HBG in general, or just via e-mail, short message service, instant messaging, fax, phone, or by communications that may be developed in the future, or (ii) you would only like to opt-out of certain of HBG’s e-newsletters or correspondence, and if so which ones You may also opt-out of HBG's promotional e-mails by clicking on an opt-out link within the e-mail you receive, or you may opt-out of HBG's SMS messages by texting the applicable "stop" message to the applicable SMS address as set forth in the terms and conditions of the SMS promotion in question. Please understand that if you opt-out of receiving correspondence from us, we may still contact you in connection with your relationship, activities, transactions and communications with us.
 
 In the limited situations, if any, in which we may share your Personal Information with a third party for their marketing purposes, we will either obtain your consent first or give you the ability to elect not to have your Personal Information shared.
 
@@ -98,7 +98,7 @@ By signing up for the SMS Service, you consent to receiving, from time to time, 
 
 ### Your Access Rights
 
-You may update Personal Information that is stored in your user account in support of this Web Site by visiting <https://secure.ztfsb.net/hbgsubs/php/newsletter.php> or by e-mailing [Privacy@hbgusa.com](mailto:Privacy@hbgusa.com). If you make this request by e-mail, we will send you a copy of the Personal Information we have on file in your user account (if any). You may send us new or updated information at any time. We will endeavor to respond to your request to access, update or delete your information as soon as practicable. Before we are able to provide you with any information, correct any inaccuracies or delete any information, however, we may ask you to verify your identity and to provide other details to help us to respond to your request.
+You may update Personal Information that is stored in your user account in support of this Web Site by visiting <https://www.hachettebookgroup.com/enewsletters> or by e-mailing [Privacy@hbgusa.com](mailto:Privacy@hbgusa.com). If you make this request by e-mail, we will send you a copy of the Personal Information we have on file in your user account (if any). You may send us new or updated information at any time. We will endeavor to respond to your request to access, update or delete your information as soon as practicable. Before we are able to provide you with any information, correct any inaccuracies or delete any information, however, we may ask you to verify your identity and to provide other details to help us to respond to your request.
 
 ### Security
 
@@ -153,7 +153,7 @@ With a few exceptions, before a child under 13 may provide us with Personal Info
 ### Right to Opt Out
 
   
-You have the right to “opt-out” of certain of our uses of your Personal Information.  As a parent, you can opt out on behalf of your child.  For example, at the time you are requested to provide Personal Information on this Web site, you may have the opportunity to elect to, or not to receive correspondence from us.  You may also make this request by visiting <https://secure.ztfsb.net/hbgsubs/php/newsletter.php>.  On this web page, you will be able to indicate whether (on your own behalf and/or, if you are a parent, on behalf of your child): (i) you would like to opt-out of receiving promotional correspondence from HBG in general, or just via e-mail, postal mail, short message service, instant messaging, fax, phone, or through communications that may be developed in the future, or (ii) you would only like to opt-out of certain of HBG’s e-newsletters or correspondence, and if so which ones.  You may also opt-out of HBG’s promotional e-mails by clicking on an opt-out link within the e-mail you receive.  Please understand that if you opt-out of receiving correspondence from us, we may still contact you in connection with your relationship, activities, transactions and communications with us. 
+You have the right to “opt-out” of certain of our uses of your Personal Information.  As a parent, you can opt out on behalf of your child.  For example, at the time you are requested to provide Personal Information on this Web site, you may have the opportunity to elect to, or not to receive correspondence from us.  You may also make this request by visiting <https://www.hachettebookgroup.com/enewsletters>.  On this web page, you will be able to indicate whether (on your own behalf and/or, if you are a parent, on behalf of your child): (i) you would like to opt-out of receiving promotional correspondence from HBG in general, or just via e-mail, postal mail, short message service, instant messaging, fax, phone, or through communications that may be developed in the future, or (ii) you would only like to opt-out of certain of HBG’s e-newsletters or correspondence, and if so which ones.  You may also opt-out of HBG’s promotional e-mails by clicking on an opt-out link within the e-mail you receive.  Please understand that if you opt-out of receiving correspondence from us, we may still contact you in connection with your relationship, activities, transactions and communications with us. 
 
 **In the limited situations, if any, in which we may share Personal Information with a third party for their own use, we will obtain all required parental consents first.**
 
@@ -226,7 +226,7 @@ If the email address you provide to us is a wireless email address, you agree to
 ### Your Access Rights
 
   
-You may review, correct and/or delete the Personal Informationthat is stored in your (and if you are a parent, your child’s) user account on this Web site by visiting <https://secure.ztfsb.net/hbgsubs/php/newsletter.php> or by e-mailing [privacy@hbgusa.com](mailto:privacy@hbgusa.com).  If you make this request by e-mail, we will send you a copy of the Personal Information we have on file in your (or your child’s) user account (if any).  You may send us new or updated information at any time, or request that we delete the Personal Information we have in our records about your child, or request that we no longer collect Personal Information from your child.  We will endeavor to respond to your request to access, update or delete your information as soon as practicable.  Before we are able to provide you with any information, correct any inaccuracies or delete any information, however, we may ask you to verify your identity and to provide other details to help us to respond to your request.
+You may review, correct and/or delete the Personal Informationthat is stored in your (and if you are a parent, your child’s) user account on this Web site by visiting <https://www.hachettebookgroup.com/enewsletters> or by e-mailing [privacy@hbgusa.com](mailto:privacy@hbgusa.com).  If you make this request by e-mail, we will send you a copy of the Personal Information we have on file in your (or your child’s) user account (if any).  You may send us new or updated information at any time, or request that we delete the Personal Information we have in our records about your child, or request that we no longer collect Personal Information from your child.  We will endeavor to respond to your request to access, update or delete your information as soon as practicable.  Before we are able to provide you with any information, correct any inaccuracies or delete any information, however, we may ask you to verify your identity and to provide other details to help us to respond to your request.
 
 ### Security
 
@@ -268,8 +268,8 @@ HBG reserves the right to change or update this Privacy Policy, or any other of 
 If you have any questions or comments regarding our privacy practices, you may contact us at:
 
 Hachette Book Group  
-237 Park Avenue   
-New York, NY 10017  
+1290 Avenue of the Americas  
+New York, NY 10104  
 (800) 759-0190
 
 Or email us at: [Privacy@hbgusa.com](mailto:Privacy@hbgusa.com)
