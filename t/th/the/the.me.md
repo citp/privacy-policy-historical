@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the the.me privacy policy that was archived on 2015-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150418012840id_/http%3A//the.me/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the the.me privacy policy that was archived on 2015-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151219210808id_/http%3A//the.me/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | THEME
 
@@ -38,18 +38,15 @@ Google’s use of the DART cookie enables it to serve ads to users based on thei
 
 Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at <http://www.google.com/privacy_ads.html>.
 
-Some of our advertising partners may use cookies and Web beacons on our site. Our advertising partners include:
+Some of our advertising partners may use cookies and Web beacons on our site. Our advertising partners include, among others:
 
 Google AdSense  
+Media.net  
 eBay  
 Amazon  
-BuySellAds  
 B&H  
 Adorama  
-DigitalRev  
-Sony  
-Olympus  
-Disqus
+DigitalRev
 
 These and possibly other third party ad servers or ad networks use technology to the advertisements and links that appear on [www.the.me](http://the.me/) send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies (such as cookies, JavaScript or Web beacons) may also be used by the third party ad networks to measure the effectiveness of their advertisements and/or to personalize the advertising content that you see.
 
