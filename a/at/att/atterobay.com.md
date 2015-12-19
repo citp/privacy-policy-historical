@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the atterobay.com privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612003648id_/http%3A//www.atterobay.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the atterobay.com privacy policy that was archived on 2015-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151219055040id_/http%3A//www.atterobay.com/privacy-policy) for the most accurate reproduction.*
 
-# Atterobay-Sell Used Mobile Phones| Recycle Mobile Phones In India
+# Atterobay Privacy Policy
 
 Attero takes your privacy seriously. Your personal information will not be sold or otherwise distributed to third parties without your consent. Attero is not a source of unsolicited email.  
 ---  
 **What Our Privacy Policy Covers**  
-This policy covers what personal information Attero Recycling collects, how that information is collected and why we need it. Personal information is information about you that is personally identifiable like your name, address, email address, or phone number, and that is not otherwise publicly available. This policy does not cover the practices of companies other than Attero Recycling or people who are not employed or managed by Attero Recycling. Third party sites provide the services listed on Attero and these sites have their own privacy statements and are not covered by this policy.   
+This policy covers what personal information Attero Recycling collects, how that information is collected and why we need it. Personal information is information about you that is personally identifiable like your name, address, email address, or phone number, and that is not otherwise publicly available. This policy does not cover the practices of companies other than Attero Recycling or people who are not employed or managed by Attero Recycling. Third party sites provide the services listed on Attero and these sites have their own privacy statements and are not covered by this policy.  
 **What Information We Collect and How We Use It**  
 Providing your email address to Attero Recycling is optional and used solely to update you with new products and services that our site has to offer, or to respond to the queries you have sent.
 
