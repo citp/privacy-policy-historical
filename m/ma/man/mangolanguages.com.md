@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mangolanguages.com privacy policy that was archived on 2015-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150621011000id_/http%3A//mangolanguages.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mangolanguages.com privacy policy that was archived on 2015-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151219020726id_/http%3A//www.mangolanguages.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -32,13 +32,13 @@ Except as otherwise stated in this Policy, we do not sell, trade or rent your Pe
 
 ## 4\. HOW CAN YOU UPDATE OR CORRECT YOUR PERSONALLY IDENTIFIABLE INFORMATION?
 
-If you would like to review or revise information that you previously provided to us, you may access your information in the “My Account” or other applicable section of the Site. You can also deactivate or delete your account on your account setting page within the applicable Site. A customer service representative can also assist you in making any changes, as well as in exercising your right to have your personal information corrected or deleted. If you need additional assistance, please contact us at customercare@mangolanguage.com. You can expect a response from us within approximately ten (10) calendar days. Please be advised that you cannot change your username without re-registering. Please note, that because we keep track of past purchases, you cannot delete information associated with past purchases. Note that we may retain changed or deleted information for archival or other purposes.
+If you would like to review or revise information that you previously provided to us, you may access your information in the “My Account” or other applicable section of the Site. You can also deactivate or delete your profile on your profile setting page within the applicable Site. A customer service representative can also assist you in making any changes, as well as in exercising your right to have your personal information corrected or deleted. If you need additional assistance, please contact us at customercare@mangolanguage.com. You can expect a response from us within approximately ten (10) calendar days. Please be advised that you cannot change your username without re-registering. Please note, that because we keep track of past purchases, you cannot delete information associated with past purchases. Note that we may retain changed or deleted information for archival or other purposes.
 
 ## 5\. WHAT SECURITY PRECAUTIONS ARE IN PLACE TO PROTECT AGAINST THE LOSS, MISUSE OR ALTERATION OF YOUR INFORMATION?
 
 The security of your personal information is of utmost important to us. You should be aware that there is always some risk involved in transmitting information over the Internet. We follow generally accepted industry standards to help protect your personal information. We employ reasonable security measures to protect the security of the information you submit to us. For instance, when you enter sensitive information (such as a credit card number) on our registration or order forms, we encrypt that information using secure socket layer (SSL) technology. Our secure servers protect this information using password protection and advanced encryption, and we may use firewall technology for additional protection. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to protect your personal information, we cannot guarantee its absolute security.
 
-If a password is used to protect your account and personal information, it is your responsibility to keep your password confidential.
+If a password is used to protect your profile and personal information, it is your responsibility to keep your password confidential.
 
 ## 6\. FORUMS & OTHER INTERACTIVE SERVICES.
 
