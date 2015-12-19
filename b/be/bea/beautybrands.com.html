@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the beautybrands.com privacy policy that was archived on 2015-05-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150508040147id_/http%3A//www.beautybrands.com/category/customer%2Bservice/privacy%2Band%2Bsecurity.do) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the beautybrands.com privacy policy that was archived on 2015-12-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151219211343id_/http%3A//www.beautybrands.com/category/customer%2Bservice/privacy%2Band%2Bsecurity.do) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
         
@@ -62,7 +62,7 @@
     var axel = Math.random() + "";
     var a = axel * 10000000000000;
     document.write('<iframe src="http://fls.doubleclick.net/activityi;src=1752021;type=ecomm137;cat=ecomm980;ord=' + a + '?" width="1" height="1" frameborder="0"></iframe>');
-    </script><script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head><body class="main"><iframe src="http://fls.doubleclick.net/activityi;src=1752021;type=ecomm137;cat=ecomm980;ord=5037198619209.645?" width="1" height="1" frameborder="0"></iframe>
+    </script><script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head><body class="main"><iframe src="http://fls.doubleclick.net/activityi;src=1752021;type=ecomm137;cat=ecomm980;ord=2465257120250.2104?" width="1" height="1" frameborder="0"></iframe>
     <noscript>
     <iframe src="http://fls.doubleclick.net/activityi;src=1752021;type=ecomm137;cat=ecomm980;ord=1?" width="1" height="1" frameborder="0"></iframe>
     </noscript>
@@ -257,7 +257,7 @@
 
 <!-- MyBuys libraries and style sheet - Place in <head> element -->
 <link href="http://t.p.mybuys.com/css/mbstyles.css" type="text/css" rel="stylesheet" id="mybuysstyles">
-<script type="text/javascript" src="http://t.p.mybuys.com/js/mybuys3.js">
+<script type="text/javascript" src="http://t.p.mybuys.com/js/mybuys4.js">
 </script>
 <script type="text/javascript" src="http://t.p.mybuys.com/clients/BEAUTYBRANDS/js/setup.js">
 </script>
@@ -733,7 +733,7 @@ pr_style_sheet='/pr/pr_styles_over.css';
 
 
 	
-	Free shipping on all orders over $50  							
+	<img class="mlfsimg" border="0" src="/images/set_a/en_us/local/fillslots/home_fills/2015/Wks44-47/SHIPPING-BAR.JPG">  							
 	
 
 
@@ -852,7 +852,7 @@ pr_style_sheet='/pr/pr_styles_over.css';
 
 
 	
-	   							
+	<img class="mlfsimg" border="0" src="/images/set_a/en_us/local/fillslots/transparentspacer.jpg">  							
 	
 
 
@@ -872,9 +872,9 @@ pr_style_sheet='/pr/pr_styles_over.css';
 				store locations
 			</a>
 		</li>
-		<li><a href="/jump.do?itemID=5&amp;itemType=LANDING&amp;page=GIFT_CARDS" onclick="_gaq.push(['_trackEvent', 'Global Header Link', 'Gift Cards - Link Click', 'Gift Cards']);">
-				gift cards
-			</a> 
+		<li><a href="/category/salon+services/book+appointment.do" onclick="_gaq.push(['_trackEvent', 'Global Header Link', 'Store Locations - Link Click', 'Store Locations']);">
+				book appointment
+			</a>
 		</li>
 		<li><a href="/jump.do?itemID=5&amp;itemType=LANDING&amp;beautybrands=offers" onclick="_gaq.push(['_trackEvent', 'Global Header Link', 'Limited Time Offers - Link Click', 'Limited Time Offers']);">
 				limited time offers
@@ -884,7 +884,7 @@ pr_style_sheet='/pr/pr_styles_over.css';
 	
 	<a id="site-logo" href="/">
 		
-			<img src="http://images.beautybrands.com/images/set_a/en_us/global/globalnav/siterefresh/beautybrands_logo.png" border="0" alt="beautybrands.com" height="77" width="190">
+			<img src="/images/set_a/en_us/global/globalnav/siterefresh/beautybrands_logo.png" border="0" alt="beautybrands.com" height="77" width="190">
 		
 	</a>
 	
@@ -1067,6 +1067,14 @@ pr_style_sheet='/pr/pr_styles_over.css';
 
 var expandOnSummaryHoverAction = true;
 var expandOnLoadAction = false;
+<!-- Begin SC-2015-23686 show the Global Cart FillSlot if it is hidden  -->
+function showGlobalBasketFillSlot(){
+	if (jQuery("div.globalCartLastItemAddedFillSlot").css('display') == 'none'){
+		jQuery("div.globalCartLastItemAddedFillSlot").show();
+	};
+	readyToInit=true;
+}
+<!-- End SC-2015-23686 show the Global Cart FillSlot if it is hidden  -->
 
 function closeGlobalBasket(jqueryWrapper)
 {
@@ -1113,8 +1121,7 @@ function showGlobalBasket()
 }
 
 function adjustGlobalCartLayout() {
-    // if expandOnSummaryHoverAction = true, use popDown plugin to expand on mouseover on summary
-       
+    // if expandOnSummaryHoverAction = true, use popDown plugin to expand on mouseover on summary      
     if (!expandOnSummaryHoverAction && !expandOnLoadAction) {
     	jQuery(this).find(".popDownNav").click(function(){location.href="/basket.do?nav=%2Fcategory%2Fid%2F202"});
     }
@@ -1159,7 +1166,7 @@ function adjustGlobalCartLayout() {
 
 <div id="globalBasket" class="popDownWrapper globalCartWrapper">
   <div class="popDownNav globalCartNav">
-    <div class="globalCartBasketImg"><img src="http://images.beautybrands.com/images/set_a/en_us/global/globalgraphics/basketicon.gif" border="0" alt="Shopping" basket=""></div>
+    <div class="globalCartBasketImg"><img src="/images/set_a/en_us/global/globalgraphics/basketicon.gif" border="0" alt="Shopping" basket=""></div>
     <div class="globalCartBasketInfo"><span class="GlobalCartRighttext"><b>your bag:</b></span><span class="navQty"><b>0</b> items</span> <span class="navTotal"><b>$0.00</b></span></div>
   </div>
 
@@ -1168,6 +1175,9 @@ function adjustGlobalCartLayout() {
 	
       
         <div class="globalCartEmpty">your shopping bag is empty</div>
+        <script type="text/javascript">
+				jQuery(document).ready(showGlobalBasketFillSlot); 
+		</script>
       
 
       
@@ -1302,7 +1312,7 @@ function adjustGlobalCartLayout() {
 
 
     <a href="/basket.do">
-<img width="225" height="101" border="0" src="http://images.beautybrands.com/images//set_a/en_us/local/landing pages/Coupons/2015/W11-14/bag-coupon.jpg"> 
+<img src="/images/set_a/en_us/local/landing pages/Coupons/2015/W44-47/W44-bag-banner-FNL.jpg"> 
 </a>
 
 
@@ -1316,7 +1326,7 @@ function adjustGlobalCartLayout() {
 	
 	<div id="search-select-wrapper">
 		<div id="navsearchboxwrapper">
-		<form id="search-brand" name="searchForm" method="post" action="http://www.beautybrands.com/search.do" onsubmit="document.searchForm.pageName.value=getVariableValue('pageName');return checkKeyword(this.keyword);">
+		<form id="search-brand" name="searchForm" method="post" action="//www.beautybrands.com/search.do" onsubmit="document.searchForm.pageName.value=getVariableValue('pageName');return checkKeyword(this.keyword);">
 			<!-- hidden field that will be set to the value of the pageName variable, for Omniture reporting, when the "Search" button is clicked -->
 			<input type="hidden" name="pageName" value="">
 			<fieldset>
@@ -1451,12 +1461,12 @@ function adjustGlobalCartLayout() {
 				  BROCATO              
 				</option>
 			
-				<option value="/category/brands/brushlab.do">
-				  BrushLab              
-				</option>
-			
 				<option value="/category/brands/butter+london.do">
 				  butter LONDON              
+				</option>
+			
+				<option value="/category/brands/bvlgari.do">
+				  BVLGARI              
 				</option>
 			
 				<option value="/category/brands/calvin+klein.do">
@@ -1469,10 +1479,6 @@ function adjustGlobalCartLayout() {
 			
 				<option value="/category/brands/china+glaze.do">
 				  China Glaze              
-				</option>
-			
-				<option value="/category/brands/circle+of+friends.do">
-				  Circle of Friends              
 				</option>
 			
 				<option value="/category/brands/clarisonic.do">
@@ -1535,6 +1541,10 @@ function adjustGlobalCartLayout() {
 				  DuWop              
 				</option>
 			
+				<option value="/category/brands/ecru+new+york.do">
+				  ECRU New York              
+				</option>
+			
 				<option value="/category/brands/enjoy.do">
 				  Enjoy              
 				</option>
@@ -1563,6 +1573,10 @@ function adjustGlobalCartLayout() {
 				  Fran Wilson              
 				</option>
 			
+				<option value="/category/brands/fromm.do">
+				  FROMM              
+				</option>
+			
 				<option value="/category/brands/fusion+tools.do">
 				  FUSION Tools              
 				</option>
@@ -1589,10 +1603,6 @@ function adjustGlobalCartLayout() {
 			
 				<option value="/category/brands/greyfree.do">
 				  GreyFree              
-				</option>
-			
-				<option value="/category/brands/h2o.do">
-				  H2O Plus              
 				</option>
 			
 				<option value="/category/brands/helen+of+troy.do">
@@ -1675,16 +1685,12 @@ function adjustGlobalCartLayout() {
 				  L'Occitane              
 				</option>
 			
-				<option value="/category/brands/laura+geller+beauty.do">
-				  Laura Geller Beauty              
-				</option>
-			
-				<option value="/category/brands/luxhair.do">
-				  LUXHAIR              
+				<option value="/category/brands/laura+geller+.do">
+				  Laura Geller               
 				</option>
 			
 				<option value="/category/brands/macadamianaturaloil.do">
-				  Macadamia Natural Oil              
+				  Macadamia Professional              
 				</option>
 			
 				<option value="/category/brands/mai+couture.do">
@@ -1775,8 +1781,16 @@ function adjustGlobalCartLayout() {
 				  OPI              
 				</option>
 			
-				<option value="/category/brands/paris+presents.do">
-				  Paris Presents              
+				<option value="/category/brands/origins.do">
+				  Origins              
+				</option>
+			
+				<option value="/category/brands/orly+.do">
+				  Orly               
+				</option>
+			
+				<option value="/category/brands/ouidad.do">
+				  Ouidad              
 				</option>
 			
 				<option value="/category/brands/paulmitchell.do">
@@ -1799,8 +1813,8 @@ function adjustGlobalCartLayout() {
 				  philosophy              
 				</option>
 			
-				<option value="/category/brands/pink+pewter.do">
-				  Pink Pewter              
+				<option value="/category/brands/phyto.do">
+				  PHYTO              
 				</option>
 			
 				<option value="/category/brands/poshe.do">
@@ -1903,12 +1917,20 @@ function adjustGlobalCartLayout() {
 				  Style Link              
 				</option>
 			
+				<option value="/category/brands/sultra.do">
+				  Sultra              
+				</option>
+			
 				<option value="/category/brands/supergoop%21.do">
 				  Supergoop!              
 				</option>
 			
 				<option value="/category/brands/t3.do">
 				  T3              
+				</option>
+			
+				<option value="/category/brands/tangle+teezer.do">
+				  Tangle Teezer              
 				</option>
 			
 				<option value="/category/brands/tantowel.do">
@@ -1937,6 +1959,10 @@ function adjustGlobalCartLayout() {
 			
 				<option value="/category/brands/tigi.do">
 				  TIGI              
+				</option>
+			
+				<option value="/category/brands/tocca.do">
+				  TOCCA              
 				</option>
 			
 				<option value="/category/brands/tommy+bahama.do">
@@ -2282,8 +2308,8 @@ function adjustGlobalCartLayout() {
 										
 									</span></a>
 								</div>
-								<ul class="flatCatsUL" style="float: none; width: 27em; display: none; visibility: hidden;"><li style="white-space: normal; float: left; width: 100%;"><div class="flatCats" id="flatCatMenu_6"><div class="flatCat"><div class="flatCatSnippet">shop by category</div><div><a href="http://www.beautybrands.com/category/makeup/face.do">Face</a></div><div><a href="http://www.beautybrands.com/category/makeup/eye.do">Eye</a></div><div><a href="http://www.beautybrands.com/category/makeup/lip.do">Lip</a></div><div><a href="http://www.beautybrands.com/category/makeup/brushes+%26+tools.do">Brushes &amp; Tools</a></div><div><a href="http://www.beautybrands.com/category/makeup/body+%26+camouflage+makeup.do">Body &amp; Camouflage Makeup</a></div><div><a href="http://www.beautybrands.com/category/makeup/makeup+removers.do">Makeup Removers</a></div><div><a href="http://www.beautybrands.com/category/makeup/sets.do">Sets</a></div><div><a href="http://www.beautybrands.com/category/makeup/cosmetic+bags.do">Cosmetic Bags</a></div></div><div class="flatCat"><div class="flatCatSnippet">top brands</div><div><a href="http://www.beautybrands.com/category/makeup/butter+london.do">butter LONDON</a></div><div><a href="http://www.beautybrands.com/category/makeup/kco+colors+by+beauty+brands.do">KCO Colors by beauty brands</a></div><div><a href="http://www.beautybrands.com/category/makeup/laura+geller+beauty.do">Laura Geller Beauty</a></div><div><a href="http://www.beautybrands.com/category/makeup/per-fekt.do">Per-fekt</a></div><div><a href="http://www.beautybrands.com/category/makeup/smashbox.do">Smashbox</a></div><div><a href="http://www.beautybrands.com/category/makeup/stila.do">Stila</a></div><div><a href="http://www.beautybrands.com/category/makeup/tarte.do">Tarte</a></div><div><a href="http://www.beautybrands.com/category/makeup/too+faced.do">Too Faced</a></div></div><div class="flatCat"><div class="flatCatSnippet">sale</div><div><a href="http://www.beautybrands.com/category/makeup/view+all+sale.do">View All Sale</a></div></div><div class="flatCatsClear"></div><div class="flatCatPromos"><a href="/category/brands/laura+geller+beauty.do?pp=24&amp;sortby=newArrivals&amp;sortType=1">
-<img width="747" height="125" border="0" src="/images/set_a/en_us/local/fillslots/cat_fills/2015/Weeks 11-14/LG-GWP.jpg"> 
+								<ul class="flatCatsUL" style="float: none; width: 27em; display: none; visibility: hidden;"><li style="white-space: normal; float: left; width: 100%;"><div class="flatCats" id="flatCatMenu_6"><div class="flatCat"><div class="flatCatSnippet">shop by category</div><div><a href="http://www.beautybrands.com/category/makeup/face.do">Face</a></div><div><a href="http://www.beautybrands.com/category/makeup/eye.do">Eye</a></div><div><a href="http://www.beautybrands.com/category/makeup/lip.do">Lip</a></div><div><a href="http://www.beautybrands.com/category/makeup/brushes+%26+tools.do">Brushes &amp; Tools</a></div><div><a href="http://www.beautybrands.com/category/makeup/body+%26+camouflage+makeup.do">Body &amp; Camouflage Makeup</a></div><div><a href="http://www.beautybrands.com/category/makeup/makeup+removers.do">Makeup Removers</a></div><div><a href="http://www.beautybrands.com/category/makeup/sets.do">Sets</a></div><div><a href="http://www.beautybrands.com/category/makeup/cosmetic+bags.do">Cosmetic Bags</a></div></div><div class="flatCat"><div class="flatCatSnippet">top brands</div><div><a href="http://www.beautybrands.com/category/makeup/kco+colors+by+beauty+brands.do">KCO Colors by beauty brands</a></div><div><a href="http://www.beautybrands.com/category/makeup/laura+geller+beauty.do">Laura Geller Beauty</a></div><div><a href="http://www.beautybrands.com/category/makeup/per-fekt.do">Per-fekt</a></div><div><a href="http://www.beautybrands.com/category/makeup/smashbox.do">Smashbox</a></div><div><a href="http://www.beautybrands.com/category/makeup/stila.do">Stila</a></div><div><a href="http://www.beautybrands.com/category/makeup/tarte.do">Tarte</a></div><div><a href="http://www.beautybrands.com/category/makeup/too+faced.do">Too Faced</a></div></div><div class="flatCat"><div class="flatCatSnippet">sale</div><div><a href="http://www.beautybrands.com/category/makeup/view+all+sale.do">View All Sale</a></div></div><div class="flatCatsClear"></div><div class="flatCatPromos"><a href="/category/makeup/laura+geller+beauty.do">
+<img width="747" height="125" border="0" src="/images/set_a/en_us/local/fillslots/cat_fills/2015/Weeks 44-47/cat-LAG-GWP.jpg"> 
 </a></div><div class="flatCatsClear"></div></div></li></ul></li><li>
 								<div id="tnc_9">
 									<a class="sf-top-level-link" href="http://www.beautybrands.com/category/skincare.do" id="tn_9"><span>
@@ -2295,8 +2321,8 @@ function adjustGlobalCartLayout() {
 										
 									</span></a>
 								</div>
-								<ul class="flatCatsUL" style="float: none; width: 27em; display: none; visibility: hidden;"><li style="white-space: normal; float: left; width: 100%;"><div class="flatCats" id="flatCatMenu_9"><div class="flatCat"><div class="flatCatSnippet">shop by category</div><div><a href="http://www.beautybrands.com/category/skincare/cleansers.do">Cleansers</a></div><div><a href="http://www.beautybrands.com/category/skincare/toners.do">Toners</a></div><div><a href="http://www.beautybrands.com/category/skincare/moisturizers.do">Moisturizers</a></div><div><a href="http://www.beautybrands.com/category/skincare/treatments.do">Treatments</a></div><div><a href="http://www.beautybrands.com/category/skincare/sun+care.do">Sun Care</a></div><div><a href="http://www.beautybrands.com/category/skincare/self+tanner.do">Self Tanner</a></div><div><a href="http://www.beautybrands.com/category/skincare/hair+removal.do">Hair Removal</a></div><div><a href="http://www.beautybrands.com/category/skincare/skincare+tools.do">Skincare Tools</a></div><div><a href="http://www.beautybrands.com/category/skincare/makeup+removers.do">Makeup Removers</a></div><div><a href="http://www.beautybrands.com/category/skincare/peels.do">Peels</a></div><div><a href="http://www.beautybrands.com/category/skincare/travel.do">Travel</a></div><div><a href="http://www.beautybrands.com/category/skincare/sets.do">Sets</a></div></div><div class="flatCat"><div class="flatCatSnippet">skin concerns</div><div><a href="http://www.beautybrands.com/category/skincare/acne.do">Acne</a></div><div><a href="http://www.beautybrands.com/category/skincare/anti-aging.do">Anti-Aging</a></div><div><a href="http://www.beautybrands.com/category/skincare/uneven+skintone.do">Uneven Skintone</a></div><div><a href="http://www.beautybrands.com/category/skincare/dry+skin.do">Dry Skin</a></div><div><a href="http://www.beautybrands.com/category/skincare/oily+skin.do">Oily Skin</a></div><div><a href="http://www.beautybrands.com/category/skincare/sun+damage.do">Sun Damage</a></div></div><div class="flatCat"><div class="flatCatSnippet">top brands</div><div><a href="http://www.beautybrands.com/category/skincare/bliss.do">bliss</a></div><div><a href="http://www.beautybrands.com/category/skincare/clarisonic.do">Clarisonic</a></div><div><a href="http://www.beautybrands.com/category/skincare/dermalogica.do">Dermalogica</a></div><div><a href="http://www.beautybrands.com/category/skincare/dr.+brandt.do">Dr. Brandt</a></div><div><a href="http://www.beautybrands.com/category/skincare/first+aid+beauty.do">First Aid Beauty</a></div><div><a href="http://www.beautybrands.com/category/skincare/h2o+plus.do">H2O Plus</a></div><div><a href="http://www.beautybrands.com/category/skincare/murad.do">Murad</a></div><div><a href="http://www.beautybrands.com/category/skincare/peter+thomas+roth.do">Peter Thomas Roth</a></div><div><a href="http://www.beautybrands.com/category/skincare/philosophy.do">philosophy</a></div><div><a href="http://www.beautybrands.com/category/skincare/st.+tropez.do">St. Tropez</a></div></div><div class="flatCat"><div class="flatCatSnippet">sale</div><div><a href="http://www.beautybrands.com/category/skincare/view+all+sale.do">View All Sale</a></div></div><div class="flatCatsClear"></div><div class="flatCatPromos"><a href="/category/skincare/clarisonic.do">
-<img width="747" height="125" border="0" src="/images/set_a/en_us/local/fillslots/cat_fills/2015/Weeks 11-14/CLARISONIC.jpg"> 
+								<ul class="flatCatsUL" style="float: none; width: 27em; display: none; visibility: hidden;"><li style="white-space: normal; float: left; width: 100%;"><div class="flatCats" id="flatCatMenu_9"><div class="flatCat"><div class="flatCatSnippet">shop by category</div><div><a href="http://www.beautybrands.com/category/skincare/cleansers.do">Cleansers</a></div><div><a href="http://www.beautybrands.com/category/skincare/toners.do">Toners</a></div><div><a href="http://www.beautybrands.com/category/skincare/moisturizers.do">Moisturizers</a></div><div><a href="http://www.beautybrands.com/category/skincare/treatments.do">Treatments</a></div><div><a href="http://www.beautybrands.com/category/skincare/sun+care.do">Sun Care</a></div><div><a href="http://www.beautybrands.com/category/skincare/self+tanner.do">Self Tanner</a></div><div><a href="http://www.beautybrands.com/category/skincare/hair+removal.do">Hair Removal</a></div><div><a href="http://www.beautybrands.com/category/skincare/skincare+tools.do">Skincare Tools</a></div><div><a href="http://www.beautybrands.com/category/skincare/makeup+removers.do">Makeup Removers</a></div><div><a href="http://www.beautybrands.com/category/skincare/peels.do">Peels</a></div><div><a href="http://www.beautybrands.com/category/skincare/travel.do">Travel</a></div><div><a href="http://www.beautybrands.com/category/skincare/sets.do">Sets</a></div></div><div class="flatCat"><div class="flatCatSnippet">skin concerns</div><div><a href="http://www.beautybrands.com/category/skincare/acne.do">Acne</a></div><div><a href="http://www.beautybrands.com/category/skincare/anti-aging.do">Anti-Aging</a></div><div><a href="http://www.beautybrands.com/category/skincare/uneven+skintone.do">Uneven Skintone</a></div><div><a href="http://www.beautybrands.com/category/skincare/dry+skin.do">Dry Skin</a></div><div><a href="http://www.beautybrands.com/category/skincare/oily+skin.do">Oily Skin</a></div><div><a href="http://www.beautybrands.com/category/skincare/sun+damage.do">Sun Damage</a></div></div><div class="flatCat"><div class="flatCatSnippet">top brands</div><div><a href="http://www.beautybrands.com/category/skincare/bliss.do">bliss</a></div><div><a href="http://www.beautybrands.com/category/skincare/clarisonic.do">Clarisonic</a></div><div><a href="http://www.beautybrands.com/category/skincare/dermalogica.do">Dermalogica</a></div><div><a href="http://www.beautybrands.com/category/skincare/first+aid+beauty.do">First Aid Beauty</a></div><div><a href="http://www.beautybrands.com/category/skincare/murad.do">Murad</a></div><div><a href="http://www.beautybrands.com/category/skincare/peter+thomas+roth.do">Peter Thomas Roth</a></div><div><a href="http://www.beautybrands.com/category/skincare/philosophy.do">philosophy</a></div><div><a href="http://www.beautybrands.com/category/skincare/strivectin.do">StriVectin</a></div><div><a href="http://www.beautybrands.com/category/skincare/st.+tropez.do">St. Tropez</a></div></div><div class="flatCat"><div class="flatCatSnippet">sale</div><div><a href="http://www.beautybrands.com/category/skincare/view+all+sale.do">View All Sale</a></div></div><div class="flatCatsClear"></div><div class="flatCatPromos"><a href="/category/skincare/philosophy.do">
+<img width="747" height="125" border="0" src="/images/set_a/en_us/local/fillslots/cat_fills/2015/Weeks 44-47/cat-philosophy-gwp.jpg"> 
 </a></div><div class="flatCatsClear"></div></div></li></ul></li><li>
 								<div id="tnc_5">
 									<a class="sf-top-level-link" href="http://www.beautybrands.com/category/hair.do" id="tn_5"><span>
@@ -2308,8 +2334,8 @@ function adjustGlobalCartLayout() {
 										
 									</span></a>
 								</div>
-								<ul class="flatCatsUL" style="float: none; width: 27em; display: none; visibility: hidden;"><li style="white-space: normal; float: left; width: 100%;"><div class="flatCats" id="flatCatMenu_5"><div class="flatCat"><div class="flatCatSnippet">shop by category</div><div><a href="http://www.beautybrands.com/category/hair/shampoo.do">Shampoo</a></div><div><a href="http://www.beautybrands.com/category/hair/conditioner.do">Conditioner</a></div><div><a href="http://www.beautybrands.com/category/hair/styling+aids.do">Styling Aids</a></div><div><a href="http://www.beautybrands.com/category/hair/hairspray.do">Hairspray</a></div><div><a href="http://www.beautybrands.com/category/hair/oil+and+serum.do">Oil and Serum</a></div><div><a href="http://www.beautybrands.com/category/hair/thermal+spray.do">Thermal Spray</a></div><div><a href="http://www.beautybrands.com/category/hair/dry+shampoo.do">Dry Shampoo</a></div><div><a href="http://www.beautybrands.com/category/hair/root+touch-up.do">Root Touch-Up</a></div><div><a href="http://www.beautybrands.com/category/hair/men.do">Men</a></div><div><a href="http://www.beautybrands.com/category/hair/kids.do">Kids</a></div><div><a href="http://www.beautybrands.com/category/hair/travel.do">Travel</a></div><div><a href="http://www.beautybrands.com/category/hair/sets.do">Sets</a></div><div><a href="http://www.beautybrands.com/category/hair/accessories.do">Accessories</a></div><div><a href="http://www.beautybrands.com/category/hair/liter-size.do">Liter-Size</a></div></div><div class="flatCat"><div class="flatCatSnippet">hair concerns</div><div><a href="http://www.beautybrands.com/category/hair/color+treated.do">Color Treated</a></div><div><a href="http://www.beautybrands.com/category/hair/curly.do">Curly</a></div><div><a href="http://www.beautybrands.com/category/hair/damaged.do">Damaged</a></div><div><a href="http://www.beautybrands.com/category/hair/dry.do">Dry</a></div><div><a href="http://www.beautybrands.com/category/hair/dull.do">Dull</a></div><div><a href="http://www.beautybrands.com/category/hair/fine.do">Fine</a></div><div><a href="http://www.beautybrands.com/category/hair/frizzy.do">Frizzy</a></div><div><a href="http://www.beautybrands.com/category/hair/moisture.do">Moisture</a></div><div><a href="http://www.beautybrands.com/category/hair/thinning.do">Thinning</a></div><div><a href="http://www.beautybrands.com/category/hair/volume.do">Volume</a></div></div><div class="flatCat"><div class="flatCatSnippet">top brands</div><div><a href="http://www.beautybrands.com/category/hair/redken.do">Redken</a></div><div><a href="http://www.beautybrands.com/category/hair/biolage.do">Biolage</a></div><div><a href="http://www.beautybrands.com/category/hair/kenra.do">Kenra</a></div><div><a href="http://www.beautybrands.com/category/hair/tigi.do">TIGI</a></div><div><a href="http://www.beautybrands.com/category/hair/pureology.do">Pureology</a></div><div><a href="http://www.beautybrands.com/category/hair/sexy+hair.do">Sexy Hair</a></div><div><a href="http://www.beautybrands.com/category/hair/moroccanoil.do">Moroccanoil</a></div><div><a href="http://www.beautybrands.com/category/hair/hempz.do">Hempz</a></div><div><a href="http://www.beautybrands.com/category/hair/sebastian.do">Sebastian</a></div><div><a href="http://www.beautybrands.com/category/hair/nioxin.do">NIOXIN</a></div></div><div class="flatCat"><div class="flatCatSnippet">sale</div><div><a href="http://www.beautybrands.com/category/hair/%2410+haircare.do">$10 Haircare</a></div><div><a href="http://www.beautybrands.com/category/hair/view+all+sale.do">View All Sale</a></div></div><div class="flatCatsClear"></div><div class="flatCatPromos"><a href="/category/hair/%2410+haircare.do?pp=24&amp;sortby=nameAscend&amp;sortType=1">
-<img width="747" height="125" border="0" src="/images/set_a/en_us/local/fillslots/cat_fills/2015/Weeks 11-14/BIOLAGE.jpg"> 
+								<ul class="flatCatsUL" style="float: none; width: 27em; display: none; visibility: hidden;"><li style="white-space: normal; float: left; width: 100%;"><div class="flatCats" id="flatCatMenu_5"><div class="flatCat"><div class="flatCatSnippet">shop by category</div><div><a href="http://www.beautybrands.com/category/hair/shampoo.do">Shampoo</a></div><div><a href="http://www.beautybrands.com/category/hair/conditioner.do">Conditioner</a></div><div><a href="http://www.beautybrands.com/category/hair/styling+aids.do">Styling Aids</a></div><div><a href="http://www.beautybrands.com/category/hair/hairspray.do">Hairspray</a></div><div><a href="http://www.beautybrands.com/category/hair/oil+and+serum.do">Oil and Serum</a></div><div><a href="http://www.beautybrands.com/category/hair/thermal+spray.do">Thermal Spray</a></div><div><a href="http://www.beautybrands.com/category/hair/dry+shampoo.do">Dry Shampoo</a></div><div><a href="http://www.beautybrands.com/category/hair/root+touch-up.do">Root Touch-Up</a></div><div><a href="http://www.beautybrands.com/category/hair/men.do">Men</a></div><div><a href="http://www.beautybrands.com/category/hair/kids.do">Kids</a></div><div><a href="http://www.beautybrands.com/category/hair/travel.do">Travel</a></div><div><a href="http://www.beautybrands.com/category/hair/sets.do">Sets</a></div><div><a href="http://www.beautybrands.com/category/hair/accessories.do">Accessories</a></div></div><div class="flatCat"><div class="flatCatSnippet">hair concerns</div><div><a href="http://www.beautybrands.com/category/hair/color+treated.do">Color Treated</a></div><div><a href="http://www.beautybrands.com/category/hair/curly.do">Curly</a></div><div><a href="http://www.beautybrands.com/category/hair/damaged.do">Damaged</a></div><div><a href="http://www.beautybrands.com/category/hair/dry.do">Dry</a></div><div><a href="http://www.beautybrands.com/category/hair/dull.do">Dull</a></div><div><a href="http://www.beautybrands.com/category/hair/fine.do">Fine</a></div><div><a href="http://www.beautybrands.com/category/hair/frizzy.do">Frizzy</a></div><div><a href="http://www.beautybrands.com/category/hair/moisture.do">Moisture</a></div><div><a href="http://www.beautybrands.com/category/hair/thinning.do">Thinning</a></div><div><a href="http://www.beautybrands.com/category/hair/volume.do">Volume</a></div></div><div class="flatCat"><div class="flatCatSnippet">top brands</div><div><a href="http://www.beautybrands.com/category/hair/redken.do">Redken</a></div><div><a href="http://www.beautybrands.com/category/hair/biolage.do">Biolage</a></div><div><a href="http://www.beautybrands.com/category/hair/kenra.do">Kenra</a></div><div><a href="http://www.beautybrands.com/category/hair/tigi.do">TIGI</a></div><div><a href="http://www.beautybrands.com/category/hair/pureology.do">Pureology</a></div><div><a href="http://www.beautybrands.com/category/hair/sexy+hair.do">Sexy Hair</a></div><div><a href="http://www.beautybrands.com/category/hair/moroccanoil.do">Moroccanoil</a></div><div><a href="http://www.beautybrands.com/category/hair/hempz.do">Hempz</a></div><div><a href="http://www.beautybrands.com/category/hair/sebastian.do">Sebastian</a></div><div><a href="http://www.beautybrands.com/category/hair/nioxin.do">NIOXIN</a></div></div><div class="flatCat"><div class="flatCatSnippet">sale</div><div><a href="http://www.beautybrands.com/category/hair/buy+2%2C+get+1+free.do">Buy 2, Get 1 Free</a></div><div><a href="http://www.beautybrands.com/category/hair/view+all+sale.do">View All Sale</a></div></div><div class="flatCat"><div><a href="http://www.beautybrands.com/category/hair/40-+off+haircare.do">40% Off Haircare</a></div></div><div class="flatCatsClear"></div><div class="flatCatPromos"><a href="/category/hair/40-+off+haircare.do">
+<img width="747" height="125" border="0" src="/images/set_a/en_us/local/fillslots/cat_fills/2015/Weeks 44-47/cat-40-off-haircare.jpg"> 
 </a></div><div class="flatCatsClear"></div></div></li></ul></li><li>
 								<div id="tnc_4">
 									<a class="sf-top-level-link" href="http://www.beautybrands.com/category/bath+body+%26+fragrance.do" id="tn_4"><span>
@@ -2321,8 +2347,8 @@ function adjustGlobalCartLayout() {
 										
 									</span></a>
 								</div>
-								<ul class="flatCatsUL" style="float: none; width: 27em; display: none; visibility: hidden;"><li style="white-space: normal; float: left; width: 100%;"><div class="flatCats" id="flatCatMenu_4"><div class="flatCat"><div class="flatCatSnippet">shop by category</div><div><a href="http://www.beautybrands.com/category/bath+body+%26+fragrance/body+cleansers.do">Body Cleansers</a></div><div><a href="http://www.beautybrands.com/category/bath+body+%26+fragrance/body+moisturizers.do">Body Moisturizers</a></div><div><a href="http://www.beautybrands.com/category/bath+body+%26+fragrance/body+treatments.do">Body Treatments</a></div><div><a href="http://www.beautybrands.com/category/bath+body+%26+fragrance/bath+and+body+sets.do">Bath and Body Sets</a></div><div><a href="http://www.beautybrands.com/category/bath+body+%26+fragrance/bath+and+novelty.do">Bath and Novelty</a></div><div><a href="http://www.beautybrands.com/category/bath+body+%26+fragrance/self+tanner.do">Self Tanner</a></div><div><a href="http://www.beautybrands.com/category/bath+body+%26+fragrance/travel.do">Travel</a></div></div><div class="flatCat"><div class="flatCatSnippet">top brands</div><div><a href="http://www.beautybrands.com/category/bath+body+%26+fragrance/hempz.do">Hempz</a></div><div><a href="http://www.beautybrands.com/category/bath+body+%26+fragrance/simple+sugars.do">Simple Sugars</a></div><div><a href="http://www.beautybrands.com/category/bath+body+%26+fragrance/thymes.do">Thymes</a></div><div><a href="http://www.beautybrands.com/category/bath+body+%26+fragrance/philosophy.do">philosophy</a></div><div><a href="http://www.beautybrands.com/category/bath+body+%26+fragrance/bliss.do">bliss</a></div><div><a href="http://www.beautybrands.com/category/bath+body+%26+fragrance/ahava.do">AHAVA</a></div><div><a href="http://www.beautybrands.com/category/bath+body+%26+fragrance/nest+fragrances.do">NEST Fragrances</a></div></div><div class="flatCat"><div class="flatCatSnippet">sale</div><div><a href="http://www.beautybrands.com/category/bath+body+%26+fragrance/view+all+sale.do">View All Sale</a></div></div><div class="flatCatsClear"></div><div class="flatCatPromos"><a href="/category/brands/hempz/sale.do">
-<img width="747" height="125" border="0" src="/images/set_a/en_us/local/fillslots/cat_fills/2015/Weeks 11-14/HEMPZ-LOTIONS.jpg"> 
+								<ul class="flatCatsUL" style="float: none; width: 27em; display: none; visibility: hidden;"><li style="white-space: normal; float: left; width: 100%;"><div class="flatCats" id="flatCatMenu_4"><div class="flatCat"><div class="flatCatSnippet">shop by category</div><div><a href="http://www.beautybrands.com/category/bath+body+%26+fragrance/body+cleansers.do">Body Cleansers</a></div><div><a href="http://www.beautybrands.com/category/bath+body+%26+fragrance/body+moisturizers.do">Body Moisturizers</a></div><div><a href="http://www.beautybrands.com/category/bath+body+%26+fragrance/body+treatments.do">Body Treatments</a></div><div><a href="http://www.beautybrands.com/category/bath+body+%26+fragrance/bath+and+body+sets.do">Bath and Body Sets</a></div><div><a href="http://www.beautybrands.com/category/bath+body+%26+fragrance/bath+and+novelty.do">Bath and Novelty</a></div><div><a href="http://www.beautybrands.com/category/bath+body+%26+fragrance/self+tanner.do">Self Tanner</a></div><div><a href="http://www.beautybrands.com/category/bath+body+%26+fragrance/travel.do">Travel</a></div></div><div class="flatCat"><div class="flatCatSnippet">top brands</div><div><a href="http://www.beautybrands.com/category/bath+body+%26+fragrance/hempz.do">Hempz</a></div><div><a href="http://www.beautybrands.com/category/bath+body+%26+fragrance/simple+sugars.do">Simple Sugars</a></div><div><a href="http://www.beautybrands.com/category/bath+body+%26+fragrance/st.+tropez.do">St. Tropez</a></div><div><a href="http://www.beautybrands.com/category/bath+body+%26+fragrance/thymes.do">Thymes</a></div><div><a href="http://www.beautybrands.com/category/bath+body+%26+fragrance/vita+liberata.do">Vita Liberata</a></div><div><a href="http://www.beautybrands.com/category/bath+body+%26+fragrance/philosophy.do">philosophy</a></div><div><a href="http://www.beautybrands.com/category/bath+body+%26+fragrance/bliss.do">bliss</a></div><div><a href="http://www.beautybrands.com/category/bath+body+%26+fragrance/ahava.do">AHAVA</a></div><div><a href="http://www.beautybrands.com/category/bath+body+%26+fragrance/nest+fragrances.do">NEST Fragrances</a></div></div><div class="flatCat"><div class="flatCatSnippet">sale</div><div><a href="http://www.beautybrands.com/category/bath+body+%26+fragrance/view+all+sale.do">View All Sale</a></div></div><div class="flatCatsClear"></div><div class="flatCatPromos"><a href="/category/bath+body+%26+fragrance/philosophy.do?pp=24&amp;sortby=newArrivals&amp;sortType=1">
+<img width="747" height="125" border="0" src="/images/set_a/en_us/local/fillslots/cat_fills/2015/Weeks 44-47/cat-philosophy-sets.jpg"> 
 </a></div><div class="flatCatsClear"></div></div></li></ul></li><li>
 								<div id="tnc_21">
 									<a class="sf-top-level-link" href="http://www.beautybrands.com/category/fragrance.do" id="tn_21"><span>
@@ -2334,8 +2360,8 @@ function adjustGlobalCartLayout() {
 										
 									</span></a>
 								</div>
-								<ul class="flatCatsUL" style="float: none; width: 27em; display: none; visibility: hidden;"><li style="white-space: normal; float: left; width: 100%;"><div class="flatCats" id="flatCatMenu_21"><div class="flatCat"><div class="flatCatSnippet">shop by category</div><div><a href="http://www.beautybrands.com/category/fragrance/women%27s.do">Women's</a></div><div><a href="http://www.beautybrands.com/category/fragrance/men%27s.do">Men's</a></div><div><a href="http://www.beautybrands.com/category/fragrance/gift+%26+value+sets.do">Gift &amp; Value Sets</a></div><div><a href="http://www.beautybrands.com/category/fragrance/rollerballs.do">Rollerballs</a></div><div><a href="http://www.beautybrands.com/category/fragrance/sprays+%26+oils.do">Sprays &amp; Oils</a></div><div><a href="http://www.beautybrands.com/category/fragrance/shower+gels.do">Shower Gels</a></div><div><a href="http://www.beautybrands.com/category/fragrance/lotions.do">Lotions</a></div><div><a href="http://www.beautybrands.com/category/fragrance/candles.do">Candles</a></div><div><a href="http://www.beautybrands.com/category/fragrance/diffusers.do">Diffusers</a></div><div><a href="http://www.beautybrands.com/category/fragrance/sprays.do">Sprays</a></div></div><div class="flatCat"><div class="flatCatSnippet">top brands</div><div><a href="http://www.beautybrands.com/category/fragrance/ralph+lauren.do">Ralph Lauren</a></div><div><a href="http://www.beautybrands.com/category/fragrance/philosophy.do">philosophy</a></div><div><a href="http://www.beautybrands.com/category/fragrance/giorgio+armani.do">Giorgio Armani</a></div><div><a href="http://www.beautybrands.com/category/fragrance/michael+kors.do">Michael Kors</a></div><div><a href="http://www.beautybrands.com/category/fragrance/juicy+couture.do">Juicy Couture</a></div><div><a href="http://www.beautybrands.com/category/fragrance/calvin+klein+.do">Calvin Klein </a></div><div><a href="http://www.beautybrands.com/category/fragrance/jimmy+choo.do">Jimmy Choo</a></div><div><a href="http://www.beautybrands.com/category/fragrance/kenneth+cole.do">Kenneth Cole</a></div></div><div class="flatCat"><div class="flatCatSnippet">gifts</div><div><a href="http://www.beautybrands.com/category/fragrance/perfume.do">Perfume</a></div><div><a href="http://www.beautybrands.com/category/fragrance/cologne.do">Cologne</a></div><div><a href="http://www.beautybrands.com/category/fragrance/sets.do">Sets</a></div></div><div class="flatCat"><div class="flatCatSnippet">sale</div><div><a href="http://www.beautybrands.com/category/fragrance/view+all+sale.do">View All Sale</a></div></div><div class="flatCatsClear"></div><div class="flatCatPromos"><a href="/category/fragrance/women%27s.do?pp=24&amp;sortby=newArrivals&amp;sortType=1">
-<img width="747" height="125" border="0" src="/images/set_a/en_us/local/fillslots/cat_fills/2015/Weeks 11-14/WATCH-LARGE-FRAGRANCE.jpg"> 
+								<ul class="flatCatsUL" style="float: none; width: 27em; display: none; visibility: hidden;"><li style="white-space: normal; float: left; width: 100%;"><div class="flatCats" id="flatCatMenu_21"><div class="flatCat"><div class="flatCatSnippet">shop by category</div><div><a href="http://www.beautybrands.com/category/fragrance/women%27s.do">Women's</a></div><div><a href="http://www.beautybrands.com/category/fragrance/men%27s.do">Men's</a></div><div><a href="http://www.beautybrands.com/category/fragrance/gift+%26+value+sets.do">Gift &amp; Value Sets</a></div><div><a href="http://www.beautybrands.com/category/fragrance/rollerballs.do">Rollerballs</a></div><div><a href="http://www.beautybrands.com/category/fragrance/sprays+%26+oils.do">Sprays &amp; Oils</a></div><div><a href="http://www.beautybrands.com/category/fragrance/shower+gels.do">Shower Gels</a></div><div><a href="http://www.beautybrands.com/category/fragrance/lotions.do">Lotions</a></div><div><a href="http://www.beautybrands.com/category/fragrance/candles.do">Candles</a></div><div><a href="http://www.beautybrands.com/category/fragrance/diffusers.do">Diffusers</a></div><div><a href="http://www.beautybrands.com/category/fragrance/sprays.do">Sprays</a></div></div><div class="flatCat"><div class="flatCatSnippet">top brands</div><div><a href="http://www.beautybrands.com/category/fragrance/ralph+lauren.do">Ralph Lauren</a></div><div><a href="http://www.beautybrands.com/category/fragrance/philosophy.do">philosophy</a></div><div><a href="http://www.beautybrands.com/category/fragrance/giorgio+armani.do">Giorgio Armani</a></div><div><a href="http://www.beautybrands.com/category/fragrance/michael+kors.do">Michael Kors</a></div><div><a href="http://www.beautybrands.com/category/fragrance/juicy+couture.do">Juicy Couture</a></div><div><a href="http://www.beautybrands.com/category/fragrance/calvin+klein+.do">Calvin Klein </a></div><div><a href="http://www.beautybrands.com/category/fragrance/jimmy+choo.do">Jimmy Choo</a></div><div><a href="http://www.beautybrands.com/category/fragrance/kenneth+cole.do">Kenneth Cole</a></div></div><div class="flatCat"><div class="flatCatSnippet">gifts</div><div><a href="http://www.beautybrands.com/category/fragrance/perfume.do">Perfume</a></div><div><a href="http://www.beautybrands.com/category/fragrance/cologne.do">Cologne</a></div><div><a href="http://www.beautybrands.com/category/fragrance/sets.do">Sets</a></div></div><div class="flatCat"><div class="flatCatSnippet">sale</div><div><a href="http://www.beautybrands.com/category/fragrance/view+all+sale.do">View All Sale</a></div></div><div class="flatCatsClear"></div><div class="flatCatPromos"><a href="/category/fragrance.do">
+<img width="747" height="125" border="0" src="/images/set_a/en_us/local/fillslots/cat_fills/2015/Weeks 44-47/cat-weekender-bag.jpg"> 
 </a></div><div class="flatCatsClear"></div></div></li></ul></li><li>
 								<div id="tnc_22">
 									<a class="sf-top-level-link" href="http://www.beautybrands.com/category/tools.do" id="tn_22"><span>
@@ -2347,8 +2373,8 @@ function adjustGlobalCartLayout() {
 										
 									</span></a>
 								</div>
-								<ul class="flatCatsUL" style="float: none; width: 27em; display: none; visibility: hidden;"><li style="white-space: normal; float: left; width: 100%;"><div class="flatCats" id="flatCatMenu_22"><div class="flatCat"><div class="flatCatSnippet">shop by category</div><div><a href="http://www.beautybrands.com/category/tools/flat+irons.do">Flat Irons</a></div><div><a href="http://www.beautybrands.com/category/tools/curling+irons.do">Curling Irons</a></div><div><a href="http://www.beautybrands.com/category/tools/blow+dryers.do">Blow Dryers</a></div><div><a href="http://www.beautybrands.com/category/tools/specialty+irons.do">Specialty Irons</a></div><div><a href="http://www.beautybrands.com/category/tools/rollers+%26+hot+roller+sets.do">Rollers &amp; Hot Roller Sets</a></div><div><a href="http://www.beautybrands.com/category/tools/hot+air+brushes+%26+irons.do">Hot Air Brushes &amp; Irons</a></div><div><a href="http://www.beautybrands.com/category/tools/hair+brushes+%26+combs.do">Hair Brushes &amp; Combs</a></div><div><a href="http://www.beautybrands.com/category/tools/hair+removal.do">Hair Removal</a></div><div><a href="http://www.beautybrands.com/category/tools/skincare+tools.do">Skincare Tools</a></div><div><a href="http://www.beautybrands.com/category/tools/mirrors.do">Mirrors</a></div><div><a href="http://www.beautybrands.com/category/tools/nail+tools.do">Nail Tools</a></div><div><a href="http://www.beautybrands.com/category/tools/travel.do">Travel</a></div></div><div class="flatCat"><div class="flatCatSnippet">top brands</div><div><a href="http://www.beautybrands.com/category/tools/amika.do">amika</a></div><div><a href="http://www.beautybrands.com/category/tools/babyliss.do">BaByliss</a></div><div><a href="http://www.beautybrands.com/category/tools/bio+ionic.do">Bio Ionic</a></div><div><a href="http://www.beautybrands.com/category/tools/chi.do">CHI</a></div><div><a href="http://www.beautybrands.com/category/tools/fhi.do">FHI</a></div><div><a href="http://www.beautybrands.com/category/tools/hot+tools.do">Hot Tools</a></div><div><a href="http://www.beautybrands.com/category/tools/instyler.do">InStyler</a></div></div><div class="flatCat"><div class="flatCatSnippet">sale</div><div><a href="http://www.beautybrands.com/category/tools/view+all+sale.do">View All Sale</a></div></div><div class="flatCatsClear"></div><div class="flatCatPromos"><a href="/category/tools/chi.do?pp=24&amp;sortby=newArrivals&amp;sortType=1">
-<img width="747" height="125" border="0" src="/images/set_a/en_us/local/fillslots/cat_fills/2015/Weeks 11-14/CHI.jpg"> 
+								<ul class="flatCatsUL" style="float: none; width: 27em; display: none; visibility: hidden;"><li style="white-space: normal; float: left; width: 100%;"><div class="flatCats" id="flatCatMenu_22"><div class="flatCat"><div class="flatCatSnippet">shop by category</div><div><a href="http://www.beautybrands.com/category/tools/flat+irons.do">Flat Irons</a></div><div><a href="http://www.beautybrands.com/category/tools/curling+irons.do">Curling Irons</a></div><div><a href="http://www.beautybrands.com/category/tools/blow+dryers.do">Blow Dryers</a></div><div><a href="http://www.beautybrands.com/category/tools/specialty+irons.do">Specialty Irons</a></div><div><a href="http://www.beautybrands.com/category/tools/rollers+%26+hot+roller+sets.do">Rollers &amp; Hot Roller Sets</a></div><div><a href="http://www.beautybrands.com/category/tools/hot+air+brushes+%26+irons.do">Hot Air Brushes &amp; Irons</a></div><div><a href="http://www.beautybrands.com/category/tools/hair+brushes+%26+combs.do">Hair Brushes &amp; Combs</a></div><div><a href="http://www.beautybrands.com/category/tools/hair+removal.do">Hair Removal</a></div><div><a href="http://www.beautybrands.com/category/tools/skincare+tools.do">Skincare Tools</a></div><div><a href="http://www.beautybrands.com/category/tools/mirrors.do">Mirrors</a></div><div><a href="http://www.beautybrands.com/category/tools/nail+tools.do">Nail Tools</a></div><div><a href="http://www.beautybrands.com/category/tools/travel.do">Travel</a></div></div><div class="flatCat"><div class="flatCatSnippet">top brands</div><div><a href="http://www.beautybrands.com/category/tools/amika.do">amika</a></div><div><a href="http://www.beautybrands.com/category/tools/babyliss.do">BaByliss</a></div><div><a href="http://www.beautybrands.com/category/tools/chi.do">CHI</a></div><div><a href="http://www.beautybrands.com/category/tools/fhi.do">FHI</a></div><div><a href="http://www.beautybrands.com/category/tools/hot+tools.do">Hot Tools</a></div><div><a href="http://www.beautybrands.com/category/tools/instyler.do">InStyler</a></div></div><div class="flatCat"><div class="flatCatSnippet">sale</div><div><a href="http://www.beautybrands.com/category/tools/view+all+sale.do">View All Sale</a></div></div><div class="flatCatsClear"></div><div class="flatCatPromos"><a href="/category/tools/chi.do?pp=24&amp;sortby=newArrivals&amp;sortType=1">
+<img width="747" height="125" border="0" src="/images/set_a/en_us/local/fillslots/cat_fills/2015/Weeks 44-47/cat-79-99-chi.jpg"> 
 </a></div><div class="flatCatsClear"></div></div></li></ul></li><li>
 								<div id="tnc_8">
 									<a class="sf-top-level-link" href="http://www.beautybrands.com/category/nail.do" id="tn_8"><span>
@@ -2360,8 +2386,8 @@ function adjustGlobalCartLayout() {
 										
 									</span></a>
 								</div>
-								<ul class="flatCatsUL" style="float: none; width: 27em; display: none; visibility: hidden;"><li style="white-space: normal; float: left; width: 100%;"><div class="flatCats" id="flatCatMenu_8"><div class="flatCat"><div class="flatCatSnippet">shop by category</div><div><a href="http://www.beautybrands.com/category/nail/polish.do">Polish</a></div><div><a href="http://www.beautybrands.com/category/nail/base+coat.do">Base Coat</a></div><div><a href="http://www.beautybrands.com/category/nail/top+coat.do">Top Coat</a></div><div><a href="http://www.beautybrands.com/category/nail/strengthener.do">Strengthener</a></div><div><a href="http://www.beautybrands.com/category/nail/remover.do">Remover</a></div><div><a href="http://www.beautybrands.com/category/nail/cuticle.do">Cuticle</a></div><div><a href="http://www.beautybrands.com/category/nail/polish+thinner.do">Polish Thinner</a></div><div><a href="http://www.beautybrands.com/category/nail/files-buffers.do">Files/Buffers</a></div><div><a href="http://www.beautybrands.com/category/nail/treatments.do">Treatments</a></div><div><a href="http://www.beautybrands.com/category/nail/accessories+%26+tools.do">Accessories &amp; Tools</a></div><div><a href="http://www.beautybrands.com/category/nail/travel.do">Travel</a></div><div><a href="http://www.beautybrands.com/category/nail/sets.do">Sets</a></div></div><div class="flatCat"><div class="flatCatSnippet">top brands</div><div><a href="http://www.beautybrands.com/category/nail/butter+london.do">butter LONDON</a></div><div><a href="http://www.beautybrands.com/category/nail/china+glaze.do">China Glaze</a></div><div><a href="http://www.beautybrands.com/category/nail/cnd.do">CND</a></div><div><a href="http://www.beautybrands.com/category/nail/essie.do">essie</a></div><div><a href="http://www.beautybrands.com/category/nail/kco+colors+by+beauty+brands.do">KCO Colors by beauty brands</a></div><div><a href="http://www.beautybrands.com/category/nail/opi.do">OPI</a></div><div><a href="http://www.beautybrands.com/category/nail/seche.do">Seche</a></div></div><div class="flatCat"><div class="flatCatSnippet">sale</div><div><a href="http://www.beautybrands.com/category/nail/view+all+sale.do">View All Sale</a></div></div><div class="flatCatsClear"></div><div class="flatCatPromos"><a href="/category/brands/cnd/polish.do">
-<img width="747" height="125" border="0" src="/images/set_a/en_us/local/fillslots/cat_fills/2015/Weeks 11-14/CND.jpg"> 
+								<ul class="flatCatsUL" style="float: none; width: 27em; display: none; visibility: hidden;"><li style="white-space: normal; float: left; width: 100%;"><div class="flatCats" id="flatCatMenu_8"><div class="flatCat"><div class="flatCatSnippet">shop by category</div><div><a href="http://www.beautybrands.com/category/nail/polish.do">Polish</a></div><div><a href="http://www.beautybrands.com/category/nail/base+coat.do">Base Coat</a></div><div><a href="http://www.beautybrands.com/category/nail/top+coat.do">Top Coat</a></div><div><a href="http://www.beautybrands.com/category/nail/strengthener.do">Strengthener</a></div><div><a href="http://www.beautybrands.com/category/nail/remover.do">Remover</a></div><div><a href="http://www.beautybrands.com/category/nail/cuticle.do">Cuticle</a></div><div><a href="http://www.beautybrands.com/category/nail/polish+thinner.do">Polish Thinner</a></div><div><a href="http://www.beautybrands.com/category/nail/files-buffers.do">Files/Buffers</a></div><div><a href="http://www.beautybrands.com/category/nail/treatments.do">Treatments</a></div><div><a href="http://www.beautybrands.com/category/nail/accessories+%26+tools.do">Accessories &amp; Tools</a></div><div><a href="http://www.beautybrands.com/category/nail/travel.do">Travel</a></div><div><a href="http://www.beautybrands.com/category/nail/sets.do">Sets</a></div></div><div class="flatCat"><div class="flatCatSnippet">top brands</div><div><a href="http://www.beautybrands.com/category/nail/butter+london.do">butter LONDON</a></div><div><a href="http://www.beautybrands.com/category/nail/china+glaze.do">China Glaze</a></div><div><a href="http://www.beautybrands.com/category/nail/cnd.do">CND</a></div><div><a href="http://www.beautybrands.com/category/nail/essie.do">essie</a></div><div><a href="http://www.beautybrands.com/category/nail/kco+colors+by+beauty+brands.do">KCO Colors by beauty brands</a></div><div><a href="http://www.beautybrands.com/category/nail/opi.do">OPI</a></div><div><a href="http://www.beautybrands.com/category/nail/seche.do">Seche</a></div></div><div class="flatCat"><div class="flatCatSnippet">sale</div><div><a href="http://www.beautybrands.com/category/nail/view+all+sale.do">View All Sale</a></div></div><div class="flatCatsClear"></div><div class="flatCatPromos"><a href="/category/nail.do">
+<img width="747" height="125" border="0" src="/images/set_a/en_us/local/fillslots/cat_fills/2015/Weeks 44-47/cat-FREE-KCO-TOPCOAT.jpg"> 
 </a></div><div class="flatCatsClear"></div></div></li></ul></li><li>
 								<div id="tnc_7">
 									<a class="sf-top-level-link" href="http://www.beautybrands.com/category/men.do" id="tn_7"><span>
@@ -2373,8 +2399,8 @@ function adjustGlobalCartLayout() {
 										
 									</span></a>
 								</div>
-								<ul class="flatCatsUL" style="float: none; width: 27em; display: none; visibility: hidden;"><li style="white-space: normal; float: left; width: 100%;"><div class="flatCats" id="flatCatMenu_7"><div class="flatCat"><div class="flatCatSnippet">shop by category</div><div><a href="http://www.beautybrands.com/category/men/haircare.do">Haircare</a></div><div><a href="http://www.beautybrands.com/category/men/hair+removal.do">Hair Removal</a></div><div><a href="http://www.beautybrands.com/category/men/skincare.do">Skincare</a></div><div><a href="http://www.beautybrands.com/category/men/bath+%26+body.do">Bath &amp; Body</a></div><div><a href="http://www.beautybrands.com/category/men/fragrance.do">Fragrance</a></div></div><div class="flatCat"><div class="flatCatSnippet">concerns</div><div><a href="http://www.beautybrands.com/category/men/acne.do">Acne</a></div><div><a href="http://www.beautybrands.com/category/men/anti-aging.do">Anti-Aging</a></div><div><a href="http://www.beautybrands.com/category/men/thinning+hair.do">Thinning Hair</a></div></div><div class="flatCat"><div class="flatCatSnippet">top brands</div><div><a href="http://www.beautybrands.com/category/men/chi.do">CHI</a></div><div><a href="http://www.beautybrands.com/category/men/clarisonic.do">Clarisonic</a></div><div><a href="http://www.beautybrands.com/category/men/nioxin.do">NIOXIN</a></div><div><a href="http://www.beautybrands.com/category/men/redken.do">Redken</a></div><div><a href="http://www.beautybrands.com/category/men/sexy+hair.do">Sexy Hair</a></div><div><a href="http://www.beautybrands.com/category/men/tigi.do">TIGI</a></div><div><a href="http://www.beautybrands.com/category/men/toweldry.do">TOWELDRY</a></div></div><div class="flatCat"><div class="flatCatSnippet">sale</div><div><a href="http://www.beautybrands.com/category/men/view+all+sale.do">View All Sale</a></div></div><div class="flatCatsClear"></div><div class="flatCatPromos"><a href="/category/hair/hempz.do?pp=24&amp;sortby=newArrivals&amp;sortType=1">
-<img width="747" height="125" border="0" src="/images/set_a/en_us/local/fillslots/cat_fills/2015/Weeks 11-14/HEMPZ-HAIRCARE.jpg"> 
+								<ul class="flatCatsUL" style="float: none; width: 27em; display: none; visibility: hidden;"><li style="white-space: normal; float: left; width: 100%;"><div class="flatCats" id="flatCatMenu_7"><div class="flatCat"><div class="flatCatSnippet">shop by category</div><div><a href="http://www.beautybrands.com/category/men/haircare.do">Haircare</a></div><div><a href="http://www.beautybrands.com/category/men/hair+removal.do">Hair Removal</a></div><div><a href="http://www.beautybrands.com/category/men/skincare.do">Skincare</a></div><div><a href="http://www.beautybrands.com/category/men/bath+%26+body.do">Bath &amp; Body</a></div><div><a href="http://www.beautybrands.com/category/men/fragrance.do">Fragrance</a></div></div><div class="flatCat"><div class="flatCatSnippet">concerns</div><div><a href="http://www.beautybrands.com/category/men/acne.do">Acne</a></div><div><a href="http://www.beautybrands.com/category/men/anti-aging.do">Anti-Aging</a></div><div><a href="http://www.beautybrands.com/category/men/thinning+hair.do">Thinning Hair</a></div></div><div class="flatCat"><div class="flatCatSnippet">top brands</div><div><a href="http://www.beautybrands.com/category/men/chi.do">CHI</a></div><div><a href="http://www.beautybrands.com/category/men/clarisonic.do">Clarisonic</a></div><div><a href="http://www.beautybrands.com/category/men/nioxin.do">NIOXIN</a></div><div><a href="http://www.beautybrands.com/category/men/redken.do">Redken</a></div><div><a href="http://www.beautybrands.com/category/men/sexy+hair.do">Sexy Hair</a></div><div><a href="http://www.beautybrands.com/category/men/tigi.do">TIGI</a></div><div><a href="http://www.beautybrands.com/category/men/toweldry.do">TOWELDRY</a></div></div><div class="flatCat"><div class="flatCatSnippet">sale</div><div><a href="http://www.beautybrands.com/category/men/view+all+sale.do">View All Sale</a></div></div><div class="flatCatsClear"></div><div class="flatCatPromos"><a href="/category/men/fragrance/gift+%26+value+sets.do">
+<img width="747" height="125" border="0" src="/images/set_a/en_us/local/fillslots/cat_fills/2015/Weeks 44-47/cat-fragrance-sets-him.jpg"> 
 </a></div><div class="flatCatsClear"></div></div></li></ul></li><li>
 								<div id="tnc_100071">
 									<a class="sf-top-level-link" href="http://www.beautybrands.com/category/gifts.do" id="tn_100071"><span>
@@ -2386,8 +2412,8 @@ function adjustGlobalCartLayout() {
 										
 									</span></a>
 								</div>
-								<ul class="flatCatsUL" style="float: none; width: 27em; display: none; visibility: hidden;"><li style="white-space: normal; float: left; width: 100%;"><div class="flatCats" id="flatCatMenu_100071"><div class="flatCat"><div class="flatCatSnippet">shop by category</div><div><a href="http://www.beautybrands.com/category/gifts/mother%27s+day+gifts.do">Mother's Day Gifts</a></div><div><a href="http://www.beautybrands.com/category/gifts/makeup.do">Makeup</a></div><div><a href="http://www.beautybrands.com/category/gifts/skincare.do">Skincare</a></div><div><a href="http://www.beautybrands.com/category/gifts/bath+body+%26+fragrance.do">Bath &amp; Body</a></div><div><a href="http://www.beautybrands.com/category/gifts/fragrance.do">Fragrance</a></div><div><a href="http://www.beautybrands.com/category/gifts/hair.do">Hair</a></div><div><a href="http://www.beautybrands.com/category/gifts/tools.do">Tools</a></div><div><a href="http://www.beautybrands.com/category/gifts/nail.do">Nail</a></div><div><a href="http://www.beautybrands.com/category/gifts/shop+by+category.do">Accessories</a></div><div><a href="http://www.beautybrands.com/category/gifts/men.do">Men</a></div><div><a href="http://www.beautybrands.com/category/gifts/gift+%26+value+sets.do">Gift &amp; Value Sets</a></div><div><a href="http://www.beautybrands.com/category/gifts/salon+services.do">Salon &amp; Spa Gift Cards</a></div></div><div class="flatCat"><div class="flatCatSnippet">price</div><div><a href="http://www.beautybrands.com/category/gifts/%2410+%26+under.do">$10 &amp; under</a></div><div><a href="http://www.beautybrands.com/category/gifts/%2415+%26+under.do">$15 &amp; under</a></div><div><a href="http://www.beautybrands.com/category/gifts/%2420+%26+under.do">$20 &amp; under</a></div><div><a href="http://www.beautybrands.com/category/gifts/%2450+%26+under.do">$50 &amp; under</a></div><div><a href="http://www.beautybrands.com/category/gifts/%2475+%26+under.do">$75 &amp; under</a></div><div><a href="http://www.beautybrands.com/category/gifts/%24100+%26+under.do">$100 &amp; under</a></div><div><a href="http://www.beautybrands.com/category/gifts/over+%24100.do">Over $100</a></div></div><div class="flatCat"><div class="flatCatSnippet">top brands</div><div><a href="http://www.beautybrands.com/category/gifts/chi.do">CHI</a></div><div><a href="http://www.beautybrands.com/category/gifts/clarisonic.do">Clarisonic</a></div><div><a href="http://www.beautybrands.com/category/gifts/hempz.do">Hempz</a></div><div><a href="http://www.beautybrands.com/category/gifts/juicy+couture.do">Juicy Couture</a></div><div><a href="http://www.beautybrands.com/category/gifts/kenneth+cole.do">Kenneth Cole</a></div><div><a href="http://www.beautybrands.com/category/gifts/laura+geller+beauty.do">Laura Geller Beauty</a></div><div><a href="http://www.beautybrands.com/category/gifts/philosophy.do">philosophy</a></div><div><a href="http://www.beautybrands.com/category/gifts/smashbox.do">Smashbox</a></div><div><a href="http://www.beautybrands.com/category/gifts/stila.do">Stila</a></div><div><a href="http://www.beautybrands.com/category/gifts/too+faced.do">Too Faced</a></div></div><div class="flatCat"><div class="flatCatSnippet">gift cards</div><div><a href="http://www.beautybrands.com/category/gifts/choose+your+gift+card+value.do">Choose Your Gift Card Value</a></div><div><a href="http://www.beautybrands.com/category/gifts/salon+%26+spa+gift+cards.do">Salon &amp; Spa Gift Cards</a></div><div><a href="http://www.beautybrands.com/category/gifts/view+all.do">View All</a></div></div><div class="flatCatsClear"></div><div class="flatCatPromos"><a href="/category/gifts/mother%27s+day+gifts.do?pp=24&amp;sortby=newArrivals&amp;sortType=1">
-<img width="747" height="125" border="0" src="/images/set_a/en_us/local/fillslots/cat_fills/2015/Weeks 11-14/MOTHERS-DAY.jpg"> 
+								<ul class="flatCatsUL" style="float: none; width: 27em; display: none; visibility: hidden;"><li style="white-space: normal; float: left; width: 100%;"><div class="flatCats" id="flatCatMenu_100071"><div class="flatCat"><div class="flatCatSnippet">shop by category</div><div><a href="http://www.beautybrands.com/category/gifts/holiday+gifts.do">Holiday Gifts</a></div><div><a href="http://www.beautybrands.com/category/gifts/makeup.do">Makeup</a></div><div><a href="http://www.beautybrands.com/category/gifts/skincare.do">Skincare</a></div><div><a href="http://www.beautybrands.com/category/gifts/bath+body+%26+fragrance.do">Bath &amp; Body</a></div><div><a href="http://www.beautybrands.com/category/gifts/fragrance.do">Fragrance</a></div><div><a href="http://www.beautybrands.com/category/gifts/hair.do">Hair</a></div><div><a href="http://www.beautybrands.com/category/gifts/tools.do">Tools</a></div><div><a href="http://www.beautybrands.com/category/gifts/nail.do">Nail</a></div><div><a href="http://www.beautybrands.com/category/gifts/shop+by+category.do">Accessories</a></div><div><a href="http://www.beautybrands.com/category/gifts/men.do">Men</a></div><div><a href="http://www.beautybrands.com/category/gifts/gift+%26+value+sets.do">Gift &amp; Value Sets</a></div><div><a href="http://www.beautybrands.com/category/gifts/salon+services.do">Salon &amp; Spa Gift Cards</a></div></div><div class="flatCat"><div class="flatCatSnippet">price</div><div><a href="http://www.beautybrands.com/category/gifts/%2410+%26+under.do">$10 &amp; under</a></div><div><a href="http://www.beautybrands.com/category/gifts/%2415+%26+under.do">$15 &amp; under</a></div><div><a href="http://www.beautybrands.com/category/gifts/%2420+%26+under.do">$20 &amp; under</a></div><div><a href="http://www.beautybrands.com/category/gifts/%2450+%26+under.do">$50 &amp; under</a></div><div><a href="http://www.beautybrands.com/category/gifts/%2475+%26+under.do">$75 &amp; under</a></div><div><a href="http://www.beautybrands.com/category/gifts/%24100+%26+under.do">$100 &amp; under</a></div><div><a href="http://www.beautybrands.com/category/gifts/over+%24100.do">Over $100</a></div></div><div class="flatCat"><div class="flatCatSnippet">top brands</div><div><a href="http://www.beautybrands.com/category/gifts/chi.do">CHI</a></div><div><a href="http://www.beautybrands.com/category/gifts/clarisonic.do">Clarisonic</a></div><div><a href="http://www.beautybrands.com/category/gifts/juicy+couture.do">Juicy Couture</a></div><div><a href="http://www.beautybrands.com/category/gifts/kenneth+cole.do">Kenneth Cole</a></div><div><a href="http://www.beautybrands.com/category/gifts/laura+geller+beauty.do">Laura Geller Beauty</a></div><div><a href="http://www.beautybrands.com/category/gifts/philosophy.do">philosophy</a></div><div><a href="http://www.beautybrands.com/category/gifts/smashbox.do">Smashbox</a></div><div><a href="http://www.beautybrands.com/category/gifts/stila.do">Stila</a></div><div><a href="http://www.beautybrands.com/category/gifts/too+faced.do">Too Faced</a></div></div><div class="flatCat"><div class="flatCatSnippet">gift cards</div><div><a href="http://www.beautybrands.com/category/gifts/choose+your+gift+card+value.do">Choose Your Gift Card Value</a></div><div><a href="http://www.beautybrands.com/category/gifts/salon+%26+spa+gift+cards.do">Salon &amp; Spa Gift Cards</a></div><div><a href="http://www.beautybrands.com/category/gifts/view+all.do">View All</a></div></div><div class="flatCatsClear"></div><div class="flatCatPromos"><a href="/category/gifts/holiday+gifts/makeup.do?pp=24&amp;sortby=priceAscend&amp;sortType=1">
+<img width="747" height="125" border="0" src="/images/set_a/en_us/local/fillslots/cat_fills/2015/Weeks 44-47/cat-stocking-stuffers.jpg"> 
 </a></div><div class="flatCatsClear"></div></div></li></ul></li><li>
 								<div id="tnc_100072">
 									<a class="sf-top-level-link" href="http://www.beautybrands.com/category/brands.do" id="tn_100072"><span>
@@ -2410,8 +2436,8 @@ function adjustGlobalCartLayout() {
 										
 									</span></a>
 								</div>
-								<ul class="flatCatsUL" style="float: none; width: 13.1429em; display: none; visibility: hidden;"><li style="white-space: normal; float: left; width: 100%;"><div class="flatCats" id="flatCatMenu_100073"><div class="flatCat"><div><a href="http://www.beautybrands.com/category/salon+services/hair.do">Hair</a></div><div><a href="http://www.beautybrands.com/category/salon+services/nails.do">Nails</a></div><div><a href="http://www.beautybrands.com/category/salon+services/hair+removal.do">Hair Removal</a></div><div><a href="http://www.beautybrands.com/category/salon+services/facials.do">Facials</a></div><div><a href="http://www.beautybrands.com/category/salon+services/message+therapy.do">Massage</a></div><div><a href="http://www.beautybrands.com/category/salon+services/spray+tanning.do">Spray Tanning</a></div><div><a href="http://www.beautybrands.com/category/salon+services/lash+extensions.do">Lash Extensions</a></div><div><a href="http://www.beautybrands.com/category/salon+services/salon+%26+services+pricing+menu.do">Salon &amp; Services Pricing Menu</a></div><div><a href="http://www.beautybrands.com/category/salon+services/salon+%26+spa+gift+cards.do">Salon &amp; Spa Gift Cards</a></div><div><a href="http://www.beautybrands.com/category/salon+services/locations+%26+hours.do">Locations &amp; Hours</a></div></div><div class="flatCatsClear"></div><div class="flatCatPromos"><a href="/storelocator.do">
-<img width="265" height="175" border="0" src="/images//set_a/en_us/local/fillslots/cat_fills/2015/Weeks 11-14/salon.jpg"> 
+								<ul class="flatCatsUL" style="float: none; width: 13.1429em; display: none; visibility: hidden;"><li style="white-space: normal; float: left; width: 100%;"><div class="flatCats" id="flatCatMenu_100073"><div class="flatCat"><div><a href="http://www.beautybrands.com/category/salon+services/book+appointment.do">Book Appointment</a></div><div><a href="http://www.beautybrands.com/category/salon+services/hair.do">Hair</a></div><div><a href="http://www.beautybrands.com/category/salon+services/nails.do">Nails</a></div><div><a href="http://www.beautybrands.com/category/salon+services/hair+removal.do">Hair Removal</a></div><div><a href="http://www.beautybrands.com/category/salon+services/facials.do">Facials</a></div><div><a href="http://www.beautybrands.com/category/salon+services/message+therapy.do">Massage</a></div><div><a href="http://www.beautybrands.com/category/salon+services/spray+tanning.do">Spray Tanning</a></div><div><a href="http://www.beautybrands.com/category/salon+services/lash+extensions.do">Lash Extensions</a></div><div><a href="http://www.beautybrands.com/category/salon+services/salon+%26+services+pricing+menu.do">Salon &amp; Services Pricing Menu</a></div><div><a href="http://www.beautybrands.com/category/salon+services/salon+%26+spa+gift+cards.do">Salon &amp; Spa Gift Cards</a></div><div><a href="http://www.beautybrands.com/category/salon+services/locations+%26+hours.do">Locations &amp; Hours</a></div></div><div class="flatCatsClear"></div><div class="flatCatPromos"><a href="/storelocator.do">
+<img width="265" height="175" border="0" src="/images/set_a/en_us/local/fillslots/cat_fills/2015/Weeks 44-47/salon-and-spa-winter-banner.jpg"> 
 </a></div><div class="flatCatsClear"></div></div></li></ul></li><li>
 								<div id="tnc_101301">
 									<a class="sf-top-level-link" href="http://www.beautybrands.com/category/sale.do" id="tn_101301"><span>
@@ -2423,8 +2449,8 @@ function adjustGlobalCartLayout() {
 										
 									</span></a>
 								</div>
-								<ul class="flatCatsUL" style="float: none; width: 12.8em; display: none; visibility: hidden;"><li style="white-space: normal; float: left; width: 100%;"><div class="flatCats" id="flatCatMenu_101301"><div class="flatCat"><div class="flatCatSnippet">shop by category</div><div><a href="http://www.beautybrands.com/category/sale/makeup.do">Makeup</a></div><div><a href="http://www.beautybrands.com/category/sale/skincare.do">Skincare</a></div><div><a href="http://www.beautybrands.com/category/sale/hair.do">Hair</a></div><div><a href="http://www.beautybrands.com/category/sale/bath+body+%26+fragrance.do">Bath &amp; Body</a></div><div><a href="http://www.beautybrands.com/category/sale/fragrance.do">Fragrance</a></div><div><a href="http://www.beautybrands.com/category/sale/tools.do">Tools</a></div><div><a href="http://www.beautybrands.com/category/sale/nail.do">Nail</a></div><div><a href="http://www.beautybrands.com/category/sale/men.do">Men</a></div><div><a href="http://www.beautybrands.com/category/sale/last+chance.do">Last Chance</a></div></div><div class="flatCatsClear"></div><div class="flatCatPromos"><a href="/category/hair/%2410+haircare.do">
-<img width="350" height="170" border="0" src="/images/set_a/en_us/local/fillslots/home_fills/2015/Wks11-14/mains/mb-10each.jpg"> 
+								<ul class="flatCatsUL" style="float: none; width: 12.8em; display: none; visibility: hidden;"><li style="white-space: normal; float: left; width: 100%;"><div class="flatCats" id="flatCatMenu_101301"><div class="flatCat"><div class="flatCatSnippet">shop by category</div><div><a href="http://www.beautybrands.com/category/sale/makeup.do">Makeup</a></div><div><a href="http://www.beautybrands.com/category/sale/skincare.do">Skincare</a></div><div><a href="http://www.beautybrands.com/category/sale/hair.do">Hair</a></div><div><a href="http://www.beautybrands.com/category/sale/bath+body+%26+fragrance.do">Bath &amp; Body</a></div><div><a href="http://www.beautybrands.com/category/sale/fragrance.do">Fragrance</a></div><div><a href="http://www.beautybrands.com/category/sale/tools.do">Tools</a></div><div><a href="http://www.beautybrands.com/category/sale/nail.do">Nail</a></div><div><a href="http://www.beautybrands.com/category/sale/men.do">Men</a></div><div><a href="http://www.beautybrands.com/category/sale/last+chance.do">Last Chance</a></div></div><div class="flatCatsClear"></div><div class="flatCatPromos"><a href="/category/sale/hair.do">
+<img width="350" height="170" border="0" src="/images/set_a/en_us/local/fillslots/home_fills/2015/Wks44-47/mobile-mains/40-off-haircare_mobile.jpg">
 </a></div><div class="flatCatsClear"></div></div></li></ul></li></ul>
 
 <script type="text/javascript">
@@ -2464,16 +2490,16 @@ function adjustGlobalCartLayout() {
 
 
 </div>
-	  	<div class="catnavspacer"><img src="http://images.beautybrands.com/images/set_a/en_us/global/globalgraphics/spacer01.gif" width="1" height="4" border="0"></div>
+	  	<div class="catnavspacer"><img src="/images/set_a/en_us/global/globalgraphics/spacer01.gif" width="1" height="4" border="0"></div>
     </td>
   </tr>
 
 
   <tr valign="top">
     
-    <td width="20" class="contentbg"><img src="http://images.beautybrands.com/images/set_a/en_us/global/globalgraphics/spacer01.gif" width="20" height="1" border="0"></td>
-    <td width="950" class="contentbg">
-      <div><img src="http://images.beautybrands.com/images/set_a/en_us/global/globalgraphics/spacer01.gif" width="950" height="20" border="0"></div>
+    <td width="20" class="contentbg"><img src="/images/set_a/en_us/global/globalgraphics/spacer01.gif" width="20" height="1" border="0"></td>
+    <td width="990" class="contentbg">
+      <div><img src="/images/set_a/en_us/global/globalgraphics/spacer01.gif" width="990" height="20" border="0"></div>
       <div>
         
         
@@ -2481,7 +2507,7 @@ function adjustGlobalCartLayout() {
 
 
 
-        <table border="0" cellpadding="0" cellspacing="0" width="950">
+        <table border="0" cellpadding="0" cellspacing="0" width="990">
           <tbody><tr>
             <td>
               <table border="0" cellpadding="0" cellspacing="0">				
@@ -2575,7 +2601,7 @@ function adjustGlobalCartLayout() {
         
     
     
-</select><div class="chosen-container chosen-container-single chosen-container-single-nosearch" style="width: 200px;" title=""><a class="chosen-single" tabindex="-1"><span>Privacy &amp; Security</span><div><b></b></div></a><div class="chosen-drop"><div class="chosen-search"><input type="text" autocomplete="off" readonly=""></div><ul class="chosen-results"></ul></div></div>
+</select><div class="chosen-container chosen-container-single chosen-container-single-nosearch" style="width: 177px;" title=""><a class="chosen-single" tabindex="-1"><span>Privacy &amp; Security</span><div><b></b></div></a><div class="chosen-drop"><div class="chosen-search"><input type="text" autocomplete="off" readonly=""></div><ul class="chosen-results"></ul></div></div>
 
 
 				 </td>
@@ -2584,10 +2610,10 @@ function adjustGlobalCartLayout() {
             </td>
           </tr>
           <tr>
-            <td class="headerrule"><img src="http://images.beautybrands.com/images/set_a/en_us/global/globalgraphics/spacer01.gif" width="1" height="1" border="0"></td>
+            <td class="headerrule"><img src="/images/set_a/en_us/global/globalgraphics/spacer01.gif" width="1" height="1" border="0"></td>
           </tr>
           <tr>
-            <td><img src="http://images.beautybrands.com/images/set_a/en_us/global/globalgraphics/spacer01.gif" width="1" height="15" border="0"></td>
+            <td><img src="/images/set_a/en_us/global/globalgraphics/spacer01.gif" width="1" height="15" border="0"></td>
           </tr>
           <tr valign="top">
             <td>
@@ -2808,14 +2834,14 @@ h4 {
           </tr>
         </tbody></table>
     </div>
-      <div><img src="http://images.beautybrands.com/images/set_a/en_us/global/globalgraphics/spacer01.gif" width="950" height="15" border="0"></div>
+      <div><img src="/images/set_a/en_us/global/globalgraphics/spacer01.gif" width="990" height="15" border="0"></div>
     </td>
-    <td width="20" class="contentbg"><img src="http://images.beautybrands.com/images/set_a/en_us/global/globalgraphics/spacer01.gif" width="20" height="450" border="0"></td>
+    <td width="20" class="contentbg"><img src="/images/set_a/en_us/global/globalgraphics/spacer01.gif" width="20" height="450" border="0"></td>
   </tr>
 
 
   <tr valign="bottom">
-    <td align="center" colspan="3" class="navfooterbg"><div class="catFootSpacer"><img src="http://images.beautybrands.com/images/set_a/en_us/global/globalgraphics/spacer01.gif" width="1" height="4" border="0"></div>
+    <td align="center" colspan="3" class="navfooterbg"><div class="catFootSpacer"><img src="/images/set_a/en_us/global/globalgraphics/spacer01.gif" width="1" height="4" border="0"></div>
 
 
 
@@ -3703,11 +3729,26 @@ window.onload = function(){
 
 
 <script type="text/javascript" src="/includes/footerScripts.js"></script>
-<!-- MyBuys Page Initialization Place after </body> tag -->
+<!-- MyBuys Page Initialization Place after <script type="text/javascript">
+//<![CDATA[
+(function() {
+var _analytics_scr = document.createElement('script');
+_analytics_scr.type = 'text/javascript'; _analytics_scr.async = true; _analytics_scr.src = '/_Incapsula_Resource?SWJIYLWA=2977d8d74f63d7f8fedbea018b7a1d05&ns=1';
+var _analytics_elem = document.getElementsByTagName('script')[0]; _analytics_elem.parentNode.insertBefore(_analytics_scr, _analytics_elem);
+})();
+// ]]>
+</script></body> tag -->
 <script type="text/javascript">
-  mybuys.initPage();
+	if(typeof readyToInit != 'undefined' && readyToInit==false ){
+		jQuery(document).bind("zone_loaded", function(){
+			jQuery(document).unbind("zone_loaded");
+			mybuys.initPage();  
+		});
+	}else{
+		mybuys.initPage();
+	}
 </script>
 <!-- End MyBuys Page Initialization -->
 
 
-<div id="AutocompleteContainter_e484f" style="position: absolute; z-index: 9999; top: 145px; left: 758px;"><div class="autocomplete-w1"><div class="autocomplete" id="Autocomplete_e484f" style="display: none; max-height: 1000px;"></div></div></div></body></html>
+<div id="AutocompleteContainter_9dca7" style="position: absolute; z-index: 9999; top: 145px; left: 738px;"><div class="autocomplete-w1"><div class="autocomplete" id="Autocomplete_9dca7" style="display: none; max-height: 1000px;"></div></div></div></body></html>
