@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the securityguardtraininghq.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610025148id_/http%3A//www.securityguardtraininghq.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the securityguardtraininghq.com privacy policy that was archived on 2015-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151219174448id_/http%3A//www.securityguardtraininghq.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Security Guard Training - Your Security Guard Training Resource
+# Privacy Policy | Security Guard Training – Your Security Guard Training Resource
 
 ## [Privacy Policy](http://www.securityguardtraininghq.com/privacy-policy/)
 
@@ -30,7 +30,7 @@ Twitter  [https://twitter.com/privacy](https://twitter.com/privacy)
 
 YouTube – https://www.youtube.com/static?template=privacy_guidelines
 
-You can use programs such as Privacy Badger \- [https://www.eff.org/privacybadger](https://www.eff.org/privacybadger) – to further control the collection of information regarding you online.
+You can use programs such as Privacy Badger – [https://www.eff.org/privacybadger](https://www.eff.org/privacybadger) – to further control the collection of information regarding you online.
 
 (g) California Eraser Law. If you are a minor and wish to request the removal of any content you have created and uploaded to the Site, please use the Contact function on the Site to make your request. Please note the removal of content from this Site does not necessarily mean it cannot be found elsewhere on the Internet. Search engines and archive sites regularly index the Internet and make copies of website content. 
 
