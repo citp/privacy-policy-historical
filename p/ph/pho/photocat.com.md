@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the photocat.com privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628022532id_/http%3A//www.photocat.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the photocat.com privacy policy that was archived on 2015-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151219230038id_/http%3A//www.photocat.com/privacy) for the most accurate reproduction.*
 
 # Photo editor | PhotoCat: Free Online photo Editing
 
