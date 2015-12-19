@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fetchfido.co.uk privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612233119id_/http%3A//fetchfido.co.uk/home/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fetchfido.co.uk privacy policy that was archived on 2015-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151219022732id_/http%3A//www.fetchfido.co.uk/home/privacy.htm) for the most accurate reproduction.*
 
 # Privicy Policy
 
