@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the buyatimeshare.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607135451id_/http%3A//www.buyatimeshare.com/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buyatimeshare.com privacy policy that was archived on 2015-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151219071914id_/http%3A//www.buyatimeshare.com/privacy_policy.asp) for the most accurate reproduction.*
 
 # Privacy Policy - Buy Sell and Rent Timeshares
 
@@ -115,7 +115,7 @@ When it is necessary to do so, we will send you service-related announcements, p
 
 You may correct and update your personally identifiable information by logging into your account or sending us an email at [info@buyatimeshare.com](mailto:info@buyatimeshare.com).  To assist us in processing your request, please include the phrase “Update Information” in the header of the email.  You may also send us a letter with your specific request at the following address:
 
- **BuyATimeshare Attention: Information Update 32 Daniel Webster Hwy #25 Merrimack, NH 03054**
+ **BuyATimeshare Attention: Information Update 32 Daniel Webster Hwy #23 Merrimack, NH 03054**
 
 Please provide your name, address, email address, and the information that you would like us to update.  You may ask to have to have information deleted or removed.  However, you cannot delete information included with past transactions, and it may not be possible for us to completely delete all of your information from backup media. 
 
@@ -127,4 +127,4 @@ If we materially change this Privacy Notice, we will post the changes to this Pr
 
 If you have questions specifically about this Privacy Notice, or to legal issues pertaining to the practices of the Website or your use of the Website, you may contact us via email at [info@buyatimeshare.com](mailto:info@buyatimeshare.com).  You may also send us a letter at the following address:
 
-**BuyATimeshare 32 Daniel Webster Hwy #25 Merrimack, NH 03054**
+**BuyATimeshare 32 Daniel Webster Hwy #23 Merrimack, NH 03054**
