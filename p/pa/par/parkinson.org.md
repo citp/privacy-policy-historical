@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the parkinson.org privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607071917id_/http%3A//www.parkinson.org/Privacy---Terms-of-Use.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the parkinson.org privacy policy that was archived on 2015-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151219044852id_/http%3A//www.parkinson.org/privacy) for the most accurate reproduction.*
 
-# National Parkinson Foundation - Privacy & Terms of Use
+# Privacy & Terms of Use | National Parkinson Foundation
 
-## Privacy Policy
+#### Privacy Policy
 
 We at the National Parkinson Foundation (NPF) are committed to respecting the privacy of our website visitors.  This page describes our privacy policy regarding the information we collect from you during your visit to our site, how we may use it, and how we will protect the information which you choose to provide us.
 
@@ -18,7 +18,7 @@ Personally identifiable information will never be sold, rented or exchanged outs
 
 Like most websites, NPF's website may store information on your computer in a small file called a “cookie.”  These cookies never store personally identifiable information and do not compromise your privacy.  Cookies are used exclusively to improve the user experience by providing continuity in your browsing the site.  If you access the site via a public computer, be sure to click “log off” at the end of your session.  The site will warn you not to use the “remember me” functionality (enabled by cookies) if you are at a public computer.
 
-## Other Terms and Conditions
+#### Other Terms and Conditions
 
 ### Use of the Online Forum
 
