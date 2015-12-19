@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the printablepaper.net privacy policy that was archived on 2015-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150501043912id_/http%3A//www.savetzpublishing.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the printablepaper.net privacy policy that was archived on 2015-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151219183802id_/http%3A//www.savetzpublishing.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -24,7 +24,7 @@ Google is one of these third-party vendors, and uses cookies to serve ads on Sav
 
 Certain Savetz Publishing web sites may have separate privacy policy documents that supplement this one.
 
-Back to [Savetz Publishing](https://web.archive.org/web/20150501043912id_/http%3A//www.savetzpublishing.com/)
+Back to [Savetz Publishing](https://web.archive.org/web/20151219183802id_/http%3A//www.savetzpublishing.com/)
 
   
 
