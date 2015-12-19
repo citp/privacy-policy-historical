@@ -1,11 +1,8 @@
-> *The following text is extracted and transformed from the muhlenberg.edu privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608025600id_/http%3A//muhlenberg.edu/main/aboutus/oit/about/policies_procedures/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the muhlenberg.edu privacy policy that was archived on 2015-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151219011020id_/http%3A//muhlenberg.edu/main/aboutus/oit/about/policies_procedures/privacy.html) for the most accurate reproduction.*
 
-# Muhlenberg College: Information Technology - Muhlenberg College Web Privacy Statement
+# Muhlenberg College Policies and Procedures
 
-### Muhlenberg College Web Privacy Statement
-
-  
-
+**Muhlenberg College Web Privacy Statement**
 
 Muhlenberg College's web sites are configured to preserve the privacy of our users. This Statement describes what information is collected, how it is collected, why it is collected, and how it might be used. The purpose of the Statement is to allow users to decide whether, and how, to make use of the College's web sites.
 
@@ -13,7 +10,7 @@ Muhlenberg College's web sites are configured to preserve the privacy of our use
 Some of our sites create a "cookie", a record stored on your computer's own hard disk, which makes it possible for our sites to recognize that a specific computer has made previous requests. Our cookies are used exclusively for providing services. Muhlenberg does not utilize cookies for any purpose other than providing requested services. Much of Muhlenberg's web content includes links to content on web servers belonging to third parties. Muhlenberg cannot control or make any representation regarding the use of cookies on such third party sites.
 
 **Statistics**  
-For each visitor to our web page, our web server automatically recognizes only the visitor's domain name, but not the e-mail address (where possible). We collect information on what pages are accessed, time spent on pages, what browser and operating system is used, and the website from where the access originated. This information is stored for the purpose of analyzing how visitors use our web sites. The College uses this information to improve the usefulness of our web sites. 
+For each visitor to our web page, our web server automatically recognizes only the visitor's domain name, but not the e-mail address (where possible). We collect information on what pages are accessed, time spent on pages, what browser and operating system is used, and the website from where the access originated. This information is stored for the purpose of analyzing how visitors use our web sites. The College uses this information to improve the usefulness of our web sites.
 
 **Email**  
 Muhlenberg does not share or sell lists of email addresses for commercial purposes. When a user contacts Muhlenberg using Email, information included in that message may be used to respond to the message or to provide a requested service or information. The message, or information in it, may be shared with other employees of the College for the purpose of providing the requested information or service. The College does not distribute such information to persons or organizations outside Muhlenberg unless specifically required to fulfill a specific request.
@@ -34,8 +31,7 @@ Much of Muhlenberg's web content includes links to content on web servers belong
 This Statement explains how information collected from users is used by Muhlenberg. Muhlenberg employs best practice in protecting such information. However, it is not a guarantee of privacy. It is possible for collected information to be disclosed without the College's permission or knowledge (for example, if a web host is "attacked", or is compromised by a virus). For this reason Muhlenberg disclaims any warranty or representation of privacy or non-disclosure of information collected through the use of our web sites.
 
 **Contacting us**  
-If you believe that Muhlenberg College's websites are not following stated policy, you may contact us at the following address or phone number.   
-
+If you believe that Muhlenberg College's websites are not following stated policy, you may contact us at the following address or phone number.
 
 Our postal address is   
 **2400 Chew Street**  
