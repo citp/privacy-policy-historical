@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the nhanow.com privacy policy that was archived on 2014-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141103195538id_/http%3A//www.nhanow.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nhanow.com privacy policy that was archived on 2015-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151219085256id_/http%3A//www.nhanow.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Statement | NHA
+# Privacy Policy | National Healthcareer Association
 
-Privacy Policy
-
-## **Assessment Technologies Institute, LLC Website**
+## Assessment Technologies Institute, LLC Website
 
 **Privacy Policy**
 
@@ -16,11 +14,11 @@ NHA is dedicated to protecting the privacy of all personal information collected
 
 **Use of Information Collected on NHA’s Site**
 
-We use personal information to provide the highest quality of service to our customers, prospects, and general visitors to this web site. NHA may collect personal information in connection with any online employment applications, or so that we can contact you, provide materials to you upon your request, register you, send relevant messages via e-mail or postal mail, or for any other purpose identified when personal information is collected. NHA may also contact you via surveys to conduct research about your opinion of current products and services or of potential new services that may be offered. 
+We use personal information to provide the highest quality of service to our customers, prospects, and general visitors to this web site. NHA may collect personal information in connection with any online employment applications, or so that we can contact you, provide materials to you upon your request, register you, send relevant messages via e-mail or postal mail, or for any other purpose identified when personal information is collected. NHA may also contact you via surveys to conduct research about your opinion of current products and services or of potential new services that may be offered.
 
 **Information Sharing**
 
-NHA will not sell, rent, trade or lease your personal information to others unless we have requested to do so and have received your permission, provided that you authorize NHA to disclose your personal information to others under the following circumstances: We may, and you authorize NHA to, transfer your personal information to any NHA affiliate (or business partner or agent acting on our behalf) worldwide for purposes described herein. Such NHA affiliates, business partners, and agents will be under the same obligations as is NHA under this Privacy Policy.  We may be required to transfer your personal information by law or under a court order or in connection with an organizational change, such as a merger or acquisition by another company or the sale of NHA’s assets. If NHA, in its sole discretion, determines that that a transfer is necessary to protect the rights, property, or personal safety of NHA, this site, or its users, then we may also share your personal information. 
+NHA will not sell, rent, trade or lease your personal information to others unless we have requested to do so and have received your permission, provided that you authorize NHA to disclose your personal information to others under the following circumstances: We may, and you authorize NHA to, transfer your personal information to any NHA affiliate (or business partner or agent acting on our behalf) worldwide for purposes described herein. Such NHA affiliates, business partners, and agents will be under the same obligations as is NHA under this Privacy Policy.  We may be required to transfer your personal information by law or under a court order or in connection with an organizational change, such as a merger or acquisition by another company or the sale of NHA’s assets. If NHA, in its sole discretion, determines that that a transfer is necessary to protect the rights, property, or personal safety of NHA, this site, or its users, then we may also share your personal information.
 
 **Data Protection**
 
@@ -28,7 +26,7 @@ NHA is committed to ensuring the security of your information. We use industry-s
 
 **Consent**
 
-By use of the NHA website, and entry of any personal information into this site, you are consenting to the collection, use, and transfer of your personal information as outlined in this Privacy Policy.  If you are located outside the United States, your use and entry of personal information into this site constitutes your consent to the transfer of your personal information into the United States. Although we do not normally collect any sensitive personal information (such as ethnicity or race, religious beliefs or medical conditions), your entry of any such sensitive information on this web site is your express consent to the collection, use and transfer of such information. 
+By use of the NHA website, and entry of any personal information into this site, you are consenting to the collection, use, and transfer of your personal information as outlined in this Privacy Policy.  If you are located outside the United States, your use and entry of personal information into this site constitutes your consent to the transfer of your personal information into the United States. Although we do not normally collect any sensitive personal information (such as ethnicity or race, religious beliefs or medical conditions), your entry of any such sensitive information on this web site is your express consent to the collection, use and transfer of such information.
 
 **Cookies and other Tracking Devices**
 
@@ -36,7 +34,7 @@ NHA may use cookies, IP addresses, and other passive tracking devices to collect
 
 **Links**
 
-NHA’s web site may contain links to other web sites, including those of NHA’s affiliated companies. Please note that these other web sites’ privacy policies may differ from NHA’s and we encourage you to carefully read those policies, as well. NHA is not responsible for the contents of any web site of another party. 
+NHA’s web site may contain links to other web sites, including those of NHA’s affiliated companies. Please note that these other web sites’ privacy policies may differ from NHA’s and we encourage you to carefully read those policies, as well. NHA is not responsible for the contents of any web site of another party.
 
 **Revisions to this Privacy Policy**
 
@@ -44,6 +42,6 @@ NHA reserves the right to revise this Privacy Policy at any time, without notice
 
 **Feedback**
 
-If you have any questions or comments about NHA’s Privacy Policy, please contact us by email at [info@nhanow.com](mailto:info@nhanow.com)
+If you have any questions or comments about NHA’s Privacy Policy, please contact us by email at  [info@nhanow.com](mailto:info%40n%68ano%77%2Ec%6Fm)
 
 NHA Privacy Policy (Rev Nov2011)
