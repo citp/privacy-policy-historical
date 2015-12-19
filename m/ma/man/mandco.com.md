@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mandco.com privacy policy that was archived on 2015-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150323151723id_/http%3A//www.mandco.com/customer-service/privacy-and-security/privacy%252C-security-and-cookie-policy/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mandco.com privacy policy that was archived on 2015-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151219160845id_/http%3A//www.mandco.com/customer-service/privacy-and-security/privacy%252C-security-and-cookie-policy/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy & Cookie Policy | M&Co ™
 
@@ -307,7 +307,7 @@ Back to top
 
 ## 8\. Updating Your Details
 
-If your personal details change, if you change your mind about any of your marketing preferences or if you have any queries about how we use your information, please let us know by contacting [**customer-services@mandco.com**](mailto:customer-services@mandco.com)
+If your personal details change, if you change your mind about any of your marketing preferences or if you have any queries about how we use your information, please view our [Help & Support page](https://support.mandco.com/hc/en-us).
 
 Back to top
 
@@ -321,10 +321,10 @@ Back to top
 
 ## 10\. Contact Information
 
-We welcome your input on our privacy policy. If you have any questions or suggestions regarding our privacy policy, please contact us at [**customer-services@mandco.com**](mailto:customer-services@mandco.com)
+We welcome your input on our privacy policy. If you have any questions or suggestions regarding our privacy policy, please contact us [here](https://support.mandco.com/hc/en-us/requests/new).
 
 M&Co Customer Services Team  
 ATTN: Privacy  
 5 Inchinnan Drive  
 Inchinnan, PA4 9AF  
-0800 0317 200
+ 
