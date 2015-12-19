@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shopjustice.com privacy policy that was archived on 2015-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150615080854id_/http%3A//www.shopjustice.com/customer-service/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shopjustice.com privacy policy that was archived on 2015-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151219150745id_/http%3A//www.shopjustice.com/customer-service/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy: Customer Information - Shop Justice
 
@@ -103,15 +103,15 @@ Your three opt-out choices are:
 
 Please keep in mind that any opt-out choices you make will not apply in situations where (a) you later make a specific request for information from us; (b) we use your personal information for either operational uses or fulfillment uses (as described above); or (c) we share your personal information under the provisions above with respect to "Contracted Companies That Facilitate Transactions with You, and "Disclosures Required by Law and to Help Protect the Security and Safety of Our Websites." 
 
-There are several methods by which you can exercise your opt-out choices: (a) sending a written request via email to: [privacy@tweenbrands.com](mailto:privacy@tweenbrands.com) and by writing "Privacy Policy" in the subject line; (b) sending a written request via postal mail to: Justice Privacy Policy, 175 Heritage Drive, Pataskala, OH 43062 or (c) telephone 1-866-246-5822 and press the Customer Service option key to leave a message for our privacy policy team. Regardless of which method you choose, please be sure to indicate your opt-out choice. Finally, you may unsubscribe from certain email communications by clicking on unsubscribe links in those emails. 
+There are several methods by which you can exercise your opt-out choices: (a) sending a written request via email to: [privacy@tweenbrands.com](mailto:privacy@tweenbrands.com) and by writing "Privacy Policy" in the subject line; (b) sending a written request via postal mail to: Justice Privacy Policy, 8323 Walton Parkway, New Albany, OH 43054 or (c) telephone 1-866-246-5822 and press the Customer Service option key to leave a message for our privacy policy team. Regardless of which method you choose, please be sure to indicate your opt-out choice. Finally, you may unsubscribe from certain email communications by clicking on unsubscribe links in those emails. 
 
 ### 10\. California Residents.
 
-Under California law, you may make a written request to us about how we have shared your information with contracted partners for our direct marketing purposes and other third parties for their direct marketing purposes. In response to your written request, we may provide you with a notice describing the cost-free means to opt-out of our direct marketing promotions and/or other third party information sharing. There are two methods by which you can make this request: (a) sending a written request via email to: [privacy@tweenbrands.com](mailto:privacy@tweenbrands.com) and by writing "Privacy Policy" in the subject line; or (b) sending a written request via postal mail to: Justice Privacy Policy, 175 Heritage Drive, Pataskala, OH 43062. 
+Under California law, you may make a written request to us about how we have shared your information with contracted partners for our direct marketing purposes and other third parties for their direct marketing purposes. In response to your written request, we may provide you with a notice describing the cost-free means to opt-out of our direct marketing promotions and/or other third party information sharing. There are two methods by which you can make this request: (a) sending a written request via email to: [privacy@tweenbrands.com](mailto:privacy@tweenbrands.com) and by writing "Privacy Policy" in the subject line; or (b) sending a written request via postal mail to: Justice Privacy Policy, 8323 Walton Parkway, New Albany, OH 43054. 
 
 ### 11\. Privacy Policy Questions.
 
-If you have questions or wish to send us comments, you can let us know by sending us an email at [privacy@tweenbrands.com](mailto:privacy@tweenbrands.com) and writing "Privacy Policy" in the subject line, or by writing to us at: Justice Privacy Policy, 175 Heritage Drive, Pataskala, OH 43062. 
+If you have questions or wish to send us comments, you can let us know by sending us an email at [privacy@tweenbrands.com](mailto:privacy@tweenbrands.com) and writing "Privacy Policy" in the subject line, or by writing to us at: Justice Privacy Policy, 8323 Walton Parkway, New Albany, OH 43054. 
 
 Customers may also contact 1-866-246-5822 and press the appropriate option key to leave a message for our Privacy Policy team. 
 
