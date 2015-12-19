@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the list25.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627161952id_/http%3A//list25.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the list25.com privacy policy that was archived on 2015-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151219080110id_/http%3A//list25.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - List25
 
