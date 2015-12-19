@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pengbos.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607064947id_/http%3A//pengbos.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pengbos.com privacy policy that was archived on 2015-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151219230342id_/http%3A//pengbos.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
