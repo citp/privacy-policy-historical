@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the everydaypowerblog.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608163958id_/http%3A//everydaypowerblog.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the everydaypowerblog.com privacy policy that was archived on 2015-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151219174124id_/http%3A//everydaypowerblog.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Everyday Power Blog
 
 This Privacy Policy governs the manner in which Everyday Power Blog collects, uses, maintains and discloses information collected from users (each, a “User”) of the http://everydaypowerblog.com website (“Site”). This privacy policy applies to the Site and all products and services offered by Everyday Power Blog.
 
@@ -62,12 +62,9 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 ## Contacting us
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
-Everyday Power Blog
-
+Everyday Power Blog  
 http://everydaypowerblog.com
 
 This document was last updated on December 27, 2014
 
 Privacy policy created by http://www.generateprivacypolicy.com
-
-[](https://www.pinterest.com/pin/create/button/)
