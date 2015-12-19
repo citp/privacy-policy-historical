@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aviva.co.uk privacy policy that was archived on 2015-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150424142219id_/http%3A//www.aviva.co.uk/legal/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aviva.co.uk privacy policy that was archived on 2015-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151219133643id_/http%3A//www.aviva.co.uk/legal/privacy-policy.html) for the most accurate reproduction.*
 
 # Legal - Privacy Policy - Aviva
 
