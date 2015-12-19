@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the narscosmetics.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608184020id_/http%3A//www.narscosmetics.com/USA/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the narscosmetics.com privacy policy that was archived on 2015-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151219050657id_/http%3A//www.narscosmetics.com/USA/privacy-policy.html) for the most accurate reproduction.*
 
 # NARS Cosmetics Privacy Policy - NARS Cosmetics
 
