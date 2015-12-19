@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the weddingwindow.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607045133id_/http%3A//www.weddingwindow.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weddingwindow.com privacy policy that was archived on 2015-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151219204610id_/http%3A//www.weddingwindow.com/privacy.cfm) for the most accurate reproduction.*
 
 # Wedding Window - Privacy Policy
 
