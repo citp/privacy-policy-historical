@@ -1,6 +1,46 @@
-> *The following text is extracted and transformed from the heavyrainps3.com privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207095225id_/http%3A//uk.playstation.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the heavyrainps3.com privacy policy that was archived on 2015-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151219020036id_/http%3A//uk.playstation.com/cookies/%23cookiesTsAndCsPageContent) for the most accurate reproduction.*
 
-# Website Privacy Policy - Legal information and notices
+# Cookie Settings
+
+### Allow our website to use cookies?
+
+### What are cookies?
+
+Cookies are small text files that a website sends to your computer to record your online activity. Cookies are used to help users navigate websites easily and to perform various functions. As cookies enhance site usability and processes, if you disable them the website may not operate as expected and you may not be able to access certain functions.
+
+To manage advertising cookies please go here: [www.YourOnlineChoices.eu](http://www.youronlinechoices.eu/).
+
+  * [Looking for your SEN account settings?](https://secure.eu.playstation.com/psn/mypsn/account/)
+
+
+
+**Our website uses the following cookies:**
+
+**"Session ID" cookies**
+
+These cookies store a random identifier which enables your actions to be linked in order to display the website correctly and to provide services that you request. These cookies are only active whilst you are on the website and do not remain on your device once the browser session is closed.
+
+**"Browsing experience" cookies**
+
+These cookies store non-identifying user preferences, such as your language, country and age and are used to enhance the browsing experience and display appropriate content. Some of these cookies will remain for the length of the session, while others (such as language preferences) will persist on your device to allow the same preferences to be displayed on your next visit to our sites.
+
+**"Web analytics" cookies**
+
+These cookies store anonymous data about how you and others use our websites and advertisements. We use this data to measure the performance of our websites and advertisements and to understand how they can be improved. These cookies may be set when you visit this website and when you visit the websites of others showing our advertisements. These cookies may be controlled by third parties who provide these 'web analytics' services to us and will persist on your device once your session is closed.
+
+**"Single -sign on" cookies**
+
+If you log in to your Sony Entertainment Network account via our website, we will use a cookie to enable you to visit other related sites operated by or on behalf of SCEE. These cookies are only active whilst you are on the website and do not remain on your device once the browser session is closed.  
+**  
+"Social plug-in" cookies**
+
+If you have signed in to a social networking site, such as Facebook, they may have set a cookie on your device which recognises you when you view content on our sites. These cookies allow you to share content across social media via the use of sharing settings.   
+**  
+"Advertising" cookies**
+
+These are used to display internet based advertising using information from cookies, this is called "ad retargeting". The aim is to advertise relevant products defined by what you have previously viewed, searched or clicked when you interacted with our sites, services or advertising.   
+These cookies enable advertising partners to define what ads are served to you when you visit other selected websites, and control the number of times an ad can be served to the same internet browser.   
+You can choose to opt-out from this type of advertising permanently by going to [www.YourOnlineChoices.eu](http://www.youronlinechoices.eu/).
 
 This website is operated by, or on behalf of, Sony Computer Entertainment Europe Limited of 10 Great Marlborough Street, London W1F 7LP, United Kingdom ("SCEE"). We operate, or have operated on our behalf, a number of websites, some of which give you an opportunity to register or provide us with personal information about yourself. Registration may be required to access certain features or promotions. This cookies and privacy policy explains how this information is used and how to contact us if you have any queries or concerns.
 
