@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thebewitchinkitchen.com privacy policy that was archived on 2015-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150615062146id_/http%3A//www.thebewitchinkitchen.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thebewitchinkitchen.com privacy policy that was archived on 2015-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151220001922id_/http%3A//www.thebewitchinkitchen.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - The Bewitchin' Kitchen
+# Privacy Policy | The Bewitchin' Kitchen
 
 This Privacy Policy governs the manner in which The Bewitchin’ Kitchen collects, uses, maintains and discloses information collected from users (each, a “User”) of the [http://thebewitchinkitchen.com](http://thebewitchinkitchen.com/) website (“Site”). This privacy policy applies to the Site and all products and services offered by The Bewitchin’ Kitchen.
 
