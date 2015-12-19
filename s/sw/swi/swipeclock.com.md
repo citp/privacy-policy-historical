@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the swipeclock.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316163337id_/http%3A//content.swipeclock.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the swipeclock.com privacy policy that was archived on 2015-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151219132853id_/http%3A//content.swipeclock.com/privacy-policy) for the most accurate reproduction.*
 
-# PRIVACY POLICY | Employee Time Clock Software | SwipeClock
+# PRIVACY POLICY - Employee Time Clock Software | SwipeClock
 
 ## PRIVACY POLICY
 
@@ -35,16 +35,4 @@ The analytics gathered on SwipeClock Services is used for statistical review and
 Timekeeping Data is 100% private. Your personal identifiable information is kept secure and only for use internally at SwipeClock. Your email and name will not be sold or shared with a third party.
 
 **Further Reading**  
-Website and online system use data is stored online with Google Analytics. To read more about this please read “[How Google uses data when you use our partners’ sites or apps.](http://www.google.com/policies/privacy/partners/)”
-
-**How to Reach SwipeClock**  
-SwipeClock  
-10813 South River Front Parkway, Suite 525  
-South Jordan, UT 84095  
-888-223-3450  
-Info@swipeclock.com
-
-**Privacy Policy Changes**  
-SwipeClock can modify, update and edit this policy at any time. This includes adding and removing services. You can easily see when this document was last updated by referring to the date at the top of the page.
-
-Thank you for using SwipeClock.com and our online time and attendance system and services.
+Website and online system use data is stored online with Google Analytics. To read more about this please read “[How Google uses data when you use our partners’ sites or apps.](http://www.google.com/policies/privacy/partners/)
