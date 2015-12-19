@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moofreechocolates.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607062316id_/http%3A//www.moofreechocolates.com/dairy-free-chocolate/legal/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moofreechocolates.com privacy policy that was archived on 2015-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151219114645id_/http%3A//moofreechocolates.com/dairy-free-chocolate/legal/privacy-policy.php) for the most accurate reproduction.*
 
 # Terms Of Use
 
@@ -12,4 +12,4 @@ On some of our web pages, you may be able to order products, enter competitions,
 
 Unless legally required to do so we will not intentionally share any of the information that you may provide with any third parties in a manner which may in anyway identify you without your expressed permission. For example, if we were to carry out a survey that you were to take part in then we may publish the results of the survey which may include your responses, however, we would not identify which responses were yours or reveal that you had taken part in the survey without your permission.
 
-We may disclose information that you have provided in response to a law enforcement agency's request or where we believe it is necessary to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the safety of any person, violations of our [Terms Of Use](https://web.archive.org/web/20150607062316id_/http%3A//www.moofreechocolates.com/dairy-free-chocolate/legal/terms.php) or as otherwise legally required by law.
+We may disclose information that you have provided in response to a law enforcement agency's request or where we believe it is necessary to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the safety of any person, violations of our [Terms Of Use](https://web.archive.org/web/20151219114645id_/http%3A//moofreechocolates.com/dairy-free-chocolate/legal/terms.php) or as otherwise legally required by law.
