@@ -1,79 +1,73 @@
-> *The following text is extracted and transformed from the pickthebrain.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627174805id_/http%3A//www.pickthebrain.com/blog/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pickthebrain.com privacy policy that was archived on 2015-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151219185410id_/http%3A//www.pickthebrain.com/blog/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Pick the Brain | Motivation and Self Improvement
 
-PickTheBrain knows that you care about how your personal information is used and shared, and we take your privacy seriously. Please read the following to learn more about our Privacy Policy. By visiting the PickTheBrain Web site, you are accepting the practices outlined in this Privacy Policy.
+Protecting your private information is our priority. This Statement of Privacy applies to the www.pickthebrain.com and PickTheBrain and governs data collection and usage. For the purposes of this Privacy Policy, unless otherwise noted, all references to PickTheBrain include www.pickthebrain.com and PTB. The PTB website is a Self Improvement Blog site. By using the PTB website, you consent to the data practices described in this statement.
 
-### **What Does This Privacy Policy Cover?**
+**  
+Collection of your Personal Information  
+**PTB may collect personally identifiable information, such as your name. PTB may also collect anonymous demographic information, which is not unique to you, such as your age, gender and household income. We may gather additional personal or non-personal information in the future.
 
-This Privacy Policy covers PickTheBrain’s treatment of personal information that PickTheBrain gathers when you are on the PickTheBrain Web site and when you use PickTheBrain services.
+Information about your computer hardware and software may be automatically collected by PTB. This information can include: your IP address, browser type, domain names, access times and referring website addresses. This information is used for the operation of the service, to maintain quality of the service, and to provide general statistics regarding use of the PTB website.
 
-This policy does not apply to the practices of third parties that PickTheBrain does not own or control, or to individuals that PickTheBrain does not employ or manage.
+Please keep in mind that if you directly disclose personally identifiable information or personally sensitive data through PTB’s public message boards, this information may be collected and used by others.
 
-### **What Personal Information About Users Does PickTheBrain** **Collect?**
+PTB encourages you to review the privacy statements of websites you choose to link to from PTB so that you can understand how those websites collect, use and share your information. PTB is not responsible for the privacy statements or other content on websites outside of the PTB website.
 
-Our primary goal in collecting personal information is to provide you with a friendly, personalized and efficient experience. We only collect personal information that is relevant to the purpose of our Web site. We do not process this information in a way that is incompatible with the purpose for which it has been collected or subsequently authorized by you. We collect the following types of information from our users:
+**  
+Use of your Personal Information  
+**PTB collects and uses your personal information to operate its website(s) and deliver the services you have requested.
 
-1\. Information You Provide to Us:
+PTB may also use your personally identifiable information to inform you of other products or services available from PTB and its affiliates. PTB may also contact you via surveys to conduct research about your opinion of current services or of potential new services that may be offered.
 
-We receive and store any information you enter on our Web site or provide to us in any other way. You can choose not to provide us with certain information, but then you may not be able to take advantage of various features. The personal information you provide is used for such purposes as:
+PTB does not sell, rent or lease its customer lists to third parties.
 
-* Registration: In order for you to use certain PickTheBrain services, such as receiving PickTheBrain email newsletters or purchasing certain products and services, you must complete a registration form. As part of this registration form, we require your email address.
+PTB may, from time to time, contact you on behalf of external business partners about a particular offering that may be of interest to you. In those cases, your unique personally identifiable information (e-mail, name, address, telephone number) is not transferred to the third party. PTB may share data with trusted partners to help perform statistical analysis, send you email or postal mail, provide customer support, or arrange for deliveries. All such third parties are prohibited from using your personal information except to provide these services to PTB, and they are required to maintain the confidentiality of your information.
 
-2\. Automatic Information:
+PTB may keep track of the websites and pages our users visit within PTB, in order to determine what PTB services are the most popular. This data is used to deliver customized content and advertising within PTB to customers whose behavior indicates that they are interested in a particular subject area.
 
-* We receive and store certain types of information whenever you interact with us. PickTheBrain automatically receives and records certain “traffic data” on our server logs from your browser including your IP address, PickTheBrain cookie information and the page you requested. PickTheBrain uses this traffic data to help diagnose problems with its servers, analyze trends and administer the Web site.
+PTB will disclose your personal information, without notice, only if required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on PTB or the site; (b) protect and defend the rights or property of PTB; and, (c) act under exigent circumstances to protect the personal safety of users of PTB, or the public.
 
-* PickTheBrain may also add on any page display various content, data and metrics such as articles, comments, images pertaining to, and summaries of, your activity on PickTheBrain or other related content, data and metrics.
+**  
+Security of your Personal Information  
+**PTB secures your personal information from unauthorized access, use or disclosure. When personal information (such as a credit card number) is transmitted to other websites, it is protected through the use of encryption, such as the Secure Sockets Layer (SSL) protocol.
 
-### Social sharing of data
+**  
+Children Under Thirteen**  
+PTB does not knowingly collect personally identifiable information from children under the age of thirteen. If you are under the age of thirteen, you must ask your parent or guardian for permission to use this website.
 
-* PickTheBrain allows other users to browse comments that you have created. PickTheBrain may choose to display this content throughout its site and services.
+**  
+Disconnecting your PTB Account from Third Party Websites**  
+You will be able to connect your PTB account to third party accounts. BY CONNECTING YOUR PTB ACCOUNT TO YOUR THIRD PARTY ACCOUNT, YOU ACKNOWLEDGE AND AGREE THAT YOU ARE CONSENTING TO THE CONTINUOUS RELEASE OF INFORMATION ABOUT YOU TO OTHERS (IN ACCORDANCE WITH YOUR PRIVACY SETTINGS ON THOSE THIRD PARTY SITES). IF YOU DO NOT WANT INFORMATION ABOUT YOU, INCLUDING PERSONALLY IDENTIFYING INFORMATION, TO BE SHARED INTHIS MANNER, DO NOT USE THE THIS FEATURE. You may disconnect your account from a third party account at any time. User may disconnect access to their accounts on third party sites by clicking ‘unfollow’ or ‘unlike’ on their social channels.
 
-* Syndication: PickTheBrain allows for the RSS syndication of all of its public content within the Web site.
+**  
+Opt-Out & Unsubscribe**  
+We respect your privacy and give you an opportunity to opt-out of receiving announcements of certain information. Users may opt-out of receiving any or all communications from PTB by contacting us here:
 
-* Social Bookmarking: PickTheBrain allows social bookmarking of all of its public content within the Web site.
+[PickTheBrain.com](http://www.pickthebrain.com/)  
+[Erin@PickTheBrain.com](mailto:erin@pickthebrain.com)  
+(310) 210-1553
 
-* API: PickTheBrain will allow 3rd parties access to all PickTheBrain data this is already publicly available through PickTheBrain.com. PickTheBrain will forever keep private all personally identifiable information.
+**  
+Changes to this Statement**  
+PTB will occasionally update this Statement of Privacy to reflect company and customer feedback. PTB encourages you to periodically review this Statement to be informed of how PTB is protecting your information.
 
-### **What About Cookies?**
+**  
+Contact Information**  
+PTB welcomes your questions or comments regarding this Statement of Privacy. If you believe that PTB has not adhered to this Statement, please contact PTB at:
 
-* Cookies are alphanumeric identifiers that we transfer to your computer’s hard drive through your Web browser to enable our systems to recognize your browser and tell us how and when pages in our Web site are visited and by how many people. PickTheBrain uses cookies to help provide you with a personalized experience but we do not share any personally identifiable information with third parties.
+Pick The Brain  
+686 E. 110 S., Suite 102  
+American Fork, Utah 84003
 
-* The “help” portion of the toolbar on the majority of browsers will direct you on how to prevent your browser from accepting new cookies, how to command the browser to tell you when you receive a new cookie, or how to fully disable cookies. We strongly recommend that you leave the cookies activated, however, because cookies enable you to take advantage of some of PickTheBrain’s features.
+Email Address:  
+[Erin@PickTheBrain.com](mailto:erin@pickthebrain.com)
 
-* Some of our current or future business partners may use cookies on PickTheBrain (for example, advertisers). However, we have no access to or control over these cookies.
+Telephone number:  
+(310) 210-1553
 
-### **Will PickTheBrain Share Any of the Information it Receives?**
+_  
+Effective as of December 8, 2015_
 
-Information about our users is an integral part of our business. We neither rent nor sell your personal information to anyone. We share your personal information only as described below.
-
-* Business Transfers:
-
-In some cases, we may choose to buy or sell assets. In these types of transactions, user information is typically one of the business assets that is transferred. Moreover, if PickTheBrain, or substantially all of its assets, were acquired, user information would be one of the assets that is transferred.
-
-* Protection of PickTheBrain and Others:
-
-We may release personal information when we believe in good faith that such release is necessary to comply with the law; to enforce or apply our conditions of use and other agreements; or to protect the rights, property or safety of PickTheBrain, our employees, our users or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction.
-
-* With Your Consent:
-
-Except as set forth above, you will be notified when your personal information may be shared with third parties or used for a purpose incompatible with the purpose(s) for which it was originally collected, and you will be able to prevent the sharing of this information by opting out.
-
-### Is Information About Me Secure?
-
-* Only employees who need personal information to perform a specific job (for example, a customer service representative) are granted access to it. All of our employees are kept up to date on our privacy and security practices.
-
-### What Choices Do I Have?
-
-* As stated previously, you can always opt not to disclose information, but then you may be unable to use certain features on our Web site, such as subscribing to email newsletters or purchasing certain products and services.
-
-* As explained earlier, the “help” portion of the toolbar on the majority of browsers will direct you on how to prevent your browser from accepting new cookies, how to command the browser to tell you when you receive a new cookie, or how to fully disable cookies. Please note, however, that if your browser does not accept cookies, you may not be able to take advantage of some of our features.
-
-### **Can Children Use PickTheBrain’s Services?**
-
-PickTheBrain does not specifically collect information about children.
-
-### **Conditions of Use**
-
-If you decide to visit the PickTheBrain Web site, your visit and any possible dispute over privacy is subject to this Privacy Policy and our Terms of Use, including limitations on damages, arbitration of disputes and application of New York state law.
+_  
+This is a[RocketLawyer.com](http://www.rocketlawyer.com/) document._
