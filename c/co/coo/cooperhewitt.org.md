@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cooperhewitt.org privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629123208id_/http%3A//www.cooperhewitt.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cooperhewitt.org privacy policy that was archived on 2015-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151219011200id_/http%3A//www.cooperhewitt.org/privacy) for the most accurate reproduction.*
 
 # Privacy | Cooper Hewitt, Smithsonian Design Museum
 
