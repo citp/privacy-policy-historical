@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dadsworksheets.com privacy policy that was archived on 2015-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150621011153id_/http%3A//www.dadsworksheets.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dadsworksheets.com privacy policy that was archived on 2015-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151220000153id_/http%3A//www.dadsworksheets.com/privacy-policy) for the most accurate reproduction.*
 
-# Free Math Worksheets at DadsWorksheets.com
+# Privacy Policy | DadsWorksheets.com
 
 The privacy of our visitors is of extreme importance to me. This privacy policy document outlines the types of personal information is received and collected by DadsWorksheets.com and how it is used.
 
