@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yourtest-india.com privacy policy that was archived on 2015-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150427042410id_/http%3A//www.yourtest-india.com/cgi-bin/global.pl%3Ftodo%3Dshow_page%26ident%3Ddatenschutz%26wingame_pk%3D40%26freetest_pk%3D2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yourtest-india.com privacy policy that was archived on 2015-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151219164722id_/http%3A//www.yourtest-india.com/cgi-bin/global.pl%3Ftodo%3Dshow_page%26ident%3Ddatenschutz%26wingame_pk%3D40%26freetest_pk%3D10) for the most accurate reproduction.*
 
 # Data Protection
 
@@ -27,7 +27,9 @@
   * You should be aware that information which you voluntarily reveal over the Internet, e.g. in discussion forums, via email or in chat rooms can be used by other parties. We do not monitor the actions of our visitors and registered members. If you reveal personal information to such third parties, you do so at your own risk. 
   * **8\. Changes in our policy**
   * We reserve the right to change or remove this Privacy Policy at our absolute discretion. We will post any new policy here and we encourage you to visit this area frequently to stay informed. 
-  * **9\. Who to contact?**
+  * **9\. Cookies**
+  * We collect information about the pages you view, and the links you click, including advertisements, through common internet technologies such as cookies and web beacons, and your IP-address, which is a number that is automatically assigned to your computer when you use the Internet. 
+  * **10\. Who to contact?**
   * Please write to us at [info@planet49.co.in](mailto:info@planet49.co.in) if you have any comments or questions about this Privacy Policy, or if you wish to be removed from our mailing list or report any violations of the Privacy Policy. We will respond to you as soon as we receive an email or notification from you. 
 
 
