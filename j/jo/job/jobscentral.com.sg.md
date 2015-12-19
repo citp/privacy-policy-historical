@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jobscentral.com.sg privacy policy that was archived on 2015-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150615001902id_/http%3A//jobscentral.com.sg/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobscentral.com.sg privacy policy that was archived on 2015-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151219132717id_/http%3A//jobscentral.com.sg/privacy.php) for the most accurate reproduction.*
 
 # Protect Your Privacy and Safety
 
