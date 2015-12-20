@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the localleadrobot.com privacy policy that was archived on 2015-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150521190151id_/http%3A//www.localleadrobot.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the localleadrobot.com privacy policy that was archived on 2015-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151220132657id_/http%3A//www.localleadrobot.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Local Lead Robot
 
