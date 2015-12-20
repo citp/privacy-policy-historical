@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the luther.edu privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612085213id_/http%3A//www.luther.edu/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the luther.edu privacy policy that was archived on 2015-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151220162018id_/http%3A//www.luther.edu/privacy) for the most accurate reproduction.*
 
 # Privacy: Luther College Privacy Policy
 
@@ -21,7 +21,7 @@ We do not disclose any personal information about you to anyone, except as permi
 
 We restrict access to your personal information to our employees who need to know the information in order to provide service to you, such as processing your application for admission. We maintain physical, electronic, and procedural safeguards in compliance with federal regulations to safeguard your personal information.
 
-## **Privacy Online**
+## Privacy Online
 
 Luther College considers privacy, security, and service in our online operations to be just as critical as in the rest of our operations. We therefore employ all of the safeguards described above, along with the following Internet-specific practices.
 
