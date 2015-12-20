@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spout.com privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626111238id_/http%3A//www.indiewire.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spout.com privacy policy that was archived on 2015-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151220141928id_/http%3A//www.indiewire.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Indiewire
 
