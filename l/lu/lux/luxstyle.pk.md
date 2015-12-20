@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the luxstyle.pk privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626094414id_/http%3A//www.unileverprivacypolicy.com/en_gb/policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the luxstyle.pk privacy policy that was archived on 2015-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151220153638id_/http%3A//www.unileverprivacypolicy.com/en_gb/policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
