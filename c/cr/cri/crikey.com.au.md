@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crikey.com.au privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610020412id_/http%3A//www.crikey.com.au/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crikey.com.au privacy policy that was archived on 2015-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151220111723id_/http%3A//www.crikey.com.au/about/privacy) for the most accurate reproduction.*
 
 # Privacy | Crikey
 
@@ -45,3 +45,5 @@ Crikey will investigate all complaints.
 ## Changes to this Privacy Policy
 
 Crikey is continually monitoring privacy developments and accordingly, from time to time may modify this Privacy Policy to reflect changes in the law, self-regulatory initiatives and/or technology. Amendments to the Crikey Privacy Policy will be posted on [www.crikey.com.au](http://www.crikey.com.au/).
+
+Copyright © 2000-2015 PRIVATE MEDIA PTY LTD, PUBLISHERS OF CRIKEY. ALL RIGHTS RESERVED. 
