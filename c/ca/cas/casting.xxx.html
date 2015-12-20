@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the casting.xxx privacy policy that was archived on 2015-04-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150407165022id_/http%3A//www.casting.xxx/tour/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the casting.xxx privacy policy that was archived on 2015-12-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151220195320id_/http%3A//www.casting.xxx/tour/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <title>Casting.XXX</title>
@@ -52,7 +52,127 @@ girls talked into doing things from blowjobs to creampies, anal, swallowing and 
     width:35px;
 }
 </style>
+<script>
+var win_width = 1021; // window width in pixels
+var win_height = 544; // window height in pixels
+var win_resize = 0; // allow popup window to be resizes, to disallow change to 0
+var win_scroll = 0; // show scroll bars on new window, to disallow change to 0
+var win_status = 0; // show status bar on new window, to disallow change to 0
+var win_location = 0; // show the URL location bar, to disallow change to 0
+var win_toolbar = 0; // show browser toolbar, to disallow change to 0
 
+wLeft = window.screenLeft ? window.screenLeft : window.screenX;
+wTop = window.screenTop ? window.screenTop : window.screenY;
+var left = wLeft + (window.innerWidth / 2) - (win_width / 2);
+var top = wTop + (window.innerHeight / 2) - (win_height / 2);
+
+function offerGo(offerurl){
+    popup_Set_Cookie(cookie_name,"1",hours,"/","","");
+	pop_window = window.open(offerurl,'offer_window','location='+ win_location +',left='+ left +',top='+ top +',status='+ win_status +',scrollbars='+ win_scroll +',resizable='+ win_resize +',toolbar='+ win_toolbar +',width='+ win_width +',height='+win_height);
+}
+</script><script>
+var default_URL = "http://www.fakehub.com/fakeagent/popup"; // this is the URL you want to go on the popup unless a goto url is sent
+
+var cookie_name = "sitepu"; // this can be any alphanumeric string (no spaces or special characters)
+
+var window_width = 1063; // window width in pixels
+var window_height = 579; // window height in pixels
+var window_resize = 0; // allow popup window to be resizes, to disallow change to 0
+var window_scroll = 0; // show scroll bars on new window, to disallow change to 0
+var window_status = 0; // show status bar on new window, to disallow change to 0
+var window_location = 0; // show the URL location bar, to disallow change to 0
+var window_toolbar = 0; // show browser toolbar, to disallow change to 0
+
+wLeft = window.screenLeft ? window.screenLeft : window.screenX;
+wTop = window.screenTop ? window.screenTop : window.screenY;
+var left = wLeft + (window.innerWidth / 2) - (window_width / 2);
+var top = wTop + (window.innerHeight / 2) - (window_height / 2);
+
+var hours = 24; // number of hours until next popup
+
+function popup_Set_Cookie( name, value, expires, path, domain, secure )
+{
+	// set time, it's in milliseconds
+	var today = new Date();
+	today.setTime( today.getTime() );
+	
+	if ( expires )
+	{
+	expires = expires * 1000 * 60 * 60;
+	}
+	var expires_date = new Date( today.getTime() + (expires) );
+	
+	document.cookie = name + "=" +escape( value ) +
+	( ( expires ) ? ";expires=" + expires_date.toGMTString() : "" ) +
+	( ( path ) ? ";path=" + path : "" ) +
+	( ( domain ) ? ";domain=" + domain : "" ) +
+	( ( secure ) ? ";secure" : "" );
+}
+
+function popup_Get_Cookie( check_name ) {
+	// first we'll split this cookie up into name/value pairs
+	// note: document.cookie only returns name=value, not the other components
+	var a_all_cookies = document.cookie.split( ';' );
+	var a_temp_cookie = '';
+	var cookie_name = '';
+	var cookie_value = '';
+	var b_cookie_found = false; // set boolean t/f default f
+
+	for ( i = 0; i < a_all_cookies.length; i++ )
+	{
+		// now we'll split apart each name=value pair
+		a_temp_cookie = a_all_cookies[i].split( '=' );
+
+		// and trim left/right whitespace while we're at it
+		cookie_name = a_temp_cookie[0].replace(/^\s+|\s+$/g, '');
+
+		// if the extracted name matches passed check_name
+		if ( cookie_name == check_name )
+		{
+			b_cookie_found = true;
+			// we need to handle case where cookie has no value but exists (no = sign, that is):
+			if ( a_temp_cookie.length > 1 )
+			{
+				cookie_value = unescape( a_temp_cookie[1].replace(/^\s+|\s+$/g, '') );
+			}
+			// note that in cases where cookie is initialized but no value, null is returned
+			return cookie_value;
+			break;
+		}
+		a_temp_cookie = null;
+		cookie_name = '';
+	}
+	if ( !b_cookie_found )
+	{
+		return null;
+	}
+}
+
+
+// start editing here for the setting you want
+
+function winGo(goto)
+{
+
+	
+	var URL = default_URL;
+	
+	if (goto) {
+		URL = goto;
+	}
+	
+	// checking for cookie
+	if (!popup_Get_Cookie(cookie_name))
+	{
+		// setting cookie
+		popup_Set_Cookie(cookie_name,"1",hours,"/","","")
+		
+		pop_window = window.open(URL,'pop_window','location='+ window_location +',status='+ window_status +',scrollbars='+ window_scroll +',resizable='+ window_resize +',toolbar='+ window_toolbar +',width='+ window_width +',height='+window_height); 
+	}
+}
+
+document.onclick = function() {winGo()};
+</script>
 </head>
 
 <body>
