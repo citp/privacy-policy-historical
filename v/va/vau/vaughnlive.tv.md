@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the vaughnlive.tv privacy policy that was archived on 2015-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150620001334id_/http%3A//vaughnlive.tv/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vaughnlive.tv privacy policy that was archived on 2015-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151220163248id_/http%3A//vaughnlive.tv/privacy) for the most accurate reproduction.*
 
-# Privacy - [ Vaughn Live ] http://vaughnlive.tv - Possibly the greatest LIVE streaming video site on the internet! - Live Webcams, Live Video, Live Streaming, Live Broadcast, Live People
+# Privacy - Vaughn Live
 
 Privacy 
 
