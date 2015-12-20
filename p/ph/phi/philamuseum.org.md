@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the philamuseum.org privacy policy that was archived on 2015-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150513180637id_/http%3A//www.philamuseum.org/webpolicies.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the philamuseum.org privacy policy that was archived on 2015-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151220211339id_/http%3A//www.philamuseum.org/webpolicies.html) for the most accurate reproduction.*
 
 # Philadelphia Museum of Art - Web Policies
 
