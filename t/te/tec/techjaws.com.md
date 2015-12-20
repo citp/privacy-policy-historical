@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the techjaws.com privacy policy that was archived on 2015-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150620045558id_/http%3A//www.techjaws.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techjaws.com privacy policy that was archived on 2015-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151220053333id_/http%3A//www.techjaws.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | TechJaws.com
+# TechJaws.com | Privacy Policy
 
 ## Privacy Policy
 
-This Privacy Policy governs the manner in which TechJaws collects, uses, maintains and discloses information collected from users (each, a “User”) of the [http://www.techjaws.com](https://web.archive.org/web/20150620045558id_/http%3A//) website (“Site”). This privacy policy applies to the Site and all products and services offered by TechJaws.
+This Privacy Policy governs the manner in which TechJaws collects, uses, maintains and discloses information collected from users (each, a “User”) of the [http://www.techjaws.com](https://web.archive.org/web/20151220053333id_/http://www.techjaws.com/) website (“Site”). This privacy policy applies to the Site and all products and services offered by TechJaws.
 
 **Personal identification information**
 
@@ -68,8 +68,8 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 **Contacting us**
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
-[TechJaws](https://web.archive.org/web/20150620045558id_/http%3A//)  
-[http://www.techjaws.com](https://web.archive.org/web/20150620045558id_/http%3A//)  
+[TechJaws](https://web.archive.org/web/20151220053333id_/http://www.techjaws.com/)  
+[http://www.techjaws.com](https://web.archive.org/web/20151220053333id_/http://www.techjaws.com/)  
 1502 Canterfield Parkway W  
 West Dundee, IL 60118  
 boscony@yahoo.com
