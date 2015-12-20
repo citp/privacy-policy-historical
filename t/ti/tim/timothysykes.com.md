@@ -1,41 +1,77 @@
-> *The following text is extracted and transformed from the timothysykes.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315043235id_/http%3A//www.timothysykes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the timothysykes.com privacy policy that was archived on 2015-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151220145729id_/http%3A//www.timothysykes.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Timothy Sykes
 
-BullShip Press, LLC collects Personal Information from registered participants. As a condition of registration, participants provide their name and email address. BullShip Press, LLC may also collect additional information from participants and other visitors to the site through cookies or web beacons as detailed below.
+This Privacy Policy describes our practices regarding the information we collect on this and our other websites, including any website on which it appears (collectively, the “Online Services”).
 
-BullShip Press, LLC is the sole owner of the information collected through our site. We may share your Personal Information, as permitted by law, to both our affiliates and other non-affiliated third parties that offer products or services that we or they believe may be of interest to you.
+This Privacy Policy only applies to our Online Services and does not apply to information collected or received through other means. This Privacy Policy does not apply to services, websites or mobile apps offered by third parties, even if this site links to those services or third parties.
 
-#### Below is our privacy policy:
+This website and our Online Services are not directed to minors under the age of 18. You should not use this website or our Online Services if you are under the age of 18.
 
-It is BullShip Press, LLC’s policy to respect your privacy regarding any information we may collect while operating our website.
+ _Information You Provide_
 
-##### Website Visitors
+Visitors may choose to interact with our Online Services in ways that require the collection of personally-identifying information. The amount and type of information that we gather depends on the nature of the interaction. For example, we may collect information that you provide when you:
 
-Like most website operators, BullShip Press, LLC collects non-personally-identifying information of the sort that web browsers and servers typically make available, such as the browser type, language preference, referring site, and the date and time of each visitor request. BullShip Press, LLC’s purpose in collecting non-personally identifying information is to better understand how BullShip Press, LLC’s visitors use its website. From time to time, BullShip Press, LLC may release non-personally-identifying information in the aggregate, e.g., by publishing a report on trends in the usage of its website.
+  * Register for an account;
+  * Communicate with us, such as to provide feedback, request support, or ask for additional information;
+  * Subscribe to [newsletters](http://www.timothysykes.com/plans), register for seminars or training, or purchase goods or services;
+  * Use interactive or social networking features of our Online Services, including setting up a public profile, submitting content (such as comments, articles, links, or other items), or using our chat feature; or
+  * Otherwise interact with or use our Online Services.
 
-BullShip Press, LLC also collects potentially personally-identifying information like Internet Protocol (IP) addresses. BullShip Press, LLC does not use such information to identify its visitors, however, and does not disclose such information, other than under the same circumstances that it uses and discloses personally-identifying information, as described below.
 
-##### Gathering of Personally-Identifying Information
 
-Certain visitors to BullShip Press, LLC’s websites choose to interact with BullShip Press, LLC in ways that require BullShip Press, LLC to gather personally-identifying information. The amount and type of information that BullShip Press, LLC gathers depends on the nature of the interaction. In each case, BullShip Press, LLC collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor’s interaction with BullShip Press, LLC. BullShip Press, LLC does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities.
+Through these interactions we may collect or receive your name, address, and contact information such as phone number or email address. If you place an order, we will collect your payment details, such as payment card information. In certain cases, we may ask you to provide information on your income and assets.
 
-##### Aggregated Statistics
+ _Automatically Collected Information_
 
-BullShip Press, LLC may collect statistics about the behavior of visitors to its websites. BullShip Press, LLC may display this information publicly or provide it to others. However, BullShip Press, LLC does not disclose personally-identifying information other than as described below.
+Like most website operators, we collect information of the sort that web browsers and servers typically make available, such as your IP address, your browser type, information regarding your internet service provider or the type of device you used to access this website, language preference, pages visited, and the date and time of each page request. Additionally, if you navigated from or navigate to other websites from our Online Services, we may collect the address of those websites.
 
-##### Protection of Certain Personally-Identifying Information
+ _Data Technologies_
 
-BullShip Press, LLC discloses potentially personally-identifying and personally-identifying information only to those of its employees, contractors and affiliated organizations that (i) need to know that information in order to process it on BullShip Press, LLC’s behalf or to provide services available at BullShip Press, LLC’s websites, and (ii) that have agreed not to disclose it to others. Some of those employees, contractors and affiliated organizations may be located outside of your home country; by using BullShip Press, LLC’s websites, you consent to the transfer of such information to them. If you are a registered user of an BullShip Press, LLC website and have supplied your email address, BullShip Press, LLC may occasionally send you an email to tell you about new features, solicit your feedback, or just keep you up to date with what’s going on with BullShip Press, LLC and our products. We primarily use our blog to communicate this type of information, so we expect to keep this type of email to a minimum. If you send us a request (for example via a support email or via one of our feedback mechanisms), we reserve the right to publish it in order to help us clarify or respond to your request or to help us support other users. BullShip Press, LLC takes all measures reasonably necessary to protect against the unauthorized access, use, alteration or destruction of potentially personally-identifying and personally-identifying information.
+We may collect information about your activities on this site through the use of cookies, clear gifs or web beacons, local shared objects or Flash cookies, or through other identifiers or technologies, including similar technologies as they may evolve over time. We refer to these technologies collectively as Data Technologies. We use Data Technologies to help us identify and track visitors, their usage of our Online Services, and their website access preferences.
 
-##### Cookies
+We may allow third parties to use Data Technologies on our site. The information collected from these Data Technologies may be shared with and used by us, by others acting on our behalf, or by third parties. Information collected by Data Technologies may be used on this website or on other websites, services, or online applications, including websites that may not be operated by us. For example, we may partner with third party ad networks to either display advertising on our website or to manage our advertising on other sites. These ad-network partners use Data Technologies to collect information about your activities on this and other websites to provide you targeted advertising based upon your interests. These websites and third-party ad networks are not controlled by us.
 
-A cookie is a string of information that a website stores on a visitor’s computer, and that the visitor’s browser provides to the website each time the visitor returns. BullShip Press, LLC uses cookies to help BullShip Press, LLC identify and track visitors, their usage of BullShip Press, LLC website, and their website access preferences. BullShip Press, LLC visitors who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before using BullShip Press, LLC’s websites, with the drawback that certain features of BullShip Press, LLC’s websites may not function properly without the aid of cookies.
+You may be able to restrict our use of certain Data Technologies, such as cookies, by modifying your browser settings. For example, your web browser may enable you to refuse cookies. By restricting our use of Data Technologies, certain features of our Online Services may not function properly.
 
-##### Privacy Policy Changes
+ _Information from Other Sources_
 
-Although most changes are likely to be minor, BullShip Press, LLC may change its Privacy Policy from time to time, and in BullShip Press, LLC’s sole discretion. BullShip Press, LLC encourages visitors to frequently check this page for any changes to its Privacy Policy. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.
+We may obtain information about you from third parties. This information may include information about your use of our Online Services, your use of other websites, your interests and preferences, and other information. For example, we may collect information about your browsing and usage history on this site. We may combine the information we obtain from third parties with information that we or our affiliates have collected about you. ** **
 
-#### Disclaimer
+We and others acting on our behalf may use the information that we collect or receive about you to operate our business, including our Online Services. For example, we may:
 
-[Thinkorswim](http://tim.ly/tossykes), Inc. has entered into a Marketing Agreement with BullShip Press, LLC whereby [Thinkorswim](http://tim.ly/tossykes) pays BullShip Press, LLC to recommend [Thinkorswim](http://tim.ly/tossykes) as its executing broker. The existence of this Marketing Agreement should not be deemed as an endorsement or recommendation of BullShip Press, LLC by [Thinkorswim](http://tim.ly/tossykes) and/or any of its affiliated companies. Neither [Thinkorswim](http://tim.ly/tossykes), Inc. nor any of its affiliated companies is responsible for the privacy practices of BullShip Press, LLC or this website. [Thinkorswim](http://tim.ly/tossykes), Inc. does not warrant the accuracy or content of the products or services offered by BullShip Press, LLC or this website. Use of this site and its services and/or products is the decision of and at the discretion of the individual or entity choosing this service and/or product. [Thinkorswim](http://tim.ly/tossykes), Inc. makes no guarantees or warranties of any kind and of the products or services offered by BullShip Press, LLC or by or through this website and shall have no liability therefore.
+  * Deliver, administer, and improve the services, products and features that we provide to you and others;
+  * Perform research and analysis aimed at improving our products, services and technologies, and for marketing, financial, operational or other purposes;
+  * Display content and advertising that are customized to your interests and preferences;
+  * Comply with applicable laws or our policies;
+  * Prevent fraud, theft, or injury to you, us, or others;
+  * Contact you, including through telephone, fax, text, or chat; and
+  * Communicate with you about our Online Services, about products or services you’ve purchased, and additional products and services you may find of value.
+
+
+
+In some cases, we may publicly display information about you, or display your information to other users or visitors of our Online Services. For example, if you send us a request (such as via a support email or via one of our feedback mechanisms), we reserve the right to publish it in order to help us clarify or respond to your request or to help us support other users. In addition, we may post, publish, or otherwise publicly display or use content you post in our chat rooms or through our other social networking features, including for our own promotional or marketing purposes. If you create a profile in order to access our social networking features, your profile information may be displayed and made publicly available, including to other users or visitors. We may also aggregate information about you and combine it with information on other visitors or users of our Online Services. We may display this information publicly or provide it to others.
+
+We may share with others the information that we collect or receive, including our employees, affiliates, contractors, service providers, and marketing partners (including analytics companies and advertising networks who provide Data Technologies on our website).
+
+Other parties may collect personally identifiable information about your online activities over time and across different websites when you use our site or online services. In addition, we may share information we have collected from you, including personal information, in connection with the sale or merger of our business or the transfer of our assets.
+
+We may also use and share information, including with law enforcement or as required by law, in order to:
+
+  * Protect or defend our (and our affiliates’) interests, legal rights or property;
+  * Protect the rights, interests, safety and security of users of this and other websites and applications we make available;
+  * Protect the rights, interests, safety and security of members of the public;
+  * Combat fraud, theft, and or injury, or for risk management purposes; and
+  * Comply with prudent legal, data privacy, or data security practice as we may determine, or to comply with applicable law or legal process.
+
+
+
+If you are a registered user of our Online Services, you can review and update certain information associated with your account by logging in. If you create a profile for use of the social networking features we provide, you may access and update certain information associated with that profile by logging in. [Please provide more direction if possible, such as a description of the particular steps that a consumer should follow on the websites in order to access and update their account information. For example, some websites have a section labeled “My Account,” or similar, that provides easy access to this account information.] In some cases, you may be able to edit content which you have posted by selecting the link to edit or modify that content; where available, this link will appear next to the editable content. Similarly, you may also remove content you post by choosing to delete rather than edit that content. Removing content in this manner will prevent other ordinary users of our Online Services from seeing that content. However, these removal procedures do not ensure complete or comprehensive removal of the content or information posted on our Online Services by you. ** **
+
+As of the effective date listed above, there is no commonly accepted response for Do Not Track signals initiated by browsers. Therefore, we do not respond to such signals or to other mechanisms that provide the ability to exercise choice regarding the collection of personally identifiable information regarding your online activities over time.
+
+From time to time, we may change this Privacy Policy. We will post the revised version of our Privacy Policy here, so we suggest that you check here periodically for the most up-to-date version of our Privacy Policy. If we make changes to or update this Privacy Policy, we will revise the Effective Date at the top of this page.
+
+If you have any questions regarding this Privacy Policy or any of the practices described in this Privacy Policy, you can [contact us](http://www.timothysykes.com/contact) at: [Insert Business Contact Information].
+
+Any disputes regarding this Privacy Policy will be resolved by arbitration as set forth in section ___ of the Terms of Service that can be accessed here. [Provide a hyperlink to the relevant section of the Terms of Service, once finalized.]
