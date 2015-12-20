@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tickco.com privacy policy that was archived on 2015-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150429060849id_/http%3A//www.razorgator.com/tickets/about-us/privacysecurity) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tickco.com privacy policy that was archived on 2015-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151220204451id_/http%3A//www.razorgator.com/tickets/about-us/privacysecurity) for the most accurate reproduction.*
 
 # Razorgator Tickets Privacy Policy & Security | Live Event Tickets
 
@@ -13,7 +13,7 @@ We encourage you to review and familiarize yourself with our Privacy Policy, but
 Some of our marketing partners use cookies on our site. We have no access to or control over these cookies. This privacy statement covers the use of cookies by www.razorgator.com only and does not cover the use of cookies by any advertisers. 
 
 Razorgator   
-If you have questions or concerns regarding this statement, you should first contact the Privacy Team at 4094 Glencoe Ave. Suite A, Marina del Rey, CA 90292.
+If you have questions or concerns regarding this statement, you should first contact the Privacy Team at 4216 3/4 Glencoe Ave Marina del Rey, CA 90292.
 
 Special note about children   
 This site is targeted primarily for use by adults. We do not currently market to or create special areas for use by children. Accordingly, we do not knowingly collect age identifying information, nor do we knowingly collect any personal information from children under the age of 13 years. However, we hereby advise all visitors to our site under the age of 13 not to disclose or provide any personal information on our site. In the event that we discover that a child under the age of 13 has provided personal information to us, in accordance with the Children’s Online Privacy Protection Act (please see the Federal Trade Commission’s website at www.ftc.gov/kidzprivacy for more information about this Act), we will delete the child’s Personal Information from our files to the extent technologically possible. 
@@ -70,7 +70,7 @@ As a customer or promotion/sweepstakes entrant, you will occasionally receive em
 
 Attn: Marketing Department   
 Razorgator, Inc.   
-4094 Glencoe Ave. Suite A   
+4216 3/4 Glencoe Ave   
 Marina del Rey, CA 90292 
 
 Razorgator reserves the right to limit membership to those who will accept emails. Customers will be notified via email prior to any actions taken. 
@@ -84,7 +84,7 @@ Changes to the Privacy Policy
 This policy is effective as of January 1, 2005. If we decide to change our privacy policy, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page. 
 
 If you have a privacy question or concern   
-Of course, you may always submit concerns regarding our Privacy Statement or our privacy practices via email by clicking here. Please reference the privacy policy in your subject line. Razorgator will attempt to respond to all reasonable concerns or inquiries within five business days of receipt. You can also write to us in care of Razorgator, 4094 Glencoe Ave. Suite A, Marina del Rey, CAa 90292 Attn: Privacy Team. Agents 
+Of course, you may always submit concerns regarding our Privacy Statement or our privacy practices via email by clicking here. Please reference the privacy policy in your subject line. Razorgator will attempt to respond to all reasonable concerns or inquiries within five business days of receipt. You can also write to us in care of Razorgator, 4216 3/4 Glencoe Ave. Marina del Rey, CA 90292 Attn: Privacy Team. Agents 
 
 We use an outside shipping company to fulfill orders, and a credit card processing company to bill you for goods and services. These companies do not retain, share, store or use personally identifiable information for any other purposes. 
 
