@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brealtime.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607144057id_/http%3A//www.brealtime.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brealtime.com privacy policy that was archived on 2015-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151220071334id_/http%3A//www.brealtime.com/privacy-policy) for the most accurate reproduction.*
 
 # bRealTime – Privacy Policy
 
@@ -60,16 +60,21 @@ Please be aware that the Sites of our advertiser clients as well as the Sites on
 
 Your Internet browser stores OBA-related data as cookies. If you have cookies disabled, if you delete your cookies, or if other software deletes the cookies used for that data storage, such data is lost because it is not retained separately by CPX Interactive. The cookies that store data related to CPX Interactive’s OBA will in any case expire one year after the last time such information is stored, barring any technical malfunction.
 
-CPX Interactive retains information regarding ad delivery (see, “Ad Delivery & Reporting” above) for up to six (6) months. However, CPX Interactive may retain aggregate statistics, reports and summaries regarding ad delivery for a longer period.
-
+CPX Interactive retains information regarding ad delivery (see, “Ad Delivery & Reporting” above) for up to six (6) months. However, CPX Interactive may retain aggregate statistics, reports and summaries regarding ad delivery for a longer period.  
+  
 CPX Interactive may delete any or all of OBA or information regarding ad delivery that relates to you at any time and in CPX Interactive’s sole discretion, notwithstanding its normal data retention policies. Further, CPX Interactive reserves the right to retain and use any information described in this Policy as reasonably necessary to comply with laws or regulations, notwithstanding any limitations described in this Policy to the contrary. If CPX Interactive changes its retention data policies by updating this Policy, its new policies will apply to all data then retained by CPX Interactive.
 
 ## Your Choices
 
-#### OBA Opt-Out
+#### OBA Opt-Out and Your Choices
 
-If you would like to opt out of OBA, then we offer “opt-out cookies” to block the tracking and placement ** ** of future CPX Interactive cookies for OBA purposes on your system. If you have multiple Internet browsers or users on the same computer, you will need to perform the opt-out operation for each browser and/or user. If you or your anti-virus or other software deletes the opt-out cookies from your computer, if you re-install your browser, or if you delete your cookies (which can happen if you clear or delete your browser history), then you will need to repeat the process. The opt-out cookies will not work while you have set your browser to ignore cookies. You may [click here](http://ad.yieldmanager.com/opt-out) to Install the CPX Opt Out Cookie.  
-Please note that the above link for opt-out cookies is applicable to CPX Interactive, but not any other CPX Interactive Entity Web site. Also, please note that use of the opt-out cookies will affect our ability to provide you content and advertisements that will more effectively match your interests and may prevent us from controlling the frequency with which you may view any particular advertisement. Please report any problems related to the opt-out process to our Customer Services at [contact@cpxinteractive.com](mailto:contact@cpxinteractive.com) .
+Advertisers may collect data about your online browsing activity and use it to show you targeted ads (a process known as “behavioral advertising”).
+
+You can prevent these companies from showing you targeted ads by submitting opt-outs. Opting-out will only prevent targeted ads so you may continue to see generic (non-targeted ads) from these companies after you opt-out. 
+
+To opt out you can can visit the the Digital Advertising Alliance’s opt-out page to opt-out by clicking [here](http://www.aboutads.info/choices/).
+
+You may opt in to behaviorally targeted ads anytime by deleting your browser’s cookies.
 
 #### European Union Privacy
 
