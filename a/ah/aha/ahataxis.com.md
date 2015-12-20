@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the ahataxis.com privacy policy that was archived on 2015-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150619045501id_/http%3A//www.ahataxis.com/view/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ahataxis.com privacy policy that was archived on 2015-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151220195147id_/http%3A//www.ahataxis.com/view/privacy%23privacy) for the most accurate reproduction.*
 
 # Privacy policy | AHA Taxis
 
 ## Privacy
 
-Your privacy matters to Nurture Talent Academy Private Limited (the "Company", "we", “AHA”, or "us"). This Privacy Policy explains how we collect, use, share and protect information about you. We also provide information regarding how you can access and update your information and make certain choices about how your information is used. 
+Your privacy matters to WAAH Taxis Private Limited (the "Company", "we", “AHA”, or "us"). This Privacy Policy explains how we collect, use, share and protect information about you. We also provide information regarding how you can access and update your information and make certain choices about how your information is used. 
 
 The Privacy Policy covers both our “online” (e.g., web and mobile services, including any web sites operated by us such as www.ahataxis.com or mobile applications, however accessed and/or used, whether via personal computers, mobile devices or otherwise) and “offline” (e.g., collection of data through mailings, telephone, or in person) activities owned, operated, provided, or made available by the Company. Our “online” and “offline” activities are collectively referenced as the “Services.” 
 
