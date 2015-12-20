@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cssplay.co.uk privacy policy that was archived on 2015-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150506171459id_/http%3A//www.cssplay.co.uk/w3c/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cssplay.co.uk privacy policy that was archived on 2015-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151220025915id_/http%3A//www.cssplay.co.uk/w3c/privacy.html) for the most accurate reproduction.*
 
 # Stu Nicholls | CSS PLAY | Privacy Policy
 
@@ -92,11 +92,6 @@ If you would like more information about this practice and to know your choices 
 
 Your donations keep CSS PLAY running.  
 If your donation is for the use of a demo then please email me with the demo url after making your donation.
-
-For more CSS demonstrations  
-I recommend that you visit the Dynamic Drive CSS Library.
-
-[](http://www.dynamicdrive.com/style/)
 
   
 
