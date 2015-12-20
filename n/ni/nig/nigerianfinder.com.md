@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nigerianfinder.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608005923id_/http%3A//nigerianfinder.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nigerianfinder.com privacy policy that was archived on 2015-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151220163637id_/http%3A//nigerianfinder.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Nigerian Finder
 
@@ -75,5 +75,3 @@ Sensitive and private data exchange between the Site and its Users happens over 
 basicfreelance@gmail.com
 
 This document was last updated on December 31, 2013
-
-#### Follow Us on Facebook & Twitter
