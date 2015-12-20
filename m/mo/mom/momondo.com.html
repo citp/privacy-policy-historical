@@ -1,15 +1,15 @@
-<!--The following is the downloaded HTML source of the momondo.com privacy policy that was archived on 2015-06-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150627150048id_/http%3A//www.momondo.com/content/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the momondo.com privacy policy that was archived on 2015-12-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151220171414id_/http%3A//www.momondo.com/content/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head><title>
 	Momondo.com
-</title><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=Edge"><script src="https://js-agent.newrelic.com/nr-632.min.js"></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info = {"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"8fbba78016","applicationID":"5738255","transactionName":"NF0ENhMEVkYCAkZdDA0XJzExSkxdBgxXR0wOVwsNDwFXGhAKS1MCF11JAQ4LTFANFVVRDQZKDwFPBEtFGw==","queueTime":0,"applicationTime":71,"ttGuid":"27F11EEA9C352E82","agent":"js-agent.newrelic.com/nr-632.min.js"}</script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"XQMEVFNXGwYHV1lQAgQ="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),f=c.length,u=i(a,o,r),d=0;f>d;d++)c[d].apply(u,n);return u}function a(t,e){f[t]=s(t).concat(e)}function s(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:s,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:23,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(f){try{r("ierr",[f,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(5),window.onerror=e;try{throw new Error}catch(f){"stack"in f&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&t(4),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:10,2:9,3:7,4:11,5:3,6:24,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t){t("loader").features.ins=!0},{loader:"G9z0Bl"}],6:[function(t){function e(){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var n=t("ee"),r=t("handle"),o=t(1),i=t(2);t("loader").features.stn=!0,t(3),n.on("fn-start",function(t){var e=t[0];e instanceof Event&&(this.bstStart=Date.now())}),n.on("fn-end",function(t,e){var n=t[0];n instanceof Event&&r("bst",[n,e,this.bstStart,Date.now()])}),o.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),o.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),i.on("fn-start",function(){this.bstStart=Date.now()}),i.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),n.on("pushState-start",function(){this.time=Date.now(),this.startPath=location.pathname+location.hash}),n.on("pushState-end",function(){r("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.addEventListener("webkitresourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1),window.performance.addEventListener("resourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1)),document.addEventListener("scroll",e,!1),document.addEventListener("keypress",e,!1),document.addEventListener("click",e,!1)}},{1:10,2:9,3:8,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],7:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:24,2:25,ee:"QJf3ax",gos:"7eSDFh"}],8:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window.history,["pushState"],"-")},{1:25,2:24,ee:"QJf3ax"}],9:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:25,2:24,ee:"QJf3ax"}],10:[function(t,e){function n(t,e,n){t[0]=o(t[0],"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:25,2:24,ee:"QJf3ax"}],11:[function(t,e){function n(){f.inPlace(this,p,"fn-")}function r(t,e){f.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),f=c(a),u=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(i){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,f.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:7,2:25,ee:"QJf3ax"}],12:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var a=t.responseType,f="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,u=n(f);if(u&&(r.rxSize=u),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(e.cat=d.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,o("xhr",[e,r,this.startTime])}}}function n(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,f=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=e,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,e){var r=this.metrics,o=t[0],i=this;if(r&&o){var f=n(o);f&&(r.txSize=f)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{a.emit("internal-error",[n])}catch(r){}}};for(var u=0;c>u;u++)e.addEventListener(s[u],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:13,3:11,4:7,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],13:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],14:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:23,2:24,handle:"D5DuLP"}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info,e=f.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){s(d,function(e,n){e in t||(t[e]=n)});var n="https"===u.split(":")[0]||t.sslForHttp;p.proto=n?"https://":"http://",a("mark",["onload",i()]);var r=f.createElement("script");r.src=p.proto+t.agent,e.parentNode.insertBefore(r,e)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=(t(2),window),f=c.document,u=(""+location).split("?")[0],d={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-632.min.js"},p=e.exports={offset:i(),origin:u,features:{}};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),c.addEventListener("load",n,!1)):(f.attachEvent("onreadystatechange",r),c.attachEvent("onload",n)),a("mark",["firstbyte",i()])},{1:23,2:14,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],23:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],24:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],25:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,f;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){u([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return f=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,f],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,f(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){u([o,e,n,r])}}function f(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){u([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function u(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:24,ee:"QJf3ax"}]},{},["G9z0Bl",4,12,6,5]);</script>
-         <meta name="viewport" content="width=1200">
-    
+</title><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=Edge"><meta name="theme-color" content="#131214"><meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+        
+
 
     <!--EnsightenContainer-->
     
-<script type="text/javascript" src="//nexus.ensighten.com/momondo/Bootstrap.js"></script>
+<script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-M43TL3"></script><script type="text/javascript" src="//nexus.ensighten.com/momondo/Bootstrap.js"></script>
 
     <!--END-->
 
@@ -34,40 +34,64 @@
     <link href="http://plus.google.com/107529274619687594261" rel="publisher">
 <meta name="application-name" content="momondo.com"> 
 <meta name="msapplication-TileColor" content="#27262b"> 
-<meta name="msapplication-TileImage" content="f68bc683-112c-44e9-9c25-472ee109e1f1.png"><script type="text/javascript" src="http://eas4.emediate.eu/EAS_tag.1.0.js"></script><style type="text/css">
+<meta name="msapplication-TileImage" content="f68bc683-112c-44e9-9c25-472ee109e1f1.png"><script type="text/javascript" src="//eas4.emediate.eu/EAS_tag.1.0.js"></script><style type="text/css">
 body #flight_details{color:#000;}
 .lang_ru h1.title, .lang_uk h1.title {
 
 }
-</style><!--[if IE]><script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]--><script src="//cdn.optimizely.com/js/2735640778.js"></script>
+</style><!--[if IE]><script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]--><!-- Hotjar Tracking Code for www.momondo.com -->
+<script>
+    (function(h,o,t,j,a,r){
+        h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+        h._hjSettings={hjid:96337,hjsv:5};
+        a=o.getElementsByTagName('head')[0];
+        r=o.createElement('script');r.async=1;
+        r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+        a.appendChild(r);
+    })(window,document,'//static.hotjar.com/c/hotjar-','.js?sv=');
+</script><script async="" src="//static.hotjar.com/c/hotjar-96337.js?sv=5"></script><script src="//cdn.optimizely.com/js/2735640778.js"></script>
     <!--END-->
 
 
-<link rel="P3Pv1" href="http://www.momondo.com/w3c/p3p.xml"><link rel="alternate" hreflang="en" href="http://www.momondo.com/content/privacy/"><meta name="WT.SiteLang" content="en"><meta name="WT.SubDom" content="momondo"><meta name="WT.dc" content="WW"><meta name="WT.cg_n" content="contentgeneric"><link rel="stylesheet" type="text/css" href="//cdn2.momondo.net/css-5/c/css/css_1b1d6726_min_9.10.2.css"><script type="text/javascript" src="//cdn2.momondo.net/js-5/js/external/jquery/1.11.1/jquery.min.js"></script><script type="text/javascript" src="//cdn2.momondo.net/js-5/js/external/prototype/1.7.2.0/prototype.js"></script><script type="text/javascript" src="//cdn2.momondo.net/js-5/js/external/scriptaculous/1.9.0/scriptaculous.js"></script><script type="text/javascript" src="//cdn2.momondo.net/js-5/c/js/js_67874a06_min_9.10.2.js"></script><meta og:title=""></head>
+<link rel="P3Pv1" href="http://www.momondo.com/w3c/p3p.xml"><link rel="alternate" hreflang="en" href="http://www.momondo.com/content/privacy/"><meta name="WT.SiteLang" content="en"><meta name="WT.SubDom" content="test-mws-1186-a0"><meta name="WT.dc" content="WW"><meta name="WT.cg_n" content="contentgeneric"><link rel="stylesheet" type="text/css" href="//cdn2.momondo.net/css-5/c/css/css_1af54b1b_min_11.1.1.112.css"><script type="text/javascript" src="//cdn2.momondo.net/js-5/js/external/jquery/1.11.1/jquery.min.js"></script><script type="text/javascript" src="//cdn2.momondo.net/js-5/js/external/prototype/1.7.2.0/prototype.js"></script><script type="text/javascript" src="//cdn2.momondo.net/js-5/js/external/scriptaculous/1.9.0/scriptaculous.js"></script><script type="text/javascript" src="//cdn2.momondo.net/js-5/c/js/js_54bd9b06_min_11.1.1.112.js"></script><meta og:title=""></head>
 
-<body id="Body" itemscope="" itemtype="http://schema.org/WebPage" class="wide Unknown Unknown0 ContentGeneric lang_en culture_en_US country_US mui-legacy wp1" lang="en-US">
+<body id="Body" itemscope="" itemtype="http://schema.org/WebPage" class="wide Unknown Unknown0 ContentGeneric lang_en culture_en_US country_US mui-legacy wp3" lang="en-US">
     <!--TagManager-->
     
 <script>
 pageData = {
 	"campaignCode": "us",
+	"culture": "en-US",
+	"currency": "USD",
 	"pageName": "contentgeneric",
 	"pageRewriteName": "momondo.content_generic1",
 	"pageType": "",
+	"siteApplicationVersion": "11.1.1.112",
 	"siteClientType": "WW",
 	"siteCode": "MOMOEN-US",
 	"siteCountry": "US",
 	"siteCulture": "en-US",
-	"siteId": "momondo",
+	"siteEnvironmentName": "momondo.com-Alpha",
+	"siteId": "test-mws-1186-a0",
 	"siteLanguage": "en",
+	"siteMachineName": "UKVDCWEB04-MM",
 	"urlHost": "www.momondo.com",
 	"userCountry": "US",
 	"userRegion": "",
+	"userType": 0,
 	"userVisitCount": 1,
 	"userVisitorType": 0
 };
 dataLayer = [pageData];
 </script>
+
+ 
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-M43TL3" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-M43TL3');</script>
+<!-- End Google Tag Manager -->
+
+<script src="/bundles/scripts/modules/momondo.googletagmanager?v=_aHM5dls5Z3msgsFXqB9ueEa1y_1yhJRg3HgKyfitKo1"></script>
 
 
     <!--END-->
@@ -82,7 +106,7 @@ dataLayer = [pageData];
 
     <form method="post" action="/content/privacy/" id="form1">
 <div class="aspNetHidden">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="xrBlwyqwKKKU1K9f9DH/FNvl66onVrME/YYqnghLaqZv95cjAailt1QyiRHkWnvsWiH8xy0wzRvQMc5IlJAXANcnfBsIxn4zViOf1cJeedqaBgEo">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="aDxlooNjzP5cgcolEELCcz5JRC/gEAe8+rGy8DLpmDZjA3DUNi4mWMTyk3zR/JNjAmv3sqVEsiAHAwl97nrZFYPh9Ij7WqvXAW6kA9jcnwlO8m/I">
 </div>
 
         
@@ -100,13 +124,15 @@ dataLayer = [pageData];
 		
 
 <section id="mui-header">
-	<div class="container">
+    <div class="container">
 
         <div class="logo">
-            <a href="/" title="momondo"><span class="label">momondo</span></a>
-		</div>
+            <a href="/" title="cheap flights momondo">
+                <span class="label">cheap flights momondo</span>
+            </a>
+        </div>
 
-		<div id="topmenu" class="menu"><ul>
+        <div id="topmenu" class="menu"><ul>
 <li id="menu-flights" class=""><a href="/" rel=""><span class="label">Flights</span></a></li>
 <li id="menu-hotels" class=""><a href="http://www.momondo.com/hotels/" rel=""><span class="label">Hotel</span></a></li>
 <li id="menu-cars" class=""><a href="http://www.momondo.com/car-rental/" rel=""><span class="label">Car Rental</span></a></li>
@@ -116,16 +142,26 @@ dataLayer = [pageData];
 </ul>
 </div>
 
-		<div class="settings">
-			<ul>
-				<li class="localesettings"><a id="localesettings"></a></li>
-				<li class="feedback-qa"><a target="_blank" href="/content/qa/" title="Q &amp; A" id="feedback-qa"><span class="label">Q &amp; A</span></a></li>
-			</ul>
-		</div>
+        <div class="settings">
+            <ul>
+                <li class="localesettings"><a id="localesettings"></a></li>
+                <span class="membership-login-header-container">
+                    <li class="membership-login-status-label">
+                        <a href="#" title="Login" data-trace="Membership-Profile-Icon-Clicked" data-trace-args="{ &quot;url&quot;:&quot;/content/travel-apps/&quot; }" onclick="Momondo.Membership.show(null, { source: 'topbar' });">Log in</a>
+                    </li>
+                    <li id="ctl16_membershipheader" class="membership">
+                        <a title="Login" data-trace="Membership-Profile-Icon-Clicked" data-trace-args="{ &quot;url&quot;:&quot;/content/travel-apps/&quot; }" onclick="Momondo.Membership.show(null, { source: 'topbar' });">
+                            <span class="membership-logged-in-picture"></span>
+                        </a>
+                        <span class="membership-feedback membership-feedback--heart"><i class="icon icon-size--24"><i class="icon icon--heart-fill"></i></i></span>
+                        <span class="membership-feedback membership-feedback--bell"><i class="icon icon-size--24"><i class="icon icon--bell-fill"></i></i></span>
+                    </li>
+                </span>
+            </ul>
+        </div>
 
-	</div>
+    </div>
 </section>
-
         
         <!--End-->
 
@@ -140,7 +176,7 @@ dataLayer = [pageData];
             </div>
         </div>
 
-        <div class="center clearfix">
+        <div id="content_shell" class="center clearfix">
             
 	
 
@@ -165,52 +201,150 @@ dataLayer = [pageData];
     <section class="generic-section">
         <div class="section-column primary">
             <div class="section-box">
-                <p>momondo.com takes your privacy seriously and is pleased to provide this privacy policy to inform you of our practices with respect to how we collect, use, and protect personal information about visitors to and members of this site. Personal information is information that is personally identifiable like your name, email address, phone number, mailing address, etc.</p>
-                <p>By using this web site you consent to the following terms:</p>
+                <h3>Introduction</h3>
 
-                <h3>Information Collection</h3>
-                <p>momondo.com collects personal information when you use our travel services. For example, when you register with momondo.com, we ask for your name and email address.</p>
-                <p>momondo.com automatically receives and records information in our server logs from your browser, including your IP address, browser type, and the pages you request. This information does not necessarily enable us to personally identify you.</p>
-                <p>momondo.com does not require that you enter any personal information to search on momondo.com, nor when being transferred to third-party websites.</p>
+                <p>Only the English version of the privacy policy is legally binding. Translations have been provided purely for user convenience. In the event of discrepancy between a translation and the English master, the English master prevails.</p>
 
-                <h3>Information Use</h3>
-                <p>momondo.com uses your personal information for the following purposes:
-                    </p><ul>
-                        <li>to verify your authorization to access certain features of the site,</li>
-                        <li>to fulfill your requests for products or services,</li>
-                        <li>to personalize and customize the content and relevant trip services that you are offered</li>
-                        <li>to contact you, e.g. if you have subscribed to a newsletter,</li>
-                        <li>to improve our services,</li>
-                        <li>to provide reporting.</li>
+                <p>This policy (together with our Terms of Use and any other document referred to in it) sets out the basis on which any personal data we collect from you or you provide to us, will be processed by us.</p>
+
+                <p>This policy applies to the momondo websites and mobile applications (the apps) in different markets that are operated by Momondo A/S (“momondo”). We take your privacy seriously and provide this privacy policy to inform you of our practices with respect to how we collect, use, and protect personal information about visitors to and members of our website and apps. Personal information is information that is personally identifiable like your name, email address, phone number, mailing address, etc. By using our website and the apps you consent to the terms described in this document.</p>
+
+                <h3>Information about us</h3>
+
+                <p>Momondo A/S is registered in Denmark under company number 20181397. The address of our registered office and principal place of business is Amagertorv 19, 2. 1160 Copenhagen K, Denmark.</p>
+
+                <h3>Information collection</h3>
+
+                <p>momondo may collect and process the following data about you:</p>
+
+                <ul>
+                    <li>Information that you provide by filling in forms on our website or apps. This includes information provided at the time of registering to use our site or apps, subscribing to our service, posting material or requesting further services. We may also ask you for information when you enter a competition or promotion sponsored by us, and when you report a problem with our site or apps.</li>
+                    <li>A record of any correspondence with you.</li>
+                    <li>Details of which services you are interested in.</li>
+                    <li>Details of your visits to our site and apps including, but not limited to traffic data, location data, web logs and other communication data, whether this is required for our own billing purposes or otherwise, and the resources that you access.</li>
+                    <li>Information on whether you have opened and clicked on certain content in our emails sent to you.</li>
+                    <li>Information about your computer, including where available your IP address, operating system, browser type and device ID, for system administration and to report aggregate information to our advertisers; and information obtained from cookies. Please read further under <a href="/content/cookies/">Cookie Policy</a>. This information does not necessarily enable us to personally identify you.</li>
+                </ul>
+
+                <p>momondo does not require that you enter any personal information to search on momondo’s websites or apps, nor when being transferred to third-party websites.</p>
+
+                <p>When you register with momondo, we encourage you to provide information about you such as:</p>
+
+                <ul>
+                    <li>Your name and email address.</li>
+                    <li>Information about your flight and hotel room preferences such as seats, departures, arrivals, direct flights, number of passengers, dates of birth and dates of birth of your children for us to store for future use.</li>
+                    <li> Information about your travel companions. You should obtain the consent of other individuals prior to providing us with their personal information and travel preferences as any access to view or change their information will be available through your profile. If you store information on your children, you are consenting to our processing of such data on behalf of your children.</li>
+                    <li>Social networking. If you choose to login with Facebook Login https://developers.facebook.com/products/login/ or Google+ Sign-in https://developers.google.com/+/features/sign-in you are permitting momondo to use and store that information related to the profile allowing us to make use of any social media features on our website or apps. The social media provider may send us information in line with their policies which may include your name, profile picture, gender, friend lists and any other information you have chosen to make available. Other information regarding recommendations exchanged between you and your friends may also be shared. Please note that, if your Facebook or Google+ friends are using momondo, they may have shared information about you with us through Facebook Login or Google+ Sign-in. If you wish to prevent that sharing, you can do so by editing your Facebook or Google+ privacy settings or the relevant settings/preferences for other social media providers.</li>
+                </ul>
+
+                <p>It is stated expressly whether the data requested is mandatory or not.</p>
+
+                <h3>Information use</h3>
+
+                <p>The purpose of the processing of your data are as follows:</p>
+
+                <ul>
+                    <li>to verify your authorisation to access certain features of the site</li>
+                    <li>to fulfil your requests for products or services</li>
+                    <li>to personalise and customise the content and relevant trip services that you are offered</li>
+                    <li>to optimise and personalise your visits by remembering location, language and currency configurations as well as previous searches</li>
+                    <li>to contact you, e.g. if you have subscribed to a newsletter</li>
+                    <li>to improve our services</li>
+                    <li>to provide reporting</li>
+                </ul>
+
+                <h3>Information sharing and disclosure</h3>
+
+                <p>We will never sell your Personal Data to third parties. momondo shares data about you in the following situations:</p>
+
+                <ul>
+                    <li>to provide products or services you have requested including, without limitation, products and services from third parties such as:</li>
+                    <ul>
+                        <li>suppliers</li>
+                        <li>third party vendors</li>
+                        <li>business partners</li>
+                        <li>referring websites</li>
+                        <li>subsidiaries</li>
+                        <li>where required by law</li>
                     </ul>
-                <p></p>
+                    <li>or when we have your permission.</li>
+                </ul>
 
-                <h3>Information Sharing and Disclosure</h3>
-                <p>momondo.com does not rent, sell, or share personal information about you with other people or companies except (i) to provide products or services you have requested including, without limitation, products and services from third parties, (ii) when we have your permission, or (iii) under the following circumstances:</p>
+                <p>Also, momondo shares data about you under the following circumstances:</p>
 
-                <p>momondo.com may use third party vendors to assist us in providing our products or services and may transfer your personally identifiable information to such vendors who have entered into a contract with us that protects the confidentiality of your information and permits the vendor to use it only as necessary to fulfill its contract;</p>
-                <p>In response to subpoenas, court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims;</p>
-                <p>When we believe it is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of momondo.com 's Terms of Service, or as otherwise required by law;</p>
-                <p>We may transfer information about you if momondo.com is acquired by or merged with another company. In this event, momondo.com will notify you by sending a notice to the email address specified in your momondo.com account before information about you becomes subject to a different privacy policy.</p>
+                <ul>
+                    <li>momondo may use third party vendors (data processors) to assist us in providing our products or services and may transfer your personally identifiable information to such vendors who have entered into a contract with us that protects the confidentiality of your information and permits the vendor to use it only as necessary to fulfil its contract.</li>
+                    <li>We may disclose your personal information for any of the purposes mentioned above to any member of our group, which includes our subsidiaries, our ultimate holding company and its subsidiaries. This also includes entities which we may acquire as part of an acquisition at a future date.</li>
+                    <li>In response to subpoenas, court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims.</li>
+                    <li>When we believe it is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of momondo Terms of use or as otherwise required by law.</li>
+                </ul>
+
+                <h3>Data storage</h3>
+
+                <p>All Personal data you provide to us is stored on our secure servers. At present we have servers located within the EAA (European Economic Area). The data that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area ("EEA"). The transfer may be to another member of the Momondo Group, or to third parties as set out in this policy. It may also be processed by staff operating outside the EEA who work for us or for one of our suppliers. By submitting your personal data, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy.</p>
+
+                <p>We may be required by law, to hold your data in a specific location dependent upon the location from which you will access momondo services. Regardless of the location in which your data is stored we will take adequate measures to protect the security of your personal data.</p>
+
+                <p>These countries may have different and/or less stringent privacy/data protection and data security rules than those of your own country. As a result, your personal information may be subject to access requests from governments, courts, or law enforcement in those countries according to laws in those countries.</p>
+
+                <h3>Links to third party sites</h3>
+
+                <p>momondo provides links to third party websites, e.g. after a search; and may provide referrals to certain third parties' products or services. If you choose to visit a third party's web site or use its products or services, please be aware that this privacy policy will not govern your activities and any information you disclose to such third party. We strongly encourage you to read the privacy policies of the third party web sites that you visit. We are not in any way responsible for the content of the sites that we provide links to.</p>
+
+                <h3>Confidentiality and security</h3>
+
+                <p>We limit access to personal information about you to employees who we believe have a legitimate need to come into contact with that information to provide products or services to you or in order to do their jobs. momondo employs procedural and technical measures reasonably designed to protect your personal information from loss, misuse, unauthorised access or disclosure. While no website or app can guarantee security, we have implemented appropriate administrative, technical, and physical security procedures to help protect your personal information. We also use encryption when transmitting personal information that is sensitive to you between your system and ours.</p>
+
+                <h3>Community – Information sharing among momondo users</h3>
+
+                <p>If you choose to include personally identifiable information in your comments, open text fields, or other areas of the web site or the apps intended for public viewing, other users will be able to view and use this information. We recommend against posting your email address and other personally identifiable information in this manner unless you are comfortable with the possibility of receiving unwanted contact.</p>
+
+                <h3>Accessing, reviewing and changing your personal information</h3>
+
+                <p>We will offer you the ability to access, review and change certain information via the registration page on the website or in the app. Upon your request, we will deactivate your profile, and remove your personal information from active service. Your profile will be deactivated as soon as reasonably possible based on your account activity. We will retain in our files and databases some personal information to prevent fraud, resolve disputes, troubleshoot problems, assist with any investigations, enforce our Terms of use and comply with legal requirements as permitted by law. Therefore, you should not expect that all of your personal information will be completely removed from our databases in response to your request.</p>
+
+                <h3>Changes to this privacy policy</h3>
+
+                <p>momondo may update this policy. We will notify you about significant changes in the way we treat personal information by sending a notice to the email address specified in your momondo profile or by placing a notice on our site.</p>
+
+                <h3>Owner information</h3>
+
+                <p>The momondo website is provided by Momondo A/S. We are registered in Denmark under company number 20181397. The address of our registered office and principal place of business is Amagertorv 19, 2. 1160 Copenhagen K, Denmark.</p>
 
                 <h3>Cookies</h3>
-                <p>momondo.com sets and accesses cookies on your computer. A cookie is a small amount of data that momondo.com's servers transfer to your browser and that only momondo.com's servers can read. When you visit the site, the cookie captures specific session data to streamline your experience and, if you select to save your member name and password, momondo.com will save this information in a cookie so that you will not be required to sign in each time you visit the site. You may disable or delete cookies from within your Internet browser application by accessing the security or privacy settings. However, momondo.com requires you to have cookies enabled to access certain portions of the site. momondo.com may allow other companies that show advertisements on some of our pages to set and access their cookies on your computer. Other companies' use of their cookies is subject to their privacy policies, not this one. Other companies do not have access to momondo.com's cookies.</p>
 
-                <h3>Links to Third Party Sites</h3>
-                <p>momondo.com provides links to third party websites, e.g. after a search; and may provide referrals to certain third parties' products or services. If you choose to visit a third party's web site or use its products or services, please be aware that this privacy policy will not govern your activities and any information you disclose to such third party. We strongly encourage you to read the privacy policies of the third party web sites that you visit.</p>
+                <p>The momondo websites set and access cookies on your computer. A cookie is a small amount of data that momondo’s servers transfer to your browser and that only momondo’s servers can read. When you visit the site, the cookie captures specific session data to streamline your experience and, if you select to save your member name and password, the momondo websites will save this information in a cookie so that you will not be required to sign in each time you visit the site. You may disable or delete cookies from within your Internet browser application by accessing the security or privacy settings. However, momondo requires you to have cookies enabled to access certain portions of the site. momondo may allow other companies that show advertisements on some of our pages to set and access their cookies on your computer. Other companies' use of their cookies is subject to their privacy policies, not this one. Other companies do not have access to momondo’s cookies.</p>
 
-                <h3>Confidentiality and Security</h3>
-                <p>We limit access to personal information about you to employees who we believe have a legitimate need to come into contact with that information to provide products or services to you or in order to do their jobs. momondo.com employs procedural and technical measures reasonably designed to protect your personal information from loss, misuse, unauthorized access or disclosure. Although we make good faith efforts to store the information collected in a secure operating environment that is not accessible to the public, we cannot guarantee complete security.</p>
+                <p>The momondo websites use cookies and other data files (collectively referred to as "Cookies") covered by the EU E-privacy Directive.</p>
 
-                <h3>Community - Information Sharing among momondo.com Users</h3>
-                <p>If you choose to include personally identifiable information in your comments, open text fields, or other areas of the web site intended for public viewing, other users will be able to view and use this information. We recommend against posting your email address and other personally identifiable information in this manner unless you are comfortable with the possibility of receiving unwanted contact.</p>
-                <p>When you save your trip in momondo.com's system, other users will be able to view your shared travel itinerary, unless you choose specifically not to share your travel plans (Private vs. Public trip). To ensure your privacy, momondo.com does not display your email address or contact information to users, unless you explicitly request us to do so.</p>
+                <h3>Which information is collected via Cookies?</h3>
 
-                <h3>Accessing, Reviewing and Changing Your Personal Information</h3>
-                <p>We will offer you the ability to access, review and change certain information via the Registration page. Upon your request, we will deactivate your account, and remove your personal information from active service. Your account will be deactivated as soon as reasonably possible based on your account activity. We will retain in our files and databases some personal information to prevent fraud, resolve disputes, troubleshoot problems, assist with any investigations, enforce our Terms of Use and comply with legal requirements as permitted by law. Therefore, you should not expect that all of your personal information will be completely removed from our databases in response to your request.</p>
+                <p>Cookies are used by collecting information on the number of users of the website and the traffic on the website. This enables momondo to adapt content and advertising accordingly and generate statistics of website visits. Also, some of them allow you to share pages with social networks should you wish to do so. They also enable us and our advertisers to serve you with relevant advertisements that may interest you. In addition to momondo, our digital cooperation partners, which are responsible for site support, will have access to data collected via cookies. The information is not disclosed to other third parties. You can always opt out of Cookies, see below.</p>
 
-                <h3>Changes to this Privacy Policy</h3>
-                <p>momondo.com may update this policy. We will notify you about significant changes in the way we treat personal information by sending a notice to the email address specified in your momondo.com account or by placing a notice on our site.</p>momondo, February 2008.<p></p>
+
+                <p>momondo uses Cookies, including information on IP address, for the following purposes:</p>
+
+                <ul>
+                    <li>Functionality cookies that will allow our websites and apps to remember your choices and preferences. They enable us to provide you with en-hanced and personalised features.</li>
+                    <li>Performance cookies used to keep momondo easy to use, relevant and up-to-date. We use web analytics services to help us understand how people use our websites and apps.</li>
+                    <li>Targeting cookies used for assisting us in targeted advertising. These cookies are used to show you ads containing flight and hotel prices we be-lieve you’ll be interested in. You may see these ads while using a website other than momondo. We tailor our ad campaigns with relevant content be-cause we want to inspire and enable you in booking your perfect trip.</li>
+                </ul>
+
+                <h3>How to delete and manage Cookies?</h3>
+
+                <p>As a user, you can decide whether to accept or delete all Cookies, or to control Cookies individually for each website. You can also block the use of Cookies completely. You can make individual settings in your browser settings. Please note that, if you delete Cookies, your access to momondo’s websites may be more or less limited, or the functionalities at the site may be insufficient.</p>
+
+                <!--
+<p>How to block and delete Cookies: [insert active links]<br>
+Guidance on how to delete Cookies on Microsoft Internet Explorer<br>
+Guidance on how to delete Cookies on Mozilla Firefox<br>
+Guidance on how to delete Cookies on Google Chrome<br>
+Guidance on how to delete Cookies on Opera<br>
+Guidance on how to delete Cookies on Safari<br>
+Guidance on how to delete flash cookies (all browsers)<br>
+</p>
+-->
+
             </div>
         </div>
         <div class="section-column secondary">
@@ -220,7 +354,7 @@ dataLayer = [pageData];
                     </p><ul>
                         <li><a href="/content/about">About us</a>
                         </li>
-                        <li><a href="/content/qa/">Q &amp; A</a>
+                        <li><a href="/content/qa/">FAQ</a>
                         </li>
                         <li><a href="/content/jobs">Jobs</a>
                         </li>
@@ -228,7 +362,8 @@ dataLayer = [pageData];
                         </li>
                         <li><a href="/content/terms">Terms of Use</a>
                         </li>
-
+                        <li><a href="/content/travel-apps">Apps</a>
+                        </li>
                     </ul>
                 <p></p>
             </div>
@@ -236,26 +371,6 @@ dataLayer = [pageData];
             <div class="section-box contact-info">
                 <h2>Remember</h2>
                 <p>We are not a travel agency, and we don't sell tickets. If you have questions concerning a booking, please contact the travel agency or airline company.</p>
-            </div>
-
-            <div class="section-box contact-info">
-                <h2>Contact</h2>
-                <p>
-                    <span class="title">Location</span>
-                    <em>momondo A/S</em>
-                    <br>Amagertorv 19
-                    <br>DK-1160 Copenhagen K
-                    <br>Denmark
-                    <br>Phone: +45 3337 8080 (Standard international call rates apply)</p>
-                <p>
-                    <span class="title">Contact persons</span>
-                    <em>Neil James Cartwright</em>, Marketing Manager
-                    <br>E-mail:
-                    <a href="mailto:info@momondo.co.uk?subject=Att. Neil James Cartwright">info@momondo.co.uk</a>
-                    <br>
-                </p>
-                <p>
-                    <span class="title">Company registration</span>Denmark, CVR 20181397</p>
             </div>
         </div>
     </section>
@@ -383,7 +498,7 @@ dataLayer = [pageData];
 						</ul>
 					</div>
 
-					<div id="ctl16_domainLinks1" class="other-languages">
+					<div id="ctl17_domainLinks1" class="other-languages">
 						<h4>International sites</h4>
 						<ul>
 							
@@ -409,8 +524,8 @@ dataLayer = [pageData];
 									</li>
 								
 									<li>
-										<a href="http://www.momondo.co.uk/" title="Cheap Flights" onclick="return (typeof sitracker=='undefined'?true:sitracker.migrateCookie(this));">
-											<span class="icon __flag __gb"></span> Cheap Flights
+										<a href="http://www.momondo.co.uk/" title="Flights" onclick="return (typeof sitracker=='undefined'?true:sitracker.migrateCookie(this));">
+											<span class="icon __flag __gb"></span> Flights
                                             
 										</a>
 									</li>
@@ -457,11 +572,7 @@ dataLayer = [pageData];
 										</a>
 									</li>
 								
-						</ul>
-					</div>
-
-					<div id="ctl16_domainLinks2" class="other-languages">
-						<ul>
+							
 							
 									<li>
 										<a href="http://www.momondo.it/" title="Voli low cost" onclick="return (typeof sitracker=='undefined'?true:sitracker.migrateCookie(this));">
@@ -514,7 +625,6 @@ dataLayer = [pageData];
 								
 						</ul>
 					</div>
-
 				</div>
 			</div>
 
@@ -532,7 +642,7 @@ dataLayer = [pageData];
 					<div class="mui-newsletter-signup-inputs">
 						<span class="mui-newsletter-signup-input">
 							<span class="ui-invalid-text">Please enter a vaild e-mail address</span>
-							<input type="text" id="newsletter-signup-input" placeholder="Enter your e-mail address">
+							<input type="text" id="newsletter-signup-input" placeholder="enter your e-mail address">
 						</span>
 						<button type="button" id="newsletter-signup-submit" class="mui-newsletter-signup-submit"><span class="label">Yes, please!</span></button>
 					</div>
@@ -547,25 +657,28 @@ dataLayer = [pageData];
 				<div class="content">
 					
 					<ul class="sitemap-links">
-						<li><a href="/content/about/"><span class="label">About Us</span></a></li>
-						<li><a href="/content/jobs/"><span class="label">Jobs</span></a></li>
-						<li><a href="/content/press/"><span class="label">Press</span></a></li>
-						<li id="ctl16_uiAffiliateLink"><a href="/content/programmes/affiliate/"><span class="label">Affiliate</span></a></li>
-						<li><a href="/content/terms/" rel="nofollow"><span class="label">Terms of Use</span></a></li>
-						<li><a href="/content/privacy/" rel="nofollow"><span class="label">Privacy Policy</span></a></li>
-						<li><a href="/content/cookies/"><span class="label">Cookies</span></a></li>
-						<li><a href="http://www.momondo.com/airlines/"><span class="label">Airlines</span></a></li>
-						<li><a href="/content/travel-apps/"><span class="label">Apps</span></a></li>
+						<li class="sitemap-link--about"><a href="/content/about/"><span class="label">About Us</span></a></li>
+						<li class="sitemap-link--jobs"><a href="/content/jobs/"><span class="label">Jobs</span></a></li>
+						<li class="sitemap-link--press"><a href="/content/press/"><span class="label">Press</span></a></li>
+						<li id="ctl17_uiAffiliateLink" class="sitemap-link--affiliate"><a href="/content/programmes/affiliate/"><span class="label">Affiliate</span></a></li>
+						<li class="sitemap-link--terms"><a href="/content/terms/" rel="nofollow"><span class="label">Terms of Use</span></a></li>
+						<li class="sitemap-link--privacy"><a href="/content/privacy/" rel="nofollow"><span class="label">Privacy Policy</span></a></li>
+						<li class="sitemap-link--cookies"><a href="/content/cookies/"><span class="label">Cookies</span></a></li>
+						<li class="sitemap-link--airlines"><a href="http://www.momondo.com/airlines/"><span class="label">Airlines</span></a></li>
+						<li class="sitemap-link--apps"><a href="/content/travel-apps/"><span class="label">Apps</span></a></li>
+						<li class="sitemap-link--answers"><a href="/content/qa/"><span class="label">Q &amp; A</span></a></li>
 					</ul>
 					<div class="site-description">
 						<div class="content">
-							<p>momondo.com is a free, independent global travel search site comparing billions of cheap flights, hotels and car hire deals</p>
+							<p>momondo.com is a free, independent global travel search site comparing billions of cheap flights, hotels and car hire deals
+                                </p>
 						</div>
             		</div>
 					<ul class="socialmedia">
     <li class="twitter"><a href="https://twitter.com/momondo" target="_blank" title="Follow momondo on Twitter"><span class="label">Twitter</span></a></li>
     <li class="facebook"><a href="https://www.facebook.com/momondo" target="_blank" title="Follow momondo on Facebook"><span class="label">Facebook</span></a></li>
     <li class="google"><a href="https://plus.google.com/+momondo" target="_blank" title="Follow momondo on Google+"><span class="label">Google+</span></a></li>
+
 </ul>
 				</div>
 			</div>
@@ -602,15 +715,15 @@ dataLayer = [pageData];
 
 <script type="text/javascript">
 //<![CDATA[
-FastInit.addOnLoad(-1000, function(){GCurrency = new Currency('USD', {'ARS':{code:'ARS',name:'Argentina Pesos',symbol:null,format:null,rate:10.1643},'AUD':{code:'AUD',name:'Australian Dollar',symbol:null,format:null,rate:1.4488},'BOB':{code:'BOB',name:'Bolivia Boliviano',symbol:null,format:null,rate:7.9286},'BRL':{code:'BRL',name:'Brazilian Real',symbol:null,format:null,rate:3.4806},'GBP':{code:'GBP',name:'British Pound',symbol:'£',format:'£{0}',rate:0.7129},'CAD':{code:'CAD',name:'Canadian Dollar',symbol:null,format:null,rate:1.3859},'CLP':{code:'CLP',name:'Chile Pesos',symbol:null,format:null,rate:709.195},'CNY':{code:'CNY',name:'Chinese Yuan Renminbi',symbol:null,format:null,rate:6.8635},'COP':{code:'COP',name:'Colombia Pesos',symbol:null,format:null,rate:2888.3999},'CRC':{code:'CRC',name:'Costa Rica Colones',symbol:null,format:null,rate:615.718},'CZK':{code:'CZK',name:'Czech Koruna',symbol:null,format:null,rate:27.2493},'DKK':{code:'DKK',name:'Danish Krone',symbol:'kr.',format:'kr. {0}',rate:7.4599},'DOP':{code:'DOP',name:'Dominican Republic Pesos',symbol:null,format:null,rate:50.8505},'SVC':{code:'SVC',name:'El Salvador Colon',symbol:null,format:null,rate:10.0516},'AED':{code:'AED',name:'Emirati Dirham',symbol:null,format:null,rate:4.1158},'EUR':{code:'EUR',name:'Euro',symbol:'€',format:'€{0}',rate:1},'GTQ':{code:'GTQ',name:'Guatemala Quetzal',symbol:null,format:null,rate:8.7392},'HNL':{code:'HNL',name:'Honduras Lempira',symbol:null,format:null,rate:24.7249},'HKD':{code:'HKD',name:'Hong Kong Dollar',symbol:null,format:null,rate:8.6848},'HUF':{code:'HUF',name:'Hungarian Forint',symbol:null,format:null,rate:312.095},'ISK':{code:'ISK',name:'Icelandic Króna',symbol:null,format:null,rate:148.214},'INR':{code:'INR',name:'Indian Rupee',symbol:null,format:null,rate:71.2361},'MXN':{code:'MXN',name:'Mexican Peso',symbol:null,format:null,rate:17.3622},'NZD':{code:'NZD',name:'New Zealand Dollar',symbol:null,format:null,rate:1.6226},'NIO':{code:'NIO',name:'Nicaragua Cordoba',symbol:null,format:null,rate:30.4405},'NOK':{code:'NOK',name:'Norwegian Krone',symbol:'kr.',format:'kr. {0}',rate:8.7704},'PAB':{code:'PAB',name:'Panama Balboa',symbol:null,format:null,rate:1.1203},'PYG':{code:'PYG',name:'Paraguay Guarani',symbol:null,format:null,rate:5907.3198},'PEN':{code:'PEN',name:'Peru Nuevos Soles',symbol:null,format:null,rate:3.6143},'PLN':{code:'PLN',name:'Polish Zloty',symbol:null,format:null,rate:4.1737},'RON':{code:'RON',name:'Romanian Leu',symbol:null,format:null,rate:4.4648},'RUB':{code:'RUB',name:'Russian Ruble',symbol:null,format:null,rate:61.16},'SGD':{code:'SGD',name:'Singapore Dollar',symbol:null,format:null,rate:1.5049},'ZAR':{code:'ZAR',name:'South African Rand',symbol:null,format:null,rate:13.5861},'SEK':{code:'SEK',name:'Swedish Krona',symbol:'kr.',format:'{0} kr.',rate:9.2325},'CHF':{code:'CHF',name:'Swiss Franc',symbol:null,format:null,rate:1.0484},'TWD':{code:'TWD',name:'Taiwan New Dollar',symbol:null,format:null,rate:34.6653},'THB':{code:'THB',name:'Thai Baht',symbol:null,format:null,rate:37.8929},'TRY':{code:'TRY',name:'Turkish Lira',symbol:null,format:null,rate:2.9879},'UAH':{code:'UAH',name:'Ukrainian Hryvnia',symbol:null,format:null,rate:24.0058},'UYU':{code:'UYU',name:'Uruguay Peso',symbol:null,format:null,rate:30.6875},'USD':{code:'USD',name:'US Dollar',symbol:'$',format:'${0}',rate:1.1203},'VEF':{code:'VEF',name:'Venezuela Bolivares Fuertes',symbol:null,format:null,rate:7.069}});GCurrency.notify();});var ClientIDs={};
+FastInit.addOnLoad(-1000, function(){GCurrency = new Currency('USD', {'ARS':{code:'ARS',name:'Argentina Pesos',symbol:null,format:null,rate:14.4254},'AUD':{code:'AUD',name:'Australian Dollar',symbol:null,format:null,rate:1.5173},'BOB':{code:'BOB',name:'Bolivia Boliviano',symbol:null,format:null,rate:7.6876},'BRL':{code:'BRL',name:'Brazilian Real',symbol:null,format:null,rate:4.2353},'GBP':{code:'GBP',name:'British Pound',symbol:'£',format:'£{0}',rate:0.7269},'CAD':{code:'CAD',name:'Canadian Dollar',symbol:null,format:null,rate:1.5106},'CLP':{code:'CLP',name:'Chile Pesos',symbol:null,format:null,rate:763.813},'CNY':{code:'CNY',name:'Chinese Yuan Renminbi',symbol:null,format:null,rate:7.0255},'COP':{code:'COP',name:'Colombia Pesos',symbol:null,format:null,rate:3653.3899},'CRC':{code:'CRC',name:'Costa Rica Colones',symbol:null,format:null,rate:590.978},'CZK':{code:'CZK',name:'Czech Koruna',symbol:null,format:null,rate:27.0424},'DKK':{code:'DKK',name:'Danish Krone',symbol:'kr.',format:'kr. {0}',rate:7.4615},'DOP':{code:'DOP',name:'Dominican Republic Pesos',symbol:null,format:null,rate:49.9528},'SVC':{code:'SVC',name:'El Salvador Colon',symbol:null,format:null,rate:9.7663},'AED':{code:'AED',name:'Emirati Dirham',symbol:null,format:null,rate:3.9821},'EUR':{code:'EUR',name:'Euro',symbol:'€',format:'€{0}',rate:1},'GTQ':{code:'GTQ',name:'Guatemala Quetzal',symbol:null,format:null,rate:8.4526},'HNL':{code:'HNL',name:'Honduras Lempira',symbol:null,format:null,rate:23.8004},'HKD':{code:'HKD',name:'Hong Kong Dollar',symbol:null,format:null,rate:8.4047},'HUF':{code:'HUF',name:'Hungarian Forint',symbol:null,format:null,rate:315.639},'ISK':{code:'ISK',name:'Icelandic Króna',symbol:null,format:null,rate:142.098},'INR':{code:'INR',name:'Indian Rupee',symbol:null,format:null,rate:71.9019},'MXN':{code:'MXN',name:'Mexican Peso',symbol:null,format:null,rate:18.471},'NZD':{code:'NZD',name:'New Zealand Dollar',symbol:null,format:null,rate:1.6152},'NIO':{code:'NIO',name:'Nicaragua Cordoba',symbol:null,format:null,rate:30.7076},'NOK':{code:'NOK',name:'Norwegian Krone',symbol:'kr.',format:'kr. {0}',rate:9.5016},'PAB':{code:'PAB',name:'Panama Balboa',symbol:null,format:null,rate:1.0839},'PYG':{code:'PYG',name:'Paraguay Guarani',symbol:null,format:null,rate:6440.1499},'PEN':{code:'PEN',name:'Peru Nuevos Soles',symbol:null,format:null,rate:3.7161},'PLN':{code:'PLN',name:'Polish Zloty',symbol:null,format:null,rate:4.2901},'RON':{code:'RON',name:'Romanian Leu',symbol:null,format:null,rate:4.5171},'RUB':{code:'RUB',name:'Russian Ruble',symbol:null,format:null,rate:77.3021},'SGD':{code:'SGD',name:'Singapore Dollar',symbol:null,format:null,rate:1.5338},'ZAR':{code:'ZAR',name:'South African Rand',symbol:null,format:null,rate:16.421},'SEK':{code:'SEK',name:'Swedish Krona',symbol:'kr.',format:'{0} kr.',rate:9.2764},'CHF':{code:'CHF',name:'Swiss Franc',symbol:null,format:null,rate:1.0783},'TWD':{code:'TWD',name:'Taiwan New Dollar',symbol:null,format:null,rate:35.7079},'THB':{code:'THB',name:'Thai Baht',symbol:null,format:null,rate:39.243},'TRY':{code:'TRY',name:'Turkish Lira',symbol:null,format:null,rate:3.1673},'UAH':{code:'UAH',name:'Ukrainian Hryvnia',symbol:null,format:null,rate:25.7776},'UYU':{code:'UYU',name:'Uruguay Peso',symbol:null,format:null,rate:32.9252},'USD':{code:'USD',name:'US Dollar',symbol:'$',format:'${0}',rate:1.0839},'VEF':{code:'VEF',name:'Venezuela Bolivares Fuertes',symbol:null,format:null,rate:6.8556}});GCurrency.notify();});var ClientIDs={};
 Tracking.momondo_tracking_enabled = true;Tracking.google_analytics_tracking_enabled = true;Tracking.unica_tracking_enabled = false;Tracking.ijento_tracking_enabled = true;
-var $mm=mm={pathPrefix:'',imagePath:'http://cdn1.momondo.net/i-3',nsImagePath:'http://cdn1.momondo.net/ns-21',logoPath:'http://cdn1.momondo.net/logos',isTestServer:false,'CDN':{assetsBaseUrl: 'http://cdn2.momondo.net/a-8', staticBaseUrl:'http://cdn1.momondo.net/s-1', imageBaseUrl:'http://cdn1.momondo.net/i-3', nonStaticBaseUrl:'http://cdn1.momondo.net/ns-21', logoBaseUrl:'http://cdn1.momondo.net/logos'} };var whitelabel=false,currentLanguage='en',currentCulture='en-US',ipCountry='US',isAnonymous=true,isAdministrator=false,userId=2101,userName='monica',userUrl='/members/anonymous/',userImageUrl='/cfs-file.ashx/__key/CommunityServer.Components.Avatars/00.00.00.21.01/4TIIW4XR15XQ.png',userFacebookId='',facebookApId='172438103764',showads=true;
-var MomondoInfo={'CultureInfo':{'CurrentCulture':{'Code': 'en-US', 'numberFormat':{'decimalSeparator':".",'groupSeparator':"," },'dateTimeFormat':{'FirstDayOfWeek':0,'DayNames':["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],'ShortestDayNames':["Su","Mo","Tu","We","Th","Fr","Sa"],'MonthNames':["January","February","March","April","May","June","July","August","September","October","November","December",""],'MonthNamesGenitive':["January","February","March","April","May","June","July","August","September","October","November","December",""],'AbbreviatedMonthNames':["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec",""] },LongDatePattern:"dddd, MMMM dd, yyyy",ShortDatePattern:"M/d/yyyy" }}, 'SpeedFaresKey': ''};
+var $mm=mm={pathPrefix:'',imagePath:'http://cdn1.momondo.net/i-3',nsImagePath:'http://cdn1.momondo.net/ns-21',logoPath:'http://cdn1.momondo.net/logos',isTestServer:false,membershipEnabled:true , 'CDN':{assetsBaseUrl: 'http://cdn2.momondo.net/a-8', staticBaseUrl:'http://cdn1.momondo.net/s-1', imageBaseUrl:'http://cdn1.momondo.net/i-3', nonStaticBaseUrl:'http://cdn1.momondo.net/ns-21', logoBaseUrl:'http://cdn1.momondo.net/logos'} };var whitelabel=false,currentLanguage='en',currentCulture='en-US',ipCountry='US',isAnonymous=true,isAdministrator=false,userId=2101,userName='monica',userUrl='/members/anonymous/',userImageUrl='/cfs-file.ashx/__key/CommunityServer.Components.Avatars/00.00.00.21.01/4TIIW4XR15XQ.png',userFacebookId='',facebookApId='172438103764',showads=true;
+var MomondoInfo={'CultureInfo':{'CurrentCulture':{'Code': 'en-US','CoverCountry': true, 'numberFormat':{'decimalSeparator':".",'groupSeparator':"," },'dateTimeFormat':{'FirstDayOfWeek':0,'DayNames':["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],'ShortestDayNames':["Su","Mo","Tu","We","Th","Fr","Sa"],'MonthNames':["January","February","March","April","May","June","July","August","September","October","November","December",""],'MonthNamesGenitive':["January","February","March","April","May","June","July","August","September","October","November","December",""],'AbbreviatedMonthNames':["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec",""] },LongDatePattern:"dddd, MMMM dd, yyyy",ShortDatePattern:"M/d/yyyy" }}, 'SpeedFaresKey': '', 'PageUrls':{ 'Membership': '/-vNext-/Modules/Momondo.Membership/Membership.aspx/' }};
 var MomondoStyles=['page_content.css','font-1252.css','basics.css','boxes.css','colours.css','forms.css','grid.css','text.css','misc.css','wallpaper.css','global_top.css','global_completers.css','sprite.css','sprite_global.css','common_loaderdialog.css','modal.css','global.popup.less','global.inputs.v8.less','global.flags.less','global_hacks_v8.less','global.momicons.less','global.header.less','global.footer.less','tod_email_signup.css','global_chrome.css','control_feedback.css'];
 var MomondoScripts=['fastinit.js','common.js','Cookies.js','controls/dialog.js','/LoaderWS.asmx/js','controls/currency.js','/Momondo.asmx/js','/MomondoTrackingWS.asmx/js','FixWS.js','CommonBottom.js'];
 if(typeof Language!='object')Language={};
-Language['AlertDialog_Alert']='Alert';Language['AlertDialog_Confirm']='Confirm';Language['AlertDialog_Okay']='OK';Language['AlertDialog_Cancel']='Cancel';Language['AlertDialog_Information']='Information';Language['CityGuide_Category_sleep']='Go Sleep';Language['CityGuide_Category_eat']='Go Eat & Drink ';Language['CityGuide_Category_see']='Go See & Do';Language['CityGuide_Category_shop']='Go Shop';Language['CityGuide_Category_night']='Go Night';Language['CityGuide_Category_coffee']='Café';Language['CityGuide_Category_transport']='Information';Language['CityGuide_Category_culture']='Culture';Language['Tod_MapItems_Stars']='{0} stars';Language['MapItem_Loading']='Loading information - please wait...';Language['RelativeDate_DaysAgo']='{0} days ago';Language['RelativeDate_DayAgo']='1 day ago';Language['RelativeDate_HoursAgo']='{0} hours ago';Language['RelativeDate_HourAgo']='1 hour ago';Language['RelativeDate_MinutesAgo']='{0} minutes ago';Language['RelativeDate_MinuteAgo']='1 minute ago';Language['RelativeDate_MomentsAgo']='a moment ago';Language['general_close']='close';Language['General.Location.Country']='Country';Language['toolbar_language']='Language';Language['toolbar_currency']='Currency';Language['User_JS_Cancel']='Cancel';Language['General.Cancel']='Cancel';Language['General.OK']='OK';
-addScriptToDOM.defer('//cdn2.momondo.net/js-5/c/js/js_1331c404_min_9.10.2.js');//]]>
+Language['AlertDialog_Alert']='Alert';Language['AlertDialog_Confirm']='Confirm';Language['AlertDialog_Okay']='OK';Language['AlertDialog_Cancel']='Cancel';Language['AlertDialog_Information']='Information';Language['CityGuide_Category_sleep']='Go Sleep';Language['CityGuide_Category_eat']='Go Eat & Drink ';Language['CityGuide_Category_see']='Go See & Do';Language['CityGuide_Category_shop']='Go Shop';Language['CityGuide_Category_night']='Go Night';Language['CityGuide_Category_coffee']='Café';Language['CityGuide_Category_transport']='Information';Language['CityGuide_Category_culture']='Culture';Language['Tod_MapItems_Stars']='{0} stars';Language['MapItem_Loading']='Loading information - please wait...';Language['RelativeDate_DaysAgo']='{0} days ago';Language['RelativeDate_DayAgo']='1 day ago';Language['RelativeDate_HoursAgo']='{0} hours ago';Language['RelativeDate_HourAgo']='1 hour ago';Language['RelativeDate_MinutesAgo']='{0} minutes ago';Language['RelativeDate_MinuteAgo']='1 minute ago';Language['RelativeDate_MomentsAgo']='a moment ago';Language['general_close']='close';Language['General.Location.Country']='Country';Language['toolbar_language']='Language';Language['toolbar_currency']='Currency';Language['toolbar_login']='Log in';Language['User_JS_Cancel']='Cancel';Language['General.Cancel']='Cancel';Language['General.OK']='OK';
+addScriptToDOM.defer('//cdn2.momondo.net/js-5/c/js/js_2eb5a22b_min_11.1.1.112.js');//]]>
 </script>
 </form>
 
@@ -645,7 +758,7 @@ addScriptToDOM.defer('//cdn2.momondo.net/js-5/c/js/js_1331c404_min_9.10.2.js');/
     var _pd = window.iJPageData || {};
     _pd.site = 'MOMOEN-US';
     _pd.SiteLang = 'en-US';
-    _pd.SubDom = 'momondo';
+    _pd.SubDom = 'test-mws-1186-a0';
     window.iJPageData = _pd;
 })();
 </script>
