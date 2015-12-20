@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the netmagicsolutions.com privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630054402id_/http%3A//www.netmagicsolutions.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netmagicsolutions.com privacy policy that was archived on 2015-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151220215654id_/http%3A//www.netmagicsolutions.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Netmagic Privacy Policy - Netmagic
 
