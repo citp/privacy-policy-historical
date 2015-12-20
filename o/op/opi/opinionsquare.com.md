@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the opinionsquare.com privacy policy that was archived on 2013-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131214092241id_/http%3A//www.opinionsquare.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the opinionsquare.com privacy policy that was archived on 2015-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151220081146id_/https%3A//www.opinionsquare.com/privacy.aspx) for the most accurate reproduction.*
 
-# OpinionSquare – Take Surveys and Earn Cash and Prizes
+# Online Research-Survey Community -Privacy Policy | OpinionSquare
 
 | | 
 
@@ -64,7 +64,7 @@ Your agreement to participate on this panel includes your agreement that we may 
 
 Internet usage information: Once you install our application, it monitors all of the Internet behavior that occurs on the computer on which you install the application, including both your normal web browsing and the activity that you undertake during secure sessions, such as filling a shopping basket, completing an application form or checking your online accounts. Our application may also collect information regarding the cookies that exist on your computer. We may use the information that we monitor, such as name and address, for the purpose of better understanding your household demographics; however we make commercially viable efforts to automatically filter confidential personally identifiable information such as UserID, password, credit card numbers, and account numbers. Inadvertently, we may collect such information about our panelists; and when this happens, we make commercially viable efforts to purge our database of such information. 
 
-Our application will review the content of all web pages you visit and select e-mail header information from web based emails. We may provide our clients with information allowing them to verify the context and location in which their content was displayed on individual web pages. In addition to information collected through our application, we may also collect data about your Internet use from third-parties, including search engines, email providers, social networks and other application service providers whose Internet sites you visit. 
+Our application will review the content of all web pages you visit and select e-mail header information from web based emails. We may provide our clients with information allowing them to verify the context and location in which their content was displayed on individual web pages. In addition to information collected through our application, we may also collect data about your Internet use from third-parties, including search engines, email providers, social networks and other application service providers whose Internet sites you visit. We will keep the information that our software collects for 5 years or as long as there is a business need, and we will then dispose of it. 
 
 How is the information collected?
 
@@ -88,11 +88,11 @@ How is the collected information used?
   
 
 
-Market Research Reports: Applying concepts similar to those used by television-rating services, we use the information collected through our application and your survey responses, combined with information from other sources, to make statistically-based projections about current and future Internet user behavior and, more generally, to extrapolate data about potential economic trends. For certain commercial customers, we may provide individual-level information. We make this data available so that these customers may enhance their own understanding of Internet usage and online commercial trends. In all cases, we make commercially viable efforts to automatically filter confidential personally identifiable information such as UserID, password, credit card numbers, and account numbers from the data being provided. 
+Market Research Reports: Applying concepts similar to those used by television-rating services, we use the information collected through our application and your survey responses, combined with information from other sources, to make statistically-based projections about current and future Internet user behavior and, more generally, to extrapolate data about potential economic trends. For certain commercial customers, we may provide individual-level information. We make this data available so that these customers may enhance their own understanding of Internet usage and online commercial trends. In all cases when providing these market research reports, we make commercially viable efforts to automatically filter confidential personally identifiable information such as UserID, password, credit card numbers, and account numbers from the data being provided. 
 
 Our customers use our market research reports to: (i) modify online services and offerings; (ii) make more effective use of online data to understand both online and offline commercial behavior; and (iii) discern general economic trends and the business performance of specific entities for a wide range of business purposes including, but not limited to, identifying financial investment opportunities and understanding the value and interest in certain business enterprises.
 
-By Service Providers: From time to time, we may share your contact information with those third parties who help us deliver this program to you (for example, companies that administer incentive programs). When we do this, we provide only the necessary information for the service provider to perform its assigned function, and we contractually prohibit the use or disclosure of this information to anyone else unless you authorize it. 
+By Service Providers: From time to time, we may share your contact information with those third parties who help us deliver this program to you (for example, companies that administer incentive programs). We may also share information with Service Providers who help us enhance our data, such as providing additional demographic information. In either of these cases, we provide only the necessary information for the service provider to perform its assigned function, and we contractually prohibit the use or disclosure of this information to anyone else unless you authorize it. 
 
 As Required by Law: In rare cases, and as is done by any other business, if we are compelled to disclose certain information through a valid legal process, such as a court order, subpoena, or a search warrant, we would do so. However, we would comply by providing only the minimum information necessary. 
 
@@ -124,7 +124,7 @@ What if I wish to stop participating in this program?
   
 
 
-Resignation: You may resign at any time by contacting us at the support address listed below or by selecting the "[Terminate all OpinionSquare Services](https://web.archive.org/web/20131214092241id_/http://www.opinionsquare.com/Remove.aspx?terminate_services=y)" link from the Members section on your panel’s web page (where applicable). 
+Resignation: You may resign at any time by contacting us at the support address listed below or by selecting the "[Terminate all OpinionSquare Services](https://web.archive.org/web/20151220081146id_/http://www.opinionsquare.com/Remove.aspx?terminate_services=y)" link from the Members section on your panel’s web page (where applicable). 
 
 Removing our Application: You may remove our application using the Windows Add/Remove Programs function (known as "Programs and Features" in Vista and Windows 7). Alternatively, you may e-mail our support staff at the e-mail address provided below and request removal instructions. Please be sure to follow this same removal procedure on all of the computers from which you wish to remove this application. Removing the application will stop tracking of your online browsing and purchasing behavior, but unless you resign from all services in accordance with the procedure stated above, you still may be contacted for administrative purposes or for special participant opportunities. After you remove our application from a computer, all settings we have made to your computer will be deactivated. 
 
@@ -186,7 +186,7 @@ What are the other legal terms and conditions of participating in this program?
   
 
 
-Governing Law: You agree that any dispute or claim arising out of this program or agreement shall be settled by binding arbitration in Fairfax County, Virginia under the American Arbitration Association Rules. The proceedings shall be conducted and all evidence shall be offered in the English language. Regardless of any law to the contrary, any claim against us must be filed within one year of the time such claim arose, otherwise such claim will be barred forever. We agree that regardless of any law to the contrary, that the arbitrator shall have no authority to award, punitive or exemplary damages against any party to this agreement. 
+Governing Law: You agree that any dispute or claim arising out of this program or agreement shall be settled by binding arbitration in Fairfax County, Virginia under the American Arbitration Association Rules. **You acknowledge that you, TMRG and comScore agree that each may bring claims against the other only in your or its individual capacity, and not as a plaintiff or class member in any purported class or representative proceeding.** The proceedings shall be conducted and all evidence shall be offered in the English language. Regardless of any law to the contrary, any claim against us must be filed within one year of the time such claim arose, otherwise such claim will be barred forever. We agree that regardless of any law to the contrary, that the arbitrator shall have no authority to award, punitive or exemplary damages against any party to this agreement. 
 
 Notwithstanding the above, we may apply to any court of competent jurisdiction for a temporary restraining order or other interim relief, as necessary without breach of this agreement and without abridgment of the powers of the arbitrator.
 
@@ -216,7 +216,9 @@ Third Party Products and Services: We neither endorse nor accept responsibility 
 
 ENTIRE AGREEMENT: This Agreement constitutes the entire agreement between sponsor and you with respect to the subject matter contained in the Agreement. 
 
-This Agreement is effective as of September 26, 2013.
+OpinionSquare does not react to Do Not Track signals because there is no standard for how those signals are sent. This site may employ the ScorecardResearch service, and you may control your level of participation in ScorecardResearch’s market research programs by visiting here: <http://www.scorecardresearch.com/preferences.aspx>
+
+This Agreement is effective as of April 28, 2015.
 
 Whom can I contact if I have additional questions?
 
@@ -230,11 +232,12 @@ Privacy Office
 11950 Democracy Drive  
 Suite 600  
 Reston, VA 20190  
+USA  
 1-866-638-7388
 
 For any support issues, please contact: support@tmrginc.com.
 
-LP 1335
+LP 1515
 
 [](http://secure.trust-guard.com/certificates/4734)
 
@@ -244,7 +247,7 @@ LP 1335
   
 []()
 
-|  OpinionSquare has earned the WebTrust for Online Privacy Seal of assurance for our privacy practices employed as part of our online research services. Read More  
+[](https://web.archive.org/web/20151220081146id_/http://www.opinionsquare.com/comScorePrivacyOpinionReport.pdf)|   
 ---|---  
   
   
