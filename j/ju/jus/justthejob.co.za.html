@@ -1,18 +1,18 @@
-<!--The following is the downloaded HTML source of the justthejob.co.za privacy policy that was archived on 2015-06-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150610002329id_/http%3A//www.justthejob.co.za/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the justthejob.co.za privacy policy that was archived on 2015-12-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151220013939id_/http%3A//www.justthejob.co.za/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
         <title>privacy policy</title>
         <meta http-equiv="content-type" content="text/html;charset=UTF-8">
         <meta name="verify-v1" content="IaNPWpCI1VFBTzOrqHH0wBJEG2DJJJc5EKegddssbGA=">
-        <meta name="description" content="New jobs every day.  Search for the perfect job online, a great selection to chooses from. Take charge of your career, look for a job or see who can help you improve your skills. Just the Job is the way to go">
-        <meta name="keywords" content="Jobs, job, accounting jobs, administration jobs, secretarial jobs, engineering jobs, logistic jobs, supply chain jobs, IT jobs, hospitality jobs, building &amp; construction, human resources, medical jobs, health and nursing jobs, health and safety jobs, trade &amp; technical jobs, government and public service jobs, sales and marketing jobs,social and community jobs, job portal in south africa, job website in south africa, all jobs, best jobs, get a job, find a job, job search, careers, recruitment site, training, skills,">
+        <meta name="description" content="New jobs every day with over 12 000 jobs to search through. Search for the perfect job online, a great selection to chooses from. Take charge of your career, look for a job or see who can help you improve your skills. ">
+        <meta name="keywords" content="Jobs, job, accounting jobs, administration jobs, secretarial jobs, engineering jobs, logistic jobs, supply chain jobs, IT jobs, hospitality jobs, building &amp; construction, human resources, medical jobs, health and nursing jobs, health and safety jobs, trade &amp; technical jobs, government and public service jobs, sales and marketing jobs,social and community jobs, career change, job portal in south africa, job website in south africa, all jobs, best jobs, get a job, find a job, job search, careers, recruitment site, training, skills,">
         <meta name="robots" content="ALL">
         <meta name="distribution" content="GLOBAL">
         <meta name="revisit-after" content="3 Days">
         <link rel="icon" href="http://www.justthejob.co.za/favicon.ico" type="image/x-icon">
         <link href="http://www.justthejob.co.za/style.css" rel="stylesheet" type="text/css">
-        <script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script language="javascript">AC_FL_RunContent = 0;</script>
+        <script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script language="javascript">AC_FL_RunContent = 0;</script>
         <script src="http://www.justthejob.co.za/js/AC_RunActiveContent.js" language="javascript"></script>
         <script type="text/javascript">
             var googletag = googletag || {};
@@ -39,12 +39,10 @@
         </script>
                 <script type="text/javascript" src="http://www.justthejob.co.za/ajaxlib.js?v1"></script>
         <script type="text/javascript">
-            function runcategorysearch()
-            {
+            function runcategorysearch(){
                 var categoryId = $('category').value;
                 var subcategoryhiddenvalId = $('subcategoryhiddenval').value;
-                if (categoryId != '')
-                {
+                if (categoryId != ''){
                     $('subcategoryContainerId').style.display="none";
                     var currDate = new Date();
                     var parameters = 'categoryId='+encodeURIComponent(categoryId);
@@ -53,27 +51,19 @@
                     makeRequest("../fetchsubcategoryInfo.php",parameters,displaySubcategoryInfo,'POST',true);
                 }
             }
-
-            function displaySubcategoryInfo()
-            {
-                if (xmlHttp.readyState==4 || xmlHttp.readyState=="complete")
-                {
+            function displaySubcategoryInfo(){
+                if (xmlHttp.readyState==4 || xmlHttp.readyState=="complete"){
                     $('subcategoryContainerId').style.display="inline";
                     $('subcategoryContainerId').innerHTML = xmlHttp.responseText;
                 }
             }
-
-            function displaysubcatvalue()
-            {
+            function displaysubcatvalue(){
                 $('subcategoryhiddenval').value = $('subcategoryId').value;
             }
-
-            function runcountrysearch()
-            {
+            function runcountrysearch(){
                 var countryId = $('country').value;
                 var subcountyhiddenvalId = $('subcountyhiddenval').value;
-                if (countryId != '')
-                {
+                if (countryId != ''){
                     $('subcountyContainerId').style.display="none";
                     var currDate = new Date();
                     var parameters = 'countryId='+encodeURIComponent(countryId);
@@ -82,29 +72,20 @@
                     makeRequest("../fetchsubcountyInfo.php",parameters,displaysubcountyInfo,'POST',true);
                 }
             }
-
-            function displaysubcountyInfo()
-            {
-                if (xmlHttp.readyState==4 || xmlHttp.readyState=="complete")
-                {
+            function displaysubcountyInfo(){
+                if (xmlHttp.readyState==4 || xmlHttp.readyState=="complete"){
                     //alert(xmlHttp.responseText);
                     $('subcountyContainerId').style.display="inline";
                     $('subcountyContainerId').innerHTML = xmlHttp.responseText;
                 }
             }
-
-            function displaysubcountvalue()
-            {
+            function displaysubcountvalue(){
                 $('subcountyhiddenval').value = $('subcounty').value;
             }
-
-            function runcountysearch()
-            {
-                //alert($('subcounty').value);
+            function runcountysearch(){
             	var subcountyId = $('subcounty').value;
             	var subcityhiddenvalId = $('subcityhiddenval').value;
-            	if (subcountyId != '')
-                {
+            	if (subcountyId != ''){
                     $('subcountyhiddenval').value  = $('subcounty').value;
                     $('subcityContainerId').style.display="none";
                     var currDate = new Date();
@@ -114,24 +95,17 @@
                     makeRequest("../fetchsubcityInfo.php",parameters,displaysubcityInfo,'POST',true);
                 }
             }
-
-            function displaysubcityInfo()
-            {
-                if (xmlHttp.readyState==4 || xmlHttp.readyState=="complete")
-                {
+            function displaysubcityInfo(){
+                if (xmlHttp.readyState==4 || xmlHttp.readyState=="complete"){
                     //alert(xmlHttp.responseText);
                     $('subcityContainerId').style.display="inline";
                     $('subcityContainerId').innerHTML = xmlHttp.responseText;
                 }
             }
-
-            function displaysubcitvalue()
-            {
+            function displaysubcitvalue(){
                 $('subcityhiddenval').value = $('subcityId').value;
             }
-
-            function open_win()
-            {
+            function open_win(){
                 window.open("http://www.justthejob.co.za/RSSHelp.php","_blank","toolbar=no, location=no, directories=no, status=no, menubar=no, scrollbars=yes, resizable=yes, copyhistory=no, width=450, height=500")
             }
         </script>
@@ -145,44 +119,33 @@
                 var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
             })();
         </script>
-
-            <!--
-            var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-            document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-            try {
-                var pageTracker = _gat._getTracker("UA-10294413-1");
-                pageTracker._trackPageview();
-            } catch(err) {}
-            -->
-
-        <!-- TEST AD HEADERS -->
+        <!-- UA-10294413-1 -->
         <script type="text/javascript">
             var googletag = googletag || {};
             googletag.cmd = googletag.cmd || [];
             (function() {
-            var gads = document.createElement('script');
-            gads.async = true;
-            gads.type = 'text/javascript';
-            var useSSL = 'https:' == document.location.protocol;
-            gads.src = (useSSL ? 'https:' : 'http:') +
-            '//www.googletagservices.com/tag/js/gpt.js';
-            var node = document.getElementsByTagName('script')[0];
-            node.parentNode.insertBefore(gads, node);
+                var gads = document.createElement('script');
+                gads.async = true;
+                gads.type = 'text/javascript';
+                var useSSL = 'https:' == document.location.protocol;
+                gads.src = (useSSL ? 'https:' : 'http:') +
+                '//www.googletagservices.com/tag/js/gpt.js';
+                var node = document.getElementsByTagName('script')[0];
+                node.parentNode.insertBefore(gads, node);
             })();
         </script>
         <script type="text/javascript">
             googletag.cmd.push(function() {
-            googletag.defineSlot('/117996776/jtj_160X600_home_wide_skyscraper_middle_left', [160, 600], 'div-gpt-ad-1409911122546-0').addService(googletag.pubads());
-            googletag.defineSlot('/117996776/jtj_160X600_home_wideskyscraper_middle2', [160, 600], 'div-gpt-ad-1409911122546-1').addService(googletag.pubads());
-            googletag.pubads().enableSingleRequest();
-            googletag.enableServices();
+                googletag.defineSlot('/117996776/jtj_160X600_home_wide_skyscraper_middle_left', [160, 600], 'div-gpt-ad-1409911122546-0').addService(googletag.pubads());
+                googletag.defineSlot('/117996776/jtj_160X600_home_wideskyscraper_middle2', [160, 600], 'div-gpt-ad-1409911122546-1').addService(googletag.pubads());
+                googletag.pubads().enableSingleRequest();
+                googletag.enableServices();
             });
         </script>
-
     </head>
     <body>
         <center>
-            <table width="960" border="0" cellpadding="5" cellspacing="0" bgcolor="#FFFFFF">
+            <table width="960" border="0" cellpadding="5" cellspacing="0" style="background-color: #fff !important;">
                 <tbody><tr>
                     <td width="100%" valign="top" align="left">
                         <table width="100%" cellpadding="0" cellspacing="0">
@@ -194,15 +157,12 @@
                                             <td width="8%" align="right" valign="bottom" style="padding-right:5px">
                                                 <div id="banner" style="margin-left:0px;width:800px"></div>
 
-                                                <script type="text/javascript">
-          <!--
-          var _adynamo_client = "0a9ac494-221a-4c64-bbd0-b66d44349841";
-          var _adynamo_width = 728;
-          var _adynamo_height = 90;
-          //-->
+                                                <script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- top -->
+<ins class="adsbygoogle" style="display:inline-block;width:728px;height:90px" data-ad-client="ca-pub-3379090624280097" data-ad-slot="5614098142"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
 </script>
-<script type="text/javascript" src="http://static.addynamo.net/ad/js/deliverAds.js"></script>
-
                                             </td>
                                         </tr>
                                     </tbody></table>
@@ -323,13 +283,13 @@
                                     
                                     <tbody><tr>
                                         <td align="left" colspan="2">
-                                            <b><a href="http://www.justthejob.co.za/info_jobid_32404087.html">Customer Care Consultants</a></b>
+                                            <b><a href="http://www.justthejob.co.za/info_jobid_32509283.html">Driver / sales consultant</a></b>
                                             <small>
                                                 <br><b>Hours:</b> Monday - Friday                                                <br><b>Job Location:</b>
 
-                                                Arcadia, South Africa
+                                                Durban, South Africa
                                                 <br>
-                                                <b>Salary:</b> 15000                                            </small>
+                                                <b>Salary:</b> R6500                                            </small>
                                             <hr style="background-color: rgb(204, 204, 204);" width="100%" size="1" noshade="noshade" color="#cccccc">
                                         </td>
                                     </tr>
@@ -337,13 +297,13 @@
                                     
                                     <tr>
                                         <td align="left" colspan="2">
-                                            <b><a href="http://www.justthejob.co.za/info_jobid_32404086.html">Trainee Protection Officers wanted at Transnet 700x </a></b>
+                                            <b><a href="http://www.justthejob.co.za/info_jobid_32509282.html">Receptionist/ Secretary</a></b>
                                             <small>
                                                 <br><b>Hours:</b> Monday - Friday                                                <br><b>Job Location:</b>
 
-                                                Rustenburg, South Africa
+                                                Pietermaritzburg, South Africa
                                                 <br>
-                                                <b>Salary:</b> 13000                                            </small>
+                                                <b>Salary:</b> R7000                                            </small>
                                             <hr style="background-color: rgb(204, 204, 204);" width="100%" size="1" noshade="noshade" color="#cccccc">
                                         </td>
                                     </tr>
@@ -351,13 +311,27 @@
                                     
                                     <tr>
                                         <td align="left" colspan="2">
-                                            <b><a href="http://www.justthejob.co.za/info_jobid_32404085.html">Trainee Protection Officers wanted at Transnet 568x </a></b>
+                                            <b><a href="http://www.justthejob.co.za/info_jobid_32509281.html">CCTV &amp; ACCESS CONTROL TECHNICIAN</a></b>
+                                            <small>
+                                                <br><b>Hours:</b> Fixed Term Contract                                                <br><b>Job Location:</b>
+
+                                                Boksburg, South Africa
+                                                <br>
+                                                <b>Salary:</b> 6000 - 8000                                            </small>
+                                            <hr style="background-color: rgb(204, 204, 204);" width="100%" size="1" noshade="noshade" color="#cccccc">
+                                        </td>
+                                    </tr>
+
+                                    
+                                    <tr>
+                                        <td align="left" colspan="2">
+                                            <b><a href="http://www.justthejob.co.za/info_jobid_32509280.html">Cashbook / Creditors Clerk</a></b>
                                             <small>
                                                 <br><b>Hours:</b> Monday - Friday                                                <br><b>Job Location:</b>
 
-                                                Pietersburg, South Africa
+                                                Amanzimtoti, South Africa
                                                 <br>
-                                                <b>Salary:</b> 13000                                            </small>
+                                                <b>Salary:</b> R9000 + Medical Aid                                            </small>
                                             <hr style="background-color: rgb(204, 204, 204);" width="100%" size="1" noshade="noshade" color="#cccccc">
                                         </td>
                                     </tr>
@@ -365,13 +339,13 @@
                                     
                                     <tr>
                                         <td align="left" colspan="2">
-                                            <b><a href="http://www.justthejob.co.za/info_jobid_32404084.html">Correctional Services Trainee Opportunities 2015</a></b>
+                                            <b><a href="http://www.justthejob.co.za/info_jobid_32509279.html">PA / Administrator</a></b>
                                             <small>
                                                 <br><b>Hours:</b> Monday - Friday                                                <br><b>Job Location:</b>
 
-                                                Limpopo, South Africa
+                                                Richards Bay, South Africa
                                                 <br>
-                                                <b>Salary:</b> 8500                                            </small>
+                                                <b>Salary:</b> R9 500                                            </small>
                                             <hr style="background-color: rgb(204, 204, 204);" width="100%" size="1" noshade="noshade" color="#cccccc">
                                         </td>
                                     </tr>
@@ -379,13 +353,13 @@
                                     
                                     <tr>
                                         <td align="left" colspan="2">
-                                            <b><a href="http://www.justthejob.co.za/info_jobid_32404083.html">Cashiers an Packers</a></b>
+                                            <b><a href="http://www.justthejob.co.za/info_jobid_32509278.html">Sales Administrator</a></b>
                                             <small>
                                                 <br><b>Hours:</b> Monday - Friday                                                <br><b>Job Location:</b>
 
-                                                Bloemfontein, South Africa
+                                                Kokstad, South Africa
                                                 <br>
-                                                <b>Salary:</b> 8500                                            </small>
+                                                <b>Salary:</b> R7000                                            </small>
                                             <hr style="background-color: rgb(204, 204, 204);" width="100%" size="1" noshade="noshade" color="#cccccc">
                                         </td>
                                     </tr>
@@ -393,13 +367,13 @@
                                     
                                     <tr>
                                         <td align="left" colspan="2">
-                                            <b><a href="http://www.justthejob.co.za/info_jobid_32404082.html">SEMI-SKILLED WELDERS MINIMUM (6)MONTH EXP WANTED</a></b>
+                                            <b><a href="http://www.justthejob.co.za/info_jobid_32509277.html">Receptionist</a></b>
                                             <small>
                                                 <br><b>Hours:</b> Monday - Friday                                                <br><b>Job Location:</b>
 
-                                                Germiston, South Africa
+                                                Pinetown, South Africa
                                                 <br>
-                                                <b>Salary:</b> 25000                                            </small>
+                                                <b>Salary:</b> R 6,500                                            </small>
                                             <hr style="background-color: rgb(204, 204, 204);" width="100%" size="1" noshade="noshade" color="#cccccc">
                                         </td>
                                     </tr>
@@ -407,13 +381,13 @@
                                     
                                     <tr>
                                         <td align="left" colspan="2">
-                                            <b><a href="http://www.justthejob.co.za/info_jobid_32404081.html">10 SEMI-SKILLED WELDERS MINIMUM (6)MONTH EXP WANTED</a></b>
+                                            <b><a href="http://www.justthejob.co.za/info_jobid_32509276.html">Accountant needed</a></b>
                                             <small>
                                                 <br><b>Hours:</b> Monday - Friday                                                <br><b>Job Location:</b>
 
-                                                South Africa
+                                                Lynnwood, South Africa
                                                 <br>
-                                                <b>Salary:</b> 25000                                            </small>
+                                                <b>Salary:</b> Neg                                            </small>
                                             <hr style="background-color: rgb(204, 204, 204);" width="100%" size="1" noshade="noshade" color="#cccccc">
                                         </td>
                                     </tr>
@@ -421,13 +395,13 @@
                                     
                                     <tr>
                                         <td align="left" colspan="2">
-                                            <b><a href="http://www.justthejob.co.za/info_jobid_32404080.html">QUALIFIED ELECTRICIAN</a></b>
+                                            <b><a href="http://www.justthejob.co.za/info_jobid_32509275.html">Sales Consultants</a></b>
                                             <small>
-                                                <br><b>Hours:</b>                                                 <br><b>Job Location:</b>
+                                                <br><b>Hours:</b> Monday - Friday                                                <br><b>Job Location:</b>
 
-                                                Randburg, South Africa
+                                                Menlo Park, South Africa
                                                 <br>
-                                                <b>Salary:</b>                                             </small>
+                                                <b>Salary:</b> R8 000 + Commission.                                            </small>
                                             <hr style="background-color: rgb(204, 204, 204);" width="100%" size="1" noshade="noshade" color="#cccccc">
                                         </td>
                                     </tr>
@@ -435,27 +409,13 @@
                                     
                                     <tr>
                                         <td align="left" colspan="2">
-                                            <b><a href="http://www.justthejob.co.za/info_jobid_32404079.html">RECEIVING/ DESPATCH STOCK CLERK</a></b>
+                                            <b><a href="http://www.justthejob.co.za/info_jobid_32509274.html">Receptionist</a></b>
                                             <small>
-                                                <br><b>Hours:</b>                                                 <br><b>Job Location:</b>
+                                                <br><b>Hours:</b> Monday - Friday                                                <br><b>Job Location:</b>
 
-                                                Nelspruit, South Africa
+                                                Moreleta Park, South Africa
                                                 <br>
-                                                <b>Salary:</b>                                             </small>
-                                            <hr style="background-color: rgb(204, 204, 204);" width="100%" size="1" noshade="noshade" color="#cccccc">
-                                        </td>
-                                    </tr>
-
-                                    
-                                    <tr>
-                                        <td align="left" colspan="2">
-                                            <b><a href="http://www.justthejob.co.za/info_jobid_32404078.html">REFRIGERATION/ AIRCONDITIONING TECHNICIAN</a></b>
-                                            <small>
-                                                <br><b>Hours:</b>                                                 <br><b>Job Location:</b>
-
-                                                Honeydew, South Africa
-                                                <br>
-                                                <b>Salary:</b> negotiable                                            </small>
+                                                <b>Salary:</b> R 8000                                            </small>
                                             <hr style="background-color: rgb(204, 204, 204);" width="100%" size="1" noshade="noshade" color="#cccccc">
                                         </td>
                                     </tr>
@@ -495,11 +455,18 @@
                             </script>
                             -->
                             <!-- jtj_160X600_home_wide_skyscraper_top_left -->
-                            <div id="div-gpt-ad-1417081990813-0" style="width:160px; height:600px; margin-top: 10px;">
-                                <script type="text/javascript">
+                            <!--
+                            <div id='div-gpt-ad-1417081990813-0' style='width:160px; height:600px; margin-top: 10px;'>
+                                <script type='text/javascript'>
                                     googletag.cmd.push(function() { googletag.display('div-gpt-ad-1417081990813-0'); });
                                 </script>
                             </div>
+                            -->
+                            <script type="text/javascript"><!--
+                                e9 = new Object();
+                                    e9.size = "160x600";
+                                //--></script>
+                            <script type="text/javascript" src="http://tags.expo9.exponential.com/tags/JusttheJobcoza/SA/ags.js"></script>
                         </td>
                     </tr>
                     <tr><td colspan="2" align="left">&nbsp;</td></tr>
@@ -739,6 +706,14 @@ googletag.enableServices();
             })();
         </script>
         -->
+        <script>
+            (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+            (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+            })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+            ga('create', 'UA-67912856-1', 'auto');
+            ga('send', 'pageview');
+        </script>
 
     
 
