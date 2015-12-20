@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nurserylive.com privacy policy that was archived on 2015-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150615231535id_/http%3A//nurserylive.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nurserylive.com privacy policy that was archived on 2015-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151220105801id_/http%3A//nurserylive.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - buy nursery plants online in pune,pimpri chinchwad,mumbai,delhi,banglore,noida,chennai,indore,hyderabad,nasik,baroda,ahemadabad,chandigarh, india
 
