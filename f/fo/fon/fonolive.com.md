@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fonolive.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627222341id_/http%3A//fonolive.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fonolive.com privacy policy that was archived on 2015-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151220222958id_/http%3A//fonolive.com/privacy) for the most accurate reproduction.*
 
-# Privacy, search for city jobs, events, local business directory, connect and meet, online dating
+# Privacy, search jobs, events, local business directory, connect and meet locally
 
 **Privacy Policy**
 
