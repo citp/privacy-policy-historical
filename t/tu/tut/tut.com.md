@@ -1,17 +1,19 @@
-> *The following text is extracted and transformed from the tut.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630002834id_/http%3A//www.tut.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tut.com privacy policy that was archived on 2015-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151220164016id_/http%3A//www.tut.com/privacy) for the most accurate reproduction.*
 
-# TUT's Adventurer's Club::Welcome
+# TUT - The Universe Talks - Mike Dooley
 
-## TUT'S ADVENTURERS CLUB PRIVACY PROMISE
+## TUT'S PRIVACY PROMISE
 
-**We respect your privacy! Totally Unique Thoughts® has created this privacy promise in order to demonstrate our commitment to your privacy. The following discloses our information gathering and dissemination practices for[www.tut.com](https://web.archive.org/index/index).**
+**By submitting your details, you agree to receive Notes from the Universe emails from TUT and occasional e-mails about events, monthly happenings, and special offers.**
+
+**TUT has created this privacy promise in order to demonstrate our commitment to your privacy. Rest assured we will NEVER sell your email addresses to third parties. The following discloses our information gathering and dissemination practices for[www.tut.com](https://web.archive.org/index/index).**
 
   
 
 
 ### SHARING & USAGE:
 
-TUT's Adventurers Club will never, ever, ever even THINK about sharing, selling, or otherwise revealing your email address or other information from your profile! Information submitted to us is only available to employees managing this information for purposes of sending out our daily "Notes from the Universe." Any and all the information collected on this site will be kept strictly confidential and will not be sold, reused, rented, disclosed, or loaned! Any information you provide will be held with the utmost care and will not be used in ways that you have not consented to. If you have any questions, please feel free to e-mail us at [adventure@tut.com](mailto:adventure@tut.com).
+TUT will never, ever, ever even THINK about sharing, selling, or otherwise revealing your email address or other information from your profile! Information submitted to us is only available to employees managing this information for purposes of sending out our daily _Notes from the Universe_ emails and occasional e-mails about events, monthly happenings, and special offers. Any and all the information collected on this site will be kept strictly confidential and will not be sold, reused, rented, disclosed, or loaned! Any information you provide will be held with the utmost care and will not be used in ways that you have not consented to. If you have any questions, please feel free to e-mail us at [adventure@tut.com](mailto:adventure@tut.com).
 
   
 
@@ -53,4 +55,4 @@ If you have any questions about this privacy promise, the practices of this site
 
 ### PRIVACY POLICY CHANGES:
 
-This policy was created on January 26, 2001 and last updated on February 06, 2009
+This policy was created on January 26, 2001 and last updated on March 13, 2015
