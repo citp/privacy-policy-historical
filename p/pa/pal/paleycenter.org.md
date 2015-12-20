@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the paleycenter.org privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629121446id_/http%3A//www.paleycenter.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paleycenter.org privacy policy that was archived on 2015-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151220172940id_/http%3A//www.paleycenter.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Paley Center for Media
 
