@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the healthunlocked.com privacy policy that was archived on 2015-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150318145642id_/https%3A//healthunlocked.com/policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthunlocked.com privacy policy that was archived on 2015-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151220144701id_/https%3A//healthunlocked.com/policies/privacy) for the most accurate reproduction.*
 
 # HealthUnlocked | The social network for health
 
-**Last modified: 15/5/2013**  
- **Last reviewed: 15/7/2014**
+**Last modified: 14/7/2015**  
+ **Last reviewed: 14/7/2015**
 
 At HealthUnlocked we believe in the potential of shared experiences to transform lives and uncover understanding in health. Because this may involve you sharing sensitive information about your health and treatment we also believe in the importance of clear and transparent privacy guidelines. As a user it’s important you know how we use and share your data and how you can control what happens to information you share in HealthUnlocked.
 
@@ -13,7 +13,7 @@ Here’s a simple guide:
 
 ##### Who are you?
 
-HealthUnlocked is owned and operated by Everything Unlocked Limited registered in England and Wales under company number 6596274. Its registered office address is: 133 Great Suffolk Street, First floor, London SE1 1PP, United Kingdom.
+HealthUnlocked is owned and operated by Everything Unlocked Limited registered in England and Wales under company number 6596274. Its registered office address is: 163 Tower Bridge Road, 4th Floor, London SE1 3LW, United Kingdom.
 
 ##### Who can see my personal identifiable information?
 
@@ -83,15 +83,19 @@ HealthUnlocked uses cookies to provide basic site functionality and to improve t
 
 Learn more about HealthUnlocked, cookies and how you can control which cookies are used [here](http://healthunlocked.com/policies/cookies).
 
-### 6\. Communications With You
+### 6\. Policy Towards Minors
+
+Children under the age of 16 are prohibited from creating an account and becoming a member of HealthUnlocked. In registering as a member you are acknowledging that you are aged 16 or above. We do not knowingly collect personal information from children under 16. If we become aware that a child under 16 has provided us with personal information, we take steps to remove such information and will delete the child’s account.
+
+### 7\. Communications With You
 
 By becoming an account holder, you agree that we may provide you with information about Our Site (whether by email or any other medium) that we consider appropriate. You may opt-out of receiving these materials and notifications in the "Settings" area of your account or by writing to or emailing us to inform us that you wish to be removed from our contact list.
 
-### 7\. If you need more information
+### 8\. If you need more information
 
 ##### How do I make a subject access request?
 
-Please put your request in writing and send it to HealthUnlocked, First Floor, 133 Great Suffolk Street, London, SE1 1PP, United Kingdom. We reserve the right to charge a fee of £10.
+Please put your request in writing and send it to HealthUnlocked, 163 Tower Bridge Road, 4th Floor, London SE1 3LW, United Kingdom. We reserve the right to charge a fee of £10.
 
 ##### Have additional questions?
 
