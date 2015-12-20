@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thedogtrainingsecret.com privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628073925id_/http%3A//www.thedogtrainingsecret.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thedogtrainingsecret.com privacy policy that was archived on 2015-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151220140945id_/http%3A//thedogtrainingsecret.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | TheDogTrainingSecret.com - The Dog Training Secret
 
