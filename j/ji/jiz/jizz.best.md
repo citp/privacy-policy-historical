@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jizz.best privacy policy that was archived on 2015-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150621222523id_/http%3A//jizz.best/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jizz.best privacy policy that was archived on 2015-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151220194058id_/http%3A//jizz.best/privacy) for the most accurate reproduction.*
 
 # jizz.best - you deserve the best porn
 
