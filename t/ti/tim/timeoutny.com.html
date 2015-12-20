@@ -1,23 +1,24 @@
-<!--The following is the downloaded HTML source of the timeoutny.com privacy policy that was archived on 2015-06-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150615012435id_/http%3A//www.timeout.com/newyork/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the timeoutny.com privacy policy that was archived on 2015-12-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151220125551id_/http%3A//www.timeout.com/newyork/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" class=""><!--<![endif]--><head>
         <meta charset="utf-8">
-        <meta http-equiv="X-UA-Compatible" content="IE=edge"><script src="https://js-agent.newrelic.com/nr-632.min.js"></script><script async="" src="//s.btstatic.com/tag.js#site=5leRLIi"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UwcHUlNaGwAFXFFUAAQ="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),f=c.length,u=i(a,o,r),d=0;f>d;d++)c[d].apply(u,n);return u}function a(t,e){f[t]=s(t).concat(e)}function s(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:s,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:23,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(f){try{r("ierr",[f,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(5),window.onerror=e;try{throw new Error}catch(f){"stack"in f&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&t(4),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:10,2:9,3:7,4:11,5:3,6:24,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t){t("loader").features.ins=!0},{loader:"G9z0Bl"}],6:[function(t){function e(){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var n=t("ee"),r=t("handle"),o=t(1),i=t(2);t("loader").features.stn=!0,t(3),n.on("fn-start",function(t){var e=t[0];e instanceof Event&&(this.bstStart=Date.now())}),n.on("fn-end",function(t,e){var n=t[0];n instanceof Event&&r("bst",[n,e,this.bstStart,Date.now()])}),o.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),o.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),i.on("fn-start",function(){this.bstStart=Date.now()}),i.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),n.on("pushState-start",function(){this.time=Date.now(),this.startPath=location.pathname+location.hash}),n.on("pushState-end",function(){r("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.addEventListener("webkitresourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1),window.performance.addEventListener("resourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1)),document.addEventListener("scroll",e,!1),document.addEventListener("keypress",e,!1),document.addEventListener("click",e,!1)}},{1:10,2:9,3:8,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],7:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:24,2:25,ee:"QJf3ax",gos:"7eSDFh"}],8:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window.history,["pushState"],"-")},{1:25,2:24,ee:"QJf3ax"}],9:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:25,2:24,ee:"QJf3ax"}],10:[function(t,e){function n(t,e,n){t[0]=o(t[0],"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:25,2:24,ee:"QJf3ax"}],11:[function(t,e){function n(){f.inPlace(this,p,"fn-")}function r(t,e){f.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),f=c(a),u=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(i){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,f.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:7,2:25,ee:"QJf3ax"}],12:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var a=t.responseType,f="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,u=n(f);if(u&&(r.rxSize=u),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(e.cat=d.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,o("xhr",[e,r,this.startTime])}}}function n(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,f=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=e,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,e){var r=this.metrics,o=t[0],i=this;if(r&&o){var f=n(o);f&&(r.txSize=f)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{a.emit("internal-error",[n])}catch(r){}}};for(var u=0;c>u;u++)e.addEventListener(s[u],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:13,3:11,4:7,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],13:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],14:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:23,2:24,handle:"D5DuLP"}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info,e=f.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){s(d,function(e,n){e in t||(t[e]=n)});var n="https"===u.split(":")[0]||t.sslForHttp;p.proto=n?"https://":"http://",a("mark",["onload",i()]);var r=f.createElement("script");r.src=p.proto+t.agent,e.parentNode.insertBefore(r,e)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=(t(2),window),f=c.document,u=(""+location).split("?")[0],d={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-632.min.js"},p=e.exports={offset:i(),origin:u,features:{}};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),c.addEventListener("load",n,!1)):(f.attachEvent("onreadystatechange",r),c.attachEvent("onload",n)),a("mark",["firstbyte",i()])},{1:23,2:14,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],23:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],24:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],25:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,f;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){u([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return f=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,f],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,f(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){u([o,e,n,r])}}function f(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){u([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function u(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:24,ee:"QJf3ax"}]},{},["G9z0Bl",4,12,6,5]);</script>
+        <meta http-equiv="X-UA-Compatible" content="IE=edge"><script src="https://js-agent.newrelic.com/nr-768.min.js"></script><script async="" src="https://s.btstatic.com/tag.js#site=5leRLIi"></script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o||n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({QJf3ax:[function(e,n){function t(e){function n(n,t,a){e&&e(n,t,a),a||(a={});for(var u=c(n),f=u.length,s=i(a,o,r),p=0;f>p;p++)u[p].apply(s,t);return s}function a(e,n){f[e]=c(e).concat(n)}function c(e){return f[e]||[]}function u(){return t(n)}var f={};return{on:a,emit:n,create:u,listeners:c,_events:f}}function r(){return{}}var o="nr@context",i=e("gos");n.exports=t()},{gos:"7eSDFh"}],ee:[function(e,n){n.exports=e("QJf3ax")},{}],3:[function(e,n){function t(e){return function(){r(e,[(new Date).getTime()].concat(i(arguments)))}}var r=e("handle"),o=e(1),i=e(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(e,n){window.NREUM[n]=t("api-"+n)}),n.exports=window.NREUM},{1:12,2:13,handle:"D5DuLP"}],gos:[function(e,n){n.exports=e("7eSDFh")},{}],"7eSDFh":[function(e,n){function t(e,n,t){if(r.call(e,n))return e[n];var o=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return e[n]=o,o}var r=Object.prototype.hasOwnProperty;n.exports=t},{}],D5DuLP:[function(e,n){function t(e,n,t){return r.listeners(e).length?r.emit(e,n,t):void(r.q&&(r.q[e]||(r.q[e]=[]),r.q[e].push(n)))}var r=e("ee").create();n.exports=t,t.ee=r,r.q={}},{ee:"QJf3ax"}],handle:[function(e,n){n.exports=e("D5DuLP")},{}],XL7HBI:[function(e,n){function t(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:i(e,o,function(){return r++})}var r=1,o="nr@id",i=e("gos");n.exports=t},{gos:"7eSDFh"}],id:[function(e,n){n.exports=e("XL7HBI")},{}],G9z0Bl:[function(e,n){function t(){var e=d.info=NREUM.info,n=f.getElementsByTagName("script")[0];if(e&&e.licenseKey&&e.applicationID&&n){c(p,function(n,t){n in e||(e[n]=t)});var t="https"===s.split(":")[0]||e.sslForHttp;d.proto=t?"https://":"http://",a("mark",["onload",i()]);var r=f.createElement("script");r.src=d.proto+e.agent,n.parentNode.insertBefore(r,n)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=e("handle"),c=e(1),u=window,f=u.document;e(2);var s=(""+location).split("?")[0],p={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-768.min.js"},d=n.exports={offset:i(),origin:s,features:{}};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),u.addEventListener("load",t,!1)):(f.attachEvent("onreadystatechange",r),u.attachEvent("onload",t)),a("mark",["firstbyte",i()])},{1:12,2:3,handle:"D5DuLP"}],loader:[function(e,n){n.exports=e("G9z0Bl")},{}],12:[function(e,n){function t(e,n){var t=[],o="",i=0;for(o in e)r.call(e,o)&&(t[i]=n(o,e[o]),i+=1);return t}var r=Object.prototype.hasOwnProperty;n.exports=t},{}],13:[function(e,n){function t(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(0>o?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=t},{}]},{},["G9z0Bl"]);</script>
                     <meta name="viewport" content="width=device-width, initial-scale=1">
                 <meta name="language" content="en">
         <meta name="locale" content="en-US">
         <meta name="site" content="us-newyork">
         <meta name="category_mapping" content="{&quot;shopping_and_style_(category)&quot;:&quot;category_1&quot;,&quot;health_and_beauty_(category)&quot;:&quot;category_1&quot;,&quot;restaurants_(category)&quot;:&quot;category_2&quot;,&quot;bars_and_pubs_(category)&quot;:&quot;category_2&quot;,&quot;art_(category)&quot;:&quot;category_3&quot;,&quot;theatre_(category)&quot;:&quot;category_4&quot;,&quot;music_(category)&quot;:&quot;category_5&quot;,&quot;nightlife_(category)&quot;:&quot;category_5&quot;,&quot;clubs_(category)&quot;:&quot;category_5&quot;,&quot;things_to_do_(category)&quot;:&quot;category_6&quot;,&quot;attractions_(category)&quot;:&quot;category_6&quot;,&quot;museums_(category)&quot;:&quot;category_6&quot;,&quot;sport_and_fitness_(category)&quot;:&quot;category_6&quot;,&quot;comedy_(category)&quot;:&quot;category_7&quot;,&quot;film_genres&quot;:&quot;category_8&quot;,&quot;cinemas_(category)&quot;:&quot;category_8&quot;,&quot;film_(category)&quot;:&quot;category_8&quot;,&quot;dance_(category)&quot;:&quot;category_9&quot;,&quot;default&quot;:&quot;category_10&quot;}">
         <meta name="home_url" content="/newyork">
-                <meta name="title" content="Privacy policy">
-        <meta name="description" content="Time Out North America">
+                <meta name="description" content="Time Out North America">
                 <link rel="canonical" href="http://www.timeout.com/newyork/privacy-policy">        <link rel="icon" type="image/png" href="/favicon.ico">
-                             
+            <meta name="robots" content="NOODP, NOYDIR">
+            
 
     <meta property="og:title" content="Privacy policy">
 
-<meta property="fb:app_id" content="378433818833850">
+    <meta property="fb:app_id" content="378433818833850">
+
 <meta property="og:url" content="http://www.timeout.com/newyork/privacy-policy">
 <meta property="og:site_name" content="Time Out New York">
 <meta property="og:description" content="Time Out North America">
@@ -36,49 +37,81 @@
     <meta name="twitter:site" content="@TimeOutNewYork">
     <meta name="twitter:creator" content="@TimeOutNewYork">
 
-                
+                            <script type="text/javascript">
+  (function () {
+    var tagjs = document.createElement("script");
+    var s = document.getElementsByTagName("script")[0];
+    tagjs.async = true;
+    tagjs.src = "https://s.btstatic.com/tag.js#site=5leRLIi";
+    s.parentNode.insertBefore(tagjs, s);
+  }());
+</script>
+<noscript>
+  <iframe src="https://s.thebrighttag.com/iframe?c=5leRLIi" width="1" height="1" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe>
+</noscript>        
+        
+
         <title>Privacy policy</title>
-        <link href="//dist.timeout.com/dist/b23f37461b4822c26e6aa41cf0e4e6e0cfb0077e/css/timeout.css" rel="stylesheet">
-                <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+
+        <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,300,700|Open+Sans+Condensed:300,700&amp;subset=latin,latin-ext" rel="stylesheet" type="text/css">
+
+        <!--[if (gt IE 9)|!(IE)]><!-->
+        <link href="//dist.timeout.com/dist/7cc58e6f26a91e8dc47114f5dda2909ff101b136/css/timeout.css" rel="stylesheet">
+        <!--<![endif]-->
 
         <!--[if lte IE 9]>
-            <script src="//dist.timeout.com/dist/b23f37461b4822c26e6aa41cf0e4e6e0cfb0077e/js/lib/matchmedia.js"></script>
+        <link href="//dist.timeout.com/dist/7cc58e6f26a91e8dc47114f5dda2909ff101b136/css/timeout_page_1.css" rel="stylesheet">
+        <link href="//dist.timeout.com/dist/7cc58e6f26a91e8dc47114f5dda2909ff101b136/css/timeout_page_2.css" rel="stylesheet">
+        <![endif]-->
+
+        
+        <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+
+        <!--[if lte IE 9]>
+            <script src="//dist.timeout.com/dist/7cc58e6f26a91e8dc47114f5dda2909ff101b136/js/lib/matchmedia.js"></script>
         <![endif]-->
 
         <!--[if IE 9]>
-            <link href="//dist.timeout.com/dist/b23f37461b4822c26e6aa41cf0e4e6e0cfb0077e/css/crossbrowser/ie9.css" rel="stylesheet" />
+            <link href="//dist.timeout.com/dist/7cc58e6f26a91e8dc47114f5dda2909ff101b136/css/crossbrowser/ie9.css" rel="stylesheet" />
         <![endif]-->
 
         <!--[if IE 8]>
             <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
             <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
-            <link href="//dist.timeout.com/dist/b23f37461b4822c26e6aa41cf0e4e6e0cfb0077e/css/crossbrowser/ie8.css" rel="stylesheet" />
+            <link href="//dist.timeout.com/dist/7cc58e6f26a91e8dc47114f5dda2909ff101b136/css/crossbrowser/ie8.css" rel="stylesheet" />
         <![endif]-->
+
+        <meta name="asset_path" content="//dist.timeout.com/dist/7cc58e6f26a91e8dc47114f5dda2909ff101b136/">
+
         <meta data-module="adverts" data-params="{&quot;host&quot;:&quot;Time_Out_New_York&quot;,&quot;network_code&quot;:5185,&quot;zone&quot;:&quot;things-to-do&quot;,&quot;ad_pubs&quot;:{&quot;page&quot;:&quot;page&quot;,&quot;itemid&quot;:&quot;page-27879&quot;,&quot;audience&quot;:&quot;default&quot;},&quot;taggings&quot;:{&quot;subject&quot;:[&quot;things-to-do&quot;]}}">        
         
                                 
         
-                    <meta data-module="omniture" data-account="timeoutny,timeoutus,timeoutworldwide" data-site-name="Newyork" data-content="{&quot;pageName&quot;:&quot;Feature : Privacy policy&quot;,&quot;prop3&quot;:&quot;privacy policy&quot;,&quot;prop4&quot;:&quot;content-page-27879&quot;,&quot;prop5&quot;:&quot;feature&quot;,&quot;hier1&quot;:&quot;newyork, feature&quot;,&quot;prop49&quot;:&quot;Newyork&quot;,&quot;prop53&quot;:&quot;en&quot;,&quot;prop54&quot;:&quot;Things to do&quot;,&quot;prop55&quot;:null}" data-track-manually="0">
+                    <meta data-module="omniture" data-account="timeoutny,timeoutworldwide" data-site-name="Newyork" data-content="{&quot;pageName&quot;:&quot;Feature : Privacy policy&quot;,&quot;prop3&quot;:&quot;privacy policy&quot;,&quot;prop4&quot;:&quot;content-page-27879&quot;,&quot;prop5&quot;:&quot;feature&quot;,&quot;hier1&quot;:&quot;newyork, feature&quot;,&quot;prop49&quot;:&quot;Newyork&quot;,&quot;prop53&quot;:&quot;en&quot;,&quot;prop54&quot;:&quot;Things to do&quot;,&quot;prop55&quot;:null}" data-track-manually="0">
             
         
-                <script type="text/javascript" src="//service.maxymiser.net/cdn/timeout/js/mmcore.js"></script>
-        
+        <script type="text/javascript" src="https://native.sharethrough.com/assets/sfp.js" async=""></script>
+
         <meta data-graffiti="/graffiti/v1" data-graffiti-site="us-newyork">
         <meta data-module="user" data-params="{
-                &quot;gigya_url&quot;: &quot;http://cdn.gigya.com/JS/gigya.js?apikey=3_tQKJmyO5u50bQaNljqWymBh6uezUx-yvPK6kDyblgAUXK7V6Y-_aPghiLfHEUmNr&amp;lang=en&quot;,
+                &quot;gigya_url&quot;: &quot;https://cdns.gigya.com/JS/gigya.js?apikey=3_tQKJmyO5u50bQaNljqWymBh6uezUx-yvPK6kDyblgAUXK7V6Y-_aPghiLfHEUmNr&amp;lang=en&quot;,
                 &quot;token_url&quot;: &quot;/newyork/en_US/user/token&quot;,
                 &quot;gigya_conf&quot;: {
-                    &quot;lang&quot;: &quot;en&quot;
+                    &quot;lang&quot;: &quot;en&quot;,
+                    &quot;gigyaPlugins&quot; : {
+                        &quot;rememberSessionExpiration&quot; : -2
+                    }
                 },
                 &quot;welcome_url&quot;: &quot;/newyork/en_US/user/email/welcome&quot;
             }">
+        <meta data-maps-key="AIzaSyCUoDEz9c8NzvYh1IMHLCXYZUFbxbeCwms">
     <link rel="stylesheet" type="text/css" href="https://d3qdfnco3bamip.cloudfront.net/wjs/v3.0/css/livefyre_embed.css" media="all"></head>
     <body class="    
     feature-page
   en_US " data-country="us">
         <script>document.body.className = document.body.className.replace('nojs','')</script>
 
-                    <div id="ad-skin-585536116" class="ad  ad-skin" data-ad="{&quot;type&quot;:&quot;skin&quot;}"><noscript><a href="http://ad.doubleclick.net/5185/jump/Time_Out_New_York/things-to-do;type=ad-skin;page=page;itemid=page-27879;audience=default;tile=6;sz=1x1;ord=1342696954;subject=things-to-do;?"><img src="http://ad.doubleclick.net/5185/ad/Time_Out_New_York/things-to-do;type=ad-skin;page=page;itemid=page-27879;audience=default;tile=6;sz=1x1;ord=1342696954;subject=things-to-do;?" /></a></noscript></div>        
+                    <div id="ad-skin-44575336" class="ad  ad-skin" data-ad="{&quot;type&quot;:&quot;skin&quot;}"><noscript><a href="http://ad.doubleclick.net/5185/jump/Time_Out_New_York/things-to-do;type=ad-skin;page=page;itemid=page-27879;audience=default;tile=6;sz=1x1;ord=1458535020;subject=things-to-do;?"><img src="http://ad.doubleclick.net/5185/ad/Time_Out_New_York/things-to-do;type=ad-skin;page=page;itemid=page-27879;audience=default;tile=6;sz=1x1;ord=1458535020;subject=things-to-do;?" /></a></noscript></div>        
         <div id="main-container">
 
                                 
@@ -92,7 +125,9 @@
 		<div class="sticky fixed">
 		
 
+
     
+
 <div class="masthead" id="masthead">
     <div class="container">
         <div class="branding">
@@ -113,169 +148,169 @@
         <div class="mobile-menu">
             <div class="nav-top-item nav-utils__item">
                 
-<nav class="drawer-menu drawer-menu__dir-left js-mobile-menu" data-module="drawer" data-uid="524640088">
-    <input type="checkbox" id="drawer-menu__toggle_524640088" class="drawer-menu__toggle" data-uid="524640088">
+<nav class="drawer-menu drawer-menu__dir-left js-mobile-menu" data-module="drawer" data-uid="1226856973">
+    <input type="checkbox" id="drawer-menu__toggle_1226856973" class="drawer-menu__toggle" data-uid="1226856973">
 
 
     <div class="drawer-menu__content">
-         <label class="drawer-menu__close_button icon_close" for="drawer-menu__toggle_524640088">
+         <label class="drawer-menu__close_button icon_close" for="drawer-menu__toggle_1226856973">
             <span>Close</span>
         </label>
         <div class="drawer-menu__include">
             
             <nav id="mobile-nav" class="navmenu" role="navigation">
 	<ul class="nav">
-						<li>
+	                        		<li>
 		<a class="mobile-nav_item" href="/newyork/tickets-offers" data-track-click="{&quot;pev2&quot;:&quot;tickets &amp; offers menu drawer&quot;}" title="Tickets &amp; Offers" target="_self">
 			Tickets &amp; Offers
 		</a>
 	</li>
 
-					<li>
+                    		<li>
 		<a class="mobile-nav_item" href="/newyork/things-to-do" data-track-click="{&quot;pev2&quot;:&quot;things to do menu drawer&quot;}" title="Things to Do" target="_self">
 			Things to Do
 		</a>
 	</li>
 
-					<li>
+                    		<li>
 		<a class="mobile-nav_item" href="/newyork/restaurants" data-track-click="{&quot;pev2&quot;:&quot;restaurants menu drawer&quot;}" title="Restaurants" target="_self">
 			Restaurants
 		</a>
 	</li>
 
-					<li>
+                    		<li>
 		<a class="mobile-nav_item" href="/newyork/bars" data-track-click="{&quot;pev2&quot;:&quot;bars menu drawer&quot;}" title="Bars" target="_self">
 			Bars
 		</a>
 	</li>
 
-					<li>
+                    		<li>
 		<a class="mobile-nav_item" href="/newyork/movies" data-track-click="{&quot;pev2&quot;:&quot;movies menu drawer&quot;}" title="Movies" target="_self">
 			Movies
 		</a>
 	</li>
 
-					<li>
+                    		<li>
 		<a class="mobile-nav_item" href="/newyork/theater" data-track-click="{&quot;pev2&quot;:&quot;theater menu drawer&quot;}" title="Theater" target="_self">
 			Theater
 		</a>
 	</li>
 
-					<li>
+                    		<li>
 		<a class="mobile-nav_item" href="/newyork/art" data-track-click="{&quot;pev2&quot;:&quot;art menu drawer&quot;}" title="Art" target="_self">
 			Art
 		</a>
 	</li>
 
-					<li>
+                    		<li>
 		<a class="mobile-nav_item" href="/newyork/music" data-track-click="{&quot;pev2&quot;:&quot;music menu drawer&quot;}" title="Music" target="_self">
 			Music
 		</a>
 	</li>
 
-					<li>
+                    		<li>
 		<a class="mobile-nav_item" href="/newyork/shopping" data-track-click="{&quot;pev2&quot;:&quot;shopping menu drawer&quot;}" title="Shopping" target="_self">
 			Shopping
 		</a>
 	</li>
 
-					<li>
+                    		<li>
 		<a class="mobile-nav_item" href="/newyork/travel" data-track-click="{&quot;pev2&quot;:&quot;travel menu drawer&quot;}" title="Travel" target="_self">
 			Travel
 		</a>
 	</li>
 
-					<li>
+                    		<li>
 		<a class="mobile-nav_item" href="/newyork/blog" data-track-click="{&quot;pev2&quot;:&quot;blog menu drawer&quot;}" title="Blog" target="_self">
 			Blog
 		</a>
 	</li>
 
-					<li>
+                    		<li>
 		<a class="mobile-nav_item" href="/newyork/nightlife" data-track-click="{&quot;pev2&quot;:&quot;nightlife menu drawer&quot;}" title="Nightlife" target="_self">
 			Nightlife
 		</a>
 	</li>
 
-					<li>
+                    		<li>
 		<a class="mobile-nav_item" href="/newyork/attractions" data-track-click="{&quot;pev2&quot;:&quot;attractions menu drawer&quot;}" title="Attractions" target="_self">
 			Attractions
 		</a>
 	</li>
 
-					<li>
+                    		<li>
 		<a class="mobile-nav_item" href="/newyork/things-to-do/events-festivals" data-track-click="{&quot;pev2&quot;:&quot;events &amp; festivals menu drawer&quot;}" title="Events &amp; Festivals" target="_self">
 			Events &amp; Festivals
 		</a>
 	</li>
 
-					<li>
+                    		<li>
 		<a class="mobile-nav_item" href="/newyork/museums" data-track-click="{&quot;pev2&quot;:&quot;museums menu drawer&quot;}" title="Museums" target="_self">
 			Museums
 		</a>
 	</li>
 
-					<li>
+                    		<li>
 		<a class="mobile-nav_item" href="/new-york-kids" data-track-click="{&quot;pev2&quot;:&quot;kids menu drawer&quot;}" title="Kids" target="_self">
 			Kids
 		</a>
 	</li>
 
-					<li>
+                    		<li>
 		<a class="mobile-nav_item" href="/newyork/comedy" data-track-click="{&quot;pev2&quot;:&quot;comedy menu drawer&quot;}" title="Comedy" target="_self">
 			Comedy
 		</a>
 	</li>
 
-					<li>
+                    		<li>
 		<a class="mobile-nav_item" href="/newyork/dance" data-track-click="{&quot;pev2&quot;:&quot;dance menu drawer&quot;}" title="Dance" target="_self">
 			Dance
 		</a>
 	</li>
 
-					<li>
+                    		<li>
 		<a class="mobile-nav_item" href="/newyork/lgbt" data-track-click="{&quot;pev2&quot;:&quot;lgbt menu drawer&quot;}" title="LGBT" target="_self">
 			LGBT
 		</a>
 	</li>
 
-					<li>
+                    		<li>
 		<a class="mobile-nav_item" href="/newyork/sex-dating" data-track-click="{&quot;pev2&quot;:&quot;sex &amp; dating menu drawer&quot;}" title="Sex &amp; Dating" target="_self">
 			Sex &amp; Dating
 		</a>
 	</li>
 
-					<li>
+                    		<li>
 		<a class="mobile-nav_item" href="/newyork/books" data-track-click="{&quot;pev2&quot;:&quot;books menu drawer&quot;}" title="Books" target="_self">
 			Books
 		</a>
 	</li>
 
-					<li>
+                    		<li>
 		<a class="mobile-nav_item" href="/newyork/things-to-do/city-guide" data-track-click="{&quot;pev2&quot;:&quot;city guide menu drawer&quot;}" title="City Guide" target="_self">
 			City Guide
 		</a>
 	</li>
 
-					<li>
+                    		<li>
 		<a class="mobile-nav_item" href="/newyork/neighborhoods" data-track-click="{&quot;pev2&quot;:&quot;neighborhoods menu drawer&quot;}" title="Neighborhoods" target="_self">
 			Neighborhoods
 		</a>
 	</li>
 
-					<li>
+                    		<li>
 		<a class="mobile-nav_item" href="/newyork/hotels" data-track-click="{&quot;pev2&quot;:&quot;hotels menu drawer&quot;}" title="Hotels" target="_self">
 			Hotels
 		</a>
 	</li>
 
-					<li>
+                    		<li>
 		<a class="mobile-nav_item" href="/newyork/promotions" data-track-click="{&quot;pev2&quot;:&quot;promotions menu drawer&quot;}" title="Promotions" target="_self">
 			Promotions
 		</a>
 	</li>
 
-			<li>
+            		<li>
 			<a href="//www.timeout.com/find-your-time-out/" class="mobile-nav_item mobile-nav__item--city-link">Change city</a>
 		</li>
 													<li>
@@ -332,7 +367,7 @@
         </div>
     </div>
 
-    <label class="drawer-menu__label mobile-menu__drawer icon_burger" for="drawer-menu__toggle_524640088">
+    <label class="drawer-menu__label mobile-menu__drawer icon_burger" for="drawer-menu__toggle_1226856973">
                 </label>
 </nav>            </div>
         </div>
@@ -345,31 +380,31 @@
                             <div class="nav-top-item nav-utils__item social-links social-links--header">
                     <span class="social-links__title">Follow us</span>
                     <span class="social-links__link-wrapper">
-                                                                                <a class="social-link icon_facebook" href="https://www.facebook.com/timeoutnewyork" title="Facebook" target="_blank">
-                                    <span>Facebook</span>
-                                </a>
-                                                                                                                <a class="social-link icon_twitter" href="https://twitter.com/TimeOutNewYork" title="Twitter" target="_blank">
-                                    <span>Twitter</span>
-                                </a>
-                                                                                                                <a class="social-link icon_googleplus" href="https://plus.google.com/+timeoutnewyork" title="Google Plus" target="_blank">
-                                    <span>Google Plus</span>
-                                </a>
-                                                                                                                <a class="social-link icon_youtube" href="https://www.youtube.com/user/TimeOutNewYork" title="YouTube" target="_blank">
-                                    <span>YouTube</span>
-                                </a>
-                                                                                                                <a class="social-link icon_instagram" href="http://instagram.com/timeoutnewyork" title="Instagram" target="_blank">
-                                    <span>Instagram</span>
-                                </a>
-                                                                                                                <a class="social-link icon_pinterest" href="https://pinterest.com/timeoutnewyork" title="Pinterest" target="_blank">
-                                    <span>Pinterest</span>
-                                </a>
-                                                                                                                <a class="social-link icon_spotify" href="https://open.spotify.com/user/122728703" title="Spotify" target="_blank">
-                                    <span>Spotify</span>
-                                </a>
-                                                                                                                <a class="social-link icon_foursquare" href="https://foursquare.com/timeoutnewyork" title="Foursquare" target="_blank">
-                                    <span>Foursquare</span>
-                                </a>
-                                                                        </span>
+                                                                        <a class="social-link icon_facebook" href="https://www.facebook.com/timeoutnewyork" title="Facebook" target="_blank">
+                                <span>Facebook</span>
+                            </a>
+                                                                                                <a class="social-link icon_twitter" href="https://twitter.com/TimeOutNewYork" title="Twitter" target="_blank">
+                                <span>Twitter</span>
+                            </a>
+                                                                                                <a class="social-link icon_googleplus" href="https://plus.google.com/+timeoutnewyork" title="Googleplus" target="_blank">
+                                <span>Googleplus</span>
+                            </a>
+                                                                                                <a class="social-link icon_youtube" href="https://www.youtube.com/user/TimeOutNewYork" title="Youtube" target="_blank">
+                                <span>Youtube</span>
+                            </a>
+                                                                                                <a class="social-link icon_instagram" href="http://instagram.com/timeoutnewyork" title="Instagram" target="_blank">
+                                <span>Instagram</span>
+                            </a>
+                                                                                                <a class="social-link icon_pinterest" href="https://pinterest.com/timeoutnewyork" title="Pinterest" target="_blank">
+                                <span>Pinterest</span>
+                            </a>
+                                                                                                <a class="social-link icon_spotify" href="https://open.spotify.com/user/122728703" title="Spotify" target="_blank">
+                                <span>Spotify</span>
+                            </a>
+                                                                                                <a class="social-link icon_foursquare" href="https://foursquare.com/timeoutnewyork" title="Foursquare" target="_blank">
+                                <span>Foursquare</span>
+                            </a>
+                                                                </span>
                 </div>
             
             <div class="nav-top-item nav-utils__item city-link">
@@ -378,12 +413,12 @@
 
             <div class="nav-top-item nav-utils__item">
                     
-<nav class="drawer-menu drawer-menu__dir-right " data-module="drawer" data-uid="197211037">
-    <input type="checkbox" id="drawer-menu__toggle_197211037" class="drawer-menu__toggle" data-uid="197211037">
+<nav class="drawer-menu drawer-menu__dir-right " data-module="drawer" data-uid="1954558371">
+    <input type="checkbox" id="drawer-menu__toggle_1954558371" class="drawer-menu__toggle" data-uid="1954558371">
 
 
     <div class="drawer-menu__content">
-         <label class="drawer-menu__close_button icon_close" for="drawer-menu__toggle_197211037">
+         <label class="drawer-menu__close_button icon_close" for="drawer-menu__toggle_1954558371">
             <span>Close</span>
         </label>
         <div class="drawer-menu__include">
@@ -419,16 +454,14 @@
                 </span>
             </button>
         </div>
-
-
-
-
-        <a href="#" class="gigya-screens__nav_item gigya-active-button" data-module="gigya" data-action="switchscreen" data-params="login-screen">
-            Sign in
-        </a>
-        <a href="#" class="gigya-screens__nav_item" data-module="gigya" data-action="switchscreen" data-params="create_account_screen">
-            Create account
-        </a>
+        <div class="gigya-screens__nav--log-register">
+            <a href="#" class="gigya-screens__nav_item gigya-active-button" data-module="gigya" data-action="switchscreen" data-params="login-screen">
+                <span>Sign in</span>
+            </a>
+            <a href="#" class="gigya-screens__nav_item" data-module="gigya" data-action="switchscreen" data-params="create_account_screen">
+                <span>Create account</span>
+            </a>
+        </div>
     </nav>
 
 
@@ -436,8 +469,7 @@
 
     <div class="gigya-screen-set" id="gigya-screens" data-on-pending-registration-screen="confirm_account_screen">
 
-                
-<div class="gigya-screen" id="login-screen">
+                <div class="gigya-screen" id="login-screen">
 
     <h3>Sign in</h3>
 
@@ -446,7 +478,7 @@
         <p class="gigya-screens__info">With your social account:</p>
 
         
-<div id="gigya-social-login_1243773690" class="gigya-social-login" style="overflow:hidden;height:40px;min-height:40px;">
+<div id="gigya-social-login_227140525" class="gigya-social-login" style="overflow:hidden;height:40px;min-height:40px;">
     <param name="width" value="250">
     <param name="height" value="35">
     <param name="enabledProviders" value="Facebook,Googleplus,Twitter">
@@ -456,7 +488,7 @@
 
 </div>
 
-<div class="gigya-error-msg error-msg alert alert-danger" data-bound-to="gigya-social-login_1243773690"></div>
+<div class="gigya-error-msg error-msg alert alert-danger" data-bound-to="gigya-social-login_227140525"></div>
     </div>
 
     
@@ -476,6 +508,9 @@
             <span class="gigya-error-msg" data-bound-to="password"></span>
         </div>
 
+        <label for="remember">Remember me</label>
+        <input type="checkbox" name="remember" id="remember">
+
         <div class="gigya-error-msg error-msg alert alert-danger" data-bound-to="gigya-login-form"></div>
         <a href="/newyork/user/forgotPassword" class="gigya-forgotten_password">Forgotten your password?</a>
         <button class="gigya-input-submit" tabindex="3" type="submit">Sign in</button>
@@ -488,7 +523,7 @@
         <div class="gigya-screens_social_login_prompt">
         <p class="gigya-screens__info">With a few clicks using your favourite social network</p>
         
-<div id="gigya-social-login_1963770348" class="gigya-social-login" style="overflow:hidden;height:40px;min-height:40px;">
+<div id="gigya-social-login_1712649353" class="gigya-social-login" style="overflow:hidden;height:40px;min-height:40px;">
     <param name="width" value="250">
     <param name="height" value="35">
     <param name="enabledProviders" value="Facebook,Googleplus,Twitter">
@@ -498,7 +533,7 @@
 
 </div>
 
-<div class="gigya-error-msg error-msg alert alert-danger" data-bound-to="gigya-social-login_1963770348"></div>
+<div class="gigya-error-msg error-msg alert alert-danger" data-bound-to="gigya-social-login_1712649353"></div>
     </div>
 
     <p class="gigya-screens__info">Or by entering your details below</p>
@@ -607,11 +642,19 @@
     </form>
 </div>
     </div>
+
+
+    <div class="error-handler" data-module="error-handler" data-params="{
+            &quot;subscribe&quot;: {
+                &quot;user.auth.error.generic&quot; : &quot;We couldn't log you in! Please try again later.&quot;
+            }
+        }">
+    </div>
 </div>
         </div>
     </div>
 
-    <label class="drawer-menu__label " for="drawer-menu__toggle_197211037" data-track-click="{&quot;pev2&quot;:&quot;your time out&quot;,&quot;eVar59&quot;:&quot;D=pev2&quot;}">
+    <label class="drawer-menu__label " for="drawer-menu__toggle_1954558371" data-track-click="{&quot;pev2&quot;:&quot;your time out&quot;,&quot;eVar59&quot;:&quot;D=pev2&quot;}">
                             <span class="user_greeting user_greeting--none" data-module="user_element">
     <span class="user_greeting__image">
         <img>
@@ -632,107 +675,107 @@
 <nav id="primary-nav" class="navbar" role="navigation" data-module="navigation">
     <div class="container">
         <ul class="nav nav--hidden">
-                                            <li class="nav-top-item">
+                                                                <li class="nav-top-item">
         <a href="/newyork/tickets-offers" data-track-click="{&quot;pev2&quot;:&quot;tickets &amp; offers header&quot;}" title="Tickets &amp; Offers" target="_self">Tickets &amp; Offers</a>
     </li>
 
-                                <li class="nav-top-item">
+                                        <li class="nav-top-item">
         <a href="/newyork/things-to-do" data-track-click="{&quot;pev2&quot;:&quot;things to do header&quot;}" title="Things to Do" target="_self">Things to Do</a>
     </li>
 
-                                <li class="nav-top-item">
+                                        <li class="nav-top-item">
         <a href="/newyork/restaurants" data-track-click="{&quot;pev2&quot;:&quot;restaurants header&quot;}" title="Restaurants" target="_self">Restaurants</a>
     </li>
 
-                                <li class="nav-top-item">
+                                        <li class="nav-top-item">
         <a href="/newyork/bars" data-track-click="{&quot;pev2&quot;:&quot;bars header&quot;}" title="Bars" target="_self">Bars</a>
     </li>
 
-                                <li class="nav-top-item">
+                                        <li class="nav-top-item">
         <a href="/newyork/movies" data-track-click="{&quot;pev2&quot;:&quot;movies header&quot;}" title="Movies" target="_self">Movies</a>
     </li>
 
-                                <li class="nav-top-item">
+                                        <li class="nav-top-item">
         <a href="/newyork/theater" data-track-click="{&quot;pev2&quot;:&quot;theater header&quot;}" title="Theater" target="_self">Theater</a>
     </li>
 
-                                <li class="nav-top-item">
+                                        <li class="nav-top-item">
         <a href="/newyork/art" data-track-click="{&quot;pev2&quot;:&quot;art header&quot;}" title="Art" target="_self">Art</a>
     </li>
 
-                                <li class="nav-top-item">
+                                        <li class="nav-top-item">
         <a href="/newyork/music" data-track-click="{&quot;pev2&quot;:&quot;music header&quot;}" title="Music" target="_self">Music</a>
     </li>
 
-                                <li class="nav-top-item">
+                                        <li class="nav-top-item">
         <a href="/newyork/shopping" data-track-click="{&quot;pev2&quot;:&quot;shopping header&quot;}" title="Shopping" target="_self">Shopping</a>
     </li>
 
-                                <li class="nav-top-item">
+                                        <li class="nav-top-item">
         <a href="/newyork/travel" data-track-click="{&quot;pev2&quot;:&quot;travel header&quot;}" title="Travel" target="_self">Travel</a>
     </li>
 
-                                <li class="nav-top-item">
+                                        <li class="nav-top-item">
         <a href="/newyork/blog" data-track-click="{&quot;pev2&quot;:&quot;blog header&quot;}" title="Blog" target="_self">Blog</a>
     </li>
 
-                                <li class="nav-top-item">
+                                        <li class="nav-top-item">
         <a href="/newyork/nightlife" data-track-click="{&quot;pev2&quot;:&quot;nightlife header&quot;}" title="Nightlife" target="_self">Nightlife</a>
     </li>
 
-                                <li class="nav-top-item">
+                                        <li class="nav-top-item">
         <a href="/newyork/attractions" data-track-click="{&quot;pev2&quot;:&quot;attractions header&quot;}" title="Attractions" target="_self">Attractions</a>
     </li>
 
-                                <li class="nav-top-item">
+                                        <li class="nav-top-item">
         <a href="/newyork/things-to-do/events-festivals" data-track-click="{&quot;pev2&quot;:&quot;events &amp; festivals header&quot;}" title="Events &amp; Festivals" target="_self">Events &amp; Festivals</a>
     </li>
 
-                                <li class="nav-top-item">
+                                        <li class="nav-top-item">
         <a href="/newyork/museums" data-track-click="{&quot;pev2&quot;:&quot;museums header&quot;}" title="Museums" target="_self">Museums</a>
     </li>
 
-                                <li class="nav-top-item">
+                                        <li class="nav-top-item">
         <a href="/new-york-kids" data-track-click="{&quot;pev2&quot;:&quot;kids header&quot;}" title="Kids" target="_self">Kids</a>
     </li>
 
-                                <li class="nav-top-item">
+                                        <li class="nav-top-item">
         <a href="/newyork/comedy" data-track-click="{&quot;pev2&quot;:&quot;comedy header&quot;}" title="Comedy" target="_self">Comedy</a>
     </li>
 
-                                <li class="nav-top-item">
+                                        <li class="nav-top-item">
         <a href="/newyork/dance" data-track-click="{&quot;pev2&quot;:&quot;dance header&quot;}" title="Dance" target="_self">Dance</a>
     </li>
 
-                                <li class="nav-top-item">
+                                        <li class="nav-top-item">
         <a href="/newyork/lgbt" data-track-click="{&quot;pev2&quot;:&quot;lgbt header&quot;}" title="LGBT" target="_self">LGBT</a>
     </li>
 
-                                <li class="nav-top-item">
+                                        <li class="nav-top-item">
         <a href="/newyork/sex-dating" data-track-click="{&quot;pev2&quot;:&quot;sex &amp; dating header&quot;}" title="Sex &amp; Dating" target="_self">Sex &amp; Dating</a>
     </li>
 
-                                <li class="nav-top-item">
+                                        <li class="nav-top-item">
         <a href="/newyork/books" data-track-click="{&quot;pev2&quot;:&quot;books header&quot;}" title="Books" target="_self">Books</a>
     </li>
 
-                                <li class="nav-top-item">
+                                        <li class="nav-top-item">
         <a href="/newyork/things-to-do/city-guide" data-track-click="{&quot;pev2&quot;:&quot;city guide header&quot;}" title="City Guide" target="_self">City Guide</a>
     </li>
 
-                                <li class="nav-top-item">
+                                        <li class="nav-top-item">
         <a href="/newyork/neighborhoods" data-track-click="{&quot;pev2&quot;:&quot;neighborhoods header&quot;}" title="Neighborhoods" target="_self">Neighborhoods</a>
     </li>
 
-                                <li class="nav-top-item">
+                                        <li class="nav-top-item">
         <a href="/newyork/hotels" data-track-click="{&quot;pev2&quot;:&quot;hotels header&quot;}" title="Hotels" target="_self">Hotels</a>
     </li>
 
-                                <li class="nav-top-item">
+                                        <li class="nav-top-item">
         <a href="/newyork/promotions" data-track-click="{&quot;pev2&quot;:&quot;promotions header&quot;}" title="Promotions" target="_self">Promotions</a>
     </li>
 
-                        <li class="nav-top-item more-submenu has-submenu hidden">
+                                        <li class="nav-top-item more-submenu has-submenu hidden">
                 <a href="#"> More </a>
                 <ul class="submenu"></ul>
             </li>
@@ -745,7 +788,7 @@
 
 		</div>
 	</div>
-	<div id="ad-header-1627652968" class="ad  ad-header" data-ad="{&quot;type&quot;:&quot;header&quot;}"><noscript><a href="http://ad.doubleclick.net/5185/jump/Time_Out_New_York/things-to-do;type=ad-header;page=page;itemid=page-27879;audience=default;tile=1;sz=728x90,900x250,940x250,970x250,970x415,970x90;ord=1484926818;subject=things-to-do;?"><img src="http://ad.doubleclick.net/5185/ad/Time_Out_New_York/things-to-do;type=ad-header;page=page;itemid=page-27879;audience=default;tile=1;sz=728x90,900x250,940x250,970x250,970x415,970x90;ord=1484926818;subject=things-to-do;?" /></a></noscript></div>	<div id="ad-mobile-banner-1544777609" class="ad  ad-mobile-banner" data-ad="{&quot;type&quot;:&quot;mobilebanner&quot;}"><noscript><a href="http://ad.doubleclick.net/5185/jump/Time_Out_New_York/things-to-do;type=ad-mobile-banner;page=page;itemid=page-27879;audience=default;tile=4;sz=320,50;ord=208115719;subject=things-to-do;?"><img src="http://ad.doubleclick.net/5185/ad/Time_Out_New_York/things-to-do;type=ad-mobile-banner;page=page;itemid=page-27879;audience=default;tile=4;sz=320,50;ord=208115719;subject=things-to-do;?" /></a></noscript></div></header>            
+			<div id="ad-header-1381557071" class="ad  ad-header" data-ad="{&quot;type&quot;:&quot;header&quot;}"><noscript><a href="http://ad.doubleclick.net/5185/jump/Time_Out_New_York/things-to-do;type=ad-header;page=page;itemid=page-27879;audience=default;tile=1;sz=728x90,900x250,940x250,970x250,970x415,970x90;ord=815694105;subject=things-to-do;?"><img src="http://ad.doubleclick.net/5185/ad/Time_Out_New_York/things-to-do;type=ad-header;page=page;itemid=page-27879;audience=default;tile=1;sz=728x90,900x250,940x250,970x250,970x415,970x90;ord=815694105;subject=things-to-do;?" /></a></noscript></div>		<div id="ad-mobile-banner-1721195540" class="ad  ad-mobile-banner" data-ad="{&quot;type&quot;:&quot;mobilebanner&quot;}"><noscript><a href="http://ad.doubleclick.net/5185/jump/Time_Out_New_York/things-to-do;type=ad-mobile-banner;page=page;itemid=page-27879;audience=default;tile=4;sz=320,50;ord=1706014398;subject=things-to-do;?"><img src="http://ad.doubleclick.net/5185/ad/Time_Out_New_York/things-to-do;type=ad-mobile-banner;page=page;itemid=page-27879;audience=default;tile=4;sz=320,50;ord=1706014398;subject=things-to-do;?" /></a></noscript></div>	</header>            
             <main id="content" role="main" class="container">
                 <article class="feature_page">
         
@@ -762,11 +805,12 @@
 </div>
             
 
-<div class="icon_cta lovr " data-module="lovr" data-params="{&quot;uid&quot;:&quot;Content-Page-27879&quot;,&quot;count&quot;:0,&quot;name&quot;:&quot;Privacy policy&quot;}">
 
-    <a class="lovr__notification" data-track-click="{&quot;events&quot;:[&quot;event50&quot;],&quot;pev2&quot;:&quot;added to your loved list clicked&quot;}" href="/newyork/my#/favourites">
-        Added to <span class="lovr__notification--highlight">Things I love</span>
-    </a>
+    
+
+<div class="icon_cta lovr " data-module="lovr" data-params="{&quot;uid&quot;:&quot;Content-Page-27879&quot;,&quot;count&quot;:0,&quot;name&quot;:&quot;Privacy policy&quot;,&quot;text&quot;:{&quot;success&quot;:&quot;Added to <span class='notification--highlight'>Things I love<\/span>&quot;,&quot;error&quot;:&quot;Sorry, something went wrong. Please try again later&quot;,&quot;active&quot;:&quot;Loved&quot;}}">
+
+    <a class="lovr__notification notification" data-track-click="{&quot;events&quot;:[&quot;event50&quot;],&quot;pev2&quot;:&quot;added to your loved list clicked&quot;}" href="/newyork/my#/favourites"></a>
 
     <span class="lovr__icon icon_cta__icon">
                     <span class="lovr__count icon_cta__icon_text">0</span>
@@ -777,13 +821,14 @@
 
         <header class="feature__header has_review_cta">
             <h1>Privacy policy</h1>
-                            <div class="feature__lede">
+                            <div class="lede">
                     <p>Time Out North America</p>
                 </div>
             
             <div class="post_meta">
             
-<div class="page_sharing_widgets" data-module="social_widget">
+	
+<div class="page_sharing_widgets" data-module="social_widget" data-params="{&quot;canonicalUrl&quot; : &quot;http://www.timeout.com/newyork/privacy-policy&quot;}">
 
         
 		<a class="social_share__button social_share__facebook icon_facebook">
@@ -835,7 +880,7 @@
                                             
                                         </h3>
                                                                                                                                                                                                                             <p class="feature_item__annotation--truncated">
-                            </p><p>Your privacy is important to us. You are visiting a website owned and operated by Time Out America LLC and based in the United States of America. Time Out New York, Time Out Los Angeles, Time Out New York Kids, Time Out Chicago, Time Out Las Vegas, Time Out Miami, Time Out Washington, DC, Time Out Boston and Time Out San Francisco (together, “Time Out”) have always endeavoured to serve its audience with integrity and honesty. The same is true online. Time Out has developed this Privacy Policy to demonstrate our firm commitment to privacy and to disclose our information-gathering and -sharing practices for all US based Time Out sites (together, the “Site”). This Site is also hosting other <a href="#sites">Time Out Websites</a>&nbsp;providing information about other cities, which fall under this Privacy Policy. By visiting the Site, you are accepting the practices described in this Privacy Policy. Our Site will develop and evolve over time, and this Privacy Policy may change to reflect that. Your continued use of this Site following reasonable notice of any such changes means you accept the changes. You agree that notices we may provide on the Site itself shall be deemed reasonable notice for this purpose. It is your responsibility to check periodically for any changes we may make to this Privacy Policy. This Privacy Policy was last updated on October 1, 2014.</p>
+                            </p><p>Your privacy is important to us. You are visiting a website owned and operated by Time Out America LLC and based in the United States of America. Time Out New York, Time Out Los Angeles, Time Out New York Kids, Time Out Chicago, Time Out Las Vegas, Time Out Miami, Time Out Washington, DC, Time Out Boston, Time Out San Francisco and Time Out USA (together, “Time Out”) have always endeavoured to serve its audience with integrity and honesty. The same is true online. Time Out has developed this Privacy Policy to demonstrate our firm commitment to privacy and to disclose our information-gathering and -sharing practices for all US based Time Out sites (together, the “Site”). This Site is also hosting other <a href="#sites">Time Out Websites</a>&nbsp;providing information about other cities, which fall under this Privacy Policy. By visiting the Site, you are accepting the practices described in this Privacy Policy. Our Site will develop and evolve over time, and this Privacy Policy may change to reflect that. Your continued use of this Site following reasonable notice of any such changes means you accept the changes. You agree that notices we may provide on the Site itself shall be deemed reasonable notice for this purpose. It is your responsibility to check periodically for any changes we may make to this Privacy Policy. This Privacy Policy was last updated on October 1, 2014.</p>
 <p>In addition, Time Out supports the Consumer Reports WebWatch guidelines to promote credible information practices on the web. For more information,&nbsp;<a href="http://consumersunion.org/news/consumer-reports-webwatch-guidelines/" rel="nofollow" target="_blank">click here</a>.</p>
 <p><strong>1. Collected and Disclosed Information</strong></p>
 <p>A. Time Out may request information from you in order to grant you access to selected content of our Site. Time Out may use this information to contact you regarding your relationship with the Site and to provide services that you have requested. Time Out may share your information with vendors we select as necessary to provide products or services you have requested or to provide information about products or services that may be of interest to you.</p>
@@ -864,8 +909,7 @@
 <p><strong>5. Social Networking Service</strong></p>
 <p>If you choose to access, visit and/or use any third-party social networking service(s) that may be integrated with our Site, we may receive personally identifiable information and other information about you and your computer, mobile or other device that you may have made available to those services, including information about your contacts on those services. For example, some social networking services allow you to push content from our Site to your contacts or to pool information about your contacts so you can connect with them on or through our Site. Some social networking services also will facilitate your registration for our Site or enhance or personalize your experience on our Site. Your decision to use a social networking service in connection with our Site is voluntary. However, you should make sure you are comfortable with the information your third-party social networking services may make available to our Site by visiting those service(s) privacy policies and/or modifying your privacy setting directly with those services. We reserve the right to use, transfer, assign, sell, share and provide access to all personally identifiable information and other information about you and your computer, mobile or other device that we receive through third-party social networking services in the same ways described in this Privacy Policy as all of your other information.</p>
 <p><strong>6. Third-Party Web Sites</strong></p>
-<p>Our Site contains links to other web sites that are not under our control, even though some of them may feature the Time Out logo through a marketing agreement with us. Time Out cannot be held responsible for the privacy practices of third parties. This Privacy Policy does not cover information collected elsewhere, including, without limitation, offline and online sites, applications, destinations or services linked to or from our Site. We recommend that you review the privacy policy of any web site you visit. Time Out may receive a commission from member transactions on these partner sites. Without limiting the foregoing, the Time Out restaurant reservations section is operated by OpenTable. OpenTable’s privacy policy, viewable at&nbsp;<a href="http://opentable.com/info/helpindex.asp" rel="nofollow" target="_blank">http://opentable.com/info/helpindex.asp</a>,</p>
-<p>governs the use of personal information you provide at the OpenTable site. Time Out receives a commission for transactions processed via this Site. In addition, links within the Time Out Store, and elsewhere on the Site, may link to online retailers including Amazon.com, bn.com and booksense.com which handle the orders and distribution.</p>
+<p>Our Site contains links to other web sites that are not under our control, even though some of them may feature the Time Out logo through a marketing agreement with us. Time Out cannot be held responsible for the privacy practices of third parties. This Privacy Policy does not cover information collected elsewhere, including, without limitation, offline and online sites, applications, destinations or services linked to or from our Site. We recommend that you review the privacy policy of any web site you visit. Time Out may receive a commission from member transactions on these partner sites. Without limiting the foregoing, the Time Out restaurant reservations section is operated by OpenTable. OpenTable’s privacy policy, viewable at&nbsp;<a href="http://opentable.com/info/helpindex.asp" rel="nofollow" target="_blank">http://opentable.com/info/helpindex.asp</a>,&nbsp;governs the use of personal information you provide at the OpenTable site. Time Out receives a commission for transactions processed via this Site. In addition, links within the Time Out Store, and elsewhere on the Site, may link to online retailers including Amazon.com, bn.com and booksense.com which handle the orders and distribution.</p>
 <p>On occasion, Time Out sponsors special promotions, sweepstakes, and contests that are hosted by partner web sites, which may require that your browser accept cookies, or that you agree to receive information from such sponsors. Such requirements are clearly noted.</p>
 <p><strong>7. Security</strong></p>
 <p>Time Out has invested, and will continue to invest, in high-quality security measures designed to guard access to information, data quality, and physical security of servers where information is stored. Our Site has security measures in place to help protect against the loss, misuse and alteration of the information under our control and uses encryption technology where appropriate. We cannot, however, guarantee the confidentiality of any communication transmitted to or from Time Out via the Site or e-mails. Accordingly, Time Out is not responsible for the security of information transmitted via the Internet.</p>
@@ -881,30 +925,17 @@
 <p>C. In the unlikely event that we believe that the security of your information in our possession or control may have been compromised, we may seek to notify you. If notification is appropriate, we may notify you via your computer, mobile or other device.</p>
 <p><strong>12. Accessing Your Information; Time Out Contact</strong></p>
 <p>You can contact Time Out regarding this Privacy Policy either by mail, at [Time Out America LLC, 475 Tenth Avenue, 12th Floor, New York, NY 10018, Attention: Online Production], by e-mail at&nbsp;[<a href="mailto:privacy@timeout.com">privacy@timeout.com</a>], or by phone at (646) 432-3000. If you would like to review and/or change the information about you that we have collected via our Site, please mail your request and a self-addressed, stamped envelope to the above address or e-mail&nbsp;[<a href="mailto:privacy@timeout.com">privacy@timeout.com</a>.]</p>
-<p>Time Out New York, Time Out Los Angeles, Time Out New York Kids, Time Out Chicago, Time Out Las Vegas, Time Out Miami, Time Out Washington, DC, Time Out Boston and Time Out San Francisco are published by Time Out America LLC, a privately-held company.&lt;</p>
+<p>Time Out New York, Time Out Los Angeles, Time Out New York Kids, Time Out Chicago, Time Out Las Vegas, Time Out Miami, Time Out Washington, DC, Time Out Boston, Time Out San Francisco and Time Out USA are published by Time Out America LLC, a privately-held company.</p>
 <p><strong>13. List of Time Out Websites:<a name="sites"></a></strong></p>
 <p>This is the list of Time Out Websites hosted on this Site:</p>
-<p>Ahmedabad - <a href="https://www.timeout.com/ahmedabad">https://www.timeout.com/ahmedabad</a></p>
-<p>Atlanta – <a href="https://www.timeout.com/atlanta">https://www.timeout.com/atlanta</a></p>
-<p>Austin - <a href="https://www.timeout.com/austin">https://www.timeout.com/austin</a></p>
-<p>Bangalore - <a href="https://www.timeout.com/bangalore">https://www.timeout.com/bangalore</a></p>
-<p>Chennai - <a href="https://www.timeout.com/chennai">https://www.timeout.com/chennai</a></p>
-<p>Dallas - <a href="https://www.timeout.com/dallas">https://www.timeout.com/dallas</a></p>
-<p>Delhi - <a href="https://www.timeout.com/delhi">https://www.timeout.com/delhi</a></p>
-<p>Hyderabad - <a href="https://www.timeout.com/hyderabad">https://www.timeout.com/hyderabad</a></p>
-<p>Jaipur - <a href="https://www.timeout.com/jaipur">https://www.timeout.com/jaipur</a></p>
-<p>Kolkata - <a href="https://www.timeout.com/kolkata">https://www.timeout.com/kolkata</a></p>
-<p>Mumbai - <a href="https://www.timeout.com/mumbai">https://www.timeout.com/mumbai</a></p>
-<p>Philadelphia - <a href="https://www.timeout.com/philadelphia">https://www.timeout.com/philadelphia</a></p>
-<p>Pune - <a href="https://www.timeout.com/pune">https://www.timeout.com/pune</a></p>
-<p>Seattle - <a href="https://www.timeout.com/seattle">https://www.timeout.com/seattle</a></p>
-<p>Surat - <a href="https://www.timeout.com/surat">https://www.timeout.com/surat</a></p>
+<p>Ahmedabad - <a href="https://www.timeout.com/ahmedabad">https://www.timeout.com/ahmedabad</a><br>Atlanta – <a href="https://www.timeout.com/atlanta">https://www.timeout.com/atlanta</a><br>Austin - <a href="https://www.timeout.com/austin">https://www.timeout.com/austin</a><br>Bangalore - <a href="https://www.timeout.com/bangalore">https://www.timeout.com/bangalore</a><br>Chennai - <a href="https://www.timeout.com/chennai">https://www.timeout.com/chennai</a><br>Cleveland - <a href="https://www.timeout.com/cleveland">https://www.timeout.com/cleveland</a><br>Dallas - <a href="https://www.timeout.com/dallas">https://www.timeout.com/dallas</a><br>Delhi - <a href="https://www.timeout.com/delhi">https://www.timeout.com/delhi</a><br>Denver - <a href="https://www.timeout.com/denver">https://www.timeout.com/denver</a><br>Detroit -<a href="https://www.timeout.com/detroit">https://www.timeout.com/detroit</a><br>Houston - <a href="https://www.timeout.com/houston">https://www.timeout.com/houston</a><br>Hyderabad - <a href="https://www.timeout.com/hyderabad">https://www.timeout.com/hyderabad</a><br>Jaipur - <a href="https://www.timeout.com/jaipur">https://www.timeout.com/jaipur</a><br>Kolkata - <a href="https://www.timeout.com/kolkata">https://www.timeout.com/kolkata</a><br>Louisville - <a href="https://www.timeout.com/louisville">https://www.timeout.com/louisville</a><br>Memphis - <a href="https://www.timeout.com/memphis">https://www.timeout.com/memphis</a><br>Minneapolis - <a href="https://www.timeout.com/minneapolis">https://www.timeout.com/minneapolis</a><br>Mumbai - <a href="https://www.timeout.com/mumbai">https://www.timeout.com/mumbai</a><br>Nashville - <a href="https://www.timeout.com/nashville">https://www.timeout.com/nashville</a><br>New Orleans - <a href="https://www.timeout.com/new-orleans">https://www.timeout.com/new-orleans</a><br>Orlando - <a href="https://www.timeout.com/orlando">https://www.timeout.com/orlando</a><br>Philadelphia - <a href="https://www.timeout.com/philadelphia">https://www.timeout.com/philadelphia</a><br>Phoenix - <a href="https://www.timeout.com/phoenix">https://www.timeout.com/phoenix</a><br>Pittsburgh - <a href="https://www.timeout.com/pittsburgh">https://www.timeout.com/pittsburgh</a><br>Portland - <a href="https://www.timeout.com/portland">https://www.timeout.com/portland</a><br>Pune - <a href="https://www.timeout.com/pune">https://www.timeout.com/pune</a><br>Sacramento - <a href="https://www.timeout.com/sacramento">https://www.timeout.com/sacramento</a><br>San Diego - <a href="https://www.timeout.com/san-diego">https://www.timeout.com/san-diego</a><br>St. Louis - <a href="https://www.timeout.com/st-louis">https://www.timeout.com/st-louis</a><br>Seattle - <a href="https://www.timeout.com/seattle">https://www.timeout.com/seattle</a><br>Surat - <a href="https://www.timeout.com/surat">https://www.timeout.com/surat</a><br>Tampa - <a href="https://www.timeout.com/tampa">https://www.timeout.com/tampa</a><br>Toronto - <a href="https://www.timeout.com/toronto">https://www.timeout.com/toronto</a></p>
                         <p></p>
                                                                                                     </div>
             </div>
             <div class="listing_meta_controls"></div>    </article>
 
     
+
 <noscript class="previousButton">
 </noscript>
 
@@ -918,12 +949,16 @@
     </div>
 
 
-                                                            <div id="ad-mpu-180768189" class="ad  module ad--mpu" data-ad="{&quot;type&quot;:&quot;mpu&quot;}"><noscript><a href="http://ad.doubleclick.net/5185/jump/Time_Out_New_York/things-to-do;type=ad-mpu;page=page;itemid=page-27879;audience=default;tile=2;sz=300x250;ord=583900882;subject=things-to-do;?"><img src="http://ad.doubleclick.net/5185/ad/Time_Out_New_York/things-to-do;type=ad-mpu;page=page;itemid=page-27879;audience=default;tile=2;sz=300x250;ord=583900882;subject=things-to-do;?" /></a></noscript></div>                                    
+                                                            <div id="ad-mpu-1833210668" class="ad  module ad--mpu" data-ad="{&quot;type&quot;:&quot;mpu&quot;}"><noscript><a href="http://ad.doubleclick.net/5185/jump/Time_Out_New_York/things-to-do;type=ad-mpu;page=page;itemid=page-27879;audience=default;tile=2;sz=300x250;ord=1175833266;subject=things-to-do;?"><img src="http://ad.doubleclick.net/5185/ad/Time_Out_New_York/things-to-do;type=ad-mpu;page=page;itemid=page-27879;audience=default;tile=2;sz=300x250;ord=1175833266;subject=things-to-do;?" /></a></noscript></div>                                    
             
+                        <div data-ad="{&quot;type&quot;:&quot;replaceable&quot;,&quot;native_key&quot;:&quot;36864ac1&quot;,&quot;size&quot;:[5,5],&quot;st_type&quot;:&quot;st-feature-trailer&quot;}" class="zone-placeholder" id="ad-replace-39932583"></div>
+
+                        <div data-ad="{&quot;type&quot;:&quot;replaceable&quot;,&quot;native_key&quot;:&quot;ccf8396a&quot;,&quot;size&quot;:[5,5],&quot;st_type&quot;:&quot;st-feature-readmore&quot;}" class="zone-placeholder" id="ad-replace-1977177705"></div>
 
             <section class="post__social">
                 
-<div class="page_sharing_widgets" data-module="social_widget">
+	
+<div class="page_sharing_widgets" data-module="social_widget" data-params="{&quot;canonicalUrl&quot; : &quot;http://www.timeout.com/newyork/privacy-policy&quot;}">
 
         
 		<a class="social_share__button social_share__facebook icon_facebook">
@@ -964,7 +999,7 @@
                 <h3 class="ugc__comments__title">Comments</h3>
                 
 
-<div id="comments" class="timeout-ugc" data-module="livefyre" data-params="{&quot;livefyre_url&quot;:&quot;http:\/\/zor.livefyre.com\/wjs\/v3.0\/javascripts\/livefyre.js&quot;,&quot;translations_url&quot;:&quot;\/newyork\/en_US\/livefyre\/translation&quot;,&quot;edit_profile_url&quot;:&quot;\/newyork\/en_US\/user\/myAccount&quot;,&quot;network&quot;:&quot;timeout.fyre.co&quot;,&quot;widget&quot;:{&quot;collectionMeta&quot;:&quot;eyJ0eXAiOiJqd3QiLCJhbGciOiJIUzI1NiJ9.eyJhcnRpY2xlSWQiOiJDb250ZW50LUZlYXR1cmUtMjc0NDItZW4tVVMiLCJ1cmwiOiJodHRwOlwvXC93d3cudGltZW91dC5jb21cL25ld3lvcmtcL3ByaXZhY3ktcG9saWN5IiwidGl0bGUiOiJQcml2YWN5IHBvbGljeSIsInNpdGVJZCI6MzQ4OTExfQ.fZVyiVAi6SoWgcDjj2IqT-mDFmK3bSvR4RY3G3pm2O0&quot;,&quot;siteId&quot;:348911,&quot;articleId&quot;:&quot;Content-Feature-27442-en-US&quot;,&quot;el&quot;:&quot;comments&quot;},&quot;comment_count_selector&quot;:&quot;.js-comment_count&quot;}">
+<div id="comments" class="timeout-ugc" data-module="livefyre" data-params="{&quot;livefyre_url&quot;:&quot;\/\/cdn.livefyre.com\/Livefyre.js&quot;,&quot;translations_url&quot;:&quot;\/newyork\/en_US\/livefyre\/translation&quot;,&quot;edit_profile_url&quot;:&quot;\/newyork\/en_US\/user\/myAccount&quot;,&quot;network&quot;:&quot;timeout.fyre.co&quot;,&quot;widget&quot;:{&quot;collectionMeta&quot;:&quot;eyJ0eXAiOiJqd3QiLCJhbGciOiJIUzI1NiJ9.eyJhcnRpY2xlSWQiOiJDb250ZW50LUZlYXR1cmUtMjc0NDItZW4tVVMiLCJ1cmwiOiJodHRwOlwvXC93d3cudGltZW91dC5jb21cL25ld3lvcmtcL3ByaXZhY3ktcG9saWN5IiwidGl0bGUiOiJQcml2YWN5IHBvbGljeSIsInNpdGVJZCI6MzQ4OTExfQ.fZVyiVAi6SoWgcDjj2IqT-mDFmK3bSvR4RY3G3pm2O0&quot;,&quot;siteId&quot;:348911,&quot;articleId&quot;:&quot;Content-Feature-27442-en-US&quot;,&quot;el&quot;:&quot;comments&quot;},&quot;comment_count_selector&quot;:&quot;.js-comment_count&quot;}">
 <script>
   (function() {
     
@@ -1163,7 +1198,7 @@
 
     
         <aside class="side_content">
-            <div id="ad-mpu-1577196532" class="ad  module ad--mpu" data-ad="{&quot;type&quot;:&quot;mpu&quot;}"><noscript><a href="http://ad.doubleclick.net/5185/jump/Time_Out_New_York/things-to-do;type=ad-mpu;page=page;itemid=page-27879;audience=default;tile=2;sz=300x250;ord=1642428305;subject=things-to-do;?"><img src="http://ad.doubleclick.net/5185/ad/Time_Out_New_York/things-to-do;type=ad-mpu;page=page;itemid=page-27879;audience=default;tile=2;sz=300x250;ord=1642428305;subject=things-to-do;?" /></a></noscript></div>
+            <div id="ad-mpu-419889061" class="ad  module ad--mpu" data-ad="{&quot;type&quot;:&quot;mpu&quot;}"><noscript><a href="http://ad.doubleclick.net/5185/jump/Time_Out_New_York/things-to-do;type=ad-mpu;page=page;itemid=page-27879;audience=default;tile=2;sz=300x250;ord=204335789;subject=things-to-do;?"><img src="http://ad.doubleclick.net/5185/ad/Time_Out_New_York/things-to-do;type=ad-mpu;page=page;itemid=page-27879;audience=default;tile=2;sz=300x250;ord=204335789;subject=things-to-do;?" /></a></noscript></div>
             
                                             
     
@@ -1172,30 +1207,13 @@
                     <h3>You might also like</h3>
         
         <section class="tabs tabs_widget inverted_theme" role="region" aria-live="polite">
-                            <input id="tabs_10330048641" class="tab__input" type="radio" name="radio-set-rhr" data-tab-input="1" checked="checked">
+                            <input id="tabs_7741253421" class="tab__input" type="radio" name="radio-set-rhr" data-tab-input="1" checked="checked">
                         
                                                 <ul class="promo_list">
                                                                                     <li class="promo_list__item">
-                                    <a href="http://www.timeout.com/newyork/things-to-do/three-hybrid-classes-for-eating-drinking-and-learning" title="Three hybrid classes for eating, drinking and learning&nbsp;">
-                                                                                                                                <img class="promo_list__item__thumb" src="http://media.timeout.com/images/101508003/60/45/image.jpg" alt="">
-                                                                                <span class="promo_list__item__title">Three hybrid classes for eating, drinking and learning&nbsp;</span>
-                                    </a>
-                                </li>
-                                                                                                                <li class="promo_list__item">
-                                    <a href="http://www.timeout.com/newyork/things-to-do/the-30-best-photos-from-new-york-comic-con-day-1" title="The 30 best photos from New York Comic Con 2014 Day 1">
-                                                                                                                                <img class="promo_list__item__thumb" src="http://media.timeout.com/images/101744865/60/45/image.jpg" alt="">
-                                                                                <span class="promo_list__item__title">The 30 best photos from New York Comic Con 2014 Day 1</span>
-                                    </a>
-                                </li>
-                                                                                                                <li class="promo_list__item">
-                                    <a href="http://www.timeout.com/newyork/things-to-do/barbara-nessim-interview-since-i-love-what-im-doing-why-should-i-stop-at-any-age" title="Barbara Nessim interview: ‘Since I love what I’m doing, why should I stop at any age?’">
-                                                                                                                                <img class="promo_list__item__thumb" src="http://media.timeout.com/images/101705325/60/45/image.jpg" alt="">
-                                                                                <span class="promo_list__item__title">Barbara Nessim interview: ‘Since I love what I’m doing, why should I stop at any age?’</span>
-                                    </a>
-                                </li>
-                                                                                                                <li class="promo_list__item">
-                                    <a href="http://www.timeout.com/newyork/things-to-do" title="Things to Do">
-                                                                                <span class="promo_list__item__title">Things to Do</span>
+                                    <a href="http://www.timeout.com/newyork/things-to-do/our-nominees-for-best-oscars-viewing-parties" title="Our nominees for best Oscars viewing parties">
+                                                                                                                                <img class="promo_list__item__thumb" src="https://media.timeout.com/images/101490225/60/45/image.jpg" alt="">
+                                                                                <span class="promo_list__item__title">Our nominees for best Oscars viewing parties</span>
                                     </a>
                                 </li>
                                                                                                                 <li class="promo_list__item">
@@ -1203,31 +1221,44 @@
                                                                                 <span class="promo_list__item__title">The best photos of winter 2014-2015 in NYC</span>
                                     </a>
                                 </li>
+                                                                                                                <li class="promo_list__item">
+                                    <a href="http://www.timeout.com/newyork/things-to-do/see-these-energetic-photos-from-the-brooklyn-museums-dance-off" title="See these energetic photos from the Brooklyn Museum's dance off">
+                                                                                                                                <img class="promo_list__item__thumb" src="https://media.timeout.com/images/102782649/60/45/image.jpg" alt="">
+                                                                                <span class="promo_list__item__title">See these energetic photos from the Brooklyn Museum's dance off</span>
+                                    </a>
+                                </li>
+                                                                                                                <li class="promo_list__item">
+                                    <a href="http://www.timeout.com/newyork/things-to-do/property-peep-show-a-microloft-makeover-on-the-upper-west-side" title="Property Peep Show: A microloft makeover on the Upper West Side">
+                                                                                                                                <img class="promo_list__item__thumb" src="https://media.timeout.com/images/101726989/60/45/image.jpg" alt="">
+                                                                                <span class="promo_list__item__title">Property Peep Show: A microloft makeover on the Upper West Side</span>
+                                    </a>
+                                </li>
+                                                                                                                <li class="promo_list__item">
+                                    <a href="http://www.timeout.com/newyork/things-to-do/nycs-best-television-shows-the-top-25-gotham-series" title="NYC’s best television shows: The top 25 Gotham series">
+                                                                                                                                <img class="promo_list__item__thumb" src="https://media.timeout.com/images/100655773/60/45/image.jpg" alt="">
+                                                                                <span class="promo_list__item__title">NYC’s best television shows: The top 25 Gotham series</span>
+                                    </a>
+                                </li>
                                                                         </ul>
                             
         </section>
 
     </div>
-                        <div id="ad-bottom-mpu-1666560855" class="ad  module ad--bottommpu" data-ad="{&quot;type&quot;:&quot;bottommpu&quot;}"><noscript><a href="http://ad.doubleclick.net/5185/jump/Time_Out_New_York/things-to-do;type=ad-bottom-mpu;page=page;itemid=page-27879;audience=default;tile=3;sz=300x250,300x600;ord=56034470;subject=things-to-do;?"><img src="http://ad.doubleclick.net/5185/ad/Time_Out_New_York/things-to-do;type=ad-bottom-mpu;page=page;itemid=page-27879;audience=default;tile=3;sz=300x250,300x600;ord=56034470;subject=things-to-do;?" /></a></noscript></div>        </aside>
+                        <div id="ad-bottom-mpu-1984929794" class="ad  module ad--bottommpu" data-ad="{&quot;type&quot;:&quot;bottommpu&quot;}"><noscript><a href="http://ad.doubleclick.net/5185/jump/Time_Out_New_York/things-to-do;type=ad-bottom-mpu;page=page;itemid=page-27879;audience=default;tile=3;sz=300x250,300x600;ord=202916024;subject=things-to-do;?"><img src="http://ad.doubleclick.net/5185/ad/Time_Out_New_York/things-to-do;type=ad-bottom-mpu;page=page;itemid=page-27879;audience=default;tile=3;sz=300x250,300x600;ord=202916024;subject=things-to-do;?" /></a></noscript></div>        </aside>
     
 
-    <div id="ad-mobile-background-239075365" class="ad  ad-mobile-background" data-ad="{&quot;type&quot;:&quot;mobile_background&quot;}"><noscript><a href="http://ad.doubleclick.net/5185/jump/Time_Out_New_York/things-to-do;type=ad-mobile-background;page=page;itemid=page-27879;audience=default;tile=9;sz=300, 50;ord=1529258308;subject=things-to-do;?"><img src="http://ad.doubleclick.net/5185/ad/Time_Out_New_York/things-to-do;type=ad-mobile-background;page=page;itemid=page-27879;audience=default;tile=9;sz=300, 50;ord=1529258308;subject=things-to-do;?" /></a></noscript></div>    <div id="ad-mobile-cta-824231609" class="ad  ad-mobile-cta" data-ad="{&quot;type&quot;:&quot;mobile_cta&quot;}"><noscript><a href="http://ad.doubleclick.net/5185/jump/Time_Out_New_York/things-to-do;type=ad-mobile-cta;page=page;itemid=page-27879;audience=default;tile=10;sz=300, 25;ord=107227153;subject=things-to-do;?"><img src="http://ad.doubleclick.net/5185/ad/Time_Out_New_York/things-to-do;type=ad-mobile-cta;page=page;itemid=page-27879;audience=default;tile=10;sz=300, 25;ord=107227153;subject=things-to-do;?" /></a></noscript></div>            </main>
+    <div id="ad-mobile-background-1091824067" class="ad  ad-mobile-background" data-ad="{&quot;type&quot;:&quot;mobile_background&quot;}"><noscript><a href="http://ad.doubleclick.net/5185/jump/Time_Out_New_York/things-to-do;type=ad-mobile-background;page=page;itemid=page-27879;audience=default;tile=9;sz=300, 50;ord=334861521;subject=things-to-do;?"><img src="http://ad.doubleclick.net/5185/ad/Time_Out_New_York/things-to-do;type=ad-mobile-background;page=page;itemid=page-27879;audience=default;tile=9;sz=300, 50;ord=334861521;subject=things-to-do;?" /></a></noscript></div>    <div id="ad-mobile-cta-1125660725" class="ad  ad-mobile-cta" data-ad="{&quot;type&quot;:&quot;mobile_cta&quot;}"><noscript><a href="http://ad.doubleclick.net/5185/jump/Time_Out_New_York/things-to-do;type=ad-mobile-cta;page=page;itemid=page-27879;audience=default;tile=10;sz=300, 25;ord=1479794384;subject=things-to-do;?"><img src="http://ad.doubleclick.net/5185/ad/Time_Out_New_York/things-to-do;type=ad-mobile-cta;page=page;itemid=page-27879;audience=default;tile=10;sz=300, 25;ord=1479794384;subject=things-to-do;?" /></a></noscript></div>            </main>
 
                           
 
-	
-	
 <footer class="site-footer">
-
 	<nav role="navigation" aria-label="Bottom navigation" id="footer-nav" class="site-footer__nav">
 		<div class="container">
 			<a href="javascript:scrollTo(0,0)" class="site-footer__top-link">Top</a>
 			<div class="row">
 				<!-- footer columns as defined in config -->
 				<div class="footer-tab">
-
-																					
-			<input type="checkbox" id="footer-tab__toggle_0" class="footer-tab__toggle">
+																						<input type="checkbox" id="footer-tab__toggle_0" class="footer-tab__toggle">
 								<h4>
 				<label for="footer-tab__toggle_0">
 					<a href="http://www.timeout.com/about" title="About us" target="_self">About us</a>
@@ -1239,9 +1270,8 @@
 									<li><a href="http://www.timeout.com/newyork/terms-conditions" title="Website terms of use" target="_self">Website terms of use</a></li>
 					</ul>
 	
-																					</div><div class="footer-tab">
-													
-			<input type="checkbox" id="footer-tab__toggle_1" class="footer-tab__toggle">
+																		</div><div class="footer-tab">
+														<input type="checkbox" id="footer-tab__toggle_1" class="footer-tab__toggle">
 								<h4>
 				<label for="footer-tab__toggle_1">
 					<a href="http://www.timeout.com/newyork/contact" title="Contact us" target="_self">Contact us</a>
@@ -1252,9 +1282,8 @@
 									<li><a href="http://clientcenter.timeout.com/" title="Advertising" target="_self">Advertising</a></li>
 					</ul>
 	
-																					</div><div class="footer-tab">
-													
-			<input type="checkbox" id="footer-tab__toggle_2" class="footer-tab__toggle">
+																		</div><div class="footer-tab">
+														<input type="checkbox" id="footer-tab__toggle_2" class="footer-tab__toggle">
 					<h4>
 				<label for="footer-tab__toggle_2">Time Out products</label>
 			</h4>
@@ -1266,39 +1295,38 @@
 									<li><a href="http://www.timeout.com" title="Time Out Worldwide" target="_blank">Time Out Worldwide</a></li>
 					</ul>
 	
-																					</div><div class="footer-tab">
-													
-									<h4><a href="http://www.timeout.com/newyork/things-to-do/time-out-new-york-magazine-now-free-every-wednesday" title="Time Out magazine" target="_self">Time Out magazine</a></h4>
+																		</div><div class="footer-tab">
+																				<h4><a href="http://www.timeout.com/newyork/things-to-do/time-out-new-yorks-move-to-free-explained" title="Time Out magazine" target="_self">Time Out magazine</a></h4>
 			
 												</div>
 									<div class="footer-tab social-links social-links--footer">
                         						<h4>Follow us</h4>
                         <span class="social-links__link-wrapper">
-																								<a class="social-link icon_facebook" href="https://www.facebook.com/timeoutnewyork" title="Facebook" target="_blank">
-										<span>Facebook</span>
-									</a>
-																															<a class="social-link icon_twitter" href="https://twitter.com/TimeOutNewYork" title="Twitter" target="_blank">
-										<span>Twitter</span>
-									</a>
-																															<a class="social-link icon_googleplus" href="https://plus.google.com/+timeoutnewyork" title="Google Plus" target="_blank">
-										<span>Google Plus</span>
-									</a>
-																															<a class="social-link icon_youtube" href="https://www.youtube.com/user/TimeOutNewYork" title="YouTube" target="_blank">
-										<span>YouTube</span>
-									</a>
-																															<a class="social-link icon_instagram" href="http://instagram.com/timeoutnewyork" title="Instagram" target="_blank">
-										<span>Instagram</span>
-									</a>
-																															<a class="social-link icon_pinterest" href="https://pinterest.com/timeoutnewyork" title="Pinterest" target="_blank">
-										<span>Pinterest</span>
-									</a>
-																															<a class="social-link icon_spotify" href="https://open.spotify.com/user/122728703" title="Spotify" target="_blank">
-										<span>Spotify</span>
-									</a>
-																															<a class="social-link icon_foursquare" href="https://foursquare.com/timeoutnewyork" title="Foursquare" target="_blank">
-										<span>Foursquare</span>
-									</a>
-																				</span>
+                                                                                    <a class="social-link icon_facebook" href="https://www.facebook.com/timeoutnewyork" title="Facebook" target="_blank">
+                                    <span>Facebook</span>
+                                </a>
+                                                                                                                <a class="social-link icon_twitter" href="https://twitter.com/TimeOutNewYork" title="Twitter" target="_blank">
+                                    <span>Twitter</span>
+                                </a>
+                                                                                                                <a class="social-link icon_googleplus" href="https://plus.google.com/+timeoutnewyork" title="Googleplus" target="_blank">
+                                    <span>Googleplus</span>
+                                </a>
+                                                                                                                <a class="social-link icon_youtube" href="https://www.youtube.com/user/TimeOutNewYork" title="Youtube" target="_blank">
+                                    <span>Youtube</span>
+                                </a>
+                                                                                                                <a class="social-link icon_instagram" href="http://instagram.com/timeoutnewyork" title="Instagram" target="_blank">
+                                    <span>Instagram</span>
+                                </a>
+                                                                                                                <a class="social-link icon_pinterest" href="https://pinterest.com/timeoutnewyork" title="Pinterest" target="_blank">
+                                    <span>Pinterest</span>
+                                </a>
+                                                                                                                <a class="social-link icon_spotify" href="https://open.spotify.com/user/122728703" title="Spotify" target="_blank">
+                                    <span>Spotify</span>
+                                </a>
+                                                                                                                <a class="social-link icon_foursquare" href="https://foursquare.com/timeoutnewyork" title="Foursquare" target="_blank">
+                                    <span>Foursquare</span>
+                                </a>
+                                                    						</span>
                                                 					</div>
 							</div>
 		</div>
@@ -1314,29 +1342,16 @@
 </footer>            
         </div>
 
-        <script src="//dist.timeout.com/dist/b23f37461b4822c26e6aa41cf0e4e6e0cfb0077e/js/main.js" data-main="//dist.timeout.com/dist/b23f37461b4822c26e6aa41cf0e4e6e0cfb0077e/js/main.js"></script>
-		
-
-                    <script type="text/javascript">
-  (function () {
-    var tagjs = document.createElement("script");
-    var s = document.getElementsByTagName("script")[0];
-    tagjs.async = true;
-    tagjs.src = "//s.btstatic.com/tag.js#site=5leRLIi";
-    s.parentNode.insertBefore(tagjs, s);
-  }());
-</script>
-<noscript>
-  <iframe src="//s.thebrighttag.com/iframe?c=5leRLIi" width="1" height="1" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe>
-</noscript>        
-        <div id="ad-interstitial-oop-211040299" class="ad " data-ad="{&quot;type&quot;:&quot;oop&quot;}"><noscript><a href="http://ad.doubleclick.net/5185/jump/Time_Out_New_York/things-to-do;type=ad-interstitial-oop;page=page;itemid=page-27879;audience=default;tile=1;sz=300x250;ord=1549878879;subject=things-to-do;?"><img src="http://ad.doubleclick.net/5185/ad/Time_Out_New_York/things-to-do;type=ad-interstitial-oop;page=page;itemid=page-27879;audience=default;tile=1;sz=300x250;ord=1549878879;subject=things-to-do;?" /></a></noscript></div>
+                    <div id="ad-interstitial-oop-1208855377" class="ad " data-ad="{&quot;type&quot;:&quot;oop&quot;}"><noscript><a href="http://ad.doubleclick.net/5185/jump/Time_Out_New_York/things-to-do;type=ad-interstitial-oop;page=page;itemid=page-27879;audience=default;tile=1;sz=300x250;ord=1328277810;subject=things-to-do;?"><img src="http://ad.doubleclick.net/5185/ad/Time_Out_New_York/things-to-do;type=ad-interstitial-oop;page=page;itemid=page-27879;audience=default;tile=1;sz=300x250;ord=1328277810;subject=things-to-do;?" /></a></noscript></div>        
                                 <noscript id="omnitureNoscript">
-            <img src="http://metrics.timeout.com/b/ss/timeoutny,timeoutus,timeoutworldwide/1/H.23.8--NS/0?pageName=TO+%3A+No+Script" height="1" width="1" />
+            <img src="https://smetrics.timeout.com/b/ss/timeoutny,timeoutworldwide/1/H.23.8--NS/0?pageName=TO+%3A+No+Script" height="1" width="1" />
+            }
         </noscript>
     
         
         
-            <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"078547f172","applicationID":"3580675","transactionName":"Y1MDNktRXkBQWkANCVoZIAFNWV9dHklVAwNrXw8GXEg=","queueTime":0,"applicationTime":584,"atts":"TxQAQANLTU4=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-632.min.js"}</script>
+                <script src="//dist.timeout.com/dist/7cc58e6f26a91e8dc47114f5dda2909ff101b136/js/main.js" data-main="//dist.timeout.com/dist/7cc58e6f26a91e8dc47114f5dda2909ff101b136/js/main.js"></script>
+            <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"078547f172","applicationID":"9688129","transactionName":"Y1MDNktRXkBQWkANCVoZIAFNWV9dHklVAwNrXw8GXEg=","queueTime":0,"applicationTime":1090,"atts":"TxQAQANLTU4=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-768.min.js"}</script>
 
 
 </body></html>
