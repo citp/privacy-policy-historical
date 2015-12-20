@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the culturedcode.com privacy policy that was archived on 2015-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150622011959id_/http%3A//culturedcode.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the culturedcode.com privacy policy that was archived on 2015-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151220235111id_/http%3A//culturedcode.com/privacy) for the most accurate reproduction.*
 
-# Privacy | Cultured Code
+# Privacy - Cultured Code
 
 Your privacy is very important to Cultured Code. This Privacy Policy covers how we collect, use, disclose, transfer, and store your information. Please take a moment to get to know our practices and contact us if you have any questions.
 
