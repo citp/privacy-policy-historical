@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the headwaydigital.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607234952id_/http%3A//www.headwaydigital.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the headwaydigital.com privacy policy that was archived on 2015-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151220090425id_/http%3A//www.headwaydigital.com/privacy) for the most accurate reproduction.*
 
 # Privacy -
 
@@ -12,6 +12,8 @@ To personalize your experience
 How do we protect your information?
 
 We implement a variety of security measures to maintain the safety of your personal information when you enter, submit, or access your personal information.
+
+We don’t store any PII information.
 
 Do we use cookies?
 
