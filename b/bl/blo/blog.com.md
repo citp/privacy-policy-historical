@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blog.com privacy policy that was archived on 2015-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150426185548id_/http%3A//blog.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blog.com privacy policy that was archived on 2015-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151220130657id_/http%3A//blog.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Blog.com
 
