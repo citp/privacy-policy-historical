@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stockstotrade.com privacy policy that was archived on 2015-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150514061416id_/http%3A//www.stockstotrade.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stockstotrade.com privacy policy that was archived on 2015-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151220201531id_/http%3A//www.stockstotrade.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - StocksToTrade.com
 
