@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the buffalonews.com privacy policy that was archived on 2015-06-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150627150904id_/http%3A//www.buffalonews.com/help/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the buffalonews.com privacy policy that was archived on 2015-12-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151220065132id_/http%3A//www.buffalonews.com/help/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js" lang="en"><!--<![endif]--><head>
 	<meta charset="utf-8">
@@ -25,7 +25,7 @@
 	<meta name="twitter:site" content="@TheBuffaloNews">
 	<meta property="twitter:account_id" content="43805270">
 	<!-- <meta name="viewport" content="width=device-width"> -->
-	       <link rel="canonical" href="http://www.buffalonews.com/help/privacy-policy">
+	       <link rel="canonical" href="http://www.buffalonews.com/apps/pbcs.dll/section?category=help02">
 	<link href="https://plus.google.com/117334753013097675960" rel="publisher">
 	<link rel="apple-touch-icon" href="http://www.buffalonews.com/images/bookmark-114.png">
 	<link rel="shortcut icon" type="image/x-icon" href="http://www.buffalonews.com/images/favicon.ico">
@@ -37,7 +37,9 @@
 	<link rel="stylesheet" href="/css/alerts-reg.min.css">
 	<link rel="stylesheet" href="/css/bootstrap.min.css?v01">
 	<!-- fontsmoothie 20150105 bstanford-->
-	<script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="/js/fontsmoothie.min.js" async=""></script>
+	<script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script type="text/javascript" src="/js/fontsmoothie.min.js" async=""></script>
+	<!--photo galleries-->
+	<link type="text/css" rel="stylesheet" href="http://galleries.buffalonews.com/css/default.css">
 	<!-- common JS -->
 	<script type="text/javascript" src="/js/common_01.min.js?v01"></script>
 		<!-- mobile redirect -->
@@ -61,7 +63,7 @@
 			{
 				if(!getCookie(tbn_mbl_cookieName))
 				{
-					articleParam = isArticle ? '?articleRedirect=1' : '';
+					articleParam = isArticle ? '?articleRedirect=1&url=' + encodeURIComponent(window.location) : '';
 					window.location = navigator.userAgent.toLowerCase().indexOf("android") > -1 || navigator.userAgent.match(/iPhone/i) ?
 					'http://mobile.buffalonews.com'+articleParam : 'http://m.buffalonews.com';
 				}
@@ -104,11 +106,11 @@
 	<script>
 		var glb_tbn_section = "Help";
 		var glb_tbn_subsection = "Privacy Policy";
-		var glb_tbn_saxoCache_debug = "20150627041337,http://www.buffalonews.com,/apps/pbcs.dll/section?Category=HELP02,HELP,HELP02,1568,,";
+		var glb_tbn_saxoCache_debug = "20151220005208,http://www.buffalonews.com,/apps/pbcs.dll/section?Category=HELP02,HELP,HELP02,1568,,";
 	</script>
 	<!-- DFP library asynchronously -->
 	<script type="text/javascript">
-	  /*var googletag = googletag || {};
+	  var googletag = googletag || {};
 	  googletag.cmd = googletag.cmd || [];
 	  (function() {
 	    var gads = document.createElement("script");
@@ -118,19 +120,19 @@
 	    gads.src = (useSSL ? "https:" : "http:") + "//www.googletagservices.com/tag/js/gpt.js";
 	    var node =document.getElementsByTagName("script")[0];
 	    node.parentNode.insertBefore(gads, node);
-	   })();*/
+	   })();
 	</script>
 	<!-- DFP library synchronously -->
 	<script type="text/javascript">
-	(function() {
+	/*(function() {
 	var useSSL = 'https:' == document.location.protocol;
 	var src = (useSSL ? 'https:' : 'http:') +
 	'//www.googletagservices.com/tag/js/gpt.js';
 	document.write('<scr' + 'ipt src="' + src + '"></scr' + 'ipt>');
-	})();
-	</script><script src="https://www.googletagservices.com/tag/js/gpt.js"></script>
+	})();*/
+	</script>
 	<script type="text/javascript">
-	    googletag.pubads().set("adsense_background_color", "FFFFFF");
+	    //googletag.pubads().set("adsense_background_color", "FFFFFF");  is this necessary? 
 	</script>
 	<!-- DFP configure ad slots -->
 	<!-- DFP configure ad slots -->
@@ -158,9 +160,9 @@
 	      adSlot8.addService(googletag.pubads());
 	      adSlot9.addService(googletag.pubads());
 	      googletag.pubads().setTargeting();
-		  googletag.pubads().enableSingleRequest();
+		  //googletag.pubads().enableSingleRequest(); // remove in asynch
 		  googletag.pubads().collapseEmptyDivs();
-		  googletag.pubads().enableSyncRendering();
+		  //googletag.pubads().enableSyncRendering(); // remove in asynch 
 		  googletag.enableServices();
 	    });
 	  </script>
@@ -182,7 +184,7 @@
 	<!--<script type="text/javascript" src="/js/jquery_base.js"></script>-->
 	<!--<script type="text/javascript" src="/js/libs/jquery.min.js"></script>-->
 	<!--<script type="text/javascript" src="/js/libs/jquery.all.js"></script>-->
-	<!--a href="https://plus.google.com/117334753013097675960" rel="publisher" -->
+	<link href="https://plus.google.com/117334753013097675960" rel="publisher">
 </head>
 
 <body>
@@ -203,7 +205,7 @@
         <a href="#main" class="visuallyhidden">Skip to main content</a>
         <div class="ad floatover">	
             <!-- DFP display ad slot -->
-<div id="div-gpt-ad-custom">
+<div id="div-gpt-ad-custom" style="position:absolute">
   <script type="text/javascript">
     googletag.cmd.push(function() { googletag.display('div-gpt-ad-custom'); });
   </script>
@@ -216,15 +218,15 @@
                           <ul class="listHorizBtn left">
                             <li><a href="http://www.buffalo.com/" target="_blank">Buffalo.com</a></li>
                             <li><a href="http://shopping.buffalonews.com/SS/Tiles.aspx?ex=menus" target="_blank">Marketplace</a></li>
-                            <li><a href="http://buffalojobfinder.com/" target="_blank">Jobs</a></li>
-                            <li><a href="http://www.buffalocars.com/" target="_blank">Cars</a></li>
+                            <li><a href="http://jobs.buffalonews.com/" target="_blank">Jobs</a></li>
+                            <li><a href="http://cars.buffalonews.com/" target="_blank">Cars</a></li>
                             <li><a href="http://realestate.buffalonews.com/" target="_blank">Real Estate</a></li>
                             <li><a href="http://realestate.buffalonews.com/buffalo-real-estate/for-rent/" target="_blank">Rentals</a></li>
                             <li><a href="/classifieds" target="_blank">Classifieds</a></li>
                             <li><a href="http://www.gadzoo.com/buffalonews/pets.aspx" target="_blank">Pets</a></li>
                             <!--<li><a href="http://www.vipseats.com/?a=2A6B444D-3B8C-44BE-BF4A-0D249084F7C1" onclick="_gaq.push(['_trackEvent', 'Tickets', 'Click', ' Tickets Top Nav']);" target="_blank">Tickets</a></li>-->
                             <li><a href="http://bflomagazine.com/" target="_blank">Bflo Magazine</a></li>
-                            <li><a href="http://www.buffalobrides.com/" target="_blank">Brides</a></li>
+                            <li><a href="http://brides.buffalonews.com/" target="_blank">Brides</a></li>
                           </ul>
                         </div><!-- .navTopSecondary -->
                     </div>
@@ -247,7 +249,7 @@
         <div class="adLeaderboardTop centerInner">
         	<div>
 			<!-- DFP display ad slot -->
-<div id="div-gpt-ad-leaderboard-1">
+<div id="div-gpt-ad-leaderboard-1" align="center">
   <script type="text/javascript">
     googletag.cmd.push(function() { googletag.display('div-gpt-ad-leaderboard-1'); });
   </script>
@@ -262,7 +264,7 @@
                     <li class="rounded" style="background:#e98410; margin-left:.3em;"><a style="color:#ffffff;" href="https://services.buffalonews.com/cgi/cgiip.wsc/custservice/web/registration.html" target="_blank">Register</a></li>
                 </ul>-->
                 <div id="divLoginRegister" class="left"></div>
-				<span class="headerDate right">Saturday June 27, 2015</span>
+				<span class="headerDate right">Sunday December 20, 2015</span>
 			</div>
 
 <h1 id="sectionHeader" class="left"><a href="/section/HELP">Help</a></h1>
@@ -441,13 +443,13 @@
                             <li><a href="http://www.buffalodeals.com" target="_blank">Buffalo Deals</a></li>
                         </ul>
                         <ul class="listVert col30 left">
-                            <li><a href="http://www.buffalocars.com/" target="_blank">BuffaloCars</a></li>
+                            <li><a href="http://cars.buffalonews.com/" target="_blank">BuffaloCars</a></li>
                             <li><a href="http://realestate.buffalonews.com/" target="_blank">BuffaloHomeFinder</a></li>
                             <li><a href="http://realestate.buffalonews.com/rentals/" target="_blank">ApartmentFinderExtra</a></li>
                         </ul>
                         <ul class="listVert col30 left">
-                        	<li><a href="http://buffalojobfinder.com/" target="_blank">BuffaloJobFinder</a></li>
-                            <li><a href="http://www.buffalobrides.com/" target="_blank">Buffalo Brides</a></li>
+                        	<li><a href="http://jobs.buffalonews.com/" target="_blank">BuffaloJobFinder</a></li>
+                            <li><a href="http://brides.buffalonews.com/" target="_blank">Buffalo Brides</a></li>
                             <li><a href="http://www.gadzoo.com/buffalonews/pets.aspx" target="_blank">Pet Place</a></li>
                         </ul>
                     </div>
