@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bbcworldwide.com privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630063344id_/http%3A//www.bbcworldwide.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bbcworldwide.com privacy policy that was archived on 2015-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151221005124id_/http%3A//www.bbcworldwide.com/privacy.aspx) for the most accurate reproduction.*
 
 # privacy
 
@@ -14,7 +14,7 @@ BBCW respects your right to privacy and we take our related legal obligations se
 
 BBCW exists to support the BBC's public service mission and to maximise profits on its behalf. We do this through investing in, commercialising and showcasing BBC content around the world, in a way that is consistent with BBC standards and values.
 
-We operate a variety of BBC-branded commercial services, such as TV channels, online shops, websites, games, mobile apps and live events. For more information please refer to our corporate website at: [www.bbcworldwide.com.](https://web.archive.org/web/20150630063344id_/http%3A//www.bbcworldwide.com/)
+We operate a variety of BBC-branded commercial services, such as TV channels, online shops, websites, games, mobile apps and live events. For more information please refer to our corporate website at: [www.bbcworldwide.com.](https://web.archive.org/web/20151221005124id_/http%3A//www.bbcworldwide.com/)
 
 ### **Our Promise** ****
 
