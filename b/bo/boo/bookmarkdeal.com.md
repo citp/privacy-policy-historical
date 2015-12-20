@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bookmarkdeal.com privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612101942id_/http%3A//www.bookmarkdeal.com/privacy-policies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bookmarkdeal.com privacy policy that was archived on 2015-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151220034349id_/http%3A//www.bookmarkdeal.com/privacy-policies) for the most accurate reproduction.*
 
 # Privacy Policies › BookmarkDeal.com : Social Bookmarking System for Sharing and Tagging Favorite News, Images and Videos | Submitting Links, SEO Bookmarklet & Social Webmarking Services
 
