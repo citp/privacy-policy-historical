@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the alive.com privacy policy that was archived on 2015-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150410091709id_/http%3A//www.alive.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alive.com privacy policy that was archived on 2015-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151220090114id_/http%3A//www.alive.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | alive
+# Privacy Policy - alive
 
 We pledge to fully meet and, where possible, exceed internationally recognized standards of personal data privacy protection. In doing so, we will ensure compliance by our staff with the strictest standards of security and confidentiality.
 
@@ -10,7 +10,7 @@ We use cookies to gather demographic data and to track web traffic in various ar
 
 In the online store on our website, we collect information from visitors to the extent that it allows us to fulfill their order.
 
-Web users have the opportunity to correct and update personally identifiable information by emailing us at [webmaster@alive.com](mailto:%20webmaster@alive.com).
+Web users have the opportunity to correct and update personally identifiable information by emailing us at [webmaster@alive.com](mailto:webmaster@alive.com).
 
 We retain personally identifiable information indefinitely in order to provide you with our services. Users may request to retract personally identifiable information by emailing us at webmaster@alive.com.
 
@@ -24,4 +24,4 @@ To ensure the security and confidentiality of personal data collected online, we
 
 We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here.
 
-For any additional questions regarding our privacy policy and practices, please contact our webmaster at [webmaster@alive.com](mailto:%20webmaster@alive.com).
+For any additional questions regarding our privacy policy and practices, please contact our webmaster at [webmaster@alive.com](mailto:webmaster@alive.com).
