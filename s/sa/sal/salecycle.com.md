@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the salecycle.com privacy policy that was archived on 2015-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150619080904id_/http%3A//www.salecycle.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the salecycle.com privacy policy that was archived on 2015-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151220225527id_/http%3A//www.salecycle.com/privacy-policy) for the most accurate reproduction.*
 
-# SaleCycle Privacy Policy | SaleCycle
+# SaleCycle Privacy Policy
 
 SaleCycle is committed to protecting the privacy of our clients and their customers and the security of any information given to us in order for us to recover abandoned shopping baskets on behalf of our clients.
 
