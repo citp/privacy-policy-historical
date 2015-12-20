@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the boxshotking.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607213513id_/http%3A//www.boxshotking.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boxshotking.com privacy policy that was archived on 2015-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151220083312id_/http%3A//www.boxshotking.com/privacy) for the most accurate reproduction.*
 
-# Privacy – Box Shot King Box Shot King
+# Privacy - Box Shot King Box Shot King
 
 **What information do we collect?**
 
