@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hellofax.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315023749id_/https%3A//www.hellofax.com/info/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hellofax.com privacy policy that was archived on 2015-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151220055552id_/https%3A//www.hellofax.com/info/privacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy | HelloFax
 
@@ -24,6 +24,6 @@ By using this Site, you agree to this Privacy Policy. This is our entire and exc
 
 This Site operates "AS-IS" and "AS-AVAILABLE," without liability of any kind. We are not responsible for events beyond our direct control. This Privacy Policy is governed by the laws of California, excluding conflicts of law principles. Any legal actions against us must be commenced in California within one (1) year after the claim arose, or such action(s) will be barred. 
 
-If you would like to cancel your account and/or unsubscribe from our email list, email us at and we will assist you. 
+If you would like to cancel your account and/or unsubscribe from our email list, email us at [support@hellofax.com](mailto:support@hellofax.com) and we will assist you. 
 
-If you believe that JN PROJECTS INC has not adhered to this Privacy Policy, please contact us by email at and we will use commercially reasonable efforts to remedy the problem. We can also be contacted by mail at 944 Market Street, Suite 400, San Francisco, CA 94102 or by phone at (415) 766-0273. 
+If you believe that JN PROJECTS INC has not adhered to this Privacy Policy, please contact us by email at [support@hellofax.com](mailto:support@hellofax.com) and we will use commercially reasonable efforts to remedy the problem. We can also be contacted by mail at 944 Market Street, Suite 400, San Francisco, CA 94102 or by phone at (415) 766-0273. 
