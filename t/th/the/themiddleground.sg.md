@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the themiddleground.sg privacy policy that was archived on 2015-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150621031003id_/http%3A//themiddleground.sg/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the themiddleground.sg privacy policy that was archived on 2015-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151220012400id_/http%3A//themiddleground.sg/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - The Middle Ground
 
@@ -28,9 +28,9 @@ When you share or recommend links to content on a third-party platform (such as 
 
 **Reader Surveys, Reader Panels and Market Research**
 
-The Middle Ground may collect personal information from you in connection with voluntary surveys conducted via The Middle Ground Services. Data may be collected through The Middle Ground Services, on the phone or through the mail. The information you provide may be shared, but only in the aggregate, with advertisers and partners unless we notify you otherwise at the time of collection.
+The Middle Ground may collect personal information from you in connection with voluntary surveys conducted via The Middle Ground. Data may be collected through The Middle Ground, on the phone or through the mail. The information you provide may be shared, but only in the aggregate, with advertisers and partners unless we notify you otherwise at the time of collection.
 
-Members of our Reader Panels agree to participate in surveys, polls or discussions about their readership of The Middle Ground, their household/personal characteristics and their purchase behavior. Our panels are currently administered by Vision Critical and Beta Research.
+Members of our Reader Panels agree to participate in surveys, polls or discussions about their readership of The Middle Ground, their household/personal characteristics and their purchase behavior.
 
 **Conferences and Live Events**
 
