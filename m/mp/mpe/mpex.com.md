@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mpex.com privacy policy that was archived on 2015-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150616161836id_/http%3A//mpex.com/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mpex.com privacy policy that was archived on 2015-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151220130136id_/http%3A//mpex.com/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
 
 # Midwest Photo Exchange Privacy Policy
 
