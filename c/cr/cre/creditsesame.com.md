@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the creditsesame.com privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612170535id_/http%3A//www.creditsesame.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the creditsesame.com privacy policy that was archived on 2015-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151220134557id_/http%3A//www.creditsesame.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Credit Sesame
 
 Effective on March 25, 2015
 
-This privacy statement describes how Credit Sesame collects and uses the personal information you provide on our Web site: [www.creditsesame.com ](http://www.creditsesame.com/). It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
+This privacy statement describes how Credit Sesame collects and uses the personal information you provide on our Web site: [www.creditsesame.com ](https://web.archive.org/). It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
 
 ## Collection and Use of Personal Information
 
@@ -100,7 +100,7 @@ Personally identifiable financial information is stored in the Credit Sesame pri
 
 ### Links to Other Web Sites
 
-Our Site includes links to other Web sites whose privacy practices may differ from those of Credit Sesame. If you submit personal information to any of those sites, your information is governed by their privacy statements. We encourage you to carefully read the privacy statement of any Web site you visit.</p>
+Our Site includes links to other Web sites whose privacy practices may differ from those of Credit Sesame. If you submit personal information to any of those sites, your information is governed by their privacy statements. We encourage you to carefully read the privacy statement of any Web site you visit.
 
 ### Public Forums Disclaimer
 
