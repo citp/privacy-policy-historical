@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the maxpersuasion.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607142722id_/http%3A//www.maxpersuasion.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maxpersuasion.com privacy policy that was archived on 2015-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151220024050id_/http%3A//www.maxpersuasion.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy for MaxPersuasion
 
