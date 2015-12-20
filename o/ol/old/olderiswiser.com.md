@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the olderiswiser.com privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122053537id_/http%3A//www.olderiswiser.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the olderiswiser.com privacy policy that was archived on 2015-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151220103543id_/http%3A//olderiswiser.com/privacy_policy) for the most accurate reproduction.*
 
-# Older Is Wiser | Privacy policy
+# Privacy policy | Older Is Wiser
 
 ##  1\. Introduction and General Terms
 
