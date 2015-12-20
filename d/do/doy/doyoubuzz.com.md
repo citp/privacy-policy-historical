@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the doyoubuzz.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607130136id_/http%3A//www.doyoubuzz.com/us/p/charter) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the doyoubuzz.com privacy policy that was archived on 2015-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151220133822id_/http%3A//www.doyoubuzz.com/us/p/charter) for the most accurate reproduction.*
 
 # DoYouBuzz : Privacy Policy
 
