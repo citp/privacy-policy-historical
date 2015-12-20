@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tripinfo.com privacy policy that was archived on 2015-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150616135220id_/http%3A//www.tripinfo.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tripinfo.com privacy policy that was archived on 2015-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151220062728id_/http%3A//www.tripinfo.com/privacy_policy.html) for the most accurate reproduction.*
 
 # TRIPinfo.com: Privacy Policy
 
@@ -44,8 +44,8 @@ WHO WE SHARE WITH:
 We may share information within TRIPmedia Group including:  
 • TRIPinfo.com  
 • TRIPinfo.com Maps  
-• TRIPinfo.com Internet Travel Monitor  
-• TRIPinfo.com Resource Atlas & Handbook
+• TRIPinfo.com Internet Travel Monitor Email Newsletter  
+• TRIPinfo.com Magazine
 
 TRIPmedia GROUP PROTECTS CUSTOMER INFORMATION  
 In order to ensure the safety of customer information, we continually:  
