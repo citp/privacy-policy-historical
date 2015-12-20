@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the brightdrops.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610055221id_/http%3A//brightdrops.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brightdrops.com privacy policy that was archived on 2015-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151220033527id_/http%3A//brightdrops.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Bright Drops
 
-### Privacy Policy:
+## Privacy Policy:
 
 BrightDrops (" **BrightDrops** ") operates BrightDrops.com and may operate other websites. It is BrightDrops policy to respect your privacy regarding any information we may collect while operating our websites.
 
