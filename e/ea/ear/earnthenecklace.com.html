@@ -1,270 +1,52 @@
-<!--The following is the downloaded HTML source of the earnthenecklace.com privacy policy that was archived on 2014-11-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141121135939id_/http%3A//www.earnthenecklace.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the earnthenecklace.com privacy policy that was archived on 2015-12-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151220011750id_/http%3A//www.earnthenecklace.com/privacy-policy) for the most accurate reproduction.-->
 
-<html><head>
-    
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8">    
-<meta http-equiv="X-UA-Compatible" content="IE=edge">
-<meta name="viewport" content="width=device-width, initial-scale=2">    
-    
-    <!--GOOGLE FONTS-->
-<link href="http://fonts.googleapis.com/css?family=Great+Vibes" rel="stylesheet" type="text/css">
-<link href="http://fonts.googleapis.com/css?family=Playfair+Display" rel="stylesheet" type="text/css">
-<link href="http://fonts.googleapis.com/css?family=Pathway+Gothic+One" rel="stylesheet" type="text/css">
-<link href="http://fonts.googleapis.com/css?family=Crete+Round" rel="stylesheet" type="text/css">
-    
-<link rel="stylesheet" href="http://www.earnthenecklace.com/wp-content/plugins/form-elizar/bootstrap/css/bootstrap.css">
-<link rel="stylesheet" href="http://www.earnthenecklace.com/wp-content/plugins/form-elizar/slider/css/slider.css">
-<link rel="stylesheet" href="http://www.earnthenecklace.com/wp-content/plugins/form-elizar/bootstrap/css/jasny-bootstrap.min.css">
-<link rel="stylesheet" href="//ajax.googleapis.com/ajax/libs/jqueryui/1.10.4/themes/smoothness/jquery-ui.css">
-<link rel="stylesheet" href="http://www.earnthenecklace.com/wp-content/themes/earnthenecklace2/style_custom.css?83240758">
-
-<script src="https://dnn506yrbagrg.cloudfront.net/pages/scripts/0026/0240.js?438995" async="" type="text/javascript"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
-<script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.10.4/jquery-ui.min.js"></script>
-<script type="text/javascript" src="http://www.earnthenecklace.com/wp-content/plugins/form-elizar/includes/js/masking.js"></script>
-
-<script type="text/javascript" src="http://www.earnthenecklace.com/wp-content/plugins/form-elizar/bootstrap/js/bootstrap.min.js"></script>
-<script type="text/javascript" src="http://www.earnthenecklace.com/wp-content/plugins/form-elizar/slider/js/bootstrap-slider.js"></script>
-<script type="text/javascript" src="http://www.earnthenecklace.com/wp-content/plugins/form-elizar/bootstrap/js/jasny-bootstrap.min.js"></script>
-<script type="text/javascript">//<![CDATA[
-                                                // Google Analytics for WordPress by Yoast v4.2.8 | http://yoast.com/wordpress/google-analytics/
-                                                var _gaq = _gaq || [];
-                                                _gaq.push(['_setAccount', 'UA-39029798-1']);
-                                                                                                                _gaq.push(['_trackPageview']);
-                                                (function () {
-                                                                var ga = document.createElement('script');
-                                                                ga.type = 'text/javascript';
-                                                                ga.async = true;
-                                                                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-                                                                var s = document.getElementsByTagName('script')[0];
-                                                                s.parentNode.insertBefore(ga, s);
-                                                })();
-                                                //]]></script>
+<!DOCTYPE html><html lang="en-US"><head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
 
 
 
-<script>
-   $(document).ready(function(){
-       
-       var text_max = 150;
-       $('.char-counter').keyup(function(){
-           var obj_count = $(this).val().length;
-           var remain    = text_max - obj_count; 
-           var lbl_id = '#lbl-'+$(this).attr('id');
-           $(lbl_id).html(remain);
-       });
- 
-  }); // JQuery
- 
- // FUNCTIONS --------------------------------- 
- function progress_bar(percentage){
-      $('#user_progress').css('width',percentage+'%');
-  }
-  
-  function get_progress(step){
-      
-      var percentage = Math.round( ( (step) / 27) * 100 );
-      $('#user_progress').css('width',percentage+'%');
-      
-      // CONTROL THE NUM TABS
-      $('.num-tabs li').each(function(){
-          $(this).removeClass('active');
-      });
-    //  $('#tab_'+step).addClass('active');
-  } 
-  
-  var ctr = 0;
-  /* THIS FUNCTION WILL CONTROL THE NUMBER OF CHECKBOXES SELECTED */
-  function countCheckboxes(obj){
-      
-      
-     if($(obj).hasClass('on')){
-       $(obj).removeClass('on');
-       ctr--;
-     }
-     else{
-       $(obj).addClass('on'); 
-       ctr++;
-     }      
-            
-            
-    if(ctr > 10){
-          alert('You cannot select more than 10');
-          $(obj).addClass('active');
-          $(obj).removeClass('on');
-          ctr--;
-      }
-  }
-  
-  
-  /*  THESE FUNCTIONS CONTROLS THE DYNAMIC DATE CREATOR */
-  function setDateDynamicallyFunction() {
-
-    var yearObj  = document.getElementById('selYear');
-    var monthObj = document.getElementById('selMonth');
-    var dayObj 	 = document.getElementById('selDay');
-
-    var days = checkDaysInMonth(monthObj.value, yearObj.value);
-    dayObj.options.length = 0;
-
-    dayObj.options[dayObj.options.length] = new Option('Day:', '');
-
-	for (var i = 1; i <= days; i++)
-		dayObj.options[dayObj.options.length] = new Option(i,i);				
-}
-
-	
-function checkDaysInMonth(month, year) {
-
-    var dd = new Date(year, month, 0);
-    return dd.getDate();						
-
-}
-  
-</script>
-<style>
-
-BODY{ height: auto !important;}    
-    
-div#page-content{width: 80%; margin: 0 auto; padding:0 30px;}
-
-div.container-box{background-color: #FFF;border:1px solid #000;}
-
-/* HEADER STYLES  */
-h1.mainheader{
-    font-size: 52px; 
-    text-align: center; 
-    margin: 20px 0;
-    color : #A30000;  
-    line-height: 40px !important; 
-    font-family: 'Pathway Gothic One', Georgia !important;
-}
-
-h1.mainheader span{ border-bottom:  1px solid #FFF; margin-bottom: 5px;}
-
-h1.general-header{font-size: 35px; text-align: center; margin: 20px 0; line-height: 30px !important; color: #000/*#F5F5F5*/; }
-h1.registerHeader{font-size: 28px; margin: 20px 0; line-height: 30px !important}
-p.general-sub-header{
-    font-family: 'Playfair Display', serif !important; 
-    font-size: 25px; 
-    text-align: center; 
-    color: #000; line-height: 1; 
-}
-
-
-/* RESPONSIVE  */
-    @media (max-width: 1850px){
-    div.pull-center{ margin: 0 28%}
-    }
-
-    @media (max-width: 1675px){
-    div.pull-center{ margin: 0 25%}
-    }
-
-    @media (max-width: 1490px){
-    div.pull-center{ margin: 0 20%}
-    }
-
-    @media (max-width: 1250px){
-    div.pull-center{ margin: 0 15%}
-    }
-
-    @media (max-width: 1085px){
-    div.pull-center{ margin: 0 10%}
-    }
-
-    @media (max-width: 960px){
-     .btn-group-lg label{ font-size: 10px !important;}
-     #page-content{ width: 100%; padding: 2px; }
-    }
-    
-    @media (max-width: 600px){
-      h1.mainheader{ font-size: 35px;}
-      .general-sub-header{ font-size: 16px !important; line-height:18px !important; }
-      div.pull-center-lg{ margin: 0 5% !important;}
-    }
-    
-    @media (max-width: 991px){
-        div.row{ margin:0 }
-    }
-    
-    button.custom-danger-hover:hover{ background-color: #d43f3a !important;  background: #d43f3a !important; }
-
-/* THAT ANNOYING SHARE BAR */
-body ul#sharebar{ display: none !important; }
-#sharebarx{display: none !important; }
-.textarea-dimension{}
-
-div.container{ width:78%}
-@media (max-width:1600px){ div.container{ width:85%} }
-@media (max-width:1200px){ div.container{ width:95%} }
-@media (max-width:1000px){ div.container{ width:98%} div#page-content{width: 100% !important; padding:0 2px !important;  } }
-
-
-.wpcf7 input.wpcf7-text { width: 100%; }
-.wpcf7-select{ width:100%; height: 32px;}
-.wpcf7-textarea{ width:100%}
-
-</style>
-
+<!-- This site is optimized with the Yoast SEO plugin v2.3.4 - https://yoast.com/wordpress/plugins/seo/ -->
 <title>Privacy Policy</title>
-
-<!-- This site is optimized with the Yoast WordPress SEO plugin v1.4.4 - http://yoast.com/wordpress/seo/ -->
+<meta name="robots" content="noodp,noydir">
+<meta name="news_keywords" content="35+ age celebrities news, hollywood stars, musicians, athletes, politicians, financial bigwigs">
+<link rel="original-source" href="http://www.earnthenecklace.com/privacy-policy/">
 <link rel="canonical" href="http://www.earnthenecklace.com/privacy-policy/">
-<!-- / Yoast WordPress SEO plugin. -->
+<!-- / Yoast SEO plugin. -->
 
-<link rel="alternate" type="application/rss+xml" title="Sugar Daddy Online Dating by EarnTheNecklace.com » Feed" href="http://www.earnthenecklace.com/feed/">
-<link rel="alternate" type="application/rss+xml" title="Sugar Daddy Online Dating by EarnTheNecklace.com » Comments Feed" href="http://www.earnthenecklace.com/comments/feed/">
-<link rel="stylesheet" id="gdsr_style_main-css" href="http://www.earnthenecklace.com/wp-content/plugins/gd-star-rating/css/gdsr.css.php?t=1362596243&amp;s=a10i10m20k20c05r05%23121620243046%23121620243240%23s1pchristmas%23s1pcrystal%23s1pdarkness%23s1poxygen%23s1goxygen_gif%23s1pplain%23s1ppumpkin%23s1psoft%23s1pstarrating%23s1pstarscape%23t1pclassical%23t1pstarrating%23t1gstarrating_gif%23lsgflower&amp;o=off&amp;ver=1.9.22" type="text/css" media="all">
-<link rel="stylesheet" id="gdsr_style_xtra-css" href="http://www.earnthenecklace.com/wp-content/gd-star-rating/css/rating.css?ver=1.9.22" type="text/css" media="all">
-<link rel="stylesheet" id="contact-form-7-css" href="http://www.earnthenecklace.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=3.4.2" type="text/css" media="all">
-<link rel="stylesheet" id="wp-polls-css" href="http://www.earnthenecklace.com/wp-content/plugins/wp-polls/polls-css.css?ver=2.63" type="text/css" media="all">
-<link rel="stylesheet" id="twentytwelve-fonts-css" href="http://fonts.googleapis.com/css?family=Open+Sans:400italic,700italic,400,700&amp;subset=latin,latin-ext" type="text/css" media="all">
-<link rel="stylesheet" id="twentytwelve-style-css" href="http://www.earnthenecklace.com/wp-content/themes/earnthenecklace2/style.css?ver=3.9.3" type="text/css" media="all">
-<!--[if lt IE 9]>
-<link rel='stylesheet' id='twentytwelve-ie-css'  href='http://www.earnthenecklace.com/wp-content/themes/twentytwelve/css/ie.css?ver=20121010' type='text/css' media='all' />
-<![endif]-->
-<link rel="stylesheet" id="wp-advanced-rp-css-css" href="http://www.earnthenecklace.com/wp-content/plugins/advanced-recent-posts-widget/css/advanced-recent-posts-widget.css?ver=3.9.3" type="text/css" media="all">
-<link rel="stylesheet" id="rps-style-css" href="http://www.earnthenecklace.com/wp-content/plugins/recent-posts-slider/css/style.css?ver=3.9.3" type="text/css" media="all">
-<link rel="stylesheet" id="page-list-style-css" href="http://www.earnthenecklace.com/wp-content/plugins/sitemap/css/page-list.css?ver=4.2" type="text/css" media="all">
-<script type="text/javascript" src="http://www.earnthenecklace.com/wp-includes/js/jquery/jquery.js?ver=1.11.0"></script>
-<script type="text/javascript" src="http://www.earnthenecklace.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1"></script>
-<script type="text/javascript" src="http://www.earnthenecklace.com/wp-content/plugins/gd-star-rating/js/gdsr.js?ver=1.9.22"></script>
-<script type="text/javascript" src="http://www.earnthenecklace.com/wp-content/plugins/sharebar/js/sharebar.js?ver=3.9.3"></script>
-<script type="text/javascript" src="http://www.earnthenecklace.com/wp-content/plugins/wordpress-popup/popover-load-js.php?ver=3.9.3"></script>
-<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.earnthenecklace.com/xmlrpc.php?rsd">
-<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.earnthenecklace.com/wp-includes/wlwmanifest.xml"> 
-<meta name="generator" content="WordPress 3.9.3">
-<link rel="shortlink" href="http://www.earnthenecklace.com/?p=9775">
-
-<!-- This site is using AdRotate v3.8.4.2 to display their advertisements - http://www.adrotateplugin.com/ -->
-<!-- AdRotate CSS for Blocks -->
-<style type="text/css" media="screen">
-.b-1 { overflow:auto;margin:0;padding:0px;clear:none;width:auto;height:auto; }
-.a-1 { margin:0px;clear:none;float:left;width:301px;height:129px;border:0px #fff none; }
-.b-2 { overflow:auto;margin:0;padding:0px;clear:none;width:auto;height:auto; }
-.a-2 { margin:0px;clear:none;float:left;width:301px;height:129px;border:0px #fff none; }
-.b-3 { overflow:auto;margin:0;padding:1px;clear:none;width:auto;height:auto; }
-.a-3 { margin:0px;clear:none;float:left;width:600px;height:250px;border:0px #fff none; }
-.block_left { clear:left; }
-.block_right { clear:right; }
-.block_both { clear:both; }
+<link rel="alternate" type="application/rss+xml" title="Earn The Necklace » Feed" href="http://www.earnthenecklace.com/feed/">
+<link rel="alternate" type="application/rss+xml" title="Earn The Necklace » Comments Feed" href="http://www.earnthenecklace.com/comments/feed/">
+		<script async="" src="//connect.facebook.net/en_US/fbevents.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-PVKGQD"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" src="http://cdn.taboola.com/libtrc/earnthenecklace2/loader.js"></script><script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"http:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/www.earnthenecklace.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.2.5"}};
+			!function(a,b,c){function d(a){var c=b.createElement("canvas"),d=c.getContext&&c.getContext("2d");return d&&d.fillText?(d.textBaseline="top",d.font="600 32px Arial","flag"===a?(d.fillText(String.fromCharCode(55356,56812,55356,56807),0,0),c.toDataURL().length>3e3):(d.fillText(String.fromCharCode(55357,56835),0,0),0!==d.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script><script src="http://www.earnthenecklace.com/wp-includes/js/wp-emoji-release.min.js?ver=4.2.5" type="text/javascript"></script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
 </style>
-<!-- / AdRotate CSS for Blocks -->
-
-<script type="text/javascript">
-//<![CDATA[
-var gdsr_cnst_nonce = "3ffdd75da6";
-var gdsr_cnst_ajax = "http://www.earnthenecklace.com/wp-content/plugins/gd-star-rating/ajax.php";
-var gdsr_cnst_button = 1;
-var gdsr_cnst_cache = 0;
-// ]]>
-</script>
-<!--[if IE]><style type="text/css">.ratemulti .starsbar .gdcurrent { -ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=70)"; filter: alpha(opacity=70); }</style><![endif]-->
-<style type="text/css" media="screen"></style><link rel="stylesheet" href="http://www.earnthenecklace.com/wp-content/plugins/sharebar/css/sharebar.css" type="text/css" media="screen">
-<script type="text/javascript">jQuery(document).ready(function($) { $('.sharebar').sharebar({horizontal:'true',swidth:'75',minwidth:1000,position:'left',leftOffset:20,rightOffset:10}); });</script>
-<!-- Sharebar Plugin by Monjurul Dolon (http://mdolon.com/) - more info at: http://devgrow.com/sharebar-wordpress-plugin -->
-<style type="text/css">
+<link rel="stylesheet" id="ajax-load-more-css" href="http://www.earnthenecklace.com/wp-content/plugins/ajax-load-more/core/css/ajax-load-more.css?ver=4.2.5" type="text/css" media="all">
+<link rel="stylesheet" id="contact-form-7-css" href="http://www.earnthenecklace.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=4.2.2" type="text/css" media="all">
+<link rel="stylesheet" id="isf_style-css" href="http://www.earnthenecklace.com/wp-content/plugins/indeed-social-media/social_follow/files/css/style-frond_end.css?ver=4.2.5" type="text/css" media="all">
+<link rel="stylesheet" id="isf_pack_social_follow-css" href="http://www.earnthenecklace.com/wp-content/plugins/indeed-social-media/social_follow/files/css/pack_social_follow.css?ver=4.2.5" type="text/css" media="all">
+<link rel="stylesheet" id="ism_font-awesome-css" href="http://www.earnthenecklace.com/wp-content/plugins/indeed-social-media/files/css/font-awesome.css?ver=4.2.5" type="text/css" media="all">
+<link rel="stylesheet" id="ism_socicon-css" href="http://www.earnthenecklace.com/wp-content/plugins/indeed-social-media/files/css/socicon.css?ver=4.2.5" type="text/css" media="all">
+<link rel="stylesheet" id="ism_style-css" href="http://www.earnthenecklace.com/wp-content/plugins/indeed-social-media/files/css/style-front_end.css?ver=4.2.5" type="text/css" media="all">
+<link rel="stylesheet" id="ism_templates-css" href="http://www.earnthenecklace.com/wp-content/plugins/indeed-social-media/files/css/templates.css?ver=4.2.5" type="text/css" media="all">
+<link rel="stylesheet" id="ism_show_effects_css-css" href="http://www.earnthenecklace.com/wp-content/plugins/indeed-social-media/files/css/animate.css?ver=4.2.5" type="text/css" media="all">
+<link rel="stylesheet" id="page-list-style-css" href="http://www.earnthenecklace.com/wp-content/plugins/sitemap/css/page-list.css?ver=4.3" type="text/css" media="all">
+<link rel="stylesheet" id="wp-polls-css" href="http://www.earnthenecklace.com/wp-content/plugins/wp-polls/polls-css.css?ver=2.69" type="text/css" media="all">
+<style id="wp-polls-inline-css" type="text/css">
 .wp-polls .pollbar {
 	margin: 1px;
 	font-size: 6px;
@@ -273,8 +55,95 @@ var gdsr_cnst_cache = 0;
 	background-image: url('http://www.earnthenecklace.com/wp-content/plugins/wp-polls/images/default/pollbg.gif');
 	border: 1px solid #c8c8c8;
 }
+
 </style>
-<style type="text/css">
+<link rel="stylesheet" id="wprmenu.css-css" href="http://www.earnthenecklace.com/wp-content/plugins/wp-responsive-menu/css/wprmenu.css?ver=4.2.5" type="text/css" media="all">
+<link rel="stylesheet" id="wprmenu-font-css" href="//fonts.googleapis.com/css?family=Open+Sans%3A400%2C300%2C600&amp;ver=4.2.5" type="text/css" media="all">
+<link rel="stylesheet" id="wp-pagenavi-css" href="http://www.earnthenecklace.com/wp-content/plugins/wp-pagenavi/pagenavi-css.css?ver=2.70" type="text/css" media="all">
+<script type="text/javascript" src="http://www.earnthenecklace.com/wp-includes/js/jquery/jquery.js?ver=1.11.2"></script>
+<script type="text/javascript" src="http://www.earnthenecklace.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1"></script>
+<script type="text/javascript" src="http://www.earnthenecklace.com/wp-content/plugins/indeed-social-media/files/js/front_end_header.js"></script>
+<script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
+<script type="text/javascript" src="http://www.earnthenecklace.com/wp-content/plugins/wp-responsive-menu/js/jquery.transit.min.js?ver=4.2.5"></script>
+<script type="text/javascript" src="http://www.earnthenecklace.com/wp-content/plugins/wp-responsive-menu/js/jquery.sidr.js?ver=4.2.5"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var wprmenu = {"zooming":"yes","from_width":"768","swipe":"yes"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://www.earnthenecklace.com/wp-content/plugins/wp-responsive-menu/js/wprmenu.js?ver=4.2.5"></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.earnthenecklace.com/xmlrpc.php?rsd">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.earnthenecklace.com/wp-includes/wlwmanifest.xml"> 
+<meta name="generator" content="WordPress 4.2.5">
+<link rel="shortlink" href="http://www.earnthenecklace.com/?p=9775">
+<meta name="twitter:card" content="photo">
+<meta name="twitter:image:src" id="twitter_meta_img" content="http://www.earnthenecklace.com/wp-content/plugins/indeed-social-media/files/images/wordpress-logo.png">
+<meta name="twitter:url" content="http://www.earnthenecklace.com">
+				<style id="wprmenu_css" type="text/css">
+			/* apply appearance settings */
+			#wprmenu_bar {
+				background: #0D0D0D;
+			}
+			#wprmenu_bar .menu_title, #wprmenu_bar .wprmenu_icon_menu {
+				color: #F2F2F2;
+			}
+			#wprmenu_menu {
+				background: #2E2E2E!important;
+			}
+			#wprmenu_menu.wprmenu_levels ul li {
+				border-bottom:1px solid #131212;
+				border-top:1px solid #0D0D0D;
+			}
+			#wprmenu_menu ul li a {
+				color: #CFCFCF;
+			}
+			#wprmenu_menu ul li a:hover {
+				color: #606060;
+			}
+			#wprmenu_menu.wprmenu_levels a.wprmenu_parent_item {
+				border-left:1px solid #0D0D0D;
+			}
+			#wprmenu_menu .wprmenu_icon_par {
+				color: #CFCFCF;
+			}
+			#wprmenu_menu .wprmenu_icon_par:hover {
+				color: #606060;
+			}
+			#wprmenu_menu.wprmenu_levels ul li ul {
+				border-top:1px solid #131212;
+			}
+			#wprmenu_bar .wprmenu_icon span {
+				background: #FFFFFF;
+			}
+			
+			#wprmenu_menu.left {
+				width:100%;
+				left: -100%;
+			    right: auto;
+			}
+			#wprmenu_menu.right {
+				width:100%;
+			    right: -100%;
+			    left: auto;
+			}
+
+
+			
+							#wprmenu_bar .wprmenu_icon {
+					float: right!important;
+					margin-right:0px!important;
+				}
+				#wprmenu_bar .bar_logo {
+					pading-left: 0px;
+				}
+						/* show the bar and hide othere navigation elements */
+			@media only screen and (max-width: 768px) {
+				html { padding-top: 42px!important; }
+				#wprmenu_bar { display: block!important; }
+				div#wpadminbar { position: fixed; }
+				nav { display:none!important; }			}
+		</style>
+		<style type="text/css">
 sup {
 	vertical-align: 60%;
 	font-size: 75%;
@@ -303,152 +172,52 @@ sub {
 }
 /* because formatting .numbers should consider your current font settings, we will not style it here */
 </style>
-<script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
 
-<body>
+<!-- Favicon -->
+<link rel="shortcut icon" href="http://www.earnthenecklace.com/favicon.ico?v=1.0" type="image/x-icon">
 
-  
-<div id="page-content">
-    <div class="container" style=" margin:0 auto; margin-top: 0px; padding:0">
-        <div style="width:auto; margin-top:5px;">
-        <div id="main-logo" style="float:left;">
-            <a href="http://www.earnthenecklace.com">
-            <img id="main-logo" src="http://www.earnthenecklace.com/wp-content/themes/earnthenecklace2/images/logo/main-md.png">
-            </a>
-        </div>
-    
-        <div style="float:right">
-                      <div class="account-link">
-                                            <span class="account-link">Already a member?</span>
-                        <a class="account-link" href="http://www.earnthenecklace.com/login">Log In <span class=" glyphicon glyphicon-log-in"></span>&nbsp;</a>
-                                </div>
-            
-        </div>
+<!-- CSS -->
+<link rel="stylesheet" type="text/css" href="http://www.earnthenecklace.com/wp-content/themes/etnnews/css/main.min.css">
 
-<div class="clearfix"></div>
-<div class="header-copy">Matching younger, beautiful women with rich, mature men.</div>
-</div>  
+<!-- Font Awesome -->
+<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
 
-    
-    </div>
-    <div class="container-box container" style="margin-top:0; ">
-          <h1 class="mainheader">Privacy Policy</h1> 
-        
-     <div class="img-width-300"></div><p align="center"><strong><span class="caps">IMPORTANT</span>: <span class="caps">PLEASE</span> <span class="caps">READ</span></strong></p>
-<p>This policy covers the privacy practices of&nbsp;<i>EarnTheNecklace.com</i>&nbsp;and all web sites owned or operated by&nbsp;<i>EarnTheNecklace.com</i>&nbsp;and its subsidiaries. This privacy policy also covers our treatment of any personally identifiable information from any of our business partners.</p>
-<p>The&nbsp;<em>EarnTheNecklace.com</em>&nbsp;web site requires consideration from the user for and as a condition of your access. By reading and accepting our Privacy Policy and Terms of Use, you are granting us consideration for the right to view our web site and our information.</p>
-<p><span class="caps">WARNING</span>: You are denied access to our web site unless you read our Terms of Use and Privacy Policy.</p>
-<p><span class="caps">USE</span> <span class="amp">&amp;</span> <span class="caps">COPYRIGHTS</span>: You are prohibited from copying, saving, printing, selling, hyperlinking, using our <span class="caps">URL</span>, or reproducing, in any manner whatsoever, any of the information on&nbsp;<i>EarnTheNecklace.com</i>. You may not use our web site or information for any illegal use. All of our content is copyrighted.</p>
-<p><span class="caps">CONTENT</span> <span class="caps">DISCLAIMER</span>: Editorial information contained on&nbsp;<i>EarnTheNecklace.com</i>&nbsp;is not guaranteed as accurate. We make no warranty as to the suitability of content. Persons under the age of 18 are denied access to our web site and services. Any information from users and/or members who we believe are below the age of 18 will be immediately expelled from any and all of our databases.</p>
-<p>By viewing our content and registering for our services, you waive all rights to claims of damages arising from the use of our web site and/or our information. By viewing our content, you indemnify and hold us harmless from and against any and all claims.</p>
-<p><span class="caps">OTHER</span>: We reserve the right to deny access to our web site or our information to any person for any reason.</p>
-<p><b>Our Privacy Guarantee</b></p>
-<p>Your privacy is extremely important to us. All of the personal information you submit to&nbsp;<i>EarnTheNecklace.com</i>&nbsp;is kept strictly confidential and will only be used by&nbsp;<i>EarnTheNecklace.com</i>. Your personal information will never be rented, given, or sold to any third parties without your consent.</p>
-<p>We understand the importance of privacy online and have taken the appropriate steps to ensure that the information you provide to us is protected. For instance, pages that collect credit card information use Secure Socket Layer (<span class="caps">SSL</span>) encryption to safeguard these private details. We will use our absolute best efforts to ensure that the information you provide to<i>&nbsp;EarnTheNecklace.com&nbsp;</i>will only be used for the purposes set forth herein.</p>
-<p>For security purposes and to help us protect your privacy to the best of our ability, it is imperative that you never share your&nbsp;<i>EarnTheNecklace.com</i>&nbsp;username and/or password with anyone else.</p>
-<p>Although we use top precautions to keep all personal information secure, we are not legally responsible for any breaches of security that may&nbsp;occur.</p>
-<p><b>How Information Is Collected and&nbsp;Used</b></p>
-<p><span style="text-decoration: underline;">Registration Questions:</span>&nbsp;When you sign up for a profile on&nbsp;<i>EarnTheNecklace.com</i>, you are asked a series of questions, including some that ask for personal information, like your full name, contact information, occupation, and physical appearance. We may also ask questions about hobbies and interests, preferences, and future goals. These questions are all designed to build your comprehensive profile, which works with our signature matching system to help us find you a suitable match and to deliver an optimal user experience.</p>
-<p><span style="text-decoration: underline;">Public Information:</span>&nbsp;Unlike other web sites that make your profile searchable by posting it online,&nbsp;<i>EarnTheNecklace.com&nbsp;</i>stores this information in a confidential database. Personally identifiable information and non-personally identifiable information is never shared&nbsp;with anyone who is not a member of&nbsp;<em>EarnTheNecklace.com</em>.</p>
-<p><span style="text-decoration: underline;">Delivery:</span>&nbsp;Some of your personal information that you provide to us (e.g. your name, address, and/or e-mail address) is used for delivery purposes. From time to time, we may send you details regarding special offers and exclusive member opportunities. We use e-mail to communicate with you when we find a potential match, but if you would like to opt-out of receiving notice of special offers, exclusive member opportunities, and other messages that do not pertain to your individual membership, e-mail us at&nbsp;<a target="_blank" href="mailto:dating@earnthenecklace.com">dating@earnthenecklace.com</a>.</p>
-<p><span style="text-decoration: underline;">Tracking:</span>&nbsp;Any time you visit&nbsp;<i>EarnTheNecklace.com</i>, our servers will automatically record information gathered from your browser, like your <span class="caps">IP</span> address, browser type, Internet service provider, exit pages, referring pages, date/time stamp, time spent on each page, and number of clicks. We use this information to customize your user experience by personalizing content, appropriately fulfilling your service requests, informing you of updates to the web site and our services that may be of relevance to you, and letting you know about any new offers that you might be interested in. In the future, we may implement newer tracking technologies to monitor visitor activity on&nbsp;<i>EarnTheNecklace.com</i>. The Privacy Policy will be updated to reflect any changes pertaining to how visitor and/or user activity is tracked.</p>
-<p><span style="text-decoration: underline;">Browser Information:</span>&nbsp;Browser information will also be used by&nbsp;<i>EarnTheNecklace.com&nbsp;</i>to analyze user trends, efficiently administer the web site, prevent and stop fraudulent behavior, and collect information about our overall demographic. This tracking information may be shared with our partners, but only as a collective. Information on your individual visits will not be shared externally without your consent, unless we are required to by law, or to protect&nbsp;<i>EarnTheNecklace.com</i>, other members, or anyone else who may be at&nbsp;risk.</p>
-<p><span style="text-decoration: underline;">Cookies:</span>&nbsp;To further enhance the user experience and improve member access,&nbsp;<i>EarnTheNecklace.com&nbsp;</i>uses cookies, which are small text files that a web browser stores on the hard drive of your computer. These cookies are used to recall user preferences and track visits to&nbsp;<i>EarnTheNecklace</i>.com so that we can better understand your behavior on the web site to deliver online services with a more customized user experience. These cookies also track the number of visitors on the site, separating new and repeat visitors, so that we can plan for future development. Our cookies can only be read by our servers, and cannot execute any viruses or code. You are able to set your browser to disable cookies, however, doing this means you won’t be able to log on to your profile or use any of the member services available on&nbsp;<i>EarnTheNecklace.com</i>. We cannot ensure that the web site will function properly without cookies, and you therefore assume full responsibility for reduced functionality should you set your browser to reject these cookies.</p>
-<p><span style="text-decoration: underline;">Mobile Analytics:</span>&nbsp;As part of our analytics,&nbsp;<i>EarnTheNecklace.com&nbsp;</i>uses software for mobile analytics as well, which enables us to get a better understanding of how the site functions on mobile devices. This mobile analytics software may track information like how you interact with the site on your mobile device, events that may occur during your mobile session on the site, performance data, and aggregate behavior. The mobile tracking information we collect may be shared with our partners, but only as a collective. Information on your individual visits will not be shared externally without your consent, unless we are required to by law, or to protect&nbsp;<i>EarnTheNecklace.com</i>, other members, or anyone else who may be at&nbsp;risk.</p>
-<p><b>Disclosing Member Information When Required By&nbsp;Law</b></p>
-<p><b></b><i>EarnTheNecklace.com&nbsp;</i>reserves the right to disclose members’ profile information, including both personally identifiable and non-personally identifiable information, when required to do so by law or at the request of a trusted third party. You also acknowledge and consent that we can disclose the information you provide in your profile if we, in our sole discretion, believe that this disclosure is (1) in compliance with federal, state, municipal, and/or any other legal regulations, including requests from representatives of law enforcement, or any other legal process (regardless of whether or not disclosure is required by the applicable law); (2) defend or safeguard&nbsp;<i>EarnTheNecklace.com</i>’s, or a third party’s, property or legal rights; or (3) protect the health and safety of you or another person.</p>
-<p><b>Disclosing Member Information to Potential Matches</b></p>
-<p>Our signature matching system is designed to use the information you provide in your profile to detect a compatible match.</p>
-<p>Upon complete registration (including account activation), each user will receive an e-mail containing a list of potential matches with links to view the contents of their profile. If you’re selected as a potential match for another user, your profile may be sent to them for review; however, no contact information will be disclosed.</p>
-<p>Although it is free to become a member of&nbsp;<em>EarnTheNecklace.com</em>, you will be required to pay a fee in order to communicate with other members. Upon consent and payment of the communication fee from both parties,&nbsp;<em>EarnTheNeckalce.com&nbsp;</em>will help to facilitate online communication.</p>
-<p><b>Visitor Information</b></p>
-<p><i>EarnTheNecklace.com&nbsp;</i>collects information on all users, including visitors, such as what pages and services are used and accessed most frequently. This data is used collectively and anonymously. We use this information to help determine what our users prefer and to develop and promote an improved overall user experience. On occasion, we may ask visitors questions regarding their experience with the web site (e.g. likes, dislikes, suggestions, etc.) in order to make improvements where necessary.</p>
-<p>We may share this type of data with our partners, but only as a collective, so that they can gain a better understanding of how visitors use and interact with&nbsp;<i>EarnTheNecklace.com</i>.</p>
-<p><b>Profile Information</b></p>
-<p>As a member,&nbsp;<i>EarnTheNecklace.com&nbsp;</i>allows you to change your personal information and profile settings at any time by logging on using the e-mail address you signed up with and the password you created.</p>
-<p><b>Financial Information</b></p>
-<p>In some circumstances, we may ask you for specific supplementary information, including but not limited to financial information like your name, mailing address, and other information required to bill for service and product use. When purchasing something on the web site, or if you engage in any transaction that requires financial information, you automatically give&nbsp;<i>EarnTheNecklace.com</i>&nbsp;consent to provide your financial information to our service providers and third parties (e.g. credit card company, data processing company, banking institution) that we determine are necessary to support activity and process online transactions. You also consent to us providing your financial information to your credit card issuer.</p>
-<p><b>Communication</b></p>
-<p>A valid e-mail address is required for registration. This e-mail address will be used as a primary means of communication with you. You will receive e-mails for transactional messages (e.g. registration/payment confirmation, account processing, notifications about potential matches, etc.), administrative messages (e.g. web site changes, policy changes, etc.), and promotional messages (e.g. e-letters, new product/service offers, discount opportunities, etc.).</p>
-<p>E-mail messages you receive from&nbsp;<i>EarnTheNecklace.com&nbsp;</i>may include codes that enable us to track if the message was opened and what links were clicked on.</p>
-<p>On occasion, we may share your e-mail address with carefully selected, trusted third parties that have special offers, goods, and services that our users may be interested in. To opt out of receiving any promotional messages, e-mail us at&nbsp;<a target="_blank" href="mailto:dating@earnthenecklace.com">dating@earnthenecklace.com</a>.</p>
-<p><i>EarnTheNecklace.com&nbsp;</i>complies fully with all of the requirements outlined in the U.S. <span class="caps">CAN-SPAM</span> Act.</p>
-<p><b>Surveys</b></p>
-<p>On occasion,&nbsp;<i>EarnTheNecklace.com&nbsp;</i>may conduct voluntary online surveys for our members. While it is not mandatory for members to participate in these surveys, doing so will help us to better understand how we can improve our web site and services. All survey responses will be anonymous and not linked to any of your personally identifiable information.</p>
-<p><b>Third Parties</b></p>
-<p><i>EarnTheNecklace.com</i>&nbsp;may hire other companies and/or individuals to perform certain services or functions on our behalf, such as hosting web servers, studying data, marketing initiatives, credit card processing, customer service, technology assistance, and various other services. These companies and/or individuals might have access to some of your personal information, but only to the extent that is necessary for performing their required functions, and they are restricted from sharing this information with any other third party without our knowledge and written authorization. Our Privacy Policy does not apply to any linked or third party sites. We are also not responsible for indemnification against actions of third parties. We advise you to read all third party privacy policies.</p>
-<p><b>Online Transactions</b></p>
-<p>At this time, all payments to&nbsp;<i>EarnTheNecklace.com&nbsp;</i>must be made online through&nbsp;<i>EarnTheNecklace.com</i>. All of the information you provide for these online transactions, including your credit card information and personal details, are protected with <span class="caps">SSL</span> encryption software before it is transmitted over the Internet. While we cannot guarantee that encryption of private details cannot be breached, the <span class="caps">SSL</span> encryption we use makes it incredibly difficult for any information to be stolen or intercepted during transfer.</p>
-<p>All online transactions for&nbsp;<i>EarnTheNecklace.com</i>&nbsp;are processed by a trusted third party. All of the information sent for payment processing to this third party is also protected by <span class="caps">SSL</span> encryption.</p>
-<p><b>Data Retention</b></p>
-<p>We understand that your relationship status may change after registering for our services; we will deem your profile active for continued service until we receive confirmation&nbsp;from you to deactivate your membership. However, we may keep your deactivated profile on file in order to abide by laws, maintain accurate records, resolve disputes and disagreements, prevent fraud, enforce our Privacy Policy and/or Terms of Use, and for any further legally permissible reasons.</p>
-<p><b>Accounts Payable</b></p>
-<p>It is up to you to ensure that your payments go through and that your account is in good standing. However, if you have an unpaid balance or if you dispute an already agreed upon payment to us with your credit card or any financial institution for any reason, we reserve the right to relay all your activity on&nbsp;<i>EarnTheNecklace.com</i>&nbsp;to the financial institution and/or collections agency of our choice. This is for the purpose of establishing proof of use, proof of account/identity, proof of provided service, and/or to collect any and all outstanding debt owed to&nbsp;<i>EarnTheNecklace.com</i>.</p>
-<p><b>Class Action</b></p>
-<p>To the extent that is permitted by law, you agree to not participate in or bring in any class action toward any claim, controversy, or disagreement you may encounter with&nbsp;<i>EarnTheNecklace.com</i>&nbsp;or any of its directors, employees, assignees, and/or servicers. This agreement does not prohibit you from waiving your rights to pursue an individual claim that is not part of a class action in binding arbitration as noted above. This agreement to not initiate or participate in any class action suits against&nbsp;<i>EarnTheNecklace.com&nbsp;</i>is an independent agreement that is applicable to the end of your membership.</p>
-<p><b>Business Sale</b></p>
-<p>In the event that&nbsp;<i>EarnTheNecklace.com&nbsp;</i>sells or acquires assets, your information may be included in the transaction, depending on the nature of the business transaction. For example, if&nbsp;<i>EarnTheNecklace.com&nbsp;</i>is acquired by another company, that company will acquire all of your personally identifiable and non-personally identifiable information as part of the acquisition. If this occurs, you will be made aware of the changes with regards to how your personal information is being collected and handled.</p>
-<p><b>Policy Changes</b></p>
-<p>Our Privacy Policy was last updated and posted in October 2014. As part of your consideration to access our web site and information, and since our Terms of Use and Privacy Policy may change based on new laws, regulations, and technological advances, you promise to take it upon yourself to regularly review our Terms of Use and Privacy Policy for any updates and/or changes.</p>
-<p><b>Contact</b></p>
-<p>To contact&nbsp;<i>EarnTheNecklace.com</i>, e-mail us at&nbsp;<a target="_blank" href="mailto:dating@earnthenecklace.com">dating@earnthenecklace.com</a>. You can also contact us by mail at the following address:</p>
-<p>EarnTheNecklace.com<br>
-1371 <span class="caps">SW</span> 8th St., Unit #1<br>
-Pompano Beach, <span class="caps">FL</span> 33069–4524</p>
-  
-    </div>
-    <div class="container" style=" margin:0 auto; margin-top: 0px; padding:0">
-        <div style="width:auto;">
-        
-<div class="footer-copy">
-    
-       
-    
-     <ul class="foot">  
-            
-                 
-       
-                <li><a target="_blank" href="http://www.earnthenecklace.com/about-us/">About Us</a></li>  
-            
-               
-       
-                <li><a target="_blank" href="http://www.earnthenecklace.com/category/from-the-editors/">Editor's Picks</a></li>  
-            
-               
-       
-                <li><a target="_blank" href="http://www.earnthenecklace.com/category/stories/">Real Life Stories</a></li>  
-            
-               
-       
-                <li><a target="_blank" href="http://www.earnthenecklace.com/how-does-etn-dating-work/">How Does It Work?</a></li>  
-            
-               
-       
-                <li><a target="_blank" href="http://www.earnthenecklace.com/faq/">FAQ</a></li>  
-            
-               
-       
-                <li><a target="_blank" href="http://www.earnthenecklace.com/privacy-policy/">Privacy Policy</a></li>  
-            
-               
-       
-                <li><a target="_blank" href="http://www.earnthenecklace.com/terms-of-use/">Terms</a></li>  
-            
-               
-       
-                <li><a target="_blank" href="http://www.earnthenecklace.com/contact-us/">Contact Us</a></li>  
-            
-                     
-           </ul>
-           
-      </div>
-    <h5 class="text-danger" style="text-align: center; font-size: 12px; margin-top:10px">Copyright ©2014 - EarnTheNecklace.com</h5>
-    <h5 class="text-default" style="text-align: center; font-size: 12px; margin-top:5px">Site Powered By Numero Uno Web Solutions</h5>
-</div>  
-    
-    </div>
-</div>
-    
+<!-- JS -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+<script type="text/javascript" src="http://www.earnthenecklace.com/wp-content/themes/etnnews/js/libs/bootstrap.min.js"></script>
+
+
+
+<!-- Taboola Integration Code -->
+	<script type="text/javascript">
+  		window._taboola = window._taboola || [];
+  		_taboola.push({article:'auto'});
+  		!function (e, f, u) {
+    	e.async = 1;
+    	e.src = u;
+    	f.parentNode.insertBefore(e, f);
+  		}(document.createElement('script'),
+  		document.getElementsByTagName('script')[0],
+  		'http://cdn.taboola.com/libtrc/earnthenecklace2/loader.js');
+	</script>
+
+<!-- Taboola Integration Code Ends -->
+
+
+<!-- Google Analytics -->
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga'); 
+
+  ga('create', 'UA-39029798-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+<!-- Google Code for ETN Re-M Tag -->
+<!-- Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. For instructions on adding this tag and more information on the above requirements, read the setup guide: google.com/ads/remarketingsetup -->
 <script type="text/javascript">
 /* <![CDATA[ */
 var google_conversion_id = 983568388;
@@ -461,55 +230,490 @@ var google_remarketing_only = true;
 </script>
 <noscript>
 <div style="display:inline;">
-<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/983568388/?value=1.000000&amp;label=Sef_CPyRsAUQhKCA1QM&amp;guid=ON&amp;script=0"/>
-</div>
-</noscript>    
-    
-<script type="text/javascript">
-adroll_adv_id = "ZBSKJZV7UFGFNOW7K5DFPI";
-adroll_pix_id = "YIKXFG65TRCHFG6YNYXZ26";
-(function () {
-var oldonload = window.onload;
-window.onload = function(){
-   __adroll_loaded=true;
-   var scr = document.createElement("script");
-   var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com");
-   scr.setAttribute('async', 'true');
-   scr.type = "text/javascript";
-   scr.src = host + "/j/roundtrip.js";
-   ((document.getElementsByTagName('head') || [null])[0] ||
-    document.getElementsByTagName('script')[0].parentNode).appendChild(scr);
-   if(oldonload){oldonload()}};
-}());
-</script>
-
- <script type="text/javascript">
-setTimeout(function(){var a=document.createElement("script");
-var b=document.getElementsByTagName("script")[0];
-a.src=document.location.protocol+"//dnn506yrbagrg.cloudfront.net/pages/scripts/0026/0240.js?"+Math.floor(new Date().getTime()/3600000);
-a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
-</script>
-
-<!-- Google Code for Remarketing Tag -->
-<!--------------------------------------------------
-Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. See more information and instructions on how to setup the tag on: http://google.com/ads/remarketingsetup
---------------------------------------------------->
-<script type="text/javascript">
-/* <![CDATA[ */
-var google_conversion_id = 983568388;
-var google_custom_params = window.google_tag_params;
-var google_remarketing_only = true;
-/* ]]> */
-</script>
-<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
-</script>
-<noscript>
-<div style="display:inline;">
-<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/983568388/?value=0&amp;guid=ON&amp;script=0"/>
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/983568388/?value=1.00&amp;currency_code=CAD&amp;label=Sef_CPyRsAUQhKCA1QM&amp;guid=ON&amp;script=0"/>
 </div>
 </noscript>
-   
-    
 
+<!--BEGIN FIRSTIMPRESSION TAG -->
+<script data-cfasync="false" type="text/javascript">
+	window.apd_options = { 'websiteId': 5624, 'runFromFrame': false };
+	(function() {
+		var w = window.apd_options.runFromFrame ? window.top : window;
+		if(window.apd_options.runFromFrame && w!=window.parent) w=window.parent;
+		if (w.location.hash.indexOf('apdAdmin') != -1){if(typeof(Storage) !== 'undefined') {w.localStorage.apdAdmin = 1;}}
+		var adminMode = ((typeof(Storage) == 'undefined') || (w.localStorage.apdAdmin == 1));
+		w.apd_options=window.apd_options;
+		var apd = w.document.createElement('script'); apd.type = 'text/javascript'; apd.async = true;
+		apd.src = '//' + (adminMode ? 'cdn' : 'ecdn') + '.firstimpression.io/' + (adminMode ? 'apd.js?id=' + window.apd_options.websiteId : 'apd_client.js') ;
+		var s = w.document.getElementsByTagName('head')[0]; s.appendChild(apd);
+	})();</script><script type="text/javascript" async="" src="//ecdn.firstimpression.io/apd_client.js"></script>
+<!-- END FIRSTIMPRESSION TAG -->
+
+
+<meta name="p:domain_verify" content="cac1cffab8d1804b7a2ad88342175048">
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-PVKGQD"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-PVKGQD');</script>
+<!-- End Google Tag Manager -->
+
+
+<!-- Facebook Pixel Code -->
+<script>
+!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+document,'script','//connect.facebook.net/en_US/fbevents.js');
+
+fbq('init', '901292233234596');
+fbq('track', "PageView");</script>
+<noscript><img height="1" width="1" style="display:none"
+src="https://www.facebook.com/tr?id=901292233234596&ev=PageView&noscript=1"
+/></noscript>
+<!-- End Facebook Pixel Code -->
+
+
+
+
+
+<script async="" type="text/javascript" src="//earnthenecklace.disqus.com/count.js"></script></head>
+<body class="page page-id-9775 page-template-default">
+<div class="container">
+<header id="header">
+
+	<!-- Celebrity News Header -->
+	<div class="row text-center" id="cn-header">
+		<h1>Real Celebrity News</h1>
+	</div>
+
+	<div class="clearfix"></div>
+
+	
+	<!-- ETN Logo -->
+	<div class="col-lg-3" id="logo">
+		<a href="http://www.earnthenecklace.com"><img src="http://www.earnthenecklace.com/wp-content/themes/etnnews/images/etnnews-logo.jpg" class="img-responsive"></a>
+	</div>
+
+	<!-- Main Menu -->
+	<div class="col-md-9 col-lg-7" id="navbar">
+		<nav>
+			<div class="menu-etnnews-menu-container"><ul id="menu-etnnews-menu" class="menu"><li id="menu-item-12532" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12532"><a href="http://www.earnthenecklace.com/">Home</a></li>
+<li id="menu-item-14722" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-14722"><a href="/tag/news/">News</a></li>
+<li id="menu-item-15250" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-15250"><a href="#">Authors</a>
+<ul class="sub-menu">
+	<li id="menu-item-15251" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-15251"><a href="/author/elena">Elena Nicosia</a></li>
+	<li id="menu-item-15252" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-15252"><a href="/author/aileen">Aileen Cullen</a></li>
+	<li id="menu-item-15253" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-15253"><a href="/author/michela">Michela Lombardi</a></li>
+	<li id="menu-item-15254" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-15254"><a href="/author/amanda">Amanda Cabral</a></li>
+</ul>
+</li>
+<li id="menu-item-12692" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-12692"><a href="http://www.earnthenecklace.com/category/hollywood/">Hollywood</a></li>
+<li id="menu-item-12693" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-12693"><a href="http://www.earnthenecklace.com/category/sports/">Sports</a></li>
+<li id="menu-item-12698" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-12698"><a href="http://www.earnthenecklace.com/category/music/">Music</a></li>
+<li id="menu-item-12701" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-12701"><a href="http://www.earnthenecklace.com/category/finance/">Finance</a></li>
+<li id="menu-item-12702" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-12702"><a href="http://www.earnthenecklace.com/category/politics/">Politics</a></li>
+</ul></div>		</nav>
+	</div>
+
+	<!-- Search -->
+	<div class="col-md-3 col-lg-2" id="search">
+		<form role="search" method="get" id="searchform" class="searchform" action="http://www.earnthenecklace.com/">
+			<input type="text" class="form-control" id="s" name="s" placeholder="Search...">
+			<input type="image" src="http://www.earnthenecklace.com/wp-content/themes/etnnews/images/search-icon.png">
+		</form>
+	</div>			
+	
+	<div class="clearfix"></div>	
+
+	<!-- Google Adsense -->
+
+		<div class="col-sm-12" style="margin: 15px auto">
+			<script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+			<!-- ETN Nov Below Nav -->
+			<ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6451955479551486" data-ad-slot="8593802051" data-ad-format="auto"></ins>
+			<script>
+			(adsbygoogle = window.adsbygoogle || []).push({});
+			</script>
+		</div>
+
+	<!-- Google Adsense -->
+	
+	<!--<div class="separator clearfix" style="margin-bottom: 0px;"></div>
+
+	<div class="col-sm-12" id="newsticker">
+		<iframe src="http://www.earnthenecklace.com/newsticker" style="width:100%" id="iframe_ticker" scrolling="no"></iframe>
+	</div> -->
+
+	<div class="separator clearfix"></div>
+</header>
+<!-- Main Content -->
+
+<div class="col-md-8 site-content" id="main-content">
+			<article id="post-9775" class="post-9775 page type-page status-publish hentry">
+			<h1 class="title">Privacy Policy</h1>
+		
+						<h3 align="center"><span class="caps">IMPORTANT</span>: <span class="caps">PLEASE</span> <span class="caps">READ</span></h3>
+<p>This policy covers the privacy practices of&nbsp;<i>EarnTheNecklace.com</i>&nbsp;and all web sites owned or operated by&nbsp;<i>EarnTheNecklace.com</i>&nbsp;and its subsidiaries. This privacy policy also covers our treatment of any personally identifiable information from any of our business partners.</p>
+<p>The&nbsp;<em>EarnTheNecklace.com</em>&nbsp;web site requires consideration from the user for and as a condition of your access. By reading and accepting our Privacy Policy and Terms of Use, you are granting us consideration for the right to view our web site and our information.</p>
+<p><span class="caps">WARNING</span>: You are denied access to our web site unless you read our Terms of Use and Privacy Policy.</p>
+<p><span class="caps">USE</span> <span class="amp">&amp;</span> <span class="caps">COPYRIGHTS</span>: Contents Copyright <span style="color: #7a7a7a;"><span style="color: #000000;">©</span>&nbsp;</span>2015. You are prohibited from copying, saving, printing, selling, hyperlinking, using our <span class="caps">URL</span>, or reproducing, in any manner whatsoever, any of the information on&nbsp;<i>EarnTheNecklace.com</i>. You may not use our web site or information for any illegal use. All of our content is copyrighted.</p>
+<p><span class="caps">CONTENT</span> <span class="caps">DISCLAIMER</span>: Editorial information contained on&nbsp;<i>EarnTheNecklace.com</i>&nbsp;is not guaranteed as accurate. We make no warranty as to the suitability of content. Persons under the age of 18 are denied access to our web site and services. Any information from users and/or members who we believe are below the age of 18 will be immediately expelled from any and all of our databases.</p>
+<p>By viewing our content and registering for any of our services, you waive all rights to claims of damages arising from the use of our web site and/or our information. By viewing our content, you indemnify and hold us harmless from and against any and all claims.</p>
+<p><span class="caps">OTHER</span>: We reserve the right to deny access to our web site or our information to any person for any reason.</p>
+<p><b>Our Privacy Guarantee</b></p>
+<p>Your privacy is extremely important to us. All of the personal information you submit to&nbsp;<i>EarnTheNecklace.com</i>&nbsp;is kept strictly confidential and will only be used by&nbsp;<i>EarnTheNecklace.com</i>. Your personal information will never be rented, given, or sold to any third parties without your consent.</p>
+<p>We understand the importance of privacy online and have taken the appropriate steps to ensure that the information you provide to us is protected. We will use our absolute best efforts to ensure that the information you provide to<i>&nbsp;EarnTheNecklace.com&nbsp;</i>will only be used for the purposes set forth herein.</p>
+<p>Although we use top precautions to keep all personal information secure, we are not legally responsible for any breaches of security that may&nbsp;occur.</p>
+<p><b>How Information Is Collected and&nbsp;Used</b></p>
+<p><span style="text-decoration: underline;">Delivery:</span>&nbsp;Some of your personal information that you provide to us (e.g. your name, address, and/or e-mail address) may be&nbsp;used for delivery purposes. From time to time, we may send you details regarding special offers and exclusive member opportunities. If you would like to opt-out of receiving notice of special offers, exclusive member opportunities, and other messages, e-mail us at&nbsp;<a href="mailto:bianca@earnthenecklace.com">bianca@earnthenecklace.com</a>.</p>
+<p><span style="text-decoration: underline;">Tracking:</span>&nbsp;Any time you visit&nbsp;<i>EarnTheNecklace.com</i>, our servers will automatically record information gathered from your browser, like your <span class="caps">IP</span> address, browser type, Internet service provider, exit pages, referring pages, date/time stamp, time spent on each page, and number of clicks. We use this information to customize your user experience by personalizing content, appropriately fulfilling your service requests, informing you of updates to the web site and our services that may be of relevance to you, and letting you know about any new offers that you might be interested in. In the future, we may implement newer tracking technologies to monitor visitor activity on&nbsp;<i>EarnTheNecklace.com</i>. The Privacy Policy will be updated to reflect any changes pertaining to how visitor and/or user activity is tracked.</p>
+<p><span style="text-decoration: underline;">Browser Information:</span>&nbsp;Browser information will also be used by&nbsp;<i>EarnTheNecklace.com&nbsp;</i>to analyze user trends, efficiently administer the web site, prevent and stop fraudulent behavior, and collect information about our overall demographic. This tracking information may be shared with our partners, but only as a collective. Information on your individual visits will not be shared externally without your consent, unless we are required to by law, or to protect&nbsp;<i>EarnTheNecklace.com</i>, other members, or anyone else who may be at&nbsp;risk.</p>
+<p><span style="text-decoration: underline;">Cookies:</span>&nbsp;To further enhance the user experience and improve member access,&nbsp;<i>EarnTheNecklace.com&nbsp;</i>uses cookies, which are small text files that a web browser stores on the hard drive of your computer. These cookies are used to recall user preferences and track visits to&nbsp;<i>EarnTheNecklace</i>.com so that we can better understand your behavior on the web site to deliver online services with a more customized user experience. These cookies also track the number of visitors on the site, separating new and repeat visitors, so that we can plan for future development. Our cookies can only be read by our servers, and cannot execute any viruses or code. You are able to set your browser to disable cookies, however, doing this means you won’t be able to log on to your profile or use any of the member services available on&nbsp;<i>EarnTheNecklace.com</i>. We cannot ensure that the web site will function properly without cookies, and you therefore assume full responsibility for reduced functionality should you set your browser to reject these cookies.</p>
+<p><span style="text-decoration: underline;">Mobile Analytics:</span>&nbsp;As part of our analytics,&nbsp;<i>EarnTheNecklace.com&nbsp;</i>uses software for mobile analytics as well, which enables us to get a better understanding of how the site functions on mobile devices. This mobile analytics software may track information like how you interact with the site on your mobile device, events that may occur during your mobile session on the site, performance data, and aggregate behavior. The mobile tracking information we collect may be shared with our partners, but only as a collective. Information on your individual visits will not be shared externally without your consent, unless we are required to by law, or to protect&nbsp;<i>EarnTheNecklace.com</i>, other members, or anyone else who may be at&nbsp;risk.</p>
+<p><b>Disclosing Member Information When Required By&nbsp;Law</b></p>
+<p><b></b><i>EarnTheNecklace.com&nbsp;</i>reserves the right to disclose users’ profile information, including both personally identifiable and non-personally identifiable information, when required to do so by law or at the request of a trusted third party. You also acknowledge and consent that we can disclose any&nbsp;information you provide if we, in our sole discretion, believe that this disclosure is (1) in compliance with federal, state, municipal, and/or any other legal regulations, including requests from representatives of law enforcement, or any other legal process (regardless of whether or not disclosure is required by the applicable law); (2) defend or safeguard&nbsp;<i>EarnTheNecklace.com</i>’s, or a third party’s, property or legal rights; or (3) protect the health and safety of you or another person.</p>
+<p><b>Visitor Information</b></p>
+<p><i>EarnTheNecklace.com&nbsp;</i>collects information on all users, such as what pages and services are used and accessed most frequently. This data is used collectively and anonymously. We use this information to help determine what our users prefer and to develop and promote an improved overall user experience. On occasion, we may ask visitors questions regarding their experience with the web site (e.g. likes, dislikes, suggestions, etc.) in order to make improvements where necessary.</p>
+<p>We may share this type of data with our partners, but only as a collective, so that they can gain a better understanding of how visitors use and interact with&nbsp;<i>EarnTheNecklace.com</i>.</p>
+<p><b>Communication</b></p>
+<p>A valid e-mail address is required for registration for any current or future services. This e-mail address will be used as a primary means of communication with you. You will receive e-mails for administrative messages (e.g. web site changes, policy changes, etc.) and promotional messages (e.g. e-letters, new product/service offers, discount opportunities, etc.).</p>
+<p>E-mail messages you receive from&nbsp;<i>EarnTheNecklace.com&nbsp;</i>may include codes that enable us to track if the message was opened and what links were clicked on.</p>
+<p>On occasion, we may share your e-mail address with carefully selected, trusted third parties that have special offers, goods, and services that our users may be interested in. To opt out of receiving any promotional messages, e-mail us at&nbsp;<a href="mailto:bianca@earnthenecklace.com">bianca@earnthenecklace.com</a>.</p>
+<p><i>EarnTheNecklace.com&nbsp;</i>complies fully with all of the requirements outlined in the U.S. <span class="caps">CAN-SPAM</span> Act.</p>
+<p><b>Surveys</b></p>
+<p>On occasion,&nbsp;<i>EarnTheNecklace.com&nbsp;</i>may conduct voluntary online surveys for our users. While it is not mandatory for members to participate in these surveys, doing so will help us to better understand how we can improve our web site and services. All survey responses will be anonymous and not linked to any of your personally identifiable information.</p>
+<p><b>Third Parties</b></p>
+<p><i>EarnTheNecklace.com</i>&nbsp;may hire other companies and/or individuals to perform certain services or functions on our behalf, such as hosting web servers, studying data, marketing initiatives, customer service, technology assistance, and various other services. These companies and/or individuals might have access to some of your personal information, but only to the extent that is necessary for performing their required functions, and they are restricted from sharing this information with any other third party without our knowledge and written authorization. Our Privacy Policy does not apply to any linked or third party sites. We are also not responsible for indemnification against actions of third parties. We advise you to read all third party privacy policies.</p>
+<p>&nbsp;</p>
+<p><b>Class Action</b></p>
+<p>To the extent that is permitted by law, you agree to not participate in or bring in any class action toward any claim, controversy, or disagreement you may encounter with&nbsp;<i>EarnTheNecklace.com</i>&nbsp;or any of its directors, employees, assignees, and/or servicers. This agreement does not prohibit you from waiving your rights to pursue an individual claim that is not part of a class action in binding arbitration as noted above. This agreement to not initiate or participate in any class action suits against&nbsp;<i>EarnTheNecklace.com&nbsp;</i>is an independent agreement.</p>
+<p><b>Business Sale</b></p>
+<p>In the event that&nbsp;<i>EarnTheNecklace.com&nbsp;</i>sells or acquires assets, your information may be included in the transaction, depending on the nature of the business transaction. For example, if&nbsp;<i>EarnTheNecklace.com&nbsp;</i>is acquired by another company, that company will acquire all of your personally identifiable and non-personally identifiable information as part of the acquisition. If this occurs, you will be made aware of the changes with regards to how your personal information is being collected and handled.</p>
+<p><b>Policy Changes</b></p>
+<p>Our Privacy Policy was last updated and posted in August&nbsp;2015. As part of your consideration to access our web site and information, and since our Terms of Use and Privacy Policy may change based on new laws, regulations, and technological advances, you promise to take it upon yourself to regularly review our Terms of Use and Privacy Policy for any updates and/or changes.</p>
+<p><b>Contact</b></p>
+<p>To contact&nbsp;<i>EarnTheNecklace.com</i>, e-mail us at&nbsp;<a href="mailto:bianca@earnthenecklace.com">bianca@earnthenecklace.com</a>. You can also contact us by mail at the following address:</p>
+<p>EarnTheNecklace.com<br>
+1371 <span class="caps">SW</span> 8th St., Unit #1<br>
+Pompano Beach, <span class="caps">FL</span> 33069–4524</p>
+		</article>
+	
+<div class="clearfix"></div>
+</div>
+
+<div class="col-md-4">	
+    <aside id="sidebar" role="complementary" class="hidden-xs">
+<div id="primary" class="widget-area">
+<ul class="xoxo">
+<li id="text-16" class="widget-container widget_text">			<div class="textwidget"><!-- Social -->
+	<h2 class="title"><span>Be Social</span></h2>
+		<div class="row">
+			<div class="col-xs-4 social">
+				<a href="https://www.facebook.com/earnthenecklace" target="_blank">
+					<div class="icon facebook">
+						<i class="fa fa-2x fa-facebook"></i>
+					</div>
+				</a>
+				<div class="fans">
+					<span>42441</span>
+					Facebook Fans
+				</div>
+			</div>
+			<div class="col-xs-4 social">
+				<a href="https://twitter.com/intent/user?screen_name=earnthenecklace" target="_blank">
+					<div class="icon twitter">
+						<i class="fa fa-2x fa-twitter"></i>
+					</div>
+				</a>
+				<div class="fans">
+					<span>108</span>
+					Twitter Fans
+				</div>
+			</div>
+			<div class="col-xs-4 social fb">
+				<a href="http://www.earnthenecklace.com/feed" target="_blank">
+					<div class="icon rss">
+						<i class="fa fa-2x fa-rss"></i>
+					</div>
+				</a>
+				<div class="fans">
+					<span style="font-size: 1em"><span class="caps">RSS</span></span>
+					Subscribe
+				</div>
+			</div>
+		</div></div>
+		</li><li id="text-20" class="widget-container widget_text">			<div class="textwidget"><!-- Most Read -->
+	<h2 class="title"><span>Most Read</span></h2>
+		<div class="row">
+			<div class="col-xs-12"><ul id="most-read"><li class="clearfix"><a href="http://www.earnthenecklace.com/gabrielle-unions-secret-for-looking-young-and-fresh-is-so-easy-youll-be-kicking-yourself-for-not-starting-sooner/"><img width="100" height="100" src="http://www.earnthenecklace.com/wp-content/uploads/2015/11/112315_GabrielleUnion-300x300.jpg" class="img-responsive wp-post-image" alt="Gabrielle Union beauty secret water"></a><a href="http://www.earnthenecklace.com/gabrielle-unions-secret-for-looking-young-and-fresh-is-so-easy-youll-be-kicking-yourself-for-not-starting-sooner/">Gabrielle Union’s Secret for Looking Young and Fresh Is So Easy You’ll Be   Kicking Yourself for Not Starting Sooner</a></li><li class="clearfix"><a href="http://www.earnthenecklace.com/flo-outdone-at-his-own-concert/"><img width="100" height="100" src="http://www.earnthenecklace.com/wp-content/uploads/2015/11/FloRida-300x300.jpg" class="img-responsive wp-post-image" alt="FloRida"></a><a href="http://www.earnthenecklace.com/flo-outdone-at-his-own-concert/">This Sign Language Interpreter at a Flo Rida Concert Totally Stole the Show—Watch the Incredible Video!</a></li><li class="clearfix"><a href="http://www.earnthenecklace.com/ed-sheeran-shares-sneak-peek-from-new-bridget-jones-movie/"><img width="100" height="100" src="http://www.earnthenecklace.com/wp-content/uploads/2015/11/Ed-Sheeran-300x300.jpg" class="img-responsive wp-post-image" alt="Ed Sheeran"></a><a href="http://www.earnthenecklace.com/ed-sheeran-shares-sneak-peek-from-new-bridget-jones-movie/">Ed Sheeran Just Confirmed What All His Fans Have Been Waiting to Hear…and the News Is&nbsp;Huge!</a></li><li class="clearfix"><a href="http://www.earnthenecklace.com/can-you-guess-what-tyler-perry-hopes-to-achieve-next/"><img width="100" height="100" src="http://www.earnthenecklace.com/wp-content/uploads/2015/11/Tyler-Perry1-300x300.jpg" class="img-responsive wp-post-image" alt="Tyler Perry oscar new goal"></a><a href="http://www.earnthenecklace.com/can-you-guess-what-tyler-perry-hopes-to-achieve-next/">Can You Guess What Tyler Perry Hopes to Achieve Next?</a></li><li class="clearfix"><a href="http://www.earnthenecklace.com/these-homes-are-so-expensive-and-over-the-top-that-only-the-biggest-celebrities-can-afford-them/"><img width="100" height="100" src="http://www.earnthenecklace.com/wp-content/uploads/2015/11/Celebrity-Homes-300x300.jpg" class="img-responsive wp-post-image" alt="Most Unbelievable Celeb Homes"></a><a href="http://www.earnthenecklace.com/these-homes-are-so-expensive-and-over-the-top-that-only-the-biggest-celebrities-can-afford-them/">These Homes Are So Expensive and Over the Top That Only the Biggest Celebrities Can Afford Them</a></li></ul></div>
+		</div></div>
+		</li><li id="text-12" class="widget-container widget_text">			<div class="textwidget"><!-- Poll -->
+<h2 class="title"><span>Poll</span></h2>
+<div id="polls-128" class="wp-polls">
+	<form id="polls_form_128" class="wp-polls-form" action="/index.php" method="post">
+		<p style="display: none;"><input type="hidden" id="poll_128_nonce" name="wp-polls-nonce" value="7103df8457"></p>
+		<p style="display: none;"><input type="hidden" name="poll_id" value="128"></p>
+		<h2><span>What Do You&nbsp;Think?</span></h2>
+<p class="poll-question">Are you planning to go see the new Batman vs. Superman movie?</p>
+<div id="polls-128-ans" class="wp-polls-ans">
+<ul class="wp-polls-ul">
+		<li><input type="radio" id="poll-answer-330" name="poll_128" value="330"> <label for="poll-answer-330">Yes</label></li>
+		<li><input type="radio" id="poll-answer-331" name="poll_128" value="331"> <label for="poll-answer-331">No</label></li>
+		</ul><p class="poll-btn-p"><input type="button" name="vote" value="   Vote   " class="Buttons-small" onclick="poll_vote(128);">
+<a href="#ViewPollResults" onclick="poll_result(128); return false;" title="View Results Of This Poll" rel="nofollow">View Results</a></p></div>
+	</form>
+</div>
+<div id="polls-128-loading" class="wp-polls-loading"><img src="http://www.earnthenecklace.com/wp-content/plugins/wp-polls/images/loading.gif" width="16" height="16" alt="Loading ..." title="Loading ..." class="wp-polls-image">&nbsp;Loading …</div>
+</div>
+		</li><li id="text-29" class="widget-container widget_text">			<div class="textwidget"><!-- Trending Stories -->
+	<h2 class="title"><span>Trending Stories</span></h2>
+		<div class="row">
+			<div class="col-xs-12"><ul id="most-read"><li class="clearfix"><a href="http://www.earnthenecklace.com/emma-roberts-gina-rodriguez-and-4-other-breakout-tv-stars-of-2015/"><img width="100" height="100" src="http://www.earnthenecklace.com/wp-content/uploads/2015/12/Breakout-TV-Stars-300x300.jpg" class="img-responsive wp-post-image" alt="Breakout TV Stars"></a><a href="http://www.earnthenecklace.com/emma-roberts-gina-rodriguez-and-4-other-breakout-tv-stars-of-2015/">Emma Roberts, Gina Rodriguez, and 4 Other Breakout <span class="caps">TV</span> Stars of&nbsp;2015</a></li><li class="clearfix"><a href="http://www.earnthenecklace.com/the-8-most-shocking-celebrity-breakups-that-happened-in-2015/"><img width="100" height="100" src="http://www.earnthenecklace.com/wp-content/uploads/2015/12/Most-Shocking-Celebrity-Breakups-300x300.jpg" class="img-responsive wp-post-image" alt="Most Shocking Celebrity Breakups"></a><a href="http://www.earnthenecklace.com/the-8-most-shocking-celebrity-breakups-that-happened-in-2015/">The 8 Most Shocking Celebrity Breakups That Happened In&nbsp;2015</a></li><li class="clearfix"><a href="http://www.earnthenecklace.com/these-are-the-12-best-movies-coming-out-in-2016/"><img width="100" height="74" src="http://www.earnthenecklace.com/wp-content/uploads/2015/12/BatmanvSuperman-300x222.jpg" class="img-responsive wp-post-image" alt="BatmanvSuperman"></a><a href="http://www.earnthenecklace.com/these-are-the-12-best-movies-coming-out-in-2016/">These Are the 12 Best Movies Coming Out In&nbsp;2016</a></li><li class="clearfix"><a href="http://www.earnthenecklace.com/celeb-mom-giuliana-rancic-shares-a-classic-pageant-picture-of-her-son/"><img width="100" height="100" src="http://www.earnthenecklace.com/wp-content/uploads/2015/12/Giuliana-Rancic-300x300.jpg" class="img-responsive wp-post-image" alt="169788121VL00082_2013_MISS_"></a><a href="http://www.earnthenecklace.com/celeb-mom-giuliana-rancic-shares-a-classic-pageant-picture-of-her-son/">Celeb Mom Giuliana Rancic Shares a Classic Pageant Picture of Her&nbsp;Son</a></li><li class="clearfix"><a href="http://www.earnthenecklace.com/paris-hilton-selfies-called-out-for-silly-reason/"><img width="100" height="100" src="http://www.earnthenecklace.com/wp-content/uploads/2015/12/Paris-Hilton2-300x300.jpg" class="img-responsive wp-post-image" alt="Paris Hilton Photoshoot"></a><a href="http://www.earnthenecklace.com/paris-hilton-selfies-called-out-for-silly-reason/">Paris Hilton Shares Selfies, Gets Called Out for a Silly Reason</a></li></ul></div>
+		</div></div>
+		</li><li id="text-21" class="widget-container widget_text">			<div class="textwidget"><h2 class="title"><span>From the&nbsp;web</span></h2>
+<div id="taboola-right-rail-thumbnails"></div>
+<script type="text/javascript">
+  window._taboola = window._taboola || [];
+  _taboola.push({
+    mode: 'thumbnails-rr',
+    container: 'taboola-right-rail-thumbnails',
+    placement: 'Right Rail Thumbnails',
+    target_type: 'mix'
+  });
+</script>
+</div>
+		</li><li id="text-30" class="widget-container widget_text">			<div class="textwidget"><a href="http://www.earnthenecklace.com/having-an-affair-with-your-rich-boss-heres-what-happens-when-everyone-finds-out/"><img src="http://www.earnthenecklace.com/wp-content/themes/etnnews/images/ETN_banners_350x250_TaboolaStyle_01.png" class="img-responsive"></a><a href="http://www.earnthenecklace.com/the-ugly-downside-of-sleeping-with-a-man-whos-twice-your-age/"><img src="http://www.earnthenecklace.com/wp-content/themes/etnnews/images/ETN_banners_350x250_TaboolaStyle_02.png" class="img-responsive"></a></div>
+		</li><li id="text-28" class="widget-container widget_text">			<div class="textwidget"></div>
+		</li></ul>
+</div>
+
+
+</aside>			
+</div>
+
+<div class="clearfix"></div>
+<footer id="footer" class="row">		
+	<div class="col-xs-12">
+		<div class="menu-etnnews-footer-container"><ul id="menu-etnnews-footer" class="menu"><li id="menu-item-12768" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12768"><a href="http://www.earnthenecklace.com/">Home</a></li>
+<li id="menu-item-14720" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-14720"><a href="/tag/news/">News</a></li>
+<li id="menu-item-13228" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13228"><a href="http://www.earnthenecklace.com/about-us/">About Us</a></li>
+<li id="menu-item-12773" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-12773"><a href="http://www.earnthenecklace.com/category/hollywood/">Hollywood</a></li>
+<li id="menu-item-12774" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-12774"><a href="http://www.earnthenecklace.com/category/sports/">Sports</a></li>
+<li id="menu-item-12775" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-12775"><a href="http://www.earnthenecklace.com/category/music/">Music</a></li>
+<li id="menu-item-12776" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-12776"><a href="http://www.earnthenecklace.com/category/finance/">Finance</a></li>
+<li id="menu-item-12777" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-12777"><a href="http://www.earnthenecklace.com/category/politics/">Politics</a></li>
+<li id="menu-item-12780" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12780"><a href="http://www.earnthenecklace.com/contact-us/">Media Inquiries</a></li>
+<li id="menu-item-12781" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-9775 current_page_item menu-item-12781"><a href="http://www.earnthenecklace.com/privacy-policy/">Privacy Policy</a></li>
+<li id="menu-item-12782" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12782"><a href="http://www.earnthenecklace.com/disclaimer/">Disclaimer</a></li>
+<li id="menu-item-12783" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12783"><a href="http://www.earnthenecklace.com/contact-us/">Contact Us</a></li>
+</ul></div>		<!--<div class="col-sm-6 col-md-2">
+			<div class="title">About Us</div>
+					</div>
+
+		<div class="col-sm-6 col-md-2">
+			<div class="title">Trending Topics</div>
+					</div>
+
+		<div class="clearfix visible-sm"></div>
+
+		<div class="col-sm-6 col-md-3">
+			<div class="title">The Writers</div>
+					</div>
+
+		<div class="col-sm-6 col-md-5">
+			<div class="title">What's Hot</div>			
+			<div class="row">
+				<div class="col-md-6">
+									</div>
+
+				<div class="col-md-6">
+									</div>
+			</div>
+		</div>-->
+		<div class="clearfix"></div>			
+	</div>	
+</footer>
+<div id="copyright" class="row text-center">
+	<div class="col-xs-12">
+		Copyright © 2015 - <span>EarnTheNecklace.com</span>
+	</div>
+	<div class="clearfix"></div>
+</div>
+
+</div> <!-- End Main Container -->
+<!-- JS -->
+<script type="text/javascript" src="http://www.earnthenecklace.com/wp-content/themes/etnnews/js/main.min.js"></script>
+<script type="text/javascript" src="http://www.earnthenecklace.com/wp-content/themes/etnnews/js/libs/jquery.lockfixed.min.js"></script>
+
+
+<!-- Taboola -->
+
+<script type="text/javascript">
+  window._taboola = window._taboola || [];
+  _taboola.push({flush: true});
+</script>
+
+<style type="text/css">
+	.trc_rbox_header {
+		display: none !important;
+	}
+
+	.ism_item {
+		padding: 3px 55px !important;		
+	}
+
+	@media (max-width:1200px) {
+		.ism_item {
+			padding: 3px 45px !important;		
+		}		
+	}
+
+	.fa-ism {
+		font-size: 25px !important;
+	}
+
+	.first-banner-set img, .second-banner-set img {
+		margin-top: 10px;
+	}
+</style>
+
+<!-- Taboola -->
+
+
+
+	<style type="text/css">
+		.second-banner-set { display: none; }
+	</style>
+
+
+
+        <script type="text/javascript">
+
+        // <![CDATA[
+
+        var disqus_shortname = 'earnthenecklace';
+
+        (function () {
+
+            var nodes = document.getElementsByTagName('span');
+
+            for (var i = 0, url; i < nodes.length; i++) {
+
+                if (nodes[i].className.indexOf('dsq-postid') != -1) {
+
+                    nodes[i].parentNode.setAttribute('data-disqus-identifier', nodes[i].getAttribute('data-dsqidentifier'));
+
+                    url = nodes[i].parentNode.href.split('#', 1);
+
+                    if (url.length == 1) { url = url[0]; }
+
+                    else { url = url[1]; }
+
+                    nodes[i].parentNode.href = url + '#disqus_thread';
+
+                }
+
+            }
+
+            var s = document.createElement('script'); 
+
+            s.async = true;
+
+            s.type = 'text/javascript';
+
+            s.src = '//' + disqus_shortname + '.disqus.com/count.js';
+
+            (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
+
+        }());
+
+        // ]]>
+
+        </script>
+
+        <script type="text/javascript">
+/* <![CDATA[ */
+var alm_localize = {"ajaxurl":"http:\/\/www.earnthenecklace.com\/wp-admin\/admin-ajax.php","alm_nonce":"f34d0f94b7","pluginurl":"http:\/\/www.earnthenecklace.com\/wp-content\/plugins\/ajax-load-more","scrolltop":"false"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://www.earnthenecklace.com/wp-content/plugins/ajax-load-more/core/js/ajax-load-more.min.js?ver=1.1"></script>
+<script type="text/javascript" src="http://www.earnthenecklace.com/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?ver=3.51.0-2014.06.20"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var _wpcf7 = {"loaderUrl":"http:\/\/www.earnthenecklace.com\/wp-content\/plugins\/contact-form-7\/images\/ajax-loader.gif","sending":"Sending ..."};
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://www.earnthenecklace.com/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=4.2.2"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var pollsL10n = {"ajax_url":"http:\/\/www.earnthenecklace.com\/wp-admin\/admin-ajax.php","text_wait":"Your last request is still being processed. Please wait a while ...","text_valid":"Please choose a valid poll answer.","text_multiple":"Maximum number of choices allowed: ","show_loading":"1","show_fading":"1"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://www.earnthenecklace.com/wp-content/plugins/wp-polls/polls-js.js?ver=2.69"></script>
+		<div id="wprmenu_bar" class="wprmenu_bar">
+			<div class="wprmenu_icon">
+				<span class="wprmenu_ic_1"></span>
+				<span class="wprmenu_ic_2"></span>
+				<span class="wprmenu_ic_3"></span>
+			</div>
+			<div class="menu_title">
+											</div>
+		</div>
+
+		<div id="wprmenu_menu" class="wprmenu_levels left wprmenu_custom_icons">
+						<ul id="wprmenu_menu_ul">
+				<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12532"><a href="http://www.earnthenecklace.com/">Home</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-14722"><a href="/tag/news/">News</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-15250"><a href="#">Authors</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-15251"><a href="/author/elena">Elena Nicosia</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-15252"><a href="/author/aileen">Aileen Cullen</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-15253"><a href="/author/michela">Michela Lombardi</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-15254"><a href="/author/amanda">Amanda Cabral</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-12692"><a href="http://www.earnthenecklace.com/category/hollywood/">Hollywood</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-12693"><a href="http://www.earnthenecklace.com/category/sports/">Sports</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-12698"><a href="http://www.earnthenecklace.com/category/music/">Music</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-12701"><a href="http://www.earnthenecklace.com/category/finance/">Finance</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-12702"><a href="http://www.earnthenecklace.com/category/politics/">Politics</a></li>
+			</ul>
+					</div>
+		
+<script> 
+  
+  window.onload = function() { 
+  
+    // Delay to allow the async Google Ads to load
+    setTimeout(function() { 
+      
+      // Get the first AdSense ad unit on the page
+      var ad = document.querySelector("ins.adsbygoogle");
+      
+      // If the ads are not loaded, track the event
+      if (ad && ad.innerHTML.replace(/\s/g, "").length == 0) {
+ 
+        if (typeof ga !== 'undefined') {
+ 
+            // Log an event in Universal Analytics
+            // but without affecting overall bounce rate
+            ga('send', 'event', 'Adblock', 'Yes', {'nonInteraction': 1}); 
+ 
+        } else if (typeof _gaq !== 'undefined') {
+ 
+            // Log a non-interactive event in old Google Analytics
+            _gaq.push(['_trackEvent', 'Adblock', 'Yes', undefined, undefined, true]);
+ 
+        }
+      }
+    }, 2000); // Run ad block detection 2 seconds after page load
+  }; 
+  
+</script>
 
 </body></html>
