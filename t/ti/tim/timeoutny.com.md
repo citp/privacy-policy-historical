@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the timeoutny.com privacy policy that was archived on 2015-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150615012435id_/http%3A//www.timeout.com/newyork/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the timeoutny.com privacy policy that was archived on 2015-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151220125551id_/http%3A//www.timeout.com/newyork/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy
 
-Your privacy is important to us. You are visiting a website owned and operated by Time Out America LLC and based in the United States of America. Time Out New York, Time Out Los Angeles, Time Out New York Kids, Time Out Chicago, Time Out Las Vegas, Time Out Miami, Time Out Washington, DC, Time Out Boston and Time Out San Francisco (together, “Time Out”) have always endeavoured to serve its audience with integrity and honesty. The same is true online. Time Out has developed this Privacy Policy to demonstrate our firm commitment to privacy and to disclose our information-gathering and -sharing practices for all US based Time Out sites (together, the “Site”). This Site is also hosting other Time Out Websites providing information about other cities, which fall under this Privacy Policy. By visiting the Site, you are accepting the practices described in this Privacy Policy. Our Site will develop and evolve over time, and this Privacy Policy may change to reflect that. Your continued use of this Site following reasonable notice of any such changes means you accept the changes. You agree that notices we may provide on the Site itself shall be deemed reasonable notice for this purpose. It is your responsibility to check periodically for any changes we may make to this Privacy Policy. This Privacy Policy was last updated on October 1, 2014.
+Your privacy is important to us. You are visiting a website owned and operated by Time Out America LLC and based in the United States of America. Time Out New York, Time Out Los Angeles, Time Out New York Kids, Time Out Chicago, Time Out Las Vegas, Time Out Miami, Time Out Washington, DC, Time Out Boston, Time Out San Francisco and Time Out USA (together, “Time Out”) have always endeavoured to serve its audience with integrity and honesty. The same is true online. Time Out has developed this Privacy Policy to demonstrate our firm commitment to privacy and to disclose our information-gathering and -sharing practices for all US based Time Out sites (together, the “Site”). This Site is also hosting other Time Out Websites providing information about other cities, which fall under this Privacy Policy. By visiting the Site, you are accepting the practices described in this Privacy Policy. Our Site will develop and evolve over time, and this Privacy Policy may change to reflect that. Your continued use of this Site following reasonable notice of any such changes means you accept the changes. You agree that notices we may provide on the Site itself shall be deemed reasonable notice for this purpose. It is your responsibility to check periodically for any changes we may make to this Privacy Policy. This Privacy Policy was last updated on October 1, 2014.
 
 In addition, Time Out supports the Consumer Reports WebWatch guidelines to promote credible information practices on the web. For more information, [click here](http://consumersunion.org/news/consumer-reports-webwatch-guidelines/).
 
@@ -60,9 +60,7 @@ If you choose to access, visit and/or use any third-party social networking serv
 
 **6\. Third-Party Web Sites**
 
-Our Site contains links to other web sites that are not under our control, even though some of them may feature the Time Out logo through a marketing agreement with us. Time Out cannot be held responsible for the privacy practices of third parties. This Privacy Policy does not cover information collected elsewhere, including, without limitation, offline and online sites, applications, destinations or services linked to or from our Site. We recommend that you review the privacy policy of any web site you visit. Time Out may receive a commission from member transactions on these partner sites. Without limiting the foregoing, the Time Out restaurant reservations section is operated by OpenTable. OpenTable’s privacy policy, viewable at <http://opentable.com/info/helpindex.asp>,
-
-governs the use of personal information you provide at the OpenTable site. Time Out receives a commission for transactions processed via this Site. In addition, links within the Time Out Store, and elsewhere on the Site, may link to online retailers including Amazon.com, bn.com and booksense.com which handle the orders and distribution.
+Our Site contains links to other web sites that are not under our control, even though some of them may feature the Time Out logo through a marketing agreement with us. Time Out cannot be held responsible for the privacy practices of third parties. This Privacy Policy does not cover information collected elsewhere, including, without limitation, offline and online sites, applications, destinations or services linked to or from our Site. We recommend that you review the privacy policy of any web site you visit. Time Out may receive a commission from member transactions on these partner sites. Without limiting the foregoing, the Time Out restaurant reservations section is operated by OpenTable. OpenTable’s privacy policy, viewable at <http://opentable.com/info/helpindex.asp>, governs the use of personal information you provide at the OpenTable site. Time Out receives a commission for transactions processed via this Site. In addition, links within the Time Out Store, and elsewhere on the Site, may link to online retailers including Amazon.com, bn.com and booksense.com which handle the orders and distribution.
 
 On occasion, Time Out sponsors special promotions, sweepstakes, and contests that are hosted by partner web sites, which may require that your browser accept cookies, or that you agree to receive information from such sponsors. Such requirements are clearly noted.
 
@@ -94,38 +92,42 @@ C. In the unlikely event that we believe that the security of your information i
 
 You can contact Time Out regarding this Privacy Policy either by mail, at [Time Out America LLC, 475 Tenth Avenue, 12th Floor, New York, NY 10018, Attention: Online Production], by e-mail at [[privacy@timeout.com](mailto:privacy@timeout.com)], or by phone at (646) 432-3000. If you would like to review and/or change the information about you that we have collected via our Site, please mail your request and a self-addressed, stamped envelope to the above address or e-mail [[privacy@timeout.com](mailto:privacy@timeout.com).]
 
-Time Out New York, Time Out Los Angeles, Time Out New York Kids, Time Out Chicago, Time Out Las Vegas, Time Out Miami, Time Out Washington, DC, Time Out Boston and Time Out San Francisco are published by Time Out America LLC, a privately-held company.<
+Time Out New York, Time Out Los Angeles, Time Out New York Kids, Time Out Chicago, Time Out Las Vegas, Time Out Miami, Time Out Washington, DC, Time Out Boston, Time Out San Francisco and Time Out USA are published by Time Out America LLC, a privately-held company.
 
 **13\. List of Time Out Websites:**
 
 This is the list of Time Out Websites hosted on this Site:
 
-Ahmedabad - <https://www.timeout.com/ahmedabad>
-
-Atlanta – <https://www.timeout.com/atlanta>
-
-Austin - <https://www.timeout.com/austin>
-
-Bangalore - <https://www.timeout.com/bangalore>
-
-Chennai - <https://www.timeout.com/chennai>
-
-Dallas - <https://www.timeout.com/dallas>
-
-Delhi - <https://www.timeout.com/delhi>
-
-Hyderabad - <https://www.timeout.com/hyderabad>
-
-Jaipur - <https://www.timeout.com/jaipur>
-
-Kolkata - <https://www.timeout.com/kolkata>
-
-Mumbai - <https://www.timeout.com/mumbai>
-
-Philadelphia - <https://www.timeout.com/philadelphia>
-
-Pune - <https://www.timeout.com/pune>
-
-Seattle - <https://www.timeout.com/seattle>
-
-Surat - <https://www.timeout.com/surat>
+Ahmedabad - <https://www.timeout.com/ahmedabad>  
+Atlanta – <https://www.timeout.com/atlanta>  
+Austin - <https://www.timeout.com/austin>  
+Bangalore - <https://www.timeout.com/bangalore>  
+Chennai - <https://www.timeout.com/chennai>  
+Cleveland - <https://www.timeout.com/cleveland>  
+Dallas - <https://www.timeout.com/dallas>  
+Delhi - <https://www.timeout.com/delhi>  
+Denver - <https://www.timeout.com/denver>  
+Detroit -<https://www.timeout.com/detroit>  
+Houston - <https://www.timeout.com/houston>  
+Hyderabad - <https://www.timeout.com/hyderabad>  
+Jaipur - <https://www.timeout.com/jaipur>  
+Kolkata - <https://www.timeout.com/kolkata>  
+Louisville - <https://www.timeout.com/louisville>  
+Memphis - <https://www.timeout.com/memphis>  
+Minneapolis - <https://www.timeout.com/minneapolis>  
+Mumbai - <https://www.timeout.com/mumbai>  
+Nashville - <https://www.timeout.com/nashville>  
+New Orleans - <https://www.timeout.com/new-orleans>  
+Orlando - <https://www.timeout.com/orlando>  
+Philadelphia - <https://www.timeout.com/philadelphia>  
+Phoenix - <https://www.timeout.com/phoenix>  
+Pittsburgh - <https://www.timeout.com/pittsburgh>  
+Portland - <https://www.timeout.com/portland>  
+Pune - <https://www.timeout.com/pune>  
+Sacramento - <https://www.timeout.com/sacramento>  
+San Diego - <https://www.timeout.com/san-diego>  
+St. Louis - <https://www.timeout.com/st-louis>  
+Seattle - <https://www.timeout.com/seattle>  
+Surat - <https://www.timeout.com/surat>  
+Tampa - <https://www.timeout.com/tampa>  
+Toronto - <https://www.timeout.com/toronto>
