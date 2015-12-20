@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shopperpress.com privacy policy that was archived on 2015-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150618060556id_/http%3A//shopperpress.com/support/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shopperpress.com privacy policy that was archived on 2015-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151220193214id_/http%3A//shopperpress.com/support/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Wordpress Shopping Cart
 
