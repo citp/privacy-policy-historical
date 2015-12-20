@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nabp.net privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630044816id_/http%3A//www.nabp.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nabp.net privacy policy that was archived on 2015-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151220212044id_/http%3A//www.nabp.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - National Association of Boards of Pharmacy® (NABP®)
 
@@ -16,7 +16,7 @@ In addition to the information you provide, NABP may collect non-personal inform
 
 Personal demographic and profile data may be used to tailor your experience at the Site, for example, to show you content you might be interested in.
 
-NABP may engage third-party service providers to support or administer NABP services, including this Site. These service providers may collect personal information from you on behalf of NABP. For example, NABP engages a third party service provider, which collects email addresses from individuals who subscribe to _NABP e-News_.
+NABP may engage third-party service providers to support or administer NABP services, including this Site. These service providers may collect personal information from you on behalf of NABP. For example, NABP engages a third-party service provider, which collects email addresses from individuals who subscribe to _NABP e-News_.
 
 NABP might store some information on your computer hard drive in the form of a “cookie” to assist you with purchasing services from NABP, to speed the log-in process, or to store information, such as personal preferences. Additionally NABP’s third-party service providers may use information obtained through “cookies” for the purpose of evaluating your use of the Site, compiling reports on Site activity and Internet usage.  You may refuse the use of cookies by selecting the appropriate settings on your browser. Please note, that if you refuse the use of cookies you may not be able to use the full functionality of this Site. 
 
