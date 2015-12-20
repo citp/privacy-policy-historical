@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wordsinasentence.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607185254id_/http%3A//wordsinasentence.com/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wordsinasentence.com privacy policy that was archived on 2015-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151220152817id_/http%3A//wordsinasentence.com/privacy-policy-2) for the most accurate reproduction.*
 
 # Privacy Policy - WordsinaSentence.com
 
