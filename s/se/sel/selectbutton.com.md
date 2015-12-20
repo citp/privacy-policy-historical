@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the selectbutton.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608000046id_/http%3A//www.selectbutton.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the selectbutton.com privacy policy that was archived on 2015-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151220175621id_/http%3A//www.selectbutton.com/privacy-policy) for the most accurate reproduction.*
 
-# - SelectButton
-
-* * *
+# Privacy Policy - SelectButton
 
 If you continue to browse and use this website, you are agreeing to comply with and be bound by the following terms and conditions of use, which together with our privacy policy govern SelectButton's relationship with you in relation to this website. If you disagree with any part of these terms and conditions, please do not use our website.
 
@@ -52,4 +50,4 @@ In addition, our advertisers or other third parties may use other third-party ad
 
 We reserve the right to change this policy at any time. Please check this page periodically for changes. Your continued use of our Website following the posting of changes to these terms will constitute acceptance of those changes. Information collected prior to the time any change is posted will be used according to the rules and law that applied at the time the information was collected.
 
-If you have any questions about this Privacy Policy, the practices of this Website, or your dealings with this Website, please contact us at press@selectbutton.com. 
+If you have any questions about this Privacy Policy, the practices of this Website, or your dealings with this Website, please contact us at press@selectbutton.com.
