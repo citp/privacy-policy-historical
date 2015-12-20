@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the netdespatch.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629015316id_/http%3A//www.netdespatch.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netdespatch.com privacy policy that was archived on 2015-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151220100920id_/http%3A//www.netdespatch.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-**United Kingdom Data Protection Act (1998). Registration PZ 703594X September 2011.**  
+**United Kingdom Data Protection Act (1998). Registration PZ 703594X September 2015.**  
 
 
 1\. 
