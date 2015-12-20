@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mrbutton.in privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608172739id_/http%3A//mrbutton.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mrbutton.in privacy policy that was archived on 2015-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151220011334id_/http%3A//mrbutton.in/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | MR BUTTON
+# Privacy Policy - MR BUTTON
 
 We value the trust you hold in MR BUTTON. Please read the following privacy policy carefully. While using and/or accessing our website you acknowledge that you read, understand and agree to be bound to all the terms mentioned in this privacy policy and other pages of this website.  
 Note: Our privacy policy is subject to change at any time without/with notice. The revised privacy policy is effective immediately when posted on the website. To make sure you are aware of any changes, please review this privacy policy periodically for your reference.
