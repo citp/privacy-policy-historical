@@ -1,0 +1,779 @@
+<!--The following is the downloaded HTML source of the dovetailgames.com privacy policy that was archived on 2015-12-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151220134815id_/http%3A//www.dovetailgames.com/privacy) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html class=" js "><!--<![endif]--><head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"><script src="https://js-agent.newrelic.com/nr-768.min.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info = {"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"b632dc8ab1","applicationID":"3782226","transactionName":"NVVaN0cDWRVZUkVcCwwffAxBLFISe15fQRYNXFQGR01nB19UQho3Cl9P","queueTime":0,"applicationTime":63,"ttGuid":"7CA87103C321C58F","agent":"js-agent.newrelic.com/nr-768.min.js"}</script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UgUAWFJbGwAHXFNQBQc="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),f=c.length,u=i(a,o,r),d=0;f>d;d++)c[d].apply(u,n);return u}function a(t,e){f[t]=s(t).concat(e)}function s(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:s,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:20,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(f){try{r("ierr",[f,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(3),window.onerror=e;try{throw new Error}catch(f){"stack"in f&&(t(4),t(5),"addEventListener"in window&&t(1),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&t(2),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:8,3:3,4:7,5:6,6:21,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=t("ee").create(),i=t(1)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t,e){function n(){return s}if(t[1]){var r=t[1];if("function"==typeof r){var s=a(r,"nr@wrapped",function(){return i(r,"fn-",n,r.name||"anonymous")});this.wrapped=t[1]=s,o.emit("initEventContext",[t,e],this.wrapped)}else"function"==typeof r.handleEvent&&i.inPlace(r,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:22,ee:"QJf3ax",gos:"7eSDFh"}],6:[function(t,e){var n=t("ee").create(),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:22,ee:"QJf3ax"}],7:[function(t,e){function n(t,e,n){t[0]=i(t[0],"fn-",null,n)}function r(t,e,n){function r(){return a}this.ctx={};var a={"nr@context":this.ctx};o.emit("initTimerContext",[t,n],a),t[0]=i(t[0],"fn-",r,n)}var o=t("ee").create(),i=t(1)(o);e.exports=o,i.inPlace(window,["setTimeout","setImmediate"],"setTimer-"),i.inPlace(window,["setInterval"],"setInterval-"),i.inPlace(window,["clearTimeout","clearImmediate"],"clearTimeout-"),o.on("setInterval-start",n),o.on("setTimer-start",r)},{1:22,ee:"QJf3ax"}],8:[function(t,e){function n(){f.inPlace(this,p,"fn-",o)}function r(t,e){f.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),f=c(a),u=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),e.hasOwnProperty("addEventListener")&&u.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(i){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,f.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:5,2:22,ee:"QJf3ax"}],9:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var a=t.responseType,f="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,u=n(f);if(u&&(r.rxSize=u),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(e.cat=d.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,o("xhr",[e,r,this.startTime])}}}function n(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,f=t(1),u=window.XMLHttpRequest;t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=e,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,e){var r=this.metrics,o=t[0],i=this;if(r&&o){var f=n(o);f&&(r.txSize=f)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{a.emit("internal-error",[n])}catch(r){}}};for(var u=0;c>u;u++)e.addEventListener(s[u],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof u&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof u&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof u&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:10,3:8,4:5,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],10:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],11:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:20,2:21,handle:"D5DuLP"}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):void(r.q&&(r.q[t]||(r.q[t]=[]),r.q[t].push(e)))}var r=t("ee").create();e.exports=n,n.ee=r,r.q={}},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info,e=f.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){s(d,function(e,n){e in t||(t[e]=n)});var n="https"===u.split(":")[0]||t.sslForHttp;p.proto=n?"https://":"http://",a("mark",["onload",i()]);var r=f.createElement("script");r.src=p.proto+t.agent,e.parentNode.insertBefore(r,e)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=window,f=c.document;t(2);var u=(""+location).split("?")[0],d={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-768.min.js"},p=e.exports={offset:i(),origin:u,features:{}};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),c.addEventListener("load",n,!1)):(f.attachEvent("onreadystatechange",r),c.attachEvent("onload",n)),a("mark",["firstbyte",i()])},{1:20,2:11,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],20:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],21:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],22:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@original",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,f;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){u([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return f=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,f],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=t,f(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){u([o,e,n,r])}}function f(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){u([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function u(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:21,ee:"QJf3ax"}]},{},["G9z0Bl",4,9]);</script>
+    
+    
+    
+
+    <title>Dovetail Games  | Privacy</title>
+    <meta name="description">
+    <meta name="viewport" content="width=device-width">
+    <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico?v=1.0.4958.19671">
+
+    <link href="/Content/Site?v=z5hvP8xyXCV7ZLxE7_jZxp6HFUZpzwHHQ2O1bJkDuZ81" rel="stylesheet">
+
+        
+    <script src="/Scripts/Modernizr?v=zIjHvLjQeKuJayS1EzHuN0qV_CxJOluaAb4FZF9aAfk1"></script>
+
+    <!--[if (gte IE 6)&(lte IE 8)]>
+        <script src="/Scripts/Selectivizr?v=TFithVEp-tse7Fboja-d42zKkwrQXGbbEkIcs9aRM3A1"></script>
+
+    <![endif]-->
+    
+    
+    
+    <script type="text/javascript">
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-42996627-2']);
+        _gaq.push(['_trackPageview']);
+
+        (function () {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    </script>
+
+
+    <link href="http://fonts.googleapis.com/css?family=Open+Sans:400,300,700" rel="stylesheet" type="text/css">
+    <link href="/Content/css/flexslider.css" rel="stylesheet">
+    <link href="//netdna.bootstrapcdn.com/font-awesome/3.2.1/css/font-awesome.css" rel="stylesheet">
+    <link rel="shortcut icon" href="/favicon.ico?v=2">
+    
+      <link rel="apple-touch-icon" href="/Content/Images/icons/AppIcon[Rounded]/AppIcon29x29@2x.png">
+    <link rel="apple-touch-icon" sizes="76x76" href="/Content/Images/icons/AppIcon[Rounded]/AppIcon76x76.png">
+    <link rel="apple-touch-icon" sizes="120x120" href="/Content/Images/icons/AppIcon[Rounded]/AppIcon60x60@2x.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="/Content/Images/icons/AppIcon[Rounded]/AppIcon76x76@2x.png">
+    
+
+</head>
+<body class="controller-pages action-show slug-privacy template-default" style="">    
+    <!--[if lt IE 7]>
+        <p class="chromeframe">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> or <a href="http://www.google.com/chromeframe/?redirect=true">activate Google Chrome Frame</a> to improve your experience.</p>
+    <![endif]-->
+    
+
+
+
+
+<div class="site-wrapper">
+    <header class="main-head" style="opacity: 1; display: block;">
+        <div class="cookies-bar">
+            <div class="content" style="opacity: 1; display: block;">
+                <div class="cookies-content">
+                    <span>Dovetail games uses cookies to track how people use this website. Find out more <a href="/cookies">here</a></span>
+                    <div class="cookies-btn">
+                        <button onclick="agree()">Agree</button>
+                        <button class="exit" onclick="exit()">x</button>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+        <div class="content" style="opacity: 0.793893; display: block;">
+            <a class="toggle-nav"><i class="icon-th-list"></i></a>
+            <a class="logo" href="/">
+                <img src="/Content/Images/dovetail-logo.png" alt="Dovetail games"></a>
+            
+
+    <nav id="mainNav" class="main-nav">
+        <ul class="level-1">
+            <li class=" first on products"><a href="/products">products</a><ul class="level-2"><li class=" first last activate-a-code"><a href="/products/activate">Activate a Code</a></li></ul></li><li class="  on about"><a href="/about">about</a><ul class="level-2"><li class=" first last meet-the-team"><a href="/about/meet-the-team">meet the team</a></li></ul></li><li class="  on vacancies"><a href="/vacancies">vacancies</a><ul class="level-2"><li class=" first last working-at-dovetail-games"><a href="/vacancies/working-at-dovetail-games">Working at Dovetail Games</a></li></ul></li><li class="  news"><a href="/news">news</a></li><li class="  last contact"><a href="/contact">contact</a></li>
+        </ul>
+        
+    </nav>
+
+        </div>
+    </header>
+    
+
+
+<section class="page-banner-title">
+    <div class="page-banner" style="opacity: 0.169344; display: block;">
+        <div class="page-banner-inner">
+
+        </div>
+    </div>
+    <div class="content" style="opacity: 0; display: block;">
+        <h1 class="mega">Privacy</h1>
+
+    </div>
+</section>
+
+<div class="page-content content" style="opacity: 0; display: block;">
+
+
+<div id="editable-1213" class="editable">
+<p><strong>Introduction</strong></p>
+<p>Dovetail Games collect information as you use our products and services. This privacy policy tells you about the information we collect and how we use it. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.</p>
+<p>This privacy policy (along with our end-user licence agreement as set out at http://www.dovetailgames.com/terms/ (hereinafter, the “<strong>EULA</strong>”) and any additional terms of use incorporated by reference into the EULA, together “<strong>Our Terms of Use</strong>”) applies to your use of:</p>
+<ul>
+<li>Any and all software we develop and publish including but not limited to ‘Train Simulator 2016’ (and any and all associated content including but not limited to add-on content, subsequent/future versions and updates) and ‘Dovetail Games Fishing’ (and any and all associated content including but not limited to add-on content, future versions and updates) (individually, a “Product” or collectively the "Products"), once you have purchased or downloaded a copy of any of the Products onto your personal computer (“<strong>Device</strong>”); and</li>
+<li>Any of the services accessible through any of the Products or other services which we otherwise make available (the “<strong>Services</strong>”) on any of our websites including but not limited to Dovetailgames.com and railsimulator.com (our “<strong>Sites</strong>”), unless that Site (for example www.engine-driver.com) contains a separate privacy policy that applies to that particular Service, in which case that privacy policy only applies.</li>
+</ul>
+<p>Our Sites and any of the Products may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates and services offered by third parties (including, but not limited to, websites on which any of the Products or the Services are advertised). If you follow a link to any of these websites, please note that these websites and any services that may be accessible through them have their own privacy policies and that we do not accept any responsibility or liability for these policies or for any personal data that may be collected through these websites or services, such as contact and location data. Please check these policies before you submit any personal data to these websites or use these services. Some of these services are noted in section 2 below along with where you can find the related privacy policies for those websites and services.</p>
+<p>For the purpose of the Data Protection Act 1998, we are the data controller.</p>
+<p><strong>Definitions</strong></p>
+<p>In this document:</p>
+<p>'we', 'our' or 'us' refers to Dovetail Games, a trading name of RailSimulator.com Limited, a limited company (registered in England, number 6751125), our registered address is: Camburgh House, New Dover Road, Canterbury, Kent CT1 3DN.</p>
+<p>'you' refers to you, the user accessing a service owned or operated by us or playing any Product developed and published by us.</p>
+<p><strong>1. Information we collect and how we use it</strong></p>
+<p>Depending on the type of Service or Product you use, we will collect different information. The information collected falls in to three broad categories:</p>
+<p>&nbsp;</p>
+<ul>
+<li>Information collected while you play a Product;</li>
+<li>Information collected when you contact us by email; and</li>
+<li>Information collected when you access any of the Sites.</li>
+</ul>
+<p>&nbsp;</p>
+<p>Each of these is considered separately.</p>
+<p><strong>1.1 Information collected while you play a Product and how it is used</strong></p>
+<p>Information we collect</p>
+<p>We collect information about the features you use and how you use them. We do this to allow us to improve our Products and Services.</p>
+<p>The information we may collect includes:</p>
+<p>&nbsp;</p>
+<ul>
+<li>Personal information: We may collect personal information including but limited to name and contact details, although you are under no obligation to provide this.</li>
+<li>Device information: We may collect device-specific information about the Device you may use to access the Product (such as the hardware you are using, operating system version, browser type etc.).</li>
+<li>Software configuration information: We may collect information about your game configuration (including but not limited to choice of language and country of installation) and content you have installed to better understand how different users around the world access and engage with our Products.</li>
+<li>Game playing information: When you use our Products or Services, we may automatically collect and store certain information on our servers. This may include:</li>
+</ul>
+<p>o details of how you used our Product or Services, such as your menu choices;</p>
+<p>o details of how you have interacted with the Product, including but not limited to features you have engaged with, scenarios executed in the (and how they're completed) and progress you make within the Product; and</p>
+<p>o event information including but not limited to crashes, system activity, hardware settings, operating systems and hardware configuration.</p>
+<ul>
+<li>Add-on content acquisitions: To correctly display content that you have purchased, we keep a record of your acquisitions so that we can show the content you own in a different way from that which you have not yet purchased.</li>
+<li>Web server statistics: Images displayed while loading Product are held on a web server. This, like most web servers, will log the IP address of the machine running the Product along with other parameters describing the route and the language being used.</li>
+</ul>
+<p>In gathering the information, we may store an encrypted version of your Steam_ID to allow us to uniquely identify your usage.</p>
+<p><span style="text-decoration: underline;" data-mce-mark="1">How we use the information we collect</span></p>
+<p>We use the information we collect for system administration and Service updates and to provide, maintain, protect and improve our Products, including but not limited to the choice of add-on content. Furthermore, we may use such information we collect for the purposes of targeted marketing activity to notify you of new releases, special offers and provide you with retail discounts, as well as related news and promotions.</p>
+<p>The web server statistics allow us to monitor traffic patterns to ensure appropriate servers are in place and also to prevent inappropriate use of these servers. This information is strictly for our own use. If, in the future, this is ever made public (for example to potential advertisers, publishers, distributors or licensing partners) it will only be made public in a summary or report form showing aggregated and anonymised information and it will not be possible to identify an individual to whom it may relate.</p>
+<p><strong>1.2 Information collected when you contact us by email (such as for support questions)</strong></p>
+<p><span style="text-decoration: underline;" data-mce-mark="1">Information we collect</span></p>
+<p><strong>Submitted Information:</strong> We may ask you for information when you enter a competition or promotion sponsored by us and when you report a problem with any of our Sites.</p>
+<p><strong>Additional information:</strong></p>
+<ul>
+<li>If you contact us, we may keep a record of that correspondence;</li>
+<li>We may also ask you to complete surveys that we use for research purposes, although you do not have to respond to them;</li>
+<li>If you subscribe to our newsletter, we will keep a record of your email address; and</li>
+<li>We may keep details of transactions you carry out through any of the Sites.</li>
+</ul>
+<p><span style="text-decoration: underline;" data-mce-mark="1">How we use the information we collect</span></p>
+<p>We use this information to identify problems or potential problems with and opportunities for improving our Products. We may share the contents of your communication with selected third parties where these are relevant to the email that you have sent us (such as referring technical questions to partners such as Valve), but will not do this if the email clearly states NOT FOR PUBLICATION in the title or first line.</p>
+<p>We may use your email address to:</p>
+<ul>
+<li>Inform you about our Services, such as letting you know about upcoming changes, improvements, promotions or new products; and</li>
+<li>Carry out our obligations arising from any contracts entered into between you and us.</li>
+</ul>
+<p>If you do wish to stop receiving any marketing communications, please follow the 'unsubscribe' link which can be found at the bottom of each message.</p>
+<p><strong>1.3 Information collected when you use web-based services we provide (including www.railsimulator.com and www.dovetailgames.com) Note that this section does NOT apply to Sites with their own privacy policy (such as www.engine-driver.com)</strong></p>
+<p><span style="text-decoration: underline;" data-mce-mark="1">Because we use commercially available web hosting services, they will collect certain information about your usage of the Sites.</span></p>
+<p>These web-hosting services may:</p>
+<p>a) log requests made to the server, this includes the kind of browser that you use to access the system; and</p>
+<p>b) track your access any of the Sites in order to understand usage patterns and optimise the Sites so that they provide a better experience.</p>
+<p><span style="text-decoration: underline;" data-mce-mark="1">How we use the information collected</span></p>
+<p>We use this information to:</p>
+<ul>
+<li>Ensure that content displayed on our Sites is presented in the most effective manner for you and for your computer; and</li>
+<li>Gather information about topics that are of interest so that we can better plan future developments and optimise user features and experiences.</li>
+</ul>
+<p>This information is strictly for our own use but if this is ever made public (for example to potential advertisers, publishers, distributors or licensing partners) it will only be made public in a summary or report form showing aggregated and anonymised information and there will not be any possible way that it can be tracked back to an individual. For example, such a report might show how many hits our Sites have received each month.</p>
+<p><strong>2. Companies may collect data when using Products and Services provided by us</strong></p>
+<p>There are a number of features in our Products that rely on features provided by other, third party companies. Such third party companies may have different privacy policies that you may wish to review. Below is a non-exhaustive list of significant third party companies we work with:</p>
+<ul>
+<li><strong>Valve:</strong> Valve provides the Steam distribution service, the workshop facilities, the shop and various high-score tables. They also collect payments and may process credit or debit card information. Their privacy policy is available at:</li>
+<li>http://store.steampowered.com/privacy_agreement</li>
+<li><strong>Google:</strong> The editing tools include a feature to allow you to reference maps supplied by Google. Use of this feature is optional and, if used, is subject to their terms and conditions. Their privacy policy is available at:</li>
+<li>http://www.google.com/policies/privacy/</li>
+<li><strong>Facebook:</strong> We optionally communicate with you using Facebook. Their privacy policy is available at: https://www.facebook.com/about/privacy/</li>
+<li><strong>Twitter:</strong> We optionally communicate with you using Twitter. Their privacy policy is available at: https://twitter.com/privacy</li>
+<li>YouTube: We optionally distribute videos via YouTube. Their privacy policy is available at: http://www.google.co.uk/intl/en-GB/policies/privacy/</li>
+<li><strong>Flickr:</strong> We optionally share screenshots and other images via Flickr. Their privacy policy is available at: http://info.yahoo.com/privacy/us/yahoo/flickr/details.html</li>
+</ul>
+<p><strong>Note: Use of these facilities is provided under the terms set out by each respective company. We do not accept any responsibility or liability for these facilities or their policies or for any personal data that may be collected through these websites or services, such as contact and location data.</strong></p>
+<p><strong>3. Important notices</strong></p>
+<p><strong>3.1. Situations when we will share information with other parties</strong></p>
+<p>We do not share personal information with companies, organizations and individuals outside of Dovetail Games unless one of the following circumstances apply:</p>
+<ul>
+<li>For external processing we provide personal information to any member of our group (i.e. any of our subsidiaries, our ultimate holding company and its subsidiaries, as defined in section 1159 of the Companies Act 2006) or other trusted businesses (necessary to provide the services we offer) provided they comply with our privacy policy and other appropriate confidentiality and security measures;</li>
+<li>Enforcement: In order to enforce or apply the EULA (see http://www.dovetailgames.com/terms/), and other agreements or to investigate potential breaches; or</li>
+<li>For legal reasons: we will share information with companies, organizations or individuals if we have a good-faith belief that access, use, preservation or disclosure of the information is reasonably necessary to:</li>
+</ul>
+<p>o meet any applicable law, regulation, legal process or enforceable governmental request;</p>
+<p>o detect, prevent, or otherwise address fraud, security or technical issues; and</p>
+<p>o protect against harm to the rights, property or safety of Dovetail Games, our users or the public as required or permitted by law.</p>
+<p>If we are involved in a merger, acquisition or asset sale, these terms will apply to the acquiring company and we shall give affected users notice before personal information is transferred or becomes subject to a different privacy policy.</p>
+<p><strong>3.2 Sharing with third parties not described in this privacy policy</strong></p>
+<p>We will ask for your consent before using personal data for a purpose other than those that are set out in this privacy policy.</p>
+<p><strong>3.3 Information security</strong></p>
+<p>We work to protect ourselves and our users from unauthorized access to or unauthorized alteration, disclosure or destruction of information we hold. In particular:</p>
+<ul>
+<li>We store data on servers from trusted partners, including but not limited to Microsoft, Amazon and Google; and</li>
+<li>We review our information collection, storage and processing practices, including physical security measures, to guard against unauthorized access to systems.</li>
+</ul>
+<p>However, we cannot guarantee that your personal information will be absolutely protected. For example, your personal information may be affected by actions outside of our control, such as computer "hacking" and physical theft. You acknowledge that you provide your personal information at your own risk.</p>
+<p>All information you provide to us is stored on our secure servers. Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to our Sites; any transmission is at your own risk.</p>
+<p><strong>3.4 Where we store your personal data</strong></p>
+<p>The data that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area (“<strong>EEA</strong>”). It may also be processed by staff operating outside the EEA who work for us or for one of our suppliers. These staff may be engaged in the fulfilment of your request and the provision of support services. By submitting your personal data, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy.</p>
+<p><strong>3.5 Enforcement</strong></p>
+<p>We regularly review our compliance with our privacy policy. When we receive formal written complaints, we will contact the person who made the complaint to follow up. We work with the appropriate regulatory authorities, including local data protection authorities, to resolve any complaints regarding the collection and/or use of personal data that we cannot resolve with our users directly.</p>
+<p><strong>3.6 Changes</strong></p>
+<p>Our privacy policy may change from time to time. We will post any privacy policy changes on this page or may display any such changes on-screen on any the Sites and you may be required to read and accept them to continue your use of the Services.</p>
+<p><strong>3.7 Sensitive information</strong></p>
+<p>We do NOT currently collect or store credit card or other financial information on any of our servers. All online card processing is handled through third parties such as Valve. They do NOT make this type of information available to us.</p>
+<p><strong>3.8 Language used in this privacy policy</strong></p>
+<p>We may provide versions of this privacy policy in languages other than English. In the event of any differences between these versions, the English version shall apply.</p>
+<p><strong>3.9 Your Rights</strong></p>
+<p>You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise that right at any time by contacting us at Camburgh House, New Dover Road, Canterbury, Kent CT1 3DN, United Kingdom <strong>OR</strong> support@dovetailgames.com.</p>
+<p><strong>3.10 Access to Information</strong></p>
+<p>The Data Protection Act 1998 gives you the right to access information held about you. Your right of access can be exercised in accordance with that Act. Any access request may be subject to a fee of £10 to meet our costs in providing you with details of the information we hold about you.</p>
+<p><strong>3.11 Our Policy regarding Children</strong></p>
+<p>We do not knowingly collect or solicit personal information from anyone under the age of 13 or knowingly allow such persons to register on the Sites or for the Services. If you are under 13, please do not attempt to register or send any information about yourself to us, including your name, address, telephone number, or email address. No one under the age of 13 may provide any personal information to us. In the event that we learn that we have collected personal information from a child under age 13 we will delete that information as quickly as possible. If you believe that we might have any information from or about a child under the age of 13, please contact us at the email address specified below.</p>
+<p><strong>3.12 Questions and further information</strong></p>
+<p>If you have any questions, require clarifications or would like further information on our approach to Your privacy please contact us at support@dovetailgames.com</p>
+<p>&nbsp;</p>
+<p>Last updated: 14th September 2015</p>
+</div>
+</div>
+
+    <footer class="main-footer" style="opacity: 0; display: block;">
+        <div class="content" style="opacity: 0; display: block;">
+            <div class="row">
+                <div class="col col-33-3">
+
+
+<div id="editable-62" class="editable">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<h3>Site map</h3>
+<ul>
+<li><a href="/products">Products</a></li>
+<li><a href="/vacancies">Vacancies</a></li>
+<li><a href="/about">About</a></li>
+<li><a href="/news">News</a></li>
+<li><a href="/contact">Contact</a></li>
+</ul>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+                </div>
+                <div class="col col-33-3">
+                    <h3>You can find us on</h3>
+
+                    <a href="https://www.facebook.com/railsimulator" target="_blank">
+                        <img src="/Content/Images/ico-fb.png" alt="Find us on facebook"></a>
+                    <a href="https://twitter.com/railsimulator" target="_blank">
+                        <img src="/Content/Images/ico-tw.png" alt="Follow us on twitter"></a>
+                    <a href="http://www.youtube.com/user/RailSimulatorDotCom?feature=guide" target="_blank">
+                        <img src="/Content/Images/ico-yt.png" alt="Watch our videos on youtube"></a>
+                    <a href="http://store.steampowered.com/publisher/RailSimulator.com" target="_blank">
+                        <img src="/Content/Images/ico-st.png" alt="View our games on steam"></a>
+                    <a href="http://www.engine-driver.com" target="_blank">
+                        <img src="/Content/Images/ico-ed.png" alt="Engine Driver"></a>
+                </div>
+                <div class="col col-33-3 last">
+
+
+<div id="editable-63" class="editable">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<p>© Copyright Dovetail Games 2013</p>
+<p>All rights reserved</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+
+                </div>
+            </div>
+        </div>
+    </footer>
+
+    <footer class="sub-footer" style="opacity: 0; display: block;">
+        <div class="content" style="opacity: 0; display: block;">
+            <div class="row">
+                <div class="col col-45">
+
+<div id="editable-64" class="editable">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<p><a href="/terms">Terms &amp; Conditions</a>&nbsp; |&nbsp;&nbsp; <a href="/cookies">Cookies</a>&nbsp; |&nbsp;&nbsp; <a href="/privacy">Privacy Policy</a></p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div></div>
+                <div class="col col-45 pull-right">Site by <a href="http://www.techdept.co.uk" target="_blank" title="Web design and mobile build">Techdept</a></div>
+            </div>
+        </div>
+    </footer>
+</div>
+
+
+
+
+
+
+
+
+    <script type="text/javascript">
+        window.boilerPlate = {
+            logErrorUrl: '/api/error',
+            googleAnalyticsCode: 'UA-XXXXX-X'
+        };
+    </script>
+
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+<script>(window.jQuery)||document.write('<script src="/Scripts/jquery"><\/script>');</script><script src="/Scripts/jquery"></script>
+
+    <script src="/Scripts/Site?v=ILjGAmB-7xSY6EdWqoWV8WaaDFAcVlvXkq12hZtydnQ1"></script>
+
+
+    <script src="/Scripts/jquery.flexslider.js"></script>
+    
+    <script src="/cms/js/site?v=Fb5fUGRElt9lSCxL83ZOz8-Aw-QfFemntT3-bSo5G4E1"></script>
+
+
+    
+    <script src="//ajax.aspnetcdn.com/ajax/jquery.validate/1.10.0/jquery.validate.min.js"></script>
+    <script>
+        $(function () {
+            var controller = "pages";
+            var action = "show";
+            var slug = "privacy";
+            var template = "default";
+            var app = "";
+
+            $("body").addClass("controller-" + controller);
+            $("body").addClass("action-" + action);
+
+            if (slug != "") {
+                $("body").addClass("slug-" + slug);
+            }
+
+            if (template != "") {
+                $("body").addClass("template-" + template);
+            }
+
+            if (app != "") {
+                $("body").addClass("app-" + app);
+            }
+        });
+    </script>
+
+    
+    <script src="/Scripts/TDForms.js"></script>
+
+        <script type="text/javascript">
+            window.onunload = function () { };
+            $(document).ready(function () {
+                var animationsSeq = $(".main-head, .home-banner,  .page-banner, .content, .footer-banner, footer");
+                animationsSeq.hide();
+                $(function () {
+                    $.fn.showdelay = function () {
+                        var delay = 0;
+                        return this.each(function () {
+                            $(this).css({ opacity: 0.0 });
+                            $(this).delay(delay).fadeTo(700, 1);
+                            delay += 300;
+                        });
+                    };
+                    animationsSeq.showdelay();
+                });
+
+                if (!navigator.userAgent.match(/Android/i) &&
+                    !navigator.userAgent.match(/webOS/i) &&
+                    !navigator.userAgent.match(/iPhone/i) &&
+                    !navigator.userAgent.match(/iPad/i) &&
+                    !navigator.userAgent.match(/Blackberry/i) &&
+                    !navigator.userAgent.match(/iPod/i)) {
+                    $("a[href]").click(function (event) {
+                        var linkLocation = $(this).attr("href");
+                        if (linkLocation != "" && linkLocation != "#" && $(this).attr("target") != "_blank") {
+                            event.preventDefault();
+                            $(".site-wrapper").fadeOut(500, function () {
+                                window.location = linkLocation;
+                            });
+                        }
+                    });
+                }
+            });
+        </script>
+
+
+</body></html>
