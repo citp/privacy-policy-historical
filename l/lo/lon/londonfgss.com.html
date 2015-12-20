@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the londonfgss.com privacy policy that was archived on 2015-06-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150622085652id_/https%3A//www.lfgss.com/about/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the londonfgss.com privacy policy that was archived on 2015-12-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151220181638id_/http%3A//www.lfgss.com/about/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
 		<meta charset="utf-8">
@@ -7,21 +7,17 @@
 		<title>Privacy Policy | About</title>
 		<meta name="Description" content="This document outlines the data that we hold on you that identifies you or is confidential, and how we use that data to provide the forum service to you. It further describes how we store and secure your data, as well as your rights regarding this data.">
 
-		<meta http-equiv="x-dns-prefetch-control" content="on">
-		<link rel="dns-prefetch" href="//microco.sm">
-		<link rel="dns-prefetch" href="//lfgss.microco.sm">
-		<link rel="dns-prefetch" href="//cdnjs.cloudflare.com">
-		<link rel="dns-prefetch" href="//login.persona.org">
-		<link rel="dns-prefetch" href="//secure.gravatar.com">
-		<link rel="dns-prefetch" href="//www.google-analytics.com">
+		<link rel="preconnect" href="https://lfgss.microco.sm">
+		<link rel="preconnect" href="https://fonts.googleapis">
+		<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
 
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
 		<!-- Ensure IE doesn't run in compatibility mode -->
 		<meta http-equiv="X-UA-Compatible" content="IE=Edge">
 		<!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
 		<!--[if lt IE 9]>
-		  <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.2/html5shiv.min.js"></script>
-		  <script src="//cdnjs.cloudflare.com/ajax/libs/respond.js/1.4.2/respond.min.js"></script>
+		  <script src="/static/3rd/html5shiv/3.7.3/html5shiv.min.js"></script>
+		  <script src="/static/3rd/respond.js/1.4.2/respond.min.js"></script>
 		<![endif]-->
 		<link href="/static/themes/1/css/bootstrap.min.css" rel="stylesheet" type="text/css">
 
@@ -143,7 +139,7 @@
 									
 										<li><a href="https://www.flickr.com/search/?tags=lfgss">on Flickr</a></li>
 									
-										<li><a href="http://www.enjoygram.com/tag/lfgss">on Instagram</a></li>
+										<li><a href="http://www.pikore.com/tag/lfgss">on Instagram</a></li>
 									
 									</ul>
 								</li>
@@ -164,25 +160,19 @@
 	<div class="row">
 		<div class="col-sm-7">
 			<ol class="breadcrumb">
-	<li>
-		<a href="/">Home</a>
-	</li>
-
+	<li><a href="/">Home</a></li>
 	
 		
+			
+		
 	
-
-
 	
-
 	
-
 	
 		
 	<li><a href="/about/">About</a></li>
 		
 	
-
 	
 </ol>
 		</div>
@@ -415,48 +405,62 @@
         </div>
 		
 
-		<script async="" src="//www.google-analytics.com/analytics.js"></script><script src="https://login.persona.org/include.js"></script>
-		<!-- <script src="/static/js/persona.js"></script> -->
-		<script src="//cdnjs.cloudflare.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
-		<script src="//cdnjs.cloudflare.com/ajax/libs/moment.js/2.0.0/moment.min.js"></script>
-		<script src="//cdnjs.cloudflare.com/ajax/libs/prettify/r298/prettify.js"></script>
+		<!-- <script src="https://login.persona.org/include.js"></script> -->
+		<!-- <script src="/static/js/mozpersona.js"></script>-->
+		<script async="" src="//www.google-analytics.com/analytics.js"></script><script src="/static/3rd/jquery/1.10.2/jquery.min.js"></script>
+		<script src="/static/3rd/moment.js/2.10.6/moment.min.js"></script>
+		<script src="/static/3rd/prettify/r298/prettify.js"></script>
 		<script src="/static/js/bootstrap.min.js"></script>
 		<script src="/static/js/base.js"></script>
 		<script src="/static/js/metabar.js"></script>
 
         <!-- Persona signin -->
         <form id="signin-form" class="hidden" method="POST" action="/login/">
-			<input type="hidden" name="csrfmiddlewaretoken" value="yS7baf3sVXYinAchhVg6fMh1a2aaFvoL">
+			<input type="hidden" name="csrfmiddlewaretoken" value="JZQHTWnOxFtkgCq6YMgzh7H4jeSs3HpS">
 			<input id="Assertion" type="hidden" name="Assertion" value="">
 			<input id="target_url" type="hidden" name="target_url" value="/about/privacy/">
 		</form>
 
 		<!-- Persona signout -->
 		<form id="signout-form" class="hidden" method="POST" action="/logout/">
-			<input type="hidden" name="csrfmiddlewaretoken" value="yS7baf3sVXYinAchhVg6fMh1a2aaFvoL">
+			<input type="hidden" name="csrfmiddlewaretoken" value="JZQHTWnOxFtkgCq6YMgzh7H4jeSs3HpS">
 		</form>
 
 
 <script type="text/javascript">
 function personaSignin() {
-	navigator.id.request({"siteLogo": "https://lfgss.microco.sm/api/v1/files/5b87bea60c7cfa61afb40dda5f5d58a8a5fe8d7c.svg"});
+	loadPersona(function(){
+		navigator.id.request({"siteLogo": "https://lfgss.microco.sm/api/v1/files/5b87bea60c7cfa61afb40dda5f5d58a8a5fe8d7c.svg"});
+	});
 }
+
 function personaSignout() {
-	navigator.id.logout();
-	document.getElementById("signout-form").submit();
+	loadPersona(function(){
+		navigator.id.logout();
+		document.getElementById("signout-form").submit();
+	});
 }
-navigator.id.watch({
-loggedInUser: null,
-onlogin: function(assertion) {
-	
-	document.getElementById("Assertion").value = assertion;
-	document.getElementById("signin-form").submit();
-},
-onlogout: function() {
-	
-	document.getElementById("signout-form").submit();
-},
-});
+
+function loadPersona(fn) {
+	$.getScript( "/static/js/mozpersona.js", function() {
+		// Watch for sign-in event
+		navigator.id.watch({
+			loggedInUser: null,
+			onlogin: function(assertion) {
+				
+				document.getElementById("Assertion").value = assertion;
+				document.getElementById("signin-form").submit();
+			},
+			onlogout: function() {
+				
+				document.getElementById("signout-form").submit();
+			},
+		});
+
+		// Execute the action that we want to perform
+		fn();
+	});
+}
 </script>
 
 
