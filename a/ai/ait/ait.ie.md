@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ait.ie privacy policy that was archived on 2015-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150620062335id_/http%3A//www.ait.ie/tools/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ait.ie privacy policy that was archived on 2015-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151220090655id_/http%3A//www.ait.ie/tools/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - Athlone Institute of Technology
 
