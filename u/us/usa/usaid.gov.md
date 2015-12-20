@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usaid.gov privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628212836id_/http%3A//www.usaid.gov/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usaid.gov privacy policy that was archived on 2015-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151220222009id_/https%3A//www.usaid.gov/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | U.S. Agency for International Development
 
@@ -104,6 +104,10 @@ While we encourage commenting and conversation on our social media profiles, ple
 While some Personally Identifying Information (PII) may become available to USAID through your use of social media (i.e. we can see your name and picture if you post a [**comment**](https://web.archive.org/comment/social-media)), we will not be collecting, sharing, or storing that information.
 
 Our presence on social media sites is not intended to endorse, recommend, or favor any third-party company or service provider.
+
+### Twitter Notice
+
+This is USAID's Twitter feed, which provides information for the public. Because Twitter is not owned and operated by USAID, we cannot control what personal information is being collected and or how its is being used by Twitter. For more information, please refer to Twitter's Privacy Notice for what information they are collecting about you and how it is being used.
 
 ##  Embedded Third-Party Content
 
