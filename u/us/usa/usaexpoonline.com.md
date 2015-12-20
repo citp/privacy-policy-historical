@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usaexpoonline.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625121806id_/http%3A//www.usaexpoonline.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usaexpoonline.com privacy policy that was archived on 2015-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151220105512id_/http%3A//www.usaexpoonline.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy Overview
 
@@ -16,7 +16,7 @@ You may remove yourself from any or all of our notice and announcement mailings 
 
 ### Registration
 
-Members are asked to provide certain personal information when they sign up for our Services including name, address, telephone number, email e.t.c.. The personal information collected from Members during the registration process is used to manage each Member's account (such as for billing purposes for platinum subscribers). IMC Business Global Plc does not rent or sell email addresses nor any other personal data, unless specifically stated otherwise or in special circumstances.
+Members are asked to provide certain personal information when they sign up for our Services including name, address, telephone number, email e.t.c.. The personal information collected from Members during the reg istration process is used to manage each Member's account (such as for billing purposes for platinum subscribers). IMC Business Global Plc does not rent or sell email addresses nor any other personal data, unless specifically stated otherwise or in special circumstances.
 
 However, in instances where IMC Business Global Plc and a partner jointly promote the Services, IMC Business Global Plc may provide the partner certain personal information, such as the name, address, and username of persons who subscribed to the Services as a result of the joint promotion for the sole purpose of allowing us and the partner to assess the results of the promotion. In this instance, the partner may not use personal information for any other purpose.
 
