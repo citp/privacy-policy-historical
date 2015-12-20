@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the easiestsystemever.com privacy policy that was archived on 2015-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150426073621id_/http%3A//easiestsystemever.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the easiestsystemever.com privacy policy that was archived on 2015-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151220212338id_/http%3A//easiestsystemever.com/privacypolicy) for the most accurate reproduction.*
 
 # Welcome!
 
