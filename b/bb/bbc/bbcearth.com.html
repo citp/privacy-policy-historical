@@ -1,10 +1,10 @@
-<!--The following is the downloaded HTML source of the bbcearth.com privacy policy that was archived on 2015-06-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150630063344id_/http%3A//www.bbcworldwide.com/privacy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bbcearth.com privacy policy that was archived on 2015-12-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151221005124id_/http%3A//www.bbcworldwide.com/privacy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><meta http-equiv="X-UA-Compatible" content="IE=Edge"><meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1"><title>
 	privacy
 </title><link href="/css/Newstyles.css" rel="stylesheet" type="text/css">
-    <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/scripts/jquery-1.3.1-min.js"></script>
+    <script type="text/javascript" src="/scripts/jquery-1.3.1-min.js"></script>
 
      <!--[if lte IE 7 ]>
         <link href="/css/ie6hacks.css" rel="stylesheet" type="text/css" />
@@ -14,8 +14,8 @@
     </head>
 
   <body class="">
-    <form name="aspnetForm" method="post" action="/privacy.aspx?" id="aspnetForm">
-<div>
+    <form method="post" action="/privacy.aspx?" id="ctl02">
+<div class="aspNetHidden">
 <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUENTM4MWRkgXa30zDPYhBicZ2lb1Twk8+9e/o=">
 </div>
 	
@@ -543,7 +543,7 @@ approach to privacy please contact us at:</p>
           <li><a href="/">Home</a></li>
           <li><a href="http://www.bbc.co.uk/mediacentre/worldwide/">BBC Media Centre</a></li>
           <li><a href="/global-offices.aspx">Global Offices</a></li>
-          <li><a href="http://www.bbc.co.uk/careers/what-we-do/commercial-ventures">Careers</a></li>
+          <li><a href="http://careers.bbcworldwide.com">Careers</a></li>
           <li><a href="/contact-us.aspx">Contact us</a></li>
           <li><a href="/cookies.aspx">Cookies</a></li>
           <li><a href="/privacy.aspx">Privacy Policy</a></li>
@@ -558,6 +558,17 @@ approach to privacy please contact us at:</p>
     </form>
 
     <script type="text/javascript">
+
+        var fullPath = window.location.href;
+        var businessPath = window.location.href.replace(window.location.pathname, '') + '/business';
+        var sitemapPath = window.location.href.replace(window.location.pathname, '') + '/sitemap.htm';
+        if (fullpath.indexOf(businessPath) != -1) {
+            window.location.href = '/default.aspx';
+        }
+        else if (fullPath.indexOf(sitemapPath) != -1) {
+
+            window.location.href = '/default.aspx';
+        }
       var _gaq = _gaq || [];
       _gaq.push(['_setAccount', 'UA-6065919-13']);
       _gaq.push(['_trackPageview']);
