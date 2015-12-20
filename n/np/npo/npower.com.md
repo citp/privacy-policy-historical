@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the npower.com privacy policy that was archived on 2015-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150615003138id_/http%3A//www.npower.com/home/about-npower/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the npower.com privacy policy that was archived on 2015-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151220132736id_/http%3A//www.npower.com/home/about-npower/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy - About npower - npower
+
+View our mobile app privacy policy
 
 ## Helpful information
 
@@ -10,7 +12,7 @@ Your personal information (also called ‘personal data’) is the information w
 
 Your personal information may be stored online and therefore we take steps to ensure that our systems are well protected.
 
-Please note that this privacy policy only covers [www.npower.com](http://www.npower.com/home/ "Click here to visit npower"). Other websites belonging to us (such as [www.npowerjobs.com](http://www.npowerjobs.com/ "Click here to visit npower jobs.") and [www.npowerjobs.com/graduates](http://www.npowerjobs.com/graduates/ "Click here to visit npower graduates.")) and other websites accessible via links are not covered by this policy. If you access any of these sites, please check the privacy policy applicable to these sites (if any) before you submit any of your personal information to them
+Please note that this privacy policy only covers [www.npower.com](http://www.npower.com/home/ "Click here to visit npower"). Other websites belonging to us (such as [www.npowerjobs.com](http://www.npowerjobs.com/ "Click here to visit npower jobs.") and [www.npowerjobs.com/graduates](http://www.npowerjobs.com/graduates "Click here to visit npower graduates.")) and other websites accessible via links are not covered by this policy. If you access any of these sites, please check the privacy policy applicable to these sites (if any) before you submit any of your personal information to them
 
 ### Our group and your products and services
 
@@ -76,7 +78,7 @@ Just ask us! You are entitled to see the personal information that we hold about
 
   * telephoning us on 0800 073 3000 (free from most landlines) or 0330 100 3000 (included in any 'inclusive minutes' from mobiles);
   * Contacting us through npower.com – [Contact Customer Service](https://web.archive.org/home/help-and-support/contact-us/) and choose the “Other” option; or
-  * writing to us at Data Protection SARs Team, npower, Building Tio 2, Ground Floor, Traynor Way, Off Shotton Lane, Peterlee, County Durham, SR8 2RU.
+  * writing to us at Data Protection SARs Team, npower, Rainton House, Hougton-Le-Spring, Cygnet Way, Sunderland, DH4 5QZ.
 
 
 
@@ -94,6 +96,10 @@ We do keep our privacy policies under regular review so please do check each tim
 
 Updated: 12 April 2010 – 4th paragraph amended to include reference to “Back the Bid” pages of [www.npower.com](http://www.npower.com/home/)
 
-If you have any questions or if you feel that we are not complying with the terms of this privacy policy please do contact us through npower.com [Contact Customer Service](https://web.archive.org/web/At_home/customer_service/contact_us/customer_enquiry/) and choose the "Other" option from the drop down list
+If you have any questions or if you feel that we are not complying with the terms of this privacy policy please do contact us through npower.com [Contact Customer Service](https://web.archive.org/home/help-and-support/contact-us/) and choose the "Other" option from the drop down list
+
+In addition to the terms of the npower Limited Privacy Policy available here this privacy policy governs your use of the npower Limited Mobile Application that has been created by Black Swan. The Application includes functionality to send meter readings, view energy bills, pay energy bills, see your energy usage and contact npower through Live Chat
+
+To better understand how our Mobile App is used, we may use the services of another company to provide us with anonymous statistical information about your use of our Mobile App.
 
 # Phone calls: Calling us on a 0800 number is normally free when you call from a landline but charges may vary if you use a mobile. Calling us on a 0330 number will cost you no more than 01 or 02 numbers from landlines or mobiles. If you get ‘inclusive minutes' with your package, calls on a 0330 number will be part of these.
