@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webengage.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607130212id_/http%3A//webengage.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webengage.com privacy policy that was archived on 2015-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151220155513id_/http%3A//webengage.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - WebEngage
 
@@ -29,7 +29,7 @@ Your information helps us to more effectively respond to your customer service r
   * _To process transactions_  
 We may use the information Users provide about themselves when placing an order only to provide service to that order. We do not share this information with outside parties except to the extent necessary to provide the service.
   * _To send periodic emails_  
-The email address Users provide for order processing, will only be used to send them information and updates pertaining to their order. It may also be used to respond to their inquiries, and/or other requests or questions. If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, they may do so by contacting us via our Site.
+The email address Users provide for order processing, will only be used to send them information and updates pertaining to their order. It may also be used to respond to their inquiries, and/or other requests or questions. By signing-up, User agrees to opt-in to our mailing list. The User may receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, they may do so by clicking the unsubscribe link present in the email or by contacting us via our Site.
 
 
 
@@ -64,4 +64,4 @@ Maharashtra, India
 +91-22-61102400  
 support@webklipper.com
 
-This document was last updated on May 13, 2013
+This document was last updated on Oct 28, 2015
