@@ -1,11 +1,6 @@
-> *The following text is extracted and transformed from the surrey.ac.uk privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626181833id_/http%3A//www.surrey.ac.uk/information-management/dataprotection/index.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the surrey.ac.uk privacy policy that was archived on 2015-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151220192431id_/http%3A//www.surrey.ac.uk/information-management/dataprotection/index.htm) for the most accurate reproduction.*
 
 # Data Protection - University of Surrey - Guildford
-
-  * Study
-  * Explore
-
-
 
 The Data Protection Act 1998 gives people the right to know what information is held about them, and require the University to ensure that personal information relating to living individuals is handled properly, held in confidence and is protected from inappropriate disclosure to third parties.  
 
@@ -20,12 +15,3 @@ More information on how the University collects and uses personal information ca
 Everyone who collects and manages personal information at the University of Surrey must do so in a way that complies with the University's [Policy](http://www.surrey.ac.uk/about/corporate/policies/data_protection_policy.htm) on Data Protection and with the 8 principles of the [Data Protection Act 1998](http://www.legislation.gov.uk/ukpga/1998/29/contents).
 
 Advice and guidance on aspects of data protection is available from the Information Compliance Unit.  Please [email us](mailto:freedomofinformation@surrey.ac.uk) with any questions you may have.
-
-**Page Owner:** am0049  
-**Page Created:** Friday 28 May 2010 15:46:03 by mf0009  
-**Last Modified:** Tuesday 10 March 2015 15:23:43 by m04261  
-**Expiry Date:** Sunday 28 August 2011 15:45:20  
-**Assembly date:** Fri Jun 26 17:43:18 BST 2015  
-**Content ID:** 28545  
-**Revision:** 2  
-**Community:** 1018 
