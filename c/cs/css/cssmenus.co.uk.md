@@ -1,45 +1,48 @@
-> *The following text is extracted and transformed from the cssmenus.co.uk privacy policy that was archived on 2015-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150520044428id_/http%3A//www.cssmenus.co.uk/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cssmenus.co.uk privacy policy that was archived on 2015-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151220025915id_/http%3A//www.cssplay.co.uk/w3c/privacy.html) for the most accurate reproduction.*
 
-# CSS Menus | Privacy Policy
+# Stu Nicholls | CSS PLAY | Privacy Policy
 
-## Privacy Policy
+### Information
 
-cssmenus.co.uk takes your privacy seriously. Please read the following information to learn more about my privacy practices.
+CSS PLAY takes your privacy seriously. Please read the following information to learn more about my privacy practices.
 
-  1. This policy covers what personally identifiable information cssmenus.co.uk collects and how it is treated. Personally identifiable information is information that can be used to identify visitors to the http://www.cssmenus.co.uk Web Site. This information may be limited to an IP address or extend to personally identifiable information such as your name, address, email address, or phone number.
-  2. This policy only applies to http://www.cssmenus.co.uk and does not extend to the practices of other Web Sites that we may link to, companies that we do not own or control, or to people that we do not employ or manage.
+  1. This policy covers what personally identifiable information CSS PLAY collects and how it is treated. Personally identifiable information is information that can be used to identify visitors to the http://www.cssplay.co.uk Web Site. This information may be limited to an IP address or extend to personally identifiable information such as your name, address, email address, or phone number.
+  2. This policy only applies to http://www.cssplay.co.uk and does not extend to the practices of other Web Sites that we may link to, companies that we do not own or control, or to people that we do not employ or manage.
 
 
 
-## Contact Information
+### Contact Information
 
 I invite you to contact me if you have questions about this privacy policy.
 
-My Internet address is located at [http://www.cssmenus.co.uk](http://www.cssplay.co.uk/)
+My Internet address is located at [http://www.cssplay.co.uk](http://www.cssplay.co.uk/)
 
-cssmenus.co.uk  
+CSS PLAY  
 Gloucester  
 United Kingdom
 
-You may contact me by e-mail at [stu@cssmenus.co.uk](mailto:stu@cssmenus.co.uk)
+You may contact me by e-mail at stu[...](http://www.google.com/recaptcha/mailhide/d?k=0103vNWBVtocCVJO1dnUSTew==&c=l22Sc6nyN2psqxHGK5T0N9FlVKECl0cdZH9BaIoYgA8= "Reveal this e-mail address")@cssplay.co.uk 
 
-## Dispute Resolution
+  
 
-cssmenus.co.uk is committed to resolving any dispute you may have regarding my privacy policy quickly and efficiently.
+
+### Dispute Resolution
+
+CSS PLAY is committed to resolving any dispute you may have regarding my privacy policy quickly and efficiently.
 
 Disputes will be handled by my customer service representative. My customer service will promptly correct any errors.
 
-## Information Collection
+### Information Collection
 
 When visiting Web Sites certain information about you and your computer can sometimes be collected.
 
-This section explains what information cssmenus.co.uk collects, and how it is used.
+This section explains what information CSS PLAY collects, and how it is used.
 
-## Information Collected
+### Information Collected
 
 What information do we collect and why?
 
-I collect the following identifiable information about my visitors:
+I collect the following identifiable information about our visitors:
 
   1. dynamic.clickstream
   2. dynamic.http
@@ -55,23 +58,26 @@ I collect identifiable information for the following reasons:
 
 
 
-Collecting statistics allows cssmenus.co.uk to provide a better service and more relevant demonstrations.
+Collecting statistics allows CSS PLAY to provide a better service and more relevant demonstrations.
 
 My Web Site generates server log files automatically. These log files are used to generate statistical information and error reports to ensure the Web Site runs with a minimum of disruption. They are not actively used to identify individual visitors.
 
-## Information Recipients
+### Information Recipients
 
 Who has access to the information collected?
 
 Me and/or my entities acting as my agents or entities for which I am acting as an agent.
 
-## Information Retention
+### Information Retention
 
 How long is this information retained?
 
 I do not have a retention policy for this area of the Web Site.
 
-## Google Advertisements and Analytics (third party cookies)
+  
+
+
+### Google Advertisements and Analytics (third party cookies)
 
 We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number or any other personal information) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you.
 
@@ -82,14 +88,20 @@ If you would like more information about this practice and to know your choices 
   
 
 
-## Advertising Spaces Available
+### Support CSSPLAY
 
-Contact stu{at}cssmenus.co.uk for details
-
-  * 
-  
-  
-
+Your donations keep CSS PLAY running.  
+If your donation is for the use of a demo then please email me with the demo url after making your donation.
 
   
+
+
+CUSTOM SEARCH 
+
+  * [Design & Assistance](https://web.archive.org/service.html)
+  * [FAQs](https://web.archive.org/faqs.html)
+  * [Contact](https://web.archive.org/w3c/contact.html)
+  * [Privacy Policy](https://web.archive.org/w3c/privacy.html)
+  * [Support](https://web.archive.org/support.html)
+
 
