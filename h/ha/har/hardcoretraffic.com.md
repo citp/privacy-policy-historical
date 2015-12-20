@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hardcoretraffic.com privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123022929id_/http%3A//hardcoretraffic.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hardcoretraffic.com privacy policy that was archived on 2015-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151220145248id_/http%3A//hardcoretraffic.com/privacy.php) for the most accurate reproduction.*
 
 # HC Traffic | Privacy Policy
 
