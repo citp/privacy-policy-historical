@@ -1,175 +1,162 @@
-> *The following text is extracted and transformed from the teamusa.org privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120094400id_/http%3A//www.teamusa.org/Footer/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teamusa.org privacy policy that was archived on 2015-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151220153508id_/http%3A//www.teamusa.org/footer/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | USOC Official Website
 
-For a better browsing experience please switch your browser out of compatability mode. 
+****THE UNITED STATES OLYMPIC COMMITTEE PRIVACY POLICY****
 
-**THE UNITED STATES OLYMPIC COMMITTEE'S PRIVACY POLICY** The USOC has created this Privacy Policy to disclose our online information practices and the choices you can make about the way your personal information is collected and used at the Site. This Privacy Policy is incorporated into, and a part of, the [Terms of Use Agreement](https://web.archive.org/Footer/Terms-and-Conditions) for the Site (the "Agreement"). Capitalized terms used herein without definition shall have the meanings assigned to such terms in the Agreement. 
+Effective Date:  May 7, 2015
 
-CHANGES TO THIS POLICY
+This Privacy Policy explains the types of information the United States Olympic Committee (“USOC,” “we,” “our,” “us”) collects, as well as our policies and practices regarding the collection, use and disclosure of that information through the web pages, blogs, mobile applications, and other interactive features that display this policy (collectively, our “Platform”). 
 
-The USOC reserves the right, at our discretion, to change, modify, add or remove portions of this Privacy Policy at any time. Such changes, revisions or modifications will be effective immediately upon notice to you, which may be given by any means including, without limitation, via posting on the Site. If the changes are significant, we will provide a more prominent notice. Each version has an effective date listed at the top of the policy. Your continued use of the Site after such notice will be deemed to constitute acceptance of such changes, revisions or modifications. Please check this Privacy Policy periodically for changes.
+By using the Platform, you consent to the practices described in this Privacy Policy.  If you have any questions about the Policy, please contact us at legal@usoc.org or as set out under “Contact Us **”** below.
 
-As is explained in the Scope of Use section of the Agreement, the Site and the materials contained in the Site are presented solely for the use of users located in the United States of America and its territories and possessions, excluding Puerto Rico, American Samoa, Guam and the Virgin Islands. Guests who choose to visit the Site from outside of the United States of America are advised that this Privacy Policy does not necessarily comply with the privacy laws and regulations of the country from which you are accessing the Site. We therefore request that you do NOT provide personal information to us if you are accessing the Site from outside of the Unites States of America. 
+**QUICK GUIDE TO CONTENTS**    
+  
+---  
+1. Information We Collect  
+2. How We Use the Information We Collect or Receive  
+3. How We Share the Information We Collect or Receive  
+4. Your Choices  
+5. Data Security  
+6. Children’s Privacy  
+7. Links to Third Party Sites and Services  
+8. Users Outside the U.S.  
+9. Privacy Policy Updates  
+10. Contact Us  
+  
+**1\. Information We Collect**
 
-**WE COLLECT CERTAIN PERSONAL INFORMATION**
+**Information You Give Us.**
 
-For purposes of this Privacy Policy, "personal information" means any individually identifiable information about a user of our Site including, but not limited to, your name, contact information (such as your mailing address and e-mail address), demographic information (such as your date of birth and income level), lifestyle-related information (such as your hobbies and interests), and financial information (such as your credit card number). 
+When you interact with our Platform, you may choose to provide information that could reasonably be used to contact you, or to identify you personally, or that otherwise relates to your person (“Personal Information”), such as:
 
-You may visit the Site as a guest, without providing any personal information to us. However, you may be required to provide personal information to us in order to take advantage of certain services and promotions offered via the Site. We may collect any personal information that you voluntarily provide to us in connection with your use of the Site, including but not limited to in connection with your:
+  * Your contact information (e.g., name, e-mail address, postal address, and telephone number);
+  * User name, display name, and password;
+  * Geolocation information, such as your city, state or zip code;
+  * Demographic information, such as age information and gender;
+  * Payment information, such as credit card number and expiration date;
+  * Communications preferences;
+  * Comments, photos, and other user-generated content posted in our interactive online features;
+  * Correspondence and other information that you send to us; and
+  * Additional information as otherwise described to you at the point of collection or pursuant to your consent.
 
-  * participation in any online contest, sweepstakes or other promotions we might offer; 
-  * making purchases from our online store; 
-  * submission of questions or comments to us via the Site; 
-  * use of the Site to transmit any User Content, including but not limited to participation in any e-mail services, message boards or chat rooms we may establish; 
-  * inclusion in our online newsletter program; 
-  * registration as a registered user of the Site; and 
-  * donations. 
 
 
+**Information We Automatically Collect or Receive When You Use Our Platform.**
 
-**OUR USE AND DISCLOSURE OF YOUR PERSONAL INFORMATION**
+Whenever you interact with our Platform, we, as well as any of our third-party advertisers and/or service providers, may use a variety of technologies that automatically or passively collect information about how the Platforms are accessed and used (“Usage Information”). Usage Information may include, among other things:
 
-We use the personal information that you voluntarily provide to us in order to fulfill the purpose for which you provided the information to us (e.g., in order to respond to your questions, to fulfill orders for products purchased via the Site, to award prizes pursuant to contests entered via the Site, etc.). We also use your contact information to send you information, advertising and promotional materials about the USOC, its member organizations, and their respective products, services and upcoming events. We may also call persons who provide their telephone numbers to us via the Site in order to provide you with information about the USOC, its member organizations, and their respective products, services and upcoming events, if you request.
+  * Your browser type and operating system;
+  * Sites you visited before and after visiting the Platform;
+  * Pages you view and links you click on within the Platform;
+  * Information collected through cookies, web beacons, and other technologies; and
+  * Information about your interactions with e-mail messages, such as the links clicked on and whether the messages were opened or forwarded.
 
-We use the demographic and lifestyle-related information that you voluntarily provide to us in order to improve the content of the Site. We may also use this information to tailor your experience at the Site, showing you content, and to send you information, advertising and promotional materials about the USOC, its members organizations, and their respective products, services and upcoming events that we think might be of interest to you. 
 
-We use the financial information that you voluntarily provide to us solely to bill you for products you have ordered via the Site and donations to the USOC you have made via the Site.
 
-As is explained in the Agreement, the term "Site" refers to several web sites owned by the USOC. We may disclose personal information that you provide to us via any one of the Sites with our other Sites. We may also disclose any personal information that you provide to us to any of our member organizations, who may use such personal information solely in accordance with the terms of this Privacy Policy. 
+Usage Information is generally non-identifying, but if we associate it with you as a specific and identifiable person, we will treat it as Personal Information.
 
-We will not disclose any personal information that you provide to us to any unaffiliated third party, except in accordance with this Privacy Policy or with your consent. We may disclose any personal information that you provide to us to our service providers with respect to the Site, provided that such service providers have agreed to only use such personal information to the extent necessary to perform services on behalf of the USOC. We do not normally disclose any personal information that you provide to us to the USOC's partners, sponsors, suppliers or other unaffiliated third parties. However, we reserve the right to disclose personal information that you provide to us to unaffiliated third parties that have agreed in writing to use your personal information only in accordance with the terms of this Privacy Policy. These unaffiliated third parties MAY use your personal information to send you information, advertising and promotional materials about their companies via mail, unless you OPT-OUT of receiving such third party materials. These unaffiliated third parties MAY NOT contact you via e-mail unless you OPT-IN to receiving such third party materials. To exercise your right to OPT-OUT of or OPT-IN to receiving such materials, please see the OPT-OUT/OPT-IN PROCEDURES section of this Privacy Policy.
+**Device Identifiers**
 
-We may disclose aggregate non-personally identifiable information about users of our Site to advertisers, sponsors, and other third parties. For example, we may disclose to any third party that X% of Site users are male, Y% of Site users reside in Colorado, etc. Our disclosure of aggregate information does not permit the recipient of such data to identify or contact any individual user of the Site.
+In the course of collecting Usage Information, we may also automatically collect your IP address, or other unique identifier (“Device Identifier”) for the computer, mobile device, Wi-Fi card, technology or other device (collectively, “Device”) you use to access the Platform.
 
-Finally, we may use and disclose your personal information: (a) as is required by law; (b) to comply with legal process; (c) to investigate claims with respect to use of the Site; (d) as is reasonably necessary to enforce the terms of the Agreement; and (d) as is reasonably necessary to protect the interests, rights or property of the USOC, its member organizations or others.
+A Device Identifier is a number that is automatically assigned to your Device when you access a website or its servers, and our computers identify your Device by its Device Identifier. When you visit the Platform, we may view your Device Identifier. We use this information to determine the physical location of your Device, including longitude and latitude information. We may also use this information to enhance the Platform and we may associate your Device Identifier with your Personal Information.
 
-We understand that some of your personal information may change over time, or that you may later desire that we no longer use or disclose personal information that you previously provided to us. You can either: (x) edit your personal information on the Site; (y) follow the instructions in our e-mail newsletter to make changes or remove yourself from our mailing list; or (z) contact us pursuant to the procedures specified in the CONTACTING US section of this Privacy Policy.
+**Cookies and Similar Technologies.  **
 
-**POLICIES WITH RESPECT TO CHILDREN UNDER THE AGE OF 13**
+We may use cookies, pixel tags, Local Shared Objects (sometimes referred to as “Flash Cookies”), and similar technologies to automatically collect this information.  Cookies are small bits of information that are stored by your computer’s web browser.  Pixel tags are very small images or small pieces of data embedded in images, also known as "web beacons" or "clear GIFs,” that can recognize cookies, the time and date a page is viewed, a description of the page where the pixel tag is placed, and similar information from your computer or device.  Local Shared Objects or Flash Cookies are similar to standard cookies except that they can be larger and are downloaded to a computer or mobile device by the Adobe Flash media player. 
 
-Our Collection of Personal Information from Children Under the Age of 13
+We may allow third parties to place and read their own cookies, web beacons, Local Shared Objects, and similar technologies to collect information through the Platform.  For example, our third-party service providers may use these technologies to collect information that helps us with traffic measurement, research, and analytics. 
 
-The USOC does not knowingly collect any personal information from children under the age of 13 (referred to herein as "children"). As is further explained in the USE OF IP ADDRESSES section of this Privacy Policy, we do not link the IP addresses of Site users to personal information other than in specified circumstances. As is further explained in the USE OF COOKIES section of this Privacy Policy, we do use cookies on our Site, but such cookies are not linked to personal information unless such personal information is voluntarily provided to us via the Site. 
+By using the Platform, you consent to our use of cookies and similar technologies.  You can decide if and how your computer will accept a cookie by configuring your preferences or options in your browser.  However, if you choose to reject cookies, you may not be able to use certain online products, services or features on the Platform.  Please note that you may need to take additional steps beyond changing your browser settings to refuse or disable Local Shared Objects and similar technologies.  Local Shared Objects can be controlled through the instructions on [Adobe’s Setting Manager page](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html).  If you choose to refuse, disable, or delete these technologies, some of the functionality of the Platform may no longer be available to you.
 
-We encourage parents and guardians to spend time online with their children, and to take an active role to protect the privacy of their children, including but not limited to instructing their children not to disclose any personal information over the Internet without their prior permission.
+You can also learn more about cookies by visiting www.allaboutcookies.org, which includes additional, useful information on cookies and how to block cookies using different types of browsers. For more information on advertising using cookies and how to opt-out of advertising cookies specifically, please see Your Choices below.
 
-Once we have received verifiable parental consent, we may actively collect personal information from a child so that the child may participate in the following services and activities in connection with his or her use of the Site:
+**Information From Other Sources.  **
 
-  * contests and promotions the rules of which permit entry by children; 
-  * inclusion in our online newsletter program; and 
-  * registration as a registered user of the Site. 
+We may receive additional information about you from other sources and may combine that information with the other information we collect or receive about you.  For example:
 
+  * We may receive information about you from our member organizations and other members of the U.S. Olympic  family, including but not limited to our U.S. Olympic Training Sites,  Community Olympic Development Program partners, and U.S. Paralympic Sports Clubs;
+  * We may receive information from you off-line, such as when you visit USOC facilities or participate in USOC-sponsored events;
+  * We may receive information about you from our “affiliates,” which are entities that are legally part of the same group of companies that USOC is part of, or that become part of that group;
+  * If you are on another website and you opt-in to receive information from USOC, that website will forward to us your e-mail address and other information about you so that we may contact you as requested;
+  * You may also choose to participate in a third party application or feature (such as one of our Facebook or Twitter applications or a similar application or feature on a third party website) through which you allow us to collect and share (or the third party to collect and share) information about you, including Personal Information; and
+  * We may receive information from third-party partners and service providers, including partners and service providers that provide us information that is publicly or commercially available.
 
 
-We may collect the following types of personal information from children in connection with such services and activities:
 
-  * name and member name; 
-  * age and birth date; 
-  * e-mail address and mailing address; 
-  * e-mail address of a parent or guardian; and 
-  * favorite sports, hobbies, interests and extracurricular activities. 
+We may match the information we collect about you through the Platforms with information collected from such third parties in order to enhance our ability to serve you, to tailor our content to you and/or to offer you opportunities to purchase products or services that we believe may be of interest to you.
 
+**2.  How We Use the Information We Collect or Receive**
 
+We use the information we collect and receive for the following general purposes:
 
-The USOC will not condition a child's participation in any game, the offering of a prize, or a child's participation in any other activity on the child's disclosing more personal information than is reasonably necessary for the child to participate in such activity. 
+  * Provide you with the products, promotions, services, newsletters, and information you request and respond to correspondence that we receive from you;
+  * Customize and personalize your use of the Platform;
+  * Contact you via email and otherwise about products, services, and events that we think might be of interest to you;
+  * Contact you with surveys, legal notices, and other information that may be relevant to your use of the Platform;
+  * Maintain or administer the Platform, perform business analyses, or for other internal purposes to improve the quality of our business, the Platform, and other products and services we offer;
+  * Publish comments, images, video submissions and other information posted in our interactive online features; and
+  * As otherwise described to you at the point of collection or pursuant to your consent.
 
-We note that, in the course of a child's use of our Site, the child may voluntarily provide further personal information about himself or herself to us - for example, by including personal information in messages submitted to us via the Site. We also note that we may collect personal information about a child from the child's parent or guardian - for example, if the parent or guardian requests that we send our newsletter to the child.
 
-Our Use and Disclosure of Personal Information Collected from Children Under the Age of 13
 
-The USOC does not knowingly use any personal information about children unless we have first received verifiable parental consent to do so.
+**3.  How We Share the Information We Collect and Receive**
 
-Once we have received verifiable parental consent, we may use personal information about children for the following purposes:
+We are committed to maintaining your trust, and we want you to understand how we may share the information we collect.
 
-  * fulfilling the purpose for which the child, parent or guardian provided that personal information (e.g., contacting the child in response to a question submitted by the child; sending newsletters for which the child signed up to the child, etc.); and 
-  * record keeping. 
+  * Member Organizations and Affiliates.  We may share your information with our member organizations and other affiliated entities for a variety of purposes, including business, operational, and marketing purposes.
+  * Service Providers.  We may share your information with third party service providers that perform certain functions or services on our behalf, such as to host the Platform manage databases, host a store or other e-commerce platform, perform analyses, or send communications for us.
+  * Select Business Partners.  We may share your information with select business partners so that they can provide you with special offers, promotional materials, and other materials that may be of interest to you. However, the USOC is not responsible for the privacy practices of these business partners, which may use your information for their own purposes.
 
 
 
-Except as specified herein, the USOC does not knowingly disclose any personal information about children unless it has received specific verifiable parental consent to disclose such personal information for a particular purpose ( _e.g._ , publishing the name and image of a child who has won a contest). For purposes of this Privacy Policy, the "disclosure" of personal information about children refers to both: (a) the USOC's disclosure of the personal information in identifiable form to a third party (other than a service provider with respect to our Site that has agreed not to use or disclose the personal information other than to the extent necessary to perform services on behalf of the USOC); and (b) making any such personal information publicly available in identifiable form by any means, including but not limited to, by public posting on the Site, or through an e-mail service, message board or chat room.
+> Some unaffiliated third parties have agreed in writing to use your personal information only in accordance with the terms of this Privacy Policy. These unaffiliated third parties may use your personal information to send you information, advertising and promotional materials about their companies via mail, unless you opt out of receiving such third party materials.  For further information about opting out, see the section below on “Your Choices.”
 
-The USOC may use and/or disclose personal information about children, without parental consent, to the extent reasonably necessary to:
+  * Other Parties When Required By Law or as Necessary to Protect the Platform.  We may disclose your information to third parties in order to protect the legal rights, safety, and security of the USOC, our member organizations and the users of our Platform; enforce our Terms of Use; prevent fraud (or for risk management purposes); and comply with or respond to law enforcement or legal process or a request for cooperation by a government or other entity, whether or not legally required.
+  * In Connection With a Reorganization or Transfer of Assets _.  _If we sell all or part of our business, or make a sale or transfer of assets, or are otherwise involved in a merger or business transfer, or in the event of bankruptcy, we may transfer your information to one or more third parties as part of that transaction.
+  * Other Parties With Your Consent. We may share information about you with third parties when you consent to such sharing, including when you post information to a user profile or a public area of the Platform, such as a chat room, forum, blog, or other community tool.
+  * Aggregate Information.  We may disclose to third parties information that does not describe or identify individual users, such as aggregate website usage data or demographic reports.
 
-  * protect the security or integrity of our Site and online services; 
-  * take precautions against liability; 
-  * respond to judicial process; or 
-  * provide information to law enforcement agencies or for an investigation on a matter related to public safety, to the extent permitted by law. 
 
 
+**4.  ** **Your Choices**
 
-Parental Consent and Rights of Parents
+You have a number of choices about how we handle information we collect or receive about you.
 
-Before knowingly collecting personal information from a child, the USOC will use reasonable efforts to ensure that the parent or guardian of the child: (a) receives notice of our personal information collection, use and disclosure practices; and also (b) authorizes the collection and/or use of personal information from the child.
+  * Your Choice Not to Share Your Information or Receive Promotional Messages. You may always direct us not to share your Personal Information with third parties (other than our service providers), not to use your Personal Information to provide you with information or offers, and not to send you newsletters, emails or other communications by: (i) modifying your registered user information on the Platform; (ii) sending us an email at digitalmedia@usoc.org; (iii) contacting us by mail at United States Olympic Committee, 1 Olympic Plaza, Colorado Springs, Colorado 80909, Attn: TeamUSA.org; or (iv) following the removal instructions in the communication that you receive.
+  * Your Choice to Correct/Delete/Modify Your Information. If you wish to modify, verify, correct, or delete any of your Personal Information collected through the Platform, you may edit your registered user information or contact us at the above address or email. In accordance with our routine record keeping, we may delete certain records that contain Personal Information you have submitted through the Platforms. We are under no obligation to store such Personal Information indefinitely and disclaim any liability arising out of, or related to, the destruction of such Personal Information. It may not always possible to completely remove or delete all of your information from our databases without some residual data because of backups and other reasons.
+  * Your Choice  Not to Receive Targeted Ads. If you do not want to receive the benefits of targeted advertising, you may opt out of some network advertising programs that use your information by visiting the [NAI Opt-out page](http://www.networkadvertising.org/choices/). Please note that even if you choose to remove your information (opt-out), you will still see advertisements while you're browsing online. However the advertisements you see may be less relevant to you and your interests. Additionally, many network advertising programs allow you to view and manage the interest categories they have compiled from your online browsing activities. These interest categories help determine the types of targeted advertisements you may receive. The NAI Opt-Out Page provides a tool that identifies its member companies that have cookies on your browser and provides a mechanism to opt out of receiving cookies from those companies. Please note that if you opt-out of targeted advertising, we may still track your visits to the Platforms for our own analytics, operations and security purposes.
+  * “Do Not Track” Signals. Please note that while you may have the opportunity to opt-out of targeted advertising and you may be able to control the use of cookies through your web browser as described above, some web browsers may also give you the ability to enable a “do not track” setting. This setting sends a special signal to the websites you encounter while web browsing. Because there currently is no industry standard concerning what, if anything, websites should do when they receive such signals, the USOC currently does not take action in response to these signals.  If and when a final standard is established and accepted, we will reassess how to respond to these signals. For more information about “do not track,” visit [www.allaboutdnt.org](http://www.allaboutdnt.org/).
 
-In order for anyone to register as a registered user of the Site, enter any contest or promotion offered on the Site, sign-up for our newsletters, or otherwise participate in any e-mail services, message boards or chat rooms we may establish, he or she must submit an online form that includes such person's date of birth. If the given date of birth establishes that the person is under the age of 13, the Site automatically provides an online form that requires such person to enter an e-mail address for his or her parent or guardian. We will then send notice of our personal information collection, use and disclosure practices to the parent or guardian at the given e-mail address. Unless we receive authorization from that e-mail address to do so, we will not activate the child's account, and we will not knowingly collect any further personal information from the child. Further, we will delete all personal information previously provided to us by the child. Finally, if we do receive parental consent to the collection and/or use of personal information about the child, we will send a confirmatory e-mail to the e-mail address from which we received such consent, providing the parent or guardian the opportunity to revoke that consent.
+**5.  Data Security**
 
-Additionally, if a child wins any contest or promotion offered via the Site, notification and prizes are sent to the parent or guardian who originally provided the parental consent. We will not publish the name, age or image of any child who wins a contest without specific verifiable parental consent to do so. A parent or guardian who consents to our collection and use of personal information about his or her children has the right to simultaneously deny us permission to disclose that personal information.
+We have adopted security procedures to help protect against loss, misuse, and unauthorized access to the information we collect and receive.  Please note that no data transmission or storage can be guaranteed to be 100% secure.  As a result, while we strive to protect the information we maintain, we cannot guarantee or warrant the security of any information you disclose or transmit to our Platform and cannot be responsible for the theft, destruction, or inadvertent disclosure of information.
 
-Once we have received parental consent with respect to the collection, use and/or disclosure of personal information about a specific child, we will not collect, use and/or disclose personal information about that child in any way that materially differs from the practices set forth in our original notice to that child's parent or guardian without first providing notice of our new practices to the parent or guardian, and obtaining verifiable parental consent to the collection, use and/or disclosure of personal information about that child in accordance with our new practices.
+You are responsible for maintaining the confidentiality of your account password and for any access to or use of the Platform using your password, whether or not authorized by you.  Please notify us immediately of any unauthorized use of your password or account or any other breach of security.
 
-A parent or guardian of a child who has provided personal information to us has the following rights:
+**6.  Children’s Privacy**
 
-  * to require that we provide a description of the specific types or categories of personal information that we collect from children (such as name, address, e-mail address, favorite sports, hobbies and extracurricular activities); 
-  * to, at any time, refuse to permit our further collection, use or disclosure of any personal information about his or her child; 
+Our Platform is directed to a general audience.  Our Platform does not knowingly collect, use, or disclose personal information from children under the age of 13.  If you are under 13 years of age, please do not submit any personal information through our Platform without the express consent and participation of a parent or guardian. 
 
+  
 
-  * to review the personal information that we have collected from his or her child; 
-  * to require us to modify any personal information that we have collected from his or her child; and 
-  * to, any at time, require us to delete all personal information that we have collected from his or her child. 
 
+**7\. Links to Third Party Sites and Services**
 
+The Platform may contain links to other websites or online services that are operated by third parties and that are not under the direct control of the USOC.  Such links do not constitute an endorsement by the USOC of those other websites, the content displayed therein, or the persons or entities associated therewith.  This Privacy Policy does not apply to this third-party content.  We encourage you to review the privacy policies of these third-party websites or services.
 
-To exercise these rights, parents must contact us by one of the methods set forth in the CONTACTING US WITH RESPECT TO THIS PRIVACY POLICY section of this Privacy Policy.
+**8.  Users Outside the U.S**.
 
-Confidentiality, Security and Integrity of Personal Information Collected from Children Under the Age of 13
+The USOC is based in the United States, and, regardless of where you use our Platform or otherwise provide information to us, the information may be transferred to and maintained on servers located in the U.S.  Please note that any information we obtain about you will be stored in accordance with U.S. privacy laws, regulations, and standards, which may not be equivalent to the laws in your country of residence.  By using our Platform, you consent to this collection, transfer, storage, and processing of information to and in the U.S.
 
-We use industry-standard security techniques to provide secure transmission of personal information from users' computers to our servers, and to protect against the loss, misuse or alteration of personal information we have collected at the Site. Please refer to the SECURITY AND INTEGRITY OF PERSONAL INFORMATION section of this Privacy Policy.
+**9.  Privacy Policy Updates**
 
-**USE OF IP ADDRESSES**
+We may modify this Privacy Policy at any time by posting revisions to the Platform and revising the effective on this policy date, or by providing other appropriate notice.  We encourage you to periodically review this statement to be informed of how we are protecting your Personal Information.
 
-An IP address is a number that is automatically assigned to your computer whenever you're surfing the web. Web servers, the big computers that "serve up" web pages, automatically identify your computer by its IP address.
+**10.  Contact Us**
 
-When a user accesses web pages on our Site, our servers automatically log the user's IP address. The USOC uses IP addresses for purposes of system administration, auditing the use of the Site, and reporting aggregate information with respect to Site users to third parties. We do not normally link IP addresses to any information that personally identifies the user, meaning that the user remains anonymous to us. However, we will use IP addresses to determine the identity of a specific user: (a) as is required by law; (b) to comply with legal process; (c) to investigate claims with respect to use of the Site; (d) as is reasonably necessary to enforce the terms of the Agreement; and (d) as is reasonably necessary to protect the interests, rights or property of the USOC, its member organizations or others.
+If you have any questions about this Privacy Policy, please contact us at legal@usoc.org or write us at: United States Olympic Committee, 1 Olympic Plaza, Colorado Springs, Colorado 80909, Attn: TeamUSA.org. 
 
-Notwithstanding the foregoing, some services within the Site, such as message boards, may display a user's IP address along with his or her user name and message. If you choose to take advantage of such services, you acknowledge and agree that you have voluntarily provided to us information that causes your IP address to link to personally identifying information, and that our obligations with respect to use and disclosure shall be the same as those that apply to any other personal information that you have voluntarily provided to us. 
+To view our Terms of Use, please go [here](https://web.archive.org/Footer/Terms-of-Use).   
 
-**USE OF COOKIES**
-
-To enhance your experience with the Site, many of our web pages use "cookies." Cookies are text files we place in your computer's browser to save information. We use cookies to understand Site usage and to improve the content and offerings on the Site. For example, we may use cookies to personalize your experience at the Site (e.g., to recognize you by name when you return to the Site), save your password in password-protected areas, and enable you to use shopping carts on the Site. We never save your financial information in cookies. By showing how and when users use the Site, cookies help us see which areas are popular and which are not. 
-
-Cookies, by themselves, do not tell us your e-mail address or other personally identifiable information. However, if you choose to provide personally identifiable information about yourself to us via the Site, for example, by registering as a registered user of the Site, this personal information may be linked to the data stored in a cookie. 
-
-Most browsers are initially set up to accept cookies. You can reset your browser to refuse all cookies or to indicate when a cookie is being sent to you. However, please be aware that some parts of the Site will not function properly or may be considerably slower if you refuse to accept cookies. For example, without cookies, you will not be able to set personalized news preferences or you may have difficulty completing shopping transactions, entering contests or playing games.
-
-As you will see, third parties such as our sponsors display logos and advertisements on the Site. These advertisements may contain cookies. The use of advertising cookies sent by third party servers is standard in the Internet industry. The USOC does not control, or have any responsibility with respect to, these third party cookies. 
-
-**SECURITY AND INTEGRITY OF PERSONAL INFORMATION**
-
-We use industry-standard security techniques to provide secure transmission of your personal information from your computer to our servers, and to protect against the loss, misuse or alteration of personal information we have collected at the Site. When you transmit any financial information via the Site, we use industry-standard SSL (secure socket layer) encryption. Unfortunately, no data transmission over the Internet can be guaranteed to be 100% secure.
-
-As is explained in the Registration and Passwords section of the Agreement, you are responsible for maintaining the confidentiality of your registration information and password, and for all uses of your password. You should remember to sign out of your USOC account and close your browser window when you have finished using the Site, in order to protect against others' use of the Site under your password. For your protection, we will never ask you to divulge your password in an unsolicited phone call or e-mail.
-
-**OPT-OUT/OPT-IN PROCEDURES**
-
-Site users who are 13 years of age or older may OPT-OUT of:
-
-  * receiving mail, e-mail and/or phone calls from the USOC and its member organizations with respect to the USOC, its member organizations, and their respective products, services and upcoming events; 
-  * receiving information, advertising and promotional materials from third parties via mail. 
-
-
-
-You may OPT-OUT of any such use of your personal information by:
-
-  * using one of the methods described in the CONTACTING US section of this Privacy Policy; or 
-  * with respect to personal information you have provided in connection with a purchase from our online store, following the OPT-OUT procedures identified in, or linked to, your order form. 
-
-
-
-Site users who are 13 years of age or older may OPT-IN to receiving information, advertising and promotional materials from third parties via e-mail by using one of the methods described in the CONTACTING US section of this Privacy Policy.
-
-**CONTACTING US**
-
-If you have any questions or complaints about this Privacy Policy, including but not limited to, exercising parental rights, opting-out of receiving third party mailings, submitting questions with respect to our privacy practices, or requesting that we correct, update or delete personal information that you have previously provided to us by; please feel free to contact us via our website at [webmaster@usoc.org](mailto:webmaster@usoc.org) or write us at::
-
-United States Olympic Committee, 1 Olympic Plaza, Colorado Springs, Colorado 80909, Attn: TeamUSA.org
