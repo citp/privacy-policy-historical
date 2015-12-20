@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the serversmtp.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607022542id_/http%3A//www.serversmtp.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the serversmtp.com privacy policy that was archived on 2015-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151220042726id_/http%3A//www.serversmtp.com/en/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | smtp mail server
 
@@ -107,7 +107,8 @@ turboSMTP will investigate all complaints and will respond within 30 days of rec
 
 If you have any questions, comments or complaints about this Policy or our handling of your personal information, or if you wish to withdraw your consent to our use of your personal information or to request access to or update any information we have on file, please contact our Privacy Officer using the contact information below:
 
- **Delivery Tech Corp.**   
-5190 Governor Dr. Ste 105   
-San Diego, CA 92122 ﻿   
+ **Delivery Tech Corp.**
+
+4411 Morena Blvd #230  
+San Diego, CA 92117﻿   
 marketing@serversmtp.com﻿
