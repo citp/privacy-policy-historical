@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the seashepherd.org privacy policy that was archived on 2015-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150408220444id_/http%3A//www.seashepherd.org/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seashepherd.org privacy policy that was archived on 2015-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151220135613id_/http%3A//www.seashepherd.org/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy - Sea Shepherd
+# Privacy Policy - Sea Shepherd Conservation Society
+
+## Privacy Policy
 
 **Use of Text and Images**  
 If you would like to publish information or images that you find on our website, please send your request to [webmanager@seashepherd.org](mailto:webmanager@seashepherd.org). Where text or images are posted on our site with the permission of the original copyright holder, a copyright statement appears at the bottom of the page.
@@ -31,3 +33,6 @@ Our site provides users the opportunity to opt-out of receiving communications f
 
 **Questions about our policies**  
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Website, you can contact us at: [webmanager@seashepherd.org](mailto:webmanager@seashepherd.org).
+
+[](https://my.seashepherd.org/donate)   
+
